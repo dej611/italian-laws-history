@@ -1,0 +1,91 @@
+Allegato 5.1 
+ 
+
+ 
+ 
+
+ I supporti sui quali devono essere registrati i dati delle 
+ 
+
+ attestazioni rilasciate ai contribuenti IVA dalle aziende di credito ed i dati dei versamenti effettuati a norma dell'art. 3 del presente decreto ministeriale sono costituiti da nastri magnetici aventi le seguenti caratteristiche: 
+ 
+
+ numero di tracce . . . . . . . . . . = 9 
+ 
+
+ numero di caratteri per pollice. . . = 1600, oppure 6250; 
+ 
+
+ tipo di codifica . . . . . . . . . . = EBCDIC, con bit di 
+ 
+
+ parità = ODD; 
+ 
+
+ oppure nastro a cartuccia di tipo IBM 3480 con le seguenti caratteristiche: 
+ 
+
+ numero di tracce . . . . . . . . . . = 18 
+ 
+
+ numero di caratteri per pollice. . . = 38.000; 
+ 
+
+ tipo di codifica . . . . . . . . . . = EBCDIC, con bit di 
+ 
+
+ parità = ODD. 
+ 
+
+ Non è ammessa la presenza di label, nè standard, nè non standard. 
+ 
+
+ Sul contenitore di ogni bobina deve essere apposta una etichetta riportante le seguenti indicazioni: 
+ 
+
+ destinatario: centro informativo della Direzione generale delle tasse e dell imposte indirette sugli affari, via Mario Carucci n. 99 00143 Roma; 
+ 
+
+ codice del C.E.D. che ha predisposto la bobina; 
+ 
+
+ denominazione in chiaro del C.E.D. che ha predisposto la bobina; azienda o ente che trasmette il supporto; 
+ 
+
+ densità di registrazione (6250 o 1600); 
+ 
+
+ oggetto: operazioni IVA relative a periodo 
+ 
+
+ numero di bobine su cui sono contenuti i dati delle attestazioni relative al periodo considerato; 
+ 
+
+ numero d'ordine della bobina nell'ambito della registrazione periodica. 
+ 
+
+ La bobina può contenere informazioni relative a più aziende di credito; per ciascuna di queste vengono registrati i dati delle operazioni suddivise per dipendenza capofila e ordinate secondo il numero della distinta di pagamento; tutti i dati delle attestazioni relative ad una medesima distinta o dichiarazione di pagamento costituiscono la "unità di registrazione" e pertanto devono necessariamente essere registrati sulla stessa bobina. 
+ 
+
+ Come primo elemento del contenuto di ogni bobina deve essere inserito un "record di testa" al fine di permettere, la fase di lettura del nastro, la classificazione automatica delle informazioni in esso contenute. 
+ 
+
+ I dati contenuti nella dichiarazione di pagamento di cui all'allegato 4 costituiscono una "unità di registrazione" a se stante. 
+ 
+
+ L'ente che trasmette i supporti relativi ad un determinato periodo, compatibilmente con l'integrità delle "unità di registrazione", che deve figurare al completo su una unica bobina, deve condensare su un numero minimo di bobine i dati del periodo. 
+ 
+
+ Ciascuna "unità di registrazione" è composta dai seguenti records lunghi 56 caratteri: 
+ 
+
+ 1) record di testa; 
+ 
+
+ 2) record dettaglio. 
+ 
+
+ La lunghezza del record fisico è di 5600 bytes, per cui il fattore di bloccaggio è di 100 records logici. 
+ 
+
+ Il fattore di bloccaggio prescelto deve essere mantenuto per l'intero "file"; nel caso che l'ultimo blocco sia incompleto verranno aggiunti dei records di riempimento formati da tutti 9.

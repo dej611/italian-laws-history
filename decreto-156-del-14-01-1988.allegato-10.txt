@@ -1,0 +1,169 @@
+Allegato 5.4 
+ 
+
+ 
+ 
+
+ Il campo "codice errore partita IVA" normalmente posto = 0/, viene 
+ 
+
+ impostato a 1 nel caso che la quarta, terza e seconda cifra, a partire da destra del numero di partita IVA, indicato dal contribuente, non corrisponda al codice dell'ufficio nella cui circoscrizione territoriale ha sede la dipendenza delegata secondo la tabella allegato 2; tale campo deve inoltre essere impostato ad 1 nel caso il codice di controllo, cioè l'undicesimo carattere del numero di partita IVA, non corrisponda al risultato della verifica seguente: 
+ 
+
+ si moltiplicano per due le cifre di posizione pari (2a, 4a, 6a, 8a e 10a) a partire da sinistra del campo "numero di partita IVA": tutte le singole cifre componenti i prodotti così ottenuti vanno poi sommate fra loro e con le cifre di ordine dispari (1a, 3a, 5a, 7a e 9a) del numero di partita. Nel caso che l'ultima cifra del risultato ottenuto sia zero, il codice di controllo del numero di partita IVA deve essere uguale a zero, altrimenti deve essere uguale al completamento a dieci della suddetta ultima cifra. 
+ 
+
+ Il campo "codice datore di lavoro" deve essere impostato = 0/ nel caso in cui non risulta barrata alcuna delle tre caselle predisposte sul modello. 
+ 
+
+ Il campo "codice errore del tipo datore di lavoro" normalmente deve essere posto = 0/. Deve essere impostato a 1 se è stato segnalato un "tipo datore di lavoro" = 1 (datore di lavoro non agricolo) e non sono state codificate sul modello le informazioni di cui al decreto ministeriale 24 febbraio 1984. 
+ 
+
+ Nella eventualità che sia stata barrata più di una casella relativa alla segnalazione "tipo datore di lavoro", questa segnalazione va considerata come non codificata ("tipo datore di lavoro" = 0/) ed il campo "codice di errore nel tipo datore di lavoro" va impostato = 1. 
+ 
+
+ Il campo "codice errore periodo d'imposta" normalmente posto = 0/, viene impostato ad 1 nel caso il contribuente non abbia indicato il periodo di riferimento della delega di pagamento, abbia indicato più periodi di riferimento, ovvero la data di conferimento della delega in relazione al periodo di riferimento, non è compresa negli estremi precisati nella seguente tabella: 
+ 
+
+ 
+ 
+
+ Periodo 
+ 
+
+ di riferimento Estremi di tempestività della data delega 
+ 
+
+ --- -- 
+ 
+
+ 01 1° febbraio (Compreso) 5 marzo, dell'anno di riferimento 
+ 
+
+ 02 1° marzo (Compreso) 5 aprile, dell'anno di riferimento 
+ 
+
+ 03 1° aprile (Compreso) 5 maggio, dell'anno di riferimento 
+ 
+
+ 04 1° maggio (Compreso) 5 giugno, dell'anno di riferimento 
+ 
+
+ 05 1° giugno (Compreso) 5 luglio, dell'anno di riferimento 
+ 
+
+ 06 1° luglio (Compreso) 5 agosto, dell'anno di riferimento 
+ 
+
+ 07 1° agosto (Compreso) 5 settembre, dell'anno di 
+ 
+
+ riferimento 
+ 
+
+ 08 1° settembre (Compreso) 5 ottobre, dell'anno di 
+ 
+
+ riferimento 
+ 
+
+ 09 1° ottobre (Compreso) 5 novembre, dell'anno di 
+ 
+
+ riferimento 
+ 
+
+ 10 1° novembre (Compreso) 5 dicembre, dell'anno di 
+ 
+
+ riferimento 
+ 
+
+ 11 1° dicembre (Compreso) 5 gennaio, dell'anno successivo 
+ 
+
+ a quello di riferimento 
+ 
+
+ 12 1° gennaio (Compreso) 5 febbraio, dell'anno successivo 
+ 
+
+ a quello di riferimento 
+ 
+
+ 31 1° aprile (Compreso) 5 maggio, dell'anno di riferimento 
+ 
+
+ 32 1° luglio (Compreso) 5 agosto, dell'anno di riferimento 
+ 
+
+ 33 1° ottobre (Compreso) 5 novembre, dell'anno di 
+ 
+
+ riferimento 
+ 
+
+ 34 1° gennaio (Compreso) 5 febbraio, dell'anno successivo 
+ 
+
+ a quello di riferimento 
+ 
+
+ 66 1° gennaio dell'anno di riferimento (Compreso) 31 marzo 
+ 
+
+ dell'anno successivo a quello di riferimento 
+ 
+
+ 99 1° gennaio (Compreso) 5 marzo, dell'anno successivo 
+ 
+
+ a quello di riferimento 
+ 
+
+ Nel caso che, la data massima di ciascuno degli intervalli in precedenza indicati, cada di sabato o in un giorno festivo essa si intende prorogata al primo giorno successivo non festivo. 
+ 
+
+ Il campo "codice errore sigla provincia" normalmente posto = 0/ viene impostato ad 1 nel caso la sigla della provincia del domicilio fiscale indicata dal contribuente non coincida con la sigla della provincia ove ha sede la dipendenza delegata. 
+ 
+
+ Prima di inoltrare la bobina al centro informativo della Direzione generale delle tasse e delle imposte indirette sugli affari occorre controllare ogni "unità di registrazione" con il relativo pagamento. 
+ 
+
+ Deve essere calcolato, per ogni "unità di registrazione", il totale dei versamenti ricevuti, e delle commissioni spettanti, nonchè l'importo netto da pagare; ciascuno di questi importi deve essere uguale al corrispondente dato presente nella distinta o dichiarazione di pagamento. 
+ 
+
+ Nel caso di discordanza fra distinta o dichiarazione di pagamento e "unità di registrazione" quest'ultima non deve essere inserita nel supporto magnetico tranne che l'errore sia stato commesso nel compilare il documento di pagamento. 
+ 
+
+ In tal caso infatti occorrerà procedere come segue: 
+ 
+
+ - rettifica presso l'ufficio IVA del documento originale, se l'errore riguarda i dati identificativi dello stesso; 
+ 
+
+ - integrazione o detrazione dell'importo versato tramite un successivo documento di pagamento, se l'errore riguarda i dati contabili. 
+ 
+
+ La "unità di registrazione" eventualmente omessa deve essere registrata, appena corretta, su apposita bobina da consegnare con ogni sollecitudine anche al di fuori delle scadenze fissate nell'art. 
+ 
+
+ 6. 
+ 
+
+ Nonostante i controlli suddetti, può rendersi necessario procedere alla correzione di una "unità di registrazione" già inoltrata al centro informativo. 
+ 
+
+ In tal caso dovrà sostituirsi l'intera "unità di registrazione" inesatta con una nuova unità composta da un record di testa sostitutivo e da records dettaglio. 
+ 
+
+ 4) Descrizione del record di testa sostitutivo 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
