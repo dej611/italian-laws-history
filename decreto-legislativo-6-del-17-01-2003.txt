@@ -100,10 +100,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  In caso di insolvenza della società, per le obbligazioni sociali sorte nel periodo in cui le azioni sono appartenute ad una sola persona, questa risponde illimitatamente quando i conferimenti non siano stati effettuati secondo quanto previsto dall'articolo 2342 o fin quando non sia stata attuata la pubblicità prescritta dall'articolo 2362. 
  
 
- 2325-bis (Società che fanno ricorso al mercato del capitale di rischio). - Ai fini dell'applicazione del presente capo, sono società che fanno ricorso al mercato del capitale di rischio le società con azioni quotate in mercati regolamentati o diffuse fra il pubblico in misura rilevante. 
+ 2325-bis (Società che fanno ricorso al mercato del capitale di rischio). - Ai fini dell'applicazione del presente 
+ ((titolo))
+
+ , sono società che fanno ricorso al mercato del capitale di rischio le società con azioni quotate in mercati regolamentati o diffuse fra il pubblico in misura rilevante. 
  
 
- Le norme di questo capo si applicano alle società emittenti di azioni quotate in mercati regolamentati in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali. 
+ 
+ ((Le norme di questo titolo si applicano alle società con azioni))
+
+ quotate in mercati regolamentati in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali. 
  
 
  2326 (Denominazione sociale). - La denominazione sociale, in qualunque modo formata, deve contenere l'indicazione di società per azioni. 
@@ -118,7 +124,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 
  
 
- 1) il cognome e il nome o la denominazione, la data e il luogo di nascita o di costituzione, il domicilio o la sede, la cittadinanza dei soci e degli eventuali promotori, nonchè il numero delle azioni assegnate a ciascuno di essi; 
+ 1) il cognome e il nome o la denominazione, la data e il luogo di nascita o 
+ ((lo Stato))
+
+ di costituzione, il domicilio o la sede, la cittadinanza dei soci e degli eventuali promotori, nonchè il numero delle azioni assegnate a ciascuno di essi; 
  
 
  2) la denominazione e il comune ove sono poste la sede della società e le eventuali sedi secondarie; 
@@ -148,7 +157,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  10) il numero dei componenti il collegio sindacale; 
  
 
- 11) la nomina dei primi amministratori e sindaci e, quando previsto, del soggetto al quale è demandato il controllo contabile; 
+ 11) la nomina dei primi amministratori e sindaci 
+ ((ovvero dei componenti del consiglio di sorveglianza))
+
+ e, quando previsto, del soggetto al quale è demandato il controllo contabile; 
  
 
  12) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico della società; 
@@ -271,7 +283,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) delibera sulla riserva di partecipazione agli utili fatta a proprio favore dai promotori; 
  
 
- 4) nomina gli amministratori, i membri del collegio sindacale e, quando previsto, il soggetto cui è demandato il controllo contabile. 
+ 4) nomina gli amministratori, 
+ ((ed i sindaci ovvero i componenti del consiglio di sorveglianza))
+
+ e, quando previsto, il soggetto cui è demandato il controllo contabile. 
  
 
  L'assemblea è validamente costituita con la presenza della metà dei sottoscrittori. 
@@ -424,7 +439,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla società, ai soci ed ai terzi. 
  
 
- 2344 (Mancato pagamento delle quote). - Se il socio non esegue i pagamenti dovuti, decorsi quindici giorni dalla pubblicazione di una diffida nella Gazzetta Ufficiale della Repubblica, gli amministratori, se non ritengono utile promuovere azione per l'esecuzione del conferimento, offrono le azioni agli altri soci, in proporzione della loro partecipazione, per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte possono far vendere le azioni a rischio e per conto del socio, a mezzo di una banca o di un intermediario autorizzato alla negoziazione nei mercati regolamentati. 
+ 2344 (Mancato pagamento delle quote). - Se il socio non esegue i pagamenti dovuti, decorsi quindici giorni dalla pubblicazione di una diffida nella Gazzetta Ufficiale della Repubblica, gli amministratori, se non ritengono utile promuovere azione per l'esecuzione del conferimento, offrono le azioni agli altri soci, in proporzione 
+ ((alla loro partecipazione))
+
+ , per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte possono far vendere le azioni a rischio e per conto del socio, a mezzo di una banca o di un intermediario autorizzato alla negoziazione 
+ ((in mercati regolamentati))
+
+ . 
  
 
  Qualora la vendita non possa aver luogo per mancanza di compratori, gli amministratori possono dichiarare decaduto il socio, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni. 
@@ -499,13 +520,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  2349 (Azioni e strumenti finanziari a favore dei prestatori di lavoro). - Se lo statuto lo prevede, l'assemblea straordinaria può deliberare l'assegnazione di utili ai prestatori di lavoro dipendenti delle società o di società controllate mediante l'emissione, per un ammontare corrispondente agli utili stessi, di speciali categorie di azioni da assegnare individualmente ai prestatori di lavoro, con norme particolari riguardo alla forma, al modo di trasferimento ed ai diritti spettanti agli azionisti. Il capitale sociale deve essere aumentato in misura corrispondente. 
  
 
- L'assemblea straordinaria può altresì deliberare l'assegnazione ai dipendenti della società o di società controllate di strumenti finanziari, diversi dalle azioni, forniti di diritti patrimoniali o diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso possono essere previste norme particolari riguardo alle condizioni di esercizio dei diritti attribuiti, alla possibilità di trasferimento ed alle eventuali cause di decadenza o riscatto. 
+ L'assemblea straordinaria può altresì deliberare l'assegnazione ai 
+ ((prestatori di lavoro))
+
+ dipendenti della società o di società controllate di strumenti finanziari, diversi dalle azioni, forniti di diritti patrimoniali o 
+ ((anche di))
+
+ diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso possono essere previste norme particolari riguardo alle condizioni di esercizio dei diritti attribuiti, alla possibilità di trasferimento ed alle eventuali cause di decadenza o riscatto. 
  
 
  2350 (Diritto agli utili e alla quota di liquidazione). - Ogni azione attribuisce il diritto a una parte proporzionale degli utili netti e del patrimonio netto risultante dalla liquidazione, salvi i diritti stabiliti a favore di speciali categorie di azioni. 
  
 
- Fuori dai casi di cui all'articolo 2447-bis, la società può emettere azioni fornite di diritti patrimoniali correlati ai risultati dell'attività sociale in un determinato settore. Lo statuto stabilisce i criteri di individuazione dei costi e ricavi imputabili al settore, le modalità di rendicontazione, i diritti attribuiti a tali azioni, nonchè l'eventuali condizioni e modalità di conversione in azioni di altra categoria. 
+ Fuori dai casi di cui all'articolo 2447-bis, la società può emettere azioni fornite di diritti patrimoniali correlati ai risultati dell'attività sociale in un determinato settore. Lo statuto stabilisce i criteri di individuazione dei costi e ricavi imputabili al settore, le modalità di rendicontazione, i diritti attribuiti a tali azioni, nonchè 
+ ((le eventuali))
+
+ condizioni e modalità di conversione in azioni di altra categoria. 
  
 
  Non possono essere pagati dividendi ai possessori delle azioni previste dal precedente comma se non nei limiti degli utili risultanti dal bilancio della società. 
@@ -547,7 +577,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti nel presente articolo spettano, nel caso di pegno o di usufrutto, sia al socio sia al creditore pignoratizio o all'usufruttuario; nel caso di sequestro sono esercitati dal custode. 
  
 
- 2353 (Azioni di godimento). - Salvo diversa disposizione dello statuto, le azioni di godimento attribuite ai possessori delle azioni rimborsate non danno diritto di voto nell'assemblea. Esse concorrono nella ripartizione degli utili che residuano dopo il pagamento delle azioni non rimborsate di un dividendo pari all'interesse legale e, nel caso di liquidazione, nella ripartizione del patrimonio sociale residuo dopo il rimborso delle altre azioni al loro valore nominale. 2354 (Titoli azionari). - I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non stabiliscano diversamente. 
+ 2353 (Azioni di godimento). - Salvo diversa disposizione dello statuto, le azioni di godimento attribuite ai possessori delle azioni rimborsate non danno diritto di voto nell'assemblea. Esse concorrono nella ripartizione degli utili che residuano dopo il pagamento delle azioni non rimborsate di un dividendo pari all'interesse legale e, nel caso di liquidazione, nella ripartizione del patrimonio sociale residuo dopo il rimborso delle altre azioni al loro valore nominale. 2354 (Titoli azionari). - I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non 
+ ((stabiliscono))
+
+ diversamente. 
  
 
  Finchè le azioni non siano interamente liberate, non possono essere emessi titoli al portatore. 
@@ -655,7 +688,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Una riserva indisponibile pari all'importo delle azioni proprie iscritto all'attivo del bilancio deve essere costituita e mantenuta finchè le azioni non siano trasferite o annullate. 
  
 
- 2357-quater (Divieto di sottoscrizione delle proprie azioni). - Salvo quanto previsto dall'articolo 2357-ter, comma secondo, la società non può sottoscrivere azioni proprie. 
+ 2357-quater (Divieto di sottoscrizione delle proprie azioni). - Salvo quanto previsto dall'articolo 2357-ter, 
+ ((secondo comma))
+
+ , la società non può sottoscrivere azioni proprie. 
  
 
  Le azioni sottoscritte in violazione del divieto stabilito nel precedente comma si intendono sottoscritte e devono essere liberate dai promotori e dai soci fondatori o, in caso di aumento del capitale sociale, dagli amministratori. La presente disposizione non si applica a chi dimostri di essere esente da colpa. 
@@ -742,7 +778,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  L'assunzione di partecipazioni in altre imprese comportante una responsabilità illimitata per le obbligazioni delle medesime deve essere deliberata dall'assemblea; di tali partecipazioni gli amministratori danno specifica informazione nella nota integrativa del bilancio. 
  
 
- 2362 (Unico azionista). - Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o di costituzione, del domicilio o della sede e cittadinanza dell'unico socio. 
+ 2362 (Unico azionista). - Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o 
+ ((lo Stato))
+
+ di costituzione, del domicilio o della sede e cittadinanza dell'unico socio. 
  
 
  Quando si costituisce o ricostituisce la pluralità dei soci, gli amministratori ne devono depositare apposita dichiarazione per l'iscrizione nel registro delle imprese. 
@@ -833,6 +872,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  L'avviso deve essere pubblicato nella Gazzetta Ufficiale della Repubblica o in almeno un quotidiano indicato nello statuto almeno quindici giorni prima di quello fissato per l'assemblea. 
+ ((se i quotidiani indicati nello statuto hanno cessato le pubblicazioni, l'avviso deve essere pubblicato nella Gazzetta Ufficiale))
+
+ . 
  
 
  Lo statuto delle società che non fanno ricorso al mercato del capitale di rischio può, in deroga al comma precedente, consentire la convocazione mediante avviso comunicato ai soci con mezzi che garantiscano la prova dell'avvenuto ricevimento almeno otto giorni prima dell'assemblea. 
@@ -877,7 +919,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Lo statuto può richiedere maggioranze più elevate, tranne che per l'approvazione del bilancio e per la nomina e la revoca delle cariche sociali. 
  
 
- Nelle società che non fanno ricorso al mercato del capitale di rischio è necessario, anche in seconda convocazione, il voto favorevole di tanti soci che rappresentino più di un terzo del capitale sociale per le deliberazioni concernenti il cambiamento dell'oggetto sociale, la trasformazione della società, lo scioglimento anticipato, la proroga della società, la revoca dello stato di liquidazione, il trasferimento della sede sociale all'estero e l'emissione di azioni privilegiate. 
+ Nelle società che non fanno ricorso al mercato del capitale di rischio è necessario, anche in seconda convocazione, il voto favorevole di tanti soci che rappresentino più di un terzo del capitale sociale per le deliberazioni concernenti il cambiamento dell'oggetto sociale, la trasformazione della società, lo scioglimento anticipato, la proroga della società, la revoca dello stato di liquidazione, il trasferimento della sede sociale all'estero 
+ ((e l'emissione delle azioni di cui al secondo comma dell'articolo 2351.))
+
+ 
  
 
  Lo statuto può prevedere eventuali ulteriori convocazioni dell'assemblea, alle quali si applicano le disposizioni del terzo, quarto e quinto comma. 
@@ -955,7 +1000,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  Alle assemblee speciali si applicano le disposizioni relative alle assemblee straordinarie. 
  
 
- 2377 (Annullabilità delle deliberazioni). - Le deliberazioni che non sono prese in conformità della legge o dello statuto possono essere impugnate dai soci assenti, dissenzienti od astenuti, dagli amministratori, dal consiglio di sorveglianza e dal collegio sindacale. 
+ 2377 (Annullabilità delle deliberazioni). - 
+ ((Le deliberazioni dell'assemblea, prese in conformità della legge e dell'atto sostitutivo, vincolano tutti i soci, ancorchè non intervenuti o dissenzienti))
+
+ . 
+ 
+
+ Le deliberazioni che non sono prese in conformità della legge o dello statuto possono essere impugnate dai soci assenti, dissenzienti od astenuti, dagli amministratori, dal consiglio di sorveglianza e dal collegio sindacale. 
  
 
  L'impugnazione può essere proposta dai soci quando possiedono tante azioni aventi diritto di voto con riferimento alla deliberazione che rappresentino, anche congiuntamente, l'uno per mille del capitale sociale nelle società che fanno ricorso al mercato del capitale di rischio e il cinque per cento nelle altre; lo statuto può ridurre o escludere questo requisito. Per l'impugnazione delle deliberazioni delle assemblee speciali queste percentuali sono riferite al capitale rappresentato dalle azioni della categoria. 
@@ -991,7 +1042,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2378 (Procedimento d'impugnazione). - L'impugnazione è proposta con atto di citazione davanti al tribunale del luogo dove la società ha sede. 
  
 
- Il socio o i soci opponenti devono dimostrarsi possessori al tempo dell'impugnazione del numero delle azioni previsto dal secondo comma dell'articolo 2377. Fermo restando quanto disposto dall'articolo 111 del codice di procedura civile, qualora nel corso del processo venga meno a seguito di trasferimenti per atto tra vivi il richiesto numero delle azioni, il giudice, previa se del caso revoca del provvedimento di sospensione dell'esecuzione della deliberazione, non può pronunciare l'annullamento e provvede sul risarcimento dell'eventuale danno, ove richiesto. 
+ Il socio o i soci opponenti devono dimostrarsi possessori al tempo dell'impugnazione del numero delle azioni previsto dal 
+ ((terzo comma))
+
+ dell'articolo 2377. Fermo restando quanto disposto dall'articolo 111 del codice di procedura civile, qualora nel corso del processo venga meno a seguito di trasferimenti per atto tra vivi il richiesto numero delle azioni, il giudice, previa se del caso revoca del provvedimento di sospensione dell'esecuzione della deliberazione, non può pronunciare l'annullamento e provvede sul risarcimento dell'eventuale danno, ove richiesto. 
  
 
  Con ricorso depositato contestualmente al deposito, anche in copia, della citazione, l'impugnante può chiedere la sospensione dell'esecuzione della deliberazione. In caso di eccezionale e motivata urgenza, il presidente del tribunale, omessa la convocazione della società convenuta, provvede sull'istanza con decreto motivato, che deve altresì contenere la designazione del giudice per la trattazione della causa di merito e la fissazione, davanti al giudice designato, entro quindici giorni, dell'udienza per la conferma, modifica o revoca dei provvedimenti emanati con il decreto, nonchè la fissazione del termine per la notificazione alla controparte del ricorso e del decreto. 
@@ -1000,7 +1054,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il giudice designato per la trattazione della causa di merito, sentiti gli amministratori e sindaci, provvede valutando comparativamente il pregiudizio che subirebbe il ricorrente dalla esecuzione e quello che subirebbe la società dalla sospensione dell'esecuzione della deliberazione; può disporre in ogni momento che i soci opponenti prestino idonea garanzia per l'eventuale risarcimento dei danni. All'udienza, il giudice, ove lo ritenga utile, esperisce il tentativo di conciliazione eventualmente suggerendo le modificazioni da apportare alla deliberazione impugnata e, ove la soluzione appaia realizzabile, rinvia adeguatamente l'udienza. 
  
 
- Tutte le impugnazioni relative alla medesima deliberazione, anche se separatamente proposte ed ivi comprese le domande proposte ai sensi del terzo comma dell'articolo 2377, devono essere istruite congiuntamente e decise con unica sentenza. Salvo quanto disposto dal quarto comma del presente articolo, la trattazione della causa di merito ha inizio trascorso il termine stabilito nel quinto comma dell'articolo 2377. 
+ Tutte le impugnazioni relative alla medesima deliberazione, anche se separatamente proposte ed ivi comprese le domande proposte ai sensi del 
+ ((quarto comma))
+
+ dell'articolo 2377, devono essere istruite congiuntamente e decise con unica sentenza. Salvo quanto disposto dal quarto comma del presente articolo, la trattazione della causa di merito ha inizio trascorso il termine stabilito nel 
+ ((sesto comma))
+
+ dell'articolo 2377. 
+ 
+
+ 
+ ((I dispositivi del provvedimento di sospensione e della sentenza che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese))
+
+ . 
  
 
  2379 (Nullità delle deliberazioni). - Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di impossibilità o illiceità dell'oggetto la deliberazione può essere impugnata da chiunque vi abbia interesse entro tre anni dalla sua iscrizione o deposito nel registro delle imprese, se la deliberazione vi è soggetta, o dalla trascrizione nel libro delle adunanze dell'assemblea, se la deliberazione non è soggetta nè a iscrizione nè a deposito. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attività illecite o impossibili. 
@@ -1009,10 +1075,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  Nei casi e nei termini previsti dal precedente comma l'invalidità può essere rilevata d'ufficio dal giudice. 
  
 
- Ai fini di quanto previsto dal primo comma la convocazione non si considera mancante nel caso d'irregolarità dell'avviso, se questo proviene da un componente dell'organo di amministrazione o di controllo della società ed è idoneo a consentire a coloro che hanno diritto di intervenire di essere tempestivamente avvertiti della convocazione e della data dell'assemblea. Il verbale non si considera mancante se contiene la data della deliberazione e il suo oggetto ed è sottoscritto dal presidente dell'assemblea, o dal presidente del consiglio d'amministrazione o del consiglio di sorveglianza e dal segretario o dal notaio. 
+ Ai fini di quanto previsto dal primo comma la convocazione non si considera mancante nel caso d'irregolarità dell'avviso, se questo proviene da un componente dell'organo di amministrazione o di controllo della società ed è idoneo a consentire a coloro che hanno diritto di intervenire di essere 
+ ((preventivamente))
+
+ avvertiti della convocazione e della data dell'assemblea. Il verbale non si considera mancante se contiene la data della deliberazione e il suo oggetto ed è sottoscritto dal presidente dell'assemblea, o dal presidente del consiglio d'amministrazione o del consiglio di sorveglianza e dal segretario o dal notaio. 
  
 
- Si applicano, in quanto compatibili, il sesto e settimo comma dell'articolo 2377. 
+ Si applicano, in quanto compatibili, il 
+ ((settimo e ottavo comma))
+
+ dell'articolo 2377. 
  
 
  2379-bis (Sanatoria della nullita). - L'impugnazione della deliberazione invalida per mancata convocazione non può essere esercitata da chi anche successivamente abbia dichiarato il suo assenso allo svolgimento dell'assemblea. 
@@ -1084,7 +1156,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Non possono essere delegate le attribuzioni indicate negli articoli 2420-ter, 2423, 2443, 2446, 2447, 2501-ter e 2506-bis. 
  
 
- Gli organi delegati curano che l'assetto organizzativo, amministrativo e contabile sia adeguato alla natura e alle dimensioni dell'impresa e riferiscono al consiglio di amministrazione e al collegio sindacale, con la periodicità fissata dallo statuto e in ogni caso almeno ogni centottanta giorni, sul generale andamento della gestione e sulla sua prevedibile evoluzione nonchè sulle operazioni di maggior rilievo, per le loro dimensioni o caratteristiche, effettuate dalla società e dalle sue controllate. 
+ Gli organi delegati curano che l'assetto organizzativo, amministrativo e contabile sia adeguato alla natura e alle dimensioni dell'impresa e riferiscono al consiglio di amministrazione e al collegio sindacale, con la periodicità fissata dallo statuto e in ogni caso almeno ogni 
+ ((sei mesi))
+
+ , sul generale andamento della gestione e sulla sua prevedibile evoluzione nonchè sulle operazioni di maggior rilievo, per le loro dimensioni o caratteristiche, effettuate dalla società e dalle sue controllate. 
  
 
  Gli amministratori sono tenuti ad agire in modo informato; ciascun amministratore può chiedere agli organi delegati che in consiglio siano fornite informazioni relative alla gestione della società. 
@@ -1564,7 +1639,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  e) presenta la denunzia al tribunale di cui all'articolo 2409; 
  
 
- f) riferisce per iscritto almeno una volta all'anno all'assemblea sull'attività di vigilanza svolta, sulle omissioni e sui fatti censurabili rilevati. 
+ f) riferisce per iscritto almeno una volta all'anno all'assemblea sull'attività di vigilanza svolta, sulle omissioni e sui fatti censurabili rilevati; 
+ 
+
+ 
+ ((f-bis) se previsto dallo statuto, delibera in ordine ai piani strategici, industriali e finanziari della società predisposti dal consiglio di gestione, ferma in ogni caso la responsabilità di questo per gli atti compiuti.))
+
+ 
  
 
  Lo statuto può prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea. 
@@ -1669,7 +1750,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Non è soggetta al limite di cui al primo comma, e non rientra nel calcolo al fine del medesimo, l'emissione di obbligazioni garantite da ipoteca di primo grado su immobili di proprietà della società, sino a due terzi del valore degli immobili medesimi. 
  
 
- Il primo e il secondo comma non si applicano all'emissione di obbligazioni effettuata da società le cui azioni siano quotate in mercati regolamentati, limitatamente alle obbligazioni destinate ad essere quotate negli stessi o in altri mercati regolamentati. 
+ Il primo e il secondo comma non si applicano all'emissione di obbligazioni effettuata da società 
+ ((con azioni))
+
+ quotate in mercati regolamentati, limitatamente alle obbligazioni destinate ad essere quotate negli stessi o in altri mercati regolamentati. 
  
 
  Quando ricorrono particolari ragioni che interessano l'economia nazionale, la società può essere autorizzata con provvedimento dell'autorità governativa, ad emettere obbligazioni per somma superiore a quanto previsto nel presente articolo, con l'osservanza dei limiti, delle modalità e delle cautele stabilite nel provvedimento stesso. 
@@ -1681,7 +1765,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2413 (Riduzione del capitale). - Salvo i casi previsti dal terzo, quarto e quinto comma dell'articolo 2412, la società che ha emesso obbligazioni non può ridurre volontariamente il capitale sociale o distribuire riserve se rispetto all'ammontare delle obbligazioni ancora in circolazione il limite di cui al primo comma dell'articolo medesimo non risulta più rispettato. 
  
 
- Se la riduzione del capitale sociale è obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinchè l'ammontare del capitale sociale e delle riserve non eguagli l'ammontare delle obbligazioni in circolazione. 
+ Se la riduzione del capitale sociale è obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinchè l'ammontare del capitale sociale 
+ ((, della riserva legale e delle riserve disponibili non eguagli la metà dell'ammontare delle obbligazioni in circolazione.))
+
+ 
  
 
  2414 (Contenuto delle obbligazioni). - I titoli obbligazionari devono indicare: 
@@ -1699,10 +1786,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) l'ammontare complessivo dell'emissione, il valore nominale di ciascun titolo, i diritti con essi attribuiti, il rendimento o i criteri per la sua determinazione e il modo di pagamento e di rimborso, l'eventuale subordinazione dei diritti degli obbligazionisti a quelli di altri creditori della società; 
  
 
- 5) le eventuali garanzie da cui sono assistiti. 
+ 5) le eventuali garanzie da cui sono assistiti; 
+ 
+
+ 
+ ((6) la data di rimborso del prestito e gli estremi dell'eventuale prospetto informativo.))
+
+ 
  
 
  2414-bis (Costituzione delle garanzie). - La deliberazione di emissione di obbligazioni che preveda la costituzione di garanzie reali a favore dei sottoscrittori deve designare un notaio che, per conto dei sottoscrittori, compia le formalità necessarie per la costituzione delle garanzie medesime. 
+ 
+
+ 
+ ((Qualora un azionista pubblico garantisca i titoli obbligazionari si applica il numero 5) dell'articolo 2414))
+
+ . 
  
 
  2415 (Assemblea degli obbligazionisti). - L'assemblea degli obbligazionisti delibera: 
@@ -1735,7 +1834,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  All'assemblea degli obbligazionisti possono assistere gli amministratori ed i sindaci. 
  
 
- 2416 (Impugnazione delle deliberazioni dell'assemblea). - Le deliberazioni prese dall'assemblea degli obbligazionisti sono impugnabili a norma degli articoli 2377 e 2379. Le quote previste nell'articolo 2377 s'intendono riferite all'ammontare del prestito obbligazionario e alla circostanza che le obbligazioni siano quotate in mercati regolamentati. 
+ 2416 (Impugnazione delle deliberazioni dell'assemblea). - Le deliberazioni prese dall'assemblea degli obbligazionisti sono impugnabili a norma degli articoli 2377 e 2379. 
+ ((Le percentuali previste dall'articolo 2377 sono calcolate con riferimento))
+
+ all'ammontare del prestito obbligazionario e alla circostanza che le obbligazioni siano quotate in mercati regolamentati. 
  
 
  L'impugnazione è proposta innanzi al tribunale, nella cui giurisdizione la società ha sede, in contraddittorio del rappresentante degli obbligazionisti. 
@@ -1747,7 +1849,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  Se non è nominato dall'assemblea a norma dell'articolo 2415, il rappresentante comune è nominato con decreto dal tribunale su domanda di uno o più obbligazionisti o degli amministratori della società. 
  
 
- Il rappresentante comune dura in carica per un periodo non superiore ad un triennio e può essere rieletto. L'assemblea degli obbligazionisti ne fissa il compenso. Entro trenta giorni dalla notizia della sua nomina il rappresentante comune deve richiederne l'iscrizione nel registro delle imprese. 
+ Il rappresentante comune dura in carica per un periodo non superiore 
+ ((a tre esercizi sociali))
+
+ e può essere rieletto.
+ 
+
+ L'assemblea degli obbligazionisti ne fissa il compenso. Entro trenta giorni dalla notizia della sua nomina il rappresentante comune deve richiederne l'iscrizione nel registro delle imprese. 
  
 
  2418 (Obblighi e poteri del rappresentante comune). - Il rappresentante comune deve provvedere all'esecuzione delle deliberazioni dell'assemblea degli obbligazionisti, tutelare gli interessi comuni di questi nei rapporti con la società e assistere alle operazioni di sorteggio delle obbligazioni. Egli ha diritto di assistere all'assemblea dei soci. 
@@ -2164,7 +2272,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  C) Trattamento di fine rapporto di lavoro subordinato. 
  
 
- D) Debiti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 
+ D) Debiti, con separata indicazione, per ciascuna voce, degli 
+ 
+
+ importi esigibili oltre l'esercizio successivo: 
  
 
  1) obbligazioni; 
@@ -2215,7 +2326,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  E) Ratei e risconti, con separata indicazione dell'aggio su prestiti. 
  
 
- Se un elemento dell'attivo o del passivo ricade sotto più voci dello schema, nella nota integrativa deve annotarsi, qualora ciò sia necessario ai fini della comprensione del bilancio, la sua appartenenza anche a voci diverse da quella nella quale è iscritto. 
+ Se un elemento dell'attivo o del passivo ricade sotto più voci 
+ 
+
+ dello schema, nella nota integrativa deve annotarsi, qualora ciò sia necessario ai fini della comprensione del bilancio, la sua 
+ 
+
+ appartenenza anche a voci diverse da quella nella quale è iscritto. 
  
 
  In calce allo stato patrimoniale devono risultare le garanzie prestate direttamente o indirettamente, distinguendosi fra fideiussioni, avalli, altre garanzie personali e garanzie reali, ed indicando separatamente, per ciascun tipo, le garanzie prestate a favore di imprese controllate e collegate, nonchè di controllanti e di imprese sottoposte al controllo di queste ultime; devono inoltre risultare gli altri conti d'ordine. 
@@ -2248,13 +2365,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  2425 (Contenuto del conto economico). - Il conto economico deve essere redatto in conformità al seguente schema: 
  
 
- A) Valore della produzione: 
+ A) Valore della produzione: .ofr; 
  
 
  1) ricavi delle vendite e delle prestazioni; 
  
 
- 2) variazioni delle rimanenze di prodotti in corso di lavorazione, semilavorati e finiti; 
+ 2) variazioni delle rimanenze di prodotti in corso di lavorazione, 
+ 
+
+ semilavorati e finiti; 
  
 
  3) variazioni dei lavori in corso su ordinazione; 
@@ -2263,7 +2383,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) incrementi di immobilizzazioni per lavori interni; 
  
 
- 5) altri ricavi e proventi, con separata indicazione dei contributi in conto esercizio. 
+ 5) altri ricavi e proventi, con separata indicazione dei 
+ 
+
+ contributi in conto esercizio. 
  
 
  Totale. 
@@ -2565,10 +2688,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) l'ammontare delle imposte anticipate contabilizzato in bilancio attinenti a perdite dell'esercizio o di esercizi precedenti e le motivazioni dell'iscrizione, l'ammontare non ancora contabilizzato e le motivazioni della mancata iscrizione; 
  
 
- 15) il numero medio dei dipendenti, ripartito per categoria; 
- 
-
- 16) l'ammontare dei compensi spettanti agli amministratori ed ai sindaci, cumulativamente per ciascuna categoria; 
+ 15) il numero medio dei dipendenti, ripartito per categoria; 16) l'ammontare dei compensi spettanti agli amministratori ed ai sindaci, cumulativamente per ciascuna categoria; 
  
 
  17) il numero e il valore nominale di ciascuna categoria di azioni della società e il numero e il valore nominale delle nuove azioni della società sottoscritte durante l'esercizio; 
@@ -2828,16 +2948,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  Lo statuto delle società che non fanno ricorso al mercato del capitale di rischio può prevedere ulteriori cause di recesso. 
  
 
- Restano salve le disposizioni dettate in tema di recesso per le società soggette ad attività di direzione e coordinamento. 
- 
-
- è nullo ogni patto volto ad escludere o rendere più gravoso l'esercizio del diritto di recesso nelle ipotesi previste dal primo comma del presente articolo. 
- 
-
- 2437-bis (Termini e modalità di esercizio). - Il diritto di recesso è esercitato mediante lettera raccomandata che deve essere spedita entro quindici giorni dall'iscrizione nel registro delle imprese della delibera che lo legittima, con l'indicazione delle generalità del socio recedente, del domicilio per le comunicazioni inerenti al procedimento, del numero e della categoria delle azioni per le quali il diritto di recesso viene esercitato. Se il fatto che legittima il recesso è diverso da una deliberazione, esso è esercitato entro trenta giorni dalla sua conoscenza da parte del socio. 
- 
-
- Le azioni per le quali è esercitato il diritto di recesso non possono essere cedute e devono essere depositate presso la sede sociale. 
- 
-
- Il recesso non può essere esercitato e, se già esercitato, è privo di efficacia, se, entro novanta giorni, la società revoca la delibera che lo legittima ovvero se è deliberato lo scioglimento della società.
+ Restano salve le disposizioni dettate in tema di recesso per le società soggette ad attività di direzione e coordinamento.
