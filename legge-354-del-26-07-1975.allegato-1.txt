@@ -1,0 +1,722 @@
+Tabella A 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | Ufficio di | |
+ 
+
+ 
+ | Distretto di | Sorveglianza | Tribunale di |
+ 
+
+ 
+ +======================+======================+=====================+
+ 
+
+ 
+ | |ANCONA |PESARO URBINO |
+ 
+
+ 
+ |ANCONA |----------------------+---------------------+
+ 
+
+ 
+ | | |MACERATA ASCOLI |
+ 
+
+ 
+ | |MACERATA |PICENO FERMO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |BARI |TRANI |
+ 
+
+ 
+ |BARI |----------------------+---------------------+
+ 
+
+ 
+ | |FOGGIA |FOGGIA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |BOLOGNA FERRARA |
+ 
+
+ 
+ | |BOLOGNA |FORLì RAVENNA RIMINI|
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |BOLOGNA |MODENA |MODENA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | | |REGGIO EMILIA PARMA |
+ 
+
+ 
+ | |REGGIO EMILIA |PIACENZA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ |BOLZANO/BOZEN |BOLZANO/BOZEN |BOLZANO/BOZEN |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |BRESCIA |BRESCIA BERGAMO |
+ 
+
+ 
+ |BRESCIA |----------------------+---------------------+
+ 
+
+ 
+ | |MANTOVA |MANTOVA CREMONA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |CAGLIARI LANUSEI |
+ 
+
+ 
+ |CAGLIARI |CAGLIARI |ORISTANO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |CALTANISSETTA ENNA |
+ 
+
+ 
+ |CALTANISSETTA |CALTANISSETTA |GELA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |CAMPOBASSO ISERNIA |
+ 
+
+ 
+ |CAMPOBASSO |CAMPOBASSO |LARINO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |CATANIA |CATANIA CALTAGIRONE |
+ 
+
+ 
+ |CATANIA |----------------------+---------------------+
+ 
+
+ 
+ | |SIRACUSA |SIRACUSA RAGUSA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |CATANZARO CROTONE |
+ 
+
+ 
+ | | |LAMEZIA TERME VIBO |
+ 
+
+ 
+ |CATANZARO |CATANZARO |VALENTIA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | | |COSENZA CASTROVILLARI|
+ 
+
+ 
+ | |COSENZA |PAOLA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |FIRENZE AREZZO PRATO |
+ 
+
+ 
+ | |FIRENZE |PISTOIA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |LIVORNO |LIVORNO |
+ 
+
+ 
+ |FIRENZE |----------------------+---------------------+
+ 
+
+ 
+ | |PISA |PISA LUCCA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |SIENA |SIENA GROSSETO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |GENOVA |GENOVA IMPERIA SAVONA|
+ 
+
+ 
+ |GENOVA |----------------------+---------------------+
+ 
+
+ 
+ | |MASSA |MASSA LA SPEZIA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |L'AQUILA |L'AQUILA |
+ 
+
+ 
+ |L'AQUILA |----------------------+---------------------+
+ 
+
+ 
+ | |PESCARA |PESCARA CHIETI TERAMO|
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ |LECCE |LECCE |LECCE BRINDISI |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |MESSINA BARCELLONA |
+ 
+
+ 
+ |MESSINA |MESSINA |POZZO DI GOTTO PATTI |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |MILANO |MILANO LODI MONZA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |PAVIA |PAVIA |
+ 
+
+ 
+ |MILANO |----------------------+---------------------+
+ 
+
+ 
+ | | |VARESE BUSTO ARSIZIO |
+ 
+
+ 
+ | |VARESE |COMO LECCO SONDRIO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |NAPOLI NAPOLI NORD |
+ 
+
+ 
+ | |NAPOLI |NOLA TORRE ANNUNZIATA|
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |NAPOLI |AVELLINO |AVELLINO BENEVENTO |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |SANTA MARIA CAPUA |SANTA MARIA CAPUA |
+ 
+
+ 
+ | |VETERE |VETERE |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |PALERMO TERMINI |
+ 
+
+ 
+ | |PALERMO |IMERESE |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |PALERMO |AGRIGENTO |AGRIGENTO SCIACCA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |TRAPANI |TRAPANI MARSALA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |PERUGIA |PERUGIA |
+ 
+
+ 
+ |PERUGIA |----------------------+---------------------+
+ 
+
+ 
+ | |SPOLETO |SPOLETO TERNI |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |POTENZA LAGONEGRO |
+ 
+
+ 
+ |POTENZA |POTENZA |MATERA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |REGGIO CALABRIA LOCRI|
+ 
+
+ 
+ |REGGIO CALABRIA |REGGIO CALABRIA |PALMI |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |CIVITAVECCHIA LATINA |
+ 
+
+ 
+ | |ROMA |TIVOLI VELLETRI |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |ROMA |FROSINONE |FROSINONE CASSINO |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |VITERBO |VITERBO RIETI |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |SALERNO NOCERA |
+ 
+
+ 
+ | | |INFERIORE VALLO DELLA|
+ 
+
+ 
+ |SALERNO |SALERNO |LUCANIA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |SASSARI TEMPIO |
+ 
+
+ 
+ |SASSARI |SASSARI |PAUSANIA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |NUORO |NUORO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ |TARANTO |TARANTO |TARANTO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |TORINO |TORINO ASTI |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |ALESSANDRIA |ALESSANDRIA |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |TORINO |CUNEO |CUNEO |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |NOVARA |NOVARA AOSTA VERBANIA|
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |VERCELLI |VERCELLI BIELLA IVREA|
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ |TRENTO |TRENTO |TRENTO ROVERETO |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | |TRIESTE |TRIESTE |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |TRIESTE | |UDINE GORIZIA |
+ 
+
+ 
+ | |UDINE |PORDENONE |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ 
+ | | |VENEZIA BELLUNO |
+ 
+
+ 
+ | |VENEZIA |TREVISO |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ |VENEZIA |PADOVA |PADOVA ROVIGO |
+ 
+
+ 
+ | |----------------------+---------------------+
+ 
+
+ 
+ | |VERONA |VERONA VICENZA |
+ 
+
+ 
+ +----------------------+----------------------+---------------------+
+ 
+
+ ))
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ TABELLA B 
+ 
+
+ 
+ 
+ 
+
+ 
+ RUOLO ORGANICO DELLA CARRIERA DIRETTIVA DEGLI ASSISTENTI SOCIALI 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ TABELLA C 
+ 
+
+ 
+ 
+ 
+
+ 
+ RUOLO DEGLI EDUCATORI PER ADULTI DELLA CARRIERA DI CONCETTO 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ TABELLA D 
+ 
+
+ 
+ 
+ 
+
+ 
+ RUOLO DEGLI ASSISTENTI SOCIALI PER ADULTI DELLA CARRIERA DI CONCETTO 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ ------------- 
+ 
+
+ AGGIORNAMENTO (93) 
+ 
+
+ Il D.Lgs. 7 settembre 2012, n. 155 ha disposto (con l'art. 11, comma 2) che "Salvo quanto previsto al comma 3, le disposizioni di cui agli articoli 1, 2, 3, 4, 5 e 7 acquistano efficacia decorsi dodici mesi dalla data di entrata in vigore del presente decreto".
