@@ -1,0 +1,401 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76 e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva 1999/93/CE del Parlamento europeo e del Consiglio, del 13 dicembre 1999, relativa ad un quadro comunitario per le firme elettroniche;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 29 dicembre 2000, n. 422, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunità europea - legge comunitaria 2000, che ha delegato il Governo a recepire la citata direttiva 1999/93/CE, ricompresa nell'elenco di cui all'allegato A della legge stessa;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 15, comma 2, della legge 15 marzo 1997, n. 59, recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, recante testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 7, comma 6, della legge 8 marzo 1999, n. 50, recante delegificazione e testi unici concernenti procedimenti amministrativi - legge di semplificazione 1998;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 febbraio 1993, n. 39, recante norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'articolo 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 31 dicembre 1996, n. 675, recante tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 146 del decreto legislativo 1 settembre 1993, n. 385, recante testo unico delle leggi in materia bancaria e creditizia;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 23 agosto 1988, n. 400, recante disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei Ministri in data 9 agosto 2001, pubblicato nella Gazzetta Ufficiale n. 198 del 27 agosto 2001 recante delega di funzioni del Presidente del Consiglio dei Ministri in materia di innovazione e tecnologie al Ministro senza portafoglio dott. Lucio Stanca;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei Ministri del 27 settembre 2001, pubblicato nella Gazzetta Ufficiale n. 242 del 17 ottobre 2001 recante istituzione del Dipartimento per l'innovazione e le tecnologie;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 2001;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Ministro per le politiche comunitarie e del Ministro per l'innovazione e le tecnologie, di concerto con i Ministri per la funzione pubblica, della giustizia, dell'economia e delle finanze, dell'interno, delle attività produttive e delle comunicazioni;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ 
+ 
+ 1. Il presente decreto reca le disposizioni legislative per il recepimento della direttiva 1999/93/CE del Parlamento europeo e del Consiglio, del 13 dicembre 1999, relativa ad un quadro comunitario per le firme elettroniche.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Avvertenza:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - Gli articoli 76 e 87 della Costituzione prevedono, rispettivamente, la delega legislativa del Parlamento al Governo e, tra i poteri del Presidente della Repubblica, quello di emanare i decreti aventi valore di legge.
+ 
+
+ - La direttiva 1999/93/CE del Parlamento europeo e del Consiglio, del 13 dicembre 1999, relativa ad un quadro comunitario per le firme elettroniche, è stata pubblicata nella Gazzetta Ufficiale delle Comunità europee n. L 013 del 19 gennaio 2000. Si riportano gli articoli da 1 a 13 della direttiva:
+ 
+
+ "Art. 1 (Ambito di applicazione). - La presente direttiva è volta ad agevolare l'uso delle firme elettroniche e a contribuire al loro riconoscimento giuridico. Essa istituisce un quadro giuridico per le firme elettroniche e taluni servizi di certificazione al fine di garantire il corretto funzionamento del mercato interno.
+ 
+
+ Essa non disciplina aspetti relativi alla conclusione e alla validità dei contratti o altri obblighi giuridici quando esistono requisiti relativi alla forma prescritti dal diritto nazionale o comunitario, nè pregiudica le norme e i limiti che disciplinano l'uso dei documenti contenuti nel diritto nazionale o comunitario.
+ 
+
+ Art. 2 (Definizioni). - Ai fini della presente direttiva, valgono le seguenti definizioni:
+ 
+
+ 1) "firma elettronica , dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici ed utilizzata come metodo di autenticazione;
+ 
+
+ 2) "firma elettronica avanzata , una firma elettronica che soddisfi i seguenti requisiti:
+ 
+
+ a) essere connessa in maniera unica al firmatario;
+ 
+
+ b) essere idonea ad identificare il firmatario;
+ 
+
+ c) essere creata con mezzi sui quali il firmatario può conservare il proprio controllo esclusivo;
+ 
+
+ d) essere collegata ai dati cui si riferisce in modo da consentire l'identificazione di ogni successiva modifica di detti dati;
+ 
+
+ 3) "firmatario , una persona che detiene un dispositivo per la creazione di una firma e agisce per conto proprio o per conto della persona fisica o giuridica o dell'entità che rappresenta;
+ 
+
+ 4) "dati per la creazione di una firma , dati peculiari, come codici o chiavi crittografiche private, utilizzati dal firmatario per creare una firma elettronica;
+ 
+
+ 5) "dispositivo per la creazione di una firma , un software configurato o un hardware usato per applicare i dati per la creazione di una firma;
+ 
+
+ 6) "dispositivo per la creazione di una firma sicura , un dispositivo per la creazione di una firma che soddisfa i requisiti di cui all'allegato III;
+ 
+
+ 7) "dati per la verifica della firma , dati, come codici o chiavi crittografiche pubbliche, utilizzati per verificare una firma elettronica;
+ 
+
+ 8) "dispositivo di verifica della firma , un software configurato o un hardware usato per applicare i dati di verifica della firma;
+ 
+
+ 9) "certificato , un attestato elettronico che collega i dati di verifica della firma ad una persona e conferma l'identità di tale persona;
+ 
+
+ 10) "certificato qualificato , un certificato conforme ai requisiti di cui all'allegato I e fornito da un prestatore di servizi di certificazione che soddisfa i requisiti di cui all'allegato II;
+ 
+
+ 11) "prestatore di servizi di certificazione , un'entità o una persona fisica o giuridica che rilascia certificati o fornisce altri servizi connessi alle firme elettroniche;
+ 
+
+ 12) "prodotto di firma elettronica , hardware o software, oppure i componenti pertinenti dei medesimi, destinati ad essere utilizzati da un prestatore di servizi di certificazione per la prestazione di servizi di firma elettronica oppure per la creazione o la verifica di firme elettroniche;
+ 
+
+ 13) "accreditamento facoltativo , qualsiasi permesso che stabilisca diritti ed obblighi specifici della fornitura di servizi di certificazione, il quale sia concesso, su richiesta del prestatore di servizi di certificazione interessato, dall'organismo pubblico o privato preposto all'elaborazione e alla sorveglianza del rispetto di tali diritti ed obblighi, fermo restando che il prestatore di servizi di certificazione non è autorizzato ad esercitare i diritti derivanti dal permesso fino a che non abbia ricevuto la decisione da parte dell'organismo.
+ 
+
+ Art. 3 (Accesso al mercato). - 1. Gli Stati membri non subordinano ad autorizzazione preventiva la prestazione di servizi di certificazione.
+ 
+
+ 2. Fatto salvo il paragrafo 1, gli Stati membri possono introdurre o conservare sistemi di acereditamento facoltativi volti a fornire servizi di certificazione di livello più elevato. Tutte le condizioni relative a tali sistemi devono essere obiettive, trasparenti, proporzionate e non discriminatorie. Gli Stati membri non possono limitare il numero di prestatori di servizi di certificazione accreditati per motivi che rientrano nell'ambito di applicazione della presente direttiva.
+ 
+
+ 3. Ciascuno Stato membro provvede affinchè venga istituito un sistema appropriato che consenta la supervisione dei prestatori di servizi di certificazione stabiliti nel loro territorio e rilasci al pubblico certificati qualificati.
+ 
+
+ 4. La conformità dei dispositivi per la creazione di una firma sicura ai requisiti di cui all'allegato III è determinata dai pertinenti organismi pubblici o privati designati dagli Stati membri. Secondo la procedura di cui all'art. 9 la Commissione fissa i criteri in base ai quali gli Stati membri stabiliscono se un organismo può essere designato.
+ 
+
+ La conformità ai requisiti di cui all'allegato III accertata dagli organismi di cui al primo comma è riconosciuta da tutti gli Stati membri.
+ 
+
+ 5. Secondo la procedura di cui all'art. 9 la Commissione può determinare e pubblicare nella Gazzetta Ufficiale delle Comunità europee i numeri di riferimento di norme generalmente riconosciute relative a prodotti di firma elettronica. Un prodotto di firma elettronica conforme a tali norme viene considerato dagli Stati membri conforme ai requisiti di cui all'allegato II, lettera f) e all'allegato III.
+ 
+
+ 6. Gli Stati membri e la Commissione cooperano per promuovere lo sviluppo e l'uso dei dispositivi di verifica della firma, alla luce delle raccomandazioni per la verifica della firma sicura di cui all'allegato IV e nell'interesse dei consumatori.
+ 
+
+ 7. Gli Stati membri possono assoggettare l'uso delle firme elettroniche nel settore pubblico ad eventuali requisiti supplementari. Tali requisiti debbono essere obiettivi, trasparenti, proporzionati e non discriminatori e riguardare unicamente le caratteristiche specifiche dell'uso di cui trattasi. Tali requisiti non possono rappresentare un ostacolo ai servizi transfrontalieri per i cittadini.
+ 
+
+ Art. 4 (Principi del mercato interno). - 1. Ciascuno Stato membro applica le disposizioni nazionali da esso adottate in base alla presente direttiva ai prestatori di servizi di certificazione stabiliti nel suo territorio e ai servizi da essi forniti. Gli Stati membri non possono limitare la prestazione di servizi di certificazione originati in un altro Stato membro nella materia disciplinata dalla presente direttiva.
+ 
+
+ 2. Gli Stati membri consentono ai prodotti di firma elettronica conformi alla presente direttiva di circolare liberamente nel mercato interno.
+ 
+
+ Art. 5 (Effetti giuridici delle firme elettroniche). - 1. Gli Stati membri provvedono a che le firme elettroniche avanzate basate su un certificato qualificato e create mediante un dispositivo per la creazione di una firma sicura:
+ 
+
+ a) posseggano i requisiti legali di una firma in relazione ai dati in forma elettronica così come una firma autografa li possiede per dati cartacei; e
+ 
+
+ b) siano ammesse come prova in giudizio.
+ 
+
+ 2. Gli Stati membri provvedono affinchè una firma elettronica non sia considerata legalmente inefficace e inammissibile come prova in giudizio unicamente a causa del fatto che è:
+ 
+
+ in forma elettronica, o
+ 
+
+ 
+ 
+
+ non basata su un certificato qualificato, o
+ 
+
+ non basata su un certificato qualificato rilasciato da un prestatore di servizi di certificazione accreditato, ovvero
+ 
+
+ non creata da un dispositivo per la creazione di una firma sicura.
+ 
+
+ Art. 6 (Responsabilita). - 1. Gli Stati membri provvedono almeno a che il prestatore di servizi di certificazione che rilascia al pubblico un certificato come certificato qualificato o che garantisce al pubblico tale certificato, sia responsabile per danni provocati a entità o persone fisiche o giuridiche che facciano ragionevole affidamento su detto certificato:
+ 
+
+ a) per quanto riguarda l'esattezza di tutte le informazioni contenute nel certificato qualificato a partire dalla data di rilascio e il fatto che esso contenga tutti i dati prescritti per un certificato qualificato;
+ 
+
+ b) per la garanzia che, al momento del rilascio del certificato, il firmatario identificato nel certificato qualificato detenesse i dati per la creazione della firma corrispondenti ai dati per la verifica della firma riportati o identificati nel certificato;
+ 
+
+ c) la garanzia che i dati per la creazione della firma e i dati per la verifica della firma possano essere usati in modo complementare, nei casi in cui il fornitore di servizi di certificazione generi entrambi, a meno che il prestatore di servizi di certificazione provi di aver agito senza negligenza.
+ 
+
+ 2. Gli Stati membri provvedono almeno a che il prestatore di servizi di certificazione che rilascia al pubblico un certificato come certificato qualificato sia responsabile, nei confronti di entità o di persone fisiche o giuridiche che facciano ragionevole affidamento sul certificato, dei danni provocati, per la mancata registrazione della revoca del certificato, a meno che provi di aver agito senza negligenza.
+ 
+
+ 3. Gli Stati membri provvedono a che un prestatore di servizi di certificazione possa indicare, in un certificato qualificato, i limiti d'uso di detto certificato, purchè tali limiti siano riconoscibili da parte dei terzi. Il prestatore di servizi di certificazione deve essere esentato dalla responsabilità per i danni derivanti dall'uso di un certificato qualificato che ecceda i limiti posti nello stesso.
+ 
+
+ 4. Gli Stati membri provvedono affinchè un prestatore di servizi di certificazione abbia la facoltà di indicare nel certificato qualificato un valore limite per i negozi per i quali può essere usato il certificato, purchè tali limiti siano riconoscibili da parte dei terzi.
+ 
+
+ Il prestatore di servizi di certificazione non è responsabile dei danni risultanti dal superamento di detto limite massimo.
+ 
+
+ 5. I paragrafi da 1 a 4 lasciano impregiudicata la direttiva 93/13/CEE del Consiglio, del 5 aprile 1993, concernente le clausole abusive nei contratti stipulati con i consumatori 8.
+ 
+
+ Art. 7 (Aspetti internazionali). - 1. Gli Stati membri provvedono a che i certificati rilasciati al pubblico come certificati qualificati da un prestatore di servizi di certificazione stabilito in un Paese terzo siano riconosciuti giuridicamente equivalenti ai certificati rilasciati da un prestatore di servizi di certificazione stabilito nella Comunità, in presenza di una delle seguenti condizioni:
+ 
+
+ a) il prestatore di servizi di certificazione possiede i requisiti di cui alla presente direttiva e sia stato accreditato in virtù di un sistema di accreditamento facoltativo stabilito in uno Stato membro, oppure
+ 
+
+ b) il certificato è garantito da un prestatore di servizi di certificazione stabilito nella Comunità, in possesso dei requisiti di cui alla presente direttiva, oppure
+ 
+
+ c) il certificato o il prestatore di servizi di certificazione è riconosciuto in forza di un accordo bilaterale o multilaterale tra la Comunità e Paesi terzi o organizzazioni internazionali.
+ 
+
+ 2. Al fine di agevolare servizi di certificazione transfrontalieri con Paesi terzi e il riconoscimento giuridico delle firme elettroniche avanzate che hanno origine in Paesi terzi, la Commissione presenta, se del caso, proposte miranti all'effettiva attuazione di norme e di accordi internazionali applicabili ai servizi di certificazione. In particolare, ove necessario, essa presenta al Consiglio proposte relative a mandati per la negoziazione di accordi bilaterali e multilaterali con Paesi terzi e organizzazioni internazionali. Il Consiglio decide a maggioranza qualificata.
+ 
+
+ 3. Ogniqualvolta la Commissione è informata di difficoltà che le imprese comunitarie incontrano riguardo all'accesso al mercato di Paesi terzi, essa può, se necessario, presentare al Consiglio proposte in merito a un appropriato mandato di negoziato per ottenere diritti paragonabili per le imprese comunitarie in tali Paesi terzi. Il Consiglio decide a maggioranza qualificata.
+ 
+
+ Le misure adottate a norma di questo paragrafo lasciano impregiudicati gli obblighi della Comunità e degli Stati membri derivanti da accordi internazionali in materia.
+ 
+
+ Art. 8 (Protezione dei dati). - 1. Gli Stati membri provvedono a che i prestatori di servizi di certificazione e gli organismi nazionali responsabili dell'accreditamento o della supervisione si conformino alla direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati.
+ 
+
+ 2. Gli Stati membri consentono a un prestatore di servizi di certificazione che rilascia certificati al pubblico di raccogliere dati personali solo direttamente dalla persona cui si riferiscono o previo suo esplicito consenso, e soltanto nella misura necessaria al rilascio e al mantenimento del certificato. I dati non possono essere raccolti o elaborati per fini diversi senza l'espresso consenso della persona cui si riferiscono.
+ 
+
+ 3. Fatti salvi gli effetti giuridici che la legislazione nazionale attribuisce agli pseudonimi, gli Stati membri non vietano al prestatore di servizi di certificazione di riportare sul certificato uno pseudonimo in luogo del nome del firmatario.
+ 
+
+ Art. 9 (Comitato). - 1. La Commissione è assistita da un "comitato per la firma elettronica , in prosieguo denominato "il comitato .
+ 
+
+ 2. Nei casi in cui si fa riferimento al presente paragrafo, si applicano gli articoli 4 e 7 della decisione 1999/468/CE, tenuto conto dell'art. 8 della stessa.
+ 
+
+ Il periodo di cui all'art. 4, paragrafo 3 della decisione 1999/468/CE è fissato a tre mesi.
+ 
+
+ 3. Il comitato adotta il proprio regolamento interno.
+ 
+
+ Art. 10 (Compiti del comitato). - Il comitato precisa i requisiti di cui agli allegati della presente direttiva, i criteri di cui all'art. 3, paragrafo 4 e le norme generalmente riconosciute per i prodotti di firma elettronica istituite e pubblicate a norma dell'art. 3, paragrafo 5, secondo la procedura di cui all'art. 9, paragrafo 2.
+ 
+
+ Art. 11 (Notificazione). - 1. Gli Stati membri comunicano alla Commissione e agli altri Stati membri le seguenti informazioni:
+ 
+
+ a) sistemi di accreditamento facoltativi nazionali ed ogni requisito supplementare a norma dell'art. 3, paragrafo 7;
+ 
+
+ b) nomi e indirizzi degli organismi nazionali responsabili dell'accreditamento e della supervisione nonchè degli organismi di cui all'art. 3, paragrafo 4;
+ 
+
+ c) i nomi e gli indirizzi di tutti i prestatori di servizi di certificazione nazionali accreditati.
+ 
+
+ 2. Le informazioni di cui al paragrafo 1 e le loro eventuali variazioni sono notificate agli Stati membri al più presto.
+ 
+
+ Art. 12 (Riesame). - 1. Entro il 19 luglio 2003 la Commissione riesamina l'applicazione della presente direttiva e presenta una relazione in merito al Parlamento europeo e al Consiglio.
+ 
+
+ 2. Nel riesame si valuta, tra l'altro, se l'ambito di applicazione della presente direttiva debba essere modificato per tener conto dei progressi tecnologici, dell'evoluzione del mercato e degli sviluppi giuridici. La relazione include in particolare una valutazione, sulla base dell'esperienza acquisita, degli aspetti relativi all'armonizzazione. La relazione è corredata, se del caso, di proposte legislative.
+ 
+
+ Art. 13 (Attuazione). - 1. Gli Stati membri mettono in vigore le disposizioni legislative, regolamentari e amministrative necessarie per conformarsi alla presente direttiva anteriormente al 19 luglio 2001. Essi ne informano immediatamente la Commissione.
+ 
+
+ Quando gli Stati membri adottano tali disposizioni, queste contengono un riferimento alla presente direttiva o sono corredate di un siffatto riferimento all'atto della pubblicazione ufficiale. Le modalità del riferimento sono decise dagli Stati membri.
+ 
+
+ 2. Gli Stati membri comunicano alla Commissione il testo delle principali disposizioni di diritto interno che adottano nella materia disciplinata dalla presente direttiva.".
+ 
+
+ - Si riporta l'art. 7, comma 6, della legge 8 marzo 1999, n. 50 (Delegificazione e testi unici di norme concernenti procedimenti amministrativi - Legge di semplificazione 1998):
+ 
+
+ "6. Le disposizioni contenute in un testo unico non possono essere abrogate, derogate, sospese o comunque modificate se non in modo esplicito, mediante l'indicazione precisa delle fonti da abrogare, derogare, sospendere o modificare. La Presidenza del Consiglio dei Ministri adotta gli opportuni atti di indirizzo e di coordinamento per assicurare che i successivi interventi normativi incidenti sulle materie oggetto di riordino siano attuati esclusivamente mediante la modifica o l'integrazione delle disposizioni contenute nei testi unici.".
+ 
+
+ - Si riporta l'art. 146 del decreto legislativo 1 settembre 1993, n. 385 (testo unico delle leggi in materia bancaria e creditizia):
+ 
+
+ "Art. 146 (Vigilanza sui sistemi di pagamento). - 1. La Banca d'Italia promuove il regolare funzionamento dei sistemi di pagamento. A tal fine essa può emanare disposizioni volte ad assicurare sistemi di compensazione e di pagamento efficienti e affidabili.".
+ 
+
+ - Si riporta l'articolo unico del decreto del Presidente del Consiglio dei Ministri 27 settembre 2001 (Istituzione del Dipartimento per l'innovazione e le tecnologie):
+ 
+
+ "Art. 1. - 1. Presso la Presidenza del Consiglio dei Ministri è istituito il Dipartimento per l'innovazione e le tecnologie.
+ 
+
+ 2. Il Dipartimento di cui al comma 1 è struttura di supporto al Ministro per l'innovazione e le tecnologie ai fini del coordinamento delle politiche di promozione dello sviluppo della società dell'informazione, nonchè delle connesse innovazioni per le amministrazioni pubbliche, i cittadini e le imprese. In particolare il Dipartimento cura il supporto per: la definizione di una strategia unitaria per la modernizzazione del Paese attraverso le tecnologie dell'informazione e della comunicazione, che si traduca in piani di azione e progetti coordinati; l'elaborazione, il monitoraggio e la verifica dell'attuazione dei piani d'azione volti, attraverso il ricorso alle tecnologie dell'informazione e della comunicazione, a migliorare l'efficienza, l'efficacia e l'economicità delle pubbliche amministrazioni, a riorientare i servizi resi ai cittadini e alle imprese utenti, a sperimentare l'uso avanzato delle nuove tecnologie; l'elaborazione, la promozione, l'aggiornamento, il monitoraggio e la verifica del piano d'azione "governo elettronico ; l'impulso, l'indirizzo e il coordinamento dei progetti innovativi che, attraverso l'interoperabilità dei sistemi informativi, riguardano le attività di più amministrazioni; l'assistenza alle singole amministrazioni per la progettazione e la realizzazione di progetti di informatizzazione dell'attività e di fornitura di servizi di rete agli utenti; l'utilizzo e l'accelerazione della diffusione delle tecnologie dell'informazione e della comunicazione nei settori della vita economica e sociale del Paese, nonchè il coordinamento della ricerca applicata nelle medesime tecnologie; le attività del Comitato dei Ministri per la società dell'informazione, nonchè l'attuazione delle relative decisioni; le attività di concertazione del Governo con le parti sociali, per gli aspetti di competenza; salve le competenze attribuite al Dipartimento per il coordinamento delle politiche comunitarie, l'attuazione delle decisioni degli organismi comunitari ed internazionali e l'elaborazione delle proposte governative nelle sedi comunitarie ed internazionali.
+ 
+
+ 3. Il Dipartimento di cui al comma 1 si articola in non più di quattro uffici e in non più di dodici servizi.
+ 
+
+ 4. Il Ministro si avvale, inoltre, del centro tecnico di cui all'art. 24 della legge 24 novembre 2000, n. 340, e adotta le opportune direttive ai fini del coordinamento dell'attività del centro tecnico e dell'Autorità per l'informatica nella pubblica amministrazione con quella del Dipartimento, anche attraverso l'avvalimento di uffici e delle relative risorse umane e strumentali.".
