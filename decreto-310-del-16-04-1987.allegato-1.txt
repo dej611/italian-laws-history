@@ -1,0 +1,364 @@
+((CARATTERISTICHE DEI SUPPORTI MAGNETICI TRASMESSI DALL' A.C.I. AL CENTRO INFORMATIVO TASSE E DAL CENTRO INFORMATIVO TASSE ALL'A.C.I.)) 
+ 
+
+ ((1. Caratteristiche tecniche dei supporti magnetici: 
+ 
+
+ I supporti magnetici trasmessi dall'A.C.I. al Centro informativo tasse dovranno rispettare i seguenti requisiti tecnici: 
+ 
+
+ labels = IBM compatibili; 
+ 
+
+ tracce = 9 bit di parità = ODD; 
+ 
+
+ densità di registrazione = 6250 bytes/pollice; 
+ 
+
+ codifica dati = EBCDIC; 
+ 
+
+ formato di registrazione = fisso bloccato; 
+ 
+
+ lunghezza del blocco = 20.000 bytes. 
+ 
+
+ 2. Dati relativi alle formalità. 
+ 
+
+ L'unità logica di informazione relativa ad una formalità può comprendere una o più registrazioni su supporto magnetico. 
+ 
+
+ L'unità logica di informazione per ciascuna formalità contiene i dati di seguito indicati (che costituiscono, ad eccezione dei codici fiscali, il contenuto informativo del record tipo 0). 
+ 
+
+ A) Per le prime iscrizioni e i trasferimenti di proprietà: 
+ 
+
+ 1. Codice provincia, numero progressivo di formalità,data. 
+ 
+
+ 2. Tipo di formalità. 
+ 
+
+ 3. Targa. 
+ 
+
+ 4. Categoria. 
+ 
+
+ 5. Uso. 
+ 
+
+ 6. Specialità. 
+ 
+
+ 7. Potenza (HP). 
+ 
+
+ 8. Cilindrata (CC). 
+ 
+
+ 9. Numero posti/portata. 
+ 
+
+ 10. Anno di immatricolazione. 
+ 
+
+ 11. Codice fiscale acquirente (maggiore o uguale a l). 
+ 
+
+ 12. Codice fiscale venditore (maggiore o uguale a l). 
+ 
+
+ 13. Atto soggetto I.V.A. 
+ 
+
+ 14. Nazionalità. 
+ 
+
+ 15. Fabbrica, tipo, serie. 
+ 
+
+ 16. Alimentazione. 
+ 
+
+ B) Per le operazioni ipotecarie (l), scritture private con contenuto patrimoniale: 
+ 
+
+ 1. Codice provincia, numero progressivo di formalità, data. 
+ 
+
+ 2. Tipo di formalità. 
+ 
+
+ 3. Codice fiscale creditore (maggiore o uguale a l). 
+ 
+
+ 4. Codice fiscale debitore (maggiore o uguale a l). 
+ 
+
+ 5. Importo dell'ipoteca. 
+ 
+
+ 6. Ammontare del credito. 
+ 
+
+ 7. Credito soggetto ad I.V.A. 
+ 
+
+ C) Per i rinnovi di iscrizione (2): 
+ 
+
+ 1. Codice provincia, numero progressivo di formalità, data. 
+ 
+
+ 2. Tipo di formalità. 
+ 
+
+ 3. Targa. 
+ 
+
+ 4. Categoria. 
+ 
+
+ 5. Uso. 
+ 
+
+ 6. Specialità. 
+ 
+
+ 7. Potenza (HP). 
+ 
+
+ 8. Cilindrata (CC). 
+ 
+
+ 9. Numero posti/portata. 
+ 
+
+ 10. Anno di immatricolazione. 
+ 
+
+ 11. Provincia precedente, targa precedente, categoria precedente. 
+ 
+
+ D) Per le radiazioni, le perdite e i rientri in possesso (2): 
+ 
+
+ 1. Codice provincia, numero progressivo di formalità, data. 
+ 
+
+ 2. Tipo di formalità. 
+ 
+
+ 3. Targa. 
+ 
+
+ 4. Categoria. 
+ 
+
+ E) Per le formalità di (2): 
+ 
+
+ - Variazioni di uso o specialità 
+ 
+
+ - Variazioni delle caratteristiche tecniche 
+ 
+
+ 1. Codice provincia, numero progressivo di formalità, data. 
+ 
+
+ 2. Tipo di formalità. 
+ 
+
+ 3. Targa. 
+ 
+
+ 4. Categoria. 
+ 
+
+ uno o più dei seguenti dati variati o rettificati: 
+ 
+
+ 5. Uso. 
+ 
+
+ 6. Specialità. 
+ 
+
+ 7. Potenza (HP). 
+ 
+
+ 8. Cilindrata (CC). 
+ 
+
+ 9. Numero posti/portata. 
+ 
+
+ 10. Anno di immatricolazione. 
+ 
+
+ 11. Categoria. 
+ 
+
+ Per atti comportanti formalità multiple (fino ad un massimo di 3), il record tipo 0 contiene tutte le informazioni previste per ogni singola formalità. 
+ 
+
+ Per le formalità di cui ai punti A e B i codici fiscali dei soggetti ivi indicati sono trasmessi mediante una o più registrazioni contenenti ciascuna fino a 4 codici fiscali (record tipo 1). 
+ 
+
+ Ciascun codice fiscale è preceduto nel tracciato record dal numero progressivo assegnato dall'A.C.I. in fase di registrazione dei dati ed utilizzato per il successivo invio dei dati anagrafici. 
+ 
+
+ Le registrazioni relative ad una formalità sono collegate dai campi identificativi: 
+ 
+
+ codice provincia; 
+ 
+
+ numero progressivo di formalità; 
+ 
+
+ data della formalità; 
+ 
+
+ e dal campo di controllo: 
+ 
+
+ numero totale dei codici fiscali che permette di calcolare il numero di registrazioni contenenti i codici fiscali della formalità. 
+ 
+
+ I records devono essere trasmessi in ordine alfabetico di codice della provincia e in sequenza ascendente di numero d'ordine del registro progressivo di formalità. 
+ 
+
+ Per ogni formalità già trasmessa per la quale si renda successivamente necessario rettificare dati diversi dal codice fiscale, deve essere inviata una formalità fittizia di rettifica (record tipo 0), impostando solo i campi relativi ai dati da correggere. 
+ 
+
+ Per ogni formalità indebitamente trasmessa deve essere inviata una formalità fittizia di annullamento (record tipo 0). 
+ 
+
+ Su ciascun supporto deve essere applicata un'etichetta indicante il tipo di registrazione ("archivio atti"), l'anno e il mese di riferimento, il progressivo di invio, il progressivo di registrazione di nastro nell'ambito del periodo e il totale dei nastri relativi al periodo. Il progressivo di invio, di due cifre, assunto il valore 99 ricomincia da 1. 
+ 
+
+ All'inizio del primo supporto magnetico deve essere registrato un record contenente il periodo di riferimento e il progressivo di invio (record tipo 3). 
+ 
+
+ Dopo l'ultima registrazione relativa al periodo dovrà essere presente un record contenente il numero totale di records inviati (record tipo 4) compresi i records di inizio e quello di fine trasmissione. 
+ 
+
+ Successivamente al record dei totali (record tipo 4) sarà registrato, sullo stesso supporto, un record statistico, per ciascuna provincia e per ciascun mese, contenente l'indicazione dell'avvenuto completamento della trasmissione delle note. 
+ 
+
+ Le tabelle di codifica per i campi: 
+ 
+
+ Tipo di formalità. 
+ 
+
+ Categoria. 
+ 
+
+ Uso. 
+ 
+
+ Specialità. 
+ 
+
+ Nazionalità. 
+ 
+
+ Fabbrica, tipo, serie. 
+ 
+
+ Alimentazione, 
+ 
+
+ e le successive variazioni, devono essere comunicate dall'A.C.I. al Centro informativo almeno tre mesi prima della consegna dei supporti conformi alle nuove codifiche. 
+ 
+
+ 3. Segnalazione di codice fiscale inesistente. 
+ 
+
+ Per ogni formalità contenente codici fiscali inesistenti viene trasmesso su supporto magnetico all'A.C.I. uno o più records tipo 1 contenenti fino a 4 codici fiscali. 
+ 
+
+ I records sono trasmessi in ordine alfabetico di codice della provincia, in sequenza ascendente di numero d'ordine del registro progressivo di formalità e in sequenza ascendente del numero progressivo di codice fiscale. 
+ 
+
+ Su ciascun supporto è applicata un'etichetta indicante il tipo di registrazione ("Segnalazioni codici fiscali inesistenti") e il numero progressivo del nastro inviato. 
+ 
+
+ Il numero progressivo, di due cifre, ha lo scopo di poter intercettare eventuali smarrimenti di supporti magnetici; assunto il valore 99 ricomincia da uno. 
+ 
+
+ All'inizio del primo supporto è registrato un record contenente il progressivo del nastro (record tipo 3) e in coda all'ultima registrazione un record contenente il numero totale di records inviati (record tipo 4) compresi i records di inizio e fine trasmissione. 
+ 
+
+ 4. Dati anagrafici corrispondenti a codici fiscali errati o inesistenti. 
+ 
+
+ I dati anagrafici relativi ai codici fiscali indicati errati nelle note (3) o non esistenti nell'archivio dell'anagrafe tributaria, vengono trasmessi, dall'A.C.I. al Centro informativo, tramite registrazioni a lunghezza fissa (record tipo 2), una per ogni codice, contenenti il riferimento alla formalità, il numero progressivo di codice fiscale sulla formalità, il codice fiscale e i dati anagrafici (relativi alle persone fisiche o ai soggetti diversi a seconda dei casi). 
+ 
+
+ I records devono essere trasmessi in ordine alfabetico di codice della provincia, in sequenza ascendente di numero d'ordine del registro progressivo di formalità e in sequenza ascendente del numero progressivo di codice fiscale. 
+ 
+
+ Per rettificare il numero totale di codici fiscali dovuti sarà fornito un record di tipo 7 sostitutivo dei corrispondenti records di tipo 2 relativi ai dati anagrafici attesi dal C.I.T. 
+ 
+
+ Su ciascun supporto deve essere applicata un'etichetta indicante il tipo di registrazione ("Archivio dati anagrafici") e il numero progressivo del nastro inviato. 
+ 
+
+ Il numero progressivo, di due cifre, ha lo scopo di poter intercettare eventuali smarrimenti di supporti magnetici; assunto il valore 99 ricomincia da uno. 
+ 
+
+ All'inizio del primo supporto magnetico deve essere registrato un record contenente il numero progressivo di nastro (record tipo 5) e in coda all'ultima registrazione un record contenente il numero totale di records inviati (record tipo 6) compresi il record di inizio e quello di fine trasmissione. 
+ 
+
+ 5. Descrizione dei records. 
+ 
+
+ Il contenuto dei campi numerici va appoggiato a destra, impostando a zero i caratteri non utilizzati. 
+ 
+
+ Il contenuto dei campi alfanumerici va appoggiato a sinistra, impostando al valore '40' esadecimale i caratteri non utilizzati. 
+ 
+
+ Analoga rappresentazione va usata per inizializzare i campi interamente inutilizzati. 
+ 
+
+ 
+ 
+
+ -------------------------------------------------------
+ 
+
+ (1) Per le operazioni su ipoteche multiple vengono trasmessi i dati
+ 
+
+ relativi ad una sola formalità.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (2) Solo nei casi in cui la targa sia già stata acquisita dal Centro informativo tramite una prima iscrizione o un trasferimento di proprietà. 
+ 
+
+ (3) Per le modalità di calcolo del carattere di controllo per i vari tipi di codici fiscali vedere il decreto del Ministero delle finanze del 23 dicembre 1970 concernente i "Sistemi di codificazione dei soggetti da iscrivere all'anagrafe tributaria". 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
