@@ -1,0 +1,1057 @@
+I. DISPOSIZIONI GENERALI. 
+ 
+
+ II. Determinazione dell'umidità nelle seguenti sostanze: 
+ 
+
+ - caseine acide (metodo 1, allegato I); 
+ 
+
+ - caseine presamiche (metodo 1, allegato I); 
+ 
+
+ - caseinati (metodo 1, allegato I). 
+ 
+
+ III. Determinazione del tenore proteico nelle seguenti sostanze: 
+ 
+
+ - caseine acide (metodo 2, allegato I); 
+ 
+
+ - caseine presamiche (metodo 2, allegato I); 
+ 
+
+ - caseinati (metodo 2, allegato I). 
+ 
+
+ IV. Determinazione dell'acidità titolabile nelle seguenti sostanze:
+ 
+
+ - caseine acide (metodo 3, allegato I). 
+ 
+
+ V. Determinazione delle ceneri (P2 O5 compreso) nelle seguenti sostanze: 
+ 
+
+ - caseine acide (metodo 4, allegato I); 
+ 
+
+ - caseine presamiche (metodo 5, allegato I). 
+ 
+
+ VI. Determinazione del pH nelle seguenti sostanze: 
+ 
+
+ - caseinati (metodo 6, allegato I). 
+ 
+
+ 
+ 
+
+ METODI D'ANALISI RELATIVI ALLA COMPOSIZIONE DELLE CASEINE E DEI CASEINATI ALIMENTARI. 
+ 
+
+ 
+ 
+
+ DISPOSIZIONI GENERALI 
+ 
+
+ 1. PREPARAZIONE DEL CAMPIONE PER ANALISI. 
+ 
+
+ 1.1. Generalità. 
+ 
+
+ La massa del campione presentato al laboratorio per l'analisi deve essere di almeno 200 g. 
+ 
+
+ 1.2. Preparazione del campione per analisi in laboratorio. 
+ 
+
+ 1.2.1. Mescolare accuratamente il campione di laboratorio agitando ripetutamente capovolgendo il contenitore (se necessario, dopo aver travasato tutto il campione di laboratorio in un contenitore a tenuta stagna di capacità almeno doppia del volume del campione), avendo cura di rompere gli eventuali grumi. 
+ 
+
+ 1.2.2. Travasare nel setaccio (5.9.) una porzione rappresentativa, cioè circa 50 g del campione di laboratorio (1.2.1.) accuratamente mescolato. 
+ 
+
+ 1.2.3. Se la porzione di campione di 50 g passa completamente o quasi (almeno 95% della massa) attraverso il setaccio (3.3.), usare per la determinazione il campione come preparato al punto 1.2.1. 
+ 
+
+ 1.2.4. Altrimenti, macinare la porzione i 50 g, facendo uso del macinino (3.4.), finchè essa soddisfa i requisiti di setacciatura (1.2.3.). Travasare immediatamente tutto il campione setacciato in un contenitore a tenuta stagna di capacità sufficiente e mescolare accuratamente agitando ripetutamente e capovolgendo. Durante queste operazioni, fare in modo da evitare alterazioni nel contenuto di umidità del prodotto. 
+ 
+
+ 1.2.5. Una volta preparato il campione di prova, procedere alla determinazione (5.4.) al più presto. 
+ 
+
+ 1.3. Contenitori. 
+ 
+
+ Il campione dev'essere sempre conservato in un contenitore a tenuta d'aria, impermeabile all'aria e all'umidità. 
+ 
+
+ 2. REATTIVI. 
+ 
+
+ 2.1. Acqua. 
+ 
+
+ 2.1.1. Ovunque si faccia accenno all'acqua per soluzione, diluizione o lavaggio, deve essere usata acqua distillata o demineralizzata o acqua di purezza perlomeno equivalente. 
+ 
+
+ 2.1.2. Ovunque si faccia riferimento ad una "soluzione" oppure "diluizione" senza ulteriori indicazioni, si intende "soluzione in acqua" oppure "diluizione con acqua". 
+ 
+
+ 2.2. Reattivi. 
+ 
+
+ Tutti i reattivi usati devono essere di purezza analitica riconosciuta, salvo diverse specificazioni. 
+ 
+
+ 3. APPARECCHIATURA. 
+ 
+
+ 3.1. Elenchi di apparecchiature. 
+ 
+
+ Gli elenchi di apparecchiature contengono solamente quelle ad uso specializzato o con requisiti speciali. 
+ 
+
+ 3.2. Bilancia analitica. 
+ 
+
+ Per bilancia analitica si intende una bilancia atta a pesare con la precisione di almeno 0,1 mg. 
+ 
+
+ 3.3. Setaccio. 
+ 
+
+ I setacci da usare devono essere provvisti di un coperchio, avere 200 mm di diametro, essere costruiti con una tela metallica avente un'apertura nominale di 500 (Micron(m. Le tolleranze dell'apertura ed i diametri dei fili della tela ammessi sono come specificati nella ISO 3310/1. (Setacci - requisiti tecnici e controlli - Parte 1: tela metallica. ISO 3310/1 - 1975). I setacci devono essere provvisti di raccoglitore. 
+ 
+
+ 3.4. Macinino. 
+ 
+
+ Deve permettere di macinare il campione di laboratorio (vedi 1.2.4.), senza sviluppo di calore e senza perdita o assorbimento di umidità.
+ 
+
+ Non deve essere usato un apparecchio a martelli. 
+ 
+
+ 4. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 4.1. Risultati. 
+ 
+
+ Il risultato da riportare nel certificato di analisi è rappresentato dal valore medio ottenuto da due determinazioni che soddisfano al criterio di ripetibilità fissato per quel dato metodo. 
+ 
+
+ 4.2. Calcolo della percentuale. 
+ 
+
+ Salvo istruzioni contrarie, il risultato dev'essere calcolato come percentuale in massa del campione. 
+ 
+
+ 5. RELAZIONE. 
+ 
+
+ La relazione riguardante la prova deve definire il metodo d'analisi usato e i risultati ottenuti. Inoltre, esso deve citare tutti i particolari del procedimento che non siano specificati nel metodo d'analisi o che siano facoltativi, nonchè eventuali circostanze che abbiano influenzato i risultati ottenuti. La relazione deve fornire tutti i dati necessari alla completa identificazione del campione. 
+ 
+
+ Metodo 1 - DETERMINAZIONE DEL TENORE DI UMIDITà 
+ 
+
+ 1. OGGETTO E CAMPO D'APPLICAZIONE. 
+ 
+
+ Il presente metodo determina il tenore di umidità nelle seguenti sostanze: 
+ 
+
+ - caseine acide; 
+ 
+
+ - caseine presamiche; 
+ 
+
+ - caseinati. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Per "tenore di umidità delle caseine o dei caseinati" si intende la perdita di massa determinata col metodo appresso specificato. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ La massa residua viene determinata previo riscaldamento a pressione atmosferica in una stufa, alla temperatura di 102C (Più o Meno) 1C fino a massa costante. La perdita di massa viene calcolata come percentuale in massa del campione. 
+ 
+
+ 4. APPARECCHIATURA. 
+ 
+
+ 4.1. Bilancia analitica. 
+ 
+
+ 4.2. Capsule, a fondo piatto e di materiale non corrodibile nelle condizioni dell'analisi, ad esempio nichel, alluminio, acciaio inossidabile o vetro. Le capsule devono avere coperchi che combaciano perfettamente, ma facili da rimuovere. Le dimensioni opportune sono le seguenti: diametro da 60 a 80 mm e profondità di circa 25 mm. 
+ 
+
+ 4.3. Stufa da essiccazione a pressione atmosferica, ben ventilata, controllata termostaticamente con una regolazione della temperatura (a 102C (Più o Meno) 1C). La temperatura deve essere uniforme in tutta la stufa. 
+ 
+
+ 4.4. Essiccatore contenente gel di silice attivato di recente, con un indicatore del contenuto d'acqua, oppure un essiccante equivalente. 
+ 
+
+ 4.5. Opportuno strumento per prendere le capsule, ad esempio pinze da laboratorio. 
+ 
+
+ 5. PROCEDIMENTO. 
+ 
+
+ 5.1. Preparazione del campione. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 5.2. Preparazione della capsula. 
+ 
+
+ 5.2.1. Scaldare la capsula scoperta ed il suo coperchio (4.2.) nella stufa (4.3.), mantenuta a 102 (Più o Meno) 1C per almeno un'ora. 
+ 
+
+ 5.2.2. Mettere il coperchio sulla capsula, trasferire la capsula coperta nell'essiccatore (4.4.), lasciar raffreddare a temperatura ambiente nella stanza delle bilance e pesare con l'approssimazione di 0,1 mg (Mo). 
+ 
+
+ 5.3. Porzione di campione. 
+ 
+
+ Porre da 3 a 5 g di campione (5.1.) nella capsula, coprire con il coperchio e pesare con l'approssimazione di 0,1 mg (M1). 
+ 
+
+ 5.4. Determinazione. 
+ 
+
+ 5.4.1. Scoprire la capsula e porla con il suo coperchio nella stufa (4.3.), mantenuta a 102 (Più o Meno) 1C, per 4 ore. 
+ 
+
+ 5.4.2. Rimettere il coperchio sulla capsula, trasferire nell'essiccatore, lasciar raffreddare a temperatura ambiente nella stanza delle bilance e pesare con l'approssimazione di 0,1 mg. 
+ 
+
+ 5.4.3. Scoprire la capsula e scaldarla nuovamente con il suo coperchio, nella stufa, per un'ora. Ripetere quindi l'operazione 5.4.2. 
+ 
+
+ 5.4.4. Se la massa ottenuta a 5.4.3. è inferiore a quella ottenuta a 5.4.2. di oltre 1 mg, ripetere l'operazione 5.4.3. 
+ 
+
+ Se si verifica un aumento di massa, usare nel calcolo la massa più bassa registrata (6.1.). 
+ 
+
+ Sia M2 la massa finale registrata, espressa in grammi. 
+ 
+
+ Il tempo totale di essiccazione non deve di norma superare le 6 ore. 
+ 
+
+ 6. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 6.1. Metodo di calcolo. 
+ 
+
+ Calcolare la perdita di massa all'essiccazione del campione, espressa come percentuale in massa, con la formula seguente: 
+ 
+
+ M1 - M2 
+ 
+
+ --------- x 100 
+ 
+
+ M1 - M0 
+ 
+
+ dove 
+ 
+
+ M0 = massa, in g, della capsula e del suo coperchio dopo l'operazione 5.2.; 
+ 
+
+ M1 = massa, in g, della capsula, del suo coperchio e della porzione di campione prima dell'essiccazione (procedimento 5.3.); 
+ 
+
+ M2 = massa, in g, della capsula, del suo coperchio e della porzione di campione dopo essiccazione (procedimento 5.4.3. oppure 5.4.4.).
+ 
+
+ Calcolare la perdita all'essiccazione con l'approssimazione dello 0,01%. 
+ 
+
+ 6.2. Ripetibilità. 
+ 
+
+ La differenza fra i risultati di due determinazioni eseguite simultaneamente oppure in successione rapida sullo stesso campione, dallo stesso analista, nelle stesse condizioni, non deve superare 0,1 g di umidità per 100 g di prodotto. Tale intervallo di ripetibilità deve essere ottenuto nel 95% dei casi in cui il metodo è applicato correttamente. 
+ 
+
+ 
+ 
+
+ Metodo 2 - DETERMINAZIONE DEL TENORE PROTEICO 
+ 
+
+ 
+ 
+
+ 1. SCOPO E CAMPO DI APPLICAZIONE. 
+ 
+
+ Il presente metodo determina il tenore proteico delle seguenti sostanze: 
+ 
+
+ - caseine acide; 
+ 
+
+ - caseine presamiche; 
+ 
+
+ - caseinati, 
+ 
+
+ eccettuati quelli contenenti caseinato d'ammonio oppure altri composti di ammonio o di azoto. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Per tenore proteico s'intende il contenuto di azoto determinato con il metodo specificato, moltiplicato per 6,38 ed espresso come percentuale in massa. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ Una porzione di campione viene digerita con una miscela di solfato potassico e di acido solforico, in presenza di solfato di rame (II) come catalizzatore, in modo da trasformare l'azoto organico in azoto ammoniacale. L'ammoniaca viene distillata ed assorbita in una soluzione di acido borico e titolata quindi con una soluzione titolata di acido cloridrico. Il contenuto di azoto viene convertito in tenore proteico moltiplicando per 6,38. 
+ 
+
+ 4. REATTIVI. 
+ 
+
+ 4.1. Acido solforico, concentrato H2 SO4 1,84 g/ml. 
+ 
+
+ 4.2. Solfato potassico, anidro (K2 SO4 ). 
+ 
+
+ 4.3. Solfato di rame (II) pentaidrato (CUSO4 5H2 O). 
+ 
+
+ 4.4. Saccarosio (C12 H22 O11 ). 
+ 
+
+ 4.5. Acido borico, soluzione a 40 g/l. 
+ 
+
+ 4.6. Idrossido di sodio, soluzione acquosa concentrata al 30% (m/m) esente da carbonati. 
+ 
+
+ 4.7. Acido cloridrico, soluzione titolata 0,1 M/l. 
+ 
+
+ 4.8. Indicatore misto. Miscelare volumi eguali di una soluzione di 2 g/l di rosso metile in etanolo almeno al 95% e una soluzione di 1 g/l di blu di metilene in etanolo almeno al 95% (V/V). 
+ 
+
+ 5. APPARECCHIATURA. 
+ 
+
+ 5.1. Bilancia analitica. 
+ 
+
+ 5.2. Pallone di Kjeldahl, con una capacità di 500 ml. 
+ 
+
+ 5.3. Apparecchio di digestione che tenga il pallone di Kjeldahl (5.2.) in posizione inclinata e con un riscaldatore che non scaldi la parte di pallone al di sopra della superficie del contenuto liquido. 
+ 
+
+ 5.4. Condensatore con tubo interno rettilineo. 
+ 
+
+ 5.5. Tubo di uscita con bulbo di sicurezza connesso con l'estremità inferiore del condensatore (5.4.) da un raccordo di vetro smerigliato o da un tubo di gomma. Se viene usato il tubo di gomma, le estremità di vetro devono essere ravvicinate l'una all'altra. 
+ 
+
+ 5.6. Trappola anti-spruzzi collegata al pallone di Kjeldahl (5.2.) ed al condensatore (5.4.) mediante un tappo di gomma soffice, aderente, o mediante altri tipi opportuni di tappo. 
+ 
+
+ 5.7. Beuta, avente una capacità di 500 ml. 
+ 
+
+ 5.8. Cilindri graduati, aventi capacità di 50 ml e di 100 ml. 
+ 
+
+ 5.9. Buretta, di una capacità di 50 ml, graduata con divisioni da 0,1 ml. 
+ 
+
+ 5.10. Regolatori dell'ebollizione. 
+ 
+
+ 5.10.1. Per la digestione: piccoli pezzi di porcellana dura o palline di vetro. 
+ 
+
+ 5.10.2. Per la distillazione: pezzi di pomice di recente calcinata. 
+ 
+
+ 6. PROCEDIMENTO. 
+ 
+
+ 6.1. Preparazione del campione per la prova. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 6.2. Prova per la presenza di azoto ammoniacale. 
+ 
+
+ Se si sospetta la presenza di caseinato ammonico o di altri composti ammonici eseguire la seguente prova. Aggiungere a 1 g del campione, in un piccolo matraccio, 10 ml d'acqua e 100 mg di ossido di magnesio. Sciacquare eventuali residui di ossido di magnesio aderenti alle pareti e chiudere il matraccio con un tappo di sughero, inserendo una striscia di cartina di tornasole rossa umida tra il tappo e il collo del matraccio. Mescolare accuratamente il contenuto del matraccio e scaldarlo in bagnomaria a 60-65C. Se la cartina di tornasole si colora in blu entro 15 minuti, vi è presenza di ammoniaca ed il metodo non può essere applicato (cfr. sezione 1). 
+ 
+
+ 6.3. Prova in bianco. 
+ 
+
+ Contemporaneamente alla determinazione del contenuto di azoto del campione eseguire una prova in bianco usando 0,5 g del saccarosio (4.4.) invece della porzione di campione, usando la stessa apparecchiatura, gli stessi quantitativi di tutti i reattivi e lo stesso procedimento descritto al punto 6.5. Se la titolazione nella determinazione del bianco supera 0,5 ml di acido 0,1 M/l, i reattivi devono essere controllati ed il reattivo od i reattivi impuri devono essere purificati o sostituiti. 
+ 
+
+ 6.4. Porzione di campione. 
+ 
+
+ Trasferire nel pallone di Kjeldahl (5.2.) da 0,3 a 0,4 g del campione (6.1.), pesato con l'approssimazione di 0,1 mg. 
+ 
+
+ 6.5. Determinazione. 
+ 
+
+ 6.5.1. Introdurre nel matraccio qualche pezzettino di porcellana o qualche pallina di vetro (5.10.1.), nonchè circa 15 g di solfato potassico anidro (4.2.). 
+ 
+
+ Aggiungere 0,2 g del solfato di rame (II) (4.3.) e sciacquare il collo del matraccio con un pò d'acqua. Aggiungere 20 ml di acido solforico concentrato (4.1.). Mescolare il contenuto del matraccio. 
+ 
+
+ Scaldare delicatamente l'apparecchio di digestione (5.3.) fino a scomparsa dell'eventuale schiuma. Portare a ebollizione leggera fino a che la soluzione non diventi limpida e persiste un colore verde-blu pallido. Durante il riscaldamento agitare il matraccio di tanto in tanto. 
+ 
+
+ Continuare l'ebollizione, regolando il calore in modo da condensare i vapori nel mezzo del collo del matraccio. Continuare a riscaldare per 90 minuti evitando un surriscaldamento locale. 
+ 
+
+ Far raffreddare a temperatura ambiente. Aggiungere cautamente circa 200 ml d'acqua e qualche pezzo di pietra pomice (5.10.2.). Mescolare e raffreddare nuovamente. 
+ 
+
+ 6.5.2. Travasare nella beuta (5.7.) 50 ml della soluzione di acido borico (4.5.) e 4 gocce dell'indicatore (4.8.). Mescolare. Sistemare la beuta sotto il condensatore (5.4.) in modo che l'estremità del tubo di uscita (5.5.) sia immersa nella soluzione di acido borico.
+ 
+
+ Facendo uso di un cilindro graduato (5.8.), aggiungere al pallone di Kjeldahl 80 ml della soluzione di idrossido di sodio (4.6.). Durante questa operazione, mantenere il pallone in posizione inclinata facendo scorrere la soluzione di idrossido di sodio lungo la parete della beuta in modo da formare uno strato sul fondo. 
+ 
+
+ Collegare immediatamente il pallone di Kjeldahl al condensatore per mezzo della trappola anti-spruzzi (5.6.). 
+ 
+
+ Ruotare delicatamente il pallone di Kjeldahl in modo da mescolarne il contenuto. Portare a leggera ebollizione evitando la formazione di schiuma. Continuare la distillazione in modo che 150 ml di distillato siano raccolti in circa 30 minuti. 
+ 
+
+ Il distillato dovrà avere una temperatura al di sotto dei 25C.
+ 
+
+ Circa due minuti prima della fine della distillazione, abbassare il matraccio in modo che l'estremità del tubo d'uscita non sia più immerso d'acqua. Interrompere il riscaldamento, rimuovere il tubo di uscita e sciacquarne le pareti esterne ed interne con un pò di acqua, raccogliendo le acque di lavaggio nel matraccio. 
+ 
+
+ 6.5.3. Titolare il distillato nel matraccio, facendo uso di una soluzione titolata di acido cloridrico (4.7.). 
+ 
+
+ 7. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 7.1. Formula e metodo di calcolo. 
+ 
+
+ Il tenore proteico del campione, espresso come percentuale in peso, è dato dalla seguente formula: 
+ 
+
+ 
+ (V1 - V2) x T x 1.4 x 100 x 6.38 
+ 
+
+ 
+ --------------------------------- = 
+ 
+
+ 
+ m x 1000 
+ 
+
+ 
+ 
+ 
+
+ 
+ 8,932 (V1 - V2) x T 
+ 
+
+ 
+ = ----------------------- 
+ 
+
+ 
+ m 
+ 
+
+ dove 
+ 
+
+ V1 è il volume, in millilitri, della soluzione titolata di acido cloridrico (4.7.) usata nella determinazione (6.5.); 
+ 
+
+ V2 è il volume, in millilitri, della soluzione titolata di acido cloridrico (4.7.) usata nella prova in bianco (6.3.); 
+ 
+
+ T è il titolo della soluzione titolata di acido cloridrico (4.7.) in M/l; 
+ 
+
+ m è la massa, in grammi, della porzione di campione. 
+ 
+
+ Calcolare il tenore proteico con l'approssimazione di 0,1%. 
+ 
+
+ 7.2. Ripetibilità. 
+ 
+
+ La differenza tra i risultati di due determinazioni eseguite simultaneamente o in successione rapida sullo stesso campione, dallo stesso analista, nelle stesse condizioni, non deve superare 0,5 g di proteina per 100 g di prodotto. 
+ 
+
+ Tale intervallo di ripetibilità deve essere ottenuto nel 95% dei casi in cui il metodo è applicato correttamente. 
+ 
+
+ 
+ 
+
+ 
+ Metodo 3 - DETERMINAZIONE DELL'ACIDITà TITOLABILE 
+ 
+
+ 
+ 
+
+ 1. SCOPO E CAMPO D'APPLICAZIONE. 
+ 
+
+ Il metodo determina l'acidità titolabile delle 
+ 
+
+ - caseine acide. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Per acidità titolabile delle caseine acide si intende il volume, in millilitri, di una soluzione standard di idrossido di sodio 0,1 M/l necessario per neutralizzare un estratto acquoso di 1 g di sostanza. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ Si prepara un estratto acquoso del campione a 60C e si filtra. Il filtrato viene titolato con una soluzione titolata di idrossido di sodio usando la fenolftaleina come indicatore. 
+ 
+
+ 4. REATTIVI. 
+ 
+
+ L'acqua usata nell'esecuzione del metodo o nella preparazione dei reattivi deve essere esente da anidride carbonica, per cui deve essere bollita per 10 minuti prima dell'uso. 
+ 
+
+ 4.1. Soluzione di idrossido di sodio, 0,1 M/l. 
+ 
+
+ 4.2. Soluzione di fenolftaleina, 10 g/l in etanolo (95% v/v), neutralizzato all'indicatore. 
+ 
+
+ 5. APPARECCHIATURA. 
+ 
+
+ 5.1. Bilancia analitica. 
+ 
+
+ 5.2. Beuta, avente una capacità di 500 ml, con collo smerigliato e provvisto di tappo smerigliato. 
+ 
+
+ 5.3. Pipetta tarata, avente una capacità di 100 ml. 
+ 
+
+ 5.4. Pipetta, atta a misurare 0,5 ml di soluzione di indicatore 54.2.). 
+ 
+
+ 5.5. Beuta, da 250 ml. 
+ 
+
+ 5.6. Cilindro graduato, da 250 ml. 
+ 
+
+ 5.7. Buretta, graduata in 0,1 ml. 
+ 
+
+ 5.8. Bagnomaria termostatabile alla temperatura di 60 (Più o Meno) 2C. 
+ 
+
+ 5.9. Filtro adeguato. 
+ 
+
+ 6. PROCEDIMENTO. 
+ 
+
+ 6.1. Preparazione del campione per la prova. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 6.2. Porzione di campione. 
+ 
+
+ Pesare circa 10 g del campione (6.1.) con l'approssimazione di 10 mg e travasarlo nella beuta (5.2.). 
+ 
+
+ 6.3. Determinazione. 
+ 
+
+ Facendo uso del cilindro graduato da 250 ml (5.6.), aggiungere 200 ml di acqua bollita di recente e raffreddata, previamente scaldata a 60C. Chiudere la beuta, mescolare agitando e sistemare in un bagnomaria a 60C (5.8.) per 30 minuti. 
+ 
+
+ Agitare la beuta ad intervalli di circa 10 minuti. 
+ 
+
+ Filtrare e raffreddare il filtrato a circa 20C. Il filtrato deve essere limpido. 
+ 
+
+ Travasare 100 ml del filtrato raffreddato nella beuta (5.5.) facendo uso della pipetta (5.3.). Aggiungere 0,5 ml della soluzione di fenolftaleina (4.2.), usando la pipetta (5.4.). Titolare con soluzione titolata di idrossido di sodio (4.1.), fino a comparsa di colorazione rosa debole, persistente per almeno 30 secondi. Valutare e registrare il volume usato con l'approssimazione di 0,01 ml. 
+ 
+
+ 7. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 7.1. Formula e metodo di calcolo. 
+ 
+
+ L'acidità titolabile della caseina è data dalla seguente formula: 20 x V x T 
+ 
+
+ 
+ ----------- 
+ 
+
+ 
+ m 
+ 
+
+ dove 
+ 
+
+ V è il volume, in millilitri, della soluzione titolata di idrossido di sodio (4.1.) usata; 
+ 
+
+ T è il titolo della soluzione titolata di idrossido di sodio (4.1.) in mol/l; 
+ 
+
+ m è la massa in grammi della porzione di campione. 
+ 
+
+ Calcolare l'acidità titolabile con l'approssimazione di due cifre decimali. 
+ 
+
+ 7.2. Ripetibilità. 
+ 
+
+ La differenza fra i risultati di due determinazioni effettuate simultaneamente oppure in successione rapida sullo stesso campione, dallo stesso analista, nelle stesse condizioni, non deve superare 0,02 ml di idrossido di sodio 0,01 M/l per 1 g di prodotto. 
+ 
+
+ Tale intervallo di ripetibilità deve essere ottenuto nel 95% dei casi in cui il metodo è applicato correttamente. 
+ 
+
+ 
+ 
+
+ 
+ Metodo 4 - DETERMINAZIONE DELLE CENERI 
+ 
+
+ 
+ (P2O5 COMPRESO) 
+ 
+
+ 
+ 
+
+ 1. SCOPO E CAMPO D'APPLICAZIONE. 
+ 
+
+ Il metodo determina il tenore di ceneri (P2O5 compreso) della seguente sostanza: 
+ 
+
+ - caseine acide. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Il tenore di ceneri (P2O5 compreso) è il contenuto di ceneri determinato col metodo appresso specificato. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ Una porzione del campione viene calcinata a 825 (Più o Meno) 25C in presenza di acetato di magnesio in modo da legare tutto il fosforo di origine organica. La cenere finale viene calcolata dopo aver pesato il residuo e dopo aver sottratto la massa della cenere derivata dall'acetato di magnesio. 
+ 
+
+ 4. REATTIVI. 
+ 
+
+ 4.1. 
+ 
+
+ Soluzione di acetato di magnesio tetraidrato, 120 g/l. Sciogliere 120 g di magnesio acetato tetraidrato (Mg (CH3 CO2 )2 4H2 O) in acqua e portare al volume di 1 l con acqua. 
+ 
+
+ 5. APPARECCHIATURA. 
+ 
+
+ 5.1. Bilancia analitica. 
+ 
+
+ 5.2. Pipetta tarata, 5 ml. 
+ 
+
+ 5.3. Capsule di silice o di platino, aventi circa 70 mm di diametro e dai 25 ai 50 mm di altezza. 
+ 
+
+ 5.4. Stufa di essiccazione, termostatabile a 102 (Più o Meno) 1C.
+ 
+
+ 5.5. Forno elettrico a circolazione d'aria, termostatabile a 825 (Più o Meno) 25C. 
+ 
+
+ 5.6. Bagnomaria. 
+ 
+
+ 5.7. Essiccatore contenente gel di silice attivato di recente, con un indicatore del tenore idrico, oppure un equivalente essiccante. 
+ 
+
+ 6. PROCEDIMENTO. 
+ 
+
+ 6.1. Preparazione del campione. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 6.2. Preparazione delle capsule. 
+ 
+
+ Scaldare due capsule (A, B) (5.3.) nel forno elettrico (5.5.), mantenuto a 825 (Più o Meno) 25C, per 30 minuti. Lasciar raffreddare un pò le capsule e metterle nell'essiccatore (5.7.).
+ 
+
+ Quando hanno raggiunto la temperatura ambiente nella stanza delle bilance, pesare con l'approssimazione di 0,1 mg. 
+ 
+
+ 6.3. Porzione di campione. 
+ 
+
+ Pesare con l'approssimazione di 0,1 mg in una delle capsule preparate (A) circa 3 g del campione (6.1.). 
+ 
+
+ 6.4. Determinazione. 
+ 
+
+ Facendo uso della pipetta (5.2.), aggiungere alla capsula (A) esattamente 5 ml della soluzione di acetato di magnesio (4.1.) in modo da bagnare tutta la porzione di campione e lasciare riposare per 20 minuti. 
+ 
+
+ All'altra capsula preparata (B), aggiungere con la pipetta (5.2.) esattamente 5 ml della soluzione di acetato di magnesio (4.1.). 
+ 
+
+ Evaporare il contenuto di entrambe le capsule (A e B) fino ad essiccazione sul bagnomaria bollente (5.6.). 
+ 
+
+ Introdurre entrambe le capsule nella stufa (5.4.), mantenuta a 102 (Più o Meno) 1C, per 30 minuti. 
+ 
+
+ Scaldare la capsula A col suo contenuto su una fiamma bassa o sotto una lampada a raggi I/R o su una piastra scaldante finchè il residuo è completamente carbonizzato, facendo attenzione a che non vada in fiamme. 
+ 
+
+ Trasferire entrambe le capsule (A e B) nel forno elettrico (5.5.), mantenuto a 825 (Più o Meno) 25C e scaldare per almeno 1 ora finchè tutto il carbone è scomparso dalla capsula A. Lasciar raffreddare un pò entrambe le capsule, metterle nell'essiccatore (5.7.). Quando hanno raggiunto la temperatura ambiente nella stanza delle bilance, pesare con l'approssimazione di 0,1 mg. 
+ 
+
+ Ripetere le operazioni di riscaldamento per circa 30 minuti, nel forno elettrico, raffreddando e pesando, finchè la massa resta 
+ 
+
+ costante entro 
+ 
+
+ la variazione di 1 mg oppure comincia ad aumentare. Registrare la massa minore. 
+ 
+
+ 7. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 7.1. 
+ 
+
+ Metodo di calcolo. 
+ 
+
+ Il tenore in "ceneri (P2O5 compreso)" del campione, come percentuale in massa, è dato dalla formula: 
+ 
+
+ 
+ (m1 - m2) - (m3 - m4) 
+ 
+
+ 
+ ----------------------- x 100 
+ 
+
+ 
+ m0 
+ 
+
+ dove 
+ 
+
+ m0 è la massa, in grammi, della porzione di campione; 
+ 
+
+ m1 è la massa, in grammi, della capsula A e residuo; 
+ 
+
+ m2 è la massa, in grammi, della capsula preparata A; 
+ 
+
+ m3 è la massa, in grammi, della capsula B e residuo; 
+ 
+
+ m4 è la massa, in grammi, della capsula preparata B. 
+ 
+
+ Calcolare il risultato finale con l'approssimazione di 0,01%. 
+ 
+
+ 7.2. Ripetibilità. 
+ 
+
+ La differenza fra i risultati di due determinazioni eseguite contemporaneamente od in successione rapida sullo stesso campione, dallo stesso analista, nelle stesse condizioni, non deve superare 0,1 g per 100 g di prodotto. Tale intervallo di ripetibilità deve essere ottenuto nel 95% dei casi in cui il metodo è applicato correttamente. 
+ 
+
+ 
+ 
+
+ 
+ Metodo 5 - DETERMINAZIONE DELLE CENERI 
+ 
+
+ 
+ (P2O5 COMPRESO) 
+ 
+
+ 
+ 
+
+ 1. SCOPO E CAMPO D'APPLICAZIONE. 
+ 
+
+ Il presente metodo determina il contenuto di ceneri nelle seguenti sostanze: 
+ 
+
+ - caseine presamiche. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Per contenuto di "ceneri (P2O5 compreso)" si intende il contenuto di ceneri determinato col metodo appresso specificato. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ Una porzione del campione viene calcinata a 825 (Più o Meno) 25C fino a peso costante. Il residuo viene determinato per pesata e calcolato come percentuale in peso del campione. 
+ 
+
+ 4. APPARECCHIATURA. 
+ 
+
+ 4.1. Bilancia analitica. 
+ 
+
+ 4.2. Capsule di silice o di platino, avente un diametro di 70 mm ed una altezza da 25 a 50 mm. 
+ 
+
+ 4.3. Forno elettrico a circolazione d'aria, atto ad essere mantenuto a 825 (Più o Meno) 25C. 
+ 
+
+ 4.4. Essiccatore contenente gel di silice attivato di recente, con un indicatore del contenuto d'acqua, oppure un essiccante equivalente. 
+ 
+
+ 5. PROCEDIMENTO. 
+ 
+
+ 5.1. Preparazione del campione per la prova. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 5.2. Preparazione della capsula. 
+ 
+
+ Scaldare la capsula (4.2.) nel forno elettrico (4.3.), mantenuto a 825 (Più o Meno) 25C per 30 minuti. Far raffreddare un pò la capsula e metterla nell'essiccatore (4.4.). Quando ha raggiunto la temperatura ambiente nella stanza delle bilance, pesare con l'approssimazione di 0,1 mg. 
+ 
+
+ 5.3. Porzione di campione. 
+ 
+
+ Pesare con l'approssimazione di 0,1 mg, nella capsula preparata, circa 3 g del campione (5.1.). 
+ 
+
+ 5.4. Determinazione. 
+ 
+
+ Scaldare la capsula con il suo contenuto su una fiamma bassa o sotto una lampada a raggi I/R o su una piastra scaldante fino a che la porzione è completamente calcinata, facendo attenzione che non si incendi. 
+ 
+
+ Trasferire la capsula nel forno elettrico (4.3.) mantenuto a 825 (Più o Meno) 25C e scaldare per almeno un'ora finchè tutto il residuo carbonioso è scomparso dal piatto. Far raffreddare un pò la capsula e metterla nell'essiccatore (4.4.). Quando ha raggiunto la temperatura ambiente nella stanza delle bilance, pesare con l'approssimazione di 0,1 mg. 
+ 
+
+ Ripetere le operazioni di riscaldamento nel forno elettrico (4.3.), per circa 30 minuti raffreddando e pesando, finchè la massa non resta costante entro una variazione di 1 mg oppure non comincia ad aumentare. Registrare la massa minore. 
+ 
+
+ 6. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 6.1. Metodo di calcolo e formula. 
+ 
+
+ Il tenore in "ceneri (P2O5 compreso)" del campione, come percentuale in massa, è dato dalla formula: 
+ 
+
+ 
+ m1 - m2 
+ 
+
+ 
+ ---------- x 100 
+ 
+
+ 
+ m0 
+ 
+
+ dove 
+ 
+
+ m0 è la massa, in grammi, della porzione di campione; 
+ 
+
+ m1 è la massa, in grammi, della capsula e del residuo; 
+ 
+
+ m2 è la massa, in grammi, della capsula preparata. 
+ 
+
+ Calcolare il risultato finale con l'approssimazione di 0,01%. 
+ 
+
+ 6.2. Ripetibilità. 
+ 
+
+ La differenza tra i risultati di due determinazioni effettuate simultaneamente o in successione rapida sullo stesso campione, dallo stesso analista, nelle stesse condizioni, non deve superare 0,15 g di ceneri per 100 g di prodotto. Tale intervallo di ripetibilità deve essere ottenuto nel 95% dei casi in cui il metodo è applicato correttamente. 
+ 
+
+ 
+ 
+
+ 
+ Metodo 6 - DETERMINAZIONE DEL PH 
+ 
+
+ 
+ 
+
+ 1. SCOPO E CAMPO D'APPLICAZIONE. 
+ 
+
+ Il presente metodo determina il pH delle seguenti sostanze: 
+ 
+
+ - caseinati. 
+ 
+
+ 2. DEFINIZIONE. 
+ 
+
+ Per pH dei caseinati si intende il pH, a 20C, di una soluzione acquosa di caseinati, determinato col metodo appresso specificato. 
+ 
+
+ 3. PRINCIPIO. 
+ 
+
+ La determinazione elettrometrica del pH di una soluzione acquosa di caseinati facendo uso di un pH-metro. 
+ 
+
+ 4. REATTIVI. 
+ 
+
+ L'acqua usata nella preparazione dei reattivi o nel procedimento (6) deve essere distillata di recente e protetta dall'assorbimento di diossido di carbonio. 
+ 
+
+ 4.1. Soluzioni tampone, per la taratura del pH-metro (5.2.). 
+ 
+
+ Due soluzioni tampone standard con valori di pH a 20C, noti alla seconda cifra decimale e delimitanti il pH del campione in analisi, ad esempio soluzione di tampone ftalato avente un pH di circa 4 e soluzione di tampone borace avente un pH di circa 9. 
+ 
+
+ 5. APPARECCHIATURA. 
+ 
+
+ 5.1. Bilancia, con la precisione di 0,1 g. 
+ 
+
+ 5.2. pH-metro, con una sensibilità minima di 0,05 unità di pH, con un idoneo elettrodo calibrato ad esempio elettrodo di vetro o elettrodo a calomelano o altro elettrodo di riferimento. 
+ 
+
+ 5.3. Termometro, con una precisione di 0,5C. 
+ 
+
+ 5.4. Beuta, della capacità di 100 ml provvista di tappo di vetro smerigliato. 
+ 
+
+ 5.5. Becher, avente una capacità di 50 ml. 
+ 
+
+ 5.6. Agitatore. 
+ 
+
+ 5.7. Becher, per l'agitatore (5.6.) avente una capacità di almeno 250 ml. 
+ 
+
+ 6. PROCEDIMENTO. 
+ 
+
+ 6.1. Preparazione del campione. 
+ 
+
+ Come descritto nella sezione 1.2. delle disposizioni generali. 
+ 
+
+ 6.2. Determinazione. 
+ 
+
+ 6.2.1. Taratura del pH-metro. 
+ 
+
+ Regolare la temperatura delle soluzioni tampone (4.1.) a 20C e tarare il pH-metro secondo le istruzioni del fabbricante.
