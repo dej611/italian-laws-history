@@ -136,12 +136,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
-
  Tabella n. 1.
  
 
@@ -709,6 +703,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  Tabella n. 10 
  
 
@@ -720,10 +717,7 @@ VITTORIO EMANUELE III
 
  
  
-
- 
- 
- ((Personale subalterno
+ ((Personale subalterno.
  
 
  
@@ -732,52 +726,52 @@ VITTORIO EMANUELE III
  
  
 
- Capo agente tecnico . . . . . . . . N. 1
+ 
+ 
+
+ Capo agente tecnico . . . . . . . . . . . . . . 1
  
 
  
  
 
- Agenti tecnici . . . . . . . . . .. &raquo; 9
+ Agenti tecnici . . . . . . . . . . . . . . . . . 13
  
 
  
  
 
- Commesso capo . . . . . . . . . . . &raquo; 1
+ Commesso capo . . . . . . . . . . . . . . . . . 1
  
 
  
  
 
- Primi commessi . . . . . . . . . . .&raquo; 2
+ Primi commessi . . . . . . . . . . . . . . . . . 2
  
 
  
  
 
- Uscieri capi . . . . . . . . . . . &raquo; 29
+ Uscieri capi . . . . . . . . . . . . . . . . . . 29
  
 
  
  
 
- Uscieri . . . . . . . . . . . . . . &raquo; 30
+ Uscieri . . . . . . . . . . . . . . . . . . . . 28
  
 
  
  
 
- Inservienti . . . . . . . . . . . . &raquo; 14
+ Inservienti . . . . . . . . . . . . . . . . . . 12
  
 
- 
- 
-
- --
+ ----
  
 
- 
+ Totale . . . . . 86
  
 
- Totale . . . N. 86))
+ ----))
