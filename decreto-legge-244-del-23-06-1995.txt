@@ -38,7 +38,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Le somme individuate dal Comitato interministeriale per la programmazione economica (CIPE) per consentire l'erogazione di incentivi industriali in forma automatica nelle aree depresse del territorio nazionale ai sensi dell'articolo 9, comma 3, del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, affluiscono all'apposita sezione del fondo di cui all'articolo 14 della legge 17 febbraio 1982, n. 46, prevista dall'articolo 4, comma 6, del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104, per essere versate trimestralmente all'entrata del bilancio dello Stato in relazione agli interventi di cui al comma 2.
+ 1. 
+ (( Ai fini dell'immediato avvio dell'intervento ordinario nelle aree depresse, ))
+
+ le somme individuate dal Comitato interministeriale per la programmazione economica (CIPE) per consentire l'erogazione di incentivi industriali in forma automatica nelle aree depresse del territorio nazionale ai sensi dell'articolo 9, comma 3, del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, affluiscono all'apposita sezione del fondo di cui all'articolo 14 della legge 17 febbraio 1982, n. 46, prevista dall'articolo 4, comma 6, del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104, per essere versate trimestralmente all'entrata del bilancio dello Stato in relazione agli interventi di cui al comma 2. 
  
 
  
@@ -52,7 +55,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il documento, da compilarsi conformemente al suddetto modello, sarà utilizzato dal beneficiario delle agevolazioni, che si avvale del conto fiscale di cui alla legge 30 dicembre 1991, n. 413, e successive modificazioni, solo dopo la liquidazione finale delle agevolazioni stesse, effettuata sulla base di una verifica di regolarità meramente formale, per il pagamento di imposte che affluiscono sullo stesso conto fiscale, ivi incluse quelle dovute in qualità di sostituto d'imposta, costituendo conseguentemente titolo di corrispondente regolazione contabile per i concessionari della riscossione, ai quali viene concessa una tolleranza di pari importo.
  
 
- Con decreto del Ministro delle finanze, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono approvate le norme attuative sulla regolazione contabile per i concessionari della riscossione.
+ Con decreto del Ministro delle finanze, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono approvate le norme attuative sulla regolazione contabile per i concessionari della riscossione. 
  
 
  
@@ -60,7 +63,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Il documento di cui al comma 2 è presentato al Ministero dell'industria, del commercio e dell'artigianato ai fini della prenotazione delle risorse. L'importo dell'agevolazione in forma automatica è pari al 50 per cento dell'intensità massima delle agevolazioni consentite dalla Unione europea. L'accesso alle agevolazioni in forma automatica esclude ogni possibilità di richiedere ed ottenere, a qualsiasi titolo, per i medesimi investimenti, altre agevolazioni. La limitazione del 50 per cento non vale per le agevolazioni aggiuntive eventualmente stabilite da disposizioni normative finalizzate a favorire specialmente l'occupazione, sempre nel rispetto dell'intensità massima consentita dall'Unione europea.
+ 3. Il documento di cui al comma 2 è presentato al Ministero dell'industria, del commercio e dell'artigianato ai fini della prenotazione delle risorse. L'importo dell'agevolazione in forma automatica è pari 
+ (( al 60 per cento ))
+
+ dell'intensità massima delle agevolazioni consentite dalla Unione europea. L'accesso alle agevolazioni in forma automatica esclude ogni possibilità di richiedere ed ottenere, a qualsiasi titolo, per i medesimi investimenti, altre agevolazioni. La limitazione 
+ (( del 60 per cento ))
+
+ non vale per le agevolazioni aggiuntive eventualmente stabilite da disposizioni normative finalizzate a favorire specialmente l'occupazione, sempre nel rispetto dell'intensità massima consentita dall'Unione europea. 
  
 
  
@@ -68,7 +77,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Ai fini della fruizione dell'agevolazione, entro diciotto mesi dalla presentazione del documento come prevista dal comma 3, l'investimento deve risultare effettuato ed interamente pagato l'importo delle relative spese.
+ 4. Ai fini della fruizione dell'agevolazione, entro diciotto mesi dalla presentazione del documento come prevista dal comma 3, l'investimento deve risultare effettuato ed interamente pagato l'importo delle relative spese. 
  
 
  
@@ -76,7 +85,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Fermo quanto previsto dalle disposizioni penali, al soggetto beneficiario delle agevolazioni in forma automatica, che abbia rilasciato false dichiarazioni, il Ministero dell'industria, del commercio e dell'artigianato applica una sanzione amministrativa pecuniaria in misura da due a quattro volte l'importo dell'agevolazione liquidata.
+ 5. Fermo quanto previsto dalle disposizioni penali, al soggetto beneficiario delle agevolazioni in forma automatica, che abbia rilasciato false dichiarazioni, il Ministero dell'industria, del commercio e dell'artigianato applica una sanzione amministrativa pecuniaria in misura da due a quattro volte l'importo dell'agevolazione liquidata. 
  
 
  
