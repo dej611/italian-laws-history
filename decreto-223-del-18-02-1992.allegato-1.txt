@@ -1,0 +1,320 @@
+ALLEGATO 1 
+ 
+
+ ISTRUZIONI TECNICHE SULLA PROGETTAZIONE, OMOLOGAZIONE ED IMPIEGO 
+ 
+
+ DELLE BARRIERE DI SICUREZZA STRADALE. 
+ 
+
+ 
+ 
+
+ Art. 1. 
+ 
+
+ Oggetto delle istruzioni 
+ 
+
+ Classificazione delle barriere di sicurezza stradale 
+ 
+
+ Le presenti istruzioni tecniche disciplinano la progettazione, omologazione, e l'impiego delle barriere di sicurezza nelle costruzioni stradali. 
+ 
+
+ A seconda della loro destinazione ed ubicazione, le barriere si dividono nei seguenti tipi: 
+ 
+
+ a) barriere centrali da spartitraffico; 
+ 
+
+ b) barriere per bordo stradale, in rilevato o scavo; 
+ 
+
+ c) barriere per opere d'arte, quali ponti, viadotti, sottovia, muri ecc.; 
+ 
+
+ d) barriere per punti singolari, quali zone di approccio ad opere d'arte, in presenza di ostacoli fissi, in zone terminali e/o di interscambio e simili.
+Art. 2. 
+ 
+
+ Finalità delle barriere stradali 
+ 
+
+ Le barriere stradali di sicurezza sono poste in opere essenzialmente al fine di realizzare le condizioni di maggior sicurezza possibile, per gli utenti della strada e per i terzi, e quindi in primo luogo il contenimento dei veicoli che dovessero tendere alla fuoriuscita dalla carreggiata stradale. 
+ 
+
+ Le barriere devono essere idonee, nei limiti del possibile, ad assorbire parte dell'energia di cui è dotato il veicolo in movimento, così da limitare gli effetti d'urto sui passeggeri. 
+ 
+
+ Lo studio delle barriere deve perciò tendere al duplice scopo di redirezione del mezzo e di assorbimeto della aliquota più alta possibile dell'energia nell'urto.
+Art. 3. 
+ 
+
+ Individuazione delle zone da proteggere 
+ 
+
+ La protezione prevista dal decreto deve riguardare almeno: 
+ 
+
+ - i bordi di tutte le opere d'arte all'aperto, quali ponti, viadotti, ponticelli, sovrappassi e muri di sostegno della carreggiata, indipendentemente dalla loro estensione longitudinale e dall'altezza dal piano di campagna; la protezione dovrà estendersi opportunamente oltre lo sviluppo longitudinale strettamente corrispondente all'opera sino a raggiungere punti (prima e dopo l'opera) per i quali possa essere ragionevolmente escluso il rischio di conseguenze disastrose derivanti dalla fuoriuscita dei veicoli dalla carreggiata; 
+ 
+
+ - i casi previsti dalle vigenti norme stradali del CNR, relative alla progettazione geometrica delle strade, escludendo il caso di rilevato con altezza del ciglio minore di 2,50 m purchè la pendenza della scarpata sia minore o uguale a 1/3; 
+ 
+
+ - gli ostacoli fissi, laterali o centrali isolati, quali pile di ponti, fabbricati, tralicci di elettrodotti, portali della segnaletica, ovvero alberature ecc., entro una fascia di 5,00 m dal ciglio esterno della carreggiata.
+Art. 4. 
+ 
+
+ Indice di severità degli impatti 
+ 
+
+ Viene definito convenzionalmente "Indice di severità Is" l'energia cinetica posseduta dal mezzo all'atto dell'impatto calcolata con riferimento alla componente della velocità ortogonale alle barriere, espressa da: 
+ 
+
+ Is = (1/2) (P/g) (v sen 0)(Elevato al Quadrato) 
+ 
+
+ dove siano: 
+ 
+
+ Is = indice di severità (KNm); 
+ 
+
+ p = peso del veicolo (KN); 
+ 
+
+ g = accelerazione di gravità (m/s(Elevato al Quadrato)); 
+ 
+
+ v = velocità d'impatto (m/s); 
+ 
+
+ 0 = angolo di impatto.
+Art. 5. 
+ 
+
+ Materiali costituenti le barriere 
+ 
+
+ Ai fini della produzione ed accettazione delle barriere i materiali componenti dovranno avere le caratteristiche descritte nella documentazione presentata per l'omologazione nel rispetto delle vigenti normative sulle caratteristiche dei materiali stessi. 
+ 
+
+ Tutte le barriere, sia del tipo prefabbricato prodotto fuori opera od in stabilimento, sia del tipo realizzato in opera, dovranno essere identificabili con il nome del produttore, la classe di appartenenza e la sigla di omologazione (tipo e numero progressivo).
+Art. 6. 
+ 
+
+ Classificazione delle barriere 
+ 
+
+ Le barriere si classificano in relazione all'"indice di severità", come segue: 
+ 
+
+ - classe A1: barriere di sicurezza che ammettono un indice di severità compreso tra 5 e 15 KNm; 
+ 
+
+ - classe A2: barriere di sicurezza che ammettono un indice di severità compreso tra 15 e 50 KNm; 
+ 
+
+ - classe A3: barriere di sicurezza che ammettono un indice di severità compreso tra 50 e 150 KNm; 
+ 
+
+ - classe B1: barriere di sicurezza che ammettono un indice di severità compreso tra 150 e 300 KNm; 
+ 
+
+ - classe B2: barriere di sicurezza che ammettono un indice di severità compreso tra 300 e 600 KNm; 
+ 
+
+ - classe B3: barriere di sicurezza che ammettono un indice di severità compreso tra 600 e 1000 KNm.
+Art. 7. 
+ 
+
+ Criteri di scelta delle barriere di sicurezza 
+ 
+
+ La scelta delle barriere avverrà tenendo conto delle caratteristiche geometriche e della destinazione della strada, nonchè di quelle del traffico cui la stessa sarà interessata, salvo che per le barriere di cui al punto c) dell'art. 1 delle presenti istruzioni, per le quali dovranno essere sempre usate protezioni delle classi B e comunque in conformità della vigente normativa sulla progettazione, costruzione e collaudo dei ponti stradali. 
+ 
+
+ Per la valutazione del traffico, in mancanza di indicazioni fornite dal committente, il progettista provvederà a determinarne la composizione sulla base dei dati disponibili o rilevabili sulla strada interessata (Traffico giornaliero medio), ovvero di studio previsionale. Ai fini applicativi il traffico sarà classificato in ragione della prevalenza dei mezzi che lo compongono e distinto nei tre tipi seguenti: 
+ 
+
+ - traffico tipo I: quando la presenza di veicoli di peso superiore a 30 KN non sia superiore a 5% del totale; 
+ 
+
+ - traffico tipo II: quando la presenza di veicoli del peso superiore a 30 KN sia compresa tra 5% e 10% del totale; 
+ 
+
+ - traffico tipo III: quando la presenza di veicoli di peso superiore a 30 KN sia maggiore 10% del totale. 
+ 
+
+ Ai fini pratici la seguente tabella A riporta, distinte per i tipi di strada più comuni ed in ragione del tipo di traffico, le classi minime di barriere da impiegare nei vari casi. Si fa riferimento alla classificazione prevista nelle vigenti norme CNR. Per le strade esistenti si procede per assimilazione. 
+ 
+
+ 
+ 
+
+ TABELLA A
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ Tipo di strada | Tipo | Classe
+ 
+
+ 
+ | di traffico |
+ 
+
+ 
+ ___________________________________|_________________|_______________
+ 
+
+ 
+ Strada extraurbana tipo B, C . . . . I A1
+ 
+
+ 
+ II A3
+ 
+
+ 
+ III B1
+ 
+
+ 
+ Strada urbana di scorrimento e
+ 
+
+ 
+ strada extraurbana tipo V, VI, A . . I A2
+ 
+
+ 
+ II B1
+ 
+
+ 
+ III B2
+ 
+
+ 
+ Strada urbana primaria I A2
+ 
+
+ 
+ II B2
+ 
+
+ 
+ III B3
+ 
+
+ 
+ Strada extraurbana tipo I, II, III, IV I A3
+ 
+
+ 
+ II B2
+ 
+
+ 
+ III B3
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il progettista della sicurezza stradale, di cui all'art. 2 del decreto, dovrà prevedere la protezione dei punti indicati all'art. 3 delle presenti istruzioni. 
+ 
+
+ Il progettista sceglierà le barriere da adottare fra i diversi tipi omologati tenendo conto della loro congruenza con il tipo di strada ed il traffico prevedibile su di essa secondo quanto indicato nelle presenti istruzioni. 
+ 
+
+ Ove reputato necessario, il progettista potrà utilizzare barriere della classe superiore a quella minima indicata. 
+ 
+
+ Il progettista dovrà inoltre curare con specifici disegni esecutivi l'adattamento dei singoli dispositivi alla sede stradale in termini di supporti, drenaggio delle acque, collegamenti tra i diversi tipi di protezione, zone di approccio alla barriere, ecc.
+Art. 8. 
+ 
+
+ Procedure per l'omologazione 
+ 
+
+ La richiesta di omologazione di un tipo di barriera stradale deve essere inoltrata al Ministero dei lavori pubblici - Ispettorato generale circolazione e traffico, con domanda corredata dai seguenti documenti, in doppia copia: 
+ 
+
+ a) relazione sulle caratteristiche geometriche e dei materiali del manufatto, con sintesi delle risultanze delle prove sperimentali sostenute secondo quanto disposto dalle presenti istruzioni. Nella relazione sarà indicato in particolare: 
+ 
+
+ - nome e ragione sociale del produttore o dell'ente proponente che dovrà, però, indicare il nome del produttore; 
+ 
+
+ - tipo e classi per le quali si richiede l'omologazione; 
+ 
+
+ - caratteristiche specifiche che individuano il prodotto; 
+ 
+
+ - caratteristiche dei materiali del manufatto; 
+ 
+
+ b) documentazione grafica completa del manufatto, atta alla individuazione e riproduzione di tutti i particolari che lo caratterizzano, compresa la parte iniziale (testata); 
+ 
+
+ c) certificazioni delle prove sostenute sul manufatto e dei materiali e delle risultanze delle stesse, tali da definire la classe di appartenenza conseguente all'indice di severità effettivo degli impatti. 
+ 
+
+ In caso di barriere che - per materiali, geometria e procedimenti costruttivi - risultino equivalenti a barriere già omologate e per le quali sono state eseguite le prove di cui al precedente punto c), queste ultime potranno essere in tutto o in parte omesse ai fini dell'omologazione. 
+ 
+
+ In caso di barriere che abbiano già conseguito una omologazione presso uno degli Stati membri della Comunità economica europea deve essere fornita, oltre alla omologazione già conseguita, la documentazione tecnica e la certificazione delle prove già sostenute sul manufatto, semprechè le stesse siano state effettuate presso un istituto autorizzato dalle autorità competenti e quindi incluso nell'elenco previsto al successivo art. 9. 
+ 
+
+ Ove le prove non fossero sufficienti ad attestare la rispondenza delle barriere ai requisiti minimi richiesti per l'omologazione in Italia, è facoltà dell'Ispettorato circolazione e traffico di richiedere documentazioni e prove integrative, nei limiti di quanto richiesto nel caso di prima omologazione in Italia. 
+ 
+
+ Dopo aver riscontrato la rispondenza della documentazione alle istruzioni l'Ispettorato circolazione e traffico sentito il parere del Consiglio superiore dei lavori pubblici, rilascerà un "certificato di omologazione" con numerazione progressiva, nell'ambito dei diversi tipi di cui all'art. 1. 
+ 
+
+ Il tipo di barriera ritenuta idonea verrà successivamente inserito in un catalogo contenente le indicazioni di impiego.
+Art. 9. 
+ 
+
+ Modalità di prova delle barriere e criteri di giudizio ai fini dell'omologazione 
+ 
+
+ L'idoneità delle barriere, ai fini indicati all'art. 8, è subordinata al superamento di prove su prototipi in scala reale, eseguite presso campi prove attrezzati, sia italiani sia esteri. 
+ 
+
+ L'Ispettorato circolazione e traffico indicherà con propria circolare gli istituti autorizzati alle prove, il cui elenco potrà essere aggiornato o integrato in ragione di motivate domande di autorizzazione. 
+ 
+
+ In detto elenco sono inseriti di diritto gli istituti esteri autorizzati dalle proprie autorità competenti all'esecuzione di prove di verifica, ai fini del rilascio della certificazione di idoneità tecnica delle barriere di sicurezza stradale. 
+ 
+
+ Le modalità delle prove, il numero e le caratteristiche dei veicoli da impiegare, nonchè le altre condizioni richieste per l'accettazione dovranno rispondere alle disposizioni di cui all'allegato 1A "Prescrizioni tecniche per le prove delle barriere di sicurezza stradale ai fini dell'omologazione". 
+ 
+
+ Dette prescrizioni saranno soggette ad aggiornamenti successivi, in ragione delle esperienze maturate dal progresso della tecnica del settore. 
+ 
+
+ Ai fini del giudizio sull'esito delle prove, saranno valutati essenzialmente i seguenti aspetti: 
+ 
+
+ - non superamento o sfondamento della barriera, nel suo complesso; 
+ 
+
+ - redirezione controllata dei veicoli; 
+ 
+
+ - capacità della barriera ad assicurare, prima della sua rovina, una variazione di assetto e/o deformazione del sistema, adeguata agli aspetti sopra richiamati; 
+ 
+
+ - non superamento dei limiti fissati per le decelerazioni in relazione all'indice di severità dell'impatto.
