@@ -112,6 +112,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  Gruppo A.
  
 
@@ -127,7 +130,7 @@ VITTORIO EMANUELE III
  4° Vice Governatore di Roma . . . . . . . . . . . . 1
  
 
- 4° Segretario generale del Governstorato di
+ 4° Segretario generale del Governatorato di
  
 
  Roma. . . . . . . . . . . . . . . . . . . . . 1
@@ -157,14 +160,14 @@ VITTORIO EMANUELE III
  8° Consiglieri di 2° classe . . . . . . . . . . . ./
  
 
- 9° Primi segretari . . . . . . . . . . . . . . . . . 144
- 
+ 9° Primi segretari . . . . . . . . . . . . . . . . . 
+ ((154))
 
  10°Segretari . . . . . . . . . . . . . . . . . . . .\
  
 
- 287
  
+ ((307))
 
  11° Vicesegretari . . . . . . . . . . . . . . . . ./
  
@@ -172,16 +175,13 @@ VITTORIO EMANUELE III
  -----
  
 
- Totale . . . . . .1133
- 
+ Totale . . . . . .
+ ((1163))
 
  -----
  
 
- (1)Più il numero dei Prefetti di 1° e 2° classe a disposizione, a
- 
-
- norma dell'art. 102 del R. decreto 30 dicembre 1923, n. 2960.
+ (1) Più il numero dei Prefetti di 1° e 2° classe a disposizione, a norma dell'art. 102 del R. decreto 30 dicembre 1923, n. 2960.
  
 
  
@@ -202,26 +202,32 @@ VITTORIO EMANUELE III
  6° ispettori superiori di ragioneria . . . . . . . . 5
  
 
- 7° Ragionieri capi di 1° classe . . . . . . . . . . . 
- ((95))
+ 7° Ragionieri capi di 1° classe . . . . . . . . . . . 95
+ 
 
- 8° Ragionieri capi di 2° classe . . . . . . . . . . . 
- ((89))
+ 8° Ragionieri capi di 2° classe . . . . . . . . . . . 89
+ 
 
- 9° Primi ragionieri . . . . . . . . . . . . . . . . . 
- ((219))
+ 9° Primi ragionieri . . . . . . . . . . . . . . . . . 219
+ 
 
  10° Ragionieri . . . . . . . . . . . . . . . . . . . . \
  
 
+ 257
  
- ((257))
 
  11° Viceragionieri . . . . . . . . . . . . . . . . . . /
  
 
- ---- Totale . . . . . . . 
- ((665))
+ ----
+ 
+
+ Totale . . . . . . . 665
+ 
+
+ 
+ 
 
  
  
@@ -238,23 +244,29 @@ VITTORIO EMANUELE III
  
  
 
- 9° Archivisti capi . . . . . . . . . . . . . . . . . 81
+ 9° Coadiutore addetto alla Biblioteca 2
  
 
- 10° Primi archivisti . . . . . . . . . . . . . . . . 
- ((184))
+ 9° Archivisti capi . . . . . . . . . . . . . . . . . 80
+ 
 
- 11° Archivisti . . . . . . . . . . . . . . . . . . . 
- ((208))
+ 10° Primi archivisti . . . . . . . . . . . . . . . . 184
+ 
 
- 12° Applicati . . . . . . . . . . . . . . . . . . . . 
- ((438))
+ 11° Archivisti . . . . . . . . . . . . . . . . . . . 208
+ 
 
- 13° Alunni d'ordine . . . . . . . . . . . . . . . . . 
- ((120))
+ 12° Applicati . . . . . . . . . . . . . . . . . . . . 438
+ 
 
- ----- Totale . . . . . . 
- ((1031))
+ 13° Alunni d'ordine . . . . . . . . . . . . . . . . . 120
+ 
+
+ -----
+ 
+
+ Totale . . . . . 1032
+ 
 
  
  
@@ -271,7 +283,25 @@ VITTORIO EMANUELE III
  
  
 
- Commesso capo . . . . . . . . . . . . . . . . . . 1 Primi commessi . . . . . . . . . . . . . . . . . . 13 Commessi e uscieri capi . . . . . . . . . . . . . 245 Uscieri .. . . . . . . . . . . . . . . . . . . . . 201 Inservienti . . . . . . . . . . . . . . . . . . . 140 ----- Totale . . . . 600 
+ Commesso capo . . . . . . . . . . . . . . . . . . 1
+ 
+
+ Primi commessi . . . . . . . . . . . . . . . . . . 13
+ 
+
+ Commessi e uscieri capi . . . . . . . . . . . . . 245
+ 
+
+ Uscieri .. . . . . . . . . . . . . . . . . . . . . 201
+ 
+
+ Inservienti . . . . . . . . . . . . . . . . . . . 140
+ 
+
+ ----- Totale . . . . 600
+ 
+
+ 
  
 
  Visto, d'ordine di Sua Maestà il Re d'Italia,
