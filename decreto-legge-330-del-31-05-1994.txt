@@ -53,7 +53,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) il terzo comma è sostituito dal seguente: "La dichiarazione delle persone fisiche è unica per i redditi propri del soggetto e per quelli di altre persone a lui imputabili a norma dell'articolo 4 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e deve comprendere anche i redditi sui quali l'imposta si applica separatamente a norma degli articoli 16, comma 1, lettere da d ) a n-bis), e 18 dello stesso testo unico. I redditi di cui alle lettere a ), b ) e c) del comma 1 dell'articolo 16 del predetto testo unico devono essere dichiarati solo se corrisposti da soggetti non obbligati per legge alla effettuazione delle ritenute di acconto."; 
  
 
- 2) nel quarto comma, lettera d), le parole: "corrisposti da un unico sostituto di imposta" sono sostituite dalle seguenti: "certificati dall'ultimo sostituto di imposta"; nella stessa lettera d), secondo periodo, le parole da: "destinazione dell'8 per mille" fino alla fine del periodo sono sostituite dalle seguenti: "destinazione dell'8 per mille dell'imposta sul reddito delle persone fisiche prevista dall'articolo 47 della legge 20 maggio 1985, n. 222, e dalle leggi che approvano le intese con le confessioni religiose di cui all'articolo 8, terzo comma, della Costituzione."; nello stesso quarto comma è aggiunta, in fine, la seguente lettera: "e-bis) le persone fisiche, diverse da quelle di cui alla lettera c), non obbligate alla tenuta di scritture contabili che possiedono un reddito complessivo al quale corrisponde un'imposta lorda non superiore all'ammontare delle detrazioni di cui agli articoli 12 e 13 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, a condizione che non sia dovuta l'imposta locale sui redditi. In tal caso l'esonero spetta anche se la differenza tra l'imposta dovuta e le predette detrazioni risulta non superiore a lire 20 mila. Tuttavia detti contribuenti, ai fini della scelta della destinazione dell'8 per mille dell'imposta sul reddito delle persone fisiche prevista dall'articolo 47 della legge 20 maggio 1985, n. 222, e dalle leggi che approvano le intese con le confessioni religiose di cui all'articolo 8, terzo comma, della Costituzione, possono presentare apposito modello approvato con il decreto di cui all'articolo 8, primo comma, primo periodo, ovvero il certificato di cui ai commi 2 e 3 dell'articolo 7-bis, con le modalità previste dall'articolo 12 ed entro il termine stabilito per la presentazione della dichiarazione dei redditi."; 
+ 2) nel quarto comma, lettera d), le parole: "corrisposti da un unico sostituto di imposta" sono sostituite dalle seguenti: "certificati dall'ultimo sostituto di imposta"; nella stessa lettera d), secondo periodo, le parole da: "destinazione dell'8 per mille" fino alla fine del periodo sono sostituite dalle seguenti: "destinazione dell'8 per mille dell'imposta sul reddito delle persone fisiche prevista dall'articolo 47 della legge 20 maggio 1985, n. 222, e dalle leggi che approvano le intese con le confessioni religiose di cui all'articolo 8, terzo comma, della Costituzione."; nello stesso quarto comma è aggiunta, in fine, la seguente lettera: " e-bis) le persone fisiche, diverse da quelle di cui alla lettera c), non obbligate alla tenuta di scritture contabili che possiedono un reddito complessivo al quale corrisponde un'imposta lorda non superiore all'ammontare delle detrazioni di cui agli articoli 12 e 13 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, a condizione che non sia dovuta l'imposta locale sui redditi. In tal caso l'esonero spetta anche se la differenza tra l'imposta dovuta e le predette detrazioni risulta non superiore a lire 20 mila. Tuttavia detti contribuenti, ai fini della scelta della destinazione dell'8 per mille dell'imposta sul reddito delle persone fisiche prevista dall'articolo 47 della legge 20 maggio 1985, n. 222, e dalle leggi che approvano le intese con le confessioni religiose di cui all'articolo 8, terzo comma, della Costituzione, possono presentare apposito modello approvato con il decreto di cui all'articolo 8, primo comma, primo periodo, ovvero il certificato di cui ai commi 2 e 3 dell'articolo 7-bis, con le modalità previste dall'articolo 12 ed entro il termine stabilito per la presentazione della dichiarazione dei redditi."; 
  
 
  3) dopo il quinto comma è inserito il seguente: "Nelle ipotesi di esonero previste nel quarto comma il contribuente ha, tuttavia, facoltà di presentare la dichiarazione dei redditi."; 
@@ -63,7 +63,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) l'articolo 2 è sostituito dal seguente: "Art. 2 (Contenuto della dichiarazione delle persone fisiche ). - 1. La dichiarazione delle persone fisiche, oltre quanto stabilito nel secondo comma dell'articolo 1, deve indicare i dati e gli elementi necessari per l'individuazione del contribuente, per la determinazione dei redditi e delle imposte dovute, nonchè per l'effettuazione dei controlli e gli altri elementi, esclusi quelli che l'Amministrazione finanziaria è in grado di acquisire direttamente, richiesti nel modello di dichiarazione di cui all'articolo 8, primo comma, primo periodo."; 
+ b) l'articolo 2 è sostituito dal seguente: "Art. 2 (Contenuto 
+ 
+
+ della dichiarazione delle persone fisiche). - 
+ 
+
+ 1. La dichiarazione delle persone fisiche, oltre quanto stabilito nel secondo comma dell'articolo 1, deve indicare i dati e gli elementi necessari per l'individuazione del contribuente, per la determinazione dei redditi e delle imposte dovute, nonchè per l'effettuazione dei controlli e gli altri elementi, esclusi quelli che l'Amministrazione finanziaria è in grado di acquisire direttamente, richiesti nel modello di dichiarazione di cui all'articolo 8, primo comma, primo periodo."; 
  
 
  
@@ -86,7 +92,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) l'articolo 4 è sostituito dal seguente: "Art. 4 (Contenuto della dichiarazione dei soggetti all'imposta sul reddito delle persone giuridiche ). - 1. La dichiarazione dei soggetti all'imposta sul reddito delle persone giuridiche, oltre quanto stabilito nel secondo comma dell'articolo 1, deve indicare i dati e gli elementi necessari per l'individuazione del contribuente e di almeno un rappresentante, per la determinazione dei redditi e delle imposte dovute, nonchè per l'effettuazione dei controlli e gli altri elementi, esclusi quelli che l'Amministrazione finanziaria è in grado di acquisire direttamente, richiesti nel modello di dichiarazione di cui all'articolo 8, primo comma, primo periodo. 
+ d) l'articolo 4 è sostituito dal seguente: "Art. 4 ( Contenuto della dichiarazione dei soggetti all'imposta sul reddito delle persone giuridiche ). - 1. La dichiarazione dei soggetti all'imposta sul reddito delle persone giuridiche, oltre quanto stabilito nel secondo comma dell'articolo 1, deve indicare i dati e gli elementi necessari per l'individuazione del contribuente e di almeno un rappresentante, per la determinazione dei redditi e delle imposte dovute, nonchè per l'effettuazione dei controlli e gli altri elementi, esclusi quelli che l'Amministrazione finanziaria è in grado di acquisire direttamente, richiesti nel modello di dichiarazione di cui all'articolo 8, primo comma, primo periodo. 
  
 
  2. Le società o enti che non hanno la sede legale o amministrativa nel territorio dello Stato devono inoltre indicare l'indirizzo della stabile organizzazione nel territorio stesso, in quanto vi sia, e in ogni caso le generalità e l'indirizzo in Italia di un rappresentante per i rapporti tributari."; 
@@ -135,7 +141,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h) dopo l'articolo 7 è aggiunto il seguente: "Art. 7-bis (Certificazioni dei sostituti di imposta ). - 1. I soggetti tenuti ad operare le ritenute a titolo di acconto devono rilasciare un certificato attestante l'ammontare delle somme e dei valori corrisposti, con l'indicazione della relativa causale, l'ammontare delle ritenute operate e delle detrazioni di imposta effettuate.
+ h) dopo l'articolo 7 è aggiunto il seguente: "Art. 7-bis ( Certificazioni dei sostituti di imposta ). - 1. I soggetti tenuti ad operare le ritenute a titolo di acconto devono rilasciare un certificato attestante l'ammontare delle somme e dei valori corrisposti, con l'indicazione della relativa causale, l'ammontare delle ritenute operate e delle detrazioni di imposta effettuate.
  
 
  Nelle ipotesi di cui all'articolo 27 il certificato può essere sostituito dalla copia della comunicazione prevista dagli articoli 7, 8, 9 e 11 della legge 29 dicembre 1962, n. 1745. 
@@ -203,7 +209,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  o) all'articolo 29 sono apportate le seguenti modificazioni: 
  
 
- 1) nel secondo comma, dopo il secondo periodo è aggiunto il seguente: "Le comunicazioni devono essere redatte in conformità ad apposito modello approvato con decreto del Ministro delle finanze da pubblicare nella Gazzetta Ufficiale; la trasmissione può avvenire anche tramite supporto magnetico."; 
+ 1) nel secondo comma, dopo il secondo periodo, è aggiunto il seguente: "Le comunicazioni devono essere redatte in conformità ad apposito modello approvato con decreto del Ministro delle finanze da pubblicare nella Gazzetta Ufficiale ; la trasmissione può avvenire anche tramite supporto magnetico."; 
  
 
  2) nel terzo comma, è aggiunto il seguente periodo: "Nel caso in cui il dipendente abbia intrattenuto un precedente rapporto di lavoro a tempo indeterminato nello stesso periodo di imposta si applica la disposizione dell'articolo 23, settimo comma."; 
@@ -267,21 +273,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) all'articolo 16, comma 1, dopo la lettera n) è aggiunta la seguente: "n-bis) somme conseguite a titolo di rimborso di imposte o di oneri dedotti dal reddito complessivo o per i quali si è fruito della detrazione in periodi di imposta precedenti. La presente disposizione non si applica alle spese rimborsate di cui all'articolo 13-bis, comma 1, lettera c), terzo e quarto periodo"; 
+ a) all'articolo 16, comma 1, dopo la lettera n) è aggiunta la seguente: " n-bis) somme conseguite a titolo di rimborso di imposte o di oneri dedotti dal reddito complessivo o per i quali si è fruito della detrazione in periodi di imposta precedenti. La presente disposizione non si applica alle spese rimborsate di cui all'articolo 13-bis, comma 1, lettera c), terzo e quarto periodo"; 
  
 
  
  
 
  
- b) all'articolo 16, comma 3, le parole: "Per i redditi indicati alle lettere da a ) a f) del comma 1 e per quelli indicati dalle lettere da g ) a n)" sono sostituite dalle seguenti: "Per i redditi indicati alle lettere da d ) a f) del comma 1 e per quelli indicati alle lettere da g ) a n-bis)"; nello stesso comma è aggiunto, in fine, il seguente periodo: "Per i redditi indicati alle lettere a ), b ) e c) del comma 1 gli uffici provvedono a iscrivere a ruolo le maggiori imposte dovute con le modalità stabilite negli articoli 17 e 18 ovvero facendo concorrere i redditi stessi alla formazione del reddito complessivo dell'anno in cui sono percepiti, se ciò risulta più favorevole per il contribuente."; 
+ b) all'articolo 16, comma 3, le parole: "Per i redditi indicati alle lettere da a ) a f) del comma 1 e per quelli indicati dalle lettere da g ) a n)" sono sostituite dalle seguenti: "Per i redditi indicati alle lettere da d ) a f) del comma 1 e per quelli indicati alle lettere da g ) a n-bis)"; nello stesso comma è aggiunto, in fine, il seguente periodo: "Per i redditi indicati alle lettere a), b ) e c) del comma 1 gli uffici provvedono a iscrivere a ruolo le maggiori imposte dovute con le modalità stabilite negli articoli 17 e 18 ovvero facendo concorrere i redditi stessi alla formazione del reddito complessivo dell'anno in cui sono percepiti, se ciò risulta più favorevole per il contribuente."; 
  
 
  
  
 
  
- c) all'articolo 18, comma 1, primo periodo, le parole: "per i redditi indicati alla lettera b)" sono sostituite dalle seguenti: "per i redditi e le somme indicati, rispettivamente, nelle lettere b ) e n-bis)"; nello stesso comma è aggiunto, in fine, il seguente periodo: "Se per le somme conseguite a titolo di rimborso di cui alla lettera n-bis) del comma 1 dell'articolo 16 è stata riconosciuta la detrazione, l'imposta è determinata applicando un'aliquota non superiore al 27 per cento.". 
+ c) all'articolo 18, comma 1, primo periodo, le parole: "per i redditi indicati alla lettera b)" sono sostituite dalle seguenti: "per i redditi e le somme indicati, rispettivamente, nelle lettere b) e n-bis)"; nello stesso comma è aggiunto, in fine, il seguente periodo: "Se per le somme conseguite a titolo di rimborso di cui alla lettera n-bis) del comma 1 dell'articolo 16 è stata riconosciuta la detrazione, l'imposta è determinata applicando un'aliquota non superiore al 27 per cento.". 
  
 
  
@@ -308,7 +314,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) all'articolo 30, primo comma, e all'articolo 33, primo comma, lettera b), le parole: "termine stabilito per la presentazione della dichiarazione" sono sostituite dalle seguenti: "5 marzo di ciascun anno". 
+ b) all'articolo 30, primo comma, e all'articolo 33, primo comma, lettera b), le parole: "termine stabilito per la presentazione della dichiarazione" sono sostituite dalle seguenti: "5 marzo di ciascun anno"; 
  
 
  
@@ -335,6 +341,42 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 3-bis. è soppresso l'obbligo di presentare all'ufficio dell'imposta sul valore aggiunto il modello IVA 99 di cui al decreto del Ministro delle finanze 26 gennaio 1984, pubblicato nella Gazzetta Ufficiale n. 30 del 31 gennaio 1984. è altresì soppresso l'obbligo di inviare entro il 5 settembre all'ufficio dell'imposta sul valore aggiunto il modello IVA 99- bis di cui al decreto del Ministro delle finanze 12 marzo 1984, pubblicato nella Gazzetta Ufficiale n. 75 del 15 marzo 1984. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 3-ter. In applicazione delle disposizioni di cui al comma 3-bis del presente articolo, al decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni, dalla legge 27 febbraio 1984, n. 17, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+
+ 
+ 
+
+ a) all'articolo 1, comma 1, la lettera b) è abrogata;
+
+ b) all'articolo 1, comma 3, secondo periodo, le parole: "entro il 5 settembre e" sono soppresse.
+
+ 
+
+ 
+
+ 
+ ))
  
 
  
@@ -380,4 +422,33 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 9. Le disposizioni del comma 1, lettera a), numero 2), primo periodo, si applicano a decorrere dal periodo di imposta in corso alla data del 6 febbraio 1994. Le disposizioni del comma 1, lettera g), si applicano a partire dalle dichiarazioni presentate a decorrere dall'8 dicembre 1993. Le disposizioni del comma 1, lettera p), si applicano alle liquidazioni effettuate sulla base delle dichiarazioni presentate a partire dalla data dell'8 dicembre 1993. Le disposizioni del comma 1, lettera q), si applicano a partire dagli accertamenti relativi al periodo di imposta in corso alla data dell'8 dicembre 1993. Le altre disposizioni contenute nel comma 1 entrano in vigore a partire dal periodo di imposta in corso alla data dell'8 dicembre 1993. Le disposizioni del comma 2, si applicano a partire dal periodo d'imposta in corso alla data dell'8 dicembre 1993.
+ 9. Le disposizioni del comma 1, lettera a), numero 2), primo periodo, si applicano a decorrere dal periodo di imposta in corso alla data del 6 febbraio 1994. Le disposizioni del comma 1, lettera g), si applicano a partire dalle dichiarazioni presentate a decorrere dall'8 dicembre 1993. Le disposizioni del comma 1, lettera p), si applicano alle liquidazioni effettuate sulla base delle dichiarazioni presentate a partire dalla data dell'8 dicembre 1993. Le disposizioni del comma 1, lettera q), si applicano a partire dagli accertamenti relativi al periodo di imposta in corso alla data dell'8 dicembre 1993. Le altre disposizioni contenute nel comma 1 entrano in vigore a partire dal periodo di imposta in corso alla data dell'8 dicembre 1993. Le disposizioni del comma 2, si applicano a partire dal periodo d'imposta in corso alla data dell'8 dicembre 1993. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 9-bis. I versamenti relativi alle imposte sui redditi per l'esercizio 1993, nonchè quelli relativi all'imposta comunale sugli immobili (ICI) e all'imposta comunale per l'esercizio di imprese e di arti e professioni (ICIAP) delle persone fisiche e giuridiche residenti nei comuni colpiti dagli eventi sismici del 13 e 16 dicembre 1990 nelle province di Siracusa, Catania e Ragusa, indicati nel decreto del Presidente del Consiglio dei Ministri 15 gennaio 1991, pubblicato nella Gazzetta Ufficiale n. 17 del 21 gennaio 1991, si considerano effettuati nei termini se i relativi importi sono corrisposti entro il 30 settembre 1994. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 9-ter . Al secondo comma dell'articolo 55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, dopo le parole: "Le disposizioni del precedente comma si applicano anche se la dichiarazione presentata è priva di sottoscrizione" sono inserite le seguenti: "e il contribuente non ha provveduto, entro trenta giorni dal ricevimento dell'invito da parte dell'ufficio dell'imposta sul valore aggiunto, alla sottoscrizione". 
+ 
+
+ 
+ 9-quater . Al terzo comma dell'articolo 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, è aggiunto, in fine, il seguente periodo: "La nullità può essere sanata se il contribuente provvede alla sottoscrizione entro trenta giorni dal ricevimento dell'invito da parte dell'ufficio delle entrate territorialmente competente". 
+ 
+
+ 
+ ))
