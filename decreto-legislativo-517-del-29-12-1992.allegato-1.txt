@@ -1,0 +1,597 @@
+((Allegato I 
+ 
+
+ (Art. 3-bis, comma 1) 
+ 
+
+ 
+ 
+
+ REQUISITI ESSENZIALI 
+ 
+
+ 
+ 
+
+ La terminologia utilizzata è quella adottata dall'Organizzazione internazionale di metrologia legale. 
+ 
+
+ Osservazione preliminare 
+ 
+
+ Qualora uno strumento contenga o sia collegato a più dispositivi di visualizzazione o stampa che siano utilizzati per le applicazioni di cui all'articolo 1, comma 2, lettere da a) ad f), i dispositivi che riproducono i risultati della pesatura e che non possono influenzare il corretto funzionamento dello strumento non sono sottoposti ai requisiti essenziali se i risultati della pesatura sono stampati o registrati in modo corretto e indelebile da una parte dello strumento che soddisfi i requisiti essenziali e che non sia accessibile alle due parti interessate alla misurazione. Tuttavia, per gli strumenti utilizzati per la vendita diretta al pubblico, i dispositivi di visualizzazione e di stampa per il venditore ed il cliente devono soddisfare i requisiti essenziali. 
+ 
+
+ Requisiti metrologici 
+ 
+
+ 1. Unità di massa 
+ 
+
+ Le unità di massa utilizzate devono essere legali ai sensi della direttiva 80/181/CEE del Consiglio, del 20 dicembre 1979, per il ravvicinamento delle legislazioni degli Stati membri relative alle unità di misura (1 ). 
+ 
+
+ Fatta salva la suddetta condizione, sono ammesse le seguenti unità: 
+ 
+
+ a) unità SI: chilogrammo, microgrammo, milligrammo, grammo, tonnellata; 
+ 
+
+ b) unità del &laquo;sistema imperiale&raquo;: oncia troy per la pesatura di metalli preziosi; 
+ 
+
+ c) altra unità non SI: carato metrico per la pesatura di pietre preziose. 
+ 
+
+ Per gli strumenti che utilizzano l'unità di massa del sistema imperiale di cui sopra, i corrispondenti requisiti essenziali specificati di seguito devono essere convertiti nella suddetta unità per interpolazione semplice. 
+ 
+
+ 2. Classi di precisione 
+ 
+
+ 2.1. Si definiscono le seguenti classi di precisione: 
+ 
+
+ a) I precisione speciale; 
+ 
+
+ b) II precisione fine; 
+ 
+
+ c) III precisione media; 
+ 
+
+ d) IIII precisione ordinaria. 
+ 
+
+ Le caratteristiche di queste classi sono indicate nella tabella 1. 
+ 
+
+ 
+ 
+
+ (1 ) GU L 39 del 15.2.1980, pag. 40. 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | Classi di precisione |
+ 
+
+ 
+ +------+-------------+-----------------+----------------------------+
+ 
+
+ 
+ | |Divisione di | Portata minima | Numero di divisione |
+ 
+
+ 
+ |Classe|verifica (e) | (min) |di verifica n = [(Max)/(e)] |
+ 
+
+ 
+ +------+-------------+-----------------+----------------------------+
+ 
+
+ 
+ | | |Valore minimo |Valore minimo|Valore massimo|
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | I |0,001 g &#8804 e |100 e |50 000 |- |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | |0,001 g &#8804 e &#8804| | | |
+ 
+
+ 
+ | II |0,05 g |20 e |100 |100 000 |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | |0,1 g &#8804 e |50 e |5 000 |100 000 |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | |0,1 g &#8804 e &#8804 2| | | |
+ 
+
+ 
+ | III |g |20 e |100 |10 000 |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | |5 g &#8804 e |50 e |500 |10 000 |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ | IIII |5 g &#8804 e |10 e |100 |1 000 |
+ 
+
+ 
+ +------+-------------+-----------------+-------------+--------------+
+ 
+
+ 
+ 
+
+ La portata minima è ridotta a 5 e per gli strumenti delle classi II e III che servono per determinare una tariffa di trasporto. 
+ 
+
+ 2.2. Divisioni 
+ 
+
+ 2.2.1. La divisione reale (d) e la divisione di verifica (e) devono corrispondere a: 
+ 
+
+ 1 &times; 10k , 2 &times; 10k , o 5 &times; 10k unità di massa, 
+ 
+
+ essendo k un numero intero (zero compreso). 
+ 
+
+ 2.2.2. Per tutti gli strumenti senza dispositivi indicatori complementari: 
+ 
+
+ d = e. 
+ 
+
+ 2.2.3. Per gli strumenti con dispositivi indicatori complementari si deve avere: 
+ 
+
+ e = 1 &times; 10k g; 
+ 
+
+ d < e ≤ 10 d. 
+ 
+
+ Tali condizioni non si applicano agli strumenti della classe I con d < 10-4 g, per i quali e = 10-3 g. 
+ 
+
+ 3. Classificazione 
+ 
+
+ 3.1. Strumenti con un solo campo di pesatura 
+ 
+
+ Gli strumenti equipaggiati di un dispositivo indicatore complementare rientrano nella classe I o nella classe II. Per questi strumenti i limiti inferiori della portata minima di queste due classi sono ottenuti sostituendo nella colonna 3 della tabella 1 la divisione di verifica (e) con la divisione reale (d). 
+ 
+
+ 
+ 
+
+ Se d < 10
+ -4
+ g, la portata massima della classe I può essere
+ 
+
+ 
+ 
+
+ minore di 50 000 e. 
+ 
+
+ 3.2. Strumenti con più campi di pesatura 
+ 
+
+ Sono consentiti più campi di pesatura purchè chiaramente indicati sullo strumento. Ogni singolo campo di pesatura è classificato in base al punto 3.1. Se i campi di pesatura rientrano in classi di precisione differenti, lo strumento deve soddisfare i requisiti più restrittivi applicabili alle classi di precisione in cui rientrano i campi di pesatura. 
+ 
+
+ 3.3. Strumenti a più scale di divisione 
+ 
+
+ 3.3.1. Gli strumenti con un solo campo di pesatura possono avere più campi di pesatura parziali (strumenti a più scale di divisione). 
+ 
+
+ Tali strumenti non devono essere equipaggiati di un dispositivo indicatore complementare. 
+ 
+
+ 3.3.2. Ciascun campo di pesatura parziale i di strumenti a più scale di divisione è definito dalla 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ - sua divisione di verifica ei &brvbar; con e(i+1) > ei 
+ 
+
+ 
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ - sua portata massima Maxi &brvbar; con Maxr = Max 
+ 
+
+ 
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ - sua portata minima Mini &brvbar; con Mini = Max(i-1) e Min1 = Min 
+ 
+
+ 
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ i = 1, 2, ... r, 
+ 
+
+ i = numero del campo di pesatura parziale; 
+ 
+
+ r = numero totale dei campi di pesatura parziale. 
+ 
+
+ Tutte le portate sono portate del carico netto, indipendentemente dal valore della tara utilizzata. 
+ 
+
+ 3.3.3. I campi di pesatura parziale sono classificati in base alla tabella 2. Tutti i campi di pesatura parziali devono rientrare nella stessa classe di precisione, la quale determina la classe di precisione dello strumento. 
+ 
+
+ 
+ 
+
+ Tabella 2 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 4. Precisione 
+ 
+
+ 4.1. Nell'applicazione delle procedure di cui all'articolo 13, l'errore dell'indicazione non deve superare l'errore massimo tollerabile d'indicazione specificato nella tabella 3. In caso d'indicazione digitale, l'errore dell'indicazione deve essere corretto per arrotondamento. 
+ 
+
+ Gli errori massimi tollerabili si riferiscono al valore di peso netto e di tara di tutti i possibili carichi, ad esclusione dei valori di tara prefissati. 
+ 
+
+ 
+ 
+
+ Tabella 3 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | Errori massimi tollerabili |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | Carico | Errore |
+ 
+
+ 
+ +------------------------------------------------------| massimo |
+ 
+
+ 
+ | Classe I | Classe II | Classe III |Classe IIII | tollerabile|
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |0 ≤ m ≤ 50 |0 ≤ m ≤ 5 000| | | |
+ 
+
+ 
+ |000 e |e |0 ≤ m ≤ 500 e|0 ≤ m ≤ 50 e|&plusmn; 0,5 e |
+ 
+
+ 
+ +-------------+-------------+-------------+------------+------------+
+ 
+
+ 
+ |50 000 e < m |5 000 e < m ≤|500 e < m ≤ |50 e < m ≤ | |
+ 
+
+ 
+ |≤ 200 000 e |20 000 e |2 000 e |200 e |&plusmn; 1,0 e |
+ 
+
+ 
+ +-------------+-------------+-------------+------------+------------+
+ 
+
+ 
+ | |20 000 e < m |2 000 e < m ≤|200 e < m ≤ | |
+ 
+
+ 
+ |200 000 e < m|≤ 100 000 e |10 000 e |1 000 e |&plusmn; 1,5 e |
+ 
+
+ 
+ +-------------+-------------+-------------+------------+------------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.2. Per strumenti in servizio gli errori massimi tollerabili sono pari al doppio degli errori massimi tollerabili di cui al punto 4.1. 
+ 
+
+ 5. I risultati della pesatura di uno strumento devono essere ripetuti e riprodotti dagli altri dispositivi indicatori utilizzati dallo strumento e secondo gli altri metodi di bilanciamento utilizzati. 
+ 
+
+ I risultati della pesatura devono essere sufficientemente indipendenti da variazioni della posizione del carico sull'apposito ricettore. 
+ 
+
+ 6. Lo strumento deve essere sensibile a piccole variazioni del carico. 
+ 
+
+ 7. Fattori che possono influenzare il corretto funzionamento e il tempo 
+ 
+
+ 7.1. Gli strumenti delle classi II, III e IIII, che possono essere utilizzati in posizione inclinata, devono essere sufficientemente insensibili alle alterazioni di livello che possono verificarsi durante il normale funzionamento. 
+ 
+
+ 7.2. Gli strumenti devono soddisfare i requisiti metrologici entro l'intervallo di temperature specificato dal fabbricante. Tale intervallo deve essere almeno pari a: 
+ 
+
+ a) 5 °C per uno strumento della classe I; 
+ 
+
+ b) 15 °C per uno strumento della classe II; 
+ 
+
+ c) 30 °C per uno strumento della classe III o IIII. 
+ 
+
+ In mancanza di precisazioni al riguardo da parte del fabbricante, l'intervallo di temperatura è da - 10 °C a + 40 °C. 
+ 
+
+ 7.3. Gli strumenti alimentati a corrente elettrica di rete devono soddisfare i requisiti metrologici in condizioni di alimentazione entro i limiti di normale fluttuazione. 
+ 
+
+ Gli strumenti alimentati a corrente elettrica di batteria devono indicare quando la tensione elettrica della batteria scende al di sotto del valore minimo richiesto e, in tali circostanze, devono continuare a funzionare correttamente oppure essere automaticamente posti fuori servizio. 
+ 
+
+ 7.4. Gli strumenti elettronici, ad eccezione di quelli della classe I e della classe II per i quali &laquo;e&raquo; è inferiore a 1 g, devono soddisfare i requisiti metrologici in condizioni di umidità relativa elevata, al valore superiore del loro intervallo di temperatura. 
+ 
+
+ 7.5. La permanenza sotto carico di uno strumento delle classi II, III o IIII per un periodo di tempo prolungato deve avere un'influenza trascurabile sull'indicazione sotto carico oppure sull'indicazione dello 0, immediatamente dopo che il carico è stato rimosso. 
+ 
+
+ 7.6. In altre condizioni gli strumenti devono continuare a funzionare correttamente oppure automaticamente essere posti fuori servizio. 
+ 
+
+ Progettazione e costruzione 
+ 
+
+ 8. Requisiti generali 
+ 
+
+ 8.1. La progettazione e la costruzione degli strumenti devono essere tali che le loro caratteristiche metrologiche non si alterino se correttamente utilizzati e installati nonchè se impiegati in un ambiente cui sono destinati. Deve essere indicato il valore della massa. 
+ 
+
+ 8.2. Gli strumenti elettronici esposti a perturbazioni non devono mostrare anomalie significative, oppure devono automaticamente rilevare e porre in evidenza tali anomalie. 
+ 
+
+ Alla rilevazione automatica di un'anomalia significativa, gli strumenti elettronici devono produrre un segnale d'allarme visivo o sonoro continuo finchè l'utilizzatore non intervenga per correggere l'anomalia oppure finchè quest'ultima non scompaia. 
+ 
+
+ 8.3. I requisiti di cui ai punti 8.1 e 8.2 devono essere soddisfatti su una base permanente durante un periodo di tempo normale in funzione dell'uso previsto per tali strumenti. 
+ 
+
+ I dispositivi elettronici digitali devono sempre effettuare un controllo adeguato del funzionamento del processo di misurazione, dei dispositivi indicatori e di tutte le operazioni di memorizzazione e di trasferimento dei dati. 
+ 
+
+ Alla rilevazione automatica di un errore significativo di durabilità, gli strumenti elettronici devono produrre un segnale d'allarme visivo o sonoro continuo finchè l'utilizzatore non intervenga per correggere l'errore oppure finchè quest'ultimo non scompaia. 
+ 
+
+ 8.4. Se un'apparecchiatura esterna è connessa ad uno strumento elettronico mediante un'opportuna interfaccia, le caratteristiche metrologiche dello strumento non devono risultare compromesse. 
+ 
+
+ 8.5. Gli strumenti non devono possedere caratteristiche che potrebbero indurre ad un'utilizzazione fraudolenta; peraltro, le possibilità di utilizzazione involontariamente scorretta devono essere ridotte al minimo. I componenti che non devono essere smontati o adattati dall'utilizzatore devono essere protetti contro azioni di questo tipo. 
+ 
+
+ 8.6. Gli strumenti devono essere progettati in modo tale da consentire la rapida esecuzione dei controlli regolamentari previsti dal presente decreto. 
+ 
+
+ 9. Indicazione dei risultati della pesatura e di altri valori di peso 
+ 
+
+ L'indicazione dei risultati della pesatura e di altri valori di peso deve essere precisa, inequivocabile e non ingannevole; il dispositivo indicatore deve consentire una facile lettura dell'indicazione in normali condizioni di utilizzazione. 
+ 
+
+ I nomi e i simboli delle unità di cui al punto 1 del presente allegato devono essere conformi alle disposizioni della direttiva 80/181/CEE, con l'aggiunta del carato metrico il cui simbolo è &laquo;ct&raquo;. 
+ 
+
+ L'indicazione risulta impossibile al di là del valore della portata massima (Max), aumentata di 9 e. 
+ 
+
+ è autorizzata l'utilizzazione di un dispositivo indicatore complementare soltanto per l'indicazione delle cifre decimali. I dispositivi indicatori annessi possono essere utilizzati soltanto provvisoriamente e l'operazione di stampa deve essere impedita durante il loro funzionamento. 
+ 
+
+ Sono consentite indicazioni secondarie se non vi è possibilità di interpretarle come indicazioni primarie. 
+ 
+
+ 10. Stampa dei risultati della pesatura e di altri valori di peso 
+ 
+
+ I risultati stampati devono essere corretti, opportunamente individuati e inequivocabili. La stampa deve essere chiara, leggibile, non cancellabile e permanente. 
+ 
+
+ 11. Livellamento 
+ 
+
+ All'occorrenza, gli strumenti devono essere muniti di un dispositivo di livellamento e di un indicatore di livello sufficientemente sensibile per consentire una corretta installazione. 
+ 
+
+ 12. Azzeramento 
+ 
+
+ Gli strumenti possono essere muniti di dispositivi di azzeramento. Il funzionamento di questi dispositivi deve produrre un azzeramento preciso e non deve causare risultati incorretti della misurazione. 
+ 
+
+ 13. Dispositivi di tara e di prefissazione della tara 
+ 
+
+ Gli strumenti possono essere muniti di uno o più dispositivi di tara e di un dispositivo di prefissazione della tara. Il funzionamento dei dispositivi di tara deve produrre un azzeramento preciso e deve garantire una corretta pesatura del carico netto. Il funzionamento del dispositivo di prefissazione della tara deve garantire una corretta determinazione del peso netto. 
+ 
+
+ 14. Strumenti per la vendita diretta al pubblico, di portata massima non superiore a 100 kg: requisiti supplementari 
+ 
+
+ Gli strumenti per la vendita diretta al pubblico devono fornire chiaramente al cliente tutte le informazioni essenziali sull'operazione di pesatura e, nel caso di strumenti ad indicazione del prezzo, devono inoltre indicare il calcolo del prezzo del prodotto acquistato. 
+ 
+
+ Il prezzo da pagare, se indicato, deve essere preciso. 
+ 
+
+ Gli strumenti corredati di calcolatore del prezzo devono indicare i dati essenziali per un tempo sufficientemente lungo perchè il cliente possa leggerli chiaramente. 
+ 
+
+ Gli strumenti corredati di calcolatore del prezzo possono svolgere funzioni diverse da quelle della pesatura del prodotto e del calcolo del prezzo, purchè tutte le indicazioni relative all'insieme delle transazioni vengano stampate in modo chiaro e inequivocabile e adeguatamente riprodotte su un biglietto o su un talloncino destinato al cliente. 
+ 
+
+ Gli strumenti non devono presentare caratteristiche che, direttamente o indirettamente, possano causare difficoltà d'interpretazione o scarsa chiarezza delle indicazioni. 
+ 
+
+ Gli strumenti devono essere tali che il cliente sia tutelato contro scorrettezze di vendita causate da disfunzioni degli strumenti stessi. 
+ 
+
+ Non sono autorizzati i dispositivi indicatori complementari e i dispositivi indicatori annessi. 
+ 
+
+ I dispositivi supplementari sono autorizzati soltanto se non consentono una utilizzazione fraudolenta. 
+ 
+
+ Gli strumenti analoghi a quelli solitamente utilizzati per la vendita diretta al pubblico, ma che non soddisfano i requisiti del presente punto, devono recare la dicitura indelebile &laquo;da non usarsi per la vendita diretta al pubblico&raquo; in prossimità della visualizzazione. 
+ 
+
+ 15. Strumenti a stampa del prezzo su un'etichetta 
+ 
+
+ Gli strumenti a stampa del prezzo su un'etichetta devono soddisfare i requisiti degli strumenti ad indicazione del prezzo per la vendita diretta al pubblico se ed in quanto applicabili allo strumento in questione. La stampa del prezzo sull'etichetta deve risultare impossibile al di sotto della portata minima.))
