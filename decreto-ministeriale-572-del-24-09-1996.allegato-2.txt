@@ -1,0 +1,181 @@
+ALLEGATO II 
+ 
+
+ Metodo per la determinazione del mercaptobenzotiazolo e del suo sale di zinco e del disolfuro di benzotiazile. 
+ 
+
+ 1) SCOPO E CAMPO DI APPLICAZIONE 
+ 
+
+ Il metodo consente di determinare il mercaptobenzotiazolo (MBT), il suo sale di zinco e il disolfuro di benzotiazile (previa loro trasformazione a MBT) nel liquido di cessione. 
+ 
+
+ 2) PRINCIPIO DEL METODO 
+ 
+
+ La determinazione viene effettuata mediante preparazione del liquido di cessione del campione. 
+ 
+
+ 3) REATTIVI 
+ 
+
+ Tutti i solventi devono essere di purezza analitica ed idonei per HPLC. 
+ 
+
+ 3.1 Cloruro di Metilene 
+ 
+
+ 3.2 Solfato di Sodio Anidro 
+ 
+
+ 3.3 Acetone 
+ 
+
+ 3.4 Soluzione di Cloruro Stannoso al 5% in Acido Cloridrico 
+ 
+
+ concentrato 
+ 
+
+ 3.5 Acetonitrile 
+ 
+
+ 3.6 Acqua 
+ 
+
+ 3.7 Mercaptobenzotiazolo 
+ 
+
+ 3.8 Fase mobile: A) Acetonitrile (3.5) 
+ 
+
+ B) Acqua (3.6): Acetonitrile (3.5) 99:1 
+ 
+
+ 3.9 Soluzione concentrata di MBT (3.7) 200 mg/l: pesare accuratamente circa 10 mg di MBT (3.7) (precisione +- 0,1 mg) e portare a volume con acetonitrile (3.5) in matraccio da 50 ml. 
+ 
+
+ 3.10 Soluzione intermedia di MBT (3.7) 40 mg/l: prelevare 5 ml della soluzione concentrata (3.9) e diluirli a 25 ml in matraccio tarato con acetonitrile (3.5). 
+ 
+
+ 3.11 Soluzioni di calibrazione: preparare con opportune diluizioni 5 soluzioni nell'intervallo di concentrazione compreso tra 0,25 mg/l e 4 mg/l. Se nel liquido di cessione il MBT (3.7) è presente in quantità pari al limite massimo consentito di 0,05 mg/l, dopo aver portato l'estratto al volume finale di 10 ml, la soluzione ottenuta avrà una concentrazione finale di 1 mg/l, che rientra nell'intervallo prescelto per la preparazione delle soluzioni di calibrazione. 
+ 
+
+ 4) APPARECCHIATURA 
+ 
+
+ 4.1 Materiale comune da laboratorio. 
+ 
+
+ 4.2 Vetreria comune da laboratorio. 
+ 
+
+ 4.3 Evaporatore rotante. 
+ 
+
+ 4.4 Cromatografo liquido con sistema gradiente dotato di rivelatore spettrofotometrico ultravioletto, regolato alla lunghezza d'onda di 320 mm. 
+ 
+
+ 4.5 Colonna impaccata con ottadecilsilsilice (lunghezza 200 mm; diametro interno 2,1 mm; dp 5mym) 
+ 
+
+ 5) PROCEDIMENTO 
+ 
+
+ 5.1 Preparazione del campione 
+ 
+
+ Circa 10 grammi del campione di gomma in esame sono sottoposti a lavaggio per 10 minuti in un becker contenente circa 300 ml di acqua (3.6) in ebollizione. Il campione è lasciato raffreddare a temperatura ambiente ed accuratamente asciugato. 
+ 
+
+ 5.2 Preparazione del liquido di cessione 
+ 
+
+ Il campione tagliato in una decina di parti da un grammo ciascuna, pesato accuratamente (precisione +- 0,1 mg), è posto in una beuta contenente 200 ml di acqua (3.6) poi posta in termostato a 40 gradi centigradi per 24 ore. Scaduto il tempo di contatto, 100 ml del liquido di cessione vengono trasferiti in un pallone a fondo tondo. 5.3 Riduzione, estrazione e concentrazione 
+ 
+
+ 100 ml di liquido di cessione vengono portati a secco in evaporatore rotante (4.3) sottovuoto alla temperatura di 50 gradi centigradi. 
+ 
+
+ Il residuo viene ripreso con 30 ml di acetone (3.3) e trattato con 10 ml di una soluzione di cloruro stannoso al 5% in acido cloridrico concentrato (3.4). 
+ 
+
+ La soluzione viene lasciata a riposo per circa 10 minuti. Quindi si concentra in evaporatore rotante sotto vuoto a circa 10 ml; questi, trasferiti in imbuto separatore, vengono sottoposti a tre estrazioni con cloruro di metilene (3.1), usando porzioni di 15 ml ciascuna. Le tre frazioni di cloruro di metilene vengono riunite e seccate su solfato di sodio anidro (3.2), evaporate a secchezza e trasferite quantitativamente in matraccio tarato da 10 ml con acetonitrile (3.5). La soluzione campione così ottenuta è pronta per essere analizzata. 
+ 
+
+ 5.4 Analisi cromatografica 
+ 
+
+ 5.4.1 Condizioni Operative 
+ 
+
+ PROGRAMMA DI GRADIENTE 
+ 
+
+ TEMPO %A %B 
+ 
+
+ 0 20 80 
+ 
+
+ 1 20 80 
+ 
+
+ 20 70 30 
+ 
+
+ 30 20 80 
+ 
+
+ 36 20 80 
+ 
+
+ Flusso: 0,8 ml/min 
+ 
+
+ Iniettare le soluzioni di calibrazione (3.11) 3 volte ciascuna.
+ 
+
+ Iniettare almeno 3 volte la soluzione campione (5.3).
+ 
+
+ Nell'eventualità che il quantitativo di MBT (3.7) nel campione in esame sia così elevato da non rientrare nell'intervallo di concentrazione delle soluzioni di calibrazione sarà necessario diluire opportunamente l'estratto (5.3). 
+ 
+
+ 5.4.2 Identificazione 
+ 
+
+ L'identificazione del picco dell'MBT (3.7) è realizzata mediante confronto del tempo di ritenzione con il tempo di ritenzione delle soluzioni di riferimento (3.11). 
+ 
+
+ 5.4.3 Determinazione 
+ 
+
+ La determinazione quantitativa è realizzata con il metodo dello standard esterno, mediante integrazione dell'area del picco a calcolo dell'altezza del picco, facendo riferimento ai corrispondenti valori delle aree e delle altezze dei picchi delle soluzioni di riferimento. 
+ 
+
+ 6) ESPRESSIONE DEI RISULTATI 
+ 
+
+ 6.1 Calcolo 
+ 
+
+ Per calcolare la concentrazione di MBT nel liquido di cessione si applica la seguente formula: 
+ 
+
+ Cm mg/l = 0,05 x Ce mg/l 
+ 
+
+ dove 
+ 
+
+ Cm = concentrazione dell'MBT nel liquido di cessione; 
+ 
+
+ Ce = concentrazione dell'MBT nell'estratto calcolato tramite la retta di calibrazione. 
+ 
+
+ Le quantità di MBT, del suo sale di zinco e del disolfuro di benzotiazile vengono calcolate globalmente come MBT. 
+ 
+
+ Ai fini dell'idoneità del campione in esame, tale quantità non deve essere superiore a 0,05 mg/l riferito alla soluzione della prova di cessione.
