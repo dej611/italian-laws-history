@@ -1,0 +1,211 @@
+ALLEGATO 1 
+ 
+
+ CARATTERISTICHE DEGLI STRUMENTI DI REGISTRAZIONE AUTOMATICA DELLA 
+ 
+
+ TEMPERATURA SUI MEZZI DI TRASPORTO DEGLI ALIMENTI SURGELATI. 
+ 
+
+ 1. GLOSSARIO. 
+ 
+
+ 1. Strumento di registrazione della temperatura o sistema di misura: Quando non altrimenti specificato, si intende l'insieme costituito dallo strumento di misura, ivi compresa(e) la(e) sonda(e) applicata(e), e dagli accessori per la registrazione della temperatura. 
+ 
+
+ 2. Risoluzione: Espressione quantitativa dell'attitudine di un sistema a distinguere significativamente tra valori strettamente vicini della temperatura. 
+ 
+
+ 3. Tempo di risposta: Intervallo di tempo necessario a registrare la temperatura finale misurato tra l'istante in cui la temperatura subisce un brusco specificato cambiamento e l'istante in cui il valore di temperatura registrato raggiunge entro i limiti specificati il valore finale in regime stabile e vi permane. 
+ 
+
+ 4. Campo di misura: Intervallo tra la temperatura minima e massima che un sistema di misura è in grado di rilevare. 
+ 
+
+ 5. Parametri di preregolazione: Parametri di funzionamento del sistema predefiniti dal costruttore (inalterabili dagli utilizzatori) o determinati dagli utilizzatori in funzione dello scopo prefisso. 
+ 
+
+ 6. Capacità di registrazione: Numero massimo di misure che il sistema è in grado di memorizzare o tempo massimo di funzionamento che lo strumento è in grado di garantire. 
+ 
+
+ 7. Esattezza: è espressa dall'errore del sistema nel misurare la temperatura sotto determinate condizioni operative. Esprime la concordanza tra il valore misurato dal sistema e quello convenzionalmente vero. 
+ 
+
+ 8. Grado di protezione: Capacità dell'involucro ad evitare la penetrazione all'interno dello strumento e della sonda di polvere ed acqua. 
+ 
+
+ 2. CARATTERISTICHE METROLOGICHE E TECNICHE DI SISTEMI DI MISURA. 
+ 
+
+ 1. Iscrizioni e libretto di istruzioni: Ogni sistema di misura deve riportare almeno il nome e/o il marchio del fabbricante, il suo numero di identificazione, gli estremi del certificato di approvazione del tipo, rilasciato dall'amministrazione metrica del Ministero dell'industria, del commercio e dell'artigianato, nonchè la eventuale serie o il modello di appartenenza. Tali iscrizioni possono essere riportate anche mediante apposizione di etichetta.
+ 
+
+ Inoltre deve essere dotato di un libretto di istruzioni che riporti, oltre agli estremi del provvedimento anzidetto: 
+ 
+
+ le caratteristiche principali del sistema ivi compresi il campo di misura e la risoluzione; 
+ 
+
+ l'indicazione del tipo di sonda(e) di cui può essere dotato; 
+ 
+
+ le modalità di installazione precisando se è idoneo ad una installazione esterna alla cabina di guida; 
+ 
+
+ le eventuali manutenzioni necessarie; 
+ 
+
+ le modalità di uso per gli utilizzatori; 
+ 
+
+ le informazioni necessarie sulle verifiche periodiche. 
+ 
+
+ 2. Campo di misura: Il sistema di misura deve essere in grado di misurare temperature comprese almeno tra b 30(gradi)C e +30(gradi)C. 
+ 
+
+ 3. Dispositivo di registrazione: Il sistema di misura deve essere munito di un dispositivo di registrazione delle temperature rilevate dalla(e) sonda(e) ad esso associata(e). è facoltativa l'applicazione di un dispositivo indicatore per la visualizzazione delle temperature rilevate, avente una divisione non inferiore a 0,5 C e che sia della forma 1,2 oppure 5 x 10 con 'n' intero, positivo, negativo o nullo. 
+ 
+
+ La registrazione delle temperature rilevate può essere continua o secondo intervalli specificati al punto 9 successivo. 
+ 
+
+ 4. Preregolazione dello strumento: I parametri impostati da conducente del mezzo devono essere rilevabili direttamente od indirettamente dai dati acquisiti dal sistema. 
+ 
+
+ Le documentazioni rilasciate dal sistema devono riportare comunque i più significativi parametri impostati dagli utenti. 
+ 
+
+ 5. Data e orario dei rilevamenti: Il sistema deve essere in grado di identificare data ed ora dei rilevamenti effettuati e dell'inizio del trasporto. è consentito che la data di inizio del trasporto, così come gli estremi identificativi dello stesso, possano essere riportati manualmente sul documento da rilasciare al ricevente all'inizio di ciascuna serie di rilevamenti. 
+ 
+
+ 6. Memorizzazione dei dati: I dati relativi a ciascun trasporto devono essere consultabili lungo il percorso senza che le informazioni già acquisite vengano perdute. 
+ 
+
+ 7. Leggibilità dei dati: I dati registrati su supporto cartaceo devono essere indelebili e leggibili da un osservatore posto ad una distanza di 35 cm. 
+ 
+
+ 8. Emissibilità di documenti con i dati registrati: I dati registrati su supporti cartacei o magnetici devono poter essere consegnati al ricevente, che deve essere in grado di leggerli e conservarli per un periodo non inferiore ad un anno. 
+ 
+
+ 9. Intervallo tra cicli di misura: Il sistema deve essere in grado di effettuare misure ad intervalli non superiori a 20 minuti. 
+ 
+
+ 10. Capacità di registrazione e memorizzazione: Il sistema di misura deve essere in grado di funzionare in modo continuo per un periodo non inferiore a sette giorni registrando correttamente nel corso del funzionamento i dati rilevati. Inoltre nei sistemi elettronici la capacità di memorizzazione espressa in dati memorizzabili deve essere di circa 8000 dati e comunque non inferiori 
+ 
+
+ a 
+ 
+
+ 7 x 1440 
+ 
+
+ 
+ 
+
+ i 
+ 
+
+ dove "i" esprime l'intervallo tra cicli di misura del sistema espresso in minuti. 
+ 
+
+ Nel caso di sistemi elettronici, inoltre, non deve essere possibile la cancellazione dei dati memorizzati fino al momento del raggiungimento della capacità massima: i nuovi dati acquisiti dovranno limitarsi a cancellare quelli memorizzati per primi. 
+ 
+
+ 11. Alimentazione: Il sistema deve essere in grado di funzionare a corrente continua ovvero mediante batteria autonoma o con quella del mezzo di trasporto. In caso di batteria autonoma il sistema deve essere munito di idoneo dispositivo di allarme acustico o luminoso per permettere la sostituzione della stessa. 
+ 
+
+ 12. Mancanza di energia: Il sistema deve dare la possibilità di rilevare eventuali interruzioni di funzionamento. 
+ 
+
+ Inoltre in caso di mancanza di energia elettrica, il sistema deve garantire il mantenimento dei dati acquisiti per un periodo non inferiore alle 24 ore. 
+ 
+
+ 13. Protezione: Il sistema deve garantire un grado di protezione IP 55 (sonde) e IP 65 (strumento). è consentito un grado di protezione IP 40 per il solo strumento di misura quando questo venga installato all'interno della cabina di guida. 
+ 
+
+ 14. Sensibilità a campi elettromagnetici: Il sistema deve essere in grado di funzionare correttamente in presenza di un campo elettromagnetico di 10V/m entro una banda di frequenza compresa tra 27 MHz e 500 MHz. 
+ 
+
+ 15. Sensibilità a vibrazioni meccaniche: Il sistema deve essere in grado di funzionare correttamente anche se sottoposto ad un'accelerazione sui tre assi pari a 29,4 m/s(Elevato al Quadrato) in un campo di frequenza compreso tra 5 e 150 Hz e con un'ampiezza dello spostamento di 10 mm. 
+ 
+
+ 16. Canali disponibili: Il sistema deve consentire l'installazione di almeno due sonde per la misurazione della temperatura. 
+ 
+
+ 17. Condizioni ambientali di operatività: Il sistema deve essere in grado di funzionare correttamente a temperature comprese tra -40(gradi)C e 80(gradi)C. 
+ 
+
+ 3. CARATTERISTICHE METROLOGICHE. 
+ 
+
+ 1. Esattezza: Il sistema deve essere in grado di effettuare misure esatte a meno di (Più o Meno) 0,5(gradi)C nelle condizioni operative indicate al punto 2. 
+ 
+
+ 2. Risoluzione: Lo strumento deve avere una risoluzione non superiore a 1(gradi)C. 
+ 
+
+ 3. Tempo di risposta: Il tempo di risposta deve essere tale da consentire in tre minuti la lettura di una temperatura pari almeno al 90% della differenza tra i valori della lettura iniziale e di quella finale. 
+ 
+
+ 4. Esattezza della durata di registrazione: La durata della registrazione deve essere esatta a meno dell'1%. Nel caso di sistemi con capacità superiore a sette giorni il massimo errore tollerato è (Più o Meno) 0,1%. 
+ 
+
+ 4. CARATTERISTICHE DELLA INSTALLAZIONE SUI MEZZI DI TRASPORTO. 
+ 
+
+ 1. Il sistema può essere montato sia all'esterno che all'interno della cabina di guida tenendo conto di quanto prescritto al punto 2.13. 
+ 
+
+ In ogni caso il conducente deve essere in grado di leggere dalla cabina di guida la temperatura che viene rilevata. In alternativa deve essere disponibile un sistema di allarme di tipo acustico o luminoso rilevabile dal posto di guida, nel caso che la temperatura raggiunga un valore superiore ad un valore prefissato e comunque superiore a -15(gradi)C. 
+ 
+
+ 2. Per ogni mezzo deve essere installata almeno una sonda, ad eccezione dei mezzi con scomparto di lunghezza superiore a 10 m, per i quali devono essere installate due sonde distanti tra loro almeno 5 m. 
+ 
+
+ 3. La(e) sonda(e) termometrica(che) deve(ono) essere installata(e) su soffitto del mezzo ma non a diretto contatto con lo stesso. 
+ 
+
+ Il posizionamento deve corripondere alla parte tratteggiata rispettivamente: 
+ 
+
+ dello schema a) dell'allegato 2 per mezzi con scomparto di lunghezza superiore a 10 m; 
+ 
+
+ dello schema b) dell'allegato 2 per mezzi con scomparto di lunghezza fino a 10 m. 
+ 
+
+ 4. A parziale modifica di quanto espresso al punto 4.3, i mezzi dotati di paratia divisoria fissa o mobile devono essere dotati di un numero di sonde almeno pari al numero di comparti creati da tali paratie. 
+ 
+
+ 5. Nel caso di più sonde installate su uno stesso mezzo (o comparto), la temperatura di riferimento, una volta stabilizzata dopo l'effettuazione del carico, sarà la più alta tra quelle rilevate dalle sonde installate come sopra, escludendo i periodi di sbrinamento. 
+ 
+
+ 5. APPROVAZIONE DEL TIPO DI SISTEMA. 
+ 
+
+ 1. Il tipo di sistema è approvato quando ha ottenuto apposito certificato di approvazione dall'Amministrazione metrica del Ministero dell'industria, del commercio e dell'artigianato, sentito il Comitato centrale metrico, a seguito di esito positivo delle prove destinate ad accertare la conformità ai requisiti di cui agli allegati del presente regolamento e la sua affidabilità metrologica nel tempo dopo 24 ore di funzionamento continuo. 
+ 
+
+ 2. La ditta costruttrice è tenuta a conservare il certificato di approvazione di cui al punto 5.1. 
+ 
+
+ 3. Il mezzo di trasporto deve essere sempre fornito del libretto di istruzioni conforme al punto 2.1 in cui devono essere riportate anche le eventuali condizioni prescritte dal certificato di approvazione del tipo. 
+ 
+
+ 6. VERIFICHE PERIODICHE. 
+ 
+
+ 1. L'accertamento della conformità del sistema al tipo approvato può essere effettuato dalla ditta costruttrice che disponga di idonea strumentazione di misura riferibile a campioni nazionali delle grandezze interessate o da un ufficio provinciale metrico secondo la seguente periodicità: 
+ 
+
+ a) almeno ogni anno per sistemi elettromeccanici; 
+ 
+
+ b) almeno ogni due anni per sistemi elettronici. 
+ 
+
+ 2. Le verifiche periodiche riguardano le prove di funzionalità e calibrazione dello strumento di misura e delle relative sonde a corredo. 
+ 
+
+ 3. L'avvenuta verifica periodica è attestata mediante autoadesivo indicante il nome del costruttore o l'ufficio che l'ha eseguita e la data di scadenza della verifica medesima.
