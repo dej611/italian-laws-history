@@ -50,55 +50,122 @@ UMBERTO I
  
  
 
- 1&ordf; CATEGORIA.
+ 
+ 
+ ((PRIMA CATEGORIA
  
 
  
  
 
- 1 Direttore, con lo stipendio di . . . L. 6000
- 
-
- 1 Assistente, id. . . . . . . . . . . &raquo; 3000
- 
-
- 4 Assistenti, id. . . . . . . . . . . &raquo; 2000
+ Impiegati di concetto.
  
 
  
  
 
- 2&ordf; CATEGORIA.
+ 1 Direttore con lo stipendio di . . . . . . . . . L. 6000
  
 
  
  
 
- 1 Segretario, con lo stipendio di . . L. 2500
- 
-
- 1 Compilatore, id. . . . . . . . . . . &raquo; 2100
- 
-
- 2 Compilatori, id. . . . . . . . . . . &raquo; 1600
- 
-
- 2 Compilatori, id. . . . . . . . . . . &raquo; 1300
+ 1 Assistente di l&ordf; classe con lo stipendio di . . &raquo; 3200
  
 
  
  
 
- PERSONALE DI SERVIZIO.
+ 1 Assistente di 2&ordf; &raquo; &raquo; &raquo; &raquo; &raquo; 3000
  
 
  
  
 
- 1 Inserviente, con lo stipendio di . . L. 1000
+ 3 Assistenti di 3&ordf; &raquo; &raquo; &raquo; &raquo; &raquo; 2000
  
 
- 1 Id., id. . . . . . . . . . . &raquo; 800
+ 
  
 
- 1 Portiere, id. . . . . . . . . . . . &raquo; 700
+ SECONDA CATEGORIA
+ 
+
+ 
+ 
+
+ Ufficiali tecnici.
+ 
+
+ 
+ 
+
+ 1 Segretario con lo stipendio di . . . . . . . . . L. 3000
+ 
+
+ 
+ 
+
+ 1 Compilatore di l&ordf; classe con lo stipendio di . . &raquo; 2500
+ 
+
+ 
+ 
+
+ 2 Compilatori di 2&ordf; &raquo; &raquo; &raquo; &raquo; &raquo; 2000
+ 
+
+ 
+ 
+
+ 2 Compilatori di 3&ordf; &raquo; &raquo; &raquo; &raquo; &raquo; 1700
+ 
+
+ 
+ 
+
+ 3 Compilatori di 4&ordf; &raquo; &raquo; &raquo; &raquo; &raquo; 1400
+ 
+
+ 
+ 
+
+ Personale di servizio.
+ 
+
+ 
+ 
+
+ 1 Usciere con lo stipendio di . . . . . . . . . . L. 1300
+ 
+
+ 
+ 
+
+ 1 Usciere &raquo; &raquo; &raquo; &raquo; 1200
+ 
+
+ 
+ 
+
+ 1 Portiere &raquo; &raquo; &raquo; &raquo; 1100
+ 
+
+ 
+ 
+
+ 3 Inservienti &raquo; &raquo; &raquo; &raquo; 1000))
+ 
+
+ ((1))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (1)
+
+ 
+ 
+
+ Il Regio Decreto 28 luglio 1904, n. 469 ha disposto (con l'art. 1, comma 1) che la presente modifica decorre dal 1° luglio 1904.
