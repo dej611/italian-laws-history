@@ -1,0 +1,574 @@
+Allegato A 
+ 
+
+ (previsto dall'articolo 4, comma 2) 
+ 
+
+ 
+ 
+
+ Soglie di danno e di vulnerabilità stabilite nelle direttive tecniche per gli interventi di riparazione dei danni e di miglioramento sismico delle costruzioni private danneggiate dalla crisi sismica, di cui ai provvedimenti dei commissari delegati per le Marche e per l'Umbria rispettivamente n. 121 e n. 61, entrambi del 18 
+ 
+
+ novembre 1997. 
+ 
+
+ 
+ 
+
+ 1. Edifici in muratura. 
+ 
+
+ Le soglie di danno e di vulnerabilità indicate di seguito devono intendersi come soglie minime per gli interventi di cui al comma 1, lettera b) dell'articolo 4 del decreto e come soglie massime per gli interventi di cui al comma 3 dello stesso articolo. 
+ 
+
+ 1.1. Soglie massime di danno: 
+ 
+
+ 1) pareti fuori piombo per un'ampiezza superiore a 5 centimetri sull'altezza di un piano, o comunque che riguardano un'altezza 
+ 
+
+ superiore ai 2/3 della parete stessa; 
+ 
+
+ 2) crolli parziali delle strutture verticali portanti che interessino una superficie superiore al 5% della superficie totale 
+ 
+
+ delle murature portanti; 
+ 
+
+ 3) lesioni diagonali passanti che, in corrispondenza di almeno un livello, interessino almeno il 30% della superficie totale delle 
+ 
+
+ strutture portanti del livello medesimo; 
+ 
+
+ 4) lesioni di schiacciamento che interessano almeno il 5% delle murature portanti; 
+ 
+
+ 5) cedimenti delle fondazioni o fenomeni di dissesto 
+ 
+
+ idrogeologico. 
+ 
+
+ 1.2. Soglia massima di vulnerabilità: 
+ 
+
+ a) La resistenza convenzionale alle azioni orizzontali delle murature, valutata al piano terra dell'edificio, ed espressa attraverso il parametro C - calcolato come specificato nel paragrafo 4, pari al rapporto fra forze orizzontali e peso dell'edificio, è 
+ 
+
+ inferiore ai valori limite: 
+ 
+
+ 
+ 
+
+ 
+ C=0.14 per i comuni classificati con S=9; 
+ 
+
+ 
+ C=0.08 per i comuni attualmente non classificati. 
+ 
+
+ 
+ 
+
+ b) La resistenza convenzionale ai piani superiori è inferiore a valori di C ottenuti moltiplicando il valore riportato al comma a) per i coefficienti di maggiorazione definiti nella tabella 3 del 
+ 
+
+ paragrafo 4. 
+ 
+
+ 
+ 
+
+ 2. Edifici in cemento armato e in acciaio. 
+ 
+
+ Gli edifici ammessi a contributo non devono aver subito danni alla struttura portante e non devono essere interessati da cedimenti delle 
+ 
+
+ fondazioni. 
+ 
+
+ 
+ 
+
+ 3. Edifici in struttura mista (muratura e cemento armato oppure 
+ 
+
+ muratura e acciaio). 
+ 
+
+ Per gli edifici in struttura mista valgono le soglie massime di danno di cui al punto 1.1 per la parte in muratura e al punto 2 per la parte in cemento armato o in acciaio. Ove il sistema costruttivo al quale è affidato prevalentemente il compito di resistere alle forze orizzontali sia in muratura, la soglia massima di vulnerabilità dovrà essere valutata come specificato al punto 1.2, comma a). 
+ 
+
+ 
+ 
+
+ 4. Valutazione semplificata della resistenza convenzionale alle forze 
+ 
+
+ sismiche orizzontali. 
+ 
+
+ La valutazione è effettuata con riferimento alla resistenza a 
+ 
+
+ taglio dei maschi murari. 
+ 
+
+ La resistenza tangenziale di riferimento da utilizzare è riportata 
+ 
+
+ nella tabella seguente in funzione della tipologia della muratura. 
+ 
+
+ 
+ 
+
+ Tab. 1 - Tensione tangenziale di riferimento per il calcolo della 
+ 
+
+ resistenza dei maschi murari ad azioni nel piano medio della parete 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipologia della muratura Resistenza tangenziale di riferimento 
+ 
+
+ "tau kappa" in KN/m2 (in t/m2 fra 
+ 
+
+ parentesi) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Muratura a sacco in pietrame 30 (3) 
+ 
+
+ 
+ 
+
+ Muratura in pietrame non squa- 50 (5) 
+ 
+
+ drato o sbozzato 
+ 
+
+ 
+ 
+
+ Muratura in pietrame squadrato 80 (8) 
+ 
+
+ e ben organizzato o in blocchi 
+ 
+
+ di tufo 
+ 
+
+ 
+ 
+
+ Muratura consolidata con iniezioni 110 (11) 
+ 
+
+ di miscela cementizia o betoncino 
+ 
+
+ armato 
+ 
+
+ 
+ 
+
+ Mattoni, blocchi di argilla espansa, 120 (12) 
+ 
+
+ blocchi di calcestruzzo, blocchi di 
+ 
+
+ laterizio, purchè pieni o semipieni 
+ 
+
+ ("fi" minore o uguale 45%) con 
+ 
+
+ malta bastarda 
+ 
+
+ 
+ 
+
+ Mattoni, blocchi di argilla espansa, 200 (20) 
+ 
+
+ blocchi di calcestruzzo, blocchi di 
+ 
+
+ laterizio, purchè pieni o semipieni 
+ 
+
+ ("fi" minore o uguale 45%) con malta 
+ 
+
+ cementizia 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La resistenza viene valutata al piano terra, inteso come quota di spiccato campagna, o, in caso di edificio in pendio, quota del piano a monte. 
+ 
+
+ Il calcolo si effettua determinando inizialmente le grandezze 
+ 
+
+ riportate in tabella 2. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tab. 2 - Parametri per il calcolo della resistenza convenzionale C dell'edificio alle forze orizzontali 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Numero dei piani al di sopra della quota N 
+ 
+
+ di verifica 
+ 
+
+ 
+ 
+
+ Area totale coperta At 
+ 
+
+ 
+ 
+
+ Area totale elementi resistenti in direzione x Ax 
+ 
+
+ 
+ 
+
+ Area totale elementi resistenti in direzione y Ay 
+ 
+
+ 
+ 
+
+ Area minima fra Ax e Ay A 
+ 
+
+ 
+ 
+
+ Area massima fra Ax e Ay B 
+ 
+
+ 
+ 
+
+ Rapporto fra area minima delle murature ed ao 
+ 
+
+ area coperta A/At 
+ 
+
+ 
+ 
+
+ Rapporto fra area massima e minima delle (gamma) 
+ 
+
+ murature B/A 
+ 
+
+ 
+ 
+
+ Resistenza di riferimento (caratteristica) (tau kappa) 
+ 
+
+ 
+ 
+
+ Peso specifico delle murature pm 
+ 
+
+ 
+ 
+
+ Carico permanente per metro quadrato di solaio ps 
+ 
+
+ 
+ 
+
+ Altezza media di interpiano h 
+ 
+
+ 
+ 
+
+ -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+ 
+
+ 
+ 
+
+ Nel caso in cui l'edificio oggetto di verifica sia adiacente ad altri e ne condivida le murature la valutazione dell'area coperta dovrà comprendere non meno del 50% delle aree degli edifici adiacenti comprese fra le murature condivise e il primo elemento strutturale 
+ 
+
+ parallelo. 
+ 
+
+ 
+ 
+
+ Nel caso in cui i parametri detti siano ragionevolmente uniformi sull'altezza dell'edificio si determina il peso medio per unità di area coperta di un livello dell'edificio. 
+ 
+
+ 
+ 
+
+ 
+ (Ax + Ay) h pm 
+ 
+
+ 
+ q= --------------- + ps (1) 
+ 
+
+ 
+ At 
+ 
+
+ 
+ 
+
+ il; La resistenza convenzionale C assume l'espressione: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ -------------------------------
+ 
+
+ 
+ ao "tau kappa" | / qN
+ 
+
+ 
+ C = ---------------- | / 1 + --------------------------- (2)
+ 
+
+ 
+ | /
+ 
+
+ 
+ qN |/ 1,5 ao "tau k" (1+ gamma)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ nella quale N è il numero di piani sovrastanti quello di 
+ 
+
+ riferimento. 
+ 
+
+ Nel caso in cui ci siano forti variazioni in elevato occorrerà calcolare q in ogni livello, adottare un valore medio da inserire nella formula (1) ed effettuare la determinazione di C nella (2) con riferimento ai valori di ao e "gamma" propri del livello a cui si 
+ 
+
+ verifica. 
+ 
+
+ 
+ 
+
+ Ai piani superiori la verifica della resistenza convenzionale verrà effettuata con riferimento al numero di piani N sovrastanti quello di verifica e ad un valore di C incremento secondo la tabella seguente, ottenuta nell'ipotesi di coefficienti di distribuzione delle forze 
+ 
+
+ sismiche di piano lineari sull'altezza. 
+ 
+
+ 
+ 
+
+ Tab. 3 - Calcolo del coefficiente di maggiorazione della resistenza Convenzionale C ai piani superiori a quello di riferimento 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ | | Numero totale di piani dell'edificio |
+ 
+
+ 
+ |Piano di verifica |-------------------------------------------------
+ 
+
+ 
+ | | 1 | 2 | 3 | 4 | 5 |
+ 
+
+ 
+ |--------------------------------------------------------------------
+ 
+
+ 
+ | 1 | 1 | 1 | 1 | 1 | 1 |
+ 
+
+ 
+ | 2 | - | 1.33 | 1.25 | 1.2 | 1.17 |
+ 
+
+ 
+ | 3 | - | - | 1.5 | 1.4 | 1.33 |
+ 
+
+ 
+ | 4 | - | - | - | 1.6 | 1.5 |
+ 
+
+ 
+ | 5 | - | - | - | - | 1.67 |
+ 
+
+ 
+ ---------------------------------------------------------------------
