@@ -1,0 +1,61 @@
+ALLEGATO B 
+ 
+
+ (Modifiche e aggiunte alle norme europee di cui all'allegato A) 
+ 
+
+ Appendice 1 
+ 
+
+ MATERIALE ELETTRICO PER ATMOSFERE POTENZIALMENTE ESPLOSIVE DEL GRUPPO 
+ 
+
+ I 
+ 
+
+ REGOLE GENERALI 
+ 
+
+ (Norma europea EN 50 014) 
+ 
+
+ Sostituire il testo del punto 6.3.1 della modifica n. 3 (dicembre 1982) della normativa europea EN 50 014 con il testo seguente: 
+ 
+
+ "6.3.1. Materiale elettrico del gruppo I: 
+ 
+
+ Le custodie in materia plastica la cui superficie proiettata in qualunque direzione supera 100 cm(Elevato al Quadrato) o che comportano parti metalliche accessibili la cui capacità rispetto alla terra è superiore a 3 pF nelle condizioni più sfavorevoli, nella pratica devono essere progettate in modo che sia evitato ogni pericolo di accensione determinato da cariche elettrostatiche nelle condizioni di uso ordinarie, come pure durante la manutenzione e la pulizia. 
+ 
+
+ Queste condizioni sono soddisfatte: 
+ 
+
+ - con una scelta opportuna del materiale: la resistenza d'isolamento della custodia, misurata secondo il metodo illustrato al punto 22.4.7.8 della presente norma europea non deve superare: 
+ 
+
+ - 1 G(Omega) (23 (Più o Meno) 2 C) e 50 (Più o Meno) 5% di 
+ 
+
+ umidità relativa, o 
+ 
+
+ - 100 G(Omega) nelle condizioni di servizio estreme di temperatura e di umidità specificate per il materiale elettrico: il simbolo "X" in questo caso andrà riportato dopo gli estremi del certificato, come indicato al paragrafo 26.2.9; 
+ 
+
+ - ovvero con il dimensionamento, la forma e la disposizione e con altre misure di protezione: l'assenza di cariche elettrostatiche pericolose deve dunque essere dimostrata con test reali di accensione di una miscela aria-metano con 8,5 (Più o Meno) 0,5% di metano. 
+ 
+
+ Tuttavia, se il pericolo di accensione non può essere evitato in sede di progettazione, un'etichetta d'avvertimento deve indicare le misure di sicurezza necessarie in servizio". 
+ 
+
+ Appendice 2 
+ 
+
+ Il testo dell'appendice 2 dell'allegato B della legge 17 aprile 1989, n. 150, è soppresso. 
+ 
+
+ Appendice 3 
+ 
+
+ Il testo dell'appendice 3 dell'allegato B della legge 17 aprile 1989, n. 150, viene mantenuto integralmente.
