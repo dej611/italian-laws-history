@@ -89,9 +89,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  AMMINISTRAZIONE CENTRALE
  
 
@@ -110,68 +107,78 @@ VITTORIO EMANUELE III
  
  
 
- Grado Numero dei posti 
+ 
+ 
+ ((===================================================
  
 
- 4° Direttori generali 2
+ | | | Numero dei |
  
 
- 
- 
-
- 5° Ispettori generali 2
+ | Grado | | posti |
  
 
- 
- 
-
- 6° Direttori capi divisione 13
+ +===========+=======================+=============+
  
 
- 
- 
-
- 7° Capi sezione 10
+ | 4° |Direttori generali | 2 |
  
 
- 
- 
-
- 8° Consiglieri 14
+ +-----------+-----------------------+-------------+
  
 
- 
- 
-
- 9° Primi segretari 21
+ | 5° |Ispettori generali | 2 |
  
 
- 
- 
-
- 10° Segretari |
+ +-----------+-----------------------+-------------+
  
 
- |
+ | |Direttori capi | |
  
 
- \ 21
+ | 6° |divisione | 13 |
  
 
- /
+ +-----------+-----------------------+-------------+
  
 
- 11° Vice segretari |
+ | 7° |Capi sezione | 12 |
  
 
- -----
+ +-----------+-----------------------+-------------+
  
 
- Totale n. 83
+ | 8° |Consiglieri | 15 |
  
 
+ +-----------+-----------------------+-------------+
  
+
+ | 9° |Primi segretari | 28 |
  
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | 10° |Segretari | 28 |
+ 
+
+ +-----------+-----------------------| |
+ 
+
+ | 11° |Vice segretari | |
+ 
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | |Totale | 100 |
+ 
+
+ +-----------+-----------------------+-------------+))
+ 
+
+ ((7))
 
  
  
@@ -408,9 +415,12 @@ VITTORIO EMANUELE III
  
 
  +----------------------------------------------------+--------------+
- ((6))
+ 
 
  
+ 
+
+ (6) 
  
 
  
@@ -473,6 +483,14 @@ VITTORIO EMANUELE III
 
  
  
+
+ 
+ 
+
+ 
+ 
+ ((
+ 
  
  Grado Numero dei posti 
  
@@ -494,12 +512,18 @@ VITTORIO EMANUELE III
  
 
  
- 14 
+ 10° Chimici aggiunti 3 
  
 
  
+ Totale 17 
  
+
  
+ ))
+ 
+
+ ((7))
 
  
  
@@ -567,152 +591,83 @@ VITTORIO EMANUELE III
  
  
  
-
- 
- 
-
- 
+ ((Personale civile tecnico dell'Istituto idrografico
  
 
  
  
 
- PERSONALE CIVILE TECNICO. 
+ (Gruppo B)
+ 
+ 
+ Grado Numero dei posti 
+ 
+
+ 
+ 8° Capi tecnici principali 6 
+ 
+
+ 
+ 9° Primi capi tecnici 9 
+ 
+
+ 
+ 10° Capi tecnici 23 
+ 
+
+ 
+ 11° Capi tecnici aggiunti 
+ 
+
+ 
+ Totale 38 
+ 
+
+ 
+ ))
+ 
+
+ ((7))
+
+ 
+ ((Personale civile tecnico delle Direzioni costruzioni navali e meccaniche
  
 
  
  
 
- Istituto idrografico. 
+ (Gruppo B)
+ 
+ 
+ Grado Numero dei posti 
  
 
  
- 
-
- (Gruppo B). 
- 
-
- 
+ 8° Capi tecnici principali 20 
  
 
  
+ 9° Primi capi tecnici 47 
  
 
  
- 
-
- =====================================================================
- 
-
- | | Numero dei |
- 
-
- | Grado | posti |
- 
-
- +====================================================+==============+
- 
-
- |8° Capi tecnici principali | 5 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |9° Primi capi tecnici | 7 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |10° Capi tecnici | |
- 
-
- +----------------------------------------------------| 18 |
- 
-
- |11° Capi tecnici aggiunti | |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- | | 30 |
- 
-
- +----------------------------------------------------+--------------+
+ 10° Capi tecnici 112 
  
 
  
+ 11° Capi tecnici aggiunti 
  
 
  
+ Totale 179 
  
 
  
+ ))
  
 
- Direzioni costruzioni navali e meccaniche. 
- 
+ ((7))
 
- 
- 
-
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- =====================================================================
- 
-
- | | Numero dei |
- 
-
- | Grado | posti |
- 
-
- +====================================================+==============+
- 
-
- |8° Capi tecnici principali | 15 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |9° Primi capi tecnici | 36 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |10° Capi tecnici | |
- 
-
- +----------------------------------------------------| 86 |
- 
-
- |11° Capi tecnici aggiunti | |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- | | 137 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- 
  
 
  
@@ -722,9 +677,6 @@ VITTORIO EMANUELE III
  
 
  Direzioni armi ed armamenti navali. 
- 
-
- 
  
 
  (Gruppo B). 
@@ -781,13 +733,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  Direzioni ed uffici del Genio militare per la Regia marina. 
- 
-
- 
  
 
  (Gruppo B). 
@@ -852,224 +798,52 @@ VITTORIO EMANUELE III
 
  
  
-
- 
- 
-
- Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche. 
- 
-
- 
- 
-
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- =====================================================================
- 
-
- | | Numero dei |
- 
-
- | Grado | posti |
- 
-
- +====================================================+==============+
- 
-
- |8° Capi disegnatori tecnici principali | 10 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |9° Capi disegnatori tecnici | 25 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |10° Disegnatori tecnici | |
- 
-
- +----------------------------------------------------| 62 |
- 
-
- |11° Disegnatori tecnici aggiunti | |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- | | 97 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- Disegnatori tecnici per le Direzioni armi ed armamenti navali. 
- 
-
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
+ ((Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche
  
- 
-
- =====================================================================
- 
-
- | | Numero dei |
- 
-
- | Grado | posti |
- 
-
- +====================================================+==============+
- 
-
- |8° Capi disegnatori tecnici principali | 4 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |9° Capi disegnatori tecnici | 12 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |10° Disegnatori tecnici | |
- 
-
- +----------------------------------------------------| 28 |
- 
-
- |11° Disegnatori tecnici aggiunti | |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- | | 44 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina. 
- 
-
- 
- 
-
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
- 
- 
 
- =====================================================================
  
-
- | | Numero dei |
- 
-
- | Grado | posti |
  
 
- +====================================================+==============+
+ (Gruppo B)
  
 
- |8° Capi disegnatori tecnici principali | 1 |
  
-
- +----------------------------------------------------+--------------+
  
 
- |9° Capi disegnatori tecnici | 3 |
  
-
- +----------------------------------------------------+--------------+
  
-
- |10° Disegnatori tecnici | |
  
-
- +----------------------------------------------------| 9 |
+ Grado Numero dei posti 
  
 
- |11° Disegnatori tecnici aggiunti | |
  
-
- +----------------------------------------------------+--------------+
+ 8° Capi disegnatori tecnici principali 12 
  
 
- | | 13 |
  
-
- +----------------------------------------------------+--------------+
+ 9° Capi disegnatori tecnici 29 
  
 
  
+ 10° Disegnatori tecnici 70 
  
 
  
+ 11° Disegnatori tecnici aggiunti 
  
 
  
+ Totale 111 
  
 
  
+ ))
  
 
- 
- 
+ ((7))
 
  
- 
-
- PERSONALE DI RAGIONERIA DEGLI ARSENALI M. M.
+ ((Disegnatori tecnici per le Direzioni armi ed armamenti navali
  
 
  
@@ -1081,55 +855,116 @@ VITTORIO EMANUELE III
  
  
 
- Grado Numero dei posti
+ 
+ 
+ 
+ Grado Numero dei posti 
+ 
+
+ 
+ 8° Capi disegnatori tecnici principali 5 
+ 
+
+ 
+ 9° Capi disegnatori tecnici 16 
+ 
+
+ 
+ 10° Disegnatori tecnici 36 
+ 
+
+ 
+ 11° Disegnatori tecnici aggiunti 
+ 
+
+ 
+ Totale 57 
+ 
+
+ 
+ ))
+ 
+
+ ((7))
+
+ 
+ ((Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina
  
 
  
  
 
- 6° Ragionieri superiori 2
+ (Gruppo B)
+ 
+ 
+ Grado Numero dei posti 
+ 
+
+ 
+ 8° Capi disegnatori tecnici principali 2 
+ 
+
+ 
+ 9° Capi disegnatori tecnici 5 
+ 
+
+ 
+ 10° Disegnatori tecnici 13 
+ 
+
+ 
+ 11° Disegnatori tecnici aggiunti 
+ 
+
+ 
+ Totale 20 
+ 
+
+ 
+ ))
+ 
+
+ ((7))
+
+ 
+ ((Personale di ragioneria degli Arsenali militari marittimi
  
 
  
  
 
- 7° Ragionieri capi 6
+ (Gruppo B)
+ 
+ 
+ Grado Numero dei posti 
  
 
  
- 
-
- 8° Ragionieri principali 10
- 
-
- 
- 
-
- 9° Primi ragionieri 16
+ 6° Ragionieri superiori 2 
  
 
  
- 
-
- 10° Ragionieri |
- 
-
- 
- 
-
- | 26
+ 7° Ragionieri capi 7 
  
 
  
+ 8° Ragionieri principali 11 
  
 
- 11° Vice ragionieri|
+ 
+ 9° Primi ragionieri 19 
  
 
  
+ 10° Ragionieri 31 
  
 
- Totale n. 60
+ 
+ 11° Vice ragionieri 
+ 
+
+ 
+ Totale 70 
  
 
  
@@ -1141,7 +976,15 @@ VITTORIO EMANUELE III
  
  
 
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241.
+ 
+ 
+
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana, fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.))
+ 
+
+ ((7))
+
+ 
  
 
  
@@ -1159,10 +1002,7 @@ VITTORIO EMANUELE III
  (Gruppo B). 
  
 
- 
- 
-
- RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, COMVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5) 
+ RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5) 
  
 
  
@@ -1174,49 +1014,18 @@ VITTORIO EMANUELE III
  
  
 
- PERSONALE D'ORDINE DELL'AMMINISTRAZIONE M. M.
+ 
+ 
+
+ 
+ 
+ ((Personale d'ordine dell'Amministrazione militare marittima
  
 
  
  
 
- (Gruppo C).
- 
-
- 
- 
-
- Grado Numero dei posti
- 
-
- 
- 
-
- 9° Archivisti capi 28
- 
-
- 
- 
-
- 10° Primi archivisti 78
- 
-
- 
- 
-
- 11° Archivisti 128
- 
-
- 
- 
-
- 12° Applicati 251
- 
-
- 
- 
-
- Totale n. 485
+ (Gruppo C)
  
 
  
@@ -1224,12 +1033,43 @@ VITTORIO EMANUELE III
 
  
  
-
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241.
+ 
+ Grado Numero dei posti 
  
 
  
+ 9° Archivisti capi 29 
  
+
+ 
+ 10° Primi archivisti 83 
+ 
+
+ 
+ 11° Archivisti 136 
+ 
+
+ 
+ 12° Applicati 278 
+ 
+
+ 
+ Totale 526 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.))
+ 
+
+ ((7))
 
  
  
@@ -1243,9 +1083,6 @@ VITTORIO EMANUELE III
  
  
 
- Personale subalterno dell'Amministrazione centrale. 
- 
-
  
  
 
@@ -1254,56 +1091,10 @@ VITTORIO EMANUELE III
 
  
  
-
- 
- 
-
- Numero
+ ((Personale subalterno dell'Amministrazione
  
 
- dei
- 
-
- posti
- 
-
- 
- 
-
- Primi commessi . . . . . . . . . . . . . . . . . 2
- 
-
- Commessi e uscieri capi. . . . . . . . . . . . 32
- 
-
- Uscieri . . . . . . . . . . . . . . . . . . . . 33
- 
-
- Inservienti . . . . . . . . . . . . . . . . . . 14
- 
-
- Commessi di cassa . . . . . . . . . . . . . . . 1
- 
-
- 
- 
-
- Totale n. 82
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- Personale subalterno per il servizio dei fari e del segnalamento marittimo. 
+ centrale della Regia marina.
  
 
  
@@ -1316,18 +1107,107 @@ VITTORIO EMANUELE III
  
 
  
- Capi fanalisti 139 
+ Commesso capo 1 
  
 
  
- Fanalisti 325 
+ Primi commessi 3 
  
 
  
- 464 
+ Commessi e Uscieri capi 47 
  
 
  
+ Uscieri 47 
+ 
+
+ 
+ Inservienti 24 
+ 
+
+ 
+ Commessi di cassa 1 
+ 
+
+ 
+ Totale 123 
+ 
+
+ 
+ Capo agente tecnico (1) 1 
+ 
+
+ 
+ Agenti tecnici (1) 3 
+ 
+
+ 
+ Totale 4 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (1) Col trattamento stabilito, rispettivamente, per gli agenti tecnici ed il capo agente tecnico del Ministero delle finanze.))
+ 
+
+ ((7))
+
+ 
+ ((Personale subalterno per il servizio dei fari e del segnalamento marittimo.
+ 
+ 
+ Numero dei posti 
+ 
+
+ 
+ Agenti capi per i fari e pel segnalamento marittimo 145 
+ 
+
+ 
+ Agenti per i fari e pel segnalamento marittimo 341 
+ 
+
+ 
+ Totale 486 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo
+ 
+
+ un numero di posti uguale a quello degli agenti che si trovino
+ 
+
+ iscritti nel corrispondente elenco del personale proveniente dalle
+ 
+
+ Amministrazioni austro-ungarica e fiumana fino a quando tale
+ 
+
+ personale non sia eliminato o trasferito nel ruolo in base al R.
+ 
+
+ decreto 20 giugno 1935-XIII, n. 1241.))
+ 
+
+ ((7))
+
  
  
  ---------------
@@ -1350,4 +1230,17 @@ VITTORIO EMANUELE III
  
  
 
- Il Regio Decreto 14 ottobre 1937, n. 2064 ha disposto (con l'art. 1, comma 1) che "Il ruolo organico dei maestri della Regia Accademia navale (gruppo B) previsto dall'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso".
+ Il Regio Decreto 14 ottobre 1937, n. 2064 ha disposto (con l'art. 1, comma 1) che "Il ruolo organico dei maestri della Regia Accademia navale (gruppo B) previsto dall'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (7)
+
+ 
+ 
+
+ Il Regio D.L. 5 dicembre 1938, n. 2011, convertito senza modificazioni dalla L. 2 giugno 1939, n. 739, ha disposto (con l'art. 23, comma 1) che "Gli aumenti di organico stabiliti dal presente decreto hanno immediata attuazione limitatamente alla metà dei posti previsti per i singoli ruoli e gradi e decorrenza 1° luglio 1939-XVII per la rimanente parte".
