@@ -65,7 +65,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) che l'ammontare dei corrispettivi delle cessioni all'esportazione di cui alle lettere a) e
 
  
- b) dello stesso articolo effettuate e registrate nell'anno precedente sia superiore al dieci per cento del volume d'affari determinato a norma dell'articolo 20 dello stesso decreto ma senza tenere conto delle cessioni di beni in transito o depositati nei luoghi soggetti a vigilanza doganale. I contribuenti, ad eccezione di quelli che hanno iniziato l'attività da un periodo inferiore a dodici mesi, hanno facoltà di assumere come ammontare di riferimento, in ciascun mese, quello dei corrispettivi delle esportazioni fatte nei dodici mesi precedenti, se il relativo ammontare superi la predetta percentuale del volume di affari, come sopra determinato, dello stesso periodo di riferimento; 
+ b) 
+ ((dello stesso articolo effettuate, registrate nell'anno precedente,))
+
+ sia superiore al dieci per cento del volume d'affari determinato a norma dell'articolo 20 dello stesso decreto ma senza tenere conto delle cessioni di beni in transito o depositati nei luoghi soggetti a vigilanza doganale. I contribuenti, ad eccezione di quelli che hanno iniziato l'attività da un periodo inferiore a dodici mesi, hanno facoltà di assumere come ammontare di riferimento, in ciascun mese, quello dei corrispettivi delle esportazioni fatte nei dodici mesi precedenti, se il relativo ammontare superi la predetta percentuale del volume di affari, come sopra determinato, dello stesso periodo di riferimento; 
  
 
  b) che i dati di cui alla precedente lettera risultino da apposita dichiarazione redatta in conformità al modello approvato con decreto del Ministro delle finanze. 
@@ -97,7 +100,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. I contribuenti che si avvalgono della facoltà di acquistare o importare beni e servizi senza pagamento dell'imposta ai sensi del primo comma devono annotare, in ciascun mese, nei registri di cui agli articoli 23, 24 o al secondo comma dell'articolo 39 del decreto ivi indicato ovvero nel registro di cui al precedente comma, l'ammontare di riferimento delle esportazioni utilizzabile all'inizio del mese precedente e quello degli acquisti effettuati e delle importazioni fatte nello stesso mese senza pagamento dell'imposta ai sensi dell'articolo 8, lettera c), dello stesso decreto risultante dalle relative fatture e bollette doganali. Gli stessi contribuenti devono inviare all'ufficio dell'imposta sul valore aggiunto entro il mese di luglio e in allegato alla dichiarazione annuale, un prospetto delle annotazioni eseguite rispettivamente nel primo e nel secondo semestre solare redatto in conformità al modello approvato con decreto del Ministro delle finanze. 
+ 3. I contribuenti che si avvalgono della facoltà di acquistare o importare beni e servizi senza pagamento dell'imposta ai sensi del primo comma devono annotare, in ciascun mese, nei registri di cui agli articoli 23, 24 o al secondo comma dell'articolo 39 del decreto ivi indicato ovvero nel registro di cui al precedente comma, l'ammontare di riferimento delle esportazioni utilizzabile 
+ ((all'inizio del secondo mese))
+
+ precedente e quello degli acquisti effettuati e delle importazioni 
+ ((fatte nel medesimo mese))
+
+ senza pagamento dell'imposta ai sensi dell'articolo 8, lettera c), dello stesso decreto risultante dalle relative fatture e bollette doganali. 
+ 
+
+ Gli stessi contribuenti devono inviare all'ufficio dell'imposta sul valore aggiunto 
+ ((entro il 5 settembre))
+
+ e in allegato alla dichiarazione annuale, un prospetto delle annotazioni eseguite rispettivamente nel primo e nel secondo semestre solare redatto in conformità al modello approvato con decreto del Ministro delle finanze. 
  
 
  
