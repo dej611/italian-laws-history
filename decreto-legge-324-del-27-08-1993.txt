@@ -54,7 +54,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Ove occorra provvedere alla nomina di amministratori straordinari delle unità sanitarie locali, non possono essere chiamati alla carica coloro che abbiano superato il sessantacinquesimo anno di età o che si trovino nelle condizioni di incompatibilità di cui al comma 7 o nelle condizioni previste dal comma 11 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35, convertito, con modificazioni, dalla legge 4 aprile 1991, n. 111. 
+ 2. Ove occorra provvedere alla nomina di amministratori straordinari delle unità sanitarie locali, non possono essere chiamati alla carica coloro che abbiano superato il sessantacinquesimo anno di età o che si trovino nelle condizioni di incompatibilità di cui al comma 7 o nelle condizioni previste dal comma 11 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35, convertito, con modificazioni, dalla legge 4 aprile 1991, n. 111.
+ ((La carica di amministratore straordinario è incompatibile con l'esercizio di qualunque altra attività lavorativa dipendente, ferme restando le incompatibilità previste dalla legislazione vigente))
+
+ . 
  
 
  
@@ -71,14 +74,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) al sindaco del comune, nelle unità sanitarie locali il cui ambito territoriale coincide con un territorio comunale o con una parte di esso; 
+ a) al sindaco del comune 
+ ((o ad un suo delegato))
+
+ , nelle unità sanitarie locali il cui ambito territoriale coincide con un territorio comunale o con una parte di esso; 
  
 
  
  
 
  
- b) alla conferenza dei sindaci, quando l'ambito territoriale della unità sanitaria locale comprende il territorio di più comuni. 
+ b) alla conferenza dei sindaci 
+ ((o loro delegati))
+
+ , quando l'ambito territoriale della unità sanitaria locale comprende il territorio di più comuni. 
  
 
  
@@ -89,23 +98,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. La conferenza di cui al comma 3, lettera b), è presieduta dal sindaco del comune con il maggior numero di abitanti e delibera a maggioranza. Ciascun sindaco rappresenta un numero di voti pari al numero dei consiglieri comunali assegnato al comune dallo stesso sindaco rappresentato. La conferenza delibera con le procedure stabilite da specifico regolamento regionale da emanarsi, ove non si fosse già provveduto alla data di entrata in vigore del presente decreto, entro il 25 ottobre 1993, su proposta della conferenza stessa. Fino alla data di entrata in vigore del predetto regolamento, si applicano, in quanto compatibili, le norme regolamentari del consiglio comunale del comune con il maggior numero di abitanti. 
- 
+ 4. La conferenza di cui al comma 3, lettera b), è presieduta dal sindaco del comune con il maggior numero di abitanti 
+ ((o da un suo delegato))
 
- 
- 
- 
-
- 
- 5. Il sindaco o la conferenza dei sindaci definiscono, nell'ambito della programmazione regionale, le linee di indirizzo per l'impostazione programmatica delle attività, esaminano il bilancio di previsione e il conto consuntivo delle unità sanitarie locali, svolgono le verifiche generali sull'andamento delle attività e formulano eventuali osservazioni utili alla predisposizione delle linee di indirizzo per le ulteriori programmazioni. Il sindaco o la conferenza dei sindaci verificano altresì la coerenza delle decisioni assunte dall'amministratore straordinario rispetto agli atti di indirizzo emanati e presentano semestralmente alla giunta regionale una relazione sull'attività dell'amministratore stesso. 
- 
-
- 
- 
- 
-
- 
- 6. La responsabilità degli amministratori e dei dipendenti delle unità sanitarie locali e delle regioni è personale. Essa si estende agli eredi nei casi di illecito arricchimento del dante causa. 
+ e delibera a maggioranza. Ciascun sindaco rappresenta un numero di voti pari al numero dei consiglieri comunali assegnato al comune dallo stesso sindaco rappresentato. La conferenza delibera con le procedure stabilite da specifico regolamento regionale da emanarsi, ove non si fosse già provveduto alla data di entrata in vigore del presente decreto, entro il 25 ottobre 1993, su proposta della conferenza stessa. Fino alla data di entrata in vigore del predetto regolamento, si applicano, in quanto compatibili, le norme regolamentari del consiglio comunale del comune con il maggior numero di abitanti. 
  
 
  
@@ -113,7 +109,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Il diritto al risarcimento del danno per i fatti commessi successivamente alla data di entrata in vigore del presente decreto si prescrive in cinque anni, decorrenti dalla data in cui si è verificato il danno. Qualora la prescrizione del diritto al risarcimento sia maturata a causa di omissione o ritardo della denuncia del fatto, rispondono del danno erariale i soggetti che hanno omesso o ritardato la denuncia. In tali casi l'azione è proponibile entro cinque anni dalla data in cui la prescrizione è maturata. 
+ 5. Il sindaco o la conferenza dei sindaci definiscono, nell'ambito della programmazione regionale, le linee di indirizzo per l'impostazione programmatica delle attività, esaminano 
+ ((ed approvano))
+
+ il bilancio di previsione e il conto consuntivo delle unità sanitarie locali, svolgono le verifiche generali sull'andamento delle attività e formulano eventuali osservazioni utili alla predisposizione delle linee di indirizzo per le ulteriori programmazioni. Il sindaco o la conferenza dei sindaci verificano altresì la coerenza delle decisioni assunte dall'amministratore straordinario rispetto agli atti di indirizzo emanati e presentano semestralmente alla giunta regionale una relazione sull'attività dell'amministratore stesso. 
  
 
  
@@ -121,10 +120,47 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. Le indennità spettanti agli amministratori straordinari sono fissate dalla regione in relazione al numero degli assistiti ed alla dimensione delle strutture ospedaliere esistenti nelle unità sanitarie locali. L'indennità annua, al lordo delle ritenute erariali, è determinata in misura non inferiore alla somma dello stipendio iniziale lordo, della indennità integrativa speciale, della tredicesima mensilità e dell'indennità di direzione dei direttori amministrativi capi-servizio delle unità sanitarie locali. 
+ 
+ ((
  
 
- L'indennità non può risultare superiore al doppio della predetta somma. All'amministratore straordinario non spetta alcun trattamento di missione per gli spostamenti dal luogo di residenza a quello di svolgimento delle proprie funzioni. Per i pubblici dipendenti la nomina ad amministratore straordinario determina il collocamento in aspettativa senza assegni; il periodo di aspettativa è utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio. Le amministrazioni di appartenenza provvedono ad effettuare il versamento dei relativi contributi comprensivi delle quote a carico del dipendente, nonchè dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unità sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato. è abrogato il comma 12 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35, convertito, con modificazioni, dalla legge 4 aprile 1991, n. 111. 
+ 
+ 6. La responsabilità degli amministratori e dei dipendenti delle unità sanitarie locali, delle regioni, delle province e dei comuni è personale. Essa si estende agli eredi nei casi di illecito arricchimento del dante causa, nei limiti in cui gli stessi eredi ne abbiano beneficiato patrimonialmente.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 7. Ai responsabili delle unità sanitarie locali, delle regioni e degli enti ospedalieri disciolti sono estese le disposizioni di cui all'articolo 58, comma 4, della legge 8 giugno 1990, n. 142, dalla data di entrata in vigore della predetta legge. Tali disposizioni si applicano nei confronti dei responsabili delle unità sanitarie locali, delle regioni, degli enti ospedalieri disciolti e dei soggetti di cui al medesimo articolo 58, comma 4, della citata legge n. 142 del 1990, anche ai fatti oggetto di procedimenti in corso davanti alle giurisdizioni contabile ed amministrativa.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 8. Le indennità spettanti agli amministratori straordinari sono fissate dalla regione in relazione al numero degli assistiti ed alla dimensione delle strutture ospedaliere esistenti nelle unità sanitarie locali. L'indennità annua, al lordo delle ritenute erariali, è determinata in misura non inferiore alla somma dello stipendio iniziale lordo, della indennità integrativa speciale, della tredicesima mensilità e dell'indennità di direzione dei direttori amministrativi capi-servizio delle unità sanitarie locali.
+ 
+
+ L'indennità non può risultare superiore 
+ ((al doppio della predetta somma, fatti salvi i provvedimenti adottati.))
+
+ ((All'amministratore straordinario non spetta alcun trattamento di missione. Per gli spostamenti dal luogo di residenza a quello di svolgimento delle proprie funzioni e per gli spostamenti connessi allo svolgimento delle proprie funzioni all'amministratore straordinario spetta il rimborso delle spese di viaggio nelle misure previste per i dipendenti dello Stato.))
+
+ (("Per i dipendenti pubblici e privati))
+
+ la nomina ad amministratore straordinario determina il collocamento in aspettativa senza assegni; il periodo di aspettativa è utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio. Le amministrazioni di appartenenza provvedono ad effettuare il versamento dei relativi contributi comprensivi delle quote a carico del dipendente, nonchè dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unità sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato. è abrogato il comma 12 dell'articolo 1 del decreto-legge 6 febbraio 1991, n. 35, convertito, con modificazioni, dalla legge 4 aprile 1991, n. 111. 
  
 
  
@@ -156,7 +192,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 12. L'articolo 1 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613, è abrogato. 
+ 12. 
+ ((COMMA SOPPRESSO DALLA L. 27 OTTOBRE 1993, N. 423))
+
+ . 
  
 
  
