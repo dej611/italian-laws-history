@@ -1,0 +1,8998 @@
+ALLEGATO 
+ 
+
+ TABELLE 
+ 
+
+ TABELLA N. 1 
+ 
+
+ STATO DI PREVISIONE DELL'ENTRATA 
+ 
+
+ 
+ 
+
+ _ _ _ 
+ 
+
+ _ STATO DI PREVISIONE _ VARIAZIONI _ 
+ 
+
+ _ DELL'ENTRATA _ _ 
+ 
+
+ _ _ _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ NU-_ _ ALLA _ ALLA _ 
+ 
+
+ _MERO_DENOMINAZIONE CAPITOLO _ PREVISIONE _ AUTORIZZAZIONE _ 
+ 
+
+ _CAP._ _ DI COMPETENZA _ DI CASSA _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TITOLO I - ENTRATE _ _ 
+ 
+
+ _ _TRIBUTARIE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA I - IMPOSTE _ _ 
+ 
+
+ _ _SUL PATRIMONIO E SUL _ _ 
+ 
+
+ _ _REDDITO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1023_IMPOSTA SUL REDDITO _ _ 
+ 
+
+ _ _DELLE PERSONE FISICHE _ 776.000.000.000 776.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1024_IMPOSTA SUL REDDITO _ _ 
+ 
+
+ _ _DELLE PERSONE _ _ 
+ 
+
+ _ _GIURIDICHE _ -4.573.000.000.000 -4.573.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1025_IMPOSTA LOCALE SUI _ _ 
+ 
+
+ _ _REDDITI _ -115.000.000.000 -115.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1026_RITENUTE SUGLI _ _ 
+ 
+
+ _ _INTERESSI E REDDITI _ _ 
+ 
+
+ _ _DI CAPITALE _ -1.600.000.000.000 -1.600.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1031_IMPOSTA SOSTITUTIVA _ _ 
+ 
+
+ _ _DELLE IMPOSTE SUL _ _ 
+ 
+
+ _ _REDDITO A CARICO DEI _ _ 
+ 
+
+ _ _FONDI DI INVESTIMENTO _ 60.000.000.000 60.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1040_IMPOSTA SUL _ _ 
+ 
+
+ _ _PATRIMONIO NETTO DI _ _ 
+ 
+
+ _ _SOCIETà, IMPRESE _ _ 
+ 
+
+ _ _INDIVIDUALI, ENTI E _ _ 
+ 
+
+ _ _STABILI _ _ 
+ 
+
+ _ _ORGANIZZAZIONI, ECC. _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1045_IMPOSTE SOSTITUTIVE _ _ 
+ 
+
+ _ _SU RISERVE E FONDI IN _ _ 
+ 
+
+ _ _SOSPENSIONE _ _ 
+ 
+
+ _ _D'IMPOSTA, SUI SALDI _ _ 
+ 
+
+ _ _ATTIVI E DI _ _ 
+ 
+
+ _ _RIVALUTAZIONE, ECC. _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1046_IMPOSTE SOSTITUTIVE _ _ 
+ 
+
+ _ _DELL'IMPOSTA SUL _ _ 
+ 
+
+ _ _REDDITO DELLE PERSONE _ _ 
+ 
+
+ _ _GIURIDICHE E _ _ 
+ 
+
+ _ _DELL'IMPOSTA LOCALE _ _ 
+ 
+
+ _ _SUI REDDITI _ _ 
+ 
+
+ _ _CORRELATE, ECC. _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1171_IMPOSTE DIRETTE _ _ 
+ 
+
+ _ _DERIVANTI DALLA _ _ 
+ 
+
+ _ _DEFINIZIONE DI _ _ 
+ 
+
+ _ _PENDENZE E _ _ 
+ 
+
+ _ _CONTROVERSIE _ _ 
+ 
+
+ _ _TRIBUTARIE _ 2.500.000.000.000 2.500.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 1 _ -2.652.000.000.000 -2.652.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA II - TASSE _ _ 
+ 
+
+ _ _ED IMPOSTE SUGLI _ _ 
+ 
+
+ _ _AFFARI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1203_IMPOSTA SUL VALORE _ _ 
+ 
+
+ _ _AGGIUNTO _ -3.640.000.000.000 -3.640.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1205_IMPOSTA DI BOLLO _ -49.000.000.000 -49.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1208_IMPOSTA SULLE _ _ 
+ 
+
+ _ _ASSICURAZIONI _ 600.000.000.000 600.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1216_CANONI DI ABBONAMENTO _ _ 
+ 
+
+ _ _ALLE RADIO AUDIZIONI _ _ 
+ 
+
+ _ _CIRCOLARI E ALLA _ _ 
+ 
+
+ _ _TELEVISIONE _ 50.000.000.000 50.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1217_TASSE SULLE _ _ 
+ 
+
+ _ _CONCESSIONI _ _ 
+ 
+
+ _ _GOVERNATIVE ESCLUSE _ _ 
+ 
+
+ _ _QUELLE PER LA LICENZA _ _ 
+ 
+
+ _ _DI PORTO D'ARMI ANCHE _ _ 
+ 
+
+ _ _PER USO DI CACCIA, _ _ 
+ 
+
+ _ _ECC. _ -250.000.000.000 -250.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1233_IMPOSTA _ _ 
+ 
+
+ _ _SULL'INCREMENTO DI _ _ 
+ 
+
+ _ _VALORE DEGLI IMMOBILI _ _ 
+ 
+
+ _ _DI PERTINENZA _ _ 
+ 
+
+ _ _DELL'ERARIO _ 200.000.000.000 200.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1236_IMPOSTA ERARIALE DA _ _ 
+ 
+
+ _ _RISCUOTERSI TRAMITE _ _ 
+ 
+
+ _ _A.C.I., PER _ _ 
+ 
+
+ _ _REGISTRAZIONE ATTI AL _ _ 
+ 
+
+ _ _PUBBLICO REGISTRO _ _ 
+ 
+
+ _ _AUTOMOBILISTICO _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1239_IMPOSTA SULLE _ _ 
+ 
+
+ _ _SUCCESSIONI E _ _ 
+ 
+
+ _ _DONAZIONI _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1400_ENTRATE EVENTUALI _ _ 
+ 
+
+ _ _DIVERSE CONCERNENTI _ _ 
+ 
+
+ _ _LE TASSE E LE IMPOSTE _ _ 
+ 
+
+ _ _INDIRETTE SUGLI _ _ 
+ 
+
+ _ _AFFARI _ 67.000.000.000 67.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 2 _ -2.822.000.000.000 -2.822.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA III - _ _ 
+ 
+
+ _ _IMPOSTE SULLA _ _ 
+ 
+
+ _ _PRODUZIONE, SUI _ _ 
+ 
+
+ _ _CONSUMI E DOGANE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1409_ACCISA E IMPOSTA _ _ 
+ 
+
+ _ _ERARIALE DI CONSUMO _ _ 
+ 
+
+ _ _SUGLI OLI MINERALI, _ _ 
+ 
+
+ _ _LORO DERIVATI E _ _ 
+ 
+
+ _ _PRODOTTI ANALOGHI _ -3.330.000.000.000 -3.330.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1410_ACCISA E IMPOSTA _ _ 
+ 
+
+ _ _ERARIALE DI CONSUMO _ _ 
+ 
+
+ _ _SUI GAS _ _ 
+ 
+
+ _ _INCONDENSABILI DELLE _ _ 
+ 
+
+ _ _RAFFINERIE E DELLE _ _ 
+ 
+
+ _ _FABBRICHE CHE _ _ 
+ 
+
+ _ _COMUNQUE, ECC. _ 131.000.000.000 131.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1421_IMPOSTA DI CONSUMO _ _ 
+ 
+
+ _ _SUL GAS METANO _ 450.000.000.000 450.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1431_IMPOSTA DI CONSUMO _ _ 
+ 
+
+ _ _SUGLI OLI _ _ 
+ 
+
+ _ _LUBRIFICANTI E SUI _ _ 
+ 
+
+ _ _BITUMI DI PETROLIO _ 386.000.000.000 386.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1460_SOVRIMPOSTA DI _ _ 
+ 
+
+ _ _CONFINE SUGLI OLI _ _ 
+ 
+
+ _ _MINERALI, LORO _ _ 
+ 
+
+ _ _DERIVATI E PRODOTTI _ _ 
+ 
+
+ _ _ANALOGHI _ 50.000.000.000 50.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1461_SOVRIMPOSTA DI _ _ 
+ 
+
+ _ _CONFINE SUI GAS _ _ 
+ 
+
+ _ _INCONDENSABILI DI _ _ 
+ 
+
+ _ _PRODOTTI PETROLIFERI _ _ 
+ 
+
+ _ _E SUI GAS STESSI RESI _ _ 
+ 
+
+ _ _LIQUIDI CON _ _ 
+ 
+
+ _ _COMPRESSIONE _ 150.000.000.000 150.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1600_ENTRATE EVENTUALI _ _ 
+ 
+
+ _ _DIVERSE CONCERNENTI _ _ 
+ 
+
+ _ _LE IMPOSTE SUI _ _ 
+ 
+
+ _ _CONSUMI E LE DOGANE. _ 33.000.000.000 33.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 3 _ -2.130.000.000.000 -2.130.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA IV - _ _ 
+ 
+
+ _ _MONOPOLI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1601_IMPOSTA SUL CONSUMO _ _ 
+ 
+
+ _ _DEI TABACCHI _ -95.000.000.000 -95.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1604_PROVENTI DELL'IMPOSTA _ _ 
+ 
+
+ _ _DI FABBRICAZIONE E _ _ 
+ 
+
+ _ _DELLA SOVRIMPOSTA DI _ _ 
+ 
+
+ _ _CONFINE SUGLI _ _ 
+ 
+
+ _ _APPARECCHI DI _ _ 
+ 
+
+ _ _ACCENSIONE, ECC. _ -10.000.000.000 -10.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 4 _ -105.000.000.000 -105.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA V - LOTTO, _ _ 
+ 
+
+ _ _LOTTERIE ED ALTRE _ _ 
+ 
+
+ _ _ATTIVITà DI GIUOCO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1801_PROVENTO DEL LOTTO _-1.240.000.000.0000 -1.240.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1810_PROVENTI DERIVANTI _ _ 
+ 
+
+ _ _DALLE LOTTERIE _ _ 
+ 
+
+ _ _NAZIONALI AD _ _ 
+ 
+
+ _ _ESTRAZIONE ISTANTANEA _ 240.000.000.000 240.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 5 _ -1.000.000.000.000 -1.000.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLE _ _ 
+ 
+
+ _ _ ENTRATE TRIBUTARIE _ -8.709.000.000.000 -8.709.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TITOLO II - ENTRATE _ _ 
+ 
+
+ _ _EXTRA-TRIBUTARIE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA VI - _ _ 
+ 
+
+ _ _PROVENTI SPECIALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2054_ENTRATE DERIVANTI DA _ _ 
+ 
+
+ _ _TRIBUTI SPECIALI _ _ 
+ 
+
+ _ _RISCOSSI PER SERVIZI _ _ 
+ 
+
+ _ _RESI DAL MINISTERO _ _ 
+ 
+
+ _ _DELLE FINANZE, ECC. _ -150.000.000.000 -150.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2065_TASSE E DIRITTI _ _ 
+ 
+
+ _ _MARITTIMI _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 6 _ -50.000.000.000 -50.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA VII - _ _ 
+ 
+
+ _ _PROVENTI DI SERVIZI _ _ 
+ 
+
+ _ _PUBBLICI MINORI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2318_PROVENTI DERIVANTI _ _ 
+ 
+
+ _ _DALLE INDENNITà _ _ 
+ 
+
+ _ _DOVUTE AL PERSONALE _ _ 
+ 
+
+ _ _DEI LABORATORI _ _ 
+ 
+
+ _ _CHIMICI DELLE DOGANE _ _ 
+ 
+
+ _ _E DELLE IMPOSTE, ECC. _ 60.000.000 60.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2320_SOMME VERSATE DA ENTI _ _ 
+ 
+
+ _ _E DA PRIVATI PER _ _ 
+ 
+
+ _ _SERVIZI STRAORDINARI _ _ 
+ 
+
+ _ _RESI DAL PERSONALE _ _ 
+ 
+
+ _ _DOGANALE, ECC. _ -16.000.000.000 -16.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2321_(MODIFICATA LA _ _ 
+ 
+
+ _ _DENOMINAZIONE) _ _ 
+ 
+
+ _ _SOMME VERSATE IN _ _ 
+ 
+
+ _ _RELAZIONE AI SERVIZI _ _ 
+ 
+
+ _ _SVOLTI DAI MILITARI _ _ 
+ 
+
+ _ _DELLA GUARDIA DI _ _ 
+ 
+
+ _ _FINANZA E DA _ _ 
+ 
+
+ _ _DESTINARE, IN MISURA _ _ 
+ 
+
+ _ _PARI ALLA DIFFERENZA _ _ 
+ 
+
+ _ _FRA LE CENNATE SOMME _ _ 
+ 
+
+ _ _E LE SPESE RELATIVE _ _ 
+ 
+
+ _ _ALLA CORRESPONSIONE A _ _ 
+ 
+
+ _ _DETTO PERSONALE DEL _ _ 
+ 
+
+ _ _TRATTAMENTO DI _ _ 
+ 
+
+ _ _MISSIONE PER I _ _ 
+ 
+
+ _ _SERVIZI SVOLTI FUORI _ _ 
+ 
+
+ _ _DELL'UFFICIO DOGANALE _ _ 
+ 
+
+ _ _SULLA BASE DI _ _ 
+ 
+
+ _ _PERCENTUALI _ _ 
+ 
+
+ _ _DETERMINATE, AL FONDO _ _ 
+ 
+
+ _ _DI PREVIDENZA PER _ _ 
+ 
+
+ _ _SOTTUFFICIALI E _ _ 
+ 
+
+ _ _MILITARI DI TRUPPA _ _ 
+ 
+
+ _ _DELLA GUARDIA DI _ _ 
+ 
+
+ _ _FINANZA, ALLA CASSA _ _ 
+ 
+
+ _ _UFFICIALI DELLA _ _ 
+ 
+
+ _ _GUARDIA DI FINANZA, _ _ 
+ 
+
+ _ _AL FONDO ASSISTENZA _ _ 
+ 
+
+ _ _PER I FINANZIERI, AD _ _ 
+ 
+
+ _ _INTERVENTI DI _ _ 
+ 
+
+ _ _ASSISTENZA MORALE E _ _ 
+ 
+
+ _ _BENESSERE DEL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _ED IN CONGEDO DELLA _ _ 
+ 
+
+ _ _GUARDIA DI FINANZA ED _ _ 
+ 
+
+ _ _ALLA CORRESPONSIONE _ _ 
+ 
+
+ _ _DI PREMI AI MILITARI _ _ 
+ 
+
+ _ _DISTINTISI IN _ _ 
+ 
+
+ _ _OPERAZIONI DI _ _ 
+ 
+
+ _ _SERVIZIO _ _ 
+ 
+
+ _ _ _ -4.000.000.000 -4.000.000.000_ 
+ 
+
+ _2322_SOMME VERSATE DAI _ _ 
+ 
+
+ _ _PRIVATI PER I SERVIZI _ _ 
+ 
+
+ _ _SVOLTI DAL PERSONALE _ _ 
+ 
+
+ _ _DELLE IMPOSTE DI _ _ 
+ 
+
+ _ _FABBRICAZIONE E DA _ _ 
+ 
+
+ _ _DESTINARE, ECC. _ -5.000.000.000 -5.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2323_SOMME VERSATE PER _ _ 
+ 
+
+ _ _SERVIZI RELATIVI _ _ 
+ 
+
+ _ _IMPOSTE FABBRICAZIONE _ _ 
+ 
+
+ _ _SVOLTI DAI MILITARI _ _ 
+ 
+
+ _ _DELLA GUARDIA DI _ _ 
+ 
+
+ _ _FINANZA, ECC. _ -2.000.000.000 -2.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2368_ENTRATE EVENTUALI E _ _ 
+ 
+
+ _ _DIVERSE DEL MINISTERO _ _ 
+ 
+
+ _ _DEL TESORO _ 510.000.000.000 510.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 18 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _POSTE E DELLE _ _ 
+ 
+
+ _ _TELECOMUNICAZIONI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2569_ENTRATE CONSEGUENTI _ _ 
+ 
+
+ _ _DALLA TRASFORMAZIONE _ _ 
+ 
+
+ _ _DELLE POSTE IN ENTE _ _ 
+ 
+
+ _ _PUBBLICO ECONOMICO, _ _ 
+ 
+
+ _ _ECC. _ 106.940.000.000 106.940.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 7 _ 590.000.000.000 590.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA IX - _ _ 
+ 
+
+ _ _PRODOTTI NETTI DI _ _ 
+ 
+
+ _ _AZIENDE AUTONOME ED _ _ 
+ 
+
+ _ _UTILI DI GESTIONI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2970_DIVIDENDI DOVUTI _ _ 
+ 
+
+ _ _DALLE SOCIETà PER _ _ 
+ 
+
+ _ _AZIONI DERIVATE DALLA _ _ 
+ 
+
+ _ _TRASFORMAZIONE DEGLI _ _ 
+ 
+
+ _ _ENTI PUBBLICI, ECC. _ 1.700.000.000.000 1.700.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 9 _ 1.700.000.000.000 1.700.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA X - _ _ 
+ 
+
+ _ _INTERESSI SU _ _ 
+ 
+
+ _ _ANTICIPAZIONI E _ _ 
+ 
+
+ _ _CREDITI VARI DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3240_SOMME DOVUTE DALLA _ _ 
+ 
+
+ _ _BANCA D'ITALIA A _ _ 
+ 
+
+ _ _TITOLO DI ECCEDENZA _ _ 
+ 
+
+ _ _DEL RENDIMENTO DI _ _ 
+ 
+
+ _ _TUTTE LE ATTIVITà _ _ 
+ 
+
+ _ _NEI CONFRONTI, ECC. _ 1.000.000.000.000 1.000.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 10 _ 1.000.000.000.000 1.000.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA XI - _ _ 
+ 
+
+ _ _RICUPERI, RIMBORSI E _ _ 
+ 
+
+ _ _CONTRIBUTI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLE _ _ 
+ 
+
+ _ _FINANZE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3307_SOMME DOVUTE A TITOLO _ _ 
+ 
+
+ _ _DI OBLAZIONE PER LA _ _ 
+ 
+
+ _ _CONCESSIONE O _ _ 
+ 
+
+ _ _AUTORIZZAZIONE IN _ _ 
+ 
+
+ _ _SANATORIA DELLE OPERE _ _ 
+ 
+
+ _ _EDILIZIE ABUSIVE _ 480.000.000.000 480.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3392_PROVENTI RELATIVI AI _ _ 
+ 
+
+ _ _CANONI DI CONCESSIONE _ _ 
+ 
+
+ _ _DEI SERVIZI DI _ _ 
+ 
+
+ _ _TELECOMUNICAZIONE AD _ _ 
+ 
+
+ _ _USO PUBBLICO ED OGNI _ _ 
+ 
+
+ _ _ALTRA ENTRATA, ECC. _ 100.000.000.000 100.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3432_(MODIFICATA LA _ _ 
+ 
+
+ _ _DENOMINAZIONE) _ _ 
+ 
+
+ _ _RIMBORSO DA PARTE _ _ 
+ 
+
+ _ _DELL'UNIONE EUROPEA _ _ 
+ 
+
+ _ _DELLE EVENTUALI _ _ 
+ 
+
+ _ _MAGGIORI _ _ 
+ 
+
+ _ _CONTRIBUZIONI A _ _ 
+ 
+
+ _ _TITOLO DELLE RISORSE _ _ 
+ 
+
+ _ _BASATE SULL'IMPOSTA _ _ 
+ 
+
+ _ _SUL VALORE AGGIUNTO _ _ 
+ 
+
+ _ _(IVA) E SUL PRODOTTO _ _ 
+ 
+
+ _ _NAZIONALE LORDO (PNL) _ -- -- _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3467_RITENUTA SUGLI _ _ 
+ 
+
+ _ _STIPENDI, SULLE PAGHE _ _ 
+ 
+
+ _ _E RETRIBUZIONI _ 500.000.000.000 500.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 5 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DELLA _ _ 
+ 
+
+ _ _PUBBLICA ISTRUZIONE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3550_ENTRATE EVENTUALI E _ _ 
+ 
+
+ _ _DIVERSE CONCERNENTI _ _ 
+ 
+
+ _ _IL MINISTERO DELLA _ _ 
+ 
+
+ _ _PUBBLICA ISTRUZIONE _ 200.000.000.000 200.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 6 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE _ _ 
+ 
+
+ _ _DELL'INTERNO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3560_ENTRATE EVENTUALI E _ _ 
+ 
+
+ _ _DIVERSE CONCERNENTI _ _ 
+ 
+
+ _ _IL MINISTERO _ _ 
+ 
+
+ _ _DELL'INTERNO _ 200.000.000.000 200.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 11 _ 1.480.000.000.000 1.480.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _CATEGORIA XII - _ _ 
+ 
+
+ _ _PARTITE CHE SI _ _ 
+ 
+
+ _ _COMPENSANO NELLA _ _ 
+ 
+
+ _ _SPESA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3759_(MODIFICATA LA _ _ 
+ 
+
+ _ _DENOMINAZIONE) _ _ 
+ 
+
+ _ _VERSAMENTI A CARICO _ _ 
+ 
+
+ _ _DELLE DISPONIBILITà _ _ 
+ 
+
+ _ _DI TESORERIA RELATIVE _ _ 
+ 
+
+ _ _ALLE COMPETENZE GIà _ _ 
+ 
+
+ _ _ATTRIBUITE AI SOP- _ _ 
+ 
+
+ _ _PRESSI DIPARTIMENTO _ _ 
+ 
+
+ _ _PER GLI INTERVENTI _ _ 
+ 
+
+ _ _STRAORDINARI NEL _ _ 
+ 
+
+ _ _MEZZOGIORNO E AGENZIA _ _ 
+ 
+
+ _ _PER LA PROMOZIONE _ _ 
+ 
+
+ _ _DELLO SVILUPPO DEL _ _ 
+ 
+
+ _ _MEZZOGIORNO, NONCHè _ _ 
+ 
+
+ _ _EVENTUALI ECONOMIE DI _ _ 
+ 
+
+ _ _SPESA DERIVANTI DAL _ _ 
+ 
+
+ _ _TRASFERIMENTO AL _ _ 
+ 
+
+ _ _DIPARTIMENTO DELLA _ _ 
+ 
+
+ _ _FUNZIONE PUBBLICA _ _ 
+ 
+
+ _ _DELLE FUNZIONI _ _ 
+ 
+
+ _ _RELATIVE AI SOLI _ _ 
+ 
+
+ _ _PROGETTI AFFIDATI _ _ 
+ 
+
+ _ _DALLA SOPPRESSA _ _ 
+ 
+
+ _ _AGENZIA PER LA _ _ 
+ 
+
+ _ _PROMOZIONE E LO _ _ 
+ 
+
+ _ _SVILUPPO DEL _ _ 
+ 
+
+ _ _MEZZOGIORNO ALLA _ _ 
+ 
+
+ _ _GESTIONE DIRETTA DEL _ _ 
+ 
+
+ _ _CENTRO DI FORMAZIONE _ _ 
+ 
+
+ _ _E STUDI - FORMEZ E _ _ 
+ 
+
+ _ _VERSAMENTI RELATIVI A _ _ 
+ 
+
+ _ _SOMME ISCRITTE IN _ _ 
+ 
+
+ _ _CONTO COMPETENZA E IN _ _ 
+ 
+
+ _ _CONTO RESIDUI SUI _ _ 
+ 
+
+ _ _PERTINENTI CAPITOLI, _ _ 
+ 
+
+ _ _NON UTILIZZATE ALLA _ _ 
+ 
+
+ _ _CHIUSURA DELL'ESERCI- _ _ 
+ 
+
+ _ _ZIO FINANZIARIO, DA _ _ 
+ 
+
+ _ _RIASSEGNARE AD _ _ 
+ 
+
+ _ _APPOSITO FONDO _ _ 
+ 
+
+ _ _ISTITUITO NELLO STATO _ _ 
+ 
+
+ _ _DI PREVISIONE DEL _ _ 
+ 
+
+ _ _MINISTERO DEL TESORO _ _ 
+ 
+
+ _ _OVVERO DIRETTAMENTE _ _ 
+ 
+
+ _ _NEI PERTINENTI _ _ 
+ 
+
+ _ _CAPITOLI DI BILANCIO _ _ 
+ 
+
+ _ _DELLE AMMINISTRAZIONI _ _ 
+ 
+
+ _ _INTERESSATE _ -- -- _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 15 - _ _ 
+ 
+
+ _ _COMUNITà EUROPEE - _ _ 
+ 
+
+ _ _RISORSE PROPRIE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3985_RISORSE PROPRIE _ _ 
+ 
+
+ _ _PROVENIENTI _ _ 
+ 
+
+ _ _DALL'IMPOSTA SUL _ _ 
+ 
+
+ _ _VALORE AGGIUNTO _ 500.000.000.000 500.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLA _ _ 
+ 
+
+ _ _ CATEGORIA 12 _ 500.000.000.000 500.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLE _ _ 
+ 
+
+ _ _ ENTRATE _ _ 
+ 
+
+ _ _ EXTRA-TRIBUTARIE _ 5.220.000.000.000 5.220.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TITOLO IV - _ _ 
+ 
+
+ _ _ACCENSIONE DI _ _ 
+ 
+
+ _ _PRESTITI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _AMMINISTRAZIONE DEL _ _ 
+ 
+
+ _ _TESORO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5100_RICAVO NETTO DELLE _ _ 
+ 
+
+ _ _EMISSIONI DI TITOLI _ _ 
+ 
+
+ _ _DEL DEBITO PUBBLICO E _ _ 
+ 
+
+ _ _DEI PRESTITI INTERNI _ _ 
+ 
+
+ _ _ED INTERNAZIONALI _ -2.963.203.795.000 44.394.532.117.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE ACCENSIONE _ _ 
+ 
+
+ _ _ PRESTITI _ -2.963.203.795.000 44.394.532.117.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ TOTALE DELLE _ _ 
+ 
+
+ _ _ VARIAZIONI _ -6.452.203.795.000 40.905.532.117.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ STATO DI PREVISIONE 
+ 
+
+ PRESIDENZA DEL CONSIGLIO DEI MINISTRI 
+ 
+
+ 
+ 
+
+ _ _ _ 
+ 
+
+ _ PRESIDENZA DEL CONSIGLIO _ VARIAZIONI _ 
+ 
+
+ _ DEI MINISTRI _ _ 
+ 
+
+ _ _ _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ NU-_ _ ALLA _ ALLA _ 
+ 
+
+ _MERO_DENOMINAZIONE CAPITOLO _ PREVISIONE _ AUTORIZZAZIONE _ 
+ 
+
+ _CAP._ _ DI COMPETENZA _ DI CASSA _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TITOLO I - SPESE _ _ 
+ 
+
+ _ _CORRENTI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - SERVIZI _ _ 
+ 
+
+ _ _GENERALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1004_SPESE PER I VIAGGI _ _ 
+ 
+
+ _ _DEL PRESIDENTE DEL _ _ 
+ 
+
+ _ _CONSIGLIO DEI MINI- _ _ 
+ 
+
+ _ _STRI, DEI SOTTOSEGRE- _ _ 
+ 
+
+ _ _TARI DI STATO ALLA _ _ 
+ 
+
+ _ _PRESIDENZA, ECC. _ -- 28.122.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1005_ASSEGNI AGLI ADDETTI _ _ 
+ 
+
+ _ _AI GABINETTI ED ALLE _ _ 
+ 
+
+ _ _SEGRETERIE _ _ 
+ 
+
+ _ _PARTICOLARI _ -- 119.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1006_ONERI PREVIDENZIALI _ _ 
+ 
+
+ _ _ED ASSISTENZIALI PER _ _ 
+ 
+
+ _ _IL PERSONALE ISCRITTO _ _ 
+ 
+
+ _ _A REGIMI DI _ _ 
+ 
+
+ _ _PREVIDENZA O DI _ _ 
+ 
+
+ _ _ASSISTENZA, ECC. _ -- 31.492.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1008_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 2.715.340.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1009_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 10.476.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1010_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 12.932.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1011_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 22.565.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1012_TRATTAMENTO ECONOMICO _ _ 
+ 
+
+ _ _DA CORRISPONDERE AL _ _ 
+ 
+
+ _ _SEGRETARIO GENERALE _ _ 
+ 
+
+ _ _DELLA PRESIDENZA DEL _ _ 
+ 
+
+ _ _CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- 6.639.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1013_STIPENDI, _ _ 
+ 
+
+ _ _RETRIBUZIONI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNI FISSI AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 1.163.289.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1016_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 84.765.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1017_INDENNITà DI RISCHIO _ _ 
+ 
+
+ _ _E INDENNITà DI _ _ 
+ 
+
+ _ _MANSIONE AI _ _ 
+ 
+
+ _ _CENTRALINISTI NON _ _ 
+ 
+
+ _ _VEDENTI _ -- 8.724.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1018_COMPENSI INCENTIVANTI _ _ 
+ 
+
+ _ _LA PRODUTTIVITà E _ _ 
+ 
+
+ _ _ASSEGNO TEMPORALE _ _ 
+ 
+
+ _ _MENSILE _ -- 12.276.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1019_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- 3.279.593.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1021_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER TRASFERIMENTI _ -- -500.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1027_RIMBORSO ALLE _ _ 
+ 
+
+ _ _AMMINISTRAZIONI _ _ 
+ 
+
+ _ _AUTONOME DELLO STATO, _ _ 
+ 
+
+ _ _ALLE AMMINISTRAZIONI _ _ 
+ 
+
+ _ _REGIONALI, _ _ 
+ 
+
+ _ _PROVINCIALI E _ _ 
+ 
+
+ _ _COMUNALI, ECC. _ -- 11.757.723.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1028_FONDO PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO _ _ 
+ 
+
+ _ _DELL'EFFICIENZA DEI _ _ 
+ 
+
+ _ _SERVIZI NONCHè FONDO _ _ 
+ 
+
+ _ _PER LA PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA _ -- 2.139.104.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1029_COMPENSI PER _ _ 
+ 
+
+ _ _LAVORO STRAORDINARIO _ _ 
+ 
+
+ _ _AL PERSONALE ADDETTO _ _ 
+ 
+
+ _ _AL CENTRO _ _ 
+ 
+
+ _ _ELABORAZIONE DATI _ _ 
+ 
+
+ _ _DELLA SOPPRESSA _ _ 
+ 
+
+ _ _AGENSUD _ -- 48.641.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1034_FONDO PER LA QUALITà _ _ 
+ 
+
+ _ _DELLA PRESTAZIONE _ _ 
+ 
+
+ _ _INDIVIDUALE _ -- -181.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1035_FONDO PER LA _ _ 
+ 
+
+ _ _PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA E PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO DEI _ _ 
+ 
+
+ _ _SERVIZI _ -- -333.818.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1074_INDENNITà PER UNA _ _ 
+ 
+
+ _ _SOLA VOLTA IN LUOGO _ _ 
+ 
+
+ _ _DI PENSIONE, _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _LICENZIAMENTO, ECC. _ -- 48.055.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1118_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- 4.446.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1130_SPESE PER _ _ 
+ 
+
+ _ _ACCERTAMENTI SANITARI _ -- 639.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1131_SPESE PER CURE, _ _ 
+ 
+
+ _ _RICOVERI E PROTESI _ -- 98.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1132_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -- 675.684.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1134_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 33.575.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1135_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- -467.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1136_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE _ -- -28.034.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1137_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ -30.880.000 -50.880.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1138_FUNZIONAMENTO E _ _ 
+ 
+
+ _ _MANUTENZIONE DELLA _ _ 
+ 
+
+ _ _BIBLIOTECA - ACQUISTO _ _ 
+ 
+
+ _ _DI LIBRI, RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- -21.265.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1140_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 1.883.152.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1141_SPESE PER CONSULENZE _ _ 
+ 
+
+ _ _TECNICHE, RICERCHE E _ _ 
+ 
+
+ _ _SPERIMENTAZIONI UTILI _ _ 
+ 
+
+ _ _ALLO SVILUPPO DELLE _ _ 
+ 
+
+ _ _PROCEDURE _ _ 
+ 
+
+ _ _AMMINISTRATIVE, ECC. _ -1.300.000.000 950.840.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1142_SOMMA DA EROGARSI A _ _ 
+ 
+
+ _ _CURA DEL COMMISSARIO _ _ 
+ 
+
+ _ _DEL GOVERNO NELLA _ _ 
+ 
+
+ _ _REGIONE FRIULI- _ _ 
+ 
+
+ _ _VENEZIA GIULIA, ECC. _ -- 15.311.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1143_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _COMMISSIONE _ _ 
+ 
+
+ _ _CONSULTIVA, ECC. _ -- 7.413.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1144_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE E LA _ _ 
+ 
+
+ _ _PARTECIPAZIONE AD _ _ 
+ 
+
+ _ _INCONTRI DI STUDIO, _ _ 
+ 
+
+ _ _CONVEGNI, CONGRESSI, _ _ 
+ 
+
+ _ _MOSTRE, ECC. _ -- 76.714.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1145_SPESE PER L'ACQUISTO, _ _ 
+ 
+
+ _ _L'INSTALLAZIONE, _ _ 
+ 
+
+ _ _ESERCIZIO E _ _ 
+ 
+
+ _ _MANUTENZIONE DI _ _ 
+ 
+
+ _ _MACCHINE CIFRANTI E _ _ 
+ 
+
+ _ _APPARATI, ECC. _ -- 581.112.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1149_COMPENSI AGLI _ _ 
+ 
+
+ _ _ESPERTI, AI _ _ 
+ 
+
+ _ _CONSIGLIERI A TEMPO _ _ 
+ 
+
+ _ _PARZIALE ED AL _ _ 
+ 
+
+ _ _PERSONALE INCARICATO _ -- 386.817.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1150_COMPENSI A CONSULENTI _ _ 
+ 
+
+ _ _A TEMPO DETERMINATO _ _ 
+ 
+
+ _ _PER INCARICHI DI _ _ 
+ 
+
+ _ _RICERCA O DI STUDIO _ _ 
+ 
+
+ _ _SU SPECIFICHE _ _ 
+ 
+
+ _ _QUESTIONI, ECC. _ -- 121.586.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1155_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO DELLE _ _ 
+ 
+
+ _ _PENSIONI PRIVILEGIATE _ _ 
+ 
+
+ _ _ORDINARIE, COMPRESA _ _ 
+ 
+
+ _ _L'INDENNITà MENSILE, _ _ 
+ 
+
+ _ _ECC. _ -- 143.280.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1157_SPESE DI UFFICIO E _ _ 
+ 
+
+ _ _PER L'ACQUISTO DI _ _ 
+ 
+
+ _ _PICCOLE MACCHINE E _ _ 
+ 
+
+ _ _ATTREZZATURE _ _ 
+ 
+
+ _ _SPECIALI, SPESE PER _ _ 
+ 
+
+ _ _L'ARREDO, ECC. _ -- 30.062.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1158_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _DI PREPARAZIONE, _ _ 
+ 
+
+ _ _FORMAZIONE, _ _ 
+ 
+
+ _ _AGGIORNAMENTO E _ _ 
+ 
+
+ _ _PERFEZIONAMENTO DEL _ _ 
+ 
+
+ _ _PERSONALE, ECC. _ -- -36.108.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1159_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _COMMISSIONE NAZIONALE _ _ 
+ 
+
+ _ _PER LA PARITà E LE _ _ 
+ 
+
+ _ _PARI OPPORTUNITà TRA _ _ 
+ 
+
+ _ _UOMO E DONNA, ECC. _ -- 349.325.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1161_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _COMMISSIONE DI _ _ 
+ 
+
+ _ _GARANZIA DELLA _ _ 
+ 
+
+ _ _ATTUAZIONE DELLA _ _ 
+ 
+
+ _ _LEGGE 12 GIUGNO 1990, _ _ 
+ 
+
+ _ _N. 146 _ -- 186.227.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1165_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _COMMISSIONE PER LA _ _ 
+ 
+
+ _ _GARANZIA _ _ 
+ 
+
+ _ _DELL'INFORMAZIONE _ _ 
+ 
+
+ _ _STATISTICA, ECC. _ -- 357.050.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1166_SPESE DI _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'AUTORITà PER _ _ 
+ 
+
+ _ _L'INFORMATICA NELLA _ _ 
+ 
+
+ _ _PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE _ 611.550.000 4.382.708.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1167_SPESE PER LA _ _ 
+ 
+
+ _ _REALIZZAZIONE DEI _ _ 
+ 
+
+ _ _PROGETTI INNOVATIVI _ _ 
+ 
+
+ _ _GESTITI _ _ 
+ 
+
+ _ _DALL'AUTORITà PER _ _ 
+ 
+
+ _ _L'INFORMATICA, ECC. _ -- 119.976.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1168_SPESE PER LA _ _ 
+ 
+
+ _ _CELEBRAZIONE _ _ 
+ 
+
+ _ _NAZIONALE DEL _ _ 
+ 
+
+ _ _CINQUANTENNALE DELLA _ _ 
+ 
+
+ _ _RESISTENZA E DELLA _ _ 
+ 
+
+ _ _GUERRA DI LIBERAZIONE _ -- 20.277.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1170_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO NAZIONALE _ _ 
+ 
+
+ _ _PER LA BIOETICA, _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI, _ _ 
+ 
+
+ _ _ECC. _ -- -58.164.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1172_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DEL _ _ 
+ 
+
+ _ _PROGRAMMA DEGLI _ _ 
+ 
+
+ _ _INTERVENTI CONNESSI _ _ 
+ 
+
+ _ _ALLO SVOLGIMENTO DEI _ _ 
+ 
+
+ _ _CAMPIONATI MONDIALI, _ _ 
+ 
+
+ _ _ECC. _ -- 10.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1173_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO NAZIONALE _ _ 
+ 
+
+ _ _PER LA CELEBRAZIONE _ _ 
+ 
+
+ _ _DEL 50 ANNIVERSARIO _ _ 
+ 
+
+ _ _DELL'ONU _ -- 1.826.637.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1174_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLE _ _ 
+ 
+
+ _ _AUTORITà DI _ _ 
+ 
+
+ _ _REGOLAZIONE DEI _ _ 
+ 
+
+ _ _SERVIZI DI PUBBLICA _ _ 
+ 
+
+ _ _UTILITà _ 2.000.000.000 2.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1175_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _SPESE PER LA _ _ 
+ 
+
+ _ _REALIZZAZIONE DI _ _ 
+ 
+
+ _ _LAVORI SOCIALMENTE _ _ 
+ 
+
+ _ _UTILI AI SENSI DELLA _ _ 
+ 
+
+ _ _LEGISLAZIONE VIGENTE _ _ 
+ 
+
+ _ _IN MATERIA NONCHè _ _ 
+ 
+
+ _ _DELL'ART. 3 COMMA 9 _ _ 
+ 
+
+ _ _DELLA LEGGE 21 _ _ 
+ 
+
+ _ _OTTOBRE 1994, N. 584 _ 457.000.000 457.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1182_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 14.350.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1184_ASSEGNO ALL'ISTITUTO _ _ 
+ 
+
+ _ _NAZIONALE DI _ _ 
+ 
+
+ _ _STATISTICA _ -- 8.245.650.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1186_FONDO PER GLI _ _ 
+ 
+
+ _ _INTERVENTI A FAVORE _ _ 
+ 
+
+ _ _DI CITTADINI ILLUSTRI _ _ 
+ 
+
+ _ _CHE VERSINO IN STATO _ _ 
+ 
+
+ _ _DI PARTICOLARE _ _ 
+ 
+
+ _ _NECESSITà _ -- 8.725.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1199_ASSEGNAZIONE _ _ 
+ 
+
+ _ _ALL'ASSOCIAZIONE _ _ 
+ 
+
+ _ _NAZIONALE DEI _ _ 
+ 
+
+ _ _COMBATTENTI E REDUCI _ -- 6.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1213_EQUO INDENNIZZO AL _ _ 
+ 
+
+ _ _PERSONALE CIVILE PER _ _ 
+ 
+
+ _ _LA PERDITA _ _ 
+ 
+
+ _ _DELL'INTEGRITà _ _ 
+ 
+
+ _ _FISICA SUBITA PER _ _ 
+ 
+
+ _ _INFERMITà, ECC. _ -- 69.615.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1214_SOMMA DA EROGARSI A _ _ 
+ 
+
+ _ _CURA DEL COMMISSARIO _ _ 
+ 
+
+ _ _DEL GOVERNO NELLA _ _ 
+ 
+
+ _ _REGIONE FRIULI- _ _ 
+ 
+
+ _ _VENEZIA GIULIA PER _ _ 
+ 
+
+ _ _INTERVENTI, ECC. _ -- -3.598.551.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1215_SOMMA DA EROGARSI A _ _ 
+ 
+
+ _ _CURA DEL COMMISSARIO _ _ 
+ 
+
+ _ _DEL GOVERNO NELLA _ _ 
+ 
+
+ _ _REGIONE FRIULI- _ _ 
+ 
+
+ _ _VENEZIA GIULIA PER _ _ 
+ 
+
+ _ _INTERVENTI, ECC. _ -- 1.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1222_CONTRIBUTI ALLE _ _ 
+ 
+
+ _ _REGIONI PER LA _ _ 
+ 
+
+ _ _PREDISPOSIZIONE DI _ _ 
+ 
+
+ _ _PROGRAMMI PER LA _ _ 
+ 
+
+ _ _REALIZZAZIONE DI _ _ 
+ 
+
+ _ _CENTRI DI PRIMA _ _ 
+ 
+
+ _ _ACCOGLIENZA, ECC. _ 110.000.000 1.351.831.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1230_CONTRIBUTI AD ENTI _ _ 
+ 
+
+ _ _TEATRALI E AD ENTI VARI_ _ 
+ 
+
+ _ _PER ASSEGNAZIONE DI _ _ 
+ 
+
+ _ _QUOTA PARTE DELL'OTTO _ _ 
+ 
+
+ _ _PER MILLE IRPEF DI _ _ 
+ 
+
+ _ _PERTINENZA, ECC. _ -- -604.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1231_SOMMA DA EROGARE A _ _ 
+ 
+
+ _ _ENTI, ISTITUTI, _ _ 
+ 
+
+ _ _ASSOCIAZIONI, _ _ 
+ 
+
+ _ _FONDAZIONI ED ALTRI _ _ 
+ 
+
+ _ _ORGANISMI _ -- -198.225.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1271_SPESE PER LITI, _ _ 
+ 
+
+ _ _ARBITRAGGI, _ _ 
+ 
+
+ _ _RISARCIMENTI ED _ _ 
+ 
+
+ _ _ACCESSORI _ -- -23.063.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1277_SOMMA OCCORRENTE PER _ _ 
+ 
+
+ _ _IL FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'AUTORITà PER LA _ _ 
+ 
+
+ _ _VIGILANZA SUI LAVORI _ _ 
+ 
+
+ _ _PUBBLICI _ -3.800.000.000 -3.800.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _DIPARTIMENTO PER _ _ 
+ 
+
+ _ _L'INFORMAZIONE E _ _ 
+ 
+
+ _ _L'EDITORIA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1331_SPESE INERENTI I _ _ 
+ 
+
+ _ _SERVIZI TECNICI DEL _ _ 
+ 
+
+ _ _CENTRO AUDIOVISIVI E _ _ 
+ 
+
+ _ _CINETECA, _ _ 
+ 
+
+ _ _RADIOELETTRICI, TELEX _ _ 
+ 
+
+ _ _E GRAFICI: ACQUISTI, _ _ 
+ 
+
+ _ _ECC. _ -- 150.676.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1332_FUNZIONAMENTO E _ _ 
+ 
+
+ _ _MANUTENZIONE DELLA _ _ 
+ 
+
+ _ _BIBLIOTECA E DELLA _ _ 
+ 
+
+ _ _EMEROTECA - ACQUISTO _ _ 
+ 
+
+ _ _DI LIBRI, RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI, ECC. _ -- 62.228.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1334_SPESE PER LA _ _ 
+ 
+
+ _ _DOCUMENTAZIONE E _ _ 
+ 
+
+ _ _INFORMAZIONE SUGLI _ _ 
+ 
+
+ _ _ASPETTI DELLA VITA _ _ 
+ 
+
+ _ _ITALIANA, _ _ 
+ 
+
+ _ _SULL'ATTIVITà DELLA _ _ 
+ 
+
+ _ _PUBBL. AMM., ECC. _ -200.000.000 480.650.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1335_SPESE PER I SERVIZI _ _ 
+ 
+
+ _ _DI STAMPA E DI _ _ 
+ 
+
+ _ _INFORMAZIONE, IVI _ _ 
+ 
+
+ _ _COMPRESE LE SPESE _ _ 
+ 
+
+ _ _DERIVANTI _ _ 
+ 
+
+ _ _DALL'ATTUAZIONE DI _ _ 
+ 
+
+ _ _ACCORDI, ECC. _ -500.000.000 13.444.292.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1339_SOMMA DA _ _ 
+ 
+
+ _ _CORRISPONDERE ALLA _ _ 
+ 
+
+ _ _R.A.I. - RADIO _ _ 
+ 
+
+ _ _TELEVISIONE ITALIANA _ _ 
+ 
+
+ _ _- PER IL SERVIZIO DI _ _ 
+ 
+
+ _ _TRASMISSIONI AD ONDE _ _ 
+ 
+
+ _ _CORTE. _ 1.000.000.000 3.634.128.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1340_SPESE PER LA _ _ 
+ 
+
+ _ _DIFFUSIONE DI NOTIZIE _ _ 
+ 
+
+ _ _ITALIANE ATTRAVERSO _ _ 
+ 
+
+ _ _AGENZIE ITALIANE _ _ 
+ 
+
+ _ _D'INFORMAZIONE, ECC. _ -- 4.243.691.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1341_SPESE PER IL SERVIZIO _ _ 
+ 
+
+ _ _DELLA PROPRIETà _ _ 
+ 
+
+ _ _LETTERARIA, ARTISTICA _ _ 
+ 
+
+ _ _E SCIENTIFICA E PER _ _ 
+ 
+
+ _ _IL SERVIZIO _ _ 
+ 
+
+ _ _DELL'EDITORIA _ -- 3.272.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1343_SPESE DI PUBBLICITà. _ -- 234.882.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1358_SPESE PER LA _ _ 
+ 
+
+ _ _PROMOZIONE DI _ _ 
+ 
+
+ _ _CAMPAGNE INFORMATIVE _ _ 
+ 
+
+ _ _SUGLI EFFETTI _ _ 
+ 
+
+ _ _NEGATIVI SULLA SALUTE _ _ 
+ 
+
+ _ _DERIVANTI DALL'USO, _ _ 
+ 
+
+ _ _ECC. _ -- 7.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1372_CONTRIBUTI ALLE _ _ 
+ 
+
+ _ _IMPRESE RADIOFONICHE _ _ 
+ 
+
+ _ _DI INFORMAZIONE _ _ 
+ 
+
+ _ _PREVISTI _ _ 
+ 
+
+ _ _DALL'ARTICOLO 11 _ _ 
+ 
+
+ _ _DELLA LEGGE 25 _ _ 
+ 
+
+ _ _FEBBRAIO, ECC. _ -- 13.257.653.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1375_SOMMA DA _ _ 
+ 
+
+ _ _CORRISPONDERE ALLE _ _ 
+ 
+
+ _ _CASSE DI ASSISTENZA E _ _ 
+ 
+
+ _ _PREVIDENZA DEGLI _ _ 
+ 
+
+ _ _SCRITTORI, DEGLI _ _ 
+ 
+
+ _ _AUTORI DRAMMATICI, _ _ 
+ 
+
+ _ _ECC. _ -- 160.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1376_CONTRIBUTI ALLE _ _ 
+ 
+
+ _ _IMPRESE EDITRICI DI _ _ 
+ 
+
+ _ _QUOTIDIANI E _ _ 
+ 
+
+ _ _PERIODICI DI CUI ALLA _ _ 
+ 
+
+ _ _LEGGE 7 AGOSTO 1990, _ _ 
+ 
+
+ _ _N. 250, E SUCCESSIVE, _ _ 
+ 
+
+ _ _ECC. _ -4.000.000.000 140.400.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1377_CONTRIBUTO SUI MUTUI _ _ 
+ 
+
+ _ _CONCESSI DAGLI _ _ 
+ 
+
+ _ _ISTITUTI ED AZIENDE _ _ 
+ 
+
+ _ _DI CREDITO IN FAVORE _ _ 
+ 
+
+ _ _DELLE IMPRESE _ _ 
+ 
+
+ _ _EDITORIALI, ECC. _ -- 949.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1379_SOMMA DA _ _ 
+ 
+
+ _ _CORRISPONDERE AI _ _ 
+ 
+
+ _ _GESTORI COMPETENTI _ _ 
+ 
+
+ _ _ALL'APPLICAZIONE _ _ 
+ 
+
+ _ _DELLE TARIFFE, A _ _ 
+ 
+
+ _ _TITOLO DI RIMBORSO, _ _ 
+ 
+
+ _ _ECC. _ -- 9.421.470.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1383_CONTRIBUTO IN FAVORE _ _ 
+ 
+
+ _ _DELL'EDITORIA _ _ 
+ 
+
+ _ _SPECIALE PERIODICA _ _ 
+ 
+
+ _ _PER NON VEDENTI _ _ 
+ 
+
+ _ _PRODOTTA CON _ _ 
+ 
+
+ _ _CARATTERI TIPOGRAFICI _ _ 
+ 
+
+ _ _NORMALI, ECC. _ -- -4.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _1401_CONTRIBUTI SULLE _ _ 
+ 
+
+ _ _SPESE NECESSARIE ALLA _ _ 
+ 
+
+ _ _REALIZZAZIONE DI _ _ 
+ 
+
+ _ _PROGETTI RELATIVI _ _ 
+ 
+
+ _ _ALLA PUBBLICITà DA _ _ 
+ 
+
+ _ _SVOLGERE, ECC. _ 411.800.000 411.800.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 6 - UFFICIO _ _ 
+ 
+
+ _ _PER IL COORDINAMENTO _ _ 
+ 
+
+ _ _DEI SERVIZI DELLA _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2010_STIPENDI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNI FISSI AL _ _ 
+ 
+
+ _ _PERSONALE ASSUNTO CON _ _ 
+ 
+
+ _ _CONTRATTO DI DIRITTO _ _ 
+ 
+
+ _ _PRIVATO AI SENSI _ _ 
+ 
+
+ _ _DELL'ART., ECC. _ -- 37.977.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2013_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE COMANDATO _ _ 
+ 
+
+ _ _PRESSO IL _ _ 
+ 
+
+ _ _DIPARTIMENTO PER LA _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE AI _ _ 
+ 
+
+ _ _SENSI, ECC. _ -- 76.415.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2014_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 667.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2015_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 65.889.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2020_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 10.654.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2021_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE ASSUNTO CON _ _ 
+ 
+
+ _ _CONTRATTO DI DIRITTO _ _ 
+ 
+
+ _ _PRIVATO, ECC. _ -- 209.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2022_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE ASSUNTO CON _ _ 
+ 
+
+ _ _CONTRATTO DI DIRITTO _ _ 
+ 
+
+ _ _PRIVATO AI SENSI _ _ 
+ 
+
+ _ _DELL'ART., ECC. _ -- 14.738.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2032_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, ECC. - DI _ _ 
+ 
+
+ _ _CONSIGLI, COMITATI E _ _ 
+ 
+
+ _ _COMMISSIONI _ -- 89.076.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2033_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI NEI _ _ 
+ 
+
+ _ _SETTORI CONNESSI ALLE _ _ 
+ 
+
+ _ _ATTIVITà DI _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE, _ _ 
+ 
+
+ _ _ECC. _ -- 760.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2035_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- 20.179.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2036_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE DI _ _ 
+ 
+
+ _ _CONVEGNI NAZIONALI ED _ _ 
+ 
+
+ _ _INTERNAZIONALI E PER _ _ 
+ 
+
+ _ _L'INVIO IN MISSIONE, _ _ 
+ 
+
+ _ _ECC. _ -- 543.796.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2038_SPESE INERENTI A _ _ 
+ 
+
+ _ _SERVIZI TECNICI _ _ 
+ 
+
+ _ _(ACQUISTO, RINNOVO, _ _ 
+ 
+
+ _ _FORNITURA DI _ _ 
+ 
+
+ _ _MACCHINARIO SPECIALE _ _ 
+ 
+
+ _ _E MATERIALE VARIO). _ _ 
+ 
+
+ _ _ECC. _ -- 82.933.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2039_LAVORI DI TRADUZIONE _ _ 
+ 
+
+ _ _E COMPENSI AGLI _ _ 
+ 
+
+ _ _INTERPRETI - SPESE _ _ 
+ 
+
+ _ _FOTOGRAFICHE PER _ _ 
+ 
+
+ _ _DOCUMENTI PERSONALI - _ _ 
+ 
+
+ _ _SPESE, ECC. _ -- 134.282.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2040_DOCUMENTAZIONE _ _ 
+ 
+
+ _ _PLANIMETRICA E _ _ 
+ 
+
+ _ _CARTOGRAFICA DEL _ _ 
+ 
+
+ _ _TERRITORIO, _ _ 
+ 
+
+ _ _DOCUMENTAZIONE _ _ 
+ 
+
+ _ _RISCHIO NUCLEARE, _ _ 
+ 
+
+ _ _RISCHIO CHIMICO, ECC. _ -- 620.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2044_SPESE PER LA _ _ 
+ 
+
+ _ _DOCUMENTAZIONE, LA _ _ 
+ 
+
+ _ _PROPAGANDA, E _ _ 
+ 
+
+ _ _INFORMAZIONE DELLA _ _ 
+ 
+
+ _ _POPOLAZIONE NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 100.502.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2045_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 5.962.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2050_COMPENSI PER SPECIALI _ _ 
+ 
+
+ _ _INCARICHI _ -- 6.888.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2057_SPESE TELEFONICHE _ -- 400.994.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2058_FITTO LOCALI ED ONERI _ _ 
+ 
+
+ _ _ACCESSORI, IVI _ _ 
+ 
+
+ _ _COMPRESE LE SPESE PER _ _ 
+ 
+
+ _ _IL SERVIZIO DI _ _ 
+ 
+
+ _ _VIGILANZA E SICUREZZA _ -- 8.075.366.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2059_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE NONCHè _ _ 
+ 
+
+ _ _PER TELECOMUNICAZIONI _ _ 
+ 
+
+ _ _DI EMERGENZA, IVI _ _ 
+ 
+
+ _ _COMPRESE QUELLE VIA _ _ 
+ 
+
+ _ _SATELLITE _ -- 49.002.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2060_MANUTENZIONE _ _ 
+ 
+
+ _ _IMMOBILI, _ _ 
+ 
+
+ _ _MANUTENZIONE E _ _ 
+ 
+
+ _ _CONDUZIONE IMPIANTI, _ _ 
+ 
+
+ _ _ATTREZZATURE E _ _ 
+ 
+
+ _ _MACCHINARI: _ _ 
+ 
+
+ _ _DISINFEZIONE, ECC. _ -- 1.548.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2061_SPESE PER ACQUISTO, _ _ 
+ 
+
+ _ _MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE, LEASING, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI AEREI _ -- -1.709.653.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2062_SISTEMI ABITATIVI E _ _ 
+ 
+
+ _ _DI TELECOMUNICAZIONE _ _ 
+ 
+
+ _ _DI EMERGENZA: SPESE _ _ 
+ 
+
+ _ _PER ACQUISTO, _ _ 
+ 
+
+ _ _ADEGUAMENTO, LEASING, _ _ 
+ 
+
+ _ _NOLEGGIO, ECC. _ -- 7.073.730.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2063_SPESE PER _ _ 
+ 
+
+ _ _L'ADEGUAMENTO, LA _ _ 
+ 
+
+ _ _GESTIONE E LO _ _ 
+ 
+
+ _ _SVILUPPO DEL SISTEMA _ _ 
+ 
+
+ _ _INFORMATIVO, ECC. _ -- 613.920.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2064_ONERI DERIVANTI DAGLI _ _ 
+ 
+
+ _ _INTERVENTI CONNESSI _ _ 
+ 
+
+ _ _CON FENOMENI _ _ 
+ 
+
+ _ _MIGRATORI DI _ _ 
+ 
+
+ _ _EXTRACOMUNITARI, ECC. _ -- 1.253.617.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2065_MOVIMENTAZIONE, _ _ 
+ 
+
+ _ _MANUTENZIONE - ANCHE _ _ 
+ 
+
+ _ _STRAORDINARIA - _ _ 
+ 
+
+ _ _RIPARAZIONE, _ _ 
+ 
+
+ _ _RECUPERO, _ _ 
+ 
+
+ _ _POSIZIONAMENTO E _ _ 
+ 
+
+ _ _STOCCAGGIO, ECC. _ -- 932.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ 
+ 
+
+ TABELLA N. 1/A 
+ 
+
+ STATO DI PREVISIONE 
+ 
+
+ PRESIDENZA DEL CONSIGLIO DEI MINISTRI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ _ _ _ 
+ 
+
+ _ PRESIDENZA DEL CONSIGLIO _ VARIAZIONI _ 
+ 
+
+ _ DEI MINISTRI _ _ 
+ 
+
+ _ _ _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ NU-_ _ ALLA _ ALLA _ 
+ 
+
+ _MERO_DENOMINAZIONE CAPITOLO _ PREVISIONE _ AUTORIZZAZIONE _ 
+ 
+
+ _CAP._ _ DI COMPETENZA _ DI CASSA _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _2066_EMERGENZE CONNESSE _ _ 
+ 
+
+ _ _ALLO SMALTIMENTO DEI _ _ 
+ 
+
+ _ _RIFIUTI INDUSTRIALI E _ _ 
+ 
+
+ _ _PER QUELLI TOSSICI E _ _ 
+ 
+
+ _ _NOCIVI _ -- 1.435.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2075_CONTRIBUTI AI GRUPPI, _ _ 
+ 
+
+ _ _ASSOCIAZIONI, ENTI ED _ _ 
+ 
+
+ _ _ORGANISMI DI _ _ 
+ 
+
+ _ _VOLONTARIATO DI _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE _ _ 
+ 
+
+ _ _CENSITI AI SENSI, _ _ 
+ 
+
+ _ _ECC. _ -- 500.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2086_SPESE CONNESSE ALLE _ _ 
+ 
+
+ _ _ATTIVITà DI _ _ 
+ 
+
+ _ _PREVISIONE, _ _ 
+ 
+
+ _ _PREVENZIONE E _ _ 
+ 
+
+ _ _SOCCORSO IVI COMPRESI _ _ 
+ 
+
+ _ _LA FORMAZIONE, _ _ 
+ 
+
+ _ _L'ADDESTRAMENTO, ECC. _ -- 733.494.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2087_SPESE PER LITI, _ _ 
+ 
+
+ _ _ARBITRAGGI, _ _ 
+ 
+
+ _ _RISARCIMENTI ED _ _ 
+ 
+
+ _ _ACCESSORI _ -- 2.773.233.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2088_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _ONERI DERIVANTI DA _ _ 
+ 
+
+ _ _ACCORDI DI _ _ 
+ 
+
+ _ _COOPERAZIONE CON GLI _ _ 
+ 
+
+ _ _STATI ESTERI NEL _ _ 
+ 
+
+ _ _CAMPO DELLA _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE _ -- -- _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 7 - UFFICIO _ _ 
+ 
+
+ _ _PER I RAPPORTI CON IL _ _ 
+ 
+
+ _ _PARLAMENTO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2204_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 207.887.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2234_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 27.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 8 - UFFICIO _ _ 
+ 
+
+ _ _PER IL COORDINAMENTO _ _ 
+ 
+
+ _ _DELLE POLITICHE _ _ 
+ 
+
+ _ _COMUNITARIE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2401_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- -13.881.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2402_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- -56.755.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2403_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 504.264.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2431_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- -88.156.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2432_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ -- -317.341.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2433_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- -55.302.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2434_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 991.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2435_SPESE DI STUDIO E DI _ _ 
+ 
+
+ _ _RICERCA RELATIVE ALLA _ _ 
+ 
+
+ _ _PREDISPOSIZIONE DEI _ _ 
+ 
+
+ _ _PROGRAMMI DI _ _ 
+ 
+
+ _ _INTEGRAZIONE DELLE _ _ 
+ 
+
+ _ _ECONOMIE NELL'AREA, _ _ 
+ 
+
+ _ _ECC. _ -- -189.184.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2438_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE E LA _ _ 
+ 
+
+ _ _PARTECIPAZIONE AD _ _ 
+ 
+
+ _ _INCONTRI DI STUDIO, _ _ 
+ 
+
+ _ _CONVEGNI, CONGRESSI, _ _ 
+ 
+
+ _ _MOSTRE, ECC. _ -- -85.612.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 10 - _ _ 
+ 
+
+ _ _DIPARTIMENTO PER LA _ _ 
+ 
+
+ _ _FUNZIONE PUBBLICA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2502_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 738.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2503_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 3.243.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2504_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 399.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2507_INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER L'ATTUAZIONE DEI _ _ 
+ 
+
+ _ _CONTROLLI, ECC. _ -- 2.494.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2541_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E _ _ 
+ 
+
+ _ _L'INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ 50.000.000 100.846.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2543_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ 50.000.000 123.430.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2544_SPESE DI QUALSIASI _ _ 
+ 
+
+ _ _NATURA PER _ _ 
+ 
+
+ _ _PARTICOLARI LAVORI _ _ 
+ 
+
+ _ _UTILI ALLA RIFORMA _ _ 
+ 
+
+ _ _DELL'AMMINISTRAZIONE _ 800.000.000 220.721.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2546_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- -4.642.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2548_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE DI _ _ 
+ 
+
+ _ _CONVEGNI NAZIONALI ED _ _ 
+ 
+
+ _ _INTERNAZIONALI, PER _ _ 
+ 
+
+ _ _OSPITALITà E _ _ 
+ 
+
+ _ _RAPPRESENTANZA, ECC. _ -- 19.252.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2552_SPESE PER L'IMPIANTO _ _ 
+ 
+
+ _ _DELL'ALBO DEI _ _ 
+ 
+
+ _ _DIPENDENTI CIVILI _ _ 
+ 
+
+ _ _DELLO STATO, E PER LA _ _ 
+ 
+
+ _ _GESTIONE DELLE BANCHE _ _ 
+ 
+
+ _ _DATI RELATIVE, ECC. _ -8.941.000 -8.941.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2556_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO, IL _ _ 
+ 
+
+ _ _POTENZIAMENTO E LA _ _ 
+ 
+
+ _ _GESTIONE DEL SISTEMA _ _ 
+ 
+
+ _ _INFORMATIVO DEL _ _ 
+ 
+
+ _ _DIPARTIMENTO _ -- -487.900.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2557_COMPENSI AI _ _ 
+ 
+
+ _ _COMPONENTI DEL NUCLEO _ _ 
+ 
+
+ _ _DI VALUTAZIONE E DEL _ _ 
+ 
+
+ _ _COMITATO TECNICO- _ _ 
+ 
+
+ _ _SCIENTIFICO DI CUI _ _ 
+ 
+
+ _ _ALL'ART. 26 DELLA, _ _ 
+ 
+
+ _ _ECC. _ -- 46.890.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2558_SPESE DI _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'AGENZIA PER LA _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ _ 
+ 
+
+ _ _NEGOZIALE DELLE _ _ 
+ 
+
+ _ _PUBBLICHE _ _ 
+ 
+
+ _ _AMMINISTRAZIONI _ 231.425.000 231.675.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2559_SOMME DA EROGARE AL _ _ 
+ 
+
+ _ _CENTRO DI _ _ 
+ 
+
+ _ _FORMAZIONE E STUDI _ _ 
+ 
+
+ _ _- FORMEZ - PER LE _ _ 
+ 
+
+ _ _ESIGENZE DI _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ -- 5.411.104.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2560_SOMME DA ASSEGNARE _ _ 
+ 
+
+ _ _AGLI ENTI GESTORI DEI _ _ 
+ 
+
+ _ _PROGETTI DI CUI _ _ 
+ 
+
+ _ _ALL'ART. 26 DELLA _ _ 
+ 
+
+ _ _LEGGE 11 MARZO 1988, _ _ 
+ 
+
+ _ _N. 67 _ -- 39.273.434.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2561_RIMBORSO DEGLI ONERI _ _ 
+ 
+
+ _ _DERIVANTI _ _ 
+ 
+
+ _ _DALL'APPLICAZIONE DEL _ _ 
+ 
+
+ _ _DECRETO DEL _ _ 
+ 
+
+ _ _PRESIDENTE DELLA _ _ 
+ 
+
+ _ _REPUBBLICA 16 OTTOBRE _ _ 
+ 
+
+ _ _1979, N. 509, ECC. _ -- 136.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2563_RIMBORSO DEGLI ONERI _ _ 
+ 
+
+ _ _DERIVANTI DALL'ART. _ _ 
+ 
+
+ _ _11 DELLA LEGGE 27 _ _ 
+ 
+
+ _ _OTTOBRE 1988, N. 482 _ 449.460.000 579.763.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 11 - UFFICIO _ _ 
+ 
+
+ _ _PER GLI AFFARI _ _ 
+ 
+
+ _ _REGIONALI ED I _ _ 
+ 
+
+ _ _PROBLEMI _ _ 
+ 
+
+ _ _ISTITUZIONALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2701_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- -5.215.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2707_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- -2.706.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2708_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 1.136.099.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2741_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- 2.684.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2743_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 8.645.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2746_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 267.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 12 - UFFICIO _ _ 
+ 
+
+ _ _PER I PROBLEMI DELLE _ _ 
+ 
+
+ _ _AREE URBANE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2801_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 531.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2802_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 6.118.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2803_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- -5.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2831_COMPENSI PER SPECIALI _ _ 
+ 
+
+ _ _INCARICHI _ -7.413.000 82.900.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2834_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ -1.788.000 -1.788.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2835_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 188.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2839_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO E DELLA _ _ 
+ 
+
+ _ _COMMISSIONE DI CUI _ _ 
+ 
+
+ _ _ALLA LEGGE 246/89, _ _ 
+ 
+
+ _ _COMPRESI I GETTONI, _ _ 
+ 
+
+ _ _ECC. _ -- -629.799.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2840_SPESE RELATIVE _ _ 
+ 
+
+ _ _ALL'ATTIVITà DI _ _ 
+ 
+
+ _ _PROGETTAZIONE, _ _ 
+ 
+
+ _ _SUPPORTO E CONSULENZA _ _ 
+ 
+
+ _ _DI CUI ALLA LEGGE _ _ 
+ 
+
+ _ _246/89. _ -- 30.670.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 13 - UFFICIO _ _ 
+ 
+
+ _ _PER LA FAMIGLIA E _ _ 
+ 
+
+ _ _SOLIDARIETà SOCIALE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2901_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 1.088.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2902_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- -9.957.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2904_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- -177.054.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2941_COMPENSI PER SPECIALI _ _ 
+ 
+
+ _ _INCARICHI _ -- 48.560.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2942_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- -13.293.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2943_SPESE PER LE _ _ 
+ 
+
+ _ _RELAZIONI PUBBLICHE, _ _ 
+ 
+
+ _ _PER L'ORGANIZZAZIONE _ _ 
+ 
+
+ _ _E LA PARTECIPAZIONE A _ _ 
+ 
+
+ _ _CONVEGNI, CONGRESSI, _ _ 
+ 
+
+ _ _ECC. _ -- -52.240.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2944_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ -- -59.672.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2945_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 498.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2947_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 449.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2948_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'OSSERVATORIO _ _ 
+ 
+
+ _ _NAZIONALE PER IL _ _ 
+ 
+
+ _ _VOLONTARIATO E PER LA _ _ 
+ 
+
+ _ _CONFERENZA NAZIONALE, _ _ 
+ 
+
+ _ _ECC. _ -- 505.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2949_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO NAZIONALE E _ _ 
+ 
+
+ _ _DELLA COMMISSIONE _ _ 
+ 
+
+ _ _PERMANENTE PER LE _ _ 
+ 
+
+ _ _POLITICHE _ _ 
+ 
+
+ _ _DELL'HANDICAP _ -- -5.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2950_(MODIFICATA LA _ _ 
+ 
+
+ _ _DENOMINAZIONE) _ _ 
+ 
+
+ _ _SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEI _ _ 
+ 
+
+ _ _SERVIZI TELEFONICI DI _ _ 
+ 
+
+ _ _INFORMAZIONE DI CUI _ _ 
+ 
+
+ _ _ALL'ARTICOLO 6 COMMA _ _ 
+ 
+
+ _ _C DEL D.L. 18.03.96 _ _ 
+ 
+
+ _ _N. 130 _ -- 610.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2951_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _NUCLEO OPERATIVO DI _ _ 
+ 
+
+ _ _CUI ALL'ARTICOLO 1 _ _ 
+ 
+
+ _ _DEL DECRETO-LEGGE 8 _ _ 
+ 
+
+ _ _NOVEMBRE 1993, N. 437 _ -- -44.641.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2952_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO NAZIONALE DI _ _ 
+ 
+
+ _ _COORDINAMENTO PER _ _ 
+ 
+
+ _ _L'AZIONE ANTIDROGA E _ _ 
+ 
+
+ _ _PER GLI ESPERTI, ECC. _ -- 137.319.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2954_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _CENTRO NAZIONALE PER _ _ 
+ 
+
+ _ _LA TUTELA _ _ 
+ 
+
+ _ _DELL'INFANZIA _ -- 159.800.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2955_FONDO PER IL _ _ 
+ 
+
+ _ _VOLONTARIATO _ -- 156.500.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2965_(SOPPRESSO) _ _ 
+ 
+
+ _ _SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'OSSERVATORIO _ _ 
+ 
+
+ _ _NAZIONALE PER IL _ _ 
+ 
+
+ _ _VOLONTARIATO, PER LA _ _ 
+ 
+
+ _ _DOTAZIONE DEL FONDO _ _ 
+ 
+
+ _ _PER IL VOLONTARIATO E _ _ 
+ 
+
+ _ _PER LA CONFERENZA _ _ 
+ 
+
+ _ _NAZIONALE DEL _ _ 
+ 
+
+ _ _VOLONTARIATO, DI CUI _ _ 
+ 
+
+ _ _ALL'ARTICOLO 14 DELLA _ _ 
+ 
+
+ _ _LEGGE 11 AGOSTO 1991, _ _ 
+ 
+
+ _ _N. 266 _ -- -260.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _2966_FONDO NAZIONALE DI _ _ 
+ 
+
+ _ _INTERVENTO PER LA _ _ 
+ 
+
+ _ _LOTTA ALLA DROGA _ -- 135.996.466.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 17 - UFFICIO _ _ 
+ 
+
+ _ _PER LE RIFORME _ _ 
+ 
+
+ _ _ELETTORALI ED _ _ 
+ 
+
+ _ _ISTITUZIONALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3101_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 990.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3102_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 223.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3103_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 90.472.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3131_SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI. _ -- 266.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3132_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI. _ -- 950.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3133_SPESE PER LE _ _ 
+ 
+
+ _ _RELAZIONI PUBBLICHE, _ _ 
+ 
+
+ _ _PER L'ORGANIZZAZIONE _ _ 
+ 
+
+ _ _E LA PARTECIPAZIONE A _ _ 
+ 
+
+ _ _CONVEGNI, CONGRESSI, _ _ 
+ 
+
+ _ _ED ALTRE, ECC. _ -- 5.778.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3134_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 1.467.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 18 - UFFICIO _ _ 
+ 
+
+ _ _PER GLI ITALIANI NEL _ _ 
+ 
+
+ _ _MONDO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3172_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 3.612.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3173_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE APPLICATO _ _ 
+ 
+
+ _ _AD UFFICI AVENTI _ _ 
+ 
+
+ _ _FUNZIONI DI DIRETTA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 399.180.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3224_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 1.186.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3225_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 8.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 20 - SCUOLA _ _ 
+ 
+
+ _ _SUPERIORE DELLA _ _ 
+ 
+
+ _ _PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3701_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 133.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3704_INDENNITà DI RISCHIO _ _ 
+ 
+
+ _ _E INDENNITà DI _ _ 
+ 
+
+ _ _MANSIONE AI _ _ 
+ 
+
+ _ _CENTRALINISTI NON _ _ 
+ 
+
+ _ _VEDENTI _ -- 749.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3706_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- -372.205.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3741_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI, _ _ 
+ 
+
+ _ _LE INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- 4.029.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3742_SPESE PER _ _ 
+ 
+
+ _ _ACCERTAMENTI SANITARI _ -- 120.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3744_COMPENSO AI DOCENTI, _ _ 
+ 
+
+ _ _AGLI ASSISTENTI ED AL _ _ 
+ 
+
+ _ _PERSONALE DELLA _ _ 
+ 
+
+ _ _SCUOLA SUPERIORE _ _ 
+ 
+
+ _ _DELLA PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE, ECC. _ -- 405.906.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3745_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _CONVENZIONATI _ -- -600.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3746_FITTO DI LOCALI ED _ -- _ 
+ 
+
+ _ _ONERI ACCESSORI _ -32.964.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3747_SPESE TELEFONICHE _ _ 
+ 
+
+ _ _CONNESSE ALLE _ _ 
+ 
+
+ _ _ATIVITà DIDATTICHE _ _ 
+ 
+
+ _ _DELLA SCUOLA SUPE- _ _ 
+ 
+
+ _ _RIORE DELLA PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE _ -- -4.791.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3748_SPESE PER LE _ _ 
+ 
+
+ _ _RELAZIONI PUBBLICHE E _ _ 
+ 
+
+ _ _DI RAPPRESENTANZA _ _ 
+ 
+
+ _ _NONCHè PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE E LA _ _ 
+ 
+
+ _ _PARTECIPAZIONE, ECC. _ -- -4.333.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3751_SPESE PER ATTREZZA- _ _ 
+ 
+
+ _ _TURE, IMPIANTI ED _ _ 
+ 
+
+ _ _ATTIVITà COMPLEMEN- _ _ 
+ 
+
+ _ _TARI DEI CORSI _ _ 
+ 
+
+ _ _D'ISTRUZIONE _ -- 289.614.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3752_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _SCUOLA SUPERIORE _ _ 
+ 
+
+ _ _DELLA PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE _ -- -199.403.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3771_COMPENSO AI DOCENTI, _ _ 
+ 
+
+ _ _AGLI ASSISTENTI ED AL _ _ 
+ 
+
+ _ _PERSONALE DELLA _ _ 
+ 
+
+ _ _SCUOLA SUPERIORE _ _ 
+ 
+
+ _ _DELLA PUBBLICA _ _ 
+ 
+
+ _ _AMMINISTRAZIONE, ECC. _ -- -149.914.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3773_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DELLA _ _ 
+ 
+
+ _ _SEZIONE FUNZIONALE _ _ 
+ 
+
+ _ _AUTONOMA _ -- -42.002.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3801_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 700.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _3802_ASSEGNI DOVUTI AI _ _ 
+ 
+
+ _ _PARTECIPANTI AI _ _ 
+ 
+
+ _ _CONCORSI DI _ _ 
+ 
+
+ _ _RECLUTAMENTO _ -- 98.463.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 25 - _ _ 
+ 
+
+ _ _COMMISSIONE DI _ _ 
+ 
+
+ _ _COORDINAMENTO PER LA _ _ 
+ 
+
+ _ _VALLE D'AOSTA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4305_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -2.871.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4307_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- 19.338.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4308_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER TRASFERIMENTI _ 1.000.000 1.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 26 - _ _ 
+ 
+
+ _ _COMMISSARIATO DELLO _ _ 
+ 
+
+ _ _STATO NELLA REGIONE _ _ 
+ 
+
+ _ _SICILIANA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4401_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -4.234.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4402_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 10.640.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4405_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- -1.074.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4432_SPESE DI UFFICIO _ -- 5.893.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4433_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE _ -- 1.485.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 27 - UFFICIO _ _ 
+ 
+
+ _ _DEL RAPPRESENTANTE _ _ 
+ 
+
+ _ _DEL GOVERNO NELLA _ _ 
+ 
+
+ _ _REGIONE SARDA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4501_COMPENSI PER LAVORO _ -- -4.038.000_ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4505_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- -1.337.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4545_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 22.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4561_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 300.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 28 - _ _ 
+ 
+
+ _ _COMMISSARIATO DEL _ _ 
+ 
+
+ _ _GOVERNO PER LA _ _ 
+ 
+
+ _ _PROVINCIA DI TRENTO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4601_COMPENSI PER LAVORO _ -1.437.000_ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4605_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- -2.605.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4641_SPESE DI UFFICIO _ 7.140.000 7.140.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4645_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _FACOLTATIVI DI LINGUA _ _ 
+ 
+
+ _ _TEDESCA _ -4.700.000 -4.700.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4647_SPESE TELEFONICHE _ -2.440.000 -2.440.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 29 - _ _ 
+ 
+
+ _ _COMMISSARIATO DEL _ _ 
+ 
+
+ _ _GOVERNO PER LA _ _ 
+ 
+
+ _ _PROVINCIA DI BOLZANO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4701_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -11.688.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4705_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- -2.741.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4746_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _FACOLTATIVI DI LINGUA _ _ 
+ 
+
+ _ _TEDESCA _ -10.000.000 -10.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4748_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ 14.700.000 14.700.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4750_SPESE TELEFONICHE _ -4.700.000 -4.700.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 30 - _ _ 
+ 
+
+ _ _COMMISSARIATO DEL _ _ 
+ 
+
+ _ _GOVERNO NELLA REGIONE _ _ 
+ 
+
+ _ _FRIULI-VENEZIA GIULIA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4801_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 16.111.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4802_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- -575.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4804_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 49.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4806_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- 7.158.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4844_SPESE DI UFFICIO _ -- -3.423.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4845_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -- 2.516.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4806_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- -347.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 31 - _ _ 
+ 
+
+ _ _COMMISSARIATI DEL _ _ 
+ 
+
+ _ _GOVERNO PRESSO LE _ _ 
+ 
+
+ _ _REGIONI A STATUTO _ _ 
+ 
+
+ _ _ORDINARIO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ 
+ 
+
+ TABELLA N. 1/A 
+ 
+
+ STATO DI PREVISIONE 
+ 
+
+ PRESIDENZA DEL CONSIGLIO DEI MINISTRI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ _ _ _ 
+ 
+
+ _ PRESIDENZA DEL CONSIGLIO _ VARIAZIONI _ 
+ 
+
+ _ DEI MINISTRI _ _ 
+ 
+
+ _ _ _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ NU-_ _ ALLA _ ALLA _ 
+ 
+
+ _MERO_DENOMINAZIONE CAPITOLO _ PREVISIONE _ AUTORIZZAZIONE _ 
+ 
+
+ _CAP._ _ DI COMPETENZA _ DI CASSA _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _4901_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 200.253.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4902_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 182.401.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4903_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER TRASFERIMENTI _ -- 11.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4904_COMPENSI INCENTIVANTI _ _ 
+ 
+
+ _ _LA PRODUTTIVITà E _ _ 
+ 
+
+ _ _ASSEGNO TEMPORALE _ _ 
+ 
+
+ _ _MENSILE _ -- -2.284.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4905_INDENNITà MENSILE AL _ _ 
+ 
+
+ _ _PERSONALE IN SERVIZIO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI _ -- 526.327.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4941_SPESE DI UFFICIO _ -- 102.566.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4942_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE _ -- 4.067.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4943_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -- 18.370.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4944_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 47.468.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4946_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA ED I _ _ 
+ 
+
+ _ _COMPENSI AI _ _ 
+ 
+
+ _ _COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITA0, ECC. _ -- 21.513.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4947_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 3.506.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4948_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 4.619.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4949_SPESE TELEFONICHE _ -- 31.704.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4961_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 200.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _4971_SPESE PER LITI, _ _ 
+ 
+
+ _ _ARBITRAGGI, _ _ 
+ 
+
+ _ _RISARCIMENTI ED _ _ 
+ 
+
+ _ _ACCESSORI _ -- 16.598.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 37 - COMITATO _ _ 
+ 
+
+ _ _INTERMINISTERIALE PER _ _ 
+ 
+
+ _ _LE INFORMAZIONI E LA _ _ 
+ 
+
+ _ _SICUREZZA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5501_FONDO DA RIPARTIRE _ _ 
+ 
+
+ _ _PER LE SPESE DI _ _ 
+ 
+
+ _ _ORGANIZZAZIONE E DI _ _ 
+ 
+
+ _ _FUNZIONAMENTO NONCHè _ _ 
+ 
+
+ _ _PER LE SPESE _ _ 
+ 
+
+ _ _RISERVATE, ECC. _ 213.800.000.000 213.800.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5502_SPESE DI _ _ 
+ 
+
+ _ _ORGANIZZAZIONE E _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _COMITATO ESECUTIVO _ _ 
+ 
+
+ _ _PER I SERVIZI DI _ _ 
+ 
+
+ _ _INFORMAZIONE, ECC. _ -- 1.574.158.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 38 - _ _ 
+ 
+
+ _ _CONSIGLIO DI STATO E _ _ 
+ 
+
+ _ _TRIBUNALI _ _ 
+ 
+
+ _ _AMMINISTRATIVI _ _ 
+ 
+
+ _ _REGIONALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5704_STIPENDI, _ _ 
+ 
+
+ _ _RETRIBUZIONI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNA FISSI AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 149.970.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5707_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 54.046.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5708_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 1.020.543.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5709_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 18.331.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5710_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER TRASFERIMENTI _ -- 9.312.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5711_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE CHE _ _ 
+ 
+
+ _ _COLLABORA COL _ _ 
+ 
+
+ _ _PRESIDENTE DEL _ _ 
+ 
+
+ _ _CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI, ECC. _ -- 22.570.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5712_INDENNITà AI _ _ 
+ 
+
+ _ _PRESIDENTI DEI _ _ 
+ 
+
+ _ _TRIBUNALI _ _ 
+ 
+
+ _ _AMMINISTRATIVI _ _ 
+ 
+
+ _ _REGIONALI _ -- 3.404.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5713_INDENNITà DI RISCHIO _ _ 
+ 
+
+ _ _E INDENNITà DI _ _ 
+ 
+
+ _ _MANSIONE AI _ _ 
+ 
+
+ _ _CENTRALINISTI NON _ _ 
+ 
+
+ _ _VEDENTI _ -- 5.621.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5715_FONDO PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO _ _ 
+ 
+
+ _ _DELL'EFFICIENZA DEI _ _ 
+ 
+
+ _ _SERVIZI NONCHè FONDO _ _ 
+ 
+
+ _ _PER LA PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA _ -- 784.413.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5717_FONDO PER LA QUALITà _ _ 
+ 
+
+ _ _DELLA PRESTAZIONE _ _ 
+ 
+
+ _ _INDIVIDUALE _ -- 30.091.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5742_INDENNITà PER UNA _ _ 
+ 
+
+ _ _SOLA VOLTA IN LUOGO _ _ 
+ 
+
+ _ _DI PENSIONE, _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _LICENZIAMENTO, ECC. _ -- 2.290.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5771_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA ED I _ _ 
+ 
+
+ _ _COMPENSI AI _ _ 
+ 
+
+ _ _COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà, ECC. _ -- 3.663.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5774_FUNZIONAMENTO E _ _ 
+ 
+
+ _ _MANUTENZIONE DELLA _ _ 
+ 
+
+ _ _BIBLIOTECA - ACQUISTO _ _ 
+ 
+
+ _ _DI LIBRI, RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- 31.707.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5775_SPESE DI UFFICIO _ -- 2.076.793.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5776_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -60.000.000 11.054.461.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5777_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- 5.900.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5778_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE _ -- 2.405.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5779_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ 20.000.000 22.084.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5780_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA _ -- 1.101.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5781_SPESE DI COPIA, _ _ 
+ 
+
+ _ _STAMPA, CARTA _ _ 
+ 
+
+ _ _BOLLATA, _ _ 
+ 
+
+ _ _REGISTRAZIONE E _ _ 
+ 
+
+ _ _VARIE, INERENTI AI _ _ 
+ 
+
+ _ _CONTRATTI STIPULATI _ _ 
+ 
+
+ _ _DALL'AMMINISTRAZIONE _ -- 2.174.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5783_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE E LA _ _ 
+ 
+
+ _ _PARTECIPAZIONE AD _ _ 
+ 
+
+ _ _INCONTRI DI STUDIO, _ _ 
+ 
+
+ _ _CONVEGNI, CONGRESSI, _ _ 
+ 
+
+ _ _MOSTRE, ECC. _ -- 130.720.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5785_RIMBORSO ALLE _ _ 
+ 
+
+ _ _AMMINISTRAZIONI _ _ 
+ 
+
+ _ _REGIONALI, _ _ 
+ 
+
+ _ _PROVINCIALI E _ _ 
+ 
+
+ _ _COMUNALI DEGLI _ _ 
+ 
+
+ _ _ASSEGNI FISSI E _ _ 
+ 
+
+ _ _COMPETENZE, ECC. _ -20.000.000 626.887.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5786_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 2.586.691.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5787_SPESE TELEFONICHE _ -- 5.272.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5788_SPESE DI GIUSTIZIA _ _ 
+ 
+
+ _ _PER NOTIFICAZIONI E _ _ 
+ 
+
+ _ _COMUNICAZIONI _ -- 2.550.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5789_SPESE PER _ _ 
+ 
+
+ _ _L'INSTALLAZIONE E LA _ _ 
+ 
+
+ _ _GESTIONE DI SISTEMI _ _ 
+ 
+
+ _ _INFORMATIVI PER _ _ 
+ 
+
+ _ _L'ELABORAZIONE _ _ 
+ 
+
+ _ _AUTOMATICA, ECC. _ -60.000.000 11.723.133.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5790_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _SPESE PER STUDI, _ _ 
+ 
+
+ _ _INDAGINI E _ _ 
+ 
+
+ _ _RILEVAZIONI _ 120.000.000 120.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5801_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 2.294.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5802_EQUO INDENNIZZO AL _ _ 
+ 
+
+ _ _PERSONALE CIVILE PER _ _ 
+ 
+
+ _ _LA PERDITA _ _ 
+ 
+
+ _ _DELL'INTEGRITà _ _ 
+ 
+
+ _ _FISICA SUBITA PER _ _ 
+ 
+
+ _ _INFERMITà, ECC. _ -- 141.451.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5821_SPESE PER LITI, _ _ 
+ 
+
+ _ _ARBITRAGGI, _ _ 
+ 
+
+ _ _RISARCIMENTI ED _ _ 
+ 
+
+ _ _ACCESSORI _ -- 109.609.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 39 - _ _ 
+ 
+
+ _ _CONSIGLIO DI _ _ 
+ 
+
+ _ _GIUSTIZIA _ _ 
+ 
+
+ _ _AMMINISTRATIVA PER LA _ _ 
+ 
+
+ _ _REGIONE SICILIANA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _5901_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -1.300.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 40 - CORTE _ _ 
+ 
+
+ _ _DEI CONTI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6007_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 152.270.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6008_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 2.816.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6010_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 1.524.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6012_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE CHE _ _ 
+ 
+
+ _ _COLLABORA COL _ _ 
+ 
+
+ _ _PRESIDENTE DEL _ _ 
+ 
+
+ _ _CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI, ECC. _ -- 29.902.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6061_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- 1.801.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6066_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEGLI _ _ 
+ 
+
+ _ _UFFICI E PER LA _ _ 
+ 
+
+ _ _MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI _ _ 
+ 
+
+ _ _LOCALI, ECC. _ -- 135.123.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6074_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _INDETTI DA ENTI, _ _ 
+ 
+
+ _ _ISTITUTI E _ _ 
+ 
+
+ _ _AMMINISTRAZIONI _ _ 
+ 
+
+ _ _VARIE, SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE, _ _ 
+ 
+
+ _ _ECC. _ -- 841.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6080_SPESE PER CONSULENZE _ _ 
+ 
+
+ _ _TECNICHE, _ _ 
+ 
+
+ _ _INSTALLAZIONE E _ _ 
+ 
+
+ _ _GESTIONE DI SISTEMI _ _ 
+ 
+
+ _ _INFORMATIVI PER _ _ 
+ 
+
+ _ _L'ELABORAZIONE _ _ 
+ 
+
+ _ _AUTONOMA, ECC. _ -- 1.218.346.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 41 - _ _ 
+ 
+
+ _ _AVVOCATURA DELLO _ _ 
+ 
+
+ _ _STATO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6201_STIPENDI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNI FISSI AL _ _ 
+ 
+
+ _ _PERSONALE DELLA _ _ 
+ 
+
+ _ _MAGISTRATURA _ _ 
+ 
+
+ _ _DELL'AVVOCATURA DELLO _ _ 
+ 
+
+ _ _STATO _ -- 2.000.033.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6204_STIPENDI, _ _ 
+ 
+
+ _ _RETRIBUZIONI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNI FISSI AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 1.040.114.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6207_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 51.589.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6208_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 29.013.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6209_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER TRASFERIMENTI _ -- 14.168.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6210_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 1.725.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6211_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE CHE _ _ 
+ 
+
+ _ _COLLABORA COL _ _ 
+ 
+
+ _ _PRESIDENTE DEL _ _ 
+ 
+
+ _ _CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI, ECC. _ -- 335.242.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6212_INDENNITà DI RISCHIO _ _ 
+ 
+
+ _ _E INDENNITà DI _ _ 
+ 
+
+ _ _MANSIONE AI _ _ 
+ 
+
+ _ _CENTRALINISTI NON _ _ 
+ 
+
+ _ _VEDENTI _ -- 13.266.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6214_FONDO PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO _ _ 
+ 
+
+ _ _DELL'EFFICIENZA DEI _ _ 
+ 
+
+ _ _SERVIZI NONCHè FONDO _ _ 
+ 
+
+ _ _PER LA PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA _ -- 357.968.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6215_QUOTE DOVUTE AI _ _ 
+ 
+
+ _ _FUNZIONARI _ _ 
+ 
+
+ _ _DELL'AVVOCATURA DELLO _ _ 
+ 
+
+ _ _STATO SULLE SOMME _ _ 
+ 
+
+ _ _VERSATE DALLE _ _ 
+ 
+
+ _ _CONTROPARTI, PER _ _ 
+ 
+
+ _ _COMPETENZE, ECC. _ -- 6.897.107.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6216_FONDO PER LA QUALITà _ _ 
+ 
+
+ _ _DELLA PRESTAZIONE _ _ 
+ 
+
+ _ _INDIVIDUALE _ -- 66.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6232_INDENNITà PER UNA _ _ 
+ 
+
+ _ _SOLA VOLTA IN LUOGO _ _ 
+ 
+
+ _ _DI PENSIONE, _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _LICENZIAMENTO, ECC. _ -- 1.852.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6261_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ 2.616.000 4.260.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6264_SPESE DI UFFICIO PER _ _ 
+ 
+
+ _ _LE AVVOCATURE _ _ 
+ 
+
+ _ _DISTRETTUALI _ 149.291.000 216.514.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6265_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 321.996.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6266_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -- -156.432.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6267_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ 36.000.000 36.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6268_SPESE DI COPIA E DI _ _ 
+ 
+
+ _ _STAMPA DEGLI ATTI E _ _ 
+ 
+
+ _ _DELLE PUBBLICAZIONI _ _ 
+ 
+
+ _ _DI SERVIZIO E SPESE _ _ 
+ 
+
+ _ _PER LA _ _ 
+ 
+
+ _ _COLLABORAZIONE, ECC. _ -- 81.951.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6269_SPESE DI COPIA DI _ _ 
+ 
+
+ _ _ATTI GIUDIZIARI _ _ 
+ 
+
+ _ _RILASCIATI DALLE _ _ 
+ 
+
+ _ _CANCELLERIE E _ _ 
+ 
+
+ _ _SEGRETERIE DI ORGANI _ _ 
+ 
+
+ _ _GIUDIZIARI, ECC. _ -- 6.045.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6270_FUNZIONAMENTO E _ _ 
+ 
+
+ _ _MANUTENZIONE DELLE _ _ 
+ 
+
+ _ _BIBLIOTECHE - _ _ 
+ 
+
+ _ _ACQUISTO DI LIBRI. _ _ 
+ 
+
+ _ _RIVISTE PROFESSIONALI _ _ 
+ 
+
+ _ _ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ 77.000.000 114.586.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6274_SPESE PER STUDI, _ _ 
+ 
+
+ _ _PROGETTAZIONE, _ _ 
+ 
+
+ _ _IMPIANTO E GESTIONE _ _ 
+ 
+
+ _ _DI SISTEMI DI _ _ 
+ 
+
+ _ _ELABORAZIONE _ _ 
+ 
+
+ _ _ELETTRONICA DI DATI E _ _ 
+ 
+
+ _ _SERVIZI, ECC. _ -- 1.775.797.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6278_SPESE TELEFONICHE _ 34.878.000 40.439.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6291_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- 5.450.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6295_SPESE PER LITI, _ _ 
+ 
+
+ _ _ARBITRAGGI, _ _ 
+ 
+
+ _ _RISARCIMENTI ED _ _ 
+ 
+
+ _ _ACCESSORI. _ -- 53.738.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 42 - SERVIZI _ _ 
+ 
+
+ _ _TECNICI NAZIONALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6351_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -117.657.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6352_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ 160.000.000 170.180.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6353_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- -10.822.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6354_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _DELLE SPESE DI _ _ 
+ 
+
+ _ _TRASPORTO PER _ _ 
+ 
+
+ _ _MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ _ 
+ 
+
+ _ _E ALL'ESTERO _ _ 
+ 
+
+ _ _EFFETTUATE, ECC. _ -- -694.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6375_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- -17.296.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6376_COMPENSI PER SPECIALI _ _ 
+ 
+
+ _ _INCARICHI _ -- 1.900.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6377_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- 60.652.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6380_SPESE PER _ _ 
+ 
+
+ _ _L'ORGANIZZAZIONE E LA _ _ 
+ 
+
+ _ _PARTECIPAZIONE A _ _ 
+ 
+
+ _ _CORSI, RIUNIONI, _ _ 
+ 
+
+ _ _CONVEGNI NAZIONALI E _ _ 
+ 
+
+ _ _INTERNAZIONALI, ECC. _ -- 648.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6383_SPESE PER LA STIPULA _ _ 
+ 
+
+ _ _DELLE CONVENZIONI _ _ 
+ 
+
+ _ _PREVISTE DALL'ART. 8, _ _ 
+ 
+
+ _ _PRIMO COMMA, DELLA _ _ 
+ 
+
+ _ _LEGGE 9 LUGLIO 1986 _ _ 
+ 
+
+ _ _N. 349 _ -- -70.500.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6385_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'OFFICINA _ _ 
+ 
+
+ _ _MECCANICA DI STRà _ -- 2.227.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6387_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEGLI _ _ 
+ 
+
+ _ _UFFICI CENTRALI E _ _ 
+ 
+
+ _ _PERIFERICI DEL _ _ 
+ 
+
+ _ _DIPARTIMENTO DEI _ _ 
+ 
+
+ _ _SERVIZI TECNICI _ _ 
+ 
+
+ _ _NAZIONALI. _ 5.942.000.000 5.942.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6393_SPESE PER LE _ _ 
+ 
+
+ _ _ATTIVITà DI _ _ 
+ 
+
+ _ _CONTROLLO E VIGILANZA _ _ 
+ 
+
+ _ _DEL SERVIZIO _ _ 
+ 
+
+ _ _NAZIONALE DIGHE, _ _ 
+ 
+
+ _ _ANCHE AVVALENDOSI DI _ _ 
+ 
+
+ _ _ORGANISMI, ECC. _ -- -5.599.630.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6395_(NUOVA ISTITUZIONE) _ _ 
+ 
+
+ _ _FITTO LOCALI ED ONERI _ _ 
+ 
+
+ _ _ACCESSORI PER SEDI _ _ 
+ 
+
+ _ _CENTRALI E _ _ 
+ 
+
+ _ _PERIFERICHE _ 2.000.000.000 2.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 43 - SPESE _ _ 
+ 
+
+ _ _RELATIVE AL TURISMO _ _ 
+ 
+
+ _ _ED ALLO SPETTACOLO _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6500_STIPENDI, _ _ 
+ 
+
+ _ _RETRIBUZIONI ED ALTRI _ _ 
+ 
+
+ _ _ASSEGNI FISSI AL _ _ 
+ 
+
+ _ _PERSONALE _ -- 289.128.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6503_COMPENSI PER LAVORO _ _ 
+ 
+
+ _ _STRAORDINARIO AL _ _ 
+ 
+
+ _ _PERSONALE _ -- -62.475.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6504_COMPENSI INCENTIVANTI _ _ 
+ 
+
+ _ _LA PRODUTTIVITà E _ _ 
+ 
+
+ _ _ASSEGNO TEMPORALE _ _ 
+ 
+
+ _ _MENSILE _ -- 24.472.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6505_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI NEL _ _ 
+ 
+
+ _ _TERRITORIO NAZIONALE _ -- 9.290.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6506_INDENNITà E RIMBORSO _ _ 
+ 
+
+ _ _SPESE DI TRASPORTO _ _ 
+ 
+
+ _ _PER MISSIONI _ _ 
+ 
+
+ _ _ALL'ESTERO _ -- 14.161.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6509_ONERI PREVIDENZIALI _ _ 
+ 
+
+ _ _ED ASSISTENZIALI PER _ _ 
+ 
+
+ _ _IL PERSONALE ISCRITTO _ _ 
+ 
+
+ _ _A REGIMI DI _ _ 
+ 
+
+ _ _PREVIDENZA O DI _ _ 
+ 
+
+ _ _ASSISTENZA, ECC. _ -- -19.178.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6510_INDENNITà DI RISCHIO _ _ 
+ 
+
+ _ _E INDENNITà DI _ _ 
+ 
+
+ _ _MANSIONE AI _ _ 
+ 
+
+ _ _CENTRALINISTI NON _ _ 
+ 
+
+ _ _VEDENTI _ -- 1.122.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6511_FONDO PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO _ _ 
+ 
+
+ _ _DELL'EFFICIENZA DEI _ _ 
+ 
+
+ _ _SERVIZI NONCHè FONDO _ _ 
+ 
+
+ _ _PER LA PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA _ -- 95.811.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6512_FONDO PER LA QUALITà _ _ 
+ 
+
+ _ _DELLA PRESTAZIONE _ _ 
+ 
+
+ _ _INDIVIDUALE _ -- 4.162.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6513_FONDO PER LA _ _ 
+ 
+
+ _ _PRODUTTIVITà _ _ 
+ 
+
+ _ _COLLETTIVA E PER IL _ _ 
+ 
+
+ _ _MIGLIORAMENTO DEI _ _ 
+ 
+
+ _ _SERVIZI _ -- 317.148.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6530_INDENNITà PER UNA _ _ 
+ 
+
+ _ _SOLA VOLTA IN LUOGO _ _ 
+ 
+
+ _ _DI PENSIONE, _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _LICENZIAMENTO, ECC. _ -- 102.379.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6550_ACQUISTO DI RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ _ 
+ 
+
+ _ _ABBONAMENTO AD _ _ 
+ 
+
+ _ _AGENZIE DI _ _ 
+ 
+
+ _ _INFORMAZIONI _ -- -2.365.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6551_SPESE DI _ _ 
+ 
+
+ _ _RAPPRESENTANZA E DI _ _ 
+ 
+
+ _ _OSPITALITà _ -- 2.446.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6553_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, ECC. - DI _ _ 
+ 
+
+ _ _CONSIGLI, COMITATI E _ _ 
+ 
+
+ _ _COMMISSIONI _ -- 264.475.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6554_FITTO DI LOCALI ED _ _ 
+ 
+
+ _ _ONERI ACCESSORI _ -- 1.151.864.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6555_MANUTENZIONE, _ _ 
+ 
+
+ _ _RIPARAZIONE E _ _ 
+ 
+
+ _ _ADATTAMENTO DI LOCALI _ _ 
+ 
+
+ _ _E DEI RELATIVI _ _ 
+ 
+
+ _ _IMPIANTI _ -- 32.631.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6556_SPESE POSTALI E _ _ 
+ 
+
+ _ _TELEGRAFICHE _ -- -7.205.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6557_ACQUISTO, ESERCIZIO E _ _ 
+ 
+
+ _ _MANUTENZIONE DI _ _ 
+ 
+
+ _ _MACCHINARIO SPECIALE _ -- -5.075.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6558_FUNZIONAMENTO E _ _ 
+ 
+
+ _ _MANUTENZIONE DELLA _ _ 
+ 
+
+ _ _BIBLIOTECA - ACQUISTO _ _ 
+ 
+
+ _ _DI LIBRI, RIVISTE, _ _ 
+ 
+
+ _ _GIORNALI ED ALTRE _ _ 
+ 
+
+ _ _PUBBLICAZIONI _ -- -1.022.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6559_MANUTENZIONE, _ _ 
+ 
+
+ _ _NOLEGGIO ED ESERCIZIO _ _ 
+ 
+
+ _ _DI MEZZI DI TRASPORTO _ -- -7.225.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6560_SPESE PER L'ACQUISTO, _ _ 
+ 
+
+ _ _IL NOLEGGIO, LA _ _ 
+ 
+
+ _ _MANUTENZIONE E _ _ 
+ 
+
+ _ _FUNZIONAMENTO DEL _ _ 
+ 
+
+ _ _SERVIZIO DI _ _ 
+ 
+
+ _ _ELABORAZIONE, ECC. _ -95.000.000 -103.277.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ 
+ 
+
+ TABELLA N. 1/A 
+ 
+
+ STATO DI PREVISIONE 
+ 
+
+ PRESIDENZA DEL CONSIGLIO DEI MINISTRI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ _ _ _ 
+ 
+
+ _ PRESIDENZA DEL CONSIGLIO _ VARIAZIONI _ 
+ 
+
+ _ DEI MINISTRI _ _ 
+ 
+
+ _ _ _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _ NU-_ _ ALLA _ ALLA _ 
+ 
+
+ _MERO_DENOMINAZIONE CAPITOLO _ PREVISIONE _ AUTORIZZAZIONE _ 
+ 
+
+ _CAP._ _ DI COMPETENZA _ DI CASSA _ 
+ 
+
+ _ _ _ _ _ 
+ 
+
+ _6561_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI CORSI _ _ 
+ 
+
+ _ _DI PREPARAZIONE, _ _ 
+ 
+
+ _ _FORMAZIONE, _ _ 
+ 
+
+ _ _AGGIORNAMENTO E _ _ 
+ 
+
+ _ _PERFEZIONAMENTO DEL _ _ 
+ 
+
+ _ _PERSONALE, ECC. _ -- 13.595.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6562_SPESE PER ATTIVITà _ _ 
+ 
+
+ _ _DI INDAGINE, DI _ _ 
+ 
+
+ _ _STUDI, DI _ _ 
+ 
+
+ _ _DOCUMENTAZIONE E DI _ _ 
+ 
+
+ _ _PROGRAMMAZIONE _ -- 7.990.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6566_SPESE DI PUBBLICITà _ -- -50.234.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6567_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO, PER LA _ _ 
+ 
+
+ _ _DOTAZIONE DEI MEZZI E _ _ 
+ 
+
+ _ _DEGLI STRUMENTI _ _ 
+ 
+
+ _ _DELL'OSSERVATORIO _ _ 
+ 
+
+ _ _DELLO SPETTACOLO, _ _ 
+ 
+
+ _ _ECC. _ -- -181.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6580_SPESE PER LA _ _ 
+ 
+
+ _ _PROPAGANDA TURISTICA _ _ 
+ 
+
+ _ _E PER ATTIVITà E _ _ 
+ 
+
+ _ _INIZIATIVE _ _ 
+ 
+
+ _ _PROMOZIONALI NON DI _ _ 
+ 
+
+ _ _COMPETENZA DELLE, _ _ 
+ 
+
+ _ _ECC. _ -- 200.272.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6581_PARTECIPAZIONE _ _ 
+ 
+
+ _ _DELL'ITALIA ALLA _ _ 
+ 
+
+ _ _PROPAGANDA TURISTICA _ _ 
+ 
+
+ _ _EUROPEA NEGLI STATI _ _ 
+ 
+
+ _ _UNITI D'AMERICA _ -- -92.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6583_MISURE PROMOZIONALI _ _ 
+ 
+
+ _ _NEL SETTORE DEL _ _ 
+ 
+
+ _ _TURISMO _ -- -225.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6584_SPESE PER _ _ 
+ 
+
+ _ _L'ATTUAZIONE DI _ _ 
+ 
+
+ _ _INIZIATIVE, PROGRAMMI _ _ 
+ 
+
+ _ _E PROGETTI DERIVANTI _ _ 
+ 
+
+ _ _ALLE POLITICHE _ _ 
+ 
+
+ _ _COMUNITARIE NEL _ _ 
+ 
+
+ _ _SETTORE, ECC. _ -- -1.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6602_SPESE PER LA PUBBLICA _ _ 
+ 
+
+ _ _PROIEZIONE DEI _ _ 
+ 
+
+ _ _CORTOMETRAGGI _ _ 
+ 
+
+ _ _CONCORRENTI AI PREMI _ _ 
+ 
+
+ _ _DI QUALITà _ -- 92.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6603_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO - _ _ 
+ 
+
+ _ _COMPRESI I GETTONI DI _ _ 
+ 
+
+ _ _PRESENZA, I COMPENSI _ _ 
+ 
+
+ _ _AI COMPONENTI E LE _ _ 
+ 
+
+ _ _INDENNITà DI _ _ 
+ 
+
+ _ _MISSIONE, ECC. _ -- -45.763.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6630_PROVVIDENZE A FAVORE _ _ 
+ 
+
+ _ _DEL PERSONALE IN _ _ 
+ 
+
+ _ _SERVIZIO, DI QUELLO _ _ 
+ 
+
+ _ _CESSATO DAL SERVIZIO _ _ 
+ 
+
+ _ _E DELLE LORO FAMIGLIE _ -- -5.988.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6672_SOMMA DA EROGARSI A _ _ 
+ 
+
+ _ _CURA DEL COMMISSARIO _ _ 
+ 
+
+ _ _DEL GOVERNO NELLA _ _ 
+ 
+
+ _ _REGIONE FRIULI- _ _ 
+ 
+
+ _ _VENEZIA GIULIA PER _ _ 
+ 
+
+ _ _INTERVENTI, ECC. _ -- 18.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6673_FONDO PER LA STIPULA _ _ 
+ 
+
+ _ _DI UNA CONVENZIONE _ _ 
+ 
+
+ _ _ANNUALE CON L'IMPRESA _ _ 
+ 
+
+ _ _FERROVIE DELLO STATO _ _ 
+ 
+
+ _ _S.P.A., ECC. _ -- -405.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6674_QUOTA DEL FONDO UNICO _ _ 
+ 
+
+ _ _PER LO SPETTACOLO DA _ _ 
+ 
+
+ _ _EROGARE A FAVORE _ _ 
+ 
+
+ _ _DEGLI ENTI AUTONOMI _ _ 
+ 
+
+ _ _LIRICI E DELLE _ _ 
+ 
+
+ _ _ISTITUZIONI, ECC. _ -- 9.077.282.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6675_QUOTA DEL FONDO UNICO _ _ 
+ 
+
+ _ _PER LO SPETTACOLO DA _ _ 
+ 
+
+ _ _EROGARE PER IL _ _ 
+ 
+
+ _ _SOVVENZIONAMENTO _ _ 
+ 
+
+ _ _DELLE ATTIVITà _ _ 
+ 
+
+ _ _MUSICALI, ECC. _ -- -210.452.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6676_QUOTA DEL FONDO UNICO _ _ 
+ 
+
+ _ _PER LO SPETTACOLO DA _ _ 
+ 
+
+ _ _EROGARE PER IL _ _ 
+ 
+
+ _ _SOVVENZIONAMENTO _ _ 
+ 
+
+ _ _DELLE ATTIVITà _ _ 
+ 
+
+ _ _TEATRALI DI PROSA _ -- -29.669.750.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 44 - UFFICIO _ _ 
+ 
+
+ _ _DEL PROGRAMMA PER _ _ 
+ 
+
+ _ _ROMA CAPITALE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6851_COMPENSI AGLI ESPERTI _ _ 
+ 
+
+ _ _ADDETTI AL PROGRAMMA _ _ 
+ 
+
+ _ _PER ROMA CAPITALE _ _ 
+ 
+
+ _ _COMPRESI IL RIMBORSO _ _ 
+ 
+
+ _ _DELLE SPESE DI _ _ 
+ 
+
+ _ _TRASPORTO, ECC. _ -- 892.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _6852_SPESE PER IL _ _ 
+ 
+
+ _ _FUNZIONAMENTO _ _ 
+ 
+
+ _ _DELL'UFFICIO DEL _ _ 
+ 
+
+ _ _PROGRAMMA PER ROMA _ _ 
+ 
+
+ _ _CAPITALE. _ -- -280.590.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TOTALE DELLE _ _ 
+ 
+
+ _ _VARIAZIONI ALLE SPESE _ _ 
+ 
+
+ _ _DI PARTE CORRENTE _ 218.429.998.000 691.004.762.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _TITOLO II - SPESE IN _ _ 
+ 
+
+ _ _CONTO CAPITALE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 1 - SERVIZI _ _ 
+ 
+
+ _ _GENERALI _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7300_SPESE PER PROVVEDERE _ _ 
+ 
+
+ _ _ALLA INDIVIDUAZIONE, _ _ 
+ 
+
+ _ _ALLA DEFINIZIONE DEL _ _ 
+ 
+
+ _ _PROGETTO DI MASSIMA E _ _ 
+ 
+
+ _ _DI QUELLO ESECUTIVO _ _ 
+ 
+
+ _ _RELATIVI, ECC. _ -- -2.718.684.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7302_SPESE PER LA _ _ 
+ 
+
+ _ _REALIZZAZIONE DELLE _ _ 
+ 
+
+ _ _OPERE E DEGLI _ _ 
+ 
+
+ _ _IMPIANTI SPORTIVI _ _ 
+ 
+
+ _ _OCCORRENTI PER I _ _ 
+ 
+
+ _ _GIOCHI DEL _ _ 
+ 
+
+ _ _MEDITERRANEO _ -- 12.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 2 - _ _ 
+ 
+
+ _ _DIPARTIMENTO PER _ _ 
+ 
+
+ _ _L'INFORMAZIONE E _ _ 
+ 
+
+ _ _L'EDITORIA _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7405_CONTRIBUTO SUGLI _ _ 
+ 
+
+ _ _INTERESSI SUI MUTUI _ _ 
+ 
+
+ _ _CONCESSI DAGLI _ _ 
+ 
+
+ _ _ISTITUTI E DALLE _ _ 
+ 
+
+ _ _AZIENDE DI CREDITO _ _ 
+ 
+
+ _ _ABILITATI _ _ 
+ 
+
+ _ _ALL'ESERCIZIO, ECC. _ -- 16.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7406_FONDO ISTITUITO _ _ 
+ 
+
+ _ _PRESSO LA PRESIDENZA _ _ 
+ 
+
+ _ _DEL CONSIGLIO DEI _ _ 
+ 
+
+ _ _MINISTRI PER LA _ _ 
+ 
+
+ _ _CORRESPONSIONE DI _ _ 
+ 
+
+ _ _CONTRIBUTI, ECC. _ -- -254.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7422_FONDO CENTRALE DI _ _ 
+ 
+
+ _ _GARANZIA PER I FINAN- _ _ 
+ 
+
+ _ _ZIAMENTI CONCESSI PER _ _ 
+ 
+
+ _ _LO SVILUPPO DEL SET- _ _ 
+ 
+
+ _ _TORE DELLA STAMPA _ _ 
+ 
+
+ _ _QUOTIDIANA E _ _ 
+ 
+
+ _ _PERIODICA _ -- -12.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _ _RUBRICA 6 - UFFICIO _ _ 
+ 
+
+ _ _PER IL COORDINAMENTO _ _ 
+ 
+
+ _ _DEI SERVIZI DELLA _ _ 
+ 
+
+ _ _PROTEZIONE CIVILE _ _ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7571_INTERVENTI PER LE _ _ 
+ 
+
+ _ _ZONE COLPITE DAL _ _ 
+ 
+
+ _ _BRADISISMO DELL'AREA _ _ 
+ 
+
+ _ _FLEGREA IVI COMPRESI _ _ 
+ 
+
+ _ _LA REALIZZAZIONE DI _ _ 
+ 
+
+ _ _OPERE, ECC. _ -- 7.826.954.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7581_SPESE PER IL _ _ 
+ 
+
+ _ _FINANZIAMENTO DI _ _ 
+ 
+
+ _ _PROGETTI _ _ 
+ 
+
+ _ _IMMEDIATAMENTE _ _ 
+ 
+
+ _ _ESEGUIBILI RELATIVI _ _ 
+ 
+
+ _ _ALLA PROTEZIONE _ _ 
+ 
+
+ _ _CIVILE _ -- 500.439.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7582_INTERVENTI PER _ _ 
+ 
+
+ _ _EMERGENZA IDRICA _ _ 
+ 
+
+ _ _IRRIGUA E POTABILE _ _ 
+ 
+
+ _ _SUL TERRITORIO _ _ 
+ 
+
+ _ _NAZIONALE. _ -- 20.622.949.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7583_INTERVENTI RELATIVI _ _ 
+ 
+
+ _ _AGLI EVENTI SISMICI _ _ 
+ 
+
+ _ _DEL 1984, 1985 E 1986 _ _ 
+ 
+
+ _ _IN SICILIA ORIENTALE _ -- 1.329.762.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7584_INTERVENTI PER LA _ _ 
+ 
+
+ _ _POTABILIZZAZIONE _ _ 
+ 
+
+ _ _DELLE ACQUE, _ _ 
+ 
+
+ _ _SUPERAMENTO DI CRISI _ _ 
+ 
+
+ _ _IDRICHE E SMALTIMENTO _ _ 
+ 
+
+ _ _RIFIUTI ABBANDONATI, _ _ 
+ 
+
+ _ _ECC. _ -- 38.677.198.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7585_INTERVENTI CONNESSI _ _ 
+ 
+
+ _ _AGLI EVENTI SISMICI _ _ 
+ 
+
+ _ _DEL MARZO 1982 IN _ _ 
+ 
+
+ _ _CALABRIA, CAMPANIA E _ _ 
+ 
+
+ _ _BASILICATA _ -- -8.058.033.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7586_INTERVENTI CONNESSI _ _ 
+ 
+
+ _ _AGLI EVENTI SISMICI _ _ 
+ 
+
+ _ _DEL 29 APRILE 1984 IN _ _ 
+ 
+
+ _ _UMBRIA E DEL 7 E 11 _ _ 
+ 
+
+ _ _MAGGIO 1984 IN _ _ 
+ 
+
+ _ _ABRUZZO, MOLISE, ECC. _ -- -29.999.823.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7587_INTERVENTI IN FAVORE _ _ 
+ 
+
+ _ _DEI COMUNI DELLA _ _ 
+ 
+
+ _ _VALTELLINA, DELLA VAL _ _ 
+ 
+
+ _ _FORMAZZA, DELLA VAL _ _ 
+ 
+
+ _ _BREMBANA, DELLA VAL _ _ 
+ 
+
+ _ _CAMONICA, ECC. _ -- -10.000.084.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7588_INTERVENTI CONNESSI A _ _ 
+ 
+
+ _ _DISSESTI DEL _ _ 
+ 
+
+ _ _TERRITORIO E NELLE _ _ 
+ 
+
+ _ _ZONE COLPITE DALLE _ _ 
+ 
+
+ _ _AVVERSITà _ _ 
+ 
+
+ _ _ATMOSFERICHE DEL _ _ 
+ 
+
+ _ _GENNAIO, ECC. _ -- 3.862.104.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7589_INTERVENTI PER IL _ _ 
+ 
+
+ _ _RIPRISTINO E LA _ _ 
+ 
+
+ _ _RIPARAZIONE DELLE _ _ 
+ 
+
+ _ _OPERE PUBBLICHE _ _ 
+ 
+
+ _ _DANNEGGIATE _ _ 
+ 
+
+ _ _DALL'ECCEZIONALE _ _ 
+ 
+
+ _ _NUBIFRAGIO, ECC. _ -- 14.000.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7590_INTERVENTI DI _ _ 
+ 
+
+ _ _RIPRISTINO DEL _ _ 
+ 
+
+ _ _PATRIMONIO EDILIZIO _ _ 
+ 
+
+ _ _PUBBLICO E PRIVATO _ _ 
+ 
+
+ _ _DANNEGGIATO DAGLI _ _ 
+ 
+
+ _ _EVENTI SISMICI, ECC. _ -- -8.521.000.000_ 
+ 
+
+ _ _ _ _ 
+ 
+
+ _7591_CONTRIBUTI E SPESE _ _ 
+ 
+
+ _ _PER FRONTEGGIARE _ _ 
+ 
+
+ _ _INTERVENTI DI DIVERSA _ _ 
+ 
+
+ _ _NATURA SUL TERRITORIO _ _ 
+ 
+
+ _ _NAZIONALE DI CUI ALLA _ _ 
+ 
+
+ _ _LEGGE, ECC. _ -- 14.999.528.000_
