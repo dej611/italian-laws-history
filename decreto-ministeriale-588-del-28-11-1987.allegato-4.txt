@@ -1,0 +1,382 @@
+ALLEGATO IV 
+ 
+
+ (art. 4) 
+ 
+
+ METODO DI MISURAZIONE DEL RUMORE PRODOTTO ALL'APERTO DALLE GRU A TORRE 
+ 
+
+ SETTORE DI APPLICAZIONE 
+ 
+
+ Il presente metodo di misurazione si applica alle gru a torre. Esso specifica i procedimenti di prova per la determinazione del livello di potenza acustica di tali attrezzature ai fini della certificazione CEE e del controllo di conformità. 
+ 
+
+ Questi procedimenti tecnici sono conformi alle prescrizioni contenute nell'allegato I che valgono anche per le gru a torre, con le seguenti modifiche particolari: 
+ 
+
+ 4. CRITERI DA TENER PRESENTI PER L'ESPRESSIONE DEI RISULTATI 
+ 
+
+ a) Quando la gru è alimentata da una fonte di energia indipendente, il criterio acustico ambientale delle gru a torre è espresso dal livello di potenza acustica nel meccanismo di sollevamento. 
+ 
+
+ b) Quando il generatore di energia costituisce parte integrante della 
+ 
+
+ gru, il criterio acustico ambientale delle gru a torre è espresso 
+ 
+
+ - o dai livelli di potenza acustica del generatore di energia e del meccanismo di sollevamento, quando questi due dispositivi non sono raggruppati, 
+ 
+
+ - o dal livello di potenza acustica del dispositivo generatore di energia e del meccanismo di sollevamento raggruppati. 
+ 
+
+ 6. CONDIZIONI DI MISURA 
+ 
+
+ 6.2. Funzionamento della sorgente sonora durante le misurazioni 
+ 
+
+ Quando il meccanismo di sollevamento si trova sul braccio contrappeso, le misure acustiche si possono effettuare con il meccanismo installato sul braccio contrappeso montato oppure fissato al suolo. 
+ 
+
+ Quando la fonte di energia è indipendente dalla gru (gruppo elettrogeno di potenza, rete di distribuzione, gruppo idraulico o pneumatico), si effettua soltanto la misurazione del rumore del meccanismo. 
+ 
+
+ Quando il generatore di energia è installato sulla gru, questo ultimo nonchè il meccanismo di sollevamento vengono misurati separatamente, salvo siano raggruppati. 
+ 
+
+ Quando questi due dispositivi sono raggruppati, le misure riguardano tutto il complesso. 
+ 
+
+ Per le misurazioni acustiche, il meccanismo di sollevamento e il generatore d'energia devono essere installati e utilizzati secondo le indicazioni del costruttore. Il generatore integrato alla gru deve funzionare al regime nominale indicato dal fabbricante. Il meccanismo di sollevamento deve funzionare come specificato ai punti 6.2.1 e 6.2.2 sia in salita sia in discesa. 
+ 
+
+ 6.2.1 Prova della sorgente sonora a vuoto 
+ 
+
+ Il meccanismo di sollevamento deve funzionare a vuoto alla velocità di rotazione del tamburo corrispondente alla massima velocità di spostamento del gancio. Tale velocità è indicata dal costruttore. 
+ 
+
+ 6.2.2. Prove sotto carico 
+ 
+
+ Il meccanismo di sollevamento deve funzionare con una tensione delle funi al tamburo corrispondente alla portata massima (per lo sbraccio minimo) e alla massima velocità di spostamento del gancio: 
+ 
+
+ I valori di portata e di velocità sono forniti dal costruttore. Il valore della velocità deve essere controllato durante la prova. 
+ 
+
+ Nota 
+ 
+
+ Per l'espressione dei risultati si adotta il maggiore dei due livelli (salita o discesa) di potenza acustica. 
+ 
+
+ 6.3. Luogo delle misurazioni 
+ 
+
+ 6.3.1. Misurazioni relative al meccanismo di sollevamento 
+ 
+
+ Allorchè si effettuano misurazioni acustiche, il meccanismo di sollevamento deve essere montato in una delle configurazioni sotto indicate. La configurazione scelta deve essere descritta nel verbale di prova. 
+ 
+
+ a) Meccanismo di sollevamento situato ai piedi della torre 
+ 
+
+ La gru montata deve essere collocata su una superficie piana riflettente in cemento o in asfalto non poroso. 
+ 
+
+ b) Meccanismo di sollevamento situato sul braccio contrappeso. 
+ 
+
+ La distanza dal suolo del meccanismo di sollevamento deve essere di almeno 12 m. 
+ 
+
+ c) Meccanismo di sollevamento fissato al suolo. 
+ 
+
+ Il suolo su cui è fissato il meccanismo deve essere costituito da una superficie piana riflettente di cemento o di asfalto non poroso. 
+ 
+
+ 6.3.2. Misurazione relativa al generatore di energia 
+ 
+
+ Quando il generatore di energia è montato sulla gru associato o meno al meccanismo di sollevamnto, la gru viene posta su una superficie piana riflettente in cemmento o in asfalto non poroso. 
+ 
+
+ 6.4. Superficie di misurazione, distanza di misurazione, posizioni e numero dei punti di misurazione 
+ 
+
+ 6.4.1. Superficie e distanza di misurazione 
+ 
+
+ a) Misurazioni effettuate a livello del suolo 
+ 
+
+ La superficie di misurazione da utilizzare per la prova alivello del suolo è un emisfero (figura 1 e figura 2). Il centro dell'emisfero è la proiezione verticale sulla piana riflettente del centro geometrico del telaio del meccanismo di sollevamento, del generatore di energia o del dispositivo raggruppato. 
+ 
+
+ Il raggio è pari a: 
+ 
+
+ - 4 m, quando la maggior dimensione del meccanismo di sollevamento, del generatore di energia o dell'insieme raggruppato è inferiore o pari a 1,50 m; 
+ 
+
+ - 10 m, quando la maggior dimensione del meccanismo di sollevamento, del generatore di energia o dell'insieme raggruppato è superiore o pari a 1,50 m; 
+ 
+
+ b) Misurazioni effettuate a livello del braccio della gru 
+ 
+
+ Quando il meccanismo di sollevamento si trova a livello del braccio contrappeso della gru, la superficie di misurazione sarà una sfera di 4 m di raggio, il cui centro corrisponde al centro geomertrico del meccanismo (figura 3). 
+ 
+
+ 6.4.2. Ubicazione e numero dei punti di misurazione 
+ 
+
+ a) Misurazioni a livello del suolo 
+ 
+
+ Per le misurazioni acustiche a livello del suolo, i punti di misura sono 6, e precisamente i punti 2 - 4 - 6 - 8 - 10 - 12, disposti conformemente al punto 6.4.2.2 dell'allegato I. 
+ 
+
+ Per le misurazioni del meccanismo di sollevamento o di questo ultimo associato col generatore di energia, l'asse x del sistema di coordinare dei punti di misura è parallelo all'asse del tamburo del meccanismo di sollevamento. 
+ 
+
+ b) Misurazioni a livello del braccio della gru 
+ 
+
+ Quando il meccanismo di sollevamento è situato sul braccio contrappeso della gru, i punti di misurazione vengono disposti come segue e come indicato all figura 3. 
+ 
+
+ Quattro punti di misura su un piano orizzontale che passa per il centro geometrico del meccanismo (H = h/2) 
+ 
+
+ r 
+ 
+
+ ove L = --------------------- = 2,80 m 
+ 
+
+ (radice quadra di 2) 
+ 
+
+ 1 
+ 
+
+ e d = 2,80 m -- 
+ 
+
+ 2 
+ 
+
+ r = raggio della superficie di misurazione = 4 m 
+ 
+
+ L = semidistanza fra due punti di misura consecutivi, 
+ 
+
+ I = lunghezza del meccanismo (seguendo l'asse del braccio della gru), b = larghezza del meccanismo, 
+ 
+
+ h = altezza del meccanismo, 
+ 
+
+ d = distanza tra il sostegno dei microfoni ed il meccanismo nel senso del braccio della gru. 
+ 
+
+ Gli altri due punti di misura sono situati ai punti di intersezione tra la sfera e la verticale che passa per il centro geometrico del meccanismo. 
+ 
+
+ Nota 
+ 
+
+ La misurazione può essere facilitata utilizzando, per fissare i microfoni, un dispositivo che consenta di verificare da terra la posizione e la calibratura dei microfoni. Ai fini della misurazione, tale dispositivo, insieme con i microfoni, è montato sul meccanismo di sollevamento. 
+ 
+
+ 7. ESECUZIONE DELLE MISURAZIONI 
+ 
+
+ 7.1.1. Per le correzioni, si prende in considerazione soltanto il 
+ 
+
+ rumore di fondo 
+ 
+
+ Nota 
+ 
+
+ All'atto della misurazione per determinare il livello di potenza acustica del meccanismo di sollevamento si devono prendere le opportune disposizioni affinchè il rumore parassita causato direttamente o indirettamente dal generatore di energia non influisca sulle misurazioni del rumore del meccanismo di sollevamento. 
+ 
+
+ 7.1.5. Presenza di ostacoli 
+ 
+
+ Per accertarsi che le disposizioni del punto 6.3, terzo comma, dell'allegato I sono rispettate, è sufficiente un controllo visivo in una zona circolare di raggio pari a 3 volte quello dell'emisfero di misura il cui centro coincida con quello dell'emisfero. 
+ 
+
+ 7.2. Misura del livello di pressione acustica LpA 
+ 
+
+ La misura dei livelli di pressione acustica del meccanismo di sollevamento e/o del generatore di energia si effettua conformemente alle prescrizini indicate al punto 7.2, primo comma, dell'allegato I. 
+ 
+
+ I livelli di pressione acustica LpA devono essere misurati almeno tre volte. Se i livelli di potenza acustica ottenuti con due di tali misiurazioni non si discostano di oltre 1 dB, non sono necessarie altre misurazioni; altrimenti, si devono proseguire le misurazioni fino a che i risultati di due, o tre, di esse non si discostino di oltre 1 dB. Il livello quadratico medio dei valori così ottenuti, che non si discostino di oltre 1 dB, viene considerato come risultato della misurazione. 
+ 
+
+ Per misurare i livelli di pressione acustica del meccanismo di sollevamento, la durata di misurazione è pari a (tr + tf) secondi, dove: 
+ 
+
+ - tr p il tempo, in secondi, che precede il comando di frenatura, con il meccanismo di sollevamento funzionante alle velocità di cui ai punti 6.2.1 e 6.2.2. Per le prove, tr = 3 secondi; 
+ 
+
+ - tf è il tempo, in secondi, che trascorre tra l'istante del comando di frenatura e l'arresto completo del gancio. 
+ 
+
+ Se si utilizza un integratore, il tempo di integrazione deve essere pari a (tr + tf) secondi. 
+ 
+
+ 8. UTILIZZAZIONE DEI RISULTATI 
+ 
+
+ Per applicare le disposizioni previste dalla presente direttiva, come livello della potenza acustica di una gru a torre si assumerà il più elevato dei livelli calcolati conformemente al punto 7.2, ottenuti in seguito alle prove a vuoto e sotto carico previste dal punto 6.2. 
+ 
+
+ 8.1.1. Livello medio in un punto di misurazione 
+ 
+
+ Il livello medio in un punto di misurazione i risulta da: 
+ 
+
+ 1 
+ 
+
+ Lpi = 10 log10 --------- (10 0,1 L li. tr + 10 0,1 L 2i. tf) 
+ 
+
+ tr + tf 
+ 
+
+ tf - definito al punto 7.2, 
+ 
+
+ tr - definito al punto 7.2, 
+ 
+
+ L1i = livello di pressione acustica nel punto di misurazione i durante il tempo tr come indicato al punto 7.2, 
+ 
+
+ L2i = livello di pressione acustica nel punto di misurazione i durante il tempo tf come indicato al punto 7.2. 
+ 
+
+ 8.2. Non è preso in considerazione. 
+ 
+
+ 8.3. Calcolo dell'area S della superficie di misura 
+ 
+
+ a) Superficie di misura emisferica 
+ 
+
+ L'area S della superficie di misura, espressa in m2, è pari a: 
+ 
+
+ S = 2 (pi greco) r2 
+ 
+
+ Nota 
+ 
+
+ Il livello della superficie 10 log10 S/So è pari a 20 dB per r = 4 m 28 dB per r = 10 m 
+ 
+
+ b) Superficie di misura sferica 
+ 
+
+ L'area S della superficie di misura, espressa in m2, è pari a: 
+ 
+
+ S = 4 (pi greco) r2 
+ 
+
+ = 200 m2 
+ 
+
+ Nota 
+ 
+
+ Il livello della superficie 10 log10 S/So è pari a 23 dB. 
+ 
+
+ 8.6.2. Tenuto conto del punto 6.3 dell'allegato I la costante C non va presa in considerazione e K2 = 0. 
+ 
+
+ Superficie di misurazione a seconda della posizione del meccanismo di 
+ 
+
+ sollevamento 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Disposizione dei punti di misura quando il meccandismo di 
+ 
+
+ sollevamento è fissato al suolo 
+ 
+
+ I punti di misura 2, 4, 6, 8, 10, 12. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Disposizione dei punti di misura (1-6) quando il meccanismo di 
+ 
+
+ sollevamento si trova sul braccio contrappeso della gru 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico

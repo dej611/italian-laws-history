@@ -1,0 +1,1166 @@
+ALLEGATO I 
+ 
+
+ (art. 4) 
+ 
+
+ METODO DI MISURA DEL RUMORE PRODOTTO DALLE MACCHINE FUNZIONANTI 
+ 
+
+ ALL'APERTO 
+ 
+
+ 1. OGGETTO 
+ 
+
+ Il presente metodo ha lo scopo di determinare il rumore prodotto da tutti i tipi di macchine, parti di macchine o installazioni funzionanti all'aperto. Nel presente metodo, le macchine, le parti di macchine o installazioni sono denominate sorgenti sonore. 
+ 
+
+ Il presente metodo stabilisce inoltre i vari criteri acustici che possono essere adottati per caratterizzare una sorgente sonora, nonchè la maniera di determinarli. 
+ 
+
+ I valori ottenuti costituiscono i dati di base per il controllo della conformità delle emissioni sonore delle macchine alle prescrizioni e per l'organizzazione del cantiere per quanto riguarda la protezione contro i rumori nocivi. Salvo indicazione contraria, tali valori si intendono tolleranze comprese. 
+ 
+
+ Il presente metodo è applicabile in mancanza di disposizioni diverse o complementari che tengano conto delle caratteristiche specifiche di taluni tipi di macchine. 
+ 
+
+ 2. SETTORE DI APPLICAZIONE 
+ 
+
+ 2.1. Tipo di rumore 
+ 
+
+ Il presente metodo si applica a ogni tipo di rumore emesso dalle sorgenti sonore utilizzate normalmente all'aperto. 
+ 
+
+ 2.2. Dimensioni della sorgente sonora 
+ 
+
+ Il presente metodo si applica alle sorgenti sonore di qualsiasi dimensione, salvo disposizioni contrarie contenute in norme particolari. 
+ 
+
+ 3.DEFINIZIONI 
+ 
+
+ 3.1. Livello di pressione acustica LpA 
+ 
+
+ Il livello di pressione acustica LpA si ottiene applicando la ponderazione A al livello di pressione acustica Lp. 
+ 
+
+ Il livello di pressione acustica Lp, espresso in decibel, di un rumore è dato da: 
+ 
+
+ 
+ p 
+ 
+
+ 
+ Lp = 20 log10 ---- 
+ 
+
+ 
+ po 
+ 
+
+ dove: 
+ 
+
+ - p è il valore efficace della pressione acustica, misurato in un 
+ 
+
+ determinato punto, espresso in Pascal 
+ 
+
+ - po è la pressione acustica efficace di riferimento, pari a 20 (fi greco) Pa 
+ 
+
+ Il valore LpA del livello di pressione acustica ponderato A, espresso in decibel, si ottiene utilizzando la ponderazione A nella sequenza di misura. 
+ 
+
+ 3.2. Superficie di misura 
+ 
+
+ La superficie di misura con area S è una superficie teorica che racchiude la sorgente e sulla quale sono situati i punti di misura (vedi punto 6.4.). 
+ 
+
+ 3.3. Livello di pressione acustica di superficie LpAm 
+ 
+
+ "Il livello di pressione acustica di superficie LpAm è il livello, calcolato in base al metodo di cui al punto 8.4., del valore quadratico medio delle pressioni acustiche rilevate sulla superficie di misura. 
+ 
+
+ 3.4. Livello di potenza acustica LwA 
+ 
+
+ Il livello di potenza acustica LwA si ottiene applicando la ponderazione A al livello di potenza acustica Lw. 
+ 
+
+ Il livello di potenza acustica Lw, espresso in decibel, di una sorgente sonora è dato da: 
+ 
+
+ 
+ W 
+ 
+
+ 
+ Lw = 10 log10 ---- 
+ 
+
+ 
+ Wo 
+ 
+
+ dove: 
+ 
+
+ - W è la potenza acustica totale, espressa in Watt, emessa dalla sorgente sonora; 
+ 
+
+ - Wo è la potenza acustica di riferimento, pari a 10-12W 
+ 
+
+ Il valore Lwa del livello di potenza acustica ponderato A, espresso in decibel, si ottiene utilizzando la ponderazione A nella sequenza di misura. 
+ 
+
+ 3.5. Valore limite del livello di potenza acustica Lwa1 
+ 
+
+ 3.6. Indice di direttività DI 
+ 
+
+ L'indice di direttività DI, espresso in decibel, da prendere in considerazione per l'applicazione del presente metodo è dato dalla formula: 
+ 
+
+ 
+ DI = LpAmax - LpAm + 3 
+ 
+
+ dove: 
+ 
+
+ - LpAmax è il più elevato dei livelli di pressione acustica, registrato in uno dei punti di misura di cui al punto 6.4.2, calcolati secondo il metodo di cui al punto 8.1.1 e rettificati secondo i principi generali di cui ai punti 8.6.1, 8.6.3 e 8.6.4. 
+ 
+
+ - LpAm è determinato secondo il metodo di cui al punto 8.4. 
+ 
+
+ - 3 è un termine aggiuntivo convenzionale. 
+ 
+
+ Per determinare i valori di LpAmax e di LpAm si considerano soltanto i punti di misura prescritti. 
+ 
+
+ 3.7. Rumore estraneo 
+ 
+
+ Per rumore estraneo si intende il rumore risultante da un rumore di fondo e da un rumore parassita. 
+ 
+
+ 3.7.1. Rumore di fondo 
+ 
+
+ Per rumore di fondo si intende qualsiasi rumore presente nei punti di misura che non è generato dalla sorgente sonora. 
+ 
+
+ 3.7.2. Rumore parassita 
+ 
+
+ Per rumore parassita si intende qualsiasi rumore presente nei punti di misura, generato sì dalla sorgente sonora, ma non direttamente irradiato da questa. 
+ 
+
+ 4. CRITERI DA CONSIDERARE PER L'ESPRESSIONE DEI RISULTATI 
+ 
+
+ Criteri acustici ambientali 
+ 
+
+ Il criterio acustico ambientale delle sorgenti sonore è espresso: 
+ 
+
+ - o mediante il livello di potenza acustica della sorgente sonora Lwa, 
+ 
+
+ - o mediante il livello di potenza acustica della sorgente sonora Lwa, completato dall'indice di direttività DI. Tuttavia, quando il livello di potenza acustica calcolato Lwa è inferiore al valore limite del livello di potenza acustica Lwa1 di una quantità precisata nella direttiva particolare, l'indice di direttività DI è fornito soltanto a titolo informativo. 
+ 
+
+ 5. STRUMENTAZIONE 
+ 
+
+ 5.1. Caratteristiche generali 
+ 
+
+ La strumentazione deve consentire di misurare il livello ponderato A della pressione acustica quadratica media. Il livello della media quadratica temporale per un punto di misura si ottiene o per lettura diretta sullo strumento oppure mediante il calcolo di cui al punto 11. 
+ 
+
+ 5.2. Strumenti di misura 
+ 
+
+ Per soddisfare la condizione precedente si può utilizzare: 
+ 
+
+ a) un fonometro che risponda almeno ai requisiti della pubblicazione IEC 651, 1979, 1a edizione, per il tipo di strumenti della classe 1.
+ 
+
+ Lo strumento verrà utilizzato in posizione di risposta "S". 
+ 
+
+ b) un integratore che effettui un'integrazione analogica o digitale del segnale elevato al quadrato in un determinato intervallo di tempo. 
+ 
+
+ Nota 
+ 
+
+ Qualora per le misurazioni si utilizzino strumenti diversi dal fonometro di precisione o combinazioni di strumenti, come gli integratori, tutte le loro caratteristiche dovranno essere conformi ai requisiti specificati nella pubblicazione IEC 651, 1979, 1a edizione. 
+ 
+
+ 5.3. Microfono e relativo cavo 
+ 
+
+ Va utilizzato un microfono, con relativo cavo, conforme alla pubblicazione IEC 651, 1979, 1a edizione, tarato per le misurazioni in campo libero. 
+ 
+
+ 5.4. Rete di ponderazione 
+ 
+
+ Va utilizzata una rete di ponderazione A conforme alle specificazioni della pubblicazione IEC 651, 1974, 1a edizione. 
+ 
+
+ 5.5. Controllo dell'apparecchiatura di misura 
+ 
+
+ 5.5.1. Prima delle prove si deve controllare la qualità acustica di tutta l'apparecchiatura (strumenti di misura, microfono e cavo compresi) mediante una sorgente sonora di riferimento la cui precisione sia di almeno 0,5 decibel (per esempio un calibratore); tutta l'apparecchiatura deve essere nuovamente controllata subito dopo ogni serie di misurazioni. 
+ 
+
+ 5.5.2. Questi controlli in loco debbono essere completati da tarature su gamma più completa in un laboratorio specificamente attrezzato a tale scopo, da effettuarsi almeno ogni anno. 
+ 
+
+ 6. CONDIZIONI DI MISURA 
+ 
+
+ Tutti i particolari riguardanti le condizioni di installazione, di funzionamento e di utilizzazione di ciascuna sorgente sonora saranno specificati da norme particolari. 
+ 
+
+ Le indicazioni generali vengono fornite ai punti da 6.1 a 6.4. 
+ 
+
+ 6.1. Oggetto della misurazione 
+ 
+
+ La sorgente sonora da provare deve essere definita esattamente con le sue attrezzature, quali per esempio le attrezzature ausiliarie, il generatore, ecc. che ne costituiscono parte integrante. 
+ 
+
+ Nel caso di sorgenti sonore dotate di dispositivi intercambiabili, quali le varie attrezzature utilizzate per un lavoro specifico, le misure vanno effettuate almeno sulla macchina munita dell'attrezzatura principale. Il risultato della misurazione è valido soltanto per la combinazione utilizzata. 
+ 
+
+ Se del caso, norme particolari preciseranno anche come tener conto, all'atto della misurazione, dell'eventuale presenza di attrezzature che non sono dei veri e propri elementi costitutivi della macchina (utensili isolati, ecc), ma che sono indispensabili al funzionamento della macchina stessa. 
+ 
+
+ 6.2. Funzionamento della sorgente sonora durante le misurazioni 
+ 
+
+ Per creare condizioni riproducibili e per poter calcolare i valori di emissione sonora caratteristici della sorgente sonora, occorre definire con esattezza, nelle direttive particolari, le condizioni di funzionamento della sorgente sonora, condizioni che dovranno essere rispettate all'atto della misurazione. 
+ 
+
+ Le misure comportano, per principio: 
+ 
+
+ 6.2.1. Una prova della sorgente sonora non sotto carico, il cui motore gira alla velocità nominale, senza però azionare gli organi di lavoro o di traslazione. 
+ 
+
+ 6.2.2. Prove effettuate sotto carico 
+ 
+
+ In questo caso le condizioni di funzionamento prescritte corrispondono sia alle effettive modalità operative della sorgente sonora sia ad una modalità operativa convenzionale che produca, in linea di massima, effetti e condizioni di sforzo analoghi a quelli constatati in occasione del lavoro effettivo. Durante la misurazione va rispettato un funzionamento continuo della sorgente sonora o un ciclo periodico ben determinato delle operazioni. Per ogni sorgente sonora le condizioni di funzionamento sono specificate dalle norme particolari. 
+ 
+
+ 6.3. Luogo delle misurazioni 
+ 
+
+ La sorgente sonora va collocata in condizioni di campo libero e, salvo prescrizione contraria, su un piano riflettente secondo le modalità del suo funzionamento reale e in un punto in cui il rumore estraneo si abbastanza debole (vedi punto 8.6.). 
+ 
+
+ Qualora la prova prevista in una norma particolare richieda l'uso di una superficie non riflettente le sue caratteristiche vi saranno precisate. 
+ 
+
+ Attorno al luogo delle misurazioni non sono ammessi ostacoli riflettenti che possano influire sui risultati della misurazione. 
+ 
+
+ Se si utilizza una sorgente sonora di riferimento, questa dovrà possedere i requisiti minimi specificati nella norma ISO 3741, allegato B, edizione del 15 luglio 1975. 
+ 
+
+ 6.4. Superficie di misura, distanza di misura, ubicazione e numero 
+ 
+
+ dei punti di misura 
+ 
+
+ 6.4.1. Superficie di misura, distanza di misura 
+ 
+
+ La superficie di misura è una superficie teorica che racchiude la sorgente sonora ed è delimitata dall'area di prova sulla quale è collocata la macchina. Può anche essere costituita da vari piani (figura 1). Deve essere di forma geometrica semplice, preferibilmente una superficie corrispondente a un emisfero o un parallelepipedo rettangolo. La sorgente sonora viene collocata al centro dell'area di prova (figure 2 e 3). 
+ 
+
+ Si preferirà in linea di massima una grande distanza di misura. 
+ 
+
+ Nel caso dell'emisfero questo avviene quando al distanza tra l'emisfero e la superficie esterna della macchina non è inferiore a due volte la dimensione maggiore (lunghezza, larghezza, altezza) della sorgente sonora. 
+ 
+
+ Se nessuna dimensione della sorgente sonora da provare supera i 4 metri, la superficie di misura corrisponderà preferibilmente ad un emisfero con un raggio di 10 m. 
+ 
+
+ Se nessuna delle dimensione supera 1,5 m, la superficie di misura corrisponderà preferibilmente ad un emisfero con raggio di 4 m. 
+ 
+
+ Con sorgenti sonore di grandissime dimensioni, l'esecuzione delle prove presenta difficoltà d'ordine pratico. In questo caso, una superficie di misura corrispondente ad un parallelepipedo può offrire vantaggi. 
+ 
+
+ Quando in casi particolari siano indicate specifiche superfici di misura, tali superfici sono le uniche da usare. 
+ 
+
+ Note 
+ 
+
+ a) Nel determinare la superficie della sorgente sonora, non si tiene conto delle parti sporgenti della sorgente sonora che non contribuiscono in modo essenziale all'irradiamento acustico. 
+ 
+
+ b) Per le sorgenti sonore, la cui dimensione maggiore (lunghezza, larghezza, altezza) è superiore alla metà della distanza di misura, i risultati della prova sono maggiormente incerti. A tale incertezza si può ovviare aumentando il numero dei punti di misura. Se la distanza tra due punti di misura contigui è inferiore alla distanza di misura, la precisione di misura è uguale a quella ottenuta con l'emisfero definito precedentemente. 
+ 
+
+ 6.4.2. Ubicazione e numero dei punti di misura. 
+ 
+
+ 6.2.1. Caratteristiche generali 
+ 
+
+ se la sorgente sonora, per la sua forma geometrica o modalità di funzionamento, (per esempio, lo spostamento), presenta un orientamento prevalente, i punti di misura saranno distribuiti secondo un sistema di coordinate fissato di conseguenza. L'origine del sistema di coordinate deve possibilmente coincidere con la proiezione verticale del centro geometrico della sorgente sonora. 
+ 
+
+ 6.4.2.2. Ubicazione dei punti di misura nel caso di un emisfero di raggio. 
+ 
+
+ Nel caso di un emisfero, i punti di misura sono in linea di massima dodici e hanno in tal caso le seguenti coordinate (vedi figura 2): 
+ 
+
+ 
+ x = (x/r) r 
+ 
+
+ 
+ y = (y/r) r 
+ 
+
+ 
+ z = (z/r) r 
+ 
+
+ 
+ Per x/r, z/r e z verranno assunti i valori che figurano nella
+ 
+
+ 
+ seguente tabella I: 
+ 
+
+ TABELLA I 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ | x/r | y/r | z/r | z
+ 
+
+ 
+ 1 | 1 | 0 | - | 1,5 m
+ 
+
+ 
+ 2 | 0,7 | 0,7 | - | 1,5 m
+ 
+
+ 
+ 3 | 0 | 1 | - | 1,5 m
+ 
+
+ 
+ 4 | -0,7 | 0,7 | - | 1,5 m
+ 
+
+ 
+ 5 | -1 | 0 | - | 1,5 m
+ 
+
+ 
+ 6 | -0,7 | -0,7 | - | 1,5 m
+ 
+
+ 
+ 7 | 0 | -1 | - | 1,5 m
+ 
+
+ 
+ 8 | 0,7 | -0,7 | - | 1,5 m
+ 
+
+ 
+ 9 | 0,65 | 0,27 | 0,71 | -
+ 
+
+ 
+ 10 | -0,27 | 0,65 | 0,71 | -
+ 
+
+ 
+ 11 | -0,65 | -0,27 | 0,71 | -
+ 
+
+ 
+ 12 | 0,27 | -0,65 | 0,71 | -
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ubicazione dei punti di misura su un parallelepipedo. 
+ 
+
+ Se la superficie di misura è su un parallelepipedo, i punti di misura sono, per esempio, quelli rappresentati nella figura 3. Il numero e la disposizione dei punti di misura dipendono dalle dimensioni della sorgente. Occorre tuttavia prevedere almeno un punto di misura al centro di ciascuna delle facce (in linea di massima 4 laterali ed 1 superiore) e sui quattro angoli della faccia superiore di un parallelepipedo. Inoltre bisogna tener presente la nota b) del punto 6.4.1. 
+ 
+
+ Osservazioni in merito ai punti 6.4.2.2 e 6.4.2.3 
+ 
+
+ Le norme particolari possono prescrivere una diversa disposizione e un numero diverso dei punti di misura. 
+ 
+
+ 7. ESECUZIONE DELLE MISURE 
+ 
+
+ 7.1. Misura della qualità acustica del luogo delle misurazioni 
+ 
+
+ Occorre verificare le condizioni ambientali del luogo delle misurazioni prima di procedere alle misurazioni stesse. I fattori di influenza da controllare sono i seguenti: 
+ 
+
+ a) rumori estranei, 
+ 
+
+ b) influsso del vento, 
+ 
+
+ c) condizioni operative, per esempio: vibrazioni, temperatura, umidità, pressione barometrica, 
+ 
+
+ d) qualità acustica dell'area di misura, 
+ 
+
+ e) rilessioni acustiche sugli ostacoli esistenti sul luogo delle misurazioni tali da modificare i risultati delle misure acustiche. 
+ 
+
+ 7.1.1. Rumori estranei 
+ 
+
+ I rumori estranei da prendere in considerazione saranno eventualmente indicati dalle norme particolari. 
+ 
+
+ a) Misurazione del rumore di fondo 
+ 
+
+ Il rumore di fondo è rilevato nei punti di misura (vedi punto 6.4.2) a sorgente sonora non funzionante (senza emissione sonora) (vedi metodo di cui al punto 7.2). 
+ 
+
+ b) Misurazione del rumore parassita 
+ 
+
+ Il rumore parassita è rilevato nei punti di misura (vedi punto 6.4.2) dopo aver eventualmente isolato la sorgente sonora con schermi (vedi metodo di cui al punto 7.2). 
+ 
+
+ Nota: 
+ 
+
+ Per questi schermi è in generale sufficiente una massa di 25 kg/m2.
+ 
+
+ è preferibile renderli fonoassorbenti dalla sorgente sonora da sottoporre a prova. 
+ 
+
+ 7.1.2. Velocità e direzione del vento 
+ 
+
+ La velocità e la direzione del vento vanno determinate in un punto situato al di sopra dell'area di misura. Occorre tener conto delle disposizioni previste al punto 8.6.4. 
+ 
+
+ 7.1.3. Misura della temperatura, dell'umidità, della pressione barometrica e di altri fattori di perturbazione. 
+ 
+
+ Verranno misurati soltanto i fattori di perturbazione tali da modificare le misure acustiche (vedi punto 8.6.3). 
+ 
+
+ 7.1.4. Misura della qualità acustica dell'area di prova 
+ 
+
+ La qualità acustica dell'area di prova può essere definita tramite la costante C di cui al punto 8.6.2. 
+ 
+
+ La procedura da utilizzare per determinare il valore della costante C definita al punto 8.6.2 verrà indicata in altra sede. Questa costante permette anche di determinare se un suolo parzialmente riflettente può essere validamente utilizzato come area di misura. 
+ 
+
+ 7.1.5. Presenza di ostacoli 
+ 
+
+ In generale, è sufficiente un controllo visivo per verificare il rispetto delle prescrizioni del terzo paragrafo del punto 6.3. La zona da controllare è definita dalle direttive particolari. 
+ 
+
+ 7.2. Misurazioni del livello di pressione acustica LpA 
+ 
+
+ Per misurare il livello di pressione acustica LpA si utilizza uno degli apparecchi di cui al punto 5.2. Il valore del livello di pressione acustica LpA, in un determinato punto di misura, corrispnde al valore quadratico medio temporale delle pressioni acustiche. Se si utilizza un fonometro, si procederà, in questo punto, ad una serie di letture di cui si farà la media temporale secondo le indicazioni del punto 11. 
+ 
+
+ In linea di massima, il tempo di misurazione deve essere di 15 secondi in ogni punto di misura. Nel caso di cicli di lavoro con variazioni periodiche di livello, la durata di una misurazione dovrà coprire in linea di massima almeno tre cicli di lavoro completi. Se si utilizza un fonometro integratore, il tempo di integrazione sarà uguale al tempo di misurazione. 
+ 
+
+ 7.3. Individuazione della natura del rumore generato dalla sorgente sonora 
+ 
+
+ Per motivi di protezione dell'ambiente, è opportuno conoscere la natura del rumore emesso dalla sorgente sonora per valutarne il disturbo. Risulta quindi necessario determinare un metodo per caratterizzare un rumore ad impulsi e un rumore a componenti discrete. 
+ 
+
+ 7.3.1. Individuazione di un rumore con componenti ad impulsi 
+ 
+
+ Il confronto tra le indicazioni di un fonometro a risposta "lenta" e quelle di un fonometro di precisione per impulsi, permette di determinare se il rumore contiene o no componenti ad impulsi (pubblicazione IEC 651, 1979, 1a edizione). Come indicazione del carattere del rumore con componenti ad impulsi, si prenderà, seguendo il presente metodo, la differenza fra i valori quadratici medi nel tempo dei livelli di pressione acustica, misurati con il fonometro prima in posizione "lenta" e quindi in posizione "impulsi". 
+ 
+
+ Il livello di pressione acustica misurato in posizione "impulsi" è chiamato "livello di pressione acustica con componenti ad impulsi". 
+ 
+
+ Queste determinazioni sono effettuate in uno dei punti di misura prescritti. 
+ 
+
+ Un rumore è considerato con componenti ad impulsi se la differenza tra i due suddetti livelli è superiore o uguale a 4 decibel. 
+ 
+
+ 8. UTILIZZAZIONE DEI RISULTATI 
+ 
+
+ 8.1. Calcolo dei valori medi 
+ 
+
+ 8.1.1. Valore medio in un punto di misura 
+ 
+
+ I valori ottenuti con le misurazioni di cui al punto 7.2 sono valori quadratici medi temporali. 
+ 
+
+ 8.1.2. Valore medio sulla superficie di misura 
+ 
+
+ Sulla base dei valori ottenuti conformemente al metodo di cui al punto 8.1.1., si calcolerà il livello corrispondente al valore quadratico medio spaziale delle pressioni acustiche di tutti i punti di misura. 
+ 
+
+ 8.2. Calcolo del livello medio del rumore estraneo 
+ 
+
+ Il livello medio del rumore estraneo sulla superficie di misura si ottiene applicando il metodo di cui al punto 8.1.2. al livello dei rumori estranei determinato nei vari punti di misura. 
+ 
+
+ Il livello del rumore estraneo, in un punto di misura, corrisponde al livello della somma quadratica delle pressioni acustiche derivanti rispettivamente dal rumore di fondo e dai rumori parassiti in quel punto. 
+ 
+
+ 8.3.Calcolo dell'area S della superficie di misura. 
+ 
+
+ Nel calcolo di un emisfero, l'area S della superficie di misura, in m2, è uguale a: 
+ 
+
+ 
+ S = 2 (pi greco) r2 
+ 
+
+ dove r = raggio dell'emisfero di misura in m. 
+ 
+
+ Nel caso di un parallelepipedo, l'area S della superficie di misura, in m2, è uguale a: 
+ 
+
+ 
+ S = 4 (ab + bc + ca) 
+ 
+
+ dove: 
+ 
+
+ 2a = 2d + 1: lunghezza della superficie di misura in m 
+ 
+
+ 2b = 2d + e: larghezza della superficie di misura in m 
+ 
+
+ c = d + h: altezza della superficie di misura in m 
+ 
+
+ d: distanza tra sorgente sonora e superficie 
+ 
+
+ 
+ di misura in m 
+ 
+
+ l: lunghezza della sorgente sonora in m 
+ 
+
+ e: larghezza della sorgente sonora in m 
+ 
+
+ h: altezza della sorgente sonora in m. 
+ 
+
+ è sufficiente un calcolo approssimato dell'area della superficie di misura. Si noti che un errore di (+ -) 20% sul calcolo di quest'area corrisponde ad una differenza di (+ -) 1 decibel sul termine di: 
+ 
+
+ 
+ S 
+ 
+
+ 
+ 10 log10 ---- (livello di superficie) 
+ 
+
+ 
+ So 
+ 
+
+ 8.4. Calcolo del livello di pressione acustica di superficie LpAm 
+ 
+
+ Il livello di pressione acustica di superficie è quello calcolato secondo il metodo di cui al punto 8.1.2. e successivamente corretto conformemente ai punti 8.6.1., 8.6.3. e 8.6.4. 
+ 
+
+ 8.5. Calcolo del livello di potenza acustica LWA 
+ 
+
+ Il livello della potenza acustica LWA della sorgente sonora è calcolato con la seguente relazione: 
+ 
+
+ 
+ S 
+ 
+
+ 
+ Lwa = LpAm + 10 log10 ---- + K2 
+ 
+
+ 
+ So 
+ 
+
+ dove: 
+ 
+
+ Lwa = livello di potenza acustica della sorgente sonora sottoposta a prova, espresso in dB (vedi punto 3.4) 
+ 
+
+ LpAm = livello di pressione acustica di superficie, espresso in dB, come definito al punto 3.3. 
+ 
+
+ S = area della superficie di misura in m2, calcolata secondo il 
+ 
+
+ metodo di cui al punto 8.3 
+ 
+
+ So = area di riferimento di 1 m2 
+ 
+
+ K = termine di correzione relativo all'area di misura espresso in dB; 
+ 
+
+ in generale corrisponde a zero, a meno che, in considerazione delle disposizioni del punto 8.6.2. in concomitanza con quelle delle direttive particolari, esso non debba essere uguale a C. 
+ 
+
+ Nota (vedi punto 6.4.1) 
+ 
+
+ 
+ S 
+ 
+
+ 
+ Se r = 4m, 10 log10 ---- = 20 dB 
+ 
+
+ 
+ So 
+ 
+
+ 
+ S 
+ 
+
+ 
+ Se r = 10m, 10 log10 ---- = 28 dB 
+ 
+
+ 
+ So 
+ 
+
+ 8.6 Correzioni da apportare alle misure 
+ 
+
+ 8.6.1. Rumori estranei 
+ 
+
+ Il livello medio di pressione acustica rilevato sulla superficie di misura, calcolato secondo il metodo di cui al punto 8.1, va eventualmente corretto per tener conto dei rumori estranei determinati secondo il metodo di cui al punto 8.2. Il temine di correzione K1, in decibel, che deve essere sottratto al livello medio di pressione acustica sulla superficie di misura, è indicato nella tabella II. 
+ 
+
+ TABELLA II 
+ 
+
+ 
+ 
+
+ Differenza (in dB) tra il livello 
+ 
+
+ di pressione acustica misurato 
+ 
+
+ con una sorgente sonora funzionante Termine di correzione K1 in dB 
+ 
+
+ e il livello di pressione acustica 
+ 
+
+ dovuto al solo rumore estraneo 
+ 
+
+ 
+ 
+
+ 
+ inferiore a 6 Non vi è misura valida 
+ 
+
+ 
+ 6 1,0 
+ 
+
+ 
+ 7 1,0 
+ 
+
+ 
+ 8 1,0 
+ 
+
+ 
+ 9 0,5 
+ 
+
+ 
+ 10 0,5 
+ 
+
+ superiore a 10 Non vi è correzione 
+ 
+
+ 
+ 
+
+ 8.6.2. Qualità acustica del luogo delle misurazioni 
+ 
+
+ La costante ambientale C che caratterizza la qualità acustica del luogo delle misurazioni è data dalla relazione: 
+ 
+
+ 
+ C = LWAr - LWAs 
+ 
+
+ dove: 
+ 
+
+ LWAr: è il livello di potenza acustica nominale della sorgente di 
+ 
+
+ riferimento espressa in decibel 
+ 
+
+ LWAs: è il livello di potenza acustica nominale della sorgente di riferimento, calcolato in base alle misure effettuate sull'area di misura, tenendo conto del punto 7.1, lettere a), b) e c). 
+ 
+
+ Non occorre determinare alcuna costante ambientale C se il suolo dell'area di misura è rigido, costruito in calcestruzzo o in asfalto non poroso e se il sito è esente da oggetti riflettenti. 
+ 
+
+ Nel caso di un suolo parzialmente riflettente il valore C deve essere compreso tra valori limite fissati nelle direttive particolari. Il valore effettivo di C, che descrive la qualità acustica del luogo utilizzato è determinato in funzione dell'equazione di cui sopra. 
+ 
+
+ Tale valore è utilizzato come K2 per la fissazione del livello di potenza acustica della sorgente, salvo diversa specificazione delle direttive particolari. 
+ 
+
+ Occorre inoltre apportare altre correzioni concernenti il funzionamento della sorgente sonora (per esempio altitudine del luogo delle misurazioni). 
+ 
+
+ 8.6.3. Perturbazioni: temperatura, umidità, altitudine del luogo ed altre perturbazioni 
+ 
+
+ - Apparecchiatura di misura 
+ 
+
+ Per tener conto dei possibili effetti di tutte le perturbazioni segnalate dal materiale di misura bisogna riferirsi alle indicazioni date dal costruttore di tale materiale e in particolare: temperatura, pressione barometrica, umidità. 
+ 
+
+ - Sorgente sonora 
+ 
+
+ Le norme particolari indicheranno eventualmente le perturbazioni che possono influire sulle misure e come esse debbano essere prese in considerazione. 
+ 
+
+ 8.6.4. Influsso del vento 
+ 
+
+ è ammessa una velocità massima del vento di 8 m/sec. 
+ 
+
+ A velocità superiore a quella indicata dal costruttore del microfono, si deve utilizzare uno schermo paravento. Le eventuali correzioni di calcoli di cui al punto 8.4 sono date dal costruttore degli schermi paravento. 
+ 
+
+ 9. DATI DA REGISTRARE 
+ 
+
+ In linea di massima si debbono raccogliere e affidare ad una relazione le seguenti informazioni per tutte le misure effettuate conformente alle specificazioni del presente metodo di misura. 
+ 
+
+ 9.1. Sorgente sonora in prova 
+ 
+
+ a) descrizione della sorgente sonora in prova (incluse le dimensioni); 
+ 
+
+ b) condizioni operative della sorgente sonora durante le prove; 
+ 
+
+ c) condizioni di montaggio sull'area di misura; 
+ 
+
+ d) ubicazione della sorgente sonora nel luogo della misurazione; 
+ 
+
+ e) se l'oggetto in prova ha varie sorgenti sonore, descrizione delle sorgenti funzionali durante le misurazioni. 
+ 
+
+ 9.2. Ambiente acustico 
+ 
+
+ a) descrizione del luogo delle misurazioni e delle caratteristiche fisiche dell'area di misura; schizzo con l'ubicazione della sorgente sonora e degli eventuali oggetti riflettenti presenti sul luogo delle misurazioni; 
+ 
+
+ 9.2. Ambiente acustico 
+ 
+
+ a) descrizione del luogo delle misurazioni e delle caratteristiche fisiche dell'area di misura; schizzo con l'ubicazione della sorgente sonora e degli eventuali oggetti riflettenti presenti sul luogo delle misurazioni; 
+ 
+
+ b) condizioni metereologiche: tempo (sole, nuvole, pioggia, nebbia), temperatura dell'aria, pressione barometrica, velocità e direzione del vento, umidità; 
+ 
+
+ c) termine di correzione della qualità acustica dell'area di misura. 
+ 
+
+ 9.3. Strumentazione 
+ 
+
+ a) attrezzatura usata per le misurazioni, compreso denominazione degli apparecchi, tipo, numero di matricola e nome dei costruttori; 
+ 
+
+ b) metodo usato per tarare l'apparecchiatura di misura come previsto al punto 5.5.1 nome del laboratorio che ha effettuato la taratura richiesta al punto 5.5.2 e data dell'ultima taratura. 
+ 
+
+ 9.4. Dati acustici 
+ 
+
+ a) forma e dimensioni della superficie di misura, ubicazione dei microfoni. Il numero dei punti di misura e la direzione del vento debbono essere registrati nello schizzo di cui al punto 9.2., lettera a); 
+ 
+
+ b) area S della superficie di misura in m2 (vedi punto 8.3) e valevole di 10 log10 S/So (vedi punto 8.5); 
+ 
+
+ c) livelli della pressione acustica rilevati ai punti di misura (vedi punto 8.1.1); 
+ 
+
+ d) valore medio del livello di pressione acustica sulla superficie di misura (vedi punto 8.1.2); 
+ 
+
+ e) eventuali correzioni in decibel (vedi punto 8.6.1, 8.6.3 e 8.6.4); 
+ 
+
+ f) livello della pressione acustica di superficie LpAm (vedi punto 8.4); 
+ 
+
+ g) eventuale costante ambientale C (vedi punto 8.6.2); 
+ 
+
+ h) livello della potenza acustica (vedi punto 8.5); 
+ 
+
+ i) indice di direttività e numero del punto di misura ove è stato rilevato LpAmax (vedi punto 3.6); 
+ 
+
+ j) natura del rumore (vedi punto 7.3); 
+ 
+
+ k) livelli di pressione acustica dell'eventuale posto di lavoro (vedi punto 6.5); 
+ 
+
+ l) data e ora in cui sono state effettuate le misurazioni. 
+ 
+
+ 10. DATI DA ANNOTARE NELLA RELAZIONE PREVISTA AL PUNTO 9 
+ 
+
+ Nella relazione saranno annotati soltanto i dati registrati conformemente a quanto prescritto al punto 9 che sono necessari per le misurazioni. La relazione preciserà che i livelli di potenza acustica sono stati calcolati in stretta conformità di quanto prescritto nel presente metodo di misura. Si dichiarerà inoltre che tali livelli di potenza acustica sono espressi in decibel, ponderati A, con riferimento 1 pW. 
+ 
+
+ 11. METODO PER CALCOLARE IL LIVELLO MEDICO CORRISPONDENTE AL VALORE QUADRATICO MEDIO DEI DIVERSI LIVELLI DI PRESSIONE ACUSTICA 
+ 
+
+ Per calcolare il livello medio corrispondente al valore quadratico medio dei diversi livelli di pressione acustica ottenuti o con una serie di misure eseguite in un unico punto (media temporale) o con una serie di misure effettuate in diversi punti situati sulla superficie di misura (media spaziale) si applica la seguente formula: 
+ 
+
+ 
+ i=n 
+ 
+
+ 
+ 1 
+ 
+
+ 
+ LpAm = LpAo + 10log10 --- (sommatoria) gi = LpAo + 10 log10 gm 
+ 
+
+ 
+ n 
+ 
+
+ 
+ i=1 
+ 
+
+ 
+ dove: 
+ 
+
+ 
+ LpAi = livello di pressione acustica della medesima misura 
+ 
+
+ 
+ LpAo = livello di pressione ausiliaria per semplificare il calcolo 
+ 
+
+ 
+ (per esempio il valore più piccolo della LpAi 
+ 
+
+ 
+ gi = quantità ausiliaria della iesima misura: 
+ 
+
+ 
+ gi = 100,1 (Lpai - LpAo) 
+ 
+
+ 
+ i = n 
+ 
+
+ 
+ 1 
+ 
+
+ 
+ gm = valore medio delle gi: --- (sommatoria) gi 
+ 
+
+ 
+ n 
+ 
+
+ 
+ i = 1 
+ 
+
+ 
+ Verrà denominata (delta) L la quantità: 
+ 
+
+ 
+ (delta) L = LpAi - LpAo 
+ 
+
+ La tabella III dà i valori di g per i vari valori di (delta) L. 
+ 
+
+ TABELLA III 
+ 
+
+ Valori di g in funzione di (delta) L 
+ 
+
+ La tabella può essere ampliata nei due sensi. 
+ 
+
+ 
+ 
+
+ 
+ AL g AL g AL g AL g AL g 
+ 
+
+ 
+ dB dB dB dB dB 
+ 
+
+ 
+ 
+
+ 
+ - 20,0 0,010 - 10,0 0,100 0,0 1 10,0 10,0 20,0 100,0 
+ 
+
+ 
+ - 19,5 0,011 - 9,5 0,112 0,5 1,12 10,5 11,2 20,5 112,2 
+ 
+
+ 
+ - 19,0 0,013 - 9,0 0,126 1,0 1,26 11,0 12,6 21,0 125,9 
+ 
+
+ 
+ - 18,5 0,014 - 8,5 0,141 1,5 1,41 11,5 14,1 21,5 141,3 
+ 
+
+ 
+ 
+
+ 
+ - 18,0 0,016 - 8,0 0,158 2,0 1,58 12,0 15,8 22,0 158,5 
+ 
+
+ 
+ - 17,5 0,018 - 7,5 0,178 2,5 1,78 12,5 17,8 22,5 177,8 
+ 
+
+ 
+ - 17,0 0,020 - 7,0 0,2 3,0 2,00 13,0 20,0 23,0 199,5 
+ 
+
+ 
+ - 16,5 0,022 - 6,5 0,224 3,5 2,24 13,5 22,4 23,5 223,9 
+ 
+
+ 
+ 
+
+ 
+ - 16,0 0,025 - 6,0 0,251 4,0 2,51 14,0 25,1 24,0 251,2 
+ 
+
+ 
+ - 15,5 0,028 - 5,5 0,282 4,5 2,82 14,5 28,2 24,5 281,8 
+ 
+
+ 
+ - 15,0 0,032 - 5,0 0,316 5,0 3,16 15,0 31,6 25,0 316,2 
+ 
+
+ 
+ - 14,5 0,035 - 4,5 0,355 5,5 3,55 15,5 35,5 25,5 354,8 
+ 
+
+ 
+ 
+
+ 
+ - 14,0 0,040 - 4,0 0,39S 6,0 3,98 16,0 39,8 26,0 398,1 
+ 
+
+ 
+ - 13,5 0,045 - 3,5 0,447 6,5 4,47 16,5 44,7 26,5 446,7 
+ 
+
+ 
+ - 13,0 0,050 - 3,0 0,501 7,0 5,01 15,0 50,1 27,0 501,2 
+ 
+
+ 
+ - 12,5 0,056 - 2,5 0,562 7,5 5,62 15,5 56,2 27,5 562,3 
+ 
+
+ 
+ 
+
+ 
+ - 12,0 0,063 - 2,0 0,631 8,0 6,31 18,0 63,1 28,0 631,0 
+ 
+
+ 
+ - 11,5 0,071 - 1,5 0,708 8,5 7,08 18,5 70,8 28,5 707,9 
+ 
+
+ 
+ - 11,0 0,079 - 1,0 0,794 9,0 7,94 19,0 79,4 29,0 794,3 
+ 
+
+ 
+ - 10,5 0,089 - 0,5 0,891 9,5 8,91 19,5 89,1 29,5 891,3 
+ 
+
+ 
+ - 10,0 0,100 - 0,0 1 10,0 10 20,0 100 30,0 1000,0 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il Ministro per il coordinamento delle politiche comunitarie 
+ 
+
+ LA PERGOLA

@@ -1,0 +1,307 @@
+ALLEGATO III 
+ 
+
+ (art. 4) 
+ 
+
+ METODO DI MISURAZIONE DEL RUMORE PRODOTTO ALL'APERTO DAI 
+ 
+
+ MOTOCOMPRESSORI 
+ 
+
+ SETTORE DI APPLICAZIONE 
+ 
+
+ Il presente metodo di misurazione si applica ai motocompressori. Esso specifica i procedimenti di prova per la detrminazione del livello di potenza acustica di tali attrezzature ai fini della certificazione CEE e del controllo di conformità. 
+ 
+
+ Questi procedimenti tecnici sono conformi alle prescrizioni contenute nell'allegato I che valgono anche per i motocompressori, con le seguenti modifiche: 
+ 
+
+ 4. CRITERI DA TENER PRESENTI PER L'ESPRESSIONE DEI RISULTATI 
+ 
+
+ 4.1 Il criterio acustico ambientale per i motocompressori è espresso dal livello della potenza acustica di questi ultimi. 
+ 
+
+ 6. CONDIZIONI DI MISURA 
+ 
+
+ 6.1. Durante le prove, nessun utensile deve essere raccordato al motocompressore. Il livello del rumore di espulsione e di scappamento dell'aria dai condotti esterni del motocompressore, raccordati alla valvola di scarico dell'aria di quest'ultimo, deve essere, in tutti i punti di misura, inferiore di oltre 10 dB al livello di rumore del motocompressore. 
+ 
+
+ 6.2. Funzionamento della sorgente durante la misura 
+ 
+
+ 6.2.1. Le condizioni nominali di regime e di pressione sono quelle indicate nella descrizione tecnica consegnata all'acquirente. 
+ 
+
+ In queste condizioni di funzionamento, la portata va controllata in conformità del punto 12 dell'allegato 1. 
+ 
+
+ 6.3. Luogo delle misurazioni 
+ 
+
+ L'area di prova deve essere piana e orizzontale. Quest'area, compresa la proiezione verticale dei punti in cui sono disposti i microfroni, sarà costituita da cemento o da asfalto non poroso. 
+ 
+
+ I motocompressori senza ruote, montati su un telaio di supporto (skid), andranno collocati su cavalletti di 0,40 m di altezza, salvo disposizioni contrarie del fabbricante per motivi inerenti alle condizioni di installazione. 
+ 
+
+ 6.4.1. Superficie di misura, distanza di misura 
+ 
+
+ La superficie di misura per l'esecuzione della prova è un emisfero.
+ 
+
+ Il raggio è di: 
+ 
+
+ - 4 m, quando la dimensione maggiore del motocompressore da provare è inferiore o uguale a 1,5 m; 
+ 
+
+ - 10 m, quando la dimensione maggiore del motocompressore da provare è superiore a 1,5 m, da inferiore o uguale a 4 m; 
+ 
+
+ - 16 m, quando la dimensione maggiore del motocompressore da provare è superiore a 4 m. 
+ 
+
+ 6.4.2.1. Caratteristiche generali 
+ 
+
+ Per la misurazione i punti sono 6, cioè 2, 4, 8, 10 e 12, disposti in conformità del punto 6.4.2.2. dell'allegato I. 
+ 
+
+ Per le prove del motocompressore, il centro geometrico del motocompressore deve essere sulla verticale del centro dell'emisfero. 
+ 
+
+ L'asse delle x del sistema di coordinate rispetto al quale sono fissate le posizioni dei punti di misura è parallelo all'asse principale del motocompressore. 
+ 
+
+ 7. ESECUZIONE DELLE MISURE 
+ 
+
+ 7.1.1. Soltanto il rumore di fondo è preso in considerazione per le correzioni. 
+ 
+
+ 7.1.5. Presenza di ostacoli 
+ 
+
+ Per accertarsi che le disposizioni del punto 6.3, terzo comma, dell'allegato 1 della direttiva 79/113/CEE sono rispettate, è sufficiente un controllo visivo in una zona circolare di raggio pari a 3 volte quello dell'emisfero di mirura, il cui centro coincida con quello dell'emisfero. 
+ 
+
+ 7.2. Se i livelli di pressione acustica nei punti di misura sono deteminati basandosi sui valori indicati da un fenometro, tali valori devono essere almeno cinque e rilevati a intervalli regolari. 
+ 
+
+ 8. UTILIZZAZIONE DEI RISULTATI 
+ 
+
+ 8.2. Non va preso in considerazione. 
+ 
+
+ 8.6.2. Tenuto conto del punto 6.3, il punto 8.6.2. non va preso in considerazione e C = 0. 
+ 
+
+ 12. METODO DI MISURAZIONE DELLA PORTATA VOLUMETRICA D'ARIA DEI GRUPPI MOTOCOMPRESSORI D'ARIA CON VENTURIMETRI AD ARCO DI CERCHIO IN 
+ 
+
+ CONDIZIONI DI FLUSSO CRITICO 
+ 
+
+ 12.1. Considerazioni generali 
+ 
+
+ Il presente allegato ha lo scopo di definire un metodo simplice, rapido ed economico di misurazione della portata dei gruppi di motocompressori d'aria. 
+ 
+
+ La precizione del metodo di misurazione è di (+ -) 2,5%. 
+ 
+
+ 12.2. Montaggio di prova 
+ 
+
+ Il diametro dell'ugello deve essere scelto in modo che il rapporto di pressione attraverso l'ugello produca una velocità sonica a livello del collo. 
+ 
+
+ L'ugello deve essere montato su una tubazione di diametro uguale o superiore a quattro volte il diametro del suo collo. A monte dell'ugello, la tubazione deve avere una lunghezza minima o uguale a due diametri di tubazione e nella parete di quest'ultima devono essere montati dei dispositivi di misurazione della pressione e della temperatura dell'aria, che circola nella tubazione. Un moderatore costituito da due lastre perforate montate alla distanza di un diametro della tubazione deve essere collocato all'estremità a monte della tubazione (figure 1 e 2). A valle dell'ugello si possono collocare una tubazione ed un silenziatore, a condizione che la caduta di pressione attraverso la tubazione non peturbi le condizioni di flusso critico attraverso l'ugello. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 12.3. Venturimetro ad arco di cerchio 
+ 
+
+ Il disegno deve essere conforme alle indicazioni della figura 3. Le superfici interne devono essere levigate e il diametro del collo deve essere misurato con precisione. Esempi di dimensionamento dell'ugello sono riportati nella tabella 1. 
+ 
+
+ 12.4. Rilevazioni di pressione e di temperatura 
+ 
+
+ La pressione deve essere rilevata con una precisione di + 0,5% e la temperatura con una precisione di (+ -) 1K. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ Dimensioni dell'ugello 
+ 
+
+ 
+ 
+
+ Portata A B C D E F G 
+ 
+
+ in 1/s mm mm mm mm mm mm denominazione 
+ 
+
+ 
+ 
+
+ 12-40 16,00 6,350 2,40 9,93 12,70 60,5 R1 
+ 
+
+ 24-90 24,00 9,525 3,60 14,86 19,05 91,0 R1 1/2 
+ 
+
+ 50-160 32,00 12,700 4,60 19,81 25,40 121,5 R2 
+ 
+
+ 100-360 48,00 19,050 7,10 29,72 38,10 182,0 R2 1/2 
+ 
+
+ 180-650 64,00 25,400 9,60 39,65 50,80 243,0 R3 
+ 
+
+ 280-1000 80,00 31,750 12,00 49,53 63,50 303,5 R3 1/2 
+ 
+
+ 400-1500 95,00 38,100 14,20 59,44 76,20 364,0 R4 
+ 
+
+ 
+ 
+
+ 12.5. La prova 
+ 
+
+ Una volta raggiunte le condizioni di regime, si procede alle seguenti letture: 
+ 
+
+ pressione barometrica (Pb) 
+ 
+
+ pressione a monte dell'ugello (PN) 
+ 
+
+ temperatura a monte dell'ugello (tN) 
+ 
+
+ temperatura a pressione alle quali viene richiesta la portata volumetrica (tò Po) 
+ 
+
+ 12,6. Calcoli della portata 
+ 
+
+ qm = 0,1. x. b2. CD. C*. PN/[(4.(R.TN)1/2)] 
+ 
+
+ qm = portata di massa (kg/s) 
+ 
+
+ B = diametro dell'ugello (mm) 
+ 
+
+ CD = coefficiente di scarico 
+ 
+
+ C* = fattore di portata critica 
+ 
+
+ PN = pressione assoluta a monte dell'ugello (bar) 
+ 
+
+ TN = temperatura assoluta a monte dell'ugello (K) 
+ 
+
+ R = costante del gas (J/(kg.K) (per l'aria, R = 287,1). 
+ 
+
+ C* = 0,684858 + (3,70575 - 4,76902. 10-2. tN + 2,63019. 10-4. tN2). 
+ 
+
+ PN. 10 -4 
+ 
+
+ dove 
+ 
+
+ tN = temperatura a monte dell'ugello C. Secondo i risultati della prova e per la precisione desiderata è CD = 0,9888. 
+ 
+
+ Alla mandata dei gruppi motocompressori portatili o compatti, tN varia da 20 C a 70 C e PN da 2 a 8 bar. C* varierà dunque da 0,6871 a 0,6852, con un valore medio utilizzabile di 0,6862. In tali condizioni l'equazione può semplificarsi come segue: 
+ 
+
+ qm = 0,1. x. B2. 0,9888. 0,6862. PN/'4. (287,1. TN)1/2' 
+ 
+
+ = 3,143. 10-3. B2. PN/TN 1/2 kg/s 
+ 
+
+ o essere convertita in portata volumetrica (qv) nelle condizioni di riferimento: 
+ 
+
+ qv = 9. 10-3. B2. PN. To/(po. TN 1/2) 
+ 
+
+ dove: 
+ 
+
+ Po = pressione di riferimento (bar); 
+ 
+
+ To = temperatura assoluta di riferimento (K). 
+ 
+
+ Il Ministro per il coordinamento delle politiche comunitarie 
+ 
+
+ LA PERGOLA
