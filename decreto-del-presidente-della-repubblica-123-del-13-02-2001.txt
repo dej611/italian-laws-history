@@ -1,0 +1,334 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visto l'articolo 87, quinto comma, della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 febbraio 1993, n. 39;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 15, comma 2, della legge 15 marzo 1997, n. 59;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, commi 1, lettera c), e 4, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ Consultato il Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ Sentita l'Autorità per l'informatica nella pubblica amministrazione;
+
+ 
+
+ 
+ Uditi i pareri del Consiglio di Stato, espressi dalla sezione consultiva per gli atti normativi nelle adunanze del 9 ottobre 2000 e del 4 dicembre 2000;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 gennaio 2001;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la funzione pubblica;
+
+ 
+
+ Emana
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Agli effetti del presente regolamento si intende per:
+ 
+
+ 
+ 
+
+ 
+ a) "documento informatico": la rappresentazione informatica del contenuto di atti, fatti o dati giuridicamente rilevanti ai sensi del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+ 
+
+ 
+ 
+
+ 
+ b) "duplicato del documento informatico": la riproduzione del documento informatico effettuata su un qualsiasi tipo di supporto elettronico facilmente trasportabile;
+ 
+
+ 
+ 
+
+ 
+ c) "documento probatorio": l'atto avente efficacia probatoria ai sensi del codice civile e del codice di procedura civile;
+ 
+
+ 
+ 
+
+ 
+ d) "firma digitale": il risultato della procedura informatica disciplinata dal decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+ 
+
+ 
+ 
+
+ 
+ e) "dominio giustizia": l'insieme delle risorse hardware e software, mediante il quale l'amministrazione della giustizia tratta in via informatica e telematica qualsiasi tipo di attività, di dato, di servizio, di comunicazione e di procedura;
+ 
+
+ 
+ 
+
+ 
+ f) "sistema informatico civile": è il sottoinsieme delle risorse del dominio giustizia mediante il quale l'amministrazione della giustizia tratta il processo civile;
+ 
+
+ 
+ 
+
+ 
+ g) "gestore del sistema di trasporto delle informazioni": il gestore indicato dall'articolo 13, comma 2, del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+ 
+
+ 
+ 
+
+ 
+ h) "indirizzo elettronico": l'indirizzo di posta elettronica come definito dall'articolo 1, comma 1, lettera l), del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+ 
+
+ 
+ 
+
+ 
+ i) "ricevuta di consegna": il messaggio generato ed inviato automaticamente al mittente dal gestore del sistema di trasporto delle informazioni del destinatario nel momento in cui il messaggio inviato è reso disponibile al destinatario medesimo nella sua casella di posta elettronica;
+ 
+
+ 
+ 
+
+ 
+ j) "certificatore della firma digitale": il soggetto previsto dagli articoli 8, 9 e 17 del decreto del Presidente della Repubblica 10 novembre 1997, n. 513.
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
+ 
+
+ - Il decreto legislativo 12 febbraio 1993, n. 39, reca: "Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421.
+ 
+
+ - Si trascrive il testo dell'art. 15, comma 2, della legge 15 marzo 1997, n. 59 (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa):
+ 
+
+ "2. Gli atti, dati e documenti formati dalla pubblica amministrazione e dai privati con strumenti informatici o telematici, i contratti stipulati nelle medesime forme, nonchè la loro archiviazione e trasmissione con strumenti informatici, sono validi e rilevanti a tutti gli effetti di legge. I criteri e le modalità di applicazione del presente comma sono stabiliti, per la pubblica amministrazione e per i privati, con specifici regolamenti da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400. Gli schemi dei regolamenti sono trasmessi alla Camera dei deputati e al Senato della Repubblica per l'acquisizione del parere delle competenti commissioni".
+ 
+
+ - Il decreto del Presidente della Repubblica 10 novembre 1997, n. 513, reca: "Regolamento recante criteri e modalità per la formazione, l'archiviazione e la trasmissione di documenti con strumenti informatici e telematici, a norma dell'art. 15, comma 2, della legge 15 marzo 1997, n. 59.".
+ 
+
+ - Si trascrive il testo dell'articolo 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri:
+ 
+
+ "17. (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
+ 
+
+ a) l'esecuzione delle leggi e dei decreti legislativi, nonchè dei regolamenti comunitari;
+ 
+
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+ 
+
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+ 
+
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
+ 
+
+ e) (soppresso).
+ 
+
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potestà regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
+ 
+
+ 4. I regolamenti di cui al comma 1, ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ 
+
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei princìpi posti dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:
+ 
+
+ a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;
+ 
+
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilità eliminando le duplicazioni funzionali;
+ 
+
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;
+ 
+
+ d) indicazione e revisione periodica della consistenza delle piante organiche;
+ 
+
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unità dirigenziali nell'ambito degli uffici dirigenziali generali".
+ 
+
+ Note all'art. 1:
+ 
+
+ - Si trascrive il testo degli articoli 1, 8, 9, 13 e 17 del decreto del Presidente della Repubblica 10 novembre 1997, n. 513 (Regolamento recante criteri e modalità per la formazione, l'archiviazione e la trasmissione di documenti con strumenti informatici e telematici, a norma dell'articolo 15, comma 2, della legge 15 marzo 1997, n. 59):
+ 
+
+ "Art. 1. - 1. Ai fini del presente regolamento s'intende:
+ 
+
+ a)-i) (Omissis);
+ 
+
+ l) per indirizzo elettronico, l'identificatore di una risorsa fisica o logica in grado di ricevere e registrare documenti informatici.
+ 
+
+ "Art. 8 (Certificazione). - 1. Chiunque intenda utilizzare un sistema di chiavi asimmetriche di cifratura con gli effetti di cui all'articolo 2 deve munirsi di una idonea coppia di chiavi e rendere pubblica una di esse mediante la procedura di certificazione.
+ 
+
+ 2. Le chiavi pubbliche di cifratura sono custodite per un periodo non inferiore a dieci anni a cura del certificatore e, dal momento iniziale della loro validità, sono consultabili in forma telematica.
+ 
+
+ 3. Salvo quanto previsto dall'art. 17, le attività di certificazione sono effettuate da certificatori inclusi, sulla base di una dichiarazione anteriore all'inizio dell'attività, in apposito elenco pubblico, consultabile in via telematica, predisposto tenuto e aggiornato a cura dell'Autorità per l'informatica nella pubblica amministrazione, e dotati dei seguenti requisiti, specificati nel decreto di cui all'art. 3:
+ 
+
+ a) forma di società per azioni e capitale sociale non inferiore a quello necessario ai fini dell'autorizzazione all'attività bancaria, se soggetti privati;
+ 
+
+ b) possesso da parte dei rappresentanti legali e dei soggetti preposti all'amministrazione, dei requisiti di onorabilità richiesti ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso banche;
+ 
+
+ c) affidamento che, per competenza ed esperienza, i responsabili tecnici del certificatore e il personale addetto all'attività di certificazione siano in grado di rispettare le norme del presente regolamento e le regole tecniche di cui all'art. 3;
+ 
+
+ d) qualità dei processi informatici e dei relativi prodotti, sulla base di standard riconosciuti a livello internazionale.
+ 
+
+ 4. La procedura di certificazione di cui al comma 1, può essere svolta anche da un certificatore operante sulla base di licenza o autorizzazione rilasciata da altro Stato membro dell'Unione europea o dello Spazio economico europeo, sulla base di equivalenti requisiti".
+ 
+
+ "Art. 9 (Obblighi dell'utente e del certificatore). - 1. Chiunque intenda utilizzare un sistema di chiavi asimmetriche o della firma digitale, è tenuto ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno ad altri.
+ 
+
+ 2. Il certificatore è tenuto:
+ 
+
+ a) identificare con certezza la persona che fa richiesta della certificazione;
+ 
+
+ b) rilasciare e rendere pubblico il certificato avente le caratteristiche fissate con il decreto di cui all'art. 3;
+ 
+
+ c) specificare, su richiesta dell'istante, e con il consenso del terzo interessato, la sussistenza dei poteri di rappresentanza o di altri titoli relativi all'attività professionale o a cariche rivestite;
+ 
+
+ d) attenersi alle regole tecniche di cui all'art. 3;
+ 
+
+ e) informare i richiedenti, in modo compiuto e chiaro, sulla procedura di certificazione e sui necessari requisiti tecnici per accedervi;
+ 
+
+ f) attenersi alle misure minime di sicurezza per il trattamento dei dati personali emanate ai sensi dell'art. 15, comma 2, della legge 31 dicembre 1996, n. 675;
+ 
+
+ g) non rendersi depositario di chiavi private;
+ 
+
+ h) procedere tempestivamente alla revoca od alla sospensione del certificato in caso di richiesta da parte del titolare o del terzo dal quale derivino i poteri di quest'ultimo, di perdita del possesso della chiave, di provvedimento dell'autorità, di acquisizione della conoscenza di cause limitative della capacità del titolare, di sospetti abusi o falsificazioni;
+ 
+
+ i) dare immediata pubblicazione della revoca e della sospensione della coppia di chiavi asimmetriche;
+ 
+
+ l) dare immediata comunicazione all'Autorità per l'informatica nella pubblica amministrazione ed agli utenti, con un preavviso di almeno sei mesi, della cessazione dell'attività e della conseguente rilevazione della documentazione da parte di altro certificatore e del suo annullamento".
+ 
+
+ "Art. 13. - 2. Agli effetti del presente regolamento, gli atti, i dati e i documenti trasmessi per via telematica si considerano, nei confronti del gestore del sistema di trasporto delle informazioni, di proprietà del mittente sino a che non sia avvenuta la consegna al destinatario".
+ 
+
+ "Art. 17. (Chiavi di cifratura della pubblica amministrazione). - 1. Le pubbliche amministrazioni provvedono autonomamente, con riferimento al proprio ordinamento, alla generazione, alla conservazione, alla certificazione ed all'utilizzo delle chiavi pubbliche di competenza.
+ 
+
+ 2. Col decreto di cui all'art. 3 sono disciplinate le modalità di formazione, di pubblicità, di conservazione, certificazione e di utilizzo delle chiavi pubbliche delle pubbliche amministrazioni.
+ 
+
+ 3. Le chiavi pubbliche dei pubblici ufficiali non appartenenti alla pubblica amministrazione sono certificate e pubblicate autonomamente in conformità alle leggi ed ai regolamenti che definiscono l'uso delle firme autografe nell'ambito dei rispettivi ordinamenti giuridici.
+ 
+
+ 4. Le chiavi pubbliche di ordini ed albi professionali legalmente riconosciuti e dei loro legali rappresentanti sono certificate e pubblicate a cura del Ministro di grazia e giustizia o suoi delegati".
