@@ -152,8 +152,8 @@ VITTORIO EMANUELE III
  
  
 
- 
- ((9))
+ (9) 
+ ((10))
 
  
  
@@ -300,9 +300,6 @@ VITTORIO EMANUELE III
  
 
  +----------------------------------------------------+--------------+
- 
-
- 
  
 
  
@@ -558,6 +555,13 @@ VITTORIO EMANUELE III
 
  (Gruppo B)
  
+
+ 
+ 
+
+ 
+ 
+ 
  
  Grado Numero dei posti 
  
@@ -601,7 +605,13 @@ VITTORIO EMANUELE III
  
  
 
- Personale civile tecnico delle Direzioni costruzioni navali e meccaniche
+ 
+ 
+
+ Personale civile tecnico delle Direzioni costruzioni navali e
+ 
+
+ meccaniche
  
 
  
@@ -646,19 +656,19 @@ VITTORIO EMANUELE III
  (7) 
  
 
- Direzioni armi ed armamenti navali. 
  
-
- 
- 
-
- (Gruppo B). 
  
 
  
  
 
+ Direzioni armi ed armamenti navali.
  
+
+ 
+ 
+
+ (Gruppo B).
  
 
  
@@ -709,22 +719,16 @@ VITTORIO EMANUELE III
  
  
 
- Direzioni ed uffici del Genio militare per la Regia marina. 
+ 
+ 
+
+ Direzioni ed uffici del Genio militare per la Regia marina.
  
 
  
  
 
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
- 
+ (Gruppo B).
  
 
  
@@ -772,16 +776,16 @@ VITTORIO EMANUELE III
  
  
 
- Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche. 
+ 
+ 
+
+ Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche.
  
 
  
  
 
- (Gruppo B). 
- 
-
- 
+ (Gruppo B).
  
  
  Grado Numero dei posti 
@@ -814,6 +818,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  (7) 
  
 
@@ -830,13 +837,6 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B).
- 
-
- 
- 
-
- 
- 
  
  
  Grado Numero dei posti 
@@ -881,7 +881,13 @@ VITTORIO EMANUELE III
  
  
 
- Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina
+ 
+ 
+
+ Disegnatori tecnici per le Direzioni ed uffici del Genio militare
+ 
+
+ per la Regia marina
  
 
  
@@ -932,9 +938,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  Personale di ragioneria degli Arsenali militari marittimi.
  
 
@@ -942,6 +945,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B).
+ 
+
+ 
  
 
  Grado N. dei posti
@@ -965,28 +971,16 @@ VITTORIO EMANUELE III
  10° Ragionieri \
  
 
- > ........................................52
+ > ........................................52 11° Vice ragionieri /
  
 
- 11° Vice ragionieri /
- 
-
- _____ Totale . . .110 
- 
-
- 
+ _____ Totale . . .110
  
 
  
  
 
  Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana, fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.
- 
-
- 
- 
-
- 
  
 
  
@@ -1010,10 +1004,7 @@ VITTORIO EMANUELE III
  
  
 
- RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, COMVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5)
- 
-
- 
+ RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5)
  
 
  
@@ -1029,9 +1020,6 @@ VITTORIO EMANUELE III
  
 
  
- 
-
- (Gruppo C)
  
 
  
@@ -1064,9 +1052,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si travino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.
  
 
@@ -1076,10 +1061,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
+ PERSONALE SUBALTERNO. 
  
 
  
@@ -1091,16 +1073,7 @@ VITTORIO EMANUELE III
  
  
 
- PERSONALE SUBALTERNO.
- 
-
- 
- 
-
- Personale subalterno dell'Amministrazione
- 
-
- centrale della Regia marina.
+ Personale subalterno dell'Amministrazione centrale della Regia marina.
  
 
  
@@ -1158,9 +1131,6 @@ VITTORIO EMANUELE III
  
 
  (1) Col trattamento stabilito, rispettivamente, per il capo agente tecnico e per gli agenti tecnici del Ministero delle finanze.
- 
-
- 
  
 
  
@@ -1286,4 +1256,17 @@ VITTORIO EMANUELE III
  Tale aumento sarà riassorbito con le prime due vacanze che si verificheranno nel grado di ispettore generale dopo la scadenza dell'indicato termine. 
  
 
- Durante tutto il periodo in cui avrà attuazione l'aumento previsto dal precedente comma sarà lasciato vacante, nello stesso ruolo, un corrispondente numero di posti del grado di direttore capo divisione".
+ Durante tutto il periodo in cui avrà attuazione l'aumento previsto dal precedente comma sarà lasciato vacante, nello stesso ruolo, un corrispondente numero di posti del grado di direttore capo divisione". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (10)
+
+ 
+ 
+
+ Il Decreto del Capo Provvisorio dello Stato 13 dicembre 1946, n. 694, nel modificare l'art. 1 del Regio Decreto 14 giugno 1941, n. 614 che a sua volta modifica l'art. 1 del Regio D.L. 5 dicembre 1938, n. 2011 convertito senza modificazioni dalla L. 2 giugno 1939, n. 739 che a sua volta modifica l'art. 1 del Regio D.L. 3 febbraio 1936, n. 189, convertito senza modificazioni dalla L. 28 maggio 1936, n. 1116, che a sua volta ha modificato l'art. 1 del Regio Decreto 23 febbraio 1933, n. 200, ha conseguentemente disposto (con l'art. 1, comma 3) che "In conseguenza del disposto di cui al primo comma del presente articolo, il numero dei posti di capo sezione (grado 7°, gruppo A) nel ruolo del personale della carriera amministrativa dell'Amministrazione centrale della marina militare, stabilito con l'art. 1 del regio decreto 14 giugno 1941, n. 614, è elevato da 19 a 20".
