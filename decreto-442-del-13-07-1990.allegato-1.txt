@@ -1,0 +1,634 @@
+ALLEGATO A 
+ 
+
+ CAPITOLO I 
+ 
+
+ GENERALITà 
+ 
+
+ Sezione 1 
+ 
+
+ OGGETTO E SCOPO DELLE NORME 
+ 
+
+ 1.1.01. Oggetto. 
+ 
+
+ Le presenti norme riguardano i lavori sotto tensione effettuati su impianti elettrici alimentati a frequenza industriale con tensione compresa tra 1.000 e 30.000 Volt. Agli effetti delle presenti norme non costituiscono lavori sotto tensione le operazioni eseguite sugli impianti elettrici in tensione nel rispetto delle relative norme di sicurezza quali, ad esempio, risultano: 
+ 
+
+ a) la manovra degli apparecchi di sezionamento, di interruzione, di commutazione e di regolazione, nelle condizioni normali di impiego; 
+ 
+
+ b) la manovra mediante fioretti degli apparecchi sopraelencati, di rivelatori di tensione, di dispositivi per la messa a terra, nelle condizioni normali di impiego; 
+ 
+
+ c) il lavaggio di isolatori effettuato da impianti automatici o telecomandati. 
+ 
+
+ 1.1.02. Scopo. 
+ 
+
+ Le presenti norme hanno lo scopo di stabilire le condizioni di sicurezza che devono essere osservate per l'esecuzione dei lavori sotto tensione su impianti elettrici alimentati a frequenza industriale con tensione nominale compresa tra 1.000 e 30.000 Volt e le modalità di esecuzione di detti lavori. 
+ 
+
+ Sezione 2 
+ 
+
+ DEFINIZIONI 
+ 
+
+ 1.2.01. Preposto ai lavori. 
+ 
+
+ è la persona che sovraintende ai lavori. 
+ 
+
+ Egli, a tale titolo, è anche responsabile delle misure di sicurezza sul luogo di lavoro. 
+ 
+
+ 1.2.02. Autorizzazione di lavoro sotto tensione. 
+ 
+
+ è il documento con il quale di volta in volta la persona responsabile degli impianti interessati dai lavori autorizza il preposto ai lavori ad eseguire sotto tensione uno specifico lavoro in una determinata località. 
+ 
+
+ 1.2.03. Condizioni atmosferiche sfavorevoli. 
+ 
+
+ Agli effetti delle presenti norme, si definiscono sfavorevoli le seguenti condizioni atmosferiche: 
+ 
+
+ a) precipitazioni atmosferiche: pioviggine, pioggia, nevischio, neve, grandine; 
+ 
+
+ b) scarsa visibilità: visibilità ridotta in modo tale per cui il preposto ai lavori non riesca a distinguere nettamente da terra gli operatori ed i conduttori sui quali essi devono intervenire; 
+ 
+
+ c) temporale: manifestazioni temporalesche con scariche atmosferiche percepite anche in lontananza; 
+ 
+
+ d) vento: caso in cui questo raggiunge, sul luogo di lavoro, una velocità superiore a 35 km/h. 
+ 
+
+ 1.2.04. Distanza minima di avvicinamento. 
+ 
+
+ è la distanza minima che, senza l'adozione di particolari mezzi di protezione, deve rigorosamente essere rispettata: 
+ 
+
+ a) nel caso in cui l'operatore lavori tenendosi a potenziale di terra: fra le parti in tensione e l'operatore stesso, compresi eventuali oggetti non isolanti da lui manovrati od indossati; 
+ 
+
+ b) nel caso in cui l'operatore lavori tenendosi a potenziale di linea: fra le parti conduttrici collegate a terra e l'operatore stesso, compreso eventuali oggetti non isolanti da lui manovrati od indossati; 
+ 
+
+ c) tra le parti in tensione e le parti conduttrici collegate a terra. 
+ 
+
+ 1.2.05. Distanza minima tra le fasi. 
+ 
+
+ è la distanza minima che, senza particolari mezzi di protezione, deve essere rigorosamente rispettata: 
+ 
+
+ a) fra i conduttori di fase anche durante i lavori di spostamento dei conduttori; 
+ 
+
+ b) fra l'operatore a potenziale di fase, compresi eventuali oggetti non isolanti da lui maneggiati o indossati, e le altre fasi.
+ 
+
+ 1.2.06. Metodi di lavoro. 
+ 
+
+ Si distinguono tre metodi di lavoro: 
+ 
+
+ a) lavoro a distanza: il preposto ai lavori impartisce a ciascun operatore le istruzioni necessarie ad assicurare l'attuazione di tutte le misure atte a garantire distanze sempre superiori a quella minima di avvicinamento, durante tutto l'arco dello svolgimento dei lavori. Ogni operatore esegue il lavoro per mezzo di attrezzi isolanti; 
+ 
+
+ b) lavoro a potenziale: l'operatore, sotto la guida del preposto ai lavori, si porta al potenziale delle parti in tensione, prendendo tutte le misure occorrenti per assicurare che vengano sempre mantenute distanze superiori a quella minima di avvicinamento alle parti conduttrici collegate a terra, e nella precisa osservanza di distanze superiori a quella minima tra le fasi per quanto riguarda le altre parti in tensione; 
+ 
+
+ c) lavoro a contatto: l'operatore, con l'adozione di particolari mezzi di protezione, interviene a distanza inferiore a quella minima di avvicinamento. 
+ 
+
+ CAPITOLO II 
+ 
+
+ DISPOSIZIONI GENERALI 
+ 
+
+ Sezione 1 
+ 
+
+ GENERALITà 
+ 
+
+ 2.1.01. Decisione e controllo. 
+ 
+
+ Le aziende, il cui personale esegue lavori sotto tensione, devono regolamentare: 
+ 
+
+ a) i poteri particolari assegnati nell'ambito della propria organizzazione in merito ai lavori sotto tensione; 
+ 
+
+ b) le modalità per il controllo dell'applicazione delle presenti norme. 
+ 
+
+ 2.1.02. Formazione del personale. 
+ 
+
+ Le persone destinate ad effettuare lavori sotto tensione devono possedere i seguenti requisiti: 
+ 
+
+ a) età non inferiore a 18 anni; 
+ 
+
+ b) attitudine fisica alla mansione, attestata tramite apposito referto rilasciato a seguito di visita medica specialistica, da effettuare presso un istituto di medicina del lavoro. Detta visita medica dovrà essere integrata da indagini mirate ad accertare, con particolare attenzione, il grado di funzionalità del sistema nervoso centrale e periferico, nonchè lo stato psichico; 
+ 
+
+ c) idoneità tecnico-attitudinale, conseguita tramite il superamento degli esami finali di uno specifico corso di formazione incentrato sui metodi e le tecniche di lavoro sotto tensione. 
+ 
+
+ I programmi del corso di formazione devono comprendere reiterati cicli di esercitazioni pratiche da eseguire sotto tensione. 
+ 
+
+ 2.1.03. Abilitazione del personale. 
+ 
+
+ Le aziende scelgono il personale al quale conferire l'abilitazione ad effettuare i lavori sotto tensione esclusivamente fra i lavoratori giudicati idonei in base al possesso di tutti i requisiti indicati nell'articolo 2.1.02. 
+ 
+
+ I tipi di abilitazione sono i seguenti: 
+ 
+
+ a) abilitazione MT 1: permette di eseguire lavori sotto tensione solo nel caso in cui questi si svolgano sotto la costante sorveglianza di un preposto ai lavori abilitato MT 2; 
+ 
+
+ b) abilitazione MT 2: permette di eseguire gli stessi lavori consentiti dall'abilitazione MT 1. Il titolare dell'abilitazione MT 2 può essere designato come preposto ai lavori. 
+ 
+
+ Il documento di abilitazione deve precisare il tipo di abilitazione. Tutte le abilitazioni hanno la validità di un anno; in seguito possono essere rinnovate, previa la visita medica di cui all'articolo 2.1.02; se l'evoluzione delle tecniche lo esige, dovrà essere effettuato un corso di addestramento supplementare con esami finali volti ad accertare l'idoneità tecnico-attitudinale degli operatori, secondo quanto previsto dal già richiamato articolo 2.1.02. 
+ 
+
+ Le abilitazioni devono inoltre essere riesaminate sistematicamente nei seguenti casi: 
+ 
+
+ inosservanza delle presenti norme; 
+ 
+
+ prescrizioni mediche attitudinali non favorevoli; 
+ 
+
+ cambio di mansioni; 
+ 
+
+ trasferimento. 
+ 
+
+ Tale riesame può condurre, in ogni momento, ad una modifica o al ritiro dell'abilitazione. 
+ 
+
+ 2.1.04. Personale ausiliario. 
+ 
+
+ Per la parte dei lavori che non comportino l'abilitazione (esempio: trasporto e preparazione dell'attrezzatura, manovra delle corde di servizio, ecc.) gli operatori abilitati possono essere aiutati da persone non abilitate che sono qui definite personale ausiliario. 
+ 
+
+ 2.1.05. Individuazione del personale. 
+ 
+
+ Sul cantiere il personale si distingue per il colore dei caschi: 
+ 
+
+ preposto ai lavori: casco rosso o copricasco rosso; 
+ 
+
+ operatore abilitato: casco giallo; 
+ 
+
+ personale ausiliario: casco bianco. 
+ 
+
+ Sezione 2 
+ 
+
+ DISTANZE 
+ 
+
+ 2.2.01. Distanza minima di avvicinamento. 
+ 
+
+ La distanza minima di avvicinamento d in metri, come definita in 1.2.04, è data dalla seguente formula: 
+ 
+
+ d = 0,06 + 0,006 U 
+ 
+
+ dove U è la tensione nominale del sistema, in kV. 
+ 
+
+ I risultati di detta formula devono essere arrotondati per eccesso al decimetro e in ogni caso la distanza non deve essere inferiore a 0,20 m. 
+ 
+
+ Per i valori nominali normali di tensione, la distanza d è data dalla seguente tabella: 
+ 
+
+ Tensioni nominali normali Distanze minime 
+ 
+
+ - - 
+ 
+
+ U d 
+ 
+
+ kV m 
+ 
+
+ fino a 20 0,20 
+ 
+
+ fino a 30 0,30 
+ 
+
+ Queste distanze minime di avvicinamento devono considerarsi un limite invalicabile e, pertanto, durante i lavori si devono mantenere distanze maggiorate, in modo tale da escludere che un gesto involontario dell'operatore possa avere come conseguenza una loro riduzione. 
+ 
+
+ 2.2.02. Distanza minima tra le fasi. 
+ 
+
+ La distanza minima tra le fasi D, come definita in 1.2.05, è formulata come segue: 
+ 
+
+ D = 1,73 d 
+ 
+
+ Sezione 3 
+ 
+
+ PROCEDURE DI LAVORO 
+ 
+
+ 2.3.01. Generalità. 
+ 
+
+ Le procedure di lavoro sono predisposte dalle aziende e devono specificare i criteri di scelta e di impiego degli attrezzi da adottare nel rispetto delle presenti norme e delle prescrizioni specifiche per le attrezzature. La realizzazione di un lavoro sotto tensione può richiedere la combinazione, effettuata dal preposto ai lavori, di più metodi di lavoro. Tali procedure devono essere preventivamente approvate dal comitato lavori sotto tensione di cui al capitolo V. 
+ 
+
+ CAPITOLO III 
+ 
+
+ ATTREZZATURA 
+ 
+
+ Sezione 1 
+ 
+
+ GENERALITà 
+ 
+
+ 3.1.01. Conservazione e trasporto. 
+ 
+
+ L'attrezzatura deve essere conservata in un apposito locale; gli attrezzi isolanti devono essere appoggiati su rastrelliere opportunamente rivestite per evitare deterioramenti. 
+ 
+
+ Il trasporto dell'attrezzatura deve avvenire in modo che non ne sia compromessa minimamente l'efficienza. 
+ 
+
+ 3.1.02. Veicoli con braccio elevatore isolato. 
+ 
+
+ I veicoli con braccio elevatore isolato devono essere dotati di un quaderno di bordo contenente le prescrizioni di prova e fogli numerati e timbrati, sui quali vengono riportate tutte le prescritte operazioni di manutenzione, controllo e misura effettuate periodicamente. 
+ 
+
+ Ogni operazione riportata sul quaderno di bordo deve essere datata e firmata dall'esecutore. 
+ 
+
+ Le parti metalliche dei veicoli con braccio elevatore isolato devono essere collegate opportunamente a terra, durante l'esecuzione dei lavori. 
+ 
+
+ 3.1.03. Attrezzatura in consegna collettiva. 
+ 
+
+ L'attrezzatura deve essere tenuta con cura per evitarne ogni deterioramento. Sul luogo di lavoro deve essere appoggiata su rastrelliere e su teli previsti per questo scopo; le aste isolanti devono essere asciugate e pulite con l'ausilio di opportuni preparati isolanti ed idrorepellenti prima dell'inizio e della ripresa dei lavori. 
+ 
+
+ Il preposto ai lavori deve assicurarsi che queste prescrizioni vengano osservate. 
+ 
+
+ 3.1.04. Mezzi di protezione individuali. 
+ 
+
+ Ogni operatore abilitato a lavaorare sotto tensione deve avere a disposizione, oltre i normali mezzi protettivi richiesti dallo specifico tipo di lavoro, anche i seguenti mezzi idonei allo scopo: casco; 
+ 
+
+ occhiali selettivi; 
+ 
+
+ calzature; 
+ 
+
+ guanti; 
+ 
+
+ cintura di sicurezza; 
+ 
+
+ tuta. 
+ 
+
+ Il modello ed il materiale di detti mezzi devono essere precisati dalle procedure di lavoro di cui in 2.3.01. 
+ 
+
+ L'operatore deve curare la buona conservazione dei mezzi di protezione individuali ricevuti in consegna. 
+ 
+
+ Sezione 2 
+ 
+
+ CONTROLLI E PROVE 
+ 
+
+ 3.2.01. Prove di collaudo. 
+ 
+
+ L'attrezzatura per i lavori sotto tensione deve essere sottoposta a prove di collaudo atte ad accertarne l'idoneità dal punto di vista elettrico e meccanico. 
+ 
+
+ 3.2.02. Prove periodiche. 
+ 
+
+ Le attrezzature isolanti devono essere sottoposte a prove periodiche da effettuare in laboratorio. 
+ 
+
+ Qualora durante le prove si riscontri il deterioramento di un attrezzo, si deve provvedere o ad eliminare l'attrezzo o a ripristinare la sua efficienza prima della riutilizzazione. Un idoneo sistema deve permettere di determinare facilmente la data di effettuazione delle prove periodiche. 
+ 
+
+ Il tipo di prove e la relativa periodicità sono riportate nella seguente tabella: 
+ 
+
+ Attrezzatura o indumento Tipo di prova Periodicità 
+ 
+
+ --- --- --- 
+ 
+
+ Guanti isolanti Prova di isolamento dopo 3 mesi 
+ 
+
+ pulitura e prova pneuma- 
+ 
+
+ tica 
+ 
+
+ Bracciali isolanti Prova di isolamento 6 mesi 
+ 
+
+ Calzature isolanti Esame a vista e prova di 6 mesi 
+ 
+
+ isolamento 
+ 
+
+ Schermi isolanti Prova di isolamento 1 anno 
+ 
+
+ Attrezzi isolanti Prova di isolamento 1 anno 
+ 
+
+ Veicoli con braccio Secondo le prescrizioni del 6 mesi 
+ 
+
+ elevatore isolato quaderno di bordo 
+ 
+
+ N.B. - Le attrezzature e gli indumenti devono essere 
+ 
+
+ accuratamente puliti prima delle prove. Le prove di 
+ 
+
+ isolamento devono essere eseguite secondo le prescrizioni 
+ 
+
+ specifiche. 
+ 
+
+ 3.2.03. Verifiche sistematiche sul luogo di lavoro. 
+ 
+
+ Il preposto ai lavori, prima dell'inizio dei lavori o della loro ripresa, deve assicurarsi con un esame a vista del buono stato di conservazione e di pulizia dell'attrezzatura collettiva destinata alla esecuzione dei lavori stessi. 
+ 
+
+ Il preposto ai lavori deve inoltre controllare che le persone ai suoi ordini verifichino lo stato di conservazione e di efficienza della loro dotazione individuale. 
+ 
+
+ Qualora si riscontri che l'attrezzatura è deteriorata, se ne deve escludere l'impiego con l'apposizione di una indicazione evidente. In caso di ripristino, il materiale deve essere sottoposto nuovamente alle prove di collaudo, di cui in 3.2.01. Nel caso in cui il ripristino sia impossibile, l'attrezzatura deve essere resa immediatamente inservibile. 
+ 
+
+ CAPITOLO IV 
+ 
+
+ ESECUZIONE DEI LAVORI 
+ 
+
+ Sezione 1 
+ 
+
+ CONDIZIONI PER L'ESECUZIONE DEI LAVORI 
+ 
+
+ 4.1.01. Condizioni atmosferiche. 
+ 
+
+ In relazione al verificarsi di condizioni atmosferiche sfavorevoli, l'esecuzione dei lavori è regolata dalle seguenti disposizioni: 
+ 
+
+ a) lavori a distanza e lavori a potenziale: i lavori non possono essere iniziati in presenza delle condizioni atmosferiche definite in 1.2.03; possono però essere proseguiti al sopraggiungere di precipitazioni atmosferiche come definite al punto a) di 1.2.03; 
+ 
+
+ b) lavori a contatto: i lavori non possono essere iniziati nè proseguiti in presenza delle condizioni atmosferiche definite in 1.2.03; 
+ 
+
+ c) lavori su impianti all'interno con conduttori nudi: i lavori non possono essere nè iniziati nè proseguiti nel caso di cui alla lettera c) di 1.2.03. 
+ 
+
+ Allorchè le condizioni atmosferiche comportano l'interruzione del lavoro, il personale deve abbandonare il posto di lavoro lasciando i dispositivi isolanti in opera, assicurando la stabilità meccanica dell'impianto e assicurando, se necessario, un presidio sul luogo di lavoro. Quando le condizioni atmosferiche ritornano buone e prima della ripresa del lavoro, il preposto ai lavori deve verificare lo stato dell'attrezzatura e comunicare alla persona responsabile degli impianti interessati dai lavori la ripresa del lavoro e/o gli inconvenienti eventualmente constatati. 
+ 
+
+ 4.1.02. Lavori a distanza. 
+ 
+
+ L'operatore, posto a potenziale di terra, deve adoperare idonei attrezzi montati su aste adeguatamente isolate ed effettuare il lavoro rispettando la distanza minima di avvicinamento secondo i criteri indicati in 2.2.01. 
+ 
+
+ 4.1.03. Lavori a potenziale. 
+ 
+
+ L'operatore, posto su un supporto isolante, viene portato in vicinanza del conduttore su cui deve operare, mantenendo distanze superiori alle minime di avvicinamento rispetto alle parti a potenziale di terra, secondo i criteri indicati in 1.2.06, 2.2.01 e 2.2.02. 
+ 
+
+ Prima di toccare un conduttore sotto tensione, l'operatore deve garantire la sua equipotenzialità col conduttore stesso e con le eventuali parti metalliche dell'estremità del supporto isolante sul quale è posto (ad esempio: collegando il conduttore in tensione al rivestimento metallico sistemato all'interno del supporto). 
+ 
+
+ Gli operatori che lavorano a potenziale non devono indossare guanti isolanti e devono calzare adeguate scarpe a suola conduttrice. 
+ 
+
+ 4.1.04. Lavori a contatto. 
+ 
+
+ L'operatore, per potersi avvicinare alle parti in tensione a distanza minore di quella minima di avvicinamento di cui in 2.2.01, deve impiegare adeguati mezzi personali di protezione ed inoltre deve isolarsi nei confronti delle parti dell'impianto che hanno, o possono comunque assumere, un potenziale diverso dal suo (in particolare le parti conduttrici in tensione e quelle collegate a terra). A tale scopo deve usare idonei schermi isolanti coi quali, conseguentemente, egli può, senza pericolo, venire a contatto. 
+ 
+
+ Sezione 2 
+ 
+
+ SVOLGIMENTO DEI LAVORI 
+ 
+
+ 4.2.01. Richiesta di lavoro sotto tensione. 
+ 
+
+ L'esigenza di effettuare un lavoro sotto tensione è individuata dalla persona responsabile degli impianti interessati dai lavori, il quale ne richiede l'esecuzione al preposto ai lavori. 
+ 
+
+ Il preposto ai lavori verifica sul posto se il lavoro può essere realizzato sotto tensione e, in caso positivo, sceglie le procedure e le attrezzature più adatte al lavoro da effettuare. In caso contrario, il preposto ai lavori comunica alla persona responsabile degli impianti interessati dai lavori la impossibilità di effettuare il lavoro sotto tensione. 
+ 
+
+ 4.2.02. Misure preliminari. 
+ 
+
+ La persona responsabile degli impianti interessati dai lavori dà le disposizioni particolari per mettere l'impianto interessato in regime speciale di esercizio. 
+ 
+
+ Tale regime comporta i seguenti provvedimenti: 
+ 
+
+ a) soppressione delle richiusure automatiche con eventuale modifica della regolazione delle protezioni; 
+ 
+
+ b) divieto di rimettere in tensione l'impianto dopo l'eventuale apertura degli interruttori, senza accordo preliminare col preposto ai lavori. 
+ 
+
+ Queste disposizioni devono essere visualizzate sui quadri di comando e di protezione con cartelli previsti a tale scopo. 
+ 
+
+ Nel corso del lavoro deve essere assicurato un collegamento rapido e sicuro (esempio: telefoni, radio) tra il preposto ai lavori e la persona autorizzata a mettere fuori tensione, in caso di necessità, l'elemento di impianto sul quale si effettuano i lavori e tutti gli altri impianti interessati. 
+ 
+
+ Nei casi in cui non sia possibile assicurare tale collegamento, il lavoro può ugualmente essere eseguito, a condizione che sul luogo di lavoro venga messo in opera un dispositivo che permetta di provocare, in caso di bisogno, la messa fuori tensione dell'impianto. 
+ 
+
+ Quando queste misure sono state prese, la persona responsabile degli impianti interessati dai lavori rilascia al preposto ai lavori l'autorizzazione di lavoro sotto tensione. Questo documento precisa l'impianto o la parte dell'impianto interessato dai lavori e può essere consegnato direttamente o trasmesso con fonogramma. 
+ 
+
+ 4.2.03. Istruzioni agli operatori. 
+ 
+
+ Prima dell'inizio o della ripresa del lavoro, il preposto ai lavori precisa agli operatori le condizioni di applicazione delle procedure che saranno adottate. Egli deve assicurarsi, in questa occasione, che ciascuno di essi sia perfettamente edotto sia del suo compito, sia di come questo si integra nell'operazione d'insieme. 
+ 
+
+ 4.2.04. Inizio ed esecuzione dei lavori. 
+ 
+
+ Il preposto ai lavori, con i mezzi a disposizione, segnala l'inizio del lavoro alla persona responsabile degli impianti interessati dai lavori. 
+ 
+
+ Il preposto ai lavori sovraintende ai lavori ed è, a tale titolo, responsabile anche di tutte le misure riguardanti la sicurezza sul luogo di lavoro. 
+ 
+
+ Il preposto ai lavori deve allontanare il personale che presenta manifesti segni di alterazione psico-fisica e deve vietare la consumazione di bevande alcooliche durante i lavori. 
+ 
+
+ Nel caso in cui una interruzione del lavoro possa compromettere, per la sua probabile durata, la conclusione dei lavori entro il termine previsto, il preposto ai lavori ne deve dare comunicazione alla persona responsabile degli impianti interessati dai lavori. 
+ 
+
+ 4.2.05. Fine dei lavori. 
+ 
+
+ Alla fine dei lavori, il preposto ai lavori riunisce gli operatori e controlla la buona esecuzione dei lavori effettuati; successivamente egli trasmette, a mezzo modulo o fonogramma, alla persona responsabile degli impianti interessati dai lavori l'avviso di fine lavoro. 
+ 
+
+ CAPITOLO V 
+ 
+
+ COMITATO PER I LAVORI SOTTO TENSIONE 
+ 
+
+ Sezione 1 
+ 
+
+ ISTITUZIONE E COMPOSIZIONE DEL COMITATO 
+ 
+
+ PER I LAVORI SOTTO TENSIONE 
+ 
+
+ 5.1.01. Istituzione del comitato. 
+ 
+
+ Le aziende che intendono eseguire lavori sotto tensione devono preventivamente istituire, nel rispettivo ambito, un comitato per i lavori sotto tensione, avente la composizione ed i compiti specificati negli articoli seguenti. 
+ 
+
+ 5.1.02. Composizione del comitato. 
+ 
+
+ Il comitato per i lavori sotto tensione di cui in 5.1.01 deve risultare composto: 
+ 
+
+ a) da sette membri esperti nel settore dei lavori sotto tensione, nominati dall'azienda, ad uno dei quali, di livello non inferiore a quello di dirigente, viene attribuita la qualifica di presidente e ad un altro la qualifica di segretario dello stesso; 
+ 
+
+ b) da due ispettori del lavoro muniti di laurea in ingegneria, nominati dal Ministero del lavoro e della previdenza sociale tra i funzionari aventi la qualifica di dirigente che risultino membri della commissione consultiva permanente per la prevenzione degli infortuni e l'igiene del lavoro; 
+ 
+
+ c) da due ingegneri dell'ISPESL, nominati dallo stesso Istituto. 
+ 
+
+ Sezione 2 
+ 
+
+ ATTRIBUZIONI DEL COMITATO 
+ 
+
+ PER I LAVORI SOTTO TENSIONE 
+ 
+
+ 5.2.01. Compiti del comitato. 
+ 
+
+ Il comitato per i lavori sotto tensione deve: 
+ 
+
+ a) formulare sui programmi dei corsi di addestramento professionale, istituiti ai sensi dell'art. 2.1.02, il giudizio di rispondenza ai criteri di sicurezza stabiliti nel presente decreto; 
+ 
+
+ b) formulare i criteri secondo cui sottoporre il personale destinato ad eseguire i lavori sotto tensione agli esami finali dei corsi di addestramento professionale di cui al precedente punto a).
+ 
+
+ La commissione d'esame sarà composta da cinque membri, quattro dei quali nominati dall'azienda ed uno dal Ministero del lavoro e della previdenza sociale. In caso di commissioni territoriali il membro del Ministero del lavoro potrà essere designato dall'ispettorato regionale del lavoro entro la cui giurisdizione ricade la località sede degli esami; 
+ 
+
+ c) esaminare le procedure di lavoro di cui all'articolo 2.3.01 per la loro preventiva approvazione. 
+ 
+
+ 5.2.02. Deliberazioni del comitato. 
+ 
+
+ Il comitato per i lavori sotto tensione non può deliberare ove si registri l'assenza di almeno un terzo dei propri membri. 
+ 
+
+ Le deliberazioni debbono essere assunte a maggioranza assoluta; in caso di parità dei voti prevale quello del presidente. 
+ 
+
+ Il Ministro del lavoro e della previdenza sociale 
+ 
+
+ DONAT CATTIN
