@@ -102,26 +102,26 @@ UMBERTO I
  6 Direttori capi di divisione di 1&ordf; classe, a lire 7000. 
  
 
- 12 Direttori capi di divisione di 2&ordf; classe, a lire 6000. 
+ 
+ ((15))
+
+ Direttori capi di divisione di 2&ordf; classe, a lire 6000. 26 Capi sezione di 1&ordf; classe, a lire 5000. 
  
 
- 26 Capi sezione di 1&ordf; classe, a lire 5000. 
  
-
- 
- ((30))
+ ((29))
 
  Capi sezione di 2&ordf; classe, a lire 4500. 
  
 
  
- ((33))
+ ((32))
 
  Segretari di 1&ordf; classe, a lire 4000. 
  
 
  
- ((45))
+ ((44))
 
  Segretari di 2&ordf; classe, a lire 3500. 
  
@@ -129,16 +129,16 @@ UMBERTO I
  28 Segretari di 3&ordf; classe, a lire 3000. 
  
 
- 
- ((33))
-
- Vice segretari di 1&ordf; classe, a lire 2500. 
+ 33 Vice segretari di 1&ordf; classe, a lire 2500. 
  
 
  26 Vice segretari di 2&ordf; classe, a lire 2000. 
  
 
- 22 Vice segretari di 3&ordf; classe, a lire 1500. 
+ 
+ ((18))
+
+ Vice segretari di 3&ordf; classe, a lire 1500. 
  
 
  Volontari (numero indeterminato). 
@@ -165,10 +165,7 @@ UMBERTO I
  35 Archivisti di 3&ordf; classe, a lire 2700. 
  
 
- 
- ((81))
-
- Ufficiali d'ordine di 1&ordf; classe, a lire 2200. 
+ 81 Ufficiali d'ordine di 1&ordf; classe, a lire 2200. 
  
 
  58 Ufficiali d'ordine di 2&ordf; classe, a lire 1800. 
@@ -219,4 +216,19 @@ UMBERTO I
  1 Legatore di libri, 1500. 
  
 
- 1 Legatore di libri, 1350.
+ 1 Legatore di libri, 1350. 
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il Regio Decreto 21 settembre 1896, n. 452 ha disposto (con l'articolo unico, comma 1) che le presenti modifiche avranno effetto dal 1° ottobre p. v.
