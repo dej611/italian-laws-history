@@ -1,0 +1,90 @@
+TABELLA A 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Regioni e province autonome Coefficienti
+ 
+
+ Trento . . . . . . . . . . . . . . 1,425
+ 
+
+ Bolzano . . . . . . . . . . . . . 1,610
+ 
+
+ Valle d'Aosta . . . . . . . . . . 1,193
+ 
+
+ Piemonte . . . . . . . . . . 6,392
+ 
+
+ Liguria . . . . . . . . . . 2,586
+ 
+
+ Lombardia . . . . . . . . . . 7,709
+ 
+
+ Veneto . . . . . . . . . . 3,236
+ 
+
+ Friuli-Venezia Giulia . . . . . . 1,985
+ 
+
+ Emilia-Romagna . . . . . . . . . . 3,779
+ 
+
+ Marche . . . . . . . . . . 3,030
+ 
+
+ (di cui 0,678 per Marche sud)
+ 
+
+ Toscana . . . . . . . . . . 5,209
+ 
+
+ (di cui 0,283 per Toscana sud)
+ 
+
+ Umbria . . . . . . . . . . 2,243
+ 
+
+ Lazio . . . . . . . . . . 5,057
+ 
+
+ (di cui 2,672 per Lazio sud)
+ 
+
+ Abruzzo . . . . . . . . . . 6,248
+ 
+
+ Molise . . . . . . . . . . 2,927
+ 
+
+ Campania . . . . . . . . . . 7,868
+ 
+
+ Puglia . . . . . . . . . . 3,707
+ 
+
+ Basilicata . . . . . . . . . . 5,516
+ 
+
+ Calabria . . . . . . . . . . 8,902
+ 
+
+ Sicilia . . . . . . . . . . 7,405
+ 
+
+ Sardegna . . . . . . . . . . 11,973
+ 
+
+ -------
+ 
+
+ Totale . . . . . . . . . . 100,000))
