@@ -1,0 +1,64 @@
+APPENDICE -B- 
+ 
+
+ B.0. - OGGETTO E SCOPO 
+ 
+
+ La presente appendice contiene prescrizioni relative ad aspetti sicurezza acustica. 
+ 
+
+ Tali prescrizioni saranno rimosse dal presente regola tecnica allorchè questo specifico aspetto sarà oggetto della EN 60950. 
+ 
+
+ B.1. - LIMITAZIONE DEL LIVELLO DI PRESSIONE ACUSTICA 
+ 
+
+ Il terminale deve evitare che il livello di pressione acustica, generato dalla capsula ricevente, possa dar luogo a fenomeni di shock acustico ai danni dell'utilizzatore. 
+ 
+
+ L'idoneità del terminale deve essere verificata conformemente alla raccomandazione ITU/T P.36. (con riferimento al punto 1f si fissa il valore di + 41 dBPa di picco, con riferimento al punto 2f si fissa il valore di + 31 dBPa(A)). 
+ 
+
+ Il requisito deve essere verificato secondo quanto segue: 
+ 
+
+ - il microtelefono è montato in posizione LRGP sulla testa 
+ 
+
+ artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ - il livello di pressione acustica generato dal ricevitore è 
+ 
+
+ determinato mediante un microfono di misura, precedentemente 
+ 
+
+ calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ - i segnali da applicare ai capi dell'apparecchio telefonico sono di due tipi: impulsivi (punto 1f) e sinusoidali (punto 2f), rispettivamente per verificare la protezione da impulsi e da disturbi di più lunga durata; 
+ 
+
+ - per i segnali impulsivi il generatore deve essere conforme a 
+ 
+
+ quanto richiesto nella raccomandazione ITU/T P.36 e la tensione di test deve essere compresa tra 0 e 1.5 kV; 
+ 
+
+ - il segnale sinusoidale deve avere frequenza di 1000 (più o 
+ 
+
+ meno) 20 Hz e l'ampiezza deve essere aumentata fino a raggiungere 10 Vrms ai capi del telefono oppure fino a raggiungere il limite massimo di livello di pressione acustica nel ricevitore. La misura del livello di pressione acustica deve essere effettuata con la rete di pesatura "A"; 
+ 
+
+ - si deve evitare che la misura sia perturbata dal rumore ambiente 
+ 
+
+ e/o dall'accoppiamento acustico tra il ricevitore ed il microfono. 
+ 
+
+ Visto, Il Ministro delle poste e delle telecomunicazioni 
+ 
+
+ MACCANICO

@@ -1,0 +1,682 @@
+APPENDICE -A- 
+ 
+
+ A.0. - OGGETTO E SCOPO 
+ 
+
+ La presente appendice descrive le modalità tecnico-operative da seguire nella conduzione delle prove per la verifica di conformità alla presente regola tecnica. 
+ 
+
+ NOTA: la numerazione dei paragrafi della presente appendice non è sequenziale, ma rispecchia la numerazione dei paragrafi relativi ai requisiti da verificare. 
+ 
+
+ A.1. - ACCURATEZZA RICHIESTA 
+ 
+
+ L'accuratezza della strumentazione per la misura degli indici di intensità soggettiva deve essere contenuta in (più o meno) 0.5 dB. 
+ 
+
+ Il livello e la frequenza di ogni segnale generato devono essere misurati con strumenti di accuratezza migliore del (più o meno) 0,5%. 
+ 
+
+ I tempi devono essere rilevati con un'accuratezza migliore del (più o meno) 0,5%. 
+ 
+
+ Per tutte le grandezze non espressamente indicate si assume che l'accuratezza sia migliore del (più o meno) 1%. 
+ 
+
+ A.2. - CONDIZIONI AMBIENTALI 
+ 
+
+ A.2.1. - Condizioni ambientali per prove 
+ 
+
+ Se non diversamente precisato, le condizioni ambientali, durante l'esecuzione delle prove, devono essere comprese nei limiti sottoriportati: 
+ 
+
+ - temperatura compresa tra + 15 (gradi) C e + 35 (gradi) C; 
+ 
+
+ - umidità relativa compresa tra 25% e 75%; 
+ 
+
+ - pressione atmosferica compresa tra 86 kPa e 106 kPa; 
+ 
+
+ - rumorosità ambientali non superiore a - 44 dBPa(A). 
+ 
+
+ A.3. - PROVE FUNZIONALI E TEMPORIZZAZIONI 
+ 
+
+ A.3.1. - Terminale a riposo 
+ 
+
+ La prova deve essere eseguita mediante digitazione di tutte le cifre con il terminale nello stato di riposo, verificando l'assenza di selezione in linea. 
+ 
+
+ A.3.1.01. - Selezione decadica 
+ 
+
+ La misura deve essere effettuata realizzando il circuito di figura A.3.1.01. Il terminale deve essere posto nello stato di riposo e deve essere alimentato con una tensione Vf attraverso una resistenza Rf e una resistenza shunt Rs, come indicato in tabella A.3.1.01. Deve esser accertato che non avvenga l'invio della selezione rilevando la tensione Vs. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.3.1.02. - Selezione multifrequenza 
+ 
+
+ Il terminale deve essere collegato come indicato in figura A.3.1.02. 
+ 
+
+ Il terminale deve essere nello stato di riposo e alimentato con una tensione Vf attraverso una resistenza Rf, come indicato in tabella A.3.1.02. Per effettuare la prova, si devono successivamente digitare tutti i tasti, e verificare, per ciascuna cifra, che non avvenga l'invio della selezione. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.4. - PROVE ELETTRICHE 
+ 
+
+ A.4.1. - Tempo per il raggiungimento della piena operatività 
+ 
+
+ La misura deve essere effettuata utilizzando lo schema circuito la figura A.4.1. Il terminale viene alimentato da una tensione continua Vf = 48 V attraverso una resistenza da 100 (Omega); il generatore di tensione alternata, avente impedenza interna pari a 600 (Omega), eroga una sinusoide alla frequenza di 1 kHz avente f.e.m. pari a 1000 mV. 
+ 
+
+ Impegnando la linea mediante lo sgancio del microtelefono, si rileva il tempo che intercorre tra l'istante in cui il terminale raggiunge lo stato attivo (il valore di 15 mA) e l'istante in cui il segnale rilevato sull'orecchio artificiale ITU/T P.57 tipo 1 si stabilizza entro (più o meno) 3 dB rispetto al valore raggiunto a regime. 
+ 
+
+ La misura deve essere eseguita secondo le seguenti fasi: 
+ 
+
+ - fase 1 - sganciare il microtelefono senza alimentare; 
+ 
+
+ - fase 2 - alimentare l'apparecchio telefonico chiudendo 
+ 
+
+ l'interruttore t; 
+ 
+
+ - fase 3 - misurare il tempo per il raggiungimento della piena 
+ 
+
+ operatività. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Analoga procedura deve essere seguita per i terminali con prestazione viva voce, utilizzando il tasto per la conversazione a viva voce per l'impegno della linea ed un microfono di misura per la rilevazione della pressione acustica generata dall'altoparlante. 
+ 
+
+ A.5. - PROVE ELETTROACUSTICHE 
+ 
+
+ A.5.1. - Rumorosità del terminale in ricezione 
+ 
+
+ Le rilevazioni devono essere effettive in un ambiente il cui livello sonoro del rumore di fondo non sia superiore a - 64 dBPa(A). 
+ 
+
+ La misura deve essere effettuata con il circuito indicato in figura A.5.1., nelle condizioni di alimentazione indicate in tabella A.5.1. 
+ 
+
+ Il microtelefono deve essere montato sulla testa artificiale e posizionato al LRGP con il ricevitore accoppiato all'orecchio artificiale ITU/T P.57 tipo 1. Viene rilevato il livello di pressione sonora impiegando il filtro di pesatura "A". 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.5.2. - Innesco elettroacustico 
+ 
+
+ Le prove sono eseguite utilizzando il sistema di utente definito al paragrafo 1.4.4. della presente regola tecnica, con tensione di alimentazione pari a 48 V. 
+ 
+
+ Il sistema di utente deve essere chiuso sia su impedenza infinita, sia pari a 0 (Omega) e deve essere, per ciascuna modalità di terminazione, configurato successivamente con linee artificiali da 0 (Omega), 300 (Omega), 700 (Omega) 1000 (Omega) e 1400 (Omega). 
+ 
+
+ Il microtelefono deve essere posizionato su di una superficie piana rigida, come illustrato in figura A.5.2. I trasduttori devono essere affacciati su tale superficie, internamente ad un angolo diedro retto ad essa ortogonale. Ciascuna delle tre superfici generatrici dell'angolo diedro si deve estendere per almeno 0,5 m dal punto di incontro O dei tre piani perpendicolari.
+ 
+
+ Sulla superficie di appoggio si fissa il punto di riferimento R sulla bisettrice dell'angolo retto alla distanza di 0,25 m dal vertice O. La posizione del microtelefono lungo tale bisettrice deve essere tale da far corrispondere l'estremità di questo, dalla parte della capsula ricevente, al punto di riferimento sopra specificato. 
+ 
+
+ In nessuna delle 10 condizioni di misura sopra descritte deve verificarsi l'insorgere di inneschi. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.6. - PROVE TELEFONOMETRICHE 
+ 
+
+ Le prove sono eseguite utilizzando il sistema di utente definito nella presente regola tecnica, con tensione di alimentazione pari a 48 V. 
+ 
+
+ Gli schemi seguenti sono relativi alle configurazioni di misura Tx ed Rx. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (*) solo nelle misure con predisposizione per impianti derivati. 
+ 
+
+ A.6.1. - Curva di risposta in emissione 
+ 
+
+ Il sistema d'utente è chiuso su un carico resistivo di 600 (Omega). Il microtelefono è montato in posizione LRGP sulla testa artificiale. 
+ 
+
+ Il segnale di eccitazione della bocca artificiale ITU/T P.51 è tale da generare al MRP un livello di pressione acustica nominale pari a - 4,7 dBPa per tutte le frequenze da 200 Hz a 7 kHz. 
+ 
+
+ Il livello di pressione acustica è determinato eseguendo un processo di calibrazione. Tale processo consiste nel rilevare, per tutte le frequenze, il livello di pressione acustica al MRP con un microfono di misura da 1/2", precedentemente calibrato, posto perpendicolarmente all'asse di radiazione principale della bocca artificiale ITU/T P.51. 
+ 
+
+ La curva di risposta in emissione, espressa in dB(V/Pa), si ottiene come differenza tra il livello del segnale elettrico trasdotto ed il livello di pressione acustica rilevato in fase di calibrazione. 
+ 
+
+ Qualora la curva di risposta sia rilevata variando la frequenza del segnale a passi discreti, questi non devono essere superiori a 1/12 di ottava. 
+ 
+
+ A.6.2 - Curva di risposta in ricezione 
+ 
+
+ Il sistema d'utente è eccitato da un generatore con impedenza interna resistita di 600 (Omega) e f.e.m. di 490 mV. Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il livello di pressione acustica generato dal ricevitore è determinato mediante un microfono di misura, precedentemente calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1, nel campo di frequenze tra 200 Hz e 7 kH7. 
+ 
+
+ Il processo di calibrazione consiste nel determinare la sensibilità della catena microfonica, costituita dal microfono di misura e dal preamplificatore, utilizzando una sorgente di pressione sonora di riferimento. 
+ 
+
+ La curva di risposta in ricezione, espressa in dB(Pa/V), si ottiene come differenza tra il livello di pressione acustica rilevato al ERP e il livello del segnale elettrico applicato al sistema d'utente. 
+ 
+
+ Qualora la curva di risposta sia rilevata variando la frequenza del segnale a passi discreti, questi non devono essere superiori a 1/12 di ottava. 
+ 
+
+ A.6.3. - Indici di intensità soggettiva 
+ 
+
+ A.6.3.01. - Indici di intensità soggettiva in emissione 
+ 
+
+ (predisposizione per linee urbane) 
+ 
+
+ Il sistema d'utente è chiuso su un carico resistito di 600 (Omega) ed il microtelefono è montato in posizione LRGP sulla testa artificiale. 
+ 
+
+ Va utilizzato il circuito di figura A.6.a. con linea artificiale nulla e linee artificiali da 300 (Omega), 700 (Omega), 1000 (Omega) e 1400 (Omega). 
+ 
+
+ Il terminale deve essere predisposto per il collegamento alla linea urbana. Il segnale di eccitazione applicato alla bocca artificiale ITU/T P.51 è un rumore gaussiano con spettro conforme alla raccomandazione ITU/T P.50 tale da generare al MRP un livello di pressione acustica di - 4,7 dBPa. 
+ 
+
+ Il livello di pressione acustica è determinato eseguendo un processo di calibrazione. Tale processo consiste nel rilevare il livello di pressione acustica al MRP con un microfono di misura da 1/2", precedentemente calibrato, posto perpendicolarmente all'asse di radiazione principale della bocca artificiale ITU/T P.51. 
+ 
+
+ La sensibilità in emissione si ottiene dalla differenza tra il livello spettrale a terzi d'ottava del segnale elettrico trasdotto ed il livello di pressione acustica rilevato in fase di calibrazione. 
+ 
+
+ Il valore dell'indice di intensità soggettiva in emissione è calcolato in accordo alla formula 4.19b della raccomandazione ITU/T P.79 per le bande di frequenza da 1 a 20, utilizzando il fattore peso specificato nella tabella 2/P.79. 
+ 
+
+ A.6.3.02. - Indici di intensità soggettiva in ricezione 
+ 
+
+ (predisposizione per linee urbane) 
+ 
+
+ Il sistema d'utente è eccitato da un generatore con impedenza interna resistita di 600 (Omega) e f.e.m. di 490 mV. Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Va utilizzato il circuito di figura A.6.b. con linea artificiale nulla e linee artificiali da 300 (Omega), 700 (Omega), 1000 (Omega), e 1400 (Omega). 
+ 
+
+ Il terminale deve essere predisposto per il collegamento alla linea urbana. Il segnale di eccitazione applicato al sistema d'utente è un rumore gaussiano con spettro conforme alla raccomandazione ITU/T P.50. 
+ 
+
+ Il livello di pressione acustica generato dal ricevitore è determinato mediante un microfono di misura, precedentemente calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il processo di calibrazione consiste nel determinare la sensibilità della catena microfonica, costituita dal microfono di misura e dal preamplificatore, utilizzando una sorgente di pressione sonora di riferimento. 
+ 
+
+ La sensibilità in ricezione si ottiene dalla differenza tra il livello spettrale a terzi d'ottava del segnale acustico generato dal ricevitore ed il livello del segnale elettrico applicato. 
+ 
+
+ La sensibilità così ottenuta è corretta utilizzando il fattore LE, specificato in tabella 4/P.79. 
+ 
+
+ Il valore dell'indice di intensità soggettiva in ricezione è calcolato in accordo alla formula 4.19c della raccomandazione ITU/T P.79 per le bande di frequenza da 1 a 20, utilizzando il fattore peso specificato nella tabella 2/P.79. 
+ 
+
+ A.6.3.03. - Indici di intensità soggettiva per effetto locale 
+ 
+
+ (predisposizione per linee urbane) 
+ 
+
+ Il sistema d'utente è chiuso su un carico resistito di 600 (Omega). Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Va utilizzato il circuito di figura A.6.b. con linea artificiale nulla e linee artificiali da 300 (Omega), 700 (Omega) 1000 (Omega) e 1400 (Omega). 
+ 
+
+ Il terminale deve essere predisposto per il collegamento alla linea urbana. Il segnale di eccitazione applicato alla bocca artificiale ITU/T P.51 è un rumore gaussiano con spettro conforme alla raccomandazione ITU/T P.50 tale da generare al MRP un livello di pressione acustica pari a - 4,7 dBPa. 
+ 
+
+ Il livello di pressione acustica generato è determinato eseguendo un processo di calibrazione come indicato in A.6.3.01. 
+ 
+
+ Il livello di pressione acustica generata dal ricevitore è determinata mediante un microfono in misura, precedentemente calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il valore dell'indice di intensità soggettiva per l'effetto lo- cale è calcolato in accordo alla formula 8-4 della raccomandazione ITU/T P.79 per le bande di frequenza da 1 a 20, utilizzando il fattore peso specificato nella seconda colonna della tabella 6/P.79 ed il fattore di correzione LE, specificato in tabella 4/P.79. 
+ 
+
+ A.6.3.04. - Terminale predisposto per impianti derivati - emissione Si procede come al paragrafo A.6.3.01., ma con il terminale predisposto per impianti derivati, LA = 0 (Omega) e corrente di alimentazione pari a 25 mA. Questa può essere ottenuta sia diminuendo opportunamente il valore della tensione di alimentazione Vf, sia inserendo una resistenza Rf, di valore adeguato, in serie all'alimentatore. 
+ 
+
+ Il requisito deve esser inoltre rispettato con corrente di alimentazione pari a 50 mA. 
+ 
+
+ A.6.3.05. - Terminale predisposto per impianti derivati - ricezione Si procede come al paragrafo A.6.3.02., ma con il terminale predisposto per impianti derivati, LA = 0 (Omega) e corrente di alimentazione pari a 25 mA. Questa può essere ottenuta sia diminuendo opportunamente il valore della tensione di alimentazione Vf, sia inserendo una resistenza Rf, di valore adeguato, in serie all'alimentatore. 
+ 
+
+ Il requisito deve esser inoltre rispettato con corrente di alimentazione pari a 50 mA. 
+ 
+
+ A.6.3.06. - Terminale predisposto per impianti derivati - effetto 
+ 
+
+ locale 
+ 
+
+ Si procede come al paragrafo A.6.3.03., ma con il terminale predisposto per impianti derivati, LA = 0 (Omega) e corrente di alimentazione pari a 25 mA. Questa può essere ottenuta sia diminuendo opportunamente il valore della tensione di alimentazione Vf, sia inserendo una resistenza Rf, di valore adeguato, in serie all'alimentatore. 
+ 
+
+ Il requisito deve esser inoltre rispettato con corrente di alimentazione pari a 50 mA. 
+ 
+
+ A.6.4. - Distorsione di non linearità in emissione 
+ 
+
+ Il sistema d'utente è chiuso su un carico di 600 (Omega). Il microtelefono è montato in posizione LRGP sulla testa artificiale. 
+ 
+
+ Il segnale di eccitazione applicato alla bocca artificiale ITU/T P.51 è un segnale sinusoidale a frequenza compresa tra 300 Hz e 3400 Hz, tale da generare al MRP un livello di pressione acustica di + 1,3 dBPa. 
+ 
+
+ Il livello di pressione acustica è determinato eseguendo un processo di calibrazione. Tale processo consiste nel rilevare, per tutte le frequenze, il livello di pressione acustica al MRP con un microfono di misura da 1/2", precedentemente calibrato, posto perpendicolarmente all'asse di radiazione principale della bocca artificiale ITU/T P.51. 
+ 
+
+ Qualora la misura venga effettuata variando la frequenza a passi discreti l'intervallo di ciascuna frequenza di misura dalla successiva non deve esser maggiore di 1/3 di ottava (vedi ISO-3-1973/R10). 
+ 
+
+ A.6.5. - Distorsione di non linearità in ricezione 
+ 
+
+ Il sistema d'utente è eccitato da un generatore con impedenza interna resistiva di 600 (Omega) e f.e.m. di 1000 m.v. Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il segnale di eccitazione applicato al sistema d'utente è un 
+ 
+
+ segnale sinusoidale a frequenza compresa tra 300 Hz e 3400 Hz. 
+ 
+
+ La pressione acustica erogata dal ricevitore è rilevata mediante un microfono di misura, precedentemente calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ II processo di calibrazione consiste nel determinare la sensibilitàdella catena microfonica, costituita dal microfono di misura e dal preamplificatore, utilizzando una sorgente di pressione sonora di riferimento. 
+ 
+
+ Qualora la misura venga effettuata variando la frequenza a passi discreti l'intervallo di ciascuna frequenza di misura dalla successiva non deve esser maggiore di 1/3 di ottava (vedi ISO-3-1973/R10). 
+ 
+
+ A.6.6. - Distorsione di non linearità per effetto locale 
+ 
+
+ Il sistema d'utente è terminato su un'impedenza infinita. 
+ 
+
+ Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il segnale di eccitazione applicato alla bocca artificiale ITU/T P.51 è un segnale sinusoidale a frequenza compresa tra 300 Hz e 3400 Hz, tale da generare al MRP un livello di pressione acustica di + 1,3 dBPa. 
+ 
+
+ Il livello di pressione acustica è determinato eseguendo un processo di calibrazione come indicato in A.6.4. 
+ 
+
+ La pressione acustica erogata dal ricevitore è rilevata mediante un microfono di misura da 1/2", precedentemente calibrato, inserito nell'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Qualora la misura venga effettuata variando la frequenza a passi discreti l'intervallo di ciascuna frequenza di misura dalla successiva non deve esser maggiore di 1/3 di ottava (vedi ISO-3-1973/R10). 
+ 
+
+ A.7. - PROVE DI CHIAMATA ACUSTICA 
+ 
+
+ A.7.1. - Livello di pressione acustica 
+ 
+
+ La misura deve essere effettuata applicando ai morsetti di linea del terminale una tensione alternata sinusoidale avente f.e.m. pari a 70 V eff e frequenza 25 Hz. 
+ 
+
+ Le condizioni della misura sono: 
+ 
+
+ - il terminale deve essere posto in camera anecoica; 
+ 
+
+ - il terminale telefonico deve essere posto al centro della 
+ 
+
+ superficie di una tavola di legno, avente dimensioni minime di 1m x 1m x 20 mm, che non deve presentare fenomeni di risonanza; 
+ 
+
+ - il microfono per la rilevazione del livello acustico deve essere 
+ 
+
+ posto ad una distanza di 50 cm dal centro del terminale, caratterizzata da una componente orizzontale pari a 40 cm e da una componente verticale (verso l'alto) rispetto alla superficie di appoggio pari a 30 cm (figura A.7.1.01.); 
+ 
+
+ Si devono effettuare 6 misure di livello di pressione sonora con la regolazione della soneria al massimo, in punti equispaziati intorno al terminale oggetto della misura (figura A.7.1.02.). Per tali rilevazioni deve essere utilizzata una rete di pesatura del livello di pressione sonora di tipo "A". 
+ 
+
+ Il livello di pressione sonora La della soneria sarà dato dalla media dei valori di intensità acustica misurati in ciascuno dei 6 punti suddetti, mediante la seguente relazione: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ Li = livello di pressione sonora, espresso in dB(A), rilevato nel generico punto i-esimo di misura. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.8. - PROVE DEGLI AUSILI PER PORTATORI DI HANDICAP 
+ 
+
+ A.8.1. Ausilio per non vedenti 
+ 
+
+ L'asperità situata sulla superficie del tasto "5" deve risultare rilevabile al tatto. 
+ 
+
+ Si deve verificare che i tasti e le cifre siano disposti secondo quanto indicato al paragrafo 8.1. 
+ 
+
+ A.8.2. - Ausilio per deboli di udito 
+ 
+
+ La misura deve essere effettuata secondo lo schema circuitale riportato in figura A.8.2., con linea artificiale da 300 (Omega).
+ 
+
+ L'intensità del campo magnetico emesso dalla capsula ricevente si ricava rilevando selettivamente con una bobina/sonda, conforme ai requisiti espressi nella raccomandazione ITU/T P.37 e calibrata, le tre componenti vettoriali dello stesso. 
+ 
+
+ Il generatore E deve erogare un segnale alla frequenza di 1 kHz tale da produrre un livello di pressione sonora pari a -14 dBPa con la capsula ricevente accoppiata all'orecchio artificiale ITU/T P 57 tipo 1. 
+ 
+
+ Con lo stesso livello di eccitazione si deve rilevare inoltre l'andamento dell'intensità del campo magnetico in corrispondenza di tutte le frequenze centrali delle bande a terzi d'ottava (ISO 3 serie R.10) nella gamma da 315 Hz a 3150 Hz ed alle frequenze estreme di 300 Hz e di 3400 Hz. 
+ 
+
+ Con un segnale sinusoidale avente frequenza pari a 1 kHz e livello di 20 dB maggiore rispetto al segnale impiegato per le rilevazioni precedenti, si misura l'intensità del campo magnetico emesso dalla capsula ricevente e se ne valuta la linearità. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.9. - PROVE RELATIVE AGLI APPARECCHI TELEFONICI DI TIPO SPECIALE 
+ 
+
+ A.9.3. - Apparecchi telefonici con regolazione di livello in 
+ 
+
+ ricezione 
+ 
+
+ A.9.3.01. Prove dell'ascolto da microtelefono 
+ 
+
+ A.9.3.01.b. - Innesco elettroacustico 
+ 
+
+ Le prove sono eseguite utilizzando il sistema di utente definito al paragrafo 1.4.4. della presente regola tecnica, con tensione di alimentazione pari a 48 V. 
+ 
+
+ Il sistema di utente deve essere chiuso sia su impedenza infinita sia pari a 0 (Omega) e deve essere, per ciascuna modalità di terminazione, configurato successivamente con linee artificiali da 0 (Omega), 300 (Omega), 700 (Omega), 1000 (Omega) e 1400 (Omega). 
+ 
+
+ Il regolatore di livello del microtelefono deve essere regolato per la condizione di massimo guadagno. 
+ 
+
+ Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ A.9.3.01.c. - Rumori impulsivi durante i transitori 
+ 
+
+ Il terminale telefonico deve essere collegato al sistema d'utente definito al paragrafo 1.4.4. con tensione di alimentazione pari a 48 V linea artificiale da 0 (Omega) e chiusura su impedenza infinita. 
+ 
+
+ Il microtelefono è montato in posizione LRGP sulla testa artificiale e il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il regolatore di livello del microtelefono è regolato per la condizione di massimo guadagno. 
+ 
+
+ Il terminale viene sollecitato ripetutamente portandolo dalla condizione di conversazione a quella di riposo e viceversa. 
+ 
+
+ Il livello acustico impulsivo prelevato tramite microfono di misura posto nell'orecchio artificiale viene rivelato utilizzando uno strumento di misura in grado di rilevare il valore di picco del segnale. 
+ 
+
+ A.9.5 - Apparecchi telefonici per ascolto binaurale 
+ 
+
+ A.9.5.01. - Prove elettroacustiche con ricevitore supplementare 
+ 
+
+ inserito 
+ 
+
+ Se il ricevitore supplementare non è disinseribile verificare che le caratteristiche elettroacustiche del ricevitore principale del terminale siano in norma con ricevitore supplementare inserito. 
+ 
+
+ Se il ricevitore supplementare è disinseribile verificare che, almeno in questa condizione, le caratteristiche elettroacustiche del ricevitore principale del terminale siano in norma. 
+ 
+
+ I requisiti dovranno essere verificati secondo quanto indicato nei paragrafi A.6 e A.7. della presente regola tecnica. 
+ 
+
+ A.9.6. - Apparecchi telefonici con funzione di selezione abbreviata A.9.6.04. - Assorbimento massimo di corrente in fase di 
+ 
+
+ memorizzazione 
+ 
+
+ Il terminale telefonico deve essere collegato al sistema d'utente definito al paragrafo 1.4.4. con tensione di alimentazione pari a 48 V e linea artificiale da 0 (Omega). 
+ 
+
+ Nella fase di memorizzazione viene rilevata, mediante microamperometro, la corrente massima assorbita. 
+ 
+
+ Visto, Il Ministro delle poste e delle telecomunicazioni 
+ 
+
+ MACCANICO
