@@ -36,7 +36,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Entro il 30 giugno 1989, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e della marina mercantile, può essere concessa, per la durata massima di quattro mesi, una indennità pari al trattamento straordinario di integrazione salariale ai dipendenti delle imprese, delle aziende e delle ditte di cui all'articolo 9, comma 10- bis, del decreto-legge 17 dicembre 1986, n. 873, convertito, con modificazioni, dalla legge 13 febbraio 1987, n. 26, le quali versino in stato di grave crisi, determinato dalla contrazione dei traffici marittimi, e che ne facciano domanda al Ministero della marina mercantile entro venti giorni dalla data di entrata in vigore del presente decreto. 
+ 1. Entro il 30 giugno 1989, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e della marina mercantile, può essere concessa, per la durata massima di 
+ ((otto))
+
+ mesi, una indennità pari al trattamento straordinario di integrazione salariale ai dipendenti delle imprese, delle aziende e delle ditte di cui all'articolo 9, comma 10- bis, del decreto-legge 17 dicembre 1986, n. 873, convertito, con modificazioni, dalla legge 13 febbraio 1987, n. 26, le quali versino in stato di grave crisi, determinato dalla contrazione dei traffici marittimi, e che ne facciano domanda al Ministero della marina mercantile entro venti giorni dalla data di entrata in vigore del presente decreto. 
  
 
  
@@ -44,7 +47,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per ogni singola impresa, azienda o ditta è determinato, con il decreto di cui al comma 1, il numero delle indennità concedibili, che non può essere complessivamente superiore a 5.000. 
+ 2. Per ogni singola impresa, azienda o ditta è determinato, con il decreto di cui al comma 1, il numero delle indennità concedibili, che non può essere complessivamente superiore a 
+ ((350))
+
+ . 
  
 
  
@@ -63,4 +69,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((3-bis. Fermo restando l'importo di lire 34 miliardi di cui al comma 4, le somme non impiegate per la concessione delle indennità di cui al comma 1 sono utilizzate per incrementare lo stanziamento dell'apposito capitolo da iscriversi nello stato di previsione del Ministero della marina mercantile a norma dell'articolo 9, comma 8, del decreto-legge 4 marzo 1989, n. 77, convertito, con modificazioni, dalla legge 5 maggio 1989, n. 160))
+ 
+
+ 
+
+ 
  4. All'onere derivante dall'attuazione del presente articolo, valutato in lire 34 miliardi, si provvede a carico della separata contabilità degli interventi straordinari della Cassa integrazione guadagni degli operai dell'industria, con parziale utilizzo del contributo dello Stato di cui all'articolo 8, comma 2, della legge 22 dicembre 1986, n. 910.
+ (( La somma di lire 34 miliardi è pertanto iscritta nello stato di previsione dell'entrata e corrispondentemente nello stato di previsione spesa del Ministero del lavoro e della previdenza sociale))
+
+ .
