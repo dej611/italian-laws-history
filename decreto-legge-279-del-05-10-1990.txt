@@ -44,7 +44,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Il comitato espleta i propri compiti entro il termine di tre mesi, decorrenti dalla data di entrata in vigore del presente decreto. 
+ 2. Il comitato espleta i propri compiti entro il termine di 
+ ((dodici mesi))
+
+ , decorrenti dalla data di entrata in vigore del presente decreto. 
  
 
  
@@ -52,4 +55,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. La competenza del comitato sostituisce ogni altra competenza collegiale in materia.
+ 3. La competenza del comitato sostituisce ogni altra competenza collegiale in materia. 
+ ((Il comitato sovrintende all'attività di controllo delle condizioni della torre e attiva gli interventi necessari alla sicurezza della stessa))
+
+ .
