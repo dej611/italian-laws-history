@@ -1,0 +1,1255 @@
+ALLEGATO 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Codice NC P R O D O T T O
+ 
+
+ 
+ 
+
+ 0409 00 00 Miele naturale
+ 
+
+ 0701 10 00 Tuberi-semi di patate
+ 
+
+ 0701 90 10 Patate da consumo, fresche,
+ 
+
+ 0701 90 90 refrigerate, disidratate, disseccate e patate per uso industriale
+ 
+
+ 1105 20 00 Fiocchi di patate
+ 
+
+ 1704 90 10 Prodotti a base di zuccheri non
+ 
+
+ contenenti cacao
+ 
+
+ 1704 90 30
+ 
+
+ 1704 90 51
+ 
+
+ 1704 90 55
+ 
+
+ 1704 90 61
+ 
+
+ 1704 90 65
+ 
+
+ 1704 90 71
+ 
+
+ 1704 90 75
+ 
+
+ 1704 90 81
+ 
+
+ 1704 90 99
+ 
+
+ 2207 10 00
+ 
+
+ 2207 20 00 Alcole etilico
+ 
+
+ 2208 20 10 Bevande alcoliche
+ 
+
+ 2208 20 90
+ 
+
+ 2208 30 11
+ 
+
+ 2208 30 19
+ 
+
+ 2208 30 91
+ 
+
+ 2208 30 99
+ 
+
+ 2208 40 10
+ 
+
+ 2208 40 90
+ 
+
+ 2208 50 11
+ 
+
+ 2208 50 19
+ 
+
+ 2208 50 91
+ 
+
+ 2208 50 99
+ 
+
+ 2208 90 11
+ 
+
+ 2208 90 19
+ 
+
+ 2208 90 31
+ 
+
+ 2208 90 33
+ 
+
+ 2208 90 39
+ 
+
+ 2208 90 51
+ 
+
+ 2208 90 53
+ 
+
+ 2208 90 55
+ 
+
+ 2208 90 59
+ 
+
+ 2208 90 71
+ 
+
+ 2208 90 73
+ 
+
+ 2208 90 79
+ 
+
+ 2402 20 00 Sigarette e tabacco per pipa
+ 
+
+ 2402 90 00
+ 
+
+ 2403 10 00
+ 
+
+ 2403 91 00
+ 
+
+ 2403 99 90
+ 
+
+ 2529 10 00 Feldspato
+ 
+
+ 2817 00 00 Ossido di zinco
+ 
+
+ 2824 20 00 Minio
+ 
+
+ 2841 30 00 Dicromato di sodio
+ 
+
+ 2900 50 00 Stirolo (stirene)
+ 
+
+ 2905 16 10
+ 
+
+ 2905 16 90 Alcoli ottilici
+ 
+
+ 2907 11 00 Fenolo e suoi sali
+ 
+
+ 2912 41 00
+ 
+
+ 2912 42 00 Vanillina e etilvanillina
+ 
+
+ 2912 90 00
+ 
+
+ 2932 90 70 Altri acidi carbossilici a funzioni
+ 
+
+ ossigenate semplici o complesse
+ 
+
+ 2926 10 00 Acrilonittile
+ 
+
+ 2941 10 00 Antibiotici (esclusi cloramfenicolo e
+ 
+
+ tetracicline
+ 
+
+ 2941 50 00
+ 
+
+ 2941 90 00
+ 
+
+ 3204 11 00 Coloranti organici sintetici
+ 
+
+ 3204 12 00
+ 
+
+ 3204 13 00
+ 
+
+ 3204 14 00
+ 
+
+ 3204 15 00
+ 
+
+ 3204 16 00
+ 
+
+ 3204 17 00
+ 
+
+ 3204 19 00
+ 
+
+ 3206 42 00 Litopone
+ 
+
+ 3301 19 10 Olii essenziali
+ 
+
+ 3301 90 10
+ 
+
+ 3601 00 00 Polveri da caccia
+ 
+
+ 3808 30 10 Erbicidi e sostanze attivate
+ 
+
+ ex 3808 30 90
+ 
+
+ 3901 10 10 Materie plastiche
+ 
+
+ 3907 10 00
+ 
+
+ 3907 20 90
+ 
+
+ 3907 30 00
+ 
+
+ 3907 40 00
+ 
+
+ 3907 50 00
+ 
+
+ 3907 60 00
+ 
+
+ 3907 91 00
+ 
+
+ 3907 99 00
+ 
+
+ 3909 10 00
+ 
+
+ 3909 20 00
+ 
+
+ 3909 30 00
+ 
+
+ 3909 40 00
+ 
+
+ 3909 50 00
+ 
+
+ 3910 00 00
+ 
+
+ 3911 90 10
+ 
+
+ 3914 00 00
+ 
+
+ 3915 90 99
+ 
+
+ 3916 90 11
+ 
+
+ 3916 90 13
+ 
+
+ 3916 90 15
+ 
+
+ 3916 90 19
+ 
+
+ 3917 29 11
+ 
+
+ 3917 29 13
+ 
+
+ 3917 31 90
+ 
+
+ 3917 32 11
+ 
+
+ 3917 32 19
+ 
+
+ 3917 39 11
+ 
+
+ 3917 39 13
+ 
+
+ 3919 10 10
+ 
+
+ 3919 10 39
+ 
+
+ 3919 90 31
+ 
+
+ 3919 90 35
+ 
+
+ 3919 90 39
+ 
+
+ 3920 61 00
+ 
+
+ 3920 62 00
+ 
+
+ 3920 63 00
+ 
+
+ 3920 69 00
+ 
+
+ 3920 92 00
+ 
+
+ 3920 93 00
+ 
+
+ 3920 94 00
+ 
+
+ 3920 99 11
+ 
+
+ 3920 99 19
+ 
+
+ 3921 13 00
+ 
+
+ 3921 19 10
+ 
+
+ 3921 19 90
+ 
+
+ 3921 90 11
+ 
+
+ 3921 90 19
+ 
+
+ 3921 90 20
+ 
+
+ 3921 90 30
+ 
+
+ 3921 90 41
+ 
+
+ 3921 90 43
+ 
+
+ 3921 90 49
+ 
+
+ 3921 90 50
+ 
+
+ 3901 10 10 Prodotti di polimerizzazione e di
+ 
+
+ copolimerizzazione
+ 
+
+ 3901 10 90
+ 
+
+ 3901 20 00
+ 
+
+ 3902 10 00
+ 
+
+ 3902 20 00
+ 
+
+ 3903 11 00
+ 
+
+ 3903 19 00
+ 
+
+ 3903 20 00
+ 
+
+ 3903 30 00
+ 
+
+ 3903 90 00
+ 
+
+ 3904 10 00
+ 
+
+ 3904 21 00
+ 
+
+ 3904 22 00
+ 
+
+ 3904 30 00
+ 
+
+ 3904 40 00
+ 
+
+ 3904 50 00
+ 
+
+ 3904 61 00
+ 
+
+ 3904 69 00
+ 
+
+ 3904 90 00
+ 
+
+ 3905 11 00
+ 
+
+ 3905 19 00
+ 
+
+ 3905 20 00
+ 
+
+ 3905 90 00
+ 
+
+ 3906 10 00
+ 
+
+ 3906 90 00
+ 
+
+ 3911 10 00
+ 
+
+ 3914 00 00
+ 
+
+ 3915 10 00
+ 
+
+ 3915 20 00
+ 
+
+ 3915 30 00
+ 
+
+ 3915 90 11
+ 
+
+ 3915 90 13
+ 
+
+ 3915 90 19
+ 
+
+ 3916 10 00
+ 
+
+ 3916 20 00
+ 
+
+ 3916 90 51
+ 
+
+ 3916 90 59
+ 
+
+ 3917 21 10
+ 
+
+ 3917 22 10
+ 
+
+ 3917 23 10
+ 
+
+ 3917 29 15
+ 
+
+ 3917 32 31
+ 
+
+ 3917 32 35
+ 
+
+ 3917 32 39
+ 
+
+ 3917 39 15
+ 
+
+ 3918 10 10
+ 
+
+ 3918 10 90
+ 
+
+ 3918 90 00
+ 
+
+ 3919 10 10
+ 
+
+ 3919 10 51
+ 
+
+ 3919 10 59
+ 
+
+ 3919 90 50
+ 
+
+ 3920 10 11
+ 
+
+ 3920 10 19
+ 
+
+ 3920 10 90
+ 
+
+ 3920 20 10
+ 
+
+ 3920 20 50
+ 
+
+ 3920 20 71
+ 
+
+ 3920 20 79
+ 
+
+ 3920 20 90
+ 
+
+ 3920 30 00
+ 
+
+ 3920 41 10
+ 
+
+ 3920 41 90
+ 
+
+ 3920 42 10
+ 
+
+ 3920 42 90
+ 
+
+ 3920 51 00
+ 
+
+ 3920 59 00
+ 
+
+ 3920 99 50
+ 
+
+ 3921 11 00
+ 
+
+ 3921 12 00
+ 
+
+ 3921 19 90
+ 
+
+ 3921 90 60
+ 
+
+ 4814 20 00
+ 
+
+ 3915 90 91 Cellophane
+ 
+
+ 3916 90 90
+ 
+
+ 3917 10 90
+ 
+
+ 3917 29 19
+ 
+
+ 3917 32 51
+ 
+
+ 3917 39 19
+ 
+
+ 3919 10 90
+ 
+
+ 3920 71 11
+ 
+
+ 3920 71 19
+ 
+
+ 3920 71 90
+ 
+
+ 3921 90 90
+ 
+
+ 3912 20 11 Nitrati di cellulosa
+ 
+
+ 3912 20 19
+ 
+
+ 3912 20 90
+ 
+
+ 3915 90 91
+ 
+
+ 3916 90 90
+ 
+
+ 3917 29 19
+ 
+
+ 3917 32 51
+ 
+
+ 3917 39 19
+ 
+
+ 3919 10 90
+ 
+
+ 3919 90 90
+ 
+
+ 3920 79 00
+ 
+
+ 3921 19 90
+ 
+
+ 3921 90 90
+ 
+
+ 4002 11 00 Lattice di gomma sintetica
+ 
+
+ 4002 20 00
+ 
+
+ 4002 31 00
+ 
+
+ 4002 39 00
+ 
+
+ 4002 41 00
+ 
+
+ 4002 51 00
+ 
+
+ 4002 60 00
+ 
+
+ 4002 70 00
+ 
+
+ 4002 91 00
+ 
+
+ 4010 10 00
+ 
+
+ 4010 91 00
+ 
+
+ 4010 10 00 Nastri trasportatori e cinghie di
+ 
+
+ trasmissione di gomma vulcanizzata
+ 
+
+ 4104 10 10
+ 
+
+ Cuoio e pelli bovine (compresi i
+ 
+
+ bufali) e di equidi, preparati, esclusi quelli dei codici NC 4108 00 10, 4108
+ 
+
+ 00 90 e 4109 00 00
+ 
+
+ 4104 10 30
+ 
+
+ 4104 22 10
+ 
+
+ 7202 21 10 Ferro-silicio
+ 
+
+ 7202 21 90
+ 
+
+ 7202 29 00
+ 
+
+ 7202 30 00
+ 
+
+ Ferro-silicio-manganese
+ 
+
+ 7202 80 00
+ 
+
+ Ferro-tungsteno
+ 
+
+ 9406 00 30
+ 
+
+ Capannoni, case di abitazione e
+ 
+
+ costruzioni simili, di ghisa, ferro e
+ 
+
+ acciaio
+ 
+
+ 7325 10 10
+ 
+
+ Chiusini di ghisa
+ 
+
+ 7601 10 00 Alluminio greggio
+ 
+
+ 7601 20 10
+ 
+
+ 7601 20 90
+ 
+
+ 7614 10 00 Cavi, corde trecce e simili, di fili
+ 
+
+ di alluminio 7614 90 10
+ 
+
+ 7614 90 90
+ 
+
+ 7901 11 00 Zinco greggio
+ 
+
+ 7901 12 10
+ 
+
+ 7901 12 30
+ 
+
+ 7901 12 90
+ 
+
+ 7901 20 00 Leghe di zinco
+ 
+
+ 8110 00 19
+ 
+
+ Cascami di antimonio
+ 
+
+ 7304 20 10
+ 
+
+ Macchine ed apparecchi per
+ 
+
+ l'estrazione, lo sterramento,
+ 
+
+ l'escavazione o la perforazione del
+ 
+
+ suolo; loro parti e pezzi staccati
+ 
+
+ 8429 11 00
+ 
+
+ 8429 19 00
+ 
+
+ 8429 20 00
+ 
+
+ Macchine edili, macchine per lavori
+ 
+
+ stradali, parti staccate ed accessori
+ 
+
+ 8429 30 00
+ 
+
+ 8429 40 90
+ 
+
+ 8429 51 90
+ 
+
+ 8429 52 00
+ 
+
+ 8429 59 00
+ 
+
+ 8430 10 00
+ 
+
+ 8430 20 00
+ 
+
+ 8430 31 00
+ 
+
+ 8430 39 00
+ 
+
+ 8430 41 00
+ 
+
+ 8430 49 00
+ 
+
+ 8430 50 00
+ 
+
+ 8430 61 00
+ 
+
+ 8430 62 00
+ 
+
+ 8430 69 00
+ 
+
+ 8431 41 00
+ 
+
+ 8431 42 00
+ 
+
+ 8431 43 00
+ 
+
+ 8431 49 10
+ 
+
+ 8431 49 90
+ 
+
+ 8470 10 00
+ 
+
+ Macchine calcolatrici elettroniche e
+ 
+
+ loro parti
+ 
+
+ 8470 21 00
+ 
+
+ 8470 29 00
+ 
+
+ 8473 21 00
+ 
+
+ 8456 90 00
+ 
+
+ Impianti galvano-tecnici, parti di
+ 
+
+ ricambio ed accessori
+ 
+
+ 8543 30 00
+ 
+
+ 8543 20 00
+ 
+
+ Generatori elettrici di bassa e alta
+ 
+
+ frequenza
+ 
+
+ 8546 10 00
+ 
+
+ Materiali isolanti per installazioni
+ 
+
+ elettriche, compresi gli isolatori di
+ 
+
+ porcellana per alta tensione e bassa
+ 
+
+ tensione
+ 
+
+ 8546 20 10
+ 
+
+ 8546 20 91
+ 
+
+ 8546 20 99
+ 
+
+ 8546 90 90
+ 
+
+ 8701 10 10
+ 
+
+ Trattori, loro parti, pezzi staccati ed accessori
+ 
+
+ 8701 10 90
+ 
+
+ 8701 20 90
+ 
+
+ 8701 30 00
+ 
+
+ 8701 90 11
+ 
+
+ 8701 90 15
+ 
+
+ 8701 90 21
+ 
+
+ 8701 90 25
+ 
+
+ 8701 90 31
+ 
+
+ 8701 90 35
+ 
+
+ 8701 90 39
+ 
+
+ 8701 90 50
+ 
+
+ 8701 90 90
+ 
+
+ ex 8708
+ 
+
+ 8903 91 10
+ 
+
+ 8903 92 10
+ 
+
+ Imbarcazioni da diporto o da sport
+ 
+
+ 9305 21 00
+ 
+
+ Munizioni per armi da caccia
+ 
+
+ 9305 30 91
+ 
+
+ 9305 30 93
+ 
+
+ 7217 11 10
+ 
+
+ Fili di ferro o di acciaio nudi o
+ 
+
+ rivestiti, esclusi i fili isolati per
+ 
+
+ l'elettricità
+ 
+
+ 7217 11 90
+ 
+
+ 7217 12 10
+ 
+
+ 7217 12 90
+ 
+
+ 7217 13 11
+ 
+
+ 7217 13 19
+ 
+
+ 7217 13 91
+ 
+
+ 7217 13 99
+ 
+
+ 7217 19 10
+ 
+
+ 7217 19 90
+ 
+
+ 7217 21 00
+ 
+
+ 7217 22 00
+ 
+
+ 7217 23 00
+ 
+
+ 7217 29 00
+ 
+
+ 7307 21 00
+ 
+
+ Flange per tubi di ghisa, di ferro o di acciaio
+ 
+
+ 7307 91 00
+ 
+
+ ex 7307 29 10
+ 
+
+ Raccordi per tubi di ghisa, di ferro o di acciaio
+ 
+
+ ex 7307 99 10
+ 
+
+ ex 2934 90 90
+ 
+
+ Acido 6-amminopenicillenico
+ 
+
+ ex 2707 99 91
+ 
+
+ Derivati di oli minerali ex 3915 90 99 Pellicole frantumate (cascami e rottami di pellicole)
+ 
+
+ 7901 11 00
+ 
+
+ Zinco non legato contenente in peso il 99,99% o più di zinco
+ 
+
+ ex 7325 99 90
+ 
+
+ Cassette metalliche per utensili
+ 
+
+ ex 7326 90 91
+ 
+
+ ex 7326 90 93
+ 
+
+ ex 7326 91 00 Altri lavori in ferro e acciaio
+ 
+
+ 7326 11 00
+ 
+
+ 7326 20 10
+ 
+
+ 7326 20 90
+ 
+
+ 7326 90 40
+ 
+
+ 7326 90 50
+ 
+
+ 7326 90 60
+ 
+
+ 7326 90 70
+ 
+
+ 7326 90 91
+ 
+
+ 7326 90 93
+ 
+
+ 7326 90 99
+ 
+
+ ex 7326 90 91
+ 
+
+ Picchetti, palerie ed accessori per
+ 
+
+ tende da campeggio
+ 
+
+ ex 7326 90 93
+ 
+
+ ex 7326 90 99
+ 
+
+ 4006 10 00
+ 
+
+ Lavori in plastica e gomma
+ 
+
+ 4006 90 00
+ 
+
+ 5604 20 00
+ 
+
+ 5604 90 00
+ 
+
+ 7310 10 00
+ 
+
+ Lavori in metallo
+ 
+
+ 7310 21 91
+ 
+
+ 7310 21 99
+ 
+
+ 7310 29 10
+ 
+
+ 7310 29 90
+ 
+
+ 7325 10 10
+ 
+
+ 7325 10 90
+ 
+
+ 7325 99 10
+ 
+
+ 7325 99 90
