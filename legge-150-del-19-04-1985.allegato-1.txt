@@ -1,0 +1,89 @@
+TABELLA A
+ 
+
+ 
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | Numero
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 
+
+ 
+ Ruolo dei commissari: |
+ 
+
+ 
+ Vice commissario |
+ 
+
+ 
+ Commissario | 1.532
+ 
+
+ 
+ Ruolo degli ispettori: |
+ 
+
+ 
+ Vice ispettore | 3.000
+ 
+
+ 
+ Ispettore | 2.400
+ 
+
+ 
+ Ispettore principale | 1.890
+ 
+
+ 
+ Ispettore capo | 1.378
+ 
+
+ 
+ Ruolo dei sovrintendenti: |
+ 
+
+ 
+ Vice sovrintendente |
+ 
+
+ 
+ Sovrintendente |
+ 
+
+ 
+ Sovrintendente principale | 13.380
+ 
+
+ 
+ Sovrintendente capo | 5.850
+ 
+ ((Ruolo degli agenti e assistenti:
+ 
+
+ 
+ agente
+ 
+
+ 
+ agente scelto
+ 
+
+ 
+ assistente \ 67.281.
+ 
+
+ 
+ assistente capo / ))
