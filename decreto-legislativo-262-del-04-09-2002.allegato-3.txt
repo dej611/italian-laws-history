@@ -1,0 +1,1650 @@
+ALLEGATO III 
+ (articolo 2) 
+ 
+Metodo di misurazione del rumore aereo delle macchine ed attrezzature
+ utilizzate all'aperto 
+ 
+ AMBITO DI APPLICAZIONE 
+ 
+ Il presente allegato stabilisce il metodo di misurazione del rumore
+trasmesso per via aerea da applicare per determinare il livello di
+potenza sonora delle macchine ed attrezzature di cui all'Allegato I,
+disciplinate dal presente decreto ai fini delle procedure di
+valutazione di conformita' di cui al decreto stesso. 
+ 
+ La parte a) dell'allegato stabilisce per ciascun tipo di macchine
+ed attrezzature che rientra nella definizione cui si fa riferimento
+all'articolo 1, comma 2, 
+ - le norme di base relative all'emissione acustica, 
+ - le specifiche di ordine generale che integrano dette norme di
+base, 
+ 
+ per misurare il livello di pressione sonora su una superficie di
+misurazione che inviluppa la sorgente e per calcolare il livello di
+potenza sonora prodotto dalla sorgente. 
+ 
+ La parte b) del presente allegato stabilisce, per ciascun tipo di
+macchine ed attrezzature che rientra nella definizione cui si fa
+riferimento all'articolo 1, comma 2, 
+ 
+ una norma di base raccomandata, comprendente i seguenti parametri: 
+ = estremi della norma di base prescelta tra quelle della parte A 
+ = area di prova 
+ = valore della costante K2A 
+ = forma della superficie di misurazione 
+ = numero e ubicazione dei microfoni da utilizzare 
+ 
+ le condizioni operative, comprendenti 
+ = estremi dell'eventuale norma applicabile 
+ = disposizioni relative al monitoraggio della macchina o
+attrezzatura 
+ = espressione del livello di potenza sonora nel caso in cui si
+debbano eseguire diversi rilievi in condizioni operative diverse 
+ 
+ - altre informazioni. 
+ 
+ In generale per sottoporre alle prove un determinato tipo di
+macchine ed attrezzature il fabbricante o il suo mandatario possono
+scegliere una delle norme di base sull'emissione acustica della parte
+a) ed applicarla alle condizioni operative previste per quel tipo di
+macchine ed attrezzature alla parte b). In caso di controversia,
+tuttavia deve essere usata la norma di base raccomandata di cui alla
+parte b), contestualmente alle condizioni operative ivi descritte. 
+ 
+ Parte A 
+ 
+ 
+ Norme di base relative all'emissione acustica 
+ 
+ Per la determinazione del livello di potenza sonora delle macchine
+ed attrezzature destinate a funzionare all'aperto che rientrano nella
+definizione di cui all'articolo 1, comma 2 del presente decreto si
+possono generalmente applicare le norme di base sull'emissione
+acustica 
+ EN ISO 3744:1995 
+ EN ISO 3746: 1995 
+ purche' con le seguenti specifiche complementari: 
+ 
+ 1. Incertezze della misura 
+ Le incertezze della misura non sono prese in considerazione nel
+contesto delle procedure di valutazione della conformita' in fase di
+progettazione. 
+ 
+ 2. Funzionamento della sorgente nel corso della prova 
+ 2.1 Velocita' della ventola 
+ Se il motore o il sistema idraulico della macchina e' dotato di una
+o piu' ventole, queste devono essere in funzione durante la prova. La
+velocita' delle ventole e' fissata e dichiarata dal fabbricante della
+macchina, conformemente ad una delle seguenti condizioni, e deve
+figurare sul resoconto di prova, in quanto e' la velocita' che sara'
+usata per le successive misurazioni. 
+ a) Ventola direttamente collegata al motore 
+ Se la trasmissione della ventola e' direttamente connessa al motore
+e/o al sistema idraulico (ad es. mediante cinghia) la ventola deve
+essere in funzione durante la prova. 
+ b) Ventola a piu' velocita' distinte 
+ Se la ventola puo' funzionare a piu' velocita' distinte, la prova
+puo' essere effettuata: 
+ - alla velocita' massima di funzionamento; 
+ - oppure in una prima prova con la ventola funzionante a velocita'
+zero e in una seconda prova con la ventola a velocita' massima. In
+tal caso il livello di pressione sonora risultante LpA si ottiene
+combinando i due risultati mediante la seguente equazione: 
+ LpA = 10 log10 «0,3 x 10°,1LpA,0% + 0,7 x 10°,1LpA,100%» 
+ dove: 
+ LpA,0% e' il livello di pressione sonora riscontrato con la ventola
+funzionante a velocita' zero; 
+ LpA,100% e' il livello di pressione sonora riscontrato con la
+ventola funzionante a velocita' massima. 
+ c) Ventola a variazione continua della velocita' 
+ Se la ventola puo' funzionare con variazione continua della
+velocita', la prova puo' essere effettuata conformemente al punto
+2.1, lettera b) o a una velocita' della ventola fissata dal
+fabbricante non inferiore al 70% di quella massima. 
+ 2.2 Prova a vuoto su macchine motorizzate 
+ Per queste misurazioni il motore ed il sistema idraulico della
+macchina devono essere portati a regime termico stabilizzato
+conformemente alle istruzioni e devono essere osservate le norme di
+sicurezza. 
+ La prova si svolge a macchina ferma senza azionare ne' i
+dispositivi di lavoro ne' quelli di traslazione. Ai fini della prova
+il motore deve funzionare ad un regime non inferiore al regime
+nominale di rotazione che sviluppa la potenza netta (*). 
+ 
+ Se la macchina e' alimentata da un generatore elettrico o dalla
+rete pubblica, la frequenza della corrente di alimentazione,
+specificata dal fabbricante per quel motore, deve essere mantenuta
+entro ± 1 Hz se la macchina e' dotata di motore ad induzione, mentre
+la tensione di alimentazione e' mantenuta entro ± 1% della tensione
+nominale se la macchina e' dotata di motore a collettore. La tensione
+di alimentazione si misura a livello della spina se il filo o cavo
+non e' scollegabile, o alla connessione della macchina se questa e'
+fornita di cavo scollegabile. La forma d'onda della corrente fornita
+dal generatore deve essere simile a quella della corrente fornita
+dalla rete pubblica. 
+ Se la macchina funziona a batteria, la batteria deve essere
+completamente carica. 
+ Velocita' e potenza netta corrispondente sono fissate dal
+fabbricante della macchina e devono figurare sul resoconto di prova. 
+ Se la macchina dispone di piu' motori, questi devono funzionare
+simultaneamente durante le prove. Qualora cio' sia impossibile, la
+prova deve essere svolta su ogni combinazione possibile di motori. 
+ 2.3 Prova a carico su macchine motorizzate 
+ Per queste misurazioni il motore (organo di propulsione) ed il
+sistema idraulico della macchina devono essere portati a regime
+termico stabilizzato conformemente alle istruzioni e devono essere
+osservate le norme di sicurezza. Non devono essere azionati nel corso
+della prova dispositivi di segnalazione quali clacson o avvisatori
+acustici di retromarcia. 
+ La velocita' della macchina in prova deve essere registrata e
+riportata sul resoconto di prova. 
+ Se la macchina dispone di motori e/o aggregati, questi devono
+funzionare simultaneamente durante la prova. Qualora cio' sia
+impossibile, la prova deve essere svolta su ogni combinazione
+possibile di motori e/o aggregati. 
+ Per ciascun tipo di macchine ed attrezzature la prova a carico
+devono essere fissate condizioni operative specifiche che, in linea
+di principio, producano effetti e sollecitazioni simili a quelli
+riscontrati durante l'effettivo funzionamento. 
+ 2.4 Prova su macchine ad azionamento manuale 
+ Per ciascun tipo di macchine ad azionamento manuale devono essere
+fissate condizioni operative convenzionali che producano effetti e
+sollecitazioni simili a quelli riscontrati durante l'effettivo
+funzionamento. 
+ 
+ 3. Calcolo del livello di pressione sonora superficiale 
+ Il livello di pressione sonora superficiale e' determinato almeno
+tre volte: se almeno due dei valori riscontrati non divergono di piu'
+di 1 dB(A), non sono necessari ulteriori rilievi; altrimenti occorre
+ripeterli fino ad ottenere due letture che differiscono fra loro di
+meno di 1 dB(A). Il livello di pressione sonora superficiale
+ponderato A da utilizzare nel calcolo del livello di potenza sonora
+e' la media aritmetica dei due valori piu' elevati che differiscono
+fra loro di meno di 1 dB(A). 
+ 
+ 4. Resoconto di prova 
+ Il livello di potenza sonora ponderato A della sorgente in prova
+deve essere approssimato al numero intero piu' vicino (meno di 0,5:
+arrotondare per difetto; maggiore o uguale a 0,5: arrotondare per
+eccesso). 
+ Il resoconto deve contenere tutti i dati tecnici necessari ad
+identificare la sorgente in prova, nonche' i metodi di misurazione
+del rumore e i dati acustici. 
+ 
+ 5. Posizione dei microfoni supplementari sulla superficie
+emisferica di misurazione (EN ISO 3744:1995) 
+ Oltre a quanto prescritto ai punti 7.2.1 e 7.2.2 della norma EN ISO
+3744:1995, sulla superficie di misurazione emisferica puo' essere
+usato un insieme di 12 microfoni. Le coordinate dei 12 microfoni
+distribuiti sulla superficie di misurazione emisferica di raggio r,
+sono elencate sotto forma di coordinate cartesiane, nella seguente
+tabella. Il raggio r della superficie di misurazione emisferica sara'
+uguale o maggiore al doppio della dimensione massima del
+parallelepipedo di riferimento. Il parallelepipedo di riferimento e'
+definito quale il piu' piccolo parallelepipedo rettangolare possibile
+che racchiude l'apparecchiatura (senza accessori) e che termina sulla
+superficie riflettente. Il raggio della superficie di misurazione
+emisferica verra' arrotondato per eccesso al numero piu' vicino ai
+seguenti valori: 4, 10, 16 m. 
+ Il numero dei microfoni (12) puo' essere ridotto fino a 6 ma le
+posizioni dei microfoni 2, 4, 6, 8, 10, e 12, conformemente ai
+requisiti del punto 7.4.2 della norma EN ISO 3744:1995 devono essere
+utilizzate comunque. 
+ In generale deve essere utilizzata la disposizione con 6 posizioni
+di microfoni su una superficie di misurazione emisferica. Qualora un
+metodo di prova dell'emissione acustica nel presente decreto
+stabilisca altri requisiti per attrezzature specifiche, vengono
+utilizzati tali requisiti. 
+ Tabella: Coordinate della posizione dei 12 microfoni 
+ 
+ 
+ 
+
+ +-------------------+-----------+-----------+-----------+
+ |Numero di microfoni| x/r | y/r | z |
+ +-------------------+-----------+-----------+-----------+
+ | 1 | 1 | 0 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 2 | 0,7 | 0,7 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 3 | 0 | 1 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 4 | -0,7 | 0,7 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 5 | -1 | 0 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 6 | -0,7 | -0,7 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 7 | 0 | -1 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 8 | 0,7 | -0,7 | 1,5m |
+ +-------------------+-----------+-----------+-----------+
+ | 9 | 0,65 | 0,27 | 0,71r |
+ +-------------------+-----------+-----------+-----------+
+ | 10 | -0,27 | 0,65 | 0,71r |
+ +-------------------+-----------+-----------+-----------+
+ | 11 | -0,65 | -0,27 | 0,71r |
+ +-------------------+-----------+-----------+-----------+
+ | 12 | 0,27 | -0,65 | 0,71r |
+ +-------------------+-----------+-----------+-----------+
+ 
+ 
+ 
+ 6. Correzione rumore ambiente K2A 
+ Le attrezzature vengono misurate su una superficie piana
+riflettente in cemento o asfalto non poroso, quindi la correzione del
+rumore ambientale K2A viene impostata su K2A=0. Qualora un metodo di
+prova dell'emissione acustica nel presente decreto stabilisca altri
+requisiti per attrezzature specifiche, vengono utilizzati tali. 
+ 
+ Figura 
+ 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ 
+ Parte B 
+ 
+ 
+Metodi di prova dell'emissione acustica per ciascun tipo di macchine
+ ed attrezzature 
+ 
+ 0 MACCHINE PROVATE A VUOTO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ Superficie riflettente in cemento o asfalto non poroso 
+ Correzione rumore ambientale K2A 
+ K2A = 0 
+ Superficie/posizioni/distanza di misurazione 
+ (i) se la dimensione maggiore del parallelepipedo di riferimento
+non supera 8 m: 
+ emisfero/posizione dei 6 microfoni conformemente alla parte A,
+paragrafo 5 / conformemente alla parte A paragrafo 5 
+ (ii) se la dimensione maggiore del parallelepipedo di riferimento
+supera 8 m: 
+ parallelepipedo / ISO 3744.1995 con distanza di misurazione d = 1m 
+ Condizioni operative nel corso della prova 
+ Prova a vuoto 
+ Le prove di emissione acustica devono essere effettuate
+conformemente alla parte a) punto 2.2. 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 1. PIATTAFORME DI ACCESSO AEREO CON MOTORE A COMBUSTIONE INTERNA 
+ vedi numero 0 
+ 
+ 2. DECESPUGLIATORI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 10884:1995 
+ Superficie / posizioni / distanza di misurazione 
+ ISO 10884:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ ISO 10884:1995, punto 5.3 
+ Tempo/i di osservazione 
+ ISO 10884:1995 
+ 
+ 3. MONTACARICHI PER MATERIALI DA CANTIERE 
+ vedi numero 0 
+ Il centro geometrico del motore deve trovarsi sopra al centro
+dell'emisfero; il dispositivo di sollevamento deve essere azionato a
+vuoto e, se necessario, lasciare l'emisfero in direzione del punto 1. 
+ 
+ 4. SEGHE A NASTRO PER CANTIERI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 7960:1995 allegato J con d = 1m 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ equivalente alla norma ISO 7960:1995, Allegato J (esclusivamente
+punto J2b). 
+ Tempo di osservazione 
+ equivalente alla norma ISO 7960:1995, Allegato J. 
+ 
+ 5. SEGHE CIRCOLARI PER CANTIERI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 7960:1995 allegato A, distanza di misurazione d = 1m 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ ISO 7960:1995, Allegato A (esclusivamente punto A2b). 
+ Tempo di osservazione 
+ ISO 7960:1995, Allegato A. 
+ 
+ 6. MOTOSEGHE A CATENA PORTATILI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 9207:1995 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 9207:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico / Prova a vuoto 
+ legna da taglio a pieno carico/motore funzionante al massimo regime
+a vuoto 
+ a) con motore a combustione interna: ISO 9207:1995 punti 6.3 e 6.4 
+ b) con motore elettrico: una prova corrispondente alla norma ISO
+9207:1995, punto 6.3 e una prova con il motore funzionante al massimo
+regime a vuoto 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ ISO 9027 1995 punti 6.3 e 6.4 
+ Il livello di potenza sonora risultante LWA si ottiene con la
+formula: 
+ Lwa = 10 log 1/2 [10 0,1LW1 + 10 0,1LW2] 
+ dove Lw1 e Lw2 sono i livelli medi di potenza sonora delle due
+diverse modalita' di funzionamento definite sopra. 
+ 
+ 7. VEICOLI COMBINATI DI SPURGO 
+ Se e' possibile azionare simultaneamente ambedue i dispositivi,
+cio' deve avvenire conformemente ai numeri 26 e 52. Altrimenti, i
+rispettivi valori si misurano separatamente e si riportano i valori
+massimi rilevanti. 
+ 
+ 8. MEZZI DI COMPATTAZIONE 
+ (i) RULLI STATICI 
+ vedi numero 0 
+ (ii) RULLI VIBRANTI AZIONATI DA OPERATORI A BORDO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Il rullo vibrante deve essere montato su uno o piu' supporti in
+materiale elastico come appositi cuscini d'aria. Questi cuscini
+devono essere di materiale resiliente (elastomeri e simili) e
+gonfiati ad una pressione tale da sollevare la macchina di almeno 5
+cm da terra; occorre evitare gli effetti di risonanza. 
+ Le dimensioni dei cuscini devono essere tali da garantire la
+stabilita' della macchina in prova. 
+ Prova a carico 
+ La prova si effettua a macchina ferma, con motore al regime
+nominale (specificato dal fabbricante) ed i meccanismi di traslazione
+scollegati. Il meccanismo compattante e' fatto funzionare alla
+massima potenza di compattazione corrispondente alla combinazione
+della massima frequenza e della massima ampiezza per detta frequenza,
+secondo la dichiarazione dal fabbricante. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ (iii) PIASTRE VIBRANTI, MEZZI VIBRANTI, MEZZI COSTIPANTI AD AZIONE
+D'URTO E RULLI VIBRANTI AZIONATI DA UN OPERATORE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ EN 500-4 rev. 1.1998 Allegato C 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ EN 500-4 rev. 1.1998 Allegato C 
+ Tempo di osservazione 
+ EN 500-4 rev. 1.1998 Allegato C 
+ 
+ 9. MOTOCOMPRESSORI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ Emisfero/posizioni dei 6 microfoni conformemente alla parte A,
+paragrafo 5/conformemente alla parte A, paragrafo 5 
+ o 
+ parallelepipedo conformemente a norma ISO 3744:1995 con distanza di
+misurazione d = 1m 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Il compressore deve essere montato sul piano riflettente; quelli su
+slitte devono poggiare su un supporto alto 0,40 m, salvo diversa
+prescrizione del fabbricante relativamente all'installazione. 
+ Prova a carico 
+ Il compressore all'esame deve essere riscaldato e deve operare in
+condizioni stabili come per il funzionamento continuato. Ne viene
+assicurata la manutenzione e la lubrificazione secondo quanto
+specificato dal costruttore. 
+ La determinazione del livello di potenza acustica viene effettuata
+a pieno carico o in condizioni di funzionamento che siano
+riproducibili e rappresentative del funzionamento piu' rumoroso
+dell'utilizzazione tipica della macchina all'esame, a seconda di
+quello piu' rumoroso. 
+ Qualora la struttura dell'intero impianto si a tale per cui talune
+componenti, ad esempio i refrigeratori, siano istallati lontano dal
+compressore, durante l'esecuzione della prova di emissione acustica
+si cerca di separare il rumore generato da siffatte parti. La
+separazione delle varie sorgenti acustiche puo' richiedere
+attrezzature speciali per attenuare il rumore da esse prodotto
+durante la misurazione. Le caratteristiche sonore e la descrizione
+delle condizioni operative di tali parti vengono fornite
+separatamente nel resoconto di prova. 
+ Durante la prova, il gas emesso dal compressore viene convogliato
+all'esterno dell'area di prova. Si fara' attenzione a che le
+emissioni sonore generate dal gas di scarico siano inferiori di
+almeno 10 dB alle emissioni rilevate a tutti i punti di misurazione
+(ad esempio installando un silenziatore). 
+ Si provvedera' affinche' le emissioni di aria non introducano
+ulteriori emissioni sonore a causa della turbolenza presso la valvola
+di scarico del compressore. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 10. MARTELLI DEMOLITORI TENUTI A MANO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ Emisfero/posizioni dei 6 microfoni conformemente alla parte A,
+paragrafo 5 e alla seguente tabella/conformemente alla massa della
+macchina come descritto nella seguente tabella 
+ 
+
++---------------------+----------------------+------------------------+
+|Massa della macchina | Raggio dell'emisfero | z per posizioni |
+| | | microfoni 2, 4, 6 e 8 |
++---------------------+----------------------+------------------------+
+| m Parte di provvedimento in formato grafico
+ 
+ 11. BETONIERE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ Il miscelatore (bicchiere) e' riempito per il volume nominale di
+sabbia con granulometria 0-3 mm, l'umidita' deve essere fra 4 e 10%. 
+ Il miscelatore e' azionato almeno alla velocita' nominale. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 12. ARGANI PER CANTIERI 
+ vedi numero 0 
+ Il centro geometrico del motore deve trovarsi sopra il centro
+dell'emisfero; l'argano e' collegato ma non soggetto a carico. 
+ 
+ 13. POMPE PER CEMENTO ED INTONACATRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Se la macchina e' dotata di braccio estensibile, questo e' in
+posizione verticale e la condotta di mandata e' ricondotta all'imbuto
+di riempimento. Altrimenti alla macchina e' applicata una condotta di
+mandata orizzontale di almeno 30 m ricondotta all'imbuto di
+riempimento. 
+ Prova a carico 
+ (i) Pompe per calcestruzzo: 
+ Si riempiono il sistema di trasporto e la condotta di mandata di un
+fluido simile al calcestruzzo, in cui il materiale legante e'
+sostituito da un additivo, per es. ceneri fini. La macchina viene
+azionata alla potenza massima ed il periodo del ciclo di lavoro non
+deve superare 5 secondi (se il periodo e' maggiore, si annacqua il
+«cemento» fino ad ottenere questo valore). 
+ (ii) Pompe per intonaco: 
+ Si riempiono il sistema di trasporto e la condotta di mandata di
+fluido simile all'intonaco per finiture, in cui il materiale legante
+e' sostituito da un additivo, per es. metilcellulosa. La macchina
+viene azionata alla potenza massima ed il periodo del ciclo di lavoro
+non deve superare 5 secondi (se il periodo e' maggiore, si annacqua
+il «cemento» fino ad ottenere questo valore). 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 14. TRASPORTATORI A NASTRO 
+ vedi numero 0 
+ Il centro geometrico del motore deve trovarsi sopra il centro
+dell'emisfero; la traslazione del nastro avviene senza carico e, se
+necessario, lasciare l'emisfero in direzione del punto 1. 
+ 
+ 15. IMPIANTI FRIGORIFERI MONTATI SU VEICOLO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ L'impianto frigorifero deve essere applicato a un vano di carico
+reale o simulato, e provato in condizione statica, l'altezza
+dell'impianto frigorifero deve essere rappresentativa delle
+condizioni di installazione indicate dalle istruzioni fornite
+all'acquirente. La fonte di energia dell'impianto frigorifero deve
+funzionare al regime che sviluppa la massima velocita' del
+compressore e della ventola come specificato nelle istruzioni. Se
+l'impianto frigorifero e' azionato dal motore del veicolo, questo non
+deve essere usato durante la prova e l'impianto frigorifero deve
+essere collegato a un'opportuna fonte di energia elettrica. Durante
+la prova la matrice amovibile deve essere rimossa. 
+ Gli impianti frigoriferi che hanno la scelta tra diverse fonti di
+energia devono essere collaudati separatamente per ciascuna di tali
+fonti. I resoconti di prova devono come minimo riportare il modo di
+funzionamento che determina la massima emissione acustica. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 16. APRIPISTA 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Gli apripista cingolati sono provati sul terreno di prova
+conformemente al punto 6.3.3 della norma ISO 6395:1998 
+ Prova a carico 
+ ISO 6395:1988 Allegato B 
+ Tempo/i di osservazione e osservanza di eventuali condizioni
+operative diverse 
+ ISO 6395:1988 Allegato B 
+ 
+ 17. PERFORATRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ EN 791:1995 Allegato A 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 18. DUMPER 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ Equivalente ISO 6395:1988 Allegato C con le seguenti modifiche: 
+ il secondo paragrafo del punto C. 4.3 e' sostituito dal testo
+seguente: 
+ «Il motore e' fatto funzionare al regime massimo a vuoto. Il cambio
+deve essere in folle. Ribaltare (vuotare) il cassone per il 75% del
+movimento totale e riportarlo in posizione di marcia per tre volte.
+Questa sequenza di operazioni costituisce un solo ciclo di
+funzionamento del meccanismo idraulico a veicolo fermo. 
+ Se il ribaltamento del cassone non avviene mediante presa di forza
+dal motore, quest'ultimo e' azionato al minimo con la trasmissione in
+folle. Il rilievo si effettua senza ribaltare il cassone. Il tempo di
+osservazione e' di almeno 15 secondi.» 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ ISO 6395:1998 Allegato C 
+ 
+ 19. ATTREZZATURE PER IL CARICO E LO SCARICO DI AUTOBOTTI E AUTOSILI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova dell'attrezzatura si esegue a veicolo fermo. Il motore che
+aziona l'attrezzatura deve funzionare al regime che sviluppa la
+potenza massima specificata nelle istruzioni per l'uso. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 20. ESCAVATORI IDRAULICI O A FUNI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ ISO 6395:1988 Allegato A 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni 
+ ISO 6395:1988 Allegato A 
+ 
+ 21. TERNE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ ISO 6395:1988 Allegato D 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ ISO 6395:1988 Allegato D 
+ 
+ 22. CAMPANE PER LA RACCOLTA DEL VETRO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Ai fini della presente prova dell'emissione acustica, il livello di
+pressione sonora singolo Lp1s, quale e' definito nella norma EN ISO
+3744:1995, punto 3.2.2 viene utilizzato nella misurazione del livello
+di potenza sonora presso le posizioni dei microfoni. 
+ Correzione rumore ambientale K2A 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ Il valore della costante K2A, ottenuto conformemente all'allegato A
+della norma EN ISO 3744:1995, deve essere ? 2,0 dB, nel caso K2A e'
+trascurabile. 
+ Condizioni operative nel corso della prova 
+ La misurazione delle emissioni sonore viene effettuata durante un
+ciclo completo che inizia con il contenitore vuoto e termina quando
+nel contenitore sono state gettate 120 bottiglie. 
+ Le bottiglie di vetro sono cosi' definite: 
+ - capacita' : 75 cl 
+ - massa : 370 ± 30 g. 
+ L'operatore che esegue la prova tiene ciascuna bottiglia per il
+collo, con il fondo rivolto verso l'apertura di inserimento, quindi
+la spinge delicatamente attraverso l'apertura verso il centro del
+contenitore, evitando se possibile che la bottiglia urti le pareti.
+Per gettare le bottiglie viene utilizzata una sola apertura di
+inserimento, ossia quella piu' vicina alla posizione di microfono 12. 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ Il livello di pressione sonora pesato A singolo e' misurato di
+preferenza simultaneamente alle sei posizioni dei microfoni per
+ciascuna bottiglia gettata nel contenitore. 
+ Il livello di pressione sonora pesato A singolo, ottenuto come
+media sulla superficie di misurazione, e' calcolato conformemente
+alla norma EN ISO 3744:1995, punto 8.1. 
+ Il livello di potenza sonora pesato A singolo, ottenuto come media
+su tutti i 120 lanci di bottiglie, e' calcolato come media
+logaritmica dei livelli di pressione sonora singoli valutati in A
+ottenuti come media sulla superficie di misurazione. 
+ 
+ 23. MOTOLIVELLATRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ corrispondente alla norma ISO 6395:1988 Allegato B 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ ISO 6395:1988 Allegato B 
+ 
+ 24. TAGLIAERBA (TRIMMER) / TAGLIABORDI 
+ vedi numero 2 
+ Un congegno apposito tiene l'apparecchio in posizione tale che
+l'organo di taglio si trovi sopra il centro dell'emisfero. Per i
+rifinitori il centro dell'organo di taglio deve essere tenuto a curva
+50 mm dalla superficie. Per adattare correttamente le lame, i
+tagliaerba bordatori devono essere posizionati il possibile vicino
+alla superficie di prova. 
+ 
+ 25. TAGLIASIEPI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ In caso di controversia, i rilievi di eseguono all'aperto su
+superficie artificiale (cfr. punto 4.1.2 della norma ISO 11094: 1991) 
+ Correzione rumore ambientale K2A 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ Il valore della costante K2A, ottenuto senza la superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ? 2.0 dB, nel qual caso K2A e' trascurabile. 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ L'apparecchio e' tenuto da un operatore o da un congegno apposito
+nella normale posizione di lavoro in modo che l'organo di taglio si
+trovi sopra il centro dell'emisfero. 
+ Prova a carico 
+ La prova si effettua con il tagliasiepi funzionate al regime
+nominale e con l'organo di taglio in fase di lavoro. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 26. SPURGATUBI AD ALTA PRESSIONE 
+ Norma si base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova si esegue con la macchina in posizione stazionaria. Il
+motore e i componenti ausiliari funzionano al regime specificato dal
+fabbricate per l'azionamento degli organi di lavoro; la pompa o le
+pompe ad alta pressione funzionano alla velocita' ed alla pressione
+operativa massima specificate dal fabbricante. Si utilizza un ugello
+adattato per tenere il riduttore di pressione appena al di sotto
+della soglia di reazione. Il rumore di flusso dell'ugello non deve
+influire sui risultati delle misurazioni. 
+ Tempo si osservazione 
+ Il tempo di osservazione e' di almeno 30 secondi. 
+ 
+ 27. IDROPULITRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ parallelepipedo/conformemente a norma EN ISO 3744:1995 con distanza
+di misurazione d = 1m 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ La macchina e' installata sul piano riflettente; le macchine
+montate su slitta poggiano su un supporto alto 0,40 m, salvo diversa
+prescrizione d'installazione del fabbricante. 
+ Prova a carico 
+ La macchina viene portata al regime costante entro la gamma
+specificata dal fabbricante. Nel corso della prova l'ugello e'
+accoppiato all'elemento pulente che produce la pressione piu' elevata
+se usato conformemente alle istruzioni del fabbricante. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 28. MARTELLI DEMOLITORI IDRAULICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie/posizioni/distanza di misurazione 
+ Emisfero/posizioni dei 6 microfoni conformemente alla parte A,
+paragrafo 5, r = 10 m 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Per la prova il martello e' applicato alla macchina portante ed e'
+usata uno speciale blocco di prova. la figura 28.1 da' le
+caratteristiche di questo blocco e la figura 28.2 mostra la posizione
+della macchina portante. 
+ Macchina portante 
+ La macchina portante per il martello in prova deve rispondere ai
+requisiti delle specifiche tecniche relative al martello in prova nel
+peso, nella potenza idraulica, nella portata dell'olio e nella
+contropressione della linea di ritorno. 
+ Montaggio 
+ Il montaggio meccanico nonche' i collegamenti (tubi, flessibili
+...) devono corrispondere alle specifiche contenute nei dati tecnici
+del martello. Ogni rumore di una certa rilevanza causato dai tubi e
+dai vari componenti meccanici necessari per l'installazione dovrebbe
+essere eliminato. Tutti i collegamenti dei componenti devono essere
+ben serrati. 
+ Stabilita' del martello e precarico statico 
+ Il martello deve essere tenuto in posizione dal braccio per dare
+una stabilita' pari a quella esistente nelle normali condizioni
+operative. Il martello deve essere azionato in posizione verticale. 
+ Utensile 
+ Nelle misurazioni deve essere usato un utensile senza punta. La
+lunghezza di questo deve rispondere ai requisiti dati nella figura
+28.1 (blocco di prova). 
+ Prova a carico 
+ Potenza idraulica e portata dell'olio 
+ Le condizioni operative del martello idraulico devono essere
+opportunamente regolate, misurate e riferite in accordo con i
+corrispondenti valori di specifica tecnica. Il martello in prova deve
+essere usato in modo che si possa raggiungere almeno il 90% della sua
+potenza e portata idraulica massima. Occorre prestare attenzione
+affinche' l'incertezza complessiva delle serie di misure di ps e Q
+resti entro ± 5%. Cio' garantisce di poter determinare la potenza
+idraulica e la potenza sonora emessa, cio' significherebbe una
+variazione di ± 0,4 dB nella determinazione del livello di potenza
+sonora. 
+ Componenti regolabili con effetto sulla potenza del martello 
+ Le preregolazioni di tutti gli accumulatori, delle valvole centrali
+della pressione e di altri eventuali componenti regolabili devono
+corrispondere ai valori indicati nei dati tecnici. Se e' possibile
+piu' di un livello di impatto, le misurazioni devono essere fatte
+usando tutte le regolazioni. Si registrano i valori minimi e quelli
+massimi. 
+ Quantita' da misurare 
+ ps Il valore medio della pressione idraulica minima fornita durante
+il funzionamento del martello comprendente almeno 10 colpi. 
+ Q Il valore medio della portata d'olio in entrata al martello
+misurato simultaneamente a ps. 
+ T La temperatura dell'olio durante le misure deve trovarsi tra +
+40°/ + 60° C. La temperatura del martello idraulico deve essere
+stabilizzata al normale livello operativo prima di iniziare le
+misure. 
+ Pa Le pressioni dei gas di tutti gli accumulatori devono essere
+misurate in condizione statica (martello non funzionante) alla
+temperatura ambiente stabile di + 15°/ + 25° C. La temperatura
+ambiente misurata va registrata assieme alla pressione del gas
+dell'accumulatore misurata. 
+ Parametri da calcolare a partire dai parametri operativi misurati 
+ PIN Potenza idraulica di ingresso del martello PIN = ps.Q 
+ Misura della pressione idraulica della linea di alimentazione, ps 
+ - ps deve essere misurata quanto piu' possibile vicino al raccordo
+di ingresso del martello; 
+ - ps deve essere misurata con un manometro (diametro minimo 100 mm;
+approssimazione ± 1,0% FSO). 
+ Portata di alimentazione del martello, Q 
+ - Q deve essere misurata quanto piu' possibile vicino al raccordo
+di ingresso del martello. 
+ - Q deve essere misurato con un flussimetro elettrico
+(approssimazione ± 2,5% della lettura del flusso). 
+ Punto di misurazione della temperatura dell'olio, T 
+ - T deve essere misurata nel serbatoio dell'olio idraulico della
+macchina portante o dalla linea idraulica collegata al martello. 
+ Il punto di misurazione deve essere specificato nella relazione. 
+ - l'approssimazione della lettura della temperatura deve essere ±
+2° C del valore effettivo. 
+ Periodo di osservazione/determinazione del livello della potenza
+sonora risultante 
+ Il periodo di osservazione deve essere di almeno 15 secondi. 
+ Le misurazioni sono ripetute tre volte o piu', se necessario. Il
+risultato finale e' calcolato come la media aritmetica dei due valori
+piu' elevati che non differiscono di oltre 1 dB. 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ 
+
+Definizioni:
+d Diametro dell'utensile (mm)
+d1 Diametro del basamento 1200 ± 100 mm
+d2 Diametro interno della struttura di supporto del basamento
+± 1800 mm
+d3 Diametro della piastra del blocco di prova, 2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ? 2,0 dB, nel caso K2A e' trascurabile.
+ 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Se le ruote del tosaerba possono comprimere per piu' di 1 cm la
+superficie artificiale, esse devono poggiare su supporti che le
+tengano a livello della superficie artificiale non compressa. Se
+l'organo di taglio non puo' essere separato dalle ruote motrici del
+tosaerba, l'apparecchio deve poggiare su supporti con l'organo di
+taglio funzionante alla velocita' massima indicata dal fabbricante. I
+supporti sono concepiti in modo da non influire sui risultati delle
+misurazioni. 
+ Prova a vuoto 
+ ISO 11094:1991 
+ Tempo di osservazione 
+ ISO 11094:1991 
+ 
+ 33. TAGLIAERBA (TRIMMER) ELETTRICI / TAGLIABORDI ELETTRICI 
+ vedi numero 32 
+ Un congegno apposito tiene l'apparecchio in posizione in modo che
+l'organo di taglio sia al di sopra del centro dell'emisfero. Per i
+rifinitori il centro dell'organo di taglio deve essere tenuto a circa
+50 mm dalla superficie. Per adattare le lame, i tagliaerba bordatori
+dovrebbero essere posizionati il piu' possibile vicino alla
+superficie di prova. 
+ 
+ 34. SOFFIATORI DI FOGLIAME 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ In caso di controversia, i rilievi si eseguono all'aperto su
+superficie artificiale (cfr. punto 4.1.2 della norma ISO 11094:1991) 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ≤ 2,0 dB, nel caso K2A e' trascurabile.
+ 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Il soffiatore di fogliame viene tenuto nella normale posizione di
+esercizio in modo tale che la bocca del tubo soffiante si trovi (50 ±
+25) mm al di sopra del centro dell'emisfero; se l'apparecchio e'
+portatile, deve essere sorretto da un operatore o da un congegno
+apposito. 
+ Prova a carico 
+ L'apparecchio e' azionato alla velocita' nominale e al flusso
+d'aria nominali dichiarati dal fabbricante. 
+ Tempo di osservazione 
+ il tempo di osservazione e' di almeno 15 secondi. 
+ Nota: Se un soffiatore di fogliame puo' essere usato anche come
+aspiratore, deve essere sottoposto a prova nelle due configurazioni e
+il valore usato e' il piu' alto. 
+ 
+ 35. ASPIRATORI DI FOGLIAME 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ In caso di controversia, i rilievi si eseguono all'aperto su
+superficie artificiale (cfr. punto 4.1.2 della norma ISO 11094:1991) 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ≤ 2,0 dB, nel caso K2A e' trascurabile.
+ 
+ Superficie/posizioni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ L'aspiratore di fogliame viene tenuto nella normale posizione di
+esercizio in modo tale che la bocca del collettore si trovi (50 ± 25)
+mm al di sopra del centro dell'emisfero; se l'apparecchio e'
+portatile, deve essere sorretto da un operatore o da un congegno
+apposito. 
+ Prova a carico 
+ L'apparecchio e' azionato alla velocita' nominale e al flusso
+d'aria nominale all'interno dell'aspiratore dichiarati dal
+fabbricante. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ Nota: Se un aspiratore di fogliame puo' essere usato anche come
+soffiatore, deve essere sottoposto a prova nelle due configurazioni e
+il valore usato e' il piu' alto. 
+ 
+ 36. CARRELLI ELEVATORI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Vengono osservati i requisiti di sicurezza e le informazioni del
+costruttore. 
+ Condizioni di sollevamento 
+ Con il carrello in posizione di sosta, il carico (materiale che non
+assorbe le emissioni sonore, ad esempio acciaio o calcestruzzo;
+almeno il 70% dell'effettiva capacita' dichiarata nelle istruzioni
+del costruttore) viene sollevato, alla massima velocita', dalla
+posizione di abbassamento all'altezza di sollevamento standardizzata
+applicabile a quel tipo di carrello industriale conformemente al
+pertinente Standard europeo nella serie «Sicurezza dei carrelli
+industriali». Se l'effettiva altezza massima di sollevamento e'
+inferiore, essa puo' essere utilizzata in misurazione specifiche.
+L'altezza di sollevamento deve figurare nel resoconto di prova. 
+ Condizioni di pilotaggio 
+ Pilotare il carrello, senza carico, a piena accelerazione dalla
+posizione di sosta per una distanza pari a tre volte la sua lunghezza
+fino a raggiungere la linea A-A (linea che collega le posizioni di
+microfono 4 e 6), continuare a pilotare il carrello ad accelerazione
+massima fino alla linea B-B (linea che collega le posizioni di
+microfono 2 e 8). Quando il retro del carretto ha attraversato la
+linea B-B, si puo' rilasciare l'acceleratore. 
+ Se il carrello ha una trasmissione a piu' marce, selezionare la
+marcia che assicura la piu' elevata velocita' possibile sulla
+distanza di misurazione. 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ I tempi di osservazione sono i seguenti: 
+ per le condizioni di sollevamento: l'intero ciclo di sollevamento 
+ per le condizioni di pilotaggio: il periodo di tempo che inizia 
+ quando il centro del carrello 
+ attraversa la linea A-A e 
+ termina quando il suo centro 
+ raggiunge la linea B-B. 
+ Tuttavia, il livello di potenza sonora risultante per tutti i tipi
+di carrelli elevatori si ottiene con la formula: Lwa = 10 log (0,7 x
+10 0,1LWAc + 0,3 x 10 0,1LWAa) 
+ dove il pedice «a» indica la «modalita' di sollevamento» e il
+pedice «c» quella di «pilotaggio». 
+ 
+ 37. PALE CARICATRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Superficie/posizioni/distanza di misurazione 
+ ISP 6395:1988 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Le pale cingolate sono provate sul terreno di prova conformemente
+al punto 6.3.3 della norma ISO 6395:1988 
+ Prova a carico 
+ ISO 6395:1988 Allegato C 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ ISO 6395:1988 Allegato C 
+ 
+ 38. GRU MOBILI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Se la gru e' dotata di stabilizzatori, questi vengono completamente
+estesi e la gru e' livellata sui suoi cuscinetti nella posizione
+intermedia rispetto all'altezza di supporto possibile. 
+ Prova a carico 
+ La gru mobile sulla quale si esegue la prova viene presentata nella
+sua versione standard conformemente alla descrizione del costruttore.
+La potenza del motore presa in considerazione per la determinazione
+del limite di emissione sonora e' la potenza nominale del motore
+utilizzata per il movimento della gru. La gru e' dotata del massimo
+contrappeso consentito montato sulla struttura di brandeggio. 
+ Prima di effettuare qualsiasi misurazione, il motore e il sistema
+idraulico della gru mobile vengono portati alla normale temperatura
+di lavoro secondo le istruzioni del costruttore e vengono eseguite
+tutte le pertinenti procedure di sicurezza figuranti nel manuale di
+istruzioni. 
+ Se la gru mobile e' dotata di piu' motori, il motore utilizzato per
+il funzionamento della gru viene accesso. 
+ Il motore della macchina portante viene spento. 
+ Se il motore della gru mobile e' dotato di un ventilatore,
+quest'ultimo viene messo in funzione durante la prova. Se il
+ventilatore puo' funzionare a varie velocita', la prova viene
+eseguita con il ventilatore funzionante alla velocita' massima. 
+ La gru mobile e' misurata secondo le seguenti 3 (a - c) o 4 (a - d)
+condizioni: 
+ Per tutte le condizioni di lavoro si applicano i seguenti
+requisiti: 
+ - Velocita' del motore 3/4 della velocita' massima specificata per
+la modalita' di funzionamento della gru con una tolleranza di ± 2%. 
+ - Accelerazione e decelerazione al valore massimo senza movimenti
+pericolosi del carico o del gancio integrato. 
+ - Movimenti alla massima velocita' possibile, come indicato nel
+manuale di istruzioni secondo le particolari condizioni. 
+ (a) Sollevamento 
+ Si applica alla gru mobile un carico che produce il 50% della
+massima tensione delle funi. La prova consiste nel sollevare e
+abbassare immediatamente il carico in posizione iniziale. la
+Lunghezza del braccio e' regolata in modo tale che l'intero ciclo di
+prova duri 15 - 20 secondi. 
+ (b) Brandeggio 
+ Con il braccio a vuoto e formante un angolo di 40° - 50° in
+orizzontale, la torre viene fatta ruotare di 90° a sinistra e quindi
+immediatamente riportata in posizione iniziale. Il braccio e' alla
+sua estensione minima. Il tempo di osservazione corrisponde al tempo
+necessario ad eseguire il ciclo di lavoro. 
+ (c) Caricamento (derricking) 
+ La prova inizia con il sollevamento del braccio corto dalla
+posizione di lavoro piu' bassa, seguito immediatamente
+dall'abbassamento del braccio alla posizione iniziale. Il movimento
+viene eseguito a vuoto. La prova ha una durata di almeno 20 secondi. 
+ (d) Estensione telescopica (se applicabile) 
+ Con il braccio (jib) a vuoto, formante un angolo di 40° - 50° in
+orizzontale e completamente ritratto, il cilindro di estensione
+telescopica solo per la prima sezione, viene esteso insieme alla
+prima sezione per la sua lunghezza totale, quindi immediatamente
+ritratto insieme alla prima sezione. 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative (testo ripreso da prEN
+13000) 
+ Il livello di potenza sonora e' calcolato nel modo seguente: 
+ (i) se l'estensione telescopica e' applicabile 
+ Lwa = 10 log (0,4 x 10 0,1LWAa + 0,25 x 10 0,1LWAb + 0,25 x 10
+0,1LWAc + 0,1 x 10 0,1LWAd) 
+ (ii) se l'estensione telescopica non e' applicabile 
+ Lwa = 10 log (0,4 x 10 0,1LWAa + 0,3 x 10 0,1LWAb + 0,3 x 10
+0,1LWAc) 
+ dove 
+ LWAa rappresenta il livello di potenza sonora per il ciclo di
+sollevamento 
+ LWAb rappresenta il livello di potenza sonora per il ciclo di
+brandeggio 
+ LWAc rappresenta il livello di potenza sonora per il ciclo di
+caricamento (derricking) 
+ LWAd rappresenta il livello di potenza sonora per il ciclo di
+estensione telescopica (se applicabile) 
+ 
+ 39. CONTENITORI MOBILI DI RIFIUTI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ - Superficie riflettente in cemento o asfalto non poroso 
+ - La sala di laboratorio offre un campo libero sopra un piano
+riflettente 
+ Correzione rumore ambientale K2A 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto conformemente all'allegato
+ 
+A della norma EN ISO 3744:1995, deve essere ≤ 2,0 dB, nel caso K2A e' 
+trascurabile. 
+ Superficie/posizioni/distanza di misurazione 
+ Emisfero/posizioni dei 6 microfoni conformemente alla parte A,
+paragrafo 5/r=3m 
+ Condizioni operative nel corso della prova 
+ Tutte le misurazioni vengono effettuate con un contenitore vuoto. 
+ Prova n. 1: Chiusura libera del coperchio lungo il cassone 
+ Per ridurre al minimo la sua influenza sulle misurazioni,
+l'operatore si colloca sul lato posteriore del contenitore (il lato
+su cui si trovano le cerniere). Il coperchio viene sganciato dalla
+parte mediana, per evitare deformazione durante la caduta. 
+ La misurazione viene effettuata durante il seguente ciclo, ripetuto
+20 volte: 
+ - inizialmente, il coperchio e' sollevato verticalmente; 
+ - il coperchio e' lasciato cadere in avanti, se possibile senza
+imprimere un impulso; l'operatore si trova dietro al contenitore e
+rimane immobile fino alla chiusura del coperchio; 
+ - dopo la chiusura completa, il coperchio viene risollevato fino
+alla posizione iniziale. 
+ Nota: se necessario, l'operatore puo' muoversi temporaneamente per
+sollevare il coperchio. 
+ Prova n. 2: apertura completa del coperchio 
+ Per ridurre al minimo la sua influenza sulle misurazioni,
+l'operatore si colloca sul lato posteriore del contenitore (il lato
+su cui si trovano le cerniere) se esso ha quattro ruote o sul lato
+destro del contenitore (tra le posizioni del microfono 10 e 12) se lo
+stesso ha due ruote. Il coperchio viene lasciato cadere dalla parte
+mediana o il piu' vicino possibile ad essa. 
+ Per impedire qualsiasi movimento del contenitore, durante la prova
+le ruote sono bloccate. Per il contenitore a due ruote, al fine di
+impedire ogni involontario sobbalzo dello stesso, l'operatore puo'
+sostenerlo tenendo una mano sul bordo superiore. 
+ La misurazione viene effettuata durante il seguente ciclo: 
+ - inizialmente, il coperchio e' aperto orizzontalmente; 
+ - il coperchio viene sganciato senza imprimere un impulso; 
+ - dopo l'apertura completa, e prima che possa rimbalzare, il
+coperchio e' sollevato fino alla posizione iniziale. 
+ Prova n. 3: traslazione del contenitore lungo un percorso
+artificiale irregolare 
+ Per questa prova viene utilizzato un percorso di misura artificiale
+che simula un terreno irregolare. Il percorso di misura consiste di
+due nastri paralleli di rete d'acciaio (lunghi 6 m e larghi 400 mm),
+fissati al piano riflettente approssimativamente ogni 20 cm. La
+distanza tra i due nastri e' adattata al tipo di contenitore, in modo
+da consentire il rotolamento delle ruote per tutta la lunghezza del
+percorso. Le condizioni di montaggio garantiscono una superficie
+piana. Se necessario, il percorso viene fissato al terreno con
+materiali elastici per evitare l'emissione di rumore parassita. 
+ Nota: ciascun nastro puo' essere composto da diversi elementi
+larghi 400 mm fissati insieme. 
+ Le figure 39.1 e 39.2 mostrano un esempio di percorso adeguato. 
+ L'operatore si colloca sul lato incernierato del coperchio. 
+ La misurazione viene effettuata mentre l'operatore trascina il
+contenitore lungo il percorso artificiale, alla velocita' costante di
+1 m/s, tra il punto A e il punto B (distanza di 4,21 vedi figura
+39.3), quando l'asse delle ruote, per un contenitore a due ruote, o
+il primo degli assi delle ruote, per un contenitore a quattro ruote,
+raggiunge il punto A o il punto B. Questo processo e' ripetuto tre
+volte in ciascuna direzione. 
+ Durante la prova, per i contenitori a due ruote, l'angolo tra il
+contenitore e il percorso e' di 45°. Per i contenitori a quattro
+ruote, l'operatore assicura che tutte le ruote abbiano un contatto
+appropriato con il percorso. 
+ Periodi di osservazione/determinazione del risultante livello di
+potenza acustica in presenza di piu' di una condizione operativa 
+ Prova n. 1 e n. 2: Chiusura libera del coperchio lungo il cassone e
+apertura completa del coperchio 
+ Per quanto possibile le misurazioni vengono effettuate
+simultaneamente ai sei microfoni. Altrimenti i livelli sonori
+misurati ad ogni microfono verranno classificati in ordine crescente
+e i livelli di pressione sonora verranno calcolati associando i
+valori ad ogni microfono a seconda della fila in cui si trova. 
+ Il livello di pressione sonora singolo valutato in A e' misurato
+per ciascuna delle 20 chiusure e delle 20 aperture del coperchio ad
+ogni punto di misurazione. I livelli di potenza acustica LWAchiusura
+e LWAapertura sono calcolati sulla media al quadrato dei cinque
+valori piu' elevato tra quelli ottenuti. 
+ Prova n. 3: Traslazione del contenitore lungo un percorso
+artificiale irregolare 
+ Il periodo di osservazione T e' pari alla durata necessaria a
+coprire la distanza tra il punto A e il punto B del percorso. 
+ Il livello di potenza acustica LWtraslazione e' pari alla medi dei
+6 valori che differiscono di meno di 2 dB. 
+ Se il criterio non e' soddisfatto dopo 6 misurazioni, il ciclo si
+ripete finche' e' necessario. 
+ Il livello di potenza sonora risultante e' calcolato mediante: 
+ LWA = 10 log 1/3 (10 0,1LWAchiusura + 10 0,1LWAapertura + 10 0,1
+LWAtraslazione) 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ 
+ 40. MOTOZAPPE 
+ vedi numero 32 
+ In fase di misurazione l'utensile di lavoro e' scollegato. 
+ 
+ 41 VIBROFINITRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ Il motore della macchina deve funzionare al regime nominale
+indicato dal fabbricante. Tutti gli utensili sono in funzione, alla
+seguente velocita': 
+ coclea di distribuzione almeno al 10% del valore massimo 
+ sistema di stesura almeno al 40% del valore massimo 
+ miscelatore/alimentatore (velocita', corsa) almeno al 50% del
+valore massimo 
+ piastre vibranti (velocita', momento eccentrico) almeno al 50% del
+valore massimo 
+ barre di pressione (frequenza, pressione) almeno al 50% del valore
+massimo 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 42. APPARECCHIATURE DI PALIFICAZIONE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 6395:1988 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ L'apparecchiatura di palificazione e' installata alla testa di un
+palo la cui resistenza nel terreno e' tale da consentire
+all'apparecchiatura di funzionare ad una velocita' costante. 
+ Nel caso dei martelli ad urto, la cuffia del palo e' dotata di un
+nuovo rinforzo in legno. 
+ La testa del palo e' situata a 0,50 m di altezza dal livello
+dell'area di prova. 
+ Tempo si osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 43. POSATUBI 
+ vedi numero 0 
+ 
+ 44. GATTI DELLE NEVI 
+ vedi numero 0 
+ 
+ 45. GRUPPI ELETTROGENI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ≤ 2,0 dB, nel caso K2A e' trascurabile.
+ 
+ Superficie di misurazione/numero di posizioni dei
+microfoni/distanza di misurazione 
+ Emisfero /6 posizioni dei microfoni conformemente alla parte A,
+paragrafo 5/conformemente alla parte A, paragrafo 5; se 1 > 2m, si
+puo' utilizzare un parallelepipedo conformemente alla norma EN ISO
+3744:1995, con una distanza di misurazione di d = 1m. 
+ Condizioni operatrice nel corso della prova 
+ Montaggio della macchina 
+ Il generatore e' installato sul piano riflettente; i gruppi montati
+su slitta poggiano su un supporto alto 0,40 m, salvo diversa
+prescrizione d'installazione del fabbricante. 
+ Prova a carico 
+ ISO 8528-10:1998, punto 9 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 46. AUTOSPAZZATRICI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova sull'autospazzatrice si esegue a veicolo fermo. Il motore
+e gli elementi ausiliari funzionano al regime indicato dal
+fabbricante per l'azionamento degli utensili di lavoro; lo spazzolone
+funziona a velocita' massima, non a contatto con il suolo; il sistema
+di aspirazione lavora alla massima potenza; la distanza massima fra
+il bocchettone di aspirazione ed il suolo e' di 25 mm. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 47. VEICOLI PER LA RACCOLTA DEI RIFIUTI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova sull'autoimmondizie si esegue a veicolo fermo per le
+seguenti condizioni operative: 
+ 1. Il motore funziona al regime indicato dal fabbricante. Gli
+equipaggiamenti non sono in funzione. Questa prova non e' effettuata
+su veicolo esclusivamente ad alimentazione elettrica. 
+ 2. Azionare il sistema di compattazione. 
+ Assicurarsi che il veicolo per la raccolta dei rifiuti ed il
+contenitore in cui questi si riversano siano vuoti. 
+ Se il regime del motore viene aumentato mentre il sistema di
+compattazione e' azionato, misurare tale valore. Se il valore
+misurato e' inferiore di piu' del 5% rispetto al regime indicato dal
+fabbricante effettuare la prova accelerando il motore dalla cabina di
+guida, in modo da raggiungere il regime indicato dal fabbricante. 
+ Se il regime del motore per il sistema di compattazione non e'
+indicato dal fabbricante o se il veicolo non e' munito di un
+acceleratore automatico, fissare il regime del motore mediante
+l'acceleratore nella cabina a 1200 rpm. 
+ 3. Azionare il dispositivo di sollevamento in ascesa ed in discesa,
+senza carico e senza container. 
+ Rilevare e controllare il regime del motore durante il
+funzionamento del sistema di compattazione (cfr. punto 2). 
+ 4. Riversare il materiale del veicolo per la raccolta di rifiuti. 
+ Scaricare i materiali alla rinfusa mediante il dispositivo di
+sollevamento nel contenitore (inizialmente vuoto). Per questa
+operazione utilizzare un container avente una capacita' di 240 I,
+conforme a EN 840-1:1997. Il materiale e' costituito da 30 tubi in
+PVC, ciascuno con una massa approssimativa di 0,4 kg ed avente le
+seguenti dimensioni: 
+ 
+
+Lunghezza : 150 mm ± 0,5 mm
+Diametro esterno nominale : 90 mm + 0,3/-0 mm
+Spessore nominale : 6,7 mm + 0,9/-0 mm
+
+ 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ Il tempo di osservazione e': 
+ 1. di almeno 15 secondi. Il livello di potenza sonora risultante
+sara' LWA1 
+ 2. di almeno tre cicli completi, se il sistema di compattazione
+funziona automaticamente. Se il sistema di compattazione non funziona
+automaticamente, bensi' ciclo per ciclo, le misurazioni sono
+effettuate per tre cicli almeno. Il livello di potenza sonora
+risultante (LWA2) e' ottenuto dal valore quadratico medio delle 3 (o
+piu') misurazioni. 
+ 3. di almeno tre cicli di lavoro continui e completi, inclusa
+l'intera operazione di ascesa e discesa del dispositivo di
+sollevamento. Il livello di potenza sonora risultante (LWA3) e'
+ottenuto dal valore quadratico medio delle 3 (o piu') misurazioni. 
+ 4. di almeno tre cicli completi, ciascuno comprendente lo scarico
+di 30 tubi nel contenitore. 
+ Ciascun ciclo non supera i 5 secondi di durata. Per tali
+misurazioni la formula LpAcq,T e' sostituita da LpA.1s. Il livello di
+potenza sonora risultante (LWA4) e' ottenuto dal valore quadratico
+medio delle 3 (o piu') misurazioni. 
+ Il livello di potenza sonora risultante e' calcolato mediante: 
+ LWA = 10 log (0,06 x 10 0,1LWA1 + 0,53 x 10 0,1LWA2 + 0,4 x 10
+0,1LWA3 + 0,01 x 10 0,1LWA4) 
+ NB: Nel caso di un veicolo per la raccolta di rifiuti
+esclusivamente ad alimentazione elettrica, si presuppone che il
+coefficiente associato a LWA1 sia nullo. 
+ 
+ 48. FRESE DA ASFALTO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ L'asse longitudinale della fresatrice stradale deve essere
+parallelo all'asse y. 
+ Prova a carico 
+ La macchina viene portata al regime costante entro la gamma
+specificata nelle istruzioni per l'uso fornite all'acquirente. Il
+motore e tutti gli accessori funzionano al rispettivo regime nominale
+minimo. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 49. SCARIFICATORI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ In caso di controversia, i rilievi si eseguono all'aperto su
+superficie artificiale (cfr. punto 4.1.2 della norma ISO 11094:1991). 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza superficie
+artificiale e conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ≤ 2,0 dB, nel caso K2A e' trascurabile.
+ 
+ Superficie di misurazione/numero di posizioni dei
+microfoni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ Lo scarificatore e' azionato con il motore al regime nominale e
+l'utensile di lavoro al minimo (ovvero funzione ma senza agire sul
+terreno). 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 50. TRITURATRICI E CIPPATRICI 
+ TRITURATRICI E CIPPATRICI DA GIARDINAGGIO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ Il raggio dell'emisfero deve essere di 4 metri. 
+ La macchina deve essere posizionata con l'apertura di alimentazione
+principale posta sulla verticale del centro dell'emisfero e la
+direzione di scarico principale lungo l'asse X. 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto senza la superficie
+artificiale conformemente all'allegato A della norma EN ISO
+3744:1995, deve essere ≤ 2,0 dB, nel qual caso K2A e' trascurabile.
+ 
+ Superficie di misurazione/numero delle posizioni dei
+microfoni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La trituratrice/cippatrice e' sottoposta a prova utilizzando due
+pezzi di legno di pino secco di 12 x 24 x 200 mm per ciascun ciclo di
+prova. L'operatore e' nella posizione prevista per l'azionamento
+della macchina e fa cadere simultaneamente i due pezzi di prova
+nell'apertura di alimentazione. L'operatore rimane fermo durante
+l'esecuzione delle prove. Se la macchina dispone di piu' aperture di
+alimentazione, ciascuna apertura e' sottoposta a prova separatamente.
+Le misurazioni sono effettuate solo mentre i pezzi di prova si
+trovano nella macchina. Sono presi in considerazione solo i risultati
+prodotti dall'apertura di alimentazione per la quale viene rilevato
+il risultato piu' elevato. 
+ La prova si effettua con il motore a velocita' nominale nelle
+seguenti condizioni: 
+ motore endotermico: secondo le specifiche del fabbricante; 
+ motore elettrico alimentato dalla rete pubblica: tensione/frequenza
+nominale con una tolleranza di ± 2%; 
+ motore elettrico alimentato da batteria: la tensione della batteria
+deve essere superiore al 90% del valore nominale per le batterie al
+piombo acido e all'80% per tutti gli altri tipi. 
+ Tempo di osservazione/calcolo del livello di potenza sonora
+risultante 
+ Il tempo di osservazione e' di almeno 10 secondi. Per ottenere un
+tempo di misurazione di 10 secondi, se necessario vengono introdotte
+coppi supplementari di pezzi di prova nell'apertura di alimentazione.
+Il tempo di osservazione termina quando non vi e' piu' materiale
+nella camera di macinazione. Sono presi in considerazione solo i
+risultati relativi all'apertura di alimentazione per la quale viene
+rilevato il risultato piu' elevato. 
+ CIPPATRICI PER IL LEGNO 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Area di prova 
+ ISO 11094:1991 
+ Correzione rumore ambientale K 
+ Rilievi all'aperto 
+ K2A = 0 
+ Superficie di misurazione/numero di posizioni dei
+microfoni/distanza di misurazione 
+ ISO 11094:1991 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ I rilievi sono effettuati durante la cippatura di pezzi di legno di
+pino essiccati all'aria (umidita' 18 ± 3%) di 50 x 50 mm e 4 m di
+lunghezza, alla velocita' massima di avanzamento del materiale
+prevista dalla macchina. 
+ La prova e' eseguita con il motore endotermico o elettrico
+funzionante al regime nominale ± 10%. 
+ Tempo di osservazione/calcolo del livello di potenza sonora
+risultante 
+ Il ciclo di lavoro inizia quando il legno entra a contatto con le
+lame e termina quando tutto il legno e' stato cippato.
+L'alimentazione del materiale deve essere continua e consentire un
+tempo di misurazione di almeno 10 secondi. 
+ 
+ 51. FRESE DA NEVE ROTATIVE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova si effettua a veicolo fermo. La macchina e' azionata
+(conformemente alle raccomandazioni del fabbricante) con gli
+equipaggiamenti a velocita' massima ed il motore al regime
+corrispondente. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 52. VEICOLI PER L'ASPIRAZIONE DEI REFLUI 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova si effettua a veicolo fermo, con il motore e gli elementi
+accessori funzionanti al regime indicato dal fabbricante per
+l'azionamento degli utensili di lavoro e con la pompa o le pompe a
+depressione funzionanti alla velocita' massima indicata dal
+fabbricante. L'unita' aspirante e' azionata in modo tale che la
+pressione interna sia pari alla pressione atmosferica («depressione
+0%»). Il rumore di flusso dell'ugello aspirante non influisce sui
+risultati delle misurazioni. 
+ Tempo di osservazione 
+ Il tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 53. GRU A TORRE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie di misurazione/numero delle posizioni dei
+microfoni/distanza di misurazione 
+ Misurazione a livello del suolo 
+ Emisfero /6 posizioni dei microfoni conformemente alla parte A,
+paragrafo 5 /conformemente alla parte A, paragrafo 5. 
+ Misurazione all'altezza del braccio 
+ Se il meccanismo di sollevamento si trova all'altezza del braccio,
+la superficie di misurazione e' una sfera di 4 m di raggio, il cui
+centro coincide con il centro geometrico dell'argano. 
+ Se il rilievo si effettua con il meccanismo di sollevamento sul
+braccio contrappeso della gru, l'area di misurazione e' sferica ed S
+e' uguale a 200 m2. 
+ Le posizioni del microfono sono le seguenti (vedi figura 53.1): 
+ quattro posizioni su un piano orizzontale passante per il centro
+geometrico del meccanismo (H = h/2) 
+ con L = 2,80 m 
+ e d = 2,80 m - I/2 
+ L = semidistanza tra due punti di misura consecutivi; l = lunghezza
+del meccanismo (seguendo l'asse del braccio della gru); b = larghezza
+del meccanismo; h = altezza del meccanismo; d = distanza fra il
+sostegno dei microfoni ed il meccanismo nel senso del braccio della
+gru. 
+ Le altre due posizioni del microfono sono situate ai punti di
+intersezione tra la sfera e la verticale che passa per il centro
+geometrico del meccanismo. 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Misurazioni relative al meccanismo di sollevamento 
+ In fase di prova per il meccanismo di sollevamento deve essere
+montato in una delle configurazioni sotto indicate. La configurazione
+scelta deve essere descritta nel resoconto di prova. 
+ (a) Meccanismo di sollevamento al livello del suolo. 
+ La gru montata deve essere collocata su una superficie piana
+riflettente in cemento o asfalto non poroso. 
+ (b) Meccanismo di sollevamento situato sul braccio contrappeso. 
+ Il meccanismo di sollevamento deve trovarsi ad una distanza dal
+suolo di almeno 12 m. 
+ (c) Meccanismo di sollevamento fissato al suolo 
+ Il meccanismo di sollevamento e' fissato ad una superficie piana
+riflettente in cemento o asfalto non poroso 
+ Misurazioni relative al generatore di energia 
+ Se la gru e' munita di generatore di energia, collegato o meno al
+meccanismo di sollevamento, essa viene collocata su una superficie
+piana riflettente in cemento o asfalto non poroso. 
+ Se il meccanismo di sollevamento si trova sul braccio contrappeso,
+la misurazione si effettua con il meccanismo montato sul braccio
+contrappeso o fissato al suolo. 
+ Se invece l'energia che si muove la gru proviene da una fonte
+esterna (un generatore elettrico, la rete pubblica, oppure un'unita'
+di potenza idraulica o pneumatica), si misura solo il livello di
+rumore dall'argano. 
+ Nel caso della gru con generatore di energia incorporato, ma non
+collegato al meccanismo di sollevamento, il generatore e il
+meccanismo si misurano separatamente. Se invece sono collegati
+costituiscono un unico gruppo ai fini della misurazione. 
+ Nel corso della prova il meccanismo di sollevamento ed il
+generatore di energia sono installati ed azionati conformemente alle
+istruzioni del fabbricante. 
+ Prova a vuoto: 
+ Il generatore di energia incorporato nella gru funziona alla
+massima potenza nominale indicata dal fabbricante. 
+ Il meccanismo di sollevamento deve funzionare a vuoto con il
+tamburo che ruota alla velocita' corrispondente alla massima
+velocita' di traslazione del gancio indicata dal fabbricante per il
+sollevamento e l'abbassamento. L'espressione dei risultati e'
+costituita dal maggiore dei due livelli di potenza sonora
+(sollevamento o abbassamento). 
+ Prova a carico 
+ Il generatore di energia incorporato nella gru alla potenza
+nominale massima indicata dal fabbricante. Il meccanismo di
+sollevamento e' sottoposto ad una tensione delle funi al tamburo
+corrispondente alla portata massima per lo sbraccio minimo, ed alla
+massima velocita' di traslazione del gancio. I valori di portata e di
+velocita' sono indicati dal fabbricante; il valore della velocita'
+deve essere controllato durante la prova. 
+ Tempo/i di osservazione/determinazione del livello di potenza
+sonora risultante da piu' condizioni operative 
+ Per la misurazione del livello di potenza sonora del meccanismo di
+sollevamento, il tempo di misura e' pari (tr + tf) secondi, dove: 
+ tr e' il tempo in secondi che precede il comando di frenatura, con
+il meccanismo di sollevamento funzionante nelle modalita' sopra
+descritte. Ai fini della prova tr = 3 secondi; 
+ tf e' il tempo in secondi che intercorre fra l'azionamento del
+comando di frenatura e l'arresto completo del gancio. 
+ Se si utilizza un integratore, il tempo di integrazione deve essere
+pari a (tr + tf) secondi. 
+ Il valore quadratico medio in un punto di misura i e' dato da: 
+ Lpi = 10 log10 [(tr 10 0,1Lri + tf 10 0,1Lfi)/(tr + tf)] 
+ dove Lri e' il livello di pressione sonora al punto di misura i nel
+tempo tr. 
+ Lfi e' il livello di pressione sonora al punto di misura i nel
+tempo di frenatura tf 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ 54. SCAVATRINCEE 
+ vedi numero 0 
+ 
+ 55. AUTOBETONIERE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Condizioni operative nel corso della prova 
+ Prova a carico 
+ La prova sull'autobetoniera si effettua a veicolo fermo. Il tamburo
+e' riempito alla capacita' nominale con calcestruzzo di media
+viscosita' (misura di propagazione 42-47 cm). Il motore che aziona il
+tamburo funziona al regime che sviluppa la velocita' massima del
+tamburo specificata nelle istruzioni per l'uso. 
+ Tempo di osservazione 
+ Tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 56. MOTOPOMPE 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Superficie di misurazione/numero di posizioni dei
+microfoni/distanza di misurazione 
+ Parallelepipedo/conformemente alla norma EN ISO 3744:1995 con
+distanza di misurazione d) 1 m 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ L'impianto e' installato sul piano riflettente; gli impianti
+montati su slitta poggiano su un supporto alto 0,40 m, salvo diversa
+prescrizione d'installazione del fabbricante. 
+ Prova a carico 
+ Il motore deve funzionare al punto di massima efficienza indicato
+dal fabbricante nelle istruzioni per l'uso. 
+ Tempo di osservazione 
+ Tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 57. GRUPPI ELETTROGENI DI SALDATURA 
+ Norma di base sull'emissione acustica 
+ EN ISO 3744:1995 
+ Correzione rumore ambientale K 
+ K2A = 0 
+ Rilievi in ambiente chiuso 
+ 
+ Il valore della costante K2A , ottenuto conformemente all'allegato
+A della norma EN ISO 3744:1995, deve essere compreso fra 0,5 e 2,0
+dB, nel caso K2A e' trascurabile.
+ 
+ Superficie di misurazione/numero delle posizioni dei
+microfoni/distanza di misurazione 
+ Emisfero /6 posizioni dei microfoni conformemente alla parte A,
+paragrafo 5/conformemente alla parte A, paragrafo 5; 
+ Se 1 > 2 m: puo' essere utilizzato un parallelepipedo conforme alla
+norma EN ISO 3744:1995, con una distanza di misurazione d) 1 m. 
+ Condizioni operative nel corso della prova 
+ Montaggio della macchina 
+ Il gruppo e' installato sul piano riflettente; i gruppi montati su
+slitta poggiano su un supporto alto 0,40 m, salvo diversa
+prescrizione d'installazione del fabbricante. 
+ Prova a carico 
+ ISO 8528-10:1998, punto 9 
+ Tempo di osservazione 
+ Tempo di osservazione e' di almeno 15 secondi. 
+ 
+ 
+ ------------------
+(*) Per potenza netta si intende la potenza in «kW CEE»,
+ottenuta sul banco di prova all'estremita' dell'albero motore o del
+suo equivalente, misurata conformemente al metodo CE per la misura
+della potenza dei motori a combustione interna dei veicoli stradali,
+esclusa la potenza assorbita dalla ventola di raffreddamento del
+motore.
