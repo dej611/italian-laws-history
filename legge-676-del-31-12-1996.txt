@@ -42,19 +42,29 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  1) n. R. (81)1, del 23 gennaio 1981, in materia di dati sanitari, e successive modificazioni;
  
 
- 2) n. R. (85) 20, del 25 ottobre 1985, sui dati utilizzati per fini di direct marketing;
+ 2) n. R. (85) 20, del 25 ottobre 1985, sui dati utilizzati per fini di direct marketing; 
+ ((3))
+
  
 
- 3) n. R. (86) 1, del 23 gennaio 1986, sui dati impiegati per scopi di sicurezza sociale;
+ 3) n. R. (86) 1, del 23 gennaio 1986, sui dati impiegati per scopi di sicurezza sociale; 
+ ((3))
+
  
 
- 4) n. R. (89) 2, del 18 gennaio 1989, sui dati utilizzati per finalità di lavoro;
+ 4) n. R. (89) 2, del 18 gennaio 1989, sui dati utilizzati per finalità di lavoro; 
+ ((3))
+
  
 
- 5) n. R. (90) 19, del 13 settembre 1990, in materia di dati personali utilizzati per finalità di pagamento e di altre operazioni connesse;
+ 5) n. R. (90) 19, del 13 settembre 1990, in materia di dati personali utilizzati per finalità di pagamento e di altre operazioni connesse; 
+ ((3))
+
  
 
- 6) n. R. (91) 10, del 9 settembre 1991, sulla comunicazione a terzi dei dati personali detenuti da organi pubblici;
+ 6) n. R. (91) 10, del 9 settembre 1991, sulla comunicazione a terzi dei dati personali detenuti da organi pubblici; 
+ ((3))
+
  
 
  7) n. R. (95) 4, del 7 febbraio 1995, sulla protezione dei dati personali nel settore dei servizi di telecomunicazione, con particolare riguardo ai servizi telefonici;
@@ -64,24 +74,21 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- c) razionalizzare il trattamento economico del personale del Garante per la protezione dei dati personali in relazione a quello previsto dall'ordinamento per ogni altra Autorità di garanzia secondo il tendenziale criterio dell'uniformità a parità di responsabilità costituzionale;
+ c) razionalizzare il trattamento economico del personale del Garante per la protezione dei dati personali in relazione a quello previsto dall'ordinamento per ogni altra Autorità di garanzia secondo il tendenziale criterio dell'uniformità a parità di responsabilità costituzionale; 
+ ((3))
+
  
 
  
+ d) individuare i presupposti per l'attribuzione di un numero di identificazione personale, ivi compreso il codice fiscale, e per il trattamento del medesimo e delle informazioni ad esso connesse, nonchè per il collegamento con altri dati, sentita l'Autorità per l'informatica nella pubblica amministrazione, prevedendo adeguate garanzie con riferimento ai numeri di identificazione personale connessi a dati di carattere sensibile o idonei a rivelare i provvedimenti di cui all'articolo 686, commi 1, lettere a) e d), 2 e 3 del codice di procedura penale; 
+ ((3))
+
  
 
  
- d) individuare i presupposti per l'attribuzione di un numero di identificazione personale, ivi compreso il codice fiscale, e per il trattamento del medesimo e delle informazioni ad esso connesse, nonchè per il collegamento con altri dati, sentita l'Autorità per l'informatica nella pubblica amministrazione, prevedendo adeguate garanzie con riferimento ai numeri di identificazione personale connessi a dati di carattere sensibile o idonei a rivelare i provvedimenti di cui all'articolo 686, commi 1, lettere a) e d), 2 e 3 del codice di procedura penale;
- 
+ e) stabilire le modalità e i termini per l'aggiornamento, per la rettificazione e per le altre modificazioni dei dati effettuati in conseguenza dell'esercizio dei diritti dell'interessato o di un provvedimento del Garante per la protezione dei dati personali , quando i dati personali sono riprodotti su disco ottico; 
+ ((3))
 
- 
- 
-
- 
- e) stabilire le modalità e i termini per l'aggiornamento, per la rettificazione e per le altre modificazioni dei dati effettuati in conseguenza dell'esercizio dei diritti dell'interessato o di un provvedimento del Garante per la protezione dei dati personali , quando i dati personali sono riprodotti su disco ottico;
- 
-
- 
  
 
  
@@ -124,17 +131,15 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  5) particolare considerazione per trattamenti di dati che implichino maggiori rischi di un danno all'interessato;
  
 
- 6) specificazione delle modalità attraverso le quali si svolge il controllo sul rispetto delle disposizioni di legge che presiedono ai suddetti trattamenti in ambito pubblico;
+ 6) specificazione delle modalità attraverso le quali si svolge il controllo sul rispetto delle disposizioni di legge che presiedono ai suddetti trattamenti in ambito pubblico; 
+ ((3))
+
  
 
  
- 
+ l) prevedere norme che favoriscano lo sviluppo dell'informatica giuridica e le modalità di collegamento, per l'autorità giudiziaria e per l'autorità di pubblica sicurezza, con le banche dati della pubblica amministrazione; 
+ ((3))
 
- 
- l) prevedere norme che favoriscano lo sviluppo dell'informatica giuridica e le modalità di collegamento, per l'autorità giudiziaria e per l'autorità di pubblica sicurezza, con le banche dati della pubblica amministrazione;
- 
-
- 
  
 
  
@@ -145,15 +150,14 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- n) stabilire le modalità applicative della legislazione in materia di protezione dei dati personali ai servizi di comunicazione e di informazione offerti per via telematica, individuando i titolari del trattamento di dati inerenti i servizi accessibili al pubblico e la corrispondenza privata, nonchè i compiti del gestore anche in rapporto alle connessioni con reti sviluppate su base internazionale;
+ n) stabilire le modalità applicative della legislazione in materia di protezione dei dati personali ai servizi di comunicazione e di informazione offerti per via telematica, individuando i titolari del trattamento di dati inerenti i servizi accessibili al pubblico e la corrispondenza privata, nonchè i compiti del gestore anche in rapporto alle connessioni con reti sviluppate su base internazionale; 
+ ((3))
+
  
 
  
- 
-
- 
- o) individuare i casi in cui, all'atto della comunicazione o della diffusione di dati personali provenienti da archivi, registri, elenchi, atti o documenti tenuti da pubbliche amministrazioni, debba essere indicata la fonte di acquisizione dei dati. 
- ((2))
+ o) individuare i casi in cui, all'atto della comunicazione o della diffusione di dati personali provenienti da archivi, registri, elenchi, atti o documenti tenuti da pubbliche amministrazioni, debba essere indicata la fonte di acquisizione dei dati. (2) 
+ ((3))
 
  
 
@@ -169,3 +173,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  AGGIORNAMENTO (2)
 
  La L. 6 ottobre 1998, n. 344 ha disposto (con l'art. 1, comma 2) che "I decreti legislativi previsti dagli articoli 1 e 2 della legge 31 dicembre 1996, n. 676, e successive modificazioni, in materia di trattamento dei dati personali, sono emanati entro il 31 luglio 1999, sulla base dei principi e dei criteri direttivi indicati nella medesima legge."
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (3)
+
+ La L. 24 marzo 2001, n. 127 ha disposto (con l'art. 1, comma 1) che "I decreti legislativi di cui all'articolo 1, comma 1, lettere b), numeri 2), 3), 4), 5) e 6), c), d), e), i), l), n), ed o), e all'articolo 2 della legge 31 dicembre 1996, n. 676, e successive modificazioni, in materia di trattamento dei dati personali, sono emanati entro il 31 dicembre 2001, sulla base dei principi e dei criteri direttivi indicati nella medesima legge."
