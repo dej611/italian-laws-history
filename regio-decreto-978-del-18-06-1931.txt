@@ -179,6 +179,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  Carriera d'ordine. 
  
 
@@ -230,6 +233,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  AMMINISTRAZIONE DIPARTIMENTALE. 
  
 
@@ -246,6 +252,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo A). 
+ 
+
+ 
  
 
  
@@ -336,6 +345,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
+ 
+
+ 
  
 
  
@@ -557,6 +569,9 @@ VITTORIO EMANUELE III
 
  
  
+
+ 
+ 
  
  Grado Numero dei posti 
  
@@ -599,6 +614,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
+ 
+
+ 
  
 
  
@@ -679,6 +697,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  =====================================================================
  
 
@@ -748,46 +769,47 @@ VITTORIO EMANUELE III
  
  
 
- =====================================================================
+ 
  
 
- | | Numero dei |
+ 
  
 
- | Grado | posti |
+ 
+ 
+ ((Numero
  
 
- +====================================================+==============+
+ Grado di posti
  
 
- |8° Capi tecnici principali | 7 |
+ - -
  
 
- +----------------------------------------------------+--------------+
+ 8° Capi tecnici principali 8
  
 
- |9° Primi capi tecnici | 16 |
+ 9° Primi capi tecnici 17
  
 
- +----------------------------------------------------+--------------+
+ 10° Capi tecnici \
  
 
- |10° Capi tecnici | |
+ > 48
  
 
- +----------------------------------------------------| 44 |
+ 11° Capi tecnici aggiunti /
  
 
- |11° Capi tecnici aggiunti | |
+ ---
  
 
- +----------------------------------------------------+--------------+
+ 73))
  
 
- | | 67 |
  
 
- +----------------------------------------------------+--------------+
+ 
  
 
  
@@ -817,46 +839,44 @@ VITTORIO EMANUELE III
  
  
 
- =====================================================================
+ 
  
 
- | | Numero dei |
+ 
+ 
+ ((Numero
  
 
- | Grado | posti |
+ Grado di posti
  
 
- +====================================================+==============+
+ - -
  
 
- |8° Capi tecnici principali | 5 |
+ 8° Capi tecnici principali 4
  
 
- +----------------------------------------------------+--------------+
+ 9° Primi capi tecnici 6
  
 
- |9° Primi capi tecnici | 7 |
+ 10° Capi tecnici \
  
 
- +----------------------------------------------------+--------------+
+ > 16
  
 
- |10° Capi tecnici | |
+ 11° Capi tecnici aggiunti /
  
 
- +----------------------------------------------------| 20 |
+ ---
  
 
- |11° Capi tecnici aggiunti | |
+ 26))
  
 
- +----------------------------------------------------+--------------+
  
 
- | | 32 |
  
-
- +----------------------------------------------------+--------------+
  
 
  
@@ -878,6 +898,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
+ 
+
+ 
  
 
  
@@ -947,6 +970,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
+ 
+
+ 
  
 
  
@@ -1030,6 +1056,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  =====================================================================
  
 
@@ -1088,6 +1117,9 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
+ 
+
+ 
  
 
  
@@ -1209,6 +1241,9 @@ VITTORIO EMANUELE III
 
  
  
+
+ 
+ 
  
  Grado Numero dei posti 
  
@@ -1260,6 +1295,9 @@ VITTORIO EMANUELE III
 
  
  
+
+ 
+ 
  
  Grado Numero dei posti 
  
@@ -1296,6 +1334,12 @@ VITTORIO EMANUELE III
  
 
  Personale subalterno dell'Amministrazione centrale. 
+ 
+
+ 
+ 
+
+ 
  
 
  
@@ -1360,6 +1404,9 @@ VITTORIO EMANUELE III
  
 
  e del segnalamento marittimo. 
+ 
+
+ 
  
 
  
