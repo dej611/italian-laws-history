@@ -1,0 +1,166 @@
+ALLEGATO 2 
+ 
+
+ CONTENUTO E CARATTERISTICHE TECNICHE DELLE TRASMISSIONI DEI DATI 
+ 
+
+ DELLE AGEVOLAZIONI FISCALI PER I CONCESSIONARI DELLA RISCOSSIONE. 
+ 
+
+ I dati delle agevolazioni fiscali liquidate dal Ministero dell'industria alle imprese titolari di conto fiscale sono trasmessi telematicamente dal sistema informativo del Ministero delle finanze ai concessionari della riscossione. 
+ 
+
+ Il flusso informativo è predisposto per l'inoltro di agevolazioni liquidate e di eventuali revoche ad agevolazioni precedentemente inoltrate. 
+ 
+
+ La lunghezza dei record da fornire è di 220 caratteri. 
+ 
+
+ I record sono registrati sul file per valori crescenti della seguente chiave di ordinamento (con riferimento ai nomi dei campi appresso citati): 
+ 
+
+ codice ambito/tipo record/codice agevolazione/data/conto fiscale. 
+ 
+
+ Di seguito sono elencate le informazioni da riportare su ciascun record della fornitura; per ciascun campo, in parentesi sono forniti nell'ordine: lunghezza, tipo di rappresentazione del dato. 
+ 
+
+ 1. Record agevolazione: 
+ 
+
+ a) codice ambito (3, D.E.): indica l'ambito competente territorialmente; 
+ 
+
+ b) tipo record (1, D.E.): vale 1 per record agevolazione liquidata; 
+ 
+
+ c) codice agevolazione (7, D.E.): progressivo numerico che identifica univocamente l'agevolazione liquidata; 
+ 
+
+ d) data agevolazione (8, D.E.): è la data espressa in AAAAMMGG in cui è stata liquidata l'agevolazione; 
+ 
+
+ e) conto fiscale (19, A.N.): codice del conto fiscale del contribuente; è costituito dal codice ambito (3 caratteri numerici) e dal codice fiscale (16 caratteri alfanumerici). In caso di codice fiscale costituito da una espressione numerica occorre allineare a sinistra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ f) partita IVA (11, D.E.): numero di partita IVA dell'impresa; 
+ 
+
+ g) intestatario (60, A.N.): denominazione della società beneficiaria di agevolazione ovvero cognome (primi 30 caratteri) e nome (30 caratteri) del beneficiario; 
+ 
+
+ h) indirizzo (35, A.N.): indirizzo della sede legale dell'intestatario di agevolazione; 
+ 
+
+ i) comune (25, A.): comune dove risiede la sede legale dell'intestatario; 
+ 
+
+ j) provincia (2, A.): sigla automobilistica della provincia in cui si trova la sede legale; 
+ 
+
+ k) importo (12, D.E.): ammontare dell'importo agevolato liquidato a favore del beneficiario; 
+ 
+
+ l) data richiesta (8, D.E.): espressa in AAAAMMGG indica la data in cui è stata accettata la domanda da parte del Ministero dell'industria; 
+ 
+
+ m) data (8, D.E.): espressa in AAAAMMGG indica la data a partire dalla quale l'agevolazione può essere utilizzata; 
+ 
+
+ n) estremi decreto (10, A.N.): estremi identificativi del decreto di liquidazione; 
+ 
+
+ o) filler (11, A.): vale spazio. 
+ 
+
+ 2. Record revoca di agevolazione: 
+ 
+
+ a) codice ambito (3, D.E.): indica l'ambito competente 
+ 
+
+ territorialmente 
+ 
+
+ b) tipo record (1, D.E.): vale 2 per revoca di agevolazione; 
+ 
+
+ c) codice agevolazione (7, D.E.): progressivo numerico che identifica l'agevolazione liquidata; 
+ 
+
+ d) data agevolazione (8, D.E.): è la data espressa in AAAAMMGG in cui è stata liquidata l'agevolazione; 
+ 
+
+ e) conto fiscale (19, A.N.): codice del conto fiscale dell'impresa; è costituito dal codice ambito (3 caratteri numerici) e dal codice fiscale (16 caratteri alfanumerici). In caso di codice fiscale costituito da una espressione numerica occorre allineare a sinistra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ f) data revoca (8, D.E.): espressa in AAAAMMGG indica la data in cui è revocata l'agevolazione; 
+ 
+
+ g) estremi decreto revoca (10, D.E.); 
+ 
+
+ h) filler (164, A.): vale spazio. 
+ 
+
+ 3. Record di inizio trasmissione. 
+ 
+
+ La fornitura deve essere preceduta da un record iniziale avente il seguente contenuto informativo: 
+ 
+
+ a) codice (3, D.E.): vale zero; 
+ 
+
+ b) tipo record (1, D.E.): vale zero; 
+ 
+
+ c) tipo flusso (2, A.): assume il valore AL; 
+ 
+
+ d) codice centro (3, D.E.): assume il valore zero; 
+ 
+
+ e) data trasmissione (8, D.E): espressa in AAAAMMGG; 
+ 
+
+ f) progressivo fornitura (6,D.E.): progressivo numerico che identifica la trasmissione; 
+ 
+
+ g) filler (197, A.N.): vale spazio. 
+ 
+
+ 4. Record di fine trasmissione. 
+ 
+
+ La fornitura deve essere seguita da un record finale avente il seguente contenuto informativo: 
+ 
+
+ a) codice (3, D.E.): vale 999; 
+ 
+
+ b) tipo record (1, D.E.): vale 9; 
+ 
+
+ c) tipo flusso (2, A.N.): assume il valore AL; 
+ 
+
+ d) codice centro (3, D.E.): vale zero; 
+ 
+
+ e) data trasmissione (8, D.E): espressa in AAAAMMGG; 
+ 
+
+ f) progressivo invio (6, D.E.): progressivo numerico che identifica la trasmissione; 
+ 
+
+ g) totale record inviati (6, D.E.): indica il numero totale dei record inviati comprensivo del record iniziale e finale; 
+ 
+
+ h) totale agevolazioni (6, D.E.): indica il numero di agevolazioni trasmesse; 
+ 
+
+ i) totale revoche (6, D.E.): indica il numero di revoche trasmesse; 
+ 
+
+ j) filler (179, A.N.): vale spazio.

@@ -1,0 +1,637 @@
+ALLEGATO 3 
+ 
+
+ CONTENUTO E CARATTERISTICHE TECNICHE DELLE TRASMISSIONI DEI DATI 
+ 
+
+ DELLE RISCOSSIONI IN CONTO FISCALE DA INOLTRARE A CURA DEI CONCESSIONARI. 
+ 
+
+ I dati delle riscossioni in conto fiscale effettuate dai concessionari allo sportello o tramite il servizio dei conti correnti postali, degli accreditamenti effettuati dalle aziende di credito delegate a favore dei concessionari, nonchè i dati dei versamenti effettuati dai concessionari alle casse degli enti destinatari, devono essere trasmessi telematicamente. 
+ 
+
+ Tutti i dati relativi alle riscossioni effettuate, agli accreditamenti effettuati dalle aziende di credito ed ai conseguenti versamenti alle casse degli enti destinatari costituiscono le "unità di registrazione". 
+ 
+
+ Ciascuna unità di registrazione è composta dai seguenti tipi record lunghi 240 caratteri: 
+ 
+
+ 1) record-versamento; 
+ 
+
+ 2) record-accreditamento; 
+ 
+
+ 3) record-riscossione "contabile"; 
+ 
+
+ 4) record-riscossione "anagrafico di persona fisica" del soggetto versante; 
+ 
+
+ 5) record-riscossione "dati identificativi di società" del soggetto versante diverso dalla persona fisica; 
+ 
+
+ 6) record-versamento Sicilia; 
+ 
+
+ 7) record-versamento "compensativo". 
+ 
+
+ I record di cui ai punti 4) e 5) devono essere registrati per tutti i codici fiscali presenti nei record-riscossione contabile che abbiano il carattere di controllo errato secondo quanto disposto dagli articoli 7 e 9 del decreto ministeriale 23 dicembre 1976. 
+ 
+
+ A) CONTENUTO DELLE "UNITà DI REGISTRAZIONE". 
+ 
+
+ Le singole "unità di registrazione" devono essere disposte sul "file" per valori crescenti delle seguenti chiavi di ordinamento (con riferimento ai nomi dei campi appresso citati): 
+ 
+
+ codice ambito/codice ente/n. quietanza(o postagiro) capitolo-articolo/progressivo record/tipo record 
+ 
+
+ Qui di seguito sono elencate le informazioni che devono essere riportate su ciascun record costituente l'"unità di registrazione", per ciascun campo, in parentesi, vengono forniti, nell'ordine: posizione, lunghezza, tipo di rappresentazione del dato. 
+ 
+
+ 1. Record-versamento. 
+ 
+
+ Contiene i dati relativi a ciascuna delle operazioni di versamento effettuate presso la sezione di tesoreria provinciale dello Stato, ad esclusione delle operazioni effettuate sul territorio della regione Sicilia e delle operazioni di versamento effettuate a favore della Cassa regionale siciliana: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della Tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza per i versamenti effettuati direttamente alla Tesoreria provinciale dello Stato, oppure numero del postagiro per i versamenti tramite conto corrente vincolato; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento; 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E.); 
+ 
+
+ g) tipo record (32-32, 1, D.E.): vale sempre 1; 
+ 
+
+ h) data liberatoria (33-38, 6, D.E.): espressa in giorno, mese ed anno; indica la data in cui è stato effettuato il versamento ovvero è la data teorica di versamento nel caso in cui l'importo da versare è totalmente compensato dalle somme oggetto di rimborso e/o sgravio e/o dilazione; 
+ 
+
+ i) flag tipo versamento (39-39, 1, D.E.): assume i valori: 0 per versamento effettuato direttamente in tesoreria; 1 per versamento effettuato tramite postagiro; 
+ 
+
+ j) importo versato (40-52, 13, D.E.): importo del versamento effettuato dal concessionario espresso in lire; 
+ 
+
+ k) importo rimborsi erogati (53-65, 13, D.E.): espresso in lire;
+ 
+
+ l) compensi rimborsi (66-75, 10, D.E.): espresso in lire; 
+ 
+
+ m) importo rimborsi non andati a buon fine (76-88, 13, D.E.): espresso in lire; 
+ 
+
+ n) compenso per rimborsi non andati a buon fine (89-98, 10, D.E.): espresso in lire; 
+ 
+
+ o) importo delle somme oggetto di sgravio (99-111, 13, D.E.): 
+ 
+
+ somma trattenuta dal concessionario in applicazione del 
+ 
+
+ DPR 28 gennaio 1988, n. 43; espresso in lire; 
+ 
+
+ p) importo delle somme trattenute per effetto della dilazione (112-124, 13, D.E.): somma trattenuta dal concessionario in applicazione del DPR 28 gennaio 1988, n. 43; espresso in lire; 
+ 
+
+ q) importo delle somme versate per effetto della revoca dello sgravio (125-137, 13, D.E.): espresso in lire; 
+ 
+
+ r) importo delle somme versate per effetto della revoca delle dilazioni (138-150, 13, D.E.): espresso in lire; 
+ 
+
+ s) importo della commissione spettante al concessionario per le somme riscosse tramite distinta o conto corrente postale (151-160, 10, D.E.): espresso in lire; tale importo comprende le eventuali commissioni percepite dal concessionario a fronte di pagamenti mediante agevolazione; 
+ 
+
+ t) importo accreditamenti versati (161-173, 13, D.E.): espresso in lire; 
+ 
+
+ u) importo della commissione spettante al concessionario per le somme riscosse tramite delega (174-183, 10, D.E.): espresso in lire; 
+ 
+
+ v) numero accreditamenti (184-189, 6, D.E.); 
+ 
+
+ w) numero di riscossioni (190-195, 6, D.E.): numero di distinte o bollettini a fronte delle quali è stato effettuato il versamento (comprensivo dei pagamenti dei contribuenti mediante agevolazione fiscale); 
+ 
+
+ x) numero di record anagrafici (196-201, 6, D.E.): numero dei records anagrafici inseriti nella "unità di registrazione"; 
+ 
+
+ y) importo agevolazioni (202-214, 13, D.E.): importo dei pagamenti effettuati dai contribuenti mediante agevolazione fiscale, espresso in lire; 
+ 
+
+ z) filler (215-240, 26, D.E.): vale sempre zero. 
+ 
+
+ Quando le somme oggetto di sgravio e/o dilazione e/o rimborso compensano totalmente l'importo da versare deve essere, in ogni caso, registrato il record versamento (tipo record = 1) avendo cura di impostare a zero i seguenti campi: 
+ 
+
+ (1/2) numero di quietanza (lettera c) 
+ 
+
+ (1/2) importo versato (lettera j). 
+ 
+
+ 2. Record-accreditamento. 
+ 
+
+ Contiene i dati dell'accreditamento effettuato dall'azienda di credito relativamente a ciascun versamento: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della Tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; vale zero per i versamenti effettuati interamente alla Cassa regionale siciliana; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza per i versamenti effettuati direttamente alla Tesoreria provinciale dello Stato; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento; 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 3; 
+ 
+
+ h) chiave dell'accreditamento (33-86, 50, D.E.): chiave dell'accreditamento effettuato dall'azienda di credito, lungo 50 caratteri, contiene le seguenti informazioni: 
+ 
+
+ - codice A.B.I. azienda ordinante (5 caratteri, D.E.); 
+ 
+
+ - C.A.B. dipendenza ordinante (5 caratteri, D.E.); 
+ 
+
+ - coordinata bancaria del conto: 
+ 
+
+ (1/2) C.I.N. (1 carattere A); 
+ 
+
+ (1/2) codice azienda (5 caratteri D.E.); 
+ 
+
+ (1/2) C.A.B. dello sportello (5 caratteri, D.E.); 
+ 
+
+ (1/2) numero conto (12 caratteri, A.N.); 
+ 
+
+ - numero di operazione (11 caratteri, D.E.); 
+ 
+
+ - data di accreditamento (6 caratteri, D.E.); 
+ 
+
+ i) importo dell'accreditamento versato (83-95, 13, D.E.): quota dell'accreditamento, versato sul capitolo articolo del versamento, espresso in lire; 
+ 
+
+ j) flag quadratura (96-96, 1, N.): vale zero se l'importo accredito è congruente con la somma accreditata e con gli importi deleghe cui si riferisce; vale 1 se l'importo accredito è congruente con la somma accreditata ma non con la somma degli importi deleghe; vale 2 se l'importo accredito è incongruente con la somma accreditata ma è congruente con gli importi deleghe cui si riferisce; vale 3 se l'importo accredito è incongruente con la somma accreditata ma la somma accreditata è congruente con gli importi deleghe; vale 4 se l'importo accredito è incongruente con le somme accreditate e con gli importi deleghe cui si riferisce; 
+ 
+
+ k) filler (97-240, 144, D.E.): vale sempre zero. 
+ 
+
+ 3. Record-riscossione contabile. 
+ 
+
+ Contiene i dati relativi a ciascun tributo riscosso dal concessionario: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; vale zero per i versamenti effettuati interamente alla Cassa regionale siciliana; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato oppure numero di postagiro per i versamenti effettuati tramite conto corrente; vale zero per i versamenti effettuati interamente agli uffici della Cassa regionale siciliana; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 4; 
+ 
+
+ h) data del pagamento (33-38, 6, D.E.): la data, espressa in giorno, mese ed anno di emissione della quietanza da parte del concessionario o del versamento in conto corrente postale; 
+ 
+
+ i) codice conto fiscale (39-57, 19, A.N.): numero conto fiscale del contribuente; è costituito dal codice ambito e dal codice fiscale. In caso di codice fiscale costituito da un'espressione numerica occorre allineare a sinistra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ j) partita IVA (58-68, 11, D.E.): da impostare solo per versamenti a titolo di IVA; 
+ 
+
+ k) serie della quietanza (69-72, 4, A.N.); 
+ 
+
+ l) numero della quietanza (73-83, 11, D.E.): numero della quietanza rilasciata dal concessionario; 
+ 
+
+ m) flag di competenza del versamento (84-84, 1, D.E.): vale zero se il versamento si riferisce a concessione competente territorialmente; vale 1 se il versamento è effettuato a concessione non competente territorialmente; 
+ 
+
+ n) codice tributo (85-88, 4, D.E.); 
+ 
+
+ o) periodo di riferimento (89-94, 6, D.E.): è il periodo d'imposta cui si riferisce il versamento, indicato nella forma OOAAAA, OOMMAA, GGMMAA, OOOOAA; 
+ 
+
+ p) importo versato (95-104, 10 D.E.): importo versato a fronte del codice tributo, registrato in migliaia di lire; 
+ 
+
+ q) importo interessi versati (105-112, 8, D.E.): importo degli interessi versati a fronte del codice tributo, registrato in migliaia di lire; 
+ 
+
+ r) tipo versamento (113-113, 1, D.E.): vale 1 se il versamento è effettuato alla concessione; vale 2 se il versamento è effettuato alla concessione tramite conto corrente postale; 
+ 
+
+ s) data di registrazione (114-119, 6, D.E.): è la data espressa in GGMMAA in cui perviene notizia alla concessione dell'avvenuto accreditamento del versamento effettuato tramite conto corrente postale; 
+ 
+
+ t) flag agevolazione (120-120, 1, D.E.): vale 1 per pagamento tramite agevolazione fiscale, vale zero negli altri casi; 
+ 
+
+ u) codice agevolazione (121-127, 7, D.E.): indica il codice identificativo dell'agevolazione; è impostato solo se il flag agevolazione assume il valore 1; 
+ 
+
+ v) filler (128-240, 113, D.E.): vale sempre zero. 
+ 
+
+ 4. Record-riscossione "anagrafico di persona fisica". 
+ 
+
+ Contiene i dati anagrafici della persona fisica che effettua il versamento: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; vale zero per i versamenti effettuati interamente alla Cassa regionale siciliana; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato oppure numero di postagiro per i versamenti effettuati tramite conto corrente; vale zero per i versamenti effettuati interamente agli uffici della Cassa regionale Siciliana; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento; 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 5; 
+ 
+
+ h) cognome (33-56, 24, A.N.); 
+ 
+
+ i) nome (57-76, 20, A.N.); 
+ 
+
+ j) sesso (77-77, 1, A.N.): vale M o F; 
+ 
+
+ k) data di nascita (78-83, 6, D.E.): espressa in giorno, mese ed anno; 
+ 
+
+ l) comune di nascita (84-108, 25, A.N.); 
+ 
+
+ m) provincia di nascita (109-110, 2, A.N.): sigla automobilistica della provincia cui ha sede il comune di nascita del contribuente; 
+ 
+
+ n) filler (111-240, 130, D.E.): vale sempre zero. 
+ 
+
+ 5. Record-riscossione "identificativi di società". 
+ 
+
+ Contiene i dati identificativi della società o associazione che effettua il versamento: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; vale zero per i versamenti effettuati interamente alla Cassa regionale siciliana; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato oppure numero di postagiro per i versamenti effettuati tramite conto corrente postale vincolato; vale zero per i versamenti effettuati interamente agli uffici della Cassa regionale siciliana; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento; 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 6; 
+ 
+
+ h) ragione sociale o denominazione (33-92, 60, A.N.); 
+ 
+
+ i) comune del domicilio fiscale (93-117, 25, A.N.); 
+ 
+
+ j) provincia del domicilio fiscale (118-119, 2, A.N.); 
+ 
+
+ k) filler (120-240, 121, A.N.): vale sempre zero. 
+ 
+
+ 6. Record-versamento Sicilia. 
+ 
+
+ Sostituisce il record-versamento (tipo record = 1) per la registrazione delle operazioni di versamento effettuate sul territorio della regione Sicilia e delle operazioni di versamento effettuate da concessionari operanti al di fuori della regione Sicilia ma a favore della Cassa regionale siciliana: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice tesoreria (4-7, 4, D.E.): codice identificativo della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; vale zero per i versamenti effettuati interamente alla Cassa regionale siciliana; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato oppure numero di postagiro per i versamenti effettuati tramite conto corrente postale vincolato; vale zero per i versamenti effettuati interamente agli uffici della Cassa regionale siciliana; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 2; 
+ 
+
+ h) data liberatoria (33-38, 6, D.E.): espressa in giorno, mese ed anno; indica la data in cui è stato effettuato il versamento alla sezione di tesoreria provinciale dello Stato ovvero è la data teorica di versamento nel caso in cui l'importo da versare è totalmente compensato dalle somme oggetto di rimborso e/o sgravio e/o dilazione; vale zero per i versamenti effettuati interamente agli uffici della Cassa regionale siciliana; 
+ 
+
+ i) codice ufficio (39-42, 4, D.E.): codice identificativo dell'ufficio provinciale della Cassa regionale siciliana presso la quale sono stati effettuati i competenti versamenti; vale zero per i versamenti effettuati interamente alla tesoreria; 
+ 
+
+ j) numero quietanza o postagiro (Cassa regionale siciliana) (43-52, 10, D.E.): numero progressivo della quietanza rilasciata dall'ufficio provinciale della Cassa regionale siciliana oppure numero del postagiro per i versamenti effettuati tramite conto corrente vincolato; vale zero per i versamenti effettuati interamente in tesoreria; 
+ 
+
+ k) data liberatoria (53-58, 6, D.E.): espressa in giorno, mese ed anno; indica la data del versamento all'ufficio provinciale della Cassa regionale siciliana ovvero è la data teorica di versamento nel caso in cui l'importo da versare è totalmente compensato dalle somme oggetto di rimborso e/o sgravio e/o dilazione; vale zero per versamenti effettuati interamente alla tesoreria; 
+ 
+
+ l) importo versato (59-73, 15, D.E.): importo totale del versamento del concessionario, espresso in lire; 
+ 
+
+ m) importo rimborsi erogati (74-86, 13, D.E.): espresso in lire;
+ 
+
+ n) compensi rimborsi (87-96, 10, D.E.): espresso in lire; 
+ 
+
+ o) importo rimborsi non andati a buon fine (97-109, 13, D.E.): espresso in lire; 
+ 
+
+ p) compenso per rimborsi non andati a buon fine (110-119, 10, D.E.): espresso in lire; 
+ 
+
+ q) importo delle somme oggetto di sgravio (120-132, 13, D.E.): somma trattenuta dal concessionario in applicazione del DPR 28 gennaio 1988, n. 43, espresso in lire; 
+ 
+
+ r) importo delle somme trattenute per effetto della dilazione (133-145, 13, D.E.): somma trattenuta dal concessionario in applicazione del DPR 28 gennaio 1988, n. 43; espresso in lire; 
+ 
+
+ s) importo delle somme versate per effetto della revoca dello sgravio (146-158, 13, D.E.): espresso in lire; 
+ 
+
+ t) importo delle somme versate per effetto della revoca delle dilazioni (159-171, 13, D.E.): espresso in lire; 
+ 
+
+ u) importo della commissione spettante al concessionario per le somme riscosse tramite distinta (172-181, 10, D.E.): espresso in lire; tale importo è comprensivo di eventuali commissioni trattenute dal concessionario a fronte di pagamenti dei contribuenti mediante agevolazioni fiscali; 
+ 
+
+ v) importo accreditamenti versati (182-194, 13, D.E.): espresso in lire; 
+ 
+
+ w) importo della commissione spettante al concessionario per le somme riscosse tramite delega (195-204, 10, D.E.): espresso in lire; 
+ 
+
+ x) numero accreditamenti (205-210, 6, D.E.); 
+ 
+
+ y) numero di riscossioni (211-216, 6, D.E.): numero di distinte o bollettini a fronte delle quali è stato effettuato il versamento (comprensivo dei pagamenti dei contribuenti mediante agevolazione fiscale); 
+ 
+
+ z) numero di record anagrafici (217-222, 6, D.E.): numero di record anagrafici inseriti nella "Unità di registrazione"; 
+ 
+
+ aa) flag tipo versamento (Stato) (223-223, 1, A.N.): assume i valori: 
+ 
+
+ () 0 per versamento effettuato direttamente alla tesoreria; 
+ 
+
+ () 1 per versamento effettuato tramite postagiro; 
+ 
+
+ il flag è impostato a spazio se il versamento è stato effettuato interamente alla Cassa regionale siciliana; 
+ 
+
+ bb) flag tipo versamento (Cassa regionale siciliana) (224-224, 1, A.N.): assume i valori: 
+ 
+
+ () 0 per versamento effettuato direttamente alla Cassa regionale siciliana; 
+ 
+
+ () 1 per versamento effettuato tramite postagiro; 
+ 
+
+ il flag è impostato a spazio se il versamento è stato effettuato interamente alla tesoreria; 
+ 
+
+ cc) importo agevolazioni (225-237, 13, D.E.): importo dei pagamenti effettuati dai contribuenti mediante agevolazione fiscale, espresso in lire; 
+ 
+
+ dd) filler (238-240, 3, D.E.): vale sempre zero. 
+ 
+
+ Quando le somme di sgravio e/o dilazione e/o rimborso compensano totalmente l'importo da versare deve essere, in ogni caso, registrato il record-versamento Sicilia (tipo record = 2) avendo cura di impostare a zero i seguenti campi: 
+ 
+
+ () numero di quietanza o postagiro (lettera j); 
+ 
+
+ () importo versato (lettera l); 
+ 
+
+ 7. Record-versamento compensativo. 
+ 
+
+ Contiene i dati relativi a ciascuna delle operazioni di versamento a fronte di versamento carente: 
+ 
+
+ a) codice ambito (1-3, 3, D.E.): codice identificativo dell'ambito; 
+ 
+
+ b) codice ente (4-7, 4, D.E.): codice identificativo dell'ente presso il quale è stato effettuato il versamento; 
+ 
+
+ c) numero di quietanza o postagiro (8-17, 10, D.E.): numero progressivo della quietanza rilasciata dall'ente destinatario oppure numero di postagiro per i versamenti effettuati tramite conto corrente postale vincolato; 
+ 
+
+ d) capitolo di bilancio (18-21, 4, D.E.): capitolo di bilancio sul quale viene effettuato il versamento 
+ 
+
+ e) articolo (22-23, 2, D.E.); 
+ 
+
+ f) progressivo record (24-31, 8, D.E); 
+ 
+
+ g) tipo di record (32-32, 1, D.E.): vale sempre 7; 
+ 
+
+ h) data liberatoria (33-38, 6, D.E.): espressa in giorno, mese ed anno; indica la data in cui è stato effettuato il versamento ovvero è la data teorica di versamento nel caso in cui l'importo da versare è totalmente compensato dalle somme oggetto di rimborso e/o sgravio e/o dilazione; 
+ 
+
+ i) flag erario/regione (39-39, 1, D.E.): vale 1 per versamento all'erario; vale 2 per versamento alla regione; 
+ 
+
+ j) flag tipo versamento (40-40, 1, D.E.): assume i valori: 0 per versamento effettuato direttamente all'ente destinatario; 1 per versamento tramite postagiro; 
+ 
+
+ k) importo versato (41-53, 13, D.E.): importo del versamento effettuato dal concessionario, espresso in lire; 
+ 
+
+ l) importo rimborsi erogati (54-66, 13, D.E.): espresso in lire;
+ 
+
+ m) compensi rimborsi (67-76, 10, D.E.): espresso in lire; 
+ 
+
+ n) importo rimborsi non andati a buon fine (77-89, 13, D.E.): espresso in lire; 
+ 
+
+ o) compenso per rimborsi non andati a buon fine (90-99, 10, D.E.): espresso in lire; 
+ 
+
+ p) importo delle somme oggetto di sgravio (100-112, 13, D.E.): somma trattenuta dal concessionario in applicazione del DPR 28 gennaio 1988, n. 43, espresso in lire; 
+ 
+
+ q) importo delle somme trattenute per effetto della dilazione (113-125, 13, D.E.): somma trattenuta dal concessionario in applicazione del DPR 28 gennaio 1988, n. 43; espresso in lire; 
+ 
+
+ r) importo delle somme versate per effetto della revoca dello sgravio (126-138, 13, D.E.): espresso in lire; 
+ 
+
+ s) importo delle somme versate per effetto della revoca delle dilazioni (139-151, 13, D.E.): espresso in lire; 
+ 
+
+ t) importo della commissione spettante al concessionario per le somme riscosse tramite distinta o conto corrente postale (152-161, 10, D.E.): espresso in lire; 
+ 
+
+ u) commissione spettante al concessionario per le somme riscosse tramite delega (162-171, 10, D.E.): espresso in lire; 
+ 
+
+ v) chiave del versamento di riferimento (172-203, 32, D.E.): chiave del record versamento carente di cui il presente versamento costituisce integrazione; 
+ 
+
+ w) filler (204-240, 37, D.E.): vale sempre zero. 
+ 
+
+ Quando le somme oggetto di rimborso e/o di sgravio e/o dilazione compensano totalmente l'importo da versare deve essere, in ogni caso, registrato il record-compensativo (tipo record = 7) avendo cura di impostare a zero i seguenti campi: 
+ 
+
+ () numero di quietanza o postagiro (lettera c); 
+ 
+
+ () importo versato (lettera k); 
+ 
+
+ 8. Record di inizio trasmissione. 
+ 
+
+ L'insieme delle unità di registrazione deve essere preceduto da un record iniziale avente il seguente contenuto informativo: 
+ 
+
+ a) filler (1-32, 32, D.E.): vale zero; 
+ 
+
+ b) codice centro (33-35, 3, D.E.): codice del centro di elaborazione dati; 
+ 
+
+ c) progressivo d'invio (36-37, 2, D.E.): numero progressivo di invio nell'ambito della scadenza; vale 1 per il primo invio e si incrementa di una unità per ogni successivo invio predisposto in sostituzione del precedente; 
+ 
+
+ d) data di scadenza (38-43, 6, D.E.): è la data, espressa in giorno, mese ed anno, relativa alla scadenza; 
+ 
+
+ e) filler (44-240, 197, D.E.): vale zero. 
+ 
+
+ 9. Record di fine trasmissione. 
+ 
+
+ L'insieme delle unità di registrazione deve essere seguito da un record finale avente il seguente contenuto informativo: 
+ 
+
+ a) filler (1-32, 32, D.E.): i bytes sono tutti impostati a 9; 
+ 
+
+ b) numero di record tipo 1 trasmessi (33-42, 10, D.E.); 
+ 
+
+ c) numero di record tipo 2 trasmessi (43-52, 10, D.E.); 
+ 
+
+ d) numero di record tipo 3 trasmessi (53-62, 10, D.E.); 
+ 
+
+ e) numero di record tipo 4 trasmessi (63-72, 10, D.E.); 
+ 
+
+ f) numero di record tipo 5 e 6 trasmessi (73-82, 10, D.E.); 
+ 
+
+ g) numero di record tipo 7 trasmessi (83-92, 10, D.E.); 
+ 
+
+ h) numero di ambiti (93-95, 3, D.E.): numero di ambiti i cui dati sono stati trasmessi; 
+ 
+
+ i) filler (96-240, 145, D.E.).

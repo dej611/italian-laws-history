@@ -1,0 +1,238 @@
+ALLEGATO 1 
+ 
+
+ CONTENUTO E CARATTERISTICHE TECNICHE DELLE TRASMISSIONI DEI DATI 
+ 
+
+ DELLE AGEVOLAZIONI FISCALI DA INOLTRARE, A CURA DEL MINISTERO DELL'INDUSTRIA, AL SISTEMA INFORMATIVO DEL MINISTERO DELLE FINANZE. 
+ 
+
+ I dati relativi alle imprese le cui domande risultano idonee alla liquidazione delle agevolazioni, nonchè i dati relativi alle imprese con agevolazioni fiscali liquidate dal Ministero dell'industria, devono essere inviate, con modalità telematiche o mediante supporto magnetico, al sistema informativo del Ministero delle finanze. 
+ 
+
+ L'allegato tecnico è predisposto per l'inoltro del flusso delle domande di agevolazioni idoneee alla liquidazione, ovvero per le domande di agevolazione respinte dal Ministero delle finanze e per il flusso delle agevolazioni liquidate ed eventuali revoche ad agevolazioni concesse. 
+ 
+
+ La lunghezza dei record da fornire è di 220 caratteri. 
+ 
+
+ I record devono essere registrati sul file per valori crescenti della seguente chiave di ordinamento (con riferimento ai nomi dei campi appresso citati): 
+ 
+
+ tipo record/codice agevolazione/data agevolazione/conto fiscale. 
+ 
+
+ Di seguito sono elencate le informazioni da riportare su ciascun record della fornitura; per ciascun campo, in parentesi, sono forniti, nell'ordine: lunghezza, tipo di rappresentazione del dato. 
+ 
+
+ 1. Record proposta di agevolazione: 
+ 
+
+ a) tipo record (1, D.E.): vale 1 per record proposta di agevolazione; 
+ 
+
+ b) codice agevolazione (7, D.E.): vale zero; 
+ 
+
+ c) data agevolazione (8, D.E.): vale zero; 
+ 
+
+ d) conto fiscale (19, A.N.): codice del conto fiscale del contribuente; è costituito dal codice ambito (3 caratteri numerici) e dal codice fiscale (16 caratteri alfanumerici). In caso di codice fiscale costituito da una espressione numerica occorre allineare a 
+ 
+
+ sinistra gli 
+ 
+
+ 11 caratteri numerici che lo individuano; 
+ 
+
+ e) partita IVA (11, D.E.): numero di partita IVA dell'impresa; 
+ 
+
+ f) intestatario (60, A.N.): denominazione della società beneficiaria di agevolazione ovvero cognome (primi 30 caratteri) e nome (30 caratteri) del beneficiario; 
+ 
+
+ g) indirizzo (35, A.N.): indirizzo della sede legale dell'intestatario di agevolazione; 
+ 
+
+ h) comune (25, A.): comune dove risiede la sede legale dell'intestatario; 
+ 
+
+ i) provincia (2, A.): sigla automobilistica della provincia in cui si trova la sede legale; 
+ 
+
+ j) importo (12, D.E.): ammontare dell'importo agevolato prenotato a favore del beneficiario; 
+ 
+
+ k) data richiesta (8, D.E.): espressa in AAAAMMGG indica la data in cui è stata accettata la domanda da parte del Ministero dell'Industria; 
+ 
+
+ l) flag intestatario (1, D.E.): nella trasmissione dal Ministero dell'industria al sistema informativo del Ministero delle finanze vale zero; nella trasmissione dal Ministero delle finanze al Ministero dell'industria vale 1 per indicare imprese non titolari di conto fiscale; 
+ 
+
+ m) filler (31, A.N.): vale spazio. 
+ 
+
+ 2. Record agevolazione: 
+ 
+
+ a) tipo record (1, D.E.): vale 2 per record agevolazione liquidata; 
+ 
+
+ b) codice agevolazione (7, D.E.): progressivo numerico che identifica univocamente l'agevolazione liquidata; 
+ 
+
+ c) data agevolazione (8, D.E.): è la data espressa in AAAAMMGG in cui è stata liquidata l'agevolazione; 
+ 
+
+ d) conto fiscale (19, A.N.): codice del conto fiscale del contribuente; è costituito dal codice ambito (3 caratteri numerici) e dal codice fiscale (16 caratteri alfanumerici). In caso di codice fiscale costituito da una espressione numerica occorre allineare a sinistra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ e) partita IVA (11, D.E.): numero di partita IVA dell'impresa; 
+ 
+
+ f) intestatario (60, A.N.): denominazione della società beneficiaria di agevolazione ovvero cognome (primi 30 caratteri) e nome (30 caratteri) del beneficiario; 
+ 
+
+ g) indirizzo (35, A.N.): indirizzo della sede legale dell'intestatario di agevolazione; 
+ 
+
+ h) comune (25, A.): comune dove risiede la sede legale dell'intestatario; 
+ 
+
+ i) provincia (2, A.): sigla automobilistica della provincia in cui si trova la sede legale; 
+ 
+
+ j) importo (12, D.E.): ammontare dell'importo agevolato liquidato a favore del beneficiario; 
+ 
+
+ k) data richiesta (8, D.E.): espressa in AAAAMMGG indica la data in cui è stata accettata la domanda da parte del Ministero dell'industria; 
+ 
+
+ l) data (8, D.E.): espressa in AAAAMMGG indica la data a partire dalla quale l'agevolazione può essere utilizzata (30 giorni dalla data di spedizione); 
+ 
+
+ m) estremi decreto (10, A.N.): estremi identificativi del decreto di liquidazione; 
+ 
+
+ n) flag intestatario (1, D.E.); nella trasmissione dal Ministero dell'industria al sistema informativo del Ministero delle finanze vale zero; nella trasmissione dal Ministero delle finanze al Ministero dell'industria vale 1 per indicare agevolazioni intestate a non titolari di conto fiscale; 
+ 
+
+ o) filler (13, A.N.): vale spazio. 
+ 
+
+ 3. Record revoca di agevolazione: 
+ 
+
+ a) tipo record (1, D.E.): vale 3 per revoca di agevolazione; 
+ 
+
+ b) codice agevolazione (7, D.E.): progressivo numerico che identifica univocamente l'agevolazione liquidata; 
+ 
+
+ c) data agevolazione (8, D.E.): è la data espressa in AAAAMMGG in cui è stata liquidata l'agevolazione; 
+ 
+
+ d) conto fiscale (19, A.N.): codice del conto fiscale dell'impresa; è costituito dal codice ambito (3 caratteri numerici) e dal codice fiscale (16 caratteri alfanumerici). In caso di codice fiscale costituito da una espressione numerica occorre allineare a sinistra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ e) data revoca (8, D.E.): espressa in AAAAMMGG indica la data in cui è revocata l'agevolazione; 
+ 
+
+ f) estremi decreto (10, D.E.): estremi identificativi del decreto di revoca; 
+ 
+
+ g) filler (167, A.N.): vale spazio. 
+ 
+
+ 4. Record di inizio trasmissione. 
+ 
+
+ La fornitura deve essere preceduta da un record iniziale avente il seguente contenuto informativo: 
+ 
+
+ a) tipo record (1, D.E.): vale zero; 
+ 
+
+ b) tipo flusso (2, A.): nelle trasmissioni dal Ministero dell'industria al sistema informativo del Ministero delle finanze vale: 
+ 
+
+ - PL nel flusso delle proposte di liquidazione; 
+ 
+
+ - AL nel flusso delle agevolazioni liquidate e/o revocate; 
+ 
+
+ Nelle trasmissioni dal Ministero delle finanze al Ministero dell'industria, per il flusso delle proposte di liquidazione riscontrate errate assume il valore: 
+ 
+
+ - PE; 
+ 
+
+ c) codice centro (3, D.E.): nella trasmissione dal Ministero dell'industria al sistema informativo del Ministero delle finanze rappresenta il codice attribuito al centro di elaborazione dati che ha effettuato la trasmissione. Nella trasmissione dal sistema informativo del Ministero delle finanze al Ministero dell'industria vale zero; 
+ 
+
+ d) anno (4, D.E.): anno di liquidazione delle agevolazioni o della prenotazione di liquidazione; 
+ 
+
+ e) settimana (2, D.E.): nei flussi dal Ministero delle finanze al Ministero dell'industria indica la settimana a cui si riferiscono le prenotazioni, ovvero le agevolazioni e/o le revoche. Si considera come prima settimana quella in cui cade il primo lunedì dell'anno; assume un valore compreso tra 1 e 53. Nelle trasmissioni dal Ministero delle finanze al Ministero dell'industria riporta la settimana indicata nel flusso riscontrato errato; 
+ 
+
+ f) progressivo fornitura all'interno dell'anno (6, D.E.): progressivo numerico, distinto per tipo flusso, incrementato di una unità ogni volta che si effettua una trasmissione; 
+ 
+
+ g) data trasmissione (8, D.E.): espresso in AAAAMMGG indica la data in cui sono trasmessi i dati; 
+ 
+
+ h) filler (194, A.N.): vale spazio. 
+ 
+
+ 5. Record di fine trasmissione. 
+ 
+
+ La fornitura deve essere seguita da un record finale avente il seguente contenuto informativo: 
+ 
+
+ a) tipo record (1, D.E.): vale 9; 
+ 
+
+ b) tipo flusso (2, A.N.): nelle trasmissioni dal Ministero dell'industria al sistema informativo del Ministero delle finanze vale: 
+ 
+
+ - PL per il flusso delle proposte di liquidazione; 
+ 
+
+ - AL per il flusso delle agevolazioni liquidate e/o revocate; 
+ 
+
+ Nelle trasmissioni dal Ministero delle finanze al Ministero dell'industria, per il flusso delle proposte di liquidazione riscontrate errate, assume il valore: 
+ 
+
+ - PE; 
+ 
+
+ c) codice centro (3, D.E.): nella trasmissione dal Ministero dell'industria al sistema informativo del Ministero delle finanze rappresenta il codice attribuito al centro di elaborazione dati che ha effettuato la trasmissione. Nella trasmissione dal sistema informativo del Ministero delle finanze al Ministero dell'industria vale zero; 
+ 
+
+ d) anno (4, D.E.): anno di liquidazione delle agevolazioni delle prenotazioni di liquidazione; 
+ 
+
+ e) settimana (2, D.E.): indica la settimana a cui si riferiscono le prenotazioni, ovvero le agevolazioni e/o le revoche. Si considera come prima settimana quella in cui cade il primo lunedì dell'anno, assume un valore compreso tra 1 e 53. Nelle trasmissioni dal Ministero delle finanze al Ministero dell'industria riporta la settimana indicata nel flusso riscontrato errato; 
+ 
+
+ f) progressivo fornitura all'interno dell'anno (6, D.E.): progressivo numerico, distinto per tipo flusso, incrementato di una unità ogni volta che si effettua una trasmissione; 
+ 
+
+ g) totale record inviati (6, D.E.): indica il numero totale dei record inviati comprensivo del record iniziale e finale; 
+ 
+
+ h) totale prenotazioni (6, D.E.): indica il numero di prenotazioni trasmesse; 
+ 
+
+ i) totale agevolazioni (6, D.E.): indica il numero di agevolazioni trasmesse; 
+ 
+
+ j) totale revoche (6, D.E.): indica il numero di revoche trasmesse; 
+ 
+
+ k) filler (178, A.N.): vale spazio.

@@ -1,0 +1,220 @@
+ALLEGATO 4 
+ 
+
+ CONTENUTO E CARATTERISTICHE DELLE TRASMISSIONI DEI DATI DELLE 
+ 
+
+ CONTABILITà DA INOLTRARE A CURA DEI CONCESSIONARI AL SISTEMA INFORMATIVO DEL MINISTERO DELLE FINANZE E DA QUESTO AL SISTEMA INFORMATIVO DELLA RAGIONERIA GENERALE DELLO STATO. 
+ 
+
+ I dati relativi alle contabilità dei concessionari riguardanti le operazioni di riscossione e dei rimborsi erogati, devono essere trasmessi telematicamente al Sistema informativo del Ministero delle finanze e al Sistema informativo della Ragioneria generale dello Stato. 
+ 
+
+ La trasmissione riguarderà le distinte riepilogative giornaliere relative alle somme riscosse tramite conto fiscale e a quelle provenienti da versamenti diretti effettuati da soggetti non intestatari di conto fiscale, afferenti ad imposte erariali, ad imposte devolute alle regioni e ad imposte proprie delle regioni. 
+ 
+
+ Il flusso informativo è predisposto per l'inoltro di notizie originali e di notizie di modifica. 
+ 
+
+ La lunghezza dei record da fornire è di 300 caratteri. 
+ 
+
+ Nelle pagine seguenti sono elencate le informazioni da riportare su ciascun record della fornitura; per ciascun campo, in parentesi sono forniti nell'ordine: lunghezza, tipo di rappresentazione del dato. 
+ 
+
+ 1. Record contabile. 
+ 
+
+ Riporta i dati contenuti nelle distinte riepilogative sia per le riscossioni in conto fiscale che per i versamenti diretti. Nel caso di riscossioni in conto fiscale allo sportello del concessionario o tramite delega bancaria riporta le informazioni totali calcolate sommando i separati importi. 
+ 
+
+ a) tipo record (1, D.E.): 
+ 
+
+ () vale 1 per i record forniti per la prima volta o inviati a sostituzione di record precedentemente inviati, riscontrati errati dall'Amministrazione finanziaria; 
+ 
+
+ () vale 2 per la cancellazione di record precedentemente inviati; () vale 3 per i record forniti a sostituzione di record precedentemente inviati e cancellati con record di tipo 2; 
+ 
+
+ b) codice ambito (3, D.E.); 
+ 
+
+ c) codice agente contabile (3, D.E.): è il codice con cui il concessionario viene riconosciuto nell'ambito del sistema informativo della Ragioneria generale dello Stato. Coincide con i primi tre caratteri numerici con cui il concessionario codifica il proprio codice versante all'atto del versamento; 
+ 
+
+ d) codice tesoreria provinciale dello Stato ovvero codice Cassa regionale (4, D.E.); 
+ 
+
+ e) data di riferimento (8, D.E.): espressa in AAAAMMGG, coincide con la data di riscossione; 
+ 
+
+ f) flag erario/regione (1, A): vale E per conto erario, vale R per entrate erariali devolute alla regione, vale P per entrate proprie; 
+ 
+
+ g) tipo di riscossione (1, D.E.): 
+ 
+
+ () vale 1 per le riscossioni in conto fiscale eseguite per delega bancaria o allo sportello del concessionario; 
+ 
+
+ () vale 2 per riscossioni in conto fiscale eseguite tramite c/c postale vincolato; 
+ 
+
+ () vale 3 per riscossioni non in conto fiscale eseguite allo sportello del concessionario; 
+ 
+
+ () vale 4 per riscossioni non in conto fiscale eseguite tramite c/c postale vincolato; 
+ 
+
+ h) flag competenza (1, D.E.): 
+ 
+
+ () vale 0 per versamenti relativi a riscossioni competenti territorialmente; 
+ 
+
+ () vale 1 per versamenti relativi a riscossioni incompetenti territorialmente; 
+ 
+
+ i) flag versamento in conto competenza/conto residui (1, A): 
+ 
+
+ () vale C per conto competenza; 
+ 
+
+ () vale R per conto residui; 
+ 
+
+ deve essere impostato anche nel caso in cui l'importo da versare è uguale a zero; 
+ 
+
+ j) capo (2, D.E.); 
+ 
+
+ k) capitolo (4, D.E.); 
+ 
+
+ l) articolo (2, D.E.); 
+ 
+
+ m) progressivo (2, D.E.): numero progressivo che identifica univocamente una riga di distinta a parità dei valori dei campi da b) a l); assume il valore 1 per la prima riga di distinta e si incrementa per ogni successiva riga di distinta avente gli stessi valori dei campi da b) a l) inviata nella stessa fornitura o in una successiva; per i record di tipo 2 il progressivo deve assumere lo stesso valore assunto sul record da cancellare; 
+ 
+
+ n) importo riscosso (15, D.E.): espresso in lire, corrispondente al totale somme versate dai contribuenti ovvero al totale dei pagamenti effettuati mediante agevolazione; 
+ 
+
+ o) importo compensi (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi trattenuti sulle riscossioni ovvero sui pagamenti effettuati mediante agevolazione; 
+ 
+
+ p) importo rimborsi erogati nel giorno di riscossione (15, D.E.): espresso in lire, corrisponde all'ammontare delle somme rimborsate, con le riscossioni relative alla data di riferimento (lettera e); 
+ 
+
+ q) compenso sui rimborsi (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi trattenuti sulle somme rimborsate di cui alla lettera p); 
+ 
+
+ r) importo rimborsi erogati nel giorno lavorativo successivo alla riscossione (15, D.E.): espresso in lire, corrisponde all'ammontare delle somme rimborsate, con le riscossioni relative alla data di riferimento (lettera e) nel giorno lavorativo successivo a tale data; 
+ 
+
+ s) compenso sui rimborsi (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi trattenuti sulle somme rimborsate di cui alla lettera r); 
+ 
+
+ t) importo rimborsi erogati nel secondo giorno lavorativo successivo (15, D.E.): espresso in lire, corrisponde all'ammontare delle somme rimborsate, con le riscossioni relative alla data di riferimento (lettera e) nel secondo giorno lavorativo successivo a tale data; 
+ 
+
+ u) compenso sui rimborsi (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi trattenuti sulle somme rimborsate di cui alla lettera t); 
+ 
+
+ v) importo rimborsi erogati nel terzo giorno lavorativo successivo (15, D.E.): espresso in lire, corrisponde all'ammontare delle somme rimborsate, con le riscossioni relative alla data di riferimento (lettera e) nel terzo giorno lavorativo successivo a tale data; 
+ 
+
+ w) compenso sui rimborsi (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi trattenuti sulle somme rimborsate di cui alla lettera v); 
+ 
+
+ x) importo rimborsi non andati a buon fine (15, D.E.): espresso in lire, corrisponde all'ammontare delle somme rimborsate per le quali non è andato a buon fine l'accredito effettuato a favore del contribuente; 
+ 
+
+ y) compenso sui rimborsi non andati a buon fine (15, D.E.): espresso in lire, corrisponde all'ammontare dei compensi relativi ai rimborsi di cui alla lettera x); 
+ 
+
+ z) importo giornaliero dei decreti di concessione di tolleranza (15, D.E.): espresso in lire; coincide con l'ammontare complessivo dei decreti di concessione di tolleranza fatti valere sul versamento delle riscossioni relative alla data di riferimento (lettera e); 
+ 
+
+ aa) importo del compenso giornaliero relativo a concessione di tolleranza (15, D.E.): espresso in lire; 
+ 
+
+ bb) importo giornaliero dei decreti di revoca di tolleranza (15, D.E.): espresso in lire; coincide con l'ammontare complessivo dei decreti di revoca di tolleranza versato unitamente alle riscossioni relative alla data di riferimento (lettera e); 
+ 
+
+ cc) importo del compenso giornaliero relativo a revoca di tolleranza (15, D.E.): espresso in lire; 
+ 
+
+ dd) flag agevolazione (1, D.E.): vale zero in corrispondenza alle righe generiche di una distinta: 
+ 
+
+ () vale 1 in corrispondenza alla riga di distinta appositamente contrassegnata per indicare l'importo dei pagamenti effettuati mediante agevolazione ed i relativi compensi; 
+ 
+
+ () vale 2 in corrispondenza alla riga di distinta appositamente contrassegnata per indicare l'importo della tolleranza rilasciata dalla sezione staccata della direzione regionale delle entrate per pagamenti effettuati mediante agevolazione fiscale; 
+ 
+
+ () vale 3 in corrispondenza alla riga di distinta appositamente contrassegnata per indicare l'importo della tolleranza revocata a seguito del versamento effettuato dal Ministero dell'industria; 
+ 
+
+ ee) data retroattiva (8, D.E.): espresso in AAAAMMGG deve essere impostata soltanto in corrispondenza ai valori 2 e 3 assunti dal campo flag-agevolazione (lettera dd) ed indica la data retroattiva da cui ha effetto la tolleranza; 
+ 
+
+ ff) filler (18, D.E.): vale zero; 
+ 
+
+ Si precisa che in corrispondenza al valore 1 del flag agevolazione i campi di cui alle lettere da p) a cc) devono essere impostati a zero; in corrispondenza al valore 2 i campi di cui alle lettere da n) a y) e da aa) a cc) devono essere impostati a zero; in corrispondenza al valore 3 i campi di cui alle lettere da n) a aa) e cc) devono essere impostati a zero. 
+ 
+
+ 2. Record di inizio trasmissione. 
+ 
+
+ La fornitura deve essere preceduta da un record iniziale avente il seguente contenuto informativo: 
+ 
+
+ a) tipo record (1, D.E.): vale 0; 
+ 
+
+ b) codice centro (3, D.E.): nella trasmissione dai concessionari al sistema informativo del Ministero delle finanze è il codice del centro elaborazione dati che ha effettuato le trasmissioni; nella trasmissione da sistema informativo del Ministero delle finanze al sistema informativo della Ragioneria generale dello Stato vale 0; 
+ 
+
+ c) anno contabile di riferimento (4, D.E.); 
+ 
+
+ d) periodo di riferimento (2, D.E.): nella trasmissione dai concessionari al sistema informativo del Ministero delle finanze indica la settimana contabile a cui si riferiscono i dati indicando come prima settimana la settimana in cui cade il primo lunedì dell'anno, assume un valore compreso tra 01 e 53; nella trasmissione da sistema informativo del Ministero delle finanze al sistema informativo della Ragioneria generale dello Stato indica il mese contabile cui si riferiscono i dati, assume un valore compreso tra 01 e 12; 
+ 
+
+ e) progressivo di fornitura all'interno dell'esercizio (6, D.E.); 
+ 
+
+ f) filler (284, D.E.): vale sempre 0; 
+ 
+
+ 3. Record di fine trasmissione. 
+ 
+
+ La fornitura deve essere seguita da un record finale avente il seguente contenuto informativo: 
+ 
+
+ a) tipo record (1, D.E.): vale 9; 
+ 
+
+ b) codice centro (3, D.E.): nella trasmissione dai concessionari al sistema informativo del Ministero delle finanze è il codice del centro elaborazione dati che ha effettuato le trasmissioni; nella trasmissione da sistema informativo del Ministero delle finanze al sistema informativo della Ragioneria generale dello Stato vale 0; 
+ 
+
+ c) anno contabile di riferimento (4, D.E.); 
+ 
+
+ d) periodo di riferimento (2, D.E.): nella trasmissione dai concessionari al sistema informativo del Ministero delle finanze indica la settimana contabile a cui si riferiscono i dati indicando come prima settimana la settimana in cui cade il primo lunedì dell'anno, assume un valore compreso tra 01 e 53; nella trasmissione da sistema informativo del Ministero delle finanze a sistema informativo della Ragioneria generale dello Stato indica il mese contabile cui si riferiscono i dati, assume un valore compreso tra 01 e 12; 
+ 
+
+ e) progressivo di fornitura all'interno dell'esercizio (6, D.E.); 
+ 
+
+ f) totale record inviati (6, D.E.): tale numero è comprensivo di record iniziale e finale; 
+ 
+
+ g) filler (278, D.E.): vale sempre 0.
