@@ -1,0 +1,258 @@
+Allegato A 
+ 
+
+ 
+ 
+
+ 3.3.3. Classificazione. 
+ 
+
+ 
+ 
+
+ Al fine di una prima classificazione dello stato ecologico dei laghi viene valutato lo stato trofico utilizzando la tabella 11a per l'individuazione del livello da attribuire alla trasparenza e alla clorofilla "a". L'attribuzione del livello per l'ossigeno disciolto e 
+ 
+
+ il fosforo totale viene effettuata rispettivamente attraverso le 
+ 
+
+ tabelle a doppia entrata 11b e 11c. 
+ 
+
+ Lo stato ecologico è ottenuto sommando i livelli dei singoli parametri, deducendo la classe finale dagli intervalli definiti dalla 
+ 
+
+ tabella 11d. 
+ 
+
+ 
+ 
+
+ Tabella 11a - Individuazione dei livelli per la trasparenza e la 
+ 
+
+ clorofilla. 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ PARAMETRO LIVELLO 1 LIVELLO 2 LIVELLO 3 LIVELLO 4 LIVELLO 5 
+ 
+
+ 
+ Trasparenza (m) (valore minimo) > 5 <o = 5 <o = 2 <o = 1,5 <o = 1 
+ 
+
+ 
+ Clorofilla a (&micro;g/l)valore massimo) <3 <o = 6 <o = 10 <o = 25 > 25 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 11b - Individuazione del livello per l'ossigeno (% 
+ 
+
+ saturazione). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-----------+-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ | | VALORE A 0 m NEL PERIODO DI MASSIMA |
+ 
+
+ 
+ | | CIRCOLAZIONE |
+ 
+
+ 
+ | +-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ | | | > 80 | <80 | <60 | <40 | <20 |
+ 
+
+ 
+ +-----------+-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ |VALORE |> 80 | 1 | | | | |
+ 
+
+ 
+ | MINIMO +-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ |IPOLIMNICO |o = 80 | 2 | 2 | | | |
+ 
+
+ 
+ |NEL +-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ |PERIODO DI |o = 60 | 2 | 3 | 3 | | |
+ 
+
+ 
+ | +-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ |MASSIMA | <o = 40 | 3 | 3 | 4 | 4| |
+ 
+
+ 
+ |STRATIFICA +-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ |ZIONE | <o = 20 | 3 | 4 | 4 | 5 | 5 |
+ 
+
+ 
+ +-----------+-----------+-----------+----------+----------+---------+--------+
+ 
+
+ 
+ 
+
+ Tabella 11c - Individuazione del livello per il fosforo totale 
+ 
+
+ (&micro;g/1). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-----------+-----------+-----------+----------+----------+---------+---------+
+ 
+
+ 
+ | | VALORE A 0 m NEL PERIODO DI MASSIMA |
+ 
+
+ 
+ | | CIRCOLAZIONE |
+ 
+
+ 
+ | +---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ | | | <10 | <25 | <50 | <100 | > 100 |
+ 
+
+ 
+ +-----------+---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ |VALORE | <10 | 1 | | | | |
+ 
+
+ 
+ |MASSIMO +---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ |RISCONTRATO| <o = 25 | 2 | 2 | | | |
+ 
+
+ 
+ | +---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ | | <o = 50 | 2 | 3 | 3 | | |
+ 
+
+ 
+ | +---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ | | <o = 100| 3 | 3 | 4 | 4 | |
+ 
+
+ 
+ | +---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ | | > 100 | 3 | 4 | 4 | 5 | 5 |
+ 
+
+ 
+ +-----------+---------+-----------+----------+----------+---------+-----------+
+ 
+
+ 
+ 
+ 
+
+ Tabella 11d. Attribuzione della classe dello stato ecologico attraverso la normalizzazione dei livelli ottenuti per i singoli parametri. 
+ 
+
+ 
+ 
+ 
+ Somma dei singoli punteggi Classe 
+ 
+
+ 
+ 4 1 
+ 
+
+ 
+ 5-8 2 
+ 
+
+ 
+ 9-12 3 
+ 
+
+ 
+ 13-16 4 
+ 
+
+ 
+ 17-20 5
