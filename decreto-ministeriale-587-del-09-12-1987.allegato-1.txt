@@ -1,0 +1,4461 @@
+REGOLE DI SICUREZZA PER LA COSTRUZIONE 
+ 
+
+ E L'INSTALLAZIONE DEGLI ASCENSORI 
+ 
+
+ ELETTRICI 
+ 
+
+ 
+ SOMMARIO 
+ 
+
+ 
+ 0. Introduzione......................... 
+ 
+
+ 
+ 1. Scopo e campo di applicazione....... 
+ 
+
+ 
+ 2. Riferimenti......................... 
+ 
+
+ 
+ 3. Definizioni......................... 
+ 
+
+ 
+ 4. Simboli ed abbreviazioni............ 
+ 
+
+ 
+ 5. Vano da corsa....................... 
+ 
+
+ 
+ 6. Locali di macchinario e delle pulegge 
+ 
+
+ 
+ di rinvio........................... 
+ 
+
+ 
+ 7. Porte di piano...................... 
+ 
+
+ 
+ 8. Cabina e contrappeso................ 
+ 
+
+ 
+ 9. Organi di sospensione organi di compensazione paracadute e 
+ 
+
+ 
+ limitatore di 
+ 
+
+ 
+ velocità............................ 
+ 
+
+ 
+ 10. Guide, ammortizzatori e dispositivi 
+ 
+
+ 
+ di sicurezza........................ 
+ 
+
+ 
+ 11. Distanza tra cabina e parete nonchè 
+ 
+
+ 
+ tra cabine e contrappeso............. 
+ 
+
+ 
+ 12. Macchinario......................... 
+ 
+
+ 
+ 13. Installazione e apparecchiature 
+ 
+
+ 
+ elettriche.......................... 
+ 
+
+ 
+ 14. Protezione contro i guasti elettrici 
+ 
+
+ 
+ comandi e precedenze................ 
+ 
+
+ 
+ 15. Avvisi e istruzioni per la manovra... 
+ 
+
+ 
+ 16. Controlli, prove, libretto e manutenzione........................ 
+ 
+
+ 
+ ....... 
+ 
+
+ 
+ Appendice A Condizioni di impiego dei dispositivi 
+ 
+
+ 
+ elettrici 
+ 
+
+ 
+ Appendice B Chiave triangolare di sblocco del 
+ 
+
+ 
+ dispositivo di blocco............... 
+ 
+
+ 
+ Appendice C Documentazione tecnica.............. 
+ 
+
+ 
+ Appendice D Controlli e prove in sede di collaudo 
+ 
+
+ 
+ Appendice E Controlli e prove periodici, controlli 
+ 
+
+ 
+ e prove dopo una trasformazione importante e dopo un 
+ 
+
+ 
+ infortunio........... 
+ 
+
+ 
+ Appendice F Procedure di prova per esami di tipo 
+ 
+
+ 
+ F.O. Introduzione 
+ 
+
+ 
+ F.1. Dispositivi di blocco delle porte di 
+ 
+
+ 
+ piano 
+ 
+
+ 
+ F.2. 
+ 
+
+ 
+ F.3. Paracadute 
+ 
+
+ 
+ F.4. Limitatore di velocità.............. 
+ 
+
+ 
+ F.5. Ammortizzatori ad accumulo di energia 
+ 
+
+ 
+ con smorzamento di movimento di ritorno 
+ 
+
+ 
+ e ammortizzatori a disposizione di 
+ 
+
+ 
+ energia 
+ 
+
+ 
+ 
+
+ 0. Introduzione 
+ 
+
+ Scopo della presente norma è di definire le regole di sicurezza relative agli ascensori e montacarichi al fine di proteggere le persone e le cose contro i vari rischi di infortunio che possono prodursi durante il funzionamento degli ascensori e montacarichi. 
+ 
+
+ 0.1. La presente norma è stata redatta adottando il metodo seguente. 
+ 
+
+ 0.1.1. Si è proceduto all'analisi dei rischi che possono accadere per ciascuno degli elementi che costituiscono una installazione di ascensori e montacarichi. 
+ 
+
+ Per ogni caso è stata stabilita una regola 
+ 
+
+ 0.1.2. La presente norma, particolare per gli ascensori e montacarichi, non riporta l'insieme delle regole tecniche generali, applicabili a ogni costruzione elettrica, meccanica ed edile.
+ 
+
+ Ovviamente è necessario che tutti gli elementi. 
+ 
+
+ 0.1.2.1. Siano calcolati correttamente, ben costruiti dal punto di vista meccanico ed elettrico, fabbricati con materiali solidi che presentino resistenza e qualità appropriate e siano esenti da difetti; 
+ 
+
+ 0.1.2.2. Siano mantenuti in buone condizioni di funzionamento e di buono stato. Si farà attenzione in particolare affinchè, nonostante l'usura i requisiti dimensionali restino rispettati. 
+ 
+
+ 0.1.3. La presente norma, particolare per ascensori e montacarichi, non riporta le regole alla protezione contro l'incendio degli elementi dell'edificio. 
+ 
+
+ Tuttavia è necessario riferirsi ad esse in quanto influiscono direttamente nella scelta delle porte dei piani e nella concezione e realizzazione delle manovre elettriche. 
+ 
+
+ 0.1.4. La presente norma, particolare per ascensori e montacarichi, non può ignorare determinate prescrizioni che non appartengono intrinsecamente al campo di questi impianti o che non causano ostacoli agli scambi, ma che condizionano la sicurezza degli utenti o del personale di manutenzione e la buona conservazione d'impianto. 
+ 
+
+ 0.2. è stato ritenuto necessario fissare alcuni requisiti di buona tecnica, sia perchè essi sono propri della fabbricazione di ascensori sia perchè, considerata l'utilizzazione degli ascensori, è necessario essere più esigenti che per altri impianti. 
+ 
+
+ 0.3. Per quanto possibile la norma precisa solo le regole alle quali devono soddisfare i materiali e le apparecchiature ai fini della sicurezza degli ascensori. 
+ 
+
+ 0.4. Quando, per chiarire il testo, si cita una soluzione, questa non deve essere considerata come la sola possibile, può essere ammessa qualsiasi altra soluzione che raggiunga lo stesso risultato con 
+ 
+
+ garanzia di funzionamento e di sicurezza almeno equivalenti 
+ 
+
+ 0.5. Lo studio dei diversi incidenti che possono verificarsi nel 
+ 
+
+ campo degli ascensori è stato fatto esaminando quanto segue 
+ 
+
+ 0.5.1. La natura degli incidenti possibili 
+ 
+
+ a) cesoiamento 
+ 
+
+ b) schiacciamento 
+ 
+
+ c) caduta 
+ 
+
+ d) urto 
+ 
+
+ e) imprigionamento 
+ 
+
+ f) incendio 
+ 
+
+ 1) è stato costituito un Comitato di interpretazione se necessario, lo spirito con cui gli esperti, hanno redatto i diversi punti di questa norma. 
+ 
+
+ g) elettrocuzione 
+ 
+
+ h) danneggiamento del materiale 
+ 
+
+ i) dovuto ad usura 
+ 
+
+ l) dovuto a corrosione 
+ 
+
+ 0.5.2. Le persone da proteggere 
+ 
+
+ a) gli utenti, 
+ 
+
+ b) il personale di manutenzione e sorveglianza 
+ 
+
+ c) le persone che si trovano fuori dal vano di corsa, dal locale del macchinario e dall'eventuale locale della pulegge di rinvio. 
+ 
+
+ 0.5.3. Le cose da proteggere 
+ 
+
+ a) i carichi in cabina 
+ 
+
+ b) i componenti dell'impianto di ascensore e montacarichi; 
+ 
+
+ c) l'edificio si trova l'ascensore e montacarichi. 
+ 
+
+ 0.6. Nella norma si è preso in considerazione 
+ 
+
+ 0.6.1. Che gli utenti devono essere protetti contro le loro distrazioni e le loro inconsapevoli imprudenze; 
+ 
+
+ 0.6.2. Che esistono d'altra parte categorie di utenti per le quali 
+ 
+
+ certe prescrizioni possono essere meno severe 
+ 
+
+ Questi utenti sono denominati nel testo "utenti autorizzati ed esperti". 
+ 
+
+ Si ammette che l'utilizzazione dell'ascensore sia riservate agli utenti autorizzati ed esperti se le istruzioni loro impartite circa l'installazione dell'impianto sono emanate dalla persona responsabile dell'ascensore e se è adempiuta una delle condizioni seguenti: 
+ 
+
+ a) il funzionamento, dell'ascensore è possibile solo quando si inserisce una chiave, in possesso soltanto negli utenti autorizzati ed esperti, in un dispositivo di blocco situato in cabina e fuori; 
+ 
+
+ b) l'ascensore è situato in locali il cui accesso è interdetto al pubblico che, quando non sono chiusi a chiave, sono sorvegliati permanentemente da uno o più addetti preposti alla persona responsabile dell'ascensore. 
+ 
+
+ 0.6.3. Che esistono dei montacarichi la cui cabina per definizione non è accessibile alle persone, per i quali certe regole possono essere meno severe o anche soppresse. 
+ 
+
+ 0.7. La norma è stata stabilita ammetendo in certi casi l'imprudenza di un utente, ma occorre limitarsi alla giusta misura, ragione per cui è esclusa l'ipotesi di due imprudenze simultanee e della violazione delle prescrizioni di utilizzazione. 
+ 
+
+ 0.8. La presente norma tratta, nelle sue appendici, nel modo in cui devono essere effettuate le prove di alcuni componenti degli ascensori e la verifica dell'ascensore stesso, installato, quando queste prove sono richieste. 
+ 
+
+ 0.6.1. Per quanto concerne l'ascensore stesso, viene indicato, nelle appendici di seguito citate, il massimo di ciò che può essere 
+ 
+
+ richiesto 
+ 
+
+ 0.8.1.1. Appendice C la relazione tecnica da fornire per l'autorizzazione preventiva. 
+ 
+
+ 0.8.1.2. Appendice D gli esami e le prove prima della messa in servizio. 
+ 
+
+ 0.8.1.3. Appendice E gli esami e le prove periodiche nonchè gli esami e le prove dopo una modifica importante e dopo un incidente. 
+ 
+
+ 0.8.2. Appendice F gli esami di tipo di alcuni componenti dell'ascensore permettono di limitare e semplificare le prove dopo il montaggio e di rendere possibile la fabbricazione nazionale in serie di questi componenti. 
+ 
+
+ 
+ 
+
+ 1. Scopo e campo di applicazione 
+ 
+
+ La presente norma disciplina gli ascensori come definiti in 3 mesi, mossi elettricamente, la cui cabina è sospesa a mezzo di funi o catene. 
+ 
+
+ In particolare, gli impianti elevatori che servono soltanto al trasporto di cose, quando le dimensioni e la costruzione della cabina permettono l'accesso a persone, devono essere classificati nella categoria "Ascensori" e con "Montacarichi" (vedere definizione in 3). 
+ 
+
+ Per impianti con inclinazione delle guide maggiori di 15 rispetto alla verticale, cui si potrà riferire utilmente alla presente norma 
+ 
+
+ 2. Riferimenti 
+ 
+
+ ISO 834-1975 (= UNI 7678) Prove di resistenza al fuoco - Elementi 
+ 
+
+ costruttivi 
+ 
+
+ ISO 2532-1974 (= UNI 8680) Funi di acciaio - Vocabolario 
+ 
+
+ Pubblicazione IEC........ Distanze di isolamento e linee di fuga per contattori a bassa tensione (in preparazione a cura della SC 28 A della IEC attualmente allegato B della pubblicazione IEC 158/1). 
+ 
+
+ 
+ 
+
+ Documenti di armonizzazione CENELEC 
+ 
+
+ - HD 21 S2 1981 (= CEI 20-20 del 1984) Cavi isolati con 
+ 
+
+ polivincloruro con trensioni normali non superiori a 450/750 V 
+ 
+
+ - HD 21 S2 1981 (= CEI 20-20 del 1984) Cavi isolati con gomma con 
+ 
+
+ tensioni normali non superiori a 450/750 V 
+ 
+
+ - HD 21 S2 1980 (= CEI 15-18 del 1985) Metodo raccomandato per determinare l'indice di resistenza alle correnti striscianti superficiali dei materiali isolanti solidi in condizioni umide. 
+ 
+
+ - HD 359 S2 1976 (= CEI 20-25 del 1979) Cavi isolati con gomma per ascensori per uso generale. 
+ 
+
+ - HD 384.4 4.1 1980 (CEI 64.8 del 1984) Installazione elettriche degli edifici Parte 4. Protezione per la sicurezza - Capitolo 41 
+ 
+
+ Protezione contro i contratti elettrici 
+ 
+
+ - HD 419-1982 (= CEI 17.3 del 1969 Apparecchiature di comando a bassa 
+ 
+
+ tensione - Contattori 
+ 
+
+ - HD 420-1982 (= CEI 17-12 del 1979) Ausiliari di comando (apparecchi di connessione a basse tensione per circuiti di comando e circuiti ausiliari, compresi i contattori ausiliari). 
+ 
+
+ - HD...... Classificazione delle influenze esterne (in preparazione, attualmente pubblicazione IEC 364-3 1977). 
+ 
+
+ 
+ 
+
+ 3. Definizioni 
+ 
+
+ Le definizioni sotto elencate hanno lo scopo di indicare il significato tecnico preciso dei termini impiegati nella quale essi si 
+ 
+
+ riferiscono ciò per evitare inutili ripetizioni 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 5. Vano di corsa 
+ 
+
+ 5.1. Disposizioni generali 
+ 
+
+ 5.1.1. Le prescrizioni di questo punto sono applicabili ai vani di corsa che contengono una o più cabine d'accessori. 
+ 
+
+ 5.1.2. Il contrappeso di un ascensore deve trovarsi nello stesso vano di corsa della cabina. 
+ 
+
+ 5.2. Chiusura del vano di corsa 
+ 
+
+ 5.2.1. Ogni vano di corsa deve essere completamente chiuso da pareti, pavimento e soffitto ciechi come definiti in 5.3. 
+ 
+
+ Sono ammesse solo le seguenti aperture: 
+ 
+
+ a) accessi delle porte del piano (7); 
+ 
+
+ b) accessi delle porte di ispezione o di soccorso del vano e degli sportelli di ispezione; 
+ 
+
+ c) aperture di uscita di gas e fumi in caso di incendio; 
+ 
+
+ d) apertura di ventilazione (5.2.3.); 
+ 
+
+ e) aperture permanenti tra il vano di corsa ed il locale del macchinario o della pulegge di rinvio. 
+ 
+
+ Caso particolare 
+ 
+
+ Quando il vano di corsa non deve partecipare alla protezione dell'edificio contro il propagarsi di un incendio, può essere permesso: 
+ 
+
+ a) di limitare l'altezza delle protezioni sulle pareti, che non siano le pareti di accesso, a una altezza di 2,5 m al di sopra di tutti i punti dove le persone possono accedere normalmente; 
+ 
+
+ b) di utilizzare sui lati di accesso delle protezioni in rete o traforati metallici a partire da una altezza di 2,5 m sopra al pavimento dei piani (queste protezioni non sono richieste se la porta di cabina è bloccata meccanicamente) (5.4.3.2.2.). 
+ 
+
+ Le dimensioni delle maglie o delle perforazioni devono essere al massimo di 75 mm orizzontalmente e verticalmente. 
+ 
+
+ 5.2.2. Porte di ispezione e di soccorso, sportelli di ispezione 
+ 
+
+ 5.2.2.1. Le porte di ispezione e di soccorso e gli sportelli di ispezione del vano di corsa sono ammessi solo se la sicurezza degli utenti o le necessità di manutenzione lo impongono. 
+ 
+
+ 5.2.2.1.1. Le porte di ispezione devono avere altezza minima di 1,4 m e larghezza minima di 0,6 m. 
+ 
+
+ Le porte di soccorso devono avere altezza minima di 1,8 m e larghezza minima di 0,35 m. 
+ 
+
+ Gli sportelli di ispezione devono avere altezza massima di 0,5 m e larghezza massima di 0,5 m. 
+ 
+
+ 5.2.2.1.2. Quando la distanza tra due porte di piano consecutive supera 11 m devono essere previste porte intermedie di soccorso in modo che la distanza tra le soglie sia non maggiore di 11 m. 
+ 
+
+ Questa prescrizione non è richiesta nel caso di cabine adiacenti aventi ciascuna una porta di soccorso che risponda alle prescrizioni di cui in 8.12.4. 
+ 
+
+ 5.2.2.2. Le porte di ispezione e di soccorso e gli sportelli di ispezione devono aprirsi verso l'interno del vano di corsa. 
+ 
+
+ 5.2.2.2.1. Le porte e gli sportelli devono essere muniti di un dispositivo di blocco a chiave che permetta la chiusura ed il bloccaggio senza chiave. 
+ 
+
+ Le porte di ispezione e di soccorso devono potersi aprire senza chiave dall'interno del vano di corsa anche quando sono bloccate. 
+ 
+
+ 5.2.2.2.2. Il funzionamento dell'ascensore deve essere automaticamente subordinato al mantenimento in posizione chiusa di queste porte e sportelli. 
+ 
+
+ A questo scopo devono essere utilizzati dispositivi elettrici di sicurezza conformati al 14.1.2. 
+ 
+
+ Il funzionamento dell'ascensore con uno sportello di ispezione aperto può essere ammesso durante operazione di ispezione se questo funzionamento necessita di una azione continua su un dispositivo (accessibile solo quando lo sportello è aperto) che permette di escludere il dispositivo elettrico di sicurezza che controlla normalmente il bloccaggio dello sportello. 
+ 
+
+ 5.2.2.3. Le porte di ispezione e di soccorso e gli sportelli di ispezione devono essere ciechi e rispondere alle stesse condizioni di resistenza meccanica delle porte al piano. 
+ 
+
+ 5.2.3. Ventilazione del vano di corsa 
+ 
+
+ Il vano di corsa deve essere convenientemente ventilato. Esso non deve essere utilizzato per assicurare l'areazione di locali estranei al servizio dell'ascendore. 
+ 
+
+ Nella parte alta devono essere predisposte apertura di ventilazione verso l'esterno, in conformità delle norme vigenti in materia di protezione contro gli incendi, con un'area non minore dell'1% della sezione orizzontale del vano di corsa. 
+ 
+
+ 5.3. Pareti, pavimento e soffitto del vano di corsa 
+ 
+
+ L'insieme del vano di corsa deve poter sopportare almeno le reazioni apportate dal macchinario, dalle guide durante la presa del paracadute o, in caso di decentramento del carico in cabina, dall'azione degli ammortizzatori oppure le reazioni apportate dal dispositivo antirimbalzo (per la valutazione degli sforzi) all'atto della presa del paracadute o dell'entrata in azione degli ammortizzatori, vedere cap. 5-note). 
+ 
+
+ Le pareti, il pavimento ed il soffitto del vano di corsa devono: 
+ 
+
+ a) essere costituiti da materiali incombustibili, conformi alle norme vigenti in materia di protezione contro gli incendi, durevoli e che non favoriscano la formazione di polvere; 
+ 
+
+ b) avere una sufficiente resistenza meccanica. 
+ 
+
+ 5.4. Esecuzione delle pareti del vano di corsa e delle pareti dei 
+ 
+
+ piani di fronte all'accesso della cabina 
+ 
+
+ 5.4.1. Le prescrizioni seguenti, relative alle porte dei piani e alle pareti o parti parte di parete affacciate ad una entrata di cabina, devono essere applicate su tutta l'altezza del vano di corsa. 
+ 
+
+ Per le distanze tra la cabina e la parete frontale, vedere in 11. 
+ 
+
+ 5.4.2. L'insieme, formato dalle porte di piano e da tuta la parete o parte di parete di fronte a una entrata di cabina, deve formare una superficie cieca su tutta la larghezza dell'accesso di cabina (esclusi i giuchi di funzionamento delle porte). 
+ 
+
+ 5.4.3. Per gli ascensori con porta di cabina 
+ 
+
+ 5.4.3.1. Al di sotto di ogni soglia di piano per un'altezza almeno uguale alla metà della zona di sloccaggio aumentata di 50 mm, la parete deve rispondere alle condizioni di cui in 5.4.4. a) e b). 
+ 
+
+ a) o raccordata all'architrave della porta seguente; 
+ 
+
+ b) o prolungata verso il basso con uno smusso duro e liscio con un angolo di inclinazione non minore di 60 gradi, rispetto al piano orizzontale. 
+ 
+
+ La protezione di questo smusso su un piano orizzontale non deve essere minore di 20 mm. 
+ 
+
+ 5.4.3.2. Negli altri punti la distanza orizzontale tra la parete del vano di corsa e la soglia o i bordi dell'accesso della cabina o la porta (o bordo estremo delle porte nel caso di porte scorrevoli) non deve essere maggiore di 0,15 m. 
+ 
+
+ Questa prescrizione ha lo scopo di evitare: 
+ 
+
+ a) il pericolo che una persona cade nel vano; 
+ 
+
+ b) che una persona possa introdursi, in funzionamento normale, tra la porta di cabina ed il vano di corsa (è per questo motivo che deve essere misurata la distanza di 0,15 m soprattutto nel caso di porte telescopiche). 
+ 
+
+ 5.4.3.2.1. Può essere ammessa una distanza orizzontale di 0,2 m; 
+ 
+
+ a) su una altezza non maggiore di 0,5 m o 
+ 
+
+ b) nel caso di ascensori per merci e di montautomobili, le cui porte di piano scorrano verticalmente. 
+ 
+
+ 5.4.3.2.2. La condizione enunciata in 5.4.3.2. può non essere rispettata se la cabina è munita di una porta bloccata meccanicamente che deve poter essere aperta solo nella zona di sbloccaggio di una porta di piano. 
+ 
+
+ Il funzionamento dell'ascensore deve essere automaticamente subordinato al bloccaggio della porta di cabina corrispondente salvo nei casi previsti in 7.7.2.2. Questo bloccaggio deve essere controllato da un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 5.5. Protezione degli spazi situati eventualmente sotto la 
+ 
+
+ traiettoria della cabina o del contrappeso 
+ 
+
+ 5.5.1. Di preferenza i vani di corsa non devono essere situati sopra uno spazio accessibile alle persone. 
+ 
+
+ 5.5.2. Nel caso in cui esistono degli spazi accessibili situati sotto la traiettoria della cabina o del contrappeso, il fondo della fossa deve essere calcolato per un carico non minore di 5 000 N/m2 e si deve: 
+ 
+
+ a) o disporre, sotto gli ammortizzatori del contrappeso, un pilastro appoggiato direttamente sul terreno; 
+ 
+
+ b) o munire il contrappeso di un paracadute. 
+ 
+
+ 5.6. Vano di corsa contenente cabine e contrappesi appartenenti a 
+ 
+
+ più ascensori o montacarichi 
+ 
+
+ 5.6.1. Deve esistere una separazione nella parte inferiore del vano di corsa tra gli organi mobili cabina e contrappeso appartenenti a differenti montacarichi o ascensori. 
+ 
+
+ Questa separazione deve estendersi dal pavimento della fossa fino ad un'altezza inferiore a 2,5 m. 
+ 
+
+ 5.6.2. Inoltre, se la distanza orizzontale tra il bordo del tetto della cabina di un ascensore e una marte mobile (cabina o contrappeso) appartenente ad un ascensore o montacarichi adiacente è minore di 0,3 m, la separazione prevista al 5.6.1. deve essere prolungata su tutta l'altezza del vano e per la lunghezza utile. 
+ 
+
+ Questa larghezza non deve essere minore di quella della parte mobile (o parte dell'organo mobile) da cui ci si vuole proteggere, aumentata di 0,1 m da una parte e dall'altra. 
+ 
+
+ 5.7. Testa e fossa 
+ 
+
+ 5.7.1. Spazio libero all'estremità superiore del vano di corsa per gli ascensori a frizione (vedere nota 3 alla fine del punto 5) 
+ 
+
+ 5.7.1.1. Quando il contrappeso poggia su ammortizzatori totalmente compressi, devono essere contemporaneamente soddisfare le quattro condizioni seguenti: 
+ 
+
+ a) la lunghezza delle guide di cabina deve permettere un'ulteriore corsa guidata espressa in metri, non minore di 0,1 + 0,035 v2, essendo v (velocità nominale) espressa in metri al secondo2); 
+ 
+
+ 2) 0,035 v2 rappresenta la metàdella distanza di arresto per gravità corrispondente al 115% della velocità nominale 1/2 (1,15 
+ 
+
+ v)2/2 gn = 0,033 7 v2 arrotondato a 0,035 v2 
+ 
+
+ b) la distanza libera verticale tra il livello della superficie più alta sul letto della cabina le cui dimensioni rispondano a 8.13.1 b) (con esclusione delle superficie delle parti di cui in 5.7.1.1 c) ed il livello delle parti più basse del soffitto del vano (inclusi le travi e i componenti installati sotto il soffitto), situati nella proiezione del tetto della cabina, espressa in metri deve essere non minore di 1,0 + 0,035 (immagine); 
+ 
+
+ c) la distanza libera verticale, espressa in metri, tra le parti più basse del soffitto del vano e: 
+ 
+
+ 1) le parti più alte degli organi fissati sul tetto della cabina, eccettuati quelli presi in considerazione al 2) qui sotto, non deve essere minore di 0,3 + 0,035 (immagine); 
+ 
+
+ 2) la parte più alta dei pattini o dei rulli di guida, degli attacchi delle funi e, se esistono, della traversa frontale o delle parti delle porte scorrevoli verticalmente, non deve essere minore di 0,1 + 0,035 (immagine); 
+ 
+
+ d) deve esistere sopra la cabina uno spazio che permetta di sistemare un parallelepipedo rettangolo di almeno 0,5 m x 0,6 m x 0,8 m, poggiante su una delle sue facce. Per gli ascensori con tiro diretto, le funi di sospensione e i loro attacchi possono essere contenuti in questo volume purchè nessuna fune sia ad una distanza maggiore di o,15 m da almeno una delle facce verticali del parallelepipedo. 
+ 
+
+ 5.7.1.2. Quando la cabina appoggia sugli ammortizzatori completamente compressi la lunghezza delle guide del contrappeso deve essere tale da permettere un'ulteriore corsa guidata del contrappeso, espressa in metri, non minore di 0,1 + 0,035 (immagine); 
+ 
+
+ 5.7.1.3. Quando il rallentamento dell'ascensore avviene come è detto in 12.8, il valore di 0,035 v2 utilizzato in 5.7.1.1 e 5.7.1.2 può essere ridotto: 
+ 
+
+ a) a 1/2 per gli ascensori la cui velocità nominale non è maggiore di 4 m/s; 
+ 
+
+ b) a 1/3 per gli ascensori la cui velocità nominale è maggiore di 4 m/s. 
+ 
+
+ Tuttavia, in entrambi i casi, questo valore non può essere minore di 0,25 m. 
+ 
+
+ 5.7.1.4. Nei casi di ascensori muniti di funi di compensazione la cui puleggia tenditrice è munita di un dispositivo antirimbalzo (dispositivo di frenatura o di bloccaggio in caso di risalita brusca) il valore di 0,035 v2 sopra indicato può essere sostituito, per il calcolo degli spazi liberi, da un valore legato alla corsa possibile di questa puleggia (dipendente dalla taglia utilizzata) aumentato di 1/500 della corsa della cabina con un minimo di 0,2 m per tener conto dell'elasticità delle funi. 
+ 
+
+ 5.7.2. Spazio libero all'estremità superiore del vano per gli ascensori ad argano agganciato. 
+ 
+
+ 5.7.2.1. La corsa della cabina dal piano più alto prima che essa urti sugli ammortizzatori superiore non deve essere minore di 0,5 m.
+ 
+
+ La cabina deve essere guidata fino alla fine della compressione degli ammortizzatori. 
+ 
+
+ 5.7.2.2. Quando gli ammortizzatori superiori sono totalmente compressi dalla cabina, devono essere simultaneamente soddisfatte le seguenti condizioni: 
+ 
+
+ a) la distanza libera verticale tra il livello della superficie più alta sul tetto della cabina le cui dimensioni rispondono all'8.13.1.
+ 
+
+ b) (con esclusione delle superficie delle parti di cui in 5.7.2.2.) ed il livello delle parti più basse del solito del vano (inclusi le travi e i componenti installati sotto il soffitto), situati nella proiezione del tetto della cabina, deve essere non minore di 1 m; 
+ 
+
+ b) la distanza libera verticale tra le parti più basse del soffitto del vano di corsa e: 
+ 
+
+ 1) le parti più alte degli organi fissati sul tetto della cabina, eccettuati quelli presi in considerazione al 2) qui sotto, non deve essere minore di 0,3 m; 
+ 
+
+ 2) la parte più alta dei pattini o dei rulli di guida, degli attacchi delle funi e, se esistono, della traversa frontale o delle parti di porte scorrevoli verticalmente, non deve essere minore di 0,1 m; 
+ 
+
+ c) deve esistere sopra la cabina uno spazio che permette di sistemare un parallelepipedo rettangolo di almeno 0,5 m x 0,6 mx 0,8 m, poggiante su una delle sue facce. Per gli ascensori con tiro diretto, le funi di sospensione e i loro attacchi possono essere contenuti in questo volume purchè nessuna fune sia ad una distanza maggiore di 0,15 m da almeno una delle facce verticali del parallelepipedo. 
+ 
+
+ 5.7.2.3. Quando la cabina appoggia sugli ammortizzatori totalmente compressi, la lunghezza delle guide del contrappeso, se esiste, deve permettere un'ulteriore corsa guidata non minore di 0,3 m. 
+ 
+
+ 5.7.3. Fossa 
+ 
+
+ 5.7.3.1. La parte inferiore del vano deve essere costituita da una fossa il cui fondo deve essere continuo e sensibilmente in piano ad eccezione degli eventuali basamenti per gli amortizzatori e le guide e dei dispositivi di evacuazione delle acque. 
+ 
+
+ Dopo l'esecuzione dei vari fissaggi delle guide, ammortizzatori, eventuali protezioni, ecc. questa fossa deve essere protetta contro infiltrazioni d'acqua. 
+ 
+
+ 2) 0,035 v2 rappresenta la metà della distanza di arresto per gravità corrispondente al 115% della velocità nominale (immagine) + 0,033 7 v2 arrotondato a 0,035 v2. 
+ 
+
+ 5.7.3.2. Se esiste una porta d'accesso alla fossa, diversa dalla porta di piano, essa deve rispondere alle prescrizioni di cui in 5.2.2. 
+ 
+
+ Tale porta deve esistere se la profondità della fossa è maggiore di 2,5 m e se la disposizione dei luoghi la permette. 
+ 
+
+ In mancanza di altro accesso, si deve prevedere un dispositivo installato in modo stabile nel vano di corsa, facilmente accessibile dalla porta di piano, per permettere al personale competente una discesa senza rischi in fondo alla fossa. 
+ 
+
+ Questo dispositivo non deve interessare lo spazio impegnato dalle parti di ascensore in movimento. 
+ 
+
+ 5.7.3.3. Quando la cabina appoggia sugli ammortizzatori totalmente compressi, devono essere soddisfatte simultaneamente le seguenti condizioni: 
+ 
+
+ a) deve esistere nella fossa uno spazio che permetta di sistemare almeno un parallelepipedo rettangolo di 0,5 m x 0,6 m x 1 m appoggiato su una delle sue facce; 
+ 
+
+ b) la distanza libera tra il fondo della fossa e: 
+ 
+
+ 1) le parti più basse della cabina, ad eccezione di quelle prese in considerazione al 2) qui sotto, non deve essere minore di 0,5 m; 
+ 
+
+ 2) le parti più basse dei pattini o dei rulli di guida, dei blocchi del paracadute, del grembiule o delle parti di porte scorrevoli verticalmente non deve essere minore di 0,1 m. 
+ 
+
+ 5.7.3.4. Deve essere installato nella fossa: 
+ 
+
+ a) un interruttore accessibile, una volta aperta la porta d'accesso alla fossa, che permetta di fermare e di mantenere fermo l'ascensore e tale che non vi sia rischio di errore sulla posizione corrispondente all'arresto (15.7.). 
+ 
+
+ Questo interruttore deve rispondere alle prescrizioni di cui in 14.2.2.3; 
+ 
+
+ b) una presa di corrente (13.6.2.). 
+ 
+
+ 5.8. Destinazione esclusiva del vano di corsa 
+ 
+
+ Il vano di corsa deve essere esclusivamente adibito al servizio dell'ascensore. Non deve contenere nè canalizzazioni nè parti qualsiasi estranee al servizio dell'ascensore (si può ammettere che il vano di corsa contenga materiale che serva al suo riscaldamento, con l'eccezione del riscaldamento ad acqua o a vapore, tuttavia gli organi di comando e di regolazione devono trovarsi all'esterno del vano di corsa). 
+ 
+
+ 5.9. Illuminazione del vano di corsa 
+ 
+
+ Il vano di corsa deve essere munito di illuminazione elettrica installata stabilmente che permetta di assicurare la sua illuminazione durante le operazioni di soccorso o di manutenzione, anche quando tutte le porte sono chiuse. 
+ 
+
+ Questa illuminazione deve comprendere una lampada ad una distanza non maggiore di 0,5 m dal punto più alto e più basso del vano e, successivamente, ad intervalli non maggiori di 7 m. 
+ 
+
+ Se si adotta l'eccezione prevista in 5.2.1 (caso particolare), questa illuminazione può non essere necessaria se l'illuminazione elettrica esistente all'esterno del vano è sufficiente. 
+ 
+
+ Punto 5 - Note 
+ 
+
+ Nota 1 - Valutazione degli sforzi verticali all'atto della presa del paracadute. 
+ 
+
+ Lo sforzo (N) su ogni guida al momento della presa del paracadute può essere approssimativamente valutato secondo le formule seguenti: 
+ 
+
+ a) paracadute a presa istantanea: 
+ 
+
+ 1) non a rulli 
+ 
+
+ 
+ 25 (P + Q) 
+ 
+
+ 
+ 2) a rulli 
+ 
+
+ 
+ 15 (P + Q) 
+ 
+
+ 
+ b) paracadute a presa progressiva 
+ 
+
+ 
+ 10 (P + Q) 
+ 
+
+ dove: P è la somma della massa della cabina e delle masse delle parti dei cavi flessibili e degli eventuali organi di compensazione sostenuti dalla cabina, in kilogrammi; 
+ 
+
+ Q è la portata, in kilogrammi. 
+ 
+
+ Nota 2 - Valutazione delle reazioni sul fondo della fossa durante la presa del paracadute o l'entrata in azione degli ammortizzatori. 
+ 
+
+ Le reazioni (N) possono essere valutate in questo modo: 
+ 
+
+ - sotto ogni guida: 
+ 
+
+ 10 volte la massa della guida (kg) aumentata della reazione (N) all'atto della presa del paracadute (se le guide sono sospese le reazioni nei punti di attacco devono essere valutate per analogia con quanto fatto nel caso di guide appoggiate sul fondo fossa); 
+ 
+
+ - sotto i supporti degli ammortizzatori di cabina: 
+ 
+
+ 40 (P + Q) (immagine); 
+ 
+
+ - sotto i supporti degli ammortizzatori del contrappeso: 
+ 
+
+ 40 volte la massa (kg) del contrappeso. 
+ 
+
+ Nota 3 - Grafico che mostra gli spazi liberi all'estremità superiore del vano di corsa degli ascensori a frizione. La fig. 1 è un grafico che illustra questi spazi. 
+ 
+
+ 3) Il valore di P è diverso nelle note 1 e 2 poichè le parti dei cavi flessibili e degli eventuali organi di compensazione, sostenuti dalla cabina, variano in funzione della posizione della cabina nel vano. 
+ 
+
+ (immagine) 
+ 
+
+ Con linea grossa: spazio libero minimo ammesso quando si consideri il massimo vantaggio possibile consentito da 5.7.1.3. 
+ 
+
+ Zona dei valori che possono risultare dai calcoli fatti secondo 5.7.1.4 nel caso di ascensori con carrucola tenditrice di compensazione provvista di un dispositivo antirimbalzo. 
+ 
+
+ Questo dispositivo è richiesto solo per velocità maggiori di 3,5 m/s ma non è proibito per velocità minori. 
+ 
+
+ I valori sono funzione della concezione del dispositivo antirimbalzo e della corsa dell'ascensore. 
+ 
+
+ Fig. 1 - Grafico dello spazio libero alla estremità superiore del vano di corsa degli ascensori a frizione (5.7.1). 
+ 
+
+ 6. Locali del macchinario e delle pulegge di rinvio 
+ 
+
+ 6.1. Disposizioni generali 
+ 
+
+ 6.1.1. Le macchine, le loro apparecchiature e le pulegge devono essere accessibili solo alle persone autorizzate (manutenzione, ispezione, soccorso). 
+ 
+
+ 6.1.2. Il macchinario e la sua apparecchiatura deve essere installato in locale apposito comprendere pareti, soffitto porta e/o botola di materiale resistente. 
+ 
+
+ 6.1.2.1. Deroghe alle precedenti norme 
+ 
+
+ 6.1.2.1.1. Le pulegge di rinvio possono essere installate nella testata del vano di corsa a condizione che siano fuori della proiezione del tetto della cabina e che le verifiche, le prove e le operazioni di manutenzione possano farsi in tutta sicurezza dal tetto della cabina o dall'esterno del vano di corsa. 
+ 
+
+ Tuttavia una puleggia di deviazione, a semplice o a doppio avvolgimento, può essere installata al di sopra del tetto della cabina per la deviazione del tratto di fune lato contrappeso, a condizione che il suo albero possa essere raggiunto in tutta sicurezza dal tetto della cabina stessa. 
+ 
+
+ 6.1.2.1.2. La puleggia di frizione può essere installata nel vano di corsa a condizione che: 
+ 
+
+ a) le verifiche, le prove e le operazioni di manutenzione possano essere eseguite dal locale del macchinario; 
+ 
+
+ b) le aperture tra il locale del macchinario ed il vano di corsa siano le più piccole possibili. 
+ 
+
+ 6.1.2.1.3. Il limitatore di velocità può essere installato nel vano di corsa a condizione che le verifiche, le prove e le operazioni di manutenzione possano essere eseguite dall'esterno del vano di corsa.
+ 
+
+ 6.1.2.1.4. Le pulegge di deviazione e di rinvio e le pulegge di frizione poste nel vano devono essere munite di dispositivi per evitare: 
+ 
+
+ a) gli infortuni; 
+ 
+
+ b) lo scarrucolamento delle funi in caso di allentamento; 
+ 
+
+ c) l'introduzione di corpi estranei tra le funi e le gole. 
+ 
+
+ 6.1.2.1.5. Le protezioni devono essere realizzate in modo da consentire le verifiche, le prove e le operazioni di manutenzione. 
+ 
+
+ Lo smontaggio non deve essere necessario che nei seguenti casi: 
+ 
+
+ a) sostituzione delle funi; 
+ 
+
+ b) sostituzione della puleggia; 
+ 
+
+ c) ritornitura delle gole. 
+ 
+
+ 6.1.2.2. Le macchine, le loro apparecchiature e le pulegge possono trovarsi in locali adibiti ad altro uso (accesso eccezionale, per esempio alle terrazze) quando sono separati dal resto del locale da un divisorio alto almeno 1.8 e munito di una porta chiusa a chiave, purchè sia consentito dalle norme vigenti per la protezione antincendio e purchè nella parte del locale adibita ad altro uso non siano disposti impianti ed apparecchiature che producano polvere, umidità o gas nocivi all'impianto. 
+ 
+
+ 6.1.2.3. I locali del macchinario o delle pulegge di rinvio, come pure gli spazi chiusi menzionati in 6.1.2.2., non devono essere adibiti ad altri usi che non siano quelli degli ascensori. 
+ 
+
+ Essi non devono contenere nè canalizzazioni, nè organi di qualsiasi genere estranei al servizio degli ascensori. 
+ 
+
+ è ammesso che detti locali contengano: 
+ 
+
+ a) macchinari di montacarichi o scale mobili; 
+ 
+
+ b) apparecchiature per il condizionamento o per il riscaldamento dei locali stessi, con l'esclusione del riscaldamento a vapore; 
+ 
+
+ c) rivelatori o apparecchi fissi per l'estinzione di incendio, a temperatura nominale elevata di funzionamento, appropriati al materiale elettrico, stabili nel tempo e convenientemente protetti contro urti accidentali. 
+ 
+
+ 6.1.2.4. I locali del macchinario devono, di preferenza, trovarsi al disopra del vano di corsa. 
+ 
+
+ 6.2. Accessi 
+ 
+
+ 6.2.1. Gli accessi dall'esterno all'interno dei locali delle macchine e delle pulegge devono: 
+ 
+
+ a) poter essere correttamente illuminati da uno o più dispositivi elettrici installati stabilmente; 
+ 
+
+ b) essere facilmente utilizzabili con tutta sicurezza, in ogni circostanza, e senza richiedere il passaggio attraverso luoghi privati. 
+ 
+
+ Le vie di accesso ai locali delle macchine e gli accessi stessi devono avere altezza minima di 1,8 m (le soglie e i rialzi delle porte la cui altezza non superi 0,4 m non sono presi in considerazione). 
+ 
+
+ 6.2.2. L'accesso delle persone al locale del macchinario e delle pulegge di rinvio deve, di preferenza, effettuarsi interamente a mezzo di scale normali. 
+ 
+
+ Nel caso in cui l'installazione di una scala normale sia difficile, possono essere utilizzate delle scale asportabili rispondenti alle condizioni seguenti: 
+ 
+
+ a) non devono potersi rovesciare o scivolare; 
+ 
+
+ b) devono, in posizione di uso, formare un angolo compreso tra 70o e 76o rispetto all'orizzonte, a meno che siano fisse e che la loro altezza sia minore di 1,5 m; 
+ 
+
+ c) devono essere riservate a questo solo uso e trovarsi sempre a disposizione nelle vicinanze del piano di accesso; disposizioni necessarie devono essere prese per questo scopo; 
+ 
+
+ d) all'estremità superiore della scala devono essere disposti uno o più appigli a portata di mano; 
+ 
+
+ e) quando le scale non sono fisse, bisogna disporre di punti fissi di attacco. 
+ 
+
+ 6.2.3. Devono essere previste possibilità di accesso in modo che il trasporto ed il sollevamento del materiale pesante durante il montaggio e, se occorre, durante la sua sostituzione possano avvenire nelle migliori condizioni di sicurezza e, in particolare, senza utilizzazione della scala. 
+ 
+
+ 6.3. Costruzione e caratteristiche dei locali del macchinario 
+ 
+
+ 6.3.1. Resistenza meccanica, natura delle solette, isolamento 
+ 
+
+ acustico 
+ 
+
+ 6.3.1.1. I locali devono essere costruiti in modo tale da poter sopportare i carichi e gli sforzi ai quali possono essere normalmente sottoposti. 
+ 
+
+ Essi devono essere costruiti con materiali durevoli che non favoriscano la formazione di polvere. 
+ 
+
+ 6.3.1.2. Il pavimento dei locali non deve essere sdrucciolevole. 
+ 
+
+ 6.3.1.3. Quando la destinazione degli edifici lo esiga (locali d'abitazione, alberghi, ospedali, scuole, biblioteche, ecc.), le pareti, le solette ed i soffitti dei locali del macchinario devono assorbire notevolmente i rumori dovuti al funzionamento degli ascensori. 
+ 
+
+ 6.3.2. Dimensioni 
+ 
+
+ 6.3.2.1. Le dimensioni del locale del macchinario devono essere sufficienti per consentire al manutentore di accedere con sicurezza e facilmente a tutte le parti delle apparcchiature ed in particolare al quadro elettrico. 
+ 
+
+ In particolare, occorre disporre di: 
+ 
+
+ a) una superficie libera orizzontale davanti a quadri elettrici ed armadi. Questa superficie è definita come segue: 
+ 
+
+ - profondità misurata a partire dalla superficie esterna dei rivestimenti di almeno 0,7 m. Questa distanza può essere ridotta a 0,6 m in corrispondenza degli organi di comando (impugnature, ecc.) sporgenti; 
+ 
+
+ - larghezza, la maggiore delle due dimensioni seguenti: 
+ 
+
+ 0,50 m 
+ 
+
+ larghezza totale dell'armadio o del quadro elettrico; 
+ 
+
+ b) una superficie libera orizzontale minima di 0,5 m x 0,6 m per la manutenzione, la verifica delle parti in movimento dove necessario e, quando occorre, per la manovra a mano dell'argano (12.5.1.); 
+ 
+
+ c) accessi a questi spazi liberi con larghezza minima di 0,5 m. 
+ 
+
+ Questo valore può essere ridotto a 0,4 m se non esistono parti in movimento in questa zona. 
+ 
+
+ 6.3.2.2. L'altezza libera dei passaggi deve essere non minore di 1,8 m e l'altezza libera del posto di lavoro deve essere non minore di 2 m. 
+ 
+
+ Per altezza libera dei passaggi o del posto di lavoro si deve intendere l'altezza sotto il bordo inferiore della trave misurata: 
+ 
+
+ a) dal piano di calpestio; 
+ 
+
+ b) dal piano di calpestio del posto dove bisogna sostare per effettuare il lavoro. 
+ 
+
+ 6.3.2.3. Al disopra delle parti rotanti della macchina deve esistere uno spazio libero di altezza non minore di 0,3 m. 
+ 
+
+ 6.3.2.4. Quando il locale del macchinario si sviluppa su più livelli la cui altezza è maggiore di 0,5 m, bisogna prevedere dei gradini o scale e dei parapetti. 
+ 
+
+ 6.3.2.5. Quando il pavimento del locale del macchinario comporta degli incavi o canaletti la cui profondità supera 0,5 m e la cui larghezza è minore di 0,5 m questi devono essere ricoperti. 
+ 
+
+ 6.3.3. Porte e botole 
+ 
+
+ 6.3.3.1. Le porte di accesso devono avere larghezza non minore di o,6 m ed altezza non minore di 1,8 m. Esse non devono aprirsi verso l'interno del locale. 
+ 
+
+ 6.3.3.2. Il passaggio libero delle botole di accesso non deve essere minore di 0,8 m x 0,8 m e le botole stesse devono essere contrappesate. 
+ 
+
+ Quando sono chiuse, le botole devono essere in grado di sopportare in qualsiasi punto due persone e cioè 2.000 N senza deformazione permanente. 
+ 
+
+ Le botole non devono aprirsi verso il basso, a meno che siano associate a scale retrattili. I cardini delle botole, se esistono, devono essere non sfilabili. 
+ 
+
+ Quando una botola è aperta si devono prendere precauzione per evitare la caduta di persone (per esempio parapetto) e di oggetti. 
+ 
+
+ 6.3.3.3. Le porte e le botole devono essere munite di dispositivi di blocco a chiave che consentano l'apertura senza chiave dall'interno del locale. 
+ 
+
+ è ammesso che le botole che servono solo per il passaggio del materiale siano bloccate solo dall'interno. 
+ 
+
+ 6.3.4. Altre aperture 
+ 
+
+ Le dimensioni delle aperture nei basamenti e nel pavimento del locale devono essere ridotte al minimo. Per evitare il pericolo della caduta di oggetti, si dovranno applicare, per le aperture situate al disopra del vano di corsa e per le canalizzazioni elettriche, dei manicotti di protezione sporgenti dai basamenti o dal pavimento per non meno di 50 mm. 
+ 
+
+ 6.3.5. Ventilazione e temperatura 
+ 
+
+ 6.3.5.1. I locali devono essere ventilati. 
+ 
+
+ Devono essere ralizzati in modo che i motori, l'apparecchiatura e l'impianto elettrico siano il più possibile riparati da polvere, vapori nocivi ed umidità. 
+ 
+
+ L'aria proveniente da locali estranei agli ascensori non deve essere convogliata nei locali del macchinario. 
+ 
+
+ 6.3.5.2. La temperatura ambiente nei locali del macchinario deve essere mantenuta fra 5 e 40 oC. 
+ 
+
+ 6.3.6. Illuminazione e prese di corrente 
+ 
+
+ L'illuminazione elettrica dei locali del macchinario deve essere con installazione fissa assicurata sulla base minima di 200 lux al livello del pavimento. L'alimentazione di tale illuminazione deve essere conforme a 13.6.1. 
+ 
+
+ Un interruttore situato all'interno, in prossimità del o degli accessi e ad un altezza appopriata, deve permettere, dall'ingresso, l'illuminazione del locale. 
+ 
+
+ Devono essere previste una o più prese di corrente. (13.6.2) 
+ 
+
+ 6.3.7. Trasporto del materiale 
+ 
+
+ Uno o più sopporti metallici o ganci, secondo il caso, devono essere previsti sul soffitto o sulle travi del locale e convenientemente disposti per permettere il trasporto ed il sollevamento del materiale 
+ 
+
+ pesante sia durante il montaggio, sia nel caso di sua sostituzione 
+ 
+
+ 6.4. Costruzione e caratteristiche dei locali delle pulegge di rinvio 
+ 
+
+ 6.4.1. Resistenza meccanica e caratteristiche delle solette 
+ 
+
+ 6.4.1.1. I locali devono essere costruiti in modo tale da sopportare i carichi e gli sorzi ai quali possono essere normalmente sottoposti. 
+ 
+
+ Essi devono essere costruiti con materiali durevoli che non favoriscano la formazione di polvere. 
+ 
+
+ 6.4.1.2. Il pavimento dei locali delle pulegge di rinvio non deve essere sdrucciolevole. 
+ 
+
+ 6.4.2. Dimensioni 
+ 
+
+ 6.4.2.1. Le dimensioni del locale devono essere sufficienti per consentire al manutentore di accedere, con sicurezza e facilmente, a tutti gli organi. 
+ 
+
+ Sono applicabili le prescrizioni di cui in 6.3.2.1. b) e c). 
+ 
+
+ 6.4.2.2. L'altezza libera non deve essere minore di 1,7m. 
+ 
+
+ 6.4.2.2.1. Deve esistere uno spazio libero di altezza non minore di 0,3 m al disopra delle pulegge; tale spazio minimo non è prescritto per le pulegge a doppio avvolgimento e di deviazione. 
+ 
+
+ 6.4.2.2.2. Se nel locale delle pulegge esistono quadri di manovra, si devono applicare le prescrizioni di cui in 6.3.2.1. e 6.3.2.2. 
+ 
+
+ 6.4.3. Porte e botole 
+ 
+
+ 6.4.3.1. Le porte di accesso devono avere una larghezza minima di 0,6 m ed un'altezza minima di 1,6 m. 
+ 
+
+ Esse non devono aprirsi verso l'interno del locale. 
+ 
+
+ 6.4.3.2. Le botole di accesso per le persone devono avere una superficie libera di passaggio non minore di 0,6 m x 0,8 m e devono essere contrappesate. 
+ 
+
+ Tutte le botole, quando sono chiuse, devono essere in grado di sopportare in qualsiasi punto due persone e cioè 2.000 N senza deformazioni permanenti. 
+ 
+
+ Le botole non devono aprirsi verso il basso, a meno che siano associate a scale retrattili. 
+ 
+
+ I cardini delle botole, se esistono, devono essere non sfilabili. 
+ 
+
+ Quando una botola è aperta, si devono prendere precauzioni per evitare la caduta di persone (per esempio parapetto) e di oggetti. 
+ 
+
+ 6.4.3.3. Le porte e le botole devono essere munite di dispositivi di blocco a chiave che consentano l'apertura senza chiave dall'interno del locale delle pulegge di rinvio. 
+ 
+
+ 6.4.4. Altre aperture 
+ 
+
+ Le dimensioni delle aperture nei basamenti e nel pavimento del locale delle pulegge di rinvio devono essere ridotte al minimo. 
+ 
+
+ Per evitare il pericolo della caduta di oggetti si dovranno applicare, per le aperture situate al disopra del vano di corsa e per le canalizzazioni elettriche, dei manicotti di protezione sporgenti dai basamenti o dal pavimento non meno di 50 mm. 
+ 
+
+ 6.4.5. Interruttore per fermare il movimento della cabina 
+ 
+
+ Deve essere installato nel locale delle pulegge di rinvio in prossimità dell'ingresso un interruttore che permetta di fermare e mantenere fermo l'ascensore; l'interruttore deve essere costruito in modo tale che non ci sia rischio di sbagliare sulla posizione corrispondente all'arresto (vedere 15.4.4.). 
+ 
+
+ Questo interruttore deve rispondere alle prescrizioni di cui in 14.2.2.3. 
+ 
+
+ 6.4.6. Temperatura 
+ 
+
+ Se c'è rischio di gelo o di condensa nei locali delle pulegge di rinvio, bisogna usare delle precauzioni per proteggere il materiale (per esempio riscaldamento dell'olio dei sopporti). 
+ 
+
+ Se i locali delle pulegge contengono degli apparecchi elettrici, la temperatura ambiente deve essere mantenuta fra 5 e 40 oC. 
+ 
+
+ 6.4.7. Illuminazione e prese di corrente 
+ 
+
+ Il locale delle pulegge di rinvio deve essere munito di un impianto fisso di illuminazione elettrica, che deve essere di intensità adeguata. L'alimentazione di questa illuminazione deve essere conforme a 13.6.1. 
+ 
+
+ Un'interruttore, situato all'interno, in prossimità dell'ingresso, deve permettere dall'accesso l'illuminazione del locale. 
+ 
+
+ Devono essere previste una o più prese di corrente (13.6.2.). 
+ 
+
+ 7. Porte di piano 
+ 
+
+ 7.1. Disposizioni generali 
+ 
+
+ 7.1.1. Le aperture del vano che consentono l'accesso alla cabina devono essere munite di porte di piano cieche. In posizione di porta chiusa, i giuochi tra le ante e montanti, architrave o soglia devono essere i più piccoli possibili. 
+ 
+
+ Questa condizione è considerata soddisfatta quando i giuochi non superano 6 mm. La seconda frase del punto 0.1.2.2. non si applica tuttavia a questo valore. 
+ 
+
+ Questi giuochi si misurano sul fondo delle cavità se esistono. Per evitare il rischio di cesoiamento durante il funzionamento, la superficie esterna, delle porte scorrevoli a funzionamento automatico, non deve avere sporgenze o rientranze maggiori di 3 mm. 
+ 
+
+ Gli spigoli di queste devono essere smussati nei due sensi del movimento. 
+ 
+
+ Fa eccezione a questa prescrizione il foro per la chiave triangolare di sblocco di cui all'appendice B. 
+ 
+
+ 7.1.2. Per l'esecuzione delle superficie delle porte di piano verso il vano di corsa, vedere 5.4. 
+ 
+
+ 7.2. Resistenza delle porte e dei loro telai 
+ 
+
+ 7.2.1. Le porte ed i loro telai devono essere costruiti in modo che la loro indeformabilità sia assicurata nel tempo. Per questo si consiglia di usare porte metalliche. 
+ 
+
+ L'uso di vetro, anche retinato, o di materia plastica, come parte di un pannello di porta è permesso solo per le spie previste in 7.6.2.2. 
+ 
+
+ 7.2.2. Comportamento al fuoco 
+ 
+
+ Le porte di piano devono essere conformi alle norme vigenti per la protezione contro gli incendi. 
+ 
+
+ 7.2.3. Resistenza meccanica 
+ 
+
+ Le porte con i loro dispositivi di blocco devono possedere una resistenza meccanica tale che, chiuse e bloccate, al momento dell'applicazione di una forza di 300 N, perpendicolare all'anta, applicata in un qualunque punto dell'una o dell'altra faccia, uniformemente distribuita su una superficie di 5 cm2 di forma rotonda o quadrata, esse: 
+ 
+
+ a) resistano senza deformazione permanente; 
+ 
+
+ b) resistano senza deformazione elastica maggiore di 15 mm; 
+ 
+
+ c) assicurino in seguito la loro funzionalità. 
+ 
+
+ 7.2.3.1. 
+ 
+
+ 7.2.3.2. sotto l'applicazione, nel punto più sfavorevole manuale (senza ttrezzi) di 150 n nel senso di apertura delle porte scorrevoli orizzontalmente, i giuochi definiti in 7.1. possono essere maggiori di 6 mm, ma non devono superare 30 mm. 
+ 
+
+ 7.3. Altezza e larghezza delle porte 
+ 
+
+ 7.3.1. Altezza 
+ 
+
+ Le porte di piano devono avere altezza libera non minore di 2 m. 
+ 
+
+ 7.3.2. Larghezza 
+ 
+
+ La larghezza del passaggio libero delle porte di piano non deve superare per più di 0,05 m, su ciascun lato, la larghezza dell'accesso della cabina, a meno che non siano state prese idonee misure. 
+ 
+
+ 7.4. Soglie, guide e sospensione delle porte 
+ 
+
+ 7.4.1. Soglie 
+ 
+
+ Ogni accesso di piano deve avere una soglia con resistenza sufficiente a sopportare il passaggio dei carichi che possono essere introdotti nella cabina. 
+ 
+
+ Si raccomanda di realizzare una leggera contropendenza davanti a ciascuna soglia di piano per evitare all'acqua di infiltrarsi nel vano (acqua per lavare, per annaffiare, ecc). 
+ 
+
+ 7.4.2. Guide 
+ 
+
+ 7.4.2.1. Le porte di piano devono essere costruite in modo da evitare, durante il loro funzionamento normale, inceppamenti e la fuoriuscita degli organi di guida, sia lateralmente sia alle estremità della corsa. 
+ 
+
+ 7.4.2.2. Le porte di piano scorrevoli orizzontalmente devono essere guidate nelle loro parti superiore ed inferiore. 
+ 
+
+ 7.4.2.3. Le porte di piano scorrevoli verticalmente devono essere guidate ai due lati. 
+ 
+
+ 7.4.3. Sospensione delle porte scorrevoli verticalmente 
+ 
+
+ 7.4.3.1. I pannelli delle porte di piano scorrevoli verticalmente devono essere collegati a due organi di sospensione indipendenti. 
+ 
+
+ 7.4.3.2. Gli organi di sospensione devono essere calcolati con un coefficiente di sicurezza non minore di 8. 
+ 
+
+ 7.4.3.3. Il diametro delle pulegge delle funi di sospensione deve essere non minore di 25 volte il diametro delle funi. 
+ 
+
+ 7.4.3.4. Le funi e le catene di sospensione devono essere protette contro lo scarrucolamento o l'uscita dai pignoni. 
+ 
+
+ 7.5. Protezione durante il funzionamento delle porte 
+ 
+
+ 7.5.1. Le porte nel loro complesso devono essere concepite in modo che siano ridotte al minimo le conseguenze di danni dovuti alla presa di una parte del corpo, di un vestito o di un oggetto. 
+ 
+
+ 7.5.2. Porte motorizzate 
+ 
+
+ Le porte motorizzate devono essere progettate per ridurre al minimo le conseguenze dannose dell'urto dell'anta contro una persona. 
+ 
+
+ Per questo devono essere rispettate le seguenti norme. 
+ 
+
+ 7.5.2.1. Porte scorrevoli orizzontalmente 
+ 
+
+ 7.5.2.1.1. Porte automatiche 
+ 
+
+ 7.5.2.1.1.1. La spinta necessaria per impedire la chiusura della porta non deve superare 150 N. 
+ 
+
+ Il valore della spinta non deve essere rilevato nel primo terzo della corsa della porta. 
+ 
+
+ 7.5.2.1.1.2. L'energia cinetica della porta di piano e degli elementi meccanici che le sono rigidamente connessi, calcolata o misurata4) alla velocità media di chiusura 5), non deve essere maggiore di 10 J. 
+ 
+
+ 7.5.2.1.1.3. Un dispositivo sensibile di protezione deve comandare automaticamente la riapertura della porta nel caso in cui una persona sia urtata (o sul punto di esserlo) dalla porta mentre attraversa l'accesso durante il movimento di chiusura. 
+ 
+
+ a) Questo dispositivo di protezione può essere lo stesso della porta della cabina (8.7.2.1.1.3). 
+ 
+
+ b) L'effetto del dispositivo può essere neutralizzato negli ultimi 50 mm di corsa di ciascuna anta della porta. 
+ 
+
+ c) Nel caso esista un sistema che esclude il dispositivo sensibile di protezione dopo un periodo di tempo stabilito, per impedire le ostruzioni prolungate degli utenti durante la chiusura della porta, l'energia cinetica sopra definita non deve essere maggiore di 4 J durante il movimento della porta con il dispositivo di protezione escluso. 
+ 
+
+ 7.5.2.1.2. Porte la cui chiusura si effettua sotto il controllo continuo degli utenti (per esempio una pressione continua di un bottone) 
+ 
+
+ Quando l'energia cinetica misurata o calcolata come in 7.5.2.1.1.2 supera 10 J, la velocità media di chiusura dell'anta più veloce deve essere limitata a 0,3 m/s. 
+ 
+
+ 7.5.2.2. Porte scorrevoli verticalmente 
+ 
+
+ Questo tipo di porte è ammesso soltanto per gli ascensori per merci e per i montautomobili. 
+ 
+
+ La chiusura motorizzata di queste porte è ammessa solo se tutte le condizioni seguenti sono rispettate: 
+ 
+
+ a) la chiusura si effettua sotto il controllo permanente degli utenti; 
+ 
+
+ b) la velocità media di chiusura dei pannelli è limitata a 0,3 m/s; 
+ 
+
+ c) la porta della cabina è di rete o traforati metallici come previsto nel caso particolare 8.6.1.; 
+ 
+
+ d) la porta della cabina è chiusa almeno per 2/3 prima che la porta di piano cominci a chiudersi. 
+ 
+
+ 7.5.2.3. Altri tipi di porte 
+ 
+
+ Per l'utilizzazione di altri tipi di porte ad azionamento automatico diversi da quelli descritti (per esempio a battente), che possono durante l'apertura o chiusura urtare le persone, si devono adottare precauzioni analoghe a quelle descritte per le porte scorrevoli a azionamento automatico. 
+ 
+
+ 4) Misurata, per esempio, con l'aiuto di un dispositivo costituito da un pistone graduato che agisce su una molla con costante di carico di 25 N/mm e munito di un anello scorrevole che consenta di misurare il punto estremo di schiaccaimento al momento dell'urto. Un calcolo agevole consentirà di determinare la graduazione corrispondente ai limiti fissati. 
+ 
+
+ 5) La velocità media di chiusura di una porta scorrevole è calcolata in funzione della corsa totale diminuita di: 
+ 
+
+ - 25 mm ad ogni estremità della corsa nel caso di porte a due ante a chiusura centrale. 
+ 
+
+ - 50 mm ad ogni estremità della corsa nel caso di porte a chiusura laterale. 
+ 
+
+ 7.6. Illuminazione degli accessi e segnalazione di stazionamento 
+ 
+
+ 7.6.1. L'illuminamento naturale o artificiale, a livello del pavimento in prossimità della porta di piano, deve essere non minore di 50 lux in modo che un utente possa vedere che cosa gli si presenta quando apre la porta di piano per entrare in cabina, anche in caso di mancanza di illuminazione di questa. 
+ 
+
+ 7.6.2. Controllo della presenza della cabina 
+ 
+
+ 7.6.2.1. Nel caso di porte di piano ad apertura manuale l'utente deve poter sapere, prima di aprire la porta, se la cabina si trova o no davanti all'accesso. 
+ 
+
+ 7.6.2.2. Per questo deve essere installato: 
+ 
+
+ a) 1 o pù spie trasparenti rispondenti alle condizioni seguenti: 
+ 
+
+ 1) resistenza meccanica come prevista in 7.2.3.; 
+ 
+
+ 2) spessore minimo di 6 mm; 
+ 
+
+ 3) superficie minima trasparente di 0,015 m2 per porta di piano, con un minimo di 0,01m elevato a due per spia; 
+ 
+
+ 4) larghezza della spia: minimo 60 mm, massimo 150 mm. La parte inferiore della spia la cui larghezza supera 80 mm deve essere almeno a 1 m dal pavimento; 
+ 
+
+ oppure: 
+ 
+
+ b) segnale luminoso di presente che si accenda solo quando la cabina sta per fermarsi o è ferma al piano considerato. 
+ 
+
+ Questo segnale deve rimanere acceso per tutto il tempo di stazionamento della cabina. 
+ 
+
+ 7.7. Blocco e controllo della chiusura delle porte di piano 
+ 
+
+ 7.7.1. Protezione contro i rischi di caduta 
+ 
+
+ Non deve essere possibile, durante il normale funzionamento, aprire una porta di piano (o una delle ante quando la porta è costituita da più ante) a meno che la cabina non sia ferma o non stia fermandosi entro la zona di sbloccaggio della porta. 
+ 
+
+ La zona di sbloccaggio della porta non deve essere maggiore di 0,2 m sotto e sopra il livello del piano. 
+ 
+
+ Tuttavia, nel caso di porta di piano e di porta della cabina accoppiate ed ad azionamento automatico, la zona di sbloccaggio può essere al massimo 0,35 m sotto e sopra il livelo del piano. 
+ 
+
+ 7.7.2. Protezione contro il cesolamento 
+ 
+
+ 7.7.2.1. Non deve essere possibile in servizio normale fare funzionare l'ascensore o mantenerlo in funzione se una porta di piano (oppure una qualsiasi delle sue ante, in caso di porta a più ante) è aperta. Comunque sono ammesse le operazioni preliminari al movimento della cabina. 
+ 
+
+ 7.7.2.2. Casi particolari 
+ 
+
+ Il movimento della cabina con la porta di piano aperta è permesso nelle zone seguenti: 
+ 
+
+ a) nella zona di sbloccaggio per permettere il livellamento o l'autolivellamento al piano corrispondente nel rispetto delle prescrizioni di cui in 14.2.1.2; 
+ 
+
+ b) in una zona massima di 1,65 m al disopra del livello del piano servito per permettere il carico e lo scarico della cabina da parte di utenti autorizzati ed esperti (introduzione generale 0.6.2.) a condizione di rispettare le prescrizioni di cui in 8.4.3. 8.14 e 14.2.1.5. 
+ 
+
+ Inoltre: 
+ 
+
+ 1) l'altezza del passaggio libero tra la traversa superiore della porta di piano ed il pavimento della cabina non deve essere minore di 2 m; 
+ 
+
+ 2) qualunque sia la posizione della cabina all'interno della zona considerata, deve essere possibile senza manovre speciali assicurare la chiusura della porta di piano. 
+ 
+
+ 7.7.3. Bloccaggio e sbloccaggio di emergenza 
+ 
+
+ Ogni porta di piano deve essere munita di un dispositivo di blocco che permetta di soddisfare le prescrizioni indicate in 7.7.1. 
+ 
+
+ Questo dispositivo deve essere protetto contro le manomissioni. 
+ 
+
+ 7.7.3.1. Il bloccaggio della porta di piano, nella sua posizione di chiusura, deve precedere il movimento della cabina. Tuttavia si possono effettuare operazioni preliminari che preparano il movimento della cabina. 
+ 
+
+ Questo bloccaggio deve essere controllato da un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 7.7.3.1.1. La partenza della cabina deve essere possibile solo quando gli elementi che determinano il bloccaggio sono impegnati tra di loro per almeno 7 mm (punto 1 dell'appendice F). 
+ 
+
+ 7.7.3.1.2. Il collegamento tra l'elemento di contatto che determina l'apertura del circuito e l'organo meccanico che assicura il bloccaggio deve essere diretto, e non starabile, anche se eventualmente regolabile. 
+ 
+
+ 7.7.3.1.3. Il bloccaggio delle porte a battente deve avvenire il più vicino possibile al o ai bordi di chiusura verticali delle porte ad essere mantenuto in modo sicuro, anche in caso di cedimento dei battenti. 
+ 
+
+ 7.7.3.1.4. Gli organi di blocco ed il loro fissaggio devono essere resistenti agli urti ed essere metallici o rinforzati con metallo. 
+ 
+
+ 7.7.3.1.5. L'impegno degli organi di blocco deve essere realizzato in modo che uno sforzo nel senso di apertura della porta non diminuisca l'efficacia del bloccaggio. 
+ 
+
+ 7.7.3.1.6. Il dispositivo di blocco deve resistere, senza deformazioni permanenti, durante la prova prevista nel punto 1 dell'appendice F, a una forza minima applicata in corrispondenza di tale dispositivo, e nel senso di apertura della porta di: 
+ 
+
+ a) 1 000 N nel caso di porte scorrevoli; 
+ 
+
+ b) 3 000 N sul catenaccio nel caso di porte a battenti. 
+ 
+
+ 7.7.3.1.7. Il bloccaggio deve essere determinato e mantenuto per azione di gravità, di magneti permanenti o di molle. Le molle devono agire per compressione, essere guidate ad essere di dimensioni tali che al momento dello sbloccaggio le spire non siano a contatto. 
+ 
+
+ Nel caso in cui un magnete permanente (o una molla) non risponda più alla sua funzione, non ci deve essere sbloccaggio sotto l'azione di gravità. 
+ 
+
+ Quando l'elemento che determina il bloccaggio è mantenuto in posizione dell'azione di un magnete permanente, non deve essere 
+ 
+
+ possibile diminuire 
+ 
+
+ l'efficacia di qusto magnete con mezzi semplici (per esempio urti o calore). 
+ 
+
+ 7.7.3.1.8. Il dispositivo che determina il bloccaggio deve essere protetto contro il rischio di un accumulo di polvere che potrebbe nuocere al suo buon funzionamento. 
+ 
+
+ 7.7.3.1.9. L'ispezione alle parti degli organi che determinano il bloccaggio deve essere facile, se necessario con l'ausilio di un coperchio trasparente. 
+ 
+
+ 7.7.3.1.10. Nel caso in cui i contatti di bloccaggio siano montati in scatole, le viti dei coperchi devono essere del tipo imperdibile, in modo che restino nei fori della scatola o del coperchio dopo l'apertura del coperchio stesso. 
+ 
+
+ 7.7.3.2. Apertura di emergenza 
+ 
+
+ Tutte le porte di piano devono poter essere aperte dall'esterno mediante una chiave che si adatti al triangolo definito nell'appendice B. Una chiave di questo tipo dovrà essere data ad un responsabile unitamente ad una istruzione scritta che precisi le precauzioni da adottare per evitare incidenti che potrebbero risultare allo sbloccaggio del dispositivo di blocco non seguito dal bloccaggio. 
+ 
+
+ Dopo l'apertura di emergenza il dispositivo di blocco non deve restare in posizione sbloccata quando la porta di piano è chiusa, in mancanza di un'azione di sbloccaggio. 
+ 
+
+ Nel caso di porte di piano e di cabina accoppiate, un dispositivo (molla o peso) deve assicurare la chiusura automatica della porta di piano se, per una qualsiasi ragione, la porta si trova aperta quando la cabina ha lasciato la zona di sbloccaggio. 
+ 
+
+ 7.7.4. Dispositivi elettrici di controllo della chiusura delle porte di piano 
+ 
+
+ 7.7.4.1. Tutte le porte di piano devono essere munite di un dispositivo elettrico di controllo della chiusura della porta di piano conforme al 14.1.2., che soddisfi le prescrizioni indicate in 7.7.2. 
+ 
+
+ 7.7.4.2. Nel caso di porte di piano scorrevoli orizzontalmente ed accopiate a quella della cabina, il dispositivo può essere comune al dispositivo di controllo del bloccaggio, a condizione che la sua azione dipenda dalla effettiva chiusura dell'anta. 
+ 
+
+ 7.7.4.3. Nel caso di porte di piano a battente, questo dispositivo deve essere sistemato dal lato della chiusura o sul dispositivo meccanico che controlla la chiusura della porta. 
+ 
+
+ 7.7.5. Disposizioni comuni ai dispositivi di controllo del bloccaggio 
+ 
+
+ e della chiusura della porta 
+ 
+
+ 7.7.5.1. Non deve essere possibile, nei luoghi, normalmente accessibili alle persone, far funzionare l'ascensore con la porta aperta o non bloccata, a seguito di una manovra unica non facente parte del funzionamento normale. 
+ 
+
+ 7.7.5.2. I mezzi usati per controllare la posizione dell'elemento di blocco devono essere di sicuro funzionamento. 
+ 
+
+ 7.7.6. Porte scorrevoli orizzontalmente o verticalmente a più ante tra di loro collegate meccanicamente 
+ 
+
+ 7.7.6.1. Quando una porta scorrevole orizzontalmente o verticalmente è costituita da più ante collegate tra di loro direttamente da un organo meccanico è ammesso di: 
+ 
+
+ a) bloccare una sola anta a condizione che questo unico bloccaggio impedisca l'apertura delle altre ante; 
+ 
+
+ aab) sistemare il dispositivo di controllo della chiusura previsto in 7.7.4.1. o in 7.7.4.2. su una sola anta. 
+ 
+
+ 7.7.6.2. Quando le ante sono collegate tra di loro da un organo meccanografico indiretto (per esempio: funi, catene o cinghie), questo collegamento deve essere progettato per resistere agli sforzi normalmente prevedibili e realizzato con cura particolare e verificato periodicamente. 
+ 
+
+ è ammesso bloccare una sola anta a condizione che questo bloccaggio impedisca l'apertura delle altre ante e che questae non siano munite di maniglie. 
+ 
+
+ La posizione di chiusara della o delle ante non bloccate dal dispositivo di blocco deve essere controllata da un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 7.8. Chiusura delle porte a manovra automatica 
+ 
+
+ In servizio normale le porte di piano a manovra automatica devono essere chiuse dopo un certo tempo, definito eventualmente in funzione del traffico dell'ascensore, in caso di mancanza di chiamata della cabina. 
+ 
+
+ 8. Cabina e contrappeso 
+ 
+
+ 8.1. Altezza dell cabina 
+ 
+
+ 8.1.1. L'altezza libera interna della cabina non deve essere minore di 2 m. 
+ 
+
+ 8.1.2. L'altezza dell'accesso (o degli accessi) del cabina necessaria all'ingresso normale delle persone non deve essere minore di 2 m. 
+ 
+
+ 8.2. Superficie utile della cabina, portata, capienza (numero delle persone) 
+ 
+
+ 8.2.1. Caso generale 
+ 
+
+ Per evitare un sovraccarico dell cabina da parte di persone, la superficie utile della cabina deve essere limitata. 
+ 
+
+ A questo scopo la corrispondenza tra portata e superficie utile massima della cabina è determinata dal prospetto I. 
+ 
+
+ Nota - Le rientranze e le estensioni, anche se di altezza 
+ 
+
+ minore di 1 m, siano chiuse o no da porte di separazione, 
+ 
+
+ sono permesse solo quando la loro superficie è stata 
+ 
+
+ considerata nel calcolo della superficie massima. 
+ 
+
+ 
+ 
+
+ 
+ Prospetto I 
+ 
+
+ 
+ 
+ 
+
+ 
+ ---------------------------------------------------------------
+ 
+
+ 
+ Portata Superficie utile massima
+ 
+
+ 
+ massa della cabina
+ 
+
+ 
+ kg (vedere note)
+ 
+
+ 
+ m elevato a due
+ 
+
+ 
+ ---------------------------------------------------------------
+ 
+
+ 
+ 100* 0,37
+ 
+
+ 
+ 180** 0,58
+ 
+
+ 
+ 225 0,70
+ 
+
+ 
+ 300 0,90
+ 
+
+ 
+ 375 1,10
+ 
+
+ 
+ 400 1,17
+ 
+
+ 
+ 450 1,30
+ 
+
+ 
+ 525 1,45
+ 
+
+ 
+ 600 1,60
+ 
+
+ 
+ 630 1,66
+ 
+
+ 
+ 675 1,75
+ 
+
+ 
+ 750 1,90
+ 
+
+ 
+ 800 2,00
+ 
+
+ 
+ 825 2,05
+ 
+
+ 
+ 900 2,20
+ 
+
+ 
+ 975 2,35
+ 
+
+ 
+ 1000 2,40
+ 
+
+ 
+ 1050 2,50
+ 
+
+ 
+ 1125 2,65
+ 
+
+ 
+ 1200 2,80
+ 
+
+ 
+ 1250 2,90
+ 
+
+ 
+ 1275 2,95
+ 
+
+ 
+ 1350 3,10
+ 
+
+ 
+ 1425 3,25
+ 
+
+ 
+ 1500 3,40
+ 
+
+ 
+ 1600 3,56
+ 
+
+ 
+ 2000 4,20
+ 
+
+ 
+ 2500*** 5,00
+ 
+
+ 
+ ---------------------------------------------------------------
+ 
+
+ 
+ * Minimo per ascensori per 1 persona.
+ 
+
+ 
+ ** Minimo per ascensori per 2 persone.
+ 
+
+ 
+ *** Oltre 2500 kg ogni 100 kg in più, aggiungere 0,16 m
+ 
+
+ 
+ elevato adue Per carichi intermedi la superficie
+ 
+
+ 
+ è determinata per interpretazione lineare.
+ 
+
+ 
+ 
+
+ 8.2.2. Ascensori per merci e montautomobili diversi da quelli trattati in 8.2.3.
+ 
+
+ Le prescrizioni di cui in 8.2.1. devono essere rispettate e si dovrà inoltre prendere in considerazione per il relativo calcolo non solo la portata, ma anche la massa dei mezzi di trasporto che possono eventualmente entrare in cabina.
+ 
+
+ 8.2.3. Montautomobili la cui utilizzazione è riservata agli utenti autorizzati ed esperti (introduzione generale 0.6.2)
+ 
+
+ La portata deve essere calcolata in base ad almeno 200 kg/m2 di superficie utile della cabina.
+ 
+
+ 8.2.4. Capienza
+ 
+
+ Il numero dei passeggeri è il piccolo dei valori ottenuti:
+ 
+
+ - o dalla formula portata arrotondando il risultato al numero
+ 
+
+ ------ intero inferiore
+ 
+
+ 75
+ 
+
+ - o dal prospetto II.
+ 
+
+ 
+ 
+
+ 
+ Prospetto II
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ Capienza Superficie utile Capienza Superficie utile
+ 
+
+ 
+ in minima in minima
+ 
+
+ 
+ persone della cabina persone della cabina
+ 
+
+ 
+ m elevato a due m elevato a due
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 1 0,28 11 1,87
+ 
+
+ 
+ 2 0,49 12 2,01
+ 
+
+ 
+ 3 0,60 13 2,15
+ 
+
+ 
+ 4 0,79 14 2,29
+ 
+
+ 
+ 5 0,98 15 2,43
+ 
+
+ 
+ 6 1,17 16 2,57
+ 
+
+ 
+ 7 1,31 17 2,71
+ 
+
+ 
+ 8 1,45 18 1,85
+ 
+
+ 
+ 9 1,59 19 2,99
+ 
+
+ 
+ 10 1,73 20 3,13
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ Oltre 20 passeggeri aggiungere 0,115 m elevato a due per ogni
+ 
+
+ 
+ passeggero in più.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 8.3. Pareti, pavimento e tetto della cabina 
+ 
+
+ 8.3.1. La cabina deve essere completamente chiusa da pareti, pavimento e soffitto; le sole aperture ammesse sono le seguenti: 
+ 
+
+ a) accesso normale per l'ingresso degli utenti; 
+ 
+
+ b) botole e porte di soccorso; 
+ 
+
+ c) aperture per la ventilazione. 
+ 
+
+ 8.3.2. Le pareti, il pavimento ed il tetto devono avere una resistenza meccanica sufficiente. 
+ 
+
+ L'insieme costituito dall'intelaiatura, dei pattini, delle pareti, dal pavimento e dal tetto della cabina deve avere una resitenza sufficiente per resistere agli sforzi che gli sono applicati durante il funzionamento normale dell'ascensore, durante la presa del paracadute e durante l'urto della cabina sugli ammortizzatori. 
+ 
+
+ 8.3.2.1. Ogni parete deve possedere una resistenza meccanica tale che, durante l'applicazione di una forza di 300 N perpendicolare alla parete, applicata in qualunque punto dall'interno della cabina verso l'esterno, essendo questa forza ripartita uniformemente su una superficie di 5 cm2 di forma rotonda o quadrata, la parete resista: 
+ 
+
+ a) senza deformazione permanente; 
+ 
+
+ b) senza deformazione elastica maggiore di 15 mm. 
+ 
+
+ 8.3.2.2. Il tetto della cabina deve rispondere alle prescrizioni di cui 8.13. 
+ 
+
+ 8.3.3. Le pareti, il pavimento ed il tetto non devono essere costituiti da materiali che possono diventare pericolosi per l'alta infiammabilità o per la natura e la quantità di gas o fumi che potrebbero emanare. 
+ 
+
+ 8.4. Grembiule 
+ 
+
+ 8.4.1. Ogni soglia della cabina deve essere munita di un grembiule che si estenda per tutta la larghezza di accesso delle porte di piano servite. 
+ 
+
+ La parte verticale deve essere prolungata verso il basso e terminare con uno smusso il cui angolo orizzontale deve essere non minore di 20 mm. 
+ 
+
+ 8.4.2. L'altezza della parte verticale non deve essere minore di 0,75 m. 
+ 
+
+ 8.4.3. Nel caso di ascensore con fermata ausiliaria sopra il livello del piano ( 14.2.1.5) l'altezza della parte verticale del grembiule deve essere tale che, durante la più alta posizione di carico o scarico, il bordo inferiore si trovi a non meno di 0,10 m sotto la soglia del piano. 
+ 
+
+ 8.5. Accessi della cabina 
+ 
+
+ 8.5.1. Gli accessi dell cabina devono essere muniti di porte. 
+ 
+
+ 8.6. Porte di cabina 
+ 
+
+ 8.6.1. Le porte di cabina devono essere cieche. 
+ 
+
+ Caso particolare 
+ 
+
+ Per gli ascensori per merci e per montautomobili si può fare uso di porte cabina scorrevoli verticalmente, con un apertura verso l'alto cosituite da pennelli in rete o lamiera traforata. Le dimensioni delle maglie della rete o dei fori non devono essere maggiori di 10 mm nel senso orizzontale e di 60 mm nel senso verticale. 
+ 
+
+ 8.6.2. Quando le porte della cabina sono chiuse devono, tranne gli eventuali giuochi di funzionamento, chiudere completamente gli accessi della cabina. 
+ 
+
+ Caso particolare 
+ 
+
+ Nel caso particolare di un ascensore il cui uso è riservato agli utenti (introduzione generale 0.6.2) e l'altezza dell'accesso della cabina è maggiore di 2,5 m, l'altezza della porta della cabina può essere limitata a 2 m se le condizioni seguenti sono simultaneamente osservate: 
+ 
+
+ a) la porta scorre verticalmente; 
+ 
+
+ b) la velocità nominale dell'ascensore non supera 0,63 m/s. 
+ 
+
+ 8.6.3. In posizione di chiusura i giuochi, tra i pannelli e i montanti, architrave o soglia della porta di cabina devono essere i più piccoli possibile. 
+ 
+
+ Questa condizione è considerata rispettata quando questi giuochi non sono maggiori di 6 mm. La seconda frase del punto 0.1.2.2. (introduzione generale) non si applica tuttavia a questo valore. 
+ 
+
+ I giuochi si misurano dal fondo delle cave se esistono. 
+ 
+
+ Fanno eccezione le porte di cabina scorrevoli verticalmente di cui al caso particolare di cui 8.6.1. 
+ 
+
+ 8.6.4. Nel caso di porte a batterie, si devono prevedere degli arresti per evitare che i battenti si aprano verso l'esterno della cabina. 
+ 
+
+ 8.6.5. Ogni spia situata in una porta di cabina deve rispondere alle norme di cui in 7.6.2.2. a). 
+ 
+
+ è obbligatoria l'installazione della spia quando ne esista una sulle porte di piano per segnalare la presenza della cabina al piano. 
+ 
+
+ Le loro posizioni devono coincidere quando la cabina è a livello del piano. 
+ 
+
+ Tuttavia questa spia non è necessaria sulla porta della cabina quando questa è automatica e resta aperta quando la cabina è ferma al livello del piano. 
+ 
+
+ 8.6.6. Soglie, guide e sospensione delle porte 
+ 
+
+ Le norme di cui in 7.4. applicabili alle porte di cabina devono essere rispettate. 
+ 
+
+ 8.6.7. Resistenza meccanica 
+ 
+
+ Le porte della cabina in posizione di chiusura devono possedere una resistenza meccanica tale che, durante l'applicazione di una forza di 300 N perpendicolare alla porta, applicata in qualsiasi posizione dall'interno della cabina verso l'esterno, essendo la forza distribuita uniformemente su una superficie di 5 cm2 di forma rotonda o quadrata, esse: 
+ 
+
+ a) resistono senza deformazione permanente; 
+ 
+
+ b) resitono senza deformazione elastica maggiore di 15 mm; 
+ 
+
+ c) mantengono la loro funzionalità dopo tale prova. 
+ 
+
+ 8.7. Protezione durante il funzionamento delle porte 
+ 
+
+ 8.7.1. Le porte e le loro apparecchiature devono essere progettate per ridurre al minimo le conseguenze dannose dovute alla presa di una parte del corpo, di un vestito o di un oggetto. 
+ 
+
+ Per evitare il rischio di cesoiamento delle porte scorrevoli a funzionamento automatico, la superficie delle porte, lato cabina, non deve avere sporgenze o rientranze maggiori di 3 mm. Si fa eccezione per le porte scorrevoli verticali di aui al caso particolare di cui in 8.6.1. 
+ 
+
+ Gli spigoli devono essere smussati. 
+ 
+
+ 8.7.2. Porte motorizzate 
+ 
+
+ Le porte motorizzate devono essere proggettate per ridurre al minimo le conseguenze dannose dell'urto di un'anta contro una persona. 
+ 
+
+ A tal fine si devono rispettare le disposizioni seguenti. 
+ 
+
+ 8.7.2.1. Porte scorrevoli orizzontalmente 
+ 
+
+ 8.7.2.1.1. Porte automatiche 
+ 
+
+ 8.7.2.1.1.1. La spinta necessaria per impedire la chiusura delle porte non deve superare 150 N. 
+ 
+
+ Il valore della spinta non deve essere rilevato nel primo terzo di corsa della porta. 
+ 
+
+ 8.7.2.1.1.2. L'energia cinetica della porta della cabina e degli elementi meccanici che le sono rigidamente connessi, calcolata o misurata alla velocità media di chiusura come in 7.5.2.1.1.2., non deve superare 10 J. 
+ 
+
+ 8.7.2.1.1.3. Un dispositivo sensibile di protezione deve comandare automaticamente la riapertura della porta nel caso in cui una persona sia urtata (o sul punto di esserlo) dalla porta mentre attraversa l'accesso durante il movimento di chiusura. 
+ 
+
+ a) L'effetto del dispositivo può essere nutralizzato negli ultimi 50 mm di corsa di ciascuna anta della porta. 
+ 
+
+ b) Nel caso esista un dispositivo che esclude la protezione sensibile dopo un periodo di tempo stabilito, per impedire le ostruzioni prolungate durante la chiusura della porta, l'energia cinetica sopra definita non deve superare 4 J durante il movimento della porta con il dispositivo di protezione escluso. 
+ 
+
+ 8.7.2.1.2. Porte la cui chiusura si effettua sotto controllo permanente degli utenti (per esempio: pressione continua su un bottone) 
+ 
+
+ Quando l'energia cinetica calcolata o misurata come detto in 7.5.2.1.1.2. supera 10 J, la velocità media di chiusura dell'anta più veloce deve essere limitata a 0,3 m/s. 
+ 
+
+ 8.7.2.2. Porte scorrevoli verticalmente 
+ 
+
+ La chiusura motorizzata di questo tipo di porte è ammessa se sono rispettate simultaneamente le seguenti condizioni: 
+ 
+
+ a) L'ascensore è un ascensore per merci; 
+ 
+
+ b) la chiusura si effettua sotto controllo permanente degli utenti; 
+ 
+
+ c) la velocità media di chiusura dei pannelli è limitata a 0,3 m/s 8.8. ... 
+ 
+
+ 8.9. Dispositivi elettrici di controllo della chiusura della porta di 
+ 
+
+ cabina 
+ 
+
+ 8.9.1. Non deve essere possibile in servizio normale far funzionare l'ascensore o mantenerlo in funzione se una porta della cabina (o un'anta se la porta non ne ha diverse) è aperta. 
+ 
+
+ Tuttavia si possono effettuare le operazioni preliminari che predispongono la partenza della cabina. Lo spostamento della cabina con la porta della cabina aperta è ammesso nei casi previsti in 7.7.2.2. 
+ 
+
+ 8.9.2. Ogni porta di cabina deve essere munita di un dispositivo di controllo della chiusura secondo quanto indicato in 14.1.2. in modo che siano osservate le condizioni di cui in 8.9.1. 
+ 
+
+ 8.10. Porte scorrevoli orizzontalmente o verticalmente a più ante 
+ 
+
+ tra di loro collegate meccanicamente 
+ 
+
+ 8.10.1. Quando una porta scorrevole orizzontalmente o verticalmente è costituita da più ante collegate tra di loro da un organo meccanico diretto, è ammesso di: 
+ 
+
+ a) installare il dispositivo di controllo della chiusura (8.9) su una sola anta (anta veloce nel caso di porte telescopiche); 
+ 
+
+ b) installare il dispositivo di controllo della chiusura (8.9) sull'organo di azionamento delle porte quando il collegamento meccanico tra questo organo e le ante è diretto; 
+ 
+
+ c) per assicurare il bloccaggio prescritto dai casi e nelle condizioni di cui in 5.4.3.2.2, bloccare una sola anta a condizione che questo unico blocco impedisca l'apertura delle altre ante (per le porte telescopiche per esempio l'apertura dell'altra anta è impedita dal collegamento tra le ante). 
+ 
+
+ 8.10.2. Quando le ante sono collegate tra di loro da un organo meccanico indiretto (per esempio: funi, cinghie o catene), questo collegamento deve essere progettato per resistere agli sforzi normalmente prevedibili, realizzato con cura particolare e verificate periodicamente. 
+ 
+
+ è ammesso installare il dispositivo di controllo di chiusura (8.9) su una sola anta a condizione che: 
+ 
+
+ a) a questo dispositivo venga installato su un'anta non comandata; 
+ 
+
+ b) l'anta comandata lo sia mediante un organo meccanico diretto. 
+ 
+
+ 8.11. Apertura della porta di cabina 
+ 
+
+ 8.11.1. Allo scopo di consentire, in caso di arresto intempestivo della cabina in prossimità di un piano, l'uscita dei passeggeri, con la cabina ferma ed il motore dell'operatore della porta (se ne esiste uno) non alimentato, deve essere possibile: 
+ 
+
+ a) aprire dal pianerottolo la porta della cabina totalmente o parzialmente; 
+ 
+
+ b) aprire dall'interno della cabina la porta di cabina e quella del pianerottolo ad essa collegata nel caso di porte accoppiate totalmente o parzialmente. 
+ 
+
+ 8.11.2. L'apertura della porta di cabina prevista in 8.11.1. deve potersi effettuare almeno nella zona di sbloccaggio. 
+ 
+
+ Lo sforzo necessario per questa apertura non deve essere maggiore di 300 N. 
+ 
+
+ Nel caso di ascensori di cui al 5.4.3.2.2., l'apertura della porta della cabina deve essere possibile solo quando la cabina è nella zona di sbloccaggio. 
+ 
+
+ 8.11.3. Lo sforzo necessario per aprire, durante la marcia, la porta di cabina di un ascensore la cui velocità nominale supera 1 m/s deve essere maggiore di 50 N. 
+ 
+
+ Questa norma non è obbligatoria nella zona di sbloccaggio. 
+ 
+
+ 8.12. Botole e porte di emergenze 
+ 
+
+ 8.12.1. L'aiuto ai passeggeri che si trovano in cabina deve sempre venire all'esterno. 
+ 
+
+ Questo risultato può essere ottenuto eseguendo la manovra di emergenza di cui in 12.5. 
+ 
+
+ 8.12.2. Se esiste una botola di emergenza sul tetto della cabina per permettere l'eventuale sfollamento dei passeggeri, questa deve avere dimensioni non minori di 0,35 m x 0,50 m. 
+ 
+
+ 8.12.3. Una botola di emergenza è obbligatoria per consentire il soccorso e l'eventuale sfollamento dei passeggeri nel caso in cui uno o due accessi della cabina siano sprovvisti di porta. 
+ 
+
+ 8.12.4. Porte di emergenza possano essere utilizzate nel caso di cabine adiacenti a condizione che la distanza orizzontale tra le cabine non sia maggiore di 0,75 m (vedere in particolare 5.2.2.1.2.). 
+ 
+
+ Quando esistono porte di emergenza, esse devono essere di almeno 1,8 m di altezza o 0,35 m di lunghezza 
+ 
+
+ 8.12.5. Quando sono installate botole o porte di emergenza, esse devono rispondere oltre che all'8.3.2. e all'8.3.3. alle condizioni di sicurezza seguenti. 
+ 
+
+ 8.12.5.1. Le botole e le porte di emergenza devono essere a bloccaggio volontario. 
+ 
+
+ 8.12.5.1.1. Le botole di emergenza devono aprirsi senza l'ausilio di una chiave dall'esterno della cabina, mentre dall'interno della cabina occorre la chiave che si adatti al triangolo definito nell'appendice B. 
+ 
+
+ Le botole di emergenza non devono aprirsi verso l'interno della cabina. 
+ 
+
+ Le botole di emergenza in posizione di apertura non devono uscire dall'ingombro in pianta della cabina. 
+ 
+
+ 8.12.5.1.2. Le porte di emergenza devono aprirsi senza l'ausilio di una chiave dall'esterno della cabina, mentre dall'interno della cabina occorre la chiave che si adatti al triangolo definito nell'Appendice B. 
+ 
+
+ Le porte di emergenza non devono aprirsi verso l'esterno della cabina. 
+ 
+
+ Le porte di emergenza non devono trovarsi davanti al passaggio di un contrappeso o davanti ad un ostacolo fisso (ad eccezione delle travi di separazione tra le cabine) che impedisce il passaggio da una cabina all'altra. 
+ 
+
+ 8.12.5.2. Il bloccaggio prescritto in 8.12.5.1. deve essere controllato da un dispositivo elettrico di sicurezza conforme a 14.1.2. 
+ 
+
+ Questo dispositivo deve comandare l'arresto dell'ascensore dal momento in cui il bloccaggio cessa di essere effettivo. 
+ 
+
+ La rimessa in servizio dell'ascensore non deve avvenire che dopo un nuovo bloccaggio volontario. 
+ 
+
+ 8.13. Tetto della cabina 
+ 
+
+ 8.13.1. Oltre alle condizioni indicate in 8.3: 
+ 
+
+ a) il tetto della cabina deve poter sostenere due persone, cioè deve sopportare, in qualsiasi punto senza deformazione permanente, una forza verticale di 2000 N; 
+ 
+
+ b) il tetto della cabina deve avere superficie di 0,12 m2 libera libera e piana sulla quale si possa stazionare, la più piccola dimensione non deve essere minore di 0,25 m; 
+ 
+
+ 8.13.2. Se esitono pulegge fissate all'intelaiatura della cabina, esse devono essere munite di dispositivi efficaci per evitare: 
+ 
+
+ a) gli infortuni; 
+ 
+
+ b) lo scarrucolamento delle funi di sospensione in caso di allentamento; 
+ 
+
+ c) l'introduzione di corpi estranei tra le funi e le gole. 
+ 
+
+ Le protezione devono essere realizzate in modo da consentire le verifiche e la manutenzione delle pulegge. 
+ 
+
+ Nel caso di sospensione con catene dovranno essere prese disposizioni analoghe. 
+ 
+
+ 8.14. Parte frontale della cabina 
+ 
+
+ Quando può esistere uno spazio libero tra il tetto della cabina e l'architrave di una porta di piano, la parte superiore dell'accesso della cabina deve essere prolungata verso l'alto, per tutta la larghezza della porta di piano, con una parete verticale rigida che chiuda lo spazio vuoto considerato. 
+ 
+
+ Questa ipotesi si verifica in particolare nel caso di ascensori con fermata ausiliaria sopra il livello del piano (14.2.1.5). 
+ 
+
+ 8.15. Apparecchiature sul tetto della cabina 
+ 
+
+ Sul tetto della cabina si deve installare: 
+ 
+
+ a) un dispositivo di comando conforme al 14.2.1.3. (manovra di ispezione); 
+ 
+
+ b) un dispositivo di arresto conforme al 14.2.3. e 15.3; 
+ 
+
+ c) una presa di corrente conforme al 13.6.2. 
+ 
+
+ 8.16. Ventilazione 
+ 
+
+ 8.16.1. Le cabine aventi porte cieche devono essere munite di aperture di aerazione nelle parti più alte e più basse delle cabine stesse. 
+ 
+
+ 8.16.2. La superficie effettiva delle aperture di ventilazione, ubicate nella parte alta della cabina, deve essere almeno uguale all'1% della superficie utile della cabina. 
+ 
+
+ Uguale superficie deve essere prevista per le aperture situate in basso. 
+ 
+
+ Gli interstizi delle porte della cabina possono essere presi in considerazione per il calcolo della superficie delle aperture di ventilazione limitatamente al 50% della superficie effettiva richiesta. 
+ 
+
+ 8.16.3. Le aperture di ventilazione devono essere progettate e realizzate in modo tale che non sia possibile attraversare le pareti della cabina dall'interno con una barra rigida e diritta del diametro di 10 mm. 
+ 
+
+ 8.17. Illuminazione 
+ 
+
+ 8.17.1. La cabina deve avere un impianto elettrico permanente di illuminazione che assicuri al suolo e sui comandi un illuminamento di almeno 50 lux. 
+ 
+
+ 8.17.2. Se l'illuminazione è del tipo ad incandescenza, la lampade devono essere almeno due collegate in parallelo. 
+ 
+
+ 8.17.3. Deve essere disponibile un'alimentatore di emergenza a caricamento automatico capace, in caso di interruzione dell'alimentazione dell'illuminazione normale, di alimentare almeno una lampada della potenza 1 W per 1 h. 
+ 
+
+ Questa illuminazione deve intervenire automaticamente quando si interrompe la sorgente dell'illuminazione normale. 
+ 
+
+ 8.17.4. Se l'alimentazione sopra citata è comune a quella che alimenta il dispositivo di allarme previsto in 14.2.3., la sua presenza deve essere adeguata. 
+ 
+
+ 8.18. Contrappeso 
+ 
+
+ 8.18.1. Se il contrappeso è costituito da blocchi, devono essere prese le disposizioni necessarie per evitare lo spostamento. 
+ 
+
+ a) o un telaio entro il quale sono contenuti i blocchi; 
+ 
+
+ b) oppure, se i blocchi sono metallici e la velocità dell'ascensore non supera 1 m/s, almeno due tiranti per mezzo dei quali sono montati i blocchi. 
+ 
+
+ 8.18.2. Se esistono pulegge sui contrappesi, esse devono essere munite di dispositivi per evitare: 
+ 
+
+ a) lo scarrucolamento delle funi di sospensione in caso di allentamento; 
+ 
+
+ b) l'introduzione di corpi estranei tra le funi e le gole. 
+ 
+
+ Questi dispositivi devono essere realizzati in modo da consentire le verifiche e la manutenzione delle puleffe. 
+ 
+
+ Nel caso di sospensione con catene dovranno essere prese disposizioni analoghe. 
+ 
+
+ 8.18.3. Nel caso di un argano a tamburo devono essere previsti contrappesi. 
+ 
+
+ 9. Organi di sospensione, organi di compensazione, paracadute e limitatore di velocità. 
+ 
+
+ 9.1. Natura della sospensione, numero delle funi e delle catene 
+ 
+
+ portanti 
+ 
+
+ 9.1.1. La cabina ed i contrappesi devono essere sotenuti con funi di acciaio a maglie parallele (tipo Galle) o a rulli. 
+ 
+
+ 9.1.2. Le funi portanti devono rispondere alle condizioni seguenti: 
+ 
+
+ a) il diametro nominale delle funi non deve essere minore di 8 mm; 
+ 
+
+ b) la classe di resistenza dei fili deve essere: 
+ 
+
+ 1) 1 570 N/mm2 o 1 770 N/mm2 per le funi ad una classe di resistenza; 
+ 
+
+ 2) 1 370 N/mm2 per i fili esterni e 1 770 N/mm2 per i fili interni nelle funi a doppia classe di resistenza; 
+ 
+
+ c) le altre caratteristiche (composizione, allungamento, ovalità, elasticità, prove...) devono almeno corrispondere a quelle definite nelle norme internazionali che le riguardano. 
+ 
+
+ 9.1.3. Il numero delle funi (o catene) di sospensione non deve essere minore di due. Le funi (o catene) devono essere indipendenti. 
+ 
+
+ 9.1.4. Nel caso di sospensione a taglia, il numero da prendere in considerazione è quello delle funi o catene e non dei tratti portanti. 
+ 
+
+ 9.2. Rapporto tra il diametro delle pulegge (o tamburi) e diametro 
+ 
+
+ delle funi, coefficiente di sicurezza delle funi e catene 
+ 
+
+ 9.2.1. Il rapporto tra il diametro primitivo delle pulegge (o dei tamburi) ed il diametro nominale delle funi di sospensione non deve essere minore di 40, qualunque sia il numero dei trefoli. 
+ 
+
+ 9.2.2. Il coefficiente di sicurezza delle funi di sospensione non deve essere minore di: 
+ 
+
+ a) 12, nel caso di argani a frizione con 3 o più funi; 
+ 
+
+ b) 16, nel caso di argani a frizione con 2 funi portanti; 
+ 
+
+ c) 12, nel caso di argani a tamburo. 
+ 
+
+ Il coefficiente di sicurezza è il rapporto fra il carico di rottura minimo (N) di una fune (catena) e la tensione massima (N) nella stessa fune (catena) quando la cabina con carico uguale alla portata si trova alla fermata più bassa. Per il calcolo di questa tensione massima occorre prendere in considerazione il numero di funi (catene), il coefficiente di "taglia" (in caso di "taglia"), la portata, la massa della cabina, la massa della fune (catena) e la massa della parte di cavi flessibili e degli organi di compensazione sostenuti dalla cabina. 
+ 
+
+ 9.2.3. Il collegamento tra fune e attacco, secondo 9.2.3.1, deve avere resistenza non minore dell'80% del carico di rottura della fune. 
+ 
+
+ 9.2.3.1. Le estremità delle funi devono essere fissate alla cabina, al contrappeso ed ai punti di sospensione mediante piombatura, autoserraggio, capicorda a cavallotto (con almeno tre morsetti appropriati), capicorda a cuneo, manicotto pressato od altro sistema che presenti sicurezza equivalente. 
+ 
+
+ 9.2.3.2. Il fissaggio delle funi sui tamburi deve essere eseguito mediante cunei o mediante almeno due staffe di fissaggio od altro sistema che presenti sicurezza equivalente. 
+ 
+
+ 9.2.4. Il coefficiente di sicurezza delle catene di sospensione non deve essere minore di 10. 
+ 
+
+ Il coefficiente di sicurezza è definito in modo analogo a quello indicato in 9.2.2. per le funi. 
+ 
+
+ 9.2.5. Le estremità di ogni catena devono essere fissate alla cabina, al contrappeso ed ai punti di sospensione mediante idonei attacchi. 
+ 
+
+ La resistenza del collegamento tra catene e attacco non deve essere minore dell'80% del carico di rottura della catena. 
+ 
+
+ 9.3. Aderenza delle funi per gli ascensori a frizione e pressione 
+ 
+
+ specifica 
+ 
+
+ 9.3.1. L'aderenza delle funi deve essere tale da soddisfare contemporaneamente alle due condizioni seguenti: 
+ 
+
+ a) la cabina non deve poter essere spostata verso l'alto quando il contrappeso è in appoggio ed un movimento di rotazione nel senso della salita viene impresso al motore di sollevamento; 
+ 
+
+ b) deve essere soddisfatta la relazione indicata nella nota 1 alla fine del 9. 
+ 
+
+ 9.3.2. La pressione specifica delle funi portanti nelle gole della puleggia di frizione deve corrispondere alle prescrizioni della nota 2 alla fine del 9. 
+ 
+
+ 9.4. Avvolgimento delle funi per gli ascensori a tamburo 
+ 
+
+ 9.4.1. Il tamburo, che può essere utilizzato nelle condizioni previste in 12.2.1 b) deve essere con scanalature elicoidali e le gole devono essere adatte alle funi utilizzate. 
+ 
+
+ 9.4.2. Quando la cabina appoggia sugli ammortizzatori totalmente compressi, almeno un giro a mezzo di fune deve rimanere avvolto sul tamburo. 
+ 
+
+ 9.4.3. Un solo strato di funi deve essere avvolto sul tamburo. 
+ 
+
+ 9.4.4. L'inclinazione delle funi rispetto alle gole non deve essere maggiore di 4. 
+ 
+
+ 9.5. Ripartizione del carico tra le funi o le catene 
+ 
+
+ 9.5.1. Un dispositivo automatico che renda uguale le tensioni delle funi o delle catene portanti deve essere previsto almeno ad una delle loro estremità. 
+ 
+
+ 9.5.1.1. Nel caso di catene mosse da pignoni, le estremità fissate alla cabina e quelle fissate al contrappeso devono essere munite di analoghi dispositivi di egualizzazione. 
+ 
+
+ 9.5.1.2. Nel caso di più pignoni di rinvio montati sullo stesso albero, questi devono poter rotare in modo indipendente. 
+ 
+
+ 9.5.2. Se per uguagliare la tensione sono usate delle molle, queste devono lavorare a compressione. 
+ 
+
+ 9.5.3. Nel caso di sospensione della cabina con 2 funi o catene un dispositivo elettrico di sicurezza, conforme a 14.1.2, deve provocare l'arresto del macchinario in caso di allungamento relativo anormale di una fune o catena. 
+ 
+
+ 9.5.4. I dispositivi di regolazione della lunghezza delle funi o delle catene devono essere realizzati in modo che non possano allentarsi da soli dopo la regolazione. 
+ 
+
+ 9.6 Funi di compensazione 
+ 
+
+ 9.6.1. Negli ascensori la cui velocità nominale è maggiore di 2,5 m/s devono essere usate funi di compensazione con puleggia tenditrice e devono essere soddisfatte le condizioni seguenti: 
+ 
+
+ a) la tensione deve essere ottenuta per azione di gravità; 
+ 
+
+ b) la tensione deve essere controllata mediante un dispositivo elettrico di sicurezza, conforme a quanto indicato in 14.1.2; 
+ 
+
+ c) il rapporto tra il diametro primitivo delle pulegge ed il diametro nominale delle funi di compensazione non deve essere minore di 30. 
+ 
+
+ 9.6.2. Quando la velocità nominale è maggiore di 3,5 m/s, oltre a quanto previsto in 9.6.1. deve essere utilizzato un dispositivo antirimbalzo. L'intervento del dispositivo antirimbalzo deve provocare l'arresto della macchina mediante un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 9.7. Protezione dei pignoni e delle pulegge di rinvio, di deviazione, 
+ 
+
+ di compensazione e delle taglie 
+ 
+
+ Si devono adottare le precauzioni necessarie per evitare: 
+ 
+
+ a) gli infortuni; 
+ 
+
+ b) Lo scarrucolamento, in caso di allentamento, delle funi dalle gole e delle catene dai pignoni; 
+ 
+
+ c) l'introduzione di corpi estranei tra le funi (o catene) e le gole (o pignoni). 
+ 
+
+ I dispositivi impiegati devono essere realizzati in modo da non impedire il controllo e la manutenzione delle pulegge o pignoni. 
+ 
+
+ 9.8 Paracadute 
+ 
+
+ 9.8.1 Disposizioni generali 
+ 
+
+ 9.8.1.1. La cabina deve essere provvista di un paracadute che intervenga solo nel senso della discesa, capace di arrestarla con carico uguale alla portata, alla velocità di intervento del limitatore di velocità anche in caso di rottura degli organi di sospensione, bloccandola sulle guide e di mantenerla in tale posizione. 
+ 
+
+ 9.8.1.2. Nel caso contemplato in 5.5.2. b) il contrappeso deve ugualmente essere provvisto di un paracadute che intervenga solo in discesa, capace di arrestarlo alla velocità di intervento del limitatore di velocità (o nel caso di rottura degli organi di sospensione nel caso particolare di cui in 9.8.3.1.), bloccandolo sulle guide e di mantenerlo in tale posizione. 
+ 
+
+ 9.8.2. Condizioni di impiego dei diversi tipi di paracadute 
+ 
+
+ 9.8.2.1. Il paracadute di cabina deve essere a presa progressiva se la velocità nominale è maggiore di 1 m/s. 
+ 
+
+ Esso può essere: 
+ 
+
+ a) a presa istantanea con effetto ammortizzato, se la velocità nominale non è maggiore di 1 m/s; 
+ 
+
+ b) a presa istantanea, se la velocità nominale non è maggiore di 0,63 m/s. 
+ 
+
+ 9.8.2.2 Se la cabina è provvista di più paracadute, questi devono essere tutti a presa progressiva. 
+ 
+
+ 9.8.2.3. Il paracadute del contrappeso deve essere a presa progressiva se la velocità nominale è maggiore di 1 m/s. 
+ 
+
+ 9.8.3. Sistemi di comando 
+ 
+
+ 9.8.3.1. I paracadute della cabina e del contrappeso devono essere comandati da propri limitatori di velocità. 
+ 
+
+ Caso particolare 
+ 
+
+ I paracadute del contrappeso possono intervenire per rottura degli organi di sospensione o mediante una fune di sicurezza, se la velocità nominale non è maggiore di 1 m/s. 
+ 
+
+ 9.8.3.2. L'intervento dei paracadute mediante dispositivi elettrici, idraulici o pneumatici, è vietato. 
+ 
+
+ 9.8.4. Decelerazione 
+ 
+
+ Per i paracadute a presa progressiva, la decelerazione media in caso di intervento in caduta libera con carico in cabina uguale alla 
+ 
+
+ portata deve essere compresa fra 0,2 gn e gn 
+ 
+
+ 9.8.5. Sblocco 
+ 
+
+ 9.8.5.1. Lo sblocco del paracadute della cabina (o del contrappeso) deve potersi effettuare soltanto spostando la cabina (o il contrappeso) verso l'alto. 
+ 
+
+ 9.8.5.2. Dopo lo sblocco, il paracadute deve essere in grado di funzionare di nuovo normalmente. 
+ 
+
+ 9.8.5.3. Dopo lo sblocco del paracadute, la rimessa in servizio dell'ascensore deve richiedere l'intervento di una persona competente. 
+ 
+
+ 9.8.6. Condizioni di realizzazione 
+ 
+
+ 9.8.6.1. è vietato usare le ganasce del paracadute come pattini di guida. 
+ 
+
+ 9.8.6.2. Il sistema ammortizzante utilizzato per i paracadute a presa istantanea con effetto ammortizzato deve essere ad accumulazione di energia con movimento di ritorno ammortizzato o a dissipazione di energia e deve rispondere alle prescrizioni di cui in 10.4.2 o 10.4.3. 
+ 
+
+ 9.8.6.3. Gli organi di presa del paracadute devono trovarsi, preferibilmente, nella parte inferiore della cabina. 
+ 
+
+ 9.8.6.4. Deve essere possibile sigillare i componenti regolabili dei paracadute a presa progressiva. 
+ 
+
+ 9.8.7 Inclinazione del pavimento in caso di presa del paracadute 
+ 
+
+ In caso di presa del paracadute, con il carico (se esistente) uniformemente distribuito, l'inclinazione del pavimento della cabina non deve variare più del 5% rispetto alla sua posizione normale. 
+ 
+
+ 9.8.8. Controllo elettrico 
+ 
+
+ In caso di intervento del paracadute di cabina, un dispositivo applicato sulla cabina deve comandare l'arresto del macchinario, al più tardi nell'istante di presa del paracadute. Tale dispositivo deve essere un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 9.9. Limitatore di velocità 
+ 
+
+ 9.9.1. L'intervento del limitatore di velocità che aziona il paracadute della cabina deve avvenire non prima che la velocità della cabina raggiunga il 115% della velocità nominale e prima che essa raggiunga: 
+ 
+
+ a) 0,80 m/s per i paracadute a presa istantanea diversi da quelli a rulli; 
+ 
+
+ b) 1 m/s per i paracadute a presa istantanea del tipo a rulli; 
+ 
+
+ c) 1,5 m/s per i paracadute a presa istantanea con effetto ammortizzato e per i paracadute a presa progressiva usati per velocità nominale non maggiore di 1,0 m/s; 
+ 
+
+ d) 1,25 v + 0,25/v per i paracadute a presa progressiva usati per velocità nominale maggiore di 1,0 m/s, dove v è la velocità nominale (m/s). 
+ 
+
+ 9.9.2. Scelta della velocità 
+ 
+
+ 9.9.2.1. Per gli ascensori la cui velocità nominale è maggiore di 1 m/s si raccomanda di scegliere una velocità di intervento più vicina possibile al limite superiore indicato in 9.9.1. 
+ 
+
+ 9.9.2.2. Per gli ascensori con grande portata e bassa velocità nominale, i limitatori di velocità devono essere specialmente progettati a questo scopo. Si raccomanda di scegliere la velocità di intervento più vicina possibile al limite inferiore indicato in 9.9.1. 
+ 
+
+ 9.9.3. La velocità di intervento del limitatore di velocità che comanda un paracadute del contrappeso deve essere maggiore di quella del limitatore che comanda il paracadute della cabina, senza però superarla di oltre il 10%. 
+ 
+
+ 9.9.4. La forza di trazione provocata dal limitatore di velocità all'atto del suo intervento sulla fune del limitatore stesso non deve essere minore del più grande dei due seguenti valori: 
+ 
+
+ a) 300 N; 
+ 
+
+ b) il doppio della forza necessaria per far intervenire il paracadute. 
+ 
+
+ 9.9.5. Sul limitatore di velocità deve essere indicato il senso di rotazione corrispondente alla presa del paracadute. 
+ 
+
+ 9.9.6. Fune del limitatore di velocità 
+ 
+
+ 9.9.6.1. Il limitatore di velocità deve essere comandato da una fune metallica flessibile. 
+ 
+
+ 9.9.6.2. Il carico di rottura di questa fune deve essere in rapporto con la forza di trazione che si ha nella fune stessa all'atto dell'intervento del limitatore di velocità, con un coefficiente di sicurezza non minore di 8. 
+ 
+
+ 9.9.6.3. Il diametro nominale della fune non deve essere minore di 6 mm. 
+ 
+
+ 9.9.6.4. Il rapporto tra il diametro primitivo della puleggia del limitatore di velocità ed il diametro nominale della fune non deve essere minore di 30. 
+ 
+
+ 9.9.6.5. La fune deve essere tesa mediante una puleggia tenditrice.
+ 
+
+ Questa puleggia (o la sua massa tenditrice) deve essere guidata. 
+ 
+
+ 9.9.6.6. Durante la presa del paracadute lo strappamento della fune o del suo attacco non deve essere possibile, anche in caso di uno spazio di frenatura sulle guide maggiori del normale. 
+ 
+
+ 9.9.6.7. La fune deve essere facilmente staccabile dal paracadute. 
+ 
+
+ 9.9.7. Tempo di intervento 
+ 
+
+ Il tempo di intervento del limitatore di velocità prima dell'azionamento deve essere sufficientemente limitato in modo che non si possa raggiungere una velocità pericolosa prima del momento della presa del paracadute. 
+ 
+
+ 9.9.8. Accessibilità 
+ 
+
+ Il limitatore di velocità deve essere perfettamente accessibile in ogni condizione. 
+ 
+
+ Se esso è installato nel vano di corsa, deve essere accessibile dall'esterno del vano stesso. 
+ 
+
+ 9.9.9. Possibilità di intervento del limitatore di velocità. 
+ 
+
+ Durante l'ispezione o durante le prove deve essere possibile provocare la presa del paracadute ad una velocità minore di quella indicata in 9.9.1, provocando l'intervento del limitatore con un mezzo qualunque. 
+ 
+
+ 9.9.10. I dispositivi di regolazione del limitatore di velocità devono essere piombati dopo aver fissato la velocità di intervento. 
+ 
+
+ 9.9.11. Controllo elettrico 
+ 
+
+ 9.9.11.1. Il limitatore di velocità od un altro organo deve comandare, mediante un dispositivo elettrico di sicurezza (14.1.2.), l'arresto del macchinario prima che la velocità della cabina raggiunga, in salita o in discesa, la velocità di intervento del limitatore. 
+ 
+
+ Tuttavia per velocità nominali che non superino 1 m/s questo dispositivo: 
+ 
+
+ a) può agire quando si raggiunge la velocità di intervento del limitatore, se la velocità della cabina è funzione della frequenza della tensione di rete, fino all'applicazione del freno; 
+ 
+
+ b) deve agire al più tardi quando la velocità della cabina raggiunge il 115% della velocità nominale, se si tratta di un ascensore a tensione variabile o con variazione continua della velocità. 
+ 
+
+ 9.9.11.2. Se dopo lo sblocco del paracadute il limitatore di velocità non ritorna automaticamente in posizione di funzionamento, un dispositivo elettrico di sicurezza (14.1.2.) deve impedire la messa in marcia dell'ascensore finchè il limitatore è ancora nella posizione di intervento. 
+ 
+
+ Questo dispositivo può tuttavia essere escluso nel caso previsto in 14.2.1.4.3. 
+ 
+
+ La rimessa in servizio deve richiedere l'intervento di una persona competente. 
+ 
+
+ 9.9.11.3. La rottura o l'allentamento della fune del limitatore di velocità deve provocare l'arresto del macchinario, mediante un dispositivo elettrico di sicurezza (14.1.2.). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 10. Guide, ammortizzatori e dispositivi di extracorsa di sicurezza 
+ 
+
+ 10.1. Disposizioni generali concernenti le guide 
+ 
+
+ 10.1.1. La resistenza delle guide (vedere nota 1 alla fine del punto 10), dei loro attacchi e dei dispositivi che collegano gli elementi, deve essere sufficiente per permettere loro di sopportare gli sforzi dovuti all'intervento del paracadute e le flessioni dovute a carichi eccentrici; le frecce che si verificano in questo ultimo caso devono avere valore limitato in modo che la marcia normale dell'ascensore non ne sia influenzata. 
+ 
+
+ 10.1.2. Il fissaggio delle guide ai loro sopporti ed all'edificio deve permettere di compensare, sia automaticamente, sia con semplice regolazione, gli effetti dovuti agli assestamenti normali dell'edificio ed al ritiro del cemento armato. 
+ 
+
+ Deve essere impedita una rotazione degli ancoraggi a causa della quale la guida potrebbe essere liberata. 
+ 
+
+ 10.2. Sistema di guida della cabina e del contrappeso 
+ 
+
+ 10.2.1. La cabina ed il contrappeso devono essere guidati ciascuno da almeno due guide rigide di acciaio. 
+ 
+
+ 10.2.2. Se la velocità nominale è maggiore di 0,4 m/s, le guide devono essere di acciaio trafilato oppure le superficie di scorrimento devono essere lavorate. 
+ 
+
+ 10.2.3. La prescrizione del 10.2.2. deve essere rispettata, qualsiasi sia la velocità, se viene utilizzato un paracadute a presa progressiva. 
+ 
+
+ 10.3. Ammortizzatori della cabina e del contrappeso 
+ 
+
+ 10.3.1. All'estremità inferiore della corsa sotto la cabina e sotto il contrappeso devono essere disposti ammortizzatori. 
+ 
+
+ Se gli ammortizzatori si spostano con la cabina o con il contrappeso, essi devono appoggiare su uno zoccolo di altezza non minore di 0,5 m all'estremità della corsa. 
+ 
+
+ Caso particolare 
+ 
+
+ Lo zoccolo non è obbligatorio per gli ammortizzatori del contrappeso se, nella fossa, è reso impossibile l'accesso involontario sotto al contrappeso (per esempio, disponendo delle reti metalliche le cui maglie siano conformi al 5.2.1, caso particolare b). 
+ 
+
+ 10.3.2. Oltre a rispondere ai requisiti fissati in 10.3.1. gli ascensori con argano agganciato devono essere provvisti di ammortizzatori posti sulla cabina, in grado di intervenire nella parte superiore della corsa. 
+ 
+
+ Se gli ascensori sono dotati di contrappeso, gli ammortizzatori posti sopra la cabina devono entrare in azione solo quando gli ammortizzatori del contrappeso sono totalmente compressi. 
+ 
+
+ 10.3.3. Gli ammortizzatori ad accumulazione di energia possono essere usati soltanto negli ascensori con velocità nominale non maggiore di 1 m/s. 
+ 
+
+ 10.3.4. Gli ammortizzatori ad accumulazione di energia con movimento di ritorno ammortizzato possono essere usati soltanto negli ascensori con velocità non maggiore di 1,60 m/s. 
+ 
+
+ 10.3.5. Gli ammortizzatori a dissipazione di energia possono essere usati per qualsiasi velocità nominale dell'ascensore 
+ 
+
+ 10.4. Corsa degli ammortizzatori della cabina e del contrappeso 
+ 
+
+ 10.4.1. Ammortizzatori ad accumulazione di energia 
+ 
+
+ 10.4.1.1. La corsa totale possibile degli ammortizzatori non deve essere minore di 2 volte la distanza di arresto per gravità corriponente al 115% della velocità nominale (cioè 0,067 4 V2 x 2 = 0,135V2). 
+ 
+
+ La corsa è espressa in metri e la velocità nominale in metri al secondo. 
+ 
+
+ In ogni caso la corsa non può essere minore di 65 mm. 
+ 
+
+ 10.4.1.2. Gli ammortizzatori devono essere calcolati in modo da percorrere la corsa sopra indicata sotto l'azione di un carico statico compreso fra 2,5 e 4 volte la massa della cabina più la portata (o la massa del contrappeso). 
+ 
+
+ 10.4.2. Ammortizzatori ad accumulazione di energia con movimento di ritorno ammortizzato 
+ 
+
+ Si applicano le prescrizioni del 10.4.1. 
+ 
+
+ 10.4.3. Ammortizzatori a dissipazione di energia 
+ 
+
+ 10.4.3.1. La corsa totale possibile degli ammortizzatori non deve essere minore della distanza di arresto per gravità corrispondente al 115% della velocità nominale (0,0674 V2). 
+ 
+
+ La corsa è espressa in metri e la velocità nominale in metri al secondo. 
+ 
+
+ 10.4.3.2. Quando il rallentamento dell'ascensore alle estremità della sua corsa è controllato secondo le prescrizioni di cui in 12.8. in luogo della velocità nominale può essere usata, per calcolare la corsa dell'ammortizzatore secondo 10.4.3.1, la velocità alla quale la cabina (o il contrappeso) viene in contatto con gli ammortizzatori. 
+ 
+
+ Tuttavia la corsa non può essere minore del: 
+ 
+
+ a) 50% della corsa calcolata secondo 10.4.3.1. se la velocità nominale non è maggiore di 4 m/s; 
+ 
+
+ b) 33 e 1/3% della corsa calcolata secondo 10.4.3.1. se la velocità nominale è maggiore di 4 m/s. 
+ 
+
+ In nessun caso questa corsa può essere minore di 0,42 m. 
+ 
+
+ 10.4.3.3. Con il carico uguale alla portata in cabina e in caduta libera, la decelerazione media durante l'azione degli ammortizzatori non deve essere maggiore di (immagine). Decelerazioni maggiori di 2,5 (immagine) non devono verificarsi per più di 0,04 s. 
+ 
+
+ La velocità di impatto sugli ammortizzatori da prendere in considerazione è uguale a quella per la quale la corsa dell'ammortizzatore è calcolata (vedere 10.4.3.1. e 10.4.3.2). 
+ 
+
+ 10.4.3.4. Il funzionamento dell'ascensore deve essere subordinato al ritorno in posizione normale degli ammortizzatori. Questa posizione deve essere controllata da un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 10.4.3.5. Gli ammortizzatori di tipo idraulico devono essere realizzati in maniera tale che sia facile verificare il livello del liquido. 
+ 
+
+ 10.5. Dispositivi di estracorsa di sicurezza 
+ 
+
+ 10.5.1. Devono essere installati dei dispositivi di estracorsa di sicurezza. 
+ 
+
+ I dispositivi di estracorsa devono essere posizionati per intervenire il più vicino possibile ai piani estremi di arresto, senza rischio di intervento accidentale. 
+ 
+
+ Essi devono agire prima che la cabina (od il contrappeso, se esiste) venga in contatto con gli ammortizzatori. 
+ 
+
+ L'azione dei dispositivi di estracorsa deve permanere finchè gli ammortizzatori sono compressi. 
+ 
+
+ 10.5.2. Comando dei dispositivi di estracorsa di sicurezza 
+ 
+
+ 10.5.2.1. è vietato utilizzare organi di comando comuni all'arresto normale ai piani estremi e ai dispositivi di estracorsa. 
+ 
+
+ 10.5.2.2. Nel caso di ascensori con argano agganciato, il comando dei 
+ 
+
+ dispositivi di estracorsa deve essere assicurato 
+ 
+
+ a) o da un organo collegato al movimento del macchinario; 
+ 
+
+ b) o dalla cabina e dal contrappeso, se esiste, nella parte alta del vano di corsa; 
+ 
+
+ c) oppure, se non vi è contrappeso, dalla cabina, nelle parti alta e bassa del vano di corsa. 
+ 
+
+ 10.5.2.3. Nel caso di ascensori a frizione, il comando dei dispositivi di estracorsa deve essere assicurato. 
+ 
+
+ a) o direttamente dalla cabina alle estremità superiore ed inferiore del vano di corsa; 
+ 
+
+ b) o per mezzo di un organo collegato non direttamente alla cabina, per esempio fune, cinghia o catena. In questo caso, la rottura o l'allentamento del collegamento deve procare l'arresto del macchinario mediante un dispositivo elettrico di sicurezza, conforme al 14.1.2. 
+ 
+
+ 10.5.3. Modo di azionamento dei dispositivi di estracorsa di 
+ 
+
+ sicurezza 
+ 
+
+ 10.5.3.1. I dispositivi di estracorsa devono: 
+ 
+
+ a) nel caso di ascensori ad argano agganciato, interrompere direttamente e, se necessario, mediante separazione meccanica, i circuiti che alimentano il motore ed il freno. 
+ 
+
+ Devono essere presi provvedimenti affinchè il motore non possa alimentare il solenoide del freno; 
+ 
+
+ b) nel caso di ascensori a frizione ad una o due velocità: 
+ 
+
+ 1) o interrompere nelle stesse condizioni indicate in a); 
+ 
+
+ 2) o aprire mediante un dispositivo elettrico di sicurezza (14.1.2.) il circuito che alimenta direttamente le bobine di due contattori i cui contatti sono disposti in serie sui circuiti che alimentano il motore e il freno. 
+ 
+
+ Ognuno di questi contattori deve essere in grado di intrerrompere sotto carico il circuito di alimentazione; 
+ 
+
+ c) nel caso di ascensori a tensione variabile o a variazione continua di velocità, assicurare rapidamente l'arresto del macchinario. 
+ 
+
+ 10.5.3.2. Dopo il funzionamento di un dispositivo di estracorsa, la rimessa in servizio dell'ascensore non deve potersi effettuare che con l'intervento di una persona competente. 
+ 
+
+ Se esistono più dispositivi di estracorsa a ogni estremità della corsa, l'azione di almeno uno di essi deve impedire lo spostamento nei due sensi di marcia e almeno questo deve richiedere l'intervento di una persona competente per la rimessa in servizio. 
+ 
+
+ 10.6. Dispositivi di sicurezza nel caso di incontro di un ostacolo 
+ 
+
+ durante la discesa della cabina o del contrappeso 
+ 
+
+ 10.6.1. Ascensori ad argano agganciato 
+ 
+
+ Gli ascensori con argano agganciato devono avere un dispositivo per allentamento di una fune o catena che interrompa la corrente di manovra e che comandi l'arresto del macchinario se la cabina (o il contrappeso) incontra un ostacolo durante il movimento di discesa. 
+ 
+
+ Il dispositivo utilizzato deve rispondere alle prescrizioni di cui in 14.2.1. 
+ 
+
+ 10.6.2. Ascensori a frizione 
+ 
+
+ 10.6.2.1. Gli ascensori a frizione devono avere un dispositivo che comandi l'arresto del macchinario e lo mantenga fermo quando: 
+ 
+
+ a) il macchinario non si avvia dopo un comando; 
+ 
+
+ b) la cabina (o il contrappeso) è fermata in discesa da un ostacolo che provoca lo slittamento delle funi sulla puleggia di frizione 
+ 
+
+ 10.6.6.2. Questo dispositivo deve intervenire in un tempo che non può essere maggiore del più piccolo dei due valori seguenti: 
+ 
+
+ a) 45 s; 
+ 
+
+ b) tempo necessario per una corsa completa più 10 s, con un minimo di 20 s se il tempo di corsa è minore di 10 s. 
+ 
+
+ 10.6.2.3. Questo dispositivo non deve influenzare il movimento della cabina durante la manovra di ispezione, nè durante la manovra elettrica di emergenza, se esiste. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 11. Distanza tra cabina e parete nonchè tra cabina e contrappeso 
+ 
+
+ 11.1. Disposizione generale 
+ 
+
+ Le distanze stabilite nella norma devono essere non solo all'atto del collaudo, ma anche durante tutto il periodo di esercizione dell'impianto. 
+ 
+
+ 11.2. Distanza tra cabina e parete frontale per gli ascensori muniti di porta di cabina. 
+ 
+
+ 11.2.1. La distanza orizzontale tra la parete frontale e la soglia o cornice dell'accesso o della porta di cabina (o bordo estremo delle porte, nel caso di porte scorrevoli) non deve essere maggiore di 0,15 m. 
+ 
+
+ Casi particolari 
+ 
+
+ La distanza sopra indicata: 
+ 
+
+ a) può essere portata a 0,2 m per altezza non maggiore di 0,5 m; 
+ 
+
+ b) può essere portata a 0,2 m per tutta la corsa nel caso di ascensori per merci e per i montautomobili con ponte scorrevoli verticali; 
+ 
+
+ c) non è limitata nei casi di cui in 5.4.3.2.2. 
+ 
+
+ 11.2.2. La distanza orizzontale tra soglia di cabina e soglia delle porte dei piani non deve essere maggiore di 35 mm. 
+ 
+
+ 11.2.3. La distanza orizzontale tra porta di cabina e porta dei piani chiuse o la distanza che permette di accedere tra le porte durante tutta la loro manovra normale, non deve essere maggiore di 0,12 m. 
+ 
+
+ 11.3. ... 
+ 
+
+ 11.4. Distanza tra cabina e contrappeso 
+ 
+
+ La cabina e gli elementi che vi sono fissati devono distare almeno 0,05 m dal contrappeso (qualora esso esista) e dagli elementi ed esso fissati. 
+ 
+
+ 12. Macchinario 
+ 
+
+ 12.1. Disposizioni generali 
+ 
+
+ Ogni ascensore deve avere almeno un macchinario che gli sia proprio. 
+ 
+
+ 12.2. Azionamento della cabina e del contrappeso 
+ 
+
+ 12.2.1. Sono ammessi i seguenti due metodi di azionamento: 
+ 
+
+ a) a frizione (impiego di pulegge di frezione e di funi): 
+ 
+
+ b) ad agganciamento se la velocità nominale non supera 0,63 m/s e cioè: 
+ 
+
+ 1) o con tamburo e funi, senza contrappeso; 
+ 
+
+ 2) o con pignoni e catene. I calcoli degli elementi di trasmissione devono tenere conto dell'eventualità in cui il contrappeso, se esiste, (o la cabina) appoggi sugli ammortizzatori. 
+ 
+
+ 12.2.2. Si possono utilizzare cinghie per accoppiare il o i motori all'organo sul quale agisce il freno elettromeccanico (12.4.1.2).
+ 
+
+ Devono essere previste almeno due cinghie. 
+ 
+
+ 12.3. Impiego di pulegge o pignoni a sbalzo 
+ 
+
+ In caso di utilizzazione di pulegge di frizione o pignoni a sbalzo, devono essere prese disposizioni efficaci per evitare 
+ 
+
+ a) lo scarrucolamento delle funi o la fuoruscita delle catene dai loro pignoni; 
+ 
+
+ b) l'introduzione di corpi estranei tra funi e gole (o tra catene e pignoni) nel caso in cui il macchinario non sia al disopra del vano di corsa. 
+ 
+
+ Queste disposizioni non devono impedire i controlli e la manutenzione delle pulegge di frizione e dei pignoni. 
+ 
+
+ 12.4. Sistema di frenatura 
+ 
+
+ 12.4.1. Disposizioni generali 
+ 
+
+ 12.4.1.1. L'ascensore deve essere munito di un sistema si frenatura che agisca automaticamente: 
+ 
+
+ a) in caso di mancanza di corrente elettrica di alimentazione; 
+ 
+
+ b) in caso di mancanza di corrente di manovra. 
+ 
+
+ 12.4.1.2. Il sistema di frenatura deve avere obbligatoriamente un freno elettromeccanico (che agisca per frizione) ma può avere, inoltre, altri mezzi (per esempio elettrici). 
+ 
+
+ 12.4.2. Freno elettromeccanico 
+ 
+
+ 12.4.2.1. Questo freno deve essere capace di arrestare da solo il macchinario con la cabina alla velocità nominale e con la portata aumentata del 25%. 
+ 
+
+ In queste condizioni la decelerazione della cabina non deve essere maggiore di quella che si ha per intervento del paracadute o per urto sugli ammortizzatori. 
+ 
+
+ Tutti gli elementi meccanici del freno che contribuiscono ad esercitare l'azione frenante sul tamburo o sul disco devono essere installati in due esmplari e devono essere di dimensioni tali che, qualora uno di detti elementi non agisca sul tamburo o sul disco del freno, continui ad essere esercitata un'azione frenante sufficiente a rallentare la corsa della cabina con carico uguale alla portata. 
+ 
+
+ 12.4.2.2. L'organo sul quale agisce il freno deve essere collegato meccanicamente e direttamente alla puleggia di frizione (o tamburo, o pignone). 
+ 
+
+ 12.4.2.3. L'apertura del freno, in funzionamento normale, deve essere assicurata dall'azione permanente di una corrente elettrica. 
+ 
+
+ 12.4.2.3.1. L'interruzione di questa corrente deve essere effettuata con l'aiuto di almeno due dispositivi elettrici indipendenti, comuni o non a quelli che provocano l'interruzione della corrente di alimentazione al macchinario. 
+ 
+
+ Se al momento dell'arresto dell'ascensore uno dei contattori non ha aperto i contatti principali, una successiva partenza deve essere impedita, al più tardi alla successiva inversione del senso di marcia. 
+ 
+
+ 12.4.23.2. Quando il motore dell'ascensore può funzionare come generatore, deve essere impossibile che il circuito elettrico del freno venga alimentato dal motore di sollevamento. 
+ 
+
+ 
+ 
+
+ 12.4.2.3.3. La frenatura deve avvenire senza ritardo ausiliario, al momento dell'apertura del circuito elettrico del freno (l'impiego di un diodo o di un condensatore collegato direttamente ai morsetti della bobina del freno non è considerato come temporizzatore ausiliario). 
+ 
+
+ 12.4.2.4. Il freno della macchine provviste di un dispositivo di manovra di emergenza ad azione manuale (12.5.1) deve poter essere aperto a mano e deve essere mantenuto aperto esercitando uno sforzo continuo. 
+ 
+
+ 12.4.2.5. La pressione di frenatura deve essere esercitata da molle di compressione guidate o da pesi. 
+ 
+
+ 12.4.2.6. La frenatura deve effettuarsi con l'applicazione sul tamburo o disco del freno di almeno 2 ganasce, ceppi o pattini. 
+ 
+
+ 12.4.2.7. è vietato l'impiego di freni a nastro. 
+ 
+
+ 12.4.2.8. le guarnizioni dei freni devono essere incombustibili. 
+ 
+
+ 12.5. Manovra di emergenza 
+ 
+
+ 12.5.1. Se lo sforzo manuale necessario per spostare la cabina in salita, con carico uguale alla portata, non supera 400 N, il macchinario deve essere munito di un dispositivo di manovra di emergenza manuale, che permetta di riportare la cabina ad un piano mediante un volantino liscio. 
+ 
+
+ 12.5.1.1. Se questo volantino è amovibile, esso deve trovarsi in un luogo accessibile del locale del macchinario. Esso deve essere facilmente individuato se c'è il rischio di confusione circa la macchina cui esso è destinato. 
+ 
+
+ 12.5.1.2. Deve essere possibile controllare facilmente dal locale del macchinario se la cabina si trova in una zona di sblocco delle porte. 
+ 
+
+ Questo controllo può essere realizzato, per esempio, mediante segni sulle funi portanti o sulla fune del limitatore di velocità. 
+ 
+
+ 12.5.2. Se lo sforzo definito in 12.5.1. è maggiore di 400 N, deve essere prevista, nel locale del macchinario, una manovra elettrica di emergenza che sia conforme al 14.2.1.4. 
+ 
+
+ 12.6. Velocità 
+ 
+
+ Con la frequenza della rete al valore nominale e la tensione del motore uguale alla tensione nominale dell'impianto, la velocità della cabina misurata in discesa, con metà portata, nella zona mediana della corsa, con l'esclusione di tutti i periodi di accelerazione e decelerazione, non deve superare la velocità nominale di oltre il 5%6). 
+ 
+
+ 12.7. Arresto e controllo di arresto del macchinario 
+ 
+
+ L'arresto del macchinario per l'intervento di un dispositivo elettrico di sicurezza, conforme al 14.1.2, deve essere provocato come qui sotto indicato. 
+ 
+
+ 12.7.1. Motori alimentati direttamente da una rete a corrente 
+ 
+
+ alternata o continua 
+ 
+
+ L'alimentazione del motore deve essere interrotta da due contattori indipendenti, i cui contatti sono in serie nel circuito di alimentazione. 
+ 
+
+ Se, durante l'arresto dell'ascensore, uno dei contattori non ha aperto i contatti principali, una nuova partenza deve essere impedita, al più tardi al successivo cambiamento del senso di marcia. 
+ 
+
+ 12.7.2 Trazione con sistema Ward-Leonard 
+ 
+
+ 12.7.2.1. Eccitazione del generatore alimentato con elementi 
+ 
+
+ tradizionali 
+ 
+
+ Due contattori indipendenti devono interrompere: 
+ 
+
+ a) o l'anello motore-generatore; 
+ 
+
+ b) o l'eccitazione del generatore; 
+ 
+
+ c) o un contattore l'anello e l'altro l'eccitazione del generatore. 
+ 
+
+ Se, durante l'arresto dell'ascensore, uno dei contattori non ha aperto i contatti principali, una nuova partenza deve essere impedita, al più tardi al successivo cambiamento del senso di marcia. 
+ 
+
+ Nei casi b) e c), opportuni provvedimenti devono essere adottati per evitare la rotazione del motore per effetto del magnetismo residuo del generatore (per esempio: circuito suicida). 
+ 
+
+ 6) è buona regola che, nelle condizioni qui sopra esposte, la velocità dell'ascensore non sia minore di oltre l'8% della velocità nominale. 
+ 
+
+ 12.7.2.2. Eccitazione del generatore alimentato e controllato con 
+ 
+
+ elementi statici 
+ 
+
+ Deve essere usato uno dei metodi seguenti: 
+ 
+
+ a) quelli indicati in 12.7.2.1. 
+ 
+
+ b) un sistema comprendente: 
+ 
+
+ 1) un contattore che interrompa l'eccitazione del generatore o l'anello motore-generatore. Il contattore deve venire aperto almeno prima di ogni inversione del senso di marcia. Se il contattore non apre, una nuova partenza dell'ascensore deve essere impedita; 
+ 
+
+ 2) un dispositivo di controllo che blocchi il flusso di energia negli elementi statici; 
+ 
+
+ 3) un dispositivo di sorveglianza che verifichi il blocco del flusso di energia durante ogni arresto dell'ascensore. 
+ 
+
+ Se, durante un arresto normale, il blocco tramite gli elementi statici non è avvenuto, il dispositivo di sorveglianza deve aprire il contattore ed una nuova partenza dell'ascensore deve essere impedita. 
+ 
+
+ Opportuni provvedimenti devono essere presi per evitare la rotazione del motore per effetto del magnetismo residuo del generatore (per esempio: circuito suicida). 
+ 
+
+ 12.7.3. Motori in corrente alternativa o continua, alimentati e 
+ 
+
+ controllati da elementi statici 
+ 
+
+ Deve essere utilizzato uno dei metodi seguenti: 
+ 
+
+ a) due contattori indipendenti che interrompano l'alimentazione del motore. Se, durante l'arresto dell'ascensore, uno dei contattori non ha aperto i contatti principali, una nuova partenza deve essere impedita, al più tardi alla successiva inversione del senso di marcia; 
+ 
+
+ b) un sistema comprendente: 
+ 
+
+ 1) un contattore che interrompa l'alimentazione del motore su tutte le fasi. La bobina del contattore deve essere diseccitata almeno prima di ogni inversione del senso di marcia. 
+ 
+
+ Se il contattore non ricade, una nuova partenza dell'ascensore deve essere impedita; 
+ 
+
+ 2) un dispositivo di controllo che blocchi il flusso di energia negli elementi statici; 
+ 
+
+ 3) un dispositivo di sorveglianza che verifichi il blocco del flusso di energia durante ogni arresto dell'ascensore. 
+ 
+
+ Se, durante un arresto normale, il blocco tramite gli elementi statici non è avvenuto, il dispositivo di sorveglianza deve fare cadere il contattore e deve essere impedita una successiva partenza dell'ascensore. 
+ 
+
+ 12.8. Controllo del rallentamento della macchina, in caso di 
+ 
+
+ ammortizzatori con corsa ridotta secondo 10.4.3.2 
+ 
+
+ 12.8.1. Opportuni dispositivi devono verificare che il rallentamento è effettivamente in atto prima dell'arrivo ai piani esterni. 
+ 
+
+ 12.8.2. Se il rallentamento non è avvenuto, questi dispositivi devono provocare la riduzione della velocità per la quale gli ammortizzatori sono stati calcolati. 
+ 
+
+ 12.8.3. Se il controllo del rallentamento non è indipendente dal senso di marcia, un dispositivo deve controllare che il movimento della cabina corrisponda effettivamente al senso di marcia richiesto. 
+ 
+
+ 12.8.4. Se questi dispositivi, o parte di essi, sono disposti nel locale macchinario: 
+ 
+
+ a) essi devono essere azionati da un dispositivo collegato meccanicamente alla cabina; 
+ 
+
+ b) la conoscenza della posizione della cabina non deve dipendere da dispositivi mossi per aderenza, frizione o da dispositivi a sincronismo; 
+ 
+
+ c) se per la trasmissione della posizione della cabina nel locale macchinario è utilizzato un collegamento a nastro, catena o fune, la rottura o l'allentamento dell'organo di collegamento deve provocare l'arresto del macchinario per mezzo di un dispositivo elettrico di sicurezza conforme al 14.1.2. 
+ 
+
+ 12.8.5. Il comando e il funzionamento di questi dispositivi devono essere progettati in modo tale che dall'insieme, che essi costituiscono con gli elementi di funzionamento normale dell'ascensore, risulti un sistema di controllo del rallentamento che risponda alle prescrizioni indicate in 14.1.2. 
+ 
+
+ 12.9. Protezione dei macchinari 
+ 
+
+ Efficaci protezioni devono essere previste per le parti rotanti accessibili che possono essere pericolose e, in particolare: 
+ 
+
+ a) chiavette e bulloni negli alberi; 
+ 
+
+ b) nastri, catene, cinghie; 
+ 
+
+ c) ingranaggi, pignoni; 
+ 
+
+ d) alberi di moroti a sbalzo; 
+ 
+
+ e) limitatori di velocità tipo Watt. 
+ 
+
+ Fanno eccezione le pulegge di frizione, i volantini di manovra, le pulegge del freno e tutte le parti analoghe e rotonde e lisce. Queste parti devono essere verniciate in giallo, almeno parzialmente. 
+ 
+
+ 13. Installazione e apparecchiature elettriche 
+ 
+
+ 13.1. Disposizioni generali 
+ 
+
+ 13.1.1. Limiti di applicazione 
+ 
+
+ 13.1.1.1. Le prescrizioni della presente norma, relative all'installazione ed agli elementi costitutivi dell'apparecchiatura elettrica, si applicano: 
+ 
+
+ a) all'interruttore generale del circuito forza motrice e a quando è a valle di esso; 
+ 
+
+ b) all'interruttore del circuito di illuminazione della cabina a quanto è a valle di esso. 
+ 
+
+ L'ascensore deve essere considerato come un tutto unico, alla stesso modo di una macchina che fa l'apparecchiatura incorporata. 
+ 
+
+ 13.1.1.2. I regolamenti nazionali concernenti i circuiti elettrici di alimentazione di applicano fino ai morsetti di entrata degli interruttori di cui in 13.1.1.1. Essi si applicano a tutto il circuito di illuminazione dei locali del macchinario e delle pulegge, del vano di corsa e della fossa. 
+ 
+
+ 13.1.1.3. Le prescrizioni della presente norma, per quanto è a valle degli interruttori indicati in 13.1.1.1., sono basate, per quanto possibile tenendo conto delle esigenze proprie degli ascensori, su norme esistenti: 
+ 
+
+ - a livello internazionale: IEC; 
+ 
+
+ - a livello europeo: CENELEC. 
+ 
+
+ Tutte le volte che si fa rinvio ad una di queste norme, sono forniti riferimenti precisi, assieme ai limiti entro i quali ci si richiama.
+ 
+
+ Per quello che non è stato precisato, i materiali elettrici impiegati devono rispondere ai criteri della buona tecnica in materia di sicurezza. 
+ 
+
+ 13.1.1.4. L'impianto elettrico degli ascensori deve: 
+ 
+
+ a) soddisfare alle indicazioni contenute nei documenti armonizzati del Comitato europeo di normalizzazione elettrica (CENELEC) approvata dal Comitato elettronico italiano. 
+ 
+
+ b) in mancanza dei documenti armonizzati di cui al punto a) concernenti l'installazione di apparecchiature elettriche, soddisfare alle indicazioni contenute nelle norme del Comitato elettronico italiano (CEI). 
+ 
+
+ 13.1.2. "Nei locali delle macchine e delle pulegge è necessario una protezione dai contatti diretti per mezzo di involucri che abbiano un grado di protezione IP2X". 
+ 
+
+ 13.1.3. La resistenza di isolamento tra conduttori e tra conduttori e terra deve essere maggiore di 1 000 (immagine) con un numero di 7): 
+ 
+
+ a) 500 000 (immagine), per i circuiti di forza motrice e i circuiti dei dispositivi elettrici di sicurezza; 
+ 
+
+ b) 250 000 (immagine), per gli altri circuiti (comando, illuminazione, segnali, ecc). 
+ 
+
+ 13.1.4. Il valore medio per corrente continua o il valore efficace per corrente alternata della tensione tra conduttori oppure tra conduttori e terra non deve essere maggiore di 250 V per i circuiti di comando e di sicurezza. 
+ 
+
+ 13.1.5. I conduttori di neutro e i conduttori di protezione devono essere sempre distinti. 
+ 
+
+ 7) Questi valori sono provvisori e saranno uniformati a quelli che saranno adottati dal Comitato 64 del CENELEC. 
+ 
+
+ 13.2. Contattori, contattori ausiliari, componenti dei circuiti di 
+ 
+
+ sicurezza 
+ 
+
+ 13.2.1. Contattori e contattori ausiliari 
+ 
+
+ 13.2.1.1. I contattori principali, cioè quelli necessari all'arresto del macchinario secondo 12.7., devono appartenere alle seguenti categorie, come definite in CENELEC HD 419 (IEC 158-1, mod.): 
+ 
+
+ a) AC-3, se si tratta di contattori per motori alimentati in corrente alternata; 
+ 
+
+ b) DC-2, se si tratta di contattori di potenza per corrente continua. 
+ 
+
+ Questi contattori inoltre devono permettere di effettuare il 10% di manovra ad impulsi. 
+ 
+
+ 13.2.1.2. Se, a causa della potenza da trasmettere, si devono impiegare contattori ausiliari per il comando dei contattori principali, essi devono appartenere alle seguenti categorie, come definite in CENELEC HD 420 (IEC 337/1 mod.): 
+ 
+
+ a) AC-11, se si tratta di comandare bobine a corrente alternata; 
+ 
+
+ b) DC-11, se si tratta di comandare bobine a corrente continua. 
+ 
+
+ 13.2.1.3. Sia per i contattori principali di cui in 13.2.1.1. sia per i contattori ausiliari di cui in 13.2.1.2. si può ritenere, nella applicazione delle misure prese per soddisfare il 14.1.1.1, che: 
+ 
+
+ a) se uno dei contatti di riposo (normalmente chiusi) è chiuso, tutti i contatti di lavoro siano aperti; 
+ 
+
+ b) se uno dei contatti di lavoro (normalmente aperti) è chiuso, tutti i contatti di riposo siano aperti. 
+ 
+
+ 13.2.2. Componenti dei circuiti di sicurezza 
+ 
+
+ 13.2.2.1. Quando si impiegano apparecchi conformi al 13.2.1.2. come relè in un circuito di sicurezza, si applicano ugualmente le ipotesi di cui in 13.2.1.3. 
+ 
+
+ 13.2.2.2. Se i relè impiegati sono tali che i contatti di riposo e di lavoro non sono chiusi contemporaneamente per nessuna posizione dell'armatura, si può considerare la possibilità dell'attrazione parziale dell'armatura mobile (14.1.1.1 f). 
+ 
+
+ 13.2.2.3. Se alcune apparecchiature sono inserite a valle dei circuiti elettrici di sicurezza, esse devono rispondere alle prescrizioni di cui in 14.1.2.2.2. per quanto riguarda le linee di fuga e le distanze in aria (non le distanze di apertura). 
+ 
+
+ Questa prescrizione non si applica alle apparecchiature considerate in 13.2.1.1, 13.2.1.2 e 13.2.2.1 che rispondono alle prescrizioni CENELEC HD 419 (IEC 158-1 mod.) e CENELEC HD 420 (IEC 337-1 mod.). 
+ 
+
+ 13.3. Protezioni dei motori 
+ 
+
+ 13.3.1. I motori collegati direttamente alla rete devono essere protetti contro i cortocircuiti. 
+ 
+
+ 13.3.2. I motori collegati direttamente alla rete devono essere protetti contro i sovraccarichi mediante dispositivi di interruzione automatica a riarmo manuale (ad eccezione dei dispositivi di cui al 13.3.3) che devono interrompere su tutti i conduttori attivi l'alimentazione del motore. 
+ 
+
+ 13.3.3. Se il rilevamento dei sovraccarichi viene effettuato in funzione dell'aumento della temperatura degli avvolgimenti del motore, il dispositivo di interruzione può essere chiuso automaticamente dopo un sufficiente raffreddamento. 
+ 
+
+ 13.3.4. Le disposizioni di cui in 13.3.2 e 13.3.3 si applicano ad ogni avvolgimento se il motore comporta avvolgimenti alimentati da circuiti diversi. 
+ 
+
+ 13.3.5. Se i motori di sollevamento sono alimentati da generatori a corrente continua azionati da motori, anche i motori di sollevamento devono essere protetti contro i sovraccarichi. 
+ 
+
+ 13.4. Interruttori generali 
+ 
+
+ 13.4.1. I locali del macchinario devono avere, per ciascun ascensore, un interruttore generale atto ad interrompere, su tutti i conduttori attivi, l'alimentazione dell'ascensore. Questo interruttore deve essere dimensionato per la maggior intensità di corrente prevista nel funzionamento normale dell'ascensore. 
+ 
+
+ Questo interruttore non deve interrompere i circuiti che alimentano:
+ 
+
+ a) l'illuminazione della cabina e la sua eventuale ventilazione; 
+ 
+
+ b) la presa di corrente sul tetto della cabina; 
+ 
+
+ c) l'illuminazione dei locali del macchinario e delle pulegge di rinvio; 
+ 
+
+ d) la presa di corrente nel locale del macchinario; 
+ 
+
+ e) l'illuminazione dell'interno del vano di corsa; 
+ 
+
+ f) il dispositivo di allarme. 
+ 
+
+ 13.4.2. Gli interruttori generali di cui in 13.4.1 devono avere posizioni stabili di chiusura e apertura. 
+ 
+
+ L'organo di comando dell'interruttore generale deve essere rapidamente e facilmente accessibile dal o dagli accessi al locale del macchinario. Esso deve permettere di identificare facilmente l'ascensore cui si riferisce, quando il locale del macchinario è comune a più ascensori. 
+ 
+
+ Nota - Se il locale del macchinario ha più accessi, oppure 
+ 
+
+ se per uno stesso ascensore esistono più locali del 
+ 
+
+ macchinario ciascuno con il suo accesso, può essere 
+ 
+
+ impiegato un contattore telecomandato la cui apertura deve 
+ 
+
+ essere comandata da un dispositivo elettrico di sicurezza, 
+ 
+
+ rispondente al 14.1.2, inserito nel circuito di 
+ 
+
+ alimentazione della bobina del contattore telecomandato. La 
+ 
+
+ richiusura del detto contattore deve poter essere 
+ 
+
+ effettuata solo per mezzo del dispositivo che ne ha 
+ 
+
+ provocato l'apertura. Questo contattore deve avere in serie 
+ 
+
+ un interruttore a comando manuale. 
+ 
+
+ 13.4.3. Nel caso di una batteria di ascensori, se dopo l'apertura di un interruttore generale di un ascensore una parte dei circuiti di manovra resta in tensione, questi circuiti devono poter essere interrotti separatamente dal locale del macchinario, se necessario interrompendo l'alimentazione di tutti gli ascensori della batteria.
+ 
+
+ 13.4.4. Gli eventuali condensatori, disposti per correggere il fattore di potenza, devono essere collegati a monte dell'interruttore generale del circuito forza motrice. 
+ 
+
+ Nota - Se sono da temare sovratensioni, per esempio quando 
+ 
+
+ i motori sono alimentati da linee elettriche di grande 
+ 
+
+ lunghezza, l'interruttore del circuito di forza motrice 
+ 
+
+ deve interrompere anche il collegamento dei condensatori. 
+ 
+
+ 13.5. Condutture elettriche 
+ 
+
+ 13.5.1. Nei locali del macchinario, delle pulegge di rinvio e nei vani di corsa degli ascensori i conduttori ed i cavi (con l'eccezione dei cavi flessibili) devono essere scelti tra quelli normalizzati dal CENELEC e di qualità almeno equivalente a quella definita dai documenti HD 21-S2 e HD 22-S2, tenendo conto delle indicazione del 13.1.1.3. 
+ 
+
+ 13.5.1.1. I conduttori rispondenti al CENELEC HD 21-3 S2 parti 2 (HO7V-U e HO7V-R), 3 (HO7V-K), 4 (HO5V-U) e 5 (HO5V-K), possono essere impiegati per tutti i circuiti ad eccezione dei circuiti di forza motrice del macchinario, purchè siano installati in tubi (o canalette) metallici oppure di materia plastica oppure essere protetti con sistemi equivalenti. 
+ 
+
+ Nota - Queste norme sostituiscono quelle relative alla 
+ 
+
+ guida per l'impiego di cui all'appendice 1 del documento 
+ 
+
+ CENELEC HD 21.1 S2. 
+ 
+
+ 13.5.1.2. I cavi rigidi conformi al punto 2 del CENELEC HD 21-4 S2 possono essere impiegati solo in installazione fissa in vista sulle pareti del vano di corsa (o del locale del macchinario) o installati in tubi, canalette o dispositivi analoghi. 
+ 
+
+ 13.5.1.3. I cavi flessibili normali, conformi al 3 (HO5RR-F) del CENELEC HD 22.4 S2 e al 5 (HO5VV-F) del CENELEC HD 21.5 S2, possono essere impiegati solo in tubi, canalette o dispositivi che assicurino una protezione equivalente. 
+ 
+
+ I cavi flessibili muniti di guaina spessa, quali quelli conformi al 5 del CENELEC HD 22.4 S2, possono essere impiegati come cavi rigidi, nelle condizioni specificate in 13.5.1.2, e per il collegamento ad un apparecchio mobile (ad eccezione della cabina) oppure sottoposto a vibrazioni. 
+ 
+
+ I cavi flessibili rispondenti ai CENELEC HD 359 e HD 360 sono ammessi come cavi di collegamento con la cabina, nei limiti stabiliti dai documenti stessi. In ogni caso i cavi scelti devono presentare caratteristiche almeno equivalenti. 
+ 
+
+ 13.5.1.4. Le disposizioni di cui in 13.5.1.1, 13.5.1.2 e 13.5.1.3 possono non essere applicate: 
+ 
+
+ a) a conduttori e cavi non collegati ai dispositivi elettrici di sicurezza dalle porte dei piani, a condizione che: 
+ 
+
+ 1) non sia sviluppata una potenza nominale maggiore di 100 VA; 
+ 
+
+ 2) la tensione tra poli (o fasi) o tra un polo (o una delle fasi) e la terra, a cui essi sono normalmente sottoposti, sia minore od uguale a 50 V; 
+ 
+
+ b) al collegamento dei dispositivi di manovra o di comando negli armadi o sui quadri: 
+ 
+
+ 1) sia tra i vari apparecchi elettrici; 
+ 
+
+ 2) sia tra gli apparecchi e i morsetti di collegamento. 
+ 
+
+ 13.5.2. Sezione dei conduttori 
+ 
+
+ La sezione dei conduttori elettrici di sicurezza delle porte non deve essere minore di 0,75 mm2. 
+ 
+
+ 13.5.3. Installazione 
+ 
+
+ 13.5.3.1. L'installazione elettrica deve essere provvista delle indicazioni necessarie per facilitarne la comprensione. 
+ 
+
+ 13.5.3.2. Le connessioni, i morsetti di collegamento, i connettori, ad eccezione dalle parti indicate in 13.1.2, devono trovarsi in armadi, scatole oppure su quadri appositamente previsti. 
+ 
+
+ 13.5.3.3. Quando, dopo l'apertura del o degli interruttori generali di un ascensore, alcuni morsetti di collegamento restano sotto tensione, essi devono essere nettamente separati dai morsetti che non sono più in tensione e, se la tensione è maggiore di 50 V, devono essere adeguatamente contrassegnati. 
+ 
+
+ 13.5.3.4. I morsetti di collegamento, la cui connessione fortuita può dare luogo ad un funzionamento pericoloso dell'ascensore, devono essere nettamente separati, salvo il caso che la loro costituzione impedisca questo rischio. 
+ 
+
+ 13.5.3.5. Allo scopo di assicurare la continuità della protezione meccanica, i rivestimenti di protezione dei conduttori e dei cavi devono penetrare all'interno delle scatole degli interruttori o apparecchi oppure avere un adeguato manicotto alle estremità. 
+ 
+
+ Nota - Le intelaiature chiuse delle porte dei piani e della 
+ 
+
+ cabina sono considerate come scatole di apparecchi. 
+ 
+
+ Tuttavia, se esistono rischi di deterioramento meccanico 
+ 
+
+ determinato da elementi in movimento o da risalti 
+ 
+
+ dell'intelaiatura stessa, i conduttori collegati ai 
+ 
+
+ dispositivi elettrici di sicurezza devono essere protetti 
+ 
+
+ meccanicamente. 
+ 
+
+ 13.5.3.6. Se uno stesso tubo o cavo contiene conduttori collegati a circuiti con tensione diversa, tutti i conduttori o cavi devono avere l'isolamento corrispondente alla tensione più elevata. 
+ 
+
+ 13.5.4. Connettori 
+ 
+
+ Gli apparecchi e i dispositivi collegabili posti sui circuiti dei dispositivi di sicurezza devono essere progettati e realizzati in modo che, se il loro disinserimento non richiede un utensile, sia impossibile inserire la spina in posizione errata. 
+ 
+
+ 13.6. Illuminazione e prese di corrente 
+ 
+
+ 13.6.1. L'alimentazione dell'illuminazione elettrica della cabina, del vano di corsa, del locale del macchinario e del locale pulegge deve essere indipendente dall'alimentazione del macchinario, sia mediante un altro circuito sia mediante connessione al circuito che alimenta il macchinario a monte dell'interruttore generale (e degli interruttori generali) previsto in 13.4. 
+ 
+
+ 13.6.2. L'alimentazione delle prese di corrente previste sul tetto della cabina, nel locale del macchinario e delle pulegge di rinvio e nella fossa deve essere assicurata dai circuiti indicati in 13.6.1. 
+ 
+
+ Queste prese di corrente devono essere: 
+ 
+
+ - sia prese tipo 2P + PE, a 250 V, alimentate direttamente; 
+ 
+
+ - sia prese alimentate a tensione di sicurezza secondo CENELEC HD 384.4.41 punto 411. 
+ 
+
+ Nota - L'impiego delle prese di corrente sopra indicate non 
+ 
+
+ presuppone che il cavo di almentazione abbia una sezione 
+ 
+
+ corrispondente alla corrente nominale della presa di 
+ 
+
+ corrente; la sezione dei conduttori può essere molto 
+ 
+
+ minore, a condizione che i conduttori siano correttamente 
+ 
+
+ protetti contro le sovracorrenti. 
+ 
+
+ 13.6.3. Apertura dei circuiti di illuminazione e circuiti di 
+ 
+
+ alimentazione delle prese di corrente 
+ 
+
+ 13.6.3.1. Un interruttore deve permettere di interrompere l'alimentazione del circuito della cabina (se nel locale esistono più macchine è necessario un interruttore per ciascuna cabina).
+ 
+
+ Questo interruttore deve essere disposto in prossimità dell'interruttore generale di forza motrice corrispondente. 
+ 
+
+ 13.6.3.2. Un interruttore deve permettere di interrompere l'alimentazione del circuito del locale del macchinario, del vano di corsa e della fossa. 
+ 
+
+ Questo interruttore deve essere disposto nel locale del macchinario, in prossimità del suo accesso. 
+ 
+
+ 13.6.3.3. Ciascuno dei circuiti interrotti dagli interruttori in 13.6.3.1. e 13.6.3.2 deve avere la propria protezione. 
+ 
+
+ 14. Protezione contro i guasti elettrici, comandi e precedenze 
+ 
+
+ 14.1 Protezione contro i guasti elettrici 
+ 
+
+ 14.1.1. Disposizioni generali 
+ 
+
+ Uno dei gusti nell'impianto elettico di un ascensore indicati in 14.1.1.1. non deve, da solo, dare luogo ad un funzionamento pericoloso dell'ascensore. 
+ 
+
+ 14.1.1.1. Guasti previsti: 
+ 
+
+ a) mancanza di tensione; 
+ 
+
+ b) diminuzione di tensione; 
+ 
+
+ c) interruzione nella continuit di un conduttore; 
+ 
+
+ d) difetto di isolamento verso massa oppure terra; 
+ 
+
+ e) corto circuito o interruzione di un componente elettrico quale resistenza, condensatore, transitore, lampada; 
+ 
+
+ f) mancata attrazione incompleta della armatura mobile di un contattore o di un relè; 
+ 
+
+ g) mancata caduta dell'armatura mobile di un contattore o di un relè; 
+ 
+
+ h) mancata apertura di un contatto; 
+ 
+
+ i) mancata chiusura di un contatto; 
+ 
+
+ j) inversione di fase. 
+ 
+
+ 14.1.1.2. L'ipotesi della mancata apertura di un contatto non può essere prevista se si tratta di contatti di sicurezza rispondenti alle prescrizioni di cui in 14.1.2.2. 
+ 
+
+ 14.1.1.3. Una massa a terra in un circuito in cui esiste un dispositivo elettico di sicurezza deve: 
+ 
+
+ a) o determinare immediatamente l'arresto del macchinario; 
+ 
+
+ b) oppure impedire l'avvio del macchinario dopo il primo arresto normale. 
+ 
+
+ La rimessa in funzione deve essere possibile soltanto se effettuata da persona competente. 
+ 
+
+ 14.1.2. Dispositivi elettrici di sicurezza 
+ 
+
+ 14.1.2.1. Disposizioni generali 
+ 
+
+ 14.1.2.1.1. Dopo l'intervento di uno dei sispositivi elettrici di sicurezza indicati nell'appendice A, deve essere impedito l'avviamento del macchinario oppure deve essere determinato immediatamente il suo arresto, come detto in 14.1.2.4. 
+ 
+
+ I dispositivi elettrici di sicurezza devono essere costituiti: 
+ 
+
+ a) o da uno o più contatti di sicurezza rispondenti al 14.1.2.2., che interrompono direttamente l'alimentazione dei contattori previsti in 12.7 o dei loro contattori ausiliari; 
+ 
+
+ b) oppure da circuiti di sicurezza rispondenti al 14.1.2.3. che comportano: 
+ 
+
+ 1) o uno o più contatti di sicurezza rispondenti al 14.1.2.2. che non interrompono direttamente nell'alimentazione dei contattori previsti in 12.7 o dei loro contattori ausiliari; 
+ 
+
+ 2) oppure contatti che non rispondono alle prescrizioni del 14.1.2.2. 
+ 
+
+ 14.1.2.1.2. 
+ 
+
+ 14.1.2.1.3. Salvo eccezioni previste nella presente norma nessun apparecchio elettrico deve essere collegato in parallelo ad un dispositivo elettrico di sicurezza. 
+ 
+
+ 14.1.2.1.4. I disturbi per induzione o capacità propri od esterni non devono dare luogo al mancato intervento dei dispositivi elettrici di sicurezza. 
+ 
+
+ 14.1.2.1.5. Un segnale in uscita che deriva da un dispositivo elettrico di sicurezza non deve essere modificato da un segnale parassita che derivi da un altro dispositivo elettrico collegato a valle, in modo che ne risulti una condizione di pericolo. 
+ 
+
+ 14.1.2.1.6. Nei circuiti di sicurezza aventi due o più canali paralleli tutte le informazioni ad eccezione di quelle necessarie per il controllo di parità devono essere prelevate su uno stesso canale. 
+ 
+
+ 14.1.2.1.7. I circuiti di registrazione o di temporizzazione non devono, anche in caso di guasto, impedire o ritardare sensibilmente l'arresto del macchinario quando interviene un dispositivo elettrico di sicurezza. 
+ 
+
+ 14.1.2.1.8. La costruzione e l'inserimento dei dispositivi interni di alimentazione di corrente devono evitare la comparsa di sengali falsi alle uscite dei dispositivi elettrici di sicurezza dovuti agli effetti delle commutazioni. 
+ 
+
+ In particolare le punte di tensione, dovute al normale funzionamento dell'ascensore o delle altre apparecchiature collegate alla rete, non devono dare luogo a disturbi inammissibili nei componenti elettronici (immunità ai rumori). 
+ 
+
+ 14.1.2.1.9. L'appendice A specifica i tipi di dispositivi elettrici di sicurezza che possono essere impiegati in ciascun caso. 
+ 
+
+ 14.1.2.2. Contatti di sicurezza 
+ 
+
+ 14.1.2.2.1. Il funzionamento di un contatto di sicurezza deve avvenire mediante separazione a distacco obbligato dagli organi di interruzione. Tale separazione deve verificarsi anche se si sono saldati. 
+ 
+
+ La manovra di apertura a distacco obbligato è ottenuta quando tutti gli elementi dei contatti di apertura sono portati alla loro posizione di apertura e quando per una parte essenziale della corsa non viè nessun collegamento deformabile (per esempio, molle) tra i contatti mobili ed il punto dell'organo di comando cui si applica lo sforzo di comando. 
+ 
+
+ La progettazione deve essere tale che i rischi di corto circuito derivanti dal guasto di un componente siano ridotti al minimo. 
+ 
+
+ 14.1.2.2.2. I contatti devono essere previsti per una tensione nominale di isolmaneto di 250 V se gli involucri assicurano un grado di protezione di almeno IP4X, oppure di 550 V se il grado di protezione degli involucri è minore di IP4X. 
+ 
+
+ I contatti di sicurezza devono appartenere alle seguenti categorie definite nella pubblicazione CENELEC HD 420 (IEC 337-1 mod); 
+ 
+
+ a) AC 11 se si tratta di contatti di sicurezza inseriti in circuiti alimentati con corrente alternata; 
+ 
+
+ b) DC 11 se si tratta di contatti di sicurezza inseriti in circuiti alimentati con corrente continua. 
+ 
+
+ 14.1.2.2.3. Se gli involucri di protezione non sono del grado IPAX, le distanze in aria e linee di fuga devono essere di almeno 6 mm e le distanze di apertura dei contatti di almeno 4 mm, dopo l'apertura. 
+ 
+
+ Le parti in tensione dei contatti di sicurezza devono essere provviste di involucri di protezione. Tuttavia questa prescrizione non è obbligatoria nelle condizioni di influenza esterna considerate normali secondo il documento di armonizzazione elaborato dal CE 64 del CENELEC (attualmente art. 32 della pubblicazione IEC 364). 
+ 
+
+ 14.1.2.2.5. L'abrasione di un materiale conduttore non deve determinare il corto circuito dei contatti. 
+ 
+
+ 14.1.2.3. Circuiti di sicurezza 
+ 
+
+ 14.1.2.3.1. 
+ 
+
+ 14.1.2.3.2. I circuiti di sicurezza devono rispondere alle prescrizioni di cui in 14.1.1. relative all'apparizione di un guasto. 
+ 
+
+ 14.1.2.3.3. Inoltre: 
+ 
+
+ a) se un guasto, aggiunto ad un secondo guasto, può determinare una condizione di pericolo; l'ascensore deve essere arrestata al più tardi in occasione della successiva sequenza a cui il primo elemento difettoso dovrebbe partecipare. Qualsiasi funzionamento successivo deve essere impossibile per tutto il tempo in cui il guasto permane.
+ 
+
+ L'eventualità che il secondo guasto si manifesti dopo il primo, prima che l'ascensore sia posto fuori servizio della citata sequenza, non è considerata; 
+ 
+
+ b) se una condizione di pericolo può determinare soltanto a seguito della combinazione di più guasti, la messa e il mantenimento fuori servizio dell'ascensore deve avvenire al più tardi prima dell'eventuale manifestarsi del guasto che, aggiunto ai guasti già esistenti, darebbe luogo alla situazione di pericolo; 
+ 
+
+ c) dopo una interruzione della tensione di alimentazione, non è richiesto che l'ascensore rimanga fuori servizio, purchè esso ritorni nei casi indicati in 14.1.2.3.3. a) e b) in occasione della successiva sequenza; 
+ 
+
+ d) nel caso dei circuiti a ridonanza vanno prese le misure opportune per limitare, per quanto possibile, il rischio che in più di un circuito si verifichino simultaneamente dei guasti dovuti ad un'unica causa. 
+ 
+
+ 14.1.2.4. Funzionamento dei dispositivi elettrici di sicurezza 
+ 
+
+ Quando intervengono per garantire la sicurezza, i dispositivi elettrici di sicurezza devono impedire l'avviamento del macchinario o determinare immediatamente il suo arresto. Allo stesso modo deve essere impedita l'alimentazione elettrica del freno. 
+ 
+
+ I dispositivi elettrici di sicurezza devono intervenire sulle apparecchiature che controllano l'alimentazione del macchinario, secondo le prescrizioni del 12.7. 
+ 
+
+ Se, a causa della potenza da trasmettere, sono impiegati per comando del macchinario contattori ausiliari, questi devono essere considerati come apparecchi che controllano direttamente l'alimentazione del macchinario, per la partenza e per l'arresto. 
+ 
+
+ 14.1.2.5. Comando dei dispositivi elettrici di sicurezza 
+ 
+
+ Gli organi che comandano i dispositivi elettrici di sicurezza devono essere realizzati in modo da poter continuare a funzionare, anche se sono sottoposti alle sollecitazioni meccaniche derivanti da un funzionamento continuo. 
+ 
+
+ Se gli organi che comandano i dispositivi elettrici di sicurezza sono,, per la loro posizione, accessibili a persone, essi devono essere realizzati in modo che i dispositivi elettrici di sicurezza non possano essere resi inefficaci per mezzo di sistemi semplici. 
+ 
+
+ Nota - Un magnete o un ponte eletrrico non sono considerati 
+ 
+
+ sistemi semplici. 
+ 
+
+ Se alcuni circuiti di sicurezza sono ridondanti, ci si deve assicurare, mediante la disposizione meccanica o geometrica degli elementi di trasmissione agli organi di entrata, che in caso di guasto meccanico non si produca alcuna perdita di ridonanza che possa non essere avvertita. 
+ 
+
+ Gli elementi trasmettitori dei circuiti di sicurezza devono, indipendentemente dalla direzione, resistere a vibrazioni di forma sinusoidale la cui frequenza f resta compresa tra 1 e 50 Hz e la cui ampiezza a (mm) è data in funzione di f, dai rapporti: 
+ 
+
+ 
+ 
+
+ 
+ 25 
+ 
+
+ 
+ a= ----- per 1 minore di f minore o uguale di 10 Hz 
+ 
+
+ 
+ f 
+ 
+
+ 
+ 250 
+ 
+
+ 
+ b= ----- per 10 minore di f minore o uguale di 50 Hz 
+ 
+
+ 
+ 
+
+ Gli elementi trasmettitori dei circuiti di sicurezza montati su cabine o su porte devono, indipendentemente dalla direzione, resistere ad una accellerazione di (immagine) 30 m/s2. 
+ 
+
+ Nota - Se sono previsti dispositivi ammortizzatori per elementi trasmettitori, essi devono essere considerati come facenti parte degli elementi trasmettitori. 
+ 
+
+ 14.2. Comandi 
+ 
+
+ 14.2.1. Comandi di movimento 
+ 
+
+ I comandi di movimento devono essere dati elettricamente. 
+ 
+
+ 14.2.1.1. Manovra normale 
+ 
+
+ I comandi devono essere dati per mezzo dei bottoni. 
+ 
+
+ Questi devono essere disposti in bottoniere, in modo che nessuna parte sotto tensione sia accessibile. 
+ 
+
+ L'impiego di cavi, funi o aste come dispositivo di comando tra la cabina e il locale, del macchinario è permesso soltanto nei casi molto speciali (atmosfera molto umida, corrosiva o esplosiva). 
+ 
+
+ 14.2.1.2. Manovra di livellamento e autolivellamento con porte aperte Nel caso particolare previsto in 7.7.2.2. a) il movimento della cabina con porte di piano e di cabina aperte è ammesso per il livellamento e l'autolivellamento a condizione che: 
+ 
+
+ a) questo spostamento sia limitato alla zona di sbloccaggio delle porte (7.7.2.2. a): 
+ 
+
+ 1) ogni movimento della cabina al di fuori della zona di sbloccaggio delle porte deve essere impedito da almeno un dispositivo che interrompa il circuito che ha escluso i dispositivi di sicurezza e di controllo del bloccaggio delle porte; 
+ 
+
+ 2) questo dispositivo di interruzione deve essere: 
+ 
+
+ - o un contatto di sicurezza rispondete al 14.1.2.2; 
+ 
+
+ - oppure collegato in modo da rispondere alle prescrizioni relative ai circuiti di sicurezza di cui in 14.1.2.3.; 
+ 
+
+ 3) se il funzionamento del dispisitivo di interruzione dipende da un organo collegato meccanicamente e indifferentemente alla cabina (per esmpio a mezzo fune, cinghia o catena), la rottura o l'allentamento dell'organo di collegamento deve comandare l'arresto del macchinario per mezzo di un dispositivo elettrico di sicurezza rispondete al 14.1.2.; 
+ 
+
+ 4) durante il livellamento, il dispositivo che rende inefficaci i dispositivi elettrici di sicurezza delle porte deve intervenire soltanto qunado è stato comandato l'arresto ad un piano; 
+ 
+
+ b) la velocità di livellamento non sia maggiore di 0,8 m/s. Negli ascensori le cui porte di piano sono a manpovra manuale deve essere controllato: 
+ 
+
+ 1) per le macchine la cui velocità massima di rotazione è determinata dalla frequenza di rete, che sia effettivamente inserito il comando a bassa velocità; 
+ 
+
+ 2) per le altre macchine, che la velocità al momento in cui si raggiunge la zona di sblocaggio delle porte non sia maggiore di 0,8 m/s; 
+ 
+
+ c) la velocità di autolivellamento non sia maggiore di 0,3 m/s. Si deve controllare che: 
+ 
+
+ 1) per le macchine la cui velocità massima di rptazione è determinata dalla frequenza di rete, sia effettivamente inserito il comando della bassa velocità; 
+ 
+
+ 2) per le macchine i cui circuiti di forza motrice sono alimentati da convertitori statici, la velocità di autolivellamento non sia maggiore di 0,3 m/s. 
+ 
+
+ 14.2.1.3. Manovra di ispezione 
+ 
+
+ Allo scopo di rendere agevoli le operazioni di ispezione di manutenzione, sul tutto della cabina deve essere installato un dispositivo di comando facilmente accessibile. L'inserzione di questo dispositivo (commutatore di manutenzione) deve avvenire mediante un commutatore rispondente alle prescrizioni relative ai dispositivi elettrici di sicurezza (14.1.2.). 
+ 
+
+ Questo commutatore deve essere bistabile e deve essere protetto contro l'azionamento accidentale. 
+ 
+
+ Le seguenti prescrizioni devono essere osservate contemporaneamente:
+ 
+
+ a) l'inserzione della manovra di ispezione deve escludere: 
+ 
+
+ 1) l'effeto dei comandi normali, compreso quello per il funzionamento delle eventuali porte automatiche; 
+ 
+
+ 2) la manovra elettrica di emergenza (14.2.1.4.); 
+ 
+
+ 3) la manovra per la fermata ausiliaria sopra il livello del piano (14.2.1.5.). 
+ 
+
+ La rimessa in funzionamento normale dell'ascensore deve avvenire soltanto a seguito di una azione sul commutatore di ispezione. 
+ 
+
+ Se i dispositivi di commutazione impiegati per questa esclusione non sono i contatti di sicurezza solidali con la manovra del commutatore di ispezione, occorre prendere i provvedimenti necessari affinchè sia impedito qualsiasi movimento involontario della cabina anche quando si manifesta nel circuito uno dei guasti indicati in 14.1.1.1.; 
+ 
+
+ b) il movimento della cabina deve essere determinato dalla pressione permanente di un bottone, protetto contro qualsiasi azionamento accidentale, il senso del movimento deve essere chiaramente indicato; 
+ 
+
+ c) il dispositivo di comando deve comprendere un dispositivo di arresto conforme al 14.2.2.; 
+ 
+
+ d) il movimento della cabina deve avvenire ad una velocità non maggiore di 0,63 m/s; 
+ 
+
+ e) le posizioni estreme di funzionamento normale non devono essere superate; 
+ 
+
+ f) il funzionamento dell'ascensore deve rimanere sotto il controllo dei dispositivi di sicurezza. 
+ 
+
+ Il dispositivo di comando può anche comprendere interruttori speciali, protetti contro qualsiasi azionamento accidentale, per il comando del meccanismo di azionamento delle porte dal tetto della cabina. 
+ 
+
+ 14.2.1.4. Manovra elettrica di emergenza 
+ 
+
+ Per le macchine in cui lo sforzo manuale per spostare in salita la cabina con carico uguale alla portata è maggiore di 400 N, deve essere installato nel locale del macchinario un commutatore di emergenza rispondente al 14.1.2. L'alimentazione della macchina deve derivare dalla normale rete di alimentazione forza motrice o, eventualmente, da un circuito di emergenza, se esiste. 
+ 
+
+ 14.2.1.4.1. L'inserzione del commutatore di emergenza deve permettere di comandare il movimento della canina dal locale del macchinario mediante pressione permanente su bottoni, protetti contro ogni azionamento accidentale. Il senso del movimento deve essere chiaramente indicato. 
+ 
+
+ 14.2.1.4.2. Dopo l'inserzione del commutatore di emergenza, deve essere impedito qualsiasi movimento della cabina, che non sia quello comandato da questo commutatore. 
+ 
+
+ 14.2.1.4.3. Il commutatore di emergenza può rendere inefficaci, direttamente o per mezzo di un altro dispositivo elettrico di sicurezza, i dispositivi elettrici di sicurezza previsti in 9.9.11.1 e 9.9.11.2 sul limitatore di velocità. 
+ 
+
+ 14.2.1.4.4. Il commutatore di emergenza può rendere inefficaci, direttamente o per mezzo di un altro dispositivo elettrico di sicurezza, i seguenti dispositivi elettrici di sicurezza: 
+ 
+
+ a) quelli installati sul paracadute, secondo 9.8.8; 
+ 
+
+ b) quelli installati sugli ammortizzatori, secondo 10.4.3.4; 
+ 
+
+ c) i dispositivi di extracorsa di sicurezza, secondo 10.5. 
+ 
+
+ 14.2.1.4.5. Il commutatore di emergenza e i suoi pulsanti devono essere disposti in modo che chi li manovra possa osservare agevolmente il macchinario. 
+ 
+
+ 14.2.1.4.6. Il movimento della cabina deve avvenire a velocità non maggiore di 0,63 m/s. 
+ 
+
+ 14.2.1.5. Manovra per la fermata ausiliaria sopra il livello del 
+ 
+
+ piano 
+ 
+
+ Nel caso particolare previsto in 7.7.2.2 b) è consentito il movimento della cabina con porte di piano e di cabina aperte, allo scopo di permettere il carico e lo scarico degli ascensori da parte di persone autorizzate ed esperte (introduzione generale 0.6.2) alle seguenti condizioni: 
+ 
+
+ a) il movimento della cabina deve essere possibile soltanto per un'altezza massima di 1,65 m al disopra del livello del corrispondente piano; 
+ 
+
+ b) il movimento della cabina deve essere limitato mediante un dispositivo elettrico di sicurezza direzionale rispondente al 14.1.2; 
+ 
+
+ c) la velocità del movimento non deve essere maggiore di 0,3 m/s; 
+ 
+
+ d) la porta di piano e la porta di cabina devono essere aperte solo dal lato della fermata ausiliaria; 
+ 
+
+ e) il movimento deve poter essere facilmente osservato dal luogo da cui viene comandata la manovra per la fermata ausiliaria; 
+ 
+
+ f) la manovra per la fermata ausiliaria sopra il livello del piano deve essere possibile soltanto dopo l'azionamento di un contatto di sicurezza a chiave, la cui chiave deve poter essere ritirata solo nella posizione che interrompe la manovra per la fermata ausiliaria; 
+ 
+
+ g) l'azionamento del contatto di sicurezza a chiave: 
+ 
+
+ 1) deve escludere l'effetto dei comandi normali. Se gli organi di interruzione impiegati a tale scopo non sono contatti di sicurezza solidali con l'azionamento del contatto a chiave, deve essere impedito qualsiasi movimento involontario della cabina anche se si manifesta nel circuito uno dei guasti indicati in 14.1.1.1; 
+ 
+
+ 2) deve permettere il movimento della cabina soltanto mediante l'azione su un bottone che richieda un'azione permanente. 
+ 
+
+ Il senso del movimento deve essere chiaramente indicato; 
+ 
+
+ 3) può rendere inefficaci, direttamente o per mezzo di un altro dispositivo elettrico di sicurezza conforme al 14.1.2: 
+ 
+
+ - il dispositivo elettrico di sicurezza del bloccaggio della porta di piano considerata; 
+ 
+
+ - il dispositivo elettrico di sicurezza di controllo della chiusura della porta di piano considerata; 
+ 
+
+ - il dispositivo elettrico di sicurezza di controllo della chiusura della porta di cabina dal lato della fermata ausiliaria; 
+ 
+
+ h) gli effetti della manovra per la fermata ausiliaria devono essere esclusi dall'inserimento della manovra di ispezione; 
+ 
+
+ j) in cabina deve esistere un dispositivo di arresto. 
+ 
+
+ 14.2.2. Dispositivi di arresto 
+ 
+
+ I dispositivi di arresto devono essere costituiti da dispositivi elettrici di sicurezza conformi al 14.1.2. Essi devono essere bistabili e devono essere tali che la rimessa in servizio non possa derivare da un'azione accidentale. 
+ 
+
+ 14.2.2.1. Cabine in cui tutti gli accessi sono muniti di porte cieche Sono vietati i dispositivi di arresto in cabina, ad eccezione del caso 14.2.1.5 j). 
+ 
+
+ Se le porte sono ad azionamento automatico, deve essere previsto un dispositivo che permetta di invertire il loro movimento di chiusura.
+ 
+
+ 14.2.2.2. Cabine in cui non tutti gli accessi sono muniti di porte 
+ 
+
+ cieche 
+ 
+
+ I passeggeri devono avere a loro disposizione, a distanza non maggiore di 1 m dagli accessi privi di porte, un interruttore che comandi e mentenga l'arresto dell'ascensore. Questo interruttore: 
+ 
+
+ a) deve essere a pressione con ritenuta, oppure a leva, con posizione della leva in basso per l'arresto. 
+ 
+
+ b) deve essere chiaramente identificabile (15.2.3.1). 
+ 
+
+ 14.2.2.3. Altri dispositivi di arresto 
+ 
+
+ Un dispositivo di arresto che metta e mantenga fuori servizio l'ascensore e le porte automatiche deve essere disposto: 
+ 
+
+ a) sul tetto della cabina, a distanza non maggiore di 1 m dall'accesso del personale di ispezione o manutenzione (questo dispositivo può essere quello disposto vicino al comando per la mòanovra di ispezione, se questo è disposto a non più di 1 m dall'accesso) (8.15). 
+ 
+
+ b) nel locale delle pulegge di rinvio (6.4.5): 
+ 
+
+ c) nella fossa (5.7.3.4). 
+ 
+
+ 14.2.3. Dispositivo di allarme 
+ 
+
+ 14.2.3.1. Allo scopo di poter ottenere, in caso di necessità, un soccorso dall'esterno, i passeggeri devono avere a loro disposizione in cabina un dispositivo, facilmente identificabile e accessibile, che permetta di chiedere soccorso. 
+ 
+
+ 14.2.3.2. Questo dispositivo deve essere alimentato o dall'alimentazione di emergenza prevista per l'illuminazione in 8.17.3, oppure da una alimentazione che presenti caratteristiche equivalenti. 
+ 
+
+ 14.2.3.3. Questo dispositivo deve essere costituito da una suoneria, un citofono, un telefono o dispositivi analoghi. 
+ 
+
+ Nota - In caso di collegamento alla linea telefonica pubblica, non si applica il 14.2.3.2. 
+ 
+
+ 14.2.3.4. L'organizzazione dell'edificio dovrebbe essere tale che si possa rispondere al segnale di allarme entro un tempo ragionevole 
+ 
+
+ 14.2.3.5. Quando la corsa dell'ascensore supera 30 m, tra la cabina e il locale del macchinario deve essere installato un citofono o dispositivo analogo, alimentato dall'alimentazione di emergenza prevista in 8.17.3. 
+ 
+
+ 14.2.4. Precedenze e seganli 
+ 
+
+ 14.2.4.1. Per gli ascensori muniti di porte ad apertura manuale, un dispositivo deve impedire il movimento della cabina per un periodo non minore di 2 s dopo un arresto. 
+ 
+
+ 14.2.4.2. Il passeggero che entra in cabina deve disporre di almeno 2 s dopo la chiusura delle porte, per dare il comando sul bottone di sua scelta prima che una chiamata esterna possa essere soddisfatta. 
+ 
+
+ Questa prescrizione non si applica agli ascensori con manovra collettiva muniti di porta di cabina. 
+ 
+
+ 14.2.4.3. Nel caso di manovra collettiva una segnalazione luminosa, perfettamente visibile dal piano, deve indicare chiaramente ai passeggeri che attendono a quel piano la prossima direzione di movimento imposta alla cabina. 
+ 
+
+ 14.2.4.4. Per ascensori in batteria è consigliabile non disporre ai piani indicatori di posizione; si raccomanda invece che l'arrivo di una cabina sia preceduto da un segnale acustico. 
+ 
+
+ 15.1. Disposizioni generali 
+ 
+
+ Tutte le targhe, gli avvisi e le istruzioni per la manovra devono essere perfettamente leggibili e comprensibili (se necessario con l'aiuto di segnali e segni grafici). Devono essere non lacerabili, di materiale resistente, disposti bene in vista, redatti in lingua italiana (o se necessario in più lingue). 
+ 
+
+ 15.2. In cabina 
+ 
+
+ 15.2.1. Deve essere apposta l'indicazione della portata dell'ascensore espressa in Kilogrammi e del numero di persone. 
+ 
+
+ Il numero di persone deve essere calcolato secondo 8.2.4. 
+ 
+
+ L'avviso deve essere redatto come di seguito: 
+ 
+
+ 
+ ......Kg.......persone 
+ 
+
+ L'altezza minima dei caratteri impiegati per l'avviso deve essere: 
+ 
+
+ a) 10 mm per le maiuscole e le cifre; 
+ 
+
+ b) 7 mm per le minuscole. 
+ 
+
+ Tuttavia per i montautomobili l'altezza minima dei caratteri deve essere:
