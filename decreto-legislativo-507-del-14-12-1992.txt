@@ -66,7 +66,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) dispositivo medico attivo: qualsiasi dispositivo medico che legato per il suo funzionamento ad una fonte di energia elettrica o a qualsiasi altra fonte di energia diversa da quella prodotta direttamente del corpo umano o dalla gravità; 
+ b) dispositivo medico attivo: qualsiasi dispositivo medico 
+ (( collegato ))
+
+ per il suo funzionamento ad una fonte di energia elettrica o a qualsiasi altra fonte di energia diversa da quella prodotta direttamente 
+ (( dal ))
+
+ corpo umano o dalla gravità; 
  
 
  
@@ -101,43 +107,54 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) messa in servizio: messa a disposizione ed effettiva utilizzazione da parte dei medici. 
+ g) messa in servizio: messa a disposizione 
+ (( del corpo medico per l'impianto ))
+
+ . 
  
 
  
  
 
  
+ g-bis) immissione in commercio: la prima messa a disposizione a titolo oneroso o gratuito di dispositivi, esclusi quelli destinati alle indagini cliniche, in vista della distribuzione o utilizzazione sul mercato comunitario, indipendentemente dal fatto che si tratti di dispositivi nuovi o rimessi a nuovo; 
  
 
  
  
 
- AVVERTENZA: 
+ 
+ g-ter) fabbricante: 
  
 
- Per ragioni di urgenza si omette la pubblicazione 
+ 1) la persona fisica o il rappresentante legale della persona giuridica responsabile della progettazione, della fabbricazione, dell'imballaggio e dell'etichettatura di un dispositivo in vista dell'immissione in commercio a proprio nome o a nome della persona giuridica rappresentata, indipendentemente dal fatto che queste operazioni siano eseguite dalla stessa persona fisica o giuridica o da un terzo per suo conto; 
  
 
- delle note al presente decreto legislativo, ai 
+ 2) la persona fisica o il rappresentante legale della persona giuridica che compone, provvede all'imballaggio, tratta, rimette a nuovo o etichetta uno o più prodotti prefabbricati o assegna loro la destinazione di dispositivo in vista dell'immissione in commercio a proprio nome o a nome della persona giuridica rappresentata, fatta eccezione per chi senza essere il fabbricante ai sensi del n. 1) compone o adatta dispositivi già immessi in commercio in funzione della loro destinazione ad un singolo paziente. 
  
 
- sensi dell'art. 8, comma 3, del regolamento di 
+ 
  
 
- esecuzione del testo unico delle disposizioni 
  
 
- sulla promulgazione delle leggi, sulla emanazione 
  
 
- dei decreti del Presidente della Repubblica e 
+ 
+ 2-bis. Se un dispositivo medico impiantabile attivo è destinato a somministrare una sostanza definita 'medicinalè ai sensi del decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni, questa sostanza è soggetta al regime di autorizzazione all'immissione in commercio previsto dal suddetto decreto. 
  
 
- sulle pubblicazioni ufficiali della Repubblica 
+ 
+ 
  
 
- italiana, approvato con D.P.R. 14 marzo 1986, n. 
+ 
+ 2-ter. Se un dispositivo medico impiantabile attivo incorpora come parte integrante una sostanza che potrebbe, se utilizzata a parte, essere considerata un medicinale ai sensi dell'art. 1 del decreto legislativo 29 marzo 1991, n. 178, detto dispositivo deve essere valutato ed autorizzato conformemente alle disposizioni del presente decreto. 
  
 
- 217.
+ 
+ 
+ 
+
+ 
+ 2-quater. Per i dispositivi medici impiantabili attivi le disposizioni sui requisiti di protezione in materia di compatibilità elettromagnetica previste dal presente decreto si applicano in sostituzione di quelle stabilite dal decreto legislativo 4 dicembre 1992, n. 476.
