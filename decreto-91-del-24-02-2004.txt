@@ -1,0 +1,199 @@
+IL MINISTRO DELLA GIUSTIZIA
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 40 della legge 28 marzo 2001, n. 149, concernente &laquo;Modifiche alla legge 4 maggio 1983, n. 184, recante: "Disciplina dell'adozione e dell'affidamento dei minori" nonchè al titolo VIII del libro primo del codice civile&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto, in particolare, il comma 3 dell'articolo 40 della legge n. 149 del 2001, ove si dispone che &laquo;con regolamento del Ministro della giustizia sono disciplinate le modalità di attuazione e di organizzazione della banca dati&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 28 ottobre 1994, n. 748, recante modalità applicative del decreto legislativo 12 febbraio 1993, n. 39, concernente: &laquo;Norme in materia di sistemi informativi delle amministrazioni pubbliche in relazione all'amministrazione della Giustizia&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, recante: &laquo;Codice in materia di protezione dei dati personali&raquo;;
+
+ 
+ 
+ 
+
+ 
+ Sentito il parere dell'Autorità per l'informatica nella pubblica amministrazione, reso con nota in data 11 giugno 2002;
+
+ 
+
+ 
+ Sentito il parere del Garante per la protezione dei dati personali, reso con nota n. 10602/25794 in data 11 luglio 2003;
+
+ 
+
+ 
+ Udito il parere interlocutorio del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 25 agosto 2003;
+
+ 
+
+ 
+ Sentito il parere del Ministro per l'innovazione e le tecnologie, reso con nota n. prot. UL/835/03/83-03 del 10 dicembre 2003;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 12 gennaio 2004;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata legge n. 400 del 1988 (nota n. prot. ia 194/U-U.L 7/3-1 del 26 gennaio 2004 e nota n. prot. 309/U - 7/3-1 ia U.L. del 5 febbraio 2004);
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Agli effetti del presente regolamento, si intende per:
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;banca di dati&raquo;: la banca di dati costituita presso il Ministero della giustizia - Dipartimento per la giustizia minorile, relativa ai dati dei minori dichiarati adottabili, ai coniugi aspiranti all'adozione nazionale e internazionale, nonchè alle persone singole disponibili all'adozione, in relazione ai casi di cui alle lettere a), c) e d) del comma 1 dell'articolo 44, della legge 4 maggio 1983, n. 184, così come sostituito dall'articolo 25, della legge 28 marzo 2001, n. 149;
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;dati&raquo;: i dati previsti dalla legge sulle adozioni che affluiscono dai domini specifici dei tribunali per i minorenni e dalle procure della Repubblica presso i tribunali per i minorenni, dalle singole regioni, nonchè ogni altra informazione utile a garantire il miglior esito del procedimento di adozione;
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;uffici della giurisdizione minorile&raquo;: i tribunali per i minorenni e le procure della Repubblica presso i tribunali per i minorenni, i giudici tutelari, la sezione della famiglia presso le corti d'appello, le procure generali presso la corte d'appello, la corte di cassazione e la procura generale presso la corte di cassazione;
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;regole procedurali di carattere tecnico operativo&raquo;: le regole emanate con decreto del Ministro della giustizia per la definizione di dettaglio della gestione della banca di dati in ossequio alle esigenze relative alla integrità fisica e logica dei dati;
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;responsabile dei sistemi informativi automatizzati&raquo;: il dirigente generale o equiparato di cui all'articolo 10 del decreto legislativo 12 febbraio 1993, n. 39, e successive modificazioni.
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare, la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - Si riporta il testo del comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
+ 
+
+ &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione&raquo;.
+ 
+
+ Note all'art. 1:
+ 
+
+ - Si riporta il testo dell'art. 44 della legge 4 maggio 1983, n. 184 (Diritto del minore ad una famiglia), come sostituito dall'art. 25 della legge 28 marzo 2001, n. 149:
+ 
+
+ &laquo;Art. 44. - 1. I minori possono essere adottati anche quando non ricorrono le condizioni di cui al comma 1 dell'art. 7:
+ 
+
+ a) da persone unite al minore da vincolo di parentela fino al sesto grado o da preesistente rapporto stabile e duraturo, quando il minore sia orfano di padre e di madre;
+ 
+
+ b) dal coniuge nel caso in cui il minore sia figlio anche adottivo dell'altro coniuge;
+ 
+
+ c) quando il minore si trovi nelle condizioni indicate dell'art. 3, comma 1, della legge 5 febbraio 1992, n. 104, e sia orfano di padre e di madre;
+ 
+
+ d) quando vi sia la constatata impossibilità di affidamento preadottivo.
+ 
+
+ 2. L'adozione, nei casi indicati nel comma 1, è consentita anche in presenza di figli legittimi.
+ 
+
+ 3. Nei casi di cui alle lettere a), c), e d) del comma 1 l'adozione è consentita, oltre che ai coniugi, anche a chi non è coniugato. Se l'adottante è persona coniugata e non separata, l'adozione può essere tuttavia disposta solo a seguito di richiesta da parte di entrambi i coniugi.
+ 
+
+ 4. Nei casi di cui alle lettere a) e d) del comma 1 l'età dell'adottante deve superare di almento diciotto anni quella di coloro che egli intende adottare&raquo;.
+ 
+
+ - Si riporta il testo dell'art. 10 del decreto legislativo 12 febbraio 1993, n. 39 (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421):
+ 
+
+ &laquo;Art. 10. - 1. Entro trenta giorni dalla data di entrata in vigore del presente decreto, ogni amministrazione, nell'ambito delle proprie dotazioni organiche, individua, sulla base di specifiche competenze ed esperienze professionali, un dirigente generale o equiparato, ovvero, se tale qualifica non sia prevista, un dirigente di qualifica immediatamente inferiore, quale responsabile per i sistemi informativi automatizzati.
+ 
+
+ 2. Il dirigente responsabile di cui al comma 1 cura i rapporti dell'amministrazione di appartenenza con l'Autorità e assume la responsabilità per i risultati conseguiti nella medesima amministrazione con l'impiego delle tecnologie informatiche, verificati ai sensi dell'art. 7, comma 1, lettera d). Ai fini della verifica dei risultati, i compiti del nucleo di valutazione di cui all'art. 20, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, sono attribuiti all'Autorità.
+ 
+
+ 3. In relazione all'amministrazione di appartenenza, il dirigente responsabile per i sistemi informativi automatizzati, oltre a contribuire alla definizione della bozza del piano triennale, trasmette all'Autorità entro il mese di febbraio di ogni anno una relazione sullo stato dell'automazione a consuntivo dell'anno precedente, con l'indicazione delle tecnologie impiegate, delle spese sostenute, delle risorse umane utilizzate e dei benefici conseguiti&raquo;.
