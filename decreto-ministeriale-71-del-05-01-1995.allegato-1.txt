@@ -1,0 +1,12310 @@
+Allegato 1 
+ 
+
+ 
+ INTRODUZIONE 
+ 
+
+ 
+ i. SCOPO 
+ 
+
+ 
+ Questa Regola contiene le specifiche di apparato e i metodi di misura
+ 
+
+ 
+ per l'omologazione dei terminali mobili e portatili realizzati per
+ 
+
+ 
+ essere interconnessi al Sistema Radiomobile Pubblico di Conversazione
+ 
+
+ 
+ operante nella Banda dei 900 MHz. 
+ 
+
+ 
+ L'apparato opera nella gamma di frequenza compresa da 890 MHz a 905
+ 
+
+ 
+ MHz (banda di trasmissione del terminale mobile) e da 935 MHz a 950
+ 
+
+ 
+ MHz (banda di ricezione del terminale mobile), con un passo di
+ 
+
+ 
+ canalizzazione di 25 kHz. 
+ 
+
+ 
+ ii. OGGETTO 
+ 
+
+ 
+ L'oggetto di questa Regola è quello di normalizzare le definizioni,
+ 
+
+ 
+ le condizioni e i metodi di misura usati per verificare le
+ 
+
+ 
+ prestazioni degli apparati e di rendere possibile una comparazione
+ 
+
+ 
+ dei risultati delle misure oggettivamente ottenute su apparati
+ 
+
+ 
+ diversi. 
+ 
+
+ 
+ iii DICHIARAZIONE DEL COSTRUTTORE 
+ 
+
+ 
+ Quando un apparato è sottoposto alle prove di omologazione il
+ 
+
+ 
+ Costruttore dovrà fornire le seguenti informazioni: 
+ 
+
+ 
+ (a) Gamma di frequenza operativa e numero dei canali disponibili 
+ 
+
+ 
+ (b) Frequenza del quarzo e metodo di generazione della frequenza
+ 
+
+ 
+ della portante 
+ 
+
+ 
+ (c) Classe del terminale mobile e potenza di uscita a radiofrequenza
+ 
+
+ 
+ fissata nominale 
+ 
+
+ 
+ (d) Relazione tra la frequenza di ogni segnale spurio ad alto livello
+ 
+
+ 
+ TX e frequenza della portante TX. I segnali spuri ad alto
+ 
+
+ 
+ livello TX sono quelli di livello compreso tra -9dBm e -24 dBm,
+ 
+
+ 
+ all'interno della banda di trasmissione del terminale mo- bile
+ 
+
+ 
+ (vedi par. 3.1.7 Parte 2). 
+ 
+
+ 
+ (e) Tensione nominale di alimentazione e tipo di batteria 
+ 
+
+ 
+ (f) I valori a cui sono fissati i seguenti parametri d'apparato: 
+ 
+
+ 
+ AID p, FIRSTCHP p, MIN p, SCM p, ACCOLC p, Sistema preferenziale
+ 
+
+ 
+ (A o B), Numero di serie dell'apparato 
+ 
+
+ 
+ (g) Informazioni operative includenti i codici operativi di tastiera
+ 
+
+ 
+ e il modo di controllo delle prestazioni opzionali descritte
+ 
+
+ 
+ nella sezione 2.1.8 Parte 2. 
+ 
+
+ 
+ (h) Angolo di rotazione dell'orecchio artificiale, se richiesto, per
+ 
+
+ 
+ le misure richieste nella Parte 2 sezione 4 (vedi appendice G1) 
+ 
+
+ 
+ In aggiunta l'apparato dovrà essere fornito con il seguente gruppo
+ 
+
+ 
+ di parametri: 
+ 
+
+ 
+ (a) EX p deve essere fissato a 0 
+ 
+
+ 
+ (b) FIRSTCHP p deve essere fissato al valore che definisce un gruppo
+ 
+
+ 
+ minimo di 21 canali che giacciono al di fuori del gruppo di
+ 
+
+ 
+ canali di controllo dedicati per il Sistema A e il Sistema B 
+ 
+
+ 
+ (c) L'opzione di inibizione di stazione errante (Roaming) inter -
+ 
+
+ 
+ sistema deve essere posta nella condizione di inattivo 
+ 
+
+ 
+ iv. IDENTIFICAZIONE (ETICHETTATURA) 
+ 
+
+ 
+ L'apparato deve essere fornito con una chiara indicazione
+ 
+
+ 
+ dell'identificativo di modello, classe del terminale e descrizione
+ 
+
+ 
+ con la quale è sottoposto all'omologazione. La classe del terminale
+ 
+
+ 
+ mobile deve essere definita come nella parte 1, sezione 2.1.2.2. 
+ 
+
+ 
+ Ogni identificativo di modello dovrà essere unico e nel caso che
+ 
+
+ 
+ l'Autorità effettuante le prove rilevi che due costruttori hanno
+ 
+
+ 
+ usato lo stesso identificativo di modello, sarà chiesto ad uno dei
+ 
+
+ 
+ due costruttori di cambiare tale identificativo. 
+ 
+
+ 
+ v. ISTRUZIONI PER L'INSTALLAZIONE 
+ 
+
+ 
+ La grande varietà di veicoli coinvolti nell'uso rende impossibile
+ 
+
+ 
+ specificare requisiti per l'installazione, ma i costruttori sono
+ 
+
+ 
+ tenuti ad includere le seguenti indicazioni nelle loro istruzioni per
+ 
+
+ 
+ i terminali mobili installati su veicolo: 
+ 
+
+ 
+ (a) L'apparato radio deve essere connesso all'antenna per mezzo di un
+ 
+
+ 
+ cavo schermato (es. cavo coassiale) 
+ 
+
+ 
+ (b) L'antenna deve essere montata in una posizione tale che nessuna
+ 
+
+ 
+ parte del corpo si trovi normalmente più vicino di 20 cm. ad
+ 
+
+ 
+ ogni parte dell'antenna per più di qualche minuto mentre
+ 
+
+ 
+ l'apparato è in funzione, senza che ci sia uno schermo
+ 
+
+ 
+ metallico (es. tetto metallico) di almeno 0.3 m. quadri di area 
+ 
+
+ 
+ vi. MANUALI D'UTENTE 
+ 
+
+ 
+ (a) I manuali d'utente dovranno includere la seguente avvertenza, per
+ 
+
+ 
+ terminali mobili di classe 1: 
+ 
+
+ 
+ 
+ 
+ (( Gli utenti sono avvisati che per un uso soddisfacente
+ 
+
+ 
+ dell'apparato e per la sicurezza personale, si raccomanda che
+ 
+
+ 
+ nessuna parte del corpo deve trovarsi ad una distanza inferiore
+ 
+
+ 
+ a 20 cm dall'antenna durante il funzionamento dell'apparato. 
+ 
+
+ 
+ (b) I manuali d'utente per tutte le classi di terminali mobili
+ 
+
+ 
+ dovranno includere la seguente avvertenza: 
+ 
+
+ 
+ è consigliato agli utenti di spegnere l'apparato durante il
+ 
+
+ 
+ rifornimento di carburante. 
+ 
+
+ 
+ (c) I manuali d'utente per le stazioni portatili e trasportabili
+ 
+
+ 
+ delle classi 2, 3 e 4 dovranno includere le seguenti avvertenze:
+ 
+
+ 
+ Spegnere il radiotelefono quando si è in aereo; l'uso in aereo
+ 
+
+ 
+ può essere pericoloso per le operazioni di quest'ultimo, crea
+ 
+
+ 
+ disturbi alla rete cellulare ed è illegale. 
+ 
+
+ 
+ La mancata osservanza di questa disposizione può condurre alla
+ 
+
+ 
+ sospensione o al rifiuto del servizio telefonico cellulare al
+ 
+
+ 
+ contravventore o ad una azione legale, oppure ad entrambe le
+ 
+
+ 
+ cose. 
+ 
+
+ 
+ (d) I manuali d'utente di tutte le classi di terminali mobili devono
+ 
+
+ 
+ includere la seguente avvertenza: 
+ 
+
+ 
+ Questo apparato è omologato per la connessione alla Rete
+ 
+
+ 
+ Cellulare del Sistema Radiomobile Analogico Pubblico di
+ 
+
+ 
+ conversazione a 900 MHz. 
+ 
+
+ 
+ (e) Qualora si preveda la connessione di qualunque classe di
+ 
+
+ 
+ terminali mobili a sorgenti di alimentazione o carica batterie
+ 
+
+ 
+ che usano tensioni superiori a 50 Vca eff. o 75 Vcc, il manuale
+ 
+
+ 
+ d'utente dovrà specificare la sorgente (i) d'alimentazione e il
+ 
+
+ 
+ (i) carica batterie approvati per l'uso con il terminale mobile
+ 
+
+ 
+ e includere la seguente dichiarazione: 'Questo apparato può
+ 
+
+ 
+ essere usato quando è alimentato da (identificazione del (dei)
+ 
+
+ 
+ carica batterie e/o dell' (degli) alimentatore (i). L'uso di
+ 
+
+ 
+ altri dispositivi annullerà ogni certificazione dell'apparato e
+ 
+
+ 
+ può essere pericolosò ))
+ 
+
+ . 
+ 
+
+ 
+ PARTE I - SPECIFICHE DI APPARATO 
+ 
+
+ 
+ 1. DEFINIZIONI 
+ 
+
+ 
+ Il bit meno significativo di un campo o parola è denominato bit 0 ed
+ 
+
+ 
+ è inviato per ultimo, a meno che non sia specificato altrimenti. 
+ 
+
+ 
+ Canale di accesso: Canale di controllo usato da una stazione mobile
+ 
+
+ 
+ per accedere al sistema allo scopo di ottenere il servizio. 
+ 
+
+ 
+ Codice di colore analogico: Segnale analogico (vedere SAT) trasmesso
+ 
+
+ 
+ da una stazione fissa su un canale vocale e usato per rivelare la
+ 
+
+ 
+ cattura di una stazione mobile da parte di una stazione fissa
+ 
+
+ 
+ interferente e/o la cattura di una stazione fissa da parte di una
+ 
+
+ 
+ stazione mobile interferente. 
+ 
+
+ 
+ Identificativo di area (AID). Identificativo digitale associato con
+ 
+
+ 
+ un'area di traffico; a ciascuna area è associato un unico numero. I
+ 
+
+ 
+ bit 14-10 identificano la nazione ed il sistema e i bit 9-1
+ 
+
+ 
+ identificano l'area nazionale di traffico. Il bit 0 indica lo stato
+ 
+
+ 
+ di servizio del sistema. Il valore zero non è una area di traffico
+ 
+
+ 
+ valida ed è riservato per l'inizializzazione. 
+ 
+
+ 
+ Codice BCH: Codice Bose-Chaudhuri-Hocquenghem. 
+ 
+
+ 
+ Bits occupato-libero: Bits del flusso di dati trasmesso da una
+ 
+
+ 
+ stazione fissa sul canale di controllo diretto usati per indicare lo
+ 
+
+ 
+ stato occupato-libero del corrispondente canale di controllo inverso. 
+ 
+
+ 
+ Canale di controllo: Canale usato per la trasmissione delle
+ 
+
+ 
+ informazioni di controllo da una stazione fissa ad una stazione mo-
+ 
+
+ 
+ bile o da una stazione mobile ad una stazione fissa. 
+ 
+
+ 
+ Codice di colore digitale (DCC): Segnale digitale trasmesso da una
+ 
+
+ 
+ stazione fissa sul canale di controllo diretto usato per rivelare la
+ 
+
+ 
+ cattura di una stazione fissa da parte di una stazione mobile
+ 
+
+ 
+ interferente. 
+ 
+
+ 
+ Richiesta lampo (flash): Messaggio inviato su un canale vocale da una
+ 
+
+ 
+ stazione mobile ad una stazione fissa indicante che un utente
+ 
+
+ 
+ desidera servirsi di servizi speciali. 
+ 
+
+ 
+ Canale di controllo diretto (FOCC): Canale di controllo usato da una
+ 
+
+ 
+ stazione fissa verso una stazione mobile. 
+ 
+
+ 
+ Canale vocale diretto (FVC): Canale vocale usato da una stazione
+ 
+
+ 
+ fissa verso una stazione mobile. 
+ 
+
+ 
+ Identificativo di gruppo: Un sottoinsieme (bits 2, 1 e 0)
+ 
+
+ 
+ dell'identificativo di area di traffico (AID) usato per identificare
+ 
+
+ 
+ un gruppo di aree di traffico. 
+ 
+
+ 
+ Commutazione di canale radio (Hand-off): Il trasferimento di una
+ 
+
+ 
+ stazione mobile da un canale vocale ad un altro. 
+ 
+
+ 
+ Stazione mobile domestica: Una stazione mobile del sistema cellulare
+ 
+
+ 
+ in cui il servizio è sottoscritto. 
+ 
+
+ 
+ Stazione radio base o stazione fissa: Stazione non mobile nel sistema
+ 
+
+ 
+ di radio-telecomunicazioni cellulare, usata per radio comunicazioni
+ 
+
+ 
+ con stazioni mobili. 
+ 
+
+ 
+ Numero di identificazione mobile (MIN): Numero di 34 bit che è la
+ 
+
+ 
+ rappresentazione digitale del numero di 10 cifre di Identità
+ 
+
+ 
+ Internazionale di Stazioni Mobili (IMSI) assegnato ad una stazione
+ 
+
+ 
+ mobile. 
+ 
+
+ 
+ Stazione mobile: Stazione del sistema cellulare di radio
+ 
+
+ 
+ telecomunicazioni che può essere usata in movimento o durante la
+ 
+
+ 
+ sosta in punti non specificati. 
+ 
+
+ 
+ Stazione mobile veicolare: Apparecchiatura installata in un veicolo e
+ 
+
+ 
+ in cui l'antenna è fisicamente montata all'esterno del veicolo. 
+ 
+
+ 
+ Stazione mobile trasportabile: Apparecchiatura che può essere
+ 
+
+ 
+ portata a mano e dove l'antenna non è fisicamente montata sulla
+ 
+
+ 
+ parte di apparecchiatura contenente il microtelefono. 
+ 
+
+ 
+ Stazione mobile portatile (hand-held): Apparecchiatura portata in
+ 
+
+ 
+ mano o indosso ad una persona e dove l'antenna può essere
+ 
+
+ 
+ fisicamente attaccata alla parte di apparecchiatura che contiene il
+ 
+
+ 
+ microtelefono. 
+ 
+
+ 
+ Classe di stazione mobile: Sono definite le seguenti classi di
+ 
+
+ 
+ stazioni mobili: 
+ 
+
+ 
+ - Classe 1. Stazione mobile veicolare di altissima potenza 
+ 
+
+ 
+ - Classe 2. Stazione mobile trasportabile di alta potenza 
+ 
+
+ 
+ - Classe 3. Stazione mobile portatile di potenza media 
+ 
+
+ 
+ - Classe 4. Stazione mobile portatile di bassa potenza 
+ 
+
+ 
+ Informazione numerica: L'informazione numerica è usata per
+ 
+
+ 
+ descrivere il funzionamento della stazione mobile. I seguenti pedici
+ 
+
+ 
+ sono usati per chiarire l'uso dell'informazione numerica: 
+ 
+
+ 
+ 's' indica un valore memorizzato nella memoria temporanea di una 
+ 
+
+ 
+ stazione mobile 
+ 
+
+ 
+ 'sv' indica un valore memorizzato che varia quando la stazione mobile 
+ 
+
+ 
+ esegue vari compiti 
+ 
+
+ 
+ 'sl' indica i limiti memorizzati di un valore variabile 
+ 
+
+ 
+ 'r' indica un valore ricevuto da una stazione mobile su un canale di
+ 
+
+ 
+ controllo diretto, 
+ 
+
+ 
+ 'p' indica un valore impostato nella memoria permanente di 
+ 
+
+ 
+ identificazione e sicurezza di una stazione mobile 
+ 
+
+ 
+ 'sp' indica un valore immagazzinato nella memoria semipermanente di
+ 
+
+ 
+ identificazione e sicurezza di una stazione mobile. 
+ 
+
+ 
+ Gli indicatori numerici sono: 
+ 
+
+ 
+ - ACCOLC p. Numero di quattro bit usato per identificare quale campo
+ 
+
+ 
+ di classe di sovraccarico controlla i tentativi di accesso. 
+ 
+
+ 
+ - AID p. Identificativo di area di traffico domestica memorizzato
+ 
+
+ 
+ nella memoria permanente di identificazione e sicurezza della
+ 
+
+ 
+ stazione mobile. 
+ 
+
+ 
+ - AID sp. Uno dei numeri degli identificativi di area di traffico
+ 
+
+ 
+ memorizzati nella memoria semipermanente di identificazione e di
+ 
+
+ 
+ sicurezza della stazione mobile. 
+ 
+
+ 
+ - AID r. Identificativo di area di traffico ricevuto su un canale
+ 
+
+ 
+ diretto di controllo. 
+ 
+
+ 
+ - AID s. Identificativo di area di traffico memorizzato. 
+ 
+
+ 
+ - AIDL s. Identificativo di area di traffico memorizzato
+ 
+
+ 
+ corrispondente al AID dell'ultima area di traffico in cui è stata
+ 
+
+ 
+ registrata la stazione mobile. 
+ 
+
+ 
+ - BIS s Identifica se una stazione mobile deve controllare sul canale
+ 
+
+ 
+ di controllo inverso la transazione occupato-libero quando accede
+ 
+
+ 
+ al sistema. 
+ 
+
+ 
+ - CCLIST s Lista dei canali di controllo che debbono essere scanditi
+ 
+
+ 
+ da una stazione mobile durante la procedura di Riprova diretta
+ 
+
+ 
+ (Vedere Sezione 2.6.3.14). 
+ 
+
+ 
+ - CMAX s. Massimo numero di canali che debbono essere scanditi da una
+ 
+
+ 
+ stazione mobile quando accede al sistema. 
+ 
+
+ 
+ - CPA s. Identifica se le funzioni di accesso con le funzioni di
+ 
+
+ 
+ chiamata (paging) sono combinate sullo stesso gruppo di canali di
+ 
+
+ 
+ controllo. 
+ 
+
+ 
+ - DTX s. Identifica se ad una stazione mobile è permesso di usare il
+ 
+
+ 
+ modo di trasmissione discontinuo sul canale vocale. 
+ 
+
+ 
+ - E s. Il valore memorizzato del campo E inviato sul canale di
+ 
+
+ 
+ controllo diretto. E s identifica se una stazione mobile domestica
+ 
+
+ 
+ deve inviare solo MIN1 p o insieme MIN1 p e MIN2 p quando accede
+ 
+
+ 
+ al sistema. 
+ 
+
+ 
+ - EX p Identifica se le stazioni mobili domestiche debbono inviare
+ 
+
+ 
+ MIN1 p o insieme MIN1 p e MIN2 p quando accedono al sistema. EX p
+ 
+
+ 
+ differisce da E s poichè l'informazione è memorizzata nella
+ 
+
+ 
+ memoria di identificazione e sicurezza della stazione mobile. 
+ 
+
+ 
+ - FIRSTCHA s. Numero del primo canale di controllo usato per accedere
+ 
+
+ 
+ al sistema. 
+ 
+
+ 
+ - FIRSTCHP s. Numero del primo canale di controllo usato per le
+ 
+
+ 
+ chiamate (paging) alle stazioni mobili. 
+ 
+
+ 
+ - FREG s. Valore memorizzato del campo FREG inviato sul canale
+ 
+
+ 
+ diretto di controllo. Indica se si richiede o meno ad una stazione
+ 
+
+ 
+ mobile di registrarsi quando rileva un cambiamento di AID-r. 
+ 
+
+ 
+ - LASTCHA s. Numero dell'ultimo canale di controllo usato per
+ 
+
+ 
+ accedere al sistema. 
+ 
+
+ 
+ - LASTCHP s. Numero dell'ultimo canale di controllo usato per le
+ 
+
+ 
+ chiamate (paging) alle stazioni mobili. 
+ 
+
+ 
+ - LT s. Identifica se il prossimo tentativo di accesso deve essere
+ 
+
+ 
+ considerato l'ultimo. 
+ 
+
+ 
+ - MIN1 p. Parola di 24 bit che corrisponde ad un numero composto dal
+ 
+
+ 
+ Codice di Rete Mobile di 1 cifra (MNC) ed al Numero di
+ 
+
+ 
+ Identificazione di Stazione Mobile di 6 cifre (MSIN). 
+ 
+
+ 
+ - MIN2 p. Parola di 10 bit che corrisponde al Codice Nazionale Mo-
+ 
+
+ 
+ bile di 3 cifre (MCC) assegnato al sistema. 
+ 
+
+ 
+ - MAXBUSY sl. Massimo numero di eventi "occupato" permessi su un
+ 
+
+ 
+ canale di controllo inverso. 
+ 
+
+ 
+ - MAXSZTR sl. Massimo numero di tentativi di cattura permessi su un
+ 
+
+ 
+ canale di controllo inverso. 
+ 
+
+ 
+ - N s. Numero di canali di chiamata (paging) che una stazione mobile
+ 
+
+ 
+ deve scandire. 
+ 
+
+ 
+ - NBUSY sv Numero di volte che una stazione mobile cerca di catturare
+ 
+
+ 
+ il canale di controllo inverso e trova il canale di controllo
+ 
+
+ 
+ inverso occupato. 
+ 
+
+ 
+ - NSZTR sv Numero di volte che una stazione mobile cerca di catturare
+ 
+
+ 
+ il canale di controllo inverso e fallisce. 
+ 
+
+ 
+ - NXTREG sp. Identifica quando una stazione mobile deve fare la sua
+ 
+
+ 
+ prossima registrazione al sistema. 
+ 
+
+ 
+ - PL s. Livello di potenza RF della stazione mobile. 
+ 
+
+ 
+ - R s. Indica se la registrazione è abilitata o meno quando la
+ 
+
+ 
+ stazione mobile è servita dal suo sistema preferito nella sua
+ 
+
+ 
+ nazione di appartenenza. Indica anche se la registrazione e
+ 
+
+ 
+ l'origine sono abilitate o meno quando il mobile non è nella
+ 
+
+ 
+ nazione di appartenenza. 
+ 
+
+ 
+ - RCF s. Identifica se la stazione mobile deve leggere un messaggio
+ 
+
+ 
+ di controlli multipli prima di accedere al sistema sul canale
+ 
+
+ 
+ inverso di controllo. 
+ 
+
+ 
+ - REGID s. Il valore memorizzato dell'ultimo numero di registrazione
+ 
+
+ 
+ (REGID r) ricevuto sul canale di controllo diretto. 
+ 
+
+ 
+ - REGINCR s. Esso è usato dalla stazione mobile per identificare gli
+ 
+
+ 
+ incrementi tra le registrazioni 
+ 
+
+ 
+ - S s. Identifica se la stazione mobile deve inviare il suo numero di
+ 
+
+ 
+ serie quando accede al sistema. 
+ 
+
+ 
+ - SCC s. Numero digitale memorizzato ed usato per identificare quale
+ 
+
+ 
+ frequenza SAT deve ricevere una stazione mobile. 
+ 
+
+ 
+ - WFOM s. Identifica se una stazione mobile deve aspettare una
+ 
+
+ 
+ sequenza di messaggi di supervisione prima di accedere al sistema
+ 
+
+ 
+ sul canale di controllo inverso. 
+ 
+
+ 
+ Ordini. I seguenti ordini possono essere inviati ad una stazione mo-
+ 
+
+ 
+ bile da una stazione fissa: 
+ 
+
+ 
+ - Allarme. L'ordine di allarme è usato per informare l'utente che ha
+ 
+
+ 
+ ricevuto una chiamata. 
+ 
+
+ 
+ - Verifica. L'ordine di verifica è usato da una stazione fissa per
+ 
+
+ 
+ determinare se la stazione mobile è attiva nel sistema. 
+ 
+
+ 
+ - Chiamata accodata. L'ordine di chiamata accodata è usato per
+ 
+
+ 
+ informare l'utente che la chiamata originata è stata posta in una
+ 
+
+ 
+ coda finchè il canale vocale diverrà disponibile. 
+ 
+
+ 
+ - Ritmo di conteggio. L'ordine di ritmo di conteggio è usato dai
+ 
+
+ 
+ mobili per determinare la tassazione relativa alla chiamata in
+ 
+
+ 
+ corso, se necessario. 
+ 
+
+ 
+ - Cambio di potenza. L'ordine di cambio di potenza è usato da una
+ 
+
+ 
+ stazione fissa per cambiare il livello di potenza RF di una
+ 
+
+ 
+ stazione mobile. 
+ 
+
+ 
+ - Intercettazione. L'ordine di intercettazione è usato per informare
+ 
+
+ 
+ l'utente di un errore procedurale fatto inviando la chiamata. 
+ 
+
+ 
+ - Manutenzione. L'ordine di manutenzione è usato da una stazione
+ 
+
+ 
+ fissa per verificare il funzionamento di una stazione mobile.
+ 
+
+ 
+ Tutte le funzioni sono simile all'allarme ma il dispositivo di
+ 
+
+ 
+ allarme non è attivato. 
+ 
+
+ 
+ - Rilascio. L'ordine di rilascio è usato per disconnettere una
+ 
+
+ 
+ chiamata che si sta effettuando o che è già stata effettuata. 
+ 
+
+ 
+ - Riordine. L'ordine di riordine è usato per informare l'utente che
+ 
+
+ 
+ tutte le apparecchiature sono attive e che la chiamata può essere
+ 
+
+ 
+ di nuovo inviata. 
+ 
+
+ 
+ - Invio indirizzo chiamato. L'ordine di invio indirizzo chiamato è
+ 
+
+ 
+ usato per informare una stazione mobile che deve inviare un
+ 
+
+ 
+ messaggio ad una stazione fissa contenente il numero selezionato. 
+ 
+
+ 
+ - Fine allarme. L'ordine di fine allarme è usato per informare una
+ 
+
+ 
+ stazione mobile che deve cessare di inviare l'allarme all'utente. 
+ 
+
+ 
+ Chiamata (paging). L'atto di chiamare una stazione mobile quando c'è
+ 
+
+ 
+ una chiamata in arrivo verso di essa. 
+ 
+
+ 
+ Canale di Chiamata (paging). Canale di controllo diretto usato per
+ 
+
+ 
+ chiamare le stazioni mobili ed inviare ordini. 
+ 
+
+ 
+ Origine. Si definisce origine una chiamata originata dalla stazione
+ 
+
+ 
+ radio base verso una stazione mobile. 
+ 
+
+ 
+ Registrazione. Procedura mediante la quale una stazione mobile di
+ 
+
+ 
+ identifica, nei confronti di una stazione fissa, come attiva nel
+ 
+
+ 
+ sistema, inviando un messaggio alla stessa stazione fissa. 
+ 
+
+ 
+ Richiesta di rilascio. Messaggio inviato da una stazione mobile ad
+ 
+
+ 
+ una stazione fissa indicante che l'utente desidera disconnettere la
+ 
+
+ 
+ chiamata. 
+ 
+
+ 
+ Canale di controllo inverso (RECC). Canale di controllo usato da una
+ 
+
+ 
+ stazione mobile verso una stazione fissa. 
+ 
+
+ 
+ Canale vocale inverso (RVC). Canale vocale usato da una stazione mo-
+ 
+
+ 
+ bile verso una stazione fissa. 
+ 
+
+ 
+ Errante (roamer). Una stazione mobile che opera in un sistema
+ 
+
+ 
+ cellulare diverso da quello in cui il servizio è stato sottoscritto,
+ 
+
+ 
+ è denominata Stazione mobile Errante inter-sistema. 
+ 
+
+ 
+ Una stazione mobile errante fuori della sua area domestica di
+ 
+
+ 
+ traffico, ma all'interno dello stesso sistema, è denominata Stazione
+ 
+
+ 
+ Errante nell'area. 
+ 
+
+ 
+ Scansione dei canali. La procedura per cui una stazione mobile
+ 
+
+ 
+ esamina l'intensità del segnale di ciscun canale di controllo
+ 
+
+ 
+ diretto. 
+ 
+
+ 
+ Precursore di cattura. Sequenza digitale inizialmente trasmessa da
+ 
+
+ 
+ una stazione mobile ad una stazione fissa sul canale di controllo
+ 
+
+ 
+ inverso. 
+ 
+
+ 
+ Tono di segnalazione. Tono di 8 KHz trasmesso da una stazione mobile
+ 
+
+ 
+ su un canale vocale per: 1) confermare ordini, 2) segnalare richieste
+ 
+
+ 
+ lampo e 3) segnalare richieste di rilascio. 
+ 
+
+ 
+ Informazioni di stato. Le informazioni di stato indicate di seguito
+ 
+
+ 
+ sono usate in questa sezione per descrivere il funzionamento della
+ 
+
+ 
+ stazione mobile: 
+ 
+
+ 
+ - Stato di servizio del sistema. Indica se una stazione mobile è
+ 
+
+ 
+ sintonizzata su canali associati con il Sistema A o il Sistema B. 
+ 
+
+ 
+ - Stato ID di prima registrazione. Indica se una stazione mobile ha
+ 
+
+ 
+ ricevuto un messaggio ID di registrazione dalla fase di
+ 
+
+ 
+ inizializzazione. 
+ 
+
+ 
+ - Stato controllo locale. Indica se una stazione mobile deve
+ 
+
+ 
+ rispondere a messaggi di controllo locale o meno. 
+ 
+
+ 
+ - Stato errante. Indica se una stazione mobile è o meno nel suo
+ 
+
+ 
+ sistema domestico. 
+ 
+
+ 
+ - Stato di terminazione. Indica se una stazione mobile deve terminare
+ 
+
+ 
+ la chiamata quando è su un canale vocale. 
+ 
+
+ 
+ - Stato di riregistrazione. La stazione mobile si trova nello stato
+ 
+
+ 
+ di riregistrazione quando deve tentare di registrarsi, dopo un
+ 
+
+ 
+ intervallo di tempo casuale, a seguito di un insuccesso di
+ 
+
+ 
+ registrazione. 
+ 
+
+ 
+ - Stato di registrazione forzata. La stazione mobile si trova nello
+ 
+
+ 
+ stato di registrazione forzata quando essa accede al sistema con
+ 
+
+ 
+ una indicazione di registrazione, dovuta ad un cambiamento di AID.
+ 
+
+ 
+ - Stato di distribuzione del sovraccarico. La stazione mobile in
+ 
+
+ 
+ uno stato di distribuzione del sovraccarico quando è possibile un
+ 
+
+ 
+ sovraccarico di registrazione. 
+ 
+
+ 
+ Questo può avvenire quando la registrazione prima è abilitata
+ 
+
+ 
+ dal sistema in servizio o il sistema è in avaria e i mobili si
+ 
+
+ 
+ trasferiscono sul sistema di servizio secondario. 
+ 
+
+ 
+ - Stato di temporizzazione di sovraccarico. La stazione mobile si
+ 
+
+ 
+ trova nello stato del temporizzatore del sovraccarico quando essa
+ 
+
+ 
+ ha attivato il temporizzatore di sovraccarico. Questo distribuisce
+ 
+
+ 
+ gli accessi di registrazione durante i periodi di carico pesante. 
+ 
+
+ 
+ - Stato del temporizzatore del sistema non preferito. 
+ 
+
+ 
+ La stazione mobile si trova in questo stato quando ha attivato il
+ 
+
+ 
+ temporizzatore del sistema non preferito. 
+ 
+
+ 
+ Il temporizzatore assicura che una stazione mobile durante la
+ 
+
+ 
+ condizione di riposo non stia sul sistema non preferito per un
+ 
+
+ 
+ periodo di tempo superiore ai 10 minuti. 
+ 
+
+ 
+ - Stato del temporizzatore di sovraccarico del sistema non preferito.
+ 
+
+ 
+ La stazione mobile si trova in questo stato quando ha attivato il
+ 
+
+ 
+ temporizzatore di sovraccarico del sistema non preferito. 
+ 
+
+ 
+ Questo temporizzatore assicura che una stazione mobile nella
+ 
+
+ 
+ condizione di riposo non stia sul sistema non preferito per un
+ 
+
+ 
+ periodo superiore ad 1 minuto qualora il servizio sia impedito dal
+ 
+
+ 
+ sistema. 
+ 
+
+ 
+ Tono Audio di Supervisione (SAT). Uno dei tre toni nell'intorn di 6
+ 
+
+ 
+ kHz che trasmessi da una stazione fissa sono ricevuti e ritrasmessi
+ 
+
+ 
+ da una stazione mobile. 
+ 
+
+ 
+ Canale vocale. Un canale su cui avviene una convesazione vocale e su
+ 
+
+ 
+ cui possono essere inviati brevi messaggi digitali da una stazione
+ 
+
+ 
+ fissa ad una mobile o da una stazione mobile ad una fissa. 
+ 
+
+ 
+ 2. STAZIONE MOBILE 
+ 
+
+ 
+ 2.1. TRASMETTITORE 
+ 
+
+ 
+ 2.1.1 PARAMETRI DI FREQUENZA 
+ 
+
+ 
+ 2.1.1.1 NUMERAZIONE, ASSEGNAZIONE DI FREQUENZA E PASSO DI
+ 
+
+ 
+ CANALIZZAZIONE 
+ 
+
+ 
+ Il passo di canalizzazione deve essere 25 KHz. 
+ 
+
+ 
+ L'apparecchiatura dovrà funzionare almeno con 504 canali. Il canale
+ 
+
+ 
+ trasmittente della stazione mobile a 890,0125 Mhz (ed il
+ 
+
+ 
+ corrispondente canale trasmittente della stazione fissa a 935,0125
+ 
+
+ 
+ MHz) dovrà essere denominato canale numero 1. Il canale trasmittente
+ 
+
+ 
+ della stazione mobile a 902,5875 MHz (ed il corrispondente canale
+ 
+
+ 
+ trasmittente della stazione fissa a 947,5875 MHz) dovrà essere
+ 
+
+ 
+ denominato canale numero 504. 
+ 
+
+ 
+ 2.1.1.2 CANALI DI CONTROLLO DEDICATI 
+ 
+
+ 
+ Gli apparati mobili devono poter operare almeno sui seguenti 2
+ 
+
+ 
+ blocchi di 21 canali di controllo dedicati: 
+ 
+
+ 
+ blocco a: dal canale 23 al canale 43 incluso 
+ 
+
+ 
+ ( sistema A ) 
+ 
+
+ 
+ blocco b: dal canale 323 al canale 343 incluso 
+ 
+
+ 
+ ( sistema B ) 
+ 
+
+ 
+ Per apparati in grado di operare con più di 2 blocchi di canali di
+ 
+
+ 
+ controllo, il numero del canale a frequenza più bassa degli
+ 
+
+ 
+ ulteriori blocchi deve essere scelto tra i seguenti: 
+ 
+
+ 
+ 98, 173, 248, 398, 473 
+ 
+
+ 
+ il numero del canale di controllo dedicato a frequenza più bassa di
+ 
+
+ 
+ ciascuno dei due blocchi di 21 canali deve essere codificato con 11
+ 
+
+ 
+ bit e memorizzato nella stazione mobile. 
+ 
+
+ 
+ 2.1.1.3 SCARTO DI FREQUENZA 
+ 
+
+ 
+ Lo scarto di frequenza del trasmettitore è la differenza tra la
+ 
+
+ 
+ frequenza misurata sulla portante ed il suo valore nominale. 
+ 
+
+ 
+ Il metodo di misura ed i limiti ammessi sono definiti nell'appendice 
+ 
+
+ 
+ A, sezione A.3.1.1 
+ 
+
+ 
+ 2.1.2 CARATTERISTICHE DI POTENZA A RADIOFREQUENZA 
+ 
+
+ 
+ In funzione della potenza indicata, sono definite le seguenti classi
+ 
+
+ 
+ di stazioni mobili: 
+ 
+
+ 
+ Classe 1 : Stazione mobile di altissima potenza 
+ 
+
+ 
+ Classe 2 : Stazione mobile di alta potenza 
+ 
+
+ 
+ Classe 3 : Stazione mobile di media potenza 
+ 
+
+ 
+ Classe 4 : Stazione mobile di bassa potenza 
+ 
+
+ 
+ Le stazioni mobili della classe 1 possono essere solo configurate
+ 
+
+ 
+ come stazioni mobili veicolari. 
+ 
+
+ 
+ Le stazioni mobili della classe 2 possono essere configurate sia come
+ 
+
+ 
+ mobili veicolari che come stazioni trasportabili, ma non come
+ 
+
+ 
+ portatili a mano. Le stazioni mobili della classe 3 e 4 possono
+ 
+
+ 
+ normalmente esser stazioni portatili a mano (Hand-held). 
+ 
+
+ 
+ 2.1.2.1 CONDIZIONI DI PORTANTE ON/OFF 
+ 
+
+ 
+ Nella condizione di portante esclusa (OFF) la potenza a
+ 
+
+ 
+ radiofrequenza misurata al connettore dell'antenna deve essere
+ 
+
+ 
+ inferiore a -60 dBm. A condizione di portante inserita (ON), il
+ 
+
+ 
+ trasmettitore di una stazione mobile, entro 2 ms, deve raggiungere un
+ 
+
+ 
+ livello di potenza a radiofrequenza entro 3 dB da quella specificata
+ 
+
+ 
+ (vedere sezione 2.1.2.2) e con la stabilità di frequenza richiesta
+ 
+
+ 
+ (vedere sezione 2.1.1.3). Analogamente, quando si comanda la
+ 
+
+ 
+ condizione di portante OFF, la potenza a radiofrequenza deve
+ 
+
+ 
+ raggiungere in 2 ms un livello non superiore a -60 dBm. 
+ 
+
+ 
+ Quando, durante la commutazione di canale, la frequenza di un
+ 
+
+ 
+ trasmettitore differisce di più di 1 kHz dal suo valore iniziale o
+ 
+
+ 
+ finale, la portante del trasmettitore deve essere mantenuta ad un
+ 
+
+ 
+ livello di potenza RF non superiore a - 60 dBm. 
+ 
+
+ 
+ 2.1.2.2 POTENZA A RADIOFREQUENZA E CONTROLLO DI POTENZA 
+ 
+
+ 
+ La massima potenza effettiva irradiata rispetto al dipolo a mezza
+ 
+
+ 
+ onda (ERP) per ogni classe di stazione mobile non deve essere
+ 
+
+ 
+ superiore a 12 dBW (15,8 watt). 
+ 
+
+ 
+ La ERP nominale e la corrispondente potenza al connettore di antenna,
+ 
+
+ 
+ con i relativi metodi di misura, sono riportati nell'Appendice A, 
+ 
+
+ 
+ sezione A.3.1.2 
+ 
+
+ 
+ Un trasmettitore di stazione mobile deve essere capace di ridurre la
+ 
+
+ 
+ potenza RF a passi di 4 db/8 dB su comando della stazione fissa
+ 
+
+ 
+ (vedere sezioni 2.6.3.5, 3.3.1.1, 3.3.1.2.4, e 3.3.2). I livelli
+ 
+
+ 
+ nominali sono riportati nella Tavola 2.1.2-1. 
+ 
+
+ 
+ Ciascun livello di ERP deve essere mantenuto con una tolleranza di
+ 
+
+ 
+ almeno +2dB e -4dB del suo livello nominale sia nelle condizioni
+ 
+
+ 
+ normali di prova che estreme. 
+ 
+
+ 
+ TAVOLA 2.1.2 - 1 
+ 
+
+ 
+ LIVELLI DI POTENZA NOMINALE DI STAZIONE MOBILE 
+ 
+
+ 
+ Livello di Codice ERP Nominale (dBW) 
+ 
+
+ 
+ potenza di di Classe di potenza di 
+ 
+
+ 
+ stazione attenuazione stazione mobile 
+ 
+
+ 
+ mobile mobile 
+ 
+
+ 
+ (PL) (MAC) 1 2 3 4 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 0 000 10 6 2 -2
+ 
+
+ 
+ 1 001 2 2 2 -2
+ 
+
+ 
+ 2 010 -2 -2 -2 -2
+ 
+
+ 
+ 3 011 -6 -6 -6 -6
+ 
+
+ 
+ 4 100 -10 -10 -10 -10
+ 
+
+ 
+ 5 101 -14 -14 -14 -14
+ 
+
+ 
+ 6 110 -18 -18 -18 -18
+ 
+
+ 
+ 7 111 -22 -22 -22 -22
+ 
+
+ 
+ 2.1.3 CARATTERISTICHE DI MODULAZIONE
+ 
+
+ 
+ 2.1.3.1 REQUISITI ELETTROACUSTICI PER I SEGNALI VOCALI
+ 
+
+ 
+ La sezione trasmittente dell'apparato mobile deve essere costituita
+ 
+
+ 
+ da un modulatore di frequenza preceduto dai seguenti stadi per il
+ 
+
+ 
+ trattamento del segnale vocale, disposti nell'ordine elencato:
+ 
+
+ 
+ * Microfono
+ 
+
+ 
+ * Filtro passabanda
+ 
+
+ 
+ * Compressore
+ 
+
+ 
+ * Preenfasi
+ 
+
+ 
+ * Limitatore di deviazione
+ 
+
+ 
+ * Filtro successivo al limitatore di deviazione
+ 
+
+ 
+ Le prestazioni elettroacustiche complessive della sezione
+ 
+
+ 
+ trasmittente dell'apparecchiatura mobile sono definite dal suo valore
+ 
+
+ 
+ di intensità soggettiva (SLR), specificata nella sezione 2.1.3.1.10.
+ 
+
+ 
+ 2.1.3.1.1 SENSIBILITà IN EMISSIONE
+ 
+
+ 
+ La sensibilità complessiva degli stadi di trattamento del segnale
+ 
+
+ 
+ vocale e di modulazione deve essere conforme ai valori riportati
+ 
+
+ 
+ nell'appendice A, sez A.4.1.
+ 
+
+ 
+ 2.1.3.1.2. RISPOSTA IN FREQUENZA IN EMISSIONE
+ 
+
+ 
+ Il microfono del microtelefono ed ogni stadio
+ 
+
+ 
+ preamplificatore/equalizzatore associato debbono avere una risposta
+ 
+
+ 
+ in frequenza compresa nella maschera mostrata nella Figura A.4,
+ 
+
+ 
+ dell'Appendice A. La risposta è normalizzata alla frequenza di 1
+ 
+
+ 
+ KHz.
+ 
+
+ 
+ 2.1.3.1.3 CARATTERISTICHE INGRESSO/USCITA
+ 
+
+ 
+ Il microfono del microtelefono ed ogni stadio
+ 
+
+ 
+ preamplificatore/equalizzatore associato può essere equipaggiato con
+ 
+
+ 
+ dispositivi di cancellazione del rumore, ad esempio un amplificatore
+ 
+
+ 
+ caratterizzato da uno stato con alto guadagno per i segnali relativi
+ 
+
+ 
+ al parlato e da uno stato a basso guadagno per sopprimere il rumore
+ 
+
+ 
+ in assenza di segnale vocale.
+ 
+
+ 
+ 2.1.3.1.4 FILTRO PASSABANDA
+ 
+
+ 
+ Il filtro passabanda che precede lo stadio compressore di dinamica
+ 
+
+ 
+ deve avere una attenuazione che aumenta con una pendenza di almeno
+ 
+
+ 
+ 24dB/ottava sotto 300Hz e sopra 3000Hz.
+ 
+
+ 
+ 2.1.3.1.5 COMPRESSORE DI DINAMICA
+ 
+
+ 
+ Questo stadio deve essere costituito dalla parte di compressione di
+ 
+
+ 
+ un compandor (compressore - espansore) sillabico avente un rapporto 2
+ 
+
+ 
+ : 1. Il compressore deve impiegare un circuito di controllo di
+ 
+
+ 
+ guadagno di amplificazione a controreazione costituito da un
+ 
+
+ 
+ rettificatore lineare ed una rete di filtraggio a resistenza e
+ 
+
+ 
+ capacità, ovvero da un circuito equivalente (Riferimento:
+ 
+
+ 
+ Raccomandazione G162 Annesso 5, Assemblea Plenaria del CCITT, Maggio-
+ 
+
+ 
+ Giugno 1964, Libro Blu, Vol III, pagina 445).
+ 
+
+ 
+ La tensione nominale di riferimento per il compressore (cioè il
+ 
+
+ 
+ livello che non subisce compressione) deve essere quella prodotta da
+ 
+
+ 
+ un livello acustico di ingresso di -5dBPa alla frequenza di 1kHz
+ 
+
+ 
+ applicato al microfono del microtelefono come descritto in Appendice
+ 
+
+ 
+ A, sezione A.4. Questa tensione di riferimento deve produrre una
+ 
+
+ 
+ deviazione nominale di frequenza di picco pari a +/-2,3 kHz di Il
+ 
+
+ 
+ compressore deve seguire la propria caratteristica nominale 2:1, con
+ 
+
+ 
+ una tolleranza di +/- 0,5dB, per una variazione del segnale BF di
+ 
+
+ 
+ ingresso compreso tra almeno +25dB e -30dB rispetto alla tensione di
+ 
+
+ 
+ riferimento.
+ 
+
+ 
+ Tale caratteristica nominale di compressione deve essere rispettata
+ 
+
+ 
+ nel campo di frequenza da 300Hz a 3000Hz.
+ 
+
+ 
+ Il compressore deve avere un tempo di attacco nominale di 3 ms ed un
+ 
+
+ 
+ tempo di rilascio nominale di 13,5 ms (Riferimento: Raccomandazione
+ 
+
+ 
+ G162, Assemblea Plenaria CCITT, Maggio-Giugno 1964, Libro Blu, Vol
+ 
+
+ 
+ III, pagine 52-60).
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.1.3.1.6 PRE-ENFASI
+ 
+
+ 
+ La caratteristica di preenfasi deve avere una risposta di +6dB/ottava
+ 
+
+ 
+ con tolleranza di +/2dB tra 300Hz e 3000Hz.
+ 
+
+ 
+ 2.1.3.1.7 LIMITATORE DI DEVIAZIONE
+ 
+
+ 
+ Questo stadio per ogni segnale di ingresso applicato al microtelefono
+ 
+
+ 
+ del trasmettitore deve limitare la deviazione istantanea di frequenza
+ 
+
+ 
+ ad un valore pari a +/-9,5kHz. Questo limite deve essere rispettato
+ 
+
+ 
+ escludendo i segnali di supervisione (vedere Sezione 2.4) ed i
+ 
+
+ 
+ segnali di dati a larga banda (vedere sezione 2.1.3.2). Il metodo di
+ 
+
+ 
+ misura della deviazione massima di frequenza di picco è definito in
+ 
+
+ 
+ Appendice A, sezione A.3.1.3.
+ 
+
+ 
+ 2.1.3.1.8 FILTRO SUCCESSIVO AL LIMITATORE DI DEVIAZIONE
+ 
+
+ 
+ Il limitatore di deviazione deve essere seguito da un filtro passa-
+ 
+
+ 
+ basso avente la seguente caratteristica minima di attenuazione:
+ 
+
+ 
+ Banda di Frequenza Attenuazione relativa
+ 
+
+ 
+ a 1000Hz
+ 
+
+ 
+ ------------------------------------------------------------------
+ 
+
+ 
+ 3000-5900Hz 40 log(f/3000)dB
+ 
+
+ 
+ 5900-6100Hz 35dB
+ 
+
+ 
+ 6100-15000Hz 40 log(f/3000)dB
+ 
+
+ 
+ oltre 15000Hz 28dB
+ 
+
+ 
+ 2.1.3.1.9 DISTORSIONE DI MODULAZIONE
+ 
+
+ 
+ Con un segnale di ingresso di 1kHz, avente un livello tale da
+ 
+
+ 
+ produrre una deviazione di frequenza di picco pari a +/- 2,3kHz, il
+ 
+
+ 
+ livello di distorsione di terza armonica prodotto dal microfono,
+ 
+
+ 
+ dagli stadi di trattamento del segnale vocale e del modulatore deve
+ 
+
+ 
+ essere inferiore a 26 dB rispetto al livello del segnale demodulato a
+ 
+
+ 
+ 1kHz. Il livello di tale distorsione deve essere misurato attraverso
+ 
+
+ 
+ una rete di pesatura psofometrica del tipo descritto nella
+ 
+
+ 
+ Raccomandazione CCITT 041 libro rosso 1984.
+ 
+
+ 
+ 2.1.3.1.10 INDICE INTENSITà SOGGETTIVA IN EMISSIONE
+ 
+
+ 
+ L'indice dell'intensità soggettiva in emissione (SLR) della stazione
+ 
+
+ 
+ mobile deve essere 6dB +/-2dB. Il metodo di misura di questo
+ 
+
+ 
+ parametro è specificato nell'Appendice A, Sezione A.4.2 (vedi nota).
+ 
+
+ 
+ 2.1.3.1.11 PERDITA DELL'INTENSITà DELL'EFFETTO LOCALE
+ 
+
+ 
+ La perdita dell'intensità dell'effetto locale (LMeSTn), misurato ad
+ 
+
+ 
+ 1kHz come descritto in Appendice A, deve essere tale che con un
+ 
+
+ 
+ segnale di ingresso di -5dBPa (PMN) produce una uscita acustica
+ 
+
+ 
+ nominale si 17DBPA (PEN), cioè un LMeSTn di 12dB.
+ 
+
+ 
+ Il livello dell'intensità dell'effetto locale non deve essere
+ 
+
+ 
+ influenzato da eventuali controlli di volume presenti sul
+ 
+
+ 
+ microtelefono.
+ 
+
+ 
+ 2.1.3.1.12 INDICE DELL'INTENSITà SOGGETTIVA DELL'EFFETTO LOCALE
+ 
+
+ 
+ L'indice dell'intensità soggettiva dell'effetto locale (STMR)
+ 
+
+ 
+ dell'apparecchiatura mobile deve essere pari a 21dB con tolleranza di
+ 
+
+ 
+ -3/+9dB. Il metodo di misura di questo parametro è specificato
+ 
+
+ 
+ nell'Appendice A, Sez. A.4.5.
+ 
+
+ 
+ 2.1.3.1.13 PERDITA DI ECO DA RICEZIONE A TRASMISSIONE
+ 
+
+ 
+ L'apparecchiatura mobile deve avere una perdita di eco almeno di
+ 
+
+ 
+ 19dB. Il metodo di misura di questo parametro è specificato
+ 
+
+ 
+ nell'Appendice A, Sezione A.4.6.
+ 
+
+ 
+ 2.1.3.1.14 MISURA DELLA PERDITA DI STABILITà DA RICEZIONE A
+ 
+
+ 
+ TRASMISSIONE
+ 
+
+ 
+ L'apparecchiatura mobile deve avere una perdita da ricezione a
+ 
+
+ 
+ trasmissione di almeno 5dB. Il metodo per misurare questo parametro
+ 
+
+ 
+ è specificato nell'Appendice A, Sezione A.4.7.
+ 
+
+ 
+ 2.1.3.2 SEGNALI DATI A BANDA LARGA
+ 
+
+ 
+ 2.1.3.2.1 CODIFICA
+ 
+
+ 
+ Il flusso dati a larga banda del canale di controllo inverso (RECC) e
+ 
+
+ 
+ del canale vocale inverso (RVC) (vedere Sezione 2.7) debbono essere
+ 
+
+ 
+ trattati in maniera tale che a ciascun segnale binario 'unò, del
+ 
+
+ 
+ tipo non-ritorno-a-zero, sia associata una transizione zero-uno. A
+ 
+
+ 
+ ciascun segnale binario 'zerò, del tipo non-ritorno-a-zero, sia
+ 
+
+ 
+ associata una transizione uno-zero. La distorsione telegrafica dei
+ 
+
+ 
+ segnali di dati non deve superare il 5 %.
+ 
+
+ 
+ 2.1.3.2.2 TIPO DI MODULAZIONE E POLARITà
+ 
+
+ 
+ Il flusso dati a larga banda filtrato deve modulare la portante del
+ 
+
+ 
+ trasmettitore con una manipolazione binaria a spostamento diretto di
+ 
+
+ 
+ frequenza. In particolare, ad 'unò applicato al modulatore deve
+ 
+
+ 
+ produrre una deviazione di frequenza di picco nominale di 6,4kHz (+/-
+ 
+
+ 
+ 10%) al di sopra della frequenza della portante, mentre un segnale
+ 
+
+ 
+ 'zerò dovrà produrre una deviazione di frequenza di picco nominale
+ 
+
+ 
+ di 6,4kHz (+/- 10%) al di sotto della frequenza della portante.
+ 
+
+ 
+ 2.1.4 LIMITAZIONI SULLE EMISSIONI
+ 
+
+ 
+ 2.1.4.1 BANDA OCCUPATA
+ 
+
+ 
+ I prodotti di modulazione al di fuori della regione di +/- 17 KHz
+ 
+
+ 
+ dalla portante dovranno avere un livello di almeno 26 dB sotto il
+ 
+
+ 
+ livello della portante non modulata. I prodotti di modulazione al di
+ 
+
+ 
+ fuori della regione +/- 37,5 KHz dalla portante dovranno avere un
+ 
+
+ 
+ livello di almeno 45 dB sotto il livello della portante non modulata.
+ 
+
+ 
+ I prodotti di modulazione al di fuori della regione +/- 50 KHz della
+ 
+
+ 
+ portante dovranno avere un livello di almeno 60 dB sotto il livello
+ 
+
+ 
+ della portante non modulata.
+ 
+
+ 
+ 2.1.4.2 IRRADIAZIONI NON ESSENZIALI
+ 
+
+ 
+ Per irradiazioni non essenziali sono da intendersi tutte le
+ 
+
+ 
+ irradiazioni su qualunque altra frequenza diversa da quella della
+ 
+
+ 
+ portante e delle bande laterali associate al normale processo di
+ 
+
+ 
+ modulazione.
+ 
+
+ 
+ Le irradiazioni non essenziali vanno rilevate misurando:
+ 
+
+ 
+ (a) il loro livello di potenza all'uscita del trasmettitore;
+ 
+
+ 
+ (b) la loro potenza equivalente irradiata dal contenitore e dalle
+ 
+
+ 
+ varie parti dell'apparato.
+ 
+
+ 
+ I valori ammessi per tali irradiazioni e i relativi metodi di misura
+ 
+
+ 
+ sono riportati in Appendice A, sezione A.3.1.4.
+ 
+
+ 
+ 2.2. RICEVITORE
+ 
+
+ 
+ 2.2.1 PARAMETRI DI FREQUENZA
+ 
+
+ 
+ 2.2.1.1 NUMERAZIONE, ASSEGNAZIONE DI FREQUENZA E PASSO DI
+ 
+
+ 
+ CANALIZZAZIONE
+ 
+
+ 
+ Il passo di canalizzazione deve essere 25 kHz.
+ 
+
+ 
+ L'apparecchiatura dovrà funzionare almeno con 504 canali Il canale
+ 
+
+ 
+ ricevente della stazione mobile a 935,0125 MHz (ed il corrispondente
+ 
+
+ 
+ canale ricevente della stazione fissa a 890,0125 MHz) dovrà essere
+ 
+
+ 
+ denominato canale numero 1.
+ 
+
+ 
+ Il canale ricevente della stazione mobile a 947,5875 MHz (ed il
+ 
+
+ 
+ corrispondente canale ricevente della stazione fissa a 902,5875 MHz)
+ 
+
+ 
+ dovrà essere denominato canale numero 504.
+ 
+
+ 
+ 2.2.1.2 TOLLERANZA DI FREQUENZA
+ 
+
+ 
+ La frequenza centrale di risposta del ricevitore deve avere una
+ 
+
+ 
+ tolleranza di +/-3,5 parti per milione (ppm) rispetto alla frequenza
+ 
+
+ 
+ nominale di ricezione eccetto durante la commutazione di canale.
+ 
+
+ 
+ Questa tolleranza include l'invecchiamento del cristallo e deve
+ 
+
+ 
+ essere mantenuta tale per un periodo di tempo di almeno un anno sia
+ 
+
+ 
+ in condizioni di prova normali che estreme (come specificato
+ 
+
+ 
+ nell'Appendice A, Sezione A.1.1 e A.1.2) e senza ulteriori
+ 
+
+ 
+ regolazioni.
+ 
+
+ 
+ 2.2.2 CARATTERISTICHE DI DEMODULAZIONE
+ 
+
+ 
+ 2.2.2.1 REQUISITI ELETTROACUSTICI PER I SEGNALI VOCALI
+ 
+
+ 
+ La sezione ricevente dell'apparato mobile deve essere costituita da
+ 
+
+ 
+ una demodulazione di frequenza seguito dai seguenti stadi per il
+ 
+
+ 
+ trattamento vocale, disposti nell'ordine elencato:
+ 
+
+ 
+ * De-enfasi - | L'ordine di questi due stadi può
+ 
+
+ 
+ | essere invertito
+ 
+
+ 
+ * Filtro passabanda - |
+ 
+
+ 
+ * Espansore
+ 
+
+ 
+ * Amplificatore/controllo guadagno/ricevitore acustico
+ 
+
+ 
+ Le prestazioni elettroacustiche complessive della sezione ricevente
+ 
+
+ 
+ dell'apparecchiatura mobile sono definite dal suo Indice Intensità
+ 
+
+ 
+ Soggettiva in Ricezione (RLR), specificato nella Sezione 2.2.2.1.9.
+ 
+
+ 
+ 2.2.2.1.1 SENSIBILITà DI RICEZIONE
+ 
+
+ 
+ La sensibilità complessiva di demodulazione e degli stadi di
+ 
+
+ 
+ trattamento del segnale vocale deve essere tale che, ad un segnale di
+ 
+
+ 
+ ingresso modulato alla frequenza di 1kHz, con una deviazione nominale
+ 
+
+ 
+ di frequenza di picco pari a +/-2,3 kHz, deve corrispondere un
+ 
+
+ 
+ livello di uscita acustico nominale di - 10 dBPa. Il metodo per
+ 
+
+ 
+ misurare tale sensibilità è definito nell'appendice A, sezione
+ 
+
+ 
+ 4.3.1
+ 
+
+ 
+ 2.2.2.1.2 DE-ENFASI
+ 
+
+ 
+ La caratteristica di deenfasi deve avere una risposta di -6dB/ottava
+ 
+
+ 
+ (+/-2dB) tra 300Hz e 3000Hz.
+ 
+
+ 
+ 2.2.2.1.3 FILTRO PASSABANDA
+ 
+
+ 
+ Il filtro passabanda che segue lo stadio di deenfasi deve avere una
+ 
+
+ 
+ attenuazione che aumenta con una pendenza pari ad almeno 24dB/ottava
+ 
+
+ 
+ sotto i 300Hz ed almeno 36dB/ottava sopra i 3000Hz.
+ 
+
+ 
+ 2.2.2.1.4 ESPANSORE
+ 
+
+ 
+ Questo stadio deve essere costituito dalla parte di espansione di un
+ 
+
+ 
+ compandor (compressore - espansore) sillabico avente un rapporto 2:1.
+ 
+
+ 
+ L'espansore deve impiegare un circuito di controllo di guadagno di
+ 
+
+ 
+ amplificazione a controreazione costituito da un rettificatore
+ 
+
+ 
+ lineare ed una rete di filtraggio a resistenza e capacità, ovvero da
+ 
+
+ 
+ un circuito equivalente (Riferimento: Annesso 5 della Assemblea
+ 
+
+ 
+ Plenaria del CCITT, Maggio-Giugno 1964, Libro Blu, Vol III, pagina
+ 
+
+ 
+ 445).
+ 
+
+ 
+ La tensione nominale di riferimento per l'espansore (cioè il livello
+ 
+
+ 
+ che non subisce espansione) deve essere quella corrispondente ad un
+ 
+
+ 
+ tono di 1kHz che modula la portante RF con deviazione di frequenza di
+ 
+
+ 
+ picco pari a +/-2,3kHz. L'espansore deve seguire la propria
+ 
+
+ 
+ caratteristica nominale di espansione di 1:2, con una tolleranza di
+ 
+
+ 
+ +/-1dB, per una variazione del segnale BF di ingresso compreso tra
+ 
+
+ 
+ almeno +12,5dB e -15dB rispetto al livello della tensione nominale di
+ 
+
+ 
+ riferimento.
+ 
+
+ 
+ L'espansore deve avere un tempo di attacco nominale di 13,5 ms ed un
+ 
+
+ 
+ tempo di rilascio nominale di 13,5 ms (Riferimento: Raccomandazione
+ 
+
+ 
+ G162, Assemblea Plenaria CCITT, Maggio-Giugno 1964, Libro Blu, Vol
+ 
+
+ 
+ III, pagine 52-60, e con x=0,75 e y=1,5 nell'altro metodo di misura
+ 
+
+ 
+ definito nella nota 3 di pagina 59).
+ 
+
+ 
+ 2.2.2.1.5 CONTROLLO DI GUADAGNO DELL'AMPLIFICATORE
+ 
+
+ 
+ L'espansore può essere seguito da un amplificatore comprendente un
+ 
+
+ 
+ controllo di volume audio sul microtelefono, accessibile all'utente.
+ 
+
+ 
+ La regolazione del dispositivo di controllo di volume non deve super-
+ 
+
+ 
+ are i 20dB, e tale dispositivo deve essere facilmente posizionabile
+ 
+
+ 
+ (in termini di dB) al centro del suo campo di regolazione. Se il
+ 
+
+ 
+ controllo di volume è comandato elettronicamente, allora esso deve
+ 
+
+ 
+ essere posizionato al centro della sua escursione all'atto
+ 
+
+ 
+ dell'accensione dell'apparecchiatura.
+ 
+
+ 
+ Esso dovrebbe essere preferibilmente automaticamente posizionato al
+ 
+
+ 
+ centro dell'escursione anche alla fine di una conversazione.
+ 
+
+ 
+ 2.2.2.1.6 RISPOSTA AMPIEZZA/FREQUENZA IN RICEZIONE
+ 
+
+ 
+ La risposta Ampiezza/Frequenza rilevata con orecchio artificiale
+ 
+
+ 
+ (CCITT P51, red book 1984) accoppiata al padiglione del microtelefono
+ 
+
+ 
+ e relativa al ricevitore telefonico ed ad ogni stadio
+ 
+
+ 
+ amplificatore/equalizzatore associato, deve essere compresa nella
+ 
+
+ 
+ maschera mostrata in figura A.5.
+ 
+
+ 
+ 2.2.2.1.7 CARATTERISTICHE DI INGRESSO/USCITA
+ 
+
+ 
+ Per una variazione del livello di uscita acustico compreso tra
+ 
+
+ 
+ +20dBPa a -30dBPa, l'insieme costituito dall'auricolare del
+ 
+
+ 
+ microtelefono ed ogni stadio amplificatore/equalizzatore associato
+ 
+
+ 
+ deve avere alla frequenza di 1 kHz, una caratteristica di
+ 
+
+ 
+ trasferimento lineare con tolleranza di +/1dB. Tali valori devono
+ 
+
+ 
+ essere misurati con un orecchio artificiale come descritto
+ 
+
+ 
+ nell'Appendice A, Sezione A.4.
+ 
+
+ 
+ Allo scopo di proteggere l'utente, dovrà essere incorporato un
+ 
+
+ 
+ dispositivo limitatore il quale assicuri che la massima uscita
+ 
+
+ 
+ acustica non sia superiore ai +24dBPa.
+ 
+
+ 
+ 2.2.2.1.8 DISTORSIONE DI DEMODULAZIONE
+ 
+
+ 
+ Con il livello della portante ricevuta pari a -50dBm, modulata alla
+ 
+
+ 
+ frequenza fondamentale di 1kHz e con il controllo di volume del
+ 
+
+ 
+ microtelefono posizionato al centro del suo campo di regolazione, il
+ 
+
+ 
+ livello della distorsione di terza armonica prodotto dal
+ 
+
+ 
+ demodulatore, dagli stadi per il trattamento del segnale vocale e
+ 
+
+ 
+ dall'auricolare deve essere di almeno 24dB al di sotto del livello
+ 
+
+ 
+ della fondamentale. La deviazione di picco della portante alla
+ 
+
+ 
+ frequenza di 1 kHz deve essere pari a +/- 2,3 kHz. La frequenza
+ 
+
+ 
+ fondamentale e le componenti di terza armonica debbono essere
+ 
+
+ 
+ misurate in termini di pressione acustica generata nell'orecchio
+ 
+
+ 
+ artificiale. Inoltre, quando si riceve una portante non modulata a
+ 
+
+ 
+ -50dBm, il ronzio ed il rumore residui misurati in termini di
+ 
+
+ 
+ pressione acustica generata nell'orecchio artificiale e pesate con
+ 
+
+ 
+ una caratteristica di filtraggio psofometrica (come descritto nella
+ 
+
+ 
+ Raccomandazione 0.41 del CCITT, Red book, 1984), debbono essere
+ 
+
+ 
+ almeno di 32 dB sotto il livello che sarebbe prodotto da una portante
+ 
+
+ 
+ modulata con un tono di 1kHz avente una deviazione di frequenza di
+ 
+
+ 
+ picco di +/-6,4 kHz.
+ 
+
+ 
+ 2.2.2.1.9 INDICE DELL'INTENSITà SOGGETTIVA IN RICEZIONE
+ 
+
+ 
+ L'indice dell'Intensità Soggettiva in Ricezione (RLR) della stazione
+ 
+
+ 
+ mobile, con il controllo di volume del microtelefono posizionato al
+ 
+
+ 
+ centro del suo campo di regolazione, deve essere pari a -3,5dB con
+ 
+
+ 
+ tolleranza di +/-2dB. Il minimo (cioè il più sensibile) RLR
+ 
+
+ 
+ permesso con il controllo di volume del microtelefono posizionato al
+ 
+
+ 
+ massimo, deve essere pari a -13dB.
+ 
+
+ 
+ Il metodo per misurare questo parametro è specificato ( nell'Appen-
+ 
+
+ 
+ dice A, sezione 4.4 (vedi nota 2 appendice D). )
+ 
+
+ 
+ 2.2.3 IRRADIAZIONI PARASSITE
+ 
+
+ 
+ I valori e il metodo di misura relativi alle irradiazioni parassite
+ 
+
+ 
+ sono riportati nella Appendice A, sez. A.3.2.5.
+ 
+
+ 
+ 2.2.4 PARAMETRI DI PRESTAZIONE
+ 
+
+ 
+ 2.2.4.1 MASSIMA SENSIBILITà UTILE
+ 
+
+ 
+ La definizione, i metodi di misura ed i limiti di prestazione per la
+ 
+
+ 
+ massima sensibilità utile sono definiti nell'Appendice A, Sez.
+ 
+
+ 
+ A.3.2.1.
+ 
+
+ 
+ 2.2.4.2. SELETTIVITà RISPETTO AL CANALE ADIACENTE
+ 
+
+ 
+ La caratteristica di selettività di frequenza del ricevitore
+ 
+
+ 
+ misurata prima del rivelatore di modulazione di frequenza deve essere
+ 
+
+ 
+ mantenuta entro i limiti specificati di seguito con una temperatura
+ 
+
+ 
+ ambiente che varia da -10 gradi Celsius a +55 gradi Celsius:
+ 
+
+ 
+ Attenuazione Frequenza (F) alla quale
+ 
+
+ 
+ questa attenuazione deve
+ 
+
+ 
+ essere ottenuta
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ - 6dB relativi alla risposta del F < Fc+13,5kHz
+ 
+
+ 
+ segnale ricevuto ad Fc, dove F > Fc-13,5kHz
+ 
+
+ 
+ per Fc si intende la frequenza
+ 
+
+ 
+ centrale della risposta del
+ 
+
+ 
+ ricevitore
+ 
+
+ 
+ - 55dB relativi alla risposta del F < Fo +25 kHz
+ 
+
+ 
+ segnale ricevuto alla F > Fo -25 kHz
+ 
+
+ 
+ frequenza nominale della
+ 
+
+ 
+ portante (Fo)
+ 
+
+ 
+ 2.2.4.3 PROTEZIONE CONTRO LE RISPOSTE PARASSITE
+ 
+
+ 
+ La definizione, i metodi di misura ed i valori della reiezione alle
+ 
+
+ 
+ risposte parassite del ricevitore sono definiti nell'Appendice A,
+ 
+
+ 
+ Sezione A.3.2.2
+ 
+
+ 
+ 2.2.4.4 REIEZIONE ALL'INTERMODULAZIONE
+ 
+
+ 
+ La definizione, i metodi di misura ed i valori di reiezione
+ 
+
+ 
+ all'intermodulazione del ricevitore sono definite nell'Appendice A,
+ 
+
+ 
+ Sez. A.3.2.3
+ 
+
+ 
+ 2.2.4.5 BLOCCAGGIO O DESENSIBILIZZAZIONE
+ 
+
+ 
+ La definizione, i metodi di misura ed i valori per il bloccaggio o
+ 
+
+ 
+ desensibilizzazione del ricevitore sono definiti nell'Appendice A,
+ 
+
+ 
+ Sezione A.3.2.4
+ 
+
+ 
+ 2.2.4.6 PRESTAZIONI DELLA TRASMISSIONE DATI
+ 
+
+ 
+ Nelle normali condizioni di prova (vedere Appendice A, Sezione
+ 
+
+ 
+ A.1.1), con livelli del segnale di ingresso al connettore di antenna
+ 
+
+ 
+ di -113dBm e -111dBm, la probabilità di ricevere con successo un
+ 
+
+ 
+ messaggio di controllo di una stazione mobile di lunghezza pari ad
+ 
+
+ 
+ una parola (con una decisione a maggioranza su un blocco di cinque
+ 
+
+ 
+ parole e con una correzione di errore basata sul codice BCH, come
+ 
+
+ 
+ mostrato nella figura 3.3.1-1) deve essere rispettivamente migliore
+ 
+
+ 
+ del 95% e 99,9%.
+ 
+
+ 
+ 2.3 SICUREZZA ED IDENTIFICAZIONE
+ 
+
+ 
+ 2.3.1 NUMERO DI IDENTIFICAZIONE MOBILE
+ 
+
+ 
+ Un numero di Identificazione Mobile (MIN) di 34 bit è derivato, con
+ 
+
+ 
+ il metodo indicato nel seguito, dalle dieci cifre dell'Identità di
+ 
+
+ 
+ Stazione Mobile Internazionale (IMSI). L'IMSI comprende le tre cifre
+ 
+
+ 
+ del Codice di Nazione Mobile (MCC), una cifra del Codice di Rete Mo-
+ 
+
+ 
+ bile (MNC) e sei cifre del Numero di Identificazione di Stazione Mo-
+ 
+
+ 
+ bile (MSIN) - (Riferimenti - 'Piano di identificazione per stazioni
+ 
+
+ 
+ Mobili terrestri, Raccomandazione E.212 del CCITT, Ottobre 1984). Il
+ 
+
+ 
+ MIN è derivato mediante le seguenti procedure (vedere anche la
+ 
+
+ 
+ Sezione 2.7.1).
+ 
+
+ 
+ (1) Le prime tre cifre (codice di Nazione Mobile - MCC) sono
+ 
+
+ 
+ trasformate in 10 bit (corrispondenti al MIN2-p) mediante il
+ 
+
+ 
+ seguente algoritmo di codifica:
+ 
+
+ 
+ (a) Rappresentare il campo di tre cifre come D1 D2 e D3
+ 
+
+ 
+ attribuendo alla la cifra 0 il valore 10.
+ 
+
+ 
+ (b) Calcolare 100xD1+10xD2+D3-111.
+ 
+
+ 
+ (c) Convertire il risultato del passo (b) in binario mediante
+ 
+
+ 
+ la convenzionale conversione decimale-binario (vedere la
+ 
+
+ 
+ tavola di seguito).
+ 
+
+ 
+ (2) La cifra successiva (il Codice di Rete Mobile MNC) deve
+ 
+
+ 
+ essere trasformata nei quattro bit più significativi di
+ 
+
+ 
+ MIN1 p tramite una conversione Decimale-Codificato-Binario
+ 
+
+ 
+ (BCD), come specificato nella tavola seguente.
+ 
+
+ 
+ (3) Le ultime sei cifre (Numero di Identificazione di Stazione
+ 
+
+ 
+ Mobile) sono trasformate nei 20 bit meno significativi di
+ 
+
+ 
+ MIN1 p nel modo seguente:
+ 
+
+ 
+ (a) Le tre cifre più significative sono trasformate in 10
+ 
+
+ 
+ bit mediante l'algoritmo di codifica descritto al punto
+ 
+
+ 
+ (1).
+ 
+
+ 
+ (b) Le tre cifre meno significative sono trasformate in 10
+ 
+
+ 
+ bit mediante l'algoritmo di codifica descritto al punto
+ 
+
+ 
+ (1).
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ CONVERSIONE DECIMALE-BINARIA
+ 
+
+ 
+ Numero decimale Numero binario
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 1 0000000001
+ 
+
+ 
+ 2 0000000010
+ 
+
+ 
+ 3 0000000011
+ 
+
+ 
+ 4 0000000100
+ 
+
+ 
+ .. ..
+ 
+
+ 
+ .. ..
+ 
+
+ 
+ 998 1111100110
+ 
+
+ 
+ 999 1111100111
+ 
+
+ 
+ PROCEDURA DI TRASFORMAZIONE BCD DELLA QUARTA CIFRA
+ 
+
+ 
+ Cifra delle migliaia Sequenza binaria
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 1 0001
+ 
+
+ 
+ 2 0010
+ 
+
+ 
+ 3 0011
+ 
+
+ 
+ 4 0100
+ 
+
+ 
+ 5 0101
+ 
+
+ 
+ 6 0110
+ 
+
+ 
+ 7 0111
+ 
+
+ 
+ 8 1000
+ 
+
+ 
+ 9 1001
+ 
+
+ 
+ 0 1010
+ 
+
+ 
+ Nel seguente esempio l'Identità di Stazione Mobile Internazionale
+ 
+
+ 
+ (IMSI) 321 1 456789 è codificato in MIN2 e MIN1 usando la procedura
+ 
+
+ 
+ descritta sopra:
+ 
+
+ 
+ * Min2. I numero a 10 bit è derivato dalle prime tre cifre del
+ 
+
+ 
+ IMSI (cioè 321) che costituiscono l'MCC.
+ 
+
+ 
+ i. D1 = 3 ; D2 = 2 ; D3 = 1
+ 
+
+ 
+ ii. 100 x D1 + 10 x D2 + D3 - 111 =
+ 
+
+ 
+ 100 x 3 + 10 x 2 + 1 - 111 = 210
+ 
+
+ 
+ iii. 210 in binario è "00 1101 0010" .
+ 
+
+ 
+ Quindi Min2 è "00 1101 0010".
+ 
+
+ 
+ * MIN1. I quattro bit più significativi di MIN1 sono derivati
+ 
+
+ 
+ dal Codice di Rete Mobile (cioè 1) mediante una conversione
+ 
+
+ 
+ BCD:
+ 
+
+ 
+ 1 in BCD è "0001"
+ 
+
+ 
+ I successivi dieci bit più significativi di MIN1 sono
+ 
+
+ 
+ derivati dalle tre cifre più significative di MSIN che è di
+ 
+
+ 
+ sei cifre (cioè 456).
+ 
+
+ 
+ i. D1=4 ; D2=5 ; D3=6.
+ 
+
+ 
+ ii. 100 x D1 +10 x D2 +D3 - 111 =
+ 
+
+ 
+ 100 x 4 + 10 x 5 + 6 - 111 = 345
+ 
+
+ 
+ iii. 345 in binario è "0101 0110 01"
+ 
+
+ 
+ I 10 bit meno significativi di MIN1 dono derivati dalle tre cifre
+ 
+
+ 
+ meno significative di MSIN (cioè 789).
+ 
+
+ 
+ i. D1 = 7 ; D2 = 8 ; D3 = 9.
+ 
+
+ 
+ ii. 100 x D1 + 10 x D2 + D3 - 111 =
+ 
+
+ 
+ 100 x 7 + 10 x 8 + 9 - 111 = 678
+ 
+
+ 
+ iii. 678 è in binario "10 1010 0110".
+ 
+
+ 
+ Quindi MIN1 è "0001 0101 0110 0110 1010 0110".
+ 
+
+ 
+ 2.3.2 NUMERO DI SERIE
+ 
+
+ 
+ Il numero di serie è un numero binario a 32 bit che identifica
+ 
+
+ 
+ univocamente una stazione mobile. Esso è utilizzato per motivi di
+ 
+
+ 
+ sicurezza, al fine di impedire frodi con l'apparato. Esso deve essere
+ 
+
+ 
+ introdotto durante la produzione dell'apparato e non facilmente
+ 
+
+ 
+ alterabile sul campo. La circuiteria in cui risiede il numero di
+ 
+
+ 
+ serie deve essere protetta da manomissioni.
+ 
+
+ 
+ Eventuali tentativi di alterare la circuiteria contenente il numero
+ 
+
+ 
+ di serie, debbono rendere l'intera stazione mobile inoperativa.
+ 
+
+ 
+ 2.3.3 MARCHIO DELLA CLASSE DI STAZIONE
+ 
+
+ 
+ In una stazione mobile deve essere memorizzato il marchio della
+ 
+
+ 
+ classe di stazione (SCM sp) contenente le informazioni relative alla
+ 
+
+ 
+ classe della stazione.
+ 
+
+ 
+ La rappresentazione digitale di questo marchio è specificata nella
+ 
+
+ 
+ tabella di seguito.
+ 
+
+ 
+ Marchi della classe di stazione
+ 
+
+ 
+ Classe di potenza SCM sp
+ 
+
+ 
+ (Vedere Sezione 2.1.2.2)
+ 
+
+ 
+ Classe 1 XXX00
+ 
+
+ 
+ Classe 2 XXX01
+ 
+
+ 
+ Classe 3 XXX10
+ 
+
+ 
+ Classe 4 XXX11
+ 
+
+ 
+ Tipi di stazione
+ 
+
+ 
+ Trasmissione continua XX0XX
+ 
+
+ 
+ Trasmissione discontinua (1) XX1XX
+ 
+
+ 
+ Equipaggiata per 600 canali (2) 01XXX
+ 
+
+ 
+ Equipaggiata per 1000 canali (2) 00XXX
+ 
+
+ 
+ Equipaggiata per 1320 canali (2) 10XXX
+ 
+
+ 
+ Riservato per uso futuro 11XXX
+ 
+
+ 
+ (1) Quando DTX s è impostato ad '1', la stazione mobile può usare
+ 
+
+ 
+ il modo di trasmissione discontinuo mentre sul canale vocale esegue
+ 
+
+ 
+ il compito 'Conversazionè. Altrimenti la stazione mobile deve usare
+ 
+
+ 
+ il modo di trasmissione continuo.
+ 
+
+ 
+ (2) Le stazioni mobili debbono sempre inviare il marchio
+ 
+
+ 
+ corrispondente al proprio equipaggiamento. Le stazioni mobili,
+ 
+
+ 
+ indipendentemente dal loro equipaggiamento indicato dal marchio,
+ 
+
+ 
+ operano sui 504 canali definiti nelle sezioni 2.1.1.1 e 2.2.1.1.
+ 
+
+ 
+ (3) Se la configurazione della stazione mobile è modificata in modo
+ 
+
+ 
+ tale che il marchio della classe di stazione cambia, per esempio
+ 
+
+ 
+ collegando un amplificatore RF di potenza ad una apparecchiatura
+ 
+
+ 
+ trasportabile a mano di classe 4, i bit del marchio della classe di
+ 
+
+ 
+ stazione (vedere la sezione 2.1.2.2) debbono essere modificati per
+ 
+
+ 
+ riflettere il nuovo marchio della classe della stazione. Nessun
+ 
+
+ 
+ cambiamento può avvenire durante la procedura di Conversazione nel
+ 
+
+ 
+ SCM sp e quindi nella potenza RF della stazione mobile o nel modo di
+ 
+
+ 
+ trasmissione discontinuo (DTX).
+ 
+
+ 
+ 2.3.4 MEMORIA DI REGISTRAZIONE
+ 
+
+ 
+ Quando si spegne la stazione mobile occorre memorizzare le ultime
+ 
+
+ 
+ quattro coppie di parole: la parola di 'prossima registrazionè
+ 
+
+ 
+ (NXTREG sp), formata da 21 bit (20 bit di dati più un bit di
+ 
+
+ 
+ riporto), e la corrispondente parola di identificazione dell'area di
+ 
+
+ 
+ traffico (AID sp) di 15 bit. Il tempo di mantenimento dei dati in
+ 
+
+ 
+ memoria in condizioni di apparecchiatura spenta deve essere superiore
+ 
+
+ 
+ a 48 ore. Se l'integrità dei dati memorizzati non può essere
+ 
+
+ 
+ garantita dopo che la stazione mobile è stata disconnessa dalla
+ 
+
+ 
+ batteria del veicolo, allora la memoria deve essere azzerata ogni
+ 
+
+ 
+ qualvolta che l'alimentazione è di nuovo applicata alla stazione mo-
+ 
+
+ 
+ bile.
+ 
+
+ 
+ 2.3.5 CLASSE DI SOVRACCARICO DI ACCESSO
+ 
+
+ 
+ Un numero di quattro bit (ACCOLC p) deve essere memorizzato nella
+ 
+
+ 
+ stazione mobile ed usato per identificare quale campo di classe di
+ 
+
+ 
+ sovraccarico controlla i tentativi di accesso da parte della stazione
+ 
+
+ 
+ mobile (vedere Sezione 2.6.3.7).
+ 
+
+ 
+ 2.3.6 METODO DI ACCESSO
+ 
+
+ 
+ Un bit indicante il metodo di accesso (EX p) deve essere memorizzato
+ 
+
+ 
+ nella stazione mobile ed essere usato per determinare se la parola di
+ 
+
+ 
+ indirizzo esteso deve essere inclusa in tutti i tentativi di accesso
+ 
+
+ 
+ (vedere la Sezione 2.6.3.7).
+ 
+
+ 
+ 2.3.7. PRIMO CANALE DI CHIAMATA (Paging)
+ 
+
+ 
+ Una parola di 11 bit indicante il primo canale di chiamata
+ 
+
+ 
+ (FIRSTCHP p) deve essere memorizzato nella stazione mobile ed usato
+ 
+
+ 
+ per identificare il numero del primo canale di chiamata qualora la
+ 
+
+ 
+ stazione mobile sia "domestica" (vedere la Sezione 2.6.1.1.2).
+ 
+
+ 
+ 2.3.8. IDENTIFICATIVO DI AREA DOMESTICA
+ 
+
+ 
+ Una parola di 15 bit indicante l'identificativo di area di traffico
+ 
+
+ 
+ (AID p) deve essere memorizzato nella stazione mobile ed usato per
+ 
+
+ 
+ identificare l'area domestica della stazione mobile (vedere la
+ 
+
+ 
+ Sezione 2.6.1.1.2).
+ 
+
+ 
+ 2.3.9 OPZIONE CONTROLLO LOCALE
+ 
+
+ 
+ Nella stazione mobile occorre predisporre un mezzo per abilitare o
+ 
+
+ 
+ disabilitare l'opzione di controllo locale (vedere Sezione 2.6.1.2.2
+ 
+
+ 
+ e 2.6.2.1).
+ 
+
+ 
+ 2.3.10 SELEZIONE DELLA NAZIONE/RETE
+ 
+
+ 
+ Nella stazione mobile occorre predisporre un mezzo per l'utente per
+ 
+
+ 
+ selezionare manualmente la nazione/rete su cui il servizio è
+ 
+
+ 
+ richiesto. (Il passaggio automatico ad un'altra nazione/rete non è
+ 
+
+ 
+ permesso). Si raccomanda che una indicazione sia disponibile per
+ 
+
+ 
+ l'utente circa quale nazione/rete sia stata selezionata, e che la
+ 
+
+ 
+ selezione della nazione/rete sia mantenuta anche quando
+ 
+
+ 
+ l'alimentazione del mobile è scollegata.
+ 
+
+ 
+ 2.3.11 INFORMAZIONI SPECIFICHE DELLA NAZIONE/RETE
+ 
+
+ 
+ La stazione mobile deve memorizzare le seguenti informazioni per
+ 
+
+ 
+ ciascuna nazione/rete che può essere selezionata:
+ 
+
+ 
+ * L'AID della nazione/rete (Bit 14-11) ed il bit 10 dell'AID del
+ 
+
+ 
+ sistema preferito in quella nazione/rete, cioè se il sistema
+ 
+
+ 
+ preferito è A o B).
+ 
+
+ 
+ * Il numero di canale del canale di controllo dedicato di più
+ 
+
+ 
+ bassa frequenza del sistema preferito in quella nazione/rete.
+ 
+
+ 
+ * Se è permesso il passaggio tra sistemi in quella nazione/rete, e
+ 
+
+ 
+ se è così il numero di canale del canale di controllo di
+ 
+
+ 
+ frequenza più bassa del sistema non preferito in quella
+ 
+
+ 
+ nazione/rete. Se è permesso il passaggio tra sistemi in quella
+ 
+
+ 
+ nazione/rete deve essere disattivata la "opzione inibizione di
+ 
+
+ 
+ passaggio tra sistemi"; altrimenti deve essere attivata.
+ 
+
+ 
+ Si raccomanda che le informazioni anzidette siano memorizzate in
+ 
+
+ 
+ maniera tale da facilitare la riprogrammazione della stazione mobile
+ 
+
+ 
+ nel caso che essa possa essere utilizzata in altre nazioni/reti.
+ 
+
+ 
+ Una indicazione deve essere data all'utente quando la stazione mobile
+ 
+
+ 
+ è registrata sul sistema non preferito nella nazione/rete
+ 
+
+ 
+ selezionata.
+ 
+
+ 
+ 2.4 SUPERVISIONE
+ 
+
+ 
+ 2.4.1 TONO AUDIO SUPERVISORE
+ 
+
+ 
+ Il tono audio supervisore (SAT), corrisponde ad una delle tre
+ 
+
+ 
+ frequenze: 5970Hz, 6000Hz, 6030Hz. Il SAT è aggiunto alla
+ 
+
+ 
+ trasmissione vocale dalla stazione fissa (vedere la Sezione 3.1.1).
+ 
+
+ 
+ La trasmissione del SAT da parte di una stazione mobile deve essere
+ 
+
+ 
+ sospesa durante la trasmissione di dati a larga banda sul canale
+ 
+
+ 
+ vocale inverso (vedere la Sezione 2.7.2), ma non deve essere sospesa
+ 
+
+ 
+ quando si invia il tono di segnalazione (vedere la Sezione 2.4.2).
+ 
+
+ 
+ Qualora il SAT ricevuto non corrisponda alla frequenza indicata nel
+ 
+
+ 
+ SCC r ricevuto dal mobile nel messaggio di controllo, ma essa rientra
+ 
+
+ 
+ nel campo di frequenze da 5950 Hz a 6050 Hz, la stazione mobile può
+ 
+
+ 
+ o meno trasmettere quello ricevuto.
+ 
+
+ 
+ 2.4.1.1 DETERMINAZIONE DEL SAT
+ 
+
+ 
+ La stazione mobile deve determinare correttamente il SAT ricevuto.
+ 
+
+ 
+ Nel processo di decisione associato alla determinazione del SAT, la
+ 
+
+ 
+ stazione mobile dovrà considerare presente il SAT atteso, cioè
+ 
+
+ 
+ quello definito dal codice di colore del SAT (SCC r) ricevuto dal mo-
+ 
+
+ 
+ bile nel messaggio di controllo, se la frequenza del tono ricevuto è
+ 
+
+ 
+ compresa nella banda di riconoscimento +/- 10 Hz (con tolleranza
+ 
+
+ 
+ -0Hz, +5Hz) centrata sulla frequenza nominale del SAT atteso (cioè
+ 
+
+ 
+ 5970 Hz o 6000 Hz o 6030 Hz come da sez. 3.1.1 e 3.3.2). In tutti gli
+ 
+
+ 
+ altri casi, la stazione mobile non dovrà considerare presente il SAT
+ 
+
+ 
+ atteso.
+ 
+
+ 
+ Quando la stazione mobile determina che il SAT atteso non è
+ 
+
+ 
+ presente, l'audio del ricevitore deve essere silenziato; sebbene non
+ 
+
+ 
+ sia necessario determinare il SAT con continuità, è però
+ 
+
+ 
+ necessario valutarlo almeno ogni 250 ms.
+ 
+
+ 
+ 2.4.1.2 TRASMISSIONE DEL SAT
+ 
+
+ 
+ I requisiti di trasmissione del segnale SAT, inclusi i ritardi di
+ 
+
+ 
+ tempo nel trasmettitore, nel ricevitore e in qualunque altro circuito
+ 
+
+ 
+ di equalizzazione, sono riassunti qui di seguito:
+ 
+
+ 
+ * Risposta al gradino Stabilizzata entro 3 Hz
+ 
+
+ 
+ della frequenza finale
+ 
+
+ 
+ di SAT entro 250ms
+ 
+
+ 
+ * Indice di modulazione 0,28 radianti +/-10%
+ 
+
+ 
+ del tono (deviazione di
+ 
+
+ 
+ frequenza +/- 1.7kHz)
+ 
+
+ 
+ 2.4.1.3 STATO DEL TEMPORIZZATORE DI EVANESCENZA (FADING)
+ 
+
+ 
+ Nel determinare il SAT, una stazione mobile deve eseguire i seguenti
+ 
+
+ 
+ passi:
+ 
+
+ 
+ * Se non si è rilevato un SAT valido o la determinazione del
+ 
+
+ 
+ SAT misurato non coincide con il codice di colore del SAT
+ 
+
+ 
+ (SCC r) ricevuto nel messaggio di controllo della stazione mo-
+ 
+
+ 
+ bile (vedere la Sezione 3.3.1.1 e 3.3.2), bisogna abilitare lo
+ 
+
+ 
+ stato del temporizzatore di evanescenza (vedere la Sezione
+ 
+
+ 
+ 2.6.4.1).
+ 
+
+ 
+ * Altrimenti lo stato del temporizzatore di evanescenza deve
+ 
+
+ 
+ essere disabilitato (vedere la Sezione 2.6.4.1).
+ 
+
+ 
+ Quando si assegna un canale vocale, la stazione fissa deve prendere
+ 
+
+ 
+ nota dell'intervallo di numeri di canale indicato dal marchio di
+ 
+
+ 
+ classe della stazione mobile SCM p (vedere la Sezione 2.3.3).
+ 
+
+ 
+ 2.4.2 TONO DI SEGNALAZIONE
+ 
+
+ 
+ Il tono di segnalazione deve essere 8kHz +/-1Hz e produrre una
+ 
+
+ 
+ deviazione di frequenza nominale di +/-6,4kHz.
+ 
+
+ 
+ 2.5 RIVELAZIONE DEI MALFUNZIONAMENTI
+ 
+
+ 
+ 2.5.1 TEMPORIZZATORE DI MALFUNZIONAMENTI
+ 
+
+ 
+ Un temporizzatore separato e indipendente da tutte le altre funzioni
+ 
+
+ 
+ deve funzionare in modo continuo quando l'alimentazione è fornita al
+ 
+
+ 
+ trasmettitore della stazione mobile.
+ 
+
+ 
+ Nell'esecuzione del programma logico di controllo della stazione mo-
+ 
+
+ 
+ bile occorre predisporre dei controlli di ripristino, in un numero
+ 
+
+ 
+ sufficiente ad assicurare che il temporizzatore non esaurisca il
+ 
+
+ 
+ proprio ciclo fintanto che vengano eseguite tutte le operazioni
+ 
+
+ 
+ previste nella sequenza appropriata.
+ 
+
+ 
+ Se il temporizzatore conclude il proprio ciclo, ciò viene assunto
+ 
+
+ 
+ come un malfunzionamento e pertanto deve essere inibita la
+ 
+
+ 
+ trasmissione della stazione mobile. La massima durata permessa per il
+ 
+
+ 
+ ciclo del temporizzatore è di 60 secondi.
+ 
+
+ 
+ 2.5.2 TRASMISSIONE ERRATA PER MALFUNZIONAMENTI
+ 
+
+ 
+ Occorre provvedere un circuito di protezione per minimizzare la
+ 
+
+ 
+ possibilità di malfunzionamenti del trasmettitore dovuti alla
+ 
+
+ 
+ rottura di componenti nella stazione mobile.
+ 
+
+ 
+ 2.6 TRATTAMENTO DELLA CHIAMATA
+ 
+
+ 
+ Le seguenti sezioni descrivono le operazioni eseguite da una stazione
+ 
+
+ 
+ mobile quando essa è controllata da una stazione fissa.
+ 
+
+ 
+ La stazione mobile deve interpretare i messaggi codificati in BCH in
+ 
+
+ 
+ arrivo dalla stazione fissa e correggere fino ad un errore per
+ 
+
+ 
+ parola. Se si rivela più di un errore per parola, la stazione mobile
+ 
+
+ 
+ deve ignorare il messaggio.
+ 
+
+ 
+ Quando l'alimentazione è applicata alla stazione mobile, si deve
+ 
+
+ 
+ posizionare il segnale AIDL s a zero e quindi iniziare la procedura
+ 
+
+ 
+ Recupero dei Parametri di Sistema (vedere la Sezione 2.6.1.1): In
+ 
+
+ 
+ ogni procedura descritta nelle sezioni da 2.6.1.1 a 2.6.4.5, sono
+ 
+
+ 
+ contenute informazioni su quale altra procedura deve essere
+ 
+
+ 
+ richiamata quando una data procedura termina. Quando non è
+ 
+
+ 
+ specificato, la tolleranza di temporizzazione è +/-10%.
+ 
+
+ 
+ 2.6.1 INIZIALIZZAZIONE
+ 
+
+ 
+ 2.6.1.1 RECUPERO DEI PARAMETRI DI SISTEMA
+ 
+
+ 
+ Se il sistema preferito (vedere la Sezione 2.3.10) è il Sistema A,
+ 
+
+ 
+ la stazione mobile deve posizionare lo stato di sistema in servizio
+ 
+
+ 
+ su abilitato; se il sistema preferito è il Sistema B, la stazione
+ 
+
+ 
+ mobile deve posizionare lo stato di sistema in servizio su
+ 
+
+ 
+ disabilitato.
+ 
+
+ 
+ La stazione mobile deve eseguire i seguenti passi:
+ 
+
+ 
+ * Posizionare lo stato del temporizzatore del sistema non
+ 
+
+ 
+ preferito su disabilitato.
+ 
+
+ 
+ * Posizionare lo stato del temporizzatore di sovraccarico del
+ 
+
+ 
+ sistema non preferito su disabilitato.
+ 
+
+ 
+ * Posizionare lo stato del temporizzatore di sovraccarico su
+ 
+
+ 
+ disabilitato.
+ 
+
+ 
+ * Posizionare lo stato della distribuzione di sovraccarico su
+ 
+
+ 
+ disabilitato.
+ 
+
+ 
+ * Azzerare tutti i segnalatori di "canale di controllo non
+ 
+
+ 
+ valido".
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Scansione dei
+ 
+
+ 
+ Canali di Controllo Dedicati (vedere la Sezione 2.6.1.1.1).
+ 
+
+ 
+ 2.6.1.1.1 SCANSIONE DEI CANALI DI CONTROLLO DEDICATI
+ 
+
+ 
+ Se lo stato del sistema in servizio è abilitato, una stazione mobile
+ 
+
+ 
+ deve esaminare l'intensità del segnale su ciascuno dei canali di
+ 
+
+ 
+ controllo dedicati assegnati al Sistema A eccetto per quei canali
+ 
+
+ 
+ marcati come "canali di controllo non validi". Se lo stato del
+ 
+
+ 
+ sistema in servizio è disabilitato, una stazione mobile deve
+ 
+
+ 
+ esaminare l'intensità del segnale su ciascuno dei canali di
+ 
+
+ 
+ controllo dedicati assegnati al Sistema B, eccetto per quei canali
+ 
+
+ 
+ marcati come "canali di controllo non validi".
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Aggiornamento
+ 
+
+ 
+ dell'Informazione di Supervisione (vedere la Sezione 2.6.1.1.2).
+ 
+
+ 
+ Nota sui tempi di scansione dei canali
+ 
+
+ 
+ Nella sezione 2.6.3, un temporizzatore di accesso viene impostato a 6
+ 
+
+ 
+ secondi per tutti gli accessi al sistema, escluse le origini. In
+ 
+
+ 
+ questo periodo di 6 secondi occorre eseguire i seguenti passi:
+ 
+
+ 
+ (i) Scandire l'insieme dei canali di accesso (vedere la Sezione
+ 
+
+ 
+ 2.6.3.2).
+ 
+
+ 
+ (ii) Recuperare i parametri di tentativo di accesso (vedere la
+ 
+
+ 
+ Sezione 2.6.3.3).
+ 
+
+ 
+ (iii) Aggiornare l'informazione di supervisione (vedere la Sezione
+ 
+
+ 
+ 2.6.3.4).
+ 
+
+ 
+ (iv) Catturare il canale di controllo inverso (vedere la Sezione
+ 
+
+ 
+ 2.6.3.5).
+ 
+
+ 
+ (v) Se il tentativo di accesso fallisce, attendere un tempo
+ 
+
+ 
+ casuale da 0 a 250ms e quindi tentare di nuovo l'accesso
+ 
+
+ 
+ (vedere la Sezione 2.6.3.6).
+ 
+
+ 
+ (vi) Ripetere i passi sopra descritti fino al numero di accessi
+ 
+
+ 
+ specificato.
+ 
+
+ 
+ Il tempo impiegato ad eseguire i passi (ii) e (iii) sarà fino a
+ 
+
+ 
+ 745ms se RCF s=0, fino a 1,495 secondi se RCF s=1 e WFOM s=0, o fino
+ 
+
+ 
+ a 4,025 secondi se RCF s=1 e WFOM s = 1. Se il tentativo di accesso
+ 
+
+ 
+ fallisce, si controlla il temporizzatore di accesso. Per fare in modo
+ 
+
+ 
+ che la stazione mobile abbia più di un tentativo di accesso, la
+ 
+
+ 
+ sequenza di passi sopra descritta deve essere completata in tempo
+ 
+
+ 
+ inferiore ai 6 secondi. Per questa ragione il tempo di scansione dei
+ 
+
+ 
+ canali di accesso, nel caso peggiore (RCF s = 1 e WFOM s = 1), deve
+ 
+
+ 
+ essere meno di due secondi. Dato che nel caso RCF s = 1 e WFOM s = 1
+ 
+
+ 
+ si usano più di 42 canali di accesso, si raccomanda che il tempo
+ 
+
+ 
+ impiegato per scandire un gruppo di canali di accesso sia inferiore a
+ 
+
+ 
+ 40ms per canale. Tempi simili sono raccomandati anche per la
+ 
+
+ 
+ scansione dei canali di controllo dedicati ed dei canali di chiamata
+ 
+
+ 
+ (paging).
+ 
+
+ 
+ Per ridurre gli effetti dell'evanescenza sulla misura dell'intensità
+ 
+
+ 
+ del segnale, si raccomanda di fare su ciascun canale due misure,
+ 
+
+ 
+ distanti tra di loro almeno 20 ms, e di prendere la più forte delle
+ 
+
+ 
+ due come valore dell'intensità del segnale. Per ridurre l'effetto
+ 
+
+ 
+ del rumore sulla misura di intensità del segnale, si raccomanda di
+ 
+
+ 
+ fare la media temporale, su circa 0,5 ms, del logaritmo
+ 
+
+ 
+ dell'intensità del segnale (post-rivelazione).
+ 
+
+ 
+ 2.6.1.1.2 AGGIORNAMENTO DELL'INFORMAZIONE DI SUPERVISIONE
+ 
+
+ 
+ I messaggi supervisori sono inviati in un gruppo chiamato sequenza di
+ 
+
+ 
+ messaggi supervisori (vedere la Sezione (3.3.1.2).
+ 
+
+ 
+ Per determinare che tutti messaggi del gruppo sono stati ricevuti, la
+ 
+
+ 
+ stazione mobile deve usare il valore dato nel campo NAWC del
+ 
+
+ 
+ messaggio supervisore dei parametri di sistema presente nella
+ 
+
+ 
+ suddetta sequenza. Il campo END deve essere usato per il controllo
+ 
+
+ 
+ incrociato. I messaggi inseriti come controllo multiplo (vedere la
+ 
+
+ 
+ Sezione 3.3.1) non debbono essere contati come parte della sequenza
+ 
+
+ 
+ di messaggi supervisori (questo è fatto per determinare
+ 
+
+ 
+ correttamente il NAWC).
+ 
+
+ 
+ Se la stazione mobile riceve un corretto codice BCH ma il messaggio
+ 
+
+ 
+ supervisore non è riconoscibile nella sequenza, la stazione mobile
+ 
+
+ 
+ deve contare il messaggio come parte della sequenza, per mantenere
+ 
+
+ 
+ consistente in NAWC, ma non deve tentare di eseguire il messaggio.
+ 
+
+ 
+ La stazione mobile deve sintonizzarsi sul canale di controllo
+ 
+
+ 
+ dedicato più intenso e, entro 3,75 secondi deve ricevere il
+ 
+
+ 
+ messaggio supervisore dei parametri di sistema (vedere la Sezione
+ 
+
+ 
+ 3.3.1.2) ed aggiornare i seguenti campi:
+ 
+
+ 
+ * Identificativo dell'area di traffico (AID s). impostare i 14
+ 
+
+ 
+ bit più significativi di AID s al valore del campo AID1.
+ 
+
+ 
+ Impostare il bit meno significativo di AID s ad '1' se lo stato
+ 
+
+ 
+ di sistema in servizio è abilitato; altrimenti impostare il
+ 
+
+ 
+ bit a '0'.
+ 
+
+ 
+ * Numero dei canali di chiamata (N s). Impostare N s ad 1 più il
+ 
+
+ 
+ valore del campo "N 1".
+ 
+
+ 
+ * Primo canale di chiamata (FIRSTCHP s). Impostare FIRSTCHP s
+ 
+
+ 
+ come specificato nel seguente algoritmo:
+ 
+
+ 
+ i. Se AID s=AID p, allora FIRSTCHP s=FIRSTCHP p (vedere la
+ 
+
+ 
+ Sezione 2.3.7).
+ 
+
+ 
+ ii. Se AID s non è uguale ad AID p e lo stato di sistema in
+ 
+
+ 
+ servizio è abilitato, allora impostare FIRSTCHP s al
+ 
+
+ 
+ numero del primo canale di controllo dedicato del blocco
+ 
+
+ 
+ A usato per il Sistema A.
+ 
+
+ 
+ iii. Se AID s non è uguale a AID p e lo stato di sistema in
+ 
+
+ 
+ servizio è disabilitato, allora impostare FIRSTCHP s al
+ 
+
+ 
+ numero del primo canale di controllo dedicato del blocco
+ 
+
+ 
+ B usato per il Sistema B.
+ 
+
+ 
+ * Ultimo canale di chiamata (LASTCHP s). Impostare LASTCHP s al
+ 
+
+ 
+ valore di FIRSTCHP s +N s - 1.
+ 
+
+ 
+ * Impostare gli incrementi di registrazione (REGINCR s) al valore
+ 
+
+ 
+ di 450.
+ 
+
+ 
+ * Posizionare lo stato di prima registrazione ID su abilitato.
+ 
+
+ 
+ * Posizionare lo stato di riregistrazione su disabilitato.
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Selezione del
+ 
+
+ 
+ Canale di Chiamata (vedere la Sezione 2.6.1.2).
+ 
+
+ 
+ Se la stazione mobile non può completare questa procedura sul più
+ 
+
+ 
+ intenso dei canali di controllo dedicati, essa deve sintonizzarsi sul
+ 
+
+ 
+ secondo canale di controllo più intenso e cercare di completare
+ 
+
+ 
+ questa procedura in un secondo intervallo di tempo di 3,75 secondi.
+ 
+
+ 
+ Se la stazione mobile non può completare questa procedura su l'uno o
+ 
+
+ 
+ l'altro dei due canali di controllo più intensi, essa deve
+ 
+
+ 
+ controllare lo stato del sistema in servizio. Se lo stato del sistema
+ 
+
+ 
+ in servizio corrisponde al sistema preferito e non è stata abilitata
+ 
+
+ 
+ l'opzione di inibizione di passaggio intersistema (vedere la Sezione
+ 
+
+ 
+ 2.3.11), si deve impostare la stazione mobile in modo tale passare
+ 
+
+ 
+ nello stato di sistema non preferito; se lo stato di sistema in
+ 
+
+ 
+ servizio corrisponde al sistema non preferito, si deve impostare la
+ 
+
+ 
+ stazione mobile in modo da passare nello stato di sistema preferito.
+ 
+
+ 
+ La stazione mobile deve quindi azzerare tutti i segnalatori di
+ 
+
+ 
+ "canale di controllo non valido" ed iniziare la procedura Scansione
+ 
+
+ 
+ dei Canali di Controllo Dedicati (vedere la sezione 2.6.1.1.1).
+ 
+
+ 
+ 2.6.1.2 SELEZIONE DEI CANALI DI CHIAMATA (Paging)
+ 
+
+ 
+ 2.6.1.2.1 SCANSIONE DEI CANALI DI CHIAMATA (Paging)
+ 
+
+ 
+ La stazione mobile deve esaminare l'intensità del segnale su
+ 
+
+ 
+ ciascuno dei canali da FIRSTCHP s a LASTCHP s (vedere la Sezione
+ 
+
+ 
+ 2.6.1.2.2), eccetto per quei canali marcati come "canali di controllo
+ 
+
+ 
+ non validi".
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Verifica
+ 
+
+ 
+ dell'Informazione di Supervisione (vedere la Sezione 2.6.1.2.2).
+ 
+
+ 
+ 2.6.1.2.2 VERIFICA DELL'INFORMAZIONE DI SUPERVISIONE
+ 
+
+ 
+ La stazione mobile deve impostare il bit di Attesa per il messaggio
+ 
+
+ 
+ supervisore (WFOM s) a '0'; la stazione mobile deve quindi
+ 
+
+ 
+ sintonizzarsi sul maggiore dei canali di chiamata ed, entro 3,75
+ 
+
+ 
+ secondi, ricevere la sequenza del messaggio supervisore (vedere la
+ 
+
+ 
+ sezione 3.3.1.2) ed aggiornare i seguenti campi:
+ 
+
+ 
+ * Identificativo di area di traffico: Impostare i 14 bit più
+ 
+
+ 
+ significativi di AID r al valore del campo AID1. Impostare il
+ 
+
+ 
+ bit meno significativo di AID r ad '1' se lo stato di sistema
+ 
+
+ 
+ in servizio è abilitato; altrimenti impostare il bit a '0'.
+ 
+
+ 
+ * Stato errante (ROAMER):
+ 
+
+ 
+ La stazione mobile deve confrontare l'identificativo di sistema
+ 
+
+ 
+ ricevuto (AID r) con l'identificativo di sistema memorizzato
+ 
+
+ 
+ (AID s).
+ 
+
+ 
+ Se AID r non è uguale a AID s, la stazione mobile deve
+ 
+
+ 
+ iniziare la procedura Recupero dei Parametri di Sistema (vedere
+ 
+
+ 
+ la Sezione 2.6.1.1).
+ 
+
+ 
+ Altrimenti la stazione mobile deve confrontare AID s con AID p.
+ 
+
+ 
+ Se i bit da 11 a 14 di AID s non sono uguali ai bit da 11 a 14
+ 
+
+ 
+ di AID p selezionati manualmente (Vedere la Sezione 2.3.10), la
+ 
+
+ 
+ stazione mobile deve marcare il canale di ricerca come un
+ 
+
+ 
+ "canale di controllo non valido" e quindi, ritornare alla
+ 
+
+ 
+ procedura Scansione dei Canali di Controllo Dedicati (Vedere la
+ 
+
+ 
+ Sezione 2.6.1.1.1).
+ 
+
+ 
+ Altrimenti, se i bit da 14 ad 11 di AID s sono uguali ai bit da
+ 
+
+ 
+ 14 a 11 di AID p (cioè il mobile è nella sua propria
+ 
+
+ 
+ nazione), la stazione mobile deve impostare lo stato errante su
+ 
+
+ 
+ disabilitato e quindi controllare lo stato del sistema in
+ 
+
+ 
+ servizio:
+ 
+
+ 
+ Se lo stato del sistema in servizio indica il sistema
+ 
+
+ 
+ preferito, allora lo stato errante deve essere disabilitato. Se
+ 
+
+ 
+ lo stato di sistema in servizio non indica il sistema
+ 
+
+ 
+ preferito, allora lo stato errante deve essere abilitato.
+ 
+
+ 
+ * Stato di controllo locale: se l'opzione di controllo locale è
+ 
+
+ 
+ abilitata nella stazione mobile (vedere la Sezione 2.3.9), lo
+ 
+
+ 
+ stato errante è disabilitato, ed i bit dell'identificativo di
+ 
+
+ 
+ area domestica (AID p) che comprendono l'identificativo di
+ 
+
+ 
+ gruppo, coincidono con i corrispondenti bit di AID s, allora lo
+ 
+
+ 
+ stato di controllo locale deve essere abilitato. Altrimenti lo
+ 
+
+ 
+ stato di controllo locale deve essere disabilitato.
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Inattivo (vedere
+ 
+
+ 
+ la Sezione 2.6.2).
+ 
+
+ 
+ Se la stazione mobile non può completare questa procedura sul più
+ 
+
+ 
+ intenso dei canali di chiamata, essa deve sintonizzarsi sul secondo
+ 
+
+ 
+ canale di chiamata più intenso e cercare di completare questa
+ 
+
+ 
+ procedura in un secondo intervallo di tempo di 3,75 secondi.
+ 
+
+ 
+ Se la stazione mobile non può completare questa procedura su l'uno o
+ 
+
+ 
+ l'altro dei due canali di chiamata più intensi, essa deve
+ 
+
+ 
+ controllare lo stato del sistema in servizio: se lo stato del sistema
+ 
+
+ 
+ in servizio corrisponde al sistema preferito e non è stata abilitata
+ 
+
+ 
+ l'opzione di inibizione di passaggio intersistema (vedere la Sezione
+ 
+
+ 
+ 2.3.11), si deve impostare la stazione mobile in modo tale da passare
+ 
+
+ 
+ nello stato di sistema non preferito; se lo stato di sistema in
+ 
+
+ 
+ servizio corrisponde al sistema non preferito, si deve impostare la
+ 
+
+ 
+ stazione mobile in modo da passare nello stato di sistema preferito.
+ 
+
+ 
+ La stazione mobile deve quindi azzerare tutti i segnalatori di
+ 
+
+ 
+ "canale di controllo non valido" ed iniziare la procedura Scansione
+ 
+
+ 
+ dei Canali di Controllo Dedicati (vedere la sezione 2.6.1.1.1).
+ 
+
+ 
+ 2.6.2 INATTIVO
+ 
+
+ 
+ Durante la procedura Inattivo, una stazione mobile deve eseguire
+ 
+
+ 
+ ciascuna delle seguenti sotto-procedure (vedere le Sezioni 2.6.2.1,
+ 
+
+ 
+ 2.6.2.2, 2.6.2.3, 2.6.2.4, 2.6.2.5) almeno ogni 57,875ms che è la
+ 
+
+ 
+ periodicità dei blocchi di parole sul canale di controllo diretto.
+ 
+
+ 
+ La stazione mobile deve anche controllare la validità dei messaggi
+ 
+
+ 
+ sul canale di controllo su cui è sintonizzata. Se non sono presenti
+ 
+
+ 
+ dati validi (cioè i dati non possono essere correttamente
+ 
+
+ 
+ decodificati dal codice BCH) per un tempo superiore a 5 secondi,
+ 
+
+ 
+ allora la stazione mobile deve terminare la procedura Inattivo ed
+ 
+
+ 
+ iniziare la procedura Selezione del Canale di Chiamata (vedere la
+ 
+
+ 
+ Sezione 2.6.1.2).
+ 
+
+ 
+ Se lo stato del sistema in servizio indica il sistema preferito, la
+ 
+
+ 
+ stazione mobile deve disabilitare lo stato del temporizzatore del
+ 
+
+ 
+ sistema non preferito e quindi continuare ad eseguire questa
+ 
+
+ 
+ procedura.
+ 
+
+ 
+ Se lo stato del sistema in servizio non indica il sistema preferito,
+ 
+
+ 
+ il mobile deve esaminare lo stato del temporizzatore del sistema non
+ 
+
+ 
+ preferito.
+ 
+
+ 
+ - Se lo stato del temporizzatore del sistema non preferito è
+ 
+
+ 
+ disabilitato, si deve impostare il temporizzatore del sistema
+ 
+
+ 
+ non preferito ad un tempo di 5 minuti. Lo stato del
+ 
+
+ 
+ temporizzatore del sistema non preferito deve essere abilitato.
+ 
+
+ 
+ La stazione mobile deve quindi continuare ad eseguire questa
+ 
+
+ 
+ procedura.
+ 
+
+ 
+ - Altrimenti occorre esaminare il temporizzatore del sistema non
+ 
+
+ 
+ preferito. Se il temporizzatore non ha esaurito il proprio
+ 
+
+ 
+ ciclo la stazione mobile può continuare a eseguire la sua
+ 
+
+ 
+ procedura. Se il temporizzatore non ha esaurito il proprio
+ 
+
+ 
+ ciclo la stazione mobile deve disabilitare lo stato del
+ 
+
+ 
+ temporizzatore del sistema non preferito, terminare questa
+ 
+
+ 
+ procedura e quindi iniziare la procedura Inizializzazione
+ 
+
+ 
+ (vedere la Sezione 2.6.1).
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.6.2.1 RISPOSTA ALL'INFORMAZIONE DI SUPERVISIONE
+ 
+
+ 
+ Quando una stazione mobile riceve una sequenza di messaggi
+ 
+
+ 
+ supervisori (vedere la Sezione 3.3.1.2), essa deve confrontare AID s
+ 
+
+ 
+ con AID r. Se AID s non è uguale a AID r, la stazione mobile deve
+ 
+
+ 
+ terminare la procedura Inattivo ed iniziare la procedura
+ 
+
+ 
+ Inizializzazione (vedere la Sezione 2.6.1).
+ 
+
+ 
+ Se AID s è uguale a AID r, la stazione mobile deve aggiornare i
+ 
+
+ 
+ seguenti campi usando le informazioni contenute nel messaggio
+ 
+
+ 
+ supervisore dei parametri di sistema:
+ 
+
+ 
+ * Bit del numero di serie (S s). Impostare S s al valore del
+ 
+
+ 
+ campo S.
+ 
+
+ 
+ * Bit di registrazione (R s). Se lo stato errante è
+ 
+
+ 
+ disabilitato, impostare R s al valore del campo REGH; se lo
+ 
+
+ 
+ stato errante è abilitato, impostare R s al valore del campo
+ 
+
+ 
+ REGR.
+ 
+
+ 
+ Se R s = 1 la stazione mobile deve disabilitare lo stato del
+ 
+
+ 
+ temporizzatore di sovraccarico del sistema non preferito e
+ 
+
+ 
+ quindi continuare ad eseguire questa procedura.
+ 
+
+ 
+ Se R s è zero la stazione mobile deve eseguire le seguenti
+ 
+
+ 
+ cose:
+ 
+
+ 
+ Lo stato di distribuzione del sovraccarico deve essere
+ 
+
+ 
+ abilitato e lo stato del temporizzatore del sovraccarico
+ 
+
+ 
+ deve essere disabilitato.
+ 
+
+ 
+ Se lo stato del sistema in servizio indica il sistema
+ 
+
+ 
+ preferito la stazione mobile deve continuare ad eseguire
+ 
+
+ 
+ questa procedura.
+ 
+
+ 
+ Se lo stato del sistema in servizio non indica il sistema
+ 
+
+ 
+ preferito, la stazione mobile deve esaminare lo stato del
+ 
+
+ 
+ temporizzatore del sovraccarico del sistema non preferito.
+ 
+
+ 
+ - Se lo stato del temporizzatore del sovraccarico del
+ 
+
+ 
+ sistema non preferito è disabilitato, il temporizzatore
+ 
+
+ 
+ del sovraccarico del sistema non preferito deve essere
+ 
+
+ 
+ impostato ad un tempo di 1 minuto. Lo stato del
+ 
+
+ 
+ temporizzatore del sovraccarico del sistema non preferito
+ 
+
+ 
+ deve essere abilitato. La stazione mobile deve continuare
+ 
+
+ 
+ ad eseguire questa procedura.
+ 
+
+ 
+ - Altrimenti il temporizzatore del sovraccarico del sistema
+ 
+
+ 
+ non preferito deve essere esaminato. Se il temporizzatore
+ 
+
+ 
+ non ha esaurito il proprio ciclo, la stazione mobile deve
+ 
+
+ 
+ continuare a eseguire questa procedura. Se il
+ 
+
+ 
+ temporizzatore ha esaurito il proprio ciclo, la stazione
+ 
+
+ 
+ mobile deve disabilitare lo stato del temporizzatore del
+ 
+
+ 
+ sovraccarico del sistema non preferito, terminare questa
+ 
+
+ 
+ procedura e quindi iniziare la procedura Inizializzazione
+ 
+
+ 
+ (vedere la Sezione 2.6.1).
+ 
+
+ 
+ * Bit di indirizzo esteso (E s). Posizionare E s al valore del
+ 
+
+ 
+ campo E.
+ 
+
+ 
+ * Bit di trasmissione discontinua (DTX s). Posizionare DTX s al
+ 
+
+ 
+ valore del campo DTX.
+ 
+
+ 
+ * Bit registrazione forzata (FREG s). Posizionare il bit FREG s
+ 
+
+ 
+ al valore del campo FREG.
+ 
+
+ 
+ * Numero dei canali di ricerca (N s). Posizionare N s ad 1 più
+ 
+
+ 
+ il valore del campo "N-1".
+ 
+
+ 
+ * Bit lettura controllo multiplo (RCF s). Posizionare RCF s al
+ 
+
+ 
+ valore del campo RCF.
+ 
+
+ 
+ * Bit accesso e ricerca combinati (CPA s). Posizionare CPA s al
+ 
+
+ 
+ valore del campo CPA.
+ 
+
+ 
+ * Numero di canali di accesso (CMAX s). Posizionare CMAX s ad 1
+ 
+
+ 
+ più il valore del campo CMAX-1.
+ 
+
+ 
+ * Determinare i confini del canale di controllo per accedere al
+ 
+
+ 
+ sistema (FIRSTCHA s e LASTCHA s) usando il seguente algoritmo:
+ 
+
+ 
+ I. Se lo stato del sistema in servizio è abilitato,
+ 
+
+ 
+ a. Se CPA s =1, posizionare FIRSTCHA s sul primo canale di
+ 
+
+ 
+ controllo dedicato per il Sistema A.
+ 
+
+ 
+ b. Se CPA s = 0, posizionare FIRSTCHA s al valore del
+ 
+
+ 
+ primo canale di controllo dedicato del Sistema A più
+ 
+
+ 
+ N s.
+ 
+
+ 
+ c. LASTCHA s = FIRSTCHA s + CMAX s - 1.
+ 
+
+ 
+ II. Se lo stato di sistema in servizio è disabilitato,
+ 
+
+ 
+ a. Se CPA s = 1, posizionare FIRSTCHA s sul primo canale
+ 
+
+ 
+ di controllo dedicato per il Sistema B.
+ 
+
+ 
+ b. Se CPA s = 0, posizionare FIRSTCHA s al valore del
+ 
+
+ 
+ primo canale di controllo dedicato del Sistema B più
+ 
+
+ 
+ N s.
+ 
+
+ 
+ c. LASTCHA s = FIRSTCHA s + CMAX s - 1.
+ 
+
+ 
+ La stazione mobile deve poi rispondere, come indicato nel seguito, a
+ 
+
+ 
+ ciascuno dei seguenti messaggi, qualora essi siano ricevuti nella
+ 
+
+ 
+ sequenza di messaggi supervisori. L'ordine nel quale la stazione mo-
+ 
+
+ 
+ bile deve rispondere ai messaggi, qualora ne vengano ricevuti due o
+ 
+
+ 
+ più, è dato dall'ordine in cui essi sono nella seguente lista:
+ 
+
+ 
+ 1. Messaggi di controllo locali
+ 
+
+ 
+ Se lo stato di controllo locale è abilitato (vedere la
+ 
+
+ 
+ Sezione 2.6.1.2.2) la stazione mobile deve rispondere ai
+ 
+
+ 
+ messaggi di controllo locale.
+ 
+
+ 
+ 2. Messaggio di nuovo gruppo di canali di accesso
+ 
+
+ 
+ a. La stazione mobile deve posizionare FIRSTCHA s al valore
+ 
+
+ 
+ del campo NEWACC del messaggio.
+ 
+
+ 
+ b. La stazione mobile deve posizionare LASTCHA s = NEWACC r +
+ 
+
+ 
+ CMAX s - 1
+ 
+
+ 
+ 3. Messaggio di incremento registrazione
+ 
+
+ 
+ La stazione mobile deve posizionare REGINCR s al valore del
+ 
+
+ 
+ campo REGINCR del messaggio.
+ 
+
+ 
+ 4. Messaggio registrazione ID
+ 
+
+ 
+ La stazione mobile deve effettuare le seguenti operazioni:
+ 
+
+ 
+ a. La stazione mobile deve posizionare REGID s al valore del
+ 
+
+ 
+ campo REGID del messaggio ricevuto e posizionare lo stato
+ 
+
+ 
+ di ID di prima registrazione su disabilitato (vedere la
+ 
+
+ 
+ Sezione 2.6.1.1.2).
+ 
+
+ 
+ b. Se FREG s = 1, R s = 1, lo stato di riregistrazione è
+ 
+
+ 
+ disabilitato e AID s non è uguale a AIDL s, allora la
+ 
+
+ 
+ stazione mobile deve abilitare lo stato di registrazione
+ 
+
+ 
+ forzata, terminare questa procedura ed iniziare la
+ 
+
+ 
+ procedura Accesso al Sistema con una indicazione di
+ 
+
+ 
+ "registrazione" (vedere la Sezione 2.6.3).
+ 
+
+ 
+ c. Altrimenti la stazione mobile deve tentare di trovare
+ 
+
+ 
+ AID s tra i valori di AID sp memorizzati nella memoria di
+ 
+
+ 
+ registrazione (vedere la Sezione 2.3.4).
+ 
+
+ 
+ d. Se AID s è trovato tra i valori di AID SP memorizzati
+ 
+
+ 
+ nella memoria di registrazione, la stazione mobile deve
+ 
+
+ 
+ effettuare le seguenti operazioni:
+ 
+
+ 
+ i. La stazione mobile deve usare il seguente algoritmo (o
+ 
+
+ 
+ uno equivalente) per riesaminare il NXTREG sp
+ 
+
+ 
+ associato con l'AID sp per determinare se REGID s è
+ 
+
+ 
+ ciclata attraverso zero:
+ 
+
+ 
+ * Se NXTREG sp è maggiore o uguale a REGID s +
+ 
+
+ 
+ REGINCR s + 5, allora NXTREG sp deve essere
+ 
+
+ 
+ sostituito dal numero più grande tra 0 e il valore
+ 
+
+ 
+ di NXTREG sp - 2 (elevato a 20)
+ 
+
+ 
+ * Altrimenti si lascia invariato il valore NXTREG sp.
+ 
+
+ 
+ ii. La stazione mobile deve poi confrontare REGID s con il
+ 
+
+ 
+ NXTREG sp associato all'AID sp.
+ 
+
+ 
+ * Se REGID s è maggiore o uguale a NXTREG sp e R s =
+ 
+
+ 
+ 1, la stazione mobile deve disabilitare lo stato di
+ 
+
+ 
+ registrazione forzata ed iniziare la procedura
+ 
+
+ 
+ Accesso al Sistema con una indicazione di
+ 
+
+ 
+ "registrazione" (vedere la Sezione 2.6.3).
+ 
+
+ 
+ * Se REGID s è maggiore o uguale di NXTREG sp e R s
+ 
+
+ 
+ = 0, allora porre NXTREG sp uguale a REGID s.
+ 
+
+ 
+ * Altrimenti la stazione mobile deve ignorare il
+ 
+
+ 
+ messaggio e continuare elaborare i messaggi
+ 
+
+ 
+ presenti nella sequenza di messaggi supervisori.
+ 
+
+ 
+ e. Se AID s non è stato trovato tra i valori di AID sp
+ 
+
+ 
+ memorizzati nella memoria di registrazione, la stazione
+ 
+
+ 
+ mobile deve eseguire le seguenti operazioni:
+ 
+
+ 
+ * Se R s = 1 e lo stato di riregistrazione è
+ 
+
+ 
+ disabilitato, la stazione mobile deve abilitare lo
+ 
+
+ 
+ stato di registrazione forzata, terminare la
+ 
+
+ 
+ procedura ed iniziare la procedura Accesso al
+ 
+
+ 
+ Sistema con una indicazione di "registrazione"
+ 
+
+ 
+ (vedere la Sezione 2.6.3).
+ 
+
+ 
+ * Altrimenti la stazione mobile deve ignorare il
+ 
+
+ 
+ messaggio e continuare ad elaborare i messaggi
+ 
+
+ 
+ contenuti nella sequenza di messaggi di
+ 
+
+ 
+ supervisione.
+ 
+
+ 
+ 5. Messaggio di riscansione
+ 
+
+ 
+ La stazione mobile deve immediatamente terminare questa
+ 
+
+ 
+ procedura ed iniziare la procedura Inizializzazione (vedere
+ 
+
+ 
+ Sezione 2.6.1).
+ 
+
+ 
+ 6. Qualsiasi altro messaggio.
+ 
+
+ 
+ Ignorare il messaggio.
+ 
+
+ 
+ 2.6.2.2 CORRISPONDENZA DI CHIAMATA (Paging)
+ 
+
+ 
+ La stazione mobile deve effettuare il monitoraggio dei messaggi di
+ 
+
+ 
+ controllo delle stazioni mobili come messaggi di chiamata (vedere la
+ 
+
+ 
+ Sezione 3.3.1.1).
+ 
+
+ 
+ * Se lo stato errante è disabilitato, la stazione mobile deve
+ 
+
+ 
+ tentare di confrontare MIN1 p con MIN1 r nei messaggi di una
+ 
+
+ 
+ parola e rispettivamente MIN1 p e MIN2 p con MIN1-r e MIN2 r
+ 
+
+ 
+ nei messaggi di due parole. Tutti i bit di MIN decodificati
+ 
+
+ 
+ debbono corrispondere per ottenere la risposta della stazione
+ 
+
+ 
+ mobile al messaggio.
+ 
+
+ 
+ * Se lo stato errante è abilitato, la stazione mobile deve
+ 
+
+ 
+ confrontare rispettivamente MIN1 p e MIN2-P con MIN1 r e
+ 
+
+ 
+ MIN2 r. Tutti i bit di MIN decodificati debbono corrispondere
+ 
+
+ 
+ per ottenere la risposta della stazione mobile al messaggio.
+ 
+
+ 
+ Quando si ha corrispondenza, la stazione mobile deve iniziare la
+ 
+
+ 
+ procedura Accesso al Sistema con l'indicazione "risposta alla
+ 
+
+ 
+ chiamata" (vedere la Sezione 2.6.3).
+ 
+
+ 
+ 2.6.2.3 ORDINI
+ 
+
+ 
+ La stazione mobile deve effettuare il monitoraggio dei messaggi di
+ 
+
+ 
+ controllo delle stazioni mobili relativi agli ordini e deve
+ 
+
+ 
+ confrontare rispettivamente MIN1 p e MIN2 p con MIN1 r e MIN2 r.
+ 
+
+ 
+ Tutti i bit di MIN decodificati debbono corrispondere per ottenere la
+ 
+
+ 
+ risposta della stazione mobile all'ordine. Le risposte ai seguenti
+ 
+
+ 
+ ordini sono:
+ 
+
+ 
+ * Ordini di verifica. La stazione mobile deve iniziare la
+ 
+
+ 
+ procedura Accesso al Sistema (vedere la Sezione 2.6.3) con una
+ 
+
+ 
+ indicazione di "ordine".
+ 
+
+ 
+ * Ordini di controllo locale. Se lo stato di controllo locale è
+ 
+
+ 
+ disabilitato (vedere la Sezione 2.6.1.2.2) la stazione mobile
+ 
+
+ 
+ deve ignorare il messaggio. Altrimenti l'azione da
+ 
+
+ 
+ intraprendere dipende dal campo di controllo locale.
+ 
+
+ 
+ * Ogni altro ordine. Ignorare l'ordine.
+ 
+
+ 
+ 2.6.2.4 INIZIALIZZAZIONE DI UNA CHIAMATA
+ 
+
+ 
+ Se R s = 1 o se lo stato errante è disabilitato e l'utente desidera
+ 
+
+ 
+ iniziare una chiamata, bisogna iniziare la procedura Accesso al
+ 
+
+ 
+ Sistema con l'indicazione 'originè (vedere Sezione 2.6.3).
+ 
+
+ 
+ Altrimenti la stazione mobile deve continuare ad eseguire la
+ 
+
+ 
+ procedura Inattivo.
+ 
+
+ 
+ Se la stazione mobile è dotata di apparecchiatura per la risposta
+ 
+
+ 
+ automatica alle chiamate, la stazione mobile deve soddisfare i
+ 
+
+ 
+ requisiti descritti in Appendice C.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.6.2.5 INIZIALIZZAZIONE DI UNA REGISTRAZIONE
+ 
+
+ 
+ Se lo stato di riregistrazione è abilitato (R s =1 e il
+ 
+
+ 
+ temporizzatore di riregistrazione ha esaurito il proprio ciclo),
+ 
+
+ 
+ allora la stazione mobile deve iniziare la procedura Accesso al
+ 
+
+ 
+ Sistema con l'indicazione di 'registrazionè (vedere la Sezione
+ 
+
+ 
+ 2.6.3).
+ 
+
+ 
+ 2.6.3 ACCESSO AL SISTEMA
+ 
+
+ 
+ 2.6.3.1 PREDISPOSIZIONE DEI PARAMETRI DI ACCESSO
+ 
+
+ 
+ Quando si inizia la procedura Accesso al Sistema, bisogna predisporre
+ 
+
+ 
+ un temporizzatore, chiamato temporizzatore di accesso, nel modo
+ 
+
+ 
+ seguente:
+ 
+
+ 
+ * Se l'accesso è una origine, bisogna inizializzarlo ad un
+ 
+
+ 
+ massimo di 12 secondi,
+ 
+
+ 
+ * Se è una risposta di ricerca, bisogna inizializzarlo ad un un
+ 
+
+ 
+ massimo di 6 secondi,
+ 
+
+ 
+ * Se è una risposta ad un ordine, bisogna inizializzarlo ad un
+ 
+
+ 
+ massimo di 6 secondi,
+ 
+
+ 
+ * Se è una registrazione, bisogna inizializzarlo ad un massimo
+ 
+
+ 
+ di 6 secondi.
+ 
+
+ 
+ La stazione mobile deve predisporre il codice di ultimo tentativo
+ 
+
+ 
+ (LT s) a "0" e quindi iniziare la procedura Scansione dei Canali di
+ 
+
+ 
+ Accesso (vedere la Sezione 2.6.3.2).
+ 
+
+ 
+ 2.6.3.2 SCANSIONE DEI CANALI DI ACCESSO
+ 
+
+ 
+ La stazione mobile deve esaminare l'intensità del segnale su
+ 
+
+ 
+ ciascuno dei canali da FIRSTCHA s a LASTCHA s, eccetto per quei
+ 
+
+ 
+ canali di controllo contrassegnati come "canali di controllo non
+ 
+
+ 
+ validi", e scegliere fino a due canali con i segnali più intensi.
+ 
+
+ 
+ Vedere la procedura Risposta alle Informazioni di Supervisione
+ 
+
+ 
+ (Sezione 2.6.2.1) per la determinazione del gruppo di canali di
+ 
+
+ 
+ accesso.
+ 
+
+ 
+ La stazione mobile deve poi sintonizzarsi sul canale di accesso più
+ 
+
+ 
+ intenso ed iniziare la procedura Recupero dei Parametri dei Tentativi
+ 
+
+ 
+ di Accesso (vedere la Sezione 2.6.3.3).
+ 
+
+ 
+ 2.6.3.3 RECUPERO DEI PARAMETRI DEI TENTATIVI DI ACCESSO
+ 
+
+ 
+ La stazione mobile deve predisporre il massimo numero di tentativi di
+ 
+
+ 
+ cattura permessi MAXSZTR sl (fino ad un massimo di 10), ed il massimo
+ 
+
+ 
+ numero di eventi "occupato" MAXBUSY sl (fino ad un massimo di 10).
+ 
+
+ 
+ La stazione mobile deve quindi inizializzare i seguenti parametri a
+ 
+
+ 
+ zero:
+ 
+
+ 
+ * Numero di eventi "occupato" (NBUSY sv).
+ 
+
+ 
+ * Numero di tentativi di cattura senza successo (NSZTR sv).
+ 
+
+ 
+ La stazione mobile deve poi esaminare il bit lettura controllo
+ 
+
+ 
+ multiplo (RCF s).
+ 
+
+ 
+ * Se RCF s = 0, la stazione mobile deve poi in un tempo da 500ms
+ 
+
+ 
+ a 625ms predisporre il DCC s al valore del campo DCC del
+ 
+
+ 
+ messaggio ricevuto e predisporre il livello di potenza (PL s) a
+ 
+
+ 
+ 0.
+ 
+
+ 
+ * Se RCF s = 1, la stazione mobile deve poi in un tempo da
+ 
+
+ 
+ 1250ms a 1375ms leggere il messaggio di controllo multiplo,
+ 
+
+ 
+ porre il DCC s e WFOM s ai valori dei rispettivi campi DCC e
+ 
+
+ 
+ WFOM s del messaggio e porre PL-s al valore del campo CMAC del
+ 
+
+ 
+ messaggio (vedere le Sezioni 2.1.2.2, 2.3.3, e 3.3.1.2.4).
+ 
+
+ 
+ Se il campo DCC o il messaggio di controllo multiplo non sono
+ 
+
+ 
+ ricevuti nel tempo consentito, allora la stazione mobile deve
+ 
+
+ 
+ esaminare il temporizzatore di accesso. Se il temporizzatore di
+ 
+
+ 
+ accesso ha esaurito il proprio ciclo, la stazione mobile deve
+ 
+
+ 
+ iniziare la procedura Determinazione del Sistema in Servizio (vedere
+ 
+
+ 
+ la Sezione 2.6.3.12). Se il temporizzatore di accesso non ha esaurito
+ 
+
+ 
+ il proprio ciclo, la stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Canale di Accesso Alternativo (vedere la Sezione 2.6.3.13).
+ 
+
+ 
+ La stazione mobile deve poi impostare BIS s ad "1" ed esaminare il
+ 
+
+ 
+ bit WFOM s.
+ 
+
+ 
+ * Se il bit WFOM s = 1, la stazione mobile deve iniziare la
+ 
+
+ 
+ procedura di Aggiornamento dell'Informazione Supervisore
+ 
+
+ 
+ (vedere la Sezione 2.6.3.4).
+ 
+
+ 
+ * Se il bit WFORM = 0, la stazione mobile deve attendere per un
+ 
+
+ 
+ intervallo di tempo casuale. Ogni volta che attende per un
+ 
+
+ 
+ intervallo di tempo casuale, deve essere generato un altro
+ 
+
+ 
+ intervallo di tempo casuale, uniformemente distribuito tra 0 e
+ 
+
+ 
+ 120ms +/- 1 ms e, se quantizzato, con una granularità non
+ 
+
+ 
+ superiore ad 1 ms. La stazione mobile deve quindi iniziare la
+ 
+
+ 
+ procedura Cattura del Canale di controllo inverso (vedere la
+ 
+
+ 
+ Sezione 2.6.3.5).
+ 
+
+ 
+ 2.6.3.4 AGGIORNAMENTO DELL'INFORMAZIONE DI SUPERVISIONE
+ 
+
+ 
+ Se questa procedura non è completata in 1.9 secondi, la stazione mo-
+ 
+
+ 
+ bile deve terminare questa procedura ed iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ Se la procedura Aggiornamento dell'Informazione di Supervisione viene
+ 
+
+ 
+ completata, la stazione mobile deve iniziare la procedura Cattura del
+ 
+
+ 
+ Canale di Controllo Inverso (vedere la Sezione 2.6.3.5).
+ 
+
+ 
+ La stazione mobile deve ricevere una sequenza di messaggi supervisori
+ 
+
+ 
+ (vedere la Sezione 3.3.1.2) ed agire, come indicato di seguito, in
+ 
+
+ 
+ risposta ai seguenti messaggi di azione globale, qualora essi siano
+ 
+
+ 
+ ricevuti nella sequenza di messaggi supervisori:
+ 
+
+ 
+ * Messaggio di controllo sovraccarico.
+ 
+
+ 
+ - Se questo accesso è una origine o una registrazione, la
+ 
+
+ 
+ stazione mobile deve esaminare il valore del campo della classe
+ 
+
+ 
+ di sovraccarico (OLC) identificato da ACCOLC p. Se il campo OLC
+ 
+
+ 
+ identificato è posto a "0", la stazione mobile deve uscire da
+ 
+
+ 
+ questa procedura ed iniziare la procedura Determinazione del
+ 
+
+ 
+ Sistema in Servizio (vedere la Sezione 2.6.3.12); se il campo
+ 
+
+ 
+ OLC identificato è posto a "1", la stazione mobile deve
+ 
+
+ 
+ continuare a rispondere ai messaggi che sono nella sequenza di
+ 
+
+ 
+ messaggi di supervisione.
+ 
+
+ 
+ - Altrimenti, la stazione mobile, deve continuare a rispondere
+ 
+
+ 
+ ai messaggi che sono nella sequenza di messaggi di
+ 
+
+ 
+ supervisione.
+ 
+
+ 
+ * Messaggio dei Parametri del tipo di Accesso.
+ 
+
+ 
+ Il bit occupato - libero (BIS s) deve essere posto al valore
+ 
+
+ 
+ del campo BIS del messaggio ricevuto.
+ 
+
+ 
+ * Messaggio dei Parametri di Tentativo di Accesso.
+ 
+
+ 
+ La stazione mobile deve aggiornare i seguenti parametri:
+ 
+
+ 
+ - Se questo accesso è una risposta di chiamata,
+ 
+
+ 
+ a. Il massimo numero di tentativi di cattura consentiti
+ 
+
+ 
+ (MAXSZTR sl) deve essere impostato al valore del campo
+ 
+
+ 
+ MAXSZTR PGR del messaggio ricevuto.
+ 
+
+ 
+ b. Il massimo numero di eventi "occupato" consentito,
+ 
+
+ 
+ MAXBUSY sl deve essere impostato al valore del campo
+ 
+
+ 
+ MAXBUSY PGR del messaggio ricevuto.
+ 
+
+ 
+ - Altrimenti,
+ 
+
+ 
+ a. Il massimo numero di tentativi di cattura permessi
+ 
+
+ 
+ (MAXSZTR sl) deve esser impostato al valore del campo
+ 
+
+ 
+ MAXSZTR OTHER del messaggio ricevuto.
+ 
+
+ 
+ b. Il massimo numero di eventi "occupato" consentito
+ 
+
+ 
+ MAXBUSY sl deve essere impostato al valore del campo
+ 
+
+ 
+ MAXBUSY OTHER del messaggio ricevuto.
+ 
+
+ 
+ Dopo che la sequenza del messaggio di supervisione è stata
+ 
+
+ 
+ ricevuta ed elaborata come richiesto sopra, la stazione mobile
+ 
+
+ 
+ deve attendere un intervallo di tempo casuale. Ogni volta che
+ 
+
+ 
+ ciò avviene, si deve generare un altro intervallo di tempo
+ 
+
+ 
+ casuale, distribuito uniformemente nell'intervallo tra 0 e 750
+ 
+
+ 
+ ms, e se quantizzato, con granularità non superiore ad 1 ms.
+ 
+
+ 
+ Alla fine di questo intervallo di tempo, la stazione mobile
+ 
+
+ 
+ deve iniziare la procedura Cattura del Canale di Controllo
+ 
+
+ 
+ Inverso (vedere la Sezione 2.6.3.5).
+ 
+
+ 
+ 2.6.3.5 CATTURA DEL CANALE DI CONTROLLO INVERSO
+ 
+
+ 
+ Se questo accesso è una registrazione, la stazione mobile deve
+ 
+
+ 
+ esaminare lo stato di distribuzione del sovraccarico.
+ 
+
+ 
+ * Se lo stato della distribuzione di sovraccarico è abilitato,
+ 
+
+ 
+ la stazione mobile deve esaminare lo stato del temporizzatore
+ 
+
+ 
+ di sovraccarico.
+ 
+
+ 
+ - Se lo stato del temporizzatore di sovraccarico è disabilitato,
+ 
+
+ 
+ bisogna impostare il temporizzatore di sovraccarico ad un
+ 
+
+ 
+ intervallo di tempo casuale distribuito nell'intervallo da 0 a
+ 
+
+ 
+ 40 secondi con una granulatità non superiore ai 100ms. Lo
+ 
+
+ 
+ stato del temporizzatore di sovraccarico deve essere abilitato.
+ 
+
+ 
+ La stazione mobile deve quindi terminare questa procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ - Altrimenti bisogna esaminare il temporizzatore di sovraccarico.
+ 
+
+ 
+ Se il temporizzatore non ha esaurito il proprio ciclo, la
+ 
+
+ 
+ stazione mobile deve uscire da questa procedura ed iniziare la
+ 
+
+ 
+ procedura Determinazione del Sistema in Servizio. (vedere la
+ 
+
+ 
+ Sezione 2.6.3.12).
+ 
+
+ 
+ Se il temporizzatore ha esaurito il proprio ciclo, la stazione
+ 
+
+ 
+ mobile deve disabilitare lo stato del temporizzatore di
+ 
+
+ 
+ sovraccarico e continuare ad eseguire questa procedura.
+ 
+
+ 
+ * Se lo stato della distribuzione di sovraccarico è
+ 
+
+ 
+ disabilitato, la stazione mobile deve continuare ad eseguire
+ 
+
+ 
+ questa procedura.
+ 
+
+ 
+ Se questo accesso non è una registrazione, la stazione mobile deve
+ 
+
+ 
+ continuare ad eseguire questa procedura.
+ 
+
+ 
+ La stazione mobile deve leggere lo stato occupato-libero del canale.
+ 
+
+ 
+ * Se il canale è occupato, la stazione mobile deve incrementare
+ 
+
+ 
+ NBUSY sv di 1.
+ 
+
+ 
+ - Se NBUSY sv è superiore a MAXBUSY sl, allora la stazione mo-
+ 
+
+ 
+ bile deve uscire da questa procedura ed iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ - Se NBUSY sv non è superiore a MAXBUSY sl, allora la stazione
+ 
+
+ 
+ mobile deve uscire da questa procedura ed eseguire la
+ 
+
+ 
+ procedura Ritardo dopo Fallimento (vedere la Sezione
+ 
+
+ 
+ 2.6.3.6).
+ 
+
+ 
+ * Se il canale è libero, allora la stazione mobile deve
+ 
+
+ 
+ impostare NBUSY sv a zero, accendere il trasmettitore al
+ 
+
+ 
+ livello di potenza indicato da PL s (vedere le Sezioni 2.6.3.3
+ 
+
+ 
+ e 2.1.2.2), attendere il giusto ritardo (vedere la sezione
+ 
+
+ 
+ 2.1.2.1) finchè il trasmettitore raggiunge il livello di
+ 
+
+ 
+ potenza richiesto (entro +/- 3dB), e quindi iniziare l'invio
+ 
+
+ 
+ del messaggio alla stazione fissa (vedere la sezione 2.7.1).
+ 
+
+ 
+ Se BIS s = 0, allora la stazione mobile deve entrare nella procedura
+ 
+
+ 
+ Richiesta di Servizio (vedere la Sezione 2.6.3.7);
+ 
+
+ 
+ se BIS s = 1, allora una volta iniziato ad inviare il messaggio, la
+ 
+
+ 
+ stazione mobile deve continuamente effettuare il monitoraggio dello
+ 
+
+ 
+ stato occupato-libero del canale.
+ 
+
+ 
+ * Se il canale diventa occupato prima che siano inviati i primi
+ 
+
+ 
+ 56 bit del messaggio, la stazione mobile deve immediatamente
+ 
+
+ 
+ fermare l'invio del messaggio e spegnere il trasmettitore.
+ 
+
+ 
+ * Se il canale non cambia lo stato in occupato entro l'intervallo
+ 
+
+ 
+ di tempo che la stazione mobile impiega per inviare 104 bit,
+ 
+
+ 
+ allora la stazione mobile deve immediatamente fermare l'invio
+ 
+
+ 
+ del messaggio e spegnere il trasmettitore.
+ 
+
+ 
+ In entrambi questi casi, la stazione mobile deve incrementare
+ 
+
+ 
+ di uno il conteggio dei fallimenti di cattura (NSZTR sv) e
+ 
+
+ 
+ confrontare il risultato con il massimo numero di tentativi di
+ 
+
+ 
+ cattura permessi (MAXSZTR sl).
+ 
+
+ 
+ - Se NSZTR sv è superiore a MAXSZTR sl, la stazione mobile
+ 
+
+ 
+ deve uscire da questa procedura ed iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ - Se NSZTR sv non è superiore a MAZSZTR sl, la stazione mobile
+ 
+
+ 
+ deve uscire da questa procedura ed iniziare la procedura
+ 
+
+ 
+ Ritardo dopo Fallimento (mancato accesso) (sezione 2.6.3.6).
+ 
+
+ 
+ * Se lo stato occupato-libero cambia in occupato dopo che siano
+ 
+
+ 
+ stati inviati 56 bit e prima dei 104, allora la stazione mobile
+ 
+
+ 
+ deve iniziare la procedura Richiesta di Servizio.
+ 
+
+ 
+ 2.6.3.6 RITARDO DOPO FALLIMENTO (MANCATO ACCESSO)
+ 
+
+ 
+ La stazione mobile deve esaminare il temporizzatore di accesso. Se il
+ 
+
+ 
+ temporizzatore di accesso ha esaurito il proprio ciclo, la stazione
+ 
+
+ 
+ mobile deve iniziare la procedura Determinazione del Sistema in
+ 
+
+ 
+ Servizio (vedere la Sezione 3.6.3.12). Se il temporizzatore di
+ 
+
+ 
+ accesso non ha esaurito il proprio ciclo, la stazione mobile deve
+ 
+
+ 
+ attendere per un intervallo di tempo casuale. Ogni volta che ciò
+ 
+
+ 
+ avviene, si deve generare un altro intervallo di tempo, uniformemente
+ 
+
+ 
+ distribuito in un intervallo da 0 a 250ms, e, se quantizzato, con una
+ 
+
+ 
+ granularità non maggiore di 1ms. La stazione mobile deve quindi
+ 
+
+ 
+ iniziare la procedura Cattura del Canale di Controllo Inverso (vedere
+ 
+
+ 
+ la Sezione 2.6.3.5).
+ 
+
+ 
+ 2.6.3.7 RICHIESTA DI SERVIZIO
+ 
+
+ 
+ La stazione mobile deve continuare ad inviare il suo messaggio alla
+ 
+
+ 
+ stazione fissa. L'informazione che deve essere inviata è descritta
+ 
+
+ 
+ qui di seguito (i formati sono descritti nella Sezione 2.7.1):
+ 
+
+ 
+ * La parola A deve essere sempre inviata.
+ 
+
+ 
+ * Se E s = 1 oppure
+ 
+
+ 
+ LT s = 1 oppure
+ 
+
+ 
+ lo stato errante è abilitato oppure
+ 
+
+ 
+ lo stato errante è disabilitato e EX p =1 oppure
+ 
+
+ 
+ l'accesso è un "ordine" oppure
+ 
+
+ 
+ l'accesso è una "registrazione" oppure
+ 
+
+ 
+ la stazione mobile è stata cercata con un messaggio di
+ 
+
+ 
+ controllo di stazione mobile di di due parole,
+ 
+
+ 
+ allora la parola B deve essere inviata.
+ 
+
+ 
+ * Se S s = 1
+ 
+
+ 
+ allora la parola C deve essere inviata.
+ 
+
+ 
+ * Se l'accesso è una "origine",
+ 
+
+ 
+ allora la parola D deve essere inviata.
+ 
+
+ 
+ * Se l'accesso è una origine ed è stato composto un numero di
+ 
+
+ 
+ cifre da 9 a 16, allora la parola E deve essere inviata.
+ 
+
+ 
+ Quando la stazione mobile ha inviato il suo messaggio completo, essa
+ 
+
+ 
+ deve continuare ad inviare la portante non modulata per una durata
+ 
+
+ 
+ nominale di 25ms e quindi spegnere il trasmettitore.
+ 
+
+ 
+ La procedura successiva da iniziare dipende dal tipo di accesso fatto
+ 
+
+ 
+ dalla stazione mobile:
+ 
+
+ 
+ * Se l'accesso è una conferma d'ordine, la stazione mobile deve
+ 
+
+ 
+ iniziare la procedura Determinazione del Sistema in Servizio
+ 
+
+ 
+ (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ * Se l'accesso è una origine, la stazione mobile deve iniziare
+ 
+
+ 
+ la procedura Attesa Messaggio (vedere la Sezione 2.6.3.8).
+ 
+
+ 
+ * Se l'accesso è una risposta di chiamata, la stazione mobile
+ 
+
+ 
+ deve iniziare la procedura Attesa Messaggio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.8).
+ 
+
+ 
+ * Se l'accesso è una richiesta di registrazione, la stazione mo-
+ 
+
+ 
+ bile deve iniziare la procedura Attesa Conferma di
+ 
+
+ 
+ Registrazione (vedere la Sezione 2.6.3.9).
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.6.3.8 ATTESA MESSAGGIO
+ 
+
+ 
+ Se questa procedura non è completata entro 5 secondi, la stazione
+ 
+
+ 
+ mobile deve iniziare la procedura Determinazione del Sistema in
+ 
+
+ 
+ Servizio (vedere sezione 2.6.3.12).
+ 
+
+ 
+ La stazione mobile deve effettuare il monitoraggio dei messaggi di
+ 
+
+ 
+ controllo per stazioni mobili (vedere la Sezione 3.3.1.1).
+ 
+
+ 
+ Se la stazione mobile invia la parola B come parte della Richiesta di
+ 
+
+ 
+ servizio (vedere la sezione 2.6.3.7), allora la stazione mobile deve
+ 
+
+ 
+ confrontare rispettivamente MIN1 p e MIN2 p con MIN1 r e MIN2 r;
+ 
+
+ 
+ altrimenti, la stazione mobile di confrontare solo MIN1 p con MIN1 r.
+ 
+
+ 
+ Se tutti i bit decodificati di MIN, confrontati precedentemente,
+ 
+
+ 
+ corrispondono, allora la stazione mobile deve rispondere ai messaggi
+ 
+
+ 
+ sottoelencati, così come indicato nel seguito.
+ 
+
+ 
+ Se l'accesso è una origine o una risposta di chiamata:
+ 
+
+ 
+ * Messaggio di designazione di canale vocale iniziale: (vedere la
+ 
+
+ 
+ Sezione 3.3.1.1). La stazione mobile deve aggiornare i
+ 
+
+ 
+ parametri impostati nel messaggio. Se R s = 1 la stazione mo-
+ 
+
+ 
+ bile deve iniziare la procedura Aggiornamento Autonomo della
+ 
+
+ 
+ Registrazione (vedere la Sezione 2.6.3.11), fornendo una
+ 
+
+ 
+ indicazione di "successo" e quindi iniziare la procedura
+ 
+
+ 
+ Conferma del Canale Vocale Iniziale (vedere la Sezione
+ 
+
+ 
+ 2.6.4.2).
+ 
+
+ 
+ Altrimenti, la stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Conferma del Canale Vocale Iniziale.
+ 
+
+ 
+ * Messaggio di riprova diretta: (vedere la Sezione 3.3.1.1). La
+ 
+
+ 
+ stazione mobile deve rispondere ai messaggi di riprova diretta
+ 
+
+ 
+ come segue:
+ 
+
+ 
+ Se la stazione mobile incontra l'inizio di un nuovo messaggio
+ 
+
+ 
+ prima di ricevere tutte e quattro le parole del messaggio di
+ 
+
+ 
+ riprova diretta, deve terminare questa procedura ed iniziare la
+ 
+
+ 
+ procedura di Determinazione del Sistema in Servizio (vedere la
+ 
+
+ 
+ Sezione 2.6.3.12).
+ 
+
+ 
+ La stazione mobile deve impostare il codice di ultimo tentativo
+ 
+
+ 
+ (LT s) secondo il campo ORDQ del messaggio:
+ 
+
+ 
+ - Se ORDQ = '000', impostare LT s a '0'.
+ 
+
+ 
+ - Se ORDQ = '001', impostare LT s a '1'.
+ 
+
+ 
+ La stazione mobile deve poi azzerare CCLIST s ed esaminare
+ 
+
+ 
+ ciascun campo CHANPOS nella terza e quarta parola del
+ 
+
+ 
+ messaggio. Per ciascun campo CHANPOS non uguale a zero, la
+ 
+
+ 
+ stazione mobile deve calcolare un corrispondente numero di
+ 
+
+ 
+ canale aggiungendo CHANPOS a FIRSTCHA s - 1. La stazione mobile
+ 
+
+ 
+ deve quindi determinare se ciascun numero di canale è
+ 
+
+ 
+ nell'insieme allocato per i sistemi cellulari, e se così,
+ 
+
+ 
+ elencare i numeri di canale in CCLIST s.
+ 
+
+ 
+ Dopo aver completato la sua risposta al messaggio di riprova
+ 
+
+ 
+ diretta, la stazione mobile deve esaminare il temporizzatore di
+ 
+
+ 
+ accesso. Se il temporizzatore di accesso ha esaurito il proprio
+ 
+
+ 
+ ciclo, la stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ Se il temporizzatore di accesso non ha esaurito il proprio
+ 
+
+ 
+ ciclo, la stazione mobile deve iniziare la procedura Riprova
+ 
+
+ 
+ Diretta (vedere la Sezione 2.6.3.14).
+ 
+
+ 
+ * Messaggio di accesso diretto (vedere la Sezione 3.3.1.1). La
+ 
+
+ 
+ stazione mobile deve rispondere al messaggio di accesso diretto
+ 
+
+ 
+ come segue:
+ 
+
+ 
+ se la stazione mobile incontra l'inizio di un nuovo messaggio
+ 
+
+ 
+ prima di ricevere almeno tre parole delle cinque parole del
+ 
+
+ 
+ messaggio di accesso diretto, deve terminare questa procedura
+ 
+
+ 
+ ed iniziare la procedura Determinazione del Sistema in Servizio
+ 
+
+ 
+ (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ Altrimenti la stazione mobile deve procedere come segue:
+ 
+
+ 
+ la stazione mobile deve impostare il codice di ultimo tentativo
+ 
+
+ 
+ (LT s) a '0. La stazione mobile deve poi azzerare CCLIST s ed
+ 
+
+ 
+ esaminare ciascum campo CHANLOC in cui sono presenti le parole
+ 
+
+ 
+ 3, 4, 5 del messaggio. Per ciascun campo CHANLOC, la stazione
+ 
+
+ 
+ mobile deve determinare se il numero di canale è nel gruppo
+ 
+
+ 
+ assegnato al sistema cellulare, e se così, elencare il numero
+ 
+
+ 
+ di canale in CCLIST s.
+ 
+
+ 
+ Dopo aver completato la sua risposta al messaggio di accesso
+ 
+
+ 
+ diretto, la stazione mobile deve esaminare il temporizzatore di
+ 
+
+ 
+ accesso. Se il temporizzatore di accesso ha esaurito il proprio
+ 
+
+ 
+ ciclo, la stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ Se il temporizzatore di accesso non ha esaurito il proprio
+ 
+
+ 
+ ciclo, la stazione mobile deve iniziare la procedura Riprova
+ 
+
+ 
+ Diretta (vedere la Sezione 2.6.3.14).
+ 
+
+ 
+ * Messaggio di ordine di ritmo di conteggio e di designazione del
+ 
+
+ 
+ canale vocale iniziale: (vedere la Sezione 3.3.1.1) Se la
+ 
+
+ 
+ stazione mobile è dotata di mezzi per trattare le informazioni
+ 
+
+ 
+ di ritmo di conteggio, deve impostare il ritmo di conteggio al
+ 
+
+ 
+ valore del qualificatore a 10 bit dell'ordine di ritmo di
+ 
+
+ 
+ conteggio (vedere la tavola 3.3.1-1).
+ 
+
+ 
+ Il mobile deve quindi aggiornare i parametri nella parola di
+ 
+
+ 
+ designazione del canale vocale. Se R s = 1, il mobile deve
+ 
+
+ 
+ iniziare la procedura di Aggiornamento Autonomo della
+ 
+
+ 
+ Registrazione (vedere la Sezione 2.6.3.11), fornendo una
+ 
+
+ 
+ indicazione di "successo" e quindi iniziare la procedura
+ 
+
+ 
+ Conferma del Canale Vocale Iniziale (vedere la Sezione
+ 
+
+ 
+ 2.6.4.2). Se R s = 0, la stazione mobile deve iniziare la
+ 
+
+ 
+ procedura Conferma del Canale Vocale Iniziale.
+ 
+
+ 
+ Se l'accesso è una origine:
+ 
+
+ 
+ * Intercettazione: La stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ * Riordine: La stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ * Ordine di chiamata accodata: (vedere la Sezione 3.3.1.1). La
+ 
+
+ 
+ stazione mobile deve impostare sia il temporizzatore di accesso
+ 
+
+ 
+ che il temporizzatore del compito Attesa messaggio, a 60
+ 
+
+ 
+ secondi. La stazione mobile deve quindi rimanere nella
+ 
+
+ 
+ procedura Attesa Messaggio.
+ 
+
+ 
+ Se l'accesso è una risposta di chiamata:
+ 
+
+ 
+ * Rilascio: La stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12)
+ 
+
+ 
+ Se l'accesso è una origine e l'utente termina una chiamata durante
+ 
+
+ 
+ questa procedura, lo stato di terminazione deve essere abilitato
+ 
+
+ 
+ così che la chiamata può essere rilasciata su un canale vocale
+ 
+
+ 
+ (vedere la sezione 2.6.4.4) invece che su un canale di controllo.
+ 
+
+ 
+ Se è stato ricevuto un messaggio di chiamata accodata e lo stato
+ 
+
+ 
+ terminazione è stato abilitato, allora la stazione mobile deve
+ 
+
+ 
+ impostare lo stato terminazione su disabilitato ed iniziare la
+ 
+
+ 
+ procedura Determinazione del Sistema in Servizio (vedere la sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ 2.6.3.9 ATTESA CONFERMA REGISTRAZIONE
+ 
+
+ 
+ Se questa procedura non è completata entro 5 secondi, la stazione
+ 
+
+ 
+ mobile deve terminare questa procedura ed iniziare la procedura
+ 
+
+ 
+ Azione a Seguito di Fallimento di Registrazione (vedere la Sezione
+ 
+
+ 
+ 2.6.3.10).
+ 
+
+ 
+ La stazione mobile deve effettuare il monitoraggio dei messaggi di
+ 
+
+ 
+ controllo delle le stazioni mobili (vedere la Sezione 3.3.1.1). Se la
+ 
+
+ 
+ stazione mobile invia la parola B come parte della richiesta di
+ 
+
+ 
+ servizio (vedere la Sezione 2.6.3.7), allora la stazione mobile deve
+ 
+
+ 
+ confrontare rispettivamente MIN1 p e MIN2 p con MIN1 r e MIN2 r;
+ 
+
+ 
+ altrimenti la stazione mobile deve confrontare solo MIN1 p con
+ 
+
+ 
+ MIN1 r.
+ 
+
+ 
+ Se tutti i bit di MIN, confrontati precedentemente, corrispondono, la
+ 
+
+ 
+ stazione mobile deve rispondere, ai messaggi sottoelencati, così
+ 
+
+ 
+ come indicato di seguito:
+ 
+
+ 
+ * Ordini di rilascio (vedere la Sezione 3.3.1.1). La stazione mo-
+ 
+
+ 
+ bile deve lasciare questa procedura ed iniziare la procedura
+ 
+
+ 
+ Azione su Fallimento di Registrazione (vedere la Sezione
+ 
+
+ 
+ 2.6.3.10).
+ 
+
+ 
+ * Conferma ordine (vedere la Sezione 3.3.1.1). La stazione mobile
+ 
+
+ 
+ deve iniziare la procedura Aggiornamento Autonomo della
+ 
+
+ 
+ Registrazione (vedere la Sezione 2.6.3.11), fornendo una
+ 
+
+ 
+ indicazione di "successo"; la stazione mobile deve quindi
+ 
+
+ 
+ iniziare la procedura Determinazione del Sistema in Servizio
+ 
+
+ 
+ (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ 2.6.3.10 AZIONE IN SEGUITO A FALLIMENTO DI REGISTRAZIONE
+ 
+
+ 
+ La stazione mobile deve iniziare la procedura Aggiornamento Autonomo
+ 
+
+ 
+ della Registrazione (vedere la sezione 2.6.3.11), fornendo una
+ 
+
+ 
+ indicazione di "fallimento". La stazione mobile deve quindi iniziare
+ 
+
+ 
+ la procedura Determinazione del Sistema in Servizio (vedere la
+ 
+
+ 
+ Sezione 2.6.3.12).
+ 
+
+ 
+ 2.6.3.11 AGGIORNAMENTO AUTONOMO DELLA REGISTRAZIONE
+ 
+
+ 
+ Lo stato di registrazione deve essere disabilitato. Se lo stato ID di
+ 
+
+ 
+ prima registrazione è abilitato, ritornare la procedura da cui si
+ 
+
+ 
+ proveniva.
+ 
+
+ 
+ La stazione mobile deve quindi agire in conformità a quanto segue:
+ 
+
+ 
+ * Se è stata fornita una indicazione di "successo" alla
+ 
+
+ 
+ procedura Aggiornamento Registrazione, la stazione mobile deve
+ 
+
+ 
+ porre AIDL s = AID s e tentare di trovare AID s tra i valori di
+ 
+
+ 
+ AID sp memorizzati nella memoria di registrazione. Se tale
+ 
+
+ 
+ valore non si trova allora la stazione mobile deve creare una
+ 
+
+ 
+ locazione per AID s. Lo stato di distribuzione del sovraccarico
+ 
+
+ 
+ deve essere disabilitato. La stazione mobile deve aggiornare la
+ 
+
+ 
+ ID della prossima registrazione (NXTREG sp) associato al
+ 
+
+ 
+ AID sp, al valore:
+ 
+
+ 
+ NXTREG sp = REGID s + REGINCR s.
+ 
+
+ 
+ * Se una indicazione di "fallimento" è stata fornita alla
+ 
+
+ 
+ procedura Aggiornamento Registrazione, la stazione mobile deve
+ 
+
+ 
+ agire conformemente a quanto segue:
+ 
+
+ 
+ - Se lo stato di registrazione forzata è abilitato, allora la
+ 
+
+ 
+ stazione mobile deve impostare il temporizzatore di
+ 
+
+ 
+ riregistrazione ad un intervallo di tempo casuale
+ 
+
+ 
+ uniformemente distribuito in un intervallo da 0 a 120
+ 
+
+ 
+ secondi, con una granularità non superiore ad un secondo, e
+ 
+
+ 
+ impostare lo stato di riregistrazione su abilitato.
+ 
+
+ 
+ - Se lo stato di registrazione forzata è disabilitato, allora
+ 
+
+ 
+ la stazione mobile deve generare un numero casuale
+ 
+
+ 
+ (NRANDOM sv). Ogni volta che questo passo è eseguito, deve
+ 
+
+ 
+ essere generato un altro numero casuale, uniformemente
+ 
+
+ 
+ distribuito nell'intervallo da 0 a 10, e con una granularità
+ 
+
+ 
+ non superiore ad 1.
+ 
+
+ 
+ La stazione mobile deve quindi tentare di trovare AID s tra i
+ 
+
+ 
+ valori di AID sp memorizzati nella memoria di registrazione.
+ 
+
+ 
+ Se non viene trovato, allora la stazione mobile deve creare
+ 
+
+ 
+ una locazione per AID s. La stazione mobile deve aggiornare
+ 
+
+ 
+ l'ID della prossima registrazione NXTREG sp associato con
+ 
+
+ 
+ l'AID sp al valore:
+ 
+
+ 
+ NXTREG sp = REGID s + NRANDOM sv.
+ 
+
+ 
+ La stazione mobile deve quindi ritornare alla procedura di
+ 
+
+ 
+ provenienza.
+ 
+
+ 
+ 2.6.3.12 DETERMINAZIONE DEL SISTEMA IN SERVIZIO
+ 
+
+ 
+ La stazione mobile deve iniziare la procedura Selezione del Canale di
+ 
+
+ 
+ Chiamata (vedere la Sezione 2.6.1.2).
+ 
+
+ 
+ 2.6.3.13 CANALE DI ACCESSO ALTERNATIVO
+ 
+
+ 
+ Se la stazione mobile è sintonizzata sul canale di accesso più
+ 
+
+ 
+ intenso, essa deve sintonizzarsi sul secondo canale più intenso e
+ 
+
+ 
+ quindi iniziare la procedura Recupero dei Parametri di Tentativo di
+ 
+
+ 
+ Accesso (vedere la Sezione 2.6.3.3). Altrimenti deve iniziare la
+ 
+
+ 
+ procedura Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ 2.6.3.14 RIPETIZIONE DEL TENTATIVO DIRETTO
+ 
+
+ 
+ La stazione mobile deve esaminare l'intensità del segnale su
+ 
+
+ 
+ ciascuno dei canali elencati nel CCLIST s e scegliere fino a due
+ 
+
+ 
+ canali con l'intensità di segnale più elevata.
+ 
+
+ 
+ La stazione mobile deve poi sintonizzarsi sul canale di accesso più
+ 
+
+ 
+ intenso ed iniziare la procedura Recupero dei Parametri dei Tentativi
+ 
+
+ 
+ di Accesso (vedere la Sezione 2.6.3.3).
+ 
+
+ 
+ 2.6.4 CONTROLLO DELLA STAZIONE MOBILE SUL CANALE VOCALE
+ 
+
+ 
+ 2.6.4.1. PERDITA DI CONTINUITà DEL COLLEGAMENTO RADIO
+ 
+
+ 
+ Quando la stazione mobile è sintonizzata su un canale vocale, si
+ 
+
+ 
+ deve effettuare il monitoraggio dello stato del temporizzatore di
+ 
+
+ 
+ evanescenza (vedere la Sezione 2.4.1.3). Se lo stato del
+ 
+
+ 
+ temporizzatore di evanescenza è abilitato, bisogna far partire un
+ 
+
+ 
+ temporizzatore di evanescenza; ogni volta che lo stato del
+ 
+
+ 
+ temporizzatore di evanescenza è disabilitato, il temporizzatore deve
+ 
+
+ 
+ essere ripristinato. Se il temporizzatore conta fino a 5 secondi, la
+ 
+
+ 
+ stazione mobile deve spegnere il suo trasmettitore; quindi iniziare
+ 
+
+ 
+ la procedura Determinazione del Sistema in Servizio (vedere la
+ 
+
+ 
+ Sezione 2.6.3.12).
+ 
+
+ 
+ 2.6.4.2 CONFERMA DEL CANALE VOCALE INIZIALE
+ 
+
+ 
+ Entro 100 ms dalla ricezione della designazione del canale vocale
+ 
+
+ 
+ iniziale (vedere la sezione 3.3.1.1), la stazione mobile deve
+ 
+
+ 
+ determinare se il numero di canale è nel gruppo destinato al sistema
+ 
+
+ 
+ cellulare, e:
+ 
+
+ 
+ * Se è nel gruppo di canali assegnati, la stazione mobile deve
+ 
+
+ 
+ sintonizzarsi sul canale vocale designato, accendere il
+ 
+
+ 
+ trasmettitore al livello di potenza indicato dal campo VMAC del
+ 
+
+ 
+ messaggio del canale vocale iniziale (vedere le Sezioni 2.1.2.2
+ 
+
+ 
+ e 3.3.1.1), accendere il trasponditore SAT (vedere la Sezione
+ 
+
+ 
+ 2.4.1), e porre il codice di colore SAT memorizzato (SCC s) al
+ 
+
+ 
+ valore del campo SCC del messaggio del canale vocale iniziale
+ 
+
+ 
+ (vedere la Sezione 3.3.1.1).
+ 
+
+ 
+ - Se questo è un accesso origine, la stazione mobile deve poi
+ 
+
+ 
+ iniziare la procedura Conversazione (vedere la Sezione
+ 
+
+ 
+ 2.6.4.4).
+ 
+
+ 
+ - Se questo è un accesso di risposta di chiamata, la stazione
+ 
+
+ 
+ mobile deve poi iniziare la procedura Attesa Ordine (vedere
+ 
+
+ 
+ la Sezione 2.6.4.3.1).
+ 
+
+ 
+ * Altrimenti, la stazione mobile deve iniziare la procedura
+ 
+
+ 
+ Determinazione del Sistema in Servizio (vedere la Sezione
+ 
+
+ 
+ 2.6.3.12).
+ 
+
+ 
+ 2.6.4.3 ALLARME
+ 
+
+ 
+ 2.6.4.3.1 ATTESA ORDINE
+ 
+
+ 
+ Quando si inizia questa procedura, il temporizzatore di ordini deve
+ 
+
+ 
+ essere impostato a cinque secondi. Possono accadere le seguenti cose:
+ 
+
+ 
+ * Se il temporizzatore di ordini termina il proprio ciclo, la
+ 
+
+ 
+ stazione mobile deve spegnere il trasmettitore; poi la stazione
+ 
+
+ 
+ mobile deve iniziare la procedura Determinazione del Sistema in
+ 
+
+ 
+ Servizio (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ * Entro 100ms dalla ricezione di ognuno degli ordini elencati di
+ 
+
+ 
+ seguito (vedere la Sezione 3.3.2), la stazione mobile deve
+ 
+
+ 
+ confrontare SCC s con il campo del codice di colore SAT
+ 
+
+ 
+ attuale, contenuto nel messaggio ricevuto. Se SCC s non è
+ 
+
+ 
+ uguale a PSCC, l'ordine deve essere ignorato. Se SCC s = PSCC,
+ 
+
+ 
+ l'azione da intraprendere per ciascun ordine è come segue:
+ 
+
+ 
+ - Passaggio: Attivare il tono segnalatore per 50ms, disattivare
+ 
+
+ 
+ il tono segnalatore, spegnere il trasmettitore, regolare il
+ 
+
+ 
+ livello di potenza, sintonizzarsi sul nuovo canale; regolare
+ 
+
+ 
+ al nuovo SAT, posizionare SCC s al valore del campo SCC del
+ 
+
+ 
+ messaggio (vedere la Sezione 2.4.1), accendere il
+ 
+
+ 
+ trasmettitore, attivare il temporizzatore di evanescenza, re-
+ 
+
+ 
+ stare nella procedura Attesa Ordine, e attivare il
+ 
+
+ 
+ temporizzatore degli ordini a 5 secondi.
+ 
+
+ 
+ - Allarme. Attivare il tono segnalatore, attendere 500ms, ed
+ 
+
+ 
+ entrare nella procedura Attesa Risposta (vedere la Sezione
+ 
+
+ 
+ 2.6.4.3.2).
+ 
+
+ 
+ - Rilascio. Iniziare la procedura Rilascio (vedere la sezione
+ 
+
+ 
+ 2.6.4.5).
+ 
+
+ 
+ - Verifica. Inviare il messaggio di conferma ordini alla
+ 
+
+ 
+ stazione fissa (vedere la Sezione 2.7.2) rimanere nella
+ 
+
+ 
+ procedura Attesa Ordine e porre il temporizzatore degli
+ 
+
+ 
+ ordini a 5 secondi.
+ 
+
+ 
+ - Manutenzione. Attivare il tono segnalatore, attendere 500 ms,
+ 
+
+ 
+ ed iniziare la procedura Attesa Risposta vedere la (Sezione
+ 
+
+ 
+ 2.6.4.3.2).
+ 
+
+ 
+ - Cambiamento potenza. Regolare il trasmettitore al livello di
+ 
+
+ 
+ potenza indicato dal codice di qualificazione dell'ordine
+ 
+
+ 
+ (vedere le Sezioni 3.3.1.1 e 2.1.2.2) ed inviare il messaggio
+ 
+
+ 
+ di conferma ordini alla stazione fissa (vedere la Sezione
+ 
+
+ 
+ 2.7.2).
+ 
+
+ 
+ Restare nella procedura Attesa Ordine, e impostare il
+ 
+
+ 
+ temporizzatore degli ordini a 5 secondi.
+ 
+
+ 
+ - Controllo locale. Se lo stato del controllo locale è
+ 
+
+ 
+ abilitato (vedere la Sezione 2.6.1.2.2) ed è ricevuto un
+ 
+
+ 
+ ordine di controllo locale, deve essere esaminato il campo
+ 
+
+ 
+ del controllo locale per determinare l'azione e la conferma
+ 
+
+ 
+ da intraprendere.
+ 
+
+ 
+ - Ritmo di conteggio. Se la stazione mobile può trattare
+ 
+
+ 
+ informazioni di tariffa a carico, bisogna impostare il ritmo
+ 
+
+ 
+ di conteggio al valore del qualificatore di 10 bit
+ 
+
+ 
+ dell'ordine di ritmo di conteggio (vedere la Tavola 3.3.1-1).
+ 
+
+ 
+ Se la stazione mobile ha impostato il ritmo di conteggio in
+ 
+
+ 
+ questo modo, essa deve inviare il messaggio di conferma
+ 
+
+ 
+ dell'ordine di ritmo di conteggio alla stazione fissa (vedere
+ 
+
+ 
+ la Sezione 2.7.2), restare nella procedura Attesa Ordine e
+ 
+
+ 
+ impostare il temporizzatore degli ordini a 5 secondi.
+ 
+
+ 
+ - Ogni altro ordine. Ignorare l'ordine.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.6.4.3.2 ATTESA RISPOSTA
+ 
+
+ 
+ Quando si inizia questa procedura, si deve impostare il
+ 
+
+ 
+ temporizzatore di allarme a 65 secondi (-0,+20%). Possono succedere
+ 
+
+ 
+ le seguenti cose:
+ 
+
+ 
+ * Se il temporizzatore di allarme esaurisce il proprio ciclo, la
+ 
+
+ 
+ stazione mobile deve spegnere il trasmettitore; poi la stazione
+ 
+
+ 
+ mobile deve iniziare la procedura Determinazione del Sistema in
+ 
+
+ 
+ Servizio (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ * Se l'utente risponde, il tono di segnalazione deve essere
+ 
+
+ 
+ disattivato e si deve entrare nella procedura Conversazione
+ 
+
+ 
+ (vedere la Sezione 2.6.4.4).
+ 
+
+ 
+ * Entro 100 ms dalla ricezione di ognuno degli ordini elencati di
+ 
+
+ 
+ seguito la stazione mobile deve confrontare SCC s con il campo
+ 
+
+ 
+ PSCC presente nel messaggio ricevuto. Se SCC s non è uguale a
+ 
+
+ 
+ PSCC, l'ordine deve essere ignorato. Se SCC s = PSCC, l'azione
+ 
+
+ 
+ da intraprendere per ciascun ordine è come segue:
+ 
+
+ 
+ - Passaggio. Disattivare il tono segnalatore per 500ms,
+ 
+
+ 
+ attivare il tono segnalatore per 50 ms, disattivare il tono
+ 
+
+ 
+ segnalatore, spegnere il trasmettitore, regolare il livello
+ 
+
+ 
+ di potenza, sintonizzarsi sul nuovo canale; regolare al nuovo
+ 
+
+ 
+ SAT, posizionare SCC s al valore del campo SCC del messaggio
+ 
+
+ 
+ (vedere la Sezione 2.4.1), accendere il trasmettitore,
+ 
+
+ 
+ attivare il temporizzatore di evanescenza, e attivare il tono
+ 
+
+ 
+ segnalatore. Quindi restare nella procedura Attesa Risposta.
+ 
+
+ 
+ - Allarme. Rimanere nella procedura Attesa Risposta e impostare
+ 
+
+ 
+ il temporizzatore di allarme a 65 secondi.
+ 
+
+ 
+ - Fine allarme. Disattivare il tono segnalatore ed iniziare la
+ 
+
+ 
+ procedura Attesa Ordine (vedere la Sezione 2.6.4.3.1).
+ 
+
+ 
+ - Rilascio. Disattivare il tono segnalatore, attendere 500ms, e
+ 
+
+ 
+ quindi iniziare la procedura Rilascio (vedere la sezione
+ 
+
+ 
+ 2.6.4.5).
+ 
+
+ 
+ - Verifica. Inviare il messaggio di conferma ordini alla
+ 
+
+ 
+ stazione fissa (vedere la Sezione 2.7.2), rimanere nella
+ 
+
+ 
+ procedura Attesa Risposta.
+ 
+
+ 
+ - Manutenzione. Rimanere nella procedura Attesa Risposta e poi
+ 
+
+ 
+ impostare il temporizzatore di allarme a 65 secondi.
+ 
+
+ 
+ - Cambiamento potenza. Regolare il trasmettitore al livello di
+ 
+
+ 
+ potenza indicato dal codice di qualificazione dell'ordine
+ 
+
+ 
+ (vedere le Sezioni 3.3.1.1 e 2.1.2.2) ed inviare il messaggio
+ 
+
+ 
+ di conferma ordini alla stazione fissa (vedere la Sezione
+ 
+
+ 
+ 2.7.2). Restare nella procedura Attesa Risposta.
+ 
+
+ 
+ - Controllo locale. Se lo stato del controllo locale è
+ 
+
+ 
+ abilitato (vedere la Sezione 2.6.1.2.2) ed è ricevuto un
+ 
+
+ 
+ ordine di controllo locale, deve essere esaminato il campo
+ 
+
+ 
+ del controllo locale per determinare l'azione e la conferma
+ 
+
+ 
+ da intraprendere.
+ 
+
+ 
+ - Ritmo di conteggio. Se la stazione mobile può trattare
+ 
+
+ 
+ informazioni di ritmo di conteggio, bisogna impostare il
+ 
+
+ 
+ ritmo di conteggio al valore del qualificatore di 10 bit
+ 
+
+ 
+ dell'ordine di ritmo di conteggio (vedere la Tavola 3.3.1-1).
+ 
+
+ 
+ Se la stazione mobile ha impostato il ritmo di conteggio in
+ 
+
+ 
+ questo modo, essa deve inviare il messaggio di conferma
+ 
+
+ 
+ dell'ordine di ritmo di conteggio alla stazione fissa (vedere
+ 
+
+ 
+ la sezione 2.7.2), restare nella procedura Attesa Risposta e
+ 
+
+ 
+ impostare il temporizzatore di allarme a 65 secondi.
+ 
+
+ 
+ - Ogni altro ordine. Ignorare l'ordine
+ 
+
+ 
+ 2.6.4.4 CONVERSAZIONE
+ 
+
+ 
+ Quando si entra in questa procedura, bisogna impostare un
+ 
+
+ 
+ temporizzatore di ritardo di rilascio a 500ms. Se lo stato di
+ 
+
+ 
+ terminazione è abilitato (vedere la Sezione 2.6.3.8), la stazione
+ 
+
+ 
+ mobile deve posizionare lo stato di terminazione su disabilitato,
+ 
+
+ 
+ attendere 500ms e poi iniziare la procedura Rilascio (vedere la
+ 
+
+ 
+ sezione 2.6.4.5).
+ 
+
+ 
+ Eccetto che per i primi 5 secondi dopo l'ammissione in questa
+ 
+
+ 
+ procedura, se il mobile è dotato di dispositivi per la trasmissione
+ 
+
+ 
+ discontinua e la trasmissione discontinua è abilitata (DTX =1), il
+ 
+
+ 
+ mobile può, quando non si richiede di inviare il parlato,
+ 
+
+ 
+ disconnettere il SAT, attendere per 300 ms +/-100ms e quindi ridurre
+ 
+
+ 
+ la potenza del trasmettitore. Alla stazione mobile si richiederà di
+ 
+
+ 
+ trasmettere periodicamente (all'ultimo livello di potenza comandato
+ 
+
+ 
+ dalla stazione fissa) per mezzo dei messaggi AUDIT dalla stazione
+ 
+
+ 
+ fissa.
+ 
+
+ 
+ Possono accadere le seguenti cose:
+ 
+
+ 
+ * Se l'utente termina la chiamata, bisogna esaminare il
+ 
+
+ 
+ temporizzatore di ritardo di rilascio. Se il temporizzatore ha
+ 
+
+ 
+ esaurito il proprio ciclo, bisogna iniziare la procedura
+ 
+
+ 
+ Rilascio (vedere la Sezione 2.6.4.5).
+ 
+
+ 
+ Se il temporizzatore non ha esaurito il proprio ciclo, la stazione
+ 
+
+ 
+ mobile deve attendere fino a che il temporizzatore esaurisce il
+ 
+
+ 
+ proprio ciclo e quindi iniziare la procedura di rilascio.
+ 
+
+ 
+ Se l'utente richiede una richiesta "lampo", essa deve essere
+ 
+
+ 
+ prodotta attivando il tono di segnalazione per 400ms. Se un
+ 
+
+ 
+ ordine valido (che non può essere ignorato) è ricevuto mentre
+ 
+
+ 
+ si sta elaborando una richiesta "lampo", questa deve essere
+ 
+
+ 
+ terminata immediatamente e l'ordine deve essere elaborato. Le
+ 
+
+ 
+ richieste "lampo" così terminate non sono considerate valide.
+ 
+
+ 
+ * Entro 100 ms dalla ricezione di ognuno degli ordini elencati di
+ 
+
+ 
+ seguito, la stazione mobile deve confrontare SCC s con il campo
+ 
+
+ 
+ PSCC, PSCC del messaggio ricevuto se SCC-s non è uguale A
+ 
+
+ 
+ l'ordine deve essere ignorato. Se SCC s = PSCC, le azioni da
+ 
+
+ 
+ intraprendere per ciascun ordine sono le seguenti:
+ 
+
+ 
+ - Passaggio. Attivare il tono segnalatore per 50 ms,
+ 
+
+ 
+ disattivare il tono segnalatore, spegnere il trasmettitore,
+ 
+
+ 
+ regolare il livello di potenza, sintonizzarsi sul nuovo
+ 
+
+ 
+ canale; regolare al nuovo SAT, posizionare SCC s al valore
+ 
+
+ 
+ del campo SCC del messaggio (vedere la Sezione 2.4.1),
+ 
+
+ 
+ accendere il trasmettitore, attivare il temporizzatore di
+ 
+
+ 
+ evanescenza, e rimanere nella procedura Conversazione. La
+ 
+
+ 
+ stazione mobile non deve usare il modo discontinuo di
+ 
+
+ 
+ trasmissione fino a 5 secondi dopo che ha trasposto il SAT
+ 
+
+ 
+ sul nuovo canale.
+ 
+
+ 
+ - Invio indirizzo chiamato.
+ 
+
+ 
+ Se ricevuto entro 10 secondi dal completamento dell'ultima
+ 
+
+ 
+ richiesta "lampo" valida, inviare l'indirizzo chiamato alla
+ 
+
+ 
+ stazione fissa (vedere la Sezione 2.7.2) e rimanere nella
+ 
+
+ 
+ procedura Conversazione.
+ 
+
+ 
+ Altrimenti, ignorare l'ordine e rimanere nella procedura
+ 
+
+ 
+ Conversazione.
+ 
+
+ 
+ - Allarme. Attivare il tono di segnalazione, attendere 500ms,
+ 
+
+ 
+ e poi iniziare la procedura Attesa Risposta (vedere la
+ 
+
+ 
+ Sezione 2.6.4.3.2).
+ 
+
+ 
+ - Rilascio. Esaminare il temporizzatore di ritardo di
+ 
+
+ 
+ rilascio. Se il temporizzatore ha esaurito il proprio ciclo,
+ 
+
+ 
+ la stazione mobile deve iniziare la procedura Rilascio
+ 
+
+ 
+ (vedere la Sezione 2.3.4.5). Se il temporizzatore non ha
+ 
+
+ 
+ esaurito il proprio ciclo, la stazione mobile deve attendere
+ 
+
+ 
+ fino a che il temporizzatore esaurisca il proprio ciclo e
+ 
+
+ 
+ quindi iniziare la procedura Rilascio (vedere la Sezione
+ 
+
+ 
+ 2.3.4.5).
+ 
+
+ 
+ - Verifica. Inviare il messaggio di conferma ordini alla
+ 
+
+ 
+ stazione fissa (vedere la Sezione 2.7.2), rimanere nella
+ 
+
+ 
+ procedura Conversazione. La stazione non deve usare il modo
+ 
+
+ 
+ di trasmissione discontinua fino a 5 secondi dopo che ha
+ 
+
+ 
+ inviato il messaggio di conferma.
+ 
+
+ 
+ - Manutenzione. Attivare il tono di segnalazione, attendere
+ 
+
+ 
+ 500ms, e quindi iniziare la procedura Attesa Risposta
+ 
+
+ 
+ (vedere la Sezione 2.6.4.3.2).
+ 
+
+ 
+ - Cambiamento potenza. Regolare il trasmettitore al livello di
+ 
+
+ 
+ potenza indicato dal codice di qualificazione dell'ordine
+ 
+
+ 
+ (vedere le Sezioni 3.3.1.1 e 2.1.2.2) ed inviare il
+ 
+
+ 
+ messaggio di conferma dell'ordine di ritmo di conteggio di
+ 
+
+ 
+ conferma ordini alla stazione fissa (vedere la Sezione
+ 
+
+ 
+ 2.7.2). Restare nella procedura Conversazione.
+ 
+
+ 
+ - Controllo locale. Se lo stato del controllo locale è
+ 
+
+ 
+ abilitato (vedere la Sezione 2.6.1.2.2) ed è stato ricevuto
+ 
+
+ 
+ un ordine di controllo locale, deve essere esaminato il
+ 
+
+ 
+ campo del controllo locale per determinare l'azione e la
+ 
+
+ 
+ conferma da intraprendere.
+ 
+
+ 
+ - Ritmo di conteggio. Se la stazione mobile può trattare
+ 
+
+ 
+ informazioni di ritmo di conteggio, bisogna impostare il
+ 
+
+ 
+ ritmo di conteggio al valore del qualificatore di 10 bit
+ 
+
+ 
+ dell'ordine di ritmo di conteggio (vedere la Tavola
+ 
+
+ 
+ 3.3.1-1). Se la stazione mobile ha impostato il ritmo di
+ 
+
+ 
+ conteggio in questo modo, essa deve inviare il messaggio
+ 
+
+ 
+ alla stazione fissa (vedere la sezione 2.7.2), restare nella
+ 
+
+ 
+ procedura Conversazione.
+ 
+
+ 
+ - Ogni altro ordine. Ignorare l'ordine.
+ 
+
+ 
+ 2.6.4.5 RILASCIO
+ 
+
+ 
+ Si debbono eseguire le seguenti operazioni:
+ 
+
+ 
+ * Inviare il tono di segnalazione per 1,8 secondi. Se è stato
+ 
+
+ 
+ inviata una richiesta "lampo" quando si è iniziata questa
+ 
+
+ 
+ procedura, si deve continuare ad inviare il tono di
+ 
+
+ 
+ segnalazione ed occorre sommare i tempi in modo che il tono di
+ 
+
+ 
+ segnalazione non sia inviato per più di 1,8 secondi.
+ 
+
+ 
+ * Cessare l'invio del tono di segnalazione e spegnere il
+ 
+
+ 
+ trasmettitore.
+ 
+
+ 
+ La stazione mobile deve quindi iniziare la procedura Determinazione
+ 
+
+ 
+ del Sistema in Servizio (vedere la Sezione 2.6.3.12).
+ 
+
+ 
+ 2.7 FORMATI DI SEGNALAZIONE
+ 
+
+ 
+ Quando i campi di più di un bit compaiono nelle parole, il bit più
+ 
+
+ 
+ significativo è il primo che arriva, salvo altrimenti specificato.
+ 
+
+ 
+ Il bit meno significativo è designato bit o salvo altrimenti
+ 
+
+ 
+ specificato.
+ 
+
+ 
+ 2.7.1 CANALE DI CONTROLLO INVERSO
+ 
+
+ 
+ Il canale di controllo inverso (RECC) è un flusso dati a larga banda
+ 
+
+ 
+ inviato dalla stazione mobile alla stazione fissa. Questo flusso dati
+ 
+
+ 
+ deve essere generato ad una velocità di un 8 kbit/s con tolleranza
+ 
+
+ 
+ di +/-1 bit/s. La figura 2.7.1-1 descrive il formato del flusso dati
+ 
+
+ 
+ RECC.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ |====================================================================
+ 
+
+ 
+ |SINC| SINC | DCC* |PRIMA PAROLA|SECONDA PAROLA|TERZA PAROLA| |
+ 
+
+ 
+ |BIT |PAROLA|CODIFICATO| RIPETUTA | RIPETUTA | RIPETUTA |...|
+ 
+
+ 
+ | | | | 5 VOLTE | 5 VOLTE | 5 VOLTE | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | 30 11 7 | 240 240 240
+ 
+
+ 
+ |============================|
+ 
+
+ 
+ precursore di cattura
+ 
+
+ 
+ SINC BIT = 1010 ... 1010
+ 
+
+ 
+ SINC PAROLA = 11100010010
+ 
+
+ 
+ *CODICE DI COLORE DIGITALE-CODIFICATO COME ALLA TAVOLA 2.7.1-1
+ 
+
+ 
+ FLUSSO DEL MESSAGGIO SUL CANALE DI CONTROLLO INVERSO
+ 
+
+ 
+ (da mobile a fissa)
+ 
+
+ 
+ Figura 2.7.1-1
+ 
+
+ 
+ Tavola 2.7.1-1
+ 
+
+ 
+ CODICE DI COLORE DIGITALE CODIFICATO
+ 
+
+ 
+ DCC Ricevuto DCC Codificato a 7 bit
+ 
+
+ 
+ 00 0000000
+ 
+
+ 
+ 01 0011111
+ 
+
+ 
+ 10 1100011
+ 
+
+ 
+ 11 1111100
+ 
+
+ 
+ Tutti i messaggi iniziano con il precursore di cattura del RECC che
+ 
+
+ 
+ è composto di una sequenza di sincronizzazione di bit lunga 30-bit
+ 
+
+ 
+ (1010...1010), una sequenza di sincronizzazione di parola lunga
+ 
+
+ 
+ 11-bit (11100010010), e dal codice di colore digitale codificato
+ 
+
+ 
+ (DCC). Il DDC codificato a 7-bit è ottenuto trasformando il DCC
+ 
+
+ 
+ ricevuto, conformemente alla Tavola 2.7.1-1.
+ 
+
+ 
+ Ciascuna parola contiene 48 bits, incluso il bit di parità, ed è
+ 
+
+ 
+ ripetuta cinque volte; questo viene denominato un blocco di parole.
+ 
+
+ 
+ Una parola è formata codificando un contenuto di 36 bit in codice
+ 
+
+ 
+ BCH (48,36) che ha una distanza di 5, (48,36; 5). Il bit più a
+ 
+
+ 
+ sinistra (cioè il primo) sarà denominato il bit più significativo.
+ 
+
+ 
+ I 36 bit più significativi del campo dei 48-bit saranno i bit del
+ 
+
+ 
+ contenuto.
+ 
+
+ 
+ Il generatore polinomiale per il codice è lo stesso di quello usato
+ 
+
+ 
+ per il codice (40,28; 5) sul canale di controllo diretto (vedi la
+ 
+
+ 
+ Sezione 3.3.1).
+ 
+
+ 
+ Ciascun messaggio RECC può essere formato da una fino a cinque
+ 
+
+ 
+ parole. I tipi di messaggio da trasmettere sul canale di controllo
+ 
+
+ 
+ inverso sono:
+ 
+
+ 
+ * Messaggio di risposta di ricerca
+ 
+
+ 
+ * Messaggio di origine
+ 
+
+ 
+ * Messaggio conferma ordine
+ 
+
+ 
+ * Messaggio di ordine
+ 
+
+ 
+ Questi messaggi sono derivati dalla combinazione delle seguenti
+ 
+
+ 
+ cinque parole:
+ 
+
+ 
+ Parola A- Parola di indirizzo abbreviato
+ 
+
+ 
+ ==================================================================
+ 
+
+ 
+ | F | | | | | S | | |
+ 
+
+ 
+ | = | NAWC | T | S | E | C | MIN1 | P |
+ 
+
+ 
+ | 1 | | | | | M | 23 - 0 | |
+ 
+
+ 
+ ==================================================================
+ 
+
+ 
+ 1 3 1 1 1 5 24 12
+ 
+
+ 
+ Parola B- Parola di indirizzo esteso
+ 
+
+ 
+ ========================================================
+ 
+
+ 
+ |F| | | | | | RSVD | | |
+ 
+
+ 
+ |=|NAWC|LOCAL|ORDQ|ORDINE|LT | = |MIN2 | P |
+ 
+
+ 
+ |0| | | | | |000...0| 33-24 | |
+ 
+
+ 
+ ========================================================
+ 
+
+ 
+ 1 3 5 3 5 1 8 10 12
+ 
+
+ 
+ Parola C- Parola numero di serie
+ 
+
+ 
+ =========================================================
+ 
+
+ 
+ | F | | | |
+ 
+
+ 
+ | = | NAWC | SERIAL | |
+ 
+
+ 
+ | 0 | | 31-0 | P |
+ 
+
+ 
+ =========================================================
+ 
+
+ 
+ 1 3 32 12
+ 
+
+ 
+ Parola D - Prima parola dell'indirizzo chiamato
+ 
+
+ 
+ =========================================================
+ 
+
+ 
+ |F| |Prima|Seconda| | | | |Settima|Ottava| |
+ 
+
+ 
+ |=|NAWC|cifra| cifra |...|...|...|...| cifra | cifra| P |
+ 
+
+ 
+ |0| | | | | | | | | | |
+ 
+
+ 
+ =========================================================
+ 
+
+ 
+ 1 3 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ Parola E- Seconda parola dell'indirizzo chiamato
+ 
+
+ 
+ ====================================================
+ 
+
+ 
+ | F | NAWC | nona | decima | | | |
+ 
+
+ 
+ | = | = | CIFRA | CIFRA | ... | ... | ... | ...
+ 
+
+ 
+ | 0 | 000 | | | | | |
+ 
+
+ 
+ ====================================================
+ 
+
+ 
+ 1 3 4 4 4 4 4 4
+ 
+
+ 
+ ==================================
+ 
+
+ 
+ | quindicesima | sedicesima | |
+ 
+
+ 
+ | CIFRA | CIFRA | P |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ ==================================
+ 
+
+ 
+ 4 4 12
+ 
+
+ 
+ L'interpretazione del campo dati è la seguente:
+ 
+
+ 
+ F - Campo indicazione prima parola. Posto a "1" nella prima
+ 
+
+ 
+ parola e a "0" nelle successive parole.
+ 
+
+ 
+ NAWC - Campo del numero delle parole addizionali che verranno
+ 
+
+ 
+ T - Campo T. Posto a "1" per identificare il messaggio come
+ 
+
+ 
+ una origine o un ordine; posto a "0" per identificare il
+ 
+
+ 
+ messaggio come una risposta di ordine o risposta di
+ 
+
+ 
+ chiamata (paging).
+ 
+
+ 
+ S - Campo del numero di serie inviato. Se la parola del numero
+ 
+
+ 
+ di serie è inviata, è posto a "1"; se la parola del
+ 
+
+ 
+ numero di serie non è inviata, è posto a "0".
+ 
+
+ 
+ E - Campo indirizzo esteso. Se la parola di indirizzo esteso
+ 
+
+ 
+ è inviata, è posto a "1"; se la parola di indirizzo
+ 
+
+ 
+ esteso non è inviata, è posto a "0".
+ 
+
+ 
+ SCM - Il campo del marchio della classe di stazione (vedere la
+ 
+
+ 
+ Sezione 2.3.3).
+ 
+
+ 
+ ORDER - Campo ordine. Identifica il tipo di ordine (vedere Tavola
+ 
+
+ 
+ 3.3.1-1).
+ 
+
+ 
+ ORDQ - Campo di qualificazione dell'ordine. Qualifica la
+ 
+
+ 
+ conferma dell'ordine ad una azione specifica (vedere
+ 
+
+ 
+ Tavola 3.3.1-1).
+ 
+
+ 
+ LOCAL - Campo controllo locale. Il campo ORDINE deve essere
+ 
+
+ 
+ impostato per controllo locale o per tariffa a carico
+ 
+
+ 
+ (vedere Tavola 3.3.1-1) affinchè questo campo possa
+ 
+
+ 
+ interpretarsi. Se il campo ORDINE è impostato per
+ 
+
+ 
+ controllo locale, allora il campo è specificato per
+ 
+
+ 
+ ciascun sistema. Se il campo ORDINE è impostato per
+ 
+
+ 
+ tariffa a carico, allora il campo LOCAL, fa parte della
+ 
+
+ 
+ parola di qualifica della tariffa a carico (vedere Tavola
+ 
+
+ 
+ 3.3.1-1).
+ 
+
+ 
+ LT - Campo codice ultimo tentativo (vedere Sezione 2.6.3.8).
+ 
+
+ 
+ MIN1 - Prima parte del Numero di Identificazione Mobile (vedere
+ 
+
+ 
+ Sezione 2.3.1).
+ 
+
+ 
+ MIN2 - Seconda parte del Numero di Identificazione Mobile
+ 
+
+ 
+ (vedere Sezione 2.3.1).
+ 
+
+ 
+ SERIAL- Campo numero di serie. Identifica il numero di serie
+ 
+
+ 
+ della stazione mobile (vedere Sezione 2.3.2).
+ 
+
+ 
+ CIFRA - Campo cifra (vedere Tavola 2.7.1-2).
+ 
+
+ 
+ P - Campo parità.
+ 
+
+ 
+ Esempi di codifica dell'informazione di indirizzo chiamato nelle
+ 
+
+ 
+ parole "indirizzo chiamato" sono date di seguito:
+ 
+
+ 
+ I. Se si imposta il numero 2, la parola è
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ | NOTA | 0010 | 1100 | 0000 | 0000 | 0000 | 0000 | 0000 | 0000 | P |
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 4 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ II. Se si imposta il numero 13792640, la parola è
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ | NOTA | 0001 | 0011 | 0111 | 1001 | 0010 | 0110 | 0100 | 1010 | P |
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 4 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ III. Se è si imposta il numero *24273258, le parole sono:
+ 
+
+ 
+ Parola D - Prima parola dell'indirizzo chiamato
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ | NOTA | 1011 | 0010 | 0100 | 0010 | 0111 | 0011 | 0010 | 0101 | P |
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 4 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ Parola E - Seconda parola dell'indirizzo chiamato
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ | NOTA | 1000 | 0000 | 0000 | 0000 | 0000 | 0000 | 0000 | 0000 | P |
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 4 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ NOTA: Questi quattro bits dipendono dal tipo di messaggio.
+ 
+
+ 
+ Tavola 2.7.1-2
+ 
+
+ 
+ CODICE DELLE CIFRE
+ 
+
+ 
+ Cifra Codice Cifra Codice
+ 
+
+ 
+ 1 0001 7 0111
+ 
+
+ 
+ 2 0010 8 1000
+ 
+
+ 
+ 3 0011 9 1001
+ 
+
+ 
+ 4 0100 0 1010
+ 
+
+ 
+ 5 0101 * 1011
+ 
+
+ 
+ 6 0110 # 1100
+ 
+
+ 
+ Nullo 0000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ NOTA:
+ 
+
+ 
+ 1) La cifra 0 è codificata come binario "dieci". non come
+ 
+
+ 
+ binario "zero".
+ 
+
+ 
+ 2) Il codice 0000 è il codice nullo, indica cifra non presente.
+ 
+
+ 
+ 3) Tutte le altre sequenze di quattro-bit sono riservate, e non
+ 
+
+ 
+ devono essere trasmesse.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 2.7.2 CANALE VOCALE INVERSO
+ 
+
+ 
+ Il canale vocale inverso (RVC) è un flusso dati a larga banda
+ 
+
+ 
+ inviato dalla stazione mobile alla stazione fissa. Questo flusso dati
+ 
+
+ 
+ deve essere generato a una velocità di 8 kbit/s con tolleranza di
+ 
+
+ 
+ +/-1 bit/s. La figura 2.7.2-1 descrive il formato del flusso RVC.
+ 
+
+ 
+ ===================================================================
+ 
+
+ 
+ | | | | | | | |
+ 
+
+ 
+ | | SINC | SINC | REPLICA 1 | SINC | SINC | REPLICA 2 |
+ 
+
+ 
+ | | BIT | PAROLA | DI | BIT | PAROLA | DI |
+ 
+
+ 
+ | | | | PAROLA 1 | | | PAROLA 1 |
+ 
+
+ 
+ ===================================================================
+ 
+
+ 
+ 101 11 48 37 11 48
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | | | |
+ 
+
+ 
+ |SINC| SINC |REPLICA 3 | SINC |SINC | REPLICA 4 | SINC | SINC |
+ 
+
+ 
+ |BIT | PAROLA | DI | BIT |PAROLA | DI | BIT | PAROLA |
+ 
+
+ 
+ | | |PAROLA 1 | | | PAROLA 1 | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 37 11 48 37 11 48 37 11
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ |REPLICA 5 | SINC | SINC | REPLICA 1 | | REPLICA 5 |
+ 
+
+ 
+ | DI | BIT | PAROLA | DI | ... ... | DI |
+ 
+
+ 
+ |PAROLA 1 | | | PAROLA 2 | | PAROLA 2 |
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 48 37 11 48 48
+ 
+
+ 
+ SINC BIT = 1010...101
+ 
+
+ 
+ SINC PAROLA = 11100010010
+ 
+
+ 
+ FLUSSO DEL MESSAGGIO SUL CANALE VOCALE
+ 
+
+ 
+ (da mobile a fissa)
+ 
+
+ 
+ Figura 2.7.2-1
+ 
+
+ 
+ Una sequenza di sincronizzazione di bit di 37-bit (1010...101) e una
+ 
+
+ 
+ sequenza di sincronizzazione di parola di 11-bit (11100010010) sono
+ 
+
+ 
+ inviate per permettere alle stazioni fisse di sincronizzarsi con i
+ 
+
+ 
+ dati in arrivo, con l'eccezione della prima ripetizione della parola
+ 
+
+ 
+ 1 del messaggio dove è usata una sequenza di sincronizzazione di bit
+ 
+
+ 
+ lunga 101-bit. Ciascuna parola contiene 48 bits, incluso il bit di
+ 
+
+ 
+ parità, ed è ripetuta cinque volte insieme alle sequenze di
+ 
+
+ 
+ sincronizzazione di bit lunga 37 bit e di sincronizzazione di parola
+ 
+
+ 
+ lunga 11-bit; questo viene denominato un blocco di parole. Per un
+ 
+
+ 
+ messaggio multiparole, il secondo blocco di parole è formato come il
+ 
+
+ 
+ primo blocco di parole, incluse le sequenze di sincronizzazione di
+ 
+
+ 
+ bit di 37 bit e di sincronizzazione di parola lunga 11-bit. Una
+ 
+
+ 
+ parola è formata codificando il contenuto di 36 bits in un codice
+ 
+
+ 
+ BCH (48,36) che ha una distanza di 5, (48,36;5). Il bit più a
+ 
+
+ 
+ sinistra (cioè il primo che arriva) sarà designato come il bit più
+ 
+
+ 
+ significativo. I 36 bits più significativi del campo di 48-bit
+ 
+
+ 
+ saranno i bits di contenuto. Il generatore polinomiale per il codice
+ 
+
+ 
+ è lo stesso impiegato per il codice (40,28;5) sul canale di
+ 
+
+ 
+ controllo diretto (vedere la Sezione 3.3.1).
+ 
+
+ 
+ Ciascun messaggio RVC può consistere di una o due parole. I tipi di
+ 
+
+ 
+ messaggio da trasmettersi sul canale vocale inverso sono:
+ 
+
+ 
+ * Messaggio conferma di ordine
+ 
+
+ 
+ * Messaggio indirizzo chiamato
+ 
+
+ 
+ I formati dei messaggi sono i seguenti:
+ 
+
+ 
+ Messaggio conferma di ordine
+ 
+
+ 
+ ===================================================================
+ 
+
+ 
+ | F | NAWC | T | | | | RSVD | |
+ 
+
+ 
+ | = | = | = | LOCAL | ORDQ | ORDER | = | P |
+ 
+
+ 
+ | 1 | 00 | 1 | | | | 000...0 | |
+ 
+
+ 
+ ===================================================================
+ 
+
+ 
+ 1 2 1 5 3 5 19 12
+ 
+
+ 
+ Messaggio Indirizzo chiamato
+ 
+
+ 
+ Parola 1 - Prima parola dell'indirizzo chiamato
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ |F |NAWC |T |PRIMA |SECONDA | | | | |SETTIMA |OTTAVA | |
+ 
+
+ 
+ |= | = |= | | | .. | .. | .. | .. | | |P |
+ 
+
+ 
+ |1 | 01 |0 |CIFRA |CIFRA | | | | |CIFRA |CIFRA | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 1 2 1 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ Parola 2 - Seconda parola dell'indirizzo chiamato
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ |F |NAWC |T |NONA |DECIMA | | | | |15esima| 16esima | |
+ 
+
+ 
+ |= | = |= | | | .. | .. | .. | .. | | | P |
+ 
+
+ 
+ |0 | 00 |0 |CIFRA| CIFRA | | | | |CIFRA | CIFRA | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 1 2 1 4 4 4 4 4 4 4 4 12
+ 
+
+ 
+ L'interpretazione dei campi dati è la seguente:
+ 
+
+ 
+ F - Campo indicazione prima parola. Posto a "1" nella prima
+ 
+
+ 
+ parola e a "0" nella seconda parola.
+ 
+
+ 
+ NAWC - Campo numero di parole addizionali che verranno.
+ 
+
+ 
+ T - Campo T. Posto a "1" per identificare il messaggio come
+ 
+
+ 
+ una conferma di ordine. Posto a "0" per identificare il
+ 
+
+ 
+ messaggio come un indirizzo chiamato.
+ 
+
+ 
+ CIFRA - Campo cifra (vedere Tavola 2.7.1-2)
+ 
+
+ 
+ ORDER - Campo ordine. Identifica il tipo di ordine (vedere Tavola
+ 
+
+ 
+ 3.3.1-1).
+ 
+
+ 
+ ORDQ - Campo di qualificazione dell'ordine. Qualifica la
+ 
+
+ 
+ conferma dell'ordine ad una azione specifica (vedere
+ 
+
+ 
+ Tavola 3.3.1-1).
+ 
+
+ 
+ LOCAL - Campo di controllo locale. Affinchè questo campo possa
+ 
+
+ 
+ essere interpretato il campo ORDER deve essere impostato
+ 
+
+ 
+ per controllo locale o per ritorno di conteggio (vedere
+ 
+
+ 
+ Tavola 3.3.1-1). Se il campo ORDER è impostato per
+ 
+
+ 
+ controllo locale, allora il campo LOCAL è specifico per
+ 
+
+ 
+ ciascun sistema. Se il campo ORDER è impostato per
+ 
+
+ 
+ ritorno di conteggio, allora il campo LOCAL forma parte
+ 
+
+ 
+ della parola che qualifica il ritorno di conteggio
+ 
+
+ 
+ (vedere 1 tavola 3.3.1-1).
+ 
+
+ 
+ RSVD - Riservato per uso futuro, tutti i bits sono posti come
+ 
+
+ 
+ indicato.
+ 
+
+ 
+ p - Campo parità
+ 
+
+ 
+ 3. STAZIONE FISSA
+ 
+
+ 
+ Sono di seguito descritte le prestazioni della stazione fissa
+ 
+
+ 
+ nell'interfaccia tra questa e la stazione mobile.
+ 
+
+ 
+ 3.1 SUPERVISIONE
+ 
+
+ 
+ 3.1.1 TONO AUDIO DI SUPERVISIONE
+ 
+
+ 
+ 3.1.1.1 TRASMISSIONE DEL TONO AUDIO DI SUPERVISIONE SAT
+ 
+
+ 
+ Il Tono Audio di Supervisione SAT, viene aggiunto alla trasmissione
+ 
+
+ 
+ vocale dalla stazione fissa, ogni qualvolta un trasmettitore di
+ 
+
+ 
+ quest'ultima opera su un canale vocale.
+ 
+
+ 
+ Il SAT, costituito da uno tra i toni 5970 Hz, 6000 Hz, 6030 Hz,
+ 
+
+ 
+ modula la portante RF, con una deviazione di frequenza di +/-1,7 kHz
+ 
+
+ 
+ (con tolleranza di +/-10 per cento).
+ 
+
+ 
+ La tolleranza di frequenza del tono deve essere +/- 1Hz.
+ 
+
+ 
+ 3.2 CONTROLLO DELLA STAZIONE MOBILE
+ 
+
+ 
+ Le seguenti sezioni descrivono il funzionamento della stazione fissa
+ 
+
+ 
+ nel controllo della stazione mobile.
+ 
+
+ 
+ Nel seguito viene fatto riferimento, alla sezione 2.6 per il
+ 
+
+ 
+ corrispondente comportamento della stazione mobile, e alle sezioni
+ 
+
+ 
+ 2.7 e 3.3 per i messaggi che intercorrono tra la stazione fissa e la
+ 
+
+ 
+ stazione mobile.
+ 
+
+ 
+ La stazione fissa deve decodificare i messaggi inviati dalla stazione
+ 
+
+ 
+ mobile con codifica in BCH e correggere fino ad un errore per parola.
+ 
+
+ 
+ Qualora sia rivelato più di un errore per parola, la stazione fissa
+ 
+
+ 
+ deve ignorare il messaggio pervenuto.
+ 
+
+ 
+ La stazione fissa deve sempre permettere le tolleranze di
+ 
+
+ 
+ temporizzazione specificate per la stazione mobile.
+ 
+
+ 
+ Quando viene impegnato un canale vocale, la stazione fissa deve tener
+ 
+
+ 
+ conto del valore del marchio della classe della stazione mobile
+ 
+
+ 
+ SCM sp (vedere Sez. 2.3.3).
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 3.2.1 FUNZIONI DI SUPERVISIONE PER L'INIZIALIZZAZIONE DELLA STAZIONE
+ 
+
+ 
+ MOBILE
+ 
+
+ 
+ Per controllare la stazione mobile nell'esecuzione della procedura di
+ 
+
+ 
+ Inizializzazione (vedere Sez. 2.6.1), la stazione fissa deve inviare
+ 
+
+ 
+ le seguenti informazioni nella sequenza di messaggi di supervisione
+ 
+
+ 
+ (vedere Sez. 3.3.1.2 per il formato dei messaggi):
+ 
+
+ 
+ * Prima parte dell'identificativo di area di traffico (AID1).
+ 
+
+ 
+ * Numero dei canali di chiamata (N).
+ 
+
+ 
+ 3.2.2 CONTROLLO DELLA STAZIONE MOBILE SUL CANALE DI CONTROLLO
+ 
+
+ 
+ 3.2.2.1 INFORMAZIONI DI SUPERVISIONE
+ 
+
+ 
+ Per il controllo delle stazioni mobili attraverso il monitoraggio su
+ 
+
+ 
+ un canale di controllo, debbono essere inviate le seguenti
+ 
+
+ 
+ informazioni di supervisione, all'interno del messaggio di
+ 
+
+ 
+ supervisione dei parametri di sistema (vedere Sez. 3.3.1.2 per il
+ 
+
+ 
+ formato dei messaggi):
+ 
+
+ 
+ * Prima parte dell'identificativo di area di traffico (AID1)
+ 
+
+ 
+ * Numero di serie (S). Per richiedere alle stazioni mobili di
+ 
+
+ 
+ inviare il loro numero di serie durante l'accesso al sistema,
+ 
+
+ 
+ il campo S deve essere posizionato a '1'; altrimenti deve
+ 
+
+ 
+ essere posto a '0'.
+ 
+
+ 
+ * Registrazione (REGH, REGR). Per abilitare la registrazione da
+ 
+
+ 
+ parte delle stazioni mobili per le quali il sistema che
+ 
+
+ 
+ controlla è il sistema preferito, ed i bit 11-14 del loro
+ 
+
+ 
+ AID p sono uguali ai bit 11-14 del campo AID1 del messaggio di
+ 
+
+ 
+ supervisione dei parametri di sistema, il campo REGH deve
+ 
+
+ 
+ essere posto ad '1'; altrimenti deve essere posto a '0'.
+ 
+
+ 
+ Per abilitare la registrazione da parte delle stazioni mobili
+ 
+
+ 
+ per le quali il sistema che controlla non è il sistema
+ 
+
+ 
+ preferito, o i bit 11-14 del loro AID p non sono uguali ai bit
+ 
+
+ 
+ 11-14 del campo AID1 del messaggio di supervisione dei
+ 
+
+ 
+ parametri di sistema, il campo REGR deve essere posto a '1';
+ 
+
+ 
+ altrimenti deve essere posto a '0'. Se la registrazione è
+ 
+
+ 
+ abilitata, la stazione fissa deve collaborare alla
+ 
+
+ 
+ registrazione delle stazioni mobili.
+ 
+
+ 
+ * Indirizzo esteso (E). Per richiedere che le stazioni mobili
+ 
+
+ 
+ inviino sia MIN1 che MIN2 durante l'accesso al sistema, il
+ 
+
+ 
+ campo E deve essere posto a '1'; altrimenti deve essere posto a
+ 
+
+ 
+ '0'.
+ 
+
+ 
+ * Trasmissione discontinua (DTX). Per permettere alle stazioni
+ 
+
+ 
+ mobili di utilizzare il modo di trasmissione discontinuo sul
+ 
+
+ 
+ canale vocale, il campo DTX deve essere posto a '1'; altrimenti
+ 
+
+ 
+ deve essere posto a '0'.
+ 
+
+ 
+ * Registrazione forzata (FREG). Per abilitare la registrazione
+ 
+
+ 
+ forzata dei mobili al cambiamento di AID, il campo FREG deve
+ 
+
+ 
+ essere posto a '1'; altrimenti deve essere posto a '0'.
+ 
+
+ 
+ * Numero dei canali di chiamata (N).
+ 
+
+ 
+ * Lettura del messaggio di controllo multiplo (RCF). Per
+ 
+
+ 
+ richiedere che tutte le stazioni mobili leggano un messaggio di
+ 
+
+ 
+ controllo multiplo prima di accedere al sistema sul canale di
+ 
+
+ 
+ controllo inverso, il campo RCF deve essere posto a '1';
+ 
+
+ 
+ altrimenti deve essere posto a '0'.
+ 
+
+ 
+ * Accesso e chiamata combinati (CPA). Se le funzioni di accesso
+ 
+
+ 
+ sono combinate con le funzioni di chiamata sullo stesso gruppo
+ 
+
+ 
+ di canali di controllo, il campo CPA deve essere posto ad '1'.
+ 
+
+ 
+ Se le funzioni di accesso non sono sullo stesso gruppo di
+ 
+
+ 
+ canali delle funzioni di chiamata, il campo CPA deve essere
+ 
+
+ 
+ posto a '0'.
+ 
+
+ 
+ * Numero di canali di accesso (CMAX).
+ 
+
+ 
+ Le seguenti informazioni di supervisione sono inviate quando indicato
+ 
+
+ 
+ nei messaggi aggiunti al messaggio di supervisione dei parametri di
+ 
+
+ 
+ sistema (vedere Sez. 3.3.1.2 per il formato dei messaggi):
+ 
+
+ 
+ 
+
+ 
+ * Controllo locale. Un sistema può personalizzare le operazioni
+ 
+
+ 
+ per le stazioni mobili le cui aree domestiche di traffico siano
+ 
+
+ 
+ elementi appartenenti ad un gruppo (più ampio), inviando degli
+ 
+
+ 
+ ordini locali usati per il controllo di esecuzione globale.
+ 
+
+ 
+ * Nuovi canali di accesso. Se il gruppo di canali di accesso non
+ 
+
+ 
+ è quello prestabilito (vedere la sezione 2.6.2.1), bisogna
+ 
+
+ 
+ inviare un messaggio di azione globale per il nuovo canale di
+ 
+
+ 
+ accesso, ponendo il campo NEWACC posizionato con il primo
+ 
+
+ 
+ canale di accesso.
+ 
+
+ 
+ * Incremento di registrazione. Ogni volta che una stazione mobile
+ 
+
+ 
+ si registra, essa incrementa il valore ID della successiva
+ 
+
+ 
+ registrazione di un valore fisso (REGINCR s); (vedere Sez.
+ 
+
+ 
+ 2.6.3.11).
+ 
+
+ 
+ Per cambiare questo valore, viene inviato il messaggio ad
+ 
+
+ 
+ azione globale di incremento di registrazione, con il campo
+ 
+
+ 
+ REGINCR appropriatamente impostato.
+ 
+
+ 
+ * ID di registrazione. Il messaggio ID di registrazione deve
+ 
+
+ 
+ essere inviato allo scopo di far registrare tutte le stazioni
+ 
+
+ 
+ mobili con R s=1 e con un dato ID di prossima registrazione, o
+ 
+
+ 
+ più basso, (NXTREG sp).
+ 
+
+ 
+ * Riscansione. Per richiedere alle stazioni mobili di iniziare la
+ 
+
+ 
+ procedura Inizializzazione e scandire i canali di controllo
+ 
+
+ 
+ dedicati, deve essere inviato il messaggio ad azione globale di
+ 
+
+ 
+ riscansione.
+ 
+
+ 
+ 3.2.2.2 CHIAMATA
+ 
+
+ 
+ Per chiamare una stazione mobile, la stazione fissa invia un
+ 
+
+ 
+ messaggio di controllo per stazione mobile (vedere Sez. 3.3.1.1). Le
+ 
+
+ 
+ stazioni mobili domestiche possono essere chiamate con un messaggio
+ 
+
+ 
+ di una parola o con un messaggio di due parole. Le stazioni mobili
+ 
+
+ 
+ non domestiche sono chiamate con messaggi di due parole.
+ 
+
+ 
+ 3.2.2.3 ORDINI
+ 
+
+ 
+ Gli ordini debbono essere inviati alle stazioni mobili con un
+ 
+
+ 
+ messaggio di controllo per stazione mobile di due parole (vedere Sez.
+ 
+
+ 
+ 3.3.1.1).
+ 
+
+ 
+ Possono essere trasmessi i seguenti ordini:
+ 
+
+ 
+ * Verifica
+ 
+
+ 
+ * Controllo locale
+ 
+
+ 
+ 3.2.2.4 CONTROLLO LOCALE
+ 
+
+ 
+ Un sistema cellulare può personalizzare le operazioni per le
+ 
+
+ 
+ stazioni mobili le cui aree di traffico domestiche sono elementi
+ 
+
+ 
+ appartenenti ad un gruppo, inviando ordini locali con il campo ordini
+ 
+
+ 
+ impostato su controllo locale (cosicchè la stazione mobile esamini
+ 
+
+ 
+ il campo di controllo locale), ed inviando uno o due messaggi di
+ 
+
+ 
+ supervisione ad azione globale per controllo locale (vedere le
+ 
+
+ 
+ sezioni 3.3.1.1, 3.3.1.2.2 e 3.3.2).
+ 
+
+ 
+ 3.2.3 ACCESSO AL SISTEMA: SUPPORTO FORNITO DALLE STAZIONI FISSE ALLE
+ 
+
+ 
+ STAZIONI MOBILI
+ 
+
+ 
+ 3.2.3.1 INFORMAZIONI DI SUPERVISIONE
+ 
+
+ 
+ Le seguenti informazioni debbono essere inviate su un canale di
+ 
+
+ 
+ controllo diretto per consentire alle stazioni mobili l'accesso al
+ 
+
+ 
+ sistema (vedere Sez. 3.3.1.2 per il formato dei messaggi di
+ 
+
+ 
+ supervisione):
+ 
+
+ 
+ * Codice di colore digitale (DCC). Il DCC è trasmesso dalla
+ 
+
+ 
+ stazione fissa alla stazione mobile. La stazione mobile
+ 
+
+ 
+ utilizza poi il DCC per ritrasmettere alla stazione fissa
+ 
+
+ 
+ l'identità del trasmettitore di stazione fissa che la stazione
+ 
+
+ 
+ mobile sta ricevendo.
+ 
+
+ 
+ * Codice di controllo attenuazione del mobile (CMAC). Il CMAC
+ 
+
+ 
+ deve essere trasmesso dalla stazione fissa alla stazione mobile
+ 
+
+ 
+ nel messaggio di controllo multiplo affinchè la stazione mo-
+ 
+
+ 
+ bile regoli il livello di potenza del suo trasmettitore prima
+ 
+
+ 
+ di accedere al sistema sul canale di controllo inverso. La
+ 
+
+ 
+ traslazione del campo CMAC al livello di potenza del
+ 
+
+ 
+ trasmettitore dipende dalla classe di potenza della stazione
+ 
+
+ 
+ mobile, come indicato dal suo marchio di classe della stazione
+ 
+
+ 
+ (SCM sp) (vedere Sezioni 2.1.2.2 e 2.3.3). Quando non viene
+ 
+
+ 
+ richiesto, il campo CMAC deve essere posto a '000'. Per
+ 
+
+ 
+ comandare che una stazione mobile legga il messaggio di
+ 
+
+ 
+ controllo multiplo prima di accedere al sistema, il campo RCF
+ 
+
+ 
+ deve essere posto a '1' nel messaggio di supervisione dei
+ 
+
+ 
+ parametri di sistema.
+ 
+
+ 
+ * Attesa messaggio supervisore (WFOM). Qualora la stazione mobile
+ 
+
+ 
+ debba attendere una sequenza di messaggi di supervisione prima
+ 
+
+ 
+ di accedere al sistema su un canale di controllo inverso, il
+ 
+
+ 
+ campo WFOM deve essere posto ad '1' nel messaggio di controllo
+ 
+
+ 
+ multiplo; altrimenti deve essere posto a '0'.
+ 
+
+ 
+ * Controllo sovraccarico (OLC). Se le stazioni mobili assegnate
+ 
+
+ 
+ ad una o più d'una delle 16 classi di sovraccarico (elencate
+ 
+
+ 
+ nell'Appendice B), non debbono accedere al sistema per origine
+ 
+
+ 
+ o registrazione sul canale di controllo inverso, il messaggio
+ 
+
+ 
+ ad azione globale di controllo di sovraccarico deve essere
+ 
+
+ 
+ aggiunto al messaggio di supervisione dei parametri del
+ 
+
+ 
+ sistema. Quando questo messaggio è presente, i campi
+ 
+
+ 
+ corrispondenti alle classi con restrizioni per sovraccarico
+ 
+
+ 
+ debbono essere posti a '0', mentre i rimanenti campi delle
+ 
+
+ 
+ classi di sovraccarico debbono essere posti a '1'.
+ 
+
+ 
+ * Parametri del tipo di accesso. Se non si richiede che la
+ 
+
+ 
+ stazione mobile debba controllare la transizione dello stato
+ 
+
+ 
+ libero-occupato sul canale di controllo inverso (RECC)
+ 
+
+ 
+ nell'accesso al sistema, il messaggio ad azione globale dei
+ 
+
+ 
+ parametri di tipo di accesso con il campo BIS posto a '0', deve
+ 
+
+ 
+ essere aggiunto ad un messaggio di supervisione dei parametri
+ 
+
+ 
+ di sistema. Se, invece, si richiede alla stazione mobile di
+ 
+
+ 
+ controllare la transizione dello stato libero-occupato del
+ 
+
+ 
+ Canale di Controllo Inverso (RECC) nell'accesso al sistema,
+ 
+
+ 
+ allora il campo BIS deve essere posto ad '1' ovunque il
+ 
+
+ 
+ messaggio sia aggiunto.
+ 
+
+ 
+ * Parametri dei tentativi di accesso. Se non può essere usato il
+ 
+
+ 
+ valore prestabilito per il numero dei tentativi di cattura e/o
+ 
+
+ 
+ il limite sul numero di eventi "occupato" per le stazioni
+ 
+
+ 
+ mobili che accedono al canale di controllo inverso, allora
+ 
+
+ 
+ bisogna aggiungere ad un messaggio di supervisione dei
+ 
+
+ 
+ parametri di sistema il messaggio ad azione globale dei
+ 
+
+ 
+ parametri dei tentativi di accesso.
+ 
+
+ 
+ 3.2.3.2 CATTURA DEL CANALE DI CONTROLLO INVERSO DA PARTE DI UNA
+ 
+
+ 
+ STAZIONE MOBILE
+ 
+
+ 
+ Qualora sia richiesto alle stazioni mobili, di controllare la
+ 
+
+ 
+ transizione di stato libero-occupato, nell'accesso al sistema sul
+ 
+
+ 
+ canale di controllo inverso (RECC) (campo Bis posto a '1', come
+ 
+
+ 
+ sopraindicato), effettuando il monitoraggio del flusso di bit
+ 
+
+ 
+ occupato-libero sul Canale di Controllo diretto (FOCC), allora la
+ 
+
+ 
+ stazione fissa quando riceve il precursore di cattura (vedere Sez.
+ 
+
+ 
+ 2.7.1), corrispondente alla sua forma codificata del codice digitale
+ 
+
+ 
+ di colore con non più di un bit di errore, deve porre lo stato
+ 
+
+ 
+ occupato-libero su occupato ed inviare il primo bit di occupato sul
+ 
+
+ 
+ canale di controllo diretto entro un intervallo di tempo compreso tra
+ 
+
+ 
+ 1 ms e 3.875 ms dalla ricezione dell'ultimo bit del precursore di
+ 
+
+ 
+ cattura.
+ 
+
+ 
+ I bit occupato-libero debbono rimanere su "occupato" finchè non
+ 
+
+ 
+ viene raggiunto il minore tra questi due tempi:
+ 
+
+ 
+ - 30 ms dopo che l'ultimo bit dell'ultima parola è stato
+ 
+
+ 
+ ricevuto, oppure
+ 
+
+ 
+ - 206 ms trascorsi.
+ 
+
+ 
+ 3.2.3.3 RISPOSTA AI MESSAGGI DELLE STAZIONI MOBILI
+ 
+
+ 
+ Quando la stazione mobile invia un messaggio alla stazione fissa,
+ 
+
+ 
+ può accadere che la stazione fissa non risponda al messaggio:
+ 
+
+ 
+ durante i periodi di sovraccarico e/o altro impegno, può essere
+ 
+
+ 
+ opportuno rispondere alle stazioni mobili purchè entro un "tempo
+ 
+
+ 
+ limite", piuttosto che inviare messaggi di rilascio o altri ordini
+ 
+
+ 
+ che riducano la capacità del sistema. Se un nuovo messaggio è
+ 
+
+ 
+ inviato da una specifica stazione mobile, che già in precedenza ha
+ 
+
+ 
+ inviato un messaggio di 'chiamata accodatà, allora la stazione fissa
+ 
+
+ 
+ deve porre fine all'origine per cui questo messaggio di chiamata
+ 
+
+ 
+ accodata era stato inviato e rispondere al nuovo messaggio.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Dalla stazione fissa possono essere inviate le seguenti risposte ad
+ 
+
+ 
+ una stazione mobile:
+ 
+
+ 
+ * Messaggio origine. Si invia uno dei seguenti ordini:
+ 
+
+ 
+ - designazione iniziale di canale vocale,
+ 
+
+ 
+ - ritmo/incremento di conteggio e designazione del canale
+ 
+
+ 
+ vocale iniziale,
+ 
+
+ 
+ - chiamata accodata
+ 
+
+ 
+ - ritentativo diretto,
+ 
+
+ 
+ - accesso diretto
+ 
+
+ 
+ - intercettazione,
+ 
+
+ 
+ - riordine.
+ 
+
+ 
+ * Messaggi di risposta a chiamata. Si invia uno dei seguenti
+ 
+
+ 
+ ordini:
+ 
+
+ 
+ - designazione iniziale di canale vocale,
+ 
+
+ 
+ - ritmo/incremento di conteggio e designazione del canale
+ 
+
+ 
+ vocale iniziale,
+ 
+
+ 
+ - accesso diretto
+ 
+
+ 
+ - ritentativo diretto,
+ 
+
+ 
+ - rilascio.
+ 
+
+ 
+ * Messaggio ordine. Si invia uno dei seguenti ordini:
+ 
+
+ 
+ - conferma ordine,
+ 
+
+ 
+ - rilascio.
+ 
+
+ 
+ * Messaggio di conferma ordine. Non viene inviato alcun
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ 3.2.4 CONTROLLO DELLA STAZIONE MOBILE SUL CANALE VOCALE
+ 
+
+ 
+ I cambiamenti nello stato del tono audio di supervisione SAT e nello
+ 
+
+ 
+ stato del tono di segnalazione ST vengono utilizzati dalla stazione
+ 
+
+ 
+ mobile per segnalare il verificarsi di particolari eventi mentre è
+ 
+
+ 
+ in corso una chiamata. Questi eventi comprendono conferme di ordini,
+ 
+
+ 
+ invio di una richiesta di rilascio, invio di una richiesta lampo e la
+ 
+
+ 
+ perdita della continuità del collegamento radio (vedi Sez. 2.6.4).
+ 
+
+ 
+ Gli stati di SAT e di ST, saranno nel seguito indicati con ("SAT",
+ 
+
+ 
+ "ST"), dove "SAT" e "ST" possono assumere i valori '0' e '1'.
+ 
+
+ 
+ I cambiamenti di stato debbono essere riconosciuti dalla stazione
+ 
+
+ 
+ fissa ed interpretati, nel contesto della procedura in cui questa si
+ 
+
+ 
+ trova, come un messaggio che identifica l'evento segnalato dalla
+ 
+
+ 
+ stazione mobile.
+ 
+
+ 
+ I requisiti per le azioni della stazione fissa sono descritti di
+ 
+
+ 
+ seguito.
+ 
+
+ 
+ Nelle seguenti sezioni lo stato (0,1) sarà considerato equivalente
+ 
+
+ 
+ allo stato (0,0).
+ 
+
+ 
+ Oltre alla segnalazione analogica da e verso la stazione mobile,
+ 
+
+ 
+ quest'ultima può anche ricevere ed inviare messaggi digitali. La
+ 
+
+ 
+ risposta ai messaggi digitali inviati alla stazione mobile sarà un
+ 
+
+ 
+ messaggio digitale o un cambiamento di stato del SAT e/o ST.
+ 
+
+ 
+ 3.2.4.1 CONFERMA DEL CANALE VOCALE INIZIALE
+ 
+
+ 
+ La conferma che una stazione mobile si sia sintonizzata con successo
+ 
+
+ 
+ sul suo canale vocale inizialmente assegnato, sarà ricevuta dalla
+ 
+
+ 
+ stazione fissa come un cambio dello stato da (0,0) a (1,0).
+ 
+
+ 
+ Se non si riceve la conferma, la stazione fissa deve riinviare il
+ 
+
+ 
+ messaggio o spegnere il trasmettitore del canale vocale.
+ 
+
+ 
+ Dopo la conferma, se la stazione mobile è stata chiamata, la
+ 
+
+ 
+ stazione fissa deve iniziare la procedura Attesa Ordine (vedere Sez.
+ 
+
+ 
+ 3.2.4.2.1); altrimenti la stazione fissa deve iniziare la procedura
+ 
+
+ 
+ Conversazione (vedere Sez. 3.2.4.3).
+ 
+
+ 
+ 3.2.4.2 ALLARME
+ 
+
+ 
+ 3.2.4.2.1 ATTESA ORDINE
+ 
+
+ 
+ Quando la stazione mobile, dopo che è stata chiamata, conferma la
+ 
+
+ 
+ attribuzione iniziale del canale vocale essa inizia la procedura
+ 
+
+ 
+ Attesa Ordine. I seguenti ordini possono essere inviati alla stazione
+ 
+
+ 
+ mobile, con le relative conferme ed azioni da intraprendere:
+ 
+
+ 
+ * Commutazione di canale radio. La stazione mobile conferma
+ 
+
+ 
+ l'ordine con un cambiamento nello stato da (1,0) a (1,1),
+ 
+
+ 
+ mantenendo lo stato (1,1) per 50 ms. La stazione fissa deve
+ 
+
+ 
+ rimanere nella procedura Attesa Ordine.
+ 
+
+ 
+ * Allarme. La stazione mobile conferma l'ordine con un cambiamento
+ 
+
+ 
+ nello stato da (1,0) a (1,1). La stazione fissa deve quindi
+ 
+
+ 
+ iniziare la procedura Attesa Risposta (vedere Sez. 3.2.4.2.2).
+ 
+
+ 
+ * Rilascio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ cambiamento nello stato da (1,0) a (1,1), mantenendo lo stato
+ 
+
+ 
+ (1,1) per 1.8 secondi.
+ 
+
+ 
+ La stazione fissa deve quindi spegnere il trasmettitore.
+ 
+
+ 
+ * Verifica. La stazione mobile conferma l'ordine con un messaggio
+ 
+
+ 
+ digitale (vedere Sez. 2.7.2). La stazione fissa deve restare
+ 
+
+ 
+ nella procedura Attesa Ordine.
+ 
+
+ 
+ * Manutenzione. La stazione mobile conferma l'ordine cambiando lo
+ 
+
+ 
+ stato di SAT,ST da (1,1) a (1,1).
+ 
+
+ 
+ La stazione fissa deve poi iniziare la procedura Attesa Risposta
+ 
+
+ 
+ (vedere Sez. 3.2.4.2.2).
+ 
+
+ 
+ * Cambiamento di potenza. La stazione mobile conferma questo
+ 
+
+ 
+ ordine con un messaggio digitale (vedere Sez. 2.7.2). La
+ 
+
+ 
+ stazione fissa deve rimanere nella procedura Attesa Ordine.
+ 
+
+ 
+ * Cambio ritmo di conteggio. Se il ritmo di conteggio per la
+ 
+
+ 
+ chiamata è cambiato, allora è inviato l'ordine di cambio del
+ 
+
+ 
+ ritmo di conteggio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ messaggio digitale. La stazione fissa deve rimanere nella
+ 
+
+ 
+ procedura Attesa Ordine.
+ 
+
+ 
+ * Controllo locale. La conferma e l'azione dipendono dal
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ 3.2.4.2.2 ATTESA RISPOSTA
+ 
+
+ 
+ Quando si inizia questa procedura, deve essere attivato un
+ 
+
+ 
+ temporizzatore di allarme a 30 secondi.
+ 
+
+ 
+ Dalla stazione fissa possono essere inviati i seguenti ordini con le
+ 
+
+ 
+ relative conferme ed azioni da intraprendere:
+ 
+
+ 
+ * Commutazione di canale radio. La stazione mobile conferma
+ 
+
+ 
+ l'ordine con un cambiamento nello stato da (1,1) a (1,0) per
+ 
+
+ 
+ 500ms seguito da un cambiamento nello stato da (1,0) a (1,1) con
+ 
+
+ 
+ lo stato (1,1) mantenuto per 50 ms sul vecchio canale. Quindi lo
+ 
+
+ 
+ stato (1,1) è inviato sul nuovo canale. La stazione fissa deve
+ 
+
+ 
+ rimanere nella procedura Attesa Risposta.
+ 
+
+ 
+ * Allarme. Non si riceve conferma. La stazione fissa deve attivare
+ 
+
+ 
+ il temporizzatore di allarme a 30 secondi, e rimanere nella
+ 
+
+ 
+ procedura Attesa Risposta.
+ 
+
+ 
+ * Fine allarme. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ cambiamento nello stato da (1,1) a (1,0). La stazione fissa
+ 
+
+ 
+ deve, quindi, iniziare la procedura Attesa Ordine (vedere Sez.
+ 
+
+ 
+ 3.2.4.2.1).
+ 
+
+ 
+ * Rilascio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ cambiamento nello stato da (1,1) a (1,0) per 500 ms seguito da
+ 
+
+ 
+ un cambiamento di stato da (1,0) a (1,1), mantenendo lo stato
+ 
+
+ 
+ (1,1) per 1,8 secondi. La stazione fissa deve quindi spegnere il
+ 
+
+ 
+ trasmettitore.
+ 
+
+ 
+ * Verifica. La stazione mobile conferma l'ordine con un messaggio
+ 
+
+ 
+ digitale (vedere la sezione (2.7.2). La stazione fissa deve re-
+ 
+
+ 
+ stare nella procedura Attesa Risposta.
+ 
+
+ 
+ * Manutenzione. Non si riceve conferma di ordine. La stazione
+ 
+
+ 
+ fissa deve attivare il temporizzatore di allarme a 30 secondi e
+ 
+
+ 
+ rimanere nella procedura Attesa Risposta.
+ 
+
+ 
+ * Cambiamento di potenza. La stazione mobile conferma questo
+ 
+
+ 
+ ordine con un messaggio digitale (vedere la sezione 2.7.2). La
+ 
+
+ 
+ stazione fissa deve rimanere nella procedura Attesa Risposta.
+ 
+
+ 
+ * Cambio ritmo di conteggio. Se il ritmo di conteggio per la
+ 
+
+ 
+ chiamata è cambiato, allora è inviato l'ordine di cambio del
+ 
+
+ 
+ ritmo di conteggio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ messaggio digitale. La stazione fissa deve rimanere nella
+ 
+
+ 
+ procedura Attesa Risposta.
+ 
+
+ 
+ * Controllo locale. La conferma e l'azione dipendono dal
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ La stazione mobile segnala una risposta con un cambiamento nello
+ 
+
+ 
+ stato da (1,1) a (1,0). La stazione fissa deve quindi iniziare la
+ 
+
+ 
+ procedura Conversazione di seguito descritta.
+ 
+
+ 
+ 3.2.4.3 CONVERSAZIONE
+ 
+
+ 
+ Quando la stazione fissa è nella procedura Conversazione da essa
+ 
+
+ 
+ possono essere inviati i seguenti ordini, con le relative conforme ed
+ 
+
+ 
+ azioni da intraprendere:
+ 
+
+ 
+ * Commutazione di canale radio. La stazione mobile conferma
+ 
+
+ 
+ l'ordine con un cambiamento nello stato da (1,0) a (1,1),
+ 
+
+ 
+ mantenendo lo stato (1,1) per 50ms. La stazione fissa deve
+ 
+
+ 
+ rimanere nella procedura Conversazione.
+ 
+
+ 
+ * Invio dell'indirizzo chiamato. La stazione mobile conferma
+ 
+
+ 
+ l'ordine con un messaggio digitale contenute l'informazione
+ 
+
+ 
+ dell'indirizzo chiamato (vedere Sez. 2.7.2). L'azione da
+ 
+
+ 
+ intraprendere dipende dall'informazione dell'indirizzo chiamato.
+ 
+
+ 
+ * Allarme. La stazione mobile conferma l'ordine con un cambiamento
+ 
+
+ 
+ nello stato da (1,0) a (1,1). La stazione fissa deve quindi
+ 
+
+ 
+ iniziare la procedura Attesa Risposta (vedere Sez. 3.2.4.2.2).
+ 
+
+ 
+ * Rilascio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ cambiamento nello stato di da (1,0) a (1,1) con lo stato (1,1)
+ 
+
+ 
+ mantenuto per 1.8 secondi. La stazione fissa deve quindi
+ 
+
+ 
+ spegnere il trasmettitore.
+ 
+
+ 
+ * Verifica. La stazione mobile conferma l'ordine con un messaggio
+ 
+
+ 
+ digitale (vedere la sezione (2.7.2). La stazione fissa deve re-
+ 
+
+ 
+ stare nella procedura Conversazione.
+ 
+
+ 
+ * Manutenzione. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ cambiamento nello stato da (1,0) a (1,1). La stazione fissa deve
+ 
+
+ 
+ quindi iniziare la procedura Attesa Risposta (vedere Sez.
+ 
+
+ 
+ 3.2.4.2.2).
+ 
+
+ 
+ * Cambiamento di potenza. La stazione mobile conferma questo
+ 
+
+ 
+ ordine con un messaggio digitale (vedere la sezione 2.7.2). La
+ 
+
+ 
+ stazione fissa deve rimanere nella procedura Conversazione.
+ 
+
+ 
+ * Cambio ritmo di conteggio. Se il ritmo di conteggio per la
+ 
+
+ 
+ chiamata è cambiato, allora è inviato l'ordine di cambio del
+ 
+
+ 
+ ritmo di conteggio. La stazione mobile conferma l'ordine con un
+ 
+
+ 
+ messaggio digitale. La stazione fissa deve rimanere nella
+ 
+
+ 
+ procedura Conversazione.
+ 
+
+ 
+ * Controllo locale. La conferma e l'azione dipendono dal
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ Inoltre, durante la procedura Conversazione, la stazione mobile può
+ 
+
+ 
+ inviare alla stazione fissa, in modo del tutto autonomo, i seguenti
+ 
+
+ 
+ messaggi:
+ 
+
+ 
+ * Richiesta "lampo". La stazione mobile segnala la richiesta
+ 
+
+ 
+ "lampo" con un cambiamento nello stato da (1,0) a (1,1),
+ 
+
+ 
+ mantenendo lo stato (1,1) per 400 ms seguito da una transizione
+ 
+
+ 
+ allo stato (1,0).
+ 
+
+ 
+ * Rilascio. La stazione mobile segnala un rilascio con un
+ 
+
+ 
+ cambiamento nello stato da (1,0) a (1,1), con lo stato (1,1)
+ 
+
+ 
+ mantenuto per 1,8 secondi. La stazione fissa deve spegnere il
+ 
+
+ 
+ trasmettitore.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 3.3 FORMATI DI SEGNALAZIONE
+ 
+
+ 
+ All'interno dei campi delle parole il bit più significativo è il
+ 
+
+ 
+ primo pervenuto nel tempo, salvo ove diversamente specificato. Il bit
+ 
+
+ 
+ meno significativo è denominato bit "0", salvo ove diversamente
+ 
+
+ 
+ specificato.
+ 
+
+ 
+ 3.3.1 CANALE DI CONTROLLO DIRETTO
+ 
+
+ 
+ Il canale di controllo diretto (FOCC) è un flusso di dati continuo a
+ 
+
+ 
+ larga banda inviato dalla stazione fissa alla stazione mobile. Questo
+ 
+
+ 
+ flusso di dati deve essere generato a una velocità di 8 kbit/sec e
+ 
+
+ 
+ di +/- 0,1 bit al secondo. La figura 3.3.1-1 descrive il formato del
+ 
+
+ 
+ flusso di dati FOCC.
+ 
+
+ 
+ 10 11 40 40 40
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | SINC | REPLICA 1 | REPLICA 1 | REPLICA 2 |
+ 
+
+ 
+ | | SINC BIT | | DI | DI | DI |
+ 
+
+ 
+ | | | PAROLA | PAROLA A | PAROLA B | PAROLA A |
+ 
+
+ 
+ | | | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | | | | | | | ......
+ 
+
+ 
+ | O/L BIT | | | | | | | | | | |
+ 
+
+ 
+ 40 40 40 10
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | REPLICA 4 | REPLICA 5 | REPLICA 5 | |
+ 
+
+ 
+ | DI | DI | DI | | SINC BIT
+ 
+
+ 
+ | PAROLA B | PAROLA A | PAROLA B | |
+ 
+
+ 
+ | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ ...... | | | | | |
+ 
+
+ 
+ | | | | | |
+ 
+
+ 
+ FLUSSO DEL MESSAGGIO SUL CANALE DI CONTROLLO DIRETTO
+ 
+
+ 
+ (da fissa a mobile).
+ 
+
+ 
+ Figura 3.3.1-1
+ 
+
+ 
+ NOTE: 1) SINC BIT = 1010.....101; SINC PAROLA = 11100010010
+ 
+
+ 
+ 2) NELLA FIGURA UN BIT O/L (OCCUPATO-LIBERO) è INSERITO IN
+ 
+
+ 
+ CORRISPONDENZA AD OGNI FRECCIA
+ 
+
+ 
+ 3) UN DATO MOBILE LEGGE SOLO UNO DEI DUE MESSAGGI
+ 
+
+ 
+ INTERALLACCIATI
+ 
+
+ 
+ Ciascun canale di controllo diretto consiste di tre flussi distinti
+ 
+
+ 
+ di informazione, chiamati flusso A, flusso B, e flusso occupato-
+ 
+
+ 
+ libero, che sono multiplati nel tempo. Sul flusso A sono inviati
+ 
+
+ 
+ messaggi alle stazioni mobili con il bit meno significativo del loro
+ 
+
+ 
+ numero di identificazione mobile (Vedere Sez. 2.3.1) uguale a "0", e
+ 
+
+ 
+ sul flusso B sono mandati quelli con il bit meno significativo del
+ 
+
+ 
+ loro numero di identificazione del mobile uguale a "1".
+ 
+
+ 
+ Pertanto ogni stazione mobile legge solo uno dei due messaggi
+ 
+
+ 
+ interallacciati.
+ 
+
+ 
+ Il flusso occupato-libero contiene i bits occupato-libero, che sono
+ 
+
+ 
+ usati per indicare lo stato corrente del canale di controllo inverso.
+ 
+
+ 
+ Il canale di controllo inverso è occupato se il bit occupato-libero
+ 
+
+ 
+ è uguale a "0" e libero se il bit occupato-libero è uguale a "1".
+ 
+
+ 
+ Un bit occupato-libero è collocato all'inizio di ogni sequenza di
+ 
+
+ 
+ sincronizzazione di bit, all'inizio di ogni sequenza di
+ 
+
+ 
+ sincronizzazione parola, all'inizio della prima ripetizione della
+ 
+
+ 
+ parola A, e dopo ogni ulteriore gruppo gruppo di dieci bit di
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ Una sequenza di sincronizzazione di bit lunga 10 bit (1010101010) e
+ 
+
+ 
+ una sequenza di sincronizzazione di parola lunga 11 bit (11100010010)
+ 
+
+ 
+ sono inviate per consentire alle stazioni mobili di ottenere la
+ 
+
+ 
+ sincronizzazione con i dati in arrivo. Ciascuna parola contiene 40
+ 
+
+ 
+ bits, incluso il bit di parità, ed è ripetuta cinque volte; esso è
+ 
+
+ 
+ perciò denominato blocco di parole. Per un messaggio multi-parola,
+ 
+
+ 
+ il secondo blocco di parole e i successivi blocchi di parole sono
+ 
+
+ 
+ formati allo stesso modo del primo blocco incluse le sequenze di
+ 
+
+ 
+ sincronizzazione di bit, lunga 10 bit, e di sincronizzazione di
+ 
+
+ 
+ parola lunga 11 bit. Una parola è formata codificando un contenuto
+ 
+
+ 
+ di 28 bits in un codice BCH (40,28;5) (Bits totali 40, bits di
+ 
+
+ 
+ informazione 28, distanza 5). Il bit più a sinistra (cioè il primo)
+ 
+
+ 
+ sarà denominato il bit più significativo. Il generatore
+ 
+
+ 
+ polinominale per il codice BCH (40,28;5) è
+ 
+
+ 
+ 12 10 8 5 4 3 0
+ 
+
+ 
+ g b (X) = X + X + X + X + X + X + X
+ 
+
+ 
+ Il codice, una versione ridotta del primitivo codice BCH (63, 51; 5),
+ 
+
+ 
+ è un codice di blocco lineare sistematico con il primo bit come il
+ 
+
+ 
+ bit di informazione più significativo e il bit meno significativo
+ 
+
+ 
+ come ultimo bit di controllo di parità.
+ 
+
+ 
+ Ciascun messaggio FOCC può consistere di una o più parole. I tipi
+ 
+
+ 
+ di messaggio trasmettessi sul canale di controllo diretto sono:
+ 
+
+ 
+ * Messaggio di controllo della stazione mobile
+ 
+
+ 
+ * Messaggio di supervisione
+ 
+
+ 
+ * Messaggio controllo multiplo
+ 
+
+ 
+ I messaggi di controllo multiplo possono essere inseriti tra i
+ 
+
+ 
+ messaggi e tra i blocchi di parole di un messaggio multiparole.
+ 
+
+ 
+ Le sezioni seguenti contengono le descrizioni dei formati di
+ 
+
+ 
+ messaggio che la stazione fissa trasmette su ciascun flusso A o B.
+ 
+
+ 
+ Ai fini della presentazione e della spiegazione del formato, i bits
+ 
+
+ 
+ occupato-libero sono stati omessi nella trattazione dei formati di
+ 
+
+ 
+ messaggio.
+ 
+
+ 
+ 3.3.1.1 MESSAGGIO DI CONTROLLO DELLA STAZIONE MOBILE
+ 
+
+ 
+ Il messaggio di controllo della stazione mobile può consistere di
+ 
+
+ 
+ una, due, tre, o quattro parole.
+ 
+
+ 
+ Parola 1 - Parola indirizzo abbreviato
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | |
+ 
+
+ 
+ | T T | DCC | MINI | P |
+ 
+
+ 
+ | 1 2 | | 23-0 | |
+ 
+
+ 
+ | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 24 12
+ 
+
+ 
+ Parola 2 - Parola indirizzo esteso
+ 
+
+ 
+ 2 2 10 1 5 3 5 12
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | | | |
+ 
+
+ 
+ | T T | SCC= | | RSVD | LOCAL | ORDQ | ORDER | P |
+ 
+
+ 
+ | 1 2 | 11 | MIN2 | =0 | | | | |
+ 
+
+ 
+ | = | ==== | 33-24 | =========================== | |
+ 
+
+ 
+ | 10 | SCC | | VMAC | CHAN | |
+ 
+
+ 
+ | |(DIVE-| | | | |
+ 
+
+ 
+ | | RSO) | | | | |
+ 
+
+ 
+ | | | | | | |
+ 
+
+ 
+ | | 11 | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 10 3 11 12
+ 
+
+ 
+ Parola 3 - Seconda parola indirizzo estero
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | |
+ 
+
+ 
+ | T T | SCC | RISERVATO | | | |
+ 
+
+ 
+ | 1 2 |(DIVE-| = | VMAC | CHAN | P |
+ 
+
+ 
+ | = | RSO) | 000....00 | | | |
+ 
+
+ 
+ | 10 | | | | | |
+ 
+
+ 
+ | | 11 | | | | |
+ 
+
+ 
+ | | | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 10 3 11 12
+ 
+
+ 
+ Parola 3 - Prima parola riprova diretta
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | | |
+ 
+
+ 
+ | T T | SCC | CHANPOS | CHANPOS | CHANPOS | RSVD | P |
+ 
+
+ 
+ | 1 2 | = | | | | = | |
+ 
+
+ 
+ | = | 11 | | | | 000 | |
+ 
+
+ 
+ | 10 | | | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 7 7 7 3 12
+ 
+
+ 
+ Parola 4 - Seconda parola riprova diretta
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | | |
+ 
+
+ 
+ | T T | SCC | CHANPOS | CHANPOS | CHANPOS | RSVD | P |
+ 
+
+ 
+ | 1 2 | = | | | | = | |
+ 
+
+ 
+ | = | 11 | | | | 000 | |
+ 
+
+ 
+ | 10 | | | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 7 7 7 3 12
+ 
+
+ 
+ Parola 3 - Prima parola accesso diretto
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | | | | |
+ 
+
+ 
+ | T T | SCC | CHANLOC | CHANLOC | RSVD | P |
+ 
+
+ 
+ | 1 2 | = | | | = | |
+ 
+
+ 
+ | = | 11 | | | 00 | |
+ 
+
+ 
+ | 10 | | | | | |
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ 2 2 11 11 2 12
