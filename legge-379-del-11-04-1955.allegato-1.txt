@@ -1,0 +1,246 @@
+NORME PER L'APPLICAZIONE DELLA TABELLA A 
+ 
+
+ 
+ 
+
+ 1) La tabella A riporta, per le diverse durate di servizio utile ai fini della determinazione della misura del trattamento di quiescenza, espresse in anni e mesi, i valori delle pensioni teoriche riferite ai termine delle predette durate e ad ogni lira di retribuzione annua pensionabile attribuita all'iscritto per le durate stesse. 
+ 
+
+ 2) Si indichi: 
+ 
+
+ con 1, 2,.., n, la successione degli anni Solari durante i quali l'iscritto abbia svolto il servizio utile; con R1, R2,..., Rn, la successione delle retribuzioni pensionabili attribuite per ciascun anno, con l'avvertenza che, qualora l'iscritto nell'anno solare s (1 < s < n) non abbia alcun mese di servizio utile, la 
+ 
+
+ relativa retribuzione R2, si considera pari a zero; 
+ 
+
+ con u e v, rispettivamente, i numeri degli anni e dei mesi, esprimenti l'intera durata del servizio utile. 
+ 
+
+ Inoltre, per l'iscritto che nell'anno solare n della cessazione dal servizio abbia m mesi di servizio utile, si indichi con Ca,m il valore della tabella A, corrispondente ad anni a e mesi m. 
+ 
+
+ 3) La pensione teorica di cui all'art. 19, comma primo, da calcolarsi al termine del servizio utile si ottiene aggiungendo alla pensione teorica base, che risulterebbe direttamente dall'applicazione della presente tabella nell'ipotesi che la retribuzione annua pensionabile del primo anno solare, R1, fosse rimasta costante per l'intera, durata del servizio utile, gli incrementi riferibili alle successive Variazioni della retribuzione, avvenute a partire da quella iniziale e alle rispettive durate intercorrenti tra le date di inizio delle variazioni stesse e quella della cessazione dal servizio. 
+ 
+
+ Pertanto, la pensione teorica, Pn, nel caso in cui m sia inferiore a 12, è espressa dalla formula: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ e, nel caso in cui m = 12, è espressa dalla formula: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4) Per ciascun iscritto, in base alla formula (1°), può calcolarsi, con la seguente espressione, la pensione teorica Pk riferita al termine del Kmo anno solare del servizio utile: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ in cui Ck - indica il valore della tabella A relativo alla durata del servizio utile in anni e mesi fino al termine del Kmo anno solare. 
+ 
+
+ La pensione teorica riferita alla fine dell'anno solare successivo, Pk + 1, può determinarsi con la formula ricorrente: 
+ 
+
+ 
+ 
+
+ Pk + 1 = 1,055 + Rk + 1 C1,0 
+ 
+
+ 
+ 
+
+ 5) Ai fini della determinazione del contributo di riscatto in una sola volta, relativamente a ciascun periodo di cui alle lettere a) e b) dell'art. 23, si calcola: 
+ 
+
+ 1° la durata del periodo - a1, m1 - espressa in anni e mesi; 
+ 
+
+ 2° intervallo di tempo - a2, m2 - tra il termine del predetto periodo considerato nel modo indicato all'ultimo comma del citato art. 23 e la fine del mese di presentazione della domanda di riscatto; 
+ 
+
+ 3° la somma - a3, m3 - delle durate di cui ai numeri 1° e 2°; 
+ 
+
+ 4° la retribuzione annua pensionabile, Rc, da prendersi a base del riscatto, in applicazione del citato ultimo comma dell'art. 23. 
+ 
+
+ Per il periodo suindicato, la quota di pensione teorica di cui al primo comma dell'art. 24 è data dalla espressione: 
+ 
+
+ 
+ 
+
+ Rc X (Ca3, m3 - Ca2, m2) oppure, usando la tabella, D dei montanti di una lira, dall'espressione: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+TABELLA A. 
+ 
+
+ 
+ 
+
+ Pensioni teoriche riferite alla retribuzione annua pensionabile costante di una lira, risultanti dalla trasformazione in rendita, mediante il coefficiente fisso 9,40, del montante demografico-finanziario del contributo annuo di 10,5 centesimi, calcolato al tasso del 5,50%. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+TABELLA B. 
+ 
+
+ 
+ 
+
+ Valori delle annualità vitalizie a pagamenti mensili posticipati e complete calcolate in base alla mortalità degli insegnanti pensionati (1895-1914) aggiornata con quella della popolazione generale italiana - Maschi - (1930-1932). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+TABELLA C. 
+ 
+
+ 
+ 
+
+ Somma mensile da trattenersi per ogni lira di contributo di riscatto sulle retribuzioni degli iscritti che si siano avvalsi della facoltà di versare il contributo stesso in un periodo di tempo non superiore al doppio degli anni riscattati, in ogni caso non maggiore di anni quindici. 
+ 
+
+ 
+ 
+
+ (Valori calcolati in base alla tavola di sopravvivenza della popolazione maschile italiana, dedotta dal censimento del 1931 e dalle statistiche mortuarie del triennio 1930-32 e al saggio di interesse del 4,25 per cento). 
+ 
+
+ 
+ 
+
+ NORME PER L'APPLICAZIONE DELLA TABELLA C 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+TABELLA D. 
+ 
+
+ 
+ 
+
+ Valori dei montanti di una lira calcolati ai tassi annui del 4,75 e del 5,50 per cento 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+TABELLA E. 
+ 
+
+ 
+ 
+
+ Coefficienti moltiplicatici da applicare alla retribuzione pensionabile annua riferita al 1 gennaio 1954, ai fini della determinazione della retribuzione pensionabile annua costante, da attribuire ai servizi anteriori a tale data, ai sensi del comma secondo dell'art. 17. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
