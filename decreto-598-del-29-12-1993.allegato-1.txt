@@ -1,0 +1,520 @@
+ALLEGATO 1 
+ 
+
+ COMUNICAZIONI ALL'ANAGRAFE TRIBUTARIA 
+ 
+
+ A MEZZO DI SUPPORTI MAGNETICI 
+ 
+
+ 
+ 
+
+ 1. Avvertenze generali. 
+ 
+
+ Per l'invio delle comunicazioni all'Anagrafe tributaria previste dall'art. 1, comma 1, del decreto-legge 28 giugno 1990, n. 167, convertito nella legge 4 agosto 1990, n. 227, e successive modificazioni, possono essere utilizzati i seguenti tipi di supporto magnetico: 
+ 
+
+ - nastri magnetici a bobina; 
+ 
+
+ - nastri magnetici a cartuccia per le unità a nastro tipo "IBM 3480"; 
+ 
+
+ - dischetti magnetici. 
+ 
+
+ Tutti i supporti magnetici devono essere accompagnati da una comunicazione cartacea (vedi allegato 2, modello di tipo 1 "dati dell'intermediario") sottoscritta da legale rappresentante dell'ente o dalla persona che ne è autorizzata secondo l'ordinamento dell'ente stesso. 
+ 
+
+ 2. Caratteristiche dei nastri magnetici a bobina. 
+ 
+
+ I nastri magnetici devono rispondere alle seguenti caratteristiche: 
+ 
+
+ - numero di tracce: 9; 
+ 
+
+ - numero di caratteri per pollice: 1600/6250; 
+ 
+
+ - tipo di codifica: EBCDIC o ASCII; 
+ 
+
+ - non è ammessa la presenza di label standard o non standard. 
+ 
+
+ La lunghezza del record logico è di 280 caratteri; la lunghezza del record fisico è di 14.000 caratteri, per cui il fattore di bloccaggio è di 50 record logici. 
+ 
+
+ 3. Caratteristiche dei nastri magnetici a cartuccia. 
+ 
+
+ I nastri magnetici devono rispondere alle seguenti caratteristiche: 
+ 
+
+ - numero di tracce: 18; 
+ 
+
+ - numero di caratteri per pollice: 38.000; 
+ 
+
+ - tipo di codifica: EBCDIC; 
+ 
+
+ non è ammessa la presenza di label o non standard. 
+ 
+
+ La lunghezza del record logico e di 280 caratteri; la lunghezza del record fisico è di 14.000 caratteri, per cui il fattore di bloccaggio è di 50 record logici. 
+ 
+
+ 4. Caratteristiche dei dischetti magnetici. 
+ 
+
+ I dischetti magnetici devono essere inviati unitamente ad un tabulato contenente la stampa delle stesse informazioni in essi contenute e devono rispondere alle seguenti caratteristiche: 
+ 
+
+ - dimensione in pollici: 8', 5.25', 3,5'; 
+ 
+
+ - nome archivio: IMPEXP; 
+ 
+
+ - organizzazione: sequenziale; 
+ 
+
+ - lunghezza del record: 280 caratteri; 
+ 
+
+ - tipo di codifica: ASCII. 
+ 
+
+ 5. Caratteristiche esterne dei supporti magnetici. 
+ 
+
+ Un supporto magnetico può essere costituito da più volumi; in ciascun volume deve essere apposta una etichetta riportante i seguenti dati: 
+ 
+
+ Destinatario: Ministero delle finanze - Anagrafe tributaria - 
+ 
+
+ Via Marco Carucci, 99 - 00143 Roma 
+ 
+
+ Mittente: ............................................... 
+ 
+
+ (denominazione ed indirizzo dell'ente fornitore) ............................................... (nome e recapito telefonico del 
+ 
+
+ responsabile della fornitura) 
+ 
+
+ Oggetto: dati relativi ai trasferimenti di cui alla legge 
+ 
+
+ n. 227/1990. 
+ 
+
+ Numero progressivo di volume: ..................................... 
+ 
+
+ Numero complessivo dei volumi: .................................... (in caso di registrazione su più 
+ 
+
+ volumi) 
+ 
+
+ Deve essere apposta, inoltre, un'altra etichetta contenente le seguenti informazioni: 
+ 
+
+ - Tipo di modifica (ASCII/ 
+ 
+
+ EBCDIC) densità di 
+ 
+
+ registrazione espressa 
+ 
+
+ in b.p.i. (da indicare 
+ 
+
+ per i soli nastri magnetici 
+ 
+
+ a bobina): ............... ............... 
+ 
+
+ - Nome e release del sistema 
+ 
+
+ operativo utilizzato per la 
+ 
+
+ registrazione (da indicare 
+ 
+
+ per i soli dischetti 
+ 
+
+ magnetici): ............... ............... 
+ 
+
+ - Casa costruttrice e modello 
+ 
+
+ del sistema di elaborazione 
+ 
+
+ (da indicare per i soli 
+ 
+
+ dischetti magnetici): ............... ............... 
+ 
+
+ I supporti magnetici devono essere opportunamente confezionati al fine di evitare il loro deterioramento nelle fasi di spedizione e trasporto. 
+ 
+
+ A tale riguardo, particolare attenzione è da porre relativamente all'imballaggio dei dischetti magnetici. 
+ 
+
+ La confezione deve presentare all'esterno un'etichetta contenente il mittente e l'oggetto sopra descritti. 6. Contenuto dei supporti magnetici. 
+ 
+
+ Ogni supporto magnetico si compone dei seguenti record lunghi 280 caratteri: 
+ 
+
+ . un record di testa del supporto; 
+ 
+
+ . tanti record dettaglio quanti sono i soggetti i cui dati sono contenuti nel supporto; 
+ 
+
+ . un record di coda del supporto. 
+ 
+
+ Nel seguito viene descritto il contenuto informativo dei record presenti nel supporto magnetico; il tipo di campo può essere: 
+ 
+
+ . alfabetico (A); 
+ 
+
+ . numerico (N); 
+ 
+
+ . alfanumerico (AN). 
+ 
+
+ I campi di tipo alfabetico possono contenere anche i caratteri trattino (-) ed apostrofo ('). 
+ 
+
+ I campi di tipo alfanumerico possono contenere caratteri alfabetici, numerici e speciali quali trattino (-), apostrofo ('), punto (.), etc. 
+ 
+
+ 6.1 Descrizione del record di testa del supporto. 
+ 
+
+ Prog. Nome Campo Tipo Lungh. Note 
+ 
+
+ - - - - - 
+ 
+
+ 1 Tipo record N 1 Valore = 0 
+ 
+
+ Dati dell'intermediario: 
+ 
+
+ 2 Codice fiscale AN 16 
+ 
+
+ 3 Cognome A 24 
+ 
+
+ 4 Nome A 20 
+ 
+
+ 5 Data di nascita N 6 GGMMAA 
+ 
+
+ 6 Luogo di nascita (comune 
+ 
+
+ o Stato estero) A 25 
+ 
+
+ 7 Sigla automobilistica della 
+ 
+
+ provincia di nascita A 2 Stato estero=EE 
+ 
+
+ 3-bis Denominazione o ragione 
+ 
+
+ sociale (in caso di socie- 
+ 
+
+ tà o ente) AN 77 In alternativa ai 
+ 
+
+ campi da 3 a 7 8 Domicilio fiscale (comu- 
+ 
+
+ ne) A 25 
+ 
+
+ 9 Provincia A 2 
+ 
+
+ 10 Indirizzo AN 35 
+ 
+
+ 11 CAP N 5 
+ 
+
+ 12 Anno di riferimento N 2 
+ 
+
+ 13 Codice fornitura N 6 Valore = IMPEXP 
+ 
+
+ 14 Filler A 111 
+ 
+
+ 6.2 Descrizione del record di coda del supporto. 
+ 
+
+ Prog. Nome Campo Tipo Lungh. Note 
+ 
+
+ - - - - - 
+ 
+
+ 1 Tipo record N 1 Valore = 9 
+ 
+
+ Dati dell'intermediario: 
+ 
+
+ 2 Codice fiscale AN 16 
+ 
+
+ 3 Cognome A 24 
+ 
+
+ 4 Nome A 20 
+ 
+
+ 5 Data di nascita N 6 GGMMAA 
+ 
+
+ 6 Luogo di nascita (comune 
+ 
+
+ o Stato estero) A 25 
+ 
+
+ 7 Sigla automobilistica della 
+ 
+
+ provincia di nascita A 2 Stato estero=EE 
+ 
+
+ 3-bis Denominazione o ragione 
+ 
+
+ sociale (in caso di socie- 
+ 
+
+ tà o ente) AN 77 In alternativa ai 
+ 
+
+ campi da 3 a 7 8 Domicilio fiscale (comu- 
+ 
+
+ ne) A 25 
+ 
+
+ 9 Provincia AN 2 
+ 
+
+ 10 Indirizzo N 35 
+ 
+
+ 11 CAP N 5 
+ 
+
+ 12 Anno di riferimento N 2 
+ 
+
+ 13 Codice fornitura A 6 Valore = IMPEXP 
+ 
+
+ 14 Numero record tipo 5 
+ 
+
+ presenti nel supporto N 7 
+ 
+
+ 15 Filler A 104 
+ 
+
+ 6.3 Descrizione del record di dettaglio. 
+ 
+
+ Prog. Nome Campo Tipo Lungh. Note 
+ 
+
+ - - - - - 
+ 
+
+ 1 Tipo record N 1 Valore = 5 
+ 
+
+ Dati del soggetto per conto o 
+ 
+
+ a favore del quale è fatta 
+ 
+
+ la movimentazione: 
+ 
+
+ 2 Codice fiscale AN 16 
+ 
+
+ 3 Cognome A 24 
+ 
+
+ 4 Nome A 20 
+ 
+
+ 5 Data di nascita N 6 GGMMAA 
+ 
+
+ 6 Luogo di nascita (comune 
+ 
+
+ o Stato estero) A 25 
+ 
+
+ 7 Sigla automobilistica della 
+ 
+
+ provincia di nascita A 2 Stato estero=EE 
+ 
+
+ 3-bis Denominazione o ragione 
+ 
+
+ sociale (in caso di socie- 
+ 
+
+ tà o ente) AN 77 In alternativa ai 
+ 
+
+ campi da 3 a 7 8 Domicilio fiscale (comu- 
+ 
+
+ ne) A 25 
+ 
+
+ 9 Provincia A 2 
+ 
+
+ 10 Indirizzo AN 35 
+ 
+
+ 11 CAP N 5 
+ 
+
+ Dati della movimentazione: 
+ 
+
+ 12 Segnalazione import/ex- 
+ 
+
+ port N 1 Valore = 1 import 
+ 
+
+ Valore = 2 export 13 Natura operazione N 1 Valore = 1 corrente 
+ 
+
+ mercantile 
+ 
+
+ Valore = 2 corrente 
+ 
+
+ non mercantile 
+ 
+
+ Valore = 3 finan- ziaria 
+ 
+
+ Valore = 4 saldo di 
+ 
+
+ compensazioni 
+ 
+
+ Valore = 5 altri 
+ 
+
+ trasferimenti 
+ 
+
+ 14 Data della movimenta- 
+ 
+
+ zione N 6 GGMMAA 
+ 
+
+ 15 Causale movimentazione 
+ 
+
+ (cod. U.I.C.) N 4 
+ 
+
+ 16 Importo movimentato N 6 In milioni di lire 
+ 
+
+ Estremi identificativi eventuali 
+ 
+
+ conti di destinazione: 
+ 
+
+ 17 Numero di conto AN 15 
+ 
+
+ 18 Stato estero AN 25 
+ 
+
+ 19 Codice Stato estero 
+ 
+
+ (cod. U.I.C.) N 3 
+ 
+
+ 20 Ente presso il quale è 
+ 
+
+ tenuto il conto AN 35 
+ 
+
+ 21 Filler A 23 
+ 
+
+ 6.4 Avvertenze. 
+ 
+
+ Tutte le date riportate nei tracciati record devono essere nel formato GGMMAA. 
+ 
+
+ I codici "Causale movimentazione" (Progressivo 15 del punto 6.3) e "Stato estero" (progressivo 19 del punto 6.3) sono desunti dagli allegati 6 ed 8 delle istruzioni UIC R.V. n. 1990/1 del 9 maggio 1990 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 110 del 14 maggio 1990.
