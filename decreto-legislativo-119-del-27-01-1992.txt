@@ -96,12 +96,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) medicinale veterinario: qualsiasi medicinale destinato agli animali; 
  
 
- c) medicinale veterinario prefabbricato: qualsiasi medicinale veterinario preparato in anticipo e che non corrisponde alla definizione delle specialità medicinali, immesso in commercio in una forma farmaceutica che può essere usata senza trasformazione; 
+ 
  
 
+ 
+ e) medicinale veterinario prefabbricato: qualsiasi medicinale veterinario preparato in anticipo e che non corrisponde alla definizione delle specialità medicinali, immesso in commercio in una forma farmaceutica che può essere usata senza trasformazione; 
+ 
+
+ 
+ 
+
+ 
  f) premiscele per alimenti medicamentosi: qualsiasi medicinale veterinario preparato in anticipo per la successiva fabbricazione di alimenti medicamentosi; 
  
 
+ 
+ 
+
+ 
  g) alimento medicamentoso: qualsiasi miscela di uno o più medicinali veterinari con uno o più alimenti preparata prima della immissione in commercio e destinata ad essere somministrata agli animali senza trasformazione, a motivo delle sue proprietà medicinali. 
  
 
@@ -113,4 +125,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Non sono considerati medicinali veterinari ai sensi del presente decreto gli additivi previsti dal regolamento che attua le direttive CEE numeri 70/524, 73/103, 75/296, 84/587, 87/153, 91/248 e 91/249 relative agli additivi nell'alimentazione degli animali, incorporati negli alimenti per animali e negli alimenti complementari per animali, alle condizioni previste dallo stesso regolamento.
+ 2. Non sono considerati medicinali veterinari ai sensi del presente decreto gli additivi 
+ ((di cui al decreto del Presidente della Repubblica 1 marzo 1992, n. 228, e successive modificazioni))
+
+ .
