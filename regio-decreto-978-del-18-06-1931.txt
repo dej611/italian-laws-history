@@ -152,10 +152,7 @@ VITTORIO EMANUELE III
  
  
 
- (9) 
- ((10))
-
- 
+ (9) (10) 
  
 
  
@@ -168,9 +165,6 @@ VITTORIO EMANUELE III
  
 
  (Gruppo C). 
- 
-
- 
  
 
  
@@ -395,13 +389,50 @@ VITTORIO EMANUELE III
  
  
 
- Personale insegnante del Regio istituto idrografico. 
+ 
+ ((Ruolo organico dei professori ed assistenti dell'Istituto idrografico della Marina))
+
+ 
+ ((Ex coefficiente QUALIFICA Organico
+ 
+
+ di stipendio
+ 
+
+ - - -
  
 
  
  
 
- (Gruppo A). 
+ 970 |
+ 
+
+ 900 > Professore ordinario .......|
+ 
+
+ 670 | |
+ 
+
+ 500 | > 2
+ 
+
+ 
+ 
+
+ 402 | Professore straordinario ...|
+ 
+
+ 
+ 
+
+ 402 |
+ 
+
+ 325 > Assistenti ................. 3
+ 
+
+ 271 |
  
 
  
@@ -409,23 +440,12 @@ VITTORIO EMANUELE III
 
  
  
- 
- Grado Numero dei posti 
+
+ Visto, il Ministro per la difesa: ANDREOTTI))
  
 
  
- 6° e 5° Professore di astronomia e geodesia 1 
- 
 
- 
- 6° e 5° Professore di meteorologia e geofisica 1 
- 
-
- 
- 2 
- 
-
- 
  
  
 
@@ -486,6 +506,9 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
  Ufficio studi e ricerche scientifiche. 
  
 
@@ -493,6 +516,9 @@ VITTORIO EMANUELE III
  
 
  RUOLO SOPPRESSO DAL REGIO DECRETO 14 GIUGNO 1941, N. 614 (8) 
+ 
+
+ 
  
 
  
@@ -515,9 +541,6 @@ VITTORIO EMANUELE III
 
  
  
-
- 
- 
  
  Grado Numero dei posti 
  
@@ -535,6 +558,12 @@ VITTORIO EMANUELE III
  
 
  
+ 
+ 
+
+ 
+ 
+
  
  
 
@@ -597,9 +626,6 @@ VITTORIO EMANUELE III
  
 
  (7) 
- 
-
- 
  
 
  
@@ -674,12 +700,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
-
  Numero
  
 
@@ -737,6 +757,12 @@ VITTORIO EMANUELE III
  
  
 
+ 
+ 
+
+ 
+ 
+
  Numero
  
 
@@ -765,6 +791,9 @@ VITTORIO EMANUELE III
  
 
  26
+ 
+
+ 
  
 
  
@@ -812,9 +841,6 @@ VITTORIO EMANUELE III
  
 
  
- 
- 
-
  
  
 
@@ -881,19 +907,20 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- Disegnatori tecnici per le Direzioni ed uffici del Genio militare
- 
-
- per la Regia marina
+ Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina
  
 
  
  
 
  (Gruppo B)
+ 
+
+ 
+ 
+
+ 
+ 
  
  
  Grado Numero dei posti 
@@ -992,19 +1019,22 @@ VITTORIO EMANUELE III
  
  
 
- Personale dei gestori di magazzino e di cassa.
+ Personale dei gestori di magazzino e di cassa. 
  
 
  
  
 
- (Gruppo B).
+ (Gruppo B). 
  
 
  
  
 
- RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5)
+ RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5) 
+ 
+
+ 
  
 
  
@@ -1061,10 +1091,13 @@ VITTORIO EMANUELE III
  
  
 
- PERSONALE SUBALTERNO. 
+ 
  
 
  
+ 
+
+ PERSONALE SUBALTERNO. 
  
 
  
