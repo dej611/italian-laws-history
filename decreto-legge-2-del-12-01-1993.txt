@@ -84,7 +84,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1. L'articolo 1 della legge 7 febbraio 1992, n. 150, è sostituito dal seguente: 
  
 
- "Art. 1. - 1. Chiunque in violazione di quanto previsto dal decreto del Ministro del commercio con l'estero del 31 dicembre 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 64 del 5 marzo 1984, importa, esporta o riesporta, sotto qualsiasi re- gime doganale, vende, espone per la vendita, detiene per la vendita, offre in vendita, trasporta, anche per conto terzi, esemplari di spe- cie indicate nell'allegato A, appendice I, e nell'allegato C, parte 1, del regolamento (CEE) n. 3626/82 del Consiglio del 3 dicembre 1982, e successive modificazioni, è punito con le seguenti sanzioni: 
+ "Art. 1. - 1. Chiunque in violazione di quanto previsto dal decreto del Ministro del commercio con l'estero del 31 dicembre 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 64 del 5 marzo 1984, importa, esporta o riesporta, sotto qualsiasi re- gime doganale, vende, espone per la vendita, detiene per la vendita, offre in vendita, trasporta, anche per conto terzi,
+ (( o comunque detiene))
+
+ esemplari di specie indicate nell'allegato A, appendice I, e nell'allegato C, parte 1, del regolamento (CEE) n. 3626/82 del Consiglio del 3 dicembre 1982, e successive modificazioni, è punito con le seguenti sanzioni: 
  
 
  a) arresto da tre mesi ad un anno o ammenda da lire quindici milioni a lire duecento milioni; 
@@ -93,7 +96,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) in caso di recidiva, arresto da tre mesi a due anni o ammenda da lire quindici milioni a sei volte il valore degli animali, piante, loro parti o prodotti derivati oggetto dalla violazione. Se trattasi di impresa commerciale alla condanna consegue la sospensione della licenza da un minimo di sei mesi ad un massimo di diciotto mesi. 
  
 
- 2. L'importazione di oggetti ad uso personale o domestico relativi a specie indicate nel comma 1, effettuata senza la presentazione della prevista documentazione CITES emessa dallo Stato estero ove l'oggetto è stato acquistato, è punita con la sanzione amministrativa da lire tre milioni a lire diciotto milioni. Gli oggetti importati illegalmente sono confiscati dal Corpo forestale dello Stato. 
+ 2. L'importazione di oggetti ad uso personale o domestico relativi a specie indicate nel comma 1 effettuata senza la presentazione della prevista documentazione CITES emessa dallo Stato estero ove l'oggetto è stato acquistato, è punita con la sanzione amministrativa da lire tre milioni a lire diciotto milioni. Gli oggetti importati illegalmente sono confiscati dal Corpo forestale dello Stato. 
  
 
- 3. L'esportazione o la riesportazione di oggetti ad uso personale o domestico derivati dagli esemplari di specie indicate nel comma 1 è consentita previo rilascio di un certificato da parte del servizio certificazione CITES del Corpo forestale dello Stato, ai sensi dell'articolo VIII, par. 3, della convenzione di Washington".
+ 3. L'esportazione o la riesportazione di oggetti ad uso personale o domestico derivati dagli esemplari di specie indicate nel comma 1
+ ((, eccetto gli oggetti di pelletteria ad uso personale e le calzature,))
+
+ è consentita previo rilascio di un certificato da parte del servizio certificazione CITES del Corpo forestale dello Stato, ai sensi dell'
+ ((articolo VII))
+
+ , della convenzione di Washington".
