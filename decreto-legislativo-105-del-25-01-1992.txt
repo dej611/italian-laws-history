@@ -56,7 +56,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Sono considerate acque minerali naturali le acque che, avendo origine da una falda o giacimento sotterraneo, provengono da una o più sorgenti naturali o perforate e che hanno caratteristiche igieniche particolari e proprietà favorevoli alla salute. 
+ 1. Sono considerate acque minerali naturali le acque che, avendo origine da una falda o giacimento sotterraneo, provengono da una o più sorgenti naturali o perforate e che hanno caratteristiche igieniche particolari e 
+ ((, eventualmente,))
+
+ proprietà favorevoli alla salute. 
  
 
  
@@ -64,7 +67,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Le acque minerali naturali si distinguono dalle ordinarie acque potabili per la purezza originaria e sua conservazione, per il tenore in minerali, oligoelementi e/o altri costituenti e per i loro effetti. Esse vanno tenute al riparo da ogni rischio di inquinamento. 
+ 2. Le acque minerali naturali si distinguono dalle ordinarie acque potabili per la purezza originaria e sua conservazione, per il tenore in minerali, oligoelementi e/o altri costituenti 
+ ((ed, eventualmente, per taluni loro effetti.))
+
+ . Esse vanno tenute al riparo da ogni rischio di inquinamento. 
  
 
  
@@ -102,10 +108,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) farmacologico, clinico e fisiologico. 
- 
+ ((d) se necessario, farmacologico, clinico e fisiologico))
 
- 
  
 
  
