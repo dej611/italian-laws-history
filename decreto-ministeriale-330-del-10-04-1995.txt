@@ -208,10 +208,12 @@ IL MINISTRO DELLE POSTE
  
 
  
- g) lista dei competenti;
- 
+ ((
 
- 
+ g) lista dei componenti;
+
+ ))
+
  
 
  
@@ -384,10 +386,9 @@ IL MINISTRO DELLE POSTE
  
 
  
- 10. Il competente organo del Ministero, valutata e verificata la richiesta di esonero, inviata il nuovo certificato di omologazione al richiedente.
- 
+ 10. Il competente organo del Ministero, valutata e verificata la richiesta di esonero, 
+ ((invia il nuovo certificato di omologazione al richiedente.))
 
- 
  
  
 
