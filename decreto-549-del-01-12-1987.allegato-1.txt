@@ -1,0 +1,217 @@
+2.1. Nell'impiego normale a temperature che si scostano di (Più o Meno) 8 °C dalla temperatura di riferimento, le variazioni di lunghezza non superino gli errori massimi tollerati; 
+ 
+
+ 7. ERRORI MASSIMI TOLLERATI. 
+ 
+
+ Le misure lineari definite nel presente decreto sono ripartite, a seconda del loro grado di precisione, in tre classi, designate con i simboli I, II e III. 
+ 
+
+ 7.1. L'errore massimo tollerato in più o in meno 
+ 
+
+ a) sulla lunghezza nominale e 
+ 
+
+ b) su ogni altra distanza compresa tra due riferimenti qualsiasi non consecutivi 
+ 
+
+ è espresso in millimetri, in funzione della lunghezza considerata, mediante la formula a + bL, in cui: 
+ 
+
+ L è il valore della lunghezza considerata, arrotondato al numero intero di metri per eccesso, 
+ 
+
+ a e b sono coefficienti fissati per ogni classe di precisione nella tabella seguente: 
+ 
+
+ Classe di precisione a b 
+ 
+
+ I 0,1 0,1 
+ 
+
+ II 0,3 0,2 
+ 
+
+ III 0,6 0,4 
+ 
+
+ 7.4. L'errore massimo tollerato in servizio è pari al doppio dell'errore massimo tollerato in verifica prima CEE. 
+ 
+
+ 8. MARCHI DI VERIFICA PRIMA CEE. 
+ 
+
+ 8.1. Sulla parte iniziale della misura o su un dispositivo complementare inamovibile deve essere previsto lo spazio per l'apposizione dei marchi di verifica prima CEE. 
+ 
+
+ 8.2. Detti marchi devono essere apposti conformemente alle prescizioni del punto 3.1. dell'allegato II del decreto del Presidente della Repubblica 12 agosto 1982, n. 798, e successive modificazioni. 
+ 
+
+ 8.3. In deroga al punto 3.1. richiamato al precedente punto 8.2., il marchio di verifica prima apposto in altri Stati membri può essere costituito da un esagono che contiene all'interno la lettera minuscola "e". In tal caso la lettera "e" contiene, nella metà superiore, la lettera maiuscola distintiva dello Stato membro nel quale ha avuto luogo la verifica prima CEE e, nella metà inferiore, il millesimo dell'anno di verifica. Un esempio di tale marchio figura al punto 12. 
+ 
+
+ 10. APPROVAZIONE CEE DEL MODELLO E VERIFICA PRIMA CEE. 
+ 
+
+ L'approvazione CEE del modello e la verifica prima CEE delle misure lineari materializzate sono eseguite secondo la procedura del decreto del Presidente della Repubblica 12 agosto 1982, n. 798, e successive modificazioni. 
+ 
+
+ 10.1. Esame per approvazione CEE del modello. 
+ 
+
+ Oltre allo studio dei documenti, l'esame comporta un controllo della conformità del modello presentato con le prescrizioni di cui ai precedenti punti 2, 3, 4, 5, 6 (ad eccezione del punto 6.4), 7, 8 e 9. 
+ 
+
+ 10.2. Controlli in sede di verifica prima CEE. 
+ 
+
+ 10.2.1. I controlli in sede di verifica prima CEE sono eseguiti sia su tutte le misure lineari presentate, sia su lotti di tali misure conformemente al punto 11. 
+ 
+
+ 10.2.2. I controlli in sede di verifica prima CEE consistono in un esame a vista della conformità della misura lineare con il modello approvato, con particolare riguardo alle prescrizioni di cui ai punti 3.6., 4.1., 4.3. 
+ 
+
+ 10.2.3. Si deve inoltre verificare che la misura lineare rispetti gli errori massimi tollerati sulla lunghezza nominale, tenendo conto, all'occorrenza, del punto 9.5. 
+ 
+
+ 10.2.4. In cinque punti diversi distribuiti a caso sulla misura lineare si controlla inoltre: 
+ 
+
+ la distanza compresa tra due riferimenti non consecutivi, 
+ 
+
+ la lunghezza di una divisione, 
+ 
+
+ la differenza tra due lunghezze di due divisioni consecutive, al fine di verificarne la conformità con i punti 7.1.b), 7.2.1. e 
+ 
+
+ 7.2.2., tenendo conto, all'occorrenza, dei punti 7.3. e 9.3. 
+ 
+
+ Se i risultati dell'esame lo giustificano, il servizio competente può ridurre o aumentare il numero dei controlli. 
+ 
+
+ 10.2.5. La serie dei suddetti controlli è eseguita nelle condizioni di riferimento di cui al punto 7.5. 
+ 
+
+ 11. CONTROLLO STATISTICO APPLICATO IN SEDE DI VERIFICA CEE. 
+ 
+
+ Nel caso di misure lineari fabbricate in serie e quanto il responsabile della loro presentazione alla verifica prima CEE dichiari che sono state controllate in modo valido, i lotti così presentati sono sottoposti, a sua richiesta, ad un controllo statistico per attributi nelle condizioni specificate in seguito. 
+ 
+
+ 11.1. Definizioni. 
+ 
+
+ 11.1.1. Lotto. 
+ 
+
+ I lotti sono costituiti da misure lineari che presentano le seguenti caratteristiche: 
+ 
+
+ sono di uno stesso modello, 
+ 
+
+ appartengono ad una stessa classe di precisione, 
+ 
+
+ sono state fabbricate con uno stesso procedimento. 
+ 
+
+ La grandezza del lotto è il numero di misure lineari contenute nel lotto. Per i lotti sottoposti alla verifica CEE la grandezza è limitata ad un massimo di 10.000 unità. 
+ 
+
+ 11.1.2. Campione. 
+ 
+
+ Un campione è costituito da misure lineari prelevate a caso in un lotto. Il numero di misure lineari per campione è detto numerosità del campione. 
+ 
+
+ 11.1.3. Controllo statistico per attribuiti. 
+ 
+
+ Il controllo statistico per attributi è un controllo nel quale le misure lineari componenti il campione sono classificate come difettose o non difettose conformemente alle prescrizioni della presente direttiva. 
+ 
+
+ 11.1.4. Criterio di accettazione. 
+ 
+
+ In un controllo statistico per attributi, il criterio di accettazione è il valore massimo del numero di misure difettose riscontrate nel campione controllato che comporta l'accettazione del lotto. 
+ 
+
+ 11.1.5. Criterio di rifiuto. 
+ 
+
+ In un controllo statistico per attributi, il criterio di rifiuto è il valore minimo del numero di misure difettose riscontrate nel campione controllato che comporta il rifiuto del lotto. 
+ 
+
+ 11.1.6. Piano di campionamento. 
+ 
+
+ Il numero di misure controllate deve essere pari alla numerosità del campione data dal piano. Se il numero di misure difettose riscontrate nel campione è inferiore o pari al criterio di accettazione, il lotto deve essere accettato. Se il numero di misure difettose è superiore o pari al criterio di rifiuto, il lotto deve essere rifiutato. 
+ 
+
+ 11.2. Procedure di controllo. 
+ 
+
+ Il metodo di controllo da applicare prevede uno schema di presentazioni multiple, conformemente ai piani di campionamento di cui al punto 11.2.1. successivo. 
+ 
+
+ Il controllo applicato è un controllo per conteggio del numero di misure difettose nel campione prelevato. 
+ 
+
+ 11.2.1. Piani di campionamento: 
+ 
+
+ Ordine Numerosità Criterio Criterio 
+ 
+
+ di presentazione del campione di accettazione di rifiuto 
+ 
+
+ 1 70 0 1 
+ 
+
+ 2 85 0 1 
+ 
+
+ 3 105 0 1 
+ 
+
+ 4 120 0 1 
+ 
+
+ Dopo accettazione di un lotto, il lotto presentato successivamente deve essere controllato iniziando dalla presentazione di 1 ordine. 
+ 
+
+ Dopo il rifiuto di un lotto, l'ufficio provinciale metrico competente prende i provvedimenti necessari per impedire che il lotto rifiutato sia messo in commercio nello stato in cui si trova ed il responsabile della presentazione delle misure alla verifica prima CEE può sottoporre lo stesso lotto oppure presentare un altro lotto.
+ 
+
+ Quest'ultimo lotto viene in tal caso sottoposto ad un controllo dell'ordine di presentazione immediatamente superiore. Tuttavia, se dopo un controllo dell'ordine di presentazione 4, il lotto non è accettato, il servizio competente deve eseguire un controllo al 100% di tale lotto. 
+ 
+
+ 11.3. Conseguenze dei rifiuti frequenti dei lotti. 
+ 
+
+ Nel caso in cui si constatino frequenti rifiuti di lotti, l'ufficio provinciale metrico informa la Direzione generale del commercio interno e dei consumi industriali che può decidere la sospensione del controllo statistico. Se, dopo aver avvertito il beneficiario dell'approvazione CEE di modello, il livello di qualità non presenta alcun miglioramento, si può avviare la procedura di revoca dell'approvazione CEE di modello, conformemente alle prescrizioni del decreto del Presidente della Repubblica 12 agosto 1982, n. 798, e successive modifiche. 
+ 
+
+ 12. ESEMPIO DI MARCHIO DI VERIFICA PRIMA CEE DI CUI AL PUNTO 8.3.: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
