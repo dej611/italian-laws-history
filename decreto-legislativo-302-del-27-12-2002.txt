@@ -151,10 +151,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. Le Regioni a statuto speciale, nonchè le Province autonome di Trento e di Bolzano esercitano la propria potestà legislativa in materia di espropriazione per pubblica utilità nel rispetto dei rispettivi statuti e delle relative norme di attuazione, anche con riferimento alle disposizioni del titolo V, parte seconda, della Costituzione per le parti in cui prevedono forme di autonomia più ampie rispetto a quelle già attribuite. (L) 
  
 
- 3. Le disposizioni del testo unico operano direttamente nei riguardi delle Regioni 
- ((...))
-
- fino a quando esse non esercitano la propria potestà legislativa in materia, nel rispetto delle disposizioni di cui ai commi 1 e 2. La Regione Trentino-Alto Adige e le Province autonome di Trento e Bolzano adeguano la propria legislazione ai sensi degli articoli 4 e 8 dello statuto di cui al decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e dell'articolo 2 del decreto legislativo 16 marzo 1992, n. 266. (L) 
+ 3. Le disposizioni del testo unico operano direttamente nei riguardi delle Regioni fino a quando esse non esercitano la propria potestà legislativa in materia, nel rispetto delle disposizioni di cui ai commi 1 e 2. La Regione Trentino-Alto Adige e le Province autonome di Trento e Bolzano adeguano la propria legislazione ai sensi degli articoli 4 e 8 dello statuto di cui al decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e dell'articolo 2 del decreto legislativo 16 marzo 1992, n. 266. (L) 
  
 
  4. Nell'ambito delle funzioni amministrative conferite dallo Stato alle Regioni e alle Province autonome di Trento e di Bolzano ai sensi delle leggi vigenti rientrano anche quelle concernenti i procedimenti di espropriazione per pubblica utilità e quelli concernenti la materiale acquisizione delle aree. (L)"; 
@@ -409,10 +406,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  12. L'autorità espropriante, anche su richiesta del promotore dell'espropriazione, può altresì emettere ed eseguire il decreto di esproprio, dopo aver ordinato il deposito dell'indennità condivisa presso la Cassa depositi e prestiti qualora il proprietario abbia condiviso la indennità senza dichiarare l'assenza di diritti di terzi sul bene, ovvero qualora non effettui il deposito della documentazione di cui al comma 8 nel termine ivi previsto ovvero ancora non si presti a ricevere la somma spettante. (L) 
  
 
- 13. Al proprietario che abbia condiviso l'indennità offerta spetta l'importo di cui all'articolo 45, comma 2, anche nel caso in cui l'autorità espropriante abbia emesso il decreto di espropriazione 
- ((ai sensi dei commi 11 e 12.))
-
- (L) 
+ 13. Al proprietario che abbia condiviso l'indennità offerta spetta l'importo di cui all'articolo 45, comma 2, anche nel caso in cui l'autorità espropriante abbia emesso il decreto di espropriazione ai sensi dei commi 11 e 12. (L) 
  
 
  14. Decorsi inutilmente trenta giorni dalla notificazione di cui al comma 4, si intende non concordata la determinazione dell'indennità di espropriazione. L'autorità espropriante dispone il deposito, entro trenta giorni, presso la Cassa depositi e prestiti, della somma ridotta del quaranta per cento se l'area è edificabile, ovvero senza le maggiorazioni di cui all'articolo 45 se l'area non è edificabile.
@@ -508,10 +502,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  u) dopo l'articolo 22 è inserito il seguente: 
  
 
- "Art. 22-bis (L) 
- (( (Occupazione d'urgenza preordinata all'espropriazione). ))
-
- - 1. Qualora l'avvio dei lavori rivesta carattere di particolare urgenza, tale da non consentire, in relazione alla particolare natura delle opere, l'applicazione delle disposizioni di cui ai commi 1 e 2 dell'articolo 20, può essere emanato, senza particolari indagini e formalità, decreto motivato che determina in via provvisoria l'indennità di espropriazione, e che dispone anche l'occupazione anticipata dei beni immobili necessari. Il decreto contiene l'elenco dei beni da espropriare e dei relativi proprietari, indica i beni da occupare e determina l'indennità da offrire in via provvisoria. Il decreto è notificato con le modalità di cui al comma 4 e seguenti dell'articolo 20 con l'avvertenza che il proprietario, nei trenta giorni successivi alla immissione in possesso, può, nel caso non condivida l'indennità offerta, presentare osservazioni scritte e depositare documenti. (L) 2. Il decreto di cui al comma 1, può altresì essere emanato ed eseguito in base alla determinazione urgente della indennità di espropriazione senza particolari indagini o formalità, nei seguenti casi: 
+ "Art. 22-bis (L) (Occupazione d'urgenza preordinata all'espropriazione). - 1. Qualora l'avvio dei lavori rivesta carattere di particolare urgenza, tale da non consentire, in relazione alla particolare natura delle opere, l'applicazione delle disposizioni di cui ai commi 1 e 2 dell'articolo 20, può essere emanato, senza particolari indagini e formalità, decreto motivato che determina in via provvisoria l'indennità di espropriazione, e che dispone anche l'occupazione anticipata dei beni immobili necessari. Il decreto contiene l'elenco dei beni da espropriare e dei relativi proprietari, indica i beni da occupare e determina l'indennità da offrire in via provvisoria. Il decreto è notificato con le modalità di cui al comma 4 e seguenti dell'articolo 20 con l'avvertenza che il proprietario, nei trenta giorni successivi alla immissione in possesso, può, nel caso non condivida l'indennità offerta, presentare osservazioni scritte e depositare documenti. (L) 2. Il decreto di cui al comma 1, può altresì essere emanato ed eseguito in base alla determinazione urgente della indennità di espropriazione senza particolari indagini o formalità, nei seguenti casi: 
  
 
  a) per gli interventi di cui alla legge 21 dicembre 2001, n. 443; 
@@ -544,10 +535,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) dopo il comma 1, è inserito il seguente: 
  
 
- "1-bis. L'autorità espropriante ordina il pagamento diretto dell'indennità al proprietario nei casi di cui all'articolo 20, comma 7. (R)"; 
- ((1))
+ "1-bis. L'autorità espropriante ordina il pagamento diretto dell'indennità al proprietario 
+ ((nei casi di cui all'art. 20, comma 8.))
 
- 
+ (R)"; (1) 
  
 
  2) al comma 2, la parola: "ordina" è sostituita dalle seguenti: "può ordinare altresì"; 
@@ -592,16 +583,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) al comma 5, le parole: "dei lavori pubblici" sono sostituite dalle seguenti: "delle infrastrutture e trasporti"; 
  
 
- 
- ((2) al comma 7 dopo le parole: "dell'art. 22, comma 1,", sono inserite le seguenti: "e dell'art. 22-bis"))
-
- ; 
+ 2) al comma 7 dopo le parole: "dell'art. 22, comma 1,", sono inserite le seguenti: "e dell'art. 22-bis"; 
  
 
- 
- ((3) ))
-
- al comma 9, dopo le parole: "coltivatore diretto" è inserita la seguente: "anche"; 
+ 3) al comma 9, dopo le parole: "coltivatore diretto" è inserita la seguente: "anche"; 
  
 
  ff) all'articolo 38: 
@@ -655,13 +640,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) al comma 1, la parola: "concludere" è sostituita dalla seguente: "stipulare" e le parole: "un accordo" dalle seguenti: "l'atto"; 
  
 
- 2) al comma 2 la parola: "accordo" è sostituita dalla seguente: "atto" e alla lettera b), dopo le parole: "venale del bene" sono inserite le seguenti: "ai sensi dell'articolo 38". Alla lettera c), dopo le parole: "articolo 40" le parole: "commi 1 e 2" sono sostituite dalle seguenti: "
- ((comma 3))
-
- ". Alla lettera d), dopo le parole: "articolo 40" le parole: "comma 1" sono sostituite dalle seguenti: "
- ((comma 3))
-
- ". In tale caso non compete l'indennità aggiuntiva di cui all'articolo 40, comma 4."; 
+ 2) al comma 2 la parola: "accordo" è sostituita dalla seguente: "atto" e alla lettera b), dopo le parole: "venale del bene" sono inserite le seguenti: "ai sensi dell'articolo 38". Alla lettera c), dopo le parole: "articolo 40" le parole: "commi 1 e 2" sono sostituite dalle seguenti: "comma 3". Alla lettera d), dopo le parole: "articolo 40" le parole: "comma 1" sono sostituite dalle seguenti: "comma 3". In tale caso non compete l'indennità aggiuntiva di cui all'articolo 40, comma 4."; 
  
 
  nn) l'articolo 46 è sostituito dal seguente: 
