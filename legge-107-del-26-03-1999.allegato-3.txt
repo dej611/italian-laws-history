@@ -1,0 +1,448 @@
+Allegato II
+ 
+
+ Attrezzature e forniture
+ 
+
+ (spese a carico del Governo)
+ 
+
+ Il Governo italiano, senza spese per il Segretariato, fornirà le
+ 
+
+ attrezzature e le forniture di cui al presente Allegato. Il numero
+ 
+
+ esatto di articoli, quali i personal computers e le stampanti, dovrà essere definito nel periodo immediatamente precedente al
+ 
+
+ COP-1; pertanto, nella fornitura si dovà prevedere un certo livello di flessibilità
+ 
+
+ 1. Comunicazioni
+ 
+
+ a. Linee telefoniche:
+ 
+
+ - Tutti gli uffici saranno dotati di telefoni, in base al numero di
+ 
+
+ persone che occuperanno ciascun ufficio. Le specifiche
+ 
+
+ dell'impianto telefonico comprenderanno: l'inoltro delle
+ 
+
+ chiamate, ID delle chiamate, conferenze di gruppo, attesa,
+ 
+
+ microfono oratore, assistenza operatore, chiamate internazionali
+ 
+
+ protette da parola d'ordine, chiamate dirette in arrivo
+ 
+
+ dall'esterno, connessione analogico/digitale, posta in voce,
+ 
+
+ possibilità di bloccare l'accesso alle chiamate interurbane.
+ 
+
+ Alcuni telefoni saranno dotati di collegamento diretto capo
+ 
+
+ segretario.
+ 
+
+ - Grazie ai moderni impianti FAO, il Governo potrà mettere a
+ 
+
+ disposizione un numero di centralino per telefono e fax, con
+ 
+
+ operatore locale di lingua inglese, una settimana prima
+ 
+
+ dell'inizio della conferenza. I relativi numeri saranno
+ 
+
+ comunicati a tutti i partecipanti con largo anticipo.
+ 
+
+ Linee internazionali: 33
+ 
+
+ - Segretariato: 14
+ 
+
+ - Segreteria tecnica: 1
+ 
+
+ - Sicurezza: 1
+ 
+
+ - Dipartimento Informazioni Pubbliche: 1
+ 
+
+ - Ufficio Affari Giuridici: 1
+ 
+
+ - Servizio Conferenze: 4
+ 
+
+ - Servizio interpretariato: 1
+ 
+
+ - Media: 10
+ 
+
+ b. Telefax:
+ 
+
+ Circa 10 macchine allo stato dell'arte, ad alta velocità (50%
+ 
+
+ standard G3 e 50% standard G4).
+ 
+
+ - Segretariato: 4
+ 
+
+ - Segreteria Tecnica: 1
+ 
+
+ - Servizio Conferenze: 2
+ 
+
+ - Servizio Interpretariato: 1
+ 
+
+ - Media: 2 funzionanti con carta
+ 
+
+ c. Linee internazionali analogiche/modem
+ 
+
+ - Segretariato: 3
+ 
+
+ - Media: 10
+ 
+
+ d. Telefoni cellulari
+ 
+
+ Saranno messi a disposizione del personale dell'ONU circa 4
+ 
+
+ telefoni cellulari (per chiamate nazionali ed internazionali).
+ 
+
+ e. Walkie-talkies
+ 
+
+ Saranno disponibili circa 10 walkie-talkies per il segretariato, a
+ 
+
+ copertura di tutte strutture della conferenza.
+ 
+
+ II. Sistema informatico e Rete Area Locale (LAN)
+ 
+
+ a. Componenti di rete
+ 
+
+ (i) I cavi LAN dovrebbero seguire la configurazione a T a 10 basi, a copertura di tutti gli uffici del personale (almeno 3 nodi ciascuno), la stanza del computer server (almeno 6 nodi), le postazioni per la registrazione (almeno 8 nodi ciascuno), le sale conferenze e riunioni (almeno 4-10 nodi ciascuna), le aree in cui sono in servizio i computer nell'area della conferenza e nel salone dimostrazioni della FAO (rispettivamente 10 nodi ciascuna). In mancanza di un numero sufficiente di nodi, l'impiego di prese a terra consentirà di aumentarne la quantità. Per ampliare l'attuale capacità della rete FAO e collegare tutti gli impianti dell'UNCCD, ne saranno necessarie circa 10 (prese a terra ethernet a 8 nodi), 5 (prese a terra ethernet a 16 nodi) e 10 (prese ethernet del tipo cumulabile a 16 nodi).
+ 
+
+ (ii) Saranno messi a disposizione ed installati nelle rispettive postazioni accumulatori, carte ethernet, carte per interfaccia PC per la rete e patch cards. Specialisti della controparte FAO saranno a disposizione per controllare il lavoro di installazione di tutti gli impianti di rete nuovi.
+ 
+
+ (iii) Il LAN dovrebbe essere installato, collaudato e reso operativo dal 12 settembre 1997 da un tecnico messo a disposizione dal Governo e da uno specialista della FAO. Il tecnico fornito dal Governo o dalla FAO dovrebbe essere costantemente a disposizione, su chiamata, per tutta la durata della Conferenza.
+ 
+
+ b. Sistema operativo/server LAN
+ 
+
+ (i)Due servers PC LAN dovrebbero avere le seguenti caratteristiche:
+ 
+
+ Pentium/166, 64 MS RAM, 4 Gigabytes, dotati di carte per interfaccia di rete a 32 bit PCI da 10 MB, con dispositivo di backup su nastro e dovranno essere configurati come segue;
+ 
+
+ (ii) dovrebbe essere installato un software file server Windows NT 3.15, accessibile da tutte le stazioni di lavoro PC, operativo con protocollo TCP/IP. Il personale del CCD dovrebbe installare un server Unix, dotato di Solaris per Intel, versione 2.5, da usare per l'unix (posta-ftp). Nella macchina unix dovrebbe essere installato il programma SendMail MTA, per gestire la posta elettronica;
+ 
+
+ (iii) dovrebbero essere date in anticipo e create descrizioni e privilegi per gli Utenti LAN, ivi comprese le descrizioni della posta elettronica;
+ 
+
+ (iv) i due PC Servers ed i relativi impianti secondari dovrebbero essere collegati ad un sistema UPS.
+ 
+
+ c. Computer
+ 
+
+ (i) Circa 90 stazioni di lavoro su PC per tutto il segretariato, il servizio conferenza, la sicurezza i media e l'area di servizio informatica. Le specifiche sono le seguenti: almeno un Pentium 100, 24 o 32 RAM, 1.2 GB, 15 o 17" SVGA, CD-ROM tastiere USA (10 francese svizzero), dotati di carte per la rete TP da 10MB (3 Com);
+ 
+
+ (ii) 1 computer Apple MAC collegato al LAN;
+ 
+
+ (iii) tutti i PC saranno dotati dell'ultima versione di Windows, MS Office Suite 97, cc: mail 2.2, WordPerfect 5.2 più dizionari inglese britannico, Francese e spagnolo, Netscape, Eudora Pro e Anti Virus.
+ 
+
+ d. Posta elettronica
+ 
+
+ (i) Sarà autorizzata l'istallazione del software per la posta elettronica standard delle Nazioni Unite cc: mail, che sarà resa operativa con il server LAN dal personale UNCCD. Dovranno essere creati in anticipo gli accessi per gli utenti;
+ 
+
+ (ii) nel LAN dovrebbe essere installato un instradatore di cc: mail dotato di 3 modem, ad alta velocità e di 3 linee telefoniche/modem internazionali. Tale instradatore curerà il collegamento diretto cc: mail con l'ufficio di Ginevra, nonchè il collegamento esterno cc: mail con la rete cc: mail delle Nazioni Unite;
+ 
+
+ (iii) sarà altresì installato un accesso SMTP internet cc: mail, per poter ricevere ed inviare messaggi internet dal server SendMail Unix, come descritto precedentemente;
+ 
+
+ (iv) in tutte le stazioni di lavoro su PC collegate al LAN sarà installato il software per le stazioni di lavoro cc: mail;
+ 
+
+ (v) ai delegati che partecipano alla conferenza sarà data la possibilità di creare descrizioni di pop mail.
+ 
+
+ e. Elementi accessori
+ 
+
+ (i) Stampanti.
+ 
+
+ - 6 stampanti ad alta velocità (Hewlett Packard LaserJet 5 SimX,
+ 
+
+ 8MB RAM, fronte-retro, o marca equivalente) dotate di carte
+ 
+
+ ethernet direttamente collegate al LAN. Le stampanti dovrebbero
+ 
+
+ essere equamente distribuite nel segretariato;
+ 
+
+ - una stampante a colori ad alta velocità (HPLJ 5, 32MB RAM o
+ 
+
+ marca equivalente);
+ 
+
+ - 12 stampanti singole (HPLJ 5N, 4MB RAM o marca equivalente), due
+ 
+
+ delle quali dotate di carta ethernet e collegate al LAN, mentre
+ 
+
+ le altre saranno configurate come stampanti singole;;
+ 
+
+ - 2 stampanti Epson ad alta velocità ad alimentazione motrice.
+ 
+
+ (ii) Scanners
+ 
+
+ 1 unità di scanner a colori ad alta risoluzione con
+ 
+
+ alimentatori per i fogli (HP4c o marca equivalente).
+ 
+
+ f. Collegamenti
+ 
+
+ (i) Internet
+ 
+
+ Si potrà utilizzare il collegamento ad alta velocità che la FAO
+ 
+
+ attiva con internet. A tutti e 90 i computer, ivi compresi i due
+ 
+
+ servers (NT e Solaris) saranno attribuiti dalla FAO indirizzi
+ 
+
+ specifici di IP. Tutti i computer collegati al LAN dovrebbero avere a disposizione vari servizi collegati ad internet (ad esempio, posta
+ 
+
+ elettronica, WEB, gopher, FTP ecc.). Dal 12 settembre 1997 sarà
+ 
+
+ riservato e messo a disposizione un indirizzo temporaneo &sup1; copl-unccd org.
+ 
+
+ III. Video
+ 
+
+ (i) VCR e monitor multi-sistema: dieci unità, ciascuna delle quali
+ 
+
+ dotata di un VCR multi-sistema e di un monitor;
+ 
+
+ IV. Proiettori
+ 
+
+ (i) 1 unità di proiettore computerizzato (ad esempio, Proiettore
+ 
+
+ Multimedia 3M, 800x600);
+ 
+
+ (ii) 2 proiettori a parete,
+ 
+
+ (iii) 1 proiettore per diapositive
+ 
+
+ V. Colatrici
+ 
+
+ Due unità per l'amministrazione.
+ 
+
+ VI. Macchine fotocopiatrici
+ 
+
+ (i) 6 piccole fotocopiatrici da scrivania
+ 
+
+ (ii) 12 fotocopiatrici a media velocità (50 copie al min.)
+ 
+
+ fronte-retro con selezionatore e spillatrice:
+ 
+
+ - 7 per il Segretariato
+ 
+
+ - 2 per la segreteria tecnica
+ 
+
+ - 2 per il servizio conferenze
+ 
+
+ - 1 per 2 servizio di interpretariato
+ 
+
+ (iii) 4 macchine fotocopiatrici per lavori corposi (riproduzione di
+ 
+
+ documenti).
+ 
+
+ Supporto tecnico per tutte le macchine fotocopiatrici (24 ore al
+ 
+
+ giorno)
+ 
+
+ VII. Macchine da scrivere elettriche
+ 
+
+ Dovrà essere fornito un totale di 15 macchine da scrivere elettriche "QWERTY".
+ 
+
+ - 8 per il Segretariato;
+ 
+
+ - 5 per la Segreteria Tecnica
+ 
+
+ - 2 per il Servizio Conferenze
+ 
+
+ VIII. Sistema di sicurezza
+ 
+
+ (i) sistema comunicazioni radio. Apparecchi adeguati saranno
+ 
+
+ forniti dalla sicurezza FAO,
+ 
+
+ (ii) 2 unità di metal detectors a mano;
+ 
+
+ (iii) 2 unità di macchine a raggi X per le borse a mano;
+ 
+
+ (iv) TV a circuito chiuso nell'ufficio sicurezza delle NU,
+ 
+
+ collegato al Centro di Controllo.
+ 
+
+ IX. Mobilio
+ 
+
+ (i) Tutti gli uffici dovranno essere arredati con scrivanie con
+ 
+
+ cassetti chiusi a chiave, sedie, anche per gli ospiti
+ 
+
+ lampade, cestini per rifiuti ecc., in base al numero di
+ 
+
+ persone che occupano ciascun ufficio. Ogni ufficio dovrebbe
+ 
+
+ disporre di almeno un armadietto chiuso a chiave con scaffali
+ 
+
+ ed un armadio guardaroba chiuso a chiave. Le macchine da
+ 
+
+ scrivere, i Computer e le stampanti dovrebbero essere poste
+ 
+
+ su tavoli separati;
+ 
+
+ (ii) l'arredamento degli uffici dovrebbe riflettere lo status di
+ 
+
+ chi li occupa, ad esempio direttori, professionisti membri
+ 
+
+ del personale, ovvero membri del Personale addetti ai servizi
+ 
+
+ generali;
+ 
+
+ (iii) l'ufficio amministrativo dovrebbe inoltre disposte di una
+ 
+
+ cassaforte a combinazione.
+ 
+
+ X. Trasporti
+ 
+
+ Il Governo fornirà al segretariato delle NU una macchina e 2-3 minibus (per 10 passeggeri), ciascuno con autista.
+ 
+
+ XI. Materiali di base per gli uffici
+ 
+
+ Al segretariato della conferenza saranno forniti materiali da ufficio sufficienti a garantirne il funzionamento durante la conferenza.
+ 
+
+ L'elenco dei materiali comprende schedari da archivio, blocchi di carta, matite portaceneri, cestini per i rifiuti, brocche per l'acqua, bicchieri e vassoi per le sale conferenze e per le cabine degli interpreti, nonchè carta e toner per le stampanti e le fotocopiatrici. Sarà fornito un elenco completo.
+ 
+
+ XII. Targhe
+ 
+
+ Al segretariato della conferenza saranno inviate due serie complete di targhe (paesi, agenzie intergovernative, enti delle Nazioni Unite, agenzie specializzate, podio, ecc.) da collocare nella Sala Conferenze e nella Sala Verde, in base ad un elenco dettagliato che sarà predisposto dal segretariato. Al segretariato della conferenza saranno inoltre consegnate in loco altre targhe, qualora necessarie. In tutte le sale per conferenze e riunioni saranno messi a disposizione martelletti con piedistallo.
