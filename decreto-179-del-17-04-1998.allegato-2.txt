@@ -1,0 +1,67 @@
+Allegato 2 
+ 
+
+ 1 - Terminazione di rete per l'accesso base del servizio ISDN a larga scala. 
+ 
+
+ 1.1 - Generalità. 
+ 
+
+ Il presente allegato stabilisce le caratteristiche tecniche della terminazione di rete per l'accesso base del servizio ISDN a larga scala (NT1). 
+ 
+
+ L'NT1 è un apparato che ha la funzione di interfacciare, lato centrale, il sistema trasmissivo numerico nazionale a due fili denominato interfaccia U (codice di linea 2B1Q o 4B3T) mentre, lato utente, gestisce il sistema di distribuzione a quattro fili, denominato interfaccia S. 
+ 
+
+ 1.2 - Caratteristiche e prescrizioni costruttive. 
+ 
+
+ 1.2.1 - Zona accessibile all'utente: 
+ 
+
+ La zona accessibile all'utente è costituita da due jack RJ45. 
+ 
+
+ 1.2.2 - Caratteristiche tecniche. 
+ 
+
+ Le caratteristiche tecniche, elettriche e meccaniche della presa RJ45, equipaggiata ad 8 poli, sono conformi alle norme ISO 8877, EN e ENV 41001. 
+ 
+
+ 1.2.3 - Caratteristiche elettriche. 
+ 
+
+ Le caratteristiche elettriche ed i protocolli dell'interfaccia S sono quelli definiti dagli standard ETSI: ETS 300-012, ETS 300-125, ETS 300-102, rispettivamente per i livelli 1, 2 e 3. 
+ 
+
+ 2 - Terminazione di rete per l'accesso base del servizio ISDN a larga scala con due attacchi telefonici integrati. 
+ 
+
+ 2.1 - Generalità. 
+ 
+
+ Il presente allegato stabilisce le caratteristiche tecniche della terminazione di rete per l'accesso base del servizio ISDN a larga scala con due attacchi analogici integrati. Tale terminazione è chiamata "NT1 plus" e fornisce tutte le prestazioni della terminazione di rete denominata NT1. 
+ 
+
+ 2.2 - Caratteristiche e prescrizioni costruttive. 
+ 
+
+ 2.2.1 - Zona accessibile all'utente. 
+ 
+
+ La zona accessibile all'utente è costituita da una presa RJ45 per l'interfaccia S, mentre per l'interfaccia analogica è prevista una morsettiera a vite. 
+ 
+
+ 2.2.2 - Caratteristiche tecniche. 
+ 
+
+ Le caratteristiche tecniche, elettriche e meccaniche, della presa RJ45 sono conformi a quanto indicato per la terminazione NT1. 
+ 
+
+ Le caratteristiche elettriche dell'interfaccia analogica sono conformi a quanto indicato nell'allegato 1. 
+ 
+
+ Visto, il Ministro delle comunicazioni 
+ 
+
+ Maccanico

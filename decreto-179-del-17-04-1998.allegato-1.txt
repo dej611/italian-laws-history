@@ -1,0 +1,178 @@
+Allegato 1 
+ 
+
+ TERMINAZIONE TELEFONICA UNIFICATA TRIPOLARE 
+ 
+
+ 1 - Generalità. 
+ 
+
+ Il presente allegato definisce le caratteristiche tecniche della terminazione telefonica tripolare utilizzata per l'allacciamento: 
+ 
+
+ alla rete telefonica commutata; 
+ 
+
+ alla rete "foniadati", allacciamento a due fili; 
+ 
+
+ ai circuiti diretti analogici, ad esclusione dei collegamenti per dati. 
+ 
+
+ Tale terminazione potrà essere: 
+ 
+
+ senza protezioni longitudinali; 
+ 
+
+ con fusibili; 
+ 
+
+ con fusibili e impedenza; 
+ 
+
+ con PTCR 
+ 
+
+ con PTCR ed impedenza. 
+ 
+
+ Indipendentemente dalla particolare configurazione di cui sopra, saranno comunque garantite la compatibilità meccanica con le spine tripolari degli altri tipi sopra citati e la compatibilità elettrica con i diversi tipi di terminali analogici dotati di spine tripolari. 2 - Caratteristiche e prescrizioni costruttive. 
+ 
+
+ 2.1 - Dimensioni. 
+ 
+
+ All'interno della terminazione telefonica tripolare unificata possono essere presenti: 
+ 
+
+ dei dispositivi di protezione longitudinali come ad esempio fusibili, PTCR o qualsiasi altro dispositivo con caratteristiche elettrico/funzionali equivalenti o migliorative; 
+ 
+
+ un'opportuna impedenza di chiusura. 
+ 
+
+ Forma e dimensioni corrispondono a quanto indicato nel disegno allegato per la terminazione telefonica unificata tripolare (fig. 1). 
+ 
+
+ Nelle figure sono riportate le quote essenziali inerenti: 
+ 
+
+ il dimensionamento di massima della terminazione; 
+ 
+
+ l'accoppiamento della presa e degli spinotti cilindrici presenti nella spina del terminale d'utente. 
+ 
+
+ 2.2 - Tolleranze. 
+ 
+
+ Per le quote riportate sui disegni di cui al paragrafo precedente e per le quali non sono indicate tolleranze, sono possibili i seguenti scostamenti: 
+ 
+
+ + o - 0,1 mm per i particolari metallici lavorati; 
+ 
+
+ + o - 0,3 mm per gli spessori delle pareti (da misurare sul bordo superiore) delle parti stampate in termoplastica; 
+ 
+
+ + o - 0,4 mm per le rimanenti quote indicate nelle parti stampate in termoplastica. 
+ 
+
+ 2.3 - Materiali. 
+ 
+
+ Per le prese senza protezione, per quelle con fusibili e per quelle con PTCR: 
+ 
+
+ a) corpo: materiale termoplastico con bassa tendenza alla carica elettrostatica. Il corpo della presa è ricavato in un solo pezzo mediante stampaggio ad iniezione; 
+ 
+
+ b) coperchio: come nel punto a); 
+ 
+
+ c) molle di contatto: bronzo fosforo Cu-Sn 7 UNI 2527-74 spessore 0,4 mm, nichelate; le molle possono essere anche realizzate in alpacca laminata per molle (vedi fig. 2). 
+ 
+
+ Per le prese con PTCR ed impedenza: 
+ 
+
+ a) corpo, coperchio e molle di contatto: stessi materiali di cui sopra; 
+ 
+
+ b) fondello di chiusura posteriore: stesso materiale del corpo. La chiusura è sigillata in modo che il grado di protezione all'umidità della parte posteriore della presa risulta maggiore o uguale a IP55C. 
+ 
+
+ 2.4 - Spinottti cilindrici. 
+ 
+
+ Gli spinotti cilindrici sono realizzati secondo quanto indicato nella fig. 2. 
+ 
+
+ 2.5 - Proprietà del materiale termoplastico. 
+ 
+
+ Il materiale termoplastico impiegato per lo stampaggio delle terminazioni ha le seguenti proprietà: 
+ 
+
+ a) proprietà elettriche: 
+ 
+
+ la rigidità dielettrica, determinata secondo quanto indicato nella tabella UNI 4291, non è inferiore a 10 KV/mm; 
+ 
+
+ b) altre caratteristiche: 
+ 
+
+ astatico: bassa tendenza alla carica elettrostatica. 
+ 
+
+ 3 - Caratteristiche elettriche. 
+ 
+
+ 3.1 - Tensioni. 
+ 
+
+ La tensione continua nominale presente tra i morsetti di attestazione della linea di utente è pari a 60V o 48V. Non è stabilito quali dei due morsetti sia il positivo e quale il negativo. 
+ 
+
+ 3.2 - Correnti. 
+ 
+
+ La corrente continua massima che può attraversare i contatti è pari a 110 mA. 
+ 
+
+ 3.3 - Impedenza caratteristica. 
+ 
+
+ Qualora presente nella presa, l'impedenza citata all'art. 3.1 può essere realizzata come segue: 
+ 
+
+ connessione serie di un resistore del valore di 12 kohm + o - 10%, 0,5 W e di un condensatore da 1 micron F + o - 10%, 0,5 W e V lav = 250 V; 
+ 
+
+ un condensatore da 1 micron F + o - 10%, 0,5 W e V lav = 250 V. 
+ 
+
+ Tale impedenza deve essere collegata in parallelo alle connessioni per l'attestazione della linea. 
+ 
+
+ Visto, il Ministro delle comunicazioni 
+ 
+
+ Maccanico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
