@@ -1,0 +1,10785 @@
+ALLEGATO I 
+ 
+
+ 
+ REGOLE TECNICHE 
+ 
+
+ 
+ Le regole Tecniche, per comodità di consultazione, sono divise in
+ 
+
+ 
+ tre tomi con i seguenti contenuti: 
+ 
+
+ 
+ TOMO PRIMO 
+ 
+
+ 
+ Introduzione 
+ 
+
+ 
+ Parte I Specifiche tecniche d'apparato con protocollo di
+ 
+
+ 
+ segnalazione di cui alla parte I sezione 2a. 
+ 
+
+ 
+ Parte I - Sezione 1a Specifiche di interfaccia radio. 
+ 
+
+ 
+ TOMO SECONDO 
+ 
+
+ 
+ Parte I - Sezione 2a Protocollo di segnalazione. 
+ 
+
+ 
+ TOMO TERZO 
+ 
+
+ 
+ Parte I - Sezione 3a Procedure di prova. 
+ 
+
+ 
+ Parte I - Sezione 4a Caratteristiche delle Stazioni Radiobase di
+ 
+
+ 
+ Rete. 
+ 
+
+ 
+ Parte II - Specifiche Tecniche d'apparato con protocollo di
+ 
+
+ 
+ segnalazione proprietario. 
+ 
+
+ 
+ 
+ 
+
+ 
+ TOMO PRIMO 
+ 
+
+ 
+ INTRODUZIONE 
+ 
+
+ 
+ 1. Oggetto e scopo 
+ 
+
+ 
+ Le presenti regole tecniche si applicano ai sensi radiomobili
+ 
+
+ 
+ multiaccesso operanti nelle bande di frequenze attribuite al servizio
+ 
+
+ 
+ mobile terrestre dal Piano Nazionale Ripartizione delle Frequenza ed
+ 
+
+ 
+ hanno lo scopo di stabilire i requisiti minimi ed i metodi di misura
+ 
+
+ 
+ da utilizzare per la certificazione di conformità dei terminali
+ 
+
+ 
+ d'utente e dei ricetrasmettitori delle stazioni radiobase di rete
+ 
+
+ 
+ impiegati in detti sistemi. 
+ 
+
+ 
+ Se le apparecchiature oggetto della domanda di omologazione sono
+ 
+
+ 
+ previste per funzionare in una rete pubblica, vengono accettati i
+ 
+
+ 
+ certificati di conformità basati su specifiche nazionali di un altro
+ 
+
+ 
+ stato membro della CEE o su parti di tali specifiche purchè sia
+ 
+
+ 
+ rispettato quanto previsto dalla parte 1a delle presenti Regole
+ 
+
+ 
+ Tecniche. 
+ 
+
+ 
+ Se le apparecchiature oggetto della domanda di omologazione sono
+ 
+
+ 
+ previste per funzionare in una rete privata, vengono accettati i
+ 
+
+ 
+ certificati di conformità basati su specifiche nazionali di un altro
+ 
+
+ 
+ stato membro della CEE o su parti di tali specifiche purchè sia
+ 
+
+ 
+ rispettato quanto previsto dalla parte 2a delle presenti Regole
+ 
+
+ 
+ Tecniche. 
+ 
+
+ 
+ 2. Struttura delle regole tecniche 
+ 
+
+ 
+ Le regole tecniche relative ai sistemi multiaccesso sono articolate
+ 
+
+ 
+ come segue: 
+ 
+
+ 
+ a) Parte 1a. in 4 sezioni: 
+ 
+
+ 
+ - Sezione 1. nel quale sono definite le specifiche di interfaccia ra- 
+ 
+
+ 
+ dio e le caratteristiche minime dei terminali d'utente 
+ 
+
+ 
+ idonei ad operare in rete; 
+ 
+
+ 
+ - Sezione 2. nel quale è descritto il protocollo di segnalazione tra
+ 
+
+ 
+ la rete ed i terminali d'utente; 
+ 
+
+ 
+ - Sezione 3. che riporta le procedure di prova peri terminali
+ 
+
+ 
+ d'utente relative al protocollo; 
+ 
+
+ 
+ - Sezione 4. nel quale sono specificate le caratteristiche tecniche e 
+ 
+
+ 
+ le condizioni di prova radioelettriche dei 
+ 
+
+ 
+ ricetrasmettitori delle stazioni radiobase di rete. 
+ 
+
+ 
+ Questa Parte 1a è applicabile ai sistemi multiaccesso ad uso
+ 
+
+ 
+ pubblico e a quei sistemi ad uso privato che adottano il protocollo
+ 
+
+ 
+ di segnalazione di cui al Tomo 2. 
+ 
+
+ 
+ Per quanto concerne le caratteristiche radioelettriche, per entrambi
+ 
+
+ 
+ gli usi sopracitati, si applica la regola tecnica ETSI n. ETS 300
+ 
+
+ 
+ 086: "Caratteristiche tecniche e condizioni di prova degli apparati
+ 
+
+ 
+ radio con connettore RF interno o esterno destinati principalmente a
+ 
+
+ 
+ fonia analogica". 
+ 
+
+ 
+ b) Parte 2a - Nella quale sono definite le caratteristiche tecniche e
+ 
+
+ 
+ le condizioni di prova radioelettriche dei terminali d'utente e delle
+ 
+
+ 
+ stazioni radiobase di rete per sistemi ad uso privato, qualora detti
+ 
+
+ 
+ sistemi utilizzino un protocollo di segnalazione multiaccesso diverso
+ 
+
+ 
+ da quello specificato nella Parte 1a - Sezione 2. 
+ 
+
+ 
+ Se il protocollo di segnalazione è di tipo proprietario, il
+ 
+
+ 
+ costruttore dovrà depositare presso l'Ente omologante le
+ 
+
+ 
+ informazioni relative a: 
+ 
+
+ 
+ 1) caratteristiche tecnico-funzionali del sistema in oggetto; 
+ 
+
+ 
+ 2) caratteristiche tecniche del protocollo di accesso alla rete con
+ 
+
+ 
+ la indicazione della struttura dei messaggi utilizzati. 
+ 
+
+ 
+ Per quanto concerne le caratteristiche radioelettriche e le relative
+ 
+
+ 
+ condizioni di prova: 
+ 
+
+ 
+ - nel caso di apparati radio destinati principalmente a fonia
+ 
+
+ 
+ analogica si applica la regola tecnica ETSI n. ETS 300 086; 
+ 
+
+ 
+ - nel caso di apparati radio destinati alla trasmissione di segnali
+ 
+
+ 
+ diversi dalla fonia o alla trasmissione di segnali combinati di fonia
+ 
+
+ 
+ analogica e diversi dalla fonia si applica la regola tecnica ETSI n.
+ 
+
+ 
+ I-ETS 300 113 e la regola tecnica ETSI n. ETS 300 086 per la parte
+ 
+
+ 
+ relativa alla fonia analogica quando presente. 
+ 
+
+ 
+ Per quanto riguarda la "compatibilità elettromagnetica" i sistemi
+ 
+
+ 
+ radiomobili multiaccesso, sia per servizio pubblico, sia per servizio
+ 
+
+ 
+ privato, devono essere prodotti e commercializzati ai sensi della
+ 
+
+ 
+ Direttiva 89/336 CEE ovvero secondo le regole nazionali di
+ 
+
+ 
+ trasposizione della detta Direttiva. 
+ 
+
+ 
+ PARTE I 
+ 
+
+ 
+ SPECIFICHE TECNICHE D'APPARATO 
+ 
+
+ 
+ 
+ 
+ ((CON PROTOCOLLO DI SEGNALAZIONE))
+ 
+
+ 
+ 
+
+ 
+ DI CUI ALLA PARTE I - SEZIONE 2a 
+ 
+
+ 
+ Nella presente parte 1a sono riportate sia le specifiche tecniche
+ 
+
+ 
+ necessarie e sia quelle aggiuntive atte alla certificazione di
+ 
+
+ 
+ conformità per apparati previsti per gli usi come riportato alla
+ 
+
+ 
+ nota introduttiva par 2a) della presente regola tecnica. 
+ 
+
+ 
+ 1. Caratteristiche radioelettriche e condizioni di prova 
+ 
+
+ 
+ Si applica la regola tecnica ETSI n. ETS 300 086: 
+ 
+
+ 
+ "Caratteristiche tecniche e condizioni di prova per apparati radio
+ 
+
+ 
+ con connettore RF interno o esterno destinati principalmente a fonia 
+ 
+
+ 
+ analogica" 
+ 
+
+ 
+ 2. Specifiche tecniche aggiuntive 
+ 
+
+ 
+ Sono quelle specifiche che secondo le regole ETSI, di cui al
+ 
+
+ 
+ sopracitato punto 1 è richiesto che vengano definite a cura delle
+ 
+
+ 
+ singole Amministrazioni P.T. 
+ 
+
+ 
+ 2.1 Potenza di uscita RF 
+ 
+
+ 
+ La potenza di uscita RF nominale misurata al connettore d'antenna non 
+ 
+
+ 
+ dovrà superare 
+ 
+ ((il valore nominale di 25 W))
+ 
+
+ per le stazioni 
+ 
+
+ 
+ radiobase e 
+ 
+
+ 
+ 10W per tutti i terminali d'utente, ad esclusione dei terminali
+ 
+
+ 
+ portatili, per i quali non dovrà essere superato il valore nominale
+ 
+
+ 
+ di 5W. 
+ 
+
+ 
+ 2.2 Attenuazione dell'intermodulazione in trasmissione 
+ 
+
+ 
+ Tale attenuazione, misurata secondo quanto precisato dalle
+ 
+
+ 
+ disposizioni relative alle caratteristiche radioelettriche, dovrà
+ 
+
+ 
+ essere almeno di 70 dB per ogni valore di componente di
+ 
+
+ 
+ intermodulazione e si applicherà solamente alle stazioni impiegate
+ 
+
+ 
+ come stazione base di rete, mentre dovrà essere di almeno 40 dB per
+ 
+
+ 
+ le stazioni radiobase terminale d'utente. 
+ 
+
+ 
+ 2.3 Canalizzazione 
+ 
+
+ 
+ La separazione fra i canali ammessa è la seguente: 
+ 
+
+ 
+ VHF: 12.5 KHz 
+ 
+
+ 
+ UHF: 12.5 KHz 
+ 
+
+ 
+ 2.4 Condizioni di prova a temperatura estrema 
+ 
+
+ 
+ Per condizioni di prova a temperatura estrema è definito il seguente
+ 
+
+ 
+ campo: 
+ 
+
+ 
+ -10(gradi)C (da.. a..) +50 (gradi)C 
+ 
+
+ 
+ 2.5 Limitazione di durata della conversazione 
+ 
+
+ 
+ Gli apparati terminali devono includere un dispositivo di controllo
+ 
+
+ 
+ che limiti a 5 minuti la massima durata di un impegno del canale ra-
+ 
+
+ 
+ dio (misurata a partire dall'emissione della chiamata). 
+ 
+
+ 
+ PARTE I 
+ 
+
+ 
+ SEZIONE 1a 
+ 
+
+ 
+ SPECIFICHE DI INTERFACCIA RADIO 
+ 
+
+ 
+ 1. SCOPO E OGGETTO 
+ 
+
+ 
+ 1.1. Questa specifica riguarda le caratteristiche minime per i
+ 
+
+ 
+ terminali radio d'utente (veicolari, trasportabili, portatili,
+ 
+
+ 
+ postazione radio base di dispaccio) impiegati nei sistemi per il
+ 
+
+ 
+ servizio radiomobile pubblico di dispaccio per gruppo chiuso di
+ 
+
+ 
+ utenti. 
+ 
+
+ 
+ Essa copre i seguenti aspetti: 
+ 
+
+ 
+ - protocollo di segnalazione radio (basato sul protocollo descritto
+ 
+
+ 
+ in Parte 1a, Sezione 2) 
+ 
+
+ 
+ - requisiti di radiofrequenza (aggiuntivi rispetto a ETS 300 086) 
+ 
+
+ 
+ - requisiti di interfaccia d'utente, limitatamente agli aspetti in
+ 
+
+ 
+ cui è utile la normalizzazione. 
+ 
+
+ 
+ 1.2. La presente specifica copre due tipi di requisiti: 
+ 
+
+ 
+ - quelli obbligatori in tutte le unità radio 
+ 
+
+ 
+ - quelli facoltativi in una unità radio che devono essere
+ 
+
+ 
+ implementati in maniera standard. 
+ 
+
+ 
+ 2. DOCUMENTI APPLICABILI 
+ 
+
+ 
+ Sono applicabili i seguenti documenti: 
+ 
+
+ 
+ Parte 1a, Sezione 2: "PROTOCOLLO DI SEGNALAZIONE PER TERMINALI
+ 
+
+ 
+ RADIOMOBILI DEL SERVIZIO RADIOMOBILE PUBBLICO DI DISPACCIO PER GRUPPO 
+ 
+
+ 
+ CHIUSO DI UTENTI" 
+ 
+
+ 
+ ETS 300 086: "CARATTERISTICHE TECNICHE E CONDIZIONI DI PROVA PER
+ 
+
+ 
+ APPARATI RADIO CON CONNETTORE RF INTERNO O ESTERNO DESTINATE
+ 
+
+ 
+ PRINCIPALMENTE A CONVERSAZIONI ANALOGICHE, DA USARE IN SERVIZI MOBILI 
+ 
+
+ 
+ TERRESTRI" 
+ 
+
+ 
+ 3. GENERALITà 
+ 
+
+ 
+ 3.1. Definizioni 
+ 
+
+ 
+ Nella presente specifica, i numeri di sezione riportati tra i simboli 
+ 
+
+ 
+ __ __ si riferiscono ai numeri di sezione contenuti in Parte 
+ 
+
+ 
+ 1, Sezione 2. 
+ 
+
+ 
+ Acquisizione: La condizione ottenuta grazie al completamento con
+ 
+
+ 
+ esito positivo della procedura di acquisizione del canale di
+ 
+
+ 
+ controllo per un canale di controllo, che permette ad una unità ra-
+ 
+
+ 
+ dio di trasmettere su quel canale. 
+ 
+
+ 
+ Archivio di registrazione indefinito: Archivio di registrazione che
+ 
+
+ 
+ non presenta alcuna indicazione del fatto che la rete possa o non
+ 
+
+ 
+ possa mantenere l'archivio di registrazione. 
+ 
+
+ 
+ Archivio di registrazione normale: Un archivio di registrazione in
+ 
+
+ 
+ cui c'è un'indicazione che la rete sta mantenendo l'archivio di
+ 
+
+ 
+ registrazione. 
+ 
+
+ 
+ Archivio di registrazione nulla: Un archivio di registrazione che
+ 
+
+ 
+ comprende un indicatore (NULL), unitamente ad un codice di AREA. 
+ 
+
+ 
+ Archivio di registrazione primaria: L'archivio di registrazione più
+ 
+
+ 
+ recente mantenuto dall'unità radio. Va notato che l'archivio di
+ 
+
+ 
+ registrazione primaria non comprende informazioni di temporizzazione. 
+ 
+
+ 
+ Archivio di registrazione temporanea: Si tratta di un archivio di
+ 
+
+ 
+ registrazione che contiene un'indicazione del fatto che la rete
+ 
+
+ 
+ potrebbe non conservare l'archivio di registrazione. 
+ 
+
+ 
+ Archivio di registrazione temporizzata: Archivio di registrazione
+ 
+
+ 
+ mantenuto dall'unità radio, che è stato tolto dall'archivio di
+ 
+
+ 
+ registrazione primario. Questo archivio presenta un temporizzatore TD
+ 
+
+ 
+ associato. 
+ 
+
+ 
+ Attiva su un canale: Una unità radio è attiva su un canale quando,
+ 
+
+ 
+ su quel canale, è abilitata a rispondere a messaggi ad essa rivolti,
+ 
+
+ 
+ oppure quando sta trasmettendo, oppure se è in fase di transizione
+ 
+
+ 
+ tra i due stati. 
+ 
+
+ 
+ Nota: Una unità radio diventa attiva su un canale di traffico
+ 
+
+ 
+ assegnato appena riesce a ricevere su quel canale, mentre, su un
+ 
+
+ 
+ canale di controllo non diventerà attiva fino a quando non avrà
+ 
+
+ 
+ ricevuto una parola di codice contenente il corretto codice
+ 
+
+ 
+ identificativo di sistema. 
+ 
+
+ 
+ Campo: Numero di bit adiacenti in una parola di codice, specificato
+ 
+
+ 
+ per quanto riguarda la posizione all'interno della parola di codice e
+ 
+
+ 
+ il numero dei bit. 
+ 
+
+ 
+ Canale di controllo: Un canale uscente e un canale entrante usati per
+ 
+
+ 
+ la trasmissione di messaggi in conformità con Parte 1a, Tomo 2,
+ 
+
+ 
+ aventi lo scopo principale di permettere al controllore di sistema
+ 
+
+ 
+ multiaccesso di comandare le unità radio. 
+ 
+
+ 
+ Canale di traffico: Canale uscente e canale entrante usati
+ 
+
+ 
+ primariamente per le comunicazioni tra gli utenti. 
+ 
+
+ 
+ Canale entrante: un canale radio in cui il senso di trasmissione va
+ 
+
+ 
+ dalle unità radio al controllore di sistemi multiaccesso. 
+ 
+
+ 
+ Canale uscente: Un canale radio in cui la direzione di trasmissione
+ 
+
+ 
+ va dal controllore del sistema multiaccesso alle unità radio. 
+ 
+
+ 
+ Caratterizzazione: Tutti i dati di personalizzazione della rete
+ 
+
+ 
+ caricati nell'unità radio. 
+ 
+
+ 
+ Categoria di controllo: Designazione data all'unità radio durante la
+ 
+
+ 
+ personalizzazione di rete; con essa, viene regolato il diritto di
+ 
+
+ 
+ accesso dell'unità ai canali di controllo irradiati da quella rete.
+ 
+
+ 
+ Una unità radio potrà accedere ad un canale di controllo quando il
+ 
+
+ 
+ valore del campo LAB nel codice identificativo di sistema indica che
+ 
+
+ 
+ la classe di controllo dell'unità ha il permesso di usare quel
+ 
+
+ 
+ canale. 
+ 
+
+ 
+ Chiamata: Uno scambio completo di informazioni tra due o più utenti
+ 
+
+ 
+ comprendente una o più transazioni e la possibile comunicazione
+ 
+
+ 
+ diretta utente-utente su un canale di traffico. 
+ 
+
+ 
+ Chiamata con prefisso comune: Una chiamata in cui i valori dei
+ 
+
+ 
+ prefissi negli indirizzi chiamanti e chiamati sono gli stessi. Le
+ 
+
+ 
+ chiamate con prefisso comune utilizzano procedure di indirizzamento
+ 
+
+ 
+ abbreviato. 
+ 
+
+ 
+ Chiamata di gruppo: Una chiamata in cui si specifica un indirizzo di
+ 
+
+ 
+ gruppo come utente chiamato e che, di conseguenza, fornisce un
+ 
+
+ 
+ supporto alla comunicazione tra più di due unità. L'utente
+ 
+
+ 
+ chiamante in una chiamata di gruppo può scegliere un modo di
+ 
+
+ 
+ conversazione, dove tutti gli utenti sono in grado di parlare, oppure
+ 
+
+ 
+ può scegliere un modo di annuncio, dove può parlare soltanto il
+ 
+
+ 
+ chiamante. 
+ 
+
+ 
+ Chiamata individuale: Una chiamata tra un utente chiamante ed un
+ 
+
+ 
+ unico utente chiamato. 
+ 
+
+ 
+ Chiamata interprefisso: Una chiamata in cui i valori dei prefissi
+ 
+
+ 
+ negli indirizzi del chiamante e del chiamato sono diversi. Le
+ 
+
+ 
+ chiamate interprefisso richiedono procedure di indirizzamento esteso. 
+ 
+
+ 
+ Chiamata per conversazione: Una chiamata provocata dalla ricezione di
+ 
+
+ 
+ un messaggio GTC, dove il campo "D" è "O". L'audio non è
+ 
+
+ 
+ silenziato. 
+ 
+
+ 
+ Codice di AREA verificato: Il sottocampo AREA del codice
+ 
+
+ 
+ identificativo di sistema ricevuto (SYS), utilizzato per verificare
+ 
+
+ 
+ un canale di controllo. 
+ 
+
+ 
+ Codice identificativo del sistema: Numero a 15 bit che individua un
+ 
+
+ 
+ sistema. Questo numero è inviato su ciascun canale di controllo
+ 
+
+ 
+ uscente entro il sistema (nel campo SYS). 
+ 
+
+ 
+ Conferma: Una procedura utilizzata dall'unità radio per facilitare
+ 
+
+ 
+ la selezione di un canale di controllo adeguato, allo scopo di
+ 
+
+ 
+ permettere di avviare o di continuare una sessione di un sistema. 
+ 
+
+ 
+ Controllore di sistema multiaccesso (TSC): L'intelligenza di
+ 
+
+ 
+ controllo centrale necessaria per permettere al sistema multiaccesso
+ 
+
+ 
+ di funzionare in conformità con Parte 1a, Sezione 2. Il controllore
+ 
+
+ 
+ di sistema multiaccesso può controllare una o più stazioni radio
+ 
+
+ 
+ base. 
+ 
+
+ 
+ Dati con formato libero: Dati di una parola di codice che, secondo la
+ 
+
+ 
+ presente specifica, sono fissati soltanto a livello di posizione e di
+ 
+
+ 
+ lunghezza. 
+ 
+
+ 
+ Dati di consenso all'acquisizione: Dati di personalizzazione della
+ 
+
+ 
+ rete che permettono all'unità radio di determinare - esaminando i
+ 
+
+ 
+ sottocampi relativi entro un codice identificativo di sistema
+ 
+
+ 
+ ricevuto su un canale di controllo - se l'unità radio stessa è
+ 
+
+ 
+ autorizzata ad accedere a quel canale di controllo. 
+ 
+
+ 
+ Dati non prescritti: Qualunque traffico di dati che non sia conforme
+ 
+
+ 
+ ai protocolli di dati definiti in Parte 1a, Sezione 2. 
+ 
+
+ 
+ Dati normalizzati: La procedura secondo la quale avviene uno scambio
+ 
+
+ 
+ di informazioni attraverso il protocollo dati definito nella sezione
+ 
+
+ 
+ 17 della Parte 1a, Sezione 2. 
+ 
+
+ 
+ Decodificabile: Una parola di codice trasmessa sarà considerata
+ 
+
+ 
+ decodificabile se, dopo la ricezione e dopo la correzione dell'errore
+ 
+
+ 
+ (ved. Sezione 11.3.2.3), si forma una parola di codice valida tratta
+ 
+
+ 
+ dal codice (64, 48) definito nella sezione 3.2.3. della Parte 1a,
+ 
+
+ 
+ Sezione 2. 
+ 
+
+ 
+ Deviazione Procedura con la quale un utente può richiedere che le
+ 
+
+ 
+ chiamate future verso un particolare indirizzo chiamato siano deviate
+ 
+
+ 
+ verso una destinazione alternativa. 
+ 
+
+ 
+ Disponibile per la personalizzazione: Se il controllore del sistema
+ 
+
+ 
+ multiaccesso implementa una funzione di personalizzazione di questo
+ 
+
+ 
+ tipo e se l'unità radio realizza tale funzione, essa risponderà nel
+ 
+
+ 
+ modo specificato dall'operatore di rete di quel controllore del
+ 
+
+ 
+ sistema multiaccesso. Tali funzioni non modificheranno le funzioni
+ 
+
+ 
+ normalizzate esistenti. Se l'unità radio non capisce la funzione
+ 
+
+ 
+ personalizzata nel contesto del sistema che sta utilizzando, allora
+ 
+
+ 
+ ignorerà quella funzione. L'unità radio con contravverrà ad alcuno
+ 
+
+ 
+ dei requisiti descritti nella sezione 5 della Parte 1a, Sezione 2. 
+ 
+
+ 
+ Fase di scansione: Procedura utilizzata dall'unità radio, durante le
+ 
+
+ 
+ operazioni di scansione; in questo modo, si campionano tutti i numeri
+ 
+
+ 
+ di canale applicabili al tipo di sequenza di scansione in corso, ad
+ 
+
+ 
+ un determinato livello di soglia di acquisizione. Si completa uno
+ 
+
+ 
+ stadio di scansione quando tutti i numeri di canale applicabili sono
+ 
+
+ 
+ stati campionati e quando si è tentata la conferma su ogni canale di
+ 
+
+ 
+ controllo localizzato; oppure, la fase può essere completata anche
+ 
+
+ 
+ prima, qualora si raggiunga una conferma positiva di un canale di
+ 
+
+ 
+ controllo. 
+ 
+
+ 
+ Gateway: Identificativo speciale usato per individuare un messaggio
+ 
+
+ 
+ relativo ad una chiamata o transazione proveniente o diretta a un
+ 
+
+ 
+ servizio di comunicazione esterno al sistema. Ai fini della presente
+ 
+
+ 
+ specifica, l'identificativo interprefisso, IPFIXI, è considerato
+ 
+
+ 
+ anche esso come un gateway. 
+ 
+
+ 
+ Identificativo: Numero di 13 bit usato a scopo di identificazione. Si
+ 
+
+ 
+ assegnano valori di identificativo da 1 a 8100 compreso, a singole
+ 
+
+ 
+ unità o a gruppi (ved. sezione 8.2); in questo caso, essi sono
+ 
+
+ 
+ associati ad un prefisso per formare un indirizzo a 20 bit. I valori
+ 
+
+ 
+ di identificativo al di sopra di 8100 sono designati come
+ 
+
+ 
+ identificativi speciali e questi non vengono associati ad alcun
+ 
+
+ 
+ prefisso particolare; inoltre, il valore di identificativo non può
+ 
+
+ 
+ mai essere 0 (DUMMYI). 
+ 
+
+ 
+ Identificativo speciale: Identificativo di valore superiore a 8100.
+ 
+
+ 
+ Questi identificativi sono usati per vari scopi speciali. Alcuni di
+ 
+
+ 
+ essi sono specificati nella Parte 1a, Sezione 2. altri possono essere
+ 
+
+ 
+ definiti dal gestore del sistema. Gli identificativi speciali non
+ 
+
+ 
+ sono associati ad un prefisso per formare un indirizzo. 
+ 
+
+ 
+ Inclusione: Una procedura per cui gli utenti possono essere
+ 
+
+ 
+ introdotti in una chiamata in corso, su richiesta di un utente che
+ 
+
+ 
+ sta già prendendo parte alla chiamata. 
+ 
+
+ 
+ Indirizzamento breve: Il metodo usato quando gli utenti partecipanti
+ 
+
+ 
+ ad una chiamata possono essere specificati completamente con un unico
+ 
+
+ 
+ prefisso e due identificativi. Questa forma di indirizzamento
+ 
+
+ 
+ minimizza la segnalazione richiesta. 
+ 
+
+ 
+ Indirizzamento esteso: Metodo che permette di inviare dettagli
+ 
+
+ 
+ dell'utente chiamato verso il controllore del sistema multiaccesso,
+ 
+
+ 
+ quando i dettagli della chiamata non possono essere inseriti in una
+ 
+
+ 
+ unica parola di codice di indirizzo. Questi dettagli relativi
+ 
+
+ 
+ all'utente chiamato possono essere un indirizzo oppure informazioni
+ 
+
+ 
+ di indirizzamento in forma diversa. 
+ 
+
+ 
+ Indirizzo: Un numero a 20 bit grazie al quale si riconosce un'unità
+ 
+
+ 
+ o un gruppo di unità entro un sistema. L'indirizzo comprende due
+ 
+
+ 
+ campi, un prefisso a 7 bit e un identificativo a 13 bit. 
+ 
+
+ 
+ Indirizzo di gruppo: Un indirizzo comune a più di una unità; quando
+ 
+
+ 
+ viene utilizzato come indirizzo chiamato, significa una chiamata di
+ 
+
+ 
+ gruppo. è possibile assegnare alle unità qualunque numero di
+ 
+
+ 
+ indirizzi di gruppo. 
+ 
+
+ 
+ Indirizzo individuale: Indirizzo con cui si riconosce un'unica unità
+ 
+
+ 
+ all'interno di un sistema, permettendo che quell'unità soltanto sia
+ 
+
+ 
+ indirizzata da quel sistema. è possibile assegnare alle unità
+ 
+
+ 
+ qualunque numero di indirizzi individuali purchè se ne assegni
+ 
+
+ 
+ almeno uno a ciascuna unità. 
+ 
+
+ 
+ Item. Trasmissione completa su un canale di traffico da parte di un
+ 
+
+ 
+ utente nell'ambito di una chiamata, alla fine della quale l'utente
+ 
+
+ 
+ cessa di trasmettere. è possibile che una chiamata contenga soltanto
+ 
+
+ 
+ un item. 
+ 
+
+ 
+ Memoria di Lettura/Scrittura: Un dispositivo di memoria compreso
+ 
+
+ 
+ nell'unità radio, il cui contenuto può essere modificato
+ 
+
+ 
+ dall'unità radio. 
+ 
+
+ 
+ Memoria di sola lettura: Un dispositivo di memoria della unità radio
+ 
+
+ 
+ contenente i dati di personalizzazione della rete. Il contenuto della
+ 
+
+ 
+ memoria a sola lettura non può essere modificato o integrato per
+ 
+
+ 
+ azione dell'unità radio o dell'utente. Resta inteso che il contenuto
+ 
+
+ 
+ della memoria a sola lettura sia inserito soltanto durante la fase di
+ 
+
+ 
+ personalizzazione della rete da parte di personale autorizzato. 
+ 
+
+ 
+ Messaggio: Un'unica trasmissione di dati adiacenti, costituita da una
+ 
+
+ 
+ parola di codice di sincronizzazione, da una parola di codice di
+ 
+
+ 
+ indirizzo e (in opzione) da una o più parole di codice di dati in
+ 
+
+ 
+ conformità con Parte 1a, Sezione 2. 
+ 
+
+ 
+ Messaggio dati breve: Procedura che permette di scambiare un
+ 
+
+ 
+ messaggio di dati tra gli utenti oppure tra gli utenti e il
+ 
+
+ 
+ controllore di sistema multiaccesso. Questa procedura non riguarda
+ 
+
+ 
+ messaggi che comprendano più di quattro parole di codice di dati. 
+ 
+
+ 
+ Modo di funzionamento di riserva: Tipo di funzionamento
+ 
+
+ 
+ personalizzato che può essere usato da una rete in cui vi siano
+ 
+
+ 
+ apparecchiature guaste. 
+ 
+
+ 
+ Modo di funzionamento normale: Il modo di funzionamento di una unità
+ 
+
+ 
+ radio o di un canale di controllo che non si trova in modo di
+ 
+
+ 
+ funzionamento di riserva. 
+ 
+
+ 
+ Modo di registrazione normale: Il modo di funzionamento di un canale
+ 
+
+ 
+ di controllo in cui la rete accetterà e manterrà l'archivio di
+ 
+
+ 
+ registrazione. 
+ 
+
+ 
+ Modo di registrazione temporanea: Modo di funzionamento di un canale
+ 
+
+ 
+ di controllo in cui la rete accetterà, ma potrebbe non conservare,
+ 
+
+ 
+ le richieste di registrazione. Si potrà richiedere la
+ 
+
+ 
+ riregistrazione all'unità radio quando si ritorna al modo di
+ 
+
+ 
+ registrazione normale. 
+ 
+
+ 
+ Non dedicato: Procedura che può essere adottata da un controllore di
+ 
+
+ 
+ sistema multiaccesso per cui i canali usati dal sistema possono
+ 
+
+ 
+ essere assegnati - a scelta - come canali di controllo o come canali
+ 
+
+ 
+ di traffico, secondo il carico di traffico presente sul sistema.
+ 
+
+ 
+ Quando si utilizza questa procedura, il canale di controllo attuale
+ 
+
+ 
+ viene assegnato normalmente come canale di traffico quando tutti gli
+ 
+
+ 
+ altri canali sono usati per il traffico e la struttura del canale di
+ 
+
+ 
+ controllo viene ripristinata appena possibile, per esempio,
+ 
+
+ 
+ utilizzando come canale di controllo il primo canale di traffico che
+ 
+
+ 
+ si libera. 
+ 
+
+ 
+ Non usato: Parole di codice e campi designati come a disposizione e
+ 
+
+ 
+ possono essere usati liberamente dai sistemi (cioè,
+ 
+
+ 
+ personalizzazione del sistema), purchè le condizioni della Parte 1a,
+ 
+
+ 
+ Tomo 2 non vengano a mancare. L'uso di parole di codice a
+ 
+
+ 
+ disposizione può variare da sistema a sistema. 
+ 
+
+ 
+ Obbligatorio: L'unità radio dovrà realizzare tale funzione o
+ 
+
+ 
+ struttura. 
+ 
+
+ 
+ Opzione normalizzata. Qualunque caratteristica facoltativa il cui
+ 
+
+ 
+ realizzo sia stato normalizzato nella Parte 1a, Sezione 2. Qualunque
+ 
+
+ 
+ unità che realizzi tale opzione lo farà almeno nel modo stabilito.
+ 
+
+ 
+ Per la realizzazione delle caratteristiche personalizzate, le unità
+ 
+
+ 
+ e i sistemi rispetteranno totalmente i formati normalizzati definiti
+ 
+
+ 
+ nella Parte 1a, Sezione 2. 
+ 
+
+ 
+ Parola di codice dati: Parola di codice di 64 bit, in conformità con
+ 
+
+ 
+ Parte 1a, Sezione 2, dove il primo bit è posto a "0". Le parole di
+ 
+
+ 
+ codice di dati sono concatenate ad una parola di codice di indirizzo
+ 
+
+ 
+ e completano le informazioni di quest'ultima. 
+ 
+
+ 
+ Parola di codice di indirizzo: Parola di codice di 64 bit, conforme a
+ 
+
+ 
+ Parte 1a, Sezione 2, dove il primo bit è posto a "1". Una parola di
+ 
+
+ 
+ codice di indirizzo è sempre la prima parola di codice in qualunque
+ 
+
+ 
+ messaggio e definisce la natura del messaggio. 
+ 
+
+ 
+ Personalizzazione della rete: Procedura realizzata quando
+ 
+
+ 
+ l'abbonamento ad una rete viene sottoscritto da un utente, per cui le
+ 
+
+ 
+ unità radio di quest'ultimo riceveranno dati che permetteranno loro
+ 
+
+ 
+ di funzionare correttamente su quella rete. 
+ 
+
+ 
+ Prefisso: I 7 bit più significativi di un indirizzo. Di norma, le
+ 
+
+ 
+ unità che fanno parte di una stessa flotta riceveranno lo stesso
+ 
+
+ 
+ prefisso, poichè le chiamate tra le unità e i gruppi con lo stesso
+ 
+
+ 
+ prefisso possono essere effettuate senza usare procedure di
+ 
+
+ 
+ indirizzamento esteso. Un prefisso si riferisce unicamente agli
+ 
+
+ 
+ indirizzi individuali e agli indirizzi di gruppo. 
+ 
+
+ 
+ Procedura di acquisizione del canale di controllo: Procedura
+ 
+
+ 
+ utilizzata dall'unità radio per selezionare un canale di controllo
+ 
+
+ 
+ adeguato che consenta l'avvio o la continuazione di una sessione di
+ 
+
+ 
+ un sistema. La procedura comprende la fase di scansione dei possibili
+ 
+
+ 
+ canali di controllo sottoposti ai test di conferma per determinare se
+ 
+
+ 
+ è possibile procedere all'acquisizione dello stesso. La fase di
+ 
+
+ 
+ scansione prosegue fino a quando non verrà confermata una
+ 
+
+ 
+ acquisizione. 
+ 
+
+ 
+ Pronto per il controllo delle comunicazioni (RFCC): Un dispositivo o
+ 
+
+ 
+ un sistema usato per informare l'unità del fatto che l'utente è
+ 
+
+ 
+ pronto a comunicare (ved. sezione 8.3). 
+ 
+
+ 
+ Registrazione: Procedura che conferma che una unità radio si trova
+ 
+
+ 
+ in una sessione di un sistema. Le procedure di registrazione possono
+ 
+
+ 
+ essere avviate da una domanda da parte del controllore di sistema
+ 
+
+ 
+ multiaccesso, oppure su iniziativa della unità radio, secondo le
+ 
+
+ 
+ circostanze della registrazione. 
+ 
+
+ 
+ Registrazione esplicita: Una registrazione effettuata tramite un
+ 
+
+ 
+ messaggio RQR. 
+ 
+
+ 
+ Registrazione implicita: Registrazione ottenuta in un modo diverso da
+ 
+
+ 
+ un messaggio RQR e dal relativo messaggio di riconoscimento della
+ 
+
+ 
+ rete. 
+ 
+
+ 
+ Rete: Sistemi intercollegati. 
+ 
+
+ 
+ Rete selezionata: La rete che è stata selezionata dall'utente
+ 
+
+ 
+ dell'unità radio per il momento e che è la sola rete alla quale
+ 
+
+ 
+ l'unità radio può tentare di accedere fino al momento in cui
+ 
+
+ 
+ l'utente designa una nuova rete selezionata. Nel caso in cui l'unità
+ 
+
+ 
+ radio non permetta all'utente di eseguire una selezione di rete
+ 
+
+ 
+ allora sarà disponibile una sola rete per l'accesso di quell'unità
+ 
+
+ 
+ radio, e questa rete sarà una rete selezionata. 
+ 
+
+ 
+ Riservato: Parole di codice e campi che sono designati come riservati
+ 
+
+ 
+ in Parte 1a, Sezione 2 e che sono destinati a fasi future di
+ 
+
+ 
+ normalizzazione; per il momento, non vengono usati per la
+ 
+
+ 
+ trasmissione delle informazioni. I campi riservati devono essere
+ 
+
+ 
+ impostati sul valore di default specificato in Parte 1a, Sezione 2. 
+ 
+
+ 
+ Scansione: Procedura utilizzata da una unità radio per facilitare la
+ 
+
+ 
+ selezione di un canale di controllo che permetta di avviare o di
+ 
+
+ 
+ continuare una sessione di un sistema. Il processo di scansione
+ 
+
+ 
+ consiste nel campionamento sistematico delle frequenze del canale
+ 
+
+ 
+ uscente da parte della unità radio fino a quando essa seleziona e
+ 
+
+ 
+ conferma uno dei canali uscenti che, insieme con il canale entrante
+ 
+
+ 
+ accoppiato, costituisce un canale di controllo adeguato. 
+ 
+
+ 
+ Sequenza di scansione: Procedura utilizzata dall'unità radio durante
+ 
+
+ 
+ l'operazione di scansione che consiste in uno o più stadi di
+ 
+
+ 
+ scansione. Esistono cinque sequenze di scansione: 
+ 
+
+ 
+ a. "Recupero della sequenza di un canale di controllo" 
+ 
+
+ 
+ b. "Sequenza di scansione di un unico canale" 
+ 
+
+ 
+ c. "Sequenza di scansione preferenziale" 
+ 
+
+ 
+ d. "Sequenza di scansione normale" 
+ 
+
+ 
+ e. "Sequenza di scansione totale" 
+ 
+
+ 
+ Una sequenza di scansione è completa quando tutti gli stadi di
+ 
+
+ 
+ scansione relativi a quella determinata sequenza di scansione sono
+ 
+
+ 
+ completati oppure, se si raggiunge una conferma positiva di un canale
+ 
+
+ 
+ di controllo. 
+ 
+
+ 
+ Sessione: Una sessione è un periodo di funzionamento associato ad un
+ 
+
+ 
+ sistema. Una sezione di un sistema inizia quando una unità radio
+ 
+
+ 
+ diventa attiva su un canale di controllo di quel sistema, sia dopo
+ 
+
+ 
+ l'accensione che dopo aver raggiunto lo stato di attivo su un canale
+ 
+
+ 
+ di controllo di un sistema diverso. Una sessione termina quando
+ 
+
+ 
+ l'unità radio viene spenta oppure quando comincia la sua sessione
+ 
+
+ 
+ successiva. 
+ 
+
+ 
+ Sistema: Tutte le apparecchiature richieste per fornire le funzioni
+ 
+
+ 
+ di comunicazione, associate ad uno o più codici identificativi di
+ 
+
+ 
+ sistema. I sistemi possono essere combinati per formare strutture di
+ 
+
+ 
+ comunicazione più ampie. 
+ 
+
+ 
+ Stato di riposo. Una unità radio si trova in stato di riposo su un
+ 
+
+ 
+ sistema quando è attiva su un canale, riceve un adeguato canale di
+ 
+
+ 
+ controllo dal sistema, non è attualmente interessata da uno scambio
+ 
+
+ 
+ di messaggi e non ha richieste attuali di trasferimento di messaggi. 
+ 
+
+ 
+ Stazione base: Tutti i trasmettitori e ricevitori attivati da un
+ 
+
+ 
+ controllore del sistema multiaccesso in qualunque luogo. 
+ 
+
+ 
+ Tentativo di accesso casuale: Il metodo con cui una unità radio
+ 
+
+ 
+ trasmette un messaggio non richiesto al controllore di sistema
+ 
+
+ 
+ multiaccesso su un canale di controllo. Il metodo richiede che
+ 
+
+ 
+ l'unità radio ripeta un messaggio di accesso casuale, nel caso in
+ 
+
+ 
+ cui non si riceva un messaggio di risposta entro un tempo di attesa
+ 
+
+ 
+ prefissato. In mancanza del riconoscimento adeguato, saranno
+ 
+
+ 
+ necessari altri tentativi, fino ad un numero massimo predefinito. In
+ 
+
+ 
+ questa specifica, un tentativo di accesso casuale copre il periodo
+ 
+
+ 
+ che va dall'avvio della transazione alla ricezione di un
+ 
+
+ 
+ riconoscimento adeguato, oppure alla scadenza di un tempo limite. 
+ 
+
+ 
+ Terminale di utente a connessione diretta (LU): Postazione utente a
+ 
+
+ 
+ cui si attribuisce un indirizzo individuale e che è collegata
+ 
+
+ 
+ direttamente ad un controllore di sistema multiaccesso attraverso un
+ 
+
+ 
+ dispositivo che non faccia parte dello spettro radio a cui si
+ 
+
+ 
+ riferisce la presente specifica. 
+ 
+
+ 
+ Transazione: Uno scambio completo di informazioni comprendente uno o
+ 
+
+ 
+ più messaggi tra un utente e il controllore di sistema multiaccesso,
+ 
+
+ 
+ oppure un'altro utente attraverso il controllore di sistema
+ 
+
+ 
+ multiaccesso. 
+ 
+
+ 
+ Unità chiamante. Una unità radio o un terminale di utente a
+ 
+
+ 
+ connessione diretta che richiede una chiamata. L'unità chiamante
+ 
+
+ 
+ conserva questa designazione per l'intera durata della chiamata e
+ 
+
+ 
+ tale convenzione è usata nei messaggi relativi a quella chiamata
+ 
+
+ 
+ particolare, indipendentemente dall'origine di tali messaggi. 
+ 
+
+ 
+ Unità (o gruppo) chiamata: L'unità o gruppo di unità identificata/
+ 
+
+ 
+ e da una unità chiamante come destinataria/e di una chiamata.
+ 
+
+ 
+ L'unità (o gruppo) chiamata conserva questa designazione per
+ 
+
+ 
+ l'intera durata della chiamata e questa convenzione è usata nei
+ 
+
+ 
+ messaggi relativi a quella chiamata particolare, indipendentemente
+ 
+
+ 
+ dall'origine di tali messaggi. 
+ 
+
+ 
+ Unità Radio (RU): Una stazione mobile o altro che contatta un
+ 
+
+ 
+ sistema con un terminale radiomobile normale, in conformità con la
+ 
+
+ 
+ presente specifica. 
+ 
+
+ 
+ Unità radio fissa: Una unità radio la cui antenna si trova fissa in
+ 
+
+ 
+ un luogo. 
+ 
+
+ 
+ Unità radio portatile: Un'unità radio portatile si distingue da
+ 
+
+ 
+ tutte le altre Unità radio per i seguenti criteri: 
+ 
+
+ 
+ - l'uso normale è di apparato completo della propria antenna
+ 
+
+ 
+ integrale. Qualora essa venga rimossa, l'apparato cessa di essere
+ 
+
+ 
+ considerato portatile, ma rientra nella più generica classificazione
+ 
+
+ 
+ di Unità radio; 
+ 
+
+ 
+ - la potenza massima effettivamente irradiata non supera i 5 watt; 
+ 
+
+ 
+ - l'apparato deve essere alimentato con una batteria in esso
+ 
+
+ 
+ contenuta. 
+ 
+
+ 
+ Unità richiedente: Unità radio o terminale di utente a connessione
+ 
+
+ 
+ diretta che avvia una transazione con il controllore di sistema
+ 
+
+ 
+ multiaccesso o con un'altro utente attraverso il controllore di
+ 
+
+ 
+ sistema multiaccesso. 
+ 
+
+ 
+ Unità richiesta (o Gruppo): Unità, o gruppo di unità, che prende
+ 
+
+ 
+ parte ad una transazione avviata dal controllore di sistema
+ 
+
+ 
+ multiaccesso o da un'altro utente. 
+ 
+
+ 
+ Utente: Una sorgente e/o un destinatario di informazioni di una
+ 
+
+ 
+ chiamata. Il termine copre tutte le apparecchiature presenti nella
+ 
+
+ 
+ stazione utente e, ove possibile, l'utente di tali apparecchiature.
+ 
+
+ 
+ Un utente può essere un individuo o un gruppo. 
+ 
+
+ 
+ 3.2. Condizioni di prova 
+ 
+
+ 
+ Se non specificato altrimenti, l'unità radio deve soddisfare i
+ 
+
+ 
+ requisiti di questa specifica, alle condizioni di prova definite
+ 
+
+ 
+ nella ETS 300 086 con le seguenti precisazioni ed aggiunte: 
+ 
+
+ 
+ - campo di temperatura in condizioni estreme: da -10 (gradi)C a +55 
+ 
+
+ 
+ (gradi)C 
+ 
+
+ 
+ - prove di vibrazione: 
+ 
+
+ 
+ per apparati veicolari e trasportabili; al fine di accertare
+ 
+
+ 
+ l'idoneità dell'apparato a operare su veicoli in movimento, il
+ 
+
+ 
+ costruttore dichiara sotto propria responsabilità che l'apparato è
+ 
+
+ 
+ rispondente almeno ai valori minimi di cui alla regola CEI 50-6 prova
+ 
+
+ 
+ Fc, traduzione della regola IEC 68-2-6. 
+ 
+
+ 
+ - prove di caduta: 
+ 
+
+ 
+ per apparati portatili; al fine di accertare l'idoneità
+ 
+
+ 
+ dell'apparato il costruttore dichiara sotto la propria
+ 
+
+ 
+ responsabilità che l'apparato è rispondente almeno ai valori minimi
+ 
+
+ 
+ di cui alle regole CEI, IEC sotto elencate: 
+ 
+
+ 
+ - prova di caduta libera a regola CEI 50-6 prova Ed, traduzione della 
+ 
+
+ 
+ regola IEC 68-2-32 
+ 
+
+ 
+ - prova di caduta su una faccia a regola CEI 50-6 prova Ec,
+ 
+
+ 
+ traduzione della regola IEC 68-2-31. 
+ 
+
+ 
+ 3.3. Requisiti generali 
+ 
+
+ 
+ Una Unità radio non dovrà operare in duplex. 
+ 
+
+ 
+ La funzione per la commutazione di rete è una opzione standard. 
+ 
+
+ 
+ Se implementata, è obbligatorio che la commutazione di rete sia
+ 
+
+ 
+ controllata dall'utente. L'unità radio non deve essere in grado
+ 
+
+ 
+ autonomamente di effettuare commutazioni di rete. 
+ 
+
+ 
+ Il trasferimento tra reti deve essere possibile in una unità radio
+ 
+
+ 
+ cambiandone la personalizzazione (vedi capitolo 6). 
+ 
+
+ 
+ Non è ammesso il collegamento dei terminali con utenti della rete
+ 
+
+ 
+ telefonica pubblica nazionale, neppure tramite centralino. 
+ 
+
+ 
+ 3.4. Compressore ed espansore 
+ 
+
+ 
+ Per migliorare il rapporto segnale-rumore e la qualità soggettiva di
+ 
+
+ 
+ conversazione, può essere previsto l'impiego di un compandor (stand-
+ 
+
+ 
+ ard option) con le caratteristiche di seguito indicate: 
+ 
+
+ 
+ a) Compressore di dinamica 
+ 
+
+ 
+ Applicando, all'ingresso b.f. del trasmettitore, un segnale a 1000 Hz
+ 
+
+ 
+ con un livello variabile tra -40 dB e 0 dB rispetto a quello che
+ 
+
+ 
+ produce la modulazione normale di prova, la deviazione di frequenza
+ 
+
+ 
+ all'uscita del trasmettitore deve variare con legge lineare tra 0,15
+ 
+
+ 
+ kHz e 1,5 kHz con tolleranza +/- 1 dB. 
+ 
+
+ 
+ b) Espansore di dinamica 
+ 
+
+ 
+ Applicando all'ingresso del ricevitore un segnale RF con un livello
+ 
+
+ 
+ pari a +60 dB rispetto a 1 uV, modulato a 1000 Hz con deviazione di
+ 
+
+ 
+ frequenza variabile tra 0,15 kHz e 1,5 kHz, il livello di b.f.
+ 
+
+ 
+ all'uscita del ricevitore deve variare tra -40 dB e 0 dB, rispetto al
+ 
+
+ 
+ livello corrispondente alla modulazione di prova con tolleranza +/- 2
+ 
+
+ 
+ dB. 
+ 
+
+ 
+ Le misure previste nei paragrafi 4 e 5 del presente documento,
+ 
+
+ 
+ nonchè quelle previste in ETS 300 086 devono essere effettuate con
+ 
+
+ 
+ compressore e espansore escluso. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4. PARAMETRI DEL TRASMETTITORE 
+ 
+
+ 
+ è applicabile la ETS 300 086 con le seguenti aggiunte e
+ 
+
+ 
+ precisazioni. 
+ 
+
+ 
+ 4.1. Parametri di frequenza 
+ 
+
+ 
+ 4.1.1. Spaziatura dei canali e loro designazione 
+ 
+
+ 
+ La spaziatura dei canali deve essere tale da ottimizzare
+ 
+
+ 
+ l'occupazione dello spettro radio. 
+ 
+ ((Pertanto, si prescrive, sia per
+ 
+
+ 
+ la banda VHF che per quella UHF, la canalizzazione 12,5 kHz.))
+ 
+
+ La 
+ 
+
+ 
+ designazione dei canali è la seguente: 
+ 
+
+ 
+ numero del canale campo CHAN: frequenza 
+ 
+
+ 
+ rappresentazione 
+ 
+
+ 
+ binaria del numero 
+ 
+
+ 
+ di canale 
+ 
+
+ 
+ 0001 0000000001 frequenza più bassa di 
+ 
+
+ 
+ trasmissione della R.U. 
+ 
+
+ 
+ ... .......... 
+ 
+
+ 
+ 1023 1111111111 
+ 
+
+ 
+ Non è tollerata la trasmissione al di fuori del campo di frequenza
+ 
+
+ 
+ assegnato. Tutte le unità radio funzioneranno su un qualunque canale
+ 
+
+ 
+ compreso in questo campo, verso cui sono dirette tramite messaggi di
+ 
+
+ 
+ rete ed esamineranno e, se necessario, opereranno su tale canale, in
+ 
+
+ 
+ conformità con le procedure specificate nella sezione 9. Se l'unità
+ 
+
+ 
+ radio viene diretta da un messaggio di rete a sintonizzarsi su un
+ 
+
+ 
+ qualsiasi canale al di fuori di questo campo, essa non deve
+ 
+
+ 
+ soddisfare tale messaggio ma resta sullo stesso canale su cui
+ 
+
+ 
+ quest'ultimo è stato inviato. 
+ 
+
+ 
+ 4.2. Caratteristiche di modulazione 
+ 
+
+ 
+ 4.2.1. Generalità 
+ 
+
+ 
+ Si fa riferimento ad ETS 300 086, paragrafo 4.1.4. 
+ 
+
+ 
+ 4.2.2. Modulazione della voce 
+ 
+
+ 
+ Le trasmissioni di voce utilizzeranno una caratteristica di
+ 
+
+ 
+ modulazione di fase. 
+ 
+
+ 
+ 4.2.3. Modulazione dati 
+ 
+
+ 
+ 4.2.3.1. Metodo di modulazione dati 
+ 
+
+ 
+ La modulazione dei dati normalizzati avverrà tramite modulazione di
+ 
+
+ 
+ sottoportante, applicando una modulazione fast frequency shift keying
+ 
+
+ 
+ (FFSK) ad una caratteristica di modulazione di frequenza. La voce
+ 
+
+ 
+ verrà attenuata di almeno 35 dB (misurati all'uscita del
+ 
+
+ 
+ trasmettitore) durante la trasmissione di dati normalizzati. I
+ 
+
+ 
+ parametri della modulazione saranno i seguenti: 
+ 
+
+ 
+ Velocità di trasmissione 1200 bit/sec. 
+ 
+
+ 
+ Velocità di modulazione 1200 baud 
+ 
+
+ 
+ 0 binario 1800 Hz 
+ 
+
+ 
+ 1 binario 1200 Hz 
+ 
+
+ 
+ Differenza di ampiezza 1,5 dB 
+ 
+
+ 
+ Durante la trasmissione di messaggi di mantenimento (inizio
+ 
+
+ 
+ trasmissione, periodici e fine trasmissione), la voce verrà
+ 
+
+ 
+ attenuata come segue: 
+ 
+
+ 
+ a. Durante tutti i messaggi di mantenimento, la voce sarà attenuata
+ 
+
+ 
+ di almeno 35 dB dall'inizio del preambolo alla fine del bit di
+ 
+
+ 
+ chiusura. 
+ 
+
+ 
+ b. Per i messaggi periodici e di fine trasmissione, l'attenuazione
+ 
+
+ 
+ della voce non inizierà oltre 20 ms prima dell'inizio del preambolo. 
+ 
+
+ 
+ c. Per i messaggi periodici e di inizio trasmissione l'attenuazione
+ 
+
+ 
+ verrà eliminata non più tardi di 10 ms dopo la fine del bit di
+ 
+
+ 
+ chiusura. 
+ 
+
+ 
+ Il metodo per modulare dati non normalizzati non viene descritto
+ 
+
+ 
+ nella presente specifica. 
+ 
+
+ 
+ 4.2.3.2. Deviazione di picco dei dati 
+ 
+
+ 
+ Per la modulazione di dati normalizzati. 
+ 
+
+ 
+ Canalizzazione 
+ 
+ ((. . .))
+ 
+
+ 
+ 
+
+ 
+ 12.5 kHz 
+ 
+
+ 
+ Modulazione angolare: 
+ 
+
+ 
+ Nominale 1,5 kHz (più o meno) 
+ 
+
+ 
+ 250 Hz 
+ 
+
+ 
+ Massima 1,5 kHz (più o meno) 
+ 
+
+ 
+ 500 Hz 
+ 
+
+ 
+ 4.3. Potenza del trasmettitore 
+ 
+
+ 
+ La potenza nominale della portante RF modulata, misurata al
+ 
+
+ 
+ connettore di antenna, se disponibile, quando il trasmettitore sia in
+ 
+
+ 
+ condizioni di funzionamento a regime, deve essere per tutti i canali
+ 
+
+ 
+ uguale a: 
+ 
+
+ 
+ - Veicolare a postazione radio base di dispaccio 10 W 
+ 
+
+ 
+ - Trasportabile 5 W 
+ 
+
+ 
+ - Portatile 2 oppure 5 W 
+ 
+
+ 
+ 4.4. Durata dei transitori di attacco e spegnimento del trasmettitore
+ 
+
+ 
+ Secondo la ETS 300 086 ove non in disaccordo con Parte 1a, Sezione 2
+ 
+
+ 
+ capitolo 6. 
+ 
+
+ 
+ 4.5 Compatibilità Elettromagnetica 
+ 
+
+ 
+ Si applica il punto 4.1.6 della regola ETSI ETS 300 086 solo nel caso
+ 
+
+ 
+ in cui la ditta richiedente l'omologazione non abbia presentato
+ 
+
+ 
+ alcuna certificazione di rispondenza alla Direttiva 89/336/CEE. 
+ 
+
+ 
+ 5. PARAMETRI DEL RICEVITORE 
+ 
+
+ 
+ è applicabile la ETS 300 086 con le seguenti aggiunte e
+ 
+
+ 
+ precisazioni. 
+ 
+
+ 
+ 5.1. Parametri di frequenza 
+ 
+
+ 
+ 5.1.1. Spaziatura dei canali e loro designazione 
+ 
+
+ 
+ La spaziatura dei canali deve essere tale da minimizzare 
+ 
+
+ 
+ l'occupazione dello spettro radio. 
+ 
+ ((Pertanto, si prescrive, sia 
+ 
+
+ 
+ per la banda VHF che per quella UHF, la canalizzazione 12,5 kHz.))
+ 
+
+ 
+ 
+
+ 
+ La designazione dei canali è la seguente: 
+ 
+
+ 
+ numero del canale campo CHAN: frequenza 
+ 
+
+ 
+ rappresentazione 
+ 
+
+ 
+ binaria del numero 
+ 
+
+ 
+ di canale 
+ 
+
+ 
+ 0001 0000000001 frequenza più bassa 
+ 
+
+ 
+ di ricezione della 
+ 
+
+ 
+ R.U. 
+ 
+
+ 
+ ... .......... 
+ 
+
+ 
+ 1023 1111111111 
+ 
+
+ 
+ Tutte le unità radio funzioneranno su qualunque canale compreso nel
+ 
+
+ 
+ campo assegnato verso il quale sono dirette tramite messaggi di rete
+ 
+
+ 
+ ed esamineranno e, se necessario, opereranno su quel canale, sempre
+ 
+
+ 
+ compreso in questo campo, in conformità con le procedure specificate
+ 
+
+ 
+ nella sezione 9. 
+ 
+
+ 
+ Se l'unità radio viene diretta da messaggi di rete a sintonizzarsi
+ 
+
+ 
+ su un qualsiasi canale fuori di questo campo, essa non deve
+ 
+
+ 
+ soddisfare tale messaggio ma resta sullo stesso canale su cui
+ 
+
+ 
+ quest'ultimo è stato inviato. 
+ 
+
+ 
+ 5.1.2. Commutazione di canale 
+ 
+
+ 
+ L'apparecchiatura dell'unità radio corrisponderà ai requisiti
+ 
+
+ 
+ temporali di commutazione del canale riportate in Parte 1a, Sezione
+ 
+
+ 
+ 2, Sezione 6. 
+ 
+
+ 
+ 5.2. Caratteristiche di demodulazione 
+ 
+
+ 
+ 5.2.1. Segnale di fonia 
+ 
+
+ 
+ Il demodulatore del segnale di fonia deve essere del tipo a
+ 
+
+ 
+ demodulazione di fase. 
+ 
+
+ 
+ 5.2.2. Segnali dati 
+ 
+
+ 
+ I segnali dati normalizzati ricevuti presentano una caratteristica
+ 
+
+ 
+ fast frequency shift keying (FFSK). La modulazione di dati
+ 
+
+ 
+ normalizzati è di 1200 baud FFSK, dove 1800 Hz rappresentano lo 0
+ 
+
+ 
+ binario e 1200 Hz rappresentano l'1 binario. Le unità rispetteranno
+ 
+
+ 
+ i requisiti di prestazione di errore specificati nell'Appendice A del
+ 
+
+ 
+ presente documento. 
+ 
+
+ 
+ Nota: La deviazione di picco in ricezione per i dati normalizzati
+ 
+
+ 
+ dovrà essere entro i limiti specificati nel paragrafo 4.2.3.2. Per i
+ 
+
+ 
+ dati non prescritti, la deviazione di frequenza di picco non supera 
+ 
+
+ 
+ il valore di (più o meno) 2,5 kHz per canalizzazione 12.5 kHz 
+ 
+
+ 
+ 
+ ((. . .))
+ 
+
+ . 
+ 
+
+ 
+ 5.3. Silenziamento 
+ 
+
+ 
+ L'audio (oltre che per le indicazioni di sicurezza) normalmente
+ 
+
+ 
+ sentito dall'utente sarà silenziato se si verifica una delle
+ 
+
+ 
+ condizioni seguenti: 
+ 
+
+ 
+ a. Se si instaura una chiamata in seguito alla ricezione di un
+ 
+
+ 
+ messaggio GTC (ved. Parte 1a, Sezione 2 sezione 5.4) con il bit D
+ 
+
+ 
+ posto su 1 (cioè, la chiamata è una chiamata per comunicazione
+ 
+
+ 
+ dati). 
+ 
+
+ 
+ b. Se l'unità radio non è attiva su un canale di traffico. 
+ 
+
+ 
+ 5.4 Compatibilità Elettromagnetica 
+ 
+
+ 
+ Si applica il punto 4.2.9 della regola ETSI ETS 300 086 solo nel caso
+ 
+
+ 
+ in cui la ditta richiedente l'omologazione non abbia presentato
+ 
+
+ 
+ alcuna certificazione di rispondenza alla Direttiva 89/336/CEE. 
+ 
+
+ 
+ 6. REQUISITI DI MEMORIA 
+ 
+
+ 
+ 6.1. Introduzione 
+ 
+
+ 
+ Il presente paragrafo contiene tabelle riferite ai dati e ai
+ 
+
+ 
+ parametri che devono essere memorizzati dalle unità radio, sia
+ 
+
+ 
+ temporaneamente che a lungo termine, allo scopo di svolgere le
+ 
+
+ 
+ funzioni qui definite. 
+ 
+
+ 
+ I dati e i parametri memorizzati possono essere ottenuti dall'unità
+ 
+
+ 
+ radio da varie sorgenti: 
+ 
+
+ 
+ - attraverso la personalizzazione di una rete; esempi di tali dati
+ 
+
+ 
+ sono l'indirizzo individuale dell'unità radio e i parametri
+ 
+
+ 
+ operativi che definiscono il modo di funzionamento richiesto. 
+ 
+
+ 
+ - i dati inseriti nell'unità dal costruttore; questo metodo è usato
+ 
+
+ 
+ in particolare per il numero di sicurezza dell'unità radio (ved.
+ 
+
+ 
+ sezione 7). 
+ 
+
+ 
+ - i dati ottenuti dal funzionamento sulla rete selezionata: esempi di
+ 
+
+ 
+ questi dati sono gli archivi delle registrazioni che seguono un
+ 
+
+ 
+ tentativo di registrazione da parte dell'unità radio su un canale di
+ 
+
+ 
+ controllo acquisito, oppure i dati ottenuti da messaggi di diffusione
+ 
+
+ 
+ ricevuti dalla rete selezionata. 
+ 
+
+ 
+ La presente sezione contiene una collezione dei valori fissati in
+ 
+
+ 
+ altri punti di questa specifica o in Parte 1a, Sezione 2; per avere
+ 
+
+ 
+ una definizione precisa dei requisiti di memoria, far riferimento a
+ 
+
+ 
+ tali punti. 
+ 
+
+ 
+ Le unità radio, che forniscono all'utente la funzione di
+ 
+
+ 
+ commutazione della rete selezionata, devono essere equipaggiate di
+ 
+
+ 
+ memoria adeguata per adempiere ai requisiti qui descritti per
+ 
+
+ 
+ ciascuna rete, ad eccezione del caso in cui i dati memorizzati, che
+ 
+
+ 
+ non richiedono la conservazione al cambio di rete, possono venire ad
+ 
+
+ 
+ occupare aree comuni di memoria, sufficienti per una rete singola. 
+ 
+
+ 
+ Il requisito di memorizzazione dei dati nelle unità radio dipende
+ 
+
+ 
+ dalla funzione per la quale sono necessari tali dati. Per le funzioni
+ 
+
+ 
+ obbligatorie di questa specifica la memorizzazione dei dati necessari
+ 
+
+ 
+ diventa obbligatoria, per cui tutte le unità radio forniranno la
+ 
+
+ 
+ memoria necessaria per i dati riconosciuti come obbligatori. Per
+ 
+
+ 
+ quanto riguarda le funzioni facoltative, ma che devono essere
+ 
+
+ 
+ realizzate in un modo prestabilito, la memorizzazione di dati
+ 
+
+ 
+ applicabili è obbligatoria soltanto per le unità radio che
+ 
+
+ 
+ utilizzano l'opzione. La memorizzazione di tali dati è considerata
+ 
+
+ 
+ come opzione normalizzata. Alcune funzioni sono facoltative e non
+ 
+
+ 
+ sono totalmente prescritte. Le unità radio provviste di tali opzioni
+ 
+
+ 
+ possono scegliere di seguire la procedura descritta nella presente
+ 
+
+ 
+ sezione per la memorizzazione dei dati applicabili. Tale
+ 
+
+ 
+ memorizzazione è considerata facoltativa. 
+ 
+
+ 
+ Laddove i parametri richiedono che l'unità radio misuri il tempo
+ 
+
+ 
+ trascorso (i parametri T-), l'unità radio dovrà essere in grado di
+ 
+
+ 
+ realizzare tali misurazioni, con una tolleranza del (più o meno)
+ 
+
+ 
+ 10%. 
+ 
+
+ 
+ 6.2. Tipi di memoria 
+ 
+
+ 
+ I requisiti di memoria riassunti nel presente paragrafo comprendono
+ 
+
+ 
+ la definizione del tipo di memoria applicabile a classe di dati. In
+ 
+
+ 
+ alcuni casi è permessa la valutazione, e questo viene indicato. Sono
+ 
+
+ 
+ designate quattro categorie di memoria: 
+ 
+
+ 
+ Tipo A - Memoria di sola lettura, che può essere fissata da un ente
+ 
+
+ 
+ esterno ma non per azione dell'unità radio. Questa memoria deve
+ 
+
+ 
+ permettere il ripristino di dati da parte di un ente esterno, per
+ 
+
+ 
+ permettere variazioni nei dettagli di appartenenza ad una rete
+ 
+
+ 
+ (compresi i cambiamenti relativi alle interconnessioni tra reti). 
+ 
+
+ 
+ Tipo B - Memoria di lettura/scrittura che sarà protetta dagli
+ 
+
+ 
+ effetti dovuti allo spegnimento dell'unità radio o alla rimozione
+ 
+
+ 
+ della sorgente di alimentazione dalla stessa, per cui i dati
+ 
+
+ 
+ conservati nella memoria non verranno danneggiati per almeno 120 ore
+ 
+
+ 
+ dopo tale evento. I dati possono essere conservati in una memoria di
+ 
+
+ 
+ lettura/scrittura non protetta quando il sistema è operativo e
+ 
+
+ 
+ trasferiti in una memoria protetta in caso di spegnimento o di un
+ 
+
+ 
+ altro evento equivalente. L'unità radio rifiuterà i dati conservati
+ 
+
+ 
+ nella memoria protetta, a meno che non ne venga ragionevolmente
+ 
+
+ 
+ garantita la validità. 
+ 
+
+ 
+ Tipo C - Memoria di lettura/scrittura il cui contenuto può essere
+ 
+
+ 
+ perso nell'intervallo di tempo che va dallo spegnimento dell'unità
+ 
+
+ 
+ radio all'approntamento per il funzionamento dopo la riaccensione. 
+ 
+
+ 
+ Tipo D - Memoria di sola lettura, protetta dalle misure di sicurezza
+ 
+
+ 
+ specificate nella Sezione 7. 
+ 
+
+ 
+ 6.3. Sommario delle necessità di memoria 
+ 
+
+ 
+ Le necessità di memoria dell'unità radio sono riassunte nella
+ 
+
+ 
+ Tabella 6.1. Le colonne di tale tabella contengono le informazioni
+ 
+
+ 
+ seguenti: 
+ 
+
+ 
+ Colonna 1 - un numero di serie di classe che serve unicamente a
+ 
+
+ 
+ permettere un facile riferimento alle voci del tabulato. 
+ 
+
+ 
+ Colonna 2 - una breve descrizione dei dati che devono essere
+ 
+
+ 
+ memorizzati. Per una definizione più precisa dei dati, far
+ 
+
+ 
+ riferimento alla parte della specifica indicata in colonna 9. 
+ 
+
+ 
+ Colonna 3 - categoria di memoria da utilizzare. Tipo A, B, C o D. 
+ 
+
+ 
+ Colonna 4 - il formato in bit delle classi di dati, ove specificato.
+ 
+
+ 
+ Se non viene specificato se ne indica il campo dei possibili valori.
+ 
+
+ 
+ L'Indicatore specifica che si deve registrare uno tra due possibili
+ 
+
+ 
+ stati. Dove si indica il formato del parametro (es. 13 bit), questo
+ 
+
+ 
+ sarà a solo scopo informativo e non rappresenterà una limitazione
+ 
+
+ 
+ della forma in cui l'unità radio memorizza i dati. 
+ 
+
+ 
+ Colonna 5 - numero di archivi singoli che saranno memorizzati. In
+ 
+
+ 
+ alcuni casi, il numero assegnato viene indicato come valore massimo o
+ 
+
+ 
+ minimo. 
+ 
+
+ 
+ Colonna 6 - sorgente dei dati. NP indica i dati di personalizzazione
+ 
+
+ 
+ della rete. Il termine Costruttore indica i dati inseriti nell'unità
+ 
+
+ 
+ dal costruttore. Il terminte Funzionamento indica i dati ricavati
+ 
+
+ 
+ durante il funzionamento sulla rete selezionata. 
+ 
+
+ 
+ Colonna 7 - indica se la necessità di memoria è obbligatoria (M),
+ 
+
+ 
+ un'opzione normalizzata (SO), facoltativa (O), obbligatoria per le
+ 
+
+ 
+ unità che presentano la tastiera descritta nella sezione 8.2 (MK)
+ 
+
+ 
+ oppure se si tratta di un'opzione per le unità che presentano la
+ 
+
+ 
+ tastiera (OK). 
+ 
+
+ 
+ Colonna 8 - commenti di chiarimento. 
+ 
+
+ 
+ Colonna 9 - parte del Sezione 1 o del Sezione 2 della Parte 1a, in
+ 
+
+ 
+ cui viene definito tale requisito. 
+ 
+
+ 
+ 
+ 
+
+ 
+ TABELLA 6.1 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 1 _ Prefisso
+ 
+
+ 
+ proprio _ A _ 7 bit _ 1 _ _ _ _ _ _ _ _ 2 _ Identificativo _ A _ 13
+ 
+
+ 
+ bit _ 1 _ _ _ selettivo proprio _ _ _ _ _ _ _ _ _ _ _ 3 _ Indirizzo
+ 
+
+ 
+ di _ A _ 20 bit _ 4 min _ _ _ gruppo proprio _ _ _ _ _ _ _ _ _ _ _ 4
+ 
+
+ 
+ _ Identificativo _ A _ 13 bit _ 1 _ _ _ base selettivo _ _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 5 _ Identificativo _ A _ 13 bit _ 1 _ _ _ base di gruppo _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ _ _ 6 _ Chiamate _ A _ Indicatore _ 1 _ _ _ selettive a
+ 
+
+ 
+ due _ _ _ _ _ _ o tre cifre _ _ _ _ _ _ relative alla _ _ _ _ _ _
+ 
+
+ 
+ propria flotta _ _ _ _ _ _ _ _ _ _ _ 7 _ Chiamate di _ A _ Indicatore
+ 
+
+ 
+ _ 1 _ _ _ gruppo a due o _ _ _ _ _ _ tre cifre _ _ _ _ _ _ relative
+ 
+
+ 
+ alla _ _ _ _ _ _ propria flotta _ _ _ _ _ _ _ _ _ _ _ 8 _
+ 
+
+ 
+ Identificativo _ A _ 13 bit _ 1 _ _ _ selettivo più _ _ _ _ _ _ alto
+ 
+
+ 
+ permesso _ _ _ _ _ _ per la propria _ _ _ _ _ _ flotta _ _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 9 _ Identificativo _ A _ 13 bit _ 1 _ _ _ di gruppo più _ _
+ 
+
+ 
+ _ _ _ _ alto permesso per _ _ _ _ _ _ la propria flotta _ _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 1 _ NP _ M _ _ __4__ _ _ _ _ _ _ _ _ 2 _ NP _ M _ _ __4__ _ _
+ 
+
+ 
+ _ _ _ _ _ _ 3 _ NP _ M _ Chiamate di gruppo in _ __1__ _ _ _ _ _
+ 
+
+ 
+ arrivo a cui si deve _ _ _ _ _ _ rispondere _ _ _ _ _ _ _ _ _ 4 _ NP
+ 
+
+ 
+ _ MK _ _8.2.3 _ _ _ _ _ _ _ _ 5 _ NP _ MK _ _8.2.3 _ _ _ _ _ _ _ _ 6
+ 
+
+ 
+ _ NP _ MK _ Potrebbe essere ricavato_8.2.1 _ _ _ _ _ dalla forma _ _
+ 
+
+ 
+ _ _ _ _ dell'Identificativo _ _ _ _ _ _ selettivo più alto _ _ _ _ _
+ 
+
+ 
+ _ permesso per la propria _ _ _ _ _ _ flotta (CLASSE 8) se _ _ _ _ _
+ 
+
+ 
+ _ memorizzato in forma di _ _ _ _ _ _ cifre selezionate _ _ _ _ _ _ _
+ 
+
+ 
+ _ _ 7 _ NP _ MK _ Potrebbe essere ricavato_8.2.1 _ _ _ _ _ dalla
+ 
+
+ 
+ forma _ _ _ _ _ _ dell'Identificativo di _ _ _ _ _ _ gruppo più alto
+ 
+
+ 
+ _ _ _ _ _ _ permesso per la propria _ _ _ _ _ _ flotta (CLASSE 9) se
+ 
+
+ 
+ _ _ _ _ _ _ memorizzato in forma di _ _ _ _ _ _ cifre selezionate _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ 8 _ NP _ MK _ Potrebbe essere _8.2.4 _ _ _ _ _
+ 
+
+ 
+ memorizzato come numero _ _ _ _ _ _ selezionato piuttosto _ _ _ _ _ _
+ 
+
+ 
+ che come identificativo _ _ _ _ _ _ _ _ _ 9 _ NP _ MK _ Potrebbe
+ 
+
+ 
+ essere _8.2.4 _ _ _ _ _ memorizzato come numero _ _ _ _ _ _
+ 
+
+ 
+ selezionato piuttosto _ _ _ _ _ _ che come identificativo _ _ _ _ _ _
+ 
+
+ 
+ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 10 _
+ 
+
+ 
+ Destinazione con _ A _ Non _ 10 max _ _ _ numero ad una _ _
+ 
+
+ 
+ specificato _ _ _ _ cifra _ _ _ _ _ _ _ _ _ _ _ 11 _ Tavola di _ A _
+ 
+
+ 
+ Non _ Non _ _ _ riferimento per _ _ specificato _ specificato _ _ _
+ 
+
+ 
+ chiamate a 5 cifre_ _ _ _ _ _ fra flotte _ _ _ _ _ _ _ _ _ _ _ 12 _
+ 
+
+ 
+ Blocco delle _ A _ Indicatore _ 1 _ _ _ chiamate di gruppo_ _ _ _ _ _
+ 
+
+ 
+ fra flotte _ _ _ _ _ _ _ _ _ _ _ 13 _ Accesso immediato _ A _ 13 bit
+ 
+
+ 
+ _ 1 o 2 _ _ _ *O(cancelletto) _ _ _ _ _ _e *Onn(cancelletto)_ _ _ _ _
+ 
+
+ 
+ _ _ _ _ _ _ 14 _ Limite massimo _ A _ 8 bit _ 1 _ _ _ per la
+ 
+
+ 
+ selezione _ _ _ _ _ _ abbreviata ** _ _ _ _ _ _ _ _ _ _ _ 15 _
+ 
+
+ 
+ Indirizzo _ A _ Non definito _ 1 _ _ _ immediato _ _ _ _ _ _
+ 
+
+ 
+ *9(cancelletto) _ _ _ _ _ _ _ _ _ _ _ 16 _ Dati di consenso _ A _ 9
+ 
+
+ 
+ bit max. _ 8 min. _ _ _ all'acquisizione _ _ Oltre al _ _ _ _ _ _
+ 
+
+ 
+ classificatore _ _ _ _ _ _ non specificato_ _ _ _ _ _ _ _ _ 17 _
+ 
+
+ 
+ Lunghezza del _ A _ Campo 0-9 bit _ 1 _ _ _ sottocampo di _ _ _ _ _ _
+ 
+
+ 
+ zona (LZ) _ _ _ _ _ _ _ _ _ _ _ 18 _ Lunghezza del _ A _ Campo 0-9
+ 
+
+ 
+ bit _ 1 _ _ _ sottocampo di _ _ _ _ _ _ area (LA) _ _ _ _ _ _ _ _ _ _
+ 
+
+ 
+ _ 19 _ Codice di _ A _ NET - 2 bit _ 1 _ _ _ identità della _ _ OPID
+ 
+
+ 
+ - 7 bit _ _ _ _ rete selezionata _ _ _ _ _ _ _ _ _ _ _ 20 _ Categoria
+ 
+
+ 
+ di _ A _ 4 valori _ 1 _ _ _ controllo _ _ possibili _ _ _ _
+ 
+
+ 
+ dell'unità radio _ _ _ _ _ _ _ _ _ _ _ 21 _ Numeri di canale _ A _
+ 
+
+ 
+ 10 bit + _ 32 _ _ _ a scansione _ _ Indicatore TS _ _ _ _ normale _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 10 _ NP _ OK _ Destinazione _8.2.4.1._ _ _ _ _ applicabile
+ 
+
+ 
+ alle cifre _ _ _ _ _ _ 0-9. _ _ _ _ _ _ _ _ _ 11 _ NP _ OK _
+ 
+
+ 
+ _8.2.4.5._ _ _ _ _ _ _ _ 12 _ NP _ MK _ _8.2.4.8._ _ _ _ _ _ _ _ 13 _
+ 
+
+ 
+ NP _ OK _ Indirizzo di dispaccio _8.2.8.2._ _ _ _ _ primario _ _ _ _
+ 
+
+ 
+ _ _ _ _ _ 14 _ NP _ OK _ _8.2.8.1._ _ _ _ _ _ _ _ 15 _ NP _ OK _
+ 
+
+ 
+ Numero di emergenza _8.2.8.2._ _ _ _ _ primario _ _ _ _ _ _ _ _ _ 16
+ 
+
+ 
+ _ NP _ M _ _9.3.4.2._ _ _ _ _ _ _ _ 17 _ NP _ M _ _9.3.4.2._ _ _ _ _
+ 
+
+ 
+ _ _ _ 18 _ NP _ M _ _9.3.4.2._ _ _ _ _ _ _ _ 19 _ NP _ M _ è
+ 
+
+ 
+ necessario _9.3.4.2._ _ _ _ _ differenziare i valori _ _ _ _ _ _ a 2
+ 
+
+ 
+ bit e a 7 bit _ _ _ _ _ _ _ _ _ 20 _ NP _ M _ Scelta di campo LAB
+ 
+
+ 
+ _9.5.3. _ _ _ _ _ _ _ _ 21 _ NP _ M _ _9.2.1 _ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 22 _ Formato
+ 
+
+ 
+ della _ A _ Campo da 1 a _ 1 _ _ _ scansione normale _ _ 32 _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 23 _ N. di canale più _ A _ 10 bit _ 1 _ _ _ basso della
+ 
+
+ 
+ rete _ _ _ _ _ _ _ _ _ _ _ 24 _ N. di canale più _ A _ 10 bit _ 1 _
+ 
+
+ 
+ _ _ alto della rete _ _ _ _ _ _ _ _ _ _ _ 25 _ Numeri di canale _ A _
+ 
+
+ 
+ 10 bit _ Non _ _ _ non applicabili _ _ _ specificato _ _ _ _ _ _ _ _
+ 
+
+ 
+ 26 _ Ultimo canale di _ C _ 10 bit _ 1 _ _ _ controllo attivo _ _ _ _
+ 
+
+ 
+ _ _ - Numero canale _ _ _ _ _ _ _ _ _ _ _ 27 _ Ultimo canale di _ C _
+ 
+
+ 
+ 12 bit _ 1 _ _ _ controllo attivo _ _ _ _ _ _ - Codice SYS usato_ _ _
+ 
+
+ 
+ _ _ _ per conferma _ _ _ _ _ _ _ _ _ _ _ 28 _ Aggiungere numeri _ C _
+ 
+
+ 
+ 10 bit + _ Non _ _ _ di canali alla _ _ Indicatore TS _ specificato _
+ 
+
+ 
+ _ _ scansione normale _ _ _ _ _ _ _ _ _ _ _ 29 _ Sottrarre numeri _ C
+ 
+
+ 
+ _ 10 bit _ Non _ _ _ di canali alla _ _ _ specificato _ _ _ scansione
+ 
+
+ 
+ normale _ _ _ _ _ _ _ _ _ _ _ 30 _ Informazioni _ C _ 10 bit+non _ 15
+ 
+
+ 
+ _ _ _ relative al sito _ _ spec. _ _ _ _ adiacente _ _ _ _ _ _ _ _ _
+ 
+
+ 
+ _ _ 31 _ Sopprimere _ A _ Indicatore _ 1 _ _ _ scansione _ _ _ _ _ _
+ 
+
+ 
+ generale _ _ _ _ _ _ _ _ _ _ _ 32 _ Archivio _ C _ Campo 0-9 bit _ 2
+ 
+
+ 
+ _ _ _ registrazione _ _ più Indicatore_ _ _ _ temporizzata _ _ Nullo
+ 
+
+ 
+ _ _ _ _ Codice AREA _ _ _ _ _ _ _ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 22 _ NP _ M _ Potrebbe essere _9.3.3.5 _ _ _ _ _ conseguito
+ 
+
+ 
+ con valori _ _ _ _ _ _ nulli dei numeri di _ _ _ _ _ _ canale _ _ _ _
+ 
+
+ 
+ _ _ _ _ _ 23 _ NP _ M _ _9.2.1 _ _ _ _ _ _ _ _ 24 _ NP _ M _ _9.2.1 _
+ 
+
+ 
+ _ _ _ _ _ _ _ 25 _ NP _ O _ Canali che possono _9.3.3.5 _ _ _ _ _
+ 
+
+ 
+ essere omessi nella _ _ _ _ _ _ Scansione Generale _ _ _ _ _ _ _ _ _
+ 
+
+ 
+ 26 _ Funzionamento _ M _ _9.2.1 _ _ _ _ _ _ _ _ 27 _ Funzionamento _
+ 
+
+ 
+ M _ _9.4.1 _ _ _ _ _ _ _ _ 28 _ Funzionamento _ SO _ Ottenuto da
+ 
+
+ 
+ BCAST _9.2.2 ._ _ _ _ _ SYSDEF ="00000" _ _ _ _ _ _ _ _ _ 29 _
+ 
+
+ 
+ Funzionamento _ SO _ Ottenuto da BCAST _9.2.2 _ _ _ _ _ SYSDEF =
+ 
+
+ 
+ "00001" _ _ _ _ _ _ _ _ _ 30 _ Funzionamento _ O _ Uso di BCAST
+ 
+
+ 
+ SYSDEF _9.2.2 _ _ _ _ _ "00100" e "00101" non _ _ _ _ _ _ specificato
+ 
+
+ 
+ _ _ _ _ _ _ _ _ _ 31 _ NP _ M _ _9.3.3.5._ _ _ _ _ _ _ _ 32 _
+ 
+
+ 
+ Funzionamento _ M _ _10.2.1 _ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 33 _ Archivio _
+ 
+
+ 
+ C _ 10 bit _ 2 _ _ _ registrazione _ _ _ _ _ _ temporizzata _ _ _ _ _
+ 
+
+ 
+ _ Numero di canale _ _ _ _ _ _ _ _ _ _ _ 34 _ Archivio _ C _ 2 bit _
+ 
+
+ 
+ 2 _ _ _ registrazione _ _ _ _ _ _ temporizzata _ _ _ _ _ _
+ 
+
+ 
+ Segnalazione di _ _ _ _ _ _ registrazione _ _ _ _ _ _ _ _ _ _ _ 35 _
+ 
+
+ 
+ Archivio _ B _ Campo 0-9 bit _ 1 _ _ _ registrazione _ _ più
+ 
+
+ 
+ Indicatore_ _ _ _ primaria _ _ Nullo _ _ _ _ Codice AREA _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ _ 36 _ Archivio _ B _ 10 bit _ 1 _ _ _ registrazione _ _ _ _
+ 
+
+ 
+ _ _ primaria Numero _ _ _ _ _ _ di canale _ _ _ _ _ _ _ _ _ _ _ 37 _
+ 
+
+ 
+ Archivio _ B _ 2 bit _ 2 _ _ _ registrazione _ _ _ _ _ _ primaria _ _
+ 
+
+ 
+ _ _ _ _ Indicatore di _ _ _ _ _ _ registrazione _ _ _ _ _ _ _ _ _ _ _
+ 
+
+ 
+ 38 _ Registrazione _ C _ Campo 0-9 bit _ 8 min. _ _ _ respinta _ _ _
+ 
+
+ 
+ _ _ _ Codice AREA _ _ _ _ _ _ _ _ _ _ _ 39 _ REG - Indicatore _ B _ 1
+ 
+
+ 
+ bit (più _ 1 _ _ _ di registrazione _ _ inditore di _ _ _ _
+ 
+
+ 
+ temporanea o _ _ stato _ _ _ _ normale _ _ "indefinito") _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ 40 _ Valore di INFO da _ A _ 15 bit _ 1 _ _ _ usare in RQR _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ _ _ 41 _ Numero di canale _ A _ 10 bit _ 1 _ _ _ per
+ 
+
+ 
+ funzionamento _ _ _ _ _ _ di riserva _ _ _ _ _ _ _ _ _ _ _ 42 _
+ 
+
+ 
+ Valore di NDD in _ A _ 4 bit o _ 1 _ _ _ codice SYS per _ _ 9 bit _ _
+ 
+
+ 
+ _ _ funzionamento di _ _ _ _ _ _ riserva _ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 33 _ Funzionamento _ SO _ _10.2. _ _ _ _ _ _ _ _ 34 _
+ 
+
+ 
+ Funzionamento _ M _ _10.2. _ _ _ _ _ _ _ _ 35 _ Funzionamento _ M _
+ 
+
+ 
+ _10.2. _ _ _ _ _ _ _ _ 36 _ Funzionamento _ SO _ _10.2. _ _ _ _ _ _ _
+ 
+
+ 
+ _ 37 _ Funzionamento _ M _ _10.2. _ _ _ _ _ _ _ _ 38 _ Funzionamento
+ 
+
+ 
+ _ M _ Memoria FIFO _10.2. _ _ _ _ _ _ _ _ 39 _ Funzionamento _ M _
+ 
+
+ 
+ Ricevuto in BCAST _10.2. _ _ _ _ _ SYSDEF "00011" _ _ _ _ _ _ _ _ _
+ 
+
+ 
+ 40 _ NP _ M _ Per assunzione tutti _118.2.2._ _ _ _ _ zero _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 41 _ NP _ SO _ Se impostato a zero, _13.2. _ _ _ _ _
+ 
+
+ 
+ disabilita la riserva _ _ _ _ _ _ _ _ _ 42 _ NP _ SO _ _13.2. _ _ _ _
+ 
+
+ 
+ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 43 _ Numero di
+ 
+
+ 
+ serie _ D _ 38 bit _ 1 _ _ _ di sicurezza _ _ _ _ _ _ _ _ _ _ _ 44 _
+ 
+
+ 
+ NA - Numero di _ M _ Campo da 1 a 3 _ 1 _ _ _ registrazioni _ _ con
+ 
+
+ 
+ incrementi _ _ _ _ multiple _ _ di 1 _ _ _ _ _ _ _ _ _ 45 _ NC1 -
+ 
+
+ 
+ Formato del _ A _ Parole di _ 2 _ _ _ Campione di _ _ codice 0-25
+ 
+
+ 
+ con_ _ _ _ Verifica Errore _ _ incrementi di 1_ _ _ _ prima della _ _
+ 
+
+ 
+ _ _ _ _ conferma _ _ _ _ _ _ _ _ _ _ _ 46 _ NC2 - Formato del _ A _
+ 
+
+ 
+ Parole di _ 2 _ _ _ Campione di _ _ codice 0-255 _ _ _ _ Verifica
+ 
+
+ 
+ errore _ _ con incrementi _ _ _ _ dopo la conferma _ _ di 1 _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 47 _ NT - Massimo _ A _ Periodi di 103 _ 1 _ _ _ ritardo di _
+ 
+
+ 
+ _ -1236 bit, con _ _ _ _ risposta del TSC _ _ incrementi di _ _ _ _ a
+ 
+
+ 
+ messaggi non _ _ periodi di 103 _ _ _ _ sollecitati sul _ _ bit _ _ _
+ 
+
+ 
+ _ canale di traffico_ _ _ _ _ _ _ _ _ _ _ 48 _ NV - Numero di _ A _
+ 
+
+ 
+ 1-16 con _ 2 . _ _ _ CCSC consecutivi _ _ incrementi di 1_ _ _ _ per
+ 
+
+ 
+ selezionare un_ _ _ _ _ _ valore di SYS da _ _ _ _ _ _ verificare _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ _ _ 49 _ NX1 - Limite di _ A _ Parole codice _ 2 _ _ _
+ 
+
+ 
+ Parole codice di _ _ 0-255 con _ _ _ _ errore prima della_ _
+ 
+
+ 
+ incrementi di _ _ _ _ conferma _ _ 1 _ _ _ _ _ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 43 _ Costruttore _ M _ _7 _ _ _ _ _ _ _ _ 44 _ Funzionamento
+ 
+
+ 
+ _ M _ Ricevuto in BCAST _10.2.1 _ _ _ _ _ SYSDEF "00011" _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ 45 _ NP _ M _ Valore diverso per i _ _ _ _ _ _ canali a
+ 
+
+ 
+ divisione di _ _ _ _ _ _ tempo e continui. Il _ _ _ _ _ _ valore
+ 
+
+ 
+ massimo potrà _ _ _ _ _ _ essere abbassato in _ _ _ _ _ _ seguito. _
+ 
+
+ 
+ _ _ _ _ _ _ _ _ 46 _ NP _ M _ Valore diverso per _9.3.4.3 _ _ _ _ _
+ 
+
+ 
+ canali a divisione di _ _ _ _ _ _ tempo e continui. Il _ _ _ _ _ _
+ 
+
+ 
+ valore massimo potrà _ _ _ _ _ _ essere abbassato in _ _ _ _ _ _
+ 
+
+ 
+ seguito. _ _ _ _ _ _ _ _ _ 47 _ NP _ SO _ ___APP.1__ _ _ _ _ _ _ _ 48
+ 
+
+ 
+ _ NP _ M _ Valore diverso per i _9.3.4.2._ _ _ _ _ canali a divisione
+ 
+
+ 
+ di _ _ _ _ _ _ tempo e continui. _ _ _ _ _ _ _ _ _ 49 _ NP _ M _
+ 
+
+ 
+ Valore diverso per i _9.3.4.3 _ _ _ _ _ canali a divisione di _ _ _ _
+ 
+
+ 
+ _ _ tempo e continui. Il _ _ _ _ _ _ valore massimo potrà _ _ _ _ _
+ 
+
+ 
+ _ essere abbassato in _ _ _ _ _ _ seguito _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 50 _ NX2 -
+ 
+
+ 
+ Limite di _ A _ Parole di _ 2 _ _ _ Parole di codice _ _ codice 0-255
+ 
+
+ 
+ _ _ _ _ di errore dopo la _ _ con incrementi _ _ _ _ conferma _ _ di
+ 
+
+ 
+ 1 _ _ _ _ _ _ _ _ _ 51 _ NZ1 - Numero di _ A _ 1-255 eventi _ 1 _ _ _
+ 
+
+ 
+ eventi errore _ _ errore con _ _ _ _ contigui _ _ incrementi di 1_ _
+ 
+
+ 
+ _ _ _ _ _ _ _ 52 _ NZ2 - Numero di _ A _ 1-255 eventi _ 1 _ _ _
+ 
+
+ 
+ eventi errore _ _ errore con _ _ _ _ contigui _ _ incrementi di 1_ _
+ 
+
+ 
+ _ _ _ _ _ _ _ 53 _ TC - Tempo limite _ A _ 0-120 sec. con _ 1 _ _ _
+ 
+
+ 
+ ad accesso casuale_ _ incrementi da _ _ _ _ _ _ _ _ _ 54 _ TD - Tempo
+ 
+
+ 
+ limite _ A _ 0-70 minuti _ 1 _ _ _ dell'archivio di _ _ con
+ 
+
+ 
+ incrementi _ _ _ _ registrazione _ _ di 5 min. _ _ _ _ _ _ _ _ _ 55 _
+ 
+
+ 
+ TJ - Tempo limite _ A _ 0-60 sec. con _ 1 _ _ _ per segnalazione _ _
+ 
+
+ 
+ incrementi di _ _ _ _ ulteriore _ _ 10 sec. _ _ _ _ _ _ _ _ _ 56 _ TM
+ 
+
+ 
+ - Tempo limite _ A _ 0-10 sec. con _ 1 _ _ _ per canale di _ _
+ 
+
+ 
+ incrementi di _ _ _ _ traffico _ _ 1 sec. _ _ _ _ _ _ _ _ _ 57 _ TS -
+ 
+
+ 
+ Ritardo _ A _ 0-10 sec. con _ 1 _ _ _ prima di _ _ incrementi di _ _
+ 
+
+ 
+ _ _ abbandonare un _ _ 1 sec. _ _ _ _ canale di _ _ _ _ _ _ controllo
+ 
+
+ 
+ _ _ _ _ _ _ _ _ _ _ _ 58 _ TT - Durata _ A _ 0-60 sec. con _ 1 _ _ _
+ 
+
+ 
+ massima di _ _ incrementi di _ _ _ _ trasmissione _ _ 10 sec. _ _ _ _
+ 
+
+ 
+ _ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 50 _ NP _ M _ Valore diverso per i _9.3.4.3 _ _ _ _ _ canali
+ 
+
+ 
+ a divisione di _ _ _ _ _ _ tempo e continui. Il _ _ _ _ _ _ valore
+ 
+
+ 
+ massimo potrà _ _ _ _ _ _ essere ridotto in _ _ _ _ _ _ seguito. _ _
+ 
+
+ 
+ _ _ _ _ _ _ _ 51 _ NP _ M _ Il valore massimo potrà_9.3.4.4 _ _ _ _
+ 
+
+ 
+ _ essere abbassato in _ _ _ _ _ _ seguito _ _ _ _ _ _ _ _ _ 52 _ NP _
+ 
+
+ 
+ M _ Il valore massimo potrà_9.4 _ _ _ _ _ essere abbassato in _ _ _
+ 
+
+ 
+ _ _ _ seguito _ _ _ _ _ _ _ _ _ 53 _ NP _ M _ _App. B _ _ _ _ _
+ 
+
+ 
+ ___App.1__ _ _ _ _ _ _ _ 54 _ NP _ M _ _10.2.1 _ _ _ _ _ _ _ _ 55 _
+ 
+
+ 
+ NP _ M _ _App.B _ _ _ _ _ ___App.1__ _ _ _ _ _ _ _ 56 _ NP _ M _
+ 
+
+ 
+ _App.B _ _ _ _ _ ___App.1__ _ _ _ _ _ _ _ 57 _ NP _ M _ _App.B _ _ _
+ 
+
+ 
+ _ _ ___App.1__ _ _ _ _ _ _ _ 58 _ NP _ M _ _App.B _ _ _ _ _
+ 
+
+ 
+ ___App.1__ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ CLASSE DI DATI _ TIPO DI _ FORMATO CLASSE _ No _ _ _ _
+ 
+
+ 
+ MEMORIA _ /CAMPO VALORI _ INSERIMENTI _ _ _ _ _ _ _ _ 59 _ WT -
+ 
+
+ 
+ Parametro di _ C _ 3 bit _ 1 _ _ _ attesa nel _ _ _ _ _ _
+ 
+
+ 
+ funzionamento _ _ _ _ _ _ _ _ _ _ _ 60 _ Ultimo valore di _ C _ 1 bit
+ 
+
+ 
+ _ 1 _ _ _ PER _ _ _ _ _ _ _ _ _ _ _ 61 _ Ultimo valore di _ C _ 5 bit
+ 
+
+ 
+ _ 1 _ _ _ IVAL _ _ _ _ _ _ _ _ _ _ _ 62 _ Ultimo valore di _ C _ 1
+ 
+
+ 
+ bit _ 1 _ _ _ PON _ _ _ _ _ _ _ _ _ _ _ 63 _ Ultimo valore di _ C _ 1
+ 
+
+ 
+ bit _ 1 _ _ _ ID _ _ _ _ _ _ _ _ _ _ _ 64 _ ZONA "Home" _ A _ Campo
+ 
+
+ 
+ 0-9 bit _ 1 _ _ _ _ _ _ _ _ 65 _ TU - Timer di _ A _ 30 sec - 3 min _
+ 
+
+ 
+ 1 _ _ _ durata chiamata _ _ con incrementi _ _ _ _ dati _ _ di 30
+ 
+
+ 
+ sec. _ _ _ _ _ _ _ _ _ 66 _ Soppress. timer _ A _ Indicatore _ 1 _ _
+ 
+
+ 
+ _ durata chiamata _ _ _ _ _ _ dati _ _ _ _ 
+ 
+
+ 
+ SEGUE 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ NUM. _ SORGENTE DATI _ M/O _ COMMENTI _ RIF. _ _ _ _ SO _ _ _ _ _ _
+ 
+
+ 
+ _ _ _ _ 59 _ Funzionamento _ M _ Memorizzazione ___7.3.7__ _ _ _ _
+ 
+
+ 
+ dell'ultimo valore di _ _ _ _ _ _ WAIT dato _ _ _ _ _ _ _ _ _ 60 _
+ 
+
+ 
+ Funzionamento _ M _ RICEVUTO IN BCAST ___9.2.2._ _ _ _ _ SYSDEF
+ 
+
+ 
+ "00010" _ _ _ _ _ _ _ _ _ 61 _ Funzionamento _ M _ Ricevuto in BCAST
+ 
+
+ 
+ ___9.2.2._ _ _ _ _ SYSDEF "00010" _ _ _ _ _ _ _ _ _ 62 _
+ 
+
+ 
+ Funzionamento _ M _ Ricevuto in BCAST ___9.2.2._ _ _ _ _ SYSDEF
+ 
+
+ 
+ "00010" ___App.1__ _ _ _ _ _ _ _ 63 _ Funzionamento _ M _ Ricevuto in
+ 
+
+ 
+ BCAST ___9.2.2._ _ _ _ _ SYSDEF "00010" _ _ _ _ _ _ _ _ _ 64 _ NP _ M
+ 
+
+ 
+ _ _10.2.1 _ _ _ _ _ _ _ _ 65 _ NP _ SO _ _12.4 _ _ _ _ _ _ _ _ 66 _
+ 
+
+ 
+ NP _ SO _ _12.4 _ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7. PROTEZIONE 
+ 
+
+ 
+ L'unità radio soddisferà i requisiti seguenti: 
+ 
+
+ 
+ 1. Ogni unità radio avrà un numero di protezione unico a 38 bit
+ 
+
+ 
+ (che può essere memorizzato codificato) che sarà programmato
+ 
+
+ 
+ soltanto dal costruttore dell'unità stessa. 
+ 
+
+ 
+ Tale costruttore farà in modo di assicurare che: 
+ 
+
+ 
+ a. il metodo di programmazione del numero di protezione sia noto
+ 
+
+ 
+ soltanto al costruttore stesso; 
+ 
+
+ 
+ b. qualunque modifica del numero di protezione che non sia fatta dal
+ 
+
+ 
+ costruttore stesso disabiliti l'unità radio. 
+ 
+
+ 
+ 2. L'unità radio sarà progettata in modo che l'asportazione del
+ 
+
+ 
+ dispositivo (o di qualcuno dei dispositivi) contenente il numero di
+ 
+
+ 
+ protezione avrà una elevata probabilità di causare un danno
+ 
+
+ 
+ irreparabile all'unità e/o al/i dispositivo/i (es. ricoprendo la
+ 
+
+ 
+ PROM contenente il numero di protezione e la zona immediatamente
+ 
+
+ 
+ circostante con resina epossidica). 
+ 
+
+ 
+ 3. La rimozione di qualunque dispositivo contenente il numero di
+ 
+
+ 
+ protezione o parte di esso disabiliterà l'unità radio. 
+ 
+
+ 
+ 4. L'unità radio non conterrà il metodo con cui sono calcolati gli
+ 
+
+ 
+ 8 bit di controllo definiti in seguito. 
+ 
+
+ 
+ 5. Il numero di protezione (esclusi i bit di controllo, ved. in
+ 
+
+ 
+ seguito) dell'unità radio sarà marcato visibilmente e in modo
+ 
+
+ 
+ permanente su una parte dell'unità radio che non possa essere
+ 
+
+ 
+ separata dal dispositivo contenente il numero di protezione senza
+ 
+
+ 
+ causare danni. è preferibile che tale numero sia visibile dopo aver
+ 
+
+ 
+ eseguito un minimo smontaggio dell'unità radio. 
+ 
+
+ 
+ 6. Si raccomanda di eseguire un controllo sulla validità del numero
+ 
+
+ 
+ di sicurezza contenuto nell'unità radio, usando dei bit di controllo
+ 
+
+ 
+ diversi rispetto agli 8 bit di controllo definiti in seguito in modo
+ 
+
+ 
+ che l'unità radio sia disabilitata se i bit di controllo sono
+ 
+
+ 
+ diversi. 
+ 
+
+ 
+ 7. Il formato del numero di protezione è il seguente: 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ Codice _ Modello _ Numero di serie _ Bit di controllo _ _
+ 
+
+ 
+ costruttore _ _ di questo modello _ _ _ _ _ _ _ 8 bit 4 bit 18
+ 
+
+ 
+ bit 8 bit 
+ 
+
+ 
+ Nota: Il numero di protezione non deve necessariamente essere
+ 
+
+ 
+ memorizzato con questo formato nell'unità radio. 
+ 
+
+ 
+ 8. Se richiesto dal TSC (ved. sezione 11.15.2 e sezione 15.2 di Parte
+ 
+
+ 
+ 1, Sezione 2), l'unità radio invierà i dati del numero di 
+ 
+
+ 
+ protezione al TSC usando il messaggio SAMIS 
+ 
+
+ 
+ (Ved. Parte 1a, Sezione 2, sezione 15 e 5.6.1.2.2). I campi dei
+ 
+
+ 
+ parametri del messaggio SAMIS sono strutturati come segue: 
+ 
+
+ 
+ PARAMETRO 1 (20 bit) PARAMETRO 2 (18 bit) 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ Codice _ Modello _ Bit di _ _ Numero di serie per _ _ costruttore _
+ 
+
+ 
+ _ controllo _ _ questo modelli _ _ _ _ _ _ _ 8 bit 4 bit 8 bit
+ 
+
+ 
+ 18 bit 
+ 
+
+ 
+ Codice del costruttore: numero a 8 bit (da 0 a 255), di cui uno o
+ 
+
+ 
+ più sono concessi a ciascun costruttore di unità radio dall'ente
+ 
+
+ 
+ preposto alle licenze. 
+ 
+
+ 
+ Modello: numero a 4 bit (da 0 a 15) che è caratteristico di un tipo
+ 
+
+ 
+ di unità radio per un determinato codice costruttore. Il numero del
+ 
+
+ 
+ modello è assegnato dal costruttore secondo le modalità e nel
+ 
+
+ 
+ momento in cui si debbono approvare i tipi di nuove unità radio. Se
+ 
+
+ 
+ un costruttore produce più di 16 modelli di tipo approvato, questi
+ 
+
+ 
+ potrà chiedere un ulteriore codice costruttore. 
+ 
+
+ 
+ Numero di serie (per questo modello): Il numero di serie dell'unità
+ 
+
+ 
+ radio di un certo modello. Questo numero è assegnato dal costruttore
+ 
+
+ 
+ e, normalmente, va da 1 a 262143. Quando si deve superare tale
+ 
+
+ 
+ limite, il costruttore può assegnare un ulteriore numero di modello
+ 
+
+ 
+ alle unità radio dello stesso tipo approvato. 
+ 
+
+ 
+ Bit di controllo: L'algoritmo per calcolare i bit di controllo si
+ 
+
+ 
+ basa sui dati contenuti negli altri campi di cui sopra. Se i bit di
+ 
+
+ 
+ controllo sono errati in un'unità radio, la rete potrebbe rifiutare
+ 
+
+ 
+ l'accesso a quell'unità. L'algoritmo non dovrà essere inserito
+ 
+
+ 
+ nell'unità radio. 
+ 
+
+ 
+ 9. Il numero di protezione sarà impresso sull'unità radio nella
+ 
+
+ 
+ forma seguente: 
+ 
+
+ 
+ xxx/yy/zzzzzz dove xxx è il codice del costruttore yy è il modello 
+ 
+
+ 
+ zzzzzz è il numero di serie 
+ 
+
+ 
+ ES.: 019/09/000129 
+ 
+
+ 
+ 
+ 
+
+ 
+ | | | Numero di serie 129
+ 
+
+ 
+ | | Modello di tipo 9
+ 
+
+ 
+ | Numero del costruttore 19
+ 
+
+ 
+ 10. Le informazioni riguardanti i bit di controllo non saranno
+ 
+
+ 
+ visibili.
+ 
+
+ 
+ 
+ 
+
+ 
+ 11. I codici dei costruttori e l'algoritmo di protezione possono
+ 
+
+ 
+ essere ottenuti richiedendoli all'Ente preposto alle licenze. 
+ 
+
+ 
+ 8. INTERFACCIA UOMO-MACCHINA 
+ 
+
+ 
+ 8.1. Segnalazioni di funzionamento 
+ 
+
+ 
+ 8.1.1. Introduzione 
+ 
+
+ 
+ L'utente è un elemento importante in qualunque rete di
+ 
+
+ 
+ comunicazione, poichè il suo comportamento può contribuire alla
+ 
+
+ 
+ efficienza globale del funzionamento della rete e al livello di
+ 
+
+ 
+ servizio che può essere offerto agli utenti. L'esperienza nel campo
+ 
+
+ 
+ dei sistemi di telecomunicazione mostra che se si danno segnalazioni
+ 
+
+ 
+ adeguate all'utente per qualunque chiamata o transazione effettuata
+ 
+
+ 
+ sulla rete di cui l'utente, si riesce a controllare il comportamento
+ 
+
+ 
+ dell'utente stesso favorendo l'efficienza del sistema. Segnalazioni
+ 
+
+ 
+ di questo tipo, che normalmente si definiscono segnalazioni di
+ 
+
+ 
+ funzionamento vanno anche a vantaggio dell'utente e lo soddisfano
+ 
+
+ 
+ maggiormente. 
+ 
+
+ 
+ Il presente paragrafo cerca di conseguire una operatività adeguata
+ 
+
+ 
+ ed accettabile per le segnalazioni di funzionamento nell'ambito dei
+ 
+
+ 
+ sistemi in esame, assegnandone le specifiche di base. 
+ 
+
+ 
+ Tuttavia, va riconosciuto che i costruttori di unità radio
+ 
+
+ 
+ desidereranno avere un'autonomia di progettazione e quindi, i
+ 
+
+ 
+ requisiti qui definiti sono stati mantenuti molto flessibili,
+ 
+
+ 
+ compatibilmente con lo scopo di assicurare il corretto funzionamento
+ 
+
+ 
+ della rete. Ciò riguarda in particolare il modo di presentazione
+ 
+
+ 
+ all'utente delle segnalazioni obbligatorie, in cui al costruttore è
+ 
+
+ 
+ lasciato un ampio margine di scelta. Tuttavia, nel caso di
+ 
+
+ 
+ apparecchiature da montare su veicoli, si raccomanda ai costruttori
+ 
+
+ 
+ di tenere in debito conto i requisiti del Codice della Strada e per
+ 
+
+ 
+ la Sicurezza Stradale. In tali apparecchiature, di dovrebbero
+ 
+
+ 
+ privilegiare le segnalazioni acustiche a quelle visive. 
+ 
+
+ 
+ I costruttori dovrebbero anche ricordare che, dove si utilizzano
+ 
+
+ 
+ segnalazioni visive che possono presentarsi durante una chiamata per
+ 
+
+ 
+ conversazione, queste dovrebbero essere facilmente visibili
+ 
+
+ 
+ all'utente in ogni momento durante le normali operazioni di chiamata. 
+ 
+
+ 
+ Il progettista è libero di decidere se l'unità radio accetterà o
+ 
+
+ 
+ rifiuterà la segnalazione entrante per una nuova chiamata, mentre
+ 
+
+ 
+ l'unità mobile è in attesa che si instauri il collegamento per la
+ 
+
+ 
+ propria chiamata. Tuttavia, se l'unità radio accetta la segnalazione
+ 
+
+ 
+ della nuova chiamata entrante, verranno sospese le segnalazioni di
+ 
+
+ 
+ funzionamento riguardanti la propria chiamata, sostituendole con le
+ 
+
+ 
+ segnalazioni riguardanti la nuova chiamata. 
+ 
+
+ 
+ Quando la nuova chiamata è completa, le segnalazioni di
+ 
+
+ 
+ funzionamento sospese verranno riprese, purchè il temporizzatore di
+ 
+
+ 
+ attesa della chiamata non abbia esaurito il tempo a disposizione. 
+ 
+
+ 
+ 8.1.2. Requisiti di base 
+ 
+
+ 
+ Ciascuna segnalazione di funzionamento è descritta come segue: 
+ 
+
+ 
+ - Utente interessato (CHIAMANTE O CHIAMATO) 
+ 
+
+ 
+ - Condizioni per l'avvio 
+ 
+
+ 
+ - Condizioni per la disattivazione 
+ 
+
+ 
+ - Prescrizione Obbligatoria o Opzione Normalizzata 
+ 
+
+ 
+ Il disegno di Fig. 8.1. dettaglia ciascuna segnalazione in forma
+ 
+
+ 
+ riassunta. Viene riportata una descrizione più dettagliata delle
+ 
+
+ 
+ segnalazioni nel paragrafo seguente. 
+ 
+
+ 
+ I progettisti delle unità radio dovrebbero considerare la
+ 
+
+ 
+ possibilità di usare segnalazioni aggiuntive. Tuttavia, queste
+ 
+
+ 
+ dovrebbero essere realizzate in modo da essere coerenti con quelle
+ 
+
+ 
+ dettagliate in questa sezione. 
+ 
+
+ 
+ Le segnalazioni non sono necessarie se la chiamata non richiede
+ 
+
+ 
+ l'intervento umano, per esempio nel caso di messaggi dati automatici
+ 
+
+ 
+ oppure di chiamate di emergenza segrete. 
+ 
+
+ 
+ Notare inoltre che non è necessario ripetere una segnalazione se, si
+ 
+
+ 
+ ricevono altri messaggi per la transazione, che avviano la
+ 
+
+ 
+ segnalazione. 
+ 
+
+ 
+ 8.1.3. Tipi di segnalazioni di funzionamento 
+ 
+
+ 
+ Le unità mobili forniranno le seguenti segnalazioni di
+ 
+
+ 
+ funzionamento: 
+ 
+
+ 
+ a. Inoltro della chiamata in corso (utente chiamante) 
+ 
+
+ 
+ b. Inoltro della chiamata in corso (utente chiamato) 
+ 
+
+ 
+ c. Numero non ottenibile 
+ 
+
+ 
+ d. Caduta della chiamata 
+ 
+
+ 
+ e. Attenzione 
+ 
+
+ 
+ f. GTC 
+ 
+
+ 
+ g. Transazione confermata 
+ 
+
+ 
+ h. Segnalazione di fine conversazione 
+ 
+
+ 
+ Le unità mobili possono fornire le seguenti segnalazioni
+ 
+
+ 
+ consigliate: 
+ 
+
+ 
+ i. Fuori servizio 
+ 
+
+ 
+ j. Chiamate in coda 
+ 
+
+ 
+ k. Suoneria dell'utente chiamato 
+ 
+
+ 
+ l. Deviazione della chiamata manuale. 
+ 
+
+ 
+ Nel presente documento, non si definisce la forma delle segnalazioni. 
+ 
+
+ 
+ Tuttavia, le segnalazioni non dovranno essere ambigue, salvo i casi
+ 
+
+ 
+ seguenti. Le segnalazioni a) e b) possono usare la stessa forma di
+ 
+
+ 
+ segnalazione. Le segnalazioni d) e h) possono anchèessere usare la
+ 
+
+ 
+ stessa forma di segnalazione, tranne nel caso di un'unità mobile
+ 
+
+ 
+ predisposta per le chiamate di inclusione, dove la funzione di fine
+ 
+
+ 
+ conservazione deve essere separata. La segnalazione f) può essere
+ 
+
+ 
+ una forma transitoria della segnalazione e). 
+ 
+
+ 
+ 8.1.3.1. Fuori servizio 
+ 
+
+ 
+ Questa segnalazione è facoltativa. 
+ 
+
+ 
+ 8.1.3.2. Inoltro chiamata in corso (CSUIP) 
+ 
+
+ 
+ 8.1.3.2.1. CSUIP (Chiamante) 
+ 
+
+ 
+ Questa segnalazione è obbligatoria. Essa comunica all'utente che è
+ 
+
+ 
+ in corso l'elaborazione della sua richiesta di chiamata. 
+ 
+
+ 
+ Il CSUIP (Chiamante) inizierà quando l'utente chiamante ha
+ 
+
+ 
+ completato l'inserimento dell'indirizzo e dei dettagli di chiamata
+ 
+
+ 
+ nell'unità, oppure sulla prima trasmissione del messaggio richiesto
+ 
+
+ 
+ (RQS, RQE, RQT, RQC, RQQ (non STATUS = 0 o 31 e con IDENT1 = TSCI). 
+ 
+
+ 
+ Il CSUIP (Chiamante) viene disattivato alla ricezione dei messaggi
+ 
+
+ 
+ seguenti relativi alla chiamata: 
+ 
+
+ 
+ - ACKI (QUAL = '0') se l'unità è predisposta per indicare la 
+ 
+
+ 
+ suoneria dell'utente chiamato 
+ 
+
+ 
+ - ACKX 
+ 
+
+ 
+ - ACKV 
+ 
+
+ 
+ - ACK (QUAL = '0') 
+ 
+
+ 
+ - ACKB (QUAL ='0') 
+ 
+
+ 
+ - ACKT (QUAL ='0') 
+ 
+
+ 
+ - ACKQ, se l'unità è predisposta per indicare le Chiamate in coda 
+ 
+
+ 
+ - GTC 
+ 
+
+ 
+ - ACK (QUAL ='1') in seguito a "Fallito inoltro chiamata d'utente"
+ 
+
+ 
+ (sezione 8.3.3.) 
+ 
+
+ 
+ - Fine dei tempi limite TC, TW, TJ o TI 
+ 
+
+ 
+ - AHYX 
+ 
+
+ 
+ La segnalazione sarà disattivata in seguito ad un "Fallito inoltro
+ 
+
+ 
+ di chiamata d'utente" (sezione 8.3.3), qualora non sia stato ancora
+ 
+
+ 
+ inviato alcun messaggio di richiesta di chiamata da parte dell'unità
+ 
+
+ 
+ radio. 
+ 
+
+ 
+ 8.1.3.2.2. CSUIP (Chiamato) 
+ 
+
+ 
+ Questa segnalazione è obbligatoria. 
+ 
+
+ 
+ La segnalazione dovrà essere acustica. 
+ 
+
+ 
+ L'unità chiamata segnalerà CSUIP (Chiamato) all'utente, quando
+ 
+
+ 
+ questi segnala "Risposta utente chiamato" (sezione 8.3.3) all'unità,
+ 
+
+ 
+ dopo la ricezione di un AHY (CHECK='1') per una chiamata entrante. 
+ 
+
+ 
+ La segnalazione sarà disattivata al momento della ricezione di
+ 
+
+ 
+ qualunque messaggio tra i seguenti: 
+ 
+
+ 
+ - GTC 
+ 
+
+ 
+ - AHYX per la chiamata 
+ 
+
+ 
+ - Fine di TA 
+ 
+
+ 
+ - ACK (QUAL = '1'), se si tenta un RQX per "Annullare risposta utente
+ 
+
+ 
+ chiamato" (sezione 8.3.3) 
+ 
+
+ 
+ - ACK (QUAL = '0') per "riagganciamento" RQQ per "Annullare risposta
+ 
+
+ 
+ utente chiamato" (sezione 8.3.3) 
+ 
+
+ 
+ 8.1.3.3. Chiamata in coda 
+ 
+
+ 
+ Questa segnalazione è facoltativa. 
+ 
+
+ 
+ Un'unità chiamante debitamente predisposta indicherà Chiamata in
+ 
+
+ 
+ coda alla ricezione di un messaggio ACKQ in seguito alla richiesta di
+ 
+
+ 
+ chiamata. 
+ 
+
+ 
+ La segnalazione verrà disattivata alla ricezione dei messaggi
+ 
+
+ 
+ seguenti: 
+ 
+
+ 
+ - ACKX 
+ 
+
+ 
+ - ACKV 
+ 
+
+ 
+ - ACK (QUAL = '0') 
+ 
+
+ 
+ - ACKB (QUAL ='0') 
+ 
+
+ 
+ - ACKT (QUAL ='1') 
+ 
+
+ 
+ - ACKI (QUAL = '0'), se l'unità è predisposta per segnalare 
+ 
+
+ 
+ "Suoneria dell'utente chiamato" 
+ 
+
+ 
+ - GTC 
+ 
+
+ 
+ - Fine tempo limite TW, TJ o TI 
+ 
+
+ 
+ - ACK (QUAL = '1') dopo che si è tentato di annullare o di eliminare 
+ 
+
+ 
+ la chiamata 
+ 
+
+ 
+ - AHYX 
+ 
+
+ 
+ 8.1.3.4. Suoneria utente chiamato 
+ 
+
+ 
+ Questa segnalazione è facoltativa. 
+ 
+
+ 
+ Un'unità chiamante debitamente predisposta genererà un segnale di
+ 
+
+ 
+ Suoneria Utente Chiamato alla ricezione di un segnale ACKI (QUAL =
+ 
+
+ 
+ '0') dalla rete. L'unità annullerà questa segnalazione alla 
+ 
+
+ 
+ ricezione di uno dei messaggi seguenti: 
+ 
+
+ 
+ - GTC 
+ 
+
+ 
+ - ACKV 
+ 
+
+ 
+ - AHYX per la chiamata 
+ 
+
+ 
+ - Fine tempo limite TW o TI 
+ 
+
+ 
+ - ACK (QUAL ='1') in seguito ad "Annullamento inoltro chiamata"
+ 
+
+ 
+ (sezione 8.3.3) 
+ 
+
+ 
+ - ACKX 
+ 
+
+ 
+ - ACKT (QUAL = '0') 
+ 
+
+ 
+ - ACKB (QUAL = '0') 
+ 
+
+ 
+ 8.1.3.5. Caduta della chiamata 
+ 
+
+ 
+ Questa segnalazione è obbligatoria. Può essere emessa verso
+ 
+
+ 
+ l'utente chiamato e verso il chiamante. La segnalazione di Caduta
+ 
+
+ 
+ della chiamata sarà emessa al momento della ricezione di uno dei
+ 
+
+ 
+ seguenti messaggi: 
+ 
+
+ 
+ - ACKX (QUAL = '1') 
+ 
+
+ 
+ - ACKV 
+ 
+
+ 
+ - AHYX 
+ 
+
+ 
+ - ACKT (se l'unità non è predisposta per la deviazione delle
+ 
+
+ 
+ chiamate) 
+ 
+
+ 
+ - Se, quando l'utente avvia una chiamata, l'unità radio non riceve
+ 
+
+ 
+ su un canale di controllo acquisito ed è rimasta senza un canale di
+ 
+
+ 
+ controllo acquisito per un tempo continuato TC, l'unità segnalerà
+ 
+
+ 
+ Caduta della Chiamata. 
+ 
+
+ 
+ - Se, quando l'utente avvia una chiamata, l'unità radio non riceve
+ 
+
+ 
+ su un canale di controllo acquisito e se il tempo trascorso
+ 
+
+ 
+ dall'ultima volta in cui l'unità ha avviato una procedura di
+ 
+
+ 
+ acquisizione di canale di controllo è inferiore a TC, allora
+ 
+
+ 
+ l'unità indicherà una Caduta della Chiamata soltanto se non sarà
+ 
+
+ 
+ riuscita ad acquisire un canale di controllo dopo un tempo TC
+ 
+
+ 
+ trascorso dall'ultima volta in cui ha iniziato dette procedure. 
+ 
+
+ 
+ - Fine tempo limite TA, TI, TJ o TW 
+ 
+
+ 
+ - Fine tempo limite TC se la richiesta non è inviata. 
+ 
+
+ 
+ La segnalazione sarà annullata da parte dell'utente con "Annullare
+ 
+
+ 
+ la segnalazione" (sezione 8.3.3) oppure sarà transitoria. 
+ 
+
+ 
+ 8.1.3.6. Numero non ottenibile (NU) 
+ 
+
+ 
+ Questa segnalazione è obbligatoria. 
+ 
+
+ 
+ L'unità chiamante segnalerà NU all'utente alla ricezione di ACKX
+ 
+
+ 
+ (QUAL = '0') in risposta ad una richiesta di chiamata. 
+ 
+
+ 
+ L'unità chiamante segnalerà NU all'utente anche quando essa stessa
+ 
+
+ 
+ rifiuta la stringa di un numero selezionato che non riconosce o non
+ 
+
+ 
+ può inoltrare. 
+ 
+
+ 
+ Questa segnalazione sarà annullata dall'utente con "Annulla la
+ 
+
+ 
+ segnalazione" (sezione 8.3.3) oppure sarà di tipo transitorio. 
+ 
+
+ 
+ 8.1.3.7. Deviazione di chiamata 
+ 
+
+ 
+ Questa segnalazione è facoltativa. Essa serve ad invitare l'utente
+ 
+
+ 
+ chiamante a fare una nuova chiamata verso un indirizzo diverso. La
+ 
+
+ 
+ forma della segnalazione può comprendere il numero nuovo che
+ 
+
+ 
+ l'utente è invitato a comporre, oppure, in alternativa, questo
+ 
+
+ 
+ numero può essere memorizzato nell'unità mobile senza essere
+ 
+
+ 
+ visualizzato all'utente. 
+ 
+
+ 
+ La segnalazione di deviazione di chiamata sarà avviata alla
+ 
+
+ 
+ ricezione di ACKT (QUAL = '0'). 
+ 
+
+ 
+ La segnalazione sarà annullata dall'utente con "Avvio Richiesta di
+ 
+
+ 
+ chiamata" (sezione 8.3.3) oppure può essere transitoria. 
+ 
+
+ 
+ 8.1.3.8. Segnalazione di fine conversazione 
+ 
+
+ 
+ Questa segnalazione è obbligatoria e si otterrà quando l'unità ra-
+ 
+
+ 
+ dio abbandona un canale di traffico, tranne nel caso in cui si sposti
+ 
+
+ 
+ su un canale di traffico diverso, in seguito ad un messaggio GTC
+ 
+
+ 
+ ricevuto su un canale di traffico, oppure quando si sposta su un
+ 
+
+ 
+ canale diverso dopo aver ricevuto una "richiesta di fine chiamata"
+ 
+
+ 
+ (sezione 8.3.3). 
+ 
+
+ 
+ La segnalazione sarà annullata dall'utente con "Annulla la
+ 
+
+ 
+ segnalazione" (sezione 8.3.3) oppure sarà transitoria. 
+ 
+
+ 
+ 8.1.3.9. Allerta 
+ 
+
+ 
+ Questa segnalazione è obbligatoria e deve essere acustica. 
+ 
+
+ 
+ Le unità genereranno una segnalazione di Allerta se riceveranno AHY
+ 
+
+ 
+ (POINT = '0', CHECK = '1') con IDENT2 = Identificativo (da 1 a 8100),
+ 
+
+ 
+ INCI, IPFIXI o PABXI e se rispondono trasmettendo ACKI (QUAL = '0'). 
+ 
+
+ 
+ La segnalazione di Allerta sarà annullata dall'utente con "Risposta
+ 
+
+ 
+ dell'utente chiamato" (sezione 8.3.3) oppure alla fine del tempo
+ 
+
+ 
+ limite TA per lo stato di funzionamento allerta dell'utente chiamato,
+ 
+
+ 
+ oppure se viene ricevuto un messaggio AHYX adeguato. 
+ 
+
+ 
+ 8.1.3.10. Transazione confermata 
+ 
+
+ 
+ Questa segnalazione è obbligatoria. 
+ 
+
+ 
+ La segnalazione di transazione confermata è usata principalmente in
+ 
+
+ 
+ chiamate non per conversazione: 
+ 
+
+ 
+ - RQC 
+ 
+
+ 
+ - RQT 
+ 
+
+ 
+ - RQQ (non Status = 0 o 31, quando viene inviata con IDENT1 = TSCI) 
+ 
+
+ 
+ - Inclusione 
+ 
+
+ 
+ L'unità radio avvierà la segnalazione di Transazione Confermata se
+ 
+
+ 
+ riceverà ACK(QUAL = '0') in seguito ad uno di questi messaggi di
+ 
+
+ 
+ richiesta. Inoltre, l'unità genererà la segnalazione di Transazione
+ 
+
+ 
+ Confermata se riceverà ACKB (QUAL = '0') in seguito ad un messaggio
+ 
+
+ 
+ RQS. 
+ 
+
+ 
+ L'unità annullerà la segnalazione di Transazione Confermata se
+ 
+
+ 
+ l'utente comanderà "Annulla segnalazione", oppure la segnalazione
+ 
+
+ 
+ può essere transitoria (sezione 8.3.3). 
+ 
+
+ 
+ 8.1.3.11. Segnalazione "Blip" per GTC 
+ 
+
+ 
+ Questa segnalazione è obbligatoria e deve essere almeno acustica. 
+ 
+
+ 
+ Le unità radio chiamate avvieranno la segnalazione per GTC alla
+ 
+
+ 
+ ricezione del GTC. Tuttavia, se l'unità radio ha risposto all'AHY in
+ 
+
+ 
+ ingresso per quella chiamata con ACKI (QUAL = '0') (cioè AHY era
+ 
+
+ 
+ CHECK = '1'), allora l'unità radio può facoltativamente omettere la
+ 
+
+ 
+ segnalazione GTC al ricevimento della GTC. 
+ 
+
+ 
+ Le unità radio chiamate avvieranno una segnalazione per GTC alla
+ 
+
+ 
+ ricezione del GTC. Tuttavia, se l'unità radio ha ricevuto
+ 
+
+ 
+ precedentemente ACKI (QUAL = '0') per la chiamata, allora la radio
+ 
+
+ 
+ chiamante può facoltativamente omettere la segnalazione GTC alla
+ 
+
+ 
+ ricezione del GTC. 
+ 
+
+ 
+ La segnalazione GTC sarà di tipo transitorio e la sua durata sarà
+ 
+
+ 
+ comunque inferiore a 500 ms. 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ _ _CHIA-_CHIA-_ _ _ _ _N._SEGNALAZIONE_MANTE_MATO _TIPO_ AVVIA _
+ 
+
+ 
+ ANNULLA _ _ _ _ _ _ _ _ _ _ 1 FUORI X X O PERDITA ACQUISISCI NUOVO _
+ 
+
+ 
+ _ SERVIZIO CONTROLLO CANALE DI CONTROLLO _ _ CANALE _ _ _ _ 2 CSUIP X
+ 
+
+ 
+ M FINE INDI- _ _ (CHIAMANTE) RIZZO OPPURE _ _ TRASMISSIONE _ _ DI
+ 
+
+ 
+ RICHIESTA ACKX, ACKV _ _ ACK (QUAL=0) _ _ ACKB (QUAL=0) _ _ ACKT
+ 
+
+ 
+ (QUAL=0) _ _ ACKI (QUAL=0) _ _ (SE PREDISPOSTA CON _ _ SUONERIA DELLA
+ 
+
+ 
+ PARTE_ _ CHIAMATA) _ _ ACKQ (SE PREDISPOSTA_ _ CON CHIAMATE IN _ _
+ 
+
+ 
+ CODA) _ _ GTC, ACK (QUAL=1) _ _ FINE TC, TW, TJ, TI _ _ AHYX, ANNULLA
+ 
+
+ 
+ INOL- _ _ TRO CHIAMATA (NES- _ _ SUNA RICHIESTA) _ _ _ _ 3 CSUIP X M
+ 
+
+ 
+ RISPOSTA DEL- _ _ (CHIAMATO) L'UTENTE CHIA- _ _ MATO SE AHY _ _ ERA
+ 
+
+ 
+ (CHECK=1) GTC, AHYX _ _ ACK (QUAL=0) _ _ ACK (QUAL=1) _ _ FINE TA _ _
+ 
+
+ 
+ _ _ 4 CHIAMATE IN X O ACKQ COME N.2 MENO RICE- _ _ CODA ZIONE DI ACKQ
+ 
+
+ 
+ _ _ _ _ 5 SUONERIA X O ACKI (QUAL=0) GTC; ACKV _ _ UTENTE ACKX, ACKT
+ 
+
+ 
+ (QUAL=0) _ _ CHIAMATO ACKB (QUAL=0) _ _ AHYX FINE DI TW O TI_ _ ACK
+ 
+
+ 
+ (QUAL=1) _ _ _ _ 6 CADUTA X X M ACKX (QUAL=1) ANNULLA SEGNALAZIONE_ _
+ 
+
+ 
+ CHIAMATA ACKV, AHYX (O TEMPO LIMITE DI _ _ ACKT (SE NON SEGNALAZIONE
+ 
+
+ 
+ _ _ C'è DEVIAZIO- _ _ NE DI CHIAMATA) _ _ FINE DI TW, TJ, _ _ TI, TA
+ 
+
+ 
+ _ _ RICHIESTA DI _ _ CHIAMATA IN _ _ ASSENZA DI _ _ CANALE DI _ _
+ 
+
+ 
+ CONTROLLO _ _ _ _ 7 NUMERO NON X M ACKX (QUAL=0) ANNULLA
+ 
+
+ 
+ SEGNALAZIONE_ _ OTTENIBILE oppure (O TEMPO LIMITE DI _ _ (NU)
+ 
+
+ 
+ INSERIMENTO DI SEGNALAZIONE _ _ NUMERO NON _ _ VALIDO _ _ _ _ 8
+ 
+
+ 
+ DEVIAZIONE X O ACKT (QUAL=0) ANNULLA SEGNALAZIONE_ _ DELLA AVVIO
+ 
+
+ 
+ RICHIESTA DI _ _ CHIAMATA CHIAMATA (O TEMPO _ _ LIMITE DI _ _
+ 
+
+ 
+ SEGNALAZIONE _ _ _ _ 9 FINE X X M CLEAR ANNULLA SEGNALAZIONE_ _
+ 
+
+ 
+ CONVERSAZIONE (O TEMPO LIMITE DI _ _ SEGNALAZIONE) _ _ _ _10 ALLERTA
+ 
+
+ 
+ X M ACKI (QUAL=0) _ _ IN RISPOSTA A _ _ AHY (CHECK=1) AHYX, FINE TA,
+ 
+
+ 
+ RI- _ _ SPOSTA UTENTE _ _ CHIAMATO _ _ _ _11 TRANSAZIONE X M ACK
+ 
+
+ 
+ (QUAL=0) ANNULLA SEGNALAZIONE_ _ CONFERMATA DOPO RQC, RQT (O TEMPO
+ 
+
+ 
+ LIMITE DI _ _ O RQQ (DIVER- SEGNALAZIONE) _ _ SI DA 0 A 31) _ _
+ 
+
+ 
+ OPPURE DOPO _ _ RICHIESTA DI _ _ INCLUSIONE E _ _ ACKB (QUAL=0) _ _
+ 
+
+ 
+ DOPO RQS _ _ _ _12 GTC X X M GTC A MENO TEMPO LIMITE DI _ _ CHE LA
+ 
+
+ 
+ RISPO- SEGNALAZIONE _ _ STA ALL'AHY DI _ _ SEGNALAZIONE _ _ SIA STATA
+ 
+
+ 
+ ACKI _ _ (QUAL=0) OPPURE _ _ PER L'UNITà _ _ CHIAMANTE A _ _ MENO
+ 
+
+ 
+ CHE ACKI _ _ (QUAL=0) SIA _ _ STATO RICEVUTO _ _ _ 
+ 
+
+ 
+ M = OBBLIGATORIO 
+ 
+
+ 
+ O = FACOLTATIVO 
+ 
+
+ 
+ 
+ 
+
+ 
+ _SEGNALAZIONI DI FUNZIONAMENTO DELL'UNITà _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ | |
+ 
+
+ 
+ 
+ 
+
+ 
+ Fig. 8.1 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 8.2. Regole relative alla numerazione 
+ 
+
+ 
+ Il presente paragrafo riguarda la funzione di selezione a
+ 
+
+ 
+ disposizione degli utenti di unità radio. Sia per la composizione
+ 
+
+ 
+ che per la visualizzazione di informazioni relative alla numerazione. 
+ 
+
+ 
+ Si presenta su tastiera numerica a 12 pulsanti, nonostante le unità
+ 
+
+ 
+ radio possano utilizzare altri mezzi per inserire le informazioni
+ 
+
+ 
+ numeriche. In questa sezione, i termini "obbligatorio" e
+ 
+
+ 
+ "facoltativo" hanno il significato seguente: 
+ 
+
+ 
+ Obbligatorio: Unità provviste di un dispositivo che permetta di ins-
+ 
+
+ 
+ erire manualmente numeri per permettere di chiamare altri utenti
+ 
+
+ 
+ della rete abbonati o di altri servizi devono implementare le
+ 
+
+ 
+ funzioni specificate. 
+ 
+
+ 
+ Facoltativo: Unità che realizzino la funzione opzionale devono
+ 
+
+ 
+ implementarla nel modo descritto. 
+ 
+
+ 
+ Queste regole si riferiscono a tutte le unità radio che operano su
+ 
+
+ 
+ sistemi commerciali. Le unità sprovviste di tastiera numeriche o
+ 
+
+ 
+ visori e che utilizzano pulsanti specifici per funzionare non debbono
+ 
+
+ 
+ implementare algoritmi per lo schema di numerazione. Tuttavia, tali
+ 
+
+ 
+ unità saranno identificate con numeri, in conformità con i principi
+ 
+
+ 
+ riguardanti le specifiche per la numerazione, in modo che le chiamate
+ 
+
+ 
+ possano essere dirette verso di loro a partire da unità munite di
+ 
+
+ 
+ dispositivi di selezione del numero. 
+ 
+
+ 
+ I pulsanti sulla tastiera possono essere disposti a norma C.C.I.T.T.,
+ 
+
+ 
+ quindi: 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ | 1 | 2 | 3 |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | 4 | 5 | 6 |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | 7 | 8 | 9 |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ | * | 0 | (cancelletto)
+ 
+
+ 
+ | | | |
+ 
+
+ 
+ 
+ 
+
+ 
+ Disposizione della tastiera 
+ 
+
+ 
+ Se ritenuto opportuno, è possibile usare una qualunque altra
+ 
+
+ 
+ disposizione dei tasti. 
+ 
+
+ 
+ Le unità che non utilizzano tutti i 10 tasti numerici (esclusi * e
+ 
+
+ 
+ (cancelletto)) non imprimeranno a nessun tasto dell'unità i simboli
+ 
+
+ 
+ indicati. Tutte le stringhe composte, come spiegato in questo
+ 
+
+ 
+ paragrafo, sono lette da sinistra a destra e composte nella sequenza
+ 
+
+ 
+ in cui vengono lette. In questo paragrafo tutte le rappresentazioni
+ 
+
+ 
+ delle stringhe composte vengono sottolineate. Dove si fa riferimento
+ 
+
+ 
+ agli indirizzi di Parte 1a, Sezione 2, le stringhe sono espresse in
+ 
+
+ 
+ forma decimale di PFIX/IDENT, così: 34/3456. 
+ 
+
+ 
+ L'utilizzo primario della tastiera consente all'utente di generare
+ 
+
+ 
+ chiamate per conversazione dall'unità radio. Le chiamate possono
+ 
+
+ 
+ essere dirette ad altre unità che operano sulla rete e alle unità
+ 
+
+ 
+ terminali di un centralino privati dell'utente (PABX). 
+ 
+
+ 
+ è possibile aggiungere altri servizi, secondo le necessità. 
+ 
+
+ 
+ I codici che iniziano con un asterisco (*) o con il segno numerico
+ 
+
+ 
+ (cancelletto) permettono di utilizzare la tastiera per funzioni
+ 
+
+ 
+ secondarie. Vengono così controllate funzioni quali la modifica
+ 
+
+ 
+ delle richieste di chiamata per generare messaggi di stato e la
+ 
+
+ 
+ realizzazione delle altre funzioni descritte in Parte 1a, Sezione 2
+ 
+
+ 
+ (dati, deviazione di chiamate, ecc.). 
+ 
+
+ 
+ Codici simili sono utilizzati anche per il controllo delle funzioni
+ 
+
+ 
+ interne dell'unità radio, che abbiano conseguenze sulle attività
+ 
+
+ 
+ descritte nelle altre sezioni della Parte 1a. 
+ 
+
+ 
+ Qualunque funzione richiesta con i mezzi qui descritti e che non è
+ 
+
+ 
+ un requisito obbligatorio della Sezione 11 non deve essere
+ 
+
+ 
+ necessariamente incorporata nel terminale radio. Per quanto riguarda
+ 
+
+ 
+ le unità con tastiera numerica, ogni loro funzione sarà realizzata
+ 
+
+ 
+ nel modo descritto nella presente sezione. In opzione, è possibile
+ 
+
+ 
+ bloccare l'accesso a qualunque tipo di chiamata che non sia una
+ 
+
+ 
+ chiamata interna alla flotta. 
+ 
+
+ 
+ Altri utilizzi della tastiera non sono proibiti, purchè non vi sia
+ 
+
+ 
+ discordanza con l'uso specificato. Tutte le stringhe composte e non
+ 
+
+ 
+ riconosciute dall'unità dovrebbero essere rifiutate dall'unità;
+ 
+
+ 
+ tale rifiuto dovrebbe essere segnalato come numero non ottenibile
+ 
+
+ 
+ (ved. 8.1): 
+ 
+
+ 
+ 8.2.1. Struttura di numerazione della rete 
+ 
+
+ 
+ Ad ogni unità viene assegnato un numero di rete individuale (che è
+ 
+
+ 
+ unico nella rete a cui si abbona l'utente) che ha una relazione fissa
+ 
+
+ 
+ con un indirizzo descritto in Parte 1a, Sezione 2. Il numero di rete
+ 
+
+ 
+ è diviso in tre parti: un prefisso, un numero di flotta e un numero
+ 
+
+ 
+ di unità. Analogamente, i gruppi di unità ricevono un numero di
+ 
+
+ 
+ gruppo caratteristico della rete. Un'unità può essere assegnata a
+ 
+
+ 
+ più di un gruppo e può quindi rispondere a più di un numero di
+ 
+
+ 
+ gruppo. 
+ 
+
+ 
+ Un indirizzo, come descritto in Parte 1a, Sezione 2, a 20 bit è
+ 
+
+ 
+ suddiviso in un prefisso e in un identificativo. Il prefisso copre i
+ 
+
+ 
+ primi 7 bit dell'indirizzo da 20 bit. 
+ 
+
+ 
+ L'identificativo copre i restanti 13 bit. L'organizzazione della
+ 
+
+ 
+ flotta dovrebbe assicurare che la maggior parte delle chiamate tra
+ 
+
+ 
+ gli utenti siano effettuate tra coloro che hanno lo stesso prefisso.
+ 
+
+ 
+ Il campo dell'identificativo è diviso in blocchi, che sono assegnati
+ 
+
+ 
+ alle flotte dal gestore della rete. Ciascun utente della flotta
+ 
+
+ 
+ dovrebbe ricevere un numero sufficiente di identificativi che gli
+ 
+
+ 
+ permetta di soddisfare eventuali necessità di espansione. 
+ 
+
+ 
+ L'obiettivo dello schema è quello di permettere l'uso di una stringa
+ 
+
+ 
+ breve per i numeri più comuni, invece di una stringa lunga, come
+ 
+
+ 
+ sarebbe necessario nel caso di una diretta rappresentazione decimale
+ 
+
+ 
+ del prefisso e dell'identificativo binari. Raggiunto questo obiettivo
+ 
+
+ 
+ primario, lo schema è completato con il secondo obiettivo, che
+ 
+
+ 
+ consiste nel permettere l'accesso ad altri servizi di conversazione e
+ 
+
+ 
+ di scambio dati. Lo schema è espansibile, per permettere
+ 
+
+ 
+ l'introduzione di funzioni aggiuntive in futuro. 
+ 
+
+ 
+ Le chiamate individuali all'interno della flotta sono realizzate
+ 
+
+ 
+ assegnando un numero d'inizio (20 0 200, secondo le dimensioni della
+ 
+
+ 
+ flotta) all'identificativo più basso assegnato alla flotta.
+ 
+
+ 
+ L'identificativo più basso (ID di base) usato dalla flotta per le
+ 
+
+ 
+ chiamate individuali sarà conservato in ogni unità radio come parte
+ 
+
+ 
+ dei dati di personalizzazione di flotte dei terminali radio. Tutte le
+ 
+
+ 
+ unità della flotta ricevono numeri in ordine crescente con gli
+ 
+
+ 
+ identificativi ad esse assegnati. 
+ 
+
+ 
+ Le chiamate a gruppi all'interno della flotta sono realizzate
+ 
+
+ 
+ analogamente, assegnando un numero di inizio (in questo caso, 90 o
+ 
+
+ 
+ 900, secondo le dimensioni della flotta) all'identificativo di flotta
+ 
+
+ 
+ più basso. L'identificativo più basso (ID di base) usato dalla
+ 
+
+ 
+ flotta per le chiamate a gruppi sarà conservato all'interno di ogni
+ 
+
+ 
+ unità radio come parte dei dati di personalizzazione di flotte dei
+ 
+
+ 
+ terminali radio. 
+ 
+
+ 
+ Gli schemi di numerazione all'interno della flotta sono quindi posti
+ 
+
+ 
+ in relazione con gli identificativi assegnati, per mezzo di un
+ 
+
+ 
+ algoritmo. 
+ 
+
+ 
+ Le chiamate a PABX impiegato un offset per assicurare che venga
+ 
+
+ 
+ utilizzato al massimo il campo di indirizzamento tipo Parte 1a,
+ 
+
+ 
+ Sezione 2, da 0 a 8191, quando si inviano numeri di estensione.
+ 
+
+ 
+ Poichè il valore più basso di un numero di estensione in uno schema
+ 
+
+ 
+ di numerazione a 4 cifre non può essere inferiore a 1000, il valore
+ 
+
+ 
+ di tutte le stringhe selezionate viene ridotto di 1000 prima
+ 
+
+ 
+ dell'invio. In questo modo si garantisce che i numeri fino a 8999
+ 
+
+ 
+ vengano trasmessi in una chiamata con una singola parola di codice. 
+ 
+
+ 
+ Le chiamate richiedono l'indirizzamento esteso quando i numeri
+ 
+
+ 
+ terminali del PABX, o i codici di instradamento più i numeri
+ 
+
+ 
+ d'estensione, hanno 5 o più cifre. 
+ 
+
+ 
+ Se si usano 7, 8 o 0 come cifra iniziale entro la rete PABX, allora
+ 
+
+ 
+ la stessa stringa di selezione può essere utilizzata con l'unità
+ 
+
+ 
+ radio. Se si usano altre cifre iniziali entro la rete PABX, allora si
+ 
+
+ 
+ possono ancora scegliere le cifre iniziali 7, 8 o 0 per accedere a
+ 
+
+ 
+ PABX, purchè al punto di interfaccia tra la rete radio ed il PABX si
+ 
+
+ 
+ effettui l'appropiata trascodifica per garantire che al PABX venga
+ 
+
+ 
+ trasmessa la stringa corretta per l'instradamento della chiamata. 
+ 
+
+ 
+ 8.2.2. Filosofia 
+ 
+
+ 
+ 8.2.2.1. Relazioni con l'indirizzo 
+ 
+
+ 
+ Le cifre numeriche selezionate dall'utente sono tradotte in un
+ 
+
+ 
+ indirizzo specificato dalla Parte 1a, Sezione 2. Questo viene
+ 
+
+ 
+ trasmesso in una parola codice di indirizzo con (se necessarie)
+ 
+
+ 
+ parole di codice dati aggiuntive. 
+ 
+
+ 
+ Gli indicatori e gli indirizzi della Parte 1a, Sezione 2 sono usati
+ 
+
+ 
+ per inviare le informazioni di segnalazione tra l'unità radio e il
+ 
+
+ 
+ TSC, come parte della procedura di inoltro della chiamata. La
+ 
+
+ 
+ lunghezza delle cifre selezionate è parte integrante dello schema.
+ 
+
+ 
+ La lunghezza della stringa selezionata e la prima cifra indicano il
+ 
+
+ 
+ servizio richiesto dall'utente chiamante e sono entrambe usate per
+ 
+
+ 
+ impostare gli indicatori e gli indirizzi nella parola di codice
+ 
+
+ 
+ indirizzo. 
+ 
+
+ 
+ 8.2.2.2. Suddivisione degli identificativi 
+ 
+
+ 
+ Lo schema ripartisce il campo dell'identificativo usato dai TSC in
+ 
+
+ 
+ blocchi, considerando che ogni blocco risulta associato ad una flotta
+ 
+
+ 
+ utenti. Lo schema di numerazione di ogni flotta inizia con la
+ 
+
+ 
+ separazione dei blocchi ed utilizza un algoritmo per generare
+ 
+
+ 
+ l'identificativo chiamato partendo dalla stringa selezionata e
+ 
+
+ 
+ dall'identificativo di base della flotta. Questo identificativo ha
+ 
+
+ 
+ una relazione fissa con il Numero Individuale della Flotta (FIN) o
+ 
+
+ 
+ con il Numero di Gruppo della Flotta (FGN), rispettivamente. L'unità
+ 
+
+ 
+ avrà un archivio con il formato dei blocchi assegnati, per
+ 
+
+ 
+ assicurare che le chiamate interne alla flotta non vengano dirette
+ 
+
+ 
+ inavvertitamente fuori dal blocco, verso una unità appartenente ad
+ 
+
+ 
+ un'altra flotta. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ IDENTIFICATIVI FGN Numero individuale Dimensione 
+ 
+
+ 
+ della flotta 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 2269 | | 89
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ 2201 | | 21 70
+ 
+
+ 
+ (ID di base) 2200 | | 3100 20
+ 
+
+ 
+ ------ | | --------------------------
+ 
+
+ 
+ 2199 | | 395
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ 2007 | | 203
+ 
+
+ 
+ 2006 | | 202
+ 
+
+ 
+ 2005 | | 201 196
+ 
+
+ 
+ (ID di base) 2004 | | 3002 200
+ 
+
+ 
+ ------ | | --------------------------
+ 
+
+ 
+ 2003 | | 41
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ . | | . 22
+ 
+
+ 
+ (ID di base) 1982 | | 2991 20
+ 
+
+ 
+ | |
+ 
+
+ 
+ Figura 8.2. Relazione dei numeri di unità con gli IDENT, con
+ 
+
+ 
+ 
+ 
+
+ 
+ indicazione dei blocchi di numeri 
+ 
+
+ 
+ IDENTIFICATIVI FGN Numero Dimensione 
+ 
+
+ 
+ di gruppo della flotta 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7099 | | 995
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ 7006 | | 902
+ 
+
+ 
+ 7005 | | 901 96
+ 
+
+ 
+ 7004 | | 5502 900
+ 
+
+ 
+ (ID di base) ------ | | --------------------------
+ 
+
+ 
+ 7003 | | 97
+ 
+
+ 
+ . | | .
+ 
+
+ 
+ . | | . 8
+ 
+
+ 
+ (ID di base) 6996 | | 5498 90
+ 
+
+ 
+ | |
+ 
+
+ 
+ Figura 8.3. Relazione dei numeri di gruppo con gli IDENT, con
+ 
+
+ 
+ 
+ 
+
+ 
+ indicazione dei blocchi di numeri 
+ 
+
+ 
+ 8.2.2.3. Metodo di selezione 
+ 
+
+ 
+ Nelle unità radio è possibile effettuare la preselezione. Con il
+ 
+
+ 
+ tasto (cancelletto), l'utente indica di aver completato la selezione. 
+ 
+
+ 
+ Se è necessario modificare la funzione dell'inoltro della chiamata,
+ 
+
+ 
+ anche se non la destinazione, è possibile selezionare i modificatori
+ 
+
+ 
+ di chiamata prima del numero dell'utente chiamato. I modificatori
+ 
+
+ 
+ sono separati dal numero chiamato per mezzo del tasto *. Ved. sezione
+ 
+
+ 
+ 8.2.8. 
+ 
+
+ 
+ 8.2.2.4. Praticità per l'utente 
+ 
+
+ 
+ Sono adottati i seguenti criteri: 
+ 
+
+ 
+ - i servizi operativi della rete iniziano con un 1, e sono composti
+ 
+
+ 
+ da 3 cifre. 
+ 
+
+ 
+ - l'operatore PABX si può raggiungere con un singolo 0 
+ 
+
+ 
+ - schemi di numerazione PABX locali, quattro cifre, con cifre 
+ 
+
+ 
+ iniziali nel campo da 1 a 8 
+ 
+
+ 
+ - schemi di numerazione della rete PABX, stringhe selezionate di 5 e 
+ 
+
+ 
+ 7 cifre, con cifre iniziali 0, 7 e 8 
+ 
+
+ 
+ - schemi di numerazione, stringhe selezionate di 8 e 9 cifre, con 
+ 
+
+ 
+ cifre iniziali 7 e 8 
+ 
+
+ 
+ Per ottenere ciò, le stringhe selezionate per le chiamate verso
+ 
+
+ 
+ unità radio pongono i vincoli seguenti: 
+ 
+
+ 
+ - la prima cifra del prefisso è 2 o 3 (stringhe selezionate di 9 e
+ 
+
+ 
+ 10 cifre) 
+ 
+
+ 
+ - la prima cifra del numero di flotta è compresa tra 2 e 6 
+ 
+
+ 
+ - la prima cifra del numero di unità è compresa tra 2 e 8 (stringhe
+ 
+
+ 
+ selezionate di 2 e 3 cifre) 
+ 
+
+ 
+ 8.2.2.5. Tipi di accesso 
+ 
+
+ 
+ Lo schema di numerazione prevede almeno: 
+ 
+
+ 
+ - membri della stessa flotta 
+ 
+
+ 
+ - membri di altre flotte 
+ 
+
+ 
+ - membri di altre flotte con un prefisso diverso 
+ 
+
+ 
+ - terminazioni PABX associate con la flotta d'utente 
+ 
+
+ 
+ - servizi operativi della rete 
+ 
+
+ 
+ - servizi dati (da definirsi) 
+ 
+
+ 
+ 8.2.2.6. Utilizzo del visore 
+ 
+
+ 
+ Quando l'unità radio è provvista di un visore dove verranno
+ 
+
+ 
+ visualizzati i numeri, questa visualizzazione deve essere nella forma
+ 
+
+ 
+ in cui l'utente selezionerebbe il numero per effettuare la chiamata. 
+ 
+
+ 
+ 8.2.2.6.1. Visualizzazione dell'utente chiamato 
+ 
+
+ 
+ I numeri dell'utente chiamato saranno inseriti sul visore man mano
+ 
+
+ 
+ che l'utente digita il numero chiamato. Se non possono essere
+ 
+
+ 
+ visualizzati i simboli * e (cancelletto), si potrà avere la
+ 
+
+ 
+ visualizzazione di un simbolo alternativo non numerico (es. -),
+ 
+
+ 
+ oppure la visualizzazione potrà essere cancellata con l'inserimento
+ 
+
+ 
+ del carattere non numerico. 
+ 
+
+ 
+ 8.2.2.6.2. Visualizzazione dell'utente chiamante 
+ 
+
+ 
+ I numeri degli utenti chiamanti di cui è possibile ottenere la
+ 
+
+ 
+ visualizzazione sono quelli provenienti da unità della stessa flotta
+ 
+
+ 
+ dell'unità che effettua la visualizzazione o di altre flotte per cui
+ 
+
+ 
+ l'unità conserva i dati relativi. Le chiamate per cui non è
+ 
+
+ 
+ possibile visualizzare il numero dell'utente chiamante possono avere
+ 
+
+ 
+ un indicatore che indicherà il tipo generale della chiamata
+ 
+
+ 
+ ricevuta, per esempio: flotta esterna (prefisso comune o
+ 
+
+ 
+ interprefisso), PABX, etc. 
+ 
+
+ 
+ 8.2.2.6.3. Visualizzazione del numero della chiamata deviata 
+ 
+
+ 
+ I numeri visualizzati quando si riceve l'ACKT (numeri per le chiamate
+ 
+
+ 
+ deviate) (__9.2.1.4__) saranno decodificati a partire dall'IDENT1 in
+ 
+
+ 
+ ingresso, ricorrendo ai metodi descritti nel paragrafo 8.2.2.6.2.
+ 
+
+ 
+ Quando l'ACKT ha accodato le parole di codice dati, l'indirizzo del
+ 
+
+ 
+ gateway nell'ACKT e lo stile delle parole di codice determinano
+ 
+
+ 
+ l'azione da eseguire. (__5.5.2.1__). Le chiamate in cui il numero
+ 
+
+ 
+ deviato può essere visualizzato sono quelle provenienti da unità
+ 
+
+ 
+ della stessa flotta dell'unità che effettua la visualizzazione o di
+ 
+
+ 
+ altre flotte per cui l'unità conserva una banca dati. I numeri del
+ 
+
+ 
+ PABX vengono visualizzati usando i dati nelle parole codice aggiunte. 
+ 
+
+ 
+ 8.2.2.7. Accesso per il tecnico 
+ 
+
+ 
+ è possibile fornire la funzione con cui i tecnici possano
+ 
+
+ 
+ selezionare indirizzi completi dell'unità radio a scopo di prova,
+ 
+
+ 
+ utilizzando la rappresentazione decimale dell'indirizzo descritto in
+ 
+
+ 
+ Parte 1a, Sezione 2 (ved. 8.2.4.8). Si consiglia di proteggere tale
+ 
+
+ 
+ funzione per impedire l'accesso di persone non autorizzate. 
+ 
+
+ 
+ 8.2.3. Termini, Relazioni e necessità di memoria 
+ 
+
+ 
+ 8.2.3.1. Termini e relazioni 
+ 
+
+ 
+ Prefisso dell'identificativo (PFIX): definito nella Parte 1a, Tomo 2
+ 
+
+ 
+ (__2__) 
+ 
+
+ 
+ Identificativo di base (BI): Qualunque identificativo con valore pari
+ 
+
+ 
+ (BIT meno significativo = 0) compreso tra 0 e 8100 che risulta essere
+ 
+
+ 
+ il valore più basso nel blocco di identificativi assegnati alla
+ 
+
+ 
+ flotta. Il campo va da 2 a 8100. '0' è DUMMYI e non può essere
+ 
+
+ 
+ usato. 
+ 
+
+ 
+ Identificativo individuale di base (IBI). L'identificativo di base
+ 
+
+ 
+ assegnato al blocco di identificativi usati per le chiamate
+ 
+
+ 
+ individuali. 
+ 
+
+ 
+ Identificativo di base di gruppo (GBI). L'identificativo di base
+ 
+
+ 
+ assegnato al blocco di identificativi usato per le chiamate di
+ 
+
+ 
+ gruppo. 
+ 
+
+ 
+ Prefisso del numero (NP): NP = PFIX + 200. Il campo va da 200 a 327. 
+ 
+
+ 
+ Numero di flotta (FN): FN = BI/2 + 2000, dove BI è l'identificativo
+ 
+
+ 
+ più basso del blocco assegnato alla flotta. Il campo va da 2001 a
+ 
+
+ 
+ 6050. IL gestore della rete può limitate il campo per altri scopi. 
+ 
+
+ 
+ Numero individuale di flotta (FIN): Un numero FN che individua un
+ 
+
+ 
+ blocco di Numeri di terminali radio d'utente. 
+ 
+
+ 
+ Numero di unità (UN): Il numero dell'unità è composto da due o da
+ 
+
+ 
+ tre cifre, secondo le dimensioni della flotta, ed è caratteristico
+ 
+
+ 
+ di una unità per ciascuna flotta. 
+ 
+
+ 
+ a 2 cifre UN = identificativo individuale di unità - IBI + 20 
+ 
+
+ 
+ campo di numerazione: DA 20 a 89 (dimensioni della flotta fino ad un
+ 
+
+ 
+ massimo di 70) 
+ 
+
+ 
+ a 3 cifre UN = Identificativo selettivo di unità - IBI + 200 
+ 
+
+ 
+ campo di numerazione: DA 200 a 899 (dimensioni della flotta fino ad
+ 
+
+ 
+ un massimo di 700) 
+ 
+
+ 
+ Numero di gruppo della flotta (FGN): Un numero FN identifica un
+ 
+
+ 
+ blocco di numeri di gruppo. Numero di gruppo (GN): Il numero di
+ 
+
+ 
+ gruppo è composto da due o da tre cifre, secondo le dimensioni della
+ 
+
+ 
+ flotta, ed è assegnato ad unità che abbiano interessi comuni. 
+ 
+
+ 
+ a 2 cifre GN = identificativo di gruppo - GBI + 90 
+ 
+
+ 
+ campo di numerazione: da 90 a 99 
+ 
+
+ 
+ a 3 cifre GN = identificativo di gruppo - GBI + 900 
+ 
+
+ 
+ campo di numerazione: da 900 a 998 (999 è riservato per situazioni
+ 
+
+ 
+ di emergenza) 
+ 
+
+ 
+ Dimensioni del blocco: Dimensioni del blocco assegnato ad una flotta
+ 
+
+ 
+ di utenti per ogni forma di Identificativo di Base utilizzato dai
+ 
+
+ 
+ componenti della flotta. L'unità memorizzerà le dimensioni del
+ 
+
+ 
+ blocco o il valore massimo del numero selezionato in forma tale da
+ 
+
+ 
+ evitare di fare chiamate fuori dal blocco. 
+ 
+
+ 
+ I numeri saranno scritti nella seguente forma: 
+ 
+
+ 
+ 
+ 
+
+ 
+ _ _ _ _ _ _ 
+ 
+
+ 
+ 
+ 
+
+ 
+ | NP | | FIN | | UN | per i numeri individuali
+ 
+
+ 
+ | | | | | |
+ 
+
+ 
+ es. 245 3456 23
+ 
+
+ 
+ 201 3578 467
+ 
+
+ 
+ 
+
+ 
+ | | | | | |
+ 
+
+ 
+ | NP | | FGN | | GN | per i numeri di gruppo
+ 
+
+ 
+ | | | | | |
+ 
+
+ 
+ 
+ 
+
+ 
+ es. 245 5456 93 
+ 
+
+ 
+ 201 5578 967 
+ 
+
+ 
+ I numeri sono selezionati a partire dal blocco più significativo di
+ 
+
+ 
+ numeri che sia diverso dal numero stesso dell'unità. 
+ 
+
+ 
+ 8.2.3.2. Requisiti di memoria 
+ 
+
+ 
+ 8.2.3.2.1. Requisiti di memoria obbligatorie 
+ 
+
+ 
+ Allo scopo di eseguire le procedure descritte in questa sezione,
+ 
+
+ 
+ l'unità radio fornirà la seguente memoria (memoria di sola
+ 
+
+ 
+ lettura), adeguata alla rete selezionata, purchè l'unità disponga
+ 
+
+ 
+ dei mezzi che le consentano di accettare i numeri dell'utente
+ 
+
+ 
+ chiamato: 
+ 
+
+ 
+ i. L'identificativo di base individuale per la flotta di cui fa parte
+ 
+
+ 
+ l'unità (flotta propria) 
+ 
+
+ 
+ ii. Identificativo di base di gruppo per la flotta propria
+ 
+
+ 
+ dell'unità. 
+ 
+
+ 
+ iii. Un indicatore per la scelta della lunghezza di stringa del
+ 
+
+ 
+ numero individuale della flotta propria, cioè stringhe da 2 o da 3
+ 
+
+ 
+ cifre. 
+ 
+
+ 
+ iv. Un indicatore per la scelta della lunghezza di stringa del numero
+ 
+
+ 
+ di gruppo della flotta propria, cioè stringhe da 2 o da 3 cifre. 
+ 
+
+ 
+ v. L'identificativo individuale della flotta propria o il numero
+ 
+
+ 
+ selezionato più alti consentiti. 
+ 
+
+ 
+ vi. L'identificativo di gruppo della flotta propria o il numero
+ 
+
+ 
+ selezionato più alti consentiti. 
+ 
+
+ 
+ vii. Un indicatore per bloccare le chiamate di gruppo tra flotte. 
+ 
+
+ 
+ 8.2.3.2.2. Requisiti di memoria di sola lettura facoltativi 
+ 
+
+ 
+ i. Dieci identificativi dell'utente chiamato o numeri per la
+ 
+
+ 
+ traduzione. Ciascuno di essi è associato ad una selezione a singola
+ 
+
+ 
+ cifra. 
+ 
+
+ 
+ ii. Varie combinazioni da i) a vi) del paragrafo 8.2.3.2.1 per
+ 
+
+ 
+ flotta; ogni elemento è memorizzato dietro alle prime due o tre
+ 
+
+ 
+ cifre delle chiamate a cinque cifre effettuate verso altre flotte. 
+ 
+
+ 
+ iii. Indirizzo o numero per completare i dettagli di chiamata della
+ 
+
+ 
+ stringa *0(cancelletto). 
+ 
+
+ 
+ iv. Indirizzo o numero per completare i dettagli di chiamata della
+ 
+
+ 
+ stringa *Onn(cancelletto). v. Indirizzo o numero per completare i
+ 
+
+ 
+ dettagli di chiamata per la stringa *9(cancelletto). 
+ 
+
+ 
+ 8.2.4. Numerazione dell'unità radio e del terminale di utente a 
+ 
+
+ 
+ connessione diretta 
+ 
+
+ 
+ 8.2.4.1. Stringhe selezionate ad una cifra (facoltative) 
+ 
+
+ 
+ La traduzione da stringhe selezionate ad una cifra e gli
+ 
+
+ 
+ identificativi corrispondenti non è specificata. Si consiglia di
+ 
+
+ 
+ usare lo 0 per le chiamate ad una unità di dispaccio o ad un
+ 
+
+ 
+ operatore PABX. (ved. 8.2.5) 
+ 
+
+ 
+ 8.2.4.2. Stringhe selezionate a due cifre (obbligatorie) 
+ 
+
+ 
+ Le stringhe selezionate a due cifre nel campo da 20 a 89 compresi
+ 
+
+ 
+ saranno usate per chiamare le unità appartenenti alla stessa flotta. 
+ 
+
+ 
+ L'unità farà riferimento al proprio identificativo individuale di
+ 
+
+ 
+ base (IBI) e genererà l'identificativo dell'utente chiamato, per
+ 
+
+ 
+ mezzo dell'algoritmo seguente, ottenuto dal Numero di Utente
+ 
+
+ 
+ selezionato (UN): 
+ 
+
+ 
+ Identificativo individuale chiamato = IBI + UN - 20 
+ 
+
+ 
+ Le stringhe selezionate a due cifre nel campo tra 90 e 99 compresi
+ 
+
+ 
+ saranno usate per chiamate di gruppo di utenti nella stessa flotta.
+ 
+
+ 
+ L'apparato d'utente farà riferimento al proprio identificativo di
+ 
+
+ 
+ gruppo di base (GBI) e genererà l'identificativo del gruppo
+ 
+
+ 
+ chiamato, per mezzo dell'algoritmo seguente, ottenuto dal numero di
+ 
+
+ 
+ gruppo selezionato (GN): Identificativo di gruppo chiamato = GBI + GN 
+ 
+
+ 
+ - 90 
+ 
+
+ 
+ I numeri di gruppo a due cifre e i numeri di unità a tre cifre
+ 
+
+ 
+ possono essere usati nella stessa flotta. 
+ 
+
+ 
+ L'unità verificherà che i numeri selezionati UN o GN non siano
+ 
+
+ 
+ maggiori del valore massimo assegnato durante la personalizzazione
+ 
+
+ 
+ della rete. 
+ 
+
+ 
+ Nota: I numeri da 00 a 02, da 07 a 09 e da 10 a 19 non sono
+ 
+
+ 
+ specificati. Per usare i numeri da 03 a 06, far riferimento alla
+ 
+
+ 
+ sezione 8.2.5. 
+ 
+
+ 
+ 8.2.4.3. Stringhe selezionate a tre cifre (obbligatorie) 
+ 
+
+ 
+ Le stringhe selezionate a tre cifre nel campo da 200 a 899 compresi
+ 
+
+ 
+ saranno usate per chiamare unità appartenenti alla stessa flotta.
+ 
+
+ 
+ L'unità farà riferimento al suo identificativo di base individuale
+ 
+
+ 
+ (IBI) e genererà l'identificativo dell'utente chiamato usando
+ 
+
+ 
+ l'algoritmo seguente, ottenuto dal Numero di apparato selezionato
+ 
+
+ 
+ (UN): 
+ 
+
+ 
+ Identificativo individuale chiamato = IBI + UN - 200 
+ 
+
+ 
+ Le stringhe selezionate a tre cifre nel campo 900 e 998 compresi
+ 
+
+ 
+ devono essere usate per chiamate di gruppo di apparati della stessa
+ 
+
+ 
+ flotta. L'apparato farà riferimento al proprio identificativo di
+ 
+
+ 
+ gruppo di base (GBI) e genererà l'identificativo del gruppo chiamato
+ 
+
+ 
+ usando il seguente algoritmo, ottenuto dal numero di gruppo
+ 
+
+ 
+ selezionato (GN): Identificativo di gruppo chiamato = GBI + GN - 900 
+ 
+
+ 
+ I numeri di gruppo a tre cifre e i numeri di unità a due cifre
+ 
+
+ 
+ possono essere usati all'interno della stessa flotta. 
+ 
+
+ 
+ L'unità verificherà che i numeri UN o GN selezionati non siano
+ 
+
+ 
+ superiori al valore massimo assegnato durante la personalizzazione
+ 
+
+ 
+ della rete. 
+ 
+
+ 
+ Nota: I numeri da 000 a 099 non sono specificati. Certi numeri
+ 
+
+ 
+ compresi tra 100 e 199 e il numero 999 sono usati per le chiamate per
+ 
+
+ 
+ assistenza (facoltativo - ved. sezione 8.2.7). 
+ 
+
+ 
+ 8.2.4.4. Stringhe selezionate a quattro cifre (facoltative) 
+ 
+
+ 
+ Le stringhe di selezione a 4 cifre nel campo da 1000 a 8999 vengono
+ 
+
+ 
+ usate per accedere a PABX, vedere 8.2.5. 
+ 
+
+ 
+ Altre stringhe di selezione a quattro cifre non sono specificate. 
+ 
+
+ 
+ 8.2.4.5. Stringhe selezionate a cinque cifre. Prima cifra 2 o 9
+ 
+
+ 
+ (facoltative) 
+ 
+
+ 
+ Le stringhe selezionate a cinque cifre con prima cifra 2 o 9 possono
+ 
+
+ 
+ essere usate per effettuare chiamate tra flotte individuali o di
+ 
+
+ 
+ gruppo. Se si devono effettuare entrambi i tipi di chiamata, si
+ 
+
+ 
+ raccomanda di adottare convenzionalmente 2 per le chiamate normali e
+ 
+
+ 
+ 9 per le chiamate di gruppo. La manipolazione della stringa
+ 
+
+ 
+ selezionata dipende dalla lunghezza del numero di unità dell'utente
+ 
+
+ 
+ chiamato. La prima parte della stringa selezionata forma un "codice
+ 
+
+ 
+ di instradamento" che individua la flotta a cui appartiene l'unità
+ 
+
+ 
+ chiamata. Se il numero dell'unità chiamata è di 2 cifre, il codice
+ 
+
+ 
+ sarà di 3 cifre. Se il numero dell'unità chiamata è di 3 cifre, il
+ 
+
+ 
+ codice sarà di 2 cifre. L'unità conterrà una tabella di
+ 
+
+ 
+ riferimento (campo di traduzione) in cui il "codice di instradamento"
+ 
+
+ 
+ viene convertito in FN (o nel suo indirizzo corrispondente) adeguato
+ 
+
+ 
+ all'unità chiamata. La tabella conterrà anche i dati relativi al
+ 
+
+ 
+ punto di separazione tra il "codice di instradamento" e il numero
+ 
+
+ 
+ dell'unità e indicherà se la chiamata è rivolta all'indirizzo di
+ 
+
+ 
+ un gruppo. Questi ultimi dati saranno usati prima di accettare un
+ 
+
+ 
+ comando per impostare RQS o RQE; FLAG1 = "1" in una chiamata di
+ 
+
+ 
+ gruppo. 
+ 
+
+ 
+ es. per una chiamata individuale (RC UN): 28 789(cancelletto) 
+ 
+
+ 
+ 28 è tradotto dall'unità, per esempio, nell'indirizzo di base della 
+ 
+
+ 
+ flotta: 34/936 
+ 
+
+ 
+ Il prefisso è usato direttamente e l'IDENT chiamato, 1525, viene
+ 
+
+ 
+ calcolato con l'algoritmo: 
+ 
+
+ 
+ ID = IBI - 200 + UN 
+ 
+
+ 
+ 1525 = 936 - 200 + 789 
+ 
+
+ 
+ Seguirà, secondo i casi, una chiamata con prefisso comune o una
+ 
+
+ 
+ chiamata con indirizzamento esteso. 
+ 
+
+ 
+ Per una chiamata ad un gruppo (RC GN): 984 98(cancelletto) 
+ 
+
+ 
+ 984 è tradotto, per esempio, nell'indirizzo di base di gruppo: 
+ 
+
+ 
+ 34/5936 
+ 
+
+ 
+ Il prefisso è usato direttamente e l'IDENT chiamato, 5944, è
+ 
+
+ 
+ calcolato usando l'algoritmo: 
+ 
+
+ 
+ ID = GBI - 90 + GN 
+ 
+
+ 
+ 5944 = 5936 - 90 + 98 
+ 
+
+ 
+ Seguirà, secondo i casi, una chiamata con prefisso comune o una
+ 
+
+ 
+ chiamata ad indirizzamento esteso. 
+ 
+
+ 
+ Nota: Non sono specificate le stringhe selezionate di questa
+ 
+
+ 
+ lunghezza che iniziano con 1. 
+ 
+
+ 
+ Le stringhe selezionate che hanno come cifre iniziali 3, 4, 5, 6, 7,
+ 
+
+ 
+ 8 e 0 sono usate per le chiamate a PABX. 
+ 
+
+ 
+ 8.2.4.6. Stringhe selezionate a sei cifre. Prima cifra da 2 a 6
+ 
+
+ 
+ (obbligatorie) 
+ 
+
+ 
+ Una stringa selezionata a sei cifre con la prima cifra compresa tra 2
+ 
+
+ 
+ e 6 sarà usata per le chiamate tra flotte, purchè la chiamata
+ 
+
+ 
+ avvenga tra unità che hanno un prefisso comune. Le prime quattro
+ 
+
+ 
+ cifre costituiscono il numero di flotta (FN) dell'utente chiamato, da
+ 
+
+ 
+ cui l'unità creerà un identificativo di base. 
+ 
+
+ 
+ BI = 2 (FN - 2000) 
+ 
+
+ 
+ Usando l'identificativo di base creato e il resto della stringa
+ 
+
+ 
+ selezionata come numero di unità (UN), l'unità crea una chiamata
+ 
+
+ 
+ con prefisso comune usando le procedure specificate nel para.
+ 
+
+ 
+ 8.2.4.2. 
+ 
+
+ 
+ Identificativo individuale chiamato = BI + UN - 20 
+ 
+
+ 
+ Le chiamate di gruppo, che sono identificabili dalla quinta cifra che
+ 
+
+ 
+ è 9, sono gestite analogamente. 
+ 
+
+ 
+ Identificativo del gruppo chiamato = BI + GN - 90 
+ 
+
+ 
+ Deve essere possibile eliminare le chiamate di gruppo tra flotte
+ 
+
+ 
+ durante la caratterizzazione dell'unità. 
+ 
+
+ 
+ Nota: Le stringhe selezionate di questa lunghezza che iniziano con 0,
+ 
+
+ 
+ 7 e 8 vengono usate per chiamate a PABX. 
+ 
+
+ 
+ Le stringhe selezionate di questa lunghezza che iniziano con 1 non
+ 
+
+ 
+ sono specificate. 
+ 
+
+ 
+ 8.2.4.7. Stringa selezionata a 7 cifre. Prima cifra da 2 a 6
+ 
+
+ 
+ (obbligatorie) 
+ 
+
+ 
+ Una stringa selezionata a sette cifre con la prima cifra compresa tra
+ 
+
+ 
+ 2 e 6 sarà usata per le chiamate tra flotte, purchè la chiamata
+ 
+
+ 
+ avvenga tra unità aventi un prefisso comune. Le prime quattro cifre
+ 
+
+ 
+ costituiscono il numero di flotta (FN) dell'utente chiamato, da cui
+ 
+
+ 
+ l'unità creerà un identificativo di base. 
+ 
+
+ 
+ BI = 2 (FN - 2000) 
+ 
+
+ 
+ Usando l'identificativo di base creato e il resto della stringa
+ 
+
+ 
+ selezionata come numero di unità (UN), l'unità crea una chiamata
+ 
+
+ 
+ con prefisso comune attuando le procedure descritte nel paragrafo
+ 
+
+ 
+ 8.2.4.3. 
+ 
+
+ 
+ Identificativo individuale chiamato = BI + UN - 200 
+ 
+
+ 
+ Le chiamate di gruppo, che sono identificabili dal 9 usato come
+ 
+
+ 
+ quinta cifra, sono gestite analogamente. 
+ 
+
+ 
+ Identificativo di gruppo chiamato = BI + GN - 900 
+ 
+
+ 
+ Grazie alla personalizzazione dell'unità, sarà possibile interdire
+ 
+
+ 
+ le chiamate di gruppo tra flotte. 
+ 
+
+ 
+ Nota: Le stringhe selezionate di questa lunghezza che iniziano con 0,
+ 
+
+ 
+ 7 e 8 vengono usate per chiamate a PABX. 
+ 
+
+ 
+ Le stringhe selezionate di questa lunghezza, che comincino con 1, non
+ 
+
+ 
+ sono specificate. 
+ 
+
+ 
+ 8.2.4.8. Stringhe selezionate ad otto cifre. Prima cifra 1 (Funzione
+ 
+
+ 
+ per il tecnico - facoltativa) 
+ 
+
+ 
+ Quando è attivata la funzione per il tecnico, le stringhe
+ 
+
+ 
+ selezionate ad 8 cifre dove: la prima cifra è 1, le cifre da 2 a 4
+ 
+
+ 
+ sono nel campo 000 e 127 e le cifre da 5 a 8 nel campo da 0001 a
+ 
+
+ 
+ 8100, inoltreranno una chiamata ad un indirizzo con rappresentazione
+ 
+
+ 
+ decimale delle ultime sette cifre della stringa selezionata. 
+ 
+
+ 
+ La stringa selezionata avrà la forma seguente: 
+ 
+
+ 
+ 1 PFIX IDENT 
+ 
+
+ 
+ es. 1 012 0246 
+ 
+
+ 
+ L'unità trasformerà le rappresentazioni decimali selezionate del
+ 
+
+ 
+ prefisso e dell'identificativo nei loro equivalenti binari e userà
+ 
+
+ 
+ questi ultimi per trasmettere una parola singola di codice indirizzo,
+ 
+
+ 
+ oppure una richiesta di chiamata ad indirizzamento esteso, a secondo
+ 
+
+ 
+ di cosa sta appropriato all'indirizzo proprio dell'unità radio. 
+ 
+
+ 
+ Va notato che, nonostante gli indirizzi siano scritti in forma
+ 
+
+ 
+ 12/246, bisognerà comporre i primi zero, ottenendo quindi: 012 0246.
+ 
+
+ 
+ Gli identificativi superiori a 8100 saranno bloccati per impedire
+ 
+
+ 
+ chiamate agli indirizzi di gateway che possano causare condizioni
+ 
+
+ 
+ potenziali di errore. 
+ 
+
+ 
+ 8.2.4.9. Stringhe selezionate a nove cifre. Prima cifra 2 o 3
+ 
+
+ 
+ (obbligatorie) 
+ 
+
+ 
+ Una stringa selezionata a nove cifre dove la prima cifra è 2 o 3
+ 
+
+ 
+ sarà usata per chiamate fra flotte, quando la chiamata si verifica
+ 
+
+ 
+ tra unità che abbiano prefissi diversi. Le prime tre cifre
+ 
+
+ 
+ costituiscono il Prefisso del Numero (NP) dell'utente chiamato, da
+ 
+
+ 
+ cui l'unità creerà un prefisso (PFIX). 
+ 
+
+ 
+ PFIX = NP - 200 
+ 
+
+ 
+ Il resto della stringa selezionata sarà manipolato come descritto
+ 
+
+ 
+ nel paragrafo 8.2.4.6. Una chiamata ad indirizzamento esteso sarà
+ 
+
+ 
+ inviata a IPFIXI e l'unità risponderà ad un AHYC con un SAMIS che
+ 
+
+ 
+ conterrà l'indirizzo dell'utente chiamato (__9.2.2.1__). L'unità
+ 
+
+ 
+ tratterrà il Prefisso del Numero se questo corrisponderà al
+ 
+
+ 
+ Prefisso del Numero proprio dell'unità e ricorrerà ad una chiamata
+ 
+
+ 
+ a prefisso unico, con parola codice ad indirizzo selettivo. 
+ 
+
+ 
+ 8.2.4.10. Stringhe selezionate a dieci cifre. Prima cifra 2 o 3
+ 
+
+ 
+ (obbligatoria) 
+ 
+
+ 
+ Una stringa selezionata a dieci cifre, dove le prime cifre sono 2 o
+ 
+
+ 
+ 3, sarà usata per le chiamate interne alla flotta in cui la chiamata
+ 
+
+ 
+ avviene tra unità con prefissi diversi. Le prime tre cifre sono il
+ 
+
+ 
+ Prefisso del Numero dell'utente chiamato (NP), da cui l'unità
+ 
+
+ 
+ creerà un prefisso (PFIX). 
+ 
+
+ 
+ PFIX = NP - 200 
+ 
+
+ 
+ Il resto della stringa selezionata sarà manipolato come specificato
+ 
+
+ 
+ nel paragrafo 8.2.4.7. Una chiamata ad indirizzamento esteso sarà
+ 
+
+ 
+ effettuata verso IPFIXI e l'unità risponderà ad un AHYC con un
+ 
+
+ 
+ SAMIS, contenente l'indirizzo dell'utente chiamato (__9.2.2.1__).
+ 
+
+ 
+ L'unità tratterrà il Prefisso del Numero se corrisponde a quello
+ 
+
+ 
+ proprio dell'unità e ricorrerà ad una chiamata a prefisso comune,
+ 
+
+ 
+ con parola codice ad indirizzo selettivo. 
+ 
+
+ 
+ Nota: Le stringhe selezionate di questa lunghezza iniziano con 0; non
+ 
+
+ 
+ sono specificate altre prime cifre. 
+ 
+
+ 
+ 8.2.5. Numerazione PABX (facoltativa) 
+ 
+
+ 
+ In Parte 1a, Tomo 2 è permesso all'unità radio di trasmettere
+ 
+
+ 
+ numeri tra 0 e 8191 con EXT = '1' in una chiamata con una singola
+ 
+
+ 
+ parola codice d'indirizzamento RQS o RQE; ciò per indicare che
+ 
+
+ 
+ l'identità chiamata è un numero d'estensione su un PABX associato
+ 
+
+ 
+ all'unità radio che chiama (__5.5.3.1.1.__). FLAG 1 e FLAG 2 vengono
+ 
+
+ 
+ usate per selezionare un PABX, da un massimo di 4. Il TSC inoltra il
+ 
+
+ 
+ numero selezionato al PABX scelto. Le procedure di indirizzamento
+ 
+
+ 
+ estese si richiedono tramite l'accesso PABXI per chiamate dirette
+ 
+
+ 
+ alle derivazioni di centralini che impiegano 5 o più cifre, o a reti
+ 
+
+ 
+ di PABX più ampie. 
+ 
+
+ 
+ La maggior parte dei PABX usano stringhe selezionate di lunghezza
+ 
+
+ 
+ fissa, la cui cifra iniziale è uguale o più grande di 1. In questo
+ 
+
+ 
+ modo, il massimo campo di numeri che si può incontrare e che si può
+ 
+
+ 
+ adattare in una chiamata a singola parola di codice d'indirizzamento
+ 
+
+ 
+ va da 1000 a 8999. Tuttavia, questo campo può essere utilizzato
+ 
+
+ 
+ solamente interponendo un offset nella richiesta trasmessa
+ 
+
+ 
+ dall'unità chiamante. Tale offset viene rimosso dal TSC. L'offset è
+ 
+
+ 
+ 1000; in questo modo per i numeri di estensione EXTN nel campo 1000 -
+ 
+
+ 
+ 8999 l'unità invia da 0 a 7999 in IDENT1. 
+ 
+
+ 
+ IDENT1 = DS - 1000 
+ 
+
+ 
+ Per le chiamate ai PABX con stringhe selezionate la cui lunghezza è
+ 
+
+ 
+ inferiore alle quattro cifre, si devono inserire cifre fittizie nella
+ 
+
+ 
+ posizione delle cifre iniziali (perchè vengano descritte come codici
+ 
+
+ 
+ di chiamata nell'indirizzario dell'utente) per portare la lunghezza
+ 
+
+ 
+ della stringa selezionata a quattro cifre. I valori consigliati sono
+ 
+
+ 
+ 7, 77, etc. Codici differenti possono essere usati per instradare
+ 
+
+ 
+ chiamate a differenti centralini di derivazione, su accordo tra
+ 
+
+ 
+ l'operatore di rete e l'utente PABX. Stringhe selezionate più corte
+ 
+
+ 
+ su PABX con lunghezza di numerazione mista possono essere trattate
+ 
+
+ 
+ nella stessa maniera. 
+ 
+
+ 
+ Se si richiede accesso ad un piccolo gruppo di centralini di
+ 
+
+ 
+ derivazione (un massimo di quattro), allora FLAG1 e FLAG2 devono
+ 
+
+ 
+ essere impostati nella parola di codice di indirizzo RQS o RQE, per
+ 
+
+ 
+ indicare a quale centralino compete l'estensione di chiamata. Gli
+ 
+
+ 
+ indicatori vengono impostati nell'unità radio, usando una cifra
+ 
+
+ 
+ iniziale prima del numero d'estensione, che, in questo modo, richiede
+ 
+
+ 
+ all'utente di selezionare una stringa di cinque cifre. 
+ 
+
+ 
+ Per accedere a reti di PABX più ampie si usano procedure di
+ 
+
+ 
+ indirizzamento estese. Queste sono impostate selezionando stringhe
+ 
+
+ 
+ lunghe da 5 a 8 cifre e usando particolari cifre iniziali. 
+ 
+
+ 
+ 8.2.5.1. Stringhe selezionate con una singola cifra 
+ 
+
+ 
+ Per chiamare un operatore PABX, l'unità deve essere predisposta per
+ 
+
+ 
+ chiamare l'identificativo 8000, con EXT = '1' FLAG1 = '0' e FLAG2 =
+ 
+
+ 
+ '0', quando si seleziona lo '0'. 
+ 
+
+ 
+ 8.2.5.2. Stringhe selezionate con due cifre 
+ 
+
+ 
+ Una stringa selezionata a due cifre, entro il campo di 03 - 06, sarà
+ 
+
+ 
+ usata per selezionare uno dei quattro diversi operatori delle
+ 
+
+ 
+ centrali di derivazione. L'unità radio sarà settata per chiamare
+ 
+
+ 
+ l'identificativo 8000 con EXT = '1', FLAG1 e FLAG2 impostate secondo
+ 
+
+ 
+ la seguente tabella: 
+ 
+
+ 
+ FLAG1 FLAG2 
+ 
+
+ 
+ 03 '0' '0' 
+ 
+
+ 
+ 04 '0' '1' 
+ 
+
+ 
+ 05 '1' '0' 
+ 
+
+ 
+ 06 '1' '1' 
+ 
+
+ 
+ 8.2.5.3 Stringhe selezionate con tre cifre 
+ 
+
+ 
+ Le stringhe selezionate a tre cifre non vengono usate per chiamate
+ 
+
+ 
+ PABX. 
+ 
+
+ 
+ 8.2.5.4 Stringhe selezionate a quattro cifre 
+ 
+
+ 
+ L'unità radio accetterà qualsiasi stringa selezionata a quattro
+ 
+
+ 
+ cifre come una chiamata al PABX e imposterà l'indicatore EXT a '1'.
+ 
+
+ 
+ FLAG1 e FLAG2 verranno settate a '0'. Il numero di estensione
+ 
+
+ 
+ selezionato (EXTN) sarà diminuito di 1000 e ciò che risulterà
+ 
+
+ 
+ sarà trasmesso come l'identificativo chiamato (ved. 8.2.5). 
+ 
+
+ 
+ IDENT = EXTN - 1000 
+ 
+
+ 
+ 8.2.5.5 Stringhe selezionate a 5 cifre. Cifre iniziali da 3 a 6 
+ 
+
+ 
+ Le stringhe selezionate a 5 cifre con cifra iniziale da 3 a 6 si
+ 
+
+ 
+ comportano in modo analogo alle stringhe selezionate a 4 cifre, ma
+ 
+
+ 
+ l'unità radio imposterà FLAG1 e FLAG2 in RQS o RQE, o EXCHANGE in
+ 
+
+ 
+ SAMIS, secondo la seguente tabella: 
+ 
+
+ 
+ Cifre iniziali FLAG1 FLAG2 EXCHANGE (SAMIS) 
+ 
+
+ 
+ 
+ 
+
+ 
+ ||5.5.3.1.1|| ||5.6.1.2.2||
+ 
+
+ 
+ 
+ 
+
+ 
+ 3 '0' '0' '00' 
+ 
+
+ 
+ 4 '0' '1' '01' 
+ 
+
+ 
+ 5 '1' '0' '10' 
+ 
+
+ 
+ 6 '1' '1' '11' 
+ 
+
+ 
+ Avendo usato la cifra iniziale nella stringa selezionata a cinque
+ 
+
+ 
+ cifre per settare FLAG1 e FLAG2, l'unità radio interpreterà le
+ 
+
+ 
+ restanti quattro cifre come è descritto in 8.2.5.4. 
+ 
+
+ 
+ 8.2.5.6 Stringhe selezionate da 5 a 7 cifre. Cifre iniziali 0, 7 o 8 
+ 
+
+ 
+ Le stringhe selezionate da 5 a 7 cifre, la cui cifra iniziale è 0, 7
+ 
+
+ 
+ o 8 saranno usate per inviare una chiamata verso PABXI. Alla
+ 
+
+ 
+ ricezione di un Mode 1 AHYC con IDENT1 = PABXI e DESC = '010',
+ 
+
+ 
+ l'unità risponderà con un SAMIS contenente DESC = '010' e con
+ 
+
+ 
+ l'intera stringa selezionata che occupa i blocchi BCD comincianti con
+ 
+
+ 
+ BCD1. I blocchi inutilizzati devono essere riempiti con NULL. 
+ 
+
+ 
+ Nota: Le stringhe selezionate a cinque cifre con iniziali 2 o 9 sono
+ 
+
+ 
+ usate per chiamate inter-flotta e la cifra iniziale 1 non viene
+ 
+
+ 
+ specificata. 
+ 
+
+ 
+ 8.2.5.7 Stringhe selezionate con 8 o 9 cifre. Cifre iniziali 7 o 8 
+ 
+
+ 
+ Le stringhe selezionate ad otto o nove cifre con cifre iniziali 7 o 8
+ 
+
+ 
+ faranno si che l'unità radio invii una chiamata PABXI. Quando riceve
+ 
+
+ 
+ un Mode 1 AHYC con IDENT1 = PABXI e DESC = '010', l'unità radio
+ 
+
+ 
+ risponderà con un SAMIS contenente DESC = '010' e con l'intera
+ 
+
+ 
+ stringa selezionata che occuperà i blocchi BCD comincianti con BCD1. 
+ 
+
+ 
+ Quando la lunghezza della stringa selezionata è di 8 cifre, il
+ 
+
+ 
+ blocco inutilizzato sarà riempito con NULL. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 8.2.6. 
+ 
+
+ 
+ Paragrafo intenzionalmente vuoto. 
+ 
+
+ 
+ 8.2.7. Servizi di rete per l'operatore (chiamate a 3 cifre)
+ 
+
+ 
+ (facoltative) 
+ 
+
+ 
+ Le stringhe selezionate a tre cifre contenute nella tabella seguente
+ 
+
+ 
+ saranno usate per chiamare i servizi della rete. La tabella seguente
+ 
+
+ 
+ elenca le stringhe da comporre e gli identificativi speciali nei
+ 
+
+ 
+ quali saranno trasformate dall'unità. 
+ 
+
+ 
+ Stringa Identificativo Stringa Identificativo 
+ 
+
+ 
+ selezionata speciale selezionata speciale 
+ 
+
+ 
+ 100 8170 161 8176 
+ 
+
+ 
+ 111 8171 171 8177 
+ 
+
+ 
+ 121 8172 181 8178 
+ 
+
+ 
+ 131 8173 191 8179 
+ 
+
+ 
+ 141 8174 999 8180 
+ 
+
+ 
+ 151 8175 
+ 
+
+ 
+ Figura 8.4 Tabella di identificativi speciali per i servizi per 
+ 
+
+ 
+ l'operatore 
+ 
+
+ 
+ 999(cancelletto) indicherà un messaggio di richiesta di chiamata
+ 
+
+ 
+ RQE. 
+ 
+
+ 
+ 8.2.8. Modificazioni di chiamata e controllo dell'unità radio 
+ 
+
+ 
+ Le chiamate per conversazione vengono modificate in altri tipi di
+ 
+
+ 
+ chiamata e le funzioni dell'unità radio sono controllate con
+ 
+
+ 
+ stringhe selezionate che iniziano con * o (cancelletto). La presente
+ 
+
+ 
+ sezione definisce i codici che influiscono direttamente sulle parole
+ 
+
+ 
+ codice di indirizzo definite nella Parte 1a, Sezione 2. Altre
+ 
+
+ 
+ funzioni che l'unità dovrà eseguire possono utilizzare codici di
+ 
+
+ 
+ tipo simile; comunque la scelta del codice e dell'implementazione
+ 
+
+ 
+ spettano al costruttore dell'unità. 
+ 
+
+ 
+ I codici che modificano una chiamata precedono il numero selezionato
+ 
+
+ 
+ e sono separati dal numero usando il tasto *. Di regola, i codici che
+ 
+
+ 
+ modificano una funzione tra due stati avviano lo stato facendo
+ 
+
+ 
+ cominciare il codice con *, e ripristinano lo stato con lo stesso
+ 
+
+ 
+ codice, che comincerà questa volta con (cancelletto). 
+ 
+
+ 
+ Il tasto (cancelletto) è usato sempre per segnalare la fine
+ 
+
+ 
+ dell'attività di selezione, tranne nel caso in cui l'unità stia
+ 
+
+ 
+ segnalando una chiamata in arrivo. 
+ 
+
+ 
+ es. - per inoltrare una chiamata prioritaria ad un'unità,
+ 
+
+ 
+ selezionare *8 *234(cancelletto) 
+ 
+
+ 
+ - per fare una chiamata di gruppo per conferenza, selezionare *1
+ 
+
+ 
+ *923(cancelletto) 
+ 
+
+ 
+ Come nel caso delle funzioni relative alla tastiera numerica,
+ 
+
+ 
+ qualunque codice di funzione può anche essere assegnato a
+ 
+
+ 
+ particolari tasti funzione, che eseguono le stesse azioni dei codici,
+ 
+
+ 
+ ma richiedono la pressione di un unico tasto. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 8.2.8.1. Avvio della chiamata 
+ 
+
+ 
+ 8.2.8.1.1. Selezione abbreviata (facoltativa) 
+ 
+
+ 
+ I codici per la trasformazione del TSC di identificativi speciali
+ 
+
+ 
+ avranno la forma seguente: 
+ 
+
+ 
+ **nn(cancelletto) 
+ 
+
+ 
+ nn sarà compreso tra 1 e un limite superiore specificato dal gestore
+ 
+
+ 
+ della rete, comunque non superiore a 49. nn sarà trasformato
+ 
+
+ 
+ dall'unità radio in un identificativo speciale usando l'algoritmo
+ 
+
+ 
+ seguente: 
+ 
+
+ 
+ Identificativo = 8120 + nn 
+ 
+
+ 
+ 8.2.8.1.2. Chiamata ALLI: Codice *1987(cancelletto) (facoltativo) 
+ 
+
+ 
+ L'unità invierà una chiamata all'identificativo speciale 8191
+ 
+
+ 
+ (__4__). 
+ 
+
+ 
+ 8.2.8.2. Modificatori di chiamata (facoltativi) 
+ 
+
+ 
+ 8.2.8.2.1. Chiamate da unità di dispaccio e di stato 
+ 
+
+ 
+ Carica la coda dell'unità di dispaccio: Codice *0. 
+ 
+
+ 
+ L'unità radio inoltrerà una chiamata RQQ (STATUS = 0) al numero
+ 
+
+ 
+ selezionato. L'unità radio potrà avere per riferimento un numero
+ 
+
+ 
+ prefissato, qualora non venga selezionato un numero. Ciò significa
+ 
+
+ 
+ che l'unità può inoltrare una chiamata RQQ ad un indirizzo che è
+ 
+
+ 
+ già programmato nell'unità, premendo il tasto (cancelletto)
+ 
+
+ 
+ immediatamente dopo il codice (__5.5.3.1.7__). 
+ 
+
+ 
+ Abbandona la coda dell'unità di dispaccio: Codice (cancelletto)0. 
+ 
+
+ 
+ Il terminale radio inoltrerà una chiamata RQQ (STATUS = '31') al
+ 
+
+ 
+ numero selezionato. Esso può assumere come coda l'ultima selezionata
+ 
+
+ 
+ se non viene selezionato alcun numero (__5.5.3.1.7__). 
+ 
+
+ 
+ Invia lo stato: Codice *Onn 
+ 
+
+ 
+ L'unità radio inoltrerà una chiamata RQQ (STATUS = 'nn') al numero
+ 
+
+ 
+ selezionato. L'unità radio potrà riferirsi ad un numero prefissato,
+ 
+
+ 
+ qualora non venga selezionato un numero. Ciò significa che l'unità
+ 
+
+ 
+ può inoltrare una chiamata RQQ ad un indirizzo che è già
+ 
+
+ 
+ programmato nell'unità, premendo il tasto (cancelletto)
+ 
+
+ 
+ immediatamente dopo il codice. nn è un codice ad una o a due cifre
+ 
+
+ 
+ senza lo O iniziale e sarà compreso tra 1 e 30 (__5.5.3.1.7__). 
+ 
+
+ 
+ 8.2.8.2.2. Funzione di gruppo conferenza/Diffusione 
+ 
+
+ 
+ Le unità che ricevono chiamate di gruppo possono permettere
+ 
+
+ 
+ all'utente di rispondere all'utente chiamante (conferenza), oppure
+ 
+
+ 
+ l'apparato può inibire le risposte (diffusione) al momento della
+ 
+
+ 
+ ricezione di un messaggio di mantenimento sul canale di traffico.
+ 
+
+ 
+ L'unità che origina la chiamata invia un RQS (FLAG1 = '1') o un RQE
+ 
+
+ 
+ (FLAG1 = '1') per far sì che le unità chiamate non possono parlare. 
+ 
+
+ 
+ L'unità chiamante imposterà soltanto il FLAG1 a '1' se l'indirizzo
+ 
+
+ 
+ chiamato è un indirizzo di gruppo (__5.5.3.1.1__). 
+ 
+
+ 
+ 8.2.8.2.2.1. Codice *1 di chiamata per conferenza 
+ 
+
+ 
+ *1 imposta RQS o RQE, FLAG1 a '0'. 
+ 
+
+ 
+ 8.2.8.2.2.2. Codice *11 di chiamata per diffusione 
+ 
+
+ 
+ *11 imposta RQS o RQE, FLAG 1 su '1' 
+ 
+
+ 
+ 8.2.8.2.3. Funzioni dati 
+ 
+
+ 
+ Tutti i codici che iniziano con *2 saranno definiti in un secondo
+ 
+
+ 
+ tempo. 
+ 
+
+ 
+ In questa sezione si specifica *31. Tutti gli altri codici che
+ 
+
+ 
+ iniziano con *3 saranno definiti in seguito. 
+ 
+
+ 
+ 8.2.8.2.3.1. Dati non prescritti. Codice *31 
+ 
+
+ 
+ *31 imposta RQS (DT = '1') o RQE (D = '1') come richiesto
+ 
+
+ 
+ (__5.5.3.1.1__). Questo codice richiede un collegamento audio
+ 
+
+ 
+ trasparente punto-punto da parte della rete. L'utente fornisce
+ 
+
+ 
+ l'apparecchiatura per la comunicazione dati (DCE) come terminazione
+ 
+
+ 
+ del percorso audio. I trasduttori acustici dell'unità radio sono
+ 
+
+ 
+ disattivati e il collegamento audio al DCE viene abilitato quando si
+ 
+
+ 
+ riceve il GTC. I messaggi di mantenimento della chiamata vengono
+ 
+
+ 
+ disattivati, a meno che il gestore della rete non disponga
+ 
+
+ 
+ altrimenti. 
+ 
+
+ 
+ 8.2.8.2.4. Codice *8 per Chiamata prioritaria 
+ 
+
+ 
+ L'unità radio inoltrerà una chiamata RQS (LEVEL = '0') verso il
+ 
+
+ 
+ numero selezionato (__5.5.3.1.5__). L'utente può selezionare, e
+ 
+
+ 
+ l'unità lo accetterà, qualsiasi ulteriore modificatore adeguato che
+ 
+
+ 
+ imposterà altri bit nella parola di codice indirizzo dell'RQS.
+ 
+
+ 
+ L'ulteriore modificatore sarà selezionato con primo carattere *, per
+ 
+
+ 
+ esempio, *1, *11, *32. Il codice fungerà inoltre con codici di
+ 
+
+ 
+ selezione abbreviati, che inizieranno con **. 
+ 
+
+ 
+ 8.2.8.2.5. Codice *9 per Chiamata di emergenza = (__10.2__) 
+ 
+
+ 
+ L'unità radio inoltrerà una chiamata RQE al numero selezionato
+ 
+
+ 
+ (__5.5.3.1.5__). L'unità radio può avere come default un numero
+ 
+
+ 
+ prefissato, se non viene selezionato un numero. Cioè, l'unità può
+ 
+
+ 
+ inoltrare una chiamata RQE ad un indirizzo che è programmato
+ 
+
+ 
+ nell'unità, premendo il tasto (cancelletto) immediatamente dopo il
+ 
+
+ 
+ codice. L'utente può selezionare, e l'unità lo accetterà,
+ 
+
+ 
+ qualsiasi ulteriore modificatore adeguato che imposterà gli altri
+ 
+
+ 
+ bit nella parola di codice indirizzo in RQE. L'ulteriore modificatore
+ 
+
+ 
+ sarà selezionato con primo carattere *, per esempio, *1, *11, *32.
+ 
+
+ 
+ Il codice fungerà inoltre con codici di selezione abbreviati, che
+ 
+
+ 
+ inizieranno con **. 
+ 
+
+ 
+ Il modo speciale di emergenza (FLAG2 = '1') (__10.2__) è ottenuto
+ 
+
+ 
+ selezionando una stringa aggiuntiva dopo *9. Se la prima cifra nella
+ 
+
+ 
+ stringa aggiuntiva si trova nel campo da 1 a 4, allora FLAG1 e D sono
+ 
+
+ 
+ impostati secondo la tabella seguente: 
+ 
+
+ 
+ Cifra FLAG1 D 
+ 
+
+ 
+ 1 '0' '0' 
+ 
+
+ 
+ 2 '0' '1' 
+ 
+
+ 
+ 3 '1' '0' 
+ 
+
+ 
+ 4 '1' '1' 
+ 
+
+ 
+ Le cifre restanti sono la rappresentazione decimale del numero di 13
+ 
+
+ 
+ bit che viene inviato in IDENT1. Gli zero iniziali che si ottengono
+ 
+
+ 
+ dalla conversione da numero binario a decimale non saranno
+ 
+
+ 
+ selezionati. 
+ 
+
+ 
+ Se la prima ed unica cifra nella stringa aggiuntiva è 9, l'unità si
+ 
+
+ 
+ aspetta di ricevere un'ingresso da un'unità esterna per impostare
+ 
+
+ 
+ FLAG1, D e IDENT1. 
+ 
+
+ 
+ es. *91(cancelletto) pone tutti i bit a '0' 
+ 
+
+ 
+ *923(cancelletto) pone D a '1', FLAG1 su '0' e IDENT1 su 
+ 
+
+ 
+ '0000000000011' 
+ 
+
+ 
+ Il TSC gestisce la RQE ricevuta secondo quanto predisposto con
+ 
+
+ 
+ l'utente o con il gestore. Non saranno accettati altri modificatori
+ 
+
+ 
+ di chiamata o numeri di utente chiamato da parte dell'unità per
+ 
+
+ 
+ quanto riguarda questa funzione. 
+ 
+
+ 
+ 999(cancelletto) inoltrerà una chiamata RQE senza che sia necessario
+ 
+
+ 
+ digitare *9. 
+ 
+
+ 
+ 8.2.8.3. Unità radio o controllo di rete (facoltativo) 
+ 
+
+ 
+ L'unità radio può essere dotato di uno o più programmi che
+ 
+
+ 
+ permettano di controllare completamente le chiamate e per modificare
+ 
+
+ 
+ il comportamento dell'unità al momento della ricezione delle
+ 
+
+ 
+ chiamate in arrivo, ecc. Le funzioni in relazione con la Parte 1a,
+ 
+
+ 
+ Sezione 2, comprendono la deviazione della chiamata, il rifiuto di
+ 
+
+ 
+ interrogazioni di chiamate entranti, ecc. 
+ 
+
+ 
+ 8.2.8.3.1. Deviazione per le chiamate proprie: Codice *41n (__12.2__)
+ 
+
+ 
+ *41 provocherà l'invio da parte dell'unità radio di una RQT (DIV =
+ 
+
+ 
+ '0', FLAG1 = '0', FLAG2 = '0') al TSC (__5.5.3.1.4__). La RQT ordina
+ 
+
+ 
+ al TSC di offrire il numero che è stato selezionato dopo il codice a
+ 
+
+ 
+ qualunque chiamante che stia cercando di effettuare una chiamata
+ 
+
+ 
+ all'unità radio di partenza, come destinazione alternativa della
+ 
+
+ 
+ chiamata. Il numero a cui devono essere deviate le chiamate, che
+ 
+
+ 
+ segue il codice, sarà qualunque numero che l'utente sia in grado di
+ 
+
+ 
+ selezionare per una normale chiamata per conversazione (RQS). Se non
+ 
+
+ 
+ viene selezionato alcun numero dopo il codice, l'unità trasmetterà
+ 
+
+ 
+ una richiesta di deviazione. 
+ 
+
+ 
+ Se n non è selezionato, tutti i tipi di chiamata vengono deviati.
+ 
+
+ 
+ RQT, SD saranno impostati a '00'. 
+ 
+
+ 
+ Se n = 1, vengono deviate soltanto le chiamate per conversazione.
+ 
+
+ 
+ RQT, SD saranno impostati a '01'. 
+ 
+
+ 
+ Se n = 2, vengono trasferite soltanto le chiamate dati. RQT, SD
+ 
+
+ 
+ saranno impostati a '10'. 
+ 
+
+ 
+ es. *41 *234(cancelletto) devia tutti i tipi di chiamata verso
+ 
+
+ 
+ l'unità 234 appartenente alla stessa flotta dell'unità che ha
+ 
+
+ 
+ originato la deviazione. 
+ 
+
+ 
+ *411 *3456(cancelletto) devia le chiamate per conversazione alla
+ 
+
+ 
+ terminazione 3456 del PABX associato alla flotta dell'utente che ha
+ 
+
+ 
+ generato la deviazione. 
+ 
+
+ 
+ Quando, per la richiesta di deviazione di chiamata, si selezionano i
+ 
+
+ 
+ numeri di unità che, normalmente, porterebbero ad una singola parola
+ 
+
+ 
+ di codice indirizzo, questi verranno inviati come IDENT1 in una RQT. 
+ 
+
+ 
+ Quando, per la richiesta di deviazione di chiamata, si selezionano i
+ 
+
+ 
+ numeri di unità che, normalmente, porterebbero ad una chiamata ad
+ 
+
+ 
+ indirizzamento esteso, questi verranno inviati in una RQT con IPFIXI
+ 
+
+ 
+ in IDENT1. Il numero selezionato sarà inviato in una SAMIS (DESC =
+ 
+
+ 
+ '000') in PARAMETERS1, in risposta ad una AHYC con le stesse
+ 
+
+ 
+ informazioni di indirizzo contenute nella RQT di origine. 
+ 
+
+ 
+ Quando le chiamate ai numeri d'estensione PABX che normalmente
+ 
+
+ 
+ risulterebbero in una singola parola codice d'indirizzamento sono
+ 
+
+ 
+ inserite come richiesta di deviazione di chiamata, esse saranno
+ 
+
+ 
+ inviate come un RQT con PABXI in IDENT1 e il numero selezionato sarà
+ 
+
+ 
+ inviato in un SAMIS (DESC = '010', SP = '1'). EXCHANGE sarà settato
+ 
+
+ 
+ a '00' per chiamate di quattro cifre e sarà impostato come elencato
+ 
+
+ 
+ nella tabella 8.2.5.5. per chiamate a cinque cifre. Il numero
+ 
+
+ 
+ selezionato viene manipolato dall'algoritmo usato per creare IDENT1
+ 
+
+ 
+ in RQS e RQE ed è trasmesso a Number. Il SAMIS è inviato in
+ 
+
+ 
+ risposta per un AHYC con la stessa informazione di indirizzamento
+ 
+
+ 
+ contenuta nel RQT originante. 
+ 
+
+ 
+ Quando i numeri d'estensione chiamati che normalmente risulterebbero
+ 
+
+ 
+ in una chiamata di indirizzamento estesa sono inseriti come richiesta
+ 
+
+ 
+ di deviazione di chiamata, essi saranno inviati come RQT con PABXI in
+ 
+
+ 
+ IDENT1 e il numero selezionato sarà inviato in un SAMIS (DESC =
+ 
+
+ 
+ '010', SP = '0'), con i blocchi BCD riempiti nello stesso modo che
+ 
+
+ 
+ per una normale chiamata (8.2.5.7). Il SAMIS è inviato in risposta
+ 
+
+ 
+ ad un AHYC con la stessa informazione di indirizzamento contenuta nel
+ 
+
+ 
+ RQT originante. 
+ 
+
+ 
+ 8.2.8.3.2. Annulla Deviazione chiamate proprie: 
+ 
+
+ 
+ Codice (cancelletto)41(cancelletto) 
+ 
+
+ 
+ Dopo essere stata selezionata, l'unità radio invierà una RQT al TSC
+ 
+
+ 
+ per istruirlo a cancellare lo stato di deviazione delle chiamate. 
+ 
+
+ 
+ Se n non viene selezionato, tutti i tipi di chiamata smetteranno di
+ 
+
+ 
+ essere deviati. RQT (SD = '0') 
+ 
+
+ 
+ Se n = 1, non saranno più deviate soltanto le chiamate per
+ 
+
+ 
+ conversazione. RQT (SD = '01') 
+ 
+
+ 
+ Se n = 2, non saranno più trasferite soltanto le chiamate dati. RQT
+ 
+
+ 
+ (SD = '10') 
+ 
+
+ 
+ L'annullamento della condizione di deviazione fa sì che l'unità ra-
+ 
+
+ 
+ dio trasmetta RQT (DIV = '1', FLAG1 = FLAG2 = '0') con IDENT1 =
+ 
+
+ 
+ IDENT2 (l'indirizzo proprio dell'unità di origine). 
+ 
+
+ 
+ 8.2.8.3.3. Deviazione di chiamate per terzi utenti = Codice *44n 
+ 
+
+ 
+ *44n è seguito dal numero del terzo utente le cui chiamate devono
+ 
+
+ 
+ essere deviate, oltre che della destinazione della deviazione. 
+ 
+
+ 
+ *44n farà sì che l'unità radio invii RQT (DIV = '0', FLAG1 = '0',
+ 
+
+ 
+ FLAG2 = '1') al TSC. 
+ 
+
+ 
+ L'unità RQT ordina al TSC di offrire la destinazione della chiamata
+ 
+
+ 
+ a qualsiasi chiamante che stia tentando di inoltrare una chiamata ad
+ 
+
+ 
+ un numero di un terzo utente, quale destinazione alternativa per la
+ 
+
+ 
+ chiamata stessa. Il numero verso il quale vanno trasferite le
+ 
+
+ 
+ chiamate sarà qualunque numero selezionato dall'utente per una
+ 
+
+ 
+ normale chiamata per conversazione (RQS). 
+ 
+
+ 
+ Se vengono selezionati meno di due numeri dopo il codice, l'unità
+ 
+
+ 
+ non trasmetterà la richiesta di deviazione della chiamata. 
+ 
+
+ 
+ Se n non viene selezionato, tutti i tipi di chiamata vengono deviati. 
+ 
+
+ 
+ RQT, SD sarà impostato su '00' 
+ 
+
+ 
+ Se n = 1, saranno deviate soltanto le chiamate per conversazione.
+ 
+
+ 
+ RQT, SD sarà posto su '01'. 
+ 
+
+ 
+ Se n = 2, saranno deviate soltanto le chiamate dati. RQT, SD sarà
+ 
+
+ 
+ posto su '10'. 
+ 
+
+ 
+ es: *442 *234 * 432(cancelletto). Le chiamate dati inviate all'unità
+ 
+
+ 
+ 234 che appartiene alla stessa flotta dell'unità di origine della
+ 
+
+ 
+ deviazione saranno dirette verso l'unità 432, appartenente alla
+ 
+
+ 
+ stessa flotta. 
+ 
+
+ 
+ *441 *234 *3456(cancelletto) Le chiamate per conversazione dirette
+ 
+
+ 
+ all'unità 234 che appartiene alla stessa flotta dell'unità
+ 
+
+ 
+ d'origine della deviazione saranno dirette all'estensione 3456 nel
+ 
+
+ 
+ PABX associato con la flotta dell'unità d'origine della deviazione. 
+ 
+
+ 
+ I metodi di invio dei dati relativi alla deviazione sono specificati
+ 
+
+ 
+ nel paragrafo 8.2.8.3.1. Inoltre, l'indirizzo bloccato del terzo
+ 
+
+ 
+ utente è inviato come risposta ad una AHYC con IDENT1 = DIVERTI,
+ 
+
+ 
+ PFIX/IDENT2 = indirizzo dell'unità richiedente, DESC = '000', SLOTS
+ 
+
+ 
+ = '01'. Non è definito l'ordine in cui sono inviate le due AHYC. 
+ 
+
+ 
+ 8.2.8.3.4. Annulla le deviazioni di chiamate diutenti terzi: Codice 
+ 
+
+ 
+ (cancelletto)44n 
+ 
+
+ 
+ Questo codice è seguito dal numero del terzo le cui chiamate vengono
+ 
+
+ 
+ attualmente deviate. 
+ 
+
+ 
+ L'unità radio invierà una RQT al TSC per ordinargli di annullare lo
+ 
+
+ 
+ stato di deviazione per l'utente terzo. Se non viene selezionato un
+ 
+
+ 
+ numero dopo il codice, l'unità non trasmetterà una richiesta di
+ 
+
+ 
+ annullamento della deviazione. 
+ 
+
+ 
+ Se n non viene selezionato, tutti i tipi di chiamata smetteranno di 
+ 
+
+ 
+ essere deviate. RQT, SD sarà impostato su '00' 
+ 
+
+ 
+ Se n = 1, smetteranno di essere deviate soltanto le chiamate per
+ 
+
+ 
+ conversazione. RQT, SD sarà posto su '01'. 
+ 
+
+ 
+ Se n = 2, smetteranno di essere deviate soltanto le chiamate dati.
+ 
+
+ 
+ RQT, SD sarà posto su '10'. 
+ 
+
+ 
+ es: (cancelletto)441 *234(cancelletto) permette all'unità 234 che
+ 
+
+ 
+ appartiene alla stessa flotta dell'unità di origine della richiesta
+ 
+
+ 
+ di chiamata di ricevere chiamate per conversazione dirette
+ 
+
+ 
+ all'unità. 
+ 
+
+ 
+ L'annullamento della condizione di deviazione fa sì che l'unità ra-
+ 
+
+ 
+ dio trasmetta RQT (DIV = '1', FLAG1 = FLAG2 = '0') con IDENT1 =
+ 
+
+ 
+ identificatore dell'utente terzo, oppure IPFIXI e IDENT2 = indirizzo
+ 
+
+ 
+ proprio dell'unità richiedente. Se IDENT1 = IPFIXI, l'indirizzo
+ 
+
+ 
+ completo dell'utente terzo viene trasmesso in una SAMIS (DESC =
+ 
+
+ 
+ '000') in PARAMETERS1, in risposta ad una AHYC con IDENT1 = IPFIXI. 
+ 
+
+ 
+ 8.2.8.3.5. Annulla deviazioni entranti: Codice
+ 
+
+ 
+ (cancelletto)45n(cancelletto) 
+ 
+
+ 
+ Questo codice fa sì che l'unità radio invii un RQT al TSC per
+ 
+
+ 
+ ordinargli di annullare qualsiasi stato di deviazione che possa
+ 
+
+ 
+ dirigere le chiamate verso l'unità radio di origine. L'annullamento
+ 
+
+ 
+ delle deviazioni entranti fa sì che l'unità radio trasmetta RQT
+ 
+
+ 
+ (DIV = '1', FLAG1 = FLAG2 0 '0') con IDENT1 = DIVERTI. 
+ 
+
+ 
+ Se n non viene selezionato, tutti i tipi di chiamata smetteranno di 
+ 
+
+ 
+ essere deviati. RQT, SD sarà impostato su '00' 
+ 
+
+ 
+ Se n = 1, smetteranno di essere deviate soltanto le chiamate per
+ 
+
+ 
+ conversazione. RQT, SD sarà posto su '01'. 
+ 
+
+ 
+ Se n = 2, smetteranno di essere deviate soltanto le chiamate dati.
+ 
+
+ 
+ RQT, SD sarà posto su '10'. 
+ 
+
+ 
+ 8.2.8.3.6. Metti in coda le chiamate in arrivo: codice
+ 
+
+ 
+ *48(cancelletto) 
+ 
+
+ 
+ Questo codice fa sì che l'unità radio risponda a AHY (D = '0') con
+ 
+
+ 
+ ACKB (QUAL = '0') (__9.1.1.5__) e ponga i dettagli della chiamata in
+ 
+
+ 
+ una coda di chiamate. La selezione di questo stato annullerà
+ 
+
+ 
+ qualunque messaggio "Non disturbare" inserito in precedenza
+ 
+
+ 
+ (8.2.8.3.8) in accordo ai messaggi AHY (D = '0'). 
+ 
+
+ 
+ 8.2.8.3.7. Annulla l'accodamento delle chiamate in arrivo: Codice
+ 
+
+ 
+ (cancelletto) 48(cancelletto) 
+ 
+
+ 
+ Questo codice fa sì che l'unità radio cessi di accodare le chiamate
+ 
+
+ 
+ e riconosca tutti i messaggi AHY (D = '0') con il tipo di
+ 
+
+ 
+ riconoscimento adeguato allo stato di funzionamento dell'unità radio
+ 
+
+ 
+ (__9.1.1.5__) 
+ 
+
+ 
+ 8.2.8.3.8. Non disturbare = codice *49(cancelletto) 
+ 
+
+ 
+ Questo codice fa sì che l'unità radio riconosca tutti i messaggi
+ 
+
+ 
+ AHY con ACKV (QUAL = '1'), bloccando così la chiamata (__9.1.1.5__). 
+ 
+
+ 
+ Se n non viene selezionato, l'unità risponderà ACKV (QUAL = '1') a
+ 
+
+ 
+ tutti gli AHY verso l'unità. D può essere '0' o '1'. 
+ 
+
+ 
+ Se n = 1, l'unità risponderà ACKV (QUAL = '1') agli AHY verso
+ 
+
+ 
+ l'unità, quando D è posto su '0' (chiamate per conversazione) 
+ 
+
+ 
+ Se n = 2, l'unità risponderà ACKV (QUAL = '1') agli AHY verso
+ 
+
+ 
+ l'unità, quando D è posto su '1' (chiamate dati). 
+ 
+
+ 
+ 8.2.8.3.9. Annulla Non disturbare = codice
+ 
+
+ 
+ (cancelletto)49n(cancelletto) 
+ 
+
+ 
+ Questo codice fa sì che l'unità radio riconosca tutti i messaggi
+ 
+
+ 
+ AHY ricorrendo a qualsiasi tipo di riconoscimento appropriato allo
+ 
+
+ 
+ stato di funzionamento dell'unità radio (__9.1.1.5__). 
+ 
+
+ 
+ Se n non viene selezionato, l'unità smetterà di rispondere ACKV
+ 
+
+ 
+ (QUAL = '1') a tutti gli AHY verso l'unità. D può essere '0' o '1'. 
+ 
+
+ 
+ Se n = 1, l'unità smetterà di rispondere ACKV (QUAL = '1') agli AHY
+ 
+
+ 
+ verso l'unità, quando D è posto su '0' (chiamate per
+ 
+
+ 
+ conversazione). 
+ 
+
+ 
+ Se n = 2, l'unità smetterà di rispondere ACKV (QUAL = '1') ai
+ 
+
+ 
+ relativi AHY verso l'unità, quando D è posto su '1' (chiamate
+ 
+
+ 
+ dati). 
+ 
+
+ 
+ 8.2.8.4. Controllo dell'unità radio (obbligatorio) 
+ 
+
+ 
+ L'unità sarà dotata di programmi comandati tramite tastiera che le
+ 
+
+ 
+ permetteranno di abbandonare tentativi di chiamata, di liberare le
+ 
+
+ 
+ chiamate e di accettare le chiamate in arrivo (ved. sezione 8.3.3). 
+ 
+
+ 
+ 8.2.8.4.1 Abbandona l'inoltro chiamata: Completa la chiamata: Codice
+ 
+
+ 
+ *(cancelletto) 
+ 
+
+ 
+ *(cancelletto) può essere selezionato dopo che cifre ed un
+ 
+
+ 
+ terminatore sono stati inseriti sulla tastiera. Se l'unità radio non
+ 
+
+ 
+ ha trasmesso una richiesta di chiamata, essa abbandonerà la chiamata
+ 
+
+ 
+ e ritornerà allo stato di riposo sul canale di controllo. 
+ 
+
+ 
+ Se l'unità radio ha iniziato ad impostare una chiamata, essa
+ 
+
+ 
+ trasmetterà una richiesta di cancellazione della chiamata (RQX)
+ 
+
+ 
+ (__9.1.1.8__). 
+ 
+
+ 
+ Se si seleziona *(cancelletto) mentre l'unità si trova su una canale
+ 
+
+ 
+ di traffico, l'unità radio terminerà la chiamata trasmettendo MAINT
+ 
+
+ 
+ (OPER = '011') là dove è in accordo al suo stato di chiamata
+ 
+
+ 
+ (__9.2.3.5__). 
+ 
+
+ 
+ Se si seleziona *(cancelletto) mentre l'unità radio sta indicando un
+ 
+
+ 
+ insuccesso della chiamata o la fine della stessa, tramite una
+ 
+
+ 
+ segnalazione di funzionamento continua, allora l'unità radio
+ 
+
+ 
+ cancellerà questa segnalazione. 
+ 
+
+ 
+ Note: 
+ 
+
+ 
+ 1. *(cancelletto) può anche essere usato per abbandonare inserimenti
+ 
+
+ 
+ errati sulla tastiera. 
+ 
+
+ 
+ 2. Se *(cancelletto) viene selezionato dopo che l'indicazione di
+ 
+
+ 
+ "sgancio" è stata inviata al TSC per ricevere una chiamata entrante,
+ 
+
+ 
+ ma prima che l'unità radio riceva GTC, allora l'unità radio può
+ 
+
+ 
+ trasmettere una indicazione di "aggancio" RQQ (STATUS=31) al TSCI
+ 
+
+ 
+ (__5.5.3.17__). 
+ 
+
+ 
+ 8.2.8.4.2. Accettazione di chiamata entrante: Codice (cancelletto)
+ 
+
+ 
+ (solo per lo stato di funzionamento di Allerta) 
+ 
+
+ 
+ Se (cancelletto) è selezionato quando l'unità radio sta segnalando
+ 
+
+ 
+ all'utente una chiamata in arrivo, l'unità radio invierà RQQ (STA-
+ 
+
+ 
+ TUS = 0) al TSCI. In condizione di Attenzione il tasto (cancelletto)
+ 
+
+ 
+ non viene usato come terminatore di una stringa selezionata. Una
+ 
+
+ 
+ chiamata in arrivo causerà l'abbandono di un tentativo di selezione
+ 
+
+ 
+ che non termini con un terminatore di stringa (__5.5.3.1.7__). 
+ 
+
+ 
+ 8.2.9. Sommario delle regole di numerazione (Note) 
+ 
+
+ 
+ Stringhe selezionate ad una cifra (z). Non definite. Utilizzo
+ 
+
+ 
+ proposto: 
+ 
+
+ 
+ Z 0 Operatore del PABX (Identificativo 8000) 
+ 
+
+ 
+ Z 1-9 Unità di dispaccio (Identificativo cercato 
+ 
+
+ 
+ nell'unità) 
+ 
+
+ 
+ Stringhe selezionate a due cifre (YZ). 
+ 
+
+ 
+ Y 0 Operatore PABX nel gruppo di commutazione, EXT='1' 
+ 
+
+ 
+ Z 3-6 Numero di accesso PABX per la centrale come 
+ 
+
+ 
+ definito nei numeri a 5 cifre sottoriportati 
+ 
+
+ 
+ (Identificativo 8000 con gli indicatori 1 e 2 
+ 
+
+ 
+ settate in modo opportuno) 
+ 
+
+ 
+ YZ 20-89 Numero individuale 
+ 
+
+ 
+ YZ 90-99 Numero di gruppo 
+ 
+
+ 
+ Stringhe selezionate a tre cifre (XYZ) 
+ 
+
+ 
+ X 1 Servizi di rete per l'operatore 
+ 
+
+ 
+ YZ 00 (Identificativo 8170) 
+ 
+
+ 
+ 11 (Identificativo 8171) 
+ 
+
+ 
+ 21 (Identificativo 8172) 
+ 
+
+ 
+ 31 (Identificativo 8173) 
+ 
+
+ 
+ 41 (Identificativo 8174) 
+ 
+
+ 
+ 51 (Identificativo 8175) 
+ 
+
+ 
+ 61 (Identificativo 8176) 
+ 
+
+ 
+ 71 (Identificativo 8177) 
+ 
+
+ 
+ 81 (Identificativo 8178) 
+ 
+
+ 
+ 91 (Identificativo 8179) 
+ 
+
+ 
+ XYZ 200-899 chiamate individuali nella flotta 
+ 
+
+ 
+ 999 Operatore in caso di emergenza (Identific. 8180) 
+ 
+
+ 
+ X 9 chiamata di gruppo 
+ 
+
+ 
+ YZ 00-98 Numero di gruppo 
+ 
+
+ 
+ Stringhe selezionate a quattro cifre (WXYZ) 
+ 
+
+ 
+ WXYZ 1000-8999 Chiamate con una singola parola di a 
+ 
+
+ 
+ indirizzo a PABX singoli, associati. EXT = '1'. 
+ 
+
+ 
+ FLAG 1 e 2 a '0'. 
+ 
+
+ 
+ Stringhe selezionate a cinque cifre (VWXYZ) 
+ 
+
+ 
+ V 2, 9 Accessoabbreviato in una flotta di grando 
+ 
+
+ 
+ dimensioni 
+ 
+
+ 
+ W 0, 9 Codice di instradamento 
+ 
+
+ 
+ XYZ 200-998 Numero individuale o di gruppo 
+ 
+
+ 
+ WX 00-99 Codice di instradamento 
+ 
+
+ 
+ YZ 20-99 Numero individuale o di gruppo 
+ 
+
+ 
+ V 3-6 Numero di accesso PABX per chiamate con singola 
+ 
+
+ 
+ parola d'indirizzo (il valore imposta FLAG 1 e 2), 
+ 
+
+ 
+ EXT = '1' 
+ 
+
+ 
+ WXYZ 1000-8999 Numero d'estensione PABX 
+ 
+
+ 
+ V 0, 7 o 8 Numero di accesso rete PABX (protocollo di 
+ 
+
+ 
+ indirizzamento esteso) (PABXI) 
+ 
+
+ 
+ WXYZ NNNN Cifre di instradamento verso PABX e relativo 
+ 
+
+ 
+ numero di estensione 
+ 
+
+ 
+ Stringhe selezionate a sei cifre (UVWXYZ) 
+ 
+
+ 
+ UVWZ 2001-6050 Numero di flotta 
+ 
+
+ 
+ YZ 20-99 Numero individuale o di gruppo 
+ 
+
+ 
+ U 0, 7 o 8 Numero di accesso rete PABX (PABXI) 
+ 
+
+ 
+ VWXYZ NNNNN Cifre per instradamento PABX e numeri di 
+ 
+
+ 
+ estensione 
+ 
+
+ 
+ Stringhe selezionate a sette cifre (TUVWXYZ) 
+ 
+
+ 
+ TUVW 2001-6050 Numero di flotta 
+ 
+
+ 
+ XYZ 200-998 Numero individuale o di gruppo 
+ 
+
+ 
+ T 0, 7 o 8 Numero di accesso rete PABX (PABXI) 
+ 
+
+ 
+ UVWXYZ NNNNNN Cifre di instradamento PABX e numero di estensione
+ 
+
+ 
+ Stringhe selezionate a otto cifre (STUVWXYZ) 
+ 
+
+ 
+ S 1 Accesso unicamente ai manutentori 
+ 
+
+ 
+ TUV 000-127 Trasporre l'inserimento da tastiera informa 
+ 
+
+ 
+ binaria e inviare PFIX come parte della chiamata 
+ 
+
+ 
+ inter-prefisso 
+ 
+
+ 
+ WXYZ 0001-8100 Trasporre l'inserimento da tastiera informa 
+ 
+
+ 
+ binaria e inviare IDENT1 come parte della chiamata 
+ 
+
+ 
+ inter-prefisso 
+ 
+
+ 
+ S 7 o 8 Numero di accesso rete PABX (PABXI) 
+ 
+
+ 
+ TUVWXYZ NNNNNNN Cifre di instradamento PABX e numero di 
+ 
+
+ 
+ estensione 
+ 
+
+ 
+ Stringhe selezionate a nove cifre (RSTUVWXYZ) 
+ 
+
+ 
+ RST 200-327 Prefisso del numero 
+ 
+
+ 
+ UVWXYZ Per avere dettagli, far riferimento ai numeri a 
+ 
+
+ 
+ sei cifre, numeri inter-flotta 
+ 
+
+ 
+ R 7 o 8 Numero di accesso rete PABX (PABXI) 
+ 
+
+ 
+ STUVWXYZ NNNNNNNN Cifre di instradamento PABX e numero di 
+ 
+
+ 
+ estensione 
+ 
+
+ 
+ Stringhe selezionate a dieci cifre (PRSTUVWXYZ) 
+ 
+
+ 
+ PRS 200-327 Prefisso del numero 
+ 
+
+ 
+ TUVWXYZ Per avere dettagli, far riferimento ai numeri a 
+ 
+
+ 
+ sette cifre, numeri di flotta. 
+ 
+
+ 
+ 8.2.10. Sommario dei codici di controllo 
+ 
+
+ 
+ **nn Codici di selezione abbreviati 
+ 
+
+ 
+ nn = da 1 a 15: da non usare 
+ 
+
+ 
+ nn = da 16 a 49. Selezione abbreviata specificata dal manutentore 
+ 
+
+ 
+ della linea 
+ 
+
+ 
+ *(cancelletto) Abbandono dell'inoltro di chiamata, completamento 
+ 
+
+ 
+ della chiamata 
+ 
+
+ 
+ *0 Coda all'unità di dispaccio 
+ 
+
+ 
+ *Onn Stato 'nn' all'unità di dispaccio 
+ 
+
+ 
+ *1 Chiamata per teleconferenza 
+ 
+
+ 
+ *11 Chiamata per diffusione 
+ 
+
+ 
+ *2 Tutti i codici che iniziano con *2 sono ancora da definire 
+ 
+
+ 
+ *3 Tutti i codici che iniziano con *3 sono ancora da definire, ad 
+ 
+
+ 
+ accezione di *31 
+ 
+
+ 
+ *31 Chiamata dati non prescritti 
+ 
+
+ 
+ Selezionando 'n' nei codici seguenti, la funzione si limiterà alle
+ 
+
+ 
+ chiamate per conversazione se n = 1, oppure alle chiamate dati se n =
+ 
+
+ 
+ 2. 
+ 
+
+ 
+ *41n Deviazione delle chiamate proprie, cioè delle chiamate rivolte 
+ 
+
+ 
+ verso l'origine della deviazione 
+ 
+
+ 
+ *44n Deviazioni delle chiamate per terzi, cioè delle chiamate 
+ 
+
+ 
+ dirette verso un utente definito 
+ 
+
+ 
+ *48 Accoda le chiamate in arrivo (solo per conversazione) 
+ 
+
+ 
+ *49n Non disturbare 
+ 
+
+ 
+ *8 Chiamata prioritaria 
+ 
+
+ 
+ *9 Chiamata di emergenza, RQE 
+ 
+
+ 
+ *9xxx(cancelletto) Funzione speciale di emergenza concordata con il 
+ 
+
+ 
+ gestore della rete 
+ 
+
+ 
+ (cancelletto) Fine della stringa selezionata, accetta la chiamata se 
+ 
+
+ 
+ l'unità radio la sta segnalando 
+ 
+
+ 
+ (cancelletto)0 Abbandona la coda all'unità di dispaccio 
+ 
+
+ 
+ (cancelletto)41n Annulla la deviazione chiamata proprie, cioè
+ 
+
+ 
+ permette le chiamate verso il terminale per il quale vigeva
+ 
+
+ 
+ precedentemente la deviazione. 
+ 
+
+ 
+ (cancelletto)44n Annulla la deviazione delle chiamate verso un utente
+ 
+
+ 
+ terzo, cioè permette le chiamate verso l'utente terzo specificato
+ 
+
+ 
+ per cui vigeva precedentemente la deviazione di chiamata. 
+ 
+
+ 
+ (cancelletto)45n Annulla le deviazioni in arrivo. 
+ 
+
+ 
+ (cancelletto)48 Annulla l'accodamento delle chiamate in arrivo (solo
+ 
+
+ 
+ chiamate per conversazione) 
+ 
+
+ 
+ (cancelletto)49n Annulla il messaggio Non disturbare 
+ 
+
+ 
+ 8.2.11. Glossario dei termini specifici della Sezione 8.2 
+ 
+
+ 
+ Identificativo di base: Il valore minore dell'identificativo 
+ 
+
+ 
+ assegnato ad una "flotta" di unità 
+ 
+
+ 
+ Blocco: Assegnazione di identificativi contigui ad una "flotta" 
+ 
+
+ 
+ utenti 
+ 
+
+ 
+ Stringa selezionata: Numeri selezionati da un chiamante sulla
+ 
+
+ 
+ tastiera della sua unità radio per chiamare un altro utente. Si
+ 
+
+ 
+ utilizza la pre-selezione e la fine della stringa selezionata è
+ 
+
+ 
+ indicata selezionando (cancelletto) 
+ 
+
+ 
+ Flotta: Tutti o una parte dei veicoli dell'utente muniti di unità
+ 
+
+ 
+ radio; questi richiedono una comunicazione diretta tra gli utenti per
+ 
+
+ 
+ mezzo di una selezione a due o a tre cifre. 
+ 
+
+ 
+ Numero di flotta: Le cifre selezionate che identificano il "blocco"
+ 
+
+ 
+ di identificazione della flotta che contiene l'unità chiamata (le
+ 
+
+ 
+ cifre che vanno da 4 a 7 nel "Numero di rete"). In relazione diretta
+ 
+
+ 
+ con l'"Identificativo di Base della flotta". 
+ 
+
+ 
+ Numero individuale di flotta: Un "Numero di Flotta" attraverso il
+ 
+
+ 
+ quale possono essere effettuate chiamate verso unità distinte. 
+ 
+
+ 
+ Numero di gruppo della flotta: Un "Numero di flotta" attraverso il
+ 
+
+ 
+ quale possono essere effettuate chiamate verso gruppi di unità. 
+ 
+
+ 
+ Identificativo di base di gruppo: Il valore minore
+ 
+
+ 
+ dell'identificativo assegnato ad una "flotta" di unità per gli 
+ 
+
+ 
+ indirizzi di gruppo 
+ 
+
+ 
+ Identificativo di gruppo: Identificativo usato per chiamare un gruppo 
+ 
+
+ 
+ di utenti 
+ 
+
+ 
+ Numero di gruppo: L'ultimo gruppo di cifre del "Numero di gruppo
+ 
+
+ 
+ della rete", che identifica il gruppo di unità all'interno della
+ 
+
+ 
+ "flotta". Posto in relazione con l'"Identificativo di Gruppo"
+ 
+
+ 
+ attraverso l'"Identificativo di base di gruppo". 
+ 
+
+ 
+ Individuale selettivo: Identificativo usato per chiamare un singolo
+ 
+
+ 
+ utente. 
+ 
+
+ 
+ Numero di rete: Il numero con cui è possibile identificare una
+ 
+
+ 
+ unità o un gruppo all'interno di un direttorio. Questo numero è
+ 
+
+ 
+ selezionato interamente o in parte da un utente che desideri
+ 
+
+ 
+ comunicare con l'utente o gli utenti identificati. è composto dal
+ 
+
+ 
+ "Prefisso del numero", dal "Numero di flotta" e dal "Numero di
+ 
+
+ 
+ unità". 
+ 
+
+ 
+ Numero individuale di rete: Il numero che identifica una unità
+ 
+
+ 
+ singola in una "flotta". 
+ 
+
+ 
+ Numero di gruppo della rete: Il numero che identifica un gruppo di
+ 
+
+ 
+ unità in una "flotta". 
+ 
+
+ 
+ Prefisso del numero: Le prime tre cifre del "Numero di rete". Posto
+ 
+
+ 
+ direttamente in relazione con il prefisso. 
+ 
+
+ 
+ Numero di unità: L'ultimo gruppo di cifre del "Numero individuale di
+ 
+
+ 
+ rete", che identifica l'unità nella "flotta". Posto in relazione con
+ 
+
+ 
+ l'"identificativo selettivo" attraverso l'"identificativo di base
+ 
+
+ 
+ della flotta".
