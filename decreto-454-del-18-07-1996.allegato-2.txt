@@ -1,0 +1,124 @@
+ALLEGATO II 
+ 
+
+ 1. DOSIMETRIA. 
+ 
+
+ Dose globale media assorbita. 
+ 
+
+ Per determinare il grado di integrità del prodotto alimentare trattato con una dose globale media pari o inferiore a 10 kGy, possiamo assumere che gli effetti chimici da radiazione in questa particolare gamma di dosi siano direttamente proporzionali alla dose. 
+ 
+
+ La dose globale media D è espressa dal seguente integrale esteso al volume totale dei prodotti: 
+ 
+
+ 1 
+ 
+
+ D = (integrale) (*) p (x, y, z) d (x, y, z) dV 
+ 
+
+ M 
+ 
+
+ 
+ 
+
+ dove 
+ 
+
+ M = massa totale del campione trattato; 
+ 
+
+ p = densità locale nel punto (x, y, z); 
+ 
+
+ d = dose locale assorbita nel punto (x, y, z); 
+ 
+
+ dV = dx dy dz elemento infinitesimale di volume che nei casi reali è costituito da frazioni di volume. 
+ 
+
+ Per prodotti omogenei o per prodotti sfusi con densità globale omogenea, la dose globale media assorbita può essere determinata direttamente inserendo un numero adeguato di dosimetri in punti scelti a caso ma oculatamente distribuiti in tutto il volume dei prodotti. Dalla distribuzione della dose così rilevata si può calcolare un valore medio che è la dose globale media assorbita. 
+ 
+
+ 
+ 
+
+ _________
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (*) (integrale) = integrale. 
+ 
+
+ 
+ 
+
+ Se la forma della curva di distribuzione delle dosi all'interno del prodotto è ben costruita, si possono individuare i punti di dose massima e minima. Le misurazioni della distribuzione delle dosi in questi due punti in una serie di campioni del prodotto possono essere utilizzate per ottenere una stima della dose globale media. In alcuni casi, la media dei valori medi della dose minima (Dmin) e massima 
+ 
+
+ (Dmax) rappresenta una buona stima della dose globale media cioè 
+ 
+
+ 
+ 
+
+ Dmax + Dmin 
+ 
+
+ dose globale media (circa) 
+ 
+
+ 2 
+ 
+
+ 
+ 
+
+ Dmax 
+ 
+
+ il rapporto non deve superare 3. 
+ 
+
+ Dmin 
+ 
+
+ 
+ 
+
+ 2. PROCEDURE. 
+ 
+
+ 2.1. Prima di iniziare in modo regolare l'irradiazione di una determinata classe di prodotti alimentari in un impianto di irradiazione, si determinano le dosi minime e massime mediante una serie di misurazioni dosimetriche effettuate in tutto il volume del prodotto. Queste vanno ripetute un sufficiente numero di volte (3-5) per tener conto delle variazioni di densità o di geometria del prodotto. 
+ 
+
+ 2.2. Le misurazioni vanno ripetute ogniqualvolta variano il prodotto, la sua geometria o le condizioni di irradiazione. 
+ 
+
+ 2.3. Durante il processo si effettuano misurazioni dosimetriche di routine per garantire che non vengano superati i valori limite della dose. 
+ 
+
+ Le misurazioni vanno effettuate collocando dei dosimetri nelle posizioni di dose massima o minima oppure in una posizione di riferimento. La dose nella posizione di riferimento deve essere quantitativamente legata al valore massimo e minimo. La posizione di riferimento va localizzata in un punto opportuno all'interno o sulla superfice del prodotto, dove prevalgono bassi gradienti di dose. 
+ 
+
+ 2.4. Le misurazioni dosimetriche di routine vanno effettuate in ciascuna partita e ad intervalli opportuni durante l'operazione. 
+ 
+
+ 2.5. Nel caso in cui si irradino prodotti fluidi non imballati, non è possibile determinare la posizione della dose minima e di quella massima. Per determinare i valori estremi della dose si possono effettuare con il dosimetro delle misurazioni in punti scelti a caso. 
+ 
+
+ 2.6. La misurazione delle dosi va effettuata impiegando sistemi dosimetrici riconosciuti e deve essere riferita a standard primari. 
+ 
+
+ 2.7. Durante l'irradiazione, alcuni parametri dell'impianto devono essere controllati e registrati in continuazione. Per gli impianti a radionuclidi, i parametri comprendono la velocità di trasporto del prodotto o il tempo trascorso nella zona di irradiazione e l'indicazione esatta della corretta posizione della sorgente. Per gli impianti con acceleratore, i parametri comprendono la velocità di trasporto del prodotto e il livello di energia, la corrente elettronica e la larghezza dell'analizzatore dell'impianto.
