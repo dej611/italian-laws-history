@@ -1,0 +1,403 @@
+CONTENUTO E CARATTERISTICHE TECNICHE DEI SUPPORTI MAGNETICI DA 
+ 
+
+ INOLTRARE A CURA DELLE AZIENDE DI CREDITO AL CENTRO INFORMATIVO DELLA DIREZIONE GENERALE DELLE IMPOSTE DIRETTE. 
+ 
+
+ I supporti predisposti dalle aziende di credito ai sensi dell'art. 6 del decreto ministeriale 1° ottobre 1982 e sui quali devono essere registrati i dati delle attestazioni rilasciate ai contribuenti ed i dati dei versamenti effettuati dalle aziende di credito, sono costituiti da nastri magnetici aventi le seguenti caratteristiche: 
+ 
+
+ numero di tracce = 9; 
+ 
+
+ numero di caratteri per pollice = 1600, oppure 6250 b.p.i.; 
+ 
+
+ tipo di codifica = EBCDIC, con bit di parità = ODD, 
+ 
+
+ oppure nastri a cartuccia di tipo IBM 3480 con le seguenti caratteristiche: 
+ 
+
+ numero di tracce = 18; 
+ 
+
+ numero di caratteri per pollice = 38.000; 
+ 
+
+ tipo di codifica = EBCDIC, con bit di parità = ODD. 
+ 
+
+ La lunghezza del record fisico deve essere di 5500 bytes, per cui il fattore di bloccaggio è di 50 records logici. 
+ 
+
+ Non è ammessa la presenza di labels (standard o non standard). 
+ 
+
+ Al contenitore di ogni bobina deve essere apposta un'etichetta riportante le seguenti indicazioni: 
+ 
+
+ destinatario: Centro informativo della Direzione generale delle imposte dirette, via Mario Carucci, 99 - 00143 Roma; 
+ 
+
+ azienda o ente: descrizione in chiaro della denominazione dell'azienda o ente che ha predisposto il supporto; 
+ 
+
+ densità di registrazione: 1600 oppure 6250 b.p.i.; 
+ 
+
+ data di scadenza; 
+ 
+
+ numero di bobine su cui sono contenuti i dati delle attestazioni relative alla scadenza considerata; 
+ 
+
+ numero di ordine della bobina nell'ambito della registrazione relativa alla scadenza considerata. 
+ 
+
+ La bobina può contenere informazioni relative a più aziende di credito; tutti i dati relativi ad un medesimo versamento ed ai relativi ordini di pagamento costituiscono la "unità di registrazione" e pertanto devono essere necessariamente registrati sulla medesima bobina. 
+ 
+
+ Non è consentito il frazionamento delle "unità di registrazione" di una medesima azienda su diverse bobine quando le stesse contengano informazioni relative a più aziende. 
+ 
+
+ L'azienda o l'ente che produce i supporti deve condensare i dati su un numero minimo di bobine, compatibilmente con quanto sopra precisato. 
+ 
+
+ Ciascuna unità di registrazione è composta dai seguenti tipi records lunghi 110 caratteri: 
+ 
+
+ 1) Record-versamento; 
+ 
+
+ 2) Record-riscossione "contabile"; 
+ 
+
+ 3) Record-riscossione "anagrafico di persona fisica" del primo o unico soggetto presente nella delega; 
+ 
+
+ 4) Record-riscossione "anagrafico di persona fisica" del secondo soggetto presente nella delega; 
+ 
+
+ 5) Record-riscossione "dati identificativi di società" per le deleghe presentate da soggetti diversi dalle persone fisiche. 
+ 
+
+ I records di cui ai punti 3), 4) e 5) devono essere registrati per tutti i numeri di codice fiscale presenti nei records-riscossione contabile, che abbiano il carattere di controllo errato secondo quanto disposto dagli articoli 7 e 9 del decreto ministeriale 23 dicembre 1976. Tali records vanno altresì registrati nei casi in cui la delega contenga un importo relativo all'IRPEF ed il numero di codice fiscale sia costituito da una espressione numerica di undici caratteri. 
+ 
+
+ A) Contenuto della "unità di registrazione". 
+ 
+
+ Le singole "unità di registrazione" devono essere disposte sul "file" per valori crescenti della seguente chiave di ordinamento (con riferimento ai nomi dei campi appresso citati): 
+ 
+
+ codice azienda/codice tesoreria/numero quietanza/progressivo record/tipo record. 
+ 
+
+ Il codice dell'azienda, il codice tesoreria ed il numero di quietanza devono essere riportati invariati su ciascun record costituente l'"unità di registrazione". 
+ 
+
+ Il progressivo record assume il valore 1 nel primo record versamento inserito nel "file"; deve essere incrementato di una unità per i successivi records versamento o riscossione contabile; per i records "anagrafici" (tipo 3, 4 e 5) il progressivo assume il valore del record riscossione contabile cui si riferisce. 
+ 
+
+ Qui di seguito sono elencate le informazioni che devono essere riportate per ciascun record costituente l'"unità di registrazione". 
+ 
+
+ 1) Record-versamento: contiene i dati relativi a ciascuna operazione di versamento effettuata presso la competente tesoreria provinciale: 
+ 
+
+ a) codice azienda (4) (*): codice ABI dell'azienda delegata; 
+ 
+
+ b) codice dipendenza capofila (4): codice identificativo della dipendenza che ha effettuato il versamento corrispondente a quello segnalato all'amministrazione finanziaria; 
+ 
+
+ c) codice tesoreria (3): codice identificato della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ d) numero di quietanza (6): è il numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato (ovvero il numero progressivo riportato nella speciale distinta di cui all'allegato 4); 
+ 
+
+ e) progressivo record (7); 
+ 
+
+ f) tipo di record (1): vale sempre 1; 
+ 
+
+ g) data di versamento (6): espressa in giorno, mese ed anno, indica la data liberatoria per l'azienda. 
+ 
+
+ è quella trascritta sulla quietanza rilasciata dalla tesoreria provinciale dello Stato; è quella del visto della speciale distinta per i versamenti direttamente effettuati presso le tesorerie provinciali della Sicilia; 
+ 
+
+ h) flag di unità di registrazione (1): 
+ 
+
+ vale 1 per i versamenti relativi al saldo dell'IRPEF; 
+ 
+
+ vale 2 per i versamenti relativi all'acconto dell'IRPEF; 
+ 
+
+ vale 3 per i versamenti relativi al saldo dell'ILOR; 
+ 
+
+ vale 4 per i versamenti relativi all'acconto dell'ILOR; 
+ 
+
+ i) importo versato (10): importo del versamento effettuato dall'azienda di credito al netto della commissione spettante espresso in migliaia di lire. 
+ 
+
+ Per le aziende che versano presso le tesorerie provinciali della Sicilia è l'importo complessivo riportato in ciascuna delle speciali distinte di cui nell'allegato 4; 
+ 
+
+ l) numero di deleghe (6): numero di deleghe a fronte delle quali è stato effettuato il versamento. Questo valore deve coincidere con la quantità di records-riscossione che seguono il presente record-versamento. Vale / 0 per i versamenti compensativi effettuati a fronte di versamenti carenti; 
+ 
+
+ m) numero dei records anagrafici (6): numero dei records anagrafici inseriti nell'"unità di registrazione"; 
+ 
+
+ n) filler (56): vale sempre / 0. 
+ 
+
+ 2) Record-riscossione: contiene i dati relativi a ciascuna delega di pagamento: 
+ 
+
+ a) codice azienda (4) (*): codice ABI dell'azienda delegata; 
+ 
+
+ b) codice dipendenza delegata (4): codice identificativo della dipendenza che ha ricevuto la delega; corrisponde con quello riportato sul documento stesso; 
+ 
+
+ c) codice tesoreria (3): codice identificato della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ d) numero di quietanza (6): è il numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato (ovvero numero progressivo riportato nella speciale distinta di cui all'allegato 4); 
+ 
+
+ e) progressivo record (7); 
+ 
+
+ f) tipo di record (1): vale sempre 2; 
+ 
+
+ g) data della delega (6): è la data espressa in giorno, mese ed anno, in cui l'azienda ha ricevuto la delega; 
+ 
+
+ h) flag di unità di registrazione (1): 
+ 
+
+ vale 1 per i versamenti relativi al saldo dell'IRPEF; 
+ 
+
+ vale 2 per i versamenti relativi all'acconto dell'IRPEF; 
+ 
+
+ vale 3 per i versamenti relativi al saldo dell'ILOR; 
+ 
+
+ vale 4 per i versamenti relativi all'acconto dell'ILOR; 
+ 
+
+ i) codice fiscale dichiarante (16): codice fiscale del contribuente, contrassegnato sulla delega con dicitura dichiarante. 
+ 
+
+ In caso di codici fiscali costituiti da una espressione numerica occorre allineare a destra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ l) codice fiscale coniuge (16): codice fiscale del contribuente, contrassegnato sulla delega con dicitura coniuge. 
+ 
+
+ In caso di codici fiscali costituiti da una espressione numerica occorre allineare a destra gli 11 caratteri numerici che lo individuano; 
+ 
+
+ m) imposta (8): importo pagato dal dichiarante, ovvero dal dichiarante e dal coniuge in caso di delega congiunta, al lordo della commissione spettante all'azienda. 
+ 
+
+ Tale importo deve essere registrato in migliaia di lire; 
+ 
+
+ n) filler (17): vale sempre / 0. 
+ 
+
+ o) provincia (2): sigla della provincia dove ha sede l'ufficio finanziario delle imposte dirette al quale è destinata la dichiarazione dei redditi; 
+ 
+
+ p) ufficio imposte (19): denominazione dell'ufficio finanziario delle imposte dirette al quale è destinata la dichiarazione dei redditi. 
+ 
+
+ 3) Record-riscossione "anagrafico di persona fisica"; contiene i dati anagrafici della prima o unica persona fisica presente nella delega: 
+ 
+
+ a) codice azienda (4): codice ABI dell'azienda delegata; 
+ 
+
+ b) codice dipendenza delegata (4): codice identificativo della dipendenza che ha ricevuto la delega; corrisponde a quello riportato nel documento stesso; 
+ 
+
+ c) codice tesoreria (3): codice identificato della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ d) numero di quietanza (6): è il numero progressivo della quietanza rilasciata dalla tesoreria provinciale dello Stato; 
+ 
+
+ e) progressivo record (7); 
+ 
+
+ f) tipo di record (1): vale sempre 3; 
+ 
+
+ g) cognome del primo o unico soggetto della delega (24); 
+ 
+
+ h) nome del primo o unico soggetto della delega (20); 
+ 
+
+ i) sesso (1): vale M o F; 
+ 
+
+ l) data di nascita (6): espressa in giorno, mese ed anno; 
+ 
+
+ m) comune di nascita (25); 
+ 
+
+ n) provincia di nascita (2): sigla automobilistica della provincia in cui ha sede il comune di nascita del contribuente; 
+ 
+
+ o) filler (7): vale sempre / 0. 
+ 
+
+ 4) Record-riscossione "anagrafico di persona fisica"; contiene i dati anagrafici del secondo soggetto presente nella delega: 
+ 
+
+ a) codice azienda (4): codice ABI dell'azienda delegata; 
+ 
+
+ b) codice dipendenza delegata (4): codice identificativo della dipendenza che ha ricevuto la delega; corrisponde a quello riportato nel documento stesso; 
+ 
+
+ c) codice tesoreria (3): codice identificato della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ d) numero di quietanza (6): numero della quietanza rilasciata dalla tesoreria provinciale dello Stato; 
+ 
+
+ e) progressivo record (7); 
+ 
+
+ f) tipo di record (1): vale sempre 4; 
+ 
+
+ g) cognome del secondo soggetto della delega (24); 
+ 
+
+ h) nome del secondo soggetto della delega (20); 
+ 
+
+ i) sesso (1): vale M o F; 
+ 
+
+ l) data di nascita (6): espressa in giorno, mese ed anno; 
+ 
+
+ m) comune di nascita (25); 
+ 
+
+ n) provincia di nascita (2): sigla automobilistica della provincia in cui ha sede il comune di nascita del contribuente; 
+ 
+
+ o) filler (7): vale sempre / 0. 
+ 
+
+ 5) Record-riscossione "dati identificativi di società"; contiene i dati identificativi della società o associazione che ha conferito la delega: 
+ 
+
+ a) codice azienda (4): codice ABI dell'azienda delegata; 
+ 
+
+ b) codice dipendenza delegata (4): codice identificativo della dipendenza che ha ricevuto la delega; corrisponde a quello riportato nel documento stesso; 
+ 
+
+ c) codice tesoreria (3): codice identificato della tesoreria provinciale dello Stato presso la quale è stato effettuato il versamento; 
+ 
+
+ d) numero di quietanza (6): numero della quietanza rilasciata dalla tesoreria provinciale dello Stato; 
+ 
+
+ e) progressivo record (7); 
+ 
+
+ f) tipo di record (1): vale sempre 5; 
+ 
+
+ g) ragione sociale (60); 
+ 
+
+ h) filler (25): vale sempre / 0. 
+ 
+
+ B) Contenuto di ciascun supporto magnetico. 
+ 
+
+ L'insieme delle unità di registrazione contenute in ciascun supporto magnetico, sia che detto insieme costituisca l'intero "file" o parte di esso, deve essere preceduto da un record iniziale avente il seguente contenuto informativo: 
+ 
+
+ a) filler (4): vale sempre / 0; 
+ 
+
+ b) codice centro (4): codice del centro di elaborazione dati che ha prodotto il supporto; 
+ 
+
+ c) progressivo d'invio (1): numero progressivo d'invio nell'ambito della scadenza; vale 1 per il primo invio e si incrementa di una unità per ogni successivo invio predisposto in sostituzione del precedente a seguito di richiesta da parte del Centro informativo che ne ha evidenziato gli errori. 
+ 
+
+ Non sono ammessi nastri integrativi ma su richiesta del Centro informativo dovrà essere nuovamente inviato tutto il file opportunamento corretto; 
+ 
+
+ d) data di scadenza (6): è la data, espressa in giorno, mese ed anno relativa alla scadenza; 
+ 
+
+ e) numero bobine (2): numero di bobine su cui sono contenuti i dati delle deleghe relative alla scadenza considerata; 
+ 
+
+ f) numero di ordine di bobina (2): numero di ordine della bobina nell'ambito della registrazione relativa alla scadenza considerata; 
+ 
+
+ g) numero deleghe IRPEF (7): numero di deleghe IRPEF registrate sulla bobina, sia di saldo sia di acconto; 
+ 
+
+ h) numero di versamenti IRPEF (6): numero totale dei versamenti effettuati in tesoreria sia di saldo sia di acconto IRPEF (coincide con la quantità di "unità di registrazione IRPEF" figuranti in ciascuna bobina); 
+ 
+
+ i) numero deleghe ILOR (7): numero di deleghe ILOR registrate sulla bobina, sia di saldo sia di acconto; 
+ 
+
+ l) numero di versamenti ILOR (6): numero totale dei versamenti effettuati in tesoreria sia di saldo sia di acconto ILOR (coincide con la quantità di "unità di registrazione ILOR" figuranti in ciascuna bobina); 
+ 
+
+ m) numero records anagrafici (6): numero dei records anagrafici inseriti nel "file"; 
+ 
+
+ n) numero aziende (5): numero di aziende i cui dati sono registrati nella bobina; 
+ 
+
+ o) filler (54): vale sempre / 0. 
+ 
+
+ (*) La cifra fra le parentesi indica il numero di bytes 
+ 
+
+ del dato: tutti i dati di questo e dei successivi records 
+ 
+
+ devono essere rappresentati in forma "zoned". Se il numero 
+ 
+
+ di caratteri significativi è inferiore alla lunghezza del 
+ 
+
+ campo, i rimanenti vanno riempiti con zeri allineati a 
+ 
+
+ sinistra.
