@@ -1,0 +1,606 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76 e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva 98/26/CE del Parlamento europeo e del Consiglio del 19 maggio 1998, concernente il carattere definitivo del regolamento nei sistemi di pagamento e nei sistemi di regolamento titoli;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 21 dicembre 1999, n. 526, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee (legge comunitaria 1999) ed in particolare gli articoli 1 e 18 concernenti l'esercizio della delega legislativa per il recepimento della direttiva;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il testo unico delle leggi in materia bancaria e creditizia, approvato con il decreto legislativo 1o settembre 1993, n. 385;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, approvato con il decreto legislativo 24 febbraio 1998, n. 58;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazione del Consiglio dei Ministri adottata nella riunione del 28 dicembre 2000;
+
+ 
+ 
+ 
+
+ 
+ Acquisiti i pareri delle competenti commissioni parlamentari;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 marzo 2001;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Ministro per le politiche comunitarie e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e della giustizia;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Nel presente decreto legislativo si intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) "Testo unico bancario" (T.U. bancario): il decreto legislativo 1o settembre 1993, n. 385, e successive modificazioni; 
+ 
+
+ 
+ 
+
+ 
+ b) "Testo unico finanza" (T.U. finanza): il decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni; 
+ 
+
+ 
+ 
+
+ 
+ c) "Consob": la Commissione nazionale per le società e la borsa;
+ 
+
+ 
+ 
+
+ 
+ d) "agente di regolamento": il soggetto che mette a disposizione dei partecipanti conti per il regolamento di ordini di trasferimento all'interno del sistema e che può concedere credito a tale scopo ai medesimi partecipanti; 
+ 
+
+ 
+ 
+
+ 
+ e) "banche centrali": la Banca centrale europea e le banche centrali nazionali degli Stati membri dell'Unione europea; 
+ 
+
+ 
+ 
+
+ 
+ f) "compensazione": la conversione, secondo le regole del sistema, in un'unica posizione a credito o a debito dei crediti e dei debiti di uno o più partecipanti nei confronti di uno o più partecipanti e risultanti da ordini di trasferimento; 
+ 
+
+ 
+ 
+
+ 
+ g) "controparte centrale": il soggetto interposto tra gli enti di un sistema che funge da controparte esclusiva di detti enti riguardo ai loro ordini di trasferimento; 
+ 
+
+ 
+ 
+
+ 
+ h) "ente": uno dei seguenti organismi che partecipi ad un sistema assumendo gli obblighi derivanti da ordini di trasferimento nell'ambito del sistema: 
+ 
+
+ 1) una banca italiana o comunitaria, come definite all'articolo 1, comma 2, lettere a) e b), del testo unico bancario, nonchè gli organismi elencati all'articolo 2, paragrafo 3, della direttiva 2000/12/CE; 
+ 
+
+ 2) una SIM, come definita dall'articolo 1, comma 1, lettera e), o un'impresa d'investimento comunitaria, come definita dall'articolo 1, comma 1, lettera f), del testo unico finanza, con esclusione degli enti di cui all'articolo 2, paragrafo 2, lettere a) - k) della direttiva 93/22/CEE, nonchè un agente di cambio; 
+ 
+
+ 3) un'autorità pubblica, o un'impresa pubblica come definita all'articolo 8 del regolamento n. 3603/93 del Consiglio CE del 13 dicembre 1993, nonchè un'impresa la cui attività sia assistita da garanzia pubblica; 
+ 
+
+ 4) qualsiasi impresa la cui sede legale non sia situata nel territorio dell'Unione europea, e che eserciti attività analoghe a quelle degli enti di cui ai punti 1) e 2); 
+ 
+
+ 5) qualsiasi altro organismo, individuato in conformità alle disposizioni comunitarie, che partecipi a un sistema italiano o di altro Stato dell'Unione europea, qualora la sua attività rilevi sotto il profilo del rischio sistemico; 
+ 
+
+ 
+ 
+
+ 
+ i) "garanzia": qualsiasi diritto avente ad oggetto o relativo a valute, strumenti finanziari o altre attività prontamente realizzabili da chiunque e in qualunque modo e forma costituito al fine di assicurare l'adempimento di obblighi presenti o futuri derivanti da ordini di trasferimento nell'ambito di un sistema o da operazioni connesse con le funzioni di banca centrale; 
+ 
+
+ 
+ 
+
+ 
+ l) "intermediario": uno degli organismi indicati nella lettera h), numeri 1), 2) e 4), che non partecipi al sistema; 
+ 
+
+ 
+ 
+
+ 
+ m) "ordine di trasferimento": ogni istruzione nell'ambito di un sistema da parte di un partecipante di: 
+ 
+
+ 1) mettere a disposizione di un beneficiario un importo in valuta attraverso una scrittura sui conti di una banca (italiana o comunitaria), di una banca centrale o di un agente di regolamento ovvero che determini l'assunzione o l'adempimento di un obbligo di pagamento in base alle regole del sistema, ovvero 
+ 
+
+ 2) trasferire la titolarità o altri diritti su uno o più strumenti finanziari, attraverso una scrittura in un libro contabile o in altro modo; 
+ 
+
+ 
+ 
+
+ 
+ n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione, un sistema di garanzia partecipanti a un sistema; 
+ 
+
+ 
+ 
+
+ 
+ o) "partecipante indiretto": un soggetto rientrante nella categoria di cui alla lettera h), punto 1), conosciuto al sistema, secondo le regole dello stesso, i cui ordini di trasferimento indicati alla lettera m), numero 1), nell'ambito del sistema medesimo sono eseguiti da un partecipante in nome proprio in base a un vincolo contrattuale; 
+ 
+
+ 
+ 
+
+ 
+ p) "procedura d'insolvenza": la liquidazione coatta amministrativa, il fallimento, il provvedimento di sospensione dei pagamenti delle passività e delle restituzioni dei beni ai terzi ai sensi degli articoli 74, 77, comma 2, 107, comma 6, del testo unico bancario, e dell'articolo 56, comma 3, del testo unico finanza, nonchè ogni altra misura prevista da una legge italiana, o, se applicabile, di uno Stato membro dell'Unione europea o di uno Stato extracomunitario, che ha come effetto la sospensione o la cessazione dei pagamenti delle passività e delle restituzioni dei beni ai terzi; 
+ 
+
+ 
+ 
+
+ 
+ q) "regolamento lordo": il regolamento operazione per operazione di ordini di trasferimento, al di fuori di una compensazione; 
+ 
+
+ 
+ 
+
+ 
+ r) "sistema": un insieme di disposizioni di natura contrattuale o autoritativa, in forza del quale vengono eseguiti con regole comuni e accordi standardizzati, ordini di trasferimento fra i partecipanti, che sia contestualmente: 
+ 
+
+ 1) applicabile a tre o più partecipanti, senza contare un eventuale agente di regolamento, una controparte centrale, una stanza di compensazione o un partecipante indiretto; ovvero applicabile a due partecipanti, qualora ciò sia giustificato sotto il profilo del contenimento del rischio sistemico per quanto attiene ai sistemi italiani, o nel caso in cui altri Stati membri dell'Unione europea abbiano esercitato la facoltà di limitare a due il numero dei partecipanti; 
+ 
+
+ 2) assoggettato alla legge di uno Stato membro dell'Unione europea, scelta dai partecipanti o prevista dalle regole che lo disciplinano, in cui almeno uno dei partecipanti medesimi abbia la sede legale; 
+ 
+
+ 3) designato come sistema e notificato alla Commissione europea dallo Stato membro dell'Unione europea di cui si applica la legge; 
+ 
+
+ 
+ 
+
+ 
+ s) "sistema italiano": uno dei sistemi indicati nell'allegato al presente decreto legislativo, nonchè uno dei sistemi designati ai sensi dell'articolo 10; 
+ 
+
+ 
+ 
+
+ 
+ t) "sistema di garanzia": uno dei sistemi di cui agli articoli 68, comma 1, e 69, comma 2, del testo unico finanza; 
+ 
+
+ 
+ 
+
+ 
+ u) "stanza di compensazione": il centro responsabile del calcolo delle posizioni nette dei partecipanti al sistema; 
+ 
+
+ 
+ 
+
+ 
+ v) "strumenti finanziari": gli strumenti finanziari di cui all'articolo 1, comma 2, del testo unico finanza; 
+ 
+
+ 
+ 
+
+ w) "sistema extracomunitario": un sistema di pagamento o di regolamento titoli di uno Stato non appartenente all'Unione europea. 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUCE). 
+ 
+
+ Note alle premesse: 
+ 
+
+ - L'art. 76 della Costituzione stabilisce che l'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
+ 
+
+ - L'art. 87 della Costituzione conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
+ 
+
+ - La direttiva 98/26/CE del Parlamento europeo e del Consiglio del 19 maggio 1998 concernente il carattere definitivo del regolamento nei sistemi di pagamento e nei sistemi di regolamento titoli è pubblicata in GUCE n. L 166 dell'11 giugno 1998. 
+ 
+
+ - La legge 21 dicembre 1999, n. 526, reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - Legge comunitaria 1999". Gli articoli 1 e 18 della succitata legge così recitano: 
+ 
+
+ "Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo è delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. 
+ 
+
+ 2. I decreti legislativi sono adottati, nel rispetto dell'art. 14 della legge 23 agosto 1988, n. 400, su proposta del Presidente del Consiglio dei Ministri o del Ministro per le politiche comunitarie e del Ministro con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, della giustizia e del tesoro, del bilancia e della programmazione economica e con gli altri Ministri interessati in relazione all'oggetto della direttiva. 
+ 
+
+ 3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B sono trasmessi, dopo che su di essi sono stati acquisiti gli altri pareri previsti da disposizioni di legge ovvero sono trascorsi i termini prescritti per l'espressione di tali pareri, alla Camera dei deputati e al Senato della Repubblica perchè su di essi sia espresso, entro quaranta giorni dalla data di trasmissione, il parere delle Commissioni competenti per materia, decorso tale termine, i decreti sono emanati anche in mancanza di detto parere. Qualora il termine previsto per il parere delle Commissioni scada nei trenta giorni che precedono la scadenza dei termini previsti al comma 1 o successivamente, questi ultimi sono prorogati di novanta giorni. 
+ 
+
+ 4. Entro due anni dalla data di entrata in vigore della presente legge, nel rispetto dei principi e criteri direttivi da essa fissati, il Governo può emanare, con la procedura indicata nei commi 2 e 3, disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1. 
+ 
+
+ 5. Il termine per l'esercizio della delega per l'attuazione della direttiva 97/5/CE è di sei mesi". 
+ 
+
+ "Art. 18 (Sistemi di pagamento e di regolamento titoli: criteri di delega). - 1. L'attuazione della direttiva 98/26/CE, con riferimento alla quale il Governo dovrà avvalersi della facoltà prevista dall'art. 4 della direttiva medesima, sarà informata ai seguenti principi e criteri direttivi: 
+ 
+
+ a) riduzione delle turbative al funzionamento dei sistemi di pagamento e di quelli di regolamento titoli, derivanti dalle procedure concorsuali o dalla sospensione dei pagamenti cui sia sottoposto un partecipante a tali sistemi; 
+ 
+
+ b) estensione della disciplina anche ai sistemi transfrontalieri operanti nell'ambito dell'Unione europea; 
+ 
+
+ c) irrevocabilità ed opponibilità degli ordini di trasferimento immessi in un sistema e dell'eventuale compensazione e regolamento degli stessi, nei limiti previsti dalla direttiva; 
+ 
+
+ d) previsione che le garanzie da chiunque fornite per assicurare l'adempimento delle obbligazioni derivanti dalla partecipazione ad un sistema ovvero fornite alla Banca d'Italia alle altre banche centrali degli Stati membri dell'Unione europea e alla Banca centrale europea, non siano pregiudicate da una procedura concorsuale o dalla sospensione dei pagamenti nei confronti del partecipante o della controparte della Banca d'Italia, delle altre banche centrali nazionali e della Banca centrale europea e che dette garanzie possano essere realizzate al fine di soddisfare tali obbligazioni; 
+ 
+
+ e) previsione dell'immediata comunicazione ai sistemi, alla Banca d'Italia e agli altri Stati membri dell'Unione europea della sottoposizione ad una procedura concorsuale o della sospensione dei pagamenti di un partecipante ad un sistema; 
+ 
+
+ f) previsione che l'assoggettamento a una procedura concorsuale o la sospensione dei pagamenti non abbiano effetto retroattivo sui diritti e sugli obblighi dei partecipanti rispetto al momento della sospensione dei pagamenti; 
+ 
+
+ g) coordinamento della disciplina di attuazione della direttiva, per il perseguimento delle finalità della stessa, con le norme previste dall'ordinamento interno, in particolare in materia di procedure concorsuali e sospensione dei pagamenti; 
+ 
+
+ h) introduzione di disposizioni volte a ridurre i rischi connessi ai rapporti intercorrenti tra i partecipanti diretti ai sistemi di pagamento e di regolamento titoli e gli intermediari per conto dei quali essi operano, in relazione alle specifiche modalità di funzionamento di tali sistemi". 
+ 
+
+ - Il decreto legislativo 1o settembre 1993, n. 385, reca: "Testo unico delle leggi in materia bancaria e creditizia". 
+ 
+
+ - Il decreto legislativo 24 febbraio 1998, n. 58, reca: "Testo unico in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52". 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per i riferimenti del decreto legislativo 1o settembre 1993, n. 385, vedi note alle premesse. 
+ 
+
+ - Per i riferimenti del decreto legislativo 24 febbraio 1998, n. 58, vedi note alle premesse. 
+ 
+
+ - L'art. 1, comma 2, lettere a) e b) del Testo unico bancario così recita: 
+ 
+
+ "2. Nel presente decreto legislativo si intendono per: 
+ 
+
+ a) "banca italiana : la banca avente sede legale in Italia; 
+ 
+
+ b) "banca comunitaria : la banca avente sede legale e amministrazione centrale in un medesimo Stato comunitario diverso dall'Italia". 
+ 
+
+ - La direttiva 2000/12/CE del Parlamento europeo e del Consiglio del 20 marzo 2000 relativa all'accesso all'attività degli enti creditizi ed al suo esercizio è pubblicata in GUCE n. L 126 del 26 maggio 2000. L'art. 2, paragrafo 3 della succitata direttiva così recita: 
+ 
+
+ "Art. 2 (Campo d'applicazione). - Par. 3 Le disposizioni della presente direttiva non si applicano alle attività svolte: 
+ 
+
+ dalle banche centrali degli Stati membri; 
+ 
+
+ dagli uffici dei conti correnti postali; 
+ 
+
+ in Belgio: dall'"Institut de reescompte et de garantie/Herdiscontering- en Waarborgsinstituut ; 
+ 
+
+ in Danimarca: dal "Dansk Eksportfinansieringsfond , del "Danmarks Skibskreditfond e dal "Dansk Landbrugs Realkreditfond ; 
+ 
+
+ in Germania: dalla "Kreditanstalt f&uuml;r Wiederaufbau , dagli organismi riconosciuti in virtù del "Wohnungsgemeinn&uuml;tzigkeftsgesetz quali organi della politica nazionale in materia di alloggi e le cui operazioni bancarie non costituiscono l'attività principale, nonchè dagli organismi riconosciuti in virtù della legge succitata quali organismi di interesse pubblico in materia di alloggi; 
+ 
+
+ 
+ 
+
+ Parte del provvedimento in formato grafico 
+ 
+
+ in Spagna: dall'"Instituto de Credito Oficial; 
+ 
+
+ in Francia: dalla "Caisse des dep&ocirc;ts et consignations; 
+ 
+
+ in Irlanda: dalle "credit unions e dalle "friendly societies; 
+ 
+
+ in Italia: dalla "Cassa depositi e prestiti; 
+ 
+
+ nei Paesi Bassi: dalla "Nederlandse Investeringsbank voor Ontwikkeingslanden NV , dalla "NV Noordelijke Ontwikkelingsmaatschappij , dalla "NV Industriebank Limburgs Instituut, voor ontwikkeling en financiering e dalla "Overijsselse Ontwikkelingsmaatschappij NV; 
+ 
+
+ in Austria: dalle imprese riconosciute come associazioni edilizie di interesse pubblico e dalla "sterreichische Kontrollbank AQ; 
+ 
+
+ in Portogallo: dalle "Caixas Economicas esistenti al 1o gennaio 1986 ad eccezione sia di quelle che sono costituite in società per azioni che della "Caixa Economica Montepio Geral; 
+ 
+
+ in Finlandia: dalla "Teollisen yhteistyn rahasto Oy/Fonden fr industriellt samarbete Ab e dalla "Kera Oy/Kera Ab; 
+ 
+
+ in Svezia: dalla "Svenska Skeppshypotekskassan; 
+ 
+
+ nel Regno Unito: dalla "National Savings Bank , dalla "Commonwealth Development Finance Company Ltd , dalla "Agricultural Mortgage Corporation Ltd , dalla "Scottish Agricultural Securities Corporation Ltd , dai "Crown Agents for overseas govermnents and administrations dalle "credit unions e dalle "municipal banks .". 
+ 
+
+ - L'art. 1, comma 1, lettera f) del Testo unico finanza così recita: 
+ 
+
+ "f) "impresa di investimento comunitaria : l'impresa, diversa dalla banca, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in un medesimo Stato comunitario, diverso dall'Italia;". 
+ 
+
+ - La direttiva 93/22/CEE del Consiglio, del 10 maggio 1993, relativa ai servizi di investimento nel settore dei valori mobiliari è pubblicata in GUCE n. L 141 dell'11 giugno 1993. L'art. 2, paragrafo 2, lettere a) e k) della succitata direttiva così recitano: 
+ 
+
+ "Par. 2. La presente direttiva non è applicabile: 
+ 
+
+ a) alle imprese di assicurazione ai sensi dell'art. 1 della direttiva 73/239/CEE o dell'art. 1 della direttiva 79/267/CEE nè alle imprese che esercitano le attività di riassicurazione e di retrocessione di cui alla direttiva 64/225/CEE; 
+ 
+
+ b) alle imprese che prestano un servizio d'investimento esclusivamente alla propria impresa madre, alle proprie imprese figlie o ad un'altra impresa figlia della propria impresa madre; 
+ 
+
+ c) alle persone che prestano un servizio d'investimento se si tratta di un'attività esercitata a titolo accessorio nell'ambito di un'attività professionale e se detta attività è disciplinata da disposizioni legislative o regolamentari o da un codice di deontologia professionale, i quali non escludono la prestazione del servizio di cui trattasi; 
+ 
+
+ d) alle imprese i cui servizi d'investimento consistono esclusivamente nella gestione di un sistema di partecipazione dei lavoratori; 
+ 
+
+ e) alle imprese i cui servizi d'investimento consistono nel fornire sia i servizi di cui alla lettera b) che quelli di cui alla lettera d); 
+ 
+
+ f) alle banche centrali degli Stati membri, altri enti nazionali che svolgono funzioni analoghe ed altri enti pubblici incaricati della gestione del debito pubblico o che intervengono nella medesima; 
+ 
+
+ g) alle imprese: 
+ 
+
+ che non possono detenere fondi o titoli appartenenti ai loro clienti e che, per questo motivo, non rischiano mai di trovarsi in situazione debitoria nei 
+ 
+
+ confronti dei loro clienti; e 
+ 
+
+ che possono fornire unicamente un servizio d'investimento che consiste nel ricevere e trasmettere ordini relativi a valori mobiliari e a quote di capitale di 
+ 
+
+ organismi di investimento collettivo; e 
+ 
+
+ che, nel fornire tale servizio, possono trasmettere ordini; 
+ 
+
+ i) unicamente a imprese d'investimento autorizzate in conformità della presente direttiva; 
+ 
+
+ ii) unicamente ad enti creditizi autorizzati in conformità delle direttive 77/780/CEE e 89/646/CEE; 
+ 
+
+ iii) unicamente a succursali di imprese di investimento o di enti creditizi che sono state autorizzate in un Paese terzo e sono soggette a norme prudenziali che le autorità competenti reputano almeno altrettanto severe di quelle enunciate nella presente direttiva o nelle direttive 89/646/CEE o 93/6/CEE e che vi si conformano; 
+ 
+
+ iv) unicamente ad organismi di investimento collettivo autorizzati dalla legislazione di uno Stato membro a collocare presso il pubblico quote di capitale nonchè ai dirigenti di tali organismi; 
+ 
+
+ v) unicamente a società di investimento a capitale fisso, ai sensi dell'art. 15, paragrafo 4 della direttiva 77/91/CEE, i cui titoli sono quotati o negoziati su un mercato regolamentato in uno Stato membro; 
+ 
+
+ e la cui attività è sottoposta a livello nazionale ad una regolamentazione o ad un codice deontologico; 
+ 
+
+ h) agli organismi di investimento collettivo, coordinati o meno a livello comunitario, nonchè ai depositari ed amministratori di detti organismi; 
+ 
+
+ i) alle persone la cui attività principale consiste nel negoziare materie prime tra loro o con produttori o utilizzatori a fini professionali di tali prodotti e che prestano servizi d'investimento solo a tali controparti e nella misura necessaria all'esercizio della loro attività principale; 
+ 
+
+ j) alle imprese i cui servizi d'investimento consistono esclusivamente nel negoziare unicamente per conto proprio su un mercato di strumenti finanziari a termine o di options o che negoziano o formulano prezzi per altri membri dello stesso mercato e godono della garanzia di un membro che aderisce all'organismo di compensazione di quest'ultimo. La responsabilità del buon fine dei contratti stipulati da dette imprese deve essere assunta da un membro che aderisce all'organismo di compensazione dello stesso mercato; 
+ 
+
+ k) alle associazioni istituite da fondi pensione danesi col solo scopo di amministrare le attività dei fondi pensione partecipanti;". 
+ 
+
+ - Il regolamento (CE) n. 3603/93 del Consiglio del 13 dicembre 1993, che precisa le definizioni necessarie all'applicazione dei divieti enunciati all'art. 104 e all'art. 104B, paragrafo 1 del trattato è pubblicato in GUCE n. L 332 del 31 dicembre 1993. L'art. 8 del succitato regolamento così recita: 
+ 
+
+ "Art. 8. - 1. Ai fini dell'art. 104 e dell'art. 104B, paragrafo 1 del trattato, si intende per "impresa pubblica qualsiasi impresa sulla quale lo Stato o altri enti territoriali possano esercitare direttamente o indirettamente un'influenza dominante per la struttura proprietaria, per la partecipazione o per la normativa che la disciplina. L'influenza dominante è presunta qualora lo Stato o gli altri enti territoriali, direttamente o indirettamente, nei riguardi dell'impresa: 
+ 
+
+ a) detengano la maggioranza del capitale sottoscritto dell'impresa, oppure, 
+ 
+
+ b) dispongano della maggioranza dei voti attribuiti alle partecipazioni emesse dall'impresa, oppure, 
+ 
+
+ c) possano designare più della metà dei membri dell'organo di amministrazione, di direzione o di vigilanza dell'impresa. 
+ 
+
+ 2. Ai fini dell'art. 104 e dell'art. 104B, paragrafo 1 del trattato, la Banca centrale europea e le banche centrali nazionali non fanno parte del settore pubblico.". 
+ 
+
+ - L'art. 74 del testo unico bancario così recita: 
+ 
+
+ "Art. 74 (Sospensione dei pagamenti). - 1. Qualora ricorrano circostanze eccezionali i commissari, al fine di tutelare gli interessi dei creditori, possono sospendere il pagamento delle passività di qualsiasi genere da parte della banca ovvero la restituzione degli strumenti finanziari ai clienti relativi ai servizi previsti dal decreto legislativo di recepimento della direttiva 93/22/CEE. Il provvedimento è assunto sentito il comitato di sorveglianza, previa autorizzazione della Banca d'Italia, che può emanare disposizioni per l'attuazione dello stesso. La sospensione ha luogo per un periodo non superiore ad un mese, prorogabile eventualmente, con le stesse formalità, per altri due mesi. 
+ 
+
+ 2. Durante il periodo della sospensione non possono essere intrapresi o proseguiti atti di esecuzione forzata o atti cautelari sui beni della banca e sugli strumenti finanziari dei clienti. Durante lo stesso periodo non possono essere iscritte ipoteche sugli immobili o acquistati alti diritti di prelazione sui mobili della banca se non in forza di provvedimenti giudiziali esecutivi anteriori all'inizio del periodo di sospensione. 
+ 
+
+ 3. La sospensione non costituisce stato d'insolvenza". 
+ 
+
+ - Il comma 2 dell'art. 77 del Testo unico bancario così recita: 
+ 
+
+ "Art. 77 (Succursali di banche extracomunitarie). - Omissis. 
+ 
+
+ 2. Si applicano, in quanto compatibili, le disposizioni della presente sezione.". 
+ 
+
+ - Il comma 6 dell'art. 107 del Testo unico bancario così recita: 
+ 
+
+ "Art. 107 (Elenco speciale). - Omissis. 
+ 
+
+ 6. Gli intermediari finanziari iscritti nell'elenco speciale, quando siano stati autorizzati all'esercizio di servizi di investimento ovvero abbiano acquisito fondi con obbligo di rimborso per un ammontare superiore al patrimonio, sono assoggettati alle disposizioni previste nel titolo IV, capo I, sezione I e III; in luogo degli articoli 86, commi 6 e 7, 87, comma 1, si applica l'art. 57, commi 4 e 5, del testo unico delle disposizioni in materia di mercati finanziari, emanato ai sensi dell'art. 21 della legge 6 febbraio 1996, n. 52.". 
+ 
+
+ - Il comma 3 dell'art. 56 del Testo unico finanza così recita: 
+ 
+
+ "Art. 56 (Amministrazione straordinaria). - Omissis. 
+ 
+
+ 3. La direzione della procedura e tutti gli adempimenti a essa connessi spettano alla Banca d'Italia. Si applicano, in quanto compatibili, gli articoli 70, commi da 2 a 6, 71, 72, 73, 74, 75 del Testo unico bancario, intendendosi le suddette disposizioni riferite agli investitori in luogo dei depositanti, alle SIM, alle imprese di investimento extracomunitarie, alle società di gestione del risparmio e alle SICAV in luogo delle banche, e l'espressione "strumenti finanziari riferita agli strumenti finanziari e al denaro.". 
+ 
+
+ - Il comma 1 dell'art. 68 del Testo unico finanza così recita: 
+ 
+
+ "Art. 68 (Sistemi di garanzia dei contratti). - 1. La Banca d'Italia, d'intesa con la CONSOB, può disciplinare l'istituzione e il funzionamento di sistemi finalizzati a garantire il buon fine delle operazioni aventi a oggetto strumenti finanziari non derivati effettuate nei mercati regolamentati, anche emanando disposizioni concernenti la costituzione di fondi di garanzia alimentati da versamenti effettuati dai relativi partecipanti.". 
+ 
+
+ - Il comma 2 dell'art. 69 del Testo unico finanza così recita: 
+ 
+
+ "Art. 69 (Compensazione e liquidazione delle operazioni su strumenti finanziari non derivati). - Omissis. 
+ 
+
+ 2. La Banca d'Italia, d'intesa con la CONSOB, può disciplinare l'istituzione e il funzionamento di sistemi finalizzati a garantire il buon fine della compensazione e della liquidazione delle operazioni indicate nel comma 1, anche emanando disposizioni concernenti la costituzione e l'amministrazione di fondi di garanzia alimentati da versamenti effettuati dai partecipanti.". 
+ 
+
+ - L'art. 1 comma 2 del Testo unico finanza così recita: 
+ 
+
+ "2. Per "strumenti finanziari si intendono: 
+ 
+
+ a) le azioni e gli altri titoli rappresentativi di capitale di rischio negoziabili sul mercato dei capitali; 
+ 
+
+ b) le obbligazioni, i titoli di Stato e gli altri titoli di debito negoziabili sul mercato dei capitali; 
+ 
+
+ c) le quote di fondi comuni di investimento; 
+ 
+
+ d) i titoli normalmente negoziati sul mercato monetario; 
+ 
+
+ e) qualsiasi altro titolo normalmente negoziato che permetta di acquisire gli strumenti indicati nelle precedenti lettere e i relativi indici; 
+ 
+
+ f) i contratti "futures su strumenti finanziari, su tassi di interesse, su valute, su merci e sui relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ 
+
+ g) i contratti di scambio a pronti e a termine (swaps) su tassi di interesse, su valute, su merci nonchè su indici azionari (equity swaps), anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ 
+
+ h) i contratti a termine collegati a strumenti finanziari, a tassi di interesse, a valute, a merci e ai relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ 
+
+ i) i contratti di opzione per acquistare o vendere gli strumenti indicati nelle precedenti lettere e i relativi indici, nonchè i contratti di opzione su valute, su tassi d'interesse, su merci e sui relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ 
+
+ j) le combinazioni di contratti o di titoli indicati nelle precedenti lettere.".
