@@ -1,0 +1,883 @@
+ALLEGATO IV 
+ 
+
+ 
+ 
+
+ DETERMINAZIONE, AI SENSI DELL'ARTICOLO 96, DEI LIMITI DI DOSE PER I LAVORATORI, PER GLI APPRENDISTI, GLI STUDENTI E GLI INDIVIDUI DELLA POPOLAZIONE NONCHè DEI CRITERI DI COMPUTO E DI UTILIZZAZIONE DELLE GRANDEZZE RADIOPROTEZIONISTICHE CONNESSE. 
+ 
+
+ 
+ 
+
+ 0. Definizioni 
+ 
+
+ Ai fini del. presente allegato valgono, oltre a quelle di cui al Capo II, le definizioni di cui ai paragrafi seguenti. 
+ 
+
+ 0.1. Dose equivalente. Fattori di ponderazione delle radiazioni 
+ 
+
+ 0.1.1. La dose equivalente H(elevato)T,R nel tessuto o nell'organo T dovuta alla radiazione R è data da: 
+ 
+
+ 
+ 
+
+ H(base)T,R = w(base)R &middot; D(base)T,R 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ D(base)T,R è la dose assorbita media nel tessuto o nell'organo T, dovuta alla radiazione R. 
+ 
+
+ W(base)R è il fattore di ponderazione per la radiazione R, che dipende dal tipo e dalla qualità del campo di radiazioni esterno, oppure dal tipo e dalla qualità delle radiazioni emesse da un radionuclide depositato all'interno dell'organismo. 
+ 
+
+ 0.1.2. I valori del fattore di ponderazione delle radiazioni WR sono i seguenti: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Fotoni, tutte le energie 1 
+ 
+
+ Elettroni e muoni, tutte le energie 1 
+ 
+
+ Neutroni con energia < 10 keV 5 
+ 
+
+ con energia 10 keV - 100 keV 10 
+ 
+
+ con energia > 100 keV - 2 MeV 20 
+ 
+
+ con energia > 2 MeV - 20 MeV 10 
+ 
+
+ con energia > 20 MeV 5 
+ 
+
+ Protoni, esclusi i protoni di rinculo, con energia > 2 MeV 5 
+ 
+
+ Particelle alfa, frammenti di fissione, nuclei pesanti 20. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 0.1.3. Quando il campo di radiazioni è composto di tipi ed energie con valori diversi di W (base)R, la dose equivalente totale, H (base)T, è espressa da: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ --- 
+ 
+
+ \ 
+ 
+
+ H(base)T = \ w(base)R &middot; D(base)T,R 
+ 
+
+ / 
+ 
+
+ / 
+ 
+
+ --- 
+ 
+
+ R 
+ 
+
+ 
+ 
+
+ 0.1.4. Per esprimere la dose equivalente totale in modo alternativo, la dose assorbita può essere espressa come distribuzione continua di energia, in cui ciascun elemento della dose assorbita, dovuto ad un'energia compresa tra E ed E + dE, va moltiplicato per il valore di W (base)R ricavato dal paragrafo 0.1.2 o, nel caso dei neutroni, come approssimazione della ione continua di cui al paragrafo 0.1.5, integrando sull'intero spettro di energia. 
+ 
+
+ 0.1.5. Per i neutroni, ove sorgano difficoltà nell'applicazione dei valori a gradino riportati nel paragrafo 0.1.2, possono essere utilizzati i valori risultanti dalla funzione continua descritta dalla seguente relazione: 
+ 
+
+ 
+ 
+
+ w(base)R = 5 + 17 exp(-( (ln 2E)elevato 2)/6) 
+ 
+
+ 
+ 
+
+ dove E è l'energia del neutrone espressa in MeV. 
+ 
+
+ 0.1.6. Per i tipi di radiazioni e per le energie non comprese nella tabella si può ottenere un valore approssimato di W (base)R calcolando il fattore di qualità medio Q (con trattino sopra), definito nel paragrafo 04, lettera b), ad una profondità di 10 mm nella sfera ICRU di cui al paragrafo 0.4, lettera j). 
+ 
+
+ 0.1.7. Il fattore di qualità Q è una funzione del trasferimento lineare di energia non ristretto L(infinito), di cui al paragrafo 0.4, lettera a), impiegato per la ponderazione delle dosi assorbite in un punto al fine di tener conto della qualità della radiazione. 
+ 
+
+ 0.2. Dose efficace 
+ 
+
+ 0.2.1. La dose efficace è definita come somma delle dosi equivalenti ponderate nei tessuti ed organi del corpo causate da irradiazioni interne ed esterne ed è data da: 
+ 
+
+ 
+ 
+
+ --- --- --- 
+ 
+
+ \ \ \ 
+ 
+
+ E = \ w(base)T &middot; H(base)T = \ w(base)T \ w(base)R &middot; D(base)T,R 
+ 
+
+ / / / 
+ 
+
+ / / / 
+ 
+
+ --- --- --- 
+ 
+
+ T T R 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ H (base)T è la dose equivalente nell'organo o tessuto T; 
+ 
+
+ W (base)T è il fattore di ponderazione per l'organo o il tessuto T; 
+ 
+
+ W (base)R è il fattore di ponderazione per la radiazione R; 
+ 
+
+ D (base)T,R è la dose assorbita media, nel tessuto o nell'organo T, dovuta alla radiazione R. 
+ 
+
+ 0.2.2. I valori del fattore di ponderazione W (base)T per i diversi organi o tessuti sono i seguenti: 
+ 
+
+ 
+ 
+
+ Gonadi 0,20 
+ 
+
+ Midollo osseo (rosso) 0,12 
+ 
+
+ Colon 0,12 
+ 
+
+ Polmone (vie respiratorie toraciche) 0,12 
+ 
+
+ Stomaco 0,12 
+ 
+
+ Vescica 0,05 
+ 
+
+ Mammelle 0,05 
+ 
+
+ Fegato 0,05 
+ 
+
+ Esofago 0,05 
+ 
+
+ Tiroide 0,05 
+ 
+
+ Pelle 0,01 
+ 
+
+ Superficie ossea 0,01 
+ 
+
+ Rimanenti organi o tessuti 0,05. 
+ 
+
+ 
+ 
+
+ 0.2.3. I valori dei fattori di ponderazione W (base)T, determinati a partire da una popolazione di riferimento costituita di un ugual numero di persone di ciascun sesso e di un'ampia gamma di età si applicano, nella definizione della dose efficace, ai lavoratori, alla popolazione e ad entrambi i sessi. 
+ 
+
+ 0.2.4. Ai fini del calcolo della dose efficace, per rimanenti organi e tessuti s'intendono: ghiandole surrenali, cervello, vie respiratorie extratoraciche, intestino tenue, reni, tessuto muscolare, pancreas, milza, timo e utero. 
+ 
+
+ 0.2.5. Nei casi eccezionali in cui un unico organo o tessuto tra i rimanenti riceva una dose equivalente superiore alla dose più elevata cui è stato sottoposto uno qualsiasi dei dodici organi per cui è specificato il fattore di ponderazione, a tale organo o tessuto si applica un fattore di ponderazione specifico pari a 0,025 e un fattore di ponderazione di 0,025 alla media della dose negli altri rimanenti organi o tessuti come definiti sopra. 
+ 
+
+ 0.3. Definizione di particolari grandezze dosetriche. Sfera ICRU 
+ 
+
+ a) Trasferimento lineare di energia non ristretto (L(infinito)): grandezza definita dalla formula L(infinito) = dE/dl, in cui dE è l'energia media ceduta dalla particella carica nell'attraversamento della distanza dl. Nel presente allegato il mezzo attraversato è l'acqua e L(infinito) è indicato come L. 
+ 
+
+ b) Fattore di qualità medio Q (con trattino sopra): valore medio del fattore di qualità in un punto del tessuto quando la dose assorbita è impartita da particelle aventi diversi valori di L. Tale 
+ 
+
+ fattore è calcolato secondo la relazione 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ dove D(L)dL è la dose assorbita a 10 mm di profondità nell'intervallo di trasferimento lineare di energia L e L + dL, Q(L) è il fattore di qualità in tale punto. La relazione tra il fattore di qualità, Q(L), ed il trasferimento lineare non ristretto di energia L in keV &micro;m(elevato)-1 nell'acqua è riportata di seguito: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ c) Fluenza PHI: quoziente di dN diviso per da, PHI = dN/da, in cui dN è il numero di particelle che entrano in una sfera di sezione massima da; 
+ 
+
+ d) Campo espanso: un campo derivato dal campo di radiazioni reale, in cui la fluenza e le distribuzioni direzionale e di energia hanno valori identici, in tutto il volume interessato, a quelli del campo reale nel punto di riferimento; 
+ 
+
+ e) Campo espanso e unidirezionale: campo di radiazioni in cui la fluenza e la distribuzione d'energia sono uguali a quelle del campo espanso, ma la fluenza è unidirezionale; 
+ 
+
+ f) Equivalente di dose ambientale H*(d): equivalente di dose in un punto di un campo di radiazioni che sarebbe prodotto dal corrispondente campo espanso e unidirezionale nella sfera ICRU a una profondità d, sul raggio opposto alla direzione del campo unidirezionale; l'unità di misura dell'equivalente di dose ambientale è il sievert; 
+ 
+
+ g) Equivalente di dose direzionale H'(d, OMEGA): equivalente di dose in un punto di un campo di radiazioni che sarebbe prodotto dal corrispondente campo espanso, nella sfera ICRU, a una profondità d, su un raggio in una determinata direzione OMEGA; l'unità di misura dell'equivalente di dose direzionale è il sievert; 
+ 
+
+ h) Equivalente di dose personale H (base) p (d): equivalente di dose nel tessuto molle, ad una profondità appropriata d, al di sotto di un determinato punto del corpo; l'unità di misura dell'equivalente di dose personale è il sievert; 
+ 
+
+ i) Energia potenziale alfa (dei prodotti di decadimento del (elevato)222 Rn e del (elevato)220 Rn): l'energia totale alfa emessa durante il decadimento dei discendenti del (elevato)222 Rn fino al (elevato)210 Pb escluso e durante il decadimento dei discendenti del (elevato)220 Rn fino al (elevato)208 Pb stabile. L'unità di misura dell'energia potenziale alfa è il joule (J); l'unità di esposizione a una data concentrazione in un determinato periodo di tempo, è il JhM(elevato)-3. 
+ 
+
+ j) Sfera ICRU: corpo introdotto dalla ICRU (International Commission on Radiation Units and Measurements) allo scopo di riprodurre approssimativamente le caratteristiche del corpo umano per quanto concerne l'assorbimento di energia dovuto a radiazioni ionizzanti; esso consiste in unA sfera di 30 cm di diametro costituita da materiale equivalente al tessuto con una densità di 1 g&middot;cm(elevato)-3 e la seguente composizione di massa: 76,2 % di ossigeno, 11,1 di carbonio; 10,1 % di idrogeno e 2,6 % di azoto; 
+ 
+
+ k) Concentrazione di energia potenziale alfa in aria: somma dell'energia potenziale alfa di tutti i prodotti di decadimento a breve tempo di dimezzamento del (elevato)222 Rn o del (elevato)220 Rn presenti nell'unità di volume di aria. L'unità di misura della concentrazione di energia potenziale alfa è il J&middot;m(elevato)-3 ; 
+ 
+
+ 1) Concentrazione equivalente all'equilibrio in aria (di una miscela non in equilibrio dei prodotti di decadimento a breve tempo di dimezzamento del (elevato)222 Rn o del (elevato)220 Rn: concentrazione in aria del (elevato)222 Rn o del (elevato)220 Rn in equilibrio radioattivo con i relativi prodotti di decadimento a breve tempo di dimezzamento che ha la stessa concentrazione di energia potenziale alfa della miscela non in equilibrio dei prodotti di decadimento del (elevato)222 Rn o del (elevato)220 Rn. 
+ 
+
+ 1. Limiti di dose efficace per i lavoratori esposti 
+ 
+
+ 1.1. Il limite di dose efficace per i lavoratori esposti è stabilito in 20 mSv in un anno solare. 
+ 
+
+ 2. Limiti di dose equivalente per particolari organi o tessuti per i lavoratori esposti 
+ 
+
+ 2.1. Per i lavoratori esposti, fermo restando il rispetto del limite di cui al paragrafo 1, devono altresì essere rispettati, in un anno solare, i seguenti limiti di dose equivalente: 
+ 
+
+ a) 150 mSv per il cristallino; 
+ 
+
+ b) 500 mSv per la pelle; tale limite si applica alla dose media, su qualsiasi superficie di 1 cm(elevato)2 , indipendentemente dalla superficie esposta; 
+ 
+
+ c) 500 mSv per mani, avambracci, piedi, caviglie. 
+ 
+
+ 3. Limiti di esposizione per apprendisti e studenti 
+ 
+
+ 3.1. I limiti di dose per gli apprendisti e per gli studenti di cui al paragrafo 2 dell'Allegato III del presente decreto sono stabiliti nei paragrafi seguenti, in relazione alla suddivisione dei medesimi in ragione dell'età e del tipo di attività lavorativa o di studio. 
+ 
+
+ 3.2. Per gli apprendisti e studenti di cui al paragrafo 2.1, lettera a), dell'Allegato III i limiti di dose efficace e di dose equivalente per particolari organi o tessuti, sono uguali ai limiti fissati per i lavoratori esposti ai sensi dei paragrafi 1 e 2. 
+ 
+
+ 3.3. Per gli apprendisti e studenti di cui al paragrafo 2.1, lettera b),, dell'Allegato III, il limite di dose efficace è fissato in 6 mSv per anno solare. 
+ 
+
+ 3.4. I limiti di dose equivalente per particolari organi o tessuti relativamente agli apprendisti e studenti di cui al paragrafo 2.1, lettera b), dell'Allegato III sono fissati, per anno solare, in: 
+ 
+
+ a) 50 mSv per il cristallino; 
+ 
+
+ b) 150 mSv per la pelle; tale limite si applica alla dose media, su qualsiasi superficie di 1 cm(elevato)2 , indipendentemente dalla superficie esposta; 
+ 
+
+ c) 150 mSv per mani, avambracci, piedi, caviglie. 
+ 
+
+ 3.5. Per gli apprendisti e gli studenti di cui al paragrafo 2.1, lettere c) e d), dell'Allegato III i limiti annuali di dose efficace nonchè di dose equivalente per particolari organi o tessuti sono rispettivamente uguali alla metà di quelli stabiliti nei paragrafi 7 e 8 per gli individui della popolazione; per detti soggetti, inoltre, ogni singola esposizione correlata alla loro attività non può superare un ventesimo dei limiti annuali di cui agli stessi paragrafi 7 e 8. 
+ 
+
+ 4. Metodi di valutazione delle esposizioni per lavoratori, 
+ 
+
+ apprendisti e studenti 
+ 
+
+ 4.1. La somma delle dosi efficaci ricevute per esposizione esterna, in un anno solare, e impegnate per inalazione o per ingestione a seguito di introduzioni, verificatesi nello stesso periodo, deve rispettare i limiti fissati per i lavoratori nel paragrafo 1.1 e quelli fissati nel paragrafo 3.2 per apprendisti e studenti di cui allo stesso paragrafo. 
+ 
+
+ 4.2. Per gli apprendisti e studenti di cui al paragrafo 3.3 la somma delle dosi ricevute e impegnate, in un anno solare, per esposizione esterna nonchè per inalazione o per ingestione che derivino da introduzioni verificatesi nello stesso periodo, deve rispettare il limite di dose efficace cui allo stesso paragrafo 3.3. 
+ 
+
+ 4.3. Resta fermo il rispetto dei limiti di dose equivalente per particolari organi o tessuti stabiliti nei paragrafi 2, 3.4. 
+ 
+
+ 4.4. Ai fini delle valutazioni di cui ai paragrafi 4.1 e 4.2 si impiega la seguente relazione: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ E (base)est è la dose efficace derivante da esposizione esterna; h(g) (base)j,ing e h(g) (base)j,ina rappresentano la dose efficace impegnata per unità di introduzione del radionuclide j (Sv/Bq) rispettivamente ingerito o inalato da un individuo appartenente al gruppo d'età g pertinente; 
+ 
+
+ J (base)j,ing e J (base)j,ina rappresentano rispettivamente l'introduzione tramite ingestione o tramite inalazione del radionuclide j (Bq). 
+ 
+
+ 4.5. I valori di dose efficace impegnata per unità di introduzione tramite ingestione e inalazione, ad eccezione della dose efficace dovuta ai prodotti di decadimento del radon e del toron, da usare nella relazione di cui al paragrafo 4.4 sono riportati: 
+ 
+
+ a) per i lavoratori esposti e per gli apprendisti e studenti di cui al paragrafo 3.2, nella tabella IV.I del presente allegato per quanto concerne l'inalazione e l'ingestione e nella tabella IV.2 per quanto concerne l'esposizione a gas reattivi o solubili nonchè a vapori; 
+ 
+
+ b) per gli apprendisti e studenti di cui ai paragrafi 3.3 e 3.5, nelle tabelle IV.3 e IV.4 del presente allegato rispettivamente per quanto concerne l'inalazione e l'ingestione nonchè nella tabella IV.2 per quanto concerne l'esposizione a gas reattivi o solubili e a vapori, secondo le classi di età dei medesimi soggetti. 
+ 
+
+ 4.6. In caso di esposizione per sommersione a nube di gas inerti si applicano i valori di dose efficace per unità di concentrazione integrata in aria riportati nella tabella IV.7. 
+ 
+
+ 4 bis. Particolari condizioni i di esposizione 
+ 
+
+ 4. bis 1. Qualora per i lavoratori esposti e per gli apprendisti e gli studenti ad essi equiparati ai sensi del paragrafo 3.3 dell'Allegato III sia superato, anche a seguito di esposizioni accidentali, di emergenza o esposizioni soggette ad autorizzazione speciale di cui al paragrafo 9 dell'Allegato III stesso, il limite annuale di dose efficace di 20 mSv di cui al paragrafo 1, le successive esposizioni devono essere limitate, per anno solare, a 10 mSv sino a quando la media annuale delle esposizioni stesse per tutti gli anni solari seguenti, compreso l'anno del superamento, risulti non superiore a 20 mSv. 
+ 
+
+ 4 bis 2. Ove in epoca anteriore all'applicazione del presente paragrafo 4 bis sia stato superato il limite annuale di dose efficace di 50 mSv stabilito ai sensi delle norme previgenti, si applicano, ove necessario, le disposizioni di cui al paragrafo 4.bis 1 a partire dall'anno in cui acquistano efficacia le presenti norme". 
+ 
+
+ 5. Sorveglianza medica eccezionale 
+ 
+
+ 5.1. L'obbligo della sorveglianza medica eccezionale previsto dall'articolo 91 del presente decreto sussiste per i lavoratori esposti, gli apprendisti e gli studenti che, nel corso delle loro attività lavorative o di studio, abbiano subito, in un anno solare: 
+ 
+
+ a) un'esposizione maggiore del limite di 20 mSv fissato al paragrafo 1 per la dose efficace, determinata in base alle 
+ 
+
+ indicazioni di cui al paragrafo 4, oppure 
+ 
+
+ b) un'esposizione maggiore di uno dei limiti fissati nel paragrafo 2 per particolari organi o tessuti. 
+ 
+
+ 5.2 l'obbligo di comunicazione di cui all'articolo 92 del presente decreto sussiste ove si sia verificata anche una delle condizioni di cui al paragrafo 5.1. 
+ 
+
+ 6. Lavoratori autonomi, dipendenti da terzi e lavoratori non 
+ 
+
+ esposti 
+ 
+
+ 6.1. I limiti di dose per i lavoratori che, in relazione alle proprie occupazioni, sono considerati, ai sensi del paragrafo 1.2 dell'Allegato III, lavoratori non esposti, nonchè per i lavoratori autonomi e dipendenti da terzi, di cui all'articolo 67, sono, con riferimento all'attività lavorativa ditali soggetti, pari ai corrispondenti limiti fissati nei paragrafi 7 e 8 per gli individui della popolazione. 
+ 
+
+ 7. Limiti di dose efficace per gli individui della popolazione 
+ 
+
+ 7.1. Il limite di dose efficace per gli individui della popolazione è stabilito in 1 mSv per anno solare. 
+ 
+
+ 8. Limiti di dose equivalente per particolari organi o tessuti per gli individui della popolazione 
+ 
+
+ 8.1. Fermo restando il rispetto del limite di cui al paragrafo 8, per gli individui della popolazione devono altresì essere rispettati in un anno solare i seguenti limiti di dose equivalente: 
+ 
+
+ a) 15 mSv per il cristallino; 
+ 
+
+ b) 50 mSv per la pelle, calcolato in media su 1 cm(elevato)2 di pelle, indipendentemente dalla superficie esposta. 
+ 
+
+ 9. Metodi di valutazione delle esposizioni per individui della 
+ 
+
+ popolazione 
+ 
+
+ 9.1. La somma delle dosi efficaci ricevute per esposizione esterna in un anno solare e impegnate per inalazione o per ingestione a seguito di introduzioni verificatesi nello stesso periodo, deve rispettare il limite fissato per gli individui della popolazione nel paragrafo 7. 
+ 
+
+ 9.2. Resta fermo il rispetto dei limiti di dose equivalente per particolari organi o tessuti stabiliti nel paragrafo 8. 
+ 
+
+ 9.3. Ai fini delle valutazioni di cui al paragrafo 9.1 si impiega la seguente relazione: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ E (base)est è la dose efficace derivante da esposizione esterna; h(g) (base)j,ing e h(g) (base)j,ina rappresentano la dose efficace impegnata per unità di introduzione del radionuclide j (Sv/Bq) rispettivamente ingerito o inalato da un individuo appartenente al gruppo d'età g pertinente; 
+ 
+
+ J (base)j,ing e J (base)j,ina rappresentano rispettivamente l'introduzione tramite ingestione o tramite inalazione del radionuclide j (Bq). 
+ 
+
+ 9.4. I valori di dose efficace impegnata relativi agli individui della popolazione per unità di introduzione tramite ingestione e inalazione, ad eccezione della dose efficace dovuta ai prodotti di decadimento del radon e del toron, da usare nella relazione di cui al paragrafo 9.3, sono riportati, per sei classi di età, nelle tabelle IV.3 e IV.4 del presente allegato rispettivamente per l'inalazione e per l'ingestione. 
+ 
+
+ 9.5. In caso di esposizione per sommersione a nube di gas inerti si applicano i valori di dose efficace per unità di concentrazione integrata in aria riportati nella tabella IV-7. 
+ 
+
+ 10. Valutazione di precedenti esposizioni 
+ 
+
+ 10.1. Ai fini delle valutazioni inerenti alla sorveglianza di lavoratori, apprendisti, studenti ed individui della popolazione, nonchè, in particolare, al rispetto dei limiti di dose per precedenti esposizioni, non è necessario apportare correzioni ai valori determinati ai sensi delle previgenti disposizioni. è altresì consentito sommare valori di equivalente di dose e di equivalente di dose efficace, ottenuti ai sensi delle disposizioni previgenti, rispettivamente a valori di dose equivalente e di dose efficace determinati ai sensi delle disposizioni di questo Allegato. 
+ 
+
+ 11. Grandezze operative per la sorveglianza dell'esposizione 
+ 
+
+ esterna 
+ 
+
+ 11.1. Per la sorveglianza individuale dell'esposizione esterna si usa l'equivalente di dose personale H (base)p(d) definito nel paragrafo 0.4. 
+ 
+
+ 11.2. Per la sorveglianza dell'esposizione esterna nelle aree di lavoro e nell'ambiente si usano l'equivalente di dose ambientale H*(d) e l'equivalente di dose direzionale H'(d, O) definiti nel paragrafo 0.4. 
+ 
+
+ 11.3. Per radiazioni a forte penetrazione è raccomandata una profondità di 10 mm; per le radiazioni a debole penetrazione è raccomandata una profondità di 0,07 mm per la pelle e di 3 mm per gli occhi. 
+ 
+
+ 12. Esposizione a materie radioattive naturali e a (elevato)222 Rn, (elevato)220 Rn. Acque di miniera. 
+ 
+
+ 12.1. Le disposizioni concernenti i limiti di dose e le relative modalità di valutazione si applicano alle esposizioni a materie radioattive naturali, ivi comprese quelle relative a (elevato)222 Rn, (elevato)220 Rn e relativi prodotti di decadimento, derivanti dalle pratiche di cui all'articolo 1, comma 1, lettera b), incluse le lavorazioni minerarie di cui al capo IV. 
+ 
+
+ 12.2. Per i prodotti di decadimento del radon e del toron si applicano i seguenti fattori convenzionali di conversione che esprimono la dose efficace per unità di esposizione all'energia potenziale alfa: 
+ 
+
+ 
+ 
+
+ a) (elevato)222 Rn nelle abitazioni: 1,1 Sv per J&middot;h&middot;m(elevato)-3 
+ 
+
+ 
+ 
+
+ b) (elevato)222 Rn sui luoghi di lavoro: 1,4 Sv per J&middot;h&middot;m(elevato)-3 
+ 
+
+ c) (elevato)220 Rn sui luoghi di lavoro: 
+ 
+
+ 0,5 Sv Sv per J&middot;h&middot;m(elevato)-3. 
+ 
+
+ 
+ 
+
+ 12.3. Per i prodotti di decadimento del radon e del toron si applicano i seguenti coefficienti di conversione che forniscono l'esposizione espressa in J&middot;h&middot;m(elevato)-3 a partire dall'esposizione unitaria a una concentrazione equivalente all'equilibrio in aria di discendenti a breve tempo di dimezzamento del (elevato)222 Rn e del (elevato)220 Rn: 
+ 
+
+ 
+ 
+
+ a) 5,56&middot;10(elevato)-9 J&middot;h&middot;m(elevato)-3 per Bq&middot;h&middot;m(elevato)-3 di 
+ 
+
+ (elevato)222 Rn; 
+ 
+
+ 
+ 
+
+ b) 7,58&middot;10(elevato)-8 J&middot;h&middot;m(elevato)-3 per Bq&middot;h&middot;m(elevato)-3 di 
+ 
+
+ (elevato)220 Rn. 
+ 
+
+ 
+ 
+
+ 12.4. I limiti di dose relativi ad esposizioni lavorative a (elevato)222 Rn possono essere espressi, oltre che in Sv o sottomultipli, come: 14 mJ&middot;h&middot;m(elevato)-3 in un anno solare. 
+ 
+
+ 12.5. Il valore relativo alle acque di miniera, di cui all'articolo 16; comma 1, del presente decreto, è pari a 10(elevato)3 Bq&middot;m(elevato)-3 . 
+ 
+
+ 13. Casi di non applicazione 
+ 
+
+ 13.1. Ai sensi dell'articolo 96, comma 5, i limiti di dose di cui al presente Allegato non si applicano: 
+ 
+
+ a) alle esposizioni ricevute in situazioni di emergenza e durante gli interventi, fermo restando quanto disposto per i lavoratori nel caso di esposizioni prolungate di cui all'articolo 126 bis; 
+ 
+
+ b) alle esposizioni soggette ad autorizzazione speciale di cui al paragrafo 9 dell'Allegato III, fermo restando il rispetto dei particolari limiti e condizioni stabiliti nello stesso paragrafo 9 dell'Allegato III; 
+ 
+
+ 14. Tabelle e relative modalità di applicazione 
+ 
+
+ 14.1. Tabella IV. 1 - Coefficienti di dose efficace impegnata per unità di introduzione per inalazione e per ingestione per i lavoratori. La tabella contiene, per l'ingestione, valori corrispondenti a diversi fattori f (base)1 di transito intestinale.
+ 
+
+ Per quanto riguarda l'inalazione, la tabella contiene valori relativi a diversi tipi di assorbimento polmonare (F, M, S), con valori f (base)1 appropriati per il componente dell'attività introdotta trasferito nel tratto gastrointestinale, nonchè a due valori , 1 &micro;m e 5 &micro;m, dello AMAD (Activity-Median- Aerodynamic Diameter); in mancanza di informazioni specifiche sul valore di detta grandezza, si usano i coefficienti di dose relativi a 5 um. Per indicazioni sui valori f (base)1 di transito intestinale, nei casi di introduzione per ingestione, relativi a composti chimici si veda la tabella IV.5.
+ 
+
+ Per indicazioni sui tipi di assorbimento polmonare e sui valori f i relativi a composti chimici si veda la tabella IV.6. 
+ 
+
+ 14.2. Tabella IV.2 - Coefficienti di dose efficace impegnata per unità di introduzione per inalazione di gas solubili o reattivi e vapori. La tabella è suddivisa in sei classi di età; i valori per gli adulti con età maggiore di 17 anni sono applicabili anche ai lavoratori esposti. La tabella contiene valori relativi a diversi tipi di assorbimento polmonare (F, V), con valori f (base)1 appropriati per il componente dell'introduzione espulso nel tratto gastrointestinale. 
+ 
+
+ 14.3. Tabella IV.3 - Coefficienti di dose efficace impegnata per unità di introduzione per inalazione per individui della popolazione. La tabella è suddivisa in sei classi di età e contiene valori relativi a diversi tipi di assorbimento polmonare (F, M, S), con valori f (base)1 appropriati per il componente dell'introduzione espulso nel tratto gastrointestinale. Per gli individui della popolazione i tipi di assorbimento polmonare e i fattori di transito intestinale f (base)1 devono tener conto, in base ai più recenti orientamenti internazionali disponibili, della forma chimica in cui si trova l'elemento; se non sono disponibili informazioni recenti su questi parametri, viene utilizzato il valore più restrittivo. Per le indicazioni sui tipi di assorbimento polmonare raccomandati si veda la tabella IV.8. 
+ 
+
+ 14.4. Tabella IV.4 - Coefficienti di dose efficace impegnata per unità di introduzione per ingestione per individui della popolazione. La tabella è suddivisa in sei classi di età e contiene coefficienti di dose corrispondenti a diversi fattori f (base)1 di transito intestinale relativi a bambini di età non superiore ad un anno e a soggetti di età maggiore. 
+ 
+
+ 14.5. Tabella IV.5 - Valori di f (base)1 per il calcolo dei coefficienti della dose efficace da ingestione per lavoratori. La tabella contiene, distinti per elemento, i valori del fattore f (base)1 di transito intestinale per i diversi composti chimici, nei casi di introduzione tramite ingestione. 
+ 
+
+ 14.6. Tabella IV.6 - Composti, tipi di assorbimento polmonare e valori di f (base)1 per il calcolo di coefficienti di dose efficace per unità di introduzione da inalazione per i lavoratori esposti, gli apprendisti e gli studenti di 18 o più anni di età. La tabella contiene, distinti per elemento, i tipi di assorbimento polmonare ed i valori dei fattori f (base)1 di transito intestinale per i diversi composti chimici. 
+ 
+
+ 14.7. Tabella IV.7 - Dose efficace per esposizione di adulti a gas inerti. La tabella contiene i valori dei coefficienti di dose efficace per unità di concentrazione integrata in aria, nei casi di esposizione per sommersione nube, applicabili a lavoratori esposti ed a individui adulti della popolazione. Per l'esposizione ai prodotti di decadimento dei gas (elevato)222 Rn e (elevato)220 Rn, si veda il paragrafo 12.2. 
+ 
+
+ 14.8. Tabella IV.8 - Tipi di assorbimento polmonare (F, M, S, G) per il calcolo dei coefficienti della dose efficace da inalazione di particolato, gas e vapori per gli individui della popolazione. La tabella contiene, per elemento, l'indicazione, tramite asterisco, del tipo di assorbimento polmonare raccomandato. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.1 
+ 
+
+ 
+ 
+
+ Coefficienti di dose efficace impegnata per unità di introduzione per inalazione e per ingestione per i lavoratori (Sv&middot;Bq(elevato)-1) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.2 
+ 
+
+ 
+ 
+
+ Coefficienti di dose efficace impegnata per unità di introduzione per inalazione di gas solubili o reattivi e vapori (Sv&middot;Bq(elevato)-1) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.3 
+ 
+
+ 
+ 
+
+ Coefficienti di dose efficace impegnata per unità di introduzione per inalazione per individui della popolazione (Sv&middot;Bq(elevato)-1) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.4 
+ 
+
+ 
+ 
+
+ Coefficienti di dose efficace impegnata per unità di introduzione per ingestione per individui della popolazione (Sv&middot;Bq(elevato)-1) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.5 
+ 
+
+ 
+ 
+
+ Valori di f(base)1 per il calcolo dei coefficienti della dose efficace da ingestione per lavoratori 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.6 
+ 
+
+ 
+ 
+
+ Composti, tipi di assorbimento polmonare e valori di f(base)1 per il calcolo di coefficienti di dose efficace per unità di introduzione da inalazione per i lavoratori esposti, gli apprendisti e gli studenti di 18 o più anni di età 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.7 
+ 
+
+ 
+ 
+
+ Dose efficace per esposizione di adulti a gas inerti 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA IV.8 
+ 
+
+ 
+ 
+
+ Tipi di assorbimento polmonare (F, M, S, G) per il calcolo dei coefficienti della dose efficace da inalazione di particolato, gas e vapori per gli individui della popolazione 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
