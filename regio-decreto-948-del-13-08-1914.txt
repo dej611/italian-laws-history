@@ -65,23 +65,12 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
- 1. Per ogni certificato d'iscrizioni, di esistenza, di rappresentanza, di firma di una ditta, L. 0,75. 
+ ((
  
 
  
  
-
- 
- 
- 
-
- 
- 2. Per ogni vidimazione di firma, L. 1. 
+ 1. Per ogni certificato di iscrizione, di esistenza, di rappresentanza, di firma di una ditta, L. 3. 
  
 
  
@@ -92,7 +81,17 @@ VITTORIO EMANUELE III
  
 
  
- 3. Per ogni certificato di esistenza di usi mercantili accertati, L. 1,50. 
+ 2. Per ogni vidimazione di firma, L.
+ 
+
+ 
+ 3. 
+ 
+
+ 
+ 
+
+ 3. Per ogni certificato di esistenza di usi mercantili accertati, L. 3. 
  
 
  
@@ -103,7 +102,17 @@ VITTORIO EMANUELE III
  
 
  
- 4. Per ogni certificato di esistenza di usi mercantili da accertarsi, L. 3. 
+ 4. Per ogni certificato di esistenza di usi mercantili da accertati, L.
+ 
+
+ 
+ 5. 
+ 
+
+ 
+ 
+
+ 5. Per ogni certificato di prezzi, di listini, ecc., L. 3. 
  
 
  
@@ -114,7 +123,7 @@ VITTORIO EMANUELE III
  
 
  
- 5. Per ogni certificato di prezzi di listini, ecc., L 1. 
+ 6. Per ogni carta di legittimazione, L. 3. 
  
 
  
@@ -125,7 +134,7 @@ VITTORIO EMANUELE III
  
 
  
- 6. Per ogni carta di legittimazioni, L. 1. 
+ 7. Per ogni certificato d'inscrizione nel ruolo dei periti, dei curatori di fallimento, ecc., L. 3. 
  
 
  
@@ -136,7 +145,7 @@ VITTORIO EMANUELE III
  
 
  
- 7. Per ogni certificato d'iscrizione nel ruolo dei periti, dei curatori, ecc, L 1. 
+ 8. Per la visione di un atto o documento della Camera e per la consultazione nei ruoli della tassa, L. 3. 
  
 
  
@@ -147,7 +156,7 @@ VITTORIO EMANUELE III
  
 
  
- 8. Per la visione di un atto o documento della Camera e per la consultazione nei ruoli della tassa, L. 1. 
+ 9. Per copie di deliberazioni ed altri atti della Camera, L. 3. 
  
 
  
@@ -158,15 +167,4 @@ VITTORIO EMANUELE III
  
 
  
- 9. Per copie di deliberazioni ed altri fitti della Camera, L. 2. 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 10. Per duplicati chiesti contemporaneamente al certificato originale, L. 0,50.
+ 10. Per duplicati richiesti contemporaneamente dal certificato originale, L. 1)).
