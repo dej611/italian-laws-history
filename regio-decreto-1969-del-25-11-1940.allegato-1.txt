@@ -1,0 +1,2890 @@
+NORME PER L'ESECUZIONE 
+ 
+
+ 
+ 
+
+ DELLE LINEE ELETTRICHE AEREE ESTERNE 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Capo I. - Norme generali.
+ 
+
+ 
+ 
+
+ Sezione I. - Conduttori e isolatori......................Art. 1-6
+ 
+
+ 
+ 
+
+ Sezione II. - Sostegni e fondazioni.........................&raquo; 7-12 
+ 
+
+ Capo II. - Attraversamenti di linee elettriche.
+ 
+
+ 
+ 
+
+ Sezione I. - Attraversamenti con ferrovie, tramvie e filovie.
+ 
+
+ 
+ 
+
+ &sect; I. - Attraversamenti superiori............................&raquo; 13-24 
+ 
+
+ &sect; II. - Attraversamenti inferiori...........................&raquo; 25-26 
+ 
+
+ &sect; III. - Attraversamenti sotterranei con cavi elettrici.....&raquo; 27-28 
+ 
+
+ &sect; IV. - Attraversamenti, anche nell'interno degli abitati, con ferrovie e tramvie estraurbane su strade ordinarie, con tramvie urbane e con filovie &raquo; 29
+ 
+
+ 
+ 
+
+ Sezione II. - Attraversamenti con funicolari e con funivie..&raquo; 30-36 
+ 
+
+ Sezione III. - Attraversamenti con strade e corsi d'acqua navigabili....................................................&raquo; 37-46 
+ 
+
+ Sezione IV. - Attraversamenti con linee di telecomunicazione
+ 
+
+ .............................................................&raquo; 47-59 
+ 
+
+ Sezione V. - Attraversamenti con linee elettriche e con linee di telecomunicazione in servizio di linee elettriche.............&raquo; 60-65 
+ 
+
+ Capo III. - Parallelismi......................................&raquo; 66-69 
+ 
+
+ Capo IV. - Linee negli abitati................................&raquo; 70-73 
+ 
+
+ Capo V. - Disposizioni generali e transitorie.................&raquo; 74-79 
+ 
+
+ 
+ 
+
+ Agli effetti delle presenti norme, si denominano linee elettriche quelle per trasporto di energia elettrica, ad esclusione delle linee di contatto per trazione elettrica; s'intendono per conduttori i fili e le corde della linea, servano o no al trasporto dell'energia. 
+ 
+
+ 
+ 
+
+ 
+ ((Un impianto elettrico funzionante a corrente alternata è ritenuto a bassa tensione quando la tensione del sistem è uguale o minore a 400 volt efficaci; in caso contrario è ritenuto ad alta tensione.))
+Art. 2. 
+ 
+
+ 
+ 
+
+ Tipo dei conduttori e sezioni minime. 
+ 
+
+ 
+ 
+
+ I conduttori sia nudi sia isolati devono rispondere alle norme vigenti in materia. 
+ 
+
+ 
+ 
+
+ I conduttori tipo alluminio devono essere impiegati sotto forma di corda; se in alluminio puro devono avere la sezione nominale non inferiore a 20 mm2 ; se in lega di alluminio ad alta resistenza
+ 
+
+ meccanica devono avere la sezione nominale non inferiore a 12 mm2 ;
+ 
+
+ se in alluminio-acciaio devono avere la sezione nominale del mantello non inferiore a 12/mm2 . 
+ 
+
+ 
+ 
+
+ I conduttori di rame, nei casi in cui ne sia consentito l'impiego dalle vigenti disposizioni legislative, devono avere sezioni nominali non inferiori a 10 mm2 per l'alta tensione e a 6 mm2 per la bassa
+ 
+
+ tensione, eccettuate le derivazioni a bassa tensione ai singoli consumatori per le quali è consentita una sezione nominale di 4 mm2
+ 
+
+ . 
+ 
+
+ 
+ 
+
+ I conduttori d'altro metallo devono avere sezione tale che la loro resistenza alla trazione non sia inferiore a quella dei conduttori di rame sopraindicati, e non minori di 4 mm2 .
+Art. 3. 
+ 
+
+ 
+ 
+
+ Ipotesi di calcolo e sollecitazione ammessa per i conduttori. 
+ 
+
+ 
+ 
+
+ I conduttori devono presentare le necessarie garanzie di resistenza meccanica. 
+ 
+
+ 
+ 
+
+ La verifica della sollecitazione meccanica dei conduttori per le linee elettriche si deve effettuare in ciascuna delle seguenti ipotesi: 
+ 
+
+ 
+ 
+
+ 1) concomitanza di temperatura minima, da valutare a seconda delle condizioni climatiche della regione, e vento di 130 km/ora normale alla linea; 
+ 
+
+ 
+ 
+
+ 2) concomitanza di temperatura di O°C e massimo sovraccarico di neve o di ghiaccio, da valutare a seconda delle condizioni climatiche della regione. 
+ 
+
+ 
+ 
+
+ Quando sia il caso, la verifica deve essere fatta anche nella seguente ipotesi: 
+ 
+
+ 
+ 
+
+ 3) concomitanza di temperatura di O°C, di manicotto di ghiaccio con spessore di 12 mm e densità 0,92, e di vento alla velocità di 65 km/ora normale alla linea. 
+ 
+
+ 
+ 
+
+ La spinta del vento in chilogrammi per metro di lunghezza si calcola con l'espressione. 
+ 
+
+ 
+ 
+
+ F = 0,0045 v d 
+ 
+
+ 
+ 
+
+ nella quale v è la velocità ammessa per il vento in km/ora, e d è il diametro del conduttore o del cerchio circoscritto alla sezione retta del conduttore o del manicotto di ghiaccio in metri. 
+ 
+
+ 
+ 
+
+ Nelle ipotesi di calcolo sopra indicate, la sollecitazione del conduttore non deve superare la metà del carico di rottura nè i 9/10 del carico al limite di elasticità.
+Art. 4. 
+ 
+
+ 
+ 
+
+ Isolatori. 
+ 
+
+ 
+ 
+
+ I conduttori d'energia delle linee aeree devono essere fissati a isolatori. 
+ 
+
+ 
+ 
+
+ è consentito di appoggiare direttamente ai fabbricati o ai sostegni i conduttori permanentemente messi a terra e quelli muniti di un involucro metallico continuo, collegato con la terra. Si fa eccezione per i conduttori che servono come collegamento a terra degli scaricatori ad alta tensione, i quali devono sempre essere fissati a isolatori.
+Art. 5. 
+ 
+
+ 
+ 
+
+ Inaccessibilità dei conduttori. 
+ 
+
+ 
+ 
+
+ I conduttori delle linee aeree non devono mai trovarsi a una altezza inferiore a 6 m sul piano di campagna. 
+ 
+
+ 
+ 
+
+ Si fa eccezione per i terreni recinti, con accesso riservato al personale addetto all'esercizio della linea. 
+ 
+
+ 
+ 
+
+ L'altezza minima dei conduttori deve essere assicurata anche nelle condizioni di freccia massima, quali si verificano nelle ipotesi indicate nell'art. 3 e nell'ipotesi di temperatura massima, da valutare a seconda delle condizioni climatiche della regione. 
+ 
+
+ 
+ 
+
+ I conduttori d'energia delle linee esterne e gli apparati relativi devono essere inaccessibili dal suolo, dai tetti, dalle finestre, dai balconi, ecc., senza mezzi speciali (scale, corde, pertiche e simili) o senza scalarne i sostegni, fermo il disposto dell'art. 11.
+Art. 6. 
+ 
+
+ 
+ 
+
+ Giunzione dei conduttori. 
+ 
+
+ 
+ 
+
+ Le giunzioni lungo i conduttori e con gli apparecchi devono soddisfare alle condizioni di conduttività e di isolamento dei conduttori medesimi; la loro resistenza meccanica non deve essere inferiore al 90% di quella del conduttore.
+Art. 7. 
+ 
+
+ 
+ 
+
+ Ipotesi per il calcolo dei sostegni. 
+ 
+
+ 
+ 
+
+ I sostegni devono presentare le necessarie garanzie di resistenza.
+ 
+
+ La verifica della resistenza si deve effettuare in ciascuna delle seguenti ipotesi: 
+ 
+
+ 
+ 
+
+ 1) che tutti i conduttori, nelle condizioni di temperatura minima indicate al n. 1 dell'art. 3, siano integri e che conduttori e sostegni siano colpiti da vento a 130 km/ora normalmente alla linea; 
+ 
+
+ 
+ 
+
+ 2) che il sostegno sia sollecitato da uno sforzo unilaterale pari a 1/3 del maggiore dei due tiri laterali esercitati dai conduttori (esclusi quelli di terra e di guardia) supposti integri nelle condizioni indicate al n. 1 dell'art. 3, nonchè dalla spinta esercitata da vento a 130 km/ora che colpisca il sostegno e i fili di guardia o di terra normalmente alla linea e, pure in senso normale alla linea, dai 5/6 della spinta esercitata dal vento sui conduttori, esclusi quelli di guardia o di terra. 
+ 
+
+ 
+ 
+
+ Nel caso che per speciali condizioni locali si deva temere la formazione sui conduttori di manicotti di ghiaccio, i sostegni si devono anche verificare con le seguenti ipotesi: 
+ 
+
+ 
+ 
+
+ 3) che tutti i conduttori nelle condizioni indicate al n. 3 dell'art. 3, siano integri e che conduttori e sostegni siano colpiti da vento a 65 km/ora normale alla linea; 
+ 
+
+ 
+ 
+
+ 4) che il sostegno sia sollecitato da uno sforzo unilaterale pari a 1/3 del maggiore dei due tiri laterali esercitati dai conduttori (esclusi quelli di terra e di guardia) supposti integri nelle condizioni indicate al n. 3 dell'articolo 3, nonchè dalla spinta esercitata da vento a 65 km/ora che colpisca il sostegno e i fili di guardia o di terra col relativo manicotto normalmente alla linea e, pure in senso normale alla linea, dai 5/6 della spinta esercitata dal vento sui conduttori col relativo manicotto, esclusi quelli di guardia o di terra. 
+ 
+
+ 
+ 
+
+ Nel caso di linee costruite con sostegni di tipo di serie (legno, cemento armato, tubi di acciaio, ecc.) con campata non superiore a 70 m, non è richiesta la verifica dei sostegni con le ipotesi 2) e 4) del presente articolo. 
+ 
+
+ 
+ 
+
+ La spinta del vento sui sostegni si calcola con le seguenti formule: 
+ 
+
+ 
+ 
+
+ F = 0,0045 v2 d l per superfici cilindriche, 
+ 
+
+ 
+ 
+
+ F = 0,007 v2 S per superfici piane. 
+ 
+
+ 
+ 
+
+ nelle quali: 
+ 
+
+ 
+ 
+
+ F = spinta in kg esercitata dal vento, 
+ 
+
+ 
+ 
+
+ v = velocità massima del vento in km/ora, 
+ 
+
+ 
+ 
+
+ d = diametro medio in m delle superfici cilindriche colpite dal vento, 
+ 
+
+ 
+ 
+
+ l = lunghezza in m del sostegno o membratura, 
+ 
+
+ 
+ 
+
+ S = area in m2 della superficie piana, colpita normalmente dal
+ 
+
+ vento. 
+ 
+
+ 
+ 
+
+ Per i sostegni a traliccio si devono applicare le formule suddette alla faccia esposta direttamente al vento, mentre per le faccie parallele retrostanti si devono applicare le formule stesse, ridotte nel rapporto A0 /A, essendo: 
+ 
+
+ 
+ 
+
+ A = area totale in m2 compresa nel perimetro della faccia del
+ 
+
+ traliccio colpita dal vento, 
+ 
+
+ 
+ 
+
+ A0 = area in m2 dei vuoti della faccia del traliccio. 
+ 
+
+ 
+ 
+
+ Si può ritenere che, se F è la spinta totale esercitata sopra un sostegno a sezione quadrata da vento che spiri in direzione normale a una delle faccie, la spinta sul sostegno, quando il vento spiri secondo la diagonale della sezione, sia pari a 1,1 F.
+Art. 8. 
+ 
+
+ 
+ 
+
+ Massime sollecitazioni unitarie. 
+ 
+
+ 
+ 
+
+ Per i diversi tipi di sostegno le sollecitazioni unitarie non devono superare i valori seguenti. 
+ 
+
+ 
+ 
+
+ Per i pali di legno: 
+ 
+
+ 1/2 del carico di rottura nell'ipotesi più sfavorevole dell'art.
+ 
+
+ 7. 
+ 
+
+ 
+ 
+
+ Per i sostegni di cemento armato ordinario (quando ne sia consentito l'impiego dalle vigenti disposizioni legislative): 
+ 
+
+ - nelle ipotesi 1) e 3) dell'art. 7: quelle stabilite dalle Norme in vigore per l'accettazione dei leganti idraulici; 
+ 
+
+ - nelle ipotesi 2) e 4) dell'art. 7: quelle sopra citate aumentate del 60%. 
+ 
+
+ 
+ 
+
+ Per i sostegni di cemento armato centrifugato (armato con tondini di acciaio aventi un carico di rottura non inferiore a 7 500 kg/cm2 e
+ 
+
+ con un carico di rottura del calcestruzzo di almeno 450 kg/cm2 ): 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 2 500 kg/cm2 per l'acciaio e 150
+ 
+
+ kg/cm2 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 5 000 kg/cm2 per l'acciaio e 300
+ 
+
+ kg/cm2 per il calcestruzzo. 
+ 
+
+ 
+ 
+
+ Per i sostegni di cemento armato vibrato (armato con tondini di acciaio aventi un carico di rottura non inferiore a 6 000 kg/cm2 e
+ 
+
+ con un carico di rottura del calcestruzzo di almeno 450 kg/cm2 ): 
+ 
+
+ 1) nel caso di sostegni tipo di serie eseguiti in cantiere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 2 000 kg/cm2 per l'acciaio e 150
+ 
+
+ kg/cm2 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 3 600 kg/cm2 per l'acciaio e 300
+ 
+
+ kg/cm2 per il calcestruzzo; 
+ 
+
+ 2) nel caso di sostegni non di serie eseguiti a piè d'opera quando ne sia consentito l'impiego dalle vigenti disposizioni legislative): 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 2 000 Kg/cm2 per l'acciaio e 100
+ 
+
+ kg/cm2 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 3 600 kg/cm2 per l'acciaio e 200
+ 
+
+ kg/cm2 per il calcestruzzo. 
+ 
+
+ 
+ 
+
+ Per i sostegni tubolari di acciaio senza saldatura fabbricati con acciaio avente un carico di rottura compreso fra 5 500 e 6 500 kg/cm2
+ 
+
+ (quando ne sia consentito l'impiego dalle vigenti disposizioni legislative): 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 2 000 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 3.600 kg/cm2 . 
+ 
+
+ 
+ 
+
+ Per i sostegni a traliccio: 
+ 
+
+ Il limite delle sollecitazioni unitarie interne assiali delle membrature, considerando per le sollecitazioni a trazione le sezioni trasversali al netto dell'area corrispondente ai fori per i chiodi, è: 
+ 
+
+ 1) per membrature di ferro omogeneo avente carico di rottura compreso fra 3 800 e 4 500 kg/cm2 (quando ne sia consentito l'impiego
+ 
+
+ dalle vigenti disposizioni legislative): 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 1 400 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 2 200 kg/cm2 ; 
+ 
+
+ 2) per membrature di acciaio avente carico di rottura compreso fra 5 500 e 6 500 kg/cm2 (quando ne sia consentito l'impiego dalle
+ 
+
+ vigenti disposizioni legislative): 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 2 000 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 3 600 kg/cm2 . 
+ 
+
+ 
+ 
+
+ Il limite delle sollecitazioni unitarie agli scorrimenti trasversali o longitudinali nelle membrature non deve superare i 3/4 dei limiti sopraindicati per le sollecitazioni assiali. 
+ 
+
+ 
+ 
+
+ Per la verifica delle condizioni di resistenza delle membrature compresse con possibilità d'inflessione laterale, posto: 
+ 
+
+ - l la lunghezza della membratura o di un tratto della medesima, considerato come articolato a cerniera agli estremi (per i montanti si assume come valore di l la lunghezza massima, determinata dal tracciato geometrico, del tratto compreso fra due nodi consecutivi del reticolato di una stessa faccia, nella parte a maglie più grandi del tronco del sostegno che si considera); 
+ 
+
+ - m il minimo raggio di girazione della sezione retta completa della membratura (quando i nodi dei reticolati di due faccie adiacenti sono alternati sopra uno stesso montante, fermo restando per l la lunghezza, libera sopra indicata, si assume, come raggio di girazione m, anzichè il minimo, quello relativo all'asse baricentrico della sezione normale alla faccia che si considera); 
+ 
+
+ - r la sollecitazione unitaria massima effettiva alla compressione semplice, riferita all'area totale della sezione trasversale nel punto della membratura in cui è massimo il pericolo d'inflessione laterale; 
+ 
+
+ si deve procedere come indicato qui di seguito: 
+ 
+
+ per le membrature di ferro omogeneo deve essere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 
+ 
+
+ r uguale o inferiore tanto a 1 400 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (1 690 - 9,66 ---) kg/cm2 se --- è inferiore a 105; 
+ 
+
+ m m 
+ 
+
+ 
+ 
+
+ 7 453 000 l 
+ 
+
+ r uguale o inferiore a ------------- kg/cm2 se --- è uguale 
+ 
+
+ (l/m)2 m 
+ 
+
+ 
+ 
+
+ o superiore a 105; 
+ 
+
+ 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 
+ 
+
+ r uguale o inferiore tanto a 2 200 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (2 790 - 10,08 ---) kg/cm2 se --- è inferiore a 105; m m 
+ 
+
+ 
+ 
+
+ 19 080 000 l 
+ 
+
+ r uguale o inferiore a ------------- se --- è uguale o superiore (l/m)2 m 
+ 
+
+ 
+ 
+
+ a 105; 
+ 
+
+ 
+ 
+
+ per le membrature di acciaio deve essere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 7: 
+ 
+
+ r uguale o inferiore tanto a 2 000 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (2 675 - 19,0 ---) kg/cm2 , se --- è inferiore a 81; 
+ 
+
+ m m 
+ 
+
+ 
+ 
+
+ 7 453 000 l 
+ 
+
+ r uguale o inferiore a ------------- kg/cm2 se --- è uguale 
+ 
+
+ (l/m)2 m 
+ 
+
+ 
+ 
+
+ o superiore a 81; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 7: 
+ 
+
+ r uguale o inferiore tanto a 3 600 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (4 195 - 15,85 ---) kg/cm2 , se --- è inferiore a 81; m m 
+ 
+
+ 
+ 
+
+ 19 080 000 l 
+ 
+
+ r uguale o inferiore a ------------- se --- è uguale o superiore (l/m)2 m 
+ 
+
+ 
+ 
+
+ a 81; 
+ 
+
+ 
+ 
+
+ Le massime sollecitazioni nelle chiodature, riferite alla sezione trasversale del gambo del chiodo o del bullone, non devono eccedere i limiti precedentemente indicati per le sollecitazioni agli scorrimenti trasversali o longitudinali.
+Art. 9. 
+ 
+
+ 
+ 
+
+ Fondazione dei sostegni. 
+ 
+
+ 
+ 
+
+ La stabilità delle fondazioni dei sostegni o della loro infissione nelle pareti o opere murarie destinate a sopportarli, va verificata tenendo conto di tutti gli elementi sui quali è tecnicamente legittimo fare assegnamento e in specie dei seguenti elementi: resistenza al rovesciamento del blocco di calcestruzzo della fondazione considerato come monolitico; resistenza della terra alla compressione; azione della terra come peso, aderenza dei montanti di ferro del sostegno a parti di muratura o cemento armato; resistenza di piastre di fondazione metalliche o di cemento armato. 
+ 
+
+ 
+ 
+
+ L'azione complessiva dei diversi elementi che concorrono a resistere contro il rovesciamento del sostegno deve essere tale che il momento resistente non sia inferiore al momento di rovesciamento moltiplicato per 1,50 nelle ipotesi di calcolo 1 e 3 dell'art. 7, e non sia inferiore al momento di rovesciamento moltiplicato per 1,25 nelle ipotesi di calcolo 2 e 4 dello stesso articolo. 
+ 
+
+ 
+ 
+
+ 
+ ((Quando il calcolo delle fondazioni venga eseguito con un metodo suffragato dall'esperienza e con formule che tengano conto, anche implicitamente, del necessario grado di sicurezza, non è necessario procedere alla verifica secondo il comma precedente))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ ((Nel caso di sostegni infissi nella roccia o in casi analoghi non si richiede l'osservanza di alcuna particolare prescrizione di calcolo))
+
+ . 
+ 
+
+ 
+ 
+
+ Quando la natura del terreno non consenta di tener conto, per la stabilità della fondazione, di alcun altro elemento all'infuori della resistenza al rovesciamento del peso del blocco di fondazione aumentato del peso del sostegno e del peso dello parti di terra contenute eventualmente in cavità del blocco e che insistano sopra una risega esterna del blocco stesso, il rapporto fra il momento resistente e il momento di rovesciamento non deve essere inferiore a 1,25 per le ipotesi di calcolo 1 e 3 dell'articolo 7 e a 1,10 per le ipotesi di calcolo 2 e 4 dello stesso articolo.
+Art. 10. 
+ 
+
+ 
+ 
+
+ Norme particolari per i pali di legno. 
+ 
+
+ 
+ 
+
+ I pali di legno devono essere di essenza forte (castagno selvatico, larice, robinia e simili), oppure, se di essenza dolce, devono essere iniettati o imbevuti di sostanze adatte. 
+ 
+
+ 
+ 
+
+ I pali di legno possono essere direttamente interrati senza blocco di fondazione.
+Art. 11. 
+ 
+
+ 
+ 
+
+ Norme contro la scalata dei sostegni. 
+ 
+
+ 
+ 
+
+ è vietato scalare i sostegni a chiunque non sia a ciò autorizzato per ragioni di servizio. 
+ 
+
+ 
+ 
+
+ Ai fini dell'inaccessibilità dei conduttori di energia di cui all'art. 5, i sostegni delle linee ad alta tensione devono portare un ostacolo materiale (corde o fili spinati, punte metalliche e simili) disposto a richiamare il divieto d'accesso. L'ostacolo deve essere tale che l'accesso ai conduttori non sia possibile senza l'impiego di mezzi ausiliari, o comunque senza deliberato proposito di eluderlo. 
+ 
+
+ 
+ 
+
+ Non è richiesta l'applicazione dell'ostacolo materiale per i sostegni metallici o di cemento armato cilindrici o troncoconici con diametro alla base di almeno 30 cm. 
+ 
+
+ 
+ 
+
+ Ciascun sostegno di linea ad alta tensione deve portare stabilmente una chiara indicazione monitoria di pericolo di morte.
+Art. 12. 
+ 
+
+ 
+ 
+
+ Messa a terra dei sostegni. 
+ 
+
+ 
+ 
+
+ Tutti i sostegni di ferro o di cemento armato delle condutture esterne a tensione superiore a 1 200 V devono di regola essere messi a terra. 
+ 
+
+ 
+ 
+
+ Nel caso che i sostegni siano collegati metallicamente fra di loro a mezzo di un conduttore di terra, non è richiesta la messa a terra separata di tutti i sostegni, ma di regola si deve eseguire in media almeno una terra ogni chilometro. 
+ 
+
+ 
+ 
+
+ Non è prevista la messa a terra dei sostegni di ferro o di cemento armato direttamente infissi nel terreno, e quella delle paline o mensole infisse nei fabbricati, quando dette paline o mensole non siano accessibili direttamente alle persone che si sporgono dalle finestre. 
+ 
+
+ 
+ 
+
+ I tiranti metallici accessibili dei pali di legno - quando non sia evitata la possibilità di contatto con parti metalliche connesse coi gambi degli isolatori - devono essere isolati, mediante elementi di isolatori che abbiano complessivamente una tensione critica sotto pioggia non inferiore alla tensione di linea.
+Art. 13. 
+ 
+
+ 
+ 
+
+ Angolo dell'incrocio. 
+ 
+
+ 
+ 
+
+ Nelle linee elettriche che si incrociano superiormente con ferrovie o tramvie in sede propria, l'angolo compreso fra l'asse della linea e quello dell'opera attraversata non deve essere inferiore a 30°. 
+ 
+
+ 
+ 
+
+ 
+ ((Nel caso di linee con tensione di esercizio uguale o superiore a 200 kV l'angolo suddetto può essere ridotto a 15°))
+
+ .
+Art. 14. 
+ 
+
+ 
+ 
+
+ Altezza dei conduttori. 
+ 
+
+ 
+ 
+
+ La distanza verticale minima tra i conduttori della linea elettrica e il piano del ferro, tanto nelle ipotesi di calcolo indicate all'art. 17, quanto nell'ipotesi che il conduttore sia scarico a una temperatura superiore di 60 °C alla minima di cui allo stesso art. 17, deve essere tale da consentire l'impianto delle condutture elettriche occorrenti all'esercizio ferroviario o tramviario e in ogni caso non deve essere inferiore a 12 m per ferrovie o tramvie esercitate o da esercitare elettricamente. 
+ 
+
+ 
+ 
+
+ Nel caso di ferrovie o tramvie esercitate con altri sistemi tale altezza può, col consenso dell'organo competente del Ministero delle comunicazioni, essere ridotta a 7 m, aumentati di 1,5 cm per ogni chilovolt della tensione della linea, con l'obbligo per il concessionario della linea elettrica di aumentare l'altezza dei conduttori in conformità a quanto è prescritto nel paragrafo precedente, quando venga stabilito di applicare la trazione elettrica.
+Art. 15. 
+ 
+
+ 
+ 
+
+ Tipo dei conduttori e carico di rottura minimo. 
+ 
+
+ 
+ 
+
+ Nella campata di attraversamento i conduttori delle linee elettriche per trasporto d'energia devono di regola essere del tipo adottato per il resto della linea. 
+ 
+
+ 
+ 
+
+ Per linee a tensione superiore a 1 200 V corrente continua e a 500 V corrente alternata la sezione deve essere proporzionata in modo che il carico di rottura non risulti inferiore a 800 kg. 
+ 
+
+ 
+ 
+
+ Per linee a tensione minore tale limite è ridotto a 600 kg. 
+ 
+
+ 
+ 
+
+ In possimità del mare, o in località nella quale si possa presumere l'esistenza di esalazioni corrodenti, l'organo competente del Ministero delle comunicazioni può esigere che vengano adottati per i fili conduttori della campata di attraversamento, in relazione alla natura del materiale, sezioni superiori a quelle sopra indicate.
+Art. 16. 
+ 
+
+ 
+ 
+
+ Giunti nella campata di attraversamento. 
+ 
+
+ 
+ 
+
+ Sono vietati di regola i giunti nella campata di attraversamento. 
+ 
+
+ 
+ ((In casi eccezionali, e in particolare per linee a tensione uguale o superiore a 200 kV, l'organo competente del Ministero dei trasporti può consentire l'adozione di giunti di tipo speciale da esso approvato))
+
+ .
+Art. 17. 
+ 
+
+ 
+ 
+
+ Ipotesi di calcolo e sollecitaztone ammessa per i conduttori. 
+ 
+
+ 
+ 
+
+ La verifica delle sollecitazioni meccaniche nei conduttori delle campate di attraversamento si deve effettuare supponendo temperatura di - 20 °C e vento concomitante di 130 km/ora normale alla linea.
+ 
+
+ Nelle località a clima molto mite, a giudizio dell'organo competente del Ministero delle comunicazioni, la temperatura è supposta uguale a - 5 °C. 
+ 
+
+ 
+ 
+
+ Dove per le speciali condizioni locali sia da temere la formazione sui conduttori di manicotti di ghiaccio di notevole entità, si deve anche considerare l'ipotesi di temperatura di - 20 °C, di manicotto di ghiaccio dello spessore di 12 mm e densità 0,92 nonchè di vento concomitante di 65 km/ora. 
+ 
+
+ 
+ 
+
+ La spinta del vento sui conduttori è calcolata con la formula indicata nell'art. 3. 
+ 
+
+ 
+ 
+
+ Nelle ipotesi di calcolo sopra indicate la sollecitazione massima dei conduttori non deve superare 1/3 del carico di rottura. 
+ 
+
+ 
+ 
+
+ 
+ ((Si fa eccezione per le linee con tensione di esercizio uguale o superiore a 200 kV, per le quali è ammesso raggiungere nelle condizioni suddette il 50% dei carico di rottura; in tal caso si deve anche verificare che alla temperatura di + 15° C senza sovraccarico la sollecitazione del conduttore non superi il 30% del carico di rottura))
+
+ . 
+ 
+
+ 
+ 
+
+ Per la suddetta verifica, come per quella di cui all'art. 15, si devono assumere come carichi di rottura dei conduttori sia a filo unico sia cordati quelli indicati nelle vigenti norme per i conduttori delle linee elettriche aeree.
+Art. 18. 
+ 
+
+ 
+ 
+
+ Modo di fissare i conduttori ai sostegni. 
+ 
+
+ 
+ 
+
+ I conduttori della campata di attraversamento devono essere fissati agli appoggi in modo da impedire lo scorrimento o la caduta anche in caso di rottura di un isolatore. 
+ 
+
+ 
+ 
+
+ A tale scopo, in caso di isolatori rigidi a perno, ogni conduttore d'energia deve essere fissato mediante due isolatori, situati in un piano normale all'asse della linea (disposizione a losanga), in guisa che, per quanto è possibile, la sollecitazione si ripartisca ugualmente tra di essi. 
+ 
+
+ 
+ 
+
+ Può anche essere ammesso un diverso dispositivo che offra garanzia di sicurezza almeno equivalente a quello della losanga. 
+ 
+
+ 
+ 
+
+ Nel caso invece di isolatori a catena, il conduttore d'energia deve essere fissato al sostegno mediante uno dei seguenti sistemi, con le limitazioni indicate più avanti: 
+ 
+
+ 
+ 
+
+ 1) doppia catena di sospensione (due catene in parallelo); 
+ 
+
+ 
+ 
+
+ 2) semiamarro con due catene di isolatori (formanti fra loro un angolo di circa 60°) una da ciascun lato dei sostegni di attraversamento; 
+ 
+
+ 
+ 
+
+ 3) amarro con doppia catena di isolatori dal lato della campata di attraversamento. 
+ 
+
+ 
+ 
+
+ L'attacco con la doppia catena di sospensione e l'attacco di semiamarro sono ammessi quando il sostegno di attraversamento è in rettifilo, o quando, in corrispondenza di esso, la campata di attraversamento forma con la campata adiacente un angolo compreso fra 180° e 120° (deviazione da 0° a 60°). I sostegni devono essere costruiti in modo da tener conto delle deviazioni delle catene nel piano verticale per effetto del tiro d'angolo. 
+ 
+
+ 
+ 
+
+ Per angoli minori di 120° si deve adottare l'attacco di amarro con doppia catena di isolatori dal lato della campata di attraversamento. 
+ 
+
+ 
+ 
+
+ Nella doppia catena di sospensione il morsetto e, nel caso di semi amarro, ciascuno dei morsetti deve essere capace di esercitare uno sforzo di ritenuta pari alla massima sollecitazione ammessa per i conduttori nel quarto comma dell'art. 17. 
+ 
+
+ 
+ 
+
+ Ogni isolatore a perno o ciascuna catena di isolatori a sospensione o in semiamarro deve presentare una tensione critica uguale a quella di esercizio moltiplicata per i coefficienti di sicurezza indicati nell'apposita tabella delle vigenti norme per gli isolatori. 
+ 
+
+ 
+ 
+
+ Nelle catene di amarro il numero degli elementi deve essere superiore di una unità a quello occorrente per soddisfare alle condizioni di cui sopra. 
+ 
+
+ 
+ 
+
+ 
+ ((Il complesso del dispositivo d'isolamento, comprese le parti metalliche (perni, attacchi, ecc.), deve avere un carico di rottura non minore del carico di rottura del conduttore))
+
+ .
+Art. 19. 
+ 
+
+ 
+ 
+
+ Distanza dei sostegni dalla sede ferroviaria o tramviaria. 
+ 
+
+ 
+ 
+
+ I sostegni devono essere infissi fuori della sede ferroviaria o tramviaria a una distanza orizzontale netta non inferiore a 6 m dalla rotaia più vicina, e non inferiore a 3 m dal ciglio dell'eventuale trincea o a 2 m dal piede dell'eventuale rilevato, se la linea ferroviaria o tramviaria è rispettivamente in trincea o in rilevato.
+Art. 20. 
+ 
+
+ 
+ 
+
+ Tipi costruttivi dei sostegni e messa a terra. 
+ 
+
+ 
+ 
+
+ I sostegni delle condutture nelle campate di attraversamento devono essere di preferenza costruiti di metallo o di cemento armato. 
+ 
+
+ 
+ 
+
+ Sono tuttavia ammessi sostegni di legno, nel caso di attraversamenti con linee ferroviarie o tramviarie non elettrificate e delle quali non si prevede prossima l'elettrificazione, quando si tratti di linee a tensione non superiore a 15 000 V tra i fili, con conduttori di sezione complessiva non superiore a 150 mm2 e in
+ 
+
+ campata di attraversamento di lunghezza non superiore a 30 m. Detti pali devono essere di essenza dura, ovvero iniettati con sistemi di riconosciuta efficacia, fissati al terreno mediante struttura di ferro o di cemento armato e protetti contro il pericolo di scariche atmosferiche mediante conduttore metallico di almeno 50 mm2 di
+ 
+
+ sezione, disposto lungo il palo, con la estremità superiore sorpassante la cima del palo stesso e con quella inferiore in buona comunicazione con la terra. 
+ 
+
+ 
+ 
+
+ Per i sostegni di ferro e acciaio non sono ammessi sagomati o piatti o lamiere di spessore inferiore a 5 mm, nè tubi di spessore inferiore a 4 mm, a eccezione delle diagonali tubolari in acciaio, per le quali lo spessore minimo può essere di 3 mm. 
+ 
+
+ 
+ 
+
+ Per l'alta tensione, ciascuno dei sostegni metallici o di cemento armato della campata di attraversamento deve essere messo direttamente in buona comunicazione con la terra mediante conduttore di ferro ricotto zincato di almeno 150 mm2 di sezione o di altro
+ 
+
+ metallo di resistenza elettrica equivalente a quella di un conduttore di rame di almeno 50 mm2 di sezione. 
+ 
+
+ 
+ 
+
+ Per i sostegni metallici il conduttore di terra deve essere saldato o anche chiodato o bullonato al sostegno alla profondità di 10 cm dalla superficie superiore del blocco di fondazione. Per i sostegni di cemento armato il conduttore di terra deve essere connesso agli attacchi metallici degli isolatori, e deve seguire il sostegno internamente, quando questo è in cemento armato cavo, ed essere protetto contro i furti quando il sostegno è di tipo non cavo. 
+ 
+
+ 
+ 
+
+ Il conduttore di terra deve essere connesso a un elettrodo metallico che raggiunga una profondità di almeno 1,50 m e possibilmente, ove esista, la zona permanentemente umida del terreno adiacente.
+Art. 21. 
+ 
+
+ 
+ 
+
+ Ipotesi per il calcolo dei sostegni. 
+ 
+
+ 
+ 
+
+ I due sostegni della campata di attraversamento devono essere verificati considerando i conduttori nelle condizioni di temperatura minima indicate all'art. 17, con le seguenti ipotesi di calcolo: 
+ 
+
+ 
+ 
+
+ 1) che tutti i conduttori, tanto della campata di attraversamento quanto di quelle contigue, siano integri e che conduttori e sostegni siano colpiti da vento a 130 km/ora normale alla campata di attraversamento; 
+ 
+
+ 
+ 
+
+ 
+ (( 2) che tutti i conduttori (esclusi quelli di terra e di guardia) di una delle campate attigue a quella di attraversamento siano rotti e che inoltre conduttori e sostegni siano colpiti da vento a 130 km ora, normale alla campata di attraversamento. Per le linee a tensione uguale o superiore a 200 kV è sufficiente considerare la rottura di 1/3 dei conduttori (esclusi quelli di terra e di guardia) ))
+
+ . 
+ 
+
+ 
+ 
+
+ Dove, per le speciali condizioni locali, si deva temere la formazione sui fili di manicotti di ghiaccio di notevole entità, si devono anche verificare i sostegni con le seguenti ipotesi: 
+ 
+
+ 
+ 
+
+ 3) che tutti i conduttori, tanto della campata di attraversamento quanto di quelle contigue, siano integri e coperti di manicotto di ghiaccio con spessore di 12 mm e densità 0,92 e che tanto i conduttori coi relativi manicotti quanto i sostegni siano colpiti da vento a 65 km/ora normale alla campata di attraversamento; 
+ 
+
+ 
+ 
+
+ 
+ (( 4) che tutti i conduttori (esclusi quelli di terra e di guardia) di una delle campate adiacenti a quella di attraversamento siano rotti, che i conduttori siano coperti da manicotto di ghiaccio con spessore di 12 mm e densità 0,92 e che tanto i conduttori coi relativi manicotti quanto i sostegni siano colpiti da vento a 65 km/ora normale alla campata di attraversamento. Per le linee a tensione uguale o superiore a 200 kV è sufficiente considerare la rottura di 1/3 dei conduttori (esclusi quelli di terra e di guardia) ))
+
+ . 
+ 
+
+ 
+ 
+
+ La spinta del vento si calcola con le formule indicate nell'art. 7. 
+ 
+
+ 
+ 
+
+ In ciascuno dei quattro casi il sostegno si calcola tenendo conto, oltrechè dell'azione del vento sullo stesso, degli sforzi che i conduttori trasmettono al sostegno medesimo. 
+ 
+
+ 
+ 
+
+ Quando i sostegni siano muniti di mensole a essi fissate rigidamente, devono essere anche verificati per le sollecitazioni a torsione. La verifica si esegue assumendo per valore del tiro unilaterale dei conduttori quello corrispondente alle ipotesi di calcolo indicate nel presente articolo e supponendo i sostegni sollecitati da un momento di torsione uguale: 
+ 
+
+ 
+ 
+
+ a 2/3 del massimo possibile momento torcente prodotto nella più sfavorevole ipotesi di rottura di tutti i conduttori, quando il numero dei conduttori non sia superiore a 3; 
+ 
+
+ 
+ 
+
+ a 1/2 di tale momento, quando il numero dei conduttori sia maggiore di 3 e non superiore a 6; 
+ 
+
+ 
+ 
+
+ a 1/3 di tate momento, quando il numero dei conduttori sia superiore a 6. 
+ 
+
+ 
+ 
+
+ Per questa verifica le sollecitazioni devono essere calcolate tenendo conto dell'azione concomitante degli sforzi di torsione e dei corrispondenti sforzi di flessione.
+Art. 22. 
+ 
+
+ 
+ 
+
+ Massime sollecitazioni unitarie ammesse per i sostegni. 
+ 
+
+ 
+ 
+
+ Per i diversi tipi di sostegno le sollecitazioni unitarie non devono superare i valori seguenti: 
+ 
+
+ Per i pali di legno: 
+ 
+
+ 1/3 del carico di rottura nell'ipotesi più sfavorevole dell'art.
+ 
+
+ 21. 
+ 
+
+ Per i sostegni di cemento armato ordinario: 
+ 
+
+ - nell'ipotesi più sfavorevole dell'art. 21: quelle stabilite dalle Norme in vigore per l'accettazione dei leganti idraulici; 
+ 
+
+ Per i sostegni di cemento armato centrifugato, (armato con tondini di acciaio aventi un carico di rottura non inferiore a 7 500 kg/cm2 e
+ 
+
+ con un carico di rottura del calcestruzzo di almeno 450 kg/cm2 ); 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 2 200 kg/cm2 per l'acciaio e
+ 
+
+ 100 kg/cm2 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 3 300 kg/cm2 per l'acciaio e
+ 
+
+ 150 kg/cm2 per il calcestruzzo. 
+ 
+
+ 
+ 
+
+ Per i sostegni di cemento armato vibrato (armato con tondini di acciaio aventi un carico di rottura non inferiore a 5 000 kg/cm2 e
+ 
+
+ con carico di rottura del calcestruzzo di almeno 450 kg/cm2 ): 
+ 
+
+ 1) nel caso di sostegni tipo di serie eseguiti in cantiere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 1 500 kg/cm2 per l'acciaio e
+ 
+
+ 100 kg/cm3 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 2 700 kg/cm2 per l'acciaio e
+ 
+
+ 150 kg/cm2 per il calcestruzzo; 
+ 
+
+ 2) nel caso di sostegni non di serie eseguiti a piè d'opera: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 1 500 kg/cm2 per l'acciaio e 60
+ 
+
+ kg/cm2 per il calcestruzzo; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 2 700 kg/cm2 per l'acciaio e 90
+ 
+
+ kg/cm2 per il calcestruzzo. 
+ 
+
+ 
+ 
+
+ Per i sostegni di cemento armato (ordinario, centrifugato e vibrato) deve potersi accertare dall'organo competente del Ministero delle comunicazioni la corrispondenza dei pali coi dati di calcolo, specie per quanto concerne le armature metalliche. 
+ 
+
+ 
+ 
+
+ Per i gestegui tubolari di acciaio senza saldatura fabbricati con acciaio avente un carico di rottura compreso fra 5 500 e 6 500 kg/cm2
+ 
+
+ : 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21; 1 800 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21; 2 700 kg/cm2 . 
+ 
+
+ 
+ 
+
+ Per i sostegni a traliccio: 
+ 
+
+ Il limite delle sollecitazioni unitarie interne assiali delle membrature, considerando per le sollecitazioni a trazione le sezioni trasversali al netto dell'area corrispondente ai fori per i chiodi, è: 
+ 
+
+ 1) per membrature di ferro omogeneo avente carico di rottura compreso fra 3 800 e 4 500 kg/cm2 : 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 1 200 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 1 800 kg/cm2 ; 
+ 
+
+ 2) per membrature di acciaio avente carico di rottura compreso fra 5 500 e 6 500 kg/cm2 : 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 1 800 kg/cm2 ; 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 3 100 kg/cm2 . 
+ 
+
+ 
+ 
+
+ Il limite delle sollecitazioni unitarie agli scorrimenti trasversali o longitudinali nelle membrature non deve superare i 3/4 dei limiti sopraindicati per le sollecitazioni assiali. 
+ 
+
+ 
+ 
+
+ Per la verifica delle condizioni di resistenza delle membrature compresse con possibilità di inflessione laterale, posto: 
+ 
+
+ - l la lunghezza della membratura o di un tratto della medesima, considerato come articolato a cerniera agli estremi (per i montanti si assume come valore di l la lunghezza massima, determinata dal tracciato geometrico, del tratto compreso fra due nodi consecutivi del reticolato di una stessa faccia, nella parte a maglie più grandi del tronco del sostegno che si considera); 
+ 
+
+ - m il minimo raggio di girazione della sezione retta completa della membratura (quando i nodi dei reticolati di due faccie adiacenti sono alternati sopra uno stesso montante, fermo restando per l la lunghezza libera sopra indicata, si assume, come raggio di girazione m, anzichè il minimo, quello relativo all'asse baricentrico della sezione normale alla faccia che si considera); 
+ 
+
+ - r la sollecitazione unitaria massima effettiva alla compressione semplice, riferita all'area netta della sezione trasversale nel punto della membratura in cui è massimo il pericolo di flessione laterale; 
+ 
+
+ si deve procedere come indicato qui di seguito: 
+ 
+
+ per le membrature di ferro omogeneo deve essere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 
+ 
+
+ r uguale o inferiore tanto a 1 200 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (1 446 - 8,28 ---) kg/cm2 se --- è inferiore a 105; 
+ 
+
+ m m 
+ 
+
+ 
+ 
+
+ 6 360 000 l 
+ 
+
+ r uguale o inferiore a ------------- kg/cm2 se --- è uguale 
+ 
+
+ (l/m)2 m 
+ 
+
+ 
+ 
+
+ o superiore a 105; 
+ 
+
+ 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 
+ 
+
+ r uguale o inferiore tanto a 1 800 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (2 325 - 8,408 ---) kg/cm2 se --- è inferiore a 105; m m 
+ 
+
+ 
+ 
+
+ 15 900 000 l 
+ 
+
+ r uguale o inferiore a ------------- se --- è uguale o superiore (l/m)2 m 
+ 
+
+ 
+ 
+
+ a 105; 
+ 
+
+ 
+ 
+
+ per le membrature di acciaio deve essere: 
+ 
+
+ - nelle ipotesi 1 e 3 dell'art. 21: 
+ 
+
+ r uguale o inferiore tanto a 1 800 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (2 290 - 16,3 ---) kg/cm2 se --- è inferiore a 81; 
+ 
+
+ m m 
+ 
+
+ 
+ 
+
+ 6 360 000 l 
+ 
+
+ r uguale o inferiore a ------------- kg/cm2 se --- è uguale 
+ 
+
+ (l/m)2 m 
+ 
+
+ 
+ 
+
+ o superiore a 81; 
+ 
+
+ 
+ 
+
+ - nelle ipotesi 2 e 4 dell'art. 21: 
+ 
+
+ r uguale o inferiore tanto a 3 100 kg/cm2 quanto a 
+ 
+
+ 
+ 
+
+ l l 
+ 
+
+ (3 578 - 13,5 ---) kg/cm2 se --- è inferiore a 81; 
+ 
+
+ m m 
+ 
+
+ 
+ 
+
+ 16 300 000 l 
+ 
+
+ r uguale o inferiore a ------------- se --- è uguale o superiore (l/m)2 m 
+ 
+
+ 
+ 
+
+ a 81; 
+ 
+
+ 
+ 
+
+ Le massime sollecitazioni nelle chiodature, riferite alla sezione trasversale del gambo del chiodo o del bullone, non devono eccedere i limiti precedentemente indicati per le sollecitazioni agli scorrimenti trasversali o longitudinali. 
+ 
+
+ 
+ 
+
+ La sollecitazioni unitarie indicate sopra valgono per il caso che la distanza del sostegno dalla più vicina rotaia, sia non inferiore a (h + 2) m (essendo h l'altezza fuori terra del sostegno in metri).
+ 
+
+ Quando tale distanza, sempre rispettata la distanza minima di 6 m dalla più vicina rotaia, sia minore di (h + 2) m le sollecitazioni unitarie ammesse per le ipotesi 2 e 4 dell'art. 21 si devono ridurre del 25%. 
+ 
+
+ 
+ 
+
+ Nel caso di sostegni muniti di mensole a essi fissate rigidamente, per i quali è richiesta la verifica alla torsione come precisato nell'ultimo comma dell'art. 21, le sollecitazioni nelle membrature non devono superare i limiti fissati nello stesso articolo per le ipotesi 2 e 4.
+Art. 23. 
+ 
+
+ 
+ 
+
+ Fondazione dei sostegni. 
+ 
+
+ 
+ 
+
+ La stabilità della fondazione dei sostegni o della loro infissione nelle pareti od opere murarie destinate a sopportarli si deve verificare tenendo conto di tutti gli elementi sui quali è tecnicamente legittimo fare assegnamento e in specie: resistenza al rovesciamento del blocco di calcestruzzo della fondazione considerato come monolitico; resistenza della terra alla compressione; azione della terra come peso; aderenza dei montanti di ferro del sostegno a parti di muratura o cemento armato; resistenza di piastre di fondazione metalliche o di cemento armato. 
+ 
+
+ 
+ 
+
+ L'azione complessiva dei diversi elementi che concorrono a resistere contro il rovesciamento del sostegno deve essere tale che il momento resistente non sia inferiore al momento di rovesciamento moltiplicato per 1,75 nelle ipotesi di calcolo 1 e 3 dell'art. 21 e non sia inferiore al momento di rovesciamento moltiplicato per 1,50 nelle ipotesi di calcolo 2 e 4 dello stesso articolo. 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Non è necessario procedere alla verifica secondo il comma precedente qualora le fondazioni vengano calcolate coi metodi seguenti: 
+ 
+
+ a) per le fondazioni a blocco unico il massimo momento di rovesciamento non deve superare il valore dato dalla formula: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ b) per le fondazioni a piedini separati la base va dimensionata in modo che la pressione sul terreno esercitata dalla parte compressa non superi 2 kg/cm cubi. Inoltre si deve eseguire la verifica a strappamento, tenendo conto di un volume di terra interessato costituito da un cono con generatrici a 30° sulla verticale: in queste condizioni il coefficiente di sicurezza allo strappamento nell'ipotesi più sfavorevole deve essere almeno uguale a 1,1))
+ 
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ ((Nel caso di sostegni infissi nella roccia o in casi analoghi non si richiede l'osservanza di alcuna articolare prescrizione di calcolo))
+
+ . 
+ 
+
+ 
+ 
+
+ Quando la natura del terreno non consenta di tener conto per la stabilità della fondazione di nessun altro elemento all'infuori della resistenza al rovesciamento del peso del blocco di fondazione, aumentato dal peso del sostegno e dal peso delle parti di terra contenute eventualmente in cavità del blocco e che insistano sopra una risega esterna del blocco stesso, il rapporto fra il momento resistente e il momento di rovesciamento non deve essere inferiore a 1,50 per le ipotesi ei carico 1 e 3 dall'art. 21 e a 1,25 per le ipotesi di carico 2 e 4 dello stesso articolo. 
+ 
+
+ 
+ 
+
+ Quando la distanza minima orizzontale dei sostegni di attraversamento della più vicina rotaia è inferiore a (h + 2) m i rapporti fra i momenti resistenti e quelli di rovesciamento devono essere uguali a quelli indicati per le ipotesi 1 e 3 anche nel caso delle ipotesi 2 e 4 dell'art. 21.
+Art. 24. 
+ 
+
+ 
+ 
+
+ Linee di telecomunicazione in servizio di linee elettriche. 
+ 
+
+ 
+ 
+
+ I fili aerei telefonici, telegrafici, per segnalazioni, per comandi a distanza e simili, in servizio di linee elettriche, devono, negli attraversamenti con ferrovie e tramvie, soddisfare alle disposizioni contenute nei precedenti articoli da 13 a 23, salvo che il carico di rottura dei conduttori (art. 15) può essere limitato a 600 kg e che gli isolatori dei conduttori devono essere del tipo per esterno per tensione d'esercizio di almeno 1 000 V, vale a dire tali da resistere per un minuto alla tensione di 12 000 V sotto pioggia CEI. 
+ 
+
+ 
+ 
+
+ Per il calcolo dei sostegni è da supporre la rottura di tutti i conduttori in una delle due campate adiacenti all'attraversamento, se i conduttori stessi non superano il numero di 4, ed è da supporre la rottura di 4 conduttori, se il numero dei conduttori è maggiore di 4. 
+ 
+
+ 
+ 
+
+ Le prescrizioni precedenti sono valide sia per conduttori di linee di telecomunicazione appoggiati in tutto o in parte del loro percorso su sostegni di linee elettriche, sia per linee di telecomunicazione su palificazioni completamente separate. 
+ 
+
+ 
+ 
+
+ In questo ultimo caso però, quando l'attraversamento è costituito unicamente da conduttori di linee di telecomunicazione, e semprechè vi sia una sufficiente distanza in ogni senso fra le dette linee di telecomunicazione e le linee elettriche, sono concesse le attenuazioni seguenti: l'altezza minima del filo più basso può essere ridotta a 7 m sopra il piano del ferro, ma a non meno di 2 m dal conduttore più alto delle linee elettriche in servizio della ferrovia o tramvia; gli isolatori devono essere almeno del tipo ammesso per le linee a bassa tensione.
+Art. 25. 
+ 
+
+ 
+ 
+
+ Protezione contro contatti accidentati. 
+ 
+
+ 
+ 
+
+ Le linee elettriche che sottopassino ferrovie o tramvie in sede propria devono essere inaccessibili ai sensi dell'art. 5 e non devono presentare pericolo di contatti accidentali, anche con gli utensili di lavoro, per le persone che provvedono alla normale manutenzione dei manufatti. 
+ 
+
+ 
+ 
+
+ Quando tali pericoli esistano, i conduttori devono essere protetti con solidi ripari o involucri, i quali possono anche essere fissati, con graffe o ganci di ferro, ai manufatti di muratura, ai piedritti e ai volti. 
+ 
+
+ 
+ 
+
+ I ripari ed involucri devono essere prolungati per almeno 2 m da ciascun lato del manufatto ferroviario o tramviario, e, se metallici, devono essere messi in buona comunicazione con la terra. 
+ 
+
+ 
+ 
+
+ Nel caso di linee a tensione non superiore a 1 200 V corrente continua e 500 V corrente alternata, in luogo dell'uso di ripari ed involucri, è ammessa l'adozione di conduttori isolati in modo da poter sostenere sicuramente e continuamente una tensione doppia di quella di esercizio.
+Art. 26. 
+ 
+
+ 
+ 
+
+ Sostegni. 
+ 
+
+ 
+ 
+
+ I sostegni adiacenti al sottopassaggio, quando abbiano dalla più vicina rotaia una distanza inferiore a (h + 2) mc. essendo h l'altezza fuori terra del sostegno in m), devono essere calcolati e costruiti secondo le norme degli art. 19, 20, 21, 22, 23. 
+ 
+
+ 
+ 
+
+ I conduttori sottopassanti la ferrovia o la tramvia, fermo restando il disposto dell'art. 25, possono essere sostenuti da isolatori o da strutture fissate ai manufatti ferroviari o tramviari. In tal caso i due sostegni adiacenti al sottopassaggio devono essere calcolati e costruiti secondo le norme degli articoli 19, 20, 21, 22, 23.
+Art. 27. 
+ 
+
+ 
+ 
+
+ Distanza dei sostegni. 
+ 
+
+ 
+ 
+
+ I sostegni adiacenti agli attraversamenti sotterranei con cavi elettrici devono essere di regola disposti a distanza non inferiore in linea d'aria a (h + 2) m dalla più vicina rotaia (essendo h l'altezza fuori terra del sostegno in m).
+Art. 28. 
+ 
+
+ 
+ 
+
+ Posa dei cavi elettrici. 
+ 
+
+ 
+ 
+
+ Quando i cavi sono interrati in una strada o in un fosso o in un cunicolo preesistente sottopassanti la ferrovia o tramvia, devono essere collocati a non meno di 0,50 m sotto la strada o il letto del fosso o del cunicolo, e opportunamente protetti contro eventuali azioni meccaniche, chimiche ed elettrolitiche. 
+ 
+
+ 
+ 
+
+ Negli altri casi i cavi sono disposti entro adatti tubi o canali, situati di regola a profondità non minore di 1,50 m, misurata fra il piano del ferro e il piano tangente superiore del tubo o canale. 
+ 
+
+ 
+ 
+
+ I tubi o canali devono essere robusti come richiede la sicurezza dell'esercizio della ferrovia o tramvia e essere adeguatamente prolungati fuori della sede ferroviaria o tramviaria. 
+ 
+
+ 
+ 
+
+ In circostanze speciali, come nel caso di dubbia consistenza del terreno, l'organo competente del Ministero delle comunicazioni può prescrivere che la suddetta profondità di posa dei canali o tubi sia aumentata. 
+ 
+
+ 
+ 
+
+ I canali e i tubi, se praticabili, devono avere gli accessi difesi da chiusure munite di serrature a chiave.
+Art. 29. 
+ 
+
+ 
+ 
+
+ Norme speciali. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti, anche nell'interno degli abitati, con ferrovie e tramvie estraurbane su strade ordinarie anche se con sede distinta da quella del carreggio, con tramvie urbane e con filovie, sono consentite le attenuazioni seguenti: 
+ 
+
+ 
+ 
+
+ a) l'altezza del conduttore più basso della campata di attraversamento può essere limitata a 8 m sul piano del ferro nel caso di ferrovie o tramvie elettrificate o di prossima elettrificazione e a 8,50 m sul piano stradale in corrispondenza alla linea di contatto nel caso di filovie; ad ogni modo la distanza del detto conduttore da quello più alto delle linee elettriche in servizio della ferrovia, tramvia o filovia deve essere uguale a 1 m più 1,5 cm per ogni chilovolt, con un minimo di 2 m. 
+ 
+
+ 
+ 
+
+ Nel caso di tramvie o filovie esercitate con materiale rotabile a due piani le eventuali maggiori altezze occorrenti devono essere stabilite dall'organo competente del Ministero delle comunicazioni. 
+ 
+
+ 
+ 
+
+ Per ferrovie o tramvie non elettrificate l'altezza minima suddetta può essere di 7 m aumentata di 1,5 cm per ogni chilovolt, con l'obbligo per il concessionario della linea elettrica di portare l'altezza suddetta ai valori indicati nei comma precedenti qualora tali ferrovie o tramvie venissero elettrificate. 
+ 
+
+ 
+ 
+
+ b) i sostegni della campata di attraversamento devono essere impiantati a una distanza orizzontale netta non minore di 6 m dalla più vicina rotaia in capo di ferrovia o tranvia e non minore di 4 m dal più vicino filo di contatto in caso di filovia e ad ogni modo ad una distanza orizzontale netta non inferiore a 3 m dal prossimo ciglio della trincea o di 2 m dal piede del rilevato. Nell'interno degli abitati le dette distanze minime di 6 m e 4 m possono essere ridotte a 2 m per le ferrovie e tramvie ed a 3 m per le filovie. 
+ 
+
+ 
+ 
+
+ c) nell'interno degli abitati i conduttori della campata di attraversamento possono essere sostenuti da adatti isolatori fissati ai muri delle costruzioni direttamente o a mezzo di paline o mensole le quali sono da calcolare con le norme di cui agli articoli 21 e 22. 
+ 
+
+ 
+ 
+
+ d) per gli attraversamenti sotterranei la profondità minima dei tubi o canali contenenti i conduttori o i cavi, misurata fra il piano del ferro della ferrovia o tramvia o il piano stradale della filovia ed il piano tangente superiore ai suddetti tubi o canali, può essere ridotta a 1 m.
+Art. 30. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti di linee elettriche con funicolari e con funivie in servizio pubblico vale, in quanto applicabile, il combinato disposto degli articoli 15 a 23, 31 e 32.
+Art. 31. 
+ 
+
+ 
+ 
+
+ Attraversamenti superiori e inferiori con funicolari e con funivie in servizio pubblico. 
+ 
+
+ 
+ 
+
+ a) Per attraversamenti superiori, la tesata sovrapassante la funicolare o la funivia in servizio pubblico deve essere costituita da conduttori cordati oppure da conduttori sostenuti da corda d'acciaio mediante opportuni attacchi a breve distanza fra loro. 
+ 
+
+ 
+ 
+
+ In questo secondo caso, le corde portanti vanno considerate per il calcolo con le stesse ipotesi stabilite per i conduttori. 
+ 
+
+ 
+ 
+
+ Le corde conduttrici o portanti devono essere fissate ad ogni sostegno mediante due isolatori o due catene di isolatori. 
+ 
+
+ 
+ 
+
+ L'angolo di attraversamento non deve essere minore di 80°. 
+ 
+
+ 
+ 
+
+ Quando si tratti di funicolari, il conduttore più basso si deve trovare a una distanza dal piano del ferro, misurata secondo la normale al piano stesso, non inferiore a 7 m più 1,5 cm per ogni chilovolt e a una distanza dal conduttore più alto dell'eventuale linea elettrica in servizio della funicolare non inferiore a 2 m. 
+ 
+
+ 
+ 
+
+ Quando si tratti di funivie la distanza del conduttore più basso dall'organo più alto della funivia sottostante all'attraversamento o, se tale organo è mobile, dalla possibile sua posizione più alta, non può essere minore di 4 m. 
+ 
+
+ 
+ 
+
+ La distanza fra le parti più sporgenti dei sostegni dell'attraversamento e la proiezione orizzontale dell'organo più vicino, fisso o mobile, della funivia non deve essere inferiore a 4 m. 
+ 
+
+ 
+ 
+
+ b) Per attraversamenti inferiori con funicolari valgono le stesse norme degli attraversamenti inferiori con ferrovie e tramvie (art. 25 e 26). 
+ 
+
+ 
+ 
+
+ Per attraversamenti inferiori con funivie l'angolo di attraversamento non deve essere minore di 80°. 
+ 
+
+ 
+ 
+
+ La linea elettrica nella campata di attraversamento deve essere protetta da un robusto e adeguato riparo messo a terra, a meno che sia possibile ottenere telefonicamente la messa fuori tensione a richiesta del personale addetto alla funivia. 
+ 
+
+ 
+ 
+
+ Il punto più alto dell'organo di protezione e dei relativi sostegni deve distare almeno 4 m dall'organo più basso, fisso o mobile, della funivia.
+Art. 32. 
+ 
+
+ 
+ 
+
+ Attraversamenti con funicolari e con funivie in servizio pubblico di linee di telecomunicazione in servizio di linee elettriche. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti con funicolari e con funivie in servizio pubblico, di linee di telecomunicazione in servizio di linee elettriche, valgono le norme degli articoli 30 e 31 e, in quanto applicabili, quelle degli art. 16 a 24.
+Art. 33. 
+ 
+
+ 
+ 
+
+ Attraversamenti con funicolari e con funivie in servizio privato per trasporto di persone. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti con funicolari e con funivie in servizio privato in cui vengono trasportate persone, sia pure solamente per servizio della fonicolare o funivia, valgono le stesse norme stabilite dagli art. 30 e 31 per le funicolari o funivie in servizio pubblico.
+Art. 34. 
+ 
+
+ 
+ 
+
+ Attraversamenti con funicolari in servizio privato per trasporto esclusivo di merci. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti con funicolari in servizio privato per esclusivo trasporto di merci valgono le norme stabilite dagli articoli 30 e 31 per le funicolari in servizio pubblico. 
+ 
+
+ 
+ 
+
+ Tuttavia per tali attraversamenti le distanze di rispetto in altezza e larghezza possono essere diminuite di 1,50 m in confronto a quello delle norme suddette.
+Art. 35. 
+ 
+
+ 
+ 
+
+ Attraversamenti con funivie in servizio privato per trasporto merci. 
+ 
+
+ 
+ 
+
+ I conduttori della linea elettrica che attraversino superiormente la funivia devono, nella campata di attraversamento, soddisfare alle norme degli art. 16 e 17. 
+ 
+
+ 
+ 
+
+ Tuttavia il carico di rottura può essere ridotto a 600 kg e le distanze di rispetto in altezza e in larghezza possono essere diminuite di 1,50 m rispetto a quelle indicate nell'art. 31. 
+ 
+
+ 
+ 
+
+ Se la campata della funivia non interessa abitati o opere pubbliche, è sufficiente mettere a terra gli organi della funivia in corrispondenza dei due cavalletti adiacenti alla campata stessa. Se invece sono interessati abitati o opere pubbliche si devono proteggere le funi della funivia con un sistema di aste rigide, parafili, messe a terra o con rete di protezione messa a terra, a seconda dei casi. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti inferiori è ammesso l'attraversamento aereo, semprechè nessun organo conduttore fisso o mobile (o sporgente da quello mobile) della funivia possa venire a distanza dai fili sotto tensione della linea elettrica minore di 2 m aumentati di 1,5 cm per ogni chilovolt della tensione della linea elettrica stessa.
+Art. 36. 
+ 
+
+ 
+ 
+
+ Attraversamenti con funivie in servizio privato esercite dal concessionario della linea elettrica. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti di linee elettriche con funivie esercite dal concessionario della linea elettrica, quando le funivie medesime sovrapassano, in corrispondenza dell'attraversamento, aree a disposizione di terzi, valgono le norme del terzo e quarto comma dell'art. 35. 
+ 
+
+ 
+ 
+
+ Non sono sottoposti all'osservanza di norme speciali gli altri casi di attraversamento di funivie con linee elettriche dello stesso concessionario.
+Art. 37. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Nel caso di linee elettriche o di linee di telecomunicazione al servizio delle stesse, sovrapassanti autostrade o autocamionali, strade statali, provinciali o anche strade comunali considerate di notevole importanza dall'organo competente del Ministero dei lavori pubblici, o corsi d'acqua navigabili, si devono applicare le norme degli art. da 2 a 12, salvo quanto è disposto negli articoli da 38 a 46.
+Art. 38. 
+ 
+
+ 
+ 
+
+ Altezza dei conduttori. 
+ 
+
+ 
+ 
+
+ La distanza verticale minima fra il conduttore più basso della linea e il piano stradale, o il livello massimo dell'acqua, tanto nelle ipotesi di calcolo indicate all'art. 3 quanto nell'ipotesi che il conduttore sia scarico a una temperatura superiore di 60 °C a quella minima, non deve essere inferiore a 6 m per la bassa tensione e a 7 m aumentati di 1,5 cm per ogni chilovolt della tensione della linea, col minimo di 8 m, per l'alta tensione. 
+ 
+
+ 
+ 
+
+ Per i corsi d'acqua con passaggio di velieri l'altezza è prescritta dall'organo competente del Ministero dei lavori pubblici.
+Art. 39. 
+ 
+
+ 
+ 
+
+ Sezione dei conduttori. 
+ 
+
+ 
+ 
+
+ Nella campata di attraversamento si deve di regola usare lo stesso tipo di conduttore adottato per il resto della linea. 
+ 
+
+ 
+ 
+
+ La sezione del conduttore deve essere proporzionata in modo che il carico di rottura non risulti inferiore ai seguenti limiti. 
+ 
+
+ 
+ 
+
+ Per le autostrade, autocamionali e strade statali: 
+ 
+
+ 
+ 
+
+ 800 kg per linee con tensione superiore a 1 200 V corrente continua e a 500 V corrente alternata; 
+ 
+
+ 
+ 
+
+ 600 kg per linee a tensioni minori. 
+ 
+
+ 
+ 
+
+ Per le strade provinciali e per le strade comunali di notevole importanza: 
+ 
+
+ 
+ 
+
+ 600 kg per linee con tensione superiore a 1 200 V corrente continua e a 500 V corrente alternata; 
+ 
+
+ 
+ 
+
+ 400 kg per linee a tensioni minori. 
+ 
+
+ 
+ 
+
+ In prossimità del mare, o in località nelle quali si possa presumere l'esistenza di esalazioni corrodenti, l'organo competente del Ministero dei lavori pubblici può prescrivere che vengano adottati per i conduttori della campata di attraversamento, in relazione alla natura del materiale, sezioni superiori a quelle sopraindicate.
+Art. 40. 
+ 
+
+ 
+ 
+
+ Calcolo dei conduttori e modo di fissarli ai sostegni. 
+ 
+
+ 
+ 
+
+ Il calcolo dei conduttori deve essere eseguito secondo le norme dell'art. 17. 
+ 
+
+ 
+ 
+
+ I dispositivi per fissare i conduttori ai sostegni devono rispondere alle norme dell'art. 18.
+Art. 41. 
+ 
+
+ 
+ 
+
+ Giunti nella campata di attraversamento. 
+ 
+
+ 
+ 
+
+ Sono vietati, di regola, i giunti nella campata di attraversamento. 
+ 
+
+ 
+ 
+
+ 
+ ((In casi eccezionali, e in particolare per linee con tensione uguale o superiore a 200 kV, l'organo competente del Ministero dei lavori pubblici può consentire l'adozione di giunti di tipo speciale da esso approvato))
+
+ .
+Art. 42. 
+ 
+
+ 
+ 
+
+ Tipi costruttivi dei sostegni e messa a terra. 
+ 
+
+ 
+ 
+
+ I sostegni delle condutture, nelle campate di attraversamento, devono di preferenza essere costruiti di metallo o di cemento armato. 
+ 
+
+ 
+ 
+
+ Sono tuttavia ammessi sostegni di legno, quando trattisi di linee a tensione non superiore a 15 000 V fra i fili e con conduttori di sezione complessiva non superiore a 150 mm2 e lunghezza della campata
+ 
+
+ di attraversamento non superiore a 30 m. Detti sostegni devono però essere di essenza dura ovvero iniettati con sistemi di riconosciuta efficacia, infissi nel terreno mediante struttura di ferro o di cemento armato e protetti contro il pericolo di scariche atmosferiche mediante conduttore metallico di almeno 50 mm2 di sezione, disposto
+ 
+
+ lungo il palo, con l'estremità superiore sorpassante la cima del palo stesso e con quella inferiore interrata. 
+ 
+
+ 
+ 
+
+ Per i sostegni di ferro e acciaio non sono ammessi sagomati o piatti o lamiere di spessore inferiore a 5 mm., nè tubi di spessore inferiore a 4 mm, ad eccezione delle diagonali tubolari di acciaio, per le quali lo spessore minimo può essere di 3 mm. 
+ 
+
+ 
+ 
+
+ Per linee ad alta tensione, ciascuno dei sostegni metallici o di cemento armato della campata di attraversamento deve essere messo direttamente in buona comunicazione con la terra, secondo le norme dell'art. 20.
+Art. 43. 
+ 
+
+ 
+ 
+
+ Calcolo dei sostegni. 
+ 
+
+ 
+ 
+
+ La verifica dei sostegni della campata di attraversamento deve essere fatta, qualunque sia il tipo del sostegno e la lunghezza della campata, tenendo conto di quanto è prescritto nell'art. 7, supposta però la temperatura minima di - 20 °C. 
+ 
+
+ 
+ 
+
+ I limiti di sollecitazione sono quelli indicati nell'art. 8.
+Art. 44. 
+ 
+
+ 
+ 
+
+ Distanza dei sostegni dalla sede stradale o dal corso d'acqua. 
+ 
+
+ 
+ 
+
+ La distanza del sostegno dal ciglio della strada, o dalla scarpata per le strade in trincea, o dal bordo corrispondente al livello di morbida normale del corso d'acqua, non deve essere, di regola, inferiore all'altezza fuori terra del sostegno stesso. 
+ 
+
+ 
+ 
+
+ Può essere concessa dall'organo competente del Ministero dei lavori pubblici una distanza minore, e in casi particolari anche la infissione nella sede stradale, ma in tali casi, quando si tratti di autostrade e strade statali, i sostegni devono rispondere alle prescrizioni degli articoli 21, 22 e 23. 
+ 
+
+ 
+ 
+
+ Quando la strada è in rilevato e l'altezza di questo è tale che il sostegno cadendo non può raggiungere il ciglio stradale, la distanza del sostegno dal ciglio stesso può essere inferiore all'altezza fuori terra del sostegno. 
+ 
+
+ 
+ 
+
+ è vietato di regola l'impianto di sostegni sulle sommità arginali e sulle scarpate, tatto interne che esterne, degli argini, nonchè in campagna o in golena a una distanza netta minore di 5 m dall'unghia degli argini. In ogni caso devono essere rispettate le prescrizioni che al riguardo possono essere impartite dall'organo competente sopraindicato.
+Art. 45. 
+ 
+
+ 
+ 
+
+ Attraversamenti inferiori o sotterranei. 
+ 
+
+ 
+ 
+
+ Per gli attraversamenti inferiori o sotterranei valgono le norme degli articoli 25, 26, 27 e 28, salvo che la distanza fra i tubi o i canali contenenti i cavi e il piano stradale è ridotta a 1 m.
+Art. 46. 
+ 
+
+ 
+ 
+
+ Linee di telecomunicazione in servizio di linee elettriche. 
+ 
+
+ 
+ 
+
+ Le linee aeree di telecomunicazione in servizio di linee elettriche devono, negli attraversamenti con strade e corsi d'acqua, essere considerate come linee elettriche. Esse devono pertanto corrispondere alle norme degli articoli da 37 a 45, salvo che il carico di rottura minimo dei conduttori è limitato a 600 kg anche per le autostrade e le strade statali. 
+ 
+
+ 
+ 
+
+ Sono in tal caso da considerare come linee a bassa tensione le linee di telecomunicazione con fili che non appoggino in nessun punto del loro percorso su sostegni di linee elettriche ad alta tensione, nè siano paralleli, a breve distanza, a linee elettriche ad alta tensione, nè sottostanti a queste. Sono pure da considerare come linee a bassa tensione le linee di telecomunicazione quando i fili sottopassino linee elettriche ad alta tensione, ove queste rispondano alle prescrizioni di cui alla seguente Sezione IV.
+Art. 47. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Negli incroci di linee elettriche con linee di telecomunicazione in servizio pubblico si devono osservare le norme degli articoli da 2 a 12, salvo quanto è disposto nei seguenti articoli da 48 a 58.
+Art. 48. 
+ 
+
+ 
+ 
+
+ Posizione della linea. 
+ 
+
+ 
+ 
+
+ La linea elettrica si deve preferibilmente collocare superiormente alla linea di telecomunicazione.
+Art. 49. 
+ 
+
+ 
+ 
+
+ Distanza dei conduttori. 
+ 
+
+ 
+ 
+
+ Nel punto d'incrocio di una linea elettrica con una linea di telecomunicazione la distanza minima fra i conduttori delle due linee, nelle condizioni più sfavorevoli di temperatura e di sovraccarico, deve essere pari ad almeno 1 m più 1,5 cm per ogni chilovolt della tensione della linea elettrica.
+Art. 50. 
+ 
+
+ 
+ 
+
+ Sezione dei conduttori. 
+ 
+
+ 
+ 
+
+ Nella campata di attraversamento si deve di regola usare il tipo di conduttore adottato per il resto della linea. 
+ 
+
+ 
+ 
+
+ Per le linee a tensione superiore a 1 200 V corrente continua e a 500 V corrente alternata la sezione dei conduttori, nella campata di attraversamento, deve essere proporzionata in modo che il carico di rottura non risulti inferiore a 600 kg. Per tensioni minori, il carico di rottura può essere ridotto a 400 kg. 
+ 
+
+ 
+ 
+
+ In prossimità del mare, o in località nelle quali si possa presumere l'esistenza di esalazioni corrodenti, l'organo competente del Ministero delle comunicazioni può prescrivere che vengano adottati per i conduttori della campata di attraversamento, in relazione alla natura del materiale, sezioni superiori a quelle sopra indicate.
+Art. 51. 
+ 
+
+ 
+ 
+
+ Calcolo dei conduttori e modo di fissarli ai sostegni. 
+ 
+
+ 
+ 
+
+ Il calcolo dei conduttori deve essere eseguito secondo le norme dell'art. 17. 
+ 
+
+ 
+ 
+
+ 
+ ((I dispositivi per fissare i conduttori ai sostegni devono rispondere alle norme dell'art. 18, salvo che si tratti di attraversamenti di linee elettriche a tensione uguale o superiore a 200 kV con derivazioni telefoniche di abbonato, per i quali non è richiesto il dispositivo con doppia catena di isolatori))
+
+ .
+Art. 52. 
+ 
+
+ 
+ 
+
+ Giunti nella campata di attraversamento. 
+ 
+
+ 
+ 
+
+ Sono vietati, di regola, i giunti nelle campate di attraversamento. 
+ 
+
+ 
+ 
+
+ 
+ ((In casi eccezionali, e in particolare per linee con tensione uguale o superiore a 200 kV, l'organo competente del Ministero delle poste e telecomunicazioni può consentire l'adozione di giunti di tipo speciale da esso approvato))
+
+ .
+Art. 53. 
+ 
+
+ 
+ 
+
+ Tipi costruttivi dei sostegni e messa a terra. 
+ 
+
+ 
+ 
+
+ I sostegni delle condutture, nelle campate di attraversamento, devono di regola essere costruiti di metallo o di cemento armato. 
+ 
+
+ 
+ 
+
+ Sono tuttavia ammessi sostegni di legno quando si tratti di linee a tensione non superiore a 15 000 V fra i fili, con conduttori di sezione complessiva non superiore a 150 mm2 e campata di
+ 
+
+ attraversamento di lunghezza non superiore a 30 m. Devono però essere di essenza dura ovvero iniettati con sistemi di riconosciuta efficacia, infissi nel terreno mediante struttura di ferro o di cemento armato e protetti contro il pericolo di scariche atmosferiche mediante conduttore metallico di almeno 50 mm2 di sezione, disposto
+ 
+
+ lungo il palo, con l'estremità superiore sovrapassante la cima del palo stesso e con quella inferiore interrata. 
+ 
+
+ 
+ 
+
+ Per i sostegni di ferro e acciaio non sono ammessi sagomati o piatti o lamiere di spessore inferiore a 5 mm. nè tubi di spessore inferiore a 3 mm. 
+ 
+
+ 
+ 
+
+ Ciascuno dei sostegni metallici o di cemento armato della campata di attraversamento deve essere messo direttamente in buona comunicazione con la terra, secondo le norme dell'art. 20.
+Art. 54. 
+ 
+
+ 
+ 
+
+ Calcolo dei sostegni. 
+ 
+
+ 
+ 
+
+ La verifica dei sostegni della campata di attraversamento deve essere fatta, qualunque sia il tipo del sostegno e la lunghezza della campata, tenendo conto di quanto è prescritto nell'art. 7, supposte però le condizioni di temperatura di cui all'art. 17. 
+ 
+
+ 
+ 
+
+ I limiti di sollecitazione sono quelli ammessi nell'art. 22, salvo per i pali di legno, per i quali la massima sollecitazione, nelle ipotesi 2 e 4 previste dall'art. 7, non deve superare la metà del carico di rottura.
+Art. 55. 
+ 
+
+ 
+ 
+
+ Distanza dei sostegni dai fili telegrafici e telefonici. 
+ 
+
+ 
+ 
+
+ La distanza netta orizzontale di ciascun sostegno della campata di attraversamento dal filo telegrafico o telefonico più vicino non deve essere inferiore a 2 m.
+Art. 56. 
+ 
+
+ 
+ 
+
+ Tipo dei conduttori. 
+ 
+
+ 
+ 
+
+ 
+ ((Per gli attraversamenti si devono in genere usare conduttori nudi, salvo il caso di linee elettriche a tensione non maggiore di 1200 volt corrente continua o di 500 volt corrente alternata, per i quali è ammesso l'uso di conduttore isolato con gomma, carte e tessili impregnati o con materiale termoplastico oppure con altri materiali che, non essendo ancora stati regolamentati dal C.E.I., siano stati approvati dall'Istituto superiore delle poste e delle telecomunicazioni o, per le linee di loro proprietà e pertinenza, da altre Amministrazioni dello Stato. è ammesso anche, qualunque sia la tensione di linea, far uso di cavi))
+
+ . 
+ 
+
+ 
+ 
+
+ Nei vari casi si applicano le seguenti norme: 
+ 
+
+ 
+ 
+
+ a) quando la linea elettrica è in conduttori nudi: 
+ 
+
+ 
+ 
+
+ - se la linea telegrafonica attraversata non è in cavo, valgono le norme degli articoli 48 a 55; 
+ 
+
+ 
+ 
+
+ - se la linea telegrafonica attraversata è in cavo, per attraversamenti superiori è richiesta l'applicazione dei soli articoli 50 e 51, e per attraversamenti inferiori è richiesta l'applicazione delle sole disposizioni generali contenute nel Capo I; 
+ 
+
+ 
+ 
+
+ b) quando la linea elettrica è in fili isolati, qualunque siano le condizioni e la posizione della linea telegrafonica, è richiesta solo l'applicazione degli articoli 17, 49, 50 e 52, ma il carico di rottura di cui all'art. 50 è ridotto a 350 kg.; 
+ 
+
+ 
+ 
+
+ c) quando la linea elettrica è in cavo, qualunque siano le condizioni della linea telegrafonica, per attraversamenti superiori la sollecitazione massima della fune di sostegno del cavo stesso non deve superare 1/3 del carico di rottura; per attraversamenti inferiori è richiesta solo l'applicazione delle disposizioni generali contenute nel Capo I.
+Art. 57. 
+ 
+
+ 
+ 
+
+ Linee sotterranee. 
+ 
+
+ 
+ 
+
+ Nei casi di attraversamento di linee elettriche con linee di telecomunicazione in cui una delle due linee sia interrata in corrispondenza dell'attraversamento, i sostegni terminali del tratto interrato devono, possibilmente, trovarsi ad una distanza dalla linea aerea incrociata non minore di 6 m.
+Art. 58. 
+ 
+
+ 
+ 
+
+ Conduttori di guardia. 
+ 
+
+ 
+ 
+
+ Se la linea elettrica è provvista di un filo di guardia esso deve presentare un carico di rottura non minore di quello minimo prescritto per i conduttori di energia. 
+ 
+
+ 
+ 
+
+ Il filo di guardia deve essere fissato a ciascuno dei sostegni di attraversamento con morsetti aventi uno sforzo di ritenuta pari al tiro massimo ammesso per il detto filo.
+Art. 59. 
+ 
+
+ 
+ 
+
+ Linee di telecomunicazione. 
+ 
+
+ 
+ 
+
+ I fili aerei telefonici o telegrafici, in servizio di linee elettriche ad alta tensione, devono soddisfare alle stesse norme stabilite per i conduttori delle linee medesime. 
+ 
+
+ 
+ 
+
+ Il carico di rottura può essere ridotto a 400 kg per i fili delle linee di telecomunicazione che non appoggiano in alcun punto del loro percorso su sostegni di linee elettriche ad alta tensione nè siano paralleli, a breve distanza, a linee elettriche ad alta tensione, nè sottostanti a queste. La stessa riduzione è consentita quando i fili sottopassino linee elettriche ad alta tensione dove queste rispondano alle prescrizioni di cui alla presente Sezione IV.
+Art. 60. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Nel caso in cui linee elettriche o linee di telecomunicazione e di segnalazione in servizio di linee elettriche, attraversino altre linee elettriche o linee di telecomunicazione e di segnalazione in servizio di linee elettriche, si applicano le norme degli articoli da 2 a 12, salvo quanto è disposto nei seguenti articoli da 61 a 65. 
+ 
+
+ 
+ 
+
+ Le linee di contatto di ferrovie, tramvie e filovie sono da considerare alla stregua delle altre linee elettriche quando siano sovrapassate da linee elettriche esercitate dalla stessa azienda ferroviaria, tramviaria o filoviaria.
+Art. 61. 
+ 
+
+ 
+ 
+
+ Posizione rispettiva delle due linee. 
+ 
+
+ 
+ 
+
+ La linea a tensione più elevata si deve preferibilmente collocare al livello superiore e deve avere uno dei sostegni possibilmente situato in prossimità dell'incrocio.
+Art. 62. 
+ 
+
+ 
+ 
+
+ Distanza minima fra i conduttori. 
+ 
+
+ 
+ 
+
+ La distanza minima fra i conduttori delle due linee al punto d'incrocio, nelle condizioni più sfavorevoli per effetto della temperatura e del sovraccarico, non deve essere inferiore a 1 m aumentato di 1,5 cm per ogni chilovolt della linea a tensione maggiore.
+Art. 63. 
+ 
+
+ 
+ 
+
+ Sezione dei conduttori. 
+ 
+
+ 
+ 
+
+ Per le linee a tensione superiore a 1 200 V corrente continua e a 500 V corrente alternata, la sezione dei conduttori deve essere proporzionata in modo che il carico di rottura non risulti inferiore a 600 kg.
+Art. 64. 
+ 
+
+ 
+ 
+
+ Modo di fissare i conduttori ai sostegni. 
+ 
+
+ 
+ 
+
+ 
+ ((I conduttori della campata di attraversamento devono essere fissati secondo le norme dell'art. 13, salvo che si tratti di attraversamenti di linee elettriche a tensione uguale o superiore a 200 kV con linee elettriche a b. t. o con derivazioni di utenza, per i quali non è richiesto il dispositivo con doppia catena di isolatori))
+
+ .
+Art. 65. 
+ 
+
+ 
+ 
+
+ Attraversamenti con cavi elettrici. 
+ 
+
+ 
+ 
+
+ Nel caso in cui una delle linee nella campata di attraversamento sia eseguita con cavo elettrico con rivestimento metallico in buona comunicazione con la terra, non è richiesta l'osservanza delle norme degli articoli da 60 a 64.
+Art. 66. 
+ 
+
+ 
+ 
+
+ Parallelismo con ferrovie, tramvie, filovie, funicolari e funivie. 
+ 
+
+ 
+ 
+
+ Il parallelismo di linee elettriche con ferrovie, tramvie, filovie o funicolari è ammesso senza particolari prescrizioni purchè vi sia una distanza netta maggiore di (h+2) m (essendo h l'altezza fuori terra del sostegno) fra le basi dei sostegni e la più vicina rotaia, e, nel caso di ferrovia in trincea o in rilevato, una distanza netta maggiore di h fra le basi dei pali ed il ciglio della trincea o il piede del rilevato. 
+ 
+
+ 
+ 
+
+ è tuttavia ammesso di ridurre detta distanza fino a 3 m dal ciglio della trincea e fino a 2 m dal piede del rilevato o dalle eventuali opere annesse, purchè le sollecitazioni e le dimensioni dei pali siano verificate secondo gli articoli da 21 a 23: 
+ 
+
+ 
+ 
+
+ a) nel solo senso trasversale, quando la distanza dalle rotaie o dal più vicino filo di contatto sia maggiore di h; 
+ 
+
+ 
+ 
+
+ b) tanto nel senso trasversale quanto nel longitudinale quando tale distanza sia minore di h, ma sempre maggiore di 6 m. 
+ 
+
+ 
+ 
+
+ Il parallelismo in corrispondenza di ponti metallici o in muratura o di altre opere d'arte si può effettuare, previo il consenso dell'organo competente del Ministero delle comunicazioni, appoggiando le linee o superiormente alle medesime mediante sostegni o mensole e in questo caso sono valide le disposizioni degli articoli 15, 16, 17, 19, 20, 21, 22, 23; oppure mediante mensole lateralmente e inferiormente, nel qual caso i conduttori devono o essere inaccessibili senza l'aiuto di mezzi speciali o essere protetti contro il contatto accidentale mediante involucro metallico rigido e accuratamente messo a terra. 
+ 
+
+ 
+ 
+
+ Nei casi di parallelismo di linee elettriche con funivie quando, anche solo in casi assolutamente eccezionali, possa accadere che organi della linea elettrica vengano in contatto con organi della funivia, si devono osservare, in quanto applicabili, le disposizioni degli articoli 30, 31, 32, 34, 35 e 36.
+Art. 67. 
+ 
+
+ 
+ 
+
+ Parallelismi con strade o corsi d'acqua navigabili. 
+ 
+
+ 
+ 
+
+ Nel caso di linee elettriche ad alta tensione costruite su strade statali, provinciali o anche comunali considerate di notevole importanza, dall'organo competente del Ministero dei lavori pubblici, oppure a distanza dal ciglio della strada, o dal bordo del corso d'acqua navigabile, minore dell'altezza fuori terra dei sostegni, si applicano le norme degli articoli da 37 a 46.
+Art. 68. 
+ 
+
+ 
+ 
+
+ Parallelismi con linee di telecomunicazione. 
+ 
+
+ 
+ 
+
+ Agli effetti delle presenti norme, e cioè in base a sole considerazioni di sicurezza contro il pericolo di contatti accidentali, è ammesso il parallelismo di linee elettriche con linee di telecomunicazione, quando fra le prime e le seconde esista una distanza assiale non minore dell'altezza fuori terra dei sostegni della linea coi sostegni più alti, se la tensione della linea elettrica è superiore a 1 200 V corrente continua e 500 V corrente alternata e non minore di 4 m per tensioni inferiori. 
+ 
+
+ 
+ 
+
+ L'osservanza di tali distanze non è richiesta quando la linea elettrica soddisfi alle norme contenute negli articoli da 47 a 59.
+Art. 69. 
+ 
+
+ 
+ 
+
+ Parallelismi non sottoposti a norme speciali. 
+ 
+
+ 
+ 
+
+ Per i casi di parallelismi di linee elettriche con ferrovie, tramvie, filovie, funicolari, strade, corsi d'acqua navigabili, quando la distanza netta fra la base dei sostegni e il limite esterno del rilevato o della trincea della ferrovia, tramvia e funicolare o il limite superiore della trincea stradale o il bordo della strada o del corso d'acqua o di qualsiasi altra opera annessa sia maggiore dell'altezza fuori terra dei sostegni medesimi, è richiesta l'applicazione delle sole disposizioni generali contenute nel Capo I.
+Art. 70. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Entro gli abitati si devono osservare, per la costruzione delle linee, anche quando esse attraversino strade o aree pubbliche, le norme degli articoli da 2 a 12, e, con le attenuazioni di cui agli articoli 71, 72 e 73, quelle contenute negli articoli da 37 a 59.
+Art. 71. 
+ 
+
+ 
+ 
+
+ Omissione del doppio isolatore. 
+ 
+
+ 
+ 
+
+ è consentito di omettere il doppio isolatore per i circuiti a bassa tensione. è pure consentito di omettere il doppio isolatore per i circuiti ad alta tensione eseguiti con conduttori isolati ed esclusivamente adibiti ad illuminazione pubblica.
+Art. 72. 
+ 
+
+ 
+ 
+
+ Conduttori. 
+ 
+
+ 
+ 
+
+ è consentito, per la bassa tensione, di limitare la sezione dei conduttori a quella corrispondente a un carico di rottura di 230 kg con lunghezza di campata fino a 20 m, e di 320 kg con lunghezza di campata fino a 40 m. 
+ 
+
+ 
+ 
+
+ Per le derivazioni ai singoli utenti con lunghezza di campata sino a 10 m, è consentito fare uso di conduttori di 4 mm2 di sezione,
+ 
+
+ salvo per i conduttori di alluminio puro per i quali è richiesta la sezione minima di 10 mm2 .
+Art. 73. 
+ 
+
+ 
+ 
+
+ Sostegni. 
+ 
+
+ 
+ 
+
+ Per la bassa tensione, e purchè la campata non abbia lunghezza maggiore di 40 m, è consentito di limitare la verifica dei sostegni alle ipotesi 1 e 3 dell'art. 7 e di unire sostegni di legno direttamente interrati e sprovvisti del dispositivo di protezione previsto nel secondo comma dell'art. 20.
+Art. 74. 
+ 
+
+ 
+ 
+
+ Scaricatori. 
+ 
+
+ 
+ 
+
+ è consentita l'installazione di condutture aeree sprovviste di scaricatori e di analoghi dispositivi di protezione contro le sovratensioni.
+Art. 75. 
+ 
+
+ 
+ 
+
+ Sovrapassaggio di edifici. 
+ 
+
+ 
+ 
+
+ Le linee aeree ad alta tensione non devono di regola sovrapassare gli edifici. 
+ 
+
+ 
+ 
+
+ Nei casi in cui si renda inevitabile tale attraversamento i conduttori devono essere fissati ai sostegni secondo le disposizioni dell'art. 18.
+Art. 76. 
+ 
+
+ 
+ 
+
+ Linee a tensioni diverse. 
+ 
+
+ 
+ 
+
+ Nel caso in cui sugli stessi sostegni siano poste linee a tensioni diverse, delle quali quella a tensione minore serva a distribuire l'energia agli utenti direttamente, cioè senza, interposizione di trasformatori, i conduttori a tensione più alta devono essere collocati superiormente agli altri e per essi si devono adottare le norme stabilite all'art. 18.
+Art. 77. 
+ 
+
+ 
+ 
+
+ Linee di telecomunicazione. 
+ 
+
+ 
+ 
+
+ Le linee di telecomunicazione appoggiate agli stessi sostegni di una linea elettrica devono: 
+ 
+
+ 
+ 
+
+ a) essere collocate sempre inferiormente a distanza, per l'alta tensione, di almeno 1 m dal conduttore più basso della linea elettrica; 
+ 
+
+ 
+ 
+
+ b) essere montate su isolatori per esterno del tipo per tensione d'esercizio di 1000 V, vale a dire tali da resistere per un minuto alla tensione di 12 000 V sotto pioggia CEI, e, per la bassa tensione, su isolatori dello stesso tipo usato per la linea elettrica; 
+ 
+
+ 
+ 
+
+ c) avere gli apparecchi relativi installati e protetti in modo che, anche in caso di contatto fra le due linee, non si crei alcun pericolo per il personale.
+Art. 78. 
+ 
+
+ 
+ 
+
+ Applicabilità delle norme. 
+ 
+
+ 
+ 
+
+ Le norme degli articoli precedenti (articoli da 2 a 77) si applicano agli impianti elettrici aventi per oggetto il trasporto dell'energia elettrica, salvo il disposto del R. decreto-legge 5 settembre 1938-XVI, n. 1787, secondo comma dell'articolo unico. 
+ 
+
+ 
+ 
+
+ Salvo deroghe concesse nei singoli casi dai competenti organi del Ministero delle comunicazioni o di quello dei lavori pubblici, le norme stesse si applicano anche agli impianti di cui alla data della loro entrata in vigore sia in corso la costruzione o una completa trasformazione. 
+ 
+
+ 
+ 
+
+ Si applicano in ogni modo agli impianti preesistenti alla stessa data nei casi in cui a giudizio degli organi di cui nel precedente comma, esistano evidenti pericoli per l'incolumità pubblica.
+Art. 79. 
+ 
+
+ 
+ 
+
+ Norme transitorie per i conduttori e gli isolatori. 
+ 
+
+ 
+ 
+
+ Per ciò che riguarda i conduttori e gli isolatori elettrici di cui al capo I, finchè non saranno emanate apposite norme in forza dell'art. 18 del R. decreto-legge 25 giugno 1937-XV, n. 1114, saranno considerate come norme vigenti quelle compilate e pubblicate dal Comitato elettrotecnico italiano del Consiglio nazionale delle ricerche, sino alla data di entrata in vigore delle presenti norme. 
+ 
+
+ 
+ 
+
+ Visto, d'ordine di Sua Maestà il Re d'Italia e di Albania Imperatore d'Etiopia 
+ 
+
+ 
+ 
+
+ Il DUCE del Fascismo Capo del Governo 
+ 
+
+ 
+ 
+
+ Mussolini
