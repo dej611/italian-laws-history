@@ -1,0 +1,496 @@
+ALLEGATO 1 
+ 
+
+ CONTENUTO E CARATTERISTICHE TECNICHE DEI SUPPORTI MAGNETICI 
+ 
+
+ CONTENENTI LE INFORMAZIONI SULLA DEFINIZIONE DEI CREDITI DICHIARATI INESIGIBILI DAI CESSATI ESATTORI DA INOLTRARE A CURA DEI CONCESSIONARI AL SISTEMA INFORMATIVO DEL MINISTERO DELLE FINANZE. 
+ 
+
+ Sui supporti magnetici predisposti dai concessionari ai sensi dell'art. 3 del presente decreto sono costituiti da nastri a cartuccia di tipo IBM 3480 con le seguenti caratteristiche: 
+ 
+
+ - numero di tracce = 18; 
+ 
+
+ - numero di caratteri per pollice = 38000; 
+ 
+
+ - tipo di codifica = EBCDIC, con bit di parità = ODD. 
+ 
+
+ La lunghezza del record fisico deve essere di 32600 bytes, per cui il fattore di bloccaggio è di 163 records. 
+ 
+
+ Non è ammessa la presenza di label (standard o non standard). 
+ 
+
+ Al contenitore di ogni bobina deve essere apposto una etichetta riportante le seguenti informazioni: 
+ 
+
+ - destinatario: Sistema informativo del Ministero delle finanze - Via Carucci, 99 - 00143 Roma; 
+ 
+
+ - ente: dizione in chiaro della denominazione del concessionario o ente che ha predisposto il supporto; 
+ 
+
+ - densità di registrazione: 38000 b.p.i.; 
+ 
+
+ - causale dell'invio: QUOTE INESIGIBILI - art. 17, legge n. 413/91; 
+ 
+
+ - numero bobine su cui sono registrati i dati; 
+ 
+
+ - numero d'ordine della bobina nell'ambito della registrazione. 
+ 
+
+ Il supporto magnetico può contenere informazioni relative a più concessioni; tutti i dati relativi ad una stessa concessione costituiscono la "UNITà DI REGISTRAZIONE". 
+ 
+
+ Non è consentito il frazionamento di "UNITà DI REGISTRAZIONE" di una medesima concessione su diverse bobine quando le stesse bobine contengono informazioni relative a più concessioni. 
+ 
+
+ La concessione o ente che produce i supporti deve condensare i dati su un numero minimo di bobine, compatibilmente con quanto sopra precisato. 
+ 
+
+ Ciascuna unità di registrazione è composta dai seguenti tipi di record lunghi 200 caratteri: 
+ 
+
+ 0) record iniziale bobina; 
+ 
+
+ 1) record contribuente; 
+ 
+
+ 2) record rappresentante; 
+ 
+
+ 3) record atto; 
+ 
+
+ 4) record quota; 
+ 
+
+ 5) record totali. 
+ 
+
+ A) Contenuto della "Unità di registrazione". 
+ 
+
+ Le singole unità di registrazione devono essere disposte sul file per valori crescenti della seguente chiave di ordinamento (con riferimento ai nomi dei campi appresso citati): 
+ 
+
+ progressivo record/tipo record. 
+ 
+
+ Il progressivo record assume valore 1 nel primo record del file e deve essere incrementato di 1 per ogni successivo record contribuente; negli altri tipi record, il progressivo assume il valore del record contribuente cui si riferisce. 
+ 
+
+ Vengono di seguito elencate le informazioni da riportare in ciascun record costituente l'"UNITà DI REGISTRAZIONE"; per ciascun campo, in parentesi, sono indicati, nell'ordine: posizione, lunghezza, tipo di rappresentazione del dato. 
+ 
+
+ 1) Record contribuente: contiene i dati anagrafici dei contribuenti compresi nelle domande di rimborso: 
+ 
+
+ a) concessione (1-3, 3, D.E.): codice della concessione; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "1"; 
+ 
+
+ c) progressivo record (5-12, 8, D.E.); 
+ 
+
+ d) codice fiscale (13-28, 16, A.N.): codice fiscale del contribuente. Se persona non fisica, deve essere riempito di spazi a destra; 
+ 
+
+ e) denominazione (29-88, 60, A.N.): denominazione del contribuente ovvero, nel caso di persona fisica: 
+ 
+
+ cognome (29-52, 24, A.N.); 
+ 
+
+ nome (53-72, 20, A.N.); 
+ 
+
+ sesso (73-73, 1, A.N.); 
+ 
+
+ data di nascita (74-79, 6, D.E.): nella forma aa/mm/gg; 
+ 
+
+ filler (80-88, 9, A.N.): vale sempre space; 
+ 
+
+ f) comune di nascita (89-113, 25, A.N.); 
+ 
+
+ g) provincia di nascita (114-115, 2, A.N.); 
+ 
+
+ h) comune domicilio fiscale (116-140, 25, A.N.); 
+ 
+
+ i) provincia domicilio fiscale (141-142, 2, A.N.); 
+ 
+
+ j) indirizzo (143-177, 35, A.N.); 
+ 
+
+ k) c.a.p. (178-182, 5, D.E.); 
+ 
+
+ l) situazione del contribuente nei confronti dell'erario (183-183, 1, A.N.): vale: 
+ 
+
+ "0" - il contribuente non è debitore; 
+ 
+
+ "1" - il contribuente è compreso in domande di rimborso ma non si è condonato; 
+ 
+
+ "2" - il contribuente è compreso in domande di rimborso e si è condonato; 
+ 
+
+ m) situazione del contribuente nei confronti dell'INPS (184-184, 1, A.N.): vale: 
+ 
+
+ "0" - il contribuente non è debitore; 
+ 
+
+ "1" - il contribuente è compreso in domande di rimborso ma non si è condonato; 
+ 
+
+ "2" - il contribuente è compreso in domande di rimborso e si è condonato; 
+ 
+
+ n) situazione del contribuente nei confronti di altri enti diversi dallo Stato (185-185, 1, A.N.): vale: 
+ 
+
+ "0" - il contribuente non è debitore; 
+ 
+
+ "1" - il contribuente è compreso in domande di rimborso ma non si è condonato; 
+ 
+
+ "2" - il contribuente è compreso in domande di rimborso e si è condonato; 
+ 
+
+ o) ripresa atti esecutivi per crediti dell'erario (186-186, 1, A.N.): vale: 
+ 
+
+ "1" - non prevista; 
+ 
+
+ "2" - prevista; 
+ 
+
+ p) ripresa atti esecutivi per crediti dell'INPS (187-187, 1, A.N.): vale: 
+ 
+
+ "1" - non prevista; 
+ 
+
+ "2" - prevista; 
+ 
+
+ q) ripresa atti esecutivi per crediti di altri enti diversi dallo Stato (188-188, 1, A.N.): vale: 
+ 
+
+ "1" - non prevista; 
+ 
+
+ "2" - prevista; 
+ 
+
+ r) filler (189-200, 12, A.N.): vale sempre spaces. 
+ 
+
+ 2) Record rappresentante: contiene i dati anagrafici dei rappresentanti, indicati sull'atto di definizione: 
+ 
+
+ a) concessione (1-3, 3, D.E.): codice della concessione; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "2"; 
+ 
+
+ c) progressivo record (5-12, 8, D.E.); 
+ 
+
+ d) codice fiscale (13-28, 16, A.N.): codice fiscale del rappresentante. Se numerico, deve essere riempito di spazi a destra; 
+ 
+
+ e) cognome (29-52, 24, A.N.); 
+ 
+
+ f) nome (53-72, 20, A.N.); 
+ 
+
+ g) sesso (73-73, 1, A.N.); 
+ 
+
+ h) data di nascita (74-79, 6, D.E.): nella forma aa/mm/gg; 
+ 
+
+ i) filler (80-88, 9, A.N.): vale sempre space; 
+ 
+
+ j) comune di nascita (89-113, 25, A.N.); 
+ 
+
+ k) provincia di nascita (114-115, 2, A.N.); 
+ 
+
+ l) comune domicilio fiscale (116-140, 25, A.N.); 
+ 
+
+ m) provincia domicilio fiscale (141-142, 2, A.N.); 
+ 
+
+ n) indirizzo (143-177, 35, A.N.); 
+ 
+
+ o) c.a.p. (178-182, 5, D.E.); 
+ 
+
+ p) codice carica (183-183, 1, A.N.); 
+ 
+
+ q) filler (184-200, 17, A.N.): vale sempre spaces. 
+ 
+
+ 3) Record atto: contiene le informazioni relative agli atti di definizione sottoscritti dal contribuente presso la concessione; nel caso di crediti erariali, deve essere registrato 1 record per ogni atto sottoscritto; nel caso di crediti INPS o di altri enti diversi dallo Stato deve essere registrato 1 solo record comprensivo di tutti gli atti di definizione sottoscritti: 
+ 
+
+ a) concessione (1-3, 3, D.E.): codice della concessione; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "3"; 
+ 
+
+ c) progressivo record (5-12, 8, D.E.); 
+ 
+
+ d) codice ufficio (13-15, 3, A.N.): indica il codice dell'ufficio imposte dirette, nel caso di crediti erariali. 
+ 
+
+ Indicare 990 se gli atti di definizione riguardano crediti INPS. 
+ 
+
+ Indicare 991 se gli atti di definizione riguardano crediti di altri enti diversi dallo Stato; 
+ 
+
+ e) data (16-21, 6, D.E.): data di sottoscrizione dell'atto nella forma aa/mm/gg; 
+ 
+
+ f) importo imposta (22-28, 7, P): totale a) dell'atto di definizione; 
+ 
+
+ g) importo interessi (29-35, 7, P): totale b) dell'atto di definizione; 
+ 
+
+ h) importo imposta agevolato (36-42, 7, P): campo c) dell'atto di definizione; 
+ 
+
+ i) importo interessi agevolato (43-49, 7, P): campo d) dell'atto di definizione; 
+ 
+
+ j) importo dovuto (50-56, 7, P) importo complessivo risultante dell'atto di definizione; 
+ 
+
+ k) data versamento (57-62, 6, A.N.): data del pagamento al concessionario; nel caso di versamento tramite c.c.p. indica la data di versamento all'ufficio postale; 
+ 
+
+ l) tipo riscossione (63-63, 1, A.N.): vale: 
+ 
+
+ "1" - riscossione allo sportello; 
+ 
+
+ "2" - riscossione tramite c.c.p.; 
+ 
+
+ m) data valuta (64-69, 6, A.N.): indica la data di accreditamento, nel caso di versamento tramite c.c.p., nella forma aa/mm/gg; 
+ 
+
+ n) numero quietanza rilasciata dal concessionario (70-80, 
+ 
+
+ 11, A.N.); 
+ 
+
+ o) importo versato (81-87, 7, P); 
+ 
+
+ p) compenso percepito (88-94, 7, P); 
+ 
+
+ q) Tesoreria (95-97, 3, D.E.): codice della Tesoreria provinciale dello Stato presso la quale è stato effettuato il riversamento; da indicare solo nel caso di crediti erariali; 
+ 
+
+ r) numero quietanza rilasciata dalla Tesoreria provinciale dello Stato, ovvero numero del bollettino per i versamenti tramite conto corrente postale (98-107, 10, D.E.); da indicare solo nel caso di crediti erariali; 
+ 
+
+ s) data riversamento (108-113, 6, D.E.): data in cui l'importo riscosso è stato riversato alla competente sezione di Tesoreria provinciale dello Stato; da indicare solo nel caso di crediti erariali; 
+ 
+
+ t) tipo riversamento (114-114, 1, A.N.): indica il tipo di versamento in Tesoreria; da indicare solo nel caso di crediti erariali: vale: 
+ 
+
+ "0" - versamento effettuato direttamente in Tesoreria; 
+ 
+
+ "1" - versamento effettuato tramite conto corrente postale; 
+ 
+
+ u) filler (115-200, 86, A.N.): vale sempre spaces. 
+ 
+
+ 4) Record quota: contiene le informazioni relative alle quote pendenti alla data del 1 gennaio 1992 ed alle domande di rimborso in cui sono comprese; deve essere registrato 1 record per ciascuna riga di tabella presente nell'atto di definizione, e solo nel caso di crediti erariali; 
+ 
+
+ a) concessione (1-3, 3, D.E.): codice della concessione; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "4"; 
+ 
+
+ c) progressivo record (5-12, 8, D.E.); 
+ 
+
+ d) progressivo quota 13-14, 2, D.E.): indica la posizione della quota all'interno della tabella riportata nell'atto di definizione; 
+ 
+
+ e) emissione (15-18, 4, D.E.): mese ed anno della emissione del ruolo, nella forma mm/aa; 
+ 
+
+ f) anno di riferimento delle imposte (19-20, 2, D.E.); 
+ 
+
+ g) tipo tributo (21-21, 1, A.N.): vale: 
+ 
+
+ "1" - IRPEF; 
+ 
+
+ "2" - IRPEG; 
+ 
+
+ "3" - ILOR; 
+ 
+
+ "4" - Addizionale IRPEF; 
+ 
+
+ "5" - Addizionale IRPEG; 
+ 
+
+ "6" - Addizionale ILOR; 
+ 
+
+ "7" - Tributi soppressi; 
+ 
+
+ h) importo imposta dovuta al 1 gennaio 1992 (22-28, 7, P); 
+ 
+
+ i) importo interessi, soprattasse, pene pecuniarie ed accessori 
+ 
+
+ dovuti al 1 gennaio 1992 (28-35, 7, P); 
+ 
+
+ j) numero domanda (36-42, 7, A.N.): numero della domanda di rimborso in cui è compresa la quota; 
+ 
+
+ k) data domanda (43-48, 6, D.E.): data di presentazione della domanda di rimborso; 
+ 
+
+ l) filler (49-200, 152, A.N.): vale sempre spaces. 
+ 
+
+ 5) Record totali: contiene i dati riepilogativi della "UNITà DI REGISTRAZIONE": 
+ 
+
+ a) concessione (1-3, 3, D.E.): codice della concessione; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "5"; 
+ 
+
+ c) progressivo record (5-12, 8, D.E.); 
+ 
+
+ d) totale records trasmessi (13-22, 10, D.E.); 
+ 
+
+ e) totale records di tipo 1 (23-32, 10, D.E.); 
+ 
+
+ f) totale records di tipo 2 (33-42, 10, D.E.); 
+ 
+
+ g) totale records di tipo 3 (43-52, 10, D.E.); 
+ 
+
+ h) totale records di tipo 4 (53-62, 10, D.E.); 
+ 
+
+ i) filler (63-200, 138, A.N.): vale sempre spaces. 
+ 
+
+ B) Contenuto del supporto magnetico: l'insieme delle "unità di registrazione" contenute nel supporto magnetico deve essere preceduto da un record iniziale e deve terminare con un record finale con le seguenti informazioni: 
+ 
+
+ Record iniziale: 
+ 
+
+ a) codice CED (1-3, 3, A.N.): codice del centro di elaborazione dati che predispone la fornitura; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "0"; 
+ 
+
+ c) progressivo invio (5-6, 2, D.E.): progressivo dell'invio; si incrementa di una unità per ogni sostituzione del precedente a seguito di errori segnalati dal Centro informativo della riscossione; 
+ 
+
+ d) data (7-12, 6, D.E.): data di predisposizione del supporto magnetico nella forma gg/mm/aa; 
+ 
+
+ e) filler (13-200, 188, A.N.: vale spaces. 
+ 
+
+ Record finale: 
+ 
+
+ a) codice CED (1-3, 3, A.N.): codice del centro di elaborazione dati che predispone la fornitura; 
+ 
+
+ b) tipo record (4-4, 1, A.N.): vale sempre "9"; 
+ 
+
+ c) numero bobine (5-6, 2, D.E.): totale bobine che compongono l'invio; da impostare sull'ultima bobina dell'invio, a zero negli altri casi; 
+ 
+
+ d) numero di ordine della bobina (7-8, 2, D.E.): numero di ordine della bobina nell'ambito della registrazione; 
+ 
+
+ e) numero concessioni contenute nella fornitura (9-15, 7, D.E.);
+ 
+
+ f) totale records inviati (16-25, 10, D.E.); 
+ 
+
+ g) filler (26-200, 175, A.N.): vale spaces. 
+ 
+
+ Visto, si approva 
+ 
+
+ Il Ministro delle finanze 
+ 
+
+ GORIA
