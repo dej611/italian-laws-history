@@ -1,38 +1,4 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
- 
- 
- 
- Visti gli articoli 77 e 87 della Costituzione;
-
- 
- 
- 
-
- 
- Ritenuta la straordinaria necessità ed urgenza di realizzare immediati interventi di protezione civile, nonchè di rifinanziare il Fondo a favore delle aziende danneggiate da pubbliche calamità;
-
- 
-
- 
- 
- 
- Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1996;
-
- 
- 
- 
-
- 
- Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno e per il coordinamento della protezione civile, di concerto con i Ministri per i beni culturali e ambientali, del tesoro e del bilancio e della programmazione economica e dei lavori pubblici;
-
- 
-
- EMANA
-
- il seguente decreto-legge:
-
- Art. 1
+Art. 1
 
  
  Interventi di carattere idrogeologico d'emergenza nelle regioni
@@ -46,7 +12,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Per fronteggiare interventi urgenti di emergenza idrogeologica nella regione siciliana è autorizzata la complessiva spesa di lire 250 miliardi da iscriversi su apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1996.
+ 1. Per fronteggiare interventi urgenti di emergenza idrogeologica
+ 
+
+ nella regione siciliana è autorizzata la complessiva spesa di lire 250 miliardi da iscriversi su apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1996.
  
 
  
@@ -62,11 +31,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. All'attuazione degli interventi si provvede, tramite i prefetti competenti per territorio, con ordinanze di cui all'articolo 5 della legge 24 febbraio 1992, n. 225, anche in deroga ad ogni disposizione vigente e nel rispetto dei principi generali dell'ordinamento giuridico, che disciplinano le modalità di trasferimento dei finanziamenti ai prefetti.
+ 
+ (( 3. All'attuazione degli interventi si provvede, avvalendosi delle competenti strutture tecniche delle amministrazioni statali e regionali, con ordinanze di cui all'articolo 5 della legge 24 febbraio 1992, n. 225, anche in deroga ad ogni disposizione vigente e nel rispetto dei principi generali dell'ordinamento giuridico. I commissari individuati nelle ordinanze sono tenuti a riferire sull'attuazione degli interventi con separate relazioni al competente ufficio della Corte dei conti, dando conto, in particolare, delle deroghe poste in essere e dei relativi effetti))
  
 
- 
- 
  
 
  
@@ -78,7 +46,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Per fronteggiare situazioni di emergenza e di risanamento del suolo connesse a dissesti idrogeologici e alla salvaguardia delle coste nelle regioni Calabria, Molise e Sicilia sulla base di un programma all'uopo predisposto dal Dipartimento della protezione civile, si provvede a ricomprendere prioritariamente tali interventi nella programmazione delle risorse comunitarie, provenienti dall'utilizzo del deflattore o da eventuali riprogrammazioni di interventi già finanziati nell'ambito del quadro comunitario di sostegno 1994-1999 obiettivo 1 e in ritardo di attuazione, affidandone l'attuazione medesima allo stesso Dipartimento.
+ 5. Per fronteggiare situazioni di emergenza e di risanamento del suolo connesse a dissesti idrogeologici e alla salvaguardia delle coste nelle regioni Calabria, Molise e Sicilia sulla base di un programma all'uopo predisposto dal Dipartimento della protezione civile, si provvede a ricomprendere prioritariamente tali interventi nella programmazione delle risorse comunitarie, provenienti dall'utilizzo del deflattore o da eventuali riprogrammazioni di interventi già finanziati nell'ambito del quadro comunitario di sostegno 1994-1999 obiettivo 1 e in ritardo di attuazione, affidandone l'attuazione medesima allo stesso Dipartimento, 
+ (( che si avvale delle competenti strutture tecniche delle amministrazioni statali e regionali. Nella programmazione delle risorse comunitarie si dovranno altresì ricomprendere prioritariamente, nell'ambito del medesimo quadro comunitario di sostegno 1994-1999 obiettivo 1, gli interventi necessari per la bonifica dei siti degradati per l'emergenza rifiuti e per l'inquinamento dei sistemi idrici predisposti dal Ministero dell'ambiente))
+
+ .
  
 
  
@@ -86,7 +57,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Per l'attuazione degli interventi del comma 5 il Dipartimento della protezione civile è autorizzato, nel rispetto della disciplina comunitaria, ad adottare ordinanze finalizzate all'accelerazione delle procedure.
+ 6. Per l'attuazione degli interventi del comma 5 il Dipartimento della protezione civile è autorizzato, nel rispetto della disciplina comunitaria, ad adottare ordinanze finalizzate all'accelerazione delle procedure. 
+ (( I commissari indiduati nelle ordinanze sono tenuti a riferire sull'attuazione dei singoli interventi ai competenti uffici dell'Unione europea e della Corte dei conti, dando conto, in particolare, dell'efficacia delle deroghe relative all'accelerazione delle procedure))
+
+ .
  
 
  
