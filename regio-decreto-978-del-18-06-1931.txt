@@ -116,9 +116,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
- ((Grado N. dei posti
+ Grado N. dei posti
  
 
  
@@ -178,9 +176,7 @@ VITTORIO EMANUELE III
  
  
 
- Totale 68))
- 
-
+ Totale 68
  
 
  
@@ -1304,47 +1300,47 @@ VITTORIO EMANUELE III
 
  
  
+
  
- Numero dei posti 
  
 
  
- Primi commessi 2 
+ 
+ ((Numero
+ 
+
+ dei
+ 
+
+ posti
  
 
  
- Commessi ed uscieri capi 30 
+ 
+
+ Primi commessi . . . . . . . . . . . . . . . . . 2
+ 
+
+ Commessi e uscieri capi. . . . . . . . . . . . 32
+ 
+
+ Uscieri . . . . . . . . . . . . . . . . . . . . 33
+ 
+
+ Inservienti . . . . . . . . . . . . . . . . . . 14
+ 
+
+ Commessi di cassa . . . . . . . . . . . . . . . 1
  
 
  
- Uscieri 32 
+ 
+
+ Totale n. 82))
  
 
  
- Inservienti 14 
- 
 
- 
- Magazziniere 1 
- 
-
- 
- Aiuto magazziniere 1 
- 
-
- 
- Commesso di cassa 1 
- 
-
- 
- Distributore di biblioteca 1 
- 
-
- 
- 82 
- 
-
- 
  
  
 
