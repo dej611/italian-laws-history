@@ -74,7 +74,10 @@ VITTORIO EMANUELE III
  
  
 
- > 
+ 
+ 
+
+ 
  
 
  
@@ -104,10 +107,10 @@ VITTORIO EMANUELE III
  9° Primi ispettori (a) . . . . . . . . . . . . . . . . . . 3
  
 
- 10° Ispettori . . . . . . . . . . . . . . . . . . . . . \
+ 10° Ispettori . . . . . . . . . . . . . . . . . . . . \
  
 
- 11° Ispettori aggiunti . . . . . . . . . . . . . . . . ./ 3(b)
+ 11° Ispettori aggiunti . . . . . . . . . . . . . . . . / 3(b)
  
 
  -----
@@ -140,8 +143,8 @@ VITTORIO EMANUELE III
  
  
 
- Grado Numero dei posti 8° Primo commissario . . . . . . . . . . . . . . . . . . 1
- 
+ Grado Numero dei posti 8° Primo commissario . . . . . . . . . . . . . . . . . . 1 
+ ((1))
 
  9° Commissario . . . . . . . . . . . . . . . . . . . . 1
  
@@ -156,3 +159,25 @@ VITTORIO EMANUELE III
  
 
  -----
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (1)
+
+ 
+ 
+
+ Il Regio Decreto 10 febbraio 1927, n. 151 ha disposto (con l'art. 1, comma 1) che "Il ruolo organico di gruppo C, del personale dell'Ufficio trattati e legislazione doganale, di cui all'art. 1 del R. decreto 6 dicembre 1923, n. 2699, è reso transitorio ed è ridotto a due posti di primo commissario - grado 8° - che potranno essere conferiti unicamente al personale che attualmente fa parte del cennato ruolo organico".
