@@ -20,7 +20,13 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
- 1. è assicurato il patrocinio a spese dello Stato nel procedimento penale ovvero penale militare per la difesa del cittadino non abbiente, imputato, persona offesa da reato, danneggiato che intenda costituirsi parte civile, responsabile civile ovvero civilmente obbligato per la pena pecuniaria. 
+ 1. è assicurato il patrocinio a spese dello Stato nel procedimento penale ovvero penale militare per la difesa del cittadino non abbiente, 
+ ((indagato,))
+
+ imputato, 
+ ((condannato,))
+
+ persona offesa da reato, danneggiato che intenda costituirsi parte civile, responsabile civile ovvero civilmente obbligato per la pena pecuniaria. 
  
 
  
@@ -36,18 +42,16 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 3. Nei procedimenti penali l'ammissione al patrocinio a spese dello Stato giova per tutti i gradi del procedimento. 
+ 
+ ((3. L'ammissione al patrocinio a spese dello Stato è valida per ogni grado e per ogni fase del giudizio e per tutte le eventuali procedure, derivate ed incidentali, comunque connesse))
  
 
  
- 
- 
 
  
- 4. Nei procedimenti di cui al comma 2 l'ammissione al patrocinio a spese dello Stato ha effetto per tutti i gradi di giurisdizione qualora la parte ammessa risulti totalmente vittoriosa. 
- 
+ 4. Nei procedimenti di cui al comma 2 l'ammissione al patrocinio a spese dello Stato ha effetto per tutti i gradi di giurisdizione 
+ ((...))
 
- 
  
  
 
@@ -68,7 +72,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 7. Le disposizioni della presente legge si applicano fino alla data di entrata in vigore della disciplina generale del patrocinio dei non abbienti avanti ad ogni giurisdizione. 
+ 7. 
+ ((COMMA ABROGATO DALLA L. 29 MARZO 2001, N. 134))
+
+ . 
  
 
  
@@ -76,30 +83,14 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 
- 
- 8. La disposizione del comma 1 non si applica ai procedimenti penali concernenti contravvenzioni. Tuttavia il patrocinio a spese dello Stato è assicurato anche relativamente a detti procedimenti quando essi: 
+ 8. 
+ ((COMMA ABROGATO DALLA L. 29 MARZO 2001, N. 134))
+
+ . 
  
 
  
  
-
- 
- a) sono riuniti a procedimenti per delitti; 
- 
-
- 
- 
-
- 
- b) sono connessi a procedimenti per delitti ancorchè non riuniti. 
- 
-
- 
- 
-
- 
-
  
 
  
@@ -108,32 +99,23 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
-
- 
  
 
  
  
-
- AVVERTENZA: 
+ ((
  
 
- Il testo delle note qui pubblicato è stato redatto ai 
+ 
+ 9-bis. Il giudice respinge l'istanza ove vi siano fondati motivi per ritenere che l'interessato non versi nelle condizioni di cui ai commi 1 e 2, tenuto conto del tenore di vita, delle condizioni personali e familiari e di attività economiche eventualmente svolte.
  
 
- sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
+ A tale fine, prima di provvedere in ordine all'istanza, può trasmetterla, unitamente alla relativa autocertificazione, alla Guardia di finanza per le necessarie verifiche. 
  
 
- con decreto del Presidente della Repubblica 28 dicembre 
+ 
+ 
  
 
- 1985, n. 1092, al solo fine di facilitare la lettura delle 
  
-
- disposizioni di legge modificate o alle quali è operato il 
- 
-
- rinvio. Restano invariati il valore e l'efficacia degli 
- 
-
- atti legislativi qui trascritti.
+ 9-ter. Il giudice, quando si procede per uno dei delitti previsti dall'articolo 51, comma 3-bis, del codice di procedura penale, ovvero nei confronti di persona proposta o sottoposta a misura di prevenzione, deve chiedere preventivamente al questore, alla direzione investigativa antimafia (DIA) e alla direzione nazionale antimafia (DNA) le informazioni necessarie e utili sui soggetti richiedenti relative al loro tenore di vita, alle loro condizioni personali e familiari e alle attività economiche eventualmente svolte, che potranno essere acquisite anche a mezzo di accertamenti da richiedere alla Guardia di finanza))
