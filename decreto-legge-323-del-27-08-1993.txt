@@ -53,11 +53,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. L'atto di concessione consente esclusivamente l'esercizio degli impianti e dei connessi collegamenti di telecomunicazione censiti ai sensi dell'articolo 32 della legge 6 agosto 1990, n. 223, ed eventualmente modificati ai sensi del comma 2 della medesima disposizione. 
+ 
+ ((
  
 
  
+ 2. L'atto di concessione consente esclusivamente l'esercizio degli impianti e dei connessi collegamenti di telecomunicazioni censiti ai sensi dell'articolo 32 della legge 6 agosto 1990, n. 223, ed eventualmente modificati ai sensi del comma 2 del medesimo articolo dallo stesso esercente o da altro soggetto dal quale l'esercente li abbia acquisiti, nonchè verificati dai competenti organi del Ministero delle poste e delle telecomunicazioni.
  
+
+ 
+ ))
+ 
+
  
 
  
@@ -70,44 +77,61 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  4. Le concessioni di cui al presente articolo possono essere rilasciate esclusivamente a soggetti che alla data del 28 febbraio 1993 fossero in possesso dei requisiti previsti dall'articolo 16, commi 7, 8, 10, 11, 12, 13, 14 e 15, della legge 6 agosto 1990, n. 223. 
- 
-
- 
- 
- 
-
- 
- 
- 
- 5. Sono, altresì, requisiti essenziali per il rilascio della concessione di cui al presente articolo: 
- 
+ ((All'articolo 1, comma 3, del decreto-legge 19 ottobre 1992, n. 407, convertito, con modificazioni, dalla legge 17 dicembre 1992, n. 482, sono soppresse le parole: "e 18, e dall'articolo 17, commi 1 e 2".))
 
  
  
 
  
- a) l'esistenza di un rapporto continuativo di lavoro subordinato, in regola con le vigenti disposizioni di legge in materia previdenziale, per almeno tre dipendenti; 
+ 
+ 
+ 5. 
+ ((Sono, altresì, requisiti essenziali per il rilascio della concessione di cui al presente articolo, da possedere entro il 30 novembre 1993 e da attestare con idonea documentazione entro la medesima data:))
+
  
 
  
- 
+ a) l'esistenza di un rapporto continuativo di lavoro subordinato, in regola con le vigenti disposizioni di legge in materia previdenziale, per almeno tre dipendenti 
+ ((o tre soci lavoratori))
 
- 
- b) il capitale sociale interamente versato nella misura minima prevista dall'articolo 16, comma 8, lettera c), della legge 6 agosto 1990, n. 223, entro il 30 novembre 1993; 
+ ; 
  
 
  
  
 
  
- c) il versamento della cauzione, secondo le modalità stabilite dall'articolo 28, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255, nella misura prevista dall'articolo 16, comma 8, lettere a ) e b), della legge 6 agosto 1990, n. 223, entro il 30 novembre 1993; 
+ b) il capitale sociale interamente versato nella misura minima prevista dall'articolo 16, comma 8, lettera c), della legge 6 agosto 1990, n. 223, 
+ ((ovvero, fermo restando quanto previsto dall'articolo 2329, primo comma, n. 2), dall'articolo 2438, e dall'articolo 2439, primo comma, del codice civile, qualora non interamente versato, il rilascio di cauzione secondo le modalità stabilite dall'articolo 28, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255, per l'importo corrispondente alla parte di capitale non versata))
+
+ ((. . .))
+
+ ; 
  
 
  
  
 
  
- d) l'adempimento degli obblighi di cui ai commi 1 e 3 dell'articolo 5 del presente decreto. 
+ c) il versamento della cauzione, secondo le modalità stabilite dall'articolo 28, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255, nella misura prevista dall'articolo 16, comma 8, lettere a ) e b), della legge 6 agosto 1990, n. 223, 
+ 
+ ((.
+ 
+
+ . .))
+ 
+
+ ; 
+ 
+
+ 
+ 
+
+ 
+ d) l'adempimento degli obblighi di cui ai 
+ ((commi 1, 1- bis e 3))
+
+ dell'articolo 5 del presente decreto. 
  
 
  
@@ -126,4 +150,33 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Qualora, nel periodo di durata della concessione, vengano meno i requisiti di cui ai commi 4 e 5, ovvero in caso di inosservanza della disposizione di cui al comma 6, il Ministro delle poste e delle telecomunicazioni, anche su segnalazione del Garante per la radiodiffussione e l'editoria, dispone l'immediata revoca della concessione.
+ 7. Qualora, nel periodo di durata della concessione, vengano meno i requisiti di cui ai commi 4 e 5, ovvero in caso di inosservanza della disposizione di cui al comma 6, il Ministro delle poste e delle telecomunicazioni, anche su segnalazione del Garante per la radiodiffussione e l'editoria, dispone l'immediata revoca della concessione. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 7-bis. In attesa dell'attuazione del piano nazionale di assegnazione delle frequenze, può essere consentita, per il periodo di durata delle concessioni in ambito locale previsto dal presente articolo, la trasmissione in contemporanea dei programmi televisivi di cui all'accordo di collaborazione in materia radio-televisiva tra la Repubblica italiana e la Repubblica di San Marino del 23 ottobre 1987, ratificato ai sensi della legge 9 aprile 1990, n. 99, da parte dei concessionari privati per la radiodiffusione televisiva in ambito locale nei bacini limitrofi alla Repubblica di San Marino e secondo le procedure previste dall'articolo 21 della legge 6 agosto 1990, n. 223. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7-ter. L'impianto previsto dall'articolo 3 dell'accordo di cui al comma 7- bis del presente articolo è attivato tenendo conto delle esigenze derivanti dall'applicazione della normativa italiana sulle radiodiffusioni. Le trasmissioni devono essere conformi alla normativa europea, comunitaria ed italiana. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7-quater. La concessione per la radiodiffusione televisiva in ambito locale di cui al comma 1 dell'articolo 1 viene altresì rilasciata a società costituite entro il 31 dicembre 1993 in possesso del requisiti di cui ai commi 4 e 5 dello stesso articolo 1, nelle quali vengano conferite entro lo stesso termine almeno tre emittenti televisive in ambito locale, ciascuna delle quali sia in possesso dei requisiti previsti al comma 4 dell'articolo 1 e al comma 3 dell'articolo 5 del presente decreto, che abbiano fatturato nell'anno 1992 non più di 200 milioni di lire, già autorizzate ai sensi dell'articolo 32 della legge 6 agosto 1990, n. 223))
