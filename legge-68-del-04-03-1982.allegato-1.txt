@@ -1,0 +1,805 @@
+TABELLA A
+ 
+
+ LIRE 90.000
+ 
+
+ Numero SEDE Istituti Cappellani d'ordine in organico 1 Asinara Casa lavoro all'aperto 2
+ 
+
+ 2 Aversa Ospedale psichiatrico giudiziario 2
+ 
+
+ 3 Barcellona Ospedale psichiatrico giudiziario 2
+ 
+
+ 4 Bari Casa circondariale 2
+ 
+
+ 5 Capraia Casa lavoro all'aperto 1
+ 
+
+ 6 Genova Casa circondariale 2
+ 
+
+ 7 Gorgona Casa lavoro all'aperto 1
+ 
+
+ 8 Mamone Casa lavoro all'aperto 1
+ 
+
+ 9 Milano Casa circondariale 3
+ 
+
+ 10 Napoli Casa circondariale 5
+ 
+
+ 11 Napoli Ospedale psichiatrico giudiziario 1
+ 
+
+ 12 Napoli Istituto rieducazione maschile
+ 
+
+ "Filangieri" 2
+ 
+
+ 13 Palermo Casa circondariale 3
+ 
+
+ 14 Palermo Istituto rieducazione maschile 1
+ 
+
+ 15 Pianosa Stabilimenti penali 2
+ 
+
+ 16 Porto Azzurro Stabilimenti penali 1
+ 
+
+ 17 Roma Rebibbia Casa circondariale maschile 3
+ 
+
+ 18 Roma Regina Coeli Casa circondariale maschile 5
+ 
+
+ 19 Roma Istituto osservazione maschile
+ 
+
+ "Casal de Marmi" 1
+ 
+
+ 20 Torino Casa circondariale 2
+ 
+
+ 21 Roma Cappellani addetti all'ispettorato 4
+ 
+
+ -----
+ 
+
+ 46
+ 
+
+ TABELLA B
+ 
+
+ LIRE 60.000
+ 
+
+ Numero SEDE Istituti Cappellani d'ordine in organico 1 Alessandria Casa reclusione 1
+ 
+
+ 2 Alghero Casa reclusione 1
+ 
+
+ 3 Arbus Casa lavoro all'aperto 1
+ 
+
+ 4 Avellino Casa circondariale e casa reclusione 1
+ 
+
+ 5 Augusta Casa reclusione 1
+ 
+
+ 6 Bologna Casa circondariale 2
+ 
+
+ 7 Brescia Casa circondariale 1
+ 
+
+ 8 Brindisi Casa circondariale 1
+ 
+
+ 9 Cagliari Casa circondariale 1
+ 
+
+ 10 Caltanissetta Casa circondariale 1
+ 
+
+ 11 Catania Casa circondariale 1
+ 
+
+ 12 Civitavecchia Casa minorati fisici 1
+ 
+
+ 13 Cuneo Casa circondariale 1
+ 
+
+ 14 Favignana Casa reclusione 1
+ 
+
+ 15 Firenze Casa circondariale 2
+ 
+
+ 16 Firenze Casa reclusione maschile 1
+ 
+
+ 17 Firenze Casa reclusione femminile 1
+ 
+
+ 18 Fossano Casa reclusione 1
+ 
+
+ 19 Fossombrone Casa minorati fisici 1
+ 
+
+ 20 Isili Casa lavoro all'aperto 1
+ 
+
+ 21 Lecce Casa circondariale 1
+ 
+
+ 22 Lecce Casa reclusione 1
+ 
+
+ 23 Lucca Casa reclusione e casa circondariale 1
+ 
+
+ 24 Massa Stabilimento penale 1
+ 
+
+ 25 Messina Casa circondariale 1
+ 
+
+ 26 Montelupo
+ 
+
+ Fiorentino Ospedale psichiatrico giudiziario 1
+ 
+
+ 27 Noto Casa reclusione 1
+ 
+
+ 28 Nuoro Casa circondariale e casa reclusione 1
+ 
+
+ 29 Padova Casa reclusione 1
+ 
+
+ 30 Paliano Sanatorio giudiziario 1
+ 
+
+ 31 Parma Casa minorati fisici 1
+ 
+
+ 32 Perugia Casa reclusione 2
+ 
+
+ 33 Pisa Casa circondariale e casa
+ 
+
+ minorati fisici 1
+ 
+
+ 34 Potenza Casa circondariale 1
+ 
+
+ 35 Procida Casa reclusione 1
+ 
+
+ 36 Pescara Casa circondariale 1
+ 
+
+ 37 Reggio Calabria Casa circondariale sezione minori 1
+ 
+
+ 38 Reggio Emilia Ospedale psichiatrico giudiziario 1
+ 
+
+ 39 Salerno Casa circondariale 1
+ 
+
+ 40 San Gimignano Casa reclusione 1
+ 
+
+ 41 Saluzzo Casa circondariale e casa reclusione 1
+ 
+
+ 42 Santa Maria
+ 
+
+ Capua Vetere Casa circondariale 1
+ 
+
+ 43 Sassari Casa circondariale 1
+ 
+
+ 44 Spoleto Casa reclusione 1
+ 
+
+ 45 Sulmona Casa reclusione 1
+ 
+
+ 46 Taranto Casa circondariale 1
+ 
+
+ 47 Trani Casa circondariale 1
+ 
+
+ 48 Trapani Casa circondariale 1
+ 
+
+ 49 Treviso Casa circondariale e sezione
+ 
+
+ minorati fisici 1
+ 
+
+ 50 Trieste Casa circondariale 1
+ 
+
+ 51 Turi Casa circondariale e casa
+ 
+
+ minorati fisici 2
+ 
+
+ 52 Udine Casa circondariale 1
+ 
+
+ 53 Venezia Casa circondariale maschile 2
+ 
+
+ 54 Venezia Casa circondariale femminile 1
+ 
+
+ 55 Verona Casa circondariale 1
+ 
+
+ 56 Viterbo Casa circondariale e casa reclusione 1
+ 
+
+ 57 Volterra Casa reclusione 1
+ 
+
+ 58 Bari Istituto osservazione maschile 1
+ 
+
+ 59 Bologna Istituto osservazione maschile 1
+ 
+
+ 60 Boscomarengo Istituto rieducazione maschile 1
+ 
+
+ 61 Cagliari Istituto rieducazione maschile 1
+ 
+
+ 62 Catania Istituto osservazione maschile 1
+ 
+
+ 63 Firenze Istituto rieducazione maschile
+ 
+
+ Prigione scuola
+ 
+
+ Riformatorio giudiziario 3
+ 
+
+ 64 Lecce Istituto rieducazione maschile 1
+ 
+
+ 65 Milano Istituto rieducazione maschile
+ 
+
+ "Beccaria" 1
+ 
+
+ 66 Pesaro Prigione scuola e riformatorio
+ 
+
+ giudiziario 1
+ 
+
+ 67 Santa Maria Istituto di osservazione maschile -
+ 
+
+ Capua Vetere Sezione riformatorio giudiziario 1
+ 
+
+ 68 Torino Istituto osservazione maschile
+ 
+
+ "F. Aporti" 1
+ 
+
+ -------- 75
+ 
+
+ TABELLA C
+ 
+
+ LIRE 40.000
+ 
+
+ Numero SEDE Istituti Cappellani d'ordine in organico 1 Acireale Prigione scuola 1
+ 
+
+ 2 Acqui Terme Casa circondariale 1
+ 
+
+ 3 Agrigento Casa circondariale 1
+ 
+
+ 4 Airola Istituto rieducazione femminile 1
+ 
+
+ 5 Alba Casa circondariale 1
+ 
+
+ 6 Alessandria Casa circondariale 1
+ 
+
+ 7 Ancona-Iesi Casa circondariale e casa reclusione 1
+ 
+
+ 8 Aosta Casa circondariale 1
+ 
+
+ 9 Arezzo Casa circondariale 1
+ 
+
+ 10 Ariano Irpino Casa circondariale 1
+ 
+
+ 11 Ascoli Piceno Casa circondariale 1
+ 
+
+ 12 Asti Casa circondariale 1
+ 
+
+ 13 Avezzano Casa circondariale 1
+ 
+
+ 14 Avigliano Istituto rieducazione maschile 1
+ 
+
+ 15 Bassano del
+ 
+
+ Grappa Casa circondariale 1
+ 
+
+ 16 Belluno Casa circondariale 1
+ 
+
+ 17 Benevento Casa circondariale 1
+ 
+
+ 18 Bergamo Casa circondariale 1
+ 
+
+ 19 Biella Casa circondariale 1
+ 
+
+ 20 Bolzano Casa circondariale 1
+ 
+
+ 21 Boscomarengo Istituto rieducazione maschile 1
+ 
+
+ 22 Busto Arsizio Casa circondariale 1
+ 
+
+ 23 Cairo Montenotte Scuola agenti di custodia 1
+ 
+
+ 24 Caltagirone Casa circondariale 1
+ 
+
+ 25 Campobasso Casa circondariale 1
+ 
+
+ 26 Casal Monferrato Casa circondariale 1
+ 
+
+ 27 Caserta Casa circondariale femminile 1
+ 
+
+ 28 Cassino Casa circondariale 1
+ 
+
+ 29 Castelfranco
+ 
+
+ Emilia Casa lavoro uomini 1
+ 
+
+ 30 Castiglione
+ 
+
+ delle Stiviere Istituto rieducazione maschile 1
+ 
+
+ 31 Castrovillari Casa circondariale 1
+ 
+
+ 32 Catanzaro Casa circondariale 1
+ 
+
+ 33 Catanzaro Istituto rieducazione maschile 1
+ 
+
+ 34 Chiavari Casa circondariale 1
+ 
+
+ 35 Chieti Casa circondariale 1
+ 
+
+ 36 Cinquefrondi Casa circondariale 1
+ 
+
+ 37 Cittanova Casa circondariale 1
+ 
+
+ 38 Civitavecchia Casa circondariale 1
+ 
+
+ 39 Como Casa circondariale 1
+ 
+
+ 40 Cosenza Casa circondariale 1
+ 
+
+ 41 Crema Casa circondariale 1
+ 
+
+ 42 Cremona Casa circondariale 1
+ 
+
+ 43 Crotone Casa circondariale 1
+ 
+
+ 44 Eboli Istituto rieducazione maschile 1
+ 
+
+ 45 Enna Casa circondariale 1
+ 
+
+ 46 Fermo Casa circondariale 1
+ 
+
+ 47 Ferrara Casa circondariale 1
+ 
+
+ 48 Foggia Casa circondariale 1
+ 
+
+ 49 Forli Casa circondariale 1
+ 
+
+ 50 Forli Prigione scuola 1
+ 
+
+ 51 Frosinone Casa circondariale 1
+ 
+
+ 52 Genova Ponte D Istituto rieducazione maschile 1
+ 
+
+ 53 Gorizia Casa circondariale 1
+ 
+
+ 54 Grosseto Casa circondariale 1
+ 
+
+ 55 Imperia Casa circondariale 1
+ 
+
+ 56 Isernia Casa circondariale 1
+ 
+
+ 57 Lanciano Casa circondariale 1
+ 
+
+ 58 Lanusei Casa circondariale 1
+ 
+
+ 59 Lagonegro Casa circondariale 1
+ 
+
+ 60 Lamezia Terme Casa circondariale 1
+ 
+
+ 61 L'Aquila Casa circondariale 1
+ 
+
+ 62 L'Aquila Prigione scuola 2
+ 
+
+ 63 La Spezia Casa circondariale 1
+ 
+
+ 64 Larino Casa circondariale 1
+ 
+
+ 65 Latina Casa circondariale 1
+ 
+
+ 66 Lecco Casa circondariale 1
+ 
+
+ 67 Livorno Casa circondariale 1
+ 
+
+ 68 Lonate Pozzolo Casa lavoro all'aperto 1
+ 
+
+ 69 Locri Casa circondariale 1
+ 
+
+ 70 Lodi Casa circondariale 1
+ 
+
+ 71 Lucera Casa circondariale 2
+ 
+
+ 72 Macerata Casa circondariale 1
+ 
+
+ 73 Mantova Casa circondariale 1
+ 
+
+ 74 Marsala Casa circondariale 1
+ 
+
+ 75 Matera Casa circondariale 1
+ 
+
+ 76 Melfi Casa circondariale 1
+ 
+
+ 77 Mistretta Casa circondariale 1
+ 
+
+ 78 Modena Casa circondariale 1
+ 
+
+ 79 Modica Casa circondariale 1
+ 
+
+ 80 Mondovi Casa circondariale 1
+ 
+
+ 81 Montepulciano Casa circondariale 1
+ 
+
+ 82 Monza Casa circondariale 1
+ 
+
+ 83 Nicosia Casa circondariale 1
+ 
+
+ 84 Nisida Istituto rieducazione maschile 1
+ 
+
+ 85 Novara Casa circondariale 1
+ 
+
+ 86 Novi Ligure Casa circondariale 1
+ 
+
+ 87 Oristano Casa circondariale 1
+ 
+
+ 88 Orvieto Stabilimento di riadattamento sociale 1
+ 
+
+ 89 Padova Casa circondariale 1
+ 
+
+ 90 Palermo Casa circondariale femminile 1
+ 
+
+ 91 Palmi Casa circondariale 1
+ 
+
+ 92 Parma Casa circondariale 1
+ 
+
+ 93 Parma Scuola agenti di custodia 1
+ 
+
+ 94 Patti Casa circondariale 1
+ 
+
+ 95 Pavia Casa circondariale 1
+ 
+
+ 96 Pesaro Casa circondariale 1
+ 
+
+ 97 Piacenza Casa circondariale 1
+ 
+
+ 98 Pinerolo Casa circondariale 1
+ 
+
+ 99 Pistoia Casa circondariale 1
+ 
+
+ 100 Pordenone Casa circondariale 1
+ 
+
+ 101 Portici Scuola militare agenti di custodia 1
+ 
+
+ 102 Pozzuoli Casa circondariale femminile 1
+ 
+
+ 103 Ragusa Casa circondariale 1
+ 
+
+ 104 Ravenna Casa circondariale 1
+ 
+
+ 105 Reggio Calabria Casa circondariale 1
+ 
+
+ 106 Reggio Emilia Casa circondariale 1
+ 
+
+ 107 Rieti Casa circondariale 1
+ 
+
+ 108 Rimini Casa circondariale 1
+ 
+
+ 109 Roma Rebibbia Casa circondariale Femminile 3
+ 
+
+ 110 Roma Rebibbia Casa reclusione 1
+ 
+
+ 111 Rossano Casa circondariale 1
+ 
+
+ 112 Rovereto Casa circondariale 1
+ 
+
+ 113 Sala Consilina Casa circondariale 1
+ 
+
+ 114 San Cataldo Istituto rieducazione maschile 1
+ 
+
+ 115 San Remo Casa circondariale 1
+ 
+
+ 116 San Severo Casa circondariale 1
+ 
+
+ 117 Sant'Angelo dei
+ 
+
+ Lombardi Casa circondariale 1
+ 
+
+ 118 Saliceta
+ 
+
+ S. Giuliano Casa reclusione 1
+ 
+
+ 119 Savona Casa circondariale 1
+ 
+
+ 120 Sciacca Casa circondariale 1
+ 
+
+ 121 Siena Casa circondariale 1
+ 
+
+ 122 Siracusa Casa circondariale 1
+ 
+
+ 123 Sondrio Casa circondariale 1
+ 
+
+ 124 Soriano nel
+ 
+
+ Cimino Casa lavoro uomini 1
+ 
+
+ 125 Sulmona Casa circondariale 1
+ 
+
+ 126 Tempio Pausania Casa circondariale 1
+ 
+
+ 127 Teramo Casa circondariale 1
+ 
+
+ 128 Termini Imprese Casa circondariale 1
+ 
+
+ 129 Terni Casa circondariale 1
+ 
+
+ 130 Tivoli Istituto rieducazione maschile
+ 
+
+ "N. Tommaseo" 2
+ 
+
+ 131 Tolmezzo Casa circondariale 1
+ 
+
+ 132 Tortona Casa circondariale 1
+ 
+
+ 133 Trani Casa circondariale 1
+ 
+
+ 134 Trento Casa circondariale 1
+ 
+
+ 135 Urbino Casa circondariale 1
+ 
+
+ 136 Urbino Istituto rieducazione maschile 1
+ 
+
+ 137 Vallo della
+ 
+
+ Lucania Casa circondariale 1
+ 
+
+ 138 Varese Casa circondariale 1
+ 
+
+ 139 Rovigo Casa circondariale 1
+ 
+
+ 140 Vasto Casa circondariale 1
+ 
+
+ 141 Velletri Casa circondariale 1
+ 
+
+ 142 Venezia Casa circondariale 1
+ 
+
+ 143 Venezia Istituto osservazione maschile 1
+ 
+
+ 144 Verbania Casa circondariale 1
+ 
+
+ 145 Vibo Valentia Casa circondariale 1
+ 
+
+ 146 Vicenza Casa circondariale 1
+ 
+
+ 147 Vigevano Casa circondariale 1
+ 
+
+ 148 Vogliera Casa circondariale 1
+ 
+
+ 149 Vercelli Casa circondariale 1
+ 
+
+ -------- 154
