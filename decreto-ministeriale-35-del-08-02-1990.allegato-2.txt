@@ -1,0 +1,692 @@
+COMPILAZIONE MODELLO 1 (SCHEDA ANAGRAFICA) 
+ 
+
+ 
+ Riquadro 1 Indicare Cognome e Nome del beneficiario nel caso in cui 
+ 
+
+ 
+ sia una persona fisica oppure la Regione Sociale, come 
+ 
+
+ 
+ risulta dall'atto costitutivo, nel caso in cui sia una 
+ 
+
+ 
+ persona giuridica. 
+ 
+
+ 
+ Riportare la Partita IVA del beneficiario oppure, nel caso in cui 
+ 
+
+ 
+ non si possieda, il Codice Fiscale. 
+ 
+
+ 
+ Riquadro 2 Parte riservata all'Amministrazione competente. 
+ 
+
+ 
+ Riquadro 3 Riportare il domicilio (persona fisica) oppure la Sede 
+ 
+
+ 
+ Sociale (persona giuridica). 
+ 
+
+ 
+ Riquadro 4 Riportare la categoria del beneficiario, utilizzando 
+ 
+
+ 
+ la seguente tabella di decodifica. 
+ 
+
+ 
+ 
+ 
+
+ 
+ TABELLA CATEGORIA BENEFICIARI 
+ 
+
+ 
+ 
+ 
+
+ 
+ CODICE CATEGORIA 
+ 
+
+ 
+ 
+ 
+
+ 
+ 01 Proprietario coltivatore diretto 
+ 
+
+ 
+ 02 Proprietario conduttore 
+ 
+
+ 
+ 03 Proprietario affittuario coltivatore diretto 
+ 
+
+ 
+ 04 Proprietario affittuario conduttore 
+ 
+
+ 
+ 05 Affittuario coltivatore diretto 
+ 
+
+ 
+ 06 Affittuario conduttore 
+ 
+
+ 
+ 07 Enfiteuta 
+ 
+
+ 
+ 08 Usufruttuario 
+ 
+
+ 
+ 09 Mezzadro 
+ 
+
+ 
+ 10 Colono 
+ 
+
+ 
+ 11 Concessionario 
+ 
+
+ 
+ 12 Persona giuridica di diritto privato 
+ 
+
+ 
+ 13 Persona giuridica di diritto pubblico 
+ 
+
+ 
+ 14 Altre forme associative 
+ 
+
+ 
+ 
+ 
+
+ 
+ Riquadro 5 Riportare la denominazione e l'ubicazione dell'azienda 
+ 
+
+ 
+ solo nel caso in cui quest'ultima risulti diversa dal 
+ 
+
+ 
+ domicilio del beneficiario. 
+ 
+
+ 
+ Riquadro 6 Riportare il codice di classificazione dell'azienda 
+ 
+
+ 
+ agricola utilizzando lo schema di classificazione che 
+ 
+
+ 
+ segue (cfr. Decisione 85/377 del 17/8/85 che istituisce 
+ 
+
+ 
+ una tipologia comunitaria delle aziende agricole): 
+ 
+
+ 
+ 
+ 
+
+ 
+ SCHEMA DI CLASSIFICAZIONE 
+ 
+
+ 
+ 
+ 
+
+ 
+ CODICE CATEGORIA DESCRIZIONE 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11 Aziende cerealicole Aziende il cui reddito lordo è 
+ 
+
+ 
+ specializzate determinato per oltre 2/3 della 
+ 
+
+ 
+ produzione di cereali 
+ 
+
+ 
+ (compreso il riso) 
+ 
+
+ 
+ 12 Aziende specializzate Aziende il cui reddito lordo è 
+ 
+
+ 
+ in cereali ed altri determinato per oltre 2/3 dalla 
+ 
+
+ 
+ seminativi produzione di seminativi 
+ 
+
+ 
+ (in cui la quota parte attribuibile 
+ 
+
+ 
+ ai cereali non supera i 2/3 del 
+ 
+
+ 
+ reddito lordo) 
+ 
+
+ 
+ 41 Aziende bovine Aziende il cui reddito lordo è 
+ 
+
+ 
+ specializzate - determinato per oltre 2/3 
+ 
+
+ 
+ orientamento dall'allevamento di bovini 
+ 
+
+ 
+ latte da latte (ossia bovini di meno 
+ 
+
+ 
+ di 1 anno, femmine da 1 a meno 
+ 
+
+ 
+ di 2 anni, giovenche e vacche 
+ 
+
+ 
+ da latte; le vacche da latte 
+ 
+
+ 
+ rappresentano più 2/3 dei bovini 
+ 
+
+ 
+ da latte) 
+ 
+
+ 
+ 42 Aziende bovine Aziende il cui reddito lordo è 
+ 
+
+ 
+ specializzate - determinato per oltre 2/3 
+ 
+
+ 
+ orientamento dell'allevamento di bovini 
+ 
+
+ 
+ allevamento e (le vacche da latte rappresentano 
+ 
+
+ 
+ carne non più di 1/10 dei bovini totali) 
+ 
+
+ 
+ 43 Aziende bovine - Aziende il cui reddito lordo è 
+ 
+
+ 
+ latte, allevamento determinato per oltre 2/3 
+ 
+
+ 
+ e carne combinati dall'allevamento di bovini (le 
+ 
+
+ 
+ vacche da latte rappresentano 
+ 
+
+ 
+ non più di 1/10 dei bovini) 
+ 
+
+ 
+ 44 Aziende con Aziende il cui reddito lordo è 
+ 
+
+ 
+ ovini, caprini determinato per oltre 2/3 della 
+ 
+
+ 
+ ed altri erbivori produzione di prati permanenti e 
+ 
+
+ 
+ pascoli e dall'allevamento di 
+ 
+
+ 
+ erbivori (in cui la quota parte 
+ 
+
+ 
+ attribuibile ai bovini non superi 
+ 
+
+ 
+ i 2/3 del reddito lordo) 
+ 
+
+ 
+ 50 Aziende Aziende il cui reddito lordo è 
+ 
+
+ 
+ specializzate determinato per oltre 2/3 
+ 
+
+ 
+ in granivori dall'allevamento di granivori 
+ 
+
+ 
+ (suini, pollame, coniglie madri) 
+ 
+
+ 
+ 81 Aziende miste Aziende il cui reddito lordo è 
+ 
+
+ 
+ determinato per oltre 1/3 dalla 
+ 
+
+ 
+ produzione di seminativi e per 
+ 
+
+ 
+ oltre 1/3 dalla produzione di prati 
+ 
+
+ 
+ permanenti e pascoli e 
+ 
+
+ 
+ dall'allevamento di erbivori 
+ 
+
+ 
+ 99 Altre aziende Tutte le aziende non classificabili 
+ 
+
+ 
+ fra le categorie descritte nello 
+ 
+
+ 
+ nello schema 
+ 
+
+ 
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Riportare il valore della "superficie aziendale totale" ottenibile
+ 
+
+ 
+ come sommatoria delle superfici di tutte le particelle indicate nel
+ 
+
+ 
+ MODELLO 2.
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Riportare il valore della "superficie a seminativo coltivato al
+ 
+
+ 
+ momento della presentazione della domanda" ottenibile come somma
+ 
+
+ 
+ delle superfici delle particelle classificate con "Codice Qualità" 
+ 
+
+ 
+ uguale a "01" (seminativi) nel MODELLO 2 
+ 
+
+ 
+ Riquadro 7 Compilare solo nel caso in cui si verifichi un cambio di 
+ 
+
+ 
+ beneficiario durante il periodo fissato nella relativa 
+ 
+
+ 
+ istanza di richiesta di aiuto. 
+ 
+
+ 
+ Riportare i dati relativi al precedente beneficiario 
+ 
+
+ 
+ seguendo le norme di compilazione riportate nel riquadro 
+ 
+
+ 
+ 1. 
+ 
+
+ 
+ Riquadro 8 Riportare, nelle caselle corrispondenti, il numero totale 
+ 
+
+ 
+ delle pagine compilate per ogni singolo modello. 
+ 
+
+ 
+ 
+ 
+
+ 
+ COMPILAZIONE MODELLO 1 bis (SCHEDA IDENTIFICATIVA DEI PROPRIETARI 
+ 
+
+ 
+ DELLE SINGOLE PARTICELLE COSTITUENTI L'AZIENDA) 
+ 
+
+ 
+ 
+ 
+
+ 
+ Da compilare solo nel caso in cui almeno una particella 
+ 
+
+ 
+ dell'azienda non sia di proprietà del beneficiario. 
+ 
+
+ 
+ Riquadro 1 Riportare i dati relativi al beneficiario seguendo le 
+ 
+
+ 
+ norme di compilazione riportate per il riquadro 1 del 
+ 
+
+ 
+ MODELLO 1. 
+ 
+
+ 
+ Riquadro 2 Parte riservata all'Amministrazione competente. 
+ 
+
+ 
+ Riquadro 3 Riportare i dati relativi al proprietario o ai proprietari 
+ 
+
+ 
+ delle particelle dell'azienda non appartenenti al 
+ 
+
+ 
+ beneficiario. 
+ 
+
+ 
+ Nel caso in cui i proprietari siano più di 8 utilizzare 
+ 
+
+ 
+ uno o più modelli 1 bis aggiuntivi avendo cura di 
+ 
+
+ 
+ cancellare il vecchio progressivo numerico sostituendolo 
+ 
+
+ 
+ con una nuova numerazione (ad esempio nel primo modello 1 
+ 
+
+ 
+ bis aggiuntivo il proprietario n. 1 dovrà essere 
+ 
+
+ 
+ modificato in n. 9, il n. 2 in n. 10 e così via). 
+ 
+
+ 
+ 
+ 
+
+ 
+ COMPILAZIONE MODELLO 2 (SCHEDA INFORMATIVA RELATIVA ALL'AZIENDA) 
+ 
+
+ 
+ 
+ 
+
+ 
+ Riportare le informazioni richieste per ogni particella 
+ 
+
+ 
+ costituente l'azienda; esse devono far riferimento alla 
+ 
+
+ 
+ situazione esistente alla data di presentazione della 
+ 
+
+ 
+ domanda. 
+ 
+
+ 
+ Riquadro 1 Riportare i dati relativi al beneficiario seguendo le 
+ 
+
+ 
+ norme di compilazione riportate per il riquadro 1 del 
+ 
+
+ 
+ MODELLO 1. 
+ 
+
+ 
+ Riquadro 2 Parte riservata all'Amministrazione competente. 
+ 
+
+ 
+ Riquadro 3 Riportare il codice ISTAT del Comune in cui è ubicata la 
+ 
+
+ 
+ particella. 
+ 
+
+ 
+ Riquadro 4 Riportare l'eventuale sezione censuaria, il numero di 
+ 
+
+ 
+ foglio di mappa e il numero della particella catastale. 
+ 
+
+ 
+ Riquadro 5 Riportare la superficie catastale della particella. 
+ 
+
+ 
+ Riquadro 6 Riportare il codice della qualità relativo 
+ 
+
+ 
+ all'ordinamento colturale della particella. I codici 
+ 
+
+ 
+ ammessi sono: 
+ 
+
+ 
+ 01 - Seminativi 
+ 
+
+ 
+ 02 - Orti familiari 
+ 
+
+ 
+ 03 - Prati permanenti e pascoli 
+ 
+
+ 
+ 04 - Coltivazioni permanenti 
+ 
+
+ 
+ 05 - Coltivazioni consociate 
+ 
+
+ 
+ 06 - Altre qualità 
+ 
+
+ 
+ Riquadro 7 Indicare il sistema di conduzione della particella 
+ 
+
+ 
+ utilizzando i seguenti codici: 
+ 
+
+ 
+ 01 - in proprietà 
+ 
+
+ 
+ 02 - in affitto 
+ 
+
+ 
+ 03 - a mezzadria o altre forme 
+ 
+
+ 
+ Riquadro 8 Indicare il proprietario della particella, se è diverso 
+ 
+
+ 
+ dal beneficiario, riportando il numero ad esso associato 
+ 
+
+ 
+ nel MODELLO 1 bis. 
+ 
+
+ 
+ Riquadro 9 Questo riquadro è da riempire solo nel caso in cui tutta 
+ 
+
+ 
+ o parte della superficie da ritirare dalla produzione sia 
+ 
+
+ 
+ destinata a PASCOLO PER ALLEVAMENTO ESTENSIVO e l'azienda 
+ 
+
+ 
+ non possieda un proprio patrimonio zootecnico erbivoro; 
+ 
+
+ 
+ viceversa, se esiste un patrimonio zootecnico erbivoro 
+ 
+
+ 
+ aziendale, fermo restando la destinazione di tutta o parte 
+ 
+
+ 
+ della superficie a PASCOLO PER ALLEVAMENTO ESTENSIVO, 
+ 
+
+ 
+ dovrà essere compilato il MODELLO 4. 
+ 
+
+ 
+ Riportare la SFT dell'azienda calcolata utilizzando i 
+ 
+
+ 
+ parametri esistenti nella zona di appartenenza.
