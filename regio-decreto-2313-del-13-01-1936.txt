@@ -185,7 +185,7 @@ VITTORIO EMANUELE III
  
  
 
- Art. 81. - Per gli atti soggetti ad approvazione od omologazione, o che non possano avere esecuzione senza, che sia trascorso un intervallo di tempo fissato dalla legge, i venti giorni decorrono dal giorno in cui perviene all'ufficiale obbligato alla registrazione la notizia del provvedimento o decreto d'approvazione od omologazione, ovvero dal giorno in cui l'atto sia divenuto altrimenti eseguibile. 
+ Art. 81. - Per gli atti soggetti ad approvazione od omologazione, o che non possano avere esecuzione senza che sia trascorso un intervallo di tempo fissato dalla legge, i venti giorni decorrono dal giorno in cui perviene all'ufficiale obbligato alla registrazione la notizia del provvedimento o decreto d'approvazione od omologazione, ovvero dal giorno in cui l'atto sia divenuto altrimenti eseguibile. 
  
 
  
@@ -356,7 +356,7 @@ VITTORIO EMANUELE III
  
  
 
- Art. 110. - Tutti gli atti e contratti per i quali con leggi è stata concessa riduzione delle normali tasse e di Registro, decadono da tali benefici e sono applicabili le ordinarie tasse sopratasse quando gli atti e contratti predetti non vengano sottoposti a registrazione entro il termine di legge. 
+ Art. 110. - Tutti gli atti e contratti per i quali con leggi è stata concessa riduzione delle normali tasse di Registro, decadono da tali benefici e sono applicabili le ordinarie tasse e sopratasse quando gli atti e contratti predetti non vengano sottoposti a registrazione entro il termine di legge. 
  
 
  
@@ -572,7 +572,10 @@ VITTORIO EMANUELE III
  
  
 
- Anche gli atti di opposizione od ingiunzione devono essere notificati presso la Regia Avvocatura di Stato competente, giusta l'art. 11 del testo unico 30 ottobre 1933, n. 1611. 
+ 
+ ((Anche gli atti di opposizione ad ingiunzione))
+
+ devono essere notificati presso la Regia Avvocatura di Stato competente, giusta l'art. 11 del testo unico 30 ottobre 1933, n. 1611. 
  
 
  
@@ -584,4 +587,4 @@ VITTORIO EMANUELE III
  
  
 
- Art. 149, - Eccettuato il caso di opposizione a richiesta di tassa suppletiva, non sono ammessi in giudizio ricorsi, opposizioni o istanze contro l'ingiunzione a pagamento, o contro la liquidazione di tasse e sopratasse quando non sia provato il pagamento delle medesime mediante la quietanza di cui nell'art. 96.
+ Art. 149. - Eccettuato il caso di opposizione a richiesta di tassa suppletiva, non sono ammessi in giudizio ricorsi, opposizioni o istanze contro l'ingiunzione a pagamento, o contro la liquidazione di tasse e sopratasse quando non sia provato il pagamento delle medesime mediante la quietanza di cui nell'art. 96.
