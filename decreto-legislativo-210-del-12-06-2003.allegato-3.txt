@@ -1,0 +1,37 @@
+Allegato III 
+ 
+
+ (Articolo 6) 
+ 
+
+ 
+ 
+
+ ANALISI DI SICUREZZA 
+ 
+
+ 
+ 
+
+ L'analisi di sicurezza cui deve essere sottoposto qualsiasi impianto deve tener conto di ogni modalità di esercizio prevista.
+ 
+
+ Essa deve essere realizzata secondo un metodo riconosciuto o consolidato e tener conto delle regole dell'arte e della complessità dell'impianto in questione. L'analisi mira anche a garantire che la progettazione e la configurazione dell'impianto progettato tenga conto dell'ambiente circostante e delle situazioni più sfavorevoli al fine di garantire condizioni di sicurezza soddisfacenti. L'analisi verte in particolare sui dispositivi di sicurezza e i relativi effetti sull'impianto e sui sottosistemi connessi che essi fanno intervenire affinchè: 
+ 
+
+ 
+ 
+
+ - essi siano in grado di reagire a un primo guasto o cedimento constatato in modo da restare in uno stato che garantisca la sicurezza, o in uno stato di funzionamento ridotto, o in stato di arresto in condizioni di sicurezza (fail safe), o 
+ 
+
+ - essi siano ridondanti e sorvegliati, o 
+ 
+
+ - essi siano tali che le probabilità di cedimento possano essere valutate e siano d'un livello comparabile a quello dei dispositivi di sicurezza che soddisfano i criteri di cui al primo e al secondo trattino. 
+ 
+
+ 
+ 
+
+ L'analisi di sicurezza serve a redigere l'inventario dei rischi e delle situazioni pericolose di cui all'articolo 6, comma 1, e a determinare l'elenco dei componenti di sicurezza di cui al comma 2 del suddetto articolo. Il risultato dell'analisi di sicurezza deve essere sintetizzato in una relazione di sicurezza.

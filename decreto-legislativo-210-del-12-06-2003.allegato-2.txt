@@ -1,0 +1,451 @@
+Allegato II 
+ 
+
+ (Articolo 5) 
+ 
+
+ 
+ 
+
+ REQUISITI ESSENZIALI 
+ 
+
+ 
+ 
+
+ 1. Oggetto 
+ 
+
+ 
+ 
+
+ Il presente allegato definisce i requisiti essenziali che si applicano alla progettazione, alla costruzione e alla messa in servizio degli impianti definiti all'articolo 4, comma 1, lettera a) e i requisiti di idoneità al servizio nonchè quelli relativi alla manutenzione tecnica. 
+ 
+
+ 
+ 
+
+ 2. Requisiti generali 
+ 
+
+ 
+ 
+
+ 2.1. Sicurezza delle persone 
+ 
+
+ 
+ 
+
+ La sicurezza degli utenti, del personale e dei terzi è un requisito fondamentale per la progettazione, la costruzione e l'esercizio degli impianti. 
+ 
+
+ 
+ 
+
+ 2.2. Principi di sicurezza 
+ 
+
+ 
+ 
+
+ Per quanto riguarda la progettazione, la realizzazione e i requisiti di idoneità all'esercizio, nonchè quelli relativi alla manutenzione tecnica di un impianto, devono essere applicati nell'ordine i principi seguenti: 
+ 
+
+ 
+ 
+
+ - eliminare o almeno ridurre i pericoli mediante soluzioni progettuali o costruttive; 
+ 
+
+ - definire e adottare le misure di protezione necessarie rispetto ai pericoli che non possono essere eliminati mediante soluzioni progettuali o costruttive; 
+ 
+
+ - definire e rendere note le precauzioni da prendere per evitare i pericoli che non è stato possibile eliminare completamente mediante le soluzioni e le misure di cui al primo e al secondo trattino. 
+ 
+
+ 
+ 
+
+ 2.3. Considerazione dei vincoli esterni 
+ 
+
+ 
+ 
+
+ Ogni impianto deve essere progettato e costruito in modo che possa essere utilizzato in condizioni di sicurezza tenendo conto del tipo dell'impianto, delle caratteristiche del terreno e dell'ambiente, delle condizioni atmosferiche e meteorologiche, delle eventuali opere e degli eventuali ostacoli terrestri e aerei situati nelle vicinanze. 
+ 
+
+ 
+ 
+
+ 2.4. Dimensionamento 
+ 
+
+ 
+ 
+
+ L'impianto, i sottosistemi e tutti i suoi componenti di sicurezza devono essere dimensionati, progettati e realizzati in modo da resistere con una sicurezza sufficiente alle sollecitazioni corrispondenti a tutte le condizioni prevedibili, anche fuori esercizio, tenendo conto in particolare delle azioni esterne, degli effetti dinamici e dei fenomeni di fatica, conformemente allo stato dell'arte, in particolare per la scelta dei materiali. 
+ 
+
+ 
+ 
+
+ 2.5. Montaggio 
+ 
+
+ 
+ 
+
+ 2.5.1. L'impianto, i sottosistemi e tutti i componenti di sicurezza devono essere progettati e realizzati in modo da garantirne l'assemblaggio e l'installazione in condizioni di sicurezza. 
+ 
+
+ 2.5.2. I componenti di sicurezza devono essere progettati in modo che gli errori di assemblaggio vengano resi impossibili o dalla loro costruzione o mediante appropriate marcature sui componenti stessi. 
+ 
+
+ 
+ 
+
+ 2.6. Integrità dell'impianto 
+ 
+
+ 
+ 
+
+ 2.6.1. I componenti di sicurezza devono essere progettati, realizzati e utilizzati in modo che sia garantita sempre la loro integrità funzionale e/o la sicurezza dell'impianto, secondo quanto definito nell'analisi di sicurezza di cui all'allegato III, affinchè un loro guasto sia altamente improbabile e con un adeguato margine di sicurezza. 
+ 
+
+ 2.6.2. L'impianto deve essere progettato e realizzato in modo che, nel suo esercizio, qualsiasi eventuale guasto di un componente che possa incidere, anche indirettamente, sulla sicurezza, sia oggetto a tempo opportuno di un'adeguata misura. 
+ 
+
+ 2.6.3. Le garanzie di cui ai punti 2.6.1 e 2.6.2 devono applicarsi durante tutto l'intervallo di tempo compreso tra due verifiche previste dei componente di cui si tratta. Gli intervalli per la verifica dei componenti di sicurezza devono essere chiaramente specificati nelle istruzioni. 
+ 
+
+ 2.6.4. I componenti di sicurezza installati negli impianti come pezzi di ricambio devono soddisfare i requisiti essenziali del presente decreto nonchè le condizioni concernenti l'azione combinata con gli altri componenti dell'impianto. 
+ 
+
+ 2.6.5. Si devono adottare disposizioni affinchè gli effetti di un incendio nell'impianto non mettano a rischio la sicurezza delle persone trasportate e del personale. 
+ 
+
+ 2.6.6. Si devono adottare disposizioni particolari per proteggere gli impianti e le persone dalle conseguenze dei fulmini. 
+ 
+
+ 
+ 
+
+ 2.7. Dispositivi di sicurezza 
+ 
+
+ 
+ 
+
+ 2.7.1. Qualsiasi malfunzionamento che si verifichi nell'impianto capace di provocare un'avaria pregiudizievole per la sicurezza deve, se possibile, essere rilevato, segnalato e trattato da un dispositivo di sicurezza. Lo stesso vale per qualsiasi avvenimento esterno normalmente prevedibile e che possa mettere a repentaglio la sicurezza. 
+ 
+
+ 2.7.2. L'impianto deve poter essere arrestato manualmente in qualsiasi momento. 
+ 
+
+ 2.7.3. Dopo un arresto provocato da un dispositivo di sicurezza, la rimessa in funzione dell'impianto deve essere possibile solo dopo che siano state adottate le misure del caso. 
+ 
+
+ 
+ 
+
+ 2.8. Requisiti relativi alla manutenzione tecnica. 
+ 
+
+ 
+ 
+
+ L'impianto deve essere progettato e realizzato in modo da consentire di effettuare i lavori di manutenzione e di riparazione, ordinari e straordinari, in condizioni di sicurezza. 
+ 
+
+ 
+ 
+
+ 2.9. Disturbo da emissioni 
+ 
+
+ 
+ 
+
+ L'impianto deve essere progettato e realizzato in modo che il disturbo interno ed esterno derivante dalle emissioni di gas inquinanti, dal rumore o dalle vibrazioni rispetti i limiti prescritti. 
+ 
+
+ 
+ 
+
+ 3. Requisiti concernenti le infrastrutture 
+ 
+
+ 
+ 
+
+ 3.1. Tracciato, velocità, distanza dei veicoli 
+ 
+
+ 
+ 
+
+ 3.1.1. L'impianto deve essere progettato per funzionare in condizioni di sicurezza tenendo conto delle caratteristiche del terreno e dei dintorni delle condizioni atmosferiche e meteorologiche, delle eventuali opere, e degli eventuali ostacoli terrestri e aerei situati nelle vicinanze, in modo da non provocare inconvenienti e pericoli, in qualsiasi condizione di utilizzazione, manutenzione o evacuazione delle persone. 
+ 
+
+ 3.1.2. Si deve garantire lateralmente e verticalmente una distanza sufficiente tra i veicoli, i dispositivi di traino, le vie di corsa, le funi, ecc. e le eventuali opere nonchè gli eventuali ostacoli terrestri e aerei situati nelle vicinanze, tenendo conto degli spostamenti verticali, longitudinali e laterali delle funi e dei veicoli o dei dispositivi di traino, ponendosi nelle condizioni prevedibili di esercizio più sfavorevoli. 
+ 
+
+ 3.1.3. La distanza massima tra i veicoli e il suolo deve tener conto della natura dell'impianto, dei tipi di veicoli e delle modalità di soccorso. Nel caso di veicoli aperti, essa deve tenere conto del pericolo di caduta e degli aspetti psicologici connessi all'altezza del sorvolo. 
+ 
+
+ 3.1.4. La velocità massima dei veicoli o dei dispositivi di traino, il loro distanziamento minimo nonchè le loro prestazioni di accelerazione e di frenatura devono essere scelti in modo da garantire la sicurezza delle persone e del funzionamento dell'impianto. 
+ 
+
+ 
+ 
+
+ 3.2. Stazioni e opere di linea 
+ 
+
+ 
+ 
+
+ 3.2.1. Le stazioni e le opere di linea devono essere progettate, costruite ed attrezzate in modo da essere stabili. Esse devono consentire una guida sicura delle funi, dei veicoli e dei dispositivi di traino e devono poter essere sottoposte a manutenzione in piena sicurezza, indipendentemente dalle possibili condizioni di esercizio. 
+ 
+
+ 3.2.2. Le aree di imbarco e di sbarco dell'impianto devono essere configurate in modo da consentire la circolazione dei veicoli, dei dispositivi di traino e delle persone in condizioni di sicurezza. Il movimento dei veicoli e dei dispositivi di traino nelle stazioni deve poter avvenire senza pericoli per le persone, tenendo conto della loro eventuale partecipazione attiva. 
+ 
+
+ 
+ 
+
+ 4. Requisiti concernenti le funi, gli argani e i freni, nonchè gli impianti meccanici e elettrici. 
+ 
+
+ 
+ 
+
+ 4.1. Funi e relativi appoggi. 
+ 
+
+ 
+ 
+
+ 4.1.1. Si devono adottare tutte le disposizioni conformemente allo 
+ 
+
+ stato dell'arte, per 
+ 
+
+ 
+ 
+
+ - evitare la rottura delle funi e dei relativi attacchi; 
+ 
+
+ - assicurare i valori limite di sollecitazione; 
+ 
+
+ - assicurarne la sicurezza agli appoggi ed impedirne lo scarrucolamento; 
+ 
+
+ - permetterne la sorveglianza. 
+ 
+
+ 
+ 
+
+ 4.1.2. Quando non è possibile eliminare totalmente un pericolo di scarrucolamento delle funi, si devono adottare disposizioni per garantire, in caso di scarrucolamento, la trattenuta delle funi e l'arresto dell'impianto senza rischi per le persone. 
+ 
+
+ 
+ 
+
+ 4.2. Dispositivi meccanici 
+ 
+
+ 
+ 
+
+ 4.2.1. Argani 
+ 
+
+ 
+ 
+
+ Le prestazioni e le possibilità di impiego dell'argano devono essere adeguate ai vari regimi e modalità di esercizio. 
+ 
+
+ 
+ 
+
+ 4.2.2. Sistemi di trazione di emergenza 
+ 
+
+ 
+ 
+
+ L'impianto deve disporre di un sistema di trazione di emergenza alimentato da una fonte di energia indipendente dal sistema di trazione principale, a meno che l'analisi di sicurezza dimostri che un sistema di trazione di emergenza non è necessario per consentire un'evacuazione semplice, rapida e sicura degli utenti dall'impianto, in particolare dalle vetture o dai dispositivi di traino. 
+ 
+
+ 
+ 
+
+ 4.2.3. Frenatura 
+ 
+
+ 
+ 
+
+ 4.2.3.1. In caso di urgenza, l'arresto dell'impianto e/o dei veicoli deve essere possibile in qualsiasi momento e nelle più sfavorevoli condizioni di carico e di aderenza sulla puleggia motrice ammesse durante l'esercizio. Lo spazio di arresto deve essere tanto breve quanto lo richiede la sicurezza dell'impianto. 
+ 
+
+ 4.2.3.2. I valori di decelerazione devono essere compresi entro limiti opportunamente fissati in modo da garantire la sicurezza delle persone, nonchè il buon comportamento dei veicoli, delle funi e delle altre parti dell'impianto. 
+ 
+
+ 4.2.3.3. Su tutti gli impianti la frenatura sarà ottenuta mediante due o più sistemi, ciascuno in grado di provocare l'arresto, e coordinati in modo da sostituire automaticamente il sistema in azione qualora la sua efficacia risultasse insufficiente.
+ 
+
+ L'ultimo sistema di frenatura della fune di trazione deve esercitare la sua azione direttamente sulla puleggia motrice. Queste disposizioni non si applicano alle sciovie. 
+ 
+
+ 4.2.3.4. L'impianto deve essere munito di un dispositivo di arresto e di blocco efficace che impedisca qualsiasi rimessa in moto intempestiva. 
+ 
+
+ 
+ 
+
+ 4.3. Organi di comando 
+ 
+
+ 
+ 
+
+ I dispositivi di comando devono essere progettati e realizzati in modo da essere sicuri e affidabili nonchè resistenti alle sollecitazioni normali di esercizio, agli influssi esterni come l'umidità, le temperature estreme e le perturbazioni elettromagnetiche, in modo da non provocare situazioni pericolose, anche in caso di manovre errate. 
+ 
+
+ 
+ 
+
+ 4.4. Organi di comunicazione 
+ 
+
+ 
+ 
+
+ Il personale deve poter comunicare in permanenza mediante opportuni dispositivi e, in caso di urgenza, informare gli utenti. 
+ 
+
+ 
+ 
+
+ 5. Veicoli e dispositivi di traino 
+ 
+
+ 
+ 
+
+ 5.1. I veicoli e/o i dispositivi di traino devono essere progettati e attrezzati in modo che, nelle condizioni di impiego prevedibili, nessuno possa cadere e correre altri pericoli. 
+ 
+
+ 5.2. Gli attacchi dei veicoli e dei dispositivi di traino devono essere progettati e realizzati in modo che anche nelle condizioni più sfavorevoli: 
+ 
+
+ 
+ 
+
+ - non danneggino la fune 
+ 
+
+ - non possano scorrere, salvo consentire uno slittamento non rilevante del veicolo, del dispositivo di traino e dell'impianto. 
+ 
+
+ 
+ 
+
+ 5.3. Le porte dei veicoli (delle vetture, delle cabine) devono essere progettate e realizzate in modo da potere essere chiuse e bloccate, il pavimento e le pareti dei veicoli devono essere progettati e fabbricati in modo da resistere in qualsiasi circostanza alle pressioni e alle spinte esercitate dagli utenti. 
+ 
+
+ 5.4. Se per la sicurezza di esercizio è richiesta la presenza di un agente a bordo del veicolo, quest'ultimo deve essere munito di attrezzature che gli consentano di esercitare le sue funzioni. 
+ 
+
+ 5.5. I veicoli e/o i dispositivi di traino e, in particolare, le loro sospensioni devono essere progettati e realizzati in modo da garantire la sicurezza degli addetti che intervengono sugli stessi nel rispetto delle opportune regole e avvertenze. 
+ 
+
+ 5.6. Nel caso di veicoli ad ammorsamento automatico, devono essere adottate tutte le disposizioni per arrestare, senza rischi per gli utenti, prima dell'uscita, un veicolo non correttamente accoppiato alla fune e, in arrivo, un veicolo non disaccoppiato evitando che tali veicoli precipitino. 
+ 
+
+ 5.7. I veicoli di funicolari e - qualora la tipologia dell'impianto lo consenta - di funivie bifuni debbono prevedere un dispositivo di frenatura che agisca automaticamente sulla rotaia allorquando la rottura della fune traente non possa ragionevolmente essere esclusa. 
+ 
+
+ 5.8. Qualora altre misure non possano escludere pericoli di scarrucolamento, il veicolo deve essere munito di un dispositivo antiscarrucolamento che ne consenta l'arresto senza rischi per le persone. 
+ 
+
+ 
+ 
+
+ 6. Dispositivi per gli utenti 
+ 
+
+ 
+ 
+
+ L'accesso alle aree d'imbarco e la partenza dalle aree di sbarco, nonchè l'imbarco e lo sbarco degli utenti devono essere organizzati in modo da garantire la sicurezza delle persone in particolare nelle zone con pericoli di caduta, tenendo conto della circolazione e del parcheggio dei veicoli. L'Impianto deve poter essere usato da parte di bambini e di persone a mobilità ridotta senza pericoli per la loro sicurezza, se è previsto che esso effettui il trasporto delle suddette categorie di persone. 
+ 
+
+ 
+ 
+
+ 7. Idoneità all'esercizio 
+ 
+
+ 
+ 
+
+ 7.1. Sicurezza 
+ 
+
+ 
+ 
+
+ 7.1.1. Devono essere adottate tutte le disposizioni e le misure tecniche affinchè l'impianto possa essere utilizzato conformemente alla sua destinazione e alle sue specifiche tecniche nonchè alle condizioni di utilizzazione prescritte e possano essere rispettate le avvertenze per la manutenzione e la sicurezza di esercizio. Le istruzioni e le avvertenze corrispondenti devono essere redatte almeno in lingua italiana. 
+ 
+
+ 7.1.2. Alle persone preposte al funzionamento dell'impianto devono essere forniti i mezzi materiali adeguati, che devono essere in grado di svolgere questo compito. 
+ 
+
+ 7.2. Sicurezza in caso di arresto dell'impianto 
+ 
+
+ Devono essere adottate tutte le disposizioni e le misure tecniche per consentire, in caso di arresto dell'impianto senza possibilità di un rapido ripristino in esercizio, di condurre gli utenti in luogo sicuro, entro un termine adeguato, in funzione del tipo di impianto e dell'ambiente circostante. 
+ 
+
+ 
+ 
+
+ 7.3. Altre disposizioni particolari attinenti alla sicurezza 
+ 
+
+ 
+ 
+
+ 7.3.1. Posti di manovra e di lavoro 
+ 
+
+ 
+ 
+
+ Gli elementi mobili normalmente accessibili nelle stazioni devono essere progettati, realizzati e fatti funzionare in modo da evitare i pericoli oppure, se questi ultimi sussistono, essere muniti di dispositivi di protezione, in modo da prevenire qualsiasi contatto diretto che possa provocare incidenti. Questi dispositivi non devono poter essere facilmente smontabili o messi fuori uso. 
+ 
+
+ 
+ 
+
+ 7.3.2. Pericoli di caduta 
+ 
+
+ 
+ 
+
+ I posti e le zone di lavoro o di intervento, anche se occasionali, e il loro accesso devono essere progettati ed attrezzati in modo da evitare la caduta delle persone che vi devono lavorare o circolare.
+ 
+
+ Se queste attrezzature non sono sufficienti, i posti di lavoro devono inoltre esser muniti di punti di ancoraggio per l'attrezzatura individuale di protezione contro le cadute.
