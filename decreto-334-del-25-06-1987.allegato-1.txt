@@ -1,0 +1,399 @@
+REGOLAMENTO DEL SERVIZIO PUBBLICO 
+ 
+
+ DI POSTA ELETTRONICA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Art. 1. 
+ 
+
+ Generalità 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il servizio pubblico di posta elettronica è un servizio postale gestito dall'Amministrazione delle poste e delle telecomunicazioni e provvede: 
+ 
+
+ a) alla trasmissione della corrispondenza utilizzando le risorse della tecnica elettronica di immagazzinamento e ritrasmissione e dell'immagazzinamento e recupero della corrispondenza; 
+ 
+
+ b) alla riproduzione di questa corrispondenza (elettronica) nella località di destinazione; 
+ 
+
+ c) alla consegna al destinatario.
+Art. 2. 
+ 
+
+ Attività sperimentale 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. è autorizzata in via sperimentale per la durata di otto mesi l'attivazione degli impianti sotto indicati: 
+ 
+
+ a) un "impianto di posta elettronica (I.P.E.)" presso le sedi di Milano, Roma e Genova con il compito di provvedere, per la relativa area di competenza postale, alle seguenti funzioni: 
+ 
+
+ 1) raccolta, in forma elettronica, delle corrispondenze elettroniche (C.E.) generate dai mittenti: le C.E. possono pervenire all'I.P.E. via telecomunicazione (rete telefonica, linee dati pubbliche, linee dedicate) o, in alternativa, possono pervenire registrate su supporto (ad es. nastro magnetico); 
+ 
+
+ 2) trasmissione al centro di gestione delle C.E. raccolte dagli utenti; 
+ 
+
+ 3) ricezione, dal centro di gestione, delle C.E. destinate alla propria area di recapito; attuazione di procedure prioritarie per il trattamento di C.E. con recapito celere; 
+ 
+
+ 4) elaborazioni necessarie per la stampa delle C.E. quali composizione dei testi, delle parti grafiche e degli indirizzi, compilazione dei formati di stampa e gestione e controllo dei processi di stampa; 
+ 
+
+ 5) trasformazione in corrispondenze ordinarie delle C.E. destinate al recapito entro l'area postale locale, loro inserimento nel flusso di lavorazione meccanizzata delle corrispondenze, fino alla distribuzione ai portalettere; 
+ 
+
+ b) un "ufficio corrispondenza elettronica (U.C.E.)" presso le sedi di Milano, Varese, Bergamo, Brescia, Genova, Roma (due sistemi), Napoli, Bari e Palermo con il compito di provvedere, per la relativa area di competenza postale, alle seguenti funzioni: 
+ 
+
+ 1) trasmissione al centro di gestione di P.E. delle C.E. originate dall'ufficio postale, ricezione dal centro di gestione di P.E. delle C.E. destinate all'ufficio; 
+ 
+
+ 2) ricezione delle C.E. trasmesse dagli utenti via telecomunicazioni; 
+ 
+
+ 3) accettazione delle C.E. su supporto magnetico consegnate dagli utenti, lettura dei supporti e trasmissione via telecomunicazioni dei messaggi al centro di gestione del sistema di P.E.; 
+ 
+
+ 4) generazione di C.E. su terminale (tastiera-video) di ufficio postale; 
+ 
+
+ 5) funzioni di "casella postale elettronica"; 
+ 
+
+ 6) trasformazione in corrispondenze ordinarie delle C.E. destinate ai casellisti e al recapito celere mediante portalettere e fattorini nelle zone di competenza dell'ufficio postale; 
+ 
+
+ c) un "centro di gestione" con sede a Roma-Fiumicino, con il compito di provvedere alla gestione e supervisione operativa degli impianti di P.E. e degli uffici postali ed alla gestione amministrativa del servizio di P.E., in particolare a: 
+ 
+
+ 1) raccolta in forma elettronica delle C.E. dagli impianti 
+ 
+
+ di P.E., dagli Uffici corrispondenza elettronica e direttamente dagli utenti, mediante mezzi di telecomunicazioni; 
+ 
+
+ 2) autenticazione degli utenti; 
+ 
+
+ 3) gestione delle transazioni tra utenti e servizio; 
+ 
+
+ 4) smistamento ed inoltro mediante mezzi di 
+ 
+
+ telecomunicazione delle C.E. da stampare agli I.P.E. ed agli U.C.E. di competenza in base all'indirizzo postale del destinatario ed all'opzione di recapito richiesto; 
+ 
+
+ 5) gestione delle "caselle postali elettroniche" degli 
+ 
+
+ utenti; 
+ 
+
+ 6) registrazione degli utenti e gestione dei dati di 
+ 
+
+ utente; 
+ 
+
+ 7) fatturazione delle transazioni tra utenti e servizio; 
+ 
+
+ 8) gestione del sistema di archiviazione ed elaborazione di 
+ 
+
+ dati grafici; 
+ 
+
+ 9) controllo dello stato degli I.P.E. e degli U.C.E.; 
+ 
+
+ 10) elaborazione di statistiche relative al traffico di 
+ 
+
+ C.E.
+Art. 3. 
+ 
+
+ Contabilità 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il presente servizio pubblico di posta elettronica accetta procedure di accesso di tipo interattivo e non interattivo. 
+ 
+
+ 2. Nel caso di procedure di accesso al servizio pubblico di posta elettronica non interattive, l'utente è tenuto ad utilizzare procedure e protocolli compatibili con quelli del servizio pubblico di posta elettronica, i quali a loro volta si conformano alle raccomandazioni della serie X 400 del CCITT (Comitato consultivo internazionale telegrafico e telefonico). 
+ 
+
+ 3. Su richiesta, l'amministrazione può fornire tutte le informazioni all'uopo necessarie.
+Art. 4. 
+ 
+
+ Norme operative 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Per quanto non previsto dal presente regolamento valgono le norme di utenza nonchè le altre norme operative che sono emanate dalla direzione centrale servizi postali per disciplinare l'espletamento del servizio.
+Art. 5. 
+ 
+
+ Accesso al servizio 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. L'utente può accedere al servizio pubblico di posta elettronica: 
+ 
+
+ a) "direttamente" dai suoi terminali, tramite rete trasmissioni dati, con procedure e protocolli compatibili con il sistema di posta elettronica dell'Amministrazione delle poste e delle telecomunicazioni; 
+ 
+
+ b) da terminale pubblico installato presso gli Uffici corrispondenza elettronica (U.C.E.); 
+ 
+
+ c) tramite gli sportelli degli U.C.E. e degli I.P.E. depositandovi i messaggi registrati su idoneo supporto magnetico (nastro o dischetto magnetico).
+Art. 6. 
+ 
+
+ Recapito 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. La corrispondenza può venir consegnata al destinatario: 
+ 
+
+ a) a mezzo fattorino o portalettere; se trattasi di corrispondenza urgente la consegna avviene di norma entro la mattinata del giorno lavorativo successivo a quello di accettazione; 
+ 
+
+ b) tramite casella postale elettronica; la corrispondenza rimane ivi memorizzata a disposizione dell'utente.
+Art. 7. 
+ 
+
+ Tariffe 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Le tariffe ed i canoni per il servizio pubblico di posta elettronica sono stabiliti con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con quello del tesoro.
+Art. 8. 
+ 
+
+ Modalità di pagamento 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il pagamento delle somme dovute all'amministrazione a qualsiasi titolo, salvo quanto specificato al comma 2 del presente articolo nonchè all'art. 6 delle norme d'utenza per l'utilizzazione del servizio pubblico di posta elettronica, deve essere effettuato entro quindici giorni dal ricevimento della fattura. 
+ 
+
+ 2. Il pagamento delle somme relative alle spedizioni realizzate nei modi di cui ai punti b) e c) dell'art. 5 deve essere effettuato contestualmente all'uso del terminale pubblico o al deposito del supporto magnetico. 
+ 
+
+ 3. In caso di ritardato pagamento l'utente deve corrispondere una indennità di mora pari al 5% delle somme versate con ritardo. 
+ 
+
+ 4. Trascorso il termine massimo di trenta giorni, l'amministrazione può risolvere il rapporto di utenza, fermo restando il diritto ad esigere quanto ad essa dovuto.
+Art. 9. 
+ 
+
+ Traffico consentito 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. La corrispondenza inoltrata al servizio pubblico di posta elettronica, salvo quanto previsto al comma 2 o specifiche autorizzazioni della direzione centrale servizi postali, deve riguardare esclusivamente affari di competenza dell'utente con divieto di trattare corrispondenza per conto terzi ovvero di mettere a disposizione di terzi il terminale per l'accesso al servizio pubblico di posta elettronica. 
+ 
+
+ 2. è ammesso che un utente, per propria ragione sociale, inoltri al servizio pubblico di posta elettronica corrispondenza riguardante affari di terzi nel solo caso in cui la corrispondenza sia generata elettronicamente dall'utente stesso, mediante programmi di calcolatore, che utilizzano dati di ingresso forniti da terzi, per la generazione automatica di lotti di corrispondenza e a condizione che tali programmi vengano eseguiti sui mezzi di elaborazione dell'utente stesso.
+Art. 10. 
+ 
+
+ Contenuto della corrispondenza 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il contenuto della corrispondenza può essere di qualsiasi tipo, fatte salve le limitazioni previste dall'art. 81 del codice postale e delle telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1983, n. 156.
+Art. 11. 
+ 
+
+ Sopralluoghi 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. L'utente è obbligato a dare libero accesso nei propri uffici agli incaricati dell'amministrazione, muniti di apposita autorizzazione, allo scopo di vigilare sulla esatta osservanza degli obblighi assunti dall'utente medesimo.
+Art. 12. 
+ 
+
+ Infrazioni 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. In caso di infrazione al presente regolamento, accertata e regolarmente contestata, nonchè di violazione da parte dell'utente anche di uno soltanto degli obblighi contenuti nelle norme d'utenza, oppure di mancata o incompleta corresponsione dei compensi stabiliti, l'amministrazione ha facoltà di sospendere il servizio e, ripetendosi l'infrazione o persistendo la morosità, di risolvere anticipatamente l'abbonamento, salvo il recupero del credito relativo agli importi che risultassero ancora parzialmente insoluti e la eventuale applicazione delle sanzioni previste dal codice postale e delle telecomunicazioni, senza essere tenuta a corrispondere risarcimenti o indennità di sorta nè a rimborsare i canoni anticipati. 
+ 
+
+ 2. Per ogni controversia derivante dalla interpretazione e/o dalla esecuzione del presente regolamento le parti eleggono il foro di Roma.
+Art. 13. 
+ 
+
+ Interruzione del servizio 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Nei casi di interruzione del servizio pubblico di posta elettronica per cause non imputabili all'amministrazione, che oltrepassino i cinque giorni, l'utente ha diritto al rimborso della quota parte dei canoni annui commisurata al periodo di interruzione, dedotti i primi cinque giorni.
+Art. 14. 
+ 
+
+ Sospensione del servizio 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Per ragioni di interesse pubblico o di ordine tecnico, l'amministrazione può in qualsiasi momento, sospendere totalmente o parzialmente il servizio pubblico di posta elettronica, senza che l'utente possa pretendere indennità di sorta, salvo il rimborso della quota parte dei canoni annui in misura proporzionale alla durata della sospensione.
+Art. 15. 
+ 
+
+ Cambio di residenza 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. In caso di cambio di residenza l'utente deve darne comunicazione all'amministrazione a mezzo lettera raccomandata diretta alla direzione centrale servizi postali.
+Art. 16. 
+ 
+
+ Servizio temporaneo 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. L'amministrazione ha facoltà di mettere il servizio pubblico di posta elettronica a disposizione degli organizzatori di congressi, mostre, manifestazioni artistiche, culturali e simili e di utenti con particolari esigenze per periodi inferiori ad un anno ma non inferiori ad un mese. 
+ 
+
+ 2. L'utente è tenuto al pagamento dei canoni per mesi interi e delle tariffe di cui all'art. 7.
+Art. 17. 
+ 
+
+ Servizio internazionale 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Nel caso di collegamento del servizio pubblico di posta elettronica con servizi esteri, le relative tariffe per le comunicazioni internazionali sono stabilite con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con quello del tesoro, in base alle convenzioni internazionali e ad accordi con le amministrazioni o con i gestori interessati a norma dell'art. 8 del codice postale e delle telecomunicazioni.
+Art. 18. 
+ 
+
+ Annuario 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. L'amministrazione tiene un annuario contenente la lista degli utenti del servizio pubblico di posta elettronica. 
+ 
+
+ 2. L'amministrazione non assume alcuna responsabilità in caso di errori od omissioni eventualmente contenuti in detto annuario. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il Ministro delle poste e delle telecomunicazioni 
+ 
+
+ GAVA
