@@ -1,0 +1,253 @@
+Allegato 6 
+ 
+
+ 
+ 
+
+ PRESCRIZIONI COLOMETRICHE 
+ 
+
+ 
+ 
+
+ I pannelli posteriori di identificazione destinati ai veicoli pesanti 
+ 
+
+ ed ai rimorchi dovranno essere composti da materiali o dispositivi retroriflettenti 
+ 
+
+ gialli e rossi o retroriflettenti gialli e fluorescenti rossi. 
+ 
+
+ 2. Materiale giallo o rosso retroriflettente 
+ 
+
+ 2.1. Allorquando i campioni sono verificati con uno spettrofotometro conformemente alle prescrizioni del documento CIE No 15 (1971) ed illuminati mediante la sorgente standard CIE D65 sotto un angolo di 45o rispetto alla normale e osservati in direzione normale (geometria 45/0), il colore del materiale nuovo deve collocarsi all'interno della zona delimitata dalle coordinate tricromatiche riportate nella tabella 1. e deve avere il fattore di luminanza minimo indicato. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ 
+ 
+
+ Coordinate tricromatiche x e y 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ +======+====+======+=======+========+===========+=================+
+ 
+
+ 
+ |Colore| | 1 | 2 | 3 | 4 |fattore di |
+ 
+
+ 
+ | | | | | | |luminanza (&#946) |
+ 
+
+ 
+ +------+----+------+-------+--------+-----------+-----------------+
+ 
+
+ 
+ | | x |0.545 | 0.487| 0.427 | 0.465 | |
+ 
+
+ 
+ |Giallo+----+------+-------+--------+-----------+ ≥0.16 |
+ 
+
+ 
+ | | y |0.454 | 0.423| 0.433 | 0.534 | |
+ 
+
+ 
+ +------+----+------+-------+--------+-----------+-----------------+
+ 
+
+ 
+ | | x |0.690 | 0.595| 0.569 | 0.655 | |
+ 
+
+ 
+ |Rosso +----+------+-------+--------+-----------+ ≥0.03 |
+ 
+
+ 
+ | | y |0.310 | 0.315| 0.341 | 0.345 | |
+ 
+
+ 
+ +------+----+------+-------+--------+-----------+-----------------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.2. Allorquando i campioni sono illuminanti da una sorgente standard CIE A sotto un angolo di illuminazione (angolo di incidenza) di β1 =
+ 
+
+ β2 = 0o o se la superficie produce un riflesso incolore, un angolo di
+ 
+
+ β1 = &plusmn; 5o, β2 = 0o e misurato sotto un angolo di divergenza di 20',
+ 
+
+ il colore del materiale nuovo deve trovarsi all'interno della zona delimitata dalle coordinate tricromatiche riportate nella tabella 2.
+ 
+
+ Tabella 2 Coordinate di tricromatiche x e y 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ +-------+-------+---------+---------+---------+---------+
+ 
+
+ 
+ |Colore | | 1 | 2 | 3 | 4 |
+ 
+
+ 
+ +-------+-------+---------+---------+---------+---------+
+ 
+
+ 
+ | | x | 0.585 | 0.610 | 0.520 | 0.505 |
+ 
+
+ 
+ |Giallo +-------+---------+---------+---------+---------+
+ 
+
+ 
+ | | y | 0.385 | 0.390 | 0.480 | 0.465 |
+ 
+
+ 
+ +-------+-------+---------+---------+---------+---------+
+ 
+
+ 
+ | | x | 0.720 | 0.735 | 0.665 | 0.643 |
+ 
+
+ 
+ |Rosso +-------+---------+---------+---------+---------+
+ 
+
+ 
+ | | y | 0.258 | 0.265 | 0.335 | 0.335 |
+ 
+
+ 
+ +-------+-------+---------+---------+---------+---------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Nota: Il colore della luce retroriflessa dai materiali retroriflettenti è attualmente oggetto di studio presso il Comitato Tecnico 1.6 della CIE; i limiti sopra indicati sono provvisori e verranno ridefiniti allorquando il TC1.6 della CIE avrà ultimato i suoi studi. 3. Materiale fluorescente rosso 3.1. Allorquando i campioni sono verificati con uno spettrofotometro conformemente alle prescrizioni del documento CIE No 45 (1971) ed illuminati policromaticamente mediante la sorgente standard CIE D65 sotto un angolo di 45o rispetto alla normale e osservati in direzione normale (geometria 45/0) il colore del materiale nuovo deve collocarsi all'interno della zona delimitata dalle coordinate tricromatiche riportate nella tabella 3 e deve avere il fattore di luminanza minimo indicato. Tabella 3 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ +========+====+=====+=====+=====+=====+=========================+
+ 
+
+ 
+ |Colore | | 1 | 2 | 3 | 4 | fattore di luminanza (&#946)|
+ 
+
+ 
+ +--------+----+-----+-----+-----+-----+-------------------------+
+ 
+
+ 
+ | | x |0.690|0.595|0.569|0.655| |
+ 
+
+ 
+ |Rosso +----+-----+-----+-----+-----+ ≥0.30 |
+ 
+
+ 
+ | | y |0.310|0.315|0.341|0.345| |
+ 
+
+ 
+ +--------+----+-----+-----+-----+-----+-------------------------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4. La conformità alle prescrizioni colorimetriche si verifica per 
+ 
+
+ comparazione visiva. 
+ 
+
+ Se a seguito della verifica sussistono dubbi, la conformità alle 
+ 
+
+ prescrizioni colorimetriche è verificata determinando le coordinate tricromatiche del campione più dubbio.

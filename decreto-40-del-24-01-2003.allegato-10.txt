@@ -1,0 +1,103 @@
+Allegato 8 
+ 
+
+ 
+ 
+
+ RESISTENZA AGLI AGENTI ESTERNI 
+ 
+
+ 
+ 
+
+ 1. Resistenza agli agenti atmosferici 
+ 
+
+ 
+ 
+
+ 1.1. Procedura - Per ciascuna prova si utilizzano due campioni (unità campione, vedere paragrafo 2.1.2 di questo Regolamento). Un campione deve essere conservato in un ambiente scuro e secco per poter essere usato successivamente come "Campione di riferimento non esposto". 
+ 
+
+ Il secondo modello deve essere esposto ad una fonte di illuminazione in accordo con la norma ISO 105-B02-1978, paragrafo 4.3.1. 
+ 
+
+ Il materiale retro riflettente deve essere esposto fino a quando la degradazione prodotta sul campione standard blu No. 7 è uguale al grado 4 della scala dei grigi. Il materiale fluorescente è esposto fino a quando la degradazione prodotta sul campione standard blu No. 5 è uguale al No. 4 della scala dei grigi. Dopo questa prova, il campione deve essere lavato con una soluzione diluita di detergente neutro, asciugato e quindi esaminato per controllare la conformità delle prescrizioni dei paragrafi dall'1.2 all'1.4. 
+ 
+
+ 1.2. Esame visivo - Nessuna parte del campione esposto deve mostrare segni di incrinamento, rigonfiamenti, distorsioni, rugosità, crateri, delaminazioni dello strato superficiale, sfarinamento, macchie o corrosioni. 
+ 
+
+ Non deve rilevarsi restringimento superiore allo 0.5% in alcuna direzione, scollamenti ai bordi o distacchi del materiale di supporto. 
+ 
+
+ 1.3. Solidità del colore - I colori dei modelli esposti devono continuare a soddisfare le prescrizioni delle tabelle 1, 2 e 3 dell'Allegato 6. 
+ 
+
+ 1.4. Effetto sul coefficiente specifico di intensità luminosa del materiale retroriflettenti: 
+ 
+
+ 1.4.1. Per questo controllo si procede ad una misura sotto un angolo di osservazione di 20' e ad un angolo di illuminazione di 5o secondo il metodo indicato nell'Allegato 7, 
+ 
+
+ 1.4.2. Il coefficiente specifico di intensità luminosa R' del campione esposto, dopo asciugatura, non deve essere inferiore all'80% del valore indicato nell'Allegato 7, tavola 1. 
+ 
+
+ 1.4.3. Il campione è successivamente esposto a pioggia simulata e il suo coefficiente specifico di intensità luminosa R' in queste condizioni non deve essere inferiore al 90% del valore ottenuto nella misura effettuata sul campione asciugato secondo la procedura illustrata nel paragrafo 1.4.2. 
+ 
+
+ 2. Resistenza alla corrosione (norma ISO 3768) 
+ 
+
+ 2.1 Un provino ricavato dall'unità campione è sottoposto all'azione di una nebbia salma per 48 ore comprendendo due periodi di 24 ore ciascuno, intervallate da un tempo di due ore durante il quale il provino può asciugare. 
+ 
+
+ La nebbia salina è prodotta atomizzando ad una temperatura di 35 &plusmn; 2oC una soluzione salina ottenuta sciogliendo 5 parti (in peso) di cloruro di sodio in 95 parti di acqua distillata che non contenga più dello 0,02% di impurità. 
+ 
+
+ 2.2. Immediatamente dopo la fine di questa prova, il provino non deve mostrare segni di corrosione che potrebbero diminuire l'efficacia del dispositivo. 
+ 
+
+ 2.2.1. Dopo un periodo di riposo di 48 ore il coefficiente specifico di intensità luminosa R' delle parti retroriflettenti misurato secondo le prescrizioni del paragrafo 1 dell'allegato 7, sotto un angolo di osservazione di 20' e di illuminazione di 5o non deve risultare inferiore ai valori indicati nella tabella 1 dell'allegato 7. 
+ 
+
+ Prima di procedere alle misure bisogna aver cura di pulire la superficie dai residui salini. 
+ 
+
+ 3. Resistenza ai carburanti 
+ 
+
+ Da una unità campione si ricava un provino di lunghezza non inferiore a 300 mm e lo si immerge per un minuto in una miscela costituita dal 70% in volume di n-eptano e dal 30% di toluolo. 
+ 
+
+ Dopo la estrazione dal bagno, la superficie viene asciugata con un panno morbido e all'esame non deve mostrare nessun cambiamento visibile che possa diminuire l'efficienza del dispositivo. 
+ 
+
+ 4. Adesione al materiale di supporto (nel caso di materiali adesivi) 
+ 
+
+ 4.1. Si determina l'adesione dei prodotti retroriflettenti e fluorescenti. 
+ 
+
+ 4.2. I prodotti, qualunque sia la metodologia con la quale sono stati applicati, non devono poter essere staccati senza utensili o senza essere danneggiati. 
+ 
+
+ 4.3. I prodotti adesivi per essere staccati dal materiale di base devono essere sollecitati con uno sforzo superiore a 10 N per ogni 25 mm di larghezza, applicato ad una velocità di 300 mm al minuto. 
+ 
+
+ 5. Resistenza all'acqua 
+ 
+
+ Da una unità campione si ricava un provino di lunghezza non inferiore a 300 mm e lo si immerge per 18 ore in acqua distillata a temperatura di 23&plusmn;5oC; successivamente, dopo estrazione dal bagno, viene fatta asciugare per 24 ore in condizioni normali di laboratorio. Alla fine della prova il provino viene esaminato e, a partire da 10 mm dal bordo tagliato, non deve aversi nessun segno di deterioramento suscettibile di ridurre l'efficienza del dispositivo. 
+ 
+
+ 6. Resistenza agli urti (ad eccezione dei materiali retroriflettenti prismatici in plastica). 
+ 
+
+ Si fa cadere da due metri di altezza una sfera omogenea di acciaio del diametro di 25 mm sulle superfici dei materiali retroriflettenti e fluorescenti di un provino rappresentativo dell'unità campione mantenuto sospeso in un ambiente alla temperatura di 23&plusmn;2oC. Il materiale sottoposto ad urto non deve presentare screpolature o separazione dal supporto all'esterno di un intorno di 5 mm dalla zona dell'impatto. 
+ 
+
+ 7. Pulizia 
+ 
+
+ Un provino ricavato dall'unità campione imbrattato con una miscela di olio lubrificante detergente o di grafite deve poter essere pulito facilmente senza danno alle superfici retroriflettenti e fluorescenti. La pulizia è normalmente effettuata con solvente alifatico debole tipo n-eptano seguito da lavaggio con detergente neutro e risciacquo.

@@ -1,0 +1,277 @@
+Allegato 7 
+ 
+
+ PRESCRIZIONI FOTOMETRICHE 
+ 
+
+ 1. Proprietà fotometriche 1.1. Quando le aree gialle retroriflettenti in condizioni nuove vengono illuminate con un illuminante standard A CIE e misurate come raccomandato da CIE TC 2.3, (Pubblicazione CIE n. 54, 1982), il coefficiente specifico di intensità luminosa R' in candele per metro quadro per lux dovrà essere almeno quello indicato nelle tabelle 1 e 2, a seconda della classe di appartenenza. I dispositivi della classe 1 e della classe 2 
+ 
+
+ dovranno rispettare i valori della tabella 1, mentre i dispositivi 
+ 
+
+ della classe 3 e della classe 4 dovranno essere 
+ 
+
+ almeno pari a quelli della tabella 2. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ 
+ 
+
+ Coefficiente specifico di intensità luminosa R' 
+ 
+
+ (cd . lux -1 . m -2) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +==========================+======================================+
+ 
+
+ 
+ | angolo di | angolo di |
+ 
+
+ 
+ |osservazione α [°] | illuminazione β [°] |
+ 
+
+ 
+ +--------------------------+--------+------+-------+-------+------+
+ 
+
+ 
+ | |β1 | 0° | 0° | 0° | 0° |
+ 
+
+ 
+ | 20° +--------+------+-------+-------+------+
+ 
+
+ 
+ | |β2 | 5° | 30° | 40° | 60° |
+ 
+
+ 
+ +--------------------------+--------+------+-------+-------+------+
+ 
+
+ 
+ | Coefficiente R' |Colore | | | | |
+ 
+
+ 
+ | (cd . lux -1 . m -2) |Giallo | 300 | 180 | 75 | 10 |
+ 
+
+ 
+ +--------------------------+--------+------+-------+-------+------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 2 
+ 
+
+ 
+ 
+
+ Coefficiente specifico di intensità luminosa R' 
+ 
+
+ (cd . lux -1 . m -2) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +========================+====================================+
+ 
+
+ 
+ | angolo di | angolo di |
+ 
+
+ 
+ |osservazione α [°] | illuminazione β [°] |
+ 
+
+ 
+ +------------------------+--------+------+------+------+------+
+ 
+
+ 
+ | |β1 | 0° | 0° | 0° | 0° |
+ 
+
+ 
+ | 20° +--------+------+------+------+------+
+ 
+
+ 
+ | |β2 | 5° | 30°| 40° | 60° |
+ 
+
+ 
+ +------------------------+--------+------+------+------+------+
+ 
+
+ 
+ | Coefficiente R' |Colore | | | | |
+ 
+
+ 
+ |(cd . lux -1 . m -2) +--------+------+------+------+------+
+ 
+
+ 
+ | |Giallo | 300 | 180 | 75 | 10 |
+ 
+
+ 
+ | +--------+------+------+------+------+
+ 
+
+ 
+ | |Rosso | 10 | 7 | 4 | - |
+ 
+
+ 
+ +------------------------+--------+------+------+------+------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1.2. L'angolo sotteso del campione non deve superare gli 80°. 
+ 
+
+ 
+ 
+
+ 1.3. Fattore di luminanza 
+ 
+
+ 
+ 
+
+ Il fattore di luminanza (β) deve essere almeno quello indicato nella 
+ 
+
+ tabella 3. 
+ 
+
+ 
+ 
+
+ Tabella 3 
+ 
+
+ 
+ 
+
+ Fattore di luminanza β 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ +=====================+===============================+
+ 
+
+ 
+ |Colore | Fattore di luminanza β |
+ 
+
+ 
+ +---------------------+-------------------------------+
+ 
+
+ 
+ |Rosso | ≥ 0.13 |
+ 
+
+ 
+ +---------------------+-------------------------------+
+ 
+
+ 
+ |Giallo | ≥ 0.16 |
+ 
+
+ 
+ +---------------------+-------------------------------+
