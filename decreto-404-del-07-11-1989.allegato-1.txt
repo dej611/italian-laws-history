@@ -1,0 +1,536 @@
+1. AVVERTENZE GENERALI.
+ 
+
+ I comuni che si avvalgono di centri elaborazione dati devono
+ 
+
+ predisporre i supporti magnetici secondo le specifiche tecniche di
+ 
+
+ seguito esposte.
+ 
+
+ I tipi di supporti utilizzabili sono nastri magnetici e dischetti
+ 
+
+ magnetici.
+ 
+
+ I comuni che non sono in grado di seguire le presenti specifiche
+ 
+
+ tecniche devono comunicarlo al Ministero delle finanze - Centro
+ 
+
+ informativo per l'organizzazione dei servizi tributari - Via Mario
+ 
+
+ Carucci, 99 - 00143 Roma, per concordare un diverso tipo di
+ 
+
+ fornitura.
+ 
+
+ Tutti i supporti magnetici devono essere inviati in duplice copia.
+ 
+
+ 2. CARATTERISTICHE DEI NASTRI MAGNETICI.
+ 
+
+ I nastri magnetici devono rispondere alle seguenti
+ 
+
+ caratteristiche:
+ 
+
+ numero di tracce: 9;
+ 
+
+ numero di caratteri per pollice: 1600 oppure 6250;
+ 
+
+ tipo di codifica: EBCDIC (con bit di parità: ODD);
+ 
+
+ non è ammessa la presenza di label (standard o non standard).
+ 
+
+ La lunghezza del record logico è di 212 caratteri; la lunghezza
+ 
+
+ del record fisico è di 10.600 caratteri, per cui il fattore di
+ 
+
+ bloccaggio è di 50 record logici.
+ 
+
+ 3. CARATTERISTICHE DEI DISCHETTI MAGNETICI.
+ 
+
+ I dischetti magnetici devono rispondere alle seguenti
+ 
+
+ caratteristiche:
+ 
+
+ dimensione 5 e 1/4 pollici (360 KB) oppure 3 e 1/2 pollici
+ 
+
+ (720 KB);
+ 
+
+ registrazione con sistema MS/DOS oppure PC/DOS;
+ 
+
+ compatibili con PC/XT doppia densità, doppia faccia;
+ 
+
+ tipo di codifica = ASCII.
+ 
+
+ 4. CARATTERISTICHE ESTERNE DEI SUPPORTI MAGNETICI.
+ 
+
+ Un supporto magnetico può essere costituito da più volumi; in
+ 
+
+ ciascun volume deve essere apposta una etichetta riportante i
+ 
+
+ seguenti dati:
+ 
+
+ Destinatario: Ministero delle finanze - Centro informativo
+ 
+
+ dell'organizzazione dei servizi tributari.
+ 
+
+ Mittente: ....................................................
+ 
+
+ (denominazione ed indirizzo dell'ente fornitore)
+ 
+
+ ....................................................................
+ 
+
+ (nome e recapito telefonico del responsabile della fornitura) 
+ 
+
+ Oggetto: dati anagrafici e di residenza dei soggetti residenti
+ 
+
+ nel comune di ......................................................
+ 
+
+ (ovvero nei comuni di ............................................ ).
+ 
+
+ Numero progressivo di volume: ................................
+ 
+
+ Numero complessivo dei volumi: ................................
+ 
+
+ Qualora il supporto sia costituito da più volumi, l'etichetta di
+ 
+
+ cui sopra va apposta su ciascun volume ed inoltre ogni etichetta
+ 
+
+ dovrà recare gli stessi dati ad eccezione del numero progressivo di
+ 
+
+ volume (esempio: se il supporto è costituito da 3 volumi, su
+ 
+
+ ciascuna etichetta deve essere riportato "3" alla voce "numero
+ 
+
+ complessivo dei volumi" e rispettivamente "1", "2" e "3" alla voce
+ 
+
+ "numero progressivo di volume").
+ 
+
+ Deve essere apposta, inoltre, un'altra etichetta contenente le
+ 
+
+ caratteristiche tecniche del supporto (LRECL, BLKSIZE, DENSITY,
+ 
+
+ etc.).
+ 
+
+ 5. CONTENUTO DEI SUPPORTI MAGNETICI.
+ 
+
+ Ogni supporto magnetico può contenere i dati di soggetti
+ 
+
+ residenti in più comuni e si compone dei seguenti record lunghi 212
+ 
+
+ caratteri:
+ 
+
+ - un record di testa del supporto;
+ 
+
+ - un record di testa per ogni comune contenuto nel supporto;
+ 
+
+ - tanti record dettaglio quanti sono i soggetti residenti in tale
+ 
+
+ comune;
+ 
+
+ - un record di coda per ogni comune contenuto nel supporto;
+ 
+
+ - un record di coda del supporto.
+ 
+
+ Ad esempio: un supporto contenente i dati di soggetti residenti in
+ 
+
+ due comuni diversi conterrà:
+ 
+
+ - un record di testa del supporto;
+ 
+
+ - un record di testa del primo comune;
+ 
+
+ - tanti record dettaglio del primo comune;
+ 
+
+ - un record di coda del primo comune;
+ 
+
+ - un record di testa del secondo comune;
+ 
+
+ - tanti record dettaglio del secondo comune;
+ 
+
+ - un record di coda del secondo comune;
+ 
+
+ - un record di coda del supporto.
+ 
+
+ Nel seguito viene descritto il contenuto informativo dei record
+ 
+
+ presenti nel supporto magnetico; il tipo di campo può essere:
+ 
+
+ - alfabetico (A);
+ 
+
+ - numerico (N);
+ 
+
+ - alfanumerico (AN).
+ 
+
+ I campi di tipo alfabetico possono contenere anche i caratteri
+ 
+
+ trattino (-) ed apostrofo (').
+ 
+
+ I campi di tipo alfanumerico possono contenere caratteri
+ 
+
+ alfabetici, numerici e speciali quali trattino (-), apostrofo ('),
+ 
+
+ punto (.) etc.
+ 
+
+ 5.1 Descrizione del record di testa del supporto.
+ 
+
+ 
+ 
+
+ Nome campo Tipo lung. Valore
+ 
+
+ - - -
+ 
+
+ Tipo record . . . . . . . N 1 valore = (Diametro)
+ 
+
+ Tipo supporto . . . . . . N 1 valore = 1 se nastro
+ 
+
+ valore = 2 se dischetto
+ 
+
+ Progressivo di volume . . N 2
+ 
+
+ Densità di registrazione N 1 valore = 1 se densità
+ 
+
+ = 1600
+ 
+
+ valore = 2 se densità
+ 
+
+ = 6250
+ 
+
+ valore = 3 se dischetto
+ 
+
+ Denominazione ente fornitore A 30
+ 
+
+ Provincia (targa) . . . . A 2 (Roma = RM)
+ 
+
+ Codice ISTAT dell'ente forni- N 6 (eventuale)
+ 
+
+ tore
+ 
+
+ Filler . . . . . . . . . A 169
+ 
+
+ 5.2 Descrizione del record di testa del comune.
+ 
+
+ 
+ 
+
+ Nome campo Tipo lung. Valore
+ 
+
+ - - -
+ 
+
+ Tipo record . . . . . . . N 1 valore = 1
+ 
+
+ Tipo supporto . . . . . . N 1 valore = 1 se nastro
+ 
+
+ valore = 2 se dischetto
+ 
+
+ Progressivo di volume . . N 2
+ 
+
+ Densità di registrazione N 1 valore = 1 se densità
+ 
+
+ = 1600
+ 
+
+ valore = 2 se densità
+ 
+
+ = 6250
+ 
+
+ valore = 3 se dischetto
+ 
+
+ Denominazione del comune A 30
+ 
+
+ Provincia (targa) . . . . A 2 (Roma = RM)
+ 
+
+ Codice ISTAT del comune . N 6 (eventuale)
+ 
+
+ Filler . . . . . . . . . A 169
+ 
+
+ 5.3 Descrizione del record di coda del comune.
+ 
+
+ 
+ 
+
+ Nome campo Tipo lung. Valore
+ 
+
+ - - -
+ 
+
+ Tipo record . . . . . . . N 1 valore = 8
+ 
+
+ Tipo supporto . . . . . . N 1 come record di testa
+ 
+
+ Progressivo di volume . . N 2 come record di testa
+ 
+
+ Densità di registrazione N 1 come record di testa
+ 
+
+ Denominazione del comune A 30 come record di testa
+ 
+
+ Provincia (targa) . . . . A 2 come record di testa
+ 
+
+ Codice ISTAT del comune . N 6 (eventuale)
+ 
+
+ Numero record dettaglio del N 7
+ 
+
+ comune
+ 
+
+ Filler . . . . . . . . . A 162
+ 
+
+ 5.4 Descrizione del record di coda del supporto.
+ 
+
+ 
+ 
+
+ Nome campo Tipo lung. Valore
+ 
+
+ - - -
+ 
+
+ Tipo record . . . . . . . N 1 valore = 9
+ 
+
+ Tipo supporto . . . . . . N 1 come record di testa
+ 
+
+ Progressivo di volume . . N 2 come record di testa
+ 
+
+ Densità di registrazione N 1 come record di testa
+ 
+
+ Denominazione ente forni- A 30 come record di testa
+ 
+
+ tore
+ 
+
+ Provincia (targa) . . . . A 2 come record di testa
+ 
+
+ Codice ISTAT dell'ente forni- N 6 (eventuale)
+ 
+
+ tore
+ 
+
+ Numero record dettaglio con- N 7
+ 
+
+ tenuti nel supporto
+ 
+
+ Filler . . . . . . . . . A 162
+ 
+
+ 5.5 Descrizione del record dettaglio.
+ 
+
+ 
+ 
+
+ Nome campo Tipo lung. Valore
+ 
+
+ - - -
+ 
+
+ Tipo record . . . . . . . N 1 valore = 5
+ 
+
+ Campo riservato all'ente for- AN 16
+ 
+
+ nitore
+ 
+
+ Cognome . . . . . . . . . A 30
+ 
+
+ Nome. . . . . . . . . . . A 30
+ 
+
+ Sesso . . . . . . . . . . A 1 valore = M o F
+ 
+
+ Data di nascita:
+ 
+
+ giorno. . . . . . . . . N 2
+ 
+
+ mese. . . . . . . . . . N 2
+ 
+
+ anno. . . . . . . . . . N 4
+ 
+
+ Luogo di nascita (comune A 30
+ 
+
+ italiano o Stato estero)
+ 
+
+ Provincia di nascita (sigla A 2
+ 
+
+ automobilistica: Roma =
+ 
+
+ RM - Stato estero = EE)
+ 
+
+ Comune di residenza . . . A 30
+ 
+
+ 
+ 
+ ((Provincia di residenza (sigla A 2
+ 
+
+ automobilistica: Roma = RM) ))
+ 
+
+ 
+
+ Codice ISTAT del comune di N 6 (eventuale)
+ 
+
+ residenza
+ 
+
+ Indirizzo . . . . . . . . AN 35
+ 
+
+ CAP . . . . . . . . . . . N 5 (eventuale)
+ 
+
+ Campo riservato al Ministero AN 16
+ 
+
+ delle finanze
