@@ -1,0 +1,313 @@
+ALLEGATO C
+ 
+
+ TABELLA DEI COEFFICIENTI DI CONVERSIONE PER IL CALCOLO DEL
+ 
+
+ TONNELLAGGIO COMPENSATO
+ 
+
+ Tipo di nave Coefficiente --- ---
+ 
+
+ a) NAVI DA CARICO:
+ 
+
+ Petroliere:
+ 
+
+ fino a 4.000 tpl 1,70
+ 
+
+ 4 - 10.000 tpl 1,15
+ 
+
+ 10 - 30.000 tpl 0,75
+ 
+
+ 30 - 50.000 tpl 0,60
+ 
+
+ 50 - 80.000 tpl 0,50
+ 
+
+ 80 - 160.000 tpl 0,40
+ 
+
+ 160 - 250.000 tpl 0,30
+ 
+
+ oltre 250.000 tpl 0,25
+ 
+
+ Chimiche e cisterne per prodotti:
+ 
+
+ fino a 4.000 tpl 2,30
+ 
+
+ 4 - 10.000 tpl 1,60
+ 
+
+ 10 - 30.000 tpl 1,00
+ 
+
+ 30 - 50.000 tpl 0,75
+ 
+
+ 50 - 80.000 tpl 0,55
+ 
+
+ oltre 80.000 tpl 0,50
+ 
+
+ Rinfusiere (escluse quelle per carichi misti secchi e liquidi alla rinfusa):
+ 
+
+ fino a 4.000 tpl 1,60
+ 
+
+ 4 - 10.000 tpl 1,10
+ 
+
+ 10 - 30.000 tpl 0,70
+ 
+
+ 30 - 50.000 tpl 0,60
+ 
+
+ 50 - 80.000 tpl 0,50
+ 
+
+ 80 - 160.000 tpl 0,40
+ 
+
+ oltre 160.000 tpl 0,30
+ 
+
+ Rinfusiere per carichi misti:
+ 
+
+ fino a 4.000 tpl 1,60
+ 
+
+ 4 - 10.000 tpl 1,10
+ 
+
+ 10 - 30.000 tpl 0,85
+ 
+
+ 30 - 50.000 tpl 0,70
+ 
+
+ 50 - 80.000 tpl 0,55
+ 
+
+ 80 - 160.000 tpl 0,45
+ 
+
+ oltre 160.000 tpl 0,35
+ 
+
+ Navi da carico generale:
+ 
+
+ fino a 4.000 tpl 1,85
+ 
+
+ 4 - 10.000 tpl 1,35
+ 
+
+ 10 - 20.000 tpl 1,00
+ 
+
+ 20 - 30.000 tpl 0,85
+ 
+
+ 30 - 50.000 tpl 0,70
+ 
+
+ 50 - 80.000 tpl 0,55
+ 
+
+ 80 - 160.000 tpl 0,45
+ 
+
+ oltre 160.000 tpl 0,35
+ 
+
+ Navi frigorifere:
+ 
+
+ fino a 4.000 tpl 2,05
+ 
+
+ 4 - 10.000 tpl 1,50
+ 
+
+ oltre 10.000 tpl 1,25
+ 
+
+ Navi portacontenitori:
+ 
+
+ fino a 4.000 tpl 1,85
+ 
+
+ 4 - 10.000 tpl 1,20
+ 
+
+ 10 - 20.000 tpl 0,90
+ 
+
+ 20 - 30.000 tpl 0,80
+ 
+
+ 30 - 50.000 tpl 0,75
+ 
+
+ oltre 50.000 tpl 0,65
+ 
+
+ Navi traghetto RO/RO:
+ 
+
+ fino a 4.000 tpl 1,50
+ 
+
+ 4 - 10.000 tpl 1,05
+ 
+
+ 10 - 20.000 tpl 0,80
+ 
+
+ 20 - 30.000 tpl 0,70
+ 
+
+ oltre 30.000 tpl 0,65
+ 
+
+ Navi porta-auto:
+ 
+
+ fino a 4.000 tpl 1,10
+ 
+
+ 4 - 10.000 tpl 1,75
+ 
+
+ 10 - 20.000 tpl 0,65
+ 
+
+ 20 - 30.000 tpl 0,55
+ 
+
+ oltre 30.000 tpl 0,45
+ 
+
+ Gasiere G.P.L.:
+ 
+
+ fino a 4.000 tpl 2,05
+ 
+
+ 4 - 10.000 tpl 1,60
+ 
+
+ 10 - 20.000 tpl 1,15
+ 
+
+ 20 - 30.000 tpl 0,90
+ 
+
+ 30 - 50.000 tpl 0,80
+ 
+
+ oltre 50.000 tpl 0,70
+ 
+
+ Gasiere G.N.L.:
+ 
+
+ fino a 4.000 tpl 2,05
+ 
+
+ 4 - 10.000 tpl 1,60
+ 
+
+ 10 - 20.000 tpl 1,15
+ 
+
+ 20 - 30.000 tpl 0,90
+ 
+
+ 30 - 50.000 tpl 0,80
+ 
+
+ oltre 50.000 tpl 0,60
+ 
+
+ b) NAVI DIVERSE:
+ 
+
+ Navi traghetto per il trasbordo di auto:
+ 
+
+ 100 - 1.000 g.t. 3,00
+ 
+
+ 1.000 - 3.000 g.t. 2,25
+ 
+
+ 3.000 - 10.000 g.t. 1,65
+ 
+
+ 10.000 - 20.000 g.t. 1,15
+ 
+
+ oltre 20.000 g.t. 0,90
+ 
+
+ Navi da passeggeri:
+ 
+
+ 100 - 1.000 g.t. 6,00
+ 
+
+ 1.000 - 3.000 g.t. 4,00
+ 
+
+ 3.000 - 10.000 g.t. 3,00
+ 
+
+ 10.000 - 20.000 g.t. 2,00
+ 
+
+ oltre 20.000 g.t. 1,50
+ 
+
+ Navi da pesca:
+ 
+
+ 100 - 1.000 g.t. 4,00
+ 
+
+ 1.000 - 3.000 g.t. 3,00
+ 
+
+ oltre 3.000 g.t. 2,00
+ 
+
+ Altre navi non da carico (inclusi rimorchiatori, draghe, ecc.):
+ 
+
+ 100 - 1.000 g.t. 5,00
+ 
+
+ 1.000 - 3.000 g.t. 3,20
+ 
+
+ 3.000 - 10.000 g.t. 2,00
+ 
+
+ oltre 10.000 g.t. 1,50
