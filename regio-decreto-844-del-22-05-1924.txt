@@ -13,43 +13,28 @@ VITTORIO EMANUELE III
  
  
  
- Visto il Regio decreto 30 dicembre 1923, n. 2994, sullo stato
+ Visto il Regio decreto 30 dicembre 1923, n. 2994, sullo stato giuridico e sul trattamento economico dei salariati statali;
 
  
  
  
 
  
- giuridico e sul trattamento economico dei salariati statali;
-
- 
-
  
  
- 
- Visto il Regio decreto 19 aprile 1923, n. 945, sul riordinamento delle maestranze borghesi dipendenti dai Ministeri della guerra e
+ Visto il Regio decreto 19 aprile 1923, n. 945, sul riordinamento delle maestranze borghesi dipendenti dai Ministeri della guerra e della marina, e successive modificazioni;
 
  
  
  
 
  
- della marina, e successive modificazioni;
-
- 
-
  
  
- 
- Visto il Regio decreto 31 dicembre 1923, n. 3170, che apporta integrazioni e modificazioni al Regio decreto 14 giugno 1923, n.
+ Visto il Regio decreto 31 dicembre 1923, n. 3170, che apporta integrazioni e modificazioni al Regio decreto 14 giugno 1923, n. 1281;
 
  
  
- 
-
- 
- 1281;
-
  
 
  
@@ -267,7 +252,10 @@ VITTORIO EMANUELE III
  
  
 
- &laquo;Non sono comprese tra le assenze di cui alle precedenti lettere b), c) e d) quelle dei salariati allontanati dagli stabilimenti per provvedimenti di cautela sanitaria&raquo;; 
+ &laquo;Non sono comprese tra le assenze di cui alle precedenti lettere b), c) e d) quelle dei salariati allontanati dagli stabilimenti 
+ ((per provvedimenti collettivi di cautela sanitaria, causati da epidemie))
+
+ &raquo;; 
  
 
  
@@ -327,13 +315,19 @@ VITTORIO EMANUELE III
  
  
 
- Gli operai permanenti e gli incaricati stabili in servizio al 1° luglio 1924, che risulteranno in eccedenza al numero da fissarsi ai sensi dei precedenti art. 4 e 6, saranno licenziati, entro sessanta giorni dalla data medesima&raquo;; 
+ Gli operai permanenti e gli incaricati stabili in servizio al 
+ ((1° gennaio 1925))
+
+ , che risulteranno in eccedenza al numero da fissarsi ai sensi dei precedenti art. 4 e 6, saranno licenziati, entro sessanta giorni dalla data medesima&raquo;; 
  
 
  
  
 
- t) al primo comma dell'art. 79, la data del &laquo;30 aprile 1924&raquo;, è sostituita da quella del &laquo;15 luglio 1924&raquo;, ed è soppresso, inoltre, il riferimento all'art. 58; 
+ t) al primo comma dell'art. 79, la data del &laquo;30 aprile 1924&raquo;, è sostituita da quella del &laquo;
+ ((16 ottobre 1924))
+
+ &raquo;, ed è soppresso, inoltre, il riferimento all'art. 58; 
  
 
  
@@ -345,7 +339,10 @@ VITTORIO EMANUELE III
  
  
 
- &laquo;Con decreti dei singoli Ministri, da emanarsi di concerto col Ministro delle finanze entro il 31 agosto 1924, sarà provveduto a uniformare i regolamenti dei salariati delle singole amministrazioni dello Stato alle disposizioni del presente decreto e dei decreti previsti al precedente art. 79&raquo;; 
+ &laquo;Con decreti dei singoli Ministri, da emanarsi di concerto col Ministro delle finanze entro il 
+ ((30 novembre 1924))
+
+ , sarà provveduto a uniformare i regolamenti dei salariati delle singole amministrazioni dello Stato alle disposizioni del presente decreto e dei decreti previsti al precedente art. 79&raquo;; 
  
 
  
@@ -388,6 +385,15 @@ VITTORIO EMANUELE III
  
 
  2° una quota di L. 2.16 per gli operai di cui al precedente art. 8 e di L. 2.60 per gli altri, in corrispondenza alla riduzione delle indennità di caro viveri, stabilita dall'art. 9; 
+ 
+
+ 
+ 
+
+ 
+ (( 3° una quota corrispondente al 30 % della paga raggiunta al 30 giugno 1924 pei soli capi operai, capi d'arte, sorveglianti e simili e per le operaie di controllo o sorveglianza))
+
+ . 
  
 
  
@@ -525,17 +531,25 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
- 
- GRUPPI Classi delle retribuzioni mensili Aumenti quadriennali delle retribuzioni mensili 
+ =================================================================
  
 
+ | | | Aumenti |
  
+
+ | | | quadriennali |
  
+
+ | |Classi delle| delle |
+ 
+
+ | |retribuzioni| retribuzioni |
+ 
+
+ | GRUPPI | mensili | mensili |
+ 
+
+ +========+=============+============+=======+======+============+
  
 
  
