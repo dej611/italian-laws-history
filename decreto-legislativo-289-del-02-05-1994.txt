@@ -1,0 +1,198 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76 e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti gli articoli 1 e 53 della legge 22 febbraio 1994, n. 146, recante delega al Governo per l'attuazione della direttiva n. 92/44/CEE del Consiglio del 9 giugno 1992 sull'applicazione della fornitura di una rete aperta (Open Network Provision - ONP) alle linee affittate;
+
+ 
+ 
+ 
+
+ 
+ Ritenuta l'opportunità di dare attuazione alla predetta direttiva, essendo scaduto il relativo termine;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta dei Ministri per il coordinamento delle politiche comunitarie e per gli affari regionali, delle poste e delle telecomunicazioni, del commercio con l'estero e, ad interim, dell'industria, del commercio e dell'artigianato, di concerto con i Ministri per le riforme elettorali ed istituzionali e, ad interim, degli affari esteri, di grazia e giustizia e del tesoro;
+
+ 
+
+ EMANA
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto legislativo si intendono per: 
+ 
+
+ 
+ 
+
+ a) "linee affittate", le infrastrutture di telecomunicazioni fornite nel contesto della costituzione, dello sviluppo e dell'esercizio della rete pubblica di telecomunicazioni che offrano una capacità di trasmissione trasparente tra punti terminali di rete, esclusa la commutazione su richiesta (funzioni di commutazione, che l'utente può controllare nell'ambito della fornitura di linee affittate); 
+
+ b) "comitato ONP", il comitato di cui agli articoli 9 e 10 della direttiva 90/387/CEE, trasposta con decreto legislativo 9 febbraio 1993, n. 55; 
+
+ c) "utenti", gli utenti finali e i fornitori di servizi, ivi inclusi gli organismi di telecomunicazioni che forniscono servizi che sono o possono essere forniti anche da altri; 
+
+ d) "semplice rivendita di capacità", la fornitura al pubblico, come servizio distinto, della trasmissione di dati su linee affittate in cui la commutazione, il trattamento, l'archiviazione di dati o la conversione di protocollo sono compresi solo nella misura necessaria per la trasmissione in tempo reale in partenza e a destinazione della rete pubblica commutata; 
+
+ e) "organismi di telecomunicazioni", gli enti pubblici o privati ai quali lo Stato italiano concede diritti speciali o esclusivi per l'installazione di reti pubbliche di telecomunicazioni e, qualora necessario, per la fornitura di servizi pubblici di telecomunicazioni; 
+
+ f) "diritti speciali o esclusivi", i diritti concessi dallo Stato italiano ad uno o più organismi pubblici o privati mediante ogni strumento legislativo, regolamentare o amministrativo che riservi loro la fornitura di un servizio o la gestione di una determinata attività; 
+
+ g) "rete pubblica di telecomunicazioni", l'infrastruttura pubblica di telecomunicazioni che permette la trasmissione di segnali fra punti terminali definiti della rete, mediante fili, ponti radio, mezzi ottici o altri mezzi elettromagnetici; 
+
+ h) "servizi di telecomunicazioni", i servizi la cui fornitura consiste totalmente o parzialmente nella trasmissione e nell'instradamento di segnali su una rete di telecomunicazioni mediante procedimenti di telecomunicazioni, ad eccezione della radiodiffusione e della televisione; 
+
+ i) "servizi pubblici di telecomunicazioni", i servizi di telecomunicazioni affidati dallo Stato italiano ad uno o più organismi di telecomunicazioni; 
+
+ l) "punto terminale di rete", l'insieme delle connessioni fisiche e delle specifiche tecniche d'accesso che fanno parte della rete pubblica di telecomunicazioni e sono necessarie per poter accedere alla rete pubblica di telecomunicazioni e comunicare efficacemente per il suo tramite; 
+
+ m) "requisiti fondamentali", i motivi di interesse generale e di natura non economica, che possono indurre lo Stato italiano a limitare l'accesso alla rete pubblica o ai servizi pubblici di telecomunicazioni. Tali motivi sono la sicurezza di funzionamento della rete, il mantenimento della sua integrità e, nei casi in cui sono giustificate, l'interoperabilità dei servizi e la protezione dei dati. La protezione dei dati può comprendere la tutela dei dati personali, la riservatezza delle informazioni trasmesse o memorizzate, nonchè la tutela della sfera privata; 
+
+ n) "servizio di telefonia vocale", la fornitura al pubblico del trasporto diretto della voce in tempo reale, attraverso una o più reti pubbliche commutate che consentono ad ogni utente di utilizzare l'apparecchiatura collegata ad un punto terminale di una rete per comunicare con un altro utente che utilizza un'apparecchiatura collegata con un altro punto terminale; 
+
+ o) "servizio di trasmissione dati a commutazione di pacchetto e di circuito", la fornitura al pubblico del trasporto diretto di dati attraverso una o più reti pubbliche commutate che consentono a un'apparecchiatura collegata ad un punto terminale di una rete di comunicare con un'apparecchiatura collegata ad un altro punto terminale; 
+
+ 
+ p) "condizioni di fornitura di una rete aperta", il complesso delle condizioni, armonizzate in conformità alle disposizioni di cui al presente decreto legislativo, che riguardano l'accesso aperto ed efficace alle reti pubbliche e, se del caso, ai servizi pubblici di telecomunicazioni nonchè l'uso efficace di queste reti e di questi servizi. Senza pregiudizio per la loro applicazione caso per caso, le condizioni di fornitura della rete aperta possono comprendere in particolare condizioni armonizzate relative a: 
+ 
+
+ 1) interfacce tecniche, compresa la definizione e la realizzazione dei punti terminali di rete, laddove richiesto; 
+ 
+
+ 2) condizioni di impiego, compreso l'eventuale accesso alle frequenze; 
+ 
+
+ 3) principi tariffari; 
+ 
+
+ q) "specifica tecnica", la specificazione che figura in un documento che definisce le caratteristiche richieste di un prodotto, quali i livelli di qualità, le prestazioni, la sicurezza e le dimensioni, comprese le prescrizioni applicabili ad un prodotto per quanto riguarda la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, il marchio e l'etichettatura; 
+
+ r) "norma tecnica", la specifica tecnica adottata da un organismo normativo riconosciuto ai fini di un'applicazione ripetuta o continua, la cui osservanza non è obbligatoria; 
+
+ s) "regola tecnica comune", la regola tecnica derivata da norme tecniche internazionali o europee valide nei Paesi della Comunità e contenente solo i requisiti essenziali, la cui osservanza è obbligatoria; 
+
+ 
+ t) "apparecchiatura terminale", un'apparecchiatura destinata ad essere collegata mediante un sistema cablato, radio, ottico o altro sistema elettromagnetico, ad una rete pubblica di telecomunicazioni, vale a dire: essere collegata direttamente ad un punto terminale di una rete pubblica di telecomunicazioni, in quanto collegata direttamente o indirettamente ad un suo punto terminale per la trasmissione, il trattamento e la ricezione di informazioni. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ AVVERTENZA:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - L'art. 76 della Costituzione regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non può avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
+ 
+
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
+ 
+
+ - La legge n. 146/1994 reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee (legge comunitaria 1993). Gli articoli 1 e 53 così recitano:
+ 
+
+ "Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo è delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese nell'elenco di cui all'allegato A.
+ 
+
+ 2. Se per effetto di direttive notificate nel secondo semestre dell'anno di cui al comma 1 la disciplina risultante da direttive comprese nell'elenco è modificata, senza che siano introdotte nuove norme di principio, la scadenza del termine è prorogata di sei mesi.
+ 
+
+ 3. I decreti legislativi sono adottati, nel rispetto dell'art. 14 della legge 23 agosto 1988, n. 400, su proposta del Ministro per il coordinamento delle politiche comunitarie congiuntamente ai Ministri con competenza istituzionale prevalente per la materia e di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro, se non proponenti.
+ 
+
+ 4. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, a seguito di deliberazione preliminare del Consiglio dei Ministri, sono trasmessi alla Camera dei deputati ed al Senato della Repubblica perchè su di essi sia espresso, entro quaranta giorni dalla data di trasmissione, il parere delle Commissioni competenti per materia. Decorso tale termine i decreti sono adottati.
+ 
+
+ 5. Entro due anni dalla data di entrata in vigore della presente legge, il Governo può emanare disposizioni integrative e correttive, nel rispetto dei principi e criteri direttivi da essa fissati, con la procedura indicata nei commi 3 e 4".
+ 
+
+ "Art. 53 (Fornitura di linee affittate su reti pubbliche di telecomunicazione: criteri di delega). - 1. L'attuazione della direttiva del Consiglio 92/44/CEE sarà informata ai seguenti principi e criteri direttivi:
+ 
+
+ a) garantire, in ragione della domanda, la realizzazione e la fornitura di un insieme minimo di linee affittate da mettere a disposizione dell'utenza in condizioni di libero accesso;
+ 
+
+ b) disciplinare, nel rispetto di criteri di trasparenza, la procedura per la cessazione delle offerte di linee affittate di cui all'art. 5 della direttiva e la procedura di controllo di cui all'art. 8 della direttiva stessa;
+ 
+
+ c) disciplinare, per quanto riguarda gli aspetti relativi all'ordinamento nazionale, la procedura di conciliazione di cui all'art. 12 della direttiva, anche in rapporto agli ordinari rimedi giurisdizionali".
+ 
+
+ Note all'art. 1:
+ 
+
+ - La direttiva 90/387/CEE è pubblicata in G.U.C.E. n. L 192 del 24 luglio 1990. Gli articoli 9 e 10 così recitano:
+ 
+
+ "Art. 9. - 1. La Commissione è assistita da un comitato consultivo, composto dai rappresentanti degli Stati membri e presieduto dal rappresentante della Commissione.
+ 
+
+ Il comitato consulta segnatamente i rappresentanti degli organismi di telecomunicazione, degli utenti, dei consumatori, dei fabbricanti e dei fornitori di servizi. Il comitato stabilisce il proprio regolamento interno.
+ 
+
+ 2. Il rappresentante della Commissione sottopone al comitato un progetto delle misure da adottare. Il comitato, entro un termine che il presidente può fissare in relazione all'urgenza del problema, formula il suo parere sul progetto, eventualmente procedendo a votazione.
+ 
+
+ Il parere è iscritto a verbale; inoltre, ciascuno Stato membro ha il diritto di chiedere che la sua posizione figuri a verbale.
+ 
+
+ La Commissione tiene in massima considerazione il parere formulato dal comitato. Lo informa del modo in cui ha tenuto conto di detto parere".
+ 
+
+ "Art. 10. - 1. In deroga all'art. 9, per le questioni contemplate dall'art. 3, paragrafo 5 e all'art. 5, paragrafo 3, si applica la seguente procedura.
+ 
+
+ 2. Il rappresentante della Commissione sottopone al comitato un progetto delle misure da adottare. Il comitato formula il proprio parere sul progetto entro un termine che il presidente può stabilire in relazione all'urgenza del problema. Il comitato si pronuncia alla maggioranza prevista dall'art. 148, paragrafo 2 del trattato, nel caso di decisioni che il Consiglio deve adottare su proposta della Commissione. Ai voti degli Stati membri è attribuita la ponderazione di cui a tale articolo. Il presidente non partecipa al voto.
+ 
+
+ 3. La Commissione adotta le misure proposte quando esse sono conformi al parere del comitato.
+ 
+
+ 4. Quando le misure proposte non sono conformi al parere formulato dal comitato, o in mancanza di parere, la Commissione sottopone senza indugi al Consiglio una proposta relativa alle misure da adottare. Il Consiglio delibera a maggioranza qualificata.
+ 
+
+ 5. Se alla scadenza di un termine di tre mesi a decorrere dalla data in cui è stato adito, il Consiglio non si è pronunciato, la Commissione adotta le misure proposte".
+ 
+
+ - Il D.Lgs. n. 55/1993 reca attuazione della direttiva 90/387/CEE concernente istituzione del mercato interno per i servizi delle telecomunicazioni mediante la realizzazione della fornitura di una rete aperta di telecomunicazioni.
