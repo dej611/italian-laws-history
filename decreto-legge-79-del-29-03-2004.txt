@@ -38,7 +38,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il Registro italiano dighe, sulla base del registro degli iscritti di cui all'articolo 6 della legge 1° agosto 2002, n. 166, nonchè delle risultanze dell'attività di vigilanza di cui al decreto del Presidente della Repubblica 1° novembre 1959, n. 1363, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua, predisponendo apposito elenco con l'indicazione delle caratteristiche tecniche e dello stato delle opere, le dighe fuori esercizio, aventi le caratteristiche di cui all'articolo 1 del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, per le quali non sia stata rinnovata o richiesta la concessione e per le quali non abbia avuto luogo la dismissione definitiva della diga, così da costituire una condizione di rischio per le popolazioni a valle. Ai fini delle disposizioni di cui al presente comma, per dismissione definitiva di una diga si intende la demolizione anche parziale dell'opera di sbarramento purchè risulti garantita la sicurezza del sito.
+ 1. Il Registro italiano dighe, sulla base del registro degli iscritti di cui all'articolo 6 della legge 1° agosto 2002, n. 166, nonchè delle risultanze dell'attività di vigilanza 
+ ((prevista dal regolamento))
+
+ di cui al decreto del Presidente della Repubblica 1° novembre 1959, n. 1363, 
+ ((entro sessanta))
+
+ giorni dalla data di entrata in vigore del presente decreto, individua, predisponendo apposito elenco con l'indicazione delle caratteristiche tecniche e dello stato delle opere, le dighe fuori esercizio, aventi le caratteristiche di cui all'articolo 1 del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, per le quali non sia stata rinnovata o richiesta la concessione e per le quali non abbia avuto luogo la dismissione definitiva della diga, così da costituire una condizione di rischio per le popolazioni a valle. Ai fini delle disposizioni di cui al presente comma, per dismissione definitiva di una diga si intende la demolizione anche parziale dell'opera di sbarramento purchè risulti garantita la sicurezza del sito.
  
 
  
@@ -46,4 +52,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. L'elenco delle opere di cui al comma 1 è comunicato dal Registro italiano dighe alle regioni, alle province autonome e alle autorità di bacino territorialmente interessate, anche in relazione al rischio idraulico a valle. Le regioni, le province autonome e le autorità di bacino segnalano al Registro italiano dighe la presenza nel loro territorio di eventuali altre dighe fuori esercizio, aventi le caratteristiche di cui al comma 1, tenendo anche conto delle risultanze dell'attività straordinaria di ricognizione lungo i corsi d'acqua di cui all'articolo 2, comma 1, del decreto-legge 12 ottobre 2000, n. 279, convertito, con modificazioni, dalla legge 11 dicembre 2000, n. 365.
+ 2. L'elenco delle opere di cui al comma 1 è comunicato dal Registro italiano dighe alle regioni, alle province autonome 
+ ((, alle prefetture-uffici territoriali del Governo))
+
+ e alle autorità di bacino territorialmente interessate, anche in relazione al rischio idraulico a valle. Le regioni, le province autonome e le autorità di bacino segnalano al Registro italiano dighe 
+ ((, entro trenta giorni dalla comunicazione dell'elenco delle opere di cui al comma 1,))
+
+ la presenza nel loro territorio di eventuali altre dighe fuori esercizio, aventi le caratteristiche di cui al comma 1, tenendo anche conto delle risultanze dell'attività straordinaria di ricognizione lungo i corsi d'acqua di cui all'articolo 2, comma 1, del decreto-legge 12 ottobre 2000, n. 279, convertito, con modificazioni, dalla legge 11 dicembre 2000, n. 365.
