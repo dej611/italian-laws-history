@@ -1,0 +1,3233 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA CHE POSSONO ESSERE UTILIZZATE NELLA FABBRICAZIONE DI MATERIALI E OGGETTI DI MATERIA PLASTICA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INTRODUZIONE GENERALE 
+ 
+
+ 
+ 
+
+ 1. Questo allegato contiene un elenco di monomeri e di altre sostanze di partenza. L'elenco include: 
+ 
+
+ - sostanze sottoposte al processo di polimerizzazione attraverso policondensazione, poliaddizione o qualsiasi altro procedimento simile, atto ad ottenere macromolecole; 
+ 
+
+ - sostanze macromolecolari naturali o sintetiche impiegate nella fabbricazione di macromolecole modificate qualora i monomeri o le altre sostanze di partenza necessari per sintetizzarle non siano inclusi nell'elenco; 
+ 
+
+ - sostanze utilizzate per modificare sostanze macromolecolari naturali o sintetiche preesistenti. 
+ 
+
+ 2. Le seguenti sostanze non sono incluse anche se sono usate intenzionalmente e sono autorizzate: 
+ 
+
+ sali (inclusi sali doppi e sali acidi) di alluminio, ammonio, calcio, ferro, magnesio, potassio e sodio di acidi, fenoli o alcoli autorizzati. Tuttavia, nomi contenenti i termini "... acido/i, sale," compaiono nella lista se non e/sono menzionato/i il/i corrispondente/i acido/i libero/i; 
+ 
+
+ sali (inclusi sali doppi e sali acidi) di zinco di acidi, fenoli o alcool autorizzati. A questi sali si applica un LMS di gruppo = 25 mg/kg (espresso come zinco)
+ 
+
+ La stessa restrizione dello Zn si applica a:
+ 
+
+ i) sostanze il cui nome contiene i termini " acido/i, sali," che compaiono negli elenchi, se non e/sono menzionato/i il/i corrispondente/i acido/i libero/i;
+ 
+
+ ii) sostanze citate nella nota 38 dell'allegato VI.
+ 
+
+ 3. L'elenco non contiene anche le seguenti sostanze sebbene esse possano risultare presenti: 
+ 
+
+ a) sostanze che potrebbero essere presenti nel prodotto finito quali: 
+ 
+
+ impurezze delle sostanze utilizzate; 
+ 
+
+ intermedi di reazione; 
+ 
+
+ prodotti di decomposizione; 
+ 
+
+ b) oligomeri e sostanze macromolecolari naturali o sintetiche nonchè loro miscele qualora i monomeri o le sostanze di partenza necessarie per sintetizzarli siano inclusi nell'elenco; 
+ 
+
+ c) miscele delle sostanze autorizzate. 
+ 
+
+ 4. Le sostanze devono essere di buona qualità tecnica. 
+ 
+
+ 5. L'elenco contiene le seguenti informazioni: 
+ 
+
+ colonna 1 (Numero PM/REF): il numero di riferimento CEE per i materiali da imballaggio riguardante la sostanza riportata nell'elenco; 
+ 
+
+ colonna 2 (Numero CAS): il numero CAS (Chemical Abstracts Service); 
+ 
+
+ colonna 3 (Nome): la denominazione chimica; 
+ 
+
+ colonna 4 (Restrizioni e/o specifiche): può comprendere: 
+ 
+
+ il limite di migrazione specifica (LMS); la quantità massima di sostanza ammessa nel materiale od oggetto 
+ 
+
+ finito (QM); 
+ 
+
+ la quantità massima di sostanza ammessa nel materiale ed oggetto 
+ 
+
+ finito espressa in mg/6 dm2 di superficie 
+ 
+
+ a contatto con i prodotti 
+ 
+
+ alimentari (QMA); 
+ 
+
+ ogni altra restrizione specificamente 
+ 
+
+ indicata; 
+ 
+
+ ogni altro tipo di specifiche relative 
+ 
+
+ alla sostanza o al 
+ 
+
+ polimero; 
+ 
+
+ 6. Qualora una sostanza appaia nell'elenco come sostanza singola ma rientri anche in un termine più generico, a tale sostanza si applicano le restrizioni che la riguardano in quanto sostanza singola. 
+ 
+
+ 7. Nel caso di incongruenza tra il numero CAS e la denominazione chimica, è quest'ultima che prevale. Nel caso di incongruenza tra il numero CAS riportato in EINECS e quello riportato nel registro CAS, è quest'ultimo che prevale. 
+ 
+
+ 8. Nella colonna 4 della tabella sono utilizzate alcune abbreviazioni o espressioni aventi il seguente significato: 
+ 
+
+ LR: limite di rivelabilità del metodo di analisi; 
+ 
+
+ PF: prodotto finito; 
+ 
+
+ NCO: gruppo isocianico; 
+ 
+
+ NR: non rilevabile. 
+ 
+
+ Ai fini della presente direttiva s'intende per "non rilevabile" che la sostanza non deve essere rilevabile con uno dei metodi analitici riconosciuti che dovrebbero rilevare la sostanza al limite di rilevabilità (LR) indicato. Se un tale metodo attualmente non esiste, può essere impiegato un metodo analitico avente caratteristiche di qualità adeguate al limite di rilevabilità in attesa dello sviluppo di un metodo riconosciuto 
+ 
+
+ QM=Quantità massima di sostanza &laquo;residua&raquo; ammessa nel materiale o nell'oggetto. Ai fini del presente decreto, la quantità di sostanza nel materiale o nell'oggetto è determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa che venga messo a punto un metodo convalidato. 
+ 
+
+ QM(T) = Quantità massima di sostanza "residua" ammessa nel
+ 
+
+ materiale o oggetto espressa come quantità totale del gruppo o della(e) sostanza(e) indicata(e). La sostanza nel materiale o nell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un 
+ 
+
+ metodo convalidato. 
+ 
+
+ QMA=Quantità massima di sostanza "residua" ammessa nel materiale o oggetto finito espressa in mg per 6 dm2 della superficie a contatto con i prodotti alimentari. La quantità della sostanza nella superficie del materiale o dell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di 
+ 
+
+ elaborazione di un metodo convalidato; 
+ 
+
+ QMA(T)=Quantità massima di sostanza "residua" ammessa nel materiale o oggetto espressa in mg del totale del gruppo della(e) sostanza(e) indicata(e) per 6 dm2 della superficie a contatto con i prodotti alimentari. La quantità della sostanza nella superficie del materiale o dell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un 
+ 
+
+ metodo convalidato. 
+ 
+
+ LMS=Limite di migrazione specifica nel prodotto o simulante alimentare, qualora non diversamente specificato. La migrazione specifica della sostanza deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un 
+ 
+
+ metodo convalidato. 
+ 
+
+ LMS(T) = Limite di migrazione specifica nel prodotto o simulante
+ 
+
+ alimentare, espresso come totale del gruppo o sostanza(e) indicata(e). La migrazione specifica della sostanza deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, può essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in 
+ 
+
+ attesa di elaborazione di un metodo convalidato.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SEZIONE A 
+ 
+
+ 
+ 
+
+ ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ Numero | Numero | N O M E | R E S T R I Z I O N I
+ 
+
+ 
+ PM/REF. | CAS | |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ (1) | (2) | (3) | (4)
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 10060 000075-07-0 Acetaldeide
+ 
+
+ 
+ 10120 000108-05-4 Acetato di vinile LMS = 12 mg/kg
+ 
+
+ 
+ 10210 000074-86-2 Acetilene
+ 
+
+ 
+ 24070 073138-82-6 Acidi di colofonia
+ 
+
+ 
+ 17170 061788-47-4 Acidi grassi del-
+ 
+
+ 
+ l'olio di cocco
+ 
+
+ 
+ 17200 068308-53-2 Acidi grassi del-
+ 
+
+ 
+ l'olio di soia
+ 
+
+ 
+ 17230 061790-12-3 Acidi grassi di
+ 
+
+ 
+ tallolio
+ 
+
+ 
+ 10030 000514-10-3 Acido abietico
+ 
+
+ 
+ 10090 000064-19-7 Acido acetico
+ 
+
+ 
+ 10690 000079-10-7 Acido acrilico
+ 
+
+ 
+ 12130 000124-04-9 Acido adipico
+ 
+
+ 
+ 12788 002432-99-7 Acido 11-amminoun- LMS = 5 mg/kg
+ 
+
+ 
+ decanoico
+ 
+
+ 
+ 12820 000123-99-9 Acido azelaico
+ 
+
+ 
+ 13090 000065-85-0 Acido benzoico
+ 
+
+ 
+ 14140 000107-92-6 Acido butirrico
+ 
+
+ 
+ 14320 000124-07-2 Acido caprilico
+ 
+
+ 
+ 14680 000077-92-9 Acido citrico
+ 
+
+ 
+ 18250 000115-28-6 Acido esacloroen- LMS=NR (LR=0,01 mg/kg)
+ 
+
+ 
+ dometilentetrai-
+ 
+
+ 
+ droftalico
+ 
+
+ 
+ 23170 007664-38-2 Acido fosforico Vedi "Acido tereftalico"
+ 
+
+ 
+ Acido ftalico
+ 
+
+ 
+ 23200 000088-99-3 Acido o-ftalico
+ 
+
+ 
+ 17290 000110-17-8 Acido fumarico
+ 
+
+ 
+ 18010 000110-94-1 Acido glutarico
+ 
+
+ 
+ 18880 000099-96-7 Acido p-idrossi-
+ 
+
+ 
+ benzoico
+ 
+
+ 
+ 19470 000143-07-7 Acido laurico
+ 
+
+ 
+ 19540 000110-16-7 Acido maleico LMS(T) = 30 mg/kg
+ 
+
+ 
+ 20020 000079-41-4 Acido metacrilico
+ 
+
+ 
+ 22350 000544-63-8 Acido miristico
+ 
+
+ 
+ 22763 000112-80-1 Acido oleico
+ 
+
+ 
+ 22780 000057-10-3 Acido palmitico
+ 
+
+ 
+ 23890 000079-09-4 Acido propionico
+ 
+
+ 
+ 24270 000069-72-7 Acido salicilico
+ 
+
+ 
+ 24280 000111-20-6 Acido sebacico
+ 
+
+ 
+ 24887 006362-79-4 Acido 5-solfoisof- LMS = 0,05 mg/kg
+ 
+
+ 
+ talico, sale mono-
+ 
+
+ 
+ sodico
+ 
+
+ 
+ 24550 000057-11-4 Acido stearico
+ 
+
+ 
+ 24820 000110-15-6 Acido succinico
+ 
+
+ 
+ 24910 000100-21-0 Acido tereftalico LMS = 7,5 mg/kg
+ 
+
+ 
+ 10630 000079-06-1 Acrilammide LMS = NR (LR=0,01 mg/kg)
+ 
+
+ 
+ 10780 000141-32-2 Acrilato di n. LMS = NR (LR=0,01 mg/kg)
+ 
+
+ 
+ butile
+ 
+
+ 
+ 10810 002998-08-5 Acrilato di sec-
+ 
+
+ 
+ butile
+ 
+
+ 
+ 10840 001663-39-4 Acrilato di terz-
+ 
+
+ 
+ butile
+ 
+
+ 
+ 11470 000140-88-5 Acrilato di etile
+ 
+
+ 
+ 000818-61-1 Acrilato di idros- Vedi "Monoacrilato di
+ 
+
+ 
+ sietile etilenglicole"
+ 
+
+ 
+ 11590 000106-63-8 Acrilato di isobu-
+ 
+
+ 
+ tile
+ 
+
+ 
+ 11680 000689-12-3 Acrilato di isopro-
+ 
+
+ 
+ pile
+ 
+
+ 
+ 11710 000096-33-3 Acrilato di metile
+ 
+
+ 
+ 11980 000925-60-0 Acrilato di propile
+ 
+
+ 
+ 12100 000107-13-1 Acrilonitrile LMS = non rilevabile
+ 
+
+ 
+ (LR = 0,020 mg/kg,
+ 
+
+ 
+ tolleranza analitica
+ 
+
+ 
+ compresa)
+ 
+
+ 
+ 12310 Albumina
+ 
+
+ 
+ 12340 Albumina coagulata
+ 
+
+ 
+ con formaldeide
+ 
+
+ 
+ 13150 000100-51-6 Alcool benzilico
+ 
+
+ 
+ 12670 002855-13-2 1-Ammino-3-ammino- LMS = 6 mg/kg
+ 
+
+ 
+ metil-3,5,5-trimetil
+ 
+
+ 
+ -cicloesano
+ 
+
+ 
+ 10150 000108-24-7 Anidride acetica
+ 
+
+ 
+ 12280 002035-75-8 Anidride adipica
+ 
+
+ 
+ 12970 004196-95-6 Anidride azelaica
+ 
+
+ 
+ 14170 000106-31-0 Anidride butirrica
+ 
+
+ 
+ 18280 000115-27-5 Anidride esacloro- LMS = NR (LR=0,01 mg/kg)
+ 
+
+ 
+ endometilentetra-
+ 
+
+ 
+ idroftalica
+ 
+
+ 
+ 23380 000085-44-9 Anidride ftalica
+ 
+
+ 
+ 18070 000108-55-4 Anidride glutarica
+ 
+
+ 
+ 19960 000108-31-6 Anidride maleica LMS(T) = 30 mg/kg
+ 
+
+ 
+ (espresso come acido
+ 
+
+ 
+ maleico)
+ 
+
+ 
+ 21460 000760-93-0 Anidride metacrilica
+ 
+
+ 
+ 23950 000123-62-6 Anidride propionica
+ 
+
+ 
+ 24430 002561-88-8 Anidride sebacica
+ 
+
+ 
+ 24850 000108-30-5 Anidride succinica
+ 
+
+ 
+ 13000 001477-55-0 1,3-Benzendimetanam-LMS = 0,05 mg/kg
+ 
+
+ 
+ mina
+ 
+
+ 
+ 000080-05-7 Bisfenolo A Vedi "2,2-Bis(4-
+ 
+
+ 
+ idrossifenil)propano"
+ 
+
+ 
+ 13530 038103-06-9 Bis(anidride LMS = 0,05 mg/kg
+ 
+
+ 
+ ftalica) di 2,2-bis
+ 
+
+ 
+ (4-idrossifenil)
+ 
+
+ 
+ propano
+ 
+
+ 
+ 13614 038103-06-9 Bis(anidride fta- Cfr 13530
+ 
+
+ 
+ lica) di bisfenolo
+ 
+
+ 
+ A
+ 
+
+ 
+ 13480 000080-05-7 2,2-Bis(4-idrossi- LMS = 3 mg/kg
+ 
+
+ 
+ fenil)propano
+ 
+
+ 
+ 000077-99-6 2,2-Bis(idrossi- Vedi "1,1,1-Trimetilol-
+ 
+
+ 
+ metil)-1-butanolo propano"
+ 
+
+ 
+ 13390 000105-08-8 1,4-Bis(idrossime-
+ 
+
+ 
+ til)cicloesano
+ 
+
+ 
+ 005124-30-1 Bis(4-isocianato- Vedi "4,4-Diisocianato
+ 
+
+ 
+ cicloesil)metano di dicicloesilmetano"
+ 
+
+ 
+ 13600 047465-97-4 3,3-Bis(3-metil-4- LMS = 1,8 mg/kg
+ 
+
+ 
+ idrossifenil)-2-
+ 
+
+ 
+ indolinone
+ 
+
+ 
+ 13630 000106-99-0 Butadiene QM = 1 mg/kg nel PF o
+ 
+
+ 
+ LMS = non rilevabile
+ 
+
+ 
+ (LR = 0,02 mg/kg,
+ 
+
+ 
+ tolleranza analitica
+ 
+
+ 
+ compresa)
+ 
+
+ 
+ 13690 000107-88-0 1,3-Butandiolo
+ 
+
+ 
+ 13840 000071-36-3 1-Butanolo
+ 
+
+ 
+ 13870 000106-98-9 1-Butene
+ 
+
+ 
+ 13900 000107-01-7 2-Butene
+ 
+
+ 
+ 14110 000123-72-8 Butirraldeide
+ 
+
+ 
+ 14200 000105-60-2 Caprolattame LMS(T) = 15 mg/kg
+ 
+
+ 
+ 14230 002123-24-2 Caprolattame, sale LMS(T) = 15 mg/kg
+ 
+
+ 
+ di sodio (espresso come capro-
+ 
+
+ 
+ lattane)
+ 
+
+ 
+ 14500 009004-34-6 Cellulosa
+ 
+
+ 
+ 000105-08-8 1,4-Cicloesandi- Vedi "1,4-Bis(idros-
+ 
+
+ 
+ metanolo simetil)cicloesano"
+ 
+
+ 
+ 14530 007782-50-5 Cloro
+ 
+
+ 
+ 000106-89-8 1-Cloro-2,3- Vedi "Epicloridrina"
+ 
+
+ 
+ epossipropano
+ 
+
+ 
+ 14380 000075-44-5 Cloruro di carbo- QM = 1 mg/kg nel PF
+ 
+
+ 
+ nile
+ 
+
+ 
+ 26050 000075-01-4 Cloruro di vinile Vedi D.M. 2 dicembre
+ 
+
+ 
+ 1980 e D.M. 2 giugno
+ 
+
+ 
+ 1982
+ 
+
+ 
+ 26110 000075-35-4 Cloruro di vinili- QM = 5 mg/kg nel PF o
+ 
+
+ 
+ dene LMS = non rilevabile
+ 
+
+ 
+ (LR = 0,05 mg/kg)
+ 
+
+ 
+ 24100 008050-09-7 Colofonia
+ 
+
+ 
+ 14710 000108-39-4 m-Cresolo
+ 
+
+ 
+ 14740 000095-48-7 o-Cresolo
+ 
+
+ 
+ 14770 000106-44-5 p-Cresolo
+ 
+
+ 
+ 15100 000112-30-1 1-Decanolo
+ 
+
+ 
+ 15250 000110-60-1 1,4-Diamminobutano
+ 
+
+ 
+ 000124-09-4 1,6-Diamminoesano Vedi "Esametilendiam-
+ 
+
+ 
+ mina"
+ 
+
+ 
+ 000107-15-3 1,2-Diamminoetano Vedi "Etilendiammina"
+ 
+
+ 
+ 15760 000111-46-6 Dietilenglicole LMS(T) = 30 mg/kg solo
+ 
+
+ 
+ o con etilenglicole
+ 
+
+ 
+ 15880 000120-80-9 1,2-Diidrossiben- LMS = 6 mg/kg
+ 
+
+ 
+ zene
+ 
+
+ 
+ 15910 000108-46-3 1,3-Diidrossiben- LMS = 2,4 mg/kg
+ 
+
+ 
+ zene
+ 
+
+ 
+ 15940 000123-31-9 1,4-Diidrossiben- LMS = 0,6 mg/kg
+ 
+
+ 
+ zene
+ 
+
+ 
+ 15970 000611-99-4 4,4'-Diidrossiben- LMS = 6 mg/kg
+ 
+
+ 
+ zofenone
+ 
+
+ 
+ 16000 000092-88-6 4,4'-Diidrossidi- LMS = 6 mg/kg
+ 
+
+ 
+ fenile
+ 
+
+ 
+ 16570 004128-73-8 4,4'-Diisocianato QM(T) = 1 mg/kg nel
+ 
+
+ 
+ dell'etere difeni- PF (espresso come NCO)
+ 
+
+ 
+ lico
+ 
+
+ 
+ 15700 005124-30-1 4,4'-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di dicicloesilme- (espresso come NCO)
+ 
+
+ 
+ tano
+ 
+
+ 
+ 16600 005873-54-1 2,4'-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di difenilmetano (espresso come NCO)
+ 
+
+ 
+ 16630 000101-68-8 4,4'-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di difenilmetano (espresso come NCO)
+ 
+
+ 
+ 18640 000822-06-0 Diisocianato di QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ esametilene (espresso come NCO)
+ 
+
+ 
+ 22420 003173-72-6 1,5-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di naftalene (espresso come NCO)
+ 
+
+ 
+ 25210 000584-84-9 2,4-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di toluene (espresso come NCO)
+ 
+
+ 
+ 25240 000091-08-7 2,6-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di toluene (espresso come NCO)
+ 
+
+ 
+ 25270 026747-90-0 2,4-Diisocianato QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ di toluene, dimero (espresso come NCO)
+ 
+
+ 
+ 16240 000091-97-4 4,4'-Diisocianato- QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ 3,3'-diaetildife- (espresso come NCO)
+ 
+
+ 
+ nile
+ 
+
+ 
+ 16150 000108-01-0 Dimetilamminoeta- LMS = 18 mg/kg
+ 
+
+ 
+ nolo
+ 
+
+ 
+ 16480 000126-58-9 Dipentaeritrite
+ 
+
+ 
+ 16660 000110-98-5 Dipropilenglicole
+ 
+
+ 
+ 16750 000106-89-8 Epicloridrina QM = 1 mg/kg nel PF
+ 
+
+ 
+ 18310 036653-82-4 1-Esadecanolo
+ 
+
+ 
+ 18430 000116-15-4 Esafluoropropilene LMS = NR (LR = 0,01
+ 
+
+ 
+ mg/kg)
+ 
+
+ 
+ 18460 000124-09-4 Esametilendiammina LMS = 2,4 mg/kg
+ 
+
+ 
+ 18670 000100-97-0 Esametilentetram- LMS(T) = 15 mg/kg
+ 
+
+ 
+ mina (espresso come
+ 
+
+ 
+ formaldeide)
+ 
+
+ 
+ 16780 000064-17-5 Etanolo
+ 
+
+ 
+ 13510 001675-54-3 Etere Bis(2,3- QM = 1 mg/kg nel PF
+ 
+
+ 
+ epossipropilico) o LMS = non rilevabile
+ 
+
+ 
+ di 2,2-bis (4-idros-(LR= 0,020 mg/kg,
+ 
+
+ 
+ sifenil) propano tolleranza analitica
+ 
+
+ 
+ compresa)
+ 
+
+ 
+ 001675-54-3 Etere Bis(2,3-epos- Vedi "Etere bis
+ 
+
+ 
+ sipropilico) di (2,3-epossipropilico)
+ 
+
+ 
+ bisfenolo A di 2,2 bis(4-Idrossife-
+ 
+
+ 
+ nil)-propano
+ 
+
+ 
+ 000111-46-6 Etere bis(2-idros- Vedi "Dietilenglicole"
+ 
+
+ 
+ sietilico)
+ 
+
+ 
+ 000110-98-5 Etere Bis(idrossi- Vedi "Dipropilenglicole"
+ 
+
+ 
+ propilico)
+ 
+
+ 
+ 16960 000107-15-3 Etilendiammina LMS = 12 mg/kg
+ 
+
+ 
+ 16950 000074-85-1 Etilene
+ 
+
+ 
+ 16990 000107-21-1 Etilenglicole LMS(T) = 30 mg/kg solo o
+ 
+
+ 
+ con dietilenglicole
+ 
+
+ 
+ 17005 000151-56-4 Etilenimmina LMS = NR (LR = 0,01
+ 
+
+ 
+ mg/kg)
+ 
+
+ 
+ 23050 000108-45-2 1,3-Fenilendiam- QM = 1 mg/kg nel PF
+ 
+
+ 
+ mina
+ 
+
+ 
+ 22960 000108-95-2 Fenolo
+ 
+
+ 
+ 17260 000050-00-0 Formaldeide LMS = 15 mg/kg
+ 
+
+ 
+ 000075-44-5 Fosgene Vedi "Cloruro di carbo-
+ 
+
+ 
+ nile"
+ 
+
+ 
+ 23230 000131-17-9 Ftalato di dial- LMS = NR (LR = 0,01
+ 
+
+ 
+ lile mg/kg)
+ 
+
+ 
+ 18100 000056-81-5 Glicerina
+ 
+
+ 
+ 17530 000050-99-7 Glucosio
+ 
+
+ 
+ 24130 008050-09-7 Gomma di colofonia
+ 
+
+ 
+ 24250 009006-04-6 Gomma naturale
+ 
+
+ 
+ 000123-31-9 Idrochinone Vedi "1,4-Diidrossiben-
+ 
+
+ 
+ zene"
+ 
+
+ 
+ 19000 000115-11-7 Isobutene
+ 
+
+ 
+ 14950 003173-53-3 Isocianato di QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ cicloesile (espresso come NCO)
+ 
+
+ 
+ 22570 000112-96-9 Isocianato di QM(T) = 1 mg/kg nel PF
+ 
+
+ 
+ ottadecile (espresso come NCO)
+ 
+
+ 
+ 19510 011132-73-3 Lignocellulosa
+ 
+
+ 
+ 000108-78-1 Melammina Vedi "2,4,6,-Triammino-
+ 
+
+ 
+ 1,3,5-triazina"
+ 
+
+ 
+ 20110 000097-88-1 Metacrilato di
+ 
+
+ 
+ butile
+ 
+
+ 
+ 20140 002998-18-7 Metacrilato di
+ 
+
+ 
+ sec-butile
+ 
+
+ 
+ 20170 000585-07-9 Metacrilato di
+ 
+
+ 
+ terz-butile
+ 
+
+ 
+ 20890 000097-63-2 Metacrilato di etile
+ 
+
+ 
+ 21010 000097-86-9 Metacrilato di iso-
+ 
+
+ 
+ butile
+ 
+
+ 
+ 21100 004655-34-9 Metacrilato di iso-
+ 
+
+ 
+ propile
+ 
+
+ 
+ 21130 000080-62-6 Metacrilato di meti-
+ 
+
+ 
+ le
+ 
+
+ 
+ 21340 002210-28-8 Metacrilato di pro-
+ 
+
+ 
+ pile
+ 
+
+ 
+ 21490 000126-98-7 Metacrilonitrile LMS = non rilevabile (LR
+ 
+
+ 
+ = 0,20 mg/kg, tolleranza
+ 
+
+ 
+ analitica compresa)
+ 
+
+ 
+ 21550 000067-56-1 Metanolo
+ 
+
+ 
+ 22150 000691-37-2 4-Metil-1-pentene LMS = 0,02 mg/kg
+ 
+
+ 
+ 21940 000924-42-5 N-Metilolacrilam- LMS = NR (LR = 0,01
+ 
+
+ 
+ mide mg/kg)
+ 
+
+ 
+ 11830 000818-61-1 Monoacrilato di
+ 
+
+ 
+ etilenglicole
+ 
+
+ 
+ 12375 Monoalcoli alifa-
+ 
+
+ 
+ tici saturi, li-
+ 
+
+ 
+ neari, primari
+ 
+
+ 
+ (C4-C22)
+ 
+
+ 
+ 21190 000868-77-9 Monometacrilato
+ 
+
+ 
+ di etilenglicole
+ 
+
+ 
+ 14350 000630-08-0 Monossido di car-
+ 
+
+ 
+ bonio
+ 
+
+ 
+ 22450 009004-70-0 Nitrocellulosa
+ 
+
+ 
+ 22480 000143-08-8 1-Nonanolo
+ 
+
+ 
+ 14410 008001-79-4 Olio di ricino
+ 
+
+ 
+ (commestibile)
+ 
+
+ 
+ 23520 008001-22-7 Olio di soia
+ 
+
+ 
+ 17020 000075-21-8 Ossido di etilene QM = 1 mg/kg nel PF
+ 
+
+ 
+ 24010 000075-56-9 Ossido di propilene QM = 1 mg/kg nel PF
+ 
+
+ 
+ 22600 000111-87-5 1-Ottanolo
+ 
+
+ 
+ 22660 000111-66-0 1-Ottene LMS = 15 mg/kg
+ 
+
+ 
+ 22840 000115-77-5 Pentaeritrite
+ 
+
+ 
+ 22870 000071-41-0 1-Pentanolo
+ 
+
+ 
+ 23470 000080-56-8 alfa-Pinene
+ 
+
+ 
+ 23500 000127-91-3 beta-Pinene
+ 
+
+ 
+ 000120-80-9 Pirocatecolo Vedi "1,2-Diidrossiben-
+ 
+
+ 
+ zene"
+ 
+
+ 
+ 23590 025322-68-3 Polietilenglicole
+ 
+
+ 
+ 23650 025322-69-4 Polipropilenglicole
+ 
+
+ 
+ (peso molecolare
+ 
+
+ 
+ superiore a 400)
+ 
+
+ 
+ 23740 000057-55-6 1,2-Propandiolo
+ 
+
+ 
+ 23800 000071-23-8 1-Propanolo
+ 
+
+ 
+ 23830 000067-63-0 2-Propanolo
+ 
+
+ 
+ 23980 000115-07-1 Propilene
+ 
+
+ 
+ 23860 000123-38-6 Propionaldeide
+ 
+
+ 
+ 24190 009014-63-5 Resina di legno
+ 
+
+ 
+ 24160 008052-10-6 Resina di tallolio
+ 
+
+ 
+ 000108-46-3 Resorcinolo Vedi "1,3-Diidrossiben-
+ 
+
+ 
+ zene"
+ 
+
+ 
+ 24880 000057-50-1 Saccarosio
+ 
+
+ 
+ 24490 000050-70-4 Sorbitolo
+ 
+
+ 
+ 24610 000100-42-5 Stirene
+ 
+
+ 
+ 24970 000120-61-6 Tereftalato di
+ 
+
+ 
+ dimetile
+ 
+
+ 
+ 25090 000112-60-7 Tetraetilengli-
+ 
+
+ 
+ cole
+ 
+
+ 
+ 25150 000109-99-9 Tetraidrofurano LMS = 0,6 mg/kg
+ 
+
+ 
+ 25180 000102-60-3 N,N,N',N'-Tetrakis
+ 
+
+ 
+ (2-idrossipropil)
+ 
+
+ 
+ etilendiammina
+ 
+
+ 
+ 25360 Trialchil(C5-C15) LMS = 6 mg/kg
+ 
+
+ 
+ acetato di 2,3-
+ 
+
+ 
+ epossipropile
+ 
+
+ 
+ 25420 000108-78-1 2,4,6-Triammino- LMS = 30 mg/kg
+ 
+
+ 
+ 1,3,5-triazina
+ 
+
+ 
+ 25510 000112-27-6 Trietilenglicole
+ 
+
+ 
+ 25600 000077-99-6 1,1,1-Trimetilol- LMS = 6 mg/kg
+ 
+
+ 
+ propano
+ 
+
+ 
+ 25910 024800-44-0 Tripropilenglicole
+ 
+
+ 
+ 25960 000057-13-6 Urea
+ 
+
+ 
+ 10750 002495-35-1 Acrilato di benzi-
+ 
+
+ 
+ le
+ 
+
+ 
+ 11890 002499-59-4 Acrilato di n-
+ 
+
+ 
+ ottile (*)
+ 
+
+ 
+ 15095 000334-48-5 Acido decanoico
+ 
+
+ 
+ 15565 000106-46-7 1,4-Diclorobenzene LMS = 12mg/kg
+ 
+
+ 
+ 15790 000111-40-0 Dietilentriammina LMS = 5mg/kg
+ 
+
+ 
+ 15820 000345-92-6 4,4'-Difluorobenzo- LMS = 0,05mg/kg
+ 
+
+ 
+ fenone
+ 
+
+ 
+ 17160 000097-53-0 Bugenolo LMS = 0,01mg/kg
+ 
+
+ 
+ 19210 001459-93-4 Isoftloto di LMS = 0,05mg/kg
+ 
+
+ 
+ dimetile (*)
+ 
+
+ 
+ 20080 002495-37-6 Metacrilato di
+ 
+
+ 
+ benzile (*)
+ 
+
+ 
+ 21280 002177-70-0 Metacrilato di
+ 
+
+ 
+ fenile (*)
+ 
+
+ 
+ 22390 000840-65-3 2,6-Naftalendicar- LMS = 0,05mg/kg
+ 
+
+ 
+ bossilato di
+ 
+
+ 
+ dimetile
+ 
+
+ 
+ 24057 000089-32-7 Anidride piromel- LMS = 0,05mg/kg
+ 
+
+ 
+ litica (espresso come
+ 
+
+ 
+ acido piromellitico)
+ 
+
+ 
+ 24475 001313-82-2 Solfuro di sodio
+ 
+
+ 
+ 24550 009005-25-8 Acido commestibile
+ 
+
+ 
+ 24888 003965-55-7 5-Solfoisoftalato LMS = 0,05mg/kg
+ 
+
+ 
+ di dimetile,
+ 
+
+ 
+ sale monosodico
+ 
+
+ 
+ 24940 000100-20-9 Dicloruro del- LMS(T)=7,5mg/kg
+ 
+
+ 
+ l'acido tereftalico (espresso come
+ 
+
+ 
+ acido tereftalico)
+ 
+
+ 
+ 25120 000116-14-3 Tetrafluoroerilene LMS = 0,05mg/kg
+ 
+
+ (*) 
+ 
+
+ (*) Sono depennate dalla sezione B.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ N. PM/ N. CAS NOME RESTRIZIONI E/O
+ 
+
+ 
+ REF SPECIFICHE
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 11530 00999-61-1 Acrilato di QMA=0.05
+ 
+
+ 
+ 2-idrossipropile* mg/6 dm2
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 12763 00141-43-5 2-Amminoetanolo LMS = 0,05
+ 
+
+ 
+ mg/kg. Non per
+ 
+
+ 
+ polimeri in
+ 
+
+ 
+ contatto con
+ 
+
+ 
+ alimenti per i
+ 
+
+ 
+ quali ? previsto
+ 
+
+ 
+ l'uso del
+ 
+
+ 
+ simulante D e
+ 
+
+ 
+ solo per
+ 
+
+ 
+ contatto
+ 
+
+ 
+ indiretto con
+ 
+
+ 
+ alimenti, dietro
+ 
+
+ 
+ uno strato
+ 
+
+ 
+ di PET
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 12765 84434-12-8 N-(2-Amminoetil) LMS = 0,05 mg/kg
+ 
+
+ 
+ betaalaninato di sodio
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13075 00091-76-9 Benzoguanamina Cfr 2,4-diamino
+ 
+
+ 
+ -6-fenil-1,3,5
+ 
+
+ 
+ -triazina
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13395 04767-03-7 Acido 2,2-bis QMA = 0,05
+ 
+
+ 
+ (idrossimetil)propionico mg/6 dm2
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13617 00080-09-1 Bisfenolo S Cfr 4,4'
+ 
+
+ 
+ -Diidrossi-
+ 
+
+ 
+ difenilsulfone
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13620 10043-35-3 Acido borico LMS(T) = 6 mg/kg
+ 
+
+ 
+ (23) (espresso
+ 
+
+ 
+ come boro),
+ 
+
+ 
+ fatte salve le
+ 
+
+ 
+ disposizioni di
+ 
+
+ 
+ cui al D.L.vo
+ 
+
+ 
+ 2 febbraio 2001,
+ 
+
+ 
+ n. 31, cos? come
+ 
+
+ 
+ modificato dal
+ 
+
+ 
+ D.L.vo 2 feb-
+ 
+
+ 
+ braio 2002, n.27
+ 
+
+ 
+ concernenti la
+ 
+
+ 
+ qualit? delle
+ 
+
+ 
+ acque destinate
+ 
+
+ 
+ al consumo umano
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13720 00110-63-4 1,4-butandiolo* LMS(T) = 0,05
+ 
+
+ 
+ mg/kg (24)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13810 00505-65-7 1,4-Butandiolo formale QMA = 0,05
+ 
+
+ 
+ mg/6 dm2
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 13932 00598-32-3 3-Buten-2-olo QMA = NR (LR =
+ 
+
+ 
+ 0,02 mg/6 dm2)
+ 
+
+ 
+ Solo per uso
+ 
+
+ 
+ come comonomero
+ 
+
+ 
+ per la prepara-
+ 
+
+ 
+ zione di
+ 
+
+ 
+ additivi
+ 
+
+ 
+ polimerici
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 15030 00931-88-4 Cicloottene LMS 0,05 mg/kg.
+ 
+
+ 
+ Solo per
+ 
+
+ 
+ polimeri in
+ 
+
+ 
+ contatto con
+ 
+
+ 
+ alimenti per i
+ 
+
+ 
+ quali è
+ 
+
+ 
+ previsto l'uso
+ 
+
+ 
+ del simulante A
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 15310 00091-76-9 2,4-diamino-6-fenil QMA = 5mg/6 dm2
+ 
+
+ 
+ -1,3,5-triazina
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 15610 00080-07-9 4,4'-Diclorodifenil- LMS = 0,05 mg/Kg
+ 
+
+ 
+ sulfone
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16090 00080-09-1 4,4'-Diidrossidifenil- LMS = 0,05 mg/Kg
+ 
+
+ 
+ sulfone
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16390 00126-30-7 2,2'-Dimetil-1.3 LMS = 0,05 mg/Kg
+ 
+
+ 
+ -propandiolo*
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16650 00127-63-9 Difenilsolfone LMS(T) = 3 mg/kg
+ 
+
+ 
+ (25)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16690 01321-74-0 Divinilbenzene* QMA = 0,01 mg/6
+ 
+
+ 
+ dm2 LMS = NR(LR
+ 
+
+ 
+ = 0,02 mg/Kg,
+ 
+
+ 
+ tolleranza
+ 
+
+ 
+ analitica
+ 
+
+ 
+ compresa) per la
+ 
+
+ 
+ somma di
+ 
+
+ 
+ divinilbenzene e
+ 
+
+ 
+ etilvinilbenzene
+ 
+
+ 
+ e conforme alle
+ 
+
+ 
+ specifiche di
+ 
+
+ 
+ cui all'allega-
+ 
+
+ 
+ to V
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16697 00693-23-2 Acido n-dodecandioico
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 18897 16712-64-4 Acido 2 idrossi-6-naftoico LMS 0,05 mg/kg
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 18898 103-90-2 N-(4-idrossifenil) Da usarsi
+ 
+
+ 
+ acetamide soltanto come
+ 
+
+ 
+ cristalli
+ 
+
+ 
+ liquidi e dietro
+ 
+
+ 
+ uno strato
+ 
+
+ 
+ barriera in
+ 
+
+ 
+ plastiche
+ 
+
+ 
+ multistrato
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 19110 04098-71-9 1-Isocianato-3 QM(T) = 1 mg/kg
+ 
+
+ 
+ isocianatometil (espresso come
+ 
+
+ 
+ -3,5,5 NCO) (26)
+ 
+
+ 
+ trimetilcicloesano
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 19243 00078-79-5 Isoprene* Cft 2-Metil-1,3
+ 
+
+ 
+ -butadiene
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 19490 00947-04-6 Laurolattame LMS = 5mg/Kg
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 20260 00101-43-9 Metacrilato LMS = 0,05 mg/Kg
+ 
+
+ 
+ di cicloesile*
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 20410 02082-81-7 Dimetacrilato di 1,4 LMS = 0,05 mg/Kg
+ 
+
+ 
+ -butandiolo*
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 20590 00106-91-2 Metacrilato di 2,3 QMA = 0,02
+ 
+
+ 
+ -epossipropile* mg/6 dm2
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 21520 01561-92-8 Metallilsolfonato LMS = 5 mg/Kg
+ 
+
+ 
+ di sodio
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 21640 00078-79-5 2-Metil-1,3-butadiene* QM = 1 mg/Kg nel
+ 
+
+ 
+ PF o LMS = NR
+ 
+
+ 
+ (LR = 0,02 mg/Kg
+ 
+
+ 
+ tolleranza
+ 
+
+ 
+ analitica
+ 
+
+ 
+ compresa)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 21765 106246-33-7 4,41-Metilenbis QMA = 0,05
+ 
+
+ 
+ (3-cloro-2,6- mg/6 dm2
+ 
+
+ 
+ dietilanilina)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 21821 00505-65-7 1,4-(Metilendiossi) Cfr 1,4-
+ 
+
+ 
+ butano Butandiolo
+ 
+
+ 
+ formale
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 22332 28679-16-5 Miscela di (40% p/p) QM(T) = 1 mg/kg
+ 
+
+ 
+ 2,2,4-trimetilesano (espresso come
+ 
+
+ 
+ -1,6-diisocianato e NCO (26)
+ 
+
+ 
+ (60% p/p) 2,4,4-
+ 
+
+ 
+ trimetilesano-1,6
+ 
+
+ 
+ diisocianato
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22360 01141-38-4 Acido 2,6- LMS = 5 mg/Kg
+ 
+
+ 
+ naftalendicarbossilico
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22437 00126-30-7 Neopentilglicol Cft 2,2-Dimetil
+ 
+
+ 
+ -1,3-propandiolo
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22778 07456-68-0 4,4'-Ossibis QMA = 0,05 mg/6
+ 
+
+ 
+ (benzensolfonilazide) dm2
+ 
+
+ 
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22900 00109-67-1 1-Pentene* LMS 5 mg/Kg
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 24073 000101-90-6 Etere diglicidilico QMA = 0,005 mg/6
+ 
+
+ 
+ di resorcinolo dm2 Non per
+ 
+
+ 
+ polimeri in
+ 
+
+ 
+ contatto con
+ 
+
+ 
+ alimenti per i
+ 
+
+ 
+ quali è
+ 
+
+ 
+ previsto l'uso
+ 
+
+ 
+ del simulante D
+ 
+
+ 
+ e solo per
+ 
+
+ 
+ contatto
+ 
+
+ 
+ indiretto con
+ 
+
+ 
+ alimenti,
+ 
+
+ 
+ dietro uno
+ 
+
+ 
+ strato di PET
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 25380 - Trialchii(C7-C17) QMA = 0,05 mg/6
+ 
+
+ 
+ acetato di vinile dm2
+ 
+
+ 
+ (= versatato di vinile)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 25450 26896-48-0 Triciclodecandimetanolo LMS 0,05 mg/Kg
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 25840 03290-92-4 Trimetacrilato di 1,1,1- LMS = 0,05 mg/Kg
+ 
+
+ 
+ trimetilproflano*
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 25900 00110-88-3 Triossano LMS = 0,05 mg/Kg
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ *la sostanza viene depennata dalla sezione B
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ =====================================================================
+ 
+
+ (4)(5)(6)(7)
+ ((8))
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SEZIONE B 
+ 
+
+ 
+ 
+
+ ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA CHE POSSONO CONTINUARE AD ESSERE UTILIZZATI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (4) 
+ 
+
+ 
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (4)
+
+ 
+ 
+
+ Il Decreto 15 giugno 2000, n. 210 ha disposto (con l'art. 1, comma 1, lettera b)) che "b) alla Sezione A 
+ 
+
+ [..] 
+ 
+
+ 2) la colonna "restrizioni e/o specifiche", per le voci di seguito riportate, è così modificata: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ha inoltra disposto (con l'art. 1, comma 1, lettera c)) che " c) nella "Sezione B" la colonna "restrizioni e/o specifiche". per le voci di seguito riportate, è così modificata:
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ ----------------
+
+ AGGIORNAMENTO (5)
+
+ 
+ Il Decreto 28 marzo 2003, n. 123 ha disposto (con l'art. 4, comma
+ 
+
+ 1, lettera c)) che "c) alla sezione A è modificata la colonna &laquo;restrizioni e/o specifiche&raquo;, per le sostanze riportate nell'allegato II del presente decreto :
+ 
+
+ 
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ N PM/ N CAS NOME RESTRIZIONI E/O
+ 
+
+ 
+ REF SPECIFICHE
+ 
+
+ 
+ ====================================================================
+ 
+
+ 
+ 13510 01675-54-3 Etere bis In conformità
+ 
+
+ 
+ (2,3-epossipropilico) agli articoli 
+ 
+
+ 
+ di 2,2-bis 8,9 e 10 del
+ 
+
+ 
+ (4-idrossifenil) presente decreto
+ 
+
+ 
+ propano (= BADGE)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 13560 05124-30-1 Bis(4-isocianato- Cfr. (4,4'
+ 
+
+ 
+ cicloesil) metano -diisocianato di
+ 
+
+ 
+ dicicloesil-
+ 
+
+ 
+ metano)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 13610 01675-54-3 Etere bis Cfr "Etere bis
+ 
+
+ 
+ (2,3-epossipropilico) (2,3-epossipro-
+ 
+
+ 
+ di bisfenolo A pilico) di 2,2-
+ 
+
+ 
+ bis(4-idrossi-
+ 
+
+ 
+ fenil)propano"
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 14200 0105-60-2 Caprolattame LMS(T) = 15
+ 
+
+ 
+ mg/kg (5)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 14230 02123-24-2 Caprolattame, LMS(T) 15 mg/kg
+ 
+
+ 
+ sale di sodio (5) (espresso
+ 
+
+ 
+ come caprolat-
+ 
+
+ 
+ tame)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 14650 00079-38-9 Clorotrifluoroetilene QMA=0,5 mg/6 dm2
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 14950 03173-53-3 Isocianato QM(T) 1 mg/Kg
+ 
+
+ 
+ di cicloesile (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 15700 05124-30-1 4,4'-Diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di dicicloesilmetano (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ -------------------------------------------------------------------
+ 
+
+ 
+ 15970 00611-99-4 4,4-Diidrossibenzo- LMS(T) = 6 mg/kg
+ 
+
+ 
+ fenone (15)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16240 00091-97-4 4,4'-Diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ -3,3'-dimetildifenile (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16570 04128-73-8 4,4'-Diisocianato QM(T) 1 mg/Kg
+ 
+
+ 
+ dell'etere difenilico (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16600 05873-54-1 2,4'-Diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di difenilmetano (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 16630 00101-68-8 4,4'-Diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di difenilmetano (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 17260 00050-00-0 Formaldeide LMS(T) = 15
+ 
+
+ 
+ mg/kg (22)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 18640 00822-06-0 Diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di esametilene (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 18670 00100-97-0 Esametilentetrammina LMS(T) = 15
+ 
+
+ 
+ mg/kg (22)
+ 
+
+ 
+ (espresso come
+ 
+
+ 
+ formaldeide)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 19540 001 10-16-7 Acido maleico LMS(T) = 30
+ 
+
+ 
+ mg/kg (4)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 19960 00108-31-6 Anidride maleica LMS(T) = 30mg/kg
+ 
+
+ 
+ (4) (espresso
+ 
+
+ 
+ come acido
+ 
+
+ 
+ maleico)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22420 03173-72-6 1,5-diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di naftalene (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 22570 00112-96-9 Isocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di ottadecile (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 23050 00108-45-2 1,3-Fenilendiammina LMS = NR (LR=
+ 
+
+ 
+ 0,02 mg/kg,
+ 
+
+ 
+ tolleranza
+ 
+
+ 
+ analitica
+ 
+
+ 
+ compresa)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 25210 00584-84-9 2,4-diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di toluene (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 25240 00091-08-7 2,6-diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di toluene (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 25270 26747-90-0 2,4-diisocianato QM(T) = 1 mg/Kg
+ 
+
+ 
+ di toluene, dimero (espresso come
+ 
+
+ 
+ NCO) (26)
+ 
+
+ 
+ --------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ ----------------
+
+ AGGIORNAMENTO (6)
+
+ 
+ 
+
+ Il Decreto 4 maggio 2006, n. 227 ha disposto (con l'art. 2, comma 1, lettera b)) "b) alla sezione A &laquo;ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA&raquo; sono inseriti 
+ 
+
+ [..] 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ha inoltre disposto (con l'art. 2, comma 1, lettera c)) che "alla sezione A &laquo;ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA&raquo; è modificata la colonna &laquo;Denominazione&raquo; o &laquo;N. CAS&raquo; o &laquo;Restrizioni e/o specifiche&raquo; 
+ 
+
+ [..] 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ ----------------
+
+ AGGIORNAMENTO (7)
+
+ 
+ 
+
+ Il Decreto 18 aprile 2007, n. 82 ha disposto 
+ 
+
+ -(con l'art. 2, comma 1, lettera b)) che "alla sezione A &laquo;ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA&raquo; sono inseriti 
+ 
+
+ [..] 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -(con l'art. 2, cmma 1, lettera c)) che " alla sezione A &laquo;ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA&raquo; è modificata la colonna &laquo;N.CAS&raquo; o &raquo;Nome&raquo; e/o &laquo;Restrizioni 
+ 
+
+ e/o specifiche&raquo; 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -(con l'art. 2, comma 1, lettera d)) che "alla sezione A &laquo;ELENCO DI MONOMERI E ALTRE SOSTANZE DI PARTENZA&raquo; la tabella relativa alla voce &laquo;acrilato di diciclopentadienile&raquo; con numero di riferimento &laquo;11000&raquo; è eliminata".
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ ----------------
+
+ AGGIORNAMENTO (8)
+
+ 
+ 
+
+ Il Decreto 24 settembre 2008, n. 174 ha disposto:
+ 
+
+ -(con l'art. 5, comma 1, lettera a)) che " All'allegato I, sezione A "Elenco di monomeri e altre sostanze di partenza" sono inserite 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -(con l'art. 5, comma 1, lettera b)) che " all'allegato I, sezione A "Elenco di monomeri e altre sostanze di partenza" è modificata la colonna "restrizioni e/o specifiche" per le sostanze riportate nell'allegato III : 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico"
