@@ -128,9 +128,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- j) "fondo comune di investimento": il patrimonio autonomo, suddiviso in quote, di pertinenza di una pluralità di partecipanti, gestito in monte; 
- (( il patrimonio del fondo, sia aperto che chiuso, può essere raccolto mediante una o più emissioni di quote; ))
+ j) "fondo comune di investimento": il patrimonio autonomo, suddiviso in quote, di pertinenza di una pluralità di partecipanti, gestito in monte; il patrimonio del fondo, sia aperto che chiuso, può essere raccolto mediante una o più emissioni di quote; 
+ 
 
+ 
  
 
  
@@ -155,10 +156,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) "gestione collettiva del risparmio": il sevizio che si realizza attraverso: 
+ ((
+
+ 
+ n) "gestione collettiva del risparmio": il servizio che si realizza attraverso: 
  
 
- 1) la promozione, istituzione e organizzazione di fondi comuni di investimento e l'amministrazione dei rapporti con i partecipanti; 
+ 1) la promozione, istituzione e organizzazione di fondi comuni d'investimento e l'amministrazione dei rapporti con i partecipanti; 
  
 
  2) la gestione del patrimonio di OICR, di propria o altrui istituzione, mediante l'investimento avente ad oggetto strumenti finanziari, crediti, o altri beni mobili o immobili; 
@@ -168,31 +172,37 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- o) "società di gestione del risparmio": la società per azioni con sede legale e direzione generale in Italia autorizzata a prestare il servizio di gestione collettiva del risparmio; 
+ o) "società di gestione del risparmio" (SGR): la società per azioni con sede legale e direzione generale in Italia autorizzata a prestare il servizio di gestione collettiva del risparmio; 
  
 
  
  
 
  
- p) "società promotrice": la società di gestione del risparmio che svolge l'attività indicata nella lettera n), numero 1); 
+ o-bis) "società di gestione armonizzata": la società con sede legale e direzione generale in uno Stato membro diverso dall'Italia, autorizzata ai sensi della direttiva in materia di organismi di investimento collettivo, a prestare il servizio di gestione collettiva del risparmio; 
  
 
  
  
 
  
- q) "gestore" la società di gestione del risparmio che svolge l'attività indicata nella lettera n), numero 2); 
+ p) "società promotrice": la SGR che svolge l'attività indicata nella lettera n), numero 1); 
  
 
  
  
 
  
- r) "soggetti abilitati": le imprese di investimento, le società di gestione del risparmio, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario e le banche autorizzati all'esercizio dei servizi di investimento; 
+ q) "gestore": la SGR che svolge l'attività indicata nella lettera n), numero 2); 
  
 
  
+ 
+
+ r) "soggetti abilitati": le imprese di investimento, le SGR, le società di gestione armonizzate, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario e le banche autorizzate all'esercizio dei servizi di investimento; 
+
+ ))
+
  
 
  
