@@ -1,0 +1,256 @@
+ALLEGATO III-C 
+ 
+
+ METODO PER LA DETERMINAZIONE DI CROMO E FERRO 
+ 
+
+ 
+ 
+
+ 1. OGGETTO E CAMPO DI APPLICAZIONE. 
+ 
+
+ Il metodo permette di determinare il cromo ed il ferro in alimenti conservati in contenitori in banda cromata. 
+ 
+
+ 
+ 
+
+ 2. PRINCIPIO DEL METODO. 
+ 
+
+ La determinzione dei metalli è eseguita mediante spettrofotometria di assorbimento atomico sul campione opportunamente preparato previo incenerimento. 
+ 
+
+ 
+ 
+
+ 3. REATTIVI. 
+ 
+
+ Tutti i reattivi adoperati devono essere certificati per il contenuto in tracce metalliche. 
+ 
+
+ 3.1. Acqua bidistillata. 
+ 
+
+ 3.2. Acido nitrico 65% (d. 1.400). 
+ 
+
+ 3.3. Soluzione di cromo a titolo noto (1000 mg/litro): sciogliere g 3,735 di cromato di potassio K2CrO4 in un litro di acqua bidistillata. 
+ 
+
+ 3.4. Soluzione di ferro a titolo noto (1000 mg/litro): sciogliere g 1,000 di ferro elettrolitico in 50 ml di acido nitrico diluito (1 + 1) e portare a volume di un litro con acqua bidistillata (3.1). 
+ 
+
+ 
+ 
+
+ 4. APPARECCHIATURA. 
+ 
+
+ 4.1. Omogeneizzatore. 
+ 
+
+ 4.2. Trituratore. 
+ 
+
+ 4.3. Capsula di platino a fondo piatto (Diametro cm 10). 
+ 
+
+ 4.4. Piastra riscaldante termoregolabile. 
+ 
+
+ 4.5. Forno a muffola. 
+ 
+
+ 4.6. Spettrofotometro di assorbimento atomico, munito di lampada al deuterio per la correzione degli assorbimenti non specifici (o altro sistema di correzione del fondo), equipaggiato con camera di atomizzazione e bruciatore a fiamma e forno di grafite. 
+ 
+
+ 4.7. Lampade a catodo cavo o a scarica di radiofrequenza specifiche per ferro e cromo. 
+ 
+
+ 4.8. Vetreria varia (decontaminata). 
+ 
+
+ 
+ 
+
+ 5. MODO DI OPERARE. 
+ 
+
+ 5.1. Preparazione del campione. 
+ 
+
+ 5.1.1. Incenerimento in muffola: g 5,00 (Più o Meno) 0,01 di campione accuratamente omogeneizzato e pesato in capsula di platino (4.3) vengono sottoposti ad essiccamento e quindi a carbonizzazione su piastra riscaldante (4.4) in maniera lenta e graduale al fine di evitare perdite per proiezione di materiale. Il residuo carbonioso, trasferito in muffola (4.5), viene incenerito per almeno dieci ore alla temperatura di 420 (Più o Meno) 10 C. 
+ 
+
+ Dopo tale trattamento le ceneri devono risultare perfettamente bianche. Nel caso contrario il residuo, trattato con poche gocce di HNO3 (3.2) e nuovamente essiccato, viene sottoposto ad un nuovo ciclo di incenerimento per almeno quattro ore. 
+ 
+
+ Le ceneri, riprese con 1 ml di HNO3, vengono riscaldate fino a completa dissoluzione, trasferite in un palloncino tarato da 25 ml e portate a volume con acqua bidistillata (3.1). 
+ 
+
+ 5.2. Determinazione mediante spettrofotometria di assorbimento atomico. 
+ 
+
+ 5.2.1. Cromo. 
+ 
+
+ 5.2.1.1. Sistema: forno a grafite (delta) : 357,9 nm. 
+ 
+
+ Fra le possibili condizioni operative si citano a titolo di esempio le seguenti: 
+ 
+
+ Slit: 0:7. 
+ 
+
+ Sorgente: HCL 15 mA. 
+ 
+
+ Gas: Argon. 
+ 
+
+ Stadio di essiccamento 120 C - 25'' Rampa 30''. 
+ 
+
+ Stadio di incenerimento (I) 350 C - 25'' Rampa 20''. 
+ 
+
+ Stadio di incenerimento (II) 800 C - 25'' Rampa 30''. 
+ 
+
+ Stadio di atomizzazione 2700 C - 8''. 
+ 
+
+ 5.2.1.2. Preparazione della retta di taratura con il metodo delle aggiunte standards. 
+ 
+
+ Tre aliquote da 5 ml della soluzione del campione (5.1.1) vengono poste rispettivamente in tre palloncini tarati da 10 ml ed addizionate rispettivamente di 0 - 1 - 2 ml di una soluzione standard contenente 500 mg/l di cromo, ottenuta per diluizione opportuna della soluzione di riferimento (3.4). 
+ 
+
+ (N.B. - Se la soluzione del campione (5.1.1) ha un 
+ 
+
+ contenuto in cromo superiore 0,2 mg/l, diluire 
+ 
+
+ convenientemente). 
+ 
+
+ Si porta a volume con acqua bidistillata (3.1). 
+ 
+
+ Le soluzioni così ottenute risultano addizionate rispettivamente di 0 - 50 - 100 (micro) g/l di cromo. 
+ 
+
+ Si misurano le assorbanze delle tre soluzioni e si costruisce la retta di taratura secondo il metodo delle aggiunte standards. 
+ 
+
+ L'intercetta sull'asse delle concentrazioni rappresenta la concentrazione del cromo nella soluzione del campione diluito. 
+ 
+
+ 5.2.2. Ferro. 
+ 
+
+ 5.2.2.1. Sistema: atomizzazione in fiamma aria/acetilene: 
+ 
+
+ 
+ 
+
+ (delta) : 248 (Diametro) 3 nm 
+ 
+
+ 
+ 
+
+ 5.2.2.2. Preparazione della retta di taratura. 
+ 
+
+ Tre aliquote rispettivamente di 5 - 15 - 25 ml di una soluzione contenente 10 mg/l di ferro, preparata per opportuna diluizione della soluzione di riferimento (3.5) vengono poste in tre palloncini da 50 ml contenenti ciascuno 1 ml di HNO3. 
+ 
+
+ Si porta a volume con acqua bidistillata. Le soluzioni così preparate contengono rispettivamente 1 - 3 - 5 mg/l di ferro. 
+ 
+
+ Si misurano le assorbanze delle tre soluzioni e si costruisce la retta di taratura. Si misura quindi l'assorbanza della soluzione del campione e se ne ricava la concentrazione dalla retta di taratura. 
+ 
+
+ 
+ 
+
+ 6. ESPRESSIONE DEI RISULTATI. 
+ 
+
+ 6.1. Concentrazione del cromo: 
+ 
+
+ 
+ 
+
+ 2 . c 25 
+ 
+
+ C = --------- 
+ 
+
+ p . 1000 
+ 
+
+ 
+ 
+
+ C = concentrazione Cr nel campione (mg/kg); 
+ 
+
+ c = concentrazione Cr nella soluzione letta allo 
+ 
+
+ spettrofotometro (micro) g/l; 
+ 
+
+ 2 = fattore di diluizione; 
+ 
+
+ p = peso del campione in grammi. 
+ 
+
+ 
+ 
+
+ 6.2. Concentrazione del ferro. 
+ 
+
+ 
+ 
+
+ c . 25 
+ 
+
+ C = -------- 
+ 
+
+ p . 1000 
+ 
+
+ 
+ 
+
+ C = concentrazione Fe nel campione (mg/kg); 
+ 
+
+ c = concentrazione Fe nella soluzione 
+ 
+
+ letta allo spettrofotometro (micro) g/l; 
+ 
+
+ p = peso del campione in grammi. 
+ 
+
+ Il campione è considerato idoneo se la media dei singoli valori determinati sulle aliquote costituenti il campione di prova non supera il valore di 50 mg/kg. 
+ 
+
+ Fermo restando quanto sopra, i singoli campioni non possono superare del 30% il valore sopra indicato.
