@@ -38,7 +38,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  L'Istituto nazionale della previdenza sociale amministra il Fondo, compila il rendiconto annuale, facendone risultare le attività e le passività, nonchè le entrate e le spese di esercizio. 
  
 
- L'Istituto nazionale della previdenza sociale accredita al Fondo gli interessi, calcolati al saggio medio ponderato di rendimento netto dei capitali provenienti dal Fondo medesimo ed addebita gli interessi per le anticipazioni fornite al Fondo in base ad un saggio pari a quello ufficiale di sconto maggiorato dello 0,50 per cento con un minimo del 5,50 per cento. 
+ L'Istituto nazionale della previdenza sociale accredita al Fondo gli interessi, calcolati al saggio medio ponderato di rendimento netto dei capitali provenienti dal Fondo medesimo ed addebita gli interessi per le anticipazioni fornite al Fondo in base ad un saggio 
+ ((pari a quello fissato dall'INPS per la generalità delle gestioni deficitarie))
+
+ . 
  
 
  Ogni cinque anni l'Istituto provvede alla compilazione del bilancio tecnico del Fondo. In relazione alle risultanze di tale bilancio la misura dei contributi individuali di cui al successivo articolo 6 può essere modificata con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro. 
