@@ -1,0 +1,61 @@
+ALLEGATO
+ 
+
+ 
+ 
+
+ (A1) - Denominazione del materiale o del sistema elettrico certificato
+ 
+
+ - Tipo(i) certificato(i)
+ 
+
+ (A2) Descrizione del materiale e del sistema elettrico certificato:
+ 
+
+ ..................................................................... .
+ 
+
+ ..................................................................... (A3) Documenti descrittivi:
+ 
+
+ ..................................................................... .
+ 
+
+ ..................................................................... (A4) Parametri specifici del o dei modi di protezione impiegati: (**)
+ 
+
+ ..................................................................... .
+ 
+
+ ..................................................................... (A5) Marchio del materiale elettrico certificato:
+ 
+
+ Il marchio dev'essere visibile, leggibile e duraturo; esso deve contenere le seguenti indicazioni:
+ 
+
+ 1) Fare riferimento alla Norma europea EN 50 014, paragrafo 26, "Regole generali" e, se è il caso, alle norme europee specifiche dei modi di protezione impiegati. Se il certificato riguarda diversi tipi certificati, citare ciascun tipo per esteso ed indicare "oppure" tra un tipo e l'altro.
+ 
+
+ 2) Il contrassegno normalmente previsto dalle norme di costruzione del materiale elettrico impiegato.
+ 
+
+ Fare riferimento al paragrafo 26.2.11 della norma europea EN 50 014 "Regole generali".
+ 
+
+ (A6) Verifiche e prove individuali:
+ 
+
+ Citare le verifiche e le prove a cui ciascun esemplare del materiale elettrico è stato sottoposto prima della consegna, in applicazione delle regole della Norma europea EN 50 014 "Regole generali" e delle norme europee specifiche del o dei modi di protezione impiegati. I riferimenti a tali regole devono essere citati.
+ 
+
+ Indicare "nessuno" se necessario.
+ 
+
+ (A7) Condizioni d'impiego speciali ai fini della sicurezza:
+ 
+
+ Indicare tali condizioni nel caso in cui dopo il suo numero d'ordine il certificato porti il segno "X". In caso contrario, indicare "nessuno".
+ 
+
+ (*) Per esempio, nel caso della sicurezza intrinseca le caratteristiche limite dei circuiti esterni (vedi 10.1. della Norma europea EN 50 020 "Sicurezza intrinseca "i"").
