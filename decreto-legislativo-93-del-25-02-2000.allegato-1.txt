@@ -1,0 +1,828 @@
+((Allegato I 
+ 
+
+ (art. 4-bis, comma 1) 
+ 
+
+ 
+ 
+
+ REQUISITI ESSENZIALI DI SICUREZZA 
+ 
+
+ 
+ 
+
+ Osservazioni preliminari. 
+ 
+
+ 1. Gli obblighi definiti dai requisiti essenziali di sicurezza per le attrezzature a pressione indicati nel presente allegato si applicano anche agli insiemi qualora esista un pericolo corrispondente. 
+ 
+
+ 2. I requisiti essenziali di sicurezza fissati dal presente decreto sono vincolanti. Gli obblighi derivanti dai requisiti essenziali di sicurezza si applicano soltanto quando sussistono i pericoli corrispondenti per le attrezzature a pressione considerate, se utilizzate alle condizioni ragionevolmente prevedibili dal fabbricante. 
+ 
+
+ 3. Il fabbricante ha l'obbligo di analizzare i pericoli e i rischi per individuare quelli connessi con la sua attrezzatura a causa della pressione e deve quindi progettarla e costruirla tenendo conto della sua analisi. 
+ 
+
+ 4. I requisiti essenziali di sicurezza vanno interpretati e applicati in modo da tenere conto dello stato della tecnica e della prassi al momento della progettazione e della fabbricazione, nonchè dei fattori tecnici ed economici, che vanno conciliati con un elevato livello di protezione della salute e della sicurezza. 
+ 
+
+ 1. Norme di carattere generale. 
+ 
+
+ 1.1. Le attrezzature a pressione sono progettate, fabbricate e controllate e, ove occorra, dotate dei necessari accessori ed installate in modo da garantirne la sicurezza se messe in funzione in base alle istruzioni del fabbricante o in condizioni ragionevolmente prevedibili. 
+ 
+
+ 1.2. Nella scelta delle soluzioni più appropriate il fabbricante applica i principi fissati in appresso nell'ordine qui indicato: 
+ 
+
+ eliminazione o riduzione dei pericoli nella misura in cui ciò sia ragionevolmente fattibile; 
+ 
+
+ applicazione delle opportune misure di protezione contro i pericoli che non possono essere eliminati; 
+ 
+
+ informazione degli utilizzatori circa pericoli residui, se del caso, e indicazione della necessità di opportune misure speciali di attenuazione dei rischi per l'installazione e/o l'utilizzazione. 
+ 
+
+ 1.3. Ove siano note o chiaramente prevedibili le possibilità di un uso scorretto, l'attrezzatura a pressione deve essere progettata in modo da eliminare rischi derivanti da tale uso o, se ciò non fosse possibile, deve essere munita di un'avvertenza adeguata che ne sconsigli l'uso scorretto. 
+ 
+
+ 2. Progettazione. 
+ 
+
+ 2.1. Norme di carattere generale. 
+ 
+
+ Le attrezzature a pressione devono essere opportunamente progettate tenendo conto di tutti i fattori pertinenti che consentono di garantirne la sicurezza per tutta la durata di vita prevista. 
+ 
+
+ La progettazione comprende coefficienti di sicurezza appropriati basati su metodi generali che utilizzano margini di sicurezza adatti a prevenire in modo coerente qualsiasi tipo di alterazione. 
+ 
+
+ 2.2. Progettazione ai fini di una resistenza adeguata. 
+ 
+
+ 2.2.1. Le attrezzature a pressione devono essere progettate per carichi appropriati all'uso per esse previsto e per altre condizioni di esercizio ragionevolmente prevedibili. In particolare si terrà conto dei fattori seguenti: 
+ 
+
+ pressione interna/esterna; 
+ 
+
+ temperatura ambiente e di esercizio; 
+ 
+
+ pressione statica e massa della sostanza contenuta alle condizioni di esercizio e durante le prove; 
+ 
+
+ sollecitazioni dovute a traffico, vento, terremoti; 
+ 
+
+ forze di reazione e momenti di reazione provocati da sostegni, collegamenti, tubazioni, ecc.; 
+ 
+
+ corrosione ed erosione, fatica, ecc.; 
+ 
+
+ decomposizione dei fluidi instabili. 
+ 
+
+ è necessario tenere in considerazione le diverse sollecitazioni che possono verificarsi contemporaneamente, valutando le probabilità che esse avvengano allo stesso tempo. 
+ 
+
+ 2.2.2. La progettazione, ai fini di una resistenza adeguata deve essere basata su uno degli elementi seguenti: 
+ 
+
+ in generale, su un metodo di calcolo, riportato al punto 2.2.3, integrato, se necessario, da un metodo di progettazione sperimentale riportato al punto 2.2.4; 
+ 
+
+ su un metodo di progettazione sperimentale senza calcoli, riportato al punto 2.2.4, ove il prodotto della pressione massima ammissibile PS per il volume V sia inferiore a 6 000 bar·L o il
+ 
+
+ prodotto PS·DN sia inferiore a 3 000 bar. 
+ 
+
+ 2.2.3. Metodo di calcolo. 
+ 
+
+ a) Contenimento della pressione ed altri aspetti legati ai carichi. 
+ 
+
+ Occorre limitare le sollecitazioni ammissibili delle attrezzature a pressione tenuto conto delle alterazioni ragionevolmente prevedibili in relazione alle condizioni di esercizio. A tal fine, è necessario applicare coefficienti di sicurezza che consentano di fugare del tutto le incertezze derivanti dalla fabbricazione, dalle condizioni concrete di uso, dalle sollecitazioni, dai modelli di calcolo, nonchè dalle proprietà e dal comportamento dei materiali. 
+ 
+
+ I metodi di calcolo devono fornire sufficienti margini di sicurezza in base, ove opportuno, alle prescrizioni del punto 7. 
+ 
+
+ Tali disposizioni possono essere soddisfatte applicando uno dei seguenti metodi, a seconda dei casi, se necessario a titolo complementare o in combinazione: 
+ 
+
+ progettazione mediante formule; 
+ 
+
+ progettazione mediante analisi; 
+ 
+
+ progettazione mediante meccanica della rottura. 
+ 
+
+ b) Resistenza. 
+ 
+
+ Al fine di determinare la resistenza dell'attrezzatura a pressione si deve ricorrere a idonei calcoli di progetto. 
+ 
+
+ In particolare: 
+ 
+
+ le pressioni di calcolo non devono essere inferiori alle pressioni massime ammissibili e devono tener conto della pressione statica e della pressione dinamica del fluido nonchè della decomposizione dei fluidi instabili. Quando un recipiente è separato in scomparti distinti e singoli soggetti a pressione, la parete di divisione va progettata tenendo conto della pressione più elevata che si possa raggiungere in uno scomparto e della pressione minima possibile nello scomparto limitrofo; 
+ 
+
+ le temperature di calcolo devono offrire idonei margini di sicurezza; 
+ 
+
+ la progettazione deve tenere nel dovuto conto tutte le eventuali combinazioni di temperatura e di pressione che possono coincidere durante condizioni di esercizio ragionevolmente prevedibili per l'attrezzatura; 
+ 
+
+ le sollecitazioni massime e le concentrazioni delle sollecitazioni di punta devono essere mantenute entro limiti di sicurezza; 
+ 
+
+ nei calcoli per il contenimento della pressione si deve fare uso dei valori appropriati relativi alle proprietà dei materiali e basati su dati verificati, tenendo conto delle norme di cui al punto 4 nonchè dei fattori di sicurezza adeguati. A seconda dei casi, fra le caratteristiche dei materiali da considerare devono figurare: 
+ 
+
+ limite di elasticità, 0,2% o 1%, a seconda dei casi, alla temperatura di calcolo; 
+ 
+
+ resistenza alla trazione; 
+ 
+
+ resistenza riferita al tempo, cioè resistenza allo scorrimento plastico; 
+ 
+
+ dati relativi alla fatica; 
+ 
+
+ modulo di Young (modulo di elasticità); 
+ 
+
+ appropriato livello di sollecitazione plastica; 
+ 
+
+ energia di flessione da urto; 
+ 
+
+ resistenza alla rottura; 
+ 
+
+ idonei coefficienti di giunzione, da applicare alle caratteristiche dei materiali e in funzione, ad esempio, del tipo di prove non distruttive, delle proprietà dei materiali assemblati e delle condizioni di esercizio previste; 
+ 
+
+ la progettazione deve tenere opportunamente conto di tutti i meccanismi ragionevolmente prevedibili di deterioramento (per esempio corrosione, scorrimento, fatica) relativi all'uso previsto dell'attrezzatura. Nelle istruzioni di cui al punto 3.4 si deve richiamare l'attenzione sulle caratteristiche della progettazione che influiscono in modo determinante sulla longevità dell'attrezzatura, per esempio: 
+ 
+
+ per quanto riguarda lo scorrimento: numero previsto di ore di esercizio alle temperature specificate, 
+ 
+
+ per quanto riguarda la fatica: numero previsto di cicli ai livelli di sollecitazione specificati, 
+ 
+
+ per quanto riguarda la corrosione: corrosione ammissibile prevista. 
+ 
+
+ c) Stabilità. 
+ 
+
+ Ove lo spessore determinato per via di calcolo desse una stabilità strutturale insufficiente, andranno adottate misure idonee per eliminare l'inconveniente, tenendo conto dei rischi legati al trasporto e alla movimentazione. 
+ 
+
+ 2.2.4. Metodo sperimentale di progettazione. 
+ 
+
+ La progettazione dell'attrezzatura può essere completamente o parzialmente convalidata da un programma di prove da effettuare su un campione rappresentativo dell'attrezzatura o della categoria di attrezzature. 
+ 
+
+ Prima dell'esecuzione delle prove occorre definire chiaramente il suddetto programma e aver ricevuto la relativa approvazione da parte dell'organismo notificato incaricato del modulo di valutazione della progettazione, laddove esso esista. 
+ 
+
+ Il suddetto programma deve stabilire le condizioni in cui effettuare le prove e i criteri di approvazione e di rifiuto. I valori esatti delle principali dimensioni e delle caratteristiche dei materiali di costruzione delle attrezzature da collaudare devono essere determinati prima dell'esecuzione della prova. 
+ 
+
+ Se del caso, durante le prove deve essere possibile osservare le aree critiche dell'attrezzatura a pressione per mezzo di strumenti adeguati che consentano di misurare le deformazioni e le sollecitazioni con sufficiente precisione. 
+ 
+
+ Il programma di prove deve comprendere: 
+ 
+
+ a) una prova di resistenza alla pressione intesa a verificare che, ad una pressione che garantisca un margine di sicurezza fissato in relazione alla pressione massima ammissibile, l'attrezzatura non presenti fuoriuscite significative nè deformazioni superiori ad un certo limite. 
+ 
+
+ Per l'esecuzione della prova la pressione va stabilita tenendo conto delle differenze tra i valori delle caratteristiche geometriche e dei materiali rilevati alle condizioni di esecuzione della prova e i valori ammessi per la progettazione, e deve altresì tener conto della differenza tra la temperatura di prova e quella di progetto; 
+ 
+
+ b) in caso di rischio di scorrimento plastico o di fatica, prove appropriate stabilite in funzione delle condizioni di esercizio previste per l'attrezzatura in questione, ad esempio: durata di funzionamento a determinate temperature, numero di cicli a determinati livelli di sollecitazione; 
+ 
+
+ c) se necessario, prove complementari relative ad altri fattori ambientali specifici di cui al punto 2.2.1 quali corrosione, aggressioni esterne. 
+ 
+
+ 2.3. Disposizioni a garanzia delle manovre e dell'esercizio in condizioni di sicurezza. 
+ 
+
+ I sistemi di funzionamento delle attrezzature a pressione devono essere tali da escludere qualsiasi rischio ragionevolmente prevedibile derivante dal funzionamento. Se necessario, occorre prestare una particolare attenzione, a seconda del caso: 
+ 
+
+ ai dispositivi di chiusura e di apertura; 
+ 
+
+ agli scarichi pericolosi delle valvole di sicurezza; 
+ 
+
+ ai dispositivi che impediscono l'accesso fisico in presenza di pressione o di vuoto; 
+ 
+
+ alla temperatura superficiale, in considerazione dell'uso previsto; 
+ 
+
+ alla decomposizione dei fluidi instabili. 
+ 
+
+ In particolare, le attrezzature a pressione con otturatori amovibili devono essere munite di un dispositivo automatico o manuale che permetta all'utilizzatore di accertarsi facilmente che l'apertura non presenti alcun rischio. Inoltre, quando questa apertura può essere azionata rapidamente, l'attrezzatura a pressione deve essere munita di un dispositivo che ne impedisca l'apertura fintantochè la pressione o la temperatura del fluido costituiscono un rischio. 
+ 
+
+ 2.4. Mezzi di ispezione. 
+ 
+
+ a) L'attrezzatura a pressione deve essere progettata e costruita in modo tale che sia possibile effettuare tutte le ispezioni necessarie per garantirne la sicurezza. 
+ 
+
+ b) Ove ciò sia necessario a garantirne la sicurezza permanente si devono predisporre mezzi per verificare le condizioni dell'attrezzatura a pressione al suo interno, quali aperture di accesso che consentano l'accesso fisico all'interno dell'attrezzatura in modo tale che si possa procedere alle opportune ispezioni in condizioni ergonomiche e di sicurezza. 
+ 
+
+ c) Si possono predisporre altri mezzi che permettano di garantire lo stato di sicurezza dell'attrezzatura nei casi in cui: 
+ 
+
+ essa sia troppo piccola per consentire l'accesso fisico al suo interno; 
+ 
+
+ la sua apertura possa avere effetti negativi sull'interno; 
+ 
+
+ sia dimostrato che la sostanza destinata ad esservi contenuta non è dannosa per il materiale di costruzione dell'attrezzatura a pressione e che non è ragionevolmente prevedibile alcun altro meccanismo di deterioramento. 
+ 
+
+ 2.5. Mezzi di scarico e di sfiato. 
+ 
+
+ Ove occorra, vanno previsti mezzi adeguati per lo scarico e lo sfiato delle attrezzature a pressione al fine di: 
+ 
+
+ evitare fenomeni dannosi come il colpo d'ariete, il cedimento strutturale sottovuoto, la corrosione e le reazioni chimiche incontrollate. Vanno tenute presenti tutte le fasi di funzionamento e di prova, in particolare le prove sotto pressione; 
+ 
+
+ consentire le operazioni di pulizia, ispezione e manutenzione in condizioni di assoluta sicurezza. 
+ 
+
+ 2.6. Corrosione e altre aggressioni chimiche. 
+ 
+
+ Ove occorra, va previsto un maggiore spessore o una protezione adeguata contro la corrosione o altre aggressioni chimiche tenendo conto del tipo di utilizzo previsto e ragionevolmente prevedibile. 
+ 
+
+ 2.7. Usura. 
+ 
+
+ Ove sussista la possibilità di erosioni o di abrasioni di notevole entità, vanno prese misure adeguate per: 
+ 
+
+ ridurre al minimo l'effetto con una progettazione adeguata, ad esempio aumentando lo spessore del materiale o prevedendo l'uso di incamiciature o di materiali di rivestimento; 
+ 
+
+ consentire la sostituzione delle parti maggiormente colpite; 
+ 
+
+ attirare l'attenzione, nelle istruzioni di cui al punto 3.4, sulle misure necessarie per un uso in condizioni permanenti di sicurezza. 
+ 
+
+ 2.8. Insiemi. 
+ 
+
+ Gli insiemi di attrezzature devono essere progettati in modo che: gli elementi da assemblare siano adatti e affidabili per l'applicazione prevista; 
+ 
+
+ tutti i componenti siano correttamente integrati e adeguatamente collegati. 
+ 
+
+ 2.9. Disposizioni per il caricamento e lo scarico. 
+ 
+
+ All'occorrenza, la progettazione delle attrezzature a pressione e l'installazione dei relativi accessori, ovvero le misure necessarie per la loro installazione, devono essere tali da garantire che esse vengano caricate e scaricate in condizioni di sicurezza, tenendo in particolare conto i seguenti rischi: 
+ 
+
+ a) per il caricamento: 
+ 
+
+ l'eccessivo caricamento o l'eccessiva pressurizzazione, con particolare riguardo al tasso di caricamento e alla pressione di vapore alla temperatura di riferimento; 
+ 
+
+ l'instabilità delle attrezzature a pressione; 
+ 
+
+ b) per lo scarico: la fuoriuscita incontrollata del fluido pressurizzato; 
+ 
+
+ c) per il caricamento e lo scarico: collegamento e scollegamento insicuri. 
+ 
+
+ 2.10. Protezione contro il superamento dei limiti ammissibili dell'attrezzatura a pressione. 
+ 
+
+ Ove, in condizioni ragionevolmente prevedibili, è possibile che vengano superati i limiti ammissibili, l'attrezzatura a pressione viene dotata ovvero si provvede a che sia dotata di adeguati dispositivi di protezione, a meno che l'attrezzatura sia destinata ad essere protetta da altri dispositivi di protezione integrati nell'insieme. 
+ 
+
+ Il dispositivo adeguato o la combinazione dei dispositivi adeguati sono determinati in funzione delle peculiarità dell'attrezzatura o dell'insieme di attrezzature e delle sue condizioni di funzionamento. 
+ 
+
+ I dispositivi di protezione e le relative combinazioni comprendono: 
+ 
+
+ a) gli accessori di sicurezza di cui all'art. 1, comma 2, lettera d); 
+ 
+
+ b) a seconda dei casi, adeguati dispositivi di controllo quali indicatori o allarmi che consentano di mantenere l'attrezzatura sotto pressione entro i limiti ammissibili in modo automatico o manuale. 
+ 
+
+ 2.11. Accessori di sicurezza. 
+ 
+
+ 2.11.1. Gli accessori di sicurezza devono: 
+ 
+
+ essere progettati e costruiti in modo da essere affidabili e adatti al loro uso previsto e da tener conto, se del caso, dei requisiti in materia di manutenzione e di prova dei dispositivi; 
+ 
+
+ essere indipendenti da altre funzioni, a meno che la loro funzione di sicurezza non possa essere intaccata dalle altre funzioni; 
+ 
+
+ essere conformi ai principi di progettazione appropriati per ottenere una protezione adeguata ed affidabile. Detti principi comprendono segnatamente un sistema &laquo;fail-safe&raquo;, un sistema a ridondanza, la diversità e un sistema di autocontrollo. 
+ 
+
+ 2.11.2. Dispositivi di limitazione della pressione. 
+ 
+
+ Tali dispositivi devono essere progettati in modo che la pressione non superi in permanenza la pressione massima ammissibile PS; è tuttavia di regola ammesso un picco di pressione di breve durata in base, ove opportuno, alle prescrizioni di cui al punto 7.3. 
+ 
+
+ 2.11.3. Dispositivi di controllo della temperatura. 
+ 
+
+ Questi dispositivi devono avere un tempo di risposta adeguato sotto il profilo della sicurezza e coerente con le funzioni di misurazione. 
+ 
+
+ 2.12. Incendio all'esterno. 
+ 
+
+ Ove necessario, le attrezzature a pressione devono essere progettate e, ove occorra, dotate di accessori adeguati, ovvero si devono prendere misure adeguate per la loro installazione, al fine di rispondere ai requisiti in materia di limitazione dei danni in caso d'incendio di origine esterna, con particolare riguardo all'uso previsto dell'attrezzatura. 
+ 
+
+ 3. Fabbricazione. 
+ 
+
+ 3.1. Procedure di fabbricazione. 
+ 
+
+ Mediante applicazione delle tecniche idonee e delle procedure opportune, il fabbricante deve garantire la corretta esecuzione delle istruzioni previste per le fasi di progettazione, con particolare riguardo alle operazioni indicate di seguito. 
+ 
+
+ 3.1.1. Preparazione dei componenti. 
+ 
+
+ La preparazione dei componenti (ad esempio formatura e smussatura) non deve provocare difetti o incrinature, nè modificare le proprietà meccaniche che potrebbero avere effetti negativi per la sicurezza delle attrezzature a pressione. 
+ 
+
+ 3.1.2. Giunzioni permanenti. 
+ 
+
+ Le giunzioni permanenti e le zone adiacenti devono essere esenti da difetti di superficie o interni tali da nuocere alla sicurezza delle attrezzature. 
+ 
+
+ Le proprietà delle giunzioni permanenti devono soddisfare le proprietà minime indicate per i materiali che devono essere collegati a meno che altri valori di proprietà corrispondenti siano stati specificamente presi in considerazione nei calcoli di progettazione. 
+ 
+
+ Per le attrezzature a pressione, le giunzioni permanenti delle parti che contribuiscono alla resistenza alla pressione dell'attrezzatura e le parti ad essa direttamente annesse devono essere realizzate da personale adeguatamente qualificato e secondo modalità operative adeguate. 
+ 
+
+ L'approvazione delle modalità operative e del personale sono affidate per le attrezzature a pressione delle categorie II, III e IV ad una terza parte competente che è, a scelta del fabbricante: 
+ 
+
+ un organismo notificato; 
+ 
+
+ un'entità terza riconosciuta da uno Stato membro come previsto all'art. 13. 
+ 
+
+ Al fine di procedere a tali approvazioni, detta entità terza effettua o fa effettuare gli esami e le prove previsti nelle norme armonizzate appropriate o esami e prove equivalenti. 
+ 
+
+ 3.1.3. Prove non distruttive. 
+ 
+
+ Per le attrezzature a pressione, le prove non distruttive delle giunzioni permanenti devono essere effettuate da personale adeguatamente qualificato. Per le attrezzature a pressione delle categorie III e IV, il personale deve essere stato approvato da un'entità terza competente, riconosciuta da uno Stato membro, ai sensi dell'art. 13. 
+ 
+
+ 3.1.4. Trattamento termico. 
+ 
+
+ Se vi è rischio che il processo di fabbricazione modifichi le proprietà dei materiali tanto da pregiudicare la sicurezza delle attrezzature a pressione, si deve applicare un trattamento termico adeguato nella opportuna fase di fabbricazione. 
+ 
+
+ 3.1.5. Rintracciabilità. 
+ 
+
+ Devono essere stabilite e mantenute opportune procedure per identificare i materiali delle parti dell'attrezzatura che contribuiscono alla resistenza alla pressione con mezzi adeguati dal momento della ricezione, passando per la produzione, fino alla prova definitiva dell'attrezzatura a pressione costruita. 
+ 
+
+ 3.2. Verifica finale. 
+ 
+
+ Le attrezzature a pressione devono essere sottoposte alla verifica finale descritta qui di seguito. 
+ 
+
+ 3.2.1. Esame finale. 
+ 
+
+ Le attrezzature a pressione devono essere sottoposte ad un esame finale volto a verificare, de visu e tramite controllo della relativa documentazione, il rispetto dei requisiti del presente decreto. In tale ambito si possono prendere in considerazione le prove effettuate nel corso della fabbricazione. Nella misura necessaria a fini di sicurezza, l'esame finale viene effettuato all'interno e all'esterno di tutte le parti dell'attrezzatura, eventualmente durante il processo di fabbricazione (ad esempio, qualora l'attrezzatura non sia più ispezionabile all'atto dell'esame finale). 
+ 
+
+ 3.2.2. Prova. 
+ 
+
+ La verifica finale delle attrezzature a pressione comprende una prova di resistenza alla pressione, di norma costituita da una prova a pressione idrostatica a una pressione almeno pari, ove opportuno, al valore fissato al punto 7.4. 
+ 
+
+ Per le attrezzature della categoria I fabbricate in serie, detta prova può essere eseguita su base statistica. 
+ 
+
+ Nei casi in cui la prova a pressione idrostatica risulti dannosa o non possa essere effettuata, si possono effettuare anche altre prove di comprovata validità. Prima di effettuare le prove diverse dalla prova a pressione idrostatica, si applicano misure integrative quali prove non distruttive o altri metodi di efficacia equivalente. 
+ 
+
+ 3.2.3. Esame dei dispositivi di sicurezza. 
+ 
+
+ Per gli insiemi, la verifica finale prevede anche un esame degli accessori di sicurezza per verificare che siano pienamente rispettati i requisiti di cui al punto 2.10. 
+ 
+
+ 3.3. Marcatura e/o etichettatura. 
+ 
+
+ Oltre alla marcatura CE di cui all'art. 15, e alle informazioni da fornire conformemente all'art. 4-bis, comma 6, e all'art. 4-quater, comma 3, sono fornite anche le informazioni indicate in appresso. 
+ 
+
+ a) Per tutte le attrezzature a pressione: 
+ 
+
+ anno di fabbricazione; 
+ 
+
+ identificazione dell'attrezzatura a pressione secondo la sua natura: tipo, serie o numero di identificazione della partita, numero di fabbricazione; 
+ 
+
+ limiti essenziali massimi e minimi ammissibili. 
+ 
+
+ b) A seconda del tipo di attrezzatura a pressione, informazioni supplementari atte a garantire condizioni sicure di installazione, funzionamento o impiego e, ove occorra, di manutenzione e ispezione periodica, quali: 
+ 
+
+ volume V dell'attrezzatura a pressione espressa in L; 
+ 
+
+ dimensione nominale della tubazione DN; 
+ 
+
+ pressione di prova PT applicata, espressa in bar, e data; 
+ 
+
+ pressione a cui è tarato il dispositivo di sicurezza espressa in bar; 
+ 
+
+ potenza dell'attrezzatura in kW; 
+ 
+
+ tensione d'alimentazione in V (volts); 
+ 
+
+ uso previsto; 
+ 
+
+ rapporto di riempimento in kg/L; 
+ 
+
+ massa di riempimento massima in kg; 
+ 
+
+ tara espressa in kg; 
+ 
+
+ gruppo di fluidi. 
+ 
+
+ c) Ove occorra, mediante avvertenze fissate all'attrezzatura a pressione si dovrà attirare l'attenzione sugli impieghi non corretti posti in risalto dall'esperienza. 
+ 
+
+ Le informazioni di cui alle lettere a), b) e c) figurano sull'attrezzatura a pressione o su una targhetta saldamente fissata ad essa, ad eccezione dei seguenti casi: 
+ 
+
+ se del caso, si può usare una opportuna documentazione per evitare la marcatura ripetuta di singoli elementi, come ad esempio componenti di tubazioni, destinati allo stesso insieme; 
+ 
+
+ nel caso di attrezzature a pressione troppo piccole, ad esempio accessori, dette informazioni possono essere riportate su un'etichetta apposta sull'attrezzatura in questione; 
+ 
+
+ per indicare la massa contenibile e per le avvertenze di cui alla lettera c) si possono utilizzare etichette o altri mezzi adeguati, purchè essi rimangano leggibili per tutto il periodo di vita previsto. 
+ 
+
+ 3.4. Istruzioni operative. 
+ 
+
+ a) Al momento della messa a disposizione sul mercato, le attrezzature a pressione devono essere accompagnate, ove pertinente, da un foglio illustrativo destinato all'utilizzatore, contenente tutte le informazioni utili ai fini della sicurezza per quanto riguarda: 
+ 
+
+ il montaggio, compreso l'assemblaggio, delle varie attrezzature a pressione; 
+ 
+
+ la messa in servizio; 
+ 
+
+ l'impiego; 
+ 
+
+ la manutenzione e le ispezioni da parte dell'utilizzatore. 
+ 
+
+ b) Il foglio illustrativo deve riprendere le informazioni presenti nel contrassegno dell'attrezzatura a pressione a norma del punto 3.3, tranne l'identificazione della serie, e deve essere corredato, all'occorrenza, della documentazione tecnica nonchè dei disegni e dei diagrammi necessari a una buona comprensione di tali istruzioni. 
+ 
+
+ c) Ove occorra, il foglio illustrativo deve inoltre richiamare l'attenzione sui rischi di un uso scorretto, in base al punto 1.3, e sulle caratteristiche particolari della progettazione, in base al punto 2.2.3. 
+ 
+
+ 4. Materiali. 
+ 
+
+ I materiali utilizzati per la costruzione di attrezzature a pressione devono essere adatti per tale applicazione durante la durata di vita prevista, a meno che non si preveda una sostituzione. 
+ 
+
+ I materiali di saldatura e gli altri materiali di assemblaggio devono soddisfare in modo adeguato soltanto i corrispondenti requisiti dei punti 4.1, 4.2, lettera a), e 4.3, primo comma, sia singolarmente che dopo la messa in opera. 
+ 
+
+ 4.1. I materiali delle parti pressurizzate: 
+ 
+
+ a) devono avere caratteristiche adeguate a tutte le condizioni di prova e di esercizio ragionevolmente prevedibili, e soprattutto possedere duttilità e tenacità sufficienti; se del caso, le caratteristiche di questi materiali dovranno rispettare i requisiti del punto 7.5; inoltre, si dovrà procedere in particolare ad un'appropriata selezione dei materiali in modo da prevenire, se necessario, una frattura di fragilità; ove per motivi specifici si debba far ricorso ad un materiale fragile, devono essere previste idonee misure; 
+ 
+
+ b) devono possedere una resistenza chimica sufficiente al fluido che sarà contenuto nell'attrezzatura a pressione; le proprietà chimiche e fisiche necessarie per la sicurezza operativa non devono essere influenzate in modo rilevante nel corso della durata di vita prevista dell'attrezzatura; 
+ 
+
+ c) non devono subire in modo rilevante l'influenza dell'usura; 
+ 
+
+ d) devono essere adatti alle procedure di trattamento previste; 
+ 
+
+ e) devono essere selezionati in modo da evitare effetti negativi rilevanti in caso di assemblaggio di materiali diversi. 
+ 
+
+ 4.2. Il fabbricante dell'attrezzatura a pressione deve: 
+ 
+
+ a) definire adeguatamente i valori necessari per i calcoli di progettazione di cui al punto 2.2.3 nonchè le caratteristiche essenziali dei materiali e della loro utilizzazione, di cui al punto 4.1; 
+ 
+
+ b) allegare alla documentazione tecnica gli elementi che attestano il rispetto delle prescrizioni del presente decreto riguardo ai materiali in una delle seguenti forme: 
+ 
+
+ mediante l'utilizzazione di materiali in base alle norme armonizzate; 
+ 
+
+ mediante l'utilizzazione dei materiali che hanno formato oggetto di un'approvazione europea di materiali per attrezzature a pressione in base all'art. 11; 
+ 
+
+ mediante una valutazione particolare dei materiali; 
+ 
+
+ c) per le attrezzature a pressione delle categorie III e IV, una valutazione particolare dello specifico materiale è effettuata dall'organismo notificato incaricato delle procedure di valutazione della conformità dell'attrezzatura a pressione. 
+ 
+
+ 4.3. Il fabbricante dell'attrezzatura deve prendere le opportune misure per accertarsi che il materiale impiegato sia conforme ai requisiti richiesti. In particolare, per tutti i materiali, il fabbricante deve fornire documenti che ne attestino la conformità ad un determinato requisito. 
+ 
+
+ Per quanto riguarda le parti pressurizzate principali delle attrezzature delle categorie II, III e IV, tale attestato deve essere costituito da un certificato che prevede un controllo specifico sul prodotto. 
+ 
+
+ Allorchè un fabbricante di materiali ha un sistema di garanzia di qualità appropriato certificato da un organismo competente stabilito nell'Unione e che è stato oggetto di una valutazione specifica per i materiali, si presume che gli attestati da esso rilasciati assicurino la conformità ai corrispondenti requisiti del presente punto. 
+ 
+
+ Requisiti particolari per attrezzature a pressione specifiche. 
+ 
+
+ In aggiunta ai requisiti contemplati ai punti da 1 a 4, per i prodotti di cui ai punti 5 e 6 valgono i requisiti qui di seguito specificati. 
+ 
+
+ 5. Attrezzature a pressione a focolare o altro tipo di riscaldamento, con rischio di surriscaldamento, di cui all'art. 3, comma 1. 
+ 
+
+ Tra le suddette attrezzature figurano: 
+ 
+
+ i generatori di vapore e di acqua surriscaldata di cui all'art. 3, comma 1, lettera b), come le caldaie per vapore e acqua calda a focolare, i surriscaldatori e i risurriscaldatori, le caldaie a recupero calorico, le caldaie per l'incenerimento di rifiuti, le caldaie elettriche ad elettrodi o a immersione, le autoclavi a pressione, nonchè i relativi accessori e, ove occorra, i relativi sistemi per il trattamento dell'acqua di alimentazione, i sistemi di alimentazione di combustibile; 
+ 
+
+ gli apparecchi di riscaldamento a scopo industriale, che utilizzano fluidi diversi dal vapore e dall'acqua surriscaldata di cui all'art. 3, comma 1, lettera a), quali riscaldatori per le industrie chimiche e altre industrie affini e le attrezzature a pressione per la lavorazione dei prodotti alimentari. 
+ 
+
+ Le suddette attrezzature a pressione devono essere calcolate, progettate e costruite in modo da evitare o ridurre i rischi di una perdita significativa di contenimento derivante da surriscaldamento.
+ 
+
+ In particolare, a seconda dei casi si deve garantire che: 
+ 
+
+ a) siano forniti adeguati dispositivi di protezione per limitare parametri di funzionamento quali l'immissione e lo smaltimento del calore e, se del caso, il livello del fluido onde evitare qualsiasi rischio di surriscaldamento localizzato o generale; 
+ 
+
+ b) se necessario, siano previsti punti di prelevamento onde valutare le proprietà del fluido per evitare rischi connessi con i depositi e/o la corrosione; 
+ 
+
+ c) si prendano provvedimenti adeguati per eliminare i rischi di danni causati dai depositi; 
+ 
+
+ d) si provveda a dissipare, in condizioni di sicurezza, il calore residuo dopo il disinserimento dell'attrezzatura; 
+ 
+
+ e) si prevedano disposizioni per evitare un accumulo pericoloso di miscele infiammabili di sostanze combustibili e aria o un ritorno di fiamma. 
+ 
+
+ 6. Tubazioni descritte all'art. 3, comma 1, lettera c). 
+ 
+
+ Il progetto e la costruzione delle tubazioni devono garantire che: 
+ 
+
+ a) il rischio di sovrasollecitazioni causate da un gioco eccessivo o dalla formazione di forze eccessive a carico, ad esempio, di flange, giunzioni, soffietti o tubazioni flessibili, sia controllato mediante idonei mezzi di sostegno, vincolo, ancoraggio, allineamento e pretensione; 
+ 
+
+ b) ove vi sia la possibilità che si formi condensa all'interno di tubi per fluidi gassosi, siano previsti sistemi di scarico e di rimozione dei depositi dalle zone più basse onde evitare colpi d'ariete o corrosione; 
+ 
+
+ c) si presti debita attenzione ai possibili danni causati da turbolenze e vortici; in tal caso si applicano le disposizioni pertinenti del punto 2.7; 
+ 
+
+ d) si presti adeguata attenzione al rischio di fatica derivante da vibrazioni nei tubi; 
+ 
+
+ e) se le sostanze contenute nelle tubazioni sono fluidi appartenenti al gruppo 1, siano previsti mezzi adeguati per isolare i tubi di derivazione che presentano rischi notevoli a causa delle loro dimensioni; 
+ 
+
+ f) venga ridotto al minimo il rischio di scarico involontario, segnando chiaramente sul lato fisso i punti di derivazione e indicando il fluido contenuto; 
+ 
+
+ g) la posizione e il percorso delle tubazioni e delle condotte sotterranee siano indicati almeno nella documentazione tecnica onde facilitare le operazioni di manutenzione, ispezione o riparazione in condizioni di completa sicurezza. 
+ 
+
+ 7. Requisiti particolari, espressi in cifre, per attrezzature a pressione specifiche. 
+ 
+
+ Sono di norma applicabili le disposizioni che seguono. Tuttavia, allorchè non sono applicate, compresi i casi in cui il materiale non sia indicato specificamente e non siano applicate norme armonizzate, il fabbricante deve comprovare l'applicazione di disposizioni adeguate che consentano di ottenere un livello di sicurezza globale equivalente. 
+ 
+
+ Le disposizioni previste dal presente punto integrano i requisiti essenziali di sicurezza di cui ai punti da 1 a 6 per le attrezzature a pressione alle quali sono applicati. 
+ 
+
+ 7.1. Sollecitazioni ammissibili. 
+ 
+
+ 7.1.1. Simboli: 
+ 
+
+ 
+ 
+
+ R
+ e/t
+ , limite di elasticità, indica il valore alla temperatura
+ 
+
+ 
+ 
+
+ di calcolo, a seconda dei casi: 
+ 
+
+ del limite massimo di scorrimento per un materiale che presenti un limite di scorrimento minimo e uno massimo; 
+ 
+
+ del limite di elasticità convenzionale, pari all'1,0%, per l'acciaio austenitico e l'alluminio non legato; 
+ 
+
+ del limite di elasticità convenzionale pari, negli altri casi, allo 0,2%; 
+ 
+
+ 
+ 
+
+ R
+ m/20
+ indica il valore minimo della resistenza alla trazione a
+ 
+
+ 20° C;
+ 
+
+ R
+ m/t
+ indica la resistenza alla trazione alla temperatura di
+ 
+
+ 
+ 
+
+ calcolo. 
+ 
+
+ 7.1.2. A seconda del materiale impiegato, la sollecitazione generale ammissibile della membrana per carichi prevalentemente statici e per temperature situate fuori dalla gamma in cui i fenomeni di scorrimento sono significativi non deve essere superiore al più basso dei valori elencati in appresso: 
+ 
+
+ per l'acciaio ferritico, compreso l'acciaio normalizzato (acciaio laminato), ed esclusi gli acciai a grani fini e gli acciai che hanno subito un trattamento termico speciale, 2/3 di Re/t e 5/12 
+ 
+
+ di Rm/20 ; 
+ 
+
+ per l'acciaio austenitico: 
+ 
+
+ se l'allungamento dopo la rottura è superiore al 30%, 2/3 di Re/t ; 
+ 
+
+ in via alternativa e se l'allungamento dopo la rottura è superiore al 35%, 5/6 di Re/t e 1/3 di Rm/t ; per l'acciaio fuso non legato o scarsamente legato, 10/19 di Re/t e 1/3 di Rm/20 ; 
+ 
+
+ per l'alluminio, 2/3 di Re/t ; 
+ 
+
+ per le leghe di alluminio che non possono essere temprate, 2/3 di Re/t e 5/12 di Rm/20 . 
+ 
+
+ 7.2. Coefficienti di giunzione. 
+ 
+
+ Per i giunti saldati il coefficiente di giunzione deve essere al massimo pari ai seguenti valori: 
+ 
+
+ per le attrezzature sottoposte a prove distruttive e non distruttive che consentono di verificare l'inesistenza di difetti rilevanti: 1; 
+ 
+
+ per le attrezzature sottoposte a prove non distruttive mediante sondaggio: 0,85; 
+ 
+
+ per le attrezzature non sottoposte a prove non distruttive diverse da un'ispezione visiva: 0,7. 
+ 
+
+ Ove occorra, si devono prendere in considerazione anche il tipo di sollecitazione e le proprietà meccaniche e tecnologiche del giunto. 
+ 
+
+ 7.3. Dispositivi di limitazione della pressione, specie per i recipienti a pressione. 
+ 
+
+ Il picco temporaneo di pressione di cui al punto 2.11.2, deve essere limitato al 10% della pressione massima ammissibile. 
+ 
+
+ 7.4. Pressione di prova idrostatica. 
+ 
+
+ Per i recipienti a pressione, la pressione di prova idrostatica di cui al punto 3.2.2 dev'essere almeno pari al più elevato dei due valori seguenti: 
+ 
+
+ la pressione corrispondente al carico massimo che può sopportare l'attrezzatura in funzione, tenuto conto della pressione massima ammissibile e della temperatura massima ammissibile, moltiplicata per il coefficiente 1,25, 
+ 
+
+ la pressione massima ammissibile, moltiplicata per il coefficiente 1,43. 
+ 
+
+ 7.5. Caratteristiche dei materiali. 
+ 
+
+ Qualora non siano richiesti altri valori in base ad altri criteri da prendere in considerazione, per essere conforme al punto 4.1, lettera a), un acciaio è considerato sufficientemente duttile se l'allungamento dopo la rottura, in una prova di trazione effettuata secondo un procedimento standard, è pari almeno al 14% e se l'energia di flessione da urto, misurata in provetta ISO V, è pari almeno a 27 J ad una temperatura al massimo pari a 20° C, ma non superiore alla temperatura minima di esercizio prevista.))
+ 
+
+ ((2))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il D.Lgs. 15 febbraio 2016, n. 26 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
