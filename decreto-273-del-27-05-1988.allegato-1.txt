@@ -1,0 +1,124 @@
+Per l'invio di comunicazioni all'anagrafe tributaria possono 
+ 
+
+ essere utilizzati i seguenti tipi di supporto magnetico: 
+ 
+
+ nastro magnetico a bobina; 
+ 
+
+ nastro magnetico a cartuccia per le unità a nastro tipo "IBM 3480". 
+ 
+
+ Modalità di invio dei supporti magnetici. 
+ 
+
+ Le comunicazioni devono essere inviate all'anagrafe tributaria allegando il supporto magnetico al relativo modello AA12 compilato con le medesime modalità indicate nell'allegato 1 del D.M. 27 gennaio 1978, pubblicato nella Gazzetta Ufficiale n. 48 del 17 febbraio 1978. 
+ 
+
+ Su ogni supporto magnetico deve essere apposta un'etichetta di riconoscimento con le seguenti informazioni: 
+ 
+
+ ente fornitore: (denominazione dell'ente); 
+ 
+
+ contenuto: Comunicazione all'anagrafe tributaria; 
+ 
+
+ destinatario: C.I.O.S.T.; 
+ 
+
+ data: (data invio); 
+ 
+
+ densità di registrazione: (numero di caratteri per pollice); 
+ 
+
+ progressivo: (numero progressivo del supporto nell'ambito dell'invio). 
+ 
+
+ Nel caso che un solo supporto non sia sufficiente a contenere tutte le comunicazioni, potranno essere allegati più supporti magnetici dello stesso tipo, differenziandoli mediante il numero progressivo indicato sull'etichetta. 
+ 
+
+ Caratteristiche fisiche di registrazione. 
+ 
+
+ Per entrambi i tipi di supporto magnetico, le caratteristiche fisiche di registrazione saranno le seguenti: 
+ 
+
+ registrazione magnetica: 
+ 
+
+ a 9 tracce, per nastro magnetico a bobina; 
+ 
+
+ a 18 tracce, per nastro magnetico a cartuccia; 
+ 
+
+ densità di registrazione: 
+ 
+
+ 800, 1600 o 6250 caratteri per pollice, per nastro magnetico a bobina; 
+ 
+
+ 38000 caratteri per pollice, per nastro magnetico a cartuccia; sistema di codifica: EBCDIC; 
+ 
+
+ organizzazione del supporto: "NO LABEL" contenente un unico "data set"; 
+ 
+
+ formato dei "record fisici": fisso-bloccato; 
+ 
+
+ fattore di bloccaggio: 50 "record logici" per ogni "record fisico". 
+ 
+
+ Modalità logiche di registrazione. 
+ 
+
+ Ogni supporto magnetico deve contenere un "data set" così strutturato: 
+ 
+
+ a) "record" di testa, contenente informazioni relative all'ente che invia le comunicazioni; 
+ 
+
+ b) "record" contenenti i dati delle comunicazioni; 
+ 
+
+ c) "record" di coda, contenente informazioni riepilogative. 
+ 
+
+ Per la registrazione dei dati è possibile scegliere tra due diverse tipologie di "tracciati record": 
+ 
+
+ Tipo A, formato da 106 caratteri; 
+ 
+
+ Tipo B, formato da 329 caratteri. 
+ 
+
+ Rispetto al Tipo A, il Tipo B prevede un maggior numero di informazioni sui dati anagrafici dei soggetti interessati dalle comunicazioni; l'indicazione di ciascuna di tali informazioni è comunque facoltativa. 
+ 
+
+ Nella descrizione che segue i campi vengono distinti, in base al contenuto, in: 
+ 
+
+ campi alfanumerici; 
+ 
+
+ possono contenere caratteri numerici, lettere dell'alfabeto, caratteri speciali editabili (il contenuto va allineato a sinistra con inserimento di eventuali spazi a destra); 
+ 
+
+ campi numerici; 
+ 
+
+ possono contenere esclusivamente caratteri numerici (il contenuto va allineato a destra con inserimento di eventuali zeri a sinistra). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
