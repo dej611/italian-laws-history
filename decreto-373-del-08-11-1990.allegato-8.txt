@@ -1,0 +1,202 @@
+CALCOLO DEL GRADO DI AVANZAMENTO LAVORI (1) (2) 
+ 
+
+ 1-a) Per le unità munite di apparato motore di propulsione vengono assegnati: 
+ 
+
+ allo scafo nudo il coefficiente: 0,30; 
+ 
+
+ all'allestimento il coefficiente: 0,50; 
+ 
+
+ all'apparato motore il coefficiente: 0,20 attribuito per l'80% all'insieme delle motrici principali, complete di accessori, riduttori, linee d'assi, aliche e gruppi elettrogeni principali e/o caldaie, principali e non, e per il 20% ai restanti elementi facenti parte dell'apparato motore (ausiliari, tubolature, ventilazioni, ecc.). 
+ 
+
+ Per l'attribuzione dei singoli componenti del peso nave alla voce apparato motore od allestimento vedasi quanto riportato al punto 4).
+ 
+
+ b) Il grado di avanzamento dello scafo nudo che deve essere realizzato in stabilimento/i dell'impresa di costruzione, salvo eventuali componenti non significative (blocchi di peso non superiore a 5/10 t), è calcolato con la formula: 
+ 
+
+ 1/S [(S1 x 0,20) + (S2 x a x 0,50) + (S3 x 0,50) + (S4 x b x 0,80) + (S5 x 0,80) + (S6 x c x 0,95) + (S7 x 0,95) + S8] 
+ 
+
+ dove: 
+ 
+
+ S - rappresenta il peso totale dello scafo nudo come dichiarato dal cantiere costruttore; 
+ 
+
+ S1 - rappresenta il peso del materiale introdotto in cantiere e inequivocabilmente destinato alla costruzione dell'unità di cui si calcola l'avanzamento, non ancora lavorato; 
+ 
+
+ S2 - rappresenta il peso netto dei materiali in corso di lavorazione a terra presso l'officina navale (tracciatura, taglio, sagomatura); a - rappresenta la relativa percentuale media di avanzamento; 
+ 
+
+ S3 - rappresenta il peso netto del materiale lavorato pronto a terra per la prefabbricazione o l'imbarco; 
+ 
+
+ S4 - rappresenta il peso del materiale in corso di prefabbricazione; b - rappresenta la relativa percentuale media di avanzamento; 
+ 
+
+ S5 - rappresenta il materiale prefabbricato; 
+ 
+
+ S6 - rappresenta il materiale dei blocchi prefabbricati in corso di montaggio sullo scalo o in corso di premontaggio nei grandi insiemi a terra; 
+ 
+
+ c - rappresenta la relativa percentuale media di avanzamento; 
+ 
+
+ S7 - rappresenta il materiale montato sullo scalo e quello dei grandi insiemi di premontaggio; 
+ 
+
+ S8 - rappresenta il materiale montato sullo scalo, completamente finito di saldatura, radiografato e di cui è stata accertata la tenuta stagna. 
+ 
+
+ 
+ 
+
+ c) Il grado di avanzamento dell'allestimento è calcolato con la formula: 
+ 
+
+ 1/A [(A1 x 0,20) + (A2 x a x 0,80) + (A3 x 0,80) + A4] 
+ 
+
+ dove: 
+ 
+
+ A - rappresenta il peso totale dell'allestimento come dichiarato dal cantiere costruttore; 
+ 
+
+ A1 - rappresenta il peso del materiale da lavorare introdotto in cantiere e sicuramente destinato alla costruzione dell'unità di cui si calcola l'avanzamento; 
+ 
+
+ 
+ 
+
+ A2 - rappresenta il peso netto del materiale in corso di lavorazione in officina, sia in cantiere che presso terzi; 
+ 
+
+ a - rappresenta la relativa percentuale di avanzamento; 
+ 
+
+ A3 - rappresenta il peso del materiale pronto in officina, sia in cantiere che presso terzi; 
+ 
+
+ A4 - rappresenta il peso del materiale sistemato a bordo o sui blocchi di prefabbricazione. 
+ 
+
+ d) Il grado di avanzamento dell'apparato motore è valutato con la formula: 
+ 
+
+ M1 x 0,80 + m1 x 0,20 
+ 
+
+ 
+ 
+
+ M m 
+ 
+
+ dove: 
+ 
+
+ M - rappresenta il peso delle motrici principali, complete di accessori, riduttori, linee d'assi, eliche e gruppi elettrogeni principali e/o caldaie, principali e non; 
+ 
+
+ M1 - (m1) rappresenta il peso degli elementi compresi in M(m) che può essere considerato finito, da valutarsi secondo il criterio di seguito indicato o altro ritenuto equivalente in relazione alla rilevanza dell'elemento preso in considerazione: 
+ 
+
+ 
+ 
+
+ 0,25 x P1 + 0,45 x P2 + 0,20 x P3 + 0,05 x P4 + 0,05 x P5 
+ 
+
+ 
+ 
+
+ P 
+ 
+
+ P1 - rappresenta il peso netto dei materiali passati in lavorazione in officina; 
+ 
+
+ P2 - rappresenta il peso dei materiali lavorati in officina, in tutte le loro parti, e pronti al montaggio; 
+ 
+
+ P3 - rappresenta il peso dei materiali ed oggetti montati sul banco di prova in officina; 
+ 
+
+ P4 - rappresenta il peso dei macchinari, dopo eseguite le prove in 
+ 
+
+ officina; 
+ 
+
+ P5 - rappresenta il peso dei macchinari, dopo eseguito il montaggio a bordo della nave; 
+ 
+
+ P - rappresenta il peso dei macchinari completamente montati a bordo; 
+ 
+
+ m - rappresenta il peso degli ausiliari dell'apparato motore e degli altri elementi necessari al suo funzionamento, dichiarato dal cantiere. 
+ 
+
+ 2-a) Per le unità prive di apparato motore di propulsione vengono assegnati: 
+ 
+
+ allo scafo il coefficiente: 0,80; 
+ 
+
+ all'allestimento il coefficiente: 0,20; 
+ 
+
+ a richiesta del cantiere e per giustificati motivi possono essere riconosciuti dal Ministero della marina mercantile, sentito il parere del Registro italiano navale, coefficienti diversi. 
+ 
+
+ b) Il grado di avanzamento si calcola in maniera analoga a quanto detto al punto 1). 
+ 
+
+ 3-a) Costituiscono il peso "apparato motore": 
+ 
+
+ i macchinari principali ed ausiliari per la propulsione della nave completi di accessori, tubolature, grigliati, scale, paglioli, condotti di scarico; 
+ 
+
+ le linee d'assi e i relativi supporti, astucci ed eliche; 
+ 
+
+ le caldaie ausiliarie complete dei macchinari accessori e tubolature per il loro funzionamento; 
+ 
+
+ i gruppi elettrogeni principali completi di accessori, tubolature, grigliati, scale, paglioli, condotti di scarico; 
+ 
+
+ le pompe e tubolature per imbarco e travaso combustibile; 
+ 
+
+ gli impianti di automazione relativi ai macchinari precedentemente indicati; 
+ 
+
+ le macchine utensili (officina di macchina); 
+ 
+
+ i carriponte, paranchi e mezzi di sollevamento in genere per servizi dell'apparato motore; 
+ 
+
+ gli impianti di ventilazione dell'apparato motore. 
+ 
+
+ b) Costituiscono il peso "allestimento": 
+ 
+
+ gli impianti ed i macchinari per il servizio nave non inclusi nell'apparato motore, nonchè quelli per il servizio dei passeggeri, dell'equipaggio e del carico; 
+ 
+
+ il timone, gli stabilizzatori, le eliche direzionali ed i macchinari ed impianti relativi; 
+ 
+
+ le casse ed i serbatoi per il carico quando non contribuenti alla robustezza della nave (separati dalla struttura dello scafo).

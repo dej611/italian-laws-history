@@ -1,0 +1,295 @@
+TABELLA DI CONVERSIONE DA STAZZA LORDA GT. (Calcolata secondo la 
+ 
+
+ convenzione di Londra del 28 giugno 1969, ratificata con legge 22 ottobre 1973, n. 958) in T.S.L.C. 
+ 
+
+ 
+ 
+
+ Classe A 
+ 
+
+ TIPI DI NAVE: CISTERNE PER GREGGIO, PRODOTTI PULITI, 
+ 
+
+ NAVI PORTARINFUSE SECCHE E/O LIQUIDE 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 2.857 . . . . . . . . . . . . . . . . . . . . . . . . 2,625 Oltre 2.857 fino a 5.714 . . . . . . . . . . . . . . . . . 1,89 
+ 
+
+ Oltre 5.714 fino a 17.143 . . . . . . . . . . . . . . . . . 1,365 Oltre 17.143 fino a 28.571 . . . . . . . . . . . . . . . . . 1,05 
+ 
+
+ Oltre 28.571 fino a 42.857 . . . . . . . . . . . . . . . . . 0,84 
+ 
+
+ Oltre 42.857 fino a 80.952 . . . . . . . . . . . . . . . . . 0,63 
+ 
+
+ Oltre 80.952 fino a 119.048 . . . . . . . . . . . . . . . . . 0,525 Oltre 119.048 . . . . . . . . . . . . . . . . . . . . . . . . 0,3675 
+ 
+
+ Classe B 
+ 
+
+ TIPI DI NAVE: NAVI DA CARICO GENERALE AD UN PONTE, 
+ 
+
+ NAVI PORTACONTENITORI CELLULARI AD UN PONTE 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 3.000 . . . . . . . . . . . . . . . . . . . . . . . . . 2,80 Oltre 3.000 fino a 7.500 . . . . . . . . . . . . . . . . . . . 2,00 Oltre 7.500 fino a 18.000 . . . . . . . . . . . . . . . . . . . 1,50 Oltre 18.000 . . . . . . . . . . . . . . . . . . . . . . . . . 1,00 
+ 
+
+ Classe B1 
+ 
+
+ TIPI DI NAVE: NAVI DA CARICO GENERALE A DUE O PIù PONTI 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 4.000 . . . . . . . . . . . . . . . . . . . . . . . . . 1,05 Oltre 4.000 fino a 7.500 . . . . . . . . . . . . . . . . . . . 2,00 Oltre 7.500 fino a 18.000 . . . . . . . . . . . . . . . . . . . 1,50 Oltre 18.000 . . . . . . . . . . . . . . . . . . . . . . . . . 1,00 
+ 
+
+ Classe B2 
+ 
+
+ TIPI DI NAVE: NAVI PORTACONTENITORI CELLULARI A DUE O PIù PONTI 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 5.455 . . . . . . . . . . . . . . . . . . . . . . . . 1,54 Oltre 5.455 fino a 13.636 . . . . . . . . . . . . . . . . . . 1,1 
+ 
+
+ Oltre 13.636 fino a 32.727 . . . . . . . . . . . . . . . . . 0,825 Oltre 32.727 . . . . . . . . . . . . . . . . . . . . . . . . 0,55 
+ 
+
+ Classe C 
+ 
+
+ TIPI DI NAVE: NAVI FRIGORIFERE 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 3.000 . . . . . . . . . . . . . . . . . . . . . . . . 3,50 Oltre 3.000 fino a 5.000 . . . . . . . . . . . . . . . . . . 2,50 Oltre 5.000 fino a 10.000 . . . . . . . . . . . . . . . . . . 1,80 Oltre 10.000 fino a 20.000 . . . . . . . . . . . . . . . . . 1,60 Oltre 20.000 fino a 30.000 . . . . . . . . . . . . . . . . . 1,20 Oltre 30.000 . . . . . . . . . . . . . . . . . . . . . . . . 0,90 
+ 
+
+ Classe C1 
+ 
+
+ TIPI DI NAVE: NAVI ROLL/ON-ROLL/OFF, NAVI TRAGHETTO MERCI, 
+ 
+
+ NAVI PER CARICHI UNITIZZATI, NAVI PORTA AUTO 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 8.570 . . . . . . . . . . . . . . . . . . . . . . . . 1,225 Oltre 8.570 fino a 14.285 . . . . . . . . . . . . . . . . . . 0,875 Oltre 14.285 fino a 28.570 . . . . . . . . . . . . . . . . . 0,63 Oltre 28.570 fino a 57.143 . . . . . . . . . . . . . . . . . 0,56 Oltre 57.143 fino a 85.714 . . . . . . . . . . . . . . . . . 0,42 Oltre 85.714 . . . . . . . . . . . . . . . . . . . . . . . . 0,315 
+ 
+
+ 
+ 
+
+ Classe C2 
+ 
+
+ TIPI DI NAVE: NAVI PORTA BESTIAME 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 5.000 . . . . . . . . . . . . . . . . . . . . . . . . 2,10 Oltre 5.000 fino a 8.335 . . . . . . . . . . . . . . . . . . 1,50 Oltre 8.335 fino a 16.665 . . . . . . . . . . . . . . . . . . 1,08 Oltre 16.665 fino a 33.335 . . . . . . . . . . . . . . . . . 0,96 Oltre 33.335 fino a 50.000 . . . . . . . . . . . . . . . . . 0,72 Oltre 50.000 . . . . . . . . . . . . . . . . . . . . . . . . 0,54 
+ 
+
+ Classe C3 
+ 
+
+ TIPI DI NAVE: NAVI GASIERE ED ALTRE SPECIALI DA CARICO SECCO 
+ 
+
+ O LIQUIDO CON COMPRESE IN ALTRE CLASSI 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 2.857 . . . . . . . . . . . . . . . . . . . . . . . . 3,675 Oltre 2.857 fino a 4.762 . . . . . . . . . . . . . . . . . . 2,625 Oltre 4.762 fino a 9.524 . . . . . . . . . . . . . . . . . . 1,89 Oltre 9.524 fino a 19.048 . . . . . . . . . . . . . . . . . . 1,68 Oltre 19.048 fino a 28.571 . . . . . . . . . . . . . . . . . 1,26 Oltre 28.571 . . . . . . . . . . . . . . . . . . . . . . . . 0,945 
+ 
+
+ 
+ 
+
+ Classe D 
+ 
+
+ TIPI DI NAVE: NAVI TRAGHETTO MISTE 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 7.692 . . . . . . . . . . . . . . . . . . . . . . . . 1,950 Oltre 7.692 . . . . . . . . . . . . . . . . . . . . . . . . . 1,625 
+ 
+
+ Classe D1 
+ 
+
+ TIPI DI NAVE: ALISCAFI, DA PASSEGGERI E NAVI ABILITATE ALLA 
+ 
+
+ NAVIGAZIONE LAGUNARE DI VENEZIA 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 5.000 . . . . . . . . . . . . . . . . . . . . . . . . 3,00 Oltre 5.000 . . . . . . . . . . . . . . . . . . . . . . . . . 2,50 
+ 
+
+ Classe E 
+ 
+
+ TIPI DI NAVE: RIMORCHIATORI, SPINTORI, DRAGHE, NAVI POSA TUBI, 
+ 
+
+ NAVI NON DA TRASPORTO, NON COMPRESE IN ALTRE CLASSI 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 500 . . . . . . . . . . . . . . . . . . . . . . . . . 5,00 Oltre 500 fino a 2.000 . . . . . . . . . . . . . . . . . . . 3,00 Oltre 2.000 fino a 5.000 . . . . . . . . . . . . . . . . . . 2,50 Oltre 5.000 fino a 10.000 . . . . . . . . . . . . . . . . . . 2,00 Oltre 10.000 fino a 20.000 . . . . . . . . . . . . . . . . . 1,50 Oltre 20.000 fino a 30.000 . . . . . . . . . . . . . . . . . 1,00 Oltre 30.000 . . . . . . . . . . . . . . . . . . . . . . . . 0,90 
+ 
+
+ Classe E1 
+ 
+
+ TIPI DI NAVE: NAVI APPOGGIO 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 625 . . . . . . . . . . . . . . . . . . . . . . . . . 4,0 
+ 
+
+ Oltre 625 fino a 2.500 . . . . . . . . . . . . . . . . . . . 2,4 
+ 
+
+ Oltre 2.500 fino a 6.250 . . . . . . . . . . . . . . . . . . 2,0 
+ 
+
+ Oltre 6.250 fino a 12.500 . . . . . . . . . . . . . . . . . . 1,6 
+ 
+
+ Oltre 12.500 fino a 25.000 . . . . . . . . . . . . . . . . . 1,2 
+ 
+
+ Oltre 25.000 fino a 37.500 . . . . . . . . . . . . . . . . . 0,8 
+ 
+
+ Oltre 37.500 . . . . . . . . . . . . . . . . . . . . . . . . 0,72 
+ 
+
+ Classe F 
+ 
+
+ TIPI DI NAVE: GALLEGGIANTI E CHIATTE 
+ 
+
+ 
+ 
+
+ Classi di tonnellaggio GT Coefficienti 
+ 
+
+ - - 
+ 
+
+ Fino a 3.000 . . . . . . . . . . . . . . . . . . . . . . . . 1,00 Oltre 3.000 fino a 10.000 . . . . . . . . . . . . . . . . . . 0,80 Oltre 10.000 . . . . . . . . . . . . . . . . . . . . . . . . 0,50
