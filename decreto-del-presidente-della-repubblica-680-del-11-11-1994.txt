@@ -1,0 +1,305 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visto l'art. 87, quinto comma, della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'art. 16 del decreto legislativo 12 febbraio 1993, n. 39, recante norme per il coordinamento delle disposizioni in materia di sistemi informativi automatizzati delle amministrazioni pubbliche con quelle concernenti la sicurezza dello Stato;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 24 ottobre 1977, n. 801, sull'istituzione e ordinamento dei Servizi per le informazioni e la sicurezza e disciplina del segreto di Stato ed in particolare gli articoli 1, 2, 3, 4, 5, 6, 7, 9, 10 e 12 della medesima legge;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'art. 17, comma 1, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 2 giugno 1994;
+
+ 
+
+ 
+ Acquisita l'intesa con l'Autorità per l'informatica nella pubblica amministrazione;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1994;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ 
+
+ EMANA
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente regolamento si intende: 
+ 
+
+ 
+ 
+
+ 
+ a) per legge, la legge 24 ottobre 1977, n. 801; 
+ 
+
+ 
+ 
+
+ 
+ b) per decreto legislativo, il decreto legislativo 12 febbraio 1993, n. 39; 
+ 
+
+ 
+ 
+
+ 
+ c) per Organismi, gli Organismi di informazione e di sicurezza di cui agli articoli 3, 4 e 6 della legge 24 ottobre 1977, n. 801; 
+ 
+
+ 
+ 
+
+ 
+ d) per Servizi, il Servizio per le informazioni e la sicurezza militare (SISMI) ed il Servizio per le informazioni e la sicurezza democratica (SISDE); 
+ 
+
+ 
+ 
+
+ 
+ e) per ANS, l'Autorità nazionale per la sicurezza per la protezione delle informazioni coperte dal segreto di Stato; 
+ 
+
+ 
+ 
+
+ 
+ f) per Segreteria del CESIS, la Segreteria generale del Comitato esecutivo per i servizi di informazione e di sicurezza; 
+ 
+
+ 
+ 
+
+ 
+ g) per Autorità, l'Autorità per l'informatica nella pubblica amministrazione. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ AVVERTENZA: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica è sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
+ 
+
+ - Il testo dell'art. 16 del D.Lgs. n. 39/1993 (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421) è il seguente: 
+ 
+
+ "Art. 16. - 1. Entro il 31 dicembre 1993 sono adottati, su proposta dei Ministri competenti, d'intesa con l'Autorità, uno o più regolamenti governativi emanati ai sensi dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, al fine di coordinare le disposizioni del presente decreto con le esigenze di gestione dei sistemi informativi automatizzati concernenti la sicurezza dello Stato, la difesa nazionale, l'ordine e la sicurezza pubblica, lo svolgimento di consultazioni elettorali nazionali ed europee. 
+ 
+
+ 2. Le disposizioni del presente decreto si applicano ai sistemi informativi automatizzati di cui al comma 1, contestualmente ai regolamenti ivi previsti, a decorrere dal 1 gennaio 1994. Restano comunque ferme le disposizioni di cui agli articoli da 6 a 12 della legge 1 aprile 1981, n. 121, e dei relativi provvedimenti di attuazione concernenti il funzionamento del centro elaborazione dati di cui all'art. 8 della stessa legge. 
+ 
+
+ 3. Per ragioni di assoluta urgenza, le amministrazioni di cui al comma 1 hanno facoltà di procedere indipendentemente dal parere dell'Autorità di cui all'art. 8, dandone comunicazione all'Autorità medesima. In tali casi le amministrazioni richiedono direttamente al Consiglio di Stato il parere di competenza, che viene espresso nei termini di cui all'art. 8, comma 4, ridotti della metà. 
+ 
+
+ 4. Le comunicazioni all'Autorità concernenti la progettazione, lo sviluppo e la gestione dei sistemi informativi automatizzati di cui al comma 1 sono coperte dal segreto d'ufficio o dal segreto di Stato, secondo l'indicazione dell'amministrazione interessata. 
+ 
+
+ 5. Dall'applicazione del presente decreto sono esclusi gli enti che svolgono la loro attività nelle materie di cui all'art. 1 del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691. 
+ 
+
+ 6. Sono fatte salve le disposizioni di legge relative al trattamento di dati personali. 
+ 
+
+ 7. Ai fini dell'integrazione e dell'interconnessione dei sistemi informativi automatizzati resta fermo quanto previsto dall'art. 24 della legge 7 agosto 1990, n. 241. 
+ 
+
+ 8. Con i regolamenti di cui al comma 1 sono altresì individuate particolari modalità di applicazione del presente decreto in relazione all'Amministrazione della giustizia". 
+ 
+
+ - Il testo degli articoli 1, 2, 3, 4, 5, 6, 7, 9, 10 e 12 della legge n. 801/1977 (Istituzione e ordinamento dei servizi per le informazioni e la sicurezza e disciplina del segreto di Stato) è il seguente: 
+ 
+
+ "Art. 1. - Al Presidente del Consiglio dei Ministri sono attribuiti l'alta direzione, la responsabilità politica generale e il coordinamento della politica informativa e di sicurezza nell'interesse e per la difesa dello Stato democratico e delle istituzioni poste dalla Costituzione a suo fondamento. 
+ 
+
+ Il Presidente del Consiglio dei Ministri impartisce le direttive ed emana ogni disposizione necessaria per la organizzazione ed il funzionamento delle attività attinenti ai fini di cui al comma precedente; controlla la applicazione dei criteri relativi alla apposizione del segreto di Stato e alla individuazione degli organi a ciò competenti; esercita la tutela del segreto di Stato". 
+ 
+
+ "Art. 2. - Presso la Presidenza del Consiglio dei Ministri è istituito un Comitato interministeriale per le informazioni e la sicurezza con funzioni di consulenza e proposta, per il Presidente del Consiglio dei Ministri, sugli indirizzi generali e sugli obiettivi fondamentali da perseguire nel quadro della politica informativa e di sicurezza. 
+ 
+
+ Il Comitato è presieduto dal Presidente del Consiglio dei Ministri ed è composto dai Ministri per gli affari esteri, per l'interno, per la grazia e giustizia, per la difesa, per l'industria e per le finanze. 
+ 
+
+ Il Presidente del Consiglio dei Ministri può chiamare a partecipare alle sedute del Comitato interministeriale altri Ministri, i direttori dei Servizi di cui ai successivi articoli 4 e 6, autorità civili e militari ed esperti". 
+ 
+
+ "Art. 3. - è istituito, alla diretta dipendenza del Presidente del Consiglio dei Ministri, il Comitato esecutivo per i servizi di informazione e di sicurezza (CESIS). 
+ 
+
+ è compito del Comitato fornire al Presidente del Consiglio dei Ministri, ai fini del concreto espletamento delle funzioni a lui attribuite dall'art. 1, tutti gli elementi necessari per il coordinamento dell'attività dei Servizi previsti dai successivi articoli 4 e 6; l'analisi degli elementi comunicati dai suddetti Servizi; l'elaborazione delle relative situazioni. è altresì compito del Comitato il coordinamento dei rapporti con i servizi di informazione e di sicurezza degli altri Stati. 
+ 
+
+ Il Comitato è presieduto dal Presidente del Consiglio dei Ministri o, per sua delega, da un Sottosegretario di Stato. 
+ 
+
+ La segreteria generale del Comitato è affidata ad un funzionario dell'amministrazione dello Stato avente la qualifica di dirigente generale, la cui nomina e revoca spettano al Presidente del Consiglio dei Ministri, sentito il Comitato interministeriale di cui all'art. 2. 
+ 
+
+ Il Presidente del Consiglio dei Ministri determina la composizione del Comitato, di cui dovranno essere chiamati a far parte i direttori dei Servizi di cui ai successivi articoli 4 e 6, e istituisce gli uffici strettamente necessari per lo svolgimento della sua attività". 
+ 
+
+ "Art. 4. - è istituito il Servizio per le informazioni e la sicurezza militare (SISMI). Esso assolve a tutti i compiti informativi e di sicurezza per la difesa sul piano militare dell'indipendenza e della integrità dello Stato da ogni pericolo, minaccia o aggressione. Il SISMI svolge inoltre ai fini suddetti compiti di controspionaggio. 
+ 
+
+ Il Ministro per la difesa, dal quale il Servizio dipende, ne stabilisce l'ordinamento e ne cura l'attività sulla base delle direttive e delle disposizioni del Presidente del Consiglio dei Ministri ai sensi dell'art. 1. Il direttore del Servizio e gli altri funzionari indicati nelle disposizioni sull'ordinamento sono nominati dal Ministro per la difesa, su parere conforme del Comitato interministeriale di cui all'art. 2. 
+ 
+
+ Il SISMI è tenuto a comunicare al Ministro per la difesa e al Comitato di cui all'art. 3 tutte le informazioni ricevute o comunque in suo possesso, le analisi e le situazioni elaborate, le operazioni compiute e tutto ciò che attiene alla sua attività". 
+ 
+
+ "Art. 5. - I reparti e gli uffici addetti alla informazione, sicurezza e situazione esistenti presso ciascuna forza armata o corpo armato dello Stato hanno compiti di carattere esclusivamente tecnico-militare e di polizia militare limitatamente all'ambito della singola forza armata o corpo. Essi agiscono in stretto collegamento con il SISMI. 
+ 
+
+ è abrogata la lettera g) dell'art. 2 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1477". 
+ 
+
+ "Art. 6. - è istituito il Servizio per le informazioni e la sicurezza democratica (SISDE). Esso assolve a tutti i compiti informativi e di sicurezza per la difesa dello Stato democratico e delle istituzioni poste dalla Costituzione a suo fondamento contro chiunque vi attenti e contro ogni forma di eversione. 
+ 
+
+ Il Ministro per l'interno, dal quale il Servizio dipende, ne stabilisce l'ordinamento e ne cura l'attività sulla base delle direttive e delle disposizioni del Presidente del Consiglio dei Ministri ai sensi dell'art. 1. Il direttore del Servizio e gli altri funzionari indicati nelle disposizioni sull'ordinamento sono nominati dal Ministro per l'interno, su parere conforme del Comitato interministeriale di cui all'art. 2. 
+ 
+
+ Il SISDE è tenuto a comunicare al Ministro per l'interno e al Comitato di cui all'art. 3 tutte le informazioni ricevute o comunque in suo possesso, le analisi e le situazioni elaborate, le operazioni compiute e tutto ciò che attiene alla sua attività". 
+ 
+
+ "Art. 7. - Il personale di ciascuno dei Servizi istituiti dagli articoli 4 e 6 del Comitato di cui all'art. 3 è costituito da dipendenti civili e militari dello Stato che vengono trasferiti, con il loro consenso, alle esclusive dipendenze dei Servizi stessi, nonchè da personale assunto direttamente. In nessun caso i Servizi possono avere alle loro dipendenze, in modo organico o saltuario, membri del Parlamento, consiglieri regionali, provinciali, comunali, magistrati, ministri di culto e giornalisti professionisti. 
+ 
+
+ La consistenza dell'organico del Comitato di cui all'art. 3 e di ciascun Servizio, i casi e le modalità relativi al rientro dei dipendenti pubblici nelle amministrazioni di originaria appartenenza, il trattamento giuridico-economico e i casi e le modalità di trasferimento ad altra amministrazione dello Stato del personale assunto direttamente, sono stabiliti, anche in deroga ad ogni disposizione vigente, rispettivamente dal Presidente del Consiglio dei Ministri, dal Ministro per la difesa e dal Ministro per l'interno su parere conforme del Comitato interministeriale di cui all'art. 2 e di concerto con il Ministro per il tesoro. Il trattamento giuridico ed economico del personale del Comitato di cui all'art. 3 e dei Servizi di cui agli articoli 4 e 6, non può comunque essere inferiore a quello delle qualifiche corrispondenti del pubblico impiego. 
+ 
+
+ Il Comitato e i Servizi istituiti dagli articoli 3, 4 e 6 possono utilizzare, per determinazione del Presidente del Consiglio dei Ministri, su proposta rispettivamente dei Ministri per la difesa e per l'interno e di concerto con gli altri Ministri interessati, mezzi e infrastrutture di qualsiasi amministrazione dello Stato. 
+ 
+
+ Il SISMI e il SISDE debbono prestarsi reciproca collaborazione e assistenza". 
+ 
+
+ "Art. 9. - Gli appartenenti al Comitato di cui all'art. 3 e ai Servizi di cui agli articoli 4 e 6 non rivestono la qualità di ufficiali o di agenti di polizia giudiziaria; tale qualità è sospesa durante il periodo di appartenenza al Comitato e ai Servizi per coloro che la rivestono in base agli ordinamenti dell'amministrazione di provenienza. 
+ 
+
+ In deroga alle ordinarie disposizioni, gli appartenenti ai Servizi hanno l'obbligo di fare rapporto, tramite i loro superiori, esclusivamente ai direttori dei Servizi, che ne riferiscono rispettivamente al Ministro per la difesa e al Ministro per l'interno e, contemporaneamente, al Presidente del Consiglio dei Ministri tramite il Comitato di cui all'art. 3. 
+ 
+
+ I direttori dei Servizi istituiti dagli articoli 4 e 6 hanno l'obbligo, altresì, di fornire ai competenti organi di polizia giudiziaria le informazioni e gli elementi di prova relativi a fatti configurabili come reati. 
+ 
+
+ L'adempimento dell'obbligo di cui al precedente comma può essere ritardato, su disposizione del Ministro competente con l'esplicito consenso del Presidente del Consiglio, quando ciò sia strettamente necessario per il perseguimento delle finalità istituzionali dei Servizi. 
+ 
+
+ Tutti gli ufficiali ed agenti di polizia giudiziaria debbono fornire ogni possibile cooperazione agli agenti dei Servizi". 
+ 
+
+ "Art. 10. - Nessuna attività comunque idonea per l'informazione e la sicurezza può essere svolta al di fuori degli strumenti, delle modalità, delle competenze e dei fini previsti dalla presente legge. 
+ 
+
+ Sono abrogate tutte le disposizioni interne e regolamentari in contrasto o comunque non compatibili con la legge stessa; le nuove disposizioni dovranno essere immediatamente emanate dagli organi competenti. 
+ 
+
+ Nella prima applicazione della presente legge, e fino alla formazione dei ruoli dei Servizi previsti dagli articoli 4 e 6, i Servizi stessi si avvalgono, con l'osservanza di quanto disposto dall'art. 8, di personale dei servizi fin qui esistenti presso i Ministeri della difesa e dell'interno (SID e SdS). 
+ 
+
+ Tali servizi cessano comunque di operare entro sei mesi dalla data di entrata in vigore della presente legge e tutti i mezzi, la documentazione e le strutture tecniche confluiranno, su determinazione del Presidente del Consiglio dei Ministri, sentiti i Ministri per l'interno e per la difesa, nei Servizi istituiti dagli articoli 4 e 6, secondo le competenze e le funzioni loro attribuite". 
+ 
+
+ "Art. 12. - Sono coperti dal segreto di Stato gli atti, i documenti, le notizie, le attività e ogni altra cosa la cui diffusione sia idonea a recar danno alla integrità dello Stato democratico, anche in relazione ad accordi internazionali, alla difesa delle istituzioni poste dalla Costituzione a suo fondamento, al libero esercizio delle funzioni degli organi costituzionali, alla indipendenza dello Stato rispetto agli altri Stati e alle relazioni con essi, alla preparazione e alla difesa militare dello Stato.
+ 
+
+ In nessun caso possono essere oggetto di segreto di Stato fatti eversivi dell'ordine costituzionale". 
+ 
+
+ - Il comma 1 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'art. 74 del D.Lgs. 3 febbraio 1993, n. 29, prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolarmente per: 
+ 
+
+ a) l'esecuzione delle leggi e dei decreti legislativi; b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
+ 
+
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
+ 
+
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge. 
+ 
+
+ Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per il titolo e per gli articoli 3, 4 e 6 della legge n. 801/1977 si veda in nota alle premesse. 
+ 
+
+ - Per il titolo del D.Lgs. n. 39/1z993 si veda in nota alle premesse.
