@@ -38,11 +38,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
- ((
- 
-
- 
  1. Le banche, le società di intermediazione mobiliare e l'Ente poste italiane mantengono evidenza, anche mediante rilevazione elettronica, dei trasferimenti da o verso l'estero di denaro, titoli o certificati in serie o di massa, di importo superiore a 20 milioni, effettuati, anche attraverso movimentazione di conti o mediante assegni postali, bancari e circolari, per conto o a favore di persone fisiche, enti non commerciali e di società semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, residenti in Italia. Tali evidenze riguardano le generalità o la denominazione o la ragione sociale, il domicilio, il codice fiscale del soggetto residente in Italia per conto o a favore del quale è effettuato il trasferimento, nonchè la data, lacausale e l'importo del trasferimento medesimo e gli estremi identificativi degli eventuali conti di destinazione. 
  
 
@@ -59,7 +54,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Le evidenze di cui ai commi 1 e 2 sono tenute a disposizione dell'amministrazione finanziaria per cinque anni e trasmesse alla stessa secondo le modalità stabilite con i decreti di cui all'articolo 7. 
+ 
+ ((3. Le evidenze di cui ai commi 1 e 2 sono tenute a disposizione dell'amministrazione finanziaria per cinque anni e trasmesse alla stessa secondo le modalità stabilite con i provvedimenti di cui all'articolo 7, comma 1))
+ 
+
+ 
+
+ 
+ 4. Gli obblighi previsti dal presente articolo si applicano altresì per gli acquisti e le vendite di certificati in serie o di massa o di titoli esteri effettuati da persone fisiche, enti non commerciali e di società semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, residenti in Italia, e nei quali comunque intervengono le banche, le società d'intermediazione mobiliare e gli altri soggetti indicati nei commi 1 e 2. 
  
 
  
@@ -67,14 +69,5 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Gli obblighi previsti dal presente articolo si applicano altresì per gli acquisti e le vendite di certificati in serie o di massa o di titoli esteri effettuati da persone fisiche, enti non commerciali e di società semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, residenti in Italia, e nei quali comunque intervengono le banche, le società d'intermediazione mobiliare e gli altri soggetti indicati nei commi 1 e 2.
  
-
- 
- ))
- 
-
- 
-
- 
- 4-bis. Gli intermediari di cui ai commi 1 e 2 possono effettuare, per conto dei soggetti indicati nell'articolo 4, comma 1, non residenti, trasferimenti verso l'estero nei limiti dei trasferimenti dall'estero complessivamente effettuati o ricevuti, e dei corrispettivi o altri introiti realizzati in Italia, documentati all'intermediario secondo criteri da stabilire con decreto del Ministro delle finanze.
+ ((4-bis. Gli intermediari di cui ai commi 1 e 2 possono effettuare, per conto dei soggettì indicati nell'articolo 4, comma 1, non residenti, trasferimenti verso l'estero nei limiti dei trasferimenti dall' estero complessivamente effettuati o ricevuti, e dei corrispettivi o altri introiti realizzati in Italia, documentati all'intermediario secondo i criteri stabiliti con i provvedimenti di cui all'articolo 7, comma 1))
