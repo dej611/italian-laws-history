@@ -155,7 +155,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  Gli esami di concorso ai posti di primario consteranno delle seguenti prove:
  
 
- a) esame clinico di due infermi estratti a sorte al momento della prova con dissertazione scritta sulla diagnosi, prognosi o terapia, con esecuzione delle eventuali ricerche di laboratorio;
+ a) esame clinico di due infermi estratti a sorte al momento della prova con dissertazione scritta sulla diagnosi, 
+ ((prognosi e terapia))
+
+ , con esecuzione delle eventuali ricerche di laboratorio;
  
 
  b) esame orale di cultura generale in rapporto al casi clinici osservati e sempre attinente alla materia che riguarda il posto messo a concorso;
