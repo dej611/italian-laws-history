@@ -1,3 +1,193 @@
-Art. 1
+IL PRESIDENTE DELLA REPUBBLICA
 
- NON ANCORA ESISTENTE O VIGENTE
+ 
+ 
+ 
+ Visti gli articoli 76 e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva 1999/5/CE concernente le apparecchiature radio, le apparecchiature terminali di telecomunicazioni e il reciproco riconoscimento della loro conformità;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 9 della legge 29 dicembre 2000, n. 422, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - legge comunitaria 2000;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 novembre 1996, n. 614, di attuazione della direttiva 91/263/CEE concernente il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformità, come modificata dalle direttive 93/68/CEE ed integrata dalla direttiva 93/97/CEE;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 novembre 1996, n. 615, di attuazione della direttiva 89/336/CEE del Consiglio del 3 maggio 1989, in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica, modificata ed integrata dalla direttiva 92/31/CEE del Consiglio, del 28 aprile 1992, dalla direttiva 93/68/CEE del Consiglio, del 22 luglio 1993 e dalla direttiva 93/97/CEE del Consiglio, del 29 ottobre 1993;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro delle poste e delle telecomunicazioni 17 aprile 1997, n. 160, che approva il regolamento per la procedura di approvazione nazionale delle apparecchiature terminali di telecomunicazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazione del Consiglio di Ministri, adottata nella riunione del 2 marzo 2001;
+
+ 
+ 
+ 
+
+ 
+ Acquisito il parere delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 2001;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle comunicazioni, di concerto con i Ministri degli affari esteri, della giustizia, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, dell'interno e del tesoro, del bilancio e della programmazione economica;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto, valgono le seguenti definizioni:
+ 
+
+ 
+ 
+
+ 
+ a) "apparecchio": qualsiasi apparecchiatura che sia un'apparecchiatura radio o un'apparecchiatura terminale di telecomunicazione o entrambe;
+ 
+
+ 
+ 
+
+ 
+ b) "apparecchiatura terminale di telecomunicazione": è un prodotto che consente la comunicazione, o un suo componente essenziale, destinato ad essere connesso in qualsiasi modo, direttamente o indirettamente, ad interfacce di reti pubbliche di telecomunicazione, cioè di reti di telecomunicazione utilizzate, interamente o parzialmente, per fornire servizi di telecomunicazione accessibili al pubblico;
+ 
+
+ 
+ 
+
+ 
+ c) "apparecchiatura radio": è un prodotto, o un suo componente essenziale, in grado di comunicare mediante l'emissione e la ricezione di onde radio impiegando lo spettro attribuito 
+ (( alle radiocomunicazioni di Terra e spaziali ))
+
+ ;
+ 
+
+ 
+ 
+
+ 
+ d) "onde radio": onde elettromagnetiche di frequenza compresa tra 9 kHz e 3000 GHz, che si propagano nello spazio senza guida artificiale;
+ 
+
+ 
+ 
+
+ 
+ e) "interfaccia":
+ 
+
+ 1) un punto terminale di rete che costituisce un punto di connessione fisica, tramite il quale l'utente può avere accesso alle reti pubbliche di telecomunicazione, incluse le specifiche tecniche di tali connessioni;
+ 
+
+ 2) un'interfaccia radio che definisce la connessione radioelettrica tra le apparecchiature radio, ivi comprese le specifiche tecniche di tali connessioni;
+ 
+
+ 
+ 
+
+ 
+ f) "categoria di apparecchiature": è la categoria che individua particolari tipi di apparecchi che, ai sensi del presente decreto, sono considerati simili e che specifica a quali interfacce l'apparecchio è destinato ad essere collegato; l'apparecchio può appartenere a più di una categoria di apparecchiature;
+ 
+
+ 
+ 
+
+ 
+ g) "fascicolo tecnico di fabbricazione": è la documentazione che descrive l'apparecchio e fornisce informazioni e chiarimenti sulle modalità con le quali sono stati rispettati i requisiti essenziali applicabili;
+ 
+
+ 
+ 
+
+ 
+ h) "specifica tecnica": è la specificazione che figura in un documento che definisce le caratteristiche richieste di un prodotto, quali i livelli di qualità, le prestazioni, la sicurezza e le dimensioni, comprese le prescrizioni applicabili ad un prodotto per quanto riguarda la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marcatura e l'etichettatura;
+ 
+
+ 
+ 
+
+ 
+ i) "norma armonizzata": è la specifica tecnica adottata da un organismo di normalizzazione riconosciuto, in forza di un mandato della Commissione europea e secondo le procedure di informazione nel settore delle norme e delle regolamentazioni tecniche di cui alle direttive 98/34/CE e 98/48/CE allo scopo di stabilire un "requisito europeo", al quale non è obbligatorio conformarsi ma il cui rispetto fa presumere la conformità ai requisiti essenziali di cui all'articolo 3;
+ 
+
+ 
+ 
+
+ 
+ j) "regola tecnica comune": è la specifica tecnica per le apparecchiature di rete fisica, derivata da norme tecniche internazionali o europee, valida nei Paesi membri dell'Unione europea e la cui osservanza è obbligatoria solo per le apparecchiature della rete fisica;
+ 
+
+ 
+ 
+
+ 
+ k) "interferenze dannose": sono le interferenze che pregiudicano il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriorano gravemente, ostacolano o interrompono ripetutamente un servizio di radiocomunicazione che opera conformemente 
+ (( alle normative comunitarie o nazionali applicabili ))
+
+ ;
+ 
+
+ 
+ 
+
+ 
+ l) "immissione sul mercato": il passaggio dalla fase di produzione a quella di messa a disposizione dell'apparecchio, ai fini della distribuzione, a pagamento o a titolo gratuito, ovvero dell'uso nel mercato interno.
