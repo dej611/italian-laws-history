@@ -56,7 +56,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- (Definizioni)
+ Definizioni
 
  
  
@@ -91,10 +91,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) dispositivo di diagnosi in vitro: qualsiasi dispositivo composto da un reagente, da un prodotto reattivo, da un insieme, da uno strumento, da un apparecchio o da un sistema utilizzato da solo o in combinazione, destinato dal fabbricante ad essere impiegato in vitro per l'esame di campioni provenienti dal corpo umano al fine di fornire informazioni sugli stati fisiologici o sugli stati sanitari o di malattia o anomalia congenita;
- 
+ ((
 
- 
+ c) dispositivo medico-diagnostico in vitro: qualsiasi dispositivo medico composto da un reagente, da un prodotto reattivo, da un calibratore, da un materiale di controllo, da un kit, da uno strumento, da un apparecchio, un'attrezzatura o un sistema, utilizzato da solo o in combinazione, destinato dal fabbricante ad essere impiegato in vitro per l'esame di campioni provenienti dal corpo umano, inclusi sangue e tessuti donati, unicamente o principalmente allo scopo di fornire informazioni su uno stato fisiologico o patologico, o su una anomalia congenita, o informazioni che consentono la determinazione della sicurezza e della compatibilità con potenziali soggetti riceventi, o che consentono il controllo delle misure terapeutiche. I contenitori dei campioni sono considerati dispositivi medico-diagnostici in vitro. Si intendono per contenitori di campioni i dispositivi, del tipo sottovuoto o no, specificamente destinati dai fabbricanti a ricevere direttamente il campione proveniente dal corpo umano e a conservarlo ai fini di un esame diagnostico in vitro. I prodotti destinati ad usi generici di laboratorio non sono dispositivi medico-diagnostici in vitro a meno che, date le loro caratteristiche, siano specificamente destinati dal fabbricante ad esami diagnostici in vitro;
+
+ ))
+
  
 
  
@@ -135,6 +137,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  ((
 
- i) messa in servizio: fase in cui il dispositivo è pronto per la prima utilizzazione sul mercato comunitario secondo la sua destinazione.
+ 
+ i) messa in servizio: fase in cui il dispositivo è stato reso disponibile all'utilizzatore finale in quanto pronto per la prima utilizzazione sul mercato comunitario secondo la sua destinazione d'uso;
+ 
+
+ 
+ 
+
+ i-bis) mandatario: la persona fisica o giuridica stabilita nel territorio dell'Unione europea che, dopo essere stata espressamente designata dal fabbricante, agisce e può essere interpellata dalle autorità nazionali competenti e dagli organismi comunitari in vece del fabbricante per quanto riguarda gli obblighi che il presente decreto impone a quest'ultimo.
 
  ))
