@@ -1,0 +1,2634 @@
+((ALLEGATO 3 
+ 
+
+ 
+ 
+
+ (Articolo 6) 
+ 
+
+ 
+ 
+
+ Tabella 1A 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ congeneri per la determinazione dei PCB 
+ 
+
+ 
+ 
+ 
+ congeneri significativi da un punto di vista igienico- sanitario 28, 52, 95, 99, 101, 110, 128, 138, 146, 149, 151, 153, 170, 177, 180, 183, 187 
+ 
+
+ 
+ congeneri individuati dall'OMS come "dioxin like" 77, 81, 105, 114, 118, 123, 126, 156, 157, 167, 169, 189 
+ 
+
+ 
+ 
+ 
+ Per quanto riguarda i PCB, la normativa di settore (si veda, in particolare la nota 3 alla tabella dell'allegato IV al regolamento 2004/8507CE) prevede che, ove applicabile, sia utilizzato il metodo di calcolo indicato nelle norme europee EN 12766-1 e EN 12766-2". La norma EN 12766-2, in particolare, individua due procedimenti di calcolo definiti "metodo A" e "metodo B" che si basano sui risultati cromatografici della norma EN 12766-1. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1B Elenco delle PCDD e dei PCDF e rispettivi fattori di equivalenza da prendere in considerazione ai fini dell'ammissibilità 
+ 
+
+ in discarica. 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ PCDD/PCDF Fattore di equivalenza (TEF)(*) 
+ 
+
+ 
+ 2, 3, 7, 8 Tetraclorodibenzodiossina (TeCdd) 1 
+ 
+
+ 
+ 1, 2, 3, 7, 8 Pentaclorodibenzodiossina (PeCdd 1 
+ 
+
+ 
+ 1, 2, 3, 4, 7, 8 Esaclorodibenzodiossina (HxCdd) 0,1 
+ 
+
+ 
+ 1, 2, 3, 7, 8, 9 Esaclorodibenzodiossina (HxCdd) 0,1 
+ 
+
+ 
+ 1, 2, 3, 6, 7, 8 Esaclorodibenzodiossina (HxCdd) 0,1 
+ 
+
+ 
+ 1, 2, 3, 4, 6, 7, 8 Eptaclorodibenzodiossina (HpCdd) 0,01 
+ 
+
+ 
+ Octaclorodibenzodiossina (Ocdd) 0,0003 
+ 
+
+ 
+ 2, 3, 7, 8 Tetraclorodibenzofurano (TeCdf) 0,1 
+ 
+
+ 
+ 2, 3, 4, 7, 8 Pentaclorodibenzofurano (PeCdf) 0,3 
+ 
+
+ 
+ 1, 2, 3, 7, 8 Pentaclorodibenzofurano (PeCdf) 0,03 
+ 
+
+ 
+ 1, 2, 3, 4, 7, 8 Esaclorodibenzofurano (HxCdf) 0,1 
+ 
+
+ 
+ 1, 2, 3, 7, 8, 9 Esaclorodibenzofurano (HxCdf) 0,1 
+ 
+
+ 
+ 1, 2, 3, 6, 7, 8 Esaclorodibenzofurano (HxCdf) 0,1 
+ 
+
+ 
+ 2, 3, 4, 6, 7, 8 Esaclorodibenzofurano (HxCdf) 0,1 
+ 
+
+ 
+ 1, 2, 3, 4, 6, 7, 8 Eptaclorodibenzofurano (HpCdf) 0,01 
+ 
+
+ 
+ 1, 2, 3, 4, 7, 8, 9 Eptaclorodibenzofurano (HpCdf) 0,01 
+ 
+
+ 
+ Octaclorodibenzofurano (Ocdf) 0,0003 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (*) I valori di concentrazione totale delle PCDD e dei PCDF sono misurati in termini di tossicità equivalente (TEQ), ossia come somma delle concentrazioni delle singole PCDD e dei singoli PCDF (Ci), ciascuna moltiplicata per il rispettivo valore del fattore di 
+ 
+
+ tossicità equivalente (TEFi, Toxicity Equivalence Factor). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 2 - Rifiuti non ammessi in discarica ai sensi dell'articolo 6 
+ 
+
+ del presente decreto 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | |Proprietà principale che |
+ 
+
+ 
+ | | |comporta il divieto di |
+ 
+
+ 
+ |Codice |Descrizione |smaltimento in discarica |
+ 
+
+ 
+ | | |ai sensi dell'articolo 6 |
+ 
+
+ 
+ | | |del presente decreto |
+ 
+
+ 
+ +==========+==============================+=========================+
+ 
+
+ 
+ | |sterili che possono generare | |
+ 
+
+ 
+ | |acido prodotti dalla | |
+ 
+
+ 
+ |01 03 04 *|lavorazione di minerale |lettera c/d |
+ 
+
+ 
+ | |solforoso | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |04 01 04 |liquido di concia contenente | |
+ 
+
+ 
+ | |cromo |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |02 01 08 *|rifiuti agrochimici contenenti| |
+ 
+
+ 
+ | |sostanze pericolose |lettera g |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |02 01 09 |rifiuti agrochimici diversi da| |
+ 
+
+ 
+ | |quelli della voce 02 01 08 |lettera g |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |04 01 05 |liquido di concia non | |
+ 
+
+ 
+ | |contenente cromo |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |05 01 04 *|fanghi acidi prodotti da | |
+ 
+
+ 
+ | |processi di alchilazione |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |05 01 05 *|perdite di olio |lettera a) |
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |fanghi oleosi prodotti dalla | |
+ 
+
+ 
+ |05 01 06 *|manutenzione di impianti e |lettera a) |
+ 
+
+ 
+ | |apparecchiature |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |05 01 07 *|catrami acidi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti prodotti dalla |lettera b) |
+ 
+
+ 
+ |05 01 11 *|purificazione di carburanti +-------------------------+
+ 
+
+ 
+ | |tramite basi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ |05 01 12 *|acidi contenenti oli +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |05 06 01 *|catrami acidi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |06 01 01 *|acido solforico ed acido +-------------------------+
+ 
+
+ 
+ | |solforoso |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera |
+ 
+
+ 
+ |06 01 02 *|acido cloridrico +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |06 01 03 *|acido fluoridrico +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |06 01 04 *|acido fosforico e fosforoso +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ | | +-------------------------+
+ 
+
+ 
+ |06 01 05 *|acido nitrico e acido nitroso |lettera b (HP2) |
+ 
+
+ 
+ | | +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |06 01 06 *|altri acidi +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |06 02 01 *|idrossido di calcio |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |06 02 03 *|idrossido di ammonio +-------------------------+
+ 
+
+ 
+ | | |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |06 02 04 *|idrossido di sodio e di | |
+ 
+
+ 
+ | |potassio |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |06 07 04 *|soluzioni ed acidi, ad es. |lettera a |
+ 
+
+ 
+ | |acido di contatto |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |prodotti fitosanitari, agenti | |
+ 
+
+ 
+ |06 13 01 *|conservativi del legno ed |lettera g |
+ 
+
+ 
+ | |altri biocidi inorganici | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 01 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 01 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 01 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 02 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 02 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 02 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 03 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 03 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 03 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 04 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 04 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 04 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 05 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 05 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 05 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 06 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 06 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 06 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |07 07 01 *|soluzioni acquose di lavaggio | |
+ 
+
+ 
+ | |ed acque madri |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |solventi organici alogenati, | |
+ 
+
+ 
+ |07 07 03 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |altri solventi organici, | |
+ 
+
+ 
+ |07 07 04 *|soluzioni di lavaggio ed acque|lettera a |
+ 
+
+ 
+ | |madri | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |sospensioni acquose contenenti| |
+ 
+
+ 
+ | |pitture e vernici, contenenti | |
+ 
+
+ 
+ |08 01 19 *|solventi organici o altre |lettera a |
+ 
+
+ 
+ | |sostanze pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |sospensioni acquose contenenti| |
+ 
+
+ 
+ | |pitture e vernici, diverse da | |
+ 
+
+ 
+ |08 01 20 |quelle di cui alla voce |lettera a |
+ 
+
+ 
+ | |08 01 19 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |08 02 03 |sospensioni acquose contenenti| |
+ 
+
+ 
+ | |materiali ceramici |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |08 03 08 |rifiuti liquidi acquosi | |
+ 
+
+ 
+ | |contenenti inchiostro |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |08 03 16 *|residui di soluzioni chimiche | |
+ 
+
+ 
+ | |per incisione |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |08 03 19 *|oli dispersi |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |fanghi acquosi contenenti | |
+ 
+
+ 
+ | |adesivi e sigillanti, | |
+ 
+
+ 
+ |08 04 13 *|contenenti solventi organici |lettera a |
+ 
+
+ 
+ | |o altre sostanze pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |fanghi acquosi contenenti | |
+ 
+
+ 
+ | |adesivi e sigillanti, diversi | |
+ 
+
+ 
+ |08 04 14 |da quelli di cui alla voce |lettera a |
+ 
+
+ 
+ | |08 04 13 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti liquidi acquosi | |
+ 
+
+ 
+ | |contenenti adesivi e | |
+ 
+
+ 
+ |08 04 15 *|sigillanti, contenenti |lettera a |
+ 
+
+ 
+ | |solventi organici o altre | |
+ 
+
+ 
+ | |sostanze pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti liquidi acquosi | |
+ 
+
+ 
+ | |contenenti adesivi e | |
+ 
+
+ 
+ |08 04 16 |sigillanti, diversi da quelli |lettera a |
+ 
+
+ 
+ | |di cui alla voce 08 04 15 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |08 04 17 *|olio di resina |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |09 01 01 *|soluzioni di sviluppo e | |
+ 
+
+ 
+ | |attivanti a base acquosa |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |09 01 02 *|soluzioni di sviluppo per | |
+ 
+
+ 
+ | |lastre offset a base acquosa |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |09 01 03 *|soluzioni di sviluppo a base | |
+ 
+
+ 
+ | |di solventi |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |09 01 04 *|soluzioni fissative |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |soluzioni di lavaggio e | |
+ 
+
+ 
+ |09 01 05 *|soluzioni |lettera a |
+ 
+
+ 
+ | |di arresto-fissaggio | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti liquidi acquosi | |
+ 
+
+ 
+ | |prodotti dal recupero in loco | |
+ 
+
+ 
+ |09 01 13 *|dell'argento, diversi da |lettera a |
+ 
+
+ 
+ | |quelli di cui alla voce | |
+ 
+
+ 
+ | |09 01 06 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |10 01 09 *|acido solforico +-------------------------+
+ 
+
+ 
+ | | |lettere c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |fanghi acquosi da operazioni | |
+ 
+
+ 
+ |10 01 22 *|di pulizia caldaie, contenenti|lettera a |
+ 
+
+ 
+ | |sostanze pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |fanghi acquosi da operazioni | |
+ 
+
+ 
+ | |di pulizia caldaie, diversi | |
+ 
+
+ 
+ |10 01 23 |da quelli di cui alla voce |lettera a |
+ 
+
+ 
+ | |10 01 22 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |schiumature infiammabili o che| |
+ 
+
+ 
+ | |rilasciano, al contatto con | |
+ 
+
+ 
+ |10 03 15 *|l'acqua, gas infiammabili in |lettera b (HP3) |
+ 
+
+ 
+ | |quantità pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |scorie e schiumature | |
+ 
+
+ 
+ | |infiammabili o che rilasciano,| |
+ 
+
+ 
+ |10 05 10 *|al contatto con l'acqua, gas |lettera b (HP3) |
+ 
+
+ 
+ | |infiammabili in quantità | |
+ 
+
+ 
+ | |pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |impurità e schiumature | |
+ 
+
+ 
+ | |infiammabili o che rilasciano,| |
+ 
+
+ 
+ |10 08 10 *|al contatto con l'acqua, gas |lettera b (HP3) |
+ 
+
+ 
+ | |infiammabili in quantità | |
+ 
+
+ 
+ | |pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |11 01 05 *|acidi di decappaggio +-------------------------+
+ 
+
+ 
+ | | |lettere c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |11 01 06 *|acidi non specificati +-------------------------+
+ 
+
+ 
+ | |altrimenti |lettere c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a |
+ 
+
+ 
+ |11 01 07 *|basi di decappaggio +-------------------------+
+ 
+
+ 
+ | | |lettere c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |11 01 11 *|soluzioni acquose di lavaggio,| |
+ 
+
+ 
+ | |contenenti sostanze pericolose|lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |soluzioni acquose di lavaggio,| |
+ 
+
+ 
+ |11 01 12 |diverse da quelle di cui alla |lettera a |
+ 
+
+ 
+ | |voce 10 01 11 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |12 03 01 *|soluzioni acquose di lavaggio |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |oli minerali per macchinari, | |
+ 
+
+ 
+ |12 01 06 *|contenenti alogeni (eccetto |lettera a) |
+ 
+
+ 
+ | |emulsioni e soluzioni) |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |oli minerali per macchinari, | |
+ 
+
+ 
+ |12 01 07 *|non contenenti alogeni |lettera a) |
+ 
+
+ 
+ | |(eccetto emulsioni e |lettera b) |
+ 
+
+ 
+ | |soluzioni) | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |12 01 10 *|oli sintetici per macchinari |lettera a) |
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ | |oli per circuiti idraulici +-------------------------+
+ 
+
+ 
+ |13 01 01 *|contenenti PCB |lettera b) |
+ 
+
+ 
+ | | +-------------------------+
+ 
+
+ 
+ | | |lettera h) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 04 *|emulsioni clorurate +-------------------------+
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 05 *|emulsioni non clorurate +-------------------------+
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 09 *|oli minerali per circuiti +-------------------------+
+ 
+
+ 
+ | |idraulici, clorurati |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 10 *|oli minerali per circuiti +-------------------------+
+ 
+
+ 
+ | |idraulici, non clorurati |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 11 *|oli sintetici per circuiti +-------------------------+
+ 
+
+ 
+ | |idraulici |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 12 *|oli per circuiti idraulici, +-------------------------+
+ 
+
+ 
+ | |facilmente biodegradabili |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 01 13 *|altri oli per circuiti +-------------------------+
+ 
+
+ 
+ | |idraulici |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |scarti di olio minerale per |lettera a) |
+ 
+
+ 
+ |13 02 04 *|motori, ingranaggi e +-------------------------+
+ 
+
+ 
+ | |lubrificazione, clorurati |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |scarti di olio minerale per |lettera a) |
+ 
+
+ 
+ |13 02 05 *|motori, ingranaggi e +-------------------------+
+ 
+
+ 
+ | |lubrificazione, non clorurati |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |scarti di olio sintetico per |lettera a) |
+ 
+
+ 
+ |13 02 06 *|motori, ingranaggi e +-------------------------+
+ 
+
+ 
+ | |lubrificazione |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |olio per motori, ingranaggi |lettera a) |
+ 
+
+ 
+ |13 02 07 *|e lubrificazione, facilmente +-------------------------+
+ 
+
+ 
+ | |biodegradabile |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 02 08 *|altri oli per motori, +-------------------------+
+ 
+
+ 
+ | |ingranaggi e lubrificazione |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ | |oli isolanti e +-------------------------+
+ 
+
+ 
+ |13 03 01 *|termoconduttori, |lettera b) |
+ 
+
+ 
+ | |contenenti PCB +-------------------------+
+ 
+
+ 
+ | | |lettera h) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |oli minerali isolanti e | |
+ 
+
+ 
+ |13 03 06 *|termoconduttori clorurati, |lettera a) |
+ 
+
+ 
+ | |diversi da quelli di cui alla +-------------------------+
+ 
+
+ 
+ | |voce 13 03 01 |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 03 07 *|oli minerali isolanti e +-------------------------+
+ 
+
+ 
+ | |termoconduttori non clorurati |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 03 08 *|oli sintetici isolanti e +-------------------------+
+ 
+
+ 
+ | |termoconduttori |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |oli isolanti e |lettera a) |
+ 
+
+ 
+ |13 03 09 *|termoconduttori, facilmente +-------------------------+
+ 
+
+ 
+ | |biodegradabili |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 03 10 *|altri oli isolanti e +-------------------------+
+ 
+
+ 
+ | |termoconduttori |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 04 01 *|oli di sentina della +-------------------------+
+ 
+
+ 
+ | |navigazione interna |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 04 02 *|oli di sentina delle fognature+-------------------------+
+ 
+
+ 
+ | |dei moli |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 04 03 *|altri oli di sentina della +-------------------------+
+ 
+
+ 
+ | |navigazione |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 05 06 *|oli prodotti dalla separazione+-------------------------+
+ 
+
+ 
+ | |olio/acqua |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |lettera a) |
+ 
+
+ 
+ |13 05 07 *|acque oleose prodotte dalla +-------------------------+
+ 
+
+ 
+ | |separazione olio/acqua |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |13 07 01 *|olio combustibile e carburante|lettera a) |
+ 
+
+ 
+ | |diesel |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |13 07 02 *|petrolio |lettera a) |
+ 
+
+ 
+ | | |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |13 07 03 *|altri carburanti (comprese le |lettera a) |
+ 
+
+ 
+ | |miscele) |lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |14 06 01 *|clorofluorocarburi, HCFC, HFC |Lettera l) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |14 06 02 *|altri solventi e miscele di | |
+ 
+
+ 
+ | |solventi, alogenati |lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |14 06 03 *|altri solventi e miscele di | |
+ 
+
+ 
+ | |solventi |lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |Lettera m), pneumatici |
+ 
+
+ 
+ | | |interi fuori uso a |
+ 
+
+ 
+ | | |partire dal 16 luglio |
+ 
+
+ 
+ | | |2003, ad esclusione dei |
+ 
+
+ 
+ | | |pneumatici usati come |
+ 
+
+ 
+ | | |materiale di ingegneria, |
+ 
+
+ 
+ |16 01 03 |pneumatici fuori uso |ed i pneumatici fuori uso|
+ 
+
+ 
+ | | |triturati a partire da |
+ 
+
+ 
+ | | |tre anni da tale data, |
+ 
+
+ 
+ | | |esclusi in entrambi i |
+ 
+
+ 
+ | | |casi quelli per |
+ 
+
+ 
+ | | |biciclette e quelli con |
+ 
+
+ 
+ | | |un diametro esterno |
+ 
+
+ 
+ | | |superiore a 1.400 mm |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 01 09 *|componenti contenenti PCB |Lettera h) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 01 10 *|componenti esplosivi (ad | |
+ 
+
+ 
+ | |esempio "air bag") |Lettera b (HP1) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 01 13 *|liquidi per freni |lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 01 14 *|liquidi antigelo contenenti | |
+ 
+
+ 
+ | |sostanze pericolose |lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |liquidi antigelo diversi da | |
+ 
+
+ 
+ |16 01 15 |quelli di cui alla voce |lettera a) |
+ 
+
+ 
+ | |16 01 14 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 02 09 *|trasformatori e condensatori | |
+ 
+
+ 
+ | |contenenti PCB |Lettera h) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |apparecchiature fuori uso | |
+ 
+
+ 
+ | |contenenti PCB o da essi | |
+ 
+
+ 
+ |16 02 10 *|contaminate, diverse da quelle|Lettera h) |
+ 
+
+ 
+ | |di cui alla voce 16 02 09 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |apparecchiature fuori uso, | |
+ 
+
+ 
+ |16 02 11 *|contenenti clorofluorocarburi,|Lettera l) |
+ 
+
+ 
+ | |HCFC, HFC | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 04 01 *|munizioni di scarto |Lettera b (HP1) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 04 02 *|fuochi artificiali di scarto |Lettera b (HP1) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 04 03 *|altri esplosivi di scarto |Lettera b (HP1) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |gas in contenitori a pressione| |
+ 
+
+ 
+ |16 05 04 *|(compresi gli halon), |Lettera b |
+ 
+
+ 
+ | |contenenti sostanze pericolose| |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |gas in contenitori a | |
+ 
+
+ 
+ |16 05 05 |pressione, diversi da quelli |Lettera b |
+ 
+
+ 
+ | |di cui alla voce 16 05 04 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |sostanze chimiche di | |
+ 
+
+ 
+ | |laboratorio contenenti o | |
+ 
+
+ 
+ | |costituite da sostanze | |
+ 
+
+ 
+ |16 05 06 *|pericolose, comprese le |Lettera f) |
+ 
+
+ 
+ | |miscele di sostanze chimiche | |
+ 
+
+ 
+ | |di laboratorio | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 08 05 *|catalizzatori esauriti | |
+ 
+
+ 
+ | |contenenti acido fosforico |lettere c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 08 06 *|liquidi esauriti usati come | |
+ 
+
+ 
+ | |catalizzatori |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 09 01 *|permanganati, ad esempio | |
+ 
+
+ 
+ | |permanganato di potassio |Lettera b (HP2) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |cromati, ad esempio cromato di| |
+ 
+
+ 
+ |16 09 02 *|potassio, dicromato di |Lettera b (HP2) |
+ 
+
+ 
+ | |potassio o di sodio | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 09 03 *|perossidi, ad esempio | |
+ 
+
+ 
+ | |perossido d'idrogeno |Lettera b (HP2) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 09 04 *|sostanze ossidanti non | |
+ 
+
+ 
+ | |specificate altrimenti |Lettera b (HP2) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 10 01 *|soluzioni acquose di scarto, | |
+ 
+
+ 
+ | |contenenti sostanze pericolose|lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |soluzioni acquose di scarto, | |
+ 
+
+ 
+ |16 10 02 |diverse da quelle di cui alla |lettera a) |
+ 
+
+ 
+ | |voce 16 10 01 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |16 10 03 *|concentrati acquosi, | |
+ 
+
+ 
+ | |contenenti sostanze pericolose|lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |concentrati acquosi, diversi | |
+ 
+
+ 
+ |16 10 04 |da quelli di cui alla voce |lettera a) |
+ 
+
+ 
+ | |16 10 03 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti dell'attività di | |
+ 
+
+ 
+ | |costruzione e demolizione, | |
+ 
+
+ 
+ | |contenenti PCB (ad esempio | |
+ 
+
+ 
+ | |sigillanti contenenti PCB, | |
+ 
+
+ 
+ |17 09 02 *|pavimentazioni a base di |Lettera h) |
+ 
+
+ 
+ | |resina contenenti PCB, | |
+ 
+
+ 
+ | |elementi stagni in vetro | |
+ 
+
+ 
+ | |contenenti PCB, condensatori | |
+ 
+
+ 
+ | |contenenti PCB) | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti che devono essere | |
+ 
+
+ 
+ | |raccolti e smaltiti applicando| |
+ 
+
+ 
+ |18 01 03 *|precauzioni particolari per |Lettera e) |
+ 
+
+ 
+ | |evitare infezioni | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |18 01 06 *|sostanze chimiche pericolose o| |
+ 
+
+ 
+ | |contenenti sostanze pericolose|Lettera f) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |18 01 08 *|medicinali citotossici e | |
+ 
+
+ 
+ | |citostatici |Lettera e) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti che devono essere | |
+ 
+
+ 
+ | |raccolti e smaltiti applicando| |
+ 
+
+ 
+ |18 02 02 *|precauzioni particolari per |Lettera e) |
+ 
+
+ 
+ | |evitare infezioni | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |18 02 05 *|sostanze chimiche pericolose o| |
+ 
+
+ 
+ | |contenenti sostanze pericolose|Lettera f) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |18 02 07 *|medicinali citotossici e | |
+ 
+
+ 
+ | |citostatici |Lettera e) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti liquidi acquosi | |
+ 
+
+ 
+ | |prodotti dal trattamento dei | |
+ 
+
+ 
+ |19 01 06 *|fumi e di altri rifiuti |lettera a) |
+ 
+
+ 
+ | |liquidi acquosi | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | | |Lettera a); |
+ 
+
+ 
+ |19 02 08 *|rifiuti combustibili liquidi, +-------------------------+
+ 
+
+ 
+ | |contenenti sostanze pericolose|lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 02 09 *|rifiuti combustibili solidi, | |
+ 
+
+ 
+ | |contenenti sostanze pericolose|lettera b) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti combustibili, diversi | |
+ 
+
+ 
+ |19 02 10 |da quelli di cui alle voci |lettera b) |
+ 
+
+ 
+ | |19 02 08 e 19 02 09 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti liquidi acquosi | |
+ 
+
+ 
+ |19 04 04 |prodotti dalla tempra di |lettera a) |
+ 
+
+ 
+ | |rifiuti vetrificati | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 06 03 |liquidi prodotti dal | |
+ 
+
+ 
+ | |trattamento anaerobico di |Lettera a); |
+ 
+
+ 
+ | |rifiuti urbani | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |liquidi prodotti dal | |
+ 
+
+ 
+ | |trattamento anaerobico di | |
+ 
+
+ 
+ |19 06 05 |rifiuti di origine animale o |Lettera a); |
+ 
+
+ 
+ | |vegetale | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 07 02 *|percolato di discarica, | |
+ 
+
+ 
+ | |contenente sostanze pericolose|lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |percolato di discarica, | |
+ 
+
+ 
+ |19 07 03 |diverso da quello di cui alla |lettera a) |
+ 
+
+ 
+ | |voce 19 07 02 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 11 02 *|catrami acidi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 11 03 *|rifiuti liquidi acquosi |lettera a |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ | |rifiuti prodotti dalla |lettera b) |
+ 
+
+ 
+ |19 11 04 *|purificazione di carburanti +-------------------------+
+ 
+
+ 
+ | |tramite basi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 13 07 *|rifiuti liquidi acquosi e |lettera a |
+ 
+
+ 
+ | |concentrati acquosi prodotti | |
+ 
+
+ 
+ | |dalle operazioni di | |
+ 
+
+ 
+ | |risanamento delle acque di | |
+ 
+
+ 
+ | |falda, contenenti sostanze | |
+ 
+
+ 
+ | |pericolose | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |19 13 08 |rifiuti liquidi acquosi e |lettera a |
+ 
+
+ 
+ | |concentrati acquosi prodotti | |
+ 
+
+ 
+ | |dalle operazioni di | |
+ 
+
+ 
+ | |risanamento delle acque di | |
+ 
+
+ 
+ | |falda, diversi da quelli di | |
+ 
+
+ 
+ | |cui alla voce 19 13 07 | |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |20 01 13 *|solventi |lettera a) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |20 01 14 *|acidi |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |20 01 15 *|sostanze alcaline |lettera c/d |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |20 01 19 *|pesticidi |Lettera g) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |20 01 31 *|medicinali citotossici e | |
+ 
+
+ 
+ | |citostatici |Lettera g) |
+ 
+
+ 
+ +----------+------------------------------+-------------------------+
+ 
+
+ 
+ |Tale elenco è stato stilato unicamente sulla base della |
+ 
+
+ 
+ |descrizione riportata, per ciascun codice, dalla decisione |
+ 
+
+ 
+ |2000/532/CE. |
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ ))

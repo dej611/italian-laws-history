@@ -1,0 +1,46 @@
+(( Allegato 6 
+ 
+
+ 
+ 
+
+ (Articolo 7) 
+ 
+
+ 
+ 
+
+ Campionamento e analisi dei rifiuti 
+ 
+
+ 
+ 
+
+ Il campionamento, le determinazioni analitiche per la caratterizzazione di base e la verifica di conformità sono effettuati con oneri a carico del detentore dei rifiuti o del gestore della discarica, da persone ed istituzioni indipendenti e qualificate. I laboratori devono possedere una comprovata esperienza nel campionamento ed analisi dei rifiuti e un efficace sistema di controllo della qualità. Il campionamento e le determinazioni analitiche possono essere effettuate dai produttori di rifiuti o dai gestori qualora essi abbiano costituito un appropriato sistema di garanzia della qualità, compreso un controllo periodico indipendente. 
+ 
+
+ 1. Metodo di campionamento ed analisi del rifiuto urbano biodegradabile 
+ 
+
+ Il campionamento della massa di rifiuti da sottoporre alla successiva analisi deve essere effettuato tenendo conto della composizione merceologica, secondo il metodo di campionamento ed analisi Irsa, Cnr, Norma CII-Uni 9246. 
+ 
+
+ 2. Analisi degli eluati e dei rifiuti Il campionamento dei rifiuti ai fini della loro caratterizzazione chimico-fisica deve essere effettuato in modo tale da ottenere un campione rappresentativo secondo i criteri, le procedure, i metodi e gli standard di cui alla norma Uni 10802 &laquo;Rifiuti liquidi, granulari, pastosi e fanghi - Campionamento manuale e preparazione ed analisi degli eluati&raquo; e alle norme Uni En 14899 e Uni En 15002. Le prove di eluizione per la verifica dei parametri previsti dalle tabelle 2, 5, 5a e 6 dell'Allegato 4 sono effettuate secondo le metodiche per i rifiuti monolitici e granulari di cui alla Norma Uni 10802. La valutazione della capacità di neutralizzazione degli acidi (Anc), è effettuata secondo le metodiche Cen/Ts 14997 o Cen/Ts 14429. La determinazione degli analiti negli eluati è effettuata secondo quanto previsto dalla norma Uni 10802. Per la determinazione del Doc si applica la norma Uni En 1484. I risultati delle analisi degli eluati sono espressi in mg/l; per i rifiuti granulari, per i quali si applica un rapporto liquido/solido di 10 l/kg di sostanza secca, tale valore di concentrazione, effettuando i test di cessione secondo le metodiche di cui alla Norma Uni 10802, equivale al risultato espresso in mg/kg di sostanza secca diviso per un fattore 10. La determinazione del contenuto di oli minerali nella gamma C10-C40 è effettuata secondo la norma Uni En 14039. Per la digestione dei rifiuti tal quali, sono utilizzati i metodi indicati dalle norme Uni En 13656 e Uni En 13657. La determinazione del Toc nel rifiuto tal quale è effettuata secondo la norma Uni En 13137. Il calcolo della sostanza secca è effettuato secondo la norma Uni En 14346. Per determinare se un rifiuto si trova nello stato solido o liquido si applica il procedimento riportato nella norma Uni 10802. La determinazione dei Pcb deve essere effettuata sui seguenti congeneri: congeneri significativi da un punto di vista igienico-sanitario: 28, 52, 95, 99, 101, 110, 128, 138, 146, 149, 151, 153, 170, 177, 180, 183, 187; congeneri individuati dall'OMS come &laquo;dioxin like&raquo;: 77, 81, 105, 114, 118, 123, 126, 156, 157, 167, 169, 189. Le determinazioni analitiche di ulteriori parametri non specificatamente indicati dalle norme sopra riportate devono essere effettuate secondo metodi ufficiali riconosciuti a livello nazionale e/o internazionale. 
+ 
+
+ 3. Campionamento e analisi dei rifiuti contenenti amianto 
+ 
+
+ Per le discariche dove possono essere smaltiti rifiuti contenenti amianto le analisi devono essere integrate come segue. 
+ 
+
+ 3.1 Analisi del rifiuto 
+ 
+
+ Il contenuto di amianto in peso deve essere determinato analiticamente utilizzando una delle metodiche analitiche quantitative previste dal decreto ministeriale 6 settembre 1994 del Ministro della sanità, la percentuale in peso di amianto presente, calcolata sul rifiuto dopo il trattamento, sarà ridotta dall'effetto diluizione della matrice inglobante rispetto al valore del rifiuto iniziale. La densità apparente è determinata secondo le normali procedure di laboratorio standardizzate, con utilizzazione di specifica strumentazione (bilancia idrostatica, picnometro). La densità assoluta è determinata come media pesata delle densità assolute dei singoli componenti utilizzati nelle operazioni di trattamento dei rifiuti contenenti amianto e presenti nel materiale finale. La densità relativa è calcolata come rapporto tra la densità apparente e la densità assoluta. L'indice di rilascio I.R. è definito come: I.R. = frazione ponderale di amianto/densità relativa (essendo la frazione ponderale di amianto la % in peso di amianto/100). L'indice di rilascio deve essere misurato sul rifiuto trattato, dopo che esso ha acquisito le caratteristiche di compattezza e solidità. La prova deve essere eseguita su campioni, privi di qualsiasi contenitore o involucro, del peso complessivo non inferiore a 1 kg. La valutazione dell'indice di rilascio deve essere eseguita secondo le modalità indicate nel piano di sorveglianza e controllo. 
+ 
+
+ 3.2. Analisi del particolato aerodisperso contenente amianto 
+ 
+
+ Vanno adottate le tecniche analitiche di microscopia ottica in contrasto di fase (Mofc); per la valutazione dei risultati delle analisi si deve far riferimento ai criteri di monitoraggio indicati nel decreto ministeriale 6 settembre 1994 del Ministro della sanità.))
