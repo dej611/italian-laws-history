@@ -109,76 +109,26 @@ VITTORIO EMANUELE III
 
  
  
- ((===================================================
+ ((Grado N. dei posti 4° Direttore generali ......................................2 5° Ispettori generali ......................................4 6° Direttori capi divisione ...............................16 7° Capi sezione ...........................................19 8° Consiglieri ............................................21 9° Primi segretari ........................................43 10° Segretari \
  
 
- | | | Numero dei |
+ >....................................50
  
 
- | Grado | | posti |
+ 11° Vice-segretari /
  
 
- +===========+=======================+=============+
+ 
  
 
- | 4° |Direttori generali | 2 |
+ _____ Totale ..155))
  
 
- +-----------+-----------------------+-------------+
+ 
  
 
- | 5° |Ispettori generali | 2 |
  
-
- +-----------+-----------------------+-------------+
  
-
- | |Direttori capi | |
- 
-
- | 6° |divisione | 13 |
- 
-
- +-----------+-----------------------+-------------+
- 
-
- | 7° |Capi sezione | 12 |
- 
-
- +-----------+-----------------------+-------------+
- 
-
- | 8° |Consiglieri | 15 |
- 
-
- +-----------+-----------------------+-------------+
- 
-
- | 9° |Primi segretari | 28 |
- 
-
- +-----------+-----------------------+-------------+
- 
-
- | 10° |Segretari | 28 |
- 
-
- +-----------+-----------------------| |
- 
-
- | 11° |Vice segretari | |
- 
-
- +-----------+-----------------------+-------------+
- 
-
- | |Totale | 100 |
- 
-
- +-----------+-----------------------+-------------+))
- 
-
- ((7))
 
  
  
@@ -489,43 +439,33 @@ VITTORIO EMANUELE III
 
  
  
- ((
+ ((Grado N. dei posti
  
+
+ 5° Ispettore chimico ......................................1
  
- Grado Numero dei posti 
+
+ 6° Chimico direttore ......................................2
+ 
+
+ 7° Chimici capi ...........................................3
+ 
+
+ 8° Chimici principali .....................................5
+ 
+
+ 9° Chimici ................................................8
+ 
+
+ 10° Chimici aggiunti .....................................10
  
 
  
- 6° Chimico ispettore 1 
  
 
- 
- 7° Chimici capi 3 
- 
-
- 
- 8° Chimici principali 4 
+ Totale . . . 29))
  
 
- 
- 9° Chimici 6 
- 
-
- 
- 10° Chimici aggiunti 3 
- 
-
- 
- Totale 17 
- 
-
- 
- ))
- 
-
- ((7))
-
- 
  
 
  
@@ -540,16 +480,10 @@ VITTORIO EMANUELE III
  
  
 
- 8° Capo dell'Ufficio studi e ricerche ottico 
  
+ ((RUOLO SOPPRESSO DAL REGIO DECRETO 14 GIUGNO 1941, N. 614))
 
- scientifiche (Gruppo A) . . . . . . . . . . . . . 1 
- 
-
- 
- 
-
- 
+ ((8)) 
  
 
  Personale degli ingegneri fisici elettricisti. 
@@ -591,7 +525,20 @@ VITTORIO EMANUELE III
  
  
  
- ((Personale civile tecnico dell'Istituto idrografico
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Personale civile tecnico dell'Istituto idrografico
  
 
  
@@ -624,19 +571,38 @@ VITTORIO EMANUELE III
  
 
  
- ))
+ 
  
 
- ((7))
+ 
+ 
 
  
- ((Personale civile tecnico delle Direzioni costruzioni navali e meccaniche
+ 
+
+ (7) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Personale civile tecnico delle Direzioni costruzioni navali e meccaniche
  
 
  
  
 
  (Gruppo B)
+ 
+
+ 
+ 
+
+ 
+ 
  
  
  Grado Numero dei posti 
@@ -663,11 +629,7 @@ VITTORIO EMANUELE III
  
 
  
- ))
  
-
- ((7))
-
  
 
  
@@ -676,10 +638,7 @@ VITTORIO EMANUELE III
  
  
 
- Direzioni armi ed armamenti navali. 
- 
-
- (Gruppo B). 
+ (7) 
  
 
  
@@ -688,7 +647,10 @@ VITTORIO EMANUELE III
  
  
 
+ Direzioni armi ed armamenti navali.
  
+
+ (Gruppo B).
  
 
  
@@ -733,13 +695,19 @@ VITTORIO EMANUELE III
  
  
 
- Direzioni ed uffici del Genio militare per la Regia marina. 
  
-
- (Gruppo B). 
  
 
  
+ 
+
+ 
+ 
+
+ Direzioni ed uffici del Genio militare per la Regia marina.
+ 
+
+ (Gruppo B).
  
 
  
@@ -778,7 +746,7 @@ VITTORIO EMANUELE III
  ---
  
 
- 26
+ 26 
  
 
  
@@ -790,27 +758,13 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
-
- 
- 
- ((Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche
+ Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche.
  
 
  
  
 
- (Gruppo B)
- 
-
- 
- 
-
- 
+ (Gruppo B).
  
  
  Grado Numero dei posti 
@@ -837,25 +791,31 @@ VITTORIO EMANUELE III
  
 
  
- ))
+ 
  
 
- ((7))
+ 
+ 
 
  
- ((Disegnatori tecnici per le Direzioni armi ed armamenti navali
+ 
+
+ (7) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Disegnatori tecnici per le Direzioni armi ed armamenti navali.
  
 
  
  
 
  (Gruppo B).
- 
-
- 
- 
-
- 
  
  
  Grado Numero dei posti 
@@ -882,19 +842,35 @@ VITTORIO EMANUELE III
  
 
  
- ))
+ 
  
 
- ((7))
+ 
+ 
+
+ (7) 
+ 
 
  
- ((Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina
+ 
+
+ 
+ 
+
+ Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina
  
 
  
  
 
  (Gruppo B)
+ 
+
+ 
+ 
+
+ 
+ 
  
  
  Grado Numero dei posti 
@@ -921,50 +897,31 @@ VITTORIO EMANUELE III
  
 
  
- ))
+ 
  
 
- ((7))
-
  
- ((Personale di ragioneria degli Arsenali militari marittimi
  
 
  
  
 
- (Gruppo B)
- 
- 
- Grado Numero dei posti 
+ (7) 
  
 
  
- 6° Ragionieri superiori 2 
  
 
  
- 7° Ragionieri capi 7 
+ 
+
+ Personale di ragioneria degli Arsenali militari marittimi.
  
 
  
- 8° Ragionieri principali 11 
  
 
- 
- 9° Primi ragionieri 19 
- 
-
- 
- 10° Ragionieri 31 
- 
-
- 
- 11° Vice ragionieri 
- 
-
- 
- Totale 70 
+ (Gruppo B).
  
 
  
@@ -975,34 +932,28 @@ VITTORIO EMANUELE III
 
  
  
-
- 
- 
-
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana, fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.))
+ ((Grado N. dei posti 
  
 
- ((7))
-
- 
+ 6° Ragionieri superiori ........................................3 7° Ragionieri capi .............................................9 8° Ragionieri principali ......................................16 9° Primi ragionieri ...........................................30 10° Ragionieri \
  
 
- 
- 
-
- 
+ > ........................................52
  
 
- Personale dei gestori di magazzino e di cassa. 
+ 11° Vice ragionieri /
+ 
+
+ _____ Totale . . .110))
  
 
  
  
 
- (Gruppo B). 
+ 
  
 
- RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5) 
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana, fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.
  
 
  
@@ -1017,9 +968,40 @@ VITTORIO EMANUELE III
  
  
 
+ Personale dei gestori di magazzino e di cassa.
+ 
+
  
  
- ((Personale d'ordine dell'Amministrazione militare marittima
+
+ (Gruppo B).
+ 
+
+ 
+ 
+
+ RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Personale d'ordine dell'Amministrazione militare marittima
  
 
  
@@ -1033,31 +1015,28 @@ VITTORIO EMANUELE III
 
  
  
- 
- Grado Numero dei posti 
- 
 
  
- 9° Archivisti capi 29 
+ 
+ ((Grado N. dei posti
  
 
- 
- 10° Primi archivisti 83 
- 
-
- 
- 11° Archivisti 136 
+ 9° Archivisti capi .........................................36
  
 
- 
- 12° Applicati 278 
- 
-
- 
- Totale 526 
+ 10° Primi archivisti ......................................108
  
 
+ 11° Archivisti ............................................180
  
+
+ 12° Applicati .............................................396
+ 
+
+ _____
+ 
+
+ Totale . . .720
  
 
  
@@ -1066,18 +1045,9 @@ VITTORIO EMANUELE III
  
  
 
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.))
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si travino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.))
  
 
- ((7))
-
- 
- 
-
- 
- 
-
- PERSONALE SUBALTERNO. 
  
 
  
@@ -1091,59 +1061,20 @@ VITTORIO EMANUELE III
 
  
  
- ((Personale subalterno dell'Amministrazione
- 
-
- centrale della Regia marina.
- 
 
  
  
 
  
  
- 
- Numero dei posti 
+
+ PERSONALE SUBALTERNO.
  
 
  
- Commesso capo 1 
  
 
- 
- Primi commessi 3 
- 
-
- 
- Commessi e Uscieri capi 47 
- 
-
- 
- Uscieri 47 
- 
-
- 
- Inservienti 24 
- 
-
- 
- Commessi di cassa 1 
- 
-
- 
- Totale 123 
- 
-
- 
- Capo agente tecnico (1) 1 
- 
-
- 
- Agenti tecnici (1) 3 
- 
-
- 
- Totale 4 
+ Personale subalterno dell'Amministrazione centrale della Regia marina.
  
 
  
@@ -1154,14 +1085,78 @@ VITTORIO EMANUELE III
 
  
  
-
- (1) Col trattamento stabilito, rispettivamente, per gli agenti tecnici ed il capo agente tecnico del Ministero delle finanze.))
+ ((N. dei posti Commesso capo ..............................................1
  
 
- ((7))
+ Primi commessi .............................................3
+ 
+
+ Commessi e uscieri capi ...................................51
+ 
+
+ Uscieri ...................................................51
+ 
+
+ Inservienti ...............................................31
+ 
+
+ Commessi di cassa ..........................................1
+ 
+
+ _____
+ 
+
+ Totale . . .138
+ 
+
+ _____
+ 
+
+ Capo tecnico (1) ...........................................1
+ 
+
+ Agenti tecnici (1) .........................................3
+ 
+
+ _____
+ 
+
+ Totale ........4))
+ 
+
+ (( (1) Col trattamento stabilito, rispettivamente, per il capo agente tecnico e per gli agenti tecnici del Ministero delle finanze.))
 
  
- ((Personale subalterno per il servizio dei fari e del segnalamento marittimo.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Personale subalterno per il servizio dei fari e del segnalamento marittimo.
+ 
+
+ 
+ 
+
+ 
+ 
  
  
  Numero dei posti 
@@ -1181,6 +1176,16 @@ VITTORIO EMANUELE III
 
  
  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli agenti che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al R. decreto 20 giugno 1935-XIII, n. 1241.
+ 
 
  
  
@@ -1188,26 +1193,13 @@ VITTORIO EMANUELE III
  
  
 
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo
+ (7) 
  
 
- un numero di posti uguale a quello degli agenti che si trovino
+ 
  
 
- iscritti nel corrispondente elenco del personale proveniente dalle
  
-
- Amministrazioni austro-ungarica e fiumana fino a quando tale
- 
-
- personale non sia eliminato o trasferito nel ruolo in base al R.
- 
-
- decreto 20 giugno 1935-XIII, n. 1241.))
- 
-
- ((7))
-
  
  
  ---------------
@@ -1243,4 +1235,17 @@ VITTORIO EMANUELE III
  
  
 
- Il Regio D.L. 5 dicembre 1938, n. 2011, convertito senza modificazioni dalla L. 2 giugno 1939, n. 739, ha disposto (con l'art. 23, comma 1) che "Gli aumenti di organico stabiliti dal presente decreto hanno immediata attuazione limitatamente alla metà dei posti previsti per i singoli ruoli e gradi e decorrenza 1° luglio 1939-XVII per la rimanente parte".
+ Il Regio D.L. 5 dicembre 1938, n. 2011, convertito senza modificazioni dalla L. 2 giugno 1939, n. 739, ha disposto (con l'art. 23, comma 1) che "Gli aumenti di organico stabiliti dal presente decreto hanno immediata attuazione limitatamente alla metà dei posti previsti per i singoli ruoli e gradi e decorrenza 1° luglio 1939-XVII per la rimanente parte". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (8)
+
+ 
+ 
+
+ Il Regio Decreto 14 giugno 1941, n. 614 ha disposto (con l'art. 23, comma 1) che "Gli aumenti di organico stabiliti dai presente decreto hanno immediata attuazione limitatamente alla metà dei posti previsti per i singoli ruoli e gradi e decorrenza 1° luglio 1942-XX per la parte rimanente; peraltro nel grado 5° sono totalmente attuabili dalla data di entrata in vigore del presente decreto".
