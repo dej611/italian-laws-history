@@ -17,68 +17,86 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
  
 
- è convertito in legge il decreto-legge 20 dicembre 1948, n. 1427, contenente modificazioni al regime fiscale di taluni prodotti soggetti ad imposta di fabbricazione, con le seguenti modificazioni:
+ è convertito in legge il decreto-legge 20 dicembre 1948, n. 1427,
+ 
+
+ contenente modificazioni al regime fiscale di taluni prodotti soggetti ad imposta di fabbricazione, con le seguenti modificazioni:
  
 
  Il primo comma dell'art. 8 è sostituito dal seguente "Le aliquote dell'imposta di fabbricazione e della corrispondente sovrimposta di confine sui filati delle fibre tessili naturali ed artificiali di cui al decreto legislativo del Capo provvisorio dello Stato 3 gennaio 1947, n. 1, sono stabilite, per il periodo 4 gennaio 1949-3 gennaio 1950, come appresso:
  
 
- 1) Per ogni chilogrammo di filato di solo cotone (sodo, cascame o rigenerato), o di solo fiocco di fibra artificiale o di cascame o di rigenerato di fibra artificiale; o di solo fiocco di canapa, o di cotone in mista intima con fibra artificiale (fiocco, cascame o rigenerata) o con fiocco di canapa, misurante:
+ 1) 
+ 
+ ((La imposta interna di fabbricazione e la corrispondente
  
 
- a) fino a 12.000 metri.............. L. 20
+ sovrimposta di confine sui filati costituiti dalle fibre tessili sotto indicate sono stabilite nelle seguenti misure:
  
 
- b) piu di 12.000 fino a 20.000 metri " 36
+ per ogni chilogrammo di filato di solo cotone (sodo, cascame o rigenerato), o di solo fiocco di fibra artificiale o di cascame o di rigenerato di fibra artificiale;
  
 
- c) " 20.000 " 30.000 " " 56
+ o di solo fiocco di canapa, o di cotone in mista intima con fibra artificiale (fiocco, cascame o rigenerata) o con fiocco di canapa, misurante:
  
 
- d) " 30.000 " 14.000 " " 80
+ a) fino a 12.000 metri L. 20
  
 
- e) " 41.000 " 61.000 " " 150
+ b) piu di 12.000 fino a 16.000 metri " 28
  
 
- f) " 61.000 " 78.000 " " 220
+ c) " 16.000 " 24.000 " " 44
  
 
- g) " 78.000 " 15.000 " " 300
+ d) " 24.000 " 30.000 " " 56
  
 
- h) " 95.000 " 112.000 " " 380
+ e) " 30.000 " 37.000 " " 75
  
 
- i) " 112.000 " 129.000 " " 470
+ f) " 37.000 " 44.000 " " 88
  
 
- l) " 129.000 " 145.000 " " 570
+ g) " 44.000 " 52.000 " " 130
  
 
- m) " 145.000 " 163.000 " " 680
+ h) " 52.000 " 61.000 " " 150
  
 
- n) " 163.000 " 180.000 " " 820
+ i) " 61.000 " 72.000 " " 200
  
 
- o) " 180.000 " 210.000 " " 1100
+ l) " 72.000 " 88.000 " " 275
  
 
- 
- 
- ((p) più di 210.000 fino a 244.000 metri, L. 1.700;
+ m) " 88.000 " 103.000 " " 350
  
 
- q) più di 244.000 metri, L. 2.200;))
+ n) " 103.000 " 122.000 " " 435
  
 
+ o) " 122.000 " 140.000 " " 525
  
 
- I filati di cui sopra sono classificati come tali anche se
+ p) " 140.000 " 163.000 " " 620
  
 
- contengono lana in quantità non superiore al 5 per cento.
+ q) " 163.000 " 180.000 " " 750
+ 
+
+ r) " 180.000 " 210.000 " " 1100
+ 
+
+ s) " 210.000 " 244.000 " " 1700
+ 
+
+ t) oltre 244.000 metri " 2200
+ 
+
+ I filati di cui sopra sono classificati come tali anche se contengono lana rigenerata in quantità non superiore al cinque per cento.))
+ 
+
  
 
  2) Per ogni chilogrammo di filato di lino o di canapa, misurante:
@@ -114,29 +132,19 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  3) Per ogni chilogrammo di filato di juta L. 25
  
 
- 4) 
- 
- ((Per ogni chilogrammo di filato di lana (vergine, cascame o rigenerata) o di lana (vergine, cascame o rigenerata) in quantità superiore al 5% in mista, intima con altre fibre, rigenerate o non, misurante:
+ 4) Per ogni chilogrammo di filato di lana (vergine, cascame o rigenerata) o di lana (vergine, cascame o rigenerata) in quantità superiore al 5% in mista, intima con altre fibre, rigenerate o non, misurante:
  
 
  a) fino a 4.000 metri, L. 28;
  
 
- b) più di 4.000 metri, fino a 20.000 metri, L. 7 per ogni
- 
-
- mille metri;
+ b) più di 4.000 metri, fino a 20.000 metri, L. 7 per ogni mille metri;
  
 
  c) più di 20.000 metri, L. 8 per ogni mille metri.
  
 
- Per ogni chilogrammo di filato di lana, agli effetti della liquidazione dell'imposta, le frazioni superiori a 500 metri si arrotondano a 1000, quelle inferiori a 500 metri si trascurano.))
- 
-
- 
-
- 5) Per ogni chilogrammo di filato di seta tratta, semplice. L.
+ 5) Per ogni chilogrammo di filato di seta tratta, semplice.
  
 
  . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 350 6) Per ogni chilogrammo di filato di cascame di seta pettinata
@@ -148,7 +156,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  (compresi lamette e crini, ed i filati di lanasel, lanalux e simili) che nella lunghezza di 4500 metri pesa:
  
 
- a) meno di 60 grammi: per ogni chilogrammo............... L. 252 b) grammi 60 fino a 125 escluso: per ogni chilogrammo... " 210 c) grammi 125 o più: per ogni chilogrammo............... " 168 9) Per ogni chilogrammo di filato di fibre tessili non nominate,
+ a) meno di 60 grammi: per ogni chilogrammo............. L. 252 b) grammi 60 fino a 125 escluso: per ogni chilogrammo..." 210 c) grammi 125 o più: per ogni chilogrammo..............." 168 9) Per ogni chilogrammo di filato di fibre tessili non nominate,
  
 
  è dovuta l'imposta stabilita per il filato delle fibre sopraindicate al quale esso è assimilato dal repertorio per l'applicazione della tariffa dei dazi doganali.
@@ -163,10 +171,22 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  11) Agli effetti della tassazione la lunghezza dei filati ritorti di cui ai numeri 1,2, 4 e 10 viene moltiplicata per il numero dei filati semplici di cui è composto il ritorto.
  
 
+ Nel caso di filati ritorti di fantasia, al fine di determinare la lunghezza per chilogrammo dei singoli filati semplici componenti il ritorto, si dovrà ricorrere alla scomposizione del ritorto stesso nei vari capi semplici che lo costituiscono, determinando per ciascuno di essi la lunghezza e il peso relativo agli effetti della liquidazione dell'imposta.
+ 
+
+ La lunghezza per chilogrammo dei filati ritorti a fortissima torsione (cr&ecirc;pes), impiegati nella fabbricazione dei crespi, si aumenta, agli effetti della liquidazione della imposta, del 12 per cento e il risultato ottenuto si moltiplica per il numero dei capi semplici costituenti il ritorto.
+ 
+
+ Si aumenta del pari, del 12 per cento, agli effetti della liquidazione dell'imposta, la lunghezza per chilogrammo dei filati semplici a fortissima torsione (crepes) pure impiegati nella fabbricazione dei crespi.
+ 
+
  12) Per ogni chilogrammo di filato, costituito da filati semplici diversamente tassati, si applica la media ponderale delle imposte relative ai filati semplici di cui il filato ritorto è composto, a meno che i filati componenti il ritorto abbiano scontato l'imposta propria".
  
 
- Il primo e secondo comma dell'art. 11 sono rispettivamente sostituiti dai seguenti:
+ Il primo e secondo comma dell'art. 11 sono rispettivamente
+ 
+
+ sostituiti dai seguenti:
  
 
  L'art. 10 del decreto legislativo 3 gennaio 1947, n. 1, è
