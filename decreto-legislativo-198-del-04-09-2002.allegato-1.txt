@@ -1,0 +1,175 @@
+Allegato A (previsto dall'art. 5, comma 1) 
+ 
+
+ 
+ 
+
+ ISTANZA DI AUTORIZZAZIONE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il sottoscritto ................................................. nato a................................... il ........................ 
+ 
+
+ residente a .................. via ......................... n. ..... 
+ 
+
+ nella sua qualità di ................... della Società ............ 
+ 
+
+ con sede in ....................... via ................... n. ...... 
+ 
+
+ 
+ 
+
+ Chiede 
+ 
+
+ il rilascio dell'autorizzazione alla installazione dell'impianto di seguito descritto dichiarandone la conformità ai limiti di esposizione ed ai valori di attenzione di cui alla legge 22 febbraio 2001, n. 36. 
+ 
+
+ Descrizione dell'impianto e delle aree circostanti. 
+ 
+
+ Posizionamento degli apparati. 
+ 
+
+ Si descriva sinteticamente ma in modo esauriente il posizionamento degli impianti, la loro collocazione e la loro accessibilità da parte del personale incaricato. La posizione dovrà essere corredata di coordinate geografiche con approssimazione al secondo di grado o a sue frazioni, nonchè dell'indirizzo completo di numero civico se assegnato, e di ogni eventuale altra indicazione per l'individuazione del sito. 
+ 
+
+ Descrizione del terreno circostante. 
+ 
+
+ Si descrivano sinteticamente ma in modo esauriente i dintorni dell'apparato, evidenziando: 
+ 
+
+ edifici posti in vicinanza del sito; 
+ 
+
+ conformazione e morfologia del terreno circostante; 
+ 
+
+ eventuale presenza di altre stazioni emittenti collocate con la stazione da installare. 
+ 
+
+ (Si vedano in calce gli allegati richiesti per una descrizione più dettagliata). 
+ 
+
+ Caratteristiche radioelettriche dell'impianto. 
+ 
+
+ Si enumerino in modo dettagliato, completo e privo di ambiguità tutte le caratteristiche radioelettriche dell'impianto trasmittente. (Si vedano in calce gli allegati richiesti per una descrizione più dettagliata). 
+ 
+
+ Stime del campo generato. 
+ 
+
+ Presentare i risultati ottenuti con le modalità di simulazione numerica specificate nel punto 2.1. Tali risultati dovranno essere forniti, alternativamente, in una delle due forme seguenti: 
+ 
+
+ volume di rispetto, ovvero la forma geometrica in grado di riassumere in modo grafico la conformità ai limiti di esposizione ed ai valori di attenzione di cui alla legge 22 febbraio 2001, n. 36.
+ 
+
+ Allo scopo si raccomanda di utilizzare la definizione di volume di rispetto, o in alternativa quella di isosuperficie 3D, contenute nella "Guida alla realizzazione di una Stazione Radio Base per rispettare i limiti di esposizione ai campi elettromagnetici in alta frequenza" [Guida CEI 211-10]. 
+ 
+
+ Nel caso in cui volumi di rispetto evidenzino punti con intersezioni critiche (rispetto alle soglie usate) per posizioni accessibili alla popolazione con tempi di permanenza superiore a 4 ore dovranno essere fornite le curve isocampo rispetto ai punti di criticità per le stesse soglie. 
+ 
+
+ Stima puntuale dei valori di campo nei punti dove si prevede una maggiore esposizione della popolazione (max. 10 punti/sito). Per questi ultimi occorre: 
+ 
+
+ evidenziare accuratamente e chiaramente sulle planimetrie a disposizione le posizioni accessibili alla popolazione (specificando se i tempi di permanenza siano maggiori o minori di 4 ore); 
+ 
+
+ effettuare una campagna di misure del campo elettromagnetico di fondo presente (è possibile riferirsi alla "Norma CEI 211-7 - Guida per la misura e per la valutazione dei campi elettromagnetici nell'intervallo di frequenza 10 kHz - 300 GHz", con riferimento all'esposizione umana). 
+ 
+
+ La scelta tra i due formati sopra descritti rimane a discrezione dell'operatore, secondo quanto riportato nella Guida CEI già citata. 
+ 
+
+ In entrambi i casi (volume di rispetto o calcolo puntuale), le valutazioni sopra indicate dovranno comprendere la stima del fondo ambientale, al fine di ottenere il campo elettrico complessivo. 
+ 
+
+ Modalità di simulazione numerica. 
+ 
+
+ Specificare l'algoritmo di calcolo con il quale si sono eseguite le stime di campo; dovrà essere specificata l'implementazione dell'algoritmo utilizzato o, qualora il software sia di tipo commerciale, il nome del programma, nonchè la versione e la configurazione utilizzata. 
+ 
+
+ Indicare la conformità del programma di calcolo alle prescrizioni CEI, non appena emanate. 
+ 
+
+ Allega alla presente istanza 
+ 
+
+ Scheda tecnica dell'impianto, con indicati frequenza, marca e modello di antenna installata, altezza del centro elettrico, guadagno in dBi, direzione di massimo irraggiamento dell'antenna riferita al nord geografico ed eventuale tilt (elettrico e/o meccanico). 
+ 
+
+ Diagrammi angolari di irradiazione orizzontale e verticale del sistema irradiante. In tali diagrammi deve essere riportata, per ogni grado, l'attenuazione in dB del campo (o deve essere indicato il campo relativo E/E0). 
+ 
+
+ Indirizzo completo dei seguenti dati: comune, via e numero civico o foglio mappale con coordinate UTM della dislocazione dell'impianto. 
+ 
+
+ Specificare se il nuovo impianto utilizzi un sistema di antenne già in esercizio per altre emittenti (n-plexing). In questo caso il parere sanitario sarà soggetto alla valutazione complessiva di tutto l'impianto. 
+ 
+
+ Planimetria generale ante opera e post operam del progetto di impianto, su scala 1:500. 
+ 
+
+ Dichiarazione della potenza fornita a connettore d'antenna del sistema irradiante. 
+ 
+
+ In caso di più frequenze di emissione tali dati vanno rilasciati per ogni frequenza. 
+ 
+
+ Mappe del territorio circostante all'impianto. 
+ 
+
+ Stralcio del PRG con scala non superiore a 1:2.000 (con indicazione delle abitazioni presenti o in costruzione al momento della domanda, specificando i numeri di piani fuori terra di ognuno, nonchè dei luoghi di pubblico accesso); 
+ 
+
+ Mappe catastali con scala non superiore a 1:2.000, con indicazione del punto di installazione e riportante la zona circostante con un raggio di almeno 300 metri intorno all'impianto; 
+ 
+
+ Stralcio ubicativo con scala non superiore a 1:2.000 con indicazione delle curve di livello altimetriche; 
+ 
+
+ Tutte le suddette mappe dovranno contenere l'indicazione del Nord geografico. 
+ 
+
+ Nel contempo, il sottoscritto, 
+ 
+
+ consapevole delle conseguenze penali cui incorre, ai sensi della legge 27 gennaio 1968, n. 15, chi presenta dichiarazioni mendaci ovvero utilizza atti falsi, 
+ 
+
+ Rilascia 
+ 
+
+ la seguente dichiarazione sostitutiva di atto di notorietà: "l'impianto, sulla base della stima del campo generato e della simulazione numerica effettuata, è conforme ai limiti di esposizione, ai valori di attenzione ed agli obiettivi di qualità di cui alla legge 22 febbraio 2001, n. 36". 
+ 
+
+ A tal fine, il sottoscritto allega una copia fotostatica non autenticata del proprio documento di identità. 
+ 
+
+ Firma. 
+ ((1))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (1)
+
+ 
+ 
+
+ La Corte costituzionale, con sentenza 25 settembre-1° ottobre 2003, n. 303 (in G.U. 1a s.s. 8/10/2003, n. 40) ha dichiarato l'illegittimità costituzionale dell'intero provvedimento.
