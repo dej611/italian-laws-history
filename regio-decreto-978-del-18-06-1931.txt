@@ -92,9 +92,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
- ((AMMINISTRAZIONE CENTRALE
+ AMMINISTRAZIONE CENTRALE
  
 
  
@@ -169,9 +167,7 @@ VITTORIO EMANUELE III
  -----
  
 
- Totale n. 83))
- 
-
+ Totale n. 83
  
 
  
@@ -412,10 +408,7 @@ VITTORIO EMANUELE III
  
 
  +----------------------------------------------------+--------------+
- 
-
- 
- 
+ ((6))
 
  
  
@@ -1057,7 +1050,26 @@ VITTORIO EMANUELE III
 
  +----------------------------------------------------+--------------+
  
- ((PERSONALE DI RAGIONERIA DEGLI ARSENALI M. M.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ PERSONALE DI RAGIONERIA DEGLI ARSENALI M. M.
  
 
  
@@ -1129,10 +1141,7 @@ VITTORIO EMANUELE III
  
  
 
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241))
- 
-
- .
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241.
  
 
  
@@ -1153,10 +1162,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- ((RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, COMVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116))
-
- ((5)) 
+ RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, COMVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116 (5) 
  
 
  
@@ -1168,9 +1174,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
- ((PERSONALE D'ORDINE DELL'AMMINISTRAZIONE M. M.
+ PERSONALE D'ORDINE DELL'AMMINISTRAZIONE M. M.
  
 
  
@@ -1221,10 +1225,7 @@ VITTORIO EMANUELE III
  
  
 
- Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241))
- 
-
- .
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241.
  
 
  
@@ -1336,4 +1337,17 @@ VITTORIO EMANUELE III
  
  
 
- Il Regio D.L. 3 febbraio 1936, n. 189, convertito senza modificazioni dalla L. 28 maggio 1936, n. 1116, ha disposto (con l'art. 7, comma 1) che "Il ruolo transitorio del personale dei gestori di magazzino e di cassa di cui all'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso. Gli attuali gestori di magazzino e di cassa sono trasferiti nel ruolo dei &laquo;Contabili della Regia marina&raquo; con le norme del seguente art. 8".
+ Il Regio D.L. 3 febbraio 1936, n. 189, convertito senza modificazioni dalla L. 28 maggio 1936, n. 1116, ha disposto (con l'art. 7, comma 1) che "Il ruolo transitorio del personale dei gestori di magazzino e di cassa di cui all'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso. Gli attuali gestori di magazzino e di cassa sono trasferiti nel ruolo dei &laquo;Contabili della Regia marina&raquo; con le norme del seguente art. 8". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (6)
+
+ 
+ 
+
+ Il Regio Decreto 14 ottobre 1937, n. 2064 ha disposto (con l'art. 1, comma 1) che "Il ruolo organico dei maestri della Regia Accademia navale (gruppo B) previsto dall'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso".
