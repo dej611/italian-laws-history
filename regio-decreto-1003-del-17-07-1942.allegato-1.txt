@@ -1,0 +1,373 @@
+ALLEGATO 1. 
+ 
+
+ 
+ 
+
+ Programma di esame per gli aspiranti ai certificati di radiotelegrafista di l&ordf; e 2&ordf; classe 
+ 
+
+ 
+ 
+
+ A) Parte comune per i certificati di 1&ordf; e 2&ordf; classe. 
+ 
+
+ 
+ 
+
+ I. - ELETTROLOGIA ED ELETTROTECNICA. 
+ 
+
+ 
+ 
+
+ 1. - Azioni elettriche: 
+ 
+
+ 
+ 
+
+ Elettrizzazione - Azioni reciproche tra corpi elettrizzati - Legge di Coulomb - Carica elettrica - Distribuzione dell'elettricità sui conduttori - Schermo elettrico - Densità elettrica - Potere delle punte - Potenziale elettrico - Campo elettrico - Linee di forza - Capacità elettrica - Unità di misura. 
+ 
+
+ 
+ 
+
+ 2. - Azioni magnetiche: 
+ 
+
+ 
+ 
+
+ Magneti permanenti e temporanei - Poli di un magnete - Azioni reciproche tra magneti - Legge di Coulomb - Massa magnetica - Campo magnetico - Linea di forza - Momento di un magnete - Influenza e induzione magnetica - Flusso d'induzione - Permeabilità magnetica - Schermo magnetico - Unità di misura. 
+ 
+
+ 
+ 
+
+ 3. - Condensatori elettrici e dielettrici: 
+ 
+
+ 
+ 
+
+ Caratteristiche dei principali tipi di condensatori per le varie applicazioni. 
+ 
+
+ 
+ 
+
+ 4. - Corrente continua: 
+ 
+
+ 
+ 
+
+ Differenza di potenziale e forza elettromotrice -Intensità della corrente - Legge di Ohm - Resistenza elettrica - Principi di Kirchoff - Raggruppamento delle resistenze - Unità di misura. 
+ 
+
+ 
+ 
+
+ 5. - Effetti magnetici della corrente: 
+ 
+
+ 
+ 
+
+ Solenoide - Materiali paramagnetici e diamagnetici - Curva di magnetizzazione dei materiali ferromagnetici - Forza coercitiva - Isteresi magnetica. 
+ 
+
+ 
+ 
+
+ 6. - Effetti chimici della corrente: 
+ 
+
+ 
+ 
+
+ Elettrolisi e sue leggi - Pile - Accumulatori elettrici. 
+ 
+
+ 
+ 
+
+ 7. - Effetti termici e luminosi della corrente: 
+ 
+
+ Legge di Joule e sue applicazioni - Energia e potenza elettrica - Pila termoelettrica. 
+ 
+
+ 
+ 
+
+ 8. - Azioni reciproche tra campo magnetico e corrente - Azioni elettrodinamiche tra correnti. 
+ 
+
+ 
+ 
+
+ 9. - Induzione elettromagnetica: 
+ 
+
+ 
+ 
+
+ Mutua induzione - F. e.m. indotta - Legge di Lenz - Autoinduzione - Coefficienti di mutua e di autoinduzione - Extracorrente di apertura e di chiusura di un circuito - Rocchetto di Ruhmkorff - Correnti parassito - Schermo elettromagnetico. 
+ 
+
+ 
+ 
+
+ 10. - Correnti alternate: 
+ 
+
+ 
+ 
+
+ Ampiezza - Periodo - Frequenza - Pulsazione di una grandezza alternata sinusoidale - Generazione di Una corrente alternata - Valore efficace - Legge di Ohm in corrente alternata - Impedenza - Sfasamento tra tensione e corrente - Risonanza elettrica - Potenza apparente - Potenza effettiva - Fattore di potenza - Cenni sulle correnti non sinusoidali - Armoniche. 
+ 
+
+ 
+ 
+
+ 11. - Effetti fisiologici della corrente: 
+ 
+
+ 
+ 
+
+ Norme di protezione - Norme di soccorso per il caso di infortuni. 
+ 
+
+ 
+ 
+
+ 12. - Macchine elettriche: 
+ 
+
+ 
+ 
+
+ Alternatore - Motore sincrono - Dinamo e motore a corrente continua - Trasformatore - Motore asincrono - Convertitore rotante. 
+ 
+
+ 
+ 
+
+ 13. - Strumenti e apparecchi di misura: 
+ 
+
+ 
+ 
+
+ Misura della corrente, della tensione e della potenza in corrente continua e alternata - Amperometri e voltmetri magnetoelettrici, elettromagnetici, elettrostatici, termici a filo caldo e a coppia termoelettrica -Shunt e riduttori Wattmetri - Apparecchi per la misura della resistenza - Ponte di Wheatstone - Ohmetri. 
+ 
+
+ 
+ 
+
+ II. - RADIOTECNICA, TELEGRAFIA, TELEFONIA. 
+ 
+
+ 
+ 
+
+ 1. - Resistenze, induttanze e capacità, concentrate e distribuite - Loro comportamento con l'aumentare della frequenza - Induttanze e capacità di dispersione Le perdite nei dielettrici e nei conduttori imperfetti. 
+ 
+
+ 
+ 
+
+ 2. Circuito in regime transitorio - Costante di tempo di un circuito - Scarica oscillatoria - Resistenza critica - Periodo proprio del circuito - Decremento logaritmico. 
+ 
+
+ 
+ 
+
+ 3. - Risonanza elettrica - Risonanza in serie e in parallelo di un circuito - Coefficiente di merito - Il circuito risonante come filtro Risonanza di due circuiti accoppiati - Vari tipi di accoppiamento - Eccitazione per impulso - Filtro di banda. 
+ 
+
+ 
+ 
+
+ 4. - Tubi elettronici trasmittenti e riceventi - Vari tipi - Particolarità costruttive - Curve caratteristiche, resistenza interna, pendenza, coefficiente di amplificazione, potenza dissipata e potenza resa. 
+ 
+
+ 
+ 
+
+ 5. - Circuiti di amplificazione aperiodici e accordati - Reazione e controreazione - Generatori di oscillazioni persistenti - Vari tipi. 
+ 
+
+ 
+ 
+
+ 6. - Trasmettitori - Tipi e caratteristiche - Manipolazione - Modulazione - Profondità di modulazione -Emissioni radiotelegrafiche ad onde smorzate, persistenti interrotte e persistenti modulate (onde tipo B, A-1, A-2) - Emissioni radiotelefoniche - Potenza in aereo. 
+ 
+
+ 
+ 
+
+ 7. - Circuiti di ricezione - Vari tipi - Supereterodina - Sensibilità e selettività dei circuiti. 
+ 
+
+ 
+ 
+
+ 8. - Aerei trasmittenti e riceventi - Tipi e caratteristiche - Aerei direzionali - Telai. 
+ 
+
+ 
+ 
+
+ 9. - Propagazione delle onde elettromagnetiche impiegate nei servizi radiomarittimi. 
+ 
+
+ 
+ 
+
+ 10. - Ondametri - Tipo ad assorbimento e con generatore di oscillazioni. 
+ 
+
+ 
+ 
+
+ 11. - Nozioni di telegrafia e telefonia - Telegrafo Morse - Microfono - Telefono - Altoparlanti - Apparecchi telefonici a batteria locale. 
+ 
+
+ 
+ 
+
+ III. - IMPIANTI ED APPARATI DI BORDO PER NAVI. 
+ 
+
+ 
+ 
+
+ 1. - Impianti elettrogeneratori - Motori a scoppio a 2 e a 4 tempi - Generatori di corrente continua e generatori di corrente alternata - Gruppi convertitori - Batterie di accumulatori - Linee, quadri e protezioni relative - Norme per la manutenzione e la ricerca dei guasti negli impianti elettrici. 
+ 
+
+ 
+ 
+
+ 2. - Alimentatori statici - Vari tipi di raddrizzatori di corrente per l'alimentazione di impianti radio - Filtri di livellamento. 
+ 
+
+ 
+ 
+
+ 3. - Apparati trasmittenti a scintilla - Trasmettitore di soccorso - Trasmettitore per lance di salvataggio. 
+ 
+
+ 
+ 
+
+ 4. - Vari tipi di trasmettitori a valvola - Norme per la messa in funzione e per la regolazione - Verifiche e riparazione di guasti. 
+ 
+
+ 
+ 
+
+ 5. - Vari tipi di apparati riceventi - Il ricevitore a cristallo - Sistemazione, ispezione, e riparazione degli impianti riceventi - Radiogoniometro - Metodi di rilevamento - &laquo; Deviazioni &raquo; - Calibrazione o compensazione. 
+ 
+
+ 
+ 
+
+ 6. - Apparato ricevente di autoallarme - Norme per la verifica del regolare funzionamento. 
+ 
+
+ 
+ 
+
+ 7- Aerei trasmittenti e riceventi di bordo - Norme di impianto - Norme di sicurezza - Dispositivi di sicurezza, dei trasmettitori. 
+ 
+
+ 
+ 
+
+ IV. - GEOGRAFIA. 
+ 
+
+ 
+ 
+
+ Gli Stati del mondo, capitali, città e porti più importanti - I fusi orari e le ore ufficiali - Principali linee di navigazione internazionali dell'Italia e scali da esse toccati - Principali stazioni radio italiane e collegamenti da esse effettuati. 
+ 
+
+ 
+ 
+
+ V. - LEGGE E REGOLAMENTI. 
+ 
+
+ 
+ 
+
+ Principali norme dei regolamenti generale e addizionale internazionali vigenti delle radiocomunicazioni e della convenzione internazionale per la salvaguardia della vita umana in mare •
+ 
+
+ Abbreviazioni di servizio - Tassazione delle radiocomunicazioni - Monete in uso negli Stati più importanti - Organizzazione del servizio radiotelegrafico marittimo nazionale. 
+ 
+
+ 
+ 
+
+ Servizi speciali nell'interesse della navigazione: servizi radiogoniometrici, di radiofaro, meteorologici, di avvisi ai naviganti, di assistenza medicale. 
+ 
+
+ 
+ 
+
+ B) Parte complementare per la prova orale degli aspiranti al certificato di 1&ordf; classe. 
+ 
+
+ 
+ 
+
+ 1. - Caratteristiche di funzionamento degli stadi di amplificazione delle classi A, B, C - Amplificazione selettiva con circuiti accordati - Guadagno di un amplificatore - Rumore di fondo degli amplificatori. 
+ 
+
+ 
+ 
+
+ 2. - Misure di frequenza - Stabilizzazione della frequenza dei trasmettitori - Piezooscillatori. 
+ 
+
+ 
+ 
+
+ 3. - Canali delle radiocomunicazioni - Emissioni non essenziali e metodi per eliminarle - Armoniche, sovramodulazione. 
+ 
+
+ 
+ 
+
+ 4. - Disturbi alla ricezione - Atmosferici, disturbi di origine industriale - Riduzione o eliminazione di disturbi alla ricezione. 
+ 
+
+ 
+ 
+
+ 5. - Sensibilità dei ricevitori radiotelegrafici e radiotelefonici in relazione al rumore di fondo - Selettivita dei ricevitori- Impianti riceventi con aerei direzionali per le onde corte. 
+ 
+
+ 
+ 
+
+ Visto, d'ordine di Sua Maestà il Re d'Italia e di Albania 
+ 
+
+ Imperatore d'Etiopia 
+ 
+
+ 
+ 
+
+ Il Ministro per le comunicazioni 
+ 
+
+ HOST VENTURI
