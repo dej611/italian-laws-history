@@ -1,0 +1,152 @@
+Allegato IV 
+ 
+
+ (articolo 3, comma 1) 
+ 
+
+ 
+ 
+
+ PIANO DI GESTIONE DEI SOLVENTI 
+ 
+
+ 1. Introduzione 
+ 
+
+ Il presente allegato contiene le line guida per la realizzazione di un piano di gestione dei solventi; presenta i principi da applicare (punto 2) e fornisce un quadro per il calcolo del bilancio di massa (punto 3), nonche indicazioni sui requisiti di verifica della conformità (punto 4). 
+ 
+
+ 2. Principi 
+ 
+
+ Il piano di gestione dei solventi ha gli obiettivi seguenti: 
+ 
+
+ a) verificare la conformità come specificato all'articolo 5, comma 1; 
+ 
+
+ b) individuare le future opzioni di riduzione; 
+ 
+
+ c) consentire di mettere a disposizione del pubblico informazioni m materia di consumo di solvente, di emissioni di solvente e di conformità al decreto. 
+ 
+
+ Definizioni 
+ 
+
+ Le seguenti definizioni forniscono un quadro di riferimento per elaborare il bilancio di massa. Tutte le grandezze devono essere espresse nella stessa unità di massa. 
+ 
+
+ a) Input di solventi organici (I): 
+ 
+
+ I1. La quantità di solventi organici o la loro quantità nei preparati acquistati che sono immessi nel processo nell'arco di tempo in cui viene calcolato il bilancio di massa. 
+ 
+
+ I2. La quantità di solventi organici o la loro quantità nei preparati recuperati e reimmessi come solvente nel processo (il solvente riutilizzato e registrato ogniqualvolta sia usato per svolgere l'attivita). 
+ 
+
+ b) Output di solventi organici (0): .br, 01. Emissioni negli scarichi 
+ 
+
+ gassosi 
+ 
+
+ 02. Solventi organici scaricati nell'acqua, tenendo conto, se del caso, del trattamento delle acque reflue nel calcolare 05. 
+ 
+
+ 03. La quantità di solventi organici che rimane come contaminante o residuo nei prodotti all'uscita del processo. 
+ 
+
+ 04. Emissioni diffuse di solventi organici nell'aria. Ciò comprende la ventilazione generale dei locali nei quali l'aria è scaricata all'esterno attraverso finestre, porte, sfiati e aperture simili. 
+ 
+
+ 05. Solventi organici e composti organici persi a causa di reazioni chimiche o fisiche (inclusi ad esempio quelli distrutti mediante incenerimento o altri trattamenti di scarichi gassosi o acque reflue, o catturati, ad esempio mediante assorbimento, se non sono registrati ai punti 06, 07 o O8. 
+ 
+
+ 06. Solventi organici contenuti nei rifiuti raccolti. 
+ 
+
+ 07. Solventi organici da soli o solventi organici contenuti in preparati che sono o saranno venduti come prodotto a validità commerciale. 
+ 
+
+ 08. Solventi organici contenuti nei preparati recuperati per riuso, ma non per riutilizzo nel processo, se non sono registrati al punto 07. 09. Solventi organici scaricati in altro modo. 
+ 
+
+ 4. Linee guida sull'uso del piano di gestione dei solventi per la 
+ 
+
+ verifica di conformità 
+ 
+
+ a) Il piano di gestione dei solventi deve essere elaborato con la periodicità prevista nell'autorizzazione e, comunque, almeno una volta all'anno per determinare le emissioni totali (E) al fine di dimostrare i1 rispetto dell'emissione totale annua stabilita nell'autorizzazione. 
+ 
+
+ b) Per valutare la conformità al valore limite di emissione totale espresso come fattore di emissione in riferimento a taluni parametri specifici, stabilito nell'autorizzazione, il valore (E), determinato come previsto alla lettera a), è poi riferito al pertinente parametro specifico. 
+ 
+
+ c) Per valutare la conformità ai requisiti dell'articolo 3, comma 8, il piano di gestione dei solventi deve essere elaborato ogni anno per determinare le emissioni totali (E) di tutte le attività interessate; questa cifra va poi comparata con le emissioni totali che si sarebbero avute se fossero stati rispettati per ogni singola attività i requisiti di cui all'art. 3, comma 1. 
+ 
+
+ 5. Formule di calcolo 
+ 
+
+ a) L'emissione diffusa è calcolata secondo la seguente formula: F=I1 -01 -05-06-07-08 
+ 
+
+ oppure 
+ 
+
+ F=02+03+04+09 
+ 
+
+ Questo parametro può essere determinato mediante misurazioni dirette delle quantità. Alternativamente, si puo effettuare un calcolo equivalente con altri mezzi, ad esempio utilizzando l'efficienza di captazione del processo. La determinazione delle emissioni diffuse puo essere effettuata mediante una serie breve, ma completa, di misurazioni e non deve essere ripetuta sino all'eventuale modifica dell'impianto. 
+ 
+
+ b) Le emissioni totali (E) sono calcolate con la formula seguente: 
+ 
+
+ E=F+01 
+ 
+
+ dove F è l'emissione diffusa quale definita sopra 
+ 
+
+ c) Il consumo ove applicabile si calcola secondo la formula seguente: 
+ 
+
+ C=I1 -08 
+ 
+
+ d) L'input, sia per la verifica del limite per le emissioni diffuse che per altri scopi, si calcola con la seguente formula: 
+ 
+
+ I=11+12 
+ 
+
+ (1)
+ ((2))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (1)
+
+ 
+ 
+
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che è abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che è abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
