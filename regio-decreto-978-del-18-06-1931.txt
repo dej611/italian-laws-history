@@ -89,13 +89,18 @@ VITTORIO EMANUELE III
  
  
 
- AMMINISTRAZIONE CENTRALE.
+ 
+ 
+
+ 
+ 
+ ((AMMINISTRAZIONE CENTRALE
  
 
  
  
 
- Carriera amministrativa.
+ CARRIERA AMMINISTRATIVA
  
 
  
@@ -107,19 +112,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
-
- 
- 
-
- Grado N. dei posti
- 
-
- 
+ Grado Numero dei posti 
  
 
  4° Direttori generali 2
@@ -128,58 +121,57 @@ VITTORIO EMANUELE III
  
  
 
- 5° Ispettore generale 1
+ 5° Ispettori generali 2
  
 
  
  
 
- 6° Direttori capi divisione 11
+ 6° Direttori capi divisione 13
  
 
  
  
 
- 7° Capi sezione 9
+ 7° Capi sezione 10
  
 
  
  
 
- 8° Consiglieri 12
+ 8° Consiglieri 14
  
 
  
  
 
- 9° Primi segretari 16
+ 9° Primi segretari 21
  
 
  
  
 
- 10° Segretari
+ 10° Segretari |
  
 
- 
- 
-
- 17
+ |
  
 
- 
- 
-
- 11° Vice segretari
+ \ 21
  
 
- 
- 
-
- Totale 68
+ /
  
 
+ 11° Vice segretari |
  
+
+ -----
+ 
+
+ Totale n. 83))
+ 
+
  
 
  
@@ -248,10 +240,7 @@ VITTORIO EMANUELE III
  
  
 
- Personale civile insegnante e di gabinetto 
- 
-
- della R. Accademia navale. 
+ Personale civile insegnante e di gabinetto della R. Accademia navale. 
  
 
  
@@ -336,6 +325,9 @@ VITTORIO EMANUELE III
  
 
  +----------------------------------------------------+--------------+
+ 
+
+ 
  
 
  
@@ -760,9 +752,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  Numero
  
 
@@ -802,9 +791,6 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
  Direzioni ed uffici del Genio militare per la Regia marina. 
  
 
@@ -812,9 +798,6 @@ VITTORIO EMANUELE III
  
 
  (Gruppo B). 
- 
-
- 
  
 
  
@@ -871,10 +854,16 @@ VITTORIO EMANUELE III
  
  
 
- Disegnatori tecnici per le Direzioni 
+ 
  
 
- delle costruzioni navali e meccaniche. 
+ 
+ 
+
+ 
+ 
+
+ Disegnatori tecnici per le Direzioni delle costruzioni navali e meccaniche. 
  
 
  
@@ -943,10 +932,7 @@ VITTORIO EMANUELE III
  
  
 
- Disegnatori tecnici per le Direzioni armi 
- 
-
- ed armamenti navali. 
+ Disegnatori tecnici per le Direzioni armi ed armamenti navali. 
  
 
  (Gruppo B). 
@@ -1012,10 +998,7 @@ VITTORIO EMANUELE III
  
  
 
- Disegnatori tecnici per le Direzioni ed uffici 
- 
-
- del Genio militare per la Regia marina. 
+ Disegnatori tecnici per le Direzioni ed uffici del Genio militare per la Regia marina. 
  
 
  
@@ -1074,6 +1057,68 @@ VITTORIO EMANUELE III
 
  +----------------------------------------------------+--------------+
  
+ ((PERSONALE DI RAGIONERIA DEGLI ARSENALI M. M.
+ 
+
+ 
+ 
+
+ (Gruppo B).
+ 
+
+ 
+ 
+
+ Grado Numero dei posti
+ 
+
+ 
+ 
+
+ 6° Ragionieri superiori 2
+ 
+
+ 
+ 
+
+ 7° Ragionieri capi 6
+ 
+
+ 
+ 
+
+ 8° Ragionieri principali 10
+ 
+
+ 
+ 
+
+ 9° Primi ragionieri 16
+ 
+
+ 
+ 
+
+ 10° Ragionieri |
+ 
+
+ 
+ 
+
+ | 26
+ 
+
+ 
+ 
+
+ 11° Vice ragionieri|
+ 
+
+ 
+ 
+
+ Totale n. 60
+ 
 
  
  
@@ -1084,79 +1129,10 @@ VITTORIO EMANUELE III
  
  
 
- Personale di ragioneria degli Arsenali militari marittimi. 
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241))
  
 
- 
- 
-
- (Gruppo B). 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- =====================================================================
- 
-
- | | Numero dei |
- 
-
- | Grado | posti |
- 
-
- +====================================================+==============+
- 
-
- |6° Ragionieri superiori | 2 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |7° Ragionieri capi | 5 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |8° Ragionieri principali | 10 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |9° Primi ragionieri | 16 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- |10° Ragionieri | |
- 
-
- +----------------------------------------------------| 26 |
- 
-
- |11° Vice ragionieri | |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- | | 59 |
- 
-
- +----------------------------------------------------+--------------+
- 
-
- 
+ .
  
 
  
@@ -1177,66 +1153,12 @@ VITTORIO EMANUELE III
  
  
 
- Ruolo transitorio. 
+ 
+ ((RUOLO SOPPRESSO DAL REGIO D.L. 3 FEBBRAIO 1936, N. 189, COMVERTITO SENZA MODIFICAZIONI DALLA L. 28 MAGGIO 1936, N. 1116))
+
+ ((5)) 
  
 
- 
- 
-
- Grado 
- 
-
- - 
- 
-
- 9° Gestori 
- 
-
- 
- 
-
- 
- 
-
- Ruolo d'ordine dei Regi arsenali militari marittimi. 
- 
-
- 
- 
-
- (Gruppo C). 
- 
-
- 
- 
-
- 
- 
- 
- Grado Numero dei posti 
- 
-
- 
- 9° Archivisti capi 22 
- 
-
- 
- 10° Primi archivisti 63 
- 
-
- 
- 11° Archivisti 106 
- 
-
- 
- 12° Applicati 189 
- 
-
- 
- 380 
- 
-
- 
  
  
 
@@ -1246,13 +1168,51 @@ VITTORIO EMANUELE III
  
  
 
- Personale d'ordine dei maqazzini militari marittimi. 
+ 
+ 
+ ((PERSONALE D'ORDINE DELL'AMMINISTRAZIONE M. M.
  
 
  
  
 
- (Gruppo C). 
+ (Gruppo C).
+ 
+
+ 
+ 
+
+ Grado Numero dei posti
+ 
+
+ 
+ 
+
+ 9° Archivisti capi 28
+ 
+
+ 
+ 
+
+ 10° Primi archivisti 78
+ 
+
+ 
+ 
+
+ 11° Archivisti 128
+ 
+
+ 
+ 
+
+ 12° Applicati 251
+ 
+
+ 
+ 
+
+ Totale n. 485
  
 
  
@@ -1260,23 +1220,13 @@ VITTORIO EMANUELE III
 
  
  
- 
- Grado Numero dei posti 
+
+ Annotazione. - Deve rimanere scoperto nei singoli gradi del ruolo un numero di posti uguale a quello degli impiegati che si trovino iscritti nel corrispondente elenco del personale proveniente dalle Amministrazioni austro-ungarica e fiumana fino a quando tale personale non sia eliminato o trasferito nel ruolo in base al Regio decreto 20 giugno 1935, n. 1241))
  
 
- 
- 11° Magazzinieri principali 21 
- 
-
- 
- 12° Magazzinieri 42 
+ .
  
 
- 
- 63 
- 
-
- 
  
  
 
@@ -1306,7 +1256,8 @@ VITTORIO EMANUELE III
 
  
  
- ((Numero
+
+ Numero
  
 
  dei
@@ -1336,12 +1287,7 @@ VITTORIO EMANUELE III
  
  
 
- Totale n. 82))
- 
-
- 
-
- 
+ Totale n. 82
  
 
  
@@ -1350,10 +1296,13 @@ VITTORIO EMANUELE III
  
  
 
- Personale subalterno per il servizio dei fari 
+ 
  
 
- e del segnalamento marittimo. 
+ 
+ 
+
+ Personale subalterno per il servizio dei fari e del segnalamento marittimo. 
  
 
  
@@ -1374,4 +1323,17 @@ VITTORIO EMANUELE III
  
 
  
- 464
+ 464 
+ 
+
+ 
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (5)
+
+ 
+ 
+
+ Il Regio D.L. 3 febbraio 1936, n. 189, convertito senza modificazioni dalla L. 28 maggio 1936, n. 1116, ha disposto (con l'art. 7, comma 1) che "Il ruolo transitorio del personale dei gestori di magazzino e di cassa di cui all'art. 1 del R. decreto 18 giugno 1931, n. 978, è soppresso. Gli attuali gestori di magazzino e di cassa sono trasferiti nel ruolo dei &laquo;Contabili della Regia marina&raquo; con le norme del seguente art. 8".
