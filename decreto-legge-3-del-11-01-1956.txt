@@ -114,7 +114,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  fino a litri 0,100.................. L. 20 
  
 
- da litri 0,250.............. ........ L. 50 
+ da litri 0,250...................... L. 50 
  
 
  da litri 0,500...................... L. 100 
@@ -135,31 +135,42 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- I prezzi dei contrassegni di Stato per i recipienti contenenti liquori o acquaviti indicati nel decreto Ministeriale 30 dicembre 1952 sono stabiliti nelle seguenti misure: 
  
-
- fino a litri 0,100................ L. 10 
  
-
- da litri 0,250...................... L. 10 
- 
-
- da litri 0,500...................... L. 15 
- 
-
- da litri 0,750...................... L. 25 
- 
-
- da litri 1,000...................... L. 30 
- 
-
- da litri 1,500...................... L. 45 
- 
-
- da litri 2,000...................... L. 60 
+ ((i prezzi dei contrassegni di Stato per i recipienti contenenti liquori o acquaviti indicati nel decreto Ministeriale 30 dicembre 1952, escluse le acquaviti di vinaccia (grappa), sono stabiliti nelle seguenti misure: 
  
 
  
  
 
- Il prezzo dei contrassegni di Stato per i recipienti contenenti estratti ed essenze per liquori, anche se non contenenti alcool, indicati nel decreto Ministeriale 20 settembre 1950, è stabilito in L. 50 per ciascun contrassegno.
+ fino a litri 0,100.................... L. 15 
+ 
+
+ da litri 0,250......................... L. 15 
+ 
+
+ da litri 0,500......................... L. 25 
+ 
+
+ da litri 0,750......................... L. 35 
+ 
+
+ da litri 1,000......................... L. 40 
+ 
+
+ da litri 1.500......................... L. 55 
+ 
+
+ da litri 2.000......................... L. 70))
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il prezzo dei contrassegni di Stato per i recipienti contenenti estratti ed essenze per liquori, anche se non contenenti alcool, indicati nel decreto Ministeriale 20 settembre 1950, è stabilito in 
+ ((lire 15))
+
+ per ciascun contrassegno.
