@@ -93,79 +93,15 @@ VITTORIO EMANUELE III
  
  
 
- Grado Numero dei posti
  
-
- 
- 
-
- 4 Direttore generale . . . . . . . . . . . . 1
  
 
  
  
 
- 5 Ispettore generale . . . . . . . . . . . . 1
- 
-
  
  
-
- (Direttori capo divisione. . . . . . . . . 4
- 
-
- 6 <
- 
-
- (Ispettori superiori . . . . . . . . . . . 1
- 
-
- 
- 
-
- (Capi di sezione . . . . . . . . . . . . . 3
- 
-
- 7 <
- 
-
- (Ispettori . . . . . . . . . . . . . . . . 2
- 
-
- 
- 
-
- 8 Consiglieri . . . . . . . . . . . . . . . 6
- 
-
- 
- 
-
- 9 Primi segretari . . . . . . . . . . . . . 10
- 
-
- 
- 
-
- 10 Segretari . . . . . . . . . . . . . . . .)
- 
-
- > 12
- 
-
- 11 Vice segretari . . . . . . . . . . . . . .)
- 
-
- 
- 
-
- --
- 
-
- Totale . . . 40
- 
-
- --
+ ((Gruppo A (ruolo amministrativo).
  
 
  
@@ -174,12 +110,57 @@ VITTORIO EMANUELE III
  
  
 
- Le promozioni ai vari gradi avranno luogo secondo le disposizioni stabilite dal R. decreto 11 novembre 1923, numero 2395, senza che la diversa qualifica dei funzionari appartenenti allo stesso grado possa per sè sola costituire motivo di distinzione agli effetti delle promozioni stesse. 
+ 
+ 
+
+ Grado Numero
+ 
+
+ dei posti
+ 
+
+ -- --
+ 
+
+ 4° Direttore generale 1
+ 
+
+ 5° Ispettori generali 2
+ 
+
+ 6° Direttori capi divisione 6
+ 
+
+ 7° Capi sezione 6
+ 
+
+ 8° Consiglieri 8
+ 
+
+ 9° Primi segretari 14
+ 
+
+ 10° e 11° Segretari e Vice segretari 18
+ 
+
+ ---
+ 
+
+ Totale . . . 55))
  
 
  
- ((2))
 
+ ---
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
  
  
  ---------------
@@ -189,7 +170,19 @@ VITTORIO EMANUELE III
  
  
 
- Il Regio Decreto 19 ottobre 1933, n. 1390 ha disposto (con l'art. 1, comma 1) che "I ruoli del personale civile dell'Amministrazione della marina mercantile approvati coi Regi decreti 11 novembre 1923, n. 9395, 27 marzo 1924, n. 518, e 28 luglio 1925, n. 1426, sono sostituiti dai seguenti: 
+ Il Regio Decreto 19 ottobre 1933, n. 1390 ha disposto (con l'art. 1, comma 1) che "I ruoli del personale civile dell'Amministrazione della marina mercantile approvati coi Regi decreti 11 novembre 1923, n. 9395, 27 marzo 1924, n. 518, e 28 luglio 1925, n. 1426, sono 
+ 
+
+ sostituiti dai seguenti: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
  
 
  
@@ -204,7 +197,22 @@ VITTORIO EMANUELE III
  
  
 
- Numero Grado dei posti 
+ 
+ 
+
+ Gruppo A (Amministrazione centrale)
+ 
+
+ 
+ 
+
+ Grado
+ 
+
+ Numero dei posti
+ 
+
+ 
  
 
  4° Direttore generale . . . . . . . . . . . . . . . . . . . . 1
@@ -231,7 +239,7 @@ VITTORIO EMANUELE III
  
  
 
- 8° Consiglieri . . . . . . . . . . . . . . . . . . . . . . . 6
+ 8° Consiglieri . . . . . . . . . . . . . . . . . . . . . . . .6
  
 
  
@@ -243,7 +251,7 @@ VITTORIO EMANUELE III
  
  
 
- 10° Segretari . . . . . . . . . . . . . . . . . . . . . . . . 11
+ 10° Segretari . . . . . . . . . . . . . . . . . . . . . . . .11
  
 
  
@@ -252,7 +260,19 @@ VITTORIO EMANUELE III
  11° Vice segretari . . . . . . . . . . . . . . . . . . . . . 11
  
 
+ 
+ 
+
  ------- 39
+ 
+
+ 
+ 
+
+ ------- 
+ 
+
+ 
  
 
  -------
