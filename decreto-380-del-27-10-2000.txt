@@ -1,0 +1,452 @@
+IL MINISTRO DELLA SANITà
+
+ 
+ 
+ 
+ Visto l'articolo 58 della legge 23 dicembre 1978, n. 833;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della sanità del 28 dicembre 1991, pubblicato nella Gazzetta Ufficiale n. 13 del 17 gennaio 1992, con il quale è stata istituita la scheda di dimissione ospedaliera, quale strumento ordinario per la raccolta delle informazioni relative ad ogni paziente dimesso da tutti gli istituti di ricovero pubblici e privati in tutto il territorio nazionale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto in particolare l'articolo 5 del citato decreto con il quale si prevede che con successivi decreti ministeriali saranno specificati analiticamente i contenuti delle variabili inserite nella scheda di dimissione ospedaliera ed i relativi sistemi di codifica che tutti gli istituti di ricovero dovranno adottare;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della sanità del 26 luglio 1993, pubblicato nella Gazzetta Ufficiale n. 180 del 3 agosto 1993, relativo alla disciplina del flusso informativo sui dimessi dagli istituti di ricovero pubblici e privati, con il quale sono stati definiti i tempi e le modalità della trasmissione delle informazioni contenute nelle schede di dimissione ospedaliera alle regioni ed alle province autonome e, da queste, al Ministero della sanità;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 31 dicembre 1996, n. 675, e successive modifiche ed integrazioni, con particolare riguardo all'articolo 22, commi 3 e 3-bis;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 11 maggio 1999, n. 135, con particolare riferimento all'articolo 17;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 28 luglio 1999, n. 318, concernente: "Regolamento recante norme per l'individuazione delle misure minime di sicurezza per il trattamento dei dati personali, a norma dell'articolo 15, comma 2, della legge 31 dicembre 1996, n. 675";
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Ritenuto di dover adeguare, sulla base delle esperienze effettuate e della evoluzione dei sistemi di classificazione e codifica delle informazioni, il contenuto informativo della scheda di dimissione ospedaliera, nonchè i principi e le regole di compilazione e di codifica delle stesse informazioni;
+
+ 
+ 
+ 
+
+ 
+ Sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome nella seduta del 17 dicembre 1998;
+
+ 
+
+ 
+ 
+ 
+ Visto il parere del Garante per la protezione dei dati personali prot. 6705 del 4 ottobre 1999;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Ritenuto di modificare ed integrare lo schema di provvedimento, così come richiesto nel citato parere del Garante per la protezione dei dati personali;
+
+ 
+ 
+ 
+
+ 
+ Sentita nuovamente la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome nella seduta del 20 luglio 2000;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 18 settembre 2000;
+
+ 
+
+ 
+ 
+ 
+ Considerato che, in relazione al rilievo formulato dal Consiglio di Stato in ordine all'informazione dovuta agli interessati, è opportuno richiamare espressamente la prevista adozione di specifici provvedimenti ai sensi dell'articolo 23, comma 1-bis, della legge 31 dicembre 1996, n. 675, e successive modificazioni ed integrazioni, e dell'articolo 17, comma 3, del decreto legislativo 11 maggio 1999, n.
+
+ 
+ 
+ 
+
+ 
+ 135, nonchè ribadire in ogni caso il disposto dell'articolo 10 della citata legge 31 dicembre 1996, n. 675;
+
+ 
+
+ 
+ 
+ 
+ Considerato che il rilievo del Consiglio di Stato in ordine all'acquisizione del parere dell'Autorità per l'informatica nella pubblica amministrazione appare superabile alla luce del parere della predetta autorità del 21 luglio 2000;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione inviata alla Presidenza del Consiglio dei Ministri in data 17 ottobre 2000;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ 
+ 
+ 
+ 
+ 1. La scheda di dimissione ospedaliera si compone delle seguenti sezioni: 
+ 
+
+ 
+ 
+
+ 
+ a) la sezione prima, che contiene le informazioni anagrafiche di seguito riportate: 
+ 
+
+ 1) denominazione dell'ospedale di ricovero; 
+ 
+
+ 2) numero della scheda; 
+ 
+
+ 3) cognome e nome del paziente; 
+ 
+
+ 4) sesso; 
+ 
+
+ 5) data di nascita; 
+ 
+
+ 6) comune di nascita; 
+ 
+
+ 7) stato civile; 
+ 
+
+ 8) comune di residenza; 
+ 
+
+ 9) cittadinanza; 
+ 
+
+ 10) codice sanitario individuale; 
+ 
+
+ 11) regione di residenza; 
+ 
+
+ 12) azienda unità sanitaria locale di residenza; 
+ 
+
+ 
+ 
+
+ 
+ b) la sezione seconda, che contiene almeno le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione dell'elenco di cui alla precedente lettera a): 
+ 
+
+ 1) denominazione dell'ospedale di ricovero; 
+ 
+
+ 2) numero della scheda; 
+ 
+
+ 13) regime di ricovero; 
+ 
+
+ 14) data di ricovero; 
+ 
+
+ 15) unità operativa di ammissione; 
+ 
+
+ 16) onere della degenza; 
+ 
+
+ 17) provenienza del paziente; 
+ 
+
+ 18) tipo di ricovero; 
+ 
+
+ 19) traumatismi o intossicazioni; 
+ 
+
+ 20) trasferimenti interni; 
+ 
+
+ 21) unità operativa di dimissione; 
+ 
+
+ 22) data di dimissione o morte; 
+ 
+
+ 23) modalità di dimissione; 
+ 
+
+ 24) riscontro autoptico; 
+ 
+
+ 25) motivo del ricovero in regime diurno; 
+ 
+
+ 26) numero di giornate di presenza in ricovero diurno; 
+ 
+
+ 27) peso alla nascita; 
+ 
+
+ 28) diagnosi principale di dimissione; 
+ 
+
+ 29) diagnosi secondarie; 
+ 
+
+ 30) intervento chirurgico principale o parto; 
+ 
+
+ 31) altri interventi chirurgici e procedure diagnostiche o terapeutiche. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 2. Le regioni e le province autonome possono prevedere ulteriori informazioni da rilevare attraverso la scheda di dimissione ospedaliera, fermo restando il contenuto informativo minimo di cui al comma 1. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Avvertenza:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emana zione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo, fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficaia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - Si riporta il testo dell'art. 58 della legge 23 dicembre 1979, n. 833 (Istituzione del Servizio sanitario nazionale):
+ 
+
+ "Art. 58 (Servizio epidemiologico e statistico). - Nel piano sanitario nazionale di cui all'art. 53 sono previsti specifici programmi di attività per la rilevazione e la gestione delle informazioni epidemiologiche, statistiche e finanziarie occorrenti per la programmazione sanitaria nazionale e regionale e per la gestione dei servizi sanitari.
+ 
+
+ I programmi di attività, per quanto attiene alle competenze attribuitegli dal precedente art. 27, sono attuati dall'Istituto superiore di sanità.
+ 
+
+ Le regioni, nell'ambito dei programmi di cui al primo comma, provvedono ai servizi di informatica che devono essere organizzati tenendo conto delle articolazioni del servizio sanitario nazionale.".
+ 
+
+ - Si riporta il testo dell'art. 5 del decreto del Ministro della sanità 28 dicembre 1991 (Istituzione della scheda di dimissione ospedaliera):
+ 
+
+ "Art. 5. - Con successivi decreti ministeriali verranno specificati analiticamente i contenuti delle variabili inserite nella scheda di dimissione ospedaliera ed i relativi sistemi di codifica che tutti gli istituti di ricovero dovranno adottare. Analogamente, saranno inoltre disciplinati i flussi informativi generati dalla scheda, allo scopo di consentire, da un lato, lo sviluppo di un sistema di valutazione della attività ospedaliera e, dall'altro, di disporre di una rilevazione epidemiologica sistematica sulla popolazione dei dimessi dagli ospedali per acuti.".
+ 
+
+ - Si riporta il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
+ 
+
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".
+ 
+
+ - Si riporta il testo dell'art. 22, commi 3 e 3-bis, della legge 31 dicembre 1996, n. 675, e successive modifiche ed integrazioni (Tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali):
+ 
+
+ "Art. 22 (Dati sensibili). - 1.-1-bis. e 2. (Omissis).
+ 
+
+ 3. Il trattamento dei dati indicati al comma 1 da parte di soggetti pubblici, esclusi gli enti pubblici economici, è consentito solo se autorizzato da espressa disposizione di legge, nella quale siano specificati i tipi di dati che possono essere trattati, le operazioni eseguibili e le rilevanti finalità di interesse pubblico perseguite. In mancanza di espressa disposizione di legge, e fuori dai casi previsti dai decreti legislativi di modificazione ed integrazione della presente legge, emanati in attuazione della legge 31 dicembre 1996, n. 676, i soggetti pubblici possono richiedere al Garante, nelle more della specificazione legislativa, l'individuazione delle attività, tra quelle demandate ai medesimi soggetti dalla legge, che perseguono rilevanti finalità di interesse pubblico e per le quali è conseguentemente autorizzato, ai sensi del comma 2, il trattamento dei dati indicati al comma 1.
+ 
+
+ 3-bis. Nei casi in cui è specificata, a norma del comma 3, la finalità di rilevante interesse pubblico, ma non sono specificati i tipi di dati e le operazioni eseguibili, i soggetti pubblici, in applicazione di quanto previsto dalla presente legge e dai decreti legislativi di attuazione della legge 31 dicembre 1996, n. 676, in materia di dati sensibili, identificano e rendono pubblici, secondo i rispettivi ordinamenti, i tipi di dati e di operazioni strettamente pertinenti e necessari in relazione alle finalità perseguite nei singoli casi, aggiornando tale identificazione periodicamente.".
+ 
+
+ - Si riporta il testo dell'art. 17 del decreto legislativo 11 maggio 1999, n. 135 (Disposizioni integrative della legge 31 dicembre 1996, n. 675, sul trattamento dei dati sensibili da parte di soggetti pubblici):
+ 
+
+ "Art. 17 (Tutela della salute). - 1. Ai sensi dell'art. 1, si considerano di rilevante interesse pubblico le seguenti attività rientranti nei compiti del servizio sanitario nazionale e degli altri organismi sanitari pubblici, nel rispetto dell'art. 23, comma 1, della legge:
+ 
+
+ a) la prevenzione, la diagnosi, la cura e la riabilitazione dei soggetti assistiti dal servizio sanitario nazionale, ivi compresa l'assistenza degli stranieri in Italia e dei cittadini italiani all'estero, nonchè l'assistenza sanitaria erogata al personale navigante ed aeroportuale;
+ 
+
+ b) la programmazione, la gestione, il controllo e la valutazione dell'assistenza sanitaria;
+ 
+
+ c) la vigilanza sulle sperimentazioni, la farmacovigilanza, l'autorizzazione all'immissione in commercio ed all'importazione di medicinali e di altri prodotti di rilevanza sanitaria;
+ 
+
+ d) le attività certificatorie;
+ 
+
+ e) il monitoraggio epidemiologico, ivi compresi la sorveglianza della emergenza o riemergenza delle malattie, e degli eventi avversi nelle vaccinazioni, i registri di patologia e la gestione della profilassi internazionale;
+ 
+
+ f) l'applicazione della normativa in materia di igiene e sicurezza nei luoghi di lavoro e di sicurezza e salute della popolazione;
+ 
+
+ g) i trapianti d'organo e le trasfusioni di sangue umano, anche in applicazione della legge 4 maggio 1990, n. 107;
+ 
+
+ h) l'instaurazione, la gestione, la pianificazione ed il controllo dei rapporti tra l'amministrazione ed i soggetti accreditati o convenzionati del Servizio sanitario nazionale.
+ 
+
+ 2. L'identificazione dell'interessato è riservata ai soggetti che perseguono direttamente le finalità di cui al comma 1. L'accesso alle diverse tipologie di dati è consentito ai soli incaricati del trattamento, preposti caso per caso, alle specifiche fasi delle attività di cui al comma 1, secondo il principio della pertinenza dei dati di volta in volta trattati.
+ 
+
+ 3. Per quanto non previsto dal decreto di cui all'art. 23, comma 1-bis, della legge, il trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale da parte di organismi sanitari e di esercenti le professioni sanitarie è fatto oggetto di appositi codici di deontologia e buona condotta adottati ai sensi dell'art. 31, comma 1, lettera h), della legge dalle federazioni nazionali degli ordini e dei collegi delle professioni sanitarie, la cui accettazione è condizione essenziale per il trattamento dei dati da parte degli incaricati del trattamento. Il codice prevede anche:
+ 
+
+ a) l'impegno al rispetto di regole di condotta analoghe al segreto professionale da parte degli incaricati del trattamento che non sono tenuti in base alla legge al segreto professionale;
+ 
+
+ b) le modalità di applicazione dell'art. 23, comma 2, della legge ai professionisti sanitari, diversi dai medici, che intrattengono rapporti diretti con i pazienti;
+ 
+
+ c) modalità semplificate per l'informativa agli interessati e per la prestazione del loro consenso;
+ 
+
+ c-bis) identificazione di casi di urgenza nei quali l'informativa e il consenso possono intervenire successivamente alla richiesta della prestazione.
+ 
+
+ 4. Con i decreti di cui all'art. 15, commi 2 e 3, della legge, sono individuate le misure minime per garantire la sicurezza dei trattamenti effettuati con tecniche di cifratura o mediante codici identificativi, anche al fine di assicurare il trattamento disgiunto dei dati di cui al comma 3 dagli altri dati personali che permettono di identificare direttamente gli interessati.
+ 
+
+ 5. Il trattamento dei dati genetici da chiunque effettuato è consentito nei soli casi previsti da apposita autorizzazione rilasciata dal Garante, sentito il Ministro della sanità, che acquisisce, a tal fine, il parere del Consiglio superiore di sanità. I trattamenti autorizzati dal Garante possono essere proseguiti fino al rilascio dell'autorizzazione prevista dal presente comma, che in sede di prima applicazione della presente disposizione è rilasciata entro dodici mesi dalla data della relativa entrata in vigore.".
+ 
+
+ - Il decreto del Presidente della Repubblica 28 luglio 1999, n. 318 (Regolamento recante norme per l'individuazione delle misure minime di sicurezza per il trattamento dei dati personali, a norma dell'art. 15, comma 2, della legge 31 dicembre 1996, n. 675), è pubblicato nella Gazzetta Ufficiale del 14 settembre 1999, n. 216.
+ 
+
+ - Si riporta il testo dell'art. 23, comma 1-bis, della citata legge 31 dicembre 1996, n. 675:
+ 
+
+ "Art. 23 (Dati inerenti alla salute). - 1-bis. Con decreto del Ministro della sanità adottato ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, sentiti la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano e il Garante, sono individuate modalità semplificate per le informative di cui all'art. 10 e per la prestazione del consenso nei confronti di organismi sanitari pubblici, di organismi sanitari e di esercenti le professioni sanitarie convenzionati o accreditati dal Servizio sanitario nazionale, nonchè per il trattamento dei dati da parte dei medesimi soggetti, sulla base dei seguenti criteri:
+ 
+
+ a) previsione di informative effettuate da un unico soggetto, in particolare da parte del medico di medicina generale scelto dall'interessato, per conto di più titolari di trattamento;
+ 
+
+ b) validità, nei confronti di più titolari di trattamento, del consenso prestato ai sensi dell'art. 11, comma 3, per conto di più titolari di trattamento, anche con riguardo alla richiesta di prestazioni specialistiche, alla prescrizione di farmaci, alla raccolta di dati da parte del medico di medicina generale detenuti da altri titolari, e alla pluralità di prestazioni mediche effettuate da un medesimo titolare di trattamento;
+ 
+
+ c) identificazione di casi di urgenza nei quali, anche per effetto delle situazioni indicate nel comma 1-ter, l'informativa e il consenso possono intervenire successivamente alla richiesta della prestazione;
+ 
+
+ d) previsioni di modalità di applicazione del comma 2 del presente articolo ai professionisti sanitari, diversi dai medici, che intrattengono rapporti diretti con i pazienti;
+ 
+
+ e) previsione di misure volte ad assicurare che nell'organizzazione dei servizi e delle prestazioni sia garantito il rispetto dei diritti di cui all'art. 1".
+ 
+
+ - Si riporta il testo dell'art. 10 della citata legge 31 dicembre 1996, n. 675:
+ 
+
+ "Art. 10 (Informazioni rese al momento della raccolta).
+ 
+
+ - 1. L'interessato o la persona presso la quale sono raccolti i dati personali devono essere previamente informati oralmente o per iscritto circa:
+ 
+
+ a) le finalità e le modalità del trattamento cui sono destinati i dati;
+ 
+
+ b) la natura obbligatoria o facoltativa del conferimento dei dati;
+ 
+
+ c) le conseguenze di un eventuale rifiuto di rispondere;
+ 
+
+ d) i soggetti o le categorie di soggetti ai quali i dati possono essere comunicati e l'ambito di diffusione dei dati medesimi;
+ 
+
+ e) i diritti di cui all'art. 13;
+ 
+
+ f) il nome, la denominazione o la ragione sociale e il domicilio, la residenza o la sede del titolare e, se designato, del responsabile.
+ 
+
+ 2. L'informativa di cui ai comma 1 può non comprendere gli elementi già noti alla persona che fornisce i dati o la cui conoscenza può ostacolare l'espletamento di funzioni pubbliche ispettive o di controllo, svolte per il perseguimento delle finalità di cui agli articoli 4, comma 1, lettera e), e 14, comma 1, lettera d).
+ 
+
+ 3. Quando i dati personali non sono raccolti presso l'interessato, l'informativa di cui al comma 1 è data al medesimo interessato all'atto della registrazione dei dati o, qualora sia prevista la loro comunicazione, non oltre la prima comunicazione.
+ 
+
+ 4. La disposizione di cui al comma 3 non si applica quando l'informativa all'interessato comporta un impiego di mezzi che il Garante dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si rivela, a giudizio del Garante, impossibile, ovvero nel caso in cui i dati sono trattati in base ad un obbligo previsto dalla legge, da un regolamento o dalla normativa comunitaria. La medesima disposizione non si applica, altresì, quando i dati sono trattati ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali formalità e per il periodo strettamente necessario al loro perseguimento".

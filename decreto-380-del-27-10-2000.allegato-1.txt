@@ -1,0 +1,891 @@
+Allegato 
+ 
+
+ 
+ 
+
+ Disciplinare tecnico 
+ 
+
+ 
+ 
+
+ La scheda di dimissione ospedaliera (SDO) deve essere compilata per tutti i pazienti dimessi dagli istituti di cura pubblici e privati. 
+ 
+
+ La SDO è parte integrante della cartella clinica di cui costituisce una rappresentazione sintetica e fedele, finalizzata a consentire la raccolta sistematica, economica e di qualità controllabile delle principali informazioni contenute nella cartella stessa. 
+ 
+
+ La cartella clinica ospedaliera costituisce lo strumento informativo individuale finalizzato a rilevare tutte le informazioni anagrafiche e cliniche rilevanti, che riguardano un singolo ricovero ospedaliero di un paziente. 
+ 
+
+ Ciascuna cartella clinica ospedaliera deve rappresentare l'intero ricovero del paziente nell'istituto di cura; essa, conseguentemente, coincide con la storia della degenza del paziente all'interno dell'istituto di cura. La cartella clinica ospedaliera ha, quindi, inizio al momento dell'accettazione del paziente da parte dell'istituto di cura, segue il paziente nel suo percorso all'interno dell'istituto di cura ed ha termine al momento della dimissione del paziente dall'istituto di cura. 
+ 
+
+ L'eventuale trasferimento interno del paziente da una unità operativa all'altra dello stesso istituto di cura non deve comportare la sua dimissione e successiva riammissione. Il numero identificativo, caratteristico di ciascuna cartella clinica e della relativa SDO, deve, pertanto, essere il medesimo per tutta la durata del ricovero, indipendentemente dai trasferimenti interni allo stesso istituto di cura. Fanno eccezione i casi di passaggio dal ricovero ordinario al ricovero diurno, o viceversa, e il passaggio da ricovero acuto a riabilitazione o lungodegenza, o viceversa. In questi ultimi casi si dovrà procedere alla compilazione di una nuova cartella clinica e di una nuova SDO. 
+ 
+
+ In caso di ricovero diurno, la cartella clinica, e la corrispondente SDO, devono raccogliere la storia e la documentazione del paziente relative all'intero ciclo di trattamento; ogni singolo accesso giornaliero del paziente è conteggiato come giornata di degenza e la data di dimissione corrisponde alla data dell'ultimo contatto con l'istituto di cura in cui si è svolto il ciclo assistenziale; la cartella clinica, e la corrispondente SDO, relative ai ricoveri diurni, devono essere chiuse convenzionalmente alla data del 31 dicembre di ciascun anno, salvo dar luogo a una nuova cartella, e a una nuova SDO, per i cicli di trattamento in ricovero diurno che dovessero proseguire l'anno successivo. 
+ 
+
+ Nel caso di trasferimento del paziente dal regime di ricovero diurno ad altro regime di ricovero, o viceversa, il paziente deve essere dimesso e dovrà essere compilata una nuova cartella clinica e una nuova SDO. 
+ 
+
+ 1. Introduzione. 
+ 
+
+ Il presente allegato descrive le modalità di trasmissione dei dati al Nuovo Sistema Informativo Sanitario (NSIS) relativi al sistema informativo sui dimessi dagli istituti di cura pubblici e privati, ed il dettaglio dei contenuti informativi da trasmettere. 
+ 
+
+ Ogni variazione significativa alle caratteristiche tecniche descritte nel presente disciplinare e in generale, le novità più rilevanti, sono rese pubbliche sul sito internet del Ministero della salute (www.nsis.salute.gov.it), secondo le modalità previste dall'art. 54 del Codice dell'amministrazione digitale. 
+ 
+
+ Coerentemente con le indicazioni contenute nel modello concettuale del Nuovo sistema informativo sanitario, il flusso di dati sui dimessi dagli istituti di cura pubblici e privati deve intercettare l'informazione relativa al singolo evento sanitario per consentire diverse e articolate forme di aggregazione e di analisi dei dati, non essendo possibile prevedere a priori tutti i possibili criteri di aggregazione degli eventi stessi al fine del calcolo degli indicatori. 
+ 
+
+ 2. Definizioni. 
+ 
+
+ Ai fini del presente disciplinare tecnico si intende: 
+ 
+
+ a. per &laquo;crittografia&raquo;, tecnica per rendere inintelligibili informazioni a chi non dispone dell'apposita chiave di decifrazione e dell'algoritmo necessario; 
+ 
+
+ b. per &laquo;crittografia simmetrica&raquo;, un tipo di crittografia in cui la stessa chiave viene utilizzata per crittografare e decrittografare il messaggio, ovvero una chiave nota sia al mittente che al destinatario; 
+ 
+
+ c. per &laquo;crittografia asimmetrica&raquo;, un tipo di crittografia in cui ogni soggetto coinvolto nello scambio di informazioni dispone di una coppia di chiavi, una privata, da mantenere segreta, l'altra da rendere pubblica. L'utilizzo combinato delle chiavi dei due soggetti permette di garantire l'identità del mittente, l'integrità delle informazioni e di renderle inintelligibili a terzi; 
+ 
+
+ d. per &laquo;sito Internet del Ministero&raquo;, il sito istituzionale del Ministero della salute www.salute.gov.it accessibile dagli utenti per le funzioni informative relative alla trasmissione telematica dei dati; 
+ 
+
+ e. per &laquo;XML&raquo;, il linguaggio di markup aperto e basato su testo che fornisce informazioni di tipo strutturale e semantico relative ai dati veri e propri. Acronimo di &laquo;eXtensible Markup Language&raquo; metalinguaggio creato e gestito dal World Wide Web Consortium (W3C); 
+ 
+
+ f. per &laquo;Centro Elaborazione Dati&raquo; o &laquo;CED&raquo;, l'infrastruttura dedicata ai servizi di Hosting del complesso delle componenti tecnologiche del NSIS, dove i servizi di sicurezza fisica logica e organizzativa sono oggetto di specifiche procedure e processi; 
+ 
+
+ g. per &laquo;DGSISS&raquo;, la Direzione Generale della Digitalizzazione, del Sistema Informativo Sanitario e della Statistica del Ministero della salute; 
+ 
+
+ h. per &laquo;Codice dell'amministrazione digitale&raquo; o &laquo;CAD&raquo;, il decreto legislativo 7 marzo 2005 n. 82 e successive modificazioni. 
+ 
+
+ 3. I soggetti. 
+ 
+
+ Le regioni e le Province autonome di Trento e di Bolzano si attengono alle specifiche di trasmissione attualmente in uso delle informazioni previste dal sistema informativo sui dimessi dagli istituti di cura pubblici e privati. 
+ 
+
+ Le regioni e le province autonome individuano, inoltre, un soggetto responsabile della trasmissione dei dati al sistema informativo sui dimessi dagli istituti di cura pubblici e privati (di seguito Sistema). 
+ 
+
+ 4. Descrizione del sistema informativo. 
+ 
+
+ 4.1 Caratteristiche infrastrutturali. 
+ 
+
+ Date le caratteristiche organizzative, le necessità di scambio di informazioni tra sistemi eterogenei e le caratteristiche dei dati trattati, il Sistema è basato su un'architettura standard del mondo Internet: 
+ 
+
+ utilizza lo standard XML per definire in modo unificato il formato e l'organizzazione dei dati scambiati nelle interazioni tra le applicazioni; 
+ 
+
+ attua forme di cooperazione applicativa tra sistemi; 
+ 
+
+ prevede una architettura di sicurezza specifica per la gestione dei dati personali trattati. 
+ 
+
+ è costituito, a livello nazionale, da: 
+ 
+
+ un sistema che ospita il front-end web dell'applicazione (avente la funzione di web server); 
+ 
+
+ un sistema che ospita l'applicazione (avente la funzione di application server); 
+ 
+
+ un sistema dedicato alla memorizzazione dei dati (data server); 
+ 
+
+ un sistema dedicato alla autenticazione degli utenti e dei messaggi; 
+ 
+
+ un sistema dedicato a funzioni di Business Intelligence. 
+ 
+
+ Tutti i sistemi sono collegati in rete locale e connessi alle infrastrutture comunicative attraverso firewall opportunamente configurati. Inoltre, la sicurezza degli stessi è incrementata mediante: 
+ 
+
+ strumenti IPS/IDS (Intrusion Prevention System/Intrusion Detection System) collocati nei punti di accesso alla rete al fine di consentire l'identificazione di attività ostili, ostacolando l'accesso da parte di soggetti non identificati e permettendo una reazione automatica alle intrusioni; 
+ 
+
+ aggiornamenti dei software, secondo la tempistica prevista dalle case produttrici ovvero, periodicamente, a seguito di interventi di manutenzione; 
+ 
+
+ configurazioni delle basi di dati per consentire un ripristino completo delle informazioni senza causarne la perdita di integrità e disponibilità; 
+ 
+
+ gruppi di continuità che, in caso di mancanza di alimentazione elettrica di rete, garantiscono la continuità operativa; 
+ 
+
+ un sistema di gestione degli accessi e di profilazione utenti, che prevede anche, ove opportuno, strumenti di autenticazione forte; 
+ 
+
+ un sistema di tracciatura delle operazioni di accesso ai sistemi (sia tramite funzioni applicative o tramite accesso diretto), al fine di permettere l'individuazione di eventuali anomalie. 
+ 
+
+ Le operazioni di accesso al sistema, tramite funzioni applicative o tramite accesso diretto, sono tracciate al fine di poter individuare eventuali anomalie. 
+ 
+
+ 4.1.1 Gestione dei supporti di memorizzazione 
+ 
+
+ I supporti di memorizzazione, che includono nastri magnetici, dischi ottici e cartucce, possono essere fissi o rimovibili. Sui supporti di memorizzazione non vengono, comunque, conservate informazioni in chiaro; ciò malgrado, per ridurre al minimo il rischio di manomissione delle informazioni, viene identificato un ruolo di custode dei supporti di memorizzazione, al quale è attribuita la responsabilità della gestione dei supporti di memorizzazione rimovibili. 
+ 
+
+ Per la gestione dei supporti di memorizzazione sono state adottate, in particolare, le seguenti misure: 
+ 
+
+ tutti i supporti sono etichettati a seconda della classificazione dei dati contenuti; 
+ 
+
+ viene tenuto un inventario dei supporti di memorizzazione secondo controlli predefiniti; 
+ 
+
+ sono state definite ed adottate misure di protezione fisica dei supporti di memorizzazione; 
+ 
+
+ i supporti di memorizzazione non più utilizzati saranno distrutti e resi inutilizzabili. 
+ 
+
+ 4.1.2 Misure idonee a garantire la continuità del servizio 
+ 
+
+ A garanzia della corretta operatività del servizio sono state attivate procedure idonee a definire tempi e modi per salvaguardare l'integrità e la disponibilità dei dati e consentire il ripristino del sistema in caso di eventi che lo rendano temporaneamente inutilizzabile. 
+ 
+
+ In particolare, per quel che riguarda i dati custoditi presso il Centro Elaborazione Dati (CED), sono previste: 
+ 
+
+ procedure per il salvataggio periodico dei dati (backup sia incrementale che storico); 
+ 
+
+ procedure che regolamentano la sostituzione, il riutilizzo e la rotazione dei supporti ad ogni ciclo di backup; 
+ 
+
+ procedure per il data recovery; 
+ 
+
+ procedure per la verifica dell'efficacia sia del backup che del possibile, successivo, ripristino. 
+ 
+
+ La struttura organizzativa del CED e le procedure adottate consentono, in caso di necessità, di operare ripristino dei dati in un arco di tempo inferiore ai sette giorni. 
+ 
+
+ 4.2 Modalità di abilitazione degli utenti 
+ 
+
+ Gli utenti accedono ai servizi del NSIS attraverso gli strumenti definiti dalla vigente normativa (art. 64 del Codice dell'amministrazione digitale) per l'autenticazione telematica ai servizi erogati in rete dalle pubbliche amministrazioni. 
+ 
+
+ In fase di prima attuazione, qualora compatibile con la tipologia dei dati trattati, come meglio specificato nei paragrafi che seguono, gli utenti possono accedere al sistema tramite credenziali di autenticazione generate secondo le modalità riportate sul sito del Ministero, in conformità all'art. 64 del Codice dell'amministrazione digitale. 
+ 
+
+ Il NSIS dispone di un sistema di gestione delle identità digitali, attraverso il quale vengono definiti i profili di autorizzazione previsti per ogni sistema, definiti secondo le logiche del Controllo degli accessi basato sui ruoli, declinati nello specifico in relazione al ruolo istituzionale, alle funzioni svolte e all'ambito territoriale delle azioni di competenza. Gli amministratori dell'applicazione, nominati dal Ministero della salute, gestiscono la designazione degli utenti e l'assegnazione dei privilegi di accesso. 
+ 
+
+ Per l'accesso, l'architettura prevede un'abilitazione in due fasi. 4.2.1 Fase A - Abilitazione alla piattaforma NSIS. 
+ 
+
+ La prima fase consente la registrazione da parte dell'utente mediante l'inserimento delle generalità e del proprio indirizzo di posta elettronica ove ricevere le credenziali di autenticazione nonchè dei dettagli inerenti la struttura organizzativa di appartenenza. Successivamente, il sistema di registrazione invia una e-mail contenente l'identificativo e la password che l'utente è obbligato a cambiare al primo accesso e, periodicamente, con cadenza trimestrale. 
+ 
+
+ La parola chiave dovrà avere le seguenti caratteristiche: 
+ 
+
+ sarà composta da almeno otto caratteri; 
+ 
+
+ non conterrà riferimenti facilmente riconducibili all'incaricato. 
+ 
+
+ Le credenziali di autorizzazione non utilizzate da almeno sei mesi sono disattivate. 
+ 
+
+ 4.2.2 Fase B - Abilitazione ai servizi 
+ 
+
+ Nella seconda fase, l'utente (che viene definito utente NSIS) può chiedere l'abilitazione ad un profilo del un sistema informativo censito nel NSIS (in questo caso il &laquo;sistema informativo sui dimessi dagli istituti di cura pubblici e privati&raquo;). Il sistema permette di formulare richieste solo per le applicazioni associate alla struttura organizzativa di appartenenza dell'utente. 
+ 
+
+ L'amministratore dell'applicazione effettua un riscontro della presenza del nominativo nella lista di coloro che sono stati formalmente designati dal referente competente (ad es. della regione o provincia autonoma di appartenenza). Qualora questa verifica abbia esito negativo, la procedura di registrazione si interrompe; nel caso in cui questa verifica abbia esito positivo, l'utente è abilitato all'utilizzo del sistema. 
+ 
+
+ Per garantire l'effettiva necessità, da parte del singolo utente NSIS, di accedere alle informazioni per le quali ha ottenuto un profilo di accesso, le utenze vengono, periodicamente, sottoposte a revisione e l'amministratore verifica, con i referenti competenti, il permanere degli utenti abilitati nelle liste delle persone autorizzate ad accedere all'NSIS e ai sistemi ad esso riconducibili. 4.2.3 Fase B - Regole speciali per l'abilitazione ai servizi che prevedono l'accesso a dati riferiti ai singoli assistiti 
+ 
+
+ Nel caso in cui, per comprovate e documentate esigenze di validazione dei dati, il servizio per il quale è richiesta l'abilitazione, preveda l'accesso a dati riferiti ai singoli assistiti, il processo di autenticazione degli utenti avviene esclusivamente da postazioni identificate e attraverso strumenti di autenticazione forte, in conformità all'art. 64 del Codice dell'amministrazione digitale e all'art. 34 del decreto legislativo 30 giugno 2003, n. 196 e successive modificazioni. L'accesso è garantito tramite l'utilizzo di un protocollo sicuro. 
+ 
+
+ L'amministratore dell'applicazione effettua uno specifico riscontro della presenza del nominativo nella lista di coloro che sono stati designati, la cui gestione è a cura del Ministero della salute.
+ 
+
+ Qualora questa verifica abbia esito negativo la procedura di registrazione si interrompe; nel caso in cui questa verifica abbia esito positivo viene confermata all'utente la possibilità di accedere a tali servizi e gli viene chiesto di indicare la postazione da cui intende accedere al servizio. 
+ 
+
+ Infine, per rendere più sicuro il processo di abilitazione, un altro amministratore dell'applicazione, distinto dall'amministratore che ha generato le credenziali, provvede all'eventuale consegna dello strumento di autenticazione forte (se non già in possesso dell'utente che richiede l'abilitazione) e, in ogni caso, alla sua associazione alle suddette credenziali. 
+ 
+
+ In nessun caso i servizi consentono di effettuare più accessi contemporanei con le medesime credenziali. 
+ 
+
+ Inoltre, ad ulteriore garanzia dell'effettiva titolarità da parte del singolo utente di accedere alla procedura: 
+ 
+
+ le Unità organizzative competenti segnalano tempestivamente il venir meno di tale titolarità per gli utenti; 
+ 
+
+ le utenze vengono, trimestralmente, sottoposte a revisione e l'amministratore verifica con i referenti dell'Unità organizzativa competente, il permanere degli utenti abilitati, nelle liste delle persone autorizzate. 
+ 
+
+ 4.2.4 Sistema di registrazione delle operazioni di trattamento 
+ 
+
+ Nel caso lo specifico servizio preveda il trattamento di dati individuali comprensivi di codici assegnati in luogo del codice identificativo dell'assistito, tutte le operazioni di accesso degli utenti sono registrate e i dati vengono conservati in appositi file di log, al fine di evidenziare eventuali anomalie e/o utilizzi impropri, anche tramite specifici alert. 
+ 
+
+ Le informazioni registrate in tali file di log sono le seguenti: 
+ 
+
+ i dati identificativi del soggetto che ha effettuato l'accesso; 
+ 
+
+ la data e l'ora dell'accesso; 
+ 
+
+ l'operazione effettuata. 
+ 
+
+ I predetti file di log sono conservati in modalità sicura e vengono trattati in forma aggregata, salvo la necessità di verificare la correttezza e la liceità delle singole operazioni effettuate. I file di log sono conservati per 12 mesi e cancellati alla scadenza. 
+ 
+
+ 4.3 Modalità di trasmissione 
+ 
+
+ La regione o provincia autonoma fornisce al Sistema le informazioni nei formati stabiliti nelle successive sezioni, scegliendo fra tre modalità alternative: 
+ 
+
+ a) utilizzando le regole tecniche di cooperazione applicativa del Sistema Pubblico di Connettività (SPC); 
+ 
+
+ b) utilizzando i servizi applicativi che il Sistema mette a disposizione tramite il protocollo sicuro https e secondo le regole per l'autenticazione di cui a punto 3.2; 
+ 
+
+ c) ricorrendo alla autenticazione bilaterale fra sistemi basata su certificati digitali emessi da un'autorità di certificazione ufficiale. 
+ 
+
+ A supporto degli utenti, il Sistema rende disponibile un servizio di assistenza raggiungibile mediante un unico numero telefonico da tutto il territorio nazionale, ogni ulteriore dettaglio è reperibile sul sito istituzionale del Ministero all'indirizzo www.nsis.salute.gov.it 
+ 
+
+ Le tempistiche di trasmissione ed i servizi di cooperazione applicativa sono pubblicati a cura del Ministero all'indirizzo www.nsis.salute.gov.it 
+ 
+
+ 4.3.1 Sistema Pubblico di Connettività 
+ 
+
+ Il Sistema Pubblico di Connettività (SPC) è definito e disciplinato all'art. 73 e seguenti del Codice dell'amministrazione digitale. 
+ 
+
+ Le trasmissioni telematiche devono avvenire nel rispetto delle regole tecniche del SPC, così come definito agli articoli 51 e 71 del Codice dell'amministrazione digitale. 
+ 
+
+ 4.3.2 Garanzie per la sicurezza della trasmissione dei flussi informativi 
+ 
+
+ Nel caso in cui la regione o la provincia autonoma disponga di un sistema informativo in grado di interagire secondo le logiche di cooperazione applicativa, l'erogazione e la fruizione del servizio richiedono come condizione preliminare che siano effettuate operazioni di identificazione univoca delle entità (sistemi, componenti software, utenti) che partecipano, in modo diretto e indiretto (attraverso sistemi intermedi) ed impersonando ruoli diversi, allo scambio di messaggi e alla erogazione e fruizione dei servizi. 
+ 
+
+ In particolare occorrerà fare riferimento alle regole tecniche individuate ai sensi dell'art. 71 del Codice dell'amministrazione digitale. 
+ 
+
+ Nel caso in cui il sistema informativo della regione o provincia autonoma non risponda alle specifiche di cui sopra, l'utente che debba procedere all'inserimento delle informazioni potrà accedere al Sistema, nell'ambito del NSIS, e inviare le informazioni attraverso una connessione sicura. 
+ 
+
+ 4.3.3 Standard tecnologici per la predisposizione dei dati 
+ 
+
+ L'utente deve provvedere alla creazione e alla predisposizione di documenti conformi alle specifiche dell'Extensible Markup Language (XML) 1.0 (raccomandazione W3C 10 febbraio 1998). 
+ 
+
+ Gli schemi standard dei documenti in formato XML contenenti le definizioni delle strutture dei dati dei messaggi da trasmettere, sono pubblicati, nella loro versione aggiornata, sul sito Internet del Ministero all'indirizzo www.nsis.salute.gov.it. 
+ 
+
+ 4.4 Servizi di analisi 
+ 
+
+ Il Sistema è stato strutturato per perseguire, tra gli altri, i seguenti obiettivi: 
+ 
+
+ monitoraggio dell'attività dei servizi sanitari, con analisi del volume di prestazioni e valutazioni epidemiologiche sulle caratteristiche dell'utenza e sui pattern di trattamento; 
+ 
+
+ supporto alle attività gestionali dei Servizi, per valutare il grado di efficienza e di utilizzo delle risorse; 
+ 
+
+ supporto alla costruzione di indicatori di struttura, processo ed esito sia a livello regionale che nazionale; 
+ 
+
+ il Sistema consente di accedere ad un apposita funzionalità di reportistica che prevede due tipologie di utenti: 
+ 
+
+ utenti del Ministero della salute; 
+ 
+
+ utenti delle regioni o province autonome. 
+ 
+
+ 5. Ambito della rilevazione. 
+ 
+
+ Il Sistema è alimentato con informazioni sintetiche e fedeli della cartella clinica per tutti i pazienti dimessi dagli istituti di cura pubblici e privati. 
+ 
+
+ 
+ 
+ ((6. Le informazioni 
+ 
+
+ Le regioni e le province autonome inviano i dati di cui all'articolo 3, comma 3, esclusivamente in modalità elettronica in tre tracciati distinti, di seguito indicati: 
+ 
+
+ TRACCIATO A - che contiene le informazioni di carattere anagrafico; 
+ 
+
+ TRACCIATO B - che contiene le informazioni relative al ricovero; 
+ 
+
+ TRACCIATO C - che contiene le informazioni relative al ricovero di riabilitazione. 
+ 
+
+ I dati anagrafici, sanitari e di riabilitazione laddove presenti sono, quindi, archiviati separatamente e i dati sanitari sono trattati con tecniche crittografiche. Le informazioni di dettaglio contenute nei tre tracciati sono indicate nelle tabelle di cui alla successiva sezione 6.1. 
+ 
+
+ Si rimanda al documento di specifiche tecniche per il dettaglio delle regole che disciplinano i tracciati record, indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi. 
+ 
+
+ I valori di riferimento da utilizzare nella predisposizione dei file XML sono contenuti nel documento di specifiche tecniche pubblicate sul sito Internet del Ministero all'indirizzo 
+ 
+
+ 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto. 
+ 
+
+ 6.1 Contenuti informativi dei tracciati 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione di carattere anagrafico prevista dal presente decreto (articolo 1, comma 1, lettera A) la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche funzionali pubblicate sul sito Internet del Ministero all'indirizzo 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto 
+ 
+
+ TRACCIATO A 
+ 
+
+ 
+ 
+ 
+ N.PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 Codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica 
+ 
+
+ 
+ 2 bis Numero progressivo scheda SDO della puerpera Questo campo va compilato solo nel caso si tratti della SDO di un neonato relativa all'evento della sua nascita. Compilare con il numero progressivo della scheda SDO della madre relativa al parto. 
+ 
+
+ 
+ 4 Sesso Sesso del paziente 
+ 
+
+ 
+ 5 Data di nascita Data di nascita del paziente 
+ 
+
+ 
+ 6 Comune di nascita Comune di nascita del paziente o, nel caso di paziente nato all'estero, Stato estero di nascita. 
+ 
+
+ 
+ 6 bis Livello di Istruzione Titolo di studio del paziente al momento del ricovero. 
+ 
+
+ 
+ 7 Stato civile Stato civile del paziente al momento del ricovero 
+ 
+
+ 
+ 8 Comune di residenza Comune nella cui anagrafe (Anagrafe della Popolazione Residente) è iscritto il paziente o, nel caso di paziente residente all'estero, Stato estero di residenza, al momento del ricovero. 
+ 
+
+ 
+ 9 Cittadinanza Cittadinanza del paziente al momento del ricovero 
+ 
+
+ 
+ 10 Codice identificativo del paziente Codice identificativo del paziente al momento del ricovero. Nelle more dell'applicazione delle procedure di cui all'articolo 6, comma 1 del presente decreto, le regioni sostituiscono al codice identificativo del paziente un codice cifrato ottenuto applicando al medesimo codice identificativo un algoritmo asimmetrico, a chiave pubblica nota, definito dalla Direzione generale della digitalizzazione, del sistema informativo sanitario e della statistica del Ministero della salute, secondo quanto indicato nel documento di specifiche funzionali 
+ 
+
+ 
+ 10-bis Presenza del codice identificativo dell'assistito nella banca dati di verifica validità Informazione relativa alla presenza del codice identificativo dell'assistito nella banca dati di verifica (sistema Tessera Sanitaria, nelle more dell'attivazione dell'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD). Previsto per utilizzo futuro, all'applicazione delle procedure di cui all'articolo 6, comma 1 del decreto 
+ 
+
+ 
+ 10-ter Tipologia del codice identificativo dell'assistito nella banca dati di verifica validità Informazione relativa alla tipologia del codice identificativo dell'assistito nella banca dati di verifica (sistema Tessera Sanitaria, nelle more dell'attivazione dell'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD). Previsto per utilizzo futuro, all'applicazione delle procedure di cui all'articolo 6, comma 1 del decreto 
+ 
+
+ 
+ 11 Regione di residenza La regione cui appartiene il comune in cui risiede il paziente al momento del ricovero. 
+ 
+
+ 
+ 12 ASL di residenza ASL che comprende il comune, o la frazione di comune in cui risiede l'assistito al momento del ricovero. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione relativa al ricovero, prevista dal presente decreto (articolo 1, comma 1, lettera B), la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche funzionali pubblicate sul sito Internet del Ministero all'indirizzo 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto 
+ 
+
+ 
+ 
+
+ TRACCIATO B 
+ 
+
+ 
+ 
+ 
+ N.PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 Codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica 
+ 
+
+ 
+ 13 Regime di ricovero Il regime di ricovero distingue tra il "ricovero ordinario" ed il "ricovero diurno"; il "ricovero diurno" si caratterizza per la presenza di tutte le seguenti condizioni: . si tratta di ricovero, o ciclo di ricoveri, programmato; . è limitato ad una sola parte della giornata e non ricopre, quindi, l'intero arco delle 24 ore dal momento del ricovero e non prevede il pernottamento del paziente; . fornisce prestazioni multiprofessionali e/o plurispecialistiche, che per la loro intrinseca complessità o invasività o per il correlato rischio per il paziente non possono essere eseguite in ambiente ambulatoriale. 
+ 
+
+ 
+ 13 bis Data di prenotazione La data di prenotazione esprime la data in cui la richiesta di ricovero programmato è pervenuta all'operatore addetto alla prenotazione con conseguente iscrizione del paziente nella lista di attesa. Tale data deve corrispondere a quella riportata nei registri di ricovero, ex art. 3 comma 8 della Legge 724/94. 
+ 
+
+ 
+ 13 ter Classe di priorità Classe di priorità del ricovero programmato, come definita nell'Accordo Stato-Regioni 11 luglio 2002 
+ 
+
+ 
+ 14 Data di ricovero Data di ricovero nell'istituto di cura. 
+ 
+
+ 
+ 14 bis Ora di ricovero Ora di accettazione nel reparto di ammissione; si intende l'ora in cui viene assegnato il letto al paziente. 
+ 
+
+ 
+ 15 Unità operativa di ammissione L'unità operativa di ammissione individua l'unità operativa presso la quale il paziente viene ricoverato all'accettazione, anche nel caso in cui l'assistenza medica sia prevalentemente a carico di altra unità operativa. 
+ 
+
+ 
+ 16 Onere della degenza Con l'onere della degenza si intende specificare il soggetto (o i soggetti) sul quale ricade l'onere di rimborsare le spese relative al ricovero. 
+ 
+
+ 
+ 17 Provenienza del paziente La provenienza del paziente individua l'istituzione da cui proviene il paziente o il medico che ha proposto il ricovero. 
+ 
+
+ 
+ 18 Tipo di ricovero Il tipo di ricovero, da indicare per tutti i ricoveri in regime ordinario individua i ricoveri programmati, distinguendoli dai ricoveri d'urgenza e dai ricoveri obbligatori (TSO) ai sensi degli articoli 33, 34, 35 e 64 della legge 23 dicembre 1978, n. 833. 
+ 
+
+ 
+ 19 Traumatismi o Intossicazioni Informazione che caratterizza la causa del ricovero, quando questo è causato da un trauma, da un incidente o da una intossicazione (presenza di diagnosi principale o secondaria cod. ICD-9-CM 800-904, 910-995). 
+ 
+
+ 
+ 19 bis Codice di Causa esterna Informazione che caratterizza la causa esterna del traumatismo o dell'intossicazione quando il ricovero è causato da un trauma, da un incidente o da una intossicazione (presenza di diagnosi principale o secondaria cod. ICD-9-CM 800-904, 910-995.89) 
+ 
+
+ 
+ 20 Trasferimenti interni La variabile descrive il percorso che il paziente ha seguito durante un singolo ricovero all'interno di un unico istituto di cura. Si ha un trasferimento interno quando il paziente viene trasferito da un posto letto assegnato a una disciplina e/o reparto al posto letto assegnato a una disciplina e/o reparto diversi all'interno dello stesso istituto di cura. La variabile, da riportare soltanto nei casi di ricovero in regime ordinario, comprende la data, l'ora del trasferimento e il codice dell'unità operativa presso cui è stato trasferito il paziente. 
+ 
+
+ 
+ 20bis Trasferimenti esterni La variabile descrive il percorso che il paziente ha seguito nel caso in cui un intervento chirurgico o procedura venga effettuato in modalità "in service" presso un istituto di cura esterno, ovvero diverso da quella in cui il paziente è ricoverato (quindi senza chiusura della SDO). La variabile, da riportare soltanto nei casi di ricovero in regime ordinario, comprende la data, l'ora del trasferimento e il codice dell'unità operativa presso cui è stato trasferito il paziente. 
+ 
+
+ 
+ 20 ter Unità operativa trasferimento esterno La variabile indica l'Unità operativa dell'Istituto di cura, presso cui durante un ricovero ordinario il paziente viene trasferito per essere sottoposto ad un intervento chirurgico o procedura in modalità "in service" (quindi senza chiusura della SDO). 
+ 
+
+ 
+ 21 Unità operativa di dimissione Indica l'unità operativa presso cui è ricoverato il paziente al momento della dimissione: il campo deve essere sempre compilato, anche nel caso in cui l'unità operativa coincida con l'unità operativa di ammissione o con quella relativa all'ultimo trasferimento interno. 
+ 
+
+ 
+ 22 Data di dimissione o morte Indica la data di dimissione o di decesso del paziente 
+ 
+
+ 
+ 22 bis Ora di dimissione o morte Indica l'ora riportata nella lettera di dimissione del soggetto ricoverato oppure l'ora del decesso. 
+ 
+
+ 
+ 23 Modalità di dimissione La modalità di dimissione individua la destinazione del paziente dopo essere stato dimesso dall'istituto di cura e quindi l'eventuale continuazione del percorso assistenziale in altre strutture. 
+ 
+
+ 
+ 24 Riscontro autoptico Individua i pazienti deceduti durante il ricovero per i quali è stata effettuata l'autopsia. 
+ 
+
+ 
+ 25 Motivo del ricovero in regime diurno Indica se il ricovero in regime diurno è effettuato a scopo diagnostico, chirurgico, terapeutico o riabilitativo. 
+ 
+
+ 
+ 26 Numero di giornate di presenza in ricovero diurno Indica il numero complessivo di giornate in cui il paziente ha avuto accessi presso l'istituto di cura nell'arco di uno stesso ciclo assistenziale in regime diurno 
+ 
+
+ 
+ 27 Peso alla nascita Indica il peso rilevato al momento della nascita e riportato nella scheda di dimissione relativa al ricovero in cui è avvenuta la nascita. 
+ 
+
+ 
+ 28 Diagnosi principale di dimissione La diagnosi principale di dimissione è la condizione, identificata alla fine del ricovero come la principale responsabile del bisogno di trattamento e/o di indagini diagnostiche. 
+ 
+
+ 
+ 28 bis Diagnosi principale di dimissione presente al ricovero Indica se la diagnosi principale rilevata alla dimissione era presente anche al momento del ricovero, oppure se è stata individuata attraverso l'anamnesi o diagnosticata successivamente all'ammissione, ma comunque preesistente nel paziente e non insorta durante il ricovero. 
+ 
+
+ 
+ 29 Diagnosi secondarie di dimissione Le diagnosi secondarie di dimissione sono quelle condizioni, diverse dalla diagnosi principale, che coesistono al momento del ricovero o che si sviluppano in seguito e che influenzano l'assistenza erogata al paziente in termini di: trattamento terapeutico, procedure diagnostiche eseguite, durata della degenza, assistenza infermieristica, monitoraggio clinico. Possono essere riportate al massimo cinque diagnosi secondarie 
+ 
+
+ 
+ 29 bis Diagnosi secondarie presenti al ricovero Indica se la diagnosi secondaria rilevata alla dimissione era presente anche al momento del ricovero, oppure se è stata individuata attraverso l'anamnesi o diagnosticata successivamente all'ammissione, ma comunque preesistente nel paziente e non insorta durante il ricovero. 
+ 
+
+ 
+ 30 Intervento principale L'intervento principale è una procedura effettuata nel corso del ricovero e individuata come quella maggiormente correlata alla diagnosi principale di dimissione e, comunque, quella che ha comportato il maggior peso assistenziale ed il maggior consumo di risorse (uso di sala operatoria, medico anestesista, equipe operatoria, ecc.) 
+ 
+
+ 
+ 30 bis Intervento principale esterno Indica se l'intervento principale è stato effettuato in modalità "in service" presso un istituto di cura diverso da quella in cui è ricoverato il paziente 
+ 
+
+ 
+ 30 ter Data intervento principale Indica la data in cui è stato eseguito l'intervento principale. 
+ 
+
+ 
+ 30 quater Ora inizio intervento principale Indica l'ora di inizio dell'intervento principale, intesa come il momento chirurgico che inizia con l'incisione (cosi come definito nella circolare del Ministero della Sanità n. 900.2 / 2.7 / 117 del 18/2/1997). 
+ 
+
+ 
+ 30 quinquies Identificativo Chirurgo intervento principale Individua il chirurgo responsabile dell'intervento principale. è possibile inserire fino a tre identificativi corrispondenti a tre chirurghi riportati nel registro operatorio. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 30 sexies Identificativo Anestesista intervento principale Individua l'anestesista dell'intervento principale. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 30 septies Check List Sala Operatoria intervento principale Indica se è stata compilata ed è presente in cartella clinica la check list per la sicurezza in sala operatoria, come previsto dall'intesa tra il Governo, le Regioni e le Provincie autonome nel documento recante "Disciplina per la revisione della normativa dell'accreditamento" del 20 dicembre 2012. 
+ 
+
+ 
+ 31 Interventi secondari Possono essere riportati al massimo cinque ulteriori procedure rispetto all'intervento principale, Quando nella cartella clinica sono indicate procedure in numero superiore ai sei previsti dal tracciato record della S.D.O., la scelta delle priorità delle segnalazioni è condotta secondo quanto stabilito nell'Accordo della Conferenza Stato-Regioni rep. atti 64/CSR del 29/06/2010. 
+ 
+
+ 
+ 31bis Interventi secondari esterni Indicare se l'ulteriore procedura rispetto all'intervento principale è stata effettuata in modalità "in service" presso un istituto di cura diverso da quello in cui è ricoverato il paziente. 
+ 
+
+ 
+ 32 Data intervento secondario Indica la data dell'intervento secondario per ogni campo di intervento compilato. 
+ 
+
+ 
+ 33 Ora inizio intervento secondario Indica l'ora di inizio dell'intervento secondario, intesa come il momento chirurgico che inizia con l'incisione (cosi come definito nella circolare del Ministero della Sanità n. 900.2 / 2.7 / 117 del 18/2/1997). 
+ 
+
+ 
+ 34 Identificativo Chirurgo intervento secondario Individua il chirurgo responsabile dell'intervento secondario. è possibile inserire fino a tre identificativi corrispondenti a tre chirurghi riportati nel registro operatorio. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 35 Identificativo Anestesista intervento secondario Individua l'anestesista dell'intervento secondario. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 36 Check List Sala Operatoria intervento secondario Indica se è stata compilata ed è presente in cartella clinica la check list per la sicurezza in sala operatoria, come previsto dall'intesa tra il Governo, le Regioni e le Provincie autonome nel documento recante "Disciplina per la revisione della normativa dell'accreditamento" del 20 dicembre 2012. 
+ 
+
+ 
+ 37 Rilevazione del dolore Indica se è stata effettuata almeno una rilevazione del dolore durante il ricovero, secondo quanto previsto dalla Legge n. 38 del 15 marzo 2010. 
+ 
+
+ 
+ 38 Stadiazione condensata Indica lo stadio della neoplasia maligna riportata come diagnosi di dimissione principale (codici ICD-9-CM 140.0-190.9 e 193-199.1). 
+ 
+
+ 
+ 39 Pressione arteriosa sistolica Indica il primo valore di pressione arteriosa sistolica in millimetri di mercurio (mmHg) riportato in cartella clinica in ordine temporale dopo l'ammissione in reparto o al momento dell'accesso a pronto soccorso per i pazienti ricoverati tramite pronto soccorso, con diagnosi di infarto acuto del miocardio (codice ICD9-CM 410.xx). 
+ 
+
+ 
+ 40 Creatinina serica Indica il valore di creatinina serica in milligrammi per decilitro (mg/dL) rilevato nei seguenti casi: 1) intervento chirurgico principale o secondario di by-pass aortocoronarico (codice ICD9-CM 36.1x) o sulle valvole cardiache (codice ICD9-CM 35.1x-35.2x); 2) diagnosi principale o secondaria di frattura del collo del femore (codice ICD9-CM 820.xx); 3) intervento chirurgico principale o secondario di sostituzione protesica totale o parziale (codici ICD-9 CM = 81.51, 81.52) o riduzione di frattura (codici ICD-9-CM: 79.00, 79.05, 79.10, 79.15, 79.20, 79.25, 79.30, 79.35, 79.40, 79.45, 79.50, 79.55). 
+ 
+
+ 
+ 41 Frazione di eiezione Indica la frazione di eiezione pre-operatoria (espressa in percentuale) riportata in cartella clinica e rilevata nel momento più vicino possibile all'inizio dell'intervento chirurgico di by-pass aortocoronarico (codice ICD9-CM 36.1x) o di intervento sulle valvole cardiache (codice ICD9-CM 35.1x-35.2x). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione relativa al ricovero di riabilitazione prevista dal presente decreto (articolo 1, comma 1, lettera B-bis) la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche tecniche pubblicate sul sito Internet del Ministero 
+ 
+
+ 
+ 
+
+ all'indirizzo
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto. 
+ 
+
+ 
+ 
+
+ TRACCIATO C 
+ 
+
+ 
+ 
+ 
+ N. PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica. 
+ 
+
+ 
+ 42 Scala di Rankin La variabile indica il valore della scala di Rankin rilevato dagli operatori al momento dell'ammissione del paziente quale indicatore di funzionalità premorbosa (codice 28, 56, 75) 
+ 
+
+ 
+ 43 Scala di Barthel (BI) La variabile indica il valore della scala di Barthel rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità nelle attività di vita quotidiana (codice 28, 56, 75) 
+ 
+
+ 
+ 44 Scala di Barthel dispnea (BI-D) La variabile indica il valore della scala di Barthel-Dispnea rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore funzionale (solo codice 56) 
+ 
+
+ 
+ 45 Scala Six-Minute Walk Test (6MWT) La variabile indica il valore del test funzionale Six-Minute Walk Test rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore funzionale (solo codice 56) 
+ 
+
+ 
+ 46 Scala Glasgow Coma Scale (GCS) La variabile indica il valore della Glasgow Coma Scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità (solo codice 75) 
+ 
+
+ 
+ 47 Scala Glasgow Outcome Scale Extended (GOSE) La variabile indica il valore della Glasgow Outcome Scale Extended rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità (solo codice 75) 
+ 
+
+ 
+ 48 Scala Level Cognitive Functioning (LCF) La variabile indica il valore della Level Cognitive Functioning rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore dello stato di coscienza (solo codice 75) 
+ 
+
+ 
+ 49 ASIA Impairment Scale (ASIA) La variabile indica il valore della ASIA Impairment scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore del livello di lesione midollare e del grado di completezza (solo codice 28) 
+ 
+
+ 
+ 50 Scala Spinal Cord Independency Measure (SCIM) La variabile indica il valore della scala Spinal Cord Independency Measure rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità nelle attività di vita quotidiana (solo codice 28) 
+ 
+
+ 
+ 51 Rehabilitation Complexity Scale (RCS) La variabile indica il valore della scala Rehabilitation Complexity Scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di complessità assistenziale (codice 28, 56, 75) 
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 6.2 Specifiche disposizioni per il trattamento dei dati identificativi del chirurgo e dell'anestesista 
+ 
+
+ Al livello regionale i codici identificativi relativi al chirurgo e all'anestesista (campi 30-quinquies, 30-sexies, 34 e 35 del Tracciato B) sono oggetto del seguente, specifico trattamento, precedente all'invio dei dati al Ministero della salute. Le regioni e province autonome, mediante procedure automatiche procedono: 
+ 
+
+ alla verifica di validità dei predetti codici identificativi, attraverso uno scambio informativo con il servizio fornito dal sistema Tessera sanitaria; 
+ 
+
+ alla sostituzione dei predetti codici identificativi con i corrispettivi codici univoci prodotti da una funzione non invertibile e resistente alle collisioni 
+ 
+
+ (1) . Tale funzione è rappresentata da un algoritmo di hash (2) che, applicato ad un codice identificativo (dato in input), produce un codice univoco (digest di output) dal quale non è possibile risalire al codice identificativo di origine. L'algoritmo di hash adottato è definito dalla DGSISS del Ministero della salute ed è condiviso tra tutti i soggetti alimentanti, al fine di rendere il codice univoco non invertibile così ottenuto, a fronte del codice identificativo di input unico sul territorio nazionale. 
+ 
+
+ 6.3 Procedura di verifica della validità del codice identificativo 
+ 
+
+ La procedura di verifica della validità del codice identificativo, di cui al paragrafo 6.2 prevede uno scambio informativo con il servizio fornito dal sistema Tessera sanitaria. 
+ 
+
+ Il servizio viene invocato, preventivamente alla sostituzione del codice identificativo con il codice univoco non invertibile, dai Soggetti alimentanti il sistema. 
+ 
+
+ Tale servizio, a fronte di un codice identificativo in ingresso, restituisce le informazioni inerenti la sua validità (valido o errato in quanto inesistente nella banca dati del sistema Tessera sanitaria), utilizzando, limitatamente ai soli campi indicati di seguito, il tracciato definito nel disciplinare tecnico, allegato 1 del decreto 22 luglio 2005 del Ministero dell'economia e delle finanze, di concerto con il Ministero della salute, attuativo del comma 9 dell'art. 50 del decreto-legge 30 settembre 2003, n. 269, convertito con modificazioni dalla legge 24 novembre 2003, n. 326, e successive modificazioni, nella sezione &laquo;Trasmissione dei dati relativi agli assistiti&raquo;, come esposto nella tabella &laquo;Variazioni anagrafiche trasmesse dal Ministero dell'economia e delle finanze&raquo;, integrato, a cura del Ministero dell'economia e delle finanze, dal campo A descritto in tabella: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Progressivo campo Descrizione campo 
+ 
+
+ 
+ 6 Codice fiscale attuale 
+ 
+
+ 
+ A Informazione relativa alla presenza in banca dati del codice di cui si verifica la validità: 0 = Codice identificativo valido (presente in banca dati) 1 = Codice identificativo errato (non presente in banca dati) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 - Informazioni restituite nella procedura di verifica del codice fiscale del chirurgo e dell'anestesista 
+ 
+
+ 
+ 
+
+ 7. Formato elettronico delle trasmissioni. 
+ 
+
+ La trasmissione dei dati è effettuata esclusivamente in modalità elettronica secondo le specifiche funzionali pubblicate sul sito internet del Ministero (www.nsis.salute.gov.it). 
+ 
+
+ Le regioni e le province autonome inviano al livello nazionale del NSIS i dati raccolti e controllati. L'invio delle informazioni da parte della regione/provincia autonoma viene effettuato secondo il tracciato unico nazionale, riportato nel documento di specifiche funzionali. 
+ 
+
+ Si rimanda al suddetto documento di specifiche funzionali e per indicazioni di dettaglio circa la struttura dei file XML nonchè, il relativo documento XSD di convalida a cui far riferimento per le procedure di controllo e verifica dei dati trasmessi e alle modalità di segnalazione ai soggetti interessati riguardo le anomalie riscontrate sui dati trasmessi. 
+ 
+
+ 8. Tempi di trasmissione. 
+ 
+
+ Il Sistema è alimentato con le informazioni relative alle dimissioni effettuate dagli istituti di cura nel periodo di riferimento, secondo le tempistiche indicate all'art. 4 comma 1.c del presente decreto. 
+ 
+
+ 
+ 
+
+ (1) Per il dominio rappresentato dalla totalità dei codici identificativi teoricamente possibili. 
+ 
+
+ (2) La funzione di Hash dipenderà da una chiave di lunghezza adeguata alla dimensione e al ciclo di vita dei dati. (Si vedano in proposito le raccomandazioni ENISA contenute nel rapporto "Algorithms, Key Sizes and Parameters Report", October 2013 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (https://www.enisa.europa.eu/activities/identity-and-trust/librar
+ 
+
+ y/deliverables/algorithms-key-sizes-and-parameters-report).
