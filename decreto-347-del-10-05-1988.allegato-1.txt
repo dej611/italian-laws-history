@@ -1,0 +1,508 @@
+ALLEGATO A 
+ 
+
+ CRITERI DI SICUREZZA DELL'AZIONAMENTO DI GRU, ARGANI E PARANCHI 
+ 
+
+ OTTENUTO PER MEZZO DI RADIOCOMANDI. 
+ 
+
+ 1. SCOPO. 
+ 
+
+ 1.1. Scopo della presente normativa è quello di fornire i requisiti di sicurezza per l'azionamento di gru, argani e paranchi ottenuto per mezzo di radiocomandi, successivamente chiamati RC. 
+ 
+
+ 1.2. La presente normativa fornisce i criteri di valutazione delle caratteristiche di sicurezza degli apparati RC e dà le istruzioni per la esecuzione delle prove. 
+ 
+
+ 2. CAMPO DI APPLICAZIONE. 
+ 
+
+ 2.1. La presente norma si applica ai sistemi di comando degli apparecchi di sollevamento e trasporto che usano apparati RC ovunque operino a meno di disposizioni particolari che ne facciano divieto e che ne obblighino la coesistenza con altri sistemi di comando. Sono escluse dalla presente norma le caratteristiche radioelettriche degli apparati RC in quanto disciplinate da norme specifiche relative alle radio emissioni. 
+ 
+
+ 2.2. è escluso dalla presente norma l'interruttore generale della linea di alimentazione dell'apparecchio di sollevamento e trasporto, il cui azionamento non deve avvenire tramite un apparato RC. 
+ 
+
+ 3. DEFINIZIONI. 
+ 
+
+ 3.1. Sistema RC: sistema costituito da una unità di comando e da un ricevitore che utilizza radiofrequenze per il comando degli apparecchi di sollevamento e trasporto. 
+ 
+
+ 3.2. Unità di comando: unità, portatile o fissa che consente l'azionamento dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 3.3. Trasmettitore: unità che trasmette i comandi codificati in radiofrequenza; normalmente è assemblata nella unità di comando. 
+ 
+
+ 3.4. Ricevitore: unità che riceve i segnali in radiofrequenza, li decodifica e li invia al meccanismo attuatore dell'ordine. I relè attuatori, anche se sistemati in un quadro separato, devono essere comunque considerati come parte del ricevitore ai fini della presente specifica. 
+ 
+
+ 3.5. Interruttore di comando principale: interruttore a chiave posizionato sulla unità di comando attraverso il quale viene abilitato il funzionamento della unità stessa ed effettuata la predisposizione o l'inserzione del contattore generale dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 3.6. Attuatore: parte del meccanismo dell'unità di comando sulla quale è applicata la forza esterna di manovra (leva, pulsante, maniglia, ecc.). 
+ 
+
+ 3.7. Attuatore ad uomo presente: attuatore di sicurezza che determina l'arresto dei movimenti interessati non appena l'operatore cessa di agire sull'attuatore stesso. 
+ 
+
+ 3.8. Pulsante di emergenza: attuatore con conformazione a fungo, di colore rosso, posizionato sulla unità di comando, facilmente riconoscibile ed azionabile, stabile nella posizione di azionato. 
+ 
+
+ 3.9. Pulsante di comando principale: attuatore che inserisce il contattore generale dell'apparecchio di sollevamento e trasporto attivando il comando a distanza dello stesso. 
+ 
+
+ 3.10. Pulsantiera di comando: organo che raggruppa i singoli attuatori necessari alla manovra dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 3.11. Equipaggiamento elettronico: parte dell'equipaggiamento elettrico contenente circuiti nei quali la conduzione di elettroni avviene nel vuoto, nel gas o attraverso un semiconduttore. 
+ 
+
+ 3.12. Involucro: elemento destinato ad impedire contatti accidentali delle persone con parti in tensione o in movimento contenute al suo interno ed a proteggere gli equipaggiamenti da agenti ambientali esterni specificati. 
+ 
+
+ 3.13. Circuito di segnalazione: circuito utilizzato per il comando funzionale dei dispositivi di segnalazione come lampeggiatori, sirene, ecc. 
+ 
+
+ 3.14. Telegramma: informazione a radiofrequenza inviata dal trasmettitore al ricevitore per il comando dell'apparecchio di sollevamento e trasporto. Formalmente il telegramma consta di un indirizzo e di un codice di comando per i movimenti dell'apparecchio. 
+ 
+
+ 3.15. Indirizzo: parte del telegramma inviato dal trasmettitore e contenente gli elementi di identificazione per l'accoppiamento del trasmettitore con il suo proprio ricevitore. 
+ 
+
+ 3.16. Emergenza attiva: comando che oltre ad interrompere i comandi dei movimenti dell'apparecchio di sollevamento e trasporto deve provocare la caduta del contattore generale dello stesso, arrivando all'uscita del ricevitore in un tempo non superiore a 500 ms. 
+ 
+
+ 3.17. Emergenza passiva: dispositivo automatico che blocca tutti i movimenti dell'apparecchio di sollevamento e trasporto in caso di interruzione del collegamento radio o per la presenza di interferenze radio che inibiscono la corretta decifrazione del telegramma per oltre 2 s dal termine dell'ultima ricezione dei dati. 
+ 
+
+ 3.18. Dispositivo contro l'azionamento accidentale: dispositivo atto ad impedire l'azionamento non voluto degli organi di comando dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 4. NORME DI RIFERIMENTO. 
+ 
+
+ 4.1. Le norme generali di riferimento sono: 
+ 
+
+ 4.1.1. D.P.R. 27 aprile 1955 n. 547. 
+ 
+
+ 4.1.2. Norma CEI 70.1 "Grado di protezione degli involucri; 
+ 
+
+ 4.1.3. Norme CEI 50.2/50.3.4.5.6.7.8.9. "Prove climatiche e meccaniche fondamentali"; 
+ 
+
+ 4.1.4. Norma CEI 44.5 "Equipaggiamenti delle macchine industriali"; 
+ 
+
+ 4.1.5. Legge n. 209 del 22 maggio 1980; 
+ 
+
+ 4.1.6. D.M. 17 novembre 1981 del Ministero delle poste e delle telecomunicazioni; e relativi aggiornamenti e varianti. 
+ 
+
+ 4.2 Devono comunque essere rispettate le seguenti prescrizioni: 
+ 
+
+ 4.2.1. Ogni sistema RC deve utilizzare una propria frequenza portante modulata preferibilmente scelta nelle bande VHF e UHF: in mancanza della disponibilità di un numero sufficiente di frequenze si potrà ricorrere ad altri idonei sistemi (calibratura delle pause di trasmissione, gestione ciclica della trasmissione dei dati, ecc.). 
+ 
+
+ 4.2.2. Il telegramma inviato di lunghezza costante deve essere composto di un indirizzo specifico e da un codice relativo alla funzione da realizzare. La trasmissione digitale degli indirizzi deve avvenire con codice avente distanza di Hamming non inferiore a 3. La probabilità di mancata rivelazione di errori di trasmissione non deve superare 10fB012+8 per qualsiasi rapporto segnale rumore sul canale radio. Il calcolo delle prestazioni deve essere condotto con le approssimazioni normalmente usate nel campo delle telecomunicazioni; 
+ 
+
+ 4.2.3. Assicurare che all'insorgere di un errore di hardware o di software nella unità di comando non possa essere trasmesso alcun falso indirizzo, per esempio il telegramma prima della trasmissione deve essere controllato tramite un segnale di retroazione o sistema di pari efficacia che ne verifichi la concordanza con quello corrispondente al comando impostato. 
+ 
+
+ 4.2.4. Il sistema di attuazione del segnale ricevuto deve essere controllato e protetto con auto-test continuo prima di dare luogo al comando ricevuto. 
+ 
+
+ 4.2.5. All'insorgere di uno solo dei guasti elencati, nel radiocomando deve esistere ancora la possibilità di arrestare l'apparecchio di sollevamento e trasporto attivando se necessario l'emergenza passiva: 
+ 
+
+ corto circuito o rottura di un componente; 
+ 
+
+ corto circuito o interruzione dei circuiti di comando; 
+ 
+
+ mancata caduta della armatura mobile di un contattore o di 
+ 
+
+ un relè; 
+ 
+
+ diminuzione di tensione che non garantisca una sicura 
+ 
+
+ ricetrasmissione dei comandi; 
+ 
+
+ difetto di isolamento verso massa o terra; 
+ 
+
+ influssi elettrici per accoppiamenti induttivi, capacitivi 
+ 
+
+ o resistivi. 
+ 
+
+ 4.2.6. In caso di interruzione del collegamento radio o presenza di eventuali interferenze per oltre 2 secondi, dal termine della ultima trasmissione dei comandi, deve avvenire una disinserzione automatica degli organi di comando di tutti i movimenti. 
+ 
+
+ 4.2.7. L'inserzione del contattore generale dell'apparecchio di sollevamento e trasporto deve essere possibile solo quando gli attuatori di movimento della unità di comando si trovano nella posizione di zero. 
+ 
+
+ 4.2.8. L'unità di comando deve essere dotata di un dispositivo di arresto di emergenza, il cui azionamento determini oltre che l'intervento dell'interruttore o contattore generale di linea che alimenta i vari movimenti dell'apparecchio di sollevamento e trasporto, anche l'interruzione del comando dei movimenti. Il comando per la disinserzione deve arrivare all'uscita della unità ricevente in un tempo non superiore a 500 ms. La reinserzione del teleruttore principale di linea deve essere possibile solo con il compenso dell'operatore che ha attivato il dispositivo di arresto di emergenza. 
+ 
+
+ 4.2.9. Il raggio di azione della unità di comando deve essere limitato il più possibile all'area di lavoro controllabile da chi effettua la manovra direttamente o a mezzo di lavoratori incaricati.
+ 
+
+ 4.2.10. L'unità di comando deve essere provvista di interruttore a chiave contro ogni utilizzo non autorizzato. La sua inserzione non deve provocare alcun movimento dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 4.2.11. Quando la capacità della batteria non è più sufficiente per una sicura trasmissione dei comandi deve essere disabilitato automaticamente il trasmettitore previo avviso ottico e/o acustico. 
+ 
+
+ 4.2.12. Una segnalazione luminosa intermittente posta in posizione visibile deve entrare e mantenersi in funzione sull'apparecchio di sollevamento e trasporto per tutto il tempo in cui è attivato il radiocomando. 
+ 
+
+ 4.2.13. L'unità di comando non deve impedire la libertà di movimento del manovratore. 
+ 
+
+ 4.2.14. Colpi ed urti occasionali (ad esempio per caduta dell'unità di comando) non devono causare movimenti involontari dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 4.2.15. Gli attuatori di comando dei movimenti devono essere ad uomo presente e protetti contro l'azionamento accidentale. 
+ 
+
+ 4.2.16. L'unità di comando deve essere fornita di un attuatore per l'azionamento del dispositivo di segnalazione posto sull'apparecchio di sollevamento ed azionabile dall'operatore. 
+ 
+
+ 4.2.17. Gli attuatori di comando devono portare chiare indicazioni delle manovre cui sono destinati. 
+ 
+
+ 4.2.18. Il grado di protezione meccanica delle custodie delle apparecchiature elettriche deve essere scelto in conformità alle norme di buona tecnica e comunque non deve essere inferiore a IP 54.
+ 
+
+ 4.2.19. I valori del campo elettrico e del campo magnetico in ogni punto della zona di lavoro dell'apparecchio di sollevamento e trasporto non devono superare i valori: 
+ 
+
+ E = 40 v/m A = 0.10 A/m 
+ 
+
+ 5. DOCUMENTAZIONE. 
+ 
+
+ Il sistema RC deve essere corredato della seguente documentazione. La documentazione è considerata parte integrante dell'apparato: 
+ 
+
+ 5.1. Indicazioni ed istruzioni di impiego. 
+ 
+
+ 5.1.1. Il libretto del sistema RC deve contenere tutte le istruzioni per un uso corretto e sicuro dell'apparato. Inoltre nel libretto devono essere riportate le caratteristiche degli eventuali accessori e le istruzioni da seguire in caso di guasto. 
+ 
+
+ 5.1.2. Il libretto del sistema RC deve contenere tutte le informazioni per una installazione a regola d'arte degli apparati. 
+ 
+
+ 5.1.3. Il libretto di istruzione deve riportare tutte le indicazioni per mantenere in efficienza il sistema RC (manutenzione preventiva, controlli periodici, parti revisionabili, ecc.). 
+ 
+
+ 5.1.4. Il libretto di istruzione deve riportare una avvertenza in cui si dice che in caso di guasto, le riparazioni devono essere effettuate secondo le indicazioni del costruttore dell'apparato in modo che lo stesso mantenga tutte le sue caratteristiche. 
+ 
+
+ 5.2. Descrizione tecnica del sistema RC. 
+ 
+
+ 5.2.1. La descrizione tecnica deve riportare le dimensioni di ingombro ed il peso della unità di comando. 
+ 
+
+ 5.2.2. La descrizione tecnica del sistema RC deve riportare i seguenti dati di identificazione. 
+ 
+
+ 5.2.2. a Nome della ditta costruttrice e/o marchio di fabbrica. 
+ 
+
+ 5.2.2. b Nome del modello ed il numero di serie. 
+ 
+
+ 5.2.2. c Frequenze e tensioni di lavoro del sistema RC. 
+ 
+
+ 5.2.2. d Potenze di alimentazione del sistema RC e potenza del sistema a radiofrequenza. 
+ 
+
+ 5.2.2. e Lo schema a blocchi dei circuiti elettrici, gli schemi delle connessioni, lo schema dell'equipaggiamento, il diagramma di trasmissione ed una descrizione sommaria del funzionamento del trasmettitore. 
+ 
+
+ 5.2.2. f Lo schema a blocchi, gli schemi delle connessioni, lo schema dell'equipaggiamento, il diagramma di trasmissione ed una descrizione sommaria del funzionamento del ricevitore. 
+ 
+
+ 5.2.2. g Descrizione del telegramma di accoppiamento fra unità di comando e ricevitore. 
+ 
+
+ 5.2.3. Elenco dei componenti. 
+ 
+
+ 5.2.3.1 La descrizione tecnica deve riportare i dati di identificazione per la sostituzione dei fusibili e delle altre parti sostituibili perchè soggette a deterioramento. 
+ 
+
+ 5.2.3.2. La descrizione tecnica deve riportare l'indicazione del grado di protezione meccanica delle custodie utilizzate. 
+ 
+
+ 5.3. Dati di targa. 
+ 
+
+ La targa posizionata sulla unità di comando deve essere inamovibile e riportare in modo chiaro ed indelebile almeno le indicazioni di cui ai punti 5.2.2. a-b-c-d-e. 
+ 
+
+ 5.4. Dichiarazioni. 
+ 
+
+ 5.4.1. Il libretto di istruzione tecnica deve riportare una dichiarazione del costruttore di rispondenza del sistema RC alle regole della presente norma tecnica. 
+ 
+
+ 5.4.2. Il libretto di istruzione tecnica deve riportare l'impegno del costruttore a fornire, se richieste, tutte le informazioni al personale qualificato dell'utente atte a riparare le parti che il costruttore stesso ritiene riparabili. 
+ 
+
+ 5.4.3. Il libretto di istruzione tecnica deve riportare una dichiarazione della ditta costruttrice di rispondenza del sistema RC al tipo approvato. 
+ 
+
+ 5.4.4. Le dichiarazioni devono essere firmate dal legale rappresentante della ditta costruttrice purchè delegata a ciò. 
+ 
+
+ 6. CONTROLLI E PROVE. 
+ 
+
+ Controlli sulla documentazione tecnica. 
+ 
+
+ Prove sul sistema RC. 
+ 
+
+ Prove di funzionalità. 
+ 
+
+ 6.1. 
+ 
+
+ Controlli sulla documentazione tecnica. 
+ 
+
+ 6.1.1. Completezza formale della documentazione. 
+ 
+
+ 6.1.2. Protezione contro i movimenti non voluti dovuti a disturbi nel tratto via radio: 
+ 
+
+ a) l'indirizzo del telegramma deve avere una distanza di 
+ 
+
+ Hamming non inferiore a 3; 
+ 
+
+ b) la lunghezza del treno di impulsi ovvero il numero 
+ 
+
+ sempre costante del simbolo di informazione del telegramma deve essere indipendente dal numero dei comandi; 
+ 
+
+ c) deve essere stato impiegato un codice a rivelazione di 
+ 
+
+ errore per esempio codice ciclico controllo CRC, ecc.; 
+ 
+
+ d) il rilevatore di tolleranza del ricevitore per 
+ 
+
+ scostamenti troppo elevati del livello del segnale dal valore di tempo prefissato deve portare all'annullamento del telegramma. 
+ 
+
+ 6.2. Prove sul sistema RC. 
+ 
+
+ 6.2.1. Contatti elettrici diretti. 
+ 
+
+ La prova viene eseguita sottoponendo le custodie agli esami previsti dalle norme CEI 70.1. 
+ 
+
+ 6.2.2. Contatti elettrici indiretti. 
+ 
+
+ La prova viene eseguita sottoponendo il sistema ad ispezione visiva ed al controllo delle continuità elettriche dei conduttori di protezione secondo quanto previsto dalle norme di buona tecnica. 
+ 
+
+ 6.2.3. Qualità delle connessioni. 
+ 
+
+ La prova viene eseguita verificando la esecuzione ed il fissaggio delle parti di impianto e controllando la qualità e l'assemblaggio dei conduttori interni. 
+ 
+
+ 6.2.4. Emergenza passiva. 
+ 
+
+ La prova consiste nella misura del tempo di intervento, per mezzo di un circuito di controllo temporizzato, a seguito di: 
+ 
+
+ a) simulazione di interferenze sul canale di trasmissione; 
+ 
+
+ b) simulazione di tutti i guasti previsti al punto 4.2.5 
+ 
+
+ che alterano la trasmissione dati. 
+ 
+
+ 6.2.5. Maneggevolezza dell'unità di comando. 
+ 
+
+ La prova consiste nel verificare che il peso e le dimensioni dell'unità di comando siano tali da garantire la normale libertà di movimento dell'operatore. 
+ 
+
+ 
+ 
+
+ 6.2.6. Comportamento dell'unità di comando in caso di urti e colpi.
+ 
+
+ La prova consiste nel far cadere l'unità di comando da 0,5 m di altezza secondo le 3 direzioni ortogonali su una superficie rigida e controllando che non si verifichino condizioni tali da provocare movimenti di qualunque tipo sull'apparecchio di sollevamento. 
+ 
+
+ 6.2.7. Comportamento degli attuatori di comando dei movimenti. 
+ 
+
+ La prova consiste nel controllo della funzionalità dei dispositivi previsti contro l'azionamento accidentale e del dispositivo di ritorno automatico nella posizione di zero. 
+ 
+
+ 6.2.8. Stato di carico della batteria. 
+ 
+
+ La prova consiste in una simulazione di avvenuta scarica della batteria alimentando l'unità di comando con una sorgente esterna con tensione di alimentazione variabile fra il 90 e il 110% della tensione nominale e controllando che al di sotto del valore limite intervenga un dispositivo di segnalazione ottico e/o acustico e successivamente la messa fuori esercizio dell'apparecchio di sollevamento e trasporto (emergenza passiva). Nel lasso di tempo fra l'inizio della segnalazione e la messa fuori esercizio l'apparecchio deve poter svolgere le sue normali funzioni. 
+ 
+
+ 6.2.9. Emergenza attiva. 
+ 
+
+ La prova consiste in un esame a vista per il controllo delle caratteristiche del pulsante e nella verifica della emergenza attiva di cui al punto 4.2.8. 
+ 
+
+ 6.2.10. Prove di guasti. 
+ 
+
+ La prova consiste nel simulare tutti i possibili guasti di cui al punto 4.2.5 e nel controllare i tempi di intervento dei dispositivi di protezione. 
+ 
+
+ 6.2.11. Prove sull'equipaggiamento elettrico. 
+ 
+
+ L'equipaggiamento elettrico dei sistemi RC deve essere sottoposto alle seguenti prove: 
+ 
+
+ prove di isolamento; 
+ 
+
+ prove di tensione. 
+ 
+
+ Le prove devono essere effettuate in conformità a quanto disposto dalla norma CEI 44.5. 
+ 
+
+ 6.2.12. Dati di targa 
+ 
+
+ La prova consiste in un esame visivo della targa ed in un controllo di indelebilità effettuato strofinando la targa per 15 s mediante un tessuto imbevuto di benzina. 
+ 
+
+ 6.3. Prove di funzionamento dell'accoppiamento dei sistemi RC all'apparecchio di sollevamento e trasporto. 
+ 
+
+ 6.3.1. Blocco fra comando radio e comando cabina. 
+ 
+
+ La prova consiste in un controllo visivo e funzionale del tipo di blocco messo in atto. 
+ 
+
+ 6.3.2. Dispositivo di allarme. 
+ 
+
+ La prova consiste in un controllo di funzionalità. 
+ 
+
+ 6.3.3. Prove di sicurezza sull'unità di comando. 
+ 
+
+ L'azionamento dell'interruttore di comando principale di cui al punto 3.5 non deve dar luogo a movimenti dell'apparecchio di sollevamento e trasporto. 
+ 
+
+ 6.3.4. Prove di funzionamento. 
+ 
+
+ L'apparecchio di sollevamento deve rispondere normalmente a tutte le prove di funzionamento proprie dell'apparecchio. 
+ 
+
+ 7. ISTANZA DI APPROVAZIONE DI TIPO. 
+ 
+
+ 7.1. 
+ 
+
+ L'istanza deve essere presentata dal costruttore o dal legale rappresentante dell'importatore. 
+ 
+
+ Essa va indirizzata all'ISPESL e completata con la documentazione allegata firmata da un ingegnere, abilitato all'esercizio della professione dipendente dalla ditta o iscritto sui relativi albi professionali: 
+ 
+
+ Indicazioni ed istruzioni d'uso (vedasi punto 5.1); 
+ 
+
+ Descrizione tecnica del sistema RC (vedasi punto 5.2); 
+ 
+
+ Dichiarazioni del legale rappresentante (vedasi punto 5.4); 
+ 
+
+ Dati di targa (vedasi punto 5.3). 
+ 
+
+ Al direttore dell'I.S.P.E.S.L. 
+ 
+
+ Istanza di approvazione di tipo 
+ 
+
+ Il sottoscritto .......................... nato a............... il...............residente in ...................................... via .................... legale rappresentante della ditta..........
+ 
+
+ .............................. con sede sociale in.................. via 
+ 
+
+ ............ telefono.................. chiede l'approvazione di tipo del sistema RC. 
+ 
+
+ Allo scopo allega i documenti previsti dalla normativa tecnica e l'attestazione dell'avvenuto versamento di lire............... dovuto all'I.S.P.E.S.L. 
+ 
+
+ Data..................... 
+ 
+
+ Il legale rappresentante della ditta 
+ 
+
+ ........................................ 
+ 
+
+ Timbro e data 
+ 
+
+ I. S. P. E. S. L. 
+ 
+
+ Timbro e data
