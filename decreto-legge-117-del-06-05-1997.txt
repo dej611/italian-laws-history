@@ -36,7 +36,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il Ministro per i beni culturali e ambientali, entro sessanta giorni dalla data di entrata in vigore del presente decreto, adotta un piano straordinario inteso all'installazione, all'adeguamento ed alla modernizzazione degli impianti di prevenzione e di sicurezza a tutela del patrimonio architettonico, archeologico, artistico-storico, bibliografico e archivistico pubblico e privato, nonchè per la predisposizione degli strumenti programmatici intesi all'individuazione dei rischi afferenti i beni culturali. Il piano indica le quote di finanziamento da assegnare a ciascuna soprintendenza, o altro istituto dipendente.
+ 1. Il Ministro per i beni culturali e ambientali, entro sessanta giorni dalla data di entrata in vigore del presente decreto, adotta un piano straordinario inteso all'installazione, all'adeguamento ed alla modernizzazione degli impianti di prevenzione e di sicurezza a tutela del patrimonio architettonico, archeologico, artisticostorico, bibliografico e archivistico pubblico e privato, 
+ ((anche mediante l'utilizzo di sistemi antitaccheggio prioritariamente rivolti alla tutela del patrimonio bibliografico,))
+
+ nonchè per la predisposizione degli strumenti programmatici intesi all'individuazione dei rischi afferenti i beni culturali. Il piano indica le quote di finanziamento da assegnare a ciascuna soprintendenza, o altro istituto dipendente.
  
 
  
@@ -44,7 +47,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per la predisposizione del piano di cui al comma 1, gli organi del Ministero per i beni culturali e ambientali propongono ai rispettivi uffici centrali il programma degli interventi da realizzare. Le proposte hanno riferimento ad interventi per l'installazione, l'integrazione e l'adeguamento di impianti di prevenzione e di sicurezza anche dei beni appartenenti agli enti pubblici, ai privati, agli enti ed istituzioni ecclesiastiche, previa dimostrazione della impossibilità a provvedervi a proprie spese e con assunzione degli oneri di manutenzione e gestione degli impianti.
+ 2. Per la predisposizione del piano di cui al comma 1, gli organi del Ministero per i beni culturali e ambientali propongono ai rispettivi uffici centrali il programma degli interventi da realizzare. Le proposte hanno riferimento ad interventi per l'installazione, l'integrazione e l'adeguamento di impianti di prevenzione e di sicurezza anche dei beni appartenenti agli enti pubblici, ai privati, 
+ ((...))
+
+ , previa dimostrazione della impossibilità a provvedervi a proprie spese e con assunzione degli oneri di manutenzione e gestione degli impianti 
+ ((, nonchè agli enti ed istituzioni ecclesiastiche in conformità all'intesa tra il Ministro per i beni culturali e ambientali e il Presidente della Conferenza episcopale italiana, relativa alla tutela dei beni culturali di interesse religioso appartenenti ad enti ed istituzioni ecclesiastiche di cui al decreto del Presidente della Repubblica 26 settembre 1996, n. 571))
+
+ .
  
 
  
@@ -92,7 +101,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. Le unità di personale, appartenenti ad amministrazioni pubbliche statali e non statali esistenti nelle regioni interessate, sono collocate in posizione di comando presso le soprintendenze o gli istituti di cui al comma 7, previo consenso del personale e sulla base delle comunicazioni di disponibilità che le amministrazioni interpellate dovranno fornire al Ministero per i beni culturali e ambientali entro trenta giorni dalla data di entrata in vigore del presente decreto.
+ 8. Le unità di personale, appartenenti ad amministrazioni pubbliche statali e non statali esistenti nelle regioni interessate, sono collocate in posizione di comando presso le soprintendenze o gli istituti di cui al comma 7, previo consenso del personale e sulla base delle comunicazioni di disponibilità che le amministrazioni interpellate dovranno fornire al Ministero per i beni culturali e ambientali entro 
+ ((sessanta giorni))
+
+ dalla data di entrata in vigore del presente decreto.
  
 
  
@@ -100,4 +112,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 9. Per la realizzazione del piano i soprintendenti e i direttori degli altri istituti interessati effettuano operazioni finanziarie, secondo criteri di uniformità, a carico delle entrate di cui alla legge 25 marzo 1997, n. 78, nei limiti di una spesa massima di lire 20 miliardi annui per un periodo massimo di dieci anni, per rimborso delle quote di capitale e interessi. Per le finalità di cui al presente articolo è altresì autorizzata la spesa di lire 20 miliardi per il 1997 mediante utilizzo dell'autorizzazione di spesa relativa alla quota dello Stato dell'otto per mille dell'IRPEF, iscritta nello stato di previsione del Ministero del tesoro per l'anno 1997, ai sensi dell'articolo 48 della legge 20 maggio 1985, n. 222. Agli oneri derivanti dai commi 5, 7 e 8, valutati complessivamente in lire 2 miliardi per il 1997 e 1 miliardo annuo a decorrere dal 1998, si provvede con parte delle entrate derivanti dalla vendita dei biglietti di ingresso ai musei statali di cui alla legge 25 marzo 1997, n. 78.
+ 9. Per la realizzazione del piano i soprintendenti e i direttori degli altri istituti interessati effettuano operazioni finanziarie, secondo criteri di uniformità, a carico delle entrate di cui alla legge 25 marzo 1997, n. 78, nei limiti di una spesa massima di lire 20 miliardi annui per un periodo massimo di dieci anni, per rimborso delle quote di capitale e interessi. Per le finalità di cui al presente articolo è altresì autorizzata la spesa di lire 20 miliardi per il 1997 mediante utilizzo dell'autorizzazione di spesa relativa alla quota dello Stato dell'otto per mille dell'IRPEF, iscritta nello stato di previsione del Ministero del tesoro per l'anno 1997, ai sensi dell'articolo 48 della legge 20 maggio 1985, n. 222. Agli oneri derivanti dai commi 5, 
+ ((6,))
+
+ 7 e 8, valutati complessivamente in lire 2 miliardi per il 1997 e 1 miliardo annuo a decorrere dal 1998, si provvede con parte delle entrate derivanti dalla vendita dei biglietti di ingresso ai musei statali di cui alla legge 25 marzo 1997, n. 78.
+ 
+
+ 
+ 
+ ((9-bis. Per l'attuazione degli interventi di cui al comma 1 è autorizzata l'apertura di contabilità speciali di cui al comma 8 dell'articolo 3 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135))
