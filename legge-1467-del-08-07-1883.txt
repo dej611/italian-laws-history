@@ -27,10 +27,12 @@ Art. 1
  1 Comando militare dell'Isola di Sardegna; 
  
 
- 12 Comandi superiori dei distretti militari; 
  
+ ((...))
 
- 87 Comandi di distretto militare; 
+ ((Distretti di reclutamento))
+
+ ; 
  
 
  
@@ -43,12 +45,9 @@ Art. 1
  
 
  
- ((...))
+ ((12 Comandi locali d'artiglieria))
 
- 
- 
-
- 14 Direzioni territoriali d'artiglieria; 
+ ; 
  
 
  
@@ -63,7 +62,10 @@ Art. 1
  6 Comandi territoriali del genio; 
  
 
- 19 Direzioni territoriali del genio; 
+ 
+ ((15 Direzioni territoriali del genio))
+
+ ; 
  
 
  
@@ -99,4 +101,7 @@ Art. 1
  
  
 
- 19 Tribunali militari territoriali.
+ 
+ ((14 Tribunali militari territoriali))
+
+ .
