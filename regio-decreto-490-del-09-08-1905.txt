@@ -54,49 +54,66 @@ Art. 1
  
  
 
- --------------------------------------+----------------------------
+ -------------------------------------------------------------------
  
 
- &brvbar; SOPRASSOLDO
+ &brvbar; 
+ 
+ ((Soprassoldo
  
 
- +--------------+-------------
+ &brvbar;-----------------------------
  
 
  &brvbar; annuo &brvbar; mensile
  
 
- --------------------------------------+--------------+-------------
+ -------------------------------------------------------------------
  
 
- Al capo del laboratorio chimico di &brvbar; &brvbar;
+ Al capo del laboratorio chimico di &brvbar; L. 1200 &brvbar; 100
  
 
- Spezia . . . . . . . . . . . . . .&brvbar; L. 1200 &brvbar; L. 100
+ Spezia. &brvbar; &brvbar;
  
 
- Al capo del laboratorio chimico di &brvbar; &brvbar;
+ &brvbar; &brvbar;
  
 
- Napoli . . . . . . . . . . . . . .&brvbar; &raquo; 900 &brvbar; &raquo; 75
+ Al capo del laboratorio chimico di &brvbar; &raquo; 600 &brvbar; 50
  
 
- Al capo del laboratorio chimico di &brvbar; &brvbar;
+ Napoli &brvbar; &brvbar;
  
 
- Venezia . . . . . . . . . . . . . .&brvbar; &raquo; 600 &brvbar; &raquo; 50
+ &brvbar; &brvbar;
  
 
- Al capo del laboratorio chimico di &brvbar; &brvbar;
+ Al capo del laboratorio ohimico di &brvbar; &raquo; 600 &brvbar; 50
  
 
- Taranto . . . . . . . . . . . . . .&brvbar; &raquo; 600 &brvbar; &raquo; 50
+ Venezia &brvbar; &brvbar;
  
 
- Al capo del laboratorio chimico di &brvbar; &brvbar;
+ &brvbar; &brvbar;
  
 
- Terni . . . . . . . . . . . . . . .&brvbar; &raquo; 600 &brvbar; &raquo; 50
+ Al capo del laboratorio chimico di &brvbar; &raquo; 900 &brvbar; 75
+ 
+
+ Taranto &brvbar; &brvbar;
+ 
+
+ &brvbar; &brvbar;
+ 
+
+ Al capo del laboratorio chimico di &brvbar; &raquo; 600 &brvbar; 50
+ 
+
+ Terni))
+ 
+
+ &brvbar; &brvbar; 
  
 
  
