@@ -55,4 +55,7 @@ VITTORIO EMANUELE III
  
  
 
- &laquo;Il ministro approva le proposte di prestiti. Tale approvazione tiene luogo del decreto Reale a tutti gli effetti e sarà esibita per il pagamento della tassa di concessione governativa&raquo;.
+ &laquo;
+ ((Al Ministro delle finanze sono presentati dal direttore generale della Cassa depositi o prestiti, per la approvazione, gli elenchi dei prestiti deliberati dal Consiglio d'amministrazione. In base a tali elenchi approvati, il direttore generale provvede alla formale concessione dei singoli mutui mediante deliberazioni, le quali a tutti gli effetti, compreso quello del pagamento della tassa di concessione governativa, valgono come decreto di concessione))
+
+ &raquo;.
