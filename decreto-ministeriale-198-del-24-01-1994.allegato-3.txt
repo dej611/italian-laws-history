@@ -1,0 +1,682 @@
+SUB-ALLEGATO 1 
+ 
+
+ 
+ 
+
+ TABELLA DEI CODICE-ERRORE DELLA ROUTINE DI CONTROLLO 
+ 
+
+ - Cod-errore-nn 
+ 
+
+ 0101 Codice banca primo livello non impostato 
+ 
+
+ 0102 Codice nazione banca non previsto 
+ 
+
+ 0201 Codice titolo non impostato 
+ 
+
+ 0301 Tipo titolo non impostato 
+ 
+
+ 0302 Tipo titolo non valido 
+ 
+
+ 0401 Prezzo d'emisione non impostato 
+ 
+
+ 0501 Aliquota fiscale non impostata 
+ 
+
+ 0601 Giorni non impostato 
+ 
+
+ 0701 Data inizio cedola non impostata 
+ 
+
+ 0801 Data scadenza cedola non impostata 
+ 
+
+ 0802 Data scadenza cedola incongruente con data inizio cedola 
+ 
+
+ 0901 Tasso di interesse non impostato 
+ 
+
+ 1001 Codice identificativo investitore non impostato 
+ 
+
+ 1101 Nominativo investitore non impostato 
+ 
+
+ 1201 Domicilio investitore non impostato 
+ 
+
+ 1301 Codice nazione di residenza investitore non impostato 
+ 
+
+ 1302 Codice nazione di residenza investitore non previsto 
+ 
+
+ 1501 Natura giudirica non impostata 
+ 
+
+ 1502 Natura giudirica non prevista 
+ 
+
+ 1503 Incongruenza tra natura giuridica e data di nascita 
+ 
+
+ 1601 Valore del flag scarto non ammesso 
+ 
+
+ 1602 Scarto non previsto dalla convenzione 
+ 
+
+ 1603 Scarto incongruente con prezzo di emissione 
+ 
+
+ 1701 Progr. periodo non impostato 
+ 
+
+ 1702 Progr. periodo errato 
+ 
+
+ 1801 Data di variazione non impostata 
+ 
+
+ 1802 Data di variazione duplicata o non in sequenza temporale 
+ 
+
+ 1901 Valore nominale non impostato 
+ 
+
+ 2001 Importo richiesto non impostato 
+ 
+
+ 2002 Importo calcolato diverso da importo richiesto 
+ 
+
+ 
+ 
+
+ SUB-ALLEGATO 2 
+ 
+
+ 
+ 
+
+ PROCEDURE DI TRASFERIMENTO DATI TRA ISTITUTI BANCARI 
+ 
+
+ ED ANAGRAFE TRIBUTARIA 
+ 
+
+ Allegato tecnico relativo alle procedure per le applicazioni delle ritenute convenzionali sugli interessi dei titoli di Stato Italiani 1. ARCHITETTURA DEL SISTEMA DI TRASFERIMENTO DATI 
+ 
+
+ 1.1 Introduzione 
+ 
+
+ Lo scambio di dati tra Istituto bancario ed Anagrafe Tributaria (A.T.) relativo alle ritenute convenzionali sugli interessi dei titoli di stato italiani (per brevità definito flusso Titoli) prevede un invio di dati dalla banca verso A.T. e una successiva ricezione di dati di risposta; l'attivazione delle operazioni di trasmissione dei dati verso A.T. e di ricezione delle risposte è a carico dell'Istituto bancario. 
+ 
+
+ 1.2 Funzioni collegate con il trasferimento dati 
+ 
+
+ Per garantire opportuni livelli di sicurezza e gestibilità alle trasmissioni dati tra Istituto bancario ed Anagrafe Tributaria sono state individuate una serie di funzioni collegate al trasferimento dei dati; tali funzioni sono: 
+ 
+
+ - funzioni di congruenza, integrità, sicurezza e compressione dei dati; 
+ 
+
+ - funzioni di controllo accessi, logging e protocollazione delle trasmissioni; 
+ 
+
+ - funzioni accessorie di ausilio alle trasmissioni. 
+ 
+
+ Le funzioni del primo gruppo, relative ai dati, garantiscono che i dati scambiati con A.T. abbiano le seguenti caratteristiche: 
+ 
+
+ - coerenza sintattica con le relative applicazioni che li tratteranno sul polo remoto; la funzione è realizzata tramite appositi controlli, di sequenza e di formattazione del records, attivati prima della trasmissione vera e propria, in modo da bloccare, con opportuni diagnostici, le trasmissioni di dati formalmente non corretti; 
+ 
+
+ - garanzia di integrità consistente nella certezza che la copia remota del dato sia identica al dato trasferito; la funzione è realizzata associando ai normali controlli dello strumento trasmissivo, una serie di controlli utente realizzati tramite codici numerici CRC (Controllo di Ridondanza Ciclico) calcolati sui dati prima e dopo la trasmissione; 
+ 
+
+ - garanzia di sicurezza del dato rispetto ad illegittimi accessi in lettura durante il trasferimento; la funzione è realizzata tramite la crittografia del dato originario e la strasmissione di soli dati crittografati; 
+ 
+
+ - comprensione per ottimizzare il traffico di linea. 
+ 
+
+ Le funzioni del secondo gruppo, relativo alla singola trasmissione, prevedono: 
+ 
+
+ - controllo dell'identità dell'ente trasmittente per bloccare operazioni eseguite senza autorizzazione; tale controllo è effettuato a livello di collegamento fisico e di sessione di file transfer, 
+ 
+
+ - logging dell'avventura trasmissione in entrambi i poli trasmissivi; il logging deve essere assicurato per tutti gli eventi e quindi anche per i tentativi di trasmissione non andati a buon fine; 
+ 
+
+ - protocollazione della singola trasmissione per poter identificare ogni singola operazione nelle successive attività elaborative. 
+ 
+
+ Le funzioni accessorie sono: 
+ 
+
+ - funzioni di "pooling" degli archivi da trasmettere per garantire la possibilità di predisporre gli archivi per nuove trasmissioni anche nel caso di interruzione del collegamento; 
+ 
+
+ - funzioni di attivazione guidata delle richieste di trasmissione; 
+ 
+
+ - funzioni accessorie di amministrazione del prodotto di trasmissione dati. 
+ 
+
+ 1.3 Modalità di trasferimento dati 
+ 
+
+ Lo scambio di dati viene realizzato in maniera diversificata in dipendenza della disponibilità presso l'Istituto bancario della particolare piattaforma hardware/software, nell'ambito delle possibili alternative di seguito indicate: 
+ 
+
+ 1) utilizzo del prodotto programma IBM NetView/FTP V.2 in ambiente MVS; 
+ 
+
+ 2) utilizzo del prodotto programma IBM NetView/FTP V.1 in ambiente MVS; 
+ 
+
+ 3) utilizzo di protocolli di trasferimento dati standard (FTP su TCP/IP, FTAM OSI). 
+ 
+
+ Le funzionalità descritte nel paragrafo 1.2 vengono realizzate tramite appositi moduli di interfaccia, realizzati a cura di Anagrafe Tributaria. Il modulo di interfaccia per il prodotto Netview/FTP V.2 consiste in una serie di exit routines che, operando in modo sincrono con la trasmissione, realizzano una sessione parallela di controllo per garantire tutte le funzioni collegate con il trasferimento dati individuate. 
+ 
+
+ Il modulo di interfaccia per il prodotto Netview/FTP V.1 è realizzato tramite exit, come nel caso precedente, con l'unica differenza che la sessione sincrona di controllo termina prima della notifica finale presso l'Istituto bancario del completamento dell'intera operazione trasmissiva. 
+ 
+
+ Il modulo di interfaccia per gli altri protocolli di file transfer opera in modo asincrono con la trasmissione e garantisce le funzioni di congruenza, integrità e sicurezza dei dati nonchè la protocollazione della trasmissione, mentre le funzioni di logging della singola trasmissione e eventuali funzioni accessorie saranno quelle dello specifico prodotto (FTP su TCP/IP, FTAM) che implementa la trasmissione. 
+ 
+
+ 2. TRASFERIMENTO MEDIANTE NETVIEW/FTP 
+ 
+
+ I trasferimenti dati (invio da Istituto bancario ad A.T. e successiva ricezione delle risposte da parte dello stesso) realizzati con NetView/FTP hanno la caratteristica di svolgersi tramite una serie di exit routines, fornite da A.T., che operando in modo sincrono con la trasmissione e agendo in cooperazione tra loro, realizzano una sessione parallela di controllo per garantire l'attivazione di tutte le funzioni collegate con il trasferimento dati individuate: 
+ 
+
+ - funzioni di congruenza, integrità, sicurezza e compressione dei dati; 
+ 
+
+ - funzioni di controllo accessi, logging e protocollazione delle trasmissioni; 
+ 
+
+ - funzioni accessorie di ausilio alle trasmissioni. 
+ 
+
+ 2.1 Trasmissione da Istituto bancario ad Anagrafe Tributaria 
+ 
+
+ La gestione del flusso trasmissivo si articola cronologicamente nella esecuzione delle seguenti 7 fasi: 
+ 
+
+ 1) la routine di gestione inserimento richiesta, richiamata dalla procedura di predisposizione dei dati nel nodo trasmittente (Istituto bancario), consente di selezionare un archivio disponibile nel pool su cui descrivere i dati da trasferire e di inserire la relativa richiesta di trasmissione; 
+ 
+
+ 2) la PRE-TRANSFER User Exit, richiamata dal server nel nodo trasmittente (Istituto bancario) prima di eseguire il trasferimento dei dati, esegue le seguenti funzioni: 
+ 
+
+ - controllo della esatta sequenza dei tipi record all'interno dell'archivio da trasmettere e della congruenza di alcune informazioni contenute nei dati, 
+ 
+
+ - calcolo del CRC (CRC1) sui dati originari, compressione, crittografia e calcolo del CRC (CRC2) sui dati "ombra" (crittografati e compressi); 
+ 
+
+ - inserimento dei due CRC in coda all'archivio "ombra" compresso e nella parameter-list che è utilizzata dalla sessione sincrona di controllo; 
+ 
+
+ - acquisizione del codice identificativo del richiedente e del progressivo trasmissione dal record di tipo 0 e suo inserimento nella parameter-list; 
+ 
+
+ 3) la PRE-TRANSFER User Exit, richiamata dal server nel nodo ricevente (A.T.) prima di eseguire il trasferimento dei dati, esegue le seguenti funzioni: 
+ 
+
+ - autorizzazione alla trasmissione, mediante controllo del codice identificativo del richiedente nel database degli utenti abilitati; 
+ 
+
+ - selezione del primo archivio disponibile nel pool di ricezione e suo inserimento nella parameter-list (la selezione punta a due files, uno per la copia espansa e uno per la copia "ombra" compattata e crittografata), 
+ 
+
+ - protocollazione della trasmissione e logging iniziale in A.T.; 
+ 
+
+ 4) esecuzione della trasmissione dell'archivio "ombra"; 
+ 
+
+ 5) la POST-TRANSFER User Exit, richiamata dal server nel nodo trasmittente (Istituto bancario), esegue le seguenti funzioni: 
+ 
+
+ - logging con l'esito della trasmissione e il relativo protocollo; 
+ 
+
+ - prima segnalazione sul file di controllo del pool di trasmissione del corretto trasferimento dell'archivio; 
+ 
+
+ 6) la POST-TRANSFER User Exit, richiamata dal server nel nodo ricevente (A.T.), esegue le seguenti funzioni: 
+ 
+
+ - calcolo CRC (CRC2) dell'archivio "ombra" ricevuto, espansione, decrittografia e calcolo CRC (CRC1) dell'archivio in chiaro conforme all'originario; 
+ 
+
+ - confronto dei CRC calcolati con i CRC della parameter-list; 
+ 
+
+ - logging con l'esito della trasmissione e aggiornamento del file di controllo del pool; 
+ 
+
+ - creazione dell'archivio "report" della trasmissione; 
+ 
+
+ 7) la POST-CONVERSATION User Exit, richiamata dal server nel nodo trasmittente (Istituto bancario), esegue le seguenti funzioni: 
+ 
+
+ - logging della completa esecuzione della trasmissione; 
+ 
+
+ - segnalazione finale sul file di controllo del pool di trasmissione del corretto trasferimento dell'archivio. 
+ 
+
+ Nel caso di utilizzo del prodotto IBM Netview/FTP V.1 non è disponibile la POST-CONVERSATION User Exit; in tal caso la notifica presso l'Istituto bancario del completamento dell'intera operazione trasmissiva non può essere fornita in modo sincrono alla trasmissione. 
+ 
+
+ Tale informazione è comunque disponibile nell'archivio "report" creato in A.T. della POST-TRANSFER User Exit. L'Istituto bancario può richiedere la ricezione dell'archivio "report" con le modalità descritte nel paragrafo 2.2. 
+ 
+
+ 2.2 Gestione delle risposte 
+ 
+
+ In A.T. vengono predisposti per ogni singola banca: 
+ 
+
+ - un archivio "report" contenente un report relativo alla singola trasmissione dati; in tale archivio sono riportati data e ora della trasmissione, numero di record utente ricevuti a numero di protocollo; 
+ 
+
+ - un archivio "esiti" contenente eventuali irregolarità riscontrate nei dati inviati nella singola trasmissione; 
+ 
+
+ - un archivio "risposte" contenente i dati dei maggiori interessi e sconti di emissione concessi, relativo alle richieste prive di irregolarità. 
+ 
+
+ Tutti gli archivi suddetti avranno una denominazione che identifica univocamente l'Istituto bancario e il tipo; in tale modo, anche in caso di prolungata mancanza di collegamento o di ripetuti errori nella ricezione, lo specifico archivio potrà essere richiesto dall'Istituto bancario anche in caso ne sia stato prodotto uno successivo. 
+ 
+
+ La gestione della ricezione si articola cronologicamente nella esecuzione delle seguenti fasi: 
+ 
+
+ 1) presso l'Istituto bancario richiedente viene inserita la richiesta di ricezione dello specifico archivio preparato in A.T.; 
+ 
+
+ 2) la PRE-TRANSFER User Exit, richiamata dal server nel nodo trasmittente (A.T.) prima di eseguire il trasferimento dati, esegue le seguenti funzioni: 
+ 
+
+ - autorizzazione alla trasmissione, mediante controllo del codice identificativo del richiedente nel database degli utenti abilitati; 
+ 
+
+ - determinazione del nome del file richiesto in base all'identificativo del richiedente e al tipo di richiesta verifica che il file richiesto esiste e non sia vuoto; 
+ 
+
+ - calcolo del CRC (CRC1) dei dati in chiaro, compressione, crittografia e calcolo del CRC (CRC2) dei dati "ombra" (crittografati e compressi), 
+ 
+
+ - inserimento dei due CRC in coda all'archivio "ombra" compresso e nella parameter-list; 
+ 
+
+ 3) la PRE-TRANSFER User Exit, richiamata dal server nel nodo ricevente (Istituto bancario) prima di eseguire il trasferimento dati, non esegue alcuna funzione; 
+ 
+
+ 4) esecuzione della trasmissione dell'archivio "ombra"; 
+ 
+
+ 5) la POST-TRANSFER User Exit, richiamata dal server nel nodo trasmittente (A.T.), esegue le seguenti funzioni: 
+ 
+
+ - logging con l'esito della trasmissione; 
+ 
+
+ 6) la POST-TRANSFER User Exit, richiamata dal server nel nodo ricevente (Istituto bancario), esegue le seguenti funzioni: 
+ 
+
+ - calcolo CRC (CRC2) dell'archivio "ombra" ricevuto, espansione, decrittografia e calcolo CRC (CRC1) dell'archivio in chiaro conforme all'originario; 
+ 
+
+ - confronto dei CRC calcolati con i CRC della parameter-list; 
+ 
+
+ - logging finali con l'esito della trasmissione. 
+ 
+
+ 3. TRASFERIMENTO MEDIANTE ALTRI PRODOTTI 
+ 
+
+ Per questi tipi di trasferimenti dati le funzioni di logging e eventuali funzioni accessorie di ausilio alla trasmissione sono quelle dello specifico prodotto che implementa la trasmissione con protocollo FTP su TCP/IP o FTAM poichè la sessione di controllo parallela al trasferimento dati non verrà effettuata in modo sincrono con il trasferimento stesso. 
+ 
+
+ Per garantire comunque le indispensabili funzioni di congruenza, integrità, sicurezza e compressione dei dati è stato realizzato un modulo di interfaccia, a cura di Anagrafe Tributaria, che opera in modo asincrono con la trasmissione. 
+ 
+
+ Il modulo di interfaccia è costituito da una procedura di PRE-TRANSFER e da una procedura di POST-TRANSFER. 
+ 
+
+ Il modulo di interfaccia è realizzato in linguaggio C per sistemi DOS, UNIX, OS/400 e in linguaggio Assembler per il sistema MVS; i meccanismi che assicurano i controlli di integrità, la crittografia e la compressione sono gli stessi usati nel caso di trasmissioni mediante NetView/FTP, ciò permette di reinserire in Anagrafe Tributaria gli archivi pervenuti con tale modalità nel circuito gestionale previsto per gli archivi pervenuti via NetView/FTP. 
+ 
+
+ I File Transfer tra banca ed A.T. verranno effettuati sempre con dati crittografati e compressi. 
+ 
+
+ 3.1 Trasmissione da Istituto bancario ad Anagrafe Tributaria 
+ 
+
+ La gestione del flusso trasmissivo si articola cronologicamente nelle seguenti fasi: 
+ 
+
+ 1) esecuzione, presso l'Istituto bancario, della procedura di PRE-TRANSFER che svolge le seguenti funzioni: 
+ 
+
+ - segnalare le eventuali incongruenze nei dati da trasmettere; 
+ 
+
+ - preparare, a partire dall'archivio in chiaro, la copia "ombra" (crittografata e compressa) dell'archivio originale nonchè il relativo file di controllo che contiene le informazioni necessarie per la ricostruzione e la validazione dell'archivio trasmesso; 
+ 
+
+ 2) trasmissione dell'archivio "ombra" e, in un momento differito, del relativo file di controllo con il prodotto che si intende utilizzare; 
+ 
+
+ 3) esecuzione, presso A.T., della procedura di POST-TRANSFER che svolge le seguenti funzioni: 
+ 
+
+ - ripristinare, a partire dall'archivio "ombra" e dal file di controllo, il contenuto in chiaro dell'archivio originale; 
+ 
+
+ - creazione di un archivio di "report" della trasmissione (cfr.
+ 
+
+ par. 2.2). 
+ 
+
+ 3.2 Gestione delle risposte 
+ 
+
+ In A.T. vengono predisposti gli archivi "report", "esiti" e "risposte" contenenti le informazioni indicate nel paragrafo 2.2. 
+ 
+
+ Di tali archivi viene messo a disposizione dall'Istituto bancario la corrispondente copia "ombra" (crittografata e compressa) e il relativo file di controllo. 
+ 
+
+ La gestione della ricezione si articola cronologicamente nelle seguenti fasi: 
+ 
+
+ 1) ricezione, attivata dall'Istituto bancario, della copia "ombra" dell'archivio che si intende ricevere e, in un momento differito, del relativo file di controllo; 
+ 
+
+ 2) esecuzione, presso l'Istituto bancario, della procedura di POST-TRANSFER per la ricostruzione degli archivi ricevuti. 
+ 
+
+ 4. DESCRIZIONE DELLE FUNZIONI ACCESSORIE ALLE TRASMISSIONI EFFETTUATE 
+ 
+
+ MEDIANTE NETVIEW/FTP 
+ 
+
+ 4.1 Gestione pool di archivi 
+ 
+
+ Per gestire trasmissioni multiple nel corso della stessa giornata o interruzioni prolungate dei collegamenti, il nodo trasmittente e il nodo ricevente possono utilizzare, al posto degli archivi di produzione, un pool di archivi di transito destinati esclusivamente alla trasmissione dei dati. 
+ 
+
+ Il particolare meccanismo che pilota l'utilizzo di tali archivi permette infatti di disporre sempre di un'archivio destinato alla trasmissione o alla ricezione anche nei casi di anomalie nel flusso trasmissivo o nel corrispondente flusso elaborativo, senza correre rischi di "ricoprire" archivi da trasmettere o già trasmessi. 
+ 
+
+ L'interfaccia tra le suddette fasi è realizzata mediante files di controllo nel nodo trasmittente e nel nodo ricevente. 
+ 
+
+ 4.2. Gestione automatizzata degli errori non recoverabili 
+ 
+
+ Il prodotto programma IBM NetView/FTP è dotato di un meccanismo di 'AUTOMATIC TRANFER RESTART' che consente di recuperare automaticamente alcune situazioni di errore, mediante un riaccodamento delle richieste e una loro successiva schedulazione. 
+ 
+
+ Esistono tuttavia degli eventi per cui il prodotto non è in grado di effettuare un restart automatico. 
+ 
+
+ Per recuperare queste situazioni di errore è stata predisposta una procedura batch da utilizzare periodicamente nel nodo che ha inserito la richiesta che, in base alle informazioni presenti sulla coda e sui file di controllo dei pool, inserisce nuovamente le richieste termi- nate in errore. 
+ 
+
+ Tale procedura, realizzata in A.T., può essere, su richiesta, messa a disposizione dell'Istituto bancario. 
+ 
+
+ 5. STRUMENTI DI CONTROLLO DELLE TRASMISSIONI EFFETTUATE MEDIANTE 
+ 
+
+ NETVIEW/FTP 
+ 
+
+ Per effettuare il controllo sull'esito dello scambio dati con A.T., il singolo Istituto bancario ha a disposizione: 
+ 
+
+ - l'interfaccia interattiva standard del prodotto NetView/FTP per l'inquiry delle richieste nella coda; 
+ 
+
+ - un'interfaccia interattiva utente (opzionalmente fornita da A.T.) che consente di eseguire un inquiry della coda delle richieste secondo criteri selettivi (data, esito, ecc.); 
+ 
+
+ - l'archivio di log dove vengono registrate le informazioni sulle singole trasmissioni; 
+ 
+
+ - l'archivio degli errori dove vengono registrati gli eventuali errori. 
+ 
+
+ SUB-ALLEGATO 3 
+ 
+
+ 
+ 
+
+ TABELLA DEI CODICE-ERRORE DEL SISTEMA INFORMATIVO DELL'ANAGRAFE 
+ 
+
+ TRIBUTARIA 
+ 
+
+ - Cod-errore-nn 
+ 
+
+ 0011 Tipo record 0 mancante 
+ 
+
+ 0021 Codice banca secondo livello non impostato su record di tipo 0 0022 Codice banca secondo livello errato sul record di tipo 0 
+ 
+
+ 0031 Progressivo errato sul record di tipo 0 
+ 
+
+ 0032 Progressivo duplicato 
+ 
+
+ 0041 Data produzione errata sul record di tipo 0 
+ 
+
+ 0051 Progressivo precedente errato su record 0 
+ 
+
+ 0052 Progressivo precedente non trasmesso 
+ 
+
+ 1021 Codice banca secondo livello nel record di tipo 1 diverso da 
+ 
+
+ quello del record di tipo 0 
+ 
+
+ 1031 Progressivo file nel record di tipo 1 diverso da quelle del 
+ 
+
+ record di tipo 0 
+ 
+
+ 1041 Progressivo record 1 non in sequenza 
+ 
+
+ 1051 Codice banca primo livello non impostato 
+ 
+
+ 1052 Codice banca primo livello errato 
+ 
+
+ 1061 Codice investitore non impostato 
+ 
+
+ 1071 Nominativo non impostato 
+ 
+
+ 1081 Domicilio fiscale non impostato 
+ 
+
+ 1091 Codice nazione non impostato 
+ 
+
+ 1092 Codice nazione errato o nazione priva di convenzione 
+ 
+
+ 1101 Data di nascita errata 
+ 
+
+ 1111 Natura giuridica non impostata 
+ 
+
+ 1112 Natura giudirica errata 
+ 
+
+ 1113 Incongruenza tra natura giuridica e data nascita 
+ 
+
+ 1121 Totale records 2 diverso dal numero di records di tipo 2 
+ 
+
+ effettivi 
+ 
+
+ 2021 Codice banca secondo livello nel record di tipo 2 diverso da 
+ 
+
+ quello indicato nel record di tipo 0 
+ 
+
+ 2031 Progressivo nel record di tipo 2 diverso da quello indicato nel record di tipo 0 
+ 
+
+ 2041 Progressivo record 1 nel record di tipo 2 diverso da quello 
+ 
+
+ indicato nel record di tipo 1 
+ 
+
+ 2051 Progressivo record 2 non in sequenza 
+ 
+
+ 2061 Codice titolo non impostato 
+ 
+
+ 2062 Codice titolo inesistente 
+ 
+
+ 2071 Tipo titolo non impostato 
+ 
+
+ 2072 Tipo titolo errato 
+ 
+
+ 2081 Data fine cedola non impostata 
+ 
+
+ 2082 Data fine cedola errata 
+ 
+
+ 2083 Richiesta pervenuta oltre i limiti 
+ 
+
+ 2091 Totale records 3 diverso dal numero di records di tipo 3 
+ 
+
+ effettivi 
+ 
+
+ 3021 Codice banca secondo livello nel record di tipo 3 diverso da 
+ 
+
+ quello indicato nel record di tipo 0 
+ 
+
+ 3031 Progressivo nel record di tipo 3 diverso da quello indicato nel record di tipo 0 
+ 
+
+ 3041 Progressivo record 1 nel record di tipo 3 diverso da quello 
+ 
+
+ indicato nel record di tipo 1 
+ 
+
+ 3051 Progressivo record 2 nel record di tipo 3 diverso da quello 
+ 
+
+ indicato nel record di tipo 2 
+ 
+
+ 3061 Progressivo record 3 non in sequenza 
+ 
+
+ 3071 Data di variazione errata 
+ 
+
+ 3081 Importo depositato non numerico 
+ 
+
+ 3082 Richiesta con importi depositati tutti a zero 
+ 
+
+ 3091 Scarto errato o non previsto dalla convenzione 
+ 
+
+ 5000 Record fuori sequenza 
+ 
+
+ 5001 Titolo inesistente 
+ 
+
+ 5002 Richiesta duplicata 
+ 
+
+ 5003 Dati anagrafici diversi da quelli precedentemente inviati 
+ 
+
+ 9011 Tipo record 9 mancante 
+ 
+
+ 9021 Codice banca secondo livello nel record di tipo 9 diverso da 
+ 
+
+ quello indicato nel record di tipo 0 
+ 
+
+ 9031 Progressivo nel tipo record 9 diverso da quello indicato nel 
+ 
+
+ record di tipo 0 
+ 
+
+ 9041 Totale records 1 diverso dal numero di records di tipo 1 
+ 
+
+ effettivi

@@ -1,0 +1,853 @@
+ALLEGATO A 
+ 
+
+ 
+ 
+
+ PROCEDURA PER LA APPLICAZIONE DELLE RITENUTE 
+ 
+
+ CONVENZIONALI SUGLI INTERESSI DEI TITOLI DI STATO ITALIANI 
+ 
+
+ 
+ 
+
+ 1. ROUTINE DI CONTROLLO DELLE RICHIESTE 
+ 
+
+ Caratteristiche tecniche 
+ 
+
+ Linguaggio: OS/VS Cobol Standard ANSI 85. 
+ 
+
+ Non effettua operazioni di I/O; la lettura e/o scrittura di files resta totalmente a carico del software chiamante realizzato dalla banca di secondo livello. 
+ 
+
+ La routine viene fornita su supporto magnetico alle singole banche di secondo livello all'atto dell'autorizzazione all'utilizzo della procedura. 
+ 
+
+ Il supporto magnetico contiene i seguenti files: 
+ 
+
+ FSSUTG50.COB 
+ 
+
+ FSSUTG70.COB 
+ 
+
+ BEGIN.ASM 
+ 
+
+ SSUTE4.ASM 
+ 
+
+ SSUTG4.ASM 
+ 
+
+ SSUTG5.ASM 
+ 
+
+ PREZ02.COB 
+ 
+
+ PREZ03.COB 
+ 
+
+ FPREZ031.COB 
+ 
+
+ FPREZ021.COB 
+ 
+
+ FPREZ121.COB 
+ 
+
+ Poichè i programmi vengono forniti sotto forma di modulo sorgente, è necessario, una volta trasferiti su mainframe, effettuarne la compilazione ed il linkedit nell'ordine seguente: 
+ 
+
+ SSUTE4 
+ 
+
+ SSUTG4 
+ 
+
+ SSUTG5 
+ 
+
+ PREZ03 
+ 
+
+ PREZ02 
+ 
+
+ CHIAMANTE (programma chiamante realizzato dalla banca di secondo livello). 
+ 
+
+ Nel floppy sono presenti due file indicanti le modalità di compilazione rispettivamente per i file in linguaggio assembler e per quelli in linguaggio Cobol: 
+ 
+
+ ASM 
+ 
+
+ COBOL 
+ 
+
+ La gestione delle modifiche da apportare alla routine è completamente a carico dell'Anagrafe Tributaria. 
+ 
+
+ Modalità di utilizzo 
+ 
+
+ La routine viene attivata per ciascun gruppo di dati identificati dalla terna: banca di primo livello, investitore, cedola. 
+ 
+
+ La routine viene richiamata con una "CALL" di tipo dinamico nel seguente modo: 
+ 
+
+ CALL 'nome campò USING area-input, 
+ 
+
+ area-output, 
+ 
+
+ cod-rit. 
+ 
+
+ "Nome campo" è un'area definita nella working-storage del programma chiamante inizializzata al valore "PREZ02". 
+ 
+
+ Area input 
+ 
+
+ è un'area di 6.592 caratteri, che contiene le informazioni appresso riportate: 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ Laddove non specificato, i campi numerici sono in formato "display". 
+ 
+
+ La tabella è inizializzata a "space" ed è ordinata per data variazione strettamente crescente. 
+ 
+
+ Il primo elemento della tabella deve contenere: 
+ 
+
+ - il valore nominale in deposito il giorno precedente a quello di inizio godimento cedola, se diverso da zero; 
+ 
+
+ - la data di variazione impostata al giorno precedente alla data di inizio godimento cedola. 
+ 
+
+ Per ciascun elemento, l'importo richiesto è calcolato secondo le modalità successivamente esposte e si riferisce al periodo che va da quella data variazione alla data variazione successiva, o, in assenza, alla data scadenza cedola. 
+ 
+
+ L'importo richiesto, nel caso di titoli in valuta, deve essere espresso senza decimali. 
+ 
+
+ Area output 
+ 
+
+ è un'area di 6.348 caratteri che viene impostata dalla routine in caso di errori riscontrati sulle informazioni ricevute in input. 
+ 
+
+ Tale area riporta le seguenti informazioni: 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ e per ciascuna variazione di deposito del titolo (max 300) nell'ambito del periodo di vita della cedola: 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Cod-rit 
+ 
+
+ Viene impostato dalla routine e assume i seguenti valori: 
+ 
+
+ 0 = nessuna irregolarità riscontrata; in tale eventualità la rou- tine imposta a blank area-output; 
+ 
+
+ 1 = irregolarità riscontrata; in tale eventualità la routine imposta anche i campi "Cod-errore", "Indice" ed eventualmente "Importo calcolato" di area-output. 
+ 
+
+ 
+ 
+
+ 2. ARCHIVIO "RICHIESTE" 
+ 
+
+ La banca di secondo livello, predispone i dati relativi alle richieste che hanno superato i controlli, in un archivio che viene inviato all'Anagrafe Tributaria con modalità di "file transfer", come descritte nel sub-allegato 2. 
+ 
+
+ L'archivio richieste può essere trasmesso, con le modalità suddette nei periodi previsti dal presente decreto. 
+ 
+
+ L'archivio sequenziale contiene 5 tipi records, tutti di lunghezza 280 bytes: 
+ 
+
+ - tipo record 0: 
+ 
+
+ record di testa dell'archivio, contiene i dati che identificano univocamente il file inviato; 
+ 
+
+ - tipo record 1: 
+ 
+
+ uno per ogni richiesta "banca di primo livello - investitore"; 
+ 
+
+ - tipo record 2: 
+ 
+
+ nell'ambito del record di tipo 1, in numero pari alle cedole su cui l'investitore chiede i maggiori interessi e scarti di emissione; 
+ 
+
+ - tipo record 3: 
+ 
+
+ uno per ogni gruppo di 19 variazioni di deposito nel periodo di vita della cedola; 
+ 
+
+ - tipo record 9: 
+ 
+
+ record di coda del file, contiene il totale dei records di tipo 1 inviati. 
+ 
+
+ 
+ 
+
+ Nella figura è riportata la sequenza logica dei records: 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 0 (record testa) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ (*) Il codice SWIFT deve avere gli ultimi tre caratteri (branch-code) impostati al valore: 
+ 
+
+ "XXX" nel caso non esista il branch-code; 
+ 
+
+ "BIC" nel caso esista il branch-code ma esso non sia un codice assegnato dalla SWIFT. 
+ 
+
+ (**) Il progressivo del file nell'anno solare è formato per i primi due byte dalle ultime due cifre dell'anno solare di riferimento mentre per gli ultimi tre byte da un numero che inizia da 1 per il primo file inviato nell'anno e cresce progressivamente per ogni ulteriore invio. 
+ 
+
+ (***) Il progressivo prec. è impostato solo nel caso in cui l'invio sia una sostituzione di un invio precedente e assume il valore del progressivo dell'invio che viene sostituito. 
+ 
+
+ Tipo record 1 (record anagrafico) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ (*) La banca di secondo livello può essere anche banca di primo livello 
+ 
+
+ (**) Il codice SWIFT deve avere gli ultimi tre caratteri (branch- code) impostati al valore: 
+ 
+
+ "XXX" nel caso non esista il branch-code; 
+ 
+
+ "BIC" nel caso esista il branch-code ma esso non sia un codice assegnato dalla SWIFT. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 2 (record cedola) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 3 (record variazione deposito) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ La tabella delle variazioni deve essere: 
+ 
+
+ - inizializzata a space; 
+ 
+
+ - ordinata per data variazione strettamente crescente. 
+ 
+
+ 
+ 
+
+ Tipo record 9 (record di coda) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ Tutti i dati nei campi di formato alfanumerico devono essere impostati con caratteri maiuscoli 
+ 
+
+ 
+ 
+
+ 3. RISPOSTA DELL'ANAGRAFE TRIBUTARIA 
+ 
+
+ L'Anagrafe Tributaria elabora le richieste pervenute e predispone: 
+ 
+
+ - un archivio relativo all'esito della elaborazione con indicazione delle eventuali irregolarità riscontrate; 
+ 
+
+ - un archivio con gli importi concessi relativi agli interessi e agli scarti di emissione, per ogni richiesta priva di irregolarità. 
+ 
+
+ 3.1 Archivio esito 
+ 
+
+ L'archivio esito viene prodotto per ogni archivio richieste ricevuto e viene trasmesso con modalità di file-transfer su richiesta della banca di secondo livello. 
+ 
+
+ Tale archivio è a disposizione dal giorno successivo alla ricezione del corrispondente invio. 
+ 
+
+ Gli esiti relativi alle richieste di un periodo sono disponibili fino al periodo successivo. 
+ 
+
+ L'archivio sequenziale contiene 3 tipi records, tutti di lunghezza 100 bytes: 
+ 
+
+ - tipo record 0: 
+ 
+
+ record di testa dell'archivio, contiene i dati che identificano univocamente il file inviato; 
+ 
+
+ - tipo record 1: 
+ 
+
+ uno per ogni errore riscontrato nelle richieste elaborate; 
+ 
+
+ - tipo record 9: 
+ 
+
+ record di coda del file, contiene il totale dei records di tipo 1 inviati. 
+ 
+
+ Tipo record 0 (record testa) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ (*) Il progressivo dell'archivio esito corrisponde al progressivo 
+ 
+
+ dell'archivio richieste 
+ 
+
+ Tipo record 1 (record irregolarità) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 9 (record di coda) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Nel caso in cui il file non contenga alcun record di tipo 1, l'esito della elaborazione si intende regolare. 
+ 
+
+ 3.2 Archivio risposta 
+ 
+
+ L'archivio risposta viene trasmesso con modalità di file-transfer su richiesta della banca di secondo livello ed è messo a disposizione contestualmente all'invio al Ministero del Tesoro dell'ammontare complessivo degli importi da riconoscere. 
+ 
+
+ La risposta relativa alle richieste di un periodo è disponibile fino alla produzione della risposta relativa al periodo successivo. 
+ 
+
+ L'archivio contiene 5 tipi records, tutti di lunghezza 70 bytes: 
+ 
+
+ - tipo record 0: 
+ 
+
+ record di testa dell'archivio, contiene i dati che identificano univocamente il file inviato; 
+ 
+
+ - tipo record 1: 
+ 
+
+ uno per ogni richiesta "banca di primo livello"; 
+ 
+
+ - tipo record 2: 
+ 
+
+ nell'ambito del record di tipo 1, in numero pari agli investitori; 
+ 
+
+ - tipo record 3: 
+ 
+
+ nell'ambito del record di tipo 2, in numero pari alle cedole su cui l'investitore chiede i maggiori interessi e gli scarti di emissione; 
+ 
+
+ - tipo record 9: 
+ 
+
+ record di coda del file, contiene il totale dei records di tipo 1 inviati. 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ Tipo record 0 (record testa) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 1 (interessi banca di primo livello) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 2 (interessi investitore) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 3 (interessi per titolo) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipo record 9 (record di coda) 
+ 
+
+ 
+ 
+
+ parte di provvedimento in formato grafico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4. MODALITà DI CALCOLO DEI MAGGIORI INTERESSI 
+ 
+
+ 
+ 
+
+ Gli importi dei maggiori interessi da corrispondere agli investitori "non residenti" vengono calcolati sulla base della seguente formula: Gp * VN * i 
+ 
+
+ 
+ MI = * (t - tc) 
+ 
+
+ 
+ G 
+ 
+
+ 
+ dove: 
+ 
+
+ 
+ MI = maggiori interessi da corrispondere; 
+ 
+
+ 
+ Gp = giorni di deposito del titolo nell'ambito del periodo di
+ 
+
+ 
+ godimento della cedola calcolati come illustrato successivamente; 
+ 
+
+ 
+ VN = valore nominale del titolo relativo ai giorni di deposito Gp (in
+ 
+
+ 
+ ECU per i BTE e i CTE, in lire per gli altri titoli); 
+ 
+
+ 
+ i = tasso unitario d'interesse relativo alla cedola in scadenza; 
+ 
+
+ 
+ G = giorni di vita della cedola; 
+ 
+
+ 
+ t = aliquota unitaria del prelievo alla fonte prevista dalla
+ 
+
+ 
+ legislazione italiana; 
+ 
+
+ 
+ tc = aliquota unitaria del prelievo massimo applicabile in base agli
+ 
+
+ 
+ accordi internazionali. 
+ 
+
+ 
+ Gp Si calcola secondo la seguente formula: 
+ 
+
+ 
+ -(AAAAF-AAAAI) * 12 - MMI + (MMF-1)- * 30 + (30-GGI) + GGF 
+ 
+
+ 
+ dove: DATA INIZIALE (AAAAI, MMI, GGI) 
+ 
+
+ 
+ è la data di variazione; è l'ultimo giorno in cui viene considerato
+ 
+
+ 
+ in deposito il valore nominale del periodo precedente. 
+ 
+
+ 
+ DATA FINALE (AAAAF, MMF, GGF) 
+ 
+
+ è la data di variazione successiva o il giorno precedente alla data di scadenza cedola. 
+ 
+
+ Nel calcolo viene considerato l'anno commerciale per tutti i titoli di Stato, tranne per i BTE per i quali viene considerato l'anno solare. 
+ 
+
+ Nel calcolo gli importi sono arrotondati alla quinta cifra decimale; l'importo dei maggiori interessi viene arrotondato all'unità. 
+ 
+
+ Per i titoli in valuta si utilizza il cambio italiano fornito dalla Banca d'Italia. 
+ 
+
+ 5. MODALITà DI CALCOLO DELLO "SCARTO DI EMISSIONE" 
+ 
+
+ Se esplicitamente previsto nelle convenzioni internazionali, tra i proventi da corrispondere agli investitori esteri devono essere compresi anche gli "scarti di emissione". 
+ 
+
+ Per tutti i titoli per i quali è operativa la procedura lo scarto d'emissione, se richiesto, viene calcolato sulla base della seguente formula: 
+ 
+
+ 
+ 100 - PE VN 
+ 
+
+ 
+ se = x Gp x 
+ 
+
+ 
+ G 100 
+ 
+
+ 
+ dove: 
+ 
+
+ 
+ SE = scarto di emissione maturato nel periodo di possesso del titolo,
+ 
+
+ 
+ nell'ambito del godimento della cedola; 
+ 
+
+ 
+ PE = prezzo di emissione rilevante ai fini fiscali, di cui al decreto
+ 
+
+ 
+ di emissione del titolo, relativo a L. 100 del valore nominale; 
+ 
+
+ 
+ G = durata complessiva del titolo espressa in giorni; 
+ 
+
+ 
+ Gp = giorni di deposito del titolo, nell'ambito del periodo di
+ 
+
+ 
+ godimento della cedola, calcolati come illustrato al precedente punto
+ 
+
+ 
+ 4; 
+ 
+
+ 
+ VN = valore nominale del titolo posseduto dall'investitore non
+ 
+
+ 
+ residente. 
+ 
+
+ 
+ L'applicazione delle disposizioni previste dagli accordi
+ 
+
+ 
+ internazionali relativamente agli "scarti di emissione" comporterà
+ 
+
+ 
+ il riconoscimento all'investitore non residente di una quota dello
+ 
+
+ 
+ scarto medesimo così determinata: 
+ 
+
+ 
+ SE (t - tc) 
+ 
+
+ 
+ QRse = 
+ 
+
+ 
+ n 
+ 
+
+ 
+ - 
+ 
+
+ 
+ m 
+ 
+
+ 
+ (1 + i) x 100 
+ 
+
+ 
+ dove: 
+ 
+
+ 
+ QRse = quota dello scarto di emissione da riconoscere all'investitore
+ 
+
+ 
+ "non residente"; 
+ 
+
+ 
+ SE = scarto di emissione maturato nel periodo di deposito del titolo
+ 
+
+ 
+ di cui al comma precedente; 
+ 
+
+ 
+ t = aliquota percentuale del prelievo alla fonte prevista dalla
+ 
+
+ 
+ legislazione italiana; 
+ 
+
+ 
+ tc = aliquota percentuale del prelievo massimo applicabile in base
+ 
+
+ 
+ agli accordi internazionali (tc minore t); 
+ 
+
+ 
+ i = tasso d'interesse lordo unitario d'aggiudicazione in asta
+ 
+
+ 
+ relativo alla prima tranche; 
+ 
+
+ 
+ n = numero di cedole successive a quella in scadenza; 
+ 
+
+ 
+ m = numero di cedole scadenti in un anno.
