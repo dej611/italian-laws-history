@@ -1,0 +1,64 @@
+ALLEGATO A 
+ 
+
+ PROGRAMMA DI ESAME per i concorsi per la qualifica di revisore tecnico dell'A.S.S.T. 
+ 
+
+ PROVA SCRITTA 
+ 
+
+ a) Campo elettrico statico: leggi fondamentali ed applicazioni - Correnti continue - Accumulatori elettrici - Elettromagnetismo: fenomeni e circuiti magnetici - Induzione elettromagnetica - Correnti alternate monofasi e trifasi - Relazione fra tensioni, correnti e potenze - Circuiti elettrici in corrente continua ed alternata - Metodi e strumenti di misura delle grandezze elettriche - Trasformatori - Campi magnetici rotanti - Alternatori, motori sincroni - Motori trifase e monofase a induzione - Dinamo e motore a corrente continua. 
+ 
+
+ b) Circuiti risonanti - Principi della propagazione delle onde elettromagnetiche - Nozioni generali sulla trasmissione dei segnali elettromagnetici su linee metalliche e a fibra ottica - Comportamento dei componenti circuitali passivi (resistenza, induttanza, capacità) nei circuiti elettronici con segnali sinusoidali ed impulsivi - Componenti allo stato solido discreti e integrati con relative applicazioni; circuiti equivalenti dei transistori - Raddrizzatori - Alimentatori - Amplificatori - Amplificatori differenziali ed operazionali - Oscillatori e generatori di segnali ottici (laser e diodi emettitori di luce) - Convertitori ottico-elettrici (fotodiodi). 
+ 
+
+ c) Sistemi di numerazione decimale binaria, ottale ed esadecimale: operazioni aritmetiche in sistema binario e conversione tra i vari sistemi di numerazione. Elementi di algebra booleana: le altre operazioni fondamentali OR AND e NOT e loro derivazioni (NOR NAND e OR esclusivo ecc.). Circuiti a scatto: multivibratori bistabili, astabili, monostabili - impiego di flip-flop come cella di memoria - Registri - Contatori e divisori di frequenza - Cenni sulle memorie:
+ 
+
+ NOS, ROM, RAM, PROM, EPROM - Convertitori analogico-digitali e viceversa. 
+ 
+
+ d) Multiplazione a divisione di frequenza - Modulazione di ampiezza, frequenza e fase, circuiti modulatori e demodulatori, rivelatori e filtri - Multiplazione a divisione di tempo: campionamento e codifica dei segnali e loro affasciamento.
+ 
+
+ Generalità sui principali sistemi adottati nella tecnica della trasmissione telefonica, su linee metalliche, a fibra ottica e in ponte radio. 
+ 
+
+ N.B. - La prova scritta è in generale costituita da due parti: una esposizione teorica di un argomento del programma ed una applicazione numerica sullo stesso o su un diverso argomento. 
+ 
+
+ COLLOQUIO 
+ 
+
+ Oltre alle materie previste per la prova scritta: 
+ 
+
+ a) Nozioni di acustica - Caratteri distintivi dei suoni - L'apparecchio telefonico - Elementi di commutazione telefonica. 
+ 
+
+ b) Sistemi di commutazione a divisione di spazio e a divisione di tempo. Nozioni di base sugli impianti di energia con continuità statici e rotanti. 
+ 
+
+ c) Elementi fondamentali di elaborazione dati e di programmazione - Micro e minielaboratori: filosofia generale, componenti fondamentali e loro struttura. 
+ 
+
+ d) Nozioni di contabilità di Stato. 
+ 
+
+ e) Diritti, doveri, incompatibilità e responsabilità degli impiegati pubblici. 
+ 
+
+ f) Organizzazione dell'Amministrazione delle poste e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici in particolare. 
+ 
+
+ PROVE FACOLTATIVE 
+ 
+
+ Lettura e traduzione immediata, senza vocabolario, di un brano nella lingua o nelle lingue scelte dal candidato e breve conversazione. 
+ 
+
+ Il Ministro delle poste e delle telecomunicazioni 
+ 
+
+ VIZZINI
