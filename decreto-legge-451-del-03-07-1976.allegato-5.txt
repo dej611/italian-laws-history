@@ -1,0 +1,145 @@
+ALLEGATO V 
+ 
+
+ 
+ 
+
+ CONTROLLO STATISTICO DI ESATTEZZA CUI DEVONO SODDISFARE LE BOTTIGLIE RECIPIENTI-MISURA CEE 
+ 
+
+ 
+ 
+
+ 1. PRELIEVO DEL CAMPIONE 
+ 
+
+ 
+ 
+
+ Un campione di bottiglie recipienti-misura dello stesso modello e della stessa fabbricazione è prelevato da un lotto corrispondente, in linea di massima, alla produzione di un'ora. 
+ 
+
+ 
+ 
+
+ Ove il risultato del controllo effettuato su un lotto corrispondente alla produzione di un'ora non sia soddisfacente, si puo pro- cedere ad un secondo esame su un altro campione prelevato da un lotto corrispondente ad una produzione di durata piu lunga, oppure sui risultati iscritti nelle carte di controllo del fabbricante, quando la fabbricazione dell'impresa e stata oggetto di un controllo riconosciuto dall'ufficio centrale metrico e del saggio dei metalli preziosi. 
+ 
+
+ 
+ 
+
+ 2. MISURAZIONE DELLA CAPACITà DELLE BOTTIGLIE RECIPIENTI-MISURE DEL CAMPIONE 
+ 
+
+ 
+ 
+
+ Le bottiglie recipienti-misura sono pesate vuote. 
+ 
+
+ 
+ 
+
+ Esse sono riempite di acqua a 20°C di massa volumica nota fino al livello di riempimento che corrisponde al metodo di controllo adottato. 
+ 
+
+ 
+ 
+
+ Esse sono pesate piene. 
+ 
+
+ 
+ 
+
+ Il controllo e effettuato servendosi di uno strumento di misura legale adeguato alla natura delle operazioni da compiere. 
+ 
+
+ 
+ 
+
+ L'errore nella misura della capacita non deve superare un quinto dell'errore massimo tollerato corrispondente alla capacita nomina- le della bottiglia recipiente-misura. 
+ 
+
+ 
+ 
+
+ 3. ELABORAZIONE DEI RISULTATI 
+ 
+
+ 
+ 
+
+ 3.1. Impiego del metodo dello scarto tipo 
+ 
+
+ 
+ 
+
+ Il numero di bottiglie recipienti-misura che costituiscono il campione è di 35. 
+ 
+
+ 
+ 
+
+ 3.1.1. Si calcola (vedasi 3.1.4): 
+ 
+
+ 
+ 
+
+ 3.1.1.1. la media x delle misure xi delle capacità reali
+ 
+
+ delle bottiglie del campione; 
+ 
+
+ 
+ 
+
+ 3.1.1.2. la stima s dello scarto tipo delle misure x delle capacità reali delle bottiglie del lotto. 
+ 
+
+ 
+ 
+
+ 3.1.2. Si calcolano: 
+ 
+
+ 
+ 
+
+ 3.1.2.1. limite superiore caratteristico Ts: somma della capacità indicata (vedasi allegato I, punto 8) e dell'errore massimo tollerato su tale capacità; 
+ 
+
+ 
+ 
+
+ 3.1.2.2. limite inferiore caratteristico Ti : differenza fra la
+ 
+
+ capacità indicata ed errore massimo tollerato su tale capacità. 
+ 
+
+ 
+ 
+
+ 3.1.3. Criteri di accettazione: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 3.1.4. Calcolo della media x e stima della dello scarto tipo s del lotto. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
