@@ -59,4 +59,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) dopo l'ultimo comma è aggiunto il seguente:
  
 
- "Le zone considerate non idonee alla balneazione sulla base delle disposizioni di cui ai primi sei commi possono essere dichiarate nuovamente idonee, con provvedimento dell'autorità competente, nel caso si verifichi che due campioni prelevati, con la frequenza prevista nella tabella (allegato 1), nel mese precedente l'inizio della stagione balneare immediatamente successiva a quella cui si riferisce il giudizio di non idoneità di cui al presente articolo, risultino favorevoli per tutti i parametri previsti nella tabella (allegato 1). Tale individuazione è comunicata al Ministero della salute ed al Ministero dell'ambiente e della tutela del territorio entro quindici giorni dall'adozione del relativo provvedimento.".
+ "Le zone considerate non idonee alla balneazione sulla base delle disposizioni di cui ai primi sei commi possono essere dichiarate nuovamente idonee, con provvedimento 
+ ((della regione))
+
+ , nel caso si verifichi che due campioni prelevati, con la frequenza prevista nella tabella (allegato 1), 
+ ((iniziando dal mese precedente))
+
+ l'inizio della stagione balneare immediatamente successiva a quella cui si riferisce il giudizio di non idoneità di cui al presente articolo, risultino favorevoli per tutti i parametri previsti nella tabella (allegato 1). Tale individuazione è comunicata al Ministero della salute ed al Ministero dell'ambiente e della tutela del territorio entro quindici giorni dall'adozione del relativo provvedimento. 
+ ((Nelle zone dichiarate nuovamente idonee alla balneazione devono essere effettuati campionamenti e analisi ogni dieci giorni per tutto il periodo di massimo affollamento, procedendo immediatamente alla revoca del provvedimento di idoneità alla balneazione qualora siano rilevati almeno due campioni con esito non favorevole anche per uno solo dei parametri previsti nella tabella (allegato 1))
+
+ )".
