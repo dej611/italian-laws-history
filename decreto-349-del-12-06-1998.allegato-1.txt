@@ -1,0 +1,67 @@
+Allegato 1 
+ 
+
+ (articolo 4) 
+ 
+
+ Le regole tecniche specificate nel presente allegato stabiliscono i valori dei parametri di rispetto per l'omologazione degli apparati monocanali nei servizi fisso e mobile terrestre ad uso privato. 
+ 
+
+ 1) Potenza di uscita a radiofrequenza (RF). 
+ 
+
+ 1. Per gli apparati destinati ad operare come stazioni di base o fisse, la potenza RF nominale di uscita non deve superare il valore di 25 watt. 
+ 
+
+ 2. Per gli apparati destinati ad operare come stazioni mobili e come stazioni portatili, la potenza RF nominale di uscita non deve superare, rispettivamente, il valore di 10 watt e di 5 watt. 
+ 
+
+ 3. La potenza misurata al connettore di antenna, in condizioni normali di prova, non deve comunque superare i suddetti limiti, fatta salva l'incertezza dovuta alla precisione del banco di misura. 
+ 
+
+ 2) Passo di canalizzazione. 
+ 
+
+ 2.1 Il passo di canalizzazione ammesso è il seguente: 
+ 
+
+ apparati operanti nella gamma VHF: 12,5 kHz; 
+ 
+
+ apparati operanti nella gamma UHF: 12,5 kHz. 
+ 
+
+ 2.2 Per la banda UHF è inoltre ammesso il valore di 25 kHz per il periodo transitorio previsto dall'articolo 5. 
+ 
+
+ 3) Attenuazione all'intermodulazione in trasmissione. 
+ 
+
+ L'attenuazione di ogni componente dei prodotti di intermodulazione deve essere almeno di 40 dB per le stazioni di base e fisse. 
+ 
+
+ Per le stazioni di base e fisse destinate ad utilizzazioni speciali, quali, ad esempio, stazioni costituite da più di un trasmettitore, il predetto valore deve essere di almeno 70 dB. 
+ 
+
+ 4) Condizioni di prova a temperatura estrema. 
+ 
+
+ Le temperature estreme sono: - 10 °C + 55 °C. 
+ 
+
+ Visto, il Ministro delle comunicazioni 
+ 
+
+ Maccanico 
+ 
+
+ --------------- 
+ 
+
+ Nota redazionale 
+ 
+
+ Il testo del presente allegato è già integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 23/10/1998, n. 248 durante il periodo di "vacatio legis". 
+ 
+
+ è possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
