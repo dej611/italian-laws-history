@@ -42,7 +42,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
+ Sulla proposta del (( Ministro dell'economia e delle finanze )), di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
  
 
@@ -64,7 +64,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- a) "autorità creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro dell'economia e delle finanze e la Banca d'Italia; 
+ 
+ a) "autorità creditizie" indica il Comitato interministeriale per il credito e il risparmio, il 
+ ((Ministro dell'economia e delle finanze))
+
+ e la Banca d'Italia; 
+ 
 
  b) "banca" indica l'impresa autorizzata all'esercizio dell'attività bancaria; 
 
@@ -80,17 +85,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  g) "Stato comunitario" indica lo Stato membro della Comunità Europea; 
 
- 
- ((
-
- g-bis) "Stato d'origine" indica lo Stato comunitario in cui la banca è stata autorizzata all'esercizio dell'attività; 
-
- g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca ha una succursale o presta servizi;
-
- ))
-
- 
-
  h) "Stato extracomunitario" indica lo Stato non membro della Comunità Europea; 
 
  i) "legge fallimentare" indica il regio decreto 16 marzo 1942, n. 267. 
@@ -98,10 +92,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
 
  
- m) "Ministro dell'economia e delle finanze" indica il Ministro dell'economia e delle finanze. 
- 
+ m) 
+ (( "Ministro dell'economia e delle finanze" ))
 
- 
+ indica il 
+ (( Ministro dell'economia e delle finanze. ))
+
  
 
  
@@ -216,13 +212,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  h-ter) "moneta elettronica": un valore monetario rappresentato da un credito nei confronti dell'emittente che sia memorizzato su un dispositivo elettronico, emesso previa ricezione di fondi di valore non inferiore al valore monetario emesso e accettato come mezzo di pagamento da soggetti diversi dall'emittente; 
 
+ 
+ ((
+
  h-quater) 'partecipazionì: le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
 
- 
  h-quinquies) 'partecipazioni rilevantì: le partecipazioni che comportano il controllo della società e le partecipazioni individuate dalla Banca d'Italia in conformità alle deliberazioni del CICR, con riguardo alle diverse fattispecie disciplinate, tenendo conto dei diritti di voto e degli altri diritti che consentono di influire sulla società. 
- 
 
- 
+ ))
+
  
 
  
@@ -238,6 +236,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((
+ 
+
+ 
  3-bis. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo e agli amministratori si applicano anche al consiglio di gestione ed ai suoi componenti; 
  
 
@@ -247,3 +250,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  3-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci ed all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza ed al comitato per il controllo sulla gestione e ai loro componenti.
+ 
+
+ 
+ ))
