@@ -93,12 +93,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ d-bis) "COVIP" indica la commissione di vigilanza sui fondi pensione; 
+ 
 
- d-bis) ''COVIP'' indica la commissione di vigilanza sui fondi pensione;
-
- ))
-
+ 
  
 
  
@@ -137,13 +135,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari))
-
+ l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
  
 
  
- ((m) "Ministro del tesoro" indica il Ministro del tesoro, del bilancio e della programmazione economica))
+ 
 
+ 
+ m) "Ministro del tesoro" indica il Ministro del tesoro, del bilancio e della programmazione economica. 
+ 
+
+ 
  
 
  
@@ -237,10 +239,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  8) partecipazione alle emissioni di titoli e prestazioni di servizi connessi; 
  
 
- 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonchè consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese; 
+ 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonchè consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese;
  
 
- 10. servizi di intermediazione finanziaria del tipo "money brok- ing"; 
+ 10) servizi di intermediazione finanziaria del tipo "money broking"; 
  
 
  11) gestione o consulenza nella gestione di patrimoni; 
@@ -269,8 +271,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((h) "stretti legami": i rapporti tra una banca e un soggetto italiano o estero che: 
+ h) "stretti legami": i rapporti tra una banca e un soggetto italiano o estero che: 
  
 
  1) controlla la banca; 
@@ -285,8 +286,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) partecipa al capitale della banca in misura pari almeno al 20% del capitale con diritto di voto; 
  
 
- 5) è partecipato dalla banca in misura pari almeno al 20% del capitale con diritto di voto))
+ 5) è partecipato dalla banca in misura pari almeno al 20% del capitale con diritto di voto. 
  
+
+ 
+ 
+
+ 
+ ((
+
+ 
+ h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
+ 
+
+ 
+ 
+
+ h-ter) "moneta elettronica": un valore monetario rappresentato da un credito nei confronti dell'emittente che sia memorizzato su un dispositivo elettronico, emesso previa ricezione di fondi di valore non inferiore al valore monetario emesso e accettato come mezzo di pagamento da soggetti diversi dall'emittente))
 
  
 
@@ -295,5 +311,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((3. La Banca d'Italia, può ulteriormente qualificare, in conformità delle deliberazioni del CICR, la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza))
+ 3. La Banca d'Italia, può ulteriormente qualificare, in conformità delle deliberazioni del CICR, la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza.
