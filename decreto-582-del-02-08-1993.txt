@@ -216,7 +216,7 @@ IL MINISTRO DELLA SANITà
  
  
  
- Vista la direttiva della Commissione n. 92/4/CEE recante modifica della direttiva 78/663/CEE del Consiglio che stabilisce i requisiti di purezza specifici per gli emulsionanti, gli stabilizzanti, gli addensamenti ed i gelificanti che possono essere impiegati nei prodotti alimentari;
+ Vista la direttiva della Commissione n. 92/4/CEE recante modifica della direttiva 78/663/CEE del Consiglio che stabilisce i requisiti di purezza specifici per gli emulsionanti, (( gli stabilizzanti, gli addensanti ed i gelificanti )) che possono essere impiegati nei prodotti alimentari;
 
  
  
@@ -343,7 +343,10 @@ IL MINISTRO DELLA SANITà
  b) Titolo I C - ANTIOSSIDANTI. 
  
 
- - Alle voci "E 306 estratti d'origine naturale ricchi in tecoferoli, E 307 alfa tocoferolo di sintesi, E 308 gamma tocoferolo, E 309 delta tocoferolo di sintesi" è inserito il seguente caso d'impiego: "Cereali per la prima colazione, pronti per il consumo, S.B.T.I.". 
+ - Alle voci "E 306 estratti 
+ (( d'origine naturale ricchi in tocoferoli, ))
+
+ E 307 alfa tocoferolo di sintesi, E 308 gamma tocoferolo, E 309 delta tocoferolo di sintesi" è inserito il seguente caso d'impiego: "Cereali per la prima colazione, pronti per il consumo, S.B.T.I.". 
  
 
  
