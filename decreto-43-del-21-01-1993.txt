@@ -1,0 +1,182 @@
+IL MINISTRO DELLE POSTE
+
+ 
+ E DELLE TELECOMUNICAZIONI
+
+ 
+
+ 
+ 
+ 
+ Visto il regio decreto-legge 23 aprile 1925, n. 520, convertito nella legge 21 maggio 1926, n. 597, sul nuovo ordinamento dell'Amministrazione postale e telegrafica, e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regio decreto 4 novembre 1926, n. 1978, concernente i compiti dell'Istituto superiore delle poste e delle telecomunicazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 1 marzo 1968, n. 186, concernente le disposizioni per la produzione di materiali, apparecchiature, macchinari, installazioni e impianti elettrici ed elettronici;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 12 marzo 1968, n. 325, concernente l'organizzazione dell'Amministrazione delle poste e delle telecomunicazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 10 febbraio 1982, n. 39;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto ministeriale 31 gennaio 1983, con il quale è stato approvato il piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con decreto del Ministro delle poste e delle telecomunicazioni 10 marzo 1984, pubblicato nella Gazzetta Ufficiale n. 20 del 24 gennaio 1985;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 9 maggio 1986, n. 149, che ha ratificato la convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982, con allegato il regolamento delle radiocomunicazioni nel quale è definito lo statuto di servizio secondario;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto ministeriale 9 maggio 1990, pubblicato nella Gazzetta Ufficiale n. 115 del 19 maggio 1990, con cui sono state approvate modifiche al piano nazionale di ripartizione delle radiofrequenze;
+
+ 
+ 
+ 
+
+ 
+ Considerata la necessità di disciplinare le caratteristiche delle apparecchiature di linea per la trasmissione in ponte radio per il servizio fisso, operanti nella gamma 17,3-17,7 GHz, che fruisce dello statuto di servizio secondario;
+
+ 
+
+ 
+ 
+ 
+ Visto il parere espresso dal consiglio superiore tecnico delle poste e delle telecomunicazioni e dell'automazione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il parere espresso dal consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'art. 17 della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 30 novembre 1992;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione al Presidente del Consiglio dei Ministri GM/69698/4216DL/CR dell'11 dicembre 1992, a norma dell'art. 17, comma 3, della citata legge n. 400/1988;
+
+ 
+ 
+ 
+
+ ADOTTA
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Oggetto delle regole
+
+ 
+ 
+ 1. Le presenti regole tecniche si riferiscono ad apparecchiature di linea per collegamenti in ponte radio per il servizio fisso per esclusivo uso privato, operanti nella gamma 17300-17700 MHz. In tale gamma i collegamenti fruiscono dello statuto di servizio secondario.
+ 
+
+ Le regole stabiliscono le prescrizioni minime cui debbono soddisfare le apparecchiature adibite alla trasmissione di segnali numerici.
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ AVVERTENZA:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+
+ Note alle premesse:
+ 
+
+ - La legge n. 39/1982 reca: "Autorizzazione alle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni a proseguire nella realizzazione dei programmi di potenziamento e di riassetto dei servizi e di costruzione di alloggi di servizio per il personale postelegrafonico - Disciplina dei collaudi".
+ 
+
+ - Il comma 3 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ 
+
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
