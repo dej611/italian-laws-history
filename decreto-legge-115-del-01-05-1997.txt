@@ -38,10 +38,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Entro novanta giorni dalla data di entrata in vigore del presente decreto-legge, su proposta del Ministro delle poste e delle telecomunicazioni, secondo le procedure di cui all'articolo 17 della legge 23 agosto 1988, n. 400, è adottato il regolamento per l'attuazione della direttiva 96/2/CE, che modifica la direttiva 90/388/CEE in materia di comunicazioni mobili e personali, prevedendo la soppressione dei diritti esclusivi e speciali per la fornitura di detti servizi, l'abolizione di ogni restrizione per i gestori di comunicazioni mobili e personali ad installare proprie infrastrutture o ad impiegare infrastrutture fornite da terzi, la sottoposizione delle imprese ad autorizzazione, l'adeguamento delle concessioni già assentite, secondo criteri di obiettività, trasparenza, non discriminazione e proporzionalità. Lo schema di regolamento è trasmesso alla Camera dei deputati ed al Senato della Repubblica perchè su di esso sia espresso, entro venti giorni dalla data di assegnazione, il parere delle commissioni competenti per materia.
- 
+ 1. Entro novanta giorni dalla data di entrata in vigore del presente decreto-legge, su proposta del Ministro delle poste e delle telecomunicazioni, secondo le procedure di cui all'articolo 17 della legge 23 agosto 1988, n. 400, è adottato il regolamento per l'attuazione della direttiva 96/2/CE, che modifica la direttiva 90/388/CEE in materia di comunicazioni mobili e personali, prevedendo 
+ ((tra gli altri disposizioni ed indirizzi atti a garantire l'accesso al mercato secondo criteri di obiettività, trasparenza, non discriminazione e proporzionalità e l'uso di apparecchiature multistandard,))
 
- Decorso tale termine, il regolamento è emanato anche in mancanza di parere.
+ la soppressione dei diritti esclusivi e speciali per la fornitura di detti servizi, l'abolizione di ogni restrizione per i gestori di comunicazioni mobili e personali ad installare proprie infrastrutture o ad impiegare infrastrutture fornite da terzi 
+ ((e ad utilizzare in comune le infrastrutture, gli impianti ed i siti))
+
+ , la sottoposizione delle imprese ad autorizzazione, l'adeguamento delle concessioni già assentite, secondo criteri di obiettività, trasparenza, non discriminazione e proporzionalità. Lo schema di regolamento è trasmesso alla Camera dei deputati ed al Senato della Repubblica perchè su di esso sia espresso, entro venti giorni dalla data di assegnazione, il parere delle commissioni competenti per materia. Decorso tale termine, il regolamento è emanato anche in mancanza di parere.
  
 
  
@@ -57,4 +60,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Con la medesima procedura di cui al comma 1 possono essere apportate le correzioni, le modificazioni e le integrazioni eventualmente occorrenti, anche sulla base delle direttive europee nel frattempo emanate, per il completamento e l'aggiornamento della regolamentazione riguardante la completa liberalizzazione del settore delle telecomunicazioni.
+ 3. Con la medesima procedura 
+ ((di cui ai commi 1 e 2))
+
+ possono essere apportate le correzioni, le modificazioni e le integrazioni eventualmente occorrenti, anche sulla base delle direttive europee nel frattempo emanate, per il completamento e l'aggiornamento della regolamentazione riguardante la completa liberalizzazione del settore delle telecomunicazioni.
