@@ -20,11 +20,6 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
  
  
- 
- ((
- 
-
- 
  1. Il Governo, nel rispetto delle attribuzioni costituzionali delle regioni, individua le infrastrutture pubbliche e private e gli insediamenti produttivi strategici e di preminente interesse nazionale da realizzare per la modernizzazione e lo sviluppo del Paese. L'individuazione è operata, a mezzo di un programma predisposto dal Ministro delle infrastrutture e dei trasporti, d'intesa con i Ministri competenti e le regioni o province autonome interessate e inserito, previo parere del CIPE e previa intesa della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nel Documento di programmazione economico-finanziaria, con l'indicazione dei relativi stanziamenti.
  
 
@@ -75,14 +70,13 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
  
 
+ 
  e) quadro delle risorse finanziarie già destinate e degli ulteriori finanziamenti necessari per il completamento degli interventi.
-
  
 
  
-
  
- ))
+
  
 
  
@@ -111,8 +105,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- ((c) attribuzione al CIPE, integrato dai presidenti delle regioni e delle province autonome interessate, del compito di valutare le proposte dei promotori, di approvare il progetto preliminare e definitivo, di vigilare sulla esecuzione dei progetti approvati, adottando i provvedimenti concessori ed autorizzatori necessari, comprensivi della localizzazione dell'opera e, ove prevista, della VIA istruita dal competente Ministero. Il Ministero delle infrastrutture e dei trasporti cura le istruttorie, formula le proposte ed assicura il supporto necessario per l'attività del CIPE, avvalendosi, eventualmente, di una apposita struttura tecnica, di advisor e di commissari straordinari, che agiscono con i poteri di cui all'articolo 13 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, nonchè della eventuale ulteriore collaborazione richiesta al Ministero dell'economia e delle finanze nel settore della finanza di progetto, ovvero offerta dalle regioni o province autonome interessate, con oneri a proprio carico))
+ c) attribuzione al CIPE, integrato dai presidenti delle regioni e delle province autonome interessate, del compito di valutare le proposte dei promotori, di approvare il progetto preliminare e definitivo, di vigilare sulla esecuzione dei progetti approvati, adottando i provvedimenti concessori ed autorizzatori necessari, comprensivi della localizzazione dell'opera e, ove prevista, della VIA istruita dal competente Ministero. Il Ministero delle infrastrutture e dei trasporti cura le istruttorie, formula le proposte ed assicura il supporto necessario per l'attività del CIPE, avvalendosi, eventualmente, di una apposita struttura tecnica, di advisor e di commissari straordinari, che agiscono con i poteri di cui all'articolo 13 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, nonchè della eventuale ulteriore collaborazione richiesta al Ministero dell'economia e delle finanze nel settore della finanza di progetto, ovvero offerta dalle regioni o province autonome interessate, con oneri a proprio carico;
+ 
 
+ 
  
 
  
@@ -198,18 +194,11 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 
- ((
- 
-
- 
  3-bis. In alternativa alle procedure di approvazione dei progetti preliminari e definitivi, di cui al comma 2, l'approvazione dei progetti definitivi degli interventi individuati nel comma 1 può essere disposta con decreto del Presidente del Consiglio dei ministri, previa deliberazione del CIPE integrato dai presidenti delle regioni o delle province autonome interessate, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e previo parere delle competenti Commissioni parlamentari. Con il predetto decreto sono dichiarate la compatibilità ambientale e la localizzazione urbanistica dell'intervento nonchè la pubblica utilità dell'opera; lo stesso decreto sostituisce ogni altro permesso, autorizzazione o approvazione comunque denominati, e consente la realizzazione di tutte le opere ed attività previste nel progetto approvato.
  
 
  
- ))
  
-
  
 
  
@@ -310,13 +299,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 12. Le disposizioni di cui al comma 6 si applicano nelle regioni a statuto ordinario a decorrere dal novantesimo giorno dalla data di entrata in vigore della presente legge 
- ((, salvo che le leggi regionali emanate prima della data di entrata in vigore della presente legge siano già conformi a quanto previsto dalle lettere a), b), c) e d) del medesimo comma 6, anche disponendo eventuali categorie aggiuntive e differenti presupposti urbanistici))
-
- . 
- ((Le regioni a statuto ordinario possono ampliare o ridurre l'ambito applicativo delle disposizioni di cui al periodo precedente))
-
- .
+ 12. Le disposizioni di cui al comma 6 si applicano nelle regioni a statuto ordinario a decorrere dal novantesimo giorno dalla data di entrata in vigore della presente legge, salvo che le leggi regionali emanate prima della data di entrata in vigore della presente legge siano già conformi a quanto previsto dalle lettere a), b), c) e d) del medesimo comma 6, anche disponendo eventuali categorie aggiuntive e differenti presupposti urbanistici. Le regioni a statuto ordinario possono ampliare o ridurre l'ambito applicativo delle disposizioni di cui al periodo precedente.
  
 
  
@@ -332,7 +315,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 14. Il Governo è delegato ad emanare, entro il 31 dicembre 2002, un decreto legislativo volto a introdurre nel testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui all'articolo 7 della legge 8 marzo 1999, n. 50, e successive modificazioni, le modifiche strettamente necessarie per adeguarlo alle disposizioni di cui ai commi da 6 a 13.
+ 14. Il Governo è delegato ad emanare, 
+ ((entro il 30 giugno 2003))
+
+ , un decreto legislativo volto a introdurre nel testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui all'articolo 7 della legge 8 marzo 1999, n. 50, e successive modificazioni, le modifiche strettamente necessarie per adeguarlo alle disposizioni di cui ai commi da 6 a 13.
  
 
  
