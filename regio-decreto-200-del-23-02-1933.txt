@@ -77,12 +77,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- 
-
- 
- 
- ((AMMINISTRAZIONE CENTRALE
+ AMMINISTRAZIONE CENTRALE
  
 
  
@@ -100,61 +95,75 @@ VITTORIO EMANUELE III
  
  
 
- Grado Numero dei posti 
- 
-
- 4° Direttori generali 2
- 
-
  
  
 
- 5° Ispettori generali 2
+ 
+ 
+ ((===================================================
  
 
- 
- 
-
- 6° Direttori capi divisione 13
+ | | | Numero dei |
  
 
- 
- 
-
- 7° Capi sezione 10
+ | Grado | | posti |
  
 
- 
- 
-
- 8° Consiglieri 14
+ +===========+=======================+=============+
  
 
- 
- 
-
- 9° Primi segretari 21
+ | 4° |Direttori generali | 2 |
  
 
- 
- 
-
- 10° Segretari |
+ +-----------+-----------------------+-------------+
  
 
- |
+ | 5° |Ispettori generali | 2 |
  
 
- \ 21
+ +-----------+-----------------------+-------------+
  
 
- /
+ | |Direttori capi | |
  
 
- 11° Vice segretari |
+ | 6° |divisione | 13 |
  
 
- -----
+ +-----------+-----------------------+-------------+
  
 
- Totale n. 83))
+ | 7° |Capi sezione | 12 |
+ 
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | 8° |Consiglieri | 15 |
+ 
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | 9° |Primi segretari | 28 |
+ 
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | 10° |Segretari | 28 |
+ 
+
+ +-----------+-----------------------| |
+ 
+
+ | 11° |Vice segretari | |
+ 
+
+ +-----------+-----------------------+-------------+
+ 
+
+ | |Totale | 100 |
+ 
+
+ +-----------+-----------------------+-------------+))
