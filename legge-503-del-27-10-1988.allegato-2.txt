@@ -1,0 +1,406 @@
+TRADUZIONE NON UFFICIALE 
+ 
+
+ MEMORANDUM DI INTESA 
+ 
+
+ Tra il 
+ 
+
+ CONSIGLIO NAZIONALE DELLE RICERCHE (CNR) - ITALIA 
+ 
+
+ e la 
+ 
+
+ NATIONAL AERONUTIC AND SPACE ADMINISTRATION (NASA) - USA 
+ 
+
+ Per 
+ 
+
+ LO SVILUPPO ED IL LANCIO DEL SATELLITE LAGEOS-2 
+ 
+
+ PREMESSA 
+ 
+
+ Scienziati statunitensi ed italiani hanno dimostrato grande interesse per ricerche di geodinamica che utilizzano sistemi spaziali avanzati per misure accurate del movimento e della deformazione della superficie terreste, quali lo studio della dinamica della superficie e dei meccanismi del terremoto. 
+ 
+
+ Al fine di consentire tale ricerca nel bacino del Mediterraneo, la NASA ha fornito in uso gratuito all'Italia una stazione laser per l'inseguimento di satelliti geodinamici del tipo LAGEOS-1. 
+ 
+
+ Il Piano Spaziale Nazionale (PSN) del Consiglio Nazionale delle Ricerche (CNR) ha installato tale stazione a Matera e sta attivamente studiando lo sviluppo di sistemi laser per l'inseguimento di satelliti di elevata mobilità. 
+ 
+
+ Il satellite passivo per studi di geodinamica mediante laser, detto LAGEOS-1, lanciato dalla NASA nel 1976, permette attualmente di effettuare attività di inseguimento laser da 20 stazioni situate in 11 paesi. 
+ 
+
+ I risultati ottenuti dalle osservazioni eseguite nel corso di diversi anni con il LAGEOS-1 fanno ritenere che un secondo satellite, immesso in un'orbita diversa, migliorerebbe il valore scientifico di tali misure e perfezionerebbe le operazioni di inseguimento laser. 
+ 
+
+ La NASA e il PSN/CNR/, nel 1982, hanno costituito un gruppo di studio congiunto per esaminare i potenziali contributi scientifici di un secondo LAGEOS e studiare configurazioni e orbite alternative. 
+ 
+
+ Il Gruppo di Studio congiunto ha concluso che un secondo satellite avrebbe migliorato in modo significativo lo studio e la comprensione della terra solida e dei suoi processi dinamici; ha raccomandato inoltre che il LAGEOS-II abbia la stessa configurazione del LAGEOS-1 e che venga immesso in un'orbita della stessa altitudine, ma con inclinazione diversa sul piano equatoriale (51-53 gradi con moto progrado, rispetto ai 70 con moto retrogrado). 
+ 
+
+ - ARTICOLO 1 
+ 
+
+ SCOPO 
+ 
+
+ La NASA ed il CNR dichiarano il loro interesse a estendere la cooperazione reciprocamente vantaggiosa e concordano di sviluppare e lanciare il satellite LAGEOS-II utilizzando lo Space Transportation System (STS) statunitense ed il sistema italiano Italian Research Interim Stage (IRIS) che il CNR sta realizzando come progetto spaziale nazionale.(+) 
+ 
+
+ (+) 
+ 
+
+ Lo sviluppo dell'IRIS non è contemplato in questo accordo. Il supporto della NASA al PSN/CNR per il volo dell'IRIS considerato come generico stadio superiore dello Shuttle e relativo a servizi opzionali di sviluppo, è interamente rimborsabile alla NASA con accordi da negoziare separatamente. Esempi di tali servizi opzionali di supporto sono la prova di Shuttle Avionics Integration Laboratory (SAIL), tutte le attività aggiuntive al primo volo presso il poligono di lancio e quelle altre attività non considerate standard o servizi opzionali di supporto specifici per il programma LAGEOS-II. 
+ 
+
+ Il CNR designa il PSN/CNR quale Organismo Esecutivo per lo sviluppo tecnico del programma congiunto con la NASA - LAGEOS-II.
+- ARTICOLO 2
+ 
+
+ DESCRIZIONE GENERALE DEL PROGRAMMA
+ 
+
+ Il LAGEOS-II sarà un satellite di forma sferica con un diametro di 60 cm. e un peso di 411 kg. circa.
+ 
+
+ La superficie esterna verrà ricoperta da 426 retroriflettori regolarmente distanziati. Il satellite LAGEOS-II e lo Stadio di Apogeo del LAGEOS (LAS) verranno integrati sull'IRIS e trasportati in orbita bassa dal sistema STS.
+ 
+
+ Dopo la separazione dall'STS, l'IRIS trasferirà il LAGEOS-II/LAS ad un'altitudine orbitale di 6000 km., ed un'inclinazione orbitale tra 51 e 53 gradi, il LAS circolarizzerà l'orbita a 6000 km., con un'eccentricità inferiore a 0,01.
+ 
+
+ Il PSN/CNR:
+ 
+
+ - costruirà il satellite LAGEOS-II,
+ 
+
+ - lo integrerà con il LAS e l'IRIS, in conformità ai requisiti dell'STS della NASA,
+ 
+
+ - consegnerà il LAGEOS-II, integrato con il sistema di volo LAS
+ 
+
+ e
+ 
+
+ l'IRIS alla NASA,
+ 
+
+ - fornirà il supporto all'STS per il lancio, il volo e le operazioni di atterraggio,
+ 
+
+ - eseguirà le operazioni affinchè l'IRIS ed il LAS immettano il satellite LAGEOS-II nell'orbita stabilita.
+ 
+
+ La NASA:
+ 
+
+ - fornirà quanto rimane delle apparecchiature di supporto a terra, dell'hardware e del software della missione del LAGEOS-1,
+ 
+
+ - fornirà consulenze tecniche al PSN/CNR per l'integrazione del LAGEOS-II/LAS/IRIS,
+ 
+
+ - effettuerà prove ottiche e geometriche del satellite LAGEOS/II,
+ 
+
+ - lancerà il LAGEOS-II/LAS/IRIS dall'STS come 'payload of opportunity' (++) con lancio previsto nel 1987,
+ 
+
+ - determinerà l'orbita raggiunta
+ 
+
+ e
+ 
+
+ - coordinerà l'acquisizione dei dati del LAGEOS-II con le reti laser NASA e con altri sistemi di stazioni a terra di paesi che collaborano nel settore.
+ 
+
+ (++) Carico utile che deve dividere la baia di carico dello Shuttle con altri carichi.
+- ARTICOLO 3
+ 
+
+ USI SCIENTIFICI DEL LAGEOS-II
+ 
+
+ Attraverso accurate misure delle variazioni della linea di base derivanti dal movimento della superficie terrestre, il LAGEOS-II contribuirà allo studio delle placche tettoniche e a quello dell'aumento della deformazione della superficie in aree ad alta sismicità. I due satelliti LAGEOS-1/II, immessi in orbite essenzialmente opposte, miglioreranno la precisione delle attuali linee di base stabilite dal laser di un fattore 2 e permetteranno di raggiungere precisioni di 1 centimetro per linee di base su un'area di diverse migliaia di km.
+ 
+
+ In particolare, tali miglioramenti avranno effetto sugli studi, già intrapresi dagli USA e da un gruppo di Paesi europei, sulla deformazione della superficie regionale associata a eventi di terremoto nell'area del Mediterraneo e su quelli condotti negli USA sulla deformazione della superficie associati al San Andreas Pault System.
+ 
+
+ L'inseguimento laser con il LAGEOS-1 e II effettuato con sistemi della NASA e dei PSN/CNR, nonchè con quelli di altri Paesi, miglioreranno in maniera determinante: le misure del movimento del polo terrestre, delle variazioni della velocità rotatoria della terra, della terra solida e delle maree oceaniche, nonchè le variazioni del campo gravitazionale terrestre derivante dall'assestamento post-glaciale.
+- ARTICOLO 4
+ 
+
+ ACQUISIZIONE ED ANALISI DEI DATI
+ 
+
+ Una volta che il LAGEOS II sia inserito nell'orbita finale, la NASA ne confermerà le caratteristiche orbitali, utilizzando i dati raccolti dalla rete globale dei sistemi di inseguimento laser; la NASA stessa, farà regolarmente e fornirà previsioni orbitali per la disseminazione dei dati relativi al PSN/CNR ed alla rete globale.
+ 
+
+ I dati di inseguimento Laser acquisiti dal PSN/CNR con sistemi laser fissi e mobili e quelli acquisiti tramite la NASA, o disponibili presso di essa, verranno scambiati, reciprocamente, sia come dati pre-elaborati, sia come dati ridotti. Questi dati, in ambedue le forme, saranno pienamente disponibili per la comunità scientifica internazionale e verranno forniti ai ricercatori scientifici americani ed italiani per analisi e interpretazioni geofisiche.
+- ARTICOLO 5
+ 
+
+ RESPONSABILITà DELLA NASA
+ 
+
+ La NASA, nell'ambito delle proprie responsabilità:
+ 
+
+ a) fornirà al PSN/CNR tutte le informazioni disponibili relative al progetto ed alla costruzione del LAGEOS-1, inclusa la documentazione delle procedure di prova e dei risultati ottenuti
+ 
+
+ b) fornirà al PSN/CNR materiale, attrezzature di maneggio e software rimanenti dal programma LAGEOS-1;fornirà al PSN/CNR consulenze tecniche sul progetto e produzione del satellite LAGEOS-II e delle sue interfacce con LAS
+ 
+
+ d) effettuerà studi per ottimizzare i requisiti di missione e le prestazioni del sistema per supportare le scelte critiche relative alla configurazione della missione ed alle operazioni relative
+ 
+
+ e) effettuerà presso i propri impianti esistenti prove geometriche ed ottiche del satellite LAGEOS-II integrato
+ 
+
+ f) fornirà al PSN/CNR i requisiti di sicurezza, le condizioni ambientali e le interfacce con l'STS e verificherà la compatibilità di quest'ultimo con il carico utile LAGEOS-II/LAS/IRIS
+ 
+
+ g) fornirà i servizi standard dell'STS, necessari per lanciare il carico utile integrato LAGEOS-II/LAS/IRIS come 'payload of opportunity' (++c.s.) nell'orbita nominale dell'STS a 28,5 gradi, 160 mm., compatibilmente con la disponibilità dell'STS e l'approntamento del LAGEOS-II/LAS/IRIS
+ 
+
+ h) fornirà i servizi opzionali dell'STS da concordare con il PSN/CNR nel Payload Integration Plan (PIP) per la preparazione del carico utile integrato LAGEOS-II/LAS/IRIS per un lancio in qualità di "payload of opportunity" (++c.s.)
+ 
+
+ i) fornirà, se disponibile supporto per l'inseguimento del satellite ed informazioni per facilitare la ricezione iniziale
+ 
+
+ dei dati e la determinazione dell'orbita;
+ 
+
+ j) determinerà orbita del LAGEOS-II e fornirà, regolarmente, le previsioni orbitali per l'acquisizione del veicolo spaziale da parte del PSN/CNR e da altri utenti; e;
+ 
+
+ k) acquisirà ed elaborerà i dati del LAGEOS-II e li renderà disponibili al PSN/CNR ed ai ricercatori scientifici.
+- ARTICOLO 6
+ 
+
+ RESPONSABILITà DEL PSN/CNR
+ 
+
+ Il PSN/CNR, nell'ambito delle proprie responsabilità:
+ 
+
+ a) progetterà, svilupperà e costruirà il satellite LAGEOS-II ed il LAS;
+ 
+
+ b) fornirà un IRIS idoneo per la missione del LAGEOS-II;
+ 
+
+ c) integrerà il LAGEOS-II con il LAS, proverà il veicolo spaziale integrato ed assicurerà che esso soddisfi i requisiti di interfaccia e di sicurezza dello STS;
+ 
+
+ d) integrerà il LAGEOS-II/LAS con l'IRIS, proverà il carico utile integrato ed assicurerà che esso soddisfi tutti i requisiti di interfaccia e di sicurezza dell'STS;
+ 
+
+ e) effettuerà studi sull'orbita raggiungibile dal LAGEOS-II
+ 
+
+ con
+ 
+
+ l'STS/IRIS/LAS, tenendo presenti anche gli effetti degli errori d'inserzione e definirà le soluzioni progettuali per assicurare il raggiungimento dell'orbita richiesta per il LAGEOS/II;
+ 
+
+ f) fornirà alla NASA i dati tecnici e la documentazione sul progetto, sulla costruzione, integrazione e prove del LAGEOS-II, del LAS e dell'IRIS, secondo le richieste della NASA per lanci con lo STS e per permettere di effettuare l'analisi di missione;
+ 
+
+ g) fornirà il supporto per le prove ottiche e geometriche del LAGEOS-II da eseguire presso gli impianti esistenti della NASA;
+ 
+
+ h) fornirà il personale, le apparecchiature e le informazioni richieste a supporto della NASA nelle operazioni di pre-lancio, lancio, volo e nella fase di atterraggio della missione del LAGEOS-II/LAS/IRIS;
+ 
+
+ i) fornirà le necessarie apparecchiature di supporto a terra, Ground Support Equipment (GSE), del LAGEOS-II/LAS/IRIS per supportare la determinazione dell'orbita iniziale e l'inseguimento mediante radiofrequenza del LAGEOS-II/LAS e per controllare la immissione del LAGEOS-II nell'orbita stabilita;
+ 
+
+ j) controllerà l'IRIS ed il LAS dopo la separazione del carico utile LAGEOS-II/LAS/IRIS dall'STS ed eseguirà le altre operazioni di immissione necessarie per immettere il satellite LAGEOS-II nell'orbita desiderata restituirà, su richiesta della NASA, le apparecchiature e/o altri materiali forniti al PSN/CNR dalla NASA nel quadro del presente programma; e;
+ 
+
+ e) fornirà alla NASA nei formati concordati, i dati laser sia di inseguimento del LAGEOS-II, sia tutti gli altri dati laser acquisiti.
+- ARTICOLO 7
+ 
+
+ DIREZIONE DEL PROGRAMMA E DEL PROGETTO
+ 
+
+ a) Viene costituito un Comitato Direttivo del Programma LAGEOS-II con il compito di sviluppare congiuntamente i requisiti globali e la pianificazione del programma e di sovraintendere alla realizzazione del programma LAGEOS-II.
+ 
+
+ Il Comitato Direttivo è presieduto pariteticamente da due Direttori di Programma LAGEOS-II nominati uno dalla NASA ed uno dal PSN/CNR e prevederà, come Membri, i due Direttori di Progetto della NASA e del PSN/CNR e ogni altro Membro delle rispettive Organizzazioni, stabilito di comune accordo dai due Direttori di Programma.
+ 
+
+ b) Viene costituito altresì un gruppo di lavoro congiunto (Joint Working Group-JWG) del LAGEOS-II per il coordinamento tecnico e l'adempimento delle responsabilità di ciascuna parte assunte in base al presente MOU.
+ 
+
+ Il JWG sarà presieduto pariteticamente da due Direttori di Progetto del LAGEOS-II, nominati uno dalla NASA ed uno dal PSN/CNR e includerà quegli altri membri delle rispettive Organizzazioni e della comunità scientifica, stabiliti di comune accordo dai due Direttori di Progetto.
+ 
+
+ Il JWG svilupperà un piano tecnico contenente specifiche, procedure e pianificazioni dettagliate e tutte le altre informazioni necessarie per il coordinamento delle responsabilità di ciascuna parte per lo sviluppo del programma congiunto LAGEOS-II.
+- ARTICOLO 8
+ 
+
+ INTEGRAZIONE E APPRONTAMENTO AL VOLO (FLYGHT READINESS)
+ 
+
+ a) Il JWG verificherà che il LAGEOS-II/LAS sia pronto per l'integrazione con l'IRIS,
+ 
+
+ La decisione finale se il sistema è pronto per l'integrazione sarà di responsabilità dei due direttori di progetto NASA e PSN/CNR.
+ 
+
+ b) La decisione se il carico utile LAGEOS-II/LAS/IRIS sia pronto per l'integrazione con l'STS verrà presa dai Direttori di Progetto PSN/CNR per LAGEOS-II e IRIS, e NASA/LAGEOS-II.
+ 
+
+ c) Verrà verificato anche se il carico utile LAGEOS-II/LAS/IRIS è pronto per il lancio, in quanto tale carico utile è l'elemento del carico globale relativo alla missione dell'STS, cui è stato assegnato dalla NASA. La riunione di verifica di approntamento al volo (Flight Readiness Review - FRR) terrà presenti tutti gli elementi del carico destinato al volo STS e verrà condotta dalla NASA, conformemente alle procedure da essa stabilite.
+ 
+
+ Il PSN/CNR sarà adeguatamente rappresentato nell'FRR e fornirà le necessarie informazioni tecniche e programmatiche concordate dai Direttori di Programma della NASA e del PSN/CNR.
+- ARTICOLO 9
+ 
+
+ STANDARDS, SPECIFICHE E LINGUA
+ 
+
+ Gli standards e le specifiche verranno sviluppati come parte del piano tecnico e costituiranno i requisiti ai fini del controllo di questo programma congiunto. Ogni comunicazione e documentazione ufficiale verrà redatta in lingua inglese.
+- ARTICOLO 10
+ 
+
+ DIRITTI SUI DATI TECNICI
+ 
+
+ In base al presente accordo e nell'ambito delle rispettive responsabilità, lo scambio di dati tecnici tra la NASA ed il PSN/CNR verrà effettuato senza restrizioni circa il loro impiego o divulgazione.
+- ARTICOLO 11
+ 
+
+ DIRITTI E DISTRIBUZIONE DEI DATI
+ 
+
+ DERIVANTI DALLE OPERAZIONI
+ 
+
+ DELLO SPACECRAFT E DA EVENTUALI ESPERIMENTI
+ 
+
+ a) Tutti i dati di inseguimento laser e i risultati delle analisi sul LAGEOS-II acquisiti dalla NASA e dal PSN/CNR, verranno resi disponibili, senza restrizione alcuna, alla Comunità scientifica tramite archivi di dati istituiti e gestiti dalla NASA.
+ 
+
+ b) I risultati delle analisi dei dati ricavati dal LAGEOS-II, saranno resi disponibili alla Comunità scientifica, in generale, attraverso pubblicazioni su riviste specializzate o altri canali stabiliti non appena possibile e conformemente con la prassi scientifica.
+ 
+
+ Qualora tali rapporti o pubblicazioni fossero soggetti a diritti d'autore, il PSN/CNR e la NASA avranno diritto, per i propri fini, di riprodurre e di utilizzare, senza la corresponsione di royalties in base al diritto d'autore, il lavoro soggetto a diritto d'autore.
+- ARTICOLO 12
+ 
+
+ INFORMAZIONI PUBBLICHE
+ 
+
+ La NASA ed il PSN/CNR potranno rilasciare informazioni pubbliche circa i rispettivi impegni assunti in relazione al presente programma congiunto.
+ 
+
+ Tuttavia, la NASA ed il PSN/CNR convengono entrambi di coordinare in precedenza tra di loro tutte le informazioni pubbliche che riguardino le responsabilità o le attività reciproche. Le informazioni precedentemente concordate e non variate non richiederanno un nuovo coordinamento.
+ARTICOLO 13
+ 
+
+ SDOGANAMENTO
+ 
+
+ Il CNR e la NASA faranno in modo di ottenere tutte le opportune autorizzazioni per l'esonero dal pagamento di diritti o tasse sull'importazione delle attrezzature necessarie al presente programma.
+ARTICOLO 14
+ 
+
+ INTESE PER IL FINANZIAMENTO
+ 
+
+ Il CNR e la NASA si accolleranno ciascuna i costi per l'attuazione dei compiti di rispettiva responsabilità.
+ 
+
+ Come previsto dall'Art. 1, il PSN/CNR dovrà rimborsare alla NASA, sulla base di futuri accordi separati, tutti i servizi opzionali dello STS non associati al programma LAGEOS-II, forniti al PSN o ai suoi contraenti o subcontraenti per lo sviluppo ed il volo IRIS.
+ARTICOLO 15
+ 
+
+ RESPONSABILITà
+ 
+
+ Il CNR e la NASA convengono che per le operazioni eseguite in base al presente accordo, nè il CNR nè la NASA avanzeranno alcuna richiesta di risarcimento per lesioni o morte dei propri impiegati, o danni o perdite di loro proprietà, causati dal CNR, dalla NASA, o dai contraenti e/o sub-contraenti dell'altra parte, sia che tali lesioni, decessi, danni o perdite derivino da negligenza, che da altra causa.
+ 
+
+ Rispetto alle persone o alla proprietà coinvolte eslusivamente nelle operazioni dell'STS, eseguite in base al presente accordo, il CNR e la NASA concordano inoltre di estendere tale reciproca rinuncia di responsabilità ai clienti/utenti dell'altra parte e ai clienti/utenti dei contraenti e sub-contraenti dell'altra parte, come terzi beneficiari, e di intraprendere i passi necessari e ragionevoli per proteggerli da dette rivendicazioni di risarcimento, ivi incluse quelle sulla responsabilità dei prodotti (products liability), che possano venire presentate dal CNR o dalla NASA, dai loro contraenti e sub-contraenti, dai loro clienti/utenti, o dai clienti/utenti dei loro contraenti e sub-contraenti.
+ARTICOLO 16
+ 
+
+ LIMITI DEGLI OBBLIGHI
+ 
+
+ Si conviene che le capacità del CNR e della NASA di adempiere ai propri rispettivi obblighi di questo impegno congiunto sono soggette alle rispettive procedure di finanziamento.
+ARTICOLO 17
+ 
+
+ DURATA
+ 
+
+ Il presente accordo entrerà in vigore come disposto qui di seguito e resterà valido per due anni dopo il lancio del LAGEOS-II.
+ARTICOLO 18
+ 
+
+ EMENDAMENTI
+ 
+
+ Salvo che per la disposizione relativa all'entrata in vigore, il presente Memorandum potrà essere emendato di comune accordo da parte dell'Amministratore della NASA e del Presidente dell CNR.
+ARTICOLO 19 
+ 
+
+ ENTRATA IN VIGORE 
+ 
+
+ Il presente accordo entrerà in vigore successivamente alla firma dello stesso e al momento dell'avvenuto scambio di note diplomatiche tra i governi degli Stati Uniti di America e dell'Italia, che confermino l'accordo e forniscano disposizioni per l'attuazione del presente progetto congiunto tra NASA e CNR. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Per la National Aeronautics Per il Consiglio
+ 
+
+ Nazionale delle Ricerche
+ 
+
+ ìand Space Administration Italia
+ 
+
+ U.S.A.
+ 
+
+ 
+ 
+
+ ------------------------
+ 
+
+ ------------------------
+ 
+
+ 
+ 
+
+ Date Data
