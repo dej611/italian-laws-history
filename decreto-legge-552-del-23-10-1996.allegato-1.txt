@@ -1,0 +1,58 @@
+TABELLE 
+ 
+
+ (previste dall'art. 9, comma 3) 
+ 
+
+ 
+ 
+
+ ECU 2.082,67 
+ 
+
+ 
+ 
+
+ TABELLA A 
+ 
+
+ (navi inferiori a 24 mt.) 
+ 
+
+ 
+ 
+
+ T.S.L. LIRE 
+ 
+
+ 
+ 
+
+ 0 < 25 1.874.403 + 423.615 x a 
+ 
+
+ 25 < 50 12.464.780 + 402.997 x a 
+ 
+
+ 50 < 70 22.539.696 + 328.021 x a 
+ 
+
+ 70 < 100 29.100.107 + 292.407 x a 
+ 
+
+ 100 < 200 37.872.313 + 256.793 x a 
+ 
+
+ 200 < 300 63.551.634 + 221.180 x a 
+ 
+
+ 300 < 500 85.669.589 + 192.126 x a 
+ 
+
+ 500 < 1.000 124.094.851 + 164.947 x a 
+ 
+
+ 
+ 
+
+ a = differenza della stazza, arrotondata all'unità inferiore, rispetto al minimo previsto dall'intervallo di classe di stazza.
