@@ -1,0 +1,142 @@
+ALLEGATO 
+ 
+
+ METODO PER LA DETERMINAZIONE DELLO IODIO 
+ 
+
+ AGGIUNTO AL SALE ALIMENTARE 
+ 
+
+ 1. Oggetto e campo di applicazione. 
+ 
+
+ Il metodo descritto permette la determinazione del contenuto di iodio, aggiunto al sale alimentare sotto forma di ioduro e/o iodato di potassio, a concentrazioni superiori a 2 mg/kg espresso come I-. 
+ 
+
+ 2. Principio del metodo. 
+ 
+
+ Si determina lo iodio libero, ottenuto in quantità equivalente allo iodato in soluzione previa aggiunta di acido fosforico e ioduro di potassio, mediante titolazione con tiosolfato di sodio in presenza di salda d'amido. Nel caso di sale alimentare addizionato di ioduro di potassio o di ioduro e di iodato di potassio, la determinazione viene effettuata dopo l'ossidazione dello ioduro a iodato ad opera di acqua di bromo. 
+ 
+
+ 3. Reattivi (*). 
+ 
+
+ 3.1. Soluzione di rosso metile allo 0,05% (m/v). 
+ 
+
+ In un pallone tarato da 100 mL sciogliere 0,05 g di rosso metile con 75 mL di etanolo al 95% (v/v) e portare a volume con acqua. 
+ 
+
+ 3.2. Acido cloridrico diluito, circa 0,1 N. 
+ 
+
+ 3.3. Acqua di bromo, soluzione satura. 
+ 
+
+ Preparare al momento dell'impiego. 
+ 
+
+ 3.4. Acido formico concentrato, soluzione al 90% (m/m) circa. d20 C = 1,2 g/mL. 
+ 
+
+ 3.5. Acido fosforico concentrato, soluzione all'85% (m/m) circa. d20 C = 1,7 g/mL. 
+ 
+
+ 3.6. Ioduro di potassio. 
+ 
+
+ 3.7. Salda d'amido, soluzione allo 0,2% (m/m) circa, preparata di recente. La soluzione di salda d'amido può essere preparata per diluizione delle soluzioni stabilizzate reperibili in commercio. 
+ 
+
+ 3.8. Soluzione titolata di tiosolfato di sodio, 0,1 M. 
+ 
+
+ 3.9. Soluzione titolata di tiosolfato di sodio, 0,01 M. 
+ 
+
+ Trasferire 25,00 mL della soluzione 3,8 in un pallone tarato da 250 mL e portare a volume con acqua distillata previamente bollita. La soluzione deve essere preparata al momento dell'uso. 
+ 
+
+ 4. Apparecchiatura. 
+ 
+
+ 4.1. Bilancia tecnica, precisione 0,01 g. 
+ 
+
+ 4.2. Palline di vetro per ebollizione. 
+ 
+
+ 4.3. Microburetta, graduata a 0,01 mL. 
+ 
+
+ 5. Modo di operare. 
+ 
+
+ 5.1. Determinazione dello iodio aggiunto come ioduro di potassio, da solo o in miscela con iodato di potassio. 
+ 
+
+ 5.1.1. Pesare (4.1) 50 g circa del campione per l'analisi e scioglierli con 175 mL di acqua in una beuta da 500 mL. 
+ 
+
+ 5.1.2. Aggiungere (operare sotto cappa durante le fasi di aggiunta della acqua di bromo, riscaldamento e aggiunta dell'acido formico) nell'ordine: 4 gocce della soluzione di rosso metile (3.1), acido cloridrico diluito 0,1 N (3.2) sino al primo viraggio dal colore giallo al rosso-arancio e, immediatamente, 1,5 mL di acqua di bromo (3.3) - Attendere 3 minuti. Riscaldare sino ad incipiente ebollizione e mantenerla per 5 minuti, agitando lentamente per evitare la cristallizzazione del cloruro di sodio. (Si consiglia di aggiungere le palline di vetro (4.2) per evitare ebollizione violenta e perdite per eventuali schizzi). Dopo un minuto dal termine del riscaldamento, aggiungere, lentamente e con cautela, 1,0 mL di acido formico (3.4) avendo cura di bagnare completamente la parete interna della beuta.
+ 
+
+ Agitare, lasciare in riposo per un minuto e quindi raffreddare a temperatura ambiente. 
+ 
+
+ (*) Tutti i reattivi si intendono puri per analisi. Quando si fa riferimento all'acqua, ai fini della dissoluzione, della diluizione o del lavaggio, deve intendersi acqua distillata od acqua demineralizzata di purezza equivalente, salvo specificazione diversa. 
+ 
+
+ 5.1.3. Aggiungere 1,0 mL di acido fosforico (3.5) e 0,1 g di ioduro di potassio (3.6). Agitare e lasciare in riposo per 5 minuti esatti in un luogo al riparo dalla luce, dopo aver coperto la beuta con un vetro di orologio. Aggiungere 1,0 mL di salda d'amido (3.7) e titolare (4.3) con la soluzione di tiosolfato di sodio 0,01 M (3.9), facendola scolare goccia a goccia con ritmo regolare e agitando dopo ogni aggiunta, sino al viraggio definitivo (la soluzione deve rimanere incolore per almeno 30 secondi). 
+ 
+
+ Eseguire parallelamente una prova in bianco utilizzando la stessa acqua, seguendo lo stesso procedimento ed impiegando la stessa quantità di reattivi. 
+ 
+
+ Determinazione dello iodio aggiunto come iodato di potassio. 
+ 
+
+ Procedere come descritto in 5.1.1, 5.1.3 e 5.1.4. 
+ 
+
+ Calcolo ad espressioni dei risultati. 
+ 
+
+ Il contenuto di iodio del campione in esame, espresso in mg di I-, per kg di sale alimentare, si calcola secondo la formula: 
+ 
+
+ 0,2115 
+ 
+
+ I-, (mg/kg) = (V1 - V2) ------- x 1000 
+ 
+
+ m 
+ 
+
+ dove: 
+ 
+
+ V1 = volume, in mL, della soluzione di tiosolfato di sodio impiegato per la titolazione della soluzione da analizzare; 
+ 
+
+ V2 = volume, in mL, della soluzione di tiosolfato di sodio impiegato per la titolazione della prova in bianco; 
+ 
+
+ m = massa in grammi, del campione usata per la preparazione della 
+ 
+
+ soluzione da analizzare; 
+ 
+
+ 0,2115 = massa, in milligrammi, di I- corrispondente a 1 mL della 
+ 
+
+ soluzione di tiosolfato 3.9. 
+ 
+
+ Ripetibilità. 
+ 
+
+ La differenza tra i risultati di due determinazioni effettuate simultaneamente o in rapida successione dallo stesso analista, adoperando lo stesso campione e nelle stesse condizioni, non deve essere superiore a 1 mg di I-/kg di prodotto.
