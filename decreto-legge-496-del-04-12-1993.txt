@@ -43,68 +43,44 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- Agenzia nazionale per la protezione dell'ambiente
-
- 
- 
- 1. è istituita l'Agenzia nazionale per la protezione dell'ambiente (ANPA), cui sono attribuite le competenze riguardanti le attività tecnico-scientifiche di interesse nazionale connesse all'esercizio delle funzioni pubbliche per la protezione dell'ambiente, ivi comprese quelle in materia di tutela dall'inquinamento dell'atmosfera, delle acque e del suolo di cui all'articolo 1, comma 1, del decreto del Presidente della Repubblica 5 giugno 1993, n. 177. 
- 
-
- 
  
  
 
- 
- 2. L'ANPA svolge attività di consulenza e di supporto tecnico- scientifico del Ministero dell'ambiente nonchè, tramite convenzione, di altre amministrazioni ed enti pubblici, in collegamento con l'Agenzia europea per l'ambiente. 
- 
-
- 
- 
- 
-
- 
- 3. Restano ferme le competenze spettanti alla Presidenza del Consiglio dei Ministri, nonchè al Servizio sanitario nazionale in materia di igiene degli alimenti, di servizi veterinari, di igiene, prevenzione e sicurezza nei luoghi di lavoro, di igiene e sanità pubblica. 
- 
-
- 
- 
- 
-
- 
- 4. L'ANPA ha personalità giuridica, è sottoposta alla vigilanza del Ministero dell'ambiente e al controllo della Corte dei conti, ai sensi dell'articolo 12 della legge 21 marzo 1958, n. 259, e si avvale del patrocinio dell'Avvocatura dello Stato. 
- 
-
- 
- 
- 
-
- 
- 
- 
- 5. Sono organi dell'ANPA: 
+ (( (Agenzia nazionale per la protezione dell'ambiente). 
  
 
  
  
 
  
- a) il comitato amministrativo; 
+ 
+ 
+ 
+ 1. è istituita l'Agenzia nazionale per la protezione 
+ 
+
+ dell'ambiente (ANPA), che svolge: 
  
 
  
  
 
  
- b) il comitato scientifico; 
+ a) le attività tecnico-scientifiche di cui all'articolo 01, comma 1, di interesse nazionale; 
  
 
  
  
 
- c) il direttore dell'Agenzia, che ne ha la legale rappresentanza;
+ 
+ b) le attività di indirizzo e coordinamento tecnico nei confronti delle Agenzie di cui all'articolo 03 allo scopo di rendere omogenee sul piano nazionale le metodologie operative per l'esercizio delle competenze ad esse spettanti; 
+ 
 
  
- d) il collegio dei revisori. 
+ 
+
+ 
+ c) le attività di consulenza e supporto tecnico-scientifico del Ministero dell'ambiente e, tramite convenzione, di altre amministrazioni ed enti pubblici. 
  
 
  
@@ -115,4 +91,52 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Entro centoventi giorni dalla data di entrata in vigore del presente decreto, con regolamento emanato, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'ambiente, di concerto con i Ministri del tesoro e per la funzione pubblica, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, e sentite le competenti commissioni parlamentari, sono disciplinati le attribuzioni, l'organizzazione e il funzionamento dell'Agenzia, ivi comprese la determinazione della dotazione organica e la tabella di equiparazione fra le posizioni funzionali del personale rivestite presso le amministrazioni di provenienza e quelle dell'Agenzia stessa.
+ 2. L'ANPA fornisce al Ministro dell'ambiente tutti gli elementi tecnici e documentali in proprio possesso, nonchè le elaborazioni utili per la predisposizione della relazione sullo stato dell'ambiente di cui all'articolo 1, comma 6, della legge 8 luglio l986, n. 349. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 3. L'ANPA stipula con le regioni e con le province autonome di Trento e di Bolzano apposite convenzioni che prevedono la specializzazione di talune strutture tecniche delle Agenzie di cui all'articolo 03, al fine di assicurare sull'intero territorio nazionale il più efficace espletamento delle sue funzioni. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4. L'ANPA, anche sulla base di indicazioni espresse dal Ministro dell'università e della ricerca scientifica e tecnologica, stipula con il Ministro dell'ambiente e con l'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) apposita convenzione per l'individuazione delle attività di ricerca, finalizzate all'espletamento dei compiti dell'Agenzia, che l'ENEA dovrà svolgere sulla base di accordi di programma ai sensi dell'articolo 2, comma 2, lettera a), della legge 25 agosto 1991, n. 282 . Per la medesima finalità l'ANPA stipula accordi di programma con enti e istituzioni di ricerca pubblici e privati. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5. Le amministrazioni dello Stato, anche ad ordinamento autonomo, nonchè gli enti pubblici, territoriali e locali e le società per azioni operanti in regime di concessione esclusiva, che comunque raccolgano dati nel settore ambientale, devono trasmetterli all'ANPA, secondo le modalità stabilite con il regolamento di cui all'articolo 1-ter, comma 5. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto con apposito accordo di programma stipulato dall'ANPA con l'Unioncamere, vengono stabilite le modalità per l'integrazione con i dati ambientali riguardanti il sistema delle imprese, la cui raccolta e informatizzazione spetta alle Camere di commercio, industria, artigianato e agricoltura. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7. L'ANPA, anche sulla base di apposite direttive del Ministro dell'ambiente, predispone un programma triennale della propria attività. Nell'ambito di tale programma il consiglio di amministrazione dell'Agenzia adotta ogni anno il piano di lavoro. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 8. L'ANPA fa parte del Sistema statistico nazionale)).
