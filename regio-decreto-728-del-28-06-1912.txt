@@ -245,25 +245,22 @@ VITTORIO EMANUELE III
  
  
 
- b) 
- ((...))
+ b) (...); 
+ 
+
+ 
+ 
+
+ c) (...); 
+ 
+
+ 
+ 
+
+ d) 
+ ((approvare i progetti per lavori sulle linee e dipendenze e per provviste d'importo non superiore a L. 2.000.000 nonchè le proposte per vendite di materiali fino allo stesso limite))
 
  ; 
- 
-
- 
- 
-
- c) 
- ((...))
-
- ; 
- 
-
- 
- 
-
- d) approvare i progetti di lavori sulle linee e dipendenze, di importo non superiore alle lire 50,000 e non richiedenti espropriazioni, nonchè le provviste fino allo stesso limite; 
  
 
  
@@ -276,9 +273,9 @@ VITTORIO EMANUELE III
  
 
  f) 
- ((di approvare i contratti ad asta pubblica e licitazione privata d'importo fino a L. 200,000 e quelli a trattativa privata di importo fino a L. 50,000 ed eccedenti le competenze dei capi compartimento))
+ ((approvare i contratti ad asta pubblica ed a licitazione privata fino a L. 2.000.000 e quelli a trattativa privata fino a L. 500.000))
 
- . 
+ ; 
  
 
  
@@ -290,7 +287,10 @@ VITTORIO EMANUELE III
  
  
 
- h) autorizzare liti attive e approvare transazioni, quando il valore dell'oggetto controverso o transatto non superi le L. 10.000; 
+ h) 
+ ((autorizzare liti attive ed approvare transazioni quando il valore dell'oggetto controverso o transatto non superi L. 500.000))
+
+ . 
  
 
  
@@ -1178,10 +1178,7 @@ VITTORIO EMANUELE III
  
  
 
- 
- ((...))
-
- 
+ (...) 
  
 
  
