@@ -174,13 +174,13 @@ VITTORIO EMANUELE III
  | | |tonno |tonno |
  
 
- | | c) tonno | q.li 8.000 |q.li 20.000 |
+ | | ((α)) tonno | q.li 8.000 |q.li 20.000 |
  
 
  | | | | |
  
 
- | | d) altri |altri |altri |
+ | | ((δ)) altri |altri |altri |
  
 
  | | | q.li 500 |q.li 1.000 |
@@ -201,13 +201,13 @@ VITTORIO EMANUELE III
  | | | | |
  
 
- | | a) tonno | | |
+ | | ((α)) tonno | | |
  
 
  | | | | |
  
 
- | | b) altri | | |
+ | | ((γ)) altri | | |
  
 
  | | | | |
@@ -219,13 +219,13 @@ VITTORIO EMANUELE III
  | | | | |
  
 
- | | a) tonno | | |
+ | | ((α)) tonno | | |
  
 
  | | | | |
  
 
- | | b) altri | | |
+ | | ((γ)) altri | | |
  
 
  +-----------+-------------------------+----------------+------------+
