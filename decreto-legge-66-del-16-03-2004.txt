@@ -54,7 +54,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) dopo le parole: "sentenza definitiva di proscioglimento" sono inserite le seguenti: "perchè il fatto non sussiste o l'imputato non lo ha commesso ovvero con decreto di archiviazione per infondatezza della notizia di reato, anche se pronunciati dopo la cessazione dal servizio, e, comunque, nei cinque anni antecedenti la data di entrata in vigore della presente legge";
+ a) dopo le parole: "sentenza definitiva di proscioglimento" sono inserite le seguenti: "perchè il fatto non sussiste o l'imputato non lo ha commesso 
+ ((o se il fatto non costituisce reato o non è previsto dalla legge come reato))
+
+ ovvero con decreto di archiviazione per infondatezza della notizia di reato, anche se pronunciati dopo la cessazione dal servizio, e, comunque, nei cinque anni antecedenti la data di entrata in vigore della presente legge";
  
 
  
@@ -82,7 +85,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) sono aggiunti, in fine, i seguenti periodi: "Alle sentenze di proscioglimento di cui al presente comma sono equiparati i provvedimenti che dichiarano non doversi procedere per una causa estintiva del reato pronunciati dopo una sentenza di assoluzione del dipendente imputato perchè il fatto non sussiste o perchè non lo ha commesso. Ove la sentenza irrevocabile di proscioglimento sia stata emanata anteriormente ai cinque anni antecedenti alla data di entrata in vigore della presente legge, il pubblico dipendente può chiedere il riconoscimento del migliore trattamento pensionistico derivante dalla ricostruzione della carriera con il computo del periodo di sospensione dal servizio o dalla funzione o del periodo di servizio non espletato per l'anticipato collocamento in quiescenza.".
+ e) sono aggiunti, in fine, i seguenti periodi: "Alle sentenze di proscioglimento di cui al presente comma sono equiparati i provvedimenti che dichiarano non doversi procedere per una causa estintiva del reato pronunciati dopo una sentenza di assoluzione del dipendente imputato perchè il fatto non sussiste o perchè non lo ha commesso 
+ ((o se il fatto non costituisce reato o non è previsto dalla legge come reato))
+
+ . Ove la sentenza irrevocabile di proscioglimento sia stata emanata anteriormente ai cinque anni antecedenti alla data di entrata in vigore della presente legge, il pubblico dipendente può chiedere il riconoscimento del migliore trattamento pensionistico derivante dalla ricostruzione della carriera con il computo del periodo di sospensione dal servizio o dalla funzione o del periodo di servizio non espletato per l'anticipato collocamento in quiescenza.".
  
 
  
@@ -96,7 +102,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. Dopo il comma 57 dell'articolo 3 della legge 24 dicembre 2003, n. 350, è inserito il seguente:
  
 
- "57-bis. Ove il procedimento penale di cui al comma 57, ricorrendo ogni altra condizione ivi indicata, si sia concluso con provvedimento di proscioglimento diverso da decreto di archiviazione per infondatezza della notizia di reato o sentenza di proscioglimento perchè il fatto non sussiste o l'imputato non lo ha commesso, anche pronunciati dopo la cessazione dal servizio, l'amministrazione di appartenenza ha facoltà, a domanda dell'interessato, di prolungare e ripristinare il rapporto di impiego per un periodo di durata pari a quella della sospensione e del servizio non prestato, secondo le modalità indicate nel comma 57, purchè non risultino elementi di responsabilità disciplinare o contabile all'esito di specifica valutazione che le amministrazioni competenti compiono entro dodici mesi dalla presentazione dell'istanza di riammissione in servizio.".
+ "57-bis. Ove il procedimento penale di cui al comma 57, ricorrendo ogni altra condizione ivi indicata, si sia concluso con provvedimento di proscioglimento diverso da decreto di archiviazione per infondatezza della notizia di reato o sentenza di proscioglimento perchè il fatto non sussiste o l'imputato non lo ha commesso 
+ ((o se il fatto non costituisce reato o non è previsto dalla legge come reato))
+
+ , anche pronunciati dopo la cessazione dal servizio, l'amministrazione di appartenenza ha facoltà, a domanda dell'interessato, di prolungare e ripristinare il rapporto di impiego per un periodo di durata pari a quella della sospensione e del servizio non prestato, secondo le modalità indicate nel comma 57, purchè non risultino elementi di responsabilità disciplinare o contabile all'esito di specifica valutazione che le amministrazioni competenti compiono entro dodici mesi dalla presentazione dell'istanza di riammissione in servizio.".
  
 
  
@@ -104,4 +113,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Gli effetti delle disposizioni di cui ai commi 1 e 2 decorrono dal 1° gennaio 2004.
+ 3. Gli effetti delle disposizioni di cui ai commi 1 e 2 decorrono dal 1° gennaio 2004. 
+ ((Sono fatti salvi gli effetti delle domande presentate prima della data di entrata in vigore del presente decreto, ai sensi dell'articolo 3, comma 57, della legge 24 dicembre 2003, n. 350))
+
+ .
