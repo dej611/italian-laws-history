@@ -1,0 +1,34 @@
+ANNESSO 2 
+ 
+
+ NOTA SUGLI STANDARD INTERNAZIONALI PER LE TELECOMUNICAZIONI 
+ 
+
+ 
+ 
+
+ Il sistema aperto di interconnessione (OSI) deriva dalla Interna- tional Standards Organization (ISO) ma è stato ora adottato dall'International Telegraph and Telephone Consultative Committee (CCITT) e da altre come un quadro per i criteri di trasmissione dati. 
+ 
+
+ L'OSI sta divenendo sempre più largamente diffusa, future reti pubbliche di trasmissione dati saranno costruite in base al protocollo X.25 (reti per lo scambio di programmi già organizzati).
+ 
+
+ Al massimo livello dell'OSI è importante includere X.400 e X.500 (elaborazione messaggi), trasferimento di "files", accesso e gestione (FTAM) nonchè il criterio approvato per i "Sistemi di elaborazione messaggi (MHS)" che forniscono appoggio al: 
+ 
+
+ - testo in "forma finale", i.e. il criterio americano per 
+ 
+
+ l'interscambio di informazioni codificato (ASCII); 
+ 
+
+ - telex; 
+ 
+
+ - teletex; 
+ 
+
+ - facsimile: 
+ 
+
+ Il criterio includerà quanto prima ulteriori tipi di parti essenziali e consente già la definizione di tipi a livello nazionale. Ulteriori parti essenziali di particolare interesse includono la progettazione di documenti di ufficio (ODA) e tutte le serie di caratteri ISO.
