@@ -20,9 +20,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  In materia di navigazione da diporto, per tutto ciò che non sia espressamente previsto dalla presente legge, si applicano le disposizioni contenute nel codice della navigazione, nei relativi regolamenti di esecuzione e nelle altre leggi speciali.
  
 
- 
- 
- ((Ai fini della presente legge, le costruzioni destinate alla navigazione da diporto sono denominate:
+ Ai fini della presente legge, le costruzioni destinate alla navigazione da diporto sono denominate:
  
 
  a) unità da diporto: ogni costruzione destinata alla navigazione da diporto;
@@ -34,25 +32,16 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  c) imbarcazione da diporto: ogni unità destinata alla navigazione da diporto avente lunghezza fuori tutto superiore a metri 7,50 se a motore o a metri 10 se a vela, anche se con motore ausiliario;
  
 
- d) natante da diporto: ogni unità da diporto avente lunghezza fuori tutto non superiore a metri 7,50 se a motore o a metri 10 se a vela, anche se con motore ausiliario.))
- 
-
- .
+ d) natante da diporto: ogni unità da diporto avente lunghezza fuori tutto non superiore a metri 7,50 se a motore o a metri 10 se a vela, anche se con motore ausiliario.
  
 
  è unità da diporto a vela con motore ausiliario quella in cui il rapporto tra superficie in metri quadrati di tutte le vele che possono essere bordate contemporaneamente in navigazione su idonee attrezzature fisse, compresi l'eventuale fiocco genoa e le vele di strallo (escluso lo spinnaker) e la potenza del motore in cavalli o in kW è superiore rispettivamente a 2 o 2,72.
  
 
- 
- ((è motoveliero l'unità da diporto a propulsione mista, meccanica e a vela, in cui il rapporto tra superficie in metri quadrati di tutte le vele che possono essere bordate contemporaneamente in navigazione su idonee attrezzature fisse, compreso l'eventuale fiocco genoa e le vele di strallo e con esclusione dello spinnaker, e la potenza del motore in cv o in kw sia superiore o uguale rispettivamente a 1 o a 1,36 e non superiore a 2 o a 2,72.))
-
- .
+ è motoveliero l'unità da diporto a propulsione mista, meccanica e a vela, in cui il rapporto tra superficie in metri quadrati di tutte le vele che possono essere bordate contemporaneamente in navigazione su idonee attrezzature fisse, compreso l'eventuale fiocco genoa e le vele di strallo e con esclusione dello spinnaker, e la potenza del motore in cv o in kw sia superiore o uguale rispettivamente a 1 o a 1,36 e non superiore a 2 o a 2,72.
  
 
- 
- ((Ai fini dell'applicazione delle norme del codice della navigazione, dei relativi regolamenti di esecuzione e delle altre leggi speciali, le imbarcazioni da diporto sono equiparate, ad ogni effetto, alle navi ed ai galleggianti di stazza lorda non superiore alle 10 tonnellate se a propulsione meccanica ed alle 25 in ogni altro caso, anche se l'imbarcazione supera detta stazza, fino al limite di 24 metri.))
-
- .
+ Ai fini dell'applicazione delle norme del codice della navigazione, dei relativi regolamenti di esecuzione e delle altre leggi speciali, le imbarcazioni da diporto sono equiparate, ad ogni effetto, alle navi ed ai galleggianti di stazza lorda non superiore alle 10 tonnellate se a propulsione meccanica ed alle 25 in ogni altro caso, anche se l'imbarcazione supera detta stazza, fino al limite di 24 metri.
  
 
  Per potenza del motore, ai fini della presente legge, si intende la potenza massima di esercizio come definita con decreto del Ministro
@@ -82,10 +71,9 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  L'efficacia della omologazione può essere sospesa dall'autorità che l'ha rilasciata in caso di accertata difformità, anche parziale, di uno o più esemplari della serie rispetto al tipo omologato.
  
 
- L'omologazione può essere revocata quando sia stato adottato più di un provvedimento di sospensione.
- 
+ L'omologazione può essere revocata quando sia stato adottato più di un provvedimento di sospensione. 
+ ((8))
 
- 
  
  
  ---------------
@@ -93,3 +81,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  AGGIORNAMENTO (5)
 
  La L. 5 maggio 1989, n. 171 ha disposto (con l'art. 15, comma 1) che "In deroga a quanto stabilito dal secondo comma dell'articolo 1 della legge 11 febbraio 1971, n. 50, e successive modificazioni ed integrazioni, le imbarcazioni e i natanti da diporto possono essere utilizzati mediante contratti di locazione o di noleggio."
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (8)
+
+ La L. 5 maggio 1989, n 171, come modificata dal D.L. 21 ottobre 1996, n. 535, convertito con modificazioni dalla L. 23 dicembre 1996, n. 647 ha disposto (con l'art. 15, comma 1) che "In deroga a quanto stabilito dal secondo comma dell'articolo 1 della legge 11 febbraio 1971, n. 50, e successive modificazioni ed integrazioni, le navi, le imbarcazioni ed i natanti da diporto possono essere utilizzate mediante contratti di locazione o di noleggio."
