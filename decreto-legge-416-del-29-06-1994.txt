@@ -42,6 +42,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ (( 0a) nell'articolo 9, comma 2, il secondo periodo è costituito dal seguente: "In caso di conferimenti in società o in altri enti si considera corrispettivo conseguito il valore normale delle azioni e dei titoli ricevuti se negoziati in mercati italiani o esteri"))
+
+ ; 
+ 
+
+ 
  
 
  
@@ -68,7 +74,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) nell'articolo 52, il comma 1 è sostituito dal seguente: 
  
 
- "1. Il reddito d'impresa, salvo quanto disposto nell'articolo 79, è determinato apportando all'utile o alla perdita risultante dal conto economico, relativo all'esercizio chiuso nel periodo di imposta, le variazioni in aumento o in diminuzione conseguenti all'applicazione dei criteri stabiliti nelle successive disposizioni del presente testo unico."; 
+ " 1. Il reddito d'impresa, salvo quanto disposto nell'articolo 79, è determinato apportando all'utile o alla perdita risultante dal conto economico, relativo all'esercizio chiuso nel periodo di imposta, le variazioni in aumento o in diminuzione conseguenti all'applicazione dei criteri stabiliti nelle successive disposizioni del presente testo unico."; 
  
 
  
@@ -78,7 +84,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) nell'articolo 53, comma 1, la lettera c) è sostituita dalla seguente: 
  
 
- "c) i corrispettivi delle cessioni di azioni o quote di partecipazioni in società ed enti indicati nelle lettere a), b) e d) del comma 1 dell'articolo 87, comprese quelle non rappresentate da titoli, nonchè di obbligazioni e di altri titoli in serie o di massa, che non costituiscono immobilizzazioni finanziarie, anche se non rientrano tra i beni al cui scambio è diretta l'attività dell'impresa;"; 
+ " c) i corrispettivi delle cessioni di azioni o quote di partecipazioni in società ed enti indicati nelle lettere a), b) e d) del comma 1 dell'articolo 87, comprese quelle non rappresentate da titoli, nonchè di obbligazioni e di altri titoli in serie o di massa, che non costituiscono immobilizzazioni finanziarie, anche se non rientrano tra i beni al cui scambio è diretta l'attività dell'impresa;"; 
  
 
  
@@ -98,7 +104,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  f) all'articolo 54 sono apportate le seguenti modificazioni: 
  
 
- 1) nel comma 1, la lettera c) è sostituita dalla seguente: "c) se sono iscritte nello stato patrimoniale;"; 
+ 1) nel comma 1, la lettera c) è sostituita dalla seguente: " c) se sono iscritte nello stato patrimoniale;"; 
  
 
  2) dopo il comma 2 è inserito il seguente: 
@@ -114,7 +120,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) nell'articolo 55, comma 3, lettera b), le parole: "tuttavia il loro ammontare, nel limite del 50 per cento e se accantonato in apposito fondo del passivo, concorre a formare il reddito nell'esercizio e nella misura in cui il fondo sia utilizzato o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore, assegnati ai soci o destinati a finalità estranee all'esercizio dell'impresa", sono sostituite dalle seguenti: "tuttavia il loro ammontare, nel limite del 50 per cento e se accantonato in apposita riserva, concorre a formare il reddito nell'esercizio e nella misura in cui la riserva sia comunque utilizzata o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore, assegnati ai soci o destinati a finalità estranee all'esercizio dell'impresa."; 
+ g) nell'articolo 55, comma 3, lettera b) , 
+ (( dopo le parole: "Tali proventi concorrono a formare il reddito" sono inserite le seguenti: "nell'esercizio in cui sono stati incassati o"; la parola: "conseguiti" è sostituita dalla seguente: "incassati"))
+
+ ; le parole: "tuttavia il loro ammontare, nel limite del 50 per cento e se accantonato in apposito fondo del passivo, concorre a formare il reddito nell'esercizio e nella misura in cui il fondo sia utilizzato o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore, assegnati ai soci o destinati a finalità estranee all'esercizio dell'impresa", sono sostituite dalle seguenti: "tuttavia il loro ammontare, nel limite del 50 per cento e se accantonato in apposita riserva, concorre a formare il reddito nell'esercizio e nella misura in cui la riserva 
+ (( sia utilizzata per scopi diversi dalla copertura di perdite dell'esercizio ))
+
+ o i beni ricevuti siano destinati all'uso personale o familiare dell'imprenditore, assegnati ai soci o destinati a finalità estranee all'esercizio dell'impresa."; 
  
 
  
@@ -124,7 +136,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  h) nell'articolo 56, dopo il comma 3-bis, è aggiunto il seguente: 
  
 
- "3-ter. Gli interessi derivanti da titoli acquisiti in base a contratti 'pronti contro terminè che prevedono l'obbligo di rivendita a termine dei titoli, concorrono a formare il reddito del cessionario per l'ammontare maturato nel periodo di durata del contratto. La differenza positiva o negativa tra il corrispettivo a pronti e quello a termine, al netto degli interessi maturati sulle attività oggetto dell'operazione nel periodo di durata del contratto, concorre a formare il reddito per la quota maturata nell'esercizio."; 
+ " 3-ter. Gli interessi derivanti da titoli acquisiti in base a contratti 'pronti contro terminè che prevedono l'obbligo di rivendita a termine dei titoli, concorrono a formare il reddito del cessionario per l'ammontare maturato nel periodo di durata del contratto. La differenza positiva o negativa tra il corrispettivo a pronti e quello a termine, al netto degli interessi maturati sulle attività oggetto dell'operazione nel periodo di durata del contratto, concorre a formare il reddito per la quota maturata nell'esercizio."; 
  
 
  
@@ -233,7 +245,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) il comma 5 è sostituito dal seguente: 
  
 
- "5. I versamenti in denaro o in natura fatti a fondo perduto o in conto capitale alle società indicate al comma 4 dai propri soci e la rinuncia dei soci ai crediti non sono ammessi in deduzione ed il relativo ammontare si aggiunge al costo della partecipazione; nei confronti dei soci di dette società non si applica la lettera b) del comma 3 dell'articolo 61."; 
+ " 5. I versamenti in denaro o in natura fatti a fondo perduto o in conto capitale alle società indicate al comma 4 dai propri soci e la rinuncia dei soci ai crediti non sono ammessi in deduzione ed il relativo ammontare si aggiunge al costo della partecipazione; nei confronti dei soci di dette società non si applica la lettera b) del comma 3 dell'articolo 61."; 
  
 
  
@@ -265,10 +277,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  4. Le perdite sui crediti di cui al comma 1, determinate con riferimento al valore nominale o di acquisizione dei crediti stessi, sono deducibili, a norma dell'articolo 66, limitatamente alla parte che eccede l'ammontare complessivo delle svalutazioni e degli accantonamenti dedotti nei precedenti esercizi. Se in un esercizio l'ammontare complessivo delle svalutazioni e degli accantonamenti dedotti eccede il 5 per cento del valore nominale o di acquisizione dei crediti, l'eccedenza concorre a formare il reddito dell'esercizio stesso. 
  
 
- 5. Per i crediti per interessi di mora, le svalutazioni e gli accantonamenti di cui al comma 1, sono deducibili fino a concorrenza dell'ammontare dei crediti stessi maturato nell'esercizio. Si applicano le disposizioni del comma 4, secondo periodo, calcolando l'eccedenza con riferimento all'ammontare complessivo del valore nominale dei crediti per interessi di mora. 
+ 5. Per i crediti per interessi di mora, le svalutazioni e gli accantonamenti di cui al comma 1, sono deducibili fino a concorrenza dell'ammontare dei crediti stessi maturato nell'esercizio. Si applicano le disposizioni del comma 4, secondo periodo, calcolando l'eccedenza con riferimento all'ammontare complessivo del valore nominale dei crediti per interessi di mora."; 
  
 
- 6. Ai fini dell'applicazione del presente articolo, alla dichiarazione dei redditi deve essere allegato apposito prospetto da cui risultino l'ammontare complessivo del valore nominale o di acquisizione dei crediti, delle svalutazioni e degli accantonamenti dedotti nonchè quello delle perdite dedotte ai sensi dell'articolo 66."; 
+ 6. 
+ (( CAPOVERSO SOPPRESSO DALLA L. 8 AGOSTO 1994, N. 503))
+
+ . 
  
 
  
@@ -278,7 +293,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  q) nell'articolo 74 il comma 3 è sostituito dal seguente: 
  
 
- "3. Le altre spese relative a più esercizi, diverse da quelle considerate nei precedenti articoli, sono deducibili nel limite della quota imputabile a ciascun esercizio."; 
+ "3. Le altre spese relative a più esercizi, diverse da quelle considerate nei 
+ (( commi 1 e 2 ))
+
+ , sono deducibili nel limite della quota imputabile a ciascun esercizio."; 
  
 
  
@@ -288,26 +306,36 @@ IL PRESIDENTE DELLA REPUBBLICA
  r) all'articolo 76 sono apportate le seguenti modificazioni: 
  
 
- 1) nel comma 1, la lettera c) è sostituita dalla seguente: "c) il costo dei beni rivalutati s'intende comprensivo delle plusvalenze iscritte nello stato patrimoniale che hanno concorso a formare il reddito o che per disposizione di legge non concorrono a formarlo nemmeno in caso di successivo realizzo."; 
+ 
+ (( 01) nel comma 1, lettera b), le parole da: "Tuttavia" fino a: "aumento del costo" sono sostituite dalle seguenti: "Tuttavia per i beni materiali ed immateriali strumentali per l'esercizio dell'impresa si comprendono nel costo, fino al momento della loro entrata in funzione e per la quota ragionevolmente imputabile ai beni medesimi, gli interessi passivi relativi alla loro fabbricazione, interna o presso terzi, nonchè gli interessi passivi sui prestiti contratti per la loro acquisizione, a condizione che siano imputati nel bilancio ad incremento del costo stesso. Nel costo di fabbricazione si possono aggiungere con gli stessi criteri anche i costi diversi da quelli direttamente imputabili al prodotto"; e dopo le parole: "per la loro costruzione" sono aggiunte le seguenti: "o ristrutturazione" ))
+
+ ; 
  
 
- 2) nel comma 1, dopo la lettera c) è aggiunta, in fine, la seguente: "c-bis) per i titoli a reddito fisso, che costituiscono immobilizzazioni finanziarie e sono iscritti come tali in bilancio, la differenza positiva o negativa tra il costo d'acquisto e il valore di rimborso concorre a formare il reddito per la quota maturata nell'esercizio."; 
+ 1) nel comma 1, la lettera c) è sostituita dalla seguente: " c) il costo dei beni rivalutati s'intende comprensivo delle plusvalenze iscritte nello stato patrimoniale che hanno concorso a formare il reddito o che per disposizione di legge non concorrono a formarlo nemmeno in caso di successivo realizzo."; 
  
 
- 3) nel comma 2, l'ultimo periodo è sostituito dai seguenti: "La valutazione, secondo il cambio alla data di chiusura dell'esercizio, dei crediti e dei debiti in valuta estera risultanti in bilancio, anche sotto forma di obbligazioni o titoli similari, è consentita se effettuata per la totalità di essi. Si applica la disposizione dell'ultimo periodo del comma 1 dell'articolo 72, qualora i contratti di copertura non siano valutati in modo coerente.
+ 2) nel comma 1, dopo la lettera c) è aggiunta, in fine, la seguente: " c-bis) per i titoli a reddito fisso, che costituiscono immobilizzazioni finanziarie e sono iscritti come tali in bilancio, la differenza positiva o negativa tra il costo d'acquisto e il valore di rimborso concorre a formare il reddito per la quota maturata nell'esercizio."; 
  
 
- Per le imprese che intrattengono in modo sistematico rapporti in valuta estera è consentita la tenuta della contabilità plurimonetaria con l'applicazione del cambio di fine esercizio ai saldi dei relativi conti."; 
+ 3) nel comma 2, l'ultimo periodo è sostituito dai seguenti: "La valutazione, secondo il cambio alla data di chiusura dell'esercizio, dei crediti e dei debiti in valuta estera risultanti in bilancio, anche sotto forma di obbligazioni o titoli similari, è consentita se effettuata per la totalità di essi. Si applica la disposizione dell'ultimo periodo del comma 1 dell'articolo 72, qualora i contratti di copertura non siano valutati in modo coerente. Per le imprese che intrattengono in modo sistematico rapporti in valuta estera è consentita la tenuta della contabilità plurimonetaria con l'applicazione del cambio di fine esercizio ai saldi dei relativi conti."; 
  
 
  
+ 
+ ((3-bis) il comma 6 è sostituito dal seguente: 
+ 
+
+ "6. La rettifica da parte dell'ufficio delle valutazioni fatte dal contribuente in un esercizio ha effetto anche per gli esercizi successivi. L'ufficio tiene conto direttamente delle rettifiche operate e deve procedere a rettificare le valutazioni relative anche agli esercizi successivi." ))
+ 
+
  
 
  
  s) dopo l'articolo 103 è inserito il seguente: 
  
 
- "Art. 103-bis (Enti creditizi e finanziari) . - 1. Alla formazione del reddito degli enti creditizi e finanziari indicati nell'articolo 1 del decreto legislativo 27 gennaio 1992, n. 87, concorrono i componenti positivi e negativi che risultano dalla valutazione delle operazioni 'fuori bilanciò, in corso alla data di chiusura dell'esercizio, derivanti da contratti che hanno per oggetto titoli, valute o tassi d'interesse, o che assumono come parametro di riferimento per la determinazione della prestazione la quotazione di titoli o valute ovvero l'andamento di un indice su titoli, valute o tassi d'interesse. 
+ "Art. 103-bis (Enti creditizi e finanziari). - 1. Alla formazione del reddito degli enti creditizi e finanziari indicati nell'articolo 1 del decreto legislativo 27 gennaio 1992, n. 87, concorrono i componenti positivi e negativi che risultano dalla valutazione delle operazioni 'fuori bilanciò, in corso alla data di chiusura dell'esercizio, derivanti da contratti che hanno per oggetto titoli, valute o tassi d'interesse, o che assumono come parametro di riferimento per la determinazione della prestazione la quotazione di titoli o valute ovvero l'andamento di un indice su titoli, valute o tassi d'interesse. 
  
 
  2. La valutazione di cui al comma 1 è effettuata secondo i criteri previsti dagli articoli 15, comma 1, lettera c), 18, comma 3, 20, comma 3, e 21, commi 2 e 3, del decreto legislativo 27 gennaio 1992, n. 87. A tal fine i componenti negativi non possono essere superiori alla differenza tra il valore del contratto o della prestazione alla data della stipula o a quella di chiusura dell'esercizio precedente e il corrispondente valore alla data di chiusura dell'esercizio. Per la determinazione di quest'ultimo valore, si assume: 
