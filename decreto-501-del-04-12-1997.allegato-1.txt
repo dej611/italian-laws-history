@@ -1,0 +1,334 @@
+Allegato 
+ 
+
+ REGOLA TECNICA PER L'OMOLOGAZIONE DEGLI APPARECCHI TELEFONICI SENZA CORDONE IN TECNICA ANALOGICA. 
+ 
+
+ 1. Generalità. 
+ 
+
+ 1.1. Oggetto e scopo. 
+ 
+
+ La presente regola tecnica ha lo scopo di fissare la terminologia e di stabilire le prescrizioni di carattere tecnico per la omologazione degli apparecchi telefonici senza cordone di tipo analogico operanti nelle bande di frequenze 914-915 MHz/959-960 MHz, denominati "CT1". 
+ 
+
+ 1.2. Costituzione degli apparecchi. 
+ 
+
+ Gli apparecchi telefonici senza cordone sono costituiti da una parte fissa collegata ad una linea telefonica e da una o più parti mobili collegate tramite onde elettromagnetiche alla parte fissa ed atte a consentire il servizio di un normale apparecchio telefonico entro un'area limitata attorno alla parte fissa. 
+ 
+
+ 1.3. Impiego. 
+ 
+
+ I telefoni senza cordone possono essere impiegati per comunicazioni telefoniche effettuate tramite la "rete telefonica pubblica" direttamente o indirettamente attraverso un impianto interno (Pabx); pertanto il circuito fonico deve consentire, una od entrambe, le seguenti modalità operative: 
+ 
+
+ predisposizione per l'accesso diretto alla rete telefonica nazionale (RTN); 
+ 
+
+ predisposizione per l'accesso tramite impianto interno alla RTN (Pabx). 
+ 
+
+ Il raggio d'azione del telefono senza cordone è limitato a circa 20-50 metri all'interno di edifici ed a circa 200 metri all'aperto in assenza di ostacoli. 
+ 
+
+ 1.4. Riferimenti normativi. 
+ 
+
+ La presente regola tecnica fa riferimento alle seguenti normative vigenti: 
+ 
+
+ a) I-ETS 300-235 - radio equipment and system (RES); technical characteristics, test conditions and methods of measurements for radio aspects of cordless telephones CT1; 
+ 
+
+ b) NET 4 (ETS 300-001) - attachments to public switched telephone network (PSTN) general technical requirements for equipments connected to analogue subscriber interface in the PSTN; 
+ 
+
+ c) norma tecnica CEI 303-12- apparecchi telefonici con collegamento analogico alla rete telefonica italiana; 
+ 
+
+ d) CENELEC EN 60950 - safety of information technology equipment, including electrical business equipment; 
+ 
+
+ e) CENELEC EN 41003 - particular safety requirements for equipment to be connected to telecommunication networks. 
+ 
+
+ 1.5. Abbreviazioni. 
+ 
+
+ ERP: punto di riferimento dell'orecchio (ear reference point); 
+ 
+
+ MRP: punto di riferimento della bocca (mouth reference point); 
+ 
+
+ LRGP: posizione dell'anello di guardia per la misura indice intensità soggettiva; 
+ 
+
+ RTN: rete telefonica nazionale. 
+ 
+
+ 2. Prescrizioni tecniche generali. 
+ 
+
+ 2.1. Prestazioni. 
+ 
+
+ L'apparecchio telefonico senza cordone permette all'utente di attuare le seguenti funzioni entro un determinato raggio d'azione dalla base: impegno, selezione, comunicazione, risposta, disimpegno. 
+ 
+
+ La parte fissa e la parte portatile dell'apparecchio telefonico senza cordone devono emettere la chiamata acustica; la parte fissa è prevista per inserzione multipla sulla stessa linea. 
+ 
+
+ 2.2. Segnalazioni. 
+ 
+
+ Le segnalazioni sono quelle previste dalla norma ETSI I-ETS 300-235; inoltre la parte fissa dell'apparecchio telefonico senza cordone deve avere le seguenti segnalazioni: 
+ 
+
+ a) alimentazione, indica che la parte fissa è accesa ed alimentata; 
+ 
+
+ b) collegamento radio, indica che sull'apparecchio telefonico senza cordone è avvenuto l'impegno di un canale radio. 
+ 
+
+ Quando è previsto il dispositivo caricabatteria, deve esistere una indicazione ottica che segnali che la parte portatile è in posizione di ricarica. 
+ 
+
+ 2.3. Disimpegno automatico. 
+ 
+
+ Con conversazione in corso, quando la parte portatile viene posta in posizione di ricarica, devono essere disimpegnati automaticamente sia il canale radio, sia la RTN. 
+ 
+
+ 2.4. Prescrizioni per la sicurezza del collegamento nell'apparecchio telefonico dotato di più parti mobili. 
+ 
+
+ Le parti portatili aggiuntive dell'apparecchio telefonico senza cordone devono potersi collegare alla parte fissa inviando il codice di identificazione, così come previsto dalla norma ETSI I-ETS 300-235; tale codice deve contenere la parte di identificativo assegnato dal Ministero delle comunicazioni. 
+ 
+
+ 3. Prescrizioni per il collegamento alla linea telefonica. 
+ 
+
+ Le prescrizioni relative al collegamento alla linea telefonica e le modalità di misura sono definite nella NET 4 per quanto applicabile con le deroghe sottoriportate. 
+ 
+
+ 3.1. Livello di rumore. 
+ 
+
+ Il livello di rumore psofometrico in emissione deve essere leq -60 dBmps (NET 4 par. 4.5.1). 
+ 
+
+ 3.2. Chiamata. 
+ 
+
+ L'organo di chiamata inserito nelle parti fisse deve attivarsi durante il primo segnale di chiamata (NET 4 ed. agosto 1992 par. 6.2.1 I 1-2) entro 1s, invece che 200 ms. 
+ 
+
+ 3.3. Selezione. 
+ 
+
+ Il valore della pausa intercifra "Tp" (NET 4 ed. agosto 1992 par.
+ 
+
+ 5.4.7.2) deve essere compreso tra 65 ms e 1000 ms, invece che tra 65 ms e 150 ms. 
+ 
+
+ 3.4. Esclusioni. 
+ 
+
+ I remark italiani 7.1(I)1 e 7.2(I)1 (NET 4 ed. agosto 1992), relativi alla presenza della funzionalità telefonica in caso di interruzione della tensione di alimentazione, sono esclusi. 
+ 
+
+ 4. Caratteristiche in bassa frequenza. 
+ 
+
+ Le prescrizioni relative alle caratteristiche in bassa frequenza sono definite nella norma tecnica CEI 303-12 per quanto applicabile con le deroghe sotto riportate. 
+ 
+
+ 4.1. Curva di risposta in emissione. 
+ 
+
+ La curva di risposta in emissione del sistema d'utente, espressa in dB riferiti a 1 V/Pa in funzione della frequenza, deve essere compresa, dopo opportuna traslazione lungo l'asse delle ordinate, nella maschera definita dai limiti indicati in tabella 4.1. 
+ 
+
+ 
+ 
+
+ ____________________________________________________________________ 
+ 
+
+ 
+ 
+
+ Frequenza (Hz) Limite inferiore (dB) Limite superiore (dB) 
+ 
+
+ 
+ 
+
+ ____________________________________________________________________ 100 - + 2
+ 
+
+ 300 - 13 + 2
+ 
+
+ 1.500 0 + 12
+ 
+
+ 2.200 0 + 12
+ 
+
+ 3.000 - 3 + 12
+ 
+
+ 4.000 - + 12
+ 
+
+ 7.000 - - 8
+ 
+
+ 10.000 - - 8
+ 
+
+ ____________________________________________________________________ 
+ 
+
+ 
+ 
+
+ Tabella 4.1 
+ 
+
+ La misura deve essere effettuata con linea artificiale CEI da 300 Ohm. Il sistema d'utente è chiuso su di un carico resistivo di 600 Ohm. Il portatile è montato in posizione LRGP sulla testa artificiale. 
+ 
+
+ La bocca artificiale ITU/T P.51 viene eccitata in modo da generare in campo libero, al MPR, un rumore gaussiano con spettro conforme alla racc/ne ITU/P P.50 e con livello di pressione sonora pari a 89,3 dB(L). 
+ 
+
+ La curva di risposta, espressa in dB riferiti a 1 V/Pa , è definita come la differenza fra il livello spettrale a terzi di ottava della tensione misurata in uscita al sistema chiuso su 600 Ohm ed il livello spettrale della pressione acustica erogata al MRP. 
+ 
+
+ 4.2. Curva di risposta in ricezione. 
+ 
+
+ La curva di risposta in ricezione del sistema d'utente, espressa in dB riferiti a 1 Pa/V in funzione della frequenza, deve essere compresa, dopo opportuna traslazione lungo l'asse delle ordinate, nella maschera definita dai limiti riportati in tabella 4.2. 
+ 
+
+ 
+ 
+
+ ____________________________________________________________________ 
+ 
+
+ 
+ 
+
+ Frequenza (Hz) Limite inferiore (dB) Limite superiore (dB) 
+ 
+
+ 
+ 
+
+ ____________________________________________________________________ 100 - 0
+ 
+
+ 300 -13 0
+ 
+
+ 500 -10 0
+ 
+
+ 1.000 -10 0
+ 
+
+ 2.000 -10 +2
+ 
+
+ 2.200 -10 +2
+ 
+
+ 3.000 -13 +2
+ 
+
+ 4.000 - +2
+ 
+
+ 7.000 - -18
+ 
+
+ 10.000 - -18
+ 
+
+ ____________________________________________________________________ 
+ 
+
+ 
+ 
+
+ Tabella 4.2 
+ 
+
+ La misura deve essere effettuata con linea artificiale CEI da 300 Ohm. 
+ 
+
+ Il portatile è montato in posizione LRGP sulla testa artificiale ed il ricevitore è accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1. 
+ 
+
+ Il livello di pressione acustica generato dal ricevitore è determinato mediante un microfono di misura, precedentemente calibrato, inserito nell'orecchio artificiale sopracitato. 
+ 
+
+ Il processo di calibrazione consiste nel determinare la sensibilità della catena microfonica, costituita dal microfono di misura e dal preamplificatore, utilizzando una sorgente di pressione sonora di riferimento. 
+ 
+
+ La curva di risposta in ricezione si intende rilevata eccitando il sistema d'utente con un generatore di rumore gaussiano avente spettro conforme alla racc/ne ITU/P P.51, impedenza interna di 600 Ohm e con una f.e.m. di 490 mVeff. 
+ 
+
+ La curva di risposta, espressa in dB riferiti a 1 Pa/V, è definita come la differenza fra il livello spettrale a terzi d'ottava del segnale acustico rilevato all'ERP ed il livello spettrale del segnale elettrico erogato dal generatore su di un carico resistivo di 600 Ohm. 
+ 
+
+ 4.3. Rumore. 
+ 
+
+ Il livello di rumore in ricezione (norma tecnica CEI 303-12 par. 5.1), rilevato con l'eventuale controllo del regolatore di volume in condizioni nominali, deve essere leq -49 dB Pa(A). 
+ 
+
+ 4.4. Distorsione di non linearità. 
+ 
+
+ La distorsione di non linearità in emissione, ricezione e per effetto locale (norma tecnica CEI 303-12 par. 6.4, 6.5, 6.6) deve essere rilevata utilizzando come livelli di eccitazione quelli prescritti per i relativi indici di intensità soggettiva definiti nella norma tecnica CEI 303-12 ai par. 6.3.1, 6.3.2 e 6.3.3, applicando i limiti e le condizioni prescritte dalla I-ETS 300-235 - annesso C3. 
+ 
+
+ 4.5. Chiamata. 
+ 
+
+ Il livello sonoro generato dall'organo di chiamata (norma tecnica CEI 303-12 par. 7.1) inserito nelle parti mobili, deve essere geq -43 dB Pa(A). 
+ 
+
+ 4.6. Esclusioni. 
+ 
+
+ Il par. 4 (norma tecnica CEI 303-12), per quanto concerne l'alimentazione dalla linea di telecomunicazione della parte telefonica, è escluso. 
+ 
+
+ Il par. 8.2 (norma tecnica CEI 303-12), relativo all'ausilio per deboli d'udito, è escluso. 
+ 
+
+ 5. Caratteristiche radioelettriche. 
+ 
+
+ Le prescrizioni relative alle caratteristiche radioelettriche sono definite nella norma ETSI I-ETS 300-235, con l'esclusione dell'annesso B relativo alle prescrizioni tecniche per gli apparecchi telefonici senza cordone tipo CT1+. 
+ 
+
+ 6. Requisiti di sicurezza. 
+ 
+
+ Le prescrizioni relative ai requisiti di sicurezza sono definite nella EN 41003 e nella EN 60950. 
+ 
+
+ Visto, il Ministro delle comunicazioni 
+ 
+
+ Maccanico
