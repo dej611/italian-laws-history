@@ -1,0 +1,109 @@
+TABELLA D (Articolo 33) 
+ 
+
+ Valutazione del rischio: Ambiente 
+ 
+
+ 1. IDENTIFICAZIONE DEL PERICOLO 
+ 
+
+ 1.1. Nel caso di sostanze non classificate come pericolose per l'ambiente, spetta all'Unità di notifica valutare se sussistano validi motivi per svolgere una caratterizzazione del rischio esaminando in particolare i seguenti aspetti: 
+ 
+
+ i) indicazioni di un potenziale di bioaccumulazione; 
+ 
+
+ ii) andamento della curva tossicità/tempo nelle prove di ecotossicità; 
+ 
+
+ iii) indicazioni di altri effetti dannosi sulla base di studi di tossicità, per esempio classificazione quale sostanza mutagena, tossica o molto tossica o nociva con la frase di rischio R40 ("Possibilità di effetti irreversibili") oppure R 48 ("Pericolo di seri danni per la salute causati da esposizione prolungata"); 
+ 
+
+ iv) dati su sostanze strutturalmente analoghe. 
+ 
+
+ 1.2. Qualora l'Unità di notifica ritenga che sussistono validi motivi per svolgere una caratterizzazione del rischio di una sostanza non classificata pericolosa per l'ambiente e per la quale i dati relativi agli effetti sugli organismi sono insufficienti, essa pro- cede, ove necessario, secondo il disposto dell'articolo 34, comma 1, lettere b) o c). 
+ 
+
+ Valutazione del rapporto dose o concentrazione e risposta o effetto. 
+ 
+
+ 2.1. In questo caso si deve prevedere la concentrazione della sostanza sotto la quale non sono previsti effetti dannosi per il comparto ambientale a rischio. Questa concentrazione è considerata la prevedibile concentrazione senza effetti (PNEC, predicted no- effect concentration). 
+ 
+
+ 2.2. La PNEC è determinata in base alle informazioni contenute nel fascicolo di notifica riguardanti gli effetti sugli organismi, come descritto nel punto 5 dell'allegato VII, parte A, o VII, parte B, e in base agli studi di ecotossicità descritti nell'allegato VIII (livelli 1 e 2). 
+ 
+
+ 2.3. Per il calcolo della PNEC si applica un fattore di valutazione ai valori risultanti dai saggi sugli organismi, per esempio LD 50 (dose letale media), CL 50 (concentrazione letale media), CE 50 (concentrazione efficace media), CI 50 (concentrazione che porta ad una inibizione del 50% di un dato parametro, per esempio la crescita), NOEL(C) (NOEL concentrazione) oppure LOEL(C) (LOEL concentrazione). 
+ 
+
+ 2.4. Il fattore di valutazione esprime il grado di incertezza nell'estrapolazione dei dati sperimentali su un limitato numero di specie all'ambiente reale. Per tale motivo, quanto più sono ampi i dati e quanto più lunga è la durata delle prove, tanto più piccolo sarà il grado di incertezza e la dimensione del fattore di 
+ 
+
+ valutazione . 
+ 
+
+ 
+ 
+
+ Ad un valore di CL(E) 50 derivato dai risultati delle prove di 
+ 
+
+ tossicità acuta è generalmente applicato un fattore di valutazione di 1000; tuttavia tale fattore può essere ridotto alla luce di altre informazioni pertinenti. Si applica un fattore di valutazione più basso ad un NOEC derivato dai risultati di prova di tossicità cronica. 
+ 
+
+ 3. VALUTAZIONE DELL'ESPOSIZIONE 
+ 
+
+ 3.1. La valutazione dell'esposizione deve elaborare una previsione della concentrazione della sostanza che si può eventualmente ritrovare nell'ambiente. 
+ 
+
+ Tale concentrazione è detta la concentrazione ambientale prevista (PEC). In alcuni casi non è tuttavia possibile definire il PEC e occorre procedere ad una stima qualitativa dell'esposizione. 
+ 
+
+ 3.2. Occorre determinare la PEC, o in sua mancanza svolgere la stima qualitativa dell'esposizione, solo per i comparti ambientali per i quali sono ragionevolmente prevedibili emissioni, discariche, eliminazione o distribuzione. 
+ 
+
+ 3.3. Per il calcolo della PEC o per la stima qualitativa dell'esposizione ci si basa sulle informazioni contenute nel fascicolo tecnico di cui all'allegato VII, parte A, VII, parte B, VII, parte C o all'allegato VIII compresi, ove necessario, i seguenti elementi: 
+ 
+
+ i) dati di esposizione opportunamente misurati; 
+ 
+
+ ii) quantità della sostanza commercializzata; 
+ 
+
+ iii) forma di commercializzazione o di utilizzazione della sostanza (es.: tale quale oppure come componente di un preparato); 
+ 
+
+ iv) categorie di utilizzazione e grado di contenimento; 
+ 
+
+ v) dati di lavorazione, ove necessaria; 
+ 
+
+ vi) proprietà fisico-chimiche della sostanza, in particolare punto di fusione, punto di ebollizione, pressione di vapore, tensione superficiale, solubilità in acqua, coefficiente di ripartizione n- ottanolo/acqua; 
+ 
+
+ vii) vie probabili di passaggio ai comparti ambientali e potenziali di assorbimento/desorbimento e di degradazione; 
+ 
+
+ viii) frequenza e durata dell'esposizione. 
+ 
+
+ 3.4. La PEC o la stima qualitativa dell'esposizione delle sostanze commercializzate in quantità inferiori a 10 tonnellate/anno (o cumulativamente 50 tonnellate) è normalmente determinata per l'ambiente locale generico nel quale può verificarsi un'emissione della sostanza. 
+ 
+
+ 4. CARATTERIZZAZIONE DEL RISCHIO 
+ 
+
+ 4.1. Per un dato comparto ambientale la caratterizzazione del rischio comprende, per quanto possibile, un raffronto della PEC con la PNEC, in modo da poter calcolare il rapporto PEC/PNEC. Se il rapporto PEC/PNEC è inferiore o uguale a 1, si applica la conclusione di cui all'articolo 34, comma 1, lettera a). Se il rapporto è superiore a 1, l'Unità di notifica deve decidere, sulla base della misura di tale rapporto e di altri fattori pertinenti, per esempio quelli elencati ai punti 1.1(i)-1.1(iv), quale sia la conclusione applicabile tra quelle di cui all'articolo 34, comma 1, lettere b), c) o d). 
+ 
+
+ 4.2 Qualora non sia stato possibile calcolare il rapporto PEC/PNEC, la caratterizzazione del rischio deve comprendere una valutazione qualitativa della probabilità che si verifichi un dato effetto nelle condizioni previste di esposizione. Dopo aver svolto tale valutazione e tenendo conto di altri fattori pertinenti, quali quelli elencati al punto 1.1, l'Unità di notifica decide quale delle quattro conclusioni dell'articolo 34, comma 1, sia d'applicazione. 
+ 
+
+ 5.INTEGRAZIONE 
+ 
+
+ 5.1 Secondo il disposto dell'articolo 33, la caratterizzazione del rischio può riguardare più di un comparto ambientale. In questo caso l'Unità di notifica deve decidere quale delle quattro conclusioni di cui all'articolo 34 applicare a ciascun comparto. Dopo aver completato la valutazione del rischio, l'Unità di notifica deve riesaminare le diverse conclusioni ed elaborare una conclusione integrata che tenga conto di tutti gli effetti di quella data sostanza per l'ambiente.

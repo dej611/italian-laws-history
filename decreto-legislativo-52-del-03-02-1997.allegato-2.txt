@@ -1,0 +1,166 @@
+TABELLA B (Articolo 32) 
+ 
+
+ Valutazione del rischio: Salute umana (tossicità) 
+ 
+
+ PARTE A 
+ 
+
+ La valutazione del rischio svolta in conformità dell'articolo 32 deve tener conto dei seguenti effetti tossici potenziali e delle categorie di popolazione potenzialmente esposte. 
+ 
+
+ EFFETTI 
+ 
+
+ 1) Tossicità acuta 
+ 
+
+ 2) Irritazione 
+ 
+
+ 3) Corrosività 
+ 
+
+ 4) Sensibilizzazione 
+ 
+
+ 5) Tossicità per dose ripetuta 
+ 
+
+ 6) Mutagenicità 
+ 
+
+ 7) Cancerogenicità 
+ 
+
+ 8) Tossicità riproduttiva 
+ 
+
+ CATEGORIA DI POPOLAZIONI 
+ 
+
+ 1) Lavoratori 
+ 
+
+ 2) Consumatori 
+ 
+
+ 3) Uomo esposto indirettamente attraverso l'ambiente 
+ 
+
+ PARTE B 
+ 
+
+ 1. IDENTIFICAZIONE DEL PERICOLO 
+ 
+
+ 1.1 Qualora sia stato eseguito il saggio appropriato per l'identificazione del pericolo in merito ad un dato effetto potenziale della sostanza, e qualora i risultati del saggio non abbiano condotto alla sua classificazione non è necessario procedere alla caratterizzazione del rischio per l'effetto in questione, a meno che non sussistano altri validi motivi di preoccupazione, per esempio, risultati positivi dei saggi in vitro di mutagenicità. 
+ 
+
+ 1.2 Qualora non sia ancora stato eseguito il saggio appropriato per l'identificazione del pericolo in merito ad un dato effetto potenziale la caratterizzazione del rischio in merito a tale effetto non è necessaria a meno che non sussistano altri validi motivi di preoccupazione, per esempio, considerazioni relative all'esposizione o indicazioni di tossicità potenziale basata sulla relazione struttura attività. 
+ 
+
+ 2. VALUTAZIONE DEL RAPPORTO TRA DOSE O CONCENTRAZIONE E RISPOSTA O EFFETTO. 
+ 
+
+ 2.1. Per la valutazione della tossicità a dose ripetuta e della tossicità riproduttiva occorre valutare il rapporto dose-risposta e, se possibile, determinare il NOAEL (no-observed-adverse-effect- level). Se non è possibile determinare il NOAEL occorre determinare la dose/concentrazione più bassa correlata con effetto dannoso, cioè il LOAEL (lowest-observed-adverse-effect-level). 
+ 
+
+ 2.2. Per le prove di tossicità acuta, corrosività e irritazione non è generalmente possibile determinare il NOAEL o il LOAEL basandosi sui risultati delle prove svolte in base al presente decreto. Per la tossicità acuta occorre determinare la DL 50 o la CL 50 oppure, qualora si ricorra alla procedura a dose fissa, la dose discriminante. Per gli altri effetti sarà sufficiente determinare se la sostanza in questione ha la capacità intrinseca di causare tale effetto. 
+ 
+
+ 2.3. Per le prove di mutagenicità e cancerogenicità è sufficiente determinare se la sostanza in questione ha la capacità intrinseca di causare tali effetti. Tuttavia, qualora sia dimostrato che una determinata sostanza identificata come cancerogena non è genotossica, sarà opportuno determinare il NOAEL o LOAEL secondo quanto disposto al punto 2.1. 
+ 
+
+ 2.4. Per le prove di sensibilizzazione cutanea e delle vie respiratorie, nella misura in cui non vi è un consenso sulla possibilità di individuare una dose/concentrazione al di sotto della quale gli effetti dannosi non dovrebbero manifestarsi in un soggetto già sensibilizzato ad una data sostanza, sarà sufficiente determinare se la sostanza in questione ha la capacità intrinseca di causare tali effetti. 
+ 
+
+ 3. VALUTAZIONE DELL'ESPOSIZIONE 
+ 
+
+ 3.1 Occorre eseguire una valutazione dell'esposizione per ciascuna categoria di popolazione potenzialmente esposta alla sostanza in questione (lavoratori, consumatori e uomo esposto indirettamente attraverso l'ambiente). Tale valutazione deve mirare ad una stima quantitativa o qualitativa della dose/concentrazione della sostanza alla quale può essere esposta una determinata popolazione. Detta stima deve tener conto delle variazioni spaziali e temporali del modello di esposizione. 
+ 
+
+ 3.2. La valutazione dell'esposizione deve basarsi sulle informazioni contenute nel fascicolo tecnico trasmesso secondo il disposto della parte 2 degli allegati VII, parte A, VII, parte B o VII, parte C, e su ogni altra informazione rilevante eventualmente disponibile. Per tale valutazione si deve tenere conto dei seguenti elementi: 
+ 
+
+ i) dati di esposizione misurati in maniera adeguata; 
+ 
+
+ ii) quantità di sostanza immessa sul mercato; 
+ 
+
+ iii) forma di commercializzazione o di utilizzazione della sostanza (es. in quanto tale oppure in quanto componente di un preparato); 
+ 
+
+ iv) categorie di utilizzazione e grado di confinamento; 
+ 
+
+ v) eventualmente dati relativi alla lavorazione; 
+ 
+
+ vi) proprietà fisico-chimiche della sostanza incluse, ove 
+ 
+
+ necessario, le proprietà conferitele dal processo di lavorazione (es.: formazione di aerosol); 
+ 
+
+ vii) vie probabili di esposizione e potenziale assorbimento; 
+ 
+
+ viii) frequenza e durta dell'esposizione; 
+ 
+
+ ix) tipo e dimensione delle popolazioni specifiche esposte, qualora 
+ 
+
+ tale informazione sia disponibile. 
+ 
+
+ 3.3. Qualora per la stima dei livelli di esposizione si ricorra ai metodi predittivi, si darà preferenza ai dati rilevanti di monitoraggio derivati da sostanze caratterizzate da un uso e un modello di esposizione analoghi. 
+ 
+
+ 3.4. Qualora la sostanza in questione sia contenuta in un preparato, l'esame dell'esposizione alla sostanza nel preparato è necessario solo se quest'ultimo è classificato sulla base delle proprietà tossicologiche della sostanza in questione, ai sensi della normativa sui preparati pericolosi, a meno che non vi siano altri validi motivi di preoccupazione. 
+ 
+
+ 4. CARATTERIZZAZIONE DEL RISCHIO 
+ 
+
+ 4.1. Qualora sia stato identificato un NOAEL o LOAEL, la caratterizzazione del rischio relativa a ciascuno degli effetti in questione deve comprendere un raffronto del NOAEL o LOAEL con la stima della dose/concentrazione alla quale la popolazione sarà esposta. Se è disponibile una stima quantitativa dell'esposizione, si dovrà determinare un rapporto livello di esposizione/NOAEL o LOAEL. Basandosi sul raffronto tra la stima quantitativa o qualitativa dell'esposizione e il NOAEL o LOAEL l'Unità di notifica decide quale conclusione, tra la quattro previste all'articolo 34, sia di applicazione. 
+ 
+
+ 4.2. Se, per uno o piudegli effetti indicati in Tabella 
+ ((B))
+
+ , parte A, il NOAEL o LOAEL non è stato determinato, la caratterizzazione del rischio relativa ad ognuno di tali effetti deve comprendere una valutazione, basata sulle informazioni quantitative e/o qualitative relative all'esposizione della popolazione in esame, della probabilità che l'effetto in questione si verifichi (1). Dopo aver proceduto alla valutazione, l'Unità di notifica decide quale conclusione, tra le quattro previste all'articolo 34, sia di applicazione. 
+ 
+
+ 
+ 
+
+ 4.3. Nel decidere quale conclusione applicare tra le quattro previste all'articolo 34, l'Unità di notifica tiene conto tra l'altro dei seguenti elementi: 
+ 
+
+ i) l'incertezza derivante, tra gli altri fattori, dalla variabilità dei dati sperimentali e della variazione intra- e inter- specie; 
+ 
+
+ ii) la natura e la gravità dell'effetto; 
+ 
+
+ iii) la categoria di popolazione alla quale si applica l'informazione quantitativa o qualitativa sull'esposizione. 
+ 
+
+ 
+ 
+
+ (1) Qualora in assenza di NOAEL o LOAEL, risulti comunque dalla prove svolte un rapporto tra dose/concentrazione e gravità dell'effetto dannoso oppure qualora, nell'ambito di un metodo di prova che comporta il ricorso ad un'unica dose o concentrazione, sia possibile valutare la gravità relativa all'effetto, occorre tener conto anche di tali informazioni nella valutazione della probabilità che si verifichi l'effetto. 
+ 
+
+ 5 INTEGRAZIONE 
+ 
+
+ 5.1. In base al disposto dell'articolo 32, comma 1, si può procedere ad una caratterizzazione del rischio rispetto a più di un effetto dannoso potenziale o più di una categoria di popolazione. In tal caso l'unità di notifica deve determinare quale conclusione applicare a ciascun effetto tra le quattro previste all'articolo 34.
+ 
+
+ Dopo aver completato la valutazione del rischio, l'Unità di notifica riesamina le diverse conclusioni ed elabora una conclusione integrata relativa alla tossicità complessiva della sostanza in questione.
