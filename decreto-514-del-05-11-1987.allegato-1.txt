@@ -1,0 +1,1765 @@
+NORME PER LA DEFINIZIONE E L'ACCERTAMENTO DELLA POTENZA MASSIMA DI ESERCIZIO, LA COSTRUZIONE E LA SISTEMAZIONE A BORDO DEI MOTORI DELLE UNITà DA DIPORTO. 
+ 
+
+ 
+ 
+
+ Capitolo I 
+ 
+
+ ACCERTAMENTO E DEFINIZIONE DELLA POTENZA MASSIMA DI ESERCIZIO DEI MOTORI 
+ 
+
+ 1.1 Definizioni 
+ 
+
+ 
+ 
+
+ Ai fini dell'applicazione delle presenti norme s'intende per: 
+ 
+
+ - "ente tecnico", il Registro italiano navale, per il Ministero della marina mercantile; il Centro superiore ricerche e prove autoveicoli e dispositivi ed i centri prove autoveicoli e dispositivi per il Ministero dei trasporti; 
+ 
+
+ - "laboratorio", la sala prove ritenuta idonea dall'ente tecnico o la sala prove dell'ente tecnico stesso; 
+ 
+
+ - "costruttore", la ditta costruttrice del motore, ovvero, nel caso di ditte straniere, il rappresentante a tutti gli effetti legali della ditta medesima; 
+ 
+
+ - "potenza massima di esercizio", quella definita ai successivi punti 1.2, 1.3, 1.4, 1.5. 
+ 
+
+ 1.2 Motori diesel 
+ 
+
+ Per potenza massima di esercizio dei motori diesel destinati alle unità da diporto si intende la potenza massima intermittente, riferita alle condizioni standard, che il motore può sviluppare con tutta sicurezza e senza eccessivo riscaldamento per almeno un'ora dopo tre ore di funzionamento alla potenza continuativa. 
+ 
+
+ La potenza inoltre è quella utile data dal motore quando tutti i macchinari ausiliari, necessari per il funzionamento del motore ed azionati dal motore stesso, sono in funzione. 
+ 
+
+ La potenza suddetta è quella dichiarata dal costruttore e controllata con prova al banco secondo la seguente procedura: 
+ 
+
+ - 1 ora a regimi vari; 
+ 
+
+ - 3 ore alla potenza continuativa, come specificato sotto; 
+ 
+
+ - 1 ora alla potenza massima di esercizio; 
+ 
+
+ - 1 ora alla potenza continuativa, come specificato sotto; 
+ 
+
+ - 30 minuti alla potenza massima sopportabile dal motore. 
+ 
+
+ La potenza continuativa deve risultare non inferiore al 70% della potenza massima di esercizio ed in ogni caso la relativa pressione media effettiva non deve risultare inferiore per più del 15% rispetto a quella relativa alla potenza massima di esercizio. 
+ 
+
+ La potenza deve essere determinata direttamente all'uscita dell'albero a manovelle e pertanto, in generale, è necessario accoppiare la flangia dell'albero a manovelle al freno. 
+ 
+
+ Per i motori che portino incorporato in modo integrale un dispositivo di trasmissione, senza il quale non possano essere provati, la prova sarà effettuata con il motore completo di tale dispositivo. 
+ 
+
+ Il motore deve essere corredato di tutti gli accessori normali senza aggiungere, togliere o modificare alcuno di essi. 
+ 
+
+ Il combustibile deve essere dello stesso tipo usato in esercizio. 
+ 
+
+ Durante la prova devono essere rilevati ad intervalli regolari i seguenti dati: 
+ 
+
+ - forza al freno; 
+ 
+
+ - numero di giri al minuto; 
+ 
+
+ - temperatura, umidità relativa e pressione assoluta nella sala prove; 
+ 
+
+ - temperature dei gas di scarico, dell'olio lubrificante, 
+ 
+
+ dell'acqua o dell'aria di raffreddamento; 
+ 
+
+ - consumo del combustibile espresso in g/kWh (g/cvh) e l/h. 
+ 
+
+ La prova, interrotta per avarie od altri motivi, deve essere ripetuta per intero. 
+ 
+
+ Dopo la prova il motore deve essere smontato per controllare lo stato degli organi più importanti. 
+ 
+
+ Il valore in kW delle potenze rilevate alla prova deve essere corretto, se necessario, per riferirlo alle condizioni standard, come indicato al punto 1.7. 
+ 
+
+ Su richiesta del costruttore, i motori diesel di potenza continuativa maggiore o uguale a 110 kW, come definita ed accertata secondo le norme dell'ente tecnico per impiego navale diverso dal diporto, possono mantenere il valore della potenza sopradescritta quale potenza massima di esercizio per uso diporto senza effettuare le prove previste dalle presenti norme. 
+ 
+
+ 1.3 Motori a carburazione 
+ 
+
+ Per potenza massima di esercizio dei motori a carburazione destinati alle unità da diporto, si intende la potenza massima, al massimo numero di giri al minuto, riferita alle condizioni standard, che il motore può sopportare con tutta sicurezza e senza eccessivo riscaldamento per almeno un'ora dopo tre ore di funzionamento alla potenza continuativa. 
+ 
+
+ La potenza inoltre è quella utile data dal motore quando tutti i macchinari ausiliari, necessari per il funzionamento del motore ed azionati dal motore stesso, sono in funzione. 
+ 
+
+ La potenza suddetta è quella dichiarata dal costruttore e controllata con prova al banco secondo la seguente procedura: 
+ 
+
+ - 30 minuti a regimi vari; 
+ 
+
+ - 3 ore alla potenza continuativa, come sotto specificato; 
+ 
+
+ - 1 ora alla potenza massima di esercizio; 
+ 
+
+ - 1 ora alla potenza continuativa, come sotto specificato; 
+ 
+
+ - 30 minuti alla potenza massima sopportabile dal motore. 
+ 
+
+ La potenza continuativa deve risultare non inferiore al 70% della potenza massima di esercizio ed in ogni caso la relativa pressione media effettiva non deve risultare inferiore per più del 15% rispetto a quella relativa alla potenza massima di esercizio. 
+ 
+
+ La potenza deve essere determinata direttamente all'uscita dell'albero a manovelle e pertanto, in generale, è necessario accoppiare la flangia dell'albero a manovelle al freno. 
+ 
+
+ Per i motori che portino incorporato in modo integrale un dispositivo di trasmissione, senza il quale non possano essere provati, la prova sarà effettuata con il motore completo di tale dispositivo. 
+ 
+
+ Il motore deve essere corredato di tutti gli accessori normali senza aggiungere, togliere o modificare alcuno di essi. 
+ 
+
+ è permesso durante la prova sostituire le candele con altre nuove dello stesso tipo. 
+ 
+
+ Il combustibile o la miscela olio combustibile devono essere dello stesso tipo usato in esercizio. 
+ 
+
+ Durante la prova devono essere rilevati ad intervalli regolari i seguenti dati: 
+ 
+
+ - forza al freno; 
+ 
+
+ - numero di giri al minuto; 
+ 
+
+ - temperatura, umidità relativa e pressione assoluta nella sala prove; 
+ 
+
+ - temperature dell'olio lubrificante, dell'acqua o dell'aria di raffreddamento e dei punti più caldi dell'incastellatura del motore; 
+ 
+
+ - consumo del combustibile, o della miscela olio/combustibile, espresso in g/kWh (g/cvh) e l/h. 
+ 
+
+ La prova, interrotta per avarie o altri motivi, deve essere ripetuta per intero. 
+ 
+
+ Dopo la prova il motore deve essere smontato per controllare lo stato degli organi più importanti. 
+ 
+
+ Il valore in kW delle potenze rilevate alla prova deve essere corretto, se necessario, per riferirlo alle condizioni standard, come indicato al punto 1.7. 
+ 
+
+ 1.4 Motori azionanti idrogetti 
+ 
+
+ Per potenza massima di esercizio (Pg) dei motori a combustione interna, del tipo diesel o a carburazione, azionanti idrogetti si intende quella determinata dal prodotto P.C, in cui P è la potenza massima di esercizio del motore, accertata e definita ai sensi dei precedenti punti 1.2 e 1.3, e C è un coefficiente dato dalla seguente formula: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il valore della potenza così determinato deve essere arrotondato secondo quanto indicato al terzo comma del punto 2.7 c). 
+ 
+
+ Ai fini dell'applicazione delle presenti norme si intende per idrogetto un complesso meccanico che imprime all'unità la spinta propulsiva accelerando mediante una pompa una quantità d'acqua e scaricandola attraverso un apposito ugello in senso opposto al moto. 
+ 
+
+ Il riconoscimento dell'idrogetto viene effettuato mediante l'esecuzione delle prove di funzionamento ritenute necessarie dall'ente tecnico su un prototipo messo a disposizione dal costruttore. 
+ 
+
+ La potenza massima di esercizio, come definita al primo comma, è attribuibile al motore solo quanto sia accoppiato ad un idrogetto riconosciuto rispondente ai criteri stabiliti al terzo comma. 
+ 
+
+ 1.5 Motori elettrici 
+ 
+
+ Per potenza massima di esercizio dei motori elettrici destinati alle unità da diporto, s'intende la potenza che il motore può sopportare con tutta sicurezza e senza che vengano superate le sovratemperature ammissibili in relazione alla classe di isolamento prevista, dopo 3 ore di funzionamento alla potenza continuativa. 
+ 
+
+ La potenza suddetta è quella dichiarata dal costruttore e controllata con la prova al banco secondo la seguente procedura: 
+ 
+
+ - 3 ore alla potenza continuativa, come sotto specificato; 
+ 
+
+ - 1 ora alla potenza massima di esercizio. 
+ 
+
+ La potenza continuativa deve risultare non inferiore al 70% della potenza massima di esercizio. 
+ 
+
+ La potenza deve essere determinata direttamente all'uscita dall'albero motore e, pertanto, in generale è necessario accoppiare le flange dell'albero motore al freno. 
+ 
+
+ Per i motori che portino incorporato in modo integrale un dispositivo di trasmissione, senza il quale non possano essere provati, la prova sarà effettuata con il motore completo di tale dispositivo. 
+ 
+
+ Il motore deve essere corredato di tutti gli accessori normali senza aggiungere, togliere o modificare alcuno di essi. 
+ 
+
+ Durante la prova deve essere rilevata ad intervalli regolari l'intensità di corrente assorbita A. 
+ 
+
+ La prova, interrotta per avaria od altri motivi, deve essere ripetuta per intero. 
+ 
+
+ 1.6 Motori di altro tipo 
+ 
+
+ Nel caso di motori di tipo diverso da quelli citati in 1.2, 1.3, 1.4 e 1.5 l'accertamento della potenza massima di esercizio è effettuato dall'ente tecnico secondo criteri appropriati al tipo di motore, a giudizio dell'ente stesso. 
+ 
+
+ 1.7 Condizioni standard di riferimento e metodo di correzione della 
+ 
+
+ potenza 
+ 
+
+ Le condizioni standard cui devono essere riferite le potenze definite ai precedenti punti 1.2, 1.3 e 1.5 sono le seguenti: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ temperatura del fluido di raffreddamento dell'aria di sovralimentazione all'entrata del refrigerante, Tcr,da assumere pari a 300 K (27° C)se la refrigerazione è a circuito aperto e pari a 350 K (77° C)se la refrigerazione è a circuito chiuso (deve essere indicato nel verbale delle prove il valore scelto per Tcr). 
+ 
+
+ La potenza misurata, quando necessario, deve essere corretta per riportarla alle condizioni standard con il seguente metodo: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note: 
+ 
+
+ 
+ 
+
+ a) I valori dati in tabella possono essere sostituiti con altri ritenuti più affidabili, indicati nei verbali delle prove. 
+ 
+
+ b) Il valore del rendimento meccanico deve essere dichiarato e documentato dal costruttore. In mancanza di quanto sopra si assume n = 0,8. 
+ 
+
+ c) Nel dichiarare la potenza dei motori diesel senza turbosoffiante il costruttore deve specificare se la potenza è limitata da ragioni termiche o per eccesso di aria. 
+ 
+
+ 
+ 
+
+ Capitolo II 
+ 
+
+ EFFETTUAZIONE DELLE PROVE 
+ 
+
+ 
+ 
+
+ 2.1 Domanda per l'omologazione di un prototipo di motori o per il riconoscimento di un prototipo di idrogetti 
+ 
+
+ Per l'omologazione di un prototipo di motori o per il riconoscimento di un prototipo di idrogetti, il costruttore deve presentare domanda ad uno degli enti tecnici, corredata della documentazione tecnica di cui al successivo punto 2.2. 
+ 
+
+ La domanda deve essere firmata dal costruttore e deve indicare il luogo dove debbono essere scelti dall'ente tecnico gli esemplari dei motori da sottoporre alle prove, il laboratorio presso il quale si intenda effettuare le prove e la persona responsabile che parteciperà alle prove stesse. Nel caso in cui nella domanda venga indicato il laboratorio dell'ente tecnico e le prove non possano essere ivi effettuate, il costruttore dovrà indicare presso quale altro laboratorio intenda effettuare le prove stesse. 
+ 
+
+ Alla domanda deve essere allegata, inoltre, l'attestazione del versamento previsto dalla tabella annessa alla legge 11 febbraio 1971, n. 50 e successive modificazioni ed integrazioni. 
+ 
+
+ 2.2 Allegati alla domanda di cui al punto 2.1 
+ 
+
+ Alla domanda per l'omologazione di un prototipo di motori o per il riconoscimento di un prototipo di idrogetti devono essere allegati gli atti tecnici costituiti da una dettagliata monografia del motore, con l'indicazione, in particolare, delle seguenti caratteristiche: 
+ 
+
+ a) per i motori di tipo diesel: 
+ 
+
+ - sigla di individuazione del tipo di motore; 
+ 
+
+ - numero dei tempi; 
+ 
+
+ - numero dei cilindri; 
+ 
+
+ - diametro dei cilindri; 
+ 
+
+ - corsa degli stantuffi; 
+ 
+
+ - cilindrata; 
+ 
+
+ - rapporto geometrico di compressione; 
+ 
+
+ - caratteristiche delle luci di scarico e di aspirazione; 
+ 
+
+ - caratteristiche dei collettori di scarico e di aspirazione; 
+ 
+
+ - alzata massima e caratteristiche delle valvole; 
+ 
+
+ - massimo numero di giri al minuto sopportabile dal motore; 
+ 
+
+ - valori della potenza massima sopportabile, della potenza 
+ 
+
+ massima di esercizio e della potenza continuativa; 
+ 
+
+ - numero di giri al minuto corrispondenti alle dette potenze; 
+ 
+
+ - condizioni limitative (eccesso d'aria o ragioni termiche) per 
+ 
+
+ i motori senza turbosoffiante; 
+ 
+
+ - tipo e caratteristiche dettagliate del sistema di iniezione e 
+ 
+
+ relativa taratura; 
+ 
+
+ - tipo e taratura degli iniettori; 
+ 
+
+ - tipo e caratteristiche dettagliate dell'eventuale impianto di 
+ 
+
+ sovralimentazione; 
+ 
+
+ - tipo di raffreddamento del motore; 
+ 
+
+ - caratteristiche del combustibile previsto; 
+ 
+
+ - caratteristiche dell'olio lubrificante previsto; 
+ 
+
+ - curve caratteristiche del motore (precisare lo standard usato 
+ 
+
+ per la loro determinazione); 
+ 
+
+ - massa del motore (nel caso di serbatoio incorporato si 
+ 
+
+ considera la massa del serbatoio riempito a metà); 
+ 
+
+ b) per i motori a carburazione: 
+ 
+
+ - sigla di individuazione del tipo del motore; 
+ 
+
+ - numero dei tempi; 
+ 
+
+ - numero dei cilindri; 
+ 
+
+ - diametro dei cilindri; 
+ 
+
+ - corsa degli stantuffi; 
+ 
+
+ - cilindrata; 
+ 
+
+ - rapporto geometrico di compressione; 
+ 
+
+ - massimo numero di giri al minuto sopportabile dal motore; 
+ 
+
+ - valori della potenza massima sopportabile, della potenza 
+ 
+
+ massima di esercizio e della potenza continuativa; 
+ 
+
+ - numero di giri al minuto corrispondenti alle dette potenze; 
+ 
+
+ - tipo e caratteristiche dettagliate del carburatore e 
+ 
+
+ dell'eventuale pompa di iniezione; 
+ 
+
+ - caratteristiche delle luci di scarico e di aspirazione; 
+ 
+
+ - caratteristiche dei collettori di scarico e di aspirazione; 
+ 
+
+ - diagramma della distribuzione; 
+ 
+
+ - alzata massima e caratteristiche delle valvole; 
+ 
+
+ - tipo e caratteristiche dettagliate dell'eventuale impianto di 
+ 
+
+ sovralimentazione; 
+ 
+
+ - tipo di raffreddamento del motore; 
+ 
+
+ - sistema di accensione e relativa taratura; 
+ 
+
+ - grado termico delle candele; 
+ 
+
+ - tipo e taratura degli iniettori; 
+ 
+
+ - caratteristiche del combustibile previsto; 
+ 
+
+ - caratteristiche dell'olio lubrificante previsto (nel caso in cui il lubrificante è miscelato nel combustibile, 
+ 
+
+ precisare la relativa percentuale); 
+ 
+
+ - curve caratteristiche del motore (precisare lo standard usato 
+ 
+
+ per la loro determinazione); 
+ 
+
+ - massa del motore (nel caso di serbatoio incorporato si 
+ 
+
+ considera anche la massa del serbatoio riempito a meta). 
+ 
+
+ c) per gli idrogetti: 
+ 
+
+ - la sigla di individuazione dell'idrogetto; 
+ 
+
+ - le dimensioni e la forma della bocca di presa e della 
+ 
+
+ condotta di aspirazione; 
+ 
+
+ - il tipo della pompa; 
+ 
+
+ - il diametro della girante, il numero ed il passo delle 
+ 
+
+ relative pale ed il rapporto area sviluppata/area disco; 
+ 
+
+ - il diametro e la forma degli ugelli standard; 
+ 
+
+ - i valori di potenza al freno dei motori ai quali può essere convenientemente accoppiato; 
+ 
+
+ - il numero di giri al minuto corrispondenti; 
+ 
+
+ - la massa dell'idrogetto, sia vuoto che con l'acqua operante, per ogni tipo di ugello previsto. 
+ 
+
+ d) per i motori elettrici: 
+ 
+
+ - la sigla di individuazione del tipo del motore; 
+ 
+
+ - tensione di alimentazione.; 
+ 
+
+ - valore della potenza massima di esercizio e della corrente 
+ 
+
+ assorbita a tale potenza; 
+ 
+
+ - valore della potenza continuativa e della corrente assorbita a tale potenza; 
+ 
+
+ - massimo numero dei giri al minuto sopportabili dal motore; 
+ 
+
+ - numero di giri al minuto corrispondenti alle dette potenze; 
+ 
+
+ - massa del motore. 
+ 
+
+ L'ente tecnico ha facoltà di chiedere una documentazione tecnica suppletiva, qualora lo ritenga necessario. 
+ 
+
+ 2.3 Domanda per il rilascio del certificato di potenza di motori 
+ 
+
+ presentati in singolo esemplare 
+ 
+
+ Per il rilascio del certificato di potenza di un singolo esemplare di motore, deve essere presentata domanda ad uno degli enti tecnici (tramite l'ufficio marittimo o quello provinciale della motorizzazione civile che rilascerà il "Certificato d'uso" o la licenza di navigazione) corredata di tutte le indicazioni dirette a definire le caratteristiche fondamentali del motore e con allegata l'attestazione del versamento previsto dalla tabella annessa alla legge 11 febbraio 1971, n. 50 e successive modificazioni ed integrazioni. 
+ 
+
+ L'ente tecnico ha facoltà di chiedere una documentazione tecnica suppletiva, qualora lo ritenga necessario. 
+ 
+
+ 2.4 Data di effettuazione delle prove 
+ 
+
+ L'ente tecnico, non appena da parte degli interessati siano messi a disposizione del laboratorio i motori (ovvero il motore) da sottoporre alle prove, stabilisce la data di effettuazione delle prove stesse, dandone comunicazione agli interessati medesimi. 
+ 
+
+ 2.5 Caratteristiche del laboratorio e relativa strumentazione 
+ 
+
+ Il laboratorio deve essere munito di tutta la strumentazione necessaria per la determinazione delle grandezze caratteristiche da rilevare in applicazione delle presenti norme. 
+ 
+
+ Il costruttore deve assicurare la disponibilità presso il laboratorio del personale e delle attrezzature occorrenti per l'effettuazione delle prove. 
+ 
+
+ Il freno adottato deve essere idoneo alla potenza erogata dal motore, nonchè regolarmente bilanciato e tarato. 
+ 
+
+ La precisione della bilancia dinamometrica del freno o di sistemi equivalenti deve essere entro i limiti di &plusmn; 2% dei valori della coppia nel campo da rilevare. 
+ 
+
+ Il numero dei giri al minuto può essere misurato sia con contagiri continuo che istantaneo, la cui precisione deve essere nei limiti di &plusmn; 2% dei valori del numero di giri nel campo da rilevare. 
+ 
+
+ La potenza calcolata sulla base dei valori misurati della coppia e del numero dei giri suddetti non deve presentare un errore superiore a &plusmn; 3%. 
+ 
+
+ Per il consumo del combustibile o della miscela olio-combustibile dovranno essere impiegati dispositivi aventi una precisione del &plusmn; 1% del valore da rilevare. 
+ 
+
+ Per la misura della pressione ambientale devono essere impiegati 
+ 
+
+ barometri con la precisione di &plusmn; 1,3 mbar. 
+ 
+
+ Per la misura delle pressioni devono essere impiegati manometri aventi la precisione neilimiti di &plusmn; 1% del valore da rilevare. 
+ 
+
+ Per la misura delle temperature devono essere impiegati termometri aventi la precisione di &plusmn; 2° C. 
+ 
+
+ La temperatura dell'acqua di raffreddamento per i motori raffreddati ad acqua in ciclo aperto deve essere all'entrata del motore compresa fra 293 K (20° C) e 303 K (30° C), e deve essere mantenuta il più possibile costante durante l'esecuzione della prova. 
+ 
+
+ I motori raffreddati ad aria devono essere provati in un ambiente la cui temperatura sia compresa tra 293 K (20° C) e 303 K (30° C), e deve essere mantenuta il più possibile costante durante l'esecuzione della prova. 
+ 
+
+ Per i motori raffreddati in ciclo chiuso la temperatura dell'aria o dell'acqua all'entrata dello scambiatore di calore deve essere compresa tra 293 K (20° C) e 303 K (30° C), e deve essere mantenuta il più possibile costante durante l'esecuzione della prova. 
+ 
+
+ Per quanto riguarda le prove dei motori fuoribordo, il laboratorio deve essere munito di un'apposita vasca nella quale va immerso il piede del motore. La sistemazione di prova deve, essere tale che gli organi in movimento (albero portelica ed albero di trasmissione di collegamento al freno) non vengano in contatto con l'acqua della vasca. 
+ 
+
+ Lo scarico dei gas deve essere convogliato fuori della sala prove all'atmosfera senza provocare sensibili contropressioni allo scarico. 
+ 
+
+ La temperatura dell'acqua nella vasca deve essere non inferiore a 293 K (20° C) e non superiore a 303 K (30° C), deve essere mantenuta il più possibile costante durante l'esecuzione della prova. 
+ 
+
+ 2.6 Scelta del motore prototipo da sottoporre alla prova 
+ 
+
+ Per l'omologazione, il motore prototipo da sottoporre alla prova deve essere scelto dall'ente tecnico nel seguente modo: 
+ 
+
+ a) per motori di potenza massima di esercizio dichiarata inferiore a 18,4 kW, il motore da provare deve essere scelto tra almeno 10 motori dello stesso tipo messi a disposizione dal costruttore; 
+ 
+
+ b) per i motori di potenza massima di esercizio dichiarata uguale o superiore a 18,4 kW, ma inferiore a 75 kW, il motore da provare deve essere scelto tra almeno 5 motori dello stesso tipo messi a disposizione dal costruttore; 
+ 
+
+ c) per i motori di potenza massima di esercizio dichiarata uguale o superiore a 75 kW, ma inferiore a 150 kW, il motore da provare deve essere scelto tra almeno 3 motori dello stesso tipo messi a disposizione dal costruttore; 
+ 
+
+ d) per i motori di potenza massima di esercizio dichiarata maggiore di 150 kW, la prova va eseguita sul motore messo a disposizione dal costruttore. 
+ 
+
+ Il motore da sottoporre a prova deve essere conforme in tutti i suoi organi alle caratteristiche dichiarate dal costruttore per i motori dello stesso tipo di normale produzione. Esso, inoltre, deve avere le stesse tarature e le stesse regolazioni previste per i detti motori. Esso, infine, deve essere munito di tutti gli accessori, compresa la eventuale carenatura, con l'esclusione dell'elica, così come posto in vendita. 
+ 
+
+ Il motore scelto per la prova deve essere opportunamente imballato e sigillato e portato al laboratorio in modo che esso non venga manomesso o alterato. 
+ 
+
+ 2.7 Effettuazione delle prove 
+ 
+
+ I motori da provare devono essere stati preliminarmente sottoposti ad un ciclo di rodaggio secondo le istruzioni fornite dal costruttore ed alla presenza della persona responsabile che partecipa alle prove. 
+ 
+
+ Il ciclo di prova stabilito dalle presenti norme sarà effettuato tenendo conto delle seguenti precisazioni: 
+ 
+
+ a) per motori diesel la potenza massima di esercizio del motore deve essere controllata al numero di giri al minuto dichiarati dal costruttore; 
+ 
+
+ b) per i motori a carburazione la potenza massima di esercizio del motore deve essere controllata con il comando dell'acceleratore in posizione di massima alimentazione, al numero di giri al minuto dichiarati dal costruttore, salvo quanto specificato alla successiva lettera e); 
+ 
+
+ c) la potenza massima di esercizio (riferita alle condizioni standard) sarà quella dichiarata dal costruttore, sempre che la differenza tra valore medio misurato (riferito alle condizioni standard) e valore dichiarato sia risultato in valore assoluto inferiore o uguale alla tolleranza complessiva di misura, pari al 3%. 
+ 
+
+ In caso diverso, per la potenza massima di esercizio sarà assunto il valore medio misurato (riferito alle condizioni standard) arrotondato come di seguito indicato. 
+ 
+
+ Per potenza massima di esercizio superiore a 18,4 kW, l'arrotondamento sarà fatto nel limite di 0,5 kW, per potenze inferiori od uguali a 18,4 kW e superiori a 6 kW nel limite di 0,2 kW e per potenze inferiori od uguali a 6 kW nel limite di 0,125 kW. 
+ 
+
+ Per valore medio misurato si intende la media di quattro valori misurati durante le prove di funzionamento alla massima potenza di esercizio dopo le tre ore di funzionamento alla potenza continuativa. 
+ 
+
+ I rilevamenti dei dati devono essere effettuati dopo ogni periodo di funzionamento di 15 minuti. 
+ 
+
+ Nell'arco di tempo in cui si effettuano i rilevamenti suddetti i valori di coppia al freno e del numero di giri al minuto devono rimanere entro i limiti di precisione indicati al punto 2.5; 
+ 
+
+ d) i consumi specifici di combustibile o di miscela olio-combustibile saranno riferiti alla potenza massima di esercizio, non corretta, effettivamente erogata dal motore, durante il rilevamento; 
+ 
+
+ e) per i motori a carburazione l'ente tecnico può, a suo esclusivo giudizio, rilevare preliminarmente al banco la curva caratteristica del motore con il comando dell'acceleratore in posizione di massima alimentazione, fino al numero di giri al minuto tecnicamente sopportabile dal motore, per accertare che la potenza massima di esercizio, dichiarata dal costruttore, sia praticamente coincidente con la massima potenza che il motore può erogare. 
+ 
+
+ In caso contrario, il costruttore dovrà dimostrare tecnicamente che i giri al minuto dichiarati sono effettivamente i massimi sopportabili dal motore e che, comunque, essi non possono essere superati in relazione ai tipi di eliche previste dal costruttore medesimo. 
+ 
+
+ f) per i motori elettrici le disposizioni di cui alle lettere precedenti non sono applicabili. Le prove devono essere effettuate in accordo alle norme C.E.I. applicabili. 
+ 
+
+ 2.8 Ripetizione delle prove 
+ 
+
+ Il costruttore ha facoltà di chiedere la ripetizione delle prove.
+ 
+
+ In tal caso le prove sono effettuate su almeno due altri motori dello stesso tipo da scegliersi con le modalità stabilite al precedente punto 2,6. 
+ 
+
+ 2.9 Verbale delle prove sul motore o degli accertamenti sull'idrogetto il verbale delle prove o degli accertamenti, predisposto dall'ente tecnico, deve essere firmato anche dalla persona incaricata dal costruttore di partecipare alle prove. 
+ 
+
+ A tale verbale, nel caso di omologazione del prototipo di un motore, deve essere allegato un prospetto contenente tutti i dati caratteristici del motore ed una dichiarazione del costruttore attestante che il motore provato è del tutto identico ai motori di normale produzione dello stesso tipo e regolato allo stesso modo. 
+ 
+
+ Per quanto riguarda gli idrogetti occorre inoltre allegare al verbale un prospetto con tutti i dati caratteristici dell'idrogetto ed una dichiarazione del costruttore attestante che l'idrogetto verificato è del tutto identico a quelli di normale produzione dello stesso tipo. 
+ 
+
+ 2.10 Atto di omologazione del motore o di riconoscimento 
+ 
+
+ dell'idrogetto 
+ 
+
+ L'atto di omologazione del motore, compilato in base alle indicazioni contenute nel verbale delle prove, o l'atto di riconoscimento dell'idrogetto, compilato in base alle indicazioni contenute nel verbale di accertamento, sono rilasciati al costruttore dal Registro italiano navale, per conto del Ministero della marina mercantile, qualora le prove stesse o gli accertamenti siano stati effettuati dal predetto ente oppure dal Ministero dei trasporti, qualora le prove o gli accertamenti siano stati effettuati dall'ente tecnico di detto Ministero. 
+ 
+
+ Quando le prove sono effettuate dal Registro italiano navale, detto ente invia al Ministero della marina mercantile e a quello dei trasporti la copia dell'atto di omologazione. Qualora lo ritengano necessario i predetti Ministeri possono chiedere al Registro italiano navale copia del verbale delle prove ed ogni altro documento necessario. 
+ 
+
+ Quando le prove sono effettuate dall'ente tecnico del Ministero dei trasporti, tale Ministero trasmette l'atto di omologazione al Ministero della marina mercantile ed al Registro italiano navale i quali se lo ritengono necessario, possono chiedere anche la copia del verbale delle prove ed ogni altro documento necessario. 
+ 
+
+ Gli estremi dell'atto di riconoscimento dell'idrogetto devono essere stampigliati sull'idrogetto in posizione facilmente visibile. 2.11 Dichiarazione di conformità 
+ 
+
+ Per ciascun esemplare di motore di una serie il cui prototipo sia stato omologato il costruttore deve rilasciare una dichiarazione di conformità redatta sul modello allegato alle presenti norme. 
+ 
+
+ 2.12 Rilascio delle certificazioni relative ai motori 
+ 
+
+ Il certificato d'uso o la licenza di navigazione (parte apparato motore) vengono compilati dalle Autorità Marittime o dagli Uffici Provinciali della Motorizzazione Civile sulla base della dichiarazione di conformità rilasciata dal costruttore a seguito della omologazione intervenuta per effetto delle prove eseguite da uno degli enti tecnici. 
+ 
+
+ 2.13 Certificazione della potenza massima di esercizio di motori 
+ 
+
+ presentati in singolo esemplare 
+ 
+
+ La certificazione della potenza massima di esercizio rilasciata per il singolo motore provato al banco, deve recare i dati, desunti dal verbale, necessari per la compilazione del documento di bordo relativo a tale motore. 
+ 
+
+ 2.14 Accertamento della potenza massima di esercizio di motori 
+ 
+
+ presentati in singolo esemplare 
+ 
+
+ Per l'accertamento della potenza massima di esercizio di un motore presentato in singolo esemplare, in luogo della prova al banco prescritta dalle presenti norme, possono essere assunti i dati rilevati per un motore già sottoposto a tale prova dall'ente tecnico, purchè esso, a seguito di apposito controllo effettuato dall'ente tecnico stesso, risulti uguale a quello provato. 
+ 
+
+ Nel caso di non corrispondenza del motore ad un altro già sottoposto alla detta prova, l'ente tecnico potrà richiedere, a suo giudizio, l'effettuazione della prova stessa o di altri accertamenti ritenuti idonei. 
+ 
+
+ 2.15 Accertamento della potenza massima di esercizio di motori 
+ 
+
+ derivati 
+ 
+
+ La ditta che modifica i motori di altro costruttore può richiedere l'omologazione del prototipo del motore derivato, a condizione che presenti l'assenso del costruttore del motore originario, in cui siano indicate, tra l'altro, la denominazione di entrambi i motori e le eventuali condizioni tecniche che devono essere osservate nella modifica. 
+ 
+
+ 2.16 Accertamento della potenza massima di esercizio dei motori esistenti originariamente installati a bordo di unità non da diporto Per l'accertamento della potenza massima di esercizio dei motori esistenti originariamente installati su unità non destinate alla navigazione da diporto, si applicano le norme contenute nel punto 2.14 tenendo conto dei dati indicati nei documenti di bordo e di altre eventuali indicazioni fornite dal costruttore del motore. 
+ 
+
+ 2.17 Accertamento delle caratteristiche costruttive dei motori 
+ 
+
+ In occasione dell'effettuazione delle prove di cui al punto 2.7 o degli accertamenti di cui al punto 2.14, l'ente tecnico effettuerà tutti i controlli relativi ai requisiti di costruzione richiesti nel seguente Capitolo III. 
+ 
+
+ 
+ 
+
+ Capitolo III 
+ 
+
+ COSTRUZIONE E SISTEMAZIONE A BORDO DEI MOTORI 
+ 
+
+ 
+ 
+
+ 3.1 Potenza massima di esercizio dei motori installabili sulle 
+ 
+
+ unità da diporto 
+ 
+
+ 3.1.1 - La potenza massima di esercizio ammissibile dei motori fuoribordo destinati alle unità da diporto, non deve essere, di norma, superiore ai valori in kW dati dalle seguenti tabelle. 
+ 
+
+ 
+ 
+
+ UNITà A CARENA A SPIGOLO E SPECCHIO DI POPPA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ UNITà A CARENA TONDA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ CANOTTI PNEUMATICI CON O SENZA CARENA IN PRFV 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Nelle tabelle precedenti: 
+ 
+
+ P = potenza massima di esercizio, in kW, installabile dei motori fuoribordo 
+ 
+
+ K= L x 1 essendo: 
+ 
+
+ L = lunghezza fuori tutto, in m, dello scafo; 
+ 
+
+ 1 = larghezza massima fuori tutto, in m, dello specchio di poppa, con esclusione di sporgenze o alette, ad eccezione di quelle che contribuisco all'effetto planante; 
+ 
+
+ - per i canotti pneumatici 1 è la larghezza massima, in m, del canotto; 
+ 
+
+ Per i canotti pneumatici con carena in PRFV a spigolo e specchio di poppa, la potenza massima di esercizio ammissibile può essere determinata come per le unità rigide a carena a spigolo e specchio di poppa; essendo in tal caso: 
+ 
+
+ 
+ 
+
+ L = lunghezza, in m, dello scafo in PRFV misurata esternamente alla struttura tra la faccia prodiera del dritto di prora e quella poppiera dello specchio di poppa, sul piano di simmetria dello scafo e senza tener conto delle sporgenze sulle quali vengono fissati i tubolari in tessuto gommato; 
+ 
+
+ 1 = la larghezza fuori tutto dello specchio di poppa dello scafo in PRFV, in m, misurata sul piano trasversale, da assumere in ogni caso non maggiore dell'interasse dei tubolari in corrispondenza dello specchio di poppa. 
+ 
+
+ I valori della potenza dati dalle dette tabelle possono essere 
+ 
+
+ variati in più o meno, sulla base dei risultati delle prove di navigazione, atte a dimostrare l'effettiva capacità delle unità ad essere provviste di motore di una data potenza nei riguardi della governabilità, della massa, della robustezza e della stabilità dello scafo. 
+ 
+
+ In ogni caso non sono ammessi valori di potenza che superino quelli di tabella oltre il 10%. 
+ 
+
+ Per potenza del motore si intende la massima potenza di esercizio come definita al punto 3.3. 
+ 
+
+ 3.1.2 Motori fuoribordo permanentemente fissati allo scafo o montati su supporti permanentemente collegati allo specchio di poppa integro di unità aventi K >= 18. 
+ 
+
+ La potenza massima ammissibile dei motori in questione può essere stabilita come detto in 3.1.3 per i motori entrobordo od entrofuoribordo a condizione che i criteri di costruzione e la sistemazione di questi motori siano conformi, per quanto applicabili, a quanto stabilito al punto 3.4. 
+ 
+
+ 3.1.3 Motori entrobordo ed entrofuoribordo 
+ 
+
+ La potenza massima ammissibile dei motori entrobordo e dei motori entrofuoribordo, destinati alle unità da diporto, deve essere stabilita sulla base dei risultati delle prove di navigazione, atte a dimostrare l'effettiva capacità delle unità ad essere provviste di motore di una data potenza nei riguardi della governabilità, della massa, della robustezza e della stabilità dello scafo. 
+ 
+
+ Per potenza del motore si intende la massima potenza di esercizio come definita al punto 3.3. 
+ 
+
+ 3.2 Retromarcia 
+ 
+
+ Le unità da diporto con motori di potenza massima di esercizio superiore a 4,4 kW devono essere munite di dispositivo per la retromarcia. Nel caso di motori fuoribordo il dispositivo deve essere incorporato al motore. 
+ 
+
+ Le unità da diporto con motori di potenza massima di esercizio inferiore o uguale a 4,4 kW possono essere non munite di dispositivo di retromarcia a condizione che vi siano altri mezzi efficaci per arrestare l'imbarcazione (remi, gaffe, ecc.) e salvo i casi di motori fuoribordo nei quali sia possibile l'inversione della spinta dell'elica mediante rotazione del piede. 
+ 
+
+ 3.3 Potenza massima di esercizio 
+ 
+
+ Per potenza massima di esercizio si intende quella definita ed accertata secondo le norme dei capitoli I e II. 
+ 
+
+ 3.4 Costruzione e sistemazione dei motori entrobordo ed 
+ 
+
+ entrofuoribordo 
+ 
+
+ 3.4.1 Costruzione 
+ 
+
+ I motori devono essere, per tipo e costruzione, idonei alle esigenze della propulsione cui sono destinati e tali da poter funzionare alla potenza massima di esercizio con tutta sicurezza per quanto riguarda il pericolo di incendi, di esplosioni, di avarie e senza pericolo per le persone. 
+ 
+
+ 3.4.2 Carburatori 
+ 
+
+ I carburatori devono essere di tipo idoneo per l'impiego marino e devono essere costruiti in modo che siano impedite perdite di combustibile in corrispondenza dei loro leverismi e connessioni e non devono inoltre avere aperture di sfogo verso l'esterno. 
+ 
+
+ I carburatori, ad eccezione di quelli di tipo invertito, devono essere muniti di raccoglitori di adeguata capacità, che possano convogliare gli eventuali stillicidi di combustibile nella condotta di aspirazione e sistemati in modo da evitare che gli stillicidi stessi possano sfuggire dai detti raccoglitori nella sentina o nel locale motore. 
+ 
+
+ Le aspirazioni dell'aria devono essere munite di un dispositivo tagliafiamma ritenuto idoneo dall'ente tecnico. 
+ 
+
+ 3.4.3 Equipaggiamento elettrico 
+ 
+
+ Le varie parti dell'equipaggiamento elettrico dei motori devono rispondere per tipo e costruzione alle prescrizioni relative agli impianti elettrici e devono essere montate sui motori in modo da essere il più possibile distanti dalla sentina e dagli elementi costituenti il circuito del combustibile. 
+ 
+
+ 3.4.4 Raffreddamento dei motori 
+ 
+
+ 3.4.4.1 - I motori di norma devono essere raffreddati ad acqua. A tale scopo devono esservi inviluppi di circolazione sia nel blocco cilindri che nella testata. La circolazione dell'acqua deve essere effettuata mediante apposita pompa azionata dal motore. 
+ 
+
+ I motori possono essere raffreddati con acqua dolce in circuito chiuso; in tale caso non sono ammessi i radiatori ma devono esservi idonei refrigeranti a circolazione di acqua di mare e tubi in chiglia adeguatamente proporzionati e protetti. 
+ 
+
+ La tubolatura dell'acqua di raffreddamento deve essere di norma in materiale metallico resistente alla corrosione dell'acqua marina oppure in acciaio zincato a caldo. 
+ 
+
+ Possono tuttavia essere impiegati idonei tubi flessibili di lunghezza limitata per i collegamenti del circuito di raffreddamento con il motore. 
+ 
+
+ Valvole di intercettazione devono essere sistemate sulla presa dal mare e, se necessario, sullo scarico fuori bordo. 
+ 
+
+ Sulla tubolatura di entrata acqua nel motore, in aggiunta alla griglia da sistemare sulla relativa presa a mare, deve essere sistemato un filtro idoneo facilmente smontabile. 
+ 
+
+ 3.4.4.2 - Possono essere accettati motori raffreddati ad aria a condizione che siano sistemati in spazi aperti o in spazi chiusi muniti di ventilazione efficace a raffreddare il motore. Lo scarico dell'aria di raffreddamento deve essere convogliato fuori bordo in modo da impedire rientrate d'acqua. 
+ 
+
+ 3.4.5 Strumenti di misura e sistemi di allarme Deve essere sistemato un termometro per il controllo della temperatura dell'acqua di raffreddamento dei motori ed un manometro per il controllo della pressione dell'olio di lubrificazione, la cui lettura possa essere effettuata dal posto di guida principale. Tali strumenti possono essere sostituiti da dispositivi di allarme ottici od acustici a condizione che il loro funzionamento possa essere controllato in ogni momento. 
+ 
+
+ 3.4.6 Tubi di scarico dei motori 
+ 
+
+ a) I tubi di scarico devono essere stagni per tutta loro lunghezza e devono essere installati in modo da presentare il minor numero possibile di curve o gomiti e da impedire l'ingresso di acqua nel motore. Le giunzioni devono essere ridotte al minimo. 
+ 
+
+ b) I tubi di scarico devono essere accessibili, in modo che possano essere ispezionati o riparati per tutta la loro lunghezza. 
+ 
+
+ c) Deve essere sistemata una tubolatura di scarico indipendente per ciascun motore di apparati motori multipli. 
+ 
+
+ d) I tubi di scarico devono essere fissati in modo da evitare sollecitazioni che possano provocarne la rottura. Gli ancoraggi, le staffe e gli altri supporti devono essere sistemati in modo da evitare la trasmissione del calore alle strutture adiacenti di materiale combustibile. 
+ 
+
+ e) In tutti i punti in cui i tubi di scarico possono essere a contatto con materiali o dove sono esposti al contatto con le persone, essi devono essere protetti o con inviluppi di circolazione d'acqua di raffreddamento o con rivestimenti isolanti oppure con idonee guardie. 
+ 
+
+ Quando sono previsti inviluppi di raffreddamento a circolazione d'acqua, questa può essere derivata dal sistema di raffreddamento del motore, purchè sia sufficiente, o può essere effettuata con pompe appositamente previste per tale scopo. In questo ultimo caso deve essere sistemato un allarme ottico ed acustico nel posto di guida principale per segnalare anormali aumenti di temperatura al sistema di raffreddamento dei tubi di scarico dei gas combusti. 
+ 
+
+ I materiali isolanti impiegati per la coibentazione delle tubolature di scarico devono essere incombustibili. 
+ 
+
+ f) Il passaggio dei tubi di scarico attraverso paratie stagne deve essere per quanto possibile evitato; in ogni caso, se adottato, deve essere del tipo stagno e devono essere usate a tale scopo guarnizioni resistenti al fuoco. 
+ 
+
+ I tubi aventi inviluppo di circolazione d'acqua possono essere saldati alle paratie o ai ponti stagni in acciaio, purchè siano previsti accorgimenti per eliminare le sollecitazioni derivanti dalle dilatazioni termiche impedite. 
+ 
+
+ I tubi di scarico attraversanti paratie o divisioni non stagne di materiale combustibile, devono essere muniti di idonea coibentazione resistente al fuoco, o di inviluppo di acqua di raffreddamento, oppure deve essere lasciato intorno ad essi un lasco di almeno 25 mm, nel caso di tubi nei quali viene iniettata dell'acqua di raffreddamento, e di almeno 230 mm negli altri casi. 
+ 
+
+ g) Quando viene iniettata dell'acqua di raffreddamento nei tubi di scarico, questa deve essere immessa il più possibile vicino al collettore di scarico posto sul motore, ma sufficientemente al disotto del collettore stesso e diretta in modo che l'acqua o il vapore non possano entrare nel collettore. 
+ 
+
+ Il quantitativo d'acqua da iniettare deve essere tale da assicurare un adeguato raffreddamento dei gas di scarico in relazione alle caratteristiche dei materiali dei tubi di scarico ed alla loro sistemazione. 
+ 
+
+ h) Le tubolature di scarico, salvo quanto stabilito alla lettera i), devono essere costruite in materiali metallici di adeguata robustezza e durata. Esse devono essere resistenti all'azione corrosiva del combustibile impiegato, dei prodotti della combustione, dell'acqua di mare ed alle alte temperature cui sono esposte. 
+ 
+
+ Nel caso che siano impiegati materiali diversi fra loro questi devono essere galvanicamente compatibili. Quando necessario, possono essere ammessi tronchi flessibili a condizione che siano metallici e di tipo riconosciuto idoneo dall'ente tecnico. 
+ 
+
+ i) Nel caso che nelle tubolature di scarico sia iniettata dell'acqua di raffreddamento, come specificato alla lettera g), possono essere ammessi materiali non metallici purchè rispondenti alle seguenti condizioni: 
+ 
+
+ - Per tutta la lunghezza della tubolatura i gas di scarico devono essere raffreddati, mediante la suddetta iniezione d'acqua, in modo che la temperatura non superi quella ammissibile per il materiale impiegato. 
+ 
+
+ - Il materiale deve essere resistente all'azione corrosiva del combustibile impiegato, dei prodotti della combustione e dell'acqua di mare. 
+ 
+
+ - Le predette caratteristiche di resistenza e relativa temperatura massima ammissibile devono essere ritenute idonee dall'ente tecnico. 
+ 
+
+ l) Le tubolature di scarico, ad eccezione di quelle in cui viene iniettata dell'acqua di raffreddamento, devono essere munite di dispositivi antiscintille ritenuti idonei dall'ente tecnico. 
+ 
+
+ m) Quando necessario devono essere sistemate protezioni contro la pioggia o dispositivi per scaricare dai tubi di scarico l'acqua piovana o l'acqua di mare. 
+ 
+
+ 3.4.7 Impianto del combustibile 
+ 
+
+ a) L'impianto dei combustibili deve essere perfettamente stagno in modo che non possano verificarsi perdite di liquido o di vapore nell'interno dello scafo. 
+ 
+
+ b) L'impianto deve essere permanentemente installato a bordo e, sia nel suo complesso che nei suoi componenti, deve essere progettato ed installato in modo tale da essere idoneo al servizio e da resistere con tutta sicurezza alle sollecitazioni dovute alla pressione, alle vibrazioni, agli urti ed ai movimenti dello scafo in mare. 
+ 
+
+ c) L'impianto deve essere sistemato in modo che sia accessibile in ogni sua parte per ispezione ed eventuali riparazioni senza che per questo debbano essere effettuati smontaggi di parti strutturali dello scafo. 
+ 
+
+ d) L'impianto e tutti i suoi componenti, come installati a bordo, devono essere capaci di resistere per 2,5 minuti primi alla libera combustione del combustibile per il quale essi sono progettati senza che si verifichino perdite di liquido o di vapore. 
+ 
+
+ e) Inoltre l'impianto e tutti i suoi componenti devono essere idonei a funzionare entro il campo di temperatura da 248 K (-25°C) a 358 K (+85°C). 
+ 
+
+ f) Deve essere assicurata la continuità elettrica di tutto l'impianto dalla presa d'imbarco combustibile fino al motore. 
+ 
+
+ g) Tutte le tubolature del combustibile compresi i tubi di riempimento dei serbatoi, i tubi di sfogo gas, i tubi sonda, i relativi accessori come valvole, filtri, mezzi di raccordo ecc., devono essere costruiti in materiali resistenti all'azione corrosiva dell'acqua e dell'atmosfera marina e del combustibile liquido impiegato. 
+ 
+
+ Essi inoltre devono resistere all'esposizione al fuoco come specificato alla precedente lettera d). 
+ 
+
+ I tubi devono essere di tipo senza saldatura e di spessore adeguato. 
+ 
+
+ h) Possono essere sistemati tubi flessibili di tipo omologato dall'ente tecnico resistenti all'atmosfera marina, al combustibile, al fuoco ed alle vibrazioni. 
+ 
+
+ Di regola i tubi flessibili devono essere metallici. 
+ 
+
+ I tubi flessibili non metallici possono essere accettati alle condizioni suddette od a condizioni ritenute equivalenti dall'ente tecnico, e purchè siano sistemati in punti accessibili e ben visibili e le loro estremità metalliche siano collegate in modo da evitare la formazione di scintille dovute alla elettricità statica. 
+ 
+
+ i) Le giunzioni dei tubi devono essere ridotte al minimo indispensabile e devono essere realizzate in modo da assicurare la perfetta tenuta. Guarnizioni o mastici, se usati per realizzare la detta tenuta, devono essere resistenti all'azione del combustibile ed al calore. 
+ 
+
+ l) Le tubolature del combustibile devono essere protette, dove necessario, contro eventuali danneggiamenti e devono essere fissate in modo da non essere assoggettate a vibrazioni, non ammissibili.
+ 
+
+ Tutti gli accessori della tubolatura devono avere idonei supporti indipendenti dalla tubolatura stessa. Le tubolature del combustibile devono essere distanziate il più possibile da cavi elettrici e da eventuali punti caldi. Il passaggio attraverso paratie stagne deve essere stagno. 
+ 
+
+ m) La tubolatura di alimento combustibile dal serbatoio al motore deve essere sistemata, per quanto possibile, in modo da impedire la formazione di sifone in caso di rottura della tubolatura stessa. 
+ 
+
+ Una valvola di intercettazione deve essere sistemata vicino al collegamento del serbatoio. 
+ 
+
+ Tale valvola deve poter essere comandata, oltre che a mano sul posto, anche da fuori del compartimento dove è sistemato il serbatoio e, preferibilmente, da sopra il ponte o dal posto di guida principale. Il comando può essere meccanico,pneumatico, idraulico o elettrico. 
+ 
+
+ Nel caso di combustibili con punto di infiammabilità inferiore a 328 K (55 °C) tale comando, se elettrico, deve essere energizzato solo quando il circuito di accensione del motore è chiuso. 
+ 
+
+ Nel caso in cui i serbatoi siano sistemati fuori del locale motore, deve essere sistemata nella tubolatura del combustibile anche una valvola di intercettazione a mano vicino al motore. Tale valvola può essere omessa qualora il motore sia sistemato in un vano adiacente a quello del serbatoio ed il tratto di tubolatura che collega il serbatoio al motore abbia lunghezza ragionevolmente ridotta. La tubolatura del combustibile deve essere collegata al motore mediante una spira metallica o con un corto tubo flessibile corrispondente alle norme di cui alla precedente lettera d). 
+ 
+
+ Un idoneo filtro meccanico deve essere sistemato sulla tubolatura del combustibile entro il locale motore o entro il locale serbatoi, se accessibile. 
+ 
+
+ Il coperchio del filtro ed il relativo dispositivo di fissaggio devono essere realizzati in modo tale che la guarnizione venga ad essere assoggettata a sola compressione. 
+ 
+
+ La pompa di alimento del combustibile può essere azionata dal motore stesso o da motore elettrico indipendente. 
+ 
+
+ In quest'ultimo caso la pompa deve essere sistemata entro il locale motore ed il relativo motore deve essere energizzato solo quando il circuito di accensione del motore sia chiuso. Nel caso di motori diesel il ritorno della nafta dai polverizzatori e dalle pompette deve essere collegato alla sommità dei serbatoi. 
+ 
+
+ n) Non sono ammesse prese di combustibile dalle tubolature. 
+ 
+
+ o) i tubi di riempimento e i tubi sonda dei serbatoi devono, essere sistemati in modo che l'eventuale fuoriuscita del combustibile, o vapori di combustibile, non penetrino nell'interno dello scafo. 
+ 
+
+ I tubi di riempimento devono avere il diametro interno non inferiore a 38 mm e spessore adeguato. Possono essere accettati tubi non metallici alle condizioni stabilite dalla lettera d). 
+ 
+
+ I tubi di riempimento ed i tubi sonda devono avere un percorso il più breve ed il più rettilineo possibile dal serbatoio al ponte. 
+ 
+
+ Le estremità all'aperto dei detti tubi devono essere munite di valvola di intercettazione o tappo a vite con targa di identificazione. Il passaggio a ponte deve essere stagno. Essi inoltre devono preferibilmente essere prolungati in basso all'interno dei serbatoi fino ad una distanza dal fondo non superiore a 1,5 volte il loro diametro. Le parti di tubo entro i serbatoi devono essere opportunamente fissate al serbatoio stesso. 
+ 
+
+ Il tubo sonda può essere omesso quando è possibile effettuare il sondaggio attraverso il tubo di riempimento o quando è sistemato un apparecchio indicatore di livello. 
+ 
+
+ Indicatori di livello con tubi di vetro non sono accettabili. 
+ 
+
+ Quelli in tubi di plastica trasparente possono essere accettati per serbatoi destinati a contenere combustibili con punto di infiammabilità maggiore o uguale a 328 K (55 °C) a condizione che alle loro estremità siano sistemati rubinetti a chiusura automatica. 
+ 
+
+ p) Ogni serbatoio deve essere munito di tubo metallico di sfogo gas collegato al punto più alto del serbatoio stesso. Possono essere adottati tubi non metallici alle condizioni stabilite alla lettera d) ed adeguatamente staffati allo scafo. 
+ 
+
+ I tubi di sfogo gas devono avere un diametro interno non inferiore a 15 mm e spessore adeguato, ed essere adeguatamente staffati allo scafo. 
+ 
+
+ Gli sfoghi gas devono avere sbocco all'aperto lontano da aperture di scafo, sorgenti di ignizione o di calore. 
+ 
+
+ Essi devono inoltre essere sistemati in modo da ostacolare entrate d'acqua nei serbatoi e devono essere muniti di una rete tagliafiamma, di materiale resistente alla corrosione, con lato delle maglie 0,5x0,5 mm, o di altro dispositivo parafiamma ritenuto idoneo dall'ente tecnico. 
+ 
+
+ Le reti e gli altri dispositivi tagliafiamma devono essere facilmente rimovibili per la pulizia. 
+ 
+
+ 3.4.8 Serbatoi del combustibile 
+ 
+
+ a) I serbatoi destinati a contenere combustibili liquidi aventi punto di infiammabilità inferiore a 328 K (55 °C) (benzina, cherosene e simili) devono essere indipendenti dallo scafo e devono essere sistemati il più possibile lontano dai motori o da altre sorgenti di calore in modo da non sentire l'influenza del calore stesso. Se necessario devono essere protetti da schermi di isolamento incombustibile e non assorbente. Essi non devono essere sistemati in locali alloggi. è ammessa la sistemazione sotto i sedili, all'aperto, sempre che vi sia intorno ai serbatoi un'efficace ventilazione naturale. 
+ 
+
+ I serbatoi destinati a contenere combustibili liquidi aventi punto di infiammabilità non inferiore a 328 K (55 °C) (gasolio, olio, diesel e simili) possono far parte integrante dello scafo. 
+ 
+
+ b) I serbatoi devono essere costruiti in modo da sopportare una pressione pari a 1,5 volte il massimo battente idrostatico che può verificarsi durante l'esercizio ma a non meno di 0,28 bar senza che si manifestino perdite o deformazioni permanenti. 
+ 
+
+ Il costruttore deve porre particolare cura nella progettazione, costruzione e sistemazione a bordo dei serbatoi affinchè questi resistano senza perdite alle sollecitazioni dinamiche cui possono essere sottoposti durante l'esercizio. 
+ 
+
+ c) Quando necessario devono essere sistemati diaframmi verticali sia per la robustezza che contro lo sbattimento. 
+ 
+
+ d) Per i serbatoi destinati a contenere combustibili con punto di infiammabilità inferiore a 328 K (55 °C) le aperture per il riempimento, per i tubi del combustibile, per lo sfogo gas e per il livello devono essere praticate sul cielo del serbatoio o nei fianchi il più vicino possibile al cielo; i relativi branchetti o flange per gli attacchi devono essere saldati applicando, dove necessario, idonei rinforzi nel caso di serbatoi metallici, e collegati in modo efficace a giudizio dell'ente tecnico nel caso di serbatoi in plastica rinforzata con fibre di vetro. 
+ 
+
+ Inoltre non sono ammesse aperture ed attacchi sui fianchi e sul fondo. 
+ 
+
+ Per i serbatoi destinati a contenere combustibili con punto di infiammabilità uguale o superiore a 328 K (55 °C) gli eventuali attacchi sui fianchi o sul fondo devono essere muniti di valvole comandate anche a distanza o a chiusura automatica. 
+ 
+
+ e) I serbatoi devono essere sistemati in modo che siano facilmente accessibili; qualora ciò non fosse possibile, essi devono essere sistemati in modo da poter essere rimossi per le visite e manutenzioni. 
+ 
+
+ f) I serbatoi non devono far parte integrante dei motori o essere attaccati a questi, ad eccezione di piccoli motori i quali devono essere sistemati all'aperto. 
+ 
+
+ g) I serbatoi devono essere convenientemente fissati. I supporti devono essere isolati dai serbatoi con materiali che non siano nè abrasivi, nè assorbenti. 
+ 
+
+ h) Prima della sistemazione i serbatoi devono essere sottoposti a prova idrostatica a 1,5 volte il massimo battente idrostatico che può verificarsi durante l'esercizio, ma a non meno di 0,28 bar. 3.4.8.1 Norme particolari per i serbatoi metallici 
+ 
+
+ I materiali da usare e gli spessori minimi delle lamiere sono indicati nella seguente tabella. L'impiego di altri materiali metallici ed i relativi spessori minimi saranno considerati caso per caso. 
+ 
+
+ I serbatoi devono essere efficientemente collegati a massa. 
+ 
+
+ 
+ 
+
+ SPESSORE MINIMO, IN MM, PER LE PARETI DEI SERBATOI METALLICI PER 
+ 
+
+ COMBUSTIBILE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note: 
+ 
+
+ 
+ 
+
+ (1) Per le pareti di serbatoi di capacità fino a 100 litri, aventi i giunti saldati a resistenza elettrica, può essere accettato lo spessore di 0,8 mm. 
+ 
+
+ (2) Non idonei per serbatoi destinati a contenere nafta o gasolio. (3) Le superfici interne dei serbatoi di rame devono essere stagnate. 
+ 
+
+ (4) I serbatoi in acciaio devono essere protetti in modo idoneo all'interno ed all'esterno contro l'azione corrosiva della atmosfera marina e del combustibile cui sono destinati. Può essere impiegata a tale scopo la zincatura ad eccezione dei serbatoi destinati a contenere nafta o gasolio per i quali non ammessa la zincatura interna. 
+ 
+
+ 
+ 
+
+ Preferibilmente devono essere impiegati serbatoi cilindrici con fondi concavi o convessi. 
+ 
+
+ La parte superiore dei serbatoi non deve presentare gli orli saldati rivolti verso l'alto o avere forma tale da trattenere l'umidità o l'acqua. 
+ 
+
+ I giunti devono essere saldati. 
+ 
+
+ In ogni caso il procedimento di saldatura impiegato deve essere idoneo al materiale base impiegato. 
+ 
+
+ Sono ammesse la saldatura con l'arco elettrico, la saldatura continua elettrica a resistenza, la saldatura autogena ossiacetilenica e la brasatura con argento o bronzo. 
+ 
+
+ I serbatoi devono essere muniti di una targhetta, permanente, leggibile posta in modo da essere visibile in caso di controllo dopo l'installazione e sulla quale devono essere riportati i seguenti dati: 
+ 
+
+ - nome del fabbricante; 
+ 
+
+ - capacità; 
+ 
+
+ - tipo di combustibile che il serbatoio è destinato a contenere;
+ 
+
+ - pressione di prova; 
+ 
+
+ - anno di fabbricazione. 
+ 
+
+ 3.4.8.2 Norme particolari per i serbatoi di plastica rinforzata 
+ 
+
+ Possono essere ammessi per le unità da diporto serbatoi in plastica rinforzata per contenere combustibili liquidi alle seguenti condizioni, ovvero, a condizioni giudicate equivalenti a giudizio dell'ente tecnico. 
+ 
+
+ 1) I materiali impiegati ed il procedimento di fabbricazione devono essere riconosciuti dall'ente tecnico. 
+ 
+
+ 2) I materiali impiegati devono essere autoestinguenti. 
+ 
+
+ 3) Devono essere prese tutte le precauzioni durante la fabbricazione per evitare che eventuali porosità possano provocare l'infiltrazione del combustibile attraverso le pareti. 
+ 
+
+ 4) I materiali impiegati per la costruzione devono essere resistenti all'azione dei combustibili che devono contenere. 
+ 
+
+ 5) I serbatoi devono essere capaci di resistere per 2,5 minuti primi alla libera combustione della benzina. 
+ 
+
+ 6) Il collegamento delle tubolature e degli accessori sui serbatoi deve essere di tipo idoneo a giudizio dell'ente tecnico. 
+ 
+
+ 7) Devono essere effettuate con buon esito su pannelli aventi stesse caratteristiche e spessore di quelli dei serbatoi, e su serbatoi campioni, le seguenti prove: 
+ 
+
+ a) Prove meccaniche 
+ 
+
+ Devono essere effettuate con buon esito le prove di trazione e di flessione su un numero di provini e pannelli a giudizio dell'ente tecnico. 
+ 
+
+ b) Prove di autoestinguenza 
+ 
+
+ Su sette pannelli aventi ciascuno le dimensioni di 450x150 mm deve essere effettuata la prova secondo le norme dell'ente tecnico per la classificazione dei materiali combustibili in funzione del loro potere di propagazione della fiamma. Da tale prova il materiale deve risultare di tipo autoestinguente. 
+ 
+
+ c) Prove di resistenza all'azione del combustibile liquido 
+ 
+
+ Gruppi costituiti da tre provini e tre pannelli, aventi le dimensioni di quelli per le prove meccaniche e da tre provini di lunghezza di 75 mm, larghezza 25 mm e dello stesso spessore adottato, devono essere immersi per sette giorni, ad una temperatura compresa tra 293 K (20°C) e 300 K (27°C), nei seguenti prodotti: 
+ 
+
+ - una miscela in parti uguali di due combustibili, prodotti da due diversi fabbricanti, di quelli che i serbatoi sono destinati a contenere. In tale miscela vi devono essere almeno 2,5 ml di piombo tetraetile e 0,2 teorie di fosforo. Se il serbatoio è destinato a contenere miscele con olio, per motori a 2 tempi, vi deve essere anche una parte di olio per ogni 24 parti di combustibile; 
+ 
+
+ - toluolo; 
+ 
+
+ - isottano. 
+ 
+
+ Il condizionamento dei provini prima dell'immersione, le modalità relative all'immersione, la precisione della misurazione delle dimensioni e della massa dei tre provini di lunghezza 75 mm, larghezza 25 mm e spessore adottato, prima e dopo l'immersione, ed il rapporto finale della prova devono corrispondere alle norme ASTM D543 - 67. 
+ 
+
+ Dopo l'immersione deve essere controllato quanto segue: 
+ 
+
+ - l'aspetto esteriore per accertare che non si siano verificati difetti di butteratura formazioni di bolle, rammollimenti, incrinature, decomposizioni; 
+ 
+
+ - eventuali variazioni delle dimensioni e della massa; 
+ 
+
+ - eventuali variazioni delle caratteristiche meccaniche, ripetendo su tali provini le prove meccaniche sopra citate. 
+ 
+
+ d) Prove di impermeabilità 
+ 
+
+ Un serbatoio campione deve essere riempito con una miscela composta del 70% di isottano e del 30% di toluolo e deve essere mantenuto chiuso per 30 giorni in un ambiente ad atmosfera libera con 
+ 
+
+ temperatura compresa tra 293 K (20°C) e 300 K (27°C). Dopo tale 
+ 
+
+ periodo la perdita in massa del contenuto non deve risultare maggiore del 3%. 
+ 
+
+ e) Prova di resistenza al fuoco 
+ 
+
+ Un serbatoio campione, riempito per un quarto del suo volume di combustibile liquido dello stesso tipo di quello che è destinato a contenere, deve essere sottoposto all'azione della fiamma libera della benzina. A tale scopo deve essere posto su una apposita vasca avente una superficie che sporga tutt'intorno almeno 500 mm rispetto alla proiezione orizzontale del serbatoio. Nella vasca deve essere immesso un quantitativo di acqua ed un quantitativo di benzina sufficiente ad assicurare la combustione per almeno 2 minuti e 40 secondi. 
+ 
+
+ Il serbatoio deve essere sistemato al centro della vasca, ad una altezza tale che il fondo del serbatoio stesso disti dalla superficie della benzina non più di 300 mm. 
+ 
+
+ Tutte le aperture del serbatoio devono essere chiuse, tranne quella del tubo di sfogo gas che deve essere portata ad una distanza tale da non provocare l'accensione dei gas fuoriuscenti dal serbatoio durante la prova. 
+ 
+
+ Al fine di assicurare che il serbatoio durante la prova resti a contatto delle fiamme dovranno essere sistemate intorno alla vasca apposite schermature metalliche. 
+ 
+
+ A fine prova deve essere controllato: 
+ 
+
+ - che non si verifichino perdite di combustibile rimanendo il serbatoio nella stessa posizione che aveva durante la prova; 
+ 
+
+ - che non si verifichino rotture e deformazioni permanenti o accentuati rigonfiamenti degli strati costituenti le pareti. Sono ammesse tuttavia piccole deformazioni e piccole perdite nella parte del serbatoio sopra il livello del liquido contenuto. 
+ 
+
+ A fine prova dovrà, inoltre, essere accertata la perdita in massa del serbatoio e del combustibile in esso contenuto mediante pesatura da effettuarsi prima e dopo la prova. 
+ 
+
+ Le prove di cui alle lettere b) d) e) possono essere omesse qualora i serbatoi siano costruiti e sistemati a bordo in conformità alle norme applicabili del sottoparagrafo 3.4.8.3 seguente. 
+ 
+
+ 8) Deve essere controllato che ciascun serbatoio, con tutti i suoi accessori, corrisponda al suo prototipo. è responsabilità del costruttore impiegare gli stessi materiali e lo stesso procedimento di fabbricazione adottato per il prototipo. Eventuali modifiche in tal senso devono essere tempestivamente comunicate all'ente tecnico che si riserva di far ripetere in tutto od in parte le prove di tipo specificate al precedente punto 7). 
+ 
+
+ 9) I serbatoi devono essere muniti di una targhetta, permanente, leggibile, posta in modo da essere visibile in caso di controllo dopo installazione e sulla quale devono essere riportati i seguenti dati: 
+ 
+
+ - nome del fabbricante; 
+ 
+
+ - estremi di accettazione del prototipo; 
+ 
+
+ - capacità in litri; 
+ 
+
+ - tipo di combustibile che il serbatoio è destinato a contenere;
+ 
+
+ - pressione di prova; 
+ 
+
+ - anno di fabbricazione. 
+ 
+
+ 3.4.8.3 Norme alternative per i depositi del combustibile strutturali in P.R.F.V. 
+ 
+
+ Possono essere ammessi per le unità da diporto depositi in P.R.F.V. per contenere combustibili liquidi con punto di infiammabilità maggiore o uguale 328 K (55°C), in alternativa ai 
+ 
+
+ punti 5, 7, 8 e 9 del sottoparagrafo 3.4.8.2 alle seguenti condizioni: 
+ 
+
+ 1) i rinforzi dello scafo, se attraversanti i depositi, devono essere interrotti da barriere in P.R.F.V., prevedendo eventuali idonei rinforzi locali che ne assicurino un'adeguata robustezza; 
+ 
+
+ 2) nessuna parete perimetrale dei depositi deve essere realizzata con struttura tipo sandwich; 
+ 
+
+ 3) lo spessore di tutti i laminati costituenti il fasciame dei depositi deve essere non inferiore a 10 mm; 
+ 
+
+ 4) lo strato finale degli stratificati, costituente la superficie esterna dei depositi, deve essere impregnato con resina autoestinguente (prova ASTM D635-74); tale strato deve avere spessore non inferiore a 1,5 mm; 
+ 
+
+ 5) lo strato finale degli stratificati, costituente la superficie interna dei depositi, deve essere impregnato con resina di tipo resistente al gasolio per autotrazione; tale strato deve avere spessore non inferiore a 1,5 mm; 
+ 
+
+ 6) devono essere effettuate prove meccaniche di trazione, flessione su provini di laminati, prima e dopo immersione in gasolio ed in toluolo con modalità di prova e valori di rottura in accordo alle norme dell'ente tecnico; 
+ 
+
+ 7) deve essere sistemato un impianto fisso di estinzione incendi nei locali macchinari sovrastanti od adiacenti i depositi di combustibile; i ponti costituenti cielo dei depositi, in corrispondenza di zone destinate ad alloggi, devono essere esenti da aperture per portelli di accesso e devono essere ricoperti da uno strato di materiale riconosciuto dall'ente tecnico di tipo non facilmente infiammabile ed autoestinguente; 
+ 
+
+ 8) i depositi devono essere muniti di targhetta permanente, leggibile e ben visibile sulla quale devono essere riportati i seguenti dati: 
+ 
+
+ - capacità in litri; 
+ 
+
+ - tipo di combustibile che il serbatoio è destinato a contenere;
+ 
+
+ - pressione di prova. 
+ 
+
+ 3.5 Costruzione e sistemazione dei motori fuori bordo 
+ 
+
+ 3.5.1 Costruzione 
+ 
+
+ a) i motori devono essere, per tipo e per costruzione, idonei a funzionare alla massima potenza di esercizio senza eccessivo riscaldamento e senza surriscaldamento e con tutta sicurezza per quanto riguarda il pericolo di incendi, di esplosioni, di avarie e senza pericolo per le persone. 
+ 
+
+ b) Il motore deve essere installato in modo che esso possa funzionare nella sua posizione normale ed avere ampia libertà di movimenti angolari di brandeggio e di rotazione in tutto il campo previsto per il particolare tipo del motore stesso. 
+ 
+
+ c) Se i motori sono installati in pozzetti chiusi, questi devono avere un'adeguata ventilazione atta ad evitare un eccessivo cumulo di gas di scarico o di vapori di combustibile. 
+ 
+
+ I motori protetti da cofani incernierati all'imbarcazione devono essere disposti e montati in modo che tali cofani possano girare sui cardini o muoversi e che i motori abbiano libertà di movimenti. 
+ 
+
+ d) I magneti, nel caso di motori racchiusi in un inviluppo di protezione di tipo a tenuta sufficientemente stagna da, impedire la fuoriuscita dei vapori del combustibile, devono essere costruiti in modo che i vapori stessi, eventualmente presenti intorno al motore, non possano accendersi a causa delle scintille. 
+ 
+
+ e) I motorini di avviamento ed i generatori di corrente, muniti di spazzole, devono essere di tipo non ventilato allo scopo di evitare, per effetto di scintillamento, l'accensione dei vapori di combustibile, eventualmente presenti intorno al motore. 
+ 
+
+ f) Le candele, quando necessario, devono essere munite di cappucci di protezione allo scopo di impedire eventuali cortocircuiti dovuti all'accumularsi di acqua o sali o di altri materiali estranei sui relativi isolatori. 
+ 
+
+ g) I motori raffreddati ad aria devono funzionare all'aperto senza coperture di protezione oppure senza che vi siano impedimenti alla libera circolazione dell'aria. 
+ 
+
+ h) I cofani o le stesse parti costitutive del motore devono essere predisposti in modo da consentire un rapido drenaggio di eventuali perdite di combustibile. 
+ 
+
+ i) I motori di potenza superiore a 6 kW devono essere dotati di un dispositivo di sicurezza per il loro arresto in caso di caduta del conducente. 
+ 
+
+ 3.5.2 Carburatori 
+ 
+
+ a) I carburatori devono essere di tipo idoneo per l'impiego marino.
+ 
+
+ b) Nel caso di motori sistemati entro inviluppi di protezione a tenuta sufficientemente stagna da impedire la fuoriuscita di vapori del combustibile, i carburatori e l'aspirazione devono essere di tipo a prova di ritorno di fiamma o muniti, in corrispondenza della presa d'aria, di un dispositivo tagliafiamma. 
+ 
+
+ c) Le valvole a galleggiante dei carburatori devono poter sopportare la pressione della pompa a mano, usata per riempire il carburatore all'atto dell'avviamento del motore, senza compromettere la propria funzione di regolazione dell'entrata del combustibile nella vaschetta. 
+ 
+
+ 3.5.3 Tubi di scarico dei motori 
+ 
+
+ I gas di scarico dei motori devono essere convogliati sotto acqua. 
+ 
+
+ Eventuali aperture sopra il galleggiamento nel sistema di scarico devono essere costruite in modo da impedire l'accensione dei vapori di combustibile. 
+ 
+
+ 3.5.4 Impianti del combustibile e relativi serbatoi permanentemente 
+ 
+
+ fissati allo scafo 
+ 
+
+ Valgono per quanto applicabili le norme riportate ai paragrafi 3.4.7 e 3.4.8. 
+ 
+
+ In particolare non sono ammessi serbatoi sotto pressione facenti parte integrante dello scafo o permanentemente fissati allo scafo. 
+ 
+
+ 3.5.5 Impianti del combustibile e relativi serbatoi non permanentemente fissati allo scafo. 
+ 
+
+ a) I serbatoi portatili ove costruiti in materiali metallici devono essere resistenti all'azione corrosiva dell'atmosfera salina e del combustibile cui sono destinati o devono essere protetti efficacemente contro tale azione corrosiva. 
+ 
+
+ Essi devono essere dimensionati in modo da resistere alle sollecitazioni dovute all'uso corrente senza deformarsi permanentemente e senza che si verifichino perdite di combustibile.
+ 
+
+ Allo scopo di aumentare la robustezza dei serbatoi è raccomandato di adottare involucri a fondi concavi o convessi. 
+ 
+
+ Il sistema di riempimento dei serbatoi deve essere realizzato in modo da garantire uno spazio vuoto di espansione di almeno il 5% del volume totale a riempimento avvenuto. 
+ 
+
+ Lo sfogo d'aria deve poter essere chiuso quando il serbatoio è fuori uso. 
+ 
+
+ I serbatoi devono essere sistemati in locali ben ventilati fuori dai locali alloggi. 
+ 
+
+ Il diametro delle aperture di riempimento deve essere non inferiore a 38 mm. 
+ 
+
+ Non sono ammessi serbatoi portatili di capacità superiore a 30 litri. 
+ 
+
+ Possono essere ammessi serbatoi in materiale non metallico a condizione che essi soddisfino, in aggiunta a quanto sopra, anche alle seguenti condizioni: 
+ 
+
+ 1) I materiali impiegati siano resistenti all'azione corrosiva dell'atmosfera salina e del combustibile cui sono destinati. 
+ 
+
+ 2) Risultino effettuate dal costruttore con buon esito su provini ricavati da un serbatoio di serie, le seguenti prove: 
+ 
+
+ (i) prova di trazione, da eseguirsi secondo normativa ASTM o equivalente, sia a temperatura ambiente che a temperature di 333 K (60°C) e 243 K (-30°C), su 3 provini; 
+ 
+
+ (ii) prova di resistenza all'azione del combustibile, effettuata immergendo nel combustibile cui lo stesso è destinato 3 provini aventi le dimensioni di cui in (i) per 7 giorni, ad una temperatura di circa 293 K (20°C). 
+ 
+
+ Dopo l'immersione siano controllati: 
+ 
+
+ - l'aspetto esteriore per accertare che non si siano verificati difetti come butterature, formazioni di bolle, rammollimenti, incrinature, decomposizioni; 
+ 
+
+ - la variazione delle dimensioni e della massa che devono essere non superiori al 10%; 
+ 
+
+ - la variazione delle caratteristiche meccaniche effettuando la prova di trazione di cui in (i), che deve essere non superiore al 15%. 
+ 
+
+ 3) Risulti effettuata dal costruttore la prova di impermeabilità, da eseguirsi su un serbatoio campione riempito del combustibile cui lo stesso è destinato e mantenuto chiuso per 30 giorni in un ambiente ad atmosfera libera con temperatura compresa tra i 293 K (20°C) e 300 K (27°C). Dopo tale periodo la perdita in massa del contenuto non deve risultare maggiore del 3%. 
+ 
+
+ 4) Risulti effettuata dal costruttore la prova di resistenza all'urto, da eseguirsi lasciando cadere su una superficie rigida un serbatoio pieno d'acqua da altezze, successive, variabili da 0,5 m a 1,5 m. La prova si ritiene superata quando non si siano verificate lesioni. 
+ 
+
+ b) I serbatoi incorporati nei motori ove costruiti in materiali metallici devono essere resistenti all'azione corrosiva della atmosfera salina e del combustibile cui sono destinati o devono essere protetti efficacemente contro tale azione corrosiva. Essi inoltre devono essere dimensionati in modo da resistere alle sollecitazioni dovute all'uso corrente senza deformarsi permanentemente e senza che si verifichino perdite di combustibile.
+ 
+
+ Allo scopo di aumentare la robustezza dei serbatoi è raccomandato di adottare involucri a fondi concavi o convessi. 
+ 
+
+ Se costruiti in materiali non metallici essi devono soddisfare alle norme di cui ai punti 1, 2, 3, della lettera a) precedente. 
+ 
+
+ Gli sfoghi d'aria, se necessari, devono essere costruiti in modo che possano essere chiusi quando il motore viene rimosso dall'imbarcazione oppure quando il motore viene fatto ruotare verticalmente in posizione tale da permettere la fuoriuscita del combustibile. 
+ 
+
+ c) La conformità del singolo serbatoio di cui alle lettere a) e b) alle prescrizioni del presente paragrafo è attestata dal costruttore con scritta in caratteri indelebili o mediante l'apposizione di una targhetta adesiva fustellata antidistruggente. Nel caso di serbatoi incorporati, la targhetta può essere applicata su una parte fissa del motore. Sulla targhetta, oltre alla dichiarazione "Serbatoio conforme al D.M. ....." deve essere indicato anche il tipo di combustibile. 
+ 
+
+ d) Le tubolature del combustibile di collegamento per serbatoi portatili devono essere di tipo flessibile tale da conservare la flessibilità nel campo di temperatura tra 243 K(-30°C) e 333 K (60°C). 
+ 
+
+ Tali tubolature devono essere di materiale resistente alla azione corrosiva del combustibile impiegato, dell'acqua di mare ed inoltre all'azione della luce solare. 
+ 
+
+ Tutte le parti metalliche, devono essere resistenti alla corrosione. 
+ 
+
+ Le dette tubolature devono essere munite, almeno all'estremità che è collegata al motore, di raccordo ad innesto rapido. 
+ 
+
+ Il raccordo che viene collegato al serbatoio deve essere di tipo a chiusura automatica. 
+ 
+
+ I raccordi devono essere costruiti in modo che si abbia la minore perdita possibile di combustibile quando vengono innestati o disinnestati. 
+ 
+
+ 
+ 
+
+ Capitolo IV 
+ 
+
+ DISPOSIZIONI GENERALI 
+ 
+
+ 
+ 
+
+ 4.1 - Le prove per l'omologazione del prototipo dei motori di cui al Capitolo II debbono essere effettuate entro tre mesi dalla data di messa a disposizione del motore, salvo il caso in cui non sia possibile rispettare tale termine per cause di forza maggiore. 
+ 
+
+ 4.2 - Qualora, nel caso di motori presentati in singoli esemplari, sussistano giustificati motivi che impediscano di effettuare in tempo utile tutte le prove o gli accertamenti richiesti dal presente decreto, l'ente tecnico può rilasciare un certificato di potenza provvisorio con validità di 6 mesi. Per tale rilascio l'ente tecnico effettua i controlli, accertamenti e prove che ritiene necessari. 
+ 
+
+ Nei casi predetti il certificato d'uso, o la licenza di navigazione (parte apparato motore), avranno la stessa validità del certificato di potenza predetto e non potranno essere rinnovati o prorogati. 
+ 
+
+ 4.3 - A partire dall'1.7.1988 ogni esemplare di motore deve essere corredato di un libretto di uso, manutenzione ed installazione in lingua italiana. 
+ 
+
+ 
+ 
+
+ Capitolo V 
+ 
+
+ DISPOSIZIONI TRANSITORIE 
+ 
+
+ 
+ 
+
+ 5.1 - Le norme dei decreti 15.12.1975 e 8.1.1977 conservano la propria validità per le costruzioni e sistemazioni realizzate in data antecedente a quella di entrata in vigore del presente decreto. 5.2 - L'obbligo dell'attestazione di conformità da parte del costruttore per i serbatoi portatili od incorporati nel motore di cui al par. 3.5.5 costruiti in data successiva all'entrata in vigore del presente decreto, decorre dall'1.7.1988. 
+ 
+
+ 
+ 
+
+ Allegato 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
