@@ -8,62 +8,91 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
  Art. 1
 
- Definizioni preliminari
+ 
+ (( (Definizioni preliminari) ))
+
+ 
 
  
  
  
- 
- 1. Ai fini della presente legge, nonchè per l'esercizio delle competenze di cui al decreto-legge 30 giugno 1982, n. 390, convertito, con modificazioni, dalla legge 12 agosto 1982, n. 597, si intende per:
- 
-
- 
- 
-
- 
- a) "specifica tecnica": la specifica normativa contenuta in un documento che definisce le caratteristiche di un prodotto e concernente in particolare i livelli di qualità o di utilizzazione, la sicurezza, le dimensioni, nonchè le prescrizioni applicabili al prodotto stesso per quanto riguarda la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marchiatura e l'etichettatura;
+ ((
  
 
  
  
-
  
- b) "norma": la specifica tecnica approvata da un organismo riconosciuto ed abilitato ad emanare atti di normalizzazione la cui osservanza non sia obbligatoria;
+ 1. Ai fini della presente legge, nonchè per l'esercizio delle competenze di cui al decreto- legge 30 giugno 1982, n. 390, convertito, con modificazioni, dalla legge 12 agosto 1982, n. 597, si intende per:
  
 
  
  
 
  
- c) "programma di normalizzazione": il documento che elenca le materie per le quali si intende adottare una norma o modificarla;
+ a) "prodotto": i prodotti di fabbricazione industriale e i prodotti agricoli;
  
 
  
  
 
  
- d) "progetto di norma": il documento contenente il testo delle specifiche tecniche per una determinata materia per la quale si prevede l'adozione secondo la procedura di normalizzazione nazionale, quale risulta da lavori preparatori e che è distribuito a fini di indagine pubblica o di commento;
+ b) "specifica tecnica": una specifica normativa contenuta in un documento che definisce le caratteristiche richieste a un prodotto, quali i livelli di qualità o di utilizzazione, la sicurezza, le dimensioni, nonchè le prescrizioni applicabili al prodotto per quanto riguarda la denominazione di vendita, la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marcatura e l'etichettatura e le procedure di valutazione della conformità. Sono altresì ricompresi i metodi ed i procedimenti di produzione relativi ai prodotti agricoli ai sensi dell'articolo 38, paragrafo 1, del Trattato istitutivo della Comunità europea, i prodotti destinati all'alimentazione umana e animale, nonchè i medicinali definiti dall'articolo 1 della direttiva 65/65/CEE del Consiglio ed inoltre i metodi ed i procedimenti di produzione relativi agli altri prodotti, quando abbiano un'incidenza sulle caratteristiche di questi ultimi;
  
 
  
  
 
  
- e) "regola tecnica": la specifica tecnica ivi compresa ogni disposizione che ad essa si applichi, la cui osservanza sia obbligatoria per la commercializzazione o l'utilizzazione, ad eccezione delle disposizioni fissate dalle autorità locali;
+ c) "altro requisito": un requisito diverso da una specifica tecnica, imposto ad un prodotto per motivi di tutela, in particolare dei consumatori o dell'ambiente, e concernente il suo ciclo di vita dopo la commercializzazione, quali le sue condizioni di utilizzazione, di reimpiego o di eliminazione, qualora tali condizioni possano influenzare in modo significativo la composizione o la natura del prodotto o la sua commercializzazione;
  
 
  
  
 
  
- f) "progetto di regola tecnica": il testo di una specifica tecnica, comprendente anche disposizioni amministrative, elaborato per l'adozione come regola tecnica da parte degli organi competenti e che si trovi in una fase preparatoria che permetta ancora di apportarvi emendamenti sostanziali;
+ d) "norma": una specifica tecnica, approvata da un organismo riconosciuto ed abilitato ad emanare atti di normalizzazione, la cui osservanza non sia obbligatoria ed appartenente ad una delle seguenti categorie: norme internazionali, norme europee, norme nazionali. Sono norme internazionali, europee o nazionali, le norme adottate e messe a disposizione del pubblico rispettivamente da un'organizzazione internazionale, da un organismo europeo o da un organismo nazionale di normalizzazione;
  
 
  
  
 
  
- g) "prodotto": i prodotti di fabbricazione industriale, esclusi quelli indicati nel successivo articolo 2.
+ e) "programma di normalizzazione": il piano di lavoro predisposto da uno degli organismi di cui alla lettera d), contenente l'elenco degli argomenti oggetto di lavori di normalizzazione;
+ 
+
+ 
+ 
+
+ 
+ f) "progetto di norma": il documento contenente il testo delle specifiche tecniche per una determinata materia, per la quale si prevede l'adozione secondo la procedura di normalizzazione nazionale e che è distribuito ai fini di inchiesta pubblica o commento;
+ 
+
+ 
+ 
+
+ 
+ g) "organismo europeo di normalizzazione": uno degli organismi elencati nell'allegato I alla direttiva 94/10/CE;
+ 
+
+ 
+ 
+
+ 
+ h) "organismo nazionale di normalizzazione": uno degli organismi elencati nell'allegato II alla direttiva 94/10/CE;
+ 
+
+ 
+ 
+
+ 
+ i) "progetto di regola tecnica": il testo di una specifica tecnica o di altro requisito, comprendente anche disposizioni amministrative, elaborato per l'adozione come regola tecnica da parte degli organi competenti e che si trovi in una fase preparatoria che permetta ancora di apportarvi degli emendamenti sostanziali;
+ 
+
+ 
+ 
+
+ 
+ l) "regola tecnica": una delle specifiche tecniche o uno degli altri requisiti, comprese le disposizioni amministrative che ad esso si applicano, indicati al comma 2 e comunque ogni specifica tecnica o altro requisito, la cui osservanza è obbligatoria per la commercializzazione o l'utilizzazione di un prodotto sul territorio nazionale o in una parte importante di esso, nonchè le disposizioni legislative, regolamentari ed amministrative degli Stati membri intese a vietare la fabbricazione, la commercializzazione o l'utilizzazione di un prodotto ad eccezione di quelle indicate all'articolo 9, comma 6.
  
 
  
@@ -74,15 +103,33 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
-
  
- NOTE
  
-
- 
+ 2. Costituiscono, in ogni caso, regole tecniche:
  
 
- Nota all'art. 1, comma 1:
+ 
  
 
- Il D.L. n. 390/1982 reca: "Disciplina delle funzioni prevenzionali e omologative delle unità sanitarie locali e dell'istituto superiore per la prevenzione e la sicurezza del lavoro".
+ 
+ a) le disposizioni legislative, regolamentari o amministrative, che fanno riferimento a specifiche tecniche, ad altri requisiti, a codici professionali o di buona prassi che si riferiscono, a loro volta, a specifiche tecniche o ad altri requisiti e la cui osservanza conferisce una presunzione di conformità alle prescrizioni fissate dalle suddette disposizioni legislative, regolamentari o amministrative;
+ 
+
+ 
+ 
+
+ 
+ b) gli accordi facoltativi dei quali l'autorità pubblica è parte contraente e che mirano al rispetto di specifiche tecniche o di altri requisiti, ad eccezione del capitolato degli appalti pubblici;
+ 
+
+ 
+ 
+
+ c) le specifiche tecniche e gli altri requisiti connessi con misure di carattere fiscale o finanziario che influenzano il consumo di prodotti, incoraggiando l'osservanza di tali specifiche tecniche o di altri requisiti ad eccezione delle specifiche tecniche e degli altri requisiti volti a finalità di sicurezza sociale.
+
+ 
+
+ 
+
+ 
+ ))
