@@ -1,0 +1,172 @@
+Allegato A 
+ 
+
+ 
+ 
+
+ 1. Ai fini della riparametrazione del valore della situazione economica per un nucleo familiare con composizione diversa da quello posta a base negli articoli 65 e 66 della legge n. 448 del 1998 o per il quale debbano applicarsi le maggiorazioni di cui alla Tabella 2 del decreto legislativo n. 109 del 1998, si procede come segue: 
+ 
+
+ 
+ 
+
+ a) si pone il valore della scala di equivalenza di cui alla Tabella 2 del decreto legislativo n. 109 del 1998, corrispondente al numero dei componenti del nucleo base previsto dagli articoli 65 e 66 della legge n. 448 del 1998, come denominatore costante per ottenere la nuova scala riparametrata; 
+ 
+
+ b) il valore della scala di equivalenza di cui alla Tabella 2 del decreto legislativo n. 109 del 1998, corrispondente al numero dei componenti effettivi del nucleo e alle maggiorazioni previste nella Tabella medesima, è diviso per il valore della scala di equivalenza corrispondente al numero dei componenti del nucleo base; 
+ 
+
+ c) il valore così ottenuto, arrotondato al centesimo (arrotondamento al centesimo superiore nel caso in cui il millesimo è uguale o superiore a 5), è moltiplicato per il valore dell'indicatore della situazione economica del nucleo base previsto dagli articoli 65 e 66 della legge n. 448 del 1998, come rideterminato per gli anni successivi al 1999 sulla base dell'indice ISTAT dei prezzi al consumo per le famiglie di operai e impiegati, secondo le seguenti formule: 
+ 
+
+ 
+ 
+
+ "assegno per il nucleo familiare: 
+ 
+
+ (valore scala eq. D.lgs 109 + eventuali maggiorazioni) /2,85* x 36.000.000 (e successive rivalutazioni ISTAT) 
+ 
+
+ 
+ 
+
+ assegno di maternità: 
+ 
+
+ (valore eq. D.lgs. 109 + eventuali maggiorazioni) /2,04* x 50.000.000 (e successive rivalutazioni ISTAT) 
+ 
+
+ 
+ 
+
+ (*) il valore della divisione devo essere arrotondato al centesimo 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ d) l'assegno è concesso, nella misura stabilita dagli articoli 65 e 66 della legge, se il valore della situazione economica del nucleo familiare, determinato secondo i criteri di cui al successivo punto 2, non è superiore ai valore dell'indicatore della situazione economica risultante dall'operazione di cui alla lettera c). 
+ 
+
+ 
+ 
+
+ 2. 
+ ((Ai fini della determinazione dell'indicatore della situazione economica del nucleo familiare si osservano le disposizioni del decreto legislativo 31 marzo 1998, n. 109, come modificato dal decreto legislativo 3 maggio 2000, n. 130, e dei relativi decreti attuativi; ai fini della determinazione della misura degli assegni, si osserva la seguente procedura di calcolo:))
+
+ : 
+ 
+
+ 
+ 
+
+ 1. assegno per il nucleo familiare: 
+ 
+
+ 
+ 
+
+ A. indicatore della situazione economica del nucleo familiare: somma dei valori dell'indicatore della situazione reddituale e dell'indicatore della situazione patrimoniale, assunto nella misura del venti per cento dei valori patrimoniali 
+ 
+
+ B. valore annuo della situazione economica prevista dalla legge per il nucleo base 
+ 
+
+ C. beneficio mensile di legge per intero 
+ 
+
+ D. parametro della scala di equivalenza per il nucleo base: 2,85 
+ 
+
+ E. somma dei parametri correttivi (composizione del nucleo e maggiorazioni, secondo la scala di equivalenza di cui al decreto legislativo n. 109 del 1998) 
+ 
+
+ F. valore annuo della situazione economica di legge riparametrata = (E / D)* x B 
+ 
+
+ 
+ 
+
+ (*) valore arrotondato al centesimo 
+ 
+
+ 
+ 
+
+ il beneficio può essere concesso se il valore di A non e superiore al valore di F; 
+ 
+
+ per la sua determinazione si procede come di seguito: 
+ 
+
+ 
+ 
+
+ G. valore della situazione economica per l'attribuzione dell'assegno in misura intera = 
+ (( F - (13 x C) ))
+
+ 
+ 
+
+ H. beneficio mensile intero: indicare il valore di C se il valore di A è uguale o inferiore al valore di G 
+ 
+
+ I. beneficio mensile in misura ridotta: indicare il valore di 
+ (( (F-A)/13 ))
+
+ , se il valore di A è superiore al valore di G 
+ 
+
+ L. 13^ mensilità: indicare il valore di H/12 x numero di mesi per i quali si ha diritto all'assegno, nel caso di assegno mensile concesso nella misura intera; oppure, indicare il valore di I/12 x numero di mesi per i quali si ha diritto all'assegno, nel caso di assegno mensile concesso in misura ridotta 
+ 
+
+ 
+ 
+
+ 2. assegno di maternità: 
+ 
+
+ 
+ 
+
+ A. indicatore della situazione economica del nucleo familiare: somma dei valori dell'indicatore della situazione reddituale e dell'indicatore della situazione patrimoniale, assunto nella misura del venti per cento dei valori patrimoniali 
+ 
+
+ B. valore annuo della situazione economica prevista dalla legge per il nucleo base 
+ 
+
+ C. beneficio complessivo di legge per intero, moltiplicato per il numero figli nati (o affidati o adottati dal 1 luglio 2000) 
+ 
+
+ D. parametro della scala di equivalenza per il nucleo base: 2,04 
+ 
+
+ E. somma dei parametri correttivi (composizione del nucleo e maggiorazioni, secondo la scala di equivalenza di cui al decreto legislativo n. 109 del 1998) 
+ 
+
+ F. valore annuo della situazione economica di legge riparametrata = (E / D)* x B 
+ 
+
+ 
+ 
+
+ (*) valore arrotondato al centesimo 
+ 
+
+ 
+ 
+
+ il beneficio può essere concesso se il valore di A non è superiore al valore di F; per la sua determinazione si procede come di seguito: 
+ 
+
+ 
+ 
+
+ G. trattamento previdenziale o economico di maternità complessivo già spettante o percepito nel periodo di astensione obbligatoria 
+ 
+
+ H. beneficio complessivo da attribuire: C - G.
