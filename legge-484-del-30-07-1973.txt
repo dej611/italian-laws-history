@@ -54,7 +54,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  Articolo 22: "Hanno diritto a pensione di anzianità gli iscritti, quando, avendo cessato il servizio per dimissioni o licenziamento:
  
 
- 1) possano far valere un periodo utile di almeno 25 anni, di cui almeno 15 anni di contribuzione obbligatoria e volontaria al Fondo, qualunque sia l'età;
+ 1) possano far valere un periodo utile di almeno 25 anni, di cui almeno 15 anni di contribuzione 
+ ((obbligatoria o obbligatoria e volontaria))
+
+ al Fondo, qualunque sia l'età;
  
 
  2) ovvero abbiano compiuto il 50° anno di età e possano far valere un periodo di almeno 15 anni di contribuzione obbligatoria o obbligatoria e volontaria al Fondo;
