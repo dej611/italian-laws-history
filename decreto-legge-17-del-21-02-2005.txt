@@ -67,7 +67,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) il comma 2 è sostituito dal seguente:
  
 
- "2. Se è stata pronunciata sentenza contumaciale o decreto di condanna, l'imputato è restituito, a sua richiesta, nel termine per proporre impugnazione od opposizione, se risulta dagli atti che non ha avuto effettiva conoscenza del procedimento e non ha volontariamente rinunciato a comparire e sempre che l'impugnazione o l'opposizione non siano state già proposte dal difensore.";
+ "2. Se è stata pronunciata sentenza contumaciale o decreto di condanna, 
+ ((l'imputato è restituito, a sua richiesta, nel termine per proporre impugnazione od opposizione, salvo che lo stesso abbia avuto effettiva conoscenza del procedimento o del provvedimento e abbia volontariamente rinunciato a comparire ovvero a proporre impugnazione od opposizione. A tale fine l'autorità giudiziaria compie ogni necessaria verifica))
+
+ ";
  
 
  
