@@ -1,0 +1,675 @@
+Allegato I 
+ 
+
+ (previsto dagli articoli 5, 7 e 8) 
+ 
+
+ 
+ 
+
+ REQUISITI SPECIFICI DI STABILITà 
+ 
+
+ PER LE NAVI RO/RO DA PASSEGGERI 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Sezione A 
+ 
+
+ 
+ 
+
+ Ai fini della presente sezione A, i riferimenti alle regole della convenzione SOLAS si intendono fatti a tali regole così come applicate ai sensi della SOLAS 90.))
+ 
+
+ 
+ 
+
+ 1. Oltre ai requisiti della regola II-1/B/8 della convenzione SOLAS in materia di compartimentazione stagna e stabilità in condizioni di avaria 
+ ((, devono essere rispettati i requisiti della presente sezione))
+
+ . 
+ 
+
+ 1.1. Le disposizioni della regola II-1/B/8.2.3 devono essere 
+ 
+
+ rispettate tenendo conto dell'effetto di un ipotetica 
+ 
+
+ quantità d'acqua accumulatasi sul primo ponte inferiore alla 
+ 
+
+ linea di galleggiamento del piano di costruzione nella stiva ro/ro o in una stiva speciale secondo la definizione della 
+ 
+
+ regola II-2/3 della convenzione SOLAS a seguito di un 
+ 
+
+ danneggiamento (in seguito denominato &laquo;ponte ro/ro 
+ 
+
+ danneggiato&raquo;). Non devono invece essere rispettati gli altri requisiti della regola II-1/B/8 nel dare applicazione alle 
+ 
+
+ norme di stabilità contenute nel presente allegato. Il 
+ 
+
+ presunto volume di acqua marina accumulato va calcolato 
+ 
+
+ applicando alla superficie inondata un'altezza fissa calcolata a partire da: 
+ 
+
+ a) il punto più basso dell'orlo esterno del ponte ro/ro in corrispondenza del compartimento danneggiato; oppure 
+ 
+
+ b) se tale orlo è sommerso, il calcolo utilizza un'altezza fissa al disopra del piano di galleggiamento applicabile per tutti i possibili angoli di assetto longitudinale e sbandamento, secondo i seguenti valori: 
+ 
+
+ 
+ 
+
+ 0,5 metri se il bordo libero residuo (f
+ r
+ ) è pari o
+ 
+
+ 
+ 
+
+ inferiore a 0,3 metri, 
+ 
+
+ 
+ 
+
+ 0,0 metri se il bordo libero residuo (f
+ r
+ ) è pari o
+ 
+
+ 
+ 
+
+ superiore a 2,0 metri, 
+ 
+
+ valori intermedi, calcolati con interpolazione lineare, se il bordo libero residuo (fr ) è superiore a 0,3 metri 
+ 
+
+ ma inferiore a 2,0 metri. 
+ 
+
+ 
+ 
+
+ Per bordo libero residuo (f
+ r
+ ) si intende la distanza
+ 
+
+ 
+ 
+
+ minima fra il ponte ro/ro e la linea di galleggiamento per 
+ 
+
+ la nave danneggiata nel punto in cui si è verificato il danno, senza tenere conto degli effetti prodotti dal 
+ 
+
+ volume d'acqua che si ipotizza essersi accumulata sul ponte ro/ro. 
+ 
+
+ 1.2. Se, risulta installato un sistema di drenaggio: estremamente efficiente, l'Amministrazione, sentito l'
+ ((organismo riconosciuto))
+
+ , può 
+ 
+
+ concedere una riduzione dell'altezza dell'acqua sul ponte danneggiato. 
+ 
+
+ 1.3. Per le navi destinate ad operare in zone geografiche 
+ 
+
+ ristrette e ben definite, l'Amministrazione, sentito l'
+ ((organismo riconosciuto))
+
+ , può ridurre l'altezza dell'acqua nella superficie 
+ 
+
+ inondata di cui al punto 1.1 sostituendo a tale altezza i seguenti valori: 
+ 
+
+ 
+ 
+
+ 1.3.1. 0,0 se l'altezza significativa, d'onda (h
+ s
+ ) definita
+ 
+
+ per la zona considerata è pari o inferiore a 1,5
+ 
+
+ metri;
+ 
+
+ 
+ 
+
+ 1.3.2. un valore calcolato secondo la procedura di cui al punto 1.1, se l'altezza significativa d'onda (hs ) definita per la
+ 
+
+ zona considerata è pari o superiore a 4,0 metri; 
+ 
+
+ 1.3.3. valori intermedi, calcolati con interpolazione lineare, se l'altezza significativa d'onda (hs ) definita per la zona
+ 
+
+ considerata è superiore a 1,5 metri ma inferiore a 4,0 metri; 
+ 
+
+ purchè risultino rispettate le seguenti condizioni: 
+ 
+
+ 1.3.4. l'Amministrazione ritiene tale altezza significativa d'onda (hs ) rappresentativa dell'area identificata e la tale altezza
+ 
+
+ non è superata con una probabilità superiore al 10 %; 
+ 
+
+ 1.3.5. la zona operativa e, se del caso, il periodo dell'anno 
+ 
+
+ nei quali un determinato valore d'altezza significativa d'onda (hs ) è stato stabilito sono 
+ 
+
+ riportati sul certificato; 
+ 
+
+ 1.4. in alternativa ai requisiti dei punti 1.1 o 1.3, 
+ 
+
+ l'Amministrazione, sentito l'
+ ((organismo riconosciuto))
+
+ , può esentare 
+ 
+
+ dall'applicazione dei requisiti dei punti 1.1 o 1.3 ed 
+ 
+
+ accettare risultati di prove in vasca, effettuate secondo le specifiche riportate nell'appendice, che confermino che la 
+ 
+
+ nave non si capovolgerà in presenza di un danno di 
+ 
+
+ estensione pari a quella prevista dalla regola II-1/B/8.4 
+ 
+
+ della convenzione SOLAS nella posizione longitudinale che 
+ 
+
+ presenti le peggiori condizioni indicate al punto 1.1 in un onda irregolare; 
+ 
+
+ 1.5. menzione del fatto che i risultati delle prove in vasca sono stati considerati equivalenti alla prova di conformità 
+ 
+
+ secondo i requisiti di cui ai punti 1.1 o 1.3 nonchè il valore dell'altezza significativa d'onda. (hs ) impiegata durante le prove devono figurare nel certificato della nave; 
+ 
+
+ 1.6. le informazioni fornite al capitano conformemente alle regole 
+ 
+
+ II-1/B/8.7.1 e II-1/B/8.7.2, ottenute in applicazione delle regole da II-1/B/8.2.3 a II-1/B/8.2.3.4, vanno fornite anche ai capitani delle navi ro/ro da passeggeri omologate in base a tali requisiti. 
+ 
+
+ 
+ 
+
+ 2. Per valutare gli effetti del volume dell'ipotetica massa d'acqua marina accumulata sul ponte ro/ro danneggiato menzionato al punto 
+ 
+
+ 1, vanno applicate in via prioritaria le seguenti disposizioni. 
+ 
+
+ 2.1. Una paratia trasversale o longitudinale va considerata 
+ 
+
+ intatta se ogni sua parte è compresa tra superfici verticali 
+ 
+
+ situate sui fianchi della nave, a una distanza dal fasciame esterno pari a un quinto della larghezza della nave stessa, come stabilito dalla regola II-1/2, misurata normalmente al piano di simmetria, al livello dell'immersione massima di compartimentazione. 
+ 
+
+ 2.2. Nel caso in cui lo scafo della nave sia in parte 
+ 
+
+ strutturalmente ampliato in conformità delle disposizioni 
+ 
+
+ del presente allegato, va sempre impiegata la corrispondente maggiorazione del valore del quinto della larghezza; tale 
+ 
+
+ ampliamento non influenza tuttavia la localizzazione degli 
+ 
+
+ attraversamenti delle paratie, delle tubazioni, ecc. che erano considerate accettabili prima dell'allargamento. 
+ 
+
+ 2.3. La tenuta stagna delle paratie trasversali o longitudinali 
+ 
+
+ che sono considerate utili per limitare la massa d'acqua 
+ 
+
+ marina che si ipotizza accumulata nel compartimento in 
+ 
+
+ questione del ponte ro/ro danneggiato deve essere commisurata 
+ 
+
+ al sistema di drenaggio e deve poter sopportare la pressione idrostatica che risulta dal calcolo relativo allo specifico danno. Tali paratie devono avere un'altezza di almeno 2,2 
+ 
+
+ metri. Nel caso di navi dotate di ponti veicoli sospesi, 
+ 
+
+ tuttavia, l'altezza minima della paratia non può essere 
+ 
+
+ inferiore a quella della superficie inferiore del ponte sospeso, quando esso è abbassato. 
+ 
+
+ 2.4. In presenza di speciali dispositivi, come ad esempio ponti 
+ 
+
+ sospesi a tutta larghezza e larghe casse laterali, potranno essere accettate paratie di altezze diverse stabilite ricorrendo a dettagliate prove in vasca. 
+ 
+
+ 2.5. Non va tenuto conto degli effetti del volume ipotizzato 
+ 
+
+ d'acqua marina accumulata nei compartimenti del ponte ro/ro danneggiato, se tali compartimenti dispongono su ambedue i 
+ 
+
+ lati di aperture a murata equamente distribuite, secondo la seguente formula: 
+ 
+
+ 2.5.1. A = 0,3 l 
+ 
+
+ ove A è l'area totale delle aperture a murata su 
+ 
+
+ ciascun lato del ponte (espressa in m 2 ) ed l è la lunghezza del compartimento (in metri); 
+ 
+
+ 2.5.2 la nave deve mantenere un bordo libero residuo di 
+ 
+
+ almeno 1,0 metri nella peggiore ipotesi di danno, 
+ 
+
+ senza tenere conto degli effetti del volume d'acqua 
+ 
+
+ che si ipotizza essersi accumulato sul ponte ro/ro danneggiato; e 
+ 
+
+ 2.5.3 il bordo superiore delle aperture a murata non può 
+ 
+
+ essere ubicato oltre 0,6 metri al di sopra del ponte ro/ro danneggiato e il lato inferiore di tali aperture 
+ 
+
+ deve trovarsi a non più di 2 cm al di sopra del ponte ro/ro danneggiato; 
+ 
+
+ 2.5.4 le aperture devono essere dotate di un meccanismo di 
+ 
+
+ chiusura che impedisca all'acqua di penetrare sul 
+ 
+
+ ponte ro/ro, pur permettendo la fuoriuscita dell'acqua 
+ 
+
+ che vi si è eventualmente accumulata. 
+ 
+
+ 2.6. Quando si ipotizza che una paratia sopra il ponte ro/ro è 
+ 
+
+ danneggiata, va ipotizzato anche l'allagamento dei due 
+ 
+
+ compartimenti contigui e l'altezza della superficie allagata comune ai due compartimenti va calcolata ai sensi dei punti 1.1 e 1.3. 
+ 
+
+ 3. Nel determinare l'altezza significativa d'onda, vanno impiegate le altezze che figurano cartine o negli elenchi prodotti degli Stati membri, a norma dell'articolo 5 della direttiva 2003/25/CE. 
+ 
+
+ 3.1. Per le navi che vengono impiegate solo per un periodo 
+ 
+
+ stagionale ridotto, l'Amministrazione deve stabilire, di 
+ 
+
+ comune accordo con gli altri paesi i cui porti figurano nella 
+ 
+
+ rotta, seguita dalla nave, l'altezza significativa d'onda da impiegare. 
+ 
+
+ 4. Le prove in vasca devono essere eseguite ai sensi dell'appendice. 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Sezione B 
+ 
+
+ I requisiti del capitolo II-1, parte B, della SOLAS 2020 devono essere rispettati. Tuttavia, in deroga alla regola II-1/B/6.2.3 della SOLAS 2020, l'indice di compartimentazione richiesto R deve essere determinato come segue: 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Persone a bordo (N) Indice di compartimentazione (R) 
+ 
+
+ 
+ N < 1 000 R = 0,000088 * N + 0,7488 
+ 
+
+ 
+ 1 000 ≤ N ≤ 1 350 R = 0,0369 * ln (N + 89,048) + 0,579 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ in cui: 
+ 
+
+ N = Numero totale di persone a bordo.))
+ 
+
+ 
+ 
+
+ 
+ 
+
+ APPENDICE all'allegato I 
+ 
+
+ Prove in vasca 
+ 
+
+ 
+ 
+
+ 1. Obiettivo 
+ 
+
+ Le prove di cui al paragrafo 1.4 dei requisiti di stabilità 
+ 
+
+ riportati nell'allegato I servono a dimostrare che la nave è 
+ 
+
+ capace di affrontare le condizioni di mare defunte nel paragrafo 3, nella peggiore ipotesi di danno. 
+ 
+
+ 
+ 
+
+ 2. Modelli di nave 
+ 
+
+ 2.1. Il modello deve rispecchiare sia l'effettiva forma esterna 
+ 
+
+ della nave che la sua suddivisione interna, soprattutto, 
+ 
+
+ quella degli spazi danneggiati che possono influenzare il 
+ 
+
+ processo di allagamento e distribuzione dell'acqua. Il danno considerato deve corrispondere alla peggiore ipotesi prevista 
+ 
+
+ ai fini della conformità con la regola II-1/B/8.2.3.2 della convenzione SOLAS. Un'ulteriore prova deve essere effettuata per un ipotetico danno a metà nave ed in assetto 
+ 
+
+ longitudinale neutro se l'ubicazione del peggior danno, ai 
+ 
+
+ sensi della norma SOLAS 90, dista dalla metà nave più del 10 % della lunghezza tra le perpendicolari (Lpp). Tale prova ulteriore è necessaria solo se il danneggiamento interessa il ponte ro/ro. 
+ 
+
+ 2.2. Il modello deve soddisfare i seguenti requisiti: 
+ 
+
+ 2.2.1. Lunghezza fra le perpendicolari (Lpp) pari ad almeno 3 metri. 
+ 
+
+ 2.2.2. Lo scafo deve essere sufficientemente sottile nelle 
+ 
+
+ zone ove tale aspetto influenza il risultato delle prova. 
+ 
+
+ 2.2.3. Le caratteristiche del moto nave devono essere 
+ 
+
+ correttamente modellate su quelle della nave reale e particolare attenzione va riservata alla riproduzione in scala dei raggi di inerzia longitudinale e 
+ 
+
+ trasversale. Immersione, assetto longitudinale, 
+ 
+
+ sbandamento e posizione del centro di gravità devono essere nelle condizioni corrispondenti al peggior danno ipotizzabile. 
+ 
+
+ 2.2.4. I principali elementi strutturali (quali paratie 
+ 
+
+ stagne, prese d'aria, ecc.) al di sopra ed al di sotto 
+ 
+
+ del ponte delle paratie, che possono produrre un 
+ 
+
+ allagamento asimmetrico, devono essere riprodotti 
+ 
+
+ correttamente nel modello in modo da rispecchiare, per quanto possibile, la realtà. 
+ 
+
+ 2.2.5. La forma della falla deve essere la seguente: 
+ 
+
+ 2.2.5.1. profilo laterale rettangolare di larghezza 
+ 
+
+ conforme alla regola II-1/B/8.4.1 della 
+ 
+
+ convenzione SOLAS e di altezza illimitata; 
+ 
+
+ 2.2.5.2. profilo triangolare (isoscele) sul piano 
+ 
+
+ orizzontale con altezza pari a B/5, 
+ 
+
+ conformemente alla regola II-1/B/8.4.2 della convenzione SOLAS. 
+ 
+
+ 
+ 
+
+ 3. Svolgimento delle prove 
+ 
+
+ 3.1. Il modello deve essere soggetto a prove in vasca in onda 
+ 
+
+ mono-direzionale irregolare (spettro JONSWAP) con altezza significativa d'onda (hs ) conforme alle definizioni del punto 1.3
+ 
+
+ dei requisiti di stabilità e coefficiente di rinforzo del picco γ e
+ 
+
+ periodo di picco Tp, pari a: 
+ 
+
+ 3.1.1. Tp =4 √Hs con γ =3,3; e 
+ 
+
+ 3.1.2. Tp pari al periodo di risonanza del rollio della nave in avaria con il ponte non allagato, alle condizioni di carico specificate, ma non superiore a 6 √hs con γ
+ 
+
+ =1. 
+ 
+
+ 3.2. Il modello deve essere libero di scarrocciare e va esposto ad 
+ 
+
+ un mare al traverso (direzione 90 °) con la falla esposta 
+ 
+
+ alle onde in arrivo. Il modello non deve essere vincolato in modo da. resistere al capovolgimento. Se la nave allagata ed in equilibrio in assenza d'onda rimane verticale (sbandamento nullo), occorre inclinarla di 1 o in direzione della falla. 
+ 
+
+ 3.3. Devono essere realizzate almeno 5 prove per ciascun periodo di picco. La lunghezza di ogni prova deve sempre permettere il raggiungimento di uno stato stazionario e non deve in ogni 
+ 
+
+ caso essere inferiore ad un periodo corrispondente a 30 
+ 
+
+ minuti per la nave reale, opportunamente scalati. Nel corso di ciascuna prova va generata una realizzazione di onde diverse. 
+ 
+
+ 3.4. Se la nave non risulta inclinata verso la falla al termine di 
+ 
+
+ ciascun esperimento, gli esperimenti vanno ripetuti finchè non si ottengono cinque risultati corretti per ciascuna 
+ 
+
+ condizione d'onda specificata o, in alternativa, il modello deve essere inclinato di 1 o dal lato della falla e 
+ 
+
+ l'esperimento ripetuto per due volte per ciascuna delle due condizioni d'onda specificate. L'obiettivo degli esperimenti ulteriori è di dimostrare, nel miglior modo possibile, le 
+ 
+
+ capacità di sopravvivenza al capovolgimento nelle due direzioni. 
+ 
+
+ 3.5. Le prove devono essere realizzate per i seguenti casi di avaria: 
+ 
+
+ 3.5.1. il peggior danno, con riferimento all'area sottesa alla curva GZ, ai sensi della convenzione SOLAS; e 
+ 
+
+ 3.5.2. il peggior danno a metà nave, con riferimento al 
+ 
+
+ bordo libero residuo a metà nave se richiesto dal punto 2.1. 
+ 
+
+ 
+ 
+
+ 4. Criteri di sopravvivenza 
+ 
+
+ La nave va ritenuta in grado di sopravvivere se viene raggiunto 
+ 
+
+ uno stato stazionario nella serie di prove successive ci cui al 
+ 
+
+ punto 3.3; se rollio superiore a 30 o rispetto all'asse verticale si verifica con frequenza superiore al 20 % o si verifica uno 
+ 
+
+ sbandamento superiore ai 20 °, il risultato della prova va 
+ 
+
+ tuttavia considerato un capovolgimento della nave anche se si è raggiunto uno stato stazionario. 
+ 
+
+ 
+ 
+
+ 5. Omologazione delle prove 
+ 
+
+ 5.1. Una proposta del programma di prova va presentata 
+ 
+
+ all'Amministrazione che, sentito un 
+ ((organismo riconosciuto))
+
+ per le navi 
+ 
+
+ straniere e l'
+ ((organismo riconosciuto))
+
+ della nave per le navi italiane, 
+ 
+
+ deve approvarlo preventivamente. Va inoltre ricordato che i danni più lievi possono generare le situazioni più gravi. 
+ 
+
+ 5.2. La prova va documentata da un'apposita relazione e da un 
+ 
+
+ video, o altra registrazione visiva, contenenti tutte le 
+ 
+
+ necessarie informazioni sulla nave e sui risultati delle prove. 
+ 
+
+ 
+ 
+
+ 
+ ((1))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (1)
+
+ 
+ 
+
+ Il D.Lgs. 31 ottobre 2024, n. 179 ha disposto (con l'art. 10, comma 1, lettera e)) che "all'appendice, punto 6.1, le parole: &laquo;per le navi straniere e l'ente tecnico della nave per le navi italiane&raquo; sono soppresse".

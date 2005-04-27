@@ -1,0 +1,625 @@
+(( Allegato II 
+ 
+
+ (previsto dall'articolo 5, comma 5) ))
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ORIENTAMENTI INDICATIVI PER GLI ENTI TECNICI 
+ 
+
+ 
+ 
+
+ PARTE I 
+ 
+
+ Applicazione 
+ 
+
+ 
+ 
+
+ I presenti orientamenti sono destinati ad assistere gli enti tecnici nell'applicazione dei requisiti specifici di stabilità fissati nell'allegato I, per quanto possibile e compatibile con le caratteristiche strutturali della nave in questione. La numerazione dei seguenti paragrafi corrisponde a quella impiegata nell'allegato I 
+ ((, sezione A))
+
+ . 
+ 
+
+ 
+ 
+
+ Paragrafo 1 
+ 
+
+ Tutte le navi ro/ro da passeggeri di cui all'articolo 2.1, del decreto, devono innanzitutto rispettare la norma SOLAS 90 in materia di stabilità residua, applicabile a tutte le navi da passeggeri costruite a partire dal 29 aprile 1990 compreso. L'applicazione di tale requisito permette di definire il bordo libero (fr ) necessario
+ 
+
+ ai fini del calcolo di cui al paragrafo 1.1. 
+ 
+
+ 
+ 
+
+ Paragrafo 1.1 
+ 
+
+ 1. Il presente paragrafo riguarda il caso in cui un determinato volume di acqua si è accumulato sul ponte delle paratie (ro/ro).
+ 
+
+ Si ipotizza che l'acqua sia penetrata sul ponte attraverso una falla. Il paragrafo dispone che la nave, oltre a soddisfare tutti i requisiti della norma SOLAS 90, soddisfi anche i criteri di tale norma SOLAS 90 di cui ai paragrafi da 2.3 a 2.3.4 della regola II-1/B/8, in presenza della quantità d'acqua sul ponte ivi definita. Al fine di tale calcolo non occorre tenere conto di nessun altro requisito della regola II-1/B/8. Ad esempio, ai fini del calcolo, la nave non deve rispettare i requisiti relativi agli angoli di equilibrio o alla non immersione della linea di bordo libero. 
+ 
+
+ 2. L'acqua accumulata va considerata un carico di liquido aggiuntivo con una superficie libera comune a tutti i compartimenti che si presumono allagati sul ponte garage. L'altezza dell'acqua (hw )
+ 
+
+ sul ponte dipende dal bordo libero residuo (fr ) dopo l'avaria ed
+ 
+
+ è misurata in funzione dell'avaria stessa (cfr. fig. 1). Il bordo libero residuo (fr ), è la distanza minima fra il ponte ro/ro
+ 
+
+ danneggiato e la superficie del piano di galleggiamento all'equilibrio della nave danneggiata (dopo le eventuali correzioni dell'assetto se questo tipo di provvedimenti sono stati presi) in funzione del danno ipotizzato e dopo aver esaminato tutte le possibili condizioni di avaria in conformità dei requisiti della norma SOLAS 90, come indicato nel paragrafo 1 dell'allegato I. Nel calcolare fr non va tenuto conto degli
+ 
+
+ effetti dell'ipotetica massa d'acqua che si presume si sia accumulata sul ponte ro/ro. 
+ 
+
+ 3. Se fr è pari o superiore a 2 metri, va ipotizzato che sul ponte
+ 
+
+ ro/ro non si accumuli acqua. Se fr è pari 0,3 metri o meno, va
+ 
+
+ ipotizzato che l'altezza (hw ) sia di 0,5 metri. Le altezze
+ 
+
+ intermedie dell'acqua si ottengono per interpolazione lineare (cfr. fig. 2). 
+ 
+
+ 
+ 
+
+ Paragrafo 1.2. 
+ 
+
+ I sistemi di drenaggio dell'acqua potrebbero essere considerati efficaci solo se avessero la capacità di impedire l'accumulo di un notevole volume d'acqua sul ponte considerato, vale a dire diverse migliaia di tonnellate all'ora, il che supera notevolmente la capacità degli impianti installati alla data di adozione dei regolamenti in questione. Simili sistemi altamente efficienti potranno essere sviluppati ed omologati in futuro (in base ad orientamenti che saranno sviluppati dall'Organizzazione marittima internazionale). 
+ 
+
+ 
+ 
+
+ Paragrafo 1.3. 
+ 
+
+ 1. La quantità d'acqua che si ipotizza accumulata sul ponte, oltre ad essere ridotta a norma del paragrafo 1.1, potrà essere ulteriormente ridotta in considerazione del fatto che la nave opera solo in zone geografiche ben delimitate. Tali zone sono designate conformemente all'altezza significativa d'onda (hs )
+ 
+
+ tipica della zona stessa, a norma dell'articolo 3 del presente decreto. 
+ 
+
+ 2. Se nella zona considerata l'altezza significativa d'onda (hs ) è
+ 
+
+ pari a 1,5 metri o meno, va ipotizzato che sul ponte ro/ro danneggiato non si accumuli altra acqua. Se l'onda significativa nell'area considerata è uguale o superiore a 4,0 metri, l'altezza ipotizzata dell'acqua accumulata va calcolata a norma del paragrafo 1.1. Le altezze intermedie dell'acqua si ottengono per interpolazione lineare (cfr. fig. 3). 
+ 
+
+ 3. L'altezza hw è mantenuta costante e la quantità d'acqua
+ 
+
+ addizionale risulta quindi variabile, in quanto dipende dall'angolo di sbandamento e dal fatto che ad un particolare angolo di sbandamento l'angolo del ponte risulti immerso o meno (cfr. fig. 4). Va notato che la permeabilità presunta degli spazi sul ponte garage deve essere fissata al 90 % (MSC/Circ.649 refers), mentre la permeabilità degli altri spazi presunti allagati è quella stabilita dalla convenzione SOLAS. 
+ 
+
+ 4. Se i calcoli volti a dimostrare la conformità con il presente decreto fanno riferimento ad un'altezza significativa d'onda inferiore ai 4 metri, tale altezza inferiore deve essere registrata sul certificato di sicurezza della nave passeggeri. 
+ 
+
+ 
+ 
+
+ Paragrafi 1.4/1.5 
+ 
+
+ In alternativa alle prove di conformità con i nuovi requisiti di stabilità di cui al paragrafo 1.1 o 1.3, l'Amministrazione, sentito l'
+ ((organismo riconosciuto))
+
+ , può accettare i risultati di prove in vasca. I requisiti delle prove in vasca sono indicati in dettaglio nell'appendice dell'allegato I. Note orientative sullo svolgimento delle prove su modello sono riportate nella parte II del presente allegato. 
+ 
+
+ 
+ 
+
+ Paragrafo 1.6 
+ 
+
+ Le curve operative limite (KG o GM), stabilite dalla norma SOLAS 90, possono risultare non applicabili nel caso in cui si consideri gli effetti dell'&laquo;acqua sul ponte&raquo; come previsto dal presente decreto e può pertanto rendersi necessario determinare curve limite rivedute che tengano conto degli effetti di tale acqua aggiuntiva. Occorre a tal fine effettuare i necessari calcoli per un numero sufficiente di immersioni ed assetti operativi. 
+ 
+
+ 
+ 
+
+ Nota: Le curve operative limite rivedute KG/GM possono essere stabilite per iterazione, aggiungendo il GM il minimo in eccesso, che risulta dai calcoli della stabilità in condizioni di avaria con l'acqua sul ponte, al KG iniziale (o dedotto dal GM) da utilizzare per determinare il bordo libero in condizioni di avaria (fr ),
+ 
+
+ impiegato per determinare il volume d'acqua sul ponte, e ripetendo tale processo fintanto che GM in eccesso diventi trascurabile. 
+ 
+
+ è da prevedere che gli operatori inizino tale iterazione con il rapporto KG massimo/GM minimo che può ragionevolmente essere riscontrato in servizio, cercando quindi di modificare la relativa sistemazione del ponte delle paratie per ridurre al minimo il GM in eccesso derivante dai calcoli di stabilità in presenza di acqua sul ponte. 
+ 
+
+ 
+ 
+
+ Paragrafo 2.1. 
+ 
+
+ Ai sensi dei requisiti della convenzione SOLAS, le paratie interne alla linea B/5 sono da considerare intatte nel caso di avaria da collisione laterale. 
+ 
+
+ 
+ 
+
+ Paragrafo 2.2. 
+ 
+
+ Se devono essere installate casse laterali esterne per garantire la conformità con la regola II-1/B/8 il regolamento in oggetto, la larghezza (B) della nave risulta maggiorata e quindi anche la distanza B/5 dai bordi della nave; tali modifiche non esigono tuttavia il ricollocamento delle parti strutturali esistenti o di eventuali attraversamenti delle principali paratie stagne orizzontali al disotto del ponte delle paratie (cfr. fig. 5). 
+ 
+
+ 
+ 
+
+ Paragrafo 2.3. 
+ 
+
+ 1. Paratie e barriere trasversali e longitudinali appositamente sistemate e di cui si è tenuto conto al fine di limitare il movimento dell'acqua che si ipotizza accumulata sul ponte ro/ro non devono essere &laquo;a tenuta stagna &raquo; nel senso stretto del termine. Piccole perdite possono essere tollerate se il sistema di drenaggio è tale da impedire l'accumulo di acqua dall'altra parte della paratia o della barriera. Nel caso in cui gli ombrinali, in mancanza del necessario dislivello, non dovessero più funzionare occorre prevedere un altro sistema passivo di drenaggio. 
+ 
+
+ 2. L'altezza (Bh ) delle paratie/barriere trasversali e longitudinali
+ 
+
+ non deve essere inferiore a (8 x hw ) metri, ove hw è l'altezza
+ 
+
+ dell'acqua accumulata calcolata in base al bordo libero residuo e all'altezza significativa d'onda di cui ai (paragrafi 1.1 e 1.3).
+ 
+
+ In ogni caso, tale altezza non deve mai essere inferiore al maggiore dei seguenti valori: 
+ 
+
+ a) 2,2 metri, oppure 
+ 
+
+ b) l'altezza fra il ponte delle paratie ed il punto inferiore della struttura inferiore dei ponti garage intermedi o sospesi, quando si trovano in posizione abbassata. Va notato che qualsiasi spazio fra il lato superiore delle paratie e la parte inferiore del fasciame metallico deve essere chiuso da piastre trasversali o longitudinali a seconda dei casi (cfr. fig. 6).
+ 
+
+ Possono essere accettate paratie di altezza inferiore a quella specificata se vengono effettuate le prove in vasca descritte nella parte II del presente allegato, per dimostrare che la soluzione alternativa garantisce adeguate possibilità di sopravvivenza. Nel fissare l'altezza delle paratie/barriere va inoltre garantito che esse siano tali da limitare il progressivo allagamento entro i limiti di stabilità richiesti.
+ 
+
+ Tali limiti non devono essere influenzati dalle prove in vasca. 
+ 
+
+ Nota: Il dominio positivo della curva di GZ può essere ridotto sino a 10 gradi, se la corrispondente area sottesa alla curva è opportunamente aumentata di cui a (MSC 64/22 refers). 
+ 
+
+ 
+ 
+
+ Paragrafo 2.5.1. 
+ 
+
+ L'area &laquo;A&raquo; fa riferimento ad aperture permanenti. Va notato che non può essere fatto ricorso all'opzione &laquo;aperture a murata&raquo; se la galleggiabilità delle sovrastrutture è in tutto o in parte necessaria per permettere alla nave di rispettare i criteri. Le aperture a murata devono essere provviste di battenti che impediscano all'acqua di entrare, pur permettendole di uscire. 
+ 
+
+ I battenti non devono dipendere da un sistema attivo di chiusura.
+ 
+
+ Essi devono funzionare autonomamente e non devono ridurre significativamente il flusso in uscita. Ogni eventuale riduzione significativa deve essere compensata dalla presenza di aperture aggiuntive, affinchè risulti mantenuta l'area complessiva richiesta. 
+ 
+
+ 
+ 
+
+ Paragrafo 2.5.2. 
+ 
+
+ Le aperture a murata sono da considerarsi efficienti se la distanza minima fra il lato inferiore dell'apertura e la linea di galleggiamento in caso di avaria è di almeno 1 metro. Il calcolo della distanza minima non deve tenere conto dell'effetto dovuto alla presenza di un eventuale volume d'acqua aggiuntivo sul ponte (cfr.
+ 
+
+ fig. 7). 
+ 
+
+ 
+ 
+
+ Paragrafo 2.5.3. 
+ 
+
+ Le aperture a murata devono essere situate il più in basso possibile nell'impavesata laterale o nel fasciame esterno. Il lato inferiore delle aperture a murata non deve essere oltre 2 cm al di sopra del ponte delle paratie ed il suo lato superiore non deve trovarsi oltre 0,6 metri al di sopra di esso (cfr. fig. 8). 
+ 
+
+ 
+ 
+
+ Nota: Gli spazi cui si applica il paragrafo 2.5, ovvero gli spazi dotati di aperture a murata o simili aperture, non devono essere compresi fra gli spazi intatti ai fini del calcolo delle curve di stabilità a nave integra e in condizioni di avaria. 
+ 
+
+ 
+ 
+
+ Paragrafo 2.6. 
+ 
+
+ 1. L'estensione della falla va applicata nel senso della lunghezza della nave. A seconda delle suddivisioni presenti, la falla può non interessare alcuna paratia, può interessare solo paratie al di sotto del ponte delle paratie, solo paratie al di sopra di tale ponte o le une e le altre. 
+ 
+
+ 2. Le paratie/barriere trasversali ed orizzontali che arginano la massa d'acqua che si ipotizza accumulata devono essere sempre chiuse ed opportunamente assicurate quando la nave prende il mare. 
+ 
+
+ 3. Nel caso in cui le paratie/barriere sono danneggiate, l'acqua accumulata sul ponte deve avere lo stesso livello, pari a hw a i
+ 
+
+ due lati della paratia/barriera danneggiata (cfr. fig. 9). 
+ 
+
+ 
+ 
+
+ PARTE II 
+ 
+
+ PROVE IN VASCA 
+ 
+
+ 
+ 
+
+ Scopo dei presenti orientamenti è quello di assicurare l'uniformità dei metodi adottati nel costruire e verificare i modelli, nonchè nello svolgere ed analizzare le prove sul modello, pur tenendo conto del fatto che la strutture delle vasche navali esistenti e considerazioni di costo possono in parte influenzare tale uniformità. 
+ 
+
+ Il contenuto del paragrafo 1 dell'appendice dell'allegato I non necessita commenti. 
+ 
+
+ 
+ 
+
+ Paragrafo 2 - Modelli di nave 
+ 
+
+ 2.1. Il materiale impiegato per costruire il modello non è di per sè importante, purchè il modello risulti, sia a nave integra che in condizioni di avaria, sufficientemente rigido per garantire che le proprietà idrostatiche siano identiche a quelle della nave reale e che la risposta flessionale dello scafo alle onde sia trascurabile. 
+ 
+
+ è inoltre importante garantire che i compartimenti danneggiati siano ricostruiti nel modello nel modo più accurato possibile, in modo da assicurare la presenza del corretto volume di acqua in occasione dell'allagamento. 
+ 
+
+ Poichè l'ingresso di acqua (anche in quantità minime) nelle parti intatte del modello ne influenzerà il comportamento, occorre adottare le necessarie misure perchè non si verifichi alcuna perdita. 
+ 
+
+ 2.2. Dettagli del modello 
+ 
+
+ 2.2.1. Riconoscendo che gli effetti di scala possono influenzare notevolmente il comportamento del modello durante le prove, è importante garantire che tali effetti stiano per quanto possibile ridotti al minimo. Il modello deve essere il più grande possibile, in quanto i compartimenti danneggiati possono in tal modo essere ricostruiti in maggior dettaglio, con conseguente riduzione degli e effetti di scala. Si raccomanda pertanto di adottare per il modello una scala non inferiore a 1:40. Il modello non deve tuttavia essere di dimensioni inferiori ai tre metri alla linea di galleggiamento di compartimentazione. 
+ 
+
+ 2.2.2.a) Nel punto dell'ipotetico danno, il modello deve essere quanto più possibile sottile per assicurare che la quantità di acqua penetrata ed il centro di gravità siano correttamente rappresentati. Potrebbe talvolta risultare impossibile ricostruire lo scafo del modello e gli elementi di compartimentazione primaria e secondaria, nel punto del danno, in modo sufficientemente dettagliato: tenuto conto degli eventuali limiti costruttivi, potrebbe quindi non essere possibile calcolare accuratamente la permeabilità ipotizzata di questi spazi. 
+ 
+
+ 2.2.2.b) In occasione delle prove è stato rilevato che l'altezza verticale del modello può influenzare i risultati delle prove in onda. è pertanto necessario che il modello venga esteso di almeno tre sovrastrutture standard al disopra del ponte delle paratie (bordo libero), così che le onde più alte della serie non possano infrangersi sul modello. 
+ 
+
+ 2.2.2.c) è fondamentale misurare e verificare l'immersione del modello non soltanto a nave integra ma anche con il modello in condizioni di avaria, paragonando i risultati a quelli ottenuti con il calcolo di stabilità in condizioni di avaria. Dopo aver misurato l'immersione in condizioni di avaria può risultare necessario modificare la permeabilità del compartimento danneggiato, aggiungendo volumi integri o pesi ulteriori. Va inoltre garantito che il centro di gravità dell'acqua imbarcata sia rappresentato correttamente.
+ 
+
+ Eventuali aggiustamenti per eccesso devono avere per effetto di aumentare i margini di sicurezza. 
+ 
+
+ 2.2.2.d) Se il modello deve essere dotato di barriere sul ponte e se tali barriere sono di altezza inferiore a quella indicata al punto 2.3 dell'allegato I, il modello deve essere dotato di telecamere a circuito chiuso in modo che sia possibile tenere sotto controllo eventuali traboccamenti ed accumuli di acqua nell'area non danneggiata del ponte. In tal caso questa videoregistrazione costituisce parte integrante della documentazione di prova. 
+ 
+
+ 2.2.3. Per garantire che le caratteristiche del moto del modello rispettino quelli della nave reale è importante che il modello sia soggetto ad test opportuni in condizioni di nave integra, in modo che possano essere verificati GM e distribuzione della massa. 
+ 
+
+ Il raggio di inerzia traversale della nave reale non deve essere considerato superiore a 0,4B e quello longitudinale non superiore a 0,25L. 
+ 
+
+ Il periodo di rollio del modello è ottenuto con il seguente calcolo: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ GM: altezza metacentrica della nave reale (integra) 
+ 
+
+ g: accelerazione gravitazionale 
+ 
+
+ λ: scala del modello 
+ 
+
+ B: larghezza della nave reale 
+ 
+
+ 
+ 
+
+ Nota: 
+ 
+
+ Mentre test per la stima del GM e del periodo di rollio del modello in condizioni di avaria possono essere accettate quale prova di verifica della curva di stabilità residua, tali prove non sono ammissibili in sostituzione di quelle a nave integra. 
+ 
+
+ Il modello in condizioni di avaria deve tuttavia essere soggetto a rollio per calcolare il periodo di rollio necessario per eseguire le prove di cui al paragrafo 3.1.2. 
+ 
+
+ 2.2.4. Il contenuto del paragrafo non necessita commenti. Si presume che il sistema di ventilazione del compartimento danneggiato della nave reale siano tali da non influenzare l'allagamento nè il movimento dell'acqua imbarcata. Rispetto alla riproduzione in scala il sistema di ventilazione della nave reale potrebbe tuttavia produrre effetti di scala indesiderati. Per evitare tali effetti, si raccomanda di costruire il sistema di ventilazione con dimensioni maggiori rispetto a quelle della scala impiegata nel modello, in modo che esso non influenzi lo spostamento della massa d'acqua sul ponte garage. 
+ 
+
+ 2.2.5. Il profilo triangolare (isoscele) della forma prismatica della falla, corrisponde al galleggiamento a pieno carico. 
+ 
+
+ Inoltre, nel caso in cui siano sistemate casse laterali interne di larghezza inferiore a B/5 ed al fine di evitare eventuali effetti di scala, la lunghezza della falla non deve essere inferiore a due metri. 
+ 
+
+ 
+ 
+
+ Paragrafo 3 - Svolgimento delle prove 
+ 
+
+ 3.1. Spettro dell'onda 
+ 
+
+ Va utilizzato lo spettro JONSWAP, in quanto descrive condizioni di mare limitate in estensione ed in durata, come appunto avviene nella maggior parte dei casi a livello mondiale. A tal fine è importante non solo verificare il periodo di picco della serie di onde, ma anche controllare che sia corretto il periodo di passaggio al livello medio. 
+ 
+
+ 3.1.1. In presenza di un periodo di picco pari a 4√Hs e dato un
+ 
+
+ fattore di rinforzo pari a 3,3, il periodo di zero-crossing non deve essere superiore a: 
+ 
+
+ 
+ 
+
+ {Tp /(da 1,20 a 1,28)}+/-5 %
+ 
+
+ 
+ 
+
+ 3.1.2. Il periodo di zero-crossing corrispondente ad un periodo di picco pari al periodo di rollio del modello in avaria e, dato un fattore γ pari ad 1, non deve essere superiore a: 
+ 
+
+ 
+ 
+
+ {Tp /(da 1,3 a 1,4)}+/-5 %;
+ 
+
+ 
+ 
+
+ va notato che se il periodo di rollio del modello in avaria è superiore a 6√Hs il periodo di picco va limitato a 6√Hs. 
+ 
+
+ 
+ 
+
+ Nota: 
+ 
+
+ è stato stabilito che non risulta pratico fissare limiti ai periodi di zero-crossing della serie di onde generate in vasca, conformemente ai valori nominali della formula matematica. è quindi permesso un margine di errore del 5%. 
+ 
+
+ Per ogni serie di esperimenti lo spettro d'onda deve essere registrato e documentato. Le misurazioni vanno a tal fine effettuate vicino al modello (ma non sottovento - cfr. figura seguente) ed anche in prossimità dell'ondogeno. 
+ 
+
+ Il modello deve inoltre essere dotato di sensori che permettano di controllare e registrare tutti i suoi movimenti (rollio, sussulto, beccheggio etc.) e il suo comportamento (angolo di sbandamento, immersione ed assetto longitudinale) nel corso della prova. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Il sensore per la misurazione delle onde &laquo;in prossimità del modello&raquo; va posizionato sull'arco A o B (Figura a). 
+ 
+
+ 
+ 
+
+ Paragrafi 3.2, 3.3, 3.4 
+ 
+
+ Il contenuto dei paragrafi non necessita commenti. 
+ 
+
+ 
+ 
+
+ 3.5. Danneggiamenti simulati 
+ 
+
+ Lunghe ed approfondite ricerche volte allo sviluppo di opportuni criteri per le navi nuove hanno chiaramente dimostrato che, oltre a GM ed al bordo libero, per valutare le possibilità di sopravvivenza della nave è importante tenere conto anche dell'area sottesa alla curva di stabilità, fino all'angolo di GZ massimo. Nello scegliere le peggiori condizioni di avaria previste dalla convenzione SOLAS, per provare la conformità ai requisiti del paragrafo 3.5.1 va perciò scelta la condizione in cui risulta minima l'area sottesa alla curva di stabilità residua, fino all'angolo di GZ massimo. 
+ 
+
+ 
+ 
+
+ Paragrafo 4 - Criteri di sopravvivenza 
+ 
+
+ Il contenuto del paragrafo non necessita commenti. 
+ 
+
+ 
+ 
+
+ Paragrafo 5 - Omologazione 
+ 
+
+ Alla relazione presentata all'amministrazione competente vanno allegati i seguenti documenti: 
+ 
+
+ a) calcolo della stabilità in condizioni di avaria nella peggiore ipotesi SOLAS e (se diverso) con avaria a centro nave; 
+ 
+
+ b) piani generali del modello, dettagli di costrizione e informazioni sulla strumentazione; 
+ 
+
+ c) relazioni sulle prove per la stima del raggio metacentrico e del periodo di rollio; 
+ 
+
+ d) calcolo dei periodi di rollio del modello e della nave reale; 
+ 
+
+ e) spettro d'onda nominale e misurato (in prossimità dell'ondogeno e vicino al modello); 
+ 
+
+ f) registrazioni rappresentative di moti, assetto e scarroccio; 
+ 
+
+ g) videoregistrazioni del caso. 
+ 
+
+ 
+ 
+
+ Nota: 
+ 
+
+ A tutte le prove deve presenziare un rappresentante dell'
+ ((organismo riconosciuto))
+
+ della nave. 
+ 
+
+ 
+ 
+
+ Figure 
+ 
+
+ (Orientamenti indicativi per gli Enti tecnici) 
+ 
+
+ Figura 1 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 2 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 3 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 4 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 5 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 6 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 7 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 8 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 9 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
