@@ -36,7 +36,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il farmacista, al quale venga presentata una ricetta medica che contenga la prescrizione di un farmaco appartenente alla classe di cui alla lettera c) del comma 10 dell'articolo 8 della legge 24 dicembre 1993, n. 537, come modificato dalla legge 30 dicembre 2004, n. 311, è tenuto ad informare il paziente dell'eventuale presenza in commercio di medicinali aventi uguale composizione in principi attivi, nonchè forma farmaceutica, via di somministrazione, modalità di rilascio e dosaggio unitario uguali. Qualora sulla ricetta non risulti apposta dal medico l'indicazione della non sostituibilità del farmaco prescritto, il farmacista, su richiesta del cliente, è tenuto a fornire un medicinale avente prezzo più basso di quello del medicinale prescritto. Ai fini del confronto il prezzo è calcolato per unità posologica o quantità unitaria di principio attivo.
+ 1. Il farmacista, al quale venga presentata una ricetta medica che contenga la prescrizione di un farmaco appartenente alla classe di cui alla lettera c) del comma 10 dell'articolo 8 della legge 24 dicembre 1993, n. 537, come modificato dalla legge 30 dicembre 2004, n. 311, 
+ ((è obbligato sulla base della sua specifica competenza professionale))
+
+ ad informare il paziente dell'eventuale presenza in commercio di medicinali aventi uguale composizione in principi attivi, nonchè forma farmaceutica, via di somministrazione, modalità di rilascio e dosaggio unitario uguali. Qualora sulla ricetta non risulti apposta dal medico l'indicazione della non sostituibilità del farmaco prescritto, il farmacista, su richiesta del cliente, è tenuto a fornire un medicinale avente prezzo più basso di quello del medicinale prescritto. Ai fini del confronto il prezzo è calcolato per unità posologica o quantità unitaria di principio attivo.
  
 
  
@@ -44,18 +47,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Ai sensi dell'articolo 1, comma 168, della legge 30 dicembre 2004, n. 311, l'Agenzia italiana del farmaco, entro trenta giorni dalla data di entrata in vigore del presente decreto, compila e diffonde l'elenco dei farmaci nei confronti dei quali trova applicazione il comma 1. Una o più copie dell'elenco sono poste a disposizione del pubblico, in ciascuna farmacia.
- 
+ 2. Ai sensi dell'articolo 1, comma 168, della legge 30 dicembre 2004, n. 311, l'Agenzia italiana del farmaco, entro trenta giorni dalla data di entrata in vigore del presente decreto, compila e diffonde 
+ ((ai medici di medicina generale, ai pediatri convenzionati, agli specialisti e agli ospedalieri, nonchè alle aziende sanitarie locali ed alle aziende ospedaliere))
+
+ l'elenco dei farmaci nei confronti dei quali trova applicazione il comma 1. Una o più copie dell'elenco 
+ ((devono essere poste in modo ben visibile al pubblico all'interno di ciascuna farmacia.))
 
  
  
- 
 
  
- 3. Il prezzo dei medicinali appartenenti alle classi di cui alle lettere c) e c-bis) del comma 10 dell'articolo 8 della legge 24 dicembre 1993, n. 537, come modificato dalla legge 30 dicembre 2004, n. 311, è stabilito dai titolari dell'autorizzazione all'immissione in commercio. Tale prezzo può essere modificato, in aumento, soltanto nel mese di gennaio di ogni anno dispari e, per i farmaci senza obbligo di prescrizione medica (SOP) e per i farmaci di automedicazione, costituisce il prezzo massimo di vendita al pubblico.
- 
+ 3. Il prezzo dei medicinali appartenenti alle classi di cui alle lettere c) e c-bis) del comma 10 dell'articolo 8 della legge 24 dicembre 1993, n. 537, come modificato dalla legge 30 dicembre 2004, n. 311, è stabilito dai titolari dell'autorizzazione all'immissione in commercio. Tale prezzo può essere modificato, in aumento, soltanto nel mese di gennaio di ogni anno dispari e, per i farmaci senza obbligo di prescrizione medica (SOP) e per i farmaci di automedicazione, costituisce il prezzo massimo di vendita al pubblico. 
+ ((Variazioni di prezzo in diminuzione sono possibili in qualsiasi momento.))
 
- 
  
  
 
@@ -68,7 +72,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Entro sessanta giorni dalla data di entrata in vigore del presente decreto, sulle confezioni dei medicinali di cui al comma 4 deve essere riportata, anche con apposizione di etichetta adesiva sulle confezioni già in commercio, la dicitura: "Prezzo massimo di vendita euro ...".
+ 5. 
+ ((Entro centoventi giorni dalla data di entrata in vigore della legge di conversione del presente decreto))
+
+ , sulle confezioni dei medicinali di cui al comma 4 deve essere riportata, anche con apposizione di etichetta adesiva sulle confezioni già in commercio, la dicitura: "Prezzo massimo di vendita euro ...".
  
 
  
@@ -76,4 +83,27 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Il comma 2 dell'articolo 1 del decreto-legge 20 settembre 1995, n. 390, convertito, con modificazioni, dalla legge 20 novembre 1995, n. 490, si applica ai farmaci di cui alla classe c) del comma 10 dell'articolo 8 della legge 24 dicembre 1993, n. 557, come modificato dalla legge 30 dicembre 2004, n. 311, con esclusione di quelli richiamati al comma 4.
+ 6. Il comma 2 dell'articolo 1 del decreto-legge 20 settembre 1995, n. 390, convertito, con modificazioni, dalla legge 20 novembre 1995, n. 490, si applica ai 
+ ((farmaci appartenenti alla classe di cui alla lettera c) ))
+
+ del comma 10 dell'articolo 8 della 
+ ((legge 24 dicembre 1993, n. 537))
+
+ , come modificato dalla legge 30 dicembre 2004, n. 311, con esclusione di quelli richiamati al comma 4.
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 6-bis. Il farmacista che non ottempera agli obblighi previsti dal presente articolo è soggetto alla sanzione pecuniaria indicata nell'articolo 8, comma 3, del decreto legislativo 30 dicembre 1992, n. 539, e successive modificazioni. In caso di reiterazione delle violazioni può essere disposta la chiusura temporanea della farmacia per un periodo comunque non inferiore a giorni quindici.
+ 
+
+ 
+ ))
