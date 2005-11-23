@@ -33,10 +33,13 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
- ((è istituito, presso il Ministero dell'interno, l'Indice nazionale delle anagrafi (INA), per un migliore esercizio della funzione di vigilanza e di gestione dei dati anagrafici. 
+ ((Per l'esercizio delle funzioni di vigilanza di cui all'articolo 12, è istituito, presso il Ministero dell'interno, l'Indice nazionale delle anagrafi (INA), alimentato e costantemente aggiornato, tramite collegamento informatico, da tutti i comuni. 
  
 
- Con decreto del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica sentiti l'Autorità per l'informatica nella pubblica amministrazione (AIPA), il Garante per la protezione dei dati personali e l'Istituto nazionale di statistica (ISTAT) è adottato il regolamento per la gestione dell'INA))
+ L'INA promuove la circolarità delle informazioni anagrafiche essenziali al fine di consentire alle amministrazioni pubbliche centrali e locali collegate la disponibilità, in tempo reale, dei dati relativi alle generalità delle persone residenti in Italia, certificati dai comuni e, limitatamente al codice fiscale, dall'Agenzia delle entrate. 
+ 
+
+ Con decreto del Ministro dell'interno, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, di concerto con il Ministro per la funzione pubblica e il Ministro per l'innovazione e le tecnologie, sentiti il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA), il Garante per la protezione dei dati personali e l'Istituto nazionale di statistica (ISTAT), è adottato il regolamento dell'INA. Il regolamento disciplina le modalità di aggiornamento dell'INA da parte dei comuni e le modalità per l'accesso da parte delle amministrazioni pubbliche centrali e locali al medesimo INA, per assicurarne la piena operatività))
  
 
  .
