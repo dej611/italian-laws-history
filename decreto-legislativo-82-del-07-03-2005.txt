@@ -182,7 +182,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) autenticazione informatica: la validazione dell'insieme di dati attribuiti in modo esclusivo ed univoco ad un soggetto, che ne distinguono l'identità nei sistemi informativi, effettuata attraverso opportune tecnologie al fine di garantire la sicurezza dell'accesso; 
+ b) autenticazione informatica: la validazione dell'insieme di dati attribuiti in modo esclusivo ed univoco ad un soggetto, che ne distinguono l'identità nei sistemi informativi, effettuata attraverso opportune tecnologie 
+ ((anche))
+
+ al fine di garantire la sicurezza dell'accesso; 
  
 
  
@@ -203,10 +206,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) certificati elettronici: gli attestati elettronici che collegano i dati utilizzati per verificare le firme elettroniche ai titolari e confermano l'identità informatica dei titolari stessi; 
- 
+ e) certificati elettronici: gli attestati elettronici che collegano 
+ ((all'identità del titolare))
 
- 
+ i dati utilizzati per verificare le firme elettroniche 
+ (( . . . ))
+
  
 
  
@@ -273,14 +278,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q) firma elettronica: l'insieme dei dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici, utilizzati come metodo di autenticazione informatica; 
+ q) firma elettronica: l'insieme dei dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici, utilizzati come metodo di 
+ ((identificazione))
+
+ informatica; 
  
 
  
  
 
  
- r) firma elettronica qualificata: la firma elettronica ottenuta attraverso una procedura informatica che garantisce la connessione univoca al firmatario e la sua univoca autenticazione informatica, creata con mezzi sui quali il firmatario può conservare un controllo esclusivo e collegata ai dati ai quali si riferisce in modo da consentire di rilevare se i dati stessi siano stati successivamente modificati, che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma, quale l'apparato strumentale usato per la creazione della firma elettronica; 
+ r) firma elettronica qualificata: la firma elettronica ottenuta attraverso una procedura informatica che garantisce la connessione univoca al firmatario 
+ (( . . . ))
+
+ , creata con mezzi sui quali il firmatario può conservare un controllo esclusivo e collegata ai dati ai quali si riferisce in modo da consentire di rilevare se i dati stessi siano stati successivamente modificati, che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma 
+ (( . . . ))
+
+ ; 
  
 
  
@@ -308,17 +322,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- v) originali non unici: i documenti per i quali sia possibile 
- 
-
- risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi; 
+ v) originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi; 
  
 
  
- z) pubbliche amministrazioni centrali: le amministrazioni dello 
  
 
- Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le istituzioni universitarie, gli enti pubblici non economici nazionali, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN), le agenzie di cui al decreto legislativo 30 luglio 1999, n. 300; 
+ 
+ z) pubbliche amministrazioni centrali: le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le istituzioni universitarie, gli enti pubblici non economici nazionali, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN), le agenzie di cui al decreto legislativo 30 luglio 1999, n. 300; 
  
 
  
@@ -332,161 +343,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- bb) validazione temporale: il risultato della procedura informatica con cui si attribuiscono, ad uno o più documenti informatici, una data ed un orario opponibili ai terzi. 
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
- Avvertenza:
- 
-
- 
- 
-
- Il testo delle note qui pubblicato è stato redatto dall'Amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio.
- 
-
- Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
- 
-
- Per le direttive CE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale della Comunità europea (G.U.C.E.).
- 
-
- 
- 
-
- Note alle premesse:
- 
-
- 
- 
-
- - L'art. 76 della Costituzione dispone che l'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
- 
-
- - L'art. 87, quinto comma, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- 
-
- - L'art. 117, secondo comma, lettera r) della Costituzione conferisce allo Stato legislazione esclusiva nelle seguenti materie: "r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno;".
- 
-
- - Si riporta il testo dell'art. 14 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
- 
-
- "Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'art. 76 della Costituzione sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei Ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione.
- 
-
- 2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo è trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza.
- 
-
- 3. Se la delega legislativa si riferisce ad una pluralità di oggetti distinti suscettibili di separata disciplina, il Governo può esercitarla mediante più atti successivi per uno o più degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega.
- 
-
- 4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due amni, il Governo è tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere è espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.".
- 
-
- - Si riporta il testo dell'art. 10 della legge 29 luglio 2003, n. 229 (Interventi in materia di qualità della regolazione, riassetto normativo e codificazione - Legge di semplificazione 2001.):
- 
-
- "Art. 10 (Riassetto in materia di società dell'informazione). - 1. Il Governo è delegato ad adottare, entro diciotto mesi dalla data in entrata in vigore della presente legge, uno o più decreti legislativi, su proposta del Ministro per l'innovazione e le tecnologie e dei Ministri competenti per materia, per il coordinamento e il riassetto delle disposizioni vigenti in materia di società dell'informazione, ai sensi e secondo i principi e i criteri direttivi di cui all'art. 20 della legge 15 marzo 1997, n. 59, come sostituito dall'art. 1 della presente legge, e nel rispetto dei seguenti principi e criteri direttivi:
- 
-
- a) graduare la rilevanza giuridica e l'efficacia probatoria dei diversi tipi di firma elettronica in relazione al tipo di utilizzo e al grado di sicurezza della firma;
- 
-
- b) rivedere la disciplina vigente al fine precipuo di garantire la più ampia disponibilità di servizi resi per via telematica dalle pubbliche amministrazioni e dagli altri soggetti pubblici e di assicurare ai cittadini e alle imprese l'accesso a tali servizi secondo il criterio della massima semplificazione degli strumenti e delle procedure necessari e nel rispetto dei principi di eguaglianza, non discriminazione e della normativa sulla riservatezza dei dati personali;
- 
-
- c) prevedere la possibilità di attribuire al dato e al documento informatico contenuto nei sistemi informativi pubblici i caratteri della primarietà e originalità, in sostituzione o in aggiunta a dati e documenti non informatici, nonchè obbligare le amministrazioni che li detengono ad adottare misure organizzative e tecniche volte ad assicurare l'esattezza, la sicurezza e la qualità del relativo contenuto informativo;
- 
-
- d) realizzare il coordinamento formale del testo delle disposizioni vigenti, apportando, nei limiti di detto coordinamento, le modifiche necessarie per garantire la coerenza logica e sistematica della normativa anche al fine di adeguare o semplificare il linguaggio normativo;
- 
-
- e) adeguare la normativa alle disposizioni comunitarie.
- 
-
- 2. La delega di cui al comma 1 è esercitata per i seguenti oggetti:
- 
-
- a) il documento informatico, la firma elettronica e la firma digitale;
- 
-
- b) i procedimenti amministrativi informatici di competenza delle Amministrazioni statali anche ad ordinamento autonomo;
- 
-
- c) la gestione dei documenti informatici;
- 
-
- d) la sicurezza informatica dei dati e dei sistemi;
- 
-
- e) le modalità di accesso informatico ai documenti e alle banche dati di competenza delle Amministrazioni statali anche ad ordinamento autonomo.
- 
-
- 3. Il Governo è delegato ad adottare uno o più decreti legislativi recanti disposizioni correttive e integrative dei decreti legislativi di cui al comma 1, nel rispetto degli oggetti e dei principi e criteri direttivi determinati dal presente articolo, entro dodici mesi decorrenti dalla data di scadenza del termine di cui al medesimo comma 1.".
- 
-
- - La legge 7 agosto 1990, n. 241, pubblicata nella Gazzetta Ufficiale del 18 agosto 1990, n. 192, reca "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
- 
-
- - Il decreto legislativo 12 febbraio 1993, n. 39, pubblicato nella Gazzetta Ufficiale del 20 febbraio 1993, n. 42, reca "Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421.".
- 
-
- - Il decreto legislativo 30 luglio 1999, n. 300, pubblicato nella Gazzetta Ufficiale del 30 agosto 1999, n. 203, supplemento ordinario, reca "Riforma dell'organizzazione del Governo, a norma dell'art. 11 della legge 15 marzo 1997, n. 59.".
- 
-
- - Il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, pubblicato nella Gazzetta Ufficiale del 20 febbraio 2001, n. 42, supplemento ordinario, reca "testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa. (Testo A).".
- 
-
- - Il decreto legislativo 30 marzo 2001, n. 165, pubblicato nella Gazzetta Ufficiale del 9 maggio 2001, n. 106, supplemento ordinario, reca "Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche.".
- 
-
- - Il decreto legislativo 23 gennaio 2002, n. 10, pubblicato nella Gazzetta Ufficiale del 15 febbraio 2002, n. 39, reca "Attuazione della direttiva 1999/93/CE relativa ad un quadro comunitario per le firme elettroniche.".
- 
-
- - Il decreto legislativo 30 giugno 2003, n. 196, pubblicato nella Gazzetta Ufficiale del 29 luglio 2003, n. 174, supplemento ordinario, reca "Codice in materia di protezione dei dati personali.".
- 
-
- - La legge 9 gennaio 2004, n. 4, pubblicata nella Gazzetta Ufficiale del 17 gennaio 2004, n. 13, reca "Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici.".
- 
-
- - Il decreto legislativo 20 febbraio 2004, n. 52, pubblicato nella Gazzetta Ufficiale del 28 febbraio 2004, n. 49, supplemento ordinario, reca "Attuazione della direttiva 2001/115/CE che semplifica ed armonizza le modalità di fatturazione in materia di IVA.".
- 
-
- - La legge 21 giugno 1986, n. 317, pubblicata nella Gazzetta Ufficiale del 2 luglio 1986, n. 151, reca "Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione in attuazione della direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998, modificata dalla direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998".
- 
-
- - Si riporta il testo dell'art. 8 del decreto legislativo 28 agosto 1997, n. 281 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-città ed autonomie locali.):
- 
-
- "Art. 8 (Conferenza Stato-città ed autonomie locali e Conferenza unificata). - 1. La Conferenza Stato-città ed autonomie locali è unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunità montane, con la Conferenza Stato-regioni.
- 
-
- 2. La Conferenza Stato-città ed autonomie locali è presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali; ne fanno parte altresì il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanità, il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunità ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
- 
-
- Dei quattordici sindaci designati dall'ANCI cinque rappresentano le città individuate dall'art. 17 della legge 8 giugno 1990, n. 142. Alle riunioni possono essere invitati altri membri del Governo, nonchè rappresentanti di amministrazioni statali, locali o di enti pubblici.
- 
-
- 3. La Conferenza Stato-città ed autonomie locali è convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessità o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM.
- 
-
- 4. La Conferenza unificata di cui al comma 1 è convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non è conferito, dal Ministro dell'interno.".
- 
-
- Note all'art. 1:
- 
-
- - La direttiva 1999/93/CE del 13 dicembre 1999, del Parlamento europeo e del Consiglio, relativa ad un quadro comunitario per le firme elettroniche è stata pubblicata nella G.U.C.E. del 19 gennaio 2000, n. L 13. - Entrata in vigore il 19 gennaio 2000.-.
- 
-
- - Per il decreto legislativo 30 luglio 1999, n. 300, si vedano le note alle premesse.
+ bb) validazione temporale: il risultato della procedura informatica con cui si attribuiscono, ad uno o più documenti informatici, una data ed un orario opponibili ai terzi.
