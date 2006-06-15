@@ -1,0 +1,832 @@
+Allegato I 
+ 
+
+ ELENCO DEGLI EVENTI DA SEGNALARE PER QUANTO RIGUARDA LE OPERAZIONI DI VOLO, LA MANUTENZIONE, RIPARAZIONE E COSTRUZIONE 
+ 
+
+ Nota 1: Pur elencando la maggior parte degli eventi da segnalare, il presente allegato non ha carattere tassativo. I soggetti interessati sono pertanto tenuti a comunicare qualsiasi altro evento che a loro giudizio risponda ai criteri stabiliti. 
+ 
+
+ Nota 2: Il presente allegato non contempla gli incidenti. In aggiunta agli altri requisiti relativi alla notifica degli incidenti, dovrebbero anch'essi essere registrati nella base dati di cui all'articolo 5, paragrafo 2. 
+ 
+
+ Nota 3: Il presente allegato contiene esempi di requisiti cui debbono rispondere le relazioni tecniche riguardanti le operazioni di volo, la manutenzione e riparazione degli aeromobili e la loro costruzione. 
+ 
+
+ Nota 4: Sono da segnalare gli eventi in cui la sicurezza del funzionamento è stata o avrebbe potuto essere pregiudicata o che avrebbero potuto portare a una condizione di insicurezza. Se, secondo l'informatore, un evento non ha creato pericoli per la sicurezza del funzionamento ma potrebbe costituire un pericolo se si ripetesse in circostanze non identiche ma analoghe, allora dovrebbe essere fatta una segnalazione. Ciò che si ritiene degno di segnalazione per una classe di prodotti, una parte o una pertinenza potrebbe non esserlo in altri casi e la mancanza o la presenza di un singolo fattore, di natura umana o tecnica, può trasformare un evento in un incidente o inconveniente grave. 
+ 
+
+ Nota 5: Approvazioni specifiche di funzionamento ad esempio RVSM, ETOPS, RNAV o un programma di progettazione o manutenzione possono avere requisiti di segnalazione specifici per avarie o disfunzioni associate all'approvazione o al programma. 
+ 
+
+ A. Operazioni di volo. 
+ 
+
+ i) Funzionamento dell'aeromobile. 
+ 
+
+ a) Manovre di scampo: 
+ 
+
+ - Rischio di collisione con un altro aeromobile, col suolo o con altri oggetti o per evitare una situazione pericolosa, ovvero casi in cui una tale manovra sarebbe stata necessaria. 
+ 
+
+ - Manovra di scampo per evitare una collisione con un altro aeromobile, col suolo o con altri oggetti. 
+ 
+
+ - Manovra di scampo per evitare altre situazioni pericolose. 
+ 
+
+ b) Incidenti al decollo o all'atterraggio (anche atterraggio precauzionale o forzato). Incidenti quali atterraggio corto, uscita fuori pista o sconfinamento laterale. Decollo ripetuto, decollo interrotto, atterraggio o tentativo di atterraggio su una pista chiusa, occupata o sbagliata. Incursioni sulla pista. 
+ 
+
+ c) Impossibilità di ottenere le prestazioni previste durante le fasi di decollo e di salita iniziale dell'aeromobile. 
+ 
+
+ d) Livello criticamente basso di carburante, impossibilità di trasferire il carburante o di utilizzare tutto il carburante disponibile. 
+ 
+
+ e) Perdita di controllo (anche parziale o temporanea) dovuta a qualsiasi causa. 
+ 
+
+ f) Eventi verificatisi a velocità prossime o superiori a V1 dovuti a situazioni pericolose o potenzialmente pericolose o che possono provocare queste stesse situazioni (ad esempio decollo interrotto, colpo di coda al decollo, caduta di regime motore, ecc.). 
+ 
+
+ g) Riattaccata che provochi una situazione di rischio reale o potenziale. 
+ 
+
+ h) Deviazione significativa dell'aeromobile rispetto alla velocità aerodinamica, alla rotta o all'altitudine prevista (oltre 300 piedi) dovuta a qualsiasi causa. 
+ 
+
+ i) Discesa al di sotto della quota/altitudine di decisione o quota/altitudine minima di discesa senza il controllo visivo richiesto. 
+ 
+
+ j) Perdita della conoscenza circa la posizione effettiva propria o di un altro aeromobile. 
+ 
+
+ k) Interruzione della comunicazione tra l'equipaggio di volo (CRM) o tra l'equipaggio di volo e altre parti (equipaggio di cabina, ATC, ingegneria). 
+ 
+
+ l) Atterraggio pesante - un atterraggio per cui si ritenga necessario un &laquo;controllo di atterraggio pesante&raquo;. 
+ 
+
+ m) Sbilanciamento eccessivo del carburante. 
+ 
+
+ n) Regolazione errata di un codice SSR o della scala di un altimetro. 
+ 
+
+ o) Errore di programmazione o di immissione dei dati nelle apparecchiature di navigazione e di misura delle prestazioni o uso di dati errati. 
+ 
+
+ p) Ricezione o interpretazione errata di messaggi RTF. 
+ 
+
+ q) Funzionamento difettoso o anomalie nel sistema di carburante con conseguenze sull'alimentazione e/o sulla distribuzione del carburante. 
+ 
+
+ r) Aeromobile che lascia involontariamente una superficie pavimentata. 
+ 
+
+ s) Collisione tra un aeromobile e qualsiasi altro aeromobile, veicolo o oggetto a terra. 
+ 
+
+ t) Uso inavvertito e/o errato di un comando. 
+ 
+
+ u) Impossibilità di ottenere l'assetto previsto per ogni fase di volo (ad esempio: carrello e portelli di atterraggio, ipersostentatori, stabilizzatori, alule, ecc.). 
+ 
+
+ v) Un rischio o un rischio potenziale consecutivo alla simulazione di condizioni di emergenza per scopi di addestramento, verifiche del sistema o prova. 
+ 
+
+ w) Vibrazioni anomale. 
+ 
+
+ x) Attivazione di un sistema primario di avviso re!ativo alle manovre dell'aeromobile [ad esempio avviso di assetto, avviso di stallo (vibrazione della manetta), avviso di supergiri, ecc.], salvo se: 
+ 
+
+ 1) l'equipaggio ha incontrovertibilmente appurato che l'indicazione era falsa, a condizione che il falso avviso non abbia provocato difficoltà o rischi per effetto delle reazioni dell'equipaggio a tale avviso; 
+ 
+
+ 2) il sistema è stato attivato per scopi di addestramento o test. 
+ 
+
+ y) Avviso GPWS - Ground Proximity Warning System (sistema di avviso di vicinanza del terreno)/TAWS, quando: 
+ 
+
+ 1) l'aeromobile scende ad una distanza dal suolo inferiore a 
+ 
+
+ quanto previsto o annunciato; o 
+ 
+
+ 2) l'avviso è emesso in condizioni meteorologiche di volo strumentale (IMC) o di volo notturno ed è accertato che è stato 
+ 
+
+ attivato dall'elevata velocità discensionale (modo 1); o 
+ 
+
+ 3) l'avviso è dovuto al mancato azionamento del carrello di atterraggio o degli ipersostentatori di atterraggio nel momento 
+ 
+
+ opportuno della fase di avvicinamento (modo 4); o 
+ 
+
+ 4) si verifica o si sarebbe potuta verificare una difficoltà o situazione di pericolo a causa della reazione dell'equipaggio a tale avviso (ad esempio riduzione della distanza rispetto al traffico aereo circostante). In tale categoria rientrano gli avvisi di qualsiasi tipo, ossia &laquo;avviso reale&raquo;, &laquo;avviso parassita&raquo; e &laquo;falso avviso&raquo;. 
+ 
+
+ z) Allarme GPWS/TAWS se la reazione dell'equipaggio ha causato o avrebbe potuto causare difficoltà o una situazione di pericolo. 
+ 
+
+ aa) Sistema di prevenzione delle collisioni in volo ACAS RA. 
+ 
+
+ bb) Incidenti dovuti al getto del turboreattore o alla scia dell'elica che provocano danni o lesioni gravi. 
+ 
+
+ ii) Situazioni di emergenza. 
+ 
+
+ a) Incendio, esplosione, fumi o emanazioni tossiche o nocive anche dopo lo spegnimento degli incendi. 
+ 
+
+ b) Applicazione di una procedura non standard da parte dell'equipaggio di volo o dell'equipaggio di cabina in caso di situazione di emergenza se: 
+ 
+
+ 1) la procedura esiste ma non è applicata; 
+ 
+
+ 2) non esiste alcuna procedura; 
+ 
+
+ 3) la procedura esiste ma è incompleta o inadeguata; 
+ 
+
+ 4) la procedura è errata; 
+ 
+
+ 5) è applicata la procedura errata. 
+ 
+
+ c) Inadeguatezza delle procedure da seguire in situazione di emergenza, anche per fini di manutenzione, addestramento o prova. 
+ 
+
+ d) Evento che dà luogo a un'evacuazione di emergenza. 
+ 
+
+ e) Depressurizzazione. 
+ 
+
+ f) Uso delle apparecchiature o delle procedure di emergenza per far fronte ad una determinata situazione. 
+ 
+
+ g) Evento che dà luogo a una chiamata di soccorso (&laquo;Mayday&raquo; o &laquo;Pan&raquo;). 
+ 
+
+ h) Avaria di un sistema o di un'apparecchiatura di emergenza, compresi i portelli di uscita e l'illuminazione, anche se usati a scopi di manutenzione, addestramento o prova. 
+ 
+
+ i) Eventi che rendono necessario l'uso di ossigeno di emergenza da parte dei membri dell'equipaggio. 
+ 
+
+ iii) Inabilità fisica dell'equipaggio. 
+ 
+
+ a) Incapacità fisica di un membro dell'equipaggio di volo, anche precedente alla partenza, se si ritiene che avrebbe potuto causare un'incapacità fisica dopo il decollo. 
+ 
+
+ b) Incapacità fisica di un membro dell'equipaggio di cabina che gli impedisce di svolgere compiti essenziali in situazioni di emergenza. 
+ 
+
+ iv) Lesioni. 
+ 
+
+ Eventi che hanno causato o avrebbero potuto causare lesioni gravi ai passeggeri o all'equipaggio ma che non possono essere segnalati come incidenti. 
+ 
+
+ v) Condizioni meteorologiche. 
+ 
+
+ a) Caduta di fulmine che provoca un danno all'aeromobile, l'avaria o il funzionamento difettoso di un servizio essenziale. 
+ 
+
+ b) Caduta di grandine che provoca un danno all'aeromobile, l'avaria o il funzionamento difettoso di un servizio essenziale. 
+ 
+
+ c) Forte turbolenza che provoca lesioni agli occupanti o che rende necessaria una &laquo;verifica della turbolenza&raquo; dell'aeromobile. 
+ 
+
+ d) Improvviso cambiamento di vento. 
+ 
+
+ e) Formazione di ghiaccio che causa difficoltà di manovra, danni all'aeromobile, l'avaria o il funzionamento difettoso di un servizio essenziale. 
+ 
+
+ vi) Sicurezza. 
+ 
+
+ a) Pirateria aerea con allarme bomba e rischio di dirottamento. 
+ 
+
+ b) Difficoltà nel controllare passeggeri in stato di ebbrezza, violenti o indisciplinati. 
+ 
+
+ c) Individuazione di un passeggero clandestino. 
+ 
+
+ vii) Altri eventi. 
+ 
+
+ a) Ripetizione di eventi di un determinato tipo che, presi isolatamente, non sarebbero considerati degni di segnalazione ma la cui frequenza costituisce un rischio potenziale. 
+ 
+
+ b) Collisione con un uccello che abbia provocato danni all'aeromobile, l'avaria o il funzionamento difettoso di un servizio essenziale. 
+ 
+
+ c) Turbolenze di scia. 
+ 
+
+ d) Eventi di altro tipo che si ritiene abbiano messo in pericolo avrebbero potuto mettere in pericolo l'aeromobile e i suoi occupanti a bordo dell'aeromobile o a terra. 
+ 
+
+ B. Elementi tecnici dell'aeromobile. 
+ 
+
+ i) Struttura. 
+ 
+
+ Non tutte le avarie strutturali devono essere necessariamente segnalate. Sono i servizi di ingegneria meccanica a determinare se la gravità dell'avaria è tale da dover essere segnalata. Si riportano qui di seguito esempi rilevanti di avarie: 
+ 
+
+ a) Danni ad un elemento strutturale principale qualificato come non resistente ai danni (elemento con durata di servizio limitata).
+ 
+
+ Gli elementi strutturali principali sono quelli che contribuiscono in modo determinante a sostenere il carico in volo, a terra e di pressurizzazione e il cui cedimento potrebbe provocare avarie catastrofiche per l'aeromobile. 
+ 
+
+ b) Anomalie o danni superiori ai limiti ammissibili di un elemento strutturale principale qualificato resistente ai danni. 
+ 
+
+ c) Danni o anomalie superiori ai limiti di tolleranza autorizzati di un elemento strutturale il cui cedimento potrebbe compromettere la rigidezza strutturale a tal punto che i margini stabiliti di inversione dei comandi, di vibrazione autoelastica e di divergenza non possono più essere raggiunti. 
+ 
+
+ d) Danni o anomalie ad un elemento strutturale che possono causare la liberazione di elementi di massa che rischiano di ferire gli occupanti dell'aeromobile. 
+ 
+
+ e) Danni o anomalie ad un elemento strutturale che potrebbero compromettere il corretto funzionamento dei sistemi. Cfr. parte B, punto ii). 
+ 
+
+ f) Perdita di elemento strutturale dell'aeromobile durante il volo. 
+ 
+
+ ii) Sistemi. 
+ 
+
+ Si propongono i seguenti criteri generali applicabili a tutti i sistemi: 
+ 
+
+ a) Avaria, funzionamento difettoso o anomalia di sistemi, sottosistemi o apparati quando non è stato possibile effettuare in modo soddisfacente le procedure ordinarie, le esercitazioni, ecc. 
+ 
+
+ b) Incapacità di controllo del sistema da parte dell'equipaggio, ad esempio: 
+ 
+
+ 1) azioni non controllate; 
+ 
+
+ 2) risposta errata o incompleta, tra cui limitazione del movimento o rigidezza; 
+ 
+
+ 3) motore imballato; 
+ 
+
+ 4) avaria o disconnessione meccanica. 
+ 
+
+ c) Avaria o funzionamento difettoso di una o più funzioni esclusive del sistema (uno stesso sistema può integrare diverse funzioni). 
+ 
+
+ d) Interferenza all'interno di un sistema o tra sistemi diversi. 
+ 
+
+ e) Avaria o funzionamento difettoso del dispositivo di protezione o del dispositivo di emergenza di un sistema. 
+ 
+
+ f) Perdita di ridondanza del sistema. 
+ 
+
+ g) Eventi causati da un comportamento imprevisto di un sistema. 
+ 
+
+ h) Per gli aeromobili con un unico sistema, sottosistema o apparato principale: Avaria, funzionamento difettoso o anomalia di sistemi, sottosistemi o apparati. 
+ 
+
+ i) Per gli aeromobili con più di un sistema, sottosistema o apparato indipendente principale: Avaria, funzionamento difettoso o anomalia di uno o più sistemi, sottosistemi o apparati principali. 
+ 
+
+ j) Attivazione di un sistema primario di avviso relativo ai sistemi o alle apparecchiature dell'aeromobile, salvo se l'equipaggio ha incontrovertibilmente appurato che l'indicazione era falsa, a condizione che il falso avviso non abbia provocato difficoltà o situazioni di pericolo per effetto della reazione dell'equipaggio a tale avviso. 
+ 
+
+ k) Perdita di fluidi idraulici, carburante, olio o altri liquidi che ha provocato un rischio di incendio, una contaminazione pericolosa della struttura, dei sistemi o delle apparecchiature dell'aeromobile o rischi per gli occupanti. 
+ 
+
+ l) Funzionamento difettoso o anomalia di un sistema di segnalazione che possa dar luogo ad indicazioni fuorvianti per l'equipaggio. 
+ 
+
+ m) Avarie, funzionamento difettoso o anomalie verificatisi durante una fase critica del volo e rilevanti ai fini del funzionamento del sistema. 
+ 
+
+ n) Calo significativo delle prestazioni effettive rispetto alle prestazioni approvate che ha causato una situazione pericolosa (tenendo conto della precisione del metodo di calcolo delle prestazioni), in particolare nel sistema frenante, nel consumo di carburante, ecc. 
+ 
+
+ o) Asimmetria dei comandi di volo (ipersostentatori, alette, diruttori, ecc.). 
+ 
+
+ L'appendice del presente allegato riporta esempi di eventi da segnalare per effetto dell'applicazione dei summenzionati criteri generali a determinati sistemi. 
+ 
+
+ iii) Propulsione (motori, propulsori e rotori) e propulsori ausiliari (APU). 
+ 
+
+ a) Spegnimento, arresto o anomalia di funzionamento di un motore. 
+ 
+
+ b) Supervelocità o incapacità di controllare la velocità delle parti rotanti ad alta velocità (ad esempio APU, avviatore ad aria, turboventilatore, motore, propulsore o rotore a turbina ad aria). 
+ 
+
+ c) Avaria o funzionamento difettoso di una parte del motore o dell'apparato propulsore avente le seguenti conseguenze: 
+ 
+
+ 1) non contenimento di componenti detriti; 
+ 
+
+ 2) incendio interno od esterno incontrollato o fuoriuscita di gas caldo; 
+ 
+
+ 3) spinta in direzione diversa da quella impostata dal pilota; 
+ 
+
+ 4) sistema di inversione di spinta che non entra in funzione o entra in funzione inavvertitamente; 
+ 
+
+ 5) impossibilità di controllarne la potenza, la spinta o il numero di giri; 
+ 
+
+ 6) avaria della struttura del castello motore; 
+ 
+
+ 7) avaria parziale o totale di una parte importante dell'apparato propulsore; 
+ 
+
+ 8) emanazioni visibili dense o concentrazioni di prodotti tossici tali da provocare l'incapacità di agire dell'equipaggio o dei passeggeri; 
+ 
+
+ 9) le procedure ordinarie non consentono di spegnere il motore; 
+ 
+
+ 10) impossibilità di riavviare un motore in stato di servizio. 
+ 
+
+ d) Perdita, modifica o oscillazione di potenza/spinta non controllate che è classificata come perdita della spinta o del controllo della potenza (LOTC): 
+ 
+
+ 1) per un monomotore; o 
+ 
+
+ 2) qualora sia considerata eccessiva per l'applicazione; o 
+ 
+
+ 3) qualora riguardi più di un motore in un aeromobile 
+ 
+
+ plurimotore, e in particolare in un bimotore; o 
+ 
+
+ 4) per un aeromobile plurimotore quando lo stesso tipo di motore o un motore simile è utilizzato in un'applicazione in cui l'evento sarebbe considerato pericoloso o critico. 
+ 
+
+ e) Anomalia di una parte a durata di vita limitata che rende necessario il suo ritiro prima della scadenza della vita di servizio utile. 
+ 
+
+ f) Anomalie della stessa origine che potrebbero causare un tasso di spegnimento in volo talmente alto da far sì che possa spegnersi più di un motore sullo stesso volo. 
+ 
+
+ g) Un dispositivo di limitazione o di comando del motore non entra in funzione quando viene azionato o entra in funzione inavvertitamente. 
+ 
+
+ h) Parametri del motore fortemente eccessivi. 
+ 
+
+ i) FOD che dà luogo a pericoli. 
+ 
+
+ Eliche e trasmissioni. 
+ 
+
+ j) Avaria o funzionamento difettoso di qualsiasi parte di un'elica o dell'apparato propulsore avente le seguenti conseguenze: 
+ 
+
+ 1) supervelocità dell'elica; 
+ 
+
+ 2) lo sviluppo di un'eccessiva resistenza aerodinamica; 
+ 
+
+ 3) spinta in direzione opposta a quella impostata dal pilota; 
+ 
+
+ 4) allentamento dell'elica o di una parte significativa dell'elica; 
+ 
+
+ 5) avaria avente come conseguenza uno squilibrio eccessivo; 
+ 
+
+ 6) movimento non intenzionale delle pale dell'elica al di sotto della posizione minima di calettamento prevista per la fase di volo; 
+ 
+
+ 7) impossibilità di collocare l'elica nella posizione a bandiera; 
+ 
+
+ 8) impossibilità di cambiare il calettamento dell'elica; 
+ 
+
+ 9) cambiamento non comandato del calettamento; 
+ 
+
+ 10) fluttuazione incontrollabile della coppia o della velocità; 
+ 
+
+ 11) allentamento delle parti a bassa energia. 
+ 
+
+ Rotori e trasmissione. 
+ 
+
+ k) Danni o anomalie alla scatola di trasmissione/al mozzo del rotore principale che potrebbe causare una separazione del blocco rotore durante il volo e/o un funzionamento difettoso dei comandi del rotore. 
+ 
+
+ l) Danni al rotore di coda, alla trasmissione o a sistemi equivalenti. 
+ 
+
+ APU. 
+ 
+
+ m) Spegnimento o avaria dell'APU quando deve essere disponibile in base a requisiti operativi ad esempio ETOPS, MEL. 
+ 
+
+ n) Impossibilità di spegnere l'APU. 
+ 
+
+ o) Supervelocità. 
+ 
+
+ p) Impossibilità di azionare l'APU quando ciò è necessario per ragioni operative. 
+ 
+
+ iv) Fattori umani. 
+ 
+
+ Qualsiasi inconveniente in cui una caratteristica o inadeguatezza di progettazione dell'aeromobile possa aver dato luogo a un errore di impiego che potrebbe contribuire a un effetto pericoloso o catastrofico. 
+ 
+
+ v) Altri eventi. 
+ 
+
+ a) Qualsiasi inconveniente in cui una caratteristica o inadeguatezza di progettazione dell'aeromobile possa aver dato luogo a un errore di impiego che potrebbe contribuire a un effetto pericoloso o catastrofico. 
+ 
+
+ b) Eventi di norma non considerati eventi da segnalare (ad esempio mobili ed attrezzature della cabina, acqua) ma che, viste le circostanze, hanno causato un rischio per l'aeromobile o i suoi occupanti. 
+ 
+
+ c) Incendio, esplosione, fumi o emanazioni tossiche o nocive. 
+ 
+
+ d) Altri eventi che potrebbero rappresentare un rischio per l'aeromobile, compromettere la sicurezza dei suoi occupanti o delle persone e dei beni situati in prossimità dell'aeromobile o a terra. 
+ 
+
+ e) Avarie o funzionamento difettoso del sistema di avviso ai passeggeri che rendono impossibili o impercettibili gli annunci ai passeggeri. 
+ 
+
+ f) Perdita di controllo del sedile del pilota durante il volo. 
+ 
+
+ C. Manutenzione e riparazione dell'aeromobile. 
+ 
+
+ i) Montaggio errato di parti o componenti dell'aeromobile rilevato durante un'ispezione o di una procedura di prova non destinata a questo scopo. 
+ 
+
+ ii) Danno strutturale provocato da una fuga nel sistema di sfogo dell'aria calda. 
+ 
+
+ iii) Anomalia di una parte a durata di vita limitata che rende necessario il ritiro di detta parte prima del termine della sua vita di servizio utile. 
+ 
+
+ iv) Danno o deterioramento (rottura, cricca, corrosione, delaminazione, scollamento, ecc.) di qualsiasi origine (vibrazione, perdita di rigidezza o avaria strutturale) ai seguenti elementi: 
+ 
+
+ a) struttura primaria o elemento strutturale principale (quali definiti nel manuale di riparazione del costruttore) quando il danno o il deterioramento è superiore ai limiti autorizzati previsti nel manuale di riparazione e richiede una riparazione o una sostituzione completa o parziale dell'elemento in questione; 
+ 
+
+ b) struttura secondaria che ha messo o avrebbe potuto mettere in pericolo l'aeromobile; 
+ 
+
+ c) motore, elica o rotore di un aerogiro. 
+ 
+
+ v) Avaria, funzionamento difettoso o anomalia di un sistema o di un'apparecchiatura, danno o deterioramento rilevato all'atto dell'adeguamento dell'aeromobile ad una direttiva sulla navigabilità o ad un'altra istruzione vincolante emanata da un'autorità di regolamentazione: 
+ 
+
+ a) se l'evento è rilevato per la prima volta dall'organismo segnalante preposto alle operazioni di adeguamento; 
+ 
+
+ b) in occasione di successivi adeguamenti quando l'evento supera i limiti consentiti previsti dalle istruzioni e/o le procedure di riparazione/rettifica pubblicate non sono disponibili. 
+ 
+
+ vi) Avaria di un sistema o di un'apparecchiatura di emergenza, compresi i portelli di uscita e l'illuminazione, anche quando vengono usati per scopi di manutenzione o di prova. 
+ 
+
+ vii) Non conformità o significative divergenze di conformità rispetto alle procedure di manutenzione previste. 
+ 
+
+ viii) Prodotti, parti, pertinenze e materiali di origine sconosciuta o sospetta. 
+ 
+
+ ix) Dati o procedure di manutenzione fuorvianti, errati o insufficienti, che potrebbero causare errori di manutenzione. 
+ 
+
+ x) Avarie, funzionamento difettoso o anomalie delle apparecchiature a terra destinate alle prove e alla verifica dei sistemi e delle apparecchiature dell'aeromobile quando le ispezioni e le procedure di prova ordinarie non hanno consentito di individuare con precisione l'anomalia che ha provocato la situazione di pericolo. 
+ 
+
+ D. Servizi. 
+ 
+
+ i) Servizi di navigazione aerea. 
+ 
+
+ Cfr. allegato II - Elenco degli eventi da segnalare in relazione ai servizi di navigazione aerea. 
+ 
+
+ ii) Aerodromo e relative strutture: 
+ 
+
+ a) notevole fuoriuscita durante le operazioni di rifornimento di carburante; 
+ 
+
+ b) caricamento di una quantità di carburante inadeguata che potrebbe compromettere l'autonomia, le prestazioni, l'equilibrio e la resistenza strutturale dell'aeromobile. 
+ 
+
+ iii) Imbarco di passeggeri, bagagli e carico: 
+ 
+
+ a) danneggiamento significativo delle strutture, dei sistemi e delle apparecchiature dell'aeromobile dovute al trasporto dei bagagli o del carico; 
+ 
+
+ b) imbarco non conforme di passeggeri, bagagli o carico con possibili conseguenze sulla massa e/o l'equilibrio dell'aeromobile; 
+ 
+
+ c) stivaggio non conforme dei bagagli o del carico (compresi i bagagli a mano) che potrebbe causare rischi per l'aeromobile, le apparecchiature o gli occupanti o impedire un'evacuazione di emergenza; 
+ 
+
+ d) stivaggio non conforme dei container o degli altri elementi di grandi dimensioni del carico; 
+ 
+
+ e) trasporto o previsto trasporto di merci pericolose in violazione della regolamentazione applicabile, compresi l'etichettatura e l'imballaggio non conformi di merci pericolose. 
+ 
+
+ iii) Manovre e servizi di assistenza a terra: 
+ 
+
+ a) avarie, funzionamento difettoso o anomalie delle apparecchiature a terra destinate alle prove e alla verifica dei sistemi e delle apparecchiature dell'aeromobile quando le ispezioni e le procedure di prova ordinarie non hanno consentito di individuare con precisione l'anomalia che ha provocato la situazione di pericolo; 
+ 
+
+ b) non conformità o significativa divergenza di conformità rispetto alle procedure di assistenza a terra stabilite; 
+ 
+
+ c) caricamento di carburante o di altri fluidi essenziali contaminati o di tipo inadeguato (ad esempio ossigeno e acqua potabile). 
+ 
+
+ Appendice dell'allegato I. 
+ 
+
+ Nei punti seguenti sono elencati gli eventi da segnalare in forza dell'applicazione dei criteri generali ai sistemi specifici elencati alla lettera B, punto ii), dell'allegato I. 
+ 
+
+ 1. Condizionamento d'aria/ventilazione: 
+ 
+
+ a) avaria completa del sistema di raffreddamento avionico; 
+ 
+
+ b) depressurizzazione. 
+ 
+
+ 2. Sistema di navigazione automatica: 
+ 
+
+ a) incapacità di ottenere dal sistema automatico di navigazione il funzionamento previsto una volta azionato; 
+ 
+
+ b) grosse difficoltà di controllo dell'aeromobile da parte dell'equipaggio a causa del funzionamento del sistema di navigazione automatica; 
+ 
+
+ c) avaria di un dispositivo di disattivazione del sistema di navigazione automatica; 
+ 
+
+ d) cambiamento non controllato del modo di funzionamento del sistema di navigazione automatica. 
+ 
+
+ 3. Comunicazioni: 
+ 
+
+ a) avarie o funzionamento difettoso del sistema di avviso ai passeggeri che rendono impossibili o impercettibili gli annunci ai passeggeri; 
+ 
+
+ b) interruzione totale delle comunicazioni durante il volo. 
+ 
+
+ 4. Impianto elettrico: 
+ 
+
+ a) avaria di un circuito di distribuzione dell'impianto elettrico (CA/CC); 
+ 
+
+ b) avaria totale o avaria di più di un generatore elettrico; 
+ 
+
+ c) avaria del generatore elettrico ausiliario (di emergenza). 
+ 
+
+ 5. Abitacolo/Cabina/Stiva: 
+ 
+
+ a) perdita di controllo del sedile del pilota durante il volo; 
+ 
+
+ b) avaria di un sistema o di un'apparecchiatura di emergenza (sistema di avviso di evacuazione di emergenza, portelli di uscita, illuminazione di emergenza, ecc.); 
+ 
+
+ c) perdita della capacità di contenimento del sistema di stivaggio del carico. 
+ 
+
+ 6. Sistema antincendio: 
+ 
+
+ a) avvisatori di incendio, salvo gli avvisi subito individuati come falsi allarmi; 
+ 
+
+ b) avaria o funzionamento difettoso non rilevato del sistema antincendio o del rivelatore d'incendio o di fumo che potrebbe impedire o compromettere l'individuazione/la protezione antincendio; 
+ 
+
+ c) mancato avviso in caso di incendio effettivo o di fumi. 
+ 
+
+ 7. Comandi di volo: 
+ 
+
+ a) asimmetria di ipersostentatori, diruttori, alule, ecc.; 
+ 
+
+ b) limitazione dell'escursione, rigidezza o risposta errata/tardiva dei comandi di volo primari, dei sistemi di compensazione e del bloccacomandi; 
+ 
+
+ c) escursione superficiale incontrollata dei comandi di volo; 
+ 
+
+ d) vibrazioni delle superfici di controllo avvertite dall'equipaggio; 
+ 
+
+ e) disconnessione o avaria meccanica dei comandi di volo; 
+ 
+
+ f) grave interferenza con i comandi normali dell'aeromobile o degrado della qualità di volo. 
+ 
+
+ 8. Sistema del carburante: 
+ 
+
+ a) funzionamento difettoso dell'indicatore di quantità del carburante e conseguente mancanza di indicazioni o indicazioni errate sul carburante disponibile; 
+ 
+
+ b) perdita di carburante che provoca una grave avaria, un rischio di incendio o un grave deterioramento; 
+ 
+
+ c) funzionamento difettoso del sistema di scarico rapido del carburante che provoca una perdita involontaria di una quantità significativa di carburante, un rischio di incendio, un pericoloso deterioramento delle apparecchiature dell'aeromobile o un'impossibilità di scarico rapido del carburante; 
+ 
+
+ d) funzionamento difettoso o anomalia del sistema del carburante che compromette l'alimentazione e/o la distribuzione di carburante; 
+ 
+
+ e) impossibilità di trasferire o utilizzare tutto il carburante disponibile. 
+ 
+
+ 9. Impianto idraulico: 
+ 
+
+ a) avaria di un impianto idraulico (solo ETOPS); 
+ 
+
+ b) avaria del sistema di isolamento; 
+ 
+
+ c) avaria di uno o più circuiti idraulici; 
+ 
+
+ d) avaria dell'impianto idraulico ausiliario; 
+ 
+
+ e) estensione involontaria della turbina ad aria in presa dinamica.
+ 
+
+ 10. Sistema di individuazione/protezione dal ghiaccio: 
+ 
+
+ a) avaria o calo di prestazioni non rilevato del sistema antighiaccio; 
+ 
+
+ b) avaria di più di un sistema di riscaldamento a sonda; 
+ 
+
+ c) impossibilità di scongelare le ali in modo simmetrico; 
+ 
+
+ d) accumulo anomalo di ghiaccio che compromette le prestazioni o la manovrabilità dell'aeromobile; 
+ 
+
+ e) visibilità dell'equipaggio fortemente compromessa. 
+ 
+
+ 11. Sistemi di segnalazione/avviso/registrazione: 
+ 
+
+ a) funzionamento difettoso o anomalia di un sistema di segnalazione quando indicazioni fuorvianti potrebbero provocare un intervento inadeguato dell'equipaggio su un determinato sistema; 
+ 
+
+ b) avaria della funzione di allarme rosso di un sistema; 
+ 
+
+ c) abitacoli in vetro: avaria o funzionamento difettoso di uno o più schermi o computer del sistema di visualizzazione/segnalazione. 
+ 
+
+ 12. Carrello di atterraggio/freni/pneumatici: 
+ 
+
+ a) incendio del sistema frenante; 
+ 
+
+ b) riduzione significativa dell'azione frenante; 
+ 
+
+ c) frenata asimmetrica che causa una forte deviazione dalla traiettoria; 
+ 
+
+ d) avaria del sistema di estensione in caduta libera L/G (anche durante le prove); 
+ 
+
+ e) ritrazione/estensione imprevista del carrello o dei portelli del carrello; 
+ 
+
+ f) scoppio di più pneumatici. 
+ 
+
+ 13. Sistemi di navigazione (compreso il sistema di avvicinamento di precisione) e centrali aerodinamiche: 
+ 
+
+ a) avaria totale o ripetute anomalie delle apparecchiature di navigazione; 
+ 
+
+ b) avaria totale o ripetute anomalie delle apparecchiature della centrale aerodinamica; 
+ 
+
+ c) indicazioni notevolmente errate o fuorvianti; 
+ 
+
+ d) notevoli errori di navigazione dovuti a dati errati o ad un errore di codificazione nella base dati; 
+ 
+
+ e) deviazioni impreviste nella traiettoria laterale o verticale non causate da un'azione del pilota; 
+ 
+
+ f) problemi con le strutture di navigazione a terra che danno luogo a notevoli errori di navigazione non collegati al passaggio dal sistema di navigazione inerziale a quello di radio navigazione. 
+ 
+
+ 14. Ossigeno per aeromobili pressurizzati: 
+ 
+
+ a) interruzione dell'alimentazione di ossigeno nell'abitacolo; 
+ 
+
+ b) interruzione dell'alimentazione di ossigeno ad un numero significativo di passeggeri (oltre il 10%) anche se l'anomalia è rilevata durante le operazioni di manutenzione, di addestramento o di prova. 
+ 
+
+ 15. Sistema di prelievo d'aria: 
+ 
+
+ a) allarme incendio o avviso di danno strutturale provocato da una fuga di aria calda nel sistema di prelievo; 
+ 
+
+ b) avaria di tutti i sistemi di prelievo d'aria; 
+ 
+
+ c) avaria del dispositivo di individuazione delle perdite del sistema di prelievo d'aria.
