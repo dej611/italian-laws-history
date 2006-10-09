@@ -1,0 +1,481 @@
+ALLEGATO 1 
+ 
+
+ (previsto dall'art. 1, comma 2) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ GLOSSARIO 
+ 
+
+ 
+ 
+
+ Le definizioni che seguono sono finalizzate alla migliore comprensione del testo normativo a cui attengono. Sono altresì richiamate alcune terminologie di uso corrente relative alla normativa e agli standard tecnici stradali. 
+ 
+
+ Per le definizioni relative agli elementi costitutivi dello spazio stradale, si vedano le "Norme funzionali e geometriche per la costruzione delle strade"-D.M. 05/11/2001. 
+ 
+
+ 
+ 
+
+ ALARP 
+ 
+
+ Acronimo dell'espressione inglese As Low As Reasonably Practicable che individua la porzione del diagramma frequenza di accadimento - numero di fatalità compresa tra il livello di accettabilità ed il livello di tollerabilità del rischio entro la quale si applica l'analisi costi - benefici come criterio guida nell'assumere decisioni di gestione del rischio in presenza di incertezza per una data struttura. I livelli di accettabilità e di tollerabilità delimitano la regione di accettabilità condizionata del rischio. 
+ 
+
+ 
+ 
+
+ ALBERO DEGLI EVENTI 
+ 
+
+ Sequenza di eventi, ognuno caratterizzabile in termini di probabilità di accadimento condizionate dall'azione delle misure di prevenzione e protezione adottate. 
+ 
+
+ 
+ 
+
+ ANALISI DI RISCHIO 
+ 
+
+ Metodologia finalizzata alla valutazione ed alla gestione del rischio associato ad un determinato sistema galleria rispetto alle conseguenze sulla popolazione esposta. La valutazione del rischio è un processo che comporta l'individuazione delle sorgenti di pericolo e la determinazione dell'esposizione della popolazione al pericolo ed include la stima delle incertezze connesse. 
+ 
+
+ La gestione del rischio è l'atto decisionale, susseguente alla valutazione del rischio, inerente la realizzazione di misure di sicurezza, in modo congruente alle caratteristiche del contesto sociale, economico, politico del paese nel quale è realizzata l'opera. 
+ 
+
+ 
+ 
+
+ CONSEGUENZA 
+ 
+
+ Risultanza dell'accadimento di un evento pericoloso sulla popolazione esposta, sulla struttura, sugli impianti, sull'economia, sull'ambiente. 
+ 
+
+ 
+ 
+
+ CURVA DI DEFLUSSO 
+ 
+
+ Curva rappresentativa della variazione della velocità media della corrente veicolare in funzione della densità di flusso. 
+ 
+
+ 
+ 
+
+ DENSITA DI FLUSSO 
+ 
+
+ Rapporto tra i veicoli equivalenti transitati in una sezione stradale rispetto ai veicoli equivalenti smaltibili nella stessa unità di tempo. 
+ 
+
+ 
+ 
+
+ ESERCIZIO STRADALE 
+ 
+
+ Fruizione dell'infrastruttura nel rispetto delle regole che disciplinano il comportamento degli utenti e il deflusso veicolare, atte a soddisfare le esigenze della domanda di traffico nel rispetto di predeterminati standard di sicurezza. 
+ 
+
+ 
+ 
+
+ EVENTO ELEMENTARE 
+ 
+
+ Singolo accadimento di una successione di eventi consequenziali. 
+ 
+
+ 
+ 
+
+ EVENTO INIZIATORE 
+ 
+
+ Accadimento all'origine di una catena di eventi successivi che determinano nel loro complesso uno scenario di pericolo caratterizzato da una specifica distribuzione di conseguenze che identificano il danno ad esso associato. 
+ 
+
+ 
+ 
+
+ EVENTO RILEVANTE 
+ 
+
+ Evento caratterizzato da bassa probabilità di accadimento ed elevate conseguenze. 
+ 
+
+ 
+ 
+
+ FLUSSO VEICOLARE 
+ 
+
+ Numero di veicoli transitati in una sezione stradale nell'unità di tempo conteggiati indipendentemente dalle loro caratteristiche tipologiche. 
+ 
+
+ 
+ 
+
+ GALLERIA SPECIALE 
+ 
+
+ Galleria alla quale sono associate caratteristiche geometriche, funzionali e ambientali che possono indurre condizioni di pericolo per gli utenti tali da richiedere, suffragata da analisi di rischio, l'adozione di misure di sicurezza integrative. 
+ 
+
+ 
+ 
+
+ GALLERIA VIRTUALE 
+ 
+
+ Galleria che possiede tutte le misure di sicurezza corrispondenti ai requisiti minimi obbligatori previsti dall'ALLEGATO 2 non affette da malfunzionamento. 
+ 
+
+ 
+ 
+
+ GESTORE DELL'INFRASTRUTTURA 
+ 
+
+ Soggetto incaricato della realizzazione, della manutenzione dell'infrastruttura stradale e della gestione in sicurezza della circolazione. 
+ 
+
+ 
+ 
+
+ INCIDENTE 
+ 
+
+ Evento, o serie di eventi, non intenzionali che causano danni a persone, a cose e all'ambiente ovvero la disfunzione di un sistema o di un servizio. 
+ 
+
+ 
+ 
+
+ INCIDENTALITà SPECIFICA 
+ 
+
+ Numero di eventi incidentali verificatisi nell'unità di tempo e di sviluppo della strada rapportati ai veicoli transitati nella 
+ 
+
+ stessa sezione e nello stesso tempo 
+ 
+
+ 
+ 
+
+ INDICE DI RISCHIO 
+ 
+
+ indicatore quantitativo di rischio espresso in funzione della probabilità di accadimento di un evento incidentale e dell'entità delle conseguenze da esso derivanti 
+ 
+
+ 
+ 
+
+ LIVELLO DI RISCHIO ACCETTABILE 
+ 
+
+ Livello di rischio proprio della galleria virtuale. 
+ 
+
+ 
+ 
+
+ LIVELLO DI RISCHIO TOLLERABILE 
+ 
+
+ Livello di rischio associato al livello globale di sicurezza del sistema galleria rispondente ai requisiti minimi di sicurezza. 
+ 
+
+ 
+ 
+
+ LIVELLO DI SERVIZIO 
+ 
+
+ Condizione tipica di deflusso caratterizzata dalla densità veicolare e dalla velocità media di transito. 
+ 
+
+ 
+ 
+
+ LIVELLO GLOBALE DI SICUREZZA 
+ 
+
+ Livello di sicurezza del sistema galleria fornito dalle misure di sicurezza installate 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ((LUNGHEZZA EFFICACE))
+
+ ((Distanza tra gli imbocchi o interdistanza massima tra uscite di emergenza fruibili.))
+
+ 
+ 
+
+ 
+ 
+
+ LUNGHEZZA DI TRANSIZIONE 
+ 
+
+ Sviluppo stradale di limitata estensione ove, in fase di esercizio, l'utente adegua la marcia a diverse situazioni geometrico-funzionali. 
+ 
+
+ 
+ 
+
+ MALFUNZIONAMENTO 
+ 
+
+ Condizione funzionale delle misure di sicurezza diversa dalle condizioni di progetto e caratterizzata da una specifica probabilità che essa possa determinare una condizione di pericolo ed un conseguente danno. 
+ 
+
+ 
+ 
+
+ MANOVRE A RISCHIO 
+ 
+
+ Manovre che il conducente del veicolo effettua in debito di sicurezza. 
+ 
+
+ 
+ 
+
+ MANOVRE ILLEGALI 
+ 
+
+ Manovre che il conducente del veicolo effettua in contrasto con i disposti legislativi e/o regolamentari che regolano l'esercizio stradale. 
+ 
+
+ 
+ 
+
+ MANOVRE IN EMERGENZA 
+ 
+
+ Manovre che il conducente del veicolo effettua per evitare 
+ 
+
+ l'incidente in situazioni critiche impreviste e/o imprevedibili 
+ 
+
+ 
+ 
+
+ MISURE DI EQUIVALENZA 
+ 
+
+ Provvedimenti adottabili per conseguire un livello globale di sicurezza equivalente quando non siano tecnicamente od economicamente realizzabili uno o più dei requisiti minimi caratterizzanti una classe di gallerie. 
+ 
+
+ 
+ 
+
+ MISURE DI SICUREZZA 
+ 
+
+ Provvedimenti strutturali, impiantistici, gestionali mirati a ridurre la probabilità di accadimento e/o le conseguenze di eventi incidentali. 
+ 
+
+ 
+ 
+
+ MISURE DI SICUREZZA INTEGRATIVE 
+ 
+
+ Provvedimenti complementari che integrano i requisiti minimi di sicurezza e sono finalizzati al perseguimento di un minore livello di rischio per le gallerie che presentano caratteristiche speciali rispetto ai parametri di sicurezza, tali da determinare condizioni di maggiore potenziale pericolo. 
+ 
+
+ 
+ 
+
+ 
+ ((MISURE DI SICUREZZA TEMPORANEE MINIME))
+
+ ((Provvedimenti temporanei, di natura impiantistica o gestionale, mirati a ridurre la probabilità di accadimento o le conseguenze di eventi incidentali.))
+
+ 
+ 
+
+ 
+ 
+
+ POPOLAZIONE ESPOSTA 
+ 
+
+ Insieme costituito dagli utenti, dal personale di esercizio, dal personale addetto al soccorso. 
+ 
+
+ 
+ 
+
+ PREVENZIONE 
+ 
+
+ Misure ed azioni intese a ridurre la probabilità di accadimento di un evento pericoloso. 
+ 
+
+ 
+ 
+
+ PROBABILITà DI INCIDENTE 
+ 
+
+ Sommatoria delle probabilità individuali di incidente estesa al flusso transitato su un tronco stradale in un definito arco temporale. 
+ 
+
+ 
+ 
+
+ PROBABILITà INDIVIDUALE DI INCIDENTE 
+ 
+
+ Sommatoria delle produttorie delle probabilità degli eventi elementari intercettati da ciascun percorso critico dell'albero degli eventi. 
+ 
+
+ 
+ 
+
+ PROBABILITà DI MALFUNZIONAMENTO 
+ 
+
+ Rapporto normalizzato tra il numero di eventi anomali rispetto al totale degli eventi possibili nelle condizioni di ordinario funzionamento. 
+ 
+
+ 
+ 
+
+ PROTEZIONE 
+ 
+
+ Misure ed azioni intese a ridurre le conseguenze di un evento pericoloso. 
+ 
+
+ 
+ 
+
+ QUALIFICAZIONE FUNZIONALE DELLA STRADA 
+ 
+
+ Caratterizzazione dell'itinerario stradale in funzione della tipologia prevista dal CdS e dell' ambito territoriale attraversato. 
+ 
+
+ 
+ 
+
+ REQUISITI DI SICUREZZA 
+ 
+
+ Provvedimenti strutturali, infrastrutturali ed impiantistici previsti per un tracciato stradale in sotterraneo e finalizzati a ridurre il rischio d'esercizio agendo sia sulla probabilità di accadimento degli eventi incidentali, sia sulle possibili conseguenze. 
+ 
+
+ 
+ 
+
+ REQUISITI MINIMI DI SICUREZZA 
+ 
+
+ Provvedimenti strutturali, infrastrutturali ed impiantistici necessari a garantire il livello globale di sicurezza associato alla soglia di rischio tollerabile. 
+ 
+
+ 
+ 
+
+ RISCHIO 
+ 
+
+ Legame analitico tra probabilità di accadimento di un evento ed entità delle conseguenze da esso derivanti, inclusiva delle incertezze connesse alla stima delle grandezze di definizione. 
+ 
+
+ 
+ 
+
+ SCENARIO 
+ 
+
+ Una successione di eventi che descrive, a partire da un dato evento iniziatore, le modalità condizionate dalle misure di sicurezza adottate, che inducono determinate conseguenze. 
+ 
+
+ 
+ 
+
+ SISTEMA GALLERIA 
+ 
+
+ è il complesso costituito dagli elementi strutturali, dall'ambiente circostante l'opera, dal traffico, pertinente l'opera e l'ambiente, dalle dotazioni di sicurezza impiantistiche e dalle procedure di gestione che caratterizzano un tracciato in sotterraneo della strada. 
+ 
+
+ 
+ 
+
+ SITUAZIONI CRITICHE 
+ 
+
+ Condizioni strutturali, ambientali e/o funzionali che determinano un'elevata probabilità di accadimento e/a gravi conseguenze per un evento incidentale. 
+ 
+
+ 
+ 
+
+ TASSO INCIDENTALE 
+ 
+
+ Numera di eventi incidentali per unità di sviluppo 
+ 
+
+ 
+ 
+
+ TRONCO STRADALE 
+ 
+
+ Sezione longitudinale di un itinerario stradale dello sviluppo di alcuni chilometri caratterizzata da omogeneità strutturali, di traffico o funzionali. 
+ 
+
+ 
+ 
+
+ VALUTAZIONE DI EQUIVALENZA 
+ 
+
+ Analisi di rischio atta a verificare in forma quantitativa l'equivalenza ai fini del perseguimento di un livello globale di sicurezza tra provvedimenti previsti in alternativa ad eventuali requisiti minimi non realizzati e/o non realizzabili. 
+ 
+
+ 
+ 
+
+ VEICOLI EQUIVALENTI 
+ 
+
+ Quantificazione del flusso veicolare nell'unità di tempo espressa riconducendo tramite l'adozione di opportuni coefficienti di equivalenza le diverse componenti di traffico ad un'unica tipologia veicolare. 
+ 
+
+ 
+ 
+
+ 
+ ((ZONA DI APPROCCIO O DI USCITA ALLA GALLERIA))
+
+ ((Tratta stradale precedente l'ingresso in galleria ove le condizioni di esercizio possono influenzare la sicurezza della marcia in sotterraneo))
+
+ .

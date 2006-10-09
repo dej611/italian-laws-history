@@ -1,0 +1,190 @@
+ALLEGATO 3 
+ 
+
+ (previsto dall'art. 13, comma 3) 
+ 
+
+ 
+ 
+
+ OBIETTIVI DI SICUREZZA E METODOLOGIA DI ANALISI DI RISCHIO 
+ 
+
+ 
+ 
+
+ 1. Premessa 
+ 
+
+ La metodologia qui presentata si riferisce esclusivamente all'analisi degli eventi considerati critici nello specifico ambiente confinato delle gallerie vale a dire incendi, collisioni con incendio, sversamenti di sostanze infiammabili, rilasci di sostanze tossiche e nocive. 
+ 
+
+ Eventi propri dell'incidentalità stradale, connessi a caratteristiche geometriche dell'infrastruttura e non indotti dallo specifico ambiente galleria, che non comportino per l'utenza rischi aggiuntivi rispetto ai rischi connessi alla circolazione stradale, sono da considerarsi e da fronteggiarsi per la prevenzione nell'ambito della regolamentazione del traffico e della progettazione stradale. Le vittime di questi ultimi incidenti vanno contabilizzate nell'ambito dell'incidentalità stradale. 
+ 
+
+ L'Analisi di Rischio Quantitativa è la metodologia analitica e ben definita identificata come idonea per determinare il livello di rischio proprio delle gallerie presenti sulla rete stradale italiana recependo le raccomandazioni contenute nella Direttiva 2004/54/CE inerente i Requisiti Minimi di Sicurezza per le gallerie presenti sulla rete stradale trans-europea (Rete TERN). 
+ 
+
+ L'Analisi di Rischio Quantitativa nelle gallerie stradali deve essere sviluppata adottando un approccio sistemico adatto allo specifico ambito del sistema galleria. 
+ 
+
+ Il livello di dettaglio da adottare nell'applicazione della metodologia di Analisi di Rischio Quantitativa al sistema galleria stradale deve consentire la determinazione della salvabilità degli utenti per scenari derivanti dagli eventi incidentali considerati critici nello specifico ambiente "Galleria". 
+ 
+
+ Con riferimento ai dettami della Direttiva 2004/54/CE, per sistema galleria si intende il complesso costituito dagli elementi strutturali, dall'ambiente circostante l'opera, dal traffico, pertinente l'opera e l'ambiente, dalle dotazioni di sicurezza impiantistiche e dalle procedure di gestione che caratterizzano il 
+ 
+
+ tracciato in sotterraneo della strada 
+ 
+
+ L'Analisi di Rischio deve essere mirata ad ottenere una misura quantitativa del rischio associato alla singola galleria su un fissato lasso temporale e con riferimento a ben definiti indicatori quantitativi. 
+ 
+
+ Visto l'Articolo 13 del decreto e le raccomandazioni della Direttiva 2004154/CE concernenti i parametri di sicurezza ed i requisiti minimi obbligatori (vedi ALLEGATO 2), è possibile identificare i requisiti minimi obbligatori corrispondenti ad intervalli di valori dei parametri di sicurezza.. Lunghezza e Volume di Traffico. Un progetto di nuova galleria deve possedere tutti i requisiti minimi previsti nell'ALLEGATO 2. 
+ 
+
+ Per una galleria esistente che non possieda tutti i requisiti obbligatori previsti in base ai suoi parametri si richiede un adeguamento con misure di sicurezza alternative che rendano il livello di sicurezza equivalente al livello di sicurezza proprio della galleria virtuale. 
+ 
+
+ I requisiti minimi di sicurezza dell'Allegato II sono prevalentemente preposti a svolgere un ruolo specifico di protezione, mitigazione o inibizione del potenziale incremento di pericolosità dell'evento iniziatore (ad es. potenza termica del focolaio, velocità di propagazione dei fumi, etc.), nonchè di facilitazione delle azioni di auto-soccorso per l'esodo (ad es. uscite di emergenza, visibilità, riduzione di opacità, comunicazione efficace, etc.) e di soccorso in condizioni di emergenza. Alcuni dei suddetti requisiti svolgono anche un ruolo generale di prevenzione in condizioni di esercizio. 
+ 
+
+ L'Analisi di Rischio deve essere sviluppata in tutte le circostanze indicate nel D. Lgs. ed in particolare per ogni galleria che, non ottemperando ai requisiti minimi obbligatori, necessiti dell'adozione di misure di sicurezza alternative al fine di dimostrare che esse siano in grado di garantire un livello di sicurezza equivalente od accresciuto, ovvero, per ogni galleria che abbia caratteristiche speciali rispetto ai parametri di sicurezza individuati dalla stessa Direttiva. 
+ 
+
+ 
+ 
+
+ 2. Scopo 
+ 
+
+ L'Analisi di Rischio ha lo scopo di misurare, nell'ambito di applicazione del presente decreto, il livello di rischio di una galleria stradale in termini di opportuni indicatori quantitativi. 
+ 
+
+ Un'analisi di rischio quantitativa di tipo comparativo è richiesta per una galleria esistente che presenti un qualche deficit nei requisiti minimi ascritti al gruppo di appartenenza. 
+ 
+
+ La galleria virtuale è la galleria identificata dagli stessi parametri di sicurezza della galleria in esame e che possiede tutti i requisiti minimi obbligatori del gruppo di appartenenza caratterizzati da specifiche prestazioni in assenza di malfunzionamento. 
+ 
+
+ La comparazione, in termini di analisi di rischio, è condotta tra la galleria virtuale e la galleria reale con un adeguamento progettuale realizzato introducendo requisiti alternativi elo misure di sicurezza compensative a parità di condizioni di funzionamento. 
+ 
+
+ Le condizioni prestazionali sono definite in termini di affidabilità ed efficienza dei dispositivi e dei sottosistemi che realizzano le misure di sicurezza. 
+ 
+
+ Una galleria considerata speciale rispetto ai parametri di sicurezza deve essere soggetta ad analisi prestazionale delle misure di sicurezza da adottare al fine della riduzione del rischio. 
+ 
+
+ L'analisi di rischio, in questo caso, deve dimostrare che l'insieme delle misure di prevenzione, protezione, mitigazione o inibizione del potenziale incremento di pericolosità dell'evento iniziatore, nonchè di facilitazione delle azioni di auto-soccorso e di soccorso, sia tale da assicurare che il livello di rischio della struttura ricada al di sotto del livello di rischio tollerabile considerando il malfunzionamento dei singoli sottosistemi. 
+ 
+
+ 
+ 
+
+ 3. Metodologia 
+ 
+
+ La metodologia di Analisi di Rischio Quantitativa si deve riferire ad una galleria determinata e deve tener conto di: 
+ 
+
+ - incidentalità caratteristica della galleria, rilevata o di progetto; 
+ 
+
+ - tutti gli elementi inerenti alle caratteristiche progettuali della stessa, come la lunghezza, la geometria e la pendenza; 
+ 
+
+ - caratteristiche prestazionali dei requisiti dì sicurezza di cui la galleria stessa è dotata; 
+ 
+
+ - condizioni di traffico che incidono sulla sicurezza, quali il volume, la composizione ed il tipo di traffico, in particolare la percentuale di veicoli pesanti in transito giornaliero. 
+ 
+
+ La metodologia considera una galleria con le sue specifiche caratteristiche localizzata sul territorio ed in interazione con l'ambiente circostante. 
+ 
+
+ I sottosistemi di sicurezza determinano la risposta del sistema alle condizioni di emergenza e conseguentemente definiscono le condizioni di pericolo per la popolazione esposta agli eventi. critici possibili. 
+ 
+
+ Gli scenari incidentali e la loro evoluzione in galleria in termini di pericolosità sono rappresentati mediante modelli che includano come elementi costitutivi l'albero delle cause, l'evento critico iniziatore e l'albero degli eventi. 
+ 
+
+ L'evento critico iniziatore è caratterizzato in termini di probabilità di accadimento e pericolosità potenziale sulla base di evidenze statistiche per i sistemi galleria in generale, eventualmente integrate da dati disponibili per la singola galleria con riferimento ai tassi di incidentalità rilevati ed alle specificità progettuali della stessa. 
+ 
+
+ L'albero degli eventi è caratterizzato in termini di probabilità di accadimento degli eventi critici iniziatori e di probabilità condizionate di evoluzione lungo i singoli specifici rami, come espressione dell'affidabilità e dell'efficienza delle misure di sicurezza installate o previste. 
+ 
+
+ Gli eventi terminali dei rami dell'albero degli eventi, determinati in numero dalle combinazioni mutuamente esclusive delle azioni di condizionamento esercitate dalle misure mitigative previste, individuano gli scenari di fine emergenza possibili. 
+ 
+
+ La salvabilità degli utenti in una specifica galleria è determinata attraverso la quantificazione e la zonizzazione del flusso del pericolo all'interno della struttura. 
+ 
+
+ Le diverse zone del flusso del pericolo individuano le condizioni nelle quali si realizza il processo di esodo degli utenti dalla galleria. 
+ 
+
+ La caratterizzazione del flusso del pericolo è ottenuta modellando l'evoluzione condizionata dai vincoli posti dalle misure di mitigazione previste dei fenomeni chimici e fisici che si instaurano in conseguenza dell'accadimento di eventi critici iniziatori. 
+ 
+
+ La modellazione del flusso del pericolo è attuata con livelli di dettaglio diversi a seconda delle necessità ed utilizzando le migliori tecniche note e disponibili. 
+ 
+
+ I risultati della modellazione del flusso del pericolo costituiscono i dati di ingresso per la simulazione del processo di esodo degli utenti dalla struttura. 
+ 
+
+ Il numero degli utenti coinvolti nel processo di esodo è determinato attraverso la formulazione e la soluzione di idonei modelli di formazione delle code nella galleria analizzata. 
+ 
+
+ I risultati dell' analisi di rischio sono utilizzati per costruire diversi indicatori quantitativi del rischio, a seconda delle necessità. 
+ 
+
+ Il rischio connesso ad una galleria è definito come valore atteso del danno ovvero come distribuzione delle probabilità di superamento di predeterminate soglie di danno (Distribuzioni Cumulate Complementari riportate sul cosiddetto piano F - N). 
+ 
+
+ - Il rischio come valore atteso del danno si ottiene come somma dei prodotti tra le probabilità dei singoli eventi critici iniziatori e le corrispondenti sommatorie delle probabilità degli eventi terminali dei singoli rami dell'albero degli eventi moltiplicate per i corrispondenti indicatori di danno espressi in numero di yittime normalizzato all' anno. 
+ 
+
+ - Il rischio come distribuzione delle probabilità di superamento di predeterminate soglie di danno è rappresentato graficamente sul piano F - N (dove F indica la probabilità di superamento della soglia e N il numero di fatalita) dalla distribuzione cumulata complementare (probabilità di superamento delle soglie di danno) ottenuta in conispondenza dei valori degli indicatori di danno (soglie di danno) associati agli eventi terminali dei singoli rami dell'albero degli eventi. 
+ 
+
+ 
+ 
+
+ 4. Obiettivi di Sicurezza e Criteri di Accettabilità 
+ 
+
+ Gli obiettivi di sicurezza ed i criteri di accettabilità del rischio per le gallerie stradali, da applicare ad ogni singola canna nel caso di gallerie a più fornici indipendenti, sono rappresentati dalle linee soglia riportate nella figura seguente. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ II livello di rischio accettabile rappresenta un riferimento utile per la Commissione permanente delle gallerie per la valutazione dei risultati dell'Analisi di Rischio effettuata secondo il criterio ALARP. 
+ 
+
+ In tutti i casi previsti dal decreto, incluso il caso in cui si debba verificare il livello di rischio di una galleria con caratteristiche speciali, si deve direttamente confrontare la distribuzione cumulata complementare della galleria reale con il limite di rischio tollerabile. 
+ 
+
+ Quando viene richiesta l'analisi di rischio quantitativa con criterio comparativo per la dimostrazione dell'equivalenza garantita da misure compensative, tale analisi deve essere condotta sulla galleria reale dotata di requisiti integrativi verificando che il valore atteso del danno della galleria in esame sia uguale o inferiore a quello della galleria virtuale a parità di condizioni di funzionamento dei sottosistemi. 
+ 
+
+ Ai fini dell'analisi di rischio dovranno essere usati dati tratti dalla Banca Dati prevista nell' articolo 13, ovvero provenienti da fonti ufficiali o reperibili in letteratura e ritenuti significativi dalla Commissione permanente per le gallerie. 
+ 
+
+ La Commissione, dopo un opportuno periodo di osservazione, si riserva, in base all'evoluzione ed alla previsione del traffico e dell'incidentalità specifica delle gallerie, di modificare i termini di applicazione della presente procedura.
