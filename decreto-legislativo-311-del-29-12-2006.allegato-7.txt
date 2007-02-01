@@ -1,0 +1,229 @@
+Allegato I 
+ 
+
+ (Articolo 11) 
+ 
+
+ 
+ 
+
+ REGIME TRANSITORIO PER LA PRESTAZIONE ENERGETICA DEGLI EDIFICI 
+ 
+
+ 
+ 
+
+ 1. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nel caso di edifici di nuova costruzione e nei casi di ristrutturazione di edifici esistenti, previsti dall'articolo 3, comma 2, lettere a) e b), si procede, in sede progettuale: 
+ 
+
+ a) alla determinazione dell'indice di prestazione energetica per la climatizzazione invernale (EPi ), ed alla verifica che lo stesso
+ 
+
+ risulti inferiore ai valori limite che sono riportati nella pertinente tabella di cui al punto 1 dell'allegato C al presente decreto; 
+ 
+
+ b) al calcolo del rendimento globale medio stagionale dell'impianto termico e alla verifica che lo stesso risulti superiore al valore limite calcolato con la formula: 
+ 
+
+ 
+ 
+
+ ηg = (65 + 3 log Pn) % 
+ 
+
+ 
+ 
+
+ dove log Pn è il logaritmo in base 10 della potenza utile nominale del generatore o dei generatori di calore al servizio del singolo impianto termico, espressa in kW; per valori di Pn superiori a 1000 kW la formula precedente non si applica, e la soglia minima per il rendimento globale medio stagionale è pari a 74%; 
+ 
+
+ c) alla verifica che la trasmittanza termica delle diverse strutture edilizie opache e delle chiusure trasparenti che delimitano l'edificio non superi di oltre il 30% i valori fissati nella pertinente tabella di cui ai punti 2, 3 e 4 dell'allegato C al presente decreto. 
+ 
+
+ 2. Nei casi di ristrutturazione o manutenzione straordinaria, previsti all'articolo 3, comma 2, lettera c), numero 1, consistenti in opere che prevedono, a titolo esemplificativo e non esaustivo, rifacimento di pareti esterne, di intonaci esterni, del tetto o dell'impermeabilizzazione delle coperture, si applica quanto previsto ai punti seguenti; 
+ 
+
+ a) Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, il valore della trasmittanza termica (U) per le strutture opache verticali, a ponte termico corretto, delimitanti il volume riscaldato verso l'esterno, ovvero verso ambienti non dotati di impianto di riscaldamento, deve essere inferiore o uguale a quello riportato nella tabella 2 al punto 2 dell'allegato C al presente decreto in funzione della fascia climatica di riferimento. Qualora il ponte termico non dovesse risultare corretto o qualora la progettazione dell'involucro edilizio non preveda la correzione dei ponti termici, i valori limite della trasmittanza termica riportati nella tabella 2 al punto 2 dell'allegato C al presente decreto devono essere rispettati dalla trasmittanza termica media (parete corrente più ponte termico). 
+ 
+
+ Nel caso di pareti opache verticali esterne in cui fossero previste aree limitate oggetto di riduzione di spessore (sottofinestre e altri componenti) devono essere rispettati i limiti previsti nella tabella 2 al punto 2 dell'allegato C al presente decreto con riferimento alla superficie totale di calcolo. 
+ 
+
+ b) Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'art. 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione della categoria E.8, il valore della trasmittanza termica (U) per le strutture opache orizzontali o inclinate, a ponte termico corretto, delimitanti il volume riscaldato verso l'esterno, ovvero verso ambienti non dotati di impianto di riscaldamento, deve essere inferiore o uguale a quello riportato in tabella 3 al punto 3 dell'allegato C al presente decreto in funzione della fascia climatica di riferimento. 
+ 
+
+ Qualora il ponte termico non dovesse risultare corretto o qualora la progettazione dell'involucro edilizio non preveda la correzione dei ponti termici, i valori limite della trasmittanza termica riportati nella tabella 3 al punto 3 dell'allegato C al presente decreto devono essere rispettati dalla trasmittanza termica media (parete corrente più ponte termico). Nel caso di strutture orizzontali sul suolo i valori di trasmittanza termica da confrontare con quelli in tabella 3 al punto 3 dell'allegato C al presente decreto sono calcolati con riferimento al sistema struttura-terreno. 
+ 
+
+ c) Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'art. 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione della categoria E.8, il valore massimo della trasmittanza (U) delle chiusure trasparenti, comprensive dell'infisso, deve rispettare i limiti riportati nelle tabelle 4a e 4b al punto 4 dell'allegato C al presente decreto. 
+ 
+
+ 3. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nel caso di nuova installazione e ristrutturazione di impianti termici o sostituzione di generatori di calore, previsti all'articolo 3, comma 2, lettera c), numeri 2 e 3, del decreto legislativo 19 agosto 2005, n. 192, si procede al calcolo del rendimento globale medio stagionale dell'impianto termico e alla verifica che lo stesso risulti superiore al valore limite riportato al punto 5 dell'allegato C al presente decreto. Nel caso di installazioni di potenze nominali del focolare maggiori o uguali a 100 kW, è fatto obbligo di allegare alla relazione tecnica di cui all'articolo 8, comma 1, una diagnosi energetica dell'edificio e dell'impianto nella quale si individuano gli interventi di riduzione della spesa energetica, i relativi tempi di ritorno degli investimenti, e i possibili miglioramenti di classe dell'edificio nel sistema di certificazione energetica in vigore, e sulla base della quale sono state determinate le scelte impiantistiche che si vanno a realizzare. 
+ 
+
+ In caso di installazione di impianti termici individuali, anche a seguito di decisione condominiale di dismissione dell'impianto termico centralizzato o di decisione autonoma dei singoli, l'obbligo di allegare una diagnosi energetica, come sopra specificato, si applica quando il limite di 100 kW è raggiunto o superato dalla somma delle potenze dei singoli generatori di calore da installare nell'edificio, o dalla potenza nominale dell'impianto termico preesistente, se superiore. 
+ 
+
+ 4. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nel caso di mera sostituzione di generatori di calore, prevista all'art. 3, comma 2, lettera c), numero 3, del decreto legislativo 19 agosto 2005, n. 192, si intendono rispettate tutte le disposizioni vigenti in tema di uso razionale dell'energia, incluse quelle di cui al comma precedente, qualora coesistano le seguenti condizioni: 
+ 
+
+ a) i nuovi generatori di calore a combustione abbiano rendimento termico utile, in corrispondenza di un carico pari al 100% della potenza termica utile nominale, maggiore o uguale al valore limite calcolato con la formula 90 + 2 log Pn, dove log Pn è il logaritmo in base 10 della potenza utile nominale del generatore, espressa in kW. Per valori di Pn maggiori di 400 kW si applica il limite massimo corrispondente a 400 kW; 
+ 
+
+ b) le nuove pompe di calore elettriche abbiano un rendimento utile in condizioni nominali, ηu riferito all'energia primaria, maggiore o
+ 
+
+ uguale al valore limite calcolato con la formula a 90 + 3 log Pn; dove log Pn è il logaritmo in base 10 della potenza utile nominale del generatore, espressa in kW; la verifica è fatta utilizzando come fattore di conversione tra energia elettrica ed energia primaria 0,36 When.elettr /When.primaria ; 
+ 
+
+ c) siano presenti, salvo che ne sia dimostrata inequivocabilmente la non fattibilità tecnica nel caso specifico, almeno una centralina di termoregolazione programmabile per ogni generatore di calore e dispositivi modulanti per la regolazione automatica della temperatura ambiente nei singoli locali o nelle singole zone che, per le loro caratteristiche di uso ed esposizione possano godere, a differenza degli altri ambienti riscaldati, di apporti di calore solari o comunque gratuiti. Detta centralina di termoregolazione si differenzia in relazione alla tipologia impiantistica e deve possedere almeno i requisiti già previsti all'articolo 7 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nei casi di nuova installazione o ristrutturazione di impianti termici. In ogni caso detta centralina deve: 
+ 
+
+ - essere pilotata da sonde di rilevamento della temperatura interna, supportate eventualmente da una analoga centralina per la temperatura esterna, con programmatore che consenta la regolazione della temperatura ambiente su due livelli di temperatura nell'arco delle 24 ore, nel caso di impianti termici centralizzati 
+ 
+
+ - consentire la programmazione e la regolazione della temperatura ambiente su due livelli di temperatura nell'arco delle 24 ore, nel caso di impianti termici per singole unità immobiliari.) 
+ 
+
+ d) nel caso di installazioni di generatori con potenza nominale del focolare maggiore del valore preesistente, l'aumento di potenza sia motivato con la verifica dimensionale dell'impianto di riscaldamento; 
+ 
+
+ e) nel caso di installazione di generatori di calore a servizio di più unità immobiliari, sia verificata la corretta equilibratura del sistema di distribuzione, al fine di consentire contemporaneamente, in ogni unità immobiliare, il rispetto dei limiti minimi di comfort e dei limiti massimi di temperatura interna; eventuali squilibri devono essere corretti in occasione della sostituzione del generatore, eventualmente installando un sistema di contabilizzazione del calore che permetta la ripartizione dei consumi per singola unità immobiliare; 
+ 
+
+ f) nel caso di sostituzione dei generatori di calore di potenza nominale del focolare inferiore a 35 kW, con altri della stessa potenza, è rimessa alle autorità locali competenti ogni valutazione sull'obbligo di presentazione della relazione tecnica di cui al comma 19 e se la medesima può essere omessa a fronte dell'obbligo di presentazione della dichiarazione di conformità ai sensi della legge 5 marzo 1990, n. 46 e successive modificazioni e integrazioni. 
+ 
+
+ 5. Qualora, nella mera sostituzione del generatore, per garantire la sicurezza, non fosse possibile rispettare le condizioni del precedente comma 4, lettera a), in particolare nel caso in cui il sistema fumario per l'evacuazione dei prodotti della combustione è al servizio di più utenze ed è di tipo collettivo ramificato, e qualora sussistano motivi tecnici o regolamenti locali che impediscano di avvalersi della deroga prevista all'articolo 2, comma 2 del decreto Presidente della Repubblica 21 dicembre 1999, n. 551, la semplificazione di cui al comma 4 può applicarsi ugualmente, fermo restando il rispetto delle altre condizioni previste, a condizione di: 
+ 
+
+ a) installare generatori di calore che abbiano rendimento termico utile a carico parziale pari al 30% della potenza termica utile nominale maggiore o uguale a 85 + 3 log Pn; dove log Pn è il logaritmo in base 10 della potenza utile nominale del generatore o dei generatori di calore al servizio del singolo impianto termico, espressa in kW. Per valori di Pn maggiori di 400 kW si applica il limite massimo corrispondente a 400 kW; 
+ 
+
+ b) predisporre una dettagliata relazione che attesti i motivi della deroga dalle disposizioni del comma 4, da allegare alla relazione tecnica di cui al successivo comma 15, ove prevista, o alla dichiarazione di conformità, ai sensi della legge 5 marzo 1990, n. 46, e successive modifiche e integrazioni, correlata all'intervento, qualora le autorità locali competenti si avvalgano dell'opzione di cui alle lettera g) del comma precedente. 
+ 
+
+ 6. Nei casi previsti al comma 1, per tutte le categorie degli edifici così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, e quando il rapporto tra la superficie trasparente complessiva dell'edificio e la sua superficie utile è inferiore a 0,18, il calcolo del fabbisogno annuo di energia primaria può essere omesso, se gli edifici e le opere sono progettati e realizzati nel rispetto dei limiti fissati al comma 2 lettere a), b) e c) e sono rispettate le seguenti prescrizioni impiantistiche: 
+ 
+
+ a) siano installati generatoti di calore con rendimento termico utile a carico pari al 100% della potenza termica utile nominale, maggiore o uguale a X + 2 log Pn; dove log Pn è il logaritmo in base 10 della potenza utile nominale del singolo generatore, espressa in kW, ed X vale 90 nelle zone climatiche A, B e C, e vale 93 nelle zone climatiche D, E ed F. Per valori di Pn maggiori di 400 kW si applica il limite massimo corrispondente a 400 kW; 
+ 
+
+ b) la temperatura media del fluido termovettore in corrispondenza delle condizioni di progetto sia non superiore a 60 °C; 
+ 
+
+ c) siano installati almeno una centralina di termoregolazione programmabile in ogni unità immobiliare e dispositivi modulanti per la regolazione automatica della temperatura ambiente nei singoli locali o nelle singole zone aventi caratteristiche di uso ed esposizioni uniformi al fine di non determinare sovrariscaldamento per effetto degli apporti solari e degli apporti gratuiti interni; 
+ 
+
+ d) nel caso di installazione di pompe di calore elettriche queste abbiano un rendimento utile in condizioni nominali, ηu riferito
+ 
+
+ all'energia primaria, maggiore o uguale al valore limite calcolato con la formula a 90 + 3 log Pn; dove log Pn è il logaritmo in base 10 della potenza utile nominale del generatore, espressa in kW; la verifica è fatta utilizzando come fattore di conversione tra energia elettrica ed energia primaria 0,36 When.elettr /When.primaria ; 
+ 
+
+ In tal caso, all'edificio o porzione interessata, si attribuisce il valore del fabbisogno annuo di energia primaria limite massimo applicabile al caso specifico ai sensi del comma 1 citato. 
+ 
+
+ 7. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'art. 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione della categoria E.8, da realizzarsi in zona climatica C, D, E ed F, il valore della trasmittanza (U) delle strutture edilizie di separazione tra edifici o unità immobiliari confinanti fatto salvo il rispetto del decreto del Presidente del Consiglio dei Ministri del 5 dicembre 1997 &laquo;Determinazione dei requisiti acustici passivi degli edifici&raquo;, deve essere inferiore o uguale a 0,8 W/m2 K nel caso di pareti divisorie
+ 
+
+ verticali e orizzontati. Il medesimo limite deve essere rispettato per tutte le strutture opache, verticali, orizzontali e inclinate, che delimitano verso l'ambiente esterno gli ambienti non dotati di impianto di riscaldamento. 
+ 
+
+ 8. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'art. 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione della categoria E.8, si procede alla verifica dell'assenza di condensazioni superficiali e che le condensazioni interstiziali delle pareti opache siano limitate alla quantità rievaporabile, conformemente alla normativa tecnica vigente. Qualora non esista un sistema di controllo della umidità relativa interna, per i calcoli necessari, questa verrà assunta pari al 65% alla temperatura interna di 20° C. 
+ 
+
+ 9. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione delle categorie E.6 ed E.8, il progettista, al fine di limitare i fabbisogni energetici per la climatizzazione estiva e di contenere la temperatura interna degli ambienti, nel caso di edifici di nuova costruzione e nel caso di ristrutturazioni di edifici esistenti di cui all'articolo 3, comma 2, lettere a), b) e c), punto 1, quest'ultimo limitatamente alle ristrutturazioni totali: 
+ 
+
+ a) valuta puntualmente e documenta l'efficacia dei sistemi schermanti delle superfici vetrate, esterni o interni, tali da ridurre l'apporto di calore per irraggiamento solare; 
+ 
+
+ b) verifica, in tutte le zone climatiche ad esclusione della F, per le località nelle quali il valore medio mensile dell'irradianza sul piano orizzontale, nel mese di massima insolazione estiva, Im,s , sia
+ 
+
+ maggiore o uguale a 290 W/m2 , che il valore della massa superficiale
+ 
+
+ Ms delle pareti opache verticali, orizzontali o inclinate sia
+ 
+
+ superiore a 230 kg/m&sup2;; 
+ 
+
+ c) utilizza al meglio le condizioni ambientali esterne e le caratteristiche distributive degli spazi per favorire la ventilazione naturale dell'edificio; nel caso che il ricorso a tale ventilazione non sia efficace, può prevedere l'impiego di sistemi di ventilazione meccanica nel rispetto del comma 13, articolo 5, decreto del Presidente della Repubblica 26 agosto 1993, n. 412. 
+ 
+
+ Gli effetti positivi che si ottengono con il rispetto dei valori di massa superficiale delle pareti opache previsti alla lettera b), possono essere raggiunti, in alternativa, con l'utilizzo di tecniche e materiali, anche innovativi, che permettano di contenere le oscillazioni della temperatura degli ambienti in funzione dell'andamento dell'irraggiamento solare. In tal caso deve essere prodotta una adeguata documentazione e certificazione delle tecnologie e dei materiali che ne attesti l'equivalenza con le predette disposizioni. 
+ 
+
+ 10. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, ad eccezione delle categorie E.6 ed E.8, e limitatamente a collegi, conventi, case di pena e caserme per la categoria E(1), per immobili di superficie utile superiore a 1000 m&sup2; al fine di limitare i fabbisogni energetici per la climatizzazione estiva e di contenere la temperatura interna degli ambienti, nel caso di edifici di nuova costruzione e nel caso di ristrutturazioni di edifici esistenti di cui all'articolo 3, comma 2, lettere a), b) e c), punto 1, quest'ultimo limitatamente alle ristrutturazioni totali, è resa obbligatoria la presenza di sistemi schermanti esterni. 
+ 
+
+ 11. Per tutti gli edifici e gli impianti termici nuovi o ristrutturati, è prescritta l'installazione di dispositivi per la regolazione automatica della temperatura ambiente nei singoli locali o nelle singole zone aventi caratteristiche di uso ed esposizioni uniformi al fine di non determinare sovrariscaldamento per effetto degli apporti solari e degli apporti gratuiti interni. 
+ 
+
+ L'installazione di detti dispositivi è aggiuntiva rispetto ai sistemi di regolazione di cui all'art. 7, commi 2, 4, 5 e 6 del decreto Presidente della Repubblica 26 agosto 1993, n. 412, e successive modifiche, e deve comunque essere tecnicamente compatibile con l'eventuale sistema di contabilizzazione. 
+ 
+
+ 12. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nel caso di edifici pubblici e privati, è obbligatorio l'utilizzo di fonti rinnovabili per la produzione di energia termica ed elettrica. In particolare, nel caso di edifici di nuova costruzione o in occasione di nuova installazione di impianti termici o di ristrutturazione degli impianti termici esistenti, l'impianto di produzione di energia termica deve essere progettato e realizzato in modo da coprire almeno il 50% del fabbisogno annuo di energia primaria richiesta per la produzione di acqua calda sanitaria con l'utilizzo delle predette fonti di energia. Tale limite è ridotto al 20% per gli edifici situati nei centri storici. 
+ 
+
+ 13. Le modalità applicative degli obblighi di cui al comma precedente, le prescrizioni minime, le caratteristiche tecniche e costruttive degli impianti di produzione di energia termica ed elettrica con l'utilizzo di fonti rinnovabili, sono definite, in relazione alle dimensioni e alle destinazioni d'uso degli edifici, con i decreti di cui all'articolo 4, comma 1. Le valutazioni concernenti il dimensionamento ottimale, o l'eventuale impossibilità tecnica di rispettare le presenti disposizioni, devono essere dettagliatamente illustrate nella relazione tecnica di cui al comma 15. In mancanza di tali elementi conoscitivi, la relazione è dichiarata irricevibile. Nel caso di edifici di nuova costruzione, pubblici e privati, o di ristrutturazione degli stessi conformemente all'articolo 3, comma 2, lettera a), è obbligatoria l'installazione di impianti fotovoltaici per la produzione di energia elettrica. 
+ 
+
+ 14. Per tutte le categorie di edifici, così come classificati in base alla destinazione d'uso all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nel caso di nuova costruzione di edifici pubblici e privati e di ristrutturazione degli stessi conformemente all'articolo 3, comma 2, lettera a), è obbligatoria la predisposizione delle opere, riguardanti l'involucro dell'edificio e gli impianti, necessarie a favorire il collegamento a reti di teleriscaldamento, nel caso di presenza di tratte di rete ad una distanza inferiore a metri 1.000 ovvero in presenza di progetti approvati nell'ambito di opportuni strumenti pianificatori. 
+ 
+
+ 15. Il progettista dovrà inserire i calcoli e le verifiche previste dal presente allegato nella relazione attestante la rispondenza alle prescrizioni per il contenimento del consumo di energia degli edifici e relativi impianti termici, che, ai sensi dell'art. 28, comma 1 della legge 9 gennaio 1991, n. 10, il proprietario dell'edificio, o chi ne ha titolo, deve depositare presso le amministrazioni competenti secondo le disposizioni vigenti, in doppia copia, insieme alla denuncia dell'inizio dei lavori relativi alle opere di cui agli articoli 25 e 26 della stessa legge. Schemi e modalità di riferimento per la compilazione delle relazioni tecniche sono riportati nell'allegato E. Ai fini della più estesa applicazione dell'art. 26, comma 7 della legge 9 gennaio 1991, n. 10 negli Enti soggetti all'obbligo di cui all'art. 19 della stessa legge, tale relazione progettuale dovrà essere obbligatoriamente integrata attraverso attestazione di verifica sulla applicazione della norma predetta a tal fine redatta dal Responsabile per la conservazione e l'uso razionale dell'energia nominato. 
+ 
+
+ 16. I calcoli e le verifiche necessari al rispetto del presente decreto sono eseguiti utilizzando metodi che garantiscano risultati conformi alle migliori regole tecniche. Si considerano rispondenti a tale requisito le norme tecniche predisposte dagli organismi deputati a livello nazionale o comunitario, quali ad esempio l'UNI e il CEN, o altri metodi di calcolo recepiti con decreto del Ministro dello sviluppo economico. 
+ 
+
+ L'utilizzo di altri metodi, procedure e specifiche tecniche sviluppati da organismi istituzionali nazionali, quali l'ENEA, le università o gli istituti del CNR, è possibile, motivandone l'uso nella relazione tecnica di progetto di cui al comma precedente, purchè i risultati conseguiti risultino equivalenti o conservativi rispetto a quelli ottenibili con i metodi di calcolo precedentemente detti. 
+ 
+
+ Nel calcolo rigoroso della prestazione energetica dell'edificio occorre prendere in considerazione i seguenti elementi: 
+ 
+
+ - lo scambio termico per trasmissione tra l'ambiente climatizzato e l'ambiente esterno; 
+ 
+
+ - lo scambio termico per ventilazione (naturale e meccanica); 
+ 
+
+ - lo scambio termico per trasmissione e ventilazione tra zone adiacenti a temperatura diversa; 
+ 
+
+ - gli apporti termici interni; 
+ 
+
+ - gli apporti termici solari; 
+ 
+
+ - l'accumulo del calore nella massa dell'edificio; 
+ 
+
+ - l'eventuale controllo dell'umidità negli ambienti climatizzati; 
+ 
+
+ - le modalità di emissione del calore negli impianti termici e le corrispondenti perdite di energia; 
+ 
+
+ - le modalità di distribuzione del calore negli impianti termici e le corrispondenti perdite di energia; 
+ 
+
+ - le modalità di accumulo del calore negli impianti termici e le corrispondenti perdite di energia; 
+ 
+
+ - le modalità di generazione del calore e le corrispondenti perdite di energia; 
+ 
+
+ - l'effetto di eventuali sistemi impiantistici per l'utilizzo di fonti rinnovabili di energia; 
+ 
+
+ - per gli edifici di nuova costruzione del settore terziario con volumetria maggiore di 10.000 mc, l'influenza dei fenomeni dinamici, attraverso l'uso di opportuni modelli di simulazione, salvo che si possa dimostrare la scarsa rilevanza di tali fenomeni nel caso specifico. 
+ 
+
+ Per memoria dei progettisti, nell'allegato M al presente decreto si riporta l'elenco delle norme UNI, rispondenti alle esigenze del presente decreto, attualmente in vigore.
