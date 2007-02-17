@@ -211,7 +211,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- t) "sollecitazione all'investimento": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma rivolti al pubblico, finalizzati alla vendita o alla sottoscrizione di prodotti finanziari; non costituisce sollecitazione all'investimento la raccolta di depositi bancari o postali realizzata senza emissione di strumenti finanziari; 
+ t) "sollecitazione all'investimento": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma rivolti al pubblico, finalizzati alla vendita o alla sottoscrizione di prodotti finanziari 
+ (( incluso il collocamento tramite soggetti abilitati))
+
+ ; 
  
 
  
@@ -219,9 +222,8 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  u) "prodotti finanziari": gli strumenti finanziari e ogni altra forma di investimento di natura finanziaria; 
- 
+ (( non costituiscono prodotti finanziari i depositi bancari o postali non rappresentati da strumenti finanziari; ))
 
- 
  
 
  
@@ -236,6 +238,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ w-bis) "prodotti finanziari emessi da imprese di assicurazione": le polizze e le operazioni di cui ai rami vita III e V di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 209, con esclusione delle forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), del decreto legislativo 5 dicembre 2005, n. 252. 
+
+ ))
+
  
 
  
@@ -266,12 +277,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
  b-bis) gli strumenti finanziari, negoziabili sul mercato dei capitali, previsti dal codice civile; 
+ 
 
- ))
-
+ 
  
 
  
@@ -461,11 +470,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
  6-bis. Per 'partecipazionì si intendono le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque quelli previsti dall'articolo 2351, ultimo comma, del codice civile. 
  
 
@@ -482,8 +486,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6-quater. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione e ai loro componenti. 
- 
-
- 
- ))
+ 6-quater. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione e ai loro componenti.
