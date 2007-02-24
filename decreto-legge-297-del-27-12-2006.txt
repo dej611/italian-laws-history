@@ -91,7 +91,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) all'articolo 7, il comma 10 è sostituito dal seguente:
  
 
- "10. Nel rispetto delle condizioni previste dalle direttive comunitarie applicabili alle banche, la Banca d'Italia scambia informazioni con altre autorità e soggetti esteri indicati dalle direttive medesime.";
+ "10. Nel rispetto delle condizioni previste dalle direttive comunitarie applicabili alle banche, la Banca d'Italia scambia informazioni con 
+ ((tutte le))
+
+ altre autorità e soggetti esteri indicati dalle direttive medesime.";
  
 
  
@@ -107,22 +110,39 @@ IL PRESIDENTE DELLA REPUBBLICA
  "d-bis) l'informativa da rendere al pubblico sulle materie di cui alle lettere da a) a d).";
  
 
- 2) dopo il comma 2, è inserito il seguente:
+ 2) dopo il comma 2, 
+ ((sono inseriti i seguenti))
+
+ :
  
 
  "2-bis. Le disposizioni emanate ai sensi del comma 1, lettera a), prevedono che le banche possano utilizzare:
  
 
- a) le valutazioni del rischio di credito rilasciate da società o enti esterni; le disposizioni disciplinano i requisiti che tali soggetti devono possedere e le relative modalità di accertamento;
+ a) le valutazioni del rischio di credito rilasciate da società o enti esterni; le disposizioni disciplinano i requisiti 
+ ((, anche di competenza tecnica e di indipendenza,))
+
+ che tali soggetti devono possedere e le relative modalità di accertamento;
  
 
  b) sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, previa autorizzazione della Banca d'Italia. Per le banche sottoposte alla vigilanza consolidata di un'autorità di un altro Stato comunitario, la decisione è di competenza della medesima autorità, qualora, entro sei mesi dalla presentazione della domanda di autorizzazione, non venga adottata una decisione congiunta con la Banca d'Italia.";
  
 
+ 
+ ((2-ter. Le società o enti esterni che, anche gestendo sistemi informativi creditizi, rilasciano alle banche valutazioni del rischio di credito o sviluppano modelli statistici per l'utilizzo ai fini di cui a1 comma 1, lettera a), conservano, per tale esclusiva finalità, anche in deroga alle altre vigenti disposizioni normative, i dati personali detenuti legittimamente per un periodo di tempo storico di osservazione che sia congruo rispetto a quanto richiesto dalle disposizioni emanate ai sensi del comma 2-bis. Le modalità di attuazione e i criteri che assicurano la non identificabilità sono individuati su conforme parere del Garante per la protezione dei dati personali.))
+
+ 
+
  3) al comma 3, la lettera d) è sostituita dalla seguente:
  
 
- "d) adottare per le materie indicate nel comma 1, ove la situazione lo richieda, provvedimenti specifici nei confronti di singole banche, riguardanti anche la restrizione delle attività o della struttura territoriale, nonchè il divieto di effettuare determinate operazioni e di distribuire utili o altri elementi del patrimonio.";
+ "d) adottare per 
+ ((tutte))
+
+ le materie indicate nel comma 1, ove la situazione lo richieda, provvedimenti specifici nei confronti di singole banche, riguardanti anche la restrizione delle attività o della struttura territoriale, nonchè il divieto di effettuare determinate operazioni 
+ ((, anche di natura societaria,))
+
+ e di distribuire utili o altri elementi del patrimonio.";
  
 
  
@@ -199,7 +219,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) il comma 1 è sostituito dal seguente:
  
 
- "1. Al fine di realizzare la vigilanza su base consolidata, la Banca d'Italia richiede ai soggetti indicati nelle lettere da a) a c) del comma 1 dell'articolo 65 la trasmissione, anche periodica, di situazioni e dati, nonchè ogni altra informazione utile. La Banca d'Italia può altresì richiedere ai soggetti indicati nelle lettere h) ed i) del comma 1 dell'articolo 65 le informazioni utili all'esercizio della vigilanza su base consolidata.";
+ "1. Al fine di 
+ ((esercitare))
+
+ la vigilanza su base consolidata, la Banca d'Italia richiede ai soggetti indicati nelle lettere da a) a c) del comma 1 dell'articolo 65 la trasmissione, anche periodica, di situazioni e dati, nonchè ogni altra informazione utile. La Banca d'Italia può altresì richiedere ai soggetti indicati nelle lettere h) ed i) del comma 1 dell'articolo 65 le informazioni utili all'esercizio della vigilanza su base consolidata.";
  
 
  2) il comma 3 è sostituito dal seguente:
@@ -221,7 +244,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) il comma 1 è sostituito dal seguente:
  
 
- "1. Al fine di realizzare la vigilanza consolidata, la Banca d'Italia, in conformità alle deliberazioni del CICR, impartisce alla capogruppo, con provvedimenti di carattere generale o particolare, disposizioni concernenti il gruppo bancario complessivamente considerato o suoi componenti, aventi ad oggetto:
+ "1. Al fine di 
+ ((esercitare))
+
+ la vigilanza consolidata, la Banca d'Italia, in conformità alle deliberazioni del CICR, impartisce alla capogruppo, con provvedimenti di carattere generale o particolare, disposizioni concernenti il gruppo bancario complessivamente considerato o suoi componenti, aventi ad oggetto:
  
 
  a) l'adeguatezza patrimoniale;
@@ -257,13 +283,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) il comma 3 è sostituito dal seguente:
  
 
- "3. Le disposizioni emanate dalla Banca d'Italia per realizzare la vigilanza su base consolidata possono tenere conto, anche con riferimento alla singola banca, della situazione e delle attività dei soggetti indicati nelle lettere b) e c) del comma 1 dell'articolo 65.";
+ "3. Le disposizioni emanate dalla Banca d'Italia per 
+ ((esercitare))
+
+ la vigilanza su base consolidata possono tenere conto, anche con riferimento alla singola banca, della situazione e delle attività dei soggetti indicati nelle lettere b) e c) del comma 1 dell'articolo 65.";
  
 
  4) dopo il comma 3, è aggiunto, in fine, il seguente:
  
 
- "3-bis. La Banca d'Italia può impartire disposizioni, ai sensi del presente articolo, anche nei confronti dei componenti il gruppo bancario.";
+ "3-bis. La Banca d'Italia può impartire disposizioni, ai sensi del presente articolo, anche nei confronti 
+ ((di uno solo o di alcuni))
+
+ dei componenti il gruppo bancario.";
  
 
  
@@ -320,7 +352,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) il comma 2 è sostituito dal seguente:
  
 
- "2. La Banca d'Italia, in conformità alle deliberazioni del CICR, detta agli intermediari iscritti nell'elenco speciale disposizioni aventi ad oggetto l'adeguatezza patrimoniale e il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile e i controlli interni, nonchè l'informativa da rendere al pubblico sulle predette materie. La Banca d'Italia può adottare, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari per le materie in precedenza indicate. Con riferimento a determinati tipi di attività la Banca d'Italia può inoltre dettare disposizioni volte ad assicurarne il regolare esercizio.";
+ "2. La Banca d'Italia, in conformità alle deliberazioni del CICR, detta agli intermediari iscritti nell'elenco speciale disposizioni aventi ad oggetto l'adeguatezza patrimoniale e il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile e i controlli interni, nonchè l'informativa da rendere al pubblico sulle predette materie. La Banca d'Italia 
+ ((adotta))
+
+ , ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari per le materie in precedenza indicate. Con riferimento a determinati tipi di attività la Banca d'Italia può inoltre dettare disposizioni volte ad assicurarne il regolare esercizio.";
  
 
  2) dopo il comma 2, è inserito il seguente:
@@ -348,4 +383,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  n) dopo l'articolo 116, è inserito il seguente:
  
 
- "Art. 116-bis (Decisioni di rating). - 1. La Banca d'Italia può disporre che le banche e gli intermediari finanziari autorizzati a utilizzare sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali illustrino alle imprese che ne facciano richiesta i principali fattori alla base dei rating interni che le riguardano. Gli oneri connessi alla comunicazione sono proporzionati all'entità del finanziamento.".
+ "Art. 116-bis (Decisioni di rating). - 1. La Banca d'Italia può disporre che le banche e gli intermediari finanziari 
+ ((. . .))
+
+ illustrino alle imprese che ne facciano richiesta i principali fattori alla base dei rating 
+ ((. . .))
+
+ che le riguardano. 
+ ((L'eventuale conseguente comunicazione non dà luogo ad oneri per il cliente))
+
+ ".
