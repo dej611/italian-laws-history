@@ -1,0 +1,909 @@
+ALLEGATI SPECIFICI 
+ 
+
+ 
+ 
+
+ Allegato MI-001 - Contatori dell'acqua 
+ 
+
+ Allegato MI-002 - Contatori del gas e dispositivi di conversione 
+ 
+
+ del volume 
+ 
+
+ Allegato MI-003 - Contatori di energia elettrica attiva 
+ 
+
+ Allegato MI-004 - Contatori di calore 
+ 
+
+ Allegato MI-005 - Sistemi di misura per la misurazione continua e dinamica di quantità di liquidi diversi dall'acqua 
+ 
+
+ Allegato MI-006 - Strumenti per pesare a funzionamento automatico Allegato MI-007 - Tassametri 
+ 
+
+ Allegato MI-008 - Misure materializzate 
+ 
+
+ Allegato MI-009 - Strumenti di misura della dimensione 
+ 
+
+ Allegato MI-010 - Analizzatori di gas di scarico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ALLEGATO 
+ ((III))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ CONTATORI DELL'ACQUA 
+ (( (MI-001) ))
+
+ 
+ 
+
+ 
+ 
+
+ Ai contatori dell'acqua destinati alla misurazione di volumi d'acqua pulita, fredda o riscaldata, ad uso residenziale, commerciale e di industria leggera, si applicano i requisiti pertinenti dell'Allegato I, i requisiti specifici del presente allegato e le procedure di accertamento di conformità elencate nel presente allegato. 
+ 
+
+ 
+ 
+
+ DEFINIZIONI 
+ 
+
+ Contatore dell'acqua Strumento inteso a misurare, memorizzare e visualizzare, in condizioni di conteggio, il volume d'acqua che passa attraverso il trasduttore di misurazione. 
+ 
+
+ Portata minima (Q 1) La portata d'acqua minima in presenza della quale il contatore dell'acqua fornisce indicazioni che soddisfano i requisiti in materia di errore massimo tollerato. 
+ 
+
+ Portata di transizione (Q2) La portata di transizione è il valore della portata che si situa tra la portata permanente e la portata minima, e in presenza del quale il campo di portata è diviso in due zone, la "zona superiore" e la "zona inferiore". A ciascuna zona corrisponde un errore massimo tollerato specifico. 
+ 
+
+ Portata permanente (Q3) La portata più elevata in presenza della quale il contatore dell'acqua è in grado di funzionare in modo soddisfacente in condizioni d'uso normali, vale a dire in presenza di un flusso stabile o intermittente. 
+ 
+
+ Portata di sovraccarico (Q4) La portata di sovraccarico è la portata più elevata in presenza della quale il contatore può funzionare in modo soddisfacente per un breve periodo di tempo senza deteriorarsi. 
+ 
+
+ 
+ 
+
+ REQUISITI SPECIFICI 
+ 
+
+ Condizioni di funzionamento nominali 
+ 
+
+ Il fabbricante deve specificare le condizioni di funzionamento nominali dello strumento, e in particolare quanto qui di seguito elencato. 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((1. Il campo di portata dell'acqua 
+ 
+
+ I valori del campo di portata devono soddisfare le seguenti condizioni: 
+ 
+
+ Q3/Q1 ≥ 40 
+ 
+
+ Q2/Q1 = 1,6 
+ 
+
+ Q4/Q3 = 1,25))
+ 
+
+ 
+ 
+
+ 2. L'intervallo di temperature dell'acqua da misurare 
+ 
+
+ I valori dell'intervallo di temperature debbono soddisfare le 
+ 
+
+ seguenti condizioni: variare da 0,1 °C ad almeno 30 °C, oppure 
+ 
+
+ variare da 30 °C ad una temperatura elevata, pari ad almeno 90 °C. 
+ 
+
+ Il contatore può essere progettato in modo tale da funzionare in entrambi gli intervalli. 
+ 
+
+ 3. L'intervallo di pressione relativa dell'acqua, che deve variare da 0,3 bar fino ad almeno 10 bar a Q3. 
+ 
+
+ 4. Per quanto concerne l'alimentazione elettrica: il valore nominale della tensione di alimentazione in corrente alternata e/o i limiti dell'alimentazione in corrente continua. 
+ 
+
+ Errore massimo tollerato 
+ 
+
+ 5. L'errore massimo tollerato, positivo o negativo, per i volumi compresi tra la portata di transizione (Q2) (compresa) e la portata di sovraccarico (Q4) è il seguente: 
+ 
+
+ 2% con una temperatura dell'acqua (minore uguale) = 30 °C, 
+ 
+
+ 3% con una temperatura dell'acqua > 30 °C. 
+ 
+
+ 6. L'errore massimo tollerato, positivo o negativo, per i volumi compresi tra la portata minima (Q1) e la portata di transizione (Q2) (esclusa) è pari al 5 % indipendentemente dalla temperatura dell'acqua. 
+ 
+
+ 6-bis. Il contatore non deve sfruttare l'errore massimo tollerato o favorire sistematicamente una delle parti. 
+ 
+
+ Effetto tollerato dei disturbi 
+ 
+
+ 7.1. Immunità elettromagnetica 
+ 
+
+ 7.1.1. L'effetto di un'interferenza elettromagnetica in un contatore dell'acqua deve essere tale che: 
+ 
+
+ - la variazione del risultato della misurazione non superi il valore di variazione critico, qual è definito al punto 8.1.4, oppure - l'indicazione del risultato della misurazione sia tale da non poter essere interpretata come risultato valido, quale una variazione momentanea che non può essere interpretata, memorizzata o trasmessa come un risultato della misurazione. 
+ 
+
+ 7.1.2. Dopo aver subito un'interferenza elettromagnetica, il contatore dell'acqua deve: 
+ 
+
+ - riprendere il funzionamento entro l'errore massimo tollerato, e - conservare l'integrità di tutte le funzioni di misurazione, e - consentire di recuperare tutti i dati di misurazione presenti immediatamente prima del disturbo. 
+ 
+
+ 7.1.3. Il valore di variazione critico è il minore dei due seguenti valori: 
+ 
+
+ - il volume corrispondente a metà della magnitudo dell'errore massimo tollerato nella zona superiore del volume misurato; 
+ 
+
+ - il volume corrispondente all'errore massimo sul volume corrispondente alla portata permanente Q3 per un minuto. 
+ 
+
+ 7.2. Durabilità 
+ 
+
+ Dopo l'esecuzione di una prova appropriata, che tenga conto del periodo di tempo stimato dal fabbricante, devono essere soddisfatti i seguenti criteri: 
+ 
+
+ 7.2.1. La variazione del risultato della misurazione dopo la prova di durabilità rispetto al risultato della misurazione iniziale, non deve superare: 
+ 
+
+ - il 3% del volume misurato tra Q1 incluso e Q2 escluso, 
+ 
+
+ - l'1,5% del volume misurato tra Q2 incluso e Q4 incluso. 
+ 
+
+ 7.2.2. L'errore di indicazione del volume misurato dopo la prova di durabilità non deve superare: 
+ 
+
+ - &plusmn; 6% del volume misurato tra Q1 (incluso) e Q2 (escluso), 
+ 
+
+ - &plusmn; 2,5% del volume misurato tra Q2 (incluso) e Q4 (incluso) per i contatori dell'acqua destinati a misurare acqua con una temperatura variante da 0,1 °C a 30 °C. 
+ 
+
+ - &plusmn; 3,5% del volume misurato tra Q2 (incluso) e Q4 (incluso) per i contatori dell'acqua destinati a misurare acqua con una temperatura variante da 30 °C a 90 °C. 
+ 
+
+ Idoneità 
+ 
+
+ 8.1. Il contatore deve poter essere installato in modo da funzionare in qualsiasi posizione, salvo che su di esso non sia apposta chiaramente diversa segnalazione. 
+ 
+
+ 8.2. Il fabbricante deve specificare se il contatore è progettato per misurare il flusso inverso. In tal caso, il volume del flusso inverso deve essere sottratto dal volume accumulato, oppure registrato separatamente. Al flusso normale e al flusso inverso si applica il medesimo errore massimo tollerato. 
+ 
+
+ I contatori dell'acqua che non sono progettati per misurare il flusso inverso devono impedire un flusso inverso o sopportare un flusso inverso accidentale senza subire deterioramenti o alterazioni delle rispettive proprietà metrologiche. 
+ 
+
+ Unità di misura 
+ 
+
+ 9. Il volume misurato è indicato in metri cubi. 
+ 
+
+ Messa in servizio 
+ 
+
+ 10. Lo Stato membro assicura che i requisiti di cui ai punti 1, 2 e 3 siano determinati dal distributore o dalla persona legalmente designata per l'installazione del contatore, di modo che il contatore sia idoneo alla misura accurata del consumo previsto o prevedibile. 
+ 
+
+ 
+ 
+
+ ACCERTAMENTO DI CONFORMITà 
+ 
+
+ Le procedure di valutazione della conformità di cui all'articolo 7 tra cui il fabbricante può scegliere sono le seguenti: 
+ 
+
+ B + F o B + D o H1.
+ALLEGATO 
+ ((IV))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ CONTATORI DEL GAS E DISPOSITIVI DI CONVERSIONE DEL VOLUME 
+ (( (MI-002) ))
+
+ 
+ 
+
+ 
+ 
+
+ Ai contatori del gas e ai dispositivi di conversione del volume descritti qui di seguito, destinati ad essere impiegati ad uso residenziale, commerciale e di industria leggera, si applicano i requisiti pertinenti dell'allegato I, i requisiti specifici del presente allegato e le procedure di accertamento di conformità elencate nel presente allegato. 
+ 
+
+ 
+ 
+
+ DEFINIZIONI 
+ 
+
+ Contatore del gas Strumento inteso a misurare, memorizzare e visualizzare la quantità di gas combustibile (volume o massa) che vi passa attraverso. 
+ 
+
+ Dispositivo di conversione Dispositivo installato su un contatore del gas, che converte automaticamente la quantità misurata in condizioni di conteggio in una quantità in condizioni di base. 
+ 
+
+ Portata minima (Qmin) La portata minima in cui il contatore del gas fornisce indicazioni che soddisfano i requisiti in materia di errore massimo tollerato. 
+ 
+
+ Portata massima (Qmax) La portata massima in cui il contatore del gas fornisce indicazioni che soddisfano i requisiti in materia di errore massimo tollerato. 
+ 
+
+ Portata di transizione (Qt) La portata di transizione è il valore della portata che si situa tra la portata massima e la portata minima, e in cui il campo di portata è diviso in due zone, la "zona superiore" e la "zona inferiore". A ciascuna zona corrisponde un errore massimo tollerato caratteristico. 
+ 
+
+ Portata di sovraccarico (Qr) La portata di sovraccarico è la portata più elevata in presenza della quale il contatore può funzionare per un breve periodo di tempo senza deteriorarsi. 
+ 
+
+ Condizioni di base Le condizioni specifiche in cui si converte la quantità di fluido misurata. 
+ 
+
+ 
+ 
+
+ PARTE I - REQUISITI SPECIFICI DEI CONTATORI DEL GAS 
+ 
+
+ 1. Condizioni di funzionamento nominali 
+ 
+
+ Il fabbricante deve specificare le condizioni di funzionamento nominali dello strumento, tenendo conto dei seguenti elementi: 
+ 
+
+ 1.1. Il campo di portata del gas deve almeno soddisfare le seguenti condizioni: 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Classe Q max /Q min Q max /Q t Q r /Q max 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1.2. L'intervallo di temperatura del gas, con un intervallo minimo di 40 °C. 
+ 
+
+ 1.3. Le condizioni relative al gas combustibile 
+ 
+
+ Lo strumento deve essere progettato per la gamma di gas e per l'intervallo di pressioni di erogazione nel paese di destinazione. In particolare, il fabbricante deve indicare: 
+ 
+
+ - la famiglia o gruppo cui appartiene il gas; 
+ 
+
+ - la pressione massima di funzionamento. 
+ 
+
+ 
+ 
+
+ 1.4. Un intervallo termico minimo di 50 °C per quanto concerne l'ambiente climatico. 
+ 
+
+ 1.5. Il valore nominale della tensione di alimentazione in corrente alternata e/o i limiti dell'alimentazione in corrente continua. 
+ 
+
+ 2. Errore massimo tollerato 
+ 
+
+ 2.1. Contatore del gas indicante il volume in condizioni di conteggio o massa. 
+ 
+
+ 
+ 
+
+ TABELLA 1 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Classe 1,5 1,0 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il contatore non deve sfruttare gli errori massimi tollerati o favorire sistematicamente una parte. 
+ 
+
+ 2.2. Per un 
+ ((un contatore del gas con un dispositivo di conversione))
+
+ di temperatura che indica unicamente il volume convertito, l'errore massimo tollerato del contatore è aumentato dello 0,5% in un intervallo di 30 °C che si estende in forma simmetrica attorno alla temperatura specificata dal fabbricante, che si situerà tra i 15 °C e i 25 °C. Al di fuori di questo intervallo, è consentito un aumento addizionale dello 0,5% per ogni divisione di 10 °C. 
+ 
+
+ 3. Effetto tollerato dei disturbi. 
+ 
+
+ 3.1. Immunità elettromagnetica. 
+ 
+
+ 3.1.1. L'effetto di un'interferenza elettromagnetica in un contatore del gas deve essere tale che: 
+ 
+
+ - la variazione della misurazione non superi il valore di 
+ 
+
+ variazione critico, qual è definito al punto 3.1.3, oppure 
+ 
+
+ - l'indicazione del risultato della misurazione sia tale da non poter essere interpretato come risultato valido, quale una variazione momentanea che non può essere interpretata, memorizzata o trasmessa come un risultato della misurazione. 
+ 
+
+ 3.1.2. Dopo aver subito un'interferenza elettromagnetica, il contatore del gas deve: 
+ 
+
+ - riprendere il funzionamento entro l'errore massimo tollerato; 
+ 
+
+ - conservare l'integrità di tutte le funzioni di misurazione; 
+ 
+
+ - consentire di recuperare tutti i dati di misurazione presenti immediatamente prima del disturbo. 
+ 
+
+ 3.1.3. Il valore di variazione critico è il minore dei due seguenti valori: 
+ 
+
+ - la quantità corrispondente alla metà della grandezza dell'errore massimo tollerato nella zona superiore del volume misurato; 
+ 
+
+ - la quantità corrispondente all'errore massimo tollerato sulla quantità corrispondente ad un minuto alla portata massima. 
+ 
+
+ 3.2. Effetto dei flussi di disturbi a monte e a valle 
+ 
+
+ Nel quadro delle condizioni di installazione specificate dal fabbricante, l'effetto del flusso dei disturbi non dovrà superare un terzo dell'errore massimo tollerato. 
+ 
+
+ 4. Durabilità 
+ 
+
+ Dopo l'esecuzione di una prova appropriata, che tenga conto del periodo di tempo stimato dal fabbricante, devono essere soddisfatti i seguenti criteri: 
+ 
+
+ 4.1. Contatori della classe 1,5 
+ 
+
+ 4.1.1. La variazione del risultato della misurazione dopo la prova di durabilità rispetto al risultato della misurazione iniziale per le portate nei campi di funzionamento da Qt a Qmax non deve superare di più del 2 % il risultato della misurazione. 
+ 
+
+ 4.1.2. L'errore di indicazione dopo la prova di durabilità non deve superare il doppio dell'errore massimo tollerabile di cui alla sezione 2. 
+ 
+
+ 4.2. Contatori della classe 1,0 
+ 
+
+ 4.2.1. La variazione del risultato della misurazione dopo la prova di durabilità rispetto al risultato della misurazione iniziale non deve superare un terzo dell'errore massimo tollerabile di cui alla sezione 2. 
+ 
+
+ 4.2.2. L'errore di indicazione dopo la prova di durabilità non deve superare l'errore massimo tollerabile di cui alla sezione 2. 
+ 
+
+ 5. Idoneità 
+ 
+
+ 5.1. Gli strumenti alimentati tramite la rete elettrica (corrente alternata o continua) debbono essere provvisti di un dispositivo di alimentazione elettrica di emergenza o di altro mezzo atto a garantire l'integrità di tutte le funzioni di misura in caso di interruzione della fonte di energia elettrica principale. 
+ 
+
+ 5.2. La fonte di energia dedicata dovrà avere una durata utile di almeno cinque anni. Una volta trascorso il 90 % di tale periodo, dovrà comparire un'avvertenza appropriata. 
+ 
+
+ 5.3. Il dispositivo indicatore deve disporre di un numero di cifre sufficiente a garantire che la quantità circolata nel corso di 8000 ore a Qmax non faccia ritornare le cifre ai valori iniziali. 
+ 
+
+ 5.4. Il contatore deve poter essere installato in modo da funzionare in qualsiasi posizione indicata dal fabbricante nelle sue istruzioni di installazione. 
+ 
+
+ 5.5. Il contatore deve essere munito di un dispositivo che permetta di effettuare prove in un tempo ragionevole. 
+ 
+
+ 5.6. Il contatore deve rispettare l'errore massimo tollerato in ogni direzione di flusso o solo nella direzione di flusso chiaramente indicata. 
+ 
+
+ 6. Unità 
+ 
+
+ La quantità misurata dev'essere visualizzata in metri cubi (simbolo = m3) o in chilogrammi (simbolo kg). 
+ 
+
+ 
+ 
+
+ PARTE II - REQUISITI SPECIFICI - DISPOSITIVI DI CONVERSIONE DEL 
+ 
+
+ VOLUME 
+ 
+
+ 
+ 
+
+ Un dispositivo di conversione del volume costituisce una sottounità a titolo del secondo trattino dell'articolo 2, lettera b). 
+ 
+
+ Per un dispositivo di conversione del volume si richiedono gli stessi requisiti essenziali previsti per i contatori del gas, se applicabili. Sono inoltre d'applicazione i seguenti requisiti: 
+ 
+
+ 7. Condizioni di base dei valori convertiti. 
+ 
+
+ Il fabbricante deve specificare le condizioni di base dei valori convertiti. 
+ 
+
+ 8. Errore massimo tollerato 
+ 
+
+ - 0,5% a temperatura ambiente 20 °C &plusmn; 3 °C, umidità ambiente 60% &plusmn; 15%, valori nominali di erogazione di energia elettrica; 
+ 
+
+ - 0,7% per dispositivi di conversione termica a condizioni di funzionamento nominali; 
+ 
+
+ - 1% per altri dispositivi di conversione in condizioni di funzionamento nominali. 
+ 
+
+ Nota: 
+ 
+
+ non si tiene conto dell'errore del contatore. 
+ 
+
+ Il dispositivo di conversione del volume non deve sfruttare gli errori massimi tollerati o favorire sistematicamente una parte. 
+ 
+
+ 9. Idoneità 
+ 
+
+ 9.1. Un dispositivo di conversione elettronico deve essere in grado di individuare i parametri pertinenti per l'accuratezza della misurazione allorquando si trova a funzionare al di fuori dei campi di funzionamento indicati dal fabbricante. In siffatti casi, il dispositivo di conversione deve interrompere l'integrazione della quantità convertita e può calcolare separatamente il totale della quantità convertita per il tempo in cui si è trovato al di fuori delle condizioni di funzionamento. 
+ 
+
+ 9.2. Un dispositivo di conversione elettronico deve essere in grado di indicare tutti i dati pertinenti per la misurazione senza attrezzatura supplementare. 
+ 
+
+ PARTE III - MESSA N SERVIZIO E ACCERTAMENTO DI CONFORMITà 
+ 
+
+ Messa in servizio 
+ 
+
+ 10. a) Qualora uno Stato membro prescriva la misura dell'uso residenziale, esso consente che tale misura sia effettuata per mezzo di qualsiasi contatore della classe 1,5 e da contatori della classe 1,0 aventi un rapporto Qmax/Qmin pari o superiore a 150. 
+ 
+
+ b) Qualora uno Stato membro prescriva la misura dell'uso commerciale e/o industriale leggero, esso consente che tale misura sia effettuata per mezzo di qualsiasi contatore della Classe 1,5. 
+ 
+
+ c) Per quanto riguarda i requisiti di cui sopra ai punti 1.2 e 1.3, gli Stati membri assicurano che le proprietà siano determinate dal distributore o dalla persona legalmente designata per l'installazione del contatore, di modo che il contatore sia idoneo alla misura accurata del consumo previsto o prevedibile. 
+ 
+
+ ACCERTAMENTO DI CONFORMITà 
+ 
+
+ Le procedure di accertamento di conformità di cui all'articolo 7 tra le quali il fabbricante può scegliere sono le seguenti: 
+ 
+
+ B + F, B + D o H1.
+Allegato 
+ ((V))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ (2) 
+ ((3))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il Decreto 12 maggio 2010 (in G.U. 23/07/2010, n. 170) ha disposto (con l'art. 1, comma 1) che "Nell'allegato MI-003, al punto 3 dei requisiti specifici è aggiunto il seguente paragrafo: &laquo;Il contatore non deve sfruttare gli errori massimi tollerati o favorire sistematicamente una parte.". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84 ha disposto (con l'art. 1, comma 1, lettera mm)) che "2) al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;"; 
+ 
+
+ [...] 
+ 
+
+ "5) nell'allegato MI-003, ora allegato V, nella nota alla tabella 1, le parole: &laquo;I min della classe B si applica&raquo; sono sostituite dalle seguenti: &laquo;della classe B si applica I min&raquo;; 
+ 
+
+ 6) nell'allegato MI-003, ora allegato V, nella nota alla tabella 2, le parole: &laquo;l'intervallo gamma di corrente&raquo; sono sostituite dalle seguenti: &laquo;l'intervallo di corrente&raquo;; 
+ 
+
+ 7) nell'allegato MI-003, ora allegato V, al punto 4.3.1, le parole: &laquo;Volts&raquo; e &laquo;Amps&raquo; sono sostituite rispettivamente dalle seguenti: &laquo;volt&raquo; e &laquo;ampere&raquo;".
+Allegato 
+ ((IV))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ (2) 
+ ((3))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il Decreto 12 maggio 2010 (in G.U. 23/07/2010, n. 170) ha disposto (con l'art. 1, comma 1) che "Nell'allegato MI-004, al punto 3 dei requisiti specifici è aggiunto il seguente paragrafo: &laquo;Il contatore termico completo non deve sfruttare gli errori massimi tollerati o favorire sistematicamente una parte.". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84 ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;"; 
+ 
+
+ [...] 
+ 
+
+ "8) nell'allegato MI-004, ora allegato VI, nel titolo, nel primo paragrafo delle definizioni, nella prima riga della prima tabella, al punto 2 e al punto 7, la parola: &laquo;calore&raquo; è sostituita dalle seguenti: &laquo;energia termica&raquo;"; 
+ 
+
+ "9) nell'allegato MI-004, ora allegato VI, al punto 3, al punto 4.3, al punto 6 e al punto 7.4, la parola: &laquo;termico&raquo; è sostituita dalle seguenti: &laquo;di energia termica&raquo;".
+Allegato 
+ ((VII))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ (2) 
+ ((3))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il Decreto 12 maggio 2010 (in G.U. 23/07/2010, n. 170) ha disposto (con l'art. 1, comma 1) che "Nell'allegato MI-005, al punto 2 dei requisiti specifici è aggiunto il seguente punto 2.8: &laquo;2.8. Il sistema di misura non deve sfruttare i valori massimi tollerati o favorire sistematicamente una parte.". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84 ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+Allegato 
+ ((VII))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84, ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+Allegato 
+ ((IX))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84, ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+Allegato 
+ ((X))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84, ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+Allegato 
+ ((XI))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84, ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+Allegato 
+ ((XII))
+
+ (( (Art. 1, comma 1) ))
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((3))
+
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (3)
+
+ 
+ 
+
+ Il D.Lgs. 19 maggio 2016, n. 84, ha disposto (con l'art. 1, comma 1, lettera mm)) che "al titolo degli allegati II, III, IV, V, IV, VII, VII, IX, X, XI e XII sono aggiunte, dopo la denominazione della tipologia di strumento di misura cui l'allegato si riferisce, rispettivamente, le indicazioni: &laquo;(MI-001), (MI-002), (MI-003), (MI-004), (MI-005), (MI-006), (MI-007), (MI-008), (MI-009) e (MI-010)&raquo;".
+((ALLEGATO XIII 
+ 
+
+ (Art. 8-bis, comma 2) 
+ 
+
+ 
+ 
+
+ DICHIARAZIONE DI CONFORMITà UE 
+ 
+
+ (N. XXXX) (1) 
+ 
+
+ 
+ 
+
+ 1. Modello di strumento/strumento (numero di prodotto, tipo, lotto o serie): 
+ 
+
+ 2. Nome e indirizzo del fabbricante e, se del caso, del suo rappresentante autorizzato: 
+ 
+
+ 3. La presente dichiarazione di conformità è rilasciata sotto la responsabilità esclusiva del fabbricante. 
+ 
+
+ 4. Oggetto della dichiarazione (identificazione dello strumento che ne consenta la rintracciabilità); può, se richiesto ai fini dell'identificazione dello strumento, includere un'immagine). 
+ 
+
+ 5. L'oggetto della dichiarazione di cui sopra è conforme alla pertinente normativa di armonizzazione dell'Unione: 
+ 
+
+ 6. Riferimento alle pertinenti norme armonizzate utilizzate o ai documenti normativi utilizzati o riferimenti alle altre specifiche tecniche in relazione alle quali è dichiarata la conformità. 
+ 
+
+ 7. Se del caso, l'organismo notificato ... (denominazione, numero) ha effettuato ... (descrizione dell'intervento) e rilasciato il certificato: 
+ 
+
+ 8. Informazioni supplementari: 
+ 
+
+ Firmato a nome e per conto di: 
+ 
+
+ (luogo e data del rilascio): 
+ 
+
+ (nome, funzione) (firma) 
+ 
+
+ ------ 
+ 
+
+ (1) L'assegnazione di un numero, da parte del fabbricante, alla dichiarazione di conformità è opzionale.))
+ 
+
+ 
+ ((Parte di provvedimento in formato grafico))
