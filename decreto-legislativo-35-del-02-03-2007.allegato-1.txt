@@ -1,0 +1,186 @@
+TABELLA A 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 1 Caserma {Giovanni Amadio} Cormons GO 
+ 
+
+ 
+ 2 Caserma {E. Toti} Farra d'Isonzo GO Escluso aliquota alloggi 
+ 
+
+ 
+ 3 Caserma {Colombini} Cormons (Fraz. di Brazzano) GO 
+ 
+
+ 
+ 4 Caserma {Dall'Armi} San Vito al Tagliamento PN 
+ 
+
+ 
+ 5 Caserma {623} Sezione magazzino Sacile PN 
+ 
+
+ 
+ 6 Caserma {De Gasperi} Spilimbergo PN 
+ 
+
+ 
+ 7 ex pista carri Aviano PN 
+ 
+
+ 
+ 8 ex pista carri S. Quirino PN 
+ 
+
+ 
+ 9 ex pista carri Roveredo in Piano PN 
+ 
+
+ 
+ 10 ex tracciato ferroviario Cordovado PN 
+ 
+
+ 
+ 11 ex tracciato ferroviario Morsano al Tagliamento PN 
+ 
+
+ 
+ 12 terreni demaniali Claut PN 
+ 
+
+ 
+ 13 ex Caserma {Girolamo da Sacile} Sacile PN 
+ 
+
+ 
+ 14 Caserma {S. Giovanni del Tempio} Sacile PN 
+ 
+
+ 
+ 
+ (( 15 ))
+
+ 
+ ((ex Caserma {Martelli} ))
+
+ 
+ ((Pordenone))
+
+ 
+ ((PN))
+
+ 
+ 
+
+ 
+ 16 area retrostante la Caserma di polizia denominata {Duchessa d'Aosta} Trieste (S.M. Maddalena Inferiore TS 
+ 
+
+ 
+ 17 complesso ex Caserma {Chiarle} Trieste (Guardiella) TS 
+ 
+
+ 
+ 
+ (( 18 ))
+
+ 
+ ((Caserma {Dardi di Borgo Grotta Gigante))
+
+ 
+ ((Sgonico))
+
+ 
+ ((TS))
+
+ 
+ 
+
+ 
+ 19 deposito munizioni di Borgo Grotta Gigante Sgonico TS 
+ 
+
+ 
+ 20 ex Forte Cave del Predil Tarvisio UD 
+ 
+
+ 
+ 21 ex Caserma {III Armata} Cervignano UD 
+ 
+
+ 
+ 22 ex Caserma {Monte Pasubio} Cervignano UD 
+ 
+
+ 
+ 23 Caserma {Zucchi} Cividale del Friuli UD 
+ 
+
+ 
+ 24 Caserma {Duodo} - ex sede distretto militare Udine UD 
+ 
+
+ 
+ 25 ex Caserma {Ederle} Palmanova UD Escluso aliquota CIM (Centro ippico militare) 
+ 
+
+ 
+ 26 Caserma {D'Incau-Solideo} Malborghetto Valbruna UD Esclusa porzione di interesse dell'Arma dei carabinieri (Palazzina alloggi via Uque e Poligono di tiro ridotto) 
+ 
+
+ 
+ 27 Caserma {Bertolotti} Pontebba UD 
+ 
+
+ 
+ 28 Caserma {Patussi} Tricesimo UD 
+ 
+
+ 
+ 29 Caserma {Osoppo} Udine UD 
+ 
+
+ 
+ 30 Caserma {Piave} Udine UD 
+ 
+
+ 
+ 31 Caserma {Lesa} Basiliano UD 
+ 
+
+ 
+ 32 ex Caserma {Bernardini} Cavazzo Carnico UD 
+ 
+
+ 
+ 33 Caserma {Degano} Palozzolo della Stella UD 
+ 
+
+ 
+ 34 Caserma {Fantina} Pontebba UD 
+ 
+
+ 
+ 35 Caserma {Jesi} Ruda (fraz. Perteole) UD 
+ 
+
+ 
+ 36 Terreno Leicht adiacente Caserme {Zucchi - Lanfranco} Cividale del Friuli UD
