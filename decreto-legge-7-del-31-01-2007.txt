@@ -48,16 +48,32 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- 
- Ricarica nei servizi di telefonia mobile, trasparenza e libertà di
- 
-
- recesso dai contratti con operatori telefonici, televisivi e di servizi internet
- 
+ Ricarica nei servizi di telefonia mobile, trasparenza e libertà di recesso dai contratti con operatori telefonici, televisivi e di servizi internet
 
  
  
- 1. Al fine di favorire la concorrenza e la trasparenza delle tariffe, di garantire ai consumatori finali un adeguato livello di conoscenza sugli effettivi costi del servizio, nonchè di facilitare il confronto tra le offerte presenti sul mercato, è vietata, da parte degli operatori della telefonia mobile, l'applicazione di costi fissi e di contributi per la ricarica di carte prepagate, anche via bancomat o in forma telematica, aggiuntivi rispetto al costo del traffico telefonico richiesto, nonchè la previsione di termini temporali massimi di utilizzo del traffico acquistato. Ogni eventuale clausola difforme è nulla ai sensi dell'articolo 1418 del codice civile. Gli operatori adeguano la propria offerta commerciale alle predette disposizioni entro il termine di trenta giorni dalla data di entrata in vigore del presente decreto.
+ 1. Al fine di favorire la concorrenza e la trasparenza delle tariffe, di garantire ai consumatori finali un adeguato livello di conoscenza sugli effettivi 
+ (( prezzi ))
+
+ del servizio, nonchè di facilitare il confronto tra le offerte presenti sul mercato, è vietata, da parte degli operatori 
+ (( di telefonia, di reti televisive e di comunicazioni elettroniche, ))
+
+ l'applicazione di costi fissi e di contributi per la ricarica di carte prepagate, anche via bancomat o in forma telematica, aggiuntivi rispetto al costo del traffico telefonico 
+ (( o del servizio ))
+
+ richiesto 
+ (( . è altresì vietata ))
+
+ la previsione di termini temporali massimi di utilizzo del traffico 
+ (( o del servizio ))
+
+ acquistato. Ogni eventuale clausola difforme è nulla 
+ (( e non comporta la nullità del contratto, fatti salvi i vincoli di durata di eventuali offerte promozionali comportanti prezzi più favorevoli per il consumatore. ))
+
+ Gli operatori 
+ (( di telefonia mobile ))
+
+ adeguano la propria offerta commerciale alle predette disposizioni entro il termine di trenta giorni dalla data di entrata in vigore del presente decreto. 
  
 
  
@@ -65,7 +81,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. L'offerta delle tariffe dei differenti operatori della telefonia deve evidenziare tutte le voci che compongono l'effettivo costo del traffico telefonico, al fine di consentire ai singoli consumatori un adeguato confronto.
+ 
+ ((
+ 
+
+ 
+ 2. L'offerta commerciale dei prezzi dei differenti operatori della telefonia deve evidenziare tutte le voci che compongono l'offerta, al fine di consentire ai singoli consumatori un adeguato confronto. 
  
 
  
@@ -73,7 +94,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. I contratti per adesione stipulati con operatori di telefonia e di reti televisive e di comunicazione elettronica, indipendentemente dalla tecnologia utilizzata, devono prevedere la facoltà del contraente di recedere dal contratto o di trasferirlo presso altro operatore senza vincoli temporali o ritardi non giustificati da esigenze tecniche e senza spese non giustificate da costi dell'operatore e non possono imporre un obbligo di preavviso superiore a trenta giorni. Le clausole difformi sono nulle, fatta salva la facoltà degli operatori di adeguare alle disposizioni del presente articolo i rapporti contrattuali già stipulati alla data di entrata in vigore del presente decreto entro i successivi sessanta giorni.
+ 2-bis. L'Autorità per le garanzie nelle comunicazioni determina le modalità per consentire all'utente, a sua richiesta, al momento della chiamata da un numero fisso o cellulare e senza alcun addebito, di conoscere l'indicazione dell'operatore che gestisce il numero chiamato. 
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 3. I contratti per adesione stipulati con operatori di telefonia e di reti televisive e di comunicazione elettronica, indipendentemente dalla tecnologia utilizzata, devono prevedere la facoltà del contraente di recedere dal contratto o di 
+ (( trasferire le utenze ))
+
+ presso altro operatore senza vincoli temporali o ritardi non giustificati 
+ (( . . . ))
+
+ e senza spese non giustificate da costi dell'operatore e non possono imporre un obbligo di preavviso superiore a trenta giorni. Le clausole difformi sono nulle, fatta salva la facoltà degli operatori di adeguare alle disposizioni del presente 
+ (( comma ))
+
+ i rapporti contrattuali già stipulati alla data di entrata in vigore del presente decreto entro i successivi sessanta giorni. 
  
 
  
@@ -81,4 +121,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. L'Autorità per le garanzie nelle comunicazioni stabilisce le modalità attuative delle disposizioni di cui al comma 2 e applica le relative sanzioni.
+ 
+ ((
+ 
+
+ 
+ 4. L'Autorità per le garanzie nelle comunicazioni vigila sull'attuazione delle disposizioni di cui al presente articolo e stabilisce le modalità attuative delle disposizioni di cui al comma 2. La violazione delle disposizioni di cui ai commi 1, 2 e 3 è sanzionata dall'Autorità per le garanzie nelle comunicazioni applicando l'articolo 98 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259, come modificato dall'articolo 2, comma.136, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286. 
+ 
+
+ 
+ ))
