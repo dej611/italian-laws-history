@@ -1069,10 +1069,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 71. 
- (( COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 ))
-
- . 
+ 71. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296. 
  
 
  
@@ -1184,7 +1181,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 85. è definito come impianto di microgenerazione un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacità di generazione non superiore a 1 MW. 
+ 85. è definito come impianto di 
+ (( piccola generazione ))
+
+ un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacità di generazione non superiore a 1 MW. 
  
 
  
@@ -1192,11 +1192,26 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 86. L'installazione di un impianto di microgenerazione, purchè omologato, è soggetta a norme autorizzative semplificate. In particolare, se l'impianto è termoelettrico, è assoggettata agli stessi oneri tecnici e autorizzativi di un impianto di generazione di calore con pari potenzialità termica. 
+ 
+ ((
+ 
+
+ 
+ 85-bis. è definito come impianto di microgenerazione un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacità massima inferiore a 50 kWe. 
  
 
  
  
+ 
+
+ 
+ 86. L'installazione di un impianto di microgenerazione o di piccola generazione, purchè certificati, è soggetta a norme autorizzative semplificate. In particolare, se l'impianto è termoelettrico, è assoggettata agli stessi oneri tecnici e autorizzativi di un impianto di generazione di calore con pari potenzialità termica. 
+ 
+
+ 
+ ))
+ 
+
  
 
  
@@ -1208,7 +1223,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 88. Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e il Ministro dell'interno, emana con proprio decreto le norme per l'omologazione degli impianti di microgenerazione, fissandone i limiti di emissione e di rumore e i criteri di sicurezza. 
+ 88. Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e il Ministro dell'interno, emana con proprio decreto le norme per 
+ (( la certificazione degli impianti di piccola generazione e di microgenerazione, ))
+
+ fissandone i limiti di emissione e di rumore e i criteri di sicurezza. 
  
 
  
@@ -1216,7 +1234,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 89. A decorrere dall'anno 2005, l'Autorità per l'energia elettrica e il gas effettua annualmente il monitoraggio dello sviluppo degli impianti di microgenerazione e invia una relazione sugli effetti della generazione distribuita sul sistema elettrico ai Ministri di cui al comma 88, alla Conferenza unificata e al Parlamento. 
+ 89. A decorrere dall'anno 2005, l'Autorità per l'energia elettrica e il gas effettua annualmente il monitoraggio dello sviluppo degli impianti di 
+ (( piccola generazione e di ))
+
+ microgenerazione e invia una relazione sugli effetti della generazione distribuita sul sistema elettrico ai Ministri di cui al comma 88, alla Conferenza unificata e al Parlamento. 
  
 
  
@@ -1271,10 +1292,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 94. Dopo il comma 6 dell'articolo 19 del decreto legislativo 25 
- 
-
- novembre 1996, n. 625, è inserito il seguente: 
+ 94. Dopo il comma 6 dell'articolo 19 del decreto legislativo 25 novembre 1996, n. 625, è inserito il seguente: 
  
 
  "6-bis. Per le produzioni di gas ottenute a decorrere dal 1° gennaio 2002, al fine di tenere conto di qualunque onere, compresi gli oneri relativi alla coltivazione, al trattamento e al trasporto, in luogo delle riduzioni di cui al comma 6, l'ammontare della produzione annuale di gas esentata dal pagamento dell'aliquota per ciascuna concessione di coltivazione, di cui al comma 3, è stabilita in 25 milioni di Smc di gas per le produzioni in terraferma e in 80 milioni di Smc di gas per le produzioni in mare". 
@@ -1285,124 +1303,37 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 95. Il valore unitario delle aliquote relative alle produzioni di gas riferite ad anni successivi alla data di entrata in vigore del 
+ 95. Il valore unitario delle aliquote relative alle produzioni di gas riferite ad anni successivi alla data di entrata in vigore del decreto legislativo 25 novembre 1996, n. 625, fino all'anno 2001, qualora non sussista la possibilità di attribuire in modo univoco ad una singola concessione di coltivazione il prezzo medio fatturato del gas da essa proveniente, può essere determinato da ciascun titolare come media ponderale dei prezzi di vendita da esso fatturati in tutte le concessioni per le quali non sussiste la suddetta possibilità di attribuzione univoca. 
  
 
- decreto legislativo 25 novembre 1996, n. 625, fino all'anno 2001, qualora non sussista la possibilità di attribuire in modo univoco 
  
-
- ad una singola concessione di coltivazione il prezzo medio 
- 
-
- fatturato del gas da essa proveniente, può essere determinato da ciascun titolare come media ponderale dei prezzi di vendita da 
- 
-
- esso fatturati in tutte le concessioni per le quali non sussiste la suddetta possibilità di attribuzione univoca. 
- 
-
- 
- 
- 
-
- 
- 96. Dopo il comma 2 dell'articolo 40 del decreto legislativo 25 
- 
-
- novembre 1996, n. 625, è inserito il seguente: 
- 
-
- "2-bis. I titolari di concessioni di coltivazione che hanno presentato istanze di esonero ai sensi dell'articolo 26 della legge 9 gennaio 1991, n. 9, in merito alle quali non risultino conclusi i relativi accertamenti, inviano entro il 31 dicembre 2004 l'aggiornamento dei prospetti di cui al comma 2 relativamente alle opere che risultavano ancora in corso alla data del 31 dicembre 1997. L'aggiornamento, sottoscritto dal legale rappresentante del concessionario o da un suo delegato, indica altresì l'importo delle eventuali aliquote non corrisposte e ad esso si allega copia dell'avvenuto versamento, entro la stessa data, a titolo definitivo, dell'80 per cento dell'importo indicato". 
- 
-
- 
- 
- 
-
- 
- 97. I commi 3, 4 e 5 dell'articolo 40 del decreto legislativo 25 
- 
-
- novembre 1996, n. 625, sono abrogati. 
- 
-
- 
- 
- 
-
- 
- 98. Ad integrazione delle disposizioni di cui al decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, la gestione e la messa in sicurezza dei rifiuti radioattivi, che si intendono comprensivi degli elementi di combustibile nucleare irraggiato e dei materiali nucleari 
- 
-
- presenti sull'intero territorio nazionale, è svolta secondo le disposizioni di cui ai commi da 99 a 106. 
- 
-
- 
- 
- 
-
- 
- 99. La Società gestione impianti nucleari (SOGIN Spa) provvede 
  
-
- alla messa in sicurezza ed allo stoccaggio provvisorio dei rifiuti 
- 
-
- radioattivi di III categoria, nei siti che saranno individuati 
- 
-
- secondo le medesime procedure per la messa in sicurezza e lo 
- 
-
- stoccaggio provvisorio dei rifiuti radioattivi di I e II categoria 
- 
-
- indicate dall'articolo 3, comma 1-bis, del decreto-legge 14 
- 
-
- novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368. 
- 
-
- 
- 
  
 
  
- 100. Con le procedure di cui all'articolo 1, comma 1, del 
+ 96. Dopo il comma 2 dell'articolo 40 del decreto legislativo 25 novembre 1996, n. 625, è inserito il seguente: 
  
 
- decreto-legge 14 novembre 2003, n. 314, convertito, con 
+ "2-bis. I titolari di concessioni di coltivazione che hanno presentato istanze di esonero ai sensi dell'articolo 26 della legge 9 gennaio 1991, n. 9, in merito alle quali non risultino conclusi i relativi accertamenti, inviano entro il 31 dicembre 2004 l'aggiornamento dei prospetti di cui al comma 2 relativamente alle opere che risultavano ancora in corso alla data del 31 dicembre 1997. 
  
 
- modificazioni, dalla legge 24 dicembre 2003, n. 368, viene 
+ L'aggiornamento, sottoscritto dal legale rappresentante del concessionario o da un suo delegato, indica altresì l'importo delle eventuali aliquote non corrisposte e ad esso si allega copia dell'avvenuto versamento, entro la stessa data, a titolo definitivo, dell'80 per cento dell'importo indicato". 
  
 
- individuato il sito per la sistemazione definitiva dei rifiuti di II categoria. Le opere da realizzare di cui al presente comma e al 
  
-
- comma 99 sono opere di pubblica utilità, indifferibili e urgenti. 
- 
-
  
  
- 
 
  
- 101. Con decreto del Presidente del Consiglio dei ministri, su 
+ 97. I commi 3, 4 e 5 dell'articolo 40 del decreto legislativo 25 novembre 1996, n. 625, sono abrogati. 
  
 
- proposta del Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e con il Ministro dell'economia e delle finanze, da adottare entro dodici mesi dalla data di entrata in vigore della presente legge, sono 
  
-
- definiti i criteri e le modalità di copertura dei costi relativi alla messa in sicurezza e stoccaggio dei rifiuti radioattivi non coperti dagli oneri generali afferenti al sistema elettrico di cui 
  
-
- al decreto-legge 18 febbraio 2003, n. 25, convertito, con 
  
 
- modificazioni, dalla legge 17 aprile 2003, n. 83. Dalle 
  
-
- disposizioni del presente comma non possono derivare nuovi o maggiori oneri a carico del bilancio dello Stato. 
+ 98. Ad integrazione delle disposizioni di cui al decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, la gestione e la messa in sicurezza dei rifiuti radioattivi, che si intendono comprensivi degli elementi di combustibile nucleare irraggiato e dei materiali nucleari presenti sull'intero territorio nazionale, è svolta secondo le disposizioni di cui ai commi da 99 a 106. 
  
 
  
@@ -1410,22 +1341,15 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 102. Al fine di contribuire alla riduzione degli oneri generali 
+ 99. La Società gestione impianti nucleari (SOGIN Spa) provvede alla messa in sicurezza ed allo stoccaggio provvisorio dei rifiuti radioattivi di III categoria, nei siti che saranno individuati secondo le medesime procedure per la messa in sicurezza e lo stoccaggio provvisorio dei rifiuti radioattivi di I e II categoria indicate dall'articolo 3, comma 1-bis, del decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368. 
  
 
- afferenti al sistema elettrico di cui al decreto-legge 18 febbraio 
  
-
- 2003, n. 25, convertito, con modificazioni, dalla legge 17 aprile 2003, n. 83, nonchè alla sicurezza del sistema elettrico 
  
-
- nazionale, la SOGIN Spa, su parere conforme del Ministero delle 
  
 
- attività produttive, di concerto con il Ministero dell'ambiente e 
  
-
- della tutela del territorio, valorizza i siti e le infrastrutture esistenti. 
+ 100. Con le procedure di cui all'articolo 1, comma 1, del decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, viene individuato il sito per la sistemazione definitiva dei rifiuti di II categoria. Le opere da realizzare di cui al presente comma e al comma 99 sono opere di pubblica utilità, indifferibili e urgenti. 
  
 
  
@@ -1433,71 +1357,45 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 103. Ai fini di una migliore valorizzazione e utilizzazione delle strutture e delle competenze sviluppate, la SOGIN Spa svolge 
+ 101. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e con il Ministro dell'economia e delle finanze, da adottare entro dodici mesi dalla data di entrata in vigore della presente legge, sono definiti i criteri e le modalità di copertura dei costi relativi alla messa in sicurezza e stoccaggio dei rifiuti radioattivi non coperti dagli oneri generali afferenti al sistema elettrico di cui al decreto-legge 18 febbraio 2003, n. 25, convertito, con modificazioni, dalla legge 17 aprile 2003, n. 83. Dalle disposizioni del presente comma non possono derivare nuovi o maggiori oneri a carico del bilancio dello Stato. 
  
 
- attività di ricerca, consulenza, assistenza e servizio in tutti i 
  
-
- settori attinenti all'oggetto sociale, in particolare in campo 
- 
-
- energetico, nucleare e di protezione dell'ambiente, anche 
- 
-
- all'estero. Le attività di cui al presente comma sono svolte 
  
-
- dalla medesima società, in regime di separazione contabile anche tramite la partecipazione ad associazioni temporanee di impresa. 
  
 
- 
  
+ 102. Al fine di contribuire alla riduzione degli oneri generali afferenti al sistema elettrico di cui al decreto-legge 18 febbraio 2003, n. 25, convertito, con modificazioni, dalla legge 17 aprile 2003, n. 83, nonchè alla sicurezza del sistema elettrico nazionale, la SOGIN Spa, su parere conforme del Ministero delle attività produttive, di concerto con il Ministero dell'ambiente e della tutela del territorio, valorizza i siti e le infrastrutture esistenti. 
  
 
  
- 104. I soggetti produttori e detentori di rifiuti radioattivi di 
  
-
- cui al comma 100 conferiscono, nel rispetto della normativa 
  
 
- nazionale e comunitaria, anche in relazione agli sviluppi della 
  
-
- tecnica e alle indicazioni dell'Unione europea, tali rifiuti per la messa in sicurezza e lo stoccaggio al deposito di cui al comma 100 o a quello di cui all'articolo 1, comma 1, del decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla 
+ 103. Ai fini di una migliore valorizzazione e utilizzazione delle strutture e delle competenze sviluppate, la SOGIN Spa svolge attività di ricerca, consulenza, assistenza e servizio in tutti i settori attinenti all'oggetto sociale, in particolare in campo energetico, nucleare e di protezione dell'ambiente, anche all'estero. 
  
 
- legge 24 dicembre 2003, n. 368, a seconda della categoria di 
+ Le attività di cui al presente comma sono svolte dalla medesima società, in regime di separazione contabile anche tramite la partecipazione ad associazioni temporanee di impresa. 
  
 
- appartenenza. Con decreto del Ministro delle attività produttive, 
  
-
- di concerto con il Ministro dell'ambiente e della tutela del 
  
-
- territorio, sono definiti i tempi e le modalità tecniche del conferimento. 
  
 
  
+ 104. I soggetti produttori e detentori di rifiuti radioattivi di cui al comma 100 conferiscono, nel rispetto della normativa nazionale e comunitaria, anche in relazione agli sviluppi della tecnica e alle indicazioni dell'Unione europea, tali rifiuti per la messa in sicurezza e lo stoccaggio al deposito di cui al comma 100 o a quello di cui all'articolo 1, comma 1, del decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, a seconda della categoria di appartenenza. Con decreto del Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio, sono definiti i tempi e le modalità tecniche del conferimento. 
  
- 
 
  
- 105. Salvo che il fatto costituisca più grave reato, chiunque 
  
-
- ometta di effettuare il conferimento di cui al comma 104, è 
  
 
- punito con l'arresto fino a due anni e con l'ammenda fino a euro 1.000.000. Chiunque violi le norme tecniche e le modalità 
  
-
- definite dal decreto di cui al comma 104, è soggetto alla 
+ 105. Salvo che il fatto costituisca più grave reato, chiunque ometta di effettuare il conferimento di cui al comma 104, è punito con l'arresto fino a due anni e con l'ammenda fino a euro 1.000.000.
  
 
- sanzione amministrativa del pagamento di una somma non inferiore a euro 100.000 e non superiore a euro 300.000. 
+ Chiunque violi le norme tecniche e le modalità definite dal decreto di cui al comma 104, è soggetto alla sanzione amministrativa del pagamento di una somma non inferiore a euro 100.000 e non superiore a euro 300.000. 
  
 
  
@@ -1507,10 +1405,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
  
  
- 106. Al decreto-legge 14 novembre 2003, n. 314, convertito, con 
- 
-
- modificazioni, dalla legge 24 dicembre 2003, n. 368, sono apportate le seguenti modificazioni: 
+ 106. Al decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, sono apportate le seguenti modificazioni: 
  
 
  
@@ -1704,13 +1599,19 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
  
 
- La presente legge, munita del sigillo dello Stato, sarà 
+ 
  
 
- inserita nella Raccolta ufficiale degli atti normativi della 
+ 
  
 
- Repubblica italiana. è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ La presente legge, munita del sigillo dello Stato, sarà inserita 
+ 
+
+ nella Raccolta ufficiale degli atti normativi della Repubblica 
+ 
+
+ italiana. è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  
 
  
