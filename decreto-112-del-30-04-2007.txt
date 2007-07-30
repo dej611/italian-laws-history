@@ -1,0 +1,203 @@
+IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
+
+ 
+ 
+ 
+ Vista la legge 17 agosto 2005, n. 166, recante l'istituzione di un sistema di prevenzione, sul piano amministrativo, delle frodi sulle carte di pagamento, di seguito denominata &laquo;legge&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 7, comma 1, della legge che prevede di darvi attuazione con apposito decreto del Ministro, entro due mesi dalla sua entrata in vigore;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, concernente il codice in materia di protezione dei dati personali;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 19 marzo 2007;
+
+ 
+
+ 
+ 
+ 
+ Vista la nota del 19 giugno 2007 con la quale, ai sensi dell'articolo 17, comma 3, della legge n. 400 del 23 agosto 1988, lo schema di regolamento è stato comunicato al Presidente del Consiglio dei Ministri;
+
+ 
+ 
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ Sentite le organizzazioni sindacali maggiormente rappresentative;
+
+ 
+
+ 
+ di concerto con
+
+ 
+
+ 
+ i Ministri dell'interno, della giustizia, dello sviluppo economico, per le riforme e le innovazioni nella pubblica amministrazione;
+
+ 
+
+ 
+ previo esame congiunto con
+
+ 
+
+ 
+ la Banca d'Italia;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai sensi del presente regolamento si intendono per:
+ 
+
+ 
+ 
+
+ 
+ a) Acquirer ID: codice identificativo dell'Istituto bancario che ha convenzionato l'esercente;
+ 
+
+ 
+ 
+
+ 
+ b) Apparecchio POS: (point of sale) apparecchiatura automatica, installata presso gli esercizi commerciali, che consente il pagamento, tramite l'utilizzo di una carta, di beni acquistati o di servizi ricevuti;
+ 
+
+ 
+ 
+
+ 
+ c) Atm: (automated teller machine) Sportello automatico abilitato al prelievo di banconote (cash dispenser) e/o all'effettuazione di altre operazioni (self service, ecc.);
+ 
+
+ 
+ 
+
+ 
+ d) CAB (codice di avviamento bancario): numero composto da cinque cifre che identifica la filiale della banca;
+ 
+
+ 
+ 
+
+ 
+ e) Codice ABI: numero composto da cinque cifre che identifica la banca;
+ 
+
+ 
+ 
+
+ 
+ f) Codice PAN (primary account number): codice identificativo univoco della carta di pagamento (sia di debito che di credito);
+ 
+
+ 
+ 
+
+ 
+ g) Codice SIA: codice identificativo della convenzione stipulata con l'esercente, assegnato dalla SIA S.p.a. (società fornitrice di soluzioni tecnologiche per il settore bancario e finanziario);
+ 
+
+ 
+ 
+
+ 
+ h) GIPAF: gruppo interdisciplinare di lavoro per la prevenzione amministrativa delle frodi sulle carte di pagamento;
+ 
+
+ 
+ 
+
+ 
+ i) PIN: (personal identification number) codice numerico di identificazione personale che abilita il titolare all'utilizzo della carta di pagamento;
+ 
+
+ 
+ 
+
+ 
+ l) Terminal ID: codice identificativo univoco che contraddistingue l'apparecchio POS;
+ 
+
+ 
+ 
+
+ 
+ m) UCAMP: Ufficio centrale antifrode dei mezzi di pagamento.
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza:
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico dalle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'effica cia degli atti legislativi qui trascritti.
+ 
+
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUCE).
+ 
+
+ Note alle premesse:
+ 
+
+ - L'art. 7, comma 1 della legge 17 agosto 2005, n. 166, recante: &laquo;Istituzione di un sistema di prevenzione delle frodi sulle carte di pagamento&raquo; pubblicata nella Gazzetta Ufficiale del 22 agosto 2005, n. 194, è il seguente:
+ 
+
+ &laquo;Art. 7 (Termini, modalità e condizioni per la gestione del sistema di prevenzione). - 1. Con apposito decreto del Ministro dell'economia e delle finanze, da adottare, entro due mesi dalla data di entrata in vigore della presente legge, di concerto con i Ministri dell'interno, della giustizia, delle attività produttive, per l'innovazione e le tecnologie, e previo esame congiunto con la Banca d'Italia, sono precisate le competenze e l'organizzazione dell'Ufficio centrale antifrode dei mezzi di pagamento, sono stabiliti i criteri di individuazione delle società segnalanti e sono specificate le singole voci da comunicare a titolo di dati di cui all'art. 2 e di informazioni di cui all'art. 3.&raquo;.
+ 
+
+ - Il decreto legislativo 30 giugno 2003, n. 196, recante: &laquo;Codice in materia di protezione dei dati personali&raquo; è pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, supplemento ordinario.
+ 
+
+ - Il testo del comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400, recante: &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri, pubblicata nella Gazzetta Ufficiale del 12 settembre 1988, n. 214, supplemento ordinario è il seguente:
+ 
+
+ &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.&raquo;.
