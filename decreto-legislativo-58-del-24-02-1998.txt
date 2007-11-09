@@ -93,21 +93,30 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) "società di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in Italia; 
+ e) "società di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario, autorizzata a svolgere servizi 
+ (( o attività ))
+
+ di investimento, avente sede legale e direzione generale in Italia; 
  
 
  
  
 
  
- f) "impresa di investimento comunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in un medesimo Stato comunitario, diverso dall'Italia; 
+ f) "impresa di investimento comunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi 
+ (( o attività ))
+
+ di investimento, avente sede legale e direzione generale in un medesimo Stato comunitario, diverso dall'Italia; 
  
 
  
  
 
  
- g) "impresa di investimento extracomunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi di investimento, avente sede legale in uno Stato extracomunitario; 
+ g) "impresa di investimento extracomunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi 
+ (( o attività ))
+
+ di investimento, avente sede legale in uno Stato extracomunitario; 
  
 
  
@@ -197,26 +206,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- r) "soggetti abilitati": le imprese di investimento, le SGR, le società di gestione armonizzate, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario e le banche autorizzate all'esercizio dei servizi di investimento; 
- 
-
- 
- 
-
- 
- s) "servizi ammessi al mutuo riconoscimento": i servizi elencati nelle sezioni A e C della tabella allegata al presente decreto, autorizzati nello Stato comunitario d'origine; 
- 
-
- 
- 
-
- 
  ((
 
- t) "offerta al pubblico di prodotti finanziari": ogni comunicazione rivolta a persone, in qualsiasi forma e con qualsiasi mezzo, che presenti sufficienti informazioni sulle condizioni dell'offerta e dei prodotti finanziari offerti così da mettere un investitore in grado di decidere di acquistare o di sottoscrivere tali prodotti finanziari, incluso il collocamento tramite soggetti abilitati; 
+ 
+ r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
+ 
+
+ 
+ 
+
+ s) "servizi ammessi al mutuo riconoscimento": le attività e i servizi elencati nelle sezioni A e B della tabella allegata al presente decreto, autorizzati nello Stato comunitario di origine;
 
  ))
 
+ 
+
+ 
+ t) "offerta al pubblico di prodotti finanziari": ogni comunicazione rivolta a persone, in qualsiasi forma e con qualsiasi mezzo, che presenti sufficienti informazioni sulle condizioni dell'offerta e dei prodotti finanziari offerti così da mettere un investitore in grado di decidere di acquistare o di sottoscrivere tali prodotti finanziari, incluso il collocamento tramite soggetti abilitati; 
+ 
+
+ 
  
 
  
@@ -251,16 +260,63 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ w-ter) "mercato regolamentato": sistema multilaterale che consente o facilita l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, ammessi alla negoziazione conformemente alle regole del mercato stesso, in modo da dare luogo a contratti, e che è gestito da una società di gestione, è autorizzato e funziona regolarmente. 
+ 
 
- w-ter) "mercato regolamentato": un mercato quale definito dall'articolo 4, punto 14, della direttiva 2004/39/CE del 21 aprile 2004. 
-
- ))
-
+ 
  
 
  
 
+ 
+
+ 
+ 
+ 
+ 1-bis. Per "valori mobiliari" si intendono categorie di valori che possono essere negoziati nel mercato dei capitali, quali ad esempio: 
+ 
+
+ 
+ 
+
+ 
+ a) le azioni di società e altri titoli equivalenti ad azioni di società, di partnership o di altri soggetti e certificati di deposito azionario; 
+ 
+
+ 
+ 
+
+ 
+ b) obbligazioni e altri titoli di debito, compresi i certificati di deposito relativi a tali titoli; 
+ 
+
+ 
+ 
+
+ 
+ c) qualsiasi altro titolo normalmente negoziato che permette di acquisire o di vendere i valori mobiliari indicati alle precedenti lettere; 
+ 
+
+ 
+ 
+
+ 
+ d) qualsiasi altro titolo che comporta un regolamento in contanti determinato con riferimento ai valori mobiliari indicati alle precedenti lettere, a valute, a tassi di interesse, a rendimenti, a merci, a indici o a misure. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 1-ter. Per "strumenti del mercato monetario" si intendono categorie di strumenti normalmente negoziati nel mercato monetario, quali, ad esempio, i buoni del Tesoro, i certificati di deposito e le carte commerciali. 
+ 
+
+ 
+ 
  
 
  
@@ -273,77 +329,70 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) le azioni e gli altri titoli rappresentativi di capitale di rischio negoziabili sul mercato dei capitali; 
+ a) valori mobiliari; 
  
 
  
  
 
  
- b) le obbligazioni, i titoli di Stato e gli altri titoli di debito negoziabili sul mercato dei capitali; 
+ b) strumenti del mercato monetario; 
  
 
  
  
 
  
- b-bis) gli strumenti finanziari, negoziabili sul mercato dei capitali, previsti dal codice civile; 
+ c) quote di un organismo di investimento collettivo del risparmio; 
  
 
  
  
 
  
- c) le quote di fondi comuni di investimento; 
+ d) contratti di opzione, contratti finanziari a termine standardizzati ("future"), "swap", accordi per scambi futuri di tassi di interesse e altri contratti derivati connessi a valori mobiliari, valute, tassi di interesse o rendimenti, o ad altri strumenti derivati, indici finanziari o misure finanziarie che possono essere regolati con consegna fisica del sottostante o attraverso il pagamento di differenziali in contanti; 
  
 
  
  
 
  
- d) i titoli normalmente negoziati sul mercato monetario; 
+ e) contratti di opzione, contratti finanziari a termine standardizzati ("future"), "swap", accordi per scambi futuri di tassi di interesse e altri contratti derivati connessi a merci il cui regolamento avviene attraverso il pagamento di differenziali in contanti o può avvenire in tal modo a discrezione di una delle parti, con esclusione dei casi in cui tale facoltà consegue a inadempimento o ad altro evento che determina la risoluzione del contratto; 
  
 
  
  
 
  
- e) qualsiasi altro titolo normalmente negoziato che permetta di acquisire gli strumenti indicati nelle precedenti lettere e i relativi indici; 
+ f) contratti di opzione, contratti finanziari a termine standardizzati ("future"), "swap" e altri contratti derivati connessi a merci il cui regolamento può avvenire attraverso la consegna del sottostante e che sono negoziati su un mercato regolamentato e/o in un sistema multilaterale di negoziazione; 
  
 
  
  
 
  
- f) i contratti "futures" su strumenti finanziari, su tassi di interesse, su valute, su merci e sui relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ g) contratti di opzione, contratti finanziari a termine standardizzati ("future"), "swap", contratti a termine ("forward") e altri contratti derivati connessi a merci il cui regolamento può avvenire attraverso la consegna fisica del sottostante, diversi da quelli indicati alla lettera f) che non hanno scopi commerciali, e aventi le caratteristiche di altri strumenti finanziari derivati, considerando, tra l'altro, se sono compensati ed eseguiti attraverso stanze di compensazione riconosciute o se sono soggetti a regolari richiami di margini; 
  
 
  
  
 
  
- g) i contratti di scambio a pronti e a termine (swaps) su tassi di interesse, su valute, su merci nonchè su indici azionari (equity swaps), anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ h) strumenti derivati per il trasferimento del rischio di credito; 
  
 
  
  
 
  
- h) i contratti a termine collegati a strumenti finanziari, a tassi di interesse, a valute, a merci e ai relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
+ i) contratti finanziari differenziali; 
  
 
  
  
 
  
- i) i contratti di opzione per acquistare o vendere gli strumenti indicati nelle precedenti lettere e i relativi indici, nonchè i contratti di opzione su valute, su tassi d'interesse, su merci e sui relativi indici, anche quando l'esecuzione avvenga attraverso il pagamento di differenziali in contanti; 
- 
-
- 
- 
-
- 
- j) le combinazioni di contratti o di titoli indicati nelle precedenti lettere. 
+ j) contratti di opzione, contratti finanziari a termine standardizzati ("future"), "swap", contratti a termine sui tassi d'interesse e altri contratti derivati connessi a variabili climatiche, tariffe di trasporto, quote di emissione, tassi di inflazione o altre statistiche economiche ufficiali, il cui regolamento avviene attraverso il pagamento di differenziali in contanti o può avvenire in tal modo a discrezione di una delle parti, con esclusione dei casi in cui tale facoltà consegue a inadempimento o ad altro evento che determina la risoluzione del contratto, nonchè altri contratti derivati connessi a beni, diritti, obblighi, indici e misure, diversi da quelli indicati alle lettere precedenti, aventi le caratteristiche di altri strumenti finanziari derivati, considerando, tra l'altro, se sono negoziati su un mercato regolamentato o in un sistema multilaterale di negoziazione, se sono compensati ed eseguiti attraverso stanze di compensazione riconosciute o se sono soggetti a regolari richiami di margini. 
  
 
  
@@ -354,11 +403,34 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Per "strumenti finanziari derivati" si intendono gli strumenti finanziari previsti dal comma 2, lettere f), g), h), i) e j). 
+ 
+ 
+ 2-bis. Il Ministro dell'economia e delle finanze, con il regolamento di cui all'articolo 18, comma 5, individua: 
  
 
  
  
+
+ 
+ a) gli altri contratti derivati di cui al comma 2, lettera g), aventi le caratteristiche di altri strumenti finanziari derivati, compensati ed eseguiti attraverso stanze di compensazione riconosciute o soggetti a regolari richiami di margine; 
+ 
+
+ 
+ 
+
+ 
+ b) gli altri contratti derivati di cui al comma 2, lettera j), aventi le caratteristiche di altri strumenti finanziari derivati, negoziati su un mercato regolamentato o in un sistema multilaterale di negoziazione, compensati ed eseguiti attraverso stanze di compensazione riconosciute o soggetti a regolari richiami di margine. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 3. Per "strumenti finanziari derivati" si intendono gli strumenti finanziari previsti dal comma 2, lettere d), e), f), g), h), i) e j), nonchè gli strumenti finanziari previsti dal comma 1-bis, lettera d). 
  
 
  
@@ -371,8 +443,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ ((
  
- 5. Per "servizi di investimento" si intendono le seguenti attività, quando hanno per oggetto strumenti finanziari: 
+
+ 
+ 
+ 
+ 5. Per "servizi e attività di investimento" si intendono i seguenti, quando hanno per oggetto strumenti finanziari: 
  
 
  
@@ -386,33 +463,112 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) negoziazione per conto terzi; 
+ b) esecuzione di ordini per conto dei clienti; 
  
 
  
  
 
  
- c) collocamento, con o senza preventiva sottoscrizione o acquisto a fermo, ovvero assunzione di garanzia nei confronti dell'emittente; 
+ c) sottoscrizione e/o collocamento con assunzione a fermo ovvero con assunzione di garanzia nei confronti dell'emittente; 
  
 
  
  
 
  
- d) gestione su base individuale di portafogli di investimento per conto terzi; 
+ c-bis) collocamento senza assunzione a fermo nè assunzione di garanzia nei confronti dell'emittente; 
  
 
  
  
 
  
- e) ricezione e trasmissione di ordini nonchè mediazione. 
+ d) gestione di portafogli; 
  
 
  
  
 
+ 
+ e) ricezione e trasmissione di ordini; 
+ 
+
+ 
+ 
+
+ 
+ f) consulenza in materia di investimenti; 
+ 
+
+ 
+ 
+
+ 
+ g) gestione di sistemi multilaterali di negoziazione. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 5-bis. Per "negoziazione per conto proprio" si intende l'attività di acquisto e vendita di strumenti finanziari, in contropartita diretta e in relazione a ordini dei clienti, nonchè l'attività di market maker. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-ter. Per "internalizzatore sistematico" si intende il soggetto che in modo organizzato, frequente e sistematico negozia per conto proprio eseguendo gli ordini del cliente al di fuori di un mercato regolamentato o di un sistema multilaterale di negoziazione. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-quater. Per "market maker" si intende il soggetto che si propone sui mercati regolamentati e sui sistemi multilaterali di negoziazione, su base continua, come disposto a negoziare in contropartita diretta acquistando e vendendo strumenti finanziari ai prezzi da esso definiti. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-quinquies. Per "gestione di portafogli" si intende la gestione, su base discrezionale e individualizzata, di portafogli di investimento che includono uno o più strumenti finanziari e nell'ambito di un mandato conferito dai clienti. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-sexies. Il servizio di cui al comma 5, lettera e), comprende la ricezione e la trasmissione di ordini, nonchè l'attività consistente nel mettere in contatto due o più investitori, rendendo così possibile la conclusione di un'operazione fra loro (mediazione). 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-septies. Per "consulenza in materia di investimenti" si intende la prestazione di raccomandazioni personalizzate a un cliente, dietro sua richiesta o per iniziativa del prestatore del servizio, riguardo a una o più operazioni relative ad un determinato strumento finanziario. La raccomandazione è personalizzata quando è presentata come adatta per il cliente o è basata sulla considerazione delle caratteristiche del cliente. Una raccomandazione non è personalizzata se viene diffusa al pubblico mediante canali di distribuzione. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-octies. Per "gestione di sistemi multilaterali di negoziazione" si intende la gestione di sistemi multilaterali che consentono l'incontro, al loro interno ed in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti. 
+ 
+
+ 
+ ))
  
 
  
@@ -427,7 +583,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) la custodia e amministrazione di strumenti finanziari; 
+ a) la custodia e amministrazione di strumenti finanziari 
+ (( e relativi servizi connessi ))
+
+ ; 
  
 
  
@@ -462,17 +621,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- f) la consulenza in materia di investimenti in strumenti finanziari; 
+ ((
+
+ f) la ricerca in materia di investimenti, l'analisi finanziaria o altre forme di raccomandazione generale riguardanti operazioni relative a strumenti finanziari; 
+
+ ))
+
+ 
+
+ 
+ g) l'intermediazione in cambi, quando collegata alla prestazione di servizi d'investimento; 
  
 
  
  
 
  
- g) l'intermediazione in cambi, quando collegata alla prestazione di servizi d'investimento. 
- 
+ ((
 
- 
+ g-bis) le attività e i servizi individuati con regolamento del Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la Consob, e connessi alla prestazione di servizi di investimento o accessori aventi ad oggetto strumenti derivati. 
+
+ ))
+
  
 
  
