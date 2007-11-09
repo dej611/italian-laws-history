@@ -670,14 +670,26 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 34. Le aziende operanti nei settori dell'energia elettrica e del gas naturale che hanno in concessione o in affidamento la gestione di servizi pubblici locali ovvero la gestione delle reti, degli impianti e delle altre dotazioni infrastrutturali, nel territorio cui la concessione o l'affidamento si riferiscono e per la loro durata, non possono esercitare, in proprio o con società collegate o partecipate, alcuna attività in regime di concorrenza, ad eccezione delle attività di vendita di energia elettrica e di gas e di illuminazione pubblica, nel settore dei servizi postcontatore, nei confronti degli stessi utenti del servizio pubblico e degli impianti. 
+ 
+ ((
  
 
- Entro tre mesi dalla data di entrata in vigore della presente legge, il Ministero delle attività produttive, l'Autorità per l'energia elettrica e il gas e le altre amministrazioni interessate provvederanno a modificare e integrare le norme e i provvedimenti rilevanti ai fini dell'applicazione delle disposizioni di cui al presente comma. 
+ 
+ 34. Al fine di garantire un'effettiva concorrenza e pari opportunità di iniziativa economica, le imprese operanti nei settori della vendita, del trasporto e della distribuzione dell'energia elettrica e del gas naturale, che abbiano in concessione o in affidamento la gestione dei servizi pubblici locali ovvero la gestione delle reti, degli impianti e delle altre dotazioni infrastrutturali, possono svolgere attività nel settore verticalmente collegato o contiguo dei servizi post-contatore di installazione, assistenza e manutenzione nei confronti dei medesimi utenti finali del servizio pubblico, avvalendosi di società separate, partecipate o controllate, ovvero operanti in affiliazione commerciale, per l'esercizio indiretto dei medesimi servizi di post-contatore, non possono applicare condizioni nè concordare pratiche economiche, contrattuali, pubblicitarie ed organizzative atte a determinare ingiustificati svantaggi per le imprese direttamente concorrenti nel medesimo settore dei servizi post-contatore e rendono accessibili alle medesime imprese i beni, i servizi e gli elementi informativi e conoscitivi di cui abbiano la disponibilità in relazione all'attività svolta in posizione dominante o in regime di monopolio. 
  
 
  
  
+ 
+
+ 
+ 34-bis. Alle imprese di cui al comma 34 operanti nei settori dell'energia elettrica e del gas naturale si applicano le disposizioni previste dai commi 2-bis, 2-ter, 2-quater, 2-quinquies e 2-sexies dell'articolo 8 della legge 10 ottobre 1990, n. 287. 
+ 
+
+ 
+ ))
+ 
+
  
 
  
@@ -1069,7 +1081,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 71. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296. 
+ 71. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 
  
 
  
@@ -1181,19 +1193,11 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 85. è definito come impianto di 
- (( piccola generazione ))
-
- un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacità di generazione non superiore a 1 MW. 
+ 85. è definito come impianto di piccola generazione un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacità di generazione non superiore a 1 MW. 
  
 
  
  
- 
-
- 
- 
- ((
  
 
  
@@ -1209,9 +1213,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- ))
  
-
  
 
  
@@ -1223,10 +1225,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 88. Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e il Ministro dell'interno, emana con proprio decreto le norme per 
- (( la certificazione degli impianti di piccola generazione e di microgenerazione, ))
-
- fissandone i limiti di emissione e di rumore e i criteri di sicurezza. 
+ 88. Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro delle attività produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e il Ministro dell'interno, emana con proprio decreto le norme per la certificazione degli impianti di piccola generazione e di microgenerazione, fissandone i limiti di emissione e di rumore e i criteri di sicurezza. 
  
 
  
@@ -1234,10 +1233,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 89. A decorrere dall'anno 2005, l'Autorità per l'energia elettrica e il gas effettua annualmente il monitoraggio dello sviluppo degli impianti di 
- (( piccola generazione e di ))
-
- microgenerazione e invia una relazione sugli effetti della generazione distribuita sul sistema elettrico ai Ministri di cui al comma 88, alla Conferenza unificata e al Parlamento. 
+ 89. A decorrere dall'anno 2005, l'Autorità per l'energia elettrica e il gas effettua annualmente il monitoraggio dello sviluppo degli impianti di piccola generazione e di microgenerazione e invia una relazione sugli effetti della generazione distribuita sul sistema elettrico ai Ministri di cui al comma 88, alla Conferenza unificata e al Parlamento. 
  
 
  
