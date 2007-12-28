@@ -93,30 +93,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) "società di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario, autorizzata a svolgere servizi 
- (( o attività ))
-
- di investimento, avente sede legale e direzione generale in Italia; 
+ e) "società di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario, autorizzata a svolgere servizi o attività di investimento, avente sede legale e direzione generale in Italia; 
  
 
  
  
 
  
- f) "impresa di investimento comunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi 
- (( o attività ))
-
- di investimento, avente sede legale e direzione generale in un medesimo Stato comunitario, diverso dall'Italia; 
+ f) "impresa di investimento comunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi o attività di investimento, avente sede legale e direzione generale in un medesimo Stato comunitario, diverso dall'Italia; 
  
 
  
  
 
  
- g) "impresa di investimento extracomunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi 
- (( o attività ))
-
- di investimento, avente sede legale in uno Stato extracomunitario; 
+ g) "impresa di investimento extracomunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi o attività di investimento, avente sede legale in uno Stato extracomunitario; 
  
 
  
@@ -206,19 +197,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
  
 
  
  
 
- s) "servizi ammessi al mutuo riconoscimento": le attività e i servizi elencati nelle sezioni A e B della tabella allegata al presente decreto, autorizzati nello Stato comunitario di origine;
+ 
+ s) "servizi ammessi al mutuo riconoscimento": le attività e i servizi elencati nelle sezioni A e B della tabella allegata al presente decreto, autorizzati nello Stato comunitario di origine; 
+ 
 
- ))
-
+ 
  
 
  
@@ -236,10 +225,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti superiore a quello indicato nel regolamento previsto dall'articolo 100 nonchè di ammontare complessivo superiore a quello indicato nel medesimo regolamento; 
- 
+ v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti 
+ ((e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, comma 1, lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari;))
 
- 
  
 
  
@@ -261,6 +249,25 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  w-ter) "mercato regolamentato": sistema multilaterale che consente o facilita l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, ammessi alla negoziazione conformemente alle regole del mercato stesso, in modo da dare luogo a contratti, e che è gestito da una società di gestione, è autorizzato e funziona regolarmente. 
+ 
+
+ 
+ 
+
+ 
+ w-quater) "emittenti quotati aventi l'Italia come Stato membro d'origine": 
+ 
+
+ 1) le emittenti azioni ammesse alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunità europea, aventi sede in Italia; 
+ 
+
+ 2) gli emittenti titoli di debito di valore nominale unitario inferiore ad euro mille, o valore corrispondente in valuta diversa, ammessi alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunità europea, aventi sede in Italia; 
+ 
+
+ 3) gli emittenti valori mobiliari di cui ai numeri 1) e 2), aventi sede in uno Stato non appartenente alla Comunità europea, per i quali la prima domanda di ammissione alle negoziazioni in un mercato regolamentato della Comunità europea è stata presentata in Italia o che hanno successivamente scelto l'Italia come Stato membro d'origine quando tale prima domanda di ammissione non è stata effettuata in base a una propria scelta; 
+ 
+
+ 4) gli emittenti valori mobiliari diversi da quelli di cui ai numeri 1) e 2), aventi sede in Italia o i cui valori mobiliari sono ammessi alle negoziazioni in un mercato regolamentato italiano, che hanno scelto l'Italia come Stato membro d'origine. L'emittente può scegliere un solo Stato membro come Stato membro d'origine. La scelta resta valida per almeno tre anni, salvo il caso in cui i valori mobiliari dell'emittente non sono più ammessi alla negoziazione in alcun mercato regolamentato della Comunità europea. 
  
 
  
@@ -434,16 +441,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ 
+
+ 
  4. I mezzi di pagamento non sono strumenti finanziari. 
  
 
  
  
- 
-
- 
- 
- ((
  
 
  
@@ -568,9 +574,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ))
  
-
  
 
  
@@ -583,10 +587,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) la custodia e amministrazione di strumenti finanziari 
- (( e relativi servizi connessi ))
-
- ; 
+ a) la custodia e amministrazione di strumenti finanziari e relativi servizi connessi ; 
  
 
  
@@ -621,12 +622,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
  f) la ricerca in materia di investimenti, l'analisi finanziaria o altre forme di raccomandazione generale riguardanti operazioni relative a strumenti finanziari; 
+ 
 
- ))
-
+ 
  
 
  
@@ -637,12 +636,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
  g-bis) le attività e i servizi individuati con regolamento del Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la Consob, e connessi alla prestazione di servizi di investimento o accessori aventi ad oggetto strumenti derivati. 
+ 
 
- ))
-
+ 
  
 
  
