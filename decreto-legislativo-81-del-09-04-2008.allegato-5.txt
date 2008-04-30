@@ -1,0 +1,1596 @@
+ALLEGATO V
+ 
+
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ REQUISITI DI SICUREZZA DELLE ATTREZZATURE DI LAVORO COSTRUITE IN ASSENZA DI DISPOSIZIONI LEGISLATIVE E REGOLAMENTARI DI RECEPIMENTO DELLE DIRETTIVE COMUNITARIE DI PRODOTTO, O MESSE A DISPOSIZIONE DEI LAVORATORI ANTECEDENTEMENTE ALLA DATA DELLA LORO EMANAZIONE.
+ 
+
+ 
+ 
+
+ PARTE I
+ 
+
+ 
+ 
+
+ REQUISITI GENERALI APPLICABILI A TUTTE LE ATTREZZATURE DI LAVORO
+ 
+
+ 
+ 
+
+ 1. Osservazioni di carattere generale
+ 
+
+ 1.1 I requisiti del presente allegato si applicano allorchè esiste, per l'attrezzatura di lavoro considerata, un rischio corrispondente. 1.2 Eventuali disposizioni concernenti l'uso di talune attrezzature di lavoro sono riportate nel presente allegato al fine di consentirne l'impiego sicuro, in relazione ai loro rischi specifici.
+ 
+
+ 2. Sistemi e dispositivi di comando
+ 
+
+ 2.1. I sistemi di comando devono essere sicuri ed essere scelti tenendo conto dei guasti, dei disturbi e delle sollecitazioni prevedibili nell'ambito dell'uso progettato dell'attrezzatura.
+ 
+
+ I dispositivi di comando di un'attrezzatura di lavoro aventi un'incidenza sulla sicurezza devono essere chiaramente visibili, individuabili ed eventualmente contrassegnati in maniera appropriata.
+ 
+
+ I dispositivi di comando devono essere ubicati al di fuori delle zone pericolose, eccettuati, se necessario, taluni dispositivi di comando, quali ad es. gli arresti di emergenza, le consolle di apprendimento dei robot, ecc, e disposti in modo che la loro manovra non possa causare rischi supplementari. Essi non devono comportare rischi derivanti da una manovra accidentale.
+ 
+
+ Se necessario, dal posto di comando principale l'operatore deve essere in grado di accertarsi dell'assenza di persone nelle zone pericolose. Se ciò non dovesse essere possibile, qualsiasi messa in moto dell'attrezzatura di lavoro deve essere preceduta automaticamente da un segnale d'avvertimento sonoro e/o visivo. La persona esposta deve avere il tempo e/o i mezzi di sottrarsi rapidamente ad eventuali rischi causati dalla messa in moto e/o dall'arresto dell'attrezzatura di lavoro.
+ 
+
+ I dispositivi di comando devono essere bloccabili, se necessario in rapporto ai rischi di azionamento intempestivo o involontario.
+ 
+
+ I motori soggetti a variazioni di velocità che possono essere fonte di pericolo devono essere provvisti di regolatore automatico di velocità, tale da impedire che questa superi i limiti prestabiliti.
+ 
+
+ Il regolatore deve essere munito di un dispositivo che ne segnali il mancato funzionamento.
+ 
+
+ Quando una scorretta sequenza delle fasi della tensione di alimentazione può causare una condizione pericolosa per gli operatori e le persone esposte o un danno all'attrezzatura, deve essere fornita una protezione affinchè sia garantita la corretta sequenza delle fasi di alimentazione.
+ 
+
+ 2.2. La messa in moto di un'attrezzatura deve poter essere effettuata soltanto mediante un'azione volontaria su un organo di comando concepito a tal fine.
+ 
+
+ Lo stesso vale:
+ 
+
+ - per la rimessa in moto dopo un arresto, indipendentemente dalla sua origine,
+ 
+
+ - per il comando di una modifica rilevante delle condizioni di funzionamento (ad esempio, velocità, pressione, ecc.), salvo che questa rimessa in moto o modifica di velocità non presenti nessun pericolo per il lavoratore esposto.
+ 
+
+ Questa disposizione non si applica quando la rimessa in moto o la modifica delle condizioni di funzionamento risultano dalla normale sequenza di un ciclo automatico.
+ 
+
+ 2.3. Ogni attrezzatura di lavoro deve essere dotata di un dispositivo di comando che ne permetta l'arresto generale in condizioni di sicurezza.
+ 
+
+ Ogni postazione di lavoro deve essere dotata di un dispositivo di comando che consenta di arrestare, in funzione dei rischi esistenti, tutta l'attrezzatura di lavoro, oppure soltanto una parte di essa, in modo che l'attrezzatura si trovi in condizioni di sicurezza. L'ordine di arresto dell'attrezzatura di lavoro deve essere prioritario rispetto agli ordini di messa in moto. Ottenuto l'arresto dell'attrezzatura di lavoro, o dei suoi elementi pericolosi, l'alimentazione degli azionatori deve essere interrotta.
+ 
+
+ 2.4. Se ciò è appropriato e funzionale rispetto ai pericoli dell'attrezzatura di lavoro e del tempo di arresto normale, un'attrezzatura di lavoro deve essere munita di un dispositivo di arresto di emergenza.
+ 
+
+ 3. Rischi di rottura, proiezione e caduta di oggetti durante il funzionamento
+ 
+
+ 3.1. Un'attrezzatura di lavoro che presenti pericoli causati da cadute o da proiezione di oggetti deve essere munita di dispositivi appropriati di sicurezza, corrispondenti a tali pericoli.
+ 
+
+ 3.2. Nel caso in cui esistano rischi di spaccatura o di rottura di elementi mobili di un'attrezzatura di lavoro, tali da provocare seri pericoli per la sicurezza o la salute dei lavoratori, devono essere prese le misure di protezione appropriate.
+ 
+
+ 4. Emissioni di gas, vapori, liquidi, polvere, ecc.
+ 
+
+ 4.1. Un'attrezzatura di lavoro che comporti pericoli dovuti ad emanazioni di gas, vapori o liquidi ovvero ad emissioni di polveri, fumi o altre sostanze prodotte, usate o depositate nell'attrezzatura di lavoro deve essere munita di appropriati dispositivi di ritenuta e/o di estrazione vicino alla fonte corrispondente a tali pericoli.
+ 
+
+ 5. Stabilità
+ 
+
+ 5.1. Qualora ciò risulti necessario ai fini della sicurezza o della salute dei lavoratori, le attrezzature di lavoro ed i loro elementi debbono essere resi stabili mediante fissazione o con altri mezzi.
+ 
+
+ 6. Rischi dovuti agli elementi mobili
+ 
+
+ 6.1. Se gli elementi mobili di un'attrezzatura di lavoro presentano rischi di contatto meccanico che possono causare incidenti, essi devono essere dotati di protezioni o di sistemi protettivi che impediscano l'accesso alle zone pericolose o che arrestino i movimenti pericolosi prima che sia possibile accedere alle zone in questione.
+ 
+
+ Le protezioni ed i sistemi protettivi:
+ 
+
+ - devono essere di costruzione robusta,
+ 
+
+ - non devono provocare rischi supplementari,
+ 
+
+ - non devono essere facilmente elusi o resi inefficaci,
+ 
+
+ - devono essere situati ad una sufficiente distanza dalla zona pericolosa,
+ 
+
+ - non devono limitare più del necessario l'osservazione del ciclo di lavoro,
+ 
+
+ - devono permettere gli interventi indispensabili per l'installazione e/o la sostituzione degli attrezzi, nonchè per i lavori di manutenzione, limitando però l'accesso unicamente al settore dove deve essere effettuato il lavoro e, se possibile, senza che sia necessario smontare le protezioni o il sistema protettivo.
+ 
+
+ 6.2. Quando per effettive ragioni tecniche o di lavorazione non sia possibile conseguire una efficace protezione o segregazione degli organi lavoratori e delle zone di operazione pericolose delle attrezzature di lavoro si devono adottare altre misure per eliminare o ridurre il pericolo, quali idonei attrezzi, alimentatori automatici, dispositivi supplementari per l'arresto della macchina e congegni di messa in marcia a comando multiplo simultaneo.
+ 
+
+ 6.3. Gli apparecchi di protezione amovibili degli organi lavoratori, delle zone di operazione e degli altri organi pericolosi delle attrezzature di lavoro, quando sia tecnicamente possibile e si tratti di eliminare un rischio grave e specifico, devono essere provvisti di un dispositivo di blocco collegato con gli organi di messa in moto e di movimento della attrezzatura di lavoro tale che:
+ 
+
+ a) impedisca di rimuovere o di aprire il riparo quando l'attrezzatura di lavoro è in moto o provochi l'arresto dell'attrezzatura di lavoro all'atto della rimozione o dell'apertura del riparo;
+ 
+
+ b) non consenta l'avviamento dell'attrezzatura di lavoro se il riparo non è nella posizione di chiusura.
+ 
+
+ 6.4. Nei casi previsti nei punti 6.2 e 6.5, quando gli organi lavoratori non protetti o non completamente protetti possono afferrare, trascinare o schiacciare e sono dotati di notevole inerzia, il dispositivo di arresto dell'attrezzatura di lavoro, oltre ad avere l'organo di comando a immediata portata delle mani o di altre parti del corpo del lavoratore, deve comprendere anche un efficace sistema di frenatura che consenta l'arresto nel più breve tempo possibile.
+ 
+
+ 6.5. Quando per effettive esigenze della lavorazione non sia possibile proteggere o segregare in modo completo gli organi lavoratori e le zone di operazione pericolose delle attrezzature di lavoro, la parte di organo lavoratore o di zona di operazione non protetti deve essere limitata al minimo indispensabile richiesto da tali esigenze e devono adottarsi misure per ridurre al minimo il pericolo.
+ 
+
+ 7. Illuminazione
+ 
+
+ 7.1. Le zone di operazione ed i punti di lavoro o di manutenzione di un'attrezzatura di lavoro devono essere opportunamente illuminati in funzione dei lavori da effettuare.
+ 
+
+ 8.Temperature estreme
+ 
+
+ 8.1. Le parti di un'attrezzatura di lavoro a temperatura elevata o molto bassa debbono, ove necessario, essere protette contro i rischi di contatti o di prossimità a danno dei lavoratori.
+ 
+
+ 9. Segnalazioni, indicazioni.
+ 
+
+ 9.1. I dispositivi di allarme dell'attrezzatura di lavoro devono essere ben visibili e le relative segnalazioni comprensibili senza possibilità di errore.
+ 
+
+ 9.2. L'attrezzatura di lavoro deve recare gli avvertimenti e le indicazioni indispensabili a garantire la sicurezza dei lavoratori.
+ 
+
+ 9.3. Gli strumenti indicatori, quali manometri, termometri, pirometri, indicatori di livello devono essere collocati e mantenuti in modo che le loro indicazioni siano chiaramente visibili al personale addetto all'impianto o all'apparecchio.
+ 
+
+ 9.4. Le macchine e gli apparecchi elettrici devono portare l'indicazione della tensione, dell'intensità e del tipo di corrente e delle altre eventuali caratteristiche costruttive necessarie per l'uso.
+ 
+
+ 9.5. Ogni inizio ed ogni ripresa di movimento di trasmissioni inseribili senza arrestare il motore che comanda la trasmissione principale devono essere preceduti da un segnale acustico convenuto.
+ 
+
+ 10. Vibrazioni
+ 
+
+ 10.1. Le attrezzature di lavoro devono essere costruite, installate e mantenute in modo da evitare scuotimenti o vibrazioni che possano pregiudicare la loro stabilità, la resistenza dei loro elementi e la stabilità degli edifici.
+ 
+
+ 10.2. Qualora lo scuotimento o la vibrazione siano inerenti ad una specifica funzione tecnologica dell'attrezzatura di lavoro, devono adottarsi le necessarie misure o cautele affinchè ciò non sia di pregiudizio alla stabilità degli edifici od arrechi danno alle persone.
+ 
+
+ 11. Manutenzione, riparazione, regolazione ecc.
+ 
+
+ 11.1. Le operazioni di manutenzione devono poter essere effettuate quando l'attrezzatura di lavoro è ferma. Se ciò non è possibile, misure di protezione appropriate devono poter essere prese per l'esecuzione di queste operazioni oppure esse devono poter essere effettuate al di fuori delle zone pericolose.
+ 
+
+ 11.2. Ogni attrezzatura di lavoro deve essere munita di dispositivi chiaramente identificabili che consentano di isolarla da ciascuna delle sue fonti di energia.
+ 
+
+ Il ripristino dell'alimentazione deve essere possibile solo in assenza di pericolo per i lavoratori interessati.
+ 
+
+ 11.3. Per effettuare le operazioni di produzione, di regolazione e di manutenzione delle attrezzature di lavoro, i lavoratori devono poter accedere in condizioni di sicurezza a tutte le zone interessate.
+ 
+
+ 11.4. Le attrezzature di lavoro che per le operazioni di caricamento, registrazione, cambio di pezzi, pulizia, riparazione e manutenzione, richiedono che il lavoratore si introduca in esse o sporga qualche parte del corpo fra organi che possono entrare in movimento, devono essere provviste di dispositivi, che assicurino in modo assoluto la posizione di fermo dell'attrezzatura di lavoro e dei suoi organi durante l'esecuzione di dette operazioni. Devono altresì adottarsi le necessarie misure e cautele affinchè l'attrezzatura di lavoro o le sue parti non siano messe in moto da altri.
+ 
+
+ 12. Incendio ed esplosione
+ 
+
+ 12.1. Tutte le attrezzature di lavoro debbono essere realizzate in maniera da evitare di sottoporre i lavoratori ai rischi d'incendio o di surriscaldamento dell'attrezzatura stessa.
+ 
+
+ 12.2. Tutte le attrezzature di lavoro devono essere realizzate in maniera da evitare di sottoporre i lavoratori ai rischi di esplosione dell'attrezzatura stessa e delle sostanze prodotte, usate o depositate nell'attrezzatura di lavoro.
+ 
+
+ 
+ 
+
+ PARTE II
+ 
+
+ PRESCRIZIONI SUPPLEMENTARI APPLICABILI AD ATTREZZATURE DI LAVORO SPECIFICHE
+ 
+
+ 
+ 
+
+ 1 Prescrizioni applicabili alle attrezzature in pressione
+ 
+
+ 1.1 Le attrezzature, insiemi ed impianti sottoposti a pressione di liquidi, gas, vapori, e loro miscele, devono essere progettati e costruiti in conformità ai requisiti di resistenza e idoneità all'uso stabiliti dalle disposizioni vigenti in materia, valutando in particolare i rischi dovuti alla pressione ed alla temperatura del fluido nei riguardi della resistenza del materiale della attrezzatura e dell'ambiente circostante alla attrezzatura stessa
+ 
+
+ 2 Prescrizioni applicabili ad attrezzature di lavoro mobili, semoventi o no.
+ 
+
+ 2.1 Le attrezzature di lavoro con lavoratore/i a bordo devono essere strutturate in modo tale da ridurre i rischi per il lavoratore/i durante lo spostamento.
+ 
+
+ Deve essere previsto anche il rischio che il lavoratore venga a contatto con le ruote o i cingoli o vi finisca intrappolato.
+ 
+
+ 2.2 Qualora il bloccaggio intempestivo degli elementi di trasmissione d'energia accoppiabili tra un'attrezzatura di lavoro mobile e i suoi accessori e/o traini possa provocare rischi specifici, questa attrezzatura di lavoro deve essere realizzata in modo tale da impedire il bloccaggio degli elementi di trasmissione d'energia.
+ 
+
+ Nel caso in cui tale bloccaggio non possa essere impedito, dovrà essere presa ogni precauzione possibile per evitare conseguenze pregiudizievoli per i lavoratori.
+ 
+
+ 2.3 Se gli organi di trasmissione di energia accoppiabili tra attrezzature di lavoro mobili rischiano di sporcarsi e di rovinarsi strisciando al suolo, deve essere possibile il loro fissaggio.
+ 
+
+ 2.4 Le attrezzature di lavoro mobili con lavoratore/i a bordo devono limitare, nelle condizioni di utilizzazione reali, i rischi derivanti da un ribaltamento dell'attrezzatura di lavoro:
+ 
+
+ mediante una struttura di protezione che impedisca all'attrezzatura di ribaltarsi di più di un quarto di giro,
+ 
+
+ ovvero mediante una struttura che garantisca uno spazio sufficiente attorno al lavoratore o ai lavoratori trasportati a bordo qualora il movimento possa continuare oltre un quarto di giro,
+ 
+
+ ovvero mediante qualsiasi altro dispositivo di portata equivalente.
+ 
+
+ Queste strutture di protezione possono essere integrate all'attrezzatura di lavoro.
+ 
+
+ Queste strutture di protezione non sono obbligatorie se l'attrezzatura di lavoro è stabilizzata durante tutto il periodo d'uso, oppure se l'attrezzatura di lavoro è concepita in modo da escludere qualsiasi ribaltamento della stessa.
+ 
+
+ Se sussiste il pericolo che in caso di ribaltamento, il lavoratore o i lavoratori trasportati rimangano schiacciati tra parti dell'attrezzatura di lavoro e il suolo, deve essere installato un sistema di ritenzione.
+ 
+
+ 2.5 I carrelli elevatori su cui prendono posto uno o più lavoratori devono essere sistemati o attrezzati in modo da limitarne i rischi di ribaltamento, ad esempio,
+ 
+
+ - istallando una cabina per il conducente, - 
+ 
+
+ - mediante una struttura atta ad impedire il ribaltamento del
+ 
+
+ carrello elevatore, - 
+ 
+
+ - mediante una struttura concepita in modo tale da lasciare, in caso di ribaltamento del carrello elevatore, uno spazio sufficiente tra il suolo e talune parti del carrello stesso per il lavoratore o i lavoratori a bordo, - 
+ 
+
+ - mediante una struttura che trattenga il lavoratore o i lavoratori sul sedile del posto di guida per evitare che, in caso di ribaltamento del carrello elevatore, essi possano essere intrappolati da parti del carrello stesso - 
+ 
+
+ 2.6 Le attrezzature di lavoro mobili semoventi il cui spostamento può comportare rischi per le persone devono soddisfare le seguenti condizioni:
+ 
+
+ a. esse devono essere dotate dei mezzi necessari per evitare la messa in moto non autorizzata;
+ 
+
+ b. esse devono essere dotate dei mezzi appropriati che consentano di ridurre al minimo le conseguenze di un'eventuale collisione in caso di movimento simultaneo di più attrezzature di lavoro circolanti su rotaia;
+ 
+
+ c. esse devono essere dotate di un dispositivo che consenta la frenatura e l'arresto; qualora considerazioni di sicurezza l'impongano, un dispositivo di emergenza con comandi facilmente accessibili o automatici deve consentire la frenatura e l'arresto in caso di guasto del dispositivo principale;
+ 
+
+ d. quando il campo di visione diretto del conducente è insufficiente per garantire la sicurezza, esse devono essere dotate di dispositivi ausiliari per migliorare la visibilità;
+ 
+
+ e. le attrezzature di lavoro per le quali è previsto un uso notturno o in luoghi bui devono incorporare un dispositivo di illuminazione adeguato al lavoro da svolgere e garantire sufficiente sicurezza ai lavoratori;
+ 
+
+ f. le attrezzature di lavoro che comportano, di per sè o a causa dei loro traini e/o carichi, un rischio di incendio suscettibile di mettere in pericolo i lavoratori, devono essere dotate di appropriati dispositivi antincendio a meno che tali dispositivi non si trovino già ad una distanza sufficientemente ravvicinata sul luogo in cui esse sono usate;
+ 
+
+ g. le attrezzature di lavoro telecomandate devono arrestarsi automaticamente se escono dal campo di controllo;
+ 
+
+ h. le attrezzature di lavoro telecomandate che, usate in condizioni normali, possono comportare rischi di urto o di intrappolamento dei lavoratori, devono essere dotate di dispositivi di protezione contro tali rischi, a meno che non siano installati altri dispositivi per controllare il rischio di urto.
+ 
+
+ 2.7 Al termine delle linee di trasporto su binari, sia in pendenza che orizzontali, devono essere predisposti mezzi o adottate misure per evitare danni alle persone derivanti da eventuali fughe o fuoruscite dei veicoli.
+ 
+
+ 2.8 I dispositivi che collegano fra loro i mezzi di trasporto devono essere costruiti in modo da rendere possibile di effettuare con sicurezza le manovre di attacco e di distacco e da garantire la stabilità del collegamento.
+ 
+
+ è vietato procedere, durante il moto, all'attacco e al distacco dei mezzi di trasporto, a meno che questi non siano provvisti di dispositivi che rendano la manovra non pericolosa e che il personale addetto sia esperto.
+ 
+
+ 2.9 I mezzi di trasporto azionati da motori elettrici devono avere la maniglia dell'interruttore principale asportabile o bloccabile, oppure gli apparati di comando sistemati in cabina o armadio chiudibili a chiave.
+ 
+
+ I conducenti di detti mezzi, alla cessazione del servizio, devono asportare o bloccare la maniglia dell'interruttore o chiudere a chiave la cabina.
+ 
+
+ 2.10 I piani inclinati con rotaie devono essere provvisti, all'inizio del percorso in pendenza alla stazione superiore, di dispositivi automatici di sbarramento per impedire la fuga di vagonetti o di convogli liberi.
+ 
+
+ Alla stazione o al limite inferiore e lungo lo stesso percorso del piano inclinato, in relazione alle condizioni di impianto devono essere predisposte nicchie di rifugio per il personale.
+ 
+
+ Deve essere vietato alle persone di percorrere i piani inclinati durante il funzionamento, a meno che il piano stesso non comprenda ai lati dei binari, passaggi aventi larghezza e sistemazioni tali da permettere il transito pedonale senza pericolo.
+ 
+
+ 2.11 I piani inclinati devono essere provvisti di dispositivo di sicurezza atto a provocare il pronto arresto dei carrelli o dei convogli in caso di rottura o di allentamento degli organi di trazione, quando ciò sia necessario in relazione alla lunghezza, alla pendenza del percorso, alla velocità di esercizio o ad altre particolari condizioni di impianto, e comunque quando siano usati, anche saltuariamente, per il trasporto delle persone.
+ 
+
+ Quando per ragioni tecniche connesse con le particolarità dell'impianto o del suo esercizio, non sia possibile adottare il dispositivo di cui al primo comma, gli organi di trazione e di attacco dei carrelli devono presentare un coefficiente di sicurezza, almeno uguale a otto; in tal caso è vietato l'uso dei piani inclinati per il trasporto delle persone.
+ 
+
+ In ogni caso, gli organi di trazione e di attacco, come pure i dispositivi di sicurezza devono essere sottoposti a verifica mensile. 2.12 I serbatoi del carburante liquido e le bombole dei gas compressi destinati all'azionamento dei veicoli devono essere sistemati in modo sicuro e protetti contro le sorgenti di calore e contro gli urti.
+ 
+
+ 2.13 I mezzi di trasporto meccanici, se per determinati tratti di percorso sono mossi direttamente dai lavoratori, devono essere provvisti di adatti elementi di presa che rendano la manovra sicura. 2.14 I veicoli nei quali lo scarico si effettua mediante ribaltamento devono essere provvisti di dispositivi che impediscano il ribaltamento accidentale e che consentano di eseguire la manovra in modo sicuro.
+ 
+
+ 2.15 All'esterno delle fronti di partenza e di arrivo dei vagonetti alle stazioni delle teleferiche devono essere applicati solidi ripari a grigliato metallico atti a trattenere una persona in caso di caduta. Tali ripari devono essere disposti a non oltre m. 0,50 sotto il margine del piano di manovra e sporgere da questo per almeno m. 2. 2.16 Le teleferiche dai cui posti di manovra non sia possibile controllare tutto il percorso devono avere in ogni stazione o posto di carico e scarico, un dispositivo che consenta la trasmissione dei segnali per le manovre dalla stazione principale.
+ 
+
+ 2.17 L'ingrassatura delle funi portanti delle teleferiche e degli impianti simili deve essere effettuata automaticamente mediante apparecchio applicato ad apposito carrello.
+ 
+
+ 3 Prescrizioni applicabili alle attrezzature di lavoro adibite al sollevamento, al trasporto o all'immagazzinamento di carichi.
+ 
+
+ 3.1 Prescrizioni generali
+ 
+
+ 3.1.1 Le attrezzature di lavoro adibite al sollevamento di carichi installate stabilmente devono essere costruite in modo da assicurare la solidità e la stabilità durante l'uso tenendo in considerazione innanzi tutto i carichi da sollevare e le sollecitazioni che agiscono sui punti di sospensione o di ancoraggio alle strutture.
+ 
+
+ 3.1 3 Le macchine adibite al sollevamento di carichi, escluse quelle azionate a mano, devono recare un'indicazione chiaramente visibile del loro carico nominale e, all'occorrenza, una targa di carico indicante il carico nominale di ogni singola configurazione della macchina.
+ 
+
+ Gli accessori di sollevamento devono essere marcati in modo da poterne identificare le caratteristiche essenziali ai fini di un'utilizzazione sicura.
+ 
+
+ I ganci utilizzati nei mezzi di sollevamento e di trasporto devono portare in rilievo o incisa la chiara indicazione della loro portata massima ammissibile.
+ 
+
+ Se l'attrezzatura di lavoro non è destinata al sollevamento di persone, una segnalazione in tal senso dovrà esservi apposta in modo visibile onde non ingenerare alcuna possibilità di confusione.
+ 
+
+ 3.1.4 Le attrezzature di lavoro adibite al sollevamento di carichi installate stabilmente devono essere disposte in modo tale da ridurre il rischio che i carichi:
+ 
+
+ a) urtino le persone,
+ 
+
+ b) in modo involontario derivino pericolosamente o precipitino in caduta libera, ovvero
+ 
+
+ c) siano sganciati involontariamente.
+ 
+
+ 3.1.5 I mezzi di sollevamento e di trasporto devono essere provvisti di dispositivi di frenatura atti ad assicurare il pronto arresto e la posizione di fermo del carico e del mezzo e, quando è necessario ai fini della sicurezza, a consentire la gradualità dell'arresto.
+ 
+
+ Il presente punto non si applica ai mezzi azionati a mano per i quali, in relazione alle dimensioni, struttura, portata, velocità e condizioni di uso, la mancanza del freno non costituisca causa di pericolo.
+ 
+
+ 3.1.6 Nei casi in cui l'interruzione dell'energia di azionamento può comportare pericoli per le persone, i mezzi di sollevamento devono essere provvisti di dispositivi che provochino l'arresto automatico sia del mezzo che del carico.
+ 
+
+ In ogni caso l'arresto deve essere graduale onde evitare eccessive sollecitazioni nonchè il sorgere di oscillazioni pericolose per la stabilità del carico.
+ 
+
+ 3.1.7 I mezzi di sollevamento e di trasporto quando ricorrano specifiche condizioni di pericolo devono essere provvisti di appropriati dispositivi acustici e luminosi di segnalazione e di avvertimento, nonchè di illuminazione del campo di manovra.
+ 
+
+ 3.1.8 Gli apparecchi e gli impianti di sollevamento e di trasporto per trazione, provvisti di tamburi di avvolgimento e di pulegge di frizione, come pure di apparecchi di sollevamento a vite, devono essere muniti di dispositivi che impediscano:
+ 
+
+ a) l'avvolgimento e lo svolgimento delle funi o catene o la rotazione della vite, oltre le posizioni limite prestabilite ai fini della sicurezza in relazione al tipo o alle condizioni d'uso dell'apparecchio (dispositivo di arresto automatico di fine corsa);
+ 
+
+ b) la fuoruscita delle funi o catene dalla sede dei tamburi e delle pulegge durante il normale funzionamento.
+ 
+
+ Sono esclusi dall'applicazione della disposizione di cui alla lettera a) i piccoli apparecchi per i quali in relazione alle loro dimensioni, potenza, velocità e condizioni di uso, la mancanza dei dispositivi di arresto automatico di fine corsa non costituisca causa di pericolo.
+ 
+
+ 3.1.9 I tamburi e le pulegge degli apparecchi ed impianti indicati al punto 3.1.8 devono avere le sedi delle funi e delle catene atte, per dimensioni e profilo, a permettere il libero e normale avvolgimento delle stesse funi o catene in modo da evitare accavallamenti o sollecitazioni anormali.
+ 
+
+ Quando per particolari esigenze vengono usati tamburi o pulegge in condizioni diverse da quelle previste dal comma precedente, devono essere impiegate funi o catene aventi dimensioni e resistenza adeguate alla maggiore sollecitazione a cui possono essere sottoposte 3.1.10 I tamburi e le pulegge motrici degli apparecchi ed impianti indicati nel punto 3.1.8. sui quali si avvolgono funi metalliche, salvo quanto previsto da disposizioni speciali, devono avere un diametro non inferiore a 25 volte il diametro delle funi ed a 300 volte il diametro dei fili elementari di queste. Per le pulegge di rinvio il diametro non deve essere inferiore rispettivamente a 20 e a 250 volte.
+ 
+
+ 3.1.11 Le funi e le catene degli impianti e degli apparecchi di sollevamento e di trazione, salvo quanto previsto al riguardo dai regolamenti speciali, devono avere, in rapporto alla portata e allo sforzo massimo ammissibile, un coefficiente di sicurezza di almeno 6 per le funi metalliche, 10 per le funi composte di fibre e 5 per le catene.
+ 
+
+ 3.1.12 Gli attacchi delle funi e delle catene devono essere eseguiti in modo da evitare sollecitazioni pericolose, nonchè impigliamenti o accavallamenti.
+ 
+
+ Le estremità libere delle funi, sia metalliche, sia composte di fibre, devono essere provviste di piombatura o legatura o morsettatura, allo scopo di impedire lo scioglimento dei trefoli e dei fili elementari.
+ 
+
+ 3.1.13 I posti di manovra dei mezzi ed apparecchi di sollevamento e di trasporto devono:
+ 
+
+ a) potersi raggiungere senza pericolo;
+ 
+
+ b) essere costruiti o difesi in modo da consentire l'esecuzione delle manovre, i movimenti e la sosta, in condizioni di sicurezza;
+ 
+
+ c) permettere la perfetta visibilità di tutta la zona di azione del mezzo.
+ 
+
+ 3.1.14 Gli organi di comando dei mezzi di sollevamento e di trasporto devono essere collocati in posizione tale che il loro azionamento risulti agevole e portare la chiara indicazione delle manovre a cui servono.
+ 
+
+ Gli stessi organi devono essere conformati, protetti o disposti in modo da impedire la messa in moto accidentale.
+ 
+
+ 3.1.15 Le modalità di impiego degli apparecchi di sollevamento e di trasporto ed i segnali prestabiliti per l'esecuzione delle manovre devono essere richiamati mediante avvisi chiaramente leggibili.
+ 
+
+ 3.2 Gru, argani, paranchi e simili
+ 
+
+ 3.2.1 I piani di posa delle rotaie di scorrimento delle gru a ponte utilizzabili per l'accesso al carro ponte e per altre esigenze di carattere straordinario relative all'esercizio delle gru medesime devono essere agevolmente percorribili e provvisti di solido corrimano posto ad altezza di circa un metro dagli stessi piani e ad una distanza orizzontale non minore di 50 centimetri dalla sagoma di ingombro del carro ponte.
+ 
+
+ Detti piani devono avere una larghezza di almeno 60 centimetri oltre la sagoma di ingombro della gru.
+ 
+
+ 3.2.2 Le gru a ponte, le gru a portale e gli altri mezzi di sollevamento-trasporto, scorrenti su rotaie devono essere provvisti alle estremità di corsa, sia dei ponti che dei loro carrelli, di tamponi di arresto o respingenti adeguati per resistenza ed azione ammortizzante alla velocità ed alla massa del mezzo mobile ed aventi altezza non inferiore ai 6/10 del diametro delle ruote.
+ 
+
+ 3.2.3 Gli apparecchi di sollevamento-trasporto scorrenti su rotaie, oltre ai mezzi di arresto indicati nel punto 3.2.2, devono essere provvisti di dispositivo agente sull'apparato motore per l'arresto automatico del carro alle estremità della sua corsa.
+ 
+
+ 3.2.4 Gli elevatori azionati a motore devono essere costruiti in modo da funzionare a motore innestato anche nella discesa
+ 
+
+ 3.3 Prescrizioni specifiche per attrezzature destinate ad essere usate durante l'esecuzione di lavori di costruzione, manutenzione, riparazione e demolizione di opere fisse, permanenti o temporanee, in muratura, in cemento armato, in metallo, in legno e in altri materiali, comprese le linee e gli impianti elettrici, le opere stradali, ferroviarie, idrauliche, marittime, idroelettriche, di bonifica, sistemazione forestale e di sterro.
+ 
+
+ 3.3.1 Elevatori montati su impalcature di ponteggi
+ 
+
+ I montanti delle impalcature, quando gli apparecchi di sollevamento vengono fissati direttamente ad essi, devono essere rafforzati e controventati in modo da ottenere una solidità adeguata alle maggiori sollecitazioni a cui sono sottoposti.
+ 
+
+ Nei ponti metallici i montanti, su cui sono applicati direttamente gli elevatori, devono essere di numero ampiamente sufficiente ed in ogni caso non minore di due.
+ 
+
+ I bracci girevoli portanti le carrucole ed eventualmente gli argani degli elevatori devono essere assicurati ai montanti mediante staffe con bulloni a vite muniti di dado e controdado; analogamente deve essere provveduto per le carrucole di rinvio delle funi ai piedi dei montanti quando gli argani sono installati a terra.
+ 
+
+ Gli argani installati a terra, oltre ad essere saldamente ancorati, devono essere disposti in modo che la fune si svolga dalla parte inferiore del tamburo.
+ 
+
+ 3.3.2 - Argani - Salita e discesa dei carichi nei cantieri
+ 
+
+ Gli argani a motore devono essere muniti di dispositivi di extra corsa superiore; è vietata la manovra degli interruttori elettrici mediante funi o tiranti di ogni genere.
+ 
+
+ Gli argani o verricelli azionati a mano per altezze superiori a 5 metri devono essere muniti di dispositivo che impedisca la libera discesa del carico.
+ 
+
+ Le funi e le catene degli argani a motore devono essere calcolate per un carico di sicurezza non minore di 8.
+ 
+
+ 3.3.3 - Trasporti con vagonetti su guide - Il binario di corsa dei vagonetti deve essere posato su terreno o altro piano resistente e mantenuto in buono stato per tutta la durata dei lavori.
+ 
+
+ Le rotaie debbono risultare saldamente assicurate alle traversine; le piattaforme girevoli devono essere provviste di dispositivo di blocco.
+ 
+
+ I binari debbono essere posati in modo da lasciare un franco libero di almeno 70 centimetri oltre la sagoma di ingombro dei veicoli.
+ 
+
+ Le passerelle o le andatoie destinate al transito dei veicoli devono lasciare un uguale franco, avere il piano di posa dei binari costituito da tavole accostate ed essere provviste di normali parapetti nonchè di tavole fermapiede.
+ 
+
+ Nelle passerelle od andatoie lunghe, qualora il franco sia limitato ad un sol lato, devono essere realizzate delle piazzole di rifugio ad opportuni intervalli lungo l'altro lato.
+ 
+
+ Deve essere vietato ai lavoratori salire sui vagonetti spinti a mano. 3.3.4 - Pendenza dei binari - è fatto divieto di disporre in pendenza il binario adducente alle scariche delle materie scavate o demolite.
+ 
+
+ Quando per esigenze tecniche o per condizioni topografiche non sia possibile evitare la posa del binario in pendenza, l'ultimo tratto deve essere in contropendenza.
+ 
+
+ Alle estremità del binario deve essere disposto un arresto di sicuro affidamento per la trattenuta del vagonetto.
+ 
+
+ 3.3.5 - Transito e attraversamento sui piani inclinati - è vietato il transito lungo i tratti di binario in pendenza quando i vagonetti sono in movimento.
+ 
+
+ Tale divieto deve essere espresso mediante avvisi posti alle due estremità del percorso in pendenza.
+ 
+
+ Quando si renda necessario un attraversamento, davanti a ciascuno sbocco e parallelamente alle rotaie si devono applicare barriere con la parte centrale mobile di lunghezza pari almeno a tre volte la larghezza dell'attraversamento.
+ 
+
+ 3.4 Elevatori e trasportatori a piani mobili, a tazze, a coclea, a nastro e simili
+ 
+
+ 3.4.1 I trasportatori verticali a piani mobili e quelli a tazza e simili devono essere sistemati entro vani o condotti chiusi, muniti delle sole aperture necessarie per il carico e lo scarico.
+ 
+
+ 3.4.2 Presso ogni posto di carico e scarico dei trasportatori verticali a piani mobili deve essere predisposto un dispositivo per il rapido arresto dell'apparecchio.
+ 
+
+ 3.4.3 I trasportatori verticali a piani mobili, quelli a tazza e simili ed i trasportatori a nastro e simili aventi tratti del percorso in pendenza, devono essere provvisti di un dispositivo automatico per l'arresto dell'apparecchio quando per l'interruzione improvvisa della forza motrice si possa verificare la marcia in senso inverso al normale funzionamento.
+ 
+
+ 3.4.4 I condotti dei trasportatori a coclea devono essere provvisti di copertura e le loro aperture di carico e scarico devono essere efficacemente protette.
+ 
+
+ 3.4.5 Le aperture per il carico e lo scarico dei trasportatori in genere devono essere protette contro la caduta delle persone o contro il contatto con organi pericolosi in moto.
+ 
+
+ 3.4.6. Le aperture di carico dei piani inclinati (scivoli) devono essere circondate da parapetti alti almeno un metro, ad eccezione del tratto strettamente necessario per l'introduzione del carico, purchè il ciglio superiore di inizio del piano inclinato si trovi ad una altezza di almeno cm. 50 dal piano del pavimento. Gli stessi piani devono essere provvisti di difese laterali per evitare la fuoruscita del carico in movimento e di difese frontali terminali per evitare la caduta del carico.
+ 
+
+ 4 Prescrizioni applicabili alle attrezzature di lavoro adibite al sollevamento di persone e di persone e cose.
+ 
+
+ 4.1 Le macchine per il sollevamento o lo spostamento di persone devono essere di natura tale:
+ 
+
+ a) da evitare i rischi di caduta dall'abitacolo, se esiste, per mezzo di dispositivi appropriati;
+ 
+
+ b) da evitare per l'utilizzatore qualsiasi rischio di caduta fuori dell'abitacolo, se esiste;
+ 
+
+ c) da escludere qualsiasi rischio di schiacciamento, di intrappolamento oppure di urto dell'utilizzatore, in particolare i rischi dovuti a collisione accidentale;
+ 
+
+ d) da garantire che i lavoratori bloccati in caso di incidente nell'abitacolo non siano esposti ad alcun pericolo e possano essere liberati.
+ 
+
+ Qualora, per ragioni inerenti al cantiere e al dislivello da superare, i rischi di cui alla precedente lettera a) non possano essere evitati per mezzo di un dispositivo particolare, dovrà essere installato un cavo con coefficiente di sicurezza rinforzato e il suo buono stato dovrà essere verificato ad ogni giornata di lavoro.
+ 
+
+ 4.2 - Ponti su ruote a torre e sviluppabili a forbice
+ 
+
+ 4.2.1 I ponti su ruote devono avere base ampia in modo da resistere, con largo margine di sicurezza, ai carichi ed alle oscillazioni cui possono essere sottoposti durante gli spostamenti o per colpi di vento e in modo che non possano essere ribaltati.
+ 
+
+ Il piano di scorrimento delle ruote deve risultare livellato; il carico del ponte sul terreno deve essere opportunamente ripartito con tavoloni o altro mezzo equivalente.
+ 
+
+ Le ruote del ponte in opera devono essere saldamente bloccate con cunei dalle due parti.
+ 
+
+ I ponti su ruote devono essere ancorati alla costruzione almeno ogni due piani.
+ 
+
+ La verticalità dei ponti su ruote deve essere controllata con livello o con pendolino.
+ 
+
+ I ponti sviluppabili devono essere usati esclusivamente per l'altezza per cui sono costruiti, senza aggiunte di sovrastrutture.
+ 
+
+ I ponti, esclusi quelli usati nei lavori per le linee elettriche di contatto, non devono essere spostati quando su di essi si trovano lavoratori o sovraccarichi.
+ 
+
+ 4.3 - Scale aeree su carro
+ 
+
+ 4.3.1 Il carro della scala aerea deve essere sistemato su base non cedevole, orizzontale, ed in modo che il piano di simmetria della scala sia verticale e controllabile mediante pendolino applicato sul lato posteriore del carro stesso.
+ 
+
+ Le scale aeree non possono essere adoperate con pendenze minori di 60&deg; nè maggiori di 80&deg; sull'orizzontale; la pendenza deve essere controllata mediante dispositivo a pendolo annesso al primo tratto della scala.
+ 
+
+ I pezzi delle scale a tronchi distaccati, che compongono la volata, devono portare un numero progressivo nell'ordine di montaggio.
+ 
+
+ Prima che la scala sia montata, alle ruote devono essere applicate robuste calzatoie doppie per ogni ruota, sagomate e collegate con catenelle o tiranti.
+ 
+
+ 4.3.2 Qualunque operazione di spostamento e di messa a punto deve essere eseguita a scala scarica.
+ 
+
+ Durante la salita devono essere evitate scosse ed urti; il lavoratore ed eventuali carichi in ogni caso non superiori a 20 chilogrammi a pieno sviluppo della scala, devono gravare sulla linea mediana della stessa.
+ 
+
+ è vietato ogni sforzo di trazione da parte di chi lavora in cima alla scala, la quale non deve poggiare con la estremità superiore a strutture fisse.
+ 
+
+ Quando sia necessario spostare una scala aerea in prossimità di linee elettriche, si deve evitare ogni possibilità di contatto, abbassando opportunamente la volata della scala.
+ 
+
+ 4.4 - Ponti sospesi e loro caratteristiche
+ 
+
+ 4.4.1 Sui ponti sospesi leggeri, che hanno una fune di sospensione ed un argano di manovra per ciascuna estremità, non devono gravare sovraccarichi, compreso il peso dei lavoratori, superiori a 100 chilogrammi per metro lineare di sviluppo.
+ 
+
+ Essi non devono avere larghezza superiore a m. 1.
+ 
+
+ Detti ponti, sui quali non è consentita la contemporanea presenza di più di due persone, devono essere usati soltanto per lavori di rifinitura, di manutenzione, o altri lavori di limitata entità.
+ 
+
+ I ponti pesanti che hanno quattro funi di sospensione per ogni unità (ponte singolo) e quattro argani di manovra non devono avere larghezze maggiori di metri 1,50.
+ 
+
+ Detti ponti possono essere collegati e formare ponti continui purchè le unità di ponte siano allo stesso livello.
+ 
+
+ Su ciascuna unità di ponti pesanti non è consentita la contemporanea presenza di persone in numero superiore a quello indicato nelle targhette prescritte dal successivo punto 4.4.4.
+ 
+
+ Gli argani di ogni unità di ponte devono essere dello stesso tipo e della stessa portata.
+ 
+
+ 4.4.2 L'unità di ponte deve essere costituita da due telai metallici, che sono collegati da correnti sostenenti i traversi, sui quali viene fissato il tavolame.
+ 
+
+ I due telai devono essere montati con distanza di non più di tre metri; i correnti devono avere un franco a sbalzo, oltre ciascun telaio, di 50 centimetri e devono essere muniti di sicuro sistema di trattenuta contro il pericolo di sfilamento dai telai.
+ 
+
+ Il piano di calpestio deve essere costituito da tavole di spessore non inferiore a 4 centimetri, bene accostate fra loro ed assicurate contro eventuali spostamenti. Il legname impiegato nel ponte deve essere a fibre longitudinali dirette e parallele, privo di nodi.
+ 
+
+ Gli elementi in legno possono essere sostituiti da elementi metallici di resistenza non minore.
+ 
+
+ Il collegamento di più unità di ponti pesanti deve essere effettuato rendendo direttamente connesse fra di loro le unità contigue, senza inserzione di passerelle tra l'una e l'altra.
+ 
+
+ I bulloni usati nel montaggio devono essere assicurati con rondelle elastiche e con contro-dadi.
+ 
+
+ 4.4.3 Sui lati prospicienti il vuoto, il ponte deve essere munito di normali parapetti e tavola fermapiede. Il corrente superiore del parapetto esterno dei ponti leggeri deve essere formato con tubo di ferro di 4 centimetri di diametro; gli altri correnti possono essere di legno; le distanze libere verticali fra la tavola fermapiede ed il corrente intermedio e tra questo ed il superiore non devono essere maggiori di 30 centimetri.
+ 
+
+ Gli elementi costituenti il parapetto devono essere assicurati solidamente alla parte interna dei ritti estremi del ponte in corrispondenza degli argani.
+ 
+
+ I ponti leggeri devono avere il parapetto anche nel lato prospiciente la costruzione.
+ 
+
+ Sull'intavolato dei ponti pesanti deve essere applicata lungo il lato prospiciente la costruzione e privo di parapetto una sponda di arresto al piede di altezza non inferiore a 5 centimetri.
+ 
+
+ 4.4.4 Gli argani devono essere rigidamente connessi con i telai di sospensione. Essi devono essere a discesa autofrenante e forniti di dispositivo di arresto.
+ 
+
+ Il tamburo di avvolgimento della fune deve essere di acciaio ed avere le flangie laterali di diametro tale da lasciare, a fune completamente avvolta, un franco pari a due diametri della fune.
+ 
+
+ Il diametro del tamburo deve essere non inferiore a 12 volte il diametro della fune.
+ 
+
+ Le parti dell'argano, soggette a sollecitazioni dinamiche, devono avere un grado di sicurezza non minore di otto.
+ 
+
+ Su ciascun argano deve essere fissata in posizione visibile una targhetta metallica indicante il carico massimo utile ed il numero delle persone ammissibili riferite all'argano stesso. La targhetta deve anche indicare la casa costruttrice, l'anno di costruzione ed il numero di matricola.
+ 
+
+ 4.4.5 Le funi devono essere di tipo flessibile, formate con fili di acciaio al crogiuolo, con un carico di rottura non minore di 120 e non maggiore di 160 kg. per mm&sup2; e devono essere calcolate per un coefficiente di sicurezza non minore di 10.
+ 
+
+ Le funi ed i fili elementari devono essere protetti contro gli agenti corrosivi esterni mediante ingrassatura.
+ 
+
+ L'attacco al tamburo dell'argano deve essere ottenuto con piombatura a bicchiere o in altro modo che offra eguale garanzia contro lo sfilamento.
+ 
+
+ L'attacco alla trave di sostegno deve essere ottenuto mediante chiusura del capo della fune piegato ad occhiello con impalmatura, o con non meno di tre morsetti a bulloni; nell'occhiello deve essere inserita apposita redancia per ripartire la pressione sul gancio o anello di sospensione.
+ 
+
+ 4.4.6 Le travi di sostegno devono essere in profilati di acciaio e calcolate, per ogni specifica installazione, con un coefficiente di sicurezza non minore di 6.
+ 
+
+ Le travi di sostegno, che devono poggiare su strutture e materiali resistenti, devono avere un prolungamento verso l'interno dell'edificio non minore del doppio della sporgenza libera e devono essere saldamente ancorate ad elementi di resistenza accertata, provvedendosi ad una sufficiente distribuzione degli sforzi e ad impedire qualsiasi spostamento. Non è ammesso l'ancoraggio con pesi.
+ 
+
+ Gli anelli o ganci di collegamento della fune alla trave di sostegno devono avere un coefficiente di sicurezza non inferiore a 6 ed essere assicurati contro lo scivolamento lungo la trave stessa verso l'esterno.
+ 
+
+ 4.4.7 - L'accesso e l'uscita dal ponte devono avvenire, a seconda delle varie condizioni di impiego, da punti e con mezzi tali da rendere sicuri il passaggio e la manovra.
+ 
+
+ Nel caso di ponti pesanti ad unità collegate, si può fare uso di scale a mano, sempre che sia stato assicurato l'ancoraggio del ponte e della scala.
+ 
+
+ 4.4.8 Ad ogni livello di lavoro, i ponti sospesi devono essere ancorati a parti stabili della costruzione.
+ 
+
+ La distanza del tavolato dei ponti pesanti dalla parete della costruzione non deve superare 10 centimetri.
+ 
+
+ Ove per esigenze della costruzione tale distanza non possa essere rispettata, i vuoti risultanti devono essere protetti fino alla distanza massima prevista dal comma precedente.
+ 
+
+ I ponti sospesi non devono essere usati in nessun caso come apparecchi di sollevamento e su di essi non devono essere installati apparecchi del genere.
+ 
+
+ Nei ponti leggeri il punto di attacco delle funi di sospensione ai ponti stessi deve essere situato ad altezza non inferiore a metri 1,50 dal piano di calpestio.
+ 
+
+ 4.4.9 - Manovra dei ponti - Prima di procedere al sollevamento o all'abbassamento del ponte, deve essere accertato che non esistano ostacoli al movimento e che non vi siano sovraccarichi di materiali.
+ 
+
+ Durante la manovra degli argani devono rimanere avvolte sul tamburo almeno due spire di fune.
+ 
+
+ La manovra deve essere simultanea sui due argani nei ponti leggeri; nei ponti pesanti la manovra deve essere simultanea sui due argani di una estremità dell'unità di ponte, procedendo per le coppie di argani successive con spostamenti che non determinano sull'impalcato pendenze superiori al 10 per cento.
+ 
+
+ 4.4.10 La manutenzione e l'efficienza del ponte, la lubrificazione delle funi e degli argani devono essere costantemente curate.
+ 
+
+ Le funi non devono essere più usate quando su un tratto di fune lungo quattro volte il passo dell'elica del filo elementare nel trefolo il numero dei fili rotti apparenti sia superiore al 10 per cento dei fili costituenti la fune.
+ 
+
+ 4.5 Ascensori e montacarichi.
+ 
+
+ 4.5.0. Le disposizioni della presente sezione si applicano agli ascensori e montacarichi comunque azionati non soggetti a disposizioni speciali.
+ 
+
+ 4.5.1 - Difesa del vano.
+ 
+
+ Gli spazi ed i vani nei quali si muovono le cabine o le piattaforme degli ascensori e dei montacarichi devono essere segregati mediante solide difese per tutte le parti che distano dagli organi mobili meno di 70 centimetri.
+ 
+
+ Dette difese devono avere un'altezza minima di m.1,70 a partire dal piano di calpestio dei ripiani e rispettivamente dal ciglio dei gradini ed essere costituite da pareti cieche o da traforati metallici, le cui maglie non abbiano ampiezza superiore ad un centimetro, quando le parti mobili distino meno di 4 centimetri, e non superiore a 3 centimetri quando le parti mobili distino 4 o più centimetri.
+ 
+
+ Se il contrappeso non è sistemato nello stesso vano nel quale si muove la cabina, il vano o lo spazio in cui esso si muove deve essere protetto in conformità alle disposizioni dei commi precedenti.
+ 
+
+ 4.5.2 Accessi al vano.
+ 
+
+ Gli accessi al vano degli ascensori e dei montacarichi devono essere provvisti di porte apribili verso l'esterno o a scorrimento lungo le pareti, di altezza minima di m. 1,80 quando la cabina è accessibile alle persone, e comunque eguale all'altezza dell'apertura del vano quando questa è inferiore a m. 1,80.
+ 
+
+ Dette porte devono essere costituite da pareti cieche o da griglie o traforati metallici con maglie di larghezza non superiore ad un centimetro se la cabina è sprovvista di porta, non superiore a 3 centimetri se la cabina è munita di una propria porta e la distanza della soglia della cabina dalla porta al vano non è inferiore a 5 centimetri.
+ 
+
+ Sono ammesse porte del tipo flessibile, purchè tra le aste costituenti le porte stesse non si abbiano luci di larghezza superiore a 12 millimetri.
+ 
+
+ 4.5.3 Porte di accesso al vano.
+ 
+
+ Le porte di accesso al vano di cui al punto precedente devono essere munite di un dispositivo che ne impedisca l'apertura, quando la cabina non si trova al piano corrispondente, e che non consenta il movimento della cabina se tutte le porte non sono chiuse.
+ 
+
+ Il dispositivo di cui al precedente comma non è richiesto per i montacarichi azionati a mano, a condizione che siano adottate altre idonee misure di sicurezza.
+ 
+
+ 4.5.4 Installazioni particolari.
+ 
+
+ Le protezioni ed i dispositivi di cui ai punti 4.5.1, 4.5.2 e 4.5.3, non sono richiesti quando la corsa della cabina o della piattaforma non supera i m.2 e l'insieme dell'impianto non presenta pericoli di schiacciamento, di cesoiamento o di caduta nel vano.
+ 
+
+ 4.5.5 Pareti e porte della cabina.
+ 
+
+ Le cabine degli ascensori e dei montacarichi per trasporto di cose accompagnate da persone devono avere pareti di altezza non minore di m.1,80 e porte apribili verso l'interno od a scorrimento lungo le pareti di altezza non minore a m. 1,80.
+ 
+
+ Le pareti e le porte della cabina devono essere cieche o avere aperture di larghezza non superiore a 10 millimetri.
+ 
+
+ Le porte possono essere del tipo flessibile ed in tal caso non devono presentare fra le aste costituenti le porte stesse luci di larghezza superiore a 12 millimetri.
+ 
+
+ Le porte o le chiusure di cui ai comma precedenti possono essere omesse quando il vano entro il quale si muove la cabina o la piattaforma è limitato per tutta la corsa da difese continue, costituite da pareti cieche o da reti o da traforati metallici le cui maglie non abbiano una apertura superiore a un centimetro, purchè queste difese non presentino sporgenze pericolose e non siano distanti più di 4 centimetri dalla soglia della cabina o della piattaforma. In tal caso deve essere assicurata la stabilità del carico.
+ 
+
+ Per i montacarichi per il trasporto di sole cose è sufficiente che le cabine o piattaforme abbiano chiusure o dispositivi atti ad impedire la fuoriuscita o la sporgenza del carico.
+ 
+
+ 4.5.6 Spazi liberi al fondo ed alla sommità del vano.
+ 
+
+ Quando il vano di corsa degli ascensori e dei montacarichi supera m&sup2; 0,25 di sezione deve esistere uno spazio libero di almeno 50 centimetri di altezza tra il fondo del vano stesso e la parte più sporgente sottostante alla cabina. Arresti fissi devono essere predisposti al fine di garantire che, in ogni caso, la cabina non scenda al di sotto di tale limite.
+ 
+
+ Uno spazio libero minimo pure dell'altezza di cm.50, deve essere garantito, con mezzi analoghi, al disopra del tetto della cabina nel suo più alto livello di corsa.
+ 
+
+ 4.5.7 Posizione dei comandi.
+ 
+
+ I montacarichi per trasporto di sole merci devono avere i comandi di manovra posti all'esterno del vano di corsa ed in posizione tale da non poter essere azionati da persona che si trovi in cabina.
+ 
+
+ 4.5. 8 Apparecchi paracadute.
+ 
+
+ Gli ascensori ed i montacarichi per trasporto cose accompagnate da persone ed i montacarichi per trasporto di sole cose con cabina accessibile per le operazioni di carico e scarico, nonchè i montacarichi con cabina non accessibile per le operazioni di carico e scarico purchè di portata non inferiore ai 100 chilogrammi, quando la cabina sia sospesa a funi od a catene e quando la corsa della stessa sia superiore a m. 4, devono essere provvisti di un apparecchio paracadute atto ad impedire la caduta della cabina in caso di rottura delle funi o delle catene di sospensione.
+ 
+
+ Per montacarichi con cabina non accessibile l'apparecchio paracadute non è richiesto quando, in relazione alle condizioni dell'impianto, l'eventuale caduta della cabina non presenta pericoli per le persone. 4.5.9 Arresti automatici di fine corsa.
+ 
+
+ Gli ascensori e montacarichi di qualsiasi tipo, esclusi quelli azionati a mano, devono essere provvisti di un dispositivo per l'arresto automatico dell'apparato motore o del movimento agli estremi inferiore e superiore della corsa.
+ 
+
+ 4.5.10 Divieto di discesa libera per apparecchi azionati a motore.
+ 
+
+ Negli ascensori e montacarichi azionati a motore anche il movimento di discesa deve avvenire a motore inserito.
+ 
+
+ 4.5.11 Carico e scarico dei montacarichi a gravità.
+ 
+
+ Le cabine o piattaforme dei montacarichi a gravità accessibili ai piani devono essere munite di dispositivi che ne assicurino il bloccaggio durante le operazioni di carico.
+ 
+
+ 4.5.12 Regolazione della velocità dei montacarichi.
+ 
+
+ I montacarichi azionati a mano e quelli a gravità devono essere provvisti di un dispositivo di frenatura o di regolazione che impedisca che la cabina o piattaforma possa assumere velocità pericolosa.
+ 
+
+ 4.5.13 Ascensori da cantiere a pignone e cremagliera
+ 
+
+ Ferma restando la previsione di cui al comma 3 dell'art. II, si considerano conformi alle disposizioni della presente sezione gli ascensori da cantiere a pignone e cremagliera realizzati secondo le prescrizioni di cui alle pertinenti norme tecniche ovvero della linea guida Ispesl "Trasporto di persone e materiali fra piani definiti in cantieri temporanei"
+ 
+
+ 5 Prescrizioni applicabili a determinate attrezzature di lavoro
+ 
+
+ 5.1 Mole abrasive
+ 
+
+ 5.1.1
+ 
+
+ Le macchine molatrici a velocità variabile devono essere provviste di un dispositivo, che impedisca l'azionamento della macchina ad una velocità superiore a quella prestabilita in rapporto al diametro della mola montata.
+ 
+
+ 5.1.2
+ 
+
+ Le mole a disco normale devono essere montate sul mandrino per mezzo di flange di fissaggio, di acciaio o di altro materiale metallico uguale fra loro e non inferiore ad 1\3 del diametro della mola, salvo quanto disposto al punto 5.1.4. L'aggiustaggio tra dette flange e la mola deve avvenire secondo una zona anulare periferica di adeguata larghezza e mediante interposizione di una guarnizione di materiale comprimibile quale cuoio, cartone, feltro.
+ 
+
+ Le mole ad anello, a tazza, a scodella, a coltello ed a sagome speciali in genere, devono essere montate mediante flange, piastre, ghiere o altri idonei mezzi, in modo da conseguire la maggiore possibile sicurezza contro i pericoli di spostamento e di rottura della mola in moto.
+ 
+
+ 5.1.3
+ 
+
+ Le mole abrasive artificiali devono essere protette da robuste cuffie metalliche, che circondino la massima parte periferica della mola, lasciando scoperto solo il tratto strettamente necessario per la lavorazione. La cuffia deve estendersi anche sulle due facce laterali della mola ed essere il più vicino possibile alle superfici di questa.
+ 
+
+ Lo spessore della cuffia, in rapporto al materiale di cui è costituita ed i suoi attacchi alle parti fisse della macchina devono essere tali da resistere all'urto dei frammenti di mola in caso di rottura.
+ 
+
+ Le cuffie di protezione di ghisa possono essere tollerate per mole di diametro non superiore a 25 centimetri, che non abbiano velocità periferica di lavoro superiore a 25 metri al secondo e purchè lo spessore della cuffia stessa non sia inferiore a 12 millimetri.
+ 
+
+ 5.1.4
+ 
+
+ 1. La cuffia di protezione delle mole abrasive artificiali, prescritta nel punto 5.1.3 precedente, può, per particolari esigenze di carattere tecnico, essere limitata alla sola parte periferica oppure essere omessa, a condizione che la mola sia fissata con flange di diametro tale che essa non ne sporga più di 3 centimetri, misurati radialmente, per mole fino al diametro di 30 centimetri; di centimetri 5 per mole fino al diametro di 50 centimetri; di 8 centimetri per mole di diametro maggiore.
+ 
+
+ 2. Nel caso di mole a sagoma speciale o di lavorazioni speciali gli "sporti" della mola dai dischi possono superare i limiti previsti dal comma precedente, purchè siano adottate altre idonee misure di sicurezza contro i pericoli derivanti dalla rottura della mola.
+ 
+
+ 5.1.5
+ 
+
+ Le macchine molatrici devono essere munite di adatto poggiapezzi.
+ 
+
+ Questo deve avere superficie di appoggio piana di dimensione appropriata al genere di lavoro da eseguire, deve essere registrabile ed il suo lato interno deve distare non più di 2 millimetri, dalla mola, a meno che la natura del materiale in lavorazione (materiali sfaldabili) e la particolarità di questa non richiedano, ai fini della sicurezza, una maggiore distanza.
+ 
+
+ 5.1.6
+ 
+
+ Le mole abrasive artificiali che sono usate promiscuamente da più lavoratori per operazioni di breve durata, devono essere munite di uno schermo trasparente paraschegge infrangibile e regolabile, a meno che tutti i lavoratori che le usano non siano provvisti di adatti occhiali di protezione in dotazione personale.
+ 
+
+ 5.1.7
+ 
+
+ 1. Le mole naturali azionate meccanicamente devono essere montate tra flange di fissaggio aventi un diametro non inferiore ai 5/10 di quello della mola fino ad un massimo di m. 1 e non devono funzionare ad una velocità periferica superiore a 13 metri al minuto secondo.
+ 
+
+ 2. Quando dette mole sono montate con flange di diametro inferiore ai 5/10 di quello della mola e quando la velocità periferica supera i 10 metri al minuto secondo, esse devono essere provviste di solide protezioni metalliche, esclusa la ghisa comune, atte a trattenere i pezzi della mola in caso di rottura.
+ 
+
+ 5.1.8
+ 
+
+ Sulla incastellatura o in prossimità delle macchine molatrici deve essere esposto, a cura dell'utente della macchina, un cartello indicante il diametro massimo della mola che può essere montata in relazione al tipo di impasto ed al numero dei giri del relativo albero.
+ 
+
+ 5.1.9
+ 
+
+ Le macchine pulitrici o levigatrici a nastro, a tamburo, a rulli, a disco, operanti con smeriglio o altre polveri abrasive, devono avere la parte abrasiva non utilizzata nell'operazione, protetta contro il contatto accidentale.
+ 
+
+ 5.2 Bottali, impastatrici, gramolatrici e macchine simili
+ 
+
+ 5.2.1
+ 
+
+ Le macchine rotanti costituite da botti, cilindri o recipienti di altra forma che, in relazione all'esistenza di elementi sporgenti delle parti in movimento o per altre cause, presentino pericoli per i lavoratori, devono essere segregate, durante il funzionamento, mediante barriere atte ad evitare il contatto accidentale con dette parti in movimento.
+ 
+
+ 5.2.2
+ 
+
+ I bottali da concia e le altre macchine che possono ruotare accidentalmente durante le operazioni di carico e scarico, debbono essere provviste di un dispositivo che ne assicuri la posizione di fermo.
+ 
+
+ 5.2.3
+ 
+
+ 1. Le macchine impastatrici devono essere munite di coperchio totale o parziale atto ad evitare che il lavoratore possa comunque venire in contatto con gli organi lavoratori in moto.
+ 
+
+ 2. Le protezioni di cui al comma precedente devono essere provviste del dispositivo di blocco previsto al punto 6.3 parte I.
+ 
+
+ 3. Quando per ragioni tecnologiche non sia possibile applicare le protezioni ed i dispositivi di cui ai commi precedenti, si devono adottare altre idonee misure per eliminare o ridurre il pericolo.
+ 
+
+ 5.2.4
+ 
+
+ 1. Nelle gramolatrici e macchine simili devono essere protetti:
+ 
+
+ a) la zona di imbocco tra il cono scanalato e la sottostante vasca girevole, mediante una griglia disposta anteriormente al cono stesso, a meno che questo non sia preceduto da dispositivo voltapasta;
+ 
+
+ b) il tratto compreso tra la testata del cono ed il bordo superiore della vasca contro il pericolo di trascinamento e cesoiamento delle mani;
+ 
+
+ c) lo spazio compreso tra il cono e la traversa superiore posteriormente all'imbocco, quando la distanza tra la parte mobile e quella fissa è inferiore a 6 centimetri.
+ 
+
+ 5.3 Macchine di fucinatura e stampaggio per urto
+ 
+
+ 5.3.1
+ 
+
+ Le macchine di fucinatura e di stampaggio per urto, quali magli, berte e simili, devono essere provviste di un dispositivo di blocco atto ad assicurare la posizione di fermo della testa portastampo, durante il cambio e la sistemazione degli stampi e dei controstampi. 5.3.2
+ 
+
+ 1. Gli schermi di difesa contro le proiezioni di materiali devono, per le macchine di fucinatura e di stampaggio, essere applicati almeno posteriormente alla macchina e quando non ostino esigenze di lavoro, anche sul davanti ed ai lati.
+ 
+
+ 2. Gli schermi possono omettersi quando, in relazione alla ubicazione della macchina od al particolare sistema di lavoro, sia da escludersi la possibilità che i lavoratori siano colpiti da dette proiezioni.
+ 
+
+ 5.4 Macchine utensili per metalli
+ 
+
+ 5.4.1
+ 
+
+ 1. Nei torni, le viti di fissaggio del pezzo al mandrino devono risultare incassate oppure protette con apposito manicotto contornante il mandrino, onde non abbiano ad impigliare gli indumenti del lavoratore durante la rotazione. Analoga protezione deve essere adottata quando il pezzo da lavorare è montato mediante briglia che presenta gli stessi pericoli.
+ 
+
+ 2. Nei torni per la lavorazione dei pezzi dalla barra, la parte sporgente di questa deve essere protetta mediante sostegno tubolare. 5.4.2
+ 
+
+ 1. I grandi torni e gli alesatori a piattaforma orizzontale girevole, sulla quale i lavoratori possono salire per sorvegliare lo svolgimento della lavorazione, devono essere provvisti di un dispositivo di arresto della macchina, azionabile anche dal posto di osservazione sulla piattaforma.
+ 
+
+ 5.4.3
+ 
+
+ 1. I vani esistenti nella parte superiore del bancale fisso delle piallatrici debbono essere chiusi allo scopo di evitare possibili cesoiamenti di parti del corpo del lavoratore tra le traverse del bancale e le estremità della piattaforma scorrevole portapezzi.
+ 
+
+ 5.4.4
+ 
+
+ 1. I pezzi da forare al trapano, che possono essere trascinati in rotazione dalla punta dell'utensile, devono essere trattenuti mediante morsetti od altri mezzi appropriati.
+ 
+
+ 5.4.5
+ 
+
+ 1. Le seghe a nastro per metalli devono essere protette conformemente a quanto disposto al punto 5.5.2, punto 2.
+ 
+
+ 5.4.6
+ 
+
+ 1. Le seghe circolari a caldo devono essere munite di cuffia di protezione in lamiera dello spessore di almeno 3 millimetri per arrestare le proiezioni di parti incandescenti.
+ 
+
+ 5.5 Macchine utensili per legno e materiali affini
+ 
+
+ 5.5.1
+ 
+
+ Le seghe alternative a movimento orizzontale devono essere munite di una solida protezione della biella atta a trattenerne i pezzi in caso di rottura.
+ 
+
+ 5.5.2
+ 
+
+ 1. Le seghe a nastro devono avere i volani di rinvio del nastro completamente protetti. La protezione deve estendersi anche alle corone dei volani in modo da trattenere il nastro in caso di rottura.
+ 
+
+ 2. Il nastro deve essere protetto contro il contatto accidentale in tutto il suo percorso che non risulta compreso nelle protezioni di cui al primo comma, ad eccezione del tratto strettamente necessario per la lavorazione.
+ 
+
+ 5.5.3
+ 
+
+ Le seghe circolari fisse devono essere provviste:
+ 
+
+ a) di una solida cuffia registrabile atta a evitare il contatto accidentale del lavoratore con la lama e ad intercettare le schegge;
+ 
+
+ b) di coltello divisore in acciaio, quando la macchina è usata per segare tavolame in lungo, applicato posteriormente alla lama a distanza di non più di 3 millimetri dalla dentatura per mantenere aperto il taglio;
+ 
+
+ c) di schermi messi ai due lati della lama nella parte sporgente sotto la tavola di lavoro in modo da impedirne il contatto.
+ 
+
+ Qualora per esigenze tecniche non sia possibile l'adozione del dispositivo di cui alla lettera a), si deve applicare uno schermo paraschegge di dimensioni appropriate.
+ 
+
+ 5.5.4
+ 
+
+ Le seghe circolari a pendolo, a bilanciere e simili devono essere provviste di cuffie di protezione conformate in modo che durante la lavorazione rimanga scoperto il solo tratto attivo del disco.
+ 
+
+ Le seghe circolari a pendolo e simili devono essere inoltre provviste di un dispositivo di sicurezza atto ad impedire che la lama possa uscire fuori dal banco dalla parte del lavoratore in caso di rottura dell'organo tirante.
+ 
+
+ 5.5.5
+ 
+
+ Le pialle a filo devono avere il portalame di forma cilindrica e provvisto di scanalature di larghezza non superiore a 12 millimetri per l'eliminazione dei trucioli.
+ 
+
+ La distanza fra i bordi dell'apertura del banco di lavoro e il filo tagliente delle lame deve essere limitata al minimo indispensabile rispetto alle esigenze della lavorazione.
+ 
+
+ Le pialle a filo devono inoltre essere provviste di un riparo registrabile a mano o di altro idoneo dispositivo per la copertura del portalame o almeno del tratto di questo eccedente la zona di lavorazione in relazione alle dimensioni ed alla forma del materiale da piallare.
+ 
+
+ 5.5.6
+ 
+
+ Le pialle a spessore devono essere munite di un dispositivo atto ad impedire il rifiuto del pezzo o dei pezzi in lavorazione.
+ 
+
+ 5.5.7
+ 
+
+ Le fresatrici da legno devono essere provviste di mezzi di protezione atti ad evitare che le mani del lavoratore possano venire accidentalmente in contatto con l'utensile. Tali mezzi debbono essere adatti alle singole lavorazioni ed applicati sia nei lavori con guida che in quelli senza guida.
+ 
+
+ 5.6 Presse e cesoie
+ 
+
+ 5.6.1
+ 
+
+ Le presse, le trance e le macchine simili debbono essere munite di ripari dispositivi atti ad evitare che le mani o altre parti del corpo dei lavoratori siano offese dal punzone o da altri organi mobili lavoratori.
+ 
+
+ Tali ripari o dispositivi, a seconda del tipo della macchina o delle esigenze della lavorazione, possono essere costituiti da:
+ 
+
+ a) schermi fissi che permettono il passaggio dei materiali nella zona di lavoro pericolosa, ma non quello delle mani del lavoratore;
+ 
+
+ b) schermi mobili di completa protezione della zona pericolosa, che non consentano il movimento del punzone se non quando sono nella posizione di chiusura;
+ 
+
+ c) apparecchi scansamano comandati automaticamente dagli organi mobili della macchina;
+ 
+
+ d) dispositivi che impediscano la discesa del punzone quando le mani o altre parti del corpo dei lavoratori si trovino in posizione di pericolo.
+ 
+
+ I dispositivi di sicurezza consistenti nel comando obbligato della macchina per mezzo di due organi da manovrarsi contemporaneamente con ambo le mani, possono essere ritenuti sufficienti soltanto nel caso che alla macchina sia addetto un solo lavoratore. I suddetti ripari e dispositivi di sicurezza possono essere omessi quando la macchina sia provvista di apparecchi automatici o semi automatici di alimentazione.
+ 
+
+ 5.6.2
+ 
+
+ Nei lavori di meccanica minuta con macchine di piccole dimensioni, qualora l'applicazione di uno dei dispositivi indicati al punto 5.6.1 o di altri dispositivi di sicurezza non risulti praticamente possibile, i lavoratori, per le operazione di collocamento e ritiro dei pezzi in lavorazione, debbono essere forniti e fare uso di adatti attrezzi di lunghezza sufficiente a mantenere le mani fuori della zona di pericolo.
+ 
+
+ 5.6.3
+ 
+
+ L'applicazione di ripari o dispositivi di sicurezza, in conformità a quanto stabilisce il punto 5.6.1, può essere omessa per le presse o macchine simili mosse direttamente dalla persona che le usa, senza intervento diretto o indiretto di motori nonchè per le presse comunque azionate a movimento lento, purchè le eventuali condizioni di pericolo siano eliminate mediante altri dispositivi o accorgimenti.
+ 
+
+ 5.6.4
+ 
+
+ Le presse meccaniche alimentate a mano debbono essere munite di dispositivo antiripetitore del colpo.
+ 
+
+ 5.6.5
+ 
+
+ Le presse a bilanciere azionate a mano, quando il volano in movimento rappresenti un pericolo per il lavoratore, debbono avere le masse rotanti protette mediante schermo circolare fisso o anello di guardia solidale con le masse stesse.
+ 
+
+ 5.6.6
+ 
+
+ Le cesoie a ghigliottina mosse da motore debbono essere provviste di dispositivo atto ad impedire che le mani o altre parti del corpo dei lavoratori addetti possano comunque essere offesi dalla lama, a meno che non siano munite di alimentatore automatico o meccanico che non richieda l'introduzione delle mani o altre parti del corpo nella zona di pericolo.
+ 
+
+ 5.6.7
+ 
+
+ Le grandi cesoie a ghigliottina cui sono addetti contemporaneamente due o più lavoratori debbono essere provviste di dispositivi di comando che impegnino ambo le mani degli stessi per tutta la durata della discesa della lama, a meno che non siano adottati altri efficaci mezzi di sicurezza.
+ 
+
+ 5.6.8
+ 
+
+ Le cesoie a coltelli circolari, quando questi ultimi sono accessibili e pericolosi, debbono essere provviste di cuffia o di schermi o di altri mezzi idonei di protezione applicati alla parte di coltello soprastante il banco di lavoro ed estendersi quanto più vicino possibile alla superficie del materiale in lavorazione. Anche le parti dei coltelli sottostanti il banco devono essere protette.
+ 
+
+ 5.6.9
+ 
+
+ Le cesoie a tamburo portacoltelli e simili debbono essere provviste di mezzi di protezione, che impediscano ai lavoratori di raggiungere con le mani i coltelli in moto.
+ 
+
+ 5.7 Frantoi, disintegratori, molazze e polverizzatori
+ 
+
+ 5.7.1 Gli organi lavoratori dei frantoi, dei disintegratori, dei polverizzatori e delle macchine simili, i quali non siano completamente chiusi nell'involucro esterno fisso della macchina e che presentino pericolo, debbono essere protetti mediante idonei ripari, che possono essere costituiti anche da robusti parapetti collocati a sufficiente distanza dagli organi da proteggere.
+ 
+
+ 5.7.2
+ 
+
+ I molini a palle e le macchine simili debbono essere segregati mediante barriere o parapetti posti a conveniente distanza, ogni qualvolta i loro elementi sporgenti vengano a trovarsi, durante la rotazione, a meno di metri due di altezza dal pavimento.
+ 
+
+ 5.7.3
+ 
+
+ Qualora per esigenze tecniche le aperture di alimentazione dei frantoi, dei disintegratori e delle macchine simili, non possano essere provviste di protezioni fisse complete, possono essere adottate protezioni rimovibili o spostabili, le quali debbono essere rimesse al loro posto o in posizione di difesa non appena sia cessata l'esigenza che ne ha richiesto la rimozione.
+ 
+
+ In ogni caso il posto di lavoro o di manovra dei lavoratori deve essere sistemato o protetto in modo da evitare cadute entro l'apertura di alimentazione o offese da parte degli organi in moto.
+ 
+
+ 5.7.4
+ 
+
+ Le molazze e le macchine simili debbono essere circondate da un riparo atto ad evitare possibili offese dagli organi lavoratori in moto.
+ 
+
+ Le aperture di scarico della vasca debbono essere costruite o protette in modo da impedire che le mani dei lavoratori possano venire in contatto con gli organi mobili della macchina.
+ 
+
+ 5.8 Macchine per centrifugare e simili
+ 
+
+ 5.8.1 Le macchine per centrifugare e simili debbono essere usate entro i limiti di velocità e di carico stabiliti dal costruttore.
+ 
+
+ Tali limiti debbono risultare da apposita targa ben visibile applicata sulla macchina e debbono essere riportati su cartello con le istruzioni per l'uso, affisso presso la macchina.
+ 
+
+ 5.8.2
+ 
+
+ Le macchine per centrifugare in genere, quali gli idroestrattori e i separatori a forza centrifuga, debbono essere munite di solido coperchio dotato del dispositivo di blocco previsto al punto 6.3 parte I e di freno adatto ed efficace.
+ 
+
+ Qualora, in relazione al particolare uso della macchina, non sia tecnicamente possibile applicare il coperchio, il bordo dell'involucro esterno deve sporgere di almeno tre centimetri verso l'interno rispetto a quello del paniere.
+ 
+
+ 5.9 Laminatoi, rullatrici, calandre e cilindri
+ 
+
+ 5.9.1 Nelle macchine con cilindri lavoratori e alimentatori accoppiati e sovrapposti, o a cilindro contrapposto a superficie piana fissa o mobile, quali laminatoi, rullatrici, calandre, molini a cilindri, raffinatrici, macchine tipografiche a cilindri e simili, la zona di imbocco, qualora non sia inaccessibile, deve essere efficacemente protetta per tutta la sua estensione, con riparo per impedire la presa e il trascinamento delle mani o di altre parti del corpo del lavoratore.
+ 
+
+ Qualora per esigenze della lavorazione non sia possibile proteggere la zona di imbocco, le macchine di cui al primo comma debbono essere provviste di un dispositivo che, in caso di pericolo, permetta, mediante agevole manovra, di conseguire il rapido arresto dei cilindri.
+ 
+
+ Inoltre, per quanto necessario ai fini della sicurezza e tecnicamente possibile, il lavoratore deve essere fornito e fare uso di appropriati attrezzi che gli consentano di eseguire le operazioni senza avvicinare le mani alla zona pericolosa.
+ 
+
+ Le disposizioni del presente punto non si applicano nei casi in cui, in relazione alla potenza, alla velocità, alle caratteristiche ed alle dimensioni delle macchine, sia da escludersi il pericolo previsto dal primo comma.
+ 
+
+ 5.9.2 I laminatoi e le calandre che, in relazione alle loro dimensioni, potenza, velocità o altre condizioni, presentano pericoli specifici particolarmente gravi, quali i laminatoi (mescolatori) per gomma, le calandre per foglie di gomma e simili, debbono essere provvisti di un dispositivo per l'arresto immediato dei cilindri avente l'organo di comando conformato e disposto in modo che l'arresto possa essere conseguito anche mediante semplice e leggera pressione di una qualche parte del corpo del lavoratore nel caso che questi venga preso con le mani dai cilindri in moto.
+ 
+
+ Il dispositivo di arresto di cui al comma precedente oltre al freno deve comprendere anche un sistema per la contemporanea inversione del moto dei cilindri prima del loro arresto definitivo.
+ 
+
+ 5.10 Apritoii, battitoi, carde, sfilacciatrici, pettinatrici e macchine simili
+ 
+
+ 5.10.1
+ 
+
+ Gli organi lavoratori degli apritoi, dei battitoi, delle carde, delle sfilacciatrici, delle pettinatrici e delle altre macchine pericolose usate per la prima lavorazione delle fibre e delle materie tessili, quali catene a punta, aspi, rulli, tamburi a denti o con guarnizioni a punta e coppie di cilindri, devono essere protetti mediante custodie conformate e disposte in modo da rendere impossibile il contatto con essi delle mani e delle altre parti del corpo dei lavoratori.
+ 
+
+ Tali custodie, qualora non siano costituite dallo stesso involucro esterno fisso della macchina, devono, salvo quanto è disposto nel punto 5.10.2, essere fissate mediante viti, bulloni o altro idoneo mezzo.
+ 
+
+ 5.10.2 Le custodie degli organi lavoratori delle macchine indicate nel punto 5.10.1 e le loro parti, che, durante il lavoro, richiedono di essere aperte o spostate, devono essere provviste del dispositivo di blocco previsto al punto 6.3 parte I.
+ 
+
+ Lo stesso dispositivo deve essere applicato anche ai portelli delle aperture di visita, di pulitura e di estrazione dei rifiuti di lavorazione, qualora gli organi lavoratori interni possano essere inavvertitamente raggiunti dai lavoratori.
+ 
+
+ 5.10.3 Le aperture di carico e scarico delle macchine indicate al primo comma al punto 5.10.1 devono avere una forma tale ed essere disposte in modo che i lavoratori non possano, anche accidentalmente, venire in contatto con le mani o con altre parti del corpo con gli organi lavoratori o di movimento interni della macchina.
+ 
+
+ 5.10.4 La zona di imbocco dei cilindri alimentatori delle macchine indicate al primo comma al punto 5.10.1, escluse le carde e le pettinatrici, deve essere resa inaccessibile mediante griglia o custodia chiusa anche lateralmente, estendendosi fino a metri uno di distanza dall'imbocco dei cilindri, o protetta con rullo folle che eviti il pericolo di presa delle mani o di altre parti del corpo fra i cilindri, o munita di altro idoneo dispositivo di sicurezza.
+ 
+
+ Se la griglia o custodia non è fissa, essa deve essere provvista del dispositivo di blocco previsto al punto 6.3 parte I.
+ 
+
+ 5.11 Macchine per filare e simili
+ 
+
+ 5.11.1
+ 
+
+ Le custodie mobili degli ingranaggi, delle cremagliere e degli altri organi di movimento pericolosi degli stiratoi dei banchi a fusi, dei filatoi, dei binatoi, dei ritorcitoi e delle altre macchine tessili simili, nonchè gli sportelli delle aperture di accesso agli stessi organi eventualmente ricavate nell'involucro esterno della macchina, devono essere provviste del dispositivo di blocco previsto al punto 6.3 parte I, qualora debbano essere aperte o rimosse durante il lavoro e gli organi pericolosi possano essere inavvertitamente raggiunti dal lavoratore.
+ 
+
+ 5.11.2
+ 
+
+ L'imbocco della coppia di tamburi longitudinali di comando di fusi dei filatoi e dei ritorcitoi continui ad anello ad aletta ed a campana, deve essere protetto, alle due estremità, mediante schermo e, longitudinalmente, con sbarre sulle due fronti della macchina o con un riparo disposto nella zona angolare formata dai due cilindri oppure con altro mezzo idoneo.
+ 
+
+ 5.11.3
+ 
+
+ 1. Il montaggio sui tamburi delle macchine indicate nel punto 5.11.2 delle funicelle di comando dei fusi deve essere fatto a macchina ferma.
+ 
+
+ 2. è tuttavia consentito il montaggio a macchina in moto, ferma restando l'osservanza delle disposizioni del punto 5.11.2, a condizione che all'operazione sia adibito personale esperto fornito di appositi attrezzi, quali anello o asticciola con gancio.
+ 
+
+ 5.11.4
+ 
+
+ I filatoi automatici intermittenti devono essere provvisti di:
+ 
+
+ a) staffe fisse alle ruote del carro distanti non più di 6 millimetri dalle rotaie, allo scopo di evitare lo schiacciamento dei piedi fra la ruota e la rotaia;
+ 
+
+ b) dispositivi, quali tamponi retrattili o altri equivalenti, atti ad evitare lo schiacciamento degli arti inferiori tra il carro ed il tampone di arresto, salvo il caso in cui questi siano disposti al disotto del banco dei cilindri alimentatori ed in posizione tale per cui non risultino facilmente accessibili;
+ 
+
+ c) custodie complete delle varie pulegge a gola dei comandi che non risultino già inaccessibili, atte a impedire ogni contatto con i punti di avvolgimento delle funi;
+ 
+
+ d) custodia cilindrica al nasello di arresto della bacchetta, allo scopo di evitare lo schiacciamento delle mani fra lo stesso nasello e l'albero della controbacchetta.
+ 
+
+ 5.12 Telai meccanici di tessitura
+ 
+
+ 5.12.1
+ 
+
+ I telai meccanici di tessitura e telai meccanici per la fabbricazione di tele o tessuti metallici o di altre materie devono essere provvisti di apparecchio guidanavetta applicato alla cassa battente, atto ad impedire la fuoruscita della navetta dalla sua sede di corsa.
+ 
+
+ Quando l'applicazione del guidanavetta può riuscire dannosa per il prodotto, come nei casi di fabbricazione dei tessuti molto leggeri e con l'ordito molto debole o quando la velocità della navetta è molto limitata, l'apparecchio guidanavetta può essere sostituito da reti intelaiate, poste sui fianchi del telaio, atte ad arrestare la navetta in caso di fuoruscita.
+ 
+
+ 5.12.2
+ 
+
+ L'apparecchio guidanavetta di cui al primo comma del punto 5.12.1 deve essere applicato:
+ 
+
+ a) ai telai da cotone, lino, canapa e juta, che battono più di 80 colpi al minuto primo o aventi una luce pettine maggiore di m. 1,60, anche se usati per la fabbricazione di tessuti di altre fibre o misti, ad eccezione dei telai adibiti alla fabbricazione dei tessuti leggeri di fantasia, per i quali l'applicazione del guidanavetta è facoltativa;
+ 
+
+ b) ai telai da lana che battono più di 100 colpi al minuto primo o aventi luce pettine maggiore di m. 2, anche se adibiti alla fabbricazione di tessuti di altre fibre o misti.
+ 
+
+ 5.12.3
+ 
+
+ L'apparecchio guidanavetta di cui al primo comma del punto 5.12.1, deve essere tale che:
+ 
+
+ a) se mobile, assuma automaticamente la posizione di lavoro (posizione attiva di protezione) non appena il telaio è messo in moto;
+ 
+
+ b) le due estremità laterali non distino dalla scatola delle navette più di mezza lunghezza di navetta.
+ 
+
+ L'efficienza del suddetto apparecchio deve essere assicurata mediante una costante ed accurata manutenzione.
+ 
+
+ 5.12.4
+ 
+
+ Non sono ammessi apparecchi guidanavette costituiti da una unica barra avente un diametro inferiore a:
+ 
+
+ a) 12 millimetri se i tratti liberi della barra non hanno una lunghezza superiore a 75 centimetri;
+ 
+
+ b) 14 millimetri se i tratti liberi della barra hanno una lunghezza compresa tra i 75 centimetri e un metro;
+ 
+
+ c) 20 millimetri se i tratti liberi della barra hanno una lunghezza superiore a un metro.
+ 
+
+ Ove la sezione della barra sia diversa dalla circolare, le sue dimensioni devono essere tali da offrire resistenza e rigidità corrispondenti.
+ 
+
+ 5.12.5
+ 
+
+ Le reti paranavetta, di cui al secondo comma del punto 5.12.1, devono avere le seguenti dimensioni
+ 
+
+ minime:
+ 
+
+ a) cm. 50 x 50 per telai fino a m. 1,20 di luce pettine;
+ 
+
+ b) cm. 40 x 60 per telai con luce pettine da m. 1,21 a m. 1,60;
+ 
+
+ c) cm. 70 x 70 per telai con luce pettine superiore a m. 1,60.
+ 
+
+ Dette reti devono essere disposte il più vicino possibile alle due testate del telaio, immediatamente al di sopra della costola inferiore del pettine e davanti a questo quando si trovi nella sua posizione estrema posteriore.
+ 
+
+ Le reti paranavetta possono essere omesse alle testate dei telai prospicienti pareti cieche, purchè non vi sia possibilità di passaggio.
+ 
+
+ 5.12.6
+ 
+
+ I pesi delle leve di pressione del subbio del tessuto ed i pesi del freno del subbio dell'ordito dei telai meccanici di tessitura e telai meccanici per la fabbricazione di tele o tessuti metallici o di altre materie devono essere assicurati con mezzi idonei ad evitarne la caduta.
+ 
+
+ 5.12.7
+ 
+
+ Gli impianti di tessitura devono essere attrezzati con mezzi che permettano di eseguire in modo sicuro il montaggio e lo smontaggio sia del subbio del tessuto, che del subbio dell'ordito.
+ 
+
+ 5.13 Macchine diverse
+ 
+
+ 5.13.1
+ 
+
+ Nelle ammorbidatrici per canapa e nelle distenditrici per juta, l'imbocco dei cilindri deve essere protetto lateralmente con ripari fissi alti m. 1,30 da terra, estesi fino a cm. 70 dall'imbocco stesso.
+ 
+
+ Lo scarico delle stesse macchine deve essere protetto con un riparo fisso atto ad impedire che, nel movimento retrogrado, le mani del lavoratore possano essere prese dai cilindri.
+ 
+
+ 5.13.2
+ 
+
+ Le macchine di rottura per strappamento delle mannelle di canapa e juta, alimentate a mano devono avere la caviglia fissa e l'albero a sezione quadrata di avvolgimento disposti a sbalzo, con gli assi normali al fronte di lavoro.
+ 
+
+ 5.13.3
+ 
+
+ Le bobine delle macchine automatiche per la fabbricazione di corde di fibre tessili o di corde metalliche, devono essere provviste di coperchio o cuffia di protezione che impediscano la fuoruscita delle bobine e siano muniti del dispositivo di blocco previsto al punto 6.3 parte I.
+ 
+
+ Quando le dimensioni della parte rotante della macchina sono rilevanti, la protezione può essere costituita da schermi o reti metalliche di altezza, forma e resistenza atti ad impedire il contatto dei lavoratori con le parti rotanti e a trattenere le bobine in caso di sfuggita.
+ 
+
+ 5.13.4
+ 
+
+ Le macchine a motore per cucire con filo devono essere provviste, compatibilmente con le esigenze tecniche della lavorazione, di una protezione dell'ago per evitare lesioni alle dita del lavoratore.
+ 
+
+ 5.13.5
+ 
+
+ Le macchine a motore per cucire con graffe, quando non siano ad alimentazione automatica, devono essere provviste di un riparo che impedisca alle dita del lavoratore di trovarsi nella zona pericolosa. 5.13.6
+ 
+
+ Le bobine delle macchine per trafilare fili metallici devono essere provviste di un dispositivo, azionabile direttamente dal lavoratore, che consenta l'arresto immediato della macchina in caso di necessità.
+ 
+
+ 5.13.7
+ 
+
+ Le macchine con cilindro a lame elicoidali, quali le rasatrici, le depilatrici, le scarnitrici e le distenditrici, devono essere provviste di cuffia di protezione al di sopra del cilindro portalame, la quale lasci scoperto il tratto strettamente necessario per la lavorazione.
+ 
+
+ Quando la cuffia non sia fissa, deve essere munita del dispositivo di blocco previsto al punto 6.3 parte I.
+ 
+
+ 5.13.8
+ 
+
+ Nelle trebbiatrici sprovviste di alimentatore automatico dei covoni, il vano d'imbocco del battitore deve essere munito di tavolette fermapiedi alte almeno 15 centimetri e di un coperchio cernierato che abbia nella parte posteriore un dispositivo di arresto che limiti l'ampiezza della misura strettamente necessaria per la normale introduzione del covone.
+ 
+
+ 5.13.9
+ 
+
+ Sulle trebbiatrici, la parete anteriore della fossetta ove prende posto l'imboccatore, deve essere completata da un robusto parapetto provvisto di un dispositivo di blocco, che permetta di spostare la traversa orizzontale nei limiti di altezza, a partire dal fondo, compresi fra un minimo di 70 centimetri ed un massimo di 90 centimetri.
+ 
+
+ 5.13.10
+ 
+
+ Il piano superiore di servizio nella trebbiatrice deve essere munito ai bordi di sponde alte almeno 50 centimetri.
+ 
+
+ L'accesso a detto piano deve effettuarsi mediante scale a mano munite di ganci di trattenuta e aventi un montante prolungato di almeno m. 0,80 oltre il piano stesso.
+ 
+
+ 5.13.11
+ 
+
+ Le trebbiatrici su ruote devono essere corredate di freni efficienti e di calzatoie di legno per assicurarne la stabilità durante il lavoro.
+ 
+
+ 5.13.12
+ 
+
+ Le macchine per riempire bottiglie di vetro con liquidi sotto pressione devono essere provvisti di schermi atti a trattenere i frammenti di vetro in caso di scoppio della bottiglia.
+ 
+
+ Detti schermi devono essere adottati anche per le operazioni di chiusura delle bottiglie quando per queste operazioni esistono fondati pericoli di scoppio.
+ 
+
+ 5.13.13
+ 
+
+ Le macchine tipografiche a platina e le macchine simili che non siano munite di alimentatore automatico devono essere provviste di un dispositivo atto a determinare l'arresto automatico della macchina per semplice urto della mano del lavoratore, quando questa venga a trovarsi in posizione di pericolo fra la tavola fissa e il piano mobile, ovvero devono essere munite di altro idoneo dispositivo di sicurezza di riconosciuta efficacia.
+ 
+
+ 5.13.14
+ 
+
+ Le presse fustellatrici che richiedono il collocamento a mano delle fustelle fra le due piastre devono essere attrezzate con fustelle di altezza non inferiore a 50 millimetri munite di bordo sporgente, allo scopo di consentirne l'uso senza pericolo per le mani.
+ 
+
+ La disposizione di cui al primo comma non è obbligatoria quando l'applicazione delle fustelle sul materiale in lavorazione è effettuata a piastre di pressione spostate e quindi in condizioni non pericolose.
+ 
+
+ 5.13.15
+ 
+
+ I compressori devono essere provvisti di una valvola di sicurezza tarata per la pressione massima di esercizio e di dispositivo che arresti automaticamente il lavoro di compressione al raggiungimento della pressione massima d'esercizio.
+ 
+
+ 5.14 Impianti ed operazioni di saldatura o taglio ossiacetilenica ossidrica, elettrica e simili
+ 
+
+ 5.14.1
+ 
+
+ Fra gli impianti di combustione o gli apparecchi a fiamma ed i generatori o gasometri di acetilene deve intercorrere una distanza di almeno 10 metri, riducibili a 5 metri, nei casi in cui i generatori o gasometri siano protetti contro le scintille e l'irradiamento del calore o usati per lavori all'esterno
+ 
+
+ 5.14.2
+ 
+
+ Sulle derivazioni di gas acetilene o di altri gas combustibili di alimentazione nel cannello di saldatura deve essere inserita una valvola idraulica o altro dispositivo di sicurezza che corrisponda ai seguenti requisiti:
+ 
+
+ a) impedisca il ritorno di fiamma e l'afflusso dell'ossigeno o dell'aria nelle tubazioni del gas combustibile;
+ 
+
+ b) permetta un sicuro controllo, in ogni momento del suo stato di efficienza;
+ 
+
+ c) sia costruito in modo da non costituire pericolo in caso di eventuale scoppio per ritorno di fiamma.
+ 
+
+ 5.14.3
+ 
+
+ Gli apparecchi per saldatura elettrica o per operazioni simili devono essere provvisti di interruttore omnipolare sul circuito primario di derivazione della corrente elettrica.
+ 
+
+ 5.14.4
+ 
+
+ Quando la saldatura od altra operazione simile non è effettuata con saldatrice azionata da macchina rotante di conversione, è vietato effettuare operazioni di saldatura elettrica con derivazione diretta della corrente della normale linea di distribuzione senza l'impiego di un trasformatore avente l'avvolgimento secondario isolato dal primario.
+ 
+
+ 5.15 Forni e stufe di essiccamento o di maturazione
+ 
+
+ 5.15.1 Le bocche di carico e le altre aperture esistenti nelle pareti dei forni, quando, per le loro posizioni e dimensioni, costituiscono pericolo nell'interno, devono essere provviste di solide difese.
+ 
+
+ 5.15.2 Le stufe di essiccamento o di maturazione, accessibili per le operazioni connesse con il loro esercizio, devono essere provviste di porte apribili anche dall'interno.
+ 
+
+ 5.15.3 Le porte dei forni, delle stufe, delle tramogge e simili devono essere disposte in modo che le manovre di chiusura ed apertura risultino agevoli e sicure. In particolare deve essere assicurata la stabilità della posizione di apertura.
+ 
+
+ 5.15.4 Le pareti e le parti esterne dei recipienti, serbatoi, vasche, tubazioni, forni e porte, che possono assumere temperature pericolose per effetto del calore delle materie contenute o di quello dell'ambiente interno, devono essere efficacemente rivestite di materiale termicamente isolante o protette contro il contatto accidentale.
+ 
+
+ 5.16 Impianti macchine ed apparecchi elettrici
+ 
+
+ 5.16.1 Le macchine e gli apparecchi elettrici devono portare l'indicazione della tensione, dell'intensità e del tipo di corrente e delle altre eventuali caratteristiche costruttive necessarie per l'uso.
+ 
+
+ 5.16.2 Le macchine ed apparecchi elettrici mobili o portatili devono essere alimentati solo da circuiti a bassa tensione.
+ 
+
+ Può derogarsi per gli apparecchi di sollevamento, per i mezzi di trazione, per le cabine mobili di trasformazione e per quelle macchine ed apparecchi che, in relazione al loro specifico impiego, debbono necessariamente essere alimentati ad alta tensione.
+ 
+
+ 5.16.4 Gli utensili elettrici portatili e gli apparecchi elettrici mobili devono avere un isolamento supplementare di sicurezza fra le parti interne in tensione e l'involucro metallico esterno.
+ 
+
+ ))

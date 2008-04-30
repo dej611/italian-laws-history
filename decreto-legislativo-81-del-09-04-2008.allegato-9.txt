@@ -1,0 +1,72 @@
+ALLEGATO IX
+ 
+
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ Valori delle tensioni nominali di esercizio delle macchine ed impianti elettrici
+ 
+
+ 
+ 
+
+ In relazione alla loro tensione nominale i sistemi elettrici si dividono in:
+ 
+
+ - sistemi di Categoria 0 (zero), chiamati anche a bassissima tensione, quelli a tensione nominale minore o uguale a 50 V se a corrente alternata o a 120 V se in corrente continua (non ondulata);
+ 
+
+ - sistemi di Categoria I (prima), chiamati anche a bassa tensione, quelli a tensione nominale da oltre 50 fino a 1000 V se in corrente alternata o da oltre 120 V fino a 1500 V compreso se in corrente continua;
+ 
+
+ sistemi di Categoria II (seconda),chiamati anche a media tensione quelli a tensione nominale oltre 1000 V se in corrente alternata od oltre 1500 V se in corrente continua, fino a 30 000 V
+ 
+
+ compreso;
+ 
+
+ sistemi di Categoria III (terza),chiamati anche ad alta tensione, quelli a tensione nominale maggiore di 30 000 V.
+ 
+
+ Qualora la tensione nominale verso terra sia superiore alla tensione nominale tra le fasi, agli effetti della classificazione del sistema si considera la tensione nominale verso terra.
+ 
+
+ Per sistema elettrico si intende la parte di un impianto elettrico costituito da un complesso di componenti elettrici aventi una determinata tensione nominale.
+ 
+
+ Tab. 1 allegato IX - Distanze di sicurezza da parti attive di linee elettriche e di impianti elettrici non protette o non sufficientemente protette da osservarsi, nell'esecuzione di lavori non elettrici, al netto degli ingombri derivanti dal tipo di lavoro, delle attrezzature utilizzate e dei materiali movimentati, nonchè degli sbandamenti laterali dei conduttori dovuti all'azione del vento e degli abbassamenti di quota dovuti alle condizioni termiche.
+ 
+
+ 
+ 
+
+ Un (kV) | D (m)
+ 
+
+ <=1 | 3
+ 
+
+ 1<Un<=30 | 3,5
+ 
+
+ 30<Un<=132 | 5
+ 
+
+ >132 | 7
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Dove Un = tensione nominale.
+ 
+
+ ))
