@@ -447,10 +447,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione o la retrocessione dei rischi effettuata da un'impresa di riassicurazione; 
- 
+ ((
 
- 
+ d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione o retrocessi da un'impresa di riassicurazione; 
+
+ ))
+
  
 
  
@@ -585,17 +587,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di assicurazione extracomunitarie, imprese di riassicurazione, sempre che almeno una di esse sia un'impresa di assicurazione avente sede legale nel territorio della Repubblica e che non sia una società di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario; 
+ ((
+
+ 
+ aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario; 
  
 
  
  
 
- 
- bb) impresa di partecipazione assicurativa mista: una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione o da un'impresa di partecipazione assicurativa, sempre che almeno una delle sue imprese controllate sia un'impresa di assicurazione avente sede legale nel territorio della Repubblica e che non sia una società di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario; 
- 
+ bb) impresa di partecipazione assicurativa mista: una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario della vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario, semprechè almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
 
- 
+ ))
+
  
 
  
@@ -603,6 +607,43 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 98/78/CE oppure da un'impresa non finanziaria il cui scopo è di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese cui appartiene o del gruppo di cui fa parte l'impresa di riassicurazione captive; 
+ 
+
+ 
+ 
+
+ 
+ cc-ter) impresa di riassicurazione extracomunitaria: la società avente sede legale e amministrazione centrale in uno Stato non appartenente all'Unione europea o non aderente allo Spazio economico europeo, autorizzata per l'esercizio dell'attività riassicurativa; 
+ 
+
+ 
+ 
+
+ 
+ cc-quater) impresa finanziaria: un'impresa costituita da uno dei seguenti soggetti: 
+ 
+
+ 1) un ente creditizio, un ente finanziario o un'impresa di servizi bancari ausiliari ai sensi dell'articolo 1, punti 5) e 23), della direttiva 2000/12/CE; 
+ 
+
+ 2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc); 
+ 
+
+ 3) un'impresa di investimento o un ente finanziario ai sensi dell'articolo 4, paragrafo 1, punto 1), della direttiva 2004/39/CE; 
+ 
+
+ 4) un'impresa di partecipazione finanziaria mista ai sensi dell'articolo 2, punto 15), della direttiva 2002/87/CE; 
+ 
+
+ ))
+
  
 
  
@@ -683,7 +724,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- qq) portafoglio del lavoro indiretto italiano: i contratti, ovunque stipulati, da imprese italiane o da stabilimenti in Italia di imprese aventi la sede legale in altro Stato, se l'impresa cedente è essa stessa impresa italiana o stabilimento in Italia di imprese aventi la sede legale in altro Stato. Si considerano facenti parte del portafoglio estero i contratti, ovunque stipulati, nel caso in cui l'impresa cedente sia un'impresa avente la sede legale in altro Stato. I contratti stipulati da imprese italiane attraverso uno stabilimento costituito in altro Stato si considerano facenti parte del portafoglio estero; 
+ qq) portafoglio del lavoro indiretto italiano: i contratti, ovunque stipulati, da imprese italiane o da stabilimenti in Italia di imprese aventi la sede legale in altro Stato, se l'impresa cedente è essa stessa impresa italiana o stabilimento in Italia di imprese aventi la sede legale in altro Stato. Si considerano facenti parte del portafoglio estero i contratti, ovunque stipulati, nel caso in cui l'impresa cedente sia un'impresa avente la sede legale in altro Stato. 
+ (( PERIODO SOPPRESSO D.LGS. 29 FEBBRAIO 2008, N. 56))
+
+ ; 
  
 
  
@@ -722,6 +766,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ vv-bis) riassicurazione finite: una riassicurazione in base alla quale la potenziale perdita massima esplicita, espressa in termini di rischio economico massimo trasferito, risultante da un significativo trasferimento sia del rischio di sottoscrizione che del rischio di timing, eccede, per un importo limitato ma significativo, il premio per l'intera durata del contratto, unitamente ad almeno una delle seguenti caratteristiche: 
+ 
+
+ 1) considerazione esplicita e materiale del valore del denaro in rapporto al tempo; 
+ 
+
+ 2) disposizioni contrattuali intese a limitare il risultato economico del contratto tra le parti nel tempo, al fine di raggiungere il trasferimento del rischio previsto; 
+ 
+
+ 
+ 
+
+ vv-ter) società veicolo: qualsiasi impresa, con o senza personalità giuridica, diversa da un'impresa di assicurazione o di riassicurazione, che assume i rischi ceduti da imprese di assicurazione o riassicurazione e che finanzia integralmente la sua esposizione a tali rischi mediante l'emissione di titoli o altri strumenti finanziari per i quali i diritti di rimborso dei detentori sono subordinati agli obblighi di riassicurazione della società veicolo; 
+
+ ))
+
  
 
  
@@ -773,10 +839,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) lo Stato di cui alla lettera bbb) in cui si trovano i beni, quando l'assicurazione riguardi beni immobili, ovvero beni immobili e beni mobili in essi contenuti, sempre che entrambi siano coperti dallo stesso contratto di assicurazione; 
  
 
- 2) lo Stato di cui alla lettera bbb) di immatricolazione, quando l'assicurazione riguardi veicoli di ogni tipo soggetti ad immatricolazione 
- ((sia che si tratti di un veicolo con targa definitiva o targa temporanea))
-
- ; 
+ 2) lo Stato di cui alla lettera bbb) di immatricolazione, quando l'assicurazione riguardi veicoli di ogni tipo soggetti ad immatricolazione sia che si tratti di un veicolo con targa definitiva o targa temporanea; 
  
 
  3) lo Stato di cui alla lettera bbb) in cui l'assicurato ha sottoscritto il contratto, quando abbia durata inferiore o pari a quattro mesi e sia relativo a rischi inerenti ad un viaggio o ad una vacanza; 
@@ -785,18 +848,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) lo Stato di cui alla lettera bbb) in cui l'assicurato ha il domicilio, ovvero, se l'assicurato è una persona giuridica, lo Stato della sede della stessa alla quale si riferisce il contratto, in tutti i casi non esplicitamente previsti dai numeri da 1 a 3; 
  
 
- 
- 
- (( 4-bis) lo Stato di cui alla lettera bbb) di destinazione nel caso in cui un veicolo viene spedito da uno Stato membro in un altro, a decorrere dall'accettazione della consegna da parte dell'acquirente e per un periodo di trenta giorni, anche se il veicolo non è stato formalmente immatricolato nello Stato membro di destinazione; 
+ 4-bis) lo Stato di cui alla lettera bbb) di destinazione nel caso in cui un veicolo viene spedito da uno Stato membro in un altro, a decorrere dall'accettazione della consegna da parte dell'acquirente e per un periodo di trenta giorni, anche se il veicolo non è stato formalmente immatricolato nello Stato membro di destinazione; 
  
 
- 4-ter) lo Stato di cui alla lettera bbb) in cui si è verificato il sinistro qualora il veicolo sia privo di targa o rechi una targa che non corrisponde più allo stesso veicolo. ))
+ 4-ter) lo Stato di cui alla lettera bbb) in cui si è verificato il sinistro qualora il veicolo sia privo di targa o rechi una targa che non corrisponde più allo stesso veicolo. 
  
 
  
+ 
 
  
- ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa che assume l'obbligazione o il rischio; 
+ ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale 
+ (( dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione ))
+
+ ; 
  
 
  
