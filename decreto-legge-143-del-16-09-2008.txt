@@ -60,19 +60,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  "Art. 1. (Trasferimento d'ufficio). - 1. Ai fini della presente legge, per trasferimento d'ufficio si intende ogni tramutamento dalla sede di servizio per il quale non sia stata proposta domanda dal magistrato, ancorchè egli abbia manifestato il consenso o la disponibilità, e che determini lo spostamento in una delle sedi disagiate di cui al comma 2, comportando una distanza superiore ai 100 chilometri dalla sede ove il magistrato presta servizio. La presente legge non si applica alle assegnazioni di sede dei magistrati al termine del tirocinio, ai trasferimenti di cui all'articolo 2, secondo comma, del regio decreto legislativo 31 maggio 1946, n. 511, e successive modificazioni, e ai trasferimenti di cui all'articolo 13 del decreto legislativo 23 febbraio 2006, n. 109.
  
 
- 2. Per sede disagiata si intende l'ufficio giudiziario per il quale ricorrono congiuntamente i seguenti requisiti:
+ 
+ 
+ ((2. Per sede disagiata si intende l'ufficio giudiziario per il quale ricorrono congiuntamente i seguenti requisiti:
  
 
- a) mancata copertura del posto messo a concorso nell'ultima pubblicazione;
+ a) mancata copertura dei posti messi a concorso nell'ultima pubblicazione;
  
 
- b) quota di posti vacanti superiore alla media nazionale della scopertura.
+ b) quota di posti vacanti non inferiore al 20 per cento dell'organico.))
+ 
+
  
 
  3. Il Consiglio superiore della magistratura, con delibera, su proposta del Ministro della giustizia, individua annualmente le sedi disagiate, in numero non superiore a sessanta, ed indica tra le stesse le sedi a copertura immediata, in misura non superiore a dieci, individuate tra quelle rimaste vacanti per difetto di aspiranti dopo due successive pubblicazioni.
  
 
- 4. Alle sedi disagiate possono essere destinati d'ufficio magistrati provenienti da sedi non disagiate, che abbiano conseguito almeno la prima valutazione di professionalità, in numero non superiore a cento unità.
+ 4. Alle sedi disagiate possono essere destinati d'ufficio magistrati provenienti da sedi non disagiate, che abbiano conseguito almeno la prima valutazione di professionalità, in numero non superiore a cento unità. 
+ ((Il termine previsto dall'articolo 194 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, non opera per i tramutamenti nelle sedi disagiate di cui al comma 2.))
+
  
 
  5. Il Consiglio superiore della magistratura, accertati il consenso o la disponibilità dei magistrati, delibera con priorità in ordine al trasferimento d'ufficio nelle sedi disagiate.";
@@ -186,10 +192,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. La disposizione di cui all'articolo 5, comma 2, della legge 4 maggio 1998, n. 133, nel testo antecedente alle modifiche apportate dalla lettera e) del comma 1, continua a trovare applicazione nei confronti dei magistrati i quali, alla data di entrata in vigore del presente decreto, sono già stati trasferiti, assegnati o destinati a sedi disagiate, ma il diritto di essere preferiti a tutti gli altri aspiranti opera limitatamente al 50 per cento dei posti, di pari grado, messi a concorso nell'ambito di ciascun ufficio. Nel caso in cui i posti messi a concorso siano di numero dispari, il diritto di preferenza non opera, altresì, in relazione al posto eccedente il 50 per cento.
- 
+ 5. La disposizione di cui all'articolo 5, comma 2, della legge 4 maggio 1998, n. 133, nel testo antecedente alle modifiche apportate dalla lettera e) del comma 1, continua a trovare applicazione nei confronti dei magistrati i quali, alla data di entrata in vigore del presente decreto, sono già stati trasferiti, assegnati o destinati a sedi disagiate, ma il diritto di essere preferiti a tutti gli altri aspiranti opera limitatamente al 50 per cento dei posti, di pari grado, messi a concorso nell'ambito di ciascun ufficio. 
+ (( Nel caso in cui i posti messi a concorso siano di numero dispari, il diritto di essere preferiti a tutti gli altri aspiranti opera, altresì, in relazione al posto eccedente il 50 per cento. Nel caso in cui siano messi a concorso uno o due posti, il diritto di essere preferiti a tutti gli altri aspiranti opera per tutti i posti. ))
 
- 
  
  
 
@@ -211,3 +216,20 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  8. Al terzo comma dell'articolo 192 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, il secondo periodo è soppresso.
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 8-bis. L'articolo 36 del decreto legislativo 5 aprile 2006, n. 160, come modificato dall'articolo 2, comma 8, della legge 30 luglio 2007, n. 111, è abrogato.
+ 
+
+ 
+ ))
