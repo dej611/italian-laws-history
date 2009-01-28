@@ -48,7 +48,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Per fronteggiare gli aumenti repentini dei prezzi di alcuni materiali da costruzione verificatisi nell'anno 2008, in deroga a quanto previsto dall'articolo 133, commi 4, 5, 6 e 6-bis, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, il Ministero delle infrastrutture e dei trasporti rileva entro il 31 gennaio 2009, con proprio decreto, le variazioni percentuali su base annuale, in aumento o in diminuzione, superiori all'otto per cento, relative all'anno 2008, dei singoli prezzi dei materiali da costruzione più significativi.
+ 1. Per fronteggiare gli aumenti repentini dei prezzi di alcuni materiali da costruzione verificatisi nell'anno 2008, in deroga a quanto previsto dall'articolo 133, commi 4, 5, 6 e 6-bis, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, il Ministero delle infrastrutture e dei trasporti rileva entro il 31 gennaio 2009, con proprio decreto, le variazioni percentuali 
+ ((su base semestrale))
+
+ , in aumento o in diminuzione, superiori all'otto per cento, relative all'anno 2008, dei singoli prezzi dei materiali da costruzione più significativi. 
  
 
  
@@ -56,7 +59,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per i materiali da costruzione di cui al comma 1, si fa luogo a compensazioni, in aumento o in diminuzione, nei limiti di cui ai commi 8, 9 e 10.
+ 2. Per i materiali da costruzione di cui al comma 1, si fa luogo a compensazioni, in aumento o in diminuzione, nei limiti di cui ai commi 8, 9 e 10. 
  
 
  
@@ -64,18 +67,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. La compensazione è determinata applicando la percentuale di variazione che eccede l'otto per cento al prezzo dei singoli materiali da costruzione di cui al comma 1, impiegati nelle lavorazioni eseguite e contabilizzate nell'anno 2008, nelle quantità accertate dal direttore dei lavori.
+ 
+ ((
  
 
  
+ 3. La compensazione è determinata applicando alle quantità dei singoli materiali impiegati nelle lavorazioni eseguite e contabilizzate dal direttore dei lavori nell'anno 2008 le variazioni in aumento o in diminuzione dei relativi prezzi rilevate dal decreto ministeriale di cui al comma 1 con riferimento alla data dell'offerta, eccedenti l'8 per cento se riferite esclusivamente all'anno 2008 ed eccedenti il 10 per cento complessivo se riferite a più anni.
  
+
+ 
+ ))
+ 
+
  
 
  
  4. Per variazioni in aumento, a pena di decadenza, l'appaltatore presenta alla stazione appaltante l'istanza di compensazione entro trenta giorni dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto ministeriale di cui al comma 1.
  
 
- Per variazioni in diminuzione, la procedura è avviata d'ufficio dalla stazione appaltante, entro trenta giorni dalla predetta data; il responsabile del procedimento accerta con proprio provvedimento il credito della stazione appaltante e procede ad eventuali recuperi.
+ Per variazioni in diminuzione, la procedura è avviata d'ufficio dalla stazione appaltante, entro trenta giorni dalla predetta data; il responsabile del procedimento accerta con proprio provvedimento il credito della stazione appaltante e procede ad eventuali recuperi. 
  
 
  
@@ -83,7 +93,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Per variazioni in aumento, le disposizioni di cui ai commi 2, 3 e 4 non si applicano qualora il responsabile del procedimento abbia accertato, rispetto al cronoprogramma, un ritardo nell'andamento dei lavori addebitabile all'appaltatore.
+ 
+ ((
+ 
+
+ 
+ 5. Per gli adeguamenti dei prezzi in aumento, qualora il collaudatore, in caso di collaudo in corso d'opera, ovvero il responsabile del procedimento, riscontri, rispetto al cronoprogramma, un ritardo nell'andamento dei lavori addebitabile all'impresa esecutrice, l'applicazione delle disposizioni di cui ai commi 2, 3 e 4 è subordinata alla costituzione, da parte dell'appaltatore, di garanzia fideiussoria bancaria o assicurativa pari all'importo dell'adeguamento. La garanzia è escussa nel caso di mancata restituzione delle somme indebitamente corrisposte, laddove l'imputabilità del ritardo all'impresa risulti definitivamente accertata dal collaudatore ovvero dal responsabile del procedimento.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 6. Le disposizioni dei commi da 2 a 5 non si applicano per i materiali da costruzione oggetto di pagamento ai sensi dell'articolo 133, comma 1-bis, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni. 
  
 
  
@@ -91,7 +116,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Le disposizioni dei commi da 2 a 5 non si applicano per i materiali da costruzione oggetto di pagamento ai sensi dell'articolo 133, comma 1-bis, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.
+ 
+ ((
+ 
+
+ 
+ 7. Per le lavorazioni eseguite e contabilizzate negli anni precedenti l'anno 2008, restano ferme le variazioni rilevate dai decreti ministeriali adottati ai sensi dell'articolo 133, comma 6, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 8. Alle compensazioni si fa fronte nei limiti delle risorse e con le modalità indicate all'articolo 133, comma 7, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni. 
  
 
  
@@ -99,7 +139,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Per le variazioni percentuali, in aumento o in diminuzione, dei singoli prezzi dei materiali da costruzione più significativi, precedenti all'anno 2008, già rilevate dai decreti ministeriali adottati ai sensi dell'articolo 133, comma 6, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, continua ad applicarsi la disciplina di cui al medesimo articolo 133, commi 4 e 5.
+ 9. In caso di insufficienza delle risorse di cui al comma 8, le compensazioni in aumento sono riconosciute dalle amministrazioni aggiudicatrici nei limiti della rimodulazione dei lavori e delle relative risorse presenti nell'elenco annuale di cui all'articolo 128 del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni. A tale fine le amministrazioni aggiudicatrici provvedono ad aggiornare gli elenchi annuali a decorrere dalla programmazione triennale 2009-2011. 
  
 
  
@@ -107,7 +147,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. Alle compensazioni si fa fronte nei limiti delle risorse e con le modalità indicate all'articolo 133, comma 7, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.
+ 10. Per i soggetti tenuti all'applicazione del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, ad esclusione dei soggetti di cui all'articolo 142, comma 4, del citato decreto legislativo n. 163 del 2006 per i lavori realizzati ovvero affidati dagli stessi, in caso di insufficienza delle risorse di cui ai commi 8 e 9, alla copertura degli oneri si provvede, fino alla concorrenza dell'importo di 300 milioni di euro, 
+ ((che costituisce tetto massimo di spesa,))
+
+ con le modalità di cui al comma 11. 
  
 
  
@@ -115,7 +158,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 9. In caso di insufficienza delle risorse di cui al comma 8, le compensazioni in aumento sono riconosciute dalle amministrazioni aggiudicatrici nei limiti della rimodulazione dei lavori e delle relative risorse presenti nell'elenco annuale di cui all'articolo 128 del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni. A tale fine le amministrazioni aggiudicatrici provvedono ad aggiornare gli elenchi annuali a decorrere dalla programmazione triennale 2009-2011.
+ 
+ ((
+ 
+
+ 
+ 10-bis. Nell'ambito delle risorse di cui al comma 10, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sono definite misure volte a compensare gli effetti derivanti dalla riduzione dei prezzi dei materiali da costruzione provenienti dal riciclo del legno e della plastica. 
  
 
  
@@ -123,7 +171,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 10. Per i soggetti tenuti all'applicazione del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, ad esclusione dei soggetti di cui all'articolo 142, comma 4, del citato decreto legislativo n. 163 del 2006 per i lavori realizzati ovvero affidati dagli stessi, in caso di insufficienza delle risorse di cui ai commi 8 e 9, alla copertura degli oneri si provvede, fino alla concorrenza dell'importo di 300 milioni di euro, con le modalità di cui al comma 11.
+ 10-ter. Ai fini della applicazione della disciplina di cui al decreto legislativo 12 aprile 2006, n.163, non rientrano negli elenchi degli organismi e delle categorie di organismi di diritto pubblico gli enti di cui al decreto legislativo 17 maggio 1999, n. 153, e gli enti trasformati in associazioni o in fondazioni, sotto la condizione di non usufruire di finanziamenti pubblici o altri ausili pubblici di carattere finanziario, di cui all'articolo 1 del decreto legislativo 30 giugno 1994, n.509, e di cui al decreto legislativo 10 febbraio 1996, n.103, fatte salve le misure di pubblicità sugli appalti di lavori, servizi e forniture. 
  
 
  
@@ -131,4 +179,61 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 11. Per le finalità di cui al comma 10, nello stato di previsione del Ministero delle infrastrutture e dei trasporti è istituito un Fondo per l'adeguamento prezzi con una dotazione di 300 milioni di euro per l'anno 2009. Al relativo onere si provvede mediante riduzione dell'autorizzazione di spesa di cui all'articolo 61, comma 1, della legge 27 dicembre 2002, n. 289, relativa al Fondo per le aree sottoutilizzate, per un importo di 900 milioni di euro per l'anno 2009, al fine di compensare gli effetti sui saldi di finanza pubblica. Il fondo di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, è contestualmente incrementato, in termini di sola cassa, di 300 milioni di euro per ciascuno degli anni 2010 e 2011. Con decreto del Ministro delle infrastrutture e dei trasporti sono stabilite le modalità di utilizzo del Fondo per l'adeguamento prezzi, garantendo la parità di accesso per la piccola, media e grande impresa di costruzione, nonchè la proporzionalità, per gli aventi diritto, nell'assegnazione delle risorse.
+ 
+ 
+ 10-quater. Allo scopo di fronteggiare la crisi nel settore delle opere pubbliche e al fine di incentivare la progettualità delle amministrazioni aggiudicatrici: 
+ 
+
+ 
+ 
+
+ 
+ a) all'articolo 92, comma 5, del decreto legislativo 12 aprile 2006, n.163, il quarto periodo è sostituito dal seguente: "La corresponsione dell'incentivo è disposta dal dirigente preposto alla struttura competente, previo accertamento positivo delle specifiche attività svolte dai predetti dipendenti; limitatamente alle attività di progettazione, l'incentivo corrisposto al singolo dipendente non può superare l'importo del rispettivo trattamento economico complessivo annuo lordo; le quote parti dell'incentivo corrispondenti a prestazioni non svolte dai medesimi dipendenti, in quanto affidate a personale esterno all'organico dell'amministrazione medesima, ovvero prive del predetto accertamento, costituiscono economie."; 
+ 
+
+ 
+ 
+
+ 
+ b) il comma 8 dell'articolo 61 del decreto-legge 25 giugno 2008, n.112, convertito, con modificazioni, dalla legge 6 agosto 2008, n.133, è abrogato. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 10-quinquies. Allo scopo di fronteggiare la crisi nel settore delle opere pubbliche e al fine di semplificare le procedure d'appalto per i lavori sotto soglia, all'articolo 122 del decreto legislativo 12 aprile 2006, n.163, e successive modificazioni, dopo il comma 7 è inserito il seguente: 
+ 
+
+ "7-bis. I lavori di importo complessivo pari o superiore a 100.000 euro e inferiore a 500.000 euro possono essere affidati dalle stazioni appaltanti, a cura del responsabile del procedimento, nel rispetto dei principi di non discriminazione, parità di trattamento, proporzionalità e trasparenza, e secondo la procedura prevista dall'articolo 57, comma 6; l'invito è rivolto ad almeno cinque soggetti, se sussistono aspiranti idonei in tale numero."
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 11. Per le finalità di cui al comma 10, nello stato di previsione del Ministero delle infrastrutture e dei trasporti è istituito un Fondo per l'adeguamento prezzi con una dotazione di 300 milioni di euro per l'anno 2009. Al relativo onere si provvede mediante riduzione dell'autorizzazione di spesa di cui all'articolo 61, comma 1, della legge 27 dicembre 2002, n. 289, relativa al Fondo per le aree sottoutilizzate, per un importo di 900 milioni di euro per l'anno 2009, al fine di compensare gli effetti sui saldi di finanza pubblica. Il fondo di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, è contestualmente incrementato, in termini di sola cassa, di 300 milioni di euro per ciascuno degli anni 2010 e 2011. Con decreto del Ministro delle infrastrutture e dei trasporti sono stabilite le modalità di utilizzo del Fondo per l'adeguamento prezzi, garantendo la parità di accesso per la piccola, media e grande impresa di costruzione, nonchè la proporzionalità, per gli aventi diritto, nell'assegnazione delle risorse. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 11-bis. Le disposizioni dei commi da 1 a 6, da 8 a 10 e 11 si applicano anche ai contratti di lavori affidati nei settori speciali di cui alla parte III del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, ad esclusione degli affidamenti per i quali sia già previsto contrattualmente un meccanismo di adeguamento dei prezzi. Per le lavorazioni eseguite e contabilizzate negli anni precedenti l'anno 2008, resta fermo quanto contrattualmente previsto.
+ 
+
+ 
+ ))

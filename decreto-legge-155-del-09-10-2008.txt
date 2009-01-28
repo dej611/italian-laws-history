@@ -1,13 +1,4 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
- 
- 
- 
- Visti gli articoli 77 e 87 della Costituzione;
-
- 
- 
- 
+Visti gli articoli 77 e 87 della Costituzione;
 
  
  
@@ -73,17 +64,25 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il Ministero dell'economia e delle finanze è autorizzato, anche in deroga alle norme di contabilità di Stato, a sottoscrivere o garantire aumenti di capitale deliberati da banche italiane che presentano una situazione di inadeguatezza patrimoniale accertata dalla Banca d'Italia. Tale sottoscrizione può essere effettuata a condizione che l'aumento di capitale non sia stato ancora perfezionato, alla data di entrata in vigore del presente decreto, e che vi sia un programma di stabilizzazione e rafforzamento della banca interessata della durata minima di 36 mesi.
+ 1. 
+ ((Fino al 31 dicembre 2009,))
+
+ il Ministero dell'economia e delle finanze è autorizzato 
+ ((. . .))
+
+ a sottoscrivere o garantire aumenti di capitale deliberati da banche italiane che presentano una situazione di inadeguatezza patrimoniale accertata dalla Banca d'Italia. Tale sottoscrizione può essere effettuata a condizione che l'aumento di capitale non sia stato ancora perfezionato, alla data di entrata in vigore del presente decreto, e che vi sia un programma di stabilizzazione e rafforzamento della banca interessata della durata minima di 36 mesi. 
+ ((Le operazioni di cui al presente articolo sono effettuate tenendo conto delle condizioni di mercato. Le predette operazioni possono essere effettuate, alle stesse condizioni e con gli stessi presupposti, anche con riferimento ad aumenti di capitale di società capogruppo di gruppi bancari italiani.))
+
+ 
  
 
  
  
  
+ 2. 
+ ((La sottoscrizione e la prestazione di garanzia di cui al comma 1 sono effettuate))
 
- 
- 
- 
- 2. La sottoscrizione è effettuata sulla base della valutazione da parte della Banca d'Italia dei seguenti elementi:
+ sulla base della valutazione da parte della Banca d'Italia dei seguenti elementi:
  
 
  
@@ -105,11 +104,33 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Le azioni detenute dal Ministero dell'economia e delle finanze, dalla data di sottoscrizione fino alla data di eventuale cessione, sono privilegiate nella distribuzione dei dividendi rispetto a tutte le altre categorie di azioni.
+ 
+ 
+ 3. Le azioni detenute dal Ministero dell'economia e delle finanze, dalla data di sottoscrizione fino alla data di eventuale cessione ((:
  
 
  
  
+
+ a) sono prive del diritto di voto;
+
+ b) sono privilegiate nella distribuzione dei dividendi rispetto a tutte le altre categorie di azioni;
+
+ c) non sono computate nel limite di cui all'articolo 2351, secondo comma, ultimo periodo, del codice civile;
+
+ 
+ d) sono riscattabili da parte dell'emittente a condizione che la Banca d'Italia attesti che l'operazione non pregiudica le condizioni finanziarie e di solvibilità della banca, nè del gruppo bancario di appartenenza.
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 3-bis. Con i decreti di cui all'articolo 5 sono definite, secondo criteri omogenei, le modalità con cui il Ministro dell'economia e delle finanze esercita, in qualità di azionista, gli ulteriori diritti connessi alle azioni di cui al comma 3 del presente articolo.
  
 
  
@@ -121,15 +142,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Alle partecipazioni acquisite dal Ministero dell'economia e delle finanze ai sensi del presente articolo, non si applicano le limitazioni alla partecipazione al capitale di cui al capo V del titolo II del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni. La qualità di socio di banca popolare è acquisita dalla data di sottoscrizione delle azioni. Fino alla data di cessione delle azioni sottoscritte dal Ministero dell'economia e delle finanze, nelle banche partecipate non si applicano le disposizioni speciali in materia di esercizio del diritto di voto proprie delle società cooperative.
- 
+ 5. Alle partecipazioni acquisite dal Ministero dell'economia e delle finanze ai sensi del presente articolo, non si applicano le limitazioni alla partecipazione al capitale di cui al capo V del titolo II del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni. La qualità di socio di banca popolare è acquisita dalla data di sottoscrizione delle azioni. 
+ ((PERIODO SOPPRESSO DALLA L. 4 DICEMBRE 2008, N. 190.))
 
  
  
- 
 
  
- 6. Non si applicano al Ministero dell'economia e delle finanze le disposizioni degli articoli 106, comma 1, e 109, comma 1, del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni.
+ 6. 
+ ((Alle partecipazioni acquisite dal Ministero dell'economia e delle finanze ai sensi del presente articolo non si applicano))
+
+ le disposizioni degli articoli 106, comma 1, e 109, comma 1, del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni.
  
 
  
@@ -158,6 +181,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 7-bis. Gli schemi dei decreti del Presidente del Consiglio dei Ministri di cui al comma 7, corredati di relazione tecnica, sono trasmessi alle Camere per l'espressione del parere delle Commissioni competenti per i profili di carattere finanziario. I pareri sono espressi entro quindici giorni dalla data di trasmissione. Il Governo, ove non intenda conformarsi alle condizioni formulate con riferimento ai profili finanziari, ritrasmette alle Camere gli schemi di decreto, corredati dei necessari elementi integrativi di informazione, per i pareri definitivi delle Commissioni competenti per i profili finanziari, da esprimere entro dieci giorni dalla data di trasmissione. Decorsi inutilmente i termini per l'espressione dei pareri, i decreti possono essere comunque adottati.
+ 
+
+ 
+ ))
  
 
  
