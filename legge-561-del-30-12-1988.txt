@@ -42,24 +42,28 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  c) cinque componenti eletti dai magistrati militari, di cui almeno uno magistrato militare di cassazione; 
- 
-
- 
- 
-
- 
- d) due componenti estranei alla magistratura militare, scelti d'intesa tra i Presidenti delle due Camere fra professori ordinari di università in materie giuridiche e avvocati con almeno quindici anni di esercizio professionale; uno di essi è eletto dal Consiglio vice presidente; i due componenti estranei alla magistratura militare non possono esercitare attività professionale suscettibile di interferire con le funzioni della magistratura militare nè possono esercitare attività professionale nell'interesse o per conto, ovvero contro l'amministrazione militare. 
- 
-
- 
- 
+ ((1))
 
  
 
  
+ d) due componenti estranei alla magistratura militare, scelti d'intesa tra i Presidenti delle due Camere fra professori ordinari di università in materie giuridiche e avvocati con almeno quindici anni di esercizio professionale; 
+ (( . . . ))
+
+ i due componenti estranei alla magistratura militare non possono esercitare attività professionale suscettibile di interferire con le funzioni della magistratura militare nè possono esercitare attività professionale nell'interesse o per conto, ovvero contro l'amministrazione militare. 
+ ((1))
 
  
- 2. Presso il Consiglio della magistratura militare è costituito un comitato di presidenza composto dal primo presidente della Corte di cassazione, che lo presiede, dal componente di cui alla lettera d) del comma 1 eletto vice presidente e dal procuratore generale militare presso la Corte di cassazione. Il comitato promuove l'attività e l'attuazione delle deliberazioni del Consiglio. 
+
+ 
+
+ 
+
+ 
+ 2. Presso il Consiglio della magistratura militare è costituito un comitato di presidenza composto dal primo presidente della Corte di cassazione, che lo presiede, dal componente di cui alla lettera d) del comma 1 
+ (( . . . ))
+
+ vice presidente e dal procuratore generale militare presso la Corte di cassazione. Il comitato promuove l'attività e l'attuazione delle deliberazioni del Consiglio. 
  
 
  
@@ -67,7 +71,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 3. Il Consiglio ha, per i magistrati militari, le stesse attribuzioni previste per il Consiglio superiore della magistratura, ivi comprese quelle concernenti i procedimenti disciplinari, sostituiti al Ministro di grazia e giustizia e al procuratore generale presso la Corte di cassazione, rispettivamente, il Ministro della difesa e il procuratore generale militare presso la Corte di cassazione. Il procedimento disciplinare nei confronti dei magistrati militari è regolato dalle norme in vigore per i magistrati ordinari. 
+ 3. Il Consiglio ha, per i magistrati militari, le stesse attribuzioni previste per il Consiglio superiore della magistratura, ivi comprese quelle concernenti i procedimenti disciplinari, sostituiti al Ministro di grazia e giustizia e al procuratore generale presso la Corte di cassazione, rispettivamente, il Ministro della difesa e il procuratore generale militare presso la Corte di cassazione. Il procedimento disciplinare nei confronti dei magistrati militari è regolato dalle norme in vigore per i magistrati ordinari.
  
 
  Il procuratore generale militare presso la Corte di cassazione esercita le funzioni di pubblico ministero e non partecipa alle deliberazioni. 
@@ -78,7 +82,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 4. Le deliberazioni del Consiglio sono adottate a maggioranza e per la loro validità è necessaria la presenza di almeno sei componenti, di cui tre elettivi. A parità di voti prevale il voto del presidente. 
+ 4. Le deliberazioni del Consiglio sono adottate a maggioranza e per la loro validità è necessaria la presenza di almeno 
+ ((cinque componenti, di cui tre elettivi ))
+
+ . A parità di voti prevale il voto del presidente. 
  
 
  
@@ -118,27 +125,20 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
+
+ ---------------
  
 
  
-
- 
- AVVERTENZA:
  
 
- Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
  
 
- Note all'art. 1:
+ 
  
 
- - La legge n. 195/1958 reca: "Norme sulla costituzione e sul funzionamento del Consiglio superiore della Magistratura".
+ AGGIORNAMENTO (1) 
  
 
- - Il testo dell'art. 7 della legge n. 180/1981 (Modifiche all'ordinamento giudiziario militare di pace), abrogato dall'art. 1, comma 7, della presente legge, era il seguente:
- 
-
- "Art. 7 (Poteri di sorveglianza sui magistrati militari). - Il presidente della corte militare d'appello esercita la sorveglianza sui magistrati militari con funzioni giudicanti.
- 
-
- Il procuratore generale militare presso la Corte di cassazione esercita la sorveglianza sui magistrati militari del pubblico ministero".
+ La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 2, comma 604) che " 604. Per le stesse finalità di cui al comma 603, a decorrere dalle prime elezioni per il rinnovo del Consiglio della magistratura militare che si terranno dopo l'entrata in vigore della presente legge, i componenti del Consiglio previsti all'articolo 1, comma 1, lettere c) e d), della legge 30 dicembre 1988, n. 561, sono ridotti, rispettivamente, da cinque a quattro, di cui almeno uno con funzioni di cassazione, e da due ad uno, che assume le funzioni di vice presidente del Consiglio."
