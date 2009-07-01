@@ -90,7 +90,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. In caso di acquisto di un motociclo fino a 400 cc di cilindrata nuovo di categoria "euro 3" con contestuale rottamazione di un motociclo o di un ciclomotore di categoria "euro 0" o "euro 1", realizzata attraverso la demolizione con le modalità indicate al comma 233 dell'articolo 1 della legge 27 dicembre 2006, n. 296, è concesso un contributo di euro 500.
+ 5. In caso di acquisto di un motociclo fino a 400 cc di cilindrata 
+ (( ovvero non superiore a 60 kW ))
+
+ nuovo di categoria "euro 3" con contestuale rottamazione di un motociclo o di un ciclomotore di categoria "euro 0" o "euro 1", realizzata attraverso la demolizione con le modalità indicate al comma 233 dell'articolo 1 della legge 27 dicembre 2006, n. 296, è concesso un contributo di euro 500.
  
 
  
@@ -106,7 +109,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. A decorrere dal 7 febbraio 2009, la misura dell'incentivo di cui all'articolo 29, comma 9, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, è rideterminata nella misura di euro 500 per le installazioni degli impianti a GPL e di euro 650 per le installazioni degli impianti a metano, nei limiti della disponibilità prevista dal comma 59 dell'articolo 2 del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, come ulteriormente incrementata dal comma 8 dell'articolo 29 del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31.
+ 7. A decorrere dal 7 febbraio 2009, la misura dell'incentivo di cui all'articolo 29, comma 9, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, è rideterminata nella misura di euro 500 per le installazioni degli impianti a GPL e di euro 650 per le installazioni degli impianti a metano, 
+ (( sugli autoveicoli di categoria "euro 0", "euro 1" ed "euro 2", ))
+
+ nei limiti della disponibilità prevista dal comma 59 dell'articolo 2 del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, come ulteriormente incrementata dal comma 8 dell'articolo 29 del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31.
  
 
  
@@ -127,6 +133,50 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 9-bis. La lettera c) del comma 230 dell'articolo 1 della legge 27 dicembre 2006, n. 296, è sostituita dalla seguente:
+ 
+
+ "c) copia del documento di presa in carico da parte del centro autorizzato per la demolizione".
+ 
+
+ 
+ 
+ 
+
+ 
+ 9-ter. Il comma 232 dell'articolo 1 della legge 27 dicembre 2006, n. 296, è sostituito dal seguente:
+ 
+
+ "232. Fino al 31 dicembre del quinto anno successivo a quello in cui è stata emessa la fattura di vendita, le imprese costruttrici o importatrici conservano, anche su supporto elettronico, la seguente documentazione, che deve essere ad esse trasmessa dal venditore:
+ 
+
+ a) copia della fattura di vendita, del contratto di acquisto e della domanda di immatricolazione o della carta provvisoria di circolazione;
+ 
+
+ b) copia del libretto o della carta di circolazione e del foglio complementare o del certificato di proprietà del veicolo usato;
+ 
+
+ in caso di mancanza, copia dell'estratto cronologico;
+ 
+
+ c) copia della domanda di cancellazione per demolizione e copia del documento di presa in carico da parte del centro autorizzato per la demolizione;
+ 
+
+ d) copia dello stato di famiglia nel caso in cui il veicolo demolito sia intestato a familiare convivente". 
+ 
+
+ 
+ ))
+ 
+
  
 
  
