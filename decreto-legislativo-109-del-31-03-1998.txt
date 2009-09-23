@@ -66,10 +66,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Fermo restando il diritto ad usufruire delle prestazioni e dei servizi assicurati a tutti dalla Costituzione e dalle altre disposizioni vigenti, il presente decreto individua, in via sperimentale, criteri unificati di valutazione della situazione economica di coloro che richiedono prestazioni o servizi sociali o assistenziali non destinati alla generalità dei soggetti o comunque collegati nella misura o nel costo a determinate situazioni economiche. Ai fini di tale sperimentazione le disposizioni del presente decreto si applicano alle prestazioni o servizi sociali e assistenziali, con esclusione della integrazione al minimo, della maggiorazione sociale delle pensioni, dell'assegno e della pensione sociale e di ogni altra prestazione previdenziale, nonchè della pensione e assegno di invalidità civile e delle indennità di accompagnamento e assimilate.
- ((In ogni caso, ciascun ente erogatore di prestazioni sociali agevolate utilizza le modalità di raccolta delle informazioni di cui al successivo articolo 4))
-
- . 
+ 1. Fermo restando il diritto ad usufruire delle prestazioni e dei servizi assicurati a tutti dalla Costituzione e dalle altre disposizioni vigenti, il presente decreto individua, in via sperimentale, criteri unificati di valutazione della situazione economica di coloro che richiedono prestazioni o servizi sociali o assistenziali non destinati alla generalità dei soggetti o comunque collegati nella misura o nel costo a determinate situazioni economiche. Ai fini di tale sperimentazione le disposizioni del presente decreto si applicano alle prestazioni o servizi sociali e assistenziali, con esclusione della integrazione al minimo, della maggiorazione sociale delle pensioni, dell'assegno e della pensione sociale e di ogni altra prestazione previdenziale, nonchè della pensione e assegno di invalidità civile e delle indennità di accompagnamento e assimilate. In ogni caso, ciascun ente erogatore di prestazioni sociali agevolate utilizza le modalità di raccolta delle informazioni di cui al successivo articolo 4. 
  
 
  
@@ -81,10 +78,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. 
- ((Gli enti erogatori possono altresì differire l'attuazione della disciplina non oltre centottanta giorni dall'entrata in vigore delle disposizioni del decreto di cui all'articolo 2, comma 3. Entro la medesima data l'I.N.P.S. predispone e rende operativo il sistema informativo di cui all'articolo 4-bis))
-
- . 
+ 3. Gli enti erogatori possono altresì differire l'attuazione della disciplina non oltre centottanta giorni dall'entrata in vigore delle disposizioni del decreto di cui all'articolo 2, comma 3. Entro la medesima data l'I.N.P.S. predispone e rende operativo il sistema informativo di cui all'articolo 4-bis. 
  
 
  3. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro delle finanze, di concerto con il Ministro per la solidarietà sociale, il Ministro dell'interno, il Ministro del tesoro, del bilancio e della programmazione economica ed il Ministro del lavoro e della previdenza sociale, sono individuate le modalità attuative, anche con riferimento agli ambiti di applicazione, del presente decreto. è fatto salvo quanto previsto dall'articolo 59, comma 50, della legge 27 dicembre 1997, n. 449. 
@@ -92,4 +86,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- ((3-bis. Nell'ambito della normativa vigente in materia di regolazione dei servizi di pubblica utilità, le autorità e le amministrazioni pubbliche competenti possono utilizzare l'indicatore della situazione economica equivalente calcolato dall'I.N.P.S. ai sensi del presente decreto per la eventuale definizione di condizioni agevolate di accesso ai servizi di rispettiva competenza))
+ 
+
+ 
+ 3-bis. Nell'ambito della normativa vigente in materia di regolazione dei servizi di pubblica utilità, le autorità e le amministrazioni pubbliche competenti possono utilizzare l'indicatore della situazione economica equivalente 
+ ((risultante al Sistema informativo dell'indicatore della situazione economica equivalente gestito dall'I.N.P.S.))
+
+ ai sensi del presente decreto per la eventuale definizione di condizioni agevolate di accesso ai servizi di rispettiva competenza.
