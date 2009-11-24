@@ -67,7 +67,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) all'articolo 5, il comma 15 è sostituito dal seguente:
  
 
- "15. Le imprese esercenti attività di autoriparazione, di cui alla legge 5 febbraio 1992, n. 122, e successive modificazioni, devono consegnare, ove ciò sia tecnicamente fattibile, ad un centro di raccolta di cui all'articolo 5, comma 3, direttamente, qualora iscritti all'Albo nazionale dei gestori ambientali, ovvero avvalendosi di un operatore autorizzato alla raccolta ed al trasporto di rifiuti, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelle per cui è previsto dalla legge un consorzio obbligatorio di raccolta.";
+ "15. Le imprese esercenti attività di autoriparazione, di cui alla legge 5 febbraio 1992, n. 122, e successive modificazioni, devono consegnare, ove ciò sia tecnicamente fattibile, ad un centro di raccolta di cui 
+ (( al ))
+
+ comma 3, direttamente, qualora iscritti all'Albo nazionale dei gestori ambientali, ovvero avvalendosi di un operatore autorizzato alla raccolta ed al trasporto di rifiuti, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelle per cui è previsto dalla legge un consorzio obbligatorio di raccolta.";
  
 
  
