@@ -55,7 +55,7 @@ VITTORIO EMANUELE III
  
  
 
- Gli allievi degli Istituti dell'Opera nazionale per i figli degli aviatori, semprechè idonei al servizio militare, anche limitatamente, debbono contrarre, per la Continuazione degli studi, appena raggiunto il 17° anno di età, arruolamento volontario nella Regia aeronautica, assumendo una delle ferme previste dal R. decreto-legge 3 febbraio 1938-XVI, n. 744, sul reclutamento dei sottufficiali e militari di truppa, in relazione alla durata degli studi che debbono ancora compiere all'atto dell'arruolamento stesso. 
+ Gli allievi degli Istituti dell'Opera nazionale per i figli degli aviatori, semprechè idonei al servizio militare, anche limitatamente, debbono contrarre, per la Continuazione degli studi, appena raggiunto il 17&deg; anno di età, arruolamento volontario nella Regia aeronautica, assumendo una delle ferme previste dal R. decreto-legge 3 febbraio 1938-XVI, n. 744, sul reclutamento dei sottufficiali e militari di truppa, in relazione alla durata degli studi che debbono ancora compiere all'atto dell'arruolamento stesso. 
  
 
  
@@ -67,7 +67,10 @@ VITTORIO EMANUELE III
  
  
 
- Coloro che non intendono proseguire nella carriera militare e non siano dichiarati idonei al servizio aero-navigante, possono essere nominati sottotenenti di complemento nel ruolo servizi dell'Arma aeronautica o nel ruolo assistenti tecnici dei Corpo del genio aeronautico, purchè muniti rispettivamente del diploma di maturità classica o scientifica ovvero del diploma di perito tecnico industriale conseguiti come allievi negli Istituti dell'Opera predetta. 
+ 
+ ((Coloro che non intendano proseguire nella carriera militare e non siano dichiarati idonei al servizio aeronavigante, possono essere nominati sottotenenti di complemento nel ruolo serviti dell'Arma aeronautica, purchè siano in possesso di un titolo di studio di scuola media superiore conseguito come allievi negli istituti dell'Opera nazionale per i figli degli aviatori))
+
+ . 
  
 
  
