@@ -36,7 +36,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. All'articolo 4 della legge 3 maggio 1999, n.124, dopo il comma 14 è aggiunto, in fine, il seguente: "14-bis. I contratti a tempo determinato stipulati per il conferimento delle supplenze previste dai commi 1, 2 e 3, in quanto necessari per garantire la costante erogazione del servizio scolastico ed educativo, non possono in alcun caso trasformarsi in rapporti di lavoro a tempo indeterminato e consentire la maturazione di anzianità utile ai fini retributivi prima della immissione in ruolo.".
+ 1. All'articolo 4 della legge 3 maggio 1999, n.124, dopo il comma 14 è aggiunto, in fine, il seguente: "14-bis. I contratti a tempo determinato stipulati per il conferimento delle supplenze previste dai commi 1, 2 e 3, in quanto necessari per garantire la costante erogazione del servizio scolastico ed educativo, 
+ ((possono trasformarsi in rapporti di lavoro a tempo indeterminato solo nel caso di immissione in ruolo, ai sensi delle disposizioni vigenti e sulla base delle graduatorie previste dalla presente legge e dall'articolo 1, comma 605, lettera c), della legge 27 dicembre 2006, n. 296, e successive modificazioni))
+
+ ".
  
 
  
@@ -44,7 +47,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Tenuto conto di quanto previsto dal comma 1 e al fine di assicurare la qualità e la continuità del servizio scolastico ed educativo, per l'anno scolastico 2009-2010 ed in deroga alle disposizioni contenute nella legge 3 maggio 1999, n. 124, e nei regolamenti attuativi relativi al conferimento delle supplenze al personale docente e al personale amministrativo, tecnico ed ausiliario, l'amministrazione scolastica assegna le supplenze per assenza temporanea dei titolari, con precedenza assoluta ed a prescindere dall'inserimento nelle graduatorie di istituto, al personale inserito nelle graduatorie ad esaurimento previste dall'articolo 1, comma 605, lettera c), della legge 27 dicembre 2006, n. 296, e successive modificazioni, ed al personale ATA inserito nelle graduatorie permanenti di cui all'articolo 554 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, di cui al decreto legislativo 16 aprile 1994, n. 297, e nelle graduatorie provinciali ad esaurimento, già destinatario di contratto a tempo determinato, annuale o fino al termine delle attività didattiche, nell'anno scolastico 2008-2009, che non abbia potuto stipulare per l'anno scolastico 2009-2010 la stessa tipologia di contratto per carenza di posti disponibili, non sia destinatario di un contratto a tempo indeterminato e non risulti collocato a riposo.
+ 
+ ((1-bis. In attuazione del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, gli atti di convocazione dei supplenti, ai fini del conferimento delle supplenze, avvengono anche attraverso la casella di posta elettronica certificata))
+ 
+
+ 
+
+ 
+ 2. Tenuto conto di quanto previsto dal comma 1 e al fine di assicurare la qualità e la continuità del servizio scolastico ed educativo, per l'anno scolastico 2009-2010 ed in deroga alle disposizioni contenute nella legge 3 maggio 1999, n. 124, e nei regolamenti attuativi relativi al conferimento delle supplenze al personale docente e al personale amministrativo, tecnico ed ausiliario, l'amministrazione scolastica assegna le supplenze per assenza temporanea dei titolari, con precedenza assoluta ed a prescindere dall'inserimento nelle graduatorie di istituto, al personale inserito nelle graduatorie ad esaurimento previste dall'articolo 1, comma 605, lettera c), della legge 27 dicembre 2006, n. 296, e successive modificazioni, ed al personale ATA inserito nelle graduatorie permanenti di cui all'articolo 554 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, di cui al decreto legislativo 16 aprile 1994, n. 297, e nelle graduatorie provinciali ad esaurimento, già destinatario di contratto a tempo determinato, annuale o fino al termine delle attività didattiche, nell'anno scolastico 2008-2009 
+ ((o che abbia conseguito nel medesimo anno scolastico, attraverso le graduatorie di istituto, una supplenza di almeno centottanta giorni))
+
+ , che non abbia potuto stipulare per l'anno scolastico 2009-2010 la stessa tipologia di contratto per carenza di posti disponibili, non sia destinatario di un contratto a tempo indeterminato e non risulti collocato a riposo.
  
 
  
@@ -52,10 +65,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. L'amministrazione scolastica può promuovere, in collaborazione con le regioni e a valere su risorse finanziarie messe a disposizione dalle regioni medesime, progetti della durata di tre mesi, prorogabili a otto, che prevedano attività di carattere straordinario, anche ai fini dell'adempimento dell'obbligo dell'istruzione, da realizzarsi prioritariamente mediante l'utilizzo dei lavoratori precari della scuola di cui al comma 2, percettori dell'indennità di disoccupazione, 
- ((cui può essere corrisposta un'indennità))
-
- di partecipazione a carico delle risorse messe a disposizione dalle regioni.
+ 3. L'amministrazione scolastica può promuovere, in collaborazione con le regioni e a valere su risorse finanziarie messe a disposizione dalle regioni medesime, progetti della durata di tre mesi, prorogabili a otto, che prevedano attività di carattere straordinario, anche ai fini dell'adempimento dell'obbligo dell'istruzione, da realizzarsi prioritariamente mediante l'utilizzo dei lavoratori precari della scuola di cui al comma 2, percettori dell'indennità di disoccupazione, cui può essere corrisposta un'indennità di partecipazione a carico delle risorse messe a disposizione dalle regioni.
  
 
  
@@ -64,3 +74,150 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  4. Al personale di cui ai commi 2 e 3 è riconosciuta la valutazione dell'intero anno di servizio ai soli fini dell'attribuzione del punteggio nelle graduatorie ad esaurimento previste dall'articolo 1, comma 605, lettera c), della legge 27 dicembre 2006, n. 296, e nelle graduatorie permanenti di cui al citato articolo 554 del decreto legislativo 16 aprile 1994, n. 297.
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 4-bis. Limitatamente all'anno scolastico 2010-2011, il termine di cui all'articolo 4, commi 1 e 2, del decreto-legge 3 luglio 2001, n. 255, convertito, con modificazioni, dalla legge 20 agosto 2001, n. 333, è prorogato al 31 agosto 2010.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-ter. La lettera c) del comma 605 dell'articolo 1 della legge 27 dicembre 2006, n. 296, e successive modificazioni, si interpreta nel senso che nelle operazioni di integrazione e di aggiornamento delle graduatorie permanenti di cui all'articolo 1 del decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, è consentito ai docenti che ne fanno esplicita richiesta, oltre che la permanenza nella provincia prescelta in occasione dell'aggiornamento delle suddette graduatorie per il biennio scolastico 2007-2008 e 2008-2009, di essere inseriti anche nelle graduatorie di altre province dopo l'ultima posizione di III fascia nelle graduatorie medesime. Il decreto con il quale il Ministro dell'istruzione, dell'università e della ricerca dispone l'integrazione e l'aggiornamento delle predette graduatorie per il biennio scolastico 2011-2012 e 2012-2013, in ottemperanza a quanto previsto dall'articolo 1, comma 4, del citato decreto-legge n. 97 del 2004, convertito, con modificazioni, dalla legge n. 143 del 2004, è improntato al principio del riconoscimento del diritto di ciascun candidato al trasferimento dalla provincia prescelta in occasione dell'integrazione e dell'aggiornamento per il biennio scolastico 2007-2008 e 2008-2009 ad un'altra provincia di sua scelta, con il riconoscimento del punteggio e della conseguente posizione nella graduatoria.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-quater. Nelle operazioni di integrazione e di aggiornamento delle graduatorie permanenti di cui all'articolo 1 del decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, trasformate in graduatorie ad esaurimento dal citato articolo 1, comma 605, lettera c), della legge n. 296 del 2006, e successive modificazioni, da disporre con decorrenza dal 1 settembre 2009 per il biennio scolastico 2009-2010 e 2010-2011, non è consentito modificare la scelta già precedentemente effettuata in merito all'attribuzione del punteggio per i servizi prestati in relazione ad una o più specifiche graduatorie.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-quinquies. A decorrere dall'anno scolastico 2010-2011, non è consentita la permanenza nelle graduatorie ad esaurimento dei docenti che hanno già stipulato contratto a tempo indeterminato per qualsiasi tipologia di posti di insegnamento o classi di concorso.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-sexies. Restano validi, secondo quanto già stabilito dall'articolo 36, comma 1-bis, del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, l'abilitazione all'insegnamento e il diploma di specializzazione per il sostegno conseguiti dai docenti ammessi con riserva ai corsi speciali indetti con decreto del Ministro dell'istruzione, dell'università e della ricerca n. 21 del 9 febbraio 2005, ai sensi dell'articolo 2 del decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, purchè in possesso dei prescritti requisiti di servizio alla data di cui al citato articolo 36, comma 1-bis, del decreto-legge n. 207 del 2008, convertito, con modificazioni, dalla legge n. 14 del 2009. I docenti di cui al periodo precedente sono inseriti a pieno titolo nelle graduatorie ad esaurimento.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-septies. A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, l'abilitazione all'insegnamento conseguita dai docenti con contratto a tempo indeterminato, in servizio presso la scuola pubblica, ammessi con riserva ai corsi speciali indetti con i decreti del Ministro dell'istruzione, dell'università e della ricerca n. 21 del 9 febbraio 2005 e n. 85 del 18 novembre 2005, ai sensi dell'articolo 2 del decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, è titolo valido per la partecipazione a tutte le procedure di mobilità professionale previste dalla normativa vigente.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-octies. A decorrere dall'anno scolastico 2009-2010, i docenti e il personale amministrativo, tecnico e ausiliario che si avvalgono o chiedono di avvalersi dei benefici previsti dalla legge 5 febbraio 1992, n. 104, o dalla legge 12 marzo 1999, n. 68, all'atto della richiesta di inserimento nella graduatoria di una provincia diversa da quella di residenza, trasmettono alle autorità scolastiche della provincia nella cui graduatoria chiedono di essere inseriti la certificazione medica originale comprovante le condizioni personali o familiari che danno diritto a fruire dei benefici medesimi. Per il personale già inserito nella graduatoria di una provincia diversa da quella di residenza alla data di entrata in vigore della legge di conversione del presente decreto, la certificazione è trasmessa nei termini stabiliti dal regolamento di cui al comma 4-undecies.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-novies. A decorrere dallo stesso anno scolastico indicato al comma 4-octies, i dirigenti scolastici che conseguono la nomina in regione diversa da quella di residenza trasmettono la documentazione di cui al medesimo comma 4-octies all'ufficio scolastico regionale competente.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-decies. Sulla base della certificazione di cui ai commi 4-octies e 4-novies, le autorità scolastiche, qualora sussistano motivate ragioni ovvero anche con metodi a campione, richiedono ulteriori accertamenti sulla sussistenza delle condizioni personali o familiari che danno diritto a fruire dei benefici previsti dalle citate norme; questi ultimi sono svolti presso un'unità sanitaria locale diversa da quella che ha esaminato la documentazione ai sensi dell'articolo 4 della legge 5 febbraio 1992, n. 104, individuata secondo criteri di competenza stabiliti dal regolamento di cui al comma 4-undecies.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-undecies. Con regolamento emanato con decreto del Ministro dell'istruzione, dell'università e della ricerca, di concerto con il Ministro del lavoro, della salute e delle politiche sociali, sono adottate le disposizioni necessarie per l'esecuzione delle norme di cui ai commi da 4-octies a 4-decies.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-duodecies. All'articolo 427, comma 4, del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297, è aggiunto, in fine, il seguente periodo: "Fermo restando che il beneficiario del riconoscimento delle qualifiche professionali deve possedere le conoscenze linguistiche necessarie, su richiesta dell'interessato il Ministero dell'istruzione, dell'università e della ricerca può limitare gli effetti del riconoscimento previsti dall'articolo 3 del decreto legislativo 9 novembre 2007, n. 206, ai soli fini dell'accesso ai posti di insegnamento nelle scuole di lingua tedesca della provincia di Bolzano".
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-terdecies. Al fine di favorire l'occupazione e la formazione, nonchè la ricollocazione dei soggetti titolari dei contratti di cui al comma 14-bis dell'articolo 4 della legge 3 maggio 1999, n. 124, introdotto dal comma 1 del presente articolo, e dei soggetti di cui al comma 2 del presente articolo, all'articolo 19, comma 4, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, dopo le parole: "banca dati" sono inserite le seguenti: "nella quale confluiscono tutti i dati disponibili relativi ai percettori di trattamenti di sostegno al reddito e ogni altra informazione utile per la gestione dei relativi trattamenti e"; dopo le parole: "e successive modificazioni," sono inserite le seguenti: "le regioni, il Ministero del lavoro, della salute e delle politiche sociali, la società Italia lavoro Spa e l'Istituto per lo sviluppo della formazione professionale dei lavoratori" e le parole: ", e provvede al monitoraggio" sono sostituite dalle seguenti: ". L'INPS provvede altresì al monitoraggio".
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 4-quaterdecies. Per i fini di cui al comma 4-terdecies, al decreto legislativo 10 settembre 2003, n. 276, sono apportate le seguenti modificazioni:
+ 
+
+ 
+ 
+
+ 
+ a) i commi 1 e 2 dell'articolo 8 sono abrogati;
+ 
+
+ 
+ 
+
+ 
+ b) all'articolo 15, comma 4, lettera a), il numero 3) è sostituito dal seguente:
+ 
+
+ "3) alla definizione, alla raccolta, alla comunicazione e alla diffusione dei dati che permettono la massima efficienza e trasparenza del processo di incontro tra domanda e offerta di lavoro, assicurando anche gli strumenti tecnologici necessari per la raccolta e la diffusione delle informazioni presenti nei siti internet ai fini dell'incontro tra domanda e offerta di lavoro".
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 4-quinquiesdecies. L'annullamento di atti delle procedure concorsuali ordinarie e riservate a posti di dirigente scolastico indette antecedentemente all'emanazione del regolamento di cui al decreto del Presidente della Repubblica 10 luglio 2008, n. 140, non incide sulle posizioni giuridiche acquisite dai candidati dei predetti concorsi che in quanto vincitori o idonei siano stati assunti in servizio. Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri per la finanza pubblica.
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-sexiesdecies. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri per la finanza pubblica))
