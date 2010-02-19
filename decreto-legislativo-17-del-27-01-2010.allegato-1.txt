@@ -1,0 +1,2450 @@
+ALLEGATO I 
+ 
+
+ (previsto dall'art. 3, comma 3, lettera a)) 
+ 
+
+ 
+ 
+
+ Requisiti essenziali di sicurezza e di tutela della salute relativi alla progettazione e alla costruzione delle macchine 
+ 
+
+ 
+ 
+
+ PRINCIPI GENERALI 
+ 
+
+ 1. Il fabbricante di una macchina, o il suo mandatario, deve garantire che sia effettuata una valutazione dei rischi per stabilire i requisiti di sicurezza e di tutela della salute che concernono la macchina. La macchina deve inoltre essere progettata e costruita tenendo conto dei risultati della valutazione dei rischi. 
+ 
+
+ Con il processo iterativo della valutazione dei rischi e della riduzione dei rischi di cui sopra, il fabbricante o il suo mandatario: 
+ 
+
+ - stabilisce i limiti della macchina, il che comprende l'uso previsto e l'uso scorretto ragionevolmente prevedibile, 
+ 
+
+ - individua i pericoli cui può dare origine la macchina e le situazioni pericolose che ne derivano, 
+ 
+
+ - stima i rischi, tenendo conto della gravità dell'eventuale lesione o danno alla salute e della probabilità che si verifichi, 
+ 
+
+ - valuta i rischi al fine di stabilire se sia richiesta una riduzione del rischio conformemente all'obiettivo del presente decreto legislativo, 
+ 
+
+ - elimina i pericoli o riduce i rischi che ne derivano, applicando le misure di protezione nell'ordine indicato nel punto 1.1.2, lettera b). 
+ 
+
+ 2. Gli obblighi previsti dai requisiti essenziali di sicurezza e di tutela della salute si applicano soltanto se esiste il pericolo corrispondente per la macchina in questione, allorchè viene utilizzata nelle condizioni previste dal fabbricante, o dal suo mandatario, o nelle condizioni anormali prevedibili. Il principio di integrazione della sicurezza di cui al punto 1.1.2 e gli obblighi relativi alla marcatura e alle istruzioni di cui ai punti 1.7.3 e 1.7.4 si applicano comunque. 
+ 
+
+ 3. I requisiti essenziali di sicurezza e di tutela della salute elencati nel presente allegato sono inderogabili. Tuttavia, tenuto conto dello stato dell'arte, gli obiettivi da essi prefissi possono non essere raggiunti. In tal caso la macchina deve, per quanto possibile, essere progettata e costruita per tendere verso questi obiettivi. 
+ 
+
+ 
+ 
+ ((4. Il presente allegato si articola in varie parti. La prima ha una portata generale e si applica a tutti i tipi di macchine. Le altre parti si riferiscono a taluni tipi di pericoli più specifici.
+ 
+
+ Tuttavia è indispensabile esaminare il presente allegato in tutte le sue parti, al fine di essere certi di soddisfare tutti i requisiti essenziali pertinenti. Nel progettare la macchina, si tiene conto dei requisiti contenuti nella parte generale e di quelli elencati in una o più delle altre parti, in funzione dei risultati della valutazione dei rischi di condotta di cui al punto 1 dei presenti principi generali. I requisiti essenziali di sicurezza e di tutela della salute per la protezione dell'ambiente sono applicabili unicamente alle macchine di cui al punto 2.3.))
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. REQUISITI ESSENZIALI DI SICUREZZA E DI TUTELA DELLA SALUTE 
+ 
+
+ 1.1. CONSIDERAZIONI GENERALI 
+ 
+
+ 1.1.1. Definizioni 
+ 
+
+ Ai fini del presente allegato si intende per: 
+ 
+
+ a) "pericolo", una potenziale fonte di lesione o danno alla salute; 
+ 
+
+ b) "zona pericolosa", qualsiasi zona all'interno e/o in prossimità di una macchina in cui la presenza di una persona costituisca un rischio per la sicurezza e la salute di detta persona; 
+ 
+
+ c) "persona esposta", qualsiasi persona che si trovi interamente o in parte in una zona pericolosa; 
+ 
+
+ d) "operatore", la o le persone incaricate di installare, di far funzionare, di regolare, di pulire, di riparare e di spostare una macchina o di eseguirne la manutenzione; 
+ 
+
+ e) "rischio", combinazione della probabilità e della gravità di una lesione o di un danno per la salute che possano insorgere in una situazione pericolosa; 
+ 
+
+ f) "riparo", elemento della macchina utilizzato specificamente per garantire la protezione tramite una barriera materiale; 
+ 
+
+ g) "dispositivo di protezione", dispositivo (diverso da un riparo) che riduce il rischio, da solo o associato ad un riparo; 
+ 
+
+ h) "uso previsto", l'uso della macchina conformemente alle informazioni fornite nelle istruzioni per l'uso; 
+ 
+
+ i) "uso scorretto ragionevolmente prevedibile", l'uso della macchina in un modo diverso da quello indicato nelle istruzioni per l'uso, ma che può derivare dal comportamento umano facilmente prevedibile. 
+ 
+
+ 1.1.2. Principi d'integrazione della sicurezza 
+ 
+
+ a) Per progettazione e costruzione, le macchine devono essere atte a funzionare, ad essere azionate, ad essere regolate e a subire la manutenzione senza che tali operazioni espongano a rischi le persone, se effettuate nelle condizioni previste tenendo anche conto dell'uso scorretto ragionevolmente prevedibile. 
+ 
+
+ Le misure adottate devono avere lo scopo di eliminare ogni rischio durante l'esistenza prevedibile della macchina, comprese le fasi di trasporto, montaggio, smontaggio, smantellamento (messa fuori servizio) e rottamazione. 
+ 
+
+ b) Per la scelta delle soluzioni più opportune il fabbricante o il suo mandatario deve applicare i seguenti principi, nell'ordine indicato: 
+ 
+
+ - eliminare o ridurre i rischi nella misura del possibile (integrazione della sicurezza nella progettazione e nella costruzione della macchina), 
+ 
+
+ - adottare le misure di protezione necessarie nei confronti dei rischi che non possono essere eliminati, 
+ 
+
+ - informare gli utilizzatori dei rischi residui dovuti all'incompleta efficacia delle misure di protezione adottate, indicare se è richiesta una formazione particolare e segnalare se è necessario prevedere un dispositivo di protezione individuale. 
+ 
+
+ c) In sede di progettazione e di costruzione della macchina, nonchè all'atto della redazione delle istruzioni il fabbricante, o il suo mandatario, deve prendere in considerazione non solo l'uso previsto della macchina, ma anche l'uso scorretto ragionevolmente prevedibile. 
+ 
+
+ La macchina deve essere progettata e costruita in modo da evitare che sia utilizzata in modo anormale, se ciò può comportare un rischio. Negli altri casi le istruzioni devono richiamare l'attenzione dell'utilizzatore sulle controindicazioni nell'uso della macchina che potrebbero, in base all'esperienza, presentarsi. 
+ 
+
+ d) La macchina deve essere progettata e costruita tenendo conto delle limitazioni imposte all'operatore dall'uso necessario o prevedibile delle attrezzature di protezione individuale. 
+ 
+
+ e) La macchina deve essere fornita completa di tutte le attrezzature e gli accessori speciali essenziali per poterla regolare, eseguirne la manutenzione e utilizzarla in condizioni di sicurezza. 
+ 
+
+ 1.1.3. Materiali e prodotti 
+ 
+
+ I materiali utilizzati per la costruzione della macchina o i prodotti utilizzati od originati durante la sua utilizzazione non devono presentare rischi per la sicurezza e la salute delle persone. 
+ 
+
+ In particolare, se vengono usati dei fluidi, la macchina deve essere progettata e costruita in modo da prevenire rischi dovuti al riempimento, all'utilizzazione, al recupero e all'evacuazione. 
+ 
+
+ 1.1.4. Illuminazione 
+ 
+
+ La macchina deve essere fornita di un'illuminazione incorporata adeguata alle operazioni laddove, malgrado un'illuminazione ambiente avente un valore normale, la mancanza di tale dispositivo potrebbe determinare rischi. 
+ 
+
+ La macchina deve essere progettata e costruita in modo che non vi siano zone d'ombra che possano causare disturbo, nè fastidiosi abbagliamenti, nè effetti stroboscopici pericolosi sugli elementi mobili dovuti all'illuminazione. 
+ 
+
+ Gli organi interni che devono essere ispezionati e regolati frequentemente devono essere muniti di opportuni dispositivi di illuminazione; lo stesso dicasi per le zone di manutenzione. 
+ 
+
+ 1.1.5. Progettazione della macchina ai fini della movimentazione La macchina, o ciascuno dei suoi diversi elementi, deve: 
+ 
+
+ - poter essere movimentata e trasportata in modo sicuro, 
+ 
+
+ - essere imballata o progettata per essere immagazzinata in modo sicuro e senza deterioramenti. 
+ 
+
+ Durante il trasporto della macchina e/o dei suoi elementi, non devono potersi verificare spostamenti intempestivi nè pericoli dovuti all'instabilità se la macchina e/o i suoi elementi sono sottoposti a movimentazione secondo le istruzioni. 
+ 
+
+ Se la massa, le dimensioni o la forma della macchina o dei suoi vari elementi non ne consentono lo spostamento a mano, la macchina o ciascuno dei suoi vari elementi deve essere: 
+ 
+
+ - munita di accessori che consentano di afferrarla con un mezzo di sollevamento, oppure 
+ 
+
+ - progettata in modo da consentire il fissaggio di detti accessori, oppure 
+ 
+
+ - di forma tale che i normali mezzi di sollevamento possano adattarvisi facilmente. 
+ 
+
+ Se la macchina o uno dei suoi elementi deve essere spostato a mano, deve essere: 
+ 
+
+ - facilmente spostabile, oppure 
+ 
+
+ - munito di dispositivi di presa che ne consentano la movimentazione in modo sicuro. 
+ 
+
+ Sono necessarie disposizioni speciali per il trasporto di utensili e/o di parti di macchine, anche leggeri, potenzialmente pericolosi. 
+ 
+
+ 1.1.6. Ergonomia 
+ 
+
+ Nelle condizioni d'uso previste devono essere ridotti al minimo possibile il disagio, la fatica e le tensioni psichiche e fisiche (stress) dell'operatore, tenuto conto dei principi seguenti dell'ergonomia: 
+ 
+
+ - tener conto della variabilità delle dimensioni fisiche, della forza e della resistenza dell'operatore, 
+ 
+
+ - offrire lo spazio necessario per i movimenti delle parti del corpo dell'operatore, 
+ 
+
+ - evitare un ritmo di lavoro condizionato dalla macchina, 
+ 
+
+ - evitare un controllo che richiede una concentrazione prolungata, 
+ 
+
+ - adattare l'interfaccia uomo/macchina alle caratteristiche prevedibili dell'operatore. 
+ 
+
+ 1.1.7. Posti di lavoro 
+ 
+
+ Il posto di lavoro deve essere progettato e costruito in modo da evitare ogni rischio derivante dai gas di scarico e/o dalla mancanza di ossigeno. 
+ 
+
+ Se la macchina è destinata ad essere utilizzata in un ambiente pericoloso che presenta rischi per la salute e la sicurezza dell'operatore o se la macchina stessa genera un ambiente pericoloso, devono essere previsti i mezzi adeguati ad assicurare che l'operatore lavori in buone condizioni e sia protetto da ogni pericolo prevedibile. 
+ 
+
+ Se del caso, il posto di lavoro deve essere dotato di una cabina adeguata, progettata, costruita e/o attrezzata in modo da soddisfare i suddetti requisiti. L'uscita deve consentire un rapido abbandono della macchina. Si deve inoltre, se del caso, prevedere un'uscita di sicurezza in una direzione diversa dall'uscita normale. 
+ 
+
+ 1.1.8. Sedili 
+ 
+
+ Ove appropriato e se le condizioni di lavoro lo consentono, nel posto di lavoro integrato alla macchina deve essere prevista l'installazione di sedili. 
+ 
+
+ Se l'operatore è destinato a lavorare seduto e il posto è parte integrante della macchina, il sedile deve essere fornito unitamente a quest'ultima. 
+ 
+
+ Il sedile dell'operatore deve renderlo capace di mantenere una posizione stabile. Inoltre il sedile e la sua distanza dai dispositivi di comando devono potersi adattare all'operatore. 
+ 
+
+ Se la macchina è sottoposta a vibrazioni, il sedile deve essere progettato e costruito in modo da ridurre al livello più basso ragionevolmente possibile le vibrazioni trasmesse all'operatore. Il sedile deve essere ancorato in modo da resistere a tutte le sollecitazioni che può subire. Se sotto i piedi dell'operatore non esiste alcun piano di appoggio, egli dovrà disporre di un poggiapiedi antisdrucciolo. 
+ 
+
+ 
+ 
+
+ 1.2. SISTEMI DI COMANDO 
+ 
+
+ 1.2.1. Sicurezza ed affidabilità dei sistemi di comando 
+ 
+
+ I sistemi di comando devono essere progettati e costruiti in modo da evitare l'insorgere di situazioni pericolose. In ogni caso essi devono essere progettati e costruiti in modo tale che: 
+ 
+
+ - resistano alle previste sollecitazioni di servizio e agli influssi esterni, 
+ 
+
+ - un'avaria nell'hardware o nel software del sistema di comando non crei situazioni pericolose, 
+ 
+
+ - errori della logica del sistema di comando non creino situazioni pericolose, 
+ 
+
+ - errori umani ragionevolmente prevedibili nelle manovre non creino situazioni pericolose. 
+ 
+
+ Particolare attenzione richiede quanto segue: 
+ 
+
+ - la macchina non deve avviarsi in modo inatteso, 
+ 
+
+ - i parametri della macchina non devono cambiare in modo incontrollato, quando tale cambiamento può portare a situazioni pericolose, 
+ 
+
+ - non deve essere impedito l'arresto della macchina, se l'ordine di arresto è già stato dato, 
+ 
+
+ - nessun elemento mobile della macchina o pezzo trattenuto dalla macchina deve cadere o essere espulso, 
+ 
+
+ - l'arresto manuale o automatico degli elementi mobili di qualsiasi tipo non deve essere impedito, 
+ 
+
+ - i dispositivi di protezione devono rimanere pienamente efficaci o dare un comando di arresto, 
+ 
+
+ - le parti del sistema di controllo legate alla sicurezza si devono applicare in modo coerente all'interezza di un insieme di macchine e/o di quasi macchine. 
+ 
+
+ In caso di comando senza cavo deve essere attivato un arresto automatico quando non si ricevono i segnali di comando corretti, anche quando si interrompe la comunicazione. 
+ 
+
+ 1.2.2. Dispositivi di comando 
+ 
+
+ I dispositivi di comando devono essere: 
+ 
+
+ - chiaramente visibili e individuabili utilizzando, se del caso, pittogrammi, 
+ 
+
+ - disposti in modo da garantire una manovra sicura, univoca e rapida, 
+ 
+
+ - progettati in modo tale che il movimento del dispositivo del comando sia coerente con l'azione del comando, 
+ 
+
+ - situati fuori delle zone pericolose tranne il caso, all'occorrenza, di taluni dispositivi di comando, come un arresto di emergenza o una pulsantiera pensile, 
+ 
+
+ - sistemati in modo che la loro manovra non causi rischi supplementari, 
+ 
+
+ - progettati o protetti in modo che l'azione comandata, se comporta un pericolo, possa avvenire soltanto in seguito ad un'azione deliberata, 
+ 
+
+ - fabbricati in modo da resistere alle sollecitazioni prevedibili.
+ 
+
+ Particolare attenzione sarà data ai dispositivi di arresto di emergenza che possono essere soggetti a grosse sollecitazioni. 
+ 
+
+ Se un dispositivo di comando è progettato e costruito per consentire varie azioni differenti, vale a dire se la sua azione non è univoca, l'azione comandata deve essere chiaramente indicata e, all'occorrenza, confermata. 
+ 
+
+ La posizione e la corsa dei dispositivi di comando, nonchè lo sforzo richiesto devono essere compatibili con l'azione comandata, tenendo conto dei principi ergonomici. 
+ 
+
+ La macchina deve essere munita di indicatori necessari per un funzionamento sicuro. Dal posto di comando l'operatore deve poter leggere i suddetti indicatori. 
+ 
+
+ Da ogni posto di comando l'operatore deve poter essere in grado di assicurarsi dell'assenza di persone nelle zone pericolose oppure il sistema di comando deve essere progettato e costruito in modo che l'avviamento sia impedito fintanto che qualsiasi persona si trova nella zona pericolosa. 
+ 
+
+ Qualora nessuna di tali possibilità sia applicabile, prima dell'avviamento della macchina deve essere emesso un segnale di avvertimento sonoro e/o visivo. La persona esposta deve avere il tempo di abbandonare la zona pericolosa o impedire l'avviamento della macchina. 
+ 
+
+ Se necessario, vanno previsti mezzi per assicurarsi che la macchina possa essere comandata solo dai posti di comando situati in una o più zone o posti prestabiliti. 
+ 
+
+ Quando vi sono più posti di comando, il sistema di comando deve essere progettato in modo che l'impiego di uno di essi renda impossibile l'uso degli altri, ad eccezione dei comandi di arresto e degli arresti di emergenza. 
+ 
+
+ Quando la macchina è munita di più posti di manovra, ognuno di essi deve disporre di tutti i dispositivi di comando necessari, senza ostacolare nè mettere in situazione pericolosa mutuamente gli operatori. 
+ 
+
+ 1.2.3. Avviamento 
+ 
+
+ L'avviamento di una macchina deve essere possibile soltanto tramite un'azione volontaria su un dispositivo di comando previsto a tal fine. 
+ 
+
+ Lo stesso dicasi: 
+ 
+
+ - per la rimessa in marcia dopo un arresto, indipendentemente dall'origine, 
+ 
+
+ - per l'effettuazione di una modifica rilevante delle condizioni di funzionamento. 
+ 
+
+ Tuttavia, purchè ciò non generi situazioni pericolose, la rimessa in marcia o la modifica delle condizioni di funzionamento può essere effettuata tramite un'azione volontaria su un dispositivo diverso dal dispositivo di comando previsto a tal fine. 
+ 
+
+ Per le macchine a funzionamento automatico, l'avviamento della macchina, la rimessa in marcia dopo un arresto o la modifica delle condizioni di funzionamento possono essere effettuati senza intervento esterno, se ciò non produce situazioni pericolose. 
+ 
+
+ Quando la macchina è munita di vari dispositivi di comando dell'avviamento e gli operatori possono pertanto mettersi mutuamente in pericolo, devono essere installati dispositivi supplementari per eliminare tali rischi. Se per ragioni di sicurezza l'avviamento e/o l'arresto devono essere effettuati in una sequenza specifica, opportuni dispositivi devono garantire che queste operazioni siano eseguite nell'ordine corretto. 
+ 
+
+ 1.2.4. Arresto 
+ 
+
+ 1.2.4.1. Arresto normale 
+ 
+
+ La macchina deve essere munita di un dispositivo di comando che consenta l'arresto generale in condizioni di sicurezza. 
+ 
+
+ Ogni posto di lavoro deve essere munito di un dispositivo di comando che consenta di arrestare, in funzione dei pericoli esistenti, tutte le funzioni della macchina o unicamente una di esse, in modo che la macchina sia portata in condizioni di sicurezza. 
+ 
+
+ Il comando di arresto della macchina deve essere prioritario rispetto ai comandi di avviamento. 
+ 
+
+ Ottenuto l'arresto della macchina o delle sue funzioni pericolose, si deve interrompere l'alimentazione dei relativi azionatori. 
+ 
+
+ 1.2.4.2. Arresto operativo 
+ 
+
+ Se, per motivi operativi, è necessario un comando di arresto che non interrompe l'alimentazione degli azionatori, la condizione di arresto deve essere monitorata e mantenuta. 
+ 
+
+ 1.2.4.3. Arresto di emergenza 
+ 
+
+ La macchina deve essere munita di uno o più dispositivi di arresto di emergenza, che consentano di evitare situazioni di pericolo che rischino di prodursi nell'imminenza o che si stiano producendo. 
+ 
+
+ Sono escluse da quest'obbligo: 
+ 
+
+ - le macchine per le quali il dispositivo di arresto di emergenza non può ridurre il rischio, perchè non riduce il tempo per ottenere l'arresto normale oppure perchè non permette di prendere le misure specifiche che il rischio richiede, 
+ 
+
+ - le macchine portatili tenute e/o condotte a mano. 
+ 
+
+ Il dispositivo deve: 
+ 
+
+ - comprendere dispositivi di comando chiaramente individuabili, ben visibili e rapidamente accessibili, 
+ 
+
+ - provocare l'arresto del processo pericoloso nel tempo più breve possibile, senza creare rischi supplementari, 
+ 
+
+ - quando necessario avviare, o permettere di avviare, alcuni movimenti di salvaguardia. 
+ 
+
+ Quando si smette di azionare il dispositivo di arresto di emergenza dopo un ordine di arresto, detto ordine deve essere mantenuto da un blocco del dispositivo di arresto di emergenza, sino al suo sblocco; non deve essere possibile ottenere il blocco del dispositivo senza che quest'ultimo generi un ordine di arresto; lo sblocco del dispositivo deve essere possibile soltanto con una apposita manovra e non deve riavviare la macchina, ma soltanto autorizzarne la rimessa in funzione. 
+ 
+
+ La funzione di arresto di emergenza deve essere sempre disponibile e operativa a prescindere dalla modalità di funzionamento. 
+ 
+
+ I dispositivi di arresto di emergenza devono offrire soluzioni di riserva ad altre misure di protezione e non sostituirsi ad esse. 
+ 
+
+ 1.2.4.4. Assemblaggi di macchine 
+ 
+
+ Nel caso di macchine o di elementi di macchine progettati per lavorare assemblati, le macchine devono essere progettate e costruite in modo tale che i comandi di arresto, compresi i dispositivi di arresto di emergenza, possano bloccare non soltanto le macchine stesse ma anche tutte le attrezzature collegate, qualora il loro mantenimento in funzione possa costituire un pericolo. 
+ 
+
+ 1.2.5. Selezione del modo di comando o di funzionamento 
+ 
+
+ Il modo di comando o di funzionamento selezionato deve avere la priorità su tutti gli altri modi di comando o di funzionamento, salvo l'arresto di emergenza. 
+ 
+
+ Se la macchina è stata progettata e costruita per consentire diversi modi di comando o di funzionamento che necessitano di misure di protezione e/o di procedure di lavoro diverse, essa deve essere munita di un selettore di modo di comando o di funzionamento che possa essere bloccato in ogni posizione. A ciascuna posizione del selettore, che deve essere chiaramente individuabile, deve corrispondere un solo modo di comando o di funzionamento. 
+ 
+
+ Il selettore può essere sostituito da altri mezzi di selezione che limitino l'utilizzo di talune funzioni della macchina a talune categorie di operatori. 
+ 
+
+ Se per alcune operazioni la macchina deve poter funzionare con un riparo spostato o rimosso e/o con il dispositivo di protezione neutralizzato, il selettore del modo di comando o di funzionamento deve simultaneamente: 
+ 
+
+ - escludere tutti gli altri modi di comando o di funzionamento, 
+ 
+
+ - autorizzare l'attivazione delle funzioni pericolose soltanto mediante dispositivi di comando che necessitano di un'azione continuata, 
+ 
+
+ - autorizzare l'attivazione delle funzioni pericolose soltanto in condizioni di minor rischio, evitando i pericoli derivanti dal succedersi delle sequenze, 
+ 
+
+ - impedire qualsiasi attivazione delle funzioni pericolose mediante un'azione volontaria o involontaria sui sensori della macchina. 
+ 
+
+ Se queste quattro condizioni non possono essere soddisfatte simultaneamente, il selettore del modo di comando o di funzionamento deve attivare altre misure di protezione progettate e costruite per garantire una zona di intervento sicura. 
+ 
+
+ Inoltre, al posto di manovra l'operatore deve avere la padronanza del funzionamento degli elementi sui quali agisce. 
+ 
+
+ 1.2.6. Guasto del circuito di alimentazione di energia 
+ 
+
+ L'interruzione, il ripristino dopo un'interruzione o la variazione, di qualsiasi tipo, dell'alimentazione di energia della macchina non deve creare situazioni pericolose. 
+ 
+
+ Particolare attenzione richiede quanto segue: 
+ 
+
+ - la macchina non deve avviarsi in modo inatteso, 
+ 
+
+ - i parametri della macchina non devono cambiare in modo incontrollato, quando tale cambiamento può portare a situazioni pericolose, 
+ 
+
+ - non deve essere impedito l'arresto della macchina, se l'ordine di arresto è già stato dato, 
+ 
+
+ - nessun elemento mobile della macchina o pezzo trattenuto dalla macchina deve cadere o essere espulso, 
+ 
+
+ - l'arresto manuale o automatico degli elementi mobili di qualsiasi tipo non deve essere impedito, 
+ 
+
+ - i dispositivi di protezione devono rimanere pienamente efficaci o dare un comando di arresto. 
+ 
+
+ 
+ 
+
+ 1.3. MISURE DI PROTEZIONE CONTRO I PERICOLI MECCANICI 
+ 
+
+ 1.3.1. Rischio di perdita di stabilità 
+ 
+
+ La macchina, elementi ed attrezzature compresi, deve avere una stabilità tale da evitare il rovesciamento, la caduta o gli spostamenti non comandati durante il trasporto, il montaggio, lo smontaggio e tutte le altre azioni che interessano la macchina. 
+ 
+
+ Se la forma stessa della macchina o la sua installazione prevista non garantiscono sufficiente stabilità, devono essere previsti ed indicati nelle istruzioni appositi mezzi di fissaggio. 
+ 
+
+ 1.3.2. Rischio di rottura durante il funzionamento 
+ 
+
+ Gli elementi della macchina, nonchè i loro organi di collegamento, devono resistere agli sforzi cui devono essere sottoposti durante l'utilizzazione. 
+ 
+
+ I materiali utilizzati devono presentare caratteristiche di resistenza sufficienti ed adeguate all'ambiente di utilizzazione, previsto dal fabbricante o dal suo mandatario, in particolare per quanto riguarda i fenomeni di fatica, invecchiamento, corrosione e abrasione. 
+ 
+
+ Nelle istruzioni devono essere indicati i tipi e le frequenze delle ispezioni e manutenzioni necessarie per motivi di sicurezza.
+ 
+
+ Devono essere indicati dove appropriato gli elementi soggetti ad usura, nonchè i criteri di sostituzione. 
+ 
+
+ Se nonostante le precauzioni prese sussistono rischi di disintegrazione o di rottura, gli elementi in questione devono essere montati, disposti e/o protetti in modo che i loro eventuali frammenti vengano trattenuti evitando situazioni pericolose. 
+ 
+
+ Le tubazioni rigide o elastiche contenenti fluidi, in particolare ad alta pressione, devono poter sopportare le sollecitazioni interne ed esterne previste e devono essere solidamente fissate e/o protette affinchè, in caso di rottura, esse non presentino rischi. 
+ 
+
+ In caso di alimentazione automatica del materiale da lavorare verso l'utensile, devono essere soddisfatte le seguenti condizioni per evitare rischi per le persone: 
+ 
+
+ - al momento del contatto utensili/pezzo, l'utensile deve aver raggiunto le sue normali condizioni di lavoro, 
+ 
+
+ - al momento dell'avviamento e/o dell'arresto dell'utensile (volontario o accidentale), il movimento di alimentazione e il movimento dell'utensile debbono essere coordinati. 
+ 
+
+ 1.3.3. Rischi dovuti alla caduta o alla proiezione di oggetti 
+ 
+
+ Devono essere prese precauzioni per evitare i rischi derivanti dalla caduta o dalla proiezione di oggetti. 
+ 
+
+ 1.3.4. Rischi dovuti a superfici, spigoli od angoli 
+ 
+
+ Gli elementi accessibili della macchina devono essere privi, entro i limiti consentiti dalle loro funzioni, di angoli acuti e di spigoli vivi, nonchè di superfici rugose che possono causare lesioni. 
+ 
+
+ 1.3.5. Rischi dovuti alle macchine combinate 
+ 
+
+ Quando la macchina è prevista per poter eseguire diversi tipi di operazioni con ripresa manuale del pezzo fra ogni operazione (macchina combinata), essa deve essere progettata e costruita in modo che ciascun elemento possa essere utilizzato separatamente senza che gli altri elementi costituiscano un rischio per le persone esposte. 
+ 
+
+ A tal fine gli elementi che non siano protetti devono poter essere messi in moto o arrestati individualmente. 
+ 
+
+ 1.3.6. Rischi connessi alle variazioni delle condizioni di funzionamento 
+ 
+
+ Quando la macchina è progettata per effettuare operazioni in condizioni di impiego diverse, deve essere progettata e costruita in modo che la scelta e la regolazione di tali condizioni possano essere effettuate in modo sicuro e affidabile. 
+ 
+
+ 1.3.7. Rischi dovuti agli elementi mobili 
+ 
+
+ Gli elementi mobili della macchina devono essere progettati e costruiti per evitare i rischi di contatto che possono provocare infortuni oppure, se i rischi persistono, essere muniti di ripari o dispositivi di protezione. 
+ 
+
+ Devono essere prese tutte le disposizioni necessarie per impedire un bloccaggio improvviso degli elementi mobili di lavoro. 
+ 
+
+ Nei casi in cui, malgrado le precauzioni prese, possa verificarsi un bloccaggio, dovranno essere previsti, ove opportuno, i dispositivi di protezione specifici e gli utensili specifici necessari per permettere di sbloccare la macchina in modo sicuro. 
+ 
+
+ Le istruzioni e, ove possibile, un'indicazione sulla macchina devono individuare tali dispositivi di protezione specifici e la modalità di impiego. 
+ 
+
+ 1.3.8. Scelta di una protezione contro i rischi dovuti agli elementi mobili 
+ 
+
+ I ripari o i dispositivi di protezione progettati contro i rischi dovuti agli elementi mobili devono essere scelti in funzione del tipo di rischio. Per la scelta si deve ricorrere alle indicazioni seguenti. 
+ 
+
+ 1.3.8.1. Elementi mobili di trasmissione 
+ 
+
+ I ripari progettati per proteggere le persone dai pericoli creati dagli elementi mobili di trasmissione devono essere: 
+ 
+
+ - ripari fissi di cui al punto 1.4.2.1, oppure 
+ 
+
+ - ripari mobili interbloccati, di cui al punto 1.4.2.2. 
+ 
+
+ Se si prevedono interventi frequenti, dovrebbe essere scelta quest'ultima soluzione. 
+ 
+
+ 1.3.8.2. Elementi mobili che partecipano alla lavorazione 
+ 
+
+ I ripari o i dispositivi di protezione progettati per proteggere le persone dai pericoli creati dagli elementi mobili che partecipano alla lavorazione devono essere: 
+ 
+
+ - ripari fissi di cui al punto 1.4.2.1, oppure 
+ 
+
+ - ripari mobili interbloccati, di cui al punto 1.4.2.2, oppure 
+ 
+
+ - dispositivi di protezione di cui al punto 1.4.3, oppure 
+ 
+
+ - una combinazione di quanto sopra. 
+ 
+
+ Tuttavia, se taluni elementi mobili che partecipano direttamente alla lavorazione non possono essere resi interamente inaccessibili durante il loro funzionamento a causa di operazioni che richiedono l'intervento dell'operatore, detti elementi devono essere muniti di: 
+ 
+
+ - ripari fissi o di ripari mobili interbloccati, che impediscano l'accesso alle parti degli elementi non utilizzate per la lavorazione, e 
+ 
+
+ - ripari regolabili di cui al punto 1.4.2.3, che limitino l'accesso alle parti degli elementi mobili cui è necessario accedere. 
+ 
+
+ 1.3.9. Rischi di movimenti incontrollati 
+ 
+
+ Quando un elemento della macchina è stato arrestato, la sua deriva dalla posizione di arresto, per qualsiasi causa che non sia l'azionamento di dispositivi di comando, deve essere impedita o essere tale da non costituire un pericolo. 
+ 
+
+ 
+ 
+
+ 1.4. CARATTERISTICHE RICHIESTE PER I RIPARI ED I DISPOSITIVI DI PROTEZIONE 
+ 
+
+ 1.4.1. Requisiti generali 
+ 
+
+ I ripari e i dispositivi di protezione: 
+ 
+
+ - devono essere di costruzione robusta, 
+ 
+
+ - devono essere fissati solidamente 
+ 
+
+ - non devono provocare pericoli supplementari, 
+ 
+
+ - non devono essere facilmente elusi o resi inefficaci, 
+ 
+
+ - devono essere situati ad una distanza sufficiente dalla zona pericolosa, 
+ 
+
+ - non devono limitare più del necessario l'osservazione del ciclo di lavoro, e 
+ 
+
+ - devono permettere gli interventi indispensabili per l'installazione e/o la sostituzione degli utensili e per i lavori di manutenzione, limitando però l'accesso soltanto al settore in cui deve essere effettuato il lavoro e, se possibile, senza smontare il riparo o senza disattivare il dispositivo di protezione. 
+ 
+
+ Inoltre, se possibile, i ripari devono proteggere dalla caduta e dalla proiezione di materiali od oggetti e dalle emissioni provocate dalla macchina. 
+ 
+
+ 1.4.2. Requisiti particolari per i ripari 
+ 
+
+ 1.4.2.1. Ripari fissi 
+ 
+
+ Il fissaggio dei ripari fissi deve essere ottenuto con sistemi che richiedono l'uso di utensili per la loro apertura o smontaggio. 
+ 
+
+ I sistemi di fissaggio devono rimanere attaccati ai ripari o alla macchina quando i ripari sono rimossi. 
+ 
+
+ Se possibile, i ripari non devono poter rimanere al loro posto in mancanza dei loro mezzi di fissaggio. 
+ 
+
+ 1.4.2.2. Ripari mobili interbloccati 
+ 
+
+ I ripari mobili interbloccati devono: 
+ 
+
+ - per quanto possibile restare uniti alla macchina quando siano aperti, 
+ 
+
+ - essere progettati e costruiti in modo che la loro regolazione richieda un intervento volontario. I ripari mobili interbloccati devono essere associati ad un dispositivo di interblocco che: 
+ 
+
+ - impedisca l'avviamento di funzioni pericolose della macchina fin quando i ripari non siano chiusi, 
+ 
+
+ e 
+ 
+
+ - dia un comando di arresto non appena essi non sono più chiusi. 
+ 
+
+ Se un operatore può raggiungere la zona pericolosa prima che sia cessato il rischio dovuto alle funzioni pericolose della macchina, i ripari mobili devono essere associati ad un dispositivo di bloccaggio del riparo, oltre che ad un dispositivo di interblocco che: 
+ 
+
+ - impedisca l'avviamento delle funzioni pericolose della macchina fin quando il riparo non è chiuso e bloccato, e 
+ 
+
+ - tenga il riparo chiuso e bloccato fin quando non è cessato il rischio di lesioni dovuto alle funzioni pericolose della macchina. 
+ 
+
+ I ripari mobili interbloccati devono essere progettati in modo che la mancanza o il guasto di uno dei loro elementi impedisca l'avviamento o provochi l'arresto delle funzioni pericolose della macchina. 
+ 
+
+ 1.4.2.3. Ripari regolabili che limitano l'accesso 
+ 
+
+ I ripari regolabili che limitano l'accesso alle parti degli elementi mobili indispensabili alla lavorazione devono: 
+ 
+
+ - potersi regolare manualmente o automaticamente a seconda del tipo di lavorazione da eseguire, e 
+ 
+
+ - potersi regolare facilmente senza l'uso di un attrezzo. 
+ 
+
+ 1.4.3. Requisiti particolari per i dispositivi di protezione 
+ 
+
+ I dispositivi di protezione devono essere progettati e incorporati nel sistema di comando in modo tale che: 
+ 
+
+ - la messa in moto degli elementi mobili non sia possibile fintantochè l'operatore può raggiungerli, 
+ 
+
+ - le persone non possano accedere agli elementi mobili in movimento, e 
+ 
+
+ - la mancanza o il guasto di uno dei loro elementi impedisca l'avviamento o provochi l'arresto degli elementi mobili. 
+ 
+
+ La loro regolazione deve richiedere un intervento volontario. 
+ 
+
+ 
+ 
+
+ 1.5. RISCHI DOVUTI AD ALTRI PERICOLI 
+ 
+
+ 1.5.1. Energia elettrica 
+ 
+
+ Se la macchina è alimentata con energia elettrica, essa deve essere progettata, costruita ed equipaggiata in modo da prevenire o da consentire di prevenire tutti i pericoli dovuti all'energia elettrica. 
+ 
+
+ Gli obiettivi di sicurezza fissati dalla direttiva 2006/95/CE si applicano alle macchine. Tuttavia gli obblighi concernenti la valutazione della conformità e l'immissione sul mercato e/o la messa in servizio di macchine in relazione ai pericoli dovuti all'energia elettrica sono disciplinati esclusivamente dal presente decreto legislativo. 
+ 
+
+ 1.5.2. Elettricità statica 
+ 
+
+ La macchina deve essere progettata e costruita in modo da evitare o da ridurre la formazione di cariche elettrostatiche potenzialmente pericolose e/o deve essere munita di mezzi che consentano di scaricarle. 
+ 
+
+ 1.5.3. Energie diverse dall'energia elettrica 
+ 
+
+ Se la macchina è alimentata da fonti di energia diverse da quella elettrica, essa deve essere progettata, costruita ed equipaggiata in modo da prevenire tutti i rischi che possono derivare da tali fonti di energia. 
+ 
+
+ 1.5.4. Errori di montaggio 
+ 
+
+ Gli errori commessi al montaggio o al rimontaggio di taluni pezzi, che potrebbero essere all'origine di rischi, devono essere resi impossibili dalla progettazione e dalla costruzione degli stessi oppure mediante indicazioni figuranti sui pezzi e/o sui loro carter.
+ 
+
+ Le stesse indicazioni devono figurare sui pezzi mobili e/o sui loro carter, qualora occorra conoscere il senso del moto per evitare rischi. 
+ 
+
+ Se del caso, nelle istruzioni devono figurare informazioni supplementari su tali rischi. 
+ 
+
+ Se l'origine dei rischi può essere dovuta ad un collegamento difettoso, la progettazione o le indicazioni figuranti sugli elementi da collegare e, se del caso, sui mezzi di collegamento devono rendere impossibili i raccordi errati. 
+ 
+
+ 1.5.5. Temperature estreme 
+ 
+
+ Devono essere prese opportune disposizioni per evitare qualsiasi rischio di lesioni causate dal contatto o dalla vicinanza con parti della macchina o materiali a temperatura elevata o molto bassa. 
+ 
+
+ Devono inoltre essere prese le disposizioni necessarie per evitare i rischi di proiezione di materiali molto caldi o molto freddi o per proteggere da tali rischi. 
+ 
+
+ 1.5.6. Incendio 
+ 
+
+ La macchina deve essere progettata e costruita in modo da evitare qualsiasi rischio d'incendio o di surriscaldamento provocato dalla macchina stessa o da gas, liquidi, polveri, vapori od altre sostanze, prodotti o utilizzati dalla macchina. 
+ 
+
+ 1.5.7. Esplosione 
+ 
+
+ La macchina deve essere progettata e costruita in modo da evitare qualsiasi rischio di esplosione provocato dalla macchina stessa o da gas, liquidi, polveri, vapori od altre sostanze prodotti o utilizzati dalla macchina. 
+ 
+
+ La macchina deve essere, per quanto riguarda i rischi di esplosione dovuti all'utilizzo in atmosfera potenzialmente esplosiva, conforme alle specifiche direttive comunitarie. 
+ 
+
+ 1.5.8. Rumore 
+ 
+
+ La macchina deve essere progettata e costruita in modo tale che i rischi dovuti all'emissione di rumore aereo siano ridotti al livello minimo, tenuto conto del progresso tecnico e della possibilità di disporre di mezzi atti a limitare il rumore, in particolare alla fonte. 
+ 
+
+ Il livello dell'emissione di rumore può essere valutato in riferimento ai dati comparativi di emissione di macchine simili. 
+ 
+
+ 1.5.9. Vibrazioni 
+ 
+
+ La macchina deve essere progettata e costruita in modo tale che i rischi dovuti alle vibrazioni trasmesse dalla macchina siano ridotti al livello minimo, tenuto conto del progresso tecnico e della disponibilità di mezzi atti a ridurre le vibrazioni, in particolare alla fonte. 
+ 
+
+ Il livello dell'emissione di vibrazioni può essere valutato in riferimento ai dati comparativi di emissione di macchine simili. 
+ 
+
+ 1.5.10. Radiazioni 
+ 
+
+ Le emissioni indesiderabili di radiazioni da parte della macchina devono essere eliminate o essere ridotte a livelli che non producono effetti negativi sulle persone. 
+ 
+
+ Ogni emissione di radiazioni ionizzanti funzionali deve essere ridotta al livello minimo sufficiente per il corretto funzionamento della macchina durante la regolazione, il funzionamento e la pulitura. Qualora sussistano rischi si devono prendere le necessarie misure di protezione. 
+ 
+
+ Ogni emissione di radiazioni non ionizzanti funzionali durante la regolazione, il funzionamento e la pulitura deve essere ridotta a livelli che non producono effetti negativi sulle persone. 
+ 
+
+ 1.5.11. Radiazione esterne 
+ 
+
+ La macchina deve essere progettata e costruita in modo tale che il suo funzionamento non sia perturbato dalle radiazioni esterne. 
+ 
+
+ 1.5.12. Radiazioni laser 
+ 
+
+ In caso di impiego di dispositivi laser va tenuto conto delle seguenti disposizioni: 
+ 
+
+ - i dispositivi laser montati su macchine devono essere progettati e costruiti in modo da evitare qualsiasi radiazione involontaria, 
+ 
+
+ - i dispositivi laser montati sulle macchine debbono essere protetti in modo tale che nè le radiazioni utili, nè le radiazioni prodotte da riflessione o da diffusione e le radiazioni secondarie possano nuocere alla salute, 
+ 
+
+ - i dispositivi ottici per l'osservazione o la regolazione di dispositivi laser montati sulle macchine devono essere tali che le radiazioni laser non creino alcun rischio per la salute. 
+ 
+
+ 1.5.13. Emissioni di materie e sostanze pericolose 
+ 
+
+ La macchina deve essere progettata e costruita in modo tale da evitare i rischi di inalazione, ingestione, contatto con la pelle, gli occhi e le mucose e di penetrazione attraverso la pelle delle materie e sostanze pericolose prodotte. 
+ 
+
+ Se il pericolo non può essere eliminato, la macchina deve essere equipaggiata in modo che le materie e sostanze pericolose possano essere captate, aspirate, precipitate mediante vaporizzazione di acqua, filtrate o trattate con un altro metodo altrettanto efficace. 
+ 
+
+ Qualora il processo non sia totalmente chiuso durante il normale funzionamento della macchina, i dispositivi di captazione e/o di aspirazione devono essere situati in modo da produrre il massimo effetto. 
+ 
+
+ 1.5.14. Rischio di restare imprigionati in una macchina 
+ 
+
+ La macchina deve essere progettata, costruita o dotata di mezzi che consentano di evitare che una persona resti chiusa all'interno o, se ciò non fosse possibile, deve essere dotata di mezzi per chiedere aiuto. 
+ 
+
+ 1.5.15. Rischio di scivolamento, inciampo o caduta 
+ 
+
+ Le parti della macchina sulle quali è previsto lo spostamento o lo stazionamento delle persone devono essere progettate e costruite in modo da evitare che esse scivolino, inciampino o cadano su tali parti o fuori di esse. 
+ 
+
+ Se opportuno, dette parti devono essere dotate di mezzi di presa fissi rispetto all'utilizzatore che gli consentano di mantenere la stabilità. 
+ 
+
+ 1.5.16. Fulmine 
+ 
+
+ Le macchine che necessitano di protezione dagli effetti del fulmine durante l'uso devono essere equipaggiate in modo da scaricare al suolo le eventuali scariche elettriche. 
+ 
+
+ 
+ 
+
+ 1.6. MANUTENZIONE 
+ 
+
+ 1.6.1. Manutenzione della macchina 
+ 
+
+ I punti di regolazione e di manutenzione devono essere situati fuori dalle zone pericolose. Gli interventi di regolazione, di manutenzione, di riparazione e di pulitura della macchina devono poter essere eseguiti sulla macchina ferma. 
+ 
+
+ Se per motivi tecnici non è possibile soddisfare una delle precedenti condizioni, devono essere prese disposizioni per garantire che dette operazioni possano essere eseguite in condizioni di sicurezza (cfr. punto 1.2.5). 
+ 
+
+ Per le macchine automatizzate e, se del caso, per altre macchine, deve essere previsto un dispositivo di connessione che consenta di montare un dispositivo di diagnosi di ricerca delle avarie. 
+ 
+
+ Gli elementi delle macchine automatizzate che devono essere sostituiti frequentemente devono essere facilmente smontabili e rimontabili in condizioni di sicurezza. L'accesso a questi elementi deve consentire di svolgere questi compiti con i mezzi tecnici necessari secondo il metodo operativo previsto. 
+ 
+
+ 1.6.2. Accesso ai posti di lavoro e ai punti d'intervento utilizzati per la manutenzione 
+ 
+
+ La macchina deve essere progettata e costruita in modo da permettere l'accesso in condizioni di sicurezza a tutte le zone in cui è necessario intervenire durante il funzionamento, la regolazione e la manutenzione della macchina. 
+ 
+
+ 1.6.3. Isolamento dalle fonti di alimentazione di energia 
+ 
+
+ La macchina deve essere munita di dispositivi che consentono di isolarla da ciascuna delle sue fonti di alimentazione di energia.
+ 
+
+ Tali dispositivi devono essere identificati chiaramente. Devono poter essere bloccati, qualora la riconnessione rischi di presentare un pericolo per le persone. I dispositivi devono inoltre poter essere bloccati nel caso in cui l'operatore non possa verificare l'effettivo costante isolamento da tutte le posizioni cui ha accesso. 
+ 
+
+ Nel caso di macchine che possono essere alimentate ad energia elettrica mediante una spina ad innesto, è sufficiente la separazione della spina, a patto che l'operatore possa verificare da tutte le posizioni cui ha accesso, che la spina resti disinserita. 
+ 
+
+ L'eventuale energia residua o immagazzinata dopo l'isolamento della macchina deve poter essere dissipata senza rischio per le persone. 
+ 
+
+ In deroga al requisito dei commi precedenti, taluni circuiti possono non essere separati dalla loro fonte di energia onde consentire, ad esempio, il supporto di pezzi, la tutela di informazioni, l'illuminazione delle parti interne, ecc. In questo caso devono essere prese disposizioni particolari per garantire la sicurezza degli operatori. 
+ 
+
+ 1.6.4. Intervento dell'operatore 
+ 
+
+ La macchina deve essere progettata, costruita ed equipaggiata in modo tale da limitare la necessità d'intervento degli operatori.
+ 
+
+ L'intervento di un operatore, ogniqualvolta non possa essere evitato, dovrà poter essere effettuato facilmente e in condizioni di sicurezza. 
+ 
+
+ 1.6.5. Pulitura delle parti interne 
+ 
+
+ La macchina deve essere progettata e costruita in modo che la pulitura delle parti interne della macchina che ha contenuto sostanze o preparazioni pericolose sia possibile senza penetrare in tali parti interne; lo stesso dicasi per l'eventuale svuotamento completo, che deve poter essere fatto dall'esterno. Se è impossibile evitare di penetrarvi, la macchina deve essere progettata e costruita in modo da consentire di effettuare la pulitura in condizioni di sicurezza. 
+ 
+
+ 
+ 
+
+ 1.7. INFORMAZIONI 
+ 
+
+ 1.7.1. Informazioni e avvertenze sulla macchina 
+ 
+
+ Le informazioni e le avvertenze sulla macchina dovrebbero essere fornite preferibilmente in forma di simboli o pittogrammi facilmente comprensibili. Qualsiasi informazione o avvertenza scritta od orale deve essere espressa nella o nelle lingue ufficiali della Comunità, che possono essere determinate, conformemente al trattato, dallo Stato membro in cui è immessa sul mercato e/o messa in servizio la macchina e può essere corredata, su richiesta, della o delle versioni linguistiche comprese dagli operatori. 
+ 
+
+ 1.7.1.1. Informazioni e dispositivi di informazione 
+ 
+
+ Le informazioni necessarie alla guida di una macchina devono essere fornite in forma chiara e facilmente comprensibile. Non devono essere in quantità tale da accavallarsi nella mente dell'operatore. 
+ 
+
+ Le unità di visualizzazione o qualsiasi altro mezzo di comunicazione interattiva tra operatore e macchina devono essere di facile comprensione e impiego. 
+ 
+
+ 1.7.1.2. Dispositivi di allarme 
+ 
+
+ Quando la sicurezza e la salute delle persone possono essere messe in pericolo da un'avaria di una macchina che funziona senza sorveglianza, la macchina deve essere attrezzata in modo da emettere un segnale di avvertenza sonoro o luminoso adeguato. 
+ 
+
+ Se la macchina è munita di dispositivi di avvertenza, essi devono poter essere compresi senza ambiguità e facilmente percepiti. Devono essere prese misure opportune per consentire all'operatore di verificare la costante efficienza di questi dispositivi di avvertenza. 
+ 
+
+ Devono essere applicate le disposizioni delle specifiche direttive comunitarie concernenti i colori ed i segnali di sicurezza. 
+ 
+
+ 1.7.2. Avvertenze in merito ai rischi residui 
+ 
+
+ Nel caso in cui permangano dei rischi, malgrado siano state adottate le misure di protezione integrate nella progettazione, le protezioni e le misure di protezione complementari, devono essere previste le necessarie avvertenze, compresi i dispositivi di avvertenza. 
+ 
+
+ 1.7.3. Marcatura delle macchine 
+ 
+
+ Ogni macchina deve recare, in modo visibile, leggibile e indelebile, almeno le seguenti indicazioni: 
+ 
+
+ - ragione sociale e indirizzo completo del fabbricante e, se del caso, del suo mandatario, 
+ 
+
+ - designazione della macchina, 
+ 
+
+ - marcatura "CE" (cfr. allegato III), 
+ 
+
+ - designazione della serie o del tipo, 
+ 
+
+ - eventualmente, numero di serie, 
+ 
+
+ - anno di costruzione, cioè l'anno in cui si è concluso il processo di fabbricazione. 
+ 
+
+ è vietato antedatare o postdatare la macchina al momento dell'apposizione della marcatura CE. 
+ 
+
+ Inoltre, la macchina progettata e costruita per l'utilizzo in atmosfera esplosiva deve recare l'apposita marcatura. 
+ 
+
+ La macchina deve anche recare indicazioni complete riguardanti il tipo di macchina, nonchè le indicazioni indispensabili alla sicurezza di utilizzo. Dette informazioni sono soggette ai requisiti di cui al punto 1.7.1. 
+ 
+
+ Se un elemento della macchina deve essere movimentato durante l'utilizzazione con mezzi di sollevamento, la sua massa deve essere indicata in modo leggibile, indelebile e non ambiguo. 
+ 
+
+ 1.7.4. Istruzioni 
+ 
+
+ Ogni macchina deve essere accompagnata da istruzioni per l'uso nella o nelle lingue comunitarie ufficiali dello Stato membro in cui la macchina è immessa sul mercato e/o messa in servizio. 
+ 
+
+ Le istruzioni che accompagnano la macchina devono essere "Istruzioni originali" o una "Traduzione delle istruzioni originali"; in tal caso alla traduzione deve essere allegata una copia delle istruzioni originali. 
+ 
+
+ In deroga a quanto sopra, le istruzioni per la manutenzione destinate ad essere usate da un personale specializzato incaricato dal fabbricante o dal suo mandatario possono essere fornite in una sola lingua comunitaria compresa da detto personale. 
+ 
+
+ Le istruzioni devono essere elaborate secondo i principi elencati qui di seguito. 
+ 
+
+ 1.7.4.1. Principi generali di redazione 
+ 
+
+ a) Le istruzioni devono essere redatte in una o più lingue ufficiali della Comunità. Il fabbricante o il suo mandatario si assume la responsabilità di tali istruzioni apponendovi la dicitura "Istruzioni originali". 
+ 
+
+ b) Qualora non esistano "Istruzioni originali" nella o nelle lingue ufficiali del paese di utilizzo della macchina, il fabbricante o il suo mandatario o chi immette la macchina nella zona linguistica in questione deve fornire la traduzione nella o nelle lingue di tale zona. Tali traduzioni devono recare la dicitura "Traduzione delle istruzioni originali". 
+ 
+
+ c) Il contenuto delle istruzioni non deve riguardare soltanto l'uso previsto della macchina, ma deve tener conto anche dell'uso scorretto ragionevolmente prevedibile. 
+ 
+
+ d) In caso di macchine destinate all'utilizzazione da parte di operatori non professionali, la redazione e la presentazione delle istruzioni per l'uso devono tenere conto del livello di formazione generale e della perspicacia che ci si può ragionevolmente aspettare da questi operatori. 
+ 
+
+ 1.7.4.2. Contenuto delle istruzioni 
+ 
+
+ Ciascun manuale di istruzioni deve contenere, se del caso, almeno le informazioni seguenti: 
+ 
+
+ a) la ragione sociale e l'indirizzo completo del fabbricante e del suo mandatario; 
+ 
+
+ b) la designazione della macchina, come indicato sulla macchina stessa, eccetto il numero di serie (cfr. punto 1.7.3); 
+ 
+
+ c) la dichiarazione di conformità CE o un documento che riporta il contenuto della dichiarazione di conformità CE, i dati relativi alla macchina ma non necessariamente il numero di serie e la firma; 
+ 
+
+ d) una descrizione generale della macchina; 
+ 
+
+ e) i disegni, i diagrammi, le descrizioni e le spiegazioni necessari per l'uso, la manutenzione e la riparazione della macchina e per verificarne il corretto funzionamento; 
+ 
+
+ f) una descrizione del o dei posti di lavoro che possono essere occupati dagli operatori; 
+ 
+
+ g) una descrizione dell'uso previsto della macchina; 
+ 
+
+ h) le avvertenze concernenti i modi nei quali la macchina non deve essere usata e che potrebbero, in base all'esperienza, presentarsi; 
+ 
+
+ i) le istruzioni per il montaggio, l'installazione e il collegamento, inclusi i disegni e i diagrammi e i sistemi di fissaggio e la designazione del telaio o dell'installazione su cui la macchina deve essere montata; 
+ 
+
+ j) le istruzioni per l'installazione e il montaggio volte a ridurre il rumore e le vibrazioni prodotti; 
+ 
+
+ k) le istruzioni per la messa in servizio e l'uso della macchina e, se necessario, le istruzioni per la formazione degli operatori; 
+ 
+
+ l) le informazioni in merito ai rischi residui che permangono, malgrado siano state adottate le misure di protezione integrate nella progettazione della macchina e malgrado le protezioni e le misure di protezione complementari adottate; 
+ 
+
+ m) le istruzioni sulle misure di protezione che devono essere prese dall'utilizzatore, incluse, se del caso, le attrezzature di protezione individuale che devono essere fornite; 
+ 
+
+ n) le caratteristiche essenziali degli utensili che possono essere montati sulla macchina; 
+ 
+
+ o) le condizioni in cui la macchina soddisfa i requisiti di stabilità durante l'utilizzo, il trasporto, il montaggio, lo smontaggio, in condizioni di fuori servizio, durante le prove o le avarie prevedibili; 
+ 
+
+ p) le istruzioni per effettuare in condizioni di sicurezza le operazioni di trasporto, movimentazione e stoccaggio, indicanti la massa della macchina e dei suoi vari elementi allorchè devono essere regolarmente trasportati separatamente; 
+ 
+
+ q) il metodo operativo da rispettare in caso di infortunio o avaria; se si può verificare un blocco, il metodo operativo da rispettare per permettere di sbloccare la macchina in condizioni di sicurezza; 
+ 
+
+ r) la descrizione delle operazioni di regolazione e manutenzione che devono essere effettuate dall'utilizzatore nonchè le misure di manutenzione preventiva da rispettare; 
+ 
+
+ s) le istruzioni per effettuare in condizioni di sicurezza la regolazione e la manutenzione, incluse le misure di protezione che dovrebbero essere prese durante tali operazioni; 
+ 
+
+ t) le specifiche dei pezzi di ricambio da utilizzare, se incidono sulla salute e la sicurezza degli operatori; 
+ 
+
+ u) le seguenti informazioni relative all'emissione di rumore aereo: 
+ 
+
+ - il livello di pressione acustica dell'emissione ponderato A nei posti di lavoro, se supera 70 dB(A); se tale livello non supera 70 dB(A), deve essere indicato, 
+ 
+
+ - il valore massimo della pressione acustica istantanea ponderata C nei posti di lavoro, se supera 63 Pa (130 dB rispetto a 20 &micro;Pa), 
+ 
+
+ - il livello di potenza acustica ponderato A emesso dalla macchina, se il livello di pressione acustica dell'emissione ponderato A nei posti di lavoro supera 80 dB(A). 
+ 
+
+ I suddetti valori devono essere o quelli misurati effettivamente sulla macchina in questione, oppure quelli stabiliti sulla base di misurazioni effettuate su una macchina tecnicamente comparabile e rappresentativa della macchina da produrre. 
+ 
+
+ Quando si tratta di una macchina di grandissime dimensioni, invece del livello di potenza acustica ponderato A possono essere indicati livelli di pressione acustica dell'emissione ponderati A in appositi punti intorno alla macchina. 
+ 
+
+ Allorchè non sono applicate le norme armonizzate, i dati acustici devono essere misurati utilizzando il codice di misurazione più appropriato adeguato alla macchina. Ogniqualvolta sono indicati i valori dell'emissione acustica, devono essere specificate le incertezze relative a tali valori. Devono essere descritte le condizioni di funzionamento della macchina durante la misurazione e i metodi utilizzati per effettuarla. 
+ 
+
+ Se il posto o i posti di lavoro non sono o non possono essere definiti, i livelli di pressione acustica ponderati A devono essere misurati a 1 m dalla superficie della macchina e a 1,60 m di altezza dal suolo o dalla piattaforma di accesso. Devono essere indicati la posizione e il valore della pressione acustica massima. 
+ 
+
+ Qualora vi siano specifiche direttive comunitarie che prevedono altre indicazioni per la misurazione del livello di pressione acustica o del livello di potenza acustica, esse vanno applicate e non si applicano le prescrizioni corrispondenti del presente punto; 
+ 
+
+ v) se la macchina può emettere radiazioni non ionizzanti che potrebbero nuocere alle persone, in particolare se portatrici di dispositivi medici impiantabili attivi o non attivi, le informazioni riguardanti le radiazioni emesse per l'operatore e le persone esposte. 
+ 
+
+ 1.7.4.3. Pubblicazioni illustrative o promozionali 
+ 
+
+ Le pubblicazioni illustrative o promozionali che descrivono la macchina non possono essere in contraddizione con le istruzioni per quanto concerne gli aspetti relativi alla salute e alla sicurezza. Le pubblicazioni illustrative o promozionali che descrivono le caratteristiche delle prestazioni della macchina devono contenere le stesse informazioni delle istruzioni per quanto concerne le emissioni. 
+ 
+
+ 
+ 
+
+ 2. REQUISITI ESSENZIALI SUPPLEMENTARI DI SICUREZZA E DI TUTELA DELLA SALUTE PER TALUNE CATEGORIE DI MACCHINE 
+ 
+
+ 
+ ((Le macchine alimentari, le macchine per prodotti cosmetici o farmaceutici, le macchine tenute ovvero condotte a mano, le macchine portatili per il fissaggio e altre macchine ad impatto, le macchine per la lavorazione del legno e di materie con caratteristiche fisiche simili e le macchine per l'applicazione di pesticidi devono soddisfare tutti i requisiti essenziali di sicurezza e di tutela della salute descritti nel presente capitolo (come previsto al punto 4 dei "Principi generali" del presente allegato).))
+
+ 
+ 
+
+ 
+ 
+
+ 2.1. MACCHINE ALIMENTARI E MACCHINE PER PRODOTTI COSMETICI O FARMACEUTICI 
+ 
+
+ 2.1.1. Considerazioni generali 
+ 
+
+ Le macchine destinate ad essere utilizzate per prodotti alimentari o per prodotti cosmetici o farmaceutici devono essere progettate e costruite in modo da evitare qualsiasi rischio di infezione, di malattia e di contagio. 
+ 
+
+ Vanno osservati i seguenti requisiti: 
+ 
+
+ a) i materiali a contatto o che possono venire a contatto con prodotti alimentari, cosmetici o farmaceutici devono essere conformi alle direttive in materia. La macchina deve essere progettata e costruita in modo tale che detti materiali possano essere puliti prima di ogni utilizzazione; se questo non è possibile devono essere utilizzati elementi monouso; 
+ 
+
+ b) tutte le superfici a contatto con i prodotti alimentari, cosmetici o farmaceutici ad eccezione di quelle degli elementi monouso devono: 
+ 
+
+ - essere lisce e prive di rugosità o spazi in cui possono fermarsi materie organiche. Lo stesso requisito va rispettato per i collegamenti fra le superfici, 
+ 
+
+ - essere progettate e costruite in modo da ridurre al minimo le sporgenze, i bordi e gli angoli, 
+ 
+
+ - poter essere pulite e disinfettate facilmente, se del caso, dopo aver asportato le parti facilmente smontabili; gli angoli interni devono essere raccordati con raggi tali da consentire una pulizia completa; 
+ 
+
+ c) i liquidi e i gas aerosol provenienti da prodotti alimentari, cosmetici o farmaceutici e dai prodotti di pulizia, di disinfezione e di risciacquatura devono poter defluire completamente verso l'esterno della macchina (se possibile in una posizione "pulizia"); 
+ 
+
+ d) la macchina deve essere progettata e costruita al fine di evitare l'ingresso di sostanze o di esseri vivi, in particolare insetti o accumuli di materie organiche, in zone impossibili da pulire; 
+ 
+
+ e) la macchina deve essere progettata e costruita in modo che i prodotti ausiliari pericolosi per la salute, inclusi i lubrificanti, non possano entrare in contatto con i prodotti alimentari, cosmetici o farmaceutici. All'occorrenza, la macchina deve essere progettata e costruita per permettere di verificare regolarmente il rispetto di questo requisito. 
+ 
+
+ 2.1.2. Istruzioni 
+ 
+
+ Le istruzioni delle macchine alimentari e delle macchine destinate ad essere utilizzate per prodotti cosmetici o farmaceutici devono indicare i prodotti e i metodi raccomandati per la pulizia, la disinfezione e la risciacquatura non solo delle parti facilmente accessibili ma anche delle parti alle quali è impossibile o sconsigliato accedere. 
+ 
+
+ 
+ 
+
+ 2.2. MACCHINE PORTATILI TENUTE E/O CONDOTTE A MANO 
+ 
+
+ 2.2.1. Considerazioni generali 
+ 
+
+ Le macchine portatili tenute e/o condotte a mano devono: 
+ 
+
+ - a seconda del tipo, avere una superficie di appoggio sufficiente e disporre in numero sufficiente di mezzi di presa e di mantenimento correttamente dimensionati, sistemati in modo da garantire la stabilità della macchina nelle condizioni di funzionamento previste, 
+ 
+
+ - tranne quando sia tecnicamente impossibile o quando esista un dispositivo di comando indipendente, se le impugnature non possono essere abbandonate in tutta sicurezza, essere munite di dispositivi di comando manuali per l'avviamento e/o l'arresto disposti in modo tale che l'operatore non debba abbandonare i mezzi di presa per azionarli, 
+ 
+
+ - essere esenti dai rischi dovuti all'avviamento intempestivo e/o al mantenimento in funzione dopo che l'operatore ha abbandonato i mezzi di presa. Se questo requisito non è tecnicamente realizzabile, occorre prendere disposizioni compensative, 
+ 
+
+ - consentire, all'occorrenza, l'osservazione visiva delle zone pericolose e dell'azione dell'utensile sul materiale lavorato. 
+ 
+
+ Le impugnature delle macchine portatili devono essere progettate e costruite in modo tale che l'avvio e l'arresto delle macchine siano facili e agevoli. 
+ 
+
+ 2.2.1.1. Istruzioni 
+ 
+
+ Le istruzioni devono fornire le seguenti indicazioni relative alle vibrazioni emesse dalle macchine portatili tenute e condotte a mano: 
+ 
+
+ - il valore totale di vibrazioni cui è esposto il sistema mano-braccia quando superi i 2,5 m/s&sup2;. Se tale valore non supera 2,5 m/s&sup2;, occorre segnalarlo, 
+ 
+
+ - l'incertezza della misurazione. 
+ 
+
+ I suddetti valori devono essere quelli misurati effettivamente sulla macchina in questione, oppure quelli stabiliti sulla base di misurazioni effettuate su una macchina tecnicamente comparabile rappresentativa della macchina da produrre. 
+ 
+
+ Allorchè non sono applicate le norme armonizzate, i dati sulle vibrazioni devono essere misurati usando il codice di misurazione più appropriato adeguato alla macchina. 
+ 
+
+ Devono essere specificati le condizioni di funzionamento della macchina durante la misurazione e i metodi utilizzati per effettuarla oppure il riferimento alla norma armonizzata applicata. 
+ 
+
+ 2.2.2. Macchine portatili per il fissaggio e altre macchine ad impatto 
+ 
+
+ 2.2.2.1. Considerazioni generali 
+ 
+
+ Le macchine portatili per il fissaggio o le altre macchine ad impatto devono essere progettate e costruite in modo da: 
+ 
+
+ - effettuare la trasmissione dell'energia al pezzo propulso tramite un componente intermedio che non si separa dal dispositivo, - impedire l'impatto, tramite un dispositivo di consenso, se la macchina non è posizionata correttamente con una pressione adeguata sul materiale di base, 
+ 
+
+ - impedire l'azionamento involontario; se del caso, per azionare l'impatto deve essere necessaria una sequenza appropriata di azioni sul dispositivo di consenso e sul dispositivo di comando, 
+ 
+
+ - impedire l'azionamento intempestivo durante la movimentazione o in caso di urto, 
+ 
+
+ - poter effettuare le operazioni di carico e scarico facilmente e in condizioni di sicurezza. 
+ 
+
+ Se necessario, deve essere possibile dotare il dispositivo di uno o più ripari paraschegge ed i ripari appropriati devono essere forniti dal fabbricante della macchina. 
+ 
+
+ 2.2.2.2. Istruzioni 
+ 
+
+ Le istruzioni devono fornire le indicazioni necessarie riguardanti: 
+ 
+
+ - gli accessori e le attrezzature intercambiabili che possono essere impiegati con la macchina, 
+ 
+
+ - gli elementi appropriati per il fissaggio o altro impatto da utilizzare con la macchina, 
+ 
+
+ - se del caso, le cartucce appropriate da utilizzare. 
+ 
+
+ 
+ 
+
+ 2.3. MACCHINE PER LA LAVORAZIONE DEL LEGNO E DI MATERIE CON CARATTERISTICHE FISICHE SIMILI 
+ 
+
+ Le macchine per la lavorazione del legno e di materie con caratteristiche fisiche simili devono rispettare i seguenti requisiti: 
+ 
+
+ a) la macchina deve essere progettata, costruita o attrezzata in modo che il pezzo da lavorare possa essere posizionato e guidato in condizioni di sicurezza; quando il pezzo è tenuto manualmente su un banco di lavoro, quest'ultimo deve garantire una stabilità sufficiente durante la lavorazione e non deve ostacolare lo spostamento del pezzo; 
+ 
+
+ b) se la macchina può essere utilizzata in condizioni che comportano un rischio di proiezione di pezzi lavorati o loro parti, essa deve essere progettata, costruita o attrezzata in modo da impedire tale proiezione o, qualora ciò non sia possibile, in modo che la proiezione non produca danni per l'operatore e/o le persone esposte; 
+ 
+
+ c) la macchina deve essere equipaggiata di freno automatico che arresti l'utensile in tempo sufficientemente breve in caso di rischio di contatto con l'utensile in fase di rallentamento; 
+ 
+
+ d) quando l'utensile è integrato in una macchina non completamente automatizzata, questa deve essere progettata e costruita in modo tale da eliminare o ridurre i rischi di infortuni alle persone. 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((2.3-bis. Macchine per l'applicazione di pesticidi 
+ 
+
+ 2.3.1. Definizione 
+ 
+
+ Per &laquo;macchine per l'applicazione di pesticidi&raquo; s'intendono le macchine specificamente utilizzate per l'applicazione di prodotti fitosanitari ai sensi dell'articolo 2, paragrafo 1, del regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativo alla commercializzazione dei prodotti fitosanitari. 
+ 
+
+ 2.3.2. Considerazioni generali 
+ 
+
+ Il fabbricante di una macchina per l'applicazione di pesticidi, o il suo mandatario, deve garantire che sia effettuata una valutazione dei rischi di esposizione non intenzionale dell'ambiente ai pesticidi, in conformità della procedura di valutazione dei rischi e di riduzione dei rischi di cui ai Principi generali, punto 1. 
+ 
+
+ Le macchine per l'applicazione di pesticidi devono essere progettate e costruite tenendo in considerazione i risultati della valutazione dei rischi di cui al primo comma in modo da poter essere utilizzate, regolate e sottoposte a manutenzione senza causare un'esposizione non intenzionale dell'ambiente ai pesticidi. 
+ 
+
+ Devono sempre essere evitate fuoriuscite. 
+ 
+
+ 2.3.3. Comando e controllo 
+ 
+
+ Devono essere possibili, con facilità e accuratezza, il comando, il controllo e l'arresto immediato dell'applicazione di pesticidi dalle postazioni operative. 
+ 
+
+ 2.3.4. Riempimento e svuotamento 
+ 
+
+ Le macchine devono essere progettate e costruite in modo tale da facilitare il riempimento preciso con la quantità necessaria di pesticida e assicurare lo svuotamento agevole e completo, prevenendo ogni dispersione accidentale di pesticidi ed evitando ogni contaminazione di fonti idriche nel corso di tali operazioni. 
+ 
+
+ 2.3.5. Applicazione di pesticidi 
+ 
+
+ 2.3.5.1. Tasso di applicazione 
+ 
+
+ Le macchine devono essere munite di dispositivi che permettano di regolare in modo facile, preciso e affidabile il tasso di applicazione. 
+ 
+
+ 2.3.5.2. Distribuzione, deposizione e dispersione di pesticidi 
+ 
+
+ Le macchine devono essere progettate e costruite in modo da assicurare che il pesticida sia depositato nelle zone bersaglio, da ridurre al minimo le perdite nelle altre zone e da evitare la dispersione di pesticidi nell'ambiente. Se del caso, deve essere garantita una distribuzione uniforme e una deposizione omogenea. 
+ 
+
+ 2.3.5.3. Prove 
+ 
+
+ Per accertare se le componenti corrispondenti della macchina sono conformi ai requisiti stabiliti nei punti 2.3.5.1 e 2.3.5.2, il fabbricante o il suo rappresentante autorizzato devono effettuare, o far effettuare, prove adeguate per ogni tipo di macchina. 
+ 
+
+ 2.3.5.4. Dispersione durante la disattivazione 
+ 
+
+ Le macchine devono essere progettate e costruite in modo tale da prevenire la dispersione in fase di disattivazione della funzione di applicazione dei pesticidi. 
+ 
+
+ 2.3.6. Manutenzione 
+ 
+
+ 2.3.6.1. Lavaggio 
+ 
+
+ Le macchine devono essere progettate e costruite in modo da consentire un lavaggio agevole e completo senza contaminazione dell'ambiente. 
+ 
+
+ 2.3.6.2. Riparazione 
+ 
+
+ Le macchine devono essere progettate e costruite in modo da facilitare la sostituzione delle parti usurate senza contaminazione dell'ambiente. 
+ 
+
+ 2.3.7. Ispezioni 
+ 
+
+ Deve essere possibile collegare con facilità alle macchine gli strumenti di misura necessari per verificare il buon funzionamento delle stesse. 
+ 
+
+ 2.3.8. Marcatura di ugelli, filtri a cestello e altri filtri 
+ 
+
+ Ugelli, filtri a cestello e altri filtri devono essere contrassegnati in modo che il loro tipo e la loro dimensione possano essere identificati chiaramente. 
+ 
+
+ 2.3.9. Indicazione del pesticida in uso 
+ 
+
+ Se del caso, le macchine devono essere munite di uno specifico supporto su cui l'operatore possa apporre il nome del pesticida in uso. 
+ 
+
+ 2.3.10. Istruzioni 
+ 
+
+ Nelle istruzioni per l'uso devono figurare le indicazioni seguenti: 
+ 
+
+ a) le precauzioni da prendere durante le operazioni di miscelazione, carico, applicazione, svuotamento, lavaggio, riparazione e trasporto per evitare la contaminazione dell'ambiente; 
+ 
+
+ b) le condizioni dettagliate d'uso per i diversi ambienti operativi previsti, comprese le corrispondenti predisposizioni e regolazioni richieste per assicurare la deposizione dei pesticidi nelle zone bersaglio, riducendo al minimo le perdite nelle altre zone e, se del caso, per assicurare la distribuzione uniforme e la deposizione omogenea dei pesticidi; 
+ 
+
+ c) la gamma dei tipi e delle dimensioni degli ugelli, dei filtri a cestello e degli altri filtri che possono essere utilizzati con la macchina; 
+ 
+
+ d) la frequenza dei controlli e i criteri e i metodi per la sostituzione delle parti soggette a usura che influiscono sul corretto funzionamento della macchina, come gli ugelli, i filtri a cestello e gli altri filtri; 
+ 
+
+ e) le specifiche della taratura, della manutenzione giornaliera, della preparazione per l'inverno e degli altri controlli necessari per assicurare il corretto funzionamento della macchina; 
+ 
+
+ f) i tipi di pesticida che possono provocare anomalie nel funzionamento della macchina; 
+ 
+
+ g) l'indicazione che l'operatore deve tenere aggiornato il nome del pesticida in uso nel supporto specifico di cui al punto 2.3.9; 
+ 
+
+ h) il collegamento e l'uso di attrezzature e di accessori speciali e le necessarie precauzioni da prendere; 
+ 
+
+ i) l'indicazione che la macchina può essere soggetta ai requisiti nazionali in materia di controlli regolari da parte degli organi designati, come previsto nella direttiva 2009/128/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che istituisce un quadro per l'azione comunitaria ai fini dell'utilizzo sostenibile dei pesticidi; 
+ 
+
+ l) le caratteristiche delle macchine che devono essere sottoposte a controllo per assicurarne il corretto funzionamento; 
+ 
+
+ m) le istruzioni per il collegamento dei necessari strumenti di misurazione.))
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3. REQUISITI ESSENZIALI SUPPLEMENTARI DI SICUREZZA E DI TUTELA DELLA SALUTE PER OVVIARE AI PERICOLI DOVUTI ALLA MOBILITà DELLE MACCHINE 
+ 
+
+ Le macchine che presentano pericoli dovuti alla mobilità devono soddisfare tutti i requisiti essenziali di sicurezza e di tutela della salute descritti dal presente capitolo (cfr. Principi generali, punto 4). 
+ 
+
+ 
+ 
+
+ 3.1. CONSIDERAZIONI GENERALI 
+ 
+
+ 3.1.1. Definizioni 
+ 
+
+ a) "Macchina che presenta pericoli dovuti alla mobilità": 
+ 
+
+ - macchina il cui lavoro richiede la mobilità durante il lavoro oppure uno spostamento continuo o semicontinuo secondo una successione di stazioni di lavoro fisse, o 
+ 
+
+ - macchina il cui lavoro si effettua senza spostamenti, ma che può essere munita di mezzi che consentano di spostarla più facilmente da un luogo all'altro. 
+ 
+
+ b) "Conducente": operatore competente incaricato dello spostamento di una macchina. Il conducente può essere trasportato dalla macchina oppure accompagnarla a piedi, o azionarla mediante telecomando. 
+ 
+
+ 
+ 
+
+ 3.2. POSTI DI LAVORO 
+ 
+
+ 3.2.1. Posto di guida 
+ 
+
+ La visibilità dal posto di guida deve essere tale da consentire al conducente di far muovere la macchina e i suoi utensili nelle condizioni di impiego prevedibili, in tutta sicurezza per sè stesso e per le persone esposte. In caso di necessità, adeguati dispositivi devono rimediare ai pericoli dovuti ad insufficiente visibilità diretta. 
+ 
+
+ La macchina su cui è trasportato il conducente deve essere progettata e costruita in modo che ai posti di guida non si presentino per il conducente rischi dovuti al contatto involontario con le ruote o con i cingoli. 
+ 
+
+ Se le dimensioni lo consentono e se i rischi non ne sono accresciuti, il posto di guida del conducente trasportato deve essere progettato e costruito in modo da poter essere dotato di cabina. La cabina deve comportare un luogo destinato alla sistemazione delle istruzioni necessarie al conducente. 
+ 
+
+ 3.2.2. Sedili 
+ 
+
+ Se c'è il rischio che gli operatori o altre persone trasportati dalla macchina possano essere schiacciati tra elementi della macchina e il suolo in caso di ribaltamento o rovesciamento laterale, in particolare per le macchine munite di una struttura di protezione di cui ai punti 3.4.3 o 3.4.4, i sedili devono essere progettati o muniti di un sistema di ritenuta in modo da mantenere le persone sui loro sedili, senza opporsi ai movimenti necessari alle operazioni nè ai movimenti dovuti alla sospensione dei sedili rispetto alla struttura. Detti sistemi di ritenuta non devono essere montati se accrescono i rischi. 
+ 
+
+ 3.2.3. Posti per altre persone 
+ 
+
+ Se le condizioni di utilizzazione prevedono che, oltre al conducente, siano saltuariamente o regolarmente trasportate sulla macchina o vi lavorino altre persone, devono essere previsti posti adeguati affinchè il loro trasporto o lavoro avvenga senza rischi. 
+ 
+
+ Il punto 3.2.1, secondo e terzo comma, si applica anche ai posti delle persone diverse dal conducente. 
+ 
+
+ 
+ 
+
+ 3.3. SISTEMI DI COMANDO 
+ 
+
+ Se necessario, vanno previsti sistemi atti ad impedire l'uso non autorizzato dei comandi. 
+ 
+
+ Nelle macchine dotate di telecomando, ogni unità di comando deve indicare chiaramente quali siano le macchine che essa è destinata a comandare. 
+ 
+
+ Il sistema di telecomando deve essere progettato e costruito in modo da influenzare soltanto: 
+ 
+
+ - la macchina in questione, 
+ 
+
+ - le funzioni in questione. 
+ 
+
+ Le macchine dotate di telecomando devono essere progettate e costruite in modo da rispondere unicamente ai segnali delle unità di comando previste. 
+ 
+
+ 3.3.1. Dispositivi di comando 
+ 
+
+ Dal posto di manovra il conducente deve poter azionare tutti i dispositivi di comando necessari al funzionamento della macchina, tranne per quanto riguarda le funzioni che possono essere esercitate in condizioni di sicurezza solo mediante dispositivi di comando collocati altrove. Dette funzioni includono, in particolare, quelle di cui sono responsabili operatori diversi dal conducente o per le quali è necessario che il conducente lasci il posto di manovra per comandarle in condizioni di sicurezza. 
+ 
+
+ I pedali eventuali devono essere progettati, costruiti e disposti in modo che possano essere azionati da un conducente in modo sicuro con il minimo rischio di azionamento errato. Devono avere una superficie antisdrucciolo ed essere facili da pulire. 
+ 
+
+ Quando il loro azionamento può comportare pericoli, in particolare movimenti pericolosi, i dispositivi di comando, ad esclusione di quelli a posizioni predeterminate, devono ritornare in posizione neutra non appena l'operatore li lascia liberi. 
+ 
+
+ Nel caso di una macchina a ruote, il meccanismo di sterzo deve essere progettato e costruito in modo da ridurre la forza dei movimenti bruschi del volante o della leva di sterzo, dovuti ai colpi subiti dalle ruote sterzanti. 
+ 
+
+ Il comando di blocco del differenziale deve essere progettato e disposto in modo da permettere di sbloccare il differenziale quando la macchina è in movimento. 
+ 
+
+ Il sesto comma del punto 1.2.2, concernente i segnali di avviamento avvertimento sonori e/o visivi, si applica unicamente in caso di retromarcia. 
+ 
+
+ 3.3.2. Avviamento/spostamento 
+ 
+
+ Qualsiasi spostamento comandato di una macchina semovente con conducente trasportato deve essere possibile soltanto se il conducente si trova al posto di comando. 
+ 
+
+ Quando, per il suo lavoro, una macchina è attrezzata con dispositivi che superano la sua sagoma normale (ad esempio stabilizzatore, freccia), è necessario che il conducente disponga di mezzi che gli consentano di verificare facilmente, prima di spostare la macchina, che detti dispositivi sono in una posizione che consente uno spostamento sicuro. 
+ 
+
+ La stessa cosa deve verificarsi per la posizione di tutti gli altri elementi che, per consentire uno spostamento sicuro, devono occupare una posizione definita, se necessario bloccata. 
+ 
+
+ Quando ciò non genera altri rischi, lo spostamento della macchina deve essere subordinato alla posizione sicura degli elementi sopra indicati. 
+ 
+
+ Uno spostamento involontario della macchina non deve essere possibile all'atto dell'avviamento del motore. 
+ 
+
+ 3.3.3. Funzione di spostamento 
+ 
+
+ Fatte salve le prescrizioni da rispettare per la circolazione stradale, le macchine semoventi e i loro rimorchi devono rispettare i requisiti in materia di rallentamento, di arresto, di frenatura e di immobilizzazione che garantiscano la sicurezza in tutte le condizioni di funzionamento, di carico, di velocità, di caratteristiche del suolo e di pendenza previste. 
+ 
+
+ Il rallentamento e l'arresto della macchina semovente devono poter essere ottenuti dal conducente attraverso un dispositivo principale.
+ 
+
+ Se la sicurezza lo esige, in caso di guasto del dispositivo principale o in mancanza di energia per azionare tale dispositivo, un dispositivo d'emergenza con un dispositivo di comando interamente indipendente e facilmente accessibile deve consentire il rallentamento e l'arresto. 
+ 
+
+ Se la sicurezza lo esige, l'immobilizzazione della macchina deve essere mantenuta con un dispositivo di sosta. Questo dispositivo può essere combinato con uno dei dispositivi di cui al secondo comma, a condizione che sia ad azione puramente meccanica. 
+ 
+
+ Le macchine dotate di telecomando devono disporre di sistemi atti ad azionare automaticamente e immediatamente l'arresto e a prevenire il funzionamento potenzialmente pericoloso nelle situazioni seguenti: 
+ 
+
+ - quando il conducente ne ha perso il controllo, 
+ 
+
+ - quando viene ricevuto un segnale di arresto, 
+ 
+
+ - quando viene individuata un'avaria in un elemento del sistema di controllo legato alla sicurezza, 
+ 
+
+ - quando un segnale di convalida non è stato rilevato entro un termine specificato. Il punto 1.2.4 non si applica alla funzione spostamento. 
+ 
+
+ 3.3.4. Spostamento delle macchine con conducente a piedi 
+ 
+
+ Ogni spostamento di una macchina semovente con conducente a piedi deve essere possibile solo se quest'ultimo esercita un'azione continua sul dispositivo di comando corrispondente. In particolare, nessuno spostamento deve essere possibile all'atto d'avviamento del motore. 
+ 
+
+ Il sistema di comando delle macchine con conducente a piedi deve essere progettato in modo da ridurre al minimo i rischi connessi allo spostamento inopinato della macchina verso il conducente, in particolare i rischi: 
+ 
+
+ - di schiacciamento, 
+ 
+
+ - di lesioni provocate da utensili rotanti. 
+ 
+
+ La velocità di spostamento della macchina deve essere compatibile con l'andatura del conducente. 
+ 
+
+ Sulle macchine che possono essere munite di un utensile rotante, quest'ultimo non deve potere essere azionato quando il comando di retromarcia è inserito, salvo che lo spostamento della macchina risulti dal movimento dell'utensile. In quest'ultimo caso la velocità in retromarcia deve essere sufficientemente ridotta, in modo da non presentare rischi per il conducente. 
+ 
+
+ 3.3.5. Guasto del circuito di comando 
+ 
+
+ In caso di guasto dell'alimentazione del servosterzo, la macchina deve poter essere guidata per il tempo necessario ad arrestarla. 
+ 
+
+ 
+ 
+
+ 3.4. MISURE DI PROTEZIONE CONTRO I PERICOLI MECCANICI 
+ 
+
+ 3.4.1. Movimenti incontrollati 
+ 
+
+ La macchina deve essere progettata, costruita ed eventualmente montata sul suo supporto mobile in modo che al momento dello spostamento le oscillazioni incontrollate del suo baricentro non ne pregiudichino la stabilità nè comportino sforzi eccessivi per la sua struttura. 
+ 
+
+ 3.4.2. Elementi mobili di trasmissione 
+ 
+
+ In deroga al punto 1.3.8.1, nel caso dei motori, i ripari mobili che impediscono l'accesso alle parti mobili del compartimento motore possono non essere provviste di dispositivi di interblocco, a condizione che la loro apertura sia possibile soltanto con l'impiego di un utensile o di una chiave, oppure dopo aver azionato un comando situato sul posto di guida, se quest'ultimo si trova in una cabina completamente chiusa con una serratura per impedire l'accesso non autorizzato. 
+ 
+
+ 3.4.3. Ribaltamento o rovesciamento laterale 
+ 
+
+ Quando per una macchina semovente con conducente, operatore/i o altra/e persona/e trasportati esiste il rischio di ribaltamento o rovesciamento laterale, essa deve essere munita di una struttura di protezione appropriata, a meno che ciò non accresca il rischio. 
+ 
+
+ Detta struttura deve essere tale che, in caso di ribaltamento o rovesciamento laterale, garantisca alle persone trasportate un adeguato volume limite di deformazione. 
+ 
+
+ Al fine di verificare che la struttura soddisfi il requisito di cui al secondo comma, il fabbricante o il suo mandatario deve effettuare, o far effettuare, prove appropriate per ciascun tipo di struttura. 
+ 
+
+ 3.4.4. Caduta di oggetti 
+ 
+
+ Quando per una macchina semovente con conducente, operatore/i altra/e o persona/e trasportati esistono rischi connessi con cadute di oggetti o di materiali, essa deve essere progettata e costruita in modo da tenere conto di tali rischi; essa deve inoltre essere munita, se le sue dimensioni lo consentono, di una struttura di protezione appropriata. 
+ 
+
+ Detta struttura deve esser tale che in caso di cadute di oggetti o di materiali sia garantito alla persona o alle persone trasportate un adeguato volume limite di deformazione. 
+ 
+
+ Al fine di verificare che la struttura soddisfi il requisito di cui al secondo comma, il fabbricante o il suo mandatario deve effettuare, o far effettuare, prove appropriate per ciascun tipo di struttura. 
+ 
+
+ 3.4.5. Mezzi di accesso 
+ 
+
+ Mezzi di appoggio o di sostegno devono essere progettati, costruiti e disposti in modo che gli operatori li utilizzino istintivamente e non ricorrano ai dispositivi di comando per facilitare l'accesso. 
+ 
+
+ 3.4.6. Dispositivi di traino 
+ 
+
+ Ogni macchina utilizzata per trainare o destinata ad essere trainata deve essere munita di dispositivi di rimorchio o di traino progettati, costruiti e disposti in modo da garantire che il collegamento e lo sganciamento possano essere effettuati facilmente ed in modo sicuro e da impedire uno sganciamento accidentale durante l'utilizzazione. 
+ 
+
+ Qualora il carico sul timone lo richieda, queste macchine devono essere munite di un supporto con una superficie d'appoggio adattata al carico e al terreno. 
+ 
+
+ 3.4.7. Trasmissione di potenza tra la macchina semovente (o il trattore) e la macchina azionata 
+ 
+
+ I dispositivi amovibili di trasmissione meccanica che collegano una macchina semovente (o un trattore) al primo supporto fisso di una macchina azionata devono essere progettati e costruiti in modo che tutte le parti in movimento durante il funzionamento siano protette per tutta la lunghezza. 
+ 
+
+ Sul lato della macchina semovente o del trattore, la presa di forza alla quale è collegato il dispositivo amovibile di trasmissione meccanica deve essere protetta da un riparo fisso collegato alla macchina semovente (o trattore) oppure da qualsiasi altro dispositivo che garantisca una protezione equivalente. 
+ 
+
+ Deve essere possibile aprire questo riparo per accedere al dispositivo amovibile di trasmissione. Una volta collocata, deve esservi abbastanza spazio per impedire all'albero motore di danneggiare il riparo quando la macchina (o il trattore) è in movimento. 
+ 
+
+ Sul lato della macchina azionata, l'albero comandato deve essere chiuso in un carter di protezione fissato sulla macchina. 
+ 
+
+ La presenza di un limitatore di coppia o di una ruota libera è autorizzata per la trasmissione cardanica soltanto sul lato in cui avviene il collegamento con la macchina azionata. In questo caso occorre indicare sul dispositivo amovibile di trasmissione meccanica il senso del montaggio. 
+ 
+
+ Ogni macchina azionata, il cui funzionamento implica la presenza di un dispositivo amovibile di trasmissione meccanica che la colleghi ad una macchina semovente (o a un trattore), deve possedere un sistema di aggancio del dispositivo amovibile di trasmissione meccanica tale che, quando la macchina è staccata, il dispositivo amovibile di trasmissione meccanica e il suo riparo non vengano danneggiati dal contatto con il suolo o con un elemento della macchina. 
+ 
+
+ Gli elementi esterni del riparo devono essere progettati, costruiti e disposti in modo da non poter ruotare con il dispositivo amovibile di trasmissione meccanica. Il riparo deve coprire l'albero di trasmissione fino alle estremità delle ganasce interne nel caso di giunti cardanici semplici e almeno fino al centro del giunto o dei giunti esterni nel caso di cardani detti a grandangolo. 
+ 
+
+ Se sono previsti accessi ai posti di lavoro in prossimità del dispositivo amovibile di trasmissione meccanica, essi devono essere progettati e costruiti in modo da evitare che i ripari di tali alberi possano servire da predellini, a meno che non siano progettati e costruiti a tal fine. 
+ 
+
+ 
+ 
+
+ 3.5. MISURE DI PROTEZIONE CONTRO ALTRI PERICOLI 
+ 
+
+ 3.5. 1. Batteria d'accumulatori 
+ 
+
+ L'alloggiamento della batteria deve essere progettato e costruito in modo da impedire la proiezione dell'elettrolita sull'operatore in caso di ribaltamento o rovesciamento laterale e da evitare l'accumulo di vapori vicino ai posti occupati dagli operatori. 
+ 
+
+ La macchina deve essere progettata e costruita in modo che la batteria possa essere disinserita con un dispositivo facilmente accessibile previsto a tal fine. 
+ 
+
+ 3.5.2. Incendio 
+ 
+
+ A seconda dei pericoli previsti dal fabbricante la macchina deve, qualora le dimensioni lo consentano: 
+ 
+
+ - permettere l'installazione di estintori facilmente accessibili, oppure 
+ 
+
+ - essere munita di sistemi di estinzione che siano parte integrante della macchina. 
+ 
+
+ 3.5.3. Emissioni di sostanze pericolose 
+ 
+
+ Il punto 1.5.13, secondo e terzo comma, non si applica quando la funzione principale della macchina è la polverizzazione di prodotti.
+ 
+
+ Tuttavia l'operatore deve essere protetto dal rischio di esposizione a tali emissioni pericolose. 
+ 
+
+ 
+ 
+
+ 3.6. INFORMAZIONI ED INDICAZIONI 
+ 
+
+ 3.6.1. Iscrizioni, segnalazioni e avvertimenti 
+ 
+
+ Le macchine devono essere provviste di iscrizioni e/o di targhe con le istruzioni per l'uso, la regolazione e la manutenzione, ovunque necessario, per garantire la sicurezza e la tutela della salute delle persone. Tali mezzi devono essere scelti, progettati e realizzati in modo da essere chiaramente visibili e indelebili. 
+ 
+
+ Fatte salve le prescrizioni da rispettare per la circolazione stradale, le macchine con conducente trasportato devono essere dotate della seguente attrezzatura: 
+ 
+
+ - un avvertitore acustico che consenta di avvertire le persone, 
+ 
+
+ - un sistema di segnalazione luminosa che tenga conto delle condizioni di impiego previste; quest'ultima condizione non si applica alle macchine destinate esclusivamente ai lavori sotterranei e sprovviste di alimentazione elettrica, 
+ 
+
+ - all'occorrenza, deve esserci un appropriato sistema di collegamento tra il rimorchio e la macchina per l'azionamento dei segnali. 
+ 
+
+ Le macchine dotate di telecomando, le cui condizioni di impiego normali espongono le persone a rischi di urto o di schiacciamento, devono essere munite di mezzi adeguati per segnalare i loro spostamenti o di mezzi per proteggere le persone contro tali rischi.
+ 
+
+ Lo stesso vale per le macchine la cui utilizzazione implica la ripetizione sistematica di avanzamento e arretramento lungo uno stesso asse e il cui conducente non ha visibilità posteriore diretta. 
+ 
+
+ Il disinserimento involontario dei dispositivi di avvertimento e di segnalazione deve essere reso impossibile in sede di fabbricazione. Ogni volta che ciò sia indispensabile alla sicurezza, questi dispositivi devono essere muniti di mezzi di controllo del buon funzionamento e un loro guasto deve essere reso apparente all'operatore. 
+ 
+
+ Quando il movimento delle macchine o dei loro utensili è particolarmente pericoloso, devono essere previste indicazioni sulle macchine stesse che avvertano di non avvicinarsi alle macchine durante il lavoro; tali iscrizioni devono essere leggibili a distanza sufficiente per garantire la sicurezza delle persone che operano nei pressi delle macchine. 
+ 
+
+ 3.6.2. Marcatura 
+ 
+
+ Ogni macchina deve recare, in modo leggibile e indelebile, le seguenti indicazioni: 
+ 
+
+ - la potenza nominale espressa in chilowatt (kW), 
+ 
+
+ - la massa, nella configurazione più usuale, in chilogrammi (kg), 
+ 
+
+ e se del caso: 
+ 
+
+ - lo sforzo massimo di trazione previsto dal fabbricante al gancio di traino in newton (N), 
+ 
+
+ - lo sforzo verticale massimo previsto sul gancio di traino in newton (N). 
+ 
+
+ 3.6.3. Istruzioni 
+ 
+
+ 3.6.3.1. Vibrazioni 
+ 
+
+ Le istruzioni devono fornire le seguenti indicazioni relative alle vibrazioni trasmesse dalla macchina al sistema mano-braccio o a tutto il corpo: 
+ 
+
+ - il valore totale di vibrazioni cui è esposto il sistema mano-braccio, quando superi 2,5 m/s&sup2;. Se tale livello è inferiore o pari a 2,5 m/s&sup2;, deve essere indicato, 
+ 
+
+ - il valore quadratico medio massimo dell'accelerazione ponderata cui è esposto tutto il corpo, quando superi 0,5 m/s&sup2;. Se tale livello è inferiore o pari a 0,5 m/s&sup2;, deve essere indicato, 
+ 
+
+ - l'incertezza della misurazione. 
+ 
+
+ I suddetti valori devono essere quelli misurati effettivamente sulla macchina in questione, oppure quelli stabiliti sulla base di misurazioni effettuate su una macchina tecnicamente comparabile rappresentativa della macchina da produrre. 
+ 
+
+ Allorchè non sono applicate le norme armonizzate, i dati sulle vibrazioni devono essere misurati usando il codice di misurazione più appropriato adeguato alla macchina. 
+ 
+
+ Devono essere descritte le condizioni di funzionamento della macchina durante la misurazione e il codice di misurazione utilizzato per effettuarla. 
+ 
+
+ 3.6.3.2. Usi molteplici 
+ 
+
+ Le istruzioni di macchine che consentono vari usi a seconda dell'attrezzatura impiegata e le istruzioni delle attrezzature intercambiabili devono contenere le informazioni necessarie a consentire il montaggio e l'impiego in sicurezza della macchina di base e delle attrezzature intercambiabili che possono esservi montate. 
+ 
+
+ 
+ 
+
+ 4. REQUISITI ESSENZIALI SUPPLEMENTARI DI SICUREZZA E DI TUTELA DELLA SALUTE PER PREVENIRE I PERICOLI DOVUTI AD OPERAZIONI DI SOLLEVAMENTO 
+ 
+
+ Le macchine che presentano pericoli dovuti ad operazioni di sollevamento devono soddisfare tutti i pertinenti requisiti essenziali di sicurezza e di tutela della salute descritti dal presente capitolo (cfr. Principi generali,punto 4). 
+ 
+
+ 
+ 
+
+ 4.1. CONSIDERAZIONI GENERALI 
+ 
+
+ 4.1.1. Definizioni 
+ 
+
+ a) "Operazione di sollevamento": operazione di spostamento di unità di carico costituite da cose e/o persone che necessitano, in un determinato momento, di un cambiamento di livello. 
+ 
+
+ b) "Carico guidato": carico di cui l'intero spostamento avviene lungo guide rigide o flessibili, la cui posizione nello spazio è determinata da punti fissi. 
+ 
+
+ c) "Coefficiente di utilizzazione": rapporto aritmetico tra il carico garantito dal fabbricante o dal suo mandatario, fino al quale un componente è in grado di trattenere tale carico, ed il carico massimo di esercizio marcato sul componente. 
+ 
+
+ d) "Coefficiente di prova": rapporto aritmetico tra il carico utilizzato per effettuare le prove statiche o dinamiche della macchina di sollevamento o di un accessorio di sollevamento ed il carico massimo di esercizio marcato sulla macchina di sollevamento o sull'accessorio di sollevamento. 
+ 
+
+ e) "Prova statica": verifica che consiste nel controllare la macchina di sollevamento o un accessorio di sollevamento e nell'applicargli successivamente una forza corrispondente al carico massimo di esercizio moltiplicato per un coefficiente di prova statica appropriato; quindi, dopo aver soppresso il carico, nell'eseguire di nuovo un'ispezione della macchina o dell'accessorio di sollevamento per controllare che non si sia verificato alcun danno. 
+ 
+
+ f) "Prova dinamica": verifica che consiste nel far funzionare la macchina di sollevamento in tutte le possibili configurazioni al carico massimo di esercizio moltiplicato per il coefficiente di prova dinamica appropriato, tenendo conto del comportamento dinamico della macchina di sollevamento onde verificarne il buon funzionamento. 
+ 
+
+ g) "Supporto del carico": parte della macchina sulla quale o nella quale le persone e/o le cose sono sorrette per essere sollevate. 
+ 
+
+ 4.1.2. Misure di protezione contro i pericoli meccanici 
+ 
+
+ 4.1.2.1. Rischi dovuti alla mancanza di stabilità 
+ 
+
+ La macchina deve essere progettata e costruita in modo che la stabilità prescritta al punto 1.3.1 sia mantenuta sia in servizio che fuori servizio, incluse tutte le fasi di trasporto, montaggio e smontaggio, 
+ 
+
+ in caso di guasti prevedibili di componenti e durante le prove effettuate in conformità del manuale di istruzioni. A tal fine il fabbricante o il suo mandatario deve utilizzare i metodi di verifica appropriati. 
+ 
+
+ 4.1.2.2. Macchina che si sposta lungo guide o su vie di scorrimento 
+ 
+
+ La macchina deve essere munita di dispositivi che agiscono sulle guide o vie di scorrimento in modo da evitare i deragliamenti. 
+ 
+
+ Se, nonostante la presenza di simili dispositivi, permane un rischio di deragliamento o di guasto di un organo di guida o di scorrimento, si devono prevedere dispositivi che impediscano la caduta di attrezzature, di componenti o del carico, nonchè il ribaltamento della macchina. 
+ 
+
+ 4.1.2.3. Resistenza meccanica 
+ 
+
+ La macchina, gli accessori di sollevamento e i relativi componenti devono poter resistere alle sollecitazioni cui sono soggetti durante il funzionamento e, se del caso, anche quando sono fuori servizio, nelle condizioni di installazione e di esercizio previste e in tutte le relative configurazioni, tenendo conto eventualmente degli effetti degli agenti atmosferici e degli sforzi esercitati dalle persone.
+ 
+
+ Questo requisito deve essere soddisfatto anche durante il trasporto, il montaggio e lo smontaggio. 
+ 
+
+ La macchina e gli accessori di sollevamento devono essere progettati e costruiti in modo tale da evitare guasti dovuti alla fatica e all'usura tenuto conto dell'uso previsto. 
+ 
+
+ I materiali utilizzati devono essere scelti tenendo conto degli ambienti di esercizio previsti, soprattutto per quanto riguarda la corrosione, l'abrasione, gli urti, le temperature estreme, la fatica, la fragilità e l'invecchiamento. 
+ 
+
+ La macchina e gli accessori di sollevamento devono essere progettati e costruiti in modo tale da sopportare i sovraccarichi applicati nelle prove statiche senza presentare deformazioni permanenti nè disfunzioni manifeste. Il calcolo della resistenza deve tenere conto del valore del coefficiente di prova statica che è scelto in modo tale da garantire un livello adeguato di sicurezza; in generale, questo coefficiente ha i seguenti valori: 
+ 
+
+ a) macchine mosse dalla forza umana e accessori di sollevamento: 1,5, 
+ 
+
+ b) altre macchine: 1,25. 
+ 
+
+ La macchina deve essere progettata e costruita in modo tale da sopportare perfettamente le prove dinamiche effettuate con il carico massimo di utilizzazione moltiplicato per il coefficiente di prova dinamica. Il coefficiente di prova dinamica è scelto in modo da garantire un livello di sicurezza adeguato; questo coefficiente è, in generale, pari a 1,1. Le prove sono generalmente eseguite alle velocità nominali previste. Qualora il circuito di comando della macchina autorizzi più movimenti simultanei le prove devono essere effettuate nelle condizioni più sfavorevoli, in generale combinando i relativi movimenti. 
+ 
+
+ 4.1.2.4. Pulegge, tamburi, rulli, funi e catene 
+ 
+
+ I diametri delle pulegge, dei tamburi e dei rulli devono essere compatibili con le dimensioni delle funi o delle catene di cui possono essere muniti. 
+ 
+
+ I tamburi e i rulli devono essere progettati, costruiti ed installati in modo che le funi o le catene di cui sono muniti possano avvolgersi senza lasciare lateralmente l'alloggiamento previsto. 
+ 
+
+ Le funi utilizzate direttamente per il sollevamento o il supporto del carico non devono comportare alcuna impiombatura a parte quelle alle loro estremità. Le impiombature sono tuttavia tollerate negli impianti destinati per progettazione ad essere modificati regolarmente in funzione delle esigenze di utilizzazione. 
+ 
+
+ Il coefficiente di utilizzazione dell'insieme fune e terminale è scelto in modo tale da garantire un livello adeguato di sicurezza.
+ 
+
+ Questo coefficiente è, in generale, pari a 5. 
+ 
+
+ Il coefficiente di utilizzazione delle catene di sollevamento è scelto in modo tale da garantire un livello adeguato di sicurezza.
+ 
+
+ Questo coefficiente è, in generale, pari a 4. 
+ 
+
+ Al fine di verificare che sia stato raggiunto il coefficiente di utilizzazione adeguato, il fabbricante o il suo mandatario deve effettuare o fare effettuare le prove appropriate per ciascun tipo di catena e di fune utilizzato direttamente per il sollevamento del carico e per ciascun tipo di terminale di fune. 
+ 
+
+ 4.1.2.5. Accessori di sollevamento e relativi componenti 
+ 
+
+ Gli accessori di sollevamento e i relativi componenti devono essere dimensionati tenendo conto dei fenomeni di fatica e di invecchiamento per un numero di cicli di funzionamento conforme alla durata di vita prevista alle condizioni di funzionamento specificate per l'applicazione prevista. 
+ 
+
+ Inoltre: 
+ 
+
+ a) il coefficiente di utilizzazione degli insiemi fune metallico e terminale deve essere scelto in modo tale da garantire un livello adeguato di sicurezza; questo coefficiente è, in generale, pari a 5.
+ 
+
+ Le funi non devono comportare nessun intreccio o anello diverso da quelli delle estremità; 
+ 
+
+ b) allorchè sono utilizzate catene a maglie saldate, queste devono essere del tipo a maglie corte. Il coefficiente di utilizzazione delle catene deve essere scelto in modo tale da garantire un livello adeguato di sicurezza; questo coefficiente è, in generale, pari a 4; 
+ 
+
+ c) il coefficiente d'utilizzazione delle funi o cinghie di fibre tessili dipende dal materiale, dal processo di fabbricazione, dalle dimensioni e dall'utilizzazione. Questo coefficiente deve essere scelto in modo da garantire un livello di sicurezza adeguato; esso è, in generale, pari a 7, a condizione che i materiali utilizzati siano di ottima qualità controllata e che il processo di fabbricazione sia adeguato all'uso previsto. In caso contrario, il coefficiente è in generale più elevato per garantire un livello di sicurezza equivalente. Le funi o cinghie di fibre tessili non devono presentare alcun nodo, impiombatura o collegamento, a parte quelli dell'estremità dell'imbracatura o della chiusura di un'imbracatura senza estremità; 
+ 
+
+ d) il coefficiente d'utilizzazione di tutti i componenti metallici di un'imbracatura o utilizzati con un'imbracatura è scelto in modo da garantire un livello adeguato di sicurezza; questo coefficiente è, in generale, pari a 4; 
+ 
+
+ e) il carico massimo di utilizzazione di una braca a trefoli è stabilito tenendo conto del coefficiente di utilizzazione del trefolo più debole, del numero di trefoli e di un fattore di riduzione che dipende dal tipo di imbracatura; 
+ 
+
+ f) al fine di verificare che sia stato raggiunto il coefficiente di utilizzazione adeguato, il fabbricante o il suo mandatario deve effettuare o fare effettuare le prove appropriate per ciascun tipo di componente di cui alle lettere a), b), c) e d). 
+ 
+
+ 4.1.2.6. Controllo dei movimenti 
+ 
+
+ I dispositivi di controllo dei movimenti devono agire in modo da mantenere in condizioni di sicurezza la macchina su cui sono installati. 
+ 
+
+ a) La macchina deve essere progettata, costruita o attrezzata con dispositivi che mantengono l'ampiezza dei movimenti dei loro componenti entro i limiti previsti. L'attività di questi dispositivi deve essere preceduta eventualmente da un segnale. 
+ 
+
+ b) Se più macchine fisse o traslanti su rotaie possono compiere evoluzioni simultanee con rischio di urti, dette macchine devono essere progettate e costruite per poter essere equipaggiate di sistemi che consentano di evitare tali rischi. 
+ 
+
+ c) La macchina deve essere progettata e costruita in modo che i carichi non possano derivare pericolosamente o cadere improvvisamente in caduta libera anche in caso di interruzione parziale o totale di energia o quando cessa l'azione dell'operatore. 
+ 
+
+ d) Tranne che per le macchine il cui lavoro richieda una siffatta applicazione, nelle normali condizioni di esercizio non deve essere possibile abbassare il carico soltanto sotto il controllo di un freno a frizione. 
+ 
+
+ e) Gli organi di presa devono essere progettati e costruiti in modo da evitare la caduta improvvisa dei carichi. 
+ 
+
+ 4.1.2.7. Movimenti di carichi durante la movimentazione 
+ 
+
+ Il posto di manovra della macchina deve essere posizionato in modo tale da assicurare la più ampia visuale possibile delle traiettorie degli elementi in movimento, per evitare la possibilità di urtare persone, materiali o altre macchine che possono funzionare simultaneamente e quindi presentare un pericolo. 
+ 
+
+ Le macchine a carico guidato devono essere progettate e costruite in modo tale da prevenire lesioni alle persone dovute ai movimenti del carico, del supporto del carico o degli eventuali contrappesi. 
+ 
+
+ 4.1.2.8. Macchine che collegano piani definiti 
+ 
+
+ 4.1.2.8.1. Movimenti del supporto del carico 
+ 
+
+ Il movimento del supporto del carico delle macchine che collegano piani definiti deve essere a guida rigida verso e ai piani. Anche i sistemi a forbice sono considerati a guida rigida. 
+ 
+
+ 4.1.2.8.2. Accesso del supporto del carico 
+ 
+
+ Se al supporto del carico hanno accesso persone, la macchina deve essere progettata e costruita in modo da garantire che il supporto del carico resti immobile durante l'accesso, in particolare al momento del carico o dello scarico. 
+ 
+
+ La macchina deve essere progettata e costruita in modo da garantire che il dislivello tra il supporto del carico e il piano servito non crei rischi di inciampo. 
+ 
+
+ 4.1.2.8.3. Rischi dovuti al contatto con il supporto del carico in movimento 
+ 
+
+ Se necessario, per soddisfare i requisiti di cui al punto 4.1.2.7, secondo comma, il percorso del supporto del carico deve essere reso inaccessibile durante il funzionamento normale. 
+ 
+
+ Se, durante l'ispezione o la manutenzione c'è il rischio che le persone situate al di sotto o al di sopra del supporto del carico siano schiacciate tra il supporto del carico e le parti fisse, deve essere lasciato spazio libero sufficiente tramite volumi di rifugio o dispositivi meccanici di blocco del movimento del supporto del carico. 
+ 
+
+ 4.1.2.8.4. Rischio di caduta del carico dal supporto del carico 
+ 
+
+ Se c'è il rischio di caduta del carico dal supporto del carico, la macchina deve essere progettata e costruita in modo da prevenire tale rischio. 
+ 
+
+ 4.1.2.8.5. Piani 
+ 
+
+ Devono essere prevenuti i rischi dovuti al contatto delle persone ai piani con il supporto del carico in movimento o altre parti mobili. 
+ 
+
+ Se c'è il rischio di caduta di persone nel percorso del supporto del carico quando quest'ultimo non è presente ai piani, devono essere installati ripari per evitare tale rischio. Detti ripari non devono aprirsi in direzione del percorso del supporto del carico.
+ 
+
+ Devono essere montati con un dispositivo di interblocco controllato dalla posizione del supporto del carico che impedisce: 
+ 
+
+ - movimenti pericolosi del supporto del carico finchè i ripari non sono chiusi e bloccati, 
+ 
+
+ - l'apertura pericolosa di un riparo finchè il supporto del carico non si sia arrestato al piano corrispondente. 
+ 
+
+ 4.1.3. Idoneità all'impiego 
+ 
+
+ Il fabbricante o il suo mandatario si accerta, all'atto dell'immissione sul mercato o della prima messa in servizio delle macchine di sollevamento o degli accessori di sollevamento, con adeguate misure che egli prende o fa prendere, che gli accessori di sollevamento e le macchine di sollevamento pronti ad essere utilizzati, a operazione manuale o a operazione motorizzata, possano compiere le funzioni previste in condizioni di sicurezza. 
+ 
+
+ Le prove statiche e dinamiche di cui al punto 4.1.2.3 devono essere eseguite su tutte le macchine di sollevamento pronte per essere messe in servizio. 
+ 
+
+ Se le macchine non possono essere montate nei locali del fabbricante o del suo mandatario, le misure appropriate devono essere prese sul luogo dell'utilizzazione. In caso contrario, esse possono essere prese tanto nei locali del fabbricante quanto sul luogo dell'utilizzazione. 
+ 
+
+ 
+ 
+
+ 4.2. REQUISITI PER LE MACCHINE MOSSE DA ENERGIA DIVERSA DA QUELLA UMANA 
+ 
+
+ 4.2. 1. Comando dei movimenti 
+ 
+
+ Devono essere utilizzati dispositivi di comando ad azione mantenuta per il comando della macchina o delle sue attrezzature. Per i movimenti, parziali o totali, per i quali non si corre il rischio di urto da parte del carico o della macchina, si possono sostituire detti comandi con dispositivi di comando che consentono movimenti con arresti automatici a posizioni preselezionate senza dover mantenere l'azionamento da parte dell'operatore. 
+ 
+
+ 4.2.2. Controllo delle sollecitazioni 
+ 
+
+ Le macchine con un carico massimo di utilizzazione pari almeno a 1.000 kg o il cui momento di rovesciamento è pari almeno a 40.000 Nm devono essere dotate di dispositivi che avvertano il conducente e impediscano i movimenti pericolosi in caso: 
+ 
+
+ - di sovraccarico sia per eccesso di carico massimo di utilizzazione, sia per superamento del momento massimo di utilizzazione dovuto a tale carico, o 
+ 
+
+ - di superamento del momento di rovesciamento. 
+ 
+
+ 4.2.3. Impianti guidati da funi 
+ 
+
+ Le funi portanti, traenti o portanti e traenti devono essere tese da contrappesi o da un dispositivo che consente di controllare in permanenza la tensione. 
+ 
+
+ 
+ 
+
+ 4.3. INFORMAZIONI E MARCATURA 
+ 
+
+ 4.3. 1. Catene, funi e cinghie 
+ 
+
+ Ogni lunghezza di catena, fune o cinghia di sollevamento che non faccia parte di un insieme deve recare una marcatura o, se ciò non è possibile, una targa o un anello inamovibile con i riferimenti del fabbricante o del suo mandatario e l'identificazione della relativa attestazione. 
+ 
+
+ L'attestazione sopra menzionata deve contenere almeno le seguenti indicazioni: 
+ 
+
+ a) nome e indirizzo del fabbricante e, se del caso, del suo mandatario; 
+ 
+
+ b) descrizione della catena o della fune comprendente: 
+ 
+
+ - dimensioni nominali, 
+ 
+
+ - costruzione, 
+ 
+
+ - materiale di fabbricazione, e 
+ 
+
+ - qualsiasi trattamento metallurgico speciale subito dal materiale; 
+ 
+
+ c) metodo di prova impiegato; 
+ 
+
+ d) carico massimo che deve essere sopportato, durante il funzionamento, dalla catena o dalla fune. Una forcella di valori può essere indicata in funzione delle applicazioni previste. 
+ 
+
+ 4.3.2. Accessori di sollevamento 
+ 
+
+ Gli accessori di sollevamento devono recare le seguenti indicazioni: 
+ 
+
+ - identificazione del materiale, qualora tale informazione sia necessaria per la sicurezza di utilizzo, 
+ 
+
+ - carico massimo di utilizzazione. 
+ 
+
+ Per gli accessori di sollevamento sui quali la marcatura è materialmente impossibile, le indicazioni di cui al primo comma devono essere riportate su una targa o un altro mezzo equivalente fissato saldamente all'accessorio. 
+ 
+
+ Le indicazioni devono essere leggibili e situate in un punto in cui non rischino di scomparire per effetto dell'usura nè di compromettere la resistenza dell'accessorio. 
+ 
+
+ 4.3.3. Macchine di sollevamento 
+ 
+
+ Il carico massimo di utilizzazione deve essere marcato in modo ben visibile sulla macchina. Questa marcatura deve essere leggibile, indelebile e chiara. 
+ 
+
+ Se il carico massimo di utilizzazione dipende dalla configurazione della macchina, ogni posto di lavoro sarà munito di una targa dei carichi che indichi sotto forma di tabelle o di diagrammi i carichi di utilizzazione consentiti per ogni singola configurazione. 
+ 
+
+ Le macchine destinate al sollevamento di sole cose, munite di un supporto del carico accessibile alle persone, devono recare un'avvertenza chiara ed indelebile che vieti il sollevamento di persone. Detta avvertenza deve essere visibile da ciascun posto da cui è possibile l'accesso. 
+ 
+
+ 
+ 
+
+ 4.4. ISTRUZIONI 
+ 
+
+ 4.4.1. Accessori di sollevamento 
+ 
+
+ Ogni accessorio di sollevamento, o ciascuna partita di accessori di sollevamento commercialmente indivisibile, deve essere accompagnato da istruzioni che forniscano almeno le seguenti indicazioni: 
+ 
+
+ a) uso previsto; 
+ 
+
+ b) limiti di utilizzazione [in particolare per gli accessori di sollevamento quali ventose magnetiche o a vuoto che non soddisfano pienamente le disposizioni del punto 4.1.2.6, lettera e)]; 
+ 
+
+ c) istruzioni per il montaggio, l'uso e la manutenzione; 
+ 
+
+ d) coefficiente di prova statica utilizzato. 
+ 
+
+ 4.4.2. Macchine di sollevamento 
+ 
+
+ Le macchine di sollevamento devono essere accompagnate da istruzioni che forniscano le informazioni seguenti: 
+ 
+
+ a) caratteristiche tecniche, in particolare: 
+ 
+
+ - il carico massimo di utilizzazione ed eventualmente un richiamo alla targa dei carichi o alla tabella dei carichi di cui al punto 4.3.3, secondo comma, 
+ 
+
+ - le reazioni sugli appoggi o sugli incastri e, se del caso, le caratteristiche delle guide, 
+ 
+
+ - eventualmente la definizione ed i mezzi di installazione delle zavorre; 
+ 
+
+ b) contenuto del registro di controllo della macchina, se non è fornito insieme a quest'ultima; 
+ 
+
+ c) raccomandazioni per l'uso, in particolare per ovviare alle insufficienze della visione diretta del carico da parte dell'operatore; 
+ 
+
+ d) se del caso, un rapporto di prova che descriva dettagliatamente le prove statiche e dinamiche effettuate dal fabbricante o dal suo mandatario, o per suo conto; 
+ 
+
+ e) per le macchine che non sono montate, presso il fabbricante, nella loro configurazione di utilizzazione, le istruzioni necessarie per attuare le disposizioni di cui al punto 4.1.3 prima della loro prima messa in servizio. 
+ 
+
+ 
+ 
+
+ 5. REQUISITI ESSENZIALI SUPPLEMENTARI DI SICUREZZA E DI TUTELA DELLA SALUTE PER LE MACCHINE DESTINATE AD ESSERE UTILIZZATE NEI LAVORI SOTTERRANEI 
+ 
+
+ Le macchine destinate ad essere utilizzate nei lavori sotterranei devono soddisfare tutti i requisiti essenziali di sicurezza e di tutela della salute descritti dal presente capitolo (cfr. Principi generali, punto 4). 
+ 
+
+ 
+ 
+
+ 5.1. RISCHI DOVUTI ALLA MANCANZA DI STABILITà 
+ 
+
+ Le armature semoventi devono essere progettate e costruite in modo da permettere un adeguato orientamento, quando vengono spostate, e non devono ribaltarsi prima e durante la messa sotto pressione e dopo la decompressione. Devono disporre di ancoraggi per la piastra di testa dei raccordi idraulici individuali. 
+ 
+
+ 
+ 
+
+ 5.2. CIRCOLAZIONE 
+ 
+
+ Le armature semoventi devono permettere alle persone di circolare senza intralci. 
+ 
+
+ 
+ 
+
+ 5.3. DISPOSITIVI DI COMANDO 
+ 
+
+ I dispositivi di comando dell'acceleratore e dei freni che consentono di spostare le macchine che scorrono su rotaia devono essere azionati a mano. Tuttavia i dispositivi di consenso possono essere a pedale. 
+ 
+
+ I dispositivi di comando delle armature semoventi devono essere progettati, costruiti e disposti in modo da permettere che, durante l'operazione di avanzamento, gli operatori siano protetti da un'armatura fissa. I dispositivi di comando devono essere protetti da qualsiasi azionamento involontario. 
+ 
+
+ 
+ 
+
+ 5.4. ARRESTO DELLO SPOSTAMENTO 
+ 
+
+ Le locomotive destinate ad essere impiegate nei lavori sotterranei devono essere munite di un dispositivo di consenso che agisca sul circuito di comando dello spostamento della macchina di modo che si arresti, se il conducente non è più in grado di comandarlo. 
+ 
+
+ 
+ 
+
+ 5.5. INCENDIO 
+ 
+
+ Il secondo trattino del punto 3.5.2 è obbligatorio per le macchine comprendenti parti ad alto rischio di infiammabilità. 
+ 
+
+ Il sistema di frenatura delle macchine destinate ad essere impiegate nei lavori sotterranei deve essere progettato e costruito in modo da non produrre scintille o essere causa di incendio. 
+ 
+
+ Le macchine a motore a combustione interna destinate ad essere impiegate in lavori sotterranei devono essere dotate esclusivamente di motore che utilizzi un combustibile a bassa tensione di vapore che escluda qualsiasi scintilla di origine elettrica. 
+ 
+
+ 
+ 
+
+ 5.6. EMISSIONI DI GAS DI SCARICO 
+ 
+
+ I gas di scarico emessi da motori a combustione interna non devono essere evacuati verso l'alto. 
+ 
+
+ 
+ 
+
+ 6. REQUISITI ESSENZIALI SUPPLEMENTARI DI SICUREZZA E DI TUTELA DELLA SALUTE PER LE MACCHINE CHE PRESENTANO PARTICOLARI PERICOLI DOVUTI AL SOLLEVAMENTO DI PERSONE 
+ 
+
+ Le macchine che presentano pericoli dovuti al sollevamento di persone devono soddisfare tutti i pertinenti requisiti essenziali di sicurezza e di tutela della salute descritti dal presente capitolo (cfr. Principi generali, punto 4). 
+ 
+
+ 
+ 
+
+ 6.1. CONSIDERAZIONI GENERALI 
+ 
+
+ 6.1.1. Resistenza meccanica 
+ 
+
+ Il supporto del carico, incluse eventuali botole, deve essere progettato e costruito in modo da offrire lo spazio e la resistenza corrispondenti al numero massimo di persone consentito nel supporto del carico e al carico massimo di utilizzazione. 
+ 
+
+ I coefficienti di utilizzazione dei componenti di cui ai punti 4.1.2.4 e 4.1.2.5 non sono sufficienti per le macchine destinate al sollevamento di persone e devono, come regola generale, essere raddoppiati. Le macchine destinate al sollevamento di persone o di persone e cose devono essere munite di un sistema di sospensione o di sostegno del supporto del carico, progettato e costruito in modo tale da garantire un adeguato livello globale di sicurezza e di evitare il rischio di caduta del supporto del carico. 
+ 
+
+ Se per sospendere il supporto del carico sono utilizzate funi o catene, come regola generale sono richieste almeno due funi o catene indipendenti, ciascuna con il proprio ancoraggio. 
+ 
+
+ 6.1.2. Controllo delle sollecitazioni per le macchine mosse da un'energia diversa dalla forza umana 
+ 
+
+ I requisiti di cui al punto 4.2.2 si applicano a prescindere dal carico massimo di utilizzazione e dal momento di rovesciamento, a meno che il fabbricante possa dimostrare che non ci sono rischi di sovraccarico o di rovesciamento. 
+ 
+
+ 
+ 
+
+ 6.2. DISPOSITIVI DI COMANDO 
+ 
+
+ Se i requisiti di sicurezza non impongono altre soluzioni, come regola generale il supporto del carico deve essere progettato e costruito in modo che le persone che vi si trovano dispongano di dispositivi di comando dei movimenti di salita e discesa e, se del caso, di altri movimenti del supporto del carico. 
+ 
+
+ Tali dispositivi di comando devono avere la precedenza sugli altri dispositivi di comando dello stesso movimento salvo sui dispositivi di arresto di emergenza. 
+ 
+
+ I dispositivi di comando di tali movimenti devono essere del tipo ad azione mantenuta, tranne quando lo stesso supporto del carico è completamente chiuso. 
+ 
+
+ 
+ 
+
+ 6.3. RISCHI PER LE PERSONE CHE SI TROVANO NEL SUPPORTO DEL CARICO O SOPRA DI ESSO 
+ 
+
+ 6.3.1. Rischi dovuti ai movimenti del supporto del carico 
+ 
+
+ Le macchine per il sollevamento di persone devono essere progettate, costruite e attrezzate in modo tale che le accelerazioni o le decelerazioni del supporto del carico non generino rischi per le persone. 
+ 
+
+ 6.3.2. Rischio di caduta delle persone dal supporto del carico 
+ 
+
+ Il supporto del carico non deve inclinarsi tanto da comportare un rischio di caduta per i suoi occupanti, anche durante i movimenti della macchina e del supporto del carico. 
+ 
+
+ Se il supporto del carico è progettato per fungere da posto di lavoro, devono essere prese disposizioni per garantirne la stabilità e impedire movimenti pericolosi. 
+ 
+
+ Se le misure di cui al punto 1.5.15 non sono sufficienti, i supporti del carico devono essere muniti di ancoraggi appropriati in numero adeguato al numero di persone consentito nel supporto del carico. I punti di ancoraggio devono essere sufficientemente resistenti per l'uso di attrezzature per la protezione individuale contro le cadute dall'alto. 
+ 
+
+ Eventuali botole nel pavimento o nel soffitto o portelli laterali devono essere progettati e costruiti in modo da impedire l'apertura involontaria e devono aprirsi in senso contrario al rischio di caduta in caso di apertura inopinata. 
+ 
+
+ 6.3.3. Rischio dovuto alla caduta di oggetto sul supporto del carico 
+ 
+
+ Se c'è il rischio di caduta di oggetti sul supporto del carico con conseguente pericolo per le persone, il supporto del carico deve essere munito di una copertura di protezione. 
+ 
+
+ 
+ 
+
+ 6.4. MACCHINE CHE COLLEGANO PIANI DEFINITI 
+ 
+
+ 6.4.1. Rischi per le persone che si trovano nel supporto del carico o sopra di esso 
+ 
+
+ Il supporto del carico deve essere progettato e costruito in modo da prevenire i rischi dovuti al contatto tra le persone e/o le cose, che si trovano nel supporto del carico o sopra di esso, con elementi fissi o mobili. Se necessario, per soddisfare questo requisito, il supporto del carico stesso deve essere completamente chiuso e con porte munite di un dispositivo di interblocco che impedisca movimenti pericolosi del supporto del carico, se le porte non sono chiuse. Le porte devono restare chiuse se il supporto del carico si arresta tra i piani, qualora vi sia il rischio di caduta dal supporto del carico. 
+ 
+
+ La macchina deve essere progettata, costruita e, se necessario, munita di dispositivi in modo da impedire movimenti incontrollati in salita o in discesa del supporto del carico. Detti dispositivi devono essere in grado di arrestare il supporto del carico in condizioni di carico di utilizzazione massimo e di velocità massima prevedibile. 
+ 
+
+ L'azione di arresto non deve causare decelerazioni dannose per gli occupanti, in qualsiasi condizione di carico. 
+ 
+
+ 6.4.2. Comandi ai piani 
+ 
+
+ I comandi ai piani, ad eccezione di quelli di emergenza, non devono avviare movimenti del supporto del carico quando: 
+ 
+
+ - i dispositivi di comando nel supporto del carico sono azionati, - il supporto del carico non si trova a un piano. 
+ 
+
+ 6.4.3. Accesso al supporto del carico 
+ 
+
+ I ripari ai piani e sul supporto del carico devono essere progettati e costruiti in modo da garantire il trasferimento in condizioni di sicurezza verso il supporto del carico e viceversa, tenuto conto della gamma prevedibile di cose e persone da sollevare. 
+ 
+
+ 
+ 
+
+ 6.5. MARCATURE 
+ 
+
+ Nel supporto del carico devono figurare le informazioni necessarie per garantire la sicurezza, inclusi: 
+ 
+
+ - il numero di persone consentito nel supporto del carico, 
+ 
+
+ - il carico di utilizzazione massimo.
