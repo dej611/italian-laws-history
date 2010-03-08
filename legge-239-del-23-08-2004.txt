@@ -421,7 +421,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 12. L'Autorità per l'energia elettrica e il gas presenta al Parlamento e al Presidente del Consiglio dei ministri la relazione sullo stato dei servizi e sull'attività svolta, ai sensi dell'articolo 2, comma 12, lettera i), della legge 14 novembre 1995, n. 481, entro il 30 giugno di ciascun anno. Nella relazione l'Autorità illustra anche le iniziative assunte nel quadro delle esigenze di sviluppo dei servizi di pubblica utilità e in conformità agli indirizzi di politica generale del settore di cui al comma 11. 
+ 12. L'Autorità per l'energia elettrica e il gas presenta al Parlamento e al Presidente del Consiglio dei ministri la relazione sullo stato dei servizi e sull'attività svolta, ai sensi dell'articolo 2, comma 12, lettera i), della legge 14 novembre 1995, n. 481, entro il 30 giugno di ciascun anno. Nella relazione l'Autorità illustra anche le iniziative assunte nel quadro delle esigenze di sviluppo dei servizi di pubblica utilità e in conformità agli indirizzi di politica generale del settore di cui al comma 11.
+ (( L'Autorità per l'energia elettrica e il gas riferisce, anche in relazione alle lettere c) ed i) del comma 3, entro il 30 gennaio di ogni anno alle Commissioni parlamentari competenti sullo stato del mercato dell'energia elettrica e del gas naturale e sullo stato di utilizzo ed integrazione degli impianti alimentati da fonti rinnovabili ))
+
+ . 
  
 
  
@@ -670,11 +673,6 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 
- ((
- 
-
- 
  34. Al fine di garantire un'effettiva concorrenza e pari opportunità di iniziativa economica, le imprese operanti nei settori della vendita, del trasporto e della distribuzione dell'energia elettrica e del gas naturale, che abbiano in concessione o in affidamento la gestione dei servizi pubblici locali ovvero la gestione delle reti, degli impianti e delle altre dotazioni infrastrutturali, possono svolgere attività nel settore verticalmente collegato o contiguo dei servizi post-contatore di installazione, assistenza e manutenzione nei confronti dei medesimi utenti finali del servizio pubblico, avvalendosi di società separate, partecipate o controllate, ovvero operanti in affiliazione commerciale, per l'esercizio indiretto dei medesimi servizi di post-contatore, non possono applicare condizioni nè concordare pratiche economiche, contrattuali, pubblicitarie ed organizzative atte a determinare ingiustificati svantaggi per le imprese direttamente concorrenti nel medesimo settore dei servizi post-contatore e rendono accessibili alle medesime imprese i beni, i servizi e gli elementi informativi e conoscitivi di cui abbiano la disponibilità in relazione all'attività svolta in posizione dominante o in regime di monopolio. 
  
 
@@ -687,9 +685,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- ))
  
-
  
 
  
@@ -1129,7 +1125,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 77. Il permesso di ricerca e la concessione di coltivazione degli idrocarburi in terraferma costituiscono titolo per la costruzione degli impianti e delle opere necessari, degli interventi di modifica, delle opere connesse e delle infrastrutture indispensabili all'esercizio, che sono dichiarati di pubblica utilità. Essi sostituiscono, ad ogni effetto, autorizzazioni, permessi, concessioni ed atti di assenso comunque denominati, previsti dalle norme vigenti, fatto salvo quanto disposto dal decreto legislativo 25 novembre 1996, n. 624. 
+ 
+ ((
+ 
+
+ 
+ 77. Il permesso di ricerca di idrocarburi liquidi e gassosi in terraferma, di cui all'articolo 6 della legge 9 gennaio 1991, n. 9, e successive modificazioni, è rilasciato a seguito di un procedimento unico al quale partecipano le amministrazioni statali e regionali interessate, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. Esso consente lo svolgimento di attività di prospezione consistente in rilievi geologici, geofisici e geochimici, eseguiti con qualunque metodo o mezzo, e ogni altra operazione volta al rinvenimento di giacimenti, escluse le perforazioni dei pozzi esplorativi. Del rilascio del permesso di ricerca è data comunicazione ai comuni interessati. 
  
 
  
@@ -1137,7 +1138,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 78. Il permesso e la concessione di cui al comma 77 sono rilasciati a seguito di un procedimento unico, al quale partecipano le amministrazioni statali, regionali e locali interessate, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. 
+ 78. L'autorizzazione alla perforazione del pozzo esplorativo, alla costruzione degli impianti e delle opere necessari, delle opere connesse e delle infrastrutture indispensabili all'attività di perforazione, che sono dichiarati di pubblica utilità, è concessa, previa valutazione di impatto ambientale, su istanza del titolare del permesso di ricerca, da parte dell'ufficio territoriale minerario per gli idrocarburi e la geotermia competente, a seguito di un procedimento unico, al quale partecipano la regione e gli enti locali interessati, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. 
  
 
  
@@ -1145,7 +1146,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 79. La procedura di valutazione di impatto ambientale, ove richiesta dalle norme vigenti, si conclude entro il termine di tre mesi per le attività in terraferma ed entro il termine di quattro mesi per le attività in mare e costituisce parte integrante e condizione necessaria del procedimento autorizzativo. Decorso tale termine, l'amministrazione competente in materia di valutazione di impatto ambientale si esprime nell'ambito della conferenza di servizi convocata ai sensi della legge 7 agosto 1990, n. 241. 
+ 79. Il permesso di ricerca di idrocarburi liquidi e gassosi in mare, di cui all'articolo 6 della legge 9 gennaio 1991, n. 9, e successive modificazioni, è rilasciato a seguito di un procedimento unico al quale partecipano le amministrazioni statali interessate, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. Esso consente lo svolgimento di attività di prospezione consistente in rilievi geologici, geofisici e geochimici, eseguiti con qualunque metodo o mezzo, e ogni altra operazione volta al rinvenimento di giacimenti, escluse le perforazioni dei pozzi esplorativi. 
  
 
  
@@ -1153,7 +1154,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 80. Nel caso di permessi di ricerca, l'istruttoria si conclude entro il termine di sei mesi dalla data di conclusione del procedimento di cui all'articolo 4 del decreto legislativo 25 novembre 1996, n. 625. 
+ 80. L'autorizzazione alla perforazione del pozzo esplorativo, alla costruzione degli impianti e delle opere necessari, delle opere connesse e delle infrastrutture indispensabili all'attività di perforazione è concessa, previa valutazione di impatto ambientale, su istanza del titolare del permesso di ricerca di cui al comma 79, da parte dell'ufficio territoriale minerario per gli idrocarburi e la geotermia competente. 
  
 
  
@@ -1161,7 +1162,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 81. Nel caso di concessioni di coltivazione, l'istruttoria si conclude entro il termine di sei mesi dalla data di presentazione dello studio di impatto ambientale alle amministrazioni competenti. 
+ 81. Nel caso in cui l'attività di prospezione di cui al comma 79 non debba essere effettuata all'interno di aree marine a qualsiasi titolo protette per scopi di tutela ambientale, di ripopolamento, di tutela biologica o di tutela archeologica, in virtù di leggi nazionali o in attuazione di atti e convenzioni internazionali, essa è sottoposta a verifica di assoggettabilità alla valutazione di impatto ambientale, di cui all'articolo 20 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni. 
  
 
  
@@ -1169,11 +1170,49 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 82. Gli atti di cui al comma 77 indicano le prescrizioni e gli obblighi di informativa posti a carico del richiedente per garantire la tutela ambientale e dei beni culturali. Qualora le opere di cui al comma 77 comportino variazioni degli strumenti urbanistici, il rilascio del permesso o della concessione di cui al medesimo comma 77 ha effetto di variante urbanistica. 
+ 82. Alle autorizzazioni di cui al comma 78 si applicano le disposizioni dell'articolo 8, comma 1, del decreto- legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133. 
  
 
  
  
+ 
+
+ 
+ 82-bis. Qualora le opere di cui al comma 78 comportino variazione degli strumenti urbanistici, il rilascio dell'autorizzazione di cui al medesimo comma 78 ha effetto di variante urbanistica. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 82-ter. La concessione di coltivazione di idrocarburi liquidi e gassosi, di cui all'articolo 9 della legge 9 gennaio 1991, n. 9, e successive modificazioni, è rilasciata a seguito di un procedimento unico al quale partecipano le amministrazioni competenti ai sensi del comma 7, lettera n), del presente articolo, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. Con decreto dei Ministri dello sviluppo economico, delle infrastrutture e dei trasporti e dell'ambiente e della tutela del territorio e del mare sono individuate le attività preliminari che non comportano effetti significativi e permanenti sull'ambiente che, in attesa della determinazione conclusiva della conferenza di servizi, l'Ufficio nazionale minerario per gli idrocarburi e la geotermia è competente ad autorizzare. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 82-quater. La concessione di coltivazione di idrocarburi in terraferma costituisce titolo per la costruzione degli impianti e delle opere necessari, degli interventi di modifica, delle opere connesse e delle infrastrutture indispensabili all'esercizio, che sono considerati di pubblica utilità ai sensi della legislazione vigente. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 82-quinquies. Qualora le opere di cui al comma 82-quater comportino variazioni degli strumenti urbanistici, il rilascio della concessione di cui al medesimo comma 82-quater ha effetto di variante urbanistica. Nel procedimento unico di cui ai commi da 77 a 82-ter, è indetta la conferenza di servizi ai sensi della legge 7 agosto 1990, n. 241, nell'ambito della quale si considera acquisito l'assenso dell'amministrazione convocata se questa non partecipa o se il suo rappresentante non ne esprime in tale sede definitivamente la volontà. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 82-sexies. Le attività finalizzate a migliorare le prestazioni degli impianti di coltivazione di idrocarburi, compresa la perforazione, se effettuate a partire da opere esistenti e nell'ambito dei limiti di produzione ed emissione dei programmi di lavoro già approvati, sono soggette ad autorizzazione rilasciata dall'Ufficio nazionale minerario per gli idrocarburi e la geotermia ))
+ 
+
  
 
  
