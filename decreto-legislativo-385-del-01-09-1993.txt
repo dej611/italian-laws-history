@@ -64,38 +64,96 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  a) "autorità creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro dell'economia e delle finanze e la Banca d'Italia; 
+ 
 
+ 
+ 
+
+ 
  b) "banca" indica l'impresa autorizzata all'esercizio dell'attività bancaria; 
+ 
 
+ 
+ 
+
+ 
  c) "CICR" indica il Comitato interministeriale per il credito e il risparmio; 
+ 
 
+ 
+ 
+
+ 
  d) "CONSOB" indica la Commissione nazionale per le società e la borsa; 
+ 
 
+ 
+ 
+
+ 
  d-bis) "COVIP" indica la commissione di vigilanza sui fondi pensione; 
+ 
 
+ 
+ 
+
+ 
  e) "ISVAP" indica l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
+ 
 
+ 
+ 
+
+ 
  f) "UIC" indica l'Ufficio italiano dei cambi; 
+ 
 
+ 
+ 
+
+ 
  g) "Stato comunitario" indica lo Stato membro della Comunità Europea; 
+ 
 
  
- ((
+ 
 
+ 
  g-bis) "Stato d'origine" indica lo Stato comunitario in cui la banca è stata autorizzata all'esercizio dell'attività; 
-
- g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca ha una succursale o presta servizi;
-
- ))
-
  
 
+ 
+ 
+
+ 
+ g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca ha una succursale o presta servizi; 
+ 
+
+ 
+ 
+
+ 
  h) "Stato extracomunitario" indica lo Stato non membro della Comunità Europea; 
+ 
 
+ 
+ 
+
+ 
  i) "legge fallimentare" indica il regio decreto 16 marzo 1942, n. 267. 
+ 
 
+ 
+ 
+
+ 
  l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
+ 
+
+ 
+ 
 
  
  m) "Ministro dell'economia e delle finanze" indica il Ministro dell'economia e delle finanze. 
@@ -117,15 +175,40 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  a) "banca italiana": la banca avente sede legale in Italia; 
+ 
 
+ 
+ 
+
+ 
  b) "banca comunitaria": la banca avente sede legale e amministrazione centrale in un medesimo Stato comunitario diverso dall'Italia; 
+ 
 
+ 
+ 
+
+ 
  c) "banca extracomunitaria": la banca avente sede legale in uno Stato extracomunitario; 
+ 
 
+ 
+ 
+
+ 
  d) "banche autorizzate in Italia": le banche italiane e le succursali in Italia di banche extracomunitarie; 
+ 
 
+ 
+ 
+
+ 
  e) "succursale": una sede che costituisce parte, sprovvista di personalità giuridica, di una banca e che effettua direttamente, in tutto o in parte, l'attività della banca; 
+ 
+
+ 
+ 
 
  
  f) "attività ammesse al mutuo riconoscimento": le attività di: 
@@ -143,7 +226,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) servizi di pagamento; 
  
 
- 5) emissione e gestione di mezzi di pagamento (carte di credito, "travellers cheques", lettere di credito); 
+ 5) emissione e gestione di mezzi di pagamento ("travellers cheques", lettere di credito), nella misura in cui quest'attività non rientra nel punto 4; 
  
 
  6) rilascio di garanzie e di impegni di firma; 
@@ -170,7 +253,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  8) partecipazione alle emissioni di titoli e prestazioni di servizi connessi; 
  
 
- 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonchè consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese;
+ 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonchè consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese; 
  
 
  10) servizi di intermediazione finanziaria del tipo "money broking"; 
@@ -191,7 +274,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  15) altre attività che, in virtù delle misure di adattamento assunte dalle autorità comunitarie, sono aggiunte all'elenco allegato alla seconda direttiva in materia creditizia del Consiglio delle Comunità europee n. 89/646/CEE del 15 dicembre 1989; 
  
 
+ 
+ 
+
+ 
  g) "intermediari finanziari": i soggetti iscritti nell'elenco previsto dall'art. 106. 
+ 
+
+ 
+ 
 
  
  h) "stretti legami": i rapporti tra una banca e un soggetto italiano o estero che: 
@@ -212,14 +303,56 @@ IL PRESIDENTE DELLA REPUBBLICA
  5) è partecipato dalla banca in misura pari almeno al 20% del capitale con diritto di voto. 
  
 
- h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
-
- h-ter) "moneta elettronica": un valore monetario rappresentato da un credito nei confronti dell'emittente che sia memorizzato su un dispositivo elettronico, emesso previa ricezione di fondi di valore non inferiore al valore monetario emesso e accettato come mezzo di pagamento da soggetti diversi dall'emittente; 
-
- h-quater) 'partecipazionì: le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
+ 
+ 
 
  
- h-quinquies) 'partecipazioni rilevantì: le partecipazioni che comportano il controllo della società e le partecipazioni individuate dalla Banca d'Italia in conformità alle deliberazioni del CICR, con riguardo alle diverse fattispecie disciplinate, tenendo conto dei diritti di voto e degli altri diritti che consentono di influire sulla società. 
+ h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
+ 
+
+ 
+ 
+
+ 
+ h-ter) "moneta elettronica": un valore monetario rappresentato da un credito nei confronti dell'emittente che sia memorizzato su un dispositivo elettronico, emesso previa ricezione di fondi di valore non inferiore al valore monetario emesso e accettato come mezzo di pagamento da soggetti diversi dall'emittente; 
+ 
+
+ 
+ 
+
+ 
+ h-quater) 'partecipazionì: le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
+ 
+
+ 
+ 
+
+ 
+ h-quinquies) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 27 GENNAIO 2010, N. 21))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ h-sexies) 'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento di cui alla lettera f), n. 4); 
+ 
+
+ 
+ 
+
+ 
+ h-septies) 'istituti di pagamento comunitarì: gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
+ 
+
+ 
+ 
+
+ 
+ h-octies) 'succursale di un istituto di pagamentò: una sede che costituisce parte, sprovvista di personalità giuridica, di un istituto di pagamento e che effettua direttamente, in tutto o in parte, l'attività dell'istituto di pagamento. 
  
 
  
