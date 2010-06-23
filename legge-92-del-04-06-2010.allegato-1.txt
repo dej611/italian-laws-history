@@ -1,0 +1,386 @@
+Allegato 
+ 
+
+ 
+ 
+
+ PROTOCOLLO 
+ 
+
+ 
+ 
+
+ AI SENSI DELL'ARTICOLO 34 DEL TRATTATO 
+ 
+
+ 
+ 
+
+ SULL'UNIONE EUROPEA RECANTE MODIFICA, 
+ 
+
+ 
+ 
+
+ PER QUANTO ATTIENE ALL'ISTITUZIONE DI UN ARCHIVIO DI 
+ 
+
+ 
+ 
+
+ IDENTIFICAZIONE DEI FASCICOLI A FINI DOGANALI, 
+ 
+
+ 
+ 
+
+ DELLA CONVENZIONE SULL'USO 
+ 
+
+ 
+ 
+
+ DELL'INFORMATICA NEL SETTORE DOGANALE 
+ 
+
+ 
+ 
+
+ LE ALTE PARTI CONTRAENTI del presente protocollo, Stati membri dell'Unione europea, 
+ 
+
+ RIFERENDOSI all'atto del Consiglio dell'Unione europea del ..., 
+ 
+
+ CONSIDERANDO che la cooperazione doganale nell'Unione europea è una componente importante dello spazio di libertà, sicurezza e giustizia, 
+ 
+
+ CONSIDERANDO che lo scambio di informazioni tra i servizi doganali dei vari Stati membri ha un ruolo centrale in tale cooperazione, 
+ 
+
+ ATTUANDO le conclusioni del Consiglio europeo di Tampere del 15 e 16 ottobre 1999, in base alle quali 
+ 
+
+ - si dovrebbe trarre il massimo vantaggio dalla cooperazione tra le autorità competenti degli Stati membri nell'ambito delle indagini sulla criminalità transnazionale (punto 43 delle conclusioni); 
+ 
+
+ - si dovrebbe raggiungere l'obiettivo dell'elaborazione equilibrata di misure a livello di Unione contro la criminalità proteggendo nel contempo la libertà e i diritti costituzionali delle persone nonchè degli operatori economici (punto 40 delle conclusioni) e 
+ 
+
+ - la criminalità economica grave presenta sempre più spesso aspetti di diritto tributario e doganale) (punto 49 delle conclusioni); 
+ 
+
+ VISTA la risoluzione del 30 maggio 2001 relativa ad una strategia per l'unione doganale 1) in cui il Consiglio: 
+ 
+
+ 1) GU C 171 del 15.6.2001, pag. 1. 
+ 
+
+ - ha convenuto che l'obiettivo principale deve essere quello di migliorare la cooperazione per combattere efficacemente le frodi e altre azioni che mettono in pericolo la sicurezza delle persone e dei beni, 
+ 
+
+ - ha sottolineato che i servizi doganali svolgono un ruolo significativo nella lotta alla criminalità transnazionale attraverso la prevenzione, l'individuazione e, nell'ambito delle loro competenze nazionali, attraverso le indagini e le azioni penali nei confronti delle attività criminose nei settori della frode fiscale, del riciclaggio di capitali, del traffico di droga e di altre merci illegali e 
+ 
+
+ - ha sottolineato che, per effetto della diversità dei compiti loro assegnati, occorre che le autorità doganali operino sia in un contesto comunitario sia nel contesto della cooperazione, nell'ambito del titolo VI del trattato sull'Unione europea; 
+ 
+
+ CONSIDERANDO che il Sistema informativo doganale creato in virtù della convenzione sull'uso dell'informatica nel settore doganale 2) permette l'introduzione dei dati personali esclusivamente ai fini dell'osservazione e di rendiconto, di sorveglianza discreta o di controlli specifici (articolo 5 della Convenzione), e che deve essere stabilita una base giuridica complementare per fini aggiuntivi; 
+ 
+
+ 2) GU C 316 del 27.11.1995, pag. 34. 
+ 
+
+ TENUTO CONTO del fatto che al momento non esiste la possibilità di uno scambio di informazioni sull'esistenza di fascicoli d'indagine riguardanti indagini in corso o completate tra tutte le autorità competenti per via elettronica ed in maniera sistematica e, pertanto, di un opportuno coordinamento delle loro indagini, e che il Sistema informativo doganale dovrebbe essere utilizzato per tale scopo; 
+ 
+
+ TENUTO CONTO del fatto che dai risultati di una valutazione delle banche dati del terzo pilastro dell'Unione europea può emergere la necessità che questi sistemi siano complementari; 
+ 
+
+ CONSIDERANDO che, in relazione all'archiviazione, al trattamento e all'uso dei dati personali in ambito doganale, si dovrebbe tenere debitamente conto dei principi fissati nella Convenzione del Consiglio d'Europa del 28 gennaio 1981 sulla protezione delle persone rispetto al trattamento automatizzato di dati di carattere personale e del punto 5.5 della raccomandazione R(87)15 del Comitato dei Ministri del Consiglio d'Europa del 17 settembre 1987 tesa a regolamentare l'utilizzo dei dati a carattere personale nel settore della polizia; 
+ 
+
+ VISTO che, in base al punto 48 del piano d'azione del Consiglio e della Commissione, del 3 dicembre 1998, sul modo migliore per attuare le disposizioni del trattato di Amsterdam concernenti uno spazio di libertà, sicurezza e giustizia 1), è necessario esaminare se e come l'Ufficio europeo di polizia (Europol) può avere accesso al Sistema informativo doganale, 
+ 
+
+ 1) GU C 19 del 23.1.1999, pag. 1. 
+ 
+
+ HANNO CONVENUTO LE SEGUENTI DISPOSIZIONI: 
+ 
+
+ 
+ 
+
+ ARTICOLO 1 
+ 
+
+ 
+ 
+
+ La convenzione sull'uso dell'informatica nel settore doganale 1) è modificata come segue: 
+ 
+
+ 1) GU C 316 del 27.11.1995, pag. 34 
+ 
+
+ 1) Dopo il titolo V sono inseriti i seguenti titoli: 
+ 
+
+ 
+ 
+
+ "TITOLO V A 
+ 
+
+ 
+ 
+
+ ISTITUZIONE DI UN ARCHIVIO DI IDENTIFICAZIONE DEI FASCICOLI 
+ 
+
+ 
+ 
+
+ A FINI DOGANALI 
+ 
+
+ 
+ 
+
+ ARTICOLO 12 A 
+ 
+
+ 
+ 
+
+ (1) Il Sistema informativo doganale comprende al suo interno, oltre ai dati di cui dell'articolo 3, i dati previsti dal presente titolo, in una banca dati specifica, in seguito denominata "Archivio di identificazione dei fascicoli a fini doganali". Fatte salve le disposizioni del presente titolo e dei titoli V B e V C, tutte le disposizioni della presente convenzione si applicano anche all'archivio di identificazione dei fascicoli a fini doganali. 
+ 
+
+ (2) L'archivio di identificazione dei fascicoli a fini doganali ha lo scopo di consentire alle autorità nazionali competenti in materia di indagini doganali, nominate a norma dell'articolo 7, che aprano un fascicolo o che indaghino su una o più persone o imprese, di individuare le autorità competenti degli altri Stati membri che stanno indagando o che hanno indagato su dette persone o imprese al fine di realizzare lo scopo di cui all'articolo 2, paragrafo 2, mediante informazioni sull'esistenza di fascicoli d'indagine. 
+ 
+
+ (3) Ai fini dell'archivio di identificazione dei fascicoli a fini doganali ciascuno Stato membro comunica agli altri Stati membri e al comitato di cui all'articolo 16 l'elenco delle violazioni gravi delle leggi nazionali. 
+ 
+
+ Tale elenco comprende solo le violazioni punibili 
+ 
+
+ - con una pena privativa della libertà o con una misura di sicurezza privativa della libertà non inferiore, nel massimo, a dodici mesi oppure 
+ 
+
+ - con una ammenda non inferiore, nel massimo, a 15 000 EUR. 
+ 
+
+ (4) Se lo Stato membro che effettua una ricerca nell'archivio di identificazione dei fascicoli a fini doganali necessita di più ampi ragguagli su uno dei fascicoli archiviati riguardante una persona o un'impresa, esso chiede l'assistenza dello Stato membro che ha fornito i dati, sulla base degli strumenti vigenti relativi all'assistenza reciproca. 
+ 
+
+ 
+ 
+
+ TITOLO V B 
+ 
+
+ 
+ 
+
+ FUNZIONAMENTO E UTILIZZAZIONE DELL'ARCHIVIO DI IDENTIFICAZIONE DEI 
+ 
+
+ FASCICOLI A FINI DOGANALI 
+ 
+
+ 
+ 
+
+ ARTICOLO 12 B 
+ 
+
+ 
+ 
+
+ (1) Le autorità competenti introducono dati dei fascicoli d'indagine nell'archivio di identificazione dei fascicoli a fini doganali ai fini di cui all'articolo 12 A, paragrafo 2. Tali dati riguardano unicamente le categorie seguenti: 
+ 
+
+ i) la persona o l'impresa che è o è stata oggetto di un fascicolo d'indagine istruito da un'autorità competente di uno Stato membro, e 
+ 
+
+ - che, a norma delle leggi nazionali dello Stato membro interessato, è sospettata di commettere o di aver commesso una violazione grave delle leggi nazionali, di parteciparvi o di avervi partecipato o 
+ 
+
+ - che è stata oggetto di una constatazione relativa a una delle dette violazioni o 
+ 
+
+ - che è stata oggetto di una sanzione amministrativa o penale per una delle dette violazioni; 
+ 
+
+ ii) il settore oggetto del fascicolo d'indagine; 
+ 
+
+ iii) il nome, la cittadinanza e gli estremi dell'autorità dello Stato membro responsabile del fascicolo, unitamente al numero dello stesso. 
+ 
+
+ I dati di cui ai punti i), ii) e iii) sono introdotti in una banca dati separatamente per ogni persona o impresa. Non sono permessi collegamenti tra banche dati. 
+ 
+
+ (2) I dati a carattere personale di cui al paragrafo 1, punto i) sono soltanto i seguenti: 
+ 
+
+ i) per le persone: cognome, cognome da nubile, nome e pseudonimo, data e luogo di nascita, cittadinanza e sesso; 
+ 
+
+ ii) per le imprese: ragione sociale, denominazione commerciale utilizzata, sede dell'impresa e numero di identificazione IVA. 
+ 
+
+ (3) I dati sono introdotti per una durata limitata a norma dell'articolo 12 E. 
+ 
+
+ 
+ 
+
+ ARTICOLO 12 C 
+ 
+
+ 
+ 
+
+ Uno Stato membro non è tenuto a registrare i dati di cui all'articolo 12 B in casi particolari se e fintantochè detta registrazione nuoce all'ordine pubblico o ad altri interessi essenziali dello Stato membro interessato, soprattutto in materia di protezione dei dati. 
+ 
+
+ 
+ 
+
+ ARTICOLO 12 D 
+ 
+
+ 
+ 
+
+ (1) L'introduzione di dati nell'archivio di identificazione dei fascicoli a fini doganali e la relativa consultazione sono riservate alle autorità di cui all'articolo 12 A, paragrafo 2. 
+ 
+
+ (2) La consultazione dell'archivio di identificazione dei fascicoli a fini doganali riguarda i seguenti dati di carattere personale: 
+ 
+
+ i) per le persone: cognome e nome e/o cognome da nubile e/o pseudonimo e/o data di nascita; 
+ 
+
+ ii) per le imprese: ragione sociale e/o denominazione commerciale utilizzata e/o numero di identificazione IVA. 
+ 
+
+ 
+ 
+
+ TITOLO V C 
+ 
+
+ 
+ 
+
+ TEMPI DI CONSERVAZIONE DEI DATI DELL'ARCHIVIO 
+ 
+
+ 
+ 
+
+ DI IDENTIFICAZIONE DEI FASCICOLI A FINI DOGANALI 
+ 
+
+ 
+ 
+
+ ARTICOLO 12 E 
+ 
+
+ 
+ 
+
+ (1) I tempi di conservazione dei dati sono fissati in conformità delle leggi, dei regolamenti e delle procedure dello Stato membro che fornisce i dati. In nessun caso comunque sono superati i periodi di conservazione seguenti, calcolati dalla data di introduzione dei dati nel fascicolo: 
+ 
+
+ i) tre anni per i dati relativi a fascicoli di indagine in corso, se in tale periodo non è stata constatata nessuna violazione; i dati sono cancellati prima se dall'ultimo atto investigativo è trascorso un anno; 
+ 
+
+ ii) sei anni per i dati relativi a fascicoli d'indagine che hanno portato alla constatazione di una violazione, ma che non si sono ancora conclusi con una condanna o l'irrogazione di una ammenda; 
+ 
+
+ iii) dieci anni per i dati relativi a fascicoli d'indagine da cui è scaturita una condanna o una ammenda. 
+ 
+
+ (2) In tutte le fasi dell'indagine di cui al paragrafo 1, punti i), ii) e iii) non appena in base alle leggi e ai regolamenti amministrativi dello Stato membro che ha fornito i dati una persona o un'impresa ai sensi dell'articolo 12 B risulti estranea ai fatti, i dati che la riguardano sono cancellati immediatamente. 
+ 
+
+ (3) L'archivio di identificazione dei fascicoli a fini doganali cancella automaticamente i dati dal momento in cui sono superati i periodi massimi di conservazione di cui al paragrafo 1.". 
+ 
+
+ 2) All'articolo 20 i termini "di cui all'articolo 12, paragrafi 1 e 2" sono sostituiti dai termini "di cui all'articolo 12, paragrafi 1 e 2 e all'articolo 12 E".
+ARTICOLO 2 
+ 
+
+ 
+ 
+
+ 1. Il presente protocollo è sottoposto agli Stati membri per l'adozione secondo le rispettive norme costituzionali. 
+ 
+
+ 2. Gli Stati membri notificano al depositarlo il compimento delle procedure richieste dalle rispettive norme costituzionali per l'adozione del presente protocollo. 
+ 
+
+ 3. Il presente protocollo entra in vigore per gli otto Stati membri interessati novanta giorni dopo la notifica di cui al paragrafo 2 da parte dello Stato, che sia membro dell'Unione europea al momento dell'adozione da parte del Consiglio dell'atto che stabilisce il presente protocollo, che procede per ottavo a detta formalità.
+ 
+
+ Tuttavia, se la convenzione non è entrata in vigore a tale data, il presente protocollo entra in vigore per l'ottavo Stato membro interessato alla data di entrata in vigore della convenzione. 
+ 
+
+ 4. La notifica da parte di uno Stato membro successiva al ricevimento dell'ottava notifica effettuata a norma del paragrafo 2 fa sì che, 90 giorni dopo detta notifica, il presente protocollo entri in vigore fra tale Stato membro e gli Stati membri per i quali esso è già in vigore. 
+ 
+
+ 5. Gli Stati membri introducono nell'archivio di identificazione dei fascicoli a fini doganali solo i dati registrati in un'indagine dopo l'entrata in vigore del presente protocollo.
+ARTICOLO 3 
+ 
+
+ 
+ 
+
+ 1. Il presente protocollo è aperto all'adesione di ogni Stato che diventi membro dell'Unione europea e che aderisca alla convenzione. 
+ 
+
+ 2. Fa fede il testo del presente protocollo nella lingua dello Stato membro aderente redatto dal Consiglio dell'Unione europea. 
+ 
+
+ 3. Gli strumenti di adesione sono depositati presso il depositario. 
+ 
+
+ 4. Il presente protocollo entra in vigore nei confronti di ogni Stato che vi aderisca novanta giorni dopo la data di deposito del suo strumento di adesione ovvero alla data dell'entrata in vigore del presente protocollo, se questo non è ancora entrato in vigore al momento dello scadere di detto periodo di novanta giorni e a condizione che la convenzione sia in vigore per tale Stato.
+ARTICOLO 4 
+ 
+
+ 
+ 
+
+ Ogni Stato che diventi membro dell'Unione europea e aderisca alla convenzione a norma dell'articolo 25 dopo l'entrata in vigore del presente protocollo, si considera aderente a tale convenzione quale modificata dal presente protocollo.
+ARTICOLO 5 
+ 
+
+ 
+ 
+
+ Il Segretario Generale del Consiglio dell'Unione europea è depositario del presente protocollo. 
+ 
+
+ Il depositario pubblica nella Gazzetta ufficiale dell'Unione europea lo stato delle adozioni e delle adesioni, le dichiarazioni, nonchè qualsiasi altra notifica relativa al presente protocollo. 
+ 
+
+ Fatto a Bruxelles, addì otto maggio duemilatre, in unico esemplare in lingua danese, finlandese, francese, greca, inglese, irlandese, italiana, olandese, portoghese, spagnola, svedese e tedesca, i testi di ciascuna di queste lingue facenti ugualmente fede, esemplare depositato negli archivi del Segretariato generale del Consiglio dell'Unione europea. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
