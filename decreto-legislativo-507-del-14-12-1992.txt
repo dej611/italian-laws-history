@@ -50,80 +50,55 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- 
  2. Ai fini del presente decreto si applicano le definizioni seguenti: 
  
 
  
  
-
- 
- a) dispositivo medico: qualunque strumento, apparecchio, apparecchiatura, sostanza od altro articolo usato da solo o in combinazione, compresi gli accessori e i software che intervengono nel buon funzionamento dello stesso, destinato dal fabbricante ad essere impiegato sull'uomo ai fini di diagnosi, prevenzione, controllo, trattamento o attenuazione di malattie o lesioni ovvero ai fini di studio, sostituzione o modifica dell'anatomia oppure di un processo fisiologico, ovvero ai fini del controllo del concepimento il quale non eserciti l'azione principale, cui è destinato, con mezzi farmacologici, chimici o immunologici nè mediante processo metabolico, ma la cui funzione possa essere coadiuvata da tali mezzi; 
+ ((a) dispositivo medico: qualunque strumento, apparecchio, impianto, software, sostanza o altro prodotto, utilizzato da solo o in combinazione, compresi gli accessori tra cui il software destinato dal fabbricante ad essere impiegato specificamente con finalità diagnostiche e/o terapeutiche e necessario al corretto funzionamento del dispositivo stesso, destinato dal fabbricante ad essere impiegato sull'uomo a fini di: 
  
 
- 
+ 1) diagnosi, prevenzione, controllo, trattamento o attenuazione di malattie; 
  
 
+ 2) diagnosi, controllo, trattamento, attenuazione o compensazione di una ferita o di un handicap; 
  
- b) dispositivo medico attivo: qualsiasi dispositivo medico 
- (( collegato ))
 
- per il suo funzionamento ad una fonte di energia elettrica o a qualsiasi altra fonte di energia diversa da quella prodotta direttamente 
- (( dal ))
+ 3) studio, sostituzione o modifica dell'anatomia oppure di un processo fisiologico; 
+ 
 
- corpo umano o dalla gravità; 
+ 4) controllo del concepimento, che non eserciti nel o sul corpo umano l'azione principale cui è destinato con mezzi farmacologici, immunologici o mediante processi metabolici, ma la cui funzione possa essere coadiuvata da tali mezzi;))
  
 
  
  
 
+ b) dispositivo medico attivo: qualsiasi dispositivo medico collegato per il suo funzionamento ad una fonte di energia elettrica o a qualsiasi altra fonte di energia diversa da quella prodotta direttamente dal corpo umano o dalla gravità; 
  
+
  c) dispositivo medico impiantabile attivo: qualsiasi dispositivo medico attivo destinato ad essere impiantato interamente o parzialmente mediante intervento chirurgico o medico nel corpo umano o mediante intervento medico in un orifizio naturale e destinato a restarvi dopo l'intervento; 
  
 
  
  
-
- 
- d) dispositivo su misura: qualsiasi dispositivo medico impiantabile attivo appositamente fabbricato secondo la prescrizione scritta di un medico specialista che, precisi le caratteristiche specifiche di progettazione del dispositivo, sotto la responsabilità del clinico stesso e destinato a essere utilizzato esclusivamente per un determinato paziente; 
+ ((d) dispositivo su misura: qualsiasi dispositivo fabbricato appositamente sulla base della prescrizione scritta di un medico debitamente qualificato che precisi, sotto la propria responsabilità, le caratteristiche specifiche di progettazione e destinato ad essere utilizzato solo per un determinato paziente; i dispositivi fabbricati con metodi di produzione in serie che devono essere adattati per soddisfare un'esigenza specifica del medico o di un altro utilizzatore professionale non sono considerati dispositivi su misura; 
  
 
- 
+ e) dispositivi per indagini cliniche: qualsiasi dispositivo destinato ad essere utilizzato da un medico debitamente qualificato per lo svolgimento di indagini cliniche di cui all'allegato 7, punto 2.1, in un ambiente clinico umano adeguato; per l'esecuzione delle indagini cliniche, al medico debitamente qualificato è assimilata ogni altra persona la quale, in base alle qualifiche professionali, sia autorizzata a svolgere tali indagini; 
  
 
- 
- e) dispositivo destinato ad indagini cliniche: qualsiasi dispositivo medico impiantabile attivo destinato a essere messo a disposizione di un medico specialista allo scopo di indagini da effettuarsi in un ambiente clinico umano idoneo; 
+ f) destinazione: l'utilizzazione alla quale è destinato il dispositivo secondo le indicazioni fornite dal fabbricante sull'etichetta, nelle istruzioni per l'uso e/o nei materiali pubblicitari;))
  
 
  
  
 
- 
- f) destinazione: l'utilizzazione cui il dispositivo medico è destinato e si addice in base alle indicazioni fornite dal fabbricante nelle istruzioni per l'uso; 
- 
-
- 
+ g) messa in servizio: messa a disposizione del corpo medico per l'impianto. 
  
 
- 
- g) messa in servizio: messa a disposizione 
- (( del corpo medico per l'impianto ))
-
- . 
- 
-
- 
- 
-
- 
  g-bis) immissione in commercio: la prima messa a disposizione a titolo oneroso o gratuito di dispositivi, esclusi quelli destinati alle indagini cliniche, in vista della distribuzione o utilizzazione sul mercato comunitario, indipendentemente dal fatto che si tratti di dispositivi nuovi o rimessi a nuovo; 
  
 
- 
- 
-
- 
  g-ter) fabbricante: 
  
 
@@ -135,26 +110,108 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ ((g-quater) mandatario: la persona fisica o giuridica stabilita nella Comunità che, dopo essere stata espressamente designata dal fabbricante, agisce e può essere interpellata dalle autorità nazionali competenti e dagli organismi comunitari in vece del fabbricante per quanto riguarda gli obblighi che il presente decreto impone a quest'ultimo; 
+ 
+
+ g-quinquies) dati clinici: le informazioni sulla sicurezza e/o sulle prestazioni ricavate dall'impiego di un dispositivo; i dati clinici provengono dalle seguenti fonti: 
+ 
+
+ 1) indagini cliniche relative al dispositivo in questione; o 
+ 
+
+ 2) indagini cliniche o altri studi pubblicati nella letteratura scientifica relativi a un dispositivo analogo di cui è dimostrabile l'equivalenza al dispositivo in questione; o 
+ 
+
+ 3) relazioni pubblicate e/o non pubblicate su altre pratiche cliniche relative al dispositivo in questione o a un dispositivo analogo di cui è dimostrabile l'equivalenza al dispositivo in questione.))
+ 
+
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 2-bis. Quando un dispositivo medico impiantibile attivo è destinato a somministrare una sostanza definita "medicinale" ai sensi dell'articolo 1 del decreto legislativo 24 aprile 2006, n. 219, che recepisce il codice comunitario sui medicinali per uso umano, tale dispositivo è disciplinato dal presente decreto, fatte salve le disposizioni del decreto legislativo 24 aprile 2006, n. 219, riguardanti il medicinale.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 
+ ((2-ter. Quando un dispositivo medico impiantabile attivo incorpora come parte integrante una sostanza che, se utilizzata separatamente, può essere considerata un medicinale ai sensi dell'articolo 1 del decreto legislativo 24 aprile 2006, n. 219, e può avere effetti sul corpo umano con un'azione accessoria a quella del dispositivo, quest'ultimo deve essere valutato e autorizzato conformemente al presente decreto.))
+ 
+
+ 
+
+ 
+ 
+ ((2-ter.1. Quando un dispositivo incorpora come parte integrante una sostanza, di seguito denominata: "derivato del sangue umano", la quale, se utilizzata separatamente, può essere considerata un componente di un medicinale o un medicinale derivato dal sangue o dal plasma umano ai sensi dell'articolo 1 del decreto legislativo 24 aprile 2006, n. 219, e può avere effetti sul corpo umano con un'azione accessoria a quella del dispositivo, quest'ultimo è valutato e autorizzato in base al presente decreto.))
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 2-quater. Le disposizioni contenute all'articolo 1, comma 4, del decreto legislativo 6 novembre 2007, n. 194, che recepisce le direttive comunitarie sulla compatibilità elettromagnetica, non si applicano ai dispositivi disciplinati dal presente decreto.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 
+ 
+ 2-quinquies . Il presente decreto non si applica: 
+ 
+
+ 
+ 
+
+ 
+ a) ai medicinali contemplati dal decreto legislativo 24 aprile 2006, n. 219, che recepisce il codice comunitario sui medicinali per uso umano; nello stabilire se un determinato prodotto rientri nell'ambito di applicazione di tale decreto oppure in quello del presente decreto, si tiene conto in particolare del principale meccanismo d'azione del prodotto stesso; 
+ 
+
+ 
+ 
+
+ 
+ b) al sangue umano, ai prodotti derivati dal sangue umano, al plasma o alle cellule ematiche di origine umana, nè ai dispositivi che, al momento dell'immissione in commercio, contengono tali prodotti derivati da sangue, plasma o cellule, ad eccezione dei dispositivi di cui al comma 2-ter.1; 
+ 
+
+ 
+ 
+
+ 
+ c) a organi, tessuti o cellule di origine umana, nè a prodotti comprendenti o derivati da tessuti o cellule di origine umana, ad eccezione dei dispositivi di cui al comma 2-ter.1; 
+ 
+
+ 
+ 
+
+ d) a organi, tessuti o cellule di origine animale, a meno che il dispositivo non sia fabbricato utilizzando tessuti animali resi non vitali o prodotti non vitali derivati da tessuti animali.
 
  
 
  
 
  
- 2-bis. Se un dispositivo medico impiantabile attivo è destinato a somministrare una sostanza definita 'medicinalè ai sensi del decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni, questa sostanza è soggetta al regime di autorizzazione all'immissione in commercio previsto dal suddetto decreto. 
- 
-
- 
- 
- 
-
- 
- 2-ter. Se un dispositivo medico impiantabile attivo incorpora come parte integrante una sostanza che potrebbe, se utilizzata a parte, essere considerata un medicinale ai sensi dell'art. 1 del decreto legislativo 29 marzo 1991, n. 178, detto dispositivo deve essere valutato ed autorizzato conformemente alle disposizioni del presente decreto. 
- 
-
- 
- 
- 
-
- 
- 2-quater. Per i dispositivi medici impiantabili attivi le disposizioni sui requisiti di protezione in materia di compatibilità elettromagnetica previste dal presente decreto si applicano in sostituzione di quelle stabilite dal decreto legislativo 4 dicembre 1992, n. 476.
+ ))
