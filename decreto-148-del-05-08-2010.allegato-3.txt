@@ -1,0 +1,1561 @@
+Allegato C 
+ 
+
+ 
+ 
+
+ Procedura per la verifica dell'idoneità di un sistema dischi freno per autovetture ai fini della sua omologazione. 
+ 
+
+ 
+ 
+
+ 1. Requisiti generali dei sistemi dischi freno 
+ 
+
+ 
+ 
+
+ I sistemi dischi freno devono: 
+ 
+
+ 
+ 
+
+ a) soddisfare le medesime disposizioni di frenatura secondo le quali è stato omologato il tipo di veicolo per il quale è richiesta l'omologazione del sistema; 
+ 
+
+ 
+ 
+
+ b) presentare caratteristiche di attrito dinamiche non inferiori a quelle del sistema di frenatura originale; 
+ 
+
+ 
+ 
+
+ c) possedere caratteristiche meccaniche tali da garantire almeno gli stessi standard del sistema di frenatura originale; 
+ 
+
+ 
+ 
+
+ d) presentare stabilità alle differenti temperature. 
+ 
+
+ 
+ 
+
+ e) i materiali costituenti ciascuno dei componenti del sistema debbono essere conformi ai requisiti richiesti dalla direttiva 2000/53/CE e successive modifiche. 
+ 
+
+ 
+ 
+
+ 2. Prove 
+ 
+
+ 
+ 
+
+ La verifica di idoneità di un sistema dischi freno è effettuata attraverso le prove di seguito descritte. 
+ 
+
+ 
+ 
+
+ 2.1 Veicolo di prova 
+ 
+
+ 
+ 
+
+ Un veicolo, considerato rappresentativo per il tipo per il quale viene richiesta una omologazione di un sistema dischi freno, deve essere equipaggiato con tale sistema e dotato, tra l'altro, di dispositivi idonei per una prova del freno in conformità alle disposizioni della direttiva 71/320/CEE e successive modificazioni ed integrazioni (in seguito citate solo come direttiva 71/320/CEE) o degli equivalenti regolamenti UNECE. Tutte le prove di seguito elencate devono essere eseguite con freni rodati. Per le prove comparative tra il sistema dischi freno e il sistema freni originale è necessario applicare lo stesso programma di rodaggio. 
+ 
+
+ 
+ 
+
+ 2.2 Conformità alla direttiva 71/320/CEE ovvero alla regolamentazione UNECE 
+ 
+
+ 
+ 
+
+ La conformità ai requisiti della regolamentazione della direttiva 71/320/CEE ovvero ai corrispondenti regolamenti UNECE, secondo il criterio indicato al punto 1), lettera a), deve essere certificata per il relativo tipo di veicolo con le seguenti prove: 
+ 
+
+ 
+ 
+
+ 2.2.1 Impianto freno di servizio 
+ 
+
+ 
+ 
+
+ 2.2.1.1 Prove del freno tipo 0, con motore disinnestato, veicolo carico. 
+ 
+
+ 
+ 
+
+ 2.2.1.2 Prove del freno tipo 0, con motore innestato, veicolo scarico e carico (con prova integrativa, comportamento del veicolo ad alta velocità). 
+ 
+
+ 
+ 
+
+ 2.2.1.3 Prove del freno tipo I (prova della riduzione dell'efficienza frenante). 
+ 
+
+ 
+ 
+
+ Al termine della prova del freno tipo I deve essere verificato l'effetto frenante a freni caldi. 
+ 
+
+ 
+ 
+
+ 2.2.2 Impianto freno di stazionamento (da effettuare solo nel caso in cui il sistema dischi freno interessi anche il freno di stazionamento). 
+ 
+
+ 
+ 
+
+ 2.2.2.1 Prove così come previste dalle pertinenti prescrizioni (vedasi punto 2.2). 
+ 
+
+ 
+ 
+
+ 2.2.3 veicoli muniti di sistemi di frenatura antibloccaggio (ABS) 
+ 
+
+ 
+ 
+
+ 2.2.3.1 Prove così come previste dalle pertinenti prescrizioni (vedasi punto 2.2). 
+ 
+
+ 
+ 
+
+ 2.3 Prova delle caratteristiche di attrito dinamiche 
+ 
+
+ 
+ 
+
+ 2.3.1 Prova comparativa su pista dei singoli assi 
+ 
+
+ 
+ 
+
+ Per questa prova il veicolo deve essere carico e tutte le frenate devono essere eseguite con motore disinnestato su un fondo stradale orizzontale. Il freno di servizio del veicolo deve essere provvisto di un dispositivo che separa i freni delle ruote anteriori da quelli delle ruote posteriori affinchè sia possibile azionarli in modo indipendente. Se l'omologazione è richiesta per un sistema dischi freno delle ruote anteriori, i freni delle ruote posteriori devono essere messi fuori funzione per la durata della prova. Analogamente, se l'omologazione è richiesta per un sistema dischi freni delle ruote posteriori, i freni delle ruote anteriori devono essere messi fuori funzione per la durata della prova. 
+ 
+
+ 
+ 
+
+ 2.3.1.1 Prova comparativa dell'effetto frenante a freni freddi 
+ 
+
+ 
+ 
+
+ L'effetto frenante a freni freddi del sistema disco freni deve essere confrontato con l'impianto frenante originario per comparare i risultati della seguente prova. Con il sistema disco freni devono essere eseguite almeno sei frenate successive con diverse forze di azionamento o pressioni di frenata nel condotto gradualmente crescenti fino al bloccaggio delle ruote o fino alla completa decelerazione media di 6 m/s2 oppure fino alla massima forza di azionamento ammessa per la categoria di appartenenza del veicolo, con velocità iniziale per la prova dei freni dell'asse anteriore e dell'asse posteriore indicata nella tabella riportata di seguito: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Asse anteriore Asse posteriore 
+ 
+
+ 70 km/h 45 km/h 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La temperatura iniziale del disco freno deve essere (minore) 100° C prima di ogni frenata. La prova descritta nel presente paragrafo deve essere eseguita anche con il sistema frenante originario. Le caratteristiche di attrito dinamiche del sistema dischi freno possono essere considerate comparabili a quelle dell'impianto originario, se i valori raggiunti della decelerazione completa media con le stesse pressioni o forze di azionamento nella zona dei 2/3 superiori della curva generata non si discostano più del &plusmn; 10% o più di &plusmn; 0,4 m/s2 da quelli dell'impianto originario. 
+ 
+
+ 
+ 
+
+ 2.3.2 Prova delle caratteristiche di attrito dinamiche su banco prova 
+ 
+
+ (in alternativa alla prova di cui al punto 2.3.1) 
+ 
+
+ 
+ 
+
+ 2..3.2.1 Equipaggiamento del banco di prova (dinamometro ad inerzia) 
+ 
+
+ Il dinamometro ad inerzia deve essere dotato di una strumentazione tale da consentire la registrazione continua di velocità di rotazione, coppia frenante, pressione nel circuito dei freni, numero di giri dopo l'azionamento del freno, tempo di frenata e temperatura del rotore dei freni. 
+ 
+
+ 
+ 
+
+ 2.3.2.2. Condizioni di prova 
+ 
+
+ 
+ 
+
+ 2.3.2.2.1 Momento di inerzia del banco di prova 
+ 
+
+ 
+ 
+
+ Il momento di inerzia della massa del dinamometro deve essere impostato con una tolleranza di &plusmn; 5% del valore calcolato, corrispondente alla percentuale di inerzia complessiva del veicolo che viene frenato dalla relativa ruota. Il calcolo viene eseguito secondo la seguente formula: 
+ 
+
+ 
+ 
+
+ I = m • rdyn2 
+ 
+
+ 
+ 
+
+ dove: 
+ 
+
+ 
+ 
+
+ I = momento di inerzia di rotazione (kgm2); 
+ 
+
+ 
+ 
+
+ rdyn = raggio di rotolamento dinamico del pneumatico (m); 
+ 
+
+ 
+ 
+
+ m = massa di prova (parte della massa complessiva del veicolo, che viene frenato dalla relativa ruota) 
+ 
+
+ 
+ 
+
+ 3.2.1.1 Raggio di rotolamento dinamico 
+ 
+
+ 
+ 
+
+ Per il calcolo del momento di inerzia della massa inerziale deve essere considerato il raggio di rotolamento dinamico (rdyn) del maggiore pneumatico omologato per il veicolo (ovvero per l'asse). 
+ 
+
+ 
+ 
+
+ 2.3.2.2.2 Massa di prova 
+ 
+
+ 
+ 
+
+ La massa di prova per il calcolo del momento di inerzia della massa inerziale deve essere: 
+ 
+
+ 
+ 
+
+ a) per la prova dei freni agenti sull'asse anteriore: 
+ 
+
+ m = PA * M/(2*NAA) 
+ 
+
+ 
+ 
+
+ dove 
+ 
+
+ 
+ 
+
+ M = massa complessiva max. ammessa del veicolo 
+ 
+
+ 
+ 
+
+ NAA = numero di assi anteriori 
+ 
+
+ 
+ 
+
+ PA = 77 % (percentuale di massa asse anteriore) 
+ 
+
+ 
+ 
+
+ b) per la prova dei freni agenti sull'asse posteriore: 
+ 
+
+ m = PP * M/(2*NAP) 
+ 
+
+ 
+ 
+
+ M = massa complessiva max. ammessa del veicolo 
+ 
+
+ 
+ 
+
+ NAP : numero di assi posteriori 
+ 
+
+ 
+ 
+
+ PP = 32% (percentuale di massa asse posteriore) 
+ 
+
+ 
+ 
+
+ 2.3.2.3 Modalità di prova delle caratteristiche di attrito dinamiche (prova comparativa del freno agente sulla singola ruota) 
+ 
+
+ 
+ 
+
+ - L'effetto frenante a freni freddi del sistema dischi freno e dell'impianto originario deve essere confrontato per comparare i risultati della prova di seguito descritta; 
+ 
+
+ 
+ 
+
+ - Il numero di giri iniziale del banco di prova deve corrispondere alla velocità lineare del veicolo di 100 km/h, sulla base del valore medio del raggio di rotolamento dinamico minimo dei pneumatici omologati. 
+ 
+
+ 
+ 
+
+ - Il raffreddamento dei freni mediante aria deve essere eseguito con flusso diretto perpendicolarmente all'asse di rotazione della ruota.
+ 
+
+ La velocità del flusso d'aria sul freno non deve superare i 10 km/h.
+ 
+
+ L'aria di raffreddamento deve essere a temperatura ambiente. 
+ 
+
+ 
+ 
+
+ - Con il sistema disco freno devono essere eseguite sei frenate successive con diverse forze di azionamento o pressioni frenanti nel condotto gradualmente crescenti fino ad una decelerazione totale media di 6 m/s2. La temperatura iniziale del disco/tamburo freno deve essere (minore) 100° C prima di ogni frenata. 
+ 
+
+ 
+ 
+
+ - La prova sopra descritta deve essere eseguita anche con l'impianto freni originario. 
+ 
+
+ 
+ 
+
+ - Le caratteristiche di attrito dinamiche del sistema dischi freno possono essere considerate comparabili a quelle dell'impianto originale, se i valori raggiunti della decelerazione completa media con le stesse pressioni o forze di azionamento nella zona dei 2/3 superiori della curva generata non si discostano più del 
+ 
+
+ &plusmn; 10% o più di &plusmn; 0,4 m/s2 da quelli del disco freno originale. 
+ 
+
+ 
+ 
+
+ 2.4 Prova dinamica del componente su banco di prova 
+ 
+
+ 
+ 
+
+ La prova dinamica del componente viene valutata con le prove descritte nei paragrafi successivi. Le relative prove devono essere eseguite su almeno due campioni identici del componente del sistema soggetto a prova per ogni gruppo di prova. Il freno deve essere configurato secondo la posizione di montaggio sul veicolo (a scelta rigido o mediante fuso a snodo). Il tipo di rilevamento della temperatura è a scelta ma deve essere lo stesso per tutti i test. 
+ 
+
+ 
+ 
+
+ 2.4.1 Dischi freno 
+ 
+
+ 
+ 
+
+ 2.4.1.1 Prova di resistenza all'incrinatura 
+ 
+
+ 
+ 
+
+ La prova viene eseguita con disco nuovo di fabbrica e pastiglie nuove. 
+ 
+
+ 
+ 
+
+ 2.4.1.1.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ Il momento di inerzia di massa del banco di prova della massa inerziale è da 
+ 
+
+ definire in conformità ai requisiti del precedente paragrafo 2.3.2 e relativi sottoparagrafi. Il numero di giri del banco di prova deve essere conforme alla velocità di prova lineare del veicolo sulla base del valore medio del raggio di rotolamento dinamico massimo e minimo dei pneumatici omologati. 
+ 
+
+ 
+ 
+
+ 2.4.1.1.2 Programma di prova formazione di incrinature 
+ 
+
+ 
+ 
+
+ - Tipo di frenata: frenate successive 
+ 
+
+ 
+ 
+
+ - Intervallo di frenata tif = 70 s 
+ 
+
+ 
+ 
+
+ - numero di frenate per ciclo 2 
+ 
+
+ 
+ 
+
+ - Relativa coppia frenante a [m/s2] = 5,0 
+ 
+
+ 
+ 
+
+ - numero totale dei cicli di frenata: 100 
+ 
+
+ 
+ 
+
+ - frenata da 0,8 vmax (bbH) a 20 km/h 
+ 
+
+ 
+ 
+
+ - temperatura iniziale della 1&ordf; frenata di ogni ciclo (minore) 100°C 
+ 
+
+ Vmax: Velocità massima del tipo (secondo campo di impiego) 
+ 
+
+ tfef Tempo di frenata effettiva durante la prova 
+ 
+
+ ta Tempo di accelerazione minimo secondo la capacità di accelerazione del 
+ 
+
+ relativo veicolo 
+ 
+
+ ts Tempo di arresto 
+ 
+
+ tif Intervallo di frenata (tfef + ta + ts) 
+ 
+
+ 
+ 
+
+ 2.4.1.1.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Il test è da considerarsi superato quando: 
+ 
+
+ 
+ 
+
+ - una volta eseguiti 100 cicli il disco freno non presenta alcun danno 
+ 
+
+ oppure 
+ 
+
+ 
+ 
+
+ - se il disco freno presenta danni prima di aver completato 100 cicli, il medesimo test deve essere effettuato con il sistema disco freno originale ed il risultato deve essere confrontato. Qualora il numero di cicli superato senza danni dal disco in corso di omologazione sia almeno il 90% del numero di cicli raggiunto dal disco freno originale prima di danneggiarsi, il test è da considerarsi superato. 
+ 
+
+ 
+ 
+
+ Per danneggiamento del disco freno si intende: 
+ 
+
+ 
+ 
+
+ - presenza di cricche radiali di lunghezza superiore ai 2/3 della altezza radiale della superficie frenante 
+ 
+
+ 
+ 
+
+ - cricche passanti attraverso tutto lo spessore della superficie frenante 
+ 
+
+ 
+ 
+
+ - presenza di cricche sulla superficie frenante che raggiungono il diametro esterno ovvero interno della superficie frenante 
+ 
+
+ 
+ 
+
+ - qualsiasi tipo di danno strutturale o cricca si presenti in aree al di fuori della superficie frenante del disco freno 
+ 
+
+ 
+ 
+
+ 2.4.1.2 Prova di resistenza 
+ 
+
+ 
+ 
+
+ La prova di resistenza deve essere eseguita in seguito ad una prova di resistenza all'incrinatura positiva con gli stessi campioni di prova. 
+ 
+
+ 
+ 
+
+ 2.4.1.2.1. Condizioni di prova 
+ 
+
+ 
+ 
+
+ Come al precedente paragrafo 2.4.1.1.1. 
+ 
+
+ 
+ 
+
+ 2.4.1.2.2 Programma della prova di resistenza 
+ 
+
+ 
+ 
+
+ - tipo di frenata frenate: singole 
+ 
+
+ 
+ 
+
+ - numero di frenate: 50 
+ 
+
+ 
+ 
+
+ - temperatura iniziale all'inizio di una frenata (minore) 100°C 
+ 
+
+ 
+ 
+
+ - Relativa coppia frenante a [m/s2] 10,0 con pressione frenante Pmax (minore)160 bar 
+ 
+
+ 
+ 
+
+ - Frenate da 100 km/h a 10 km/h 
+ 
+
+ 
+ 
+
+ 2.4.1.2.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Il test è da considerarsi superato se dopo 50 frenate il disco freno non presenta alcuna rottura. 
+ 
+
+ 
+ 
+
+ 2.4.1.3 Prova di deformazione 
+ 
+
+ 
+ 
+
+ 2.4.1.3.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ Il momento di inerzia di massa del dinamometro è da definire in conformità ai requisiti del precedente paragrafo 2.3.2 e relativi sottoparagrafi. Il numero di giri del banco di prova deve essere correlato alla velocità di prova lineare del veicolo sulla base del valore medio del raggio di rotolamento dinamico massimo e minimo dei pneumatici omologati. 
+ 
+
+ 
+ 
+
+ 2.4.1.3.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La schermatura dell'anello di attrito per dischi freno viene disposta su 2 punti di misura, rispettivamente a 4 mm dal bordo dell'anello di attrito esterno ovvero interno nonchè nella direzione circonferenziale a 45° verso l'uscita del disco lato pinza in direzione di rotazione del disco. 
+ 
+
+ 
+ 
+
+ La prova si compone di 2 parti (prova di tipo A e di tipo B) e viene eseguita come specificato di seguito: 
+ 
+
+ 
+ 
+
+ Specifica prova di tipo A 
+ 
+
+ 
+ 
+
+ Tipo di frenata: successive 
+ 
+
+ Numero di frenate: 15 
+ 
+
+ Temperatura iniziale 1&ordf; frenata (minore uguale) 50°C Intervallo di frenata: tif = tfef + ta 
+ 
+
+ Relativa coppia frenante a [m/s2] 2,5 
+ 
+
+ Frenate da 100 km/h a20 km/h 
+ 
+
+ Raffreddamento. Senza 
+ 
+
+ 
+ 
+
+ Specifica prova di tipo B 
+ 
+
+ 
+ 
+
+ Tipo di frenata: successive 
+ 
+
+ Numero di frenate: 2 
+ 
+
+ Temperatura iniziale 1&ordf; frenata ?50°C 
+ 
+
+ Intervallo di frenata 45 s (sono ammessi allungamenti determinati dal banco di prova) 
+ 
+
+ Relativa coppia frenante a [m/s2] 8,0 (con pressione frenante pmax ?150bar) 
+ 
+
+ Frenate da 0,9 vmax a 20 km/h 
+ 
+
+ Raffreddamento: senza 
+ 
+
+ 
+ 
+
+ Vmax: Velocità massima del tipo (secondo campo di impiego) 
+ 
+
+ tfef: Tempo di frenata effettivo durante la prova 
+ 
+
+ ta: tempo di accelerazione minimo secondo la capacità di accelerazione del relativo veicolo 
+ 
+
+ 
+ 
+
+ 2.4.1.3.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ La schermatura del disco freno speciale non deve superare il valore massimo definito del disco freno originale di più del 20%. 
+ 
+
+ 
+ 
+
+ 2.5 verifica di resistenza della pinza e dell' eventuale adattatore per il fissaggio al fusello 
+ 
+
+ 
+ 
+
+ La prova di resistenza del componente viene valutata con le prove descritte nei paragrafi successivi. L'assieme pinza e l'eventuale adattatore deve essere configurato secondo la posizione di montaggio sul veicolo e vincolata rigidamente al banco. Il tipo di rilevamento della temperatura è a scelta ma deve essere lo stesso per tutti i test. Laddove la pinza, ovvero l'eventuale adattatore per il fissaggio della pinza al fusello fossero applicati a più tipi di veicoli, per la prova, a copertura di tutti i tipi previsti, deve essere considerata la condizione più svantaggiosa nella definizione dei carichi (coppia frenante e pressione) da applicare ai componenti in prova. 
+ 
+
+ 
+ 
+
+ 2.5.1 Verifica della durata alla pressione pulsante (pinza) 
+ 
+
+ 
+ 
+
+ La prova ha lo scopo di verificare la durata della pinza a fatica con sollecitazioni derivanti da cicli di pressione. 
+ 
+
+ 
+ 
+
+ 2.5.1.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza o l'insieme adattatore-pinza, completa di pastiglie, va fissato su un supporto rigido, riproducendo l'attacco sul veicolo, serrando le viti con la coppia indicata dal costruttore; in luogo del disco può essere utilizzato un elemento sostitutivo, di pari spessore del disco, fissato al supporto. 
+ 
+
+ A titolo esemplificativo la prova può essere eseguita su un banco attrezzato come segue: 
+ 
+
+ 
+ 
+
+ • Un cilindro pneumatico per azionare la pompa idraulica. 
+ 
+
+ 
+ 
+
+ • Una pompa idraulica a stelo tuffante (diametro 12 mm; corsa 200mm)
+ 
+
+ per portare in pressione il circuito. 
+ 
+
+ 
+ 
+
+ • Una elettrovalvola per comandare il cilindro pneumatico. 
+ 
+
+ 
+ 
+
+ • Un manometro per tenere sotto controllo la pressione (160 bar di
+ 
+
+ fondo scala) L'apparecchiatura di prova deve garantire l'applicazione di cicli di pressione come di seguito specificato e la misura continua della pressione. 
+ 
+
+ 
+ 
+
+ 2.5.1.2 Programma di prova 
+ 
+
+ 
+ 
+
+ Prima dell'inizio della prova deve essere effettuata l'operazione di spurgo. La pinza è sottoposta, a temperatura ambiente, ad una pressione idraulica pulsante corrispondente alla decelerazione di 1 g, con un minimo di 100 bar; il numero di cicli è di 250x103 con frequenza compresa tra 900-1100 cicli/h . Il singolo ciclo è schematizzato nella seguente figura 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.5.1.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ La prova è ritenuta superata se alla fine della prova stessa non si sono verificate rotture di nessuno dei componenti, non si sono verificate perdite di fluido o trafilamenti e non c'è stata diminuzione della coppia di serraggio. 
+ 
+
+ 
+ 
+
+ 2.5.2 Verifica della durata alla pressione e coppia 
+ 
+
+ 
+ 
+
+ La prova ha lo scopo di verificare a fatica la pinza ovvero l'insieme pinza adattatore con sollecitazioni derivanti dall'applicazione di pressione e coppia. 
+ 
+
+ 
+ 
+
+ 2.5.2.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza o l'insieme adattatore-pinza, completa di pastiglie, va fissato su un supporto rigido, riproducendo l'attacco sul veicolo, serrando le viti con la coppia indicata dal costruttore; l'applicazione della coppia alla pinza deve avvenire attraverso perno sferico, che attraversa l'elemento simulante il disco, collegato a pastiglie metalliche appositamente predisposte con una sede concava.
+ 
+
+ A titolo esemplificativo, la prova può essere eseguita, con riferimento allo schema della figura 1, su un banco attrezzato come segue: 
+ 
+
+ 
+ 
+
+ 1. circuito pneumatico per fornire la coppia alla pinza; 
+ 
+
+ 
+ 
+
+ 2. circuito pneumo-idraulico per generare la pressione alla pinza. 
+ 
+
+ 
+ 
+
+ Il primo è costituito da: 
+ 
+
+ • Un cilindro pneumatico AP per la forza Ft2. Il diametro del
+ 
+
+ cilindro va scelto in base alle pressione utilizzata che, per un corretto lavoro, deve essere compresa tra 1 e 5 bar (pmax = 5 bar; pmin = bar). 
+ 
+
+ 
+ 
+
+ • Un regolatore di pressione R per stabilire la pressione pneumatica
+ 
+
+ del cilindro. 
+ 
+
+ 
+ 
+
+ • Un manometro MM2 per tenere sotto controllo la pressione di coppia
+ 
+
+ (10 bar di fondo scala). 
+ 
+
+ 
+ 
+
+ • Una elettrovalvola EV2. 
+ 
+
+ 
+ 
+
+ • Una molla di richiamo M. 
+ 
+
+ 
+ 
+
+ • Una leva fulcrata caratterizzata da lunghezze dei bracci a e b 
+ 
+
+ 
+ 
+
+ Il circuito della pressione, invece, è composto da: 
+ 
+
+ 
+ 
+
+ • Una pompa idraulica PI a stelo tuffante (diametro 12 mm; corsa 200
+ 
+
+ mm) per portare in pressione il circuito. 
+ 
+
+ 
+ 
+
+ • Un attuatore pneumatico CP per azionare la pompa idraulica. 
+ 
+
+ • Una elettrovalvola EV1. 
+ 
+
+ 
+ 
+
+ • Un manometro MM1 per tenere sotto controllo la pressione (200 bar
+ 
+
+ di fondo scala) 
+ 
+
+ 
+ 
+
+ La pressione necessaria nel circuito che determina la coppia applicata alla pinza si ottiene, con riferimento alla figura 1, come segue: 
+ 
+
+ 
+ 
+
+ la forza tangenziale Ft1 è calcolata dalla relazione: Ft1 = Mt / Reff 
+ 
+
+ Dall'equilibrio alla rotazione della leva fulcrata: 
+ 
+
+ Ft1 x b = Ft2 x a 
+ 
+
+ (dove a e b sono i bracci del banco tangenziale e Ft2 la forza applicata dal cilindro al braccio a) 
+ 
+
+ 
+ 
+
+ ovvero: 
+ 
+
+ 
+ 
+
+ Ft2 = Ft1 x (b/a) 
+ 
+
+ La pressione Pcilindro fornita al cilindro viene calcolata dividendo la forza Ft2 per l'area del cilindro Acilindro: 
+ 
+
+ Pcilindro = Ft2 / Acilindro 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.5.2.2 Programma di prova 
+ 
+
+ 
+ 
+
+ Prima dell'inizio della prova deve essere effettuata l'operazione di spurgo. 
+ 
+
+ La pinza o l'insieme pinza adattatore è sottoposta, a temperatura ambiente, a 250x103 cicli di pressione idraulica e di coppia corrispondenti alla decelerazione di 1 g. In ogni caso la pressione idraulica non deve essere inferiore a 100 bar; la coppia deve essere applicata quando la pressione raggiunge il 30-40 % del valore di prova. Il ciclo medio di prova, alla frequenza di 900 &divide; 1100 cicli/h ha l'andamento indicato in figura Fig. 2 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.5.2.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ La prova è ritenuta superata se alla fine della prova stessa non si sono verificate rotture di nessuno dei componenti e non si sono verificate perdite di fluido. 
+ 
+
+ 
+ 
+
+ 2.5.3 Verifica della durata alla pressione in ciclo termico (pinza) 
+ 
+
+ La prova ha lo scopo di verificare la durata della pinza alle sollecitazioni derivanti dall'applicazione da cicli di pressione associati a cicli termici. 
+ 
+
+ 
+ 
+
+ 2.5.3.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ Come al punto 2.5.1.1 con la pinza posizionata in una cella termica con campo di temperatura -40°C - +200°C e variazione di 2°C/min. 
+ 
+
+ 
+ 
+
+ 2.5.3.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La pinza completa viene sottoposta a 36x103 cicli di pressione idraulica pulsante a temperature differenti; la pressione viene applicata secondo il ciclo medio indicato in Fig. 1, con valore massimo della pressione pari a 50 bar e frequenza ricompresa nel campo 900 &divide; 1100 cicli/h. Il ciclo termico (figura 3), da - 40°C a + 120°C, deve essere ripetuto 3 volte secondo il seguente schema: 
+ 
+
+ 
+ 
+
+ 0.5 h a 15&divide;30 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 4 h a 120°C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 0.5 h a 15&divide;30 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 3 h a -40 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.5.3.3 Risultati della prova 
+ 
+
+ Come punto 2.5.1.3 
+ 
+
+ 
+ 
+
+ 2.6 Verifica statica di scoppio 
+ 
+
+ 
+ 
+
+ La prova di scoppio ha lo scopo di valutare la resistenza statica della pinza all'applicazione di un carico dato dalla pressione idraulica. 
+ 
+
+ La strumentazione deve garantire la misura continua della pressione. 
+ 
+
+ 2.6.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza, completa di pastiglie, deve essere montata su un distanziale dello stesso spessore del disco con pastiglie organiche o, in alternativa, solo nel caso di pinze fisse, può essere posizionata su un supporto metallico di spessore equivalente alla somma degli spessori di disco e pastiglie; la pinza deve essere collegata alla fonte di pressione tramite il foro di alimentazione. 
+ 
+
+ 2.6.2 Programma di prova 
+ 
+
+ 
+ 
+
+ - La pressione nella pinza deve essere aumentata con un gradiente pari a 20 bar/s fino a che non si produce un qualsiasi cedimento strutturale nella pinza ovvero non venga raggiunto il valore di 350 bar; 
+ 
+
+ 
+ 
+
+ - Al raggiungimento dei 350 bar , tale pressione deve essere mantenuta per 10 s 
+ 
+
+ 
+ 
+
+ 2.6.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ La resistenza della pinza viene valutata verificando il livello di pressione che si raggiunge al momento del cedimento strutturale. Il livello di pressione raggiunto dovrà essere maggiore di quello minimo specificato nella scheda tecnica del costruttore. 
+ 
+
+ 
+ 
+
+ 2.7 Verifica statica del momento di ritorno 
+ 
+
+ 
+ 
+
+ La prova del momento di ritorno ha lo scopo di valutare l'eventuale presenza di coppia frenante, in assenza di pressione all'interno del circuito idraulico. Per valutare il momento di ritorno, viene misurato, tramite l'utilizzo di una chiave dinamometrica, il minimo valore di coppia necessario a far ruotare il disco dopo l'applicazione della pressione. 
+ 
+
+ 
+ 
+
+ La prova deve essere eseguita su appositi banchi prova che dispongono di: 
+ 
+
+ 
+ 
+
+ a. Una pompa che permette di fornire pressione idraulica alla pinza. 
+ 
+
+ 
+ 
+
+ b. Un manometro che consente di rilevare la pressione presente nel circuito idraulico (fondo scala 250 bar). 
+ 
+
+ 
+ 
+
+ Inoltre, si deve disporre di: 
+ 
+
+ 
+ 
+
+ c. Una chiave dinamometrica per misurare il valore di coppia. 
+ 
+
+ 
+ 
+
+ d. Un comparatore centesimale CC per misurare l'oscillazione assiale del disco. 
+ 
+
+ 
+ 
+
+ 2.7.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ a. Il disco deve essere montato su apposito supporto munito di cuscinetto con l'opportuno distanziale. 
+ 
+
+ 
+ 
+
+ b. L'oscillazione assiale del disco deve essere inferiore a 0.05 mm.
+ 
+
+ La misura è effettuata con il comparatore centesimale posto a contatto con la superficie del disco, 4-5 mm all'interno del diametro esterno, in modo che l'asse del comparatore formi un angolo di 90° con la superficie del disco. 
+ 
+
+ 
+ 
+
+ c. Dopo aver misurato il valore di coppia massima necessaria per far ruotare il disco di un giro completo (coppia necessaria a vincere gli attriti del cuscinetto), va montata la pinza, completa di pastiglie, molla e perni, sul banco prova e deve essere effettata l'operazione di spurgo. 
+ 
+
+ 
+ 
+
+ 2.7.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La prova deve essere effettuata su 2 campioni. 
+ 
+
+ 
+ 
+
+ a. Alle condizione indicate al precedente punto 2.7.1, si deve fornire una pressione di prova di 40 bar per 3 volte. 
+ 
+
+ 
+ 
+
+ b. Dopo 30 secondi (non ci deve essere pressione nell'impianto) deve essere ruotato il disco di un quarto di giro e si deve rilevare la corrispondente coppia necessaria a compiere tale operazione; 
+ 
+
+ 
+ 
+
+ c. Si deve ruotare il disco di due giri completi, dopodichè si deve ruotare il disco di un giro completo e si deve rilevare il valore di coppia massima necessario per compiere tale operazione. 
+ 
+
+ 
+ 
+
+ d. Si deve sottrarre ai valori rilevati il valore di coppia rilevato al punto c) del precedente punto 2.7.1 (Condizioni di prova). 
+ 
+
+ 
+ 
+
+ 2.7.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Il valore di momento di ritorno massimo, di cui al punto 2.7.2, lettera d), deve essere non superiore a 10 Nm. 
+ 
+
+ 
+ 
+
+ 2.8 Allargamento/deformazione della pinza del freno 
+ 
+
+ 
+ 
+
+ La prova di deformazione ha lo scopo di valutare la deformazione subita dalla pinza per effetto dell'applicazione di una pressione idraulica statica. 
+ 
+
+ 
+ 
+
+ 2.8.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La deformazione della pinza deve essere valutata misurando lo spostamento che subisce ogni semi-pinza (interna ed esterna), in corrispondenza del punto P (centro di spinta): 
+ 
+
+ 
+ 
+
+ a. nel caso di semi-pinza a 1 pistone,deve essere determinato sulla base del centro degli assi della sezione del cilindro (Fig. 1.1); 
+ 
+
+ 
+ 
+
+ b. nel caso di semi-pinza a 2 pistoni, deve essere determinato sull'asse dei cilindri, a metà distanza tra i due centri degli assi delle sezioni dei cilindri (Fig. 1.2). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La prova viene eseguita sui banchi prova che dispongono, a titolo esemplificativo, di: 
+ 
+
+ 
+ 
+
+ a. Sistema di acquisizione opportuno; 
+ 
+
+ 
+ 
+
+ b. Una pompa idraulica a stelo tuffante (&Oslash; 12 mm, corsa 200 mm) che permette di fornire pressione idraulica alla pinza; 
+ 
+
+ 
+ 
+
+ c. Una pompa a depressione per realizzare la procedura di spurgo; 
+ 
+
+ 
+ 
+
+ d. Un trasduttore di pressione per valutare il livello di pressione raggiunto nel circuito; (fondo scala 250 bar; errore totale ? 0,1 % del fondo scala; linearità 0.1 % del fondo scala); 
+ 
+
+ 
+ 
+
+ e. Trasduttori di posizione che consentono di rilevare la deformazione del punto in esame (fondo scala &plusmn;2.5 mm; linearità 0.19% del fondo scala). 
+ 
+
+ 
+ 
+
+ 2.8.2 Programma di prova 
+ 
+
+ 
+ 
+
+ 2.8.2.1 Preparazione della prova 
+ 
+
+ 
+ 
+
+ a. Predisporre una pinza completa delle relative pastiglie e sottoporla alla pressione pneumatica di collaudo di 180 bar; 
+ 
+
+ 
+ 
+
+ b. Montare la pinza sul banco prova rispettando le modalità di montaggio sul veicolo; 
+ 
+
+ 
+ 
+
+ c. Approntare il programma di acquisizione; 
+ 
+
+ 
+ 
+
+ d. Alimentare la pinza con una pressione di 20 bar, mettendo così a contatto tutti gli elementi e verificare che non vi siano luci tra pastiglie e l'elemento disco; 
+ 
+
+ 
+ 
+
+ e. Posizionare i trasduttori sulla pinza. 
+ 
+
+ 
+ 
+
+ 2.8.2.2 Prova 
+ 
+
+ 
+ 
+
+ a. Far eseguire ai pistoni una corsa di almeno 3 mm mediante l'applicazione di una pressione di 10&plusmn;5 bar (Movimentazione pistoni); 
+ 
+
+ 
+ 
+
+ b. Ripetere punto a) per 2 volte; 
+ 
+
+ 
+ 
+
+ c. Effettuare l'acquisizione della deformazione aumentando la pressione con gradiente pari a 20 bar/s sino al valore massimo di 150 bar 
+ 
+
+ 
+ 
+
+ 2.8.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Al termine del programma di prova, una volta scaricata la pressione dall'impianto, non devono risultare evidenti deformazioni residue della pinza. 
+ 
+
+ 
+ 
+
+ 3 Verifica di montaggio e di compatibilità del sistema dischi freno con ruote/pneumatici 
+ 
+
+ 
+ 
+
+ 3.1 L'installazione sul veicolo del sistema dischi freno deve essere verificato per ciascuna delle combinazioni cerchi-pneumatici previste per il veicolo stesso. La verifica è finalizza alla compatibilità di impiego sistema-cerchi-pneumatici senza limitazioni e condizioni alla libertà di movimento del veicolo. 
+ 
+
+ 
+ 
+
+ 3.2 Le combinazioni cerchi-pneumatici non verificate sono eliminate dalle misure ammesse per il tipo di veicolo per il quale è richiesta l'omologazione del sistema. Il costruttore indica nella documentazione, di cui all'articolo 7, comma 2, del presente decreto, le combinazioni cerchi-pneumatici verificate. 
+ 
+
+ 
+ 
+
+ 3.3 è ammesso un aumento di carreggiata del veicolo nel limite del 2%, a condizione che i pneumatici, tenendo conto dell'impronta a terra degli stessi, non sporgano dal profilo dei copriruota originari ovvero dagli eventuali profili aggiunti. 
+ 
+
+ 
+ 
+
+ 3.4 Per le combinazioni cerchi-pneumatici ammesse, secondo quanto indicato ai punti precedenti, è altresì verificata la possibilità di installare le catene da neve. 
+ 
+
+ 
+ 
+
+ 3.5 Con gli stessi criteri sopra esposti, è verificato l'impiego delle ruote di emergenza, qualora il veicolo interessato ne sia equipaggiato. Nel caso in cui la verifica non risulti soddisfatta il veicolo dovrà essere dotato di apposito kit sostitutivo di emergenza. 
+ 
+
+ 
+ 
+
+ 3.6 Le compatibilità, di cui ai precedenti punti 3.4 e 3.5, non verificate, compresa la necessità dell'eventuale kit sostitutivo per la ruota di emergenza, sono indicate nella documentazione, di cui all'articolo 7, comma 2, del presente decreto.
