@@ -1,0 +1,1882 @@
+Allegato C 
+ 
+
+ 
+ 
+
+ Procedura per la verifica dell'idoneità di un sistema dischi freno per motocicli ai fini della sua omologazione. 
+ 
+
+ 
+ 
+
+ 1. Requisiti generali dei sistemi dischi freno I sistemi dischi freno devono: 
+ 
+
+ 
+ 
+
+ a) soddisfare le medesime disposizioni di frenatura secondo le quali è stato omologato il tipo di veicolo per il quale è richiesta l'omologazione del sistema; 
+ 
+
+ 
+ 
+
+ b) presentare caratteristiche di attrito dinamiche non inferiori a quelle del sistema di frenatura originale; 
+ 
+
+ 
+ 
+
+ c) possedere caratteristiche meccaniche tali da garantire almeno gli stessi standard del sistema di frenatura originale; 
+ 
+
+ 
+ 
+
+ d) presentare stabilità alle differenti temperature. 
+ 
+
+ 
+ 
+
+ 2. Prove 
+ 
+
+ La verifica di idoneità di un sistema dischi freno è effettuata attraverso le prove di seguito descritte. 
+ 
+
+ 
+ 
+
+ 2.1 Veicolo di prova 
+ 
+
+ 
+ 
+
+ Un veicolo, considerato rappresentativo per il tipo per il quale viene richiesta una omologazione di un sistema dischi freno, deve essere equipaggiato con tale sistema e dotato, tra l'altro, di dispositivi idonei per una prova del freno in conformità alle disposizioni della direttiva 93/14/CEE e successive modificazioni ed integrazioni (in seguito citate solo come direttiva 93/14/CEE) o degli equivalenti regolamenti UNECE. Tutte le prove di seguito elencate devono essere eseguite con freni rodati. Per le prove comparative tra il sistema dischi freno e il sistema freni originale è necessario applicare lo stesso programma di rodaggio. 
+ 
+
+ 
+ 
+
+ 2.2 Conformità alla direttiva 93/14/CEE ovvero alla regolamentazione UNECE 
+ 
+
+ 
+ 
+
+ La conformità ai requisiti della regolamentazione della direttiva 93/14/CEE ovvero ai corrispondenti regolamenti UNECE, secondo il criterio indicato al punto 1), lettera a), deve essere certificata per il relativo tipo di veicolo con le seguenti prove: 
+ 
+
+ 
+ 
+
+ 2.2.1 Impianto freno di servizio 
+ 
+
+ 
+ 
+
+ 2.2.1.1 Prove del freno tipo 0, con motore disinnestato. 
+ 
+
+ 
+ 
+
+ 2.2.1.2 Prove del freno tipo 0, con motore innestato. 
+ 
+
+ 
+ 
+
+ 2.2.1.3 Prove di tipo 0, con motore disinnestato e freni bagnati 
+ 
+
+ 
+ 
+
+ 2.2.1.3 Prove del freno tipo I (prova della riduzione dell'efficienza frenante). 
+ 
+
+ 
+ 
+
+ Al termine della prova del freno tipo I deve essere verificato l'effetto frenante a freni caldi. 
+ 
+
+ 
+ 
+
+ 2.2.2 Impianto (eventuale) freno di stazionamento (da effettuare solo nel caso in cui il sistema dischi freno interessi anche il freno di stazionamento). 
+ 
+
+ 
+ 
+
+ 2.2.2.1 Prove così come previste dalle pertinenti prescrizioni (vedasi punto 2.2). 
+ 
+
+ 
+ 
+
+ 2.2.3 veicoli muniti di sistemi di frenatura antibloccaggio (ABS) 
+ 
+
+ 
+ 
+
+ 2.2.3.1 Prove così come previste dalle pertinenti prescrizioni (vedasi punto 2.2). 
+ 
+
+ 
+ 
+
+ 2.3 Prova comparativa dell'effetto frenante a freni freddi 
+ 
+
+ 
+ 
+
+ L'effetto frenante a freni freddi del sistema disco freni deve essere confrontato con l'impianto frenante originario per comparare i risultati della seguente prova. 
+ 
+
+ A tal fine deve essere eseguita con il sistema disco freni la prova di tipo 0, descritta al punto 2.2.1.1 e la prova di tipo 1 descritta al punto 2.2.1.3. 
+ 
+
+ La prova descritta nel presente paragrafo deve essere eseguita anche con il sistema frenante originario. 
+ 
+
+ Le caratteristiche di attrito dinamiche del sistema dischi freno possono essere considerate comparabili a quelle dell'impianto originario, se: 
+ 
+
+ - i valori raggiunti della decelerazione completa media con le stesse pressioni o forze di azionamento nella zona dei 2/3 superiori della curva generata non si discostano più del &plusmn; 15% o più di &plusmn; 0,4 m/s2 da quelli dell'impianto originario e la corsa leva del comando non si discosta più del &plusmn; 15%, misurata in posizione A (vedasi figura n. 8) per pompe al manubrio ed in corrispondenza del punto di applicazione della forza per pompe a pedale; 
+ 
+
+ - al termine della prova di tipo I, i valori ottenuti risultano non inferiori al 15% rispetto a quelli dell'impianto originario e ricompresi nei limiti delle prescrizioni previste dalla direttiva 93/14/CE o dall'equivalente regolamento UNECE. 
+ 
+
+ 
+ 
+
+ 2.3.1 Verifica di resistenza al Vapour Lock 
+ 
+
+ 
+ 
+
+ La resistenza del sistema disco freno deve essere verificata tramite acquisizione, senza soluzione di continuità, della temperatura del fluido freni all'interno del corpo pinza nel corso della prova tipo I di cui al punto 2.2.1.3. 
+ 
+
+ L'acquisizione della temperatura del fluido freni deve essere effettuata con le medesime modalità ed in posizioni comparabili sia all'interno della pinza originale che in quella della pinza del sistema disco freno in corso di omologazione (se differenti). 
+ 
+
+ Il valore massimo di temperatura acquisito durante la prova per il sistema disco freno in omologazione: 
+ 
+
+ 
+ 
+
+ a) deve essere inferiore di almeno 40°C alla temperatura di ebollizione del fluido freni della categoria DOT prescritta dal produttore del veicolo 
+ 
+
+ 
+ 
+
+ b) può eccedere di 30°C il corrispondente valore massimo registrato per il veicolo in condizioni originali. 
+ 
+
+ 
+ 
+
+ 2.3.2 Prova di resistenza dei dischi freno su banco prova 
+ 
+
+ 
+ 
+
+ 2..3.2.1 Equipaggiamento del banco di prova (dinamometro ad inerzia) 
+ 
+
+ Il dinamometro ad inerzia deve essere dotato di una strumentazione tale da consentire la registrazione continua di velocità di rotazione, coppia frenante, pressione nel circuito dei freni, numero di giri dopo l'azionamento del freno, tempo di frenata, temperatura del disco e temperatura delle guarnizioni dei freni. 
+ 
+
+ 
+ 
+
+ 2.3.2.2. Condizioni e programma di prova 
+ 
+
+ 
+ 
+
+ Il banco deve essere equipaggiato con il sistema disco freni. Il programma di prove è riportato di seguito 
+ 
+
+ 
+ 
+
+ 2.3.2.2.1 Freno ruota anteriore 
+ 
+
+ 
+ 
+
+ Massa inerziale equivalente: 75% della massa complessiva ammessa del veicolo 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ C o n d i z i o n a m e n t o 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 1 80 40 -3 3.7 
+ 
+
+ 2 40 80 3 3.7 
+ 
+
+ 3 80 80 - 20 
+ 
+
+ 
+ 
+
+ Ripetere 19 volte i punti da 1 a 3 
+ 
+
+ 
+ 
+
+ Arresto forzato 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 
+ 
+
+ Vmax (m/s)
+ 
+
+ 1 80 0 -10 0.08 Vmax
+ 
+
+ 2 0 80 3 0.27 Vmax
+ 
+
+ 3 80 80 0 240
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Profilo di marcia 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 
+ 
+
+ Vmax (m/s)
+ 
+
+ 1 80 40 -8 0.05 Vmax
+ 
+
+ 2 40 80 6 0.05 Vmax
+ 
+
+ 3 80 20 -8 0.075 Vmax
+ 
+
+ 4 20 80 6 0.1 Vmax
+ 
+
+ 5 80 40 -8 0.05 Vmax
+ 
+
+ 6 40 60 6 0.033 Vmax
+ 
+
+ 7 60 40 -6 0.033 Vmax
+ 
+
+ 8 40 60 6 0.033 Vmax
+ 
+
+ 9 60 40 -6 0.033Vmax
+ 
+
+ 10 40 80 6 0.067 Vmax
+ 
+
+ 11 80 60 -8 0.025 Vmax
+ 
+
+ 12 60 60 - 10 Vmax
+ 
+
+ 13 60 40 -6 0.033 Vmax
+ 
+
+ 14 40 80 6 0.067 Vmax
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ripetere 29 volte i punti da 1 a 14 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.3.2.2.2 Freno ruota posteriore 
+ 
+
+ 
+ 
+
+ Massa inerziale equivalente: 55% della massa complessiva ammessa del veicolo 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ C o n d i z i o n a m e n t o 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 1 80 40 -2 5.56 
+ 
+
+ 2 40 80 3 3.7 
+ 
+
+ 3 80 80 - 20 
+ 
+
+ 
+ 
+
+ Ripetere 19 volte i punti da 1 a 3 
+ 
+
+ 
+ 
+
+ Arresto forzato 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 
+ 
+
+ Vmax (m/s)
+ 
+
+ 1 50 0 -5 0.1 Vmax
+ 
+
+ 2 0 50 3 0.17 Vmax
+ 
+
+ 3 50 50 0 240
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Profilo di marcia 
+ 
+
+ 
+ 
+
+ Punto: da [km/h] a [km/h] a [m/s2] t [s] 
+ 
+
+ 
+ 
+
+ Vmax (m/s)
+ 
+
+ 1 50 20 -3 0.1 Vmax
+ 
+
+ 2 20 50 6 0.05 Vmax
+ 
+
+ 3 50 10 -3 0.14 Vmax
+ 
+
+ 4 10 50 6 0.067 Vmax
+ 
+
+ 5 50 20 -3 0.1 Vmax
+ 
+
+ 6 20 40 6 0.033 Vmax
+ 
+
+ 7 40 10 -2 0.15 Vmax
+ 
+
+ 8 10 40 6 0.05 Vmax
+ 
+
+ 9 40 10 -2 0.15 Vmax
+ 
+
+ 10 10 50 6 0.067 Vmax
+ 
+
+ 11 50 20 -3 0.1 Vmax
+ 
+
+ 12 20 40 6 0.033 Vmax
+ 
+
+ 13 40 10 -2 0.15 Vmax
+ 
+
+ 14 10 50 6 0.067 Vmax
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ripetere 29 volte i punti da 1 a 14 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.3.2.3 Criteri di valutazione 
+ 
+
+ 
+ 
+
+ a) A valle del ciclo di prova deve essere effettuato un controllo generale del disco per identificare eventuali danni. In presenza di danni la prova deve essere ripetuta con il sistema disco freno originale. Il test è superato se i danni del disco in corso di omologazione sono inferiori a quelli del disco freno originale. 
+ 
+
+ 
+ 
+
+ Nota: Per danno del disco freno si intende: 
+ 
+
+ 
+ 
+
+ - presenza di cricche radiali di lunghezza superiore ai 2/3 dell'altezza radiale della superficie frenante 
+ 
+
+ 
+ 
+
+ - cricche passanti attraverso tutto lo spessore della superficie frenante 
+ 
+
+ 
+ 
+
+ - presenza di cricche sulla superficie frenante che raggiungono il diametro esterno ovvero interno della superficie frenante 
+ 
+
+ 
+ 
+
+ - qualsiasi altro tipo di danno strutturale o cricca in aree al di fuori della superficie frenante del disco freno. 
+ 
+
+ 
+ 
+
+ 2.4 Verifica di resistenza della pinza e dell' eventuale adattatore per il fissaggio al veicolo 
+ 
+
+ 
+ 
+
+ La prova di resistenza del componente deve essere valutata con le prove descritte nei paragrafi successivi. L'assieme pinza e l'eventuale adattatore debbono essere configurati secondo la posizione di montaggio sul veicolo e vincolata rigidamente al banco.
+ 
+
+ Il tipo di rilevamento della temperatura è a scelta ma deve essere lo stesso per tutti i test. Laddove la pinza ovvero l'eventuale adattatore per il fissaggio della pinza al veicolo fossero applicati a più tipi di veicoli, per la prova, a copertura di tutti i tipi previsti, deve essere considerata la condizione più svantaggiosa nella definizione dei carichi (coppia frenante e pressione) da applicare ai componenti in prova. 
+ 
+
+ 
+ 
+
+ 2.4.1 Verifica della durata alla pressione pulsante (pinza) 
+ 
+
+ 
+ 
+
+ La prova ha lo scopo di verificare la durata della pinza a fatica con sollecitazioni derivanti da cicli di pressione. 
+ 
+
+ 
+ 
+
+ 2.4.1.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza o l'insieme adattatore-pinza, completa di pastiglie, deve essere fissato su un supporto rigido, riproducendo l'attacco sul veicolo, serrando le viti con la coppia indicata dal costruttore; in luogo del disco può essere utilizzato un elemento sostitutivo, di pari spessore del disco, fissato al supporto. 
+ 
+
+ La prova può essere eseguita su un banco attrezzato, a titolo esemplificativo, come segue: 
+ 
+
+ 
+ 
+
+ • Un cilindro pneumatico per azionare la pompa idraulica. 
+ 
+
+ 
+ 
+
+ • Una pompa idraulica a stelo tuffante (diametro 12 mm; corsa 200mm)
+ 
+
+ per portare in pressione il circuito. 
+ 
+
+ 
+ 
+
+ • Una elettrovalvola per comandare il cilindro pneumatico. 
+ 
+
+ 
+ 
+
+ • Un manometro per tenere sotto controllo la pressione (160 bar di
+ 
+
+ fondo scala). L'apparecchiatura di prova, in sintesi, deve garantire l'applicazione di cicli di pressione come di seguito specificato e la misura continua della pressione. 
+ 
+
+ 
+ 
+
+ 2.4.1.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La pinza deve essere sottoposta, a temperatura ambiente, ad una pressione idraulica pulsante corrispondente alla decelerazione corrispondente al valore di bloccaggio della ruota, con un minimo di 70 bar; il numero di cicli è di 200x103 con frequenza compresa tra 900-1100 cicli/h . Il singolo ciclo è schematizzato nella seguente figura 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.4.1.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ La prova è superata se alla fine della prova stessa non si sono verificate: rotture di nessuno dei componenti, perdite di fluido o trafilamenti e non c'è stata diminuzione della coppia di serraggio. 
+ 
+
+ 2.4.2 Verifica della durata alla pressione e coppia 
+ 
+
+ 
+ 
+
+ La prova ha lo scopo di verificare a fatica la pinza ovvero l'insieme pinza -adattatore con sollecitazioni derivanti dall'applicazione di pressione e coppia. 
+ 
+
+ 
+ 
+
+ 2.4.2.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza o l'insieme adattatore-pinza, completa di pastiglie, deve essere fissato su un supporto rigido, riproducendo l'attacco sul veicolo, serrando le viti con la coppia indicata dal costruttore; l'applicazione della coppia alla pinza deve avvenire attraverso perno sferico, che attraversa l'elemento simulante il disco, collegato alle pastiglie di tipo metallico appositamente predisposte con una sede concava. 
+ 
+
+ La prova può essere eseguita su un banco prova attrezzato, a titolo esemplificativo, con gli elementi in seguito descritti e schematizzati nella successiva figura 2: 
+ 
+
+ 
+ 
+
+ 1. circuito pneumatico per fornire la coppia alla pinza; 
+ 
+
+ 
+ 
+
+ 2. circuito pneumo-idraulico per generare la pressione alla pinza. 
+ 
+
+ 
+ 
+
+ Il primo è costituito da: 
+ 
+
+ 
+ 
+
+ • Un cilindro pneumatico AP per la forza Ft2. Il diametro del
+ 
+
+ cilindro va scelto in base alle pressione utilizzata che, per un corretto lavoro, deve essere compresa tra 1 e 5 bar (pmax = 5 bar; pmin = bar). 
+ 
+
+ 
+ 
+
+ • Un regolatore di pressione R per stabilire la pressione pneumatica
+ 
+
+ del cilindro. 
+ 
+
+ 
+ 
+
+ • Un manometro MM2 per tenere sotto controllo la pressione di coppia
+ 
+
+ (10 bar di fondo scala). 
+ 
+
+ 
+ 
+
+ • Una elettrovalvola EV2. 
+ 
+
+ 
+ 
+
+ • Una molla di richiamo M. 
+ 
+
+ 
+ 
+
+ • Una leva fulcrata caratterizzata da lunghezze dei bracci a e b 
+ 
+
+ 
+ 
+
+ Il circuito della pressione, invece, è composto da: 
+ 
+
+ 
+ 
+
+ • Una pompa idraulica PI a stelo tuffante (diametro 12 mm; corsa 200
+ 
+
+ mm) per portare in pressione il circuito. 
+ 
+
+ 
+ 
+
+ • Un attuatore pneumatico CP per azionare la pompa idraulica. 
+ 
+
+ • Una elettrovalvola EV1. 
+ 
+
+ 
+ 
+
+ • Un manometro MM1 per tenere sotto controllo la pressione (200 bar
+ 
+
+ di fondo scala) 
+ 
+
+ 
+ 
+
+ La pressione necessaria nel circuito che determina la coppia applicata alla pinza deve essere ricavata, con riferimento alla figura 1, come segue: 
+ 
+
+ 
+ 
+
+ la forza tangenziale Ft1 è calcolata dalla relazione: Ft1= Mt / Reff 
+ 
+
+ Dall'equilibrio alla rotazione della leva fulcrata: 
+ 
+
+ Ft1 x b = Ft2 x a ovvero Ft2 = Ft1 x (b/a) 
+ 
+
+ (dove a e b sono i bracci del banco tangenziale e Ft2 la forza applicata dal cilindro al braccio a) 
+ 
+
+ La pressione Pcilindro fornita al cilindro è pari al rapporto tra la forza Ft2 e l'area del cilindro Acilindro: Pcilindro = Ft2 / Acilindro 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.4.2.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La pinza o l'insieme pinza adattatore per l'asse anteriore deve essere sottoposta, a temperatura ambiente, a 200x103 cicli di pressione idraulica e di coppia corrispondenti alla decelerazione di bloccaggio della corrispondente ruota. In ogni caso la pressione idraulica non deve essere inferiore a 70 bar; la coppia deve essere applicata quando la pressione raggiunge il 30-40 % del valore di prova. 
+ 
+
+ La pinza o l'insieme pinza-adattatore per l'asse posteriore deve essere sottoposta alle medesime condizioni di carico indicate per l'asse anteriore con le seguenti variazioni: 
+ 
+
+ 
+ 
+
+ - 190x103 cicli nella direzione di marcia in avanti del veicolo; 
+ 
+
+ 
+ 
+
+ - 10x103 cicli nella direzione di marcia all'indietro del veicolo. 
+ 
+
+ 
+ 
+
+ Il ciclo medio di prova, alla frequenza di 900 &divide; 1100 cicli/h ha l'andamento indicato in figura Fig. 3 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.4.2.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ La prova è superata se alla fine della prova stessa non si sono verificate rotture di nessuno dei componenti e non si sono verificate perdite di fluido. 
+ 
+
+ 
+ 
+
+ 2.4.3 Verifica della durata alla pressione in ciclo termico (pinza) 
+ 
+
+ La prova ha lo scopo di verificare la durata della pinza alle sollecitazioni derivanti dall'applicazione da cicli di pressione associati a cicli termici. 
+ 
+
+ 
+ 
+
+ 2.4.3.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ Come al punto 2.4.1.1 con la pinza posizionata in una cella termica con campo di temperatura -40°C - +200°C e variazione di 2°C/min. 
+ 
+
+ 
+ 
+
+ 2.4.3.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La pinza completa viene sottoposta a 72x103 cicli di pressione idraulica pulsante a temperature differenti; la pressione viene applicata secondo il ciclo medio indicato in Fig. 1, con valore massimo della pressione pari a 35 bar e frequenza ricompresa nel campo 900 &divide; 1100 cicli/h. 
+ 
+
+ Il ciclo termico (figura 4), da - 25°C a + 120°C, deve essere ripetuto 3 volte secondo il seguente schema: 
+ 
+
+ 
+ 
+
+ 0.5 h a 15&divide;30 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 4 h a 120°C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 0.5 h a 15&divide;30 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 3 h a -25 °C 
+ 
+
+ 1 h transitorio termico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.4.3.3 Risultati della prova 
+ 
+
+ Come punto 2.4.1.3 
+ 
+
+ 
+ 
+
+ 2.5 Verifica statica di scoppio 
+ 
+
+ 
+ 
+
+ La prova di scoppio ha lo scopo di valutare la resistenza statica della pinza all'applicazione di un carico derivante dall'applicazione di pressione idraulica. 
+ 
+
+ La strumentazione deve garantire la misura continua della pressione. 
+ 
+
+ 2.5.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La pinza, completa di pastiglie, deve essere montata su un distanziale dello stesso spessore del disco con pastiglie organiche o, in alternativa, solo nel caso di pinze fisse, può essere posizionata su un supporto metallico di spessore equivalente alla somma degli spessori di disco e pastiglie e deve essere collegata alla fonte di pressione tramite il foro di alimentazione. 
+ 
+
+ 
+ 
+
+ 2.5.2 Programma di prova 
+ 
+
+ 
+ 
+
+ - La pressione nella pinza deve essere aumentata con un gradiente pari a 20 bar/s fino a che non si produce un qualsiasi cedimento strutturale nella pinza ovvero non venga raggiunto il valore di 250 bar; 
+ 
+
+ 
+ 
+
+ - Al raggiungimento dei 250 bar , tale pressione deve essere mantenuta per 10 s. 
+ 
+
+ 
+ 
+
+ 2.5.3 Risultati della prova 
+ 
+
+ 
+ 
+
+ Il livello di pressione che determina il cedimento strutturale deve essere maggiore di quello minimo specificato nella scheda tecnica del costruttore. 
+ 
+
+ 
+ 
+
+ 2.6 Verifica statica del momento di ritorno 
+ 
+
+ 
+ 
+
+ La prova del momento di ritorno ha lo scopo di valutare l'eventuale presenza di coppia frenante, in assenza di pressione all'interno del circuito idraulico. Per valutare il momento di ritorno, deve essere misurato, tramite l'utilizzo di una chiave dinamometrica, il minimo valore di coppia necessario a far ruotare il disco dopo l'applicazione della pressione. 
+ 
+
+ La prova deve essere eseguita su appositi banchi prova che dispongono di: 
+ 
+
+ 
+ 
+
+ a. Una pompa che permette di fornire pressione idraulica alla pinza. 
+ 
+
+ 
+ 
+
+ b. Un manometro che consente di rilevare la pressione presente nel circuito idraulico (fondo scala 250 bar). 
+ 
+
+ 
+ 
+
+ Inoltre, si deve disporre di: 
+ 
+
+ 
+ 
+
+ c. Una chiave dinamometrica per misurare il valore di coppia. 
+ 
+
+ 
+ 
+
+ d. Un comparatore centesimale per misurare l'oscillazione assiale del disco. 
+ 
+
+ 
+ 
+
+ 2.6.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ a. Il disco deve essere montato su apposito supporto munito di cuscinetto con opportuno distanziale. 
+ 
+
+ 
+ 
+
+ b. L'oscillazione assiale del disco deve essere inferiore a 0.05 mm.
+ 
+
+ La misura è effettuata con il comparatore centesimale posto a contatto con la superficie del disco, 4-5 mm all'interno del diametro esterno, in modo che l'asse del comparatore formi un angolo di 90° con la superficie del disco. 
+ 
+
+ 
+ 
+
+ c. Dopo aver misurato il valore di coppia massima necessaria per far ruotare il disco di un giro completo (coppia necessaria a vincere gli attriti del cuscinetto), va montata la pinza, completa di pastiglie, molla e perni. 
+ 
+
+ 
+ 
+
+ 2.6.2 Programma di prova 
+ 
+
+ 
+ 
+
+ La prova deve essere effettuata su 2 campioni. 
+ 
+
+ 
+ 
+
+ a. Alle condizione indicate al precedente punto 2.6.1, si deve fornire pressione di prova di 40 bar per 3 volte. 
+ 
+
+ 
+ 
+
+ b. Dopo 30 secondi (non ci deve essere pressione nell'impianto) si deve ruotare il disco di un quarto di giro e deve essere rilevata la corrispondente coppia necessaria a compiere tale operazione; 
+ 
+
+ 
+ 
+
+ c. Si deve ruotare il disco di due giri completi, dopodichè si deve ruotare ancora il disco di un giro completo e si deve rilevare il valore di coppia massima necessario per compiere tale operazione. 
+ 
+
+ 
+ 
+
+ d. Ai valori rilevati si deve sottrarre il valore di coppia rilevato al punto c) del precedente punto 2.6.1 
+ 
+
+ 
+ 
+
+ (Condizioni di prova). 
+ 
+
+ 
+ 
+
+ 2.6.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Il valore di momento di ritorno massimo, di cui al punto 2.6.2, lettera d), deve essere non superiore a 10 Nm. 
+ 
+
+ 
+ 
+
+ 2.7 Allargamento/deformazione della pinza del freno 
+ 
+
+ 
+ 
+
+ La prova di deformazione ha lo scopo di valutare la deformazione subita dalla pinza per effetto dell'applicazione di una pressione idraulica statica. 
+ 
+
+ 
+ 
+
+ 2.7.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La deformazione della pinza deve essere valutata attraverso la misura dello spostamento che subisce ogni semi-pinza (interna ed esterna), in corrispondenza del punto P (centro di spinta): 
+ 
+
+ 
+ 
+
+ a. nel caso di semi-pinza a 1 pistone, lo spostamento deve essere determinato sulla base del centro degli assi della sezione del cilindro (Fig. 5); 
+ 
+
+ 
+ 
+
+ b. nel caso di semi-pinza a 2 pistoni, lo spostamento deve essere determinato sull'asse dei cilindri, a metà distanza tra i due centri degli assi delle sezioni dei cilindri (Fig. 6). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La prova deve essere eseguita su un banco prova provvisto, a titolo esemplificativo, di: 
+ 
+
+ 
+ 
+
+ a. Sistema di acquisizione; 
+ 
+
+ 
+ 
+
+ b. Una pompa idraulica a stelo tuffante (&Oslash; 12 mm, corsa 200 mm) che permette di fornire pressione idraulica alla pinza; 
+ 
+
+ 
+ 
+
+ c. Una pompa a depressione per realizzare la procedura di spurgo; 
+ 
+
+ 
+ 
+
+ d. Un trasduttore di pressione per valutare il livello di pressione raggiunto nel circuito; (fondo scala 250 bar; errore totale ^ 0,1 % del fondo scala; linearità 0.1 % del fondo scala); 
+ 
+
+ 
+ 
+
+ e. Trasduttori di posizione che consentono di rilevare la deformazione del punto in esame (LVDT fondo scala &plusmn;2.5 mm; linearità 0.19% del fondo scala). 
+ 
+
+ 
+ 
+
+ 2.7.2 Programma di prova 
+ 
+
+ 
+ 
+
+ 2.7.2.1 Preparazione della prova 
+ 
+
+ 
+ 
+
+ a. La pinza completa delle relative pastiglie deve essere sottoposta alla pressione pneumatica di collaudo di120 bar; 
+ 
+
+ 
+ 
+
+ b. il montaggio della pinza sul banco prova deve essere effettuando rispettando le modalità di montaggio sul veicolo; 
+ 
+
+ 
+ 
+
+ c. la pinza deve essere completa di pastiglie e di un elemento disco ; 
+ 
+
+ 
+ 
+
+ d. La pinza deve essere alimentata con una pressione di 20 bar, mettendo a contatto tutti gli elementi e verificando che non vi siano luci tra pastiglie e l'elemento disco; 
+ 
+
+ 
+ 
+
+ 2.7.2.2 Prova 
+ 
+
+ 
+ 
+
+ a. I pistoni debbono eseguire una corsa di almeno 3 mm mediante l'applicazione di una pressione di 10&plusmn;5 bar (movimentazione pistoni); 
+ 
+
+ 
+ 
+
+ b. ìoperazione indicata al punto a) deve essere ripetuta 2 volte; 
+ 
+
+ 
+ 
+
+ c. Deve essere acquisita la deformazione della pinza, aumentando la pressione con gradiente pari a 20 bar/s sino al valore massimo di 120 bar. 
+ 
+
+ 
+ 
+
+ 2.7.2.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ Al termine del programma di prova, una volta scaricata la pressione dall'impianto, non debbono risultare deformazioni residue della pinza. 
+ 
+
+ 
+ 
+
+ 2.8 Prova di durata della pompa freno 
+ 
+
+ 
+ 
+
+ La pompa deve essere sottoposta ad una sollecitazione pulsante per verificarne la durata a fatica anche in ciclo termico. 
+ 
+
+ 
+ 
+
+ 2.8.1 Prova a T ambiente 
+ 
+
+ 
+ 
+
+ 2.8.1.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ La prova deve essere effettuata su un banco prova configurato, a titolo esemplificativo, come in figura 7 e costituito dai seguenti elementi: 
+ 
+
+ 
+ 
+
+ • Un attuatore pneumatico per l'induzione della pressione di prova
+ 
+
+ all'interno della pompa. 
+ 
+
+ 
+ 
+
+ • Un trasduttore di pressione. 
+ 
+
+ 
+ 
+
+ • Un alloggiamento per il fissaggio della pompa. 
+ 
+
+ 
+ 
+
+ • Una o più pinze di caratteristiche adeguate. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.8.1.2 Programma di prova 
+ 
+
+ 
+ 
+
+ 2.8.1.2.1 Preparazione della prova. 
+ 
+
+ 
+ 
+
+ • La pompa deve essere montata in modo da riprodurre fedelmente la
+ 
+
+ reale posizione sul veicolo. 
+ 
+
+ 
+ 
+
+ • L'attuatore deve essere collegato in modo che la forza F sia
+ 
+
+ contenuta in un piano perpendicolare all'asse del fulcro e agisca in un punto che simuli l'azione al comando del freno. Per pompe al manubrio, F per quanto possibile, deve essere applicata nella posizione A (Fig. 8) 
+ 
+
+ 
+ 
+
+ 2.8.1.2.2 Prova 
+ 
+
+ 
+ 
+
+ Effettuare 200x10&sup3; cicli alla pressione di bloccaggio riportata sulla scheda tecnica del costruttore ovvero a 70 bar. La velocità di applicazione del carico tramite l'attuatore deve essere di 20 mm/sec con frequenza di 900&divide;1100 cicli/h (fig.9); 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.8.1.3 Risultato di prova. 
+ 
+
+ 
+ 
+
+ La prova è superata se: 
+ 
+
+ 
+ 
+
+ • non si sono verificati cedimenti strutturali della pompa. 
+ 
+
+ 
+ 
+
+ • non si sono verificate perdite di fluido. 
+ 
+
+ 
+ 
+
+ • attivando la pompa fino ad ottenere 150 bar in mandata, è
+ 
+
+ possibile mantenere detta pressione per 10s senza significative variazioni di corsa della leva. 
+ 
+
+ 
+ 
+
+ • smontando completamente la pompa, ogni singolo componente non
+ 
+
+ presenta anomalie 
+ 
+
+ 
+ 
+
+ 2.8.2 Prova con ciclo termico 
+ 
+
+ 
+ 
+
+ 2.8.2.1 Condizioni di prova 
+ 
+
+ Come al punto 2.8.1.1 con l'aggiunta di una cella climatica. 
+ 
+
+ 
+ 
+
+ 2.8.2.3 Programma di prova 
+ 
+
+ 
+ 
+
+ 2.8.2.3.1 Preparazione della prova 
+ 
+
+ Come al punto 2.8.1.2.1 con la pompa inserita nella cella climatica. 
+ 
+
+ 2.8.2.3.2 Prova 
+ 
+
+ 
+ 
+
+ Alla pressione massima di cui al precedente punto 2.8.1.2.2, alla velocità di applicazione del carico tramite l'attuatore di 20 mm/sec e alla frequenza di 900&divide;1100 cicli/h, deve essere eseguito il seguente ciclo (figura 10): 
+ 
+
+ 
+ 
+
+ 7.000 cicli a +30°C 
+ 
+
+ 
+ 
+
+ 5.000 cicli a -20°C 
+ 
+
+ 
+ 
+
+ 5.000 cicli a +30°C 
+ 
+
+ 
+ 
+
+ 7.000 cicli a +80°C 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il ciclo prima descritto deve essere ripetuto tre volte, per un totale di 72.000cicli. Durante i transitori di temperatura la pompa deve essere sollecitata a pressione pulsante. 
+ 
+
+ 
+ 
+
+ 2.8.2.4 Risultato di prova. 
+ 
+
+ 
+ 
+
+ La prova è ritenuta superata se: 
+ 
+
+ 
+ 
+
+ • non si sono verificati cedimenti strutturali della pompa. 
+ 
+
+ 
+ 
+
+ • non si sono verificate perdite di fluido. 
+ 
+
+ 
+ 
+
+ • attivando la pompa fino ad ottenere 150 bar in mandata, è
+ 
+
+ possibile mantenere detta pressione per 10s senza significative variazioni di corsa della leva. 
+ 
+
+ 
+ 
+
+ • smontando completamente la pompa, ogni singolo componente non
+ 
+
+ presenta anomalie 
+ 
+
+ 
+ 
+
+ 2.9 Prova di resistenza della leva pompa freno 
+ 
+
+ 
+ 
+
+ La prova di resistenza leva ha lo scopo di valutare il carico di rottura della leva della pompa idraulica, garantire che la rottura si abbia al di sopra di certi valori di forza e che l'eventuale rottura della leva non avvenga in zone che compromettano il funzionamento della pompa. 
+ 
+
+ 
+ 
+
+ 2.9.1 Condizioni di prova 
+ 
+
+ 
+ 
+
+ Deve essere valutato il carico necessario a produrre la deformazione e rottura della leva. Il carico deve essere applicato come segue: 
+ 
+
+ 
+ 
+
+ • la forza deve giacere su un piano perpendicolare all'asse del
+ 
+
+ fulcro applicata a (30+D) mm dal bordo esterno della sfera della leva lungo l'asse della leva, con verso di applicazione in direzione del manubrio e direzione ortogonale all'asse della leva (l'asse della leva è considerato l'asse passante per il centro della sfera e per il centro del fulcro mentre D è il diametro della sfera) 
+ 
+
+ Per eseguire la prova si può utilizzare, a titolo esemplificativo, la seguente strumentazione: 
+ 
+
+ 
+ 
+
+ • Un trasduttore di posizione. 
+ 
+
+ 
+ 
+
+ • Un attuatore pneumatico. 
+ 
+
+ 
+ 
+
+ • Un simulacro su cui disporre la pompa o la leva. 
+ 
+
+ 
+ 
+
+ • Una cella di carico 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2.9.2 Programma di prova 
+ 
+
+ 
+ 
+
+ 2.9.2.1 Preparazione della prova 
+ 
+
+ 
+ 
+
+ a. La leva deve essere disposta sull'apposito elemento simulante la pompa; in alternativa è possibile utilizzare la pompa completa di leva vincolata su un elemento simulante il manubrio in modo tale da riprodurre il reale utilizzo (in questo caso, la pompa deve essere opportunamente collegata ad un elemento simulante la pinza); 
+ 
+
+ 
+ 
+
+ b. l'attuatore deve essere posizionato in modo da fornire il carico nella direzione desiderata; 
+ 
+
+ 
+ 
+
+ c. Posizionare il trasduttore nel punto e nella direzione d'applicazione del carico ed azzerare lo stesso in corrispondenza della posizione di riposo della leva; 
+ 
+
+ 
+ 
+
+ d. verificare che il cinematismo del trasduttore non influisca sulla posizione di riposo in battuta della leva. 
+ 
+
+ 
+ 
+
+ 2.9.2.2 Prova 
+ 
+
+ 
+ 
+
+ a. Applicare il carico con continuità alla velocità approssimativa di 5 mm/s fino a raggiungere una forza pari a 350 N. 
+ 
+
+ 
+ 
+
+ b. Rilasciare il carico e valutare eventuali deformazioni permanenti della leva tramite l'indicazione del trasduttore di spostamento sulla leva 
+ 
+
+ 
+ 
+
+ c. Se non sono state riscontrate anomalie, applicare nuovamente il carico fino a rottura. 
+ 
+
+ 
+ 
+
+ 2.9.3 Risultato di prova 
+ 
+
+ 
+ 
+
+ La prova è ritenuta superarata se: 
+ 
+
+ 
+ 
+
+ • la deformazione relativa al carco di 350 N è inferiore a 5 mm; 
+ 
+
+ 
+ 
+
+ • il carico di rottura deve essere superiore a 600 N; 
+ 
+
+ 
+ 
+
+ • la rottura non deve interessare assolutamente il corpo pompa nel
+ 
+
+ caso di prova eseguita sulla pompa completa di leva 
+ 
+
+ 
+ 
+
+ 2.10 Verifica tubazione di collegamento 
+ 
+
+ 
+ 
+
+ La tubazione di collegamento deve essere conforme alle prescrizioni recate da FMVSS106 DOT. Tale conformità è comprovata da apposita dichiarazione con allegata la documentazione tecnica di prova. 
+ 
+
+ 
+ 
+
+ 3 Verifica di montaggio e di compatibilità del sistema dischi freno 
+ 
+
+ L'installazione sul veicolo del sistema dischi freno è subordinata alla verifica della compatibilità di impiego sistema-veicolo senza limitazioni e condizioni alla libertà di movimento del veicolo. 
+ 
+
+ In particolare: 
+ 
+
+ 
+ 
+
+ • non vi deve essere alcuna interferenza tra le pinze ed eventuali
+ 
+
+ adattatori con il cerchio ruota e/o i pneumatici, per ciascun tipo ammesso in alternativa e per la massima velocità ammessa per la classe di velocità, in qualsiasi condizione di carico delle sospensioni ammesse dal costruttore del veicolo. Le combinazioni cerchi-pneumatici non verificate sono eliminate dalle misure ammesse per il tipo di veicolo per il quale è richiesta l'omologazione del sistema. Il costruttore indica nella documentazione, di cui all'articolo 7, comma 2, del presente decreto, le combinazioni cerchi-pneumatici verificate; 
+ 
+
+ 
+ 
+
+ • la tubazione di collegamento tra il comando e le pinze non deve
+ 
+
+ entrare in contatto con parti del veicolo in rotazione o soggette a riscaldamento (a titolo indicativo e non esaustivo: il sistema di scarico, il circuito di raffreddamento, il motore) durante il funzionamento del veicolo in qualsiasi condizione di carico della sospensione; 
+ 
+
+ 
+ 
+
+ • la tubazione di collegamento deve risultare opportunamente
+ 
+
+ vincolata al veicolo tramite appositi passacavi e fermagli e non strisciare contro elementi fissi del veicolo nella corsa delle sospensioni e nella completa rotazione del manubrio senza opportuni accorgimenti per prevenirne l'usura; 
+ 
+
+ 
+ 
+
+ • la tipologia e l'orientamento dei raccordi della tubazione di
+ 
+
+ collegamento devono essere tali da garantire che la tubazione, una volta installata, non assuma curvature eccessive e non risulti ritorta. 
+ 
+
+ 
+ 
+
+ • la lunghezza della tubazione di collegamento deve risultare
+ 
+
+ adeguata all'applicazione in modo da garantire la piena escursione della sospensione e del manubrio senza subire tensionamento.
