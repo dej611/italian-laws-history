@@ -1,0 +1,510 @@
+Appendice III 
+ 
+
+ 
+ 
+
+ (articolo 5, comma 1 e art. 22 commi 5 e 7) 
+ 
+
+ 
+ 
+
+ Criteri per l'utilizzo dei metodi di valutazione 
+ 
+
+ diversi dalle misurazioni in siti fissi 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Tecniche di modellizzazione 
+ 
+
+ 
+ 
+
+ 1.1 Introduzione. 
+ 
+
+ In generale, i modelli sono un utile strumento per: 
+ 
+
+ - ottenere campi di concentrazione anche nelle aree all'interno delle zone ove non esistano stazioni di misurazione o estendere la rappresentatività spaziale delle misure stesse; 
+ 
+
+ - comprendere le relazioni tra emissioni e immissioni, discriminare i contributi delle diverse sorgenti alle concentrazioni in una determinata area (source apportionment), e determinare i contributi transfrontalieri e quelli derivanti da fenomeni di trasporto su larga scala (per esempio, le polveri sahariane); 
+ 
+
+ - integrare e combinare le misurazioni effettuate tramite le stazioni di misurazione in siti fissi, in modo tale da ridurne il numero, nel rispetto dei criteri individuati nel presente decreto; 
+ 
+
+ - valutare la qualità dell'aria nelle zone in cui non sono presenti stazioni di misurazione, nel rispetto dei criteri individuati nel presente decreto; 
+ 
+
+ - prevedere la qualità dell'aria sulla base di scenari ipotetici di emissione o in funzione di variazioni delle condizioni meteorologiche; 
+ 
+
+ - valutare l'efficacia delle misure di contenimento delle emissioni in atmosfera. Una corretta applicazione modellistica necessita sempre di una procedura rigorosa di confronto con i dati ottenuti dalle misurazioni. 
+ 
+
+ Tale confronto presuppone che la rete di misura sia strutturata in modo conforme al presente decreto e che sia disponibile una buona conoscenza delle emissioni delle sostanze inquinanti che influenzano la qualità dell'aria, sia in termini quantitativi che di distribuzione spaziale e temporale. 
+ 
+
+ Un utilizzo efficace della modellistica ai fini dell'applicazione del presente decreto richiede che gli operatori siano in possesso di una specifica esperienza. 
+ 
+
+ 
+ 
+
+ 1.2 Selezione del modello 
+ 
+
+ Il risultato della simulazione modellistica è caratterizzato da un certo grado di approssimazione derivante dalle seguenti componenti: 
+ 
+
+ - incertezza nella descrizione della dinamica e della chimica atmosferica, 
+ 
+
+ - qualità dei dati di ingresso, con particolare riferimento alle emissioni e ai parametri meteoclimatici, 
+ 
+
+ - incertezza inerente al modello dovuta alla natura stocastica di fenomeni atmosferici quali, ad esempio, la turbolenza. 
+ 
+
+ Il processo di valutazione della capacità di un modello di descrivere il problema a cui viene applicato e l'analisi dei vantaggi e degli svantaggi del relativo utilizzo è effettuato utilizzando, a seconda delle circostanze, uno o più dei seguenti metodi: 
+ 
+
+ - l'analisi Monte Carlo, ovvero molteplici simulazioni effettuate con variazioni casuali e simultanee nell'insieme delle variabili di input al modello seguite dall'analisi statistica dei risultati; 
+ 
+
+ - l'analisi di sensibilità, ossia lo studio delle variazioni del risultato in funzione di piccole variazioni dell'input; 
+ 
+
+ - la simulazione d'insieme, ovvero la simulazione di uno stesso fenomeno effettuata con diversi modelli, seguita dall'analisi statistica delle concentrazioni simulate e dal confronto dei valori ottenuti (mediana ed altri percentili della distribuzione dei risultati) con i dati ottenuti dalle stazioni di misurazione; 
+ 
+
+ - il confronto fra modelli o fra insiemi di modelli; 
+ 
+
+ - l'analisi statistica, ovvero il confronto dei risultati della simulazione con i dati ottenuti dalle stazioni di misurazione al fine di ricavare una serie di indicatori (indicatori di qualità) che descrivono la capacità del modello di avvicinarsi alle misure. 
+ 
+
+ Gli indicatori di qualità sono molteplici e possono avere natura quantitativa o qualitativa. Ciascuno di tali indicatori svolge un ruolo particolare nella valutazione del modello. 
+ 
+
+ La selezione dell'indicatore più appropriato dipende dallo scopo dell'applicazione modellistica e dalla disponibilità dei dati ottenuti dalle stazioni di misurazione per il confronto. 
+ 
+
+ Nella selezione degli indicatori per le concentrazioni si deve tener conto del fatto che questi sono specifici per ciascun inquinante e per la scala dei fenomeni sia in termini spaziali sia in termini temporali. 
+ 
+
+ Gli indicatori quantitativi basilari sono: 
+ 
+
+ - coefficiente di correlazione R 
+ 
+
+ - fractional bias (FB) 
+ 
+
+ - Root Mean Square Error (RMSE) 
+ 
+
+ - Normalized mean square error (NMSE). 
+ 
+
+ Gli indicatori qualitativi sono soprattutto di tipo grafico: 
+ 
+
+ - diagrammi di dispersione 
+ 
+
+ - grafici quantile-quantile 
+ 
+
+ - grafico dei residui 
+ 
+
+ - diagramma di Taylor. 
+ 
+
+ La valutazione di un modello mediante gli indicatori è necessaria ma non sufficiente a comprendere le ragioni per le quali i risultati delle simulazioni sono vicini o lontani dai dati ottenuti dalle stazioni di misurazione. Per tale motivo la valutazione deve sempre essere accompagnata dallo studio dei processi descritti nel modello. 
+ 
+
+ 1.3 Caratteristiche generali dei modelli. 
+ 
+
+ La scelta del modello o dei modelli da applicare deve essere effettuata in funzione di: 
+ 
+
+ - risoluzione spaziale e temporale della valutazione 
+ 
+
+ - caratteristiche delle sorgenti di emissione 
+ 
+
+ - caratteristiche degli inquinanti da considerare 
+ 
+
+ Il modello deve essere di documentabile qualità scientifica ed esser stato sottoposto ad uno o più tra i metodi di valutazione previsti dal paragrafo 1.2 in condizioni analoghe o confrontabili con i casi in cui si intende applicarlo (in riferimento al tipo di inquinante ed alla risoluzione spaziale e temporale ed al tipo di orografia). 
+ 
+
+ La tabella 1 indica le caratteristiche dei modelli da utilizzare in funzione della scala spaziale della valutazione e del tipo di inquinante. 
+ 
+
+ La tabella 2 indica la scala spaziale e temporale della valutazione da effettuare con il modello in funzione del tipo di inquinante e del periodo di mediazione del valore limite o obiettivo ed in funzione di una serie esemplificativa di tipologie di stazioni e di siti fissi. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ Scala spaziale della valutazione
+ 
+ 
+ Descrizione Locale/hot spot (1-1000 m) Urbana/agglomerato (1-300 Km) Regionale (25- 10.000 Km) 
+ 
+
+ 
+ Tipo di modello Modelli parame- trizzati gaus- siani e non gaussiani Modelli statisti- ci Modelli fluido dinamici con trattazione degli ostacoli Modelli Lagran- giani Modelli parame- trizzati gaussiani e non gaussiani Modelli chimici di trasporto Eule- riano Modelli Lagrangia- ni Modelli chimici di trasporto Euleria- no Modelli chimici Lagrangiani 
+ 
+
+ 
+ Meteorologia Misure meteoro- logiche locali Modelli fluido dinamici con trattazione degli ostacoli Modelli meteoro- logici a mesosca- la Modelli diagno- stici per i campi di vento Modelli meteoro- logici a mesoscala Misure meteorolo- giche localizzate Modelli diagnosti- ci per i campi di vento Modelli meteoro- logici sinottici/ mesoscala 
+ 
+
+ 
+ Chimica Limitata o nes- suna Da nessuna a in- clusa a seconda dei casi Inclusa 
+ 
+
+ 
+ Inquinanti Locale/hot spot Urbana/agglomerato Regionale 
+ 
+
+ 
+ PM10 No processi chimici Deposizioni Formazione di particolato secon- dario inorganico Deposizioni Formazione di particolato secon- dario inorganico ed organico Polveri sospese Sale marino 
+ 
+
+ 
+ PM2,5 No processi chimici Deposizioni Formazione di particolato secon- dario inorganico Deposizioni Formazione di particolato secon- dario inorganico ed organico 
+ 
+
+ 
+ NO2 Chimica foto- ossidazione di base Relazioni statistiche/ empiriche Chimica foto- ossidazione limitata Schemi foto- stazionari Relazioni statistiche/ empiriche Deposizioni Chimica foto- ossidazione completa 
+ 
+
+ 
+ NOx No processi chimici No processi chimici Chimica foto- ossidazione completa 
+ 
+
+ 
+ O3 Come per NO2 Come per NO2 Come per NO2 
+ 
+
+ 
+ SO2 No processi chimici Deposizioni Formazione di particolato secondario inorganico Deposizioni Formazione di particolato secon- dario inorganico Chimica foto- ossidazione completa 
+ 
+
+ 
+ Pb No processi chimici Deposizioni No processi chimici Deposizioni Schemi chimici specialistici 
+ 
+
+ 
+ Benzene No processi chimici Deposizioni Chimica foto- ossidazione completa 
+ 
+
+ 
+ CO No processi chimici No processi chimici Chimica foto- ossidazione completa 
+ 
+
+ 
+ Metalli pesanti No processi chimici Deposizioni Schemi chimici dedicati Deposizioni Schemi chimici dedicati 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 2 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Inquinante |Scala spaziale e temporale della valutazione modellistica
+ 
+
+ 
+ | in funzione del tipo di inquinante considerato, del
+ 
+
+ 
+ |periodo di mediazione del valore e del tipo di stazione e
+ 
+
+ 
+ | di tipo di sito fisso
+ 
+
+ 
+ |---------------------------------------------------------
+ 
+
+ 
+ | Periodo di |Tipo di stazione|Risoluzione|Risoluzione
+ 
+
+ 
+ | mediazione |e di sito fisso |temporale |spaziale del
+ 
+
+ 
+ | | |del modello|modello
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ PM10 |Media annua |Traffico |oraria |< 1 km
+ 
+
+ 
+ |Media |Fondo urbano | |1-5 Km
+ 
+
+ 
+ |giornaliera |Fondo regionale | |10-50 km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ PM2,5 |Media annua |Fondo urbano |oraria |1-5 Km
+ 
+
+ 
+ | |Fondo regionale | |10-50 Km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Speciazione|- |Rurale |Oraria -|10-50 Km
+ 
+
+ 
+ PM | | |Giornaliera|
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ NO2 |Media oraria|Traffico |oraria |< 1 km
+ 
+
+ 
+ |Media annua |Fondo urbano | |1-5 Km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ NOx |Media | |oraria |
+ 
+
+ 
+ |annuale | | |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ O3 |Media 8 ore |Suburbano |oraria |10-50 Km
+ 
+
+ 
+ | |Rurale | |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ SO2 |Media oraria|Tutti |oraria |Tutti
+ 
+
+ 
+ |Media | | |
+ 
+
+ 
+ |giornaliera | | |
+ 
+
+ 
+ |Media annua | | |
+ 
+
+ 
+ |Media | | |
+ 
+
+ 
+ |invernale | | |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Pb |Media annua |Traffico |Annuale |< 1 km
+ 
+
+ 
+ | |Fondo urbano | |1-5 Km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Benzene |Media annua |Traffico |Annuale |< 1 km
+ 
+
+ 
+ | |Fondo urbano | |1-5 Km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ CO |Media 8 ore |Traffico |Oraria |< 1 km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Metalli |Media annua |Traffico |Annuale |< 1 km
+ 
+
+ 
+ | |Fondo urbano | |1-5 Km
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1.4 Misura dell'incertezza delle tecniche di modellizzazione 
+ 
+
+ Gli obiettivi di qualità per i modelli sono descritti all'allegato I del presente decreto e l'incertezza ivi prevista è calcolata come di seguito illustrato. 
+ 
+
+ Per ciascun punto in relazione al quale si confrontino dati ottenuti dalle stazioni di misurazione con quelli ottenuti dalle simulazioni, si definisce l'errore relativo (ER) come 
+ 
+
+ 
+ 
+
+ 
+ (Ovl - Mvl ) 
+ 
+
+ 
+ ER = -----------, 
+ 
+
+ 
+ VL 
+ 
+
+ 
+ 
+
+ dove Ovl è la concentrazione misurata più vicina al valore limite
+ 
+
+ (o al valore obiettivo) e Mvl è la corrispondente concentrazione
+ 
+
+ fornita dal modello nella distribuzione quantile-quantile (distribuzione in cui valore misurato e valore simulato sono abbinati ordinando tutte le concentrazioni misurate e simulate in ordine crescente). 
+ 
+
+ Il massimo valore di ER trovato utilizzando il 90% delle stazioni di misurazione presenti nel dominio di calcolo del modello è il Massimo Errore Relativo (MER) e corrisponde all'incertezza della tecnica di modellizzazione definita al paragrafo 1, punto 6, dell'allegato I. 
+ 
+
+ La possibilità di escludere, per il calcolo dell'incertezza, il 10% delle stazioni di misurazione presenti nel dominio di calcolo del modello deve essere valutata in funzione del numero complessivo di tali stazioni e della loro rappresentatività spaziale. 
+ 
+
+ Se il dominio di calcolo del modello comprende un numero di stazioni di misurazione inferiore a 10, nessuna di queste può essere esclusa dal calcolo dell'incertezza. I migliori risultati di confronto tra le concentrazioni simulate e quelle misurate si ottengono quando le stazioni di misurazione sono rappresentative di una porzione di territorio all'incirca pari alla risoluzione del modello. Ad esempio, un modello con risoluzione 5x5 km non è in grado di fornire risultati adeguati a scale inferiori. Ne consegue che la stazione di misurazione con cui confrontare le concentrazioni simulate deve essere rappresentativa di una porzione di territorio di almeno 25 km2
+ 
+
+ . 
+ 
+
+ Per determinare l'incertezza del modello è, pertanto, necessario operare, per quanto possibile, il confronto delle concentrazioni simulate con i dati ottenuti da un set di stazioni di misurazione aventi rappresentatività spaziale congruente con la risoluzione spaziale del modello. 
+ 
+
+ Dato che la rappresentatività spaziale dei modelli è nota (risoluzione spaziale del modello), è opportuno che anche l'area di rappresentatività delle stazioni sia individuata. Per tale motivo, è opportuno che, nell'individuare ciascuna stazione, le denominazioni "traffico", "industriale", "fondo urbano" siano accompagnate da una valutazione quantitativa in termini di superficie rappresentata.
