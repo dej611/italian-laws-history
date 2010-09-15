@@ -244,11 +244,6 @@ IL MINISTRO DELL'AMBIENTE
  
 
  
- 
- ((
- 
-
- 
  2. I sindaci dei comuni appartenenti agli agglomerati ed alle zone di cui agli articoli 7 e 8 del decreto legislativo n. 351/99, in cui sussiste il superamento ovvero il rischio di superamento dei valori limite o delle soglie di allarme previste dalla vigente normativa, adottano, sulla base dei piani e dei programmi di cui ai medesimi articoli, le misure di limitazione della circolazione di cui all'articolo 7, comma 1, lettere a) e b), del decreto legislativo 30 aprile 1992, n. 285, fermi restando i poteri attribuiti al Sindaco da altre disposizioni del decreto legislativo n. 285/92 ed i poteri previsti dell'articolo 32, comma 3, della legge 23 dicembre 1978, n. 833, e dall'articolo 54, comma 2, della legge 18 agosto 2000, n. 267.
  
 
@@ -257,7 +252,25 @@ IL MINISTRO DELL'AMBIENTE
  
 
  
- 3. In relazione alle emissioni di idrocarburi policiclici aromatici, con particolare riferimento al benzo(a)pirene, i sindaci dei comuni individuati all'allegato III del decreto del Ministro dell'ambiente 25 novembre 1994 e dei comuni, con popolazione inferiore, per i quali la situazione meteoclimatica e l'entità delle emissioni facciano prevedere possibili superamenti dell'obiettivo di qualità individuato nel predetto decreto, nonchè i sindaci degli altri comuni individuati dalle regioni nei piani di risanamento e tutela della qualità dell'aria di cui all'articolo 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, o nei relativi stralci, adottano le misure di cui al comma 2 sulla base dei piani di risanamento e tutela della qualità dell'aria di cui all'articolo 4 del decreto del Presidente della Repubblica n. 203/88.
+ 
+ ((
+ 
+
+ 
+ 3. Nelle aree urbane elencate nel decreto del Ministro dell'ambiente 25 novembre 1994 il comma 2 si applica anche in riferimento all'obiettivo di qualità ivi previsto per il benzo(a)pirene.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 4. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2007, N. 152))
+
+ .
  
 
  
@@ -265,18 +278,10 @@ IL MINISTRO DELL'AMBIENTE
  
 
  
- 4. Ai fini dell'applicazione del comma 3, il riferimento ai piani e ai programmi di cui agli articoli 7 e 8 dei decreto legislativo n. 351/99, contenuto nel comma 2, si intende effettuato ai piani di risanamento e tutela della qualità dell'aria di cui all'articolo 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203.
- 
+ 5. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2007, N. 152))
 
- Il riferimento ai valori limite previsti dalla vigente normativa si intende effettuato all'obiettivo di qualità vigente per il benzo(a)pirene.
- 
-
- 
- 
- 
-
- 
- 5. Le disposizioni di cui al comma 3 si applicano fino all'entrata in vigore del decreto previsto dall'articolo 4, comma 1, del decreto legislativo n. 351/99, relativo agli inquinanti di cui al punto 9, IIo parte, dell'allegato I al medesimo decreto legislativo.
+ .
  
 
  
@@ -285,7 +290,3 @@ IL MINISTRO DELL'AMBIENTE
 
  
  6. Quale misura preventiva, i comuni di cui al comma 2 possono vietare la circolazione nei centri abitati per tutti gli autoveicoli che non abbiano effettuato il controllo almeno annuale delle emissioni secondo la procedure previste dal decreto del Ministro dei trasporti e della navigazione 5 febbraio 1996.
- 
-
- 
- ))
