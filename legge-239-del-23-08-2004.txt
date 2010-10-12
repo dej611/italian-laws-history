@@ -27,10 +27,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  Costituzione, quelli posti dalla presente legge. Sono, altresì, determinate disposizioni per il settore energetico che 
  
 
- contribuiscono a garantire la tutela della concorrenza, la tutela dei livelli essenziali delle prestazioni concernenti i diritti 
- 
-
- civili e sociali, la tutela dell'incolumità e della sicurezza 
+ contribuiscono a garantire la tutela della concorrenza, la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, la tutela dell'incolumità e della sicurezza 
  
 
  pubblica fatta salva la disciplina in materia di rischi da 
@@ -117,7 +114,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  f) promuovere la valorizzazione delle importazioni per le finalità di sicurezza nazionale e di sviluppo della competitività del sistema economico del Paese; 
 
- g) valorizzare le risorse nazionali di idrocarburi, favorendone la prospezione e l'utilizzo con modalità compatibili con l'ambiente; 
+ 
+ g) valorizzare le risorse nazionali di idrocarburi, favorendone la prospezione e l'utilizzo con modalità compatibili con l'ambiente;
+ 
+
+ 
+ 
 
  h) accrescere l'efficienza negli usi finali dell'energia; 
 
@@ -347,10 +349,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  amministrazioni centrali interessate, per la valutazione congiunta 
  
 
- dei diversi provvedimenti, anche di natura ambientale e fiscale, in materia di oli minerali, in grado di produrre significativi 
- 
-
- riflessi sulle scelte di politica energetica nazionale, nonchè 
+ dei diversi provvedimenti, anche di natura ambientale e fiscale, in materia di oli minerali, in grado di produrre significativi riflessi sulle scelte di politica energetica nazionale, nonchè 
  
 
  per la definizione di iter semplificati per la realizzazione degli 
@@ -421,10 +420,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 12. L'Autorità per l'energia elettrica e il gas presenta al Parlamento e al Presidente del Consiglio dei ministri la relazione sullo stato dei servizi e sull'attività svolta, ai sensi dell'articolo 2, comma 12, lettera i), della legge 14 novembre 1995, n. 481, entro il 30 giugno di ciascun anno. Nella relazione l'Autorità illustra anche le iniziative assunte nel quadro delle esigenze di sviluppo dei servizi di pubblica utilità e in conformità agli indirizzi di politica generale del settore di cui al comma 11.
- (( L'Autorità per l'energia elettrica e il gas riferisce, anche in relazione alle lettere c) ed i) del comma 3, entro il 30 gennaio di ogni anno alle Commissioni parlamentari competenti sullo stato del mercato dell'energia elettrica e del gas naturale e sullo stato di utilizzo ed integrazione degli impianti alimentati da fonti rinnovabili ))
-
- . 
+ 12. L'Autorità per l'energia elettrica e il gas presenta al Parlamento e al Presidente del Consiglio dei ministri la relazione sullo stato dei servizi e sull'attività svolta, ai sensi dell'articolo 2, comma 12, lettera i), della legge 14 novembre 1995, n. 481, entro il 30 giugno di ciascun anno. Nella relazione l'Autorità illustra anche le iniziative assunte nel quadro delle esigenze di sviluppo dei servizi di pubblica utilità e in conformità agli indirizzi di politica generale del settore di cui al comma 11. L'Autorità per l'energia elettrica e il gas riferisce, anche in relazione alle lettere c) ed i) del comma 3, entro il 30 gennaio di ogni anno alle Commissioni parlamentari competenti sullo stato del mercato dell'energia elettrica e del gas naturale e sullo stato di utilizzo ed integrazione degli impianti alimentati da fonti rinnovabili . 
  
 
  
@@ -1077,7 +1073,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 71. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 
+ 71. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296. 
  
 
  
@@ -1125,11 +1121,6 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 
- ((
- 
-
- 
  77. Il permesso di ricerca di idrocarburi liquidi e gassosi in terraferma, di cui all'articolo 6 della legge 9 gennaio 1991, n. 9, e successive modificazioni, è rilasciato a seguito di un procedimento unico al quale partecipano le amministrazioni statali e regionali interessate, svolto nel rispetto dei principi di semplificazione e con le modalità di cui alla legge 7 agosto 1990, n. 241. Esso consente lo svolgimento di attività di prospezione consistente in rilievi geologici, geofisici e geochimici, eseguiti con qualunque metodo o mezzo, e ogni altra operazione volta al rinvenimento di giacimenti, escluse le perforazioni dei pozzi esplorativi. Del rilascio del permesso di ricerca è data comunicazione ai comuni interessati. 
  
 
@@ -1162,7 +1153,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 81. Nel caso in cui l'attività di prospezione di cui al comma 79 non debba essere effettuata all'interno di aree marine a qualsiasi titolo protette per scopi di tutela ambientale, di ripopolamento, di tutela biologica o di tutela archeologica, in virtù di leggi nazionali o in attuazione di atti e convenzioni internazionali, essa è sottoposta a verifica di assoggettabilità alla valutazione di impatto ambientale, di cui all'articolo 20 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni. 
+ 81. 
+ ((COMMA ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D.LGS. 29 GIUGNO 2010, N. 128))
+
+ . 
  
 
  
@@ -1210,9 +1204,11 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 82-sexies. Le attività finalizzate a migliorare le prestazioni degli impianti di coltivazione di idrocarburi, compresa la perforazione, se effettuate a partire da opere esistenti e nell'ambito dei limiti di produzione ed emissione dei programmi di lavoro già approvati, sono soggette ad autorizzazione rilasciata dall'Ufficio nazionale minerario per gli idrocarburi e la geotermia ))
+ 82-sexies. Le attività finalizzate a migliorare le prestazioni degli impianti di coltivazione di idrocarburi, compresa la perforazione, se effettuate a partire da opere esistenti e nell'ambito dei limiti di produzione ed emissione dei programmi di lavoro già approvati, sono soggette ad autorizzazione rilasciata dall'Ufficio nazionale minerario per gli idrocarburi e la geotermia. 
  
 
+ 
+ 
  
 
  
@@ -1682,18 +1678,19 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
  
 
- 
-
- 
-
- 
-
- 
  ---------------
-
- AGGIORNAMENTO (2)
+ 
 
  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ AGGIORNAMENTO (2) 
  
 
  La Corte costituzionale, con sentenza 11-14 ottobre 2005, n. 383 (in G.U. 1a s.s. 19/10/2005, n. 42) ha dichiarato: 
