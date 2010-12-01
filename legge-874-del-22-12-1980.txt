@@ -76,7 +76,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- alla lettera c), dopo le parole: "in favore", sono aggiunte le seguenti: "dei conviventi superstiti", e le parole: "capofamiglia oppure" sono soppresse;
+ alla lettera e), dopo le parole: "in favore", sono aggiunte le seguenti: "dei conviventi superstiti", e le parole: "capofamiglia oppure" sono soppresse;
 
  
 
@@ -136,7 +136,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- le lettere c) e d) sono sostituite dalle seguenti:
+ le lettere e) e d) sono sostituite dalle seguenti:
 
  
 
@@ -266,7 +266,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- "Con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, di grazia e giustizia e del tesoro, da emanarsi, sentite le regioni interessate, entro e non oltre il 31 dicembre 1980, saranno individuati i comuni delle regioni Basilicata e Campania disastrati, gravemente danneggiati, o danneggiati dagli eventi sismici del novembre 1980. Lo stesso decreto del Presidente del Consiglio indicherà i comuni danneggiati compresi nella regione Puglia.
+ "Con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, di grazia e giustizia e del tesoro, da emanarsi, sentite le regioni:
+
+ 
+
+ 
+ interessate, entro e non oltre il 31 dicembre 1980, saranno individuati i comuni delle regioni Basilicata e Campania disastrati, gravemente danneggiati, o danneggiati dagli eventi sismici del novembre 1980. Lo stesso decreto del Presidente del Consiglio indicherà i comuni danneggiati compresi nella regione Puglia.
 
  
 
@@ -432,7 +437,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  Quando i titolari di azienda non siano iscritti nelle gestioni anzidette, la sovvenzione è corrisposta ad un componente della famiglia che risulti assicurato, previa esibizione di delega in carta semplice rilasciata dal titolare dell'azienda, con firma autenticata. 
  
 
- L'erogazione ha luogo su domanda dell'interessato da presentarsi alla sede provinciale dell'istituto nazionale della previdenza sociale entro centottanta giorni dalla data di entrata in vigore del presente decreto. 
+ L'erogazione ha luogo su domanda dell'interessato da 
+ 
+
+ presentarsi alla sede provinciale dell'istituto nazionale della previdenza sociale entro centottanta giorni dalla data di entrata in vigore del presente decreto. 
  
 
  Alla domanda deve essere allegato un certificato dell'autorità comunale comprovante che l'interessato sia stato gravemente danneggiato nella propria attività lavorativa per effetto degli eventi sismici"; 
@@ -492,10 +500,13 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  dopo il decimo, è aggiunto il seguente comma: 
  
 
- "Per i lavoratori iscritti a forme obbligatorie di previdenza sostitutive dell'assicurazione generale obbligatoria per l'invalidità, la vecchiaia ed i superstiti, il riconoscimento dei periodi per i quali è corrisposto il trattamento di cui al primo comma è effettuato nelle gestioni di iscrizione, alle quali i relativi oneri saranno rimborsati direttamente da parte dello Stato"; 
+ "Per i lavoratori iscritti a forme obbligatorie di previdenza sostitutive dell'assicurazione generale obbligatoria per l'invalidità, la vecchiaia ed i superstiti, il riconoscimento dei periodi per i quali è corrisposto il trattamento di cui al primo 
  
 
- dopo l'ultimo, è aggiunto il seguente comma: 
+ comma è effettuato nelle gestioni di iscrizione, alle quali i 
+ 
+
+ relativi oneri saranno rimborsati direttamente da parte dello Stato"; dopo l'ultimo, è aggiunto il seguente comma: 
  
 
  "Le integrazioni salariali e gli assegni familiari connessi di cui al presente articolo sono anticipati dalla Cassa integrazione guadagni degli operai dell'industria - separata contabilità per gli interventi straordinari di cui alla legge 5 novembre 1968, n. 1115, e successive modificazioni ed integrazioni - e dalla cassa unica per gli assegni familiari e rimborsati annualmente dallo Stato sulla base delle risultanze di gestione"; 
@@ -636,7 +647,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  1094, sono estese le disposizioni di quest'ultima legge. 
  
 
- Art. 14-decies. - I cittadini soggetti agli obblighi di leva per gli anni dal 1980 al 1982 residenti alla data del 23 novembre 1980 nei comuni indicati nel decreto del Presidente del Consiglio previsto all'articolo 4, quinto comma, del presente decreto, le cui famiglie abbiano subito danni che hanno gravemente inciso sulle loro condizioni economiche, possono, a domanda, essere esentati dal servizio militare di leva. 
+ 
+ ((...))
+
+ 
  
 
  Art. 14-undecies. - Il Ministro dei lavori pubblici, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, provvede con proprio decreto alla riclassificazione sismica dei comuni delle regioni colpite dal terremoto del novembre 1980, sentito il Consiglio superiore dei lavori pubblici e il Consiglio nazionale delle ricerche. 
