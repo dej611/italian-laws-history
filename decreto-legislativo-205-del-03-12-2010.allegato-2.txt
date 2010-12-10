@@ -1,0 +1,106 @@
+ALLEGATO C 
+ 
+
+ 
+ 
+
+ Operazioni di recupero 
+ 
+
+ 
+ 
+
+ R1 Utilizzazione principalmente come combustibile o come altro mezzo per produrre energia4 
+ 
+
+ R2 Rigenerazione/recupero di solventi 
+ 
+
+ R3 Riciclaggio/recupero delle sostanze organiche non utilizzate come solventi (comprese le operazioni di compostaggio e altre trasformazioni biologiche)5 
+ 
+
+ R4 Riciclaggio /recupero dei metalli e dei composti metallici 
+ 
+
+ R5 Riciclaggio/recupero di altre sostanze inorganiche6 
+ 
+
+ R6 Rigenerazione degli acidi o delle basi 
+ 
+
+ R7 Recupero dei prodotti che servono a ridurre l'inquinamento 
+ 
+
+ R8 Recupero dei prodotti provenienti dai catalizzatori 
+ 
+
+ R9 Rigenerazione o altri reimpieghi degli oli 
+ 
+
+ R10 Trattamento in ambiente terrestre a beneficio dell'agricoltura o dell'ecologia 
+ 
+
+ R11 Utilizzazione di rifiuti ottenuti da una delle operazioni indicate da R1 a R10 
+ 
+
+ R12 Scambio di rifiuti per sottoporli a una delle operazioni indicate da R1 a R117 
+ 
+
+ R13 Messa in riserva di rifiuti per sottoporli a una delle operazioni indicate nei punti da R1 a R12 (escluso il deposito temporaneo, prima della raccolta, nel luogo in cui sono prodotti)8 
+ 
+
+ 
+ 
+
+ ----- 
+ 
+
+ 4 Gli impianti di incenerimento dei rifiuti solidi urbani sono
+ 
+
+ compresi solo se la loro efficienza energetica è uguale o superiore a: 
+ 
+
+ - 0,60 per gli impianti funzionanti e autorizzati in conformità della normativa comunitaria applicabile anteriormente al 1° gennaio 2009, 
+ 
+
+ - 0,65 per gli impianti autorizzati dopo il 31 dicembre 2008, calcolata con la seguente formula: 
+ 
+
+ Efficienza energetica = [Ep - (Ef + Ei)]/[0,97 &times; (Ew + Ef)] dove: 
+ 
+
+ Ep = energia annua prodotta sotto forma di energia termica o elettrica. è calcolata moltiplicando l'energia sotto forma di elettricità per 2,6 e l'energia termica prodotta per uso commerciale per 1,1 (GJ/anno) 
+ 
+
+ Ef = alimentazione annua di energia nel sistema con combustibili che contribuiscono alla produzione di vapore (GJ/anno) 
+ 
+
+ Ew = energia annua contenuta nei rifiuti trattati calcolata in base al potere calorifico inferiore dei rifiuti (GJ/anno) 
+ 
+
+ Ei = energia annua importata, escluse Ew ed Ef (GJ/anno) 
+ 
+
+ 0,97 = fattore corrispondente alle perdite di energia dovute alle ceneri pesanti (scorie) e alle radiazioni. 
+ 
+
+ La formula si applica conformemente al documento di riferimento sulle migliori tecniche disponibili per l'incenerimento dei rifiuti. 
+ 
+
+ 5 Sono comprese la gassificazione e la pirolisi che utilizzano i
+ 
+
+ componenti come sostanze chimiche. 
+ 
+
+ 6 è compresa la pulizia risultante in un recupero del suolo e il
+ 
+
+ riciclaggio dei materiali da costruzione inorganici. 
+ 
+
+ 7 In mancanza di un altro codice R appropriato, può comprendere le
+ 
+
+ operazioni preliminari precedenti al recupero, incluso il pretrattamento come, tra l'altro, la cernita, la frammentazione, la compattazione, la pellettizzazione, l'essiccazione, la triturazione, il condizionamento, il ricondizionamento, la separazione, il raggruppamento prima di una delle operazioni indicate da R 1 a R 11.
