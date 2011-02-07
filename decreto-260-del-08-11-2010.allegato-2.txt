@@ -1,0 +1,2350 @@
+ALLEGATO 2 
+ 
+
+ 
+ 
+
+ Con il presente allegato è avviata la procedura finalizzata a garantire la validazione dell'allegato 1 nonchè a garantire la messa a punto di ulteriori metodiche non disponibili. 
+ 
+
+ 
+ 
+
+ A. Dati di monitoraggio dei corsi d'acqua 
+ 
+
+ 
+ 
+
+ A.1 Informazioni statiche 
+ 
+
+ 
+ 
+
+ Dati rilevati indipendentemente dalla raccolta del campione biologico (informazioni da aggiornare almeno una volta nell'arco temporale coperto da un Piano di Gestione) 
+ 
+
+ 
+ 
+
+ A.1.1 Informazioni sul corpo idrico 
+ 
+
+ 
+ 
+
+ * Corpo idrico (denominazione e codice) 
+ 
+
+ * Presenza di elementi artificiali nel corpo idrico (sì, no)(1) 
+ 
+
+ * Valutazione indicativa dello scostamento dalla naturalità del regime idrico (elevata, 
+ 
+
+ media, nulla)(1) 
+ 
+
+ * Valutazione indicativa dello scostamento dalla naturalità delle caratteristiche idrauliche 
+ 
+
+ locali(1) 
+ 
+
+ * Valutazione indicativa del grado di sfruttamento delle risorse idriche (elevato, medio, 
+ 
+
+ nullo)(1) 
+ 
+
+ * Valutazione indicativa dello scostamento dalla naturalità del regime termico nel corpo 
+ 
+
+ idrico (elevata, media, nulla)(1) 
+ 
+
+ * Classificazione dello stato di qualità fisico-chimica- (valore indice LIMeco) 
+ 
+
+ * Valutazione indicativa di qualità generale derivata sulla base di tutte le principali 
+ 
+
+ pressioni agenti sul corpo idrico (in 5 classi)(1) 
+ 
+
+ * Sono presenti inquinanti sintetici specifici (e.g. pesticidi)? (No/In tracce/Si)(1) 
+ 
+
+ * Sono presenti inquinanti specifici non sintetici (e.g. metalli)? (No/In tracce/Si)(1) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) se disponibili 
+ 
+
+ 
+ 
+
+ A.1.2 Informazioni sul sito 
+ 
+
+ 
+ 
+
+ * Località del sito di monitoraggio 
+ 
+
+ * Codice univoco del sito nel sistema informativo regionale 
+ 
+
+ * Altitudine del sito (m) 
+ 
+
+ * Estensione del bacino sotteso (km2) 
+ 
+
+ * Presenza di sezioni strumentate per la misura di portata 
+ 
+
+ 
+ 
+
+ A.1.3 Uso del territorio 
+ 
+
+ 
+ 
+
+ * Presenza di allevamenti nel bacino sotteso? (Assente / Sporadico / Significativo) 
+ 
+
+ * Indicare, per i siti in cui vengono valutati gli elementi biologici Macroinvertebrati, Diatomee e Macrofite, l'uso del territorio secondo le classi di uso del CORINE LANDCOVER di seguito riportate: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ Uso del territorio 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % di agricoltura intensiva nel bacino sotteso 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Vigneti, frutteti nel bacino sotteso 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Campi irrigati nel bacino sotteso 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Silvicoltura nel bacino sotteso 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Uso artificiale nel bacino sotteso 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Uso naturale nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Uso agricolo non intensivo nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Agricoltura intensiva oltre la sommità di sponda nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Agricoltura intensiva sulla sponda nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Aree artificiali oltre la sommità di sponda nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+
+ 
+ % Aree artificiali sulla sponda nel tratto (1) 
+ 
+
+ 
+ 
+ 
+
+ 
+ -----------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ - Campo note 
+ 
+
+ Note alla tabella 
+ 
+
+ (1)obbligatorio per i tratti relativi ai siti della rete nucleo, facoltativo per gli altri; si intende per tratto l'unità di indagine considerata nella valutazione degli habitat. 
+ 
+
+ 
+ 
+
+ A.2. Informazioni dinamiche 
+ 
+
+ 
+ 
+
+ A.2.1. Informazioni associate al campione biologico 
+ 
+
+ 
+ 
+
+ Per ogni campione specificare le seguenti informazioni 
+ 
+
+ * Data (gg/mm/aaaa) e ora (hh:mm) del campionamento, del prelievo, della misura o dell'osservazione 
+ 
+
+ * Codice univoco del sito al quale si riferisce il dato 
+ 
+
+ * Codice della campagna di campionamento(1) 
+ 
+
+ * Codice del campione(1) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1)se disponibile 
+ 
+
+ 
+ 
+
+ Solo per i macroinvertebrati: 
+ 
+
+ * Area campionata (pozza, raschio, generico, come previsto dalla scheda di campo) 
+ 
+
+ * Numero di unità di campionamento raccolte 
+ 
+
+ * Superficie totale campionata (m2) 
+ 
+
+ * Strumento di prelievo (ad esempio surber, retino immanicato, substrati artificiali) 
+ 
+
+ 
+ 
+
+ Solo per le diatomee: 
+ 
+
+ * Tipologia di substrato campionato (ciottoli, massi, macrofite sommerse e/o emergenti, substrati artificiali in situ) 
+ 
+
+ * Indicazione della torbidità/non torbidità dell'acqua 
+ 
+
+ 
+ 
+
+ Solo per le macrofite: 
+ 
+
+ * Area campionata (transetto in m) 
+ 
+
+ * Indicazione della torbidità/non torbidità dell'acqua 
+ 
+
+ 
+ 
+
+ Solo per la fauna ittica: 
+ 
+
+ * Strumentazione utilizzata nel campionamento 
+ 
+
+ * Tipologia generale del tratto in esame (zonazione ittica) 
+ 
+
+ 
+ 
+
+ A.2.2. Dati relativi all'analisi del campione 
+ 
+
+ 
+ 
+
+ A.2.2.1. Macrofite 
+ 
+
+ 
+ 
+
+ * Copertura complessiva in percentuale delle macrofite presenti rispetto all'estensione del tratto 
+ 
+
+ * Copertura complessiva in percentuale della componente algale rispetto all'estensione del tratto 
+ 
+
+ * Rilievo floristico della comunità macrofitica presente con determinazione al livello richiesto dal metodo di valutazione della qualità ecologica per tutti i taxa presenti. 
+ 
+
+ * Copertura relativa rispetto al totale della copertura dell'intera comunità macrofitica (in percentuale). 
+ 
+
+ 
+ 
+
+ A.2.2.2. Diatomee 
+ 
+
+ 
+ 
+
+ * Lista delle specie ritrovate, identificate tramite: 
+ 
+
+ - Codice(1) identificativo per ogni specie secondo la vecchia nomenclatura Es. ABIA 
+ 
+
+ - Vecchia Nomenclatura: Utilizzare questa lista se le diatomee sono state identificate con la vecchia nomenclatura Es. Achnanthes biasolettiana Grunow 
+ 
+
+ - Codice(1) identificativo per ogni specie secondo la nuova nomenclatura Es. ADBI 
+ 
+
+ - Nuova Nomenclatura: Utilizzare questa lista se le diatomee sono state identificate con la nuova nomenclatura Es. Achnanthidium biasolettianum (Grunow) Lange-Bertalot 
+ 
+
+ * Abbondanze di ogni specie ritrovata 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) Codici presentati nel Rapporto Istisan 09/19 "Metodo per la valutazione dello stato ecologico delle acque correnti: comunità diatomiche". Sono elencate 430 specie diatomiche; qualora ne fossero state ritrovate altre aggiungerle dopo la voce "altre specie". 
+ 
+
+ 
+ 
+
+ A.2.2.3. Macroinvertebrati 
+ 
+
+ 
+ 
+
+ * Lista tassonomica dei taxa rinvenuti: 
+ 
+
+ - a livello di famiglia per il monitoraggio Operativo(1) 
+ 
+
+ - a livello di Famiglia/Genere, Unità Operazionale(2) per il monitoraggio di Sorveglianza e di Indagine 
+ 
+
+ * Numero di individui raccolti per ciascun taxon 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) il livello di identificazione dovrà essere Famiglia/Genere e Unità Operazionale per i fiumi nei quali viene utilizzata la tecnica di raccolta tramite substrati artificiali, secondo quanto specificato dal metodo di valutazione della qualità ecologica, di cui al paragrafo 4.1.1 sezione Macroinvertebrati dell'Allegato 1 del D. Lgs.
+ 
+
+ 152/06. 
+ 
+
+ (2) fare riferimento ai quaderni e notiziari IRSA-CNR 
+ 
+
+ 
+ 
+
+ A.2.2.4. Fauna ittica 
+ 
+
+ 
+ 
+
+ Per ogni passaggio con l'elettrostorditore rilevare i seguenti elementi: 
+ 
+
+ * Elenco delle specie indigene, comprese le parautoctone (ai sensi delle linee guida dell'INFS), e numero di individui 
+ 
+
+ * Elenco delle specie aliene, comprese le transfaunanti, e numero di individui. 
+ 
+
+ 
+ 
+
+ Sull'intero campione rilevare: 
+ 
+
+ * lunghezza e peso di ciascun individuo 
+ 
+
+ * eventuale presenza di ibridi nei generi Salmo, Thymallus, Esox, Barbus e Rutilus mediante analisi del fenotipo (produrre documentazione fotografica) 
+ 
+
+ * eventuali prove di naturalizzazione delle specie aliene (capacità di riprodursi e autosostenersi nel tempo nel corso d'acqua). 
+ 
+
+ 
+ 
+
+ Su un subcampione rappresentativo per ogni specie (10-20 esemplari a seconda dei casi) rilevare: 
+ 
+
+ * fenotipo (produrre documentazione fotografica) ed eventuali malformazioni 
+ 
+
+ * età (mediante analisi delle scaglie)(1) 
+ 
+
+ * sesso(1) 
+ 
+
+ * peso e stadio di maturazione delle gonadi(1) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) informazioni facoltative 
+ 
+
+ 
+ 
+
+ A.2.3. Dati rilevati in coincidenza con la raccolta del campione biologico 
+ 
+
+ 
+ 
+
+ I seguenti dati verranno resi disponibili in concomitanza con i dati biologici a cui si riferiscono. 
+ 
+
+ 
+ 
+
+ A.2.3.1 Parametri fisico-chimici 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Per ciascuno dei seguenti parametri specificare se si tratta di dati puntiformi, percentili o di medie annuali o stagionali. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Dati facoltativi 
+ 
+
+ 
+ 
+
+ Per ciascuno dei seguenti parametri a supporto delle diverse componenti biologiche specificare se si tratta di dati puntiformi, percentili o di medie annuali o stagionali. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di Misura Macrofite Diatomee Macroin- vertebrati Fauna ittica 
+ 
+
+ 
+ Cloruri mg/ L X X 
+ 
+
+ 
+ Azoto totale mg/ L X X 
+ 
+
+ 
+ Escherichia Coli UFC/100 mL X 
+ 
+
+ 
+ Solidi sospesi g/ L X X X X 
+ 
+
+ 
+ Ca2+ mg/ L X X 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.2.3.2 Parametri idrologici 
+ 
+
+ 
+ 
+
+ Per il seguente parametro specificare se si è proceduto al rilievo morfometrico del tratto esaminato 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro di misura Unità Diretta (sezione, velocità) Indiretta (idrometria) Indiretta regionaliz- zazione altro 
+ 
+
+ 
+ Portata Liquida m3/s 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A.2.3.3 Caratteristiche degli habitat 
+ 
+
+ 
+ 
+
+ * Devono essere trasmessi i dati necessari al calcolo dell'indice IQH(1) 
+ 
+
+ Inoltre, per i siti di riferimento indicare 
+ 
+
+ * % Risezionamento di alveo e sponde 
+ 
+
+ * % Rinforzo sponde e alveo 
+ 
+
+ * % Arginatura con argini addossati 
+ 
+
+ * % del tratto eventualmente interessato da impedimento del flusso (flow impedance) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) Questi dati devono essere inviati quando disponibili, secondo quanto indicato nel paragrafo A.4.1.3 dell'allegato 1 del decreto legislativo 152/06. 
+ 
+
+ 
+ 
+
+ A.2.4 Altri dati sui parametri idromorfologici a supporto dello stato ecologico 
+ 
+
+ 
+ 
+
+ Devono essere trasmessi i dati di seguito riportati. 
+ 
+
+ Regime idrologico: 
+ 
+
+ * serie delle portate almeno giornaliere (per sezione strumentata) 
+ 
+
+ * serie delle misure di portata (per sezione non strumentata) 
+ 
+
+ Caratteristiche morfologiche: 
+ 
+
+ * Schede valutazione (1) 
+ 
+
+ * Schede monitoraggio (1) 
+ 
+
+ Per i siti di riferimento indicare 
+ 
+
+ * Riduzione di portata percentuale in periodi di magra dovuta a dighe eventualmente presenti nel bacino 
+ 
+
+ * Eventuale presenza di prelievi d'acqua significativi a livello del corpo idrico. Se sì, indicare la % della portata prelevata 
+ 
+
+ * Eventuale presenza di regolazione della portata nel tratto in esame. (No / Lievemente/ Si) 
+ 
+
+ * Verificarsi di fenomeni di picchi improvvisi di portata dovuti a regolazione del flusso 
+ 
+
+ idrico (i.e. hydropeaking). (No/Si) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) di cui al paragrafo A.4.1.3 dell'allegato 1 del decreto legislativo 152/06 
+ 
+
+ 
+ 
+
+ A.2.5 Dati sui parametri chimici a supporto dello stato ecologico 
+ 
+
+ 
+ 
+
+ A supporto della determinazione dello stato ecologico, in concomitanza agli altri dati verranno rese disponibili anche le informazioni relative agli altri inquinanti specifici non appartenenti all'elenco di priorità di cui all'allegato 8 del D.
+ 
+
+ Lgs. 152/06, selezionate come indicato ai punti A.3.2.5 e A.3.3.4 e rilevate come indicato al punto A.2.8 dell'allegato 1 del D. Lgs.
+ 
+
+ 152/06. 
+ 
+
+ 
+ 
+
+ B. Dati di monitoraggio dei laghi e degli invasi 
+ 
+
+ 
+ 
+
+ B.1 Informazioni statiche 
+ 
+
+ 
+ 
+
+ Dati rilevati indipendentemente dalla raccolta del campione biologico (informazioni da aggiornare almeno una volta nell'arco temporale coperto da un Piano di Gestione) 
+ 
+
+ 
+ 
+
+ B.1.1 Informazioni generali sul corpo idrico 
+ 
+
+ 
+ 
+
+ * Corpo idrico (denominazione e codice) 
+ 
+
+ * Altitudine (m) 
+ 
+
+ * Estensione del bacino imbrifero diretto e allacciato (km2) 
+ 
+
+ * Profondità media del lago o dell'invaso a massima regolazione (m) * Profondità massima del lago o dell'invaso a massima regolazione (m) 
+ 
+
+ * Serie storica dell'escursione massima di livello (m)(1) 
+ 
+
+ * Quantità di acqua immessa o prelevata (m3/a) 
+ 
+
+ * Periodo di prelievo o immissione di acqua(1) 
+ 
+
+ * Informazioni sull'utilizzo dell'acqua (turistico, ricreativo, irriguo, navigazione, idroelettrico, potabile, ecc.) 
+ 
+
+ * Per i soli invasi, quantità di sedimento accumulata annualmente ed eventuale quantità dragata (solo per corpi idrici artificiali o fortemente modificati) (m3/a)(1) 
+ 
+
+ * Per i soli invasi, escursione di livello (m): giornaliera* (se profondi meno di 10 m), settimanale media(1) (se profondi da 10 a 50 m) o mensile media (se profondi più di 50 m) (solo per corpi idrici artificiali o fortemente modificati) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) informazioni facoltative 
+ 
+
+ 
+ 
+
+ B.1.1.1 Elementi idromorfologici 
+ 
+
+ (rilevate puntualmente in almeno 10 punti lungo la sponda) 
+ 
+
+ 
+ 
+
+ * Coordinate del punto di rilevamento riferita ad ognuno dei dieci o più punti di rilevamento delle informazioni sulla sponda (almeno dieci lungo la sponda) 
+ 
+
+ * Caratteristiche della sponda (naturale/artificiale) 
+ 
+
+ * Caratteristiche del substrato (composizione, granulometria) 
+ 
+
+ * Percentuale della sponda, dell'area litorale e dell'area sublitorale interessata da opere artificiali (muri, porti, imbarcaderi, ecc.) 
+ 
+
+ * Percentuale dell'area litorale interessata da opere artificiali (muri, porti, imbarcaderi, ecc.) 
+ 
+
+ * Percentuale dell'area sublitorale interessata da opere artificiali (muri, porti, imbarcaderi, ecc.) 
+ 
+
+ 
+ 
+
+ B.1.2 Informazioni sul sito 
+ 
+
+ 
+ 
+
+ Per ogni campione specificare le seguenti informazioni 
+ 
+
+ * Codice univoco del sito nel sistema informativo regionale 
+ 
+
+ Per le Macrofite 
+ 
+
+ * Coordinate di inizio e termine del sito (lungo la riva)(1) 
+ 
+
+ * Uso del suolo a ridosso del sito 
+ 
+
+ * Coordinate di inizio (a riva) del transetto 
+ 
+
+ * Numero del transetto 
+ 
+
+ Per i Macroinvertebrati 
+ 
+
+ * Caratteristiche della sponda entro 50 m dal punto di partenza di ciascun transetto (naturale/artificiale, composizione) 
+ 
+
+ * % della sponda, dell'area litorale e dell'area sublitorale interessata da opere artificiali (muri, porti, imbarcaderi, ecc.) entro 50 m dal punto di campionamento 
+ 
+
+ * Coordinate di inizio (a riva) del transetto 
+ 
+
+ * Codice del transetto 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) Si ricorda che per le macrofite il sito è una zona litorale del lago dove si è rilevata la presenza di una stessa composizione in specie di piante acquatiche. 
+ 
+
+ 
+ 
+
+ B.2.Informazioni dinamiche 
+ 
+
+ 
+ 
+
+ B.2.1. Informazioni associate al campione biologico 
+ 
+
+ 
+ 
+
+ Per ogni campione specificare le seguenti informazioni 
+ 
+
+ * Data (gg/mm/aaaa) e ora (hh:mm) del campionamento, del prelievo, della misura o dell'osservazione 
+ 
+
+ * Codice univoco del sito al quale si riferisce il dato 
+ 
+
+ * Codice del campione 
+ 
+
+ * Codice della campagna di campionamento 
+ 
+
+ Solo per il Fitoplancton 
+ 
+
+ * Condizioni meteorologiche 
+ 
+
+ * Profondità di prelievo dei campioni discreti o indicazione dello strato di integrazione 
+ 
+
+ * Strumento utilizzato per il prelievo 
+ 
+
+ Solo per le Macrofite 
+ 
+
+ * Profondità (m)(1) 
+ 
+
+ * Strumento utilizzato per il campionamento(1) 
+ 
+
+ * Tipologia del substrato(1) 
+ 
+
+ Solo per i Macroinvertebrati 
+ 
+
+ * Zona campionata (ad es. litorale, sublitorale, profondo) 
+ 
+
+ * Numero di repliche raccolte per ogni zona (per il campionamento quantitativo su substrato molle) o numero di campioni raccolti (per il campionamento con retino immanicato e/o substrato artificiale) 
+ 
+
+ * Profondità della replica o del campione (m) 
+ 
+
+ * Codice della replica o del campione (composto da nome del lago , numero del transetto, zona campionata e numero progressivo della replica o del campione) 
+ 
+
+ * Strumento di prelievo (es. draga, carotatore, operatore subacqueo, retino immanicato, substrato artificiale, rete a slitta in substrato di macrofite) 
+ 
+
+ * Superficie di cattura dello strumento di prelievo, se applicabile Solo per la Fauna ittica 
+ 
+
+ * Condizioni metereologiche 
+ 
+
+ * Tipologia degli strumenti di campionamento utilizzati 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ * Per ogni punto di osservazione o campionamento: per le macrofite ogni sito comprende più transetti e ogni transetto più punti.
+ 
+
+ Mentre il punto di inizio del transetto è sempre lo stesso, il punto esatto di prelievo può variare leggermente a causa della deriva dell'imbarcazione durante il campionamento. 
+ 
+
+ 
+ 
+
+ B.2.2. Dati relativi all'analisi del campione 
+ 
+
+ 
+ 
+
+ B.2.2.1. Fitoplancton 
+ 
+
+ 
+ 
+
+ * Elenco degli organismi rinvenuti (genere e specie) 
+ 
+
+ * Abbondanza di ogni taxon (cell/mL) 
+ 
+
+ * Biomassa (biovolume) di ogni taxon (mm3/mL) 
+ 
+
+ * Indicazioni sul metodo di conteggio utilizzato (volume sedimentato, numero di campi o transetti esaminati, ingrandimenti) 
+ 
+
+ 
+ 
+
+ B.2.2.2 Macrofite 
+ 
+
+ 
+ 
+
+ * Elenco degli organismi rinvenuti in ogni punto di osservazione o campionamento (genere e specie) solo presenza/assenza (ma per ogni punto di ogni sito lungo ogni transetto) 
+ 
+
+ 
+ 
+
+ B.2.2.3 Macroinvertebrati 
+ 
+
+ 
+ 
+
+ * Specificare se è stato effettuato un subcampione, il numero di subcampioni osservati ed il volume o la frazione osservata espressa in percentuale 
+ 
+
+ * Lista tassonomica dei taxa rinvenuti: 
+ 
+
+ - a livello di specie per Chironomidi e Oligocheti 
+ 
+
+ - a livello di genere per la rimanente fauna 
+ 
+
+ * Elenco delle specie invasive rilevate 
+ 
+
+ * Numero di individui dell'eventuale subcampione per ciascun taxon 
+ 
+
+ * Numero di individui totali raccolti per ciascun taxon 
+ 
+
+ 
+ 
+
+ B.2.2.4 Fauna ittica 
+ 
+
+ 
+ 
+
+ * Tipo strumento: RBMF, RBMP, EP 
+ 
+
+ * Posizione di campionamento (GPS) di ciascun punto di raccolta 
+ 
+
+ * Profondità rete (es: 6-11,9 m) 
+ 
+
+ * Lista delle specie 
+ 
+
+ * Lunghezza totale (cm) di ciascun individuo 
+ 
+
+ * Peso totale (g) di ciascun individuo 
+ 
+
+ * Sesso (M,F,ND) dei pesci pescati con le reti 
+ 
+
+ * Eta(1) 
+ 
+
+ * Note ( M= malformazioni, I= ibridi) 
+ 
+
+ 
+ 
+
+ (1) Nel caso in cui il numero di individui campionati sia inferiore a 100 unità, si procederà per ciascuna specie alla determinazione dell'età di tutti gli esemplari; invece in campioni che contengono più di 100 individui si selezionerà un subcampione di almeno 100 individui. 
+ 
+
+ 
+ 
+
+ B.2.3 Dati rilevati in coincidenza con la raccolta del campione biologico 
+ 
+
+ 
+ 
+
+ I seguenti dati verranno resi disponibili in concomitanza con i dati biologici a cui si riferiscono. 
+ 
+
+ 
+ 
+
+ B.2.3.1 Parametri fisico-chimici 
+ 
+
+ 
+ 
+
+ Per ogni singolo parametro, specificare se si tratta di un dato prelevato sulla colonna in abbinamento ai campioni di fitoplancton, oppure prelevato a 1 m dal fondo o a riva, in abbinamento ai singoli campioni di macroinvetebrati. 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Temperatura acqua °C 
+ 
+
+ 
+ Conducibilità &micro;S/cm a 20°C 
+ 
+
+ 
+ pH 
+ 
+
+ 
+ Trasparenza m 
+ 
+
+ 
+ Ossigeno disciolto/ Percentuale di saturazione ossigeno mg/L; % sat 
+ 
+
+ 
+ N-NH4 mg/L 
+ 
+
+ 
+ N-NO3 mg/L 
+ 
+
+ 
+ Clorofilla a &micro;g/L 
+ 
+
+ 
+ Azoto totale mg N /L 
+ 
+
+ 
+ Fosforo totale &micro;g P /L 
+ 
+
+ 
+ P-PO4 &micro;g/L 
+ 
+
+ 
+ Alcalinità meq /L 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ B.2.4 Dati rilevati normalmente in continuo 
+ 
+
+ 
+ 
+
+ Monitoraggio continuo delle escursioni di livello (1) 
+ 
+
+ 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1)dato fornito in presenza di strumentazione idonea 
+ 
+
+ 
+ 
+
+ B.2.5 Dati sui parametri chimici a supporto dello stato ecologico 
+ 
+
+ 
+ 
+
+ A supporto della determinazione dello stato ecologico, in concomitanza agli dati verranno rese disponibili anche le informazione relative agli altri inquinanti specifici non appartenenti all'elenco di priorità di cui all'allegato 8 del D.
+ 
+
+ Lgs. 152/06, selezionate come indicato ai punti A.3.2.5 e A.3.3.4 e rilevate come indicato al punto A.2.8 dell'allegato 1 del D. Lgs.
+ 
+
+ 152/06. 
+ 
+
+ 
+ 
+
+ C. Dati di monitoraggio delle acque marino-costiere 
+ 
+
+ 
+ 
+
+ C.1 Informazioni statiche 
+ 
+
+ 
+ 
+
+ Dati rilevati indipendentemente dalla raccolta del campione biologico (informazioni da aggiornare almeno una volta nell'arco temporale coperto da un Piano di Gestione) 
+ 
+
+ 
+ 
+
+ C.1.1 Informazioni generali sul corpo idrico 
+ 
+
+ 
+ 
+
+ * Corpo idrico (denominazione e codice) 
+ 
+
+ * Profondità e morfologia del fondale: variazioni morfobatimetriche rispetto al rilievo precedente. 
+ 
+
+ * Regime correntometrico: direzione ed intensità delle correnti dominanti. 
+ 
+
+ 
+ 
+
+ C.1.2 Informazioni sul sito 
+ 
+
+ 
+ 
+
+ Per ogni sito di monitoraggio fornire le seguenti informazioni: 
+ 
+
+ * Codice univoco del sito nel sistema informativo regionale 
+ 
+
+ * Località del sito di monitoraggio 
+ 
+
+ * Profondità (m) 
+ 
+
+ * Indicare se il sito fa parte della rete nucleo 
+ 
+
+ Solo per il monitoraggio Macroalghe: 
+ 
+
+ * Lunghezza totale (m) e coordinate di inizio e fine della linea di costa (sito) 
+ 
+
+ * Lunghezza (m) e coordinate di inizio e fine del tratto di costa (sito) associato a ciascuna comunità rilevata 
+ 
+
+ * Morfologia del sito 
+ 
+
+ * Inclinazione della frangia infralitorale del sito (gradi) 
+ 
+
+ * Orientazione geografica del sito 
+ 
+
+ * Esposizione al moto ondoso del sito 
+ 
+
+ * Tipo di substrato del sito 
+ 
+
+ 
+ 
+
+ C.2 Informazioni dinamiche 
+ 
+
+ 
+ 
+
+ C.2.1 Informazioni associate al campione biologico 
+ 
+
+ 
+ 
+
+ Per ogni campione specificare le seguenti informazioni : 
+ 
+
+ * Elemento di qualità biologica monitorato 
+ 
+
+ * Data(gg/mm/aaaa) e ora (hh:mm) del campionamento, del prelievo, della misura dell'osservazione 
+ 
+
+ * Codice univoco del sito al quale si riferisce il dato 
+ 
+
+ * Numero replica 
+ 
+
+ * Codice della campagna di campionamento 
+ 
+
+ * Tipo di monitoraggio (operativo, sorveglianza, di indagine, altro) * Condizioni meteo-marine 
+ 
+
+ 
+ 
+
+ ESEMPIO 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ C.2.2 Dati relativi all'analisi del campione 
+ 
+
+ 
+ 
+
+ C.2.2.1 Fitoplancton 
+ 
+
+ 
+ 
+
+ Composizione (al massimo grado di determinazione tassonomica raggiunto), abbondanza di ogni unità tassonomica (cell/L) e biomassa totale del fitoplancton (mg per m3 di clorofilla "a"), riferiti ad ogni sito di monitoraggio e ad ogni data di campionamento. 
+ 
+
+ 
+ 
+
+ C.2.2.2 Macroalghe 
+ 
+
+ 
+ 
+
+ Comunità macroalgale dominante (secondo le codifiche del metodo) e situazione geomorfologia rilevante (secondo le codifiche del metodo) per ogni tratto di costa elementare costituente il sito di monitoraggio, riferiti ad ogni sito di monitoraggio e ad ogni data di campionamento. 
+ 
+
+ 
+ 
+
+ C.2.2.3 Angiosperme 
+ 
+
+ 
+ 
+
+ Descrittori fisici, fisiografici, strutturali e funzionali della prateria di Posidonia oceanica, come riportato nell'apposita scheda metodologica di riferimento, per quanto concerne il campionamento della prateria a 15 metri (dati obbligatori). 
+ 
+
+ Descrittori fisici, fisiografici, strutturali e funzionali della prateria di Posidonia oceanica, come riportato nell'apposita scheda metodologica di riferimento, per quanto concerne il campionamento della prateria sul limite inferiore (questi dati sono forniti quando disponibili con l'eccezione di una prateria per ogni Regione, per la quale l'invio dei dati è obbligatorio). 
+ 
+
+ 
+ 
+
+ C.2.2.4 Macroinvertebrati bentonici 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Composizione (a livello di specie o qualora non risulti possibile, al massimo grado di determinazione tassonomica raggiunto) e abbondanza di ogni unità tassonomica espressa come numero di individui per replica e numero di individui totale per m2 (somma di 3 repliche) della comunità di macroinvertebrati, riferiti ad ogni sito di monitoraggio e ad ogni data di campionamento. 
+ 
+
+ Dati facoltativi 
+ 
+
+ Biomassa per unità tassonomica (espressa in grammi su peso umido, o su peso secco oppure su peso secco senza ceneri). 
+ 
+
+ 
+ 
+
+ C.2.3 Dati rilevati in coincidenza con la raccolta del campione biologico 
+ 
+
+ 
+ 
+
+ I seguenti dati verranno resi disponibili in concomitanza con i dati biologici a cui si riferiscono. 
+ 
+
+ L'associazione fra parametri fisico-chimici e idromorfologici a supporto e i diversi elementi di qualità biologica è così definita: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Parametri Fitoplancton Macroalghe Angiosperme Macroin- vertebrati bentonici 
+ 
+
+ 
+ Parametri fisico-chimici nelle acque X X(1) X(1) X(1) 
+ 
+
+ 
+ Parametri idro- morfologici e fisico-chimici nei sedimenti X(2) X 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note alla tabella 
+ 
+
+ (1) Per gli EQB: Macroalghe, Angiosperme e Macroinvertebrati bentonici, i parametri fisico-chimici nelle acque da indicare sono quelli rilevati per l'EQB Fitoplancton nel sito di campionamento e misura più vicino a quello in cui si stanno monitorando gli altri EQB. 
+ 
+
+ (2) Per l'EQB Angiosperme, il parametro carbonio organico totale è facoltativo 
+ 
+
+ 
+ 
+
+ C.2.3.1. Parametri fisico-chimici nelle acque 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Temperatura dell'acqua (1) °C 
+ 
+
+ 
+ Salinità (1) PSU 
+ 
+
+ 
+ Trasmittanza (1) (se disponibile) % 
+ 
+
+ 
+ Densità (sigma-t) (1) (se disponibile) Kg/m3 
+ 
+
+ 
+ Profondità Disco Secchi m 
+ 
+
+ 
+ Ossigeno disciolto % sat (1) %sat 
+ 
+
+ 
+ Ossigeno disciolto (1) mg/L 
+ 
+
+ 
+ pH (1) 
+ 
+
+ 
+ Azoto ammoniacale &micro;g/L 
+ 
+
+ 
+ Azoto nitrico &micro;g/L 
+ 
+
+ 
+ Azoto nitroso &micro;g/L 
+ 
+
+ 
+ Fosforo Ortofosfato &micro;g/L 
+ 
+
+ 
+ Fosforo totale &micro;g/L 
+ 
+
+ 
+ Silice reattiva (Si) &micro;g/L 
+ 
+
+ 
+ Azoto totale &micro;g/L 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note alla tabella 
+ 
+
+ (1) Effettuare il profilo verticale e indicare la profondità di ciascuna misura 
+ 
+
+ 
+ 
+
+ C.2.3.2 Parametri idromorfologici e fisico-chimici nei sedimenti 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Granulometria % 
+ 
+
+ 
+ Carbonio Organico Totale % 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ C.2.4 Dati sui parametri chimici a supporto dell'ecologico 
+ 
+
+ 
+ 
+
+ A supporto della determinazione dello stato ecologico, in concomitanza agli altri dati verranno rese disponibili anche le informazioni relative agli altri inquinanti specifici non appartenenti all'elenco di priorità di cui all'allegato 8 del D.
+ 
+
+ Lgs. 152/06, selezionate come indicato ai punti A.3.2.5 e A.3.3.4 e rilevate come indicato al punto A.2.8 dell'allegato 1 del D. Lgs.
+ 
+
+ 152/06. 
+ 
+
+ 
+ 
+
+ D. Dati di monitoraggio delle acque di transizione 
+ 
+
+ 
+ 
+
+ D.1 Informazioni statiche 
+ 
+
+ 
+ 
+
+ Dati rilevati indipendentemente dalla raccolta del campione biologico (informazioni da aggiornare almeno una volta nell'arco temporale coperto da un Piano di Gestione). 
+ 
+
+ D.1.1. Informazioni generali sul corpo idrico 
+ 
+
+ * Corpo idrico (denominazione e codice) 
+ 
+
+ * Nome dell'ambiente di transizione 
+ 
+
+ * Profondità e morfologia del fondale: variazioni morfobatimetriche rispetto al rilievo precedente. 
+ 
+
+ * Struttura della zona intertidale: Percentuale di copertura e composizione principale della vegetazione 
+ 
+
+ * Regime di marea: elementi principali che determinano il bilancio idrologico del corpo idrico, dipendenti dalle caratteristiche morfologiche ed idrodinamiche del corpo idrico da monitorare (scambi con c.i. di transizione adiacenti, apporti di acqua dolce dai fiumi, apporti di acqua dolce artificiali (idrovore, condotte, scarichi, ecc.), scambio netto con il mare, precipitazioni, apporti dalla falda, evaporazione, ecc.) 
+ 
+
+ 
+ 
+
+ D.1.2. Informazioni generali sul sito 
+ 
+
+ 
+ 
+
+ Per ogni sito di monitoraggio fornire le seguenti informazioni: 
+ 
+
+ * Codice univoco del sito nel sistema informativo regionale 
+ 
+
+ * Località del sito di monitoraggio 
+ 
+
+ * Profondità (m) 
+ 
+
+ * Indicare se il sito fa parte della rete nucleo 
+ 
+
+ * Habitat (se disponibile) 
+ 
+
+ * Campo Note 
+ 
+
+ 
+ 
+
+ D.2 Informazioni dinamiche 
+ 
+
+ 
+ 
+
+ D.2.1. Informazioni associate al campione biologico 
+ 
+
+ 
+ 
+
+ Per ogni campione specificare le seguenti informazioni: 
+ 
+
+ * Elemento di qualità biologica monitorato 
+ 
+
+ * Data (gg/mm/aaaa) e ora (hh:mm) del prelievo 
+ 
+
+ * Codice univoco del sito al quale si riferisce il dato 
+ 
+
+ * Codice della campagna di campionamento 
+ 
+
+ * Numero replica 
+ 
+
+ * Tipo di monitoraggio (operativo, sorveglianza, di indagine, altro) * Strumentazione impiegata nel campionamento 
+ 
+
+ * Indicazione del livello di marea (m)(1) 
+ 
+
+ * Indicazione di portata (m3/s)(2) 
+ 
+
+ * Condizioni meteo climatiche 
+ 
+
+ 
+ 
+
+ ESEMPIO 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Campo note 
+ 
+
+ Note al paragrafo 
+ 
+
+ (1) solo per Lagune microtidali 
+ 
+
+ (2) solo per Foci fluviali 
+ 
+
+ 
+ 
+
+ D.2.2. Dati relativi all'analisi del campione 
+ 
+
+ 
+ 
+
+ D.2.2.1. Fitoplancton 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Composizione (fino al massimo grado di determinazione raggiunto), abbondanza di ogni unità tassonomica (cell/L) e biomassa totale del fitoplancton (mg per m3 di clorofilla "a"), riferiti ad ogni sito di monitoraggio e ad ogni data di campionamento. 
+ 
+
+ Dati facoltativi 
+ 
+
+ * Biomassa frazionata: pico (<2 &micro;m), nano (2 &micro;m -20 &micro;m), micro (>20
+ 
+
+ &micro;m), come Chla (cell/L) 
+ 
+
+ * Dimensioni cellulari (biovolume) mediante analisi d'immagine (mm ecd) 
+ 
+
+ 
+ 
+
+ D.2.2.2. Macroalghe 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Riconoscimento tassonomico (a livello di specie o qualora non risulti possibile fino al massimo grado di determinazione raggiunto), stima della copertura vegetale totale (CT%), stima della copertura delle macroalghe classificate a livello di genere (Ri) con ricoprimento >0.1% (Ri%) per sito campionato. 
+ 
+
+ Dati facoltativi 
+ 
+
+ * Stima della biomassa delle pleustofite (grammi di peso secco). 
+ 
+
+ 
+ 
+
+ D.2.2.3 Fanerogame 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Riconoscimento tassonomico (a livello di specie o qualora non risulti possibile fino al massimo grado di determinazione raggiunto), e indicazione del numero di specie, stima della copertura totale e della % delle specie dominanti per sito campionato. 
+ 
+
+ Dati facoltativi 
+ 
+
+ * natura del substrato su cui è insediata la prateria 
+ 
+
+ * distribuzione delle piante sul fondo (omogenea/disomogenea) 
+ 
+
+ * densità espressa in numero dei fasci fogliari nella superficie di riferimento 
+ 
+
+ * monitoraggio dei limiti della prateria (progressione/regressione) * fenologia su 10 fasci fogliari 
+ 
+
+ 
+ 
+
+ D.2.2.4. Macroinvertebrati bentonici 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ Composizione (a livello di specie o qualora non risulti possibile, al massimo grado di determinazione tassonomica raggiunto) e abbondanza di ogni unità tassonomica espressa come numero di individui per replica e numero di individui totale per m2 (somma di 3 repliche) della comunità di macroinvertebrati, riferiti ad ogni sito di monitoraggio e ad ogni data di campionamento. 
+ 
+
+ Dati facoltativi 
+ 
+
+ * Dimensioni corporee delle specie per replica (?m) 
+ 
+
+ * Biomassa per replica (grammi di peso secco) 
+ 
+
+ 
+ 
+
+ D.2.2.5. Fauna ittica 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ * Lista e abbondanza delle specie per sito campionato. 
+ 
+
+ * Lunghezza totale (mm) 
+ 
+
+ * Peso corporeo (grammi di peso umido) 
+ 
+
+ Dati facoltativi 
+ 
+
+ * Sesso (F/M) 
+ 
+
+ * Maturità (Giovanile/Adulto) 
+ 
+
+ * Contenuti stomacali/intestinali 
+ 
+
+ * Parassiti (presenza/assenza) 
+ 
+
+ * Stato di salute (presenza di tumori in particolare a carico degli organi e tessuti esterni (pinne, cute, occhi) 
+ 
+
+ 
+ 
+
+ D.2.3. Dati rilevati in coincidenza con la raccolta del campione biologico 
+ 
+
+ 
+ 
+
+ I seguenti dati verranno resi disponibili in concomitanza con i dati biologici a cui si riferiscono. 
+ 
+
+ L'associazione fra parametri fisico-chimici e idromorfologici a supporto ed i diversi elementi di qualità biologica è così definita: 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametri Fitoplancton Macroalghe Fanerogame Macroin- vertebrati Fauna ittica 
+ 
+
+ 
+ Parametri fisico-chimici nelle acque X X X X(1) 
+ 
+
+ 
+ Parametri idromorfologici e fisico-chimici nei sedimenti X X X(2) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note alla tabella 
+ 
+
+ (1) Solo temperatura, salinità, pH, ossigeno disciolto, trasparenza. 
+ 
+
+ (2) Solo la granulometria del sedimento 
+ 
+
+ 
+ 
+
+ D.2.3.1 Parametri fisico-chimici nelle acque 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Trasparenza m 
+ 
+
+ 
+ Temperatura °C 
+ 
+
+ 
+ Ossigeno disciolto mg/L e %sat 
+ 
+
+ 
+ pH 
+ 
+
+ 
+ Salinità PSU 
+ 
+
+ 
+ Profondità m 
+ 
+
+ 
+ Azoto ammoniacale (1) &micro;g/L 
+ 
+
+ 
+ Azoto nitroso (1) &micro;g/L 
+ 
+
+ 
+ Azoto nitrico (1) &micro;g/L 
+ 
+
+ 
+ Fosforo inorganico disciolto (1) &micro;g/L 
+ 
+
+ 
+ Fosforo ortofosfato &micro;g/L 
+ 
+
+ 
+ Silicati disciolti (Si )(1) &micro;g/L 
+ 
+
+ 
+ Particellato sospeso (1) mg/L 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note alla tabella 
+ 
+
+ (1) parametri obbligatori solo nei siti per fitoplancton e macrofite. 
+ 
+
+ 
+ 
+
+ Dati Facoltativi 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Azoto totale disciolto &micro;g/L 
+ 
+
+ 
+ Azoto totale particellato &micro;g/L 
+ 
+
+ 
+ Fosforo totale disciolto &micro;g/L 
+ 
+
+ 
+ Carbonio organico particellato &micro;g/L 
+ 
+
+ 
+ Solfuri liberi &micro;g/L 
+ 
+
+ 
+ Irradianza w/m2 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ D.2.3.2 Parametri idromorfologici e fisico-chimici nei sedimenti: 
+ 
+
+ 
+ 
+
+ Dati obbligatori 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Carbonio organico totale % 
+ 
+
+ 
+ Azoto totale &micro;g/g 
+ 
+
+ 
+ Densità g/cm3 
+ 
+
+ 
+ Granulometria % 
+ 
+
+ 
+ Ferro labile &micro;mol/cm3 
+ 
+
+ 
+ Solfuri volatili disponibili &micro;mol/cm3 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Dati facoltativi
+ 
+ 
+ Parametro Unità di misura 
+ 
+
+ 
+ Fosforo totale &micro;g/g 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ D.2.4 Dati sui parametri chimici a supporto dello stato ecologico 
+ 
+
+ 
+ 
+
+ A supporto della determinazione dello stato ecologico, in concomitanza agli altri dati verranno rese disponibili anche le informazioni relative agli altri inquinanti specifici non appartenenti all'elenco di priorità di cui all'allegato 8 del D.
+ 
+
+ Lgs. 152/06, selezionate come indicato ai punti A.3.2.5 e A.3.3.4 e rilevate come indicato al punto A.2.8 dell'allegato 1 del D. Lgs.
+ 
+
+ 152/06.
