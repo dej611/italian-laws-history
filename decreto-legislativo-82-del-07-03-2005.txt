@@ -182,17 +182,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) autenticazione informatica: la validazione dell'insieme di dati attribuiti in modo esclusivo ed univoco ad un soggetto, che ne distinguono l'identità nei sistemi informativi, effettuata attraverso opportune tecnologie 
- ((anche))
+ ((
 
- al fine di garantire la sicurezza dell'accesso; 
- 
+ b) autenticazione del documento informatico: la validazione del documento informatico attraverso l'associazione di dati informatici relativi all'autore o alle circostanze, anche temporali, della redazione;
 
- 
- 
+ ))
 
  
- c) carta d'identità elettronica: il documento d'identità munito di fotografia del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalità di dimostrare l'identità anagrafica del suo titolare; 
+
+ 
+ c) carta d'identità elettronica: il documento d'identità munito 
+ ((di elementi per l'identificazione fisica))
+
+ del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalità di dimostrare l'identità anagrafica del suo titolare; 
  
 
  
@@ -206,12 +208,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) certificati elettronici: gli attestati elettronici che collegano 
- ((all'identità del titolare))
+ e) certificati elettronici: gli attestati elettronici che collegano all'identità del titolare i dati utilizzati per verificare le firme elettroniche; 
+ 
 
- i dati utilizzati per verificare le firme elettroniche 
- (( . . . ))
-
+ 
  
 
  
@@ -240,6 +240,42 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ i-bis) copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui è tratto;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ i-ter) copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui è tratto;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ i-quater) copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui è tratto su supporto informatico con diversa sequenza di valori binari;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ i-quinquies) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario;
+
+ ))
+
  
 
  
@@ -278,33 +314,41 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q) firma elettronica: l'insieme dei dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici, utilizzati come metodo di 
- ((identificazione))
+ ((
 
- informatica; 
- 
+ p-bis) documento analogico: la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti;
 
- 
- 
+ ))
 
  
- r) firma elettronica qualificata: la firma elettronica ottenuta attraverso una procedura informatica che garantisce la connessione univoca al firmatario 
- (( . . . ))
 
- , creata con mezzi sui quali il firmatario può conservare un controllo esclusivo e collegata ai dati ai quali si riferisce in modo da consentire di rilevare se i dati stessi siano stati successivamente modificati, che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma 
- (( . . . ))
-
- ; 
- 
+ q) firma elettronica: l'insieme dei dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici, utilizzati come metodo di identificazione informatica; 
 
  
+ ((
+
+ q-bis) firma elettronica avanzata: insieme di dati in forma elettronica allegati oppure connessi a un documento informatico che consentono l'identificazione del firmatario del documento e garantiscono la connessione univoca al firmatario, creati con mezzi sui quali il firmatario può conservare un controllo esclusivo, collegati ai dati ai quali detta firma si riferisce in modo da consentire di rilevare se i dati stessi siano stati successivamente modificati;
+
+ ))
+
  
 
  
- s) firma digitale: un particolare tipo di firma elettronica qualificata basata su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici; 
+ ((
+
+ r) firma elettronica qualificata: un particolare tipo di firma elettronica avanzata che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma;
+
+ ))
+
  
 
  
+ ((
+
+ s) firma digitale: un particolare tipo di firma elettronica avanzata basata su un certificato qualificato e su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici;
+
+ ))
+
  
 
  
@@ -322,10 +366,37 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ u-bis) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ u-ter) identificazione informatica: la validazione dell'insieme di dati attribuiti in modo esclusivo ed univoco ad un soggetto, che ne consentono l'individuazione nei sistemi informativi, effettuata attraverso opportune tecnologie anche al fine di garantire la sicurezza dell'accesso;
+
+ ))
+
+ 
+
+ 
  v) originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi; 
  
 
  
+ 
+
+ 
+ ((
+
+ v-bis) posta elettronica certificata: sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi;
+
+ ))
+
  
 
  
