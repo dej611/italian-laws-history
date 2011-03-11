@@ -1,0 +1,293 @@
+ALLEGATO II 
+ 
+
+ (previsto dall'articolo 1, comma 43) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ "ALLEGATO IV-bis 
+ 
+
+ Elenco delle LCA (Local Competent Authority) 
+ 
+
+ ai sensi dell'articolo 2, comma 1, lettera n) 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ N° Direziomare Compamare Circomare LCA Locode 
+ 
+
+ 
+ 1 ANCONA x ITAOI 
+ 
+
+ 
+ 2 BARI x ITBRI 
+ 
+
+ 
+ 3 TARANTO x ITTAR 
+ 
+
+ 
+ 4 BRINDISI x ITBDS 
+ 
+
+ 
+ 5 CAGLIARI x ITCAG 
+ 
+
+ 
+ 6 ORISTANO x ITQOS 
+ 
+
+ 
+ 7 CATANIA x ITCTA 
+ 
+
+ 
+ 8 SIRACUSA x ITSIR 
+ 
+
+ 
+ 9 POZZALLO x ITPZL 
+ 
+
+ 
+ 10 MILAZZO x ITMLZ 
+ 
+
+ 
+ 11 MESSINA x ITMSN 
+ 
+
+ 
+ 12 AUGUSTA x ITAUG 
+ 
+
+ 
+ 13 GENOVA x ITGOA 
+ 
+
+ 
+ 14 SAVONA x ITSVN 
+ 
+
+ 
+ 15 IMPERIA x ITIMP 
+ 
+
+ 
+ 16 LA SPEZIA x ITSPE 
+ 
+
+ 
+ 17 LIVORNO x ITLIV 
+ 
+
+ 
+ 18 PIOMBINO x ITPIO 
+ 
+
+ 
+ 19 PORTO SANTO STEFANO x ITPSS 
+ 
+
+ 
+ 20 PORTOFERRAIO x ITPFE 
+ 
+
+ 
+ 21 MARINA DI CARRARA x ITMDC 
+ 
+
+ 
+ 22 NAPOLI x ITNAP 
+ 
+
+ 
+ 23 ISCHIA x ITISH 
+ 
+
+ 
+ 24 SALERNO x ITSAL 
+ 
+
+ 
+ 25 OLBIA x ITOLB 
+ 
+
+ 
+ 26 PORTO TORRES x ITPTO 
+ 
+
+ 
+ 27 LA MADDALENA x ITMDA 
+ 
+
+ 
+ 28 PALERMO x ITPMO 
+ 
+
+ 
+ 29 PORTO EMPEDOCLE x ITPEM 
+ 
+
+ 
+ 30 LAMPEDUSA x ITLMP 
+ 
+
+ 
+ 31 MAZZARA DEL VALLO x ITMAZ 
+ 
+
+ 
+ 32 TRAPANI x ITTPS 
+ 
+
+ 
+ 33 PANTELLERIA x ITPNL 
+ 
+
+ 
+ 34 GELA x ITGEA 
+ 
+
+ 
+ 35 PESCARA x ITPSR 
+ 
+
+ 
+ 36 TERMOLI x ITTMI 
+ 
+
+ 
+ 37 ORTONA x ITOTN 
+ 
+
+ 
+ 38 RAVENNA x ITRAN 
+ 
+
+ 
+ 39 REGGIO CALABRIA x ITREG 
+ 
+
+ 
+ 40 CROTONE x ITCRV 
+ 
+
+ 
+ 41 VIBO VALENTIA x ITVVA 
+ 
+
+ 
+ 42 GIOIA TAURO x ITGIT 
+ 
+
+ 
+ 43 ROMA FCO x ITFCO 
+ 
+
+ 
+ 44 GAETA x ITGAE 
+ 
+
+ 
+ 45 CIVITAVECCHIA x ITCVV 
+ 
+
+ 
+ 46 TRIESTE x ITTRS 
+ 
+
+ 
+ 47 MONFALCONE x ITMNF 
+ 
+
+ 
+ 48 VENEZIA x ITVCE 
+ 
+
+ 
+ 49 CHIOGGIA x ITCHI 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ NOTA: Gli uffici marittimi, come definiti dall'articolo 16 del codice della navigazione, che non sono sede di LCA, partecipano alle attività SafeSeaNet del VTMIS Nazionale, in qualità di "Permitted Locode" della LCA da cui dipendono. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ LEGENDA 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Termine Significato 
+ 
+
+ 
+ DIREZIOMARE Direzione Marittima - zona marittima come definita dall'articolo16 del Codice della Navigazione 
+ 
+
+ 
+ COMPAMARE Compartimento Marittimo come definito dall'articolo16 del Codice della Navigazione 
+ 
+
+ 
+ CIRCOMARE (CIRC) Ufficio Circondariale Marittimo come definito dall'articolo16 del Codice della Navigazione 
+ 
+
+ 
+ LOCODE Location Code - sistema codificato dall'UNECE che viene utilizzato per identificare univocamente i porti in tutto il Mondo (www.unece.org/locode/) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ PERMITTED LOCODE_dipende operativamente da una LCA. 
+ 
+
+ 
+ 
+
+ =====================================================================

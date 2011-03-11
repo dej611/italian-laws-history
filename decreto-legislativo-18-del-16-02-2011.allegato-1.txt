@@ -1,0 +1,127 @@
+ALLEGATO I 
+ 
+
+ (previsto dall'articolo 1, comma 42) 
+ 
+
+ 
+ 
+
+ "ALLEGATO III 
+ 
+
+ 
+ 
+
+ MESSAGGI ELETTRONICI E SAFESEANET 
+ 
+
+ 
+ 
+
+ 1. Concetto generale e architettura 
+ 
+
+ Il sistema comunitario per lo scambio di dati marittimi, SafeSeaNet, consente di ricevere, conservare, recuperare e scambiare informazioni relative alla sicurezza della navigazione, del trasporto marittimo, dei lavoratori marittimi, delle navi e degli impianti portuali, dell'ambiente marino e costiero e delle risorse biologiche marine. 
+ 
+
+ SafeSeaNet è un sistema specializzato istituito per agevolare lo scambio di informazioni in formato elettronico tra Stati membri e fornire alla Commissione le informazioni rilevanti ai sensi della normativa comunitaria. Si compone di una rete di sistemi nazionali SafeSeaNet ubicati in ciascuno Stato membro e di una banca dati centrale SafeSeaNet che funge da punto nodale. 
+ 
+
+ La rete SafeSeaNet collega tutti i sistemi nazionali SafeSeaNet e include la banca dati centrale SafeSeaNet. 
+ 
+
+ 2. Gestione, funzionamento, sviluppo e manutenzione di SafeSeaNet 
+ 
+
+ 2.1 Responsabilità 
+ 
+
+ 2.1.2 Sistemi nazionali SafeSeaNet 
+ 
+
+ Il sistema nazionale SafeSeaNet, che è parte del VTMIS nazionale, deve consentire lo scambio di dati marittimi tra gli utenti autorizzati sotto la responsabilità della NCA di cui alla lettera m) e n) dell'articolo 2. 
+ 
+
+ L'NCA è responsabile della gestione del sistema nazionale, che comprende il coordinamento nazionale degli utenti e dei fornitori di dati e garantisce che siano creati i codici ONU/LOCODE e che siano istituite e mantenute la necessaria infrastruttura informatica nazionale e le procedure descritte nel documento di controllo dell'interfaccia e delle funzionalità di cui al punto 2.3. 
+ 
+
+ Il sistema nazionale SafeSeaNet consente l'interconnessione degli utenti autorizzati sotto la responsabilità della NCA e può essere reso accessibile ai soggetti operanti nel settore del trasporto marittimo identificati (armatori, agenti, capitani, spedizionieri/caricatori e altri), qualora autorizzati in tal senso dall'NCA, in particolare allo scopo di facilitare la presentazione elettronica di relazioni ai sensi della normativa comunitaria. 
+ 
+
+ 2.1.3 Sistema centrale SafeSeaNet 
+ 
+
+ La Commissione è responsabile della gestione e dello sviluppo a livello di politiche del sistema centrale SafeSeaNet e del controllo del sistema SafeSeaNet, in cooperazione con gli Stati membri, mentre, secondo il regolamento (CE) n. 1406/2002 del Parlamento europeo e del Consiglio, l'Agenzia, in cooperazione con gli Stati membri e la Commissione, è responsabile dell'attuazione tecnica. 
+ 
+
+ Il sistema centrale SafeSeaNet, che funge da punto nodale, collega tutti i sistemi SafeSeaNet nazionali e crea la necessaria infrastruttura informatica e le necessarie procedure come descritte nel documento di controllo dell'interfaccia e delle funzionalità di cui al punto 2.3. 
+ 
+
+ 2.2 Principi di gestione 
+ 
+
+ La Commissione istituisce un gruppo di esperti ad alto livello (HLSG - High Level Steering Group) che adotta il proprio regolamento interno, composto di rappresentanti degli Stati membri e della Commissione, al fine di: 
+ 
+
+ - formulare raccomandazioni per migliorare l'efficacia e la sicurezza del sistema SafeSeaNet, 
+ 
+
+ - fornire orientamenti adeguati per lo sviluppo di SafeSeaNet, 
+ 
+
+ - assistere la Commissione nella revisione delle prestazioni di SafeSeaNet, 
+ 
+
+ - approvare il documento di controllo dell'interfaccia e delle funzionalità di cui al punto 2.3 e le sue eventuali modifiche. 
+ 
+
+ Il Rappresentante Italiano all'HLSG è nominato dal Ministro delle Infrastrutture e dei Trasporti nell'ambito dell'amministrazione come definita nell'articolo 2, lettera m). 
+ 
+
+ 2.3 Documento di controllo dell'interfaccia e delle funzionalità e documentazione tecnica di SafeSeaNet 
+ 
+
+ La Commissione sviluppa e mantiene, in stretta cooperazione con gli Stati membri, un documento di controllo dell'interfaccia e delle funzionalità (IFCD). 
+ 
+
+ L'IFCD descrive in dettaglio i requisiti di funzionamento e le procedure applicabili agli elementi nazionali e centrali di SafeSeaNet ai fini della conformità con i requisiti comunitari pertinenti. 
+ 
+
+ L'IFCD include norme su: 
+ 
+
+ - diritti di accesso, orientamenti per la gestione della qualità dei dati, 
+ 
+
+ - specifiche concernenti la sicurezza della trasmissione e dello scambio di dati, 
+ 
+
+ - archiviazione delle informazioni a livello nazionale e centrale. 
+ 
+
+ L'IFCD indica i mezzi per la conservazione e disponibilità delle informazioni sulle merci pericolose o inquinanti riguardanti servizi di linea cui è stata accordata un'esenzione a norma dell'articolo 15. 
+ 
+
+ La documentazione tecnica relativa a SafeSeaNet, quali le norme concernenti il formato per lo scambio dei dati, i manuali di utilizzo e le specifiche per la sicurezza della rete, è elaborata e mantenuta dall'Agenzia in cooperazione con gli Stati membri. 
+ 
+
+ 3. Scambio di dati attraverso SafeSeaNet 
+ 
+
+ Il sistema utilizza norme del settore ed è in grado di interagire con sistemi pubblici e privati impiegati per creare, fornire e ricevere informazioni all'interno di SafeSeaNet. 
+ 
+
+ La Commissione e gli Stati membri cooperano al fine di valutare la fattibilità e lo sviluppo delle funzionalità che, per quanto possibile, garantiranno che i fornitori di dati, compresi capitani, armatori, agenti, operatori, spedizionieri/caricatori e le competenti autorità, debbano fornire le informazioni solo una volta. Gli Stati membri assicurano che le informazioni fornite siano disponibili per l'uso in tutti i pertinenti sistemi di segnalazione, notifica e VTMIS (sistema di informazione e gestione del traffico marittimo). 
+ 
+
+ I messaggi elettronici scambiati a norma della presente direttiva e della pertinente legislazione comunitaria sono distribuiti attraverso SafeSeaNet. A tal fine gli Stati membri sviluppano e mantengono le interfacce necessarie per la trasmissione automatica dei dati per via elettronica in SafeSeaNet. 
+ 
+
+ Laddove le norme adottate a livello internazionale permettano l'instradamento di dati LRIT relativi ad imbarcazioni di paesi terzi, SafeSeaNet è utilizzato per distribuire tra gli Stati membri con un adeguato livello di sicurezza, le informazioni LRIT ricevute conformemente all'articolo 6-ter della presente direttiva. 
+ 
+
+ 4. Sicurezza e diritti di accesso 
+ 
+
+ Il sistema centrale SafeSeaNet e i sistemi nazionali SafeSeaNet sono conformi ai requisiti previsti dalla direttiva per quanto riguarda la riservatezza delle informazioni nonchè ai principi e alle specifiche in materia di sicurezza descritti nell'IFCD, in particolare per quanto riguarda i diritti di accesso. Gli Stati membri identificano tutti gli utenti ai quali sono attribuiti un ruolo e una serie di diritti di accesso conformemente all'IFCD.".
