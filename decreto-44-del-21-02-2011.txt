@@ -1,0 +1,524 @@
+IL MINISTRO DELLA GIUSTIZIA
+
+ 
+ di concerto con
+
+ 
+
+ 
+ IL MINISTRO PER LA PUBBLICA AMMINISTRAZIONE E L'INNOVAZIONE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 4 del decreto-legge 29 dicembre 2009, n. 193, recante &laquo;Interventi urgenti in materia di funzionalità del sistema giudiziario&raquo;, convertito in legge, con modificazioni, dalla legge 22 febbraio 2010 n.24;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante "Codice dell'amministrazione digitale" e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, recante &laquo;Codice in materia di protezione dei dati personali&raquo; e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti gli articoli 16 e 16-bis del decreto-legge 29 novembre 2008, n. 185 recante &laquo;Misure urgenti per il sostegno a famiglie, lavoro, occupazione e impresa e per ridisegnare in funzione anti-crisi il quadro strategico nazionale&raquo;, convertito in legge, con modificazioni, dalla legge 28 gennaio 2009, n. 2 &raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 13 febbraio 2001, n. 123, recante &laquo;Regolamento recante disciplina sull'uso di strumenti informatici e telematici nel processo civile, nel processo amministrativo e nel processo dinanzi alle sezioni giurisdizionali della Corte dei conti&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, recante &laquo;Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'articolo 27 della legge n. 16 gennaio 2003, n. 3&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della giustizia 17 luglio 2008, recante &laquo;Regole tecnico-operative per l'uso di strumenti informatici e telematici nel processo civile&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto ministeriale 27 aprile 2009 recante &laquo;Nuove regole procedurali relative alla tenuta dei registri informatizzati dell'amministrazione della giustizia&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del presidente del consiglio dei ministri 6 maggio 2009, recante &laquo;Disposizioni in materia di rilascio e di uso della casella di posta elettronica certificata assegnata ai cittadini&raquo;;
+
+ 
+ 
+ 
+
+ 
+ Rilevata la necessità di adottare le regole tecniche previste dall'articolo 4, comma 1, del citato decreto, in sostituzione delle regole tecniche adottate con il decreto del Presidente della Repubblica 13 febbraio 2001, n. 123 e con il decreto del Ministro della Giustizia 17 luglio 2008;
+
+ 
+
+ 
+ Acquisito il parere espresso in data 15 luglio 2010 dal Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ Acquisito il parere espresso in data 20 luglio 2010 da DigitPA;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 25 novembre 2010 e quello espresso nell'adunanza del 20 dicembre 2010;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione al Presidente del Consiglio dei Ministri in data 18 gennaio 2011;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Ambito di applicazione
+
+ 
+ 
+ 1. Il presente decreto stabilisce le regole tecniche per l'adozione nel processo civile e nel processo penale delle tecnologie dell'informazione e della comunicazione ai sensi dell'articolo 4, comma 1, del decreto-legge 29 dicembre 2009, n. 193, convertito nella legge 22 febbraio 2010 n. 24, recante &laquo;Interventi urgenti in materia di funzionalità del sistema giudiziario&raquo; ed in attuazione del decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo; e successive modificazioni. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Note alle premesse: 
+ 
+
+ - Si riporta il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri.): 
+ 
+
+ &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.&raquo;. 
+ 
+
+ - Il testo dell'art. 4 del decreto-legge 29 dicembre 2009, n. 193, (Interventi urgenti in materia di funzionalità del sistema giudiziario), convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24 pubblicato nella Gazz. Uff. 30 dicembre 2009, n. 302 reca: 
+ 
+
+ &laquo;Art. 4 (Misure urgenti per la digitalizzazione della giustizia). - 1. Con uno o più decreti del Ministro della giustizia, di concerto con il Ministro per la pubblica amministrazione e l'innovazione, sentito il Centro nazionale per l'informatica nella pubblica amministrazione e il Garante per la protezione dei dati personali, adottati, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono individuate le regole tecniche per l'adozione nel processo civile e nel processo penale delle tecnologie dell'informazione e della comunicazione, in attuazione dei principi previsti dal decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Le vigenti regole tecniche del processo civile telematico continuano ad applicarsi fino alla data di entrata in vigore dei decreti di cui ai commi 1 e 2. 
+ 
+
+ 2. Nel processo civile e nel processo penale, tutte le comunicazioni e notificazioni per via telematica si effettuano mediante posta elettronica certificata, ai sensi del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, e delle regole tecniche stabilite con i decreti previsti dal comma 1. Fino alla data di entrata in vigore dei predetti decreti, le notificazioni e le comunicazioni sono effettuate nei modi e nelle forme previste dalle disposizioni vigenti alla data di entrata in vigore del presente decreto. 
+ 
+
+ 3. All'art. 51, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono apportate le seguenti modificazioni: 
+ 
+
+ a) i commi 1, 2 e 3 sono sostituiti dai seguenti: 
+ 
+
+ &laquo;1. A decorrere dal quindicesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana dei decreti di cui al comma 2, negli uffici giudiziari indicati negli stessi decreti, le notificazioni e le comunicazioni di cui al primo comma dell'art. 170 del codice di procedura civile, la notificazione di cui al primo comma dell'art. 192 del codice di procedura civile e ogni altra comunicazione al consulente sono effettuate per via telematica all'indirizzo di posta elettronica certificata di cui all'art. 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. Allo stesso modo si procede per le notificazioni e le comunicazioni previste dal regio decreto 16 marzo 1942, n. 267, e per le notificazioni a persona diversa dall'imputato a norma degli articoli 148, comma 2-bis, 149, 150 e 151, comma 2, del codice di procedura penale. La notificazione o comunicazione che contiene dati sensibili è effettuata solo per estratto con contestuale messa a disposizione, sul sito internet individuato dall'amministrazione, dell'atto integrale cui il destinatario accede mediante gli strumenti di cui all'art. 64 del decreto legislativo 7 marzo 2005, n. 82. 
+ 
+
+ 2. Con uno o più decreti aventi natura non regolamentare, da adottarsi entro il 1° settembre 2010, sentiti l'Avvocatura generale dello Stato, il Consiglio nazionale forense ed i consigli dell'ordine degli avvocati interessati, il Ministro della giustizia, previa verifica, accerta la funzionalità dei servizi di comunicazione, individuando gli uffici giudiziari nei quali trovano applicazione le disposizioni di cui al comma 1. 
+ 
+
+ 3. A decorrere dalla data fissata ai sensi del comma 1, le notificazioni e comunicazioni nel corso del procedimento alle parti che non hanno provveduto ad istituire e comunicare l'indirizzo elettronico di cui al medesimo comma, sono fatte presso la cancelleria o segreteria dell'ufficio giudiziario.&raquo;; 
+ 
+
+ 3-bis. Il secondo comma dell' art. 16 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, introdotto dal comma 5 dell' art. 51 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, è sostituito dal seguente: 
+ 
+
+ &laquo;Nell'albo è indicato, oltre al codice fiscale, l'indirizzo di posta elettronica certificata comunicato ai sensi dell' art. 16, comma 7, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. Gli indirizzi di posta elettronica certificata e i codici fiscali, aggiornati con cadenza giornaliera, sono resi disponibili per via telematica al Consiglio nazionale forense e al Ministero della giustizia nelle forme previste dalle regole tecniche per l'adozione nel processo civile e nel processo penale delle tecnologie dell'informazione e della comunicazione&raquo;. 
+ 
+
+ 4. All'art. 40 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, è aggiunto, in fine, il seguente comma: 
+ 
+
+ &laquo;1-bis. Con il decreto di cui al comma 1, l'importo del diritto di copia rilasciata su supporto cartaceo è fissato in misura superiore di almeno il cinquanta per cento di quello previsto per il rilascio di copia in formato elettronico.&raquo;. 
+ 
+
+ 5. Fino all'emanazione del regolamento di cui all'art. 40 del citato decreto del Presidente della Repubblica 30 maggio 2002, n. 115, i diritti di copia di cui agli Allegati n. 6 e n. 7 del medesimo decreto sono aumentati del cinquanta per cento ed i diritti di copia rilasciata in formato elettronico di atti esistenti nell'archivio informatico dell'ufficio giudiziario sono determinati, in ragione del numero delle pagine memorizzate, nella misura precedentemente fissata per le copie cartacee.
+ 
+
+ Conseguentemente, fino alla stessa data, è sospesa l'applicazione dell'Allegato n. 8 al medesimo decreto limitatamente ai supporti che contengono dati informatici per i quali è possibile calcolare le pagine memorizzate. 
+ 
+
+ 6. Il maggior gettito derivante dall'aumento dei diritti di cui ai commi 4 e 5 è versato all'entrata del bilancio dello Stato per essere riassegnato, per la quota parte eccedente rispetto a quanto previsto dall'art. 2, comma 2, lettera b), ad appositi capitoli dello stato di previsione del Ministero della giustizia per il funzionamento e lo sviluppo del sistema informatico, con esclusione delle spese di personale. 
+ 
+
+ 7. Il Ministero della giustizia può avvalersi di Consip S.p.a., anche in qualità di centrale di committenza ai sensi dell'art. 33 del decreto legislativo 12 aprile 2006, n. 163, per l'attuazione delle iniziative in tema di digitalizzazione dell'Amministrazione della giustizia e per le ulteriori attività di natura informatica individuate con decreto del Ministero della giustizia. Il Ministero della giustizia e Consip S.p.a. stipulano apposite convenzioni dirette a disciplinare i rapporti relativi alla realizzazione delle attività di cui al presente comma, d'intesa con il Ministero dell'economia e delle finanze ai fini dell'esercizio dei diritti dell'azionista, senza nuovi o maggiori oneri a carico del bilancio dello Stato. Le disposizioni del presente comma si applicano subordinatamente all'autorizzazione della Commissione europea, previa notifica da parte del Ministero della giustizia. 
+ 
+
+ 8. Al codice di procedura civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) all'art. 125, primo comma, sono aggiunte, in fine, le seguenti parole: &laquo;che indica il proprio codice fiscale&raquo;; 
+ 
+
+ b) all'art. 163, terzo comma, n. 2), le parole: &laquo;il cognome e la residenza dell'attore&raquo; sono sostituite dalle seguenti: &laquo;il cognome, la residenza e il codice fiscale dell'attore&raquo; e le parole: &laquo;il nome, il cognome, la residenza o il domicilio o la dimora del convenuto e delle persone che rispettivamente li rappresentano o li assistono&raquo; sono sostituite dalle seguenti: &laquo;il nome, il cognome, il codice fiscale, la residenza o il domicilio o la dimora del convenuto e delle persone che rispettivamente li rappresentano o li assistono&raquo;; 
+ 
+
+ c) all'art. 167, primo comma, dopo le parole: &laquo;Nella comparsa di risposta il convenuto deve proporre tutte le sue difese prendendo posizione sui fatti posti dall'attore a fondamento della domanda, indicare&raquo; sono inserite le seguenti: &laquo;le proprie generalità e il codice fiscale,&raquo;; 
+ 
+
+ d) dopo l'art. 149 è inserito il seguente: 
+ 
+
+ &laquo;Art. 149-bis (Notificazione a mezzo posta elettronica). - Se non è fatto espresso divieto dalla legge, la notificazione può eseguirsi a mezzo posta elettronica certificata, anche previa estrazione di copia informatica del documento cartaceo. 
+ 
+
+ Se procede ai sensi del primo comma, l'ufficiale giudiziario trasmette copia informatica dell'atto sottoscritta con firma digitale all'indirizzo di posta elettronica certificata del destinatario risultante da pubblici elenchi. 
+ 
+
+ La notifica si intende perfezionata nel momento in cui il gestore rende disponibile il documento informatico nella casella di posta elettronica certificata del destinatario. 
+ 
+
+ L'ufficiale giudiziario redige la relazione di cui all'art. 148, primo comma, su documento informatico separato, sottoscritto con firma digitale e congiunto all'atto cui si riferisce mediante strumenti informatici, individuati con apposito decreto del Ministero della giustizia. La relazione contiene le informazioni di cui all'art. 148, secondo comma, sostituito il luogo della consegna con l'indirizzo di posta elettronica presso il quale l'atto è stato inviato. 
+ 
+
+ Al documento informatico originale o alla copia informatica del documento cartaceo sono allegate, con le modalità previste dal quarto comma, le ricevute di invio e di consegna previste dalla normativa, anche regolamentare, concernente la trasmissione e la ricezione dei documenti informatici trasmessi in via telematica. 
+ 
+
+ Eseguita la notificazione, l'ufficiale giudiziario restituisce all'istante o al richiedente, anche per via telematica, l'atto notificato, unitamente alla relazione di notificazione e agli allegati previsti dal quinto comma.&raquo;; 
+ 
+
+ d-bis) all'art. 530 sono aggiunti, in fine, i seguenti commi: 
+ 
+
+ &laquo;Il giudice dell'esecuzione può stabilire che il versamento della cauzione, la presentazione delle offerte, lo svolgimento della gara tra gli offerenti e l'incanto, ai sensi degli articoli 532, 534 e 534-bis, nonchè il pagamento del prezzo, siano effettuati con modalità telematiche. 
+ 
+
+ In ogni caso il giudice dell'esecuzione può disporre che sia effettuata la pubblicità prevista dall'art. 490, secondo comma, almeno dieci giorni prima della scadenza del termine per la presentazione delle offerte o della data dell'incanto&raquo;; 
+ 
+
+ d-ter) all'art. 533, primo comma, il primo periodo è sostituito dal seguente: &laquo;Il commissionario assicura agli interessati la possibilità di esaminare, anche con modalità telematiche, le cose poste in vendita almeno tre giorni prima della data fissata per l'esperimento di vendita e non può consegnare la cosa all'acquirente prima del pagamento integrale del prezzo&raquo;; 
+ 
+
+ d-quater) il primo comma dell'art. 540 è abrogato; 
+ 
+
+ d-quinquies) all'art. 569, dopo il terzo comma è inserito il seguente: 
+ 
+
+ &laquo;Con la stessa ordinanza, il giudice può stabilire che il versamento della cauzione, la presentazione delle offerte, lo svolgimento della gara tra gli offerenti e, nei casi previsti, l'incanto, nonchè il pagamento del prezzo, siano effettuati con modalità telematiche&raquo;; 
+ 
+
+ d-sexies) all'art. 591-bis, primo comma, è aggiunto, in fine, il seguente periodo: &laquo;Si applica l'art. 569, quarto comma&raquo;. 
+ 
+
+ 8-bis. Alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, di cui al regio decreto 18 dicembre 1941, n. 1368, sono apportate le seguenti modificazioni: 
+ 
+
+ a) dopo l'art. 161-bis è inserito il seguente: 
+ 
+
+ &laquo;Art. 161-ter (Vendite con modalità telematiche). - Il Ministro della giustizia stabilisce con proprio decreto le regole tecnico-operative per lo svolgimento della vendita di beni mobili e immobili mediante gara telematica nei casi previsti dal codice, nel rispetto dei principi di competitività, trasparenza, semplificazione, efficacia, sicurezza, esattezza e regolarità delle procedure telematiche. 
+ 
+
+ Con successivi decreti le regole tecnico-operative di cui al primo comma sono adeguate all'evoluzione scientifica e tecnologica&raquo;; 
+ 
+
+ b) nel titolo IV, capo II, dopo l'art. 169-ter sono aggiunti i seguenti: 
+ 
+
+ &laquo;Art. 169-quater (Ulteriori modalità del pagamento del prezzo di acquisto). - Il prezzo di acquisto può essere versato con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nei circuiti bancario e postale. 
+ 
+
+ Art. 169-quinquies (Prospetto riepilogativo delle stime e delle vendite). - I soggetti nominati commissionari a norma dell'art. 532 del codice, o ai quali sono affidate le vendite con incanto a norma dell'art. 534 del medesimo codice, al termine di ciascun semestre trasmettono al giudice dell'esecuzione, al presidente del tribunale e all'ufficiale giudiziario dirigente un prospetto informativo, redatto su supporto informatico, riepilogativo di tutte le vendite effettuate nel periodo con indicazione, per ciascuna procedura esecutiva, della tipologia dei beni pignorati, del valore ad essi attribuito ai sensi dell'art. 518 del codice, della stima effettuata dall'esperto nominato e del prezzo di vendita&raquo;; 
+ 
+
+ c) l'art. 173-quinquies è sostituito dal seguente: 
+ 
+
+ &laquo;Art. 173-quinquies. (Ulteriori modalità di presentazione delle offerte d'acquisto, di prestazione della cauzione e di versamento del prezzo). - Il giudice, con l'ordinanza di vendita di cui all'art. 569, terzo comma, del codice, può disporre che la presentazione dell'offerta d'acquisto e la prestazione della cauzione ai sensi degli articoli 571, 579, 580 e 584 del medesimo codice possano avvenire con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nei circuiti bancario e postale e mediante la comunicazione, a mezzo di telefax o posta elettronica, di una dichiarazione contenente le indicazioni prescritte dai predetti articoli, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici teletrasmessi. 
+ 
+
+ Il versamento del prezzo può essere effettuato con le stesse modalità di cui al primo comma&raquo;. 
+ 
+
+ 8-ter. Il decreto del Ministro della giustizia che stabilisce le regole tecnico-operative per lo svolgimento delle vendite con modalità telematiche, previsto dall'art. 161-ter delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, di cui al regio decreto 18 dicembre 1941, n. 1368, introdotto dal comma 8-bis, lettera a), del presente articolo, è adottato entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. 
+ 
+
+ 9. Per consentire il pagamento, da parte dei privati, con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nei circuiti bancario e postale, del contributo unificato, del diritto di copia, del diritto di certificato, delle spettanze degli ufficiali giudiziari relative ad attività di notificazione ed esecuzione, delle somme per il recupero del patrocinio a spese dello Stato, delle spese processuali, delle spese di mantenimento, delle pene pecuniarie, delle sanzioni amministrative pecuniarie e delle sanzioni pecuniarie il Ministero della giustizia si avvale, senza nuovi o maggiori oneri a carico del bilancio dello Stato, di intermediari abilitati che, ricevuto il versamento delle somme, ne effettuano il riversamento alla Tesoreria dello Stato, registrando in apposito sistema informatico a disposizione dell'amministrazione i pagamenti eseguiti e la relativa causale, la corrispondenza di ciascun pagamento, i capitoli e gli articoli d'entrata. Entro 60 giorni dalla data di entrata in vigore del presente decreto il Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, determina con proprio decreto, sentito il Centro nazionale per l'informatica nella pubblica amministrazione, le modalità tecniche per il riversamento, la rendicontazione e l'interconnessione dei sistemi di pagamento, nonchè il modello di convenzione che l'intermediario abilitato deve sottoscrivere per effettuare servizio. Il Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze, stipula apposite convenzioni a seguito di procedura di gara ad evidenza pubblica per la fornitura dei servizi e delle infrastrutture senza nuovi o maggiori oneri a carico del bilancio dello Stato. Le convenzioni di cui al presente articolo prevedono che gli oneri derivanti dall'allestimento e dal funzionamento del sistema informatico sono a carico degli intermediari abilitati. 
+ 
+
+ 10. Il Ministro della giustizia è autorizzato ad adottare, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, un regolamento al fine di disciplinare la tipologia e le modalità di estrazione, raccolta e trasmissione dei dati statistici dell'Amministrazione della giustizia all'archivio informatico centralizzato esistente, senza nuovi o maggiori oneri a carico del bilancio dello Stato. 
+ 
+
+ 11. Si considerano in ogni caso necessarie, ai sensi dell' art. 34, comma 4, della legge 31 dicembre 2009, n. 196, le spese continuative relative alla gestione dei sistemi informatici del Ministero della giustizia, derivanti dall'adesione a contratti quadro stipulati dal Centro nazionale per l'informatica nella pubblica amministrazione.&raquo;. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005 n. 82 reca:
+ 
+
+ Codice dell'amministrazione digitale, Pubblicato nella Gazz. Uff. 16 maggio 2005, n. 112, S.O. 
+ 
+
+ - Il decreto legislativo 30 giugno 2003, n. 196, (Codice in materia di protezione dei dati personali), è pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.. 
+ 
+
+ - Gli articoli 16 e 16-bis del decreto legge 29 novembre 2008 n. 185, (Misure urgenti per il sostegno a famiglie, lavoro, occupazione e impresa e per ridisegnare in funzione anti-crisi il quadro strategico nazionale convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2 pubblicato sulla Gazzetta Ufficiale 29 novembre 2008, n. 280, S.O.) reca: 
+ 
+
+ &laquo;Art. 16(Riduzione dei costi amministrativi a carico delle imprese). - 1. All'art. 21 della legge 30 dicembre 1991, n. 413, sono apportate le seguenti modificazioni: 
+ 
+
+ a) alla fine del comma 9 è aggiunto il seguente periodo: &laquo;La mancata comunicazione del parere da parte dell'Agenzia delle entrate entro 120 giorni e dopo ulteriori 60 giorni dalla diffida ad adempiere da parte del contribuente equivale a silenzio assenso.&raquo;; 
+ 
+
+ b) il comma 10 è soppresso. 
+ 
+
+ 2. All'art. 37, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248 i commi da 33 a 37-ter sono abrogati. 
+ 
+
+ 3. All'art. 1, della legge 27 dicembre 2006, n. 296 i commi da 30 a 32 sono abrogati. 
+ 
+
+ 4. All'art. 1, della legge 24 dicembre 2007, n. 244, i commi da 363 a 366 sono abrogati. 
+ 
+
+ 5. Nell'art. 13 del decreto legislativo 18 dicembre 1997, n. 472 sono apportate le seguenti modificazioni: 
+ 
+
+ a) al comma 1, lettera a), le parole &laquo;un ottavo&raquo; sono sostituite dalle seguenti: &laquo;un dodicesimo&raquo;; 
+ 
+
+ b) al comma 1, lettera b), le parole &laquo;un quinto&raquo; sono sostituite dalle seguenti: &laquo;un decimo&raquo;; 
+ 
+
+ c) al comma 1, lettera c), le parole: &laquo;un ottavo&raquo;, ovunque ricorrono, sono sostituite dalle seguenti: &laquo;un dodicesimo&raquo;. 
+ 
+
+ 5-bis. La lettera h) del comma 4 dell'art. 50-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, si interpreta nel senso che le prestazioni di servizi ivi indicate, relative a beni consegnati al depositario, costituiscono ad ogni effetto introduzione nel deposito IVA. 
+ 
+
+ 6. Le imprese costituite in forma societaria sono tenute a indicare il proprio indirizzo di posta elettronica certificata nella domanda di iscrizione al registro delle imprese o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali. Entro tre anni dalla data di entrata in vigore del presente decreto tutte le imprese, già costituite in forma societaria alla medesima data di entrata in vigore, comunicano al registro delle imprese l'indirizzo di posta elettronica certificata. L'iscrizione dell'indirizzo di posta elettronica certificata nel registro delle imprese e le sue successive eventuali variazioni sono esenti dall'imposta di bollo e dai diritti di segreteria. 
+ 
+
+ 7. I professionisti iscritti in albi ed elenchi istituiti con legge dello Stato comunicano ai rispettivi ordini o collegi il proprio indirizzo di posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6 entro un anno dalla data di entrata in vigore del presente decreto. Gli ordini e i collegi pubblicano in un elenco riservato, consultabile in via telematica esclusivamente dalle pubbliche amministrazioni, i dati identificativi degli iscritti con il relativo indirizzo di posta elettronica certificata. 
+ 
+
+ 8. Le amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, qualora non abbiano provveduto ai sensi dell'art. 47, comma 3, lettera a), del Codice dell'Amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, istituiscono una casella di posta certificata o analogo indirizzo di posta elettronica di cui al comma 6 per ciascun registro di protocollo e ne danno comunicazione al Centro nazionale per l'informatica nella pubblica amministrazione, che provvede alla pubblicazione di tali caselle in un elenco consultabile per via telematica. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e si deve provvedere nell'ambito delle risorse disponibili. 
+ 
+
+ 9. Salvo quanto stabilito dall'art. 47, commi 1 e 2, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, le comunicazioni tra i soggetti di cui ai commi 6, 7 e 8 del presente articolo, che abbiano provveduto agli adempimenti ivi previsti, possono essere inviate attraverso la posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6, senza che il destinatario debba dichiarare la propria disponibilità ad accettarne l'utilizzo. 
+ 
+
+ 10. La consultazione per via telematica dei singoli indirizzi di posta elettronica certificata o analoghi indirizzi di posta elettronica di cui al comma 6 nel registro delle imprese o negli albi o elenchi costituiti ai sensi del presente articolo avviene liberamente e senza oneri. L'estrazione di elenchi di indirizzi è consentita alle sole pubbliche amministrazioni per le comunicazioni relative agli adempimenti amministrativi di loro competenza. 
+ 
+
+ 10-bis. Gli intermediari abilitati ai sensi dell'art. 31, comma 2-quater, della legge 24 novembre 2000, n. 340, sono obbligati a richiedere per via telematica la registrazione degli atti di trasferimento delle partecipazioni di cui all'articolo 36, comma 1-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonchè al contestuale pagamento telematico dell'imposta dagli stessi liquidata e sono altresì responsabili ai sensi dell'art. 57, commi 1 e 2, del testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131. In materia di imposta di bollo si applicano le disposizioni previste dall'art. 1, comma 1-bis.1, numero 3), della tariffa, parte prima, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta ufficiale n. 196 del 21 agosto 1992, e successive modificazioni. 
+ 
+
+ 10-ter. Con provvedimento del Direttore dell'Agenzia delle entrate sono stabiliti i termini e le modalità di esecuzione per via telematica degli adempimenti di cui al comma 10-bis. 
+ 
+
+ 11. Il comma 4 dell'art. 4 del regolamento di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, è abrogato. 
+ 
+
+ 12. I commi 4 e 5 dell'art. 23 del decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;, sono sostituiti dai seguenti: 
+ 
+
+ &laquo;4. Le copie su supporto informatico di qualsiasi tipologia di documenti analogici originali, formati in origine su supporto cartaceo o su altro supporto non informatico, sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata da chi lo detiene mediante l'utilizzo della propria firma digitale e nel rispetto delle regole tecniche di cui all'art. 71. 
+ 
+
+ 5. Con decreto del Presidente del Consiglio dei Ministri possono essere individuate particolari tipologie di documenti analogici originali unici per le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo della conservazione dell'originale analogico oppure, in caso di conservazione ottica sostitutiva, la loro conformità all'originale deve essere autenticata da un notaio o da altro pubblico ufficiale a ciò autorizzato con dichiarazione da questi firmata digitalmente ed allegata al documento informatico.&raquo;. 
+ 
+
+ 12-bis. Dopo l'art. 2215 del codice civile è inserito il seguente: &laquo;Art. 2215-bis. - (Documentazione informatica). - I libri, i repertori, le scritture e la documentazione la cui tenuta è obbligatoria per disposizione di legge o di regolamento o che sono richiesti dalla natura o dalle dimensioni dell'impresa possono essere formati e tenuti con strumenti informatici. 
+ 
+
+ Le registrazioni contenute nei documenti di cui al primo comma debbono essere rese consultabili in ogni momento con i mezzi messi a disposizione dal soggetto tenutario e costituiscono informazione primaria e originale da cui è possibile effettuare, su diversi tipi di supporto, riproduzioni e copie per gli usi consentiti dalla legge. 
+ 
+
+ Gli obblighi di numerazione progressiva, vidimazione e gli altri obblighi previsti dalle disposizioni di legge o di regolamento per la tenuta dei libri, repertori e scritture, ivi compreso quello di regolare tenuta dei medesimi, sono assolti, in caso di tenuta con strumenti informatici, mediante apposizione, ogni tre mesi a far data dalla messa in opera, della marcatura temporale e della firma digitale dell'imprenditore, o di altro soggetto dal medesimo delegato, inerenti al documento contenente le registrazioni relative ai tre mesi precedenti. 
+ 
+
+ Qualora per tre mesi non siano state eseguite registrazioni, la firma digitale e la marcatura temporale devono essere apposte all'atto di una nuova registrazione, e da tale apposizione decorre il periodo trimestrale di cui al terzo comma. 
+ 
+
+ I libri, i repertori e le scritture tenuti con strumenti informatici, secondo quanto previsto dal presente articolo, hanno l'efficacia probatoria di cui agli articoli 2709 e 2710 del codice civile.&raquo;. 
+ 
+
+ 12-ter. L'obbligo di bollatura dei documenti di cui all'art. 2215-bis del codice civile, introdotto dal comma 12-bis del presente articolo, in caso di tenuta con strumenti informatici, è assolto in base a quanto previsto all'art. 7 del decreto del Ministro dell'economia e delle finanze 23 gennaio 2004, pubblicato nella Gazzetta Ufficiale n. 27 del 3 febbraio 2004. 
+ 
+
+ 12-quater. All'art. 2470 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) al primo comma, le parole: &laquo;dell'iscrizione nel libro dei soci secondo quanto previsto nel&raquo; sono sostituite dalle seguenti: &laquo;del deposito di cui al&raquo;; 
+ 
+
+ b) al secondo comma, il secondo periodo è soppresso e, al terzo periodo, le parole: &laquo;e l'iscrizione sono effettuati&raquo; sono sostituite dalle seguenti: &laquo;è effettuato&raquo;; 
+ 
+
+ c) il settimo comma è sostituito dal seguente: 
+ 
+
+ &laquo;Le dichiarazioni degli amministratori previste dai commi quarto e quinto devono essere depositate entro trenta giorni dall'avvenuta variazione della compagine sociale&raquo;. 
+ 
+
+ 12-quinquies. Al primo comma dell'art. 2471 del codice civile, le parole: &laquo;Gli amministratori procedono senza indugio all'annotazione nel libro dei soci&raquo; sono soppresse. 
+ 
+
+ 12-sexies. Al primo comma dell'art. 2472 del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 12-septies. All'art. 2478 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) il numero 1) del primo comma è abrogato; 
+ 
+
+ b) al secondo comma, le parole: &laquo;I primi tre libri&raquo; sono sostituite dalle seguenti: &laquo;I libri indicati nei numeri 2) e 3) del primo comma&raquo; e le parole: &laquo;e il quarto&raquo; sono sostituite dalle seguenti: &laquo;; il libro indicato nel numero 4) del primo comma deve essere tenuto&raquo;. 
+ 
+
+ 12-octies. Al secondo comma dell'art. 2478-bis del codice civile, le parole: &laquo;devono essere depositati&raquo; sono sostituite dalle seguenti: &laquo;deve essere depositata&raquo; e le parole: &laquo;e l'elenco dei soci e degli altri titolari di diritti sulle partecipazioni sociali&raquo; sono soppresse. 
+ 
+
+ 12-novies. All'art. 2479-bis, primo comma, secondo periodo, del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 
+ 
+
+ 12-decies. Al comma 1-bis dell'art. 36 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, il secondo periodo è soppresso. 
+ 
+
+ 12-undecies. Le disposizioni di cui ai commi da 12-quater a 12-decies entrano in vigore il sessantesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Entro tale termine, gli amministratori delle società a responsabilità limitata depositano, con esenzione da ogni imposta e tassa, apposita dichiarazione per integrare le risultanze del registro delle imprese con quelle del libro dei soci.&raquo;. 
+ 
+
+ &laquo;Art. 16-bis (Misure di semplificazione per le famiglie e per le imprese). - 1. A decorrere dalla data di entrata in vigore del decreto di cui al comma 3 e secondo le modalità ivi previste, i cittadini comunicano il trasferimento della propria residenza e gli altri eventi anagrafici e di stato civile all'ufficio competente. Entro ventiquattro ore dalla conclusione del procedimento amministrativo anagrafico, l'ufficio di anagrafe trasmette le variazioni all'Indice nazionale delle anagrafi, di cui all'art. 1, quarto comma, della legge 24 dicembre 1954, n. 1228, e successive modificazioni, che provvede a renderle accessibili alle altre amministrazioni pubbliche. 
+ 
+
+ 2. La richiesta al cittadino di produrre dichiarazioni o documenti al di fuori di quelli indispensabili per la formazione e le annotazioni degli atti di stato civile e di anagrafe costituisce violazione dei doveri d'ufficio, ai fini della responsabilità disciplinare. 
+ 
+
+ 3. Con uno o più decreti del Ministro per la pubblica amministrazione e l'innovazione e del Ministro dell'interno, sentita la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, sono stabilite le modalità per l'attuazione del comma 1. 
+ 
+
+ 4. Dall'attuazione del comma 1 non devono derivare nuovi o maggiori oneri per la finanza pubblica. 
+ 
+
+ 5. Per favorire la realizzazione degli obiettivi di massima diffusione delle tecnologie telematiche nelle comunicazioni, previsti dal codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, ai cittadini che ne fanno richiesta è attribuita una casella di posta elettronica certificata o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali. L'utilizzo della posta elettronica certificata avviene ai sensi degli articoli 6 e 48 del citato codice di cui al decreto legislativo n. 82 del 2005, con effetto equivalente, ove necessario, alla notificazione per mezzo della posta. Le comunicazioni che transitano per la predetta casella di posta elettronica certificata sono senza oneri. 
+ 
+
+ 6. Per i medesimi fini di cui al comma 5, ogni amministrazione pubblica utilizza la posta elettronica certificata, ai sensi dei citati articoli 6 e 48 del codice di cui al decreto legislativo n. 82 del 2005 o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali, con effetto equivalente, ove necessario, alla notificazione per mezzo della posta, per le comunicazioni e le notificazioni aventi come destinatari dipendenti della stessa o di altra amministrazione pubblica. 
+ 
+
+ 7. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, previa intesa in sede di Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, sono definite le modalità di rilascio e di uso della casella di posta elettronica certificata assegnata ai cittadini ai sensi del comma 5 del presente articolo, con particolare riguardo alle categorie a rischio di esclusione ai sensi dell'art. 8 del citato codice di cui al decreto legislativo n. 82 del 2005, nonchè le modalità di attivazione del servizio mediante procedure di evidenza pubblica, anche utilizzando strumenti di finanza di progetto. Con il medesimo decreto sono stabilite le modalità di attuazione di quanto previsto nel comma 6, cui le amministrazioni pubbliche provvedono nell'ambito degli ordinari stanziamenti di bilancio. 
+ 
+
+ 8. Agli oneri derivanti dall'attuazione del comma 5 si provvede mediante l'utilizzo delle risorse finanziarie assegnate, ai sensi dell'art. 27 della legge 16 gennaio 2003, n. 3, al progetto "Fondo di garanzia per le piccole e medie imprese" con decreto dei Ministri delle attività produttive e per l'innovazione e le tecnologie 15 giugno 2004, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2004, non impegnate alla data di entrata in vigore della legge di conversione del presente decreto. 
+ 
+
+ 9. All'art. 1, comma 213, della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni: 
+ 
+
+ a) all'alinea sono aggiunte, in fine, le seguenti parole: &laquo;, in conformità a quanto previsto dagli standard del Sistema pubblico di connettività (SPC)&raquo;; 
+ 
+
+ b) dopo la lettera g) è aggiunta la seguente: 
+ 
+
+ &laquo;g-bis) le regole tecniche idonee a garantire l'attestazione della data, l'autenticità dell'origine e l'integrità del contenuto della fattura elettronica, di cui all'art. 21, comma 3, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, per ogni fine di legge&raquo;. 
+ 
+
+ 10. In attuazione dei principi stabiliti dall'art. 18, comma 2, della legge 7 agosto 1990, n. 241, e successive modificazioni, e dall'art. 43, comma 5, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, le stazioni appaltanti pubbliche acquisiscono d'ufficio, anche attraverso strumenti informatici, il documento unico di regolarità contributiva (DURC) dagli istituti o dagli enti abilitati al rilascio in tutti i casi in cui è richiesto dalla legge. 
+ 
+
+ 11. In deroga alla normativa vigente, per i datori di lavoro domestico gli obblighi di cui all'art. 9-bis del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, e successive modificazioni, si intendono assolti con la presentazione all'Istituto nazionale della previdenza sociale (INPS), attraverso modalità semplificate, della comunicazione di assunzione, cessazione, trasformazione e proroga del rapporto di lavoro. 
+ 
+
+ 12. L'INPS trasmette, in via informatica, le comunicazioni semplificate di cui al comma 11 ai servizi competenti, al Ministero del lavoro, della salute e delle politiche sociali, all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), nonchè alla prefettura-ufficio territoriale del Governo, nell'ambito del Sistema pubblico di connettività (SPC) e nel rispetto delle regole tecniche di sicurezza, di cui all'art. 71, comma 1-bis, del codice di cui al decreto legislativo 7 marzo 2005, n. 82, anche ai fini di quanto previsto dall'art. 4-bis, comma 6, del decreto legislativo 21 aprile 2000, n. 181, e successive modificazioni.&raquo;. 
+ 
+
+ - Il decreto del Presidente della Repubblica 13 febbraio 2001, n. 123, Regolamento recante disciplina sull'uso di strumenti informatici e telematici nel processo civile, nel processo amministrativo e nel processo dinanzi alle sezioni giurisdizionali della Corte dei conti.
+ 
+
+ Pubblicato nella Gazz. Uff. 17 aprile 2001, n. 89. 
+ 
+
+ - Il decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'art. 27 della legge n. 16 gennaio 2003, n. 3.
+ 
+
+ Pubblicato nella Gazz. Uff. 28 aprile 2005, n. 97. 
+ 
+
+ - Il Decreto del Ministro della Giustizia 17 luglio 2008, (Regole tecnico-operative per l'uso di strumenti informatici e telematici nel processo civile, in sostituzione del decreto del Ministro della giustizia 14 ottobre 2004) pubblicato nel supplemento ordinario n. 167 alla Gazzetta Ufficiale n. 272 del 19 novembre 2004 è pubblicato nella Gazz. Uff. 2 agosto 2008, n. 180, S.O. 
+ 
+
+ - Il decreto del presidente del Consiglio dei Ministri 6 maggio 2009, (Nuove regole procedurali relative alla tenuta dei registri informatizzati dell'amministrazione della giustizia) è pubblicato nella Gazz. Uff. 25 maggio 2009, n. 119. 
+ 
+
+ - Il decreto del Presidente della Repubblica 13 febbraio 2001, n. 123, (Regolamento recante disciplina sull'uso di strumenti informatici e telematici nel processo civile, nel processo amministrativo e nel processo dinanzi alle sezioni giurisdizionali della Corte dei conti) è pubblicato nella Gazz. Uff. 17 aprile 2001, n. 89. 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per il testo dell'art. 4, comma 1, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24 si veda nelle note alle premesse. 
+ 
+
+ - Per il decreto legislativo 7 marzo 2005, n. 82 si veda nelle note alle premesse.
