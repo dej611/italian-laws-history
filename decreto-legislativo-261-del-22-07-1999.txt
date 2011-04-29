@@ -140,7 +140,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) "rete postale pubblica": 
+ b) "rete postale 
+ ((...))
+
+ ": 
  
 
  l'insieme dell'organizzazione e dei mezzi di ogni tipo utilizzati dal fornitore del servizio universale che consentono in particolare: a) la raccolta, dai punti di accesso sull'insieme del territorio, degli invii postali coperti dall'obbligo di servizio universale b) il trasporto e il trattamento di tali invii dal punto di accesso alla rete postale fino al centro di distribuzione;
@@ -150,17 +153,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) la distribuzione all'indirizzo indicato sull'invio; 
  
 
- c) "punto di accesso": 
+ 
+ 
+ ((c) "punti di accesso": 
  
 
- ubicazioni fisiche comprendenti in particolare le cassette postali messe a disposizione del pubblico, o sulla via pubblica o nei locali del fornitore del servizio universale, dove gli invii postali sono depositati dai clienti nella rete postale pubblica; 
+ ubicazioni fisiche comprendenti in particolare gli uffici postali e le cassette postali messe a disposizione del pubblico, o sulla via pubblica o nei locali del fornitore del servizio universale o dei fornitori dei servizi postali dove gli invii postali possono essere depositati dai mittenti nella rete postale;))
  
+
+ 
+
+ 
+ ((
 
  
  d) "raccolta": 
  
 
- l'operazione di raccolta degli invii postali depositati nei punti di accesso; 
+ l'operazione di raccolta degli invii postali da parte di un fornitore di servizi postali;
+ 
+
+ ))
+
  
 
  
@@ -171,10 +185,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
  f) "invio postale": 
  
 
- l'invio al momento in cui viene preso in consegna dal fornitore del servizio universale; si tratta, oltre agli invii di corrispondenza, di libri, cataloghi, giornali, periodici e similari nonchè di pacchi postali contenenti merci con o senza valore commerciale; 
+ l'invio, nella forma definitiva al momento in cui viene preso in consegna dal fornitore di servizi postali; si tratta, oltre agli invii di corrispondenza, di libri, cataloghi, giornali, periodici e similari nonchè di pacchi postali contenenti merci con o senza valore commerciale;
+ 
+
+ ))
+
  
 
  
@@ -188,7 +209,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  h) "pubblicità diretta per corrispondenza": 
  
 
- comunicazione indirizzata ad un numero significativo di persone, definito ai sensi dell'articolo 2 comma 2, lettera p), consistente unicamente in materiale pubblicitario o di marketing, contenente lo stesso messaggio ad eccezione del nome, dell'indirizzo e del numero di identificazione del destinatario nonchè altre modifiche che non alterano la natura del messaggio, da inoltrare e consegnare all'indirizzo indicato dal mittente sull'invio stesso o sull'involucro. Avvisi, fatture, rendiconti finanziari e altre comunicazioni non identiche non sono considerati pubblicità diretta per corrispondenza. Una comunicazione contenente pubblicità e altro nello stesso involucro non è considerata pubblicità diretta per corrispondenza. Quest'ultima comprende la pubblicità transfrontaliera e quella interna; 
+ comunicazione indirizzata ad un numero significativo di persone, 
+ ((...))
+
+ consistente unicamente in materiale pubblicitario o di marketing, contenente lo stesso messaggio ad eccezione del nome, dell'indirizzo e del numero di identificazione del destinatario nonchè altre modifiche che non alterano la natura del messaggio, da inoltrare e consegnare all'indirizzo indicato dal mittente sull'invio stesso o sull'involucro. Avvisi, fatture, rendiconti finanziari e altre comunicazioni non identiche non sono considerati pubblicità diretta per corrispondenza. Una comunicazione contenente pubblicità e altro nello stesso involucro non è considerata pubblicità diretta per corrispondenza. Quest'ultima comprende la pubblicità transfrontaliera e quella interna; 
  
 
  
@@ -220,41 +244,47 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
  o) "fornitore del servizio universale": 
  
 
- l'organismo che fornisce l'intero servizio postale universale su tutto il territorio nazionale; 
+ il fornitore di un servizio postale, pubblico o privato, che fornisce un servizio postale universale sul territorio nazionale e la cui identità è stata notificata alla Commissione;
+ 
+
+ ))
+
  
 
  
- p) "prestatori del servizio universale": 
+ p) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 31 MARZO 2011, N. 58))
+
+ ; 
  
 
- i soggetti che forniscono prestazioni singole dei servizio universale; 
  
+ ((
 
  
  q) "autorizzazioni": 
  
 
- ogni permesso che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare e gestire reti postali per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di licenza individuale"' definite come segue: 
+ ogni titolo abilitativo che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare ovvero gestire le proprie reti per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di "licenza individuale", definite come segue: 
  
 
- 1) per "autorizzazione generale" si intende ogni autorizzazione che non richiede all'impresa interessata di ottenere una esplicita 
+ 1) "autorizzazione generale": ogni autorizzazione che non richiede al fornitore di un servizio postale interessato di ottenere una esplicita decisione da parte dell'amministrazione competente prima dell'esercizio dei diritti derivanti dall'autorizzazione, indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
  
 
- decisione da parte dell'Autorità di regolamentazione prima 
+ 2) "licenza individuale": ogni autorizzazione concessa dall'amministrazione competente, la quale conferisce diritti specifici ad un fornitore di servizi postali ovvero che assoggetta le operazioni di tale impresa ad obblighi specifici che integrano l'autorizzazione generale, qualora detto fornitore non possa esercitare i diritti di cui trattasi in assenza di previa decisione dell'amministrazione competente;
  
 
- dell'esercizio dei diritti derivanti dall'autorizzazione 
+ ))
+
  
 
- indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
  
-
- 2) per "licenza individuale" si intende ogni autorizzazione che richiede una previa decisione dell'Autorità di regolamentazione, con la quale sono conferiti diritti ed obblighi specifici ad un'impresa in relazione a prestazioni non riservate rientranti nel servizio universale; 
- 
-
  r) "spese terminali": 
  
 
@@ -264,83 +294,63 @@ IL PRESIDENTE DELLA REPUBBLICA
  da un paese terzo 
  
 
+ 
  s) "mittente": 
  
 
  la persona fisica o giuridica che è all'origine degli invii postali; 
  
 
+ 
  t) "utente": 
  
 
  qualunque persona fisica o giuridica che usufruisce di una prestazione del servizio universale in qualità di mittente o di destinatario; 
  
 
+ 
+ ((
+
+ 
  u) "esigenze essenziali": 
  
 
- le esigenze essenziali sono costituite dalla riservatezza della corrispondenza, dalla sicurezza dei funzionamento della rete in materia di trasporto di sostanze pericolose e, nei casi in cui sia giustificato, dalla protezione dei dati, dalla tutela dell'ambiente e dall'assetto territoriale la protezione dei dati comprende la protezione dei dati personali la riservatezza delle informazioni 
+ i motivi di interesse generale e di natura non economica che possono portare ad imporre condizioni in materia di fornitura di servizi postali, quali la riservatezza della corrispondenza, la sicurezza del funzionamento della rete in materia di trasporto di sostanze pericolose, il rispetto delle condizioni di lavoro e dei sistemi di sicurezza sociale previsti dalla legge, dai regolamenti o dalle disposizioni amministrative ovvero dagli accordi collettivi negoziati tra le parti sociali nazionali in conformità al diritto comunitario e nazionale e, nei casi in cui sia giustificato, la protezione dei dati, la tutela dell'ambiente e l'assetto territoriale; la protezione dei dati può comprendere la protezione dei dati personali, la riservatezza delle informazioni trasmesse o conservate, nonchè la tutela della vita privata;
  
 
- trasmesse o conservate nonchè la tutela della vita privata 
- 
-
- 
- 
+ ))
 
  
 
  
+ ((
 
+ 
+ u-bis) "fornitore di un servizio postale": 
+ 
+
+ l'impresa che fornisce uno o più servizi postali; 
  
 
  
- Avvertenza: Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. 
+ u-ter) "invii di posta massiva": 
  
 
- Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ invii non raccomandati o assicurati diversi dalla pubblicità diretta per corrispondenza consegnati in grandi quantità ai fornitori di servizi postali presso i punti di accesso individuati dai fornitori stessi; 
  
 
- Note alle premesse: 
+ 
+ u-quater) "Autorità nazionale di regolamentazione": 
  
 
- - L'art. 76 della Costituzione regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non può avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
+ l'organismo designato a svolgere le funzioni di regolamentazione del settore postale di cui alla direttiva 2008/6/CE, di seguito anche "autorità di regolamentazione"; 
  
 
- - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti. 
+ 
+ u-quinquies) "servizi forniti a tariffa unitaria": 
  
 
- - Si riporta il testo dell'art. 1 della legge 5 
+ servizi postali la cui tariffa è fissata per invii postali singoli.
  
 
- febbraio 1999, n. 25, e stralcio dal relativo allegato B: 
- 
-
- "Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo è delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. 
- 
-
- 2. I decreti legislativi sono adottati, nel rispetto dell'art. 14 della legge 23 agosto 1988, n. 400, su proposta del Presidente del Consiglio dei Ministri, o del Ministro competente per il coordinamento delle politiche comunitarie, e dei Ministri con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, di grazia e giustizia, del tesoro, del bilancio e della programmazione economica e con gli altri Ministri interessati in relazione 
- 
-
- all'oggetto della direttiva, se non proponenti. 
- 
-
- 3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, a seguito di deliberazione preliminare del Consiglio dei Ministri, sono trasmessi alla Camera dei deputati e al Senato della Repubblica perchè su di essi sia espresso, entro sessanta giorni dalla data di trasmissione, il parere delle commissioni competenti per materia; decorso tale termine i decreti sono emanati anche in mancanza di detto parere. Qualora il termine previsto per il parere delle commissioni scada nei trenta giorni che precedano la scadenza dei termini previsti al comma 1 o successivamente, questi ultimi sono prorogati di novanta giorni. 
- 
-
- 4. Entro due anni dalla data di entrata in vigore della presente legge, nel rispetto dei principi e criteri direttivi da essa fissati, il Governo può emanare, con la procedura indicata nei commi 2 e 3, disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1". 
- 
-
- "Allegato B 
- 
-
- (art. 1, commi 1 e 3) 
- 
-
- 97/67/CE: direttiva del Parlamento europeo e del Consiglio, del 15 dicembre 1997, concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e il miglioramento della qualità del servizio". 
- 
-
- - Il decreto-legge 1 dicembre 1993, n. 487, convertito, con modificazioni, dalla legge 29 gennaio 1994, n. 71, ha disposto la trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e la riorganizzazione del Ministero delle poste e delle 
- 
-
- telecomunicazioni (ora Ministero delle comunicazioni).
+ ))
