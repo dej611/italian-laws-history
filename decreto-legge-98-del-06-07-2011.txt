@@ -38,7 +38,16 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il trattamento economico omnicomprensivo annualmente corrisposto, in funzione della carica ricoperta o dell'incarico svolto, ai titolari di cariche elettive ed incarichi di vertice o quali componenti, comunque denominati, degli organismi, enti e istituzioni, anche collegiali, di cui all'allegato A, non può superare la media degli analoghi trattamenti economici percepiti annualmente dai titolari di omologhe cariche e incarichi negli altri Stati dell'Area Euro. Fermo il principio costituzionale di autonomia, per i componenti del Senato della Repubblica e della Camera dei deputati il costo relativo al trattamento economico omnicomprensivo annualmente corrisposto in funzione della carica ricoperta non può superare la media del costo relativo ai componenti dei Parlamenti nazionali. 
+ 1. Il trattamento economico omnicomprensivo annualmente corrisposto, in funzione della carica ricoperta o dell'incarico svolto, ai titolari di cariche elettive ed incarichi di vertice o quali componenti, comunque denominati, degli organismi, enti e istituzioni, anche collegiali, di cui all'allegato A, non può superare la media 
+ ((ponderata rispetto al PIL))
+
+ degli analoghi trattamenti economici percepiti annualmente dai titolari di omologhe cariche e incarichi negli altri 
+ ((sei principali))
+
+ Stati dell'Area Euro. Fermo il principio costituzionale di autonomia, per i componenti del Senato della Repubblica e della Camera dei deputati il costo relativo al trattamento economico omnicomprensivo annualmente corrisposto in funzione della carica ricoperta non può superare la media 
+ ((ponderata rispetto al PIL))
+
+ del costo relativo ai componenti dei Parlamenti nazionali. 
  
 
  
