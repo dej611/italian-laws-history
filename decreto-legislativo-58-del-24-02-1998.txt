@@ -156,6 +156,43 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ m-bis) 'OICR armonizzatì: gli OICR rientranti nell'ambito di applicazione della direttiva 2009/65/CE e delle relative disposizioni di attuazione; 
+ 
+
+ 
+ 
+
+ 
+ m-ter) 'OICR comunitarì: gli OICR costituiti in uno Stato dell'UE diverso dall'Italia; 
+ 
+
+ 
+ 
+
+ 
+ m-quater) 'OICR extracomunitarì: gli OICR costituiti in uno Stato non appartenente all'UE; 
+ 
+
+ 
+ 
+
+ 
+ m-quinquies) 'OICR feeder': l'OICR che investe le proprie attività totalmente o in prevalenza nell'OICR master; 
+ 
+
+ 
+ 
+
+ m-sexies) 'OICR master': l'OICR nel quale uno o più OICR feeder investono totalmente o in prevalenza le proprie attività;
+
+ ))
+
+ 
+
+ 
  n) "gestione collettiva del risparmio": il servizio che si realizza attraverso: 
  
 
@@ -166,6 +203,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((2-bis) la commercializzazione di quote o azioni di OICR propri;))
+
  
 
  
@@ -197,10 +236,52 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
+ ((
+
+ 
+ q-bis) 'gestore dell'OICR master': la società di gestione che svolge l'attività di gestione dell'OICR master o la SICAV master; 
  
 
  
+ 
+
+ 
+ q-ter) 'gestore dell'OICR feeder': la società di gestione che svolge l'attività di gestione dell'OICR feeder o la SICAV feeder; 
+ 
+
+ 
+ 
+
+ q-quater) 'depositario dell'OICR master o dell'OICR feeder': la banca depositaria dell'OICR master o dell'OICR feeder o, se l'OICR master o l'OICR feeder sono OICR comunitari o extracomunitari, il soggetto autorizzato nel Paese di origine a svolgere i compiti della banca depositaria;
+
+ ))
+
+ 
+
+ 
+ r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate 
+ ((con succursale in Italia))
+
+ , le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
+ 
+
+ 
+ 
+
+ 
+ ((
+
+ 
+ r-bis) 'Stato di origine della società di gestione armonizzatà: lo Stato dell'UE dove la società di gestione armonizzata ha la propria sede legale e direzione generale; 
+ 
+
+ 
+ 
+
+ r-ter) 'Stato di origine dell'OICR': Stato dell'UE in cui l'OICR è stato costituito;
+
+ ))
+
  
 
  
@@ -239,10 +320,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- w-bis) "prodotti finanziari emessi da imprese di assicurazione": le polizze e le operazioni di cui ai rami vita III e V di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 
- 
-
- 209, con esclusione delle forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), del decreto legislativo 5 dicembre 2005, n. 252; 
+ w-bis) "prodotti finanziari emessi da imprese di assicurazione": le polizze e le operazioni di cui ai rami vita III e V di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 209, con esclusione delle forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), del decreto legislativo 5 dicembre 2005, n. 252; 
  
 
  
@@ -446,18 +524,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
- 4. I mezzi di pagamento non sono strumenti finanziari. Sono strumenti finanziari ed, in particolare, contratti finanziari differenziali, i contratti di acquisto e vendita di valuta, estranei a transazioni commerciali e regolati per differenza, anche mediante operazioni di rinnovo automatico (c.d. "roll-over"). Sono altresì strumenti finanziari le ulteriori operazioni su valute individuate ai sensi dell'articolo 18, comma 5.
+ 4. I mezzi di pagamento non sono strumenti finanziari. Sono strumenti finanziari ed, in particolare, contratti finanziari differenziali, i contratti di acquisto e vendita di valuta, estranei a transazioni commerciali e regolati per differenza, anche mediante operazioni di rinnovo automatico (c.d. "roll-over"). Sono altresì strumenti finanziari le ulteriori operazioni su valute individuate ai sensi dell'articolo 18, comma 5. 
  
 
  
- ))
  
-
  
 
  
