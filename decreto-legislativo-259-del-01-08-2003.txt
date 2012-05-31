@@ -408,20 +408,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) abbonato: la persona fisica o giuridica che sia parte di un contratto con il fornitore di servizi di comunicazione elettronica accessibili al pubblico, per la fornitura di tali servizi; 
+ a) 
+ ((contraente))
+
+ : la persona fisica o giuridica che sia parte di un contratto con il fornitore di servizi di comunicazione elettronica accessibili al pubblico, per la fornitura di tali servizi; 
  
 
  
  
 
  
- b) accesso: il fatto di rendere accessibili risorse o servizi di un operatore a determinate condizioni, su base esclusiva o non esclusiva, per la fornitura di servizi di comunicazione elettronica; comprende, tra l'altro, l'accesso: agli elementi della rete e alle risorse correlate, che può comportare la connessione di apparecchiature con mezzi fissi o non fissi, ivi compreso in particolare l'accesso alla rete locale nonchè alle risorse e ai servizi necessari per fornire servizi tramite la rete locale; all'infrastruttura fisica, tra cui edifici, condotti e piloni; ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; 
- 
+ ((b) accesso: il fatto di rendere accessibili risorse o servizi ad un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della società dell'informazione o di servizi di radiodiffusione di contenuti. è compreso tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che può comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonchè alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'ordinazione preventiva, la fornitura, l'ordinazione, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale))
 
- ai servizi di traduzione del numero o a sistemi che svolgano funzioni analoghe; alle reti fisse e mobili, in particolare per il roaming tra operatori mobili; ai sistemi di accesso condizionato per i servizi di televisione digitale; ai servizi di rete privata virtuale; 
- 
-
- 
  
 
  
@@ -460,10 +458,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h) chiamata: la connessione istituita da un servizio telefonico accessibile al pubblico che consente la comunicazione bidirezionale in tempo reale; 
- 
+ ((h) chiamata: la connessione istituita da un servizio di comunicazione elettronica accessibile al pubblico che consente la comunicazione bidirezionale))
 
- 
  
 
  
@@ -474,7 +470,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- j) consumatore: la persona fisica che utilizza un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attività lavorativa, commerciale o professionale svolta; 
+ j) consumatore: 
+ ((l'utente finale,))
+
+ la persona fisica che utilizza 
+ ((o che chiede di utilizzare))
+
+ un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attività lavorativa, commerciale o professionale svolta; 
  
 
  
@@ -495,10 +497,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) interferenze dannose: interferenze che pregiudicano il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriorano gravemente, ostacolano o interrompono ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative comunitarie o nazionali applicabili; 
- 
+ ((
 
- 
+ n) interferenza dannosa: interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione europea o nazionali applicabili;
+
+ ))
+
  
 
  
@@ -516,31 +520,40 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q) mercati transnazionali: mercati individuati conformemente all'articolo 18, che comprendono l'Unione europea o un'importante parte di essa; 
+ ((
+
+ q) mercati transnazionali: mercati situati in più di uno Stato membro, individuati conformemente all'articolo 18, che comprendono l'Unione europea o una parte considerevole dei suoi Stati membri;
+
+ ))
+
+ 
+
+ 
+ r) Ministero: il 
+ ((Ministero dello sviluppo economico))
+
+ ; 
  
 
  
  
 
  
- r) Ministero: il Ministero delle comunicazioni; 
+ ((
+
+ s) numero geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete;
+
+ ))
+
  
 
  
- 
+ ((
 
- 
- s) numero geografico: qualsiasi numero del piano nazionale di numerazione nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete; 
- 
+ t) numero non geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica e che non sia un numero geografico; include tra l'altro i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo;
 
- 
- 
+ ))
 
- 
- t) numero non geografico: qualsiasi numero del piano nazionale di numerazione che non sia un numero geografico; include i numeri per servizi di comunicazioni mobili e personali assegnati agli operatori titolari di reti mobili, i numeri di chiamata gratuita e i numeri relativi ai servizi a tariffazione specifica; 
- 
-
- 
  
 
  
@@ -551,28 +564,37 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- v) punto terminale di rete: il punto fisico a partire dal quale l'abbonato ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete è definito mediante un indirizzo di rete specifico che può essere correlato ad un numero o ad un nome di utente finale. Per il servizio di comunicazioni mobili e personali il punto terminale di rete è costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio; 
+ ((
+
+ v) punto terminale di rete: il punto fisico a partire dal quale il contraente ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete è definito mediante un indirizzo di rete specifico che può essere correlato ad un numero di contraente o ad un nome di contraente; per il servizio di comunicazioni mobili e personali il punto terminale di rete è costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio;
+
+ ))
+
  
 
  
+ ((
+
+ z) rete locale: il circuito fisico che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica;
+
+ ))
+
  
 
  
- z) rete locale: il circuito fisico che collega il punto terminale della rete presso il domicilio dell'abbonato al permutatore o a un impianto equivalente nella rete telefonica fissa; 
+ ((
+
+ aa) rete pubblica di comunicazioni: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti;
+
+ ))
+
  
 
  
- 
+ bb) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 28 MAGGIO 2012, N. 70))
 
- 
- aa) rete pubblica di comunicazione: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico; 
- 
-
- 
- 
-
- 
- bb) rete telefonica pubblica: una rete di comunicazione elettronica utilizzata per fornire servizi telefonici accessibili al pubblico; la rete telefonica pubblica consente il trasferimento di comunicazioni vocali e altre forme di comunicazione, quali il facsimile e la trasmissione di dati, tra punti terminali di rete; 
+ ; 
  
 
  
@@ -586,17 +608,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse, a commutazione di circuito e a commutazione di pacchetto, compresa Internet, le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+ ((
+
+ dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato;
+
+ ))
+
  
 
  
- 
+ ((
 
- 
- ee) risorse correlate: le risorse correlate ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ivi compresi i sistemi di accesso condizionato e le guide elettroniche ai programmi; 
- 
+ ee) risorse correlate: i servizi correlati, le infrastrutture fisiche e le altre risorse o elementi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ovvero sono potenzialmente in grado di farlo, ivi compresi tra l'altro gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le guaine, i piloni, i pozzetti e gli armadi di distribuzione;
 
- 
+ ))
+
  
 
  
@@ -614,10 +640,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- hh) servizio telefonico accessibile al pubblico: un servizio accessibile al pubblico che consente di effettuare e ricevere chiamate nazionali ed internazionali e di accedere ai servizi di emergenza tramite uno o più numeri, che figurano in un piano nazionale o internazionale di numerazione, e che può inoltre, se necessario, includere uno o più dei seguenti servizi: l'assistenza di un operatore; servizi di elenco abbonati e consultazione; la fornitura di telefoni pubblici a pagamento; la fornitura del servizio a condizioni specifiche; la fornitura di apposite risorse per i consumatori disabili o con esigenze sociali particolari e la fornitura di servizi non geografici; 
- 
+ ((
 
- 
+ hh) servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o più numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale;
+
+ ))
+
  
 
  
@@ -670,313 +698,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
 
  
-
- 
-
- 
- Avvertenza:
- 
-
- Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
- 
-
- - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUCE).
- 
-
- 
- 
-
- Note alle premesse:
- 
-
- - Si riporta il testo degli articoli 76 e 87 della Costituzione:
- 
-
- &laquo;Art. 76. - L'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.&raquo;.
- 
-
- &laquo;Art. 87. - Il Presidente della Repubblica è il Capo dello Stato e rappresenta l'unità nazionale.
- 
-
- Può inviare messaggi alle Camere.
- 
-
- Indice le elezioni delle nuove Camere e ne fissa la prima riunione.
- 
-
- Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo.
- 
-
- Promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti.
- 
-
- Indice il referendum popolare nei casi previsti dalla Costituzione.
- 
-
- Nomina, nei casi indicati dalla legge, i funzionari dello Stato.
- 
-
- Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorra, l'autorizzazione delle Camere.
- 
-
- Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere.
- 
-
- Presiede il Consiglio superiore della magistratura.
- 
-
- Può concedere grazia e commutare le pene.
- 
-
- Conferisce le onorificenze della Repubblica.&raquo;.
- 
-
- - L'art. 41 della legge 1° agosto 2002, n. 166 recante: &laquo;Disposizioni in materia di infrastrutture e trasporti&raquo;, pubblicata nella Gazzetta Ufficiale n. 181 del 3 agosto 2002, supplemento ordinario n. 158, così recita:
- 
-
- &laquo;Art. 41 (Riassetto in materia di telecomunicazioni). - 1. Il Governo è delegato ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o più decreti legislativi, previa acquisizione dei pareri delle Commissioni parlamentari competenti, da rendersi entro quarantacinque giorni dal ricevimento della richiesta, per il riassetto delle disposizioni vigenti conseguenti al recepimento delle direttive 2002/19/CE, 2002/20/CE, 2002/21/CE e 2002/22/CE, del Parlamento europeo e del Consiglio, del 7 marzo 2002, nonchè delle altre approvate entro il termine di esercizio della delega, riguardanti:
- 
-
- a) l'istituzione di un quadro normativo comune per le reti ed i servizi di comunicazione elettronica;
- 
-
- b) le autorizzazioni per le reti e i servizi di comunicazione elettronica;
- 
-
- c) l'accesso alle reti di comunicazione elettronica e alle risorse correlate e l'interconnessione alle medesime;
- 
-
- d) il servizio universale;
- 
-
- e) i diritti degli utenti e la sicurezza dei dati personali nelle comunicazioni elettroniche.
- 
-
- 2. Nell'esercizio della delega di cui al comma 1, il Governo si attiene ai seguenti principi e criteri direttivi:
- 
-
- a) adozione di un codice delle disposizioni legislative e regolamentari in materia di telecomunicazioni, secondo i seguenti criteri:
- 
-
- 1) garanzia di accesso al mercato con criteri di obiettività, trasparenza, non discriminazione e proporzionalità;
- 
-
- 2) utilizzazione efficiente dello spettro radio, ferme restando le disposizioni vigenti in materia di radiodiffusione sonora e televisiva, anche attraverso l'attribuzione della facoltà di trasferimento del diritto d'uso delle radiofrequenze, previa notifica all'Autorità per le garanzie nelle comunicazioni e al Ministero delle comunicazioni, senza distorsioni della concorrenza;
- 
-
- 3) previsione di procedure tempestive, non discriminatorie e trasparenti per la concessione del diritto di installazione di infrastrutture e ricorso alla condivisione delle strutture, anche con riferimento, ove compatibili, ai principi della legge 21 dicembre 2001, n. 443;
- 
-
- 4) riduzione dei termini per la conclusione dei procedimenti amministrativi, nonchè regolazione uniforme dei medesimi procedimenti anche con riguardo a quelli relativi al rilascio di autorizzazioni per la installazione delle infrastrutture di reti mobili, in conformità ai principi di cui alla legge 7 agosto 1990, n. 241;
- 
-
- 5) interoperabilità dei servizi in tecnica digitale;
- 
-
- 6) affidamento all'Autorità per le garanzie nelle comunicazioni delle funzioni di vigilanza, controllo e garanzia sull'attuazione delle politiche di regolamentazione del Ministero delle comunicazioni, fatte salve le competenze di cui alla legge 31 luglio 1997, n. 249, e successive modificazioni, al decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, ed al decreto-legge 12 giugno 2001, n. 217, convertito, con modificazioni, dalla legge 3 agosto 2001, n. 317;
- 
-
- 7) disciplina flessibile dell'accesso e dell'interconnessione avendo riguardo alle singole tipologie di servizi, in modo da garantire concorrenza sostenibile, innovazione, interoperabilità dei servizi e vantaggi per i consumatori;
- 
-
- 8) garanzia della fornitura del servizio universale, senza distorsioni della concorrenza;
- 
-
- b) previsione, per le successive correzioni, modificazioni o integrazioni in futuro occorrenti, anche sulla base di direttive europee, dell'applicazione della procedura prevista dall'art. 17, comma 2, della legge 23 agosto 1988, n. 400, con il parere delle Commissioni parlamentari competenti per materia, secondo i medesimi criteri e principi direttivi stabiliti nel presente comma;
- 
-
- c) depenalizzazione delle fattispecie disciplinate dall'art. 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, di cui al decreto del Presidente della Repubblica 29 marzo 1973, n. 156, escluse quelle aventi ad oggetto impianti per la radiodiffusione sonora e televisiva, sulla base dei seguenti criteri e comunque con previsione di sanzioni pecuniarie di importo non inferiore a quello attualmente vigente:
- 
-
- 1) individuazione degli illeciti di natura amministrativa riguardanti la competenza del Ministero delle comunicazioni e dell'Autorità per le garanzie nelle comunicazioni;
- 
-
- 2) fissazione delle sanzioni amministrative da applicare per le singole fattispecie in equo rapporto alla gravità degli illeciti;
- 
-
- 3) determinazione delle modalità di accertamento degli illeciti;
- 
-
- 4) fissazione delle sanzioni amministrative per fattispecie costituenti contravvenzioni da 1.500 euro a 50.000 euro e per fattispecie costituenti delitti da 2.500 euro a 250.000 euro;
- 
-
- 5) previsione, nei casi più gravi, ovvero in ipotesi di reiterazione per più di due volte nel quinquennio di illeciti della medesima natura, della sanzione accessoria della sospensione da uno a sei mesi o della revoca della concessione, autorizzazione o licenza, nel rispetto del principio di proporzionalità;
- 
-
- d) espressa abrogazione di tutte le disposizioni incompatibili.&raquo;.
- 
-
- - La direttiva 2002/19/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002, relativa all'accesso alle reti di comunicazione elettronica e alle risorse correlate, e all'interconnessione delle medesime (direttiva accesso) è pubblicata nella Gazzetta ufficiale delle Comunità europee n. L 108 del 24 aprile 2002.
- 
-
- - La direttiva 2002/20/CE, del Parlamento europeo e del Consiglio, del 7 marzo 2002, relativa alle autorizzazioni per le reti e i servizi di comunicazione elettronica (direttiva autorizzazioni) è pubblicata nella Gazzetta ufficiale delle Comunità Europee n. L 108 del 24 aprile 2002.
- 
-
- - La direttiva 2002/21/CE, del Parlamento europeo e del Consiglio, del 7 marzo 2002, che istituisce un quadro normativo comune per le reti ed i servizi di comunicazione elettronica (direttiva quadro) è pubblicata nella Gazzetta ufficiale delle Comunità europee n. L 108 del 24 aprile 2002.
+ qq-bis) BEREC: Organismo dei regolatori europei delle comunicazioni elettroniche; 
  
 
- - La direttiva 2002/22/CE, del Parlamento europeo e del Consiglio, del 7 marzo 2002, relativa al servizio universale e ai diritti degli utenti in materia di reti e di servizi di comunicazione elettronica (direttiva servizio universale) è pubblicata nella Gazzetta ufficiale delle Comunità europee n. L 108 del 24 aprile 2002.
  
-
- - La direttiva 2002/77/CE, della Commissione, del 16 settembre 2002, relativa alla concorrenza nei mercati delle reti e dei servizi di comunicazione elettronica, è pubblicata nella Gazzetta ufficiale delle Comunità europee n. L 249 del 17 settembre 2002.
- 
-
- - La legge 5 giugno 1962, n. 616, reca: &laquo;Sicurezza della navigazione e della vita umana in mare&raquo; ed è pubblicata nella Gazzetta Ufficiale 5 luglio 1962, n. 168.
- 
-
- - La legge 11 febbraio 1971, n. 50, reca: &laquo;Norme sulla navigazione da diporto&raquo; ed è pubblicata nella Gazzetta Ufficiale 18 marzo 1971, n. 69.
- 
-
- - Il decreto del Presidente della Repubblica 29 marzo 1973, n. 156, reca: &laquo;Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni&raquo; ed è pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 3 maggio 1973, n. 113.
- 
-
- - La legge 21 giugno 1986, n. 317, reca &laquo;Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione in attuazione della direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998, modificata dalla direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998&raquo; ed è pubblicata nella Gazzetta Ufficiale 2 luglio 1986, n. 151.
- 
-
- - Il decreto legislativo 23 novembre 2000, n. 427, reca &laquo;Modifiche ed integrazioni alla legge 21 giugno 1986, n. 317, concernenti la procedura di informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione, in attuazione delle direttive 98/34/CE e 98/48/CE&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 19 del 24 gennaio 2001.
- 
-
- - Il decreto del Presidente della Repubblica 8 novembre 1991, n. 435, reca: &laquo;Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare&raquo; ed è pubblicato nella Gazzetta Ufficiale 22 gennaio 1992, n. 17, supplemento ordinario.
- 
-
- - Il decreto legislativo 9 febbraio 1993, n. 55 reca: &laquo;Attuazione della direttiva 90/387/CEE concernente istituzione del mercato interno per i servizi delle telecomunicazioni mediante la realizzazione della fornitura di una rete aperta di telecomunicazioni&raquo; ed è pubblicato nella Gazzetta Ufficiale 9 marzo 1993, n. 56.
- 
-
- - Il decreto legislativo 2 maggio 1994, n. 289 reca: &laquo;Attuazione della direttiva 92/44/CEE concernente l'applicazione della fornitura di una rete aperta di telecomunicazioni (Open Network Provision - ONP) alle linee affittate&raquo; ed è pubblicato nella Gazzetta Ufficiale 16 maggio 1994, n. 112.
- 
-
- - Il decreto legislativo 17 marzo 1995, n. 103, reca: &laquo;Recepimento della direttiva 90/388/CEE relativa alla concorrenza nei mercati dei servizi di telecomunicazioni&raquo; ed è pubblicato nella Gazzetta Ufficiale 6 aprile 1995, n. 81.
- 
-
- - Il decreto del Presidente della Repubblica 4 settembre 1995, n. 420, reca: &laquo;Regolamento recante determinazione delle caratteristiche e delle modalità di svolgimento dei servizi di telecomunicazioni di cui all'art. 2, comma 1, del decreto legislativo 17 marzo 1995, n. 103&raquo; ed è pubblicato nella Gazzetta Ufficiale 13 ottobre 1995, n. 240.
- 
-
- - Il decreto legislativo 11 febbraio 1997, n. 55, reca &laquo;Attuazione della direttiva 94/46/CE che modifica le direttive 88/301/CEE e 90/388/CEE nella parte relativa alle comunicazioni via satellite&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 60 del 13 marzo 1997.
- 
-
- - La legge 1° luglio 1997, n. 189, reca: &laquo;Conversione in legge, con modificazioni, del decreto-legge 1° maggio 1997, n. 115, recante disposizioni urgenti per il recepimento della direttiva 96/2/CE sulle comunicazioni mobili e personali&raquo; ed è pubblicata nella Gazzetta Ufficiale 1° luglio 1997, n. 151.
- 
-
- - La legge 31 luglio 1997, n. 249, reca &laquo;Istituzione dell'Autorità per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo&raquo; ed è pubblicata nella Gazzetta Ufficiale n. 177 del 31 luglio 1997, supplemento ordinario.
- 
-
- - Il decreto del Presidente della Repubblica 19 settembre 1997, n. 318, reca: &laquo;Regolamento per l'attuazione di direttive comunitarie nel settore delle telecomunicazioni&raquo; ed è pubblicato nella Gazzetta Ufficiale 22 settembre 1997, n. 221, supplemento ordinario.
- 
-
- - Il decreto legislativo 17 maggio 1999, n. 191, reca &laquo;Attuazione della direttiva 95/47/CE in materia di emissione di segnali televisivi&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 145 del 23 giugno 1999 (Rettifica Gazzetta Ufficiale n. 161 del 12 luglio 1999).
- 
-
- - Il decreto legislativo 15 novembre 2000, n. 373, reca &laquo;Attuazione della direttiva 98/84/CE sulla tutela dei servizi ad accesso condizionato e dei servizi di accesso condizionato&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 292 del 15 dicembre 2000.
- 
-
- - Il decreto legislativo 23 novembre 2000, n. 427, reca: &laquo;Modifiche ed integrazioni alla legge 21 giugno 1986, n. 317, concernenti la procedura di informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione, in attuazione delle direttive 98/34/CE e 98/48/CE&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 19 del 24 gennaio 2001.
- 
-
- - Il decreto del Presidente della Repubblica 11 gennaio 2001, n. 77, reca: &laquo;Regolamento di attuazione delle direttive 97/51/CE e 98/10/CE in materia di telecomunicazioni&raquo; ed è pubblicato nella Gazzetta Ufficiale 29 marzo 2001, n. 74.
- 
-
- - L'art. 2-bis, comma 10, della legge 20 marzo 2001, n. 66, recante &laquo;Conversione in legge, con modificazioni, del decreto-legge 23 gennaio 2001, n. 5, recante disposizioni urgenti per il differimento di termini in materia di trasmissioni radiotelevisive analogiche e digitali, nonchè per il risanamento di impianti radiotelevisivi&raquo; pubblicata nella Gazzetta Ufficiale n. 70 del 24 marzo 2001, così recita:
- 
-
- &laquo;2-bis (Trasmissioni radiotelevisive digitali su frequenze terrestri. Sistemi audiovisivi terrestri a larga banda). - (Omissis).
- 
-
- 10. All'art. 3, comma 11, della legge 31 luglio 1997, n. 249, le parole: &laquo;il Ministero delle comunicazioni adotta&raquo; sono sostituite dalle seguenti: &laquo;l'Autorità adotta&raquo;. Le autorizzazioni e le licenze di cui agli articoli 2, comma 13, e 4, commi 1 e 3, della legge 31 luglio 1997, n. 249, sono rilasciate dal Ministero delle comunicazioni che esercita la vigilanza e il controllo sull'assolvimento degli obblighi derivanti anche da quelle rilasciate dall'Autorità per le garanzie nelle comunicazioni.
- 
-
- (Omissis).&raquo;.
- 
-
- - Il decreto legislativo 9 maggio 2001, n. 269, reca: &laquo;Attuazione della direttiva 1999/5/CE riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 156 del 7 luglio 2001, supplemento ordinario n. 177.
- 
-
- - La legge 3 agosto 2001, n. 317, reca: &laquo;Conversione in legge, con modificazioni, del decreto-legge 12 giugno 2001, n. 217, recante modificazioni al decreto legislativo 30 luglio 1999, n. 300, nonchè alla legge 23 agosto 1988, n. 400, in materia di organizzazione del Governo&raquo; ed è pubblicata nella Gazzetta Ufficiale n. 181 del 6 agosto 2001.
  
 
- - La legge 23 maggio 1980, n. 313, reca: &laquo;Adesione alla convenzione internazionale del 1974 per la salvaguardia della vita umana in mare, con allegato, aperta alla firma a Londra il 1° novembre 1974, e sua esecuzione&raquo; è pubblicata nella Gazzetta Ufficiale 12 luglio 1980, n. 190, supplemento ordinario.
  
-
- - Il decreto del Presidente della Repubblica 5 ottobre 2001, n. 447, reca: &laquo;Regolamento recante disposizioni in materia di licenze individuali e di autorizzazioni generali per i servizi di telecomunicazione ad uso privato&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 300 del 28 dicembre 2001.
- 
-
- - Il decreto legislativo 4 marzo 2002, n. 21, reca: &laquo;Attuazione della direttiva 1999/64/CE, che modifica la direttiva 90/388/CEE, in materia di reti di telecomunicazioni e reti televisive via cavo&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 56 del 7 marzo 2002.
- 
-
- - La decisione n. 676/2002/CE del Parlamento europeo e del Consiglio del 7 marzo 2002, relativa ad un quadro normativo per la politica in materia di spettro radio nella Comunità europea (Decisione spettro radio); è pubblicata nella Gazzetta ufficiale delle Comunità europee n. L 108 del 24 aprile 2002.
- 
-
- - Il decreto ministeriale 8 luglio 2002 recante &laquo;approvazione del piano nazionale di ripartizione delle frequenze&raquo; è pubblicato nella Gazzetta Ufficiale 20 luglio 2002, n. 169, supplemento ordinario.
- 
-
- - Il decreto legislativo 4 settembre 2002, n. 198, reca: &laquo;Disposizioni volte ad accelerare la realizzazione delle infrastrutture di telecomunicazioni strategiche per la modernizzazione e lo sviluppo del Paese, a norma dell'art. 1, comma 2, della legge 21 dicembre 2001, n. 443&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 215 del 13 settembre 2002.
- 
-
- - La legge 27 dicembre 2002, n. 289, reca: &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2003)&raquo; ed è pubblicata nella Gazzetta Ufficiale n. 305 del 31 dicembre 2002, supplemento ordinario n. 240.
- 
-
- - L'art. 41 della legge 16 gennaio 2003, n. 3, recante: &laquo;Disposizioni ordinamentali in materia di pubblica amministrazione&raquo;, pubblicata nella Gazzetta Ufficiale n. 15 del 20 gennaio 2003, supplemento ordinario n. 5, così recita :
- 
-
- &laquo;Art. 41 (Tecnologie delle comunicazioni). - 1.
- 
-
- Nell'ambito dell'attività del Ministero delle comunicazioni nel campo dello sviluppo delle tecnologie delle comunicazioni e dell'informazione, nonchè della sicurezza delle reti e della tutela delle comunicazioni, l'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione, organo tecnico-scientifico del Ministero delle comunicazioni, continua a svolgere compiti di studio e ricerca scientifica, anche mediante convenzioni con enti ed istituti di ricerca specializzati nel settore delle poste e delle comunicazioni, di predisposizione della normativa tecnica, di certificazione e di omologazione di apparecchiature e sistemi, di formazione del personale del Ministero e di altre organizzazioni pubbliche e private sulla base dell'art. 12, comma 1, lettera b), del decreto-legge 1° dicembre 1993, n. 487, convertito, con modificazioni, dalla legge 29 gennaio 1994, n. 71. Presso l'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione opera la Scuola superiore di specializzazione in telecomunicazioni ai sensi del regio decreto 19 agosto 1923, n. 2483, e successive modificazioni.
- 
-
- 2. Per un efficace ed efficiente svolgimento dei compiti di cui al comma 1, all'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione è attribuita autonomia scientifica, organizzativa, amministrativa e contabile nei limiti stabiliti dalla legge. I finanziamenti che l'Istituto riceve per effettuare attività di ricerca sono versati all'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro dell'economia e delle finanze, allo stato di previsione del Ministero delle comunicazioni - centro di responsabilità amministrativa "Istituto superiore delle comunicazioni e delle tecnologie dell'informazione" e destinati all'espletamento delle attività di ricerca. L'Istituto è sottoposto al controllo della Corte dei conti, ai sensi dell'art. 3, comma 4, della legge 14 gennaio 1994, n. 20, e successive modificazioni, e al potere di indirizzo e vigilanza del Ministero delle comunicazioni.
- 
-
- 3. Dalla data di entrata in vigore della presente legge il Consiglio superiore tecnico delle poste e delle telecomunicazioni acquista la denominazione di Consiglio superiore delle comunicazioni ed assume tra le proprie attribuzioni quelle riconosciute in base all'art. 1, comma 24, della legge 31 luglio 1997, n. 249, al Forum permanente per le comunicazioni, che è conseguentemente soppresso e nella cui dotazione finanziaria il Consiglio succede. Trascorsi trenta giorni dalla data di entrata in vigore della presente legge, i componenti del Consiglio cessano dalla carica. Il Consiglio superiore delle comunicazioni è organo consultivo del Ministero delle comunicazioni con compiti di proposta nei settori di competenza del Ministero. Con regolamento da emanare entro quattro mesi dalla data di entrata in vigore della presente legge, su proposta del Ministro delle comunicazioni, di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, si provvede al riordinamento del Consiglio.
- 
-
- 4. Il Ministero delle comunicazioni, anche attraverso i propri organi periferici, esercita la vigilanza sui tetti di radiofrequenze compatibili con la salute umana anche a supporto degli organi indicati dall'art. 14 della legge 22 febbraio 2001, n. 36, ferme restando le competenze del Ministero della salute.
- 
-
- 5. La Fondazione Ugo Bordoni è riconosciuta istituzione privata di alta cultura ed è sottoposta alla vigilanza del Ministero delle comunicazioni. La Fondazione elabora e propone strategie di sviluppo del settore delle comunicazioni, da poter sostenere nelle sedi nazionali e internazionali competenti, coadiuva operativamente il Ministero delle comunicazioni nella soluzione organica ed interdisciplinare delle problematiche di carattere tecnico, economico, finanziario, gestionale, normativo e regolatorio connesse alle attività del Ministero. Al finanziamento della Fondazione lo Stato contribuisce mediante un contributo annuo per ciascuno degli anni 2002, 2003 e 2004 di 5.165.000 euro per spese di investimento relative alle attività di ricerca. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unità previsionale di base di conto capitale &laquo;Fondo speciale&raquo; dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle comunicazioni. Prosegue senza soluzione di continuità, rimanendo confermato, il regime convenzionale tra il Ministero delle comunicazioni e la Fondazione Ugo Bordoni, di cui all'atto stipulato in data 7 marzo 2001, recante la disciplina delle reciproche prestazioni relative alle attività di collaborazione e la regolazione dei conseguenti rapporti. Nell'interesse generale alla tutela dell'ambiente e della salute pubblica, la Fondazione Ugo Bordoni realizza altresì la rete di monitoraggio dei livelli di campo elettromagnetico a livello nazionale, a valere sui fondi di cui all'art. 112 della legge 23 dicembre 2000, n. 388, secondo le modalità stabilite da apposita convenzione.
- 
-
- 6. Lo statuto, l'organizzazione e i ruoli organici della Fondazione Ugo Bordoni sono ridefiniti in coerenza con le attività indicate al comma 5. I dipendenti della Fondazione risultanti in esubero in base alla nuova organizzazione, e comunque fino ad un massimo di ottanta unità, possono chiedere di essere immessi, anche in soprannumero, nel ruolo dell'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione e del Ministero delle comunicazioni, al quale accedono con procedure concorsuali, secondo criteri e modalità da definire con decreto del Ministro delle comunicazioni, di concerto con il Ministro per la funzione pubblica. Al loro inquadramento si provvede nei posti e con le qualifiche professionali analoghe a quelle rivestite. Al personale immesso compete il trattamento economico spettante agli appartenenti alla qualifica in cui ciascun dipendente è inquadrato, senza tenere conto dell'anzianità giuridica ed economica maturata con il precedente rapporto. Per le finalità di cui al presente comma, è autorizzata la spesa annua massima di 4.648.000 euro a decorrere dall'anno 2002, cui si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unità previsionale di base di parte corrente &laquo;Fondo speciale&raquo; dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle comunicazioni. I dipendenti che hanno presentato domanda di inquadramento possono essere mantenuti in servizio presso la Fondazione fino al completamento delle procedure concorsuali.
- 
-
- 7. Al fine di incentivare lo sviluppo della radiodiffusione televisiva in tecnica digitale su frequenze terrestri, in aggiunta a quanto già previsto dal decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, il Ministero delle comunicazioni promuove attività di sperimentazione di trasmissioni televisive digitali terrestri e di servizi interattivi, con particolare riguardo alle applicazioni di carattere innovativo nell'area dei servizi pubblici e dell'interazione tra i cittadini e le amministrazioni dello Stato, avvalendosi della riserva di frequenze di cui all'art. 2, comma 6, lettera d), della legge 31 luglio 1997, n. 249. Tali attività sono realizzate, sotto la vigilanza del Ministero delle comunicazioni e dell'Autorità per le garanzie nelle comunicazioni, con la supervisione tecnica della Fondazione Ugo Bordoni attraverso convenzioni da stipulare tra la medesima Fondazione e soggetti abilitati alla sperimentazione ai sensi del citato decreto-legge n. 5 del 2001, convertito, con modificazioni, dalla legge n. 66 del 2001, e della deliberazione n. 435/01/CONS dell'Autorità per le garanzie nelle comunicazioni del 15 novembre 2001, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 284 del 6 dicembre 2001, sulla base di progetti da questi presentati. Fino alla data di entrata in vigore del provvedimento previsto dall'art. 29 della citata deliberazione n. 435/01/CONS, per le predette attività di sperimentazione sono utilizzate, su base non interferenziale, le frequenze libere o disponibili.
- 
-
- 8. All'art. 2-bis, comma 10, del decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, dopo le parole: "sono rilasciate dal Ministero delle comunicazioni" sono aggiunte le seguenti: "che esercita la vigilanza e il controllo sull'assolvimento degli obblighi derivanti anche da quelle rilasciate dall'Autorità per le garanzie nelle comunicazioni".
- 
-
- 9. Le imprese di radiodiffusione sonora e televisiva in ambito locale che alla data di entrata in vigore della presente legge risultino debitrici per canoni di concessione per l'esercizio di attività di radiodiffusione dovuti fino al 31 dicembre 1999 possono definire la propria posizione debitoria, senza applicazione di interessi, mediante pagamento di quanto dovuto, da effettuarsi entro novanta giorni dalla comunicazione alle interessate da parte del Ministero delle comunicazioni, in un'unica soluzione se l'importo è inferiore ad euro 5.000, ovvero in un numero massimo di cinque rate mensili di ammontare non inferiore ad euro 2.000, con scadenza a partire dal trentesimo giorno successivo alla data di ricevimento della comunicazione, se l'importo è pari o superiore ad euro 5.000.&raquo;.
- 
-
- - La legge 8 luglio 2003, n. 172, reca: &laquo;Disposizioni per il riordino e il rilancio della nautica da diporto e del turismo nautico&raquo; è pubblicata nella Gazzetta Ufficiale 14 luglio 2003, n. 161.
- 
-
- - L'art. 8 del decreto legislativo 28 agosto 1997, n. 281, recante: &laquo;Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-città ed autonomie locali&raquo;, pubblicato nella Gazzetta Ufficiale 30 agosto 1997, n. 202, così recita:
- 
-
- &laquo;Art. 8 (Conferenza Stato-città ed autonomie locali e Conferenza unificata). - 1. La Conferenza Stato-città ed autonomie locali è unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunità montane, con la Conferenza Stato-regioni.
- 
-
- 2. La Conferenza Stato-città ed autonomie locali è presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali; ne fanno parte altresì il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanità, il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunità ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
- 
-
- Dei quattordici sindaci designati dall'ANCI cinque rappresentano le città individuate dall'art. 17 della legge 8 giugno 1990, n. 142. Alle riunioni possono essere invitati altri membri del Governo, nonchè rappresentanti di amministrazioni statali, locali o di enti pubblici.
- 
-
- 3. La Conferenza Stato-città ed autonomie locali è convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessità o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM.
+ qq-ter) attribuzione di spettro radio: la designazione di una determinata banda di frequenze destinata ad essere utilizzata da parte di uno o più tipi di servizi di radiocomunicazione, se del caso, alle condizioni specificate; 
  
 
- 4. La Conferenza unificata di cui al comma 1 è convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non è conferito, dal Ministro dell'interno.&raquo;.
  
-
- Nota all'art. 1:
- 
-
- - L'art. 2, comma 1, lettera a), del decreto legislativo 9 aprile 2003, n. 70, recante: &laquo;Attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della società dell'informazione, in particolare il commercio elettronico, nel mercato interno&raquo;, pubblicato nella Gazzetta Ufficiale n. 87 del 14 aprile 2003, supplemento ordinario n. 61, così recita :
  
 
- &laquo;Art. 2 (Definizioni). - 1. Ai fini del presente decreto si intende per:
- 
+ qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi tra l'altro i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi, nonchè altri servizi quali quelli relativi all'identità, alla posizione e alla presenza.
 
- a) "servizi della società dell'informazione": le attività economiche svolte in linea -on line- nonchè i servizi definiti dall'art. 1, comma 1, lettera b), della legge 21 giugno 1986, n. 317, e successive modificazioni;&raquo;.
+ ))
