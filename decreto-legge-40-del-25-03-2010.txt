@@ -51,7 +51,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Per contrastare l'evasione fiscale operata nella forma dei cosiddetti "caroselli" e "cartiere", anche in applicazione delle nuove regole europee sulla fatturazione elettronica, i soggetti passivi all'imposta sul valore aggiunto comunicano telematicamente all'Agenzia delle entrate, secondo modalità e termini definiti con decreto del Ministro dell'economia e delle finanze, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, tutte le cessioni di beni e le prestazioni di servizi effettuate e ricevute, registrate o soggette a registrazione, nei confronti di operatori economici aventi sede, residenza o domicilio in Paesi cosiddetti black list di cui al decreto del Ministro delle finanze in data 4 maggio 1999, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 107 del 10 maggio 1999 e al decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 273 del 23 novembre 2001. 
+ 1. Per contrastare l'evasione fiscale operata nella forma dei cosiddetti "caroselli" e "cartiere", anche in applicazione delle nuove regole europee sulla fatturazione elettronica, i soggetti passivi all'imposta sul valore aggiunto comunicano telematicamente all'Agenzia delle entrate, secondo modalità e termini definiti con decreto del Ministro dell'economia e delle finanze, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, tutte le cessioni di beni e le prestazioni di servizi 
+ ((di importo superiore a euro 500))
+
+ effettuate e ricevute, registrate o soggette a registrazione, nei confronti di operatori economici aventi sede, residenza o domicilio in Paesi cosiddetti black list di cui al decreto del Ministro delle finanze in data 4 maggio 1999, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 107 del 10 maggio 1999 e al decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 273 del 23 novembre 2001. 
  
 
  
@@ -94,9 +97,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  6. Al fine di contrastare fenomeni di utilizzo illegittimo dei crediti d'imposta e per accelerare le procedure di recupero nei casi di utilizzo illegittimo dei crediti d'imposta agevolativi la cui fruizione è autorizzata da amministrazioni ed enti pubblici, anche territoriali, l'Agenzia delle entrate trasmette a tali amministrazioni ed enti, tenuti al detto recupero, entro i termini e secondo le modalità telematiche stabiliti con provvedimenti dirigenziali generali adottati d'intesa, i dati relativi ai predetti crediti utilizzati in diminuzione delle imposte dovute, nonchè ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.
  
 
- Le somme recuperate sono riversate all'entrata del bilancio dello Stato e restano acquisite all'erario. Resta ferma l'alimentazione della contabilità speciale n. 1778 "Agenzia delle entrate-fondi di bilancio" da parte delle amministrazioni e degli enti pubblici gestori dei crediti d'imposta, sulla base degli stanziamenti previsti a legislazione vigente per le compensazioni esercitate dai contribuenti ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, attraverso i codici tributo appositamente istituiti. 
- ((9))
+ Le somme recuperate sono riversate all'entrata del bilancio dello Stato e restano acquisite all'erario. Resta ferma l'alimentazione della contabilità speciale n. 1778 "Agenzia delle entrate-fondi di bilancio" da parte delle amministrazioni e degli enti pubblici gestori dei crediti d'imposta, sulla base degli stanziamenti previsti a legislazione vigente per le compensazioni esercitate dai contribuenti ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, attraverso i codici tributo appositamente istituiti. (9) 
+ 
 
+ 
  
  
 
