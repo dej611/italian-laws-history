@@ -67,636 +67,234 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 1. Ai fini del presente decreto si intende per:
+ 1. Ai fini del presente decreto si intende per: 
  
 
  
  
 
  
- a) testo unico bancario, di seguito denominato TUB: il decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni;
+ a) testo unico bancario, di seguito denominato TUB: il decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni; 
  
 
  
  
 
  
- b) testo unico della finanza, di seguito denominato TUF: il decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni;
+ b) testo unico della finanza, di seguito denominato TUF: il decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni; 
  
 
  
  
 
  
- c) banca: l'impresa di cui all'articolo 1, comma 1, lettera b), del TUB;
+ c) banca: l'impresa di cui all' articolo 1, comma 1, lettera b), del TUB; 
  
 
  
  
 
  
- d) istituto di moneta elettronica, di seguito denominato IMEL: l'impresa di cui all'articolo 1, comma 2, lettera h-bis), del TUB;
+ d) istituto di moneta elettronica, di seguito denominato IMEL: l'impresa di cui all'articolo 1, comma 2, lettera h-bis), del TUB; 
  
 
  
  
 
  
- e) impresa di assicurazione: l'impresa autorizzata all'esercizio dell'attività assicurativa ai sensi dei decreti legislativi 17 marzo 1995, n. 174 e n. 175;
+ e) impresa di assicurazione: l' impresa autorizzata all' esercizio dell' attività assicurativa ai sensi 
+ ((dell'articolo 1, comma 1, lettera t), del codice delle assicurazioni private))
+
+ . 
  
 
  
  
 
  
- f) imprese di investimento: le imprese di cui all'articolo 1, comma 1, lettera h), del TUF;
+ f) imprese di investimento: le imprese di cui all'articolo 1, comma 1, lettera h), del TUF; 
  
 
  
  
 
  
- g) impresa regolamentata: una banca, un IMEL, un'impresa di assicurazione o un'impresa di investimento, autorizzati in Italia o in un altro Paese dell'Unione europea;
+ g) impresa regolamentata: una banca, un IMEL, un' impresa di assicurazione o un'impresa di investimento, autorizzati in Italia o in un altro Paese dell'Unione europea; 
  
 
  
  
 
  
- h) società di gestione patrimoniale: le società di gestione di cui all'articolo 1, comma 1, lettere o) e o-bis), del TUF;
+ h) società di gestione patrimoniale: le società di gestione di cui all'articolo 1, comma 1, lettere o) e o-bis), del TUF; 
  
 
  
  
 
  
- i) impresa di riassicurazione: un'impresa, come definita dall'articolo 1, lettera e), del decreto legislativo n. 239 del 17 aprile 2001;
+ i) impresa di riassicurazione: un' impresa, come definita 
+ ((dall' articolo 1, comma 1, lettera cc), del codice delle assicurazioni private))
+
+ ; 
  
 
  
  
 
  
- l) norme settoriali: il TUB, il TUF, le norme sulle assicurazioni e le relative disposizioni attuative;
+ l) norme settoriali: il TUB, il TUF,
+ ((il codice delle assicurazioni private))
+
+ ; 
  
 
  
  
 
  
- m) settore finanziario: il settore composto di una o più delle seguenti imprese:
+ m) settore finanziario: il settore composto di una o più delle seguenti imprese: 
  
 
- 1) una banca, un IMEL, un intermediario finanziario di cui agli articoli 106 o 107 del TUB o un'impresa di servizi bancari ausiliari di cui all'articolo 1, paragrafo 23, della direttiva 200/12/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000 (settore bancario);
+ 1) una banca, un IMEL, un intermediario finanziario di cui agli articoli 106 o 107 del TUB o un'impresa di servizi bancari ausiliari di cui all'articolo 1, paragrafo 23, della direttiva 200/12/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000 (settore bancario); 
  
 
- 2) un'impresa di assicurazione, un'impresa di riassicurazione o una società di partecipazione assicurativa (settore assicurativo);
+ 2) un'impresa di assicurazione, un' impresa di riassicurazione o una società di partecipazione assicurativa (settore assicurativo); 
  
 
- 3) un'impresa di investimento o un ente finanziario ai sensi dell'articolo 1, paragrafo 5, della direttiva 200/12/CE (settore servizi di investimento);
+ 3) un' impresa di investimento o un ente finanziario ai sensi dell'articolo 1, paragrafo 5, della direttiva 200/12/CE (settore servizi di investimento); 
  
 
- 4) una società di partecipazione finanziaria mista;
- 
-
- 
- 
-
- 
- n) conglomerato finanziario: un gruppo di imprese che soddisfi le condizioni di cui all'articolo 3;
+ 4) una società di partecipazione finanziaria mista; 
  
 
  
  
 
  
- o) settore finanziario di maggiori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, più elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente;
+ n) conglomerato finanziario: un gruppo di imprese che soddisfi le condizioni di cui all'articolo 3; 
  
 
  
  
 
  
- p) settore finanziario di minori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, meno elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente;
+ o) settore finanziario di maggiori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, più elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente; 
  
 
  
  
 
  
- q) impresa madre: l'impresa che controlla un'altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, e ogni impresa che eserciti un'influenza dominante su un'altra impresa ai sensi dell'articolo 23, comma 2, del TUB e dell'articolo 10, comma 2, della legge 9 gennaio 1991, n. 20;
+ p) settore finanziario di minori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, meno elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente; 
  
 
  
  
 
  
- r) impresa figlia: un'impresa soggetta al controllo di un'altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, nonchè ogni impresa su cui un'impresa madre eserciti un'influenza dominante ai sensi dell'articolo 23, comma 2, del TUB e dell'articolo 10, comma 2, della legge 9 gennaio 1991, n. 20; tutte le imprese figlie di imprese figlie sono parimenti considerate imprese figlie dell'impresa madre che è a capo di tali imprese;
+ q) impresa madre: l'impresa che controlla un' altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, e ogni impresa che eserciti un' influenza dominante su un' altra impresa ai sensi dell' articolo 23, comma 2, del TUB 
+ ((e dell'articolo 72, comma 2, del codice delle assicurazioni private))
+
+ ; 
  
 
  
  
 
  
- s) partecipazione: i diritti, rappresentati o meno da titoli, nel capitale di altre imprese, i quali, realizzando una situazione di legame durevole con esse, sono destinati a sviluppare l'attività del partecipante. Si ha comunque partecipazione quando un soggetto è, direttamente o tramite un legame di controllo, titolare di almeno il 20 per cento dei diritti di voto o del capitale di un'impresa;
+ r) impresa figlia: un' impresa soggetta al controllo di un' altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, nonchè ogni impresa su cui un'impresa madre eserciti un' influenza dominante ai sensi dell'articolo 23, comma 2, del TUB 
+ ((e dell' articolo 72, comma 2, del codice delle assicurazioni private))
+
+ ; tutte le imprese figlie di imprese figlie sono parimenti considerate imprese figlie dell' impresa madre che è a capo di tali imprese; 
  
 
  
  
 
  
- t) gruppo: un insieme di imprese composto dalla impresa madre, dalle imprese figlie e dalle società in cui l'impresa madre o le imprese figlie detengono una partecipazione, nonchè dalle imprese soggette a direzione unitaria in virtù di accordi o clausole statutarie e da quelle in cui gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone;
+ s) partecipazione: i diritti, rappresentati o meno da titoli, nel capitale di altre imprese, i quali, realizzando una situazione di legame durevole con esse, sono destinati a sviluppare l'attività del partecipante. Si ha comunque partecipazione quando un soggetto è, direttamente o tramite un legame di controllo, titolare di almeno il 20 per cento dei diritti di voto o del capitale di un'impresa; 
  
 
  
  
 
  
- u) stretti legami: i legami tra due o più persone fisiche o giuridiche consistenti in:
- 
-
- 1) una partecipazione, ossia il fatto di detenere direttamente, o tramite un legame di controllo, il 20 per cento o più dei diritti di voto o del capitale di un'impresa;
- 
-
- 2) un legame di controllo come definito dall'articolo 26 del decreto legislativo 9 aprile 1991, n. 127;
- 
-
- 3) una situazione nella quale due o più persone fisiche o giuridiche siano legate in modo duraturo a una stessa persona da un legame di controllo;
+ t) gruppo: un insieme di imprese composto dalla impresa madre, dalle imprese figlie e dalle società in cui l'impresa madre o le imprese figlie detengono una partecipazione, nonchè dalle imprese soggette a direzione unitaria in virtù di accordi o clausole statutarie e da quelle in cui gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone; 
  
 
  
  
 
  
- v) società di partecipazione finanziaria mista: un'impresa madre, diversa da un'impresa regolamentata, che insieme con le sue imprese figlie, di cui almeno una sia un'impresa regolamentata con sede principale nell'Unione europea, e con altre imprese costituisca un conglomerato finanziario;
+ u) stretti legami: i legami tra due o più persone fisiche o giuridiche consistenti in: 
+ 
+
+ 1) una partecipazione, ossia il fatto di detenere direttamente, o tramite un legame di controllo, il 20 per cento o più dei diritti di voto o del capitale di un'impresa; 
+ 
+
+ 2) un legame di controllo come definito dall'articolo 26 del decreto legislativo 9 aprile 1991, n. 127; 
+ 
+
+ 3) una situazione nella quale due o più persone fisiche o giuridiche siano legate in modo duraturo a una stessa persona da un legame di controllo; 
  
 
  
  
 
  
- z) autorità competenti: le autorità nazionali dei Paesi dell'Unione europea preposte, in forza di legge o regolamento, all'esercizio della vigilanza sulle banche, sugli IMEL, sulle imprese di assicurazione, sulle imprese di investimento, sia a livello di singola impresa che di gruppo;
+ v) società di partecipazione finanziaria mista: un' impresa madre, diversa da un'impresa regolamentata, che insieme con le sue imprese figlie, di cui almeno una sia un' impresa regolamentata con sede principale nell' Unione europea, e con altre imprese costituisca un conglomerato finanziario; 
  
 
  
  
 
  
- aa) autorità competenti rilevanti:
- 
-
- 1) le autorità competenti dei Paesi dell'Unione europea preposte all'esercizio della vigilanza settoriale a livello di gruppo su qualsiasi impresa regolamentata appartenente ad un conglomerato finanziario;
- 
-
- 2) il coordinatore se diverso dalle autorità di cui al numero 1;
- 
-
- 3) le altre autorità competenti interessate, se ritenuto necessario dalle autorità di cui ai numeri 1 e 2; queste ultime tengono conto, in particolare, della quota di mercato delle imprese regolamentate del conglomerato in altri Stati comunitari, specie se essa supera il 5 per cento, e dell'importanza all'interno del conglomerato di qualsiasi impresa regolamentata che abbia sede in un altro Stato membro;
+ z) autorità competenti: le autorità nazionali dei Paesi dell'Unione europea preposte, in forza di legge o regolamento, all' esercizio della vigilanza sulle banche, sugli IMEL, sulle imprese di assicurazione, sulle imprese di investimento, sia a livello di singola impresa che di gruppo; 
  
 
  
  
 
  
- bb) autorità di vigilanza italiane: le autorità di vigilanza italiane competenti sui settori bancario, assicurativo e dei servizi di investimento;
+ aa) autorità competenti rilevanti: 
+ 
+
+ 1) le autorità competenti dei Paesi dell' Unione europea preposte all' esercizio della vigilanza settoriale a livello di gruppo su qualsiasi impresa regolamentata appartenente ad un conglomerato finanziario; 
+ 
+
+ 2) il coordinatore se diverso dalle autorità di cui al numero 1; 3) le altre autorità competenti interessate, se ritenuto necessario dalle autorità di cui ai numeri 1 e 2; queste ultime tengono conto, in particolare, della quota di mercato delle imprese regolamentate del conglomerato in altri Stati comunitari, specie se essa supera il 5 per cento, e dell' importanza all'interno del conglomerato di qualsiasi impresa regolamentata che abbia sede in un altro Stato membro; 
  
 
  
  
 
  
- cc) operazioni intragruppo: tutte le operazioni in cui l'adempimento di un'obbligazione, contrattuale o di altra natura, dietro pagamento o a titolo gratuito, a favore delle imprese regolamentate appartenenti ad un conglomerato finanziario dipende, direttamente o indirettamente, da altre imprese dello stesso gruppo o da qualsiasi persona fisica o giuridica legata alle imprese appartenenti a quel gruppo da stretti legami;
+ bb) autorità di vigilanza italiane: le autorità di vigilanza italiane competenti sui settori bancario, assicurativo e dei servizi di investimento; 
  
 
  
  
 
  
- dd) concentrazione dei rischi: tutte le esposizioni con un rischio di perdita potenziale per le imprese appartenenti a uno stesso conglomerato finanziario, di portata tale da compromettere la solvibilità o la posizione finanziaria generale delle imprese regolamentate appartenenti al conglomerato; tali esposizioni possono essere dovute a rischio di credito/controparte, rischio di investimento, rischio assicurativo, rischio di mercato, altri rischi oppure ad una combinazione o interazione dei rischi precedenti;
+ cc) operazioni intragruppo: tutte le operazioni in cui l' adempimento di un'obbligazione, contrattuale o di altra natura, dietro pagamento o a titolo gratuito, a favore delle imprese regolamentate appartenenti ad un conglomerato finanziario dipende, direttamente o indirettamente, da altre imprese dello stesso gruppo o da qualsiasi persona fisica o giuridica legata alle imprese appartenenti a quel gruppo da stretti legami; 
  
 
  
  
 
  
- ee) requisiti di adeguatezza patrimoniale complessivi: l'ammontare minimo dei fondi propri di un'impresa regolamentata a fronte dei rischi complessivi della propria attività, calcolato per le singole imprese in base alle rispettive norme settoriali;
+ dd) concentrazione dei rischi: tutte le esposizioni con un rischio di perdita potenziale per le imprese appartenenti a uno stesso conglomerato finanziario, di portata tale da compromettere la solvibilità o la posizione finanziaria generale delle imprese regolamentate appartenenti al conglomerato; tali esposizioni possono essere dovute a rischio di credito/controparte, rischio di investimento, rischio assicurativo, rischio di mercato, altri rischi oppure ad una combinazione o interazione dei rischi precedenti; 
+ 
+
+ 
+ 
+
+ 
+ ee) requisiti di adeguatezza patrimoniale complessivi: l'ammontare minimo dei fondi propri di un' impresa regolamentata a fronte dei rischi complessivi della propria attività, calcolato per le singole imprese in base alle rispettive norme settoriali; 
  
 
  
  
 
  ff) vigilanza supplementare a livello di conglomerato: la vigilanza ulteriore, rispetto a quella prevista da ogni ordinamento nazionale di settore, che si effettua considerando unitariamente il conglomerato finanziario, ai fini stabiliti all'articolo 2, comma 1.
-
- 
-
- 
-
- 
-
- 
- Avvertenza:
- 
-
- 
- 
-
- Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
- 
-
- Per le direttive CEE vengono forniti gli, estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUCE).
- 
-
- 
- 
-
- Note alle premesse:
- 
-
- 
- 
-
- - L'art. 76 della Costituzione stabilisce che l'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
- 
-
- - L'art. 87 della Costituzione conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- 
-
- - Si riporta il testo dell'art. 1 e l'allegato B, della legge 31 ottobre 2003, n. 306, recante: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee. Legge comunitaria 2003":
- 
-
- "Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo è delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
- 
-
- 2. I decreti legislativi sono adottati, nel rispetto dell'art. 14 della legge 23 agosto 1988, n. 400, su proposta del Presidente del Consiglio dei Ministri o del Ministro per le politiche comunitarie e del Ministro con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e con gli altri Ministri interessati in relazione all'oggetto della direttiva.
- 
-
- 3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonchè, qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive elencate nell'allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perchè su di essi sia espresso, entro quaranta giorni dalla data di trasmissione, il parere dei competenti organi parlamentari. Decorso tale termine i decreti sono emanati anche in mancanza del parere. Qualora il termine previsto per il parere dei competenti organi parlamentari scada nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 4 o successivamente, questi ultimi sono prorogati di novanta giorni.
- 
-
- 4. Entro un anno dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, nel rispetto dei principi e criteri direttivi fissati dalla presente legge, il Governo può emanare, con la procedura indicata nei commi 2 e 3, disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1.
- 
-
- 5. In relazione a quanto disposto dall'art. 117, quinto comma, della Costituzione, i decreti legislativi eventualmente adottati nelle materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano entrano in vigore, per le regioni e le province autonome nelle quali non sia ancora in vigore la propria normativa di attuazione, alla data di scadenza del termine stabilito per l'attuazione della normativa comunitaria e perdono comunque efficacia a decorrere dalla data di entrata in vigore della normativa di attuazione adottata da ciascuna regione e provincia autonoma nel rispetto dei vincoli derivanti dall'ordinamento comunitario e dei principi fondamentali stabiliti dalla legislazione dello Stato.
- 
-
- 
- 
-
- Allegato B (art. 1, commi 1 e 3) 
- 
-
- 1996/61/CE del Consiglio, del 24 settembre 1996, sulla prevenzione e la riduzione integrate dell'inquinamento.
- 
-
- 1999/22/CE del Consiglio, del 29 marzo 1999, relativa alla custodia degli animali selvatici nei giardini zoologici.
- 
-
- 1999/63/CE del Consiglio, del 21 giugno 1999, relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare concluso dall'Associazione armatori della Comunità europea (ECSA) e dalla Federazione dei sindacati dei trasportatori dell'Unione europea (FST).
- 
-
- 2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000, che istituisce un quadro per l'azione comunitaria in materia di acque.
- 
-
- 2000/76/CE del Parlamento europeo e del Consiglio, del 4 dicembre 2000, sull'incenerimento dei rifiuti.
- 
-
- 2000/79/CE del Consiglio, del 27 novembre 2000, relativa all'attuazione dell'accordo europeo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile concluso da Association of European Airlines (AEA), European Transport Workers'Federation (ETF), European Cockpit Association (ECA), European Regions Airline Association (ERA) e International Air Carrier Association (IACA).
- 
-
- 2001/16/CE del Parlamento europeo e del Consiglio, del 19 marzo 2001, relativa all'interoperabilità del sistema ferroviario transeuropeo convenzionale.
- 
-
- 2001/86/CE del Consiglio, dell'8 ottobre 2001, che completa lo Statuto della Società europea per quanto riguarda il coinvolgimento dei lavoratori.
- 
-
- 2002/30/CE del Parlamento europeo e del Consiglio, del 26 marzo 2002, che istituisce norme e procedure per l'introduzione di restrizioni operative ai fini del contenimento del rumore negli aeroporti della Comunità.
- 
-
- 2002/44/CE del Parlamento europeo e del Consiglio, del 25 giugno 2002, sulle prescrizioni minime di sicurezza e di salute relative all'esposizione dei lavoratori ai rischi derivanti dagli agenti fisici (vibrazioni) (sedicesima direttiva particolare ai sensi dell'art. 16, paragrafo 1, della direttiva 89/391/CEE).
- 
-
- 2002/49/CE del Parlamento europeo e del Consiglio, del 25 giugno 2002, relativa alla determinazione e alla gestione del rumore ambientale.
- 
-
- 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, relativa al trattamento dei dati personali e alla tutela della vita privata nel settore delle comunicazioni elettroniche (direttiva relativa alla vita privata e alle comunicazioni elettroniche).
- 
-
- 2002/65/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, concernente la commercializzazione a distanza di servizi finanziari ai consumatori e che modifica la direttiva 90/619/CEE del Consiglio e le direttive 97 luglio CE e 98/27/CE.
- 
-
- 2002/73/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, che modifica la direttiva 76/207/CEE del Consiglio relativa all'attuazione del principio della parità di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro.
- 
-
- 2002/74/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, che modifica la direttiva 80/987/CEE del Consiglio concernente il ravvicinamento delle legislazioni degli Stati membri relative alla tutela dei lavoratori subordinati in caso di insolvenza del datore di lavoro.
- 
-
- 2002/84/CE del Parlamento europeo e del Consiglio, del 5 novembre 2002, che modifica le direttive in materia di sicurezza marittima e di prevenzione dell'inquinamento provocato dalle navi.
- 
-
- 2002/87/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002, relativa alla vigilanza supplementare sugli enti creditizi, sulle imprese di assicurazione e sulle imprese di investimento appartenenti ad un conglomerato finanziario e che modifica le direttive 73/239/CEE, 79/267/CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE e 93/22/CEE del Consiglio e le direttive 98/78/CE e 2000/12/CE del Parlamento europeo e del Consiglio.
- 
-
- 2002/89/CE del Consiglio, del 28 novembre 2002, che modifica la direttiva 2000/29/CE concernente le misure di protezione contro l'introduzione nella Comunità di organismi nocivi ai vegetali o ai prodotti vegetali e contro la loro diffusione nella Comunità.
- 
-
- 2002/90/CE del Consiglio, del 28 novembre 2002, volta a definire il favoreggiamento dell'ingresso, del transito e del soggiorno illegali.
- 
-
- 2002/92/CE del Parlamento europeo e del Consiglio, del 9 dicembre 2002, sulla intermediazione assicurativa.
- 
-
- 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche.
- 
-
- 2002/96/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE).
- 
-
- 2003/4/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, sull'accesso del pubblico all'informazione ambientale e che abroga la direttiva 90/313/CEE del Consiglio, del 7 giugno 1990.
- 
-
- 2003/6/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, relativa all'abuso di informazioni privilegiate e alla manipolazione del mercato (abusi di mercato).
- 
-
- 2003/17/CE del Parlamento europeo e del Consiglio, del 3 marzo 2003, che modifica la direttiva 98/70/CE relativa alla qualità della benzina e del combustibile diesel.
- 
-
- 2003/24/CE del Parlamento europeo e del Consiglio, del 14 aprile 2003, che modifica la direttiva 98/18/CE del Consiglio, del 17 marzo 1998, relativa alle disposizioni e norme di sicurezza per le navi da passeggeri.
- 
-
- 2003/25/CE del Parlamento europeo e del Consiglio, del 14 aprile 2003, concernente requisiti specifici di stabilità per le navi ro/ro da passeggeri.
- 
-
- 2003/33/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003, sul ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di pubblicità e di sponsorizzazione a favore dei prodotti del tabacco.
- 
-
- 2003/43/CE del Consiglio, del 26 maggio 2003, recante modifica della direttiva 88/407/CEE che stabilisce le esigenze di polizia sanitaria applicabili agli scambi intracomunitari e alle importazioni di sperma di animali della specie bovina.
- 
-
- 2003/44/CE del Parlamento europeo e del Consiglio, del 16 giugno 2003, che modifica la direttiva 94/25/CE sul ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri riguardanti le imbarcazioni da diporto.
- 
-
- 2003/50/CE del Consiglio, dell'11 giugno 2003, che modifica la direttiva 91/68/CEE per quanto riguarda il rafforzamento dei controlli sui movimenti di ovini e caprini.
- 
-
- La direttiva 2002/87/CE è pubblicata in GUCE n. L 35 del-l'11 febbraio 2003.
- 
-
- La direttiva 73/239/CEE è pubblicata in GUCE n. L 228 del 16 agosto 1973.
- 
-
- La direttiva 79/267/CEE è pubblicata in GUCE n. L 63 del 13 marzo 1979.
- 
-
- La direttiva 92/49/CEE è pubblicata in GUCE n. L 228 del-l'11 agosto 1992.
- 
-
- La direttiva 92/96/CEE è pubblicata in GUCE n. L 360 del 9 dicembre 1992.
- 
-
- La direttiva 93/6/CEE è pubblicata in GUCE n. L 141 del-l'11 giugno 1993.
- 
-
- La direttiva 93/22/CEE è pubblicata in GUCE n. L 141 del-l'11 giugno 1993.
- 
-
- La direttiva 98/78/CE è pubblicata in GUCE n. L 330 del 5 dicembre 1998.
- 
-
- La direttiva 2000/12/CE è pubblicata in GUCE n. L 126 del 26 maggio 2000".
- 
-
- 
- 
-
- Note all'art. 1:
- 
-
- - Si riporta il testo degli articoli 1, comma 1, lettera b), comma 2, lettera h-bis, 106, 107 e 23, comma 2, del decreto legislativo 1° settembre 1993, n. 385, recante: "Testo unico delle leggi in materia bancaria e creditizia":
- 
-
- "Art. 1 (Definizioni). - 1. Nel presente decreto legislativo l'espressione:
- 
-
- a) (omissis);
- 
-
- b) "banca" indica l'impresa autorizzata all'esercizio dell'attività bancaria;
- 
-
- (omissis).
- 
-
- 2. Nel presente decreto legislativo si intendono per:
- 
-
- (omissis);
- 
-
- h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica;
- 
-
- (Omissis)".
- 
-
- "Art. 106 (Elenco generale). - 1. L'esercizio nei confronti del pubblico delle attività di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi è riservato a intermediari finanziari iscritti in un apposito elenco tenuto dall'UIC.
- 
-
- 2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attività finanziarie, fatte salve le riserve di attività previste dalla legge.
- 
-
- 3. L'iscrizione nell'elenco è subordinata al ricorrere delle seguenti condizioni:
- 
-
- a) forma di società per azioni, di società in accomandita per azioni, di società a responsabilità limitata o di società cooperativa;
- 
-
- b) oggetto sociale conforme al disposto del comma 2;
- 
-
- c) capitale sociale versato non inferiore a cinque volte il capitale minimo previsto per la costituzione delle società per azioni;
- 
-
- d) possesso, da parte dei titolari di partecipazioni e degli esponenti aziendali, dei requisiti previsti dagli articoli 108 e 109;
- 
-
- 4. Il Ministro dell'economia e delle finanze, sentiti la Banca d'Italia e l'UIC:
- 
-
- a) specifica il contenuto delle attività indicate nel comma 1, nonchè in quali circostanze ricorra l'esercizio nei confronti del pubblico. Il credito al consumo si considera comunque esercitato nei confronti del pubblico anche quando sia limitato all'ambito dei soci;
- 
-
- b) per gli intermediari finanziari che svolgono determinati tipi di attività, può, in deroga a quanto previsto dal comma 3, vincolare la scelta della forma giuridica, consentire l'assunzione di altre forme giuridiche e stabilire diversi requisiti patrimoniali.
- 
-
- 5. L'UIC indica le modalità di iscrizione nell'elenco e dà comunicazione delle iscrizioni alla Banca d'Italia e alla CONSOB.
- 
-
- 6. Al fine di verificare il rispetto dei requisiti per l'iscrizione nell'elenco, l'UIC può chiedere agli intermediari finanziari dati, notizie, atti e documenti e, se necessario, può effettuare verifiche presso la sede degli intermediari stessi, anche con la collaborazione di altre autorità.
- 
-
- 7. I soggetti che svolgono funzioni di amminsitrazione, direzione e controllo presso gli intermediari finanziari comunicano all'UIC, con le modalità dallo stesso stabilite, le cariche analoghe ricoperte presso altre società ed enti di qualsiasi natura.
- 
-
- "Art. 107 (Elenco speciale). - 1. Il Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la CONSOB, determina criteri oggettivi, riferibili all'attività svolta, alla dimensione e al rapporto tra indebitamento e patrimonio, in base ai quali sono individuati gli intermediari finanziari che si devono iscrivere in un elenco speciale tenuto dalla Banca d'Italia.
- 
-
- 2. La Banca d'Italia, in conformità delle deliberazioni del CICR, detta agli intermediari iscritti nell'elenco speciale disposizioni aventi ad oggetto l'adeguatezza patrimoniale e il contenimento del rischio nelle sue diverse configurazioni nonchè l'organizzazione amministrativa e contabile e i controlli interni. La Banca d'Italia può adottare, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari per le materie in precedenza indicate. Con riferimento a determinati tipi di attività la Banca d'Italia può inoltre dettare disposizioni volte ad assicurarne il regolare esercizio.
- 
-
- 3. Gli intermediari inviano alla Banca d'Italia, con le modalità e nei termini da essa stabiliti, segnalazioni periodiche, nonchè ogni altro dato e documento richiesto.
- 
-
- 4. La Banca d'Italia può effettuare ispezioni con facoltà di richiedere l'esibizione di documenti e gli atti ritenuti necessari.
- 
-
- 4-bis. La Banca d'Italia può imporre agli intermediari il divieto di intraprendere nuove operazioni per violazione di norme di legge o di disposizioni emanate ai sensi del presente decreto.
- 
-
- 5. Gli intermediari finanziari iscritti nell'elenco speciale restano iscritti anche nell'elenco generale; a essi non si applicano i commi 6 e 7 dell'art. 106.
- 
-
- 6. Gli intermediari finanziari iscritti nell'elenco speciale, quando siano stati autorizzati all'esercizio dei servizi di investimento ovvero abbiano acquisito fondi con obbligo di rimborso per un ammontare superiore al patrimonio, sono assoggettati alle disposizioni previste nel titolo IV, capo I, sezioni I e III, nonchè all'art. 97-bis in quanto compatibile; in luogo degli articoli 86, commi 6 e 7, e 87, comma 1, si applica l'art. 57, commi 4 e 5; del decreto legislativo 24 febbraio 1998, n. 58.
- 
-
- 7. Agli intermediari iscritti nell'elenco previsto dal comma 1 che esercitano l'attività di concessione di finanziamenti sotto qualsiasi forma si applicano le disposizioni dell'art. 47".
- 
-
- "Art. 23 (Nozione di controllo). - 1. (Omissis).
- 
-
- 2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorchè ricorra una delle seguenti situazioni:
- 
-
- (Omissis)".
- 
-
- - Si riporta il testo dell'art. 1, comma 1, lettere h), o) e o-bis), del decreto legislativo 24 febbraio n. 1998, n. 58, recante: "Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52.".
- 
-
- "Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per:
- 
-
- (omissis);
- 
-
- h) "imprese di investimento": le SIM e le imprese di investimento comunitarie ed extracomunitarie;
- 
-
- (omissis);
- 
-
- o) "società di gestione dei risparmio" (SGR): la società per azioni con sede legale e Direzione generale in Italia autorizzata a prestare il servizio di gestione collettiva del risparmio;
- 
-
- o-bis) "società di gestione armonizzata": la società con sede legale e Direzione generale in uno Stato membro diverso dall'Italia, autorizzata ai sensi della direttiva in materia di organismi di investimento collettivo, a prestare il servizio di gestione collettiva dei risparmio;
- 
-
- (Omissis)".
- 
-
- - Il decreto legislativo 17 marzo 1995, n. 174, reca: "Attuazione della diretta 92/96/CEE in materia di assicurazione diretta sulla vita".
- 
-
- - Il decreto legislativo 17 marzo 1995, n. 175, reca: "Attuazione della diretta 92/49/CEE in materia di assicurazione diretta diversa dall'assicurazione sulla vita".
- 
-
- - Si riporta il testo dell'art. 1, lettera e) del decreto legislativo n. 239 del 17 aprile 2001 recante: "Attuazione della direttiva 98/78/CE relativa alla vigilanza supplementare sulle imprese di assicurazione appartenente ad un gruppo assicurativo".
- 
-
- "Art. 1 (Definizioni). - 1. Agli effetti del presente decreto si intende per:
- 
-
- (omissis);
- 
-
- e) impresa di riassicurazione: un'impresa, diversa da una impresa di assicurazione o da una impresa di assicurazione avente sede legale in uno Stato terzo, la cui attività principale consiste nell'accettare rischi ceduti da un'impresa di assicurazione, da una impresa di assicurazione avente sede legale in uno Stato terzo, o da altre imprese di riassicurazione;
- 
-
- (Omissis)".
- 
-
- - Per la direttiva 2001/12/CE vedi note alle premesse.
- 
-
- L'art. 1, paragrafo 23 e paragrafo 5, così recita:
- 
-
- "Art. 1. - Ai sensi della presente direttiva si intende per:
- 
-
- (omissis);
- 
-
- 5) "ente finanziario": un'impresa diversa da un ente creditizio la cui attività principale consiste nell'assunzione di partecipazioni o nell'esercizio di una o più delle attività di cui ai punti da 2 a 12 dell'elenco di cui all'allegato I;
- 
-
- (omissis);
- 
-
- 23) "impresa di servizi bancari ausiliari": un'impresa la cui attività principale consiste nell'amministrazione di immobili, nella gestione di servizi informatici, o in qualsivoglia altra attività affine di natura ausiliaria rispetto all'attività principale di uno o più enti creditizi;
- 
-
- (Omissis)".
- 
-
- - Si riporta il testo dell'art. 26, del decreto legislativo 9 aprile 1991, n. 127, recante: "Attuazione delle direttive n. 78/660/CEE e 83/349/CEE in materia societaria, relative ai conti annuali e consolidati, ai sensi dell'art. 1 comma 1, della legge 26 marzo 1990, n. 69". Pubblicato nella Gazzetta Ufficiale 17 aprile 1991, n. 90, supplemento ordinario.
- 
-
- "Art. 26 (Imprese controllate). - 1. Agli effetti dell'art. 25 sono considerate imprese controllate quelle indicate nei numeri 1) e 2) del primo comma dell'art. 2359 del codice civile.
- 
-
- 2. Agli stessi effetti sono in ogni caso considerate controllate:
- 
-
- a) le imprese su cui un'altra ha il diritto, in virtù di un contratto o di una clausola statutaria, di esercitare un'influenza dominante, quando la legge applicabile consenta tali contratti o clausole;
- 
-
- b) le imprese in cui un'altra, in base ad accordi con altre voci, controlla da sola la maggioranza dei diritti di voto.
- 
-
- 3. Ai fini dell'applicazione dei comma precedente si considerano anche i diritti spettanti a società controllate, a società fiduciarie e a persone interposte; non si considerano quelli spettanti per conto di terzi.".
- 
-
- - L'art. 23, comma 2, del TUB, così recita:
- 
-
- "Art. 23 (Nozione di controllo). - 1. (Omissis).
- 
-
- 2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria allorche ricorra una delle seguenti situazioni:
- 
-
- 1) esistenza di un soggetto che, sulla base di accordi, ha il diritto di nominare o revocare la maggioranza degli amministratori o del consiglio di sorveglianza ovvero dispone da solo della maggioranza dei voti ai fini delle deliberazioni relative alle materie di cui agli articoli 2364 e 2364-bis del codice civile;
- 
-
- 2) possesso di partecipazioni idonee a consentire la nomina o la revoca della maggioranza dei membri del consiglio di amministrazione o del consiglio di sorveglianza;
- 
-
- 3) sussistenza di rapporti, anche tra soci, di carattere finanziario ed organizzativo idonei a conseguire uno dei seguenti effetti:
- 
-
- a) la trasmissione degli utili o delle perdite;
- 
-
- b) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini dei perseguimento di uno scopo comune;
- 
-
- c) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle partecipazioni possedute;
- 
-
- d) l'attribuzione, a soggetti diversi da quelli legittimati in base alla titolarità delle partecipazioni, di poteri nella scelta degli amministratori o dei componenti del consiglio di sorveglianza o dei dirigenti delle imprese;
- 
-
- 4) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi".
- 
-
- - Si riporta il testo dell'articolo 10, comma 2, della legge 9 gennaio 1991, n. 20, recante: "Integrazioni e modifiche alla legge 12 agosto 1982, n. 576 e norme sul controllo delle partecipazioni di imprese o enti assicurativi e in imprese o enti assicurativi.".
- 
-
- "Art. 10 (Autorizzazioni all'assunzione di partecipazioni di controllo e di partecipazioni qualificate nel capitale di imprese di assicurazione). - 1. (Omissis)".
- 
-
- 2. Ai fini della presente legge una società si considera controllata nei casi previsti dall'art. 2359 del codice civile. Sono in ogni caso considerate controllate le società in cui un altro soggetto, in base ad accordi con altri soci, controlla da solo la maggioranza dei diritti di voto, ovvero ha il diritto di nominare o revocare la maggioranza degli amministratori. Costituisce sindacato di voto qualsiasi accordo tra i soci che regola l'esercizio del voto. Ogni accordo che regola l'esercizio del voto deve essere, entro quarantotto ore dalla data di stipulazione, comunicato all'ISVAP.
- 
-
- (Omissis)".

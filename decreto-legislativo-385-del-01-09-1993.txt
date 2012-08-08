@@ -142,35 +142,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
- h-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
- 
-
- 1) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
- 
-
- 2) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
- 
-
- 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
- 
-
- 4) "Comitato congiunto": il Comitato congiunto delle Autorità europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
- 
-
- 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
- 
-
- 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010;
- 
-
- ))
-
- 
-
- 
  i) "legge fallimentare" indica il regio decreto 16 marzo 1942, n. 267. 
  
 
@@ -252,7 +223,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) leasing finanziario; 
  
 
- 4) prestazione di servizi di pagamento come definiti dagli articoli 1, comma 1, lettera b), e 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 11. 
+ 
+ ((4) prestazione di servizi di pagamento come definiti dagli articoli 1, comma 1, lettera b), e 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 11.))
+
+ 
  
 
  5) emissione e gestione di mezzi di pagamento ("travellers cheques", lettere di credito), nella misura in cui quest'attività non rientra nel punto 4; 
@@ -343,16 +317,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
  h-ter) 'moneta elettronicà: il valore monetario memorizzato elettronicamente, ivi inclusa la memorizzazione magnetica, rappresentato da un credito nei confronti dell'emittente che sia emesso per effettuare operazioni di pagamento come definite all'articolo 1, comma 1, lettera c), del decreto legislativo 27 gennaio 2010, n. 11, e che sia accettato da persone fisiche e giuridiche diverse dall'emittente. Non costituisce moneta elettronica: 
  
 
  1) il valore monetario memorizzato sugli strumenti previsti dall'articolo 2, comma 2, lettera m), del decreto legislativo 27 gennaio 2010, n. 11; 
  
 
- 2) il valore monetario utilizzato per le operazioni di pagamento previste dall'articolo 2, comma 2, lettera n), del decreto legislativo 27 gennaio 2010, n. 11. 
+ 2) il valore monetario utilizzato per le operazioni di pagamento previste dall'articolo 2, comma 2, lettera n), del decreto legislativo 27 gennaio 2010, n. 11.
  
 
- 
+ ))
+
  
 
  
