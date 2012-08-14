@@ -93,35 +93,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
- d-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
- 
-
- 1) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
- 
-
- 2) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
- 
-
- 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
- 
-
- 4) "Comitato congiunto": il Comitato congiunto delle Autorità europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
- 
-
- 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
- 
-
- 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010;
- 
-
- ))
-
- 
-
- 
  e) "società di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del T.U. bancario, autorizzata a svolgere servizi o attività di investimento, avente sede legale e direzione generale in Italia; 
  
 
@@ -185,6 +156,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
  m-bis) 'OICR armonizzatì: gli OICR rientranti nell'ambito di applicazione della direttiva 2009/65/CE e delle relative disposizioni di attuazione; 
  
 
@@ -212,11 +186,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- m-sexies) 'OICR master': l'OICR nel quale uno o più OICR feeder investono totalmente o in prevalenza le proprie attività; 
- 
+ m-sexies) 'OICR master': l'OICR nel quale uno o più OICR feeder investono totalmente o in prevalenza le proprie attività;
 
- 
+ ))
+
  
 
  
@@ -229,10 +202,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) la gestione del patrimonio di OICR, di propria o altrui istituzione, mediante l'investimento avente ad oggetto strumenti finanziari, crediti, o altri beni mobili o immobili; 
  
 
- 2-bis) la commercializzazione di quote o azioni di OICR propri; 
  
+ ((2-bis) la commercializzazione di quote o azioni di OICR propri;))
 
- 
  
 
  
@@ -264,6 +236,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
  q-bis) 'gestore dell'OICR master': la società di gestione che svolge l'attività di gestione dell'OICR master o la SICAV master; 
  
 
@@ -277,19 +252,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ q-quater) 'depositario dell'OICR master o dell'OICR feeder': la banca depositaria dell'OICR master o dell'OICR feeder o, se l'OICR master o l'OICR feeder sono OICR comunitari o extracomunitari, il soggetto autorizzato nel Paese di origine a svolgere i compiti della banca depositaria;
+
+ ))
+
  
- q-quater) 'depositario dell'OICR master o dell'OICR feeder': la banca depositaria dell'OICR master o dell'OICR feeder o, se l'OICR master o l'OICR feeder sono OICR comunitari o extracomunitari, il soggetto autorizzato nel Paese di origine a svolgere i compiti della banca depositaria; 
+
+ 
+ r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate 
+ ((con succursale in Italia))
+
+ , le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
  
 
  
  
 
  
- r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate con succursale in Italia, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
- 
-
- 
- 
+ ((
 
  
  r-bis) 'Stato di origine della società di gestione armonizzatà: lo Stato dell'UE dove la società di gestione armonizzata ha la propria sede legale e direzione generale; 
@@ -298,11 +278,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- r-ter) 'Stato di origine dell'OICR': Stato dell'UE in cui l'OICR è stato costituito; 
- 
+ r-ter) 'Stato di origine dell'OICR': Stato dell'UE in cui l'OICR è stato costituito;
 
- 
+ ))
+
  
 
  
