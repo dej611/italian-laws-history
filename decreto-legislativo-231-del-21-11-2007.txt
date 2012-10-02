@@ -259,6 +259,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ g-bis) "Autorità di vigilanza europee" indica: 
+ 
+
+ 1) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 
+
+ 2) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 
+
+ 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010;
+ 
+
+ ))
+
+ 
+
+ 
  h) "Stato comunitario" indica lo Stato membro dell'Unione europea; 
  
 
@@ -303,10 +323,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  e) "cliente": il soggetto che instaura rapporti continuativi o compie operazioni con i destinatari indicati agli articoli 11 e 14, ovvero il soggetto al quale i destinatari indicati agli articoli 12 e 13 rendono una prestazione professionale in seguito al conferimento di un incarico; 
  
 
- 
- ((e-bis) "conti correnti di corrispondenza": conti tenuti dalle banche, tradizionalmente su base bilaterale, per il regolamento dei servizi interbancari (rimesse di effetti, assegni circolari e bancari, ordini di versamento, giri di fondi, rimesse documentate e altre operazioni);))
-
- 
+ e-bis) "conti correnti di corrispondenza": conti tenuti dalle banche, tradizionalmente su base bilaterale, per il regolamento dei servizi interbancari (rimesse di effetti, assegni circolari e bancari, ordini di versamento, giri di fondi, rimesse documentate e altre operazioni); 
  
 
  f) "conti di passaggio": rapporti bancari di corrispondenza transfrontalieri, intrattenuti tra intermediari finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela; 
@@ -327,19 +344,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  m) "operazione frazionata": un'operazione unitaria sotto il profilo economico, di valore pari o superiore ai limiti stabiliti dal presente decreto, posta in essere attraverso più operazioni, singolarmente inferiori ai predetti limiti, effettuate in momenti diversi ed in un circoscritto periodo di tempo fissato in sette giorni ferma restando la sussistenza dell'operazione frazionata quando ricorrano elementi per ritenerla tale; 
  
 
- n) 
- ((LETTERA SOPPRESSA DAL D.LGS. 25 SETTEMBRE 2009, N. 151))
-
- 
+ n) LETTERA SOPPRESSA DAL D.LGS. 25 SETTEMBRE 2009, N. 151; 
  
 
- o) "persone politicamente esposte": le persone fisiche 
- ((residenti in altri Stati comunitari o in Stati extracomunitari,))
-
- che occupano o hanno occupato importanti cariche pubbliche 
- ((,nonchè))
-
- i loro familiari diretti o coloro con i quali tali persone intrattengono notoriamente stretti legami, individuate sulla base dei criteri di cui all'allegato tecnico al presente decreto; 
+ o) "persone politicamente esposte": le persone fisiche residenti in altri Stati comunitari o in Stati extracomunitari, che occupano o hanno occupato importanti cariche pubbliche, nonchè i loro familiari diretti o coloro con i quali tali persone intrattengono notoriamente stretti legami, individuate sulla base dei criteri di cui all'allegato tecnico al presente decreto; 
  
 
  p) "prestatori di servizi relativi a società e trust": ogni persona fisica o giuridica che fornisca, a titolo professionale, uno dei servizi seguenti a terzi: 
@@ -372,10 +380,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  t) "registro della clientela": un registro cartaceo nel quale sono conservati i dati identificativi di cui alla lettera g), acquisiti nell'adempimento dell'obbligo di identificazione secondo le modalità previste nel presente decreto; 
  
 
- 
- ((u) titolare effettivo: la persona fisica per conto della quale è realizzata un'operazione o un'attività, ovvero, nel caso di entità giuridica, la persona o le persone fisiche che, in ultima istanza, possiedono o controllano tale entità, ovvero ne risultano beneficiari secondo i criteri di cui all'allegato tecnico al presente decreto;))
-
- 
+ u) titolare effettivo: la persona fisica per conto della quale è realizzata un'operazione o un'attività, ovvero, nel caso di entità giuridica, la persona o le persone fisiche che, in ultima istanza, possiedono o controllano tale entità, ovvero ne risultano beneficiari secondo i criteri di cui all'allegato tecnico al presente decreto; 
  
 
  v) "titolo al portatore": titolo di credito che legittima il possessore all'esercizio del diritto in esso menzionato in base alla mera presentazione e il cui trasferimento si opera con la consegna del titolo; 
