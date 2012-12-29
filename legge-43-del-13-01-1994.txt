@@ -18,7 +18,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
- 1. Le cambiali finanziarie sono titoli di credito all'ordine emessi in serie ed aventi una scadenza non inferiore a tre mesi e non superiore a dodici mesi dalla data di emissione. 
+ 1. Le cambiali finanziarie sono titoli di credito all'ordine emessi in serie 
+ ((ed aventi una scadenza non inferiore a un mese e non superiore a trentasei mesi dalla data di emissione))
+
+ . 
  
 
  
@@ -34,7 +37,62 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 3. L'emissione di cambiali finanziarie costituisce raccolta del risparmio ai sensi dell'articolo 11 del decreto legislativo 1° settembre 1993, n. 385, ed è disciplinata dalle disposizioni del medesimo articolo. 
+ 
+ ((
+ 
+
+ 
+ 
+ 
+ 2-bis. Le cambiali finanziarie possono essere emesse da società di capitali nonchè da società cooperative e mutue assicuratrici diverse dalle banche e dalle micro-imprese, come definite dalla raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003. Le società e gli enti non aventi titoli rappresentativi del capitale negoziati in mercati regolamentati o non regolamentati possono emettere cambiali finanziarie subordinatamente alla presenza dei seguenti requisiti: 
+ 
+
+ 
+ 
+
+ 
+ a) l'emissione deve essere assistita, in qualità di sponsor, da una banca o da un'impresa di investimento, da una società di gestione del risparmio (SGR), da una società di gestione armonizzata, da una società di investimento a capitale variabile (SICAV), purchè con succursale costituita nel territorio della Repubblica, che assiste l'emittente nella procedura di emissione dei titoli e lo supporta nella fase di collocamento dei titoli stessi; 
+ 
+
+ 
+ 
+
+ 
+ b) lo sponsor mantiene nel proprio portafoglio, fino alla naturale scadenza, una quota dei titoli emessi non inferiore: 
+ 
+
+ 1) al 5 per cento del valore di emissione dei titoli, per le emissioni fino a 5 milioni di euro; 
+ 
+
+ 2) al 3 per cento del valore di emissione dei titoli eccedente 5 milioni di euro, fino a 10 milioni di euro, in aggiunta alla quota risultante dall'applicazione della percentuale di cui al numero 1); 
+ 
+
+ 3) al 2 per cento del valore di emissione dei titoli eccedente 10 milioni di euro, in aggiunta alla quota risultante dall'applicazione delle percentuali di cui ai numeri 1) e 2); 
+ 
+
+ 
+ 
+
+ 
+ c) l'ultimo bilancio deve essere certificato da un revisore contabile o da una società di revisione iscritta nel registro dei revisori contabili; 
+ 
+
+ 
+ 
+
+ 
+ d) le cambiali finanziarie devono essere emesse e girate esclusivamente in favore di investitori professionali che non siano, direttamente o indirettamente, soci della società emittente; il collocamento presso investitori professionali in rapporto di controllo con il soggetto che assume il ruolo di sponsor è disciplinato dalle norme vigenti in materia di conflitti di interesse. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 2-ter. Lo sponsor deve segnalare, per ciascun emittente, se l'ammontare di cambiali finanziarie in circolazione è superiore al totale dell'attivo corrente, come rilevabile dall'ultimo bilancio approvato. Per attivo corrente si intende l'importo delle attività in bilancio con scadenza entro l'anno dalla data di riferimento del bilancio stesso. Nel caso in cui l'emittente sia tenuto alla redazione del bilancio consolidato o sia controllato da una società o da un ente a ciò tenuto, può essere considerato l'ammontare rilevabile dall'ultimo bilancio consolidato approvato. Lo sponsor classifica l'emittente al momento dell'emissione, distinguendo almeno cinque categorie di qualità creditizia dell'emittente, ottima, buona, soddisfacente, scarsa e negativa, da mettere in relazione, per le operazioni garantite, con i livelli di garanzia elevata, normale o bassa. Lo sponsor rende pubbliche le descrizioni della classificazione adottata. 
  
 
  
@@ -42,117 +100,26 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
+ 2-quater. In deroga a quanto previsto dal comma 2-bis, lettere a) e b), del presente articolo, le società diverse dalle medie e dalle piccole imprese, come definite dalla raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003, possono rinunciare alla nomina dello sponsor. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 2-quinquies. Si può derogare al requisito di cui al comma 2-bis, lettera b), qualora l'emissione sia assistita, in misura non inferiore al 25 per cento del valore di emissione, da garanzie prestate da una banca o da un'impresa di investimento, ovvero da un consorzio di garanzia collettiva dei fidi per le cambiali emesse da società aderenti al consorzio. 
+ 
 
  
  
  
 
  
- 
-
- AVVERTENZA:
- 
-
- Il testo delle note qui pubblicato è stato redatto ai
- 
-
- sensi dell'art. 10, commi 2 e 3, del testo unico delle
- 
-
- disposizioni sulla promulgazione delle leggi,
- 
-
- sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo
- 
-
- fine di facilitare la lettura delle disposizioni di legge
- 
-
- modificate o alle quali è operato il rinvio. Restano
- 
-
- invariati il valore e l'efficacia degli atti legislativi
- 
-
- qui trascritti.
+ 2-sexies. Per un periodo di diciotto mesi dalla data di entrata in vigore della disposizione di cui al comma 2-bis, lettera c), si può derogare all'obbligo, ivi previsto, di certificazione del bilancio, qualora l'emissione sia assistita, in misura non inferiore al 50 per cento del valore di emissione delle cambiali, da garanzie prestate da una banca o da un'impresa di investimento, ovvero da un consorzio di garanzia collettiva dei fidi per le cambiali emesse da società aderenti al consorzio. In tal caso la cambiale non può avere durata superiore al predetto periodo di diciotto mesi))
  
 
  
- 
 
  
- 
-
- Note all'art. 1: 
- 
-
- - Il testo dell'art. 100 del R.D. n. 1669/1993 (Modificazioni alle norme sulla cambiale e sul vaglia cambiario) è il seguente: 
- 
-
- "Art. 100. - Il vaglia cambiario contiene: 
- 
-
- 1) la denominazione del titolo inserita nel contesto ed espressa nella lingua in cui esso è redatto; 
- 
-
- 2) la promessa incondizionata di pagare una somma determinata; 
- 
-
- 3) l'indicazione della scadenza; 
- 
-
- 4) l'indicazione del luogo di pagamento; 
- 
-
- 5) il nome di colui al quale o all'ordine del quale deve farsi il pagamento; 
- 
-
- 6) l'indicazione della data e del luogo in cui il vaglia è emesso; 
- 
-
- 7) la sottoscrizione di colui che emette il titolo (emittente). 
- 
-
- Il vaglia cambiario può anche denominarsi 'pagherò cambiariò o 'cambialè". 
- 
-
- - Il testo dell'art. 11 del testo unico delle leggi in materia bancaria e creditizia, approvato con D.Lgs. n. 385/1993, è il seguente: 
- 
-
- "Art. 11 (Raccolta del risparmio). - 1. Ai fini del presente decreto legislativo è raccolta del risparmio l'acquisizione di fondi con obbligo di rimborso, sia sotto forma di depositi sia sotto altra forma. 
- 
-
- 2. La raccolta del risparmio tra il pubblico è vietata ai soggetti diversi dalle banche. 
- 
-
- 3. Il CICR stabilisce limiti e criteri, anche con riguardo all'attività e alla forma giuridica dei soggetti, in base ai quali non costituisce raccolta del risparmio tra il pubblico quella effettuata: 
- 
-
- a) presso soci e dipendenti; 
- 
-
- b) presso società controllanti, controllate o collegate ai sensi dell'art. 2359 del codice civile e presso controllate da una stessa controllante. 
- 
-
- 4. Il divieto del comma 2 non si applica: 
- 
-
- a) agli Stati comunitari, agli organismi internazionali ai quali aderiscono uno o più Stati comunitari, agli enti pubblici territoriali ai quali la raccolta del risparmio è consentita in base agli ordinamenti nazionali degli Stati comunitari; 
- 
-
- b) agli Stati extracomunitari e ai soggetti esteri abilitati da speciali disposizioni del diritto italiano; 
- 
-
- c) alle società per azioni e in accomandita per azioni per la raccolta effettuata, nei limiti previsti dal codice civile, mediante l'emissione di obbligazioni; 
- 
-
- d) alle società e agli enti con titoli negoziati in un mercato regolamentato per la raccolta effettuata, mediante titoli anche obbligazionari, nel rispetto dei limiti e dei criteri stabiliti dal CICR avendo riguardo anche all'attività dell'emittente a fini di tutela della riserva dell'attività bancaria stabilita dall'art. 10. Le disposizioni del CICR possono derogare ai limiti previsti dal primo comma dell'art. 2410 del codice civile. Il CICR, su proposta formulata dalla Banca d'Italia sentita la Consob, individua le caratteristiche, anche di durata e di taglio, dei titoli mediante i quali la raccolta può essere effettuata; 
- 
-
- e) alle imprese per la raccolta effettuata tramite banche ed enti sottoposti a forme di vigilanza prudenziale che esercitano attività assicurativa o finanziaria, nel rispetto dei limiti e dei criteri stabiliti dal CICR, anche con riguardo all'attività svolta dall'emittente. Il CICR individua le categorie di enti finanziari tramite i quali la raccolta può essere effettuata; 
- 
-
- f) agli enti sottoposti a forme di vigilanza prudenziale che svolgono attività assicurativa o finanziaria, per la raccolta a essi specificamente consentita da disposizioni di legge. 
- 
-
- 5. Nei casi previsti dal comma 4, lettere c), d), e) e f) sono comunque precluse la raccolta di fondi a vista e ogni forma di raccolta collegata all'emissione o alla gestione di mezzi di pagamento".
+ 3. L'emissione di cambiali finanziarie costituisce raccolta del risparmio ai sensi dell'articolo 11 del decreto legislativo 1° settembre 1993, n. 385, ed è disciplinata dalle disposizioni del medesimo articolo.
