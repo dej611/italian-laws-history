@@ -23,14 +23,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dello sviluppo economico e delle infrastrutture e dei trasporti, di concerto con i Ministri dell'istruzione, dell'università e della ricerca, per la pubblica amministrazione e la semplificazione, della salute, dell'economia e delle finanze, per la coesione territoriale e della giustizia;
+ Sulla
 
- 
-
- Emana
-
- il seguente decreto-legge:
+ proposta del Presidente del Consiglio dei Ministri e del Ministro dello sviluppo economico e delle infrastrutture e dei trasporti, di concerto con i Ministri dell'istruzione, dell'università e della ricerca, per la pubblica amministrazione e la semplificazione, della salute, dell'economia e delle finanze, per la coesione territoriale e della giustizia; Emana il seguente decreto-legge:
 
  Art. 1
 
@@ -38,7 +33,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Lo Stato promuove lo sviluppo dell'economia e della cultura digitali, definisce politiche di incentivo alla domanda di servizi digitali e favorisce l'alfabetizzazione informatica, nonchè la ricerca e l'innovazione tecnologiche, quali fattori essenziali di progresso e opportunità di arricchimento economico, culturale e civile. Entro 60 giorni dalla data di entrata in vigore della legge di conversione del decreto e successivamente entro il 30 giugno di ogni anno il Governo, anche avvalendosi dell'Agenzia per l'Italia digitale di cui al decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, presenta alle Commissioni parlamentari competenti una relazione che evidenzia lo stato di attuazione dell'articolo 47 del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35. 
+ 1. 
+ ((Lo Stato, nel rispetto del principio di leale collaborazione con le autonomie regionali, promuove lo sviluppo dell'economia e della cultura digitali, definisce le politiche di incentivo alla domanda dei servizi digitali e favorisce, tramite azioni concrete, l'alfabetizzazione e lo sviluppo delle competenze digitali con particolare riguardo alle categorie a rischio di esclusione, nonchè la ricerca e l'innovazione tecnologica quali fattori essenziali di progresso e opportunità di arricchimento economico, culturale e civile))
+
+ . Entro 60 giorni dalla data di entrata in vigore della legge di conversione del decreto e successivamente entro il 30 giugno di ogni anno il Governo, anche avvalendosi dell'Agenzia per l'Italia digitale di cui al decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, presenta alle Commissioni parlamentari competenti una relazione che evidenzia lo stato di attuazione dell'articolo 47 del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35 
+ ((, nel quadro delle indicazioni sancite a livello europeo, con particolare riferimento agli effetti prodotti e ai risultati conseguiti. Nella relazione è fornita, altresì, dettagliata illustrazione dell'impiego di ogni finanziamento, con distinta indicazione degli interventi per i quali le risorse sono state utilizzate. In prima attuazione la relazione ha come finalità la descrizione del progetto complessivo di attuazione dell'Agenda digitale italiana, delle linee strategiche di azione e l'identificazione degli obiettivi da raggiungere))
+
+ . 
  
 
  
@@ -65,23 +66,35 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) il comma 3 è sostituito dal seguente: 
  
 
- &laquo;3. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno e del Ministro dell'economia e delle finanze, di concerto con il Ministro della salute, con il Ministro per la pubblica amministrazione e la semplificazione e con il Ministro delegato per l'innovazione tecnologica, sentita l'Agenzia per l'Italia digitale, è disposto anche progressivamente, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, l'ampliamento delle possibili utilizzazioni della carta d'identità elettronica anche in relazione all'unificazione sul medesimo supporto della carta d'identità elettronica con la tessera sanitaria, alle modifiche ai parametri della carta d'identità elettronica e della tessera sanitaria necessarie per l'unificazione delle stesse sul medesimo supporto, nonchè al rilascio gratuito del documento unificato, mediante utilizzazione, anche ai fini di produzione e rilascio, di tutte le risorse disponibili a legislazione vigente per la tessera sanitaria.
+ &laquo;3. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno e del Ministro dell'economia e delle finanze, di concerto con il Ministro della salute, con il Ministro per la pubblica amministrazione e la semplificazione e con il Ministro delegato per l'innovazione tecnologica, 
+ ((d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni, e le province autonome di Trento e di Bolzano, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281,))
+
+ sentita l'Agenzia per l'Italia digitale, è disposto anche progressivamente, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, l'ampliamento delle possibili utilizzazioni della carta d'identità elettronica anche in relazione all'unificazione sul medesimo supporto della carta d'identità elettronica con la tessera sanitaria, alle modifiche ai parametri della carta d'identità elettronica e della tessera sanitaria necessarie per l'unificazione delle stesse sul medesimo supporto, nonchè al rilascio gratuito del documento unificato, mediante utilizzazione, anche ai fini di produzione e rilascio, di tutte le risorse disponibili a legislazione vigente per la tessera sanitaria.
  
 
- Le modalità tecniche di produzione, distribuzione e gestione del documento unificato, nel rispetto di quanto stabilito al comma 1, sono stabilite con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, con il Ministro per la pubblica amministrazione e la semplificazione e con il Ministro delegato per l'innovazione tecnologica e, limitatamente ai profili sanitari, con il Ministro della salute.&raquo;; 
+ Le modalità tecniche di produzione, distribuzione 
+ ((gestione e supporto all'utilizzo))
+
+ del documento unificato, nel rispetto di quanto stabilito al comma 1, sono stabilite 
+ ((entro sei mesi))
+
+ con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, con il Ministro per la pubblica amministrazione e la semplificazione e con il Ministro delegato per l'innovazione tecnologica e, limitatamente ai profili sanitari, con il Ministro della salute.&raquo;; 
  
 
  
  
 
  
- c) dopo il comma 3 è inserito il seguente: 
+ 
+ ((c) dopo il comma 3 sono inseriti i seguenti: 
  
 
- &laquo;3-bis. Per la realizzazione e il rilascio gratuito del documento unificato di cui al comma 3, in aggiunta alle risorse già previste dallo stesso comma 3, è autorizzata la spesa di 60 milioni di euro per l'anno 2013 e di 82 milioni di euro a decorrere dal 2014.&raquo;. 
+ "3-bis. Per la realizzazione e il rilascio gratuito del documento unificato di cui al comma 3, in aggiunta alle risorse già previste dallo stesso comma 3, è autorizzata la spesa di 60 milioni di euro per l'anno 2013 e di 82 milioni di euro a decorrere dal 2014. 
  
 
+ 3-ter. In attesa dell'attuazione dei commi 3 e 3-bis, si mantiene il rilascio della carta di identità elettronica di cui all'articolo 7-vicies ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43, al fine di non interromperne l'emissione e la relativa continuità di esercizio"))
  
+
  
 
  
@@ -97,4 +110,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. La dotazione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, è incrementata di 22 milioni di euro per l'anno 2013.
+ 4. La dotazione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, è incrementata di 
+ ((12 milioni))
+
+ di euro per l'anno 2013.
