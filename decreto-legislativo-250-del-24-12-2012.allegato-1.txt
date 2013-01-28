@@ -1,0 +1,787 @@
+Allegato 
+ 
+
+ (Art. 18, comma 1) 
+ 
+
+ 
+ 
+
+ &laquo;Appendice X 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Metodo di riferimento per la misurazione dei COV 
+ 
+
+ 
+ 
+
+ Premessa 
+ 
+
+ La determinazione degli idrocarburi volatili leggeri compresi nell'intervallo C 2 - C7 , degli idrocarburi volatili compresi
+ 
+
+ nell'intervallo C6 - C14 e della formaldeide deve essere effettuata
+ 
+
+ come riportato di seguito: 
+ 
+
+ Idrocarburi leggeri volatili compresi nell'intervallo C 2 - C7 : 
+ 
+
+ campionamento mediante l'uso di contenitori pressurizzabili (canisters) oppure mediante preconcentrazione su adsorbenti a temperatura sub-ambiente; 
+ 
+
+ estrazione per mezzo di desorbimento termico; 
+ 
+
+ analisi gascromatografica; 
+ 
+
+ rivelazione e quantificazione per ionizzazione di fiamma; 
+ 
+
+ Idrocarburi volatili compresi nell'intervallo C 6 - C14 : 
+ 
+
+ prelievo dall'atmosfera mediante arricchimento su trappola adsorbente ovvero trasferimento in canisters; 
+ 
+
+ trasferimento in capillare raffreddato (crioconcentrazione); 
+ 
+
+ desorbimento termico; 
+ 
+
+ analisi mediante GC capillare accoppiata alla spettrometria di massa o alla ionizzazione di fiamma; 
+ 
+
+ Formaldeide: 
+ 
+
+ arricchimento dall'aria su trappole di silice ricoperta con 2,4-dinitrofenilidrazina; 
+ 
+
+ estrazione con solvente organico; 
+ 
+
+ analisi chimica mediante HPLC-UV (il metodo consente la contemporanea misura di aldeidi e chetoni fino a C 6 ). 
+ 
+
+ 1. Metodo di riferimento per il campionamento e l'analisi degli idrocarburi volatili leggeri appartenenti all'intervallo C 2 -C7 
+ 
+
+ 1.1. Prelievo del campione 
+ 
+
+ Ai fini del presente decreto, per il campionamento degli idrocarburi volatili leggeri appartenenti all'intervallo C 2 C7 deve
+ 
+
+ essere utilizzato uno dei seguenti metodi di campionamento: 
+ 
+
+ a) Metodi di campionamento off-line (che utilizzano canisters o bombole pressurizzate; trappole adsorbenti); 
+ 
+
+ b) Metodi di campionamento on-line (comprendenti trappole adsorbenti collegate direttamente al gascromatografo). 
+ 
+
+ Mentre le bombole pressurizzate (canisters) devono essere impiegate per il campionamento spot dell'aria ai fini della determinazione dei COV (non è necessario che lo strumento analizzatore sia collocato nel sito di misura), le trappole adsorbenti raffreddate e alloggiate nell'analizzatore devono essere impiegate per la misura in semi-continuo eseguita a intervalli di tempo regolari e frequenti. 
+ 
+
+ 1.1.1. Contenitori di raccolta dell'aria campione (canisters) 
+ 
+
+ Per il prelievo dell'aria campione si devono usare contenitori ermetici (canisters con volume interno compreso tra 2 e 8 litri) pressurizzabili fino a non meno di 10 atm. Essi devono essere dotati di rubinetto apri/chiudi, valvola per la regolazione del flusso e misuratore di pressione. La scelta dei materiali deve essere eseguita con grande cura: il recipiente deve essere in metallo, le pareti interne devono essere opportunamente trattate, in modo da passivare la superficie metallica, ovvero renderla inerte ai COV e all'umidità mediante processi elettrochimici. 
+ 
+
+ Prima della raccolta del campione, pulire il canister con la seguente procedura: svuotare il canister dell'aria residua producendo il vuoto per aspirazione con una pompa da gas in condizioni di blando riscaldamento (T = 40°C); quindi immettervi azoto iperpuro e produrre di nuovo il vuoto; lavare ancora con azoto iperpuro e operare definitivamente il vuoto. 
+ 
+
+ 1.1.2. Controllo del &laquo;bianco&raquo; del contenitore 
+ 
+
+ Un'aliquota dell'azoto di secondo lavaggio del contenitore (vedi sopra) deve essere sottoposta ad analisi allo stesso modo di un campione reale di aria secondo la procedura appresso descritta. 
+ 
+
+ La concentrazione dei COV che ne risulta rappresenta il &laquo;bianco&raquo; del sistema di prelievo ed analisi e fornisce, per sottrazione del &laquo;bianco della trappola&raquo; (vedi di seguito) il &laquo;bianco del canister&raquo;, che deve risultare inferiore a 0.2&micro;g/m&sup3;. Qualora tale limite sia superato, il contenitore pressurizzato deve essere ulteriormente purificato e infine, se l'operazione non fornisce effetto apprezzabile, deve essere sostituito. 
+ 
+
+ 1.1.3. Sistema pneumatico 
+ 
+
+ Per il prelievo dell'aria campione devono essere utilizzate pompe per aspirazione - compressione per bassi flussi (2 - 5 l/min) costruite o internamente rivestite di materiale inerte, prive di spurgo di olio (non lubrificate); tali pompe devono essere in grado di operare a flusso costante (&plusmn;2%) compensando la crescente impedenza offerta dalla progressiva pressurizzazione del canister. 
+ 
+
+ II sistema pneumatico deve essere accessoriato con: 
+ 
+
+ regolatori-misuratori di flusso di massa di gas aventi accuratezza e precisione (superiori al 99%) negli intervalli di flusso operativi (50 - 300 ml/min) 
+ 
+
+ misuratori - regolatori di pressione, per pressioni comprese tra 0 e 7 atmosfere 
+ 
+
+ rubinetti apri/chiudi a tenuta in materiale inerte. 
+ 
+
+ Regolatori-misuratori di pressione e del flusso di massa sono posti in linea con la pompa. La tenuta pneumatica dell'intero sistema deve essere verificata sperimentalmente. 
+ 
+
+ 1.2. Operazione di prelievo 
+ 
+
+ Il canister deve essere collegato al sistema pneumatico immediatamente prima del prelievo. Il prelievo dell'aria campione è protratto per l'intervallo temporale di un'ora, ad un flusso di aspirazione prefissato (50 - 300 ml/min) affinchè la pressione finale risulti non inferiore a 2 atmosfere. 
+ 
+
+ Operando come sopra descritto il volume di aria campione prelevato è notevolmente superiore a quello necessario per l'analisi e permette di eseguire non meno di tre repliche, attraverso le quali si può valutare la ripetitività della misura. Le analisi devono essere eseguite entro e non oltre 15 giorni dal prelievo. 
+ 
+
+ 1.3. Separazione gascromatografica 
+ 
+
+ 1.3.1. Gascromatografo per colonne capillari 
+ 
+
+ Il gascromatografo, atto all'impiego di colonne separative capillari, deve essere dotato di unità criogenica per operazioni sub-ambiente (alimentata con anidride carbonica compressa oppure con azoto liquido) e del modulo di controllo di costanza del flusso (Mass Flow Controller). 
+ 
+
+ 1.3.2. Colonna capillare 
+ 
+
+ Per i COV compresi nell'intervallo da 2 a 7 atomi di carbonio sono disponibili colonne capillari in grado di separare selettivamente tutti i congeneri saturi e insaturi. A tal fine, devono essere utilizzate colonne separative con fase stazionaria costituita da ossido di alluminio poroso, drogato con KCl o Na 2 SO4 . Proprio per
+ 
+
+ la natura molto polare della fase, le suddette colonne non sono in grado di eluire i composti polari i quali, eventualmente introdotti in colonna, vi rimangono intrappolati e possono anche subire decomposizione. Le stesse colonne, inoltre, non permettono la separazione di alcuni idrocarburi di origine naturale quali i monoterpeni. 
+ 
+
+ 1.3.3. Rivelazione, identificazione e quantificazione dei COV 
+ 
+
+ La rivelazione dei COV (C 2 - C7 ) deve essere effettuata mediante
+ 
+
+ ionizzazione di fiamma (FID); l'identificazione deve essere realizzata in base ai tempi di ritenzione dei singoli componenti, per confronto con miscele di standard, le quali devono essere utilizzate anche per la determinazione quantitativa. 
+ 
+
+ 1.4. Caratteristiche strumentali necessarie per il monitoraggio dei COV C 2 - C7 atmosferici 
+ 
+
+ L'analizzatore per il rilevamento automatico selettivo e continuo degli idrocarburi nell'atmosfera deve comprendere i seguenti elementi: 
+ 
+
+ a) modulo di campionamento ed arricchimento; 
+ 
+
+ b) sistema automatico di iniezione (incluse l'unità di criofocalizzazione e termodesorbimento); 
+ 
+
+ c) colonna analitica dedicata all'analisi specifica; 
+ 
+
+ d) rivelatore a ionizzazione di fiamma (FID); 
+ 
+
+ e) interfaccia di comunicazione seriale. 
+ 
+
+ L'intero sistema può essere reso automatico o semiautomatico grazie alla programmazione da computer con softwares e moduli dedicati. 
+ 
+
+ 1.4.1. Modalità di funzionamento dello strumento 
+ 
+
+ L'apparecchiatura deve essere equipaggiata con un'unita-pompa, con un autocampionatore dotato di trappola lineare a più carboni, con una colonna capillare gascromatografica specifica per gli idrocarburi gassosi, con un sistema di rivelazione. A monte dell'autocampionatore, rispetto alla linea di gas, è collocata l'unità di prelievo dei gas, equipaggiata di controllo elettronico del flusso (mass flow controller). Il complesso è gestito tramite computer da un software dedicato, responsabile anche della gestione ed elaborazione dei dati analitici. La rivelazione dei composti organici d'interesse deve essere realizzata tramite la rivelazione a ionizzazione di fiamma (FID), l'identificazione deve essere effettuata tramite il tempo di ritenzione assoluto. 
+ 
+
+ L'autocampionatore, inserito nella linea dei gas dello strumento, deve avere caratteristiche adatte per arricchire quantitativamente dall'aria ambiente i composti organici volatili e successivamente inviarli alla colonna separativa al momento dell'analisi chimica. 
+ 
+
+ L'invio dei gas al sistema analizzatore può essere effettuato attraverso due diversi condotti, uno adatto ai gas pressurizzati (trasferiti all'analizzatore da canisters o bombole di calibrazione), l'altro utile per campionare direttamente l'aria esterna (operante a pressione atmosferica o in leggera depressione). Il campione di aria, che provenga da uno o dall'altro ingresso, viene fatto passare nella trappola adsorbente, preventivamente raffreddata sub-ambiente, che trattiene i COV di interesse analitico. 
+ 
+
+ I composti di interesse eventualmente intrappolati nell'adeguato adsorbente sono desorbiti mediante rapido riscaldamento (fino a 250° C) e trasmessi con una corrente di gas inerte (elio) ad un capillare di silice (liner) raffreddato con azoto liquido. Il gas che attraversa il liner, a sua volta, può essere inviato all'esterno (vent) oppure alla colonna di separazione dei COV. Quando il desorbimento dalla trappola primaria è completo, i composti d'interesse sono iniettati nella colonna analitica mediante nuovo riscaldamento istantaneo del liner. 
+ 
+
+ Le fasi operative di analisi pertanto sono: 
+ 
+
+ Iniezione/backflush: Rappresenta la fase di iniezione e pulizia della trappola per mezzo di un flusso di elio in controcorrente rispetto alla direzione di prelievo; 
+ 
+
+ Attesa: è la fase di sincronizzazione tra l'autocampionatore ed il ciclo gascromatografico; 
+ 
+
+ Raffreddamento della trappola primaria: La trappola adsorbente viene raffreddata mediante circuito criogenico alimentato con azoto liquido; 
+ 
+
+ Campionamento: Il campione gassoso passa attraverso la trappola adsorbente fredda che ritiene i componenti d'interesse; 
+ 
+
+ Raffreddamento del liner: Mentre la colonna analitica continua la fase di campionamento, il liner viene raffreddato mediante circuito criogenico ad azoto liquido; 
+ 
+
+ Desorbimento della trappola primaria dei gas: La trappola adsorbente viene riscaldata in modo da trasferire e crioconcentrare i composti di interesse analitico nel liner di silice fusa mediante flusso di gas di trasporto. 
+ 
+
+ La trappola di arricchimento dei composti organici volatili è costituita da una cartuccia adsorbente contenente due carboni grafitati (Carbopack C, Carbopack B o materiali di pari caratteristiche), con le due estremità vuote per prevenire la condensazione del vapore acqueo atmosferico nella fase di prelievo a freddo. 
+ 
+
+ 1.4.2. Specifiche dei sistemi adatti alla determinazione dei COV C 2
+ 
+
+ -C7 in aria 
+ 
+
+ Un'apparecchiatura o sistema strumentale dedicato alla determinazione dei COV deve soddisfare le seguenti specifiche: 
+ 
+
+ Rivelatore: 
+ 
+
+ Limite di rivelabilità: 10 -12 g/s n-C12 
+ 
+
+ Sensibilità: 40 mC/g 
+ 
+
+ Ripetibilità: 
+ 
+
+ Tempo di ritenzione: 5% RSD (Relative Standard Deviation) 
+ 
+
+ Quantità misurata: 5% RSD (Relative Standard Deviation) 
+ 
+
+ Colonna: 
+ 
+
+ Tipo PLOT (fase stazionaria: A12O3/KCI, oppure A12O3/Na2SO4, L = 50 m, d.i. = 0,3 mm, d.e. 
+ 
+
+ = 0,45 mm, spessore fase = 10 &micro;m) o equivalente 
+ 
+
+ Regolazione gas: 
+ 
+
+ Regolatori di pressione all'entrata con interruttore di limitazione della pressione per tutti i gas necessari. Regolatori di flusso di massa atti alle portate di gas d'esercizio. Tutti con precisione migliore del 95%. Valvole a spillo con valvole di chiusura rapida per idrogeno e aria 
+ 
+
+ Trappola lineare: 
+ 
+
+ Trappola lineare in vetro (L = 25 mm, D.I. = 6mm, D.I. = 3 mm) contenente Carbotrap C, Carbotrap B, nell'ordine secondo la direzione di aspirazione, in quantità atte a ritenere e rilasciare quantitativamente e selettivamente gli idrocarburi C 2 -C7 (vedi
+ 
+
+ appresso), ovvero misture adsorbenti di pari caratteristiche 
+ 
+
+ Tempi di ciclo: 
+ 
+
+ Periodo di campionamento individuale: pari a 60 min o migliore. 
+ 
+
+ 1.4.3. Esempio di procedura di monitoraggio dei COV C 2 - C7 ,
+ 
+
+ standardizzata e applicata in campo 
+ 
+
+ Per l'analisi dei campioni d'aria sono adottate le seguenti condizioni operative: 
+ 
+
+ T trap,camp = -20°C 
+ 
+
+ T trap,des = 250°C 
+ 
+
+ T liner,cri = -120°C 
+ 
+
+ T liner,des = 125°C 
+ 
+
+ Flusso gas di trasferimento al liner = 4 ml/min per 4 min. 
+ 
+
+ I composti organici volatili sono trasferiti alla colonna gascromatografica per riscaldamento rapido del liner a +125° (flash heating). Contemporaneamente la trappola adsorbente è riscaldata a 275°C sotto flusso di elio (20 mL/min) per eliminare le eventuali tracce di idrocarburi rimaste intrappolate dal ciclo analitico precedente. 
+ 
+
+ La separazione dei composti è realizzata su colonna capillare di AL 2 O3 /KC1 mediante gradiente di temperatura, sotto flusso di elio
+ 
+
+ (flusso = 4 ml/min). Il programma di temperatura del gascromatografo è appresso riportato: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Operando in queste condizioni, il sistema consente di eseguire il monitoraggio dei composti d'interesse ad intervalli regolari di 60 minuti, campionando l'aria per 30 minuti ogni ora. 
+ 
+
+ In sintesi, il ciclo analitico completo adottato per la misura dei COV C 2 -C7 è il seguente: 
+ 
+
+ Iniezione backflush: Il liner di silice fusa è stato riscaldato istantaneamente ad una temperatura di + 125°C (flash heating) in modo da iniettare in colonna gli idrocarburi crio-concentrati nella fase precedente di desorbimento. Contemporaneamente la trappola adsorbente è stata riscaldata per 5 min ad una temperatura di +275°C e tenuta sotto flusso in controcorrente di elio (20 ml/min) per eliminare le eventuali tracce di composti non eliminati nel ciclo analitico precedente e quindi preparare la trappola stessa per l'analisi successiva. 
+ 
+
+ Attesa: Questa fase (durata di 1 minuto) è usata dal sistema per sincronizzare il programma di temperatura dell'auto-campionatore con il ciclo gascromatografico. 
+ 
+
+ Raffreddamento della trappola: La trappola è raffreddata fino ad una temperatura di -20°C mediante circuito criogenico ad azoto liquido per predisporla al successivo campionamento. 
+ 
+
+ Campionamento dell'aria: Il campionamento ha la durata di 30 minuti e viene effettuato facendo passare il campione di aria nella direzione che va dall'adsorbente più debole al più forte mantenendo la trappola ad una temperatura di -20°C ed un flusso di elio di 20 ml/min. 
+ 
+
+ Raffreddamento della trappola adsorbente: Mentre la fase di campionamento continuava, il liner di silice è stato raffreddato in 2 minuti ad una temperatura di -120°C, mediante circuito ad azoto liquido. 
+ 
+
+ Desorbimento: La trappola adsorbente è stata riscaldata ad una temperatura di 250°C per 5 minuti in modo da trasferire e crioconcentrare i COV di interesse analitico nel liner di silice fusa mediante un flusso di gas di trasporto di 20 ml. 
+ 
+
+ 1.4.4. Calibrazione 
+ 
+
+ Dopo aver definito e verificato la validità del ciclo operativo prescelto, sono eseguite le prove di calibrazione dello strumento ai fini della quantificazione dei COV atmosferici. 
+ 
+
+ L'esigenza di ottenere un recupero quantitativo dei COV si riflette nella necessità di disporre di una bombola di taratura contenente in quantità esattamente calibrate tutti i COV di interesse, in modo da minimizzare gli errori nelle valutazioni quantitative. 
+ 
+
+ Per calibrare il sistema sono processati almeno tre diverse miscele standard, contenenti gas in concentrazioni che comprendono i livelli riscontrati in atmosfera reale (ppb e frazioni). Ad ogni prova è processato un volume di miscela standard pari a quelli dei campioni di aria abitualmente analizzati (200ml). Il test su ciascuna miscela standard deve essere ripetuto almeno tre volte per definire la retta o curva di calibrazione strumentale. Si definiscono i fattori di risposta strumentale per ogni componente di interesse. 
+ 
+
+ Le prove di calibrazione richiedono l'utilizzo di una bombola a miscela di gas con titolo noto ad elevata accuratezza (standard primario, fornito da Ditte o Enti certificati). 
+ 
+
+ Lo strumento di misurazione è sottoposto a prove di calibrazione con un gas standard, a prove di diluizione per la valutazione della linearità della risposta nonchè a misure in aria ambiente. 
+ 
+
+ Le prove di calibrazione sono effettuate utilizzando un sistema composto da un modulo che diluisce l'atmosfera standard a concentrazione nota di COV con il gas di diluizione, regolando i rapporti tra le portate dei flussi di massa dei gas. 
+ 
+
+ L'uso di Mass Flow Controller (MFC) aventi caratteristiche di elevata precisione è richiesto per ottenere un'alta accuratezza nella fase di miscelazione e assicura quindi un Controllo di Qualità dello strumento sottoposto a calibrazione. 
+ 
+
+ Le procedure di calibrazione sono effettuate mediante operazioni di verifica dei segnali di zero e su un prefissato punto intermedio della scala, detto di span, tipicamente pari all'80% del fondo scala.
+ 
+
+ Allo scopo sono utilizzati gas di riferimento, ossia gas per lo zero e gas per lo span a concentrazione nota. In particolare le prove di calibrazione prevedono l'utilizzo di una bombola a miscela di gas con titolo noto e ad elevata accuratezza. I valori delle concentrazioni dei gas della bombola possono ritenersi precisi almeno dell' 1%. 
+ 
+
+ Per la calibrazione deve essere adottato un sistema Multi-Point. 
+ 
+
+ La tecnica Multi-Point va utilizzata per generare atmosfere standard a diverse concentrazioni e attraverso di queste verificare la linearità della risposta strumentale entro il range di concentrazioni di interesse per lo studio di ambienti esterni. La miscela contenuta nella bombola di calibrazione è sottoposta ad un processo di diluizione con aria pulita. I rapporti di diluizione sono regolarmente controllati mediante sistemi per la misura della portata ad elevata precisione. 
+ 
+
+ Le analisi sono effettuate collegando l'analizzatore in oggetto con una bombola di calibrazione contenente gli analiti (COV di interesse) con concentrazione nota e ad un sistema di diluizione, connesso a sua volta ad una bombola di aria sintetica pura (priva di idrocarburi). I gas sono forniti all'analizzatore simultaneamente. Il flusso dei gas è regolato mediante l'utilizzo di MFC aventi una portata di 200ml/min e 50ml/min, interfacciati con PC via seriale. 
+ 
+
+ Il sistema deve essere munito di valvola Vent per verificare l'effettivo flusso di uscita dei gas ed eliminare gli eccessi. Le misure di flusso di gas sono effettuate mediante Mass Flow Controller il cui componente principale è un sensore termico di portata dei gas che produce un segnale elettrico di uscita in funzione della velocità del flusso. 
+ 
+
+ Ogni punto di calibrazione a cui corrisponde un ben determinato valore di concentrazione deve essere ripetuto almeno quattro volte per verificare la riproducibilità del dato. In una apposita tabella sono riportati i risultati delle prove effettuate sull'analizzatore (rapporti di diluizione, valori teorici delle concentrazioni, risposta strumentale espressa in termini di &laquo;area del picco cromatografico&raquo;). 
+ 
+
+ Riportando in grafico i valori teorici delle concentrazioni impostate in funzione dei valori delle aree registrate, è costruita la &laquo;curva di taratura&raquo; la quale definisce il campo di linearità strumentale, entro il quale occorre eseguire la determinazione dei composti di interesse, 
+ 
+
+ 1.4.5. Procedure di controllo di qualità 
+ 
+
+ 1.4.5.1. Tests di zero e span 
+ 
+
+ Un gas di span per il controllo della stabilità dello strumento deve contenere una concentrazione di COV da 70% a 90% del range massimo della certificazione. 
+ 
+
+ La pressione iniziale della bombola della miscela è di circa 200 atm e la pressione dopo l'uso non può essere al di sotto di 20 atm. 
+ 
+
+ Il gas di span è uno standard secondario necessario per i controlli di qualità, ovvero per verificare il regolare funzionamento dello strumento inclusa la sensibilità e la deriva. 
+ 
+
+ Il gas di span deve essere a concentrazione nota. 
+ 
+
+ Tests di span devono essere effettuati almeno una volta la settimana ma a diverse ore del giorno in modo da evitare la possibilità di introdurre errori sistematici. 
+ 
+
+ 1.4.5.2. Bianco d'analisi (test di zero) 
+ 
+
+ Tests di zero devono essere effettuati almeno una volta la settimana, a differenti ore del giorno. Mediante corse cromatografiche di &laquo;bianco&raquo; deve risultare l'assenza di picchi spuri dovuti ad effetti memoria o ad eventuali contaminazioni del campione analitico interne allo strumento stesso. 
+ 
+
+ 2. Metodo di riferimento per la determinazione degli idrocarburi volatili (COV) appartenenti all'intervallo C 5 - C14 
+ 
+
+ Il metodo di rivelazione per la determinazione degli idrocarburi C 5 -C14 deve essere basato sulla spettrometria di massa, oppure, in
+ 
+
+ alternativa, sulla ionizzazione di fiamma. 
+ 
+
+ L'identificazione e quantificazione degli idrocarburi gassosi mediante MS può essere operata in due modalità, a scansione di ioni (scan) con successiva ricostruzione delle tracce delle correnti ioniche (Total Ion Current mode), oppure, in alternativa con la registrazione selettiva di un numero limitato di correnti ioniche derivanti dalla ionizzazione delle diverse sostanze chimiche e dalla rispettiva frammentazione per bombardamento con fasci d'elettroni, aventi rapporti carica/massa specifici per le specie d'interesse. 
+ 
+
+ Nel primo caso, il cromatogramma è ricostruito sommando le tracce dei segnali di tutti gli ioni derivanti dalla frammentazione dei composti chimici eluiti parallelamente al procedere dell'analisi gascromatografica, entro un intervallo predeterminato del rapporto massa su carica (m / z). Nel secondo caso, invece, è effettuata la ricerca selettiva di alcuni ioni specifici, che risultano indicativi della presenza dei composti chimici di interesse. Si opera nella prima modalità di rivelazione nel caso si voglia effettuare lo &laquo;screening&raquo; di tutti i composti chimici presenti nel campione analitico, mentre si utilizza il metodo selettivo quando interessa la ricerca esclusiva di un numero ristretto d'idrocarburi scelti a priori, facenti parte di una miscela complessa. 
+ 
+
+ 2.1. Campionamento mediante trappole riempite di materiali adsorbenti 
+ 
+
+ La scelta del mezzo assorbente da usare nel campionamento dei COV dall'aria deve essere modulata in funzione del tipo di applicazione che si vuole fare, ovvero dall'intervallo di massa molecolare o di volatilità che si vuole investigare, dal volume d'aria unitario necessario per l'analisi e dalla risoluzione temporale scelta. Allo stato attuale della tecnologia, non si dispone di adsorbenti singolarmente capaci di catturare tutti i composti organici gassosi presenti in aria e successivamente rilasciarli grazie al desorbimento termico o per estrazione con solventi. Per ampliare il più possibile il numero di composti che si possono monitorare in un unico step (ovvero, assorbirli e rilasciarli con un unico sistema di prelievo e analizzarli chimicamente in un solo passaggio), si ricorre perciò all'uso di trappole contenenti più adsorbenti aventi capacità di ritenzione degli idrocarburi differenti, in modo da combinare i vantaggi offerti da ciascun materiale. In questo caso, i vari adsorbenti sono organizzati in sezioni successive, fino a costituire trappole multistrato. Le trappole multistrato sono formate da un tubo di vetro contenente un adsorbente forte nella parte terminale e un adsorbente debole nella sezione frontale rispetto al flusso di campionamento di gas. Questa disposizione consente il facile desorbimento dei composti a più alta temperatura d'ebollizione (più ritenute dai materiali assorbenti) semplicemente invertendo il flusso di gas rispetto a quello utilizzato al momento del campionamento. 
+ 
+
+ 2.2. I materiali adsorbenti per i COV C 5 -C14 è dimostrato che una combinazione ottimale di carboni permette di utilizzare una temperatura di desorbimento atta a minimizzare i fenomeni di degradazione dei composti ritenuti. Una simile combinazione consente il prelievo dall'aria e l'identificazione di composti polari e non polari C 5 -C14 e il loro monitoraggio in zone
+ 
+
+ urbane, suburbane, rurali e remote. Un' efficace combinazione di carboni contempla l'uso di Carbopack C e Carbopack B che, essendo grafitati e idrofobi, consentono analisi di COV anche in presenza di un elevato tasso di umidità atmosferica. 
+ 
+
+ Il recupero dei composti adsorbiti è di regola effettuato per desorbimento termico oppure per estrazione con solventi. Il termodesorbimento risulta di gran lunga preferito rispetto all'estrazione con solventi in quanto consente di ottenere le sensibilità necessarie per identificare e quantificare i composti presenti nell'atmosfera a livello di pptV. Per evitare la decomposizione degli analiti nella trappola ed aumentare la sensibilità del metodo si preferisce introdurre uno stadio di criofocalizzazione del campione prima dell'iniezione in colonna.
+ 
+
+ Questo è compiuto in tubi capillari per consentire un trasferimento in colonna ad alta risoluzione senza eccessivo allargamento della banda cromatografia. 
+ 
+
+ 2.3. Preparazione delle trappole multistrato 
+ 
+
+ Le trappole per i COV sono costituite da tubicini in vetro di 15 cm di lunghezza aventi un diametro interno di 3 mm e un diametro esterno pari a 6 mm; esse sono riempite sia con due tipi di carbone grafitato, differenti per area superficiale. Il carbone, in forma granulare e porosa, viene mantenuto nell'alloggiamento da batuffoli di lana di quarzo; la lana di quarzo separa tra loro anche gli strati di carbone. Il principio seguito nell'assemblaggio delle trappole è l'inserimento dei carboni secondo una sequenza crescente rispetto alle rispettive aree superficiali. Durante il campionamento dell'aria, la linea di flusso va dal carbone con area superficiale minore verso quello con superficie specifica maggiore. 
+ 
+
+ Le trappole d'adsorbimento devono essere pulite tramite trattamento termico sotto flusso di elio (300°C per 20 minuti con un flusso di elio di 100 ml/min) sia prima del loro primo impiego, sia tra un prelievo e il successivo (infatti esse possono essere riutilizzate indefinitamente, purchè non si osservino contaminazioni irreversibili, notificate dalla comparsa di spurghi fastidiosi e consistenti nei cromatogrammi d'eluizione dei campioni reali e dei bianchi). 
+ 
+
+ 2.4. Procedure analitiche 
+ 
+
+ Il campionamento/arricchimento viene effettuato direttamente con trappole adsorbenti, facendo passare la quantità voluta di aria (250 ml) attraverso la trappola, a temperatura ambiente. 
+ 
+
+ Le trappole in vetro (d.i. =3 mm, L =15 mm) contengono Carbotrap B e Carbotrap C, rispettivamente 0,17 g e 0,034 g, entrambi aventi granulometria compresa tra 20 e 40 mesh. 
+ 
+
+ La pulizia delle trappole adsorbenti prima del loro uso di campo deve essere effettuata mediante riscaldamento fino a 285°C per 10 minuti, sotto un flusso di elio di 300mL/min. 
+ 
+
+ Dopo il prelievo dall'aria, i COV devono essere trasferiti al sistema di separazione e analisi chimica (GC-MS oppure GC-FID) tramite unità di termodesorbimento. Dopo aver raffreddato il liner di criofocalizzazione (in silice fusa) ad una temperatura di -150°C mantenendo la trappola adsorbente sotto flusso in controcorrente di elio (10 ml/min per 1 min), il flusso del gas di trasporto deve essere indirizzato al liner, allo stesso tempo deve essere riscaldata la trappola adsorbente a 250°C (flusso di elio = 20 ml/min per 5 min). In questo modo, i COV desorbiti dalla trappola d'assorbimento sono nuovamente condensati, per crioconcentrazione, sulle pareti interne del liner collegato alla colonna separativa. 
+ 
+
+ Successivamente, gli idrocarburi C 5 -C14 devono essere inviati
+ 
+
+ nella colonna capillare mediante rapido riscaldamento (~100°C/min) del liner da -150°C a 230°C, mentre un flusso di elio lo attraversa nella direzione della colonna. 
+ 
+
+ Un sistema GC-MS gestito attraverso un programma termico d'eluizione e un programma informatico per l'acquisizione e elaborazione dei dati cromatografici deve consentire la determinazione dei COV appartenenti all'intervallo C 5 -C14 . 
+ 
+
+ La separazione dei COV deve essere effettuata mediante colonne capillari di tipo siliconico (DB 1 o equivalenti, L = 60 m, d.i. = 0.32, fase = 0,25 um). 
+ 
+
+ L'eluizione degli analiti deve essere effettuata in programmata di temperatura: 
+ 
+
+ T 1 = 5°C, 3 minuti; +3°C/min fino a T2 = 50°C; +5°C/min fino a
+ 
+
+ T3 = 220°C; isoterma1 = 8 min. 
+ 
+
+ I COV individuali devono essere identificati sia sulla base dei tempi di ritenzione assoluti, sia tramite l'acquisizione degli spettri di massa caratteristici di sostanze pure (miscele standard sottoposte alla medesima procedura di eluizione e rivelazione. 
+ 
+
+ 2.5. Descrizione delle fasi operative strumentali 
+ 
+
+ Di seguito è riportato in modo dettagliato il ciclo di funzionamento dell'apparato per il desorbimento e per l'analisi dei COV (C 5 -C14 ). 
+ 
+
+ Il ciclo di funzionamento del termodesorbitore è costituito da: 
+ 
+
+ fase 1- pre-flush: durante questa fase il liner deve essere raffreddato alla temperatura impostata mentre la trappola deve essere tenuta a temperatura ambiente sotto flusso di elio inviato secondo il flusso di campionamento; 
+ 
+
+ fase 2 - desorbimento: durante questa fase il capillare deve essere mantenuto a temperatura sub-ambiente mentre la trappola deve essere riscaldata velocemente fino a 250°C (da 25°C a 250°C in 3 min.). Il flusso di elio nella trappola deve essere invertito per trasferire i composti desorbiti nel liner; 
+ 
+
+ fase 3 - iniezione: il liner deve essere riscaldato velocemente (da -160°C a 200°C in pochi secondi) e i composti sono iniettati in colonna separativa. Le sostanze, separate dalla colonna capillare, entrano nell'area del rivelatore spettrometrico di massa dove sono sottoposte ad un bombardamento d'elettroni accelerati a 70 eV, prodotti da un filamento riscaldato. L'energia degli elettroni deve risultare sufficientemente alta da ionizzare il composto (ione molecolare) e rompere i legami più deboli creando frammenti ionizzati. Gli ioni positivi generati nella sorgente vengono espulsi mediante un campo elettrico ed inviati nell'analizzatore quadrupolare. 
+ 
+
+ Applicando alle barre del rivelatore un voltaggio oscillante in radiofrequenza è possibile destabilizzare tutti gli ioni tranne quelli aventi un valore di m/z prefissato. Variando il campo delle frequenze di oscillazione delle barre secondo una sequenza prefissata, si ottiene la scansione degli ioni in grado di raggiungere un rivelatore-fotomoltiplicatore. Il rivelatore trasforma la corrente ionica in segnale elettrico. Se alle barre sono imposti solo valori definiti di potenziale, sono registrati solo frammenti con determinati valori m/z (acquisizione SIM). 
+ 
+
+ La colonna separativa utilizzata per separare gli idrocarburi C 5
+ 
+
+ -C14 è di tipo CP-SIL (L = 50 M; I.D. = 0,32 mm; spessore della fase
+ 
+
+ = 0,41 &micro;m) o di pari caratteristiche; la pressione del gas di trasporto = 0,8 bar di elio. 
+ 
+
+ Prima di iniziare la scansione dello spettrometro si deve attendere 1 min. (solvent delay). 
+ 
+
+ Il fotomoltiplicatore deve essere posto ad una ddp di 2000 V (Resulting Voltage). 
+ 
+
+ Usando lo spettrometro di massa come rivelatore, la risposta strumentale non è proporzionale al numero di atomi di carbonio presenti nella molecola del composto; pertanto è necessario generare una linea di calibrazione per ciascun composto iniettato se si vuole determinare la quantità di questo presente in un campione incognito. 
+ 
+
+ 2.6. Calibrazione 
+ 
+
+ Le prove di calibrazione dello strumento devono essere eseguite ai fini della quantificazione dei COV atmosferici. 
+ 
+
+ L'esigenza di ottenere un recupero quantitativo del COV si riflette nella necessità di disporre di una bombola di taratura contenente in quantità esattamente calibrate tutti i COV di interesse, in modo da minimizzare gli errori nelle valutazioni quantitative. 
+ 
+
+ La linearità dell'analizzatore deve essere testata usando almeno tre concentrazioni (incluso il punto zero). Le concentrazioni devono essere più o meno egualmente distribuite nell'intero range di concentrazione ambientale. A ciascuna concentrazione (incluso zero), devono essere eseguite almeno quattro misure indipendenti e la prima misura, a ciascun livello di concentrazione, deve essere scartata. 
+ 
+
+ La calibrazione è calcolata riportando in grafico la risposta strumentale in funzione della concentrazione della miscela standard. 
+ 
+
+ 2.7. Calcolo del fattore di recupero dei COV 
+ 
+
+ Per correggere i risultati grezzi dell'analisi e determinare i valori esatti di concentrazione degli analiti nell'atmosfera, deve essere calcolata la percentuale di recupero complessivo dei singoli COV nel sistema adottato. Il recupero % deve essere valutato con la seguente formula: 
+ 
+
+ Recupero % = [A (i campione)&middot;V (standard) / A (i standard)&middot;V (campione)]&middot;100 
+ 
+
+ Dove: 
+ 
+
+ A (i campione) = Area del picco corrispondente al composto i-esimo nel campione; 
+ 
+
+ A (i standard) = Area del picco corrispondente al composto i-esimo nello standard; 
+ 
+
+ V (campione) = Volume d'aria campionato (mL); 
+ 
+
+ V (standard) = Volume di gas standard iniettato per la calibrazione (ml). 
+ 
+
+ Riportando in grafico il recupero % di un determinato composto in funzione sia del volume campionato che della lunghezza del carbone utilizzato si ricava una stima del Volume di sicurezza (SSV). 
+ 
+
+ 3. Metodo di riferimento per la determinazione della formaldeide in aria ambiente 
+ 
+
+ La formaldeide non può essere misurata con le stesse tecniche analitiche degli altri COV. 
+ 
+
+ Principio del metodo 
+ 
+
+ Ai fini del presente decreto per la misura della formaldeide deve essere utilizzato il seguente metodo: 
+ 
+
+ campionamento dell'aria su cartuccia di gel di silice ricoperta con 2,4-dinitrofenilidrazina acidificata (DNPH); 
+ 
+
+ analisi mediante HPLC con rivelazione UV; 
+ 
+
+ identificazione e quantificazione alla lunghezza d'onda di 360 nm attraverso il fenilidrazone corrispondente. 
+ 
+
+ Il metodo di campionamento fornisce valori di concentrazione della formaldeide mediati su periodi compresi tra 1 e 24 h. 
+ 
+
+ 3.1. Interferenze dovute alla presenza di ozono 
+ 
+
+ L'ozono ad alte concentrazioni interferisce negativamente per reazione con la DNPH e l'idrazone formato. Il livello di interferenza dipende dalle concentrazioni dell'ozono e della formaldeide e dalle loro variazioni durante il periodo di campionamento. 
+ 
+
+ L'esposizione diretta della cartuccia di DNPH campionata alla luce solare può produrre artefatti; pertanto, essa deve essere protetta dalla luce diretta rivestendola con carta di alluminio. 
+ 
+
+ L'interferenza dell'ozono durante la fase di campionamento deve essere eliminata facendo passare l'aria da analizzare attraverso un dispositivo in grado di rimuovere l'ozono, indicato come &laquo;ozono scrubber&raquo;. 
+ 
+
+ 3.2. Metodo di campionamento 
+ 
+
+ Per il campionamento della formaldeide devono essere utilizzate cartucce di gel di silice ricoperte di 2,4 dinitrofenilidrazina (1,4-DNPH) e dei seguenti materiali e strumentazione: 
+ 
+
+ pompa di campionamento il cui flusso non deve essere inferiore di 2 L/min, tenendo conto che la caduta di pressione nella cartuccia di campionamento è dell'ordine di 19 kPa con un flusso di 1,5L/min; la pompa deve essere equipaggiata di regolatore di portata; 
+ 
+
+ contatore volumetrico per gas a secco; 
+ 
+
+ ozono-scrubber costituto da un denuder anulare ricoperto di una soluzione satura di KI. 
+ 
+
+ I denuders anulari sono costituiti da due tubi di vetro coassiali lunghi circa 10 cm e con diametri dell'anello di 10 e 13 mm. Il ricoprimento del denuder deve essere eseguito introducendo una soluzione satura di KI nell'intercapedine anulare per bagnarne le pareti. L'eccesso di KI deve essere scaricato e le pareti devono essere asciugate mediante un flusso di azoto puro. Un denuder ricoperto di KI delle dimensioni sopra riportate presenta un'efficienza per l'ozono vicina all'unità (E > 99,9%) con portate
+ 
+
+ di aria di 1 L/min. La sua capacità operativa fino a quando E scende a 95% è pari a 250 &micro;g di ozono (2000 ppb/h). In alternativa è possibile utilizzare come ozono scrubber cartucce commerciali, contenenti KI granulare. 
+ 
+
+ L'aria campione deve essere raccolta connettendo l'ingresso della cartuccia ricoperta di DNPH con il denuder ricoperto con KI o con la cartuccia contenente KI granulare. L'uscita della cartuccia di DNPH deve essere collegata alla pompa di aspirazione dell'aria e quest'ultima a sua volta al contatore volumetrico di aria. 
+ 
+
+ 3.3. Procedura di campionamento 
+ 
+
+ Assemblare il sistema di campionamento e assicurarsi che la pompa sia capace di garantire una portata di aria costante durante il periodo di campionamento. Prima di procedere con il campionamento assicurarsi che la linea di prelievo dell'aria non presenti perdite.
+ 
+
+ Questa verifica viene effettuata occludendo l'ingresso dell'aria a monte dell'ozono scrubber e controllando che il contatore volumetrico non indichi alcun passaggio di aria nella linea. 
+ 
+
+ Installare la linea di campionamento nel sito di monitoraggio e verificare che il flusso di aria sia vicino a quello programmato. Il flusso di aria può variare da 0,5 a 1,2 L/min e generalmente viene regolato a 1 L/min. Le moli totali di formaldeide nel volume di aria campionata non devono eccedere quelle di DNPH nella cartuccia (2 mg oppure 0,01 millimoli/cartuccia). In generale una stima conservativa del volume del campione può essere approssimativamente quella del 50% della capacità di saturazione della DNPH. 
+ 
+
+ Terminato il campionamento, rimuovere la cartuccia di DNPH dal sistema e chiuderla da entrambi i lati con appositi tappi, quindi riporla in un contenitore di vetro etichettato che va mantenuto in ambiente refrigerato. 
+ 
+
+ Il periodo di conservazione del campione in ambiente refrigerato prima dell'analisi di laboratorio non può eccedere i 30 giorni. 
+ 
+
+ 3.4. Procedure di estrazione 
+ 
+
+ Rimuovere la cartuccia campionata dal contenitore; iniettare nella cartuccia mediante siringa 3 mL di CH 3 CN ad un flusso non superiore
+ 
+
+ a 1,5 ml/min in direzione inversa a quella di campionamento.
+ 
+
+ All'eluato vanno aggiunti 2 ml di acqua per ottenere una migliore prestazione cromatografica. 
+ 
+
+ 3.5. Analisi mediante HPLC 
+ 
+
+ L'analisi del campione deve essere effettuata utilizzando un'unità base HPLC costituita da una pompa isocratica, una valvola di iniezione dotata di loop da 20 &micro;L, una colonna cromatografica in fase inversa tipo ODS (5&micro; m, 250 x 4,6 mm), un rivelatore ad assorbimento UV regolato alla lunghezza d'onda di 360 nm e un processore-integratore di dati cromatografici. 
+ 
+
+ Prima di ciascun'analisi verificare che la linea di base del rivelatore non presenti deriva. 
+ 
+
+ Preparare la fase mobile, costituita da una miscela acetonitrile-acqua (60:40). 
+ 
+
+ Caricare il serbatoio dell'HPLC con la miscela eluente e regolare il flusso della pompa peristaltica ad 1.0 ml/min. 
+ 
+
+ Caricare l'iniettore con 100 &micro;l di soluzione campione mediante una siringa per HPLC. Azionare la valvola dell'iniettore in modo da introdurre il contenuto del loop (20 &micro;L) nella colonna separativa e procedere con l'analisi cromatografica. 
+ 
+
+ Procedere all'identificazione e quantificazione dell'idrazone della formaldeide. 
+ 
+
+ Se la concentrazione dell'analita eccede il range di linearità del rivelatore, il campione deve essere opportunamente diluito con la fase mobile. 
+ 
+
+ 3.6. Calcolo delle concentrazioni 
+ 
+
+ La concentrazione della formaldeide nel campione di aria, espresso in &micro;g/m&sup3; è dato da 
+ 
+
+ C = [H (p)&middot;v&middot;k (c - c 0 ) / H (s)&middot;V] 
+ 
+
+ Dove: 
+ 
+
+ C = concentrazione della formaldeide nel campione di aria (&micro;g/m&sup3;), 
+ 
+
+ c = concentrazione dell'idrazone della formaldeide nello standard (&micro;g/ml), 
+ 
+
+ c 0 = concentrazione dell'idrazone della formaldeide nel
+ 
+
+ &laquo;bianco&raquo; (cartuccia non esposta), 
+ 
+
+ H (s) = altezza/area del picco della formaldeide nello standard (unità), 
+ 
+
+ H (p) = altezza/area del picco della formaldeide nel campione (unità), 
+ 
+
+ k = fattore di conversione da idrazine della formaldeide a formaldeide (= 0.143), 
+ 
+
+ V = volume di aria campionata (m&sup3;), 
+ 
+
+ v = volume della soluzione iniettata (ml). 
+ 
+
+ N.B. La concentrazione c 0 del bianco va determinata per ogni lotto
+ 
+
+ di cartucce ricoperte di DNPH utilizzate. 
+ 
+
+ 3.7. Calibrazione dell'HPLC 
+ 
+
+ Preparare una soluzione stock di calibrazione sciogliendo 10 mg di 2,4 dinitrofenilidrazone della formaldeide in 100 ml di acetonitrile. 
+ 
+
+ Da questa soluzione si prelevano 4 standard di calibrazione alle concentrazioni di interesse (0.25, 0.50, 1.0 e 2.0 &micro;g/ml) attraverso opportuna diluizione con la miscela eluente. 
+ 
+
+ Analizzare ciascuno standard di calibrazione tre volte e tabulare l'area di risposta strumentale in funzione della concentrazione. 
+ 
+
+ Costruire la curva di calibrazione. La risposta è lineare quando si ottiene un coefficiente di correlazione di almeno 0,99. 
+ 
+
+ Eseguire quotidianamente il controllo della risposta del rivelatore iniettando una soluzione standard avente concentrazione pari o superiore a 10 volte il limite di rivelabilità strumentale (es. 1 &micro;g/ml). 
+ 
+
+ La risposta ottenuta non deve scostarsi più del 10% dal valore medio registrato con soluzioni di uguale concentrazione. 
+ 
+
+ Se si osserva una variabilità maggiore è necessario ripetere i test di calibrazione oppure eseguire una nuova curva di calibrazione utilizzando soluzioni standard preparate di fresco.&raquo;.
