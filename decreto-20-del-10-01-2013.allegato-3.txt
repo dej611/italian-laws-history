@@ -1,0 +1,253 @@
+Art. 3, comma 2 
+ 
+
+ 
+ 
+
+ Allegato C 
+ 
+
+ 
+ 
+
+ PROCEDURA PER LA VERIFICA DI IDONEITà DI UN SISTEMA RUOTA 
+ 
+
+ AI FINI DELLA SUA OMOLOGAZIONE 
+ 
+
+ 
+ 
+
+ 1. Requisiti Generali 
+ 
+
+ I sistemi ruote devono: 
+ 
+
+ 1.1 essere conformi alle norme cogenti per l'omologazione del veicolo (Direttive e regolamenti CE ed UNECE) e per la circolazione stradale (Codice della Strada); 
+ 
+
+ 1.2 soddisfare l'equivalenza in termini di diametro nominale esterno (pneumatico) con le misure degli pneumatici previsti dal costruttore del veicolo in fase di omologazione del tipo. Sono ammesse misure degli pneumatici che comportino una variazione del &plusmn; 2% della circonferenza di rotolamento rispetto alle circonferenze di rotolamento delle misure degli pneumatici intermedie previste in origine (in sede di omologazione) per un determinato tipo di veicolo, a condizione che il relativo diametro nominale esterno non superi, di oltre l'1%, il massimo diametro nominale esterno previsto in omologazione dal costruttore del veicolo; 
+ 
+
+ 1.3 avere una larghezza degli pneumatici non superiore del 10% rispetto alla massima larghezza degli pneumatici previsti in origine; 
+ 
+
+ 1.4 soddisfare, in particolare, l'allegato 10 del Regolamento UNECE 124; 
+ 
+
+ 1.5 rispettare quanto previsto dagli standard tecnici vigenti (CUNA o ETRTO) in termini di accoppiamento ruota-pneumatico. 
+ 
+
+ Inoltre: 
+ 
+
+ 1.6 se il veicolo è dotato di ruota d'emergenza, il costruttore del sistema deve garantire la possibilità di montaggio di tale ruota quando sul veicolo è montato il sistema stesso"; 
+ 
+
+ 2. Prove 
+ 
+
+ La verifica di idoneità di un sistema ruota è effettuata attraverso le prove di seguito descritte. 
+ 
+
+ 2.1 Conformità al Regolamento UNECE 124 
+ 
+
+ 2.1.1. Le ruote del sistema oggetto di omologazione devono soddisfare i requisiti e le prescrizioni del Regolamento UNECE 124.
+ 
+
+ Le ruote speciali sono soggette alle medesime prove e prescrizioni previste per le ruote replica parziale dallo stesso Regolamento UNECE 124. 
+ 
+
+ 2.2 Prove supplementari 
+ 
+
+ Per i sistemi nei quali siano presenti ruote speciali debbono essere soddisfatte le seguenti verifiche. 
+ 
+
+ 2.2.1 Veicolo di prova 
+ 
+
+ Un veicolo, considerato rappresentativo per il tipo per il quale viene richiesta una omologazione di un sistema ruota, deve essere equipaggiato con tale sistema. 
+ 
+
+ 2.2.2 Verifiche statiche 
+ 
+
+ 2.2.2.1 la variazione di carreggiata, fermo restando i vincoli di cui all'art. 6, comma 2 del presente regolamento, non deve essere inferiore di 2 mm rispetto al minimo valore originario del veicolo e non deve essere superiore più del 2% rispetto al valore originario massimo del veicolo, a condizione che gli pneumatici non sporgano dal profilo originario esterno della carrozzeria 
+ 
+
+ 2.2.2.2 fermo restano quanto prescritto all'allegato 10 del Regolamento UNECE 124, Il profilo interno della ruota dovrà essere tale da mantenere, rispetto ai componenti interni - freni / sospensioni / carrozzeria - una distanza minima non inferiore a quella delle combinazioni ruote/pneumatici originali del veicolo. 
+ 
+
+ 2.2.2.3 Gli pneumatici facenti parte del &laquo;sistema ruota&raquo;, necessariamente di tipo omologato secondo le pertinenti norme CE o UNECE, dovranno avere caratteristiche uguali o superiori a quelle minime previste in omologazione dal costruttore del veicolo, in particolare per quanto concerne: 
+ 
+
+ - indice di carico; 
+ 
+
+ - indice di velocità; 
+ 
+
+ - pressione di gonfiaggio (standard ETRTO) 
+ 
+
+ 2.2.3 Prove dinamiche 
+ 
+
+ 2.2.3.1 Prove per rilievo ingombri ruota 
+ 
+
+ Avvertenza: Le prove di ingombro non sono richieste qualora l'ingombro della sezione trasversale del sistema ruota, compreso lo pneumatico proposto rientra nella sagoma degli ingombri ricavata dalle possibili combinazioni ruote-pneumatici omologati in origine dal costruttore del veicolo. 
+ 
+
+ 2.2.3.1.1 Preparazione del veicolo: sulle parti attigue agli pneumatici deve essere interposto uno strato di materiale plastico con spessore di almeno 15 mm nelle zone di ingombro degli pneumatici stessi. Le prove sono superate se, durante l'esecuzione delle manovre in seguito descritte, lo strato di materiale plastico non viene asportato per contatto con gli pneumatici per uno spessore pari o superiore al minimo tra 5 mm e la differenza tra la sezione dello pneumatico reale utilizzato per la prova e la sezione dello pneumatico "max in service" tratto da ETRTO 
+ 
+
+ 2.2.3.1.2 Steering Pad 
+ 
+
+ La prova deve essere effettuata 2 volte: prima con ruote sterzate a sinistra e poi a destra, nel seguente modo: 
+ 
+
+ - condurre il veicolo ad una velocità tale da raggiungere il limite dell'aderenza con DVOL: 
+ 
+
+ 0°, 45°, 90° e 180° e fondo scatola guida; 
+ 
+
+ - fermare il veicolo agendo sul pedale del freno con le ruote completamente sterzate. L'azionamento del freno deve essere un "colpo di freno", senza far intervenire l'ABS. 
+ 
+
+ 2.2.3.1.3 Steering Pad in retromarcia 
+ 
+
+ La prova deve essere effettuata 2 volte: prima con ruote sterzate a sinistra e poi a destra, nel seguente modo: 
+ 
+
+ - spuntare in retromarcia con DVOL: 0°, 45°, 90° e 180° e fondo scatola guida; 
+ 
+
+ - agire sul pedale del freno entro i primi due secondi, fermando il veicolo con le ruote completamente sterzate. L'azionamento del freno deve essere un "colpo di freno", senza far intervenire l'ABS. 
+ 
+
+ 2.2.3.1.4 Salita sul marciapiede in marcia avanti (altezza gradino = 115 mm) 
+ 
+
+ La prova deve essere ripetuta sterzando prima a sinistra e poi a destra, secondo le seguenti modalità: 
+ 
+
+ - posizionare il veicolo parallelamente al marciapiede ad una distanza di circa 2,5 m; 
+ 
+
+ - portare il veicolo alla minima velocità possibile in prima marcia; 
+ 
+
+ - salire sul marciapiede diagonalmente con le ruote completamente sterzate e subito dopo frenare fermando la vettura 
+ 
+
+ 2.2.3.1.5. Salita sul marciapiede in retromarcia (altezza gradino = 115 mm) 
+ 
+
+ Ripetere la prova sterzando prima a sinistra e poi a destra, operando le seguenti manovre: 
+ 
+
+ - posizionare il veicolo parallelamente al marciapiede ad una distanza di circa 2,5 m; 
+ 
+
+ - portare il veicolo alla minima velocità possibile in retromarcia; 
+ 
+
+ - salire sul marciapiede con le ruote completamente sterzate e subito dopo frenare fermando la vettura. 
+ 
+
+ 2.2.3.1.6 Discesa dal gradino (altezza gradino = 150 mm) 
+ 
+
+ Portare il veicolo alla velocità minima possibile in prima marcia.
+ 
+
+ Scendere dal gradino, di profilo adeguato, con entrambe le sospensioni. La prova va eseguita a ruote dritte. 
+ 
+
+ 2.2.3.1.7. Onde lunghe: percorso sinusoidale simmetrico su specifica pista 
+ 
+
+ Portare il veicolo alla velocità adeguata alle caratteristiche d'ingombro della vettura (velocità consigliata 50 km/h); percorrere le onde lunghe alla velocità precedentemente impostata. La velocità del veicolo deve essere tale da garantire il tamponamento in compressione della sospensione anteriore. 
+ 
+
+ 2.2.3.1.8 Onde lunghe: percorso sinusoidale asimmetrico su specifica pista; 
+ 
+
+ Il veicolo deve transitare con un lato sul percorso sinusoidale e l'altra sul percorso piano; poi ripetere l'azione nel senso di marcia opposto, in modo da interessare l'altro lato del veicolo: 
+ 
+
+ - portare il veicolo alla velocità adeguata alle caratteristiche d'ingombro della vettura (velocità consigliata 50 km/h); 
+ 
+
+ - percorrere le onde lunghe a velocità costante precedentemente impostata. La velocità della vettura deve essere tale da garantire il tamponamento in compressione della sospensione anteriore; 
+ 
+
+ 2.2.3.1.9 Percorso sconnesso ed accidentato (10 KM) 
+ 
+
+ - Eseguire una prova su una strada caratterizzata da pavimentazione accidentata ( es. pavè, presenza di buche, rotaie ferrotranviarie, etc.) con velocità compresa tra i 30 e gli 80 km/h. La scelta della strada di prova deve essere convalidata dal servizio tecnico. 
+ 
+
+ Nota: nel caso in cui nell'esecuzione di una o di tutte le prove, indicate dal punto 2.2.3.1.4 al punto 2.2.3.1.6, parti della carrozzeria del veicolo o parti della sottoscocca urtano contro il marciapiede, le stesse prove possono essere omesse se risultano analogamente non eseguibili con il medesimo veicolo equipaggiato con le possibili combinazioni ruote-pneumatici originarie (previste in omologazione). 
+ 
+
+ 2.2.3.2 Prova di comportamento su strada 
+ 
+
+ Il costruttore del sistema ruota effettua uno specifico programma di prova su strada. Il programma deve essere descritto nella domanda di omologazione, di cui all'art. 3 del presente regolamento. Lo scopo precipuo delle prove previste nel programma è quello di valutare, oltre all'allentamento della coppia di serraggio delle colonnette, gli effetti del sistema sul veicolo nel suo uso ordinario ed individuare eventuali anomalie di comportamento del veicolo stesso. 
+ 
+
+ L'autorità che concede l'omologazione può prescrivere variazioni o integrazioni del programma, 
+ 
+
+ Il programma di prova presuppone l'equipaggiamento del veicolo con sensori di temperatura posti nelle zone ritenute critiche per lo smaltimento del calore e deve essere caratterizzato almeno dalle seguenti fasi: 
+ 
+
+ a) montaggio del sistema ruota sul veicolo e misura della coppia di serraggio delle colonnette; 
+ 
+
+ b) percorso di 200 km ad andatura di normale utilizzatore su strade caratterizzate da curve e saliscendi; 
+ 
+
+ c) rilevazione della coppia di serraggio delle colonnette; il decadimento medio deve essere inferiore al 20%; 
+ 
+
+ d) senza ripristinare il tiro sulle colonnette, percorso misto di 15 km con ripetute frenate in modo da mantenere la temperatura dei dischi freno anteriori con valori che vanno dai 350 ai 400°C; 
+ 
+
+ e) percorso di 72 km con ripetute curve a raggio molto stretto e con un tratto di circa 9 km caratterizzato da fondo sconnesso (es. buche, pavè, etc.); 
+ 
+
+ A fine prova il tiro delle colonnette deve presentare un decadimento medio inferiore al 30%. 
+ 
+
+ Il report sugli esiti della prova di comportamento è consegnato dal costruttore del sistema ruota al Servizio Tecnico. 
+ 
+
+ 2.2.3.3 Frenatura ABS su tre fondi: asciutto, bagnato e aderenza differenziata destra/sinistra, al fine di verificare l'equilibrio e la stabilità a seguito della modifica dell'offset. 
+ 
+
+ 2.2.3.4 Prova secondo standard ISO 3888-2 (prova dell'Alce): il comportamento deve risultare pari oppure migliorativo rispetto a quello registrato con gli pneumatici omologati in origine dal costruttore del veicolo. 
+ 
+
+ 2.3 Verifiche e prove di in applicazione delle norme di omologazione del veicolo 
+ 
+
+ Il servizio tecnico valuta l'eventuale influenza del sistema ruota sull'originaria conformità alle norme in seguito elencate ed, in caso affermativo, procede alla relative verifiche in conformità alle medesime norme: 
+ 
+
+ 2.3.1 Regolamento ECE 13H: verifica sistemi attivi (ESC) 
+ 
+
+ 2.3.2 Direttiva 2005/1 1/CE: pneumatici verifica carichi/velocità 2.3.3 Direttiva 94/78/CE: parafanghi - catene 
+ 
+
+ 2.3.4 Direttiva 2007/15/CE: sporgenze esterne
