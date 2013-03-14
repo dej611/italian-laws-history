@@ -1,0 +1,218 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ (Articolo 8, comma 1, lettera b) 
+ 
+
+ TIPOLOGIE DI CSS-COMBUSTIBILE
+ 
+
+ 
+ 
+
+ La classificazione del combustibile solido secondario (CSS), come definito all'articolo 183, comma 1, lettera cc), del decreto legislativo 3 aprile 2006, n. 152, si basa sui requisiti della norma tecnica armonizzata UNI EN 15359 "Solid recovered fuels" (SRF), che individua, a livello europeo, la classificazione del CSS tenendo conto di tre parametri (e relative classi), riconosciuti strategici per importanza ambientale, tecnologica e prestazionale/economica, quali PCI (parametro commerciale), Cl (parametro di processo) e Hg (parametro ambientale), come meglio specificati nella Tabella 1.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 1 - Classificazione dei combustibili solidi secondari (CSS) (da UNI EN 15359) 
+ 
+
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Caratteristiche di classificazione
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Caratte-| Misura |Unità di| Valori limite per classe
+ 
+
+ 
+ ristica |statistica| misura |--------------------------------------
+ 
+
+ 
+ | | | 1 | 2 | 3 | 4 | 5
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ PCI | media |MJ/kg t.q.| &#8805 25 | &#8805 20 | &#8805 15 | &#8805 10 | &#8805 3
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Cl | media | % s.s. | &#8804 0,2| &#8804 0,6| &#8804 1,0| &#8804 1,5| &#8804 3
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Hg | mediana |mg/MJ t.q.|&#8804 0,02|&#8804 0,03|&#8804 0,08|&#8804 0,15|&#8804 0,50
+ 
+
+ 
+ |----------|----------|------|------|------|------|----------
+ 
+
+ 
+ | 80° | | | | | |
+ 
+
+ 
+ |percentile|mg/MJ t.q.|&#8804 0,04|&#8804 0,06|&#8804 0,16|&#8804 0,30|&#8804 1,00
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ai fini del presente regolamento, è da classificare CSS-Combustibile esclusivamente il combustibile solido secondario (CSS) con PCI e Cl come definito dalle classi 1, 2, 3 e relative combinazioni, e - per quanto riguarda l'Hg - come definito dalle classi 1 e 2, elencati nella Tabella 1, riferite a ciascun sottolotto.
+ 
+
+ 
+ 
+
+ Per i parametri chimico-fisici, elencati nella Tabella 2, sono definiti i valori di specificazione previsti nell'Allegato A, Parte 1 della norma UNI EN 15359, espressi come media/mediana dei singoli parametri.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 2 - Caratteristiche di specificazione del CSS-Combustibile
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ---------------------------------------------------------------------
+ 
+
+ Caratteristiche di specificazione
+ 
+ 
+ Parametro Misura statistica Unità di misura Valore Limite 
+ 
+
+ 
+ 
+ 
+
+ Parametri fisici
+ 
+ 
+ Ceneri media % s.s --- (vedasi nota 1) 
+ 
+
+ 
+ Umidità media % t.q. --- (vedasi nota 1) 
+ 
+
+ 
+ 
+ 
+
+ Parametri chimici
+ 
+ 
+ Antimonio (Sb) mediana mg/kg s.s. 50 
+ 
+
+ 
+ Arsenico (As) mediana mg/kg s.s. 5 
+ 
+
+ 
+ Cadmio (Cd) mediana mg/kg s.s. 4 
+ 
+
+ 
+ Cromo (Cr) mediana mg/kg s.s. 100 
+ 
+
+ 
+ Cobalto (Co) mediana mg/kg s.s. 18 
+ 
+
+ 
+ Manganese (Mn) mediana mg/kg s.s. 250 
+ 
+
+ 
+ Nichel (Ni) mediana mg/kg s.s. 30 
+ 
+
+ 
+ Piombo (Pb) mediana mg/kg s.s. 240 
+ 
+
+ 
+ Rame (Cu) mediana mg/kg s.s. 500 
+ 
+
+ 
+ Tallio (Tl) mediana mg/kg s.s. 5 
+ 
+
+ 
+ Vanadio (V) mediana mg/kg s.s. 10 
+ 
+
+ 
+ &#931 metalli [Sb,As,Cr,Cu,Co, Pb,Mn,Ni,V] mediana mg/kg s.s. -- 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Nota:
+ 
+
+ (1) Non vengono fissati i valori limite per ceneri e umidità. Gli stessi sono di natura prettamente commerciale. La definizione dei valori limite per ceneri e umidità è rimessa a specifici accordi tra produttore e utilizzatore.
