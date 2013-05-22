@@ -1,0 +1,100 @@
+ALLEGATO "E" 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SERVIZI DI SUPPORTO DI NATURA INFORMATICA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ I servizi di Supporto di natura informatica resi disponibili nell'ambito del Programma di Razionalizzazione degli acquisti, sono indirizzati alle piccole e medie imprese (d'ora innanzi, PMI) abilitate al Mercato elettronico della Pubblica Amministrazione (d'ora innanzi, MEPA), che abbiano almeno un catalogo pubblicato on line nel relativo sistema (d'ora innanzi Sistema) 
+ 
+
+ I servizi previsti sono diretti a facilitare le PMI nel processo di creazione e invio delle fatture in formato standard al Sistema di Interscambio (SDI) e consistono nelle seguenti funzionalità: 
+ 
+
+ - Adesione al servizio 
+ 
+
+ - Generazione delle fatture in formato SDI 
+ 
+
+ - Conservazione delle fatture 
+ 
+
+ - Servizi di comunicazione con il SDI. 
+ 
+
+ Le indicazioni di dettaglio relative alle modalità di fruizione dei servizi sono rese disponibili sul portale del Programma di razionalizzazione degli acquisti (www.acquistinretepa.it). 
+ 
+
+ 
+ 
+
+ 1. ADESIONE AL SERVIZIO 
+ 
+
+ Le PMI abilitate al MEPA hanno a disposizione una funzione che permette di aderire al servizio, tramite il portale del Programma (www.acquistinretepa.it). 
+ 
+
+ La procedura di adesione prevede l'accesso del Fornitore mediante le credenziali (utenza e password) assegnate all'atto dell'abilitazione al MEPA e la creazione, mediante la compilazione on-line, di un documento di adesione al servizio. Tale documento dovrà essere firmato digitalmente dal Fornitore. 
+ 
+
+ Possono aderire al Servizio le PMI abilitate al MEPA, che abbiano almeno un catalogo pubblicato on-line. Il venir meno del suddetto requisito, per un periodo superiore ai 30 giorni solari consecutivi, determina la decadenza del Fornitore dalla fruizione del Servizio e la conseguente interruzione dello stesso. Resta fermo che il servizio della conservazione sarà garantito per le operazioni effettuate nel periodo antecedente all'interruzione stessa. 
+ 
+
+ 
+ 
+
+ 2. GENERAZIONE DELLE FATTURE 
+ 
+
+ I Fornitori aderenti al servizio richiedono la generazione di una fattura nel formato previsto da SDI ; tale fattura deve riferirsi ad acquisti eseguiti dalle Pubbliche Amministrazioni e dagli altri soggetti tenuti all'applicazione delle normative nazionali e comunitarie in tema di appalti pubblici e rientranti nell'ambito di applicazione di cui all'articolo 1 del presente regolamento, sia mediante MEPA sia mediante le altre procedure di acquisto comprese quelle tradizionali. 
+ 
+
+ Il sistema mette a disposizione due diverse modalità per l'acquisizione dei dati delle fatture: 
+ 
+
+ - inserimento manuale da parte dei fornitori tramite un'interfaccia web; 
+ 
+
+ - servizio di upload di file in uno o più formati definiti, secondo tracciati record prefissati. 
+ 
+
+ Il fornitore, utilizzando una delle due modalità a disposizione, comunica al Sistema le informazioni necessarie per la generazione della fattura nel formato previsto da SDI. Nel caso di fatture emesse per acquisti effettuati on line dalle PA sulla piattaforma di e-procurement del Programma di Razionalizzazione (Negozi on line delle Convenzioni ex. Art. 26 e MEPA), il Sistema presenterà i dati già utilizzati per l'emissione degli ordini e il fornitore potrà modificarli o confermarli, integrandoli con le informazioni mancanti. 
+ 
+
+ I dati inseriti vengono elaborati e viene generata la fattura nel formato previsto da SDI. Il Fornitore dovrà firmare digitalmente la fattura e autorizzare l'invio della stessa al SDI. 
+ 
+
+ Il sistema archivia la fattura inviata al SDI e mette a disposizione del Fornitore funzioni di interrogazione che gli permettono di consultare (per 30 GG) sia lo stato di lavorazione della fattura sia il documento fattura. 
+ 
+
+ 
+ 
+
+ 3. CONSERVAZIONE 
+ 
+
+ Il Sistema provvede agli adempimenti relativi alla conservazione, delle fatture elaborate, per il periodo di tempo previsto dalle normative vigenti, e mette a disposizione del fornitore gli strumenti per la richiesta di accesso ai documenti conservati. 
+ 
+
+ Sulla base degli articoli 5 e 6 del DM 23 gennaio 2004 e dei successivi provvedimenti attuativi, il Sistema consente la comunicazione per via telematica dell'impronta dell'archivio informatico delle fatture conservate e l'esibizione per via telematica delle stesse. 
+ 
+
+ 
+ 
+
+ 4. SERVIZI DI COMUNICAZIONE CON IL SISTEMA DI INTERSCAMBIO (SDI) 
+ 
+
+ Il Sistema compone il messaggio secondo le regole stabilite dal SDI, lo invia allo stesso tramite Porta di Dominio (PDD). Il Sistema, inoltre, riceve dallo SDI e rende disponibili ai Fornitori, nell'apposita sezione dell'area di lavoro di ciascun Fornitore, i messaggi (ricevute e notifiche) previsti dalle Regole Tecniche allegate al presente regolamento.

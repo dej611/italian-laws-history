@@ -1,0 +1,997 @@
+ALLEGATO "A" 
+ 
+
+ 
+ 
+
+ FORMATO DELLA FATTURA ELETTRONICA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SOMMARIO 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ 2. CONTENUTO INFORMATIVO 
+ 
+
+ 3. INFORMAZIONI FISCALI 
+ 
+
+ 3.1 Cedente/Prestatore 
+ 
+
+ 3.2 Rappresentante Fiscale Del Cedente/Prestatore 
+ 
+
+ 3.3 Cessionario/Committente 
+ 
+
+ 3.4 Soggetto Emittente 
+ 
+
+ 3.5 Dati Generali 
+ 
+
+ 3.6 Beni/Servizi 
+ 
+
+ 4. INFORMAZIONI PER LA TRASMISSIONE ATTRAVERSO SDI 
+ 
+
+ 4.1 Trasmittente 
+ 
+
+ 4.2 Destinatario 
+ 
+
+ 5. INFORMAZIONI PER l'INTEGRAZIONE NEL PROCESSO DI CICLO PASSIVO 
+ 
+
+ 5.1 Ordine Acquisto 
+ 
+
+ 5.2 Contratto 
+ 
+
+ 5.3 Ricezione 
+ 
+
+ 5.4 Fatture Collegate 
+ 
+
+ 5.5 Cassa Previdenziale 
+ 
+
+ 6. ALTRE INFORMAZIONI 
+ 
+
+ 6.1 Trasmittente 
+ 
+
+ 6.2 Cedente/Prestatore 
+ 
+
+ 6.3 Rappresentante Fiscale del Cedente/Prestatore 
+ 
+
+ 6.4 Cessionario/Committente 
+ 
+
+ 6.5 Terzo Intermediario Soggetto Emittente 
+ 
+
+ 6.6 Dati Generali 
+ 
+
+ 6.7 Beni/Servizi 
+ 
+
+ 6.8 Pagamento 
+ 
+
+ 6.9 Allegati 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ Il presente documento descrive le informazioni presenti nella fattura elettronica di cui al comma 212, lettera b) della legge n. 244/2007. 
+ 
+
+ I dati delle fatture elettroniche da trasmettere al SdI devono essere rappresentati in un file in formato XML (eXtensible Markup Language) non contenente macroistruzioni o codici eseguibili tali da attivare funzionalità che possano modificare gli atti, i fatti o i dati nello stesso rappresentati. 
+ 
+
+ Le specifiche tecniche relative alla struttura sintattica ed alle caratteristiche informatiche delle suddette informazioni sono rese disponibili entro 30 giorni dalla data di pubblicazione del presente Regolamento sul sito del Sistema di Interscambio www.fatturapa.gov.it. 
+ 
+
+ Tali specifiche vengono predisposte ed aggiornate dall'Agenzia delle Entrate, nel ruolo di gestore del Sistema di Interscambio, sentite le strutture competenti del Ministero dell'economia e finanze e l'Agenzia per l'Italia digitale, garantendo la continuità del servizio ed i tempi tecnici necessari ad eventuali aggiornamenti delle procedure informatiche e organizzative. 
+ 
+
+ "Il tracciato della fattura di cui al presente regolamento è stato oggetto di una attività di confronto, nell'ambito del progetto PEPPOL (Pan European Pubblic Procurement On Line), con gli standard che prevedibilmente saranno usati a livello comunitario. 
+ 
+
+ In particolare: 
+ 
+
+ - è stata effettuata la mappatura tra la parte core dell'UBL 2.0 e il formato SdI; 
+ 
+
+ - è stato presentato un comment log con le richieste di integrazione dei dati presenti nel formato SdI ed assenti nel core UBL 2.0; 
+ 
+
+ - tale comment log è stato ufficialmente e completamente recepito dal gruppo di progetto a settembre 2009." 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2. CONTENUTO INFORMATIVO 
+ 
+
+ a) Il DPR 633 del 1972 reca, agli articoli 21 e 21-bis, le informazioni da riportare in fattura in quanto rilevanti ai fini fiscali. 
+ 
+
+ Ad integrazione, tenuto conto della natura informatica del processo, entrano a far parte del contenuto della fattura elettronica le ulteriori seguenti informazioni: 
+ 
+
+ b) informazioni indispensabili ai fini di una corretta trasmissione della fattura elettronica al soggetto destinatario attraverso il Sistema di Interscambio (SdI nel seguito) di cui all'articolo 1, comma 211, della legge 24 dicembre 2007, n. 244; 
+ 
+
+ c) informazioni utili per la completa dematerializzazione del processo di ciclo passivo attraverso l'integrazione del documento fattura con i sistemi gestionali e/o con i sistemi di pagamento; 
+ 
+
+ d) eventuali ulteriori informazioni che possono risultare di interesse per esigenze informative concordate tra cliente e fornitore ovvero specifiche dell'emittente, con riferimento a particolari tipologie di beni ceduti/prestati, ovvero di utilità per il colloquio tra le parti. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3. INFORMAZIONI FISCALI 
+ 
+
+ Vengono di seguito riportate le informazioni rilevanti ai fini fiscali. 
+ 
+
+ 3.1 CEDENTE/PRESTATORE 
+ 
+
+ Dati Anagrafici 
+ 
+
+ Identificativo Fiscale IVA (Partita IVA): numero di identificazione fiscale ai fini IVA; per i soggetti stabiliti nel territorio dello Stato Italiano corrisponde al numero di partita IVA assegnato dall'Anagrafe Tributaria; per tutti gli altri soggetti si fa riferimento all'identificativo fiscale assegnato dall'autorità del paese di residenza; all'identificativo fiscale deve essere anteposto il codice del paese assegnante (secondo lo standard ISO 3166-1 alpha-2 code). 
+ 
+
+ Denominazione: ditta, denominazione o ragione sociale del cedente/prestatore del bene/servizio da valorizzare nei casi di persona non fisica; la valorizzazione di questo campo è in alternativa a quella dei campi Nome e Cognome seguenti. 
+ 
+
+ Nome: nome del cedente/prestatore del bene/servizio da valorizzare nei casi di persona fisica; la valorizzazione di questo campo presuppone anche la valorizzazione del campo Cognome ed è in alternativa a quella del campo Denominazione. 
+ 
+
+ Cognome: cognome del cedente/prestatore del bene/servizio da valorizzare nei casi di persona fisica; la valorizzazione di questo campo presuppone anche la valorizzazione del campo Nome ed è in alternativa a quella del campo Denominazione. 
+ 
+
+ Regime Fiscale: regime fiscale del cedente/prestatore del bene/servizio. 
+ 
+
+ Dati Sede 
+ 
+
+ Indirizzo: indirizzo del cedente/prestatore del bene/servizio; deve essere valorizzato con il nome della via, piazza, etc. 
+ 
+
+ Numero Civico: numero civico relativo all'indirizzo specificato nel campo precedente. 
+ 
+
+ CAP: Codice di Avviamento Postale relativo all'indirizzo. 
+ 
+
+ Comune: comune cui si riferisce l'indirizzo. 
+ 
+
+ Provincia: sigla della provincia di appartenenza del comune. 
+ 
+
+ Nazione: codice della nazione espresso secondo lo standard ISO 3166-1 alpha-2 code. 
+ 
+
+ Dati Stabile Organizzazione 
+ 
+
+ I campi indicati di seguito devono essere valorizzati nei soli casi in cui il cedente/prestatore è un soggetto non residente ed effettua la transazione oggetto del documento tramite l'organizzazione residente sul territorio nazionale. Si riferiscono alla stabile organizzazione in Italia. 
+ 
+
+ Indirizzo: indirizzo della stabile organizzazione del cedente/prestatore del bene/servizio; deve essere valorizzato con il nome della via, piazza, etc. Numero Civico: numero civico relativo all'indirizzo specificato nel campo precedente. 
+ 
+
+ CAP: Codice di Avviamento Postale relativo all'indirizzo. 
+ 
+
+ Comune: comune cui si riferisce l'indirizzo. 
+ 
+
+ Provincia: sigla della provincia di appartenenza del comune. 
+ 
+
+ Dati Iscrizione R.E.A. 
+ 
+
+ Tali campi devono essere valorizzati nei casi di società soggette al vincolo dell'iscrizione nel registro delle imprese ai sensi dell'art. 2250 del codice civile. 
+ 
+
+ Ufficio: sigla della provincia ove ha sede l'Ufficio del Registro delle Imprese presso il quale è registrata la società. 
+ 
+
+ Numero REA: numero di repertorio con il quale la società è iscritta nel Registro delle Imprese. 
+ 
+
+ Capitale Sociale: indica il capitale sociale quale somma effettivamente versata e quale risulta esistente dall'ultimo bilancio della società; questo campo è valorizzato nei soli casi di società di capitali (SPA, SAPA, SRL). 
+ 
+
+ Socio Unico: questo campo è valorizzato nei soli casi di società a responsabilità limitata (SRL); indica se queste si compongono di un unico socio o di più soci. 
+ 
+
+ Stato Liquidazione: indica se la società si trova in stato di liquidazione oppure no. 
+ 
+
+ 
+ 
+
+ 3.2 RAPPRESENTANTE FISCALE DEL CEDENTE/PRESTATORE 
+ 
+
+ Dati Anagrafici 
+ 
+
+ Partita IVA: numero di partita IVA assegnato dall'Anagrafe Tributaria al rappresentante fiscale del cedente/prestatore. 
+ 
+
+ Denominazione: ditta, denominazione o ragione sociale del rappresentante fiscale del cedente/prestatore da valorizzare nei casi di persona non fisica; la valorizzazione di questo campo è in alternativa a quella dei campi Nome e Cognome seguenti. 
+ 
+
+ Nome: nome del rappresentante fiscale del cedente/prestatore da valorizzare nei casi di persona fisica; la valorizzazione di questo campo presuppone anche la valorizzazione del campo Cognome ed è in alternativa a quella del campo Denominazione. 
+ 
+
+ Cognome: cognome del rappresentante fiscale del cedente/prestatore da valorizzare nei casi di persona fisica; la valorizzazione di questo campo presuppone anche la valorizzazione del campo Nome ed è in alternativa a quella del campo Denominazione. 
+ 
+
+ 
+ 
+
+ 3.3 CESSIONARIO/COMMITTENTE 
+ 
+
+ Dati Anagrafici 
+ 
+
+ Partita IVA: numero di partita IVA assegnato dall'Anagrafe Tributaria al cessionario/committente; 
+ 
+
+ Codice Fiscale: numero di codice fiscale assegnato dall'Anagrafe Tributaria al cessionario/committente; 
+ 
+
+ Denominazione: denominazione del cessionario/committente (corrisponde alla struttura destinataria della fattura). 
+ 
+
+ Dati della Sede ovvero, nei casi previsti dal D.M. n° 370/2000, dell'ubicazione dell'utenza 
+ 
+
+ Indirizzo: indirizzo del cessionario/committente; deve essere valorizzato con il nome della via, piazza, etc. 
+ 
+
+ Numero Civico: numero civico relativo all'indirizzo specificato nel campo precedente. 
+ 
+
+ CAP: Codice di Avviamento Postale relativo all'indirizzo. 
+ 
+
+ Comune: comune cui si riferisce l'indirizzo. 
+ 
+
+ Provincia: sigla della provincia di appartenenza del comune. 
+ 
+
+ 
+ 
+
+ 3.4 SOGGETTO EMITTENTE 
+ 
+
+ è presente nei casi di documenti emessi da un soggetto diverso dal cedente/prestatore. 
+ 
+
+ Soggetto Emittente: codice che sta ad indicare se la fattura è stata emessa da parte del cessionario/committente ovvero da parte di un terzo per conto del cedente/prestatore. 
+ 
+
+ 
+ 
+
+ 3.5 DATI GENERALI 
+ 
+
+ Nel caso di "lotto di fatture" questi dati devono essere ripetuti per ogni fattura del lotto. 
+ 
+
+ Dati Generali Documento 
+ 
+
+ Tipo Documento: tipologia del documento oggetto della trasmissione (fattura, acconto/anticipo su fattura, nota di credito, parcella .). 
+ 
+
+ Divisa: tipo di valuta utilizzata per l'indicazione degli importi espressa secondo lo standard ISO 4217 alpha-3:2001. 
+ 
+
+ Data fattura: data del documento (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Numero: numero progressivo attribuito dal cedente/prestatore al documento. 
+ 
+
+ Tipo Ritenuta: tipologia di ritenuta di acconto (persone fisiche o persone giuridiche) da valorizzare nei casi in cui ne è prevista l'applicazione. 
+ 
+
+ Importo Ritenuta: importo della ritenuta di acconto da indicare solo se valorizzato il campo Tipo Ritenuta. 
+ 
+
+ Aliquota Ritenuta: aliquota (espressa in percentuale %) della ritenuta d'acconto da indicare solo se valorizzato il campo Tipo Ritenuta. 
+ 
+
+ Causale Pagamento: codice della causale del pagamento (il codice corrisponde a quello utilizzato per la compilazione del modello 770S) da valorizzare nei casi di documenti soggetti a ritenuta d'acconto (campo Tipo Ritenuta valorizzato). 
+ 
+
+ Numero Bollo: estremi della relativa autorizzazione rilasciata dall'Ufficio delle Entrate per l'assolvimento in modo virtuale, da valorizzare nei casi in cui sia prevista l'imposta di bollo. 
+ 
+
+ Importo Bollo: importo dell'imposta di bollo da indicare solo se valorizzato il campo Numero Bollo. 
+ 
+
+ Tipo Cassa Previdenziale: cassa di previdenza della categoria professionale di appartenenza, da valorizzare nei soli casi in cui è presente. 
+ 
+
+ Aliquota Cassa: aliquota contributiva (espressa in percentuale %) prevista per la cassa di previdenza, da indicare solo se valorizzato il campo Tipo Cassa Previdenziale. 
+ 
+
+ Importo Contributo Cassa: importo del contributo relativo alla cassa di previdenza della categoria professionale, da indicare solo se valorizzato il campo Tipo Cassa Previdenziale. 
+ 
+
+ Aliquota IVA: IVA (espressa in percentuale %) applicata alla cassa; nel caso di non applicabilità, il campo deve essere valorizzato a zero. 
+ 
+
+ Dati Ddt (documento di trasporto) 
+ 
+
+ Nei casi in cui sia presente un documento di trasporto collegato alla fattura, casi di fatturazione differita, vanno valorizzati i seguenti campi per ogni documento di trasporto. Numero DDT: numero del Documento di Trasporto. 
+ 
+
+ Data DDT: data del Documento di Trasporto (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Normativa Di Riferimento 
+ 
+
+ Norma Di Riferimento: norma di riferimento, comunitaria o nazionale, da indicare nei casi in cui il cessionario/committente è debitore di imposta in luogo del cedente/prestatore (reverse charge), o nei casi in cui sia tenuto ad emettere autofattura. 
+ 
+
+ Fattura Principale 
+ 
+
+ è presente nei casi di fatture per operazioni accessorie, emesse dagli 'autotrasportatorì per usufruire delle agevolazioni in materia di registrazione e pagamento IVA. 
+ 
+
+ Numero Fattura Principale: numero della fattura relativa al trasporto di beni, da indicare sulle fatture emesse dagli autotrasportatori per certificare le operazioni accessorie. 
+ 
+
+ Data Fattura Principale: data della fattura principale (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ 
+ 
+
+ 3.6 BENI/SERVIZI 
+ 
+
+ Nel caso di "lotto di fatture" questi dati devono essere ripetuti per ogni fattura del lotto. 
+ 
+
+ Dettaglio Linee 
+ 
+
+ Numero Linea: numero che identifica la linea di dettaglio del bene/servizio riportata sul documento. 
+ 
+
+ Tipo Cessione Prestazione: codice che identifica la tipologia di cessione/prestazione qualora si tratti di sconto, premio, abbuono o spesa accessoria; è quindi valorizzabile soltanto in presenza di questi casi. 
+ 
+
+ Descrizione: natura e qualità del bene/servizio oggetto della cessione/prestazione; può fare anche riferimento ad un precedente documento emesso a titolo di anticipo/acconto. 
+ 
+
+ Quantità: numero di unità cedute/prestate; può non essere valorizzato nei casi in cui la prestazione non sia quantificabile. 
+ 
+
+ Unità Misura: unità di misura in cui è espresso il campo Quantità. 
+ 
+
+ Data Inizio Periodo: data iniziale del periodo di riferimento cui si riferisce l'eventuale servizio prestato (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Data Fine Periodo: data finale del periodo di riferimento cui si riferisce l'eventuale servizio prestato (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Prezzo Unitario: prezzo unitario del bene/servizio; nel caso di beni ceduti a titolo di sconto, premio o abbuono, l'importo indicato rappresenta il "valore normale". 
+ 
+
+ Percentuale Sconto: eventuale sconto applicato (espresso in percentuale %). 
+ 
+
+ Prezzo Totale: importo totale del bene/servizio al netto dell'eventuale sconto. 
+ 
+
+ Aliquota IVA: IVA (espressa in percentuale %) applicata alla cessione/prestazione; nel caso di non applicabilità, il campo deve essere valorizzato a zero. 
+ 
+
+ Riepilogo Aliquota 
+ 
+
+ è presente nei casi in cui, almeno in una linea del blocco Dettaglio Linee figuri il campo Aliquota IVA diverso da zero, ovvero se presenti spese accessorie 
+ 
+
+ Aliquota IVA: IVA (espressa in percentuale %). 
+ 
+
+ Norma Riferimento Aliquota Ridotta: normativa di riferimento da indicare nei casi di aliquota IVA ridotta. 
+ 
+
+ Spese Accessorie: corrispettivi relativi alle cessioni accessorie, (es. imballaggi etc.) qualora presenti. 
+ 
+
+ Imponibile: valore totale dell'imponibile per singola aliquota. 
+ 
+
+ Arrotondamento: importo dell'arrotondamento sull'imponibile, qualora presente. 
+ 
+
+ Imposta: imposta corrispondente all'applicazione dell'aliquota IVA sul relativo imponibile. 
+ 
+
+ Esigibilità IVA: codice che esprime il regime di esigibilità dell'IVA (differita o immediata). 
+ 
+
+ Altri Dati Di Riepilogo 
+ 
+
+ Natura: codice che esprime la natura delle operazioni che non rientrano tra quelle imponibili. 
+ 
+
+ Importo: importo riferito alle operazioni di cui al campo Natura. 
+ 
+
+ Riferimento Normativo: normativa di riferimento per le operazioni di cui al campo Natura. 
+ 
+
+ Dati Su Veicoli 
+ 
+
+ Sono presenti nei casi di cessioni tra paesi membri di mezzi di trasporto nuovi. Dati relativi ai veicoli di cui all'art. 38, comma 4 del DL 331 del 1993. 
+ 
+
+ Data: data di prima immatricolazione o di iscrizione del mezzo di trasporto nei pubblici registri (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Totale Percorso: totale chilometri percorsi, oppure totale ore navigate o volate del mezzo di trasporto. 
+ 
+
+ 
+ 
+
+ 4. INFORMAZIONI PER LA TRASMISSIONE ATTRAVERSO SDI 
+ 
+
+ Vengono di seguito riportate le informazioni indispensabili per garantire la trasmissione delle fatture elettroniche attraverso il SdI di cui al precedente paragrafo 2 b): 
+ 
+
+ 
+ 
+
+ 4.1 TRASMITTENTE 
+ 
+
+ Identificativo Fiscale: numero di identificazione fiscale del trasmittente: corrisponde al codice fiscale assegnato dall'Anagrafe Tributaria; per i non residenti si fa riferimento all'identificativo fiscale assegnato dall'autorità del paese di residenza; all'identificativo fiscale deve essere anteposto il codice del paese assegnante (secondo lo standard ISO 3166-1 alpha-2 code). 
+ 
+
+ Progressivo Invio: progressivo univoco che il soggetto trasmittente attribuisce ad ogni documento fattura elettronica. 
+ 
+
+ Formato Trasmissione: codice identificativo della versione della struttura informatica con cui è stato predisposto il documento fattura elettronica. 
+ 
+
+ 
+ 
+
+ 4.2 DESTINATARIO 
+ 
+
+ Codice Destinatario: identifica l'ufficio centrale o periferico, appartenente all'Amministrazione di cui all'articolo 1 lettera 2) del presente Regolamento, al quale è destinata la fattura; la sua valorizzazione deve rispettare quanto previsto dall'allegato D di cui all'art. 3 lettera 3) del presente Regolamento. 
+ 
+
+ 
+ 
+
+ 5. INFORMAZIONI PER L'INTEGRAZIONE NEL PROCESSO DI CICLO PASSIVO 
+ 
+
+ Vengono di seguito riportate le informazioni utili per la completa dematerializzazione del processo di ciclo passivo di cui al precedente paragrafo 2 c); la loro definizione, nel rapporto contrattuale tra le parti, è fortemente consigliata in quanto la loro valorizzazione è propedeutica alla dematerializzazione del ciclo passivo delle amministrazioni. 
+ 
+
+ Nel caso di "lotto di fatture" questi dati possono essere riportati per ogni fattura del lotto. 
+ 
+
+ 
+ 
+
+ 5.1 ORDINE ACQUISTO 
+ 
+
+ Dati relativi all'ordine di acquisto dal quale scaturisce la cessione/prestazione oggetto del documento fattura. 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce l'ordine di acquisto così come identificato dai tre campi successivi (Identificativo Documento, Data, Numero Item); nel caso in cui l'ordine di acquisto si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ Identificativo Documento: numero dell' ordine di acquisto associato alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Data: data dell' ordine di acquisto associato alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Numero Item: identificativo della singola voce (linea di ordine) all'interno dell'ordine di acquisto associata alla fattura secondo quanto indicato nel campi Riferimento Numero Linea. 
+ 
+
+ 
+ 
+
+ 5.2 CONTRATTO 
+ 
+
+ Dati relativi al contratto dal quale scaturisce la cessione/prestazione oggetto del documento fattura. 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce il contratto così come identificato dai tre campi successivi (Identificativo Documento, Data, Numero Item); nel caso in cui il contratto si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ Identificativo Documento: numero del contratto associato alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Data: data del contratto associato alla fattura secondo quanto indicato nel campo Riferimento Numero Linea (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Numero Item: identificativo della singola voce (linea di contratto) all'interno del contratto associata alla fattura secondo quanto indicato nel campi Riferimento Numero Linea. 
+ 
+
+ 
+ 
+
+ 5.3 RICEZIONE 
+ 
+
+ Dati relativi alla ricezione dei beni/servizi oggetto del documento fattura. 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce la ricezione così come identificata dai tre campi successivi (Identificativo Documento, Data, Numero Item); nel caso in cui la ricezione si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ Identificativo Documento: numero della ricezione associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Data: data della ricezione associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Numero Item: identificativo della singola voce (linea di ricezione) all'interno della ricezione associata alla fattura secondo quanto indicato nel campi Riferimento Numero Linea. 
+ 
+
+ 
+ 
+
+ 5.4 FATTURE COLLEGATE 
+ 
+
+ Dati relativi alla fattura alla quale si collega il documento in oggetto. 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce la fattura collegata così come identificata dai tre campi successivi (Identificativo Documento, Data, Numero Item); nel caso in cui la fattura collegata si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ Identificativo Documento: numero della fattura collegata associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Data fattura: data della fattura collegata associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Numero Item: identificativo della singola voce (linea di fattura collegata) all'interno della fattura collegata associata alla fattura secondo quanto indicato nel campi Riferimento Numero Linea. 
+ 
+
+ 
+ 
+
+ 5.5 CASSA PREVIDENZIALE 
+ 
+
+ Ritenuta Acconto: indica se il contributo cassa è soggetto a ritenuta. 
+ 
+
+ Imponibile Cassa: importo sul quale applicare il contributo cassa previdenziale per singola aliquota. 
+ 
+
+ Natura: codice che esprime la natura delle operazioni che non rientrano tra quelle imponibili. 
+ 
+
+ Riferimento Amministrazione: identificativo del riferimento amministrativo - contabile utilizzabile per inserire un eventuale riferimento utile all'amministrazione destinataria (es.: capitolo di spesa, conto economico .). 
+ 
+
+ 
+ 
+
+ 6. ALTRE INFORMAZIONI 
+ 
+
+ Vengono di seguito riportate le informazioni che possono essere inserite in fattura a seguito di accordi tra le parti ovvero per esigenze specifiche del soggetto emittente, di cui al precedente paragrafo 2 d). 
+ 
+
+ 
+ 
+
+ 6.1 TRASMITTENTE 
+ 
+
+ Contatti trasmittente 
+ 
+
+ Telefono: contatto telefonico fisso/mobile. 
+ 
+
+ Email: indirizzo di posta elettronica. 
+ 
+
+ 
+ 
+
+ 6.2 CEDENTE/PRESTATORE 
+ 
+
+ Dati Anagrafici 
+ 
+
+ Codice Fiscale: codice fiscale del cedente/prestatore assegnato dall'Anagrafe Tributaria. 
+ 
+
+ Codice EORI: numero del Codice EORI (Economic Operator Registration and Identification) in base al Regolamento (CE) n. 312 del 16 aprile 2009. In vigore dal 1 Luglio 2009 tale codice identifica gli operatori economici nei rapporti con le autorità doganali sull'intero territorio dell'Unione Europea. 
+ 
+
+ Titolo: titolo onorifico del cedente/prestatore. 
+ 
+
+ Albo Professionale: nome dell'albo professionale cui appartiene il cedente/prestatore. 
+ 
+
+ Provincia Albo: provincia dell'albo professionale. 
+ 
+
+ Numero Iscrizione Albo: numero di iscrizione all'albo professionale. 
+ 
+
+ Data Iscrizione Albo: data di iscrizione all'albo professionale (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Contatti 
+ 
+
+ Telefono: contatto telefonico fisso/mobile del cedente/prestatore. 
+ 
+
+ Fax: numero di fax del cedente/prestatore. 
+ 
+
+ Email: indirizzo di posta elettronica del cedente/prestatore. 
+ 
+
+ Riferimento Amministrazione: Codice identificativo del fornitore presente nell'anagrafica del sistema gestionale in uso presso l'Amministrazione. 
+ 
+
+ 
+ 
+
+ 6.3 RAPPRESENTANTE FISCALE DEL CEDENTE/PRESTATORE 
+ 
+
+ Codice Fiscale: numero di codice fiscale assegnato dall'Anagrafe Tributaria del rappresentante fiscale del cedente/prestatore. 
+ 
+
+ Codice EORI: numero del Codice EORI (Economic Operator Registration and Identification) in base al Regolamento (CE) n. 312 del 16 aprile 2009. In vigore dal 1 Luglio 2009 tale codice identifica gli operatori economici nei rapporti con le autorità doganali sull'intero territorio dell'Unione Europea. 
+ 
+
+ Titolo: titolo onorifico del rappresentante fiscale del cedente/prestatore. 
+ 
+
+ 
+ 
+
+ 6.4 CESSIONARIO/COMMITTENTE 
+ 
+
+ Codice EORI: numero del Codice EORI (Economic Operator Registration and Identification) in base al Regolamento (CE) n. 312 del 16 aprile 2009. In vigore dal 1 Luglio 2009. Tale codice identifica gli operatori economici nei rapporti con le autorità doganali sull'intero territorio dell'Unione Europea. 
+ 
+
+ 
+ 
+
+ 6.5 TERZO INTERMEDIARIO SOGGETTO EMITTENTE 
+ 
+
+ Identificativo Fiscale: numero di identificazione fiscale; corrisponde al codice fiscale assegnato dall'Anagrafe Tributaria; per i non residenti si fa riferimento all'identificativo fiscale assegnato dall'autorità del paese di residenza; all'identificativo fiscale deve essere anteposto il codice del paese assegnante (secondo lo standard ISO 3166-1 alpha-2 code). 
+ 
+
+ Denominazione: ditta, denominazione o ragione sociale del terzo intermediario soggetto emittente qualora si tratti di persona non fisica (alternativo ai campi Nome e Cognome seguenti). 
+ 
+
+ Nome: nome del terzo intermediario soggetto emittente qualora si tratti di persona fisica (alternativo, con il campo Cognome, al campo Denominazione). 
+ 
+
+ Cognome: cognome del terzo intermediario soggetto emittente qualora si tratti di persona fisica (alternativo, con il campo Nome, al campo Denominazione). 
+ 
+
+ Titolo: titolo onorifico del terzo intermediario soggetto emittente. 
+ 
+
+ CodEORI: numero del Codice EORI (Economic Operator Registration and Identification) in base al Regolamento (CE) n. 312 del 16 aprile 2009. In vigore dal 1 Luglio 2009. Tale codice identifica gli operatori economici nei rapporti con le autorità doganali sull'intero territorio dell'Unione Europea. 
+ 
+
+ 
+ 
+
+ 6.6 DATI GENERALI 
+ 
+
+ Nel caso di "lotto di fatture" questi dati possono essere riportati per ogni fattura del lotto. 
+ 
+
+ Dati Generali Documento 
+ 
+
+ Importo Totale: importo totale del documento comprensivo di imposta a debito del cessionario/committente. 
+ 
+
+ Arrotondamento: importo dell'arrotondamento sul totale documento, qualora presente. 
+ 
+
+ Causale: descrizione della causale del documento. 
+ 
+
+ Dati Convenzione 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce la convenzione così come identificata dai tre campi successivi (Identificativo Documento, Data, Numero Item); nel caso in cui la convenzione si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ Identificativo Documento: numero della convenzione associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea. 
+ 
+
+ Data: data della convenzione associata alla fattura secondo quanto indicato nel campo Riferimento Numero Linea (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Numero Item: identificativo della singola voce (linea di convenzione) all'interno della convenzione associata alla fattura secondo quanto indicato nel campi Riferimento Numero Linea. 
+ 
+
+ Dati Ordine Acquisto, Contratto, Convenzione, Ricezione, Fatture Collegate 
+ 
+
+ Dati relativi a Ordini, Contratti, Convenzioni, Ricezioni e Fatture Collegate al documento in oggetto. 
+ 
+
+ Codice Commessa Convenzione: codice della commessa o della convenzione collegata alla fattura. 
+ 
+
+ Codice CUP: codice gestito dal Comitato Interministeriale per la Programmazione Economica (CIPE) che caratterizza ogni progetto di investimento pubblico (Codice Unitario Progetto). 
+ 
+
+ Codice CIG: codice gestito dall'Autorità per la Vigilanza sui Contratti Pubblici di Lavori, Servizi e Forniture (AVCP) che caratterizza ogni gara pubblica (Codice Identificativo Gara). 
+ 
+
+ Dati Riferimento Sal (Stato avanzamento lavori) 
+ 
+
+ Riferimento Fase: fase dello stato avanzamento cui la fattura si riferisce. 
+ 
+
+ Dati Ddt (Documento Di Trasporto) 
+ 
+
+ Causale Trasporto: causale del trasporto. 
+ 
+
+ Vettore: vettore del trasporto. 
+ 
+
+ Numero Colli: numero dei colli trasportati. 
+ 
+
+ Data Ora Ritiro: data e ora del ritiro della merce (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Data Inizio Trasporto: data di inizio del trasporto (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Peso: peso della merce trasportata. 
+ 
+
+ Unita Misura Peso: unità di misura riferita al peso della merce trasportata. 
+ 
+
+ Tipo Resa: codice che identifica la tipologia di resa. 
+ 
+
+ Indirizzo Resa: indirizzo relativo alla resa (nome della via, piazza, etc.). 
+ 
+
+ Numero Civico: numero civico dell'indirizzo relativo alla resa. 
+ 
+
+ CAP: codice di avviamento postale dell'indirizzo relativo alla resa. 
+ 
+
+ Comune: comune cui si riferisce l'indirizzo relativo alla resa. 
+ 
+
+ Provincia: sigla della provincia di appartenenza del comune. 
+ 
+
+ Nazione: codice della nazione espresso secondo lo standard ISO 3166-1 alpha-2 code. 
+ 
+
+ Riferimento Numero Linea: numero della linea o delle linee di dettaglio della fattura alle quali si riferisce il DDT (così come identificato dai campi NumeroDDT e DataDDT); nel caso in cui il documento di trasporto si riferisce all'intera fattura, questo campo non deve essere valorizzato. 
+ 
+
+ 
+ 
+
+ 6.7 BENI/SERVIZI 
+ 
+
+ Nel caso di "lotto di fatture" questi dati possono essere riportati per ogni fattura del lotto. 
+ 
+
+ Dettaglio Linee 
+ 
+
+ Codice Articolo Fornitore: codice dell'articolo da catalogo fornitore. 
+ 
+
+ Codice Articolo CPV: codifica del bene/servizio secondo il sistema di classificazione unitario dell'oggetto degli appalti pubblici CPV (Common Procurement Vocabulary). 
+ 
+
+ Codice TARIC: codice di TARiffa Integrata Comunitaria, presente nel sistema informativo doganale AIDA. 
+ 
+
+ Ritenuta Acconto: indica se la linea della fattura si riferisce ad una cessione/prestazione soggetta a ritenuta di acconto. 
+ 
+
+ Natura: codice che esprime la natura delle operazioni che non rientrano tra quelle imponibili. 
+ 
+
+ Riferimento Amministrazione: identificativo del riferimento amministrativo utilizzabile per inserire un eventuale riferimento utile all'amministrazione destinataria (es: capitolo di spesa, conto economico .). 
+ 
+
+ 
+ 
+
+ 6.8 PAGAMENTO 
+ 
+
+ Nel caso di "lotto di fatture" questi dati possono essere riportati per ogni fattura del lotto. Condizioni Pagamento: codice che identifica le condizioni di pagamento. 
+ 
+
+ Dettaglio Pagamento 
+ 
+
+ Beneficiario: estremi anagrafici del beneficiario del pagamento (utilizzabile se si intende indicare un beneficiario diverso dal cedente/prestatore) Modalità Pagamento: codice che identifica le modalità di pagamento. 
+ 
+
+ Data Riferimento Termini Pagamento: data dalla quale decorrono i termini di pagamento (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Giorni Termini Pagamento: termine di pagamento espresso in giorni a partire dalla data di riferimento di cui al campo Data Riferimento Termini Pagamento. 
+ 
+
+ Data Scadenza Pagamento: data di scadenza del pagamento (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Importo Pagamento: importo relativo al pagamento. 
+ 
+
+ Codice Ufficio Postale: codice dell'ufficio postale (nei casi di modalità di pagamento che ne presuppongono l'indicazione). 
+ 
+
+ Cognome Quietanzante: cognome del quietanzante, nei casi di modalità di pagamento di "contanti presso tesoreria". 
+ 
+
+ Nome Quietanzante: nome del quietanzante, nei casi di modalità di pagamento di "contanti presso tesoreria". 
+ 
+
+ Codice Fiscale Quietanzante: codice fiscale del quietanzante nei casi di modalità di pagamento di "contanti presso tesoreria". 
+ 
+
+ Titolo Quietanzante: titolo del quietanzante nei casi di modalità di pagamento di "contanti presso tesoreria". 
+ 
+
+ Istituto Finanziario: nome dell'Istituto Finanziario presso il quale effettuare il pagamento. 
+ 
+
+ IBAN: coordinata bancaria internazionale che consente di identificare, in maniera standard, il conto corrente del beneficiario (International Bank Account Number.) 
+ 
+
+ ABI: codice ABI (Associazione Bancaria Italiana). 
+ 
+
+ CAB: codice CAB (Codice di Avviamento Bancario). 
+ 
+
+ BIC: codice BIC (Bank Identifier Code). 
+ 
+
+ Sconto Pagamento Anticipato: ammontare dello sconto per pagamento anticipato. 
+ 
+
+ Data Limite Pagamento Anticipato: data limite stabilita per il pagamento anticipato (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ Penalità Pagamenti Ritardati: ammontare della penalità dovuta per pagamenti ritardati. 
+ 
+
+ Data Decorrenza Penale: data di decorrenza della penale (espressa secondo il formato ISO 8601:2004). 
+ 
+
+ 
+ 
+
+ 6.9 ALLEGATI 
+ 
+
+ Nel caso di "lotto di fatture" questi dati possono essere riportati per ogni fattura del lotto. 
+ 
+
+ Per ciascun documento allegato alla fattura sono previsti i seguenti elementi identificativi: 
+ 
+
+ Attachment: il documento allegato alla fattura elettronica. 
+ 
+
+ Nome Attachment: il nome identificativo del documento. 
+ 
+
+ Algoritmo Compressione: il codice che identifica l'eventuale algoritmo utilizzato per la compressione dell'allegato. 
+ 
+
+ Formato Attachment: il codice che identifica il formato dell'allegato. 
+ 
+
+ Descrizione Attachment: la descrizione del documento.

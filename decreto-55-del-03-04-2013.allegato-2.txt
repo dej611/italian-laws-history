@@ -1,0 +1,316 @@
+ALLEGATO "B" 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ REGOLE TECNICHE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ 2. MODALITà DI EMISSIONE DELLE FATTURE ELETTRONICHE 
+ 
+
+ 3. MODALITà DI TRASMISSIONE DELLE FATTURE ELETTRONICHE 
+ 
+
+ 3.1 TRASMISSIONE DELLA FATTURA 
+ 
+
+ 4. MODALITà DI INTERAZIONE CON IL SISTEMA DI INTERSCAMBIO 
+ 
+
+ 4.1 PROCEDURA PER L'ACCREDITAMENTO DEL SOGGETTO RICEVENTE 
+ 
+
+ 4.2 PROCEDURA PER L'ACCREDITAMENTO DEL SOGGETTO TRASMITTENTE 
+ 
+
+ 4.3 PROCEDURA DI INVIO DELLA FATTURA AL SISTEMA DI INTERSCAMBIO 
+ 
+
+ 4.4 PROCEDURA DI INOLTRO DELLA FATTURA DA PARTE DEL SISTEMA DI INTERSCAMBIO 
+ 
+
+ 4.5 PROCEDURA DI GESTIONE DELLE RICEVUTE E DELLE NOTIFICHE 
+ 
+
+ 5. CONTROLLI EFFETTUATI DAL SISTEMA DI INTERSCAMBIO 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ Il presente documento descrive le regole tecniche delle soluzioni informatiche da utilizzare per l'emissione e la trasmissione delle fatture di cui all'articolo 1, comma 213, lettera b), della legge 24 dicembre 2007, n. 244, nonchè quelle idonee a garantire l'attestazione della data, l'autenticità dell'origine e l'integrità del contenuto della fattura elettronica di cui all'articolo 1, comma 213, lettera gbis), della legge n. 244. 
+ 
+
+ Le relative specifiche tecniche di dettaglio sono rese disponibili entro 30 giorni dalla data di pubblicazione del presente Regolamento sul sito del Sistema di Interscambio www.fatturapa.gov.it. 
+ 
+
+ Tali specifiche tecniche vengono predisposte ed aggiornate dall'Agenzia delle Entrate, nel ruolo di gestore del Sistema di Interscambio, sentite le strutture competenti del Ministero dell'economia e finanze e l'Agenzia per l'Italia digitale 
+ 
+
+ 
+ 
+
+ 2. MODALITà DI EMISSIONE DELLE FATTURE ELETTRONICHE 
+ 
+
+ Il presente paragrafo descrive le regole di emissione della fattura elettronica per la formazione del documento nella forma e nel contenuto previsto per la trasmissione attraverso il Sistema di Interscambio (di seguito SdI). 
+ 
+
+ Ai sensi dell'art. 21, comma 3, del D.P.R. 26 ottobre 1972, n. 633, ai fini del presente regolamento si intende per fattura elettronica un documento informatico in formato XML (eXtensible Markup Language), sottoscritto con firma elettronica qualificata o digitale, secondo la normativa, anche tecnica, vigente in materia. 
+ 
+
+ Per quanto attiene al contenuto informativo della fattura, si fa riferimento all'allegato A di cui all'art. 2 comma 1 del presente Regolamento. Il contenuto informativo può riferirsi ad una fattura singola ovvero ad un lotto di fatture, in entrambi i casi si fa riferimento ad un unico documento informatico con le caratteristiche riportate precedentemente; nel seguito verrà utilizzato il termine "fattura" per indicare indistintamente sia la fattura singola sia il lotto di fatture. 
+ 
+
+ 
+ 
+
+ 3. MODALITà DI TRASMISSIONE DELLE FATTURE ELETTRONICHE 
+ 
+
+ Il presente paragrafo descrive i canali e le modalità per la trasmissione delle fatture elettroniche attraverso il SdI. 
+ 
+
+ 
+ 
+
+ 3.1 TRASMISSIONE DELLA FATTURA 
+ 
+
+ La trasmissione della fattura al SdI e da questi ai soggetti riceventi avviene attraverso l'utilizzo di uno dei seguenti canali: 
+ 
+
+ - un sistema di posta elettronica certificata (PEC) o analogo sistema di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni, nonchè l'integrità del contenuto delle stesse; 
+ 
+
+ - un sistema di cooperazione applicativa esposto su rete internet fruibile attraverso protocollo HTTPS per i soggetti non attestati su rete SPC (Sistema Pubblico di Connettività); 
+ 
+
+ - un sistema di cooperazione applicativa tramite porte di dominio attestate su rete SPC (Sistema Pubblico di Connettività); 
+ 
+
+ - un sistema di trasmissione dati tra terminali remoti basato su protocollo FTP all'interno di circuiti chiusi che identificano in modo certo i partecipanti e assicurano la sicurezza del canale; 
+ 
+
+ - un sistema di trasmissione telematica esposto su rete internet fruibile attraverso protocollo HTTPS per i soggetti accreditati. 
+ 
+
+ Le specifiche tecniche descrivono in dettaglio le modalità ed i canali di trasmissione utilizzabili. 
+ 
+
+ 
+ 
+
+ 4. MODALITà DI INTERAZIONE CON IL SISTEMA DI INTERSCAMBIO 
+ 
+
+ Il presente paragrafo descrive le procedure operative per la trasmissione delle fatture elettroniche e lo scambio di informazioni (ricevute, notifiche) tra gli attori del processo. Tutti gli aspetti e gli elementi necessari per l'interazione con il SdI sono descritti in dettaglio nelle specifiche tecniche. 
+ 
+
+ 
+ 
+
+ 4.1 PROCEDURA PER L'ACCREDITAMENTO DEL SOGGETTO RICEVENTE 
+ 
+
+ L'immissione e l'aggiornamento dei dati di competenza all'interno dell'anagrafica di riferimento deve essere svolto nel rispetto di quanto previsto dall'allegato D di cui all'art. 3 lettera 3) del presente Regolamento. 
+ 
+
+ Affinchè i soggetti riceventi possano interagire con il SdI devono essere soddisfatti i requisiti indispensabili alla loro qualificazione e al proprio riconoscimento secondo le modalità previste dalle regole tecniche della SPCCoop, DPCM 1 aprile 2008, pubblicate sulla G.U. n. 144 del 21 giugno 2008, e successive modificazioni. 
+ 
+
+ 
+ 
+
+ 4.2 PROCEDURA PER L'ACCREDITAMENTO DEL SOGGETTO TRASMITTENTE 
+ 
+
+ Affinchè i soggetti trasmittenti possano interagire con il SdI devono essere soddisfatti i requisiti minimi indispensabili alla loro identificazione, requisiti che sono specifici dei singoli canali utilizzati. 
+ 
+
+ Il soggetto che per trasmettere le fatture elettroniche al SdI intende utilizzare la posta elettronica certificata non ha necessità di identificarsi in via preventiva al SdI ma deve avvalersi di un gestore con il quale mantenere un rapporto finalizzato alla disponibilità del servizio; tale gestore deve essere tra quelli inclusi in apposito elenco pubblico gestito dall'Agenzia per l'Italia digitale, così come disciplinato dagli artt. 14 e 15 del DPR 11 febbraio 2005, n. 68 ("Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'art. 27 della legge 16 gennaio 2003, n. 3" - G.U. 28 aprile 2005, n. 97) e successive modificazioni; le modalità d'identificazione del soggetto a cui viene assegnata la casella di posta rispondono ai requisiti citati in precedenza. 
+ 
+
+ Il soggetto che per trasmettere le fatture elettroniche al SdI intende utilizzare un sistema di cooperazione applicativa, sia che si tratti di servizi esposti su SPC sia di servizi esposti su rete internet, deve necessariamente identificarsi al SdI tramite la sottoscrizione di un accordo di servizio con il SdI stesso; le modalità di sottoscrizione dell'accordo rispondono ai requisiti citati in precedenza e sono descritte nelle specifiche tecniche. 
+ 
+
+ Il soggetto che per trasmettere le fatture elettroniche al SdI intende utilizzare un sistema di trasmissione dati su protocollo FTP deve necessariamente identificarsi al SdI tramite la definizione e la sottoscrizione con il SdI di un protocollo di trasmissione; le modalità per la sottoscrizione del protocollo rispondono ai requisiti citati in precedenza e sono descritte nelle specifiche tecniche. 
+ 
+
+ 
+ 
+
+ 4.3 PROCEDURA DI INVIO DELLA FATTURA AL SISTEMA DI INTERSCAMBIO 
+ 
+
+ La procedura di invio della fattura vede, quali attori coinvolti: 
+ 
+
+ - il fornitore; 
+ 
+
+ - il SdI; 
+ 
+
+ - il soggetto trasmittente (se diverso dal fornitore). 
+ 
+
+ I passaggi rappresentativi si possono schematizzare nei punti seguenti: 
+ 
+
+ - il fornitore predispone la fattura elettronica secondo le regole di cui al paragrafo 2; 
+ 
+
+ - il fornitore stesso, o un terzo delegato ad emettere fattura per conto di questo, appone la firma elettronica qualificata o digitale sulla fattura predisposta; 
+ 
+
+ - il fornitore, o un terzo delegato, trasmette la fattura così generata, al SdI per mezzo dei canali e le modalità di cui al paragrafo 3. 
+ 
+
+ 
+ 
+
+ 4.4 PROCEDURA DI INOLTRO DELLA FATTURA DA PARTE DEL SISTEMA DI INTERSCAMBIO 
+ 
+
+ La procedura di inoltro della fattura elettronica dal SdI al destinatario vede, quali attori coinvolti: 
+ 
+
+ - il SdI; 
+ 
+
+ - il soggetto destinatario; 
+ 
+
+ - il soggetto ricevente (se diverso dal soggetto destinatario). 
+ 
+
+ Il SdI inoltra al soggetto destinatario, oppure ad un terzo soggetto ricevente di cui il destinatario si avvale, la fattura elettronica attraverso i canali e le modalità di cui al paragrafo 3. 
+ 
+
+ Nell'eventualità che nella fattura risulti un codice di riferimento del destinatario non corretto, il SdI procederà ad inviare l'esito negativo esplicativo al mittente. 
+ 
+
+ 
+ 
+
+ 4.5 PROCEDURA DI GESTIONE DELLE RICEVUTE E DELLE NOTIFICHE 
+ 
+
+ Tutti i canali di trasmissione descritti al precedente paragrafo 3 prevedono dei messaggi di ritorno a conferma del buon esito della trasmissione. Questi messaggi sono specifici delle infrastrutture di comunicazione e garantiscono la "messa a disposizione" del messaggio e dei file allegati (fatture o notifiche o ricevute) da parte di chi invia rispetto a chi riceve. Il SdI attesta l'avvenuto svolgimento delle fasi principali del processo di trasmissione delle fatture elettroniche attraverso un sistema di comunicazione che si basa sull'invio di ricevute e notifiche. 
+ 
+
+ La procedura può essere schematizzata nei punti seguenti: 
+ 
+
+ - il SdI, ricevuto correttamente il documento fattura, assegna un identificativo proprio ed effettua i controlli previsti al successivo par. 5; 
+ 
+
+ - in caso di controlli con esito negativo, il SdI invia una notifica di scarto al soggetto trasmittente; 
+ 
+
+ - nel caso di esito positivo dei controlli il SdI trasmette la fattura elettronica al destinatario; 
+ 
+
+ - nel caso di buon esito della trasmissione, il SdI invia al soggetto trasmittente una ricevuta di consegna della fattura elettronica; 
+ 
+
+ - nel caso in cui, per cause tecniche non imputabili al SdI, la trasmissione al destinatario non fosse possibile il SdI invia al soggetto trasmittente una notifica di mancata consegna; resta a carico del SdI l'onere di contattare il destinatario affinchè provveda tempestivamente alla risoluzione del problema ostativo alla trasmissione, e, a problema risolto, di procedere con l'invio; 
+ 
+
+ - il SdI riceve notifica, da parte del soggetto destinatario, di riconoscimento/rifiuto della fattura, che provvede ad inoltrare al trasmittente a completamento del ciclo di comunicazione degli esiti della trasmissione della fattura elettronica; 
+ 
+
+ Le ricevute ed i messaggi di notifica sono predisposti secondo un formato XML la cui struttura è riportata nelle specifiche tecniche. 
+ ((Il soggetto destinatario, nel caso in cui notifichi al trasmittente il rifiuto della fattura elettronica, deve indicare la causa del rifiuto riportando i casi previsti dall'articolo 2-bis, comma 1.))
+
+ 
+ 
+
+ Di seguito uno schema di sintesi del flusso procedurale: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 5. CONTROLLI EFFETTUATI DAL SISTEMA DI INTERSCAMBIO 
+ 
+
+ Il SdI, per ogni documento fattura correttamente ricevuto, effettua una serie di controlli propedeutici all'inoltro al soggetto destinatario. 
+ 
+
+ Quest'attività di verifica, nei limiti di ambito in cui è circoscritta, si configura come: 
+ 
+
+ - un'operazione necessaria a minimizzare i rischi di errore in fase elaborativa; 
+ 
+
+ - uno strumento di filtro per prevenire, da un lato, possibili e dispendiose attività di contenzioso, e per accelerare, dall'altro, eventuali interventi di rettifica sulle fatture a vantaggio di una più rapida conclusione del ciclo fatturazionepagamento. 
+ 
+
+ Il mancato superamento di questi controlli viene notificato al trasmittente e genera lo scarto del documento fattura che, conseguentemente, non viene inoltrato al destinatario della fattura. 
+ 
+
+ Le tipologie di controllo effettuate mirano a verificare: 
+ 
+
+ - nomenclatura ed unicità del documento trasmesso; 
+ 
+
+ - integrità del documento; 
+ 
+
+ - autenticità e validità del certificato di firma; 
+ 
+
+ - conformità del formato fattura alle specifiche tecniche definite dall'allegato A di cui all'art. 2 lettera 1) del presente regolamento; 
+ 
+
+ - validità del contenuto della fattura rispetto alle informazioni definite nell'allegato A di cui all'art. 2 lettera 1) del presente regolamento; 
+ 
+
+ I singoli controlli effettuati dal SdI sono descritti in dettaglio nelle specifiche tecniche.

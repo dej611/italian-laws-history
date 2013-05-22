@@ -1,0 +1,106 @@
+ALLEGATO "D" 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ CODICI UFFICIO 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SOMMARIO 
+ 
+
+ 1. PREMESSA 
+ 
+
+ 2. IDENTIFICAZIONE UNIVOCA 
+ 
+
+ 3. MODALITà D'IDENTIFICAZIONE 
+ 
+
+ 4. PROCESSO DI CARICAMENTO/AGGIORNAMENTO DEI CODICI IDENTIFICATIVI DELL'AMMINISTRAZIONE SULL'IPA 
+ 
+
+ 5. INDICAZIONI OPERATIVE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ Il presente documento descrive, ai fini della ricezione da parte delle amministrazioni interessate delle fatture elettroniche come previsto dalla Legge 24 dicembre 2007, n. 244 (Legge Finanziaria 2008), le regole di identificazione univoca degli uffici centrali e periferici delle amministrazioni destinatari della fatturazione di cui all'articolo 1, comma 213, lettera a) della citata legge finanziaria. 
+ 
+
+ Per favorire l'attuazione delle presenti regole, entro 30 giorni dalla pubblicazione del presente Regolamento, sono fornite apposite specifiche operative disponibili sul sito www.indicepa.gov.it ed anche accessibili dal sito del Sistema di Interscambio www.fatturazione.gov.it. 
+ 
+
+ Tali specifiche tecniche vengono predisposte ed aggiornate dall'Agenzia per l'Italia digitale sentita l'Agenzia delle Entrate e la Ragioneria Generale dello Stato. 
+ 
+
+ 
+ 
+
+ 2. IDENTIFICAZIONE UNIVOCA 
+ 
+
+ Per consentire al Sistema di Interscambio (SDI) di recapitare correttamente le fatture a tutti i soggetti, di cui all'art. 1 comma 1 del presente regolamento, i destinatari della fattura elettronica devono essere identificati univocamente. 
+ 
+
+ 
+ 
+
+ 3. MODALITà D'IDENTIFICAZIONE 
+ 
+
+ La codifica, ai fini dell'identificazione dei soggetti, e loro uffici, di cui all'art. 1 comma 1 del presente regolamento, destinatari della fattura, è costituita dal codice univoco assegnato allo specifico ufficio dell'Amministrazione, Ente o Società di appartenenza dall'IPA. Tale codifica deve essere utilizzata in fase di predisposizione della fattura elettronica. 
+ 
+
+ Gli uffici, di cui sopra, devono essere censiti, nel rispetto di quanto disposto dall'articolo 57 bis ( commi 1-3) del CAD (decreto legislativo n. 82 del 2005 e successive modifiche) e dalle regole tecniche di cui al DPCM del 31 ottobre 2000 pubblicato su GU n. ro 272 del 21 novembre 2000, nell'Indice delle Pubbliche Amministrazioni (IPA), istituito con DPCM del 31 ottobre 2000, art. 11, contenente le informazioni relative alle strutture organizzative ed alle aree organizzative omogenee dei soggetti accreditati. 
+ 
+
+ Pertanto l'anagrafica di riferimento per la fatturazione elettronica è rappresentata dall'Indice delle Pubbliche Amministrazioni (IPA), dove devono essere riportate, e tenute aggiornate, dai soggetti interessati, le informazioni necessarie a garantire il corretto recapito delle fatture elettroniche. 
+ 
+
+ 
+ 
+
+ 4. PROCESSO DI CARICAMENTO/AGGIORNAMENTO DEI CODICI IDENTIFICATIVI DELL'AMMINISTRAZIONE SULL'IPA 
+ 
+
+ Il processo di caricamento dei dati sull'IPA e di gestione degli eventi di inserimento/modifica, deve essere svolto secondo modalità e tempi compatibili con le esigenze della fatturazione elettronica. 
+ 
+
+ Il processo di inserimento/modifica dei dati dei soggetti interessati sull'IPA è a carico di quest'ultimi sulla base e secondo le procedure e le modalità operative previste in ambito IPA. 
+ 
+
+ In particolare in applicazione del disposto all'art. 3 del presente regolamento, i soggetti, di cui all'art. 1 comma 1 sono tenuti a ottenere dall'IPA i codici ufficio di destinazione delle fatture elettroniche ed a darne comunicazione ai fornitori che hanno obbligo di utilizzarli in sede di emissione della fattura da inviare al Sistema di Interscambio. 
+ 
+
+ Qualora il soggetto di cui sopra non provveda tempestivamente all'inserimento/aggiornamento degli uffici destinatari di fatture sarà responsabile del mancato recapito delle fatture e, come disciplinato dal comma 3 dell'art. 57 bis del decreto legislativo 7 marzo 2005, n. 82, recante il Codice dell'amministrazione digitale, come modificato dal comma 18 dell'art. 57 del decreto legislativo 30 dicembre 2010, n. 235, la mancata comunicazione degli elementi necessari al completamento dell'indice e del loro aggiornamento è valutata ai fini della responsabilità dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili. 
+ 
+
+ 
+ 
+
+ 5. INDICAZIONI OPERATIVE 
+ 
+
+ Per favorire l'attuazione delle presenti regole, sono fornite apposite specifiche operative, disponibili sul sito www.indicepa.gov.it. Tali specifiche vengono predisposte ed aggiornate dall'Agenzia per l'Italia digitale, sentite la Ragioneria Generale dello Stato e l'Agenzia delle Entrate. 
+ 
+
+ La documentazione tecnica descrive in dettaglio le modalità per l'inserimento, l'aggiornamento e la pubblicazione delle suddette informazioni.

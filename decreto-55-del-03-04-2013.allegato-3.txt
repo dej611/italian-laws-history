@@ -1,0 +1,535 @@
+ALLEGATO "C" 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ LINEE GUIDA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SOMMARIO 
+ 
+
+ 1. PREMESSA 
+ 
+
+ 2. IL DISEGNO COMPLESSIVO 
+ 
+
+ 2.1 CONTESTO 
+ 
+
+ 2.2 IL SISTEMA DI INTERSCAMBIO 
+ 
+
+ 3. LA FATTURAZIONE ELETTRONICA 
+ 
+
+ 3.1 ASPETTI GENERALI 
+ 
+
+ 3.2 ASPETTI PROCEDURALI 
+ 
+
+ 4. LINEE GUIDA RIFERITE ALL'ORGANIZZAZIONE 
+ 
+
+ 5. LINEE GUIDA RIFERITE ALL'INFORMATIZZAZIONE 
+ 
+
+ 6. LINEE GUIDA RIFERITE ALLE RELAZIONI CON IL FORNITORE 
+ 
+
+ 7. INDICAZIONI IN MERITO ALLA CONSERVAZIONE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. PREMESSA 
+ 
+
+ Il presente documento riporta le linee guida per l'adeguamento delle procedure interne delle amministrazioni interessate alla ricezione ed alla gestione delle fatture elettroniche come previsto dalla Legge 24 dicembre 2007, n. 244 (Legge Finanziaria 2008). 
+ 
+
+ Le linee guida hanno lo scopo di fornire elementi di natura metodologica e organizzativa per consentire ai soggetti interessati di adeguare le proprie procedure amministrative e i propri sistemi informatici alla norma, e costituiscono un supporto all'innovazione dei processi di acquisto e contabilizzazione nella Pubblica Amministrazione. 
+ 
+
+ Le indicazioni fornite sono di carattere generale e sarà cura di ciascuna amministrazione adeguarle operativamente alla propria realtà organizzativa. 
+ 
+
+ Per favorire l'attuazione delle presenti linee guida, sono fornite apposite specifiche operative, disponibili sul sito www.mef.gov.it.
+ 
+
+ Tali specifiche vengono predisposte ed aggiornate dal dal MEF - Ragioneria Generale dello Stato, sentite le strutture competenti del Ministero dell'economia e finanze e l'Agenzia per l'Italia digitale. 
+ 
+
+ 
+ 
+
+ 2. IL DISEGNO COMPLESSIVO 
+ 
+
+ 2.1 CONTESTO 
+ 
+
+ La fatturazione elettronica nei rapporti con la Pubblica Amministrazione (Legge Finanziaria 2008) si colloca nell'ambito delle linee di azione dell' Unione Europea (&laquo;i2010&raquo;) che incoraggia gli Stati membri a dotarsi di un adeguato quadro normativo,organizzativo e tecnologico per gestire in forma elettronica l'intero ciclo degli acquisti. 
+ 
+
+ Recependo tale direttiva già altri paesi europei hanno avviato un programma di introduzione della fatturazione elettronica utilizzando anche la leva normativa della Pubblica Amministrazione per favorirne l'adozione nei rapporti tra imprese. 
+ 
+
+ La Legge Finanziaria 2008 (articolo 1, commi da 209 a 214) 
+ 
+
+ - obbliga i fornitori ad adottare il formato elettronico nella gestione delle fatture (emissione, trasmissione, archiviazione e conservazione) anche se emesse sottoforma di nota, conto, parcella e simili; 
+ 
+
+ - obbliga le pubbliche amministrazioni a non accettare fatture emesse o trasmesse in forma cartacea nè a procedere ad alcun pagamento, nemmeno parziale, sino all'invio in forma elettronica; 
+ 
+
+ - istituisce il "Sistema di Interscambio" delle fatture elettroniche, la cui gestione viene demandata al Ministero dell'economia e delle finanze che allo scopo si può avvalere di proprie strutture societarie; 
+ 
+
+ - identifica il campo di applicazione nelle operazioni per le quali deve essere emessa la fattura, ciò non esclude la possibilità di una successiva estensione ad ulteriori fattispecie; 
+ 
+
+ - supera, di fatto, il tema del consenso del destinatario a ricevere fatture tramite trasmissione elettronica trasformandolo in un obbligo da parte dell'amministrazione ricevente. 
+ 
+
+ Il 1° Decreto Attuativo emesso dal Ministero dell'Economia e delle Finanze il 7 marzo 2008, all'art. 1 decreta: "L'Agenzia delle entrate è individuata quale gestore del Sistema di Interscambio di cui all'art. 1, commi 211 e 212, legge 24 dicembre 2007, n. 244; a tal fine l'Agenzia delle entrate si avvale della SOGEI - Società Generale di Informatica S.p.A., quale apposita struttura dedicata ai servizi strumentali ed alla conduzione tecnica di detto sistema di interscambio." 
+ 
+
+ 
+ 
+
+ 2.2 IL SISTEMA DI INTERSCAMBIO 
+ 
+
+ Il Sistema di Interscambio ha il ruolo di "snodo" tra gli attori interessati dal processo di fatturazione elettronica. Poichè il contesto in cui si inserisce il Sistema è costituito da più fornitori che si interfacciano con più Pubbliche Amministrazioni, il Sistema di Interscambio è uno strumento che consente la riduzione delle complessità. 
+ 
+
+ Nel contesto di riferimento del Sistema di Interscambio e nell'ambito del processo di fatturazione elettronica, si possono individuare quattro attori che interagiscono tra loro, con caratteristiche differenti in funzione del ruolo svolto nel processo. 
+ 
+
+ - Operatori economici; 
+ 
+
+ - Intermediari; 
+ 
+
+ - Sistema di interscambio; 
+ 
+
+ - Pubblica Amministrazione. 
+ 
+
+ Gli Operatori Economici, in qualità di fornitori di beni e servizi emettono le fatture o documenti passivi rivolte alla PA. La PA stessa può essere fornitrice di beni e servizi. 
+ 
+
+ Gli operatori economici possono avvalersi di Intermediari per la gestione della fatturazione elettronica e possono essere loro stessi degli intermediari ed offrire i propri servizi sia agli altri operatori economici sia alla Pubblica Amministrazione. 
+ 
+
+ La Pubblica Amministrazione è il destinatario delle fatture che transitano dal Sistema di Interscambio. 
+ 
+
+ Il Sistema di Interscambio presidia il processo di ricezione e successivo inoltro delle fatture elettroniche alle Amministrazioni Pubbliche destinatarie. 
+ 
+
+ In particolare il Sistema di Interscambio: 
+ 
+
+ - fornisce i servizi di accreditamento al sistema; 
+ 
+
+ - riceve le fatture trasmesse in formato elettronico; 
+ 
+
+ - valida e gestisce i flussi delle fatture; 
+ 
+
+ - effettua le opportune verifiche sui dati trasmessi (integrità, autenticità, univocità, rispetto del formato, presenza e correttezza formale dei dati obbligatori di fattura); 
+ 
+
+ - indirizza le fatture alle PP.AA. destinatarie; 
+ 
+
+ - notifica l'esito di invio/ricezione dei flussi agli utenti tramite ricevuta; 
+ 
+
+ - invia alla RGS i flussi informativi per il monitoraggio della finanza pubblica; 
+ 
+
+ - fornisce supporto tecnico ai soggetti che interagiscono con il SdI. 
+ 
+
+ Il formato "accettato" in ingresso consente al Sistema di Interscambio di trattare le informazioni ai fini dei controlli previsti, dell'inoltro delle fatture ai destinatari e dell'estrapolazione delle informazioni utili al monitoraggio della finanza pubblica. 
+ 
+
+ La trasmissione delle fatture elettroniche può avvenire, oltre che direttamente tra gli Operatori Economici e Sistema di Interscambio, anche attraverso l'intermediazione di soggetti abilitati come previsto dalla Legge Finanziaria 2008. 
+ 
+
+ L'intermediazione è prevista sia nei confronti degli Operatori Economici (Intermediari degli Operatori Economici) sia nei confronti delle Amministrazioni Pubbliche (Intermediari delle PP.AA.). 
+ 
+
+ Gli Intermediari degli Operatori Economici offrono i servizi per la predisposizione e/o la trasmissione delle fatture in formato elettronico. 
+ 
+
+ In particolare: 
+ 
+
+ - emettono,se richiesto, le fatture elettroniche per conto degli Operatori Economici 
+ 
+
+ - trasmettono le fatture al Sistema di Interscambio 
+ 
+
+ - adempiono, se richiesto, agli obblighi di conservazione. 
+ 
+
+ Gli Intermediari delle PP.AA. 
+ 
+
+ - ricevono le fatture dal Sistema di Interscambio per conto delle Amministrazioni Pubbliche destinatarie 
+ 
+
+ - adempiono, se richiesto, agli obblighi di conservazione. 
+ 
+
+ Di seguito la rappresentazione delle relazioni tra i diversi attori coinvolti nel trattamento della fattura elettronica. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Figura 1 - Relazioni con il Sistema di Interscambio 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Figura 2 - Relazioni con i sistemi della PA 
+ 
+
+ 
+ 
+
+ 3. LA FATTURAZIONE ELETTRONICA 
+ 
+
+ 3.1 ASPETTI GENERALI 
+ 
+
+ La fattura è il documento amministrativo per eccellenza, il più importante documento aziendale in grado di rappresentare nel tempo un'operazione commerciale, e da cui scaturiscono risvolti fiscali (detrazione dell'IVA e deducibilità del costo), civili (ingiunzioni di pagamento ed efficacia probatoria, penali (reati tributari e reati disciplinati dal diritto fallimentare) e finanziari (la gestione del credito e la riconciliazione delle fatture ai pagamenti e agli incassi). 
+ 
+
+ La fattura elettronica, in quanto documento elettronico predisposto secondo le regole tecniche previste dal Codice dell'amministrazione digitale, presenta le seguenti caratteristiche: 
+ 
+
+ - è un documento statico non modificabile; 
+ 
+
+ - la sua emissione, al fine di garantirne l'attestazione della data e l'autenticità dell'integrità, prevede l'apposizione del riferimento temporale e della firma elettronica qualificata; 
+ 
+
+ - deve essere leggibile e disponibile su supporto informatico; 
+ 
+
+ - deve essere conservata e resa disponibile secondo le linee guida e le regole tecniche predisposte dall'Agenzia per l'Italia digitale ed approvate dalla Commissione SPC. 
+ 
+
+ Per consentire al Sistema di Interscambio di leggere ed elaborare in modalità automatica e priva di ambiguità i dati contenuti nel documento fattura è necessario che i dati vengano riportati nel formato fattura previsto da decreto. 
+ 
+
+ Il contenuto informativo della fattura in primo luogo fa riferimento all'art. 21 del DPR 633, cosi come modificato dal decreto n. 52 del 20 febbraio 2004, che riporta le informazioni obbligatorie in quanto rilevanti ai fini tributari. 
+ 
+
+ A queste informazioni se ne aggiungono altre che si configurano come necessarie ai fini di una integrazione del processo di fatturazione elettronica con i sistemi gestionali delle PP.AA. e/o con i sistemi di pagamento, o che semplicemente sono importanti in base alle tipologie di beni/servizi ceduti/prestati e alle necessità informative intercorrenti tra singolo operatore e singola amministrazione. 
+ 
+
+ 
+ 
+
+ 3.2 ASPETTI PROCEDURALI 
+ 
+
+ Per poter fornire uno standard procedurale di operatività ed individuare le fasi interessate, viene evidenziata la fase della fatturazione nell'ambito dell'intero ciclo passivo: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Figura 3 - Ciclo Passivo 
+ 
+
+ 
+ 
+
+ La fatturazione elettronica permette la dematerializzazione del processo di fatturazione nell'ambito del ciclo passivo. i fornitori della PA possono procedere alla trasmissione delle fatture in modalità elettronica, direttamente, o tramite gli Intermediari, ai sistemi delle Amministrazioni Pubbliche ed averne, successivamente, visibilità dello stato di trattamento all'interno degli uffici che le ricevono, contabilizzano, e procedono al loro pagamento. 
+ 
+
+ Inoltre il poter disporre in maniera automatica sui sistemi delle pubbliche amministrazioni dei dati contabili delle fatture consente la più puntuale e tempestiva registrazione dei costi relativi e facilita il processo interno di monitoraggio dei costi e di verifica delle disponibilità finanziarie. 
+ 
+
+ La disponibilità completa delle informazioni, anche non obbligatorie ove contenute nelle fatture a seguito di accordi con il fornitore, consente inoltre di gestire in modalità automatica l'intero processo della supply-chain, dal contratto al pagamento. 
+ 
+
+ In particolare i dati di pagamento permettono la tempestiva attivazione dei canali di estinzione dell'obbligazione debitoria. 
+ 
+
+ La completezza dei dati relativi agli ordini e contratti contenuti nelle fatture consente una verifica immediata della coerenza delle informazioni e della regolarità del documento contabile, e mette quindi in condizione gli uffici competenti di procedere con solerzia all'accettazione o al disconoscimento della fattura (così come indicato dall'art. 1988 codice civile). 
+ 
+
+ La necessità di fornire tempestiva comunicazione al fornitore dell'accettazione o disconoscimento del documento contabile in modo da consentire gli adempimenti previsti dalla normativa IVA in merito alla registrazione delle fatture emesse, obbliga il Sistema di Interscambio a fissare un termine - pari a quello previsto nel Dlgs 52/2004 che modifica l'art. 21 del DPR 633/72, attualmente 15 giorni - decorso il quale lo stesso invia un messaggio di decorrenza termini tanto all'ufficio quanto al fornitore. 
+ 
+
+ 
+ 
+
+ 4. LINEE GUIDA RIFERITE ALL'ORGANIZZAZIONE 
+ 
+
+ Nelle strutture complesse, ossia articolate su più livelli e su un numero elevato di uffici, la complessità dei flussi procedurali che sottendono l'acquisizione di beni e servizi e la registrazione delle fatture è più elevata. Le modalità di gestione della fatturazione elettronica saranno diverse per le PA con una gestione accentrata rispetto a quelle con una gestione periferica, garantendo, in ogni caso, opportune forme di coordinamento. 
+ 
+
+ Predisposizione di una struttura organizzativa di progetto 
+ 
+
+ L'implementazione della fattura elettronica va inquadrata come un progetto per il quale è necessario prevedere un'organizzazione interna con una chiara assegnazione dei ruoli, un'opportuna divisione dei compiti e una struttura di governo che garantisca la massima efficienza ed il raggiungimento degli obiettivi. 
+ 
+
+ Sebbene tale impostazione sia applicabile a tutte le PA, la complessità dei modelli decentrati rende ancor più indispensabile il ricorso a tale struttura. 
+ 
+
+ Nell'ambito della struttura organizzativa di progetto è opportuno prevedere vari responsabili che avranno il compito di individuare gli interventi organizzativi, gli interventi informatici, di definire e concordare tempi e modalità per il passaggio alla gestione elettronica delle fatture, di rappresentare l'interfaccia con il gestore del Sistema di Interscambio. 
+ 
+
+ è da evidenziare che una PA che attua diffusamente il decentramento nell'ambito dei processi di acquisizione di beni e servizi, presenterà una molteplicità di problematiche che, presumibilmente, richiederà l'istituzione di figure di riferimento a presidio delle singole unità coinvolte nei processi attivi di acquisizione di beni e servizi. Al contrario, per l'amministrazione che si caratterizza per un sostanziale accentramento delle procedure amministrative ed in particolare dei processi di approvvigionamento, il progetto di implementazione potrà essere presidiato in maniera efficace con i soli ruoli previsti al livello centrale. 
+ 
+
+ Adeguamento delle procedure organizzative 
+ 
+
+ Gli interventi sulle procedure organizzative costituiscono uno degli aspetti che, potenzialmente, sono maggiormente interessati dal processo d'implementazione della fattura elettronica. In quest'ottica le amministrazioni, a prescindere dalla struttura organizzativa, dovrebbero comunque: 
+ 
+
+ - costituire un gruppo di lavoro per la realizzazione del progetto con il coinvolgimento di tutti i soggetti interessati; 
+ 
+
+ - definire o modificare le procedure per le modalità di ricezione delle fatture; 
+ 
+
+ - verificare il processo di memorizzazione, archiviazione, e conservazione adottato, realizzato in coerenza a quanto disposto dal CAD ( dl n.82 del 2005 e dal testo Unico legge DPR 445 del 2000)". In quest'ambito, dovranno essere effettuate le seguenti attività: 
+ 
+
+ - verifica dei soggetti coinvolti nel processo 
+ 
+
+ - sensibilizzazione degli attori coinvolti sulle prescrizioni previste dalla normativa, in particolare sui termini di conservazione elettronica delle fatture, dei libri contabili e delle scritture 
+ 
+
+ - verifica degli strumenti utilizzati 
+ 
+
+ - verifica del formato di conservazione (formato di testo o di immagine) 
+ 
+
+ - verifica della procedura e modalità di apposizione della firma digitale 
+ 
+
+ - verifica della marca temporale dei documenti informatici ricevuti 
+ 
+
+ - individuare il responsabile della conservazione 
+ 
+
+ - predisporre un manuale della conservazione che definisca il funzionamento del sistema, le regole di sicurezza, la gestione di tutte le anomalie. Il manuale deve nel tempo dare evidenza di tutte le situazioni che incidono sulla corretta tenuta e conservazione di documenti e registri; 
+ 
+
+ - evidenziare i cambiamenti prodotti dall'utilizzo della fattura elettronica per far emergere la necessità di adeguare compiti e carichi di lavoro tra le risorse coinvolte nel processo di fatturazione (si pensi, ad esempio, ai possibili cambiamenti che riguardano la risorsa che si occupa fisicamente di ricevere, protocollare e smistare le fatture cartacee); 
+ 
+
+ - coinvolgere nelle diverse fasi coloro che poi saranno interessati dal cambiamento; 
+ 
+
+ - pianificare i percorsi formativi per le risorse coinvolte nel processo di fatturazione; 
+ 
+
+ - verificare il processo di esibizione in caso di accessi, ispezioni e verifiche da parte delle autorità preposte, ed in particolare: 
+ 
+
+ - verificare che sia correttamente assicurato l'accesso automatizzato all'archivio informatico; 
+ 
+
+ - verificare che i documenti conservati ed i certificati qualificati siano stampabili e trasferibili su altro supporto informatico. 
+ 
+
+ 
+ 
+
+ 5. LINEE GUIDA RIFERITE ALL'INFORMATIZZAZIONE 
+ 
+
+ Le modalità di gestione della fatturazione elettronica saranno diverse in funzione del livello di informatizzazione delle PA. 
+ 
+
+ Premesso che la fatturazione è intesa come quel processo che parte dalla composizione della fattura, in generale da parte del fornitore di beni/servizi, e termina generalmente con l'archiviazione della fattura da parte del fornitore e del cliente, secondo quanto prescritto per legge, il livello di informatizzazione condizionerà il modello di riferimento per la gestione della fatturazione elettronica. 
+ 
+
+ Si parte dal modello più ristretto che considera il processo di fatturazione in maniera autonoma e svincolata dagli altri processi, per arrivare al modello più ampio che considera la fatturazione come una fase di un ciclo più esteso che va dall'ordine al pagamento. Nel modello più ampio la fatturazione elettronica diventa il perno sul quale basare tutti i processi di integrazione e di dematerializzazione di tutti i documenti utilizzati nell'ambito del ciclo passivo. 
+ 
+
+ Le Amministrazioni dovranno occuparsi di 
+ 
+
+ - predisporre un canale di comunicazione verso il SdI; 
+ 
+
+ - protocollare in ingresso le fatture; 
+ 
+
+ - trasmettere i riscontri di acquisizione; 
+ 
+
+ - predisporre il percorso di conservazione dei documenti di fatturazione acquisiti elettronicamente. 
+ 
+
+ Per incrementare i benefici legati alla fatturazione elettronica, le PA potranno: 
+ 
+
+ - acquisire direttamente il documento fattura nei sistemi gestionali ove già presenti; 
+ 
+
+ - adottare un sistema documentale per la gestione elettronica del documento in tutte le attività gestionali. 
+ 
+
+ I risparmi ed i vantaggi più rilevanti derivano dalla dematerializzazione dell'intero "ciclo dell'ordine" ma tale operazione può essere effettuata per passi. L'approccio più favorevole è iniziare dalla fase della fatturazione, sia perchè è il documento che più di altri viene prodotto ed utilizzato (riconciliazione con i documenti di trasporto e con gli ordini, verifica e riconciliazione contabile con i pagamenti e gli incassi, eccetera) sia perchè è il documento che nei processi aziendali collega il ciclo amministrativocontabile al ciclo finanziario (incassi, pagamenti e tesoreria). 
+ 
+
+ Predisposizione di un canale di comunicazione verso il SdI 
+ 
+
+ Le Pubbliche Amministrazioni destinatarie di fatture dovranno predisporre un canale di comunicazione verso il SDI utilizzando una delle modalità di inoltro previste dal documento "Regole Tecniche". 
+ 
+
+ Adeguamento dei processi informatici 
+ 
+
+ La fattura viene acquisita in un formato strutturato, ossia un formato che permette l'elaborazione dei dati in essa contenuti in modalità totalmente automatica. 
+ 
+
+ Sulla base delle precedenti considerazioni, in un'amministrazione in cui il grado di informatizzazione è basso e dove i processi amministrativi-contabili non sono supportati da sistemi informatici integrati, il processo di implementazione della fattura elettronica coinvolge, almeno in una prima fase, solamente la fase di fatturazione in senso stretto. Poichè in casi del genere la fattura non viene processata automaticamente all'interno del sistema amministrativo, l'attenzione dovrà essere spostata esclusivamente sul processo di conservazione e sulle procedure amministrative che dovranno essere predisposte per regolamentare il predetto processo. 
+ 
+
+ Tali indicazioni sono applicabili anche alle PA con un livello di informatizzazione medio/elevato. In questi casi, tuttavia, la fattura potrà essere elaborata automaticamente dai sistemi informativi della PA. 
+ 
+
+ Le Amministrazioni che dispongono di un sistema gestionale, ad esempio, sono le più indicate per un'integrazione estesa dei processi di fatturazione elettronica, in quanto: 
+ 
+
+ - il sistema informatico gestionale consente una naturale acquisizione dei documenti in formato strutturato; 
+ 
+
+ - gli attori coinvolti nei processi amministrativi (addetti agli acquisti, addetti alla fatturazione, etc.) sono abituati a considerare attendibili i dati originati da una fonte informatica; 
+ 
+
+ in molti casi è già in atto un processo volto alla dematerializzazione dei documenti cartacei. Un elevato livello di informatizzazione, pertanto, può indicare una naturale predisposizione e familiarità con documenti che prescindono dal supporto cartaceo. 
+ 
+
+ 
+ 
+
+ 6. LINEE GUIDA RIFERITE ALLE RELAZIONI CON IL FORNITORE 
+ 
+
+ La PA nell'adozione della fatturazione elettronica deve necessariamente coinvolgere i fornitori che rappresentano i principali attori del processo. Per garantire un buon funzionamento del processo di fatturazione le singole amministrazioni dovranno modulare le modalità di interazione con i fornitori. 
+ 
+
+ A tal fine è necessario che le amministrazioni si attivino per effettuare il censimento dei fornitori con cui intrattengono rapporti e fornire degli indirizzi utili per garantire comportamenti omogenei nella trasmissione del flusso di fatturazione. 
+ 
+
+ è fondamentale che le Amministrazioni garantiscano l'identificazione univoca del destinatario delle fatture secondo le regole previste all'Allegato D al decreto di cui le Linee Guida sono parte integrante. L'informazione sarà presente altresì nella fattura stessa e quindi è compito dell'Amministrazione formalizzare un accordo con il fornitore per assicurarsi il corretto riconoscimento del destinatario delle fatture nelle modalità previste. 
+ 
+
+ Il tempestivo e coerente aggiornamento dell'Indice delle Pubbliche Amministrazioni, nei tempi indicati dal decreto e, a regime, rispetto a quanto contrattualizzato con il fornitore sono presupposti indispensabili per consentire al Sistema di Interscambio di recapitare correttamente la fattura agli uffici di pertinenza. 
+ 
+
+ Trasmissione delle fatture da parte dei fornitori 
+ 
+
+ La fattura elettronica prevede dei campi obbligatori e dei campi facoltativi che possono contenere informazioni utili all'Amministrazione. 
+ 
+
+ Il Sistema di interscambio riceve e trasmette anche allegati alla fattura il cui contenuto, sia esso copia o duplicato elettronico di documento analogico ovvero di documento nativamente elettronico, è oggetto di specifico accordo tra l'amministrazione cliente e il proprio fornitore. 
+ 
+
+ Indicazioni sugli Intermediari 
+ 
+
+ Sia gli Operatori Economici sia le amministrazioni interessate possono usufruire dei servizi messi a disposizione da operatori intermedi. 
+ 
+
+ Gli intermediari sono soggetti terzi che, su delega dell'Amministrazione o del Fornitore, che ne mantengono la responsabilità ai fini fiscali, possono trasmettere o ricevere fatture dal Sistema di Interscambio. 
+ 
+
+ 
+ 
+
+ 7. INDICAZIONI IN MERITO ALLA CONSERVAZIONE 
+ 
+
+ Aspetti generali 
+ 
+
+ La conservazione è una procedura informatica, regolamentata dalla legge (D.L.vo n.82 del 7 marzo 2005 - Codice dell'Amministrazione Digitale, DM 23 gennaio 2004 - Modalità di assolvimento degli obblighi fiscali relativi ai documenti informatici ed alla loro riproduzione in diversi tipi di supporto, e Delibera CNIPA n.11 del 19 febbraio 2004 e successive modificazioni - Regole tecniche per la riproduzione e conservazione di documenti), in grado di garantire nel tempo la validità legale a tutti i documenti informatici firmati digitalmente. 
+ 
+
+ Ciò significa che ogni tipologia di documento informatico conservato nel rispetto delle regole previste dal Codice dell'amministrazione digitale, ha effetto probatorio ad ogni effetto di legge consentendo alla PA ed alle aziende di risparmiare sui costi di stampa, stoccaggio e archiviazione.
