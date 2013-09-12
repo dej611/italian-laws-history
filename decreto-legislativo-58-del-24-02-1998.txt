@@ -370,6 +370,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((w-quinquies) "controparti centrali": i soggetti indicati nell'articolo 2, punto 1), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni))
+
+ 
+
+ 
 
  
 
@@ -674,11 +679,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
  5-novies. Per "portale per la raccolta di capitali per le start-up innovative" si intende una piattaforma online che abbia come finalità esclusiva la facilitazione della raccolta di capitale di rischio da parte delle start-up innovative, comprese le start-up a vocazione sociale. 
  
 
@@ -687,13 +687,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5-decies. Per "start-up innovativa" si intende la società definita dall'articolo 25, comma 2, del decreto-legge 18 ottobre 2012, n. 179.
+ 5-decies. Per "start-up innovativa" si intende la società definita dall'articolo 25, comma 2, del decreto-legge 18 ottobre 2012, n. 179. 
  
 
  
- ))
  
-
  
 
  
@@ -706,7 +704,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) la custodia e amministrazione di strumenti finanziari e relativi servizi connessi ; 
+ a) la custodia e amministrazione di strumenti finanziari e relativi servizi connessi; 
  
 
  
