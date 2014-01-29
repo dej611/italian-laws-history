@@ -1,0 +1,5362 @@
+((Allegato A: distribuzione risorse art. 1, commi 4 e 8))
+
+ 
+ 
+ 
+ Regione Provincia Sigla Codice comune Descrizione IMU totale 
+ 
+
+ 
+ VENETO Padova PD A001 Abano Terme 520.550,75 
+ 
+
+ 
+ LOMBARDIA Lodi LO A004 Abbadia Cerreto 19.098,53 
+ 
+
+ 
+ LOMBARDIA Lecco LC A005 Abbadia Lariana 106.566,89 
+ 
+
+ 
+ TOSCANA Siena SI A006 Abbadia San Salvatore 213.023,08 
+ 
+
+ 
+ SARDEGNA Oristano OR A007 Abbasanta 50.314,60 
+ 
+
+ 
+ ABRUZZO Pescara PE A008 Abbateggio 5.783,74 
+ 
+
+ 
+ LOMBARDIA Milano MI A010 Abbiategrasso 1.000.646,42 
+ 
+
+ 
+ TOSCANA Pistoia PT A012 Abetone 15.062,17 
+ 
+
+ 
+ BASILICATA Potenza PZ A013 Abriola 2.641,22 
+ 
+
+ 
+ SICILIA Ragusa RG A014 Acate 356.811,36 
+ 
+
+ 
+ PUGLIA Foggia FG A015 Accadia 37.734,75 
+ 
+
+ 
+ PIEMONTE Cuneo CN A016 Acceglio 620,00 
+ 
+
+ 
+ BASILICATA Matera MT A017 Accettura 9.122,45 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A018 Acciano 3.763,88 
+ 
+
+ 
+ LAZIO Rieti RI A019 Accumoli 2.504,43 
+ 
+
+ 
+ BASILICATA Potenza PZ A020 Acerenza 10.352,81 
+ 
+
+ 
+ CAMPANIA Salerno SA A023 Acerno 22.300,34 
+ 
+
+ 
+ CAMPANIA Napoli NA A024 Acerra 755.769,65 
+ 
+
+ 
+ SICILIA Catania CT A025 Aci Bonaccorsi 49.909,16 
+ 
+
+ 
+ SICILIA Catania CT A026 Aci Castello 493.752,22 
+ 
+
+ 
+ SICILIA Catania CT A027 Aci Catena 320.845,54 
+ 
+
+ 
+ SICILIA Catania CT A029 Aci Sant'Antonio 239.962,88 
+ 
+
+ 
+ SICILIA Catania CT A028 Acireale 983.896,02 
+ 
+
+ 
+ MARCHE Macerata MC A031 Acquacanina 797,17 
+ 
+
+ 
+ LAZIO Frosinone FR A032 Acquafondata 877,68 
+ 
+
+ 
+ CALABRIA Cosenza CS A033 Acquaformosa 3.548,37 
+ 
+
+ 
+ LOMBARDIA Brescia BS A034 Acquafredda 32.350,77 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU A035 Acqualagna 39.350,10 
+ 
+
+ 
+ LOMBARDIA Cremona CR A039 Acquanegra Cremonese 36.366,63 
+ 
+
+ 
+ LOMBARDIA Mantova MN A038 Acquanegra sul Chiese 133.593,27 
+ 
+
+ 
+ LAZIO Viterbo VT A040 Acquapendente 183.165,43 
+ 
+
+ 
+ CALABRIA Cosenza CS A041 Acquappesa 9.994,38 
+ 
+
+ 
+ PUGLIA Lecce LE A042 Acquarica del Capo 18.976,13 
+ 
+
+ 
+ CALABRIA Vibo Valentia VV A043 Acquaro 5.772,39 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP A044 Acquasanta Terme 9.545,65 
+ 
+
+ 
+ UMBRIA Terni TR A045 Acquasparta 67.041,85 
+ 
+
+ 
+ MOLISE Campobasso CB A050 Acquaviva Collecroce 5.438,64 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP A047 Acquaviva Picena 52.037,13 
+ 
+
+ 
+ SICILIA Caltanissetta CL A049 Acquaviva Platani 10.241,25 
+ 
+
+ 
+ MOLISE Isernia IS A051 Acquaviva d'Isernia 3.699,50 
+ 
+
+ 
+ PUGLIA Bari BA A048 Acquaviva delle Fonti 638.252,36 
+ 
+
+ 
+ SICILIA Messina ME M211 Acquedolci 83.296,00 
+ 
+
+ 
+ PIEMONTE Alessandria AL A052 Acqui Terme 508.035,58 
+ 
+
+ 
+ CALABRIA Cosenza CS A053 Acri 31.949,49 
+ 
+
+ 
+ LAZIO Frosinone FR A054 Acuto 13.015,21 
+ 
+
+ 
+ PUGLIA Bari BA A055 Adelfia 385.731,64 
+ 
+
+ 
+ SICILIA Catania CT A056 Adrano 271.130,15 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A057 Adrara San Martino 36.383,87 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A058 Adrara San Rocco 14.766,74 
+ 
+
+ 
+ VENETO Rovigo RO A059 Adria 498.403,72 
+ 
+
+ 
+ LOMBARDIA Brescia BS A060 Adro 47.659,65 
+ 
+
+ 
+ VENETO Verona VR A061 Affi 74.721,06 
+ 
+
+ 
+ LAZIO Roma RM A062 Affile 9.423,94 
+ 
+
+ 
+ CAMPANIA Napoli NA A064 Afragola 398.448,06 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A065 Africo 10.828,92 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC A067 Agazzano 82.732,97 
+ 
+
+ 
+ CAMPANIA Napoli NA A068 Agerola 125.098,33 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT A069 Aggius 25.216,15 
+ 
+
+ 
+ SICILIA Enna EN A070 Agira 38.525,38 
+ 
+
+ 
+ TOSCANA Pistoia PT A071 Agliana 405.620,06 
+ 
+
+ 
+ PIEMONTE Asti AT A072 Agliano Terme 45.047,99 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT H848 Aglientu 47.344,53 
+ 
+
+ 
+ PIEMONTE Torino TO A074 Agliè 77.675,95 
+ 
+
+ 
+ VENETO Padova PD A075 Agna 112.997,48 
+ 
+
+ 
+ LOMBARDIA Cremona CR A076 Agnadello 65.353,61 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A077 Agnana Calabra 9.614,48 
+ 
+
+ 
+ MOLISE Isernia IS A080 Agnone 138.849,36 
+ 
+
+ 
+ LOMBARDIA Brescia BS A082 Agnosine 3.598,21 
+ 
+
+ 
+ VENETO Belluno BL A083 Agordo 93.575,35 
+ 
+
+ 
+ LAZIO Roma RM A084 Agosta 20.138,56 
+ 
+
+ 
+ LOMBARDIA Varese VA A085 Agra 3.832,73 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A087 Agrate Brianza 429.726,63 
+ 
+
+ 
+ PIEMONTE Novara NO A088 Agrate Conturbia 50.743,43 
+ 
+
+ 
+ SICILIA Agrigento AG A089 Agrigento 1.231.426,95 
+ 
+
+ 
+ CAMPANIA Salerno SA A091 Agropoli 323.635,88 
+ 
+
+ 
+ MARCHE Ancona AN A092 Agugliano 103.637,85 
+ 
+
+ 
+ VENETO Vicenza VI A093 Agugliaro 58.533,51 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A096 Aicurzio 55.734,09 
+ 
+
+ 
+ SARDEGNA Oristano OR A097 Aidomaggiore 7.419,08 
+ 
+
+ 
+ SICILIA Enna EN A098 Aidone 30.470,53 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A100 Aielli 20.494,25 
+ 
+
+ 
+ CALABRIA Cosenza CS A102 Aiello Calabro 13.421,53 
+ 
+
+ 
+ CAMPANIA Avellino AV A101 Aiello del Sabato 60.519,85 
+ 
+
+ 
+ CALABRIA Cosenza CS A105 Aieta 3.462,83 
+ 
+
+ 
+ CAMPANIA Caserta CE A106 Ailano 14.938,80 
+ 
+
+ 
+ PIEMONTE Biella BI A107 Ailoche 3.906,93 
+ 
+
+ 
+ PIEMONTE Torino TO A109 Airasca 94.536,11 
+ 
+
+ 
+ CAMPANIA Benevento BN A110 Airola 181.751,16 
+ 
+
+ 
+ LIGURIA Imperia IM A111 Airole 876,05 
+ 
+
+ 
+ LOMBARDIA Lecco LC A112 Airuno 66.203,81 
+ 
+
+ 
+ PIEMONTE Cuneo CN A113 Aisone 1.296,00 
+ 
+
+ 
+ PIEMONTE Torino TO A117 Ala di Stura 6.112,76 
+ 
+
+ 
+ LOMBARDIA Pavia PV A118 Alagna 15.126,91 
+ 
+
+ 
+ PIEMONTE Vercelli VC A119 Alagna Valsesia 11.168,95 
+ 
+
+ 
+ ABRUZZO Pescara PE A120 Alanno 48.184,66 
+ 
+
+ 
+ VENETO Belluno BL A121 Alano di Piave 32.111,51 
+ 
+
+ 
+ LIGURIA Savona SV A122 Alassio 764.095,57 
+ 
+
+ 
+ LAZIO Frosinone FR A123 Alatri 409.209,59 
+ 
+
+ 
+ PIEMONTE Cuneo CN A124 Alba 663.962,13 
+ 
+
+ 
+ ABRUZZO Teramo TE A125 Alba Adriatica 314.591,18 
+ 
+
+ 
+ SARDEGNA Oristano OR A126 Albagiara 3.010,20 
+ 
+
+ 
+ LOMBARDIA Milano MI A127 Albairate 140.733,93 
+ 
+
+ 
+ CAMPANIA Salerno SA A128 Albanella 112.287,51 
+ 
+
+ 
+ LAZIO Roma RM A132 Albano Laziale 1.388.012,58 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A129 Albano Sant'Alessandro 106.047,43 
+ 
+
+ 
+ PIEMONTE Vercelli VC A130 Albano Vercellese 17.485,58 
+ 
+
+ 
+ BASILICATA Potenza PZ A131 Albano di Lucania 2.534,21 
+ 
+
+ 
+ LOMBARDIA Pavia PV A134 Albaredo Arnaboldi 19.822,59 
+ 
+
+ 
+ VENETO Verona VR A137 Albaredo d'Adige 154.520,06 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A135 Albaredo per San Marco 1.421,81 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR A138 Albareto 38.195,35 
+ 
+
+ 
+ PIEMONTE Cuneo CN A139 Albaretto della Torre 2.387,52 
+ 
+
+ 
+ LOMBARDIA Como CO A143 Albavilla 218.471,71 
+ 
+
+ 
+ LIGURIA Savona SV A145 Albenga 1.034.070,45 
+ 
+
+ 
+ PIEMONTE Alessandria AL A146 Albera Ligure 3.513,21 
+ 
+
+ 
+ PUGLIA Bari BA A149 Alberobello 312.143,26 
+ 
+
+ 
+ PUGLIA Foggia FG A150 Alberona 9.584,99 
+ 
+
+ 
+ LOMBARDIA Como CO A153 Albese con Cassano 150.583,67 
+ 
+
+ 
+ VENETO Vicenza VI A154 Albettone 70.117,02 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A155 Albi 2.998,70 
+ 
+
+ 
+ PIEMONTE Torino TO A157 Albiano d'Ivrea 59.329,73 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A159 Albiate 144.664,96 
+ 
+
+ 
+ CALABRIA Cosenza CS A160 Albidona 569,00 
+ 
+
+ 
+ VENETO Padova PD A161 Albignasego 1.055.656,92 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE A162 Albinea 327.983,35 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A163 Albino 312.643,12 
+ 
+
+ 
+ LOMBARDIA Como CO A164 Albiolo 63.099,23 
+ 
+
+ 
+ LIGURIA Savona SV A166 Albisola Superiore 444.126,36 
+ 
+
+ 
+ LIGURIA Savona SV A165 Albissola Marina 355.217,23 
+ 
+
+ 
+ LOMBARDIA Varese VA A167 Albizzate 86.846,35 
+ 
+
+ 
+ LOMBARDIA Pavia PV A171 Albonese 13.930,71 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A172 Albosaggia 35.508,08 
+ 
+
+ 
+ PIEMONTE Asti AT A173 Albugnano 6.064,83 
+ 
+
+ 
+ LOMBARDIA Pavia PV A175 Albuzzano 37.336,15 
+ 
+
+ 
+ SICILIA Trapani TP A176 Alcamo 822.400,08 
+ 
+
+ 
+ SICILIA Messina ME A177 Alcara li Fusi 5.031,67 
+ 
+
+ 
+ SARDEGNA Oristano OR A180 Ales 18.663,38 
+ 
+
+ 
+ PIEMONTE Alessandria AL A182 Alessandria 2.770.411,70 
+ 
+
+ 
+ CALABRIA Cosenza CS A183 Alessandria del Carretto 3.520,66 
+ 
+
+ 
+ SICILIA Agrigento AG A181 Alessandria della Rocca 6.579,91 
+ 
+
+ 
+ PUGLIA Lecce LE A184 Alessano 55.276,41 
+ 
+
+ 
+ PUGLIA Lecce LE A185 Alezio 47.294,78 
+ 
+
+ 
+ CAMPANIA Salerno SA A186 Alfano 6.849,38 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A187 Alfedena 12.235,52 
+ 
+
+ 
+ LOMBARDIA Brescia BS A188 Alfianello 52.917,33 
+ 
+
+ 
+ PIEMONTE Alessandria AL A189 Alfiano Natta 20.803,00 
+ 
+
+ 
+ EMILIA- ROMAGNA Ravenna RA A191 Alfonsine 613.898,01 
+ 
+
+ 
+ SARDEGNA Sassari SS A192 Alghero 1.155.897,97 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A193 Algua 2.632,34 
+ 
+
+ 
+ SICILIA Palermo PA A195 Alia 60.143,30 
+ 
+
+ 
+ BASILICATA Matera MT A196 Aliano 5.233,26 
+ 
+
+ 
+ PIEMONTE Alessandria AL A197 Alice Bel Colle 46.544,05 
+ 
+
+ 
+ PIEMONTE Vercelli VC A198 Alice Castello 68.683,68 
+ 
+
+ 
+ PIEMONTE Torino TO A199 Alice Superiore 12.922,27 
+ 
+
+ 
+ CAMPANIA Caserta CE A200 Alife 135.733,47 
+ 
+
+ 
+ SICILIA Palermo PA A202 Alimena 17.877,75 
+ 
+
+ 
+ SICILIA Palermo PA A203 Aliminusa 4.353,08 
+ 
+
+ 
+ SARDEGNA Oristano OR A204 Allai 1.292,55 
+ 
+
+ 
+ VENETO Belluno BL A206 Alleghe 27.321,74 
+ 
+
+ 
+ UMBRIA Terni TR A207 Allerona 30.726,39 
+ 
+
+ 
+ PUGLIA Lecce LE A208 Alliste 53.695,99 
+ 
+
+ 
+ LAZIO Roma RM A210 Allumiere 66.160,07 
+ 
+
+ 
+ PIEMONTE Alessandria AL A211 Alluvioni Cambiò 46.831,19 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A216 Almenno San Bartolomeo 138.378,67 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A217 Almenno San Salvatore 119.133,58 
+ 
+
+ 
+ PIEMONTE Torino TO A218 Almese 210.599,04 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A214 Almè 111.887,90 
+ 
+
+ 
+ VENETO Vicenza VI A220 Alonte 35.868,30 
+ 
+
+ 
+ PIEMONTE Torino TO A221 Alpette 5.353,00 
+ 
+
+ 
+ PIEMONTE Torino TO A222 Alpignano 639.637,02 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC A223 Alseno 146.208,00 
+ 
+
+ 
+ LOMBARDIA Como CO A224 Alserio 30.315,64 
+ 
+
+ 
+ PUGLIA Bari BA A225 Altamura 1.578.141,33 
+ 
+
+ 
+ LIGURIA Savona SV A226 Altare 39.805,61 
+ 
+
+ 
+ CAMPANIA Avellino AV A228 Altavilla Irpina 32.514,13 
+ 
+
+ 
+ SICILIA Palermo PA A229 Altavilla Milicia 99.572,55 
+ 
+
+ 
+ PIEMONTE Alessandria AL A227 Altavilla Monferrato 13.334,59 
+ 
+
+ 
+ CAMPANIA Salerno SA A230 Altavilla Silentina 119.390,17 
+ 
+
+ 
+ VENETO Vicenza VI A231 Altavilla Vicentina 279.344,22 
+ 
+
+ 
+ MARCHE Fermo FM A233 Altidona 41.165,44 
+ 
+
+ 
+ CALABRIA Cosenza CS A234 Altilia 6.884,97 
+ 
+
+ 
+ ABRUZZO Chieti CH A235 Altino 47.978,20 
+ 
+
+ 
+ VENETO Vicenza VI A236 Altissimo 31.531,16 
+ 
+
+ 
+ VENETO Treviso TV A237 Altivole 279.957,69 
+ 
+
+ 
+ PIEMONTE Cuneo CN A238 Alto 442,17 
+ 
+
+ 
+ SICILIA Palermo PA A239 Altofonte 68.051,12 
+ 
+
+ 
+ CALABRIA Cosenza CS A240 Altomonte 54.949,74 
+ 
+
+ 
+ TOSCANA Lucca LU A241 Altopascio 432.417,95 
+ 
+
+ 
+ UMBRIA Terni TR A242 Alviano 17.572,18 
+ 
+
+ 
+ CAMPANIA Caserta CE A243 Alvignano 84.659,77 
+ 
+
+ 
+ LAZIO Frosinone FR A244 Alvito 30.071,72 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A246 Alzano Lombardo 246.077,07 
+ 
+
+ 
+ PIEMONTE Alessandria AL A245 Alzano Scrivia 13.578,77 
+ 
+
+ 
+ LOMBARDIA Como CO A249 Alzate Brianza 188.838,06 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT A115 Alà dei Sardi 15.166,60 
+ 
+
+ 
+ SICILIA Messina ME A194 Alì 1.297,33 
+ 
+
+ 
+ SICILIA Messina ME A201 Alì Terme 20.722,23 
+ 
+
+ 
+ CAMPANIA Salerno SA A251 Amalfi 42.788,94 
+ 
+
+ 
+ MARCHE Fermo FM A252 Amandola 35.242,65 
+ 
+
+ 
+ CALABRIA Cosenza CS A253 Amantea 214.517,12 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A255 Amaroni 15.450,12 
+ 
+
+ 
+ LAZIO Frosinone FR A256 Amaseno 59.176,24 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A257 Amato 3.184,88 
+ 
+
+ 
+ LAZIO Rieti RI A258 Amatrice 10.082,68 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A259 Ambivere 51.074,33 
+ 
+
+ 
+ LIGURIA La Spezia SP A261 Ameglia 298.631,10 
+ 
+
+ 
+ UMBRIA Terni TR A262 Amelia 212.553,12 
+ 
+
+ 
+ CALABRIA Cosenza CS A263 Amendolara 25.919,79 
+ 
+
+ 
+ PIEMONTE Novara NO A264 Ameno 20.216,28 
+ 
+
+ 
+ CAMPANIA Benevento BN A265 Amorosi 75.025,75 
+ 
+
+ 
+ CAMPANIA Napoli NA A268 Anacapri 446.505,61 
+ 
+
+ 
+ LAZIO Frosinone FR A269 Anagni 304.729,91 
+ 
+
+ 
+ ABRUZZO Teramo TE A270 Ancarano 29.529,40 
+ 
+
+ 
+ MARCHE Ancona AN A271 Ancona 4.283.933,39 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A272 Andali 3.471,92 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A273 Andalo Valtellino 9.124,20 
+ 
+
+ 
+ PIEMONTE Torino TO A275 Andezeno 69.311,07 
+ 
+
+ 
+ LIGURIA Savona SV A278 Andora 319.116,21 
+ 
+
+ 
+ PIEMONTE Biella BI A280 Andorno Micca 77.635,33 
+ 
+
+ 
+ PUGLIA Lecce LE A281 Andrano 29.679,23 
+ 
+
+ 
+ PIEMONTE Torino TO A282 Andrate 11.668,49 
+ 
+
+ 
+ CAMPANIA Avellino AV A284 Andretta 14.149,01 
+ 
+
+ 
+ PUGLIA Barletta Andria Trani BT A285 Andria 2.847.982,56 
+ 
+
+ 
+ SARDEGNA Sassari SS A287 Anela 9.221,61 
+ 
+
+ 
+ LOMBARDIA Brescia BS A288 Anfo 2.198,53 
+ 
+
+ 
+ LOMBARDIA Varese VA A290 Angera 189.586,90 
+ 
+
+ 
+ TOSCANA Arezzo AR A291 Anghiari 114.685,55 
+ 
+
+ 
+ VENETO Verona VR A292 Angiari 77.137,83 
+ 
+
+ 
+ LOMBARDIA Brescia BS A293 Angolo Terme 14.757,42 
+ 
+
+ 
+ CAMPANIA Salerno SA A294 Angri 599.279,10 
+ 
+
+ 
+ PIEMONTE Torino TO A295 Angrogna 4.117,89 
+ 
+
+ 
+ LAZIO Roma RM A297 Anguillara Sabazia 740.023,69 
+ 
+
+ 
+ VENETO Padova PD A296 Anguillara Veneta 112.654,69 
+ 
+
+ 
+ LOMBARDIA Cremona CR A299 Annicco 69.686,45 
+ 
+
+ 
+ VENETO Venezia VE A302 Annone Veneto 80.571,83 
+ 
+
+ 
+ LOMBARDIA Lecco LC A301 Annone di Brianza 91.187,43 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A303 Anoia 29.607,62 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A304 Antegnate 71.964,24 
+ 
+
+ 
+ LAZIO Roma RM A309 Anticoli Corrado 10.248,47 
+ 
+
+ 
+ PIEMONTE Asti AT A312 Antignano 24.946,30 
+ 
+
+ 
+ SICILIA Messina ME A313 Antillo 2.543,00 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A314 Antonimina 4.217,95 
+ 
+
+ 
+ LAZIO Rieti RI A315 Antrodoco 25.842,36 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A317 Antrona Schieranco 1.305,00 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A318 Anversa degli Abruzzi 5.884,86 
+ 
+
+ 
+ LOMBARDIA Como CO A319 Anzano del Parco 53.831,82 
+ 
+
+ 
+ PUGLIA Foggia FG A320 Anzano di Puglia 18.514,11 
+ 
+
+ 
+ BASILICATA Potenza PZ A321 Anzi 2.099,61 
+ 
+
+ 
+ LAZIO Roma RM A323 Anzio 2.891.621,21 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A325 Anzola d'Ossola 2.690,00 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A324 Anzola dell'Emilia 484.380,76 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU A327 Apecchio 11.765,80 
+ 
+
+ 
+ CAMPANIA Benevento BN A328 Apice 116.924,19 
+ 
+
+ 
+ MARCHE Macerata MC A329 Apiro 22.762,74 
+ 
+
+ 
+ CAMPANIA Benevento BN A330 Apollosa 34.089,62 
+ 
+
+ 
+ LOMBARDIA Como CO A333 Appiano Gentile 324.477,07 
+ 
+
+ 
+ MARCHE Macerata MC A334 Appignano 121.139,25 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP A335 Appignano del Tronto 14.218,44 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A337 Aprica 28.574,21 
+ 
+
+ 
+ LIGURIA Imperia IM A338 Apricale 3.851,12 
+ 
+
+ 
+ PUGLIA Foggia FG A339 Apricena 356.754,57 
+ 
+
+ 
+ CALABRIA Cosenza CS A340 Aprigliano 5.712,91 
+ 
+
+ 
+ LAZIO Latina LT A341 Aprilia 1.838.959,02 
+ 
+
+ 
+ CAMPANIA Salerno SA A343 Aquara 8.181,67 
+ 
+
+ 
+ LIGURIA Imperia IM A344 Aquila d'Arroscia 1.689,84 
+ 
+
+ 
+ CAMPANIA Avellino AV A347 Aquilonia 9.677,63 
+ 
+
+ 
+ LAZIO Frosinone FR A348 Aquino 56.205,31 
+ 
+
+ 
+ PUGLIA Lecce LE A350 Aradeo 73.778,31 
+ 
+
+ 
+ SICILIA Agrigento AG A351 Aragona 96.928,60 
+ 
+
+ 
+ PIEMONTE Asti AT A352 Aramengo 5.512,94 
+ 
+
+ 
+ SARDEGNA Oristano OR A357 Arborea 336.541,37 
+ 
+
+ 
+ PIEMONTE Vercelli VC A358 Arborio 65.434,78 
+ 
+
+ 
+ SARDEGNA Medio Campidano VS A359 Arbus 68.730,98 
+ 
+
+ 
+ VENETO Treviso TV A360 Arcade 159.214,47 
+ 
+
+ 
+ LAZIO Frosinone FR A363 Arce 87.233,98 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A365 Arcene 61.701,66 
+ 
+
+ 
+ MARCHE Ancona AN A366 Arcevia 71.058,92 
+ 
+
+ 
+ ABRUZZO Chieti CH A367 Archi 41.597,33 
+ 
+
+ 
+ TOSCANA Grosseto GR A369 Arcidosso 110.142,54 
+ 
+
+ 
+ LAZIO Roma RM A370 Arcinazzo Romano 22.046,29 
+ 
+
+ 
+ LOMBARDIA Varese VA A371 Arcisate 172.110,14 
+ 
+
+ 
+ LIGURIA La Spezia SP A373 Arcola 192.379,42 
+ 
+
+ 
+ VENETO Verona VR A374 Arcole 110.750,25 
+ 
+
+ 
+ LOMBARDIA Milano MI A375 Arconate 198.518,52 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A376 Arcore 726.083,41 
+ 
+
+ 
+ VENETO Vicenza VI A377 Arcugnano 262.025,72 
+ 
+
+ 
+ SARDEGNA Sassari SS A379 Ardara 13.354,78 
+ 
+
+ 
+ SARDEGNA Oristano OR A380 Ardauli 6.841,86 
+ 
+
+ 
+ LAZIO Roma RM M213 Ardea 1.749.573,00 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A382 Ardenno 44.057,90 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A383 Ardesio 26.326,45 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A385 Ardore 31.042,54 
+ 
+
+ 
+ CALABRIA Vibo Valentia VV A386 Arena 5.160,58 
+ 
+
+ 
+ LOMBARDIA Pavia PV A387 Arena Po 46.310,15 
+ 
+
+ 
+ LIGURIA Genova GE A388 Arenzano 1.079.939,59 
+ 
+
+ 
+ LOMBARDIA Milano MI A389 Arese 1.061.435,64 
+ 
+
+ 
+ TOSCANA Arezzo AR A390 Arezzo 2.530.210,77 
+ 
+
+ 
+ LOMBARDIA Como CO A391 Argegno 35.844,84 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A392 Argelato 308.810,85 
+ 
+
+ 
+ EMILIA- ROMAGNA Ferrara FE A393 Argenta 1.350.094,01 
+ 
+
+ 
+ PIEMONTE Cuneo CN A394 Argentera 1.072,13 
+ 
+
+ 
+ PIEMONTE Cuneo CN A396 Arguello 1.491,32 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A397 Argusto 2.480,18 
+ 
+
+ 
+ ABRUZZO Chieti CH A398 Ari 32.690,65 
+ 
+
+ 
+ CAMPANIA Avellino AV A399 Ariano Irpino 354.629,99 
+ 
+
+ 
+ VENETO Rovigo RO A400 Ariano nel Polesine 144.327,37 
+ 
+
+ 
+ LAZIO Roma RM A401 Ariccia 717.153,94 
+ 
+
+ 
+ ABRUZZO Chieti CH A402 Arielli 16.344,47 
+ 
+
+ 
+ CAMPANIA Caserta CE A403 Arienzo 58.848,70 
+ 
+
+ 
+ PIEMONTE Torino TO A405 Arignano 47.876,07 
+ 
+
+ 
+ SARDEGNA Nuoro NU A407 Aritzo 15.979,22 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A409 Arizzano 62.933,63 
+ 
+
+ 
+ LAZIO Viterbo VT A412 Arlena di Castro 18.717,99 
+ 
+
+ 
+ LOMBARDIA Milano MI A413 Arluno 295.958,83 
+ 
+
+ 
+ PIEMONTE Novara NO A414 Armeno 49.751,41 
+ 
+
+ 
+ BASILICATA Potenza PZ A415 Armento 831,11 
+ 
+
+ 
+ LIGURIA Imperia IM A418 Armo 201,53 
+ 
+
+ 
+ SARDEGNA Cagliari CA A419 Armungia 4.181,91 
+ 
+
+ 
+ LAZIO Frosinone FR A421 Arnara 33.259,71 
+ 
+
+ 
+ LIGURIA Savona SV A422 Arnasco 14.277,26 
+ 
+
+ 
+ PUGLIA Lecce LE A425 Arnesano 27.659,75 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A427 Arola 2.383,17 
+ 
+
+ 
+ PIEMONTE Novara NO A429 Arona 403.419,19 
+ 
+
+ 
+ LOMBARDIA Como CO A430 Arosio 137.243,86 
+ 
+
+ 
+ CAMPANIA Benevento BN A431 Arpaia 26.103,62 
+ 
+
+ 
+ CAMPANIA Benevento BN A432 Arpaise 11.902,47 
+ 
+
+ 
+ LAZIO Frosinone FR A433 Arpino 116.786,08 
+ 
+
+ 
+ PIEMONTE Alessandria AL A436 Arquata Scrivia 130.017,11 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP A437 Arquata del Tronto 3.327,66 
+ 
+
+ 
+ VENETO Padova PD A434 Arquà Petrarca 98.711,41 
+ 
+
+ 
+ VENETO Rovigo RO A435 Arquà Polesine 93.561,04 
+ 
+
+ 
+ VENETO Padova PD A438 Arre 73.972,38 
+ 
+
+ 
+ UMBRIA Terni TR A439 Arrone 32.735,20 
+ 
+
+ 
+ LOMBARDIA Varese VA A441 Arsago Seprio 71.428,15 
+ 
+
+ 
+ VENETO Vicenza VI A444 Arsiero 55.443,22 
+ 
+
+ 
+ ABRUZZO Teramo TE A445 Arsita 9.293,47 
+ 
+
+ 
+ VENETO Belluno BL A443 Arsiè 29.335,29 
+ 
+
+ 
+ LAZIO Roma RM A446 Arsoli 40.085,98 
+ 
+
+ 
+ LAZIO Roma RM A449 Artena 214.992,80 
+ 
+
+ 
+ LOMBARDIA Brescia BS A451 Artogne 67.165,52 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT A453 Arzachena 422.005,36 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A440 Arzago d'Adda 56.663,25 
+ 
+
+ 
+ SARDEGNA Ogliastra OG A454 Arzana 27.340,33 
+ 
+
+ 
+ CAMPANIA Napoli NA A455 Arzano 176.898,81 
+ 
+
+ 
+ VENETO Padova PD A458 Arzergrande 114.224,06 
+ 
+
+ 
+ VENETO Vicenza VI A459 Arzignano 961.869,59 
+ 
+
+ 
+ CAMPANIA Salerno SA A460 Ascea 95.173,00 
+ 
+
+ 
+ TOSCANA Siena SI A461 Asciano 344.085,14 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP A462 Ascoli Piceno 945.358,91 
+ 
+
+ 
+ PUGLIA Foggia FG A463 Ascoli Satriano 144.246,42 
+ 
+
+ 
+ LAZIO Rieti RI A464 Ascrea 1.833,18 
+ 
+
+ 
+ VENETO Vicenza VI A465 Asiago 46.349,57 
+ 
+
+ 
+ VENETO Vicenza VI A467 Asigliano Veneto 39.327,22 
+ 
+
+ 
+ PIEMONTE Vercelli VC A466 Asigliano Vercellese 104.116,16 
+ 
+
+ 
+ LOMBARDIA Mantova MN A470 Asola 321.807,04 
+ 
+
+ 
+ VENETO Treviso TV A471 Asolo 446.375,74 
+ 
+
+ 
+ LOMBARDIA Milano MI A473 Assago 31.130,26 
+ 
+
+ 
+ SARDEGNA Cagliari CA A474 Assemini 273.354,42 
+ 
+
+ 
+ UMBRIA Perugia PG A475 Assisi 1.230.847,59 
+ 
+
+ 
+ LOMBARDIA Como CO A476 Asso 122.780,31 
+ 
+
+ 
+ SARDEGNA Oristano OR A477 Assolo 4.430,38 
+ 
+
+ 
+ SICILIA Enna EN A478 Assoro 25.319,77 
+ 
+
+ 
+ PIEMONTE Asti AT A479 Asti 1.012.524,39 
+ 
+
+ 
+ SARDEGNA Oristano OR A480 Asuni 2.197,75 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A481 Ateleta 18.895,80 
+ 
+
+ 
+ BASILICATA Potenza PZ A482 Atella 48.014,03 
+ 
+
+ 
+ CAMPANIA Salerno SA A484 Atena Lucana 43.940,54 
+ 
+
+ 
+ ABRUZZO Chieti CH A485 Atessa 257.128,04 
+ 
+
+ 
+ LAZIO Frosinone FR A486 Atina 90.176,13 
+ 
+
+ 
+ CAMPANIA Salerno SA A487 Atrani 9.270,27 
+ 
+
+ 
+ ABRUZZO Teramo TE A488 Atri 175.741,98 
+ 
+
+ 
+ CAMPANIA Avellino AV A489 Atripalda 210.866,15 
+ 
+
+ 
+ UMBRIA Terni TR A490 Attigliano 6.195,98 
+ 
+
+ 
+ SARDEGNA Nuoro NU A492 Atzara 2.097,20 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU A493 Auditore 15.549,90 
+ 
+
+ 
+ SICILIA Siracusa SR A494 Augusta 821.184,46 
+ 
+
+ 
+ CAMPANIA Salerno SA A495 Auletta 16.220,98 
+ 
+
+ 
+ TOSCANA MassaCarrara MS A496 Aulla 287.469,01 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A497 Aurano 505,61 
+ 
+
+ 
+ LIGURIA Imperia IM A499 Aurigo 1.160,17 
+ 
+
+ 
+ VENETO Belluno BL A501 Auronzo di Cadore 89.202,36 
+ 
+
+ 
+ LAZIO Frosinone FR A502 Ausonia 26.384,20 
+ 
+
+ 
+ SARDEGNA Nuoro NU A503 Austis 1.989,59 
+ 
+
+ 
+ LIGURIA Genova GE A506 Avegno 53.058,14 
+ 
+
+ 
+ CAMPANIA Avellino AV A508 Avella 82.305,23 
+ 
+
+ 
+ CAMPANIA Avellino AV A509 Avellino 1.811.510,94 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A511 Averara 1.442,50 
+ 
+
+ 
+ CAMPANIA Caserta CE A512 Aversa 966.902,66 
+ 
+
+ 
+ PUGLIA Taranto TA A514 Avetrana 260.633,70 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A515 Avezzano 1.101.043,40 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A517 Aviatico 9.172,63 
+ 
+
+ 
+ PIEMONTE Torino TO A518 Avigliana 503.183,90 
+ 
+
+ 
+ BASILICATA Potenza PZ A519 Avigliano 77.971,06 
+ 
+
+ 
+ UMBRIA Terni TR M258 Avigliano Umbro 31.616,20 
+ 
+
+ 
+ SICILIA Siracusa SR A522 Avola 684.192,12 
+ 
+
+ 
+ PIEMONTE Alessandria AL A523 Avolasca 6.765,29 
+ 
+
+ 
+ PIEMONTE Torino TO A525 Azeglio 43.184,37 
+ 
+
+ 
+ LOMBARDIA Cremona CR A526 Azzanello 26.099,45 
+ 
+
+ 
+ LOMBARDIA Brescia BS A529 Azzano Mella 49.907,43 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A528 Azzano San Paolo 170.072,39 
+ 
+
+ 
+ PIEMONTE Asti AT A527 Azzano d'Asti 2.610,82 
+ 
+
+ 
+ LOMBARDIA Varese VA A531 Azzate 113.263,66 
+ 
+
+ 
+ LOMBARDIA Varese VA A532 Azzio 17.977,72 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A533 Azzone 2.076,58 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A534 Baceno 14.870,90 
+ 
+
+ 
+ CAMPANIA Napoli NA A535 Bacoli 486.180,47 
+ 
+
+ 
+ LIGURIA Imperia IM A536 Badalucco 3.618,47 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT M214 Badesi 19.072,82 
+ 
+
+ 
+ VENETO Verona VR A540 Badia Calavena 23.274,03 
+ 
+
+ 
+ LOMBARDIA Pavia PV A538 Badia Pavese 11.844,96 
+ 
+
+ 
+ VENETO Rovigo RO A539 Badia Polesine 288.667,60 
+ 
+
+ 
+ TOSCANA Arezzo AR A541 Badia Tedalda 28.138,31 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A542 Badolato 13.504,73 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A544 Bagaladi 2.896,96 
+ 
+
+ 
+ SICILIA Palermo PA A546 Bagheria 648.591,10 
+ 
+
+ 
+ EMILIA- ROMAGNA Ravenna RA A547 Bagnacavallo 867.301,92 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A552 Bagnara Calabra 21.287,00 
+ 
+
+ 
+ EMILIA- ROMAGNA Ravenna RA A551 Bagnara di Romagna 90.426,04 
+ 
+
+ 
+ LOMBARDIA Pavia PV A550 Bagnaria 6.558,44 
+ 
+
+ 
+ PIEMONTE Cuneo CN A555 Bagnasco 8.089,27 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A557 Bagnatica 83.768,70 
+ 
+
+ 
+ TOSCANA Lucca LU A560 Bagni di Lucca 84.064,70 
+ 
+
+ 
+ TOSCANA Firenze FI A564 Bagno a Ripoli 1.088.290,58 
+ 
+
+ 
+ EMILIA- ROMAGNA ForliCesena FC A565 Bagno di Romagna 162.797,05 
+ 
+
+ 
+ CAMPANIA Avellino AV A566 Bagnoli Irpino 51.216,14 
+ 
+
+ 
+ MOLISE Isernia IS A567 Bagnoli del Trigno 6.242,92 
+ 
+
+ 
+ VENETO Padova PD A568 Bagnoli di Sopra 126.514,88 
+ 
+
+ 
+ LOMBARDIA Cremona CR A570 Bagnolo Cremasco 118.270,30 
+ 
+
+ 
+ LOMBARDIA Brescia BS A569 Bagnolo Mella 292.485,41 
+ 
+
+ 
+ PIEMONTE Cuneo CN A571 Bagnolo Piemonte 26.592,67 
+ 
+
+ 
+ LOMBARDIA Mantova MN A575 Bagnolo San Vito 199.823,19 
+ 
+
+ 
+ PUGLIA Lecce LE A572 Bagnolo del Salento 7.222,93 
+ 
+
+ 
+ VENETO Rovigo RO A574 Bagnolo di Po 69.685,43 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE A573 Bagnolo in Piano 300.076,37 
+ 
+
+ 
+ TOSCANA MassaCarrara MS A576 Bagnone 38.629,84 
+ 
+
+ 
+ LAZIO Viterbo VT A577 Bagnoregio 120.175,96 
+ 
+
+ 
+ LOMBARDIA Brescia BS A578 Bagolino 24.941,00 
+ 
+
+ 
+ CAMPANIA Caserta CE A579 Baia e Latina 35.785,74 
+ 
+
+ 
+ CAMPANIA Avellino AV A580 Baiano 39.608,94 
+ 
+
+ 
+ PIEMONTE Torino TO A584 Bairo 23.710,70 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE A586 Baiso 46.488,40 
+ 
+
+ 
+ LIGURIA Imperia IM A581 Bajardo 723,21 
+ 
+
+ 
+ PIEMONTE Torino TO A587 Balangero 100.899,68 
+ 
+
+ 
+ PIEMONTE Asti AT A588 Baldichieri d'Asti 6.762,93 
+ 
+
+ 
+ PIEMONTE Torino TO A590 Baldissero Canavese 11.669,33 
+ 
+
+ 
+ PIEMONTE Torino TO A591 Baldissero Torinese 226.827,12 
+ 
+
+ 
+ PIEMONTE Cuneo CN A589 Baldissero d'Alba 12.115,95 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SICILIA |Palermo |PA |A592 |Balestrate | 79.241,07
+ 
+ 
+ LIGURIA Savona SV A593 Balestrino 12.352,09 
+ 
+
+ 
+ LOMBARDIA Lecco LC A594 Ballabio 130.020,54 
+ 
+
+ 
+ SARDEGNA Cagliari CA A597 Ballao 9.823,01 
+ 
+
+ 
+ PIEMONTE Torino TO A599 Balme 1.706,67 
+ 
+
+ 
+ PIEMONTE Vercelli VC A600 Balmuccia 404,50 
+ 
+
+ 
+ PIEMONTE Vercelli VC A601 Balocco 31.025,93 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A603 Balsorano 31.062,83 
+ 
+
+ 
+ BASILICATA Potenza PZ A604 Balvano 2.547,79 
+ 
+
+ 
+ PIEMONTE Alessandria AL A605 Balzola 83.757,77 
+ 
+
+ 
+ SARDEGNA Sassari SS A606 Banari 8.802,97 
+ 
+
+ 
+ PIEMONTE Torino TO A607 Banchette 69.812,83 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A610 Bannio Anzino 4.239,16 
+ 
+
+ 
+ BASILICATA Potenza PZ A612 Banzi 14.860,75 
+ 
+
+ 
+ VENETO Padova PD A613 Baone 111.155,10 
+ 
+
+ 
+ SARDEGNA Oristano OR A614 Baradili 747,00 
+ 
+
+ 
+ BASILICATA Potenza PZ A615 Baragiano 16.024,96 
+ 
+
+ 
+ MOLISE Campobasso CB A616 Baranello 46.666,59 
+ 
+
+ 
+ CAMPANIA Napoli NA A617 Barano d'Ischia 133.411,93 
+ 
+
+ 
+ LOMBARDIA Milano MI A618 Baranzate 132.035,29 
+ 
+
+ 
+ LOMBARDIA Varese VA A619 Barasso 37.875,65 
+ 
+
+ 
+ SARDEGNA Oristano OR A621 Baratili San Pietro 23.547,13 
+ 
+
+ 
+ PIEMONTE Torino TO A625 Barbania 60.819,39 
+ 
+
+ 
+ MARCHE Ancona AN A626 Barbara 19.959,05 
+ 
+
+ 
+ LAZIO Viterbo VT A628 Barbarano Romano 17.718,16 
+ 
+
+ 
+ VENETO Vicenza VI A627 Barbarano Vicentino 102.173,41 
+ 
+
+ 
+ PIEMONTE Cuneo CN A629 Barbaresco 41.090,00 
+ 
+
+ 
+ LOMBARDIA Brescia BS A630 Barbariga 49.805,92 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A631 Barbata 32.868,20 
+ 
+
+ 
+ TOSCANA Firenze FI A633 Barberino Val d'Elsa 182.630,82 
+ 
+
+ 
+ TOSCANA Firenze FI A632 Barberino di Mugello 208.780,75 
+ 
+
+ 
+ LOMBARDIA Pavia PV A634 Barbianello 30.036,92 
+ 
+
+ 
+ VENETO Padova PD A637 Barbona 23.703,51 
+ 
+
+ 
+ SICILIA Messina ME A638 Barcellona Pozzo di Gotto 287.435,81 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU A639 Barchi 8.358,45 
+ 
+
+ 
+ LOMBARDIA Varese VA A645 Bardello 20.977,90 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR A646 Bardi 51.912,82 
+ 
+
+ 
+ LIGURIA Savona SV A647 Bardineto 14.213,27 
+ 
+
+ 
+ VENETO Verona VR A650 Bardolino 367.030,83 
+ 
+
+ 
+ PIEMONTE Torino TO A651 Bardonecchia 152.874,52 
+ 
+
+ 
+ LOMBARDIA Milano MI A652 Bareggio 400.145,23 
+ 
+
+ 
+ PIEMONTE Novara NO A653 Barengo 17.162,68 
+ 
+
+ 
+ SARDEGNA Oristano OR A655 Baressa 7.453,90 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A656 Barete 11.783,26 
+ 
+
+ 
+ TOSCANA Lucca LU A657 Barga 255.017,22 
+ 
+
+ 
+ LIGURIA Genova GE A658 Bargagli 46.052,41 
+ 
+
+ 
+ PIEMONTE Cuneo CN A660 Barge 62.056,55 
+ 
+
+ 
+ LOMBARDIA Brescia BS A661 Barghe 6.144,02 
+ 
+
+ 
+ PUGLIA Bari BA A662 Bari 17.621.188,26 
+ 
+
+ 
+ SARDEGNA Ogliastra OG A663 Bari Sardo 71.389,95 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A664 Bariano 88.860,84 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A665 Baricella 219.504,13 
+ 
+
+ 
+ BASILICATA Potenza PZ A666 Barile 31.639,70 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A667 Barisciano 30.196,24 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A668 Barlassina 183.291,88 
+ 
+
+ 
+ PUGLIA Barletta Andria Trani BT A669 Barletta 2.784.660,92 
+ 
+
+ 
+ LOMBARDIA Como CO A670 Barni 12.313,15 
+ 
+
+ 
+ PIEMONTE Cuneo CN A671 Barolo 26.537,54 
+ 
+
+ 
+ PIEMONTE Torino TO A673 Barone Canavese 15.610,74 
+ 
+
+ 
+ CAMPANIA Salerno SA A674 Baronissi 277.954,92 
+ 
+
+ 
+ SICILIA Enna EN A676 Barrafranca 97.952,13 
+ 
+
+ 
+ SARDEGNA Cagliari CA A677 Barrali 8.940,82 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A678 Barrea 6.549,41 
+ 
+
+ 
+ SARDEGNA Medio Campidano VS A681 Barumini 15.735,53 
+ 
+
+ 
+ LOMBARDIA Lecco LC A683 Barzago 84.735,35 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A684 Barzana 31.930,84 
+ 
+
+ 
+ LOMBARDIA Lecco LC A686 Barzanò 208.136,07 
+ 
+
+ 
+ LOMBARDIA Lecco LC A687 Barzio 61.904,27 
+ 
+
+ 
+ PIEMONTE Alessandria AL A689 Basaluzzo 78.213,82 
+ 
+
+ 
+ LOMBARDIA Pavia PV A690 Bascapè 47.043,30 
+ 
+
+ 
+ UMBRIA Terni TR A691 Baschi 55.568,19 
+ 
+
+ 
+ ABRUZZO Teramo TE A692 Basciano 35.990,65 
+ 
+
+ 
+ CAMPANIA Benevento BN A696 Baselice 19.437,74 
+ 
+
+ 
+ LOMBARDIA Milano MI A697 Basiano 68.291,89 
+ 
+
+ 
+ SICILIA Messina ME A698 Basicò 3.246,55 
+ 
+
+ 
+ LOMBARDIA Milano MI A699 Basiglio 556.729,75 
+ 
+
+ 
+ LOMBARDIA Brescia BS A702 Bassano Bresciano 43.761,72 
+ 
+
+ 
+ LAZIO Viterbo VT A704 Bassano Romano 186.033,96 
+ 
+
+ 
+ VENETO Vicenza VI A703 Bassano del Grappa 2.051.145,97 
+ 
+
+ 
+ LAZIO Viterbo VT A706 Bassano in Teverina 36.250,36 
+ 
+
+ 
+ LAZIO Latina LT A707 Bassiano 15.020,32 
+ 
+
+ 
+ PIEMONTE Alessandria AL A708 Bassignana 50.709,46 
+ 
+
+ 
+ PIEMONTE Cuneo CN A709 Bastia Mondovì 6.992,23 
+ 
+
+ 
+ UMBRIA Perugia PG A710 Bastia Umbra 503.710,43 
+ 
+
+ 
+ LOMBARDIA Pavia PV A712 Bastida Pancarana 17.084,10 
+ 
+
+ 
+ LOMBARDIA Pavia PV A711 Bastida dè Dossi 4.910,88 
+ 
+
+ 
+ EMILIA- ROMAGNA Modena MO A713 Bastiglia 110.637,24 
+ 
+
+ 
+ VENETO Padova PD A714 Battaglia Terme 86.526,81 
+ 
+
+ 
+ PIEMONTE Cuneo CN A716 Battifollo 1.352,22 
+ 
+
+ 
+ CAMPANIA Salerno SA A717 Battipaglia 1.095.292,57 
+ 
+
+ 
+ LOMBARDIA Pavia PV A718 Battuda 21.485,61 
+ 
+
+ 
+ SICILIA Palermo PA A719 Baucina 8.366,00 
+ 
+
+ 
+ SARDEGNA Oristano OR A721 Bauladu 7.372,27 
+ 
+
+ 
+ SARDEGNA Ogliastra OG A722 Baunei 48.770,31 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A725 Baveno 151.619,08 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A726 Bazzano 251.029,09 
+ 
+
+ 
+ LOMBARDIA Varese VA A728 Bedero Valcuvia 14.490,06 
+ 
+
+ 
+ LOMBARDIA Brescia BS A729 Bedizzole 233.038,93 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR A731 Bedonia 74.537,88 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A732 Bedulita 7.764,86 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A733 Bee 10.144,96 
+ 
+
+ 
+ PIEMONTE Torino TO A734 Beinasco 706.180,96 
+ 
+
+ 
+ PIEMONTE Cuneo CN A735 Beinette 67.513,11 
+ 
+
+ 
+ CALABRIA Catanzaro CZ A736 Belcastro 4.970,17 
+ 
+
+ 
+ VENETO Verona VR A737 Belfiore 116.572,22 
+ 
+
+ 
+ PIEMONTE Alessandria AL A738 Belforte Monferrato 5.077,06 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU A740 Belforte all'Isauro 6.740,88 
+ 
+
+ 
+ MARCHE Macerata MC A739 Belforte del Chienti 34.657,33 
+ 
+
+ 
+ LOMBARDIA Pavia PV A741 Belgioioso 50.994,66 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A742 Belgirate 18.717,27 
+ 
+
+ 
+ BASILICATA Potenza PZ A743 Bella 11.868,12 
+ 
+
+ 
+ LOMBARDIA Como CO A744 Bellagio 129.690,26 
+ 
+
+ 
+ LOMBARDIA Lecco LC A745 Bellano 108.947,79 
+ 
+
+ 
+ ABRUZZO Teramo TE A746 Bellante 118.723,50 
+ 
+
+ 
+ EMILIA- ROMAGNA Rimini RN A747 BellariaIgea Marina 691.433,41 
+ 
+
+ 
+ LAZIO Roma RM A749 Bellegra 31.412,84 
+ 
+
+ 
+ PIEMONTE Cuneo CN A750 Bellino 584,71 
+ 
+
+ 
+ LOMBARDIA Milano MI A751 Bellinzago Lombardo 78.977,44 
+ 
+
+ 
+ PIEMONTE Novara NO A752 Bellinzago Novarese 226.017,16 
+ 
+
+ 
+ CAMPANIA Salerno SA M294 Bellizzi 144.423,82 
+ 
+
+ 
+ CAMPANIA Caserta CE A755 Bellona 117.900,97 
+ 
+
+ 
+ CAMPANIA Salerno SA A756 Bellosguardo 10.762,53 
+ 
+
+ 
+ VENETO Belluno BL A757 Belluno 916.360,38 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A759 Bellusco 111.166,48 
+ 
+
+ 
+ CALABRIA Cosenza CS A762 Belmonte Calabro 16.321,28 
+ 
+
+ 
+ LAZIO Frosinone FR A763 Belmonte Castello 7.416,67 
+ 
+
+ 
+ SICILIA Palermo PA A764 Belmonte Mezzagno 40.811,09 
+ 
+
+ 
+ MARCHE Fermo FM A760 Belmonte Piceno 5.110,70 
+ 
+
+ 
+ MOLISE Isernia IS A761 Belmonte del Sannio 4.454,28 
+ 
+
+ 
+ LAZIO Rieti RI A765 Belmonte in Sabina 7.045,83 
+ 
+
+ 
+ SICILIA Catania CT A766 Belpasso 284.206,43 
+ 
+
+ 
+ CALABRIA Cosenza CS A768 Belsito 8.520,34 
+ 
+
+ 
+ PIEMONTE Cuneo CN A774 Belvedere Langhe 2.121,67 
+ 
+
+ 
+ CALABRIA Cosenza CS A773 Belvedere Marittimo 38.373,96 
+ 
+
+ 
+ MARCHE Ancona AN A769 Belvedere Ostrense 33.475,96 
+ 
+
+ 
+ CALABRIA Crotone KR A772 Belvedere di Spinello 5.286,56 
+ 
+
+ 
+ PIEMONTE Asti AT A770 Belveglio 8.701,69 
+ 
+
+ 
+ SARDEGNA Nuoro NU A776 Belvì 2.028,55 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A777 Bema 400,00 
+ 
+
+ 
+ LOMBARDIA Como CO A778 Bene Lario 6.047,34 
+ 
+
+ 
+ PIEMONTE Cuneo CN A779 Bene Vagienna 112.519,64 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A780 Benestare 2.932,48 
+ 
+
+ 
+ SARDEGNA Sassari SS A781 Benetutti 20.958,66 
+ 
+
+ 
+ PIEMONTE Cuneo CN A782 Benevello 7.120,50 
+ 
+
+ 
+ CAMPANIA Benevento BN A783 Benevento 1.885.634,96 
+ 
+
+ 
+ PIEMONTE Biella BI A784 Benna 37.643,02 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A785 Bentivoglio 216.737,23 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A786 Berbenno 27.986,62 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A787 Berbenno di Valtellina 48.625,23 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR A788 Berceto 47.708,57 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT A789 Berchidda 27.175,35 
+ 
+
+ 
+ LOMBARDIA Como CO A791 Beregazzo con Figliaro 55.061,46 
+ 
+
+ 
+ LOMBARDIA Pavia PV A792 Bereguardo 26.196,36 
+ 
+
+ 
+ PIEMONTE Alessandria AL A793 Bergamasco 18.070,50 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A794 Bergamo 4.701.274,13 
+ 
+
+ 
+ VENETO Rovigo RO A795 Bergantino 93.518,93 
+ 
+
+ 
+ LIGURIA Savona SV A796 Bergeggi 91.301,97 
+ 
+
+ 
+ PIEMONTE Cuneo CN A798 Bergolo 752,50 
+ 
+
+ 
+ LOMBARDIA Brescia BS A799 Berlingo 39.601,84 
+ 
+
+ 
+ BASILICATA Matera MT A801 Bernalda 203.083,10 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A802 Bernareggio 246.260,53 
+ 
+
+ 
+ LOMBARDIA Milano MI A804 Bernate Ticino 103.827,96 
+ 
+
+ 
+ PIEMONTE Cuneo CN A805 Bernezzo 16.399,39 
+ 
+
+ 
+ EMILIA- ROMAGNA Ferrara FE A806 Berra 216.081,44 
+ 
+
+ 
+ EMILIA- ROMAGNA Forlì Cesena FC A809 Bertinoro 302.062,34 
+ 
+
+ 
+ LOMBARDIA Lodi LO A811 Bertonico 13.468,43 
+ 
+
+ 
+ PIEMONTE Asti AT A812 Berzano di San Pietro 3.546,81 
+ 
+
+ 
+ PIEMONTE Alessandria AL A813 Berzano di Tortona 3.441,11 
+ 
+
+ 
+ LOMBARDIA Brescia BS A816 Berzo Demo 9.297,54 
+ 
+
+ 
+ LOMBARDIA Brescia BS A817 Berzo Inferiore 11.842,61 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A815 Berzo San Fermo 14.346,66 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A818 Besana in Brianza 513.191,47 
+ 
+
+ 
+ LOMBARDIA Varese VA A819 Besano 30.301,09 
+ 
+
+ 
+ LOMBARDIA Milano MI A820 Besate 68.682,74 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC A823 Besenzone 80.934,87 
+ 
+
+ 
+ LOMBARDIA Varese VA A825 Besnate 80.989,09 
+ 
+
+ 
+ LOMBARDIA Varese VA A826 Besozzo 163.290,00 
+ 
+
+ 
+ SARDEGNA Sassari SS A827 Bessude 8.318,22 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC A831 Bettola 41.220,69 
+ 
+
+ 
+ UMBRIA Perugia PG A832 Bettona 92.289,02 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A834 BeuraCardezza 24.513,16 
+ 
+
+ 
+ UMBRIA Perugia PG A835 Bevagna 83.406,42 
+ 
+
+ 
+ LIGURIA La Spezia SP A836 Beverino 59.865,81 
+ 
+
+ 
+ VENETO Verona VR A837 Bevilacqua 66.917,71 
+ 
+
+ 
+ SICILIA Catania CT A841 Biancavilla 151.768,12 
+ 
+
+ 
+ CALABRIA Cosenza CS A842 Bianchi 9.428,74 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A843 Bianco 34.834,40 
+ 
+
+ 
+ PIEMONTE Novara NO A844 Biandrate 51.811,32 
+ 
+
+ 
+ LOMBARDIA Varese VA A845 Biandronno 46.442,09 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A846 Bianzano 11.640,42 
+ 
+
+ 
+ LOMBARDIA Sondrio SO A848 Bianzone 11.266,50 
+ 
+
+ 
+ PIEMONTE Vercelli VC A847 Bianzè 122.431,38 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB A849 Biassono 493.942,46 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE A850 Bibbiano 280.447,28 
+ 
+
+ 
+ TOSCANA Arezzo AR A851 Bibbiena 217.968,09 
+ 
+
+ 
+ TOSCANA Livorno LI A852 Bibbona 121.894,61 
+ 
+
+ 
+ PIEMONTE Torino TO A853 Bibiana 18.566,63 
+ 
+
+ 
+ PUGLIA Foggia FG A854 Biccari 43.934,81 
+ 
+
+ 
+ SARDEGNA Oristano OR A856 Bidonì 2.203,28 
+ 
+
+ 
+ PIEMONTE Biella BI A859 Biella 1.625.948,31 
+ 
+
+ 
+ LOMBARDIA Brescia BS A861 Bienno 19.327,71 
+ 
+
+ 
+ TOSCANA Pisa PI A864 Bientina 381.931,90 
+ 
+
+ 
+ LOMBARDIA Mantova MN A866 Bigarello 102.111,04 
+ 
+
+ 
+ LOMBARDIA Como CO A870 Binago 96.573,78 
+ 
+
+ 
+ LOMBARDIA Milano MI A872 Binasco 131.018,04 
+ 
+
+ 
+ PUGLIA Bari BA A874 Binetto 55.750,03 
+ 
+
+ 
+ PIEMONTE Biella BI A876 Bioglio 15.371,26 
+ 
+
+ 
+ LOMBARDIA Brescia BS A878 Bione 6.266,97 
+ 
+
+ 
+ SARDEGNA Nuoro NU A880 Birori 9.754,45 
+ 
+
+ 
+ CAMPANIA Avellino AV A881 Bisaccia 7.819,32 
+ 
+
+ 
+ SICILIA Palermo PA A882 Bisacquino 24.530,76 
+ 
+
+ 
+ PUGLIA Barletta Andria Trani BT A883 Bisceglie 1.054.797,98 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ A884 Bisegna 2.920,00 
+ 
+
+ 
+ ABRUZZO Teramo TE A885 Bisenti 28.208,98 
+ 
+
+ 
+ CALABRIA Cosenza CS A887 Bisignano 38.581,76 
+ 
+
+ 
+ PIEMONTE Alessandria AL A889 Bistagno 39.953,85 
+ 
+
+ 
+ LOMBARDIA Varese VA A891 Bisuschio 64.302,62 
+ 
+
+ 
+ PUGLIA Bari BA A892 Bitetto 214.091,15 
+ 
+
+ 
+ PUGLIA Bari BA A893 Bitonto 1.093.127,76 
+ 
+
+ 
+ PUGLIA Bari BA A894 Bitritto 244.168,31 
+ 
+
+ 
+ SARDEGNA Nuoro NU A895 Bitti 42.560,19 
+ 
+
+ 
+ SICILIA Agrigento AG A896 Bivona 27.117,78 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC A897 Bivongi 7.343,41 
+ 
+
+ 
+ LOMBARDIA Como CO A898 Bizzarone 42.769,59 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A903 Blello 264,00 
+ 
+
+ 
+ LAZIO Viterbo VT A857 Blera 63.355,11 
+ 
+
+ 
+ LOMBARDIA Como CO A904 Blessagno 7.962,00 
+ 
+
+ 
+ LOMBARDIA Como CO A905 Blevio 38.676,20 
+ 
+
+ 
+ SICILIA Palermo PA M268 Blufi 9.209,09 
+ 
+
+ 
+ VENETO Padova PD A906 Boara Pisani 66.575,60 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC A909 Bobbio 92.050,48 
+ 
+
+ 
+ PIEMONTE Torino TO A910 Bobbio Pellice 1.894,00 
+ 
+
+ 
+ PIEMONTE Novara NO A911 Boca 24.758,47 
+ 
+
+ 
+ CALABRIA Cosenza CS A912 Bocchigliero 8.498,10 
+ 
+
+ 
+ PIEMONTE Vercelli VC A914 Boccioleto 1.058,79 
+ 
+
+ 
+ LOMBARDIA Varese VA A918 Bodio Lomnago 51.679,74 
+ 
+
+ 
+ LOMBARDIA Lodi LO A919 Boffalora d'Adda 41.558,20 
+ 
+
+ 
+ LOMBARDIA Milano MI A920 Boffalora sopra Ticino 112.812,78 
+ 
+
+ 
+ LIGURIA Genova GE A922 Bogliasco 426.758,24 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB A925 Bognanco 2.022,46 
+ 
+
+ 
+ PIEMONTE Novara NO A929 Bogogno 39.381,87 
+ 
+
+ 
+ LIGURIA Savona SV A931 Boissano 79.013,07 
+ 
+
+ 
+ MOLISE Campobasso CB A930 Bojano 112.993,35 
+ 
+
+ 
+ LIGURIA La Spezia SP A932 Bolano 188.964,88 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A937 Bolgare 81.177,28 
+ 
+
+ 
+ LOMBARDIA Milano MI A940 Bollate 1.120.662,64 
+ 
+
+ 
+ PIEMONTE Torino TO A941 Bollengo 72.402,32 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO A944 Bologna 23.539.705,85 
+ 
+
+ 
+ ABRUZZO Pescara PE A945 Bolognano 17.373,59 
+ 
+
+ 
+ SICILIA Palermo PA A946 Bolognetta 28.887,44 
+ 
+
+ 
+ MARCHE Macerata MC A947 Bolognola 3.345,95 
+ 
+
+ 
+ SARDEGNA Nuoro NU A948 Bolotana 65.619,60 
+ 
+
+ 
+ LAZIO Viterbo VT A949 Bolsena 158.298,88 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A950 Boltiere 107.210,71 
+ 
+
+ 
+ PIEMONTE Novara NO A953 Bolzano Novarese 33.200,04 
+ 
+
+ 
+ VENETO Vicenza VI A954 Bolzano Vicentino 237.320,57 
+ 
+
+ 
+ LAZIO Viterbo VT A955 Bomarzo 44.753,86 
+ 
+
+ 
+ ABRUZZO Chieti CH A956 Bomba 6.835,57 
+ 
+
+ 
+ SICILIA Caltanissetta CL A957 Bompensiere 3.448,28 
+ 
+
+ 
+ SICILIA Palermo PA A958 Bompietro 10.787,56 
+ 
+
+ 
+ EMILIA- ROMAGNA Modena MO A959 Bomporto 234.959,29 
+ 
+
+ 
+ SARDEGNA Oristano OR A960 Bonarcado 14.681,97 
+ 
+
+ 
+ LIGURIA La Spezia SP A961 Bonassola 114.335,40 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A963 Bonate Sopra 156.708,53 
+ 
+
+ 
+ LOMBARDIA Bergamo BG A962 Bonate Sotto 83.189,10 
+ 
+
+ 
+ VENETO Verona VR A964 Bonavigo 86.596,86 
+ 
+
+ 
+ EMILIA- ROMAGNA Ferrara FE A965 Bondeno 890.374,33 
+ 
+
+ 
+ CAMPANIA Benevento BN A970 Bonea 16.957,06 
+ 
+
+ 
+ MOLISE Campobasso CB A971 Bonefro 14.240,24 
+ 
+
+ 
+ LOMBARDIA Cremona CR A972 Bonemerse 58.799,29 
+ 
+
+ 
+ CALABRIA Cosenza CS A973 Bonifati 1.155,70 
+ 
+
+ 
+ CAMPANIA Avellino AV A975 Bonito 30.654,97 
+ 
+
+ 
+ SARDEGNA Sassari SS A976 Bonnanaro 20.167,79 
+ 
+
+ 
+ SARDEGNA Sassari SS A977 Bono 34.248,53 
+ 
+
+ 
+ SARDEGNA Sassari SS A978 Bonorva 59.110,99 
+ 
+
+ 
+ PIEMONTE Cuneo CN A979 Bonvicino 578,67 
+ 
+
+ 
+ LAZIO Rieti RI A981 Borbona 3.590,04 
+ 
+
+ 
+ VENETO Belluno BL A982 Borca di Cadore 34.951,33 
+ 
+
+ 
+ LIGURIA Imperia IM A984 Bordighera 501.203,32 
+ 
+
+ 
+ LOMBARDIA Cremona CR A986 Bordolano 30.937,81 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR A987 Bore 17.673,58 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE A988 Boretto 159.730,99 
+ 
+
+ 
+ LOMBARDIA Pavia PV A989 Borgarello 26.553,08 
+ 
+
+ 
+ PIEMONTE Torino TO A990 Borgaro Torinese 421.802,76 
+ 
+
+ 
+ SICILIA Palermo PA A991 Borgetto 56.387,23 
+ 
+
+ 
+ LOMBARDIA Lodi LO A995 Borghetto Lodigiano 118.487,75 
+ 
+
+ 
+ LIGURIA Savona SV A999 Borghetto Santo Spirito 180.322,90 
+ 
+
+ 
+ LIGURIA Imperia IM A993 Borghetto d'Arroscia 2.410,52 
+ 
+
+ 
+ PIEMONTE Alessandria AL A998 Borghetto di Borbera 60.862,90 
+ 
+
+ 
+ LIGURIA La Spezia SP A992 Borghetto di Vara 25.643,60 
+ 
+
+ 
+ EMILIA- ROMAGNA ForliCesena FC B001 Borghi 44.332,44 
+ 
+
+ 
+ CALABRIA Catanzaro CZ B002 Borgia 18.262,16 
+ 
+
+ 
+ PIEMONTE Torino TO B003 Borgiallo 14.863,33 
+ 
+
+ 
+ LIGURIA Savona SV B005 Borgio Verezzi 135.511,15 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU B026 Borgo Pace 4.780,23 
+ 
+
+ 
+ LOMBARDIA Pavia PV B028 Borgo Priolo 22.102,47 
+ 
+
+ 
+ PIEMONTE Cuneo CN B033 Borgo San Dalmazzo 306.590,52 
+ 
+
+ 
+ LOMBARDIA Brescia BS B035 Borgo San Giacomo 117.233,61 
+ 
+
+ 
+ LOMBARDIA Lodi LO B017 Borgo San Giovanni 51.257,55 
+ 
+
+ 
+ TOSCANA Firenze FI B036 Borgo San Lorenzo 473.430,85 
+ 
+
+ 
+ PIEMONTE Alessandria AL B037 Borgo San Martino 65.488,26 
+ 
+
+ 
+ LOMBARDIA Pavia PV B038 Borgo San Siro 27.570,93 
+ 
+
+ 
+ PIEMONTE Novara NO B043 Borgo Ticino 101.146,78 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO B044 Borgo Tossignano 34.235,34 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR B042 Borgo Val di Taro 160.574,47 
+ 
+
+ 
+ LAZIO Rieti RI A996 Borgo Velino 11.478,86 
+ 
+
+ 
+ PIEMONTE Vercelli VC B046 Borgo Vercelli 98.314,12 
+ 
+
+ 
+ TOSCANA Lucca LU B007 Borgo a Mozzano 97.812,36 
+ 
+
+ 
+ PIEMONTE Vercelli VC B009 Borgo d'Ale 53.975,05 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B010 Borgo di Terzo 2.276,50 
+ 
+
+ 
+ LOMBARDIA Mantova MN B011 Borgoforte 142.298,14 
+ 
+
+ 
+ PIEMONTE Torino TO B015 Borgofranco d'Ivrea 89.673,01 
+ 
+
+ 
+ LOMBARDIA Mantova MN B013 Borgofranco sul Po 37.818,43 
+ 
+
+ 
+ PIEMONTE Novara NO B016 Borgolavezzaro 81.758,51 
+ 
+
+ 
+ PIEMONTE Cuneo CN B018 Borgomale 4.162,39 
+ 
+
+ 
+ PIEMONTE Novara NO B019 Borgomanero 731.107,21 
+ 
+
+ 
+ LIGURIA Imperia IM B020 Borgomaro 1.152,00 
+ 
+
+ 
+ PIEMONTE Torino TO B021 Borgomasino 26.180,95 
+ 
+
+ 
+ PIEMONTE Torino TO B024 Borgone Susa 29.701,66 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B025 Borgonovo Val Tidone 249.890,14 
+ 
+
+ 
+ PIEMONTE Alessandria AL B029 Borgoratto Alessandrino 13.670,65 
+ 
+
+ 
+ LOMBARDIA Pavia PV B030 Borgoratto Mormorolo 6.494,14 
+ 
+
+ 
+ VENETO Padova PD B031 Borgoricco 231.304,33 
+ 
+
+ 
+ LAZIO Rieti RI B008 Borgorose 25.292,45 
+ 
+
+ 
+ LOMBARDIA Brescia BS B040 Borgosatollo 118.834,38 
+ 
+
+ 
+ PIEMONTE Vercelli VC B041 Borgosesia 354.583,46 
+ 
+
+ 
+ LIGURIA Savona SV B048 Bormida 7.500,48 
+ 
+
+ 
+ LOMBARDIA Sondrio SO B049 Bormio 147.378,76 
+ 
+
+ 
+ LOMBARDIA Pavia PV B051 Bornasco 35.655,49 
+ 
+
+ 
+ LOMBARDIA Brescia BS B054 Borno 21.604,48 
+ 
+
+ 
+ SARDEGNA Oristano OR B055 Boroneddu 1.980,66 
+ 
+
+ 
+ SARDEGNA Nuoro NU B056 Borore 34.018,09 
+ 
+
+ 
+ ABRUZZO Chieti CH B057 Borrello 3.995,60 
+ 
+
+ 
+ PIEMONTE Biella BI B058 Borriana 27.267,53 
+ 
+
+ 
+ VENETO Treviso TV B061 Borso del Grappa 152.141,00 
+ 
+
+ 
+ SARDEGNA Nuoro NU B062 Bortigali 22.247,03 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT B063 Bortigiadas 9.336,36 
+ 
+
+ 
+ SARDEGNA Sassari SS B064 Borutta 4.786,37 
+ 
+
+ 
+ LIGURIA Genova GE B067 Borzonasca 13.566,23 
+ 
+
+ 
+ SARDEGNA Oristano OR B068 Bosa 101.447,85 
+ 
+
+ 
+ VENETO Rovigo RO B069 Bosaro 26.902,65 
+ 
+
+ 
+ VENETO Verona VR B070 Boschi Sant'Anna 59.558,89 
+ 
+
+ 
+ VENETO Verona VR B073 Bosco Chiesanuova 104.710,30 
+ 
+
+ 
+ PIEMONTE Alessandria AL B071 Bosco Marengo 133.341,77 
+ 
+
+ 
+ PIEMONTE Torino TO B075 Bosconero 82.704,21 
+ 
+
+ 
+ CAMPANIA Napoli NA B076 Boscoreale 306.252,15 
+ 
+
+ 
+ CAMPANIA Napoli NA B077 Boscotrecase 95.230,17 
+ 
+
+ 
+ PIEMONTE Cuneo CN B079 Bosia 331,50 
+ 
+
+ 
+ PIEMONTE Alessandria AL B080 Bosio 27.555,99 
+ 
+
+ 
+ LOMBARDIA Lecco LC B081 Bosisio Parini 107.786,67 
+ 
+
+ 
+ LOMBARDIA Pavia PV B082 Bosnasco 23.618,88 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B083 Bossico 8.394,52 
+ 
+
+ 
+ PIEMONTE Cuneo CN B084 Bossolasco 11.299,52 
+ 
+
+ 
+ CALABRIA Catanzaro CZ B085 Botricello 36.601,93 
+ 
+
+ 
+ PUGLIA Lecce LE B086 Botrugno 8.894,78 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B088 Bottanuco 69.690,69 
+ 
+
+ 
+ LOMBARDIA Brescia BS B091 Botticino 229.483,08 
+ 
+
+ 
+ SARDEGNA Sassari SS B094 Bottidda 10.617,45 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B097 Bova 1.693,81 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B099 Bova Marina 22.398,60 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B098 Bovalino 53.944,39 
+ 
+
+ 
+ LOMBARDIA Brescia BS B100 Bovegno 10.877,12 
+ 
+
+ 
+ PIEMONTE Cuneo CN B101 Boves 160.508,53 
+ 
+
+ 
+ LOMBARDIA Brescia BS B102 Bovezzo 84.374,46 
+ 
+
+ 
+ LAZIO Frosinone FR A720 Boville Ernica 148.887,20 
+ 
+
+ 
+ PUGLIA Foggia FG B104 Bovino 56.265,56 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B105 BovisioMasciago 386.063,75 
+ 
+
+ 
+ VENETO Padova PD B106 Bovolenta 108.498,91 
+ 
+
+ 
+ VENETO Verona VR B107 Bovolone 98.086,14 
+ 
+
+ 
+ PIEMONTE Alessandria AL B109 Bozzole 20.318,12 
+ 
+
+ 
+ LOMBARDIA Mantova MN B110 Bozzolo 116.278,94 
+ 
+
+ 
+ PIEMONTE Cuneo CN B111 Bra 770.513,56 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B112 Bracca 8.325,50 
+ 
+
+ 
+ LAZIO Roma RM B114 Bracciano 653.181,26 
+ 
+
+ 
+ CAMPANIA Salerno SA B115 Bracigliano 46.538,25 
+ 
+
+ 
+ LOMBARDIA Pavia PV B117 Brallo di Pregola 4.674,41 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B118 Brancaleone 8.476,66 
+ 
+
+ 
+ LOMBARDIA Brescia BS B120 Brandico 26.492,51 
+ 
+
+ 
+ PIEMONTE Torino TO B121 Brandizzo 170.997,08 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B123 Branzi 6.553,92 
+ 
+
+ 
+ LOMBARDIA Brescia BS B124 Braone 987,45 
+ 
+
+ 
+ LOMBARDIA Varese VA B126 Brebbia 46.465,39 
+ 
+
+ 
+ VENETO Treviso TV B128 Breda di Piave 246.951,70 
+ 
+
+ 
+ LOMBARDIA Varese VA B131 Bregano 12.937,00 
+ 
+
+ 
+ VENETO Vicenza VI B132 Breganze 276.243,13 
+ 
+
+ 
+ LOMBARDIA Como CO B134 Bregnano 175.141,79 
+ 
+
+ 
+ PIEMONTE Vercelli VC B136 Breia 1.910,99 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B137 Brembate 149.896,49 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B138 Brembate di Sopra 156.519,57 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B140 Brembilla 32.580,56 
+ 
+
+ 
+ LOMBARDIA Lodi LO B141 Brembio 62.164,17 
+ 
+
+ 
+ LOMBARDIA Pavia PV B142 Breme 28.350,23 
+ 
+
+ 
+ VENETO Vicenza VI B143 Brendola 172.519,81 
+ 
+
+ 
+ LOMBARDIA Como CO B144 Brenna 68.542,94 
+ 
+
+ 
+ LOMBARDIA Brescia BS B149 Breno 59.897,26 
+ 
+
+ 
+ LOMBARDIA Varese VA B150 Brenta 26.791,22 
+ 
+
+ 
+ VENETO Verona VR B152 Brentino Belluno 33.475,69 
+ 
+
+ 
+ VENETO Verona VR B154 Brenzone 61.645,27 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B156 Brescello 191.600,22 
+ 
+
+ 
+ LOMBARDIA Brescia BS B157 Brescia 6.557.787,03 
+ 
+
+ 
+ LOMBARDIA Pavia PV B159 Bressana Bottarone 36.507,49 
+ 
+
+ 
+ VENETO Vicenza VI B161 Bressanvido 105.483,98 
+ 
+
+ 
+ LOMBARDIA Milano MI B162 Bresso 653.297,82 
+ 
+
+ 
+ LOMBARDIA Varese VA B166 Brezzo di Bedero 41.090,65 
+ 
+
+ 
+ PIEMONTE Cuneo CN B167 Briaglia 3.049,30 
+ 
+
+ 
+ CALABRIA Vibo Valentia VV B169 Briatico 29.135,59 
+ 
+
+ 
+ PIEMONTE Torino TO B171 Bricherasio 49.207,89 
+ 
+
+ 
+ LOMBARDIA Como CO B172 Brienno 17.374,66 
+ 
+
+ 
+ BASILICATA Potenza PZ B173 Brienza 27.144,92 
+ 
+
+ 
+ PIEMONTE Cuneo CN B175 Briga Alta 639,50 
+ 
+
+ 
+ PIEMONTE Novara NO B176 Briga Novarese 75.224,14 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B178 Brignano Gera d'Adda 132.822,19 
+ 
+
+ 
+ PIEMONTE Alessandria AL B179 Brignano Frascata 9.876,15 
+ 
+
+ 
+ PUGLIA Brindisi BR B180 Brindisi 2.676.274,91 
+ 
+
+ 
+ BASILICATA Potenza PZ B181 Brindisi Montagna 865,51 
+ 
+
+ 
+ LOMBARDIA Varese VA B182 Brinzio 13.497,84 
+ 
+
+ 
+ PIEMONTE Novara NO B183 Briona 33.335,74 
+ 
+
+ 
+ LOMBARDIA Brescia BS B184 Brione 3.957,88 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B187 Briosco 153.188,64 
+ 
+
+ 
+ EMILIA- ROMAGNA Ravenna RA B188 Brisighella 264.565,33 
+ 
+
+ 
+ LOMBARDIA Varese VA B191 Brissago Valtravaglia 18.000,46 
+ 
+
+ 
+ ABRUZZO Pescara PE B193 Brittoli 4.766,89 
+ 
+
+ 
+ LOMBARDIA Lecco LC B194 Brivio 165.029,95 
+ 
+
+ 
+ LAZIO Frosinone FR B195 Broccostella 52.813,28 
+ 
+
+ 
+ VENETO Vicenza VI B196 Brogliano 91.882,82 
+ 
+
+ 
+ CALABRIA Vibo Valentia VV B197 Brognaturo 789,10 
+ 
+
+ 
+ SICILIA Messina ME B198 Brolo 36.519,81 
+ 
+
+ 
+ PIEMONTE Cuneo CN B200 Brondello 774,74 
+ 
+
+ 
+ LOMBARDIA Pavia PV B201 Broni 102.514,33 
+ 
+
+ 
+ SICILIA Catania CT B202 Bronte 134.012,22 
+ 
+
+ 
+ PIEMONTE Cuneo CN B204 Brossasco 7.562,15 
+ 
+
+ 
+ PIEMONTE Torino TO B205 Brosso 7.286,96 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B207 Brovello Carpugnino 15.386,37 
+ 
+
+ 
+ PIEMONTE Torino TO B209 Brozolo 15.921,80 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B212 Brugherio 1.091.524,74 
+ 
+
+ 
+ VENETO Padova PD B213 Brugine 175.021,19 
+ 
+
+ 
+ LIGURIA La Spezia SP B214 Brugnato 26.003,17 
+ 
+
+ 
+ PIEMONTE Torino TO B216 Bruino 451.675,99 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B217 Brumano 354,00 
+ 
+
+ 
+ LOMBARDIA Como CO B218 Brunate 90.254,52 
+ 
+
+ 
+ LOMBARDIA Varese VA B219 Brunello 14.255,93 
+ 
+
+ 
+ PIEMONTE Asti AT B221 Bruno 4.528,36 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B223 Brusaporto 135.489,32 
+ 
+
+ 
+ PIEMONTE Torino TO B225 Brusasco 45.623,20 
+ 
+
+ 
+ CAMPANIA Napoli NA B227 Brusciano 210.754,89 
+ 
+
+ 
+ LOMBARDIA Varese VA B228 Brusimpiano 19.120,48 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ PIEMONTE |Biella |BI |B229 |Brusnengo | 41.419,37
+ 
+ 
+ PIEMONTE Torino TO B232 Bruzolo 29.274,97 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B234 Bruzzano Zeffirio 10.850,57 
+ 
+
+ 
+ LOMBARDIA Milano MI B235 Bubbiano 49.431,26 
+ 
+
+ 
+ PIEMONTE Asti AT B236 Bubbio 9.467,63 
+ 
+
+ 
+ SICILIA Siracusa SR B237 Buccheri 37.179,70 
+ 
+
+ 
+ ABRUZZO Chieti CH B238 Bucchianico 113.118,31 
+ 
+
+ 
+ CAMPANIA Benevento BN B239 Bucciano 19.526,87 
+ 
+
+ 
+ LOMBARDIA Milano MI B240 Buccinasco 978.420,10 
+ 
+
+ 
+ CAMPANIA Salerno SA B242 Buccino 71.699,73 
+ 
+
+ 
+ TOSCANA Arezzo AR B243 Bucine 279.057,39 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT B246 Buddusò 6.183,38 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT B248 Budoni 98.948,68 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO B249 Budrio 983.277,15 
+ 
+
+ 
+ SARDEGNA Carbonia Iglesias CI B250 Buggerru 8.705,92 
+ 
+
+ 
+ TOSCANA Pistoia PT B251 Buggiano 142.666,66 
+ 
+
+ 
+ LOMBARDIA Sondrio SO B255 Buglio in Monte 23.536,87 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B256 Bugnara 25.526,12 
+ 
+
+ 
+ LOMBARDIA Varese VA B258 Buguggiate 76.411,57 
+ 
+
+ 
+ LOMBARDIA Lecco LC B261 Bulciago 75.308,67 
+ 
+
+ 
+ LOMBARDIA Como CO B262 Bulgarograsso 109.781,68 
+ 
+
+ 
+ SARDEGNA Sassari SS B264 Bultei 11.783,91 
+ 
+
+ 
+ SARDEGNA Sassari SS B265 Bulzi 8.311,45 
+ 
+
+ 
+ CAMPANIA Salerno SA B266 Buonabitacolo 41.101,80 
+ 
+
+ 
+ CAMPANIA Benevento BN B267 Buonalbergo 15.069,33 
+ 
+
+ 
+ TOSCANA Siena SI B269 Buonconvento 147.479,63 
+ 
+
+ 
+ CALABRIA Cosenza CS B270 Buonvicino 4.846,23 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B272 Burago di Molgora 84.726,49 
+ 
+
+ 
+ SARDEGNA Cagliari CA B274 Burcei 16.746,93 
+ 
+
+ 
+ SICILIA Agrigento AG B275 Burgio 6.846,18 
+ 
+
+ 
+ SARDEGNA Sassari SS B276 Burgos 11.830,47 
+ 
+
+ 
+ PIEMONTE Torino TO B278 Buriasco 57.126,66 
+ 
+
+ 
+ PIEMONTE Torino TO B279 Burolo 69.292,45 
+ 
+
+ 
+ PIEMONTE Vercelli VC B280 Buronzo 66.050,40 
+ 
+
+ 
+ SARDEGNA Oristano OR B281 Busachi 12.860,67 
+ 
+
+ 
+ LIGURIA Genova GE B282 Busalla 267.205,58 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B283 Busana 18.543,03 
+ 
+
+ 
+ PIEMONTE Torino TO B284 Busano 63.524,78 
+ 
+
+ 
+ PIEMONTE Cuneo CN B285 Busca 76.927,22 
+ 
+
+ 
+ LOMBARDIA Milano MI B286 Buscate 118.793,11 
+ 
+
+ 
+ SICILIA Siracusa SR B287 Buscemi 12.436,68 
+ 
+
+ 
+ SICILIA Trapani TP B288 Buseto Palizzolo 38.425,16 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B289 Busnago 134.304,82 
+ 
+
+ 
+ LOMBARDIA Milano MI B292 Bussero 152.084,48 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR B293 Busseto 410.443,57 
+ 
+
+ 
+ ABRUZZO Pescara PE B294 Bussi sul Tirino 28.376,20 
+ 
+
+ 
+ MOLISE Campobasso CB B295 Busso 23.386,09 
+ 
+
+ 
+ VENETO Verona VR B296 Bussolengo 396.646,80 
+ 
+
+ 
+ PIEMONTE Torino TO B297 Bussoleno 155.451,41 
+ 
+
+ 
+ LOMBARDIA Varese VA B300 Busto Arsizio 2.816.641,38 
+ 
+
+ 
+ LOMBARDIA Milano MI B301 Busto Garolfo 352.403,22 
+ 
+
+ 
+ SICILIA Caltanissetta CL B302 Butera 40.919,41 
+ 
+
+ 
+ TOSCANA Pisa PI B303 Buti 201.285,39 
+ 
+
+ 
+ VENETO Verona VR B304 Buttapietra 130.705,77 
+ 
+
+ 
+ PIEMONTE Torino TO B305 Buttigliera Alta 301.888,83 
+ 
+
+ 
+ PIEMONTE Asti AT B306 Buttigliera d'Asti 44.987,98 
+ 
+
+ 
+ LOMBARDIA Cremona CR B320 Cà d'Andrea 34.435,50 
+ 
+
+ 
+ PIEMONTE Alessandria AL B311 Cabella Ligure 5.695,68 
+ 
+
+ 
+ LOMBARDIA Como CO B313 Cabiate 209.529,13 
+ 
+
+ 
+ SARDEGNA Oristano OR B314 Cabras 110.572,32 
+ 
+
+ 
+ SICILIA Palermo PA B315 Caccamo 41.877,49 
+ 
+
+ 
+ CALABRIA Crotone KR B319 Caccuri 6.087,35 
+ 
+
+ 
+ LOMBARDIA Varese VA B326 Cadegliano Viconago 16.925,52 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B328 Cadelbosco di Sopra 286.125,77 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B332 Cadeo 179.182,32 
+ 
+
+ 
+ VENETO Padova PD B345 Cadoneghe 447.241,91 
+ 
+
+ 
+ LOMBARDIA Como CO B346 Cadorago 197.725,74 
+ 
+
+ 
+ LOMBARDIA Varese VA B347 Cadrezzate 33.264,84 
+ 
+
+ 
+ VENETO Treviso TV B349 Caerano di San Marco 292.996,01 
+ 
+
+ 
+ PIEMONTE Torino TO B350 Cafasse 95.524,65 
+ 
+
+ 
+ CAMPANIA Salerno SA B351 Caggiano 33.811,92 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU B352 Cagli 114.049,74 
+ 
+
+ 
+ SARDEGNA Cagliari CA B354 Cagliari 9.388.255,13 
+ 
+
+ 
+ LOMBARDIA Como CO B355 Caglio 13.265,40 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B358 Cagnano Amiterno 16.345,41 
+ 
+
+ 
+ PUGLIA Foggia FG B357 Cagnano Varano 72.318,01 
+ 
+
+ 
+ LOMBARDIA Como CO B359 Cagno 54.659,55 
+ 
+
+ 
+ CAMPANIA Caserta CE B361 Caianello 31.975,14 
+ 
+
+ 
+ CAMPANIA Caserta CE B362 Caiazzo 95.330,08 
+ 
+
+ 
+ LOMBARDIA Brescia BS B365 Caino 15.993,18 
+ 
+
+ 
+ LOMBARDIA Sondrio SO B366 Caiolo 14.393,33 
+ 
+
+ 
+ CAMPANIA Avellino AV B367 Cairano 1.341,24 
+ 
+
+ 
+ LOMBARDIA Varese VA B368 Cairate 83.371,15 
+ 
+
+ 
+ LIGURIA Savona SV B369 Cairo Montenotte 293.861,76 
+ 
+
+ 
+ CAMPANIA Napoli NA B371 Caivano 338.695,25 
+ 
+
+ 
+ CAMPANIA Avellino AV B374 Calabritto 16.777,59 
+ 
+
+ 
+ VENETO Belluno BL B375 Calalzo di Cadore 37.235,97 
+ 
+
+ 
+ PIEMONTE Asti AT B376 Calamandrana 55.108,30 
+ 
+
+ 
+ SICILIA Agrigento AG B377 Calamonaci 4.901,60 
+ 
+
+ 
+ SARDEGNA OlbiaTempio OT B378 Calangianus 64.957,84 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B379 Calanna 1.545,00 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B380 Calasca Castiglione 2.273,12 
+ 
+
+ 
+ SICILIA Enna EN B381 Calascibetta 25.024,94 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B382 Calascio 845,50 
+ 
+
+ 
+ SARDEGNA Carbonia Iglesias CI B383 Calasetta 38.290,93 
+ 
+
+ 
+ SICILIA Catania CT B384 Calatabiano 29.531,04 
+ 
+
+ 
+ SICILIA Trapani TP B385 Calatafimi Segesta 90.241,08 
+ 
+
+ 
+ LAZIO Viterbo VT B388 Calcata 10.874,56 
+ 
+
+ 
+ TOSCANA Pisa PI B390 Calci 262.861,01 
+ 
+
+ 
+ BASILICATA Matera MT B391 Calciano 3.595,57 
+ 
+
+ 
+ TOSCANA Pisa PI B392 Calcinaia 452.749,59 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B393 Calcinate 95.252,54 
+ 
+
+ 
+ LOMBARDIA Brescia BS B394 Calcinato 127.979,75 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B395 Calcio 115.816,62 
+ 
+
+ 
+ LOMBARDIA Lecco LC B396 Calco 205.826,20 
+ 
+
+ 
+ MARCHE Macerata MC B398 Caldarola 28.624,40 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO B399 Calderara di Reno 595.134,72 
+ 
+
+ 
+ VENETO Verona VR B402 Caldiero 137.416,76 
+ 
+
+ 
+ VENETO Vicenza VI B403 Caldogno 364.593,80 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B405 Calendasco 92.098,65 
+ 
+
+ 
+ TOSCANA Firenze FI B406 Calenzano 612.182,51 
+ 
+
+ 
+ EMILIA- ROMAGNA Parma PR B408 Calestano 37.542,33 
+ 
+
+ 
+ LIGURIA Savona SV B409 Calice Ligure 62.759,23 
+ 
+
+ 
+ LIGURIA La Spezia SP B410 Calice al Cornoviglio 14.294,70 
+ 
+
+ 
+ PUGLIA Lecce LE B413 Calimera 69.072,78 
+ 
+
+ 
+ CAMPANIA Avellino AV B415 Calitri 50.442,08 
+ 
+
+ 
+ LIGURIA Savona SV B416 Calizzano 46.674,46 
+ 
+
+ 
+ PIEMONTE Biella BI B417 Callabiana 1.163,26 
+ 
+
+ 
+ PIEMONTE Asti AT B418 Calliano 28.818,87 
+ 
+
+ 
+ LOMBARDIA Lecco LC B423 Calolziocorte 237.789,00 
+ 
+
+ 
+ CALABRIA Cosenza CS B424 Calopezzati 17.413,50 
+ 
+
+ 
+ PIEMONTE Asti AT B425 Calosso 52.243,20 
+ 
+
+ 
+ CALABRIA Cosenza CS B426 Caloveto 1.470,45 
+ 
+
+ 
+ SICILIA Agrigento AG B427 Caltabellotta 8.170,17 
+ 
+
+ 
+ SICILIA Catania CT B428 Caltagirone 434.141,83 
+ 
+
+ 
+ SICILIA Caltanissetta CL B429 Caltanissetta 722.091,92 
+ 
+
+ 
+ SICILIA Palermo PA B430 Caltavuturo 18.253,01 
+ 
+
+ 
+ PIEMONTE Novara NO B431 Caltignaga 110.470,82 
+ 
+
+ 
+ VENETO Rovigo RO B432 Calto 31.999,12 
+ 
+
+ 
+ VENETO Vicenza VI B433 Caltrano 79.383,34 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B434 Calusco d'Adda 173.048,03 
+ 
+
+ 
+ PIEMONTE Torino TO B435 Caluso 209.859,20 
+ 
+
+ 
+ LOMBARDIA Brescia BS B436 Calvagese della Riviera 54.555,21 
+ 
+
+ 
+ CAMPANIA Salerno SA B437 Calvanico 13.124,93 
+ 
+
+ 
+ LOMBARDIA Cremona CR B439 Calvatone 35.224,45 
+ 
+
+ 
+ BASILICATA Potenza PZ B440 Calvello 2.240,85 
+ 
+
+ 
+ VENETO Vicenza VI B441 Calvene 21.628,28 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B442 Calvenzano 76.888,37 
+ 
+
+ 
+ BASILICATA Potenza PZ B443 Calvera 1.209,81 
+ 
+
+ 
+ CAMPANIA Benevento BN B444 Calvi 51.425,33 
+ 
+
+ 
+ CAMPANIA Caserta CE B445 Calvi Risorta 97.201,18 
+ 
+
+ 
+ UMBRIA Terni TR B446 Calvi dell'Umbria 32.610,00 
+ 
+
+ 
+ LOMBARDIA Pavia PV B447 Calvignano 8.499,50 
+ 
+
+ 
+ LOMBARDIA Milano MI B448 Calvignasco 44.390,65 
+ 
+
+ 
+ LOMBARDIA Brescia BS B450 Calvisano 181.959,85 
+ 
+
+ 
+ CAMPANIA Napoli NA B452 Calvizzano 120.174,85 
+ 
+
+ 
+ PIEMONTE Alessandria AL B453 Camagna Monferrato 11.471,50 
+ 
+
+ 
+ TOSCANA Lucca LU B455 Camaiore 1.215.667,48 
+ 
+
+ 
+ LOMBARDIA Lodi LO B456 Camairago 23.173,11 
+ 
+
+ 
+ PIEMONTE Biella BI B457 Camandona 4.214,19 
+ 
+
+ 
+ SICILIA Agrigento AG B460 Camastra 8.323,17 
+ 
+
+ 
+ LOMBARDIA Milano MI B461 Cambiago 154.788,21 
+ 
+
+ 
+ PIEMONTE Torino TO B462 Cambiano 134.943,83 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B463 Cambiasca 34.846,72 
+ 
+
+ 
+ PIEMONTE Biella BI B465 Camburzano 33.689,15 
+ 
+
+ 
+ PIEMONTE Cuneo CN B467 Camerana 1.266,56 
+ 
+
+ 
+ MARCHE Ancona AN B468 Camerano 244.618,40 
+ 
+
+ 
+ PIEMONTE Asti AT B469 Camerano Casasco 2.555,49 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B471 Camerata Cornello 4.415,03 
+ 
+
+ 
+ LAZIO Roma RM B472 Camerata Nuova 3.995,71 
+ 
+
+ 
+ MARCHE Ancona AN B470 Camerata Picena 47.964,22 
+ 
+
+ 
+ PIEMONTE Novara NO B473 Cameri 305.651,43 
+ 
+
+ 
+ MARCHE Macerata MC B474 Camerino 177.827,93 
+ 
+
+ 
+ CAMPANIA Salerno SA B476 Camerota 89.341,78 
+ 
+
+ 
+ CAMPANIA Caserta CE B477 Camigliano 29.314,05 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B479 Caminata 3.964,75 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B481 Camini 3.944,23 
+ 
+
+ 
+ PIEMONTE Alessandria AL B482 Camino 17.349,02 
+ 
+
+ 
+ LOMBARDIA Cremona CR B484 Camisano 44.289,68 
+ 
+
+ 
+ VENETO Vicenza VI B485 Camisano Vicentino 368.766,47 
+ 
+
+ 
+ SICILIA Agrigento AG B486 Cammarata 25.942,88 
+ 
+
+ 
+ PIEMONTE Cuneo CN B489 Camo 2.557,88 
+ 
+
+ 
+ LIGURIA Genova GE B490 Camogli 518.396,86 
+ 
+
+ 
+ CAMPANIA Salerno SA B492 Campagna 315.098,13 
+ 
+
+ 
+ VENETO Venezia VE B493 Campagna Lupia 86.774,12 
+ 
+
+ 
+ LAZIO Roma RM B496 Campagnano di Roma 497.750,75 
+ 
+
+ 
+ TOSCANA Grosseto GR B497 Campagnatico 72.947,48 
+ 
+
+ 
+ LOMBARDIA Cremona CR B498 Campagnola Cremasca 22.934,38 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B499 Campagnola Emilia 227.366,54 
+ 
+
+ 
+ CALABRIA Cosenza CS B500 Campana 9.855,70 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B501 Camparada 49.472,36 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B502 Campegine 149.305,90 
+ 
+
+ 
+ UMBRIA Perugia PG B504 Campello sul Clitunno 39.297,94 
+ 
+
+ 
+ PIEMONTE Vercelli VC B505 Campertogno 4.672,42 
+ 
+
+ 
+ TOSCANA Firenze FI B507 Campi Bisenzio 917.688,22 
+ 
+
+ 
+ PUGLIA Lecce LE B506 Campi Salentina 179.911,50 
+ 
+
+ 
+ PIEMONTE Biella BI B508 Campiglia Cervo 3.284,72 
+ 
+
+ 
+ TOSCANA Livorno LI B509 Campiglia Marittima 513.270,30 
+ 
+
+ 
+ VENETO Vicenza VI B511 Campiglia dei Berici 59.616,04 
+ 
+
+ 
+ PIEMONTE Torino TO B512 Campiglione Fenile 36.425,16 
+ 
+
+ 
+ LOMBARDIA Como CO B513 Campione d'Italia 143.699,79 
+ 
+
+ 
+ ABRUZZO Teramo TE B515 Campli 62.109,06 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B516 Campo Calabro 27.008,51 
+ 
+
+ 
+ LIGURIA Genova GE B538 Campo Ligure 84.567,00 
+ 
+
+ 
+ VENETO Padova PD B564 Campo San Martino 173.527,78 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B526 Campo di Giove 26.574,90 
+ 
+
+ 
+ TOSCANA Livorno LI B553 Campo nell'Elba 405.914,59 
+ 
+
+ 
+ MOLISE Campobasso CB B519 Campobasso 1.805.630,97 
+ 
+
+ 
+ SICILIA Agrigento AG B520 Campobello di Licata 112.972,60 
+ 
+
+ 
+ SICILIA Trapani TP B521 Campobello di Mazara 247.214,37 
+ 
+
+ 
+ MOLISE Campobasso CB B522 Campochiaro 2.987,78 
+ 
+
+ 
+ VENETO Padova PD B524 Campodarsego 439.773,65 
+ 
+
+ 
+ LAZIO Latina LT B527 Campodimele 7.496,19 
+ 
+
+ 
+ MOLISE Campobasso CB B528 Campodipietra 42.092,20 
+ 
+
+ 
+ LOMBARDIA Sondrio SO B530 Campodolcino 8.844,92 
+ 
+
+ 
+ VENETO Padova PD B531 Campodoro 96.120,48 
+ 
+
+ 
+ SICILIA Palermo PA B533 Campofelice di Fitalia 31.290,75 
+ 
+
+ 
+ SICILIA Palermo PA B532 Campofelice di Roccella 90.022,99 
+ 
+
+ 
+ MARCHE Fermo FM B534 Campofilone 25.929,76 
+ 
+
+ 
+ SICILIA Palermo PA B535 Campofiorito 9.644,17 
+ 
+
+ 
+ SICILIA Caltanissetta CL B537 Campofranco 27.021,27 
+ 
+
+ 
+ EMILIA- ROMAGNA Modena MO B539 Campogalliano 284.861,65 
+ 
+
+ 
+ CAMPANIA Benevento BN B541 Campolattaro 11.339,95 
+ 
+
+ 
+ LAZIO Frosinone FR B543 Campoli Appennino 11.504,78 
+ 
+
+ 
+ CAMPANIA Benevento BN B542 Campoli del Monte Taburno 16.602,33 
+ 
+
+ 
+ MOLISE Campobasso CB B544 Campolieto 6.032,80 
+ 
+
+ 
+ VENETO Venezia VE B546 Campolongo Maggiore 127.677,46 
+ 
+
+ 
+ VENETO Vicenza VI B547 Campolongo sul Brenta 14.185,25 
+ 
+
+ 
+ BASILICATA Potenza PZ B549 Campomaggiore 2.406,26 
+ 
+
+ 
+ MOLISE Campobasso CB B550 Campomarino 162.616,73 
+ 
+
+ 
+ LIGURIA Genova GE B551 Campomorone 213.057,75 
+ 
+
+ 
+ VENETO Venezia VE B554 Camponogara 118.112,08 
+ 
+
+ 
+ CAMPANIA Salerno SA B555 Campora 5.228,78 
+ 
+
+ 
+ SICILIA Palermo PA B556 Camporeale 18.351,72 
+ 
+
+ 
+ TOSCANA Lucca LU B557 Camporgiano 38.441,57 
+ 
+
+ 
+ LIGURIA Imperia IM B559 Camporosso 110.697,66 
+ 
+
+ 
+ SICILIA Catania CT B561 Camporotondo Etneo 36.486,83 
+ 
+
+ 
+ MARCHE Macerata MC B562 Camporotondo di Fiastrone 6.068,98 
+ 
+
+ 
+ VENETO Padova PD B563 Camposampiero 449.613,77 
+ 
+
+ 
+ CAMPANIA Napoli NA B565 Camposano 81.231,55 
+ 
+
+ 
+ EMILIA- ROMAGNA Modena MO B566 Camposanto 96.473,33 
+ 
+
+ 
+ LOMBARDIA Pavia PV B567 Campospinoso 14.704,07 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B569 Campotosto 3.679,71 
+ 
+
+ 
+ EMILIA- ROMAGNA Bologna BO B572 Camugnano 31.421,05 
+ 
+
+ 
+ PIEMONTE Cuneo CN B573 Canale 148.261,63 
+ 
+
+ 
+ LAZIO Roma RM B576 Canale Monterano 102.251,67 
+ 
+
+ 
+ VENETO Belluno BL B574 Canale d'Agordo 16.928,55 
+ 
+
+ 
+ VENETO Rovigo RO B578 Canaro 98.644,12 
+ 
+
+ 
+ BASILICATA Potenza PZ B580 Cancellara 2.473,29 
+ 
+
+ 
+ CAMPANIA Caserta CE B581 Cancello ed Arnone 208.908,31 
+ 
+
+ 
+ VENETO Rovigo RO B582 Canda 39.410,34 
+ 
+
+ 
+ PUGLIA Foggia FG B584 Candela 39.462,53 
+ 
+
+ 
+ PIEMONTE Biella BI B586 Candelo 295.898,53 
+ 
+
+ 
+ PIEMONTE Torino TO B588 Candia Canavese 35.946,05 
+ 
+
+ 
+ LOMBARDIA Pavia PV B587 Candia Lomellina 46.718,02 
+ 
+
+ 
+ VENETO Padova PD B589 Candiana 79.076,32 
+ 
+
+ 
+ CAMPANIA Avellino AV B590 Candida 8.347,17 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B591 Candidoni 113.546,36 
+ 
+
+ 
+ PIEMONTE Torino TO B592 Candiolo 224.320,52 
+ 
+
+ 
+ LOMBARDIA Milano MI B593 Canegrate 285.455,08 
+ 
+
+ 
+ PIEMONTE Asti AT B594 Canelli 234.658,30 
+ 
+
+ 
+ LAZIO Viterbo VT B597 Canepina 41.047,53 
+ 
+
+ 
+ LOMBARDIA Pavia PV B599 Canevino 3.176,57 
+ 
+
+ 
+ SICILIA Siracusa SR B603 Canicattini Bagni 178.069,71 
+ 
+
+ 
+ SICILIA Agrigento AG B602 Canicattì 461.190,75 
+ 
+
+ 
+ LAZIO Viterbo VT B604 Canino 130.037,41 
+ 
+
+ 
+ PIEMONTE Torino TO B605 Canischio 3.715,46 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B606 Canistro 12.470,24 
+ 
+
+ 
+ CALABRIA Cosenza CS B607 Canna 6.343,50 
+ 
+
+ 
+ CAMPANIA Salerno SA B608 Cannalonga 7.984,88 
+ 
+
+ 
+ UMBRIA Perugia PG B609 Cannara 71.044,99 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B610 Cannero Riviera 13.895,35 
+ 
+
+ 
+ LOMBARDIA Pavia PV B613 Canneto Pavese 44.213,29 
+ 
+
+ 
+ LOMBARDIA Mantova MN B612 Canneto sull'Oglio 182.640,91 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B615 Cannobio 133.158,54 
+ 
+
+ 
+ PUGLIA Lecce LE B616 Cannole 7.818,40 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B617 Canolo 3.851,75 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B618 Canonica d'Adda 45.443,89 
+ 
+
+ 
+ ABRUZZO Chieti CH B620 Canosa Sannita 33.622,64 
+ 
+
+ 
+ PUGLIA Barletta Andria Trani BT B619 Canosa di Puglia 505.701,22 
+ 
+
+ 
+ PIEMONTE Cuneo CN B621 Canosio 111,17 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE C669 Canossa 82.995,29 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B624 Cansano 2.821,53 
+ 
+
+ 
+ TOSCANA Prato PO B626 Cantagallo 92.576,73 
+ 
+
+ 
+ LAZIO Rieti RI B627 Cantalice 17.624,32 
+ 
+
+ 
+ PIEMONTE Torino TO B628 Cantalupa 94.562,00 
+ 
+
+ 
+ PIEMONTE Alessandria AL B629 Cantalupo Ligure 6.396,29 
+ 
+
+ 
+ LAZIO Rieti RI B631 Cantalupo in Sabina 12.651,78 
+ 
+
+ 
+ MOLISE Isernia IS B630 Cantalupo nel Sannio 7.414,83 
+ 
+
+ 
+ PIEMONTE Asti AT B633 Cantarana 10.561,75 
+ 
+
+ 
+ LOMBARDIA Varese VA B634 Cantello 64.773,30 
+ 
+
+ 
+ LAZIO Roma RM B635 Canterano 2.658,41 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU B636 Cantiano 19.403,68 
+ 
+
+ 
+ PIEMONTE Torino TO B637 Cantoira 11.867,77 
+ 
+
+ 
+ LOMBARDIA Como CO B639 Cantù 1.931.353,24 
+ 
+
+ 
+ ABRUZZO Teramo TE B640 Canzano 22.061,39 
+ 
+
+ 
+ LOMBARDIA Como CO B641 Canzo 199.066,89 
+ 
+
+ 
+ VENETO Venezia VE B642 Caorle 221.844,81 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B643 Caorso 163.809,96 
+ 
+
+ 
+ CAMPANIA Salerno SA B644 Capaccio 177.848,80 
+ 
+
+ 
+ SICILIA Palermo PA B645 Capaci 71.673,53 
+ 
+
+ 
+ TOSCANA Grosseto GR B646 Capalbio 145.986,31 
+ 
+
+ 
+ TOSCANA Pisa PI B647 Capannoli 299.112,90 
+ 
+
+ 
+ TOSCANA Lucca LU B648 Capannori 1.343.928,03 
+ 
+
+ 
+ LAZIO Roma RM B649 Capena 354.333,92 
+ 
+
+ 
+ LOMBARDIA Cremona CR B650 Capergnanica 47.551,71 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B651 Capestrano 13.400,88 
+ 
+
+ 
+ LOMBARDIA Como CO B653 Capiago Intimiano 225.491,51 
+ 
+
+ 
+ CALABRIA Vibo Valentia VV B655 Capistrano 2.150,78 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B656 Capistrello 70.812,32 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B658 Capitignano 10.658,62 
+ 
+
+ 
+ SICILIA Messina ME B660 Capizzi 2.435,85 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B661 Capizzone 13.285,50 
+ 
+
+ 
+ SICILIA Messina ME B666 Capo d'Orlando 220.601,23 
+ 
+
+ 
+ LOMBARDIA Brescia BS B664 Capo di Ponte 13.096,18 
+ 
+
+ 
+ LAZIO Viterbo VT B663 Capodimonte 58.664,70 
+ 
+
+ 
+ CAMPANIA Caserta CE B667 Capodrise 112.213,39 
+ 
+
+ 
+ TOSCANA Livorno LI B669 Capoliveri 346.408,87 
+ 
+
+ 
+ TOSCANA Arezzo AR B670 Capolona 75.984,35 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B671 Caponago 77.509,39 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B672 Caporciano 2.878,83 
+ 
+
+ 
+ CAMPANIA Avellino AV B674 Caposele 24.259,48 
+ 
+
+ 
+ SARDEGNA Cagliari CA B675 Capoterra 750.256,13 
+ 
+
+ 
+ LOMBARDIA Brescia BS B676 Capovalle 1.738,39 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B677 Cappadocia 9.507,75 
+ 
+
+ 
+ LOMBARDIA Cremona CR B679 Cappella Cantone 37.485,12 
+ 
+
+ 
+ VENETO Treviso TV B678 Cappella Maggiore 156.043,87 
+ 
+
+ 
+ LOMBARDIA Cremona CR B680 Cappella dè Picenardi 29.375,64 
+ 
+
+ 
+ ABRUZZO Pescara PE B681 Cappelle sul Tavo 64.361,30 
+ 
+
+ 
+ MOLISE Isernia IS B682 Capracotta 11.372,94 
+ 
+
+ 
+ TOSCANA Livorno LI B685 Capraia Isola 11.607,25 
+ 
+
+ 
+ TOSCANA Firenze FI B684 Capraia e Limite 237.110,87 
+ 
+
+ 
+ LOMBARDIA Cremona CR B686 Capralba 59.711,43 
+ 
+
+ 
+ LAZIO Viterbo VT B688 Capranica 166.589,45 
+ 
+
+ 
+ LAZIO Roma RM B687 Capranica Prenestina 1.078,81 
+ 
+
+ 
+ PUGLIA Lecce LE B690 Caprarica di Lecce 14.322,55 
+ 
+
+ 
+ LAZIO Viterbo VT B691 Caprarola 151.794,79 
+ 
+
+ 
+ PIEMONTE Cuneo CN B692 Caprauna 1.744,44 
+ 
+
+ 
+ TOSCANA Arezzo AR B693 Caprese Michelangelo 35.014,11 
+ 
+
+ 
+ PIEMONTE Verbano Cusio Ossola VB B694 Caprezzo 1.118,75 
+ 
+
+ 
+ CAMPANIA Napoli NA B696 Capri 573.364,21 
+ 
+
+ 
+ SICILIA Messina ME B695 Capri Leone 22.222,89 
+ 
+
+ 
+ LOMBARDIA Brescia BS B698 Capriano del Colle 86.241,08 
+ 
+
+ 
+ PIEMONTE Alessandria AL B701 Capriata d'Orba 62.136,67 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B703 Capriate San Gervasio 133.055,00 
+ 
+
+ 
+ CAMPANIA Caserta CE B704 Capriati a Volturno 15.761,76 
+ 
+
+ 
+ PIEMONTE Torino TO B705 Caprie 37.792,15 
+ 
+
+ 
+ CAMPANIA Avellino AV B706 Capriglia Irpina 34.052,21 
+ 
+
+ 
+ PIEMONTE Asti AT B707 Capriglio 1.623,50 
+ 
+
+ 
+ PIEMONTE Biella BI B708 Caprile 1.652,32 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B710 Caprino Bergamasco 53.209,55 
+ 
+
+ 
+ VENETO Verona VR B709 Caprino Veronese 259.470,59 
+ 
+
+ 
+ LOMBARDIA Brescia BS B711 Capriolo 103.055,94 
+ 
+
+ 
+ CAMPANIA Caserta CE B715 Capua 469.117,93 
+ 
+
+ 
+ PUGLIA Bari BA B716 Capurso 416.659,81 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B718 Caraffa del Bianco 3.135,30 
+ 
+
+ 
+ CALABRIA Catanzaro CZ B717 Caraffa di Catanzaro 7.076,09 
+ 
+
+ 
+ PIEMONTE Cuneo CN B719 Caraglio 116.548,75 
+ 
+
+ 
+ PIEMONTE Cuneo CN B720 Caramagna Piemonte 73.213,80 
+ 
+
+ 
+ ABRUZZO Pescara PE B722 Caramanico Terme 27.148,90 
+ 
+
+ 
+ PUGLIA Foggia FG B724 Carapelle 53.853,74 
+ 
+
+ 
+ ABRUZZO L'Aquila AQ B725 Carapelle Calvisio 1.106,00 
+ 
+
+ 
+ LIGURIA Genova GE B726 Carasco 34.157,08 
+ 
+
+ 
+ MARCHE Ascoli Piceno AP B727 Carassai 11.985,66 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B729 Carate Brianza 662.442,57 
+ 
+
+ 
+ LOMBARDIA Como CO B730 Carate Urio 46.268,93 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B731 Caravaggio 301.624,31 
+ 
+
+ 
+ LOMBARDIA Varese VA B732 Caravate 35.825,94 
+ 
+
+ 
+ PIEMONTE Torino TO B733 Caravino 14.393,84 
+ 
+
+ 
+ LIGURIA Imperia IM B734 Caravonica 575,50 
+ 
+
+ 
+ LAZIO Viterbo VT B735 Carbognano 26.974,33 
+ 
+
+ 
+ PIEMONTE Alessandria AL B736 Carbonara Scrivia 33.873,45 
+ 
+
+ 
+ LOMBARDIA Pavia PV B741 Carbonara al Ticino 30.455,81 
+ 
+
+ 
+ CAMPANIA Napoli NA B740 Carbonara di Nola 35.366,53 
+ 
+
+ 
+ LOMBARDIA Mantova MN B739 Carbonara di Po 44.351,33 
+ 
+
+ 
+ LOMBARDIA Como CO B742 Carbonate 85.948,50 
+ 
+
+ 
+ BASILICATA Potenza PZ B743 Carbone 2.905,49 
+ 
+
+ 
+ VENETO Treviso TV B744 Carbonera 353.872,40 
+ 
+
+ 
+ SARDEGNA Carbonia Iglesias CI B745 Carbonia 694.334,37 
+ 
+
+ 
+ LIGURIA Savona SV B748 Carcare 131.392,91 
+ 
+
+ 
+ VENETO Padova PD B749 Carceri 48.286,00 
+ 
+
+ 
+ PIEMONTE Vercelli VC B752 Carcoforo 909,76 
+ 
+
+ 
+ LOMBARDIA Varese VA B754 Cardano al Campo 336.643,69 
+ 
+
+ 
+ SARDEGNA Ogliastra OG M285 Cardedu 26.349,70 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B756 Cardeto 1.981,24 
+ 
+
+ 
+ CALABRIA Catanzaro CZ B758 Cardinale 27.600,97 
+ 
+
+ 
+ CAMPANIA Napoli NA B759 Cardito 131.567,12 
+ 
+
+ 
+ PIEMONTE Cuneo CN B755 Cardè 45.926,39 
+ 
+
+ 
+ TOSCANA Lucca LU B760 Careggine 4.419,73 
+ 
+
+ 
+ PIEMONTE Torino TO B762 Carema 5.991,24 
+ 
+
+ 
+ LOMBARDIA Lecco LC B763 Carenno 13.413,80 
+ 
+
+ 
+ PIEMONTE Alessandria AL B765 Carentino 12.142,78 
+ 
+
+ 
+ CALABRIA Reggio di Calabria RC B766 Careri 3.547,53 
+ 
+
+ 
+ PIEMONTE Vercelli VC B767 Caresana 62.306,80 
+ 
+
+ 
+ PIEMONTE Vercelli VC B768 Caresanablot 77.887,73 
+ 
+
+ 
+ PIEMONTE Alessandria AL B769 Carezzano 9.422,07 
+ 
+
+ 
+ CALABRIA Crotone KR B771 Carfizzi 16.004,40 
+ 
+
+ 
+ SARDEGNA Sassari SS B772 Cargeghe 8.813,90 
+ 
+
+ 
+ CALABRIA Cosenza CS B774 Cariati 44.718,66 
+ 
+
+ 
+ CAMPANIA Avellino AV B776 Carife 14.321,48 
+ 
+
+ 
+ PIEMONTE Torino TO B777 Carignano 307.742,57 
+ 
+
+ 
+ LOMBARDIA Como CO B778 Carimate 211.517,91 
+ 
+
+ 
+ CAMPANIA Caserta CE B779 Carinaro 63.733,62 
+ 
+
+ 
+ SICILIA Palermo PA B780 Carini 414.099,56 
+ 
+
+ 
+ CAMPANIA Caserta CE B781 Carinola 430.598,46 
+ 
+
+ 
+ PIEMONTE Vercelli VC B782 Carisio 86.253,80 
+ 
+
+ 
+ PUGLIA Foggia FG B784 Carlantino 15.310,34 
+ 
+
+ 
+ LOMBARDIA Como CO B785 Carlazzo 96.883,21 
+ 
+
+ 
+ SICILIA Siracusa SR B787 Carlentini 194.838,47 
+ 
+
+ 
+ SARDEGNA Carbonia Iglesias CI B789 Carloforte 98.804,35 
+ 
+
+ 
+ CALABRIA Catanzaro CZ B790 Carlopoli 5.484,70 
+ 
+
+ 
+ PIEMONTE Torino TO B791 Carmagnola 815.661,19 
+ 
+
+ 
+ PUGLIA Lecce LE B792 Carmiano 153.601,42 
+ 
+
+ 
+ TOSCANA Prato PO B794 Carmignano 603.648,58 
+ 
+
+ 
+ VENETO Padova PD B795 Carmignano di Brenta 246.921,23 
+ 
+
+ 
+ LOMBARDIA Varese VA B796 Carnago 90.768,55 
+ 
+
+ 
+ LOMBARDIA Monza e della Brianz MB B798 Carnate 231.471,15 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B801 Carobbio degli Angeli 91.872,96 
+ 
+
+ 
+ CALABRIA Cosenza CS B802 Carolei 77.727,84 
+ 
+
+ 
+ LOMBARDIA Bergamo BG B803 Carona 3.981,31 
+ 
+
+ 
+ SICILIA Messina ME B804 Caronia 35.246,71 
+ 
+
+ 
+ LOMBARDIA Varese VA B805 Caronno Pertusella 339.291,55 
+ 
+
+ 
+ LOMBARDIA Varese VA B807 Caronno Varesino 59.170,95 
+ 
+
+ 
+ PUGLIA Taranto TA B808 Carosino 161.470,37 
+ 
+
+ 
+ PUGLIA Brindisi BR B809 Carovigno 271.033,97 
+ 
+
+ 
+ MOLISE Isernia IS B810 Carovilli 10.070,89 
+ 
+
+ 
+ EMILIA- ROMAGNA Piacenza PC B812 Carpaneto Piacentino 209.236,32 
+ 
+
+ 
+ CALABRIA Cosenza CS B813 Carpanzano 2.925,30 
+ 
+
+ 
+ LIGURIA Imperia IM B814 Carpasio 982,00 
+ 
+
+ 
+ MARCHE Pesaro e Urbino PU B816 Carpegna 17.805,41 
+ 
+
+ 
+ LOMBARDIA Brescia BS B817 Carpenedolo 237.623,58 
+ 
+
+ 
+ PIEMONTE Alessandria AL B818 Carpeneto 33.766,75 
+ 
+
+ 
+ EMILIA- ROMAGNA Modena MO B819 Carpi 2.929.212,17 
+ 
+
+ 
+ LOMBARDIA Milano MI B820 Carpiano 80.035,27 
+ 
+
+ 
+ PUGLIA Lecce LE B822 Carpignano Salentino 23.394,04 
+ 
+
+ 
+ PIEMONTE Novara NO B823 Carpignano Sesia 81.620,70 
+ 
+
+ 
+ EMILIA- ROMAGNA Reggio nell'Emilia RE B825 Carpineti 68.984,50 
+ 
+
+ 
+ LAZIO Roma RM B828 Carpineto Romano 39.250,10 
+ 
+
+ 
+ ABRUZZO Chieti CH B826 Carpineto Sinello 6.067,77 
+ 
+
+ 
+ ABRUZZO Pescara PE B827 Carpineto della Nora 6.059,60 
+ 
+
+ 
+ PUGLIA Foggia FG B829 Carpino 42.857,24 
+ 
+
+ 
+ MOLISE Isernia IS B830 Carpinone 15.046,66 
+ 
+
+ 
+ TOSCANA MassaCarrara MS B832 Carrara 1.992.472,41 
+ 
+
+ 
+ PIEMONTE Alessandria AL B836 Carrega Ligure 1.717,86 
+ 
+
+ 
+ LIGURIA La Spezia SP B838 Carro 12.423,34 
+ 
+
+ 
+ LIGURIA La Spezia SP B839 Carrodano 14.109,01 
+ 
+
+ 
+ PIEMONTE Alessandria AL B840 Carrosio 6.780,83 
+ 
+
+ 
+ VENETO Vicenza VI B835 Carrè 141.264,95 
+ 
+
+ 
+ PIEMONTE Cuneo CN B841 Carrù 115.304,23
