@@ -1,0 +1,833 @@
+IL MINISTRO DELL'ECONOMIA
+
+ 
+ E DELLE FINANZE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421, contenente la delega al governo ad adottare le soluzioni organizzative, tecniche e normative necessarie &laquo;al fine del completamento del processo di informatizzazione delle amministrazioni pubbliche e della più razionale utilizzazione dei sistemi informativi automatizzati&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 31 dicembre 1992, n. 545, e successive modificazioni e integrazioni, relativo all'ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni e integrazioni, recante le disposizioni sul processo tributario;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 febbraio 1993, n. 39, recante norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche ed in particolare l'articolo 16, comma 8, che ha previsto l'individuazione, attraverso uno o più regolamenti governativi, di &laquo;particolari modalità di applicazione del presente decreto in relazione all'Amministrazione della giustizia&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 15, comma 2, della legge 15 marzo 1997, n. 59;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni e integrazioni, relativo alla riforma dell'organizzazione dei Ministeri e, tra l'altro, all'ordinamento e alle attribuzioni del Ministero dell'economia e delle finanze;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, recante il Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 30 maggio 2002, n. 115, recante disposizioni legislative e regolamentari in materia di spese di giustizia;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, recante &laquo;Codice in materia di protezione dei dati personali&raquo; e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, contenente il &laquo;Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'articolo 27 della legge 16 gennaio 2003, n. 3&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante il &laquo;Codice dell'Amministrazione Digitale &laquo;e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 30 gennaio 2008, n. 43, recante il regolamento di organizzazione del Ministero dell'economia e delle finanze;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti gli articoli 16 e 16-bis, del decreto-legge 29 novembre 2008, n. 185, recante &laquo;Misure urgenti per il sostegno a famiglie, lavoro, occupazione e impresa e per ridisegnare in funzione anti-crisi il quadro strategico nazionale&raquo;, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei Ministri del 30 marzo 2009, recante &laquo;Regole tecniche in materia di generazione, apposizione e verifica delle firme digitali e validazione temporale dei documenti informatici&raquo; pubblicato nella Gazzetta Ufficiale n. 129 del 6 giugno 2009;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 29 dicembre 2009, n. 193, recante &laquo;Interventi urgenti in materia di funzionalità del sistema giudiziario&raquo;, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 39, comma 8, del decreto-legge 6 luglio 2011, n. 98, convertito dalla legge 15 luglio 2011, n. 111, recante &laquo;Disposizioni urgenti per la stabilizzazione finanziaria&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 2, comma 35-quater, del decreto-legge 13 agosto 2011, n. 138, convertito dalla legge 14 settembre 2011, n. 148, recante &laquo;Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla legge 17 dicembre 2012, n. 221;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro dello sviluppo economico del 19 marzo 2013 pubblicato nella Gazzetta Ufficiale n. 83 del 9 agosto 2013 recante &laquo;Indice nazionale degli indirizzi di posta elettronica certificata delle imprese e dei professionisti (INI-PEC)&raquo;;
+
+ 
+ 
+ 
+
+ 
+ Ritenuta la necessità di disciplinare le modalità informatiche e telematiche di formazione e trasmissione degli atti del processo tributario in relazione ai casi in cui una o più parti intendano avvalersi di tali modalità;
+
+ 
+
+ 
+ Acquisito il parere del Consiglio di Presidenza della Giustizia Tributaria espresso nella seduta del 19 febbraio 2013;
+
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ Sentita l'Agenzia per l'Italia Digitale;
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nella adunanza del 4 luglio 2013;
+
+ 
+
+ 
+ Data comunicazione al Presidente del Consiglio dei Ministri effettuata con nota n. 3-11235 del 22 ottobre 2013;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Agli effetti del presente regolamento si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;Commissioni tributarie&raquo;: le Commissioni tributarie provinciali e regionali e le Commissioni tributarie di I e II grado di Trento e Bolzano di cui all'articolo 1 del decreto legislativo 31 dicembre 1992, n. 545; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;documento informatico&raquo;: la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti, di cui all'articolo 1, comma 1, lett. p), del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;copia per immagine su supporto informatico&raquo; del documento analogico: documento informatico avente contenuto e forma identici a quelli del documento analogico da cui è tratto, di cui all'articolo 1, comma 1, lett. i-ter), del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;fascicolo informatico&raquo;: versione informatica, ai sensi dell'articolo 41 del decreto legislativo 7 marzo 2005, n. 82, del fascicolo d'ufficio di cui all'articolo 25 del decreto legislativo 31 dicembre 1992, n. 546, contenente gli atti, i dati e i documenti, relativi al processo, prodotti come documenti informatici, oppure le copie per immagine su supporto informatico dei medesimi atti qualora siano stati depositati su supporto cartaceo; 
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;firma elettronica qualificata&raquo;: un particolare tipo di firma elettronica avanzata che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma, di cui all'articolo 1, comma 1, lett. r), del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ f) &laquo;firma digitale&raquo;: un particolare tipo di firma elettronica avanzata, basata su un certificato qualificato e su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici, di cui all'articolo 1, comma 1, lett. s), del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ g) &laquo;S.I.Gi.T.&raquo; - Sistema Informativo della Giustizia tributaria: l'insieme delle risorse hardware e software mediante il quale viene trattato in via informatica e telematica qualsiasi tipo di attività, di dato, di servizio, di comunicazione e di procedura, relativo all'amministrazione della giustizia tributaria; 
+ 
+
+ 
+ 
+
+ 
+ h) &laquo;soggetto abilitato&raquo;: tutti i soggetti abilitati dal S.I.Gi.T. ad usufruire dei servizi da questo forniti, limitatamente ai rispettivi profili di abilitazione; 
+ 
+
+ 
+ 
+
+ 
+ i) &laquo;PEC&raquo; - posta elettronica certificata: ogni sistema di posta elettronica nel quale è fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici, di cui all'articolo 1, comma 1, lett. g), del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68; 
+ 
+
+ 
+ 
+
+ 
+ j) &laquo;ricevuta di accettazione&raquo;: la ricevuta rilasciata dal S.I.Gi.T. al mittente a fronte dell'invio di un messaggio con sistemi telematici; 
+ 
+
+ 
+ 
+
+ 
+ k) &laquo;ricorso&raquo;: il ricorso alla Commissione tributaria provinciale o di primo grado di Trento e di Bolzano, il ricorso in appello alla Commissione tributaria regionale o di secondo grado di Trento e di Bolzano, il reclamo, il ricorso per revocazione e il ricorso in ottemperanza, presentati nelle forme e con i contenuti previsti dal decreto legislativo 31 dicembre 1992, n. 546; 
+ 
+
+ 
+ 
+
+ 
+ l) &laquo;istanza di reclamo e mediazione&raquo;: il reclamo presentato alla Direzione provinciale o alla Direzione regionale dell'Agenzia delle Entrate ai sensi dell'articolo 17-bis del decreto legislativo 31 dicembre 1992, n. 546; 
+ 
+
+ 
+ 
+
+ 
+ m) &laquo;nota di iscrizione a ruolo&raquo;: modulo elettronico contenente le indicazioni previste dall'articolo 22, comma 1, ultimo periodo, del decreto legislativo 31 dicembre 1992, n. 546. 
+ 
+
+ 
+ 
+
+ 
+ n) &laquo;INI-PEC&raquo;: Indice nazionale degli indirizzi di posta elettronica certificata, istituito dall'articolo 6-bis, comma 1, del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ o) &laquo;segretario di sezione&raquo;: addetto all'ufficio di segreteria della commissione tributaria che svolge le funzioni di cui al comma 2 dell'articolo 35 del decreto legislativo 31 dicembre 1992, n. 545 e quelle individuate nel decreto legislativo 31 dicembre 1992, n. 546. 
+ 
+
+ 
+ 
+
+ 
+ p) &laquo;processo verbale dell'udienza&raquo;: documento attestante le attività svolte in udienza redatto e sottoscritto dal segretario di sezione e da chi presiede l'udienza; 
+ 
+
+ 
+ 
+
+ 
+ q) &laquo;processo tributario telematico&raquo;: automazione dei flussi informativi e documentali nell'ambito del processo tributario mediante l'utilizzo dell'informatica e della telematica. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza: 
+ 
+
+ 
+ 
+
+ - Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ 
+ 
+
+ - Il testo dell'art. 2, comma 1, lettera mm) della legge 23 ottobre 1992, n. 421 (Delega al Governo per la razionalizzazione e la revisione delle discipline in materia di sanità, di pubblico impiego, di previdenza e di finanza territoriale), pubblicata nella Gazzetta Ufficiale 31 ottobre 1992, n. 257, S.O., dispone che: 
+ 
+
+ &laquo;lett. mm) al fine del completamento del processo di informatizzazione delle amministrazioni pubbliche e della più razionale utilizzazione dei sistemi informativi automatizzati, procedere alla revisione della normativa in materia di acquisizione dei mezzi necessari, prevedendo altresì la definizione dei relativi standard qualitativi e dei controlli di efficienza e di efficacia; procedere alla revisione delle relative competenze e attribuire ad un apposito organismo funzioni di coordinamento delle iniziative e di pianificazione degli investimenti in materia di automazione, anche al fine di garantire l'interconnessione dei sistemi informatici pubblici.&raquo;. 
+ 
+
+ - Il decreto legislativo 31 dicembre 1992, n. 545 (Ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413) è pubblicato nella Gazzetta Ufficiale 13 gennaio 1993, n. 9, S.O. 
+ 
+
+ - Il decreto legislativo 31 dicembre 1992, n. 546 (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413) è pubblicato nella Gazzetta Ufficiale 13 gennaio 1993, n. 9, S.O. 
+ 
+
+ - Il decreto legislativo 12 febbraio 1993, n. 39 (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421) è pubblicato nella Gazzetta Ufficiale 20 febbraio 1993, n. 42. 
+ 
+
+ - Il testo dell'art. 15, comma 2, della legge 15 marzo 1997, n. 59 (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della Pubblica Amministrazione e per la semplificazione amministrativa) pubblicata nella Gazzetta Ufficiale 17 marzo 1997, n. 63, S.O., così recita: 
+ 
+
+ &laquo;2. Al fine della realizzazione della rete unitaria delle pubbliche amministrazioni, l'Autorità per l'informatica nella pubblica amministrazione è incaricata, per soddisfare esigenze di coordinamento, qualificata competenza e indipendenza di giudizio, di stipulare, nel rispetto delle vigenti norme in materia di scelta del contraente, uno o più contratti-quadro con cui i prestatori dei servizi e delle forniture relativi al trasporto dei dati e all'interoperabilità si impegnano a contrarre con le singole amministrazioni alle condizioni ivi stabilite. Le amministrazioni di cui all'articolo 1, comma 1, del decreto legislativo 12 febbraio 1993, n. 39, in relazione alle proprie esigenze, sono tenute a stipulare gli atti esecutivi dei predetti contratti-quadro. Gli atti esecutivi non sono soggetti al parere dell'Autorità per l'informatica nella pubblica amministrazione e, ove previsto, del Consiglio di Stato. Le amministrazioni non ricomprese tra quelle di cui all'articolo 1, comma 1, del decreto legislativo 12 febbraio 1993, n. 39, hanno facoltà di stipulare gli atti esecutivi di cui al presente comma. 
+ 
+
+ Gli atti, dati e documenti formati dalla pubblica amministrazione e dai privati con strumenti informatici o telematici, i contratti stipulati nelle medesime forme, nonchè la loro archiviazione e trasmissione con strumenti informatici, sono validi e rilevanti a tutti gli effetti di legge. I criteri e le modalità di applicazione del presente comma sono stabiliti, per la pubblica amministrazione e per i privati, con specifici regolamenti da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400. Gli schemi dei regolamenti sono trasmessi alla Camera dei deputati e al Senato della Repubblica per l'acquisizione del parere delle competenti Commissioni.&raquo;. 
+ 
+
+ - Il decreto legislativo 30 luglio 1999, n. 300 (Riforma dell'organizzazione del Governo, a norma dell'art. 11 della legge 15 marzo 1997, n. 59) è pubblicato nella Gazzetta Ufficiale 30 agosto 1999, n. 203, S.O. 
+ 
+
+ - Il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 (Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa) è pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, S.O. 
+ 
+
+ - Il decreto del Presidente della Repubblica 30 maggio 2002, n. 115 (Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia) è pubblicato nella Gazzetta Ufficiale 15 giugno 2002, n. 139, S.O. 
+ 
+
+ - Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali) è pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. 
+ 
+
+ - Il decreto del Presidente della Repubblica 11 febbraio 2005, n. 68 (Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'art. 27 della legge 16 gennaio 2003, n. 3) è pubblicato nella Gazzetta Ufficiale 28 aprile 2005, n. 97. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82 (Codice dell'Amministrazione Digitale) è pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
+ 
+
+ - Il decreto del Presidente della Repubblica 30 gennaio 2008, n. 43 (Regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'art. 1, comma 404, della legge 27 dicembre 2006, n. 296), è pubblicato nella Gazzetta Ufficiale 18 marzo 2008, n. 66, S.O. 
+ 
+
+ - Il testo degli articoli 16 e 16 bis, del decreto-legge 29 novembre 2008, n. 185 (Misure urgenti per il sostegno a famiglie, lavoro, occupazione e impresa e per ridisegnare in funzione anti-crisi il quadro strategico nazionale) pubblicato nella Gazzetta Ufficiale 29 novembre 2008, n. 280, S.O e convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, così recita: 
+ 
+
+ &laquo;Art. 16 (Riduzione dei costi amministrativi a carico delle imprese). - 1. All'art. 21 della legge 30 dicembre 1991, n. 413, sono apportate le seguenti modificazioni: 
+ 
+
+ a) alla fine del comma 9 è aggiunto il seguente periodo: &laquo;La mancata comunicazione del parere da parte dell'Agenzia delle entrate entro 120 giorni e dopo ulteriori 60 giorni dalla diffida ad adempiere da parte del contribuente equivale a silenzio assenso.&raquo;; 
+ 
+
+ b) il comma 10 è soppresso. 
+ 
+
+ 2. All'art. 37, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248 i commi da 33 a 37-ter sono abrogati. 
+ 
+
+ 3. All'art. 1, della legge 27 dicembre 2006, n. 296 i commi da 30 a 32 sono abrogati. 
+ 
+
+ 4. All'art. 1, della legge 24 dicembre 2007, n. 244, i commi da 363 a 366 sono abrogati. 
+ 
+
+ 5. Nell'art. 13 del decreto legislativo 18 dicembre 1997, n. 472 sono apportate le seguenti modificazioni: 
+ 
+
+ a) al comma 1, lettera a), le parole &laquo;un ottavo&raquo; sono sostituite dalle seguenti: &laquo;un dodicesimo&raquo;; 
+ 
+
+ b) al comma 1, lettera b), le parole &laquo;un quinto&raquo; sono sostituite dalle seguenti: &laquo;un decimo&raquo;; 
+ 
+
+ c) al comma 1, lettera c), le parole: &laquo;un ottavo&raquo;, ovunque ricorrono, sono sostituite dalle seguenti: &laquo;un dodicesimo&raquo;. 
+ 
+
+ 5-bis. La lettera h) del comma 4 dell'art. 50-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, si interpreta nel senso che le prestazioni di servizi ivi indicate, relative a beni consegnati al depositario, costituiscono ad ogni effetto introduzione nel deposito IVA senza tempi minimi di giacenza nè obbligo di scarico dal mezzo di trasporto. L'introduzione si intende realizzata anche negli spazi limitrofi al deposito IVA, senza che sia necessaria la preventiva introduzione della merce nel deposito. Si devono ritenere assolte le funzioni di stoccaggio e di custodia, e la condizione posta agli articoli 1766 e seguenti del codice civile che disciplinano il contratto di deposito. All'estrazione della merce dal deposito IVA per la sua immissione in consumo nel territorio dello Stato, qualora risultino correttamente poste in essere le norme dettate al comma 6 del citato art. 50-bis del decreto-legge n. 331 del 1993, l'imposta sul valore aggiunto si deve ritenere definitivamente assolta. 
+ 
+
+ 6. Le imprese costituite in forma societaria sono tenute a indicare il proprio indirizzo di posta elettronica certificata nella domanda di iscrizione al registro delle imprese o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali. Entro tre anni dalla data di entrata in vigore del presente decreto tutte le imprese, già costituite in forma societaria alla medesima data di entrata in vigore, comunicano al registro delle imprese l'indirizzo di posta elettronica certificata. L'iscrizione dell'indirizzo di posta elettronica certificata nel registro delle imprese e le sue successive eventuali variazioni sono esenti dall'imposta di bollo e dai diritti di segreteria. 
+ 
+
+ 6-bis.L'ufficio del registro delle imprese che riceve una domanda di iscrizione da parte di un'impresa costituita in forma societaria che non ha iscritto il proprio indirizzo di posta elettronica certificata, in luogo dell'irrogazione della sanzione prevista dall'art. 2630 del codice civile, sospende la domanda per tre mesi, in attesa che essa sia integrata con l'indirizzo di posta elettronica certificata. 
+ 
+
+ 7. I professionisti iscritti in albi ed elenchi istituiti con legge dello Stato comunicano ai rispettivi ordini o collegi il proprio indirizzo di posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6 entro un anno dalla data di entrata in vigore del presente decreto. Gli ordini e i collegi pubblicano in un elenco riservato, consultabile in via telematica esclusivamente dalle pubbliche amministrazioni, i dati identificativi degli iscritti con il relativo indirizzo di posta elettronica certificata. 
+ 
+
+ 7-bis.L'omessa pubblicazione dell'elenco riservato previsto dal comma 7, ovvero il rifiuto reiterato di comunicare alle pubbliche amministrazioni i dati previsti dal medesimo comma, costituiscono motivo di scioglimento e di commissariamento del collegio o dell'ordine inadempiente. 
+ 
+
+ 8. Le amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, qualora non abbiano provveduto ai sensi dell'art. 47, comma 3, lettera a), del Codice dell'Amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, istituiscono una casella di posta certificata o analogo indirizzo di posta elettronica di cui al comma 6 per ciascun registro di protocollo e ne danno comunicazione al Centro nazionale per l'informatica nella pubblica amministrazione, che provvede alla pubblicazione di tali caselle in un elenco consultabile per via telematica. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e si deve provvedere nell'ambito delle risorse disponibili. 
+ 
+
+ 9. Salvo quanto stabilito dall'art. 47, commi 1 e 2, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, le comunicazioni tra i soggetti di cui ai commi 6, 7 e 8 del presente articolo, che abbiano provveduto agli adempimenti ivi previsti, possono essere inviate attraverso la posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6, senza che il destinatario debba dichiarare la propria disponibilità ad accettarne l'utilizzo. 
+ 
+
+ 10. La consultazione per via telematica dei singoli indirizzi di posta elettronica certificata o analoghi indirizzi di posta elettronica di cui al comma 6 nel registro delle imprese o negli albi o elenchi costituiti ai sensi del presente articolo avviene liberamente e senza oneri. L'estrazione di elenchi di indirizzi è consentita alle sole pubbliche amministrazioni per le comunicazioni relative agli adempimenti amministrativi di loro competenza. 
+ 
+
+ 10-bis. Gli intermediari abilitati ai sensi dell'art. 31, comma 2-quater, della legge 24 novembre 2000, n. 340, sono obbligati a richiedere per via telematica la registrazione degli atti di trasferimento delle partecipazioni di cui all'articolo 36, comma 1-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonchè al contestuale pagamento telematico dell'imposta dagli stessi liquidata e sono altresì responsabili ai sensi dell'art. 57, commi 1 e 2, del testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131. In materia di imposta di bollo si applicano le disposizioni previste dall'art. 1, comma 1-bis.1, numero 3), della tariffa, parte prima, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta ufficiale n. 196 del 21 agosto 1992, e successive modificazioni. 
+ 
+
+ 10-ter. Con provvedimento del Direttore dell'Agenzia delle entrate sono stabiliti i termini e le modalità di esecuzione per via telematica degli adempimenti di cui al comma 10-bis. 
+ 
+
+ 11. Il comma 4 dell'art. 4 del regolamento di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, è abrogato. 
+ 
+
+ 12. I commi 4 e 5 dell'art. 23 del decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;, sono sostituiti dai seguenti: 
+ 
+
+ &laquo;4. Le copie su supporto informatico di qualsiasi tipologia di documenti analogici originali, formati in origine su supporto cartaceo o su altro supporto non informatico, sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata da chi lo detiene mediante l'utilizzo della propria firma digitale e nel rispetto delle regole tecniche di cui all'art. 71. 
+ 
+
+ 5. Con decreto del Presidente del Consiglio dei Ministri possono essere individuate particolari tipologie di documenti analogici originali unici per le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo della conservazione dell'originale analogico oppure, in caso di conservazione ottica sostitutiva, la loro conformità all'originale deve essere autenticata da un notaio o da altro pubblico ufficiale a ciò autorizzato con dichiarazione da questi firmata digitalmente ed allegata al documento informatico.&raquo;. 
+ 
+
+ 12-bis. Dopo l'art. 2215 del codice civile è inserito il seguente: &laquo;Art. 2215-bis (Documentazione informatica). - I libri, i repertori, le scritture e la documentazione la cui tenuta è obbligatoria per disposizione di legge o di regolamento o che sono richiesti dalla natura o dalle dimensioni dell'impresa possono essere formati e tenuti con strumenti informatici. 
+ 
+
+ Le registrazioni contenute nei documenti di cui al primo comma debbono essere rese consultabili in ogni momento con i mezzi messi a disposizione dal soggetto tenutario e costituiscono informazione primaria e originale da cui è possibile effettuare, su diversi tipi di supporto, riproduzioni e copie per gli usi consentiti dalla legge. 
+ 
+
+ Gli obblighi di numerazione progressiva, vidimazione e gli altri obblighi previsti dalle disposizioni di legge o di regolamento per la tenuta dei libri, repertori e scritture, ivi compreso quello di regolare tenuta dei medesimi, sono assolti, in caso di tenuta con strumenti informatici, mediante apposizione, ogni tre mesi a far data dalla messa in opera, della marcatura temporale e della firma digitale dell'imprenditore, o di altro soggetto dal medesimo delegato, inerenti al documento contenente le registrazioni relative ai tre mesi precedenti. 
+ 
+
+ Qualora per tre mesi non siano state eseguite registrazioni, la firma digitale e la marcatura temporale devono essere apposte all'atto di una nuova registrazione, e da tale apposizione decorre il periodo trimestrale di cui al terzo comma. 
+ 
+
+ I libri, i repertori e le scritture tenuti con strumenti informatici, secondo quanto previsto dal presente articolo, hanno l'efficacia probatoria di cui agli articoli 2709 e 2710 del codice civile.&raquo;. 
+ 
+
+ 12-ter. L'obbligo di bollatura dei documenti di cui all'art. 2215-bis del codice civile, introdotto dal comma 12-bis del presente articolo, in caso di tenuta con strumenti informatici, è assolto in base a quanto previsto all'art. 7 del decreto del Ministro dell'economia e delle finanze 23 gennaio 2004, pubblicato nella Gazzetta Ufficiale n. 27 del 3 febbraio 2004. 
+ 
+
+ 12-quater. All'art. 2470 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) al primo comma, le parole: &laquo;dell'iscrizione nel libro dei soci secondo quanto previsto nel&raquo; sono sostituite dalle seguenti: &laquo;del deposito di cui al&raquo;; 
+ 
+
+ b) al secondo comma, il secondo periodo è soppresso e, al terzo periodo, le parole: &laquo;e l'iscrizione sono effettuati&raquo; sono sostituite dalle seguenti: &laquo;è effettuato&raquo;; 
+ 
+
+ c) il settimo comma è sostituito dal seguente: 
+ 
+
+ &laquo;Le dichiarazioni degli amministratori previste dai commi quarto e quinto devono essere depositate entro trenta giorni dall'avvenuta variazione della compagine sociale&raquo;. 
+ 
+
+ 12-quinquies. Al primo comma dell'art. 2471 del codice civile, le parole: &laquo;Gli amministratori procedono senza indugio all'annotazione nel libro dei soci&raquo; sono soppresse. 
+ 
+
+ 12-sexies. Al primo comma dell'art. 2472 del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 
+ 
+
+ 12-septies.All'art. 2478 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) il numero 1) del primo comma è abrogato; 
+ 
+
+ b) al secondo comma, le parole: &laquo;I primi tre libri&raquo; sono sostituite dalle seguenti: &laquo;I libri indicati nei numeri 2) e 3) del primo comma&raquo; e le parole: &laquo;e il quarto&raquo; sono sostituite dalle seguenti: &laquo;; il libro indicato nel numero 4) del primo comma deve essere tenuto&raquo;. 
+ 
+
+ 12-octies. Al secondo comma dell'art. 2478-bis del codice civile, le parole: &laquo;devono essere depositati&raquo; sono sostituite dalle seguenti: &laquo;deve essere depositata&raquo; e le parole: &laquo;e l'elenco dei soci e degli altri titolari di diritti sulle partecipazioni sociali&raquo; sono soppresse. 
+ 
+
+ 12-novies. All'art. 2479-bis, primo comma, secondo periodo, del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 
+ 
+
+ 12-decies. Al comma 1-bis dell'art. 36 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, il secondo periodo è soppresso. 
+ 
+
+ 12-undecies. Le disposizioni di cui ai commi da 12-quater a 12-decies entrano in vigore il sessantesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Entro tale termine, gli amministratori delle società a responsabilità limitata depositano, con esenzione da ogni imposta e tassa, apposita dichiarazione per integrare le risultanze del registro delle imprese con quelle del libro dei soci. 
+ 
+
+ Art.16-bis (Misure di semplificazione per le famiglie e per le imprese). - 1. A decorrere dalla data di entrata in vigore del decreto di cui al comma 3 e secondo le modalità ivi previste, i cittadini comunicano il trasferimento della propria residenza e gli altri eventi anagrafici e di stato civile all'ufficio competente. Entro ventiquattro ore dalla conclusione del procedimento amministrativo anagrafico, l'ufficio di anagrafe trasmette le variazioni all'Indice nazionale delle anagrafi, di cui all'art. 1, quarto comma, della legge 24 dicembre 1954, n. 1228, e successive modificazioni, che provvede a renderle accessibili alle altre amministrazioni pubbliche. In caso di ritardo nella trasmissione all'Indice nazionale delle anagrafi, il responsabile del procedimento ne risponde a titolo disciplinare e, ove ne derivi pregiudizio, anche a titolo di danno erariale. 
+ 
+
+ 2. La richiesta al cittadino di produrre dichiarazioni o documenti al di fuori di quelli indispensabili per la formazione e le annotazioni degli atti di stato civile e di anagrafe costituisce violazione dei doveri d'ufficio, ai fini della responsabilità disciplinare. 
+ 
+
+ 3. Con uno o più decreti del Ministro per la pubblica amministrazione e l'innovazione e del Ministro dell'interno, sentita la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, sono stabilite le modalità per l'attuazione del comma 1. 
+ 
+
+ 4. Dall'attuazione del comma 1 non devono derivare nuovi o maggiori oneri per la finanza pubblica. 
+ 
+
+ 5. Per favorire la realizzazione degli obiettivi di massima diffusione delle tecnologie telematiche nelle comunicazioni, previsti dal codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, ai cittadini che ne fanno richiesta è attribuita una casella di posta elettronica certificata o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali. L'utilizzo della posta elettronica certificata avviene ai sensi degli articoli 6 e 48 del citato codice di cui al decreto legislativo n. 82 del 2005, con effetto equivalente, ove necessario, alla notificazione per mezzo della posta. Le comunicazioni che transitano per la predetta casella di posta elettronica certificata sono senza oneri. 
+ 
+
+ 6. Per i medesimi fini di cui al comma 5, ogni amministrazione pubblica utilizza la posta elettronica certificata, ai sensi dei citati articoli 6 e 48 del codice di cui al decreto legislativo n. 82 del 2005 o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali, con effetto equivalente, ove necessario, alla notificazione per mezzo della posta, per le comunicazioni e le notificazioni aventi come destinatari dipendenti della stessa o di altra amministrazione pubblica. 
+ 
+
+ 7. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, previa intesa in sede di Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, sono definite le modalità di rilascio e di uso della casella di posta elettronica certificata assegnata ai cittadini ai sensi del comma 5 del presente articolo, con particolare riguardo alle categorie a rischio di esclusione ai sensi dell'art. 8 del citato codice di cui al decreto legislativo n. 82 del 2005, nonchè le modalità di attivazione del servizio mediante procedure di evidenza pubblica, anche utilizzando strumenti di finanza di progetto. Con il medesimo decreto sono stabilite le modalità di attuazione di quanto previsto nel comma 6, cui le amministrazioni pubbliche provvedono nell'ambito degli ordinari stanziamenti di bilancio. 
+ 
+
+ 8. Agli oneri derivanti dall'attuazione del comma 5 si provvede mediante l'utilizzo delle risorse finanziarie assegnate, ai sensi dell'art. 27 della legge 16 gennaio 2003, n. 3, al progetto "Fondo di garanzia per le piccole e medie imprese" con decreto dei Ministri delle attività produttive e per l'innovazione e le tecnologie 15 giugno 2004, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2004, non impegnate alla data di entrata in vigore della legge di conversione del presente decreto. 
+ 
+
+ 9. All'art. 1, comma 213, della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni: 
+ 
+
+ a) alla linea sono aggiunte, in fine, le seguenti parole: &laquo;, in conformità a quanto previsto dagli standard del Sistema pubblico di connettività (SPC)&raquo;; 
+ 
+
+ b) dopo la lettera g) è aggiunta la seguente: 
+ 
+
+ &laquo;g-bis) le regole tecniche idonee a garantire l'attestazione della data, l'autenticità dell'origine e l'integrità del contenuto della fattura elettronica, di cui all'art. 21, comma 3, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, per ogni fine di legge&raquo;. 
+ 
+
+ 10. In attuazione dei principi stabiliti dall'art. 18, comma 2, della legge 7 agosto 1990, n. 241, e successive modificazioni, e dall'art. 43, comma 5, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, le stazioni appaltanti pubbliche acquisiscono d'ufficio, anche attraverso strumenti informatici, il documento unico di regolarità contributiva (DURC) dagli istituti o dagli enti abilitati al rilascio in tutti i casi in cui è richiesto dalla legge. 
+ 
+
+ 11. In deroga alla normativa vigente, per i datori di lavoro domestico gli obblighi di cui all'art. 9-bis del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, e successive modificazioni, si intendono assolti con la presentazione all'Istituto nazionale della previdenza sociale (INPS), attraverso modalità semplificate, della comunicazione di assunzione, cessazione, trasformazione e proroga del rapporto di lavoro. 
+ 
+
+ 12. L'INPS trasmette, in via informatica, le comunicazioni semplificate di cui al comma 11 ai servizi competenti, al Ministero del lavoro, della salute e delle politiche sociali, all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), nonchè alla prefettura-ufficio territoriale del Governo, nell'ambito del Sistema pubblico di connettività (SPC) e nel rispetto delle regole tecniche di sicurezza, di cui all'art. 71, comma 1-bis, del codice di cui al decreto legislativo 7 marzo 2005, n. 82, anche ai fini di quanto previsto dall'art. 4-bis, comma 6, del decreto legislativo 21 aprile 2000, n. 181, e successive modificazioni.&raquo;. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei Ministri del 30 marzo 2009 (Regole tecniche in materia di generazione, apposizione e verifica delle firme digitali e validazione temporale dei documenti informatici) è pubblicato nella Gazzetta Ufficiale 6 giugno 2009, n. 129. 
+ 
+
+ - Il decreto-legge 29 dicembre 2009, n. 193 (Interventi urgenti in materia di funzionalità del sistema giudiziario) convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24, è pubblicato nella Gazzetta Ufficiale 30 dicembre 2009, n. 302. 
+ 
+
+ - Il testo dell'art. 39, comma 8, del decreto-legge 6 luglio 2011, n. 98 (Disposizioni urgenti per la stabilizzazione finanziaria), pubblicato nella Gazzetta Ufficiale 6 luglio 2011, n. 155, così recita: 
+ 
+
+ &laquo;8. Ai fini dell'attuazione dei principi previsti dal codice dell'amministrazione digitale nella materia della giustizia tributaria e per assicurare l'efficienza e la celerità del relativo processo sono introdotte le seguenti disposizioni: 
+ 
+
+ a) nell'art. 16 del decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni: 
+ 
+
+ 1) al comma 1, ultimo periodo, le parole: "comma seguente" sono sostituite dalle seguenti: "comma 2"; 
+ 
+
+ 2) dopo il comma 1, è inserito il seguente:
+ 
+
+ "1-bis. Le comunicazioni sono effettuate anche mediante l'utilizzo della posta elettronica certificata, ai sensi del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Tra le pubbliche amministrazioni di cui all'art. 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, le comunicazioni possono essere effettuate ai sensi dell'art. 76 del medesimo decreto legislativo. L'indirizzo di posta elettronica certificata del difensore o delle parti è indicato nel ricorso o nel primo atto difensivo."; 
+ 
+
+ b) per l'attuazione di quanto previsto alla lettera a), con decreto del Ministero dell'economia e delle finanze sono stabilite le regole tecniche per consentire l'utilizzo delle tecnologie dell'informazione e della comunicazione nel rispetto dei principi previsti dal decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, nonchè individuate le Commissioni tributarie nelle quali trovano gradualmente applicazione le disposizioni di cui alla lettera a); 
+ 
+
+ c) fino alla data di entrata in vigore del decreto di cui alla lettera b), le comunicazioni nel processo tributario sono effettuate nei modi e nelle forme previste dalle disposizioni vigenti alla data di entrata in vigore del presente decreto; 
+ 
+
+ d) con regolamento ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, emanato entro centocinquanta giorni dalla data di entrata in vigore del presente decreto dal Ministro dell'economia e delle finanze, sentiti il DIgitPA e il Garante per la protezione dei dati personali, sono introdotte disposizioni per il più generale adeguamento del processo tributario alle tecnologie dell'informazione e della comunicazione, in attuazione dei principi previsti dal decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni.&raquo;. 
+ 
+
+ - L'art. 2, comma 35-quater, del decreto-legge 13 agosto 2011, n. 138 (Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo), pubblicato nella Gazzetta Ufficiale 13 agosto 2011, n. 188, convertito in legge con modificazioni dall'art. 1, comma 1, legge 14 settembre 2011, n. 148, così recita: 
+ 
+
+ &laquo;35-quater. Al decreto legislativo 31 dicembre 1992, n. 546, sono apportate le seguenti modifiche: 
+ 
+
+ a) all'art. 18, comma 2, lettera b), dopo le parole: &laquo;codice fiscale&raquo; sono aggiunte le seguenti: &laquo;e dell'indirizzo di posta elettronica certificata&raquo;; 
+ 
+
+ b) all'art. 18, comma 4, dopo le parole: &laquo;codice fiscale&raquo; sono inserite le seguenti: &laquo;e all'indirizzo di posta elettronica certificata&raquo;; 
+ 
+
+ c) all'art. 22, comma 1, è aggiunto, in fine, il seguente periodo: &laquo;All'atto della costituzione in giudizio, il ricorrente deve depositare la nota di iscrizione al ruolo, contenente l'indicazione delle parti, del difensore che si costituisce, dell'atto impugnato, della materia del contendere, del valore della controversia e della data di notificazione del ricorso&raquo;.". 
+ 
+
+ - Il decreto-legge 18 ottobre 2012, n. 179, convertito con modificazioni dall'art. 1, comma 1 della legge 17 dicembre 2012, n. 221, è pubblicato nella Gazzetta Ufficiale 19 ottobre 2012, n. 245, S.O. 
+ 
+
+ - Il decreto del Ministro dello sviluppo economico del 19 marzo 2013 (Indice nazionale degli indirizzi di posta elettronica certificata delle imprese e dei professionisti - INI-PEC), è pubblicato sulla Gazzetta Ufficiale n. 83 del 9 agosto 2013. 
+ 
+
+ - Il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O., così recita: 
+ 
+
+ &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Il testo dell'art. 1 del citato d.lgs. n. 546/92 è il seguente: 
+ 
+
+ &laquo;Art. 1 (Gli organi della giurisdizione tributaria). - 1. La giurisdizione tributaria è esercitata dalle commissioni tributarie provinciali e dalle commissioni tributarie regionali di cui all'art. 1 del d.lgs. 31 dicembre 1992, n. 545. 
+ 
+
+ 2. I giudici tributari applicano le norme del presente decreto e, per quanto da esse non disposto e con esse compatibili, le norme del c.p.c.&raquo;. 
+ 
+
+ - Il testo dell'art. 1, comma 1, lett. p) ed i-ter del citato d.lgs. n. 82/2005 è il seguente: 
+ 
+
+ &laquo;p) documento informatico: la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;&raquo; 
+ 
+
+ &laquo;i-ter) copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui è tratto;&raquo;. 
+ 
+
+ - Il testo dell'art. 41 del citato d.lgs. n. 82 e dell'art. 25 del citato d.lgs. n. 546/92 è il seguente: 
+ 
+
+ &laquo;Art. 41 (Procedimento e fascicolo informatico). - 1.
+ 
+
+ Le pubbliche amministrazioni gestiscono i procedimenti amministrativi utilizzando le tecnologie dell'informazione e della comunicazione, nei casi e nei modi previsti dalla normativa vigente. 
+ 
+
+ 1-bis. La gestione dei procedimenti amministrativi è attuata in modo da consentire, mediante strumenti automatici, il rispetto di quanto previsto all'art. 54, commi 2-ter e 2-quater. 
+ 
+
+ 2. La pubblica amministrazione titolare del procedimento raccoglie in un fascicolo informatico gli atti, i documenti e i dati del procedimento medesimo da chiunque formati; all'atto della comunicazione dell'avvio del procedimento ai sensi dell'art. 8 della legge 7 agosto 1990, n. 241, comunica agli interessati le modalità per esercitare in via telematica i diritti di cui all'art. 10 della citata legge 7 agosto 1990, n. 241. 
+ 
+
+ 2-bis. Il fascicolo informatico è realizzato garantendo la possibilità di essere direttamente consultato ed alimentato da tutte le amministrazioni coinvolte nel procedimento. Le regole per la costituzione, l'identificazione e l'utilizzo del fascicolo sono conformi ai principi di una corretta gestione documentale ed alla disciplina della formazione, gestione, conservazione e trasmissione del documento informatico, ivi comprese le regole concernenti il protocollo informatico ed il sistema pubblico di connettività, e comunque rispettano i criteri dell'interoperabilità e della cooperazione applicativa; regole tecniche specifiche possono essere dettate ai sensi dell'art. 71, di concerto con il Ministro della funzione pubblica. 
+ 
+
+ 2-ter. Il fascicolo informatico reca l'indicazione: 
+ 
+
+ a) dell'amministrazione titolare del procedimento, che cura la costituzione e la gestione del fascicolo medesimo; 
+ 
+
+ b) delle altre amministrazioni partecipanti; 
+ 
+
+ c) del responsabile del procedimento; 
+ 
+
+ d) dell'oggetto del procedimento; 
+ 
+
+ e) dell'elenco dei documenti contenuti, salvo quanto disposto dal comma 2-quater; 
+ 
+
+ e-bis) dell'identificativo del fascicolo medesimo 
+ 
+
+ 2-quater. Il fascicolo informatico può contenere aree a cui hanno accesso solo l'amministrazione titolare e gli altri soggetti da essa individuati; esso è formato in modo da garantire la corretta collocazione, la facile reperibilità e la collegabilità, in relazione al contenuto ed alle finalità, dei singoli documenti; è inoltre costituito in modo da garantire l'esercizio in via telematica dei diritti previsti dalla citata legge n. 241 del 1990. 
+ 
+
+ 3. Ai sensi degli articoli da 14 a 14-quinquies della legge 7 agosto 1990, n. 241, previo accordo tra le amministrazioni coinvolte, la conferenza dei servizi è convocata e svolta avvalendosi degli strumenti informatici disponibili, secondo i tempi e le modalità stabiliti dalle amministrazioni medesime.&raquo;. 
+ 
+
+ &laquo;Art. 25 (Iscrizione del ricorso nel registro generale.
+ 
+
+ Fascicolo d'ufficio del processo e fascicoli di parte). - 1. La segreteria della commissione tributaria iscrive il ricorso nel registro generale e forma il fascicolo d'ufficio del processo, inserendovi i fascicoli del ricorrente e delle altre parti, con gli atti e i documenti prodotti, nonchè, successivamente, gli originali dei verbali di udienza, delle ordinanze e dei decreti e copia delle sentenze. 
+ 
+
+ 2. I fascicoli delle parti restano acquisiti al fascicolo d' ufficio e sono ad esse restituiti al termine del processo. Le parti possono ottenere copia autentica degli atti e documenti contenuti nei fascicoli di parte e d'ufficio. 
+ 
+
+ 3. La segreteria sottopone al presidente della commissione tributaria il fascicolo del processo appena formato.&raquo;. 
+ 
+
+ - Il testo dell'art. 1 comma 1, lett. r) ed s) del citato d.lgs. n. 82/2005 è il seguente: 
+ 
+
+ &laquo;r) firma elettronica qualificata: un particolare tipo di firma elettronica avanzata che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma;&raquo; 
+ 
+
+ &laquo;s) firma digitale: un particolare tipo di firma elettronica avanzata basata su un certificato qualificato e su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici;&raquo;. 
+ 
+
+ - Il testo dell'art. 1 comma 1, lett. g) del citato D.P.R. n. 68/2005 è il seguente: 
+ 
+
+ &laquo;g) posta elettronica certificata, ogni sistema di posta elettronica nel quale è fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici;&raquo;. 
+ 
+
+ - Il testo degli artt. 17-bis e 22, comma 1, del citato d.lgs. n. 546/92 è il seguente: 
+ 
+
+ &laquo;Art. 17-bis (Il reclamo e la mediazione). - 1. Per le controversie di valore non superiore a ventimila euro, relative ad atti emessi dall'Agenzia delle entrate, chi intende proporre ricorso è tenuto preliminarmente a presentare reclamo secondo le disposizioni seguenti ed è esclusa la conciliazione giudiziale di cui all'art. 48. 
+ 
+
+ 2. La presentazione del reclamo è condizione di procedibilità del ricorso. In caso di deposito del ricorso prima del decorso del termine di novanta giorni di cui al comma 9, l'Agenzia delle entrate, in sede di rituale costituzione in giudizio, può eccepire l'improcedibilità del ricorso e il presidente, se rileva l'improcedibilità, rinvia la trattazione per consentire la mediazione. 
+ 
+
+ 3. Il valore di cui al comma 1 è determinato secondo le disposizioni di cui al comma 5 dell'art. 12. 
+ 
+
+ 4. Il presente articolo non si applica alle controversie di cui all'art. 47-bis. 
+ 
+
+ 5. Il reclamo va presentato alla Direzione provinciale o alla Direzione regionale che ha emanato l'atto, le quali provvedono attraverso apposite strutture diverse ed autonome da quelle che curano l'istruttoria degli atti reclamabili. 
+ 
+
+ 6. Per il procedimento si applicano le disposizioni di cui agli articoli 12,18, 19, 20, 21 e al comma 4 dell'art. 22, in quanto compatibili. 
+ 
+
+ 7. Il reclamo può contenere una motivata proposta di mediazione, completa della rideterminazione dell'ammontare della pretesa. 
+ 
+
+ 8. L'organo destinatario, se non intende accogliere il reclamo volto all'annullamento totale o parziale dell'atto, nè l'eventuale proposta di mediazione, formula d'ufficio una proposta di mediazione avuto riguardo all'eventuale incertezza delle questioni controverse, al grado di sostenibilità della pretesa e al principio di economicità dell'azione amministrativa. L'esito del procedimento rileva anche per i contributi previdenziali e assistenziali la cui base imponibile è riconducibile a quella delle imposte sui redditi. Sulle somme dovute a titolo di contributi previdenziali e assistenziali non si applicano sanzioni e interessi. Si applicano le disposizioni dell'art. 48, in quanto compatibili. 
+ 
+
+ 9. Decorsi novanta giorni senza che sia stato notificato l'accoglimento del reclamo o senza che sia stata conclusa la mediazione, il reclamo produce gli effetti del ricorso. I termini di cui agli articoli 22 e 23 decorrono dalla predetta data. Ai fini del computo del termine di novanta giorni, si applicano le disposizioni sui termini processuali. 
+ 
+
+ 9-bis. La riscossione e il pagamento delle somme dovute in base all'atto oggetto di reclamo sono sospesi fino alla data dalla quale decorre il termine di cui all'art. 22, fermo restando che in assenza di mediazione sono dovuti gli interessi previsti dalle singole leggi d'imposta. La sospensione non si applica nel caso di improcedibilità di cui al comma 2. 
+ 
+
+ 10. Nelle controversie di cui al comma 1 la parte soccombente è condannata a rimborsare, in aggiunta alle spese di giudizio, una somma pari al 50 per cento delle spese di giudizio a titolo di rimborso delle spese del procedimento disciplinato dal presente articolo. Nelle medesime controversie, fuori dei casi di soccombenza reciproca, la commissione tributaria, può compensare parzialmente o per intero le spese tra le parti solo se ricorrono giusti motivi, esplicitamente indicati nella motivazione, che hanno indotto la parte soccombente a disattendere la proposta di mediazione.&raquo;. 
+ 
+
+ &laquo;Art. 22. - 1. Il ricorrente, entro trenta giorni dalla proposizione del ricorso, a pena d'inammissibilità deposita, nella segreteria della commissione tributaria adita, o trasmette a mezzo posta, in plico raccomandato senza busta con avviso di ricevimento, l'originale del ricorso notificato a norma degli articoli 137 e seguenti del c.p.c. ovvero copia del ricorso consegnato o spedito per posta, con fotocopia della ricevuta di deposito o della spedizione per raccomandata a mezzo del servizio postale.
+ 
+
+ All'atto della costituzione in giudizio, il ricorrente deve depositare la nota di iscrizione al ruolo, contenente l'indicazione delle parti, del difensore che si costituisce, dell'atto impugnato, della materia del contendere, del valore della controversia e della data di notificazione del ricorso.&raquo;. 
+ 
+
+ - Il testo dell'art. 6-bis del citato d.lgs. n. 82/2005 è il seguente: 
+ 
+
+ &laquo;Art. 6-bis (Indice nazionale degli indirizzi PEC delle imprese e dei professionisti). - 1. Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonchè lo scambio di informazioni e documenti tra la pubblica amministrazione e le imprese e i professionisti in modalità telematica, è istituito, entro sei mesi dalla data di entrata in vigore della presente disposizione e con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, il pubblico elenco denominato Indice nazionale degli indirizzi di posta elettronica certificata (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico. 
+ 
+
+ 2. L'Indice nazionale di cui al comma 1 è realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'art. 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. 
+ 
+
+ 3. L'accesso all'INI-PEC è consentito alle pubbliche amministrazioni, ai professionisti, alle imprese, ai gestori o esercenti di pubblici servizi ed a tutti i cittadini tramite sito web e senza necessità di autenticazione. L'indice è realizzato in formato aperto, secondo la definizione di cui all'art. 68, comma 3. 
+ 
+
+ 4. Il Ministero per lo sviluppo economico, al fine del contenimento dei costi e dell'utilizzo razionale delle risorse, sentita l'Agenzia per l'Italia digitale, si avvale per la realizzazione e gestione operativa dell'Indice nazionale di cui al comma 1 delle strutture informatiche delle Camere di commercio deputate alla gestione del registro imprese e ne definisce con proprio decreto, da emanare entro 60 giorni dalla data di entrata in vigore della presente disposizione, le modalità di accesso e di aggiornamento. 
+ 
+
+ 5. Nel decreto di cui al comma 4 sono anche definite le modalità e le forme con cui gli ordini e i collegi professionali comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relativi ai professionisti di propria competenza e sono previsti gli strumenti telematici resi disponibili dalle Camere di commercio per il tramite delle proprie strutture informatiche al fine di ottimizzare la raccolta e aggiornamento dei medesimi indirizzi. 
+ 
+
+ 6. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.&raquo;. 
+ 
+
+ - Il testo dell'art. 35, comma 2, del citato d.lgs. n. 545/92 è il seguente: 
+ 
+
+ &laquo;2. Gli impiegati con VII e VI qualifica funzionale assistono i collegi giudicanti nelle udienze e controfirmano gli atti nei quali la legge richiede il loro intervento; ricevono gli atti del processo concernenti il loro ufficio; rilasciano le copie delle decisioni; svolgono compiti di carattere amministrativo e contabile e provvedono agli adempimenti che ad essi vengono affidati; possono, nel caso di assenza o vacanza, fare le veci dei funzionari della qualifica funzionale immediatamente superiore.&raquo;. 
+ 
+
+ - Per i riferimenti al d.lgs. n. 546/92, si veda nelle note alle premesse.
