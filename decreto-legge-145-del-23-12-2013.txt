@@ -46,7 +46,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. A decorrere dal 1° gennaio 2014, i prezzi minimi garantiti, definiti dall'Autorità per l'energia elettrica e il gas ai fini dell'applicazione dell'articolo 13, commi 3 e 4, del decreto legislativo 29 dicembre 2003, n. 387, e dell'articolo 1, comma 41, della legge 23 agosto 2004, n. 239, sono pari, per ciascun impianto, al prezzo zonale orario nel caso in cui l'energia ritirata sia prodotta da impianti che accedono a incentivazioni a carico delle tariffe elettriche sull'energia prodotta. 
+ 2. A decorrere dal 1° gennaio 2014, i prezzi minimi garantiti, definiti dall'Autorità per l'energia elettrica e il gas ai fini dell'applicazione dell'articolo 13, commi 3 e 4, del decreto legislativo 29 dicembre 2003, n. 387, e dell'articolo 1, comma 41, della legge 23 agosto 2004, n. 239, sono pari, per ciascun impianto, al prezzo zonale orario nel caso in cui l'energia ritirata sia prodotta da impianti che accedono a incentivazioni a carico delle tariffe elettriche sull'energia prodotta 
+ ((, ad eccezione dell'energia elettrica immessa da impianti fotovoltaici di potenza nominale fino a 100 kW e da impianti idroelettrici di potenza elettrica fino a 500 kW))
+
+ . 
  
 
  
@@ -91,6 +94,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  4. La riduzione di cui al comma 3, lettera b), viene differenziata in ragione del residuo periodo di incentivazione, del tipo di fonte rinnovabile e dell'istituto incentivante, ed è determinata tenendo conto dei costi indotti dall'operazione di rimodulazione degli incentivi, incluso un premio adeguatamente maggiorato per gli impianti per i quali non sono previsti, per il periodo successivo a quello di diritto al regime incentivante, incentivi diversi dallo scambio sul posto e dal ritiro dedicato per interventi realizzati sullo stesso sito. 
+ ((Il decreto di cui al comma 3, lettera b), deve prevedere il periodo residuo di incentivazione, entro il quale non si applica la penalizzazione di cui al comma 3, lettera a). Allo scopo di salvaguardare gli investimenti in corso, tale periodo residuo non può comunque scadere prima del 31 dicembre 2014 e può essere differenziato per ciascuna fonte, per tenere conto della diversa complessità degli interventi medesimi))
+
+ . 
  
 
  
@@ -122,12 +128,69 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) agli impianti incentivati ai sensi del decreto del Ministro dello sviluppo economico 6 luglio 2012, pubblicato nella Gazzetta Ufficiale - serie generale - n. 159 del 10 luglio 2012, supplemento ordinario n. 143, fatta eccezione per quelli ricadenti nel regime transitorio di cui all'articolo 30 dello stesso decreto. 
+ ((b) ai nuovi impianti incentivati ai sensi del decreto del Ministro dello sviluppo economico 6 luglio 2012, pubblicato nel supplemento ordinario n. 143 alla Gazzetta Ufficiale n. 159 del 10 luglio 2012, fatta eccezione per gli impianti ricadenti nel regime transitorio di cui all'articolo 30 dello stesso decreto))
+
+ 
+
+ 
+
  
 
  
  
+ ((
+ 
 
+ 
+ 6-bis. Al fine di promuovere la competitività delle imprese industriali, i corrispettivi a copertura degli oneri generali di sistema applicati al consumo di gas e i criteri di ripartizione dei medesimi oneri a carico dei clienti finali sono rideterminati dall'Autorità per l'energia elettrica e il gas entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. La suddetta rideterminazione deve avvenire in modo da tenere conto della definizione di imprese a forte consumo di energia, nel rispetto dei decreti e dei vincoli di cui all'articolo 39, commi 1 e 2, del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, secondo gli indirizzi emanati dal Ministro dello sviluppo economico. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-ter. L'Autorità per l'energia elettrica e il gas, entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto, al fine di rendere più facilmente confrontabili le offerte contrattuali rivolte ai clienti finali per l'acquisto di gas o energia elettrica, identifica le componenti di base di costo da esplicitare obbligatoriamente nelle stesse offerte e determina le sanzioni a carico dei soggetti venditori in caso di inottemperanza. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-quater. L'Autorità per l'energia elettrica e il gas promuove, attraverso la regolazione, l'installazione dei contatori elettronici e provvede affinchè i dati di lettura dei contatori stessi siano resi disponibili ai clienti in forma aggregata e puntuale, secondo modalità tali da consentire la facile lettura da parte del cliente dei propri dati di consumo e garantendo nel massimo grado e tempestivamente la corrispondenza tra i consumi fatturati e quelli effettivi con lettura effettiva dei valori di consumo ogni volta che siano installati sistemi di telelettura e determinando un intervallo di tempo massimo per il conguaglio nei casi di lettura stimata. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-quinquies. L'Autorità per l'energia elettrica e il gas provvede all'attuazione dei commi 6-ter e 6-quater nell'ambito delle risorse umane, finanziarie e strumentali previste a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-sexies. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministero dello sviluppo economico avvia una ricognizione dei regolamenti al fine di prevedere i requisiti di terzietà, di imparzialità, di integrità e di indipendenza rispetto al produttore, distributore, venditore e gestore di rete, per l'esecuzione dei controlli metrologici sui dispositivi di cui all'articolo 1 del decreto legislativo 2 febbraio 2007, n. 22. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-septies. Con i regolamenti di cui ai decreti del Ministro dello sviluppo economico adottati ai sensi dell'articolo 19, comma 2, del decreto legislativo 2 febbraio 2007, n. 22, ovvero con successivi decreti adottati secondo la medesima procedura, sono disciplinati, senza nuovi o maggiori oneri per la finanza pubblica, anche i controlli successivi, relativamente agli strumenti di misura già messi in servizio ai sensi delle disposizioni transitorie di cui all'articolo 22 del medesimo decreto legislativo. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-octies. Con decreto del Ministro dello sviluppo economico, sentita l'Autorità per l'energia elettrica e il gas, sono individuate le disposizioni per un processo di progressiva copertura del fabbisogno delle isole minori non interconnesse attraverso energia da fonti rinnovabili, gli obiettivi temporali e le modalità di sostegno degli investimenti, anche attraverso la componente tariffaria UC4))
  
 
  
@@ -136,7 +199,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  7. All'articolo 6 del decreto legislativo 19 agosto 2005, n. 192, i commi 3 e 3-bis sono sostituiti dal seguente: 
  
 
- &laquo;3. Nei contratti di compravendita immobiliare, negli atti di trasferimento di immobili a titolo oneroso e nei nuovi contratti di locazione di edifici o di singole unità immobiliari soggetti a registrazione è inserita apposita clausola con la quale l'acquirente o il conduttore dichiarano di aver ricevuto le informazioni e la documentazione, comprensiva dell'attestato, in ordine alla attestazione della prestazione energetica degli edifici; copia dell'attestato di prestazione energetica deve essere altresì allegata al contratto, tranne che nei casi di locazione di singole unità immobiliari. In caso di omessa dichiarazione o allegazione, se dovuta, le parti sono soggette al pagamento, in solido e in parti uguali, della sanzione amministrativa pecuniaria da euro 3.000 a euro 18.000; la sanzione è da euro 1.000 a euro 4.000 per i contratti di locazione di singole unità immobiliari e, se la durata della locazione non eccede i tre anni, essa è ridotta alla metà.
+ &laquo;3. Nei contratti di compravendita immobiliare, negli atti di trasferimento di immobili a titolo oneroso e nei nuovi contratti di locazione di edifici o di singole unità immobiliari soggetti a registrazione è inserita apposita clausola con la quale l'acquirente o il conduttore dichiarano di aver ricevuto le informazioni e la documentazione, comprensiva dell'attestato, in ordine alla attestazione della prestazione energetica degli edifici; copia dell'attestato di prestazione energetica deve essere altresì allegata al contratto, tranne che nei casi di locazione di singole unità immobiliari. In caso di omessa dichiarazione o allegazione, se dovuta, le parti sono soggette al pagamento, in solido e in parti uguali, della sanzione amministrativa pecuniaria da euro 3.000 a euro 18.000; la sanzione è da euro 1.000 a euro 4.000 per i contratti di locazione di singole unità immobiliari e, se la durata della locazione non eccede i tre anni, essa è ridotta alla metà. 
+ ((Il pagamento della sanzione amministrativa non esenta comunque dall'obbligo di presentare la dichiarazione o la copia dell'attestato di prestazione energetica entro quarantacinque giorni))
+
+ .
  
 
  L'accertamento e la contestazione della violazione sono svolti dalla Guardia di Finanza o, all'atto della registrazione di uno dei contratti previsti dal presente comma, dall'Agenzia delle Entrate, ai fini dell'ulteriore corso del procedimento sanzionatorio ai sensi dell'articolo 17 della legge 24 novembre 1981, n. 689.&raquo;. 
@@ -147,11 +213,120 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((
+ 
+
+ 
+ 7-bis. Al numero 52 dell'allegato A del decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni, le parole: "la persona giuridica" sono sostituite dalle seguenti: "l'impresa". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7-ter. All'articolo 1, comma 139, della legge 27 dicembre 2013, n. 147, la lettera a) è abrogata))
+ 
+
+ 
+
+ 
  8. Su richiesta di almeno una delle parti o di un suo avente causa, la stessa sanzione amministrativa di cui al comma 3 dell'articolo 6 del decreto legislativo n. 192 del 2005 si applica altresì ai richiedenti, in luogo di quella della nullità del contratto anteriormente prevista, per le violazioni del previgente comma 3-bis dello stesso articolo 6 commesse anteriormente all'entrata in vigore del presente decreto, purchè la nullità del contratto non sia già stata dichiarata con sentenza passata in giudicato. 
  
 
  
  
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 8-bis. Ai fini del rilascio dell'attestato di prestazione energetica degli edifici, di cui all'articolo 6 del decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni, si tiene conto del raffrescamento derivante dalle schermature solari mobili, a condizione che la prestazione energetica delle predette schermature sia di classe 2, come definita nella norma europea EN 14501:2006, o superiore. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 8-ter. Al regolamento di cui al decreto del Presidente della Repubblica 16 aprile 2013, n. 75, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) all'articolo 2, comma 3, lettera a), le parole da: "LM-4" a: "LM-73" sono sostituite dalle seguenti: "LM-4, da LM-20 a LM-35, LM-48, LM-53, LM-69, LM-71, LM-73" e le parole da: "4/S" a: "77/S" sono sostituite dalle seguenti: "4/S, da 25/S a 38/S, 54/S, 61/S, 74/S, 77/S, 81/S"; 
+ 
+
+ 
+ 
+
+ 
+ b) all'articolo 2, comma 3, lettera c), dopo la parola: "termotecnica," sono inserite le seguenti: "aeronautica, energia nucleare, metallurgia, navalmeccanica, metalmeccanica,"; 
+ 
+
+ 
+ 
+
+ 
+ c) all'articolo 2, comma 4, lettera b), le parole da: "LM-17" a: "LM-79" sono sostituite dalle seguenti: "LM-17, LM-40, LM-44, LM-54, LM-60, LM-74, LM-75, LM-79" e le parole da: "20/S" a: "86/S" sono sostituite dalle seguenti: "20/S, 45/S, 50/S, 62/S, 68/S, 82/S, 85/S, 86/S"; 
+ 
+
+ 
+ 
+
+ 
+ d) all'articolo 3, dopo il comma 1 è aggiunto il seguente: 
+ 
+
+ "1-bis. Qualora il tecnico abilitato sia dipendente e operi per conto di enti pubblici ovvero di organismi di diritto pubblico operanti nel settore dell'energia e dell'edilizia, il requisito di indipendenza di cui al comma 1 si intende superato dalle finalità istituzionali di perseguimento di obiettivi di interesse pubblico proprie di tali enti e organismi"; 
+ 
+
+ 
+ 
+
+ 
+ e) all'articolo 4, comma 2, dopo la lettera a) è inserita la seguente: 
+ 
+
+ "a-bis) riconoscere, quali soggetti certificatori, i soggetti che dimostrino di essere in possesso di un attestato di frequenza, con superamento dell'esame finale, di specifico corso di formazione per la certificazione energetica degli edifici, attivato precedentemente alla data di entrata in vigore del presente decreto e comunque conforme ai contenuti minimi definiti nell'allegato 1"; 
+ 
+
+ 
+ 
+
+ 
+ f) all'articolo 6, dopo il comma 2 è aggiunto il seguente: 
+ 
+
+ "2-bis. Le disposizioni del presente decreto si applicano anche ai fini della redazione dell'attestazione di prestazione energetica di cui alla direttiva 2010/31/UE del Parlamento europeo e del Consiglio, del 19 maggio 2010"; 
+ 
+
+ 
+ 
+
+ 
+ g) all'allegato 1, le parole: "64 ore" sono sostituite dalle seguenti: "80 ore". 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 8-quater. All'articolo 6, comma 8, del decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni, dopo la parola: "locazione," sono inserite le seguenti: "ad eccezione delle locazioni degli edifici residenziali utilizzati meno di quattro mesi all'anno,"))
+ 
+
  
 
  
@@ -171,7 +346,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) all'articolo 1120, secondo comma, n. 2, del Codice civile, per come modificato dalla legge 11 dicembre 2012, n. 220, le parole &laquo;, per il contenimento del consumo energetico degli edifici&raquo; sono soppresse; 
+ b) 
+ ((LETTERA SOPPRESSA DALLA L. 21 FEBBRAIO 2014, N. 9))
+
+ ; 
  
 
  
@@ -203,14 +381,36 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 10. All'articolo 1 del decreto legislativo 11 febbraio 2010, n. 22, dopo il comma 7 è inserito il seguente: 
+ 
+ ((10. All'articolo 1 del decreto legislativo 11 febbraio 2010, n. 22, e successive modificazioni, sono apportate le seguenti modificazioni: 
  
 
- &laquo;7-bis. Lo Stato esercita le funzioni di cui all'articolo 1, comma 7, lettera i), della legge 23 agosto 2004, n. 239, e all'articolo 57, comma 1, lettera f-bis), del decreto-legge n. 5 del 2012, nell'ambito della determinazione degli indirizzi della politica energetica nazionale, al fine di sostenere lo sviluppo delle risorse geotermiche.&raquo;. 
+ 
+ 
+
+ 
+ a) al comma 3-bis, dopo la parola: "emissioni" sono inserite le seguenti: "di processo"; 
  
 
  
  
+ 
+
+ 
+ b) al comma 3-bis.1, dopo le parole: "immessa nel sistema elettrico" sono aggiunte le seguenti: ", che non può in nessun caso essere superiore a 40.000 MWh elettrici annui"; 
+ 
+
+ 
+ 
+ 
+
+ 
+ c) dopo il comma 7 è inserito il seguente: 
+ 
+
+ "7-bis. Lo Stato esercita le funzioni di cui all'articolo 1, comma 7, lettera i), della legge 23 agosto 2004, n. 239, e all'articolo 57, comma 1, lettera f-bis), del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, nell'ambito della determinazione degli indirizzi della politica energetica nazionale, al fine di sostenere lo sviluppo delle risorse geotermiche"))
+ 
+
  
 
  
@@ -222,7 +422,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 12. La Regione Autonoma della Sardegna, entro il 30 giugno 2016, ha la facoltà di bandire una gara per realizzare una centrale termoelettrica a carbone, dotata di apposita sezione di impianto per la cattura e lo stoccaggio dell'anidride carbonica prodotta, da realizzare sul territorio del Sulcis Iglesiente, in prossimità del giacimento carbonifero, assicurando la disponibilità delle aree e delle infrastrutture necessarie. Al vincitore della gara è assicurato l'acquisto da parte del Gestore dei servizi energetici S.p.a. dell'energia elettrica prodotta e immessa in rete dall'impianto, dal primo al ventesimo anno di esercizio, al prezzo di mercato maggiorato di un incentivo fino a 30 Euro/MWh sulla base della produzione di energia elettrica con funzionamento a piena capacità di cattura della CO2 e del funzionamento del relativo stoccaggio nonchè rivalutato sulla base dell'inflazione calcolata sull'indice Istat, per un massimo di 2100 GWh/anno. Il rapporto tra l'ammontare complessivo di tale incentivo e il costo totale di investimento sostenuto dal vincitore della gara non deve superare le proporzioni consentite dalle norme comunitarie sugli aiuti di Stato e nessun incentivo può essere concesso prima della approvazione da parte della Commissione europea. In caso di funzionamento della centrale termoelettrica in assenza di cattura e stoccaggio della CO2, le emissioni di gas serra attribuite all'impianto sono incrementate del 30%. 
+ 12. La Regione Autonoma della Sardegna, entro il 30 giugno 2016, ha la facoltà di bandire una gara per realizzare una centrale termoelettrica a carbone, dotata di apposita sezione di impianto per la cattura e lo stoccaggio dell'anidride carbonica prodotta, da realizzare sul territorio del Sulcis Iglesiente, in prossimità del giacimento carbonifero, assicurando la disponibilità delle aree e delle infrastrutture necessarie. Al vincitore della gara è assicurato l'acquisto da parte del Gestore dei servizi energetici S.p.a. dell'energia elettrica prodotta e immessa in rete dall'impianto, dal primo al ventesimo anno di esercizio, al prezzo di mercato maggiorato di un incentivo fino a 30 Euro/MWh sulla base della produzione di energia elettrica con funzionamento a piena capacità di cattura della CO2 e del funzionamento del relativo stoccaggio nonchè rivalutato sulla base dell'inflazione calcolata sull'indice Istat, per un massimo di 2100 GWh/anno. 
+ ((Tale incentivo è concesso esclusivamente per la quantità di energia prodotta con la cattura e lo stoccaggio dell'anidride carbonica))
+
+ . Il rapporto tra l'ammontare complessivo di tale incentivo e il costo totale di investimento sostenuto dal vincitore della gara non deve superare le proporzioni consentite dalle norme comunitarie sugli aiuti di Stato e nessun incentivo può essere concesso prima della approvazione da parte della Commissione europea. In caso di funzionamento della centrale termoelettrica in assenza di cattura e stoccaggio della CO2, le emissioni di gas serra attribuite all'impianto sono incrementate del 30%. 
  
 
  
@@ -246,7 +449,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 15. Al secondo periodo del comma 2 dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, la parola: &laquo;5%&raquo; è sostituita dalla seguente: &laquo;4,5%&raquo;. Al terzo periodo del comma 2 dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, la parola: &laquo;2014&raquo; è sostituita dalla seguente: &laquo;2020&raquo; e le parole: &laquo;e può essere rideterminato l'obiettivo di cui al periodo precedente&raquo; sono soppresse. A decorrere dal 1° gennaio 2015 la quota minima di cui all'articolo 2-quater, comma 1, del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81, come sostituito dall'articolo 1, comma 368, della legge 27 dicembre 2006, n. 296, è determinata in una quota percentuale di tutto il carburante, benzina e gasolio, immesso in consumo nello stesso anno solare, calcolata sulla base del tenore energetico. Entro tre mesi dalla data di entrata in vigore della presente legge, con decreto di natura non regolamentare del Ministro dello sviluppo economico, sentito il Comitato tecnico consultivo biocarburanti di cui all'articolo 33, comma 5-sexies del decreto legislativo 3 marzo 2011, n. 28, si provvede ad aggiornare le condizioni, i criteri e le modalità di attuazione dell'obbligo, ai sensi dell'articolo 1, comma 368, punto 3 della legge 27 dicembre 2006, n. 296. Al comma 5-ter dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, sono apportate le seguenti modificazioni: al secondo punto dell'elenco le parole: &laquo;condotta all'interno degli stabilimenti di produzione del biodiesel&raquo; sono soppresse; al terzo punto dell'elenco le parole: &laquo;durante il processo di produzione del biodiesel&raquo; sono soppresse; al quarto punto dell'elenco le parole: &laquo;condotta nelle aziende oleochimiche&raquo; sono soppresse; al settimo punto dell'elenco dopo le parole: &laquo;grassi animali di categoria 1&raquo; sono inserite le seguenti: &laquo;e di categoria 2&raquo;. Al comma 5-quienquies dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, è aggiunto, in fine, il seguente periodo: &laquo;A decorrere dall'anno 2014, la misura massima sopra indicata è pari al 40%. Con decreto di natura non regolamentare del Ministro dello sviluppo economico, sentito il Comitato tecnico consultivo biocarburanti di cui all'articolo 33, comma 5-sexies del decreto legislativo 3 marzo 2011, n. 28, si provvede ad aggiornare il valore della misura massima sopra indicata.&raquo;. 
+ 
+ ((15. Al secondo periodo del comma 2 dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, la parola: "2014" è sostituita dalla seguente: "2015". Al terzo periodo del comma 2 dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, la parola: "2014" è sostituita dalla seguente: "2020" e le parole: "e può essere rideterminato l'obiettivo di cui al periodo precedente" sono soppresse. A decorrere dal 1&ordm; gennaio 2015 la quota minima di cui all'articolo 2-quater, comma 1, del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81, e successive modificazioni, è determinata in una quota percentuale di tutto il carburante, benzina e gasolio, immesso in consumo nello stesso anno solare, calcolata sulla base del tenore energetico. Entro tre mesi dalla data di entrata in vigore del presente decreto, con decreto di natura non regolamentare del Ministro dello sviluppo economico, sentito il Comitato tecnico consultivo biocarburanti di cui all'articolo 33, comma 5-sexies, del decreto legislativo 3 marzo 2011, n. 28, si provvede ad aggiornare le condizioni, i criteri e le modalità di attuazione dell'obbligo, ai sensi del comma 3 dell'articolo 2-quater del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81, e successive modificazioni. All'articolo 33, comma 4, del decreto legislativo 3 marzo 2011, n. 28, e successive modificazioni, le parole: "fino al 31 dicembre 2014" sono sostituite dalle seguenti: "fino al 31 marzo 2014". Al comma 5-ter dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, sono apportate le seguenti modificazioni: al secondo punto dell'elenco, le parole: ", condotta all'interno degli stabilimenti di produzione del biodiesel (nella misura massima del 5% in peso della relativa produzione di biodiesel)" sono soppresse; al terzo punto dell'elenco, le parole: "durante il processo di produzione del biodiesel (nella misura massima del 5% in peso della relativa produzione di biodiesel)" sono soppresse; al quarto punto dell'elenco, le parole: "(nella misura massima del 5% in peso della relativa produzione di acidi grassi distillati)" e le parole: "(nella misura massima del 5% in peso della relativa produzione di Glicerina distillata) condotta nelle aziende oleochimiche" sono soppresse; al settimo punto dell'elenco, dopo le parole: "grassi animali di categoria 1" sono inserite le seguenti: "e di categoria 2". Al comma 5-quater dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, e successive modificazioni, le parole: "e stabilite variazioni della misura massima percentuale prevista dal comma 5-quinquies" sono soppresse. Il comma 5-quinquies dell'articolo 33 del decreto legislativo 3 marzo 2011, n. 28, è abrogato. All'articolo 33, comma 5, del decreto legislativo 3 marzo 2011, n. 28, e successive modificazioni, le parole: "entrambi prodotti e trasformati in biocarburanti nel territorio Comunitario, che non presentino altra utilità produttiva o commerciale al di fuori del loro impiego per la produzione di carburanti o a fini energetici," sono soppresse. I commi 4, 5 e 6 dell'articolo 34 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, sono abrogati))
+ 
+
+ 
+
+ 
+ 
+ ((16. All'articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164, le parole: ", con i criteri di cui alle lettere a) e b) dell'articolo 24 del Regio decreto 15 ottobre 1925, n. 2578" sono sostituite dalle seguenti: "nonchè per gli aspetti non disciplinati dalle medesime convenzioni o contratti, in base alle linee guida su criteri e modalità operative per la valutazione del valore di rimborso di cui all'articolo 4, comma 6, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98. In ogni caso, dal rimborso di cui al presente comma sono detratti i contributi privati relativi ai cespiti di località, valutati secondo la metodologia della regolazione tariffaria vigente.
+ 
+
+ Qualora il valore di rimborso risulti maggiore del 10 per cento del valore delle immobilizzazioni nette di località calcolate nella regolazione tariffaria, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di località, l'ente locale concedente trasmette le relative valutazioni di dettaglio del valore di rimborso all'Autorità per l'energia elettrica, il gas ed il sistema idrico per la verifica prima della pubblicazione del bando di gara. La stazione appaltante tiene conto delle eventuali osservazioni dell'Autorità per l'energia elettrica, il gas ed il sistema idrico ai fini della determinazione del valore di rimborso da inserire nel bando di gara. I termini di scadenza previsti dal comma 3 dell'articolo 4 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, sono prorogati di ulteriori quattro mesi. Le date limite di cui all'allegato 1 al regolamento di cui al decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226, relative agli ambiti ricadenti nel terzo raggruppamento dello stesso allegato 1, nonchè i rispettivi termini di cui all'articolo 3 del medesimo regolamento, sono prorogati di quattro mesi"))
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 16-bis. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, i soggetti investitori indicati all'articolo 5, comma 1, lettera b), numeri 1) e 3), del decreto legislativo 13 agosto 2010, n. 130, confermano al Ministero dello sviluppo economico la loro volontà di mantenere la partecipazione nello sviluppo delle nuove capacità di stoccaggio, ancora da realizzare da parte dei soggetti di cui all'articolo 5 dello stesso decreto. La procedura di cui al medesimo articolo 5, comma 1, lettera b), numero 2), è indetta entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto e il prezzo a base d'asta è determinato dall'Autorità per l'energia elettrica e il gas in misura pari al costo medio di realizzazione e gestione delle infrastrutture di stoccaggio. Il soggetto di cui allo stesso articolo 5, comma 1, è tenuto a realizzare unicamente la capacità di stoccaggio derivante dai quantitativi confermati o richiesti ai sensi del presente comma, fermo restando che da tale obbligo non devono derivare oneri per il sistema del gas naturale. L'attestazione della quota di mercato all'ingrosso di cui all'articolo 3, comma 1, del citato decreto legislativo n. 130 del 2010 è effettuata qualora il suo valore superi il 10 per cento. Con i decreti del Ministero dello sviluppo economico di cui all'articolo 14 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e successive modificazioni, può essere indicata la parte di spazio di stoccaggio di gas naturale da allocare per periodi superiori a un anno. All'articolo 34, comma 19, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, dopo le parole: "dalla legge 29 novembre 2007, n. 222," sono inserite le seguenti: "di cui all'articolo 11 del decreto legislativo 23 maggio 2000, n. 164,". 
  
 
  
@@ -254,4 +479,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 16. All'articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164, le parole: &laquo;con i criteri di cui alle lettere a e b dell'articolo 24 del regio decreto 15 ottobre 1925, n. 2578&raquo; sono sostituite dalle seguenti: &laquo;con le modalità di calcolo di cui all'articolo 14 comma 8. In ogni caso dal rimborso di cui al presente comma sono detratti i contributi privati relativi ai cespiti di località, valutati secondo la metodologia della regolazione tariffaria vigente&raquo;.
+ 16-ter. Il comma 2 dell'articolo 11 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, è sostituito dal seguente: 
+ 
+
+ "2. Ciascun soggetto che immette gas naturale nella rete nazionale di gasdotti e la cui quota di mercato all'ingrosso, calcolata ai sensi dell'articolo 3 del decreto legislativo 13 agosto 2010, n. 130, supera il valore del 10 per cento, è soggetto, a decorrere dal 1&ordm; gennaio 2014 e per un periodo di tre anni, all'obbligo di offerta di vendita, nel mercato a termine del gas naturale gestito dal Gestore dei mercati energetici, di un volume di gas naturale corrispondente al 5 per cento del totale annuo immesso dal medesimo soggetto nei punti di entrata della rete nazionale di trasporto connessi con gasdotti provenienti da altri Stati o da terminali di rigassificazione di gas naturale liquefatto (GNL), con contestuale offerta di acquisto sul medesimo mercato per un pari quantitativo, con una differenza tra il prezzo di vendita e il prezzo di acquisto offerti non superiore a un valore definito con decreto del Ministro dello sviluppo economico, su proposta dell'Autorità per l'energia elettrica, il gas ed il sistema idrico, la quale definisce altresì le modalità per l'adempimento del suddetto obbligo. Il Gestore dei mercati energetici trasmette i relativi dati all'Autorità garante della concorrenza e del mercato". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 16-quater. Al fine di dare impulso all'indizione delle gare d'ambito per l'affidamento del servizio di distribuzione del gas naturale previste dal regolamento di cui al decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226, i gestori uscenti anticipano alla stazione appaltante l'importo equivalente al corrispettivo una tantum per la copertura degli oneri di gara, come riconosciuto dall'Autorità per l'energia elettrica e il gas con le delibere n. 407/2012/R/gas dell'11 ottobre 2012 e 230/2013/R/gas del 30 maggio 2013. Nel caso di due o più gestori, l'anticipazione è proporzionale ai punti di riconsegna serviti nei comuni dell'ambito territoriale di riferimento, come risultanti dai dati di riferimento per la formazione degli ambiti, pubblicati nel sito internet del Ministero dello sviluppo economico. La corresponsione dell'importo è effettuata a titolo di anticipo alla stazione appaltante di cui all'articolo 2 del citato regolamento di cui al decreto del Ministro dello sviluppo economico n. 226 del 2011 ed è rimborsata, comprensiva di interessi, dal concessionario subentrante all'atto dell'avvenuta aggiudicazione del servizio, con modalità definite dall'Autorità per l'energia elettrica e il gas))
