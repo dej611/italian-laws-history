@@ -1,0 +1,1250 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ OGGETTO: Gestione degli interventi 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 1 Premessa 
+ 
+
+ Questo allegato descrive le procedure, i formati e le tempistiche per la gestione degli interventi conseguenti alle segnalazioni dei fenomeni interferenziali di cui all'articolo 3 e 4 del decreto 
+ 
+
+ Tale gestione richiede il continuo scambio di informazioni tra il Gestore e gli Operatori per provvedere tempestivamente alla attivazione dei ticket relativi agli interventi presso gli utenti i cui impianti di ricezione televisiva subiscano malfunzionamenti per effetto dell'interferenza generata dalle stazioni radio base LTE attivate in banda 800 MHz. Alla ripartizione dei ticket di intervento tra gli Operatori si provvede secondo le percentuali di cui all'articolo 4 del presente decreto. 
+ 
+
+ è necessario che gli Operatori, direttamente o per il tramite di un soggetto terzo da loro incaricato, restituiscano al Gestore le informazioni circa gli esiti dell'attività di gestione degli interventi fornendo i report di chiusura intervento. I dati desunti dai report di chiusura intervento permettono di condurre il monitoraggio degli interventi presso gli utenti, di provvedere alle attività di informazione e comunicazione di cui all'articolo 5 del decreto, di fornire le informazioni all'Unità di monitoraggio di cui all'articolo 6 del decreto e di attivare gli uffici periferici, ove necessario. 
+ 
+
+ Il presente documento dettaglia, altresì, le tempistiche di scambio delle informazioni tra Gestore e Operatori. 
+ 
+
+ Il documento, infine, descrive le informazioni che il Gestore rende disponibili al Ministero ed agli Operatori, comprensive dei report relativi alla attività del Contact Center, nonchè le informazioni che il Gestore pubblica sul sito web secondo quanto previsto dall'articolo 5 del decreto. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 2 Tipologie di intervento 
+ 
+
+ Le tipologie di intervento che possono essere effettuate a favore degli utenti che inoltrano una segnalazione al Contact Center/Sito Web ritenuta attendibile dal Gestore si possono distinguere in due categorie: 
+ 
+
+ - intervento in loco 
+ 
+
+ - spedizione del filtro elimina banda che deve essere conforme alle caratteristiche tecniche specificate nella guida CEI 100-7, come indicato all'articolo 4, comma 1, del decreto. 
+ 
+
+ Gli interventi in loco si possono ulteriormente distinguere in: 
+ 
+
+ - installazione del filtro elimina banda, che deve essere conforme alle caratteristiche tecniche specificate nella guida CEI 100-7, come indicato all'articolo 4, comma 1, del decreto, in riferimento ad impianti di ricezione non canalizzati; 
+ 
+
+ - rimozione dei moduli di canale relativi alle frequenze 790-862 MHz in riferimento ad impianti di ricezione canalizzati. 
+ 
+
+ - La spedizione del filtro elimina banda all'utente è applicata solo nei casi in cui quest'ultimo ne faccia esplicitamente richiesta e sottoscriva anticipatamente la relativa liberatoria da acquisire secondo il modello di cui al sub-allegato 3 ed in base alle modalità da definire con separato provvedimento. Tale tipologia di intervento è resa disponibile entro il novantesimo (90°) giorno successivo all'entrata in vigore del presente decreto, previa emanazione del sopracitato provvedimento che ne definisce ulteriormente le modalità e le tempistiche. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 3 Gestione dei ticket di intervento 
+ 
+
+ 3.1 Attivazione ticket di intervento 
+ 
+
+ L'attivazione di un ticket di intervento avviene qualora sulla base delle informazioni fornite dagli utenti ed acquisite mediante la somministrazione e compilazione di un questionario il Contact Center/Sito Web abbia rilevato la presenza di malfunzionamenti agli impianti di ricezione televisiva compatibili con l'attivazione di stazioni radiobase LTE presenti sul territorio e comunicate dagli operatori al Gestore secondo le modalità e le tempistiche di cui all'allegato 2. Per poter attivare un ticket di intervento nei confronti degli Operatori il Contact Center/ Sito Web preventivamente verifica con l'utente chiamante / amministratore di condominio l'esistenza delle seguenti condizioni: 
+ 
+
+ 1. La collocazione dell'impianto di ricezione per il quale l'utente segnala il malfunzionamento all'interno di una delle mappe di rischio elaborate dal Gestore. L'appartenenza ad una mappa di rischio può essere riconducibile a: 
+ 
+
+ • disturbi da saturazione, valutati ritenendo che il guadagno
+ 
+
+ dell'amplificatore sia stato regolato in conformità alla guida CEI 100-7 
+ 
+
+ • disturbi selettivi 
+ 
+
+ - accettabile per i canali 52-60 con livello LTE/DVB-T stimato non inferiore ai valori di immunità previsti dalla delibera AGCOM n. 216/00/CONS e dalle norme CEI, ove applicabili; 
+ 
+
+ 2. L'avvenuto pagamento del canone di abbonamento al servizio radiotelevisivo alla data della segnalazione o la dichiarazione di esonero in base all'art. 1, comma 132, legge 24 dicembre 2007, n. 248. Nel primo trimestre di efficacia del decreto si provvede all'acquisizione del dato relativo all'avvenuto pagamento da parte del titolare dell'abbonamento mentre successivamente sulla base dei dati forniti dall'utente si procederà alla verifica attraverso un collegamento all'Ufficio S.A.T dell'Agenzia delle Entrate a cui sono, comunque, trasmessi tutti i dati acquisiti per le verifiche di competenza ai sensi di quanto previsto dall'articolo 7, comma 3, del decreto. 
+ 
+
+ 3. La non riconducibilità della segnalazione in caso di reclami plurimi ad un impianto per la ricezione televisiva sul quale sia stato già aperto in precedenza un ticket di intervento. 
+ 
+
+ 4. L'avvenuta comunicazione all'utente e la registrazione del consenso da parte dello stesso circa il pagamento diretto da parte dell'utente stesso dei costi correlati ad interventi che non siano riconducibili dal Gestore ad interferenze causate dai sistemi LTE laddove l'attivazione venga, comunque, richiesta. 
+ 
+
+ Il Gestore non è responsabile per eventuali interventi attivati sulla base di informazioni non corrette o non veritiere fornite dall'utente che effettua la segnalazione. 
+ 
+
+ In aggiunta alle sopra citate condizioni, nel primo trimestre di efficacia del decreto, l'attivazione dei ticket di intervento riconducibili a disturbi selettivi, in funzione delle informazioni relative al dispiegamento delle reti LTE, è subordinata alla ricezione, nell'intorno costituito dalla mappa di rischio generata dalla stessa stazione radiobase, di più di una segnalazione da parte di utenti diversi. 
+ 
+
+ 3.1.1 Codice intervento 
+ 
+
+ Ogni ticket di intervento è identificato in modo univoco da un codice intervento che viene comunicato all'utente. L'utente è tenuto a non comunicare a terzi il codice di intervento e può utilizzare tale codice per la verifica presso il Contact Center/Sito Web dello stato di lavorazione del proprio ticket. 
+ 
+
+ In caso di interventi in loco, il tecnico incaricato dall'operatore a cui è stato assegnato l'intervento dal Gestore è obbligato a comunicare il codice di intervento all'utente affinchè questi possa verificare la corrispondenza con il codice intervento in proprio possesso. 
+ 
+
+ 3.2 Chiusura ticket di intervento 
+ 
+
+ La chiusura di un ticket di intervento avviene nel momento in cui il Gestore riceve dagli Operatori o da un soggetto terzo da loro incaricato la comunicazione del completamento delle operazioni finalizzate alla risoluzione dei problemi di ricezione televisiva dovuti alla interferenza da segnali LTE presso l'utente che ha segnalato il malfunzionamento. 
+ 
+
+ L'esito dell'intervento, sia risolutivo che non risolutivo, descritto nel relativo report, è necessario per la chiusura del ticket di intervento. 
+ 
+
+ Il Gestore mantiene gli esiti di chiusura dei ticket di intervento.
+ 
+
+ In particolare, il Gestore analizza la reportistica associata agli interventi non riconducibili alla presenza di segnali LTE e/o di interventi che dovessero risultare non risolutivi di malfunzionamenti imputabili ai segnali LTE e comunica ogni sette (7) giorni i dati all'Unità di monitoraggio. Sulla base delle analisi condotte il Gestore provvede, altresì, ad informare tempestivamente il Ministero e gli Uffici periferici competenti per le opportune verifiche mediante l'invio tramite PEC della documentazione necessaria, suddivisa per aree di competenza. Il Gestore comunica ogni sette (7) giorni al Ministero anche i casi in cui gli interventi in loco e le spedizioni dei filtri non siano stati effettuati per cause di forza maggiore. 
+ 
+
+ 3.3 Modalità di comunicazione per la gestione dei ticket di intervento 
+ 
+
+ Il processo di comunicazione tra Gestore e Operatori relativo alla gestione di ciascun ticket di intervento avviene in modo completamente automatizzato attraverso un portale web dedicato o attraverso lo scambio reciproco di un file dati ed è schematizzato nelle seguenti fasi: 
+ 
+
+ 1. Il Gestore comunica, entro le ore 12 di ogni giorno lavorativo (Lu-Ve esclusi festivi), agli Operatori e/o al soggetto terzo da loro incaricato l'attivazione dei ticket di intervento secondo le percentuali di cui all'articolo 4 del decreto.. Qualora al Gestore non pervengano i criteri di instradamento delle code, il Gestore procede secondo uno schema casuale e non discriminatorio. Lo schema fa riferimento alla percentuale di interventi da assegnare al singolo operatore e tiene conto della distinzione macroscopica delle tipologie di intervento tra spedizione del filtro e intervento in loco. I criteri di instradamento delle code possono essere ridefiniti con cadenza trimestrale a fronte di specifiche esigenze. 
+ 
+
+ 2. Gli Operatori e/o il soggetto terzo da loro incaricato prendono in carico, entro le ore 17:00 di ogni giorno lavorativo (Lu-Ve esclusi festivi) i ticket di intervento, allo scopo di mettere in campo le azioni finalizzate alla risoluzione del malfunzionamento segnalato dall'utente secondo i tempi previsti nel successivo paragrafo 0 
+ 
+
+ 3. Gli Operatori e/o il soggetto terzo da loro incaricato comunicano giornalmente (Lu-Ve esclusi i giorni festivi) al Gestore la chiusura/aggiornamento temporale dei ticket di intervento secondo i tempi previsti nel successivo paragrafo 0. 
+ 
+
+ 4. Il Gestore acquisisce le informazioni di chiusura intervento e il relativo report. 
+ 
+
+ Il Gestore effettua trimestralmente eventuali rimodulazioni dello schema di ripartizione degli interventi tra gli Operatori affinchè questi sostengano gli oneri in conformità alla percentuali stabilite nella Tabella 1 dell'articolo 4 del decreto. 
+ 
+
+ 3.3.1 Comunicazione dei ticket di intervento attivati 
+ 
+
+ Il Gestore rende disponibili agli Operatori su base giornaliera ed entro le ore 12:00 del giorno corrente l'elenco dei ticket di intervento attivati. Per la verifica del rispetto di tali requisiti temporali si fa riferimento al log-file del portale web per lo scambio dati tra Gestore e Operatori e/o il soggetto terzo da loro incaricato. 
+ 
+
+ L'elenco giornaliero dei ticket d'intervento nel primo trimestre di entrata in vigore del presente decreto è reso disponibile direttamente sul portale web dal Gestore. A partire dal 90° giorno successivo all'entrata in vigore del decreto l'elenco giornaliero dei ticket d'intervento è reso disponibile anche attraverso un flusso di scambio dati di tipo XML/CSV. A ciascun ticket attivato deve corrispondere un opportuno intervento finalizzato alla risoluzione dei problemi di ricezione televisiva dovuti alla interferenza da segnali LTE. Ogni ticket di intervento è corredato dalle informazioni rese disponibili dall'utente al Contact Center o sul sito web, che siano di interesse per la corretta esecuzione dell'intervento presso l'utente stesso. Inoltre il ticket è corredato dalle informazioni desumibili dal posizionamento del ricevitore televisivo dell'utente nella mappa di rischio. In particolare a ciascun Operatore è fornito, così come rilevato dalle relative mappe di rischio, il rapporto tra il livello complessivo di segnale DVB-T ed il livello complessivo di segnale LTE ed il rapporto tra il livello del segnale DVB-T più elevato ed il livello del segnale LTE complessivo 
+ 
+
+ 3.3.2 Presa in carico dei ticket di intervento attivati 
+ 
+
+ Gli Operatori e/o il soggetto terzo da loro incaricato prendono in carico giornalmente (Lu-Ve con esclusione dei giorni festivi) entro le ore 17:00 i ticket di intervento resi disponibili dal Gestore secondo i tempi previsti nel successivo paragrafo 0. 
+ 
+
+ 3.3.3 Comunicazione dei ticket di intervento chiusi 
+ 
+
+ Gli Operatori e/o il soggetto terzo da loro incaricato comunicano al Gestore su base giornaliera secondo i tempi previsti nel paragrafo 0, l'elenco dei ticket di intervento chiusi. Un singolo ticket di intervento è considerato chiuso soltanto se opportunamente corredato del relativo report di intervento. Come indicato nel successivo paragrafo 0, il report di intervento fornisce informazioni anche nel caso di malfunzionamenti non attribuibili alla presenza di segnali LTE e di interventi non risolutivi di malfunzionamenti imputabili alla presenza di segnali LTE. 
+ 
+
+ Come indicato al successivo paragrafo 0, nel caso di spedizione del filtro all'utente il report di intervento è costituito dalla attestazione di consegna. 
+ 
+
+ 3.3.4 Aggiornamento dello stato temporale dei ticket di intervento non chiusi 
+ 
+
+ Qualora non sia stato possibile chiudere un ticket di intervento nei tempi previsti al paragrafo 0, gli Operatori e/o il soggetto terzo da loro incaricato comunicano al Gestore, con le medesime tempistiche, l'aggiornamento dello stato del ticket. Tale aggiornamento può esclusivamente riguardare: 
+ 
+
+ - Tempistiche di intervento concordate con l'utente dagli Operatori e/o dal soggetto terzo da loro incaricato, con rimodulazione del tempo T0 come riferito al paragrafo 0. 
+ 
+
+ - Tempistiche di intervento eccedenti quelle indicate al paragrafo 0, a causa di specifici problemi riscontrati dagli Operatori e/o dal soggetto terzo da loro incaricato. 
+ 
+
+ L'aggiornamento dello stato temporale del ticket, accompagnato dalle relative motivazioni, consente al Contact Center/sito Web il corretto monitoraggio dello stato di lavorazione dell'intervento, anche allo scopo di fornire informazioni ed indicazioni all'utente che ne faccia richiesta, all'Unità di monitoraggio ed al Ministero 3.4 Tempistiche per la gestione dei ticket d'intervento e per le relative comunicazioni 
+ 
+
+ Le tempistiche che regolano il processo gestione del ticket e la relativa comunicazione tra Gestore e Operatori e/o il soggetto terzo da loro incaricato, già introdotte ai precedenti paragrafi, sono distinte in Tabella 1 per tipologia di intervento. Tali tempistiche non si applicano a casi di indisponibilità dell'utente o in presenza di cause di forza maggiore certificate. 
+ 
+
+ Ove necessario, la verifica del rispetto dei requisiti temporali è attuata facendo riferimento al logfile del portale web per lo scambio dati tra Gestore e Operatori. 
+ 
+
+ L'Operatore e/o il soggetto terzo da questi incaricato devono risolvere la segnalazione entro i tempi di Tabella 1. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Tabella 1. TEMPISTICHE PER LA GESTIONE DEI TICKET DI INTERVENTO
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Tipologia |
+ 
+
+ 
+ Intervento |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ Intervento | | |
+ 
+
+ 
+ in loco: | T0 | TI=T0+3 gg | TC=T0+5 gg
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ |Giorno di | |Comunicazione di
+ 
+
+ 
+ |invio/esposizione del | |chiusura Ticket o
+ 
+
+ 
+ |TKT o data indicata | |aggiornamento
+ 
+
+ 
+ |dall'utente a partire |Completamento |sullo stato
+ 
+
+ 
+ |dalla quale egli è | Intervento |temporale del
+ 
+
+ 
+ |disponibile a ricevere| |Ticket
+ 
+
+ 
+ |l'eventuale intervento| |
+ 
+
+ 
+ --------------------------------------------------------------------- 
+ 
+
+ 
+ Spedizione | | |
+ 
+
+ 
+ Filtro: | T0 | TI=T0+X gg | TC=T0+(X+2) gg
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ | |Data di |
+ 
+
+ 
+ | |consegna |
+ 
+
+ 
+ | |filtro |
+ 
+
+ 
+ | | |
+ 
+
+ 
+ | |X=3 per |
+ 
+
+ 
+ | |spedizioni |
+ 
+
+ 
+ |Giorno di |sulla penisola|Comunicazione di
+ 
+
+ 
+ |invio/esposizione | |chiusura Ticket
+ 
+
+ 
+ |del TKT o data |X=5 per |o aggiornamento
+ 
+
+ 
+ |indicata |spedizioni |sullo stato
+ 
+
+ 
+ |dall'utente a partire |sulle isole |temporale del
+ 
+
+ 
+ |dalla quale egli è | |Ticket
+ 
+
+ 
+ |disponibile a |X=15 per |
+ 
+
+ 
+ |ricevere |spedizioni |
+ 
+
+ 
+ |il filtro |sulle isole |
+ 
+
+ 
+ | |minori e |
+ 
+
+ 
+ | |località |
+ 
+
+ 
+ | |transfronta- |
+ 
+
+ 
+ | |liere |
+ 
+
+ 
+ --------------------------------------------------------------------- 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3.4.1 Ticket con intervento in loco 
+ 
+
+ Per i ticket che prevedono l'intervento in loco l'Operatore e/o il soggetto terzo da questi incaricato assicurano l'intervento alla data concordata da questi con l'utente, nel rispetto delle tempistiche di cui al paragrafo 3.4 
+ 
+
+ L'attività connessa all'intervento in loco, come disposto dal comma 2 dell'articolo 4 del decreto, deve intendersi come attività di manutenzione ordinaria ai sensi di quanto disposto del Decreto ministeriale n. 37 del 2008 e pertanto l'installatore non è tenuto a richiedere una dichiarazione di conformità o una dichiarazione di rispondenza dell'impianto e non deve provvedere al rilascio di alcuna dichiarazione di conformità nè procedere ad aggiornare la documentazione di impianto. 
+ 
+
+ 3.4.2 Ticket con spedizione del filtro 
+ 
+
+ Per i ticket che prevedono la spedizione del filtro l'Operatore e/o il soggetto terzo da questi incaricato assicurano: 
+ 
+
+ 1. Un primo tentativo di consegna all'indirizzo comunicato lasciando avviso in cassetta delle lettere in caso di assenza del destinatario 
+ 
+
+ 2. Un secondo tentativo di consegna all'indirizzo comunicato previo appuntamento telefonico 
+ 
+
+ 3. Un terzo tentativo di consegna ad un secondo recapito nello stesso comune concordato telefonicamente con il destinatario 
+ 
+
+ 4. Un quarto tentativo di consegna al secondo recapito previo appuntamento telefonico 
+ 
+
+ Nel caso 2 i tempi TI sono maggiorati di 1 giorno, nel caso 3 i tempi TI sono maggiorati di 2 gg, nel caso 4 i tempi TI sono maggiorati di 3 gg salvo comunicazione di diversi accordi con l'utente 
+ 
+
+ 3.5 Modalità di chiusura/aggiornamento stato del ticket 
+ 
+
+ Gli operatori e/o il soggetto terzo da loro incaricato devono chiudere/aggiornare lo stato temporale dei ticket tramite restituzione al Gestore di un file dati XML/CSV con i dati di chiusura/aggiornamento nel formato del sub-allegato 1. Per il caso della chiusura dell'intervento devono essere fornite le informazioni relative all'esito dell'intervento. 
+ 
+
+ In alternativa gli operatori e/o il soggetto terzo da loro incaricato possono chiudere/aggiornare lo stato dei ticket utilizzando il portale Web. 
+ 
+
+ 3.6 Mancata risoluzione del malfunzionamento associato al ticket di intervento 
+ 
+
+ 3.6.1 Ticket con intervento in loco 
+ 
+
+ Nel caso in cui non fosse possibile eseguire l'intervento alla data prevista al paragrafo 0 per cause indipendenti dall'Operatore e/o dal soggetto da questi incaricato che non possano essere risolte tramite la rimodulazione delle tempistiche di cui al paragrafo 0, il ticket è comunque chiuso verso il Gestore come intervento non eseguito e le motivazioni sono comunicate secondo quanto previsto al paragrafo 0. 
+ 
+
+ Nel caso in cui, pur avendo eseguito l'intervento previsto, non fosse possibile risolvere il malfunzionamento segnalato, l'Operatore e/o il soggetto da questi incaricato acquisisce dall'utente un verbale di intervento con esito non risolutivo. 
+ 
+
+ In relazione ai casi oggetto del presente paragrafo, il Gestore comunica con cadenza settimanale gli opportuni dati all'Unità di monitoraggio. Il Gestore provvede, altresì, ad informare tempestivamente il Ministero e gli Uffici periferici competenti per le opportune verifiche nelle modalità descritte al paragrafo 0. 
+ 
+
+ 3.6.2 Ticket con spedizione del filtro 
+ 
+
+ In caso di irreperibilità o indisponibilità dell'utente entro i tempi descritti al paragrafo 0, l'Operatore e/o il soggetto da questi incaricato provvede alla chiusura del ticket, segnalandolo come non eseguito. 
+ 
+
+ 3.7 Segnalazioni reiterate 
+ 
+
+ Nei casi in cui un utente abbia già fornito una segnalazione seguita dalla attivazione di un ticket di intervento, il Gestore non attiva ulteriori ticket di intervento. Ove rilevante, il Gestore attiva una verifica attraverso gli Uffici periferici competenti secondo le modalità descritte al paragrafo 0. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 4 Ticket di intervento 
+ 
+
+ Il ticket associato ad un intervento è costituito da tre parti: 
+ 
+
+ - una prima parte riporta le informazioni fornite dal Gestore e rese disponibili dall'utente al Contact Center/sito Web anche ad esito delle risposte al questionario ed ai punti di cui al paragrafo 3.1; 
+ 
+
+ - una seconda parte riporta le informazioni fornite dal Gestore relative all'analisi del disturbo dichiarato dall'utente corredate dai dati, calcolati per la determinazione delle mappe di rischio, relativi al rapporto tra il livello complessivo di segnale DVB-T e quello LTE ed il valore del rapporto tra il livello di segnale DVB-T relativo al canale più alto su quello LTE complessivo; 
+ 
+
+ - una terza parte riporta le informazioni raccolte in sede di intervento fornite dagli Operatori e/o dal soggetto terzo da loro incaricato. 
+ 
+
+ 4.1 Prima parte: dati forniti contestualmente alla attivazione del ticket 
+ 
+
+ Il Gestore, contestualmente alla attivazione del ticket di intervento, fornisce agli Operatori le informazioni descritte nei paragrafi seguenti. 
+ 
+
+ Lo scambio delle informazioni avviene in formato xml o csv attraverso l'apposito portale web e dopo il primo trimestre attraverso un flusso dati nel medesimo formato, secondo lo schema descritto al sub-allegato 1. 
+ 
+
+ Le informazioni fornite sono desunte da quanto comunicato dall'utente al Contact Center / Sito Web e dalle verifiche effettuate dal Contact Center. 
+ 
+
+ 4.1.1 Dati di utente 
+ 
+
+ - Codice identificativo dell'intervento (Codice Intervento) 
+ 
+
+ - Nome 
+ 
+
+ - Cognome 
+ 
+
+ - Indirizzo 
+ 
+
+ - Telefono (preferibilmente cellulare) (Codice Utenza) 
+ 
+
+ - Qualifica: utente/amministratore di condominio (o stabile con meno di 5 appartamenti e impianto di antenna centralizzato) 
+ 
+
+ - Data di prima disponibilità dell'utente 
+ 
+
+ - Eventuale riferimento cui rivolgersi 
+ 
+
+ • Nome 
+ 
+
+ • Cognome 
+ 
+
+ • Telefono (preferibilmente cellulare) 
+ 
+
+ 4.1.2 Informazioni tecniche sul problema segnalato: 
+ 
+
+ - Tipo di impianto: SINGOLO/CENTRALIZZATO 
+ 
+
+ - Impianto canalizzato: SI/NO/NON SO 
+ 
+
+ - Presenza amplificatori: SI/NO/NON SO 
+ 
+
+ - Canali/Programmi ricevuti non correttamente: TUTTI/ELENCO 
+ 
+
+ 4.1.3 Tipologia di intervento 
+ 
+
+ - Intervento in loco/ spedizione filtro 
+ 
+
+ 4.2 Seconda parte: rapporti DVB-T/LTE 
+ 
+
+ - Rapporto tra il livello complessivo del segnale DVB-T e il segnale complessivo LTE 
+ 
+
+ - Rapporto tra il livello del segnale DVB-T relativo al canale più elevato e il segnale LTE complessivo. 
+ 
+
+ 4.3 Terza parte: dati forniti contestualmente alla chiusura del ticket 
+ 
+
+ Le informazioni acquisite dagli Operatori e/o dal soggetto terzo da loro incaricato in fase di gestione degli interventi di risoluzione dei problemi alla ricezione televisiva causati dalla interferenza provocata dai segnali LTE devono essere comunicate al Gestore per la chiusura del ticket di intervento. 
+ 
+
+ Per quanto riguarda gli interventi in loco, al termine dell'intervento l'Operatore e/o il soggetto da questi incaricato deve compilare il verbale di fine lavori in sub-allegato 2 da far sottoscrivere all'utente/amministratore o riferimento concordato telefonicamente. Il verbale è conservato dall'Operatore e/o dal soggetto da questi incaricato e su richiesta deve essere trasmesso al Gestore e al Ministero. 
+ 
+
+ Nei paragrafi seguenti sono specificate le informazioni necessarie per la chiusura dei ticket di intervento, distinte per tipologia di intervento 
+ 
+
+ 4.3.1 Intervento in loco 
+ 
+
+ 4.3.1.1 Informazioni sugli impianti di ricezione 
+ 
+
+ - Tipo di impianto: SINGOLO/CENTRALIZZATO 
+ 
+
+ - Impianto canalizzato: SI/NO 
+ 
+
+ - Presenza amplificatori: SI/NO 
+ 
+
+ - Tipo Amplificatore: Marca/Modello (se presente e riconoscibile) 4.3.1.2 Tipo di intervento 
+ 
+
+ - Inserzione filtro elimina banda 
+ 
+
+ • Modello filtro 
+ 
+
+ - Rimozione moduli di canale 
+ 
+
+ 4.3.1.3 Stato dell'intervento 
+ 
+
+ - Esito dell'intervento: POSITIVO/NON RISOLUTIVO/ NON ASSOCIABILE A LTE/NON ESEGUITO 
+ 
+
+ - Verbale di fine lavori sottoscritto dall'utente: SI/NO 
+ 
+
+ - Note 
+ 
+
+ • Problematiche evidenziate per interventi non risolutivi di
+ 
+
+ malfunzionamenti imputabili all'interferenza da segnali LTE 
+ 
+
+ • Motivazioni per la mancata effettuazione dell'intervento 4.3.2 Spedizione del filtro 
+ 
+
+ Nel caso di spedizione del filtro all'utente, il report di intervento è costituito dalla attestazione di avvenuta consegna, che deve riportare la marca e il modello del filtro consegnato. 
+ 
+
+ 4.4 Dati forniti contestualmente all'aggiornamento dello stato temporale del ticket 
+ 
+
+ Nel caso di aggiornamento dello stato temporale del ticket dovuto alla rimodulazione delle tempistiche di intervento per accordi presi con l'utente dagli Operatori e/o dal soggetto terzo da loro incaricato deve essere comunicata la data indicata dall'utente a partire dalla quale egli è disponibile a ricevere l'intervento in loco/il filtro spedito. 
+ 
+
+ Nel caso di aggiornamento dello stato temporale del ticket dovuto alla rimodulazione delle tempistiche di intervento a causa di specifici problemi riscontrati dagli Operatori e/o dal soggetto terzo da loro incaricato, deve essere comunicata la nuova data prevista per l'esecuzione dell'intervento, assieme alle motivazioni della rimodulazione da esplicitare nel campo "motivazioni" del ticket. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 5 Intervento attraverso gli Uffici periferici 
+ 
+
+ Gli Uffici periferici del Ministero, su segnalazione del Gestore da effettuarsi secondo le modalità descritte al paragrafo 0, ove necessario, realizzano verifiche e campagne di misura in loco. In tali occasioni gli Uffici periferici possono acquisire presso gli utenti informazioni tecniche sulle caratteristiche di realizzazione degli impianti di ricezione. Le informazioni acquisite sono rese disponibili al Gestore secondo il formato descritto nei paragrafi seguenti. 
+ 
+
+ Su specifica richiesta del Gestore nel corso della verifica possono essere acquisite ulteriori informazioni utili alla valutazione della segnalazione e dell'intervento, quali valori di campo misurati, potenze in specifiche sezioni del sistema di ricezione, tipologia e puntamenti delle antenne. 
+ 
+
+ 5.1 Acquisizione dati 
+ 
+
+ 5.1.1 Dati di utente 
+ 
+
+ - Nome cognome 
+ 
+
+ - Indirizzo 
+ 
+
+ - Coordinate geografiche 
+ 
+
+ - Codice identificativo dell'utente 
+ 
+
+ 5.1.2 Codice identificativo dell'intervento Informazioni censuarie - Numero di abitazioni nell'edificio 
+ 
+
+ - Numero di televisori posseduti 
+ 
+
+ - Impianto certificato: SI/NO/NON APPLICABILE 
+ 
+
+ 5.1.3 Informazioni tecniche relative al problema segnalato: 
+ 
+
+ - Tipo di impianto: singolo/centralizzato 
+ 
+
+ - Impianto canalizzato: SI/NO 
+ 
+
+ - Presenza amplificatori: SI/NO 
+ 
+
+ - Numero abitazioni con problemi di ricezione 
+ 
+
+ - Numero di televisori con problemi di ricezione 
+ 
+
+ - Data a partire dalla quale si sono manifestati problemi di ricezione 
+ 
+
+ - Canali/Programmi ricevuti non correttamente: TUTTI/ELENCO 
+ 
+
+ - Apparati soggetti a malfunzionamenti:
+ 
+
+ AMPLIFICATORE/DECODER/TELEVISORE CON RICEVITORE DIGITALE INTEGRATO 
+ 
+
+ - Marca amplificatore (se presente) 
+ 
+
+ - Modello amplificatore (se presente) 
+ 
+
+ - Amplificatore impostato a massimo guadagno (ove applicabile):
+ 
+
+ SI/NO 
+ 
+
+ - Marca ricevitore (decoder/IDTV) 
+ 
+
+ - Modello ricevitore (decoder/IDTV) 
+ 
+
+ 5.1.4 Intervento di tuning dell'amplificatore dopo lo switch off:
+ 
+
+ SI/NO/NON SO 
+ 
+
+ - Tipo di intervento da parte dell'Operatore o del soggetto incaricato: 
+ 
+
+ - Inserzione filtro elimina banda 
+ 
+
+ • Marca filtro 
+ 
+
+ • Modello filtro 
+ 
+
+ - Rimozione moduli di canale 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 6 Statistiche 
+ 
+
+ 6.1 Statistiche per il Ministero e gli Operatori 
+ 
+
+ Il Gestore rende disponibili al Ministero ed agli Operatori le informazioni sulle segnalazioni effettuate dagli utenti e sul processo di gestione dei ticket di intervento sia in forma analitica che aggregata. 
+ 
+
+ I dati disponibili comprendono: 
+ 
+
+ - il numero delle segnalazioni pervenute al Contact Center/Sito Web; 
+ 
+
+ - il numero dei ticket di intervento attivati; 
+ 
+
+ - il numero delle segnalazioni che non hanno originato l'attivazione dei ticket in quanto non rispondenti ai requisiti di cui al paragrafo 3.1; 
+ 
+
+ - il numero di ticket di intervento chiusi. 
+ 
+
+ I dati relativi ai ticket di intervento attivati sono segmentati per operatore e territorio. 
+ 
+
+ Attraverso il sito web è possibile per gli Operatori accedere anche ai dati sui singoli interventi smistati dal Gestore agli operatori e/o al soggetto terzo da loro incaricato visualizzando per ciascun operatore: 
+ 
+
+ - indirizzo; 
+ 
+
+ - tipologia di intervento (intervento in loco/ spedizione filtro); 
+ 
+
+ - valore del rapporto tra il livello complessivo di segnale DVB-T e il segnale LTE calcolati per la determinazione delle mappe di rischio; 
+ 
+
+ - valore del rapporto tra il livello di segnale DVB-T relativo al canale più elevato e il segnale LTE complessivo calcolati per la determinazione delle mappe di rischio; 
+ 
+
+ - valore stimato del segnale LTE generato dall'operatore che accede. 
+ 
+
+ 6.2 Statistiche disponibili al pubblico 
+ 
+
+ Sul Sito Web il Gestore rende disponibili su base regionale: 
+ 
+
+ - il numero delle segnalazioni pervenute al Contact Center/Sito Web 
+ 
+
+ - il numero dei ticket di intervento di mitigazione realizzati. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 7 Gestione delle mappe di rischio 
+ 
+
+ Il Gestore provvede all'aggiornamento delle mappe di rischio in relazione all'attivazione di nuove stazioni radiobase LTE. 
+ 
+
+ Le mappe di rischio identificano le aree del territorio in cui gli impianti di ricezione televisiva sono potenzialmente soggetti ad effetti interferenziali dannosi da parte dei sistemi LTE e sono utilizzate per la discriminazione dell'attendibilità delle segnalazioni come descritto nel paragrafo 0. 
+ 
+
+ Nel tracciare le mappe di rischio il Gestore mantiene l'informazione sulla data di attivazione delle stazioni radiobase LTE da cui dipendono le mappe stesse. Tale informazione ha lo scopo di permettere al Gestore di adottare le modalità di analisi ritenute più opportune per discriminare l'attendibilità delle segnalazioni tardive. 
+ 
+
+ L'accuratezza delle mappe di rischio è correlata a: 
+ 
+
+ - il rapporto tra il numero degli interventi eseguiti non correlabili ai sistemi LTE ed il numero degli interventi totali; 
+ 
+
+ - il rapporto tra il numero di interventi attivati e il numero delle segnalazioni pervenute dalle aree interessate dalla attivazione di stazioni radiobase LTE. 
+ 
+
+ I suddetti indicatori e l'accuratezza attesa delle mappe di rischio sono soggetti alla valutazione dell'Unità di monitoraggio. 
+ 
+
+ Sulla base degli indicatori sopra definiti e delle indicazioni dell'Unità di monitoraggio e del Ministero, il Gestore provvede al progressivo miglioramento dell'accuratezza delle mappe di rischio,
+Sub-allegato 1 : Schema XML per scambio dati su attivazione ticket nel caso di intervento antennista in loco 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ <resultset>
+ 
+
+ <row>
+ 
+
+ <field name="id"></field>
+ 
+
+ <field name="nome"></field>
+ 
+
+ <field name="cognome"></field>
+ 
+
+ <field name="telefono"></field>
+ 
+
+ <field name="data"></field>
+ 
+
+ <field name="motivazioni"></field>
+ 
+
+ <field name="regione"></field>
+ 
+
+ <field name="provincia"></field>
+ 
+
+ <field name="comune"></field>
+ 
+
+ <field name="cap"></field>
+ 
+
+ <field name="indirizzo"></field>
+ 
+
+ <field name="civico"></field>
+ 
+
+ <field name="edificio" xsi:nil="true" />
+ 
+
+ <field name="scala" xsi:nil="true" />
+ 
+
+ <field name="interno" xsi:nil="true" />
+ 
+
+ <field name="tipo"></field>
+ 
+
+ <field name="c_i"></field>
+ 
+
+ <field name="nome_referente"></field>
+ 
+
+ <field name="cognome_referente"></field>
+ 
+
+ <field name="telefono_referente"></field>
+ 
+
+ <field name="tipologia_impianto"></field>
+ 
+
+ <field name="impianto_canalizzato"></field>
+ 
+
+ <field name="amplificatore"></field>
+ 
+
+ <field name="problemi_su_tutti_canali"></field>
+ 
+
+ <field name="problemi_su_alcuni_canali"></field>
+ 
+
+ <field name="canale_1"></field>
+ 
+
+ <field name="canale_2"></field>
+ 
+
+ <field name="canale_3"></field>
+ 
+
+ <field name="tipologia_impianto_A"></field>
+ 
+
+ <field name="impianto_canalizzato_A"></field> <field name="amplificatore_A"></field>
+ 
+
+ <field name="inserzione_filtro"></field>
+ 
+
+ <field name="marca"></field>
+ 
+
+ <field name="modello"></field>
+ 
+
+ <field name="rimozione_filtri"></field>
+ 
+
+ <field name="esito_intervento"></field>
+ 
+
+ <field name="verbale" xsi:nil="true" />
+ 
+
+ <field name="note"></field>
+ 
+
+ </row>
+ 
+
+ <row>
+ 
+
+ <field name="id"></field>
+ 
+
+ <field name="nome"></field>
+ 
+
+ <field name="cognome"></field>
+ 
+
+ <field name="telefono"></field>
+ 
+
+ <field name="data"></field>
+ 
+
+ <field name="motivazioni"></field>
+ 
+
+ <field name="regione"></field>
+ 
+
+ <field name="provincia"></field>
+ 
+
+ <field name="comune"></field>
+ 
+
+ <field name="cap"></field>
+ 
+
+ <field name="indirizzo"></field>
+ 
+
+ <field name="civico"></field>
+ 
+
+ <field name="edificio" xsi:nil="true" />
+ 
+
+ <field name="scala" xsi:nil="true" />
+ 
+
+ <field name="interno" xsi:nil="true" />
+ 
+
+ <field name="tipo"></field>
+ 
+
+ <field name="c_i"></field>
+ 
+
+ <field name="nome_referente"></field>
+ 
+
+ <field name="cognome_referente"></field>
+ 
+
+ <field name="telefono_referente"></field>
+ 
+
+ <field name="tipologia_impianto"></field>
+ 
+
+ <field name="impianto_canalizzato"></field>
+ 
+
+ <field name="amplificatore"></field>
+ 
+
+ <field name="problemi_su_tutti_canali"></field>
+ 
+
+ <field name="problemi_su_alcuni_canali"></field>
+ 
+
+ <field name="canale_1 "></field>
+ 
+
+ <field name="canale_2"></field>
+ 
+
+ <field name="canale_3"></field>
+ 
+
+ <field name="tipologia_impianto_A"></field>
+ 
+
+ <field name="impianto_canalizzato_A"></field> <field name="amplificatore_A"></field>
+ 
+
+ <field name="inserzione_filtro"></field>
+ 
+
+ <field name="marca"></field>
+ 
+
+ <field name="modello"></field>
+ 
+
+ <field name="rimozione_filtri"></field>
+ 
+
+ <field name="esito_intervento"></field>
+ 
+
+ <field name="verbale" xsi:nil="true" />
+ 
+
+ <field name="note"></field>
+ 
+
+ </row>
+ 
+
+ ...
+ 
+
+ </resultset>
+Sub-allegato 2: Verbale di fine lavori 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Generalità utente
+ 
+
+ Nome/Cognome
+ 
+
+ Indirizzo
+ 
+
+ Recapito telefonico
+ 
+
+ Data segnalazione
+ 
+
+ (T0)
+ 
+
+ Data intervento
+ 
+
+ (TI)
+ 
+
+ Intervento su SI  NO 
+ 
+
+ appuntamento(1)
+ 
+
+ 
+ 
+
+ Tipologia impianto CENTRALIZZATO  SINGOLO 
+ 
+
+ di antenna
+ 
+
+ ricevente
+ 
+
+ Sistemi di SI  NO 
+ 
+
+ amplificazione
+ 
+
+ DVB-T
+ 
+
+ Impianto SI  NO 
+ 
+
+ canalizzato
+ 
+
+ Tipologia di INSERIMENTO RIMOZIONE
+ 
+
+ intervento FILTRO MODULI DI CANALE  
+ 
+
+ 
+ 
+
+ Esito POSITIVO  NON RISOLUTIVO  NON ASSOCIABILE A LTE 
+ 
+
+ dell'intervento NON ESEGUITO 
+ 
+
+ Note
+ 
+
+ ................................................................... ................................................................... ...................................................................
+ 
+
+ 
+ 
+
+ Ditta (2)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Firma Operatore Firma Utente
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ------------------------
+ 
+
+ (1) Indicare "SI" se l'intervento è stato posticipato/pianificato su richiesta dell'utente
+ 
+
+ (2) Ragione sociale dell'impresa intervenuta
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+Sub-allegato 3: Modello per la liberatoria da acquisire in caso di consegna del filtro 
+ 
+
+ DICHIARAZIONE LIBERATORIA 
+ 
+
+ 
+ 
+
+ Io sottoscritto .............., residente in ......................, 
+ 
+
+ Via
+ 
+
+ ..............................................................., 
+ 
+
+ premesso che 
+ 
+
+ 
+ 
+
+ • nell'unità immobiliare in cui dimoro la fruizione del servizio
+ 
+
+ televisivo è disturbata da interferenze 
+ 
+
+ • detto disservizio potrebbe essere ritenuto dalla Fondazione Ugo
+ 
+
+ Bordoni (di seguito Gestore) presumibilmente da correlare ai servizi a banda ultralarga mobile nella banda degli 800 MHz; 
+ 
+
+ • che tra gli interventi proposti ho ritenuto di accettare,
+ 
+
+ ritenendolo tecnicamente idoneo e per me più comodo e conveniente, quello consistente nella consegna di un filtro per la mitigazione dei segnali LTE in banda 800 Mhz conforme alla normativa vigente (di seguito filtro) all'indirizzo da me indicato; 
+ 
+
+ • che l'installazione del filtro sull'impianto di antenna
+ 
+
+ televisiva avverrà esclusivamente a mia cura e spese; 
+ 
+
+ Premesso quanto sopra, con la presente io sottoscritto 
+ 
+
+ 
+ 
+
+ dichiaro 
+ 
+
+ 
+ 
+
+ 1) di accettare come tipologia di intervento la consegna del filtro di cui in premessa quale soluzione tecnicamente idonea e per me più comoda e conveniente per l'eliminazione delle interferenze nella ricezione dei canali televisivi; 
+ 
+
+ 2) di provvedere autonomamente all'installazione del filtro nei modi all'occorrenza indicati senza richiedere al Gestore e/o agli Operatori il ristoro degli oneri sostenuti per l'installazione dello stesso; 
+ 
+
+ 3) di accettare la consegna e la cessione a titolo definitivo del filtro previo appuntamento da concordare tra me e le persone all'occorrenza incaricate presso l'unità immobiliare da me comunicata al Gestore, all'indirizzo, nel giorno e nell'orario stabiliti in accordo con le persone incaricate dell'intervento; 
+ 
+
+ 4) di rinunciare al diritto di ricevere in consegna il filtro, nonchè ad ogni relativa richiesta di qualsivoglia natura qualora la consegna medesima risulti impedita dalla irreperibilità mia o dell'incaricato da me individuato oltre le tempistiche di cui al paragrafo 3.4 dell'allegato 1 al decreto; 
+ 
+
+ 5) che con la consegna del filtro ovvero per effetto della rinuncia alla consegna avvenuta secondo quanto stabilito al precedente punto 4), non avrò più nulla a pretendere - a qualsivoglia titolo - relativamente alle interferenze descritte in premessa ed al filtro fornito. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico

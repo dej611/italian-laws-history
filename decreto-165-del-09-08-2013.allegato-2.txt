@@ -1,0 +1,1087 @@
+ALLEGATO 2 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ OGGETTO: Comunicazione dei dati relativi alle stazioni radiobase LTE in banda 800 MHz 
+ 
+
+ 
+ 
+
+ 1 Comunicazione dei dati relativi alle stazioni radiobase LTE in banda 800 MHz 
+ 
+
+ L'allegato descrive le modalità e le tempistiche previste per la comunicazione dei piani di sviluppo e di avvenuta attivazione delle stazioni radiobase per i sistemi LTE in banda 800 MHz. 
+ 
+
+ La disponibilità dello stato di dispiegamento delle reti LTE in banda 800 MHz costituisce un requisito fondamentale per l'identificazione delle mappe di rischio. 
+ 
+
+ 1.1 Dati richiesti 
+ 
+
+ Al fine di condurre in maniera proficua le valutazioni circa il potenziale impatto dell'interferenza generata dai sistemi radiomobili LTE sugli impianti di ricezione televisiva installati a casa degli utenti e tracciare le relative mappe di rischio, è necessario disporre delle informazioni su: 
+ 
+
+ - piani di sviluppo delle stazioni radiobase LTE; 
+ 
+
+ - data di effettiva attivazione delle stazioni radiobase LTE. 
+ 
+
+ I dati richiesti devono essere resi disponibili secondo tempistiche opportune per ottimizzare la predisposizione delle mappe di rischio e conoscere la situazione interferenziale in tempo reale, così da poter fornire un più efficace supporto all'utenza. La definizione delle mappe di rischio prende infatti le mosse dai piani di sviluppo comunicati dagli operatori, considerando attive le stazioni radiobase in essi contenute. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 2 Formato dei dati delle stazioni radiobase 
+ 
+
+ Il formato di riferimento per l'acquisizione dei dati delle stazioni radiobase è quello stabilito dal Decreto 22 luglio 2003, GU n.180 del 05-08-2003, recante "Modalità per l'acquisizione dei dati necessari per la tenuta del catasto delle infrastrutture delle reti radiomobili di comunicazione pubblica". 
+ 
+
+ Il formato in questione è richiamato in Tabella 1 ed è completato da commenti e integrazioni, evidenziati in corsivo, di rilievo per gli scopi del presente documento. Alle informazioni di Tabella 1 si aggiungono le informazioni descrittive dei diagrammi di radiazione, illustrate nel successivo paragrafo 0. L'insieme dei dati descritti in Tabella 1, corredato dei dati sui diagrammi di radiazione (cfr. paragrafo 0) costituisce un record dati, corrispondente ad una singola cella/settore. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | Tabella 1. FORMATO DEI DATI RELATIVI ALLE STAZIONI RADIOBASE |
+ 
+
+ 
+ ---------------------------------------------------------------------
+ 
+
+ 
+ | Nome campo |Tipo 1| Unità | Note |
+ 
+
+ 
+ +==========================+======+==========+======================+
+ 
+
+ 
+ | | | |Campo vuoto Il primo |
+ 
+
+ 
+ | | | |campo deve essere |
+ 
+
+ 
+ | | | |vuoto per permettere |
+ 
+
+ 
+ | | | |l'inserimento |
+ 
+
+ 
+ | | | |autoincrementale del- |
+ 
+
+ 
+ | | | |l'identificativo del |
+ 
+
+ 
+ |ID |I | |record nel database |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Vale 1 se si tratta di|
+ 
+
+ 
+ | | | |un nuovo impianto, 0 |
+ 
+
+ 
+ | | | |per un impianto |
+ 
+
+ 
+ |FLAG_NUOVO |I |--- |preesistente |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Vale 1 se il sito è |
+ 
+
+ 
+ | | | |condiviso con altri |
+ 
+
+ 
+ | | | |operatori, 0 in caso |
+ 
+
+ 
+ |FLAG_COND |I |--- |contrario |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Codice alfanumerico |
+ 
+
+ 
+ | | | |identificativo del |
+ 
+
+ 
+ | | | |sito. Tale codice è |
+ 
+
+ 
+ | | | |ripetuto identico per |
+ 
+
+ 
+ | | | |tutti i settori/celle |
+ 
+
+ 
+ | | | |che costituiscono un |
+ 
+
+ 
+ |CODICE_SITO |C |--- |sito. |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Codice alfanumerico |
+ 
+
+ 
+ |GESTORE |C |--- |indicativo del gestore|
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Denominazione del |
+ 
+
+ 
+ |COMUNE |C |--- |comune |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Codice di Avviamento |
+ 
+
+ 
+ |CAP |C5 |--- |Postale |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Codice ISTAT del |
+ 
+
+ 
+ |CODICE_ISTAT |C6 |--- |Comune |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Indirizzo completo di |
+ 
+
+ 
+ | | | |numero civico, se |
+ 
+
+ 
+ |INDIRIZZO |C |--- |assegnato |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Sigla provinciale (2 |
+ 
+
+ 
+ |PROVINCIA |C |--- |lettere, Roma = RM) |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Geoide di riferimento |
+ 
+
+ 
+ | | | |per le coordinate lat,|
+ 
+
+ 
+ | | | |long ( [valori ammessi|
+ 
+
+ 
+ | | | |RM40, ED50,=testo |
+ 
+
+ 
+ |GEOIDE | | |cancellato] WGS84) |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | |gradi | |
+ 
+
+ 
+ |LONG |I D6 |decimali |Longitudine |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | |gradi | |
+ 
+
+ 
+ |LAT |I D6 |decimali |Latitudine |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Quota sul livello del |
+ 
+
+ 
+ |QUOTA_SLM |I D2 |m |mare del sito |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Numero di settori |
+ 
+
+ 
+ |NUM_SETTORI |I |--- |installati (>0) |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ |FREQUENZA 2(in apice | | |Intesa come banda di |
+ 
+
+ 
+ |cancellato) |I |MHz |frequenza: 800 (LTE) |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Direzione di |
+ 
+
+ 
+ | | | |puntamento, riferita |
+ 
+
+ 
+ |AZIMUT |I |• |al nord geografico |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Il tilt è inteso come|
+ 
+
+ 
+ | | | |valore complessivo del|
+ 
+
+ 
+ | | | |tilt meccanico e del |
+ 
+
+ 
+ | | | |tilt elettrico. Il |
+ 
+
+ 
+ | | | |tilt elettrico non |
+ 
+
+ 
+ | | | |deve essere tenuto in |
+ 
+
+ 
+ | | | |conto, qualora già |
+ 
+
+ 
+ | | | |considerato nel |
+ 
+
+ 
+ | | | |diagramma di |
+ 
+
+ 
+ | | | |radiazione |
+ 
+
+ 
+ | | | |dell'antenna. Nel caso|
+ 
+
+ 
+ | | | |in cui il tilt |
+ 
+
+ 
+ | | | |elettrico sia compreso|
+ 
+
+ 
+ | | | |nel diagramma di |
+ 
+
+ 
+ | | | |radiazione, si indica |
+ 
+
+ 
+ | | | |quindi solo il tilt |
+ 
+
+ 
+ |TILT |I |&#8226 |meccanico |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Questa stringa |
+ 
+
+ 
+ | | | |consente |
+ 
+
+ 
+ | | | |l'identificazione del |
+ 
+
+ 
+ | | | |modello di antenna |
+ 
+
+ 
+ | | | |utilizzato e |
+ 
+
+ 
+ | | | |l'associazione al |
+ 
+
+ 
+ | | | |diagramma di |
+ 
+
+ 
+ | | | |radiazione |
+ 
+
+ 
+ | | | |corrispondente, |
+ 
+
+ 
+ | | | |comunicato in un file |
+ 
+
+ 
+ | | | |separato secondo il |
+ 
+
+ 
+ |MODELLO_ANTENNA |C |--- |formato concordato. |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ |GUADAGNO |I D2 |dBi | |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Altezza del centro |
+ 
+
+ 
+ | | | |radioelettrico |
+ 
+
+ 
+ |ALTEZZA_CENTRO |I D2 |m |dell'antenna |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Somma delle potenze di|
+ 
+
+ 
+ | | | |progetto al connettore|
+ 
+
+ 
+ |POTENZA |I D2 |W |d'antenna 3 |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Trimestre di prevista |
+ 
+
+ 
+ | | | |attivazione della |
+ 
+
+ 
+ | | | |stazione radiobase. |
+ 
+
+ 
+ | | | |La stringa |
+ 
+
+ 
+ | | | |deve riportare |
+ 
+
+ 
+ | | | |l'anno e il trimestre |
+ 
+
+ 
+ | | | |di prevista |
+ 
+
+ 
+ | | | |attivazione separati |
+ 
+
+ 
+ | | | |dal carattere "_" ; |
+ 
+
+ 
+ | | | |lo specifico trimestre|
+ 
+
+ 
+ | | | |nell'arco dell'anno è|
+ 
+
+ 
+ | | | |identificato da una |
+ 
+
+ 
+ | | | |cifra compresa tra 1 e|
+ 
+
+ 
+ |TRIM_PREVISTA_ATTIV |C6 |--- |4 (es. 2013_1). |
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ | | | |Vale 0 per impianti |
+ 
+
+ 
+ | | | |non attivati, 1 per |
+ 
+
+ 
+ | | | |impianti già |
+ 
+
+ 
+ | | | |attivati. Lo stato |
+ 
+
+ 
+ | | | |deve essere impostato |
+ 
+
+ 
+ | | | |di default al valore 0|
+ 
+
+ 
+ | | | |e verrà modificato al|
+ 
+
+ 
+ | | | |momento della |
+ 
+
+ 
+ |STATO |I |- |effettiva attivazione.|
+ 
+
+ 
+ +--------------------------+------+----------+----------------------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 1 I = numero intero, CN = sequenza alfanumerica di N caratteri, DN
+ 
+
+ = numero con N cifre decimali (il separatore decimale deve essere il carattere ".") 
+ 
+
+ 
+ 
+
+ 2.1 Formato dei diagrammi di antenna 
+ 
+
+ I diagrammi di radiazione delle antenne delle stazioni radiobase devono essere forniti secondo il formato testo "msi", che contiene informazioni generali sull'antenna e i diagrammi di radiazione orizzontali e verticali. Il nome del file deve coincidere con la stringa "FILENAME" contenuta nel file stesso e con la stringa riportata al campo MODELLO ANTENNA" del record contenente i dati della stazione radiobase corrispondente. 
+ 
+
+ Il formato "msi" è costituito da un file di testo, la cui struttura complessiva è illustrata in Tabella 2. La label della colonna di sinistra e i dati sono separati da almeno uno spazio. I dati sui diagrammi verticali o orizzontali possono essere separati da almeno uno spazio o da un carattere di tabulazione. 
+ 
+
+ Devono essere presenti 360 valori puntuali (da 0 a 359) per i dati del diagramma orizzontale e 360 valori puntuali (da 0 a 359) per i dati del diagramma verticale. Il valore 0 rappresenta il Nord per il diagramma orizzontale e l'orizzonte per il diagramma verticale. Il guadagno di antenna è espresso in dBd, ma può anche essere espresso in dBi, purchè indicato di seguito al valore del guadagno, separato da esso da almeno uno spazio. Tutti i valori puntuali sono normalizzati rispetto al guadagno massimo, che vale 0. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ===============================================================
+ 
+
+ 
+ | Tabella 2. FORMATO DEI DIAGRAMMI DI ANTENNA |
+ 
+
+ 
+ +-------------------------------------------------------------+
+ 
+
+ 
+ | Label | Commento |
+ 
+
+ 
+ +=========================+===================================+
+ 
+
+ 
+ | |Nome dell'antenna. Il nome |
+ 
+
+ 
+ | |dell'antenna deve coincidere con il|
+ 
+
+ 
+ | |nome stesso del file msi. |
+ 
+
+ 
+ | |Questa stringa consente |
+ 
+
+ 
+ | |l'identificazione |
+ 
+
+ 
+ | |del modello di antenna e del |
+ 
+
+ 
+ | |diagramma di radiazione associato. |
+ 
+
+ 
+ | |Per una corretta associazione di |
+ 
+
+ 
+ | |una stazione radiobase con lo |
+ 
+
+ 
+ | |specifico file di antenna, tale |
+ 
+
+ 
+ | |stringa deve essere riportata nel |
+ 
+
+ 
+ | |campo "MODELLO_ANTENNA" del record |
+ 
+
+ 
+ | |descritto nella precedente Tabella |
+ 
+
+ 
+ |FILENAME |1. |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |MAKE |Costruttore |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |FREQUENCY |Frequenza in MHz |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Angolo di apertura a 3 dB sul piano|
+ 
+
+ 
+ |H_WIDTH |orizzontale |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Angolo di apertura a 3 dB sul piano|
+ 
+
+ 
+ |V_WIDTH |verticale |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |FRONT_TO_BACK |Rapporto avanti-indietro in dB |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Guadagno in dBd; se il guadagno è |
+ 
+
+ 
+ | |riportato in dBi deve essere |
+ 
+
+ 
+ |GAIN |esplicitamente indicato |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |TILT |Tilt elettrico del lobo principale |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |POLARIZATION |Orizzontale, verticale, +45 o -45 |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ |COMMENT |Commenti |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Riga di intestazione che |
+ 
+
+ 
+ |HORIZONTAL 360 |anticipa il diagramma orizzontale |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Diagramma orizzontale fornito a |
+ 
+
+ 
+ | |passi angolari di 1 grado, con le |
+ 
+
+ 
+ | |attenuazioni relative al massimo |
+ 
+
+ 
+ | |guadagno, corrispondente al valore |
+ 
+
+ 
+ | |0. Ogni valore inferiore a 0 è |
+ 
+
+ 
+ | |indicato privo di segno e assunto |
+ 
+
+ 
+ |OH...359 H |come negativo. |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Riga di intestazione che anticipa |
+ 
+
+ 
+ |VERTICAL 360 |il diagramma verticale |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ | |Diagramma verticale fornito a passi|
+ 
+
+ 
+ | |angolari di 1 grado, con le |
+ 
+
+ 
+ | |attenuazioni relative al massimo |
+ 
+
+ 
+ | |guadagno, corrispondente al valore |
+ 
+
+ 
+ | |0. Ogni valore inferiore a 0 è |
+ 
+
+ 
+ | |indicato privo di segno e assunto |
+ 
+
+ 
+ |OH...359 H |come negativo. |
+ 
+
+ 
+ +-------------------------+-----------------------------------+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3 Tempistica per la comunicazione dei dati 
+ 
+
+ 3.1 Dati sulle stazioni radiobase 
+ 
+
+ I dati sulle stazioni radiobase LTE, completi delle relative informazioni sui diagrammi di antenna devono essere forniti secondo le tempistiche indicate nel seguito. 
+ 
+
+ 3.1.1 Piani di sviluppo delle stazioni radiobase 
+ 
+
+ I piani di sviluppo delle stazioni radiobase, completi delle indicazioni sul trimestre di presunta attivazione, devono essere comunicati su base trimestrale, secondo il calendario annuale di Tabella 3. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella 3. TEMPISTICHE PER LA COMUNICAZIONE DEI PIANI DI SVILUPPO 
+ 
+ 
+ Scadenza Comunicazione attesa 
+ 
+
+ 
+ 28 febbraio Piani di sviluppo e dati delle stazioni radiobase per il trimestre aprile-giugno (II trimestre) 
+ 
+
+ 
+ 31 maggio Piani di sviluppo e dati delle stazioni radiobase per il trimestre luglio-settembre (III trimestre) 
+ 
+
+ 
+ 31 agosto Piani di sviluppo e dati delle stazioni radiobase per il trimestre ottobre-dicembre (IV trimestre) 
+ 
+
+ 
+ 30 novembre Piani di sviluppo e dati delle stazioni radiobase per il trimestre gennaio-marzo (I trimestre) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ I formati di riferimento per ciascun settore/cella della stazione radiobase LTE sono quelli di Tabella 1 e Tabella 2. 
+ 
+
+ 3.1.2 Integrazione e aggiornamento dei dati 
+ 
+
+ Eventuali integrazioni dei piani di attivazione e/o aggiornamenti dei dati delle stazioni radiobase incluse nei piani di sviluppo comunicati devono essere forniti con un anticipo non inferiore a 7 giorni rispetto alla data di attivazione delle stazioni radiobase stesse. 
+ 
+
+ 3.1.3 Comunicazione di attivazione delle stazioni radiobase 
+ 
+
+ La data di effettiva attivazione delle stazioni radiobase contenute nei piani di accensione, deve essere comunicata contestualmente all'avvenuta accensione, entro le ore 22 della giornata di attivazione. 
+ 
+
+ 4 Modalità di comunicazione dei dati 
+ 
+
+ 4.1. Comunicazione dei dati delle stazioni radiobase 
+ 
+
+ 4.1.1 Fase di start-up 
+ 
+
+ Nella prima fase di attivazione del presente decreto e comunque non oltre il primo trimestre del 2013, i piani di sviluppo e i dati delle stazioni radiobase, ivi compresi eventuali aggiornamenti, sono comunicati via e-mail alla persona di riferimento indicata dal Gestore. I dati possono essere protetti da password, resa nota alla medesima persona attraverso un diverso canale di comunicazione (es.
+ 
+
+ SMS); la lunghezza della password non deve superare i 15 caratteri. 
+ 
+
+ Il formato dei dati è quello descritto al precedente capitolo 0. 
+ 
+
+ I dati relativi alle stazioni radiobase devono essere trasmessi in un file in formato MS Excel ovvero in formato testuale "csv" con campi separati dal carattere ";". Ciascuna riga del file costituisce un record dati, i cui campi sono quelli di Tabella 1 e corrisponde ad una singola cella/settore. A ciascuna cella/settore è associata l'informazione sui diagrammi di radiazione delle antenne, contenuta nel relativo file testuale in formato "msi" (cfr. paragrafo 0). 
+ 
+
+ 4.1.2 Comunicazione dei dati a regime 
+ 
+
+ Entro il 31 marzo 2013, i piani di attivazione e i dati delle stazioni radiobase sono comunicati attraverso un portale web dedicato. L'accesso al portale da parte di ciascun operatore è protetto da password e avviene in modalità https con certificati SSL. 
+ 
+
+ I dati relativi alle stazioni radiobase sono comunicati in formato "csv"; le specifiche per il formato di scambio dei dati sono fornite al sub-allegato A. I dati sui diagrammi di radiazione sono forniti in formato "msi" e trasferiti tramite protocollo FTP. Le informazioni relative a ciascun settore/cella delle stazioni radiobase LTE sono quelle descritte in Tabella 1 e in Tabella 2. 
+ 
+
+ Il portale web è dotato di funzionalità che consentono l'inserimento dei dati di nuove stazioni radiobase o la modifica dei dati di stazioni radiobase già presenti, nel rispetto delle tempistiche descritte al precedente capitolo 0. 
+ 
+
+ 4.1.3 Comunicazione della data di attivazione delle stazioni radiobase 
+ 
+
+ La comunicazione della data di effettiva attivazione di una stazione radiobase è effettuata dagli operatori attraverso un portale web dedicato, dove sono stati preventivamente resi disponibili a ciascun operatore i dati già comunicati sui piani di attivazione e i dati delle stazioni radiobase LTE. L'accesso al portale è protetto da password. 
+ 
+
+ Le tempistiche di comunicazione della data di attivazione delle stazioni radiobase devono avvenire nel rispetto di quanto descritto al capitolo 0. 
+ 
+
+ L'accesso alla pagina web è protetto da password e non sono ammesse azioni differenti dalla comunicazione di attivazione delle stazioni radiobase. 
+ 
+
+ Nella prima fase di attivazione del presente decreto e comunque non oltre il primo trimestre del 2013, la data di attivazione delle stazioni radiobase è comunicata via e-mail alla già citata persona di riferimento indicata dal Gestore. 
+ 
+
+ ------------------------------------------------------------------- 
+ 
+
+ 5 Confidenzialità dei dati 
+ 
+
+ I piani di attivazione e i dati delle stazioni radiobase sono utilizzati allo scopo di tracciare le mappe di rischio attraverso le opportune valutazioni previsionali. 
+ 
+
+ I dati comunicati da ciascun operatore radiomobile non sono resi accessibili ad alcun altro operatore. 
+ 
+
+ Ciò viene garantito attraverso opportuni accordi di riservatezza tra gli Operatori e il Gestore e il ricorso ad adeguate misure di protezione dei dati sui server. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Sub-allegato A
+ 
+
+ Formato csv per i dati delle stazioni radiobase
+ 
+
+ "id";"fiag_nuovo";"fiag_cond";"codice_sito";"gestore";"comune";"cap
+ 
+
+ ";"codice istat";"indirizzo";"provincia";"geoide";"lat";"long";"quota _slm";"numero settori";"frequenza";"azimuth";"tilt";"modello_antenna"
+ 
+
+ ;"guadagno";"altezza_centro";"potenza";"trimestre_attivazione";"stato
+ 
+
+ "
