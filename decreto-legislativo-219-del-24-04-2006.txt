@@ -219,6 +219,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ b-bis) sostanza attiva: qualsiasi sostanza o miscela di sostanze destinata a essere utilizzata nella produzione di un medicinale e che, se impiegata nella produzione di quest'ultimo, diventa un principio attivo di detto medicinale inteso a esercitare un'azione farmacologica, immunologica o metabolica al fine di ripristinare, correggere o modificare funzioni fisiologiche, ovvero a stabilire una diagnosi medica; 
+ 
+
+ 
+ 
+
+ b-ter) eccipiente: qualsiasi componente di un medicinale diverso dalla sostanza attiva e dal materiale di imballaggio;
+
+ ))
+
+ 
+
+ 
  c) medicinale immunologico: ogni medicinale costituito da vaccini, tossine, sieri o allergeni. I vaccini, tossine o sieri comprendono in particolare: gli agenti impiegati allo scopo di indurre una immunità attiva o un'immunità passiva e gli agenti impiegati allo scopo di diagnosticare lo stato d'immunità. Gli allergeni sono medicinali che hanno lo scopo di individuare o indurre una modificazione acquisita specifica della risposta immunitaria verso un agente allergizzante; 
  
 
@@ -226,12 +242,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ c-bis) medicinale per terapia avanzata: un prodotto quale definito all'articolo 2 del regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate. 
+ 
 
- c-bis) medicinale per terapia avanzata: un prodotto quale definito all'articolo 2 del regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate.
-
- ))
-
+ 
  
 
  
@@ -326,7 +340,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- s) obbligo di servizio pubblico: l'obbligo per i grossisti di garantire in permanenza un assortimento di medicinali sufficiente a rispondere alle esigenze di un territorio geograficamente determinato e di provvedere alla consegna delle forniture richieste in tempi brevissimi su tutto il territorio in questione; 
+ ((
+
+ r-bis) brokeraggio di medicinali: qualsiasi attività in relazione alla vendita o all'acquisto di medicinali, ad eccezione della distribuzione all'ingrosso, che non include la detenzione e che consiste nella negoziazione da posizione indipendente e per conto di un'altra persona fisica o giuridica;
+
+ ))
+
+ 
+
+ 
+ s) obbligo di servizio pubblico: l'obbligo per i grossisti di garantire in permanenza un assortimento di medicinali sufficiente a rispondere alle esigenze di un territorio geograficamente determinato 
+ ((, nei limiti di cui i predetti medicinali siano forniti dai titolari di AIC,))
+
+ e di provvedere alla consegna delle forniture richieste in tempi brevissimi su tutto il territorio in questione 
+ ((; a tal fine, non possono essere sottratti, alla distribuzione e alla vendita per il territorio nazionale, i medicinali per i quali sono stati adottati specifici provvedimenti al fine di prevenire o limitare stati di carenza o indisponibilità, anche temporanee, sul mercato o in assenza di valide alternative terapeutiche))
+
+ ; 
  
 
  
@@ -451,6 +480,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ nn-bis) medicinale falsificato: fatta eccezione per i prodotti con difetti di qualità non intenzionali e delle violazioni dei diritti di proprietà intellettuale, qualsiasi medicinale che comporta una falsa rappresentazione rispetto a: 
+ 
+
+ 1) la sua identità, compresi l'imballaggio e l'etichettatura, la denominazione o la composizione, in relazione a uno qualsiasi dei componenti, compresi gli eccipienti, e il relativo dosaggio; 
+ 
+
+ 2) la sua origine, compresi il produttore, il paese di produzione, il paese di origine e il titolare dell'autorizzazione all'immissione in commercio; 
+ 
+
+ 3) la sua tracciabilità, compresi i registri e i documenti relativi ai canali di distribuzione utilizzati;
+ 
+
+ ))
+
  
 
  
