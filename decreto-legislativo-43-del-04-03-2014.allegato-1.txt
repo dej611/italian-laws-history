@@ -1,0 +1,295 @@
+Allegato 
+ 
+
+ 
+ 
+
+ ALLEGATO III bis 
+ 
+
+ (allegato direttiva 2011/76/UE) 
+ 
+
+ REQUISITI MINIMI PER L'IMPOSIZIONE DI UN ONERE PER I COSTI ESTERNI 
+ 
+
+ Il presente allegato stabilisce i requisiti minimi applicabili all'imposizione di un onere per i costi esterni e al calcolo dell'importo massimo dell'onere medio ponderato per i costi esterni. 
+ 
+
+ 
+ 
+
+ 1. Tratti della rete stradale interessati 
+ 
+
+ Devono essere definiti con precisione il tratto o i tratti della rete stradale del territorio nazionale da assoggettarsi ad un onere per i costi esterni. 
+ 
+
+ Quando si impone un onere per i costi esterni solo su uno o più tratti della rete stradale rientranti nell'ambito di applicazione del presente provvedimento, il tratto o i tratti sono individuati previa valutazione volta a stabilire che: 
+ 
+
+ - l'uso di autoveicoli sulle strade nelle quali viene imposto l'onere in questione non provochi danni ambientali maggiori di quelli generati mediamente su altri tratti delle rete stradale rientranti nell'ambito di applicazione del presente provvedimento che non sono soggetti all'onere per i costi esterni, o 
+ 
+
+ - l'imposizione di un onere per i costi esterni su altri tratti della rete stradale rientranti nell'ambito di applicazione del presente provvedimento non abbia impatti negativi sull'ambiente o la sicurezza stradale, o l'imposizione e la riscossione di un onere per i costi esterni su questi tratti non comporti costi sproporzionati. 
+ 
+
+ 
+ 
+
+ 2. Autoveicoli, strade e periodi interessati 
+ 
+
+ Devono essere notificati alla Commissione europea la classificazione dei veicoli in base alla quale sono differenziati i pedaggi, nonchè l'ubicazione esatta delle strade soggette a oneri per i costi esterni più elevati, nel seguito definite &laquo;strade suburbane (comprese le autostrade)&raquo; e delle strade soggette a oneri per i costi esterni più bassi, nel seguito definite &laquo;strade interurbane (comprese le autostrade)&raquo;. 
+ 
+
+ Devono essere notificati alla Commissione europea anche i periodi esatti che corrispondono al periodo notturno nel corso del quale un onere più elevato per i costi esterni correlati al rumore può essere imposto per tenere conto dell'aumento del rumore, nel caso siano previste maggiorazioni per costi esterni da rumore nel periodo notturno. 
+ 
+
+ La classificazione delle strade in strade suburbane (comprese le autostrade) e strade interurbane (comprese le autostrade) e la definizione dei periodi di tempo si fondano su criteri oggettivi in relazione ai livelli di esposizione delle strade e della loro vicinanza all'inquinamento, tra cui la densità demografica, e la frequenza di picchi di inquinamento in un anno misurata conformemente al presente provvedimento. I criteri utilizzati devono essere riportati nella comunicazione alla Commissione europea. 
+ 
+
+ 
+ 
+
+ 3. Importo dell'onere 
+ 
+
+ Per ogni classe di veicolo, tipo di strada e periodo di tempo, deve essere determinato un unico importo specifico. La struttura tariffaria che ne risulta, compresi l'inizio e la fine di ciascun periodo notturno se l'onere per i costi esterni include il costo dell'inquinamento acustico, è trasparente, resa pubblica e applicabile a tutti gli utenti alle stesse condizioni, e deve essere pubblicata tempestivamente prima della sua applicazione. Tutti i parametri, dati e altre informazioni necessarie a capire come sono calcolati i vari elementi dei costi esterni sono resi pubblici. 
+ 
+
+ Nel fissare l'importo degli oneri, si deve tenere conto del principio della tariffazione efficace, vale a dire di un prezzo vicino al costo sociale marginale di utilizzo del veicolo soggetto all'onere. 
+ 
+
+ Prima di stabilire tale importo, si deve tenere conto del rischio di deviazione del traffico e di eventuali effetti negativi sulla sicurezza stradale, l'ambiente e la congestione e delle soluzioni che consentono di attenuare questi rischi. 
+ 
+
+ Occorre controllare l'efficacia del sistema di imposizione per ridurre il danno ambientale derivante dal trasporto stradale. Se necessario, sono adeguati ogni due anni la struttura tariffaria e l'importo specifico dell'onere stabiliti per una determinata classe di veicoli, tipo di strada e periodo in funzione dell'evoluzione dell'offerta e della domanda di trasporto. 
+ 
+
+ 
+ 
+
+ 4. Elementi di costo esterno 
+ 
+
+ 4.1. Costo dell'inquinamento atmosferico dovuto al traffico 
+ 
+
+ Quando si intende includere tutto o parte del costo dell'inquinamento atmosferico dovuto al traffico nell'onere per i costi esterni, il costo imputabile dell'inquinamento atmosferico dovuto al traffico deve essere calcolato applicando la formula seguente o i valori unitari indicati nella tabella 1 dell'allegato III ter se questi ultimi sono inferiori: 
+ 
+
+ 
+ 
+
+ PCV ij = ∑k EFik x PCjk 
+ 
+
+ 
+ 
+
+ in cui 
+ 
+
+ - PCVij = il costo dell'inquinamento atmosferico provocato dai veicoli di classe i su un tipo di strada j (euro/veicolo.chilometro) - EFik = il fattore di emissione dell'inquinante k per il veicolo di classe i (grammo/veicolo.chilometro) 
+ 
+
+ - PCjk = il costo monetario dell'inquinante k per il tipo di strada j (euro/grammo). 
+ 
+
+ I fattori di emissione devono essere gli stessi di quelli utilizzati per elaborare gli inventari nazionali di emissione previsti all'articolo 4 del decreto legislativo 21 maggio 2004 n. 171 e successive modifiche e integrazioni in attuazione della direttiva 2001/81/CE, relativa ai limiti nazionali di emissione di alcuni inquinanti atmosferici. Il costo monetario degli inquinanti è stimato, tenendo conto delle attuali conoscenze. 
+ 
+
+ Possono essere adottati altri metodi la cui validità è stata dimostrata scientificamente per calcolare il valore del costo dell'inquinamento atmosferico utilizzando dei dati derivanti dalla misurazione degli inquinanti atmosferici e il valore locale del costo monetario degli inquinanti atmosferici, a condizione che i risultati non siano superiori ai valori unitari di cui alla tabella 1 dell'allegato III ter per qualsiasi classe di veicolo. 
+ 
+
+ 
+ 
+
+ 4.2. Costo dell'inquinamento acustico dovuto al traffico 
+ 
+
+ Quando si intende includere tutto o parte del costo dell'inquinamento acustico dovuto al traffico nell'onere per i costi esterni, il costo imputabile dell'inquinamento acustico dovuto al traffico deve essere calcolato applicando la formula seguente o i valori unitari indicati nella tabella 2 dell'allegato III ter se questi ultimi sono inferiori: 
+ 
+
+ 
+ 
+
+ NCVj (giornaliero) = e x ∑k NCjk x POPk/WADT 
+ 
+
+ 
+ 
+
+ NCVj (giorno) = a x NCVj 
+ 
+
+ 
+ 
+
+ NCVj (notte) = b x NCVj 
+ 
+
+ 
+ 
+
+ in cui 
+ 
+
+ -NCVj = il costo dell'inquinamento acustico provocato da un autoveicolo pesante su un tipo di strada j (euro/veicolo.chilometro) - NCjk = il costo dell'inquinamento acustico per persona esposta su una strada di tipo j al livello di rumore k (euro/persona) 
+ 
+
+ - POPk = la popolazione esposta al livello di rumore giornaliero k per chilometro (persona/chilometro) 
+ 
+
+ - WADT = il traffico medio giornaliero ponderato(in equivalente automobile) 
+ 
+
+ - a e b sono fattori di ponderazione da determinarsi in maniera tale che l'onere medio ponderato per l'inquinamento acustico per veicolo chilometro che ne risulta non sia superiore a NCVj (giornaliero). 
+ 
+
+ L'inquinamento acustico dovuto al traffico è riferito all'impatto sui livelli di rumore misurato vicino al punto di esposizione e dietro le barriere antirumore, ove esistano. 
+ 
+
+ La popolazione esposta al livello di rumore k è stabilita in base alle mappe acustiche strategiche a norma dell'articolo 3 del decreto legislativo 19 agosto 2005 n. 194 e successive modifiche e integrazioni, in attuazione della direttiva 2002/49/CE relativa alla determinazione e alla gestione del rumore ambientale. 
+ 
+
+ Il costo per persona esposta al livello di rumore k è stimato tenendo conto delle attuali conoscenze 
+ 
+
+ Al traffico giornaliero medio ponderato si applica un fattore di equivalenza "e" uguale o inferiore a 4 tra autoveicoli pesanti e automobili. 
+ 
+
+ Possono essere adottati altri metodi la cui validità è stata dimostrata scientificamente per calcolare il valore dei costi legati al rumore a condizione che i risultati non siano superiori ai valori unitari di cui alla tabella 2 dell'allegato III ter. 
+ 
+
+ Possono essere stabiliti oneri differenziati per l'inquinamento acustico volti a premiare l'uso di veicoli meno rumorosi a condizione che i veicoli stranieri non risultino discriminati. Qualora siano introdotti oneri differenziati, gli oneri per la categoria di veicoli più rumorosa non possono essere superiori ai valori unitari di cui alla tabella 2 dell'allegato III ter e a quattro volte l'onere per l'inquinamento acustico applicabile al veicolo meno rumoroso. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ALLEGATO III ter 
+ 
+
+ (allegato alla direttiva 2011/76/UE) 
+ 
+
+ IMPORTO MASSIMO DELL'ONERE MEDIO PONDERATO PER I COSTI ESTERNI 
+ 
+
+ 
+ 
+
+ Il presente allegato definisce i parametri da utilizzare per il calcolo dell'importo massimo dell'onere medio ponderato per i costi esterni. 
+ 
+
+ 
+ 
+
+ 1. Costo massimo dell'inquinamento atmosferico dovuto al traffico 
+ 
+
+ 
+ 
+
+ Tabella 1: Costo imputabile massimo dell'inquinamento atmosferico 
+ 
+ 
+ Centesimi/veicolo.chilometro Strade suburbane (comprese le autostrade) Strade interurbane (comprese le autostrade) 
+ 
+
+ 
+ EURO 0 16 12 
+ 
+
+ 
+ EURO I 11 8 
+ 
+
+ 
+ EURO II 9 7 
+ 
+
+ 
+ EURO III 7 6 
+ 
+
+ 
+ EURO IV 4 3 
+ 
+
+ 
+ EURO V 3 2 
+ 
+
+ 
+ EURO VI Dopo il 31 dicembre 2017 0 2 0 1 
+ 
+
+ 
+ Meno inquinanti di EURO VI 0 0 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ I valori della tabella 1 possono essere moltiplicati per 2 al massimo nelle zone di montagna nella misura in cui la pendenza delle strade, l'altitudine o gli sbalzi di temperatura lo giustifichino. 
+ 
+
+ 
+ 
+
+ 2. Costo massimo dell'inquinamento acustico dovuto al traffico 
+ 
+
+ 
+ 
+
+ Tabella 2: Costo imputabile massimo dell'inquinamento acustico 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Centesimi/veicolo.chilometro Giorno Notte 
+ 
+
+ 
+ Strade suburbane (comprese le autostrade) 1,1 2 
+ 
+
+ 
+ Strade interurbane (comprese le autostrade) 0,2 0,3 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ I valori riportati nella tabella 2 possono essere moltiplicati per 2 al massimo nelle zone di montagna nella misura in cui la pendenza delle strade, gli sbalzi di temperatura o 1' "effetto anfiteatro" lo giustifichino.
