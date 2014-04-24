@@ -352,6 +352,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((Visto il decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, istitutivo dell'IVASS, Istituto per la vigilanza sulle assicurazioni, succeduto all'ISVAP in tutti i poteri, funzioni e competenze;))
+
+ 
+
+ 
  
  
  Vista la direttiva 2002/92/CE del Parlamento europeo e del Consiglio, del 9 dicembre 2002, sull'intermediazione assicurativa;
@@ -475,9 +480,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  g-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
@@ -496,11 +498,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
  
 
- 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010;
+ 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
  
 
- ))
-
+ 
  
 
  
@@ -614,17 +615,36 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario; 
+ aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista 
+ ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
+
+ ((...))
+
+ ; 
  
 
  
  
 
  
- bb) impresa di partecipazione assicurativa mista: una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario della vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario, semprechè almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
+ bb) impresa di partecipazione assicurativa mista 
+ ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
+
+ : una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista 
+ ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
+
+ ((...))
+
+ , semprechè almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
  
 
  
+ ((
+
+ bb-bis) impresa di partecipazione finanziaria mista: un'impresa di cui all'articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142;
+
+ ))
+
  
 
  
@@ -658,20 +678,31 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc); 
  
 
- 3) un'impresa di investimento o un ente finanziario ai sensi dell'articolo 4, paragrafo 1, punto 1), della direttiva 2004/39/CE; 
+ 3) un'impresa di investimento 
+ ((...))
+
+ ai sensi dell'articolo 
+ ((4, n. 2), del regolamento del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013))
+
+ ; 
  
 
- 4) un'impresa di partecipazione finanziaria mista ai sensi dell'articolo 2, punto 15), della direttiva 2002/87/CE; 
+ 4) un'impresa di partecipazione finanziaria mista 
+ ((ai sensi dell'articolo 1, comma 1, lettera bb-bis);))
+
+ ; 
  
 
  
  
 
  
- dd) ISVAP: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
- 
+ ((
 
- 
+ dd) ISVAP o IVASS: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo a cui è succeduto l'IVASS, Istituto per la vigilanza sulle assicurazioni, ai sensi dell'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012 n. 135.
+
+ ))
+
  
 
  

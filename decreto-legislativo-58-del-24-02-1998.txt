@@ -86,10 +86,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) "ISVAP": l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
- 
+ ((
 
- 
+ d) 'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni;
+
+ ))
+
  
 
  
@@ -146,89 +148,115 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i) "società di investimento a capitale variabile" (SICAV): la società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta al pubblico di proprie azioni; 
+ ((
+
+ i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi;
+
+ ))
+
+ 
+
+ 
+ ((
+
+ 
+ j) 'fondo comune di investimentò: l'Oicr costituito in forma di patrimonio autonomo, suddiviso in quote, istituito e gestito da un gestore; 
  
 
  
  
 
  
- j) "fondo comune di investimento": il patrimonio autonomo raccolto, mediante una o più emissione di quote, tra una pluralità di investitori con la finalità di investire lo stesso sulla base di una predeterminata politica di investimento; suddiviso in quote di pertinenza di una pluralità di partecipanti; gestito in monte, nell'interesse dei partecipanti e in autonomia dai medesimi; 
+ k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; 
  
 
  
  
 
  
- k) "fondo aperto": il fondo comune di investimento i cui partecipanti hanno diritto di chiedere, in qualsiasi tempo, il rimborso delle quote secondo le modalità previste dalle regole di funzionamento del fondo; 
+ k-bis) 'Oicr apertò: l'Oicr i cui partecipanti hanno il diritto di chiedere il rimborso delle quote o azioni a valere sul patrimonio dello stesso, secondo le modalità e con la frequenza previste dal regolamento, dallo statuto e dalla documentazione d'offerta dell'Oicr; 
+ 
+
+ k-ter)'Oicr chiusò: l'Oicr diverso da quello aperto; 
  
 
  
  
 
  
- l) "fondo chiuso": il fondo comune di investimento in cui il diritto al rimborso delle quote viene riconosciuto ai partecipanti solo a scadenze predeterminate; 
+ l) 'Oicr italianì: i fondi comuni d'investimento, le Sicav e le Sicaf; 
  
 
  
  
 
  
- m) "organismi di investimento collettivo del risparmio" (OICR): i fondi comuni di investimento e le SICAV; 
+ m) 'Organismi di investimento collettivo in valori mobiliari italianì (OICVM italiani): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE; 
  
 
  
  
 
  
- m-bis) 'OICR armonizzatì: gli OICR rientranti nell'ambito di applicazione della direttiva 2009/65/CE e delle relative disposizioni di attuazione; 
+ m-bis) 'Organismi di investimento collettivo in valori mobiliari Uè (OICVM UE): gli Oicr rientranti nell'ambito di applicazione della direttiva 2009/65/CE, costituiti in uno Stato dell'UE diverso dall'Italia; 
  
 
  
  
 
  
- m-ter) 'OICR comunitarì: gli OICR costituiti in uno Stato dell'UE diverso dall'Italia; 
+ m-ter) 'Oicr alternativo italianò (FIA italiano): il fondo comune di investimento, la Sicav e la Sicaf rientranti nell'ambito di applicazione della direttiva 2011/61/UE; 
+ 
+
+ m-quater)'FIA italiano riservatò: il FIA italiano la cui partecipazione è riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
+ 
+
+ m-quinquies) 'Oicr alternativi UE (FIA UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato dell'UE diverso dall'Italia; 
+ 
+
+ m-sexies) 'Oicr alternativi non UE (FIA non UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato non appartenente all'UE;))
+ 
+
  
 
  
  
-
- 
- m-quater) 'OICR extracomunitarì: gli OICR costituiti in uno Stato non appartenente all'UE; 
+ ((m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
  
 
- 
- 
-
- 
- m-quinquies) 'OICR feeder': l'OICR che investe le proprie attività totalmente o in prevalenza nell'OICR master; 
+ m-octies) 'fondo europeo per l'imprenditoria socialè (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
  
 
- 
- 
-
- 
- m-sexies) 'OICR master': l'OICR nel quale uno o più OICR feeder investono totalmente o in prevalenza le proprie attività; 
+ m-novies) 'Oicr feeder': l'Oicr che investe le proprie attività totalmente o in prevalenza nell'Oicr master; 
  
 
+ m-decies) 'Oicr master': l'Oicr nel quale uno o più Oicrfeeder investono totalmente o in prevalenza le proprie attività; 
  
+
+ m-undecies) 'investitori professionalì: i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; 
+ 
+
+ m-duodecies) 'investitori al dettagliò: gli investitori che non sono investitori professionali;))
  
 
  
- n) "gestione collettiva del risparmio": il servizio che si realizza attraverso: 
- 
-
- 1) la promozione, istituzione e organizzazione di fondi comuni d'investimento e l'amministrazione dei rapporti con i partecipanti; 
- 
-
- 2) la gestione del patrimonio di OICR, di propria o altrui istituzione, mediante l'investimento avente ad oggetto strumenti finanziari, crediti, o altri beni mobili o immobili; 
- 
-
- 2-bis) la commercializzazione di quote o azioni di OICR propri; 
- 
 
  
+ ((
+
+ n) 'gestione collettiva del risparmiò: il servizio che si realizza attraverso la gestione di Oicr e dei relativi rischi;
+
+ ))
+
  
 
  
@@ -239,56 +267,59 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- o-bis) "società di gestione armonizzata": la società con sede legale e direzione generale in uno Stato membro diverso dall'Italia, autorizzata ai sensi della direttiva in materia di organismi di investimento collettivo, a prestare il servizio di gestione collettiva del risparmio; 
+ ((
+
+ 
+ o-bis) 'società di gestione Uè: la società autorizzata ai sensi della direttiva 2009/65/CE in uno Stato dell'UE diverso dall'Italia, che esercita l'attività di gestione di uno o più OICVM; 
  
 
  
  
 
  
- p) "società promotrice": la SGR che svolge l'attività indicata nella lettera n), numero 1); 
+ p) 'gestore di FIA Uè (GEFIA UE): la società autorizzata ai sensi della direttiva 2011/61/UE in uno Stato dell'UE diverso dall'Italia, che esercita l'attività di gestione di uno o più FIA; 
  
 
  
  
 
  
- q) "gestore": la SGR che svolge l'attività indicata nella lettera n), numero 2); 
+ q) 'gestore di FIA non Uè (GEFIA non UE): la società autorizzata ai sensi della direttiva 2011/61/UE con sede legale in uno Stato non appartenente all'UE, che esercita l'attività di gestione di uno o più FIA; 
  
 
  
  
 
  
- q-bis) 'gestore dell'OICR master': la società di gestione che svolge l'attività di gestione dell'OICR master o la SICAV master; 
+ q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA e il gestore di EuSEF. 
+ 
+
+ q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
+ 
+
+ q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder è unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
+ 
+
+ q-quinquies) 'quote e azioni di Oicr': le quote dei fondi comuni di investimento, le azioni di Sicav e le azioni e altri strumenti finanziari partecipativi di Sicaf; 
  
 
  
  
 
- 
- q-ter) 'gestore dell'OICR feeder': la società di gestione che svolge l'attività di gestione dell'OICR feeder o la SICAV feeder; 
+ r) 'soggetti abilitatì: le Sim, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 106 del Testo Unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento;
+
+ ))
+
  
 
  
- 
+ r-bis) 'Stato di origine della 
+ ((società di gestione UE))
 
- 
- q-quater) 'depositario dell'OICR master o dell'OICR feeder': la banca depositaria dell'OICR master o dell'OICR feeder o, se l'OICR master o l'OICR feeder sono OICR comunitari o extracomunitari, il soggetto autorizzato nel Paese di origine a svolgere i compiti della banca depositaria; 
- 
+ ': lo Stato dell'UE dove la 
+ ((società di gestione UE))
 
- 
- 
-
- 
- r) "soggetti abilitati": le SIM, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le SGR, le società di gestione armonizzate con succursale in Italia, le SICAV nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
- 
-
- 
- 
-
- 
- r-bis) 'Stato di origine della società di gestione armonizzatà: lo Stato dell'UE dove la società di gestione armonizzata ha la propria sede legale e direzione generale; 
+ ha la propria sede legale e direzione generale; 
  
 
  
@@ -370,8 +401,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((w-quinquies) "controparti centrali": i soggetti indicati nell'articolo 2, punto 1), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni))
+ w-quinquies) "controparti centrali": i soggetti indicati nell'articolo 2, punto 1), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni. 
+ 
 
+ 
  
 
  
