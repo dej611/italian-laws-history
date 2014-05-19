@@ -53,19 +53,35 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
- 
- 1. Al decreto legislativo 6 settembre 2001, n. 368, sono apportate le seguenti modificazioni: 
- 
 
  
  
 
+ 1.
+ (( Considerata la perdurante crisi occupazionale e l'incertezza dell'attuale quadro economico nel quale le imprese devono operare, nelle more dell'adozione di un testo unico semplificato della disciplina dei rapporti di lavoro con la previsione in via sperimentale del contratto a tempo indeterminato a protezione crescente e salva l'attuale articolazione delle tipologie di contratti di lavoro, vista la direttiva 1999/70/CE del Consiglio, del 28 giugno 1999, al decreto legislativo 6 settembre 2001, n. 368, sono apportate le seguenti modificazioni:))
+
  
+ 
+
  a) all'articolo 1: 
  
 
- 1) al comma 1: le parole da &laquo;a fronte&raquo; a &laquo;di lavoro.&raquo; sono sostituite dalle seguenti: &laquo;di durata non superiore a trentasei mesi, comprensiva di eventuali proroghe, concluso fra un datore di lavoro o utilizzatore e un lavoratore per lo svolgimento di qualunque tipo di mansione, sia nella forma del contratto a tempo determinato, sia nell'ambito di un contratto di somministrazione a tempo determinato ai sensi del comma 4 dell'articolo 20 del decreto legislativo 10 settembre 2003, n. 276. Fatto salvo quanto disposto dall'articolo 10, comma 7, il numero complessivo di rapporti di lavoro costituiti da ciascun datore di lavoro ai sensi del presente articolo, non può eccedere il limite del 20 per cento dell'organico complessivo. Per le imprese che occupano fino a cinque dipendenti è sempre possibile stipulare un contratto di lavoro a tempo determinato.&raquo;; 
+ 1) al comma 1: le parole da &laquo;a fronte&raquo; a &laquo;di lavoro.&raquo; sono sostituite dalle seguenti: &laquo;di durata non superiore a trentasei mesi, comprensiva di eventuali proroghe, concluso fra un datore di lavoro 
+ ((. . .))
+
+ e un lavoratore per lo svolgimento di qualunque tipo di mansione, sia nella forma del contratto a tempo determinato, sia nell'ambito di un contratto di somministrazione a tempo determinato ai sensi del comma 4 dell'articolo 20 del decreto legislativo 10 settembre 2003, n. 276. Fatto salvo quanto disposto dall'articolo 10, comma 7, il numero complessivo di 
+ ((contratti a tempo determinato stipulati))
+
+ da ciascun datore di lavoro 
+ ((ai sensi del presente articolo))
+
+ non può eccedere il limite del 20 per cento 
+ ((del numero dei lavoratori a tempo indeterminato in forza al 1&ordm; gennaio dell'anno di assunzione))
+
+ . 
+ ((Per i datori di lavoro))
+
+ che occupano fino a cinque dipendenti è sempre possibile stipulare un contratto di lavoro a tempo determinato.&raquo;; 
  
 
  2) il comma 1-bis è abrogato; 
@@ -74,19 +90,85 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) il comma 2 è sostituito dal seguente: &laquo;2. L'apposizione del termine di cui al comma 1 è priva di effetto se non risulta, direttamente o indirettamente, da atto scritto.&raquo;; 
  
 
- 
+ b) all'articolo 4, comma 1, secondo periodo, le parole da: &laquo;la proroga&raquo; fino a: &laquo;si riferisca&raquo; sono sostituite dalle seguenti: &laquo;le proroghe sono ammesse, fino ad un massimo di 
+ ((cinque volte, nell'arco dei complessivi trentasei mesi, indipendentemente dal numero dei rinnovi))
+
+ , a condizione che si riferiscano&raquo;. 
  
 
  
- b) all'articolo 4, comma 1, secondo periodo, le parole da: &laquo;la proroga&raquo; fino a: &laquo;si riferisca&raquo; sono sostituite dalle seguenti: &laquo;le proroghe sono ammesse, fino ad un massimo di otto volte, a condizione che si riferiscano&raquo;. 
+ 
+ ((b-bis) all'articolo 4, il comma 2 è abrogato; 
+ 
+
+ b-ter) all'articolo 5, comma 2, le parole: ", instaurato anche ai sensi dell'articolo 1, comma 1-bis," sono soppresse; 
+ 
+
+ b-quater) all'articolo 5, comma 4-bis, le parole da: "ai fini del computo" fino a: "somministrazione di lavoro a tempo determinato" sono sostituite dalle seguenti: "ai fini del suddetto computo del periodo massimo di durata del contratto a tempo determinato, pari a trentasei mesi, si tiene altresì conto dei periodi di missione aventi ad oggetto mansioni equivalenti, svolti fra i medesimi soggetti, ai sensi dell'articolo 20 del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, inerente alla somministrazione di lavoro a tempo determinato"; 
+ 
+
+ b-quinquies) all'articolo 5, comma 4-quater, sono aggiunti, in fine, i seguenti periodi: "Fermo restando quanto già previsto dal presente articolo per il diritto di precedenza, per le lavoratrici il congedo di maternità di cui all'articolo 16, comma 1, del testo unico di cui al decreto legislativo 26 marzo 2001, n. 151, e successive modificazioni, intervenuto nell'esecuzione di un contratto a termine presso la stessa azienda, concorre a determinare il periodo di attività lavorativa utile a conseguire il diritto di precedenza di cui al primo periodo. Alle medesime lavoratrici è altresì riconosciuto, con le stesse modalità di cui al presente comma, il diritto di precedenza anche nelle assunzioni a tempo determinato effettuate dal datore di lavoro entro i successivi dodici mesi, con riferimento alle mansioni già espletate in esecuzione dei precedenti rapporti a termine"; 
+ 
+
+ b-sexies) all'articolo 5, comma 4-sexies, è aggiunto, in fine, il seguente periodo: "Il diritto di precedenza di cui ai commi 4-quater e 4-quinquies deve essere espressamente richiamato nell'atto scritto di cui all'articolo 1, comma 2."; 
+ 
+
+ b-septies) all'articolo 5, dopo il comma 4-sexies sono aggiunti i seguenti: 
+ 
+
+ "4-septies. In caso di violazione del limite percentuale di cui all'articolo 1, comma 1, per ciascun lavoratore si applica la sanzione amministrativa: 
+ 
+
+ a) pari al 20 per cento della retribuzione, per ciascun mese o frazione di mese superiore a quindici giorni di durata del rapporto di lavoro, se il numero dei lavoratori assunti in violazione del limite percentuale non sia superiore a uno; 
+ 
+
+ b) pari al 50 per cento della retribuzione, per ciascun mese o frazione di mese superiore a quindici giorni di durata del rapporto di lavoro, se il numero dei lavoratori assunti in violazione del limite percentuale sia superiore a uno. 
+ 
+
+ 4-octies. I maggiori introiti derivanti dalle sanzioni di cui al comma 4-septies sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnati al Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2"; 
+ 
+
+ b-octies) all'articolo 10, dopo il comma 5 è inserito il seguente: 
+ 
+
+ "5-bis. Il limite percentuale di cui all'articolo 1, comma 1, non si applica ai contratti di lavoro a tempo determinato stipulati tra istituti pubblici di ricerca ovvero enti privati di ricerca e lavoratori chiamati a svolgere in via esclusiva attività di ricerca scientifica o tecnologica, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa. I contratti di lavoro a tempo determinato che abbiano ad oggetto in via esclusiva lo svolgimento di attività di ricerca scientifica possono avere durata pari a quella del progetto di ricerca al quale si riferiscono"; 
+ 
+
+ b-novies) all'articolo 10, comma 7, alinea, primo periodo, le parole: "ai sensi dell'articolo 1, commi 1 e 1-bis," sono sostituite dalle seguenti: "ai sensi dell'articolo 1, comma 1,"))
+ 
+
+ . 
  
 
  
  
+ ((2. Al decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
 
+ a) all'articolo 20: 
+ 
+
+ 1) al comma 4, i primi due periodi sono soppressi e, al terzo periodo, dopo le parole: "della somministrazione" sono inserite le seguenti: "di lavoro"; 
+ 
+
+ 2) il comma 5-quater è abrogato; 
+ 
+
+ b) all'articolo 21, comma 1, lettera c), le parole: "ai commi 3 e 4" sono sostituite dalle seguenti: "al comma 3"))
+ 
+
+ . 
  
 
  
-
  
- 2. All'articolo 20, comma 4, del decreto legislativo 10 settembre 2003, n. 276, i primi due periodi sono soppressi e al terzo periodo dopo le parole: &laquo;della somministrazione&raquo; sono inserite le seguenti: &laquo;di lavoro&raquo;.
+ ((2-bis. Ai fini della verifica degli effetti delle disposizioni del presente capo, il Ministro del lavoro e delle politiche sociali, decorsi dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto, presenta una relazione alle Camere, evidenziando in particolare gli andamenti occupazionali e l'entità del ricorso al contratto a tempo determinato e al contratto di apprendistato, ripartito per fasce d'età, sesso, qualifiche professionali, aree geografiche, durata dei contratti, dimensioni e tipologia di impresa e ogni altro elemento utile per una valutazione complessiva del nuovo sistema di regolazione di tali rapporti di lavoro in relazione alle altre tipologie contrattuali, tenendo anche conto delle risultanze delle comunicazioni di assunzione, trasformazione, proroga e cessazione dei rapporti di lavoro ricavate dal sistema informativo delle comunicazioni obbligatorie già previsto dalla legislazione vigente. 
+ 
+
+ 2-ter. La sanzione di cui all'articolo 5, comma 4-septies, del decreto legislativo 6 settembre 2001, n. 368, introdotto dalla lettera b-septies) del comma 1 del presente articolo, non si applica per i rapporti di lavoro instaurati precedentemente alla data di entrata in vigore del presente decreto, che comportino il superamento del limite percentuale di cui all'articolo 1, comma 1, del decreto legislativo 6 settembre 2001, n. 368, come modificato dal comma 1, lettera a), numero 1), del presente articolo. 
+ 
+
+ 2-quater. All'articolo 4, comma 4-bis, del decreto-legge 21 maggio 2013, n. 54, convertito, con modificazioni, dalla legge 18 luglio 2013, n. 85, le parole: "fino al 31 luglio 2014" sono sostituite dalle seguenti: "fino al 31 luglio 2015"))
+ 
+
+ .
