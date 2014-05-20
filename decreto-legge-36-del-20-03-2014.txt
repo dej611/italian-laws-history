@@ -111,7 +111,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) al comma 1, alla lettera e), il numero 2) è sostituito dal seguente: &laquo;2) il completamento e l'aggiornamento delle tabelle di cui all'articolo 13, sentiti il Consiglio superiore di sanità e la Presidenza del Consiglio dei ministri - Dipartimento nazionale per le politiche antidroga;&raquo;. 
+ a) al comma 1, alla lettera e), il numero 2) è sostituito dal seguente: &laquo;2) il completamento e l'aggiornamento delle tabelle di cui all'articolo 13, sentiti il Consiglio superiore di sanità e 
+ ((l'Istituto superiore di sanità))
+
+ ;&raquo;. 
  
 
  
@@ -151,7 +154,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) il comma 5 è sostituito dal seguente: 
  
 
- &laquo;5. Il Ministero della salute, sentiti il Consiglio superiore di sanità e la Presidenza del Consiglio dei Ministri - Dipartimento nazionale per le politiche antidroga, ed in accordo con le convenzioni internazionali in materia di sostanze stupefacenti o psicotrope, dispone con apposito decreto l'esclusione da una o più misure di controllo di quei medicinali e dispositivi diagnostici che per la loro composizione qualitativa e quantitativa non possono trovare un uso diverso da quello cui sono destinati.&raquo;. 
+ &laquo;5. Il Ministero della salute, sentiti il Consiglio superiore di sanità e 
+ ((l'Istituto superiore di sanità))
+
+ ed in accordo con le convenzioni internazionali in materia di sostanze stupefacenti o psicotrope, dispone con apposito decreto l'esclusione da una o più misure di controllo di quei medicinali e dispositivi diagnostici che per la loro composizione qualitativa e quantitativa non possono trovare un uso diverso da quello cui sono destinati.&raquo;. 
  
 
  
@@ -186,7 +192,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  5) gli indolici, siano essi derivati triptaminici che lisergici, e i derivati feniletilamminici, che abbiano effetti allucinogeni o che possano provocare distorsioni sensoriali; 
  
 
- 6) i tetraidrocannabinoli, i loro analoghi, le sostanze ottenute per sintesi o semisintesi che siano ad essi riconducibili per struttura chimica o per effetto farmaco-tossicologico; 
+ 
+ ((6) le sostanze ottenute per sintesi o semisintesi che siano riconducibili per struttura chimica o per effetto farmaco-tossicologico al tetraidrocannabinolo))
+
+ ; 
  
 
  7) ogni altra pianta o sostanza naturale o sintetica che possa provocare allucinazioni o gravi distorsioni sensoriali e tutte le sostanze ottenute per estrazione o per sintesi chimica che provocano la stessa tipologia di effetti a carico del sistema nervoso centrale; 
@@ -198,7 +207,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) nella tabella II devono essere indicati: 
  
 
- 1) la cannabis indica e i prodotti da essa ottenuti; 
+ 1) la cannabis 
+ ((...))
+
+ e i prodotti da essa ottenuti; 
  
 
  2) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformità alle modalità indicate nella tabella dei medicinali di cui alla lettera e); 
@@ -285,7 +297,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  4. Le sostanze e le piante di cui al comma 1, lettere a) e b), sono soggette alla disciplina del presente testo unico anche ove si presentino sotto ogni forma di prodotto, miscuglio o miscela. 
  
 
- 5. La tabella I contiene, nella sezione B, le sostanze già tabellarmente classificate a decorrere dal 27 febbraio 2006. 
+ 5. 
+ ((COMMA SOPPRESSO DALLA L. 16 MAGGIO 2014, N. 79))
+
+ . 
  
 
  6. La tabella dei medicinali indica la classificazione ai fini della fornitura. Sono comunque fatte salve le condizioni stabilite dall'Agenzia italiana del farmaco all'atto del rilascio dell'autorizzazione all'immissione in commercio, nonchè le limitazioni e i divieti stabiliti dal Ministero della salute per esigenze di salute pubblica.&raquo;. 
@@ -296,10 +311,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((3-bis. Al comma 2 dell'articolo 19 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, è aggiunto, in fine, il seguente periodo: "Le autorizzazioni non possono essere rilasciate ai soggetti di cui al presente comma, persone fisiche o legali rappresentanti di enti, che abbiano avuto condanne o sanzioni ai sensi degli articoli 73, 74 e 75; in tali casi sono immediatamente revocate anche le autorizzazioni già rilasciate"))
+ 
+
+ 
+
+ 
  4. All'articolo 26 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, il comma 1 è sostituito dal seguente: 
  
 
- &laquo;1. Salvo quanto stabilito nel comma 2, è vietata nel territorio dello Stato la coltivazione delle piante comprese nelle tabelle I e II di cui all'articolo 14.&raquo;. 
+ &laquo;1. Salvo quanto stabilito nel comma 2, è vietata nel territorio dello Stato la coltivazione delle piante comprese nelle tabelle I e II di cui all'articolo 14 
+ ((, ad eccezione della canapa coltivata esclusivamente per la produzione di fibre o per altri usi industriali, diversi da quelli di cui all'articolo 27, consentiti dalla normativa dell'Unione europea))
+
+ .&raquo;. 
  
 
  
@@ -373,7 +398,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) il comma 1 è sostituito dal seguente: 
  
 
- &laquo;1. La vendita o cessione, a qualsiasi titolo, anche gratuito, delle sostanze e dei medicinali compresi nelle tabelle di cui all'articolo 14, esclusi i medicinali di cui alla tabella dei medicinali, sezioni D ed E, è fatta alle persone autorizzate ai sensi del presente testo unico in base a richiesta scritta da staccarsi da apposito bollettario "buoni acquisto" conforme al modello predisposto dal Ministero della salute. I titolari o i direttori di farmacie aperte al pubblico o ospedaliere possono utilizzare il bollettario "buoni acquisto" anche per richiedere, a titolo gratuito, i medicinali compresi nella tabella dei medicinali, esclusi i medicinali e le sostanze attive ad uso farmaceutico di cui alla tabella dei medicinali, sezioni D ed E, ad altre farmacie aperte al pubblico o ospedaliere, qualora si configuri il carattere di urgenza terapeutica.&raquo;; 
+ &laquo;1. La vendita o cessione, a qualsiasi titolo, anche gratuito, delle sostanze e dei medicinali compresi nelle tabelle di cui all'articolo 14, esclusi i medicinali di cui alla tabella dei medicinali, sezioni D ed E, è fatta alle persone autorizzate ai sensi del presente testo unico in base a richiesta scritta 
+ ((con buono acquisto))
+
+ conforme al modello predisposto dal Ministero della salute. I titolari o i direttori di farmacie aperte al pubblico o ospedaliere possono utilizzare 
+ ((i buoni acquisto))
+
+ anche per richiedere, a titolo gratuito, i medicinali compresi nella tabella dei medicinali, esclusi i medicinali e le sostanze attive ad uso farmaceutico di cui alla tabella dei medicinali, sezioni D ed E, ad altre farmacie aperte al pubblico o ospedaliere, qualora si configuri il carattere di urgenza terapeutica.&raquo;; 
  
 
  
@@ -383,12 +414,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) dopo il comma 1 è inserito il seguente: 
  
 
- &laquo;1-bis. Il Ministero della salute dispone, con proprio decreto, il modello di bollettario "buoni acquisto" adatto alle richieste cumulative.&raquo;. 
+ &laquo;
+ ((1-bis. Il Ministero della salute stabilisce con proprio decreto il modello dei buoni acquisto))
+
+ .&raquo;. 
  
 
  
  
 
+ 
+
+ 
+
+ 
+ 
+ ((9-bis. L'articolo 39 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, è abrogato))
  
 
  
@@ -509,10 +550,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il Ministero della salute stabilisce con proprio decreto la forma ed il contenuto del ricettario di cui al comma 1. 
  
 
- 4-bis. Per la prescrizione, nell'ambito del Servizio sanitario nazionale, di farmaci previsti dall'allegato III-bis per il trattamento di pazienti affetti da dolore severo, in luogo del ricettario di cui al comma 1, contenente le ricette a ricalco di cui al comma 4, può essere utilizzato il ricettario del Servizio sanitario nazionale, disciplinato dal decreto del Ministro dell'economia e delle finanze 17 marzo 2008, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 dell'11 aprile 2008. Il Ministro della salute, sentiti il Consiglio superiore di sanità e la Presidenza del Consiglio dei ministri - Dipartimento per le politiche antidroga, può, con proprio decreto, aggiornare l'elenco dei farmaci di cui all'allegato III-bis. 
+ 4-bis. Per la prescrizione, nell'ambito del Servizio sanitario nazionale, di 
+ ((medicinali))
+
+ previsti dall'allegato III-bis per il trattamento di pazienti affetti da dolore severo, in luogo del ricettario di cui al comma 1, contenente le ricette a ricalco di cui al comma 4, può essere utilizzato il ricettario del Servizio sanitario nazionale, disciplinato dal decreto del Ministro dell'economia e delle finanze 17 marzo 2008, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 dell'11 aprile 2008. Il Ministro della salute, sentiti il Consiglio superiore di sanità e 
+ ((l'Istituto superiore di sanità))
+
+ , può, con proprio decreto, aggiornare l'elenco dei 
+ ((medicinali))
+
+ di cui all'allegato III-bis. 
  
 
- 5. La prescrizione dei medicinali compresi nella tabella dei medicinali, sezione A, di cui all'articolo 14, qualora utilizzati per il trattamento di disassuefazione dagli stati di tossicodipendenza da oppiacei o di alcooldipendenza, è effettuata utilizzando il ricettario di cui al comma 1 nel rispetto del piano terapeutico predisposto da una struttura sanitaria pubblica o da una struttura privata autorizzata ai sensi dell'articolo 116 e specificamente per l'attività di diagnosi di cui al comma 2, lettera d), del medesimo articolo. La persona alla quale sono consegnati in affidamento i medicinali di cui al presente comma è tenuta ad esibire a richiesta la prescrizione medica o il piano terapeutico in suo possesso. 
+ 5. La prescrizione dei medicinali compresi nella tabella dei medicinali, sezione A, di cui all'articolo 14, qualora utilizzati per il trattamento 
+ ((degli))
+
+ stati di tossicodipendenza da oppiacei o di alcooldipendenza, è effettuata utilizzando il ricettario di cui al comma 1 nel rispetto del piano terapeutico predisposto da una struttura sanitaria pubblica o da una struttura privata autorizzata ai sensi dell'articolo 116 e specificamente per l'attività di diagnosi di cui al comma 2, lettera d), del medesimo articolo. La persona alla quale sono consegnati in affidamento i medicinali di cui al presente comma è tenuta ad esibire a richiesta la prescrizione medica o il piano terapeutico in suo possesso. 
+ 
+
+ 
+ ((5-bis. La prescrizione di medicinali compresi nella tabella dei medicinali, sezione A, per il trattamento degli stati di tossicodipendenza da oppiacei deve essere effettuata all'interno del piano terapeutico individualizzato, secondo modalità stabilite con decreto del Ministero della salute))
+
+ . 
  
 
  6. I medici chirurghi e i medici veterinari sono autorizzati ad approvvigionarsi attraverso autoricettazione, a trasportare e a detenere i medicinali compresi nell'allegato III-bis per uso professionale urgente, utilizzando il ricettario di cui al comma 1.
@@ -530,7 +589,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  9. La prescrizione dei medicinali compresi nella tabella dei medicinali, sezioni B, C e D, di cui all'articolo 14 è effettuata con ricetta da rinnovarsi volta per volta e da trattenersi da parte del farmacista. 
  
 
- 10. La prescrizione dei medicinali compresi nella tabella dei medicinali, sezione E, di cui all'articolo 14 è effettuata con ricetta medica.&raquo;. 
+ 10. La prescrizione dei medicinali compresi nella tabella dei medicinali, sezione E, di cui all'articolo 14 è effettuata con ricetta medica. 
+ 
+
+ 
+ ((10-bis. I medici chirurghi, su richiesta dei pazienti in corso di trattamento terapeutico con medicinali stupefacenti o psicotropi che si recano all'estero, provvedono alla redazione della certificazione di possesso dei medicinali stupefacenti o psicotropi compresi nella tabella dei medicinali, da presentare all'autorità doganale all'uscita dal territorio nazionale, individuati con decreto del Ministero della salute, che definisce anche il modello della certificazione))
+
+ .&raquo;. 
  
 
  
@@ -634,6 +699,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
+
+ 
+
+ 
+ 
+ ((16-bis. Al comma 9 dell'articolo 50 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, le parole: "I, II, III, IV e V" sono sostituite dalle seguenti: "I, II, III e IV"))
  
 
  
@@ -782,6 +854,85 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((
+ 
+
+ 
+ 24-bis. La rubrica del titolo VII del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, è sostituita dalla seguente: "Prescrizioni particolari relative ai precursori di droghe". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 24-ter. All'articolo 73 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) il comma 5 è sostituito dal seguente: 
+ 
+
+ "5. Salvo che il fatto costituisca più grave reato, chiunque commette uno dei fatti previsti dal presente articolo che, per i mezzi, la modalità o le circostanze dell'azione ovvero per la qualità e quantità delle sostanze, è di lieve entità, è punito con le pene della reclusione da sei mesi a quattro anni e della multa da euro 1.032 a euro 10.329"; 
+ 
+
+ 
+ 
+
+ 
+ b) il comma 5-bis è sostituito dal seguente: 
+ 
+
+ "5-bis. Nell'ipotesi di cui al comma 5, limitatamente ai reati di cui al presente articolo commessi da persona tossicodipendente o da assuntore di sostanze stupefacenti o psicotrope, il giudice, con la sentenza di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, su richiesta dell'imputato e sentito il pubblico ministero, qualora non debba concedersi il beneficio della sospensione condizionale della pena, può applicare, anzichè le pene detentive e pecuniarie, quella del lavoro di pubblica utilità di cui all'articolo 54 del decreto legislativo 28 agosto 2000, n. 274, secondo le modalità ivi previste. Con la sentenza il giudice incarica l'ufficio locale di esecuzione penale esterna di verificare l'effettivo svolgimento del lavoro di pubblica utilità. L'ufficio riferisce periodicamente al giudice. In deroga a quanto disposto dal citato articolo 54 del decreto legislativo n. 274 del 2000, il lavoro di pubblica utilità ha una durata corrispondente a quella della sanzione detentiva irrogata. Esso può essere disposto anche nelle strutture private autorizzate ai sensi dell'articolo 116, previo consenso delle stesse.
+ 
+
+ In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilità, in deroga a quanto previsto dal citato articolo 54 del decreto legislativo n. 274 del 2000, su richiesta del pubblico ministero o d'ufficio, il giudice che procede, o quello dell'esecuzione, con le formalità di cui all'articolo 666 del codice di procedura penale, tenuto conto dell'entità dei motivi e delle circostanze della violazione, dispone la revoca della pena con conseguente ripristino di quella sostituita. Avverso tale provvedimento di revoca è ammesso ricorso per cassazione, che non ha effetto sospensivo. Il lavoro di pubblica utilità può sostituire la pena per non più di due volte". 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 24-quater. All'articolo 75 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) al comma 1, l'alinea è sostituito dal seguente: "Chiunque, per farne uso personale, illecitamente importa, esporta, acquista, riceve a qualsiasi titolo o comunque detiene sostanze stupefacenti o psicotrope è sottoposto, per un periodo da due mesi a un anno, se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle I e III previste dall'articolo 14, e per un periodo da uno a tre mesi, se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle II e IV previste dallo stesso articolo, a una o più delle seguenti sanzioni amministrative:"; 
+ 
+
+ 
+ 
+ 
+
+ 
+ b) dopo il comma 1 è inserito il seguente: 
+ 
+
+ "1-bis. Ai fini dell'accertamento della destinazione ad uso esclusivamente personale della sostanza stupefacente o psicotropa o del medicinale di cui al comma 1, si tiene conto delle seguenti circostanze: 
+ 
+
+ a) che la quantità di sostanza stupefacente o psicotropa non sia superiore ai limiti massimi indicati con decreto del Ministro della salute, di concerto con il Ministro della giustizia, sentita la Presidenza del Consiglio dei ministri - Dipartimento per le politiche antidroga, nonchè della modalità di presentazione delle sostanze stupefacenti o psicotrope, avuto riguardo al peso lordo complessivo o al confezionamento frazionato ovvero ad altre circostanze dell'azione, da cui risulti che le sostanze sono destinate ad un uso esclusivamente personale; 
+ 
+
+ b) che i medicinali contenenti sostanze stupefacenti o psicotrope elencate nella tabella dei medicinali, sezioni A, B, C e D, non eccedano il quantitativo prescritto"))
+ 
+
+ 
+
+ 
  25. All'articolo 114 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, il comma 2 è sostituito dal seguente: 
  
 
@@ -813,7 +964,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) il comma 1 è sostituito dal seguente: 
  
 
- &laquo;1. Chiunque fa uso di sostanze stupefacenti e di sostanze psicotrope può chiedere al servizio pubblico per le tossicodipendenze o ad una struttura privata autorizzata ai sensi dell'articolo 116 e specificamente per l'attività di diagnosi, di cui al comma 2, lettera d), del medesimo articolo di essere sottoposto ad accertamenti diagnostici e di eseguire un programma terapeutico e socio-riabilitativo.&raquo;; 
+ &laquo;1. Chiunque fa uso di sostanze stupefacenti e di sostanze psicotrope può chiedere al 
+ ((servizio pubblico per le dipendenze))
+
+ o ad una struttura privata autorizzata ai sensi dell'articolo 116 e specificamente per l'attività di diagnosi, di cui al comma 2, lettera d), del medesimo articolo di essere sottoposto ad accertamenti diagnostici e di eseguire un programma terapeutico e socio-riabilitativo.&raquo;; 
  
 
  
@@ -830,7 +984,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) il comma 4 è sostituito dal seguente: 
  
 
- &laquo;4. Gli esercenti la professione medica che assistono persone dedite all'uso di sostanze stupefacenti e di sostanze psicotrope possono, in ogni tempo, avvalersi dell'ausilio del servizio pubblico per le tossicodipendenze e delle strutture private autorizzate ai sensi dell'articolo 116.&raquo;; 
+ &laquo;4. Gli esercenti la professione medica che assistono persone dedite all'uso di sostanze stupefacenti e di sostanze psicotrope possono, in ogni tempo, avvalersi dell'ausilio del 
+ ((servizio pubblico per le dipendenze))
+
+ e delle strutture private autorizzate ai sensi dell'articolo 116.&raquo;; 
  
 
  
@@ -840,7 +997,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) il comma 7 è sostituito dal seguente: 
  
 
- &laquo;7. Gli operatori del servizio pubblico per le tossicodipendenze e delle strutture private autorizzate ai sensi dell'articolo 116, salvo l'obbligo di segnalare all'autorità competente tutte le violazioni commesse dalla persona sottoposta al programma terapeutico alternativo a sanzioni amministrative o ad esecuzione di pene detentive, non possono essere obbligati a deporre su quanto hanno conosciuto per ragione della propria professione, nè davanti all'autorità giudiziaria nè davanti ad altra autorità. Agli stessi si applicano le disposizioni dell'articolo 200 del codice di procedura penale e si estendono le garanzie previste per il difensore dalle disposizioni dell'articolo 103 del codice di procedura penale in quanto applicabili.&raquo;. 
+ &laquo;7. Gli operatori del 
+ ((servizio pubblico per le dipendenze))
+
+ e delle strutture private autorizzate ai sensi dell'articolo 116
+ ((...))
+
+ non possono essere obbligati a deporre su quanto hanno conosciuto per ragione della propria professione, nè davanti all'autorità giudiziaria nè davanti ad altra autorità. Agli stessi si applicano le disposizioni dell'articolo 200 del codice di procedura penale e si estendono le garanzie previste per il difensore dalle disposizioni dell'articolo 103 del codice di procedura penale in quanto applicabili.&raquo;. 
  
 
  
@@ -863,7 +1026,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) il comma 1 è sostituito dal seguente: 
  
 
- &laquo;1. Il servizio pubblico per le tossicodipendenze e le strutture private autorizzate ai sensi dell'articolo 116, compiuti i necessari accertamenti e sentito l'interessato, che può farsi assistere da un medico di fiducia autorizzato a presenziare anche agli accertamenti necessari, definiscono un programma terapeutico e socio-riabilitativo personalizzato che può prevedere, ove le condizioni psicofisiche del tossicodipendente lo consentano, in collaborazione con i centri di cui all'articolo 114 e avvalendosi delle cooperative di solidarietà sociale e delle associazioni di cui all'articolo 115, iniziative volte ad un pieno inserimento sociale attraverso l'orientamento e la formazione professionale, attività di pubblica utilità o di solidarietà sociale. Nell'ambito dei programmi terapeutici che lo prevedono, possono adottare metodologie di disassuefazione, nonchè trattamenti psico-sociali e farmacologici adeguati. Il servizio per le tossicodipendenze controlla l'attuazione del programma da parte del tossicodipendente.&raquo;; 
+ &laquo;1. 
+ ((Il servizio pubblico per le dipendenze))
+
+ e le strutture private autorizzate ai sensi dell'articolo 116, compiuti i necessari accertamenti e sentito l'interessato, che può farsi assistere da un medico di fiducia autorizzato a presenziare anche agli accertamenti necessari, definiscono un programma terapeutico e socio-riabilitativo personalizzato che può prevedere, ove le condizioni psicofisiche del tossicodipendente lo consentano, in collaborazione con i centri di cui all'articolo 114 e avvalendosi delle cooperative di solidarietà sociale e delle associazioni di cui all'articolo 115, iniziative volte ad un pieno inserimento sociale attraverso l'orientamento e la formazione professionale, attività di pubblica utilità o di solidarietà sociale. Nell'ambito dei programmi terapeutici che lo prevedono, possono adottare metodologie di disassuefazione, nonchè trattamenti psico-sociali e farmacologici adeguati. 
+ ((Il servizio pubblico per le dipendenze verifica l'efficacia del trattamento e la risposta del paziente al programma))
+
+ .&raquo;; 
  
 
  
@@ -898,10 +1067,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((28-bis. Al comma 1 dell'articolo 123 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, le parole: "alle tabelle I e II, sezioni A, B e C," sono sostituite dalle seguenti: "alla tabella I e alla tabella dei medicinali"))
+ 
+
+ 
+
+ 
  29. All'articolo 127 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, il comma 8 è sostituito dal seguente: 
  
 
- &laquo;8. I progetti di cui alle lettere a) e c) del comma 7 non possono prevedere la somministrazione delle sostanze stupefacenti o psicotrope incluse nelle tabelle I e II di cui all'articolo 14 e delle sostanze non inserite nella Farmacopea ufficiale, fatto salvo l'uso dei medicinali oppioidi prescrivibili, purchè i dosaggi somministrati e la durata del trattamento abbiano l'esclusiva finalità clinico-terapeutica di avviare gli utenti a successivi programmi riabilitativi.&raquo;. 
+ &laquo;8. I progetti di cui alle lettere a) e c) del comma 7 non possono prevedere la somministrazione delle sostanze stupefacenti o psicotrope incluse nelle tabelle I e II di cui all'articolo 14 e delle sostanze non inserite nella Farmacopea ufficiale, fatto salvo l'uso dei medicinali oppioidi prescrivibili 
+ ((...))
+
+ .&raquo;. 
  
 
  
