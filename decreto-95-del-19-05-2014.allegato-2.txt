@@ -1,0 +1,672 @@
+Allegato 2 
+ 
+
+ (articolo 7, comma 3, del regolamento di attuazione) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Allegato tecnico al regolamento attuativo 
+ 
+
+ 
+ 
+
+ Indice dei contenuti 
+ 
+
+ 
+ 
+
+ 1 INTRODUZIONE 
+ 
+
+ 2 L'ARCHITETTURA GENERALE DEL SISTEMA 
+ 
+
+ 3 DESCRIZIONE DEI PROCESSI OPERATIVI DI RIFERIMENTO 
+ 
+
+ 4 MODALITà DI COLLEGAMENTO INFORMATICO DEL SISTEMA 
+ 
+
+ 5 PRODUZIONE, DISTRIBUZIONE E GESTIONE DELLE CREDENZIALI DI ACCESSO 
+ 
+
+ AL SISTEMA 
+ 
+
+ 6 TRACCIAMENTO DELLE OPERAZIONI 
+ 
+
+ 7 PROFILI DI AUTORIZZAZIONE 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1 Introduzione 
+ 
+
+ 
+ 
+
+ Questo documento descrive in particolare: 
+ 
+
+ - le modalità di collegamento informatico del sistema alle banche dati degli organismi pubblici; 
+ 
+
+ - le modalità di collegamento informatico al sistema da parte 
+ 
+
+ degli aderenti diretti e indiretti; 
+ 
+
+ - le procedure di gestione del servizio telefonico e telematico di cui all'art. 30 ter, comma 8 del D.lgs. 141/2010; 
+ 
+
+ - i processi di gestione delle credenziali di accesso al sistema; 
+ 
+
+ - il tracciamento delle operazioni eseguite con il sistema; 
+ 
+
+ - i profili di autorizzazione al riscontro delle diverse tipologie di dati da parte delle diverse tipologie di aderente. 
+ 
+
+ Lo schema dell'architettura generale dell'archivio è mostrato 
+ 
+
+ nella figura seguente: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ In particolare è previsto che l'Archivio sia costituito da tre 
+ 
+
+ moduli funzionali: 
+ 
+
+ • il modulo Interconnessione di rete, che riceverà le richieste di
+ 
+
+ verifica provenienti dagli aderenti, le tradurrà in richieste di accesso alle banche dati pubbliche ospitanti i dati autentici da riscontrare e restituirà l'esito, positivo o negativo, della 
+ 
+
+ verifica effettuata; 
+ 
+
+ • il modulo Informatico di allerta, che raccoglierà le
+ 
+
+ segnalazioni di frodi subite o di rischio di frode provenienti dagli aderenti e le segnalazioni di allerta preventive generate dal 
+ 
+
+ sistema; 
+ 
+
+ • il modulo Informatico centralizzato, che memorizza, in modo
+ 
+
+ aggregato e anonimo, i casi il cui riscontro ha evidenziato la non autenticità di una o più categorie di dati presenti nelle richieste di verifica inviate dagli aderenti e permette al gruppo di lavoro lo studio del fenomeno delle frodi. 
+ 
+
+ Le modalità d'uso del servizio di riscontro da parte degli aderenti sono diversificate, in quanto si prevede sia uno scenario d'uso allo sportello con il cliente di fronte all'operatore, sia uno scenario d'uso di back office, sia uno scenario d'uso che prevede 
+ 
+
+ elaborazioni massive di tipo batch. 
+ 
+
+ 
+ 
+
+ 2 L'architettura generale del sistema 
+ 
+
+ 
+ 
+
+ La figura seguente mostra l'architettura generale prevista del 
+ 
+
+ sistema. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Si prevede la costituzione presso il CED del Ministero dell'economia e delle finanze di un sistema informatico altamente scalabile e pienamente ridondato destinato a erogare il servizio operativo di riscontro di dati personali richiesto dai soggetti aderenti interfacciando una molteplicità di banche dati istituzionali (Agenzia delle Entrate, Ministero dell'Interno, 
+ 
+
+ Ministero delle Infrastrutture e dei Trasporti, INPS e INAIL). 
+ 
+
+ Il sistema permetterà inoltre il ricevimento e la registrazione delle segnalazioni dei soggetti che hanno subito frodi configuranti ipotesi di furto di identità. 
+ 
+
+ Il sistema dialogherà con il sistema informatico Consap, presso la quale sarà svolta la gestione amministrativa delle convenzioni con gli aderenti, la gestione delle utenze e la gestione del ciclo di calcolo dei consumi, di rendicontazione e di pagamento associato 
+ 
+
+ all'attuazione delle convenzioni stesse. 
+ 
+
+ 
+ 
+
+ 3 Descrizione dei processi operativi di riferimento 
+ 
+
+ 
+ 
+
+ Nei paragrafi che seguono sono illustrati i processi operativi per i quali è previsto il supporto da parte del software del sistema di riscontro. 
+ 
+
+ 
+ 
+
+ 3.1 Riscontro dei dati 
+ 
+
+ 
+ 
+
+ Si evidenzia che la procedura di riscontro, operata secondo le tre modalità descritte nei paragrafi seguenti, è strutturata in maniera tale da non richiedere la registrazione dei dati personali nell'archivio, ma soltanto la loro veicolazione informatica al fine di verificarne l'autenticità. 
+ 
+
+ 
+ 
+
+ 3.1.1 Riscontro dei dati in modalità interattiva 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ • L'utente abilitato del soggetto aderente entra nel sistema usando
+ 
+
+ le proprie credenziali, seleziona l'aderente delegante (che può coincidere con l'aderente di riferimento dell'utente) per il quale effettuare l'interrogazione, fornisce i dati da riscontrare su maschera on line, ne verifica l'esattezza e attiva il servizio di 
+ 
+
+ riscontro; 
+ 
+
+ • il sistema, in base alla richiesta ricevuta, attiva i servizi di
+ 
+
+ riscontro messi a disposizione dalle banche dati istituzionali collegate trasmettendo ad esse, ognuna per la propria competenza, i dati forniti dall'utente, raccoglie gli esiti di riscontro - di natura essenzialmente semaforica - ricevuti dalle banche dati e li 
+ 
+
+ restituisce all'utente; 
+ 
+
+ • il sistema di riscontro registra i dati identificativi
+ 
+
+ dell'interrogazione effettuata (identificativo dell'utente e dell'organizzazione interrogante, momento dell'interrogazione, tipi di campi oggetto del riscontro, esiti semaforici sul riscontro restituiti dalle banche dati interrogate), a fini amministrativi e di 
+ 
+
+ tracciamento; 
+ 
+
+ • nei soli casi in cui il riscontro dei dati abbia dato esito
+ 
+
+ negativo, infine, il sistema registra i dati della richiesta di riscontro e gli esiti semaforici corrispondenti nell'archivio delle richieste di riscontro con esito negativo. 
+ 
+
+ 
+ 
+
+ 3.1.2 Riscontro dei dati in modalità application to application - A2A 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ • Il sistema informatico abilitato del soggetto aderente invoca il 
+ 
+
+ servizio di riscontro usando le proprie credenziali macchina; 
+ 
+
+ • il sistema verifica la correttezza sintattica della richiesta e
+ 
+
+ dei riferimenti forniti nella richiesta all'aderente diretto e all'aderente indiretto, in base alle deleghe registrate come attive nel sistema stesso. Se la verifica sintattica ha esito positivo, attiva i servizi di riscontro messi a disposizione dalle banche dati istituzionali collegate trasmettendo ad esse, ognuna per la propria competenza, i dati forniti dal sistema chiamante, raccoglie gli esiti di riscontro - di natura essenzialmente semaforica - ricevuti dalle banche dati, li integra e li restituisce al sistema informatico chiamante; se la verifica sintattica ha invece esito negativo, restituisce al sistema informatico chiamante l'esito negativo con la motivazione; 
+ 
+
+ • il sistema registra i dati identificativi dell'interrogazione
+ 
+
+ effettuata (identificativo dell'utente associato alle credenziali macchina del sistema chiamante e dell'organizzazione interrogante, momento dell'interrogazione, tipi di campi oggetto del riscontro, esiti semaforici sul riscontro restituiti dalle banche dati 
+ 
+
+ interrogate), a fini amministrativi e di tracciamento; 
+ 
+
+ • nei soli casi in cui il riscontro dei dati ha dato esito
+ 
+
+ negativo, infine, il sistema registra i dati della richiesta di riscontro e gli esiti semaforici corrispondenti nell'archivio delle richieste di riscontro con esito negativo. 
+ 
+
+ 
+ 
+
+ 3.1.3 Riscontro dei dati in modalità batch 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Il processo previsto differisce da quello precedente in quanto permette l'elaborazione massiva di più richieste di riscontro provenienti dal sistema informatico di un soggetto aderente. Il 
+ 
+
+ processo è il seguente: 
+ 
+
+ • il sistema informatico abilitato del soggetto aderente prepara la
+ 
+
+ lista delle richieste di riscontro e invoca il servizio di riscontro massivo usando le proprie credenziali macchina; 
+ 
+
+ • il sistema verifica la correttezza sintattica della lista di
+ 
+
+ richieste ricevute e dei riferimenti forniti nella richiesta all'aderente diretto e all'aderente indiretto, in base alle deleghe registrate come attive nel sistema al momento in cui la richiesta è stata inoltrata dall'aderente. Per ogni richiesta sintatticamente corretta, attiva i servizi di riscontro messi a disposizione dalle banche dati istituzionali collegate trasmettendo ad esse, ognuna per la propria competenza, i dati forniti dal sistema chiamante, raccoglie gli esiti di riscontro - di natura essenzialmente semaforica - ricevuti dalle banche dati, li integra, confeziona la risposta finale da restituire al sistema informatico chiamante; per ogni richiesta sintatticamente non corretta, confeziona un esito 
+ 
+
+ negativo con la motivazione; 
+ 
+
+ • il sistema di riscontro restituisce al sistema informatico 
+ 
+
+ chiamante la lista degli esiti delle verifiche effettuate; 
+ 
+
+ • il sistema di riscontro registra i dati identificativi
+ 
+
+ dell'interrogazione effettuata (identificativo dell'utente associato alle credenziali macchina del sistema chiamante e dell'organizzazione interrogante, momento dell'interrogazione, tipi di campi oggetto del riscontro, esiti semaforici sul riscontro restituiti dalle banche 
+ 
+
+ dati interrogate), a fini amministrativi e di tracciamento; 
+ 
+
+ • nei soli casi in cui il riscontro dei dati ha dato esito
+ 
+
+ negativo, infine, il sistema registra i dati della richiesta e gli esiti semaforici corrispondenti nell'archivio delle richieste di 
+ 
+
+ riscontro con esito negativo. 
+ 
+
+ 
+ 
+
+ 3.2 Servizi telefonici e telematici 
+ 
+
+ 
+ 
+
+ 3.2.1 Servizio telefonico 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ • Il soggetto segnalante chiama il call center telefonico dedicato
+ 
+
+ al servizio di ricevimento di segnalazioni di cui all'art. 30 ter, 
+ 
+
+ comma 8, del D.Lgs. 141/2010; 
+ 
+
+ • Il servizio di call center, interagendo con il soggetto
+ 
+
+ segnalante, individua se trattasi di frode subita o di rischio di 
+ 
+
+ frode; 
+ 
+
+ • Nel caso di segnalazione di frode subita, il servizio di call
+ 
+
+ center raccoglie le generalità del segnalante e i dati relativi alla frode subita, chiedendo di inviare copia dei documenti previsti dall'art. 19, comma 2, del regolamento di attuazione per la 
+ 
+
+ successiva registrazione nell'archivio; 
+ 
+
+ • Nel caso di segnalazione di rischio di frode, la stessa non viene 
+ 
+
+ registrata nell'archivio. 
+ 
+
+ 
+ 
+
+ 3.2.2 Servizio telematico 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ • Il soggetto segnalante accede a un apposito servizio sulla home 
+ 
+
+ page pubblica del sito web; 
+ 
+
+ • Nel caso di segnalazione di frode subita, il soggetto segnalante
+ 
+
+ compila una scheda di segnalazione fornendo le proprie generalità e i dati relativi alla frode subita, che vengono registrati nell'archivio delle segnalazioni pervenute dai soggetti segnalanti; invia inoltre al call center copia dei documenti previsti dall'art. 19, comma 2, del regolamento di attuazione per la successiva 
+ 
+
+ registrazione nell'archivio; 
+ 
+
+ • Nel caso di segnalazione di rischio di frode, il sito web invece 
+ 
+
+ non prevede alcuna registrazione di dati. 
+ 
+
+ 
+ 
+
+ 4 Modalità di collegamento informatico del sistema 
+ 
+
+ 
+ 
+
+ Dal punto di vista fisico, il sistema opererà in un apposito CED dedicato del MEF. Tale impianto sarà quindi separato dal resto della piattaforma tecnologica MEF e sarà possibile il suo accesso, la sua gestione e la sua manutenzione al solo personale Consap e MEF 
+ 
+
+ autorizzato a tale attività. 
+ 
+
+ Il sistema di riscontro comunicherà con i diversi interlocutori e sistemi cooperanti mediante meccanismi atti ad assicurare la riservatezza, l'integrità e l'autenticità delle comunicazioni. Le specifiche modalità tecniche adottate per il collegamento informatico del sistema con altri sistemi sono descritte nel Manuale operativo. 
+ 
+
+ 
+ 
+
+ 5 Produzione, distribuzione e gestione delle credenziali di accesso 
+ 
+
+ al sistema 
+ 
+
+ 
+ 
+
+ La figura seguente illustra il processo di gestione delle 
+ 
+
+ credenziali per l'accesso al sistema. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ In particolare, è prevista la generazione e la gestione di tre 
+ 
+
+ tipi di credenziali di accesso ai servizi del sistema: 
+ 
+
+ • credenziali di amministratore, generate da Consap con il proprio
+ 
+
+ sistema di gestione amministrativa delle convenzioni e consegnate agli utenti amministratori di ogni soggetto aderente che ne faccia domanda. Con tali credenziali, il soggetto aderente ha la possibilità di generare e di gestire credenziali utente per i propri utenti interni che saranno abilitati all'uso del sistema di 
+ 
+
+ riscontro; 
+ 
+
+ • credenziali utente, generate da Consap o, per i propri utenti
+ 
+
+ interni, dagli utenti amministratore dei soggetti aderenti. Queste credenziali permettono ai titolari di usare i servizi utente del 
+ 
+
+ sistema di riscontro; 
+ 
+
+ • credenziali macchina, generate da Consap con il proprio sistema
+ 
+
+ di gestione amministrativa delle convenzioni per permettere a sistemi informatici dei soggetti aderenti di accreditarsi per ottenere servizi dal sistema informatico in modalità A2A - Application to 
+ 
+
+ Application. 
+ 
+
+ L'utenza del sistema accederà al portale web su rete internet del sistema di riscontro mediante credenziali applicative nominative (credenziali utente) costituite da una login, una prima password (password1) e una seconda password (password2). Le credenziali 
+ 
+
+ avranno le seguenti caratteristiche: 
+ 
+
+ - le credenziali saranno generate mediante il sistema di gestione amministrativa delle convenzioni dall'amministratore di sistema Consap o, per gli utenti dei soggetti aderenti, dagli utenti con 
+ 
+
+ ruolo di amministratore dei soggetti aderenti stessi; 
+ 
+
+ - la login individuerà univocamente l'utente; 
+ 
+
+ - le due password saranno generate automaticamente dal sistema e 
+ 
+
+ saranno costituite da almeno otto caratteri alfanumerici; 
+ 
+
+ - la prima password sarà fornita automaticamente al solo utente titolare, mediante messaggio di posta elettronica mandato alla 
+ 
+
+ casella di posta elettronica del titolare; 
+ 
+
+ - la seconda password sarà fornita automaticamente all'organizzazione di appartenenza dell'utente titolare, mediante messaggio di posta elettronica mandato alla casella di posta elettronica certificata dell'organizzazione di appartenenza 
+ 
+
+ dell'utente titolare, che la dovrà inoltrare all'utente stesso; 
+ 
+
+ - all'atto del primo ingresso, il sistema chiederà all'utente di cambiare la prima password; 
+ 
+
+ - all'atto dell'ingresso, il sistema chiederà all'utente di cambiare la prima password se saranno trascorsi più di sei mesi 
+ 
+
+ dalla sua ultima modifica; 
+ 
+
+ - l'amministratore di sistema Consap o, per gli utenti dei soggetti aderenti, gli utenti con ruolo di amministratore dei soggetti aderenti stessi, potranno abilitare/disabilitare gli utenti all'uso del servizio e potranno cambiarne il ruolo (cioè l'insieme delle funzioni applicative ad essi abilitate), in modo da riflettere nel 
+ 
+
+ sistema i cambiamenti organizzativi avvenuti; 
+ 
+
+ - l'amministratore di sistema Consap, con la collaborazione degli utenti amministratori dei soggetti aderenti, verificherà inoltre con cadenza annuale l'elenco degli utenti registrati, in modo da 
+ 
+
+ disabilitare le utenze nei fatti non più attive. 
+ 
+
+ L'amministratore di sistema Consap potrà inoltre creare e gestire credenziali macchina, mediante il sistema di gestione amministrativa delle convenzioni. 
+ 
+
+ Le credenziali macchina avranno le seguenti caratteristiche: 
+ 
+
+ - avranno una componente applicativa (login + password1 + password2), associata ad un apposito nominativo indicato dal soggetto aderente e saranno distribuite con le medesime modalità previste per 
+ 
+
+ le credenziali utente; 
+ 
+
+ - avranno un'ulteriore componente infrastrutturale, costituita da un certificato conforme allo standard X.509 e fornito a Consap dal 
+ 
+
+ soggetto aderente. 
+ 
+
+ All'atto della richiesta di accesso, da parte del sistema informatico del soggetto aderente ai servizi application to application del sistema di riscontro, avverranno pertanto due tipi di 
+ 
+
+ verifica: 
+ 
+
+ - corretto instaurarsi della comunicazione criptata con protocollo https e con mutuo riconoscimento, lato client e lato server; 
+ 
+
+ - riconoscimento delle credenziali applicative presentate, in sede di invocazione del servizio, dal sistema chiamante, che dovranno corrispondere all'utente del soggetto aderente abilitato a questo 
+ 
+
+ tipo di servizi. 
+ 
+
+ 
+ 
+
+ 6 Tracciamento delle operazioni 
+ 
+
+ 
+ 
+
+ Tutte le operazioni di accesso (lato client) ai servizi del sistema di riscontro - comprese quelle per l'accesso e l'utilizzo delle informazioni presenti nell'archivio delle frodi subite - e tutte le richieste di servizio del sistema di riscontro alle banche dati istituzionali (lato server) saranno registrate in log applicativi, nei quali sarà associata ad ogni operazione l'identificativo 
+ 
+
+ dell'utente richiedente l'operazione. Più in particolare: 
+ 
+
+ - per ogni operazione eseguita con il sistema di riscontro, il sistema stesso registrerà l'utente che ha eseguito l'operazione, il momento e il tipo di operazione eseguita; 
+ 
+
+ - per ogni richiesta di riscontro e per ogni richiesta di accesso all'archivio delle frodi subite saranno registrate nella base di dati di sistema l'identificativo dell'utente richiedente, l'identificativo dell'aderente di appartenenza e dell'eventuale aderente delegante, l'identificativo univoco della richiesta, la data e ora (timestamp) della richiesta pervenuta dall'aderente e la data e ora (timestamp) della risposta fornita all'aderente, l'elenco dei campi oggetto di riscontro/accesso all'archivio delle frodi subite e il codice fiscale della persona fisica oggetto di riscontro: questa ultima informazione sarà memorizzata - in forma criptata - in modo che possa essere verificata, attraverso una specifica funzione applicativa messa a disposizione del solo personale Consap appositamente incaricato, nell'ambito di possibili controlli sulla liceità dell'uso del sistema da parte dell'utenza in specifici casi. Nel caso di richieste di riscontro, saranno inoltre registrati nella base di dati di sistema l'elenco degli esiti semaforici restituiti dalle banche dati a fronte di ognuno dei campi oggetto di riscontro, l'elenco delle banche dati interpellate e l'esito tecnico complessivo dell'esecuzione della richiesta (in termini di esecuzione terminata correttamente oppure no); 
+ 
+
+ - per ogni richiesta di riscontro attivata dal sistema di riscontro nei confronti di ogni banca dati, saranno registrate inoltre nella base di dati di sistema l'identificativo univoco della richiesta dell'aderente originante tale attivazione di servizio, l'identificativo della banca dati chiamata e del servizio invocato, la data e ora (timestamp) della richiesta effettuata dal sistema di riscontro e la data e ora (timestamp) della risposta fornita dalla banca dati, l'elenco dei campi (ma non i corrispondenti valori) oggetto di riscontro, l'elenco dei corrispondenti esiti semaforici restituiti dalla banca dati e l'esito tecnico complessivo dell'invocazione del servizio fornito dalla banca dati (in termini di 
+ 
+
+ esecuzione terminata correttamente oppure no). 
+ 
+
+ 
+ 
+
+ 7 Profili di autorizzazione 
+ 
+
+ 
+ 
+
+ Il sistema consentirà all'utenza di riscontrare insiemi diversi di 
+ 
+
+ dati in funzione della singola tipologia di aderente. 
+ 
+
+ La tabella seguente mostra i profili di autorizzazione previsti per le singole tipologie di aderenti, in rapporto ai riscontri sui diversi tipi di dati previsti dall'art. 9 del regolamento attuativo. 
+ 
+
+ 
+ 
+ 
+ Dati oggetto di riscontro Aderenti ex art. 30-ter, comma 5, lettera a) Aderenti ex art. 30-ter, comma 5, lettera b) Aderenti ex art. 30-ter, comma 5, lettera c) Aderenti ex art. 30-ter, comma 5, lettera c-bis) Aderenti ex art. 30-ter, comma 5, lettera d) 
+ 
+
+ 
+ Elementi identifi- cativi del richie- dente (articolo 9, comma 1, lettera a) Nome e cognome Data e luogo di nascita Sesso Cittadinanza Domicilio fiscale Provincia Codice avviamento postale Riscontro dell'esi- stenza in vita Si Si Si Si Si 
+ 
+
+ 
+ Elementi identifi- cativi dei docu- menti di identità (articolo 9, comma 1, lettera b) Tipologia di documento Numero del documento Data di rilascio del documento Data di scadenza del documento Ente che ha rilasciato il documento Provincia del comune che ha rilasciato il documento Numero di serie del supporto plastico Riscontro della presenza del documento nell'archi- vio dei documenti smarriti o rubati Si Si Si Si Si 
+ 
+
+ 
+ Dati relativi alle tessere sanitarie Numero della tessera sanitaria Data di rilascio della tessera sanitaria Data di scadenza della tessera sanitaria Numero del codice fiscale Si Si Si Si Si 
+ 
+
+ 
+ , ai codici fiscali, alle partite IVA e ai documenti che atte- stano il reddito (articolo 9, comma 2 Numero della partita IVA Data di attribuzione della partita IVA Anno dell'ultima presenta- zione della dichiara- zione dei redditi Riscontro della fascia di reddito entro la quale la persona fisica è collocata Si No No No Auto- rizzazi- one in funzione della tipo- logia di aderente 
+ 
+
+ 
+ Dati relativi alle posizioni contribu- tive, previ- denziali e assi- stenziali (articolo 9, comma 3 Data di inizio del rapporto di lavoro Tipologia del rapporto di lavoro Qualifica Periodo di competenza del prospetto di paga Imponibile previ- denziale del prospetto di paga Numero posi- zione contributiva previ- denziale del datore di lavoro Numero posi- zione assi- curativa del datore di lavoro Nominativo del datore di lavoro o del rappre- sentante legale Numero del codice fiscale del datore di lavoro Numero della partita IVA del datore di lavoro Si No No No Auto- rizzazi- one in funzione della tipo- logia di aderente
