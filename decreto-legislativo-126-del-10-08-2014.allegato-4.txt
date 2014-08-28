@@ -1,0 +1,154 @@
+Allegato D 
+ 
+
+ 
+ 
+
+ Allegato n. 7 
+ 
+
+ al D.Lgs 118/2011 
+ 
+
+ 
+ 
+
+ CODIFICA DELLA TRANSAZIONE ELEMENTARE 
+ 
+
+ (Articolo 6, comma 1) 
+ 
+
+ 
+ 
+
+ 1) La struttura della codifica della transazione elementare di cui agli articoli 5 e 6 è costituita da: 
+ 
+
+ a) codice funzionale per missioni e programmi (solo per le spese), come definito dagli allegati n. 9 concernenti gli schemi di bilancio; 
+ 
+
+ b) codice economico attribuito alle articolazioni del piano dei conti integrato come definito dagli allegati n. 6 concernenti il piano dei conti integrato, a decorrere dall'esercizio 2016; 
+ 
+
+ c) codice identificativo della classificazione Cofog al secondo livello, per le spese; 
+ 
+
+ d) codice identificativo delle transazioni dell'Unione europea di cui al punto 2; 
+ 
+
+ e) codice SIOPE. Nei titoli di incasso e di pagamento al codice SIOPE è destinato un apposito campo; 
+ 
+
+ f) codice unico di progetto, identificativo del progetto d'investimento pubblico realizzato dall'amministrazione (solo per le spese di investimento); 
+ 
+
+ g) codice identificativo dell'entrata ricorrente e non ricorrente, a seconda se l'acquisizione dell'entrata sia prevista a regime ovvero limitata ad uno o più esercizi, e della spesa ricorrente e non ricorrente, a seconda se la spesa sia prevista a regime o limitata ad uno o più esercizi, costituiti da: 
+ 
+
+ a) 1 per le entrate ricorrenti. 
+ 
+
+ b) 2 per le entrate non ricorrenti. 
+ 
+
+ c) 3 per le spese ricorrenti. 
+ 
+
+ d) 4 perle spese non ricorrenti. 
+ 
+
+ h) codice identificativo dei capitoli del perimetro sanitario, di cui all'articolo 20, comma 1, solo per le regioni tenute all'applicazione di tale articolo. 
+ 
+
+ i) codice che identifica il programma cui si riferiscono le spese imputate ai programmi riguardanti la politica regionale unitaria a partire dalla nuova programmazione comunitaria 2014, solo per le regioni. 
+ 
+
+ 2) Il codice identificativo delle transazioni riguardanti risorse dell'Unione europea è costituito da: 
+ 
+
+ a) 1 per le entrate derivanti da trasferimenti destinate al finanziamento dei progetti comunitari provenienti da amministrazioni pubbliche e da altri soggetti; 
+ 
+
+ b) 2 per le altre entrate 
+ 
+
+ c) 3 per le spese finanziate da trasferimenti della UE, ivi compresi i programmi di cooperazione territoriale, a decorrere dalla nuova programmazione comunitaria 2014; 
+ 
+
+ d) 4 per le spese finanziate da trasferimenti statali correlati ai finanziamenti dell'Unione europea; 
+ 
+
+ e) 5 per le spese finanziate da trasferimenti regionali correlati ai finanziamenti dell'Unione europea. Le regioni adottano tale codice solo in caso di trasferimenti da altre regioni; 
+ 
+
+ f) 6 per le spese finanziate da trasferimenti di altri soggetti correlati ai finanziamenti dell'Unione europea; 
+ 
+
+ g) 7 per le spese correlate ai finanziamenti dell'Unione europea finanziati da risorse dell'ente; 
+ 
+
+ h) 8 per le spese non correlate ai finanziamenti dell'Unione europea. 
+ 
+
+ 3) Il codice identificativo dei capitoli del perimetro sanitario, di cui all'articolo 20, comma 1, è costituito da: 
+ 
+
+ a. 1 per le entrate delle gestione ordinaria della regione; 
+ 
+
+ b. 2 per le entrate della gestione sanitaria della regione,; 
+ 
+
+ c. 3 per le spese delle gestione ordinaria della regione; 
+ 
+
+ d. 4 per le spese della gestione sanitaria della regione. 
+ 
+
+ 4) Al fine di consentire la rappresentazione riassuntiva dei costi per missioni prevista dall'articolo 14, comma 3, del presente decreto, la codifica di cui al punto 1), lettera a), è attribuita anche alle scritture di assestamento della contabilità economico-patrimoniale. 
+ 
+
+ 5) Ai fini dell'attribuzione della codifica di cui al punto1), lettera g) sono, in ogni caso, da considerarsi non ricorrenti le entrate riguardanti: 
+ 
+
+ a) donazioni, sanatorie, abusi edilizi e sanzioni; 
+ 
+
+ b) condoni; 
+ 
+
+ c) gettiti derivanti dalla lotta all'evasione tributaria; 
+ 
+
+ d) entrate per eventi calamitosi; 
+ 
+
+ e) alienazione di immobilizzazioni; 
+ 
+
+ f) le accensioni di prestiti; 
+ 
+
+ g) i contributi agli investimenti, a meno che non siano espressamente definitivi "continuativi" dal provvedimento o dalla norma che ne autorizza l'erogazione. 
+ 
+
+ Sono, in ogni caso, da considerarsi non ricorrenti, le spese riguardanti: 
+ 
+
+ a) le consultazioni elettorali o referendarie locali, 
+ 
+
+ b) i ripiani disavanzi pregressi di aziende e società e gli altri trasferimenti in c/capitale, 
+ 
+
+ c) gli eventi calamitosi, 
+ 
+
+ d) le sentenze esecutive ed atti equiparati, 
+ 
+
+ e) gli investimenti diretti, 
+ 
+
+ f) i contributi agli investimenti.
