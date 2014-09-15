@@ -75,34 +75,14 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il Consiglio dei Ministri, su proposta del Presidente del Consiglio, può deliberare il commissariamento straordinario dell'impresa, esercitata anche in forma di società, 
- ((che impieghi un numero di lavoratori subordinati, compresi quelli ammessi al trattamento di integrazione guadagni, non inferiore a mille e))
+ 1. Il Consiglio dei Ministri, su proposta del Presidente del Consiglio, può deliberare il commissariamento straordinario dell'impresa, esercitata anche in forma di società, che impieghi un numero di lavoratori subordinati, compresi quelli ammessi al trattamento di integrazione guadagni, non inferiore a mille e che gestisca almeno uno stabilimento industriale di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, la cui attività produttiva abbia comportato e comporti oggettivamente pericoli gravi e rilevanti per l'integrità dell'ambiente e della salute a causa della inosservanza reiterata dell'autorizzazione integrata ambientale, di seguito anche "a.i.a.".
+ 
 
- che gestisca almeno uno stabilimento 
- ((industriale))
-
- di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito 
- ((, con modificazioni,))
-
- dalla legge 24 dicembre 2012, n. 231, la cui attività produttiva abbia comportato e comporti 
- ((oggettivamente))
-
- pericoli gravi e rilevanti per l'integrità dell'ambiente e della salute a causa della inosservanza 
- ((reiterata))
-
- dell'autorizzazione integrata ambientale, di seguito anche "a.i.a.". Il commissario è nominato con decreto del Presidente del Consiglio dei Ministri entro sette giorni dalla delibera del Consiglio dei Ministri e si avvale di un sub commissario nominato dal Ministro dell'ambiente e della tutela del territorio e del mare. Con gli stessi procedimenti si provvede all'eventuale sostituzione o revoca del commissario e del sub commissario. 
- ((Al commissario e al sub commissario sono attribuiti poteri per i piani e le azioni di bonifica previsti dall'a.i.a.))
-
- . 
+ Il commissario è nominato con decreto del Presidente del Consiglio dei Ministri entro sette giorni dalla delibera del Consiglio dei Ministri e si avvale di un sub commissario nominato dal Ministro dell'ambiente e della tutela del territorio e del mare. Con gli stessi procedimenti si provvede all'eventuale sostituzione o revoca del commissario e del sub commissario. Al commissario e al sub commissario sono attribuiti poteri per i piani e le azioni di bonifica previsti dall'a.i.a.. 
  
 
  
  
- 
-
- 
- 
- ((
  
 
  
@@ -114,9 +94,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 1-ter. Il commissariamento di cui al comma 1, fermo restando quanto disposto dall'articolo 29-decies, comma 10, del decreto legislativo 3 aprile 2006, n. 152, costituisce deroga all'articolo 29-decies, comma 9, del medesimo decreto, qualora siano compiuti gli adempimenti previsti dal comma 9 del presente articolo))
+ 1-ter. Il commissariamento di cui al comma 1, fermo restando quanto disposto dall'articolo 29-decies, comma 10, del decreto legislativo 3 aprile 2006, n. 152, costituisce deroga all'articolo 29-decies, comma 9, del medesimo decreto, qualora siano compiuti gli adempimenti previsti dal comma 9 del presente articolo. 
  
 
+ 
+ 
  
 
  
@@ -128,7 +110,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Per la durata del commissariamento sono attribuiti al commissario tutti i poteri e le funzioni degli organi di amministrazione dell'impresa ed è sospeso l'esercizio dei poteri di disposizione e gestione dei titolari dell'impresa. Nel caso di impresa costituita in forma societaria, i poteri dell'assemblea sono sospesi per l'intera durata del commissariamento. Le linee di credito ed i relativi rapporti debitori, concernenti l'attività dell'azienda, oggetto di commissariamento, anche in carico a società del medesimo gruppo, sono trasferite al commissario ai sensi degli articoli 1339 e 2558 del codice civile. 
+ 3. Per la durata del commissariamento sono attribuiti al commissario tutti i poteri e le funzioni degli organi di amministrazione dell'impresa ed è sospeso l'esercizio dei poteri di disposizione e gestione dei titolari dell'impresa. Nel caso di impresa costituita in forma societaria, i poteri dell'assemblea sono sospesi per l'intera durata del commissariamento. Al commissario è attribuito il potere di redigere e approvare il bilancio di esercizio e, laddove applicabile, il bilancio consolidato dell'impresa soggetta a commissariamento. Le linee di credito ed i relativi rapporti debitori, concernenti l'attività dell'azienda, oggetto di commissariamento, anche in carico a società del medesimo gruppo, sono trasferite al commissario ai sensi degli articoli 1339 e 2558 del codice civile. (2) 
  
 
  
@@ -136,19 +118,73 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. è garantita 
- ((al titolare dell'impresa, ovvero al socio di maggioranza, nonchè al))
+ 4. è garantita al titolare dell'impresa, ovvero al socio di maggioranza, nonchè al rappresentante legale all'atto del commissariamento o ad altro soggetto, appositamente designato dall'Assemblea dei soci, l'informazione sull'andamento della gestione e sulle misure di cui al comma 2. Il Presidente del Consiglio dei Ministri, con decreto motivato, può sostituire fino a due terzi dei componenti degli organi di controllo; il restante terzo è nominato dagli azionisti di minoranza. Tutti i componenti restano in carica per la durata del commissariamento. 
+ 
 
- rappresentante legale all'atto del commissariamento 
- ((o ad altro soggetto,))
+ 
+ 
+ 
 
- appositamente designato dall'Assemblea dei soci, l'informazione sull'andamento della gestione e sulle misure di cui al comma 2. Il Presidente del Consiglio dei Ministri, 
- ((con decreto motivato))
+ 
+ 5. Contestualmente alla nomina del commissario straordinario, il Ministro dell'ambiente e della tutela del territorio e del mare, sentiti i Ministri della salute e dello sviluppo economico, nomina un comitato di tre esperti, scelti tra soggetti di comprovata esperienza e competenza in materia di tutela dell'ambiente e della salute e di ingegneria impiantistica, che, sentito il commissario straordinario, predispone e propone al Ministro, entro sessanta giorni dalla nomina, in conformità alle norme dell'Unione europea e internazionali nonchè alle leggi nazionali e regionali, il piano delle misure e delle attività di tutela ambientale e sanitaria che prevede le azioni e i tempi necessari per garantire il rispetto delle prescrizioni di legge e dell'a.i.a. Lo schema di piano è reso pubblico, anche attraverso la pubblicazione nei siti web dei Ministeri dell'ambiente e della tutela del territorio e del mare e della salute, nonchè attraverso link nei siti web della regione e degli enti locali interessati, a cura del commissario straordinario, che acquisisce le eventuali osservazioni, che possono essere proposte nei successivi trenta giorni e sono valutate dal comitato ai fini della definitiva proposta entro il termine di centoventi giorni dalla nomina del medesimo comitato 
+ 
 
- , può sostituire 
- ((fino a due terzi dei componenti degli organi di controllo; il restante terzo è nominato dagli azionisti di minoranza. Tutti i componenti))
+ 
+ 
+ 
 
- restano in carica per la durata del commissariamento. 
+ 
+ 6. Entro il termine di trenta giorni dal decreto di approvazione del piano di cui al comma 5, il commissario straordinario, comunicato il piano industriale al titolare dell'impresa, ovvero al socio di maggioranza, nonchè al rappresentante legale all'atto del commissariamento o ad altro soggetto, appositamente designato dall'assemblea dei soci, e acquisite e valutate le eventuali osservazioni pervenute entro i successivi dieci giorni 
+ ((anche da parte degli enti locali interessati nel cui territorio insistono gli impianti dell'impresa commissariata))
+
+ , predispone il piano industriale di conformazione delle attività produttive, che consente la continuazione dell'attività produttiva nel rispetto delle prescrizioni di tutela ambientale, sanitaria e di sicurezza di cui al comma 5. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7. 
+ 
+ ((Il piano di cui al comma 5 è approvato con decreto del Presidente del Consiglio dei ministri, previa delibera del Consiglio dei ministri, su proposta del Ministro dell'ambiente e della tutela del territorio e del mare, sentito il Ministro della salute, entro quindici giorni dalla proposta e comunque entro il 28 febbraio 2014.
+ 
+
+ Il Ministro dell'ambiente e della tutela del territorio e del mare, al fine della formulazione della proposta di cui al periodo precedente, acquisisce sulla proposta del comitato di esperti di cui al comma 5, ultimo periodo, il parere del Commissario straordinario e quello della regione competente, che sono resi entro dieci giorni dalla richiesta, decorsi i quali la proposta del Ministro può essere formulata anche senza i pareri richiesti. La proposta del Ministro dell'ambiente e della tutela del territorio e del mare è formulata entro quindici giorni dalla richiesta dei pareri e comunque non oltre quarantacinque giorni dal ricevimento della proposta del comitato di esperti di cui al comma 5, ultimo periodo. Il piano di cui al comma 6 è approvato con decreto del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dello sviluppo economico, formulata entro quindici giorni dalla presentazione del piano medesimo.))
+ 
+
+ Il rappresentante dell'impresa di cui al comma 4 può proporre osservazioni al piano di cui al comma 5 entro dieci giorni dalla sua pubblicazione; le stesse sono valutate dal comitato ai sensi dell'ultimo periodo del comma 5.
+ 
+
+ L'approvazione del piano di cui al comma 5 equivale a modifica dell'a.i.a., limitatamente alla modulazione dei tempi di attuazione delle relative prescrizioni, che consenta il completamento degli adempimenti previsti nell'a.i.a. non oltre trentasei mesi dalla data di entrata in vigore della legge di conversione del presente decreto.
+ 
+
+ In attuazione dell'articolo 1-bis del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, i rapporti di valutazione del danno sanitario si conformano ai criteri metodologici stabiliti dal decreto interministeriale di cui al comma 2 del medesimo articolo 1-bis. Il rapporto di valutazione del danno sanitario non può unilateralmente modificare le prescrizioni dell'a.i.a. in corso di validità, ma legittima la regione competente a chiedere il riesame ai sensi dell'articolo 29-octies, comma 4, del decreto legislativo 3 aprile 2006, n. 152. 
+ ((Fatta salva l'applicazione dell'articolo 12 del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, il decreto di approvazione del piano di cui al comma 5 conclude i procedimenti di riesame previsti dall'autorizzazione integrata ambientale, costituisce integrazione alla medesima autorizzazione integrata ambientale, e i suoi contenuti possono essere modificati con i procedimenti di cui agli articoli 29-octies e 29-nonies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni.))
+
+ 
+ 
+
+ 
+ 8. 
+ ((Fino all'adozione del decreto di approvazione del piano delle misure e delle attività di tutela ambientale e sanitaria di cui al comma 7))
+
+ , il commissario straordinario garantisce comunque la progressiva adozione delle misure previste dall'autorizzazione integrata ambientale e dalle altre autorizzazioni e prescrizioni in materia di tutela ambientale e sanitaria, curando altresì la prosecuzione dell'attività di impresa nel rispetto delle disposizioni del presente comma. 
+ ((La progressiva adozione delle misure, prevista dal periodo precedente, si interpreta nel senso che la stessa è rispettata qualora sussistano tutte le seguenti condizioni: a) la qualità dell'aria nella zona esterna allo stabilimento, per la parte riconducibile alle sue emissioni, valutata sulla base dei parametri misurati dalle apposite centraline di monitoraggio gestite dall'A.R.P.A. risulti conforme alle prescrizioni delle vigenti disposizioni europee e nazionali in materia, e comunque non abbia registrato un peggioramento rispetto alla data di inizio della gestione commissariale;b) alla data di approvazione del piano, siano stati avviati gli interventi necessari ad ottemperare ad almeno l'80 per cento del numero complessivo delle prescrizioni contenute nelle autorizzazioni integrate ambientali, ferma restando la non applicazione dei termini previsti dalle predette autorizzazioni e prescrizioni. Il Commissario, entro trenta giorni dall'approvazione del piano di cui al comma 5, trasmette all'Istituto superiore per la protezione e la ricerca ambientale una relazione che indica analiticamente i suddetti interventi.))
+
+ 
+ 
+
+ 
+ 9. La predisposizione dei piani di cui ai commi 5 e 6 nei termini ivi previsti, l'osservanza delle prescrizioni dei piani di cui ai medesimi commi, e, nelle more dell'adozione degli stessi piani, il rispetto delle previsioni di cui al comma 8, equivalgono e producono i medesimi effetti, ai fini dell'accertamento di responsabilità per il commissario, il sub commissario e gli esperti del comitato, derivanti dal rispetto dei modelli di organizzazione dell'ente in relazione alla responsabilità dei soggetti in posizione apicale per fatti di rilievo penale o amministrativo di cui all'articolo 6 del decreto legislativo 8 giugno 2001, n. 231, per gli illeciti strettamente connessi all'attuazione dell'a.i.a. e delle altre norme a tutela dell'ambiente e della salute. 
+ 
+ ((In applicazione del generale principio di semplificazione procedimentale, al fine dell'acquisizione delle autorizzazioni, intese concerti, pareri, nulla osta e assensi comunque denominati degli enti locali, regionali, dei ministeri competenti, di tutti gli altri enti comunque coinvolti, necessari per realizzare le opere e i lavori previsti dall'autorizzazione integrata ambientale, dal piano delle misure e delle attività di tutela ambientale e sanitaria, dal piano industriale di conformazione delle attività produttive, il Ministero dell'ambiente e della tutela del territorio e del mare, su proposta del commissario straordinario, convoca una conferenza dei servizi ai sensi degli articoli 14 e seguenti della legge 7 agosto 1990, n. 241, che si deve pronunciare entro il termine di sessanta giorni dalla convocazione. La conferenza di servizi si esprime dopo avere acquisito, se dovuto, il parere della commissione tecnica di verifica dell'impatto ambientale di cui all'articolo 8 del decreto legislativo 3 aprile 2006, n. 152, che si esprime sulla valutazione di impatto ambientale del progetto entro sessanta giorni dalla sua presentazione, o sulla verifica di assoggettabilità alla procedura medesima entro trenta giorni. I predetti termini sono comprensivi dei quindici giorni garantiti al pubblico interessato al fine di esprimere osservazioni sugli elaborati progettuali messi a disposizione. Nei casi di attivazione delle procedure di VIA, il termine di conclusione della conferenza di servizi è sospeso per un massimo di novanta giorni. Decorso tale termine, i pareri non espressi si intendono resi in senso favorevole. Solo nel caso di motivata richiesta di approfondimento tecnico, tale termine può essere prorogato una sola volta fino ad un massimo di trenta giorni.
+ 
+
+ La determinazione conclusiva della conferenza di servizi è adottata con decreto del Ministro dell'ambiente e della tutela del territorio e del mare e costituisce variante ai piani territoriali ed urbanistici, per la quale non è necessaria la valutazione ambientale strategica. Nel caso di motivato dissenso delle autorità preposte alla tutela ambientale, sanitaria, culturale o paesaggistica, il Consiglio dei ministri si pronuncia sulla proposta, previa intesa con la regione o provincia autonoma interessata, entro i venti giorni successivi all'intesa. L'intesa si intende comunque acquisita decorsi trenta giorni dalla relativa richiesta. Le cubature degli edifici di copertura di materie prime, sottoprodotti, rifiuti e impianti, previsti dall'autorizzazione integrata ambientale o da altre prescrizioni ambientali, sono considerate "volumi tecnici"))
+ 
+
+ . (2) 
  
 
  
@@ -161,7 +197,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Contestualmente alla nomina del commissario straordinario, il Ministro dell'ambiente e della tutela del territorio e del mare, sentiti i Ministri della salute e dello sviluppo economico, nomina un comitato di tre esperti, scelti tra soggetti di comprovata esperienza e competenza in materia di tutela dell'ambiente e della salute e di ingegneria impiantistica, che, sentito il commissario straordinario, predispone e propone al Ministro, entro sessanta giorni dalla nomina, in conformità alle norme dell'Unione europea e internazionali nonchè alle leggi nazionali e regionali, il piano delle misure e delle attività di tutela ambientale e sanitaria che prevede le azioni e i tempi necessari per garantire il rispetto delle prescrizioni di legge e dell'a.i.a. Lo schema di piano è reso pubblico, anche attraverso la pubblicazione nei siti web dei Ministeri dell'ambiente e della tutela del territorio e del mare e della salute, nonchè attraverso link nei siti web della regione e degli enti locali interessati, a cura del commissario straordinario, che acquisisce le eventuali osservazioni, che possono essere proposte nei successivi trenta giorni e sono valutate dal comitato ai fini della definitiva proposta entro il termine di centoventi giorni dalla nomina del medesimo comitato
+ 9-bis. Durante la gestione commissariale, qualora vengano rispettate le prescrizioni dei piani di cui ai commi 5 e 6, nonchè le previsioni di cui al comma 8, non si applicano, per atti o comportamenti imputabili alla gestione commissariale, le sanzioni previste dall'articolo 1, comma 3, del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231. Dette sanzioni, ove riferite a atti o comportamenti imputabili alla gestione precedente al commissariamento, non possono essere poste a carico dell'impresa commissariata per tutta la durata del commissariamento e sono irrogate al titolare dell'impresa o al socio di maggioranza che abbiano posto in essere detti atti o comportamenti.
  
 
  
@@ -171,20 +207,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((6. Entro il termine di trenta giorni dal decreto di approvazione del piano di cui al comma 5, il commissario straordinario, comunicato il piano industriale al titolare dell'impresa, ovvero al socio di maggioranza, nonchè al rappresentante legale all'atto del commissariamento o ad altro soggetto, appositamente designato dall'assemblea dei soci, e acquisite e valutate le eventuali osservazioni pervenute entro i successivi dieci giorni, predispone il piano industriale di conformazione delle attività produttive, che consente la continuazione dell'attività produttiva nel rispetto delle prescrizioni di tutela ambientale, sanitaria e di sicurezza di cui al comma 5))
- 
-
- 
-
- 
- 7. Il piano di cui al comma 5 è approvato con decreto del Ministro dell'ambiente 
- ((e della tutela del territorio e del mare, sentita la regione competente))
-
- , quello di cui al comma 6 dal Ministro dello sviluppo economico, entro 15 giorni dalla loro presentazione. Il rappresentante dell'impresa di cui al comma 4 può proporre osservazioni al piano di cui al comma 5 entro dieci giorni dalla sua pubblicazione; le stesse sono valutate dal comitato ai sensi dell'ultimo periodo del comma 5. L'approvazione del piano di cui al comma 5 equivale a modifica dell'a.i.a. 
- ((, limitatamente alla modulazione dei tempi di attuazione delle relative prescrizioni, che consenta il completamento degli adempimenti previsti nell'a.i.a. non oltre trentasei mesi dalla data di entrata in vigore della legge di conversione del presente decreto. In attuazione dell'articolo 1-bis del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, i rapporti di valutazione del danno sanitario si conformano ai criteri metodologici stabiliti dal decreto interministeriale di cui al comma 2 del medesimo articolo 1-bis. Il rapporto di valutazione del danno sanitario non può unilateralmente modificare le prescrizioni dell'a.i.a. in corso di validità, ma legittima la regione competente a chiedere il riesame ai sensi dell'articolo 29-octies, comma 4, del decreto legislativo 3 aprile 2006, n. 152))
-
- . 
+ 10. L'attività di gestione dell'impresa eseguita in presenza dei presupposti di cui al comma 8 e, successivamente, nel rispetto dei piani, è considerata di pubblica utilità ad ogni effetto ed il commissario non risponde delle eventuali diseconomie dei risultati ai sensi dell'articolo 2236 del codice civile, tranne che abbia agito con dolo o colpa grave. 
  
 
  
@@ -192,65 +215,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. Fino all'approvazione del piano industriale di cui al comma 6, il commissario straordinario garantisce comunque la progressiva adozione delle misure previste dall'autorizzazione integrata ambientale e dalle altre autorizzazioni e prescrizioni in materia 
- ((di tutela))
-
- ambientale e sanitaria, curando altresì la prosecuzione dell'attività di impresa nel rispetto delle disposizioni del presente comma. 
- 
-
- 
- 
- 
-
- 
- 9. La predisposizione dei piani di cui ai commi 5 e 6 nei termini ivi previsti, l'osservanza delle prescrizioni dei piani di cui ai medesimi commi, e, nelle more dell'adozione degli stessi piani, il rispetto delle previsioni di cui al comma 8, equivalgono e producono i medesimi effetti, ai fini dell'accertamento 
- ((di responsabilità per il commissario, il sub commissario e gli esperti del comitato))
-
- , derivanti dal rispetto dei modelli di organizzazione dell'ente in relazione alla responsabilità dei soggetti in posizione apicale per fatti di rilievo penale o amministrativo di cui all'articolo 6 del decreto legislativo 8 giugno 2001, n. 231, per gli illeciti strettamente connessi all'attuazione dell'a.i.a. e delle altre norme a tutela dell'ambiente e della salute. 
- 
-
- 
- 
- 
-
- 
- 10. L'attività di gestione dell'impresa eseguita in presenza dei presupposti di cui al comma 8 e, successivamente, nel rispetto dei piani, è considerata di pubblica utilità ad ogni effetto ed il commissario non risponde delle eventuali diseconomie dei risultati 
- ((ai sensi dell'articolo 2236 del codice civile))
-
- , tranne che abbia agito con dolo o colpa grave. 
- 
-
- 
- 
- 
-
- 
- 11. Il giudice competente provvede allo svincolo delle somme per le quali in sede penale sia stato disposto il sequestro, anche ai sensi del decreto legislativo 231 del 2001, in danno dei soggetti nei cui confronti l'autorità amministrativa abbia disposto l'esecuzione degli obblighi di attuazione delle prescrizioni dell'aia e di messa in sicurezza, risanamento e bonifica ambientale, nonchè degli enti o dei soggetti controllati o controllanti, in relazione a reati comunque connessi allo svolgimento dell'attività di impresa. Le predette somme sono messe a disposizione del commissario e vincolate alle finalità indicate al periodo precedente. 
- ((Le somme di cui al presente comma, messe a disposizione del commissario e utilizzate per l'adempimento delle prescrizioni dell'a.i.a., non sono mai ripetibili, attesa la loro destinazione per finalità aziendali e di salute pubblica))
-
- . 
- 
-
- 
- 
- 
-
- 
- 12. I proventi derivanti dall'attività dell'impresa commissariata restano nella disponibilità del commissario nella misura necessaria all'attuazione dell'aia ed alla gestione dell'impresa nel rispetto delle previsioni del presente decreto 
- ((e altresì, nei limiti delle disponibilità residue, a interventi di bonifica dell'area dello stabilimento secondo le modalità previste dall'ordinamento vigente))
-
- . 
- 
-
- 
- 
- 
-
- 
- 13. Il compenso omnicomprensivo del commissario straordinario è determinato con decreto del Presidente del Consiglio dei Ministri, nel rispetto dei limiti previsti dall'articolo 23-bis, comma 5-bis, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, o, se dipendenti pubblici, dall'articolo 23-ter, comma 1, del citato decreto-legge n. 201 del 2011. Il compenso del sub commissario è determinato nella misura del 50 per cento di quella fissata per il commissario. Se dipendenti pubblici, il commissario e il sub commissario sono collocati in aspettativa senza assegni. Il compenso dei componenti del comitato è determinato nella misura del 15 per cento di quella fissata per il commissario. 
- ((Tutti i trattamenti economici nonchè gli eventuali ulteriori oneri di funzionamento della struttura commissariale sono per intero a carico dell'impresa))
-
- . 
+ 11. Il giudice competente provvede allo svincolo delle somme per le quali in sede penale sia stato disposto il sequestro, anche ai sensi del decreto legislativo 231 del 2001, in danno dei soggetti nei cui confronti l'autorità amministrativa abbia disposto l'esecuzione degli obblighi di attuazione delle prescrizioni dell'aia e di messa in sicurezza, risanamento e bonifica ambientale, nonchè degli enti o dei soggetti controllati o controllanti, in relazione a reati comunque connessi allo svolgimento dell'attività di impresa. Le predette somme sono messe a disposizione del commissario e vincolate alle finalità indicate al periodo precedente. Le somme di cui al presente comma, messe a disposizione del commissario e utilizzate per l'adempimento delle prescrizioni dell'a.i.a., non sono mai ripetibili, attesa la loro destinazione per finalità aziendali e di salute pubblica. 
  
 
  
@@ -259,4 +224,96 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- ((13-bis. Al fine di consentire il monitoraggio sull'attività di ispezione e di accertamento svolta dall'ISPRA e dalle ARPA in relazione alle autorizzazioni integrate ambientali rilasciate alle imprese di cui ai commi 1 e 1-bis, il Ministro dell'ambiente e della tutela del territorio e del mare presenta semestralmente alle Camere una relazione sullo stato dei controlli ambientali che dà conto anche dell'adeguatezza delle attività svolte dall'ISPRA e dalle ARPA))
+ ((
+ 
+
+ 
+ 
+ 
+ 11-bis. Al commissario straordinario, previa approvazione del piano industriale, è attribuito il potere, al fine di finanziare gli investimenti ivi previsti per l'attuazione dell'autorizzazione integrata ambientale e per l'adozione delle altre misure previste nel piano delle misure e delle attività di tutela ambientale e sanitaria: 
+ 
+
+ 
+ 
+
+ 
+ a) nel caso di impresa esercitata in forma individuale, di richiedere al titolare dell'impresa le somme necessarie ai fini del risanamento ambientale; 
+ 
+
+ 
+ 
+
+ 
+ b) nel caso di impresa esercitata in forma societaria, di aumentare il capitale sociale a pagamento nella misura necessaria ai fini del risanamento ambientale, in una o più volte, con o senza sovrapprezzo a seconda dei casi: offrendo le azioni emittende in opzione ai soci in proporzione al numero delle azioni possedute, con le modalità previste dall'articolo 2441, secondo comma, del codice civile e nel rispetto del diritto di prelazione di cui al medesimo articolo 2441, terzo comma, primo periodo, ovvero, nel caso in cui non siano stati esercitati, in tutto o in parte, i diritti di opzione, collocando l'aumento di capitale presso terzi; ovvero anche con esclusione o limitazione del diritto di opzione, previa predisposizione della relazione di cui al citato articolo 2441, sesto comma, primo periodo, e rilascio, in tale ultimo caso, da parte del collegio sindacale, del parere sulla congruità del prezzo di emissione delle azioni entro quindici giorni dalla comunicazione della predetta relazione allo stesso e al soggetto incaricato della revisione legale dei conti. In tutti i casi di cui alla presente lettera, le azioni di nuova emissione possono essere liberate esclusivamente mediante conferimenti in denaro. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 11-ter. Il soggetto o i soggetti che intendono sottoscrivere le azioni offerte in opzione e quelli individuati per il collocamento dell'aumento di capitale presso terzi devono, prima di dare corso all'operazione, impegnarsi, nei confronti dell'impresa soggetta a commissariamento nonchè del Ministero dello sviluppo economico e del Ministero dell'ambiente e della tutela del territorio e del mare, a far sì che le risorse finanziarie rivenienti dall'aumento di capitale siano messe a disposizione dell'impresa soggetta a commissariamento ai fini dell'attuazione del piano delle misure e delle attività di tutela ambientale e sanitaria e del piano industriale. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-quater. Le somme eventualmente messe a disposizione dal titolare dell'impresa o dal socio di maggioranza sono scomputate in sede di confisca delle somme sequestrate, anche ai sensi del decreto legislativo 8 giugno 2001, n. 231, per reati ambientali o connessi all'attuazione dell'autorizzazione integrata ambientale. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-quinquies. Qualora con le modalità di cui al comma 11-bis non sia possibile reperire le risorse necessarie per l'attuazione del piano industriale in tempi compatibili con le esigenze dell'impresa soggetta a commissariamento, e comunque non oltre l'anno 2014, al commissario straordinario sono trasferite, su sua richiesta, le somme sottoposte a sequestro penale, nei limiti di quanto costituisce oggetto di sequestro, anche in relazione a procedimenti penali diversi da quelli per reati ambientali o connessi all'attuazione dell'autorizzazione integrata ambientale, a carico del titolare dell'impresa, ovvero, in caso di impresa esercitata in forma societaria, a carico dei soci di maggioranza o degli enti, ovvero dei rispettivi soci o amministratori, che abbiano esercitato attività di direzione e coordinamento sull'impresa commissariata prima del commissariamento. In caso di proscioglimento del titolare dell'impresa o dei soggetti indicati al periodo precedente da tali reati, le predette somme, per la parte in cui sono impiegate per l'attuazione dell'autorizzazione integrata ambientale e delle altre misure previste nel piano delle misure e delle attività di tutela ambientale e sanitaria, e salvo conguaglio per la parte eccedente, non sono comunque ripetibili. In caso di condanna del titolare dell'impresa o dei soggetti indicati al primo periodo per i suddetti reati, resta fermo l'eventuale credito dello Stato e degli altri eventuali soggetti offesi, nella misura accertata dalla sentenza di condanna. Alla data della cessazione del commissariamento, sulle somme trasferite al commissario straordinario che derivano da sequestri penali, ove non ancora spese o impegnate dal commissario medesimo, rivive il vincolo di sequestro penale))
+ 
+
+ 
+
+ 
+ 12. I proventi derivanti dall'attività dell'impresa commissariata restano nella disponibilità del commissario nella misura necessaria all'attuazione dell'aia ed alla gestione dell'impresa nel rispetto delle previsioni del presente decreto e altresì, nei limiti delle disponibilità residue, a interventi di bonifica dell'area dello stabilimento secondo le modalità previste dall'ordinamento vigente. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 13. Il compenso omnicomprensivo del commissario straordinario è determinato con decreto del Presidente del Consiglio dei Ministri, nel rispetto dei limiti previsti dall'articolo 23-bis, comma 5-bis, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, o, se dipendenti pubblici, dall'articolo 23-ter, comma 1, del citato decreto-legge n. 201 del 2011. Il compenso del sub commissario è determinato nella misura del 50 per cento di quella fissata per il commissario. Se dipendenti pubblici, il commissario e il sub commissario sono collocati in aspettativa senza assegni. Il compenso dei componenti del comitato è determinato nella misura del 15 per cento di quella fissata per il commissario. Tutti i trattamenti economici nonchè gli eventuali ulteriori oneri di funzionamento della struttura commissariale sono per intero a carico dell'impresa. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 13-bis. Al fine di consentire il monitoraggio sull'attività di ispezione e di accertamento svolta dall'ISPRA e dalle ARPA in relazione alle autorizzazioni integrate ambientali rilasciate alle imprese di cui ai commi 1 e 1-bis, il Ministro dell'ambiente e della tutela del territorio e del mare presenta semestralmente alle Camere una relazione sullo stato dei controlli ambientali che dà conto anche dell'adeguatezza delle attività svolte dall'ISPRA e dalle ARPA. 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il D.L. 31 agosto 2013, n. 101, convertito con modificazioni dalla L. 30 ottobre 2013, n. 125, ha disposto (con l'art. 12, comma 4) che "La disciplina della responsabilità per il commissario, il sub-commissario e gli esperti del comitato, di cui all'articolo 1, comma 9 del decreto-legge n. 61 del 2013, deve intendersi estesa anche ai soggetti da questi funzionalmente delegati che curino la predisposizione e l'attuazione dei piani di cui ai commi 5 e 6 del medesimo articolo. Tale disciplina trova applicazione dalla data di nomina del commissario straordinario". 
+ 
+
+ Ha inoltre disposto (con l'art. 12, comma 5-quinquies) che "L'articolo 1, comma 3, del decreto-legge 4 giugno 2013, n. 61, convertito, con modificazioni, dalla legge 3 agosto 2013, n. 89, si interpreta nel senso che, ferma restando la legittimazione del commissario straordinario a gestire e disporre delle linee di credito e dei finanziamenti ivi richiamati, la titolarità dei medesimi resta in capo all'impresa commissariata".
