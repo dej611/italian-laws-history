@@ -86,12 +86,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ d) 'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni; 
+ 
 
- d) 'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni;
-
- ))
-
+ 
  
 
  
@@ -148,25 +146,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni;
-
- ))
-
+ i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni; 
  
 
  
- ((
-
- i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi;
-
- ))
-
  
 
  
- ((
+ i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi; 
+ 
+
+ 
+ 
 
  
  j) 'fondo comune di investimentò: l'Oicr costituito in forma di patrimonio autonomo, suddiviso in quote, istituito e gestito da un gestore; 
@@ -176,7 +167,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; 
+ k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti 
+ ((, inclusi quelli erogati a valere sul patrimonio dell'OICR,))
+
+ partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; 
  
 
  
@@ -223,14 +217,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-quinquies) 'Oicr alternativi UE (FIA UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato dell'UE diverso dall'Italia; 
  
 
- m-sexies) 'Oicr alternativi non UE (FIA non UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato non appartenente all'UE;))
+ m-sexies) 'Oicr alternativi non UE (FIA non UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato non appartenente all'UE; 
  
 
- 
-
- 
- 
- ((m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
+ m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
  
 
  m-octies) 'fondo europeo per l'imprenditoria socialè (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
@@ -245,18 +235,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-undecies) 'investitori professionalì: i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; 
  
 
- m-duodecies) 'investitori al dettagliò: gli investitori che non sono investitori professionali;))
+ m-duodecies) 'investitori al dettagliò: gli investitori che non sono investitori professionali; 
  
 
  
+ 
 
  
- ((
+ n) 'gestione collettiva del risparmiò: il servizio che si realizza attraverso la gestione di Oicr e dei relativi rischi; 
+ 
 
- n) 'gestione collettiva del risparmiò: il servizio che si realizza attraverso la gestione di Oicr e dei relativi rischi;
-
- ))
-
+ 
  
 
  
@@ -265,9 +254,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
-
- 
- ((
 
  
  o-bis) 'società di gestione Uè: la società autorizzata ai sensi della direttiva 2009/65/CE in uno Stato dell'UE diverso dall'Italia, che esercita l'attività di gestione di uno o più OICVM; 
@@ -306,20 +292,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- r) 'soggetti abilitatì: le Sim, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 106 del Testo Unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento;
-
- ))
-
+ 
+ r) 'soggetti abilitatì: le Sim, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 106 del Testo Unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attività di investimento; 
  
 
  
- r-bis) 'Stato di origine della 
- ((società di gestione UE))
+ 
 
- ': lo Stato dell'UE dove la 
- ((società di gestione UE))
-
- ha la propria sede legale e direzione generale; 
+ 
+ r-bis) 'Stato di origine della società di gestione Uè: lo Stato dell'UE dove la società di gestione UE ha la propria sede legale e direzione generale; 
  
 
  
@@ -398,6 +379,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((w-quater.1 "PMI": fermo quanto previsto da altre disposizione di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano, in base al bilancio approvato relativo all'ultimo esercizio, anche anteriore all'ammissione alla negoziazione delle proprie azioni, un fatturato fino a 300 milioni di euro, ovvero una capitalizzazione media di mercato nell'ultimo anno solare inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato entrambi i predetti limiti per tre esercizi, ovvero tre anni solari, consecutivi.))
+
  
 
  
