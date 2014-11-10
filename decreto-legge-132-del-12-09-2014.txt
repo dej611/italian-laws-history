@@ -39,6 +39,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  1. Nelle cause civili dinanzi al tribunale o in grado d'appello pendenti alla data di entrata in vigore del presente decreto, che non hanno ad oggetto diritti indisponibili e che non vertono in materia di lavoro, previdenza e assistenza sociale, nelle quali la causa non è stata assunta in decisione, le parti, con istanza congiunta, possono richiedere di promuovere un procedimento arbitrale a norma delle disposizioni contenute nel titolo VIII del libro IV del codice di procedura civile. 
+ ((Tale facoltà è consentita altresì nelle cause vertenti su diritti che abbiano nel contratto collettivo di lavoro la propria fonte esclusiva, quando il contratto stesso abbia previsto e disciplinato la soluzione arbitrale. Per le controversie di valore non superiore a 50.000 euro in materia di responsabilità extracontrattuale o aventi ad oggetto il pagamento di somme di denaro, nei casi in cui sia parte del giudizio una pubblica amministrazione, il consenso di questa alla richiesta di promuovere il procedimento arbitrale avanzata dalla sola parte privata si intende in ogni caso prestato, salvo che la pubblica amministrazione esprima il dissenso scritto entro trenta giorni dalla richiesta))
+
+ . 
  
 
  
@@ -46,11 +49,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Il giudice, rilevata la sussistenza delle condizioni di cui al comma 1, ferme restando le preclusioni e le decadenze intervenute, dispone la trasmissione del fascicolo al presidente del Consiglio dell'ordine del circondario in cui ha sede il tribunale ovvero la corte di appello per la nomina del collegio arbitrale. Gli arbitri sono individuati, concordemente dalle parti o dal presidente del Consiglio dell'ordine, tra gli avvocati iscritti da almeno tre anni all'albo dell'ordine circondariale che non hanno avuto condanne disciplinari definitive e che, prima della trasmissione del fascicolo, hanno reso una dichiarazione di disponibilità al Consiglio stesso. 
+ 2. Il giudice, rilevata la sussistenza delle condizioni di cui al comma 1, ferme restando le preclusioni e le decadenze intervenute, dispone la trasmissione del fascicolo al presidente del Consiglio dell'ordine del circondario in cui ha sede il tribunale ovvero la corte di appello per la nomina del collegio arbitrale 
+ ((per le controversie di valore superiore ad euro 100.000 e, ove le parti lo decidano concordemente, di un arbitro per le controversie di valore inferiore ad euro 100.000))
+
+ . Gli arbitri sono individuati, concordemente dalle parti o dal presidente del Consiglio dell'ordine, 
+ ((tra gli avvocati iscritti da almeno cinque anni nell'albo dell'ordine circondariale che non hanno subito negli ultimi cinque anni condanne definitive comportanti la sospensione dall'albo))
+
+ e che, prima della trasmissione del fascicolo, hanno reso una dichiarazione di disponibilità al Consiglio stesso. 
  
 
  
  
+ 
+
+ 
+ 
+ ((2-bis. La funzione di consigliere dell'ordine e l'incarico arbitrale di cui al presente articolo sono incompatibili. Tale incompatibilità si estende anche per i consiglieri uscenti per una intera consiliatura successiva alla conclusione del loro mandato))
+ 
+
  
 
  
@@ -62,7 +78,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Quando la trasmissione a norma del comma 2 è disposta in grado d'appello e il procedimento arbitrale non si conclude con la pronuncia del lodo entro centoventi giorni dall'accettazione della nomina del collegio arbitrale, il processo deve essere riassunto entro il termine perentorio dei successivi sessanta giorni. Quando il processo è riassunto il lodo non può essere più pronunciato. Se nessuna delle parti procede alla riassunzione nel termine, il procedimento si estingue e si applica l'articolo 338 del codice di procedura civile. Quando, a norma dell'articolo 830 del codice di procedura civile, è stata dichiarata la nullità del lodo pronunciato entro il termine di centoventi giorni di cui al primo periodo o, in ogni caso, entro la scadenza di quello per la riassunzione, il processo deve essere riassunto entro sessanta giorni dal passaggio in giudicato della sentenza di nullità. 
+ 4. Quando la trasmissione a norma del comma 2 è disposta in grado d'appello e il procedimento arbitrale non si conclude con la pronuncia del lodo entro centoventi giorni dall'accettazione della nomina del collegio arbitrale, il processo deve essere riassunto entro il termine perentorio dei successivi sessanta giorni. 
+ ((è in facoltà degli arbitri, previo accordo tra le parti, richiedere che il termine per il deposito del lodo sia prorogato di ulteriori trenta giorni))
+
+ . Quando il processo è riassunto il lodo non può essere più pronunciato. Se nessuna delle parti procede alla riassunzione nel termine, il procedimento si estingue e si applica l'articolo 338 del codice di procedura civile. Quando, a norma dell'articolo 830 del codice di procedura civile, è stata dichiarata la nullità del lodo pronunciato entro il termine di centoventi giorni di cui al primo periodo o, in ogni caso, entro la scadenza di quello per la riassunzione, il processo deve essere riassunto entro sessanta giorni dal passaggio in giudicato della sentenza di nullità. 
  
 
  
@@ -70,4 +89,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Nei casi di cui ai commi 1, 2, 3 e 4, con decreto regolamentare del Ministro della giustizia possono essere stabilite riduzioni dei parametri relativi ai compensi degli arbitri. Nei medesimi casi non si applica l'articolo 814, primo comma, secondo periodo, del codice di procedura civile.
+ 5. Nei casi di cui ai commi 1, 2, 3 e 4, con decreto regolamentare del Ministro della giustizia 
+ ((, da adottare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto,))
+
+ possono essere stabilite riduzioni dei parametri relativi ai compensi degli arbitri. Nei medesimi casi non si applica l'articolo 814, primo comma, secondo periodo, del codice di procedura civile. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((5-bis. Con il decreto di cui al comma 5 sono altresì stabiliti i criteri per l'assegnazione degli arbitrati tra i quali, in particolare, le competenze professionali dell'arbitro, anche in relazione alle ragioni del contendere e alla materia oggetto della controversia, nonchè il principio della rotazione nell'assegnazione degli incarichi, prevedendo altresì sistemi di designazione automatica))
