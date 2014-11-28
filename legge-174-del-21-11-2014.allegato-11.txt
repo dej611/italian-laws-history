@@ -1,0 +1,815 @@
+Regole uniformi concernenti l'ammissione tecnica di materiale ferroviario utilizzato in traffico internazionale 
+ 
+
+ (ATMF - Appendice G alla Convenzione) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Articolo 1 
+ 
+
+ 
+ 
+
+ Campo d'applicazione 
+ 
+
+ 
+ 
+
+ Le presenti Regole uniformi stabiliscono la procedura in base alla quale i veicoli ferroviari sono ammessi a circolare, ed altri materiali ferroviari ad essere utilizzati in traffico internazionale.
+Articolo 2 
+ 
+
+ 
+ 
+
+ Definizioni 
+ 
+
+ 
+ 
+
+ Ai fini delle presenti Regole uniformi e dei loro (futuri) allegati, delle Regole uniformi APTU e dei loro allegati nonchè delle prescrizioni tecniche uniformi (PTU) APTU, il termine: 
+ 
+
+ a) &laquo;incidente&raquo; designa un avvenimento indesiderato o imprevisto e improvviso, oppure una speciale concatenazione di avvenimenti di questo tipo dalle conseguenze dannose; gli incidenti sono ripartiti nelle seguenti categorie: collisioni, deragliamenti, incidenti ai passaggi a livello, incidenti a persone causati da materiale rotabile in movimento, incendi e altri incidenti; 
+ 
+
+ b) &laquo;ammissione del tipo di costruzione&raquo; designa la concessione del diritto in base al quale l'autorità competente autorizza un tipo di costruzione di un veicolo ferroviario, come base di ammissione all'esercizio di veicoli che sono conformi a questo tipo di costruzione; 
+ 
+
+ c) &laquo;ammissione all'esercizio&raquo; designa la concessione del diritto in base al quale l'autorità competente autorizza ciascun veicolo ferroviario o altro materiale ferroviario a circolare in traffico internazionale; 
+ 
+
+ d) &laquo;Commissione di esperti tecnici&raquo; designa la Commissione prevista all'articolo 13 paragrafo 1 lettera f) della Convenzione; 
+ 
+
+ da) &laquo;ente aggiudicatore&raquo; designa un organismo a statuto pubblico o privato che dà mandato di effettuare la progettazione e/o la costruzione, il rinnovo o l'ammodernamento di un sottosistema; questo organismo può essere un'impresa ferroviaria, un gestore d'infrastruttura, un detentore o un concessionario incaricato dell'esecuzione di un progetto; 
+ 
+
+ e) &laquo;Stato parte&raquo; designa uno Stato membro dell'Organizzazione che non ha fatto una dichiarazione relativa alle presenti Regole uniformi, in conformità all'articolo 42 paragrafo 1 primo periodo della Convenzione; 
+ 
+
+ f) &laquo;dichiarazione&raquo; designa la prova di una valutazione completa o parziale volta a confermare che un veicolo, un tipo di costruzione o un elemento di costruzione rispettano le disposizioni delle Regole uniformi APTU e delle loro PTU (compresi i casi specifici applicabili e i requisiti nazionali in vigore conformemente all'art. 12 delle Regole uniformi APTU); 
+ 
+
+ g) &laquo;elemento di costruzione&raquo; o &laquo;componente&raquo; designa qualsiasi componente elementare, gruppo di componenti, equipaggiamento completo o parte di quest'ultimo, incorporati o destinati a essere incorporati in un veicolo ferroviario, in altro materiale ferroviario o in un'infrastruttura; il concetto di &laquo;elemento di costruzione&raquo; si riferisce sia a oggetti materiali che a oggetti non materiali, come ad esempio il software; 
+ 
+
+ h) &laquo;organismo incaricato della manutenzione&raquo; (ECM) designa l'organismo responsabile della manutenzione di un veicolo e che è iscritto come tale nel registro dei veicoli previsto all'articolo 13; questa definizione si applica anche agli altri materiali ferroviari; 
+ 
+
+ i) &laquo;requisiti essenziali&raquo; designa tutte le condizioni elencate nelle Regole uniformi APTU che devono essere rispettate dal sistema ferroviario, dai sottosistemi e dalle componenti dell'interoperabilità, comprese le interfacce; 
+ 
+
+ j) &laquo;incidente tecnico&raquo; designa qualsiasi avvenimento diverso da un incidente o da un incidente grave, inerente alla gestione dei treni e in grado di pregiudicarne la sicurezza; 
+ 
+
+ k) &laquo;gestore d'infrastruttura&raquo; designa ogni impresa o autorità che utilizza un'infrastruttura ferroviaria; 
+ 
+
+ l) &laquo;traffico internazionale&raquo; designa la circolazione dei veicoli ferroviari su linee ferroviarie che attraversano il territorio di almeno due Stati parti; 
+ 
+
+ m) &laquo;indagine&raquo; designa una procedura che si propone di prevenire incidenti e incidenti tecnici e che consiste nel raccogliere e analizzare informazioni, nel trarre conclusioni, individuando anche le cause (azioni, omissioni, avvenimenti, condizioni) o la combinazione delle cause all'origine degli incidenti e degli incidenti tecnici, e, se necessario, nel formulare raccomandazioni in materia di sicurezza; 
+ 
+
+ n) &laquo;detentore&raquo; designa la persona o l'organismo che, a prescindere dall'essere proprietario di un veicolo o dall'avere diritto di disporne, lo gestisce dal punto di vista economico come mezzo di trasporto ed è iscritto come tale nel registro dei veicoli previsto all'articolo 13; 
+ 
+
+ o) &laquo;elenco dei compiti della manutenzione&raquo; designa i documenti che indicano le ispezioni e i lavori di manutenzione da eseguire su un (tipo di) veicolo o su altri materiali ferroviari e che vengono redatti in conformità alle prescrizioni e alle specificazioni delle PTU senza tralasciare gli eventuali casi specifici e i requisiti tecnici nazionali in vigore notificati secondo l'articolo 12 delle Regole uniformi APTU; 
+ 
+
+ p) &laquo;resoconto della manutenzione&raquo; designa la documentazione riguardante un veicolo ammesso o altri materiali ferroviari e contenente un resoconto dello stato di servizio nonchè delle ispezioni e dei lavori di manutenzione eseguiti; 
+ 
+
+ q) &laquo;rete&raquo; designa le tratte, le stazioni, i terminali e tutti i tipi di impianti fissi, necessari per garantire una gestione sicura e continua del sistema ferroviario; 
+ 
+
+ r) &laquo;punti aperti&raquo; designa gli aspetti tecnici relativi ai requisiti essenziali che non sono stati esplicitamente trattati in una PTU; 
+ 
+
+ s) &laquo;altro materiale ferroviario&raquo; designa qualsiasi materiale ferroviario mobile, destinato a essere utilizzato in traffico internazionale e diverso da un veicolo ferroviario; 
+ 
+
+ t) &laquo;impresa di trasporto ferroviario&raquo; designa ogni impresa a statuto privato o pubblico: 
+ 
+
+ - che è autorizzata a trasportare persone o merci su rotaia e che fornisce la trazione, o 
+ 
+
+ - che fornisce solo la trazione; 
+ 
+
+ u) &laquo;infrastruttura ferroviaria&raquo; (o semplicemente &laquo;infrastruttura&raquo;) designa tutte le tratte ferroviarie e le installazioni fisse nella misura in cui siano necessarie per la compatibilità con veicoli ferroviari e altri materiali ferroviari ammessi in conformità alle presenti Regole uniformi e per la circolazione in condizioni di sicurezza di questi veicoli e di altri materiali ferroviari; 
+ 
+
+ v) &laquo;materiale ferroviario&raquo; designa i veicoli ferroviari, gli altri materiali ferroviari e l'infrastruttura ferroviaria; 
+ 
+
+ w) &laquo;veicolo ferroviario&raquo; designa ogni veicolo atto a circolare sulle proprie ruote su binari con o senza trazione; 
+ 
+
+ x) &laquo;organizzazione regionale&raquo; designa un'organizzazione, così come è definita all'articolo 38 della Convenzione, con la competenza esclusiva accordatale dagli Stati parti; 
+ 
+
+ y) &laquo;rinnovo&raquo; designa qualsiasi importante lavoro di sostituzione effettuato su un sottosistema o parte di esso senza che ne siano tuttavia modificate le prestazioni complessive; 
+ 
+
+ ya) &laquo;RID&raquo; designa l'Appendice C della Convenzione; 
+ 
+
+ z) &laquo;incidente grave&raquo; designa ogni collisione o deragliamento di treno con almeno un morto o almeno cinque feriti gravi oppure con danni considerevoli al materiale rotabile, all'infrastruttura o all'ambiente, nonchè qualsiasi altro incidente simile che abbia evidenti conseguenze sulla regolamentazione e la gestione della sicurezza ferroviaria; i &laquo;danni considerevoli&raquo; comportano costi che possono essere immediatamente valutati dall'organismo di indagine come pari a un totale di almeno 1,8 milioni di DSP; 
+ 
+
+ aa) &laquo;caso specifico&raquo; designa qualsiasi parte del sistema ferroviario degli Stati parti che necessita di disposizioni particolari nelle PTU, temporanee o definitive, dovute a vincoli geografici, topografici, urbanistici o di compatibilità con il sistema esistente; casi specifici possono essere rappresentati in particolare da tratte e reti ferroviarie isolate dal resto della rete, sagome limite, scartamento o distanza tra i binari, nonchè da veicoli e altri materiali ferroviari destinati esclusivamente a un uso locale, regionale o storico, e da veicoli e altri materiali ferroviari provenienti da Paesi terzi o ivi diretti; 
+ 
+
+ bb) &laquo;sottosistemi&raquo; designa il risultato della divisione del sistema ferroviario come indicato nelle PTU; questi sottosistemi, per i quali sono definiti dei requisiti essenziali, possono essere di natura strutturale o funzionale; 
+ 
+
+ cc) &laquo;ammissione tecnica&raquo; designa la procedura in base alla quale l'autorità competente ammette l'impiego di un veicolo o di altro materiale ferroviario in traffico internazionale oppure autorizza il tipo di costruzione; 
+ 
+
+ dd) &laquo;certificato tecnico&raquo; designa la prova ufficiale di un'ammissione tecnica conseguita sotto forma di certificato del tipo di costruzione o di certificato di esercizio validi; 
+ 
+
+ ee) &laquo;documentazione tecnica&raquo; designa la documentazione relativa al veicolo o ad altri materiali ferroviari, contenente tutte le sue caratteristiche tecniche (caratteristiche del tipo di costruzione), un manuale d'uso e l'indicazione delle caratteristiche necessarie all'identificazione degli oggetti interessati; 
+ 
+
+ eea) &laquo;STI&raquo; designa le specificazioni tecniche per l'interoperabilità adottate in virtù delle direttive 96/48/CE, 2001/16/CE e 2008/57/CE e riguardanti tutti i sottosistemi o parti di essi, al fine di soddisfare i requisiti essenziali e di garantire l'interoperabilità del sistema ferroviario; 
+ 
+
+ ff) &laquo;tipo di costruzione&raquo; designa le caratteristiche elementari di progettazione del veicolo o di altri materiali ferroviari, coperte da un singolo certificato di esame descritto nel modulo di valutazione SB delle PTU; 
+ 
+
+ gg) &laquo;ammodernamento&raquo; designa qualsiasi importante lavoro di modifica eseguito su un sottosistema o su parti di esso allo scopo di migliorarne le prestazioni generali.
+Articolo 3 
+ 
+
+ 
+ 
+
+ Ammissione al traffico internazionale 
+ 
+
+ 
+ 
+
+ &sect; 1 Per circolare in traffico internazionale, ciascun veicolo ferroviario deve essere ammesso in conformità alle presenti Regole uniformi. 
+ 
+
+ &sect; 2 L'ammissione tecnica ha lo scopo di verificare che i veicoli ferroviari corrispondano alle: 
+ 
+
+ a) prescrizioni di costruzione contenute nelle PTU, 
+ 
+
+ b) prescrizioni relative alla costruzione e all'equipaggiamento contenute nell'Allegato del RID, 
+ 
+
+ c) particolari condizioni per un'ammissione, in applicazione dell'articolo 7a. 
+ 
+
+ &sect; 3 I paragrafi 1 e 2, nonchè i seguenti articoli, si applicano per analogia all'ammissione tecnica di altri materiali ferroviari nonchè di elementi di costruzione di veicoli o di altri materiali ferroviari.
+Articolo 4 
+ 
+
+ 
+ 
+
+ Procedura 
+ 
+
+ 
+ 
+
+ &sect; 1 L'ammissione tecnica di un veicolo si effettua: 
+ 
+
+ a) o in una sola fase, concedendo l'ammissione all'esercizio individualmente a un dato veicolo; 
+ 
+
+ b) o in due fasi successive, concedendo: 
+ 
+
+ - l'ammissione del tipo di costruzione a un dato tipo, e 
+ 
+
+ - successivamente, l'ammissione all'esercizio ai veicoli individuali che rispondano a questo tipo di costruzione, mediante una procedura semplificata che conferma tale conformità. 
+ 
+
+ &sect; 2 La valutazione della conformità di un veicolo o di un elemento di costruzione alle disposizioni delle PTU, sulle quali si basa l'ammissione, può essere suddivisa in diversi elementi di valutazione, ciascuno attestato da una dichiarazione. Gli elementi di valutazione e il modello di dichiarazione sono definiti dalla Commissione di esperti tecnici. 
+ 
+
+ &sect; 3 Le procedure di ammissione tecnica dell'infrastruttura ferroviaria sono disciplinate dalle disposizioni in vigore nello Stato parte interessato.
+Articolo 5 
+ 
+
+ 
+ 
+
+ Autorità competente 
+ 
+
+ 
+ 
+
+ &sect; 1 L'ammissione tecnica spetta all'autorità nazionale o internazionale competente in materia, secondo le leggi e le prescrizioni in vigore in ciascuno Stato parte. 
+ 
+
+ &sect; 2 Le autorità indicate al paragrafo 1 possono trasferire o trasferiscono, secondo le disposizioni in vigore nel loro Stato, in tutto o in parte a organismi riconosciuti idonei e con sede nel loro Stato la competenza di eseguire valutazioni e anche di rilasciare le dichiarazioni corrispondenti. 
+ 
+
+ Il trasferimento di competenza a: 
+ 
+
+ a) un'impresa di trasporto ferroviario; 
+ 
+
+ b) un gestore d'infrastruttura; 
+ 
+
+ c) un detentore; 
+ 
+
+ d) un organismo incaricato della manutenzione (ECM); 
+ 
+
+ e) un costruttore o un fabbricante di materiale ferroviario che partecipi direttamente o indirettamente alla costruzione di materiale ferroviario; 
+ 
+
+ comprese le filiali dei suddetti organismi, è proibito. 
+ 
+
+ &sect; 3 Per essere riconosciuti idonei, gli organismi menzionati al paragrafo 2 devono rispettare le condizioni qui di seguito esposte. 
+ 
+
+ a) L'organismo deve essere indipendente nella sua organizzazione, nella sua struttura giuridica e nei suoi processi decisionali da imprese ferroviarie, gestori d'infrastruttura, richiedenti e servizi di acquisto; il direttore e il personale incaricato dell'esecuzione delle valutazioni o del rilascio dei certificati e delle dichiarazioni non devono essere coinvolti, nè direttamente nè come rappresentanti abilitati, nella progettazione, produzione, costruzione, manutenzione o utilizzazione di componenti, veicoli o materiali ferroviari. Ciò non esclude tuttavia la possibilità di scambi di informazioni tecniche tra fabbricanti o costruttori e questo organismo. 
+ 
+
+ b) L'organismo e il personale incaricato dell'esecuzione delle valutazioni le effettuano con la massima integrità professionale e la massima competenza tecnica possibili e non devono essere sottoposti, soprattutto da parte di persone o di gruppi di persone interessati ai risultati delle valutazioni, nè a pressioni nè a sollecitazioni, specialmente di natura finanziaria, che potrebbero influenzare la loro capacità di giudizio o i risultati delle loro ispezioni. 
+ 
+
+ c) In particolare, l'organismo e il personale responsabile dell'esecuzione delle valutazioni sono indipendenti, sul piano funzionale, dagli organismi incaricati delle inchieste in caso di incidenti. 
+ 
+
+ d) L'organismo impiega il personale e possiede i mezzi necessari per eseguire in modo appropriato i compiti tecnico-amministrativi collegati alle valutazioni; inoltre, dispone dell'equipaggiamento indispensabile allo svolgimento di valutazioni non ordinarie. 
+ 
+
+ e) Il personale incaricato delle valutazioni possiede: 
+ 
+
+ - una formazione tecnica e professionale appropriata; 
+ 
+
+ - una conoscenza soddisfacente dei requisiti relativi alle valutazioni eseguite e una pratica sufficiente di queste valutazioni; e 
+ 
+
+ - l'attitudine a rilasciare certificati e a redigere resoconti e rapporti che costituiscono la prova formale delle valutazioni effettuate. 
+ 
+
+ f) L'indipendenza del personale incaricato delle valutazioni è garantita. Nessun collaboratore può essere remunerato sulla base del numero di valutazioni effettuate o dei risultati di queste valutazioni. 
+ 
+
+ g) L'organismo stipula un'assicurazione di responsabilità civile, salvo che tale responsabilità non sia assunta dallo Stato in virtù della legislazione nazionale o salvo che le valutazioni non siano effettuate direttamente dallo Stato parte. 
+ 
+
+ h) Il personale dell'organismo è tenuto a osservare il segreto professionale riguardo a tutto ciò di cui viene a conoscenza nell'esercizio delle sue funzioni (ad eccezione delle autorità amministrative competenti nello Stato in cui esercitano questa attività), conformemente alle presenti Regole uniformi o a qualsiasi disposizione legale e/o regolamentazione dello Stato parte, compresa se del caso la legislazione della Comunità europea. 
+ 
+
+ &sect; 4 I requisiti previsti al paragrafo 3 si applicano per analogia alle autorità che rilasciano l'ammissione tecnica. 
+ 
+
+ &sect; 5 Uno Stato parte provvede, mediante notifica o, se necessario, mediante i mezzi previsti dalla legislazione comunitaria o dalla legislazione degli Stati che applicano il diritto comunitario a seguito di accordi internazionali conclusi con la Comunità europea, a informare il Segretario generale in merito agli organismi incaricati dell'esecuzione di valutazioni e verifiche e del rilascio delle autorizzazioni, precisando l'ambito di competenza di ciascun organismo. Il Segretario generale pubblica e aggiorna un elenco degli organismi corredato dai loro numeri di identificazione e ambiti di competenza. 
+ 
+
+ &sect; 6 Ogni Stato parte garantisce la costante sorveglianza degli organismi indicati al paragrafo 2 e dispone il ritiro della competenza a quegli organismi che non soddisfano più i criteri previsti al paragrafo 3, informandone senza indugio il Segretario generale. 
+ 
+
+ &sect; 7 Se uno Stato parte ritiene che un'autorità di un altro Stato parte preposta alla valutazione o all'autorizzazione o un organismo al quale ha trasferito la sua competenza non soddisfi i criteri esposti al paragrafo 3, sottopone le sue considerazioni in merito alla Commissione di esperti tecnici, che dispone di quattro mesi per informare lo Stato parte interessato dei cambiamenti necessari affinchè l'organismo conservi lo statuto che gli era stato conferito. La Commissione di esperti tecnici può decidere di ordinare allo Stato parte di sospendere o di ritirare le autorizzazioni rilasciate sulla base dei lavori realizzati dall'organismo o dall'autorità interessata.
+Articolo 6 
+ 
+
+ 
+ 
+
+ Validità dei certificati tecnici 
+ 
+
+ 
+ 
+
+ &sect; 1 I certificati tecnici rilasciati dall'autorità competente di uno Stato parte in conformità alle presenti Regole uniformi sono validi in tutti gli altri Stati parti. Tuttavia, la circolazione e l'utilizzazione sul territorio di questi altri Stati sono sottoposte alle condizioni specificate nel presente articolo. 
+ 
+
+ &sect; 2 Un'ammissione all'esercizio consente alle imprese di trasporto ferroviario di impiegare un veicolo solo sulle infrastrutture compatibili con questo veicolo secondo le sue specificazioni e le altre condizioni di ammissione; le imprese di trasporto ferroviario devono assicurarsi che questa prescrizione sia rispettata. 
+ 
+
+ &sect; 3 Fatto salvo quanto previsto all'articolo 3a, un'ammissione all'esercizio rilasciata per un veicolo conforme a tutte le PTU applicabili permette a questo stesso veicolo di circolare liberamente sul territorio di altri Stati parti a condizione che: 
+ 
+
+ a) tutti i requisiti essenziali siano previsti in queste PTU; e b) il veicolo non: 
+ 
+
+ - costituisca un caso specifico, 
+ 
+
+ - presenti punti aperti relativi alla compatibilità tecnica con l'infrastruttura, o 
+ 
+
+ - sia oggetto di una deroga. 
+ 
+
+ Le condizioni di libera circolazione possono essere specificate anche nelle pertinenti PTU. 
+ 
+
+ &sect; 4 
+ 
+
+ a) Se in uno Stato parte un'ammissione all'esercizio è stata accordata per un veicolo che: 
+ 
+
+ - costituisce un caso specifico, presenta un punto aperto relativo alla compatibilità tecnica con l'infrastruttura o è oggetto di una deroga, o 
+ 
+
+ - non è conforme alle PTU relative al materiale rotabile e a tutte le altre disposizioni pertinenti; o 
+ 
+
+ b) se nelle PTU non sono previsti tutti i requisiti essenziali; le autorità competenti degli altri Stati possono esigere dal richiedente ulteriori informazioni tecniche, come ad esempio analisi di rischio e/o controlli dei veicoli, prima di concedere un'ammissione all'esercizio complementare. 
+ 
+
+ Per la parte del veicolo conforme a una PTU o a una parte di PTU, le autorità competenti devono accettare le verifiche effettuate da altre autorità competenti conformemente alle PTU. Per l'altra parte del veicolo, le autorità competenti devono tener conto, nella sua integralità, della tabella di equivalenza prevista all'articolo 13 delle Regole uniformi APTU. 
+ 
+
+ Il rispetto: 
+ 
+
+ a) di disposizioni identiche e di disposizioni dichiarate equivalenti; 
+ 
+
+ b) di disposizioni che non si riferiscono a un caso specifico; e c) di disposizioni che non si riferiscono alla compatibilità tecnica con l'infrastruttura; 
+ 
+
+ non va sottoposto nuovamente a valutazione. 
+ 
+
+ &sect; 5 I paragrafi da 2 a 4 si applicano per analogia a una ammissione del tipo di costruzione.
+Articolo 7 
+ 
+
+ 
+ 
+
+ Prescrizioni applicabili ai veicoli 
+ 
+
+ 
+ 
+
+ &sect; 1 Per essere e restare ammesso alla circolazione in traffico internazionale, un veicolo ferroviario deve rispettare: 
+ 
+
+ a) le PTU; e 
+ 
+
+ b) le prescrizioni contenute nel RID, se applicabili. 
+ 
+
+ &sect; 2 In assenza di PTU applicabili al sottosistema, l'ammissione tecnica è fondata sui requisiti tecnici nazionali applicabili che sono in vigore, secondo l'articolo 12 delle Regole uniformi APTU, nello Stato parte in cui è stata presentata la domanda di ammissione tecnica. 
+ 
+
+ &sect; 3 Se le PTU non si riferiscono a tutti i requisiti essenziali o se sussistono casi specifici o punti aperti, l'ammissione tecnica è basata: 
+ 
+
+ a) sulle disposizioni contenute nelle PTU; 
+ 
+
+ b) sulle disposizioni contenute nel RID, se applicabili; e 
+ 
+
+ c) sui requisiti tecnici nazionali applicabili che sono in vigore in forza dell'articolo 12 delle Regole uniformi APTU.
+Articolo 8 
+ 
+
+ 
+ 
+
+ Prescrizioni applicabili all'infrastruttura ferroviaria 
+ 
+
+ 
+ 
+
+ &sect; 1 Per garantire che un veicolo ferroviario ammesso al traffico internazionale conformemente alle presenti Regole uniformi circoli in condizioni di sicurezza sull'infrastruttura ferroviaria e sia compatibile con quest'ultima, l'infrastruttura ferroviaria deve rispettare: 
+ 
+
+ a) le disposizioni contenute nelle PTU; e 
+ 
+
+ b) le disposizioni contenute nel RID, se applicabili. 
+ 
+
+ &sect; 2 L'ammissione dell'infrastruttura e la sorveglianza della sua manutenzione rimangono soggette alle disposizioni in vigore nello Stato parte in cui si trova l'infrastruttura. 
+ 
+
+ &sect; 3 Gli articoli 7 e 7a si applicano per analogia all'infrastruttura.
+Articolo 9 
+ 
+
+ 
+ 
+
+ Prescrizioni di esercizio 
+ 
+
+ 
+ 
+
+ &sect; 1 Le imprese di trasporto ferroviario che utilizzano un veicolo ferroviario ammesso alla circolazione in traffico internazionale sono tenute a rispettare le prescrizioni relative all'esercizio di un veicolo in traffico internazionale che figurano nelle PTU. 
+ 
+
+ &sect; 2 Le imprese o amministrazioni che gestiscono negli Stati parti un'infrastruttura, compresi i sistemi di sicurezza delle circolazioni e di controllo, destinata e idonea a essere utilizzata in traffico internazionale sono tenute a rispettare le prescrizioni tecniche figuranti nelle PTU e ad osservarle in permanenza al momento della costruzione o della gestione di tale infrastruttura.
+Articolo 10 
+ 
+
+ 
+ 
+
+ Domanda e rilascio di certificati tecnici, dichiarazioni e condizioni pertinenti 
+ 
+
+ 
+ 
+
+ &sect; 1 Il rilascio di un certificato tecnico fa riferimento al tipo di costruzione di un veicolo ferroviario o al veicolo ferroviario stesso. 
+ 
+
+ &sect; 2 La domanda di rilascio di un certificato tecnico può essere presentata: 
+ 
+
+ a) dal costruttore; 
+ 
+
+ b) da un'impresa di trasporto ferroviario; 
+ 
+
+ c) dal detentore del veicolo; 
+ 
+
+ d) dal proprietario del veicolo; 
+ 
+
+ e) dal gestore d'infrastruttura. 
+ 
+
+ &sect; 3 La domanda di certificato tecnico, comprese le dichiarazioni pertinenti, può essere presentata presso ogni autorità competente o organismo di uno degli Stati parti, nell'ambito delle competenze previste all'articolo 5. 
+ 
+
+ &sect; 4 Se al veicolo si applica l'articolo 6 paragrafo 4, il richiedente indica gli Stati parti (eventualmente le tratte) per i quali i certificati tecnici servono a garantire la libera circolazione; in questo caso, le autorità e gli organismi di valutazione competenti cooperano al fine di facilitare il disbrigo della procedura per il richiedente. 
+ 
+
+ &sect; 5 Tutte le spese legate alla procedura d'ammissione sono a carico del richiedente, salvo disposizione contraria delle leggi e delle prescrizioni in vigore nello Stato in cui l'ammissione è concessa.
+ 
+
+ Non è consentito il rilascio di ammissioni tecniche a fini di lucro. 
+ 
+
+ &sect; 5a Le decisioni, le valutazioni, gli esami ecc. sono eseguiti in modo non discriminatorio. 
+ 
+
+ &sect; 6 Il richiedente compila e allega alla sua domanda la documentazione tecnica e l'elenco dei compiti della manutenzione, contenenti le informazioni richieste nelle PTU. L'organismo di valutazione verifica, corregge e completa in modo appropriato le informazioni contenute nella suddetta documentazione, affinchè essa rispecchi le caratteristiche del veicolo. 
+ 
+
+ &sect; 7 Ciascuna valutazione è documentata dal suo autore in un apposito rapporto che giustifica le valutazioni effettuate e che precisa le disposizioni secondo le quali l'oggetto è stato valutato e se quest'ultimo ha superato la valutazione o meno. 
+ 
+
+ &sect; 8 Chi presenta domanda per il rilascio di un certificato di esercizio secondo una procedura semplificata di ammissione tecnica (art. 4 par. 1 lett. b), allega alla domanda il certificato del tipo di costruzione, rilasciato secondo l'articolo 11 paragrafo 2, e dimostra in modo appropriato che i veicoli per i quali richiede un certificato di esercizio corrispondono a questo tipo di costruzione. &sect; 9 Di regola, un certificato tecnico è rilasciato per una durata illimitata; il suo campo di applicazione può essere generale o circoscritto. 
+ 
+
+ &sect; 10 In caso di modifica di disposizioni pertinenti nelle prescrizioni di cui all'articolo 7, sulla base delle quali un tipo di costruzione è stato ammesso, e di assenza di disposizioni provvisorie pertinenti, lo Stato parte in cui è stato rilasciato il certificato del tipo di costruzione decide, previa consultazione con gli altri Stati nei quali il certificato è valido conformemente all'articolo 6, se il predetto certificato può mantenere la sua validità oppure se deve essere rinnovato. I criteri da verificare in caso di rinnovo di una ammissione del tipo di costruzione possono riguardare unicamente le disposizioni modificate. Il rinnovo dell'ammissione del tipo non pregiudica le ammissioni all'esercizio concesse sulla base dei tipi ammessi in precedenza. 
+ 
+
+ &sect; 11 In caso di rinnovo o ammodernamento, l'ente aggiudicatore o il costruttore invia allo Stato parte interessato la documentazione occorrente per descrivere il progetto. Lo Stato parte esamina questa documentazione e, tenendo conto della strategia di attuazione indicata nelle PTU applicabili, decide se l'entità dei lavori è tale da rendere necessaria una nuova ammissione all'esercizio ai sensi delle presenti Regole uniformi. 
+ 
+
+ Una nuova ammissione all'esercizio è necessaria in tutti i casi in cui il livello di sicurezza generale del sottosistema interessato può essere pregiudicato dai lavori previsti. Se è necessaria una nuova ammissione all'esercizio, lo Stato parte decide in quale misura applicare al progetto le disposizioni delle PTU pertinenti. 
+ 
+
+ Lo Stato parte prende la sua decisione al più tardi quattro mesi dopo la presentazione della documentazione completa da parte del richiedente. 
+ 
+
+ Qualora sia necessaria una nuova ammissione e le PTU non siano pienamente applicate, gli Stati parti notificano al Segretario generale: 
+ 
+
+ a) la ragione per cui una PTU non è pienamente applicata; 
+ 
+
+ b) le caratteristiche tecniche applicabili invece delle PTU; e 
+ 
+
+ c) gli organismi responsabili della notifica delle informazioni richieste alle lettere a) e b). 
+ 
+
+ Il Segretario generale pubblica le informazioni notificate sul sito Internet dell'Organizzazione. 
+ 
+
+ &sect; 12 Il paragrafo 11 si applica per analogia a un certificato del tipo di costruzione e a ogni dichiarazione concernente la costruzione o gli elementi di costruzione pertinenti.
+Articolo 11 
+ 
+
+ 
+ 
+
+ Certificati tecnici e dichiarazioni 
+ 
+
+ 
+ 
+
+ &sect; 1 L'ammissione del tipo di costruzione e l'ammissione all'esercizio sono accertate mediante documenti distinti denominati: &laquo;Certificato del tipo di costruzione&raquo; e &laquo;Certificato di esercizio&raquo;. &sect; 2 Il certificato del tipo di costruzione: 
+ 
+
+ a) specifica il costruttore e il fabbricante previsto del tipo di costruzione del veicolo ferroviario; 
+ 
+
+ b) contiene in allegato la documentazione tecnica e il resoconto della manutenzione; 
+ 
+
+ c) se necessario, specifica i limiti e le condizioni particolari di esercizio cui sono soggetti il tipo di costruzione di un veicolo ferroviario e i veicoli ferroviari corrispondenti a questo tipo di costruzione; 
+ 
+
+ d) contiene in allegato il rapporto o i rapporti di valutazione; 
+ 
+
+ e) se necessario, specifica tutte le pertinenti dichiarazioni (di conformità e di verifica) rilasciate; 
+ 
+
+ f) specifica l'autorità competente a rilasciare il certificato e la data del rilascio e reca la firma dell'autorità; 
+ 
+
+ g) se necessario, specifica la durata della validità. 
+ 
+
+ &sect; 3 Il certificato di esercizio comprende: 
+ 
+
+ a) tutte le informazioni indicate al paragrafo 2; e 
+ 
+
+ b) i codici di identificazione dei veicoli cui si riferisce il certificato; 
+ 
+
+ c) informazioni sul detentore dei veicoli cui si riferisce il certificato alla data del rilascio; 
+ 
+
+ d) se necessario, la durata di validità. 
+ 
+
+ &sect; 4 Il certificato di esercizio può riferirsi a un gruppo di veicoli singoli dello stesso tipo. In questo caso le informazioni richieste sulla base del paragrafo 3 sono specificate in modo che siano identificabili per ciascuno dei veicoli appartenenti al gruppo e la documentazione tecnica contiene un elenco della documentazione identificabile concernente le verifiche condotte su ciascun veicolo. &sect; 5 La documentazione tecnica e l'elenco dei compiti della manutenzione contengono le informazioni richieste in conformità alle disposizioni delle PTU. 
+ 
+
+ &sect; 6 I certificati sono emessi in una delle lingue di lavoro conformemente all'articolo 1 paragrafo 6 della Convenzione. 
+ 
+
+ &sect; 7 I certificati e le dichiarazioni sono notificati al richiedente. 
+ 
+
+ &sect; 8 Il certificato di esercizio si riferisce all'oggetto. Una volta che il veicolo è in circolazione, se il detentore del certificato di esercizio (comprendente la documentazione tecnica e l'elenco dei compiti della manutenzione) non coincide con l'attuale detentore del veicolo, il primo rimette immediatamente all'attuale detentore il certificato di esercizio unitamente al resoconto della manutenzione e mette a disposizione tutte le istruzioni dettagliate (supplementari) riguardanti la manutenzione e l'esercizio, tuttora in suo possesso. &sect; 9 Il paragrafo 8 si applica per analogia ai veicoli e ai materiali ferroviari ammessi in conformità all'articolo 19; la documentazione pertinente è costituita da documenti relativi all'ammissione e da qualsiasi altro documento contenente informazioni in tutto o in parte simili a quelle richieste per la documentazione tecnica, l'elenco dei compiti della manutenzione e il resoconto della manutenzione.
+Articolo 12 
+ 
+
+ 
+ 
+
+ Modelli uniformi 
+ 
+
+ 
+ 
+
+ &sect; 1 L'Organizzazione prescrive modelli uniformi per i certificati menzionati all'articolo 11, le dichiarazioni decise secondo l'articolo 4 paragrafo 2 e il rapporto di valutazione conforme all'articolo 10 paragrafo 7. 
+ 
+
+ &sect; 2 I modelli sono elaborati e adottati dalla Commissione di esperti tecnici. 
+ 
+
+ &sect; 3 La Commissione di esperti tecnici può decidere di autorizzare e riconoscere come sostituti equivalenti certificati e dichiarazioni predisposti secondo modelli prestabiliti diversi da quelli prescritti nelle presenti Regole uniformi, ma che contengono le informazioni richieste in conformità all'articolo 11.
+Articolo 13 
+ 
+
+ 
+ 
+
+ Registri 
+ 
+
+ 
+ 
+
+ &sect; 1 Sotto la responsabilità dell'Organizzazione e nella forma di banca dati elettronica, è allestito e aggiornato un registro contenente informazioni sui veicoli ferroviari per i quali è stato rilasciato un certificato di esercizio e sui tipi di costruzione per i quali è stato concesso un certificato del tipo di costruzione. Il registro comprende i veicoli ferroviari ammessi secondo l'articolo 19; può includere veicoli ferroviari ammessi solo alla circolazione nel traffico nazionale. 
+ 
+
+ &sect; 2 La banca dati comprende anche un registro contenente informazioni sulle autorità competenti e gli organismi ai quali è stata trasferita la competenza in conformità all'articolo 5, nonchè sui controllori accreditati/riconosciuti secondo l'articolo 15 paragrafo 2. 
+ 
+
+ &sect; 3 La Commissione di esperti tecnici può decidere di inserire nella banca dati altre informazioni da utilizzare nell'esercizio ferroviario, come ad esempio dati su dichiarazioni, ispezioni e manutenzione dei veicoli ammessi (compresa la successiva ispezione prevista) e dati su incidenti e incidenti tecnici nonchè su registri riguardanti la codificazione di veicoli, siti, imprese di trasporto ferroviario, detentori, gestori d'infrastruttura, officine, costruttori e organismi incaricati della manutenzione (ECM). 
+ 
+
+ &sect; 4 La Commissione di esperti tecnici definisce l'architettura tecnico-funzionale della banca dati nonchè le informazioni necessarie, la data e le modalità di fornitura dei dati, la natura dei diritti di accesso e altre disposizioni amministrative e organizzative, comprese quelle riguardanti la struttura della banca dati da utilizzare. Al Segretario generale sono sempre notificati senza indugio il cambiamento di detentore, il cambiamento di ECM, i collocamenti fuori servizio, le immobilizzazioni ufficiali, la sospensione o il ritiro di certificati, le dichiarazioni o gli altri resoconti e i cambiamenti concernenti i veicoli, in deroga al tipo di costruzione ammesso. 
+ 
+
+ &sect; 5 Nell'applicazione del presente articolo, la Commissione di esperti tecnici prende in considerazione i registri allestiti dagli Stati parti e dalle organizzazioni regionali in modo da evitare oneri eccessivi per le parti interessate, quali le organizzazioni regionali, gli Stati parti, le autorità competenti e l'industria.
+ 
+
+ Allo scopo di ridurre al minimo anche i costi dell'Organizzazione e di ottenere sistemi di registri coerenti, tutte le parti interessate coordinano con l'Organizzazione i loro piani e lo sviluppo dei registri che rientrano nel campo di applicazione delle presenti Regole uniformi. 
+ 
+
+ &sect; 6 Le informazioni registrate nella banca dati sono considerate, fino a prova del contrario, come dimostrazione dell'ammissione tecnica di un veicolo ferroviario. 
+ 
+
+ &sect; 7 La Commissione di esperti tecnici può decidere che le spese di allestimento e funzionamento della banca dati siano sostenute, in tutto o in parte, dagli utenti; mentre la fornitura e la modifica dei dati sono gratuite, la loro consultazione può essere sottoposta all'obbligo del pagamento di una tassa.
+Articolo 14 
+ 
+
+ 
+ 
+
+ Iscrizioni e segni 
+ 
+
+ 
+ 
+
+ &sect; 1 I veicoli ferroviari ammessi alla circolazione devono riportare: 
+ 
+
+ a) un'indicazione da cui risulti in modo inequivocabile che sono stati ammessi alla circolazione in traffico internazionale in conformità alle presenti Regole uniformi; e 
+ 
+
+ b) le altre iscrizioni e gli altri segni prescritti nelle PTU, compreso un codice di identificazione unico (il numero del veicolo). 
+ 
+
+ L'autorità competente per il rilascio dell'ammissione all'esercizio è tenuta ad assicurarsi che a ciascun veicolo sia assegnato un codice alfanumerico di identificazione. Questo codice, che include il codice del (primo) Paese ad aver ammesso il veicolo, deve essere riportato su ciascun veicolo e iscritto nel registro di immatricolazione nazionale (RIN), come previsto all'articolo 13. 
+ 
+
+ &sect; 2 La Commissione di esperti tecnici definisce il segno previsto al paragrafo 1 lettera a) e i termini transitori entro i quali i veicoli ferroviari ammessi alla circolazione nel traffico internazionale possono portare ancora iscrizioni e segni in deroga a quelli prescritti al paragrafo 1.
+Articolo 15 
+ 
+
+ 
+ 
+
+ Manutenzione 
+ 
+
+ 
+ 
+
+ &sect; 1 I veicoli ferroviari e gli altri materiali ferroviari devono essere mantenuti in uno stato tale da rispettare le disposizioni stabilite nelle PTU e soddisfarle in permanenza, non compromettere in alcun modo la sicurezza di esercizio e non danneggiare l'infrastruttura, l'ambiente e la salute pubblica con la loro utilizzazione nel traffico internazionale. A questo scopo, i veicoli e gli altri materiali ferroviari devono essere disponibili per la manutenzione, le ispezioni e il ripristino ed essere sottoposti a questo tipo di lavori così come prescritti nell'elenco dei compiti della manutenzione allegato al certificato di esercizio, nelle PTU, nelle condizioni speciali di ammissione di cui all'articolo 7a e nelle prescrizioni contenute nel RID. 
+ 
+
+ &sect; 2 Un organismo incaricato della manutenzione (ECM), registrato nella banca dati prevista all'articolo 13, è assegnato a ciascun veicolo prima della sua ammissione all'esercizio o della sua utilizzazione sulla rete. Possono fungere da ECM un'impresa ferroviaria, un gestore d'infrastruttura o un detentore. L'ECM garantisce, mediante un sistema di manutenzione, che i veicoli di cui gli è stata affidata la manutenzione sono idonei a circolare in condizioni di sicurezza. L'ECM esegue esso stesso la manutenzione o incarica apposite officine con cui ha stipulato dei contratti. 
+ 
+
+ L'ECM di un carro dispone di un certificato valido rilasciato da un controllore esterno accreditato/riconosciuto in uno degli Stati parti. 
+ 
+
+ La Commissione di esperti tecnici adotta regole dettagliate complementari riguardanti la certificazione e il controllo degli ECM, i controllori accreditati/riconosciuti, il loro accreditamento/riconoscimento nonchè i controlli e i certificati di controllo. Le suddette regole precisano se sono equivalenti ai criteri applicabili al sistema di certificazione degli ECM adottato in seno alla Comunità europea o negli Stati in cui vige la legislazione comunitaria a seguito di accordi internazionali conclusi con la Comunità europea. 
+ 
+
+ Queste regole, che comprendono anche regole relative al ritiro e alla sospensione dei certificati e degli accreditamenti, sono definite in un allegato alle presenti Regole uniformi di cui sono parte integrante. 
+ 
+
+ &sect; 3 L'impresa che gestisce l'esercizio ferroviario è responsabile della circolazione dei treni in condizioni di sicurezza e assicura l'adeguata manutenzione dei veicoli in circolazione. L'ECM garantisce pertanto che il gestore dell'esercizio ferroviario disponga di informazioni affidabili sui dati e i processi di manutenzione e il gestore dell'esercizio ferroviario fornisce in tempo utile all'ECM le informazioni e i dati riguardanti la gestione dei veicoli e degli altri materiali ferroviari di competenza dell'ECM. In entrambi i casi, le informazioni e i dati pertinenti sono specificati nell'allegato indicato al paragrafo 2. 
+ 
+
+ &sect; 4 L'ECM di un veicolo ammesso redige e aggiorna un resoconto della manutenzione per questo veicolo. Il resoconto è tenuto a disposizione dell'autorità nazionale competente che può controllarlo. 
+ 
+
+ &sect; 5 La Commissione di esperti tecnici può adottare linee guida o regolamentazioni sulla certificazione e il controllo delle officine di manutenzione e sul riconoscimento reciproco dei certificati e dei controlli. Le regolamentazioni previste nel presente paragrafo sono definite in un allegato alle presenti Regole uniformi di cui fanno parte integrante e sono pubblicate sul sito Internet dell'Organizzazione.
+Articolo 16 
+ 
+
+ 
+ 
+
+ Incidenti, incidenti tecnici e avarie gravi 
+ 
+
+ 
+ 
+
+ &sect; 1 In caso di incidente, incidente tecnico o grave avaria dei veicoli ferroviari, tutte le parti interessate (gestori d'infrastruttura, detentori, ECM, imprese ferroviarie interessate ed eventuali altre parti) sono tenute: 
+ 
+
+ a) a prendere immediatamente tutte le misure necessarie per garantire la sicurezza del traffico ferroviario, il rispetto dell'ambiente e della salute pubblica; e 
+ 
+
+ b) a stabilire le cause dell'incidente, dell'incidente tecnico o dell'avaria grave. 
+ 
+
+ &sect; 1a Le misure previste al paragrafo 1 devono essere coordinate.
+ 
+
+ Questo coordinamento incombe al gestore d'infrastruttura, salvo prescrizione contraria delle disposizioni vigenti nello Stato interessato. Oltre a imporre alle parti interessate l'obbligo di eseguire un'indagine, lo Stato parte può richiedere l'esecuzione di un'indagine indipendente. 
+ 
+
+ &sect; 2 Un veicolo è considerato gravemente avariato quando non è possibile ripararlo con un intervento di piccola portata che gli permetterebbe di essere integrato in un treno e di circolare sulle proprie ruote senza pericolo per l'esercizio. Se la riparazione può essere portata a termine in meno di 72 ore o se i costi complessivi sono inferiori a 0,18 milioni di DSP, l'avaria non è considerata grave. 
+ 
+
+ &sect; 3 Gli incidenti, gli incidenti tecnici e le avarie gravi sono comunicati immediatamente all'autorità o all'organismo che ha ammesso il veicolo alla circolazione. Quest'autorità o questo organismo può chiedere che il veicolo avariato sia presentato, possibilmente dopo la riparazione, per verificare la validità dell'ammissione all'esercizio concessa. Se del caso, dovrà essere rinnovata la procedura relativa alla concessione dell'ammissione all'esercizio. 
+ 
+
+ &sect; 4 Gli Stati parti tengono dei registri, pubblicano dei rapporti d'indagine contenenti le loro conclusioni e raccomandazioni, informano l'autorità responsabile del rilascio dei certificati di ammissione e l'Organizzazione sulle cause degli incidenti, degli incidenti tecnici e delle avarie gravi nel traffico internazionale accaduti sul loro territorio. La Commissione di esperti tecnici può esaminare le cause degli incidenti gravi, degli incidenti tecnici e delle avarie gravi nel traffico internazionale nell'ottica di un eventuale adeguamento delle prescrizioni per la costruzione e la gestione dei veicoli ferroviari e di altri materiali ferroviari e, se necessario, può decidere in breve tempo di ordinare agli Stati parti di sospendere i certificati di esercizio, i certificati del tipo di costruzione o le dichiarazioni pertinenti. 
+ 
+
+ &sect; 5 La Commissione di esperti tecnici può elaborare e adottare ulteriori regole obbligatorie riguardanti le indagini su incidenti gravi, incidenti tecnici e avarie gravi, nonchè requisiti concernenti gli organismi d'indagine indipendenti di uno Stato e la forma e il contenuto dei rapporti. Essa può anche modificare i valori/numeri di cui al paragrafo 2 e all'articolo 2 lettera ff).
+Articolo 17 
+ 
+
+ 
+ 
+
+ Immobilizzazione e rifiuto dei veicoli 
+ 
+
+ 
+ 
+
+ &sect; 1 Un'autorità competente, un'altra impresa di trasporto ferroviario o un gestore di infrastruttura non possono rifiutare o immobilizzare veicoli ferroviari per impedire che circolino su infrastrutture ferroviarie compatibili se sono rispettate le presenti Regole uniformi, le prescrizioni contenute nelle PTU, le eventuali condizioni speciali di ammissione definite dall'autorità di ammissione, nonchè le prescrizioni di costruzione e di esercizio contenute nel RID. 
+ 
+
+ &sect; 2 L'autorità competente può ispezionare e immobilizzare un veicolo qualora si presuma un mancato rispetto del paragrafo 1; tuttavia, l'esame volto ad acquisire la certezza deve essere eseguito il più rapidamente possibile e, in ogni caso, entro 24 ore. 
+ 
+
+ &sect; 3 Se uno Stato parte non sospende o non ritira un certificato entro il termine previsto all'articolo 5 paragrafo 7 o all'articolo 16 paragrafo 4, altri Stati parti hanno il diritto di rifiutare o di immobilizzare i veicoli interessati.
+Articolo 18 
+ 
+
+ 
+ 
+
+ Inosservanza delle prescrizioni 
+ 
+
+ 
+ 
+
+ &sect; 1 Fatto salvo il paragrafo 2 e l'articolo 10a paragrafo 4 lettera c), le conseguenze giuridiche risultanti dall'inosservanza delle presenti Regole uniformi e delle PTU sono disciplinate dalle disposizioni vigenti nello Stato parte la cui autorità competente ha concesso la prima ammissione all'esercizio, comprese le regole relative ai conflitti di leggi. 
+ 
+
+ &sect; 2 Le conseguenze in diritto civile e penale risultanti dall'inosservanza delle presenti Regole uniformi sono disciplinate, per quanto riguarda l'infrastruttura, dalle disposizioni vigenti nello Stato parte in cui il gestore dell'infrastruttura ha la sede, comprese le regole relative ai conflitti di leggi.
+Articolo 19 
+ 
+
+ 
+ 
+
+ Disposizioni transitorie 
+ 
+
+ 
+ 
+
+ &sect; 1 L'articolo 3 paragrafo 1 si applica ai veicoli esistenti, rinnovati e ammodernati. Per i veicoli che sono stati ammessi al traffico internazionale sulla base del RIV, del RIC o di altri accordi internazionali pertinenti e che sono adeguatamente contrassegnati vigono le disposizioni transitorie previste in questo articolo. 
+ 
+
+ &sect; 2 Alla data di entrata in vigore delle presenti Regole uniformi, i veicoli esistenti muniti dell'iscrizione RIV o RIC come prova della loro conformità attuale alle disposizioni tecniche dell'accordo RIV 2000 (edizione rivista del 1° gennaio 2004) o dell'accordo RIC sono considerati ammessi, conformemente alla loro compatibilità con le infrastrutture ferroviarie (indicata dalle iscrizioni sul veicolo), alla circolazione sulle reti degli Stati parti per le quali sono stati ammessi da uno degli Stati parti. 
+ 
+
+ &sect; 2a I veicoli esistenti su cui non sono riportate le iscrizioni RIV o RIC, ma che sono stati ammessi e contrassegnati in conformità ad accordi bilaterali o multilaterali tra Stati parti notificati all'Organizzazione sono ugualmente considerati ammessi alla circolazione sulle reti coperte dal rispettivo accordo. 
+ 
+
+ &sect; 3 L'ammissione transitoria conforme ai paragrafi 2 e 2a è valida fino a quando il veicolo necessita di una nuova ammissione secondo l'articolo 10 paragrafo 11. 
+ 
+
+ &sect; 4 Le iscrizioni RIV e RIC o altre iscrizioni accettate dalla Commissione di esperti tecnici e riportate sul veicolo, nonchè i dati registrati nella banca dati prevista all'articolo 13 sono considerati prove sufficienti dell'ammissione. Qualsiasi modifica non autorizzata di queste iscrizioni è considerata una frode e come tale è punita in conformità alla legislazione nazionale. 
+ 
+
+ &sect; 5 A prescindere da questa disposizione transitoria, il veicolo e la sua documentazione devono essere conformi alle disposizioni delle PTU in vigore riguardanti le iscrizioni e la manutenzione; deve essere ugualmente garantita la conformità alle disposizioni del RID in vigore, qualora applicabili. La Commissione di esperti tecnici può anche decidere che le disposizioni concernenti la sicurezza, introdotte nelle PTU, devono essere rispettate entro un termine stabilito, senza tener conto delle disposizioni transitorie. 
+ 
+
+ &sect; 6 I veicoli esistenti che non rientrano nel campo di applicazione dei paragrafi 2 e 2a possono essere ammessi all'esercizio su richiesta di un richiedente all'autorità competente. Quest'ultima può esigere dal richiedente informazioni tecniche aggiuntive, analisi di rischio e/o controlli dei veicoli, prima di concedere un'ammissione di esercizio complementare. Le autorità competenti devono tuttavia tener conto, nella sua integralità, della tabella di equivalenza prevista all'articolo 13 delle Regole uniformi APTU. 
+ 
+
+ &sect; 7 La Commissione di esperti tecnici può adottare altre disposizioni transitorie.
+Articolo 20 
+ 
+
+ 
+ 
+
+ Controversie 
+ 
+
+ 
+ 
+
+ Due o più Stati parti che hanno una controversia relativa all'ammissione tecnica di veicoli e di altri materiali ferroviari destinati ad essere utilizzati in traffico internazionale possono deferirla alla Commissione di esperti tecnici, se non sono riusciti a risolverla mediante una negoziazione diretta. Tali controversie possono altresì essere sottoposte, in conformità alla procedura di cui al Titolo V della Convenzione, al tribunale arbitrale.
