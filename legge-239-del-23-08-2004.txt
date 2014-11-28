@@ -223,10 +223,12 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 5. Le regioni e gli enti locali territorialmente interessati dalla localizzazione di nuove infrastrutture energetiche ovvero dal potenziamento o trasformazione di infrastrutture esistenti hanno diritto di stipulare accordi con i soggetti proponenti che individuino misure di compensazione e riequilibrio ambientale, coerenti con gli obiettivi generali di politica energetica nazionale, fatto salvo quanto previsto dall'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387. (12) 
- 
+ 5. Le regioni 
+ ((, gli enti pubblici territoriali))
 
- 
+ e gli enti locali territorialmente interessati dalla localizzazione di nuove infrastrutture energetiche ovvero dal potenziamento o trasformazione di infrastrutture esistenti hanno diritto di stipulare accordi con i soggetti proponenti che individuino misure di compensazione e riequilibrio ambientale, coerenti con gli obiettivi generali di politica energetica nazionale, fatto salvo quanto previsto dall'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387. (12) 
+ ((18))
+
  
  
 
@@ -1295,7 +1297,13 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 82-sexies. Le attività finalizzate a migliorare le prestazioni degli impianti di coltivazione di idrocarburi, compresa la perforazione, se effettuate a partire da opere esistenti e nell'ambito dei limiti di produzione ed emissione dei programmi di lavoro già approvati, sono soggette ad autorizzazione rilasciata dall'Ufficio nazionale minerario per gli idrocarburi e la geotermia. 
+ 82-sexies. Le attività finalizzate a migliorare le prestazioni degli impianti di coltivazione di idrocarburi, compresa la perforazione 
+ ((e la reiniezione delle acque di strato o della frazione gassosa estratta in giacimento))
+
+ , se effettuate a partire da opere esistenti e nell'ambito dei limiti di produzione ed emissione dei programmi di lavoro già approvati, sono soggette ad autorizzazione rilasciata dall'Ufficio nazionale minerario per gli idrocarburi e la geotermia 
+ ((. Le autorizzazioni relative alla reiniezione delle acque di strato o della frazione gassosa estratta in giacimento sono rilasciate con la prescrizione delle precauzioni tecniche necessarie a garantire che esse non possano raggiungere altri sistemi idrici o nuocere ad altri ecosistemi))
+
+ . 
  
 
  
@@ -1463,10 +1471,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 99. 
- ((COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45))
-
- . 
+ 99. COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45. 
  
 
  
@@ -1482,10 +1487,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 101. 
- ((COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45))
-
- . 
+ 101. COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45. 
  
 
  
@@ -1531,10 +1533,7 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 106. 
- ((COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45))
-
- . 
+ 106. COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45. 
  
 
  
@@ -1566,7 +1565,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 110. A decorrere dalla data di entrata in vigore della presente legge le spese per le attività svolte dagli uffici della Direzione generale per l'energia e le risorse minerarie del Ministero delle attività produttive, quali autorizzazioni, permessi o concessioni, volte alla realizzazione e alla verifica di impianti e di infrastrutture energetiche di competenza statale il cui valore sia di entità superiore a 5 milioni di euro, salvo esclusione disposta con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle attività produttive, per le relative istruttorie tecniche e amministrative e per le conseguenti necessità logistiche e operative, sono poste a carico del soggetto richiedente tramite il versamento di un contributo di importo non superiore allo 0,5 per mille del valore delle opere da realizzare. L'obbligo di versamento non si applica agli impianti o alle infrastrutture per i quali alla data di entrata in vigore della presente legge si sia già conclusa l'istruttoria. 
+ 110. A decorrere dalla data di entrata in vigore della presente legge le spese per le attività svolte dagli uffici della Direzione generale per l'energia e le risorse minerarie del Ministero delle attività produttive, quali autorizzazioni, permessi o concessioni, volte alla realizzazione e alla verifica di impianti e di infrastrutture energetiche di competenza statale il cui valore sia di entità superiore a 5 milioni di euro, salvo esclusione disposta con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle attività produttive, per le relative istruttorie tecniche e amministrative e per le conseguenti necessità logistiche e operative, sono poste a carico del soggetto richiedente tramite il versamento di un contributo di importo non superiore allo 
+ ((1 per mille))
+
+ del valore delle opere da realizzare. L'obbligo di versamento non si applica agli impianti o alle infrastrutture per i quali alla data di entrata in vigore della presente legge si sia già conclusa l'istruttoria. 
  
 
  
@@ -1854,4 +1856,17 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
  
 
- Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 34, comma 11) che "Gli accordi di cui all'articolo 1, comma 5, della legge 23 agosto 2004, n. 239, sono stipulati nei modi stabiliti con decreto del Ministero dello sviluppo economico, di concerto con il Ministero dell'economia e delle finanze, sentita la Conferenza unificata, da adottare entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto."
+ Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 34, comma 11) che "Gli accordi di cui all'articolo 1, comma 5, della legge 23 agosto 2004, n. 239, sono stipulati nei modi stabiliti con decreto del Ministero dello sviluppo economico, di concerto con il Ministero dell'economia e delle finanze, sentita la Conferenza unificata, da adottare entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto." 
+ 
+
+ 
+
+ 
+ ------------
+
+ AGGIORNAMENTO (18)
+
+ 
+ 
+
+ Successivamente la Corte Costituzionale, con sentenza 23 maggio - 12 luglio 2017, n. 170 (in G.U. 1&ordf; s.s. 19/07/2017, n. 29), ha dichiarato l'illegittimità costituzionale dell'art. 38, comma 10 del D.L. 12 settembre 2014, n. 133, convertito con modifcazioni dalla L. 11 novembre 2014, n. 164 (che ha introdotto i commi 1-bis, 1-ter e 1-quater al D.L. 25 giugno 2008, n. 112, convertito con modificazioni dalla L. 6 agosto 2008, n. 133, che a sua volta modifica il comma 5 del presente articolo).
