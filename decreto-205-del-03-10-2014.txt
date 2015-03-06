@@ -1,0 +1,297 @@
+IL MINISTRO DELL'ECONOMIA
+
+ 
+ E DELLE FINANZE
+
+ 
+
+ 
+ 
+ 
+ Visto il regio decreto 21 dicembre 1933, n. 1736;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 8, comma 7, lett. d), decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106, di seguito "Decreto legge", che prevede che con regolamento emanato, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, disciplini le modalità attuative delle disposizioni di cui alle precedenti lettere b) e c);
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la lett. b) dell'articolo 8, comma 7, del decreto sopraccitato che dispone modifiche al regio decreto 21 dicembre 1933, n. 1736, prevedendo che l'assegno bancario possa essere presentato al pagamento sia in forma cartacea che elettronica; che il protesto o la constatazione equivalente possano essere effettuati in forma elettronica sull'assegno presentato al pagamento in forma elettronica; che l'assegno circolare possa essere presentato al pagamento sia in forma cartacea che elettronica;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la lett. c), dell'articolo 8, comma 7 del decreto sopraccitato che dispone modifiche al regio decreto 21 dicembre 1933, n. 1736, prevedendo che le copie informatiche di assegni cartacei sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata dalla banca negoziatrice mediante l'utilizzo della propria firma digitale e nel rispetto delle disposizioni attuative e delle regole tecniche dettate dal presente regolamento;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la lett. e), dell'articolo 8, comma 7, del decreto sopraccitato che dispone modifiche al regio decreto 21 dicembre 1933, n. 1736, prevedendo l'emanazione da parte della Banca d'Italia, entro 12 mesi dall'emanazione del presente regolamento, di regole tecniche volte a completare il quadro normativo di riferimento;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82 e successive modifiche e integrazioni recante il Codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 3 dicembre 2013, recante "Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 22 febbraio 2013, recante "Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali, ai sensi degli articoli 20, comma 3, 24, comma 4, 28, comma 3, 32, comma 3, lettera b), 35, comma 2, 36, comma 2, e 71, comma 1, del Codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Viste le note n. 43840 del 4 giugno 2013 e n. 20336 dell'8 marzo 2014 del Ministero dell'economia e delle finanze con cui si è provveduto a richiedere il parere di Banca d'Italia sulla bozza di regolamento in oggetto;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il parere positivo espresso dalla Banca d'Italia con note n. 0715595/13 del 29 luglio 2013 e n. 0365986/14 del 4 aprile 2014;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 21 novembre 2013;
+
+ 
+
+ 
+ 
+ 
+ Vista la nota n. 5261 del 22 aprile 2014, con la quale lo schema di regolamento è stato comunicato al Presidente del Consiglio dei ministri;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Nel presente regolamento, si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) "legge assegni": il regio decreto 21 dicembre 1933, n. 1736; 
+ 
+
+ 
+ 
+
+ 
+ b) "CAD": il decreto legislativo 7 marzo 2005, n. 82 e successive modifiche e integrazioni recante il Codice dell'amministrazione digitale; 
+ 
+
+ 
+ 
+
+ 
+ c) "regolamento della Banca d'Italia": il regolamento di cui all'articolo 8, comma 7, lett. e), del decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106; 
+ 
+
+ 
+ 
+
+ 
+ d) "negoziatore": la banca, o altro soggetto abilitato alla negoziazione, a cui l'assegno è girato per l'incasso; 
+ 
+
+ 
+ 
+
+ 
+ e) "trattario": la banca, o altro soggetto abilitato, presso cui è detenuto il conto di traenza dell'assegno; 
+ 
+
+ 
+ 
+
+ 
+ f) "emittente": la banca, o altro soggetto abilitato, che ha emesso l'assegno circolare per una somma disponibile presso la banca stessa al momento dell'emissione; 
+ 
+
+ 
+ 
+
+ 
+ g) "immagine dell'assegno": copia per immagine dell'assegno, su supporto informatico, di cui all'articolo 1, comma 1, lettera i-ter) del CAD, conforme all'originale cartaceo ai sensi di quanto previsto dall'articolo 66 della legge assegni. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Note alle premesse: 
+ 
+
+ Il regio decreto 21 dicembre 1933, n. 1736 (Disposizioni sull'assegno bancario, sull'assegno circolare e su alcuni titoli speciali dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia) è pubblicato nella Gazzetta Ufficiale 29 dicembre 1933, n. 300. 
+ 
+
+ Si riporta il testo del comma 7 dell'articolo 8 del decreto-legge 13 maggio 2011, n. 70 (Semestre Europeo - Prime disposizioni urgenti per l'economia), convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106: 
+ 
+
+ "7. Per allineare allo standard europeo l'esercizio del credito sono apportate le seguenti modifiche: 
+ 
+
+ a) l'articolo 20, comma 1, del decreto legislativo 27 gennaio 2010, n. 11, è sostituito dal seguente: 
+ 
+
+ "1. Il prestatore di servizi di pagamento del pagatore assicura che dal momento della ricezione dell'ordine l'importo dell'operazione venga accreditato sul conto del prestatore di servizi di pagamento del beneficiario entro la fine della giornata operativa successiva. Fino al 1° gennaio 2012 le parti di un contratto per la prestazione di servizi di pagamento possono concordare di applicare un termine di esecuzione diverso da quello previsto dal primo periodo ovvero di fare riferimento al termine indicato dalle regole stabilite per gli strumenti di pagamento dell'area unica dei pagamenti in euro che non può comunque essere superiore a tre giornate operative. Per le operazioni di pagamento disposte su supporto cartaceo, i termini massimi di cui ai periodi precedenti possono essere prorogati di una ulteriore giornata operativa."; 
+ 
+
+ b) al regio decreto 21 dicembre 1933, n. 1736, sono apportate le seguenti modifiche: 
+ 
+
+ 1) all'articolo 31 è aggiunto, in fine, il seguente comma: &laquo;L'assegno bancario può essere presentato al pagamento, anche nel caso previsto dall'articolo 34, in forma sia cartacea sia elettronica.&raquo;; 
+ 
+
+ 2) il numero 3) del primo comma dell' articolo 45 è sostituito dal seguente: &laquo;3) con dichiarazione della Banca d'Italia, quale gestore delle stanze di compensazione o delle attività di compensazione e di regolamento delle operazioni relative agli assegni, attestante che l'assegno bancario, presentato in forma elettronica, non è stato pagato.&raquo;; 
+ 
+
+ 3) all'articolo 61 è aggiunto, in fine, il seguente comma: &laquo;Il protesto o la constatazione equivalente possono essere effettuati in forma elettronica sull'assegno presentato al pagamento in forma elettronica.&raquo;; 
+ 
+
+ 4) all'articolo 86, primo comma, è aggiunto, in fine, il seguente periodo: "All'assegno circolare si applica altresì la disposizione dell'assegno bancario di cui all'articolo 31, terzo comma."; 
+ 
+
+ c) all'articolo 66 del regio decreto 21 dicembre 1933, n. 1736, è aggiunto, in fine, il seguente comma: 
+ 
+
+ &laquo;Le copie informatiche di assegni cartacei sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata dalla banca negoziatrice mediante l'utilizzo della propria firma digitale e nel rispetto delle disposizioni attuative e delle regole tecniche dettate ai sensi dell' articolo 8, comma 7, lettere d) ed e), del decreto-legge 13 maggio 2011, n. 70&raquo;; 
+ 
+
+ d) con regolamento emanato, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro 12 mesi dalla data di entrata in vigore del presente decreto, il Ministro dell'Economia e delle Finanze, sentita la Banca d'Italia, disciplina le modalità attuative delle disposizioni di cui alle precedenti lettere b) e c); 
+ 
+
+ e) la Banca d'Italia, entro 12 mesi dall'emanazione del regolamento di cui alla lettera d), disciplina con proprio regolamento le regole tecniche per l'applicazione delle disposizioni di cui alle precedenti lettere e del regolamento ministeriale; 
+ 
+
+ f) le modifiche apportate al regio decreto 21 dicembre 1933, n. 1736, dalla lettera b) del presente comma entrano in vigore il quindicesimo giorno successivo alla pubblicazione nella Gazzetta Ufficiale della Repubblica del regolamento della Banca d'Italia di cui alla lettera e); 
+ 
+
+ f-bis) dopo il comma 3 dell'articolo 8 della legge 15 dicembre 1990, n. 386, e successive modificazioni, è inserito il seguente: 
+ 
+
+ &laquo;3-bis. L'autenticazione di cui al comma 3 del presente articolo è effettuata ai sensi dell'articolo 21, comma 2, del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. L'autenticazione deve essere rilasciata gratuitamente, tranne i previsti diritti, nella stessa data della richiesta, salvo motivato diniego&raquo;". 
+ 
+
+ Si riporta il testo del comma 3 dell'articolo 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
+ 
+
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.". 
+ 
+
+ Il decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale) è pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
+ 
+
+ Il DPCM 3 dicembre 2013 (Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice ell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005) è pubblicato nella Gazz. Uff. 12 marzo 2014, n. 59, S.O. 
+ 
+
+ Il DPCM 22 febbraio 2013 (Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali, ai sensi degli articoli 20, comma 3, 24, comma 4, 28, comma 3, 32, comma 3, lettera b), 35, comma 2, 36, comma 2, e 71) è pubblicato nella Gazzetta Ufficiale 21 maggio 2013, n. 117. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ Per il riferimento al testo del Regio Decreto n. 1736 del 1933 vedasi nelle Note alle premesse. 
+ 
+
+ Per il riferimento al testo del decreto legislativo n. 82 del 2005 vedasi nelle Note alle premesse. 
+ 
+
+ Per il riferimento al testo del comma 7 dell'articolo 8 del decreto-legge n. 70 del 2011 vedasi nelle Note alle premesse. 
+ 
+
+ Si riporta il testo vigente dell'articolo 66 del citato Regio Decreto n. 1736 del 1933: 
+ 
+
+ "Art. 66. - Ad eccezione degli assegni bancari al portatore, qualsiasi assegno bancario, emesso in un paese e pagabile in un altro paese oppure in una parte d'oltre mare dello stesso paese o viceversa, oppure emesso e pagabile nella stessa o in diverse parti d'oltre mare dello stesso paese, può essere emesso in diversi esemplari (duplicati).
+ 
+
+ Se un assegno bancario è emesso in diversi duplicati, questi possono essere numerati nel contesto di ciascun titolo; in difetto, si considerano come altrettanti assegni bancari distinti. 
+ 
+
+ Le copie informatiche di assegni cartacei sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata dalla banca negoziatrice mediante l'utilizzo della propria firma digitale e nel rispetto delle disposizioni attuative e delle regole tecniche dettate ai sensi dell' articolo 8, comma 7, lettere d) ed e), del decreto-legge 13 maggio 2011, n. 70.".
