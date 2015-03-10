@@ -1,0 +1,3864 @@
+TABELLA 1 
+ 
+
+ 
+ 
+
+ ELENCO DELLE PRESTAZIONI SOCIALI 
+ 
+
+ 
+ 
+
+ La seguente tabella recepisce, ai sensi dell'articolo 3, comma 1, limitatamente alle prestazioni sociali agevolate, l'elenco di cui alla Tabella 1 del decreto 8 marzo 2013 del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, concernente "Definizione delle modalità di rafforzamento del sistema dei controlli ISEE". Gli interventi e i servizi, di cui alla sezione A2, classificati con codice da A2.16 a A2.29, costituiscono informazioni da inserire nel Casellario solo in caso di presa in carico da parte del servizio sociale professionale, fermo restando, ai sensi dell'articolo 2, comma 2, che l'informazione viene raccolta nei soli casi in cui per l'erogazione della prestazione sia necessaria l'identificazione del beneficiario. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |A1 - CONTRIBUTI ECONOMICI |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |Codice |Denominazione |Descrizione |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Prestazioni sociali|
+ 
+
+ 
+ | agevolate |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | | |Prestazione richiesta al |
+ 
+
+ 
+ | | |Comune, rivalutata |
+ 
+
+ 
+ | | |annualmente, ed erogata |
+ 
+
+ 
+ | | |dall'INPS a favore di |
+ 
+
+ 
+ | | |cittadini italiani o |
+ 
+
+ 
+ | | |comunitari residenti nel |
+ 
+
+ 
+ | | |territorio dello Stato, a |
+ 
+
+ 
+ | | |nuclei familiari con almeno|
+ 
+
+ 
+ | | |3 figli minori e nuclei |
+ 
+
+ 
+ | | |familiari con risorse |
+ 
+
+ 
+ | |Assegno per il nucleo |reddituali e patrimoniali |
+ 
+
+ 
+ | |familiare erogato dai |non superiori a quelle |
+ 
+
+ 
+ |A1.01 |Comuni |previste dall'ISE |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Assegno destinato alle |
+ 
+
+ 
+ | | |nuove mamme che non hanno |
+ 
+
+ 
+ | | |ricevuto altre prestazioni |
+ 
+
+ 
+ | | |di maternità dall'INPS o |
+ 
+
+ 
+ | | |dal datore di lavoro e in |
+ 
+
+ 
+ | |Assegno Maternità |possesso di determinate |
+ 
+
+ 
+ |A1.02 |erogato dai Comuni |situazioni reddituali |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegno economico a favore|
+ 
+
+ 
+ | | |di persone e famiglie in |
+ 
+
+ 
+ | | |condizione di povertà per |
+ 
+
+ 
+ | | |l'acquisto di generi |
+ 
+
+ 
+ | | |alimentari e il pagamento |
+ 
+
+ 
+ |A1.03 |Carta acquisti |delle bollette |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sussidi economici, anche |
+ 
+
+ 
+ | |Contributi economici a|una tantum, ad integrazione|
+ 
+
+ 
+ | |integrazione del |del reddito di persone |
+ 
+
+ 
+ |A1.04 |reddito familiare |bisognose. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sussidi economici ad |
+ 
+
+ 
+ | | |integrazione del reddito |
+ 
+
+ 
+ | | |individuale o familiare per|
+ 
+
+ 
+ | | |sostenere le spese per |
+ 
+
+ 
+ | |Contributi economici |l'alloggio e per l'affitto |
+ 
+
+ 
+ |A1.05 |per alloggio |e per le utenze |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegni economici che |
+ 
+
+ 
+ | | |consentono di acquistare |
+ 
+
+ 
+ | | |generi alimentari o |
+ 
+
+ 
+ | |Buoni spesa o buoni |consumare pasti negli |
+ 
+
+ 
+ |A1.06 |pasto |esercizi in convenzione |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi per garantire |
+ 
+
+ 
+ | |Contributi e |all'utente in difficoltà |
+ 
+
+ 
+ | |integrazioni a rette |economica la copertura |
+ 
+
+ 
+ |A1.07 |per asili nido |della retta per asili nido.|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Contributi e | |
+ 
+
+ 
+ | |integrazioni a rette |Interventi per garantire |
+ 
+
+ 
+ | |per servizi |all'utente in difficoltà |
+ 
+
+ 
+ | |integrativi o |economica la copertura |
+ 
+
+ 
+ | |innovativi per la |della retta per i servizi |
+ 
+
+ 
+ |A1.08 |prima infanzia |integrativi. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegni economici per |
+ 
+
+ 
+ | | |garantire all'utente in |
+ 
+
+ 
+ | | |difficoltà economica il |
+ 
+
+ 
+ | | |diritto allo studio |
+ 
+
+ 
+ | | |nell'infanzia e |
+ 
+
+ 
+ | | |nell'adolescenza; comprese |
+ 
+
+ 
+ | |Contributi economici |le agevolazioni su |
+ 
+
+ 
+ | |per i servizi |trasporto riconosciute alle|
+ 
+
+ 
+ |A1.09 |scolastici |famiglie bisognose |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegno economico alle |
+ 
+
+ 
+ | | |persone in difficoltà per |
+ 
+
+ 
+ | | |spese mediche o, più in |
+ 
+
+ 
+ | | |generale, per prestazioni |
+ 
+
+ 
+ | | |sociali a rilevanza |
+ 
+
+ 
+ | | |sanitaria. In questa |
+ 
+
+ 
+ | | |categoria rientra |
+ 
+
+ 
+ | | |l'esenzione ticket |
+ 
+
+ 
+ | | |sanitari, qualora sia a |
+ 
+
+ 
+ | | |carico del Comune/Comuni, e|
+ 
+
+ 
+ | |Contributi economici |il contributo per |
+ 
+
+ 
+ | |per cure o prestazioni|l'acquisto di protesi e |
+ 
+
+ 
+ | |sociali a rilevanza |ausili (anziani e |
+ 
+
+ 
+ |A1.10 |sanitaria |disabili). |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Tra gli altri sono |
+ 
+
+ 
+ | | |individuabili: VOUCHER = |
+ 
+
+ 
+ | | |provvidenza economica a |
+ 
+
+ 
+ | |Assegnazioni |favore di anziani non |
+ 
+
+ 
+ | |economiche per il |autosufficienti e disabili,|
+ 
+
+ 
+ | |sostegno della |versata solo nel caso in |
+ 
+
+ 
+ | |domiciliarità e |cui le prestazioni siano |
+ 
+
+ 
+ | |dell'autonomia |erogate da "care giver" |
+ 
+
+ 
+ |A1.11 |personale |professionali. |
+ 
+
+ 
+ | | |ASSEGNO DI CURA = |
+ 
+
+ 
+ | | |incentivazione economica |
+ 
+
+ 
+ | | |finalizzata a garantire a |
+ 
+
+ 
+ | | |soggetti anziani non |
+ 
+
+ 
+ | | |autosufficienti e a |
+ 
+
+ 
+ | | |disabili gravi o |
+ 
+
+ 
+ | | |gravissimi, la permanenza |
+ 
+
+ 
+ | | |nel nucleo familiare o |
+ 
+
+ 
+ | | |nell'ambiente di |
+ 
+
+ 
+ | | |appartenenza, evitando il |
+ 
+
+ 
+ | | |ricovero in strutture |
+ 
+
+ 
+ | | |residenziali. |
+ 
+
+ 
+ | | |"BUONO SOCIO-SANITARIO = |
+ 
+
+ 
+ | | |sostegno economico a favore|
+ 
+
+ 
+ | | |di persone in difficoltà |
+ 
+
+ 
+ | | |erogato nel caso in cui |
+ 
+
+ 
+ | | |l'assistenza sia prestata |
+ 
+
+ 
+ | | |da un "care giver" |
+ 
+
+ 
+ | | |familiare. |
+ 
+
+ 
+ | | |ASSEGNAZIONI PER PROGETTI |
+ 
+
+ 
+ | | |finalizzati alla vita |
+ 
+
+ 
+ | | |indipendente o alla |
+ 
+
+ 
+ | | |promozione dell'autonomia |
+ 
+
+ 
+ | | |personale |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi per garantire |
+ 
+
+ 
+ | |Contributi e |all'utente in difficoltà |
+ 
+
+ 
+ | |integrazioni a rette |economica la copertura |
+ 
+
+ 
+ | |per accesso a centri |della retta per centri |
+ 
+
+ 
+ |A1.12 |diurni |diurni |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi per garantire |
+ 
+
+ 
+ | | |all'utente in difficoltà |
+ 
+
+ 
+ | |Contributi e |economica la copertura |
+ 
+
+ 
+ | |integrazioni a rette |della retta per |
+ 
+
+ 
+ | |per accesso ai servizi|l'accoglienza in strutture |
+ 
+
+ 
+ |A1.13 |semi-residenziali |semi-residenziali. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi per garantire |
+ 
+
+ 
+ | | |all'utente bisognoso la |
+ 
+
+ 
+ | | |copertura della retta per |
+ 
+
+ 
+ | | |l'accoglienza in strutture |
+ 
+
+ 
+ | | |residenziali e, per l'area |
+ 
+
+ 
+ | |Contributi e |Famiglia e minori, |
+ 
+
+ 
+ | |integrazioni a rette |l'integrazione delle rette |
+ 
+
+ 
+ | |per accesso a servizi |per minori ospitati in |
+ 
+
+ 
+ |A1.14 |residenziali |centri residenziali |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegno economico rivolto |
+ 
+
+ 
+ | | |a persone parzialmente non |
+ 
+
+ 
+ | | |autosufficienti o a rischio|
+ 
+
+ 
+ | | |di emarginazione, che |
+ 
+
+ 
+ | | |richiedono interventi di |
+ 
+
+ 
+ | |Contributi per servizi|cura e di igiene della |
+ 
+
+ 
+ |A1.15 |alla persona |persona |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sostegno economici erogati |
+ 
+
+ 
+ | | |a persone a ridotta |
+ 
+
+ 
+ | |Contributi economici |mobilità (disabili, |
+ 
+
+ 
+ | |per servizio trasporto|anziani), inclusi i |
+ 
+
+ 
+ |A1.16 |e mobilità |contributi per i cani guida|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestiti destinati a |
+ 
+
+ 
+ | | |fronteggiare situazioni |
+ 
+
+ 
+ | | |transitorie di lieve |
+ 
+
+ 
+ | | |difficoltà economica, |
+ 
+
+ 
+ | | |concessi da istituti di |
+ 
+
+ 
+ | | |credito convenzionati con |
+ 
+
+ 
+ | |Contributi economici |gli enti pubblici, a tasso |
+ 
+
+ 
+ | |erogati a titolo di |zero per il beneficiario, |
+ 
+
+ 
+ | |prestito/prestiti |basati sull'impegno dello |
+ 
+
+ 
+ |A1.17 |d'onore |stesso alla restituzione |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi economici a |
+ 
+
+ 
+ | | |sostegno di percorsi di |
+ 
+
+ 
+ | | |transizione al lavoro o di |
+ 
+
+ 
+ | | |servizi dell'inserimento |
+ 
+
+ 
+ | | |lavorativo. In questa |
+ 
+
+ 
+ | |Contributi economici |categoria rientrano borse |
+ 
+
+ 
+ | |per l'inserimento |lavoro, tutoraggio e altre |
+ 
+
+ 
+ |A1.18 |lavorativo |forme di sostegno. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ |A1.19 |Borse di studio | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Contributo a nuclei |
+ 
+
+ 
+ | | |familiari, in percentuale |
+ 
+
+ 
+ | | |sull'importo dei buoni |
+ 
+
+ 
+ | | |richiesti a seconda del |
+ 
+
+ 
+ | | |numero dei componenti e di |
+ 
+
+ 
+ |A1.20 |Buono vacanze |requisiti reddituali |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Altro (prestazione | |
+ 
+
+ 
+ |A1.21 |soggetta a ISEE) | |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Altre prestazioni |
+ 
+
+ 
+ | sociali |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | | |Contributi in denaro alle |
+ 
+
+ 
+ | |Contributi economici |famiglie che accolgono |
+ 
+
+ 
+ | |per l'affidamento |temporaneamente minori con |
+ 
+
+ 
+ |A1.22 |familiare di minori |problemi familiari |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Contributi in denaro alle |
+ 
+
+ 
+ | | |famiglie che accolgono |
+ 
+
+ 
+ | |Contributi economici |temporaneamente disabili, |
+ 
+
+ 
+ | |per l'accoglienza di |adulti in difficoltà e |
+ 
+
+ 
+ |A1.23 |adulti e anziani |anziani |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Altro (prestazione non| |
+ 
+
+ 
+ |A1.24 |soggetta a ISEE) |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |A2 - INTERVENTI E SERVIZI |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |Codice |Denominazione |Descrizione |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Prestazioni sociali|
+ 
+
+ 
+ | agevolate |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | | |Erogazione di pasti caldi a|
+ 
+
+ 
+ | | |soggetti con un reddito |
+ 
+
+ 
+ | | |inferiore al minimo vitale |
+ 
+
+ 
+ | | |e che si trovano in |
+ 
+
+ 
+ |A2.01 |Mensa sociale |condizioni disagiate |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi di sostegno |
+ 
+
+ 
+ | | |destinati ai soggetti a |
+ 
+
+ 
+ | | |rischio di emarginazione e |
+ 
+
+ 
+ | | |alle relative famiglie, |
+ 
+
+ 
+ | | |erogati a domicilio, in |
+ 
+
+ 
+ | | |strutture o in luoghi di |
+ 
+
+ 
+ | |Sostegno |aggregazione spontanea, per|
+ 
+
+ 
+ | |socio-educativo |il raggiungimento della |
+ 
+
+ 
+ | |territoriale o |massima autonomia personale|
+ 
+
+ 
+ |A2.02 |domiciliare |e sociale |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Prestazioni del | |
+ 
+
+ 
+ | |diritto allo studio |Sono incluse mense e |
+ 
+
+ 
+ |A2.03 |universitario |alloggi per studenti |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Agevolazioni per tasse| |
+ 
+
+ 
+ |A2.04 |universitarie | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Agevolazioni per i | |
+ 
+
+ 
+ | |servizi di pubblica | |
+ 
+
+ 
+ | |utilità (telefono, | |
+ 
+
+ 
+ |A2.05 |luce, gas) | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Agevolazioni | |
+ 
+
+ 
+ | |tributarie comunali | |
+ 
+
+ 
+ | |(nettezza urbana, | |
+ 
+
+ 
+ |A2.06 |ecc.) | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Servizio rivolto a persone |
+ 
+
+ 
+ | | |con ridotta autonomia, o a |
+ 
+
+ 
+ | | |rischio di emarginazione, |
+ 
+
+ 
+ | | |che richiedono interventi |
+ 
+
+ 
+ | | |di cura e di igiene della |
+ 
+
+ 
+ | | |persona, di aiuto nella |
+ 
+
+ 
+ | | |gestione della propria |
+ 
+
+ 
+ | | |abitazione, di sostegno |
+ 
+
+ 
+ | | |psicologico, di assistenza |
+ 
+
+ 
+ | |Assistenza domiciliare|sociale e/o educativa a |
+ 
+
+ 
+ |A2.07 |socio-assistenziale |domicilio |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazioni |
+ 
+
+ 
+ | | |socio-assistenziali e |
+ 
+
+ 
+ | | |sanitarie (cure mediche o |
+ 
+
+ 
+ | | |specialistiche, |
+ 
+
+ 
+ | | |infermieristiche, |
+ 
+
+ 
+ | | |riabilitative) erogate "a |
+ 
+
+ 
+ | | |domicilio" a persone non |
+ 
+
+ 
+ | | |autosufficienti o di |
+ 
+
+ 
+ | | |recente dimissione |
+ 
+
+ 
+ | | |ospedaliera, per evitare |
+ 
+
+ 
+ | |A.D.I.- Assistenza |ricoveri impropri e |
+ 
+
+ 
+ | |domiciliare integrata |mantenere il paziente nel |
+ 
+
+ 
+ |A2.08 |con servizi sanitari |suo ambiente di vita |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi mirati a |
+ 
+
+ 
+ | | |incentivare l'inserimento e|
+ 
+
+ 
+ | |Supporto |il reinserimento lavorativo|
+ 
+
+ 
+ | |all'inserimento |di soggetti disabili o a |
+ 
+
+ 
+ |A2.09 |lavorativo |rischio di emarginazione |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |In questa categoria |
+ 
+
+ 
+ | | |rientrano i servizi |
+ 
+
+ 
+ | | |previsti dall'art. 5 della |
+ 
+
+ 
+ | | |legge 285/97 e i servizi |
+ 
+
+ 
+ | | |educativi realizzati in |
+ 
+
+ 
+ | | |contesto familiare. In |
+ 
+
+ 
+ | | |particolare: spazi gioco |
+ 
+
+ 
+ | | |per bambini dai 18 ai 36 |
+ 
+
+ 
+ | | |mesi (per max 5 ore); |
+ 
+
+ 
+ | | |centri per bambini e |
+ 
+
+ 
+ | | |famiglie; servizi e |
+ 
+
+ 
+ | |Servizi integrativi |interventi educativi in |
+ 
+
+ 
+ |A2.10 |per la prima infanzia |contesto domiciliare |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi mirati a |
+ 
+
+ 
+ | | |favorire il processo di |
+ 
+
+ 
+ | | |integrazione nelle |
+ 
+
+ 
+ | | |strutture educative e |
+ 
+
+ 
+ | | |scolastiche dei minori con |
+ 
+
+ 
+ | | |problemi sociali (in |
+ 
+
+ 
+ | |Sostegno |particolare dei ragazzi |
+ 
+
+ 
+ | |socio-educativo |disabili e dei minori |
+ 
+
+ 
+ |A2.11 |scolastico |stranieri) |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ |A2.12 |Mensa scolastica | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi rivolti a |
+ 
+
+ 
+ | |Distribuzione pasti |persone parzialmente non |
+ 
+
+ 
+ | |e/o lavanderia a |autosufficienti o a rischio|
+ 
+
+ 
+ |A2.13 |domicilio |di emarginazione. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Mezzi di trasporto |
+ 
+
+ 
+ | | |(pubblici o privati) volti |
+ 
+
+ 
+ | | |a garantire lo spostamento |
+ 
+
+ 
+ | | |di persone a ridotta |
+ 
+
+ 
+ |A2.14 |Trasporto sociale |mobilità. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Altro (prestazione | |
+ 
+
+ 
+ |A2.15 |soggetta a ISEE) |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Altre prestazioni |
+ 
+
+ 
+ | sociali |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | | |Interventi finalizzati a |
+ 
+
+ 
+ | | |garantire a persone singole|
+ 
+
+ 
+ | | |o a nuclei familiari in |
+ 
+
+ 
+ | | |stato di bisogno l'accesso |
+ 
+
+ 
+ | | |ad una abitazione. In |
+ 
+
+ 
+ | | |questa categoria rientrano |
+ 
+
+ 
+ | | |le attività del settore |
+ 
+
+ 
+ | | |sociale per l'assegnazione |
+ 
+
+ 
+ | | |di case di edilizia |
+ 
+
+ 
+ | |Interventi di supporto|residenziale pubblica e i |
+ 
+
+ 
+ | |per reperimento |servizi di intermediazione |
+ 
+
+ 
+ |A2.16 |alloggi |per il reperimento alloggi.|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi finalizzati alla|
+ 
+
+ 
+ | | |piena integrazione sociale |
+ 
+
+ 
+ | | |dei soggetti deboli o a |
+ 
+
+ 
+ | | |rischio di emarginazione. |
+ 
+
+ 
+ | | |Sono incluse per esempio le|
+ 
+
+ 
+ | | |borse lavoro pensionati e |
+ 
+
+ 
+ | | |le attività per |
+ 
+
+ 
+ | | |l'attivazione del servizio |
+ 
+
+ 
+ | |Interventi per |di "nonno vigile" se |
+ 
+
+ 
+ | |l'integrazione sociale|considerato nell'ambito |
+ 
+
+ 
+ | |dei soggetti deboli o |sociale, i corsi di lingua |
+ 
+
+ 
+ |A2.17 |a rischio |italiana per gli immigrati.|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Attività di |
+ 
+
+ 
+ | | |intermediazione e supporto |
+ 
+
+ 
+ | | |per favorire l'accoglienza,|
+ 
+
+ 
+ | | |alternativa al ricovero in |
+ 
+
+ 
+ | | |strutture residenziali, per|
+ 
+
+ 
+ | | |coloro che non possono |
+ 
+
+ 
+ | |Servizio di |essere adeguatamente |
+ 
+
+ 
+ | |accoglienza di adulti |assistiti nell'ambito della|
+ 
+
+ 
+ |A2.18 |e anziani |propria famiglia |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi atti a garantire|
+ 
+
+ 
+ | | |l'accesso paritario in |
+ 
+
+ 
+ | | |ambito scolastico, sociale |
+ 
+
+ 
+ | |Servizi di mediazione |e lavorativo delle persone |
+ 
+
+ 
+ |A2.19 |culturale |straniere e nomadi. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Forme di solidarietà |
+ 
+
+ 
+ | | |(anche associative) fra |
+ 
+
+ 
+ | | |persone fragili (anziani |
+ 
+
+ 
+ | | |soli, coppie di anziani, |
+ 
+
+ 
+ | | |disabili adulti, migranti),|
+ 
+
+ 
+ | | |appartenenti allo stesso |
+ 
+
+ 
+ | | |contesto (condominio, |
+ 
+
+ 
+ | |Servizi di |strada, quartiere), |
+ 
+
+ 
+ | |prossimità/buon |finalizzate al reciproco |
+ 
+
+ 
+ | |vicinato/gruppi di |nella risposta ai disagi e |
+ 
+
+ 
+ |A2.20 |auto-aiuto |problemi quotidiani. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi tempestivi 24 |
+ 
+
+ 
+ | | |ore su 24 rivolti a utenti |
+ 
+
+ 
+ | |Telesoccorso e |in situazione di emergenza |
+ 
+
+ 
+ |A2.21 |teleassistenza |o di improvvisa difficoltà|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Sono interventi organizzati|
+ 
+
+ 
+ | | |abitualmente in luoghi |
+ 
+
+ 
+ | | |prefissati (es, stazione, |
+ 
+
+ 
+ | | |ecc) dove avviene la |
+ 
+
+ 
+ | | |distribuzione, da non |
+ 
+
+ 
+ | | |confondersi con gli |
+ 
+
+ 
+ | |Distribuzione beni di |interventi per l'emergenza.|
+ 
+
+ 
+ | |prima necessità |(Possono essere effettuati |
+ 
+
+ 
+ | |(pasti, medicinali, |anche con una unità |
+ 
+
+ 
+ |A2.22 |vestiario ecc.) |mobile) |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Disponibilità di docce o |
+ 
+
+ 
+ | | |locali per provvedere a |
+ 
+
+ 
+ | | |l'igiene personale di |
+ 
+
+ 
+ | | |soggetti senza fissa dimora|
+ 
+
+ 
+ | | |o che si trovano in |
+ 
+
+ 
+ | |Servizi per l'igiene |condizioni particolarmente |
+ 
+
+ 
+ |A2.23 |personale |disagiate. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Attività di supporto per |
+ 
+
+ 
+ | | |favorire l'accoglienza (a |
+ 
+
+ 
+ | | |tempo pieno o parziale) di |
+ 
+
+ 
+ | | |un minore in un nucleo |
+ 
+
+ 
+ | | |familiare qualora la |
+ 
+
+ 
+ | | |famiglia di origine sia |
+ 
+
+ 
+ | | |momentaneamente |
+ 
+
+ 
+ | | |impossibilitata a |
+ 
+
+ 
+ | | |provvedervi in modo |
+ 
+
+ 
+ | |Servizio per |adeguato, anche in |
+ 
+
+ 
+ | |l'affidamento dei |esecuzione di provvedimenti|
+ 
+
+ 
+ |A2.24 |minori |dell'Autorità Giudiziaria |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Attività volta a |
+ 
+
+ 
+ | | |proteggere e tutelare la |
+ 
+
+ 
+ | | |crescita del minore in |
+ 
+
+ 
+ | | |stato di abbandono |
+ 
+
+ 
+ | |Servizio per |attraverso l'accoglienza |
+ 
+
+ 
+ | |l'adozione nazionale |definitiva in un nuovo |
+ 
+
+ 
+ |A2.25 |di minori |nucleo familiare |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Attività volta a |
+ 
+
+ 
+ | | |proteggere e tutelare la |
+ 
+
+ 
+ | | |crescita del minore in |
+ 
+
+ 
+ | |Servizio per |stato di abbandono |
+ 
+
+ 
+ | |l'adozione |attraverso l'accoglienza |
+ 
+
+ 
+ | |internazionale di |definitiva in un nuovo |
+ 
+
+ 
+ |A2.26 |minori |nucleo familiare |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Servizio di sostegno alla |
+ 
+
+ 
+ | | |coppia in fase di |
+ 
+
+ 
+ | |Servizio di mediazione|separazione o già |
+ 
+
+ 
+ |A2.27 |familiare |separata, con figli minori.|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Servizio di sostegno alle |
+ 
+
+ 
+ | | |funzioni genitoriali (anche|
+ 
+
+ 
+ | |Interventi di sostegno|attraverso colloqui, |
+ 
+
+ 
+ |A2.28 |alla genitorialità |incontri, titoli sociali) |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Interventi di utilizzo del |
+ 
+
+ 
+ | | |tempo libero organizzati |
+ 
+
+ 
+ | | |per rispondere a bisogni di|
+ 
+
+ 
+ | | |socializzazione e |
+ 
+
+ 
+ | | |comunicazione delle persone|
+ 
+
+ 
+ | | |in stato di disagio e per |
+ 
+
+ 
+ | | |promuovere occasioni di |
+ 
+
+ 
+ | | |incontro e conoscenza tra |
+ 
+
+ 
+ | | |italiani e stranieri. Vi è|
+ 
+
+ 
+ | | |compresa l'organizzazione |
+ 
+
+ 
+ | | |di soggiorni climatici o |
+ 
+
+ 
+ | | |termali rivolte in |
+ 
+
+ 
+ | |Attività ricreative |particolare ai soggetti |
+ 
+
+ 
+ |A2.29 |di socializzazione |fragili. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Altro (prestazione non| |
+ 
+
+ 
+ |A2.30 |soggetta a ISEE) |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |A3 - SERVIZI EROGATI ATTRAVERSO STRUTTURE |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |Codice |Denominazione |Descrizione |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Prestazioni sociali|
+ 
+
+ 
+ | agevolate |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | | |Centri organizzati per |
+ 
+
+ 
+ | | |attività ricreative, |
+ 
+
+ 
+ | | |sportive, educative che si |
+ 
+
+ 
+ | | |svolgono nel periodo |
+ 
+
+ 
+ | | |estivo; Centri diurni per |
+ 
+
+ 
+ | | |anziani non |
+ 
+
+ 
+ | | |autosufficienti; Centri |
+ 
+
+ 
+ | | |diurni per persone con |
+ 
+
+ 
+ | | |disabilità; Centri diurni |
+ 
+
+ 
+ | | |per persone con disagio |
+ 
+
+ 
+ | | |mentale; Centri diurni per |
+ 
+
+ 
+ | | |persone senza dimora; |
+ 
+
+ 
+ | | |Centri diurni per le altre |
+ 
+
+ 
+ | |Strutture |categorie di disagio |
+ 
+
+ 
+ |A3.01 |semiresidenziali |adulti |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Struttura familiare: di |
+ 
+
+ 
+ | | |piccole dimensioni, |
+ 
+
+ 
+ | | |caratterizzata dalla |
+ 
+
+ 
+ | | |organizzazione di tipo |
+ 
+
+ 
+ | | |familiare, che riproduce le|
+ 
+
+ 
+ | | |caratteristiche della vita |
+ 
+
+ 
+ | | |in famiglia. In caso di |
+ 
+
+ 
+ | | |strutture per minori vi è |
+ 
+
+ 
+ | | |la presenza di una coppia o|
+ 
+
+ 
+ | | |di uno o due adulti che |
+ 
+
+ 
+ | | |svolgono funzioni |
+ 
+
+ 
+ |A3.02 |Strutture residenziali|genitoriali. |
+ 
+
+ 
+ | | |Struttura comunitaria: di |
+ 
+
+ 
+ | | |dimensioni variabili a |
+ 
+
+ 
+ | | |secondo dell'area di utenza|
+ 
+
+ 
+ | | |(di norma superiore a 6-10 |
+ 
+
+ 
+ | | |posti) è caratterizzata |
+ 
+
+ 
+ | | |dalla presenza di operatori|
+ 
+
+ 
+ | | |assistenziali, |
+ 
+
+ 
+ | | |socio-sanitari o educatori |
+ 
+
+ 
+ | | |e da una organizzazione di |
+ 
+
+ 
+ | | |tipo comunitario. |
+ 
+
+ 
+ | | |Centri estivi o invernali |
+ 
+
+ 
+ | | |con pernottamento: |
+ 
+
+ 
+ | | |strutture comunitarie |
+ 
+
+ 
+ | | |comprendenti le colonie, i |
+ 
+
+ 
+ | | |campeggi, i centri |
+ 
+
+ 
+ | | |ricreativi a carattere |
+ 
+
+ 
+ | | |stagionale, i soggiorni |
+ 
+
+ 
+ | | |climatici o termali |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Servizio rivolto alla prima|
+ 
+
+ 
+ | | |infanzia (0-3 anni) per |
+ 
+
+ 
+ | | |promuovere lo sviluppo |
+ 
+
+ 
+ | | |psico-fisico, cognitivo, |
+ 
+
+ 
+ | | |affettivo e sociale del |
+ 
+
+ 
+ | | |bambino e offrire sostegno |
+ 
+
+ 
+ | | |alle famiglie nel loro |
+ 
+
+ 
+ | | |compito educativo, aperto |
+ 
+
+ 
+ | | |per almeno 5 giorni e |
+ 
+
+ 
+ | | |almeno 6 ore al giorno per |
+ 
+
+ 
+ | | |un periodo di almeno 10 |
+ 
+
+ 
+ | | |mesi all'anno. Rientrano |
+ 
+
+ 
+ | | |sotto questa tipologia gli |
+ 
+
+ 
+ | | |asili nido pubblici, gli |
+ 
+
+ 
+ | | |asili nido aziendali e i |
+ 
+
+ 
+ | | |micro-nidi e le sezioni |
+ 
+
+ 
+ | | |24-36 mesi aggregate alle |
+ 
+
+ 
+ |A3.03 |Asilo Nido |scuole dell'infanzia. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Edilizia residenziale | |
+ 
+
+ 
+ |A3.04 |pubblica | |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Altro (prestazione | |
+ 
+
+ 
+ |A3.05 |soggetta a ISEE) |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | di cui: Altre prestazioni |
+ 
+
+ 
+ | sociali |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ | |Altro (prestazione non| |
+ 
+
+ 
+ |A3.06 |soggetta a ISEE) |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |A4 - PRESTAZIONI INPS (INCLUSE LE PRESTAZIONI DI NATURA |
+ 
+
+ 
+ |PREVIDENZIALE RILEVANTI PER IL SISS) |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |Codice |Denominazione |Descrizione |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa ai |
+ 
+
+ 
+ | | |mutilati e invalidi civili |
+ 
+
+ 
+ | | |di età compresa tra i |
+ 
+
+ 
+ | | |diciotto e i sessantacinque|
+ 
+
+ 
+ | | |anni, a cui l'apposita |
+ 
+
+ 
+ | | |Commissione sanitaria abbia|
+ 
+
+ 
+ | | |riconosciuto una inabilità|
+ 
+
+ 
+ | | |lavorativa totale (100%) e |
+ 
+
+ 
+ | | |permanente (invalidi |
+ 
+
+ 
+ | | |totali) e si trovino, |
+ 
+
+ 
+ | | |inoltre, in stato di |
+ 
+
+ 
+ | | |bisogno economico, siano |
+ 
+
+ 
+ | | |cittadini italiani e |
+ 
+
+ 
+ | |Pensione di |abbiano la residenza in |
+ 
+
+ 
+ |A4.01 |invalidità civile |Italia |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Pensione ai non |Prestazione concessa a |
+ 
+
+ 
+ | |vedenti (assoluti, |coloro che siano |
+ 
+
+ 
+ |A4.02 |parziali e decimisti) |riconosciuti ciechi civili |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa ai |
+ 
+
+ 
+ | | |minorati sensoriali |
+ 
+
+ 
+ | | |dell'udito affetti da |
+ 
+
+ 
+ | | |sordità congenita o |
+ 
+
+ 
+ | | |acquisita durante l'età |
+ 
+
+ 
+ | | |evolutiva (fino a 12 anni) |
+ 
+
+ 
+ | | |che abbia impedito il |
+ 
+
+ 
+ | | |normale apprendimento del |
+ 
+
+ 
+ | | |linguaggio parlato, purchè|
+ 
+
+ 
+ | | |la sordità non sia di |
+ 
+
+ 
+ | | |natura esclusivamente |
+ 
+
+ 
+ | | |psichica o dipendente da |
+ 
+
+ 
+ | | |cause di guerra, di lavoro |
+ 
+
+ 
+ |A4.03 |Pensione ai non udenti|o di servizio. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa ai |
+ 
+
+ 
+ | | |mutilati e invalidi civili |
+ 
+
+ 
+ | | |di età compresa tra i |
+ 
+
+ 
+ | | |diciotto e i sessantacinque|
+ 
+
+ 
+ | | |anni, nei cui confronti, in|
+ 
+
+ 
+ | | |sede di visita medica |
+ 
+
+ 
+ | | |presso la competente |
+ 
+
+ 
+ | | |commissione sanitaria, sia |
+ 
+
+ 
+ | | |stata riconosciuta una |
+ 
+
+ 
+ | | |riduzione della capacità |
+ 
+
+ 
+ | | |lavorativa in misura non |
+ 
+
+ 
+ | | |inferiore al 74% (invalidi |
+ 
+
+ 
+ | | |parziali), che siano |
+ 
+
+ 
+ | | |incollocati al lavoro, si |
+ 
+
+ 
+ | | |trovino in stato di bisogno|
+ 
+
+ 
+ | | |economico, siano cittadini |
+ 
+
+ 
+ | | |italiani e abbiano la |
+ 
+
+ 
+ |A4.04 |Assegno mensile |residenza in Italia. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa agli |
+ 
+
+ 
+ | | |invalidi civili totali che |
+ 
+
+ 
+ | | |per affezioni fisiche o |
+ 
+
+ 
+ | | |psichiche si trovino anche |
+ 
+
+ 
+ | | |nella impossibilità di |
+ 
+
+ 
+ | | |deambulare senza l'aiuto |
+ 
+
+ 
+ | | |permanente di un |
+ 
+
+ 
+ | | |accompagnatore o, non |
+ 
+
+ 
+ | | |essendo in grado di |
+ 
+
+ 
+ | | |compiere gli atti |
+ 
+
+ 
+ | | |quotidiani della vita, |
+ 
+
+ 
+ | |Indennità di |abbisognino di una |
+ 
+
+ 
+ |A4.05 |accompagnamento |assistenza continua. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa ai |
+ 
+
+ 
+ | | |minori invalidi civili |
+ 
+
+ 
+ | | |totali che per affezioni |
+ 
+
+ 
+ | | |fisiche o psichiche si |
+ 
+
+ 
+ | | |trovino anche nella |
+ 
+
+ 
+ | | |impossibilità di |
+ 
+
+ 
+ | | |deambulare senza l'aiuto |
+ 
+
+ 
+ | | |permanente di un |
+ 
+
+ 
+ | | |accompagnatore o, non |
+ 
+
+ 
+ | | |essendo in grado di |
+ 
+
+ 
+ | | |compiere gli atti |
+ 
+
+ 
+ | | |quotidiani della vita, |
+ 
+
+ 
+ | |Indennità |abbisognino di una |
+ 
+
+ 
+ |A4.06 |accompagnamento minori|assistenza continua |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa a |
+ 
+
+ 
+ | | |invalidi civili minori, per|
+ 
+
+ 
+ | | |aiutare l'inserimento nelle|
+ 
+
+ 
+ | | |scuole, nei centri di |
+ 
+
+ 
+ | | |formazione o di |
+ 
+
+ 
+ | | |addestramento professionale|
+ 
+
+ 
+ | | |e nelle strutture |
+ 
+
+ 
+ | |Indennità di |educative, riabilitative e |
+ 
+
+ 
+ |A4.07 |frequenza |terapeutiche accreditate |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione concessa ai |
+ 
+
+ 
+ | | |sordi al solo titolo della |
+ 
+
+ 
+ | | |minorazione, cioè |
+ 
+
+ 
+ | | |indipendentemente dallo |
+ 
+
+ 
+ | | |stato di bisogno economico,|
+ 
+
+ 
+ | |Indennità di |dall'età o dall'eventuale |
+ 
+
+ 
+ |A4.08 |comunicazione |ricovero in istituto |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione assistenziale |
+ 
+
+ 
+ | | |riconosciuta, agli |
+ 
+
+ 
+ | | |ultrasessantaquattrenni, |
+ 
+
+ 
+ | | |cittadini italiani e membri|
+ 
+
+ 
+ | | |UE residenti abitualmente |
+ 
+
+ 
+ | | |in Italia, sprovvisti di |
+ 
+
+ 
+ | | |reddito o con reddito |
+ 
+
+ 
+ | | |inferiore ai limiti |
+ 
+
+ 
+ |A4.09 |Pensione sociale |stabiliti dalla legge |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Idem pensione sociale (con |
+ 
+
+ 
+ | | |effetto dal 1° gennaio |
+ 
+
+ 
+ |A4.10 |Assegno sociale |1996) |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Pensione di invalidità |
+ 
+
+ 
+ | | |civile o pensione ai non |
+ 
+
+ 
+ | | |udenti erogata a soggetti |
+ 
+
+ 
+ | | |con 65 anni e più. In |
+ 
+
+ 
+ | | |questi casi l'importo della|
+ 
+
+ 
+ | | |pensione di inabilità |
+ 
+
+ 
+ | |Pensione/assegno |viene adeguato a quello |
+ 
+
+ 
+ | |sociale ex pensione |della pensione o assegno |
+ 
+
+ 
+ |A4.11 |invalidità civile |sociale |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Somma aggiuntiva a favore |
+ 
+
+ 
+ | | |di titolari di uno o più |
+ 
+
+ 
+ | | |trattamenti pensionistici a|
+ 
+
+ 
+ | | |carico dell'AGO e delle |
+ 
+
+ 
+ | | |forme sostitutive, |
+ 
+
+ 
+ | | |esclusive ed esonerative |
+ 
+
+ 
+ | | |della medesima, in presenza|
+ 
+
+ 
+ | | |di determinate condizioni |
+ 
+
+ 
+ |A4.12 |14° mensilità |di reddito ed età |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Importo aggiuntivo |
+ 
+
+ 
+ | | |corrisposto con la |
+ 
+
+ 
+ | | |tredicesima mensilità in |
+ 
+
+ 
+ | | |presenza di particolari |
+ 
+
+ 
+ | | |condizioni reddituali, ai |
+ 
+
+ 
+ | | |titolari di una o più |
+ 
+
+ 
+ | | |pensioni il cui importo |
+ 
+
+ 
+ | | |complessivo non supera |
+ 
+
+ 
+ | | |l'importo annuo del |
+ 
+
+ 
+ | | |trattamento minimo del |
+ 
+
+ 
+ | | |FPLA1.3 maggiorato |
+ 
+
+ 
+ | | |dell'importo aggiuntivo |
+ 
+
+ 
+ |A4.13 |Importo aggiuntivo |stesso |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Assegno ai titolari di |
+ 
+
+ 
+ | | |invalidità civile di età |
+ 
+
+ 
+ | | |inferiore ai 65 anni che |
+ 
+
+ 
+ | |Maggiorazione mensile |non superano determinati |
+ 
+
+ 
+ |A4.14 |pensione |limiti di reddito annuo |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione assistenziale |
+ 
+
+ 
+ | | |erogata dall'INPS dietro |
+ 
+
+ 
+ | | |domanda del pensionato con |
+ 
+
+ 
+ | | |trattamento minimo che |
+ 
+
+ 
+ | | |rientra nei limiti di |
+ 
+
+ 
+ |A4.15 |Maggiorazione sociale |reddito previsti |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Integrazione fino al |
+ 
+
+ 
+ | | |raggiungimento del |
+ 
+
+ 
+ | | |trattamento minimo della |
+ 
+
+ 
+ | | |pensione (esclusa la |
+ 
+
+ 
+ | | |pensione di vecchiaia |
+ 
+
+ 
+ | | |liquidata col sistema |
+ 
+
+ 
+ | | |contributivo) secondo |
+ 
+
+ 
+ |A4.16 |Integrazione al minimo|criteri reddituali. |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione a sostegno |
+ 
+
+ 
+ | | |delle famiglie di alcune |
+ 
+
+ 
+ | | |categorie di lavoratori, il|
+ 
+
+ 
+ | | |cui nucleo familiare abbia |
+ 
+
+ 
+ | | |un reddito complessivo al |
+ 
+
+ 
+ | | |di sotto dei limiti |
+ 
+
+ 
+ | | |stabiliti annualmente dalla|
+ 
+
+ 
+ |A4.17 |Assegno familiare |legge |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Indennità corrisposta alle|
+ 
+
+ 
+ | | |lavoratrici madri e in casi|
+ 
+
+ 
+ | | |particolari ai lavoratori |
+ 
+
+ 
+ | | |padri a seguito della |
+ 
+
+ 
+ | | |nascita, dell'affidamento o|
+ 
+
+ 
+ |A4.18 |Assegno maternità |dell'adozione di un minore.|
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Prestazione a sostegno |
+ 
+
+ 
+ | | |delle famiglie dei |
+ 
+
+ 
+ | | |lavoratori (dipendenti, |
+ 
+
+ 
+ | | |parasubordinati, |
+ 
+
+ 
+ | | |pensionati, ecc.) che hanno|
+ 
+
+ 
+ | | |un reddito complessivo al |
+ 
+
+ 
+ | | |di sotto delle fasce |
+ 
+
+ 
+ | |Assegno al nucleo |stabilite ogni anno per |
+ 
+
+ 
+ |A4.19 |familiare |legge) |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Permessi retribuiti, aventi|
+ 
+
+ 
+ | | |come scopo la cura e |
+ 
+
+ 
+ | | |l'assistenza del portatore |
+ 
+
+ 
+ | | |di handicap, che spettano |
+ 
+
+ 
+ | | |ai cittadini lavoratori, |
+ 
+
+ 
+ | | |portatori di handicap grave|
+ 
+
+ 
+ | | |riconosciuto ai sensi |
+ 
+
+ 
+ | | |dell'art. 3, comma 3 della |
+ 
+
+ 
+ | | |legge 104/92 e ai loro |
+ 
+
+ 
+ | | |familiari entro il terzo |
+ 
+
+ 
+ | |Permessi retribuiti |grado di parentela e |
+ 
+
+ 
+ |A4.20 |Legge 104/92 |affinità |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Congedo straordinario, |
+ 
+
+ 
+ | | |retribuito con indennizzo |
+ 
+
+ 
+ | | |(e contribuzione |
+ 
+
+ 
+ | | |figurativa) avente come |
+ 
+
+ 
+ | | |scopo la cura e |
+ 
+
+ 
+ | | |l'assistenza del portatore |
+ 
+
+ 
+ | | |di handicap, che spetta ai |
+ 
+
+ 
+ | | |cittadini lavoratori, |
+ 
+
+ 
+ | | |portatori di handicap grave|
+ 
+
+ 
+ | | |riconosciuto e ai loro |
+ 
+
+ 
+ | | |familiari, secondo le |
+ 
+
+ 
+ | |Congedo straordinario |modalità previste dalla |
+ 
+
+ 
+ |A4.21 |L. 388/2000 |norma |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ |A4.22 |Altro |Specificare |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |A5 - AGEVOLAZIONI TRIBUTARIE RILEVANTI PER IL SISS |
+ 
+
+ 
+ +-------------------------------------------------------------------+
+ 
+
+ 
+ |Codice |Denominazione |Descrizione |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Art. 12, comma 1, lett. a),|
+ 
+
+ 
+ | |Detrazioni per coniuge|b), c) e d), comma 1-bis, |
+ 
+
+ 
+ |A5.01 |a carico |comma 3 del TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Art. 12, comma 1, lett. a),|
+ 
+
+ 
+ | |Detrazioni per figli a|b), c) e d), comma 1-bis, |
+ 
+
+ 
+ |A5.02 |carico |comma 3 del TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Ulteriore detrazione |Art. 12, comma 1, lett. a),|
+ 
+
+ 
+ | |per figli a carico |b), c) e d), comma 1-bis, |
+ 
+
+ 
+ |A5.03 |(famiglie numerose) |comma 3 del TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Art. 12, comma 1, lett. a),|
+ 
+
+ 
+ | |Detrazioni per altri |b), c) e d), comma 1-bis, |
+ 
+
+ 
+ |A5.04 |familiari a carico |comma 3 del TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Deduzione delle spese | |
+ 
+
+ 
+ | |mediche e di quelle di| |
+ 
+
+ 
+ | |assistenza specifica | |
+ 
+
+ 
+ | |necessarie nei casi di| |
+ 
+
+ 
+ | |grave e permanente | |
+ 
+
+ 
+ | |invalidità o |Art. 10, comma 1, lett. b),|
+ 
+
+ 
+ |A5.06 |menomazione |e comma 2, TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione per spese | |
+ 
+
+ 
+ | |relative a mezzi | |
+ 
+
+ 
+ | |necessari | |
+ 
+
+ 
+ | |all'accompagnamento e | |
+ 
+
+ 
+ | |a facilitare | |
+ 
+
+ 
+ | |l'autosufficienza dei |Art. 15, comma 1, lett. c) |
+ 
+
+ 
+ |A5.07 |soggetti disabili |e lett. c-ter), TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione per spese | |
+ 
+
+ 
+ | |relative a cani guida |Art. 15, comma 1, lett. c) |
+ 
+
+ 
+ |A5.08 |per non vedenti |e lett. c-ter), TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione per servizi|Art. 15, comma 1, lett. c) |
+ 
+
+ 
+ |A5.09 |di intepretariato |e lett. c-ter), TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | | |Art. 1, comma 335, della |
+ 
+
+ 
+ | |Detrazione del 19% per|Legge n. 266/05; art.2, |
+ 
+
+ 
+ | |le spese di frequenza |comma 6, della Legge n. |
+ 
+
+ 
+ |A5.10 |degli asili nido |203/08 |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione per addetti| |
+ 
+
+ 
+ | |all'assistenza | |
+ 
+
+ 
+ | |personale nei casi di | |
+ 
+
+ 
+ | |non autosufficienza | |
+ 
+
+ 
+ | |nel compimento degli | |
+ 
+
+ 
+ | |atti della vita |Art. 15, comma 1, lett. |
+ 
+
+ 
+ |A5.11 |quotidiana |i-septies) e comma 2, TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione spese | |
+ 
+
+ 
+ | |mantenimento cani |Art. 15, comma 1, lett. |
+ 
+
+ 
+ |A5.13 |guida |l-quater , TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ | |Detrazione per canoni | |
+ 
+
+ 
+ | |di locazione |Art. 16, commi 01, 1, |
+ 
+
+ 
+ | |dell'abitazione |1-bis, 1.ter e 1-sexies, |
+ 
+
+ 
+ |A5.15 |principale |TUIR |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+ 
+
+ 
+ |A5.16 |Altre agevolazioni |Specificare |
+ 
+
+ 
+ +----------------+----------------------+---------------------------+
+TABELLA 2 
+ 
+
+ 
+ 
+
+ CASELLARIO DELL'ASSISTENZA, INFORMAZIONI SULLE PRESTAZIONI 
+ 
+
+ La seguente tabella, nella sua articolazione in sezioni, recepisce, ai sensi dell'articolo 3, comma 3, limitatamente alle prestazioni sociali agevolate, la Tabella 2 del decreto 8 marzo 2013 del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, concernente "Definizione delle modalità di rafforzamento del sistema dei controlli ISEE". 
+ 
+
+ 
+ 
+
+ SEZIONE 1 - DATI IDENTIFICATIVI ENTE EROGATORE 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ CAMPO TIPO RANGE DOMINIO NOTE 
+ 
+
+ 
+ 2.1.1. CODICE ENTE EROGATORE NUMERICO 
+ 
+
+ 
+ 2.1.2. DENOMINAZIONE ENTE EROGATORE TESTO 
+ 
+
+ 
+ 2.1.3. INDIRIZZO (VIA, N. CIVICO, CAP, COMUNE, PROVINCIA) TESTO 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SEZIONE 2 - DATI IDENTIFICATIVI DEL BENEFICIARIO 
+ 
+
+ 
+ 
+ 
+ CAMPO TIPO RANGE DOMINIO NOTE 
+ 
+
+ 
+ 2.2.1 NOME TESTO 
+ 
+
+ 
+ 2.2.2 COGNOME TESTO 
+ 
+
+ 
+ 2.2.3 CODICE FISCALE TESTO 
+ 
+
+ 
+ 2.2.4 GENERE NUMERICO 1-2 1. MASCHIO 2. FEMMINA 
+ 
+
+ 
+ 2.2.5 ANNO NASCITA NUMERICO AAAA 
+ 
+
+ 
+ 2.2.6 CODICE CITTADINANZA NUMERICO ISO 3166 
+ 
+
+ 
+ 2.2.6.1 CODICE EVENTUALE SECONDA CITTADINANZA NUMERICO ISO 3166 
+ 
+
+ 
+ 2.2.7 CODICE REGIONE RESIDENZA NUMERICO DM 1986 
+ 
+
+ 
+ 2.2.8 CODICE COMUNE RESIDENZA NUMERICO CODICI ISTAT 
+ 
+
+ 
+ 2.2.9 CODICE NAZIONE RESIDENZA NUMERICO ISO 3166 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ SEZIONE 3 - PRESTAZIONI SOCIALI 
+ 
+
+ 
+ 
+ 
+ CAMPO TIPO RANGE DOMINIO NOTE 
+ 
+
+ 
+ 2.3.0 PRESENZA DI PROVA DEI MEZZI NUMERICO 1-4 1. PRESTAZIONE SOGGETTA A ISEE 2. PRESTAZIONE SOGGETTA A PROVA DEI MEZZI, MA NON ATTRAVERSO ISEE (ES. PRESTAZ. INPS, AGEVOLAZ. TRIBUT.) 3. PRESTAZIONE IN GENERALE SOGGETTA A ISEE, MA SOTTRATTA ALLA PROVA DEI MEZZI PER LO SPECIFICO BENEFICIARIO IN VIRTù DI ALTRI CRITERI DI BISOGNO (ES. ASILO NIDO PER BAMBINO CON DISABILITà O IN FAMIGLIE NUMEROSE, ECC.) 4. PRESTAZIONE NON SOGGETTA A PROVA DEI MEZZI (ASSENZA DI CRITERI ECONOMICI NELLA DISCIPLINA DELL'EROGAZIONE) 
+ 
+
+ 
+ 2.3.1 CARATTERE PRESTAZIONE NUMERICO 1-2 1. PERIODICO 2. OCCASIONALE (UNICA SOLUZIONE) 
+ 
+
+ 
+ 2.3.2 NUMERO PROTOCOLLO DSU NUMERICO SOLO PER VALORI DEL CAMPO 2.3.0=1 
+ 
+
+ 
+ 2.3.3 DATA DI SOTTO- SCRIZIONE DSU TESTO GG/MM/AAAA SOLO PER VALORI DEL CAMPO 2.3.0=1 
+ 
+
+ 
+ 2.3.4 CODICE PRESTAZIONE TESTO TABELLA 1 
+ 
+
+ 
+ 2.3.5 DENOMI- NAZIONE PRESTAZIONE TESTO TABELLA 1 
+ 
+
+ 
+ 2.3.6 DATA (EFFETTIVA O PREVISTA) DI INIZIO PRESTAZIONE TESTO GG/MM/AAAA PER VALORI DEL CAMPO 2.3.1=1 
+ 
+
+ 
+ 2.3.7 DATA (EFFETTIVA O PREVISTA) DI FINE PRESTAZIONE TESTO GG/MM/AAAA PER VALORI DEL CAMPO 2.3.1=1 
+ 
+
+ 
+ 2.3.8 DATA (EFFETTIVA O PREVISTA) DI EROGAZIONE PRESTAZIONE TESTO GG/MM/AAAA PER VALORI DEL CAMPO 2.3.1=2 
+ 
+
+ 
+ 2.3.9 IMPORTO PRESTAZIONE. NUMERICO VALORE ESPRESSO IN EURO PER VALORI DEL CAMPO 2.3.1=2 
+ 
+
+ 
+ 2.3.10 PERIODO DI EROGAZIONE IN MESI NUMERICO 0-12 PER VALORI DEL CAMPO 2.3.1=1 
+ 
+
+ 
+ 2.3.11 IMPORTO MENSILE EROGATO NUMERICO VALORE ESPRESSO IN EURO PER VALORI DEL CAMPO 2.3.1= 1 
+ 
+
+ 
+ 2.3.12 IMPORTO QUOTA DI COMPARTE- CIPAZIONE ECONOMICA/ RETTA A CARICO DELL'ENTE EROGATORE. NUMERICO VALORE ESPRESSO IN EURO 
+ 
+
+ 
+ 2.3.13 IMPORTO QUOTA DI COMPARTE- CIPAZIONE ECONOMICA/ RETTA A CARICO DELL'UTENTE. NUMERICO VALORE ESPRESSO IN EURO 
+ 
+
+ 
+ 2.3.14 IMPORTO QUOTA DI COMPARTE- CIPAZIONE ECONOMICA/ RETTA A CARICO DEL SERVIZIO SANITARIO NAZIONALE. NUMERICO VALORE ESPRESSO IN EURO 
+ 
+
+ 
+ 2.3.15 IMPORTO QUOTA DI COMPARTE- CIPAZIONE/ RETTA MASSIMA RICHIESTA PER L'EROGAZIONE DELLA PRESTAZIONE. NUMERICO VALORE ESPRESSO IN EURO 
+ 
+
+ 
+ 2.3.16 EVENTUALE SOGLIA ISEE PER L'ACCESSO ALLA PRESTAZIONE NUMERICO VALORE ESPRESSO IN EURO SOLO PER VALORI DEL CAMPO 2.3.0=1. NEL CASO DI PIù SCAGLIONI DI ISEE INDICARE L'EVENTUALE SOGLIA MASSIMA. 
+ 
+
+ 
+ 2.3.17 ORE DI SERVIZIO PROFESSIONALE PRESTATO MENSILMENTE NUMERICO VALORE ESPRESSO IN ORE SE LA PRESTAZIONE è IN SERVIZI 
+ 
+
+ 
+ 2.3.18 PRESA IN CARICO NUMERICO 1-2 1. SI 2. NO 
+ 
+
+ 
+ 2.3.19 AREA DI UTENZA NUMERICO 1-3 FAMIGLIA E MINORI DISABILITà E NON AUTOSUF- FICIENZA POVERTà ED ESCLUSIONE SOCIALE PER VALORI DEL CAMPO 2.3.18=1
+TABELLA 3 
+ 
+
+ 
+ 
+
+ VALUTAZIONE MULTIDIMENSIONALE PER LA PRESA IN CARICO 
+ 
+
+ 
+ 
+
+ SEZIONE 3.1 - SINBA 
+ 
+
+ 
+ 
+ 
+ CAMPO TIPO RANGE DOMINIO NOTE 
+ 
+
+ 
+ 3.1.1 COMPOSIZIONE DELLA FAMIGLIA DEL MINORE NUMERICO 1-6 MADRE PADRE FRATELLI/SORELLE NONNO/A COMPAGNO/A DELLA MADRE O DEL PADRE ALTRI CONVIVENTI 
+ 
+
+ 
+ 3.1.2 MINORE STRANIERO NON ACCOMPAGNATO NUMERICO 1-2 Sì NO 
+ 
+
+ 
+ 3.1.3 CONDIZIONE DEL MINORE NUMERICO 1-4 NON è ORFANO ORFANO DI ENTRAMBI ORFANO DI PADRE ORFANO DI MADRE GENITORI IGNOTI 
+ 
+
+ 
+ 3.1.4 LUOGO IN CUI VIVE IL MINORE NUMERICO 1-9 NELLA SUA FAMIGLIA PRESSO PARENTI IN FAMIGLIA AFFIDATARIA IN STRUTTURA RESIDENZIALE SOCIALE IN STRUTTURA RESIDENZIALE SANITARIA IN ISTITUTO PENALE MINORILE CON AMICI E CONOSCENTI SENZA DIMORA 
+ 
+
+ 
+ 3.1.5 SCUOLA FREQUENTATA NUMERICO 1-8 NESSUNA SCUOLA/ STRUTTURA ASILO NIDO SCUOLA DELL'INFANZIA SCUOLA PRIMARIA SCUOLA SECONDARIA I GRADO SCUOLA SECONDARIA II GRADO CORSO FORMAZIONE PROFESSIONALE 
+ 
+
+ 
+ 3.1.6 EVENTUALE CONDIZIONE DI LAVORO NUMERICO 1-4 INATTIVO (NON IN ETà DA LAVORO, NON HA E NON CERCA LAVORO) OCCUPATO DISOCCUPATO ALLA RICERCA DI NUOVA OCCUPAZIONE IN CERCA DI PRIMA OCCUPAZIONE 
+ 
+
+ 
+ 3.1.7 DISABILITà NUMERICO 1-2 Sì NO 
+ 
+
+ 
+ 3.1.8 TIPOLOGIA DISABILITà NUMERICO FISICA PSICHICA SENSORIALE PLURIMA 
+ 
+
+ 
+ 3.1.9 INVALIDITà CIVILE E ALTRE CERTIFICAZIONI NUMERICO 1-8 CERTIFICAZIONE INVALIDITà CIVILE PARZIALE NON INFERIORE AL 75% CERTIFICAZIONE INVALIDITà CIVILE TOTALE (100%) CON INDENNITà DI ACCOMPAGNAMENTO CERTIFICAZIONE INVALIDITà CIVILE TOTALE (100%) SENZA INDENNITà DI ACCOMPAGNAMENTO CERTIFICAZIONE NPI CERTIFICAZIONE L.104 
+ 
+
+ 
+ 3.1.10 CODICE CITTA- DINANZA PADRE ISO 4166 
+ 
+
+ 
+ 3.1.11 CODICE CITTA- DINANZA MADRE NUMERICO ISO 4166 
+ 
+
+ 
+ 3.1.12 CODICE REGIONE RESIDENZA PADRE NUMERICO DM 1986 
+ 
+
+ 
+ 3.1.13 CODICE REGIONE RESIDENZA MADRE NUMERICO DM 1986 
+ 
+
+ 
+ 3.1.14 CODICE COMUNE RESIDENZA PADRE NUMERICO CODICI ISTAT 
+ 
+
+ 
+ 3.1.15 CODICE COMUNE RESIDENZA MADRE NUMERICO CODICI ISTAT 
+ 
+
+ 
+ 3.1.16 TITOLO DI STUDIO DEL PADRE NUMERICO 1-6 NESSUN TITOLO LICENZA ELEMENTARE LICENZA MEDIA QUALIFICA PROFES- SIONALE DIPLOMA SCUOLA SUPERIORE LAUREA O DIPLOMA DI LAUREA 
+ 
+
+ 
+ 3.1.17 TITOLO DI STUDIO E DELLA MADRE NUMERICO 1-6 NESSUN TITOLO LICENZA ELEMENTARE LICENZA MEDIA QUALIFICA PROFES- SIONALE DIPLOMA SCUOLA SUPERIORE LAUREA O DIPLOMA DI LAUREA 
+ 
+
+ 
+ 3.1.18 CONDIZIONE OCCUPAZIONALE E SOCIALE DEL PADRE NUMERICO 1-8 OCCUPATO DISOCCUPATO ALLA RICERCA DI NUOVA OCCUPAZIONE IN CERCA DI PRIMA OCCUPAZIONE CASALINGA/O STUDENTE RITIRATO/A DAL LAVORO INABILE AL LAVORO IN ALTRA CONDIZIONE 
+ 
+
+ 
+ 3.1.19 CONDIZIONE OCCUPAZIONALE E SOCIALE DELLA MADRE NUMERICO 1-8 OCCUPATO DISOCCUPATO ALLA RICERCA DI NUOVA OCCUPAZIONE IN CERCA DI PRIMA OCCUPAZIONE CASALINGA/O STUDENTE RITIRATO/A DAL LAVORO INABILE AL LAVORO IN ALTRA CONDIZIONE 
+ 
+
+ 
+ 3.1.20 DATA DELLA PRIMA SEGNALAZIONE AL SERVIZIO SOCIALE NUMERICO GG/MM/AAAA 
+ 
+
+ 
+ 3.1.21 FONTE DELLA SEGNALAZIONE NUMERICO 1-14 SERVIZIO SOCIALE MINORI DELLA GIUSTIZIA MINORILE ALTRO SERVIZIO SOCIALE (CONSULTORI,CENTRI FAMIGLIA, DI ALTRO AMBITO/DISTRETTO, ..) SERVIZI SANITARI/ MEDICO DI BASE/ PEDIATRA PRIVATO SOCIALE/ VOLONTARIATO FORZE DELL'ORDINE BENEFICIARIO STESSO GENITORI AFFIDATARI/ TUTORE GENITORI/FRATELLI/ ALTRI FAMILIARI CONVIVENTI PARENTI NON CONVIVENTI TRIBUNALE ORDINARIO AUTORITà GIUDIZIARIE MINORILI PROFESSIONISTA PRIVATO SCUOLA VICINATO O CONOSCENTI 
+ 
+
+ 
+ 3.1.22 VALUTAZIONE DEL MINORE NUMERICO 1-13 NESSUNA SPECIFICA PROBLEMATICA PROBLEMI RELAZIONALI E COMPORTAMENTALI DIPENDENZE PRESUNTO STATO DI ABBANDONO PROBLEMI SANITARI VIOLENZA SESSUALE SUBITA, PROSTITUZIONE, TRATTA, PEDOPORNOGRAFIA ALTRE FORME DI VIOLENZA E MALTRAT- TAMENTO SUBITE COMPORTAMENTI DI GRAVE DEVIANZA PROBLEMI DI AUTONOMIA, DISABILITà COINVOLTO IN PROCEDURE PENALI GESTANTE/MADRE MINORENNE MINORE STRANIERO NON ACCOMPAGNATO ABBANDONO SCOLASTICO 
+ 
+
+ 
+ 3.1.23 VALUTAZIONE DELLA FAMIGLIA DEL MINORE NUMERICO 1-13 NESSUNA SPECIFICA PROBLEMATICA FRAGILITà/INADE- GUATEZZA GENITORIALE, PROBLEMATICHE SOCIO-EDUCATIVE E RELAZIONALI DIPENDENZA PROBLEMATICHE PSICHIATRICHE ALTRE PROBLEMATICHE SANITARIE GRAVE CONFLIT- TUALITà FAMILIARE FAMIGLIA MALTRATTANTE FAMIGLIA ABUSANTE PROBLEMI GIUDIZIARI FALLIMENTO AFFIDO PREADOTTIVO NEL I ANNO INADEMPIENZA OBBLIGHI SANITARI DIFFICOLTà ECONOMICHE DIFFICOLTà ABITATIVE 
+ 
+
+ 
+ 3.1.24 SEGNALAZIONE ALL'AUTORITà GIUDIZIARIA 1-2 Sì NO 
+ 
+
+ 
+ 3.1.25 DATA SEGNALAZIONE ALL'AUTORITà GIUDIZIARIA NUMERICO GG/MM/AAAA 
+ 
+
+ 
+ 3.1.26 PROVVEDIMENTO GIUDIZIARIO NUMERICO 1-2 Sì NO 
+ 
+
+ 
+ 3.1.27 DATA DELL'EVENTUALE PROVVEDIMENTO GIUDIZIARIO NUMERICO GG/MM/AAAA 
+ 
+
+ 
+ 3.1.28 AUTORITà EMANANTE IL PROVVEDIMENTO NUMERICO 1-4 GIUDICE TUTELARE TRIBUNALE PER I MINORI PROCURA PER I MINORI TRIBUNALE ORDINARIO 
+ 
+
+ 
+ 3.1.29 POTESTà E TUTELA NUMERICO 1-5 SOSPENSIONE POTESTà GENITORIALE DECADENZA POTESTà GENITORIALE PRESCRIZIONI AI GENITORI TUTELA A PARENTI O ALTRI SOGGETTI CURATELA 
+ 
+
+ 
+ 3.1.30 TIPO PROVVE- DIMENTO GIUDIZIARIO NUMERICO 1-8 ADOTTABILITà ADOZIONE NAZIONALE ADOZIONE INTERNA- ZIONALE AFFIDAMENTO FAMILIARE AFFIDO AL SERVIZIO SOCIALE AFFIDAMENTO A UNO DEI GENITORI IN CASO DI SEPARAZIONE VIGILANZA POST-ADOZIONE" ALLONTANAMENTO DEL MINORE IN VIA D'EMERGENZA (ART.403 C.C.) 
+ 
+
+ 
+ 3.1.31 FORMA DELL'IN- TERVENTO DI AFFIDO NUMERICO 1-2 CONSENSUALE GIUDIZIARIO 
+ 
+
+ 
+ 3.1.32 TIPO DELL'IN- TERVENTO DI AFFIDO NUMERICO 1-2 INTRAFAMILIARE ETEROFAMILIARE 
+ 
+
+ 
+ 3.1.33 DURATA DELL'IN- TERVENTO DI AFFIDO NUMERICO 1-2 TEMPO PIENO TEMPO PARZIALE 
+ 
+
+ 
+ 3.1.34 CARATTERE DELL'IN- TERVENTO DI AFFIDO NUMERICO 1-2 RESIDENZIALE DIURNO 
+ 
+
+ 
+ 3.1.35 ESITO AFFIDO NUMERICO 1-9 RIENTRATO NELLA FAMIGLIA DI ORIGINE AFFIDATA AD ALTRO NUCLEO FAMILIARE ADOTTATO INSERITO IN STRUTTURA SOCIO-EDUCATIVA INSERITO IN STRUTTURA SANITARIA VITA IN AUTONOMIA RIMPATRIATO DESTINAZIONE IGNOTA ALTRO 
+ 
+
+ 
+ 3.1.36 CARATTERE INSE- RIMENTO IN STRUTTURA RESIDENZIALE NUMERICO 1-10 FAMILIARE-PREVALENTE ACCOGLIENZA ABITATIVA FAMILIARE-PREVALENTE FUNZIONE TUTELARE FAMILIARE-FUNZIONE SOCIO-EDUCATIVA COMUNITARIO- ACCOGLIENZA DI EMERGENZA COMUNITARIO- PREVALENTE ACCOGLIENZA ABITATIVA COMUNITARIO- PREVALENTE FUNZIONE TUTELARE COMUNITARIO-FUNZIONE SOCIO-EDUCATIVA COMUNITARIO-FUNZIONE EDUCATIVA- PSICOLOGICA COMUNITARIO-FUNZIONE INTEGRAZIONE SOCIO- SANITARIA BASSA COMUNITARIO-FUNZIONE INTEGRAZIONE SOCIO- SANITARIA MEDIO-ALTA 
+ 
+
+ 
+ 3.1.37 FORMA INSERIMENTO IN STRUTTURA RESIDENZIALE NUMERICO 1-2 CONSENSUALE GIUDIZIARIO 
+ 
+
+ 
+ 3.1.38 TIPO INSERIMENTO IN STRUTTURA RESIDENZIALE NUMERICO 1-2 CON GENITORE SENZA GENITORE 
+ 
+
+ 
+ 3.1.39 ESITO A FINE INSERIMENTO IN STRUTTURA NUMERICO 1-9 RIENTRATO NELLA FAMIGLIA DI ORIGINE IN FAMIGLIA AFFIDATARIA O AFFIDATARIO ADOTTATO INSERITO IN ALTRA STRUTTURA SOCIO- EDUCATIVA INSERITO IN STRUTTURA SANITARIA RESO AUTONOMO RIMPATRIATO DESTINAZIONE IGNOTA ALTRO 
+ 
+
+ 
+ 3.1.40 MOTIVAZIONE DELLA CHIUSURA DELLA PRESA IN CARICO NUMERICO 1-9 PASSAGGIO A SERVIZIO TERRITORIALE ALTRO AMBITO/DISTRETTO DELLA STESSA REGIONE PASSAGGIO A SERVIZIO TERRITORIALE ALTRO AMBITO/DISTRETTO DI ALTRA REGIONE RAGGIUNTA ETà MAGGIORENNE CONCLUSIONE DEGLI INTERVENTI E DELLA PRESA IN CARICO PER RISOLUZIONE DELLO STATO DI BISOGNO USCITA RICHIESTA DAL MINORE UTENTE O DALLA FAMIGLIA RIMPATRIO IRREPERIBILITà DECESSO ALTRO 
+ 
+
+ 
+ 3.1.41 SITUAZIONE DEL MINORE DOPO LA CHIUSURA DELLA PRESA IN CARICO NUMERICO 1-8 NELLA FAMIGLIA DI ORIGINE VITA IN AUTONOMIA (IN APPARTAMENTO ANCHE CON ALTRI NON FAMILIARI O PARENTI) RIMANE NELLA FAMIGLIA AFFIDATARIA ANCHE SE MAGGIORENNE RIMANE NELLA STRUTTURA RESIDENZIALE SOCIO- ASSISTENZIALE ANCHE SE MAGGIORENNE COLLOCATO IN STRUTTURA RESIDENZIALE SANITARIA ADOTTATO IN UNA NUOVA FAMIGLIA IN ISTITUTO PENALE DESTINAZIONE IGNOTA 
+ 
+
+ 
+ 3.1.42 COLLABORAZIONI EFFETTUATE PER LA PREDISPO- SIZIONE DEGLI INTERVENTI NUMERICO 1-9 SERT NPI PSICOLOGIA CLINICA/DSM ALTRI SERVIZI SOCIALI (CONSULTORIO, CENTRI FAMIGLIA, ADULTI, DI ALTRO ABITO/DISTRETTO, ...) USSM MINISTERO GIUSTIZIA SCUOLA SERVIZI PRIVATO SOCIALE ASSOCIAZIONISMO, VOLONTARIATO ALTRO 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3.2 - SINA 
+ 
+
+ 
+ 
+ 
+ CAMPO TIPO RANGE DOMINIO NOTE 
+ 
+
+ 
+ 3.2.1 MOBILITà NUMERICO 1-3 SI SPOSTA DA SOLO SI SPOSTA ASSISTITO NON SI SPOSTA 
+ 
+
+ 
+ 3.2.2 ATTIVITà DELLA VITA QUOTIDIANA NUMERICO 1-3 AUTONOMO PARZIALMENTE DIPENDENTE TOTALMENTE DIPENDENTE 
+ 
+
+ 
+ 3.2.3 DISTURBI DELL'AREA COGNITIVA NUMERICO 1-3 LIEVI MODERATI GRAVI 
+ 
+
+ 
+ 3.2.4 DISTURBI COMPORTAMENTALI NUMERICO 1-2 ASSENTI PRESENTI 
+ 
+
+ 
+ 3.2.5 NECESSITà DI CURE SANITARIE NUMERICO 1-3 BASSA MEDIA ALTA 
+ 
+
+ 
+ 3.2.6 AREA REDDITUALE NUMERICO 1-3 AUTONOMO E IN EQUILIBRIO FINANZIARIO RICEVE AIUTO DA PARENTI E/O DA ALTRE PERSONE IN CONDIZIONE DI BISOGNO ECONOMICO E SENZA AIUTI DA PARENTI O ALTRE PERSONE 
+ 
+
+ 
+ 3.2.7 AREA DEL SUPPORTO FAMILIARE E/O RELAZIONALE NUMERICO 1-3 PRESENZA DELLA RETE FAMILIARE O INFORMALE PRESENZA PARZIALE E/O TEMPORANEA DELLA RETE FAMILIARE O INFORMALE ASSENZA DELLA RETE FAMILIARE O INFORMALE 
+ 
+
+ 
+ 3.2.8 FONTE DI DERIVAZIONE DELLA VALUTAZIONE NUMERICO 1-3 UVM CARTELLA SOCIALE O ALTRA DOCUMENTAZIONE RACCOLTA DIRETTA 
+ 
+
+ 
+ 3.2.9 EVENTUALE STRUMENTO DI VALUTAZIONE UVM NUMERICO 1-7 SVAMA AGED RUG SOSIA SCHEMA POLARE VALGRAF ALTRO SISTEMA DI CODIFICA 
+ 
+
+ 
+ 3.2.10 INVALIDITà CIVILE E ALTRE CERTIFI- CAZIONI NUMERICO 1-8 CERTIFICAZIONE INVALIDITà CIVILE PARZIALE NON INFERIORE AL 75% CERTIFICAZIONE INVALIDITà CIVILE TOTALE (100%) CON INDENNITà DI ACCOMPAGNAMENTO CERTIFICAZIONE INVALIDITà CIVILE TOTALE (100%) SENZA INDENNITà DI ACCOMPAGNAMENTO CERTIFICAZIONE NPI CERTIFICAZIONE L.104 (ART.3, COMMA 1) CERTIFICAZIONE L.104 (ART.3, COMMA 3) CERTIFICAZIONE L.104 (ART.12) CERTIFICAZIONE L.104 (ART.13) 
+ 
+
+ 
+ 3.2.11 FONTE DI DERIVAZIONE DELL'INVALIDITà NUMERICO 1-2 CERTIFICAZIONE INVALIDITà VERIFICATA ON LINE O CARTACEA DICHIARAZIONE DELLA PERSONA 
+ 
+
+ 
+ 3.2.12 NECESSITà DI INTERVENTI SOCIALI TESTO INTERVENTI SELEZIONATI DALLA TABELLA 1
