@@ -265,7 +265,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) al comma 6, le parole: &laquo;commi 1 e 2, allegano al bilancio annuale di previsione un documento conoscitivo concernente le previsioni relative agli aggregati corrispondenti alle voci articolate secondo la struttura del piano dei conti integrato di cui al comma 1&raquo; sono sostituite dalle seguenti: &laquo;trasmettono le previsioni di bilancio, aggregate secondo la struttura del quarto livello de piano dei conti, alla banca dati unitaria delle amministrazioni pubbliche di cui all'art. 13, comma 3, della legge 31 dicembre 2009, n. 196, sulla base di schemi, tempi e modalità definiti con decreto del Ministro dell'economia e delle finanze.&raquo;; 
  
 
- 4) al comma 7, le parole: &laquo;la nota integrativa al rendiconto, che espone i risultati della gestione, deve essere corredata di un allegato conoscitivo che esponga le risultanze degli aggregati corrispondenti alle voci articolate secondo la struttura del piano dei conti integrato. In sede di sperimentazione, si individuano i tempi e le modalità per esporre le risultanze degli aggregati corrispondenti alle voci articolate secondo la struttura del piano dei conti integrato.&raquo; sono sostituite dalle seguenti: &laquo;le amministrazioni di cui all'art. 2, trasmettono le risultanze del consuntivo, aggregate secondo la struttura del piano dei conti, alla banca dati unitaria delle amministrazioni pubbliche di cui all'art. 13, comma 3, della legge 31 dicembre 2009, n. 196, sulla base di schemi, tempi e modalità definiti con decreto del Ministro dell'economia e delle finanze.&raquo;; 
+ 4) al comma 7, le parole: &laquo;la nota integrativa al rendiconto, che espone i risultati della gestione, deve essere corredata di un allegato conoscitivo che esponga le risultanze degli aggregati corrispondenti alle voci articolate secondo la struttura del piano dei conti integrato. 
+ ((...))
+
+ &raquo; sono sostituite dalle seguenti: &laquo;le amministrazioni di cui all'art. 2, trasmettono le risultanze del consuntivo, aggregate secondo la struttura del piano dei conti, alla banca dati unitaria delle amministrazioni pubbliche di cui all'art. 13, comma 3, della legge 31 dicembre 2009, n. 196, sulla base di schemi, tempi e modalità definiti con decreto del Ministro dell'economia e delle finanze.&raquo;; 
  
 
  5) dopo il comma 7, sono aggiunti i seguenti: 
@@ -1774,13 +1777,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) il piano degli indicatori di bilancio.&raquo; 
  
 
- d) al comma 8, dopo le parole: 
  
+ ((...))
 
- &laquo;i seguenti atti&raquo; sono inserite le seguenti: &laquo;dell'azienda&raquo;; 
- 
+ ((f) ))
 
- e) dopo il comma 8 è aggiunto, in fine, il seguente: 
+ dopo il comma 8 è aggiunto, in fine, il seguente: 
  
 
  &laquo;8-bis. Ai fini di cui al comma 6, sono fondamentali i seguenti atti dell'istituzione da sottoporre all'approvazione del consiglio comunale: 
@@ -1798,7 +1800,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) il rendiconto della gestione predisposto secondo lo schema di cui all'allegato n. 10 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, completo dei relativi allegati.&raquo;; 
  
 
- 2) alla lettera d) del comma 2 dell'art. 147 dopo le parole: &laquo;la relazione del bilancio consolidato&raquo; sono inserite le seguenti: &laquo;nel rispetto di quanto previsto dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni&raquo;; 
+ 2) alla lettera d) del comma 2 dell'art. 147 dopo le parole: &laquo;la 
+ ((redazione))
+
+ del bilancio consolidato&raquo; sono inserite le seguenti: &laquo;nel rispetto di quanto previsto dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni&raquo;; 
  
 
  3) al comma 4 dell'art. 147-quater, dopo le parole: &laquo;secondo la competenza economica&raquo; sono inserite le seguenti: &laquo;, predisposto secondo le modalità previste dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni&raquo;; 
@@ -1870,7 +1875,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  e) articoli 213 e219&raquo;; 
  
 
- 7) al comma 4 dell'art. 153, le parole: &laquo;annuale e pluriennale&raquo; sono sostituite dalle seguenti: &laquo;di previsione&raquo;, dopo le parole: &laquo;dello stato di accertamento delle entrate e di impegno delle spese&raquo; sono inserite le seguenti:&laquo;, alla regolare tenuta della contabilità economico-patrimoniale e&raquo; e dopo la parola: &laquo;finanziari&raquo; è inserita la seguente: &laquo;e&raquo;; 
+ 7) al comma 4 dell'art. 153, le parole: 
+ ((&laquo;annuale o pluriennale&raquo;))
+
+ sono sostituite dalle seguenti: &laquo;di previsione&raquo;, dopo le parole: &laquo;dello stato di accertamento delle entrate e di impegno delle spese&raquo; sono inserite le seguenti:&laquo;, alla regolare tenuta della contabilità economico-patrimoniale e&raquo; e dopo la parola: &laquo;finanziari&raquo; è inserita la seguente: &laquo;e&raquo;; 
  
 
  8) all'art. 154: 
@@ -1921,7 +1929,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  11) all'art. 162: 
  
 
- a) al comma 1, le parole: &laquo;redatto in termini di competenza, per l'anno successivo, osservando i principi di unità, annualità, universalità ed integrità, veridicità, pareggio finanziario e pubblicità. La situazione corrente, come definita al comma 6 del presente articolo, non può presentare un disavanzo&raquo; sono sostituite dalle seguenti:&laquo;riferito ad almeno un triennio, comprendente le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi, osservando i principi contabili generali e applicati allegati al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni; 
+ a) al comma 1, le parole: &laquo;redatto in termini di competenza, per l'anno successivo, osservando i principi di unità, annualità, universalità ed integrità, veridicità, pareggio finanziario e pubblicità. La situazione corrente, come definita al comma 6 del presente articolo, non può presentare un disavanzo&raquo; sono sostituite dalle seguenti:&laquo;riferito ad almeno un triennio, comprendente le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi, osservando i principi contabili generali e applicati allegati al decreto legislativo 23 giugno 2011, n. 118 
+ ((, e successive modificazioni&raquo;;))
+
+ 
  
 
  b) il comma 6 è sostituito dal seguente: 
@@ -2014,7 +2025,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) programmi, che rappresentano gli aggregati omogenei di attività volte a perseguire gli obiettivi definiti nell'ambito delle missioni. I programmi sono ripartiti in titoli e sono raccordati alla relativa codificazione COFOG di secondo livello (Gruppi), secondo le corrispondenze individuate nel glossario, di cui al comma 3-ter dell'art. 14, che costituisce parte integrante dell'allegato n. 14. 
  
 
- 5. Ai fini della gestione, nel Piano esecutivo di gestione, i programmi sono ripartiti in titoli, macroaggregati, capitoli ed eventualmente in articoli. I macroaggregati di spesa degli enti locali sono individuati nell'elenco di cui all'allegato n. 14 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. La Giunta, contestualmente alla proposta di bilancio trasmette, a fini conoscitivi, la proposta di articolazione dei programmi in macroaggregati.&raquo;; 
+ 5. Ai fini della gestione, nel Piano esecutivo di gestione, i programmi sono ripartiti in titoli, macroaggregati, capitoli ed eventualmente in articoli. I macroaggregati di spesa degli enti locali sono individuati nell'elenco di cui all'allegato n. 14 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. La Giunta, contestualmente alla proposta di bilancio trasmette, a fini conoscitivi, la proposta di articolazione dei programmi in macroaggregati. 
+ ((...))
+
+ 
  
 
  6. Il bilancio di previsione finanziario indica, per ciascuna unità di voto: 
@@ -2098,13 +2112,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) al comma 1, dopo le parole: &laquo;servizi per conto di terzi&raquo; sono inserite le seguenti: &laquo;e le partite di giro&raquo;, le parole: &laquo;ivi compresi i fondi economali, e&raquo; sono soppresse, le parole: &laquo;sono ordinati esclusivamente in capitoli, secondo la partizione contenuta nel regolamento di cui all'art. 160.&raquo; sono sostituite dalle seguenti: &laquo; comprendono le transazioni poste in essere per conto di altri soggetti, in assenza di qualsiasi discrezionalità come individuate dal principio applicato della contabilità finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.&raquo;; 
  
 
- b) il comma 2 è sostituito dal seguente: 
+ 
+ ((c) ))
+
+ il comma 2 è sostituito dal seguente: 
  
 
  &laquo;2. Le partite di giro riguardano le operazioni effettuate come sostituto di imposta, per la gestione dei fondi economali e le altre operazioni previste nel principio applicato della contabilità finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.&raquo;; 
  
 
- c) dopo il comma 2 sono inseriti i seguenti: 
+ 
+ ((d) ))
+
+ dopo il comma 2 sono inseriti i seguenti: 
  
 
  &laquo;2-bis. Le previsioni e gli accertamenti d'entrata riguardanti i servizi per conto di terzi e le partite di giro conservano l'equivalenza con le corrispondenti previsioni e impegni di spesa, e viceversa. A tal fine, le obbligazioni giuridicamente perfezionate attive e passive che danno luogo ad entrate e spese riguardanti tali operazioni sono registrate e imputate all'esercizio in cui l'obbligazione è perfezionata, in deroga al principio contabile generale n. 16. 
@@ -2350,7 +2370,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  26) all'art. 180: 
  
 
- a) alla lettera d) del comma 3, la parola: &laquo;somme&raquo; è sostituita dalle seguenti: &laquo;delle entrate derivanti da legge, da trasferimenti o da prestiti&raquo;; 
+ a) alla lettera d) del comma 3, la parola: &laquo;somme&raquo; è sostituita dalle seguenti: 
+ ((entrate derivanti da legge))
+
+ , da trasferimenti o da prestiti&raquo;; 
  
 
  b) alla lettera e) del comma 3, le parole: &laquo;della risorsa o del capitolo di bilancio cui è riferita l'entrata&raquo; sono sostituite dalle seguenti: &laquo;del titolo e della tipologia&raquo;; 
