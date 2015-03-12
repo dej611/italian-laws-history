@@ -100,6 +100,15 @@ IL MINISTRO
  
 
  
+ ((
+
+ c-bis) &laquo;danneggiato&raquo;: l'assicurato, l'impresa di assicurazione o di riassicurazione, o i loro aventi causa che abbiano subito un danno patrimoniale dal mediatore o dai mediatori solidalmente responsabili e non siano stati risarciti dal mediatore stesso o dagli altri solidalmente responsabili;
+
+ ))
+
+ 
+
+ 
  d) &laquo;Fondo&raquo;: il Fondo di garanzia per i mediatori di assicurazione e di riassicurazione, di cui all'articolo 115 del codice; 
  
 
@@ -107,10 +116,12 @@ IL MINISTRO
  
 
  
- e) &laquo;ISVAP&raquo;: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
- 
+ ((
 
- 
+ e) &laquo;IVASS&raquo;: l'istituto per la vigilanza sulle assicurazioni;
+
+ ))
+
  
 
  
@@ -135,119 +146,22 @@ IL MINISTRO
  
 
  
- i) &laquo;Comitato&raquo;: il Comitato di gestione di cui all'articolo 115 del codice. 
- 
+ ((
 
- 
- 
+ h-bis) &laquo;sinistro&raquo;: azione od omissione che causa il danno patrimoniale. A tal fine, si considera unico sinistro l'insieme dei fatti causativi di danno a carico dello stesso danneggiato, ascrivibili al medesimo mediatore o ai medesimi mediatori solidalmente responsabili. In tal caso, i fatti lesivi si considerano occorsi nell'anno in cui si è verificato il primo di essi, anche se gli stessi si sono protratti per più annualità;
 
- 
-
- 
+ ))
 
  
 
  
- Avvertenza: 
+ ((
+
+ h-ter) &laquo;massimale globale&raquo;: il massimale della polizza di assicurazione della responsabilità civile dei mediatori di assicurazione e di riassicurazione previsto in relazione all'insieme dei sinistri che sono accaduti nell'anno di riferimento, ai sensi degli articoli 110, comma 3 e 112, comma 3 del codice. Tale massimale comprende l'insieme delle richieste di risarcimento del danno patrimoniale che sono avanzate da una pluralità di danneggiati al medesimo mediatore, o ai medesimi mediatori solidalmente responsabili, per fatti lesivi accaduti nel medesimo anno, così come definiti dalla lettera h-bis).
+
+ ))
+
  
 
  
- 
-
- Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operante il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
- 
-
- Note alle premesse: 
- 
-
- - Si riporta il testo dell'art. 17, comma 3 della legge 23 agosto 1988, n. 400: 
- 
-
- &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sott'ordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
- 
-
- I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.&raquo;. 
- 
-
- Il decreto legislativo 7 settembre 2005, n. 209, recante il Codice delle assicurazioni private è pubblicato nella Gazzetta Ufficiale n. 239 del 13-10-2005 - supplemento ordinario n. 163). 
- 
-
- - Si riporta il testo dell'art. 115 del Codice delle assicurazioni private: 
- 
-
- &laquo;Art. 115. Fondo di garanzia per i mediatori di assicurazione e di riassicurazione. 
- 
-
- 1. L'intermediario iscritto alla sezione del registro di cui all'art. 109, comma 2, lettera b), deve aderire al Fondo di garanzia costituito presso la CONSAP per risarcire il danno patrimoniale causato agli assicurati e alle imprese di assicurazione o di riassicurazione derivante dall'esercizio dell'attività di mediatore assicurativo o riassicurativo che non sia stato risarcito dall'intermediario o non sia stato indennizzato attraverso la polizza di cui, rispettivamente, all'art. 110, comma 3, e all'art. 112, comma 3. 
- 
-
- 2. L'amministrazione del Fondo spetta ad un comitato nominato con decreto del Ministro delle attività produttive, che è composto da un dirigente del Ministero delle attività produttive, con funzioni di presidente, da un dirigente del Ministero dell'economia e delle finanze, da un funzionario dell ' ISVAP, da un funzionario della CONSAP, da due rappresentanti degli intermediari iscritti nella corrispondente sezione del registro, da un rappresentante delle imprese di assicurazione e di riassicurazione. 
- 
-
- 3. Le norme relative all'amministrazione, alla contribuzione ed ai limiti di intervento sono stabilite con regolamento del Ministro delle attività produttive, sentito l'ISVAP. Il contributo è determinato annualmente con decreto del Ministro delle attività produttive, sentito l'ISVAP ed il comitato di gestione, in misura non superiore allo zero virgola cinquanta per cento delle provvigioni annualmente acquisite, anche al fine di garantire comunque la copertura degli oneri di funzionamento del comitato di cui al comma 2. 
- 
-
- 4. Il Fondo costituisce patrimonio separato da quello del soggetto presso il quale è costituito e da eventuali altri fondi. Sul Fondo non sono ammesse azioni, sequestri o pignoramenti dei creditori del soggetto che li amministra nè dei creditori dei singoli intermediari, o nell'interesse degli stessi, diversi dagli assicurati o dalle imprese. Il Fondo non può essere compreso nelle procedure concorsuali che riguardano il soggetto che li amministra o i singoli intermediari partecipanti. 
- 
-
- 5. Il Fondo è surrogato nei diritti degli assicurati e delle imprese di assicurazione e di riassicurazione fino alla concorrenza dei pagamenti effettuati a loro favore.&raquo;. 
- 
-
- - Si riporta il testo del 5° comma dell'art. 343 del Codice delle assicurazioni private: 
- 
-
- &laquo;5. Il Fondo di cui all'art. 115 succede nei rapporti attivi e passivi al Fondo di garanzia per l'attività dei mediatori di assicurazione e di riassicurazione, di cui all'art. 4, comma 1, lettera f), della legge 28 novembre 1984, n. 792, e continua ad operare nei casi previsti dal decreto del Ministro dell'industria, del commercio e dell'artigianato in data 30 aprile 1985, pubblicato nella Gazzetta Ufficiale n. 110 dell'11 maggio 1985. 
- 
-
- 6. Le persone fisiche di cui al presente articolo e quelle iscritte nel registro degli intermediari di assicurazione e di riassicurazione non sono soggette agli obblighi previsti a carico degli agenti di commercio in materia di previdenza integrativa.&raquo;. 
- 
-
- - Si riporta il testo dell'art. 4, comma 1, lettera f)della legge 28 novembre 1984, n. 792 recante &laquo;Istituzione e funzionamento dell'albo dei mediatori di assicurazione&raquo;: 
- 
-
- &laquo;f) aver aderito al Fondo di garanzia costituito nell'ambito del Ministero dell'industria, del commercio e dell'artigianato per risarcire gli assicurati e le imprese di assicurazione dei danni derivanti dalla propria attività e non garantiti dalla polizza di cui alla successiva lettera g). Il Fondo è amministrato da un comitato, composto da tre rappresentanti del Ministero dell'industria, del commercio e dell'artigianato, da tre rappresentanti del Ministero del tesoro e da tre mediatori eletti dagli iscritti all'albo, nominato con decreto del Ministro dell'industria, del commercio e dell'artigianato e presieduto da un componente eletto dal Comitato stesso, che lo sceglie tra i rappresentanti del Ministero dell'industria, del commercio e dell'artigianato. Il fondo è alimentato dai contributi degli aderenti; la misura dei contributi, comunque non inferiore allo 0,50 per cento delle provvigioni annualmente acquisite rispettivamente dai mediatori di assicurazione e dai mediatori di riassicurazione, è fissata annualmente con decreto del Ministro dell'industria, del commercio e dell'artigianato, tenendo conto dell'anzianità di esercizio dell'attività e del volume di affari. Con decreto del Ministro dell'industria, del commercio e dell'artigianato saranno stabilite le disposizioni necessarie alla costituzione e al funzionamento del fondo.&raquo;. 
- 
-
- Il decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233, reca &laquo;Disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri&raquo; ed è pubblicato nella Gazzetta Ufficiale n. 114 del 18 maggio 2006. 
- 
-
- &laquo;3. Ai fini dell'iscrizione, la società deve altresì avere stipulato la polizza di assicurazione della responsabilità civile professionale di cui all'art. 110, comma 3, per l'attività di intermediazione svolta dalla società, dalle persone fisiche di cui al comma 2, nonchè per i danni arrecati da negligenze, errori professionali ed infedeltà dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge.&raquo;. 
- 
-
- - Si riporta il testo dell'art. 109, comma 1, del &laquo;Codice&raquo;: 
- 
-
- &laquo;1. L'ISVAP disciplina, con regolamento, la formazione e l'aggiornamento del registro unico elettronico nel quale sono iscritti gli intermediari assicurativi e riassicurativi che hanno residenza o sede legale nel territorio della Repubblica.&raquo;. 
- 
-
- Per l'art. 115 del &laquo;Codice&raquo;, si veda nelle note alle premesse. 
- 
-
- Nota all'art. 1: 
- 
-
- Per l'art. 115 e 343 del decreto legislativo 7 settembre 2005, n. 209 (&laquo;Codice&raquo; delle assicurazioni private)si veda nelle note alle premesse. 
- 
-
- L'art. 109, comma 2, lettera b), del &laquo;Codice&raquo; così recita: 
- 
-
- &laquo;b) i mediatori di assicurazione o di riassicurazione, altresì denominati broker, in qualità di intermediari che agiscono su incarico del cliente e senza poteri di rappresentanza di imprese di assicurazione o di riassicurazione&raquo;. 
- 
-
- - Si riporta il testo degli articoli 110, comma 3 e 112, comma 3 del &laquo;Codice&raquo;. 
- 
-
- &laquo;3. Salvo quanto previsto all'art. 109, comma 3, ed all'art. 112, comma 3, la persona fisica, ai fini dell'iscrizione nella sezione del registro di cui all'art. 109, comma 2, lettere a) o b), deve altresì stipulare una polizza di assicurazione della responsabilità civile per l'attività svolta in forza dell'iscrizione al registro con massimale di almeno un milione di euro per ciascun sinistro e di un milione e mezzo di euro all'anno globalmente per tutti i sinistri, valida in tutto il territorio dell'Unione europea, per danni arrecati da negligenze ed errori professionali propri ovvero da negligenze, errori professionali ed infedeltà dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge. I limiti di copertura possono essere elevati dall'ISVAP, con regolamento, tenendo conto delle variazioni dell'indice europeo dei prezzi al consumo.&raquo;. 
- 
-
- &laquo;3. Ai fini dell'iscrizione, la società deve altresì avere stipulato la polizza di assicurazione della responsabilità civile professionale di cui all'art. 110, comma 3, per l'attività di intermediazione svolta dalla società, dalle persone fisiche di cui al comma 2, nonchè per i danni arrecati da negligenze, errori professionali ed infedeltà dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge.&raquo;. 
- 
-
- - Si riporta il testo dell'art. 109, comma 1, del &laquo;Codice&raquo;: 
- 
-
- &laquo;1. L'ISVAP disciplina, con regolamento, la formazione e l'aggiornamento del registro unico elettronico nel quale sono iscritti gli intermediari assicurativi e riassicurativi che hanno residenza o sede legale nel territorio della Repubblica.&raquo;. 
- 
-
- Per l'art. 115 del &laquo;Codice&raquo;, si veda nelle note alle premesse.
+ i) &laquo;Comitato&raquo;: il Comitato di gestione di cui all'articolo 115 del codice.
