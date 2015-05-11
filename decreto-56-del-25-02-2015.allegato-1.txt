@@ -1,0 +1,319 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ ALLEGATO E 
+ 
+
+ 
+ 
+
+ Requisiti minimi delle Infrastrutture per le Telecomunicazioni 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ L'impiego delle infrastrutture per le telecomunicazioni è esclusivo e limitato ai servizi d'istituto. 
+ 
+
+ In relazione alle classi funzionali indicate all'art. 2 del presente Regolamento, così come stabilito al punto 4.1.2 dell'Allegato A, i requisiti minimi delle infrastrutture per le telecomunicazioni sono i seguenti: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tipologia A - Centro comunicazioni 
+ 
+
+ Sistemi di protezione del sito 
+ 
+
+ Controllo accessi con registrazione eventi 
+ 
+
+ Alimentazione di emergenza sistemi di centrale operativa 
+ 
+
+ Gruppo di continuità statica (autonomia almeno 15 min.) 
+ 
+
+ Gruppo elettrogeno con avvio automatico (autonomia a pieno carico non inf. a ore 6) 
+ 
+
+ Sistema di comunicazione radio 
+ 
+
+ Postazione radio base con antenna direttiva 
+ 
+
+ Postazione radio base di riserva con antenna omnidirezionale 
+ 
+
+ Registratore comunicazioni 
+ 
+
+ 
+ 
+
+ Sistema di comunicazione telefonica 
+ 
+
+ Linee telefoniche fisse più GSM, per un numero totale di linee dedicate pari al 20% delle guardie giurate non servite via radio, comunque non inferiori a due fisse più una GSM 
+ 
+
+ Centralino telefonico per la gestione di tutte le linee e registratore di comunicazioni entrambi di adeguata capacità considerando anche gli eventuali collegamenti remotizzati 
+ 
+
+ Postazioni operatore disponibili pari al 15% delle linee, comunque non inferiori a due, ferma restando la possibilità di prevedere una diversa percentuale sulla base delle eventuali linee remotizzate 
+ 
+
+ 
+ 
+
+ Impianto di climatizzazione e antincendio 
+ 
+
+ Tutti gli impianti e gli ambienti a norma 
+ 
+
+ Tutti i sistemi di comunicazione sottoposti a manutenzione, con SLA non superiori a tre ore in caso di loro unicità o di disfunzioni bloccanti 
+ 
+
+ In caso di utilizzazione comune ex-art. 257-sexies, gli ambienti e i sistemi sopra descritti dovranno essere adeguati alle esigenze. 
+ 
+
+ Inoltre dovranno essere garantiti: 
+ 
+
+ Una postazione radio base con canale dedicato per ciascun componente del raggruppamento o del consorzio; 
+ 
+
+ Un numero di linee telefoniche pari al 20% di tutte le guardie giurate non servite via radio, comunque non inferiori a due fisse più una GSM per ciascun componente del raggruppamento o del consorzio; 
+ 
+
+ Postazioni operatore disponibili in numero pari al 15% delle linee, comunque non inferiori a due per ciascun componente del raggruppamento o del consorzio. 
+ 
+
+ Tipologia B - Centrale operativa 
+ 
+
+ 
+ 
+
+ Sistemi di protezione del sito 
+ 
+
+ Controllo accessi con registrazione eventi 
+ 
+
+ Antintrusione con registrazione eventi 
+ 
+
+ Videosorveglianza perimetrale con registrazione e conservazione dei dati per il tempo necessario e comunque non oltre una settimana, tenuto conto delle esigenze di sicurezza inerenti l'attività svolta. 
+ 
+
+ Alimentazione di emergenza sistemi di centrale operativa 
+ 
+
+ Gruppo di continuità statica (autonomia almeno 15 min.) 
+ 
+
+ Gruppo elettrogeno con avvio automatico (autonomia a pieno carico non inf. a ore 6) 
+ 
+
+ Sistema di comunicazione radio 
+ 
+
+ Postazione radio base con antenna direttiva 
+ 
+
+ Postazione radio base di riserva con antenna omnidirezionale 
+ 
+
+ Registratore comunicazioni 
+ 
+
+ 
+ 
+
+ Sistema di comunicazione telefonica 
+ 
+
+ Linee telefoniche fisse più GSM, per un numero totale di linee dedicate pari al 20% delle guardie giurate non servite via radio, comunque non inferiori a due fisse più una GSM 
+ 
+
+ Centralino telefonico per la gestione di tutte le linee e registratore di comunicazioni entrambi di adeguata capacità considerando anche gli eventuali collegamenti remotizzati; 
+ 
+
+ Postazioni operatore disponibili pari al 15% delle linee, comunque non inferiori a due, ferma restando la possibilità di prevedere una diversa percentuale sulla base delle eventuali linee remotizzate 
+ 
+
+ Sistema di comunicazione dati di controllo 
+ 
+
+ Hardware e software di comunicazione, inclusi i supporti trasmissivi e le interfacce 
+ 
+
+ Hardware e software di gestione, che permetta anche: 
+ 
+
+ l'archiviazione ordinaria dei dati per una settimana, tenuto conto delle esigenze di sicurezza inerenti l'attività svolta; 
+ 
+
+ l'estrapolazione dei dati concernenti le segnalazioni di allarme o di interesse, per l'archiviazione definitiva a disposizione delle Autorità 
+ 
+
+ Sistema di gestione remota 
+ 
+
+ Hardware e software di comunicazione per monitoraggio e gestione cifrata da remoto, inclusi i supporti trasmissivi e le interfacce 
+ 
+
+ 
+ 
+
+ Impianto di climatizzazione e antincendio 
+ 
+
+ Locale tecnico separato, dotato di impianti antincendio e di condizionamento, qualora il regolare funzionamento dei sistemi richieda condizioni di esercizio incompatibili con la compresenza di operatori 
+ 
+
+ Tutti gli impianti e gli ambienti a norma 
+ 
+
+ Tutti i sistemi di comunicazione sottoposti a manutenzione, con SLA non superiori a tre ore in caso di loro unicità o di disfunzioni bloccanti, ad esclusione dei sistemi di trasmissione dei dati di controllo, per cui sono ammessi SLA non superiori ai minimi stabiliti per le Reti Generali 
+ 
+
+ In caso di utilizzazione comune ex-art. 257-sexies, gli ambienti e i sistemi sopra descritti dovranno essere adeguati alle esigenze. 
+ 
+
+ Inoltre dovranno essere garantiti: 
+ 
+
+ Una postazione radio base con canale dedicato per ciascun componente del raggruppamento o del consorzio 
+ 
+
+ Un numero di linee telefoniche pari al 20% di tutte le guardie giurate non servite via radio, comunque non inferiori a due fisse più una GSM per ciascun componente del raggruppamento o del consorzio; 
+ 
+
+ Postazioni operatore disponibili in numero pari al 15% delle linee, comunque non inferiori a due per ciascun componente del raggruppamento o del consorzio 
+ 
+
+ Tipologia C - Centrale operativa avanzata 
+ 
+
+ Sistema di protezione del sito 
+ 
+
+ Controllo accessi con registrazione eventi 
+ 
+
+ Antintrusione con registrazione eventi 
+ 
+
+ Videosorveglianza perimetrale con registrazione e conservazione dei dati per il tempo necessario e comunque non oltre una settimana, tenuto conto delle esigenze di sicurezza inerenti l'attività svolta. 
+ 
+
+ Serramenti di tipo blindato e antiproiettile con griglie di protezione, qualora le condizioni strutturali del sito non garantiscano adeguata protezione. 
+ 
+
+ Sistema antirapina collegato con la Questura/Comando operativo CC, qualora previsto da specifici accordi stipulati in sede locale (solo per Classe Funzionale E) 
+ 
+
+ Alimentazione di emergenza sistemi di centrale operativa 
+ 
+
+ Gruppo di continuità statica (autonomia almeno 15 min.) 
+ 
+
+ Gruppo elettrogeno con avvio automatico (autonomia a pieno carico non inf. a ore 6) 
+ 
+
+ Sistema di comunicazione radio (solo per Classe Funzionale D) 
+ 
+
+ Almeno due canali bidirezionali con altrettante postazioni. Il primo canale radio obbligatorio deve coprire l'area descritta nelle autorizzazioni prefettizie. Il secondo canale, che sopperisce ad eventuali zone d'ombra per assenza di segnale radio, può essere assicurato mediante apparati di fonia mobile GSM, eventualmente dotati del sistema "Push-to-talk" IPRS IP Radio Service. Tali sistemi possono essere impiegati anche per i servizi effettuati negli ambiti non espressamente indicati in licenza, intendendosi per tali quelli nei quali il servizio di trasporto, con partenza e rientro da una sede autorizzata, può essere concluso nell'arco temporale dell'orario di servizio. 
+ 
+
+ Postazione radio base di riserva con antenna omnidirezionale 
+ 
+
+ Registratore di comunicazioni 
+ 
+
+ Comunicazioni fonia 
+ 
+
+ Linee telefoniche fisse più GSM, per un numero totale di linee pari al 30% delle guardie giurate non servite via radio, comunque non inferiori a 4 fisse più 2 GSM 
+ 
+
+ Centralino telefonico per la gestione di tutte le linee e registratore di comunicazioni entrambi di adeguata capacità considerando anche gli eventuali collegamenti remotizzati 
+ 
+
+ Postazioni operatore disponibili pari al 15% delle linee, comunque non inferiori a due ferma restando la possibilità di prevedere una diversa percentuale sulla base delle eventuali linee remotizzate 
+ 
+
+ Sistema di Gestione portavalori (solo per Classe D) 
+ 
+
+ Configurazione server/client 
+ 
+
+ Hardware e software di comunicazione, inclusi i supporti trasmissivi e le interfacce 
+ 
+
+ Hardware e software di gestione, che permetta anche la localizzazione cartografica dei veicoli portavalori, che dovranno essere dotati di sistema GPS 
+ 
+
+ Hardware di riserva "a caldo" 
+ 
+
+ Tutti gli impianti e gli ambienti a norma 
+ 
+
+ Tutti i sistemi di comunicazione sottoposti a manutenzione, con SLA non superiori a tre ore in caso di loro unicità o di disfunzioni bloccanti. 
+ 
+
+ In caso di gestione associata ai sensi dell'art. 257-sexies del Regolamento d'esecuzione T.U.L.P.S, gli ambienti e i sistemi sopra descritti dovranno essere adeguati alle esigenze. 
+ 
+
+ Inoltre dovranno essere garantiti: 
+ 
+
+ Una postazione radio base con canale dedicato per ciascun componente del raggruppamento o del consorzio 
+ 
+
+ Un numero di linee telefoniche pari al 30% di tutte le guardie giurate non servite via radio, comunque non inferiori a quattro fisse più due GSM per ciascun componente del raggruppamento o del consorzio; 
+ 
+
+ Postazioni operatore disponibili in numero pari al 15% delle linee, comunque non inferiori a due per ciascun componente del raggruppamento o del consorzio 
+ 
+
+ Hardware e software di gestione, che permetta la localizzazione cartografica dei veicoli portavalori, che dovrà essere differenziata per ciascun componente del raggruppamento o del consorzio, qualora le condizioni contrattuali attribuiscano responsabilità soggettive 
+ 
+
+ locale tecnico, dotato di impianti antincendio e di condizionamento, qualora il regolare funzionamento dei dispositivi istallati in centrale richieda condizioni di esercizio incompatibili con la compresenza di operatori. 
+ 
+
+ Per tutte le tipologie di centrale operativa, la gestione del servizio di teleallarme (tra cui le interrogazioni cicliche) e la comunicazione in fonia debbono essere effettuate tramite canali radio separati. 
+ 
+
+ I punti operativi distaccati, ove necessari, devono prevedere l'interconnessione fonica diretta con la sede principale, ma non devono essere dotati di centrale operativa. Laddove tali punti venissero dotati di un centro di comunicazioni o di una centrale operativa, questi dovranno essere conformi alle disposizioni del presente Allegato. 
+ 
+
+ Gli istituti che svolgono, esclusivamente, le attività di cui all'art.2 , co. 2, lett. a), classe B, del Decreto (servizi di localizzazione satellitare di autoveicoli che prevedano l'allertamento del proprietario del bene stesso e/o servizi di telesorveglianza e/o televigilanza), senza intervento diretto di proprie guardie giurate, non sono tenuti alla realizzazione del sistema di comunicazione radio. 
+ 
+
+ Analogamente non sono tenuti alla realizzazione del sistema di comunicazione radio gli istituti che svolgono, esclusivamente, le attività di cui all'art. 2, co. 2, lett. a), classe A, servizi previsti dal D.M. 8 agosto 2007, disciplinante le attività di stewarding nelle manifestazioni sportive, e/o dal D.M. 6 ottobre 2009, disciplinante le attività di assistenza nei locali di pubblico spettacolo e intrattenimento, e/o dal D.M. 28 dicembre 2012, n. 266, disciplinante le attività antipirateria a bordo del naviglio mercantile battente bandiera italiana. 
+ 
+
+ La verifica dei requisiti minimi dei sistemi di comunicazione radio e/o telefonica di cui al presente Allegato è effettuata, secondo le indicazioni tecnico-operative della Direzione Generale Attività Territoriali del Ministero dello sviluppo economico, dai competenti Ispettorati Territoriali della medesima Direzione Generale, attraverso l'accertamento di conformità di tali sistemi di comunicazione alla normativa vigente di settore e con verifica della presenza degli opportuni regimi autorizzatori per l'esercizio dell'impianto radio e la funzionalità dell'impianto stesso, anche introducendo metodi di verifiche a campione, relativamente all'idonea copertura territoriale radio rispetto a quanto previsto dall'atto autorizzatorio.
