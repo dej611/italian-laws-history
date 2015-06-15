@@ -88,6 +88,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ b-bis) codice delle assicurazioni private, di seguito denominato CAP: il decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni; 
+ 
+
+ 
+ 
+
+ b-ter) norme settoriali: le disposizioni di cui alle lettere da a) a b-bis) e le relative disposizioni di attuazione delle competenti autorità di vigilanza;
+
+ ))
+
+ 
+
+ 
  c) banca: l'impresa di cui all' articolo 1, comma 1, lettera b), del TUB; 
  
 
@@ -102,7 +118,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) impresa di assicurazione: l' impresa autorizzata all' esercizio dell' attività assicurativa ai sensi dell'articolo 1, comma 1, lettera t), del codice delle assicurazioni private. 
+ e) impresa di assicurazione: l' impresa autorizzata all' esercizio dell' attività assicurativa ai sensi dell'articolo 1, comma 1, lettera t), 
+ ((del CAP))
+
+ . 
  
 
  
@@ -112,9 +131,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  f) imprese di investimento: le imprese di cui all'articolo 1, comma 1, lettera h), del TUF; 
  
 
- 
- 
- ((ff-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ ff-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
  1) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
@@ -132,16 +149,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  5) "CERS": Comitato europeo per il rischio sistemico, istituito con regolamento (UE) n. 1092/2010; 
  
 
- 6) "Autorità di vigilanza degli Stati membri: le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010.))
+ 6) "Autorità di vigilanza degli Stati membri: le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010. 
  
 
  
-
- 
- g) impresa regolamentata: una banca, un IMEL, un' impresa di assicurazione o un'impresa di investimento, autorizzati in Italia o in un altro Paese dell'Unione europea; 
  
 
  
+ ((
+
+ g) impresa regolamentata: una banca, un'impresa di assicurazione, un'impresa di riassicurazione, un'impresa di investimento, una società di gestione patrimoniale o un gestore di FIA autorizzati in Italia o in un altro Paese dell'Unione europea;
+
+ ))
+
  
 
  
@@ -152,14 +172,38 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i) impresa di riassicurazione: un' impresa, come definita dall'articolo 1, comma 1, lettera cc), del codice delle assicurazioni private; 
+ ((
+
+ h-bis) gestore di fondi di investimento alternativi: la società autorizzata ai sensi della direttiva 2011/61/UE in uno Stato dell'UE diverso dall'Italia, che esercita l'attività di gestione di uno o più FIA (gestore di FIA UE o GEFIA UE) ovvero la società autorizzata ai sensi della direttiva 2011/61/UE con sede legale in uno Stato non appartenente all'UE, che esercita l'attività di gestione di uno o più FIA (gestore di FIA non UE o GEFIA non UE);
+
+ ))
+
+ 
+
+ 
+ ((
+
+ h-ter) FIA: gli organismi collettivi del risparmio rientranti nell'ambito di applicazione della direttiva 2011/61/UE;
+
+ ))
+
+ 
+
+ 
+ i) impresa di riassicurazione: un' impresa, come definita dall'articolo 1, comma 1, lettera cc), 
+ ((del CAP))
+
+ ; 
  
 
  
  
 
  
- l) norme settoriali: il TUB, il TUF, il codice delle assicurazioni private; 
+ l) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 4 MARZO 2014, N. 53))
+
+ ; 
  
 
  
@@ -169,16 +213,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  m) settore finanziario: il settore composto di una o più delle seguenti imprese: 
  
 
- 1) una banca, un IMEL, un intermediario finanziario di cui agli articoli 106 o 107 del TUB o un'impresa di servizi bancari ausiliari di cui all'articolo 1, paragrafo 23, della direttiva 200/12/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000 (settore bancario); 
+ 
+ ((1) una banca; una società che esercita, in via esclusiva o prevalente l'attività di assunzione di partecipazioni aventi le caratteristiche indicate dalla Banca d'Italia ovvero una o più delle attività previste dall'articolo 1, comma 2, lettera f), numeri da 2) a 12), TUB o altre attività finanziarie previste ai sensi del numero 15) della medesima lettera dell'articolo 1, comma 2, TUB; un istituto di pagamento; una società strumentale di cui all'articolo 59, comma 1, lettera c), TUB (settore bancario);))
+
+ 
  
 
  2) un'impresa di assicurazione, un' impresa di riassicurazione o una società di partecipazione assicurativa (settore assicurativo); 
  
 
- 3) un' impresa di investimento o un ente finanziario ai sensi dell'articolo 1, paragrafo 5, della direttiva 200/12/CE (settore servizi di investimento); 
+ 
+ ((3) un'impresa di investimento ai sensi dell'articolo 4, n. 2), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013 (settore servizi di investimento);))
+
+ 
  
 
- 4) una società di partecipazione finanziaria mista; 
+ 4) 
+ ((NUMERO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 53))
+
+ ; 
  
 
  
@@ -206,14 +259,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q) impresa madre: l'impresa che controlla un' altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, e ogni impresa che eserciti un' influenza dominante su un' altra impresa ai sensi dell' articolo 23, comma 2, del TUB e dell'articolo 72, comma 2, del codice delle assicurazioni private; 
+ ((
+
+ q) impresa madre: un'impresa che controlla un'altra impresa;
+
+ ))
+
  
 
  
- 
+ r) impresa figlia: un' impresa soggetta al controllo di un' altra impresa 
+ ((...))
 
- 
- r) impresa figlia: un' impresa soggetta al controllo di un' altra impresa ai sensi dell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127, nonchè ogni impresa su cui un'impresa madre eserciti un' influenza dominante ai sensi dell'articolo 23, comma 2, del TUB e dell' articolo 72, comma 2, del codice delle assicurazioni private; tutte le imprese figlie di imprese figlie sono parimenti considerate imprese figlie dell' impresa madre che è a capo di tali imprese; 
+ ; tutte le imprese figlie di imprese figlie sono parimenti considerate imprese figlie dell' impresa madre che è a capo di tali imprese; 
  
 
  
@@ -221,32 +279,45 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  s) partecipazione: i diritti, rappresentati o meno da titoli, nel capitale di altre imprese, i quali, realizzando una situazione di legame durevole con esse, sono destinati a sviluppare l'attività del partecipante. Si ha comunque partecipazione quando un soggetto è, direttamente o tramite un legame di controllo, titolare di almeno il 20 per cento dei diritti di voto o del capitale di un'impresa; 
+ ((Sono comprese le partecipazioni possedute per il tramite di società controllate, di società fiduciarie o per interposta persona;))
+
+ 
+
+ 
+ ((
+
+ s-bis) partecipazione qualificata: la partecipazione di cui all'articolo 19 del TUB, all'articolo 15 del TUF, all'articolo 68 del CAP;
+
+ ))
+
+ 
+
+ 
+ t) gruppo: un insieme di imprese composto dalla impresa madre, dalle imprese figlie e dalle società in cui l'impresa madre o le imprese figlie detengono una partecipazione, nonchè dalle imprese soggette a direzione unitaria in virtù di accordi o clausole statutarie e da quelle in cui gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone 
+ ((, ivi compresi eventuali sottogruppi delle stesse))
+
+ ; 
  
 
  
  
 
  
- t) gruppo: un insieme di imprese composto dalla impresa madre, dalle imprese figlie e dalle società in cui l'impresa madre o le imprese figlie detengono una partecipazione, nonchè dalle imprese soggette a direzione unitaria in virtù di accordi o clausole statutarie e da quelle in cui gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone; 
+ ((
+
+ t-bis) controllo: la relazione di cui all'articolo 23 del TUB, all'articolo 72 del CAP;
+
+ ))
+
  
 
  
- 
+ ((
 
- 
- u) stretti legami: i legami tra due o più persone fisiche o giuridiche consistenti in: 
- 
+ u) stretti legami: i legami tra due o più persone fisiche o giuridiche consistenti in una partecipazione, un legame di controllo o una situazione nella quale due o più persone fisiche o giuridiche siano legate in modo duraturo a una stessa persona da un legame di controllo;
 
- 1) una partecipazione, ossia il fatto di detenere direttamente, o tramite un legame di controllo, il 20 per cento o più dei diritti di voto o del capitale di un'impresa; 
- 
+ ))
 
- 2) un legame di controllo come definito dall'articolo 26 del decreto legislativo 9 aprile 1991, n. 127; 
- 
-
- 3) una situazione nella quale due o più persone fisiche o giuridiche siano legate in modo duraturo a una stessa persona da un legame di controllo; 
- 
-
- 
  
 
  
@@ -257,17 +328,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- z) autorità competenti: le autorità nazionali dei Paesi dell'Unione europea preposte, in forza di legge o regolamento, all' esercizio della vigilanza sulle banche, sugli IMEL, sulle imprese di assicurazione, sulle imprese di investimento, sia a livello di singola impresa che di gruppo; 
- 
+ ((
 
- 
+ z) autorità competenti: le autorità nazionali dei Paesi dell'Unione europea preposte, in forza di legge o regolamento, all' esercizio della vigilanza sulle banche, sugli IMEL, sulle imprese di assicurazione o riassicurazione, sulle imprese di investimento, sulle società di gestione patrimoniale o sui gestori di fondi d'investimento alternativi, sia a livello di singola impresa che di gruppo;
+
+ ))
+
  
 
  
  aa) autorità competenti rilevanti: 
  
 
- 1) le autorità competenti dei Paesi dell' Unione europea preposte all' esercizio della vigilanza settoriale a livello di gruppo su qualsiasi impresa regolamentata appartenente ad un conglomerato finanziario; 
+ 1) le autorità competenti dei Paesi dell' Unione europea preposte all' esercizio della vigilanza settoriale a livello di gruppo su qualsiasi impresa regolamentata appartenente ad un conglomerato finanziario 
+ ((in particolare sulla capogruppo di un settore))
+
+ ; 
  
 
  2) il coordinatore se diverso dalle autorità di cui al numero 1; 3) le altre autorità competenti interessate, se ritenuto necessario dalle autorità di cui ai numeri 1 e 2; queste ultime tengono conto, in particolare, della quota di mercato delle imprese regolamentate del conglomerato in altri Stati comunitari, specie se essa supera il 5 per cento, e dell' importanza all'interno del conglomerato di qualsiasi impresa regolamentata che abbia sede in un altro Stato membro; 
@@ -291,7 +367,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- dd) concentrazione dei rischi: tutte le esposizioni con un rischio di perdita potenziale per le imprese appartenenti a uno stesso conglomerato finanziario, di portata tale da compromettere la solvibilità o la posizione finanziaria generale delle imprese regolamentate appartenenti al conglomerato; tali esposizioni possono essere dovute a rischio di credito/controparte, rischio di investimento, rischio assicurativo, rischio di mercato, altri rischi oppure ad una combinazione o interazione dei rischi precedenti; 
+ dd) concentrazione dei rischi: tutte le esposizioni con un rischio di perdita potenziale 
+ ((...))
+
+ , di portata tale da compromettere la solvibilità o la posizione finanziaria generale delle imprese regolamentate appartenenti al conglomerato 
+ ((finanziario))
+
+ ; tali esposizioni possono essere dovute a rischio di credito/controparte, rischio di investimento, rischio assicurativo, rischio di mercato, altri rischi oppure ad una combinazione o interazione dei rischi precedenti; 
  
 
  
