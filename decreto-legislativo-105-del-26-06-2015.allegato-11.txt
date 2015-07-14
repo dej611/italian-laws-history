@@ -1,0 +1,1226 @@
+Allegato E (art. 19) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Criteri per l'individuazione degli stabilimenti tra i quali esiste la possibilità di effetto domino, per lo scambio di informazioni tra i gestori, nonchè per l'individuazione delle aree ad elevata concentrazione di stabilimenti tra i quali è possibile l'effetto domino 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Il presente allegato è così costituito: 
+ 
+
+ 
+ 
+
+ PARTE 1 - CRITERI PER L'INDIVIDUAZIONE DEGLI STABILIMENTI TRA I QUALI ESISTE LA POSSIBILITà DI EFFETTO DOMINO E PER LO SCAMBIO DI INFORMAZIONI TRA I GESTORI 
+ 
+
+ 1. SCOPO 
+ 
+
+ 2. DEFINIZIONI 
+ 
+
+ 3. PROCEDURA DI INDIVIDUAZIONE DEI GRUPPI DOMINO PRELIMINARI (GDP) 4. RIFERIMENTI TECNICI E INFORMATIVI PER L'INDIVIDUAZIONE DEI GDP 5. SCAMBIO FRA I GESTORI DEGLI STABILIMENTI APPARTENENTI AI GDP DELLE INFORMAZIONI NECESSARIE PER CONSENTIRE DI ACCERTARE L'EFFETTIVA POSSIBILITà DI EFFETTI DOMINO 
+ 
+
+ 6. INDIVIDUAZIONE GRUPPI DOMINO DEFINITIVI (GDD) 
+ 
+
+ APPENDICE A - RIFERIMENTI UTILI PER LA STIMA DELLA PROBABILITà DI COLLASSO DI APPARECCHIATURA SOTTOPOSTA A SOVRAPPRESSIONE, IRRAGGIAMENTO O PROIEZIONE DI FRAMMENTI 
+ 
+
+ PARTE 2 - CRITERI PER L'INDIVIDUAZIONE DELLE AREE AD ELEVATA CONCENTRAZIONE DI STABILIMENTI TRA I QUALI è POSSIBILE L'EFFETTO DOMINO E PER LA PREDISPOSIZIONE DELLO STUDIO DI SICUREZZA INTEGRATO DI AREA 
+ 
+
+ 1. SCOPO 
+ 
+
+ 2. DEFINIZIONI 
+ 
+
+ 3. INDIVIDUAZIONE DELL'AREA AD ELEVATA CONCENTRAZIONE DI STABILIMENTI A RISCHIO DI INCIDENTE RILEVANTE (AREA RIR) TRA I QUALI è POSSIBILE L'EFFETTO DOMINO 
+ 
+
+ 4. PERIMETRAZIONE DELL'AREA RIR DI INTERESSE PER LO STUDIO DI SICUREZZA INTEGRATO DI AREA (SSIA) 
+ 
+
+ 5. OGGETTO E AMBITO DI APPLICAZIONE DELLO SSIA 
+ 
+
+ 6. FASI, DATI ED ELEMENTI DI RIFERIMENTO PER LA PREDISPOSIZIONE DELLO SSIA 
+ 
+
+ PARTE 1 - CRITERI PER L'INDIVIDUAZIONE DEGLI STABILIMENTI TRA I QUALI ESISTE LA POSSIBILITà DI EFFETTO DOMINO E PER LO SCAMBIO DI INFORMAZIONI TRA I GESTORI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Scopo 
+ 
+
+ 
+ 
+
+ La presente parte 1 fornisce i criteri e i riferimenti tecnici e procedurali: 
+ 
+
+ a) per l'individuazione degli stabilimenti o dei gruppi di stabilimenti, assoggettati agli obblighi di cui al presente decreto, per i quali la probabilità o la possibilità o le conseguenze di un incidente rilevante possono essere maggiori per "effetto domino" causato dalla posizione geografica, dalla vicinanza degli stabilimenti stessi e dall'inventario delle sostanze pericolose presenti in essi; l'individuazione viene effettuata dall'autorità competente nel seguito definita, in base alle informazioni ricevute dai gestori o acquisite secondo quanto indicato all'art. 19 del presente decreto, e alla loro elaborazione in adempimento di obblighi specifici stabiliti dal decreto stesso; 
+ 
+
+ b) per lo scambio, fra i gestori degli stabilimenti individuati ai sensi del punto a), delle informazioni necessarie per consentire di accertare l'effettiva possibilità di effetti domino e, nel caso, di riesaminare e, eventualmente, modificare, in considerazione della natura e dell'entità del pericolo globale di incidente rilevante, i rispettivi documenti relativi alla politica di prevenzione degli incidenti rilevanti, i sistemi di gestione della sicurezza, i rapporti di sicurezza, i Piani di emergenza interna, e per la cooperazione nella diffusione delle informazioni nei confronti della popolazione e dei siti adiacenti, nonchè nella trasmissione delle informazioni al Prefetto per la predisposizione dei Piani di emergenza esterna. 
+ 
+
+ L'identificazione degli effetti domino, inerenti alle possibili interazioni tra stabilimenti diversi, e la loro valutazione sono condotte al fine di: 
+ 
+
+ • rivalutare l'insieme di eventi incidentali ipotizzati, in termini
+ 
+
+ di casistica, frequenze attese e/o conseguenze; 
+ 
+
+ • prevedere la possibilità di concatenazioni di incidenti ai fini
+ 
+
+ della loro considerazione nell'ambito di una ricomposizione del rischio originato da sorgenti e soggetti diversi; 
+ 
+
+ • stabilire la necessità di mantenere determinate distanze di
+ 
+
+ separazione tra componenti critici, al fine di evitare la propagazione di un incidente o ridurre sensibilmente la probabilità di propagazione; 
+ 
+
+ • individuare i provvedimenti migliorativi possibili, in termini di
+ 
+
+ prevenzione e/o di mitigazione; 
+ 
+
+ • predisporre correttamente i Piani di emergenza interna, con
+ 
+
+ particolare riferimento agli interventi sul campo; 
+ 
+
+ • predisporre correttamente i Piani di emergenza esterna; 
+ 
+
+ • integrare i requisiti di sicurezza in materia di pianificazione
+ 
+
+ dello sviluppo urbanistico del territorio; 
+ 
+
+ • mettere a disposizione della popolazione e dei siti adiacenti
+ 
+
+ informazioni sui rischi di incidente rilevante. 
+ 
+
+ 
+ 
+
+ 2. Definizioni 
+ 
+
+ 
+ 
+
+ Ai sensi della presente parte 1, ferme restando le definizioni di cui al presente decreto, si adottano le seguenti definizioni: 
+ 
+
+ a) Autorità Competente per l'individuazione degli effetti domino (AC): il Comitato tecnico regionale di cui all'art. 10 del presente decreto, che opera, ai fini dell'applicazione dell'art. 19 del presente decreto, in accordo con la Regione o il soggetto da essa designato; 
+ 
+
+ b) effetto domino: sequenza di incidenti rilevanti, anche di natura diversa tra loro, causalmente concatenati che coinvolgono, a causa del superamento dei valori di soglia di danno, impianti appartenenti a diversi stabilimenti (effetto domino di tipo esterno, ossia inter-stabilimento) producendo effetti diretti o indiretti, immediati o differiti; 
+ 
+
+ c) gruppo domino: due o più stabilimenti, tra gli impianti dei quali si possano verificare effetti domino; 
+ 
+
+ d) effetti diretti: gli effetti dell'incidente originario che causano direttamente un rilascio tossico, un incendio o un'esplosione in uno stabilimento vicino; 
+ 
+
+ 
+ 
+
+ e) effetti indiretti
+ 1
+ : gli effetti dell'incidente originario che
+ 
+
+ 
+ 
+
+ causano in uno stabilimento vicino un impatto su: 
+ 
+
+ 1. un sistema di controllo di un impianto, rendendo difficile o impossibile il controllo di un processo che quindi potrebbe generare un incidente secondario; 
+ 
+
+ 2. un sistema di mitigazione (ad es. impianto antincendio, valvole di isolamento, etc.), la cui indisponibilità può contribuire alla propagazione dell'incidente originario generando un incidente secondario; 
+ 
+
+ 3. una o più utilities (ad es. energia elettrica, acqua di raffreddamento, azoto, etc.) che, come per i sistemi di mitigazione e di controllo, possono rendere difficile la governabilità dello stabilimento colpito e generare di conseguenza un incidente secondario; 
+ 
+
+ 4. uno o più lavoratori, creando possibili problemi di controllo dello stabilimento e/o di gestione dell'emergenza, in grado di generare un incidente secondario. 
+ 
+
+ f) effetti immediati: gli effetti per i quali non è possibile implementare in tempi rapidi un adeguato intervento di protezione sull'impianto di uno stabilimento colpito dagli effetti dell'incidente originario (ad es. proiezione di frammenti, esplosione); 
+ 
+
+ g) effetti differiti: gli effetti per i quali solo l'assenza o la mancata attivazione di adeguate misure di protezione o di mitigazione può comportare la propagazione dell'incidente originario e un peggioramento delle conseguenze (ad es. propagazione di un incendio a causa di un jet-fire, esposizione prolungata ad irraggiamento termico a causa di un pool-fire, rilascio di sostanze tossiche); 
+ 
+
+ h) Stabilimento Origine di Effetto Domino (StOED): uno stabilimento in cui si origina la sequenza di eventi incidentali che determina l'effetto domino in uno o più stabilimenti vicini; 
+ 
+
+ i) Stabilimento Recettore di Effetto Domino (StRED): uno stabilimento recettore dell'effetto domino originatosi in uno stabilimento vicino; 
+ 
+
+ j) valori di soglia di danno per strutture e apparecchiature (effetto domino diretto): per l'individuazione dei Gruppi domino preliminari si fa riferimento ai valori di soglia riportati in tabella I, come definiti nelle seguenti norme tecniche di settore: 
+ 
+
+ 
+ 
+
+ - decreto del Ministero dei Lavori Pubblici 9 maggio 2001
+ 2
+ 
+
+ "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante" (paragrafo 6.2, tabella 2, colonna 5 e connesse note 2 e 3);
+ 
+
+ 
+ 
+
+ - decreto del Presidente del Consiglio dei Ministri 25 febbraio 2005 "Linee Guida per la predisposizione del piano di emergenza esterno di cui all'art. 20, comma 4 del decreto legislativo 334/99 e s.m.i." (paragrafo V.2, tabella s.n.); 
+ 
+
+ - decreto del Ministero dell'Ambiente 15 maggio 1996 "Criteri di analisi e valutazione dei rapporti di sicurezza relativi ai depositi di gas di petrolio liquefatto (G.P.L.)" (Appendice III - tabella III/1 ultima colonna); 
+ 
+
+ - decreto del Ministero dell'Ambiente 20 ottobre 1998 "Criteri di analisi e valutazione dei rapporti di sicurezza relativi ai depositi di liquidi facilmente infiammabili e/o tossici" (Appendice III - tabella III/1 ultima colonna). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella I - Valori di soglia di danno a strutture e apparecchiature 
+ 
+
+ 
+ 
+
+ Scenario incidentale Valore di soglia 
+ 
+
+ Incendio (radiazione termica stazionaria) 12,5 kW/m2 3 
+ 
+
+ Proiezione frammenti 200-800 m4 
+ 
+
+ VCE (sovrappressione di picco) 0,3 bar5 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ k) valori di soglia di danno per effetto domino indiretto: per l'individuazione dei Gruppi domino preliminari si fa riferimento: 
+ 
+
+ 1. per la verifica di potenziali impatti di cui alle lettere e.1), e.2), e.3), ai valori di soglia riportati nella tabella I di cui alla precedente lettera j); 
+ 
+
+ 2. per la verifica di potenziali impatti di cui alla lettera e.4), ai valori riportati in tabella II, come definiti nelle seguenti norme tecniche di settore: 
+ 
+
+ - decreto del Ministero dei Lavori Pubblici 9 maggio 2001 "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante" (paragrafo 6.2, tabella 2, colonna 3 e connesse note 2 e 3); 
+ 
+
+ - decreto del Presidente del Consiglio dei Ministri 25 febbraio 2005 "Linee Guida per la predisposizione del piano di emergenza esterno di cui all'art. 20, comma 4 del decreto legislativo 334/99 e s.m.i." (paragrafo V.2, tabella s.n.); 
+ 
+
+ - decreto del Ministero dell'Ambiente 20 ottobre 1998 "Criteri di analisi e valutazione dei rapporti di sicurezza relativi ai depositi di liquidi facilmente infiammabili e/o tossici" (Appendice III-tabella III/1 terza colonna e punto 6 del paragrafo 6). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tabella II - Valori di soglia di danno incapacitante per lavoratori 
+ 
+
+ addetti al controllo dello stabilimento e/o 
+ 
+
+ alla gestione dell'emergenza 
+ 
+
+ 
+ 
+
+ Scenario incidentale Valore di soglia 
+ 
+
+ Rilascio tossico IDLH6 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ l) parco industriale: l'area sottoposta al controllo di più gestori nella quale siano presenti sostanze pericolose di cui all'allegato 1 del presente decreto e siano insediati più stabilimenti interconnessi funzionalmente o gestionalmente, comprese le infrastrutture, le attività e i servizi comuni o connessi. 
+ 
+
+ 
+ 
+
+ 3. Procedura di individuazione dei Gruppi domino preliminari (Gdp) 
+ 
+
+ L'AC individua i Gruppi domino preliminari (Gdp), ossia raggruppamenti di due o più stabilimenti in cui è ipotizzabile il verificarsi di effetti domino, sulla base dei riferimenti tecnici e delle informazioni ricevute dai gestori, precisati al punto 4 della presente parte 1, predisponendo l'elenco degli stabilimenti inclusi nei Gdp individuati nel proprio territorio di competenza. 
+ 
+
+ 
+ 
+
+ 4. Riferimenti tecnici e informativi per l'individuazione dei Gdp 
+ 
+
+ L'AC procede all'individuazione preliminare degli stabilimenti da cui possono originarsi effetti domino (StOED), secondo la casistica specificata nel seguito. 
+ 
+
+ a) Individuazione degli stabilimenti ubicati nel territorio di competenza, da cui possono originarsi scenari incidentali che determinano aree di danno riferite ai valori di soglia indicati al punto 2, lettere j) e k) della presente parte 1 e ricadenti entro i limiti di uno o più stabilimenti recettori (StRED). 
+ 
+
+ Le informazioni necessarie per l'individuazione saranno ricavate: • Caso 1 - per gli stabilimenti di soglia superiore7 : 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ - dal Modulo di cui all'allegato 5 del presente decreto più recente trasmesso dal gestore, successivamente alla conclusione positiva dell'istruttoria del Rapporto di sicurezza, ai sensi dell'art. 17 del presente decreto, e riportante le zone di danno individuate nel Piano di emergenza esterna definitivo, nel caso sia stato aggiornato con gli esiti dell'istruttoria stessa, ovvero 
+ 
+
+ - dal Rapporto di sicurezza, nell'edizione valutata nella più recente istruttoria conclusa con esito positivo, ovvero 
+ 
+
+ - dall'Elaborato RIR allegato allo strumento urbanistico vigente, nel caso recepisca gli esiti della più recente istruttoria del Rapporto di sicurezza conclusa con esito positivo, ovvero 
+ 
+
+ - dalla sezione M del Modulo di cui all'allegato 5 del presente decreto più recente trasmesso dal gestore, nel caso riporti le zone di danno individuate nel Piano di emergenza esterna, anche provvisorio, qualora l'istruttoria del Rapporto di sicurezza non si sia ancora conclusa con esito positivo. 
+ 
+
+ • Caso 2 - per gli stabilimenti di soglia inferiore, per i quali 
+ 
+
+ l'attuazione del SGS-PIR prevede l'analisi dei rischi di incidente rilevante, riportata in documenti comunque denominati (scheda 
+ 
+
+ tecnica, scheda di valutazione tecnica, analisi di rischio, etc.), presenti presso gli stabilimenti stessi8 : 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ - dalla sezione M del Modulo di cui all'allegato 5 più recente trasmesso dal gestore, successivamente alla conclusione positiva dell'eventuale esame/valutazione dell'analisi dei rischi di incidente rilevante a cura dell'autorità competente, ai sensi delle disposizioni regionali di cui all'art. 7 del presente decreto, e riportante le zone di danno individuate nel Piano di emergenza esterna definitivo, nel caso sia stato aggiornato con gli esiti dell'eventuale esame/valutazione, ovvero 
+ 
+
+ - dal documento (scheda tecnica, scheda di valutazione tecnica, analisi di rischio, etc.) riportante l'analisi dei rischi di incidente rilevante, valutato positivamente dall'autorità competente, ovvero 
+ 
+
+ - dall'Elaborato RIR allegato allo strumento urbanistico vigente, nel caso recepisca le conclusioni della valutazione del suddetto documento, ovvero 
+ 
+
+ - dalla sezione M del Modulo di cui all'allegato 5 più recente trasmesso dal gestore, nel caso riporti le zone di danno individuate nel Piano di emergenza esterna, anche provvisorio. 
+ 
+
+ 
+ 
+
+ Sulla base della sovrapposizione delle aree di danno di ciascun potenziale StOED, individuate coi criteri e i riferimenti sopra indicati, con le aree occupate dagli stabilimenti ubicati nel territorio circostante (StRED), come indicate nelle planimetrie contenute nei Rapporti di sicurezza o nella planimetria riportata nella sezione E del Modulo di cui all'allegato 5 più recente trasmesso dal gestore, potranno essere individuati gli eventuali Gdp presenti nel territorio regionale di competenza. 
+ 
+
+ I Gdp saranno costituiti, nel caso più semplice, da uno StOED e da uno StRED. 
+ 
+
+ Ciascuno StRED potrà naturalmente costituire, a sua volta, a causa degli scenari incidentali in esso ipotizzabili, uno stabilimento potenziale origine di effetto domino, oltre che per lo StOED medesimo, anche per altri stabilimenti presenti nel territorio circostante. 
+ 
+
+ b) Gli stabilimenti ubicati in parchi industriali saranno considerati, ai fini dell'applicazione della presente parte 1, appartenenti ad un unico Gdp, senza ulteriori valutazioni. 
+ 
+
+ Sia nel caso a) che in quello b) potranno pertanto essere individuati, al termine della fase in oggetto, Gdp costituiti da due o più stabilimenti. 
+ 
+
+ 
+ 
+
+ 5. Scambio fra i gestori degli stabilimenti appartenenti ai Gdp delle informazioni necessarie per consentire di accertare l'effettiva possibilità di effetti domino 
+ 
+
+ 
+ 
+
+ L'AC richiede ai gestori degli stabilimenti appartenenti al medesimo Gdp di procedere allo scambio delle informazioni necessarie per consentire di accertare l'effettiva possibilità di effetti domino e, nel caso, di riesaminare e, eventualmente, modificare, in considerazione della natura e dell'entità del pericolo globale di incidente rilevante, i rispettivi documenti relativi alla politica di prevenzione degli incidenti rilevanti, i sistemi di gestione della sicurezza, i Rapporti di sicurezza, i Piani di emergenza interna, e alla cooperazione nella diffusione delle informazioni nei confronti della popolazione e dei siti adiacenti, nonchè nella trasmissione delle informazioni al Prefetto per la predisposizione dei Piani di emergenza esterna. 
+ 
+
+ L'inclusione di uno stabilimento in un Gdp comporta la necessità, da parte dei gestori interessati, di un'ulteriore analisi della situazione, rispetto a quella condotta per predisporre il Rapporto di sicurezza (per gli stabilimenti di soglia superiore) o l'analisi dei rischi di incidente rilevante (per gli stabilimenti di soglia inferiore), al fine di responsabilmente escludere, o meno, la possibilità di accadimento di effetti domino inter-stabilimento. 
+ 
+
+ Eventuali situazioni particolari che dovessero determinare la possibilità di effetto domino inter-stabilimento per condizioni meno severe di quelle che hanno condotto all'individuazione dei Gdp, dovranno essere responsabilmente evidenziate in questa fase dal gestore interessato e assunte alla base della procedura di identificazione degli effetti domino stessi. 
+ 
+
+ Sulla base delle risultanze della identificazione degli effetti domino condotta dai gestori degli stabilimenti appartenenti ai Gruppi domino preliminari (Gdp), verranno individuati i Gruppi domino definitivi (Gdd), costituiti dagli stabilimenti tra i quali vi è l'effettiva possibilità di effetti domino. 
+ 
+
+ Nel rammentare che la scelta di dettaglio circa le procedure analitiche per la valutazione degli effetti domino rientra, come parte dell'analisi dei rischi di incidente rilevante, nella responsabilità dei gestori individuati, vengono di seguito richiamati, allo scopo di indirizzare lo scambio di informazioni tra i gestori, alcuni elementi imprescindibili per l'effettuazione delle attività di identificazione degli effetti domino finalizzate all'individuazione dei Gdd. 
+ 
+
+ Per i singoli possibili eventi incidentali, che costituiscono potenziale causa di effetto domino, devono essere innanzitutto identificati dai gestori i casi in cui, all'interno dell'area di impatto relativa alle soglie di danno riportate nelle tabelle I e II del punto 2 della presente parte 1, sono effettivamente collocati obiettivi vulnerabili fissi, mobili o temporanei. 
+ 
+
+ Ai fini della valutazione dell'effetto domino è necessario che ogni gestore di uno stabilimento ricompreso in un Gdp: 
+ 
+
+ - individui gli obiettivi più significativi (bersagli, quali ad es. serbatoi, grosse apparecchiature o condotte contenenti sostanze tossiche o molto tossiche, gas infiammabili liquefatti, liquidi facilmente infiammabili, stoccaggi di comburenti e esplosivi, etc.) attraverso la loro gerarchizzazione, che può essere basata sull'estensione dell'area di danno del possibile incidente indotto per effetto domino; tale area è dipendente dal rischio intrinseco dell'apparecchiatura (derivante dalla tipologia di sostanza, dalla quantità presente nel bersaglio, dalle condizioni di esercizio, dalle caratteristiche costruttive), dal rischio legato al posizionamento (connesso alla configurazione impiantistica, alle quote di posizionamento da terra, ai fattori di vista, alla presenza e efficienza di protezioni attive e passive) e dal tipo di scenario; 
+ 
+
+ - stimi la probabilità che, dato un determinato effetto fisico su un obiettivo vulnerabile, si abbia effettivamente il danno ipotizzabile, ossia la probabilità di effetto domino, dato lo scenario sorgente; 
+ 
+
+ - valuti in che misura aumenta il danno generato dall'effetto domino, rispetto al danno dovuto allo scenario sorgente, individuando, per l'evento secondario, la possibilità di effetti sia sulle strutture (e quindi in grado di propagare ulteriormente l'incidente) che sull'uomo (nel qual caso andranno considerati i bersagli che possono provocare vittime al di fuori dei limiti di stabilimento) e/o sull'ambiente (nel qual caso andranno considerati i bersagli che possono provocare danni sensibili a risorse ambientali importanti). 
+ 
+
+ Ai fini della stima della probabilità di effetto domino, i gestori devono utilizzare i dati specifici rappresentativi della situazione in esame, anche in base a quanto già riportato nei Rapporti di sicurezza (stabilimenti di soglia superiore), ovvero in altra documentazione analitica pertinente (analisi dei rischi di incidente rilevante effettuata nel contesto del SGS per stabilimenti di soglia inferiore), tenendo presente che eventuali significativi scostamenti da quanto normalmente riportato, per situazioni analoghe, nella letteratura scientifica internazionale, deve trovare esplicita giustificazione (ad es. per la presenza di particolari sistemi di protezione attivi e/o passivi, di provvedimenti gestionali specifici, etc.). 
+ 
+
+ La stima rigorosa relativa al danneggiamento di un bersaglio dovuto all'evento primario potrebbe richiedere al gestore l'effettuazione di un'analisi strutturale dello stesso, valutando la sua resistenza a sollecitazioni meccaniche e/o termiche indotte dall'evento iniziatore. 
+ 
+
+ Per la stima della probabilità di danneggiamento del bersaglio è necessario fare riferimento a modelli proposti nella letteratura scientifica internazionale, basati su funzioni di Probit disponibili, per diverse classi di apparecchiatura, per il calcolo della probabilità di collasso di queste in caso di esposizione a sovrappressione e/o irraggiamento. 
+ 
+
+ Nel caso di indisponibilità di dati specifici o di significative incertezze, inerenti alla valutazione degli eventi iniziatori o alle caratteristiche del bersaglio, in alternativa, ai fini della valutazione della probabilità di effetto domino, possono essere utilizzate dai gestori le assunzioni indicative riportate nelle tabelle A.1, A.2 e A.3 dell'appendice A della presente parte 1. 
+ 
+
+ Per quanto riguarda gli effetti domino indiretti, nel ribadire la difficoltà di una valutazione quantitativa della probabilità e degli effetti di questi, si evidenzia, nel contempo, l'importanza della considerazione degli stessi da parte dei gestori potenzialmente interessati, ovviamente sulla base dei fattori specifici del sito (ad es. presenza di sostanze di particolare tossicità o reattività, presenza di strutture vulnerabili quali sale controllo non protette, impianti non automatizzati che richiedono la presenza di personale in campo per l'azionamento di sistemi di sicurezza e di controllo e blocco, etc.), allo scopo di verificare l'eventuale necessità di adozione di misure aggiuntive tecniche e/o gestionali (quali, ad es., la predisposizione di un protocollo di comunicazione delle emergenze tra stabilimenti limitrofi che consenta di attivare tempestivamente le misure di protezione e mitigazione identificate in via preventiva dai gestori) e di conseguente aggiornamento dei rispettivi documenti relativi alla politica di prevenzione degli incidenti rilevanti, dei sistemi di gestione della sicurezza, dei rapporti di sicurezza, dei piani di emergenza interni e dei contenuti e delle modalità di diffusione delle informazioni nei confronti della popolazione e dei siti adiacenti. 
+ 
+
+ La considerazione degli effetti domino si deve tradurre nella identificazione, da parte dei gestori di stabilimenti ricompresi in un Gdp, degli scenari domino credibili, ciascuno caratterizzato dall'accadimento contemporaneo di più scenari incidentali singoli originati dai bersagli danneggiati; l'analisi degli effetti domino si tradurrà quindi, eventualmente, in un incremento del numero di scenari incidentali che dovranno essere considerati dai gestori: oltre agli scenari singoli, saranno infatti presenti gli scenari domino, ciascuno con le proprie frequenze e conseguenze. 
+ 
+
+ 
+ 
+
+ 6. Individuazione Gruppi domino definitivi (Gdd) 
+ 
+
+ 
+ 
+
+ I gestori informano l'AC delle attività svolte e dei risultati ottenuti (espressi in termini, ad es., di indicazione che non sono stati identificati scenari domino, ovvero di indicazione degli scenari domino identificati e delle relative frequenze e conseguenze, di indicazione delle misure tecniche e/o gestionali, già presenti o aggiuntive, adottate per eliminare o remotizzare gli scenari domino diretti o indiretti ipotizzabili, etc.). 
+ 
+
+ Sulla base delle ulteriori informazioni pervenute, l'AC individua i Gruppi domino definitivi (Gdd), ossia raggruppamenti in cui c'è l'effettiva possibilità del verificarsi di effetti domino, aggiornando l'elenco degli stabilimenti inclusi nei Gruppi domino individuati sul proprio territorio di competenza. 
+ 
+
+ Nel prosieguo delle attività di propria competenza, l'AC in presenza di Gruppi domino definitivi, può richiedere ai gestori informazioni integrative che consentano di valutare i possibili effetti domino e gli effetti cumulativi degli interventi proposti: 
+ 
+
+ • in occasione della presentazione della notifica di cui all'art.
+ 
+
+ 13 del presente decreto; 
+ 
+
+ • ai fini della valutazione del Rapporto di sicurezza di cui
+ 
+
+ all'art. 15 del presente decreto; 
+ 
+
+ • ai fini del rilascio del nulla osta di fattibilità sulla base
+ 
+
+ del rapporto preliminare di sicurezza ai sensi dell'art. 17 comma 2 del presente decreto; 
+ 
+
+ • in occasione della ricezione della dichiarazione di non aggravio
+ 
+
+ del preesistente livello di rischio di incidenti rilevanti di cui all'allegato D al presente decreto; 
+ 
+
+ • in occasione delle modifiche di cui all'art. 18 del presente
+ 
+
+ decreto; 
+ 
+
+ • in occasione dell'espressione dei pareri di cui all'art. 5 del
+ 
+
+ decreto del Ministero dei Lavori Pubblici 9 maggio 2001 "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante". 
+ 
+
+ L'AC, sulla base delle informazioni ottenute dai gestori, procede ad eventuali modifiche e integrazioni dell'elenco degli stabilimenti inclusi nei Gruppi domino individuati nel proprio territorio di competenza, anche relativamente ad ulteriori stabilimenti tra i quali sia possibile ipotizzare il verificarsi di effetti domino. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ APPENDICE A - RIFERIMENTI UTILI PER LA STIMA DELLA PROBABILITà DI COLLASSO DI APPARECCHIATURA SOTTOPOSTA A SOVRAPPRESSIONE, IRRAGGIAMENTO O PROIEZIONE DI FRAMMENTI 
+ 
+
+ 
+ 
+
+ Tabella A.1 - Probabilità di effetto domino per irraggiamento 
+ 
+
+ 
+ 
+ 
+ Effetto sorgente Probabilità di effetto domino Nota 
+ 
+
+ 
+ Interessamento da jet fire con durata inferiore a 5 min 0 
+ 
+
+ 
+ Interessamento da jet fire con durata tra 5 e 10 min 0.5 
+ 
+
+ 
+ Interessamento da jet fire con durata superiore a 10 min 1 
+ 
+
+ 
+ Irraggiamento superiore a 37.5 kW/m2 con durata inferiore a 10 min o interessamento da pool fire con durata inferiore a 10 min 0 (1) 
+ 
+
+ 
+ Irraggiamento superiore a 37.5 kW/m2 con durata superiore a 10 min o interessamento da pool fire con durata superiore a 10 min (per obiettivi tipo serbatoi e apparecchiature atmosferici) 1 (2) 
+ 
+
+ 
+ Irraggiamento superiore a 37.5 kW/m2 con durata superiore a 10 min o interessamento da pool fire con durata superiore a 10 min (per obiettivi tipo serbatoi e apparecchiature a pressione e tubazioni) 0.5 (2) 
+ 
+
+ 
+ Irraggiamento superiore a 37.5 kW/m2 con durata superiore a 20 min 1 (2) 
+ 
+
+ 
+ Irraggiamento inferiore a 12.5 kW/m2 0 (1) 
+ 
+
+ 
+ Irraggiamento tra 12.5 e 37.5 kW/m2 con durata inferiore a 10 min 0 (1) 
+ 
+
+ 
+ Irraggiamento tra 12.5 e 37.5 kW/m2 con durata superiore a 10 min vedi nota (3) 
+ 
+
+ 
+ Irraggiamento tra 12.5 e 37.5 kW/m2 con durata superiore a 20 min vedi nota (3) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ NOTE: 
+ 
+
+ (1) Salvo i casi in cui sia ipotizzabile una propagazione dell'incendio a causa di materiale strutturale o componentistico infiammabile (es. pannellature di materiale plastico, etc.) ovvero un danneggiamento di componenti particolarmente vulnerabili (es. recipienti o tubazioni in vetroresina, serbatoi o tubazioni con rivestimenti plastici, etc.) per i quali si assume una probabilità pari a 1. 
+ 
+
+ (2) Nel caso in cui siano presenti sistemi di protezione attivi (raffreddamento) automatici o manuali, aventi probabilità P di mancato intervento su domanda o di efficacia per tutta la durata dell'effetto sorgente, le probabilità di effetto domino vanno moltiplicate per P. Nel caso in cui siano presenti sistemi di protezione passiva (fireproofing, interramento, barriere tagliafiamme), le probabilità di effetto domino sono trascurabili per durata dell'effetto fisico pari o inferiore a quello eventuale di resistenza del sistema. Per la distinzione tra apparecchiature atmosferiche e in pressione, si può fare riferimento alla pressione di progetto, che per apparecchiature in pressione deve essere superiore a 2 bar assoluti. 
+ 
+
+ (3) Probabilità interpolata linearmente rispetto alle probabilità corrispondenti ai due estremi del valore di irraggiamento. 
+ 
+
+ 
+ 
+
+ Tabella A.2 - Probabilità di effetto domino per sovrappressione 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Effetto sorgente Probabilità di effetto domino Nota 
+ 
+
+ 
+ Sovrappressione inferiore a 0.3 bar 0 
+ 
+
+ 
+ Sovrappressione superiore a 0.6 bar (per obiettivo serbatoi e apparecchiature atmosferici) 1 (1) 
+ 
+
+ 
+ Sovrappressione superiore a 1.0 bar (per obiettivo serbatoi e apparecchiature in pressione e tubazioni) 1 (1) 
+ 
+
+ 
+ Sovrappressione tra 0.3 e 0.6 bar (per obiettivo serbatoi e apparecchiature atmosferici) vedi nota (2) 
+ 
+
+ 
+ Sovrappressione tra 0.3 e 1.0 bar (per obiettivo serbatoi e apparecchiature in pressione e tubazioni) vedi nota (2) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ NOTE: 
+ 
+
+ (1) Per la distinzione tra apparecchiature atmosferiche e in pressione, si può fare riferimento alla pressione di progetto, che per apparecchiature in pressione deve essere superiore a 2 bar assoluti. 
+ 
+
+ (2) Probabilità interpolata linearmente rispetto alle probabilità corrispondenti ai due estremi del valore di sovrappressione. 
+ 
+
+ 
+ 
+
+ Tabella A.3 - Probabilità di effetto domino proiezione frammenti 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Effetto sorgente Probabilità di effetto domino Nota 
+ 
+
+ 
+ Frammenti da componenti minori (ad es. tubazioni, bombole, etc.) vedi nota (1) 
+ 
+
+ 
+ Frammenti da collasso di recipiente essenzialmente isometrico o equivalente (ad es. sfere, serbatoi verticali) vedi nota (1) 
+ 
+
+ 
+ Frammenti da collasso di recipiente a sviluppo longitudinale o equivalente (ad es. serbatoi orizzontali) vedi nota (2) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ NOTE: 
+ 
+
+ (1) Probabilità pari a 1, dato l'impatto con l'obiettivo vulnerabile, fino a distanze dell'ordine di 200m. 
+ 
+
+ (2) Probabilità pari a 1, dato l'impatto con l'obiettivo vulnerabile, fino a distanze dell'ordine di 800m. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ PARTE 2 - CRITERI PER L'INDIVIDUAZIONE DELLE AREE AD ELEVATA CONCENTRAZIONE DI STABILIMENTI TRA I QUALI è POSSIBILE L'EFFETTO DOMINO E PER LA PREDISPOSIZIONE DELLO STUDIO DI SICUREZZA INTEGRATO DI AREA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. Scopo 
+ 
+
+ 
+ 
+
+ La presente parte 2 fornisce i criteri e i riferimenti tecnici e procedurali: 
+ 
+
+ a) per l'individuazione e la perimetrazione delle aree ad elevata concentrazione di stabilimenti assoggettati agli obblighi di cui al presente decreto, nelle quali il possibile effetto domino coinvolga gruppi di stabilimenti; 
+ 
+
+ b) per la predisposizione dello studio di sicurezza integrato di area, finalizzato alla predisposizione dei Piani di emergenza esterna, al controllo dell'urbanizzazione e all'informazione della popolazione. 
+ 
+
+ In un'area ad elevata concentrazione di stabilimenti è ipotizzabile un aggravio del rischio per la concatenazione di eventi, a causa di un incremento di probabilità e/o conseguenze di incidenti rilevanti già ipotizzati, o meno, per il singolo stabilimento, che comporta una considerazione di questi stessi nell'ambito di una ricomposizione del rischio originato da sorgenti diverse. 
+ 
+
+ In queste aree è necessario valutare la significatività di tale aggravamento del rischio in funzione delle eventuali peculiarità del luogo ove gli stabilimenti sono situati, quali la presenza di elementi territoriali vulnerabili nelle aree di danno determinate nelle analisi di sicurezza degli stabilimenti, e delle problematiche specifiche legate alla pianificazione dell'emergenza esterna, alla pianificazione dello sviluppo urbanistico del territorio e alla corretta ed esaustiva diffusione delle informazioni nei confronti della popolazione e dei siti adiacenti. 
+ 
+
+ Tale significatività, valutata in relazione agli elementi sopra menzionati, può comportare la necessità di adottare specifiche misure atte a ridurre o eliminare i fattori di rischio, secondo le indicazioni e le priorità che possono essere evidenziate da uno studio di sicurezza integrato di area. 
+ 
+
+ La valutazione del rischio di area richiede, nello specifico, di 
+ 
+
+ stimare il rischio associato ad ognuna delle possibili sorgenti di danno presenti sul territorio, andando poi a ricombinare e 
+ 
+
+ sovrapporne gli effetti in una visione globale del rischio 
+ 
+
+ rappresentato da stabilimenti, installazioni industriali e 
+ 
+
+ ulteriori contribuenti (es. trasporti di sostanze pericolose). Lo studio di sicurezza integrato di area tiene adeguatamente conto 
+ 
+
+ della contemporanea presenza di più sorgenti di rischio mediante la rappresentazione grafica dell'inviluppo geometrico delle aree di 
+ 
+
+ danno dei vari scenari incidentali ipotizzati, la rivalutazione 
+ 
+
+ delle frequenze di accadimento degli scenari stessi e la conseguente ricomposizione dei rischi di area9 . 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2. Definizioni 
+ 
+
+ 
+ 
+
+ Ai sensi della presente parte 2, ferme restando le definizioni di cui alla parte 1 e al presente decreto, si adottano le seguenti definizioni: 
+ 
+
+ a) Area ad elevata concentrazione di stabilimenti a rischio di incidente rilevante tra i quali è possibile l'effetto domino (Area RIR): area in cui sono presenti uno o più Gruppi domino, individuata secondo quanto previsto nel punto 3 della presente parte 2; 
+ 
+
+ b) Studio di Sicurezza Integrato di Area (SSIA): elaborato contenente l'analisi integrata dei rischi di incidenti rilevanti dell'Area RIR, connessi anche alle operazioni di trasporto di sostanze pericolose ad essi associate o riconducibili. 
+ 
+
+ 
+ 
+
+ 3. Individuazione dell'Area ad elevata concentrazione di stabilimenti a rischio di incidente rilevante tra i quali è possibile l'effetto domino (Area RIR) 
+ 
+
+ 
+ 
+
+ L'area RIR è individuata qualora: 
+ 
+
+ • sia presente un "gruppo domino", individuato secondo i criteri
+ 
+
+ riportati nella parte 1 del presente allegato, costituito da almeno tre stabilimenti, oppure 
+ 
+
+ • siano presenti almeno due gruppi di stabilimenti domino con
+ 
+
+ distanza minima, tra i limiti di stabilimenti appartenenti a "gruppi domino" diversi, pari o inferiore a 1500 m, 
+ 
+
+ in aggiunta ad una delle seguenti situazioni critiche che necessitano di analisi integrata per la gestione dell'emergenza in caso di incidente e/o il controllo dell'urbanizzazione (in caso di realizzazione di modifiche agli stabilimenti o realizzazione di nuovi insediamenti e variazioni importanti delle infrastrutture nell'area): 
+ 
+
+ • Criterio A1) presenza di elementi territoriali vulnerabili
+ 
+
+ appartenenti alle categorie territoriali A e/o B e/o C di cui alla tabella 1 del decreto del Ministero dei Lavori Pubblici 9 maggio 2001 "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante":10 
+ 
+
+ - entro l'area di inviluppo degli effetti di inizio letalità associati agli incidenti ipotizzabili negli stabilimenti del/i gruppo/i ricavata in base alle conclusioni dell'istruttoria, dai Rapporti di sicurezza, dai moduli di cui all'allegato 5 del presente decreto, dagli elaborati RIR, (criterio A1.1) 
+ 
+
+ oppure, in caso di indisponibilità di sufficienti informazioni, 
+ 
+
+ - entro la fascia di 1000 m dal limite di ogni stabilimento appartenente al/ai gruppo/i (criterio A1.2); 
+ 
+
+ • criterio A2) presenza nell'area di caratteristiche ambientali,
+ 
+
+ territoriali e di infrastrutture essenziali tali da rendere necessaria l'integrazione dei piani di emergenza esterni degli stabilimenti appartenenti ai "gruppi domino"; 
+ 
+
+ • criterio A3) possibilità, nell'area, di effetti domino associati
+ 
+
+ all'approvvigionamento o alla spedizione di sostanze pericolose a/da gli stabilimenti del/i gruppo/i domino la cui significatività va valutata in relazione, oltre che ovviamente alla concreta possibilità di coinvolgimento delle installazioni fisse in caso di incidente di trasporto, alle modalità di trasporto utilizzate, all'entità del traffico complessivo nell'area, alle condizioni della viabilità e delle altre infrastrutture di trasporto, alle statistiche incidentali nell'area, etc. 
+ 
+
+ 
+ 
+
+ 4. Perimetrazione dell'Area RIR di interesse per lo Studio di Sicurezza Integrato di Area (SSIA) 
+ 
+
+ 
+ 
+
+ L'Area RIR oggetto del SSIA, ovvero l'area complessiva di influenza diretta degli stabilimenti, è definita dall'insieme degli inviluppi delle aree di danno relative ai singoli stabilimenti, così come identificate ai sensi del decreto del Ministero dei Lavori Pubblici 9 maggio 2001 "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante" e rivalutate per tener conto degli eventuali effetti domino ai sensi dell'art. 19 del presente decreto. Tuttavia, per poter tenere conto dei contribuenti indiretti alla determinazione del rischio d'area e, almeno in parte, derivanti dalla presenza stessa degli stabilimenti, con particolare riferimento al trasporto di sostanze pericolose (effetti domino fra trasporti di sostanze pericolose e stabilimenti), l'area da considerare per una prima individuazione degli oggetti dello studio integrato è quella, più ampia, relativa ai limiti amministrativi dei comuni, i cui territori sono direttamente interessati. Ciò anche allo scopo di agevolare: 
+ 
+
+ - eventuali future esigenze di ampliamento dell'area sottoposta a studio, in seguito a modifiche industriali e/o territoriali, con la relativa diffusione esaustiva delle informazioni nei confronti della popolazione e dei siti adiacenti, 
+ 
+
+ - la predisposizione di piani di intervento e di sviluppo, 
+ 
+
+ - la predisposizione del piano d'emergenza di area e, se applicabile, del piano di sicurezza portuale. 
+ 
+
+ Nel caso di comuni il cui territorio abbia un'estensione significativamente più ampia dell'area di influenza diretta oppure sia interessato solo marginalmente, la porzione di territorio da includere nella perimetrazione preliminare dovrebbe essere definita in modo da comprendere unicamente gli stabilimenti costituenti i Gruppi domino e le vie di transito di merci pericolose entro una distanza tale da conservare una significatività di principio, in ordine alla reciproca influenza per la determinazione dell'andamento delle curve di rischio locale. 
+ 
+
+ L'individuazione definitiva è determinata a seguito della caratterizzazione degli eventi incidentali ascrivibili alle sorgenti di rischio, fisse e mobili, comprese nell'area delimitata dalla perimetrazione preliminare e alla conseguente individuazione degli effetti domino e rivalutazione degli eventi ipotizzabili, anche a fronte della considerazione delle possibili interazioni tra stabilimenti e trasporto di merci pericolose. 
+ 
+
+ Essa delimita l'area entro la quale deve essere effettuato il censimento degli elementi territoriali e i calcoli di ricomposizione dei rischi. Essa è determinata dall'insieme di: 
+ 
+
+ a) inviluppo delle aree di impatto degli eventi incidentali ascrivibili a tutte le sorgenti di rischio, fisse e mobili, ivi compresi gli effetti domino; 
+ 
+
+ b) porzioni territoriali nelle quali realtà locali, per specifica situazione puntuale critica (ad es. prossimità di via di transito merci pericolose con centri di elevata vulnerabilità o attraversamento di centri abitati), possano contribuire in modo non trascurabile al rischio, influenzando anche in termini territorialmente delimitati l'andamento delle curve di rischio locale e l'entità del rischio collettivo. 
+ 
+
+ Per una corretta determinazione dell'inviluppo di cui al punto a), l'indagine e la valutazione relativa alle vie di trasporto, alle condotte e agli elementi infrastrutturali lineari devono essere estese a comprendere tutte le possibili aree di reciproca interferenza per effetto domino, anche laddove si dovessero travalicare i limiti amministrativi dei comuni interessati. 
+ 
+
+ L'inclusione delle aree di cui al punto b) deve essere effettuata anche se tali situazioni locali, significative, si collocano all'esterno delle curve di rischio locale, dal momento che esse costituiscono, comunque, un'indispensabile indicazione per la corretta individuazione e valutazione degli interventi migliorativi di tipo territoriale e infrastrutturale e per la pianificazione di emergenza dell'area. 
+ 
+
+ 
+ 
+
+ 5. Oggetto e ambito di applicazione dello SSIA 
+ 
+
+ 
+ 
+
+ Costituiscono specifico oggetto dello SSIA: 
+ 
+
+ • stabilimenti; 
+ 
+
+ • trasporti di sostanze pericolose in condotta, per strada,
+ 
+
+ ferrovia e nave nell'area, sia da/a stabilimenti, sia in transito; 
+ 
+
+ • altre sorgenti di rischio, quali ad es. quelli derivanti da
+ 
+
+ stabilimenti non soggetti al presente decreto in cui sono presenti significative quantità di sostanze pericolose; 
+ 
+
+ • popolazione residente e non residente, anche presente
+ 
+
+ occasionalmente e in transito; 
+ 
+
+ * elementi territoriali infrastrutturali e ambientali vulnerabili, con riferimento almeno alle tipologie indicate nel decreto del Ministero dei Lavori Pubblici 9 maggio 2001 "Requisiti minimi di sicurezza in materia di pianificazione urbanistica e territoriale per le zone interessate da stabilimenti a rischio di incidente rilevante". 
+ 
+
+ 
+ 
+
+ 6. Fasi, dati ed elementi di riferimento per la predisposizione dello SSIA 
+ 
+
+ 
+ 
+
+ Lo studio sarà realizzato attraverso le seguenti fasi: 
+ 
+
+ A.Predisposizione degli strumenti per la gestione dei dati sui rischi 
+ 
+
+ 1) Predisposizione delle basi cartografiche 
+ 
+
+ 2) Predisposizione di carte tematiche e della banca dati per la mappatura del rischio industriale 
+ 
+
+ 
+ 
+
+ B.Censimento, raccolta e validazione dei dati sui rischi 
+ 
+
+ 1) Individuazione e caratterizzazione delle sorgenti di rischio 
+ 
+
+ a. Censimento delle sorgenti connesse con installazioni fisse 
+ 
+
+ b. Censimento delle sorgenti connesse con il trasporto di sostanze pericolose 
+ 
+
+ i. Trasporto stradale 
+ 
+
+ ii. Trasporto ferroviario 
+ 
+
+ iii. Trasporto marittimo (ove applicabile) 
+ 
+
+ iv. Trasporto in condotta 
+ 
+
+ 2) Caratterizzazione meteo-climatica dell'area 
+ 
+
+ 3) Caratterizzazione demografica dell'area 
+ 
+
+ 4) Individuazione degli elementi infrastrutturali dell'area e degli altri elementi territoriali vulnerabili 
+ 
+
+ 5) Individuazione degli elementi ambientali vulnerabili 
+ 
+
+ 
+ 
+
+ C. Identificazione degli effetti domino secondo i criteri della parte 1 del presente allegato 
+ 
+
+ 
+ 
+
+ D.Selezione e applicazione degli strumenti di calcolo e di ricomposizione dei rischi 
+ 
+
+ 1) Verifica del livello di completezza e di congruenza dei dati inerenti a: 
+ 
+
+ a. Stabilimenti di soglia superiore 
+ 
+
+ b. Stabilimenti di soglia inferiore 
+ 
+
+ c. Altre sorgenti di rischio 
+ 
+
+ 2) Per gli eventi incidentali con conseguenze per l'uomo e per le strutture 
+ 
+
+ a. Caratterizzazione delle sorgenti di rischio e degli scenari incidentali connessi 
+ 
+
+ i. Stima degli eventi incidentali connessi agli stabilimenti 
+ 
+
+ ii. Stima degli eventi incidentali connessi al trasporto di sostanze pericolose 
+ 
+
+ b. Rivalutazione delle sorgenti di rischio per tener conto degli effetto domino 
+ 
+
+ c. Stima della vulnerabilità per l'uomo (danni da irraggiamento, da sovrappressione, da esposizione a tossici) 
+ 
+
+ 3) Per gli eventi incidentali con conseguenze per l'ambiente 
+ 
+
+ a. Caratterizzazione delle sorgenti di rischio e degli scenari incidentali connessi 
+ 
+
+ b. Caratterizzazione degli elementi di criticità ambientale 
+ 
+
+ 4) Conseguenze degli eventi incidentali sulle infrastrutture 
+ 
+
+ 5) Analisi degli scenari incidentali in corso di evento naturale d'area (rischi NATECH) 
+ 
+
+ 6) Ricomposizione dei rischi 
+ 
+
+ a. Applicazione del codice di calcolo scelto per la ricomposizione dei rischi 
+ 
+
+ b. Rappresentazione grafica dei risultati 
+ 
+
+ 
+ 
+
+ E.Sintesi degli elementi utili emersi dallo studio ai fini della pianificazione di emergenza, del controllo dell'urbanizzazione nell'area e dell'informazione alla popolazione 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -------- 
+ 
+
+ 
+ 
+
+ 
+ 1
+ Per l'attuazione esaustiva di quanto indicato all'art. 19 del
+ 
+
+ presente decreto, si ritiene necessario che, oltre ai più probabili e gravosi effetti domino diretti (immediati o differiti), siano prese in considerazione, sulla base dei fattori specifici del sito (ad es. presenza di sostanze di particolare tossicità o reattività, presenza di strutture vulnerabili quali sale controllo non protette, impianti non automatizzati che richiedono la presenza di personale in campo per l'azionamento di sistemi di sicurezza e di controllo e blocco, etc.), anche potenziali situazioni di effetto domino indiretto e che esse siano analizzate dai gestori interessati (informati e attivati dell'art. 19 del presente decreto) allo scopo di verificare l'eventuale necessità di adozione di misure aggiuntive tecniche e/o gestionali (quali ad es. la predisposizione di un protocollo di comunicazione delle emergenze tra stabilimenti limitrofi che consenta di attivare tempestivamente le misure di protezione e mitigazione identificate in via preventiva dai gestori) e di aggiornamento dei rispettivi documenti relativi alla politica di prevenzione degli incidenti rilevanti, dei sistemi di gestione della sicurezza, dei Rapporti di sicurezza, dei Piani di emergenza interna e dei contenuti e delle modalità di diffusione delle informazioni alla popolazione e ai siti adiacenti.
+ 
+
+ 
+ 
+
+ Si evidenzia come, solitamente, nella valutazione quantitativa degli effetti domino finalizzata ad es. alla ricomposizione dei rischi in uno studio integrato di area (di cui alla parte 2 del presente allegato), sono invece prese in considerazione solo le situazioni di effetti domino di tipo diretto, in quanto considerati più probabili e gravosi. In particolare, non viene di solito preso in considerazione, tra le possibili cause iniziatrici di effetto domino, il rilascio di sostanze tossiche, poichè, anche se tale rilascio potrebbe determinare, in linea di principio, un ostacolo alla corretta conduzione di uno stabilimento vicino da parte degli operatori di questo, ostacoli analoghi e di egual effetto sono comunque imputabili alle altre numerose cause, sempre presenti, ascrivibili al fattore umano o a problemi di ordine gestionale, che devono essere valutate da ogni gestore nell'ambito dell'analisi dei rischi contenuta nel Rapporto di sicurezza, di cui all'art. 15 del presente decreto, ovvero alla base del sistema di gestione della sicurezza, di cui all'art. 14 del presente decreto, e opportunamente trattate. Inoltre, nella quasi generalità dei casi, l'insieme di tali cause interne allo stesso stabilimento ("endogene") è caratterizzato da frequenze attese di gran lunga superiori a quelle associate allo scenario di impatto originato dal rilascio di sostanza tossica da uno stabilimento vicino. Nell'ambito della trattazione degli effetti domino finalizzata alla ricomposizione dei rischi di area, gli effetti domino indiretti, peraltro di complessa valutazione in termini quantitativi, possono essere pertanto considerati contribuenti trascurabili, venendo comunque la situazione adeguatamente descritta e analizzata sulla sola base delle cause endogene. 
+ 
+
+ 
+ 
+
+ 
+ 2
+ Nelle more dell'attuazione di quanto previsto al comma 3
+ 
+
+ dell'art. 22 del presente decreto, valgono, in quanto applicabili, le disposizioni previste dal decreto del Ministero dei Lavori Pubblici del 9 maggio 2001, pubblicato nella Gazzetta Ufficiale n. 138 del 16 giugno 2001 (S.O. n. 151).
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 3
+ Il valore di soglia per i possibili danni alle strutture e
+ 
+
+ apparecchiature, in Tabella I, rappresenta un limite minimo applicabile ad obiettivi particolarmente vulnerabili, quali serbatoi atmosferici, pannellature in laminato plastico, etc. e per esposizioni di lunga durata. Per obiettivi meno vulnerabili potrà essere necessario riferirsi a valori più appropriati alla situazione specifica, tenendo conto anche della effettiva possibile durata dell'esposizione.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 4
+ Secondo la tipologia del serbatoio, per quanto riguarda i
+ 
+
+ danni materiali, da considerarsi ai fini di un possibile effetto domino diretto, si possono prendere a riferimento le tipiche distanze entro cui si verifica la proiezione della maggior parte dei frammenti di dimensioni significative, pari a 200 metri nel caso delle unità di imbombolamento e relativo immagazzinamento (NdR 100 m per parco bombole GPL in DM 15/05/1996 e in DPCM 25/02/2005), 500 metri per serbatoi di stoccaggio sferici (NdR 600 m per sfere GPL in DM 15/05/1996 ) e 800 metri per serbatoi di stoccaggio cilindrici (orizzontali come ad es. GPL).
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 5
+ Per quanto riguarda i danni materiali, da considerarsi ai fini
+ 
+
+ di un possibile effetto domino diretto, si può prendere a riferimento il valore di soglia di 0,3 bar corrispondente al possibile danneggiamento di strutture pesanti, di apparecchiatura di processo, di serbatoi e tubazioni.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 6
+ Ai fini della valutazione dell'area interessata da possibili
+ 
+
+ effetti domino indiretti per dispersione di gas o vapori tossici si fa riferimento cautelativamente alle aree di danno associate all'IDLH ("Immediately Dangerous to Life and Health": fonte NIOSH/OSHA): concentrazione di sostanza tossica fino alla quale l'individuo sano, in seguito ad esposizione di 30 minuti, non subisce per inalazione danni irreversibili alla salute e sintomi tali da impedire l'esecuzione delle appropriate azioni protettive.
+ 
+
+ 
+ 
+
+ Si rileva che il tempo di esposizione di 30 minuti viene fissato cautelativamente sulla base della massima durata presumibile di rilascio, evaporazione da pozza e/o passaggio della nube. In condizioni impiantistiche favorevoli (ad es. sistema di rilevamento di fluidi pericolosi con operazioni presidiate in continuo, allarme e pulsanti di emergenza per chiusura valvole, etc.) e a seguito dell'adozione di appropriati sistemi di gestione della sicurezza, come definiti nella normativa vigente, il gestore dello stabilimento può responsabilmente assumere, nelle proprie valutazioni, tempi di esposizione significativamente diversi; ne consegue la possibilità, per la stima dell'area di effetti domino indiretti, di adottare valori di soglia corrispondentemente diversi da quelli di Tabella II (purchè ad esito di valutazione o comunque parere favorevole dell'autorità competente). 
+ 
+
+ 
+ 
+
+ 
+ 7
+ 7 Le aree/distanze di danno da prendere in considerazione nei
+ 
+
+ documenti citati sono quelle riferite a scenari di incendio - escluso flashfire e fireball - ed esplosione (ad es. le distanze riportate nella col. "I zona" nella tabella della sez. M del Modulo di cui all'allegato 5 del presente decreto) e di rilascio di gas/vapori (tossici) (ad es. le distanze riportate nella col. "II zona" nella tabella della medesima sez. M).
+ 
+
+ 
+ 
+
+ Nel caso in cui nei documenti citati le aree/distanze di danno siano riferite a valori di soglia diversi da quelli di cui al punto 2, lettere j) e k) della presente parte 1, si assumeranno cautelativamente le aree di danno riferite ai valori di soglia di danno immediatamente più bassi in essi riportate. 
+ 
+
+ Nel caso in cui il PEE non sia stato ancora predisposto, nemmeno in versione provvisoria, si farà riferimento alla sez. M del Modulo, di cui all'allegato 5 del presente decreto, più recente trasmesso dal gestore (prendendo in considerazione la massima distanza relativa alla I zona per gli eventi di incendio - esclusi scenari di flashfire e fireball - ed esplosione e la massima distanza relativa alla II zona per i rilasci di gas/vapori). 
+ 
+
+ Nel caso in cui le informazioni desunte dalla sez. M del Modulo di cui all'allegato 5 del presente decreto o dal Rapporto di sicurezza siano carenti nei contenuti, a titolo preliminare e cautelativamente, sarà assunta, ai soli fini dell'applicazione del presente allegato, una distanza convenzionale di danno di 1000 m dai limiti dello StOED. 
+ 
+
+ 
+ 
+
+ 
+ 8
+ Le aree/distanze di danno da prendere in considerazione nei
+ 
+
+ documenti citati sono quelle riferite a scenari di incendio - escluso flashfire e fireball - ed esplosione (ad es. quelle riportate nella col. "I zona" nella tabella della s ez. M del M odulo di cui all'allegato 5 del presente decreto) e di rilascio di gas/vapori (tossici) (ad es. quelle riportate nella col. "II zona" nella tabella della medesima sez. M).
+ 
+
+ 
+ 
+
+ Nel caso in cui nei documenti citati le aree di danno siano riferite a valori di soglia diversi da quelli di cui al punto 2, lettere j) e k) della presente parte 1, si assumeranno cautelativamente le aree di danno riferite ai valori di soglia di danno immediatamente più bassi in essi riportati. 
+ 
+
+ Nel caso in cui il Piano di emergenza esterna non sia stato ancora predisposto, nemmeno in versione provvisoria, si farà riferimento alla sez. M del Modulo di cui all'allegato 5 del presente decreto più recente trasmesso dal gestore (prendendo in considerazione la distanza relativa alla I zona per gli eventi di incendio, esclusi scenari di flashfire e fireball, ed esplosione e la distanza relativa alla II zona per i rilasci di gas/vapori). 
+ 
+
+ Nel caso, infine, in cui le informazioni desunte dalla sez. M del Modulo di cui all'allegato 5 del presente decreto o dalla documentazione riportante l'analisi dei rischi di incidente rilevante siano carenti nei contenuti, a titolo preliminare e cautelativamente, sarà assunta una distanza convenzionale di danno di 1000 m dai limiti dello StOED. 
+ 
+
+ 
+ 
+
+ 
+ 9
+ La ricomposizione dei rischi di area, a seconda delle esigenze
+ 
+
+ e delle necessità specifiche dell'area oggetto di studio, può prevedere la rappresentazione delle risultanze di calcolo mediante la costruzione di "curve iso-rischio" e "curve F-N". Le curve iso-rischio (con le relative aree iso-rischio sottese) rappresentano l'andamento del "rischio locale", ovvero il rischio (frequenza attesa di decesso) a cui sarebbe soggetto un individuo permanentemente presente in un determinato luogo (24 ore su 24), in assenza di protezioni o comportamenti auto-protettivi; il rischio locale è una stima del "rischio individuale" (quello a cui è soggetto un particolare individuo nelle vicinanze di una fonte di pericolo). Le curve F-N (Frequenza-Numero di vittime) costituiscono una comune forma di rappresentazione del "rischio collettivo", ossia la frequenza complessiva degli incidenti considerati nell'area oggetto di studio per la quale sia prevedibile il decesso di un numero di persone maggiore o uguale a N ("rischio sociale").
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 10
+ In assenza di varianti urbanistiche, sono considerate come
+ 
+
+ categorie non compatibili con le condizioni di inizio letalità anche per eventi con frequenza inferiore a 10
+ -6
+ occasioni/anno.

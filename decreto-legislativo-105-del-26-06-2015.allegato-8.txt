@@ -1,0 +1,972 @@
+Allegato B (art. 14) 
+ 
+
+ 
+ 
+
+ Linee guida per l'attuazione del Sistema di Gestione della Sicurezza per la prevenzione degli incidenti rilevanti 
+ 
+
+ 
+ 
+
+ Il presente allegato è così costituito: 
+ 
+
+ PREMESSA 
+ 
+
+ 1. POLITICA DI PREVENZIONE DEGLI INCIDENTI RILEVANTI 
+ 
+
+ 2. REQUISITI GENERALI E STRUTTURA DEL SISTEMA DI GESTIONE DELLA SICUREZZA 
+ 
+
+ 3. CONTENUTI TECNICI DEL SISTEMA DI GESTIONE DELLA SICUREZZA 
+ 
+
+ 4. GRADO DI APPROFONDIMENTO 
+ 
+
+ APPENDICE 1 - ATTIVITà DI INFORMAZIONE, FORMAZIONE, ADDESTRAMENTO ED EQUIPAGGIAMENTO DEL PERSONALE CHE LAVORA IN STABILIMENTO 
+ 
+
+ 1. INFORMAZIONE 
+ 
+
+ 2. FORMAZIONE E ADDESTRAMENTO 
+ 
+
+ 3. EQUIPAGGIAMENTO, SISTEMI E DISPOSITIVI DI PROTEZIONE 
+ 
+
+ 4. ORGANIZZAZIONE 
+ 
+
+ 5. TABELLA RIASSUNTIVA 
+ 
+
+ Premessa 
+ 
+
+ Il presente allegato fornisce le indicazioni al gestore per lo sviluppo dei parametri essenziali di un sistema di gestione della sicurezza per la prevenzione degli incidenti rilevanti (SGS-PIR) in accordo con quanto definito all'art. 14 comma 5 e nell'allegato 3 del presente decreto. 
+ 
+
+ 1. Politica di prevenzione degli incidenti rilevanti 
+ 
+
+ 1.1. Documento sulla politica di prevenzione 
+ 
+
+ 1.1.1. Il gestore deve redigere il documento sulla politica di prevenzione degli incidenti rilevanti, di seguito indicato come "Documento", indicando gli obiettivi che intende perseguire nel campo della prevenzione e del controllo degli incidenti rilevanti, per la salvaguardia della salute umana, dell'ambiente e dei beni, e che costituiscono, nel loro insieme, la politica di prevenzione degli incidenti rilevanti (PPIR) del gestore in materia. 
+ 
+
+ 1.1.2. Il gestore deve indicare nel Documento i principi generali su cui intende basare la politica di cui al punto 1.1.1., indicando, tra l'altro, eventuali adesioni volontarie a normative tecniche, regolamenti, accordi e iniziative, non richiesti da norme cogenti. 
+ 
+
+ 1.1.3. Il gestore deve riportare nel Documento il proprio impegno a realizzare, adottare, nonchè a mantenere e ricercare il miglioramento continuo1 del proprio sistema di gestione della
+ 
+
+ sicurezza, in attuazione a quanto richiesto dall'art. 14 comma 5 del presente decreto e in attuazione della politica definita ai punti 1.1.1 e 1.1.2. 
+ 
+
+ 1.1.4. Il gestore deve riportare nel Documento l'articolazione del sistema di gestione della sicurezza che intende adottare, con l'indicazione dei principi e dei criteri a cui intende riferirsi nella sua attuazione ed allegare il programma di attuazione, nel caso di prima applicazione del presente decreto, ovvero di miglioramento dello stesso nel caso dei riesami periodici successivi, ed i relativi tempi. Nella suddetta articolazione deve essere altresì indicata l'elencazione dettagliata e la relativa descrizione delle singole voci che costituiscono il sistema di gestione della sicurezza e, qualora il gestore faccia riferimento a norme o guide tecniche nazionali o internazionali, queste devono essere allegate integralmente o per le parti effettivamente prese in considerazione, ovvero essere disponibili presso lo stabilimento.2 
+ 
+
+ 2. Requisiti generali e struttura del sistema di gestione della sicurezza 
+ 
+
+ 2.1. Requisiti generali 
+ 
+
+ 2.1.1. Il sistema di gestione della sicurezza deve essere attuato dai gestori al fine di assicurare il raggiungimento degli obiettivi generali e dei principi di intervento definiti nella politica di prevenzione degli incidenti rilevanti, come definita nel Documento di cui al punto 1.1, e in particolare: 
+ 
+
+ a. definire e documentare la politica, gli obiettivi e gli impegni da essa stabiliti per la sicurezza; 
+ 
+
+ b. assicurare che tale politica venga compresa, attuata e sostenuta a tutti i livelli aziendali; 
+ 
+
+ c. verificare il conseguimento degli obiettivi e fissare le relative azioni correttive. 
+ 
+
+ 2.1.2. Il gestore nella predisposizione, nell'attuazione e nelle modifiche del sistema di gestione della sicurezza, informa e consulta, ai sensi dell'art. 14 comma 5, il rappresentante dei lavoratori per la sicurezza nell'ambito della definizione e del riesame del documento di politica di cui al punto 1.1. 
+ 
+
+ 2.2. Struttura 
+ 
+
+ 2.2.1. Il sistema di gestione della sicurezza deve essere proporzionato ai pericoli, alle attività industriali e alla complessità dell'organizzazione nello stabilimento ed è basato sulla valutazione dei rischi e deve integrare la parte del sistema di gestione generale che comprende struttura organizzativa, responsabilità, prassi, procedure e risorse. In riferimento ad altre parti del sistema di gestione generale, anche attinenti obiettivi diversi, tra cui la qualità, la sicurezza e la salute sui luoghi di lavoro, la protezione ambientale, il sistema di gestione della sicurezza può richiamare gli elementi in comune, ma deve contenere esplicitamente tutti gli elementi relativi agli aspetti che riguardano specificamente la determinazione e l'attuazione della politica di prevenzione degli incidenti rilevanti. 
+ 
+
+ 2.2.2. Il sistema di gestione della sicurezza deve essere strutturato in modo da definire, per le varie fasi di vita dell'impianto e con riferimento agli elementi definiti al punto 3, come minimo, quanto segue: 
+ 
+
+ a. politica e conduzione aziendale per la sicurezza; 
+ 
+
+ b. organizzazione tecnica, amministrativa e delle risorse umane; 
+ 
+
+ c. pianificazione delle attività interessate, ivi comprese l'assegnazione delle risorse e la documentazione; 
+ 
+
+ d. misura delle prestazioni conseguite in materia di sicurezza a fronte di criteri specificati; 
+ 
+
+ e. verifica e riesame delle prestazioni, ivi incluse le verifiche ispettive (safety audit). 
+ 
+
+ 2.2.3. La struttura generale del sistema di gestione della sicurezza, così come definito al punto 2.2.2, deve rispondere allo stato dell'arte in materia. In particolare, i requisiti stabiliti dalla norma UNI 10617, ovvero, per gli aspetti attinenti alla prevenzione degli incidenti rilevanti, dalle norme della serie OHSAS 18000 o ISO 9000 o da quelle della serie ISO 14000 o dalla versione più aggiornata del regolamento comunitario EMAS (attualmente 1221/2009 o EMAS III) si intendono corrispondere al detto stato dell'arte. 
+ 
+
+ 3. Contenuti tecnici del sistema di gestione della sicurezza 
+ 
+
+ 3.1. Elementi fondamentali 
+ 
+
+ Il sistema di gestione della sicurezza, strutturato così come richiesto nei precedenti punti 2.1 e 2.2, deve farsi carico delle seguenti gestioni, secondo quanto specificato nei punti da 3.2 a 3.8: 
+ 
+
+ a) organizzazione e personale; 
+ 
+
+ b) identificazione e valutazione dei pericoli rilevanti; 
+ 
+
+ c) controllo operativo; 
+ 
+
+ d) modifiche e progettazione; 
+ 
+
+ e) pianificazione di emergenza; 
+ 
+
+ f) controllo delle prestazioni; 
+ 
+
+ g) controllo e revisione. 
+ 
+
+ 3.2. Organizzazione e personale 
+ 
+
+ 3.2.1. Il sistema di gestione della sicurezza, anche attraverso l'allocazione delle risorse necessarie, deve farsi carico della gestione, dell'organizzazione e del personale, al fine di garantire un livello di sicurezza compatibile con la realtà in cui opera lo stabilimento, così come, in particolare, definito nel Documento e richiesto sia dalle norme legislative e dalle regole tecniche, sia dalle valutazioni e determinazioni espresse dagli organi di controllo. Esso deve, inoltre, stabilire gli standard e le norme tecniche a livello aziendale aggiuntivi, necessari a consentire la completa razionalizzazione in materia di prevenzione e di controllo delle prestazioni. 
+ 
+
+ 3.2.2. Il sistema di gestione della sicurezza deve riflettere l'impegno globale all'interno dell'azienda, dall'alta direzione fino agli operatori, e la cultura di sicurezza dell'organizzazione, così come definiti nel Documento, e come appare dall'allocazione di risorse e dall'assegnazione di responsabilità. 
+ 
+
+ 3.2.3. Il sistema di gestione della sicurezza deve individuare le posizioni chiave ad ogni livello dell'organizzazione, definendo univocamente ed esplicitamente ruoli, compiti, responsabilità, autorità e disponibilità di risorse. Esso deve, inoltre, definire le interfacce tra le posizioni chiave, tra queste e l'alta direzione e tutto il personale coinvolto in attività rilevanti ai fini della sicurezza, anche attraverso i rappresentante dei lavoratori per la sicurezza. 
+ 
+
+ 3.2.4. Il sistema di gestione della sicurezza, deve stabilire le misure necessarie per garantire a qualsiasi livello un adeguato grado di competenza e consapevolezza nella gestione dei pericoli di incidenti rilevanti. Pertanto, anche in riferimento alle disposizioni contenute nell'appendice 1 del presente allegato, deve definire i requisiti minimi di formazione, informazione e addestramento per tutto il personale coinvolto in attività rilevanti ai fini della sicurezza, proprio o di terzi, fisso od occasionale, e garantire la disponibilità e l'impiego del relativo equipaggiamento di protezione. Esso deve, inoltre, definire le attività necessarie al raggiungimento e al mantenimento di tali requisiti, anche in termini di qualificazione professionale e di capacità operative; queste devono essere assicurate anche mediante l'idoneità dell'interfaccia tra operatore e impianto. 
+ 
+
+ 3.3. Identificazione e valutazione dei pericoli rilevanti 
+ 
+
+ 3.3.1. Il sistema di gestione della sicurezza deve prevedere le procedure per l'identificazione dei pericoli e la valutazione dei rischi di incidente rilevante derivanti dall'attività normale o anomala comprese, se del caso, le attività subappaltate e l'adozione delle misure per la riduzione del rischio, assicurando la loro corretta applicazione e il mantenimento nel tempo della loro efficacia. 
+ 
+
+ 3.3.2. Le attività di identificazione e valutazione, di cui al punto 3.3.1, devono essere condotte sia in termini di probabilità sia di gravità e documentate nell'ambito di un'analisi di sicurezza espletata secondo lo stato dell'arte, sia per le condizioni normali di esercizio sia per le condizioni anomale e per ogni fase di vita dell'impianto. Per gli stabilimenti soggetti agli obblighi dell'art. 15 del presente decreto, esse devono essere condotte secondo quanto stabilito negli allegati 2 e C. In ogni caso, le attività devono rendere disponibili le informazioni necessarie per la pianificazione dell'emergenza esterna di cui all'art. 21 e per la verifica del rispetto dei requisiti minimi di sicurezza in materia di pianificazione territoriale, di cui all'art. 22 del presente decreto.
+ 
+
+ L'espletamento di tali attività deve permettere la valutazione dell'idoneità delle misure di sicurezza adottate, individuare le possibili aree di miglioramento, fornire i termini di sorgente per la pianificazione di emergenza interna ed esterna e costituire la base per le attività di informazione, formazione e addestramento. 
+ 
+
+ 3.3.3. Il sistema di gestione della sicurezza deve fissare i criteri e requisiti di sicurezza, finalizzati al raggiungimento degli obiettivi generali, così come definiti nel Documento, e degli obiettivi specifici, a fronte dei singoli rischi individuati. Le misure per la riduzione del rischio, di cui al punto 3.3.1, devono essere individuate, realizzate e adottate ai fini del raggiungimento e mantenimento di tali obiettivi. 
+ 
+
+ 3.3.4. Le attività, di cui al punto 3.3.1, devono essere aggiornate periodicamente, in occasione di modifiche ai sensi dell'art. 18 del presente decreto e qualora intervengano nuove conoscenze tecniche in materia di sicurezza, interne o esterne all'organizzazione, anche derivanti dall'esperienza operativa o dall'analisi di incidenti, quasi incidenti e anomalie di funzionamento o dal rilevamento di altri indicatori di invecchiamento 3 di apparecchiature e impianti. 
+ 
+
+ 3.4. Controllo operativo 
+ 
+
+ 3.4.1. Il sistema di gestione della sicurezza deve prevedere la predisposizione, l'adozione e l'aggiornamento di specifiche procedure e istruzioni per il controllo operativo del processo e di tutte le attività dello stabilimento rilevanti ai fini della sicurezza. Le procedure e istruzioni devono riguardare almeno la gestione della documentazione, le procedure operative, le procedure di manutenzione e di ispezione, l'approvvigionamento e le verifiche di preavviamento. 
+ 
+
+ 3.4.2. La gestione della documentazione deve permettere la diffusione, l'aggiornamento e la conservazione di quanto necessario ad assicurare un'appropriata conoscenza del processo, degli impianti e degli aspetti operativi e gestionali, con particolare riguardo all'esercizio e manutenzione, alla gestione delle modifiche di impianto e all'esperienza operativa maturata. Essa deve rispondere, inoltre, alle richieste normative di registrazione e conservazione di determinati documenti di progetto e di esercizio ed essere idonea al controllo delle prestazioni e al riesame della politica e del sistema di gestione. 
+ 
+
+ 3.4.3. Le procedure operative devono riguardare la conduzione e il controllo del funzionamento degli impianti in condizioni normali di esercizio, in condizioni anomale e di emergenza, tenendo in debito conto i fattori umani, al fine di assicurare la funzionalità delle interfacce fra operatori, processo e impianti. Per mantenere la conformità con le reali prestazioni degli impianti, esse devono essere aggiornate in tutte le fasi di vita dell'impianto, dal preavviamento allo smantellamento finale. 
+ 
+
+ 3.4.4. I criteri e le procedure di manutenzione, ispezione e verifica devono essere predisposti in modo da garantire l'affidabilità e disponibilità prevista per ogni parte dell'impianto, rilevante ai fini della sicurezza, in congruenza con quanto assunto a base delle valutazioni di cui al punto 3.3. Devono, inoltre, essere previsti piani di monitoraggio e controllo dei rischi legati all'invecchiamento (corrosione, erosione, fatica, scorrimento viscoso 4 ) di apparecchiature e impianti che possono portare alla
+ 
+
+ perdita di contenimento di sostanze pericolose, comprese le necessarie misure correttive e preventive. Le attività devono essere opportunamente autorizzate e documentate, anche attraverso specifici sistemi di permessi di lavoro e accesso. 
+ 
+
+ 3.4.5. L'approvvigionamento di apparecchiature, materiali e servizi, rilevanti ai fini della sicurezza, deve essere effettuato mediante criteri, procedure e verifiche che garantiscano la rispondenza ai requisiti di sicurezza minimi di legge e in congruenza con quanto assunto a base delle valutazioni di cui al punto 3.3, anche attraverso l'esecuzione di verifiche di preavviamento. 
+ 
+
+ 3.5. Gestione delle modifiche e della progettazione 
+ 
+
+ 3.5.1. Il sistema di gestione della sicurezza deve prevedere l'adozione e l'applicazione di procedure per garantire una corretta gestione delle modifiche degli impianti esistenti e della progettazione degli impianti o parti di impianto nuovi. Qualunque variazione, permanente o temporanea, agli impianti e relativi sistemi o componenti, ai parametri di processo, all'organizzazione o alle procedure deve essere esaminata al fine di stabilirne l'eventuale influenza sulla sicurezza del processo e, in caso affermativo, gestita come modifica. Un limite temporale massimo deve essere fissato per le modifiche temporanee. 
+ 
+
+ 3.5.2. Le modifiche devono essere pianificate e valutate ai fini della sicurezza, assicurando il mantenimento dei criteri e requisiti di sicurezza fissati e il rispetto di quanto previsto in materia dalla normativa vigente e, in particolare, dall'art. 18 del presente del decreto. Le attività di riesame della sicurezza devono essere pianificate e correlate allo sviluppo del progetto della modifica o dell'impianto nuovo in tutte le sue fasi realizzative, dalla progettazione concettuale, alla messa in marcia e collaudo finale. 
+ 
+
+ 3.5.3. Le modifiche devono essere soggette a meccanismi di approvazione, subordinati all'esito di procedure di controllo degli interventi realizzati, e documentate, anche in riferimento al riesame della progettazione e delle valutazioni di sicurezza, all'aggiornamento della documentazione e al riesame dei fabbisogni formativi e di addestramento del personale coinvolto a qualunque titolo dalla modifica apportata. 
+ 
+
+ 3.6. Pianificazione di emergenza 
+ 
+
+ 3.6.1. Il sistema di gestione della sicurezza, in relazione alla possibilità di accadimento di un incidente rilevante, deve assicurare la gestione dell'emergenza interna, in termini di: 
+ 
+
+ a) contenimento e controllo dell'incidente al fine di rendere minimi gli effetti e limitazione dei danni alla salute umana, all'ambiente e ai beni; 
+ 
+
+ b) messa in opera delle misure necessarie per la protezione degli addetti e dell'ambiente e dagli effetti dell'incidente rilevante; 
+ 
+
+ c) comunicazione delle necessarie informazioni alla popolazione, ai servizi di emergenza ed alle autorità locali competenti; 
+ 
+
+ d) provvedimenti che consentano l'agibilità del sito e dell'ambiente ai fini degli interventi dopo l'incidente rilevante e del successivo ripristino. 
+ 
+
+ 3.6.2. Le misure di protezione e di intervento per controllare e contenere le conseguenze di un incidente devono essere individuate sulla base delle informazioni e dei risultati delle analisi dei termini di sorgente e degli scenari incidentali, cosi come previste nelle attività di valutazione dei rischi, di cui al punto 3.3. A tal fine, devono essere valutate le conseguenze dei possibili incidenti rilevanti, sia sugli impianti, sia sul personale, sulla popolazione e sull'ambiente, per individuare gli elementi che consentano l'elaborazione del piano di emergenza, sia interna, sia esterna. 
+ 
+
+ 3.6.3. L'insieme degli elementi attinenti alle misure di protezione e di intervento a seguito di possibili situazioni di emergenza e di incidenti rilevanti deve essere specificamente pianificato (Piano di emergenza interna), in modo da integrarsi, in particolare, con le parti relative alla sicurezza e salute sui luoghi di lavoro e alla protezione dell'ambiente. Per gli stabilimenti di soglia superiore, il Piano di emergenza interna è predisposto, sperimentato e revisionato secondo le disposizioni dell'art. 20 del presente decreto. 
+ 
+
+ 3.6.4. Le procedure operative di emergenza, contenute nel Piano di emergenza interna, devono comprendere le descrizioni dettagliate delle misure e dei dispositivi per la limitazione delle conseguenze di un incidente rilevante, la dotazione dell'equipaggiamento di protezione individuale, nonchè delle apparecchiature di sicurezza, delle risorse disponibili e dei sistemi di allarme. Esse devono, inoltre, individuare il personale preposto all'attuazione delle misure stesse, evidenziandone i diversi ruoli e responsabilità in merito al trattamento dell'emergenza nelle sue varie fasi di allerta, allarme, intervento, evacuazione, ripristino, relazioni esterne e supporto all'attuazione delle misure adottate all'esterno. 
+ 
+
+ 3.6.5. Il Piano di emergenza interna, oltre alle attività di informazione, formazione e addestramento dei lavoratori e del personale presente in stabilimento, svolte nelle modalità previste dall'appendice 1 del presente allegato, deve prevedere riesami ed esercitazioni, generali o specifici, periodici o a fronte di modifiche intercorse. 
+ 
+
+ 3.7. Controllo delle prestazioni 
+ 
+
+ 3.7.1. Il sistema di gestione della sicurezza deve assicurare la verifica del conseguimento degli obiettivi generali indicati nel Documento e di quelli specifici, a base delle valutazioni di sicurezza, di cui al punto 3.3, e la valutazione costante delle prestazioni, con riferimento ai criteri e requisiti di sicurezza fissati. Il riscontro di eventuali deviazioni deve portare all'individuazione e all'adozione delle necessarie azioni correttive, la cui applicazione ed efficacia devono essere, a loro volta, oggetto di verifica e riesame. 
+ 
+
+ 3.7.2. Il controllo delle prestazioni deve essere effettuato, in termini continuativi, mediante riscontri sull'esercizio corrente degli impianti e basato, mediante apposite procedure, almeno su: 
+ 
+
+ a. valutazione degli incidenti, quasi incidenti e anomalie di funzionamento occorse nello stabilimento o in impianti similari e delle eventuali conseguenti azioni correttive; 
+ 
+
+ b. esiti di prove e ispezioni dei componenti o sistemi d'impianto critici ai fini della sicurezza; 
+ 
+
+ c. valutazione di eventuali indicatori e del loro andamento, anche a fronte dei traguardi fissati5 ; 
+ 
+
+ d. valutazione dell'esperienza operativa acquisita, propria o in situazioni similari; 
+ 
+
+ e. verifica del mantenimento della funzionalità dell'organizzazione e dei requisiti di qualificazione professionale e capacità operativa degli addetti. 
+ 
+
+ 3.8. Controllo e revisione 
+ 
+
+ 3.8.1. Il sistema di gestione della sicurezza deve prevedere l'adozione e l'applicazione di procedure relative alla valutazione periodica e sistematica della politica di prevenzione degli incidenti rilevanti e dell'efficacia e adeguatezza del sistema di gestione della sicurezza, in relazione agli obiettivi prefissati nel Documento, alle disposizioni di legge, a riferimenti e prassi accettate. 
+ 
+
+ 3.8.2. La valutazione periodica, documentata e sistematica, di cui al punto 3.8.1, deve essere effettuata dal gestore, anche mediante verifiche ispettive (safety audit), con verificatori interni e/o esterni, ai fini di accertare: 
+ 
+
+ a. l'idoneità del sistema di gestione della sicurezza e della sua applicazione, in termini di struttura e di contenuti; 
+ 
+
+ b. il mantenimento dei criteri e requisiti di sicurezza di impianti e processi; 
+ 
+
+ c. la conformità a leggi, norme, politica di sicurezza, standard e prassi; 
+ 
+
+ d. la necessità di azioni correttive e modalità di attuazione. 
+ 
+
+ 3.8.3. Le azioni correttive ritenute necessarie nell'ambito delle valutazioni, di cui al punto 3.8.2, a seguito di carenze riconosciute nella politica di sicurezza o nel sistema di gestione della sicurezza, devono essere attuate in modo pianificato, documentato e controllato. 
+ 
+
+ 4. Grado di approfondimento 
+ 
+
+ 4.1. I contenuti tecnici del sistema di gestione della sicurezza, così come definiti nei punti da 3.2 a 3.8, devono essere conformi allo stato dell'arte in materia, ed essere sviluppati con un grado di dettaglio delle singole problematiche corrispondente all'effettiva pericolosità dello stabilimento, così come indicato, tra l'altro, dall'assoggettabilità o meno all'art. 15 del presente decreto e alla complessità dell'organizzazione, dal numero di addetti e dalla presenza o meno di lavorazioni di processo. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ----------- 
+ 
+
+ 1 Dalla norma UNI 10617:2012-miglioramento continuo: Processo di
+ 
+
+ accrescimento del SGS-PIR per ottenere miglioramenti della prestazione della sicurezza complessiva, coerentemente con la politica di prevenzione degli incidenti rilevanti dell'organizzazione. 
+ 
+
+ 2 Esempio di struttura indice del documento della politica di
+ 
+
+ prevenzione degli incidenti rilevanti: 
+ 
+
+ 1. Introduzione 
+ 
+
+ 2. Definizione degli Obiettivi generali e specifici del SGS-PIR 
+ 
+
+ 3. L'integrazione con il sistema di gestione aziendale e con gli altri sistemi di gestione presenti 
+ 
+
+ 4. Principi generali e Norme di riferimento 
+ 
+
+ 5. Sistema di gestione della sicurezza 
+ 
+
+ 5.1 Requisiti del SGS-PIR 
+ 
+
+ 5.2 Struttura del SGS-PIR (politica, organizzazione, pianificazione delle attività, ecc) 
+ 
+
+ 5.3 Articolazione del SGS-PIR (descrizione sintetica di ognuno degli elementi SGS-PIR: organizzazione e personale, identificazione e valutazione dei pericoli rilevanti, ecc.) 
+ 
+
+ 6. Programma di attuazione/miglioramento 
+ 
+
+ 3 "L'invecchiamento non è connesso all'età dell'apparecchiatura,
+ 
+
+ bensì alle modifiche che la stessa ha subito nel tempo, in termini di grado di deterioramento e/o di danno subito. Tali fattori comportano una maggiore probabilità che si verifichino guasti nel tempo di vita (di servizio) dell'apparecchiatura stessa, ma non sono necessariamente associati ad esso. Nel caso di apparecchiature o impianti l'invecchiamento può comportare un significativo deterioramento e/o danno rispetto alle sue condizioni iniziali, che può comprometterne la funzionalità, disponibilità, affidabilità e sicurezza" ["Plant ageing, Management of equipment containing hazardous fluids or pressure", HSE Research Report RR509, HSE Books, 2006] 
+ 
+
+ 4 Deformazione di un materiale sottoposto a sforzo costante che si
+ 
+
+ verifica nei materiali mantenuti per lunghi periodi ad alta temperatura, che avviene tipicamente su apparecchi quali reattori, forni industriali, generatori di vapore, ecc. 
+ 
+
+ 5 L'individuazione di indicatori di prestazione realistici e
+ 
+
+ misurabili, come la loro costante valutazione ed aggiornamento sono essenziali per il SGS-PIR. Occorre tenere sempre presente che gli indicatori di prestazione devono essere chiaramente correlati alla possibilità di verificare l'efficienza ed efficacia del SGS-PIR adottato e devono essere definiti in modo da garantire il confronto tra gli obiettivi da raggiungere e i risultati ottenuti. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ APPENDICE 1 - ATTIVITà DI INFORMAZIONE, FORMAZIONE E ADDESTRAMENTO E ALL'EQUIPAGGIAMENTO DEL PERSONALE CHE LAVORA IN STABILIMENTO 
+ 
+
+ 
+ 
+
+ Scopo della presente appendice è quello di indicare ai gestori degli stabilimenti assoggettati al presente decreto come ottemperare in maniera organica e programmata agli obblighi di informazione, formazione, addestramento ed equipaggiamento, ai fini della sicurezza, degli addetti e di coloro che accedono agli stabilimenti, tenendo conto delle disposizioni dettate in materia per la tutela della salute e della sicurezza dei lavoratori sul luogo di lavoro dal decreto legislativo n. 81/2008 "Attuazione dell'articolo 1 della legge 3 agosto 2007, n. 123, in materia di tutela della salute e della sicurezza nei luoghi di lavoro" e dal decreto del Ministero dell'interno del 10 marzo 1998 "Criteri generali di sicurezza antincendio e per la gestione dell'emergenza nei luoghi di lavoro".
+ 
+
+ Essi sono pertanto finalizzati a completare le misure ivi previste, senza interferenze e duplicazioni, relativamente agli aspetti connessi ai rischi di incidenti rilevanti quali: 
+ 
+
+ • le cause dalle quali potrebbero avere origine incidenti
+ 
+
+ suscettibili di costituire un pericolo grave, immediato o differito, per l'uomo, all'interno o all'esterno dello stabilimento, e per l'ambiente, in conseguenza delle sostanze pericolose appartenenti alle categorie individuate nell'allegato 1; 
+ 
+
+ • le misure di prevenzione e protezione adottate per il
+ 
+
+ controllo dei pericoli di incidente rilevante; 
+ 
+
+ • i comportamenti da adottare con riferimento alle analisi e
+ 
+
+ valutazioni di sicurezza effettuate, e, qualora si tratti di una attività soggetta agli obblighi di cui all'art. 15 del presente decreto, agli scenari incidentali previsti nei Rapporti di sicurezza, nelle conclusioni delle relative istruttorie e nei Piani di emergenza interna ed esterna. 
+ 
+
+ Le modalità di informazione, addestramento ed equipaggiamento di coloro che lavorano nelle attività industriali a rischio di incidente rilevante devono essere individuate dal gestore nell'ambito del proprio sistema di gestione della sicurezza, attuato ai sensi dell'art. 14 del presente decreto e secondo le specificazioni contenute negli allegati 3 e B, e poste in atto mediante apposite procedure scritte, previa consultazione con i rappresentanti dei lavoratori per la sicurezza. Tali procedure devono, in particolare, prevedere la designazione di personale adeguatamente informato, qualificato e preparato, nonchè l'approntamento e la gestione di mezzi idonei alla protezione del personale in caso di incidente rilevante. 
+ 
+
+ L'evidenza documentale sulle attività svolte, infine, mira a mettere in grado lo stesso gestore di fornire dimostrazione del rispetto della programmazione e dei requisiti richiesti dalla presente appendice, in occasione delle ispezioni degli organi preposti. 
+ 
+
+ Ai sensi della presente appendice, si intende per: 
+ 
+
+ a) personale che lavora nello stabilimento: persona che, indipendentemente dalla tipologia contrattuale, svolge un'attività lavorativa nell'ambito dell'organizzazione del datore di lavoro pubblico o privato, con o senza retribuzione, anche al solo fine di apprendere un mestiere, un'arte o una professione, all'interno dello stabilimento. Al lavoratore così definito è equiparato il personale alle dipendenze di terzi o autonomo preposto, anche occasionalmente all'esercizio, alla manutenzione, ai servizi generali e/o agli interventi d'emergenza e/o ad operazioni connesse a tali attività o che accede allo stabilimento per qualsiasi altro motivo di lavoro; 
+ 
+
+ b) istruttore: personale interno, alle dipendenze di terzi o lavoratore autonomo, qualificato alla formazione e all'addestramento dei lavoratori, selezionato dal gestore; 
+ 
+
+ c) visitatore: persona diversa da quelle di cui alle lettere a) e b), che accede occasionalmente allo stabilimento a qualunque titolo; 
+ 
+
+ d) informazione: complesso delle attività dirette a fornire conoscenze utili alla identificazione, alla riduzione e alla gestione dei rischi di incidente rilevante (dal decreto legislativo n. 81/2008 e s.m.i.); 
+ 
+
+ e) formazione: processo educativo attraverso il quale trasferire ai lavoratori ed agli altri soggetti del sistema di gestione della sicurezza conoscenze e procedure utili all'acquisizione di competenze per lo svolgimento in sicurezza dei rispettivi compiti in azienda e alla identificazione, alla riduzione e alla gestione dei rischi di incidente rilevante (dal decreto legislativo n. 81/2008 e s.m.i.); 
+ 
+
+ f) addestramento: complesso delle attività dirette a fare apprendere ai lavoratori l'uso corretto di attrezzature, macchine, impianti, sostanze, dispositivi, anche di protezione individuale e collettiva, le procedure di lavoro, con particolare riferimento alle procedure di sicurezza e di emergenza previste dal SGS (dal decreto legislativo n. 81/2008 e s.m.i.); 
+ 
+
+ g) Rappresentante dei lavoratori per la sicurezza o RLS: la persona di cui all'art. 2, comma 1, lettera i) del decreto legislativo n. 81/2008 e s.m.i. 
+ 
+
+ 1. Informazione 
+ 
+
+ 1.1. Il gestore deve informare ciascun lavoratore presente in stabilimento sui rischi di incidente rilevante e sulle misure atte a prevenirli o limitarne le conseguenze per la salute umana e per l'ambiente. L'informazione deve basarsi sulle risultanze delle analisi e valutazioni di sicurezza effettuate dal gestore nell'ambito del proprio sistema di gestione della sicurezza. 
+ 
+
+ 1.2. Il gestore deve assicurarsi che l'informazione di cui al punto 1.1 sia fornita in modo comprensibile ed esaustivo a ciascun lavoratore, anche con riguardo alle conoscenze linguistiche e/o ad eventuali specifiche esigenze, ricorrendo alle forme di comunicazione più adeguate (ad esempio: consegna diretta al personale, predisposizione di spazi specifici sul sito intranet aziendale, esposizione nelle bacheche dei reparti e uffici, trasmissione via e-mail con conferma di lettura). In particolare, il gestore deve distribuire ai lavoratori almeno: 
+ 
+
+ a. le sezioni del Modulo di cui all'allegato 5, previste dall'art. 23 del presente decreto; 
+ 
+
+ b. le schede di dati di sicurezza delle sostanze e miscele pericolose, di cui all'art. 31 del Regolamento CE n.1907/2006 o REACH, così come modificato dal regolamento CEE 453/2010, detenute o previste; 
+ 
+
+ c. un estratto dei risultati delle analisi e valutazioni di sicurezza di cui al punto 1.1; 
+ 
+
+ d. un estratto del Piano di emergenza interna, differenziato secondo la funzione, la posizione e i compiti specifici affidati al singolo lavoratore nel corso di un'eventuale emergenza, integrato con gli aspetti di coordinamento degli eventuali interventi richiesti al lavoratore a seguito dell'attivazione del piano di emergenza esterna. 
+ 
+
+ 1.3. Il gestore è tenuto ad organizzare, almeno ogni tre mesi per gli stabilimenti di soglia inferiore e superiore, ed ogni volta che intervengano modifiche all'attività, incontri con i lavoratori al fine di: 
+ 
+
+ a. illustrare in modo adeguato a ciascun lavoratore le informazioni di cui al punto 1.1. e la documentazione di cui al punto 1.2; 
+ 
+
+ b. verificare che ciascun lavoratore abbia compreso adeguatamente ed esaustivamente il significato e l'importanza delle informazioni fornite e della documentazione distribuita; 
+ 
+
+ c. identificare l'eventuale esigenza di ulteriori forme di comunicazione; 
+ 
+
+ d. rispondere ad eventuali quesiti e acquisire, per successiva valutazione, i consigli e le informazioni fornite dagli stessi lavoratori o dai loro rappresentanti per la sicurezza. 
+ 
+
+ Il gestore deve produrre e conservare evidenza documentale degli incontri effettuati, ivi compreso il riscontro degli esiti delle verifiche di apprendimento, anche al fine di fornire dimostrazione dell'attività svolta agli organi preposti alle ispezioni. 
+ 
+
+ 1.4. Il gestore deve aggiornare l'informazione e, se necessario, la documentazione, ogni volta che subentrino nuove conoscenze tecniche in materia o intervengano modifiche, dietro richiesta motivata da parte dei rappresentanti dei lavoratori per la sicurezza, sulla base degli esiti delle ispezioni di cui all'art. 27 del presente decreto, sulla base delle conclusioni dell'istruttoria di cui all'art. 15, nonchè del Piano di emergenza esterna di cui all'art. 21 e dell'esperienza operativa, ovvero dell'analisi degli incidenti, quasi incidenti ed anomalie occorsi nello stabilimento od in impianti similari. 
+ 
+
+ 1.5. Il gestore deve informare i visitatori occasionali degli aspetti essenziali del Piano di emergenza interna, prima che questi siano ammessi all'interno dello stabilimento. Qualora il visitatore venga costantemente accompagnato all'interno dello stabilimento da una persona dedicata, l'informazione relativa al Piano di emergenza interna potrà eventualmente limitarsi alle vie di fuga e ai punti di raccolta. In tutti i casi, ai visitatori occasionali deve essere consegnata o resa disponibile per la consultazione, copia delle informazioni previste dall'art. 23 e contenute nelle sezioni del Modulo di cui all'allegato 5 del presente decreto. 
+ 
+
+ 1.6. Il gestore deve inoltre rendere disponibile, presso i locali di accesso allo stabilimento, e presso i punti critici dello stabilimento che lo stesso gestore provvederà a individuare, un'informazione grafico-visiva, realizzata con i mezzi ritenuti più idonei, relativa ai nominativi dei responsabili o coordinatori dell'emergenza e alle modalità con cui segnalare l'insorgere di una situazione di emergenza, all'ubicazione planimetrica dei punti di raccolta e delle vie di fuga, nonchè all'identificazione dei segnali di allarme e di cessato allarme e copia delle sezioni del Modulo di cui all'allegato 5, previste dall'art. 23 del presente decreto. 
+ 
+
+ 1.7. Il gestore, attraverso il rispetto delle scadenze periodiche fissate per l'espletamento delle attività di informazione, deve mirare ad assicurare continuità all'impegno in questo campo. Tale continuità deve intendersi come progressivo svolgimento di programmi a lungo termine nell'ambito del sistema di gestione della sicurezza e non deve essere limitata ad una ripetizione ciclica di interventi. 
+ 
+
+ 1.8. Per i lavoratori dipendenti da terzi, il datore di lavoro/appaltatore fornisce le informazioni di cui al punto 1.2 ed organizza le riunioni di cui al punto 1.3, fermo restando l'obbligo del gestore/committente di assicurarsi che tali attività siano effettivamente svolte. 
+ 
+
+ 2. Formazione e addestramento 
+ 
+
+ 2.1. Il gestore deve identificare i parametri che incidono sulla sicurezza individuale e collettiva ed individuare conseguentemente il livello di competenza, esperienza e addestramento necessari al fine di assicurare un'adeguata capacità operativa del personale. Il gestore è tenuto ad assicurarsi che tutto il personale coinvolto nella gestione, nell'esercizio e nella manutenzione degli impianti o depositi possieda la necessaria cognizione sulla implicazione della propria attività sulla sicurezza e sulla prevenzione degli incidenti rilevanti. 
+ 
+
+ 2.2. Ai fini di cui al punto 2.1, il gestore deve assicurare che ciascun lavoratore sia adeguatamente formato e addestrato su quanto segue: 
+ 
+
+ a. contenuti delle analisi e valutazioni di sicurezza, per quanto di pertinenza del singolo lavoratore, effettuate dal gestore nell'ambito del proprio sistema di gestione della sicurezza ovvero incluse nel rapporto di sicurezza; 
+ 
+
+ b. contenuti generali del Piano di emergenza interna e dettagli specifici su quanto di pertinenza del singolo lavoratore, anche per il coordinamento con gli eventuali interventi richiesti al lavoratore stesso a seguito dell'attivazione del Piano di emergenza esterna; 
+ 
+
+ c. uso delle attrezzature di sicurezza e dei dispositivi di protezione individuale e collettiva; 
+ 
+
+ d. procedure operative e di manutenzione degli impianti o depositi sia in condizioni normali e di anomalo esercizio, sia in condizioni di emergenza; 
+ 
+
+ e. benefici conseguibili attraverso la rigorosa applicazione delle misure e delle procedure di sicurezza e prevenzione, con particolare riguardo alla necessità di una tempestiva segnalazione dell'insorgenza di situazioni potenzialmente pericolose; 
+ 
+
+ f. specifici ruoli e responsabilità di ognuno nel garantire l'aderenza alle normative di sicurezza e alla politica di prevenzione degli incidenti rilevanti; 
+ 
+
+ g. possibili conseguenze di inosservanze e deviazioni dalle procedure di sicurezza; 
+ 
+
+ h. ogni altro comportamento utile ai fini di prevenire gli incidenti rilevanti e limitarne le conseguenze per l'uomo e per l'ambiente. 
+ 
+
+ 2.3. Il gestore è tenuto a realizzare quanto previsto ai punti 2.1 e 2.2 mediante la formazione e l'addestramento di base dei lavoratori in occasione dell'assunzione, del trasferimento o del cambiamento di mansione, dell'introduzione di modifiche. A tal fine il gestore deve assicurare: 
+ 
+
+ a. la selezione di adeguati programmi di formazione, esercitazione e addestramento; 
+ 
+
+ b. la formazione e la qualificazione degli istruttori; 
+ 
+
+ c. la messa in atto di sistemi di verifica interni del raggiungimento degli obiettivi di formazione e addestramento, con particolare riferimento a: 
+ 
+
+ - valutazione delle qualificazioni; 
+ 
+
+ - valutazione dell'efficacia dell'addestramento; 
+ 
+
+ - gestione degli archivi e della documentazione; 
+ 
+
+ - valutazione delle prestazioni attuali e della necessità di corsi di formazione. 
+ 
+
+ 2.4. L'addestramento (ad es. utilizzo dei DPI nella normale attività, gestione delle situazioni operative anomale, comportamenti in emergenza) deve essere effettuato anche attraverso esercitazioni pratiche e con l'affiancamento di istruttori qualificati e deve essere ripetuto periodicamente sulla base della valutazione delle prestazioni attuali e, comunque, con periodicità almeno trimestrale.
+ 
+
+ Le esercitazioni relative alla messa in atto del Piano di emergenza interna devono essere effettuate almeno ogni sei mesi e pianificate in modo che garantiscano l'avvicendarsi di tutti gli operatori interessati. Le esercitazioni devono prevedere anche prove di evacuazione, in relazione agli scenari incidentali considerati. 
+ 
+
+ 2.5. Qualora vengano apportate modifiche agli impianti o depositi o alla loro gestione, l'addestramento deve essere ripetuto con specifico riferimento alle modifiche effettuate e deve essere completato prima dell'entrata in funzione delle modifiche stesse previa consultazione con i rappresentanti dei lavoratori per la sicurezza. 
+ 
+
+ 2.6. Il gestore deve mantenere l'evidenza documentale delle attività di formazione e addestramento e delle prove di esercitazione. 
+ 
+
+ 2.7. Il gestore, attraverso il rispetto delle scadenze periodiche fissate per l'espletamento delle attività di formazione e addestramento, assicura continuità all'impegno in questo campo. Tale continuità deve intendersi come progressivo svolgimento di programmi a lungo termine nell'ambito del sistema di gestione della sicurezza e non deve essere limitata ad una ripetizione ciclica degli stessi argomenti e di esercitazioni di emergenza svolte sugli stessi scenari. 
+ 
+
+ 2.8. Per i lavoratori dipendenti da terzi, ivi compresi i lavoratori di imprese subappaltatrici, gli obblighi legati alla formazione ed all'addestramento devono essere espletati dai relativi datori di lavoro, fermi restando gli obblighi di coordinamento tra gestore/committente e datore di lavoro/appaltatore e quello del primo di assicurarsi che tali attività siano effettivamente svolte. In relazione a quanto sopra il gestore dovrà: 
+ 
+
+ a. acquisire le evidenze documentali sulle modalità di formazione ed addestramento dei lavoratori terzi attuate da parte del datore di lavoro/appaltatore; 
+ 
+
+ b. stabilire procedure interne per verificare l'adeguatezza della documentazione utilizzata e l'efficacia delle attività di formazione ed addestramento dei lavoratori terzi effettuate, anche attraverso l'acquisizione della documentazione al riguardo fornita dal datore di lavoro/appaltatore. 
+ 
+
+ 3. Equipaggiamento, sistemi e dispositivi di protezione 
+ 
+
+ 3.1. Fermi restando gli obblighi di cui all'art. 18 del decreto legislativo n. 81/2008, il gestore deve provvedere all'equipaggiamento per la protezione individuale e agli apprestamenti per quella collettiva, tenendo conto anche degli scenari incidentali ipotizzati nell'analisi e valutazione del rischio di incidente rilevante, ovvero della pianificazione d'emergenza e delle esigenze operative e di intervento a cui i singoli lavoratori presenti in stabilimento devono ottemperare. 
+ 
+
+ 3.2. L'equipaggiamento di protezione del personale deve essere assegnato dal gestore almeno al personale operativo e di intervento previsto dai Piani di emergenza interna ed esterna. 
+ 
+
+ 3.3. L'uso dell'equipaggiamento di protezione individuale quali, a titolo esemplificativo, ma non esaustivo, indumenti protettivi, facciali, maschere antigas, autorespiratori, rivelatori portatili, deve essere soggetto a specifiche procedure che, tra l'altro, distinguano l'equipaggiamento che deve essere costantemente indossato da quello che deve essere portato al seguito durante il lavoro in impianto o deposito e che deve essere ubicato in luoghi predeterminati e facilmente accessibili. Le procedure devono, inoltre, stabilire le responsabilità per l'addestramento del personale, per la verifica del corretto uso dell'equipaggiamento assegnato, la sua conservazione, la sua manutenzione e sostituzione, l'adeguamento all'evoluzione della normativa. 
+ 
+
+ 3.4. I sistemi di protezione collettiva, quali, a titolo esemplificativo, ma non esaustivo, sale controllo, centri di controllo dell'emergenza, punti attrezzati di raccolta del personale, devono essere progettati e realizzati in funzione degli scenari incidentali ipotizzabili e commisurati all'entità delle persone da proteggere. I dispositivi previsti devono essere esplicitamente indicati nel Piano di emergenza interna ed essere tra gli oggetti dell'informazione di cui al punto 1. Specifiche procedure devono stabilire la responsabilità per il corretto uso delle relative attrezzature e per la loro manutenzione. 
+ 
+
+ 4. Organizzazione 
+ 
+
+ 4.1. L'ottemperanza alle presenti disposizioni deve essere garantita dal gestore attraverso l'individuazione delle responsabilità all'interno della propria organizzazione e la definizione di procedure scritte, attuate nell'ambito del sistema di gestione della sicurezza e, comunque, con riferimento ai compiti e responsabilità del Servizio di Prevenzione e Protezione di cui all'art. 31 del decreto legislativo n. 81/2008 e successive modifiche e integrazioni. 
+ 
+
+ 
+ 
+
+ Tabella riassuntiva 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ =====================================================================
+ 
+
+ 
+ | | | Lavoratori | |
+ 
+
+ 
+ | Tipologia |Lavoratori interni | esterni | Visitatori |
+ 
+
+ 
+ +================+===================+================+=============+
+ 
+
+ 
+ | |a) sezioni del Modulo di cui |a) aspetti |
+ 
+
+ 
+ | |all'allegato 5 previste dall'art. |essenziali |
+ 
+
+ 
+ | Informazione |23 del presente decreto; |del PEI; |
+ 
+
+ 
+ | |b) schede di sicurezza delle |b) sezioni |
+ 
+
+ 
+ | |sostanze pericolose detenute o |del Modulo di|
+ 
+
+ 
+ | |previste; |cui |
+ 
+
+ 
+ | |c) estratto dei risultati delle |all'allegato |
+ 
+
+ 
+ | |analisi e valutazioni di sicurezza; |5 previste |
+ 
+
+ 
+ | |d) estratto del PEI, differenziato |dall'art. 23 |
+ 
+
+ 
+ | |per funzione, posizione e compiti |del presente |
+ 
+
+ 
+ | |specifici nel corso di un'eventuale |decreto. |
+ 
+
+ 
+ | |emergenza, integrato con gli aspetti| |
+ 
+
+ 
+ | |di coordinamento degli eventuali | |
+ 
+
+ 
+ | |interventi richiesti a seguito | |
+ 
+
+ 
+ | |dell'attivazione del PEI. | |
+ 
+
+ 
+ +----------------+-------------------+----------------+-------------+
+ 
+
+ 
+ | |a) contenuti delle |Attività | |
+ 
+
+ 
+ | |analisi e |espletata dai | |
+ 
+
+ 
+ | |valutazioni di |relativi datori | |
+ 
+
+ 
+ | |sicurezza, per |di lavoro, il | |
+ 
+
+ 
+ | |quanto di |gestore dovrà: | |
+ 
+
+ 
+ | |pertinenza; |a) acquisire le | |
+ 
+
+ 
+ | |b) contenuti |evidenze | |
+ 
+
+ 
+ | |generali del PEI e |documentali | |
+ 
+
+ 
+ | |dettagli specifici |sulle modalità | |
+ 
+
+ 
+ | |su quanto di |di formazione ed| |
+ 
+
+ 
+ | |pertinenza ed |addestramento | |
+ 
+
+ 
+ | |eventuali |attuate; | |
+ 
+
+ 
+ | |interventi a |b) verificare | |
+ 
+
+ 
+ | |seguito |l'adeguatezza | |
+ 
+
+ 
+ | |dell'attivazione |della | |
+ 
+
+ 
+ | |del PEI; |documentazione | |
+ 
+
+ 
+ | |c) uso delle |utilizzata e | |
+ 
+
+ 
+ | |attrezzature di |l'efficacia | |
+ 
+
+ 
+ | |sicurezza e dei DPI|delle attività | |
+ 
+
+ 
+ | Formazione |collettivi; |di formazione ed| |
+ 
+
+ 
+ | |d) procedure |addestramento. | |
+ 
+
+ 
+ | |operative e di | | |
+ 
+
+ 
+ | |manutenzione sia in| | |
+ 
+
+ 
+ | |condizioni normali | | |
+ 
+
+ 
+ | |o anomale, sia in | | |
+ 
+
+ 
+ | |condizioni di | | |
+ 
+
+ 
+ | |emergenza; | | |
+ 
+
+ 
+ | |e) benefici | | |
+ 
+
+ 
+ | |conseguibili | | |
+ 
+
+ 
+ | |attraverso la | | |
+ 
+
+ 
+ | |rigorosa | | |
+ 
+
+ 
+ | |applicazione delle | | |
+ 
+
+ 
+ | |misure e delle | | |
+ 
+
+ 
+ | |procedure di | | |
+ 
+
+ 
+ | |sicurezza e | | |
+ 
+
+ 
+ | |prevenzione; | | |
+ 
+
+ 
+ | |f) specifici ruoli | | |
+ 
+
+ 
+ | |e responsabilità | | |
+ 
+
+ 
+ | |nel garantire | | |
+ 
+
+ 
+ | |l'aderenza alle | | |
+ 
+
+ 
+ | |normative di | | |
+ 
+
+ 
+ | |sicurezza e alla | | |
+ 
+
+ 
+ | |politica di | | |
+ 
+
+ 
+ | |sicurezza; | | |
+ 
+
+ 
+ | |g) possibili | | |
+ 
+
+ 
+ | |conseguenze di | | |
+ 
+
+ 
+ | |inosservanze e | | |
+ 
+
+ 
+ | |deviazioni dalle | | |
+ 
+
+ 
+ | |procedure di | | |
+ 
+
+ 
+ | |sicurezza; | | |
+ 
+
+ 
+ | |h) ogni altro | | |
+ 
+
+ 
+ | |comportamento utile| | |
+ 
+
+ 
+ | |ai fini di | | |
+ 
+
+ 
+ | |prevenire gli | | |
+ 
+
+ 
+ | |incidenti rilevanti| | |
+ 
+
+ 
+ | |e limitarne le | | |
+ 
+
+ 
+ | |conseguenze per | | |
+ 
+
+ 
+ | |l'uomo e per | | |
+ 
+
+ 
+ | |l'ambiente. | | |
+ 
+
+ 
+ |----------------+-------------------| |-------------|
+ 
+
+ 
+ | |a) esercitazioni | | |
+ 
+
+ 
+ | |pratiche e con | | |
+ 
+
+ 
+ | |l'affiancamento di | | |
+ 
+
+ 
+ | |istruttori | | |
+ 
+
+ 
+ | Addestramento |qualificati; | | |
+ 
+
+ 
+ | |b) esercitazioni | | |
+ 
+
+ 
+ | |relative alla messa| | |
+ 
+
+ 
+ | |in atto del Piano | | |
+ 
+
+ 
+ | |di emergenza | | |
+ 
+
+ 
+ | |interna. | | |
+ 
+
+ 
+ +----------------+-------------------+----------------+-------------+
