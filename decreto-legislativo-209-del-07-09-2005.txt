@@ -352,8 +352,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((Visto il decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, istitutivo dell'IVASS, Istituto per la vigilanza sulle assicurazioni, succeduto all'ISVAP in tutti i poteri, funzioni e competenze;))
+ 
+ 
+ Visto il decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, istitutivo dell'IVASS, Istituto per la vigilanza sulle assicurazioni, succeduto all'ISVAP in tutti i poteri, funzioni e competenze;
 
+ 
+ 
  
 
  
@@ -452,7 +456,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione o retrocessi da un'impresa di riassicurazione; 
+ d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione 
+ ((, anche di un Stato terzo))
+
+ o retrocessi da un'impresa di riassicurazione; 
  
 
  
@@ -483,13 +490,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  g-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
- 1) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 1) "AEAP 
+ ((o EIOPA))
+
+ ": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
  
 
- 2) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "ABE 
+ ((o EBA))
+
+ ": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
  
 
- 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 3) "AESFEM 
+ ((o ESMA))
+
+ ": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  4) "Comitato congiunto": il Comitato congiunto delle Autorità europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
@@ -502,6 +518,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ g-ter) autorità di vigilanza sul gruppo: l'autorità di vigilanza di gruppo determinata ai sensi dell'articolo 207-sexies;
+
+ ))
+
  
 
  
@@ -526,10 +551,35 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ l-bis) collegio delle autorità di vigilanza: una struttura permanente ma flessibile per la cooperazione, il coordinamento e l'agevolazione del processo decisionale nell'ambito della vigilanza del gruppo; 
+ 
+
+ 
+ 
+
+ l-ter) concentrazione dei rischi: tutte le esposizioni al rischio che comportano perdite potenziali sufficientemente ampie da mettere a repentaglio la solvibilità o la posizione finanziaria dell'impresa di assicurazione o di riassicurazione;
+
+ ))
+
+ 
+
+ 
  m) CONSAP: la Concessionaria servizi assicurativi pubblici S.p.A.; 
  
 
  
+ 
+
+ 
+ ((
+
+ m-bis) controparte centrale autorizzata: una controparte centrale che ha ottenuto un'autorizzazione conformemente all'articolo 14 del regolamento (UE) n. 648/2012 o che è stata riconosciuta in base all'articolo 25 dello stesso Regolamento;
+
+ ))
+
  
 
  
@@ -540,6 +590,36 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ n-bis) distribuzione di probabilità prevista: funzione matematica che assegna ad un elenco esaustivo di eventi futuri mutualmente esclusivi una probabilità di realizzazione; 
+ 
+
+ 
+ 
+
+ 
+ n-ter) &laquo;ECAI&raquo; o &laquo;agenzia esterna di valutazione del merito di credito&raquo;: un'agenzia di rating creditizio registrata o certificata in conformità del regolamento (CE) n. 1060/2009 del Parlamento europeo o del Consiglio o una banca centrale che emette rating creditizi esenti dall'applicazione di tale regolamento; 
+ 
+
+ 
+ 
+
+ 
+ n-quater) effetti di diversificazione: la riduzione dell'esposizione al rischio dell'impresa di assicurazione o di riassicurazione o del gruppo dovuta alla diversificazione della loro attività, derivante dal fatto che il risultato sfavorevole di un rischio può essere compensato dal risultato più favorevole di un altro, quando tali rischi non siano pienamente correlati; 
+ 
+
+ 
+ 
+
+ n-quinquies) esternalizzazione: l'accordo concluso tra un'impresa di assicurazione o di riassicurazione e un fornitore di servizi, anche se non autorizzato all'esercizio dell'attività assicurativa o riassicurativa, in base al quale il fornitore di servizi esegue una procedura, un servizio o un'attività, direttamente o tramite sub esternalizzazione, che sarebbero altrimenti realizzati dall'impresa di assicurazione o di riassicurazione stessa;
+
+ ))
+
  
 
  
@@ -564,6 +644,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((q-bis) funzione: in un sistema di governo societario, la capacità interna all'impresa di assicurazione o di riassicurazione di svolgere compiti concreti; un sistema di governo societario comprende la funzione di gestione del rischio, la funzione di verifica della conformità, la revisione interna e la funzione attuariale))
+
+ 
+
+ 
  r) grandi rischi: si intendono per grandi rischi quelli rientranti nei rami di cui all'articolo 2, comma 3, qui di seguito indicati: 
  
 
@@ -577,6 +662,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ r-bis) gruppo: un gruppo 
+ 
+
+ 1) composto da una società partecipante o controllante, dalle sue società controllate o da altre entità in cui la società partecipante o controllante o le sue società controllate detengono una partecipazione, nonchè da società legate da direzione unitaria ai sensi dell'articolo 96; ovvero 
+ 
+
+ 2) basato sull'instaurazione, contrattuale o di altro tipo, di rapporti finanziari solidi e sostenibili tra tali imprese che può includere anche mutue assicuratrici o altre società di tipo mutualistico, a condizione che: 
+ 
+
+ 2.1) una delle imprese eserciti effettivamente, tramite un coordinamento centralizzato, un'influenza dominante sulle decisioni, incluse le decisioni finanziarie, di tutte le imprese che fanno parte del gruppo; e 
+ 
+
+ 2.2) la costituzione e lo scioglimento di tali relazioni ai fini del titolo XV siano soggetti all'approvazione preventiva dell'autorità di vigilanza del gruppo; laddove l'impresa che esegue il coordinamento centralizzato è considerata l'impresa controllante o partecipante e le altre imprese sono considerate le imprese controllate o partecipate;
+ 
+
+ ))
+
  
 
  
@@ -601,6 +709,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ u-bis) impresa di assicurazione captive: un'impresa di assicurazione controllata da un'impresa finanziaria, diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o di riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria, il cui scopo è fornire copertura assicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di assicurazione captive;
+
+ ))
+
+ 
+
+ 
  v) impresa di assicurazione comunitaria: la società avente sede legale e amministrazione - centrale in uno Stato membro dell'Unione europea diverso dall'Italia o in uno Stato aderente allo Spazio economico europeo, autorizzata secondo quanto previsto nelle direttive comunitarie sull'assicurazione diretta; 
  
 
@@ -615,36 +732,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista 
- ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
-
- ((...))
-
- ; 
+ aa) impresa di partecipazione assicurativa: una società controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonchè nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis); 
  
 
  
  
 
  
- bb) impresa di partecipazione assicurativa mista 
- ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
-
- : una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista 
- ((ai sensi dell'articolo 1, comma 1, lettera bb-bis) ))
-
- ((...))
-
- , semprechè almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
+ bb) impresa di partecipazione assicurativa mista ai sensi dell'articolo 1, comma 1, lettera bb-bis): una società controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis), semprechè almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
  
 
  
- ((
+ 
 
- bb-bis) impresa di partecipazione finanziaria mista: un'impresa di cui all'articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142;
+ 
+ bb-bis) impresa di partecipazione finanziaria mista: un'impresa di cui all'articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142; 
+ 
 
- ))
-
+ 
  
 
  
@@ -655,10 +760,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 98/78/CE oppure da un'impresa non finanziaria il cui scopo è di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese cui appartiene o del gruppo di cui fa parte l'impresa di riassicurazione captive; 
- 
+ ((
 
- 
+ cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria il cui scopo è di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di riassicurazione captive;
+
+ ))
+
  
 
  
@@ -672,37 +779,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  cc-quater) impresa finanziaria: un'impresa costituita da uno dei seguenti soggetti: 
  
 
- 1) un ente creditizio, un ente finanziario o un'impresa di servizi bancari ausiliari ai sensi dell'articolo 1, punti 5) e 23), della direttiva 2000/12/CE; 
+ 
+ ((1) un ente creditizio, un ente finanziario o una società strumentale di cui all'articolo 4, n. 18), del regolamento (UE) 575/2013;))
+
+ 
  
 
  2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc); 
  
 
- 3) un'impresa di investimento 
- ((...))
-
- ai sensi dell'articolo 
- ((4, n. 2), del regolamento del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013))
-
- ; 
+ 3) un'impresa di investimento ai sensi dell'articolo 4, n. 2), del regolamento del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013; 
  
 
- 4) un'impresa di partecipazione finanziaria mista 
- ((ai sensi dell'articolo 1, comma 1, lettera bb-bis);))
-
- ; 
+ 4) un'impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis); 
  
 
  
  
 
  
- ((
+ dd) ISVAP o IVASS: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo a cui è succeduto l'IVASS, Istituto per la vigilanza sulle assicurazioni, ai sensi dell'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012 n. 135; 
+ 
 
- dd) ISVAP o IVASS: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo a cui è succeduto l'IVASS, Istituto per la vigilanza sulle assicurazioni, ai sensi dell'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012 n. 135.
-
- ))
-
+ 
  
 
  
@@ -720,14 +819,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- gg) margine di solvibilità disponibile: il patrimonio dell'impresa, libero da qualsiasi impegno prevedibile ed al netto degli elementi immateriali; 
+ gg) 
+ ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+ ; 
  
 
  
  
 
  
- hh) margine di solvibilità richiesto: ammontare minimo del patrimonio netto del quale l'impresa dispone costantemente, secondo quanto previsto nelle direttive comunitarie sull'assicurazione diretta; 
+ hh) 
+ ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+ ; 
  
 
  
@@ -741,6 +846,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ ii-bis) misura del rischio: la funzione matematica che assegna un importo monetario ad una data distribuzione di probabilità prevista e cresce monotonicamente con il livello di esposizione al rischio sottostante a tale distribuzione;
+
+ ))
+
+ 
+
+ 
  ll) natante: qualsiasi unità che è destinata alla navigazione marittima, fluviale o lacustre e che è azionata da propulsione meccanica; 
  
 
@@ -748,10 +862,35 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ ll-bis) operazione infragruppo: un'operazione in cui un'impresa di assicurazione o di riassicurazione si affida, direttamente o indirettamente, ad un'altra impresa nell'ambito dello stesso gruppo o ad una persona fisica o giuridica strettamente legata alle imprese nell'ambito di tale gruppo per ottemperare ad un obbligo, contrattuale o meno, e a fini o meno di pagamento;
+
+ ))
+
+ 
+
+ 
  mm) Organismo di indennizzo italiano: l'organismo istituito presso la CONSAP e previsto dall'articolo 296; 
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ mm-bis) partecipazione: la detenzione, diretta o tramite un rapporto di controllo, del 20 per cento o più dei diritti di voto o del capitale di una società, anche per il tramite di società controllate, fiduciarie o per interposta persona o comunque di una percentuale che consente l'esercizio di una influenza notevole sulla gestione di tale società; 
+ 
+
+ 
+ 
+
+ mm-ter) partecipazione qualificata: la detenzione, diretta o indiretta, di almeno il 10 per cento dei diritti di voto o del capitale di un'impresa di assicurazione o di riassicurazione o comunque la partecipazione che consente l'esercizio di un'influenza notevole sulla gestione di tale impresa;
+
+ ))
+
  
 
  
@@ -829,6 +968,37 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ ((vv-bis.1) rischio di credito: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante da oscillazioni del merito di credito di emittenti di titoli, controparti e debitori nei confronti dei quali l'impresa di assicurazione o di riassicurazione è esposta in forma di rischio di inadempimento della controparte, di rischio di spread o di concentrazione del rischio di mercato; 
+ 
+
+ vv-bis.2) rischio di liquidità: il rischio che l'impresa di assicurazione o di riassicurazione non sia in grado di liquidare investimenti ed altre attività per regolare i propri impegni finanziari al momento della relativa scadenza; 
+ 
+
+ vv-bis.3) rischio di mercato: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante, direttamente o indirettamente, da oscillazioni del livello e della volatilità dei prezzi di mercato delle attività, delle passività e degli strumenti finanziari; 
+ 
+
+ vv-bis.4) rischio di sottoscrizione: il rischio di perdita o di variazione sfavorevole del valore delle passività assicurative dovuto ad ipotesi inadeguate in materia di fissazione di prezzi e di costituzione delle riserve tecniche; 
+ 
+
+ vv-bis.5) rischio operativo: il rischio di perdite derivanti dall'inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi esogeni; 
+ 
+
+ vv-bis.6) sistemi di garanzia: sistemi per lo svolgimento, in Italia o all'estero, delle funzioni di salvaguardia della stabilità finanziaria delle imprese, in particolare per la gestione e la risoluzione di situazioni di crisi; 
+ 
+
+ vv-bis.7) società controllante: una società che esercita il controllo ai sensi dell'articolo 72, anche per il tramite di società controllate, fiduciarie o per interposta persona; 
+ 
+
+ vv-bis.8) società controllata: una società sulla quale è esercitato il controllo ai sensi dell'articolo 72, anche per il tramite di società controllate, fiduciarie o per interposta persona; 
+ 
+
+ vv-bis.9) società partecipante: la società che detiene una partecipazione; 
+ 
+
+ vv-bis.10) società partecipata: la società in cui è detenuta una partecipazione;))
+ 
+
+ 
 
  
  vv-ter) società veicolo: qualsiasi impresa, con o senza personalità giuridica, diversa da un'impresa di assicurazione o di riassicurazione, che assume i rischi ceduti da imprese di assicurazione o riassicurazione e che finanzia integralmente la sua esposizione a tali rischi mediante l'emissione di titoli o altri strumenti finanziari per i quali i diritti di rimborso dei detentori sono subordinati agli obblighi di riassicurazione della società veicolo; 
@@ -905,10 +1075,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione ; 
+ ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione; 
  
 
  
+ 
+
+ 
+ ((
+
+ ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi;
+
+ ))
+
  
 
  
@@ -931,10 +1110,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) un legame in base al quale le stesse persone sono sottoposte al controllo del medesimo soggetto, o comunque sono sottoposte a direzione unitaria in virtù di un contratto o di una clausola statutaria, oppure quando gli organi di amministrazione sono composti in maggioranza dalle medesime persone, oppure quando esistono legami importanti e durevoli di riassicurazione; 
  
 
- 4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L'ISVAP, con regolamento, può ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
+ 4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L'
+ ((IVASS))
+
+ , con regolamento, può ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
  
 
  
+ 
+
+ 
+ ((
+
+ iii-bis) tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalità dei rischi ad un terzo;
+
+ ))
+
  
 
  
