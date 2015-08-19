@@ -100,14 +100,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) "ISVAP" indica l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
+ ((
+
+ e) "IVASS" indica l'Istituto per la vigilanza sulle assicurazioni;
+
+ ))
+
  
 
  
- 
+ f) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72))
 
- 
- f) "UIC" indica l'Ufficio italiano dei cambi; 
+ ; 
  
 
  
@@ -142,9 +147,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  h-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
@@ -163,11 +165,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
  
 
- 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010;
+ 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
  
 
- ))
-
+ 
  
 
  
@@ -178,14 +179,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
- 
+ l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. m)
+ ((LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72))
 
- 
- 
-
- 
- m) "Ministro dell'economia e delle finanze" indica il Ministro dell'economia e delle finanze. 
+ . 
  
 
  
@@ -340,6 +337,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((h-bis.1) "istituti di moneta elettronica comunitari": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia;))
+
+ ; 
+ 
+
+ 
  
 
  
@@ -384,18 +387,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h-octies) 'succursale di un istituto di pagamentò: una sede che costituisce parte, sprovvista di personalità giuridica, di un istituto di pagamento e che effettua direttamente, in tutto o in parte, l'attività dell'istituto di pagamento. 
+ h-octies) 'succursale di un istituto di pagamentò: una sede che costituisce parte, sprovvista di personalità giuridica, di un istituto di pagamento e che effettua direttamente, in tutto o in parte, l'attività dell'istituto di pagamento; 
  
 
  
  
 
  
+ ((h-novies) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato))
 
  
 
  
- 3. La Banca d'Italia, può ulteriormente qualificare, in conformità delle deliberazioni del CICR, la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza. 
+
+ 
+
+ 
+ 3. La Banca d'Italia, può ulteriormente qualificare 
+ ((...))
+
+ la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza. 
  
 
  
