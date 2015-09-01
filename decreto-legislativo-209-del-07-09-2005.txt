@@ -457,7 +457,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione 
- ((, anche di un Stato terzo))
+ ((, anche di uno Stato terzo))
 
  o retrocessi da un'impresa di riassicurazione; 
  
@@ -466,7 +466,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) attività in regime di libertà di prestazione di servizi o rischio assunto in regime di libertà di prestazione di servizi: l'attività che un'impresa esercita da uno stabilimento situato nel territorio di uno Stato membro assumendo obbligazioni con contraenti aventi il domicilio, ovvero, se persone giuridiche, la sede in un altro Stato membro o il rischio che un'impresa assume da uno stabilimento situato nel territorio di uno Stato membro diverso da quello in cui è ubicato il rischio; 
+ e) attività in regime di libertà di prestazione di servizi o rischio assunto in regime di libertà di prestazione di servizi: l'attività che un'impresa esercita da uno stabilimento situato nel territorio di uno Stato membro assumendo obbligazioni con contraenti aventi il domicilio, ovvero, se persone giuridiche , la sede in un altro Stato membro o il rischio che un'impresa assume da uno stabilimento situato nel territorio di uno Stato membro diverso da quello in cui è ubicato il rischio; 
  
 
  
@@ -490,22 +490,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  g-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
- 1) "AEAP 
- ((o EIOPA))
-
- ": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 1) "AEAP o EIOPA": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
  
 
- 2) "ABE 
- ((o EBA))
-
- ": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "ABE o EBA": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
  
 
- 3) "AESFEM 
- ((o ESMA))
-
- ": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 3) "AESFEM o ESMA": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  4) "Comitato congiunto": il Comitato congiunto delle Autorità europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
@@ -521,12 +512,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ g-ter) autorità di vigilanza sul gruppo: l'autorità di vigilanza di gruppo determinata ai sensi dell'articolo 207-sexies; 
+ 
 
- g-ter) autorità di vigilanza sul gruppo: l'autorità di vigilanza di gruppo determinata ai sensi dell'articolo 207-sexies;
-
- ))
-
+ 
  
 
  
@@ -551,19 +540,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  l-bis) collegio delle autorità di vigilanza: una struttura permanente ma flessibile per la cooperazione, il coordinamento e l'agevolazione del processo decisionale nell'ambito della vigilanza del gruppo; 
  
 
  
  
 
- l-ter) concentrazione dei rischi: tutte le esposizioni al rischio che comportano perdite potenziali sufficientemente ampie da mettere a repentaglio la solvibilità o la posizione finanziaria dell'impresa di assicurazione o di riassicurazione;
+ 
+ l-ter) concentrazione dei rischi: tutte le esposizioni al rischio che comportano perdite potenziali sufficientemente ampie da mettere a repentaglio la solvibilità o la posizione finanziaria dell'impresa di assicurazione o di riassicurazione; 
+ 
 
- ))
-
+ 
  
 
  
@@ -574,12 +561,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ m-bis) controparte centrale autorizzata: una controparte centrale che ha ottenuto un'autorizzazione conformemente all'articolo 14 del regolamento (UE) n. 648/2012 o che è stata riconosciuta in base all'articolo 25 dello stesso Regolamento; 
+ 
 
- m-bis) controparte centrale autorizzata: una controparte centrale che ha ottenuto un'autorizzazione conformemente all'articolo 14 del regolamento (UE) n. 648/2012 o che è stata riconosciuta in base all'articolo 25 dello stesso Regolamento;
-
- ))
-
+ 
  
 
  
@@ -591,9 +576,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
-
- 
- ((
 
  
  n-bis) distribuzione di probabilità prevista: funzione matematica che assegna ad un elenco esaustivo di eventi futuri mutualmente esclusivi una probabilità di realizzazione; 
@@ -616,10 +598,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- n-quinquies) esternalizzazione: l'accordo concluso tra un'impresa di assicurazione o di riassicurazione e un fornitore di servizi, anche se non autorizzato all'esercizio dell'attività assicurativa o riassicurativa, in base al quale il fornitore di servizi esegue una procedura, un servizio o un'attività, direttamente o tramite sub esternalizzazione, che sarebbero altrimenti realizzati dall'impresa di assicurazione o di riassicurazione stessa;
+ 
+ n-quinquies) esternalizzazione: l'accordo concluso tra un'impresa di assicurazione o di riassicurazione e un fornitore di servizi, anche se non autorizzato all'esercizio dell'attività assicurativa o riassicurativa, in base al quale il fornitore di servizi esegue una procedura, un servizio o un'attività, direttamente o tramite sub esternalizzazione, che sarebbero altrimenti realizzati dall'impresa di assicurazione o di riassicurazione stessa; 
+ 
 
- ))
-
+ 
  
 
  
@@ -644,8 +627,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((q-bis) funzione: in un sistema di governo societario, la capacità interna all'impresa di assicurazione o di riassicurazione di svolgere compiti concreti; un sistema di governo societario comprende la funzione di gestione del rischio, la funzione di verifica della conformità, la revisione interna e la funzione attuariale))
+ q-bis) funzione: in un sistema di governo societario, la capacità interna all'impresa di assicurazione o di riassicurazione di svolgere compiti concreti; un sistema di governo societario comprende la funzione di gestione del rischio, la funzione di verifica della conformità, la revisione interna e la funzione attuariale; 
+ 
 
+ 
  
 
  
@@ -665,9 +650,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  r-bis) gruppo: un gruppo 
  
 
@@ -680,11 +662,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2.1) una delle imprese eserciti effettivamente, tramite un coordinamento centralizzato, un'influenza dominante sulle decisioni, incluse le decisioni finanziarie, di tutte le imprese che fanno parte del gruppo; e 
  
 
- 2.2) la costituzione e lo scioglimento di tali relazioni ai fini del titolo XV siano soggetti all'approvazione preventiva dell'autorità di vigilanza del gruppo; laddove l'impresa che esegue il coordinamento centralizzato è considerata l'impresa controllante o partecipante e le altre imprese sono considerate le imprese controllate o partecipate;
+ 2.2) la costituzione e lo scioglimento di tali relazioni ai fini del titolo XV siano soggetti all'approvazione preventiva dell'autorità di vigilanza del gruppo; laddove l'impresa che esegue il coordinamento centralizzato è considerata l'impresa controllante o partecipante e le altre imprese sono considerate le imprese controllate o partecipate; 
  
 
- ))
-
+ 
  
 
  
@@ -709,12 +690,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ u-bis) impresa di assicurazione captive: un'impresa di assicurazione controllata da un'impresa finanziaria, diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o di riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria, il cui scopo è fornire copertura assicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di assicurazione captive; 
+ 
 
- u-bis) impresa di assicurazione captive: un'impresa di assicurazione controllata da un'impresa finanziaria, diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o di riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria, il cui scopo è fornire copertura assicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di assicurazione captive;
-
- ))
-
+ 
  
 
  
@@ -760,12 +739,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria il cui scopo è di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di riassicurazione captive; 
+ 
 
- cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria il cui scopo è di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o più imprese del gruppo di cui fa parte l'impresa di riassicurazione captive;
-
- ))
-
+ 
  
 
  
@@ -779,10 +756,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  cc-quater) impresa finanziaria: un'impresa costituita da uno dei seguenti soggetti: 
  
 
- 
- ((1) un ente creditizio, un ente finanziario o una società strumentale di cui all'articolo 4, n. 18), del regolamento (UE) 575/2013;))
-
- 
+ 1) un ente creditizio, un ente finanziario o una società strumentale di cui all'articolo 4, n. 18), del regolamento (UE) 575/2013; 
  
 
  2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc); 
@@ -819,20 +793,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- gg) 
- ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74))
-
- ; 
+ gg) LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74; 
  
 
  
  
 
  
- hh) 
- ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74))
-
- ; 
+ hh) LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74; 
  
 
  
@@ -846,12 +814,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ ii-bis) misura del rischio: la funzione matematica che assegna un importo monetario ad una data distribuzione di probabilità prevista e cresce monotonicamente con il livello di esposizione al rischio sottostante a tale distribuzione; 
+ 
 
- ii-bis) misura del rischio: la funzione matematica che assegna un importo monetario ad una data distribuzione di probabilità prevista e cresce monotonicamente con il livello di esposizione al rischio sottostante a tale distribuzione;
-
- ))
-
+ 
  
 
  
@@ -862,12 +828,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ ll-bis) operazione infragruppo: un'operazione in cui un'impresa di assicurazione o di riassicurazione si affida, direttamente o indirettamente, ad un'altra impresa nell'ambito dello stesso gruppo o ad una persona fisica o giuridica strettamente legata alle imprese nell'ambito di tale gruppo per ottemperare ad un obbligo, contrattuale o meno, e a fini o meno di pagamento; 
+ 
 
- ll-bis) operazione infragruppo: un'operazione in cui un'impresa di assicurazione o di riassicurazione si affida, direttamente o indirettamente, ad un'altra impresa nell'ambito dello stesso gruppo o ad una persona fisica o giuridica strettamente legata alle imprese nell'ambito di tale gruppo per ottemperare ad un obbligo, contrattuale o meno, e a fini o meno di pagamento;
-
- ))
-
+ 
  
 
  
@@ -878,19 +842,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  mm-bis) partecipazione: la detenzione, diretta o tramite un rapporto di controllo, del 20 per cento o più dei diritti di voto o del capitale di una società, anche per il tramite di società controllate, fiduciarie o per interposta persona o comunque di una percentuale che consente l'esercizio di una influenza notevole sulla gestione di tale società; 
  
 
  
  
 
- mm-ter) partecipazione qualificata: la detenzione, diretta o indiretta, di almeno il 10 per cento dei diritti di voto o del capitale di un'impresa di assicurazione o di riassicurazione o comunque la partecipazione che consente l'esercizio di un'influenza notevole sulla gestione di tale impresa;
+ 
+ mm-ter) partecipazione qualificata: la detenzione, diretta o indiretta, di almeno il 10 per cento dei diritti di voto o del capitale di un'impresa di assicurazione o di riassicurazione o comunque la partecipazione che consente l'esercizio di un'influenza notevole sulla gestione di tale impresa; 
+ 
 
- ))
-
+ 
  
 
  
@@ -966,9 +928,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) disposizioni contrattuali intese a limitare il risultato economico del contratto tra le parti nel tempo, al fine di raggiungere il trasferimento del rischio previsto; 
  
 
- 
- 
- ((vv-bis.1) rischio di credito: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante da oscillazioni del merito di credito di emittenti di titoli, controparti e debitori nei confronti dei quali l'impresa di assicurazione o di riassicurazione è esposta in forma di rischio di inadempimento della controparte, di rischio di spread o di concentrazione del rischio di mercato; 
+ vv-bis.1) rischio di credito: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante da oscillazioni del merito di credito di emittenti di titoli, controparti e debitori nei confronti dei quali l'impresa di assicurazione o di riassicurazione è esposta in forma di rischio di inadempimento della controparte, di rischio di spread o di concentrazione del rischio di mercato; 
  
 
  vv-bis.2) rischio di liquidità: il rischio che l'impresa di assicurazione o di riassicurazione non sia in grado di liquidare investimenti ed altre attività per regolare i propri impegni finanziari al momento della relativa scadenza; 
@@ -995,9 +955,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  vv-bis.9) società partecipante: la società che detiene una partecipazione; 
  
 
- vv-bis.10) società partecipata: la società in cui è detenuta una partecipazione;))
+ vv-bis.10) società partecipata: la società in cui è detenuta una partecipazione; 
  
 
+ 
  
 
  
@@ -1082,12 +1043,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi; 
+ 
 
- ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi;
-
- ))
-
+ 
  
 
  
@@ -1110,22 +1069,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) un legame in base al quale le stesse persone sono sottoposte al controllo del medesimo soggetto, o comunque sono sottoposte a direzione unitaria in virtù di un contratto o di una clausola statutaria, oppure quando gli organi di amministrazione sono composti in maggioranza dalle medesime persone, oppure quando esistono legami importanti e durevoli di riassicurazione; 
  
 
- 4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L'
- ((IVASS))
-
- , con regolamento, può ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
+ 4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L' IVASS, con regolamento, può ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
  
 
  
  
 
  
- ((
+ iii-bis) tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalità dei rischi ad un terzo; 
+ 
 
- iii-bis) tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalità dei rischi ad un terzo;
-
- ))
-
+ 
  
 
  
