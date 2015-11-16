@@ -88,10 +88,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) attività finanziarie: il contante e gli strumenti finanziari e, con riferimento alle operazioni connesse con le funzioni del sistema delle banche centrali europee e dei sistemi di cui all'articolo 1, comma 1, lettera r), del decreto legislativo 12 aprile 2001, n. 210, le altre attività accettate a garanzia di tali operazioni; 
+ ((
+
+ c) attività finanziarie: il contante, gli strumenti finanziari, i crediti e con riferimento alle operazioni connesse con le funzioni del sistema delle banche centrali europee e dei sistemi di cui all'articolo 1, comma 1, lettera r), del decreto legislativo 12 aprile 2001, n. 210, le altre attività accettate a garanzia di tali operazioni;
+
+ ))
+
  
 
  
+ ((
+
+ c-bis) crediti: crediti in denaro derivanti da un contratto con il quale un ente creditizio, secondo la definizione dell'articolo 4, punto 1), della direttiva 2006/48/CE, compresi gli enti elencati all'articolo 2 della stessa direttiva, concede un credito in forma di prestito;
+
+ ))
+
  
 
  
@@ -102,24 +113,35 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  2) banche centrali, la Banca centrale europea, la Banca dei regolamenti internazionali, le banche multilaterali di sviluppo, come definite all'articolo 1, punto 19, della direttiva 2000/12/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000, il Fondo monetario internazionale e la Banca europea per gli investimenti; 
+ ((2))
+
+ 
  
 
  3) enti finanziari sottoposti a vigilanza prudenziale, inclusi: 
  
 
- a) enti creditizi, come definiti dall'articolo 1, punto 1, della direttiva 2000/12/CE, inclusi gli enti elencati all'articolo 2, paragrafo 3, della medesima direttiva; 
+ a) enti creditizi, come definiti 
+ ((dall'articolo 4, punto 1), della direttiva 2006/48/CE, inclusi gli enti elencati all'articolo 2))
+
+ , della medesima direttiva; 
  
 
  b) imprese di investimento, come definite dall'articolo 1, punto 2, della direttiva 93/22/CE del Consiglio, del 10 maggio 1993; 
+ ((2))
+
+ 
  
 
- c) enti finanziari, come definiti dall'articolo 1, punto 5, della direttiva 2000/12/CE; 
+ c) enti finanziari, come definiti 
+ ((dall'articolo 4, punto 5), della direttiva 2006/48/CE))
+
+ ; 
  
 
  d) imprese di assicurazione, come definite dall'articolo 1, lettera a), della direttiva 92/49/CEE del Consiglio, del 18 giugno 1992, e dall'articolo 1, lettera a), della direttiva 92/96/CEE del Consiglio, del 10 novembre 1992; 
- 
+ ((2))
 
- 
  
 
  
@@ -217,9 +239,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q) prestazione della garanzia: l'avvenuto compimento degli atti, quali la consegna, il trasferimento, la registrazione delle attività finanziarie, in esito ai quali le attività finanziarie stesse risultino nel possesso o sotto il controllo del beneficiario della garanzia o di persona che agisce per conto di quest'ultimo o, nel caso di pegno o di cessione del credito, la notificazione al debitore della costituzione del pegno stesso o della cessione, o la loro accettazione da parte del debitore; 
- ((1))
+ q) prestazione della garanzia: l'avvenuto compimento degli atti, quali la consegna, il trasferimento, la registrazione delle attività finanziarie, in esito ai quali le attività finanziarie stesse risultino nel possesso o sotto il controllo del beneficiario della garanzia o di persona che agisce per conto di quest'ultimo o, nel caso di pegno o di cessione del credito, 
+ ((la consegna per iscritto di un atto al beneficiario della garanzia contenente l'individuazione del credito))
 
+ ; (1) 
+ 
+
+ 
  
 
  
@@ -241,9 +267,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
+ ((2))
 
- 
  
 
  
@@ -260,4 +285,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.L. 9 ottobre 2008, n. 155, convertito, con modificazioni, dalla L. 4 dicembre 2008, n. 190, ha disposto (con l'art. 3, comma 1) che "Qualora, al fine di soddisfare esigenze di liquidità, la Banca d'Italia eroghi finanziamenti che siano garantiti mediante pegno o cessione di credito, la garanzia si intende prestata, con effetto nei confronti del debitore e dei terzi aventi causa, all'atto della sottoscrizione del contratto di garanzia finanziaria, in deroga agli articoli 1264, 1265 e 2800 del codice civile e agli articoli 1, comma 1, lettera q), e 2, comma 1, lettera b), del decreto legislativo 21 maggio 2004, n. 170".
+ Il D.L. 9 ottobre 2008, n. 155, convertito, con modificazioni, dalla L. 4 dicembre 2008, n. 190, ha disposto (con l'art. 3, comma 1) che "Qualora, al fine di soddisfare esigenze di liquidità, la Banca d'Italia eroghi finanziamenti che siano garantiti mediante pegno o cessione di credito, la garanzia si intende prestata, con effetto nei confronti del debitore e dei terzi aventi causa, all'atto della sottoscrizione del contratto di garanzia finanziaria, in deroga agli articoli 1264, 1265 e 2800 del codice civile e agli articoli 1, comma 1, lettera q), e 2, comma 1, lettera b), del decreto legislativo 21 maggio 2004, n. 170". 
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (2)
+
+ 
+ 
+
+ Il D.Lgs. 24 marzo 2011, n. 48 ha disposto: 
+ 
+
+ - (con l'art. 2, comma 1, lettera c)) che "alla lettera d), numero 2), le parole: &laquo;all'articolo 1, punto 19, della direttiva 2000/12/CE del 20 marzo 2000&raquo; sono sostituite dalle seguenti: &laquo;dall'allegato VI, parte 1, sezione 4, della direttiva 2006/48/CE&raquo;"; 
+ 
+
+ - (con l'art. 2, comma 1, lettera e)) che "alla lettera d), numero 3), lettera b), le parole: &laquo;dall'articolo 1, punto 2, della direttiva 93/22/CE del 10 maggio 1993 del Consiglio&raquo; sono sostituite dalle seguenti: &laquo;dall'articolo 4, paragrafo 1, punto 1), della direttiva 2004/39/CE&raquo;"; 
+ 
+
+ - (con l'art. 2, comma 1, lettera g)) che "alla lettera d), numero 3), lettera d), le parole: &laquo;dall'articolo 1, lettera a), della direttiva 92/96/CEE del 10 novembre 1992 del Consiglio&raquo; sono sostituite dalle seguenti: &laquo;dall'articolo 1, paragrafo 1, lettera a), della direttiva 2002/83/CE&raquo;"; 
+ 
+
+ - (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".

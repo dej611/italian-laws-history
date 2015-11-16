@@ -41,14 +41,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
+ Sulla
 
- 
-
- EMANA
-
- il seguente decreto legislativo:
+ proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali; EMANA il seguente decreto legislativo:
 
  Art. 1
 
@@ -69,6 +64,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione;
+
+ ))
+
  
 
  
@@ -100,19 +104,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- e) "IVASS" indica l'Istituto per la vigilanza sulle assicurazioni;
-
- ))
-
+ e) "IVASS" indica l'Istituto per la vigilanza sulle assicurazioni; 
  
 
  
- f) 
- ((LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72))
+ 
 
- ; 
+ 
+ f) LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72; 
  
 
  
@@ -140,10 +139,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h) "Stato extracomunitario" indica lo Stato non membro della Comunità Europea; 
- 
+ ((
 
- 
+ h) &laquo;Stato terzo&raquo; indica lo Stato non membro dell'Unione europea;
+
+ ))
+
  
 
  
@@ -179,10 +180,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. m)
- ((LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72))
-
- . 
+ l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. m)LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72. 
  
 
  
@@ -216,7 +214,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) "banca extracomunitaria": la banca avente sede legale in uno Stato extracomunitario; 
+ c) "banca extracomunitaria": la banca avente sede legale in uno Stato 
+ ((terzo))
+
+ ; 
  
 
  
@@ -336,10 +337,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
  
 
- 
- ((h-bis.1) "istituti di moneta elettronica comunitari": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia;))
-
- ; 
+ h-bis.1) "istituti di moneta elettronica comunitari": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
  
 
  
@@ -394,8 +392,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((h-novies) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato))
+ h-novies) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato. 
+ 
 
+ 
  
 
  
@@ -403,10 +403,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. La Banca d'Italia, può ulteriormente qualificare 
- ((...))
-
- la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza. 
+ 3. La Banca d'Italia, può ulteriormente qualificare la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza. 
  
 
  

@@ -160,12 +160,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ i-ter) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato; 
+ 
 
- i-ter) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato;
-
- ))
-
+ 
  
 
  
@@ -409,6 +407,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ w-sexies) "provvedimenti di risanamento": i provvedimenti con cui sono disposte: 
+ 
+
+ 1) l'amministrazione straordinaria, nonchè le misure adottate nel suo ambito; 
+ 
+
+ 2) le misure adottate ai sensi dell'articolo 60-bis.4; 
+ 
+
+ 3) le misure, equivalenti a quelle indicate ai punti 1 e 2, adottate da autorità di altri Stati comunitari.
+ 
+
+ ))
+
  
 
  
@@ -838,7 +856,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- -------------
+ ---------------
 
  AGGIORNAMENTO (60)
 
