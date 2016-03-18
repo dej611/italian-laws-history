@@ -174,10 +174,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, inclusi quelli erogati 
- ((, a favore di soggetti diversi da consumatori,))
-
- a valere sul patrimonio dell'OICR, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; (60) 
+ k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, inclusi quelli erogati , a favore di soggetti diversi da consumatori, a valere sul patrimonio dell'OICR, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; (60) 
  
 
  
@@ -363,10 +360,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- w) "emittenti quotati": i soggetti italiani o esteri che emettono strumenti finanziari quotati nei mercati regolamentati italiani; 
- 
+ ((
 
- 
+ w) "emittenti quotati": i soggetti, italiani o esteri, inclusi i trust, che emettono strumenti finanziari quotati in un mercato regolamentato italiano. Nel caso di ricevute di deposito ammesse alle negoziazioni in un mercato regolamentato, per emittente si intende l'emittente dei valori mobiliari rappresentati, anche qualora tali valori non sono ammessi alla negoziazione in un mercato regolamentato;
+
+ ))
+
  
 
  
@@ -387,22 +386,47 @@ IL PRESIDENTE DELLA REPUBBLICA
  w-quater) "emittenti quotati aventi l'Italia come Stato membro d'origine": 
  
 
- 1) le emittenti azioni ammesse alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunità europea, aventi sede in Italia; 
+ 1) 
+ ((gli))
+
+ emittenti azioni ammesse alle negoziazioni in mercati regolamentati italiani o di altro Stato membro 
+ ((dell'Unione europea, aventi sede legale in Italia))
+
+ ; 
  
 
- 2) gli emittenti titoli di debito di valore nominale unitario inferiore ad euro mille, o valore corrispondente in valuta diversa, ammessi alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunità europea, aventi sede in Italia; 
- 
+ 2) gli emittenti titoli di debito di valore nominale unitario inferiore ad euro mille, o valore corrispondente in valuta diversa, ammessi alle negoziazioni in mercati regolamentati italiani o di altro Stato membro 
+ ((dell'Unione europea, aventi sede legale in Italia))
 
- 3) gli emittenti valori mobiliari di cui ai numeri 1) e 2), aventi sede in uno Stato non appartenente alla Comunità europea, per i quali la prima domanda di ammissione alle negoziazioni in un mercato regolamentato della Comunità europea è stata presentata in Italia o che hanno successivamente scelto l'Italia come Stato membro d'origine quando tale prima domanda di ammissione non è stata effettuata in base a una propria scelta; 
- 
-
- 4) gli emittenti valori mobiliari diversi da quelli di cui ai numeri 1) e 2), aventi sede in Italia o i cui valori mobiliari sono ammessi alle negoziazioni in un mercato regolamentato italiano, che hanno scelto l'Italia come Stato membro d'origine. L'emittente può scegliere un solo Stato membro come Stato membro d'origine. La scelta resta valida per almeno tre anni, salvo il caso in cui i valori mobiliari dell'emittente non sono più ammessi alla negoziazione in alcun mercato regolamentato della Comunità europea. 
- 
-
- w-quater.1 "PMI": fermo quanto previsto da altre disposizione di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano, in base al bilancio approvato relativo all'ultimo esercizio, anche anteriore all'ammissione alla negoziazione delle proprie azioni, un fatturato fino a 300 milioni di euro, ovvero una capitalizzazione media di mercato nell'ultimo anno solare inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato entrambi i predetti limiti per tre esercizi, ovvero tre anni solari, consecutivi. 
+ ; 
  
 
  
+ ((3) gli emittenti valori mobiliari di cui ai numeri 1) e 2), aventi sede legale in uno Stato non appartenente all'Unione europea, che hanno scelto l'Italia come Stato membro d'origine tra gli Stati membri in cui i propri valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato. La scelta dello Stato membro d'origine resta valida salvo che l'emittente abbia scelto un nuovo Stato membro d'origine ai sensi del numero 5) e abbia comunicato tale scelta;))
+
+ 
+ 
+
+ 4) gli emittenti valori mobiliari diversi da quelli di cui ai numeri 1) e 2), aventi sede 
+ ((legale))
+
+ in Italia o i cui valori mobiliari sono ammessi alle negoziazioni in un mercato regolamentato italiano, che hanno scelto l'Italia come Stato membro d'origine.
+ 
+
+ L'emittente può scegliere un solo Stato membro 
+ ((...))
+
+ d'origine. La scelta resta valida per almeno tre anni, salvo il caso in cui i valori mobiliari dell'emittente non sono più ammessi alla negoziazione in alcun mercato regolamentato 
+ ((dell'Unione europea, o salvo che l'emittente, nel triennio, rientri tra gli emittenti di cui ai numeri 1), 2), 3) e 4-bis), della presente lettera))
+
+ . 
+ 
+
+ 
+ ((4-bis) gli emittenti di cui ai numeri 3) e 4) i cui valori mobiliari non sono più ammessi alla negoziazione in un mercato regolamentato dello Stato membro d'origine, ma sono stati ammessi alla negoziazione in un mercato regolamentato italiano o di altri Stati membri e, se del caso, aventi sede legale in Italia oppure che hanno scelto l'Italia come nuovo Stato membro d'origine;))
+
+ ((w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, il cui fatturato anche anteriormente all'ammissione alla negoziazione delle proprie azioni, sia inferiore a 300 milioni di euro, ovvero che abbiano una capitalizzazione di mercato inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato entrambi i predetti limiti per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalità informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob sulla base delle informazioni fornite dagli emittenti pubblica l'elenco delle PMI tramite il proprio sito internet.))
+
  
 
  
