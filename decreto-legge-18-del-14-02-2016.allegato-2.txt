@@ -1,0 +1,311 @@
+Allegato 2 
+ 
+
+ 
+ 
+
+ Formula di prezzo 
+ 
+
+ 
+ 
+
+ (1) Negli anni 1, 2 e 3 viene pagato il CDS di riferimento a 3 anni.
+ 
+
+ Negli anni 4 e 5 viene pagato il CDS di riferimento a 5 anni più un premio P3-5y . Negli anni 6 e 7 viene pagato il CDS di riferimento a 
+ 
+
+ 7 anni più un premio P5-7y . Negli anni successivi viene pagato il 
+ 
+
+ CDS di riferimento a 7 anni. 
+ 
+
+ (2) I premi P3-5y e P5-7y vengono calcolati in base alle due seguenti 
+ 
+
+ ipotesi: 
+ 
+
+ a. L'ammontare residuo della tranche senior garantita diminuisce linearmente fino a 0 su un periodo di 7 anni. 
+ 
+
+ b. Il tasso di sconto applicabile è 2.75%. (6) 
+ ((8))
+
+ 
+ 
+
+ (3) In base a queste ipotesi, il premio P3-5y è calcolato in modo 
+ 
+
+ tale che il valore scontato dei flussi di cassa pagati fino all'anno 5 in base allo schema corrisponda al valore ipotetico nel caso in cui fosse stato pagato il valore corrispondente al CDS di riferimento a 5 anni per tutti gli anni dall'1 al 5. 
+ 
+
+ Allo stesso modo, il premio P5-7y è calcolato in modo tale che il 
+ 
+
+ valore scontato dei flussi di cassa pagati fino all'anno 7 in base allo schema corrisponda al valore ipotetico nel caso in cui fosse stato pagato il valore corrispondente al CDS di riferimento a 7 anni per tutti gli anni dall'1 al 7. 
+ 
+
+ (4) Dunque, i premi applicabili sono calcolati 
+ 
+
+ a. Per gli anni 4 e 5: 
+ 
+
+ P3-5y = 2.76 volte (Spread CDS 5 anni - Spread CDS 3 anni) (6) 
+ 
+
+ b. Per gli anni 6 e 7: 
+ 
+
+ P5-7y = 9.23 volte (Spread CDS 7 anni - Spread CDS 5 anni) (6) 
+ 
+
+ (5) I fattori 2.76 e 9.23 nelle due formule di cui sopra sono costanti e fissi per l'intera durata dello schema, ma dipendono dalle ipotesi (a) e (b) fonnulate nel punto (2). Ne è mostrata la derivazione matematica di seguito.(6) 
+ 
+
+ (6) I flussi di cassa da pagare alla fine di ogni periodo di pagamento degli interessi sono calcolati in base al tasso applicabile ciascun anno secondo quanto definito nel punto (1), applicato all'ammontare della tranche senior effettivamente in essere all'inizio di ogni periodo di pagamento degli interessi. 
+ 
+
+ 
+ 
+
+ Derivazione 
+ 
+
+ (7) Secondo quanto previsto al punto (3) di cui sopra, si può delineare la seguente equazione: 
+ 
+
+ 
+ 
+
+ 5 
+ 
+
+ ∑ CDS5y ∗ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=5 
+ 
+
+ 
+ 
+
+ 3 
+ 
+
+ = ∑ CDS3y ∗ F(ti-1 ) ∗ DF(ti ) + 
+ 
+
+ i=1 
+ 
+
+ 
+ 
+
+ 5 
+ 
+
+ ∑ (CDS5y + P3-5y ) ∗ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=4 
+ 
+
+ 
+ 
+
+ Dove CDS3y e CDS5y corrispondono agli spread CDS di riferimento a 3 e 
+ 
+
+ 5 anni, F(ti ) corrisponde alla funzione dei recuperi cumulati, 
+ 
+
+ espressa in base all'ammontare in essere della tranche senior al tempo ti , DF(ti ) consiste nel fattore di sconto applicabile al 
+ 
+
+ tempo ti , e P3-5y corrisponde al premio applicabile negli anni 4 e 
+ 
+
+ 5. 
+ 
+
+ (8) Questa equazione può essere risolta facilmente per il valore del premio P3-5y : 
+ 
+
+ 
+ 
+
+ 3 
+ 
+
+ P3-5y = (CDS5y - CDS3y ) ∗ ∑ F(ti-1 ) ∗ DF(ti ) / 
+ 
+
+ i=1 
+ 
+
+ 5 
+ 
+
+ ∑ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=4 
+ 
+
+ 
+ 
+
+ (9) Lo stesso tipo di calcolo può essere fatto per i premi applicabili negli anni 6 e 7: 
+ 
+
+ 
+ 
+
+ 7 
+ 
+
+ ∑ CDS7y ∗ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=1 
+ 
+
+ 
+ 
+
+ 5 
+ 
+
+ = ∑ CDS5y ∗ F(ti-1 ) ∗ DF(ti ) + 
+ 
+
+ i=1 
+ 
+
+ 
+ 
+
+ 7 
+ 
+
+ ∑ (CDS7y + P5-7y ) ∗ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=6 
+ 
+
+ 
+ 
+
+ 5 
+ 
+
+ P5-7y = (CDS7y - CDS5y ) ∗ ∑ F(ti-1 ) ∗ DF(ti ) / 
+ 
+
+ i=1 
+ 
+
+ 7 
+ 
+
+ ∑ F(ti-1 ) ∗ DF(ti ) 
+ 
+
+ i=6 
+ 
+
+ 
+ 
+
+ (10) Secondo le ipotesi del punto (2), le espressioni delle funzioni F(ti ) e DF(ti ) sono date da: 
+ 
+
+ 
+ 
+
+ F(ti ) = 7 - ti / 7 (decremento lineare su 7 anni) 
+ 
+
+ 
+ 
+
+ DF(ti ) = 1 / (1 + r)ti (fattore di sconto al tasso r) 
+ 
+
+ 
+ 
+
+ (11) Sostituendo queste espressioni delle funzioni nelle equazioni dei punti (8) e (9) e, secondo le ipotesi del punto (2), utilizzando un tasso di sconto al 2.75%, è possibile calcolare i valori di P3-5y
+ 
+
+ e P5-7y : 
+ 
+
+ 
+ 
+
+ P3-5y = (7(1 + r)4 + 6(1 + r)&sup3; + 5(1 + r)&sup2;) /(7 + 4r) * (CDS5y - 
+ 
+
+ CDS3y ) = 2.76 * (CDS5y - CDS3y ) 
+ 
+
+ P5-7y = (7(1+r)6 + 6(1+r)5 + 5(1+r)4 + 4(1+r)&sup3; + 3(1+r)&sup2; )/(3+2r) * 
+ 
+
+ (CDS7y - CDS5y ) = 9.23 * (CDS7y - CDS5y ) .(6) 
+ ((8))
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ ((8))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (6)
+
+ 
+ 
+
+ Il D.L. 25 marzo 2019, n. 22, convertito con modificazioni dalla L. 20 maggio 2019, n. 41, ha disposto (con l'art. 21, comma 8) che le presenti modifiche "non si applicano alle garanzie concesse entro il 6 marzo 2019 ai sensi dell'articolo 3 del decreto-legge n. 18 del 2016". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (8)
+
+ 
+ 
+
+ Il Decreto 15 luglio 2021 (in G.U. 3/08/2021, n. 184) ha disposto (con l'art. 3, comma 1) che "Per le richieste di garanzia presentate ai sensi dell'art. 20 del decreto-legge n. 22/2019 nel periodo di cui all'art. 1, il tasso di sconto applicabile di cui all'Allegato 2 &laquo;Formula di prezzo&raquo;, punto 2), lettera b) e punto 11) del decreto-legge n. 18/2016 è determinato nella misura di 1.5%.
+ 
+
+ Conseguentemente i fattori della componente aggiuntiva con la quale maggiorare il corrispettivo annuo della garanzia statale, di cui all'art. 9, comma 3, lettera d), i) e ii) e al citato Allegato 2 del decreto-legge n. 18/2016, sono, rispettivamente, pari a 2.67 per il quarto e quinto anno e a 8.81 per il sesto e settimo anno". 
+ 
+
+ Ha inoltre disposto (con l'art. 3, comma 2) che "Le disposizioni contenute nel presente articolo non hanno effetto sulle operazioni già in essere".
