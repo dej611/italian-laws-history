@@ -121,7 +121,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Al comma 2 dell'articolo 35 del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "competenza territoriale,", sono introdotte le seguenti: "nonchè ai poteri attribuiti alla capogruppo ai sensi dell'articolo 37-bis,". 
+ 3. Al comma 2 dell'articolo 35 del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "competenza territoriale," 
+ ((sono inserite))
+
+ le seguenti: "nonchè ai poteri attribuiti alla capogruppo ai sensi dell'articolo 37-bis,". 
  
 
  
@@ -152,13 +155,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) dopo il comma 1, è inserito il seguente: 
+ 
+ ((c) dopo il comma 1, è inserito il seguente: 
  
 
- "1-bis. In caso di esclusione da un gruppo bancario cooperativo, la banca di credito cooperativo, entro il termine stabilito con le disposizioni di cui all'articolo 37-bis, previa autorizzazione rilasciata dalla Banca d'Italia avendo riguardo alla sana e prudente gestione della banca, può deliberare la propria trasformazione in società per azioni. In mancanza, la società delibera la propria liquidazione."; 
+ "1-bis. In caso di recesso o esclusione da un gruppo bancario cooperativo, la banca di credito cooperativo, entro il termine stabilito con le disposizioni di cui all'articolo 37-bis, comma 7, previa autorizzazione rilasciata dalla Banca d'Italia avendo riguardo alla sana e prudente gestione della banca, può deliberare la propria trasformazione in società per azioni. In mancanza, la società delibera la propria liquidazione"))
  
 
- 
  
 
  
@@ -176,7 +179,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Dopo l'articolo 37 del decreto legislativo 1° settembre 1993, n. 385, sono introdotti i seguenti: 
+ 5. 
+ ((Nella sezione II del capo V del titolo II del decreto legislativo 1&ordm; settembre 1993, n. 385, dopo l'articolo 37 sono inseriti))
+
+ i seguenti: 
  
 
  
@@ -203,13 +209,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) le società bancarie, finanziarie e strumentali controllate dalla capogruppo, come definite dall'articolo 59. 
  
 
+ 
+ ((c-bis) eventuali sottogruppi territoriali facenti capo a una banca costituita in forma di società per azioni sottoposta a direzione e coordinamento della capogruppo di cui alla lettera a) e composti dalle altre società di cui alle lettere b) e c) ))
+
+ . 
+ 
+
+ 
+ ((1-bis. Le banche di credito cooperativo aventi sede legale nelle province autonome di Trento e di Bolzano possono rispettivamente costituire autonomi gruppi bancari cooperativi composti solo da banche aventi sede e operanti esclusivamente nella medesima provincia autonoma, tra cui la corrispondente banca capogruppo, la quale adotta una delle forme di cui all'articolo 14, comma 1, lettera a); il requisito minimo di patrimonio netto è stabilito dalla Banca d'Italia ai sensi del comma 7-bis))
+
+ . 
+ 
+
  2. Lo statuto della capogruppo indica il numero massimo delle azioni con diritto di voto che possono essere detenute da ciascun socio, direttamente o indirettamente, ai sensi dell'articolo 22, comma 1. 
  
 
  3. Il contratto di coesione che disciplina la direzione e il coordinamento della capogruppo sul gruppo indica: 
  
 
- a) la banca capogruppo, cui è attribuita la direzione e il coordinamento del gruppo; 
+ a) la banca capogruppo, cui 
+ ((sono attribuiti))
+
+ la direzione e il coordinamento del gruppo; 
  
 
  b) i poteri della capogruppo che, nel rispetto delle finalità mutualistiche, includono: 
@@ -218,7 +239,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) l'individuazione e l'attuazione degli indirizzi strategici ed obiettivi operativi del gruppo nonchè gli altri poteri necessari per l'attività di direzione e coordinamento, proporzionati alla rischiosità delle banche aderenti, ivi compresi i controlli ed i poteri di influenza sulle banche aderenti volti ad assicurare il rispetto dei requisiti prudenziali e delle altre disposizioni in materia bancaria e finanziaria applicabili al gruppo e ai suoi componenti; 
  
 
- 2) i casi, comunque motivati ed eccezionali, in cui la capogruppo può, rispettivamente, nominare, opporsi alla nomina o revocare uno o più componenti, fino a concorrenza della maggioranza, degli organi di amministrazione e controllo delle società aderenti al gruppo e le modalità di esercizio di tali poteri; 
+ 2) i casi, comunque motivati 
+ ((...))
+
+ , in cui la capogruppo può, rispettivamente, nominare, opporsi alla nomina o revocare uno o più componenti, fino a concorrenza della maggioranza, degli organi di amministrazione e controllo delle società aderenti al gruppo e le modalità di esercizio di tali poteri; 
  
 
  3) l'esclusione di una banca dal gruppo in caso di gravi violazioni degli obblighi previsti dal contratto e le altre misure sanzionatorie graduate in relazione alla gravità della violazione; 
@@ -227,28 +251,54 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) i criteri di compensazione e l'equilibrio nella distribuzione dei vantaggi derivanti dall'attività comune; 
  
 
- d) i criteri e le condizioni di adesione, di diniego all'adesione nonchè di esclusione dal gruppo, secondo criteri non discriminatori in linea con il principio di solidarietà tra le banche cooperative a mutualità prevalente. Non è in ogni caso ammesso il recesso. 
+ 
+ ((d) i criteri e le condizioni di adesione, di diniego dell'adesione e di recesso dal contratto, nonchè di esclusione dal gruppo, secondo criteri non discriminatori in linea con il principio di solidarietà tra le banche cooperative a mutualità prevalente))
+
+ . 
  
 
  4. Il contratto di cui al comma 3 prevede la garanzia in solido delle obbligazioni assunte dalla capogruppo e dalle altre banche aderenti, nel rispetto della disciplina prudenziale dei gruppi bancari e delle singole banche aderenti. 
  
 
- 5. L'adesione, il rigetto delle richieste di adesione e l'esclusione di una banca di credito cooperativo sono autorizzati dalla Banca d'Italia avendo riguardo alla sana e prudente gestione del gruppo e della singola banca. 
+ 5. L'adesione, il rigetto delle richieste di adesione 
+ ((, il recesso))
+
+ e l'esclusione di una banca di credito cooperativo sono autorizzati dalla Banca d'Italia avendo riguardo alla sana e prudente gestione del gruppo e della singola banca. 
  
 
- 6. Alle partecipazioni delle banche di credito cooperativo non si applicano gli articoli 2359-bis, 2359-ter, 2359-quater e 2359-quinquies del codice civile. 
+ 6. 
+ ((Alle partecipazioni al capitale della capogruppo delle banche di credito cooperativo e delle banche cui fanno capo i sottogruppi territoriali))
+
+ non si applicano gli articoli 2359-bis, 2359-ter, 2359-quater e 2359-quinquies del codice civile. 
  
 
- 7. Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, con proprio decreto stabilisce: 
+ 
+ 
+ ((7. Il Ministro dell'economia e delle finanze, al fine di assicurare l'adeguatezza dimensionale e organizzativa del gruppo bancario cooperativo, può stabilire con proprio decreto, sentita la Banca d'Italia: 
  
 
- a) le caratteristiche della garanzia di cui al comma 4, il procedimento per la costituzione del gruppo e l'adesione al medesimo; 
+ a) il numero minimo di banche di credito cooperativo di un gruppo bancario cooperativo; 
  
 
- b) i requisiti minimi organizzativi e operativi della capogruppo, tali da assicurare la sana e prudente gestione, la competitività e l'efficienza del gruppo bancario nel rispetto delle finalità mutualistiche; 
+ b) una soglia di partecipazione delle banche di credito cooperativo al capitale della società capogruppo diversa da quella indicata al comma 1, lettera a), tenuto conto delle esigenze di stabilità del gruppo; 
  
 
- c) il numero minimo di banche di credito cooperativo di un gruppo bancario cooperativo, necessario ad assicurare il rispetto dei requisiti prudenziali, la diversificazione e il frazionamento dei rischi. 
+ c) le modalità e i criteri per assicurare il riconoscimento e la salvaguardia delle peculiarità linguistiche e culturali delle banche di credito cooperativo aventi sede legale nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano. 
+ 
+
+ 7-bis. La Banca d'Italia, al fine di assicurare la sana e prudente gestione, la competitività e l'efficienza del gruppo bancario cooperativo, nel rispetto della disciplina prudenziale applicabile e delle finalità mutualistiche, detta disposizioni di attuazione del presente articolo e dell'articolo 37-ter, con particolare riferimento: 
+ 
+
+ a) ai requisiti minimi organizzativi e operativi della capogruppo; 
+ 
+
+ b) al contenuto minimo del contratto di cui al comma 3, alle caratteristiche della garanzia di cui al comma 4, al procedimento per la costituzione del gruppo e all'adesione al medesimo; 
+ 
+
+ c) ai requisiti specifici, compreso il requisito minimo di patrimonio netto della capogruppo, relativi ai gruppi bancari cooperativi previsti dal comma 1-bis))
+ 
+
+ . 
  
 
  8. Al gruppo bancario cooperativo si applicano, in quanto compatibili, le disposizioni del Titolo III, Capo II. 
@@ -278,7 +328,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. La Banca d'Italia accerta la sussistenza delle condizioni previste ai sensi dell'articolo 37-bis e, in particolare, il grado di adeguatezza patrimoniale e finanziaria del gruppo e l'idoneità del contratto a consentire la sana e prudente gestione del gruppo. 
  
 
- 3. A seguito dell'accertamento previsto dal comma 2, le banche di credito stipulano con la capogruppo il contratto di cui all'articolo 37-bis e provvedono alle necessarie modifiche statutarie, che sono approvate con le maggioranze previste dall'articolo 31, comma 1. 
+ 3. A seguito dell'accertamento previsto dal comma 2, le banche di credito 
+ ((cooperativo))
+
+ stipulano con la capogruppo il contratto di cui all'articolo 37-bis e provvedono alle necessarie modifiche statutarie, che sono approvate con le maggioranze previste dall'articolo 31, comma 1. 
  
 
  4. Il contratto è trasmesso alla Banca d'Italia, che provvede all'iscrizione del gruppo nell'albo dei gruppi. Successivamente, si dà corso all'iscrizione nel registro delle imprese ai sensi dell'articolo 2497-bis, secondo comma, del codice civile.". 
@@ -311,7 +364,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) il comma 5 è sostituito dal seguente: 
  
 
- "5. Nei casi di fusione e trasformazione previsti dall'articolo 36, nonchè di cessione di rapporti giuridici in blocco e scissione da cui risulti una banca costituita in forma di società per azioni, restano fermi gli effetti di devoluzione del patrimonio stabiliti dall'articolo 17 della legge 23 dicembre 2000, n. 388. Tali effetti non si producono se la banca di credito cooperativo che effettua le operazioni di cui al periodo precedente ha un patrimonio netto superiore a duecento milioni di euro. In tal caso, le riserve sono affrancate corrispondendo all'erario un'imposta straordinaria pari al venti per cento della loro consistenza.". 
+ "5. Nei casi di fusione e trasformazione previsti dall'articolo 36, nonchè di cessione di rapporti giuridici in blocco e scissione da cui risulti una banca costituita in forma di società per azioni, restano fermi gli effetti di devoluzione del patrimonio stabiliti dall'articolo 17 della legge 23 dicembre 2000, n. 388. 
+ ((PERIODO SOPPRESSO DALLA L. 8 APRILE 2016, N. 49))
+
+ . 
+ ((PERIODO SOPPRESSO DALLA L. 8 APRILE 2016, N. 49))
+
+ ". 
  
 
  
@@ -341,7 +400,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) al comma 1 le parole: ", ai sensi dell'articolo 70, comma 1, lettera b)," e le parole: "ed in deroga alle previsioni di cui all'articolo 150-bis, comma 1," sono soppresse; 
+ b) al comma 1 le parole: ", ai sensi dell'articolo 70, comma 1, lettera b)," e le parole: "ed in deroga alle previsioni di cui 
+ ((all'articolo 150-bis, comma 1))
+
+ " sono soppresse; 
  
 
  
@@ -381,7 +443,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  f) dopo il comma 4, sono inseriti i seguenti: 
  
 
- "4-bis. Le azioni di finanziamento possono essere sottoscritte altresì dalla capogruppo del gruppo bancario cooperativo a cui appartiene l'emittente. In tal caso, l'emissione è consentita anche fuori dei casi indicati al comma 1, si applicano i commi 3 e 4 e l'autorizzazione della Banca d'Italia ai sensi del comma 4 ha riguardo alla situazione di liquidità, finanziaria e patrimoniale attuale e prospettica della singola banca di credito cooperativo emittente e del gruppo nel suo complesso. 
+ "4-bis. Le azioni di finanziamento possono essere sottoscritte 
+ ((, in deroga ai limiti di cui all'articolo 34, commi 2 e 4, anche))
+
+ dalla capogruppo del gruppo bancario cooperativo a cui appartiene l'emittente. In tal caso, l'emissione è consentita anche fuori dei casi indicati al comma 1, si applicano i commi 3 e 4 e l'autorizzazione della Banca d'Italia ai sensi del comma 4 ha riguardo alla situazione di liquidità, finanziaria e patrimoniale attuale e prospettica della singola banca di credito cooperativo emittente e del gruppo nel suo complesso. 
  
 
  4-ter. Le azioni di cui al presente articolo non possono essere cedute con effetto verso la società, se la cessione non è autorizzata dagli amministratori. Non si applicano gli articoli 2542, secondo comma e terzo comma, secondo periodo, 2543, terzo comma, 2544, secondo comma, primo periodo, e terzo comma, del codice civile.".
