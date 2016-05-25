@@ -1,0 +1,589 @@
+Allegato II 
+ 
+
+ 
+ 
+
+ (Art. 2, comma 1) 
+ 
+
+ REQUISITI ESSENZIALI IN MATERIA DI SALUTE E DI SICUREZZA PER LA PROGETTAZIONE E LA COSTRUZIONE DI APPARECCHI E SISTEMI DI PROTEZIONE DESTINATI AD ESSERE UTILIZZATI IN ATMOSFERA POTENZIALMENTE ESPLOSIVA. 
+ 
+
+ Osservazioni preliminari 
+ 
+
+ A. Occorre tener conto delle conoscenze tecnologiche, soggette a rapida evoluzione, nonchè applicarle, per quanto possibile, con la massima celerità. 
+ 
+
+ B. Per i dispositivi di sicurezza, di controllo e di regolazione cui all'articolo 1, comma 1, lettera b), i requisiti essenziali di salute e sicurezza si applicano soltanto se sono necessari per la manipolazione ed il funzionamento sicuri ed affidabili per quanto concerne i rischi di esplosione. 
+ 
+
+ 1. Requisiti comuni relativi agli apparecchi e sistemi di protezione 
+ 
+
+ 1.0. Requisiti generali 
+ 
+
+ 1.0.1. Principi della sicurezza integrata contro le esplosioni 
+ 
+
+ Gli apparecchi e i sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva devono essere progettati secondo il principio della sicurezza integrata contro le esplosioni. 
+ 
+
+ A tal fine il fabbricante prende le misure necessarie per: 
+ 
+
+ - evitare anzitutto, per quanto possibile, che gli apparecchi e i sistemi di protezione producano o liberino essi stessi atmosfere esplosive, 
+ 
+
+ - impedire l'innesco all'interno di un'atmosfera esplosiva tenendo conto della natura di ciascuna sorgente potenziale di innesco, elettrica e non elettrica, 
+ 
+
+ - qualora, malgrado tutto, si produca un'esplosione che può mettere in pericolo persone e, eventualmente, animali domestici o beni con un effetto diretto o indiretto, soffocarla immediatamente e/o circoscrivere la zona colpita dalle fiamme e dalla pressione derivante dall'esplosione, secondo un livello di sicurezza sufficiente. 
+ 
+
+ 1.0.2. Gli apparecchi e i sistemi di protezione devono essere progettati e costruiti tenendo presenti eventuali difetti di funzionamento, per evitare al massimo le situazioni pericolose. 
+ 
+
+ Qualunque uso errato, che sia ragionevolmente prevedibile, deve essere preso in considerazione. 
+ 
+
+ 1.0.3. Condizioni particolari di controllo e manutenzione 
+ 
+
+ Gli apparecchi e i sistemi di protezione soggetti a condizioni particolari di controllo e manutenzione devono essere progettati e costruiti in funzione di tali condizioni. 
+ 
+
+ 1.0.4. Condizioni ambientali circostanti 
+ 
+
+ Gli apparecchi e i sistemi di protezione devono essere progettati e costruiti in funzione delle condizioni ambientali circostanti esistenti o prevedibili. 
+ 
+
+ 1.0.5. Marcatura 
+ 
+
+ Su ciascun apparecchio e sistema di protezione devono figurare in modo leggibile e indelebile almeno le seguenti indicazioni: 
+ 
+
+ - nome, denominazione commerciale registrata o marchio registrato e indirizzo del fabbricante, 
+ 
+
+ - marcatura CE [cfr. allegato II del regolamento (CE) n. 765/2008], 
+ 
+
+ - designazione della serie o del tipo, 
+ 
+
+ - numero di lotto o di serie (se esiste), 
+ 
+
+ - anno di costruzione, 
+ 
+
+ - marchio specifico di protezione dalle esplosioni seguito dal simbolo del gruppo di apparecchi e della categoria, 
+ 
+
+ - per il gruppo di apparecchi II, la lettera &laquo;G&raquo; (relativa alle atmosfere esplosive dovute alla presenza di gas, di vapori o di nebbie), 
+ 
+
+ e/o 
+ 
+
+ - la lettera &laquo;D&raquo; relativa alle atmosfere esplosive dovute alla presenza di polveri. 
+ 
+
+ Essi devono inoltre recare, se necessario, tutte le indicazioni indispensabili all'impiego in condizioni di sicurezza. 
+ 
+
+ 1.0.6. Istruzioni per l'uso 
+ 
+
+ a) Ogni apparecchio e sistema di protezione deve essere corredato di istruzioni per l'uso, contenenti almeno le seguenti indicazioni: 
+ 
+
+ - un richiamo alle indicazioni previste per la marcatura, ad eccezione del numero di lotto o di serie (cfr. punto 1.0.5), eventualmente completate dalle indicazioni che possono agevolare la manutenzione (ad esempio: indirizzo del riparatore ecc.), 
+ 
+
+ - le istruzioni per effettuare senza rischi: 
+ 
+
+ - la messa in servizio, 
+ 
+
+ - l'impiego, 
+ 
+
+ - il montaggio e lo smontaggio, 
+ 
+
+ - la manutenzione (ordinaria o straordinaria), 
+ 
+
+ - l'installazione, 
+ 
+
+ - la regolazione, 
+ 
+
+ - se necessario, l'indicazione delle zone pericolose situate in prossimità degli scarichi di pressione, 
+ 
+
+ - se necessario, le istruzioni per la formazione, 
+ 
+
+ - ulteriori indicazioni necessarie per valutare, con cognizione di causa, se un apparecchio di una categoria indicata oppure un sistema di protezione possa essere utilizzato senza pericoli nel luogo e nelle condizioni di impiego previsti, 
+ 
+
+ - i parametri elettrici, di pressione, le temperature massime delle superfici o altri valori limite, 
+ 
+
+ - se necessario, le condizioni di impiego particolari, comprese le indicazioni relative agli errori d'uso rivelatisi più probabili in base all'esperienza, 
+ 
+
+ - se necessario, le caratteristiche essenziali degli strumenti che possono essere montati sull'apparecchio o sul sistema di protezione; 
+ 
+
+ b) Le istruzioni per l'uso devono contenere piani e schemi necessari alla messa in servizio, alla manutenzione, all'ispezione, alla verifica del corretto funzionamento e, eventualmente, alla riparazione dell'apparecchio o del sistema di protezione, nonchè tutte le istruzioni utili, segnatamente in materia di sicurezza; 
+ 
+
+ c) Per quanto riguarda gli aspetti di sicurezza, qualsiasi documentazione relativa all'apparecchio o al sistema di protezione non deve essere in contraddizione con le istruzioni per l'uso. 
+ 
+
+ 1.1. Selezione dei materiali 
+ 
+
+ 1.1.1. I materiali utilizzati nella costruzione degli apparecchi e dei sistemi di protezione non devono provocare l'innesco di un'esplosione, tenuto conto delle sollecitazioni di funzionamento prevedibili. 
+ 
+
+ 1.1.2. Nei limiti delle condizioni di impiego previste dal fabbricante, fra i materiali utilizzati e i componenti dell'atmosfera esplosiva non deve prodursi alcuna reazione che possa deteriorare la situazione esistente per quanto concerne la prevenzione delle esplosioni. 
+ 
+
+ 1.1.3. I materiali devono essere scelti in modo che i cambiamenti prevedibili delle loro caratteristiche e la compatibilità con altri materiali impiegati congiuntamente non diminuiscano la protezione assicurata, in particolare per quanto riguarda la resistenza alla corrosione, la resistenza all'usura, la conducibilità elettrica, la resistenza meccanica, l'invecchiamento e gli effetti delle variazioni di temperatura. 
+ 
+
+ 1.2. Progettazione e fabbricazione 
+ 
+
+ 1.2.1. Gli apparecchi e i sistemi di protezione devono essere progettati e fabbricati tenendo conto delle conoscenze tecnologiche in materia di protezione contro le esplosioni, affinchè essi possano funzionare in modo sicuro per tutta la durata di funzionamento prevista. 
+ 
+
+ 1.2.2. I componenti destinati ad essere inseriti o utilizzati come pezzi di ricambio negli apparecchi e nei sistemi di protezione debbono essere progettati e fabbricati in modo che, se montati secondo le istruzioni del fabbricante, abbiano una sicurezza di funzionamento adeguata all'impiego cui sono destinati, per quanto riguarda la protezione contro le esplosioni. 
+ 
+
+ 1.2.3. Sistema di costruzione stagna e prevenzione dei difetti di tenuta 
+ 
+
+ Per gli apparecchi che possono essere all'origine di gas o di polveri infiammabili, si devono prevedere, per quanto possibile, solo ambienti chiusi. 
+ 
+
+ Se detti apparecchi presentano aperture o difetti di tenuta, questi devono, per quanto possibile, far sì che le emissioni di gas o di polveri non possano provocare, all'esterno, la formazione di atmosfere esplosive. 
+ 
+
+ Gli orifizi di riempimento e di svuotamento devono essere concepiti ed attrezzati in modo da limitare, al momento del riempimento e dello svuotamento, per quanto possibile, le emissioni di materie infiammabili. 
+ 
+
+ 1.2.4. Depositi di polveri 
+ 
+
+ Gli apparecchi e i sistemi di protezione destinati a essere utilizzati in zone polverose devono essere progettati in modo da non provocare l'infiammazione dei depositi di polveri che si formano sulla loro superficie. 
+ 
+
+ Di norma, i depositi delle polveri devono essere limitati al massimo. La pulizia degli apparecchi e sistemi di protezione deve essere agevole. 
+ 
+
+ Le temperature superficiali delle parti degli apparecchi devono essere nettamente inferiori alle temperature d'incandescenza delle polveri che vi si depositano. 
+ 
+
+ Occorre tener conto dello spessore dello strato di polveri che si depositano e, se necessario, prendere misure di limitazione delle temperature, allo scopo di evitare un accumulo di calore. 
+ 
+
+ 1.2.5. Mezzi di protezione supplementari 
+ 
+
+ Gli apparecchi e i sistemi di protezione che possono essere esposti a determinati tipi di sollecitazioni esterne devono essere dotati, se necessario, di mezzi di protezione supplementari. 
+ 
+
+ Gli apparecchi devono poter resistere alle sollecitazioni cui sono soggetti senza che la protezione contro le esplosioni subisca alterazioni. 
+ 
+
+ 1.2.6. Apertura senza pericoli 
+ 
+
+ Se gli apparecchi e i sistemi di protezione sono alloggiati in un contenitore (rigido o flessibile) facente parte della protezione stessa contro le esplosioni, questo deve poter essere aperto soltanto con un attrezzo speciale oppure con misure di protezione adeguate. 
+ 
+
+ 1.2.7. Protezione contro altri rischi 
+ 
+
+ Gli apparecchi e i sistemi di protezione devono essere progettati e costruiti in modo da: 
+ 
+
+ a) evitare i rischi di ferite o altre lesioni dovuti a contatti diretti o indiretti; 
+ 
+
+ b) evitare che si producano temperature superficiali delle parti accessibili o irradiamenti atti a generare pericoli; 
+ 
+
+ c) eliminare i pericoli di carattere non elettrico riscontrati in base all'esperienza; 
+ 
+
+ d) far sì che le condizioni di sovraccarico previste non determinino situazioni pericolose. 
+ 
+
+ Quando, per gli apparecchi e i sistemi di protezione, i rischi di cui al presente punto sono contemplati, totalmente o parzialmente, da altre normative dell'Unione, la presente direttiva non si applica o cessa di essere applicata per detti apparecchi e sistemi di protezione e per detti rischi, a partire dall'applicazione di tali normative specifiche dell'Unione. 
+ 
+
+ 1.2.8. Sovraccarico degli apparecchi 
+ 
+
+ Si deve evitare di sovraccaricare pericolosamente gli apparecchi servendosi di dispositivi integrati di misurazione, di comando e di regolazione fin dal momento della loro progettazione, in particolare mediante limitatori di sovracorrente, limitatori di temperatura, interruttori di pressione differenziali, flussometri, relè a temporizzatore, contagiri e/o dispositivi di controllo analoghi. 
+ 
+
+ 1.2.9. Sistemi di protezione antideflagrante 
+ 
+
+ Se delle parti che possono innescare un'atmosfera esplosiva sono chiuse in un contenitore flessibile, occorre accertarsi che questo resista alla pressione sviluppata da un'esplosione interna di una miscela esplosiva ed impedisca la trasmissione dell'esplosione all'atmosfera esplosiva circostante. 
+ 
+
+ 1.3. Sorgenti potenziali di innesco di esplosione 
+ 
+
+ 1.3.1. Pericoli derivanti da varie sorgenti di innesco di esplosione 
+ 
+
+ Si devono evitare sorgenti potenziali di innesco quali scintille, fiamme, archi elettrici, temperature superficiali elevate, emissioni di energia acustica, radiazioni ottiche, onde elettromagnetiche o altre sorgenti. 
+ 
+
+ 1.3.2. Pericoli provenienti dall'elettricità statica 
+ 
+
+ Occorre evitare, con misure appropriate, le cariche elettrostatiche che potrebbero provocare scariche pericolose. 
+ 
+
+ 1.3.3. Pericoli derivanti dalle correnti elettriche parassite e dalle fughe di corrente 
+ 
+
+ Occorre impedire che nelle parti conduttrici degli apparecchi si formino correnti elettriche parassite o di fuga, che diano luogo, per esempio, alla formazione di corrosioni pericolose, al riscaldamento delle superfici o a scintille in grado di provocare un innesco. 
+ 
+
+ 1.3.4. Pericoli risultanti da surriscaldamento 
+ 
+
+ In fase di progettazione occorre, per quanto possibile, evitare il surriscaldamento degli apparecchi provocato da attriti o urti che possono prodursi, ad esempio, nel caso di parti in moto relativo o per compenetrazione di corpi estranei. 
+ 
+
+ 1.3.5. Pericoli dovuti a fenomeni di compensazione delle pressioni 
+ 
+
+ I processi di compensazione delle pressioni devono essere regolati, sin dalla progettazione, rispettivamente con dispositivi integrati di misurazione, di comando o di regolazione, in modo da non provocare onde d'urto o di compressione che possono provocare inneschi. 
+ 
+
+ 1.4. Pericoli derivanti da perturbazioni esterne 
+ 
+
+ 1.4.1. Gli apparecchi e sistemi di protezione devono essere progettati e fabbricati in modo da svolgere con la massima sicurezza la funzione per la quale sono previsti, anche in presenza di variazioni ambientali, di tensioni parassite, di umidità, di vibrazioni, di inquinamenti o di altre perturbazioni esterne, tenuto conto dei limiti delle condizioni di impiego indicati dal fabbricante. 
+ 
+
+ 1.4.2. Le parti degli apparecchi devono essere adeguate alle sollecitazioni meccaniche e termiche previste e resistere all'azione aggressiva delle sostanze presenti o prevedibili. 
+ 
+
+ 1.5. Requisiti delle attrezzature di sicurezza 
+ 
+
+ 1.5.1. I dispositivi di sicurezza devono funzionare indipendentemente dai dispositivi di misura e/o di comando necessari all'esercizio. 
+ 
+
+ Per quanto possibile, il guasto di un dispositivo di sicurezza deve essere individuato con sufficiente rapidità, con l'ausilio di mezzi tecnici appropriati, in modo da ridurre al minimo le probabilità di insorgenza di una situazione pericolosa. 
+ 
+
+ Di norma, si deve applicare il principio della sicurezza positiva (fail-safe). 
+ 
+
+ Di norma, i comandi di sicurezza debbono agire direttamente sugli organi di controllo interessati, senza intermediazione del software. 
+ 
+
+ 1.5.2. Per quanto possibile, in caso di guasto dei dispositivi di sicurezza, gli apparecchi e/o i sistemi di protezione devono essere messi in posizione di sicurezza. 
+ 
+
+ 1.5.3. I sistemi di arresto d'emergenza dei dispositivi di sicurezza devono, per quanto possibile, essere muniti di un sistema di blocco che impedisca la ripresa non intenzionale del funzionamento. Un nuovo ordine di avvio deve poter agire sul funzionamento normale soltanto dopo che sia stato deliberatamente reinserito il sistema di blocco che impedisce la ripresa del funzionamento. 
+ 
+
+ 1.5.4. Dispositivi di segnalazione e di comando 
+ 
+
+ Se utilizzati, i dispositivi di segnalazione e di comando devono essere progettati secondo principi ergonomici, per ottenere la massima sicurezza di impiego per quanto riguarda il rischio di esplosione. 
+ 
+
+ 1.5.5. Requisiti applicabili ai dispositivi con funzioni di misurazione, destinati alla protezione contro le esplosioni 
+ 
+
+ I dispositivi con funzioni di misurazione, per quanto riguarda gli apparecchi utilizzati in atmosfera potenzialmente esplosiva, devono essere progettati e costruiti in modo conforme alle capacità di funzionamento prevedibili e alle loro condizioni speciali di impiego. 
+ 
+
+ 1.5.6. In caso di necessità, la precisione di lettura e la capacità di funzionamento dei dispositivi con funzioni di misurazione devono poter essere controllate. 
+ 
+
+ 1.5.7. Nella progettazione dei dispositivi con funzioni di misurazione si deve tener conto di un coefficiente di sicurezza che garantisca che la soglia di allarme sia abbastanza lontana dai limiti di esplosività e/o di innesco dell'atmosfera da analizzare, prendendo segnatamente in considerazione le condizioni di funzionamento dell'impianto e le possibili imprecisioni dei sistemi di misurazione. 
+ 
+
+ 1.5.8. Rischi provenienti dal software 
+ 
+
+ Già in fase di progettazione degli apparecchi e sistemi di protezione e dei dispositivi di sicurezza comandati da software, occorre tenere conto particolarmente dei rischi provenienti dalle anomalie dei programmi. 
+ 
+
+ 1.6. Integrazione dei requisiti di sicurezza del sistema 
+ 
+
+ 1.6.1. Gli apparecchi e i sistemi di protezione incorporati in processi automatici che deviano dalle condizioni di funzionamento previste devono poter essere disinseriti manualmente, purchè ciò non comprometta le condizioni generali di sicurezza. 
+ 
+
+ 1.6.2. Le energie accumulate devono essere dissipate nel modo più rapido e sicuro possibile, oppure isolate, quando sono azionati gli interruttori di emergenza, in modo da non costituire una fonte di pericolo. 
+ 
+
+ Ciò non vale per le energie accumulate con metodi elettrochimici. 
+ 
+
+ 1.6.3. Pericoli derivanti dalle interruzioni di corrente 
+ 
+
+ Gli apparecchi e i sistemi di protezione in cui un'interruzione della corrente può peggiorare la situazione di pericolo devono poter essere mantenuti in condizioni di funzionamento sicure indipendentemente dal resto dell'impianto. 
+ 
+
+ 1.6.4. Rischi derivanti dagli allacciamenti 
+ 
+
+ Gli apparecchi e i sistemi di protezione devono essere muniti di adeguate entrate per i cavi e per le condutture. 
+ 
+
+ Quando gli apparecchi e i sistemi di protezione sono destinati ad essere utilizzati congiuntamente ad altri apparecchi e sistemi di protezione, le interfacce non devono costituire una fonte di pericolo. 
+ 
+
+ 1.6.5. Installazione di dispositivi di allarme quali parti integranti di un apparecchio 
+ 
+
+ Qualora un apparecchio o un sistema di protezione sia dotato di dispositivi di individuazione o di allarme destinati a controllare la formazione di un'atmosfera esplosiva, devono essere fornite le indicazioni necessarie per collocare detti dispositivi nei luoghi appropriati. 
+ 
+
+ 2. Requisiti supplementari per gli apparecchi 
+ 
+
+ 2.0. Requisiti applicabili agli apparecchi del gruppo I 
+ 
+
+ 2.0.1. Requisiti applicabili alla categoria di apparecchi M1 del gruppo I 
+ 
+
+ 2.0.1.1. Gli apparecchi devono essere progettati e fabbricati in modo che le sorgenti di innesco non si attivino, neanche in caso di anomalie eccezionali dell'apparecchio. 
+ 
+
+ Essi devono essere muniti di mezzi di protezione tali che: 
+ 
+
+ - in caso di guasto di uno dei mezzi di protezione, almeno un secondo mezzo indipendente assicuri il livello di protezione richiesto, 
+ 
+
+ - oppure se si manifestano due anomalie indipendenti l'una dall'altra, sia assicurato il livello di protezione richiesto. 
+ 
+
+ Se necessario, gli apparecchi devono essere muniti di speciali mezzi supplementari di protezione. 
+ 
+
+ Essi devono poter restare operativi in presenza di atmosfere esplosive. 
+ 
+
+ 2.0.1.2. Se necessario, gli apparecchi devono essere fabbricati in modo che la polvere non possa penetrare all'interno. 
+ 
+
+ 2.0.1.3. Per evitare l'infiammazione delle polveri in sospensione, le temperature superficiali degli apparecchi devono essere nettamente inferiori alla temperatura di infiammazione della miscela aria-polvere prevedibile. 
+ 
+
+ 2.0.1.4. Gli apparecchi devono essere progettati in modo che sia possibile aprirne le parti che possono costituire sorgente di innesco soltanto in assenza di energia o in condizioni intrinseche di sicurezza. Qualora non sia possibile disattivare gli apparecchi, il fabbricante deve apporre un'etichetta di avvertimento sulle parti apribili degli apparecchi. 
+ 
+
+ Se necessario, gli apparecchi devono essere dotati di meccanismi di apertura supplementari adeguati. 
+ 
+
+ 2.0.2. Requisiti applicabili alla categoria di apparecchi M 2 del gruppo I 
+ 
+
+ 2.0.2.1. Gli apparecchi devono essere muniti di mezzi di protezione in modo che le sorgenti di innesco non possano attivarsi durante il funzionamento normale, neppure in condizioni di esercizio gravose, dovute in particolare ad un uso severo dell'apparecchio e a continue variazioni ambientali. 
+ 
+
+ In presenza di atmosfere esplosive, l'alimentazione di energia di detti apparecchi dovrebbe poter essere interrotta. 
+ 
+
+ 2.0.2.2. Gli apparecchi devono essere progettati in modo che l'apertura delle parti che possono costituire una sorgente di innesco sia possibile soltanto in assenza di energia o con meccanismi di apertura appropriati. Qualora non sia possibile disattivare gli apparecchi, il fabbricante deve apporre un'etichetta di avvertimento sulle parti apribili degli apparecchi. 
+ 
+
+ 2.0.2.3. Per quanto concerne le misure di protezione contro le esplosioni derivanti dalla presenza di polveri, devono essere rispettati i requisiti corrispondenti della categoria di apparecchi M 1. 
+ 
+
+ 2.1. Requisiti applicabili alla categoria di apparecchi 1 del gruppo II 
+ 
+
+ 2.1.1. Atmosfera esplosiva dovuta alla presenza di gas, vapori o nebbie 
+ 
+
+ 2.1.1.1. Gli apparecchi devono essere progettati e fabbricati in modo da evitare che le sorgenti di innesco, anche quelle derivanti da una anomalia eccezionale dell'apparecchio, si attivino. 
+ 
+
+ Essi devono essere muniti di mezzi di protezione tali che: 
+ 
+
+ - in caso di guasto di uno dei mezzi di protezione, almeno un secondo mezzo indipendente assicuri il livello di protezione richiesto, 
+ 
+
+ - oppure se si manifestano due anomalie indipendenti l'una dall'altra, sia assicurato il livello di protezione richiesto. 
+ 
+
+ 2.1.1.2. Per gli apparecchi le cui superfici possono riscaldarsi, occorre fare in modo che, anche nelle peggiori ipotesi, non si raggiunga la temperatura superficiale massima prescritta. 
+ 
+
+ Devono essere presi in considerazione anche gli aumenti di temperatura derivanti da un accumulo di calore e da reazioni chimiche. 
+ 
+
+ 2.1.1.3. Gli apparecchi devono essere progettati in modo che sia possibile aprirne le parti che possono costituire sorgente di innesco soltanto in assenza di energia o in condizioni intrinseche di sicurezza. Qualora non sia possibile disattivare gli apparecchi, il fabbricante deve apporre un'etichetta di avvertimento sulle parti apribili degli apparecchi. 
+ 
+
+ Se necessario, gli apparecchi devono essere dotati di meccanismi di apertura supplementari adeguati. 
+ 
+
+ 2.1.2. Atmosfera esplosiva dovuta alla presenza di miscele aria-polveri 
+ 
+
+ 2.1.2.1. Gli apparecchi devono essere progettati e fabbricati in modo da evitare l'infiammazione di miscele aria-polveri, anche quelle dovute ad un'anomalia eccezionale dell'apparecchio. 
+ 
+
+ Essi devono essere muniti di mezzi di protezione tali che: 
+ 
+
+ - in caso di guasto di uno dei mezzi di protezione, almeno un secondo mezzo indipendente assicuri il livello di protezione richiesto, 
+ 
+
+ - oppure se si manifestano due anomalie indipendenti l'una dall'altra, sia assicurato il livello di protezione richiesto. 
+ 
+
+ 2.1.2.2. Se necessario, gli apparecchi devono essere costruiti in modo che la penetrazione o la fuoriuscita di polveri sia possibile solo nei punti dell'apparecchio a tal fine previsti. 
+ 
+
+ Anche le entrate dei cavi e dei raccordi devono soddisfare questo requisito. 
+ 
+
+ 2.1.2.3. Per evitare l'infiammazione delle polveri in sospensione, le temperature superficiali delle parti degli apparecchi devono essere nettamente inferiori alla temperatura di infiammazione della miscela aria-polveri prevedibile. 
+ 
+
+ 2.1.2.4. Per quanto concerne l'apertura senza pericolo di parti dell'apparecchio, si applica il requisito di cui al punto 2.1.1.3. 
+ 
+
+ 2.2. Requisiti applicabili alla categoria di apparecchi 2 del gruppo II 
+ 
+
+ 2.2.1. Atmosfera esplosiva dovuta alla presenza di gas, vapori o nebbie 
+ 
+
+ 2.2.1.1. Gli apparecchi devono essere progettati e fabbricati in modo da evitare le sorgenti di innesco, anche in caso di anomalie ricorrenti o di difetti di funzionamento degli apparecchi di cui occorre abitualmente tener conto. 
+ 
+
+ 2.2.1.2. Le parti degli apparecchi devono esser progettate e costruite in modo che le temperature delle superfici non siano superate, neppure nel caso in cui i rischi provengano da situazioni anormali previste dal fabbricante. 
+ 
+
+ 2.2.1.3. Gli apparecchi devono essere progettati in modo che l'apertura delle parti che possono costituire sorgente di innesco sia possibile soltanto in assenza di energia o attraverso meccanismi di apertura adeguati. Qualora non sia possibile disattivare gli apparecchi, il fabbricante deve apporre un'etichetta di avvertimento sulle parti apribili degli apparecchi. 
+ 
+
+ 2.2.2. Atmosfera esplosiva dovuta alla presenza di miscele aria-polveri 
+ 
+
+ 2.2.2.1. Gli apparecchi devono essere progettati e fabbricati in modo da evitare l'infiammazione di miscele aria-polveri, anche quella derivante da anomalie ricorrenti o da difetti di funzionamento degli apparecchi di cui occorre abitualmente tener conto. 
+ 
+
+ 2.2.2.2. Per quanto concerne le temperature superficiali, si applica il requisito di cui al punto 2.1.2.3. 
+ 
+
+ 2.2.2.3. Per quanto concerne la protezione contro la polvere, si applica il requisito di cui al punto 2.1.2.2. 
+ 
+
+ 2.2.2.4. Per quanto concerne l'apertura senza pericolo di parti dell'apparecchio, si applica il requisito di cui al punto 2.2.1.3. 
+ 
+
+ 2.3. Requisiti applicabili alla categoria di apparecchi 3 del gruppo II 
+ 
+
+ 2.3.1. Atmosfera esplosiva dovuta alla presenza di gas, vapori o nebbie 
+ 
+
+ 2.3.1.1. Gli apparecchi devono essere progettati e costruiti in modo da evitare le sorgenti di innesco prevedibili durante il funzionamento normale. 
+ 
+
+ 2.3.1.2. Nelle condizioni di funzionamento previste, le temperature superficiali non devono superare le temperature massime indicate. Un eventuale superamento è tollerabile, in casi eccezionali, se il fabbricante adotta misure di protezione speciali supplementari. 
+ 
+
+ 2.3.2. Atmosfera esplosiva dovuta alla presenza di miscele aria-polveri 
+ 
+
+ 2.3.2.1. Gli apparecchi devono essere progettati e costruiti in modo che le sorgenti di innesco prevedibili in condizioni normali di funzionamento non rischino di infiammare le miscele aria-polveri. 
+ 
+
+ 2.3.2.2. Per quanto concerne le temperature superficiali, si applica il requisito di cui al punto 2.1.2.3. 
+ 
+
+ 2.3.2.3. Gli apparecchi, comprese le entrate dei cavi e dei raccordi previsti, devono essere fabbricati tenendo conto delle dimensioni delle particelle di polveri per impedire la formazione di miscele potenzialmente esplosive aria-polveri o di depositi di polvere pericolosi all'interno. 
+ 
+
+ 3. Requisiti supplementari per i sistemi di protezione 
+ 
+
+ 3.0. Requisiti generali 
+ 
+
+ 3.0.1. I sistemi di protezione devono essere dimensionati in modo da ricondurre gli effetti di un'esplosione ad un livello di sicurezza sufficiente. 
+ 
+
+ 3.0.2. I sistemi di protezione devono essere progettati e installati in modo da impedire che le esplosioni si trasmettano pericolosamente per reazione a catena oppure irraggiamento del calore e che le esplosioni si trasformino sul nascere in detonazioni. 
+ 
+
+ 3.0.3. In caso di interruzione dell'alimentazione, i sistemi di protezione devono conservare la capacità di funzionamento per un periodo adeguato, onde evitare situazioni pericolose. 
+ 
+
+ 3.0.4. I sistemi di protezione non devono presentare anomalie di funzionamento dovute a perturbazioni esterne. 
+ 
+
+ 3.1. Studio e progettazione 
+ 
+
+ 3.1.1. Caratteristiche dei materiali 
+ 
+
+ La pressione e la temperatura massime di riferimento per lo studio delle caratteristiche dei materiali sono la pressione prevedibile in caso di esplosione innescatasi in condizioni di esercizio estreme e l'effetto di riscaldamento provocato dalla fiamma prevedibile. 
+ 
+
+ 3.1.2. I sistemi di protezione progettati per resistere alle esplosioni o contenerle devono resistere all'onda d'urto senza perdere la loro integrità. 
+ 
+
+ 3.1.3. Gli accessori collegati ai sistemi di protezione devono resistere alla pressione massima di esplosione prevista, senza perdere la capacità di funzionamento. 
+ 
+
+ 3.1.4. Nello studio e nella progettazione dei sistemi di protezione, si deve tener conto delle conseguenze derivanti dalla pressione sulle attrezzature periferiche e sulle tubature di allacciamento. 
+ 
+
+ 3.1.5. Scarichi 
+ 
+
+ Se si prevede che i sistemi di protezione utilizzati saranno sollecitati al di là della loro resistenza, si dovranno prevedere fin dalla progettazione scarichi adeguati, che non espongano a pericoli il personale che si trova nelle vicinanze. 
+ 
+
+ 3.1.6. Sistemi di soffocamento delle esplosioni 
+ 
+
+ I sistemi di soffocamento delle esplosioni devono essere studiati e progettati in modo che, in caso di incidente, controllino il più rapidamente possibile l'esplosione sul nascere e la contrastino in modo ottimale, tenendo conto dell'aumento di pressione più rapido e della pressione massima dell'esplosione. 
+ 
+
+ 3.1.7. Sistemi di disinserimento 
+ 
+
+ I sistemi previsti per disinserire determinati apparecchi sul nascere dell'esplosione, con dispositivi adeguati ed entro brevissimo tempo, devono essere studiati e progettati in modo da rimanere stagni alla trasmissione della fiamma interna e conservare la resistenza meccanica nelle condizioni di funzionamento. 
+ 
+
+ 3.1.8. I sistemi di protezione devono poter essere integrati nei circuiti con una soglia di allarme adeguata, affinchè, in caso di necessità, vengano interrotti l'arrivo e l'uscita dei prodotti e vengano disinserite quelle parti degli apparecchi che non garantiscono più un funzionamento sicuro.
