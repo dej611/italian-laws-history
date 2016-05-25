@@ -86,9 +86,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Sulla
+ 
+ Sulla proposta del Ministro per le politiche europee, del Ministro dello sviluppo economico e del Ministro delle comunicazioni, di concerto con i Ministri degli affari esteri, della giustizia e dell'economia e delle finanze;
 
- proposta del Ministro per le politiche europee, del Ministro dello sviluppo economico e del Ministro delle comunicazioni, di concerto con i Ministri degli affari esteri, della giustizia e dell'economia e delle finanze; Emana il seguente decreto legislativo:
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
 
  Art. 1
 
@@ -120,17 +125,30 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) ai prodotti aeronautici e loro parti e pertinenze di cui al regolamento CE n. 1592/2002 del Parlamento europeo e del Consiglio, del 15 luglio 2002, recante regole comuni nel settore dell'aviazione civile e che istituisce una Agenzia europea per la sicurezza aerea; 
+ ((
+
+ b) ai prodotti aeronautici, parti e pertinenze di cui al regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, del 20 febbraio 2008, recante regole comuni nel settore dell'aviazione civile e che istituisce un'Agenzia europea per la sicurezza aerea, e che abroga la direttiva 91/670/CEE del Consiglio, il regolamento (CE) n. 1592/2002 e la direttiva 2004/36/CE;
+
+ ))
+
  
 
  
+ ((
+
+ c) alle apparecchiature radio utilizzate da radioamatori, ai sensi delle disposizioni relative alle radiocomunicazioni adottate nel quadro della costituzione dell'Unione internazionale delle telecomunicazioni e della convenzione dell'Unione internazionale delle telecomunicazioni, a meno che tali apparecchiature siano messe a disposizione sul mercato; a tale fine i kit di componenti destinati a essere assemblati da radioamatori e le apparecchiature messe a disposizione sul mercato nonchè modificate e utilizzate da radioamatori non sono considerati apparecchiature messe a disposizione sul mercato;
+
+ ))
+
  
 
  
- c) alle apparecchiature radio utilizzate da radioamatori, secondo le disposizioni relative alle radiocomunicazioni adottate nel quadro della Costituzione e della Convenzione dell'Unione internazionale delle telecomunicazioni (UIT), a meno che tali apparecchiature siano disponibili in commercio; a tale fine, i kit di componenti assemblati da radioamatori per proprio uso e le apparecchiature commerciali modificate per proprio uso da radioamatori non sono considerate apparecchiature disponibili in commercio; 
- 
+ ((
 
- 
+ c-bis) ai kit di valutazione su misura per professionisti destinati ad essere utilizzati unicamente in strutture di ricerca e sviluppo a tali fini;
+
+ ))
+
  
 
  
@@ -154,14 +172,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) non generano o non contribuiscono a generare emissioni elettromagnetiche che superano un livello compatibile con il regolare funzionamento delle apparecchiature radio e di telecomunicazione e di altre apparecchiature; 
+ a) 
+ ((sono incapaci di generare o contribuire))
+
+ a generare emissioni elettromagnetiche che superano un livello compatibile con il regolare funzionamento delle apparecchiature radio e di telecomunicazione e di altre apparecchiature; 
  
 
  
  
 
  
- b) funzionano senza inaccettabile alterazione in presenza delle perturbazioni elettromagnetiche abitualmente derivanti dall'uso al quale sono destinate. 
+ b) funzionano senza 
+ ((deterioramento inaccettabile))
+
+ in presenza delle perturbazioni elettromagnetiche abitualmente derivanti dall'uso al quale sono destinate. 
  
 
  
@@ -172,7 +196,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Qualora, per le apparecchiature di cui all'articolo 3, i requisiti essenziali indicati all'allegato I sono interamente o parzialmente stabiliti in maniera più specifica da altre direttive comunitarie, il presente decreto legislativo non si applica; esso cessa comunque di applicarsi a decorrere dalla data di recepimento di dette direttive, con riferimento ai requisiti essenziali dalle stesse definiti. 
+ 4. Qualora, per le apparecchiature di cui all'articolo 3, i requisiti essenziali indicati all'allegato I sono interamente o parzialmente stabiliti in maniera più specifica da altre direttive 
+ ((dell'Unione europea))
+
+ , il presente decreto legislativo non si applica; esso cessa comunque di applicarsi a decorrere dalla data di recepimento di dette direttive, con riferimento ai requisiti essenziali dalle stesse definiti. 
  
 
  
@@ -180,167 +207,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Il presente decreto non incide sull'applicazione della legislazione comunitaria o nazionale che disciplina la sicurezza delle apparecchiature. 
- 
+ 5. Il presente decreto non incide sull'applicazione della legislazione 
+ ((dell'Unione europea))
 
- 
- 
- 
-
- 
-
- 
- AVVERTENZA:
- 
-
- Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
- 
-
- Per regolamenti e direttive CE vengono forniti gli estremi di pubblicazione nella Gazzetta ufficiale dell'Unione europea (GUUE).
- 
-
- Note alle premesse:
- 
-
- - L'art. 76 della Costituzione delega l'esercizio della funzione legislativa al Governo, per un periodo di tempo limitato e per oggetti definiti, previa determinazione di principi e criteri direttivi.
- 
-
- - L'art. 87 della Costituzione conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- 
-
- - L'art. 1 e l'allegato B della legge L. 25 gennaio 2006, n. 29 "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee. Legge comunitaria 2005", pubblicata nella Gazzetta Ufficiale 8 febbraio 2006, n. 32, supplemento ordinario, così dispongono:
- 
-
- "Art. 1. (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo è delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
- 
-
- 2. I decreti legislativi sono adottati, nel rispetto dell'art. 14 della legge 23 agosto 1988, n. 400, su proposta del Presidente del Consiglio dei Ministri o del Ministro per le politiche comunitarie e del Ministro con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e con gli altri Ministri interessati in relazione all'oggetto della direttiva.
- 
-
- 3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonchè, qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive elencate nell'allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perchè su di essi sia espresso il parere dei competenti organi parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma, ovvero i diversi termini previsti dai commi 4 e 9, scadano nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di novanta giorni.
- 
-
- 4. Gli schemi dei decreti legislativi recanti attuazione della direttiva 2003/123/CE, della direttiva 2004/9/CE, della direttiva 2004/36/CE, della direttiva 2004/49/CE, della direttiva 2004/50/CE, della direttiva 2004/54/CE, della direttiva 2004/80/CE, della direttiva 2004/81/CE, della direttiva 2004/83/CE, della direttiva 2004/113/CE della direttiva 2005/14/CE, della direttiva 2005/19/CE, della direttiva 2005/28/CE, della direttiva 2005/36/CE e della direttiva 2005/60/CE sono corredati dalla relazione tecnica di cui all'art. 11-ter, comma 2, della legge 5 agosto 1978, n. 468, e successive modificazioni. Su di essi è richiesto anche il parere delle Commissioni parlamentari competenti per i profili finanziari. Il Governo, ove non intenda conformarsi alle condizioni formulate con riferimento all'esigenza di garantire il rispetto dell'art. 81, quarto comma, della Costituzione, ritrasmette alle Camere i testi, corredati dei necessari elementi integrativi di informazione, per i pareri definitivi delle Commissioni competenti per i profili finanziari, che devono essere espressi entro venti giorni.
- 
-
- 5. Entro diciotto mesi dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, nel rispetto dei principi e criteri direttivi fissati dalla presente legge, il Governo può emanare, con la procedura indicata nei commi 2, 3 e 4, disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1, fatto salvo quanto previsto dal comma 6.
- 
-
- 6. Entro tre anni dalla data di entrata in vigore del decreto legislativo di cui al comma 1 adottato per l'attuazione della direttiva 2004/109/CE, di cui all'allegato B, il Governo, nel rispetto dei principi e criteri direttivi di cui all'art. 3 e con la procedura prevista dal presente articolo, può emanare disposizioni integrative e correttive al fine di tenere conto delle eventuali disposizioni di attuazione adottate dalla Commissione europea secondo la procedura di cui all'art. 27, paragrafo 2, della medesima direttiva.
- 
-
- 7. In relazione a quanto disposto dall'art. 117, quinto comma, della Costituzione e dall'art. 16, comma 3, della legge 4 febbraio 2005, n. 11, si applicano le disposizioni di cui all'art. 11, comma 8, della medesima legge n. 11 del 2005.
- 
-
- 8. Il Ministro per le politiche comunitarie, nel caso in cui una o più deleghe di cui al comma 1 non risulti ancora esercitata trascorsi quattro mesi dal termine previsto dalla direttiva per la sua attuazione, trasmette alla Camera dei deputati e al Senato della Repubblica una relazione che dia conto dei motivi addotti dai Ministri con competenza istituzionale prevalente per la materia a giustificazione del ritardo. Il Ministro per le politiche comunitarie ogni quattro mesi informa altresì la Camera dei deputati e il Senato della Repubblica sullo stato di attuazione delle direttive da parte delle regioni e delle province autonome nelle materie di loro competenza.
- 
-
- 9. Il Governo, quando non intende conformarsi ai pareri parlamentari di cui al comma 3, relativi a sanzioni penali contenute negli schemi di decreti legislativi recanti attuazione delle direttive comprese negli allegati A e B, ritrasmette con le sue osservazioni e con eventuali modificazioni i testi alla Camera dei deputati e al Senato della Repubblica. Decorsi trenta giorni dalla data di ritrasmissione, i decreti sono emanati anche in mancanza di nuovo parere."
- 
-
- "Allegato B Art. 1, commi 1 e 3) 98/44/CE del Parlamento europeo e del Consiglio, del 6 luglio 1998, sulla protezione giuridica delle invenzioni biotecnologiche.
- 
-
- 2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000, che istituisce un quadro per l'azione comunitaria in materia di acque.
- 
-
- 2003/123/CE del Consiglio, del 22 dicembre 2003, che modifica la direttiva 90/435/CEE concernente il regime fiscale comune applicabile alle società madri e figlie di Stati membri diversi.
- 
-
- 2004/9/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, concernente l'ispezione e la verifica della buona pratica di laboratorio (BPL).
- 
-
- 2004/36/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004, sulla sicurezza degli aeromobili di paesi terzi che utilizzano aeroporti comunitari.
- 
-
- 2004/40/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, sulle prescrizioni minime di sicurezza e di salute relative all'esposizione dei lavoratori ai rischi derivanti dagli agenti fisici (campi elettromagnetici) (diciottesima direttiva particolare ai sensi dell'art. 16, paragrafo 1, della direttiva 89/391/CEE).
- 
-
- 2004/49/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa alla sicurezza delle ferrovie comunitarie e recante modifica della direttiva 95/18/CE del Consiglio relativa alle licenze delle imprese ferroviarie e della direttiva 2001/14/CE relativa alla ripartizione della capacità di infrastruttura ferroviaria, all'imposizione dei diritti per l'utilizzo dell'infrastruttura ferroviaria e alla certificazione di sicurezza (direttiva sulla sicurezza delle ferrovie).
- 
-
- 2004/50/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, che modifica la direttiva 96/48/CE del Consiglio relativa all'interoperabilità del sistema ferroviario transeuropeo ad alta velocità e la direttiva 2001/16/CE del Parlamento europeo e del Consiglio relativa all'interoperabilità del sistema ferroviario transeuropeo convenzionale.
- 
-
- 2004/51/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, che modifica la direttiva 91/440/CEE relativa allo sviluppo delle ferrovie comunitarie.
- 
-
- 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea.
- 
-
- 2004/80/CE del Consiglio, del 29 aprile 2004, relativa all'indennizzo delle vittime di reato.
- 
-
- 2004/81/CE del Consiglio, del 29 aprile 2004, riguardante il titolo di soggiorno da rilasciare ai cittadini di paesi terzi vittime della tratta di esseri umani o coinvolti in un'azione di favoreggiamento dell'immigrazione illegale che cooperino con le autorità competenti.
- 
-
- 2004/82/CE del Consiglio, del 29 aprile 2004, concernente l'obbligo dei vettori di comunicare i dati relativi alle persone trasportate.
- 
-
- 2004/83/CE del Consiglio, del 29 aprile 2004, recante norme minime sull'attribuzione, a cittadini di paesi terzi o apolidi, della qualifica di rifugiato o di persona altrimenti bisognosa di protezione internazionale, nonchè norme minime sul contenuto della protezione riconosciuta.
- 
-
- 2004/108/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004, concernente il ravvicinamento delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica e che abroga la direttiva 89/336/CEE.
- 
-
- 2004/109/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004, sull'armonizzazione degli obblighi di trasparenza riguardanti le informazioni sugli emittenti i cui valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato e che modifica la direttiva 2001/34/CE.
- 
-
- 2004/113/CE del Consiglio, del 13 dicembre 2004, che attua il principio della parità di trattamento tra uomini e donne per quanto riguarda l'accesso a beni e servizi e la loro fornitura.
- 
-
- 2005/14/CE del Parlamento europeo e del Consiglio, dell'11 maggio 2005, che modifica la direttiva 72/166/CEE, la direttiva 84/5/CEE, la direttiva 88/357/CEE e la direttiva 90/232/CEE tutte del Consiglio e la direttiva 2000/26/CE del Parlamento europeo e del Consiglio sull'assicurazione della responsabilità civile risultante dalla circolazione di autoveicoli.
- 
-
- 2005/19/CE del Consiglio, del 17 febbraio 2005, che modifica la direttiva 90/434/CEE relativa al regime fiscale comune da applicare alle fusioni, alle scissioni, ai conferimenti d'attivo ed agli scambi d'azioni concernenti società di Stati membri diversi.
- 
-
- 2005/28/CE della Commissione, dell'8 aprile 2005, che stabilisce i principi e le linee guida dettagliate per la buona pratica clinica relativa ai medicinali in fase di sperimentazione a uso umano nonchè i requisiti per l'autorizzazione alla fabbricazione o importazione di tali medicinali.
- 
-
- 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, relativa al riconoscimento delle qualifiche professionali.
- 
-
- 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attività criminose e di finanziamento del terrorismo".
- 
-
- - La Direttiva 15 dicembre 2004, n. 2004/108/CE "Direttiva del Parlamento europeo e del Consiglio concernente il ravvicinamento delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica e che abroga la direttiva 89/336/CEE", è pubblicata nella Gazzetta uffuciale dell'Unione europea 31 dicembre 2004, n. L 390.
- 
-
- - L'art. 47 della legge 6 febbraio 1996, n. 52, "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - legge comunitaria 1994", pubblicata nella Gazzetta Ufficiale 10 febbraio 1996, n. 34, supplemento ordinario, così dispone:
- 
-
- "Art. 47 (Procedure di certificazione e/o attestazione finalizzate alla marcatura CE). - 1. Le spese relative alle procedure di certificazione e/o attestazione per l'apposizione della marcatura CE, previste dalla normativa comunitaria, nonchè quelle conseguenti alle procedure di riesame delle istanze presentate per le stesse finalità, sono a carico del fabbricante o del suo rappresentante stabilito nell'Unione europea.
- 
-
- 2. Le spese relative alle procedure finalizzate all'autorizzazione degli organismi ad effettuare le procedure di cui al comma 1 sono a carico dei richiedenti.
- 
-
- Le spese relative ai successivi controlli sugli organismi autorizzati sono a carico di tutti gli organismi autorizzati per la medesima tipologia dei prodotti. I controlli possono avvenire anche mediante l'esame a campione dei prodotti certificati
- 
-
- 3. I proventi derivanti dalle attività di cui al comma 1, se effettuate da organi dell'amministrazione centrale o periferica dello Stato, e dall'attività di cui al comma 2, sono versati all'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro del tesoro, agli stati di previsione dei Ministeri interessati sui capitoli destinati al funzionamento dei servizi preposti, per lo svolgimento delle attività di cui ai citati commi e per l'effettuazione dei controlli successivi sul mercato che possono essere effettuati dalle autorità competenti mediante l'acquisizione temporanea a titolo gratuito dei prodotti presso i produttori, i distributori ed i rivenditori.
- 
-
- 4. Con uno o più decreti dei Ministri competenti per materia, di concerto con il Ministro del tesoro, sono determinate ed aggiornate, almeno ogni due anni, le tariffe per le attività autorizzative di cui al comma 2 e per le attività di cui al comma 1 se effettuate da organi dell'amministrazione centrale o periferica dello Stato, sulla base dei costi effettivi dei servizi resi, nonchè le modalità di riscossione delle tariffe stesse e dei proventi a copertura delle spese relative ai controlli di cui al comma 2. Con gli stessi decreti sono altresì determinate le modalità di erogazione dei compensi dovuti, in base alla vigente normativa, al personale dell'amministrazione centrale o periferica dello Stato addetto alle attività di cui ai medesimi commi 1 e 2, nonchè le modalità per l'acquisizione a titolo gratuito e la successiva eventuale restituzione dei prodotti ai fini dei controlli sul mercato effettuati dalle amministrazioni vigilanti nell'ambito dei poteri attribuiti dalla normativa vigente. L'effettuazione dei controlli dei prodotti sul mercato, come disciplinati dal presente comma, non deve comportare ulteriori oneri a carico del bilancio dello Stato.
- 
-
- 5. Con l'entrata in vigore dei decreti applicativi del presente articolo, sono abrogate le disposizioni incompatibili emanate in attuazione di direttive comunitarie in materia di certificazione CE.
- 
-
- 6. I decreti di cui al comma 4 sono emanati entro sessanta giorni dalla data di entrata in vigore dei provvedimenti di recepimento delle direttive che prevedono l'apposizione della marcatura CE; trascorso tale termine, si provvede con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; le amministrazioni inadempienti sono tenute a fornire i dati di rispettiva competenza".
- 
-
- - Il decreto legislativo 12 novembre 1996, n. 615, "Attuazione della direttiva 89/336/CEE del Consiglio del 3 maggio 1989, in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica, modificata ed integrata dalla direttiva 92/31/CEE del Consiglio del 28 aprile 1992, dalla direttiva 93/68/CEE del Consiglio del 22 luglio 1993 e dalla direttiva 93/97/CEE del Consiglio del 29 ottobre 1993", abrogato dal presente decreto legislativo, è pubblicato nella Gazzetta Ufficiale 6 dicembre 1996, n. 286, supplemento oridinario.
- 
-
- - Il decreto legislativo 9 maggio 2001, n. 269 "Attuazione della direttiva 1999/5/CE riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita", è pubblicato nella Gazzetta Ufficiale 7 luglio 2001, n. 156, supplento ordiario.
- 
-
- Note all'art. 1:
- 
-
- - Per il decreto legislativo 9 maggio 2001 n. 269, si vedano le note alle premesse.
- 
-
- - Il Reg. (CE) 15-7-2002 n. 1592/2002 "Regolamento del Parlamento europeo e del Consiglio recante regole comuni nel settore dell'aviazione civile e che istituisce un'Agenzia europea per la sicurezza aerea", pubblicato nella Gazzetta ufficiale della Comunità europea 7 settembre 2002, n. L 240, è entrato in vigore il 27 settembre 2002.
+ o nazionale che disciplina la sicurezza delle apparecchiature.
