@@ -68,14 +68,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- Sulla proposta del Ministro per le politiche comunitarie e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e della giustizia;
+ Sulla
 
- 
-
- Emana
-
- il seguente decreto legislativo:
+ proposta del Ministro per le politiche comunitarie e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e della giustizia; Emana il seguente decreto legislativo:
 
  Art. 1
 
@@ -113,6 +108,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ c-bis) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 
+
+ 
+ 
+
+ c-ter) "CERS": Comitato europeo per il rischio sistemico, istituito con regolamento (UE) n. 1092/2010;
+
+ ))
+
+ 
+
+ 
  d) "agente di regolamento": il soggetto che mette a disposizione dei partecipanti conti per il regolamento di ordini di 
  
 
@@ -147,12 +158,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  h) "ente": uno dei seguenti organismi che partecipi ad un sistema assumendo gli obblighi derivanti da ordini di trasferimento nell'ambito del sistema: 
  
 
+ 1) una banca italiana o comunitaria, come definite all'articolo 1, comma 2, lettere a) e b), del testo unico bancario, un istituto di moneta elettronica, come definito nell'articolo 1, comma 2, lettera h-bis), del medesimo testo unico, nonchè gli organismi elencati all'articolo 2 della direttiva 2006/48/CE; 
  
- ((1) una banca italiana o comunitaria, come definite all'articolo 1, comma 2, lettere a) e b), del testo unico bancario, un istituto di moneta elettronica, come definito nell'articolo 1, comma 2, lettera h-bis), del medesimo testo unico, nonchè gli organismi elencati all'articolo 2 della direttiva 2006/48/CE;))
 
- ((2) una SIM, come definita dall'articolo 1, comma 1, lettera e), o un'impresa d'investimento comunitaria, come definita dall'articolo 1, comma 1, lettera f), del testo unico finanza, con esclusione degli enti di cui all'articolo 2, paragrafo 1, della direttiva 2004/39/CE;))
-
- 
+ 2) una SIM, come definita dall'articolo 1, comma 1, lettera e), o un'impresa d'investimento comunitaria, come definita dall'articolo 1, comma 1, lettera f), del testo unico finanza, con esclusione degli enti di cui all'articolo 2, paragrafo 1, della direttiva 2004/39/CE; 
  
 
  3) un'autorità pubblica, o un'impresa pubblica come definita all'articolo 8 del regolamento n. 3603/93 del Consiglio CE del 13 dicembre 1993, nonchè un'impresa la cui attività sia assistita da garanzia pubblica; 
@@ -168,12 +177,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ i) 'garanzià: qualsiasi diritto avente ad oggetto o relativo a valute, strumenti finanziari o altre attività, compresa senza limitazioni la garanzia finanziaria di cui all'articolo 1, paragrafo 4, lettera a), della direttiva 2002/47/CE, prontamente realizzabili da chiunque e in qualunque modo e forma, costituito al fine di assicurare l'adempimento di obblighi presenti o futuri derivanti da ordini di trasferimento attraverso un sistema o da operazioni effettuate con banche centrali; 
+ 
 
- i) 'garanzià: qualsiasi diritto avente ad oggetto o relativo a valute, strumenti finanziari o altre attività, compresa senza limitazioni la garanzia finanziaria di cui all'articolo 1, paragrafo 4, lettera a), della direttiva 2002/47/CE, prontamente realizzabili da chiunque e in qualunque modo e forma, costituito al fine di assicurare l'adempimento di obblighi presenti o futuri derivanti da ordini di trasferimento attraverso un sistema o da operazioni effettuate con banche centrali;
-
- ))
-
+ 
  
 
  
@@ -187,10 +194,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  m) "ordine di trasferimento": ogni istruzione nell'ambito di un sistema da parte di un partecipante di: 
  
 
- 1) mettere a disposizione di un beneficiario un importo in valuta attraverso una scrittura sui conti di una banca (italiana o comunitaria), di una banca centrale 
- ((, di una controparte centrale))
-
- o di un agente di regolamento ovvero che determini l'assunzione o l'adempimento di un obbligo di pagamento in base alle regole del sistema, ovvero 
+ 1) mettere a disposizione di un beneficiario un importo in valuta attraverso una scrittura sui conti di una banca (italiana o comunitaria), di una banca centrale, di una controparte centrale o di un agente di regolamento ovvero che determini l'assunzione o l'adempimento di un obbligo di pagamento in base alle regole del sistema, ovvero 
  
 
  2) trasferire la titolarità o altri diritti su uno o più strumenti finanziari, attraverso una scrittura in un libro contabile o in altro modo; 
@@ -200,22 +204,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione 
- ((, un operatore del sistema o))
-
- , un sistema di garanzia partecipanti a un sistema; 
+ n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione, un operatore del sistema o, un sistema di garanzia partecipanti a un sistema; 
  
 
  
  
 
  
- ((
+ o) 'partecipante indirettò: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione o un operatore del sistema conosciuto dall'operatore del sistema, secondo le regole dello stesso, i cui ordini di trasferimento sono eseguiti attraverso il sistema da un partecipante in nome proprio in base a un vincolo contrattuale; 
+ 
 
- o) 'partecipante indirettò: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione o un operatore del sistema conosciuto dall'operatore del sistema, secondo le regole dello stesso, i cui ordini di trasferimento sono eseguiti attraverso il sistema da un partecipante in nome proprio in base a un vincolo contrattuale;
-
- ))
-
+ 
  
 
  
@@ -233,9 +232,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  r) 'sistemà: un insieme di disposizioni di natura contrattuale o autoritativa, in forza del quale vengono eseguiti con regole comuni e accordi standardizzati la compensazione, attraverso una controparte centrale o meno, o ordini di trasferimento fra i partecipanti, che sia contestualmente: 
  
 
@@ -245,11 +241,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) assoggettato alla legge di uno Stato membro dell'Unione europea, scelta dai partecipanti o prevista dalle regole che lo disciplinano, in cui almeno uno dei partecipanti medesimi abbia la sede legale; 
  
 
- 3) designato come sistema e notificato alla Commissione europea dallo Stato membro dell'Unione europea di cui si applica la legge. Un accordo concluso tra sistemi interoperabili non costituisce un sistema;
+ 3) designato come sistema e notificato 
+ ((all'AESFEM))
+
+ dallo Stato membro dell'Unione europea di cui si applica la legge. Un accordo concluso tra sistemi interoperabili non costituisce un sistema; 
  
 
- ))
-
+ 
  
 
  
@@ -280,10 +278,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  w) "sistema extracomunitario": un sistema di pagamento o di regolamento titoli di uno Stato non appartenente all'Unione europea. 
+ 
 
  
- ((
+ 
 
  
  w-bis) 'giorno lavorativò: comprende sia i regolamenti diurni sia i regolamenti notturni e include tutti gli eventi che occorrono durante il ciclo lavorativo del sistema; 
@@ -299,13 +299,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- w-quater) 'operatore del sistemà: il soggetto o i soggetti giuridicamente responsabili della gestione del sistema. L'operatore del sistema può anche agire come agente di regolamento, controparte centrale o stanza di compensazione.))
+ 
+ w-quater) 'operatore del sistemà: il soggetto o i soggetti giuridicamente responsabili della gestione del sistema. L'operatore del sistema può anche agire come agente di regolamento, controparte centrale o stanza di compensazione. 
+ 
 
+ (2) 
  
 
  
- ((2))
+ 
 
+ 
  
 
  
