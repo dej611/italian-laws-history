@@ -1,0 +1,208 @@
+Allegato C 
+ 
+
+ 
+ 
+
+ Formati di trasmissione dati del 
+ 
+
+ sistema informativo SINP 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 1 SCOPO DEL DOCUMENTO 
+ 
+
+ 2 ENTI COOPERANTI E INFORMAZIONI DI SCAMBIO 
+ 
+
+ 2.1 MINISTERO DEL LAVORO 
+ 
+
+ 2.2 INAIL 
+ 
+
+ 2.3 REGIONI 
+ 
+
+ 2.4 REGIONI - INAIL 
+ 
+
+ 2.5 INAIL SETTORE NAVIGAZIONE 
+ 
+
+ 2.6 MINISTERO DELLA SALUTE 
+ 
+
+ 2.7 FORZE ARMATE - POLIZIA - VVF 
+ 
+
+ 2.8 FORZE ARMATE 
+ 
+
+ 2.9 FORZE POLIZIA 
+ 
+
+ 2.10 VVF 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1 SCOPO DEL DOCUMENTO 
+ 
+
+ Il presente documento riporta i formati di trasmissione dei dati nell'ambito della Cooperazione Applicativa relativamente al Sistema Informativo Nazionale della Prevenzione. 
+ 
+
+ I dati dovranno essere trasmessi secondo lo standard "XML Schema Definition (XSD)", che permette di specificare: 
+ 
+
+ - la struttura che un documento XML deve avere; 
+ 
+
+ - il tipo di dato di ogni elemento e attributo. 
+ 
+
+ I file in formato XSD saranno parte integrante degli Accordi di Servizio che gli enti, tra loro cooperanti, dovranno sottoscrivere. 
+ 
+
+ 
+ 
+
+ 2 ENTI COOPERANTI E INFORMAZIONI DI SCAMBIO 
+ 
+
+ Di seguito vengono elencati i formati che dovranno essere predisposti per lo scambio delle informazioni tra i diversi enti cooperanti. 
+ 
+
+ 
+ 
+
+ 2.1 MINISTERO DEL LAVORO 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.2 INAIL 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.3 REGIONI 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.4 REGIONI - INAIL 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.5 INAIL SETTORE NAVIGAZIONE 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.6 MINISTERO DELLA SALUTE. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.7 FORZE ARMATE - POLIZIA - VVF 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.8 FORZE ARMATE 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.9 FORZE POLIZIA 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2.10 VVF 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico

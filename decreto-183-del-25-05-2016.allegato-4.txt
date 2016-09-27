@@ -1,0 +1,112 @@
+Allegato D 
+ 
+
+ 
+ 
+
+ Servizi di cooperazione applicativa 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 1 SCOPO DEL DOCUMENTO 
+ 
+
+ 2 SPECIFICHE FUNZIONALI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1 SCOPO DEL DOCUMENTO 
+ 
+
+ Il presente documento descrive le tipologie di servizi e i relativi metodi da esporre su Porta di Dominio e le modalità di cooperazione previste per lo scambio dei dati di cui all'allegato A, nei formati di cui all'allegato C. 
+ 
+
+ Tali servizi saranno parte integrante degli Accordi di Servizio che gli enti, tra loro cooperanti, dovranno sottoscrivere. 
+ 
+
+ 
+ 
+
+ 2 SPECIFICHE FUNZIONALI 
+ 
+
+ Di seguito vengono descritti, suddivisi per ente, i servizi previsti. 
+ 
+
+ Per tutti i metodi dei servizi sono previsti i seguenti campi identificativi della richiesta: 
+ 
+
+ • idRichiesta: Identificativo dell'invio effettuato da parte del
+ 
+
+ chiamante 
+ 
+
+ • DataRiferimento:. Data di riferimento per la validità dei dati
+ 
+
+ inviati. 
+ 
+
+ Il processo di comunicazione dei dati prevede che l'invio dei dati sia incrementale, ovvero ogni invio aggiunge dati nuovi; qualora sia necessario sarà comunque possibile modificare, annullare e rettificare i dati inviati precedentemente tramite i seguenti metodi: 
+ 
+
+ • Invio dei dati 
+ 
+
+ • Rettifica dati 
+ 
+
+ • Modifica dati 
+ 
+
+ • Annullamento dati 
+ 
+
+ Per le operazioni di rettifica, modifica e annullamento è necessario trasmettere i dati con apposito codice identificativo (idRichiesta). 
+ 
+
+ Il profilo di collaborazione applicativa comporta lo scambio di una coppia di messaggi: una richiesta inviata dalla Porta di Dominio (PDD) dell'ente a cui fa seguito una risposta da parte della Porta di Dominio del SINP. 
+ 
+
+ Sono previste collaborazioni realizzate tramite lo scambio di messaggi nelle due modalità sincrona e asincrona. 
+ 
+
+ Nel caso di collaborazione sincrona, la PDD dell'ente invia la propria richiesta applicativa ed attende la risposta della PDD del SINP. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ Figura 1 - Profilo sincrono 
+ 
+
+ 
+ 
+
+ Nel caso di collaborazione asincrona, la risposta della PDD del SINP può essere inviata in un tempo successivo e la PDD dell'ente non rimane quindi in attesa. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ Figura 2 - Profilo Asincrono
