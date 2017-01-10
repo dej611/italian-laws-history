@@ -1,0 +1,480 @@
+IL MINISTRO DELLE INFRASTRUTTURE
+
+ 
+ E DEI TRASPORTI
+
+ 
+
+ 
+ E
+
+ 
+
+ 
+ IL MINISTRO PER LA SEMPLIFICAZIONE
+
+ 
+
+ 
+ E LA PUBBLICA AMMINISTRAZIONE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 2, comma 2, lettera m), del decreto legislativo 30 luglio 1999, n. 303;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 1° agosto 2003, n. 259, e successive modificazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, recante Codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva 2010/40/UE del Parlamento europeo e del Consiglio del 7 luglio 2010, sul quadro generale per la diffusione dei sistemi di trasporto intelligenti nel settore del trasporto stradale e nelle interfacce con altri modi di trasporto;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 8 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221 e, in particolare, il comma 1 che dispone che &laquo;al fine di incentivare l'uso degli strumenti elettronici per migliorare i servizi ai cittadini nel settore del trasporto pubblico locale, riducendone i costi connessi, le aziende di trasporto pubblico locale promuovono l'adozione di sistemi di bigliettazione elettronica interoperabili a livello nazionale e di biglietti elettronici integrati nelle città metropolitane&raquo;, nonchè il comma 2 che prevede che le regole tecniche necessarie al fine di attuare quanto disposto dal comma 1, anche gradualmente e nel rispetto delle soluzioni esistenti, sono adottate con decreto del Ministro delle infrastrutture e dei trasporti e del Ministro delegato per l'innovazione tecnologica, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, da adottare entro novanta giorni dalla data di entrata in vigore del decreto, in coerenza con il citato decreto legislativo 7 marzo 2005, n. 82;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 13, comma 2-quater, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 1, comma 900, della legge 28 dicembre 2015, n. 208, che promuove l'effettuazione di operazioni di pagamento basate su carte di debito o di credito;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 1, comma 7, lettera a), del decreto legislativo 22 gennaio 2016, n. 10, che prevede, tra l'altro, che il presente decreto sia emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno ed il Ministro dell'istruzione dell'università e della ricerca, del 1° febbraio 2013, emanato in ottemperanza all'articolo 8, comma 9, del richiamato decreto-legge 18 ottobre 2012, n. 179, e pubblicato nella Gazzetta Ufficiale 26 marzo 2013, n. 72;
+
+ 
+ 
+ 
+
+ 
+ Considerata l'opportunità di adottare, per i nuovi sistemi di bigliettazione elettronica, sistemi multistandard in grado di poter essere più facilmente integrati o interoperabili, anche con i diversi sistemi già esistenti, progressivamente e con tempi commisurati alle esigenze ed alle risorse che potranno rendersi disponibili per investimenti nel settore;
+
+ 
+
+ 
+ Considerata la necessità di salvaguardare gli investimenti già posti in essere per la realizzazione dei sistemi di bigliettazione elettronica esistenti;
+
+ 
+
+ 
+ 
+ 
+ Considerato che l'obbligo di validazione dei titoli di viaggio, sostenuto da un adeguato sistema sanzionatorio, e l'adozione di soluzioni tecniche e organizzative idonee ad assicurare la validazione dei titoli di viaggio in concomitanza con l'inizio di ciascun viaggio o trasbordo consentono di migliorare la conoscenza dei flussi di traffico passeggeri, di agevolare la lotta all'evasione tariffaria e di attivare procedure di clearing flessibili, regolate in base all'effettiva utilizzazione del servizio;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che l'adozione di sistemi di bigliettazione elettronica rende possibile la gestione coordinata e integrata di più sistemi di mobilità, afferenti a diversi segmenti modali pubblici, collettivi, nonchè ad ambiti territoriali differenziati;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che lo sviluppo delle applicazioni mobili, anche in ambito bancario, e di terminali di telefonia mobile dotati di tecnologie di prossimità renderà progressivamente disponibili soluzioni di emissione, caricamento, validazione e controllo in mobilità dei titoli di viaggio;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che il miglioramento dei servizi ai cittadini può essere conseguito anche attraverso la conoscenza dei dati di traffico e di trasporto resi disponibili dai Sistemi di bigliettazione elettronica, e che tali dati utili anche ai fini del monitoraggio e della programmazione del servizio renderanno in maniera indiretta un ulteriore beneficio ai cittadini;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere n. 551/2016 del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 7 aprile 2016;
+
+ 
+
+ 
+ Acquisito il parere favorevole della Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, espresso nella seduta del 26 maggio 2016;
+
+ 
+
+ 
+ Acquisito, altresì, in data 10 giugno 2016, l'assenso all'ulteriore corso del provvedimento da parte del Ministro per la semplificazione e la pubblica amministrazione;
+
+ 
+
+ 
+ 
+ 
+ Viste le note del 22 giugno 2016 e del 27 luglio 2016 con cui lo schema di regolamento è stato comunicato al Presidente del Consiglio dei ministri;
+
+ 
+ 
+ 
+
+ Adottano
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini delle regole tecniche stabilite con il presente decreto si intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;trasporto pubblico di passeggeri&raquo;: i servizi di trasporto di passeggeri di interesse economico generale offerti al pubblico senza discriminazione e in maniera continuativa; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;trasporto pubblico locale&raquo;: i servizi di trasporto di persone, come definiti dall'articolo 1, comma 2, del decreto legislativo 19 novembre 1997, n. 422, con esclusione dei servizi non assoggettati ad obblighi di servizio pubblico e svolti in regime di libera concorrenza e senza l'attribuzione di diritti di esclusiva; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;azienda di trasporto pubblico locale&raquo;: un'impresa o un gruppo di imprese di diritto pubblico o privato o qualsiasi ente pubblico che fornisce o presta i servizi di trasporto pubblico locale di persone come definiti nella lettera b); 
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;titolo di viaggio&raquo;: documento in forma materiale o immateriale o supporto elettronico attestante il diritto alla fruizione di un servizio di trasporto pubblico; 
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;titolo di viaggio integrato&raquo;: titolo di viaggio indifferentemente utilizzabile su vettori di trasporto diversi che aderiscono ad uno specifico accordo tariffario; 
+ 
+
+ 
+ 
+
+ 
+ f) &laquo;supporto del titolo di viaggio&raquo;: ogni dispositivo portatile basato anche su carta senza contatto o su terminale abilitato alla comunicazione di prossimità, atto ad ospitare o disporre il pagamento del titolo di viaggio, consentendone il caricamento, la validazione ed il controllo; 
+ 
+
+ 
+ 
+
+ 
+ g) &laquo;emissione di titolo di viaggio&raquo;: operazione tramite la quale viene prodotto il titolo di viaggio necessario per la fruizione di un dato servizio di trasporto pubblico, normalmente eseguita a seguito dell'avvenuta disposizione o completamento della transazione finanziaria di acquisto da parte dell'utente; 
+ 
+
+ 
+ 
+
+ 
+ h) &laquo;caricamento di titolo di viaggio&raquo;: operazione tramite la quale il titolo di viaggio emesso viene reso disponibile all'utente mediante caricamento sul relativo supporto o ai sistemi di back-office dell'azienda ; 
+ 
+
+ 
+ 
+
+ 
+ i) &laquo;validazione di titolo di viaggio&raquo;: operazione di riconoscimento della validità di un titolo di viaggio presente, o disposto, sui supporti di cui alla lettera e), normalmente eseguita prima dell'inizio del viaggio, mediante interazione tra il supporto ed una apparecchiatura o dispositivo di controllo, anche di tipo mobile, presente sull'infrastruttura o a bordo del veicolo; 
+ 
+
+ 
+ 
+
+ 
+ l) &laquo;controllo di titolo di viaggio&raquo;: operazione di verifica dell'idoneità del titolo di viaggio alla fruizione del servizio di trasporto pubblico, eseguita anche mediante interazione tra il supporto di cui alla lettera e) ed un opportuno dispositivo di controllo; 
+ 
+
+ 
+ 
+
+ 
+ m) &laquo;sistema di bigliettazione elettronica - SBE&raquo;: insieme coordinato e integrato dei sistemi, sottosistemi e dispositivi, di terra e di bordo, periferici e centrali, fissi e portatili, hardware e software, atto a gestire e regolare, in forma automatizzata e secondo date scelte architetturali e tecnologiche, tutte le interazioni tra l'azienda di trasporto e l'utenza, volte all'accesso ed alla fruizione dei servizi di trasporto pubblico locale; 
+ 
+
+ 
+ 
+
+ 
+ n) &laquo;interoperabilità&raquo;: capacità dei sistemi e dei processi industriali e commerciali che li sottendono di scambiare dati e di condividere informazioni e conoscenze; 
+ 
+
+ 
+ 
+
+ 
+ o) &laquo;autorità competente&raquo;: un'amministrazione pubblica o un gruppo di amministrazioni pubbliche di uno Stato membro, o di Stati membri, che ha il potere di intervenire nei trasporti pubblici di passeggeri in una zona geografica determinata, o qualsiasi altro organismo investito di tale potere; 
+ 
+
+ 
+ 
+
+ 
+ p) &laquo;autorità competente a livello locale&raquo;: qualsiasi autorità competente la cui zona di competenza geografica non è estesa al territorio nazionale. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Avvertenza: 
+ 
+
+ 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ 
+ 
+
+ - Si riporta il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - (Omissis). 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 2, comma 2, lettera m), del decreto legislativo 30 luglio 1999, n. 303 (Ordinamento della Presidenza del Consiglio dei ministri, a norma dell'art. 11 della legge 15 marzo 1997, n. 59): 
+ 
+
+ &laquo;Art. 2 (Finalità e funzioni). - (Omissis). 
+ 
+
+ 2. Il Presidente si avvale della Presidenza, in particolare, per l'esercizio, in forma organica e integrata, delle seguenti funzioni: 
+ 
+
+ (Omissis). 
+ 
+
+ m) la promozione e verifica dell'innovazione nel settore pubblico ed il coordinamento in materia di lavoro pubblico; 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Il decreto legislativo 1° agosto 2003, n. 259, reca: &laquo;Codice delle comunicazioni elettroniche&raquo;. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82, reca: &laquo;Codice dell'amministrazione digitale&raquo;. 
+ 
+
+ - La direttiva 2010/40/UE del Parlamento europeo e del Consiglio del 7 luglio 2010 reca: &laquo;Sul quadro generale per la diffusione dei sistemi di trasporto intelligenti nel settore del trasporto stradale e nelle interfacce con altri modi di trasporto&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 8, commi 1 e 2, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221 (Ulteriori misure urgenti per la crescita del Paese): 
+ 
+
+ &laquo;Art. 8 (Misure per l'innovazione dei sistemi di trasporto). - 1. Al fine di incentivare l'uso degli strumenti elettronici per migliorare i servizi ai cittadini nel settore del trasporto pubblico locale, riducendone i costi connessi, le aziende di trasporto pubblico locale promuovono l'adozione di sistemi di bigliettazione elettronica interoperabili a livello nazionale e di biglietti elettronici integrati nelle città metropolitane. 
+ 
+
+ 2. Con decreto del Ministro delle infrastrutture e dei trasporti e del Ministro delegato per l'innovazione tecnologica, ai sensi dell' art. 17, comma 3, della legge 23 agosto 1988, n. 400, sentita la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, sono adottate, in coerenza con il decreto legislativo 7 marzo 2005, n. 82, le regole tecniche necessarie al fine di attuare quanto disposto dal comma 1, anche gradualmente e nel rispetto delle soluzioni esistenti. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 13, comma 2-quater, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, (Disposizioni urgenti per il rilancio dell'economia): 
+ 
+
+ &laquo;Art. 13 (Governance dell'Agenda digitale Italiana). - (Omissis). 
+ 
+
+ 2-quater. I decreti ministeriali previsti dalle disposizioni di cui agli articoli 4, comma 1, 8, comma 13, 10, comma 10, 12, comma 7, 13, comma 2, e 15, comma 2, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, qualora non ancora adottati e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono adottati dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati.". 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 900, della legge 28 dicembre 2015, n. 208 (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato-legge di stabilità 2016): 
+ 
+
+ &laquo;Art. 1. - (Omissis). 
+ 
+
+ 900. All'art. 15 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, sono apportate le seguenti modificazioni: 
+ 
+
+ a) al comma 4, dopo le parole: &laquo;carte di debito&raquo; sono inserite le seguenti: &laquo;e carte di credito; tale obbligo non trova applicazione nei casi di oggettiva impossibilità tecnica&raquo;; 
+ 
+
+ b) dopo il comma 4 sono inseriti i seguenti: 
+ 
+
+ &laquo;4-bis. Al fine di promuovere l'effettuazione di operazioni di pagamento basate su carta di debito o di credito e in particolare per i pagamenti di importo contenuto, ovvero quelli di importo inferiore a 5 euro, entro il 1° febbraio 2016, il Ministero dell'economia e delle finanze provvede con proprio decreto, di concerto col Ministero dello sviluppo economico, sentita la Banca d'Italia, ad assicurare la corretta e integrale applicazione del regolamento (UE) n. 751/2015 del Parlamento europeo e del Consiglio, del 23 aprile 2015, esercitando in particolare le opzioni di cui all'art. 3 del regolamento stesso. Tale decreto prevede altresì: 
+ 
+
+ a) in conformità alle definizioni, alla disciplina e alle finalità del regolamento (UE) n. 751/2015, le modifiche, abrogazioni, integrazioni e semplificazioni alla normativa vigente necessarie a realizzare un pieno coordinamento del regolamento stesso con ogni altra disposizione vigente in materia; 
+ 
+
+ b) la designazione della Banca d'Italia quale autorità competente per lo svolgimento delle funzioni previste dal regolamento (UE) n. 751/2015 e dell'Autorità garante della concorrenza e del mercato quale autorità competente a verificare il rispetto degli obblighi posti dal medesimo regolamento in materia di pratiche commerciali. 
+ 
+
+ 4-ter. I prestatori di servizi di pagamento, i gestori di schemi di carte di pagamento e ogni altro soggetto che interviene nell'effettuazione di un pagamento mediante carta applicano le regole e le misure, anche contrattuali, necessarie ad assicurare l'efficace traslazione degli effetti delle disposizioni del decreto di cui al comma 4-bis, tenuto conto della necessità di assicurare trasparenza, chiarezza ed efficienza della struttura delle commissioni e la loro stretta correlazione e proporzionalità ai costi effettivamente sostenuti dai prestatori di servizi di pagamento e dai gestori di circuiti e di schemi di pagamento, nonchè di promuovere l'efficienza dei circuiti e degli schemi di riferimento delle carte nel rispetto delle regole di concorrenza e dell'autonomia contrattuale delle parti&raquo;; 
+ 
+
+ c) al comma 5, le parole: &laquo;gli eventuali importi minimi, le modalità e i termini&raquo; sono sostituite dalle seguenti: &laquo;le modalità, i termini e l'importo delle sanzioni amministrative pecuniarie&raquo; e le parole: &laquo;di cui al comma precedente&raquo; sono sostituite dalle seguenti: &laquo;di cui al comma 4 anche con riferimento alle fattispecie costituenti illecito e alle relative sanzioni pecuniarie amministrative.&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 7, lettera a), del decreto legislativo 22 gennaio 2016, n. 10 (Modifica e abrogazione di disposizioni di legge che prevedono l'adozione di provvedimenti non legislativi di attuazione, a norma dell'art. 21 della legge 7 agosto 2015, n. 124): 
+ 
+
+ &laquo;Art. 1 (Modificazioni). - (Omissis). 
+ 
+
+ 7. Al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, sono apportate le seguenti modificazioni: 
+ 
+
+ a) all'art. 8, comma 2, dopo le parole: "per l'innovazione tecnologica," sono inserite le seguenti: "ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400,"; 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Il decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno ed il Ministro dell'istruzione dell'università e della ricerca, del 1° febbraio 2013, pubblicato nella Gazzetta Ufficiale 26 marzo 2013, n. 72, reca: &laquo;Diffusione dei sistemi di trasporto intelligenti (ITS) in Italia&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 8, comma 9, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221 (Ulteriori misure urgenti per la crescita del Paese): 
+ 
+
+ &laquo;Art. 8 (Misure per l'innovazione dei sistemi di trasporto). - (Omissis). 
+ 
+
+ 9. In attuazione dei commi da 4 a 8, al fine di assicurare la massima diffusione di sistemi di trasporto intelligenti sul territorio nazionale, assicurandone l'efficienza, la razionalizzazione e l'economicità di impiego e in funzione del quadro normativo comunitario di riferimento, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri competenti per materia, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono adottate le direttive con cui vengono stabiliti i requisiti per la diffusione, la progettazione, la realizzazione degli ITS, per assicurare disponibilità di informazioni gratuite di base e l'aggiornamento delle informazioni infrastrutturali e dei dati di traffico, nonchè le azioni per favorirne lo sviluppo sul territorio nazionale in modo coordinato, integrato e coerente con le politiche e le attività in essere a livello nazionale e comunitario. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 8 del decreto legislativo 28 agosto 1997, n. 281 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-città ed autonomie locali): 
+ 
+
+ &laquo;Art. 8 (Conferenza Stato-città ed autonomie locali e Conferenza unificata). - 1. La Conferenza Stato-città ed autonomie locali è unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunità montane, con la Conferenza Stato-regioni. 
+ 
+
+ 2. La Conferenza Stato-città ed autonomie locali è presieduta dal Presidente del Consiglio dei ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali nella materia di rispettiva competenza; ne fanno parte altresì il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanità, il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunità ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
+ 
+
+ Dei quattordici sindaci designati dall'ANCI cinque rappresentano le città individuate dall'art. 17 della legge 8 giugno 1990, n. 142. Alle riunioni possono essere invitati altri membri del Governo, nonchè rappresentanti di amministrazioni statali, locali o di enti pubblici. 
+ 
+
+ 3. La Conferenza Stato-città ed autonomie locali è convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessità o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM. 
+ 
+
+ 4. La Conferenza unificata di cui al comma 1 è convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non è conferito, dal Ministro dell'interno.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 2, del decreto legislativo 19 novembre 1997, n. 422 (Conferimento alle regioni ed agli enti locali di funzioni e compiti in materia di trasporto pubblico locale, a norma dell'art. 4, comma 4, della legge 15 marzo 1997, n. 59): 
+ 
+
+ &laquo;Art. 1 (Oggetto). - (Omissis). 
+ 
+
+ 2. Sono servizi pubblici di trasporto regionale e locale i servizi di trasporto di persone e merci, che non rientrano tra quelli di interesse nazionale tassativamente individuati dall'art. 3; essi comprendono l'insieme dei sistemi di mobilità terrestri, marittimi, lagunari, lacuali, fluviali e aerei che operano in modo continuativo o periodico con itinerari, orari, frequenze e tariffe prestabilite, ad accesso generalizzato, nell'ambito di un territorio di dimensione normalmente regionale o infraregionale. 
+ 
+
+ (Omissis).&raquo;.

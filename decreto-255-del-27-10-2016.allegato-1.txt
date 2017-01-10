@@ -1,0 +1,109 @@
+Allegato A: Norme e standard di riferimento per l'interoperabilità dei sistemi di bigliettazione elettronica 
+ 
+
+ 
+ 
+
+ (art. 4, comma 1, lettera a) 
+ 
+
+ 1. Riferimenti per l'architettura di sistema: 
+ 
+
+ • ISO EN 24014-1:2007Public transport - Interoperable Fare
+ 
+
+ Management System (IFMS) inerente la struttura logica dei sistemi e dei servizi per la gestione dei titoli interoperabili. 
+ 
+
+ 2. Riferimenti per interfaccia dati: 
+ 
+
+ • EN 15320:2007Identification card systems - Surface transport
+ 
+
+ applications - Interoperable Public Transport Applications - Framework. 
+ 
+
+ La norma definisce la struttura logica dei dati memorizzati sulla card, specifica l'interfaccia astratta per l'interazione tra card e terminale e tratta della sicurezza demandata ad un apposito sottosistema. Per quanto riguarda la privacy, la norma obbliga all'utilizzo di un meccanismo di controllo degli accessi e di meccanismi di encryption per la protezione dei dati personali, e più in generale di tutti i dati sensibili. 
+ 
+
+ • EN 1545-1:2005Identification card systems - Surface transport
+ 
+
+ applications - Part 1: Elementary data types, general code lists and general data elements. 
+ 
+
+ La norma definisce le strutture dati (&laquo;data element&raquo;) utilizzati nei sistemi di trasporto, espressa in accordo alla ASN. 1 (Abstract Syntax Notation 1). 
+ 
+
+ • EN 1545-2:2005Identification card systems - Surface transport
+ 
+
+ applications - Part 2: Transport and travel payment related data elements and code lists. 
+ 
+
+ La norma definisce le strutture dati che risiedono sulla carta in accordo ai requisiti di un sistema di trasporto interoperabile. 
+ 
+
+ • ISO/IEC 15457-1 Identification cards - thin flexible cards
+ 
+
+ (TFC): Part 1: Phisical characteristics. 
+ 
+
+ La norma fissa le dimensioni fisiche dei supporti, identificando nel caso specifico, quale standard nazionale, il formato &laquo;ISO&raquo; . 
+ 
+
+ 3. Riferimenti per la comunicazione: 
+ 
+
+ • ISO/IEC 7816Identification cards - Integrated circuit cards. 
+ 
+
+ La norma (nella complessiva declinazione in parti 1,2,3,4 e 5) descrive le caratteristiche fisiche, dimensionali e funzionali delle smart card di tipo contact e dei relativi contatti, dei protocolli di trasmissione ed applicativi, nonchè delle strutture dei dati. 
+ 
+
+ 4. Riferimenti per la comunicazione di prossimità: 
+ 
+
+ • ISO/IEC 14443 Identification cards - contactless integrated
+ 
+
+ circuit(s) cards - proximity cards -. 
+ 
+
+ La norma ( nella complessiva declinazione in parti 1,2,3,4) specifica i protocolli radio per effettuare una connessione contactless tra card e terminale. Lo standard non tratta regole di sicurezza e per la tutela dei dati personali. Le apparecchiature di emissione e validazione dovranno garantire il funzionamento in conformità agli standard 14443-A e 14443-B. 
+ 
+
+ 5. Riferimenti per la comunicazione di prossimità tra dispositivi di comunicazione mobile: 
+ 
+
+ • ISO/IEC 18092 Information technology - Telecommunications and
+ 
+
+ information exchange between systems. Near field Communication - interface and Protocol (NFCIP-1). 
+ 
+
+ La norma definisce le modalità di comunicazione per l'intercaccia NFC ed il Protocollo (NFCIP-1) attraverso dispositivi a coppie induttive operanti nella frequenza 13,56 Mhz per l'interconnessione con i sistemi periferici. 
+ 
+
+ • ISO/IEC 21481 Information technology - Telecommunications and
+ 
+
+ information Exchange between systems - Near field Communication Interface and Protocol- 2 (NFCIP -2) 
+ 
+
+ La norma specifica il meccanismo di selezione delle modalità di comunicazione per non interferire con le comunicazioni operanti sulla frequenza 13,56 Mhz per dispositivi che implementano gli standard ISO/IEC 18092, ISO/IEC 14443 e ISO/IEC 15693. 
+ 
+
+ 6. Riferimenti per i pagamenti basati su carte di debito e di credito: 
+ 
+
+ • EMV Contactless 
+ 
+
+ Le regole tecniche e di sicurezza riguardanti il pagamento mediante carte bancarie contactless, disciplinano i requisiti di carattere fisico ed elettrico (EMV Level 1), le modalità con cui devono essere condotte le transazioni a livello applicativo (EMV Level 2) e la conformità dei terminali alla sicurezza. 
+ 
+
+ I predetti standard sono riferiti all'edizione più recente; nell'aggiornamento tecnologico dei sistemi di bigliettazione elettronica si devono prendere a riferimento gli standard nell'ultima versione disponibile.
