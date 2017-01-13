@@ -1,0 +1,3782 @@
+Allegato III 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Quadro strategico nazionale 
+ 
+
+ 
+ 
+
+ Sezione A: fornitura di elettricità per il trasporto 
+ 
+
+ 
+ 
+
+ Prima sottosezione: 
+ 
+
+ Piano Nazionale Infrastrutturale per la ricarica 
+ 
+
+ dei veicoli alimentati ad energia elettrica (PNire), 
+ 
+
+ di cui all'articolo 17 septies della legge n. 134 del 7 agosto 2012. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Quadro strategico nazionale 
+ 
+
+ 
+ 
+
+ Sezione A: fornitura di elettricità per il trasporto 
+ 
+
+ 
+ 
+
+ Seconda sottosezione: 
+ 
+
+ valutazione della necessità di fornitura di elettricità 
+ 
+
+ alle infrastrutture di ormeggio nei porti marittimi e 
+ 
+
+ nei porti della navigazione interna e valutazione 
+ 
+
+ della necessità di installare sistemi di fornitura 
+ 
+
+ di elettricità negli aeroporti per l'utilizzo 
+ 
+
+ da parte degli aerei in stazionamento 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE 
+ 
+
+ LISTA DELLE FIGURE 
+ 
+
+ 2 ELETTRIFICAZIONE DELLE BANCHINE - LO STATO TECNOLOGICO 
+ 
+
+ 2.1 INTRODUZIONE 
+ 
+
+ 2.2 LE NORME DI RIFERIMENTO 
+ 
+
+ 3 ELETTRIFICAZIONE DELLE BANCHINE - LO SCENARIO ITALIANO 
+ 
+
+ 4 MISURE DI SOSTEGNO PER L'ELETTRIFICAZIONE DELLE BANCHINE 
+ 
+
+ 5 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - LO STATO TECNOLOGICO 
+ 
+
+ 6 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - LO SCENARIO ITALIANO 
+ 
+
+ 7 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - GLI IMPATTI SOCIALI 
+ 
+
+ 8 MISURE DI SOSTEGNO PER LA FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO 
+ 
+
+ 8.1 AUTORITà AEROPORTUALI ED OPERATORI 
+ 
+
+ 8.2 AIRLINE OPERATORS 
+ 
+
+ 9 ULTERIORI CONTRIBUTI ALLA RIDUZIONE DEI CONSUMI DI ENERGIA ELETTRICA NEL SETTORE AEROPORTUALE 
+ 
+
+ 
+ 
+
+ RIFERIMENTI 
+ 
+
+ 
+ 
+
+ APPENDICE A: 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE 
+ 
+
+ 
+ 
+
+ Tabella No. 
+ 
+
+ Tabella 1: Dati di Traffico Anno 2015 e variazioni su 2014 (Assaeroporti, dati aggiornati Marzo 2016) 
+ 
+
+ 
+ 
+
+ LISTA DELLE FIGURE 
+ 
+
+ 
+ 
+
+ Figura No. 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: EUROSTAT 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1 LE POLITICHE DELL'UNIONE EUROPEA PER IL SETTORE DEI TRASPORTI 
+ 
+
+ 
+ 
+
+ Nel settore dei trasporti, sostenere l'innovazione e l'efficienza, frenare la dipendenza dalle importazioni di petrolio e guidare il passaggio a fonti energetiche interne e rinnovabili rappresenta una via da seguire per raggiungere gli obiettivi chiave europei: stimolare la crescita economica, aumentare l'occupazione e mitigare i cambiamenti climatici. In particolare l'Italia presenta un livello di dipendenza energetica tra i più elevati a livello europeo, 76.9% al 2013. Nel 2012, l'import di petrolio grezzo è stato pari a 68.81 milioni di tonnellate e la spesa per benzina e diesel è stata pari a 24.63 miliardi di euro (Fuelling Europès future. How auto innovation leads to EU jobs. Cambridge Econometrics (CE), in collaboration with Ricardo-AEA, Element Energy. 2013) (Figura 1). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: EUROSTAT 
+ 
+
+ 
+ 
+
+ Occorre quindi porsi obiettivi di riduzione dei consumi energetici da combustibili fossili, di riduzione delle emissioni di anidride carbonica e di miglioramento della qualità dell'aria anche tramite la fornitura di elettricità agli aeromobili in fase di stazionamento e l'elettrificazione delle banchine. 
+ 
+
+ 
+ 
+
+ 2 ELETTRIFICAZIONE DELLE BANCHINE - LO STATO TECNOLOGICO 
+ 
+
+ 
+ 
+
+ 2.1 INTRODUZIONE 
+ 
+
+ Il settore del trasporto marittimo di persone e cose contribuisce all'emissione di sostanze inquinanti nocive per l'aria costituendo pertanto un problema per le comunità portuali coinvolte. 
+ 
+
+ L'aumento delle concentrazioni di Ossidi di Azoto (NOx), Ossidi di Zolfo (SOx), Particolato (PM) Idrocarburi incombusti (HC o VOCs - benzene, formaldeide, toluene, ecc.), Ossido di Carbonio (CO) costituiscono una minaccia per la salute pubblica nei porti e nelle aree circostanti. 
+ 
+
+ Per queste ragioni, tra cui principalmente quelle legate alle emissioni in aria di gas ed inquinanti ad elevato impatto locale (NOx, SOx, PM) l'alimentazione di navi in porto tramite una sorgente elettrica esterna alla nave stessa sta diventando un argomento di cui tenere conto nella progettazione degli impianti elettrici navali e della logistica portuale. 
+ 
+
+ Le prime navi ad adottare soluzioni di questo tipo, progettate cioè per poter spegnere i motori primi dei loro generatori quando in porto e per poter essere alimentate da sorgenti esterne (a terra), risalgono all'inizio degli anni 2000. Tale pratica, nata nei porti dell'Alaska e altri porti USA, è storicamente conosciuta come "cold ironing". 
+ 
+
+ Tenendo conto della vita operativa di una nave, della percentuale di navi nuove che verosimilmente saranno realizzate per funzionare a gas naturale come combustibile alternativo, si presume che queste ultime saranno solo circa il 10/11 % delle navi circolanti entro il 2030 (fonte studio Lloyds Register Marine e dall'University of London). 
+ 
+
+ La realizzazione di sistemi di fornitura di alimentazione elettrica lungo le banchine alle navi adibite alla navigazione marittima o alle navi adibite alla navigazione interna, quando ormeggiate, effettuata attraverso un'interfaccia standardizzata può pertanto rivestire un'importanza fondamentale per la riduzione delle emissioni nelle aree portuali. I benefici conseguenti si estenderebbero ad ampie fasce della popolazione costiera e consentirebbero la riqualificazione di aree portuali a fini turistici e commerciali. 
+ 
+
+ Dal punto di vista tecnico, l'eventuale realizzazione di impianti di elettrificazione delle banchine, anche se non particolarmente complicato, richiederebbe comunque la collaborazione di tutte le entità coinvolte (pubbliche istituzioni, armatori, autorità portuali, gestori dei terminali portuali) per assicurare un elevato tasso di utilizzo a garanzia della sostenibilità commerciale dell'investimento e una massimizzazione della riduzione dell'impatto ambientale. 
+ 
+
+ La necessità di un'alimentazione simultanea di più navi da crociera, che genera una richiesta di potenza molto elevata, potrebbe comportare di dover rafforzare la rete locale di trasmissione/distribuzione. Tale eventualità potrebbe essere un'opportunità rilevante per il miglioramento della qualità dell'energia di intere aree urbane afferenti alle rispettive realtà portuali. 
+ 
+
+ 
+ 
+
+ 2.2 LE NORME DI RIFERIMENTO 
+ 
+
+ La normativa e la standardizzazione sono disponibili: nel 2012 è stato pubblicato congiuntamente da IEC - International Electrotechnical Commission, ISO - International Organization for Standardization e IEEE - Institute of Electrical and Electronic Engineers lo standard tecnico IEC/ISO/IEEE 80005-1 - Ed. 2012-07 - Utility connections in port - Part 1: High Voltage Shore Connection (HVSC) Systems - General requirements. L'intenzione di questo standard è quello di definire i requisiti di sicurezza e lo standard per le connessioni delle navi ai relativi teminal fornitori di energia. 
+ 
+
+ Le soluzioni tecniche sono mature e sono già state installate su navi da crociera e da carico che approdano con regolarità in porti ove esiste la disponibilità di energia da terra per alimentare gli impianti elettrici delle navi (prevalentemente negli USA). 
+ 
+
+ L'impatto sulla logistica portuale e sulla rete elettrica di alimentazione in alcuni casi non è trascurabile: relativamente alla fornitura di energia elettrica alle navi da crociera si prevede che, per ognuna di esse, sia necessaria una singola fornitura di almeno 16 MVA (preferibili 20 MVA) corrispondenti mediamente a 12.8 MWe. 
+ 
+
+ In generale i limiti imposti per le emissioni inquinanti delle centrali termoelettriche sono tali da rendere comunque positivo l'impatto sull'ambiente, conseguente all'adozione di sistemi di alimentazione da terra delle navi in porto. Tale impatto è ancora più positivo qualora sia possibile generare l'energia richiesta dalle navi in siti lontani dagli abitati o con fonti rinnovabili. 
+ 
+
+ 
+ 
+
+ 3 ELETTRIFICAZIONE DELLE BANCHINE - LO SCENARIO ITALIANO 
+ 
+
+ Recenti studi hanno evidenziato (Università di Trieste, studio sulla riqualificazione dell'area portuale di Trieste) che circa il 40% del costo dell'elettrificazione di due banchine per navi da crociera di grandi dimensioni (nel caso specifico in grado di alimentare due navi da crociera con 20 MVA di potenza ognuna) è rappresentato dalla linea di alta tensione che andrebbe portata fino alla cabina ed alle relative stazioni di trasformazione. Lo studio evidenzia le possibili sinergie tra elettrificazione del porto e infrastruttura di ricarica dei veicoli elettrici, la stessa linea potrebbe alimentare anche le stazioni di carica lente e veloci dei veicoli elettrici senza alcun aggravio di costi. 
+ 
+
+ I sistemi di fornitura di alimentazione elettrica alle navi sono una tecnologia efficace non soltanto per la riduzione delle emissioni, ma anche per la riduzione dell'impatto acustico e delle vibrazioni generate dai motori attivi su navi ormeggiate in banchina. 
+ 
+
+ Anche uno studio dell'Autorità Portuale di Genova dimostra come le navi da crociera e i traghetti ospitati mediamente nei soli bacini di carenaggio di Genova, se connesse con un impianto di elettrificazione delle banchine, potrebbero ridurre le emissioni di CO2 di 19.000 tonnellate/anno, di NOx e SOx di un totale di 2.400 tonnellate all'anno. 
+ 
+
+ La disponibilità di soluzioni per l'alimentazione elettrica in porto, in particolare per le navi da crociera costituirebbe un ulteriore fattore di attrattività dei porti Italiani, tenuto conto di quanto stia diventando importante la sostenibilità sociale ed ambientale. 
+ 
+
+ La presenza di standard globali per l'elettrificazione delle banchine garantisce la compatibilità di installazioni effettuate in Italia con quelle dislocate in ogni altro porto mondiale, massimizzando il fattore di utilizzo dei sistemi installati. 
+ 
+
+ L'evoluzione tecnologica dei sistemi di controllo delle reti intelligenti consente un miglioramento sensibile dell'efficienza energetica in tutta l'area portuale e delle zone adiacenti, che deve integrare anche la parte relativa all'infrastruttura di ricarica dei veicoli elettrici e degli altri carichi elettrici portuali. A questo proposito si cita uno studio dell'Università Sapienza di Roma che propone un approccio integrato alla gestione energetica dei porti, che include gli impianti di alimentazione delle navi in banchina, i carichi per la movimentazione delle merci (gru) e la relativa conservazione (celle frigorifere) ed apre ad altri carichi elettrici tra cui l'infrastruttura dei veicoli elettrici pubblici e privati. 
+ 
+
+ Ogni porto presenta specifiche peculiarità legate alla posizione geografica, alla sua rete di interconnessione infrastrutturale terreste (strade, autostrade, ferrovie), alla tipologia di traffico marittimo e alla vicinanza o meno ad un centro urbano. 
+ 
+
+ Il successo ambientale e commerciale di qualsiasi sistema di elettrificazione delle banchine deve essere soggetto ad un accurato studio di fattibilità e ad una valutazione caso per caso, al fine di ottimizzare il dimensionamento dell'impianto e massimizzarne l'utilizzo da parte degli operatori portuali e degli armatori. 
+ 
+
+ La valutazione sull'opportunità di elettrificare un porto od alcune banchine dello stesso potrà essere fatta applicando il principio della valutazione dei costi e benefici derivanti dalle installazioni stesse, come indicato dalla Direttiva 2014/94. A tal fine si potranno utilizzare, secondo necessità, alcuni degli elementi della metodologia suggerita dalla Commissione Europea, che permette di quantificare le esternalità, o la riduzione delle stesse. 
+ 
+
+ Nello specifico si può quantificare una riduzione degli inquininati ad impatto locale (SOx, NOx, PM) a cui si unisce una riduzione della CO2 emessa, soprattutto ove venga integrata in un sistema di produzione di energia pulita, da fonti rinnovabili. 
+ 
+
+ Molti porti italiani hanno già redatto o stanno sviluppando diversi studi sull'impatto economico-ambientale dell'elettrificazione delle banchine e tutti concordano sul determinante contributo della elettrificazione dei porti alla effettiva riduzione delle emissioni inquinanti misurabili, e molti tengono conto del bilancio costi benefici oppure analizzano i vantaggi di un approccio energetico integrato all'area portuale. 
+ 
+
+ 
+ 
+
+ 4 MISURE DI SOSTEGNO PER L'ELETTRIFICAZIONE DELLE BANCHINE 
+ 
+
+ Particolare attenzione per ciascun progetto deve essere riservata alla sostenibilità finanziaria che, oltre all'investimento iniziale in macchinari capaci di fornire energia elettrica con le caratteristiche adeguate al maggior numero possibile di navi (e quindi con tensioni che possono variare dai 440 V ai 690 V, dai 6,6 kV agli 11 kV e con frequenze di 50 o 60 Hz ), deve tenere conto della sfruttabilità dell'impianto (previsione di quante navi, tra quelle già pronte per poter essere alimentate da terra, approderanno nel porto in un determinato periodo) e del costo finale per l'utente (tale costo deve risultare competitivo rispetto al costo dei combustibili navali che permettono di ottemperare ai limiti imposti per legge in materia di emissioni navali). 
+ 
+
+ Pertanto, a seguito di approfondite considerazioni locali di carattere ambientale, di traffico marittimo, di generazione e disponibilità di energia elettrica dalla rete nazionale, si potrà stabilire caso per caso, porto per porto, l'opportunità di dotarlo di impianto di alimentazione elettrica per navi. 
+ 
+
+ 
+ 
+
+ 5 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - LO STATO TECNOLOGICO 
+ 
+
+ Ogni aereo, in volo o a terra, necessita di una alimentazione di energia elettrica, 115 V e 400 Hz per operazioni di sicurezza e di controllo del velivolo stesso. Durante il rullaggio, l'energia elettrica è generata da apparecchiature di bordo che forniscono energia / potenza per funzioni diverse dalla propulsione, ad esempio l'unità di alimentazione ausiliaria (APU - Auxiliary Power Unit) situata nella parte posteriore del velivolo. Quando l'aeromobile è parcheggiato, l'APU può essere utilizzata per alimentare il velivolo durante l'imbarco e lo sbarco dei passeggeri, la pulizia, l'avviamento del motore, ecc. e, soprattutto, per alimentare l'impianto di climatizzazione. Tuttavia, queste operazioni generano un alto livello di gas serra (ad esempio, per un per B747-400 sono necessari 550 l/h di kerosene) e provocano una rumorosità di circa 80 decibel (dB), misurata nella area di stazionamento, con una efficienza stimata dell'APU compresa tra il 10 e il 14%. 
+ 
+
+ L'installazione di un impianto di fornitura di energia elettrica negli aeroporti per l'uso da parte degli aerei in stazionamento è una opportunità cruciale per i terminal per ridurre al minimo il consumo di carburante, le emissioni acustiche e di CO2 derivanti. 
+ 
+
+ Relativamente alle tecnologie disponibili ci sono metodi alternativi per la fornitura di energia e aria condizionata per gli aeroplani in stazionamento (oltre all'APU): 
+ 
+
+ • Impianti fissi di distribuzione dell'energia elettrica (FEGP -
+ 
+
+ Fixed Electrical Ground Power), collegati alla rete elettrica dell'aeroporto, in grado di alimentare il sistema di aria condizionata degli aeromobili. Dal momento che nella maggior parte degli aeroporti la rete elettrica opera su 50 o 60 Hz, sono necessari convertitori di frequenza per passare ai 400 Hz richiesti per il funzionamento dell'aereo. Questi possono essere installati in due modi: 
+ 
+
+ - Sui pontili di imbarco e sbarco dei passeggeri, controllati elettricamente sia per la connessione sia per il riavvolgimento, una volta concluse le operazioni, oppure 
+ 
+
+ - Su supporti fissi posizionati sull'asfalto nei pressi dell'ogiva del velivolo parcheggiato che possono essere interrati o fuori terra. 
+ 
+
+ • Impianti di aria pre-condizionata (APC - Pre-conditioned air
+ 
+
+ system), utilizzando apparecchiature a terra. I sistemi azionati elettricamente non richiedono combustibile liquido, il livello di rumore è di 70 dB, e la loro efficienza è fino al 50% (per i sistemi centrali in termini di consumo di energia primaria). In termini comparativi, secondo la scala logaritmica, una rumorosità di 70 dB nella area di stazionamento invece di 80 dB corrisponde ad una riduzione della rumorosità di 10 volte. 
+ 
+
+ Questi impianti alternativi alle APU possono essere forniti di motori diesel portatili, oppure concepiti come sistemi localizzati puntuali o centralizzati: 
+ 
+
+ • le unità portatili a terra con motore diesel (GPU) e le unità
+ 
+
+ di condizionamento d'aria possono essere montate sulla parte posteriore di un camion o rimorchio per una maggiore mobilità nelle aree di stazionamento; 
+ 
+
+ • i sistemi localizzati puntuali (POU - Point of Use) rendono
+ 
+
+ disponibile l'infrastruttura primaria necessaria per il riscaldamento, la ventilazione ed il condizionamento dell'aria (HVAC) in corrispondenza delle postazioni in cui sostano gli aeromobili; 
+ 
+
+ • i sistemi centralizzati infine producono in un sistema centrale
+ 
+
+ la loro funzione primaria (riscaldamento, ventilazione o condizionamento) che giunge agli aeromobili attraverso una rete di distribuzione, spesso integrata con il sistema centralizzato del terminal aeroportuale. 
+ 
+
+ Poichè ognuno di questi tipi di sistemi alternativi può essere utilizzato per soddisfare i requisiti di carico e potenza per più tipi di velivolo, la scelta di quale sistema alternativo per implementare è basata su diversi fattori legati a costi, requisiti di infrastruttura e considerazioni operative. Numerosi standard internazionali possono essere impiegati nella selezione dei fornitori al fine di garantire l'efficienza dell'infrastruttura installata. 
+ 
+
+ 
+ 
+
+ 6 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - LO SCENARIO ITALIANO 
+ 
+
+ Nei principali aeroporti italiani aperti al traffico commerciale sono presenti piazzole di sosta dotate di apparati di alimentazione di energia elettrica sottobordo (400 Hz) per gli aeromobili. 
+ 
+
+ In particolare nei tre gates intercontinentali (così come definiti dal DPR 201/2015 che ha individuato gli aeroporti di interesse nazionale: aeroporti di Fiumicino, Malpensa e Venezia) i sopracitati apparati sono disponibili per oltre l'80% delle piazzole presenti. 
+ 
+
+ I suddetti dispositivi di rifornimento sottobordo sono anche disponibili nella quasi totalità degli aeroporti con traffico superiore ai 1,5 milioni di pax/anno, in percentuale variabile. 
+ 
+
+ Dati di Traffico Anno 2015 (Assaeroporti, dati aggiornati Marzo 2016) 
+ 
+
+ 
+ 
+
+ Tabella 1: Dati di Traffico Anno 2015 e variazioni su 2014 (Assaeroporti, dati aggiornati Marzo 2016) 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ N. AEROPORTO MOVIMENTI % PASSEGGERI % 
+ 
+
+ 
+ 1 Alghero 12.551 -9,1 1.677.967 2,4 
+ 
+
+ 
+ 2 Ancona 12.395 -2,9 521.065 8,4 
+ 
+
+ 
+ 3 Bari 36.886 13,0 3.972.105 8,0 
+ 
+
+ 
+ 4 Bergamo 76.078 12,4 10.404.625 18,6 
+ 
+
+ 
+ 5 Bologna 64.571 -0,7 6.889.742 4,7 
+ 
+
+ 
+ 6 Bolzano 11.915 -2,2 35.141 -46,4 
+ 
+
+ 
+ 7 Brescia 8.239 9,6 7.744 -42,8 
+ 
+
+ 
+ 8 Brindisi 18.042 4,5 2.258.292 4,4 
+ 
+
+ 
+ 9 Cagliari 31.167 -8,6 3.719.289 2,2 
+ 
+
+ 
+ 10 Catania 54.988 -8,2 7.105.487 -2,7 
+ 
+
+ 
+ 11 Comiso 3.458 21,5 372.963 13,6 
+ 
+
+ 
+ 12 Cuneo 4.908 -14,0 129.847 -45,3 
+ 
+
+ 
+ 13 Firenze 34.269 0,3 2.419.818 7,5 
+ 
+
+ 
+ 14 Foggia 1.043 -57,7 1.942 -67,0 
+ 
+
+ 
+ 15 Genova 19.280 3,8 1.363.240 7,5 
+ 
+
+ 
+ 16 Grosseto 1.661 -10,0 3.183 -32,0 
+ 
+
+ 
+ 17 Lamezia Terme 21.524 -5,9 2.342.452 -2,8 
+ 
+
+ 
+ 18 Milano Linate 118.650 4,8 9.689.635 7,4 
+ 
+
+ 
+ 19 Milano Malpensa&sup1; 160.484 -3,8 18.582.043 -1,4 
+ 
+
+ 
+ 20 Napoli 60.261 1,4 6.163.188 3,4 
+ 
+
+ 
+ 21 Olbia 28.272 -1,0 2.240.016 5,3 
+ 
+
+ 
+ 22 Palermo 42.407 0,4 4.910.791 7,4 
+ 
+
+ 
+ 23 Parma 5.946 -15,2 187.028 -9,0 
+ 
+
+ 
+ 24 Perugia 5.963 72,6 274.027 30,9 
+ 
+
+ 
+ 25 Pescara 10.324 53,2 612.875 10,1 
+ 
+
+ 
+ 26 Pisa 39.515 1,7 4.804.812 2,6 
+ 
+
+ 
+ 27 Reggio Calabria 6.858 -7,1 492.612 -5,8 
+ 
+
+ 
+ 28 Roma Ciampino&sup2; 53.153 6,2 5.834.201 16,1 
+ 
+
+ 
+ 29 Roma Fiumicino&sup2; 315.217 1,0 40.463.208 4,8 
+ 
+
+ 
+ 30 Torino 44.261 4,2 3.666.424 6,8 
+ 
+
+ 
+ 31 Trapani 11.607 -7,4 1.586.992 -0,7 
+ 
+
+ 
+ 32 Trieste 14.672 -4,9 741.776 0,2 
+ 
+
+ 
+ 33 Treviso 18.402 3,4 2.383.307 6,0 
+ 
+
+ 
+ 34 Venezia 81.946 5,4 8.751.028 3,3 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ --------------- 
+ 
+
+ &sup1; Inclusi movimenti e passeggeri Bergamo, relativi al periodo in cui le attività aeronautiche si sono fermate alcuni giorni in coincidenza con l'ultima fase dei lavori di rifacimento della pista e ammodernamento delle infrastrutture di volo. 
+ 
+
+ &sup2; Nel periodo Mag-Lug 2015, per ragioni operative, parte del trafico di Fiumicino è stato trasferito a Ciampino 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Negli aeroporti caratterizzati da volumi di traffico più bassi, ad eccezione di pochi casi, non sono fruibili piazzole con alimentazione elettrica sottobordo. 
+ 
+
+ A margine di quanto sopra, si evidenzia che l'Action Plan per la riduzione dei livelli di CO2, definito dall'Italia per rispondere alle specifiche risoluzioni dell'ICAO, promuove l'aumento del numero delle piazzole di sosta fornite di alimentazione elettrica sottobordo. 
+ 
+
+ Come precedentemente riportato, la maggior parte degli aeroporti italiani che operano un servizio commerciale sono già dotati, per lo meno parzialmente, di installazioni per la fornitura di energia elettrica agli aeromobili in fase di stazionamento, ulteriori installazioni sono previste essere sviluppate. 
+ 
+
+ La valutazione dell'opportunità di incrementare ulteriormente il numero di installazioni potrà essere fatta applicando il principio della valutazione dei costi e benefici derivanti dalle installazioni stesse, come indicato dalla Direttiva 2014/94. A tal fine si potranno utilizzare, secondo necessità, alcuni degli elementi della metodologia suggerita dalla Commissione Europea. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 7 FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO - GLI IMPATTI SOCIALI 
+ 
+
+ La valuatzione se e dove procedure con le installazioni necessarie alla fornitura di energia elettrica agli aerei in fase di stazionamento può essere fatta sulla base di una mappatura delle diverse categorie di aeroporti, del loro profilo di traffico aereo e delle strutture aeroportuali attualmente disponibili, i piani di azione possono essere studiati, insieme alle industrie del settore del trasporto aereo, per determinare la strategia ottimale di azione ed il livello ottimale di coordinamento, che potrebbe essere nazionale così come regionale. 
+ 
+
+ Una volta che sia stata stabilita la necessità di un'azione strategica concreta (mediante una valutazione Costi Benefici), gli organismi di regolamentazione possono impostare linee guida normative in materia di utilizzo della APU mentre gli aerei stazionano in aeroporto e fornire incentivi finanziari per l'installazione di tali sistemi. 
+ 
+
+ I principi ispiratori del piano d'azione possono essere trovati nel programma AGR (Aircraft on the Ground CO2 Reduction), sviluppato
+ 
+
+ dalla BAA attraverso la Sustainable Aviation coalition3 . 
+ 
+
+ Il programma fornisce una guida pratica per aiutare le compagnie aeree, i fornitori di servizi per la navigazione aerea, le società di assistenza a terra e gli operatori aeroportuali per ridurre le emissioni di CO2 dei movimenti aerei a terra ed ha già portato a notevoli risparmi: 
+ 
+
+ • una quantità stimata di circa 100.000 tonnellate di CO2 annue
+ 
+
+ risparmiate ad Heathrow, derivante dalla riduzione dell'utilizzo del motore durante il rullaggio così come dall'uso di FEGP e PCA; 
+ 
+
+ • circa il 20% di risparmi in termini di incremento di efficienza per
+ 
+
+ ciascun movimento per le attuali attività a terra degli aeromobili, con potenziali ulteriori sviluppi per il futuro; 
+ 
+
+ • questo si traduce in circa 6 milioni di tonnellate di CO2 ogni anno
+ 
+
+ a livello mondiale (stimato dalla IATA). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -------- 
+ 
+
+ 3 Sustainable Aviation CO2 Road-Map 2012, disponibile sul sito:
+ 
+
+ http://www.sustainableaviation.co.uk/wpcontent/uploads/2015/09/SA-Car bon-Roadmap-full-report.pdf 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 8 MISURE DI SOSTEGNO PER LA FORNITURA DI ELETTRICITà AGLI AEROMOBILI IN FASE DI STAZIONAMENTO 
+ 
+
+ 
+ 
+
+ 8.1 AUTORITà AEROPORTUALI ED OPERATORI 
+ 
+
+ Le autorità aeroportuali e gli operatori sono fattori chiave per la realizzazione di infrastrutture alternative e centrale per l'agevolazione del suo utilizzo da parte degli operatori delle compagnie aeree. In genere, gli aeroporti che hanno installato FEGP e PCAs impostare restrizioni per l'uso di APUs. 
+ 
+
+ Oltre a fornire infrastrutture alternative, gli aeroporti potrebbero garantire che le strutture a terra siano ben mantenute e la disponibilità sia elevata, al fine di creare una fiducia nella possibilità di un loro utilizzo costante. 
+ 
+
+ Gli Aeroporti potrebbero anche collaborare con gli operatori aerei e di terra garantendo che le strutture terminalistiche dell'aeroporto siano adeguate, adatte allo scopo e ben tenute e che ci sia stata una sufficiente formazione mirata a garantire che queste strutture siano utilizzate in modo efficiente e sicuro. 
+ 
+
+ 
+ 
+
+ 8.2 AIRLINE OPERATORS 
+ 
+
+ Gli operatori aerei hanno un ruolo da svolgere per accrescere l'uso di infrastrutture alternative. Alcune compagnie aeree stabiliscono procedure aggiuntive al fine di limitare l'uso dell'APU, in funzione del tipo di velivolo, del peso effettivo al momento del decollo e a seconda delle caratteristiche dell'aeroporto (altitudine, la lunghezza della pista, ecc). 
+ 
+
+ Poichè l'uso di carburante aeronautico nel APU è costoso e inefficiente, si raccomanda che gli operatori di bordo e gli operatori di terra seguano procedure nel usare le dotazioni del terminal aeroportuale, che, se seguite, possono far risparmiare carburante, ridurre significativamente il rumore e le emissioni di gas serra. Le seguenti regole non valicano mai le normative di sicurezza ne i controlli del velivolo: 
+ 
+
+ 1. Nel Terminale Aeroportuale, le installazioni di terra come FEGP e PCA alimentati dalla rete elettrica, devono essere sempre utilizzate ove previste, 
+ 
+
+ 2. Quando queste non sono disponibili, dovrebbero essere utilizzate per le unità di condizionamento i GPU portatili alimentati a gasolio perchè riducono l'utilizzo di carburante, emissioni e rumore rispetto all'APU, 
+ 
+
+ 3. Quando FEGP, PCA o GPU non sono disponibili, dovrebbe essere usato il sistema APU di bordo ed i relativi generatori e flussi d'aria dal compressore (ad alta pressione e temperatura). 
+ 
+
+ 4. Se nessuna di queste tecnologie è disponibile dovrebbe essere usato come ultima risorsa i generatori azionati dal motore principale e il flusso dell'aria. 
+ 
+
+ 
+ 
+
+ 9 ULTERIORI CONTRIBUTI ALLA RIDUZIONE DEI CONSUMI DI ENERGIA ELETTRICA NEL SETTORE AEROPORTUALE 
+ 
+
+ Nel settore aeroportuale i Gestori hanno da tempo avviato iniziative ed interventi volti alla riduzione del consumo di energia primaria, e conseguentemente delle emissioni di CO2, e considerevoli progressi sono già stati realizzati, sia con azioni intraprese a livello nazionale, sia tramite la partecipazione a programmi europei.
+ 
+
+ A ciò si aggiungono le azioni inserite nei nuovi contratti di programma che le società di gestione intendono adottare entro il 2020, sulla base dei modelli emanati dall'Autorità di Regolazione dei Trasporti. 
+ 
+
+ Sulla base delle informazioni fornite da Assaeroporti, a partire dai dati comunicati dai principali Gestori che complessivamente rappresentano circa il 90% del traffico complessivo del sistema aeroportuale italiano, corrispondente a oltre 135 milioni di passeggeri, risulta il seguente quadro: 
+ 
+
+ • Aeroporti che rappresentano l'84% del traffico aereo nazionale
+ 
+
+ hanno già promosso interventi volti all'efficientamento degli impianti di illuminazione, come ad esempio la installazione di corpi illuminanti ad alta efficienza (LED) o di sistemi di controllo automatico della luminosità degli ambienti; nel 2020 si prevede che detta percentuale aumenti all'87% del traffico complessivo; 
+ 
+
+ • Aeroporti che rappresentano il 78% del traffico aereo nazionale
+ 
+
+ hanno già avviato interventi per l'efficientamento degli impianti di produzione energetica (termica/elettrica/frigorifera) tramite cogenerazione, trigenerazione o installazione di unità per il trattamento dell'aria (UTA) ad elevata efficienza; nel 2020 si prevede che detta percentuale aumenti all'84% del traffico complessivo; 
+ 
+
+ • Aeroporti che rappresentano il 41% del traffico aereo nazionale
+ 
+
+ hanno già promosso interventi di riqualificazione e/o realizzazione di componenti dell'involucro edilizio ad elevate prestazioni in termini di trasmittanza termica; nel 2020 si prevede che detta percentuale aumenti al 57% del traffico complessivo; 
+ 
+
+ • Aeroporti che rappresentano il 58% del traffico aereo nazionale
+ 
+
+ hanno già promosso interventi di Green Procurement; nel 2020 si prevede che detta percentuale aumenti al 60% del traffico complessivo; 
+ 
+
+ • Aeroporti che rappresentano il 59% del traffico aereo nazionale
+ 
+
+ hanno già promosso interventi di Personnel Training comprendente iniziative di formazione e sensibilizzazione sulle tematiche ambientali ed il corretto uso dell'energia, rivolte al personale aeroportuale; nel 2020 si prevede che detta percentuale aumenti al 64% del traffico complessivo; 
+ 
+
+ • Aeroporti che rappresentano l'82% del traffico aereo nazionale
+ 
+
+ hanno già promosso l'adozione di protocolli gestionali e strumenti organizzativi per la migliore conduzione degli impianti tecnologici e la pianificazione degli interventi di miglioramento dell'efficienza energetica delle infrastrutture aeroportuali; nel 2020 si prevede che detta percentuale aumenti all'84% del traffico complessivo; 
+ 
+
+ • Alcuni aeroporti prevedono di realizzare entro il 2020 interventi
+ 
+
+ riguardanti l'installazione di impianti fotovoltaici e di adottare materiali fotocatalitici per le aree di viabilità; 
+ 
+
+ • L'Accreditamento ACI Europe Airport Carbon Accreditation è stato
+ 
+
+ conseguito da aeroporti che gestiscono il 51% del traffico aereo ed è previsto raggiungere il 65% nel 2020. 
+ 
+
+ In merito agli interventi che saranno attuati dai Gestori aeroportuali per la riduzione delle esternalità ambientali connesse all'attività aeroportuale, programmati nell'ambito dei rinnovi dei contratti di programma vi sono ad esempio i seguenti indicatori-obiettivo definiti dall'Autorità di Regolazione dei Trasporti: 
+ 
+
+ • Nuovi impianti di illuminazione in sostituzione di quelli
+ 
+
+ esistenti con apparecchi a basso consumo (LED, fluorescenti, etc.) 
+ 
+
+ • Installazione dei componenti opachi di involucro al di sotto dei
+ 
+
+ valori limite di trasmittanza indicati dalla normativa 
+ 
+
+ • Installazione dei componenti trasparenti di involucro al di sotto
+ 
+
+ dei valori limite di trasmittanza indicati dalla normativa 
+ 
+
+ • Riduzione del consumo di energia mediante sistemi di gestione
+ 
+
+ degli apparati di Illuminazione 
+ 
+
+ • Riduzione del consumio di energia mediante impianti di
+ 
+
+ condizionamento ad elevata efficienza 
+ 
+
+ • Produzione di energia alternativa tramite installazione di
+ 
+
+ impianti fotovoltaici 
+ 
+
+ • Produzione di energia elettrica, termica e frigorifera tramite
+ 
+
+ impianti di cogenerazione e rigenerazione 
+ 
+
+ • Produzione di energia termica ed elettrica tramite impianti
+ 
+
+ alimentati da biomasse reperibili localmente 
+ 
+
+ • Produzione di energia elettrica, termica e frigorifera tramite
+ 
+
+ impianti di cogenerazione e rigenerazione 
+ 
+
+ • Produzione di energia elettrica e termica tramite impianti
+ 
+
+ geotermici a bassa entalpia 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Quadro strategico nazionale 
+ 
+
+ 
+ 
+
+ Sezione b: 
+ 
+
+ Fornitura di idrogeno per il trasporto stradale 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE LISTA DELLE FIGURE 
+ 
+
+ 1 LE POLITICHE DELL'UNIONE EUROPEA PER IL SETTORE DEI TRASPORTI 
+ 
+
+ 2 LO STATO TECNOLOGICO 
+ 
+
+ 3 SCENARI EUROPEI 
+ 
+
+ 4 SCENARI ITALIANI 
+ 
+
+ 4.1 DIMENSIONAMENTO DEL PARCO VEICOLI FCEV 
+ 
+
+ 4.2 PRODUZIONE DELL'IDROGENO PER IL SETTORE DEI TRASPORTI 
+ 
+
+ 4.3 INTEGRAZIONE DELLE RINNOVABILI ELETTRICHE 
+ 
+
+ 5 DIMENSIONAMENTO DELLA RETE DI STAZIONI DI RIFORNIMENTO 
+ 
+
+ 6 LE PROSPETTIVE PER LA SOCIETà 
+ 
+
+ 6.1 LA PROSPETTIVA DEL CONSUMATORE 
+ 
+
+ 6.2 RIDUZIONE DELLE EMISSIONI DI CO2 E DI ALTRI INQUINANTI DANNOSI ALLA SALUTE UMANA 
+ 
+
+ 7 MISURE DI SOSTEGNO 
+ 
+
+ 7.1 MISURE DI SOSTEGNO ALLO SVILUPPO DELL'IDROGENO E BARRIERE 
+ 
+
+ 7.2 BARRIERE ALLO SVILUPPO DELL'IDROGENO 
+ 
+
+ 7.3 MISURE GIURIDICHE 
+ 
+
+ 8 INTEROPERABILITà A LIVELLO EUROPEO 
+ 
+
+ 9 ABBREVIAZIONI, ACRONIMI, UNITà DI MISURA E BIBLIOGRAFIA 
+ 
+
+ 9.1 ABBREVIAZIONI E ACRONIMI 
+ 
+
+ 9.2 UNITà DI MISURA 
+ 
+
+ 9.3 BIBLIOGRAFIA 
+ 
+
+ 
+ 
+
+ RIFERIMENTI 
+ 
+
+ 
+ 
+
+ APPENDICE A: 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE 
+ 
+
+ 
+ 
+
+ Tabella No. 
+ 
+
+ Tabella 1: Scenari di evoluzione tecnologica riportati nel report "Fuelling Europès future. How auto innovation leads to EU jobs" 
+ 
+
+ Tabella 2: Scenario MobilitaH2IT, riduzione dei principali inquinanti atmosferici attribuiti al trasporto su strada fino al 2050 
+ 
+
+ Tabella 3: Iniziative UE per la sperimentazione e la diffusione dell'idrogeno per il trasporto 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ LISTA DELLE FIGURE 
+ 
+
+ 
+ 
+
+ Figura No. 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: EUROSTAT 
+ 
+
+ Figura 2: Emissioni dal pozzo alla ruota (well-to-wheel, WTW) vs autonomia per diverse opzioni tecnologiche di mobilità 
+ 
+
+ Figura 3: La sfida dello stoccaggio energetico per la mobilità 
+ 
+
+ Figura 4: Componenti di un auto FCEV e previsioni di costo delle autovetture per tecnologia di alimentazione in Europa 
+ 
+
+ Figura 5: Costo d'acquisto e TCO degli autobus per tecnologia di alimentazione in Europa 
+ 
+
+ Figura 6: Flusso di cassa delle stazioni di rifornimento nelle prima fase di sviluppo del mercato FCEV 
+ 
+
+ Figura 7: La stazione idrogeno di Bolzano 
+ 
+
+ Figura 8: Stock delle autovetture per tecnologia negli Stati Uniti, EU4 e Giappone nello scenario IEA 2DS high H2 fino al 2050 
+ 
+
+ Figura 9: TCO delle diverse tecnologie automobilistiche (considerando un tasso di sconto del 5 %) 
+ 
+
+ Figura 10: Proiezione del numero di stazioni di rifornimento a idrogeno previsto in Francia Figura 11: Scenario MobilitaH2IT, stock autovetture FCEV fino al 2050 
+ 
+
+ Figura 12: Scenario MobilitaH2IT, stock autobus FCEV fino al 2050 Figura 13: Scenario MobilitaH2IT, domanda H2 alla pompa veicoli FCEV fino al 2050 Figura 14: Scenario MobilitaH2IT, produzione H2 fino al 2050 
+ 
+
+ Figura 15: Scenario MobilitaH2IT, costo di produzione e trasporto H2 fino al 2050 
+ 
+
+ Figura 16: Scenario MobilitaH2IT, potenziale di integrazione delle rinnovabili elettriche fino al 2050 
+ 
+
+ Figura 17: Scenario MobilitaH2IT, numero e tipologia stazioni rifornimento per autovetture FCEV e autobus FCEV fino al 2050 
+ 
+
+ Figura 18: Possibile ubicazione delle stazioni di rifornimento previste al 2020 per autovetture FCEV (sx) e autobus FCEV (dx) 
+ 
+
+ Figura 19: Possibile ubicazione delle stazioni di rifornimento previste al 2025 per autovetture FCEV (sx) e autobus FCEV (dx) 
+ 
+
+ Figura 20: Scenario MobilitaH2IT, riduzione delle emissioni di CO2
+ 
+
+ rispetto al Reference Scenario fino al 2050 
+ 
+
+ Figura 21: Scenario MobilitaH2IT, finanziamenti pubblici Europei e Nazionali necessari fino al 2025 
+ 
+
+ 
+ 
+
+ 1 LE POLITICHE DELL'UNIONE EUROPEA PER IL SETTORE DEI TRASPORTI 
+ 
+
+ Nel settore dei trasporti, sostenere l'innovazione e l'efficienza, frenare la dipendenza dalle importazioni di petrolio e guidare il passaggio a fonti energetiche interne e rinnovabili rappresenta una via da seguire per raggiungere gli obiettivi chiave europei: stimolare la crescita economica, aumentare l'occupazione e mitigare i cambiamenti climatici. In particolare l'Italia presenta un livello di dipendenza energetica tra i più elevati a livello europeo, 76.9% al 2013. Nel 2012, l'import di petrolio grezzo è stato pari a 68.81 milioni di tonnellate e la spesa per benzina e diesel è stata pari a 24.63 miliardi di euro (Fuelling Europès future. How auto innovation leads to EU jobs. Cambridge Econometrics (CE), in collaboration with Ricardo-AEA, Element Energy. 2013) (Figura 1). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: EUROSTAT 
+ 
+
+ 
+ 
+
+ Occorre quindi porsi obiettivi di riduzione dei consumi energetici da combustibili fossili, di riduzione delle emissioni di anidride carbonica e di miglioramento della qualità dell'aria anche tramite l'utilizzo dell'idrogeno. 
+ 
+
+ 
+ 
+
+ 2 LO STATO TECNOLOGICO 
+ 
+
+ La produzione di idrogeno da energia elettrica e lo stoccaggio in forma gassosa o liquefatta rappresenta una valida opzione per aumentare la flessibilità del sistema energetico, consentendo l'integrazione di elevate quote di fonti rinnovabili non programmabili (fotovoltaico, eolico) e la riduzione delle emissioni di CO2. 
+ 
+
+ In particolare il trasporto su strada è un grande emettitore di anidride carbonica ed è necessario il passaggio a modi di trasporto più efficienti, come il trasporto di passeggeri e merci su rotaia.
+ 
+
+ In alternativa, una sostanziale decarbonizzazione del settore dei trasporti su strada può essere ottenuta: 
+ 
+
+ 1) aumentando la quota di uso diretto di energia elettrica in veicoli elettrici a batteria (BEVs) e veicoli elettrici ibridi plug-in (PHEVs); 
+ 
+
+ 2) aumentando in modo significativo la quota di biocarburanti sostenibili (in particolare biometano), in combinazione con motori ad alta efficienza ibridi a combustione interna (ICEs) e PHEVs; 
+ 
+
+ 3) utilizzando FCEVs veicoli elettrici alimentati da idrogeno prodotto a basso tenore di carbonio. 
+ 
+
+ Tutte e tre le opzioni possono contribuire in modo sostanziale alla riduzione delle emissioni (Figura 2), ma devono superare diverse barriere. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 2: Emissioni dal pozzo alla ruota (well-to-wheel, WTW) vs autonomia per diverse opzioni tecnologiche di mobilità 
+ 
+
+ 
+ 
+
+ I veicoli BEVs possono attingere da una produzione di energia elettrica e da un'infrastruttura di trasporto e distribuzione (T&amp;D)
+ 
+
+ già esistenti, nonchè fare affidamento sul fatto che il loro impatto in termini di emissioni di CO2 sarebbe ridotto dalla decarbonizzazione già in atto nel settore elettrico. In ogni caso occorre considerare che le batterie riscontrano un serio compromesso tra capacità e peso, nonchè l'incertezza sull'autonomia e i lunghi tempi di ricarica che sono grandi preoccupazioni per l'accettabilità dell'utente finale. Nel caso dei biocarburanti, la produzione solleva dubbi per quanto riguarda la sostenibilità e la sottrazione dal settore alimentare umano ed animale, in particolare tenendo conto che una considerevole quantità di biocarburanti saranno necessari per decarbonizzare il trasporto di merci su lungo raggio (su strada, aerei e marittimo). 
+ 
+
+ I veicoli FCEV possono fornire un servizio di trasporto paragonabile ai veicoli di oggi e, allo stesso tempo, contribuire agli obiettivi di miglioramento dell'indipendenza energetica e di sicurezza climatica. 
+ 
+
+ Le performance di stoccaggio dell'idrogeno sono migliori rispetto a quelle delle batterie elettriche (Figura 3). è possibile infatti immagazzinare 6 kg di idrogeno (circa 200 kWh) compresso a 700 bar in un serbatoio dal peso complessivo di 125 kg e dal volume di 260 litri, mentre per immagazzinare metà di quest'energia (100 kWh) in batterie elettriche agli ioni di litio occorrono 830 kg di peso e 670 litri di volume. Un serbatoio di 260 litri può rientrare perfettamente nel volume, necessariamente ridotto, di un veicolo, offrendo un'autonomia di 600 km, comparabile con quella offerta dai veicoli a benzina e chiaramente superiore alle ridotte autonomie dei veicoli a batteria BEVs attualmente sul mercato. Da ultimo, e diversamente dalle batterie, le performance di stoccaggio di un serbatoio di idrogeno non si deteriorano con il numero di cariche e scariche o con l'esposizione a temperature estreme. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 3: La sfida dello stoccaggio energetico per la mobilità 
+ 
+
+ 
+ 
+
+ Attualmente circa 540 FCEVs (autovetture e autobus) sono in attività come vettura pilota in tutto il mondo, in particolare in Europa (192), Stati Uniti, Giappone, Corea del Sud (Technology Roadmap Hydrogen and Fuel Cells. IEA. Giugno 2015). I veicoli FCEVs sono essenzialmente veicoli elettrici che utilizzano idrogeno immagazzinato in un serbatoio pressurizzato e una cella a combustibile per la produzione di energia a bordo. I veicoli FCEVs sono anche auto ibride, l'energia di frenata viene recuperata e accumulata in una batteria. L'alimentazione elettrica della batteria viene usata per ridurre la domanda di picco della cella a combustibile in accelerazione e per ottimizzare l'efficienza operativa. I veicoli FCEVs sono usualmente riforniti con idrogeno gassoso a pressioni tra 35 MPa e 70 MPa. Attualmente, per le autovetture, l'efficienza su strada (fuel economy) è di circa 1 kg di idrogeno ogni 100 km percorsi, con autonomie da circa 500 km a 750 km e tempi di ricarica inferiori ai 5 minuti. 
+ 
+
+ Nonostante i costi delle autovetture FCEV sono ad oggi elevati1 ,
+ 
+
+ il costo è previsto convergere entro il 2030 con quello delle altre tecnologie di alimentazione, grazie ad economie di scala (Figura 4, (En route pour un transport durable. Cambridge Econometrics. Novembre 2015)). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -------- 
+ 
+
+ 1 I prezzi annunciati fino ad oggi sono stati fissati, per le
+ 
+
+ autovetture, a circa 60.000 euro. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 4: Componenti di un auto FCEV e previsioni di costo delle 
+ 
+
+ autovetture per tecnologia di alimentazione in Europa 
+ 
+
+ 
+ 
+
+ A conferma dell'interesse nella tecnologia FCEV, alcune delle maggiori case automobilistiche mondiali hanno già integrato la tecnologia delle fuel cell ad idrogeno nei loro piani strategici e dai primi prototipi si è passati rapidamente, negli ultimissimi anni, alla produzione su scala commerciale. 
+ 
+
+ Varie sperimentazioni hanno coinvolto anche il trasporto pubblico, sin dai primi anni '90. Negli ultimi 15 anni, in Europa, sono stati operativi autobus FCEV su circa 8 milioni di km, dimostrando che la tecnologia funziona, è flessibile, operativa e sicura. Un totale di 84 autobus FCEV sono operativi, o in procinto di esserlo, in 17 città e regioni in 8 paesi europei. Le autonomie quotidiane arrivano fino a 450 km, con efficienze di consumo di circa 8-9 kg di H2/100 km, i tempi di rifornimento sono inferiori a 10 minuti. Gli autobus FCEV sono in grado di raggiungere lo stesso chilometraggio quotidiano degli autobus diesel convenzionali, hanno piena flessibilità di rotta e non richiedono alcuna infrastruttura lungo il percorso. La piattaforma europea "Fuel Cells and Hydrogen Joint Undertaking" sta attivamente promuovendo e finanziando diversi progetti, da 10 fino a più di 20 autobus FCEV per località. I futuri costi d'acquisto degli autobus FCEV dipenderanno dalla rapidità nel raggiungere effetti di scala e dal cammino tecnologico seguito. In un percorso in grado di cogliere sinergie di tecnologia con il mercato FCEV automobilistico (Automotive FC), i costi d'acquisto e i TCO (Total Cost of Ownership) potrebbero essere pressochè alla pari con la tecnologia diesel ibrida entro il prossimo decennio (Fuel Cell Electric Buses, Potential for Sustainable Public Transport in Europe.
+ 
+
+ A Study for the Fuel Cells and Hydrogen Joint Undertaking. Settembre 2015) (Figura 5). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 5: Costo d'acquisto e TCO degli autobus per tecnologia di alimentazione in Europa 
+ 
+
+ 
+ 
+
+ Le stazioni di rifornimento di idrogeno possono essere alimentate in due diversi modi: 
+ 
+
+ 1) Produzione di idrogeno in sito direttamente nella stazione di rifornimento; 
+ 
+
+ 2) Produzione di idrogeno in impianti centralizzati e trasporto alla stazione di rifornimento. 
+ 
+
+ Sia nella produzione in sito, che nella produzione centralizzata, è possibile l'utilizzo di elettrolizzatori o steam methane reformers (SMR). Ogni approccio ha i suoi vantaggi e compromessi. Mentre la produzione centralizzata di idrogeno offre economie di scala per minimizzare il costo di generazione dell'idrogeno, la necessità di distribuire l'idrogeno comporta costi di trasporto. Per la generazione di idrogeno decentralizzata è vero esattamente il contrario. 
+ 
+
+ In una prospettiva di incremento della produzione elettrica mediante fonti rinnovabili, appare strategico localizzare la produzione di idrogeno da elettrolisi in prossimità dei siti di produzione da RES (sia in modalità in sito che centralizzata), sfruttandone la produzione in surplus. Questi impianti, dotati di propri sistemi di accumulo, avranno maggiori caratteristiche di dispacciabilità, le fonti rinnovabili diventeranno "più programmabili". 
+ 
+
+ Garantire una densità minima di stazioni di rifornimento di idrogeno è un prerequisito fondamentale per raggiungere l'interesse dei consumatori e garantire un ampio mercato per i veicoli FCEV.
+ 
+
+ Attualmente è stimato che circa 300 stazioni sono già state realizzate, principalmente dalle aziende Air Liquide, Linde, Air Products (partener italiano è il Gruppo SAPIO), H2 Logic, particolarmente in Germania, Giappone, Stati Uniti (California) e in Nord Europa (Danimarca e Olanda) negli ultimi dieci anni (Hydro-gen: the energy transition in the making! Pierre-Etienne Franc, Pascal Mateo. Manifesto. 2015. ). Sia in Germania che in Giappone ci sono piani per costruire varie decine di nuove stazioni di rifornimento di idrogeno nei prossimi anni, in modo da completare l'esistente rete. 
+ 
+
+ Le caratteristiche progettuali di una stazione di rifornimento di idrogeno sono determinate dalla domanda giornaliera di idrogeno, dalla modalità di stoccaggio dell'idrogeno a bordo dei veicoli (ad esempio la pressione a 350 bar o 700 bar), e il modo in cui l'idrogeno viene consegnato o prodotto in stazione. 
+ 
+
+ Il rischio di investimento associato con lo sviluppo delle stazioni di rifornimento è dovuto principalmente all'elevato investimento di capitale e ai costi operativi, nonchè il sottoutilizzo degli impianti durante la prima fase di sviluppo del mercato FCEV, che può portare a un flusso di cassa negativo nei primi 10-15 anni (Figura 6). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 6: Flusso di cassa delle stazioni di rifornimento nelle prima fase di sviluppo del mercato FCEV 
+ 
+
+ 
+ 
+
+ Questa lunga "valle della morte" può essere minimizzata riducendo i costi di capitale e di esercizio e massimizzando l'utilizzo della risorsa, ma per coprire il periodo di flusso di cassa negativo, il sostegno pubblico appare necessario durante la fase di introduzione sul mercato dei veicoli FCEV. 
+ 
+
+ Inoltre nella progettazione delle stazioni di rifornimento dell'idrogeno è importante l'armonizzazione delle norme europee e la loro essenzialità: i costi possono infatti diminuire, anche considerevolmente, se si riducono le prescrizioni normative nazionali che vanno oltre gli standard europei. Infine, sarà fondamentale garantire snellezza nelle pratiche autorizzative, evitando che tempi burocratici lunghi possano scoraggiare gli operatori del settore e rallentare la transizione verso una mobilità sostenibile. 
+ 
+
+ 
+ 
+
+ Approfondimento: IL PROGETTO H2 ALTO ADIGE 
+ 
+
+ In Italia spicca il progetto H2 Alto Adige. Produrre idrogeno, ovvero "carburante made in Alto Adige" generato tramite energie rinnovabili, stoccarlo, rifornire le silenziose vetture elettriche a emissioni zero per raggiungere una graduale indipendenza energetica, questa è l'idea alla base del progetto H2 di Bolzano. L'Alto Adige, nel 2006, ha deciso di perseguire questo importante obiettivo, attraverso una stretta collaborazione con l'Autostrada del Brennero SpA e grazie al sostegno del FESR, il Fondo Europeo per lo Sviluppo Regionale. L'impianto di produzione di Bolzano è considerato uno dei più grandi e innovativi a livello mondiale. I tre elettrolizzatori modulari sono in grado di produrre fino a 345 kg/giorno. L'idrogeno compresso e stoccato sotto forma gassosa attualmente può rifornire fino a 15 autobus urbani (con tratte giornaliere di 200-250 km) o fino a 700 vetture. Contemporaneamente alla messa in servizio del centro idrogeno sono stati avviati i progetti europei HYFIVE e CHIC. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 7: La stazione idrogeno di Bolzano 
+ 
+
+ 
+ 
+
+ 3 SCENARI EUROPEI 
+ 
+
+ Numerosi studi hanno recentemente analizzato possibili scenari di transizione energetica nel settore dei trasporti, con estensioni temporali fino al 2050. 
+ 
+
+ Nel settore autovetture, nel "Technology Roadmap Hydrogen and Fuel Cells" (Technology Roadmap Hydrogen and Fuel Cells. IEA. Giugno 2015), pubblicato dall'IEA nel Giugno 2015, viene presentato uno scenario di introduzione delle autovetture FCEV fino al 2050 (Figura 8). Per quanto riguarda le autovetture FCEV, l'IEA prevede per i tre principali mercati, Stati Uniti, EU4 (Francia, Germania, Regno Unito, Italia) e Giappone i seguenti target commerciali: 
+ 
+
+ • 2020: saranno in circolazione circa 30,000 FCEVs; 
+ 
+
+ • 2025: le vendite annue raggiungono i 400,000 FCEVs; 
+ 
+
+ • 2030: le vendite cumulate raggiungono gli 8 milioni di FCEVs (2,3
+ 
+
+ milioni di vendite annue); 
+ 
+
+ 2050: la quota di FCEVs sul totale delle vendite di autovetture è di circa il 30% (25% lo share sullo stock complessivo dei veicoli in circolazione), la frazione di veicoli convenzionali ICE e ibridi senza la possibilità di inserimento nella rete elettrica dovrà scendere a circa il 30 % del parco veicoli. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 8: Stock delle autovetture per tecnologia negli Stati Uniti, EU4 e Giappone nello scenario IEA 2DS high H2 fino al 2050 
+ 
+
+ 
+ 
+
+ Inoltre, per comprendere gli impatti macro-economici della transizione verso una mobilità alternativa, nell'arco di tempo 2010-2050, il Report "Fuelling Europès future. How auto innovation leads to EU jobs" (Fuelling Europès future. How auto innovation leads to EU jobs. Cambridge Econometrics (CE), in collaboration with Ricardo-AEA, Element Energy. 2013) ha sviluppato e analizzato cinque scenari di evoluzione tecnologica. Tali Scenari sono riassunti in Tabella 1. 
+ 
+
+ 
+ 
+
+ Tabella 1: Scenari di evoluzione tecnologica riportati nel report "Fuelling Europès future. How auto innovation leads to EU jobs" 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Nome Scenario Descrizione 
+ 
+
+ 
+ Reference Scenario (REF) Le emissioni di CO2 delle nuove vendite di autoveicoli in Europa rimangano agli attuali livelli di 135 g/km, la corrente suddivisione tra veicoli diesel e benzina rimane invariata e nessun ulteriore tecnologia viene introdotta per migliorare l'efficienza. 
+ 
+
+ 
+ Current Policy Initiatives (CPI) Raggiungimento dell'obiettivo proposto alle autovetture di 95 g/km nel 2020 e ai furgoni di 147 g/km nel 2020. Nessun ulteriore obiettivo politico viene fissato dopo il 2020, ci saranno comunque alcuni ulteriori progressi nella riduzione del consumo di carburante, guidati dalla preoccupazione dei consumatori per le emissioni di CO2, dall' incremento nel prezzo del carburante e dal proseguimento nell'esistente sviluppo tecnologico (tasso di miglioramento inferiore all'1% all'anno dopo il 2020). L'introduzione di veicoli HEV nel nuovo parco auto raggiunge il 5% nel 2020, il 12 % nel 2030 e il 22 % entro il 2050. 
+ 
+
+ 
+ Scenario Tech1 Lo scenario si propone di esplorare l'impatto di un'introduzione ambiziosa di veicoli HEV. Si presuppone una penetrazione di mercato per gli HEV del 10 % sulle nuove vendite di veicoli nel 2020, del 50 % nel 2030 e del 96 % nel 2050. 
+ 
+
+ 
+ Scenario Tech2 Questo scenario presuppone una penetrazione di mercato dei veicoli HEV del 20 % nelle vendite di nuovi veicoli nel 2020, 42% nel 2030, 10 % nel 2050. I veicoli elettrici avanzati (PHEV, BEV, FCEV) vengono introdotti al 2.5 % nel 2020, 37 % nel 2030, 90 % nel 2050. 
+ 
+
+ 
+ Scenario Tech3 Questo scenario presuppone un ritmo più rapido di introduzione dei veicoli elettrici avanzati (PHEV, BEV, FCEV), possibile con apposite misure di sostegno. Questo scenario presuppone una penetrazione di mercato dei veicoli elettrici avanzati del 9.5 % nel 2020, 80 % nel 2030 e 100 % nel 2050. I veicoli HEV raggiungono, nelle vendite di nuovi veicoli, il 20 % nel 2020, il 15 % nel 2030, il 0 % nel 2050. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Le innovazioni indagate negli scenari Tech1, Tech2 e Tech3 hanno portato alle seguenti conclusioni: 
+ 
+
+ • Le emissioni dirette di CO2 delle auto e dei furgoni vengono
+ 
+
+ ridotte tra il 64 % e il 93 % entro il 2050, contribuendo al raggiungimento dell'obiettivo UE di riduzione delle emissioni complessive dei trasporti del 60%. 
+ 
+
+ • Le emissioni degli inquinanti dannosi alla salute sono
+ 
+
+ drasticamente tagliate, l'NOx di oltre l'85 %, il particolato fine di oltre il 70%. 
+ 
+
+ • I consumatori selezionano i loro veicoli sulla base di un
+ 
+
+ un'ampia gamma di fattori, di cui il costo del capitale è solo un elemento. Nel calcolo dell'impatto complessivo sugli automobilisti legato al miglioramento nell'efficienza dei veicoli, è anche utile guardare al "Costo Totale di Proprietà" (Total Cost of Ownership, TCO), che include i costi del carburante e la manutenzione.
+ 
+
+ Utilizzando un tasso di sconto del 5 % i TCO delle diverse tecnologie automobilistiche sono attesi convergere verso il 2020 (ad eccezione dei FCEV), con il TCO di tutti i propulsori inferiore a quello del 2010, nonostante la previsione di un significativo (circa +30%) aumento del prezzo dei combustibili (Figura 9). Invece i veicoli FCEV avvicinano i TCO delle altre tecnologie a partire dal 2030. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 9: TCO delle diverse tecnologie automobilistiche (considerando un tasso di sconto del 5 %) 
+ 
+
+ 
+ 
+
+ • Il passaggio a combustibili alternativi, può avere un impatto
+ 
+
+ positivo sull'economia europea. In primo luogo, porta a una maggior efficienza nei veicoli. 
+ 
+
+ • Gli investimenti nelle infrastrutture per il rifornimento hanno
+ 
+
+ un impatto positivo sul PIL, perchè stimolano l'industria nazionale e richiedono un alto input di lavoro nella catena di fornitura. 
+ 
+
+ • L'Europa eccelle nella tecnologia per il settore automobilistico,
+ 
+
+ un aumento della spesa per veicoli a basse emissioni di carbonio creerà lavoro. Tra 660.000 e 1,1 milioni di nuovi posti di lavoro (al netto dell'intera forza lavoro) potranno essere generati entro il 2030. Nel 2050, questi valori salgono tra 1.9 e 2.3 milioni di nuovi posti di lavoro. La transizione verso veicoli a basse emissioni di carbonio genererà la domanda di nuove competenze nella forza lavoro.
+ 
+
+ L'Europa potrà sviluppare adeguati percorsi formativi per far crescere le necessarie competenze nella sua futura forza lavoro. 
+ 
+
+ • L'analisi suggerisce anche che la tassazione della maggior
+ 
+
+ attività economica risultante da un passaggio ai veicoli a basse emissioni in gran parte compensa le entrate fiscali perse dalla vendita dei combustibili convenzionali (benzina e diesel). 
+ 
+
+ Passando al settore autobus, a livello europeo è prevista l'attuazione di progetti dimostrativi su larga scala, con un totale da circa 300 a 400 autobus FCEV in Europa entro il 2020 [19]. 
+ 
+
+ Questo scenario prevede un volume totale di 8,000-10,000 autobus FCEV necessari fino al 2025. 
+ 
+
+ Alcune importanti iniziative europee hanno già iniziato a sostenere l'introduzione dell'idrogeno come carburante per il trasporto attraverso lo sviluppo e l'attuazione di una strategia nazionale. Queste sono : 
+ 
+
+ • Regno Unito: "UK H2 Mobility" (www.ukh2mobility.co.uk); 
+ 
+
+ • Francia: "Mobilitè hydrogene France" (www.afhypac.org) (Figura
+ 
+
+ 10); 
+ 
+
+ • Scandinavia: "Scandinavian Hydrogen Highway Partnership" (www. scandinavianhydrogen. org); 
+ 
+
+ • Germania: "H2 Mobility" (h2-mobility.de). 
+ 
+
+ Le prime indicazioni quantitative risultano essere: 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Paese FCEV 2020 FCEV 2025 FCEV 2030 HRS 2020 HRS 2025 HRS 2030 
+ 
+
+ 
+ Regno Unito - - 1.600.000 - - 1.150 
+ 
+
+ 
+ Francia 2.500 167.000 773.000 21 355 602 
+ 
+
+ 
+ Germania 156.000 658.000 1.773.000 377 779 992 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Iniziative simili sono in fase di lancio anche in altri paesi europei come Austria, Belgio, Finlandia, Paesi Bassi, Svizzera. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 10: Proiezione del numero di stazioni di rifornimento a idrogeno previsto in Francia 
+ 
+
+ 
+ 
+
+ I progetti di cui sopra dimostrano che lo sviluppo di idrogeno come combustibile alternativo è possibile quando si trova: 
+ 
+
+ • una strategia stabilita per diffondere le stazioni di
+ 
+
+ rifornimento di idrogeno; 
+ 
+
+ • un forte sostegno del governo nazionale e locale (legislativo e
+ 
+
+ finanziario); 
+ 
+
+ • una presenza importante di attori industriali nel campo
+ 
+
+ dell'idrogeno; 
+ 
+
+ • un potenziale di produzione di idrogeno "green". 
+ 
+
+ Questi possono essere riconosciuti come elementi fondamentali per la definizione di una strategia per la mobilità a idrogeno. 
+ 
+
+ 
+ 
+
+ 4 SCENARI ITALIANI 
+ 
+
+ Il seguente contesto caratterizza lo stato attuale del settore dei trasporti in Italia: 
+ 
+
+ • Al 2014 il settore dei trasporti rappresentava il 31,8 % dei
+ 
+
+ consumi finali totali di energia (38.117 ktep su un totale di 119.769 ktep)2 . 
+ 
+
+ • Al 2013 le emissioni atmosferiche attribuibili al settore trasporti
+ 
+
+ rappresentavano il 24% delle emissioni totali nazionali (104,9 Mt CO2eq su un totale di 438,0 Mt CO2eq &sup3;). 
+ 
+
+ • L'Italia è il Paese dell'Unione europea che registra più morti
+ 
+
+ premature a causa dell'inquinamento dell'aria. In Italia nel 2012 59.500 decessi prematuri sono attribuibili al particolato fine (PM 2,5), 3.300 all'ozono (O3 ) e 21.600 al biossido di azoto (NO2 ) (Air
+ 
+
+ quality in Europe. European Environmental Agency. 2015 Report). 
+ 
+
+ • Per quanto riguarda il trasporto su strada, al 2014 la consistenza
+ 
+
+ del parco veicolare è risultata pari a circa 49,2 milioni di veicoli, tra cui: 37,1 milioni di autovetture, 6,5 milioni di motocicli, 3,9 milioni di autocarri per merci, 97.914 autobus. Tra le autovetture la predominanza è netta per l'alimentazione a benzina (51%) e gasolio (41%), seguono le alimentazioni ibride benzina/GPL (6%) e benzina/metano (2%). Allo stato attuale, la presenza di veicoli elettrici avanzati (PHEV, BEV, FCEV) è pressochè nulla. (Annuario Statistico ACI 2015) 
+ 
+
+ La definizione degli obiettivi nazionali è basata su una modellazione analitica di dettaglio estesa fino al 2050, prendendo in considerazione i seguenti aspetti: 
+ 
+
+ • obiettivi ambientali per la riduzione dei gas serra e delle
+ 
+
+ emissioni inquinanti; 
+ 
+
+ • futura flotta di veicoli alternativi attesi per diversi orizzonti
+ 
+
+ temporali e stima della domanda futura di idrogeno4 ; 
+ 
+
+ • produzione dell'idrogeno e aumento della rete di alimentazione
+ 
+
+ (cioè l'implementazione di un'infrastruttura adeguata) per favorire lo sviluppo della mobilità alternativa e, di conseguenza, per soddisfare le future esigenze della domanda. 
+ 
+
+ L'intera analisi è stata scomposta nelle seguenti aree: 
+ 
+
+ 1. Dimensionamento del parco veicoli FCEV; 
+ 
+
+ 2. Produzione dell'idrogeno per il settore dei trasporti; 
+ 
+
+ 3. Integrazione delle rinnovabili elettriche; 
+ 
+
+ 4. Dimensionamento delle stazioni di rifornimento; 
+ 
+
+ 5. La prospettiva del consumatore; 
+ 
+
+ 6. Riduzione delle emissioni di CO2 e di altri inquinanti dannosi
+ 
+
+ alla salute umana; 
+ 
+
+ 7. Misure di sostegno allo sviluppo dell'idrogeno. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ -------- 
+ 
+
+ 2 I dati del bilancio energetico nazionale MiSE 
+ 
+
+ 3 I dati delle emissioni di gas ad effetto serra sono di fonte
+ 
+
+ UNFCCC così come comunicati per l'Italia da ISPRA secondo il mandato stabilito dal Decreto legislativo 51/2008 
+ 
+
+ 4 Lo scenario di introduzione dell'idrogeno nella mobilità italiana
+ 
+
+ (denominato Scenario MobilitaH2IT), proposto in questa sezione è stato modellato tenendo conto degli studi di riferimento illustrati nel precedente Capitolo, adattandoli al contesto italiano 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.1 DIMENSIONAMENTO DEL PARCO VEICOLI FCEV 
+ 
+
+ La vendita di autovetture FCEV proposta nello Scenario MobilitaH2IT è riportata in Figura 11 per il contesto italiano5 . Lo scenario di
+ 
+
+ vendita in Italia delle autovetture FCEV pone come punto di partenza un'introduzione di 1.000 autovetture entro il 2020, per poi raggiungere uno stock di circa 27.000 al 2025 (0,1% del parco veicoli italiano), circa 290.000 al 2030 (0,7% del parco veicoli italiano) e circa 8,5 Milioni al 2050 (20% del parco veicoli italiano). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 11: Scenario MobilitaH2IT, stock autovetture FCEV fino al 2050 
+ 
+
+ 
+ 
+
+ Passando agli autobus, lo scenario di ramp-up italiano è indicato in Figura 126 . Lo scenario di vendita in Italia degli autobus FCEV
+ 
+
+ prevede obiettivi più ambizioni rispetto alle autovetture. Gli operatori del trasporto pubblico, attivi in ambito cittadino, dovranno infatti garantire un ruolo guida nella transizione verso una mobilità alternativa, specialmente nelle prime fasi di mercato. Il punto di partenza è posto nell'introduzione di 100 autobus entro il 2020, per poi raggiungere uno stock di circa 1.100 al 2025 (1,1 % dello stock totale), circa 3.700 al 2030 (3,8 % dello stock totale) e circa 23.000 al 2050 (25,0 % dello stock totale). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 12: Scenario MobilitaH2IT, stock autobus FCEV fino al 2050 
+ 
+
+ Un notevole miglioramento nella fuel economy delle autovetture e degli autobus FCEV è atteso fino al 2050, incrementando la competitività con i veicoli convenzionali ICE, soggetti anch'essi a miglioramenti ma in maniera meno marcata. Questo fa si che la percentuale di finanziamento per gli acquirenti (eco-bonus), nella copertura del costo addizionale dei veicoli FCEV, potrà essere ridotta progressivamente. 
+ 
+
+ La domanda di idrogeno alla pompa delle autovetture FCEV e degli autobus FCEV introdotti nello Scenario MobilitaH2IT, è indicata in Figura 13. Al 2020 è prevista una domanda alla pompa di circa 2.000 kg/giorno, portata a circa 25.600 kg/giorno al 2025. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 13: Scenario MobilitaH2IT, domanda H2 alla pompa veicoli FCEV fino al 2050 
+ 
+
+ 
+ 
+
+ --------------- 
+ 
+
+ 5 Nel calcolo dello stock autovetture FCEV è stato considerato un
+ 
+
+ life-time di 12 anni 
+ 
+
+ 6 Nel calcolo dello stock autobus FCEV è stato considerato un
+ 
+
+ life-time di 12 anni 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 4.2 PRODUZIONE DELL'IDROGENO PER IL SETTORE DEI TRASPORTI 
+ 
+
+ Negli scenari proposti l'idrogeno può essere prodotto secondo quattro diverse modalità operative: 
+ 
+
+ 1) Produzione di idrogeno in impianti centralizzati mediante SMR (H2 da SMR C) e trasporto gassoso su camion fino alla stazione di rifornimento; 
+ 
+
+ 2) Produzione di idrogeno in impianti centralizzati mediante elettrolisi da rinnovabili (H2 da ELR C) e trasporto gassoso su camion fino alla stazione di rifornimento; 
+ 
+
+ 3) Produzione di idrogeno on-site nella stazione di rifornimento mediante elettrolisi con energia elettrica da rete (H2 da ELG OS); 
+ 
+
+ 4) Produzione di idrogeno on-site nella stazione di rifornimento mediante elettrolisi con energia elettrica rinnovabile (H2 da ELR OS). 
+ 
+
+ Attualmente, più del 95% dell'idrogeno viene prodotto da fonti fossili. La produzione centralizzata di idrogeno da SMR, a basso costo, permetterà di agevolare il periodo di transizione iniziale 2020-2030. Superata questa fase tutta la nuova produzione di idrogeno avverrà mediante elettrolisi. In particolare dovrà essere particolarmente incentivato l'utilizzo di energia rinnovabile prodotta on-site (autoconsumo). Lo Scenario MobilitaH2IT prevede una rapida transizione verso una produzione di idrogeno "green" da elettrolisi e il raggiungimento di risultati ambizioni in termini di: 
+ 
+
+ 1) Maggior contributo dei veicoli FCEV nella riduzione delle emissioni di CO2; 
+ 
+
+ 2) Maggior indipendenza energetica nazionale; 
+ 
+
+ 3) Maggior potenzialità di integrazione delle fonti rinnovabili non programmabili (fotovoltaico, eolico). 
+ 
+
+ La produzione di idrogeno, con relativo mix, nello Scenario MobilitaH2IT è indicata in Figura 14. Al 2020 è prevista una domanda di produzione pari a circa 2.500 kg/giorno (circa 1.500 kg/giorno da SMR e circa 1.000 kg/giorno da elettrolisi), portata a circa 32.000 kg/giorno al 2025 (circa 12.800 kg/giorno da SMR e circa 19.200 kg/giorno da elettrolisi). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 14: Scenario MobilitaH2IT, produzione H2 fino al 2050 
+ 
+
+ 
+ 
+
+ In Figura 15 sono stati analizzati e comparati i costi di produzione e trasporto dell'idrogeno nelle quattro modalità operative precedentemente descritte. Il costo di produzione e trasporto dell'idrogeno è calcolato sulla base di parametri economici quali i costi di investimento (CAPEX), costi finanziari, costi dell'energia primaria (gas ed elettricità), costi operativi e di manutenzione (OPEX), margine di guadagno sulla produzione, costi di trasporto e margine di guadagno sul trasporto, così come sulla base di parametri tecnici quali l'efficienza di conversione e il life-time. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 15: Scenario MobilitaH2IT, costo di produzione e trasporto H2 fino al 2050 
+ 
+
+ 
+ 
+
+ 4.3 INTEGRAZIONE DELLE RINNOVABILI ELETTRICHE 
+ 
+
+ La produzione di idrogeno da energia elettrica e lo stoccaggio in forma gassosa o liquefatta potrebbe rappresentare una valida opzione per aumentare la flessibilità del sistema energetico, consentendo l'integrazione di elevate quote di fonti rinnovabili non programmabili (fotovoltaico, eolico). In particolare potrebbe essere di grande interesse l'accumulo mediante power to fuel: l'elettricità viene trasformata in idrogeno utilizzato poi come combustibile per FCEV nel settore dei trasporti. La Figura 16 quantifica il potenziale di integrazione delle rinnovabili elettriche offerto nello Scenario MobilitaH2IT: circa 2,3 TWh/anno al 2030, circa 24,7 TWh/anno al 2040, circa 47 TWh/anno al 2050. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 16: Scenario MobilitaH2IT, potenziale di integrazione delle rinnovabili elettriche fino al 2050 
+ 
+
+ 
+ 
+
+ 5 DIMENSIONAMENTO DELLA RETE DI STAZIONI DI RIFORNIMENTO 
+ 
+
+ La configurazione dell'infrastruttura di rifornimento è determinata da molti parametri, tra cui: la domanda di idrogeno, la densità di popolazione dell'ambiente urbano, ipotesi sulla necessaria prossimità di una stazione rispetto ad un'altra per i consumatori. Per necessità operative, autovetture e autobus saranno serviti da stazioni di rifornimento diverse. 
+ 
+
+ Le stazioni più piccole saranno costruite nelle due fasi iniziali di captive fleet (2020-2022 e 2023-2025), a servizio di piccole flotte di veicoli. Nella prima fase 2020-2022 si prevedono captive fleets fino a 99-109 autovetture e fino a 10-11 autobus, con stazioni rispettivamente da 50 kg/giorno e 200 kg/giorno. Nella seconda fase 2023-2025 si prevedono captive fleets fino a 222-229 autovetture e fino a 29 autobus, con stazioni rispettivamente da 100 kg/giorno e 500 kg/giorno. La costruzione di piccole stazioni permette il rapido raggiungimento di una copertura minima delle principali arterie di trasporto (TEN-T) e dei principali centri abitati, garantendo il successivo passaggio alla mass transportation. Dopo questa fase iniziale è prevista solamente la costruzione di stazioni di grande taglia, 500 kg/giorno per le autovetture (in grado di rifornire fino a 1169 autovetture/giorno al 2026) e 1000 kg/giorno per gli autobus (in grado di rifornire fino a 60 autobus/giorno al 2026), economicamente attrattive per gli operatori del settore. 
+ 
+
+ L'approccio captive fleet permette i seguenti benefici: 
+ 
+
+ • I mezzi di trasporto e le stazioni di rifornimento dell'idrogeno
+ 
+
+ saranno sviluppati una volta identificato un numero sufficiente di clienti locali; 
+ 
+
+ • Un adeguato fattore di carico (AL) per le stazioni di
+ 
+
+ rifornimento già dai primi anni, evitando rischi di sottoutilizzo; • Notevole riduzione della necessità di investimento. 
+ 
+
+ Le captive fleet sono flotte di veicoli con modelli di guida e di rifornimento prevedibili. Ogni flotta fa riferimento ad una specifica stazione di rifornimento. Esempi di captive fleet sono le flotte di taxi, veicoli per la consegna della merce, le flotte di veicoli per i dipendenti comunali, per le forze dell'ordine, veicoli della posta, flotte di veicoli aziendali. Tali utenze devono essere coinvolte per il successo della prima fase di introduzione sul mercato. 
+ 
+
+ Lo Scenario MobilitaH2IT utilizza le seguenti assunzioni per quanto riguarda le stazioni di rifornimento dell'idrogeno: 
+ 
+
+ • annual load factor (AL) delle stazioni di rifornimento pari al 70
+ 
+
+ % fino al 2020 e al 75% nel periodo successivo per le autovetture e 80% fino al 2020 e 90 % nel periodo successivo per gli autobus; 
+ 
+
+ • costi finanziari pari al 7 % (Fuel Cell Electric Buses, Potential
+ 
+
+ for Sustainable Public Transport in Europe. A Study for the Fuel Cells and Hydrogen Joint Undertaking. Settembre 2015), 
+ 
+
+ • margine di guadagno per le stazioni di rifornimento pari al 20 %. 
+ 
+
+ Numero e tipologia delle stazioni di rifornimento, per autovetture FCEV e autobus FCEV, nello Scenario MobilitaH2IT è indicato in Figura 17. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 17: Scenario MobilitaH2IT, numero e tipologia stazioni rifornimento per autovetture FCEV e autobus FCEV fino al 2050 
+ 
+
+ 
+ 
+
+ In Figura 18 e in Figura 19 è indicata una possibile ubicazione delle stazioni di rifornimento per autovetture FCEV e autobus FCEV previste al 2020 e al 2025. La scelta dell'ubicazione rispetta i seguenti criteri: 
+ 
+
+ • città già attive o in fase progettuale avanzata per la
+ 
+
+ sperimentazione del trasporto idrogeno, alla data di redazione del presente documento (Bolzano, Milano, Sanremo, Roma, Venezia, Brunico, Rovereto); 
+ 
+
+ • popolazione residente nel comune (priorità ai comuni con maggior
+ 
+
+ popolazione, dati ISTAT 2015). 
+ 
+
+ Le Figura 18 e la Figura 19 ipotizzano una possibile distribuzione territoriale delle stazioni di rifornimento dell'idrogeno.
+ 
+
+ L'effettiva ubicazione dipenderà infatti dall'adesione delle città ai bandi di finanziamento appositamente promosse a livello europeo, nazionale e regionale. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 18: Possibile ubicazione delle stazioni di rifornimento previste al 2020 per autovetture FCEV (sx) e autobus FCEV (dx) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 19: Possibile ubicazione delle stazioni di rifornimento previste al 2025 per autovetture FCEV (sx) e autobus FCEV (dx) 
+ 
+
+ 
+ 
+
+ Per quanto riguarda le autovetture, l'infrastruttura prevista dallo scenario a fine 2020 permette solamente l'attività di un numero limitato di captive fleets in alcune città italiane, a fine 2025 invece l'infrastruttura prevista dallo scenario appare adeguata per una vera e propria mass transportation. L'ubicazione delle stazioni sarebbe ben collocata rispetto alla rete TEN-T e alla rete autostradale italiana. 
+ 
+
+ 
+ 
+
+ 6 LE PROSPETTIVE PER LA SOCIETà 
+ 
+
+ 
+ 
+
+ 6.1 LA PROSPETTIVA DEL CONSUMATORE 
+ 
+
+ Come facilmente prevedibile, tra le modalità considerate, l'idrogeno più economico è quello prodotto mediante elettrolisi on-site con autoconsumo da rinnovabili e mediante SMR centralizzato, in stazioni di grandi dimensioni (500 kg/giorno per le autovetture e 1000 kg/giorno per gli autobus). 
+ 
+
+ Al fine di valutare la competitività del vettore idrogeno rispetto al concorrenziale diesel, è stato valutato il costo per la percorrenza di 100 km per autovetture e autobus FCEV e per autovetture e autobus diesel. Il costo per la percorrenza di 100 km dipende dal costo del vettore energetico alla pompa e dalla fuel economy del veicolo. 
+ 
+
+ Per le autovetture, nella prima fase 2020-2022, nonostante l'utilizzo di stazioni di piccole dimensioni (50 kg/giorno) e gli elevati costi di mercato di tutte le componenti di produzione/distribuzione, i costi del vettore idrogeno sono alla pari con il vettore diesel nella produzione da elettrolisi on-site con autoconsumo da rinnovabili e mediante SMR centralizzato, mentre sono superiori di circa 2 euro/100 km in modalità "H2 da ELR C" e di circa 6 euro/100 km in modalità "H2 da ELG OS". Nella seconda fase, cioè dal 2023, il passaggio a stazioni più grandi, dapprima 100 kg/giorno e poi 500 kg/giorno, nonchè la rapida e notevole diminuzione del costo di mercato di tutte le componenti di produzione/distribuzione rende il vettore idrogeno ancor più conveniente rispetto al vettore diesel, da subito anche in modalità "H2 da ELR C", poco prima del 2030 nella modalità "H2 da ELG OS". 
+ 
+
+ Per gli autobus, già dal 2020 (stazioni 200 kg/giorno) il vettore idrogeno è più conveniente rispetto al vettore diesel nella produzione da elettrolisi on-site con autoconsumo da rinnovabili e mediante SMR centralizzato, mentre è più costoso sia in modalità "H2 da ELR C" che in modalità "H2 da ELG OS". Dal 2025, il passaggio a stazioni da 1000 kg/giorno, nonchè la rapida e notevole diminuzione del costo di mercato di tutte le componenti di produzione/distribuzione rende il vettore idrogeno più conveniente rispetto al vettore diesel anche nella modalità "H2 da ELR C". 
+ 
+
+ Riassumendo, la competitività del vettore idrogeno si manifesterà in tempi rapidi, già nella fase inizale con captive fleets, ancor più nel momento in cui si raggiungerà la maturità commerciale e l'idrogeno sarà distribuito in stazioni di grandi dimensioni (a partire dal 2025 con stazioni da 500 kg/giorno per le autovetture e 1000 kg/giorno per gli autobus). 
+ 
+
+ 
+ 
+
+ 6.2 RIDUZIONE DELLE EMISSIONI DI CO2 E DI ALTRI INQUINANTI DANNOSI ALLA SALUTE UMANA 
+ 
+
+ Occorre sottolineare che la produzione di idrogeno mediante elettrolisi da fonti energetiche rinnovabili è priva di emissioni di CO2 . 
+ 
+
+ La potenzialità di riduzione delle emissioni di CO2 nello Scenario
+ 
+
+ MobilitaH2IT (Figura 20) è stata calcolata comparando le emissioni per il mix di produzione di idrogeno destinato ai veicoli FCEV rispetto alle emissioni dei veicoli diesel di ultima generazione (Reference Scenario). Per lo Scenario MobilitaH2IT si sono ipotizzate due opzioni: (1) la produzione da elettrolisi avviene con elettricità solo da rete elettrica con mix nazionale, (2) la produzione da elettrolisi avviene con elettricità solo da produzione rinnovabile. Nel Reference Scenario, per le autovetture diesel lo standard di riferimento è quello raggiunto dai nuovi veicoli venduti in Unione Europea nel 2014 (123,4 gCO2 /km), per gli autobus lo
+ 
+
+ standard EURO VI (1.200 gCO2 /km). Al 2020, la riduzione delle
+ 
+
+ emissioni di CO2 garantite dalla mobilità idrogeno, rispetto allo
+ 
+
+ stato attuale del Reference Scenario, è in un range tra 269 e 5.066 t/anno, per poi raggiungere un range tra circa 8.000 e 92.000 t/anno al 2025, circa 116.000 - 655.000 t/anno al 2030 e circa 12 - 15 Mt/anno al 2050. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 20: Scenario MobilitaH2IT, riduzione delle emissioni di CO2
+ 
+
+ rispetto al Reference Scenario fino al 2050 
+ 
+
+ 
+ 
+
+ In Tabella 2 viene invece riportato il potenziale di riduzione dei principali inquinanti atmosferici grazie all'applicazione dello Scenario MobilitaH2IT. 
+ 
+
+ 
+ 
+
+ Tabella 2: Scenario MobilitaH2IT, riduzione dei principali inquinanti atmosferici attribuiti al trasporto su strada fino al 2050 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 7 MISURE DI SOSTEGNO 
+ 
+
+ 
+ 
+
+ 7.1 MISURE DI SOSTEGNO ALLO SVILUPPO DELL'IDROGENO E BARRIERE 
+ 
+
+ Al fine di promuovere l'idrogeno e lo sviluppo delle relative infrastrutture, appare necessario ed indispensabile mettere in campo diverse azioni/misure. 
+ 
+
+ In particolare sono di grande rilevanza le misure, legislative, regolamentari /amministrative, finanziarie e di comunicazione e la disponibilità di incentivi pubblici europei, nazionali, regionali e locali così come di investimenti privati. Si segnalano in particolare il programma quadro Horizon 2020, i Fondi strutturali e di investimento europei, gli orientamenti della rete transeuropea di trasporto (TEN-T), e le iniziative della Banca Europea per gli Investimenti (BEI) ed in particolare del Fondo "European Local ENergy Assistance" http://www.eib.org/products/advising/elena/index.htm) 
+ 
+
+ Lo Scenario MobilitàH2IT indica una partecipazione nella quota di finanziamenti pubblici UE&amp;IT al 60% da fondi comunitari europei e al
+ 
+
+ 40% da fondi nazionali 
+ 
+
+ 
+ 
+
+ 7.2 BARRIERE ALLO SVILUPPO DELL'IDROGENO 
+ 
+
+ Considerando le prospettive tecnologiche e di mercato, almeno fino al 2030, appaiono non trascurabili sulla effettiva realizzazione dello scenario illustrato due barriere finanziarie: 
+ 
+
+ 1) L'investimento nell'acquisto dei costosi veicoli FCEV; 
+ 
+
+ 2) L'investimento nella realizzazione degli impianti di produzione e nelle stazioni di distribuzione dell'idrogeno. 
+ 
+
+ Non è infatti possibile sviluppare un mercato per i veicoli FCEV senza un'adeguata infrastruttura di produzione e distribuzione dell'idrogeno e viceversa, non è sostenibile sviluppare un'infrastruttura di produzione e distribuzione dell'idrogeno senza una domanda da parte di veicoli FCEV in circolazione. 
+ 
+
+ Relativamente al primo punto si stima idonea una copertura pubblica sul costo addizionale delle autovetture e degli autobus FCEV mentre, relativamente al secondo punto, al fine di ridurre il rischio di investimento associato allo sviluppo degli impianti di produzione e delle stazioni rifornimento dell'idrogeno, sarebbe altresì funzionale un sostegno pubblico: 
+ 
+
+ • per le stazioni di rifornimento: 
+ 
+
+ √ 40% fino 2020, 
+ 
+
+ √ 35% dal 2021 al 2025, 
+ 
+
+ √ 30% dal 2026 al 2030, 
+ 
+
+ √ 20% dal 2031 al 2035, 
+ 
+
+ √ 10% dal 2036 al 2040, 
+ 
+
+ √ 5% dal 2041 al 2050; 
+ 
+
+ • per gli impianti di produzione da SMR: 
+ 
+
+ √ 15% fino al 2025, 
+ 
+
+ √ 10% nel periodo 2026-2030; 
+ 
+
+ • per gli impianti di produzione da elettrolisi: 
+ 
+
+ √ 40% fino 2020, 
+ 
+
+ √ 35% dal 2021 al 2025, 
+ 
+
+ √ 30% dal 2026 al 2030, 
+ 
+
+ √ 25% dal 2031 al 2035, 
+ 
+
+ √ 20% dal 2036 al 2040, 
+ 
+
+ √ 15% dal 2041 al 2050. 
+ 
+
+ Per la riuscita dello Scenario MobilitàH2IT sono stimati opportuni finanziamenti pubblici europei ed nazionali (compresi gli Enti locali) pari a circa 47 M€ fino al 2020 e circa 419 M€ nel successivo
+ 
+
+ periodo 2021-2025, di cui 60% da fondi comunitari europei e 40% da fondi nazionali italiani compresi gli Enti locali (Figura 21). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 21: Scenario MobilitàH2IT, finanziamenti pubblici Europei e Nazionali necessari fino al 2025 
+ 
+
+ 
+ 
+
+ Al momento, tuttavia, non è previsto alcun impegno finanziario per la implementazione di tale scenario MobilitàH2IT che, pertanto, deve intendersi come mero scenario potenziale che si realizzerebbe in presenza di tutte le condizioni riportate nello stesso ed in particolare della disponibilità di fondi pubblici nazionali, regionali e locali per finanziarne la prevista parte pubblica. 
+ 
+
+ 
+ 
+
+ 7.3 MISURE GIURIDICHE 
+ 
+
+ Lo sviluppo della mobilità terrestre a idrogeno e fuel-cell è oggetto di un intenso lavoro di standardizzazione a livello internazionale, giunto oramai nella fase terminale. 
+ 
+
+ Il punto 2.3 dell'allegato II della Direttiva 2014/94/UE del Parlamento europeo e del Consiglio sulla realizzazione di un'infrastruttura per i combustibili alternativi stabilisce che "I punti di rifornimento di idrogeno utilizzano algoritmi per i carburanti e apparecchiature conformi alla norma ISO/TS 20100 relativa all'idrogeno allo stato gassoso utilizzato come combustibile ". 
+ 
+
+ Proprio per evitare una frammentazione delle competenze, ISO ha deciso di sviluppare in parallelo un intero pacchetto di standard che coprano tutti gli aspetti tecnici e di sicurezza riguardanti il rifornimento dei veicoli a idrogeno e fuel-cell. Questo approccio è stato seguito proprio per assicurare il massimo livello di sicurezza in tutto il sistema. 
+ 
+
+ Attualmente (maggio 2016) i lavori di revisione della norma ISO/TS 20100 curati da ISO/TC 197 (Hydrogen (Technologies) hanno portato al suo ritiro e all'elaborazione della ISO/PRF TS 19880. 
+ 
+
+ In particolare, la ISO 19880-1: Gaseous hydrogen fueling stations - General requirements raccomanderà le caratteristiche progettuali minime per garantire la sicurezza e, ove appropriato, le prestazioni delle stazioni di rifornimento pubbliche e "non pubbliche" (cioè per esempio quelle riservate al rifornimento di mezzi di trasporto pubblici) che forniscono idrogeno gassoso per veicoli di trasporto leggero (veicoli elettrici a fuel cell). Gli impegni iniziali sono proprio dedicati al rifornimento dei veicoli leggeri, ma una versione successiva sarà focalizzata anche sull'impiego per gli autobus e i carrelli elevatori. Lo standard (inizialmente diffuso come Technical Report, approvato in data 5 ottobre 2015, per raccogliere eventuali osservazioni dagli utilizzatori) sintetizza l'attuale esperienza e conoscenza nell'ambito del rifornimento con idrogeno, incluse le distanze di sicurezza suggerite e le alternative per i protocolli di rifornimento. 
+ 
+
+ La ISO 19880-2: Gaseous hydrogen - Fueling stations - Dispensers fornisce le prescrizioni e i metodi di test della sicurezza per stazioni di rifornimento complete con idrogeno gassoso sia alla pressione di 35 MPa (350 bar) sia alla pressione di 70 MPa (700 bar). 
+ 
+
+ La ISO 19880-3: Gaseous hydrogen - Fueling stations - Valves fornisce le prescrizioni e i metodi di test delle prestazioni di sicurezza delle valvole per gas idrogeno ad alta pressione (1 MPa e oltre) installate presso le stazioni di rifornimento per idrogeno gassoso. 
+ 
+
+ La ISO 19880-4: Gaseous hydrogen - Fueling stations - Compressors contiene le prescrizioni di sicurezza relative ai materiali, alla progettazione, alla costruzione e alla verifica di sistemi di compressione di idrogeno gassoso utilizzati nelle stazioni di rifornimento per idrogeno gassoso. 
+ 
+
+ La ISO 19880-5: Gaseous hydrogen - Fueling stations - Hoses considera le prescrizioni relative alle manichette per idrogeno gassoso e le giunzioni di manichette impiegate per collegare il distributore alla pistola di rifornimento, ma anche a quelle utilizzate per le linee di spurgo del gas in zona sicura e quelle flessibili da poter utilizzare in altri punti dove è richiesta la flessibilità del collegamento. 
+ 
+
+ La ISO 19880-6: Gaseous hydrogen - Fueling stations - Fittings specifica metodi uniformi per la valutazione e la verifica delle prestazioni dei raccordi, inclusi connettori e chiusure terminali utilizzati nelle stazioni di rifornimento per idrogeno gassoso. 
+ 
+
+ Recentemente, sono anche partiti i lavori per lo sviluppo di altri due standard: ISO 19880-7: Gaseous hydrogen - Fueling stations - Fueling protocols e ISO 19880-8: Gaseous hydrogen - Fueling stations - Hydrogen quality control. 
+ 
+
+ In Europa, oltre alla ISO 19880-1 in fase di pubblicazione, lo stato dell'arte dell'esperienza di settore può essere individuato nel documento EIGA (European Industrial Gases Association) IGC DOC 15/06/E "Gaseous Hydrogen Stations". Il settore dei gas industriali ha un'esperienza secolare nel trasporto e stoccaggio dell'idrogeno, vantando livelli di sicurezza fra i migliori in campo industriale (con un indice di frequenza infortuni medio europeo dell'intero settore gas industriali e medicinali inferiore a 2 eventi per milione di ore lavorate). 
+ 
+
+ Sebbene il documento sia orientato alle installazioni di idrogeno per impiego industriale, esso riassume le migliori tecniche e pratiche disponibili atte a garantire la massima sicurezza nelle operazioni di compressione, purificazione, riempimento e stoccaggio di idrogeno gassoso. I recipienti a pressione con materiali metallici sono progettati e fabbricati in Europa con normative, quali AD2000 Merkblatt o EN 13445, consolidate da anni di esperienza, con le quali vengono garantiti i requisiti di sicurezza richiesti dalla Direttiva Apparecchi a Pressione (PED, Pressure Equipment Directive) 97/23/CE, emanata dalla Comunità Europea, e recepita in Italia con il Decreto Legislativo n° 93/2000. 
+ 
+
+ Riguardo ai recipienti per gas a 700 bar collocati sui veicoli esiste la specifica tecnica ISO/TS 15869 del 2009 intitolata "Gaseous hydrogen and hydrogen blends - Land vehicle fuel tanks ". Un altro standard di riferimento è il "SAE J 2579 Compressed Hydrogen Vehicle Fuel Containers ". In Europa le prescrizioni di sicurezza sono coperte dal "Regolamento (CE) N. 79/2009 del Parlamento europeo e del Consiglio del 14 gennaio 2009 relativo all'omologazione di veicoli a motore alimentati a idrogeno e che modifica la direttiva 2007/46/CE ". La pressione di scoppio ammessa per questi recipienti è superiore al doppio della pressione normale di esercizio. 
+ 
+
+ Maggiori dettagli sugli aspetti omologativi dei veicoli a idrogeno sono contenuti nel "Regolamento (UE) N. 406/2010 della Commissione del 26 aprile 2010 recante disposizioni di applicazione del regolamento (CE) n. 79/2009 del Parlamento europeo e del Consiglio relativo all'omologazione di veicoli a motore alimentati a idrogeno". 
+ 
+
+ Come già detto, l'Italia ha cominciato a occuparsi di mobilità a idrogeno fin dal 2002 e degno di nota è il lavoro di collaborazione portato avanti dall'Università di Pisa con i settori industriali e i Vigili del Fuoco. Ciò ha portato nel 2006 alla pubblicazione del Decreto del Ministero dell'Interno 31 agosto 2006 "Approvazione della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio degli impianti di distribuzione di idrogeno per autotrazione ". 
+ 
+
+ A livello italiano esistono allo stato attuale delle condizioni di legge più restrittive di quelle applicate negli altri Paesi e questo ha fatto sì che, in una prima fase, le case automobilistiche abbiano scartato l'Italia come mercato di sbocco iniziale delle auto a fuel-cell che saranno distribuite nei prossimi anni. 
+ 
+
+ In particolare, la pubblicazione del Decreto 31 agosto 2006 avvenuta prima dei più recenti e concreti sviluppi tecnologici a livello internazionale prevede una limitazione a 350 bar della pressione di compressione ed erogazione di idrogeno presso le stazioni di servizio e sui veicoli. 
+ 
+
+ Tale limitazione potrà essere superata alla luce dei nuovi criteri di costruzione dei recipienti e di omologazione dei veicoli previsti dalle normative europee. 
+ 
+
+ Tale normativa antincendio sarà pertanto rivista entro il 18 novembre 2017 per tener conto dei nuovi standard internazionali sui criteri costruttivi delle stazioni di rifornimento di idrogeno gassoso. 
+ 
+
+ 
+ 
+
+ 8 INTEROPERABILITà A LIVELLO EUROPEO 
+ 
+
+ In accordo con il punto (10) delle considerazioni inziali e l'articolo 3, comma 1 della Direttiva, laddove la continuità extraterritoriale dell'infrastruttura ovvero la realizzazione di una nuova infrastruttura in prossimità di confini lo richieda, sarebbe opportuno collaborare con gli Stati Membri limitrofi coinvolti al fine di garantire la continuità transfrontaliera dell'infrastruttura per i combustibili alternativi. 
+ 
+
+ Al fine di valutare la necessità di detta continuità transfrontaliera, ai sensi dell'articolo 5, comma 1 della Direttiva, particolare attenzione potrà essere data ai punti di rifornimento lungo i collegamenti stradali transfrontalieri. 
+ 
+
+ La valutazione della necessità e delle eventuali modalità da adottare per garantire la continuità transfrontaliera dell'infrastruttura così come l'eventuale sviluppo di progetti pilota e/o progetti infrastrutturali potrebbe essere fatta tenendo in considerazione, per quanto pratico ed applicabile, anche i risultati dei progetti europei di collaborazione transfrontaliera conclusi o in itinere quali, a titolo d'esempio, quelli co-finanziati a valere sui bandi TEN-T ovvero CEF, una lista non esaustiva dei quali, aggiornata al Dicembre 2015, è fornita nel seguito: 
+ 
+
+ 
+ 
+
+ Tabella 3: Iniziative UE per la sperimentazione e la diffusione dell'idrogeno per il trasporto 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ TITOLO IDENTIFICATIVO INIZO FINE PILOTA O STUDIO 
+ 
+
+ 
+ EAS HYMOB 2014-Fr-Ta-0519-S 01/2016 12/2018 Pilota 
+ 
+
+ 
+ H2NODES - evolution of a European hydrogen refuelling station network by mobilising the local demand and value chains 2014-EU-TM-0643-S 03/2014 12/2018 Pilota 
+ 
+
+ 
+ COHRS - Connecting Hydrogen Refuelling Stations 2014-EU-TM-0318-S 09/2015 06/2019 Pilota 
+ 
+
+ 
+ HIT2 Corridors 2013-EU-92077-S 03/2014 12/2015 Pilota 
+ 
+
+ 
+ HIT - (Hydrogen Infrastructure for Transport) 2011-EU-92130-S 04/2012 12/2014 Pilota 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ A completamento di quanto precedentemente riportato va ricordata l'iniziativa MEHRLIN (Models for Economic Hydrogen Refuelling Infrastructure) che vede coinvolta anche l'Italia e che mira alla realizzazione di n. 8 stazioni di rifornimento di idrogeno di 4 alimentate ad idrogeno di produzione elettrolitica tramite energia rinnovabile. Il progetto include aspetti innvativi quali: da un punto di vista HW soluzioni per l'accumulo di idrogeno a base idruri metallici, da un punto di vista gestionale lo sviluppo di un nuovo modello operativo e da un punto di vista tecnologico lo sviluppo di un nuovo modello integrativo per l'elettromobilità a base di cella a combustibile e a base di batterie. Per l'Italia è coinvolta la città di Brunico sita lungo il Corridoio Scan - Med e il Corridoio Verde del Brennero per l'istallazione di una nuova stazione di ricarica che funzionerà a punto di collegamento ed accesso agli altri Corridoi europei come il Mediterraneo ed il Baltico Adriatico. 
+ 
+
+ 9 ABBREVIAZIONI, ACRONIMI, UNITà DI MISURA E BIBLIOGRAFIA 
+ 
+
+ 
+ 
+
+ 9.1 ABBREVIAZIONI E ACRONIMI 
+ 
+
+ AL: annual load factor 
+ 
+
+ BEV: battery electric vehicle 
+ 
+
+ CAPEX: costi di investimento 
+ 
+
+ DSM: demand side management 
+ 
+
+ FC: fuel cell 
+ 
+
+ FCEV: fuel cell electric vehicle 
+ 
+
+ FER: fonti energetiche rinnovabili 
+ 
+
+ GPL: gas di petrolio liquefatto 
+ 
+
+ HEV: hybrid electric vehicle 
+ 
+
+ ICE: internal combustion engine 
+ 
+
+ OPEX: costi operativi e di manutenzione 
+ 
+
+ PHEV: plug-in hybrid electric vehicle 
+ 
+
+ RES: renewable energy sources 
+ 
+
+ SEF: standard emission factor 
+ 
+
+ SMR: steam methane reforming 
+ 
+
+ T&amp;D: transmission and distribution 
+ 
+
+ TCO: total cost of ownership 
+ 
+
+ VRE: variable renewable energy 
+ 
+
+ WTW: well-to-wheel 
+ 
+
+ 
+ 
+
+ 9.2 UNITà DI MISURA 
+ 
+
+ €: euro 
+ 
+
+ g: grammi 
+ 
+
+ GW: gigawatt 
+ 
+
+ kg: kilogrammi 
+ 
+
+ km: kilometri 
+ 
+
+ ktep: kilo tonnellate equivalenti di petrolio 
+ 
+
+ kW: kilowatt 
+ 
+
+ kWh: kilowatt hour 
+ 
+
+ l: litri 
+ 
+
+ m: metri 
+ 
+
+ MPa: megapascal 
+ 
+
+ Mt: megatonne 
+ 
+
+ MWh: megawatt hour 
+ 
+
+ t: tonnellate 
+ 
+
+ TWh: terawatt hour 
+ 
+
+ 
+ 
+
+ 9.3 BIBLIOGRAFIA 
+ 
+
+ Air quality in Europe. European Environmental Agency. 2015 Report. (s.d.). 
+ 
+
+ Air quality in Europe. European Environmental Agency. 2015 Report. (s.d.). 
+ 
+
+ Annuario Statistico ACI 2015. (s.d.). 
+ 
+
+ Direttiva 2014/94/UE del Parlamento europeo e del Consiglio sulla realizzazione di un'infrastruttura per i combustibili alternativi . (s.d.). 
+ 
+
+ En route pour un transport durable. Cambridge Econometrics.
+ 
+
+ Novembre 2015. (s.d.). Energia pulita per i trasporti: una strategia europea in materia di combustibili alternativi. Commissione europea.
+ 
+
+ Gennaio 2013. (s.d.). 
+ 
+
+ Fonti rinnovabili e rete elettrica in Italia. Considerazioni di base e scenari di evoluzione delle fonti rinnovabili elettriche in Italia. Falchetta Massimo. ENEA. 2014 . (s.d.). 
+ 
+
+ Fuel Cell Electric Buses, Potential for Sustainable Public Transport in Europe. A Study for the Fuel Cells and Hydrogen Joint Undertaking. Settembre 2015. (s.d.). 
+ 
+
+ Fuelling Europès future. How auto innovation leads to EU jobs.
+ 
+
+ Cambridge Econometrics (CE), in collaboration with Ricardo-AEA, Element Energy. 2013. (s.d.). 
+ 
+
+ Hydro-gen: the energy transition in the making! Pierre-Etienne Franc, Pascal Mateo. Manifesto. 2015. . (s.d.). 
+ 
+
+ Indagine conoscitiva sui prezzi finali dell'energia elettrica e del gas naturale. Memoria per l'audizione presso la 10° Commissione Industria, Commercio e Turismo del Senato della Repubblica. AEEG.
+ 
+
+ Aprile 2015. (s.d.). 
+ 
+
+ Le politiche dell'Unione europea: Trasporti. Commissione Europea.
+ 
+
+ Novembre 2014. (s.d.). 
+ 
+
+ LIBRO BIANCO, Tabella di marcia verso uno spazio unico europeo dei trasporti - Per una politica dei 
+ 
+
+ trasporti competitiva e sostenibile. Commissione Europea. Marzo 2011 . (s.d.). Mal'ARIA di città 2016. Legambiente. Gennaio 2016. (s.d.). 
+ 
+
+ Mercato dei carburanti in Italia. Ministero dello Sviluppo Economico. (s.d.). 
+ 
+
+ Newsletter del GME n.78 Gennaio 2015. (s.d.). 
+ 
+
+ Regolamento (UE) N. 1291/2013 del Parlamento europeo e del Consiglio che istituisce il programma quadro di ricerca e innovazione (2014-2020) - Orizzonte 2020. Commissione europea. 
+ 
+
+ Dicembre 2013. (s.d.). 
+ 
+
+ Relazione finale del gruppo ad alto livello CARS 21. Commissione europea. 6 giugno 2012. (s.d.). 
+ 
+
+ Technology Roadmap Hydrogen and Fuel Cells. IEA. Giugno 2015. (s.d.). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Quadro strategico nazionale 
+ 
+
+ 
+ 
+
+ Sezione C: fornitura di gas naturale per il trasporto e per altri usi 
+ 
+
+ 
+ 
+
+ Prima sottosezione: fornitura di gas naturale 
+ 
+
+ liquefatto (GNL) per la navigazione marittima e 
+ 
+
+ interna, per il trasporto stradale e per altri usi 
+ 
+
+ 
+ 
+
+ INDICE 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE 
+ 
+
+ LISTA DELLE FIGURE 
+ 
+
+ 1 LE POLITICHE DELL'UNIONE EUROPEA PER IL SETTORE DEI TRASPORTI 
+ 
+
+ 2 LO STATO TECNOLOGICO 
+ 
+
+ 2.1 DEFINIZIONE, CARATTERISTICHE 
+ 
+
+ 3 GLI SCENARI INTERNAZIONALI 
+ 
+
+ 3.1 MERCATO DEL GNL 
+ 
+
+ 3.2 IL MERCATO INTERNAZIONALE DEL GNL 
+ 
+
+ 3.3 APPROVVIGIONAMENTO E STOCCAGGIO DEL GNL 
+ 
+
+ 3.3.1 Principali esperienze nei Paesi che utilizzano il GNL nel trasporto marittimo e terrestre 
+ 
+
+ 3.4 UTILIZZO TERMINALI DI RIGASSIFICAZIONE ANCHE PER LO SSLNG 
+ 
+
+ 4 LO SCENARIO ITALIANO 
+ 
+
+ 5 DIMENSIONAMENTO DELLA RETE DI STAZIONI DI RIFORNIMENTO 
+ 
+
+ 5.1 CRITERI PER L'INDIVIDUAZIONE DI UNA IPOTESI DI RETE DI DISTRIBUZIONE DI GNL SULLA BASE DEGLI ATTUALI SCENARI LOGISTICI DEGLI ALTRI PRODOTTI ENERGETICI 
+ 
+
+ 5.2 CONSIDERAZIONI SULL'INFRASTRUTTURA NECESSARIA: MERCATO POTENZIALE 
+ 
+
+ 5.3 IPOTESI DI SVILUPPO DELL'INFRASTRUTTURA 
+ 
+
+ 5.4 PUNTI CRITICI LEGATI ALL'INFRASTRUTTURA 
+ 
+
+ 5.5 RETE DI RIFORNIMENTO DEL GNL PER USO AUTOTRAZIONE 
+ 
+
+ 5.6 IMPIANTI DI STOCCAGGIO DI PICCOLE DIMENSIONI PER AUTOTRAZIONE, RETI LOCALI, TRASPORTO FERROVIARIO 
+ 
+
+ 5.7 UTILIZZO DEL GNL NEL TRASPORTO STRADALE PESANTE: AUTOCARRI E AUTOBUS 
+ 
+
+ 5.8 UTILIZZO DEL GAS NATURALE LIQUEFATTO (GNL) COME COMBUSTIBILE MARINO 
+ 
+
+ 5.9 PROGETTO COSTA 
+ 
+
+ 5.10 CONFIGURAZIONE DI UNA RETE DI DISTRIBUZIONE DEL GNL NEL SETTORE MARITTIMO E PORTUALE 
+ 
+
+ 5.10.1 Premessa 
+ 
+
+ 5.10.2 Linee guida per lo sviluppo della rete nazionale GNL 
+ 
+
+ 5.10.3 Tipologia di traffico 5.10.4 Età della nave 
+ 
+
+ 5.10.5 Area di traffico 
+ 
+
+ 5.10.6 Proposte di reti nazionali 
+ 
+
+ 5.10.7 Stima della domanda di GNL per il trasporto navale 
+ 
+
+ 5.10.8 Ricadute economiche sulla cantieristica navale 
+ 
+
+ 5.11 SICUREZZA DELLO STOCCAGGIO E DISTRIBUZIONE 
+ 
+
+ 5.11.1 Quadro di riferimento tecnico normativo 
+ 
+
+ 5.11.2 Fenomeni fisici associabili al GNL 
+ 
+
+ 5.12 FORMAZIONE, INFORMAZIONE, ADDESTRAMENTO DEL PERSONALE ADIBITO AL GNL 
+ 
+
+ 5.13 ACCETTABILITà SOCIALE DELLE INFRASTRUTTURE ENERGETICHE 
+ 
+
+ 5.14 RUOLO DEGLI STRUMENTI DI INFORMAZIONE E PARTECIPAZIONE 
+ 
+
+ 5.15 SITO WEB NAZIONALE PER L'INFORMAZIONE SULLA FILIERA DEL GNL 
+ 
+
+ 5.16 ESAME DELLA CONTRATTUALISTICA ESISTENTE IN ALTRI PAESI 
+ 
+
+ 5.17 IMPIANTI DI LIQUEFAZIONE DI TAGLIA RIDOTTA 
+ 
+
+ 5.18 UTILIZZO DEL GNL NELLA REGIONE SARDEGNA 
+ 
+
+ 5.19 PREVISIONI DI MERCATO PER SMALL SCALE LNG AL 2020, 2025 E 2030 
+ 
+
+ 6 LE PROSPETTIVE PER LA SOCIETà 
+ 
+
+ 6.1 MERCATO POTENZIALE DEL GNL E RELATIVI IMPATTI 
+ 
+
+ 6.2 RISULTATI 
+ 
+
+ 6.3 BENEFICI AMBIENTALI 
+ 
+
+ 7 ALTRI USI INDUSTRIALI 
+ 
+
+ 7.1 QUADRO DELLA DOMANDA ENERGETICA DEI MERCATI OFF-GRID E POTENZIALE DI PENETRAZIONE DEL GNL 
+ 
+
+ 7.2 PREVISIONI DI PENETRAZIONE DEL GNL OFF-GRID 
+ 
+
+ 8 INTEROPERABILITà A LIVELLO EUROPEO 
+ 
+
+ 9 DEFINIZIONI 
+ 
+
+ 
+ 
+
+ LISTA DELLE TABELLE 
+ 
+
+ 
+ 
+
+ Tabella No. 
+ 
+
+ Tabella 1: Numero di installazioni Small Scale LNG (escluse le autobotti) in Europa 
+ 
+
+ Tabella 2: Top 10 Paesi europei per numero di installazioni (escluse autobotti e impianti satelliti) 
+ 
+
+ Tabella 3: Flussi import-export via GNL nei paesi UE27, 2011 (mld/mc/a), Cassa Depositi Prestiti - Studio di settore n. 03 - Marzo 2013 - Gas naturale (Fonte BP, 2012) 
+ 
+
+ Tabella 4: Dati provenienti dal progetto COSTA 
+ 
+
+ Tabella 5: Caratteristiche di infiammabilità (Norma CEI-EN 61779-1) 
+ 
+
+ Tabella 6: Composizione del parco ≥18 ton - scenario 2025 
+ 
+
+ Tabella 7: Composizione del parco ≥18 ton - scenario 2025 
+ 
+
+ Tabella 8: Iniziative UE per la sperimentazione e la diffusione del GNL per il trasporto 
+ 
+
+ 
+ 
+
+ LISTA DELLE FIGURE 
+ 
+
+ 
+ 
+
+ Figura No. 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: 
+ 
+
+ EUROSTAT 
+ 
+
+ Figura 2: Servizi SSLNG 
+ 
+
+ Figura 3: Localizzazione Porti ed Interporti 
+ 
+
+ Figura 4: Schema delle Aree di Adduzione 
+ 
+
+ Figura 5: Schemi movimentazione 
+ 
+
+ Figura 6: Individuazione del mercato potenziale - Principali risultati 
+ 
+
+ Figura 7: Schema Benefici Viaggio Genova-Roma 
+ 
+
+ 
+ 
+
+ 1 LE POLITICHE DELL'UNIONE EUROPEA PER IL SETTORE DEI TRASPORTI 
+ 
+
+ Nel settore dei trasporti, sostenere l'innovazione e l'efficienza, frenare la dipendenza dalle importazioni di petrolio e guidare il passaggio a fonti energetiche interne e rinnovabili rappresenta una via da seguire per raggiungere gli obiettivi chiave europei: stimolare la crescita economica, aumentare l'occupazione e mitigare i cambiamenti climatici. In particolare l'Italia presenta un livello di dipendenza energetica tra i più elevati a livello europeo, 76.9% al 2013. Nel 2012, l'import di petrolio grezzo è stato pari a 68.81 milioni di tonnellate e la spesa per benzina e diesel è stata pari a 24.63 miliardi di euro (Fuelling Europès future. How auto innovation leads to EU jobs. Cambridge Econometrics (CE), in collaboration with Ricardo-AEA, Element Energy. 2013) (Figura 1). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 1: Dipendenza energetica nel 2013 e spesa dei paesi europei in benzina e diesel nel 2012. Fonte: EUROSTAT 
+ 
+
+ 
+ 
+
+ Occorre quindi porsi obiettivi di riduzione dei consumi energetici da combustibili fossili, di riduzione delle emissioni di anidride carbonica e di miglioramento della qualità dell'aria anche tramite l'utilizzo del Gas Naturale Liquefatto (GNL). 
+ 
+
+ 
+ 
+
+ 2 LO STATO TECNOLOGICO 
+ 
+
+ 
+ 
+
+ 2.1 DEFINIZIONE, CARATTERISTICHE 
+ 
+
+ Il Gas Naturale Liquefatto (GNL) è una miscela di idrocarburi, costituito prevalentemente da metano; altri componenti solitamente presenti sono l'etano, il propano e il butano. Tutti gli idrocarburi più complessi, i composti dello zolfo e il biossido di carbonio, vengono rimossi durante la produzione. 
+ 
+
+ Il GNL è ottenuto infatti, per liquefazione del Gas Naturale (GN), quest'ultimo è una miscela complessa di idrocarburi, composta principalmente da metano, ma che generalmente include, in quantità sensibilmente minori, etano, propano, idrocarburi superiori, acido solfitrico e alcuni altri gas non combustibili come ad esempio azoto e anidride carbonica. 
+ 
+
+ Il GN destinato alla liquefazione viene purificato nei paesi produttori dai gas acidi (CO2 e H2S) e dagli idrocarburi pesanti (C5+ e superiori), nonchè da una buona parte di etano, propano e butani in quanto la loro presenza va fortemente limitata nel GNL, così come quella, tra gli altri, anche di acqua, mercurio e zolfo per ragioni tecniche (es. corrosione, rischi di solidificazione durante il raffreddamento). 
+ 
+
+ Il gas naturale purificato viene quindi liquefatto a pressione atmosferica mediante raffreddamento fino a circa -160°C per ottenere il GNL che, occupando un volume circa 600 volte inferiore rispetto allo stato gassoso di partenza, può essere più agevolmente stoccato e trasportato; quindi, in linea di massima, il GN a sua volta derivato dalla rigassificazione del GNL, è più "leggero" e presenta una quantità inferiore di impurità rispetto al corrispondente GN prodotto dai giacimenti. 
+ 
+
+ 
+ 
+
+ 3 GLI SCENARI INTERNAZIONALI 
+ 
+
+ 
+ 
+
+ 3.1 MERCATO DEL GNL 
+ 
+
+ A livello mondiale, nel 2014, il consumo di GNL è stato di circa 239 milioni di tonnellate. L'Asia rimane il principale driver della crescita dei consumi di GNL e, nell'ultimo decennio, ha visto raddoppiare le proprie importazioni. Il mercato asiatico rappresenta infatti il 75% della domanda mondiale di GNL. Giappone e Corea del Sud sono i due maggiori importatori mondiali e coprono il 70% della domanda asiatica di GNL. La Cina risulta oggi il terzo importatore e consuma circa il 10% del GNL richiesto dall'Asia. 
+ 
+
+ Il GNL è stato prevalentemente utilizzato per la produzione di energia elettrica, per l'industria e per l'uso di clienti residenziali che non hanno accesso ad una rete di distribuzione. 
+ 
+
+ L'uso del GNL come combustibile per il trasporto si sta ampliando significativamente negli ultimi anni, ma i volumi sono ancora relativamente piccoli. La maggior parte del combustibile viene utilizzato da veicoli pesanti o da auto alimentate a gas naturale compresso (GNC) ma si stanno diffondendo anche unità navali da carico e passeggeri, particolarmente in Scandinavia. 
+ 
+
+ Una crescente sostituzione del diesel con il GNL è già realtà in paesi come l'Australia o gli Stati Uniti e l'utilizzo del GNL per alimentare locomotive è in fase di sperimentazione in Canada e negli Stati Uniti. 
+ 
+
+ 
+ 
+
+ 3.2 IL MERCATO INTERNAZIONALE DEL GNL 
+ 
+
+ La capacità di rigassificazione di GNL oggi esistente a livello mondiale è pari a circa 1.000 miliardi di metri cubi. Più del 50% di questa è concentrata in Asia. Da notare inoltre che, per molti degli impianti di rigassificazione americani esistenti sono previsti progetti di conversione a terminali di liquefazione, come conseguenza dello sviluppo dello shale gas. 
+ 
+
+ La capacità nominale di liquefazione nel 2014 risultava pari a 298 milioni di tonnellate di GNL di cui il 63% in Medio Oriente e Africa.
+ 
+
+ Ad oggi risultano in costruzione impianti per circa 128 milioni di tonnellate/anno di capacità addizionale, di cui il 45% e il 34% concentrati rispettivamente in Australia e negli Stati Uniti. Secondo quanto comunicato dagli operatori, tutti i progetti in costruzione dovrebbero entrare in esercizio entro il 2020 portando così la capacità di liquefazione complessiva a circa 425 Milioni di tonn/anno. Inoltre, altri progetti di liquefazione sono oggi in costruzione in Indonesia, Malesia, Colombia e Russia per un totale di 26,5 milioni di tonnellate/anno. 
+ 
+
+ 
+ 
+
+ 3.3 APPROVVIGIONAMENTO E STOCCAGGIO DEL GNL 
+ 
+
+ 
+ 
+
+ 3.3.1 Principali esperienze nei Paesi che utilizzano il GNL nel trasporto marittimo e terrestre 
+ 
+
+ Lo "Small Scale LNG" (o SSLNG) si definisce come la modalità attraverso la quale il GNL viene gestito in piccole/medie quantità direttamente in forma liquida. In tale ambito i servizi relativi allo SSLNG includono diversi segmenti di una filiera che coinvolge vari soggetti/operatori. 
+ 
+
+ Con riferimento alla Figura 2, i servizi di tipo "Small Scale LNG", già in essere o in fase di studio, possono essere forniti mediante le seguenti infrastrutture (o installazioni): 
+ 
+
+ 1. Terminali di rigassificazione, che offrono prevalentemente i seguenti servizi: 
+ 
+
+ • Re-loading ovvero trasferimento di GNL dai serbatoi del terminale
+ 
+
+ a navi metaniere; 
+ 
+
+ • Ship to ship transfer (Allibo) ovvero trasferimento diretto di
+ 
+
+ GNL da una nave ad un'altra; 
+ 
+
+ • Caricamento di GNL su navi bunker (bettoline/shuttle); 
+ 
+
+ • Caricamento di GNL su autobotti (o ISO-container); 
+ 
+
+ • Caricamento di GNL su vagoni-cisterna ferroviari. 
+ 
+
+ 2. Navi bunker (bettoline/shuttle), che a loro volta riforniscono navi alimentate a GNL (bunkeraggio) o stoccaggi locali costieri. 
+ 
+
+ 3. Mini impianti di liquefazione per la trasformazione in GNL del gas naturale proveniente dalla rete, utilizzati per rifornire autobotti (o ISO container) e/o bettoline/navi shuttle per impianti costieri. 
+ 
+
+ 4. Autobotti (o ISO-container), che a loro volta riforniscono navi alimentate a GNL (bunkeraggio) o stoccaggi locali. 
+ 
+
+ 5. Stoccaggi locali, riforniti da autobotti (o ISO-container) e/o bettoline/shuttle (se stoccaggi costieri) e utilizzati per: 
+ 
+
+ a) caricamento di autobotti (o ISO-container) e/o di bettoline; 
+ 
+
+ b) impianti di rifornimento costieri per navi alimentate a GNL (bunkeraggio); 
+ 
+
+ c) impianti di rifornimento di autoveicoli alimentati a GNL o a CNG; 
+ 
+
+ d) depositi satellite di stoccaggio per usi industriali o civili. 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Figura 2: Servizi SSLNG 
+ 
+
+ 
+ 
+
+ In relazione al contesto di riferimento, la filiera dello SSLNG si è particolarmente sviluppata in Spagna, Norvegia, Regno Unito e Olanda, ove si registra il più alto numero di impianti. 
+ 
+
+ La Tabella 1 e la Tabella 2 riportano i risultati di uno studio sullo stato dell'arte dei servizi SSLNG in Europa e di alcuni approfondimenti su Spagna, Norvegia, Regno Unito e Olanda. 
+ 
+
+ I dati, qui riportati sono aggiornati al 2014. (Fonte: database GIE Gas Infrastructure Europe). 
+ 
+
+ 
+ 
+
+ Tabella 1: Numero di installazioni Small Scale LNG (escluse le autobotti) in Europa 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Tabella 2: Top 10 Paesi europei per numero di installazioni (escluse autobotti e impianti satelliti) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Gli aggiornamenti sono contenuti nel database GIE:
+ 
+
+ http://www.gie.eu/index.php/mapsdata/gle-sslng-map. 
+ 
+
+ L'esperienza dei paesi che già utilizzano GNL come combustibile, pur in un contesto normativo in fase di progressiva definizione, dimostra che lo sviluppo dell'impiego del GNL è possibile quando sono gestiti gli aspetti riportati in elenco di seguito: 
+ 
+
+ • disponibilità delle norme tecniche applicabili alla costruzione
+ 
+
+ delle navi a gas; 
+ 
+
+ • disponibilità di chiare procedure autorizzative per la
+ 
+
+ costruzione e il funzionamento delle installazioni infrastrutturali terrestri per il rifornimento (sia esso da terminale a nave, da autocisterna a nave, da nave a nave); 
+ 
+
+ • disponibilità sul territorio di infrastrutture di stoccaggio di
+ 
+
+ GNL; 
+ 
+
+ • scelta della tecnologia per applicazioni navali, terrestri e di
+ 
+
+ trasferimento del combustibile da terra a nave e da nave a nave e da nave a terra che assicuri la sicurezza in tutte le fasi del processo, dallo stoccaggio, al rifornimento, dallo stoccaggio a bordo all'utilizzo finale; 
+ 
+
+ • sostenibilità finanziaria dei progetti e sostenibilità
+ 
+
+ economico-sociale e ambientale del sistema GNL; 
+ 
+
+ • accettazione sociale del GNL e delle relative infrastrutture. 
+ 
+
+ In generale, dalle esperienze dei citati Paesi europei, si desume che un ruolo fondamentale all'espansione dei servizi di tipo SSLNG può derivare da opportune azioni di: 
+ 
+
+ • semplificazione dei processi autorizzativi; 
+ 
+
+ • agevolazione fiscale; 
+ 
+
+ • incentivazione alla realizzazione di infrastrutture; 
+ 
+
+ • nuove norme di regolazione e di sicurezza. 
+ 
+
+ In particolare, si è osservato come la politica fiscale energetica, attualmente in discussione sia a livello europeo che a livello nazionale, assumerà un ruolo determinante nello sviluppo futuro del mercato del GNL, nell'ambito dei servizi Small Scale. 
+ 
+
+ I servizi Small Scale LNG consentono l'utilizzo del gas naturale - il combustibile "più pulito" in quanto a minor contenuto di zolfo e con più basse emissioni di NOx e di CO2 - in zone dove la rete di trasporto di gas non è molto diffusa a causa di vincoli tecnico-economici. 
+ 
+
+ In particolare il rapido sviluppo dei servizi di tipo SSLNG si è avuto nei Paesi che per via di un forte interesse alle problematiche ambientali hanno sostenuto attivamente politiche incentivanti ed iter autorizzativi più snelli, coinvolgendo le realtà industriali nazionali e le autorità dei Paesi confinanti anche attraverso progetti pilota che possono consentire il miglior apprezzamento delle attività necessarie al pieno sviluppo della filiera. 
+ 
+
+ Peraltro si evidenzia come tali servizi, nell'ambito della catena del valore dello SSLNG, consentano anche un'innovazione nella gestione dei terminali di rigassificazione, permettendone quindi un utilizzo diversificato e maggiormente efficiente. 
+ 
+
+ 
+ 
+
+ 3.4 UTILIZZO TERMINALI DI RIGASSIFICAZIONE ANCHE PER LO SSLNG 
+ 
+
+ L'opportunità di utilizzare i serbatoi dei terminali di rigassificazione, o in senso lato i terminali di rigassificazione, per effettuare, insieme al servizio base, anche le attività di stoccaggio e di rifornimento del GNL dipende fortemente dalla tipologia di servizio che si vuole fornire e dalle caratteristiche dei terminali stessi. I servizi addizionali alla tradizionale attività di rigassificazione sono principalmente: 
+ 
+
+ • Servizio di caricamento di GNL su navi bunker secondo la
+ 
+
+ definizione del Gas Infrastructure Europe (GIE), ovvero l'operazione di caricamento di navi con il GNL stoccato nei serbatoi di un terminale di rigassificazione: tali navi possono essere utilizzate per fornire GNL ad altre navi (ovvero usate come bettoline) o a serbatoi costieri di stoccaggio (usate dunque come navi shuttle). 
+ 
+
+ • Servizio di reloading di navi metaniere, ovvero l'operazione con
+ 
+
+ la quale il GNL, precedentemente importato e stoccato nei serbatoi di un terminale, viene ricaricato su navi metaniere (con capacità compresa tra 30.000 e 270.000 mc) per la riesportazione del prodotto, allo scopo di cogliere eventuali opportunità commerciali; 
+ 
+
+ • Servizio di caricamento su autobotti (solo per terminali
+ 
+
+ onshore), ovvero l'operazione di caricamento di autocisterne o ISO-container, utilizzati per il trasporto su strada, con il GNL stoccato nei serbatoi di un terminale. Le autocisterne e gli ISO-container a loro volta possono essere utilizzati per alimentare impianti di rifornimento di autoveicoli alimentati a GNL o CNG, impianti di stoccaggio locali o per altri tipi di utilizzi che richiedano la fornitura del prodotto allo stato liquido (bunkeraggi, usi industriali e civili, treni). 
+ 
+
+ • Servizi aggiuntivi (solo per terminali onshore), ovvero servizi
+ 
+
+ che permettono la fornitura di GNL attraverso l'utilizzo di infrastrutture realizzate nei pressi del terminale e a esso direttamente collegate, quali il servizio caricamento di GNL su navi bunker e/o caricamento di autocisterne mediante un serbatoio dedicato collegato al terminale, o il servizio di caricamento per mezzi destinati al trasporto di merci su gomma mediante una stazione di rifornimento collegata direttamente al terminale. 
+ 
+
+ Ad oggi, nessun terminale di rigassificazione italiano è in grado di fornire servizi di tipo Small Scale LNG (SSLNG), ma tutti gli operatori stanno valutando la fattibilità di modifiche tecniche-operative in modo da offrire tali nuovi servizi, in coerenza con l'attività di rigassificazione. L'adattamento di un terminale di rigassificazione, per fornire anche lo stoccaggio e il rifornimento di GNL per mezzi navali o terrestri, è possibile prevedendo determinate modifiche tecniche-impiantistiche, con annessi costi per la realizzazione e gestione delle stesse. 
+ 
+
+ Le fasi relative alla progettazione, realizzazione ed esercizio dei servizi SSLNG ricadono nell'ambito della normativa/legislazione di riferimento dei terminali di rigassificazione. In tale contesto normativo l'iter autorizzativo per gli interventi di adeguamento dell'impianto è già definito, ma può sicuramente beneficiare di una semplificazione/riduzione dei tempi soprattutto in un'ottica time-to-market. 
+ 
+
+ Gli aspetti commerciali di cui si deve tenere conto sono: 
+ 
+
+ • la gestione della capacità di stoccaggio del terminale; • eventuali necessità di modifica relative alla programmazione
+ 
+
+ degli approdi; 
+ 
+
+ • la valutazione dei regolamenti portuali e la disponibilità dei
+ 
+
+ servizi portuali; 
+ 
+
+ • la modalità di separazione dei costi relativi alle attività di
+ 
+
+ rigassificazione di tipo regolato rispetto a quelle di SSLNG di tipo libero. 
+ 
+
+ Tali servizi, essendo finalizzati all'uso del GNL come combustibile tal quale, senza rigassificazione e senza l'uso delle reti di trasporto, esulano dalle attività di tipo regolato e vanno svolte in regime di mercato, separato dalle attività regolate di rigassificazione. Risulta pertanto necessaria la determinazione da parte dell'Autorità per l'energia elettrica, il gas e il sistema idrico delle modalità di separazione contabile e gestionale tra le due attività al fine di garantire la piena rispondenza al dettato normativo relativo all'attività di rigassificazione, ed evitare che dai servizi SSLNG svolti in regime di mercato derivino nuovi o maggiori oneri per le attività regolate. 
+ 
+
+ 
+ 
+
+ 4 LO SCENARIO ITALIANO 
+ 
+
+ Dallo studio di settore "Il mercato del gas naturale in Italia: lo sviluppo delle infrastrutture nel contesto europeo", elaborato nel 2013 dalla Cassa Depositi e Prestiti, emerge che, ad oggi, l'industria del GNL presenta caratteristiche profondamente diverse con 18 Paesi esportatori e 25 Paesi importatori e altri Paesi che si apprestano a mettere a regime nuova capacità di liquefazione/rigassificazione. L'emergere di nuove tecnologie consente di immettere sul mercato risorse che fino a pochi anni fa era impossibile sviluppare. 
+ 
+
+ All'incremento dei volumi scambiati e degli attori coinvolti è corrisposto un moltiplicarsi delle rotte percorse, con oltre 350 navi gasiere attive su direttrici transoceaniche. 
+ 
+
+ Contemporaneamente, la componente "spot" dell'approvvigionamento ha acquisito un peso più rilevante raggiungendo il 30% dei volumi scambiati nel 2014 (era il 4% nel 1990) ed è aumentata la competitività tra operatori alternativi sia dal lato dell'offerta, sia da quello della domanda. 
+ 
+
+ Nella Tabella 5 dello studio di settore della Cassa Depositi e Prestiti, vengono riportati i seguenti flussi import-export via GNL nei Paesi UE 27, 2011 (mld/mc/a). 
+ 
+
+ Da un punto di vista infrastrutturale, dallo Studio emerge che, con riferimento ai progetti per il potenziamento della rete di terminali di rigassificazione, sebbene il GNL in Europa soffra l'elevato grado di competitività del gas trasportato tramite gasdotto, nell'ottica di diversificazione delle fonti d'approvvigionamento e di sfruttamento della componente spot del mercato, si stima che la capacità di rigassificazione possa superare i 220 mld/mc/a nel 2020, con un tasso di incremento medio annuo pari al 2,9%. 
+ 
+
+ Il caso della Norvegia, che per prima ha realizzato e utilizzato traghetti a GNL già dall'inizio degli anni duemila, conferma quanto sopra: tutti i punti elencati sono stati a suo tempo risolti permettendo uno sviluppo a livello nazionale di una flotta di numerose unità che impiegano GNL come combustibile. 
+ 
+
+ Anche il "North European LNG Infrastructure Project" del marzo 2012 della Danish Maritime Authority, co-finanziato dalla Comunità Europea, fornisce, tra le altre, raccomandazioni relative alle soluzioni più opportune per il rifornimento, agli aspetti economico finanziari, all'aspetto della sicurezza delle installazioni in condizioni di normale esercizio e di emergenza conseguente ad incidente, agli aspetti tecnici e operativi, ai processi autorizzativi e alla comunicazione durante i processi di consultazione delle varie parti coinvolte. 
+ 
+
+ Nello studio viene analizzata, in particolare, la catena della fornitura del GNL, dai grandi terminali di importazione di GNL e/o impianti di liquefazione di GNL evidenziando le criticità connesse alla realizzazione di tali infrastrutture, le soluzioni per risolvere le varie problematiche e le realtà coinvolte (strutture portuali, armatori, etc.). 
+ 
+
+ 
+ 
+
+ Tabella 3: Flussi import-export via GNL nei paesi UE27, 2011 (mld/mc/a), Cassa Depositi Prestiti - Studio di settore n. 03 - Marzo 2013 - Gas naturale (Fonte BP, 2012) 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Secondo il "North European GNL Infrastructure Project", dovrebbe essere realizzato un certo numero di terminali di piccole dimensioni in Danimarca, Norvegia, Svezia e Finlandia per l'anno 2020. Inoltre, ci sono piani per investimenti in strutture di piccole dimensioni, come punti di rifornimento GNL (banchine per bunkeraggio) in Germania, Belgio e Paesi Bassi che andrà ad integrare i terminali di stoccaggio di GNL esistenti. 
+ 
+
+ Infatti, dal punto di vista delle infrastrutture di GNL nel Nord Europa, a fronte di terminali esistenti in Norvegia per il bunkeraggio di GNL (Fredrickstad 6.500 m3, Halhjem 1.000 m3, Agotnes CCB 500 m3, Floro 500 m3, numerosi sono i progetti di terminali di bunkeraggio di GNL pianificati o in via di realizzazione nel mare del Nord e nel Baltico: Antwerp (Belgio), Rotterdam (Olanda), Brunsb&uuml;ttel (Germania), Goteborg e Stockholm (Svezia), Turku e Porvoo (Finlandia), Klaipeda (Lituania) e Swinoujscie (Polonia). 
+ 
+
+ Sempre da quanto riportato nei documenti del "North European GNL Infrastructure Project" emerge inoltre che, al fine di selezionare la migliore soluzione per ogni singolo porto, si deve tener conto di una serie di parametri tra cui: 
+ 
+
+ • volumi di bunkeraggio GNL; 
+ 
+
+ • barriere fisiche presenti nel porto; 
+ 
+
+ • aspetti logistici; 
+ 
+
+ • tipologia di imbarcazioni; 
+ 
+
+ • costi di investimento e di esercizio; 
+ 
+
+ • sicurezza; 
+ 
+
+ • normative tecniche e operative; 
+ 
+
+ • questioni ambientali e normative. 
+ 
+
+ Questi parametri devono essere presi tutti in considerazione anche se i volumi di bunkeraggio sono spesso il fattore determinante. 
+ 
+
+ La domanda mondiale di GNL è stimata di circa 4,2 milioni di tonnellate nel 2020 e 7 milioni di tonnellate nel 2030: dall'analisi degli scenari di sviluppo della domanda, si può concludere che una gran parte della domanda deriverà dal trasporto marittimo di linea nelle diverse aree. 
+ 
+
+ Dal punto di vista dei costi del sistema logistico-infrastrutturale di fornitura del GNL alle navi, sulla base di una stima basata sull'analisi di tre casi studio, il costo medio della supply chain è stato stimato a 170 €/tonn GNL. Lo studio, inoltre, ha esaminato la
+ 
+
+ struttura del prezzo del GNL come combustibile rispetto all'olio combustibile pesante (HFO) ed al gasolio marino (MGO) tenendo conto dei seguenti aspetti: 
+ 
+
+ • prezzo del carburante nei principali hub europei di importazione; 
+ 
+
+ • costi delle infrastrutture: 
+ 
+
+ • costi di stoccaggio; 
+ 
+
+ • costo della distribuzione (hubs - strutture portuali - utenti
+ 
+
+ finali). 
+ 
+
+ La distribuzione di GNL in Italia rappresenta un'attività strategica per il raggiungimento degli obbiettivi di decarbonizzazione e per la riduzione delle emissioni di sostanze pericolose per l'ambiente e per la salute dei cittadini; il raggiungimento di una distribuzione efficiente ed efficace passa necessariamente dalla realizzazione di infrastrutture, opportunamente dislocate sul territorio nazionale, capaci di rendere disponibile il caricamento delle autobotti con il prodotto in forma liquida. 
+ 
+
+ La Commissione europea ha svolto nel 2015 una consultazione per lo sviluppo di una strategia al fine di esplorare il pieno potenziale del GNL e dello stoccaggio di gas nel medio e lungo termine. La ragione del focus su gas liquefatto e stoccaggio, è che essi contribuiscono ad aumentare la sicurezza e la concorrenzialità delle forniture di energia europee, in particolare attraverso la diversificazione delle fonti. Il GNL secondo la Commissione Europea contribuisce ad abbassare i prezzi dell'energia aumentando la concorrenza sui mercati Ue. Un ruolo importante e necessario quindi, quello del GNL, nel processo di decarbonizzazione dell'economia dell'Unione Europea. 
+ 
+
+ Anche il Giappone ha elaborato una strategia per lo sviluppo dell'uso del GNL che è stata presentata durante i lavori del G7 dell'energia nell'aprile del 2016. Uno studio approfondito con analisi storiche e tendenziali dell'uso di questa commodity in Giappone e nel mondo che testimonia la grande attenzione che vi è a livello globale su questi temi. Un dato importante è la previsione di crescita del 40% dell'uso del GNL a livello mondiale (in particolare in Asia) che dovrebbe passare da 250 milioni di tonnellate del 2014 a 350 nel 2020. Tre sono gli elementi individuati per favorirne lo sviluppo: 
+ 
+
+ • accrescerne la commerciabilità attraverso la riduzione della
+ 
+
+ taglia delle navi cargo, l'aumento dei partecipanti al mercato e l'eliminazione dei vincoli di destinazione geografica; 
+ 
+
+ • sviluppo e accesso di terzi alle infrastrutture del GNL e alle
+ 
+
+ infrastrutture a valle; 
+ 
+
+ • abbandono dei prezzi fissati a priori che invece dovrebbero
+ 
+
+ formarsi dinamicamente come risultato di incontro trasparente tra domanda e offerta. 
+ 
+
+ 
+ 
+
+ 5 DIMENSIONAMENTO DELLA RETE DI STAZIONI DI RIFORNIMENTO 
+ 
+
+ 
+ 
+
+ 5.1 CRITERI PER L'INDIVIDUAZIONE DI UNA IPOTESI DI RETE DI DISTRIBUZIONE DI GNL SULLA BASE DEGLI ATTUALI SCENARI LOGISTICI DEGLI ALTRI PRODOTTI ENERGETICI 
+ 
+
+ Per tracciare scenari logistici di lungo termine in un'ottica di distribuzione del prodotto GNL sul mercato nazionale per le varie destinazioni d'uso occorre tener conto di: 
+ 
+
+ • suddivisione del sistema distributivo tra "distribuzione
+ 
+
+ primaria" e "distribuzione secondaria"; 
+ 
+
+ • possibilità di utilizzare, ed eventualmente riconvertire, le
+ 
+
+ infrastrutture esistenti per lo stoccaggio dei prodotti in questione, per successivo scarico su navi o autobotti di GNL 
+ 
+
+ • sviluppo della domanda per uso bunkering, per autotrazione o
+ 
+
+ altri usi; 
+ 
+
+ • opportunità di approvvigionamento di tale prodotto in zone non
+ 
+
+ metanizzate (quali ad esempio la Sardegna) mediante lo sviluppo di sistemi di stoccaggio e di minirigassificazione del GNL presso il punto di consumo o centri di distribuzione periferici. 
+ 
+
+ La direttiva europea indica gli elementi principali che gli Stati Membri devono considerare per la definizione di una rete di punti di rifornimento per il GNL che includono, fra l'altro, i terminali, i serbatoi e i containers mobili di GNL nonchè navi e chiatte cisterna. 
+ 
+
+ Per quanto riguarda la rete di rifornimento del GNL per uso autotrazione, volendo attenersi ai requisiti minimi della direttiva 2014/94/UE, una rete di distribuzione di primo livello (cioè disposta lungo la rete TEN-T) dovrebbe contare almeno una decina di impianti. 
+ 
+
+ La scelta dei siti per la realizzazione di tali stazioni dipende dalle decisioni imprenditoriali che saranno determinate da una serie di fattori sia tecnici che economici. 
+ 
+
+ La fattibilità tecnica dovrà tenere conto di tutte le prescrizioni della normativa tecnica e di prevenzione incendi vigente oltre ad eventuali vincoli di carattere urbanistico, ambientale e/o paesaggistico. 
+ 
+
+ Una possibilità di sviluppo della rete di rifornimento in autostrada può essere costituita dallo svolgimento delle gare per le concessioni di distribuzione carburanti in autostrada, con la previsione di un riconoscimento qualitativo premiale per gli impianti che si dotino anche del GNL. 
+ 
+
+ Sotto il profilo tecnico, è necessario completare quanto prima il quadro tecnico-normativo, con particolare riferimento alla disciplina di prevenzione incendi degli impianti stradali e degli impianti di stoccaggio primari. 
+ 
+
+ Un iter autorizzativo semplificato e un sistema di incentivazione adeguato consentirebbero di agevolare gli investimenti nella rete di distribuzione, ad esempio per la realizzazione delle aree adibite alla distribuzione del GNL e per la diffusione dei mezzi alimentati a GNL. 
+ 
+
+ 
+ 
+
+ 5.2 CONSIDERAZIONI SULL'INFRASTRUTTURA NECESSARIA: MERCATO POTENZIALE 
+ 
+
+ L'Unione Europea propugna l'uso di carburanti alternativi (Direttiva DAFI), promuovendo in particolare l'uso del GNL nei trasporti, per ridurre la dipendenza dall'olio e minimizzare gli effetti negativi sull'ambiente (60% di riduzione delle emissioni di GHG nel settore trasporti nel 2050 rispetto al 1990). I recenti sviluppi tecnologici e il differenziale di prezzo tra greggio e gas hanno aperto la strada a nuove possibilità d'impiego per il GNL nel trasporto stradale delle merci e per la propulsione navale; in queste condizioni il GNL può divenire competitivo anche in nicchie di mercato nel settore industriale e residenziale. 
+ 
+
+ In Italia il mercato del GNL ha già posto le premesse per lo sviluppo. Nel 2014, nell'area del Centro-Nord vi erano già operativi 8 distributori L-CNG cioè impianti approvvigionati con LNG ed erogatori CNG; 7 sono pubblici: Villafalletto (CN), Poirino (TO), Tortona (AL), Mortara (VA), Varna (BZ), Calderara (BO), Roma. Vi è poi un distributore L-CNG privato, impiegato dalla flotta di bus di Modena (SETA). Un nono distributore pubblico e il primo con erogatore GNL (e L-CNG) è stato inaugurato da ENI a Piacenza ad aprile 2014.
+ 
+
+ Nel 2015 è stato aperto un secondo punto vendita con erogatore GNL (e L-CNG) a Novi Ligure ed a maggio 2016 il terzo impianto a Castel San Pietro terme (Bologna) con le stesse caratteristiche. 
+ 
+
+ Inoltre la prima nave a GNL è stata commissionata dalla Marina Militare italiana e sono state realizzate anche le prime installazioni GNL in siti industriali. Attualmente sono tutte alimentate con carro cisterna criogenico dal terminale spagnolo di Barcellona, Rotterdam (Olanda); Zeebrugge (Belgio) e Marsiglia (Francia). 
+ 
+
+ 
+ 
+
+ 5.3 IPOTESI DI SVILUPPO DELL'INFRASTRUTTURA 
+ 
+
+ Al 2030, se le condizioni riguardanti il quadro regolatorio e quello fiscale saranno favorevoli, è auspicabile la realizzazione sul territorio nazionale di un'infrastruttura per la ricezione e utilizzazione del GNL, con installazione di apparecchiature sufficienti a coprire un volume globale di mercato di 3,2 Mton (4 Mtep). Un'ipotesi abbastanza verosimile potrebbe prevedere: 5 depositi costieri di GNL da 30.000 - 50.000 m3 ; 3 navi di cabotaggio
+ 
+
+ da 25.000 - 30.000 m3 ; 4 bettoline; circa 800 stazioni di servizio
+ 
+
+ GNL, anche con L-CNG. 
+ 
+
+ 
+ 
+
+ 5.4 PUNTI CRITICI LEGATI ALL'INFRASTRUTTURA 
+ 
+
+ I principali fattori critici sono: 
+ 
+
+ • esistenza di una normativa su terminali costieri di piccola e
+ 
+
+ media taglia; 
+ 
+
+ • disponibilità di aree ben collocate, in seno ad insediamenti
+ 
+
+ industriali; 
+ 
+
+ • costi di realizzazione; 
+ 
+
+ • propensione degli operatori industriali a investire in
+ 
+
+ infrastrutture SSLNG; 
+ 
+
+ • fiducia nella permanenza dell'attuale assetto fiscale dei
+ 
+
+ carburanti gassosi; 
+ 
+
+ • collocazione razionale dei distributori di GNL ed L-CNG; • sinergie tra i diversi sistemi modali e operativi (es.
+ 
+
+ interporti: opzione ferro + gomma; opzione distributori pubblici-privati); 
+ 
+
+ • aumento dei modelli di veicoli offerti al mercato. 
+ 
+
+ 
+ 
+
+ 5.5 RETE DI RIFORNIMENTO DEL GNL PER USO AUTOTRAZIONE 
+ 
+
+ Per quanto riguarda lo sviluppo della rete di rifornimento del GNL per uso autotrazione, la nuova direttiva 2014/94/UE del 22 ottobre 2014 (DAFI) "sulla realizzazione di un'infrastruttura per i combustibili alternativi", obbliga gli Stati membri ad assicurare che, entro il 31 dicembre 2025, sia realizzato un numero adeguato di punti di rifornimento per il GNL accessibili al pubblico almeno lungo la rete centrale TEN-T. Al fine di definire il suddetto numero di punti di rifornimento su strada, la direttiva suggerisce di tener conto dell'autonomia minima dei veicoli pesanti alimentati a GNL, indicando, a titolo esemplificativo, una distanza media di 400 km. Si osserva che la rete TEN-T di primo livello interessa l'intero territorio nazionale con una più alta concentrazione nel nord del Paese. 
+ 
+
+ In Italia, la rete centrale TEN-T conta circa 3.300 km di strada complessivi, divisi in 3 principali corridoi: 
+ 
+
+ • Asse Palermo-Napoli-Roma-Bologna-Modena-Milano-Verona-Brennero 
+ 
+
+ • Asse Genova-Milano-Chiasso e Genova Voltri-Alessandria-Gravellona
+ 
+
+ Toce 
+ 
+
+ • Asse Frejus-Torino-Milano-Bergamo-Verona-Padova-Venezia-Trieste 
+ 
+
+ Pertanto, in una ipotesi estremamente semplificata, volendo rispettare la distanza media dei 400 km, così come raccomandato dalla direttiva DAFI, un numero adeguato di punti vendita, costituenti una rete di distribuzione di primo livello, dovrebbe essere non inferiore a 10. 
+ 
+
+ Si osserva, tuttavia, che per assicurare un livello di servizio superiore a quello minimo, tarato esclusivamente sull'autonomia dei mezzi, sarebbe necessaria una rete di distribuzione più fitta - perfino sulla stessa viabilità stradale - con un numero almeno doppio di punti vendita rispetto a quello sopra indicato. 
+ 
+
+ Per quanto riguarda la scelta dei siti per la realizzazione di tali stazioni, non è possibile fare una previsione puntuale perchè le decisioni imprenditoriali dipenderanno da una serie di fattori sia tecnici che economici. La fattibilità tecnica di ogni singolo impianto dipenderà in buona parte dal rispetto delle prescrizioni di prevenzione incendi, dalla disponibilità di aree adeguate e dal rispetto dei vincoli paesaggistici. Il rispetto delle distanze di sicurezza e delle prescrizioni di tipo urbanistico, oggi contenute in tutte le norme di prevenzione incendi riguardanti i gas naturale per autotrazione, potrebbero essere determinanti nella scelta dei siti di installazione. 
+ 
+
+ Relativamente alle analisi di tipo economico, si può solo prevedere che saranno sicuramente privilegiate le posizioni che intercettano flussi di traffico già consolidati per il trasporto pesante di merci, nonchè stazioni stradali ed autostradali già esistenti presso le quali sia tecnicamente possibile ed economicamente conveniente aggiungere un impianto di distribuzione di GNL. 
+ 
+
+ Si osserva inoltre che la redditività degli impianti è attualmente molto ridotta per l'assenza sul territorio nazionale di una base di approvvigionamento (cioè un punto di carico per autocisterne criogeniche) e questo rappresenta un freno importante allo sviluppo della rete di distribuzione stradale. 
+ 
+
+ 
+ 
+
+ 5.6 IMPIANTI DI STOCCAGGIO DI PICCOLE DIMENSIONI PER AUTOTRAZIONE, RETI LOCALI, TRASPORTO FERROVIARIO 
+ 
+
+ Analizzando i risultati di un questionario compilato da aziende operanti sia nella progettazione-costruzione di impianti che nella filiera energetica è stato possibile avere una prima stima dei costi (limitata alle sole opere tecnologiche e agli oneri professionali) per la realizzazione di stoccaggi di piccole dimensioni quali: 
+ 
+
+ • impianti a servizio di utenze civili (piccole reti canalizzate) 
+ 
+
+ • impianti commerciali/industriali. 
+ 
+
+ In particolare per tali impianti si evince che il costo (al netto dell'IVA) per serbatoi di capacità fra 30 e 50 ton varia da 270.000€
+ 
+
+ a 350.000€. A tale prezzo vanno aggiunti ulteriori componenti come,
+ 
+
+ ad esempio, i costi per opere edili, per interventi di messa in sicurezza e/o per sistema antincendio, di valore complessivo pari a circa 80.000 €. 
+ 
+
+ 
+ 
+
+ 5.7 UTILIZZO DEL GNL NEL TRASPORTO STRADALE PESANTE: AUTOCARRI E AUTOBUS 
+ 
+
+ L'utilizzo del GNL come combustibile alternativo al diesel si basa sulla sua sostenibilità economica e ambientale. La sostenibilità economica è dovuta al suo minore costo a parità di contenuto energetico, che deve almeno compensare i maggiori costi legati alla specifica tecnologia. Il prezzo di acquisto o di trasformazione di un veicolo a GNL rispetto ad un equivalente veicolo diesel convenzionale varia da 15.000 € a 60.000 €. Oltre al maggiore costo delle
+ 
+
+ componenti specifiche del motore e del sistema di alimentazione, nell'ordine di 5.000&divide;30.000 €, il secondo costo più importante per
+ 
+
+ un veicolo a GNL è il sistema di stoccaggio del combustibile. 
+ 
+
+ L'uso di GNL aumenta l'autonomia rispetto al GNC mantenendo i vantaggi in termini di emissioni ridotte rispetto al diesel. Lo stato liquido consente, a parità di volume, percorrenze circa 2,5 volte quelle del GNC, e poco meno della metà rispetto al gasolio. 
+ 
+
+ La sostenibilità economica dipende principalmente dalla percorrenza annua chilometrica e dalla differenza di prezzo tra gasolio e GNL. Una differenza di costo di 0,15 € tra il diesel
+ 
+
+ (€/litro) e il GNL (€/kg) rappresenta il punto di pareggio per il
+ 
+
+ trasportatore. I valori di risparmio tengono conto di tutti i contributi negativi (costo di acquisto del mezzo, costi finanziari associati, manutenzione, valore residuo). 
+ 
+
+ 
+ 
+
+ 5.8 UTILIZZO DEL GAS NATURALE LIQUEFATTO (GNL) COME COMBUSTIBILE MARINO 
+ 
+
+ La comunità internazionale attraverso le singole Amministrazioni e i canali di cooperazione sta esprimendo una crescente sensibilità per l'impatto delle attività umane sul sistema ambientale, dimostrando interesse e incoraggiando il settore dei trasporti marittimi verso l'utilizzo di gas naturale come fonte primaria di energia per la propulsione e la produzione di energia elettrica a bordo delle navi. Questa tendenza nell'ambito delle emissioni in aria è rafforzata dall'evoluzione della normativa internazionale, comunitaria e nazionale. 
+ 
+
+ L'International Maritime Organization (IMO), con l'Annesso VI della Convenzione Internazionale MARPOL, di recente entrata in vigore e in evoluzione tramite i suoi emendamenti, ha stabilito i criteri e i requisiti per la prevenzione dell'inquinamento atmosferico provocato dalle navi, per il controllo e la relativa riduzione delle emissioni a livello globale ed all'interno di ben definite zone di mare, Emission Control Areas (ECA). 
+ 
+
+ L'utilizzo di gas naturale come combustibile è uno dei modi che l'industria marittima può adottare per soddisfare i limiti sempre più restrittivi di emissioni in atmosfera con riferimento a sostanze inquinanti, nocive e climalteranti, come gli ossidi di azoto (NOx), di zolfo (SOx) e l'anidride carbonica (CO2) dovute all'utilizzo di combustibili tradizionali nelle normali condizioni operative della nave. Ci sono aspetti, tra cui quelli indicati di seguito, che rendono il GNL, usato come combustibile marino, una delle soluzioni tecnologiche più promettenti per l'industria marittima. Infatti, l'impiego di GNL in alternativa ai combustibili tradizionali consente: 
+ 
+
+ • la riduzione quasi a zero delle emissioni di ossido di zolfo
+ 
+
+ (SOx) 
+ 
+
+ • la riduzione delle emissioni di ossido di azoto (NOx) per il
+ 
+
+ rispetto dei limiti applicabili dal 2016 nelle zone "Nitrogen-oxides Emission Control Areas" (NECA) 
+ 
+
+ • la riduzione del 20-25% delle emissioni di CO2. 
+ 
+
+ L'efficacia dell'impiego del GNL ai fini della riduzione dell'immissione nell'atmosfera di gas serra dipende dal tipo di motore e dalla gamma di possibili misure adottabili per ridurre il rilascio indesiderato di metano, essendo esso stesso un gas serra. 
+ 
+
+ 
+ 
+
+ 5.9 PROGETTO COSTA 
+ 
+
+ Il progetto COSTA (CO2 &amp; other Ship Transport emissions Abatement
+ 
+
+ by LNG), proposto dal Ministero delle infrastrutture e dei trasporti - Direzione Generale per il Trasporto Marittimo e per Vie d'Acqua Interne, con il coordinamento tecnico del RINA e presentato nell'ambito del bando delle Reti TEN-T del 2011, è stato approvato con Decisione della Commissione Europea C(2012) 7017 del 8.10.2012. I Paesi coinvolti sono l'Italia, partner coordinatore del progetto, la Grecia, il Portogallo e la Spagna. Il risultato più rilevante è il cosiddetto "LNG Masterplan" per le aree del Mediterraneo, del Mar Nero e dell'Atlantico. 
+ 
+
+ Il progetto fornisce interessanti indicazioni e raccomandazioni per lo sviluppo del GNL come combustibile marino alternativo all'olio combustibile attualmente in uso. 
+ 
+
+ è stata fatta un'analisi della possibile futura domanda di GNL, della localizzazione geografica di tale domanda in ambito Europeo-Mediterraneo, delle possibili soluzioni tecniche e logistiche a supporto, a definizione di un piano europeo e della sostenibilità delle soluzioni analizzate. Dal lavoro di analisi sono emersi "gap" normativi a livello internazionale e nazionale. 
+ 
+
+ L'adozione dell'IGF Code (International Code of Safety for Ships using Gases or other Low flashpoint Fuels) nel corso dello scorso 2015 ha colmato in parte tali "gap" e la pubblicazione di linee guida complementari (ad esempio su rifornimento, stoccaggio e addestramento del personale) contribuirà a ridurlo ulteriormente. 
+ 
+
+ I "gap" normativi a livello nazionale dovranno essere affrontati dagli stati membri entro il 2016, data alla quale dovranno comunicare il proprio quadro nazionale previsto in accordo alla direttiva 2014/94/UE del Parlamento europeo e del Consiglio del 22 ottobre 2014 sulla realizzazione di un'infrastruttura per i combustibili alternativi. Il quadro normativo preso in considerazione dal progetto COSTA prevede l'introduzione dei limiti di contenuto di zolfo nei combustibili a 0,5% dal 2020 nelle acque europee e a livello mondiale dal 2020 (o dal 2025) in funzione della decisione finale dell'IMO. Di seguito è riportata la sintesi dei limiti sui contenuti di zolfo nei combustibili marini: 
+ 
+
+ • 0,1% dal 2015 nelle aree "Sulphur Emission Control Areas" (SECA); 
+ 
+
+ • 0,5% dal 2020 (o 2025) in tutto il mondo (su decisione IMO); 
+ 
+
+ • 0,5% dal 2020 nei mari non SECA degli stati membri e comunque
+ 
+
+ 0,1% nei porti europei; 
+ 
+
+ • 0,1% dal 2018 nello Ionio e nell'Adriatico (se gli altri stati
+ 
+
+ membri che si affacciano su detti mari imporranno analoghi limiti) 
+ 
+
+ • 0,1% dal 2020 nei mari italiani (se gli altri stati membri che si
+ 
+
+ affacciano su detti mari imporranno analoghi limiti). 
+ 
+
+ Ulteriori raccomandazioni indicate dal progetto COSTA sono indirizzate agli stati nazionali affinchè i rispettivi quadri normativi risultino essere tali da supportare, attraverso incentivi finanziari, regimi fiscali appropriati e piani di ricerca, lo sviluppo di tecnologie e infrastrutture dedicate ai combustibili alternativi. Il progetto COSTA raccomanda una cooperazione tra gli stati membri tale da garantire una continuità di approccio e standard comuni per la valutazione delle infrastrutture di rifornimento, in termini di tipo, dimensioni, costi e ritorni sugli investimenti, sulla base di metodi di riferimento concordati e accettati, senza dimenticare la necessità di considerare America, Nord Africa e Medio Oriente nello sviluppo di standard sempre più internazionali e globali. Inoltre, nello sviluppo di un piano strategico per la diffusione del GNL, il progetto COSTA ricorda l'importanza di supportare il trasporto marittimo, mantenendo o incrementando la quantità di merce trasportata via mare, di evitare la formazione di corridoi specifici, colli di bottiglia o situazioni di distorsione del mercato, di promuovere la tecnologia europea nell'ambito della cantieristica navale sia per le nuove costruzioni che per l'adeguamento del naviglio esistente. Il progetto COSTA evidenzia l'importanza del fattore umano, raccomandando lo sviluppo di quanto necessario per assicurare addestramento e formazione del personale chiamato ad operare con GNL sia a bordo che a terra, e del personale coinvolto nella manutenzione di impianti, componenti e motori. Infine contiene le raccomandazioni relative all'accettabilità sociale del nuovo combustibile che implica la trasparenza della comunicazione e la riduzione delle incertezze. 
+ 
+
+ 
+ 
+
+ 5.10 CONFIGURAZIONE DI UNA RETE DI DISTRIBUZIONE DEL GNL NEL SETTORE MARITTIMO E PORTUALE 
+ 
+
+ 
+ 
+
+ 5.10.1 Premessa 
+ 
+
+ Le Autorità Portuali, nella loro veste di soggetti pubblici cui è affidata la gestione dei porti internazionali e nazionali di maggiore importanza in Italia, devono esprimere attenzione all'evolversi dei percorsi normativi legati alla futura applicazione della normativa MARPOL ANNEX VI e della Direttiva 2014/94/UE, soprattutto al fine di poter valutare per tempo le potenziali conseguenze, le ricadute, l'impatto sul settore portuale nonchè le possibilità di sviluppo offerte, che deriveranno dall'applicazione di queste importanti novità regolamentari. 
+ 
+
+ è una sfida per le Autorità Portuali, che dovranno ottimizzare l'utilizzo di tutti gli strumenti a loro disposizione sia per dotare il proprio ambito di competenza di infrastrutture adeguate a favorire lo sviluppo dell'intera filiera legata al GNL, in termini di approvvigionamento, stoccaggio, distribuzione primaria e secondaria, sia per supportare il settore portuale e logistico e le imprese che in esso operano. 
+ 
+
+ 
+ 
+
+ 5.10.2 Linee guida per lo sviluppo della rete nazionale GNL 
+ 
+
+ La scelta dell'ubicazione delle stazioni di rifornimento fisse e di dove prevedere la possibilità di rifornimento con navi capaci di rifornire di GNL altre unità navali (nel seguito "bettoline") e/o autobotti è determinante per il futuro utilizzo del GNL e presuppone un'analisi accurata della domanda marittima. Assumendo che tutte le variabili esogene per l'utilizzo del GNL siano soddisfatte (iscrivibilità nei registri nazionali delle navi, ingresso nei porti nazionali di navi alimentate a GNL, possibilità di effettuare bunkeraggio, ecc.) o favorevoli (differenziale di prezzo rispetto ai combustibili tradizionali, presenza di incentivi, ecc.) è possibile analizzare quali fattori più strettamente legati all'elemento nave possano indirizzare la scelta verso la propulsione a GNL e conseguentemente definire con maggiore attendibilità i possibili scenari di evoluzione della domanda di questo tipo di combustibile. 
+ 
+
+ 5.10.3 Tipologia di traffico 
+ 
+
+ I servizi di linea, soprattutto quelli point-to-point nei quali una nave scala a brevi intervalli il medesimo porto, sono avvantaggiati nell'utilizzo del GNL semprechè in almeno uno dei porti scalati questo sia disponibile. Anche la distanza tra i due porti influisce sulla preferenza del GNL perchè incide sull'autonomia della nave e sulle scelte di dimensionamento dei serbatoi da installare a bordo. 
+ 
+
+ Per lo stesso motivo risultano avvantaggiati anche i servizi svolti in ambito portuale (rimorchio e bunkeraggio in primis), sebbene probabilmente in misura ridotta, considerato che il loro utilizzo avviene di solito in modo meno continuativo. 
+ 
+
+ I servizi di feeder contenitori, pur presentando le caratteristiche di un servizio di linea, possono presentare lo svantaggio legato ad un più alto grado di intercambiabilità delle navi impiegate in un determinato servizio. Le navi da carico, impiegate sui mercati a tempo o a viaggio, sono meno favorite considerata l'assoluta incertezza dei porti scalati, la impossibilità di pianificare le operazioni di bunkeraggio e le lunghe percorrenze. 
+ 
+
+ 
+ 
+
+ 5.10.4 Età della nave 
+ 
+
+ In linea generale maggiore è l'età della nave più può essere preferibile la sua sostituzione rispetto ad operazioni di adeguamento alle nuove normative. Tale adeguamento può risultare peraltro poco conveniente, e/o tecnicamente difficile, in particolare nel caso di adeguamento delle motorizzazioni all'impiego del GNL. 
+ 
+
+ 
+ 
+
+ 5.10.5 Area di traffico 
+ 
+
+ Anche l'area di traffico può contribuire a indirizzare o meno verso l'utilizzo del GNL. Una possibile discriminante può essere legata alla maggiore sensibilità sociale verso i livelli di emissioni nel caso, ad esempio, di porti o collegamenti prossimi ad aree densamente popolate o già sottoposte a livelli elevati di inquinamento da altre fonti (traffico stradale, industrie, ecc.). 
+ 
+
+ Un ulteriore fattore legato all'area geografica è relativo ai traffici con paesi le cui norme in materia di GNL possono differire da quelle europee. Nei traffici di short sea shipping, e in particolare in quelli mediterranei, la flotta italiana riveste un ruolo di primo piano e la presenza di differenti quadri regolatori può avere un forte impatto sulla competitività dei vettori. 
+ 
+
+ Quello che a priori è inoltre già ipotizzabile, è che la domanda di GNL per uso marittimo evolverà secondo due diversi scenari: uno di breve periodo ed uno di periodo medio-lungo. In queste due fasi le domande da soddisfare saranno probabilmente diverse non soltanto per volumi ma anche per le soluzioni tecniche e logistiche impiegabili. 
+ 
+
+ La rete nazionale di distribuzione del gas naturale in Italia è capillare e non trova uguali in Europa, il che inciderà anche sulle dinamiche dei prezzi del GNL. 
+ 
+
+ Nella prima fase, di breve periodo (fino al 2020), si può ipotizzare che la domanda di GNL sarà piuttosto limitata sia sotto il profilo quantitativo che sotto quello geografico, essendo legata a tipologie di traffico e iniziative armatoriali circoscritte. In questo senso, e tenuto conto delle considerazioni di cui sopra, in relazione ai diversi fattori che influenzano la scelta del combustibile, tale domanda potrebbe interessare i servizi di linea passeggeri costieri nazionali, nazionali ed internazionali brevi (viste le già vigenti limitazioni sui tenori di zolfo contenuti nei combustibili tradizionali) e i servizi portuali. In tale prima fase, (fino al 2020) si può ipotizzare che la maggiore domanda si collocherà in aree a forte traffico passeggeri con breve percorrenza e con rotte e scali definiti (essendo la quantità di combustibile necessaria ridotta e il punto di rifornimento facilmente individuabile). In tale fase, si può ipotizzare l'ottimizzazione della collocazione dei punti di rifornimento di GNL con criteri e modalità che li rendano idonei a servire anche il traffico pesante su gomma che transita per lo scalo marittimo o nelle sue vicinanze. 
+ 
+
+ Nella seconda fase, di medio-lungo periodo (dal 2020 in poi), è probabile che lo scenario sopra descritto si modifichi, anche se non totalmente, a seguito di dinamiche non più legate alla sola domanda nazionale e ad uno specifico tipo di navigazione. Ad esempio, potrebbero avere interesse al GNL le navi passeggeri e porta contenitori che operano regolarmente su tratte definite. 
+ 
+
+ Da queste considerazioni scaturisce l'esigenza di prevedere, quantomeno in ambito marittimo-portuale, la predisposizione di procedure semplificate e rapide, nel pieno rispetto della sicurezza e dell'ambiente, per l'approvazione e la realizzazione di impianti di piccole dimensioni (che consentano l'avvio di buone pratiche, analogamente a quanto avvenuto negli anni passati in Nord Europa) e per l'approvazione degli adeguamenti delle infrastrutture esistenti (ad es. terminali di rigassificazione off-shore). 
+ 
+
+ 
+ 
+
+ 5.10.6 Proposte di reti nazionali 
+ 
+
+ La rete di distribuzione del GNL nei porti deve necessariamente comprendere sia porti appartenenti alla rete centrale della TEN-T, sia porti esterni. Ciò al fine di rendere più omogenea la distribuzione sulle coste nazionali. 
+ 
+
+ Sulla base di quanto ipotizzato al punto 5.10.5 e considerata l'impossibilità di munire ogni porto di un punto di rifornimento di grandi dimensioni, assume rilevanza la configurazione di una rete che tenga conto delle varie soluzioni intermodali di rifornimento delle navi, vale a dire "nave-nave", "terra-nave", "camion-nave" e imbarco sbarco di serbatoi mobili (portable tanks), senza tralasciare la mutua utilità e necessità della rete in questione nei confronti del settore dei trasporti terrestri. 
+ 
+
+ Questo fa sì che sia necessario individuare una specifica area di azione attraverso la creazione di reti di dimensioni geografiche ridotte, che tengano conto della geomorfologia e dei flussi economici tipici del nostro paese. Tali reti, dotate di soluzioni basate su standard comuni, devono concorrere alla formazione di una rete nazionale che a sua volta possa interfacciarsi con il panorama internazionale del GNL. Una ipotesi di reti come sopra descritte è individuabile nelle tre macroaree: area mar Tirreno e mar Ligure, area mari del sud Italia, area mare Adriatico. 
+ 
+
+ All'interno di queste aree si candidano naturalmente i porti sedi di Autorità portuali, con depositi di piccola o media capacità, ognuno dei quali deve essere fornito delle possibilità di approvvigionamento, stoccaggio, rifornimento per navi, distribuzione e rifornimento non navale. 
+ 
+
+ In tale direzione, si può così ipotizzare una rete di distribuzione del GNL, che coinvolga i porti già inclusi nei corridoi della rete transeuropea dei trasporti ma anche gli altri porti sede di Autorità portuale, che non appartengono alla rete centrale TEN-T ma che offrono l'opportunità di completare adeguatamente la rete di rifornimento, come già detto, con punti di deposito e rifornimento di piccole o medie dimensioni che possano eventualmente servire anche il trasporto pesante su strada, ove le circoscrizioni portuali e ed i raccordi stradali lo consentano. Va, altresì, ipotizzata l'individuazione di 2 o 3 siti portuali idonei per la realizzazione di depositi e rigassificatori al fine di creare, in previsione di un utilizzo importante e diffuso del GNL, strutture di distribuzione per i corridoi Tirrenico ed Adriatico nonchè per la rotta da Suez a Gibilterra. 
+ 
+
+ La valutazione dell'opportunità di inserire un porto nella rete di distribuzione del GNL (a prescindere dalla sua appartenenza alla rete centrale TEN-T) è fatta sulla base: 
+ 
+
+ • della presenza o meno nel porto di servizi di stoccaggio e
+ 
+
+ distribuzione di combustibili tradizionali siano essi finalizzati ai mezzi di trasporto o ad altro utilizzo 
+ 
+
+ • della sostenibilità dello sviluppo delle necessarie
+ 
+
+ infrastrutture per il GNI in termini di investimento economico, domanda prevista e prospettica, accessibilità per i mezzi di trasporto che fruirebbero della infrastruttura e disponibilità di spazi atti alle operazioni di buncheraggio. 
+ 
+
+ 
+ 
+
+ 5.10.7 Stima della domanda di GNL per il trasporto navale 
+ 
+
+ Per quanto riguarda il trasporto marittimo, rispetto al trasporto su strada, la sostituzione e/o l'adeguamento delle flotte navali sarà frenata dai più lunghi tempi di rinnovo delle navi e dal più complesso sistema logistico (adattamento banchine, depositi etc.) richiesto per il set-up del mercato. 
+ 
+
+ Nel lungo termine, tuttavia, le normative ambientali internazionali (IMO-MARPOL) ed europee, e il minor costo atteso del GNL faranno da volano per il suo sviluppo in questo settore. A tale proposito utilizzando i dati provenienti dal progetto COSTA, che sono basati sulle seguenti considerazioni: 
+ 
+
+ • trasporto marittimo effettuato da navi in servizio nel 2012,
+ 
+
+ impiegate solo su tratte a breve raggio, tra porti "Core", 
+ 
+
+ • assunzione come stima del 25% del valore massimo teorico
+ 
+
+ potenziale di bunkeraggio nel 2025, 
+ 
+
+ • metà rifornimento nel porto di partenza e l'altra metà nel
+ 
+
+ porto di destinazione, si è giunti ai valori riportati nella Tabella 4. è importante sottolineare che: 
+ 
+
+ • i risultati sono comparabili perchè le ipotesi utilizzate per
+ 
+
+ ogni porto sono le stesse. (i risultati non devono essere considerati come valori assoluti oggettivi, dal momento che le ipotesi utilizzate rendono incerto il dato iniziale), 
+ 
+
+ • i valori riportati si basano su dati provenienti da pubblico
+ 
+
+ dominio. 
+ 
+
+ Il 25% è stato scelto in virtù delle considerazioni riguardanti il mercato, l'età delle navi, la possibile presenza di nuove navi alimentate a GNL, ecc.. 
+ 
+
+ Inoltre, i porti "Core" sono stati raggruppati in tre gruppi, a seconda della posizione ed in base alla possibilità di rifornimento da terminali esistenti o previsti: 
+ 
+
+ • Tirreno Settentrionale (rifornimento dal terminale di
+ 
+
+ rigassificazione off-shore OLT FSRU Toscana e dal terminale di GNL Italia di Panigaglia): Genova, Livorno, La Spezia; 
+ 
+
+ • Nord Adriatico (rifornimento dal terminale di Rovigo): Venezia,
+ 
+
+ Ravenna, Ancona, Trieste; 
+ 
+
+ • Mari del Sud Italia (rifornimento di combustibile da un terminale
+ 
+
+ presunto nel Sud Italia): Napoli, Palermo, Bari, Gioia Tauro, Taranto. 
+ 
+
+ 
+ 
+
+ Tabella 4: Dati provenienti dal progetto COSTA 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ CORE PORTS Max theoretical value of LNG consumption m&sup3;/year % Maximum Bunkering Potential Potential LNG Bunkering Demand 2025 (m&sup3;/year) 
+ 
+
+ 
+ GENOVA 1.295.803 25% 323.951 
+ 
+
+ 
+ LIVORNO 816.237 25% 204.059 
+ 
+
+ 
+ NAPOLI 700.786 25% 175.196 
+ 
+
+ 
+ ANCONA 688.438 25% 172.109 
+ 
+
+ 
+ PALERMO 654.691 25% 163.673 
+ 
+
+ 
+ TRIESTE 622.262 25% 155.566 
+ 
+
+ 
+ VENEZIA 584.914 25% 146.229 
+ 
+
+ 
+ RAVENNA 502.535 25% 125.634 
+ 
+
+ 
+ LA SPEZIA 365.464 25% 91.366 
+ 
+
+ 
+ GIOIA TAURO 315.606 25% 78.901 
+ 
+
+ 
+ BARI 152.418 25% 38.104 
+ 
+
+ 
+ TARANTO 43.946 25% 10.987 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Ulteriori analisi hanno affrontato il problema suddividendolo in due parti: una prima, relativa alla domanda potenziale aggregata a livello nazionale, utile a definire scenari di medio lungo periodo, ed una seconda, relativa ad alcuni trasporti marittimi specifici, utile a valutare le potenzialità dei mercati più promettenti sui quali puntare per lo sviluppo del GNL. 
+ 
+
+ 
+ 
+
+ 5.10.8 Ricadute economiche sulla cantieristica navale 
+ 
+
+ è del tutto evidente che una valutazione delle ricadute sulla cantieristica italiana derivanti dalla progressiva adozione del GNL come combustibile navale non può che essere riferita ad uno scenario teorico ed ipotetico, non essendo prevedibile direzione e velocità di evoluzione delle numerose variabili che condizionano il processo di cui trattasi. 
+ 
+
+ In relazione a quanto sopra si può ragionevolmente assumere che la propensione dell'armamento ad investire nella propulsione e nelle tecnologie GNL sarà decisivamente influenzata: 
+ 
+
+ • dalla previsione che venga realizzata con tempistica certa, in
+ 
+
+ ogni caso compatibile con l'entrata in vigore delle nuove norme, un'adeguata rete di infrastrutture di rifornimento; 
+ 
+
+ • da un differenziale di prezzo fra MGO, HFO e GNL tale da
+ 
+
+ consentire ritorni finanziari e tempi di recupero dell'investimento ritenuti accettabili; 
+ 
+
+ • dalla rimuneratività (attuale ed attesa) del business, elemento
+ 
+
+ fondamentale per l'accesso al credito; 
+ 
+
+ • dalla esistenza di adeguati incentivi. 
+ 
+
+ Come già detto, in mancanza di riferimenti certi in merito ai punti di cui sopra, per una valutazione dell'impatto sull'industria italiana è stato necessario riferirsi in questa fase: 
+ 
+
+ • a volumi "teorici" di domanda basati su scenari tanto
+ 
+
+ ragionevoli/credibili quanto per definizione ipotetici, 
+ 
+
+ • a parametri tecnici ed economici desunti dagli studi condotti in
+ 
+
+ questi anni in merito ai costi dell'uptake del GNL, 
+ 
+
+ • a moltiplicatori del reddito e dell'occupazione della
+ 
+
+ navalmeccanica nazionale anch'essi desunti dalla letteratura in materia. 
+ 
+
+ In tale quadro, il dimensionamento del mercato potenziale è stato effettuato prendendo a riferimento lo scenario "centrale" dello studio COSTA, che assume l'esistenza al 2030 di oltre 600 unità alimentate a GNL operanti nello "Short Sea Shipping" Europeo. 
+ 
+
+ Nell'ambito di detto ipotetico mercato di riferimento, la cantieristica nazionale non potrà che focalizzare la propria offerta sulle tipologie di navi che maggiormente si prestano per essere alimentate a GNL, per le quali essa dispone di competenze tecnologiche di primo livello: ci si riferisce segnatamente ai ferries, ai mezzi di supporto offshore ed in genere alle unità da lavoro in mare, nonchè alle unità di dimensioni medio-piccole per il bunkeraggio di GNL oltrechè, naturalmente, alle navi da crociera e militari. 
+ 
+
+ Con riferimento ai ferry, si sottolineano le opportunità collegate alla più volte segnalata obsolescenza delle unità operanti in Mediterraneo, in particolare della flotta greca e di quella di alcuni Paesi del nord-Africa, oltre a quelle più in generale offerte dall'armamento nordeuropeo e nord-americano. 
+ 
+
+ Alla luce di tali premesse ed assumendo prudenzialmente che la cantieristica nazionale possa acquisire il 10% dei volumi indicati dallo studio COSTA, ne deriverebbe un fabbisogno complessivo di 60 navi in 15 anni, pari a 4 navi in media per anno fra conversioni e nuove costruzioni. 
+ 
+
+ è opportuno considerare che il nostro Paese da una parte possiede la principale industria del trasporto marittimo a corto raggio in Europa, dall'altra dispone di un'industria cantieristica che si pone ai vertici mondiali nei segmenti di naviglio a maggiore complessità tecnologica .

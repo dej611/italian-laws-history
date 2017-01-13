@@ -1,0 +1,85 @@
+Allegato I 
+ 
+
+ 
+ 
+
+ (allegato II della direttiva 2014/94/UE) 
+ 
+
+ previsto dagli articoli 4, 5 e 6 
+ 
+
+ 
+ 
+
+ SPECIFICHE TECNICHE 
+ 
+
+ 
+ 
+
+ 1. Specifiche tecniche per i punti di ricarica 
+ 
+
+ 1.1. Punti di ricarica di potenza standard per veicoli a motore I punti di ricarica di potenza standard a corrente alternata (AC) per veicoli elettrici sono muniti, a fini di interoperabilità, almeno di prese fisse o connettori per veicoli del tipo 2, quali descritti nella norma EN62196-2. Mantenendo la compatibilità del tipo 2, tali prese fisse possono essere munite di dispositivi quali otturatori meccanici. 
+ 
+
+ 1.2. Punti di ricarica di potenza elevata per veicoli a motore 
+ 
+
+ I punti di ricarica di potenza elevata a corrente alternata (AC) per veicoli elettrici sono muniti, a fini di interoperabilità, almeno di connettori del tipo 2, quali descritti nella norma EN62196-2. I punti di ricarica di potenza elevata a corrente continua (DC) per veicoli elettrici sono muniti, a fini di interoperabilità, almeno di connettori del sistema di ricarica combinato &laquo;Combo 2&raquo;, quali descritti nella norma EN62196-3. 
+ 
+
+ 1.3. Punti di ricarica senza fili per veicoli a motore 
+ 
+
+ 1.4. Sostituzione di batterie per veicoli a motore 
+ 
+
+ 1.5. Punti di ricarica per veicoli a motore della categoria L 
+ 
+
+ 1.6. Punti di ricarica per autobus elettrici 
+ 
+
+ 1.7. Fornitura di elettricità lungo le coste destinata a navi adibite alla navigazione marittima 
+ 
+
+ Fornitura di elettricità lungo le coste destinata a navi adibite alla navigazione marittima, nonchè la progettazione, il montaggio e le prove dei sistemi, sono conformi alle specifiche tecniche della norma IEC/ISO/IEEE 80005-1. 
+ 
+
+ 1.8. Fornitura di elettricità lungo le coste destinata a navi adibite alla navigazione interna. 
+ 
+
+ 2. Specifiche tecniche dei punti di rifornimento di idrogeno per veicoli a motore 
+ 
+
+ 2.1. I punti di rifornimento di idrogeno in zone aperte che forniscono idrogeno allo stato gassoso usato come carburante nei veicoli a motore sono conformi alle specifiche tecniche della norma ISO/TS 20100 relativa all'idrogeno allo stato gassoso utilizzato come combustibile, e successive modifiche. 
+ 
+
+ 2.2. La purezza dell'idrogeno fornito nei punti di rifornimento è conforme alle specifiche tecniche della norma ISO 14687-2. 
+ 
+
+ 2.3. I punti di rifornimento di idrogeno utilizzano algoritmi per i carburanti e apparecchiature conformi alla norma ISO/TS 20100 relativa all'idrogeno allo stato gassoso utilizzato come combustibile. 
+ 
+
+ 2.4. I connettori per veicoli a motore per l'alimentazione con idrogeno allo stato gassoso sono conformi alla norma ISO 17268 relativa ai connettori per il rifornimento dei veicoli a motore alimentati con idrogeno allo stato gassoso. 
+ 
+
+ 3. Specifiche tecniche per i punti di rifornimento di gas naturale 
+ 
+
+ 3.1. Specifiche tecniche per i punti di rifornimento di GNL per navi adibite alla navigazione interna o navi adibite alla navigazione marittima 
+ 
+
+ 3.2. Specifiche tecniche per i punti di rifornimento di GNL per veicoli a motore 
+ 
+
+ 3.3. Specifiche tecniche per i connettori/serbatoi per GNC 
+ 
+
+ I connettori/serbatoi per GNC devono essere conformi al regolamento n. 110 dell'UNECE (che fa riferimento alle parti I e II della norma ISO 14469). 
+ 
+
+ 3.4. Specifiche tecniche per i punti di rifornimento di GNC per veicoli a motore adottate con atti delegati.
