@@ -371,6 +371,30 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((w-bis.1) &laquo;prodotto di investimento al dettaglio e assicurativo preassemblato&raquo; o &laquo;PRIIP&raquo;: un prodotto ai sensi all'articolo 4, numero 3), del regolamento (UE) n. 1286/2014;))
+
+ ((69))
+
+ ((w-bis.2) &laquo;prodotto d'investimento al dettaglio preassemblato&raquo; o &laquo;PRIP&raquo;: un investimento ai sensi dell'articolo 4, numero 1), del regolamento (UE) n. 1286/2014;))
+
+ ((69))
+
+ ((w-bis.3) &laquo;prodotto di investimento assicurativo&raquo;: un prodotto ai sensi dell'articolo 4, numero 2), del regolamento (UE) n. 1286/2014;))
+
+ ((69))
+
+ ((w-bis.4) &laquo;ideatore di prodotti d'investimento al dettaglio preassemblati e assicurativi&raquo; o &laquo;ideatore di PRIIP&raquo;: un soggetto di cui all'articolo 4, numero 4), del regolamento (UE) n. 1286/2014;))
+
+ ((69))
+
+ ((w-bis.5) &laquo;persona che vende un PRIIP&raquo;: un soggetto di cui all'articolo 4, numero 5), del regolamento (UE) n. 1286/2014;))
+
+ ((69))
+
+ ((w-bis.6) &laquo;investitore al dettaglio in PRIIP&raquo;: un cliente ai sensi dell'articolo 4, numero 6), del regolamento (UE) n. 1286/2014.))
+
+ ((69))
+
  
 
  
@@ -429,12 +453,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ w-septies) "depositari centrali di titoli": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli. 
+ 
 
- w-septies) "depositari centrali di titoli": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli.
-
- ))
-
+ 
  
 
  
@@ -871,4 +893,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- La L. 27 dicembre 2006, n. 296 come modificata dal D.L. 12 settembre 2014, n. 133, convertito con modificazioni dalla L. 11 novembre 2014, n. 164, ha disposto (con l'art. 1, comma 119-ter) che "Le SIIQ non costituiscono Organismi di investimento collettivo del risparmio di cui al decreto legislativo 24 febbraio 1998, n. 58".
+ La L. 27 dicembre 2006, n. 296 come modificata dal D.L. 12 settembre 2014, n. 133, convertito con modificazioni dalla L. 11 novembre 2014, n. 164, ha disposto (con l'art. 1, comma 119-ter) che "Le SIIQ non costituiscono Organismi di investimento collettivo del risparmio di cui al decreto legislativo 24 febbraio 1998, n. 58". 
+ 
+
+ 
+
+ 
+ ------------
+
+ AGGIORNAMENTO (69)
+
+ 
+ 
+
+ Il D.Lgs. 14 novembre 2016, n. 224 ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dalla data di applicazione del regolamento (UE) n. 1286/2014.

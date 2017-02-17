@@ -1,0 +1,338 @@
+((Allegato))
+
+ 
+ ((METODOLOGIE DI CALCOLO
+ 
+
+ 
+ 
+
+ In caso di applicazione della misura di ripartizione degli oneri
+ 
+
+ prevista dall'articolo 22, comma 2
+ 
+
+ 
+ 
+
+ A) Numero di azioni attribuite ai portatori degli strumenti di
+ 
+
+ capitale aggiuntivo di classe 1, degli elementi di classe 2 e degli
+ 
+
+ altri strumenti e prestiti subordinati
+ 
+
+ Il numero di azioni ordinarie attribuite ai portatori degli strumenti di capitale aggiuntivo di classe 1 (AT1), degli elementi di classe 2 e degli altri strumenti e prestiti subordinati (T2), in caso di
+ 
+
+ conversione, è determinato secondo le seguenti formule:
+ 
+
+ 
+ 
+
+ 
+ VSAT1
+ 
+
+ 
+ NAZNSAT1 = -----
+ 
+
+ 
+ PAZN
+ 
+
+ 
+ 
+
+ 
+ VET2
+ 
+
+ 
+ NAZNET2 = ----
+ 
+
+ 
+ PAZN
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ NAZV * PAZV - (NAZV * PAZV + VCSAT1 + VCET2 + AUCAPMEF) * K
+ 
+
+ 
+ PAZN = -----------------------------------------------------------
+ 
+
+ 
+ NAZV
+ 
+
+ dove:
+ 
+
+ NAZNSAT1 = numero nuove azioni ordinarie assegnate ai portatori di
+ 
+
+ strumenti AT1
+ 
+
+ NAZNET2 = numero nuove azioni ordinarie assegnate ai portatori di
+ 
+
+ strumenti T2
+ 
+
+ VSAT1 = valore degli strumenti AT1 da convertire determinato secondo quanto previsto dall'articolo 15, commi 1, lettera c), e 2, lettera a), del decreto legge
+ 
+
+ VET2 = valore degli strumenti T2 da convertire determinato secondo
+ 
+
+ quanto previsto dall'articolo 15, commi 1, lettera c), e 2,lettera
+ 
+
+ a), del decreto legge
+ 
+
+ VCSAT1 = valore contabile degli strumenti AT1 da convertire fornito
+ 
+
+ dall'Emittente ai sensi dell'articolo 15, comma 1, lettera c), del
+ 
+
+ decreto legge
+ 
+
+ VCET2 = valore contabile degli strumenti T2 da convertire fornito
+ 
+
+ dall'Emittente ai sensi dell'articolo 15, comma 1, lettera c), del
+ 
+
+ decreto legge
+ 
+
+ AUCAPMEF = aumento di capitale sottoscritto dal Ministero
+ 
+
+ PAZN = prezzo delle azioni ordinarie di nuova emissione
+ 
+
+ NAZV = numero delle azioni ordinarie in circolazione prima
+ 
+
+ dell'aumento di capitale previsto dall'articolo 18 del decreto legge PAZV = valore delle azioni ordinarie determinato secondo quanto
+ 
+
+ previsto dagli articoli 15, comma 2, lettera c) e 18, comma 4
+ 
+
+ K = 15%
+ 
+
+ Se per effetto dell'applicazione del fattore di sconto il valore di
+ 
+
+ PAZN è negativo, PAZN 50%*PAZV
+ 
+
+ 
+ 
+
+ 
+ 
+
+ B) Numero delle azioni di nuova emissione attribuite al Ministero
+ 
+
+ 
+ 
+
+ Il numero di azioni ordinarie di nuova emissione attribuite al
+ 
+
+ MInistero e il prezzo di sottoscrizione sono determinati secondo le
+ 
+
+ seguenti formule:
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ AUCAPMEF
+ 
+
+ 
+ NAZNMEF = --------
+ 
+
+ 
+ PAZNMEF
+ 
+
+ 
+ 
+
+ 
+ PAZNMEF=PAZN*(1-W)
+ 
+
+ 
+ 
+
+ dove:
+ 
+
+ NAZNMEF = numero nuove azioni ordinarie assegnate al Ministero
+ 
+
+ 
+ 
+
+ PAZNMEF = prezzo delle azioni di nuova emissione sottoscritte dal
+ 
+
+ Ministero
+ 
+
+ 
+ 
+
+ W=25%
+ 
+
+ 
+ 
+
+ In caso di disapplicazione della misura di ripartizione degli oneri
+ 
+
+ prevista dall'articolo 22, comma 2 (cfr. articolo 22, comma 7 del
+ 
+
+ decreto legge)
+ 
+
+ 
+ 
+
+ Numero e prezzo di sottoscrizione delle azioni di nuova emissione
+ 
+
+ attribuite al Ministero
+ 
+
+ 
+ 
+
+ Il numero di azioni ordinarie di nuova emissione attribuite al
+ 
+
+ Ministero e il prezzo di sottoscrizione sono determinati secondo le
+ 
+
+ seguenti formule:
+ 
+
+ 
+ 
+
+ 
+ AUCAPMEF
+ 
+
+ 
+ NAZNMEF = --------
+ 
+
+ 
+ PAZNMEF
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ NAZV * PAZV - (NAZV * PAZV + AUCAPMEF) * Z
+ 
+
+ 
+ PAZNMEF = ------------------------------------------ * (1-W)
+ 
+
+ 
+ NAZV
+ 
+
+ 
+ 
+
+ dove:
+ 
+
+ NAZNMEF = numero nuove azioni ordinarie assegnate al Ministero
+ 
+
+ 
+ 
+
+ AUCAPMEF = aumento di capitale sottoscritto dal Ministero
+ 
+
+ 
+ 
+
+ PAZNMEF = prezzo delle azioni ordinarie di nuova emissione assegnate al Ministero
+ 
+
+ 
+ 
+
+ NAZV = numero delle azioni ordinarie in circolazione prima
+ 
+
+ dell'aumento di capitale previsto dall'articolo 18 del decreto legge 
+ 
+
+ PAZV = valore delle azioni ordinarie determinato secondo quanto previsto dagli articoli 15, comma 2, lettera c) e 18, comma 4
+ 
+
+ 
+ 
+
+ Z = 15%
+ 
+
+ 
+ 
+
+ W = 25%
+ 
+
+ 
+ 
+
+ Se per effetto dell'applicazione del fattore di sconto Z il valore
+ 
+
+ di PAZNMEF è negativo, PAZNMEF = 37,5%*PAZV))

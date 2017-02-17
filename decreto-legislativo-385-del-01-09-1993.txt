@@ -41,9 +41,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Sulla
+ 
+ Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
- proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali; EMANA il seguente decreto legislativo:
+ 
+
+ EMANA
+
+ il seguente decreto legislativo:
 
  Art. 1
 
@@ -67,12 +72,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione; 
+ 
 
- a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione;
-
- ))
-
+ 
  
 
  
@@ -111,6 +114,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ 
+ e-bis) "MVU" indica il Meccanismo di vigilanza unica, ossia il sistema di vigilanza finanziaria composto dalla BCE e dalle autorità nazionali competenti degli Stati membri che vi partecipano; 
+ 
+
+ 
+ 
+
+ e-ter) "Disposizioni del MVU" indica il regolamento (UE) n. 1024/2013 e le relative misure di esecuzione;
+
+ ))
+
+ 
+
+ 
  f) LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72; 
  
 
@@ -139,12 +158,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ h) &laquo;Stato terzo&raquo; indica lo Stato non membro dell'Unione europea; 
+ 
 
- h) &laquo;Stato terzo&raquo; indica lo Stato non membro dell'Unione europea;
-
- ))
-
+ 
  
 
  
@@ -170,6 +187,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ h-ter) "Stato partecipante al MVU" indica uno Stato comunitario la cui moneta è l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU;
+
+ ))
+
  
 
  
@@ -214,20 +240,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) "banca extracomunitaria": la banca avente sede legale in uno Stato 
- ((terzo))
-
- ; 
+ c) "banca extracomunitaria": la banca avente sede legale in uno Stato terzo; 
  
 
  
  
 
  
- d) "banche autorizzate in Italia": le banche italiane e le succursali in Italia di banche extracomunitarie; 
+ ((
+
+ 
+ d) "soggetto significativo": i soggetti definiti dall'articolo 2, n. 16, del regolamento (UE) n. 468/2014, sui quali la BCE esercita la vigilanza diretta in conformità delle disposizioni del MVU; 
  
 
  
+ 
+
+ d-bis) "soggetto meno significativo": i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d);
+
+ ))
+
  
 
  
