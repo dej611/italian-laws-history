@@ -1,0 +1,58 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ (articolo 5) 
+ 
+
+ 
+ 
+
+ Calcolo delle garanzie prestate dai sistemi di gestione individuali dei RAEE domestici 
+ 
+
+ 
+ 
+
+ 1. Il calcolo della garanzia finanziaria, di cui all'articolo 5, avviene secondo la seguente formula: 
+ 
+
+ Garanzia SID [euro] = PPD [kg] &times; CGSID [euro/kg] &times; CRSID [%] 
+ 
+
+ dove: 
+ 
+
+ Garanzia SID (Sistema Individuale Domestico): garanzia prestata dal sistema di gestione individuale dei RAEE provenienti dai nuclei domestici, espressa in euro; 
+ 
+
+ PPD: peso delle AEE per uso domestico presenti sul mercato, espresso in chilogrammi; 
+ 
+
+ CGSID: costo standard atteso delle operazioni di gestione dei RAEE provenienti dai nuclei domestici, espresso in euro a chilogrammo; 
+ 
+
+ CRSID: coefficiente di rischio riferito al sistema individuale di gestione dei RAEE provenienti dai nuclei domestici, espresso in percentuale. 
+ 
+
+ 2. Le AEE ad uso domestico presenti sul mercato corrispondono alla somma dei quantitativi immessi annualmente dal produttore, a far data dal primo anno di prestazione della garanzia, a cui va sottratta la somma dei quantitativi dei RAEE gestiti annualmente dal sistema individuale. 
+ 
+
+ 3. Il coefficiente di rischio è definito sulla base dei seguenti criteri: 
+ 
+
+ solidità patrimoniale del sistema individuale che immette sul mercato le AEE per uso domestico; 
+ 
+
+ quantitativi di AEE ad uso domestico immessi sul mercato. 
+ 
+
+ 4. L'ammontare della garanzia finanziaria è ridotto del: 
+ 
+
+ a) 50% per le imprese registrate ai sensi del regolamento CE n. 1221/2009 del Parlamento europeo e del Consiglio, del 25 novembre 2009 (EMAS); 
+ 
+
+ b) 40% nel caso di imprese in possesso della certificazione ambientale UNI EN ISO 14001, rilasciata da organismo accreditato ai sensi della normativa vigente.
