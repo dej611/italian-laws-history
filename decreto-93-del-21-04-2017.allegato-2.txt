@@ -1,0 +1,52 @@
+Allegato II 
+ 
+
+ 
+ 
+
+ (art. 5, comma 3) 
+ 
+
+ 
+ 
+
+ Procedure per la verificazione periodica e i controlli casuali 
+ 
+
+ 1. Generalità 
+ 
+
+ 1.1 Le procedure da seguire nella verificazione periodica e nei controlli casuali degli strumenti di misura sono rivolte ad accertare la presenza dei bolli di verificazione prima nazionale o di quella CEE/CE o della marcatura CE e il rispetto degli errori massimi tollerati, escludendosi qualsiasi operazione che comporti l'alterazione dei parametri di lavoro, lo smontaggio di componenti e la rimozione o aggiunta di sigilli rispetto a quelli previsti nelle approvazioni di modello o di progetto. 
+ 
+
+ 1.2 Gli strumenti utilizzati per l'esecuzione della verificazione periodica e dei controlli casuali non devono essere affetti da un errore superiore a 1/3 dell'errore massimo tollerato per la grandezza che si sta misurando e l'incertezza estesa con cui è stato determinato l'errore dello strumento non deve superare 1/3 dell'errore misurato. 
+ 
+
+ 1.3 Gli strumenti di cui al punto 1.2 precedente sono muniti di certificato di taratura rilasciato da laboratori accreditati da enti designati ai sensi del regolamento (CE) n.765/2008 del Parlamento europeo e del Consiglio, per la grandezza e il campo di misura che gli strumenti sono destinati a misurare e la periodicità di tale taratura è riportata nell'allegato IV. 
+ 
+
+ 1.4 Deroghe al certificato di taratura rilasciato da laboratori accreditati da enti designati ai sensi del regolamento (CE) n. 765/2008, oltre quelle già previste nelle schede di cui all'allegato III, possono essere autorizzate con provvedimento del Ministero dello sviluppo economico per strumenti utilizzati nella verificazione periodica di particolari tipologie di strumenti o di ausilio per eseguire detta verificazione. 
+ 
+
+ 1.5 Qualora la verificazione dello strumento in servizio viene effettuata con uno strumento di controllo (master meter), fatte salve le specifiche deroghe previste dal presente regolamento, lo strumento di controllo deve rispettare i requisiti di cui ai punti 1.2 e 1.3 precedenti, per la grandezza ed il campo di misura che lo strumento è destinato a misurare. 
+ 
+
+ 1.6 In alternativa allo strumento di controllo (master meter) possono essere utilizzati per la verificazione anche sistemi di misura equivalenti i quali rispettano i requisiti dei punti 1.2 e 1.3. 
+ 
+
+ 1.7 Gli strumenti e le apparecchiature necessari per le funzioni da svolgere sono nella disponibilità materiale dell'organismo che svolge la verifica, anche per mezzo di comodato d'uso ovvero secondo altre forme che ne assicurino l'effettiva disponibilità. 
+ 
+
+ 1.8 In deroga al punto 1.2, i campioni di prima linea (di riferimento), i campioni di lavoro e gli strumenti di controllo (master meters) utilizzati ai fini dell'esecuzione della verificazione periodica e dei controlli casuali dei sistemi di misurazione su condotta e dei sistemi di misurazione per liquidi criogenici sono inseriti in un sistema pianificato di controllo del rispetto degli errori e delle incertezze. In particolare il citato sistema pianificato ha una cadenza di certificazione di taratura biennale per i campioni di prima linea, eseguita da laboratori accreditati da enti designati ai sensi del regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio mentre per quelli di lavoro, la cadenza dei controlli è annuale. I campioni di prima linea e i campioni da lavoro hanno errore e incertezza estesa di taratura singolarmente non maggiori di un terzo dell'errore massimo tollerato previsto nelle prove da eseguirsi nei controlli.
+ 
+
+ L'incertezza estesa è calcolata con un fattore di copertura k = 2 includendo l'incertezza di taratura dei campioni di misura, l'incertezza delle operazioni di taratura e l'incertezza del campione oggetto della taratura. Dette prescrizioni si applicano anche alle misure di capacità ≥ 1000 L qualora utilizzate nei controlli di cui
+ 
+
+ all'art. 3. 
+ 
+
+ 1.9 In caso di esito negativo della verificazione periodica l'operatore dell'organismo appone sullo strumento il contrassegno di cui all'allegato VI, punto 2, ove è riportato il logo recante gli elementi identificativi dell'organismo che lo appone e la data. Il contrassegno è rimosso all'atto della riparazione o della nuova richiesta di verificazione periodica o della verificazione stessa. 
+ 
+
+ 1.10 Le procedure di verifica di alcune tipologie di strumenti di misura sono riportate nelle schede di cui all'allegato III; per le altre tipologie di strumenti, nelle more dell'adozione delle direttive di cui al comma 4 dell'art. 3, la verificazione periodica e i controlli in genere sono eseguiti tenendo presenti i principi, in quanto applicabili, dalle prescrizioni previste in materia di verificazione dalle norme nazionali, dalle norme europee e dalle pertinenti norme armonizzate europee o, in loro assenza, dalle relative raccomandazioni OIML. Si applicano inoltre le eventuali procedure specificamente previste per controlli analoghi dalle relative approvazioni di modello nazionali e europee o dai relativi attestati di esame CE del tipo o di progetto.
