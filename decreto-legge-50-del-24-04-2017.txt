@@ -53,7 +53,10 @@ Visti gli articoli 77 e 87 della Costituzione;
  
 
  
- a) il comma 1 è sostituito dal seguente: "1. Per le cessioni di beni e per le prestazioni di servizi effettuate nei confronti della Pubblica Amministrazione, come definita dall'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e successive modificazioni e integrazioni, per le quali i cessionari o committenti non sono debitori d'imposta ai sensi delle disposizioni in materia d'imposta sul valore aggiunto, l'imposta è in ogni caso versata dai medesimi secondo modalità e termini fissati con decreto del Ministro dell'economia e delle finanze."; 
+ a) il comma 1 è sostituito dal seguente: "1. Per le cessioni di beni e per le prestazioni di servizi effettuate nei confronti 
+ ((di amministrazioni pubbliche, come definite))
+
+ dall'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e successive modificazioni e integrazioni, per le quali i cessionari o committenti non sono debitori d'imposta ai sensi delle disposizioni in materia d'imposta sul valore aggiunto, l'imposta è in ogni caso versata dai medesimi secondo modalità e termini fissati con decreto del Ministro dell'economia e delle finanze."; 
  
 
  
@@ -75,7 +78,18 @@ Visti gli articoli 77 e 87 della Costituzione;
  d) società quotate inserite nell'indice FTSE MIB della Borsa italiana; con il decreto del Ministro dell'economia e delle finanze di cui al comma 1 può essere individuato un indice alternativo di riferimento per il mercato azionario. 
  
 
- 1-ter. Le disposizioni del presente articolo si applicano fino al termine di scadenza della misura speciale di deroga rilasciata dal Consiglio dell'Unione europea ai sensi dell'articolo 395 della direttiva 2006/112/CE."; 
+ 1-ter. Le disposizioni del presente articolo si applicano fino al termine di scadenza della misura speciale di deroga rilasciata dal Consiglio dell'Unione europea ai sensi dell'articolo 395 della direttiva 2006/112/CE. 
+ 
+
+ 
+ 
+ ((1-quater. A richiesta dei cedenti o prestatori, i cessionari o i committenti di cui ai commi 1 e 1-bis devono rilasciare un documento attestante la loro riconducibilità a soggetti per i quali si applicano le disposizioni del presente articolo. I cedenti e prestatori in possesso di tale attestazione sono tenuti all'applicazione del regime di cui al presente articolo. 
+ 
+
+ 1-quinquies. Le disposizioni di cui al presente articolo non si applicano agli enti pubblici gestori di demanio collettivo, limitatamente alle cessioni di beni e alle prestazioni di servizi afferenti alla gestione dei diritti collettivi di uso civico))
+ 
+
+ ";. 
  
 
  
@@ -86,6 +100,11 @@ Visti gli articoli 77 e 87 della Costituzione;
  
 
  
+ 
+
+ 
+ ((c-bis) la rubrica è sostituita dalla seguente: "Operazioni effettuate nei confronti di pubbliche amministrazioni e altri enti e società"))
+
  
 
  
@@ -101,7 +120,10 @@ Visti gli articoli 77 e 87 della Costituzione;
  
 
  
- 3. Con decreto del Ministro dell'economia e delle finanze, da emanarsi entro trenta giorni dall'entrata in vigore del presente decreto, sono stabilite le disposizioni di attuazione del presente articolo. 
+ 3. Con decreto del Ministro dell'economia e delle finanze, da emanarsi entro trenta giorni dall'entrata in vigore del presente decreto, sono stabilite 
+ ((le modalità di attuazione delle norme di cui ai commi 1 e 2))
+
+ . 
  
 
  
@@ -109,4 +131,41 @@ Visti gli articoli 77 e 87 della Costituzione;
  
 
  
- 4. Le disposizioni del presente articolo si applicano alle operazioni per le quali è emessa fattura a partire dal 1° luglio 2017.
+ 4. Le disposizioni del presente articolo si applicano alle operazioni per le quali è emessa fattura a partire dal 1° luglio 2017. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 4-bis. A decorrere dal 1° gennaio 2018 i rimborsi da conto fiscale di cui all'articolo 78 della legge 30 dicembre 1991, n. 413, sono pagati direttamente ai contribuenti dalla struttura di gestione prevista dall'articolo 22, comma 3, del decreto legislativo 9 luglio 1997, n. 241, a valere sulle risorse finanziarie disponibili sulla contabilità speciale n. 1778 "Agenzia delle entrate - Fondi di bilancio". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-ter. Con decreto del Ministero dell'economia e delle finanze, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono disciplinate le modalità di attuazione del comma 4-bis. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-quater. Le disposizioni di cui all'articolo 12 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, si interpretano nel senso che esse si applicano alle prestazioni di trasporto di veicoli al seguito di passeggeri in quanto accessorie rispetto alle prestazioni principali di trasporto di persone, assoggettate all'imposta sul valore aggiunto con le aliquote ridotte del 5 e del 10 per cento, ai sensi del numero 1-ter) della parte II-bis della tabella A e del numero 127-novies) della parte III della tabella A allegata al citato decreto del Presidente della Repubblica n. 633 del 1972, nonchè, fino al 31 dicembre 2016, esenti dall'imposta ai sensi dell'articolo 10, primo comma, numero 14), del medesimo decreto del Presidente della Repubblica n. 633 del 1972. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-quinquies. Il Ministro dell'economia e delle finanze, con proprio decreto, da emanare entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, estende l'ambito di applicazione del decreto del Ministro dell'economia e delle finanze 22 dicembre 2005, pubblicato nella Gazzetta Ufficiale n. 304 del 31 dicembre 2005, anche al settore dei combustibili per autotrazione, in applicazione dell'articolo 60-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633))
