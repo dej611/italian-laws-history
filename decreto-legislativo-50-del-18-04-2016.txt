@@ -57,7 +57,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- VISTA la legge 28 gennaio 2016, n. 11, recante: "Deleghe al Governo ((per l'attuazione delle direttive)) 2014/23/UE, 2014/24/UE e 2014/25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, sull'aggiudicazione dei contratti di concessione, sugli appalti pubblici e sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali, nonchè per il riordino della disciplina vigente in materia di contratti pubblici relativi a lavori, servizi e forniture";
+ VISTA la legge 28 gennaio 2016, n. 11, recante: "Deleghe al Governo per l'attuazione delle direttive 2014/23/UE, 2014/24/UE e 2014/25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, sull'aggiudicazione dei contratti di concessione, sugli appalti pubblici e sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali, nonchè per il riordino della disciplina vigente in materia di contratti pubblici relativi a lavori, servizi e forniture";
 
  
  
@@ -225,10 +225,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  e)lavori pubblici da realizzarsi da parte di soggetti privati, titolari di permesso di costruire o di un altro titolo abilitativo, che assumono in via diretta l'esecuzione delle opere di urbanizzazione a scomputo totale o parziale del contributo previsto per il rilascio del permesso, ai sensi dell'articolo 16, comma 2, del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, e dell'articolo 28, comma 5, della legge 17 agosto 1942, n. 1150, ovvero eseguono le relative opere in regime di convenzione.
  
 
- L'amministrazione che rilascia il permesso di costruire o altro titolo abilitativo, può prevedere che, in relazione alla realizzazione delle opere di urbanizzazione, l'avente diritto a richiedere il titolo presenti all'amministrazione stessa, in sede di richiesta del suddetto titolo, un progetto di fattibilità tecnica ed economica delle opere da eseguire, con l'indicazione del tempo massimo in cui devono essere completate, allegando lo schema del relativo contratto di appalto. L'amministrazione, sulla base del progetto di fattibilità tecnica ed economica, indice una gara con le modalità previste dall'articolo 60 o 61. Oggetto del contratto, previa acquisizione del progetto definitivo in sede di offerta, sono la progettazione esecutiva 
- ((e l'esecuzione di lavori.))
-
- L'offerta relativa al prezzo indica distintamente il corrispettivo richiesto per la progettazione esecutiva, per l'esecuzione dei lavori e per i costi della sicurezza. 
+ L'amministrazione che rilascia il permesso di costruire o altro titolo abilitativo, può prevedere che, in relazione alla realizzazione delle opere di urbanizzazione, l'avente diritto a richiedere il titolo presenti all'amministrazione stessa, in sede di richiesta del suddetto titolo, un progetto di fattibilità tecnica ed economica delle opere da eseguire, con l'indicazione del tempo massimo in cui devono essere completate, allegando lo schema del relativo contratto di appalto. L'amministrazione, sulla base del progetto di fattibilità tecnica ed economica, indice una gara con le modalità previste dall'articolo 60 o 61. Oggetto del contratto, previa acquisizione del progetto definitivo in sede di offerta, sono la progettazione esecutiva e l'esecuzione di lavori. L'offerta relativa al prezzo indica distintamente il corrispettivo richiesto per la progettazione esecutiva, per l'esecuzione dei lavori e per i costi della sicurezza. 
  
 
  
@@ -290,11 +287,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Il Ministro degli affari esteri e della cooperazione internazionale adotta, previo accordo con l'ANAC, direttive generali per disciplinare le procedure di scelta del contraente e l'esecuzione del contratto da svolgersi all'estero, tenuto conto dei principi fondamentali del presente codice e delle procedure applicate dall'Unione europea e dalle organizzazioni internazionali di cui l'Italia è parte. Resta ferma l'applicazione del presente codice alle procedure di affidamento svolte in Italia. Fino all'adozione delle direttive generali di cui al presente comma, si applica l'articolo 216, 
- ((comma 26.))
-
- 
+ 7. Il Ministro degli affari esteri e della cooperazione internazionale adotta, previo accordo con l'ANAC, direttive generali per disciplinare le procedure di scelta del contraente e l'esecuzione del contratto da svolgersi all'estero, tenuto conto dei principi fondamentali del presente codice e delle procedure applicate dall'Unione europea e dalle organizzazioni internazionali di cui l'Italia è parte. Resta ferma l'applicazione del presente codice alle procedure di affidamento svolte in Italia. Fino all'adozione delle direttive generali di cui al presente comma, si applica l'articolo 216, comma 26. 
  
 
  
- 8. I riferimenti a nomenclature nel contesto degli appalti pubblici e nel contesto dell'aggiudicazione di concessioni sono effettuati utilizzando il &laquo;Vocabolario comune per gli appalti pubblici&raquo; (CPV) adottato dal regolamento (CE) n. 2195/2002 del Parlamento europeo e del Consiglio.
+ 
+ 
+
+ 
+ 8. I riferimenti a nomenclature nel contesto degli appalti pubblici e nel contesto dell'aggiudicazione di concessioni sono effettuati utilizzando il &laquo;Vocabolario comune per gli appalti pubblici&raquo; (CPV) 
+ (( di cui all'articolo 3, comma 1, lettera tttt) ))
+
+ .
