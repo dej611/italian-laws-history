@@ -186,171 +186,460 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
 
- 
- Sulla proposta del Ministro per le politiche europee e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e dell'interno;
+ Sulla
 
- 
-
- Emana
-
- il seguente decreto legislativo:
+ proposta del Ministro per le politiche europee e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e dell'interno; Emana il seguente decreto legislativo:
 
  Art. 1
 
- Definizioni
+ 
+ (( (Definizioni). ))
 
- 
- 
- 
- 
- 1. Nel presente decreto legislativo l'espressione: 
  
 
  
  
-
- 
- a) "codice in materia di protezione dei dati personali" indica il decreto legislativo 30 giugno 2003, n. 196; 
- 
-
- 
- 
-
- 
- b) "CONSOB" indica la Commissione nazionale per la società e la borsa; 
- 
-
- 
- 
-
- 
- c) "CAP" indica il decreto legislativo 7 settembre 2005, n. 209, recante il codice delle assicurazioni private; 
- 
-
- 
- 
-
- 
- d) "DIA" indica la Direzione investigativa antimafia; 
- 
-
- 
- 
-
- 
- e) "direttiva" indica la direttiva 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005; 
- 
-
- 
- 
-
- 
- f) "GAFI" indica il Gruppo di azione finanziaria internazionale; 
- 
-
- 
- 
-
- 
- g) "ISVAP" indica l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
- 
-
- 
- 
-
  
  ((
-
- 
- g-bis) "Autorità di vigilanza europee" indica: 
- 
-
- 1) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
- 
-
- 2) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
- 
-
- 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010;
- 
-
- ))
-
  
 
  
- h) "Stato comunitario" indica lo Stato membro dell'Unione europea; 
+ 
+ 
+ 1. Nel presente decreto legislativo: 
  
 
  
  
 
  
- i) "Stato extracomunitario" indica lo Stato non appartenente all'Unione europea; 
+ a) Autorità di vigilanza europee indica: 
+ 
+
+ 1) ABE: Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 
+
+ 2) AEAP: Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 
+
+ 3) AESFEM: Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  
  
 
  
- l) "TUB" indica il testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385"; 
+ b) CAP: indica il decreto legislativo 7 settembre 2005, n. 209, recante il codice delle assicurazioni private; 
  
 
- m) "TUF" indica il testo unico in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+ 
  
 
- n) "TULPS" indica il testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773; 
+ 
+ c) Codice dei contratti pubblici: indica il decreto legislativo 18 aprile 2016, n. 50, recante il codice dei contratti pubblici; 
  
 
- o) "TUV" indica il testo unico delle norme in materia valutaria, di cui al decreto del Presidente della Repubblica 31 marzo 1988, n. 148. 
+ 
  
 
- 2. Nel presente decreto legislativo si intendono per: 
+ 
+ d) Codice in materia di protezione dei dati personali: indica il decreto legislativo 30 giugno 2003, n. 196; 
  
 
- a) "amministrazioni interessate": le autorità e le amministrazioni competenti al rilascio delle autorizzazioni o licenze, alla ricezione delle dichiarazioni di inizio attività di cui all'articolo 10, comma 2, lettera e), e all'articolo 14 o che esercitano la vigilanza sui soggetti indicati negli articoli 12, comma 1, lettere a) e c), e 13, comma 1, lettera b); 
+ 
  
 
- b) "archivio unico informatico": un archivio, formato e gestito a mezzo di sistemi informatici, nel quale sono conservate in modo accentrato tutte le informazioni acquisite nell'adempimento degli obblighi di identificazione e registrazione, secondo i principi previsti nel presente decreto; 
+ 
+ e) CONSOB: indica la Commissione nazionale per le società e la borsa; 
  
 
- c) "autorità di vigilanza di settore": le autorità preposte, ai sensi della normativa vigente, alla vigilanza o al controllo dei soggetti indicati agli articoli 10, comma 2, dalla lettera a) alla lettera d), 11 e 13, comma 1, lettera a); 
+ 
  
 
- d) "banca di comodo": una banca, o un ente che svolge attività equivalenti, costituita in un Paese in cui non ha alcuna presenza fisica, che consenta di esercitare una direzione e una gestione effettive e che non sia collegata ad alcun gruppo finanziario regolamentato; 
+ 
+ f) Comitato di sicurezza finanziaria: indica il Comitato di sicurezza finanziaria istituito, con decreto-legge 12 ottobre 2001, n. 369, convertito, con modificazioni, dalla legge 14 dicembre 2001, n. 431, e disciplinato con il decreto legislativo 22 giugno 2007, n. 109, in ottemperanza agli obblighi internazionali assunti dall'Italia nella strategia di contrasto al riciclaggio, al finanziamento del terrorismo e della proliferazione delle armi di distruzione di massa ed all'attività di Paesi che minacciano la pace e la sicurezza internazionale, anche al fine di dare attuazione alle misure di congelamento disposte dalle Nazioni unite e dall'Unione europea; 
  
 
- e) "cliente": il soggetto che instaura rapporti continuativi o compie operazioni con i destinatari indicati agli articoli 11 e 14, ovvero il soggetto al quale i destinatari indicati agli articoli 12 e 13 rendono una prestazione professionale in seguito al conferimento di un incarico; 
+ 
  
 
- e-bis) "conti correnti di corrispondenza": conti tenuti dalle banche, tradizionalmente su base bilaterale, per il regolamento dei servizi interbancari (rimesse di effetti, assegni circolari e bancari, ordini di versamento, giri di fondi, rimesse documentate e altre operazioni); 
+ 
+ g) decreto relativo ai servizi di pagamento: indica il decreto legislativo 27 gennaio 2010, n. 11, recante attuazione della direttiva 2007/64/CE, relativa ai servizi di pagamento nel mercato interno, recante modifica delle direttive 97/7/CE, 2002/65/CE, 2005/60/CE, 2006/48/CE, e che abroga la direttiva 97/5/CE; 
  
 
- f) "conti di passaggio": rapporti bancari di corrispondenza transfrontalieri, intrattenuti tra intermediari finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela; 
+ 
  
 
- g) "dati identificativi": il nome e il cognome, il luogo e la data di nascita, l'indirizzo, il codice fiscale e gli estremi del documento di identificazione o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e il codice fiscale o, per le persone giuridiche, la partita IVA; 
+ 
+ h) DIA: indica la Direzione investigativa antimafia; 
  
 
- h) "insediamento fisico": un luogo destinato allo svolgimento dell'attività di istituto, con stabile indirizzo, diverso da un semplice indirizzo elettronico, in un Paese nel quale il soggetto è autorizzato a svolgere la propria attività. In tale luogo il soggetto deve impiegare una o più persone a tempo pieno, deve mantenere evidenze relative all'attività svolta, deve essere soggetto ai controlli effettuati dall'autorità che ha rilasciato l'autorizzazione a operare; 
+ 
  
 
- i) "mezzi di pagamento": il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni a essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, le polizze assicurative trasferibili, le polizze di pegno e ogni altro strumento a disposizione che permetta di trasferire, movimentare o acquisire, anche per via telematica, fondi, valori o disponibilità finanziarie; 
+ 
+ i) DNA: indica la Direzione nazionale antimafia e antiterrorismo; 
  
 
- l) "operazione": la trasmissione o la movimentazione di mezzi di pagamento; per i soggetti di cui all'articolo 12, un'attività determinata o determinabile, finalizzata a un obiettivo di natura finanziaria o patrimoniale modificativo della situazione giuridica esistente, da realizzare tramite una prestazione professionale; 
+ 
  
 
- m) "operazione frazionata": un'operazione unitaria sotto il profilo economico, di valore pari o superiore ai limiti stabiliti dal presente decreto, posta in essere attraverso più operazioni, singolarmente inferiori ai predetti limiti, effettuate in momenti diversi ed in un circoscritto periodo di tempo fissato in sette giorni ferma restando la sussistenza dell'operazione frazionata quando ricorrano elementi per ritenerla tale; 
+ 
+ l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione; 
  
 
- n) LETTERA SOPPRESSA DAL D.LGS. 25 SETTEMBRE 2009, N. 151; 
+ 
  
 
- o) "persone politicamente esposte": le persone fisiche residenti in altri Stati comunitari o in Stati extracomunitari, che occupano o hanno occupato importanti cariche pubbliche, nonchè i loro familiari diretti o coloro con i quali tali persone intrattengono notoriamente stretti legami, individuate sulla base dei criteri di cui all'allegato tecnico al presente decreto; 
+ 
+ m) FIU: indica le Financial intelligence unit di cui all'articolo 32 della direttiva; 
  
 
- p) "prestatori di servizi relativi a società e trust": ogni persona fisica o giuridica che fornisca, a titolo professionale, uno dei servizi seguenti a terzi: 
+ 
+ 
+
+ 
+ n) GAFI: indica il Gruppo di azione finanziaria internazionale; 
+ 
+
+ 
+ 
+
+ 
+ o) IVASS: indica l'Istituto per la vigilanza sulle assicurazioni; 
+ 
+
+ 
+ 
+
+ 
+ p) NSPV: indica il Nucleo speciale di polizia valutaria della Guardia di finanza; 
+ 
+
+ 
+ 
+
+ 
+ q) OAM: indica l'Organismo per la gestione degli elenchi degli agenti in attività finanziaria e dei mediatori creditizi, ai sensi dell'articolo 128-undecies TUB; 
+ 
+
+ 
+ 
+
+ 
+ r) OCF: indica l'organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 1, comma 36 della legge 28 dicembre 2015, n. 208; 
+ 
+
+ 
+ 
+
+ 
+ s) Stato membro: indica lo Stato appartenente all'Unione europea; 
+ 
+
+ 
+ 
+
+ 
+ t) Stato terzo: indica lo Stato non appartenente all'Unione europea; 
+ 
+
+ 
+ 
+
+ 
+ u) TUB: indica il testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385; 
+ 
+
+ 
+ 
+
+ 
+ v) TUF: indica il testo unico in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+ 
+
+ 
+ 
+
+ 
+ z) TULPS: indica il testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773; 
+ 
+
+ 
+ 
+
+ 
+ aa) UIF: indica l'Unità di informazione finanziaria per l'Italia. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 2. Nel presente decreto s'intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) Amministrazioni e organismi interessati: gli enti preposti alla supervisione dei soggetti obbligati non vigilati dalle autorità di vigilanza di settore, per tali intendendosi le amministrazioni, ivi comprese le agenzie fiscali, titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore. Per le esclusive finalità di cui al presente decreto rientrano nella definizione di amministrazione interessata il Ministero dell'economia e delle finanze quale autorità preposta alla sorveglianza dei revisori legali e delle società di revisione legale senza incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, il Ministero dello sviluppo economico quale autorità preposta alla sorveglianza delle società fiduciarie non iscritte nell'albo di cui all'articolo 106 TUB; 
+ 
+
+ 
+ 
+
+ 
+ b) attività criminosa: la realizzazione o il coinvolgimento nella realizzazione di un delitto non colposo; 
+ 
+
+ 
+ 
+
+ 
+ c) Autorità di vigilanza di settore: la Banca d'Italia, la CONSOB e l'IVASS in quanto autorità preposte alla vigilanza e al controllo degli intermediari bancari e finanziari, dei revisori legali e delle società di revisione legale con incarichi di revisione legale su enti di interesse pubblico e su enti sottoposti a regime intermedio e la Banca d'Italia nei confronti degli operatori non finanziari che esercitano le attività di custodia e trasporto di denaro contante e di titoli o valori a mezzo di guardie particolari giurate, in presenza della licenza di cui all'articolo 134 TULPS, limitatamente all'attività di trattamento delle banconote in euro, in presenza dell'iscrizione nell'elenco di cui all'articolo 8 del decreto-legge 25 settembre 2001 n. 350, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 409; 
+ 
+
+ 
+ 
+
+ 
+ d) banca di comodo: la banca o l'ente che svolge funzioni analoghe ad una banca che non ha una struttura organica e gestionale significativa nel paese in cui è stato costituito e autorizzato all'esercizio dell'attività nè è parte di un gruppo finanziario soggetto a un'efficace vigilanza su base consolidata; 
+ 
+
+ 
+ 
+
+ 
+ e) beneficiario della prestazione assicurativa: 
+ 
+
+ 1. la persona fisica o l'entità diversa da una persona fisica che, sulla base della designazione effettuata dal contraente o dall'assicurato, ha diritto di percepire la prestazione assicurativa corrisposta dall'impresa di assicurazione; 
+ 
+
+ 2. l'eventuale persona fisica o entità diversa da una persona fisica a favore della quale viene effettuato il pagamento su disposizione del beneficiario designato; 
+ 
+
+ 
+ 
+
+ 
+ f) cliente: il soggetto che instaura rapporti continuativi, compie operazioni ovvero richiede o ottiene una prestazione professionale a seguito del conferimento di un incarico; 
+ 
+
+ 
+ 
+
+ 
+ g) conti correnti di corrispondenza e rapporti ad essi assimilabili: conti tenuti dalle banche per il regolamento dei servizi interbancari e gli altri rapporti comunque denominati, intrattenuti tra enti creditizi e istituti finanziari, utilizzati per il regolamento di transazioni per conto dei clienti degli enti corrispondenti; 
+ 
+
+ 
+ 
+
+ 
+ h) conferimento di un incarico: attribuzione di un mandato, esplicito o implicito, anche desumibile dalle caratteristiche dell'attività istituzionalmente svolta dai soggetti obbligati, diversi dagli intermediari bancari e finanziari e dagli altri operatori finanziari, al compimento di una prestazione professionale, indipendentemente dal versamento di un corrispettivo o dalle modalità e dalla tempistica di corresponsione del medesimo; 
+ 
+
+ 
+ 
+
+ 
+ i) congelamento di fondi: il divieto, in virtù dei regolamenti comunitari e della normativa nazionale, di movimentazione, trasferimento, modifica, utilizzo o gestione dei fondi o di accesso ad essi, così da modificarne il volume, l'importo, la collocazione, la proprietà, il possesso, la natura, la destinazione o qualsiasi altro cambiamento che consente l'uso dei fondi, compresa la gestione di portafoglio; 
+ 
+
+ 
+ 
+
+ 
+ l) congelamento di risorse economiche: il divieto, in virtù dei regolamenti comunitari e della normativa nazionale, di trasferimento, disposizione o, al fine di ottenere in qualsiasi modo fondi, beni o servizi, utilizzo delle risorse economiche, compresi, a titolo meramente esemplificativo, la vendita, la locazione, l'affitto o la costituzione di diritti reali di garanzia; 
+ 
+
+ 
+ 
+
+ 
+ m) conti di passaggio: rapporti bancari di corrispondenza transfrontalieri, intrattenuti tra intermediari bancari e finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela; 
+ 
+
+ 
+ 
+
+ 
+ n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, gli estremi del documento di identificazione e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
+ 
+
+ 
+ 
+
+ 
+ o) denaro contante: le banconote e le monete metalliche, in euro o in valute estere, aventi corso legale; 
+ 
+
+ 
+ 
+
+ 
+ p) esecutore: il soggetto delegato ad operare in nome e per conto del cliente o a cui siano comunque conferiti poteri di rappresentanza che gli consentano di operare in nome e per conto del cliente; 
+ 
+
+ 
+ 
+
+ 
+ q) fondi: le attività ed utilità finanziarie di qualsiasi natura, inclusi i proventi da questi derivati, possedute, detenute o controllate, anche parzialmente, direttamente o indirettamente, ovvero per interposta persona fisica o giuridica da parte di soggetti designati, ovvero da parte di persone fisiche o giuridiche che agiscono per conto o sotto la direzione di questi ultimi, compresi a titolo meramente esemplificativo: 
+ 
+
+ 1) i contanti, gli assegni, i crediti pecuniari, le cambiali, gli ordini di pagamento e altri strumenti di pagamento; 
+ 
+
+ 2) i depositi presso enti finanziari o altri soggetti, i saldi sui conti, i crediti e le obbligazioni di qualsiasi natura; 
+ 
+
+ 3) i titoli negoziabili a livello pubblico e privato nonchè gli strumenti finanziari come definiti nell'articolo 1, comma 2, TUF; 
+ 
+
+ 4) gli interessi, i dividendi o altri redditi ed incrementi di valore generati dalle attività; 
+ 
+
+ 5) il credito, il diritto di compensazione, le garanzie di qualsiasi tipo, le cauzioni e gli altri impegni finanziari; 
+ 
+
+ 6) le lettere di credito, le polizze di carico e gli altri titoli rappresentativi di merci; 
+ 
+
+ 7) i documenti da cui risulti una partecipazione in fondi o risorse finanziarie; 
+ 
+
+ 8) tutti gli altri strumenti di finanziamento delle esportazioni; 
+ 
+
+ 9) le polizze assicurative concernenti i rami vita, di cui all'articolo 2, comma 1, CAP; 
+ 
+
+ 
+ 
+
+ 
+ r) gruppo: il gruppo bancario di cui all'articolo 60 TUB e disposizioni applicative, il gruppo finanziario di cui all'articolo 109 TUB e disposizioni applicative, il gruppo di cui all'articolo 11 TUF e disposizioni applicative, il gruppo individuato ai sensi dell'articolo 82 CAP nonchè le società collegate o controllate ai sensi dell'articolo 2359 del codice civile; 
+ 
+
+ 
+ 
+
+ 
+ s) mezzi di pagamento: il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni a essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, le polizze assicurative trasferibili, le polizze di pegno e ogni altro strumento a disposizione che permetta di trasferire, movimentare o acquisire, anche per via telematica, fondi, valori o disponibilità finanziarie; 
+ 
+
+ 
+ 
+
+ 
+ t) operazione: l'attività consistente nella movimentazione, nel trasferimento o nella trasmissione di mezzi di pagamento o nel compimento di atti negoziali a contenuto patrimoniale; costituisce operazione anche la stipulazione di un atto negoziale, a contenuto patrimoniale, rientrante nell'esercizio dell'attività professionale o commerciale; 
+ 
+
+ 
+ 
+
+ 
+ u) operazioni collegate: operazioni tra loro connesse per il perseguimento di un unico obiettivo di carattere giuridico patrimoniale; 
+ 
+
+ 
+ 
+
+ 
+ v) operazione frazionata: un'operazione unitaria sotto il profilo del valore economico, di importo pari o superiore ai limiti stabiliti dal presente decreto, posta in essere attraverso più operazioni, singolarmente inferiori ai predetti limiti, effettuate in momenti diversi ed in un circoscritto periodo di tempo fissato in sette giorni, ferma restando la sussistenza dell'operazione frazionata quando ricorrano elementi per ritenerla tale; 
+ 
+
+ 
+ 
+
+ 
+ z) operazione occasionale: un'operazione non riconducibile a un rapporto continuativo in essere; costituisce operazione occasionale anche la prestazione intellettuale o commerciale, ivi comprese quelle ad esecuzione istantanea, resa in favore del cliente; 
+ 
+
+ 
+ 
+
+ 
+ aa) organismo di autoregolamentazione: l'ente esponenziale, rappresentativo di una categoria professionale, ivi comprese le sue articolazioni territoriali e i consigli di disciplina cui l'ordinamento vigente attribuisce poteri di regolamentazione, di controllo della categoria, di verifica del rispetto delle norme che disciplinano l'esercizio della professione e di irrogazione, attraverso gli organi all'uopo predisposti, delle sanzioni previste per la loro violazione; 
+ 
+
+ 
+ 
+
+ 
+ bb) Paesi terzi ad alto rischio: Paesi non appartenenti all'Unione europea i cui ordinamenti presentano carenze strategiche nei rispettivi regimi nazionali di prevenzione del riciclaggio e del finanziamento del terrorismo, per come individuati dalla Commissione europea nell'esercizio dei poteri di cui agli articoli 9 e 64 della direttiva; 
+ 
+
+ 
+ 
+
+ 
+ cc) personale: i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione del soggetto obbligato, anche in forma diversa dal rapporto di lavoro subordinato, ivi compresi i consulenti finanziari abilitati all'offerta fuori sede di cui all'articolo 31, comma 2, del TUF nonchè i produttori diretti e i soggetti addetti all'intermediazione di cui all'articolo 109, comma 2, lettere c) ed e), CAP; 
+ 
+
+ 
+ 
+
+ 
+ dd) persone politicamente esposte: le persone fisiche che occupano o hanno cessato di occupare da meno di un anno importanti cariche pubbliche, nonchè i loro familiari e coloro che con i predetti soggetti intrattengono notoriamente stretti legami, come di seguito elencate: 
+ 
+
+ 1) sono persone fisiche che occupano o hanno occupato importanti cariche pubbliche coloro che ricoprono o hanno ricoperto la carica di: 
+ 
+
+ 1.1 Presidente della Repubblica, Presidente del Consiglio, Ministro, Vice-Ministro e Sottosegretario, Presidente di Regione, assessore regionale, Sindaco di capoluogo di provincia o città metropolitana, Sindaco di comune con popolazione non inferiore a 15.000 abitanti nonchè cariche analoghe in Stati esteri; 
+ 
+
+ 1.2 deputato, senatore, parlamentare europeo, consigliere regionale nonchè cariche analoghe in Stati esteri; 
+ 
+
+ 1.3 membro degli organi direttivi centrali di partiti politici; 
+ 
+
+ 1.4 giudice della Corte Costituzionale, magistrato della Corte di Cassazione o della Corte dei conti, consigliere di Stato e altri componenti del Consiglio di Giustizia Amministrativa per la Regione siciliana nonchè cariche analoghe in Stati esteri; 
+ 
+
+ 1.5 membro degli organi direttivi delle banche centrali e delle autorità indipendenti; 
+ 
+
+ 1.6 ambasciatore, incaricato d'affari ovvero cariche equivalenti in Stati esteri, ufficiale di grado apicale delle forze armate ovvero cariche analoghe in Stati esteri; 
+ 
+
+ 1.7 componente degli organi di amministrazione, direzione o controllo delle imprese controllate, anche indirettamente, dallo Stato italiano o da uno Stato estero ovvero partecipate, in misura prevalente o totalitaria, dalle Regioni, da comuni capoluoghi di provincia e città metropolitane e da comuni con popolazione complessivamente non inferiore a 15.000 abitanti; 
+ 
+
+ 1.8 direttore generale di ASL e di azienda ospedaliera, di azienda ospedaliera universitaria e degli altri enti del servizio sanitario nazionale. 
+ 
+
+ 1.9 direttore, vicedirettore e membro dell'organo di gestione o soggetto svolgenti funzioni equivalenti in organizzazioni internazionali; 
+ 
+
+ 2) sono familiari di persone politicamente esposte: i genitori, il coniuge o la persona legata in unione civile o convivenza di fatto o istituti assimilabili alla persona politicamente esposta, i figli e i loro coniugi nonchè le persone legate ai figli in unione civile o convivenza di fatto o istituti assimilabili; 
+ 
+
+ 3) sono soggetti con i quali le persone politicamente esposte intrattengono notoriamente stretti legami: 
+ 
+
+ 3.1 le persone fisiche legate alla persona politicamente esposta per via della titolarità effettiva congiunta di enti giuridici o di altro stretto rapporto di affari; 
+ 
+
+ 3.2 le persone fisiche che detengono solo formalmente il controllo totalitario di un'entità notoriamente costituita, di fatto, nell'interesse e a beneficio di una persona politicamente esposta; 
+ 
+
+ 
+ 
+
+ 
+ ee) prestatori di servizi relativi a società e trust: ogni persona fisica o giuridica che fornisce a terzi, a titolo professionale, uno dei seguenti servizi: 
  
 
  1) costituire società o altre persone giuridiche; 
@@ -362,28 +651,181 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) fornire una sede legale, un indirizzo commerciale, amministrativo o postale e altri servizi connessi a una società, un'associazione o qualsiasi altra entità giuridica; 
  
 
- 4) occupare la funzione di fiduciario in un trust espresso o in un soggetto giuridico analogo o provvedere affinchè un'altra persona occupi tale funzione; 
+ 4) svolgere la funzione di fiduciario in un trust espresso o in un soggetto giuridico analogo o provvedere affinchè un'altra persona occupi tale funzione; 
  
 
- 5) esercitare il ruolo d'azionista per conto di un'altra persona o provvedere affinchè un'altra persona occupi tale funzione, purchè non si tratti di una società ammessa alla quotazione su un mercato regolamentato e sottoposta a obblighi di comunicazione conformemente alla normativa comunitaria o a norme internazionali equivalenti; 
+ 5) esercitare il ruolo d'azionista per conto di un'altra persona o provvedere affinchè un'altra persona svolga tale funzione, purchè non si tratti di una società ammessa alla quotazione su un mercato regolamentato e sottoposta a obblighi di comunicazione conformemente alla normativa dell'Unione europea o a norme internazionali equivalenti; 
  
 
- q) "prestazione professionale": prestazione professionale o commerciale correlata con le attività svolte dai soggetti indicati agli articoli 12, 13 e 14, della quale si presuma, al momento in cui inizia, che avrà una certa durata; 
+ 
  
 
- r) "pubblica amministrazione": tutte le amministrazioni dello Stato, ivi compresi gli istituti e le scuole di ogni ordine e grado, le istituzioni educative, le aziende e le amministrazioni dello Stato a ordinamento autonomo, le regioni, le province, i comuni, le comunità montane e loro consorzi e associazioni, le istituzioni universitarie, le amministrazioni, le aziende e gli enti del servizio sanitario nazionale e le agenzie di cui al decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni; 
+ 
+ ff) prestatori di servizi relativi all'utilizzo di valuta virtuale: ogni persona fisica o giuridica che fornisce a terzi, a titolo professionale, servizi funzionali all'utilizzo, allo scambio, alla conservazione di valuta virtuale e alla loro conversione da ovvero in valute aventi corso legale; 
  
 
- s) "rapporto continuativo": rapporto di durata rientrante nell'esercizio dell'attività di istituto dei soggetti indicati all'articolo 11 che dia luogo a più operazioni di versamento, prelievo o trasferimento di mezzi di pagamento e che non si esaurisce in una sola operazione; 
+ 
  
 
- t) "registro della clientela": un registro cartaceo nel quale sono conservati i dati identificativi di cui alla lettera g), acquisiti nell'adempimento dell'obbligo di identificazione secondo le modalità previste nel presente decreto; 
+ 
+ gg) prestazione professionale: una prestazione intellettuale o commerciale resa in favore del cliente, a seguito del conferimento di un incarico, della quale si presume che abbia una certa durata; 
  
 
- u) titolare effettivo: la persona fisica per conto della quale è realizzata un'operazione o un'attività, ovvero, nel caso di entità giuridica, la persona o le persone fisiche che, in ultima istanza, possiedono o controllano tale entità, ovvero ne risultano beneficiari secondo i criteri di cui all'allegato tecnico al presente decreto; 
+ 
  
 
- v) "titolo al portatore": titolo di credito che legittima il possessore all'esercizio del diritto in esso menzionato in base alla mera presentazione e il cui trasferimento si opera con la consegna del titolo; 
+ 
+ hh) Pubbliche amministrazioni: le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, gli enti pubblici nazionali, le società partecipate dalle amministrazioni pubbliche e dalle loro controllate, ai sensi dell'articolo 2359 del codice civile, limitatamente alla loro attività di pubblico interesse disciplinata dal diritto nazionale o dall'Unione europea nonchè i soggetti preposti alla riscossione dei tributi nell'ambito della fiscalità nazionale o locale, quale che ne sia la forma giuridica; 
  
 
- z) "UIF": l'unità di informazione finanziaria cioè la struttura nazionale incaricata di ricevere dai soggetti obbligati, di richiedere, ai medesimi, di analizzare e di comunicare alle autorità competenti le informazioni che riguardano ipotesi di riciclaggio o di finanziamento del terrorismo.
+ 
+ 
+
+ 
+ ii) punto di contatto centrale: il soggetto o la struttura, stabilito nel territorio della Repubblica, designato dagli istituti di moneta elettronica, quali definiti all'articolo 2, primo paragrafo, punto 3), della direttiva 2009/110/CE, o dai prestatori di servizi di pagamento, quali definiti all'articolo 4, punto 11), della direttiva 2015/2366/CE, con sede legale e amministrazione centrale in altro Stato membro, che operano, senza succursale, sul territorio nazionale tramite i soggetti convenzionati e gli agenti di cui alla lettera nn); 
+ 
+
+ 
+ 
+
+ 
+ ll) rapporto continuativo: un rapporto di durata, rientrante nell'esercizio dell'attività di istituto svolta dai soggetti obbligati, che non si esaurisce in un'unica operazione; 
+ 
+
+ 
+ 
+
+ 
+ mm) risorse economiche: le attività di qualsiasi tipo, materiali o immateriali e i beni mobili o immobili, ivi compresi gli accessori, le pertinenze e i frutti, che non sono fondi ma che possono essere utilizzate per ottenere fondi, beni o servizi, possedute, detenute o controllate, anche parzialmente, direttamente o indirettamente, ovvero per interposta persona fisica o giuridica, da parte di soggetti designati, ovvero da parte di persone fisiche o giuridiche che agiscono per conto o sotto la direzione di questi ultimi; 
+ 
+
+ 
+ 
+
+ 
+ nn) soggetti convenzionati e agenti: gli operatori convenzionati ovvero gli agenti, comunque denominati, diversi dagli agenti in attività finanziaria iscritti nell'elenco di cui all'articolo 128-quater, commi 2 e 6, TUB, di cui i prestatori di servizi di pagamento e gli istituti emittenti moneta elettronica, ivi compresi quelli aventi sede legale e amministrazione centrale in altro Stato membro, si avvalgono per l'esercizio della propria attività sul territorio della Repubblica italiana; 
+ 
+
+ 
+ 
+
+ 
+ oo) soggetti designati: le persone fisiche, le persone giuridiche, i gruppi e le entità designati come destinatari del congelamento sulla base dei regolamenti comunitari e della normativa nazionale; 
+ 
+
+ 
+ 
+
+ 
+ pp) titolare effettivo: la persona fisica o le persone fisiche, diverse dal cliente, nell'interesse della quale o delle quali, in ultima istanza, il rapporto continuativo è istaurato, la prestazione professionale è resa o l'operazione è eseguita; 
+ 
+
+ 
+ 
+
+ 
+ qq) valuta virtuale: la rappresentazione digitale di valore, non emessa da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta avente corso legale, utilizzata come mezzo di scambio per l'acquisto di beni e servizi e trasferita, archiviata e negoziata elettronicamente. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 3. Con specifico riferimento alle disposizioni di cui al Titolo IV del presente decreto, s'intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) attività di gioco: l'attività svolta, su concessione dell'Agenzia dogane e monopoli dai prestatori di servizi di gioco, ad esclusione dei giochi numerici a quota fissa e a totalizzatore, delle lotterie ad estrazione istantanea e differita e dei concorsi pronostici su base sportiva ed ippica; 
+ 
+
+ 
+ 
+ 
+
+ 
+ b) cliente: il soggetto che richiede, presso un prestatore di servizi di gioco, un'operazione di gioco; 
+ 
+
+ 
+ 
+ 
+
+ 
+ c) concessionario di gioco: la persona giuridica di diritto pubblico o privato che offre, per conto dello Stato, servizi di gioco; 
+ 
+
+ 
+ 
+ 
+
+ 
+ d) conto di gioco: il conto, intestato al cliente, aperto attraverso un concessionario di gioco autorizzato, sul quale sono registrate le operazioni di gioco effettuate su canale a distanza nonchè le attività di ricarica e i prelievi; 
+ 
+
+ 
+ 
+ 
+
+ 
+ e) contratto di conto di gioco: il contratto stipulato tra il cliente e il concessionario di gioco per l'apertura del conto di gioco e alla cui stipula è subordinata la partecipazione a distanza al gioco; 
+ 
+
+ 
+ 
+ 
+
+ 
+ f) distributori: le imprese private che, su base convenzionale, svolgono per conto dei concessionari la gestione di qualsiasi attività di gioco; 
+ 
+
+ 
+ 
+ 
+
+ 
+ g) esercenti: titolari degli esercizi pubblici in cui viene svolta l'attività di gioco; 
+ 
+
+ 
+ 
+ 
+
+ 
+ h) operazione di gioco: un'operazione atta a consentire, attraverso i canali autorizzati, la partecipazione a uno dei giochi del portafoglio dell'Agenzia delle dogane e dei monopoli, a fronte del corrispettivo di una posta di gioco in denaro; 
+ 
+
+ 
+ 
+ 
+
+ 
+ i) videolottery (VLT): l'apparecchio da intrattenimento, di cui all'articolo 110, comma 6 lettera b), TULPS, terminale di un sistema di gioco complesso la cui architettura è allocata presso il concessionario.))
+ 
+
+ 
+
+ 
+ 
+ ((23))
+ 
+
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (23)
+
+ 
+ 
+
+ Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorità di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
