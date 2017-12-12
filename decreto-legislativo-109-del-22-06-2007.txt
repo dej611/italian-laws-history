@@ -156,27 +156,32 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- Definizioni
+ 
+ (( (Definizioni).))
 
- 
- 
- 
- 
- 1. Ai fini del presente decreto valgono le seguenti definizioni: 
  
 
  
  
-
- a) per "finanziamento del terrorismo" si intende: "qualsiasi attività diretta, con qualsiasi mezzo, alla raccolta, alla provvista, all'intermediazione, al deposito, alla custodia o all'erogazione di fondi o di risorse economiche, in qualunque modo realizzati, destinati ad essere, in tutto o in parte, utilizzati al fine di compiere uno o più delitti con finalità di terrorismo o in ogni caso diretti a favorire il compimento di uno o più delitti con finalità di terrorismo previsti dal codice penale, e ciò indipendentemente dall'effettivo utilizzo dei fondi e delle risorse economiche per la commissione dei delitti anzidetti"; 
-
- b) per "regolamenti comunitari" si intendono: "i regolamenti (CE) n. 2580/2001 del Consiglio, del 27 dicembre 2001, e n. 881/2002 del Consiglio, del 27 maggio 2002, e successive modificazioni, ed i regolamenti emanati ai sensi degli articoli 60 e 301 del Trattato CE, adottati al fine di prevenire, contrastare e reprimere il fenomeno del terrorismo internazionale e l'attività dei paesi che minacciano la pace e la sicurezza internazionale, anche in attuazione di risoluzioni del Consiglio di sicurezza dell'ONU"; 
-
+ (( 1. Ai fini del presente decreto si intende per: 
  
- c) per "fondi" si intendono: "le attività ed utilità finanziarie di qualsiasi natura, 
- (( possedute anche per interposta persona fisica o giuridica, ))
 
- compresi a titolo meramente esemplificativo: 
+ a) amministrazioni interessate: gli enti preposti alla supervisione dei soggetti obbligati non vigilati dalle autorità di vigilanza di settore, per tali intendendosi le amministrazioni, ivi comprese le agenzie fiscali, titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore; 
+ 
+
+ b) congelamento di fondi: il divieto, in virtù dei regolamenti comunitari e della normativa nazionale, di movimentazione, trasferimento, modifica, utilizzo o gestione dei fondi o di accesso ad essi, così da modificarne il volume, l'importo, la collocazione, la proprietà, il possesso, la natura, la destinazione o qualsiasi altro cambiamento che consente l'uso dei fondi, compresa la gestione di portafoglio; 
+ 
+
+ c) congelamento di risorse economiche: il divieto, in virtù dei regolamenti comunitari e della normativa nazionale, di trasferimento, disposizione o, al fine di ottenere in qualsiasi modo fondi, beni o servizi, utilizzo delle risorse economiche, compresi, a titolo meramente esemplificativo, la vendita, la locazione, l'affitto o la costituzione di diritti reali di garanzia; 
+ 
+
+ d) finanziamento del terrorismo: qualsiasi attività diretta, con ogni mezzo, alla fornitura, alla raccolta, alla provvista, all'intermediazione, al deposito, alla custodia o all'erogazione di fondi e risorse economiche, in qualunque modo realizzata, destinati ad essere, direttamente o indirettamente, in tutto o in parte, utilizzati per il compimento di una o più condotte con finalità di terrorismo, secondo quanto previsto dalle leggi penali, ciò indipendentemente dall'effettivo utilizzo dei fondi e delle risorse economiche per la commissione delle condotte anzidette; 
+ 
+
+ e) finanziamento dei programmi di proliferazione delle armi di distruzione di massa: la fornitura o la raccolta di fondi e risorse economiche, in qualunque modo realizzata e strumentale, direttamente o indirettamente, a sostenere o favorire tutte quelle attività legate all'ideazione o alla realizzazione di programmi volti a sviluppare strumenti bellici di natura nucleare o chimica o batteriologica; 
+ 
+
+ f) fondi: le attività ed utilità finanziarie di qualsiasi natura, possedute anche per interposta persona fisica o giuridica, compresi a titolo meramente esemplificativo: 
  
 
  1) i contanti, gli assegni, i crediti pecuniari, le cambiali, gli ordini di pagamento e altri strumenti di pagamento; 
@@ -185,10 +190,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) i depositi presso enti finanziari o altri soggetti, i saldi sui conti, i crediti e le obbligazioni di qualsiasi natura; 
  
 
- 3) i titoli negoziabili a livello pubblico e privato nonchè gli strumenti finanziari come definiti nell'articolo 1, comma 2, del testo unico delle disposizioni in materia di intermediazione 
- 
-
- finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+ 3) i titoli negoziabili a livello pubblico e privato nonchè gli strumenti finanziari come definiti nell'articolo 1, comma 2, del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
  
 
  4) gli interessi, i dividendi o altri redditi ed incrementi di valore generati dalle attività; 
@@ -203,90 +205,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  7) i documenti da cui risulti una partecipazione in fondi o risorse finanziarie; 
  
 
- 8) tutti gli altri strumenti di finanziamento delle esportazioni"; 
+ 8) tutti gli altri strumenti di finanziamento delle esportazioni; 
  
 
- 
- 
-
- 
- d) per "risorse economiche" si intendono: "le attività di 
+ 9) le polizze assicurative concernenti i rami vita di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 209, recante il Codice delle assicurazioni private; 
  
 
- qualsiasi tipo, materiali o immateriali, mobili o immobili, ivi 
+ g) legge antiriciclaggio: il decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni; 
  
 
- compresi gli accessori, le pertinenze e i frutti, che non sono 
+ h) regolamenti comunitari: i regolamenti (CE) n. 2580/2001 del Consiglio, del 27 dicembre 2001, e n. 881/2002 del Consiglio, del 27 maggio 2002, e successive modificazioni, ed i regolamenti emanati ai sensi degli articoli 75 e 215 del Trattato sul funzionamento dell'Unione europea, adottati al fine di prevenire, contrastare e reprimere il fenomeno del terrorismo internazionale, della proliferazione delle armi di distruzione di massa e l'attività dei paesi che minacciano la pace e la sicurezza internazionale, anche in attuazione di risoluzioni del Consiglio di sicurezza dell'ONU; 
  
 
- fondi ma che possono essere utilizzate 
- ((anche per interposta persona fisica o giuridica))
-
- per ottenere fondi, beni o servizi"; 
+ i) risorse economiche: le attività di qualsiasi tipo, materiali o immateriali e i beni, mobili o immobili, ivi compresi gli accessori, le pertinenze e i frutti, che non sono fondi ma che possono essere utilizzate per ottenere fondi, beni o servizi, possedute, detenute o controllate, anche parzialmente, direttamente o indirettamente, ovvero per interposta persona fisica o giuridica, da parte di soggetti designati, ovvero da parte di persone fisiche o giuridiche che agiscono per conto o sotto la direzione di questi ultimi; 
  
 
- 
- 
-
- 
- e) per "congelamento di fondi" si intende: "il divieto, in virtù dei regolamenti comunitari e dei decreti ministeriali di cui all'articolo 4, di movimentazione, trasferimento, modifica, 
+ l) soggetti designati: le persone fisiche, le persone giuridiche, i gruppi e le entità designati come destinatari del congelamento sulla base dei regolamenti comunitari e della normativa nazionale; 
  
 
- utilizzo o gestione dei fondi o di accesso ad essi, così da 
+ m) UIF: l'Unità di informazione finanziaria per l'Italia.))
  
 
- modificarne il volume, l'importo, la collocazione, la proprietà, il possesso, la natura, la destinazione o qualsiasi altro 
- 
-
- cambiamento che consente l'uso dei fondi, compresa la gestione di portafoglio"; 
- 
-
- 
- 
-
- 
- f) per "congelamento di risorse economiche" si intende: "il 
- 
-
- divieto, in virtù dei regolamenti comunitari e dei decreti 
- 
-
- ministeriali di cui all'articolo 4, di trasferimento, disposizione 
- 
-
- o, al fine di ottenere in qualsiasi modo fondi, beni o servizi, 
- 
-
- utilizzo delle risorse economiche, compresi, a titolo meramente 
- 
-
- esemplificativo, la vendita, la locazione, l'affitto o la costituzione di diritti reali di garanzia"; 
- 
-
- 
- 
-
- 
- g) per "soggetti designati" si intendono: "le persone fisiche, 
- 
-
- le persone giuridiche, i gruppi e le entità designati come 
- 
-
- destinatari del congelamento sulla base dei regolamenti comunitari e dei decreti ministeriali di cui all'articolo 4"; 
- 
-
- 
- 
-
- 
- h) per "legge antiriciclaggio" si intende: il decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197, e successive modificazioni. (1) 
- 
-
- 
- 
-
- 
+ ((6))
 
  
 
@@ -300,4 +240,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.Lgs. 21 novembre 2007, n. 231 ha disposto (con l'art. 67, comma 1) che "All'articolo 1, comma 1, lettera h), del decreto legislativo 22 giugno 2007, n. 109, per legge antiriciclaggio si intende il presente decreto".
+ Il D.Lgs. 21 novembre 2007, n. 231 ha disposto (con l'art. 67, comma 1) che "All'articolo 1, comma 1, lettera h), del decreto legislativo 22 giugno 2007, n. 109, per legge antiriciclaggio si intende il presente decreto". 
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (6)
+
+ 
+ 
+
+ Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorità di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
