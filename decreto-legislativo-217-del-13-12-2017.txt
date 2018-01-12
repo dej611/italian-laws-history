@@ -1,0 +1,612 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76, 87 e 117, secondo comma, lettera r), della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 1 della legge 7 agosto 2015, n. 124, recante deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche e, in particolare, il comma 3;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 26 agosto 2016, n. 179, recante &laquo;Modifiche ed integrazioni al Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, ai sensi dell'articolo 1 della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 marzo 2001, n. 165, recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, recante codice in materia di protezione dei dati personali;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante Codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 23 luglio 2014, n. 910, del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 27 aprile 2016, n. 679, del Parlamento europeo e del Consiglio relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 settembre 2017;
+
+ 
+ 
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ Acquisito il parere della Conferenza unificata, ai sensi dell'articolo 8, del decreto legislativo 28 agosto 1997, n. 281, espresso nella seduta del 5 ottobre 2017;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza del 4 ottobre 2017;
+
+ 
+
+ 
+ Acquisito il parere della commissione parlamentare per la semplificazione e delle commissioni parlamentari competenti per materia e per i profili finanziari;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei ministri, adottata nella riunione dell'11 dicembre 2017;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ 
+ Modifiche all'articolo 1 del decreto legislativo 
+ 
+
+ 7 marzo 2005, n. 82
+ 
+
+ 
+ 
+ 
+ 
+ 1. All'articolo 1 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) al comma 1: 
+ 
+
+ 1) dopo la lettera l) sono inserite le seguenti: 
+ 
+
+ &laquo;l-bis) formato aperto: un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi;&raquo;; 
+ 
+
+ l-ter) dati di tipo aperto: i dati che presentano le seguenti caratteristiche: 1) sono disponibili secondo i termini di una licenza o di una previsione normativa che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
+ 
+
+ 2) sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera l-bis), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati; 3) sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione salvo quanto previsto dall'articolo 7 del decreto legislativo 24 gennaio 2006, n. 36;&raquo;; 
+ 
+
+ 2) la lettera n-ter) è sostituita dalla seguente: &laquo;n-ter) domicilio digitale: un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal regolamento (UE) 23 luglio 2014 n. 910 del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE, di seguito "Regolamento eIDAS",valido ai fini delle comunicazioni elettroniche aventi valore legale;&raquo;; 
+ 
+
+ 3) dopo la lettera n-ter) è aggiunta la seguente: &laquo;n-quater) servizio in rete o on-line: qualsiasi servizio di una amministrazione pubblica fruibile a distanza per via elettronica;&raquo;; 
+ 
+
+ 4) alla lettera s), dopo la parola &laquo;titolare&raquo; sono inserite le seguenti: &laquo;di firma elettronica&raquo; e le parole &laquo;e al destinatario&raquo; sono sostituite dalle seguenti: &laquo;e a un soggetto terzo&raquo;; 
+ 
+
+ 5) alla lettera aa), dopo la parola &laquo;titolare&raquo; sono inserite le seguenti: &laquo;di firma elettronica&raquo;, dopo le parole &laquo;dispositivi per la&raquo; è inserita la seguente: &laquo;sua&raquo; e dopo la parola &laquo;creazione&raquo; sono inserite le seguenti: &laquo;nonchè alle applicazioni per la sua apposizione&raquo;; 
+ 
+
+ 6) dopo la lettera ee) è inserita la seguente: &laquo;ff) Linee guida: le regole tecniche e di indirizzo adottate secondo il procedimento di cui all'articolo 71.&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ b) al comma 1-ter, dopo le parole: &laquo;recapito certificato&raquo; sono aggiunte le seguenti: &laquo;qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS&raquo;. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ NOTE 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n.1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE). 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ 
+ 
+
+ - Si riporta il testo dell'articolo 76 della Costituzione: 
+ 
+
+ &laquo;Art. 76. - L'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.&raquo;. 
+ 
+
+ - L'articolo 87 della Costituzione, conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
+ 
+
+ - Si riporta il testo dell'articolo 117, secondo comma, lettera r), della Costituzione: 
+ 
+
+ &laquo;Lo Stato ha legislazione esclusiva nelle seguenti materie: 
+ 
+
+ a)-q) omissis. 
+ 
+
+ r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno; 
+ 
+
+ Omissis.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 1 della legge 7 agosto 2015, n. 124, recante &laquo;Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche&raquo;: 
+ 
+
+ &laquo;Art. 1 (Carta della cittadinanza digitale). - 1. Al fine di garantire ai cittadini e alle imprese, anche attraverso l'utilizzo delle tecnologie dell'informazione e della comunicazione, il diritto di accedere a tutti i dati, i documenti e i servizi di loro interesse in modalità digitale, nonchè al fine di garantire la semplificazione nell'accesso ai servizi alla persona, riducendo la necessità dell'accesso fisico agli uffici pubblici, il Governo è delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, con invarianza delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente, uno o più decreti legislativi volti a modificare e integrare, anche disponendone la delegificazione, il codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, di seguito denominato "CAD", nel rispetto dei seguenti principi e criteri direttivi: 
+ 
+
+ a) individuare strumenti per definire il livello minimo di sicurezza, qualità, fruibilità, accessibilità e tempestività dei servizi on line delle amministrazioni pubbliche; prevedere, a tal fine, speciali regimi sanzionatori e premiali per le amministrazioni stesse; 
+ 
+
+ b) ridefinire e semplificare i procedimenti amministrativi, in relazione alle esigenze di celerità, certezza dei tempi e trasparenza nei confronti dei cittadini e delle imprese, mediante una disciplina basata sulla loro digitalizzazione e per la piena realizzazione del principio "innanzitutto digitale" (digital first), nonchè l'organizzazione e le procedure interne a ciascuna amministrazione; 
+ 
+
+ c) garantire, in linea con gli obiettivi dell'Agenda digitale europea, la disponibilità di connettività a banda larga e ultralarga e l'accesso alla rete internet presso gli uffici pubblici e altri luoghi che, per la loro funzione, richiedono le suddette dotazioni, anche attribuendo carattere prioritario, nei bandi per accedere ai finanziamenti pubblici per la realizzazione della strategia italiana per la banda ultralarga, all'infrastrutturazione con reti a banda ultralarga nei settori scolastico, sanitario e turistico, agevolando in quest'ultimo settore la realizzazione di un'unica rete wi-fi ad accesso libero, con autenticazione tramite Sistema pubblico per la gestione dell'identità digitale (SPID), presente in tutti i luoghi di particolare interesse turistico, e prevedendo la possibilità di estendere il servizio anche ai non residenti in Italia, nonchè prevedendo che la porzione di banda non utilizzata dagli uffici pubblici sia messa a disposizione degli utenti, anche non residenti, attraverso un sistema di autenticazione tramite SPID; garantire l'accesso e il riuso gratuiti di tutte le informazioni prodotte e detenute dalle amministrazioni pubbliche in formato aperto, l'alfabetizzazione digitale, la partecipazione con modalità telematiche ai processi decisionali delle istituzioni pubbliche, la piena disponibilità dei sistemi di pagamento elettronico nonchè la riduzione del divario digitale sviluppando le competenze digitali di base; 
+ 
+
+ d) ridefinire il Sistema pubblico di connettività al fine di semplificare le regole di cooperazione applicativa tra amministrazioni pubbliche e di favorire l'adesione al Sistema da parte dei privati, garantendo la sicurezza e la resilienza dei sistemi; 
+ 
+
+ e) definire i criteri di digitalizzazione del processo di misurazione e valutazione della performance per permettere un coordinamento a livello nazionale; 
+ 
+
+ f) coordinare e razionalizzare le vigenti disposizioni di legge in materia di strumenti di identificazione, comunicazione e autenticazione in rete con la disciplina di cui all'articolo 64 del CAD e la relativa normativa di attuazione in materia di SPID, anche al fine di promuovere l'adesione da parte delle amministrazioni pubbliche e dei privati al predetto SPID; 
+ 
+
+ g) favorire l'elezione di un domicilio digitale da parte di cittadini e imprese ai fini dell'interazione con le amministrazioni, anche mediante sistemi di comunicazione non ripudiabili, garantendo l'adozione di soluzioni idonee a consentirne l'uso anche in caso di indisponibilità di adeguate infrastrutture e dispositivi di comunicazione o di un inadeguato livello di alfabetizzazione informatica, in modo da assicurare, altresì, la piena accessibilità mediante l'introduzione, compatibilmente con i vincoli di bilancio, di modalità specifiche e peculiari, quali, tra le altre, quelle relative alla lingua italiana dei segni; 
+ 
+
+ h) semplificare le condizioni di esercizio dei diritti e l'accesso ai servizi di interesse dei cittadini e assicurare la conoscibilità della normativa e degli strumenti di sostegno della maternità e della genitorialità corrispondenti al profilo dei richiedenti, attraverso l'utilizzo del sito internet dell'Istituto nazionale della previdenza sociale collegato con i siti delle amministrazioni regionali e locali, attivabile al momento dell'iscrizione anagrafica della figlia o del figlio nato o adottato, secondo modalità e procedure che garantiscano la certezza e la riservatezza dei dati; 
+ 
+
+ i) razionalizzare gli strumenti di coordinamento e collaborazione delle amministrazioni pubbliche al fine di conseguire obiettivi di ottimizzazione della spesa nei processi di digitalizzazione favorendo l'uso di software open source, tenendo comunque conto di una valutazione tecnico-economica delle soluzioni disponibili, nonchè obiettivi di risparmio energetico; 
+ 
+
+ l) razionalizzare i meccanismi e le strutture deputati alla governance in materia di digitalizzazione, al fine di semplificare i processi decisionali; 
+ 
+
+ m) semplificare le modalità di adozione delle regole tecniche e assicurare la neutralità tecnologica delle disposizioni del CAD, semplificando allo stesso tempo il CAD medesimo in modo che contenga esclusivamente principi di carattere generale; 
+ 
+
+ n) ridefinire le competenze dell'ufficio dirigenziale di cui all'articolo 17, comma 1, del CAD, con la previsione della possibilità di collocazione alle dirette dipendenze dell'organo politico di vertice di un responsabile individuato nell'ambito dell'attuale dotazione organica di fatto del medesimo ufficio, dotato di adeguate competenze tecnologiche e manageriali, per la transizione alla modalità operativa digitale e dei conseguenti processi di riorganizzazione finalizzati alla realizzazione di un'amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità; 
+ 
+
+ o) adeguare il testo delle disposizioni vigenti alle disposizioni adottate a livello europeo, al fine di garantirne la coerenza, e coordinare formalmente e sostanzialmente il testo delle disposizioni vigenti, anche contenute in provvedimenti diversi dal CAD, apportando le modifiche necessarie per garantire la coerenza giuridica, logica e sistematica della normativa e per adeguare, aggiornare e semplificare il linguaggio normativo e coordinare le discipline speciali con i principi del CAD al fine di garantirne la piena esplicazione; 
+ 
+
+ p) adeguare l'ordinamento alla disciplina europea in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche; 
+ 
+
+ q) prevedere che i pagamenti digitali ed elettronici effettuati con qualsiasi modalità di pagamento, ivi incluso l'utilizzo per i micropagamenti del credito telefonico, costituiscano il mezzo principale per i pagamenti dovuti nei confronti della pubblica amministrazione e degli esercenti servizi di pubblica utilità; 
+ 
+
+ r) indicare esplicitamente le norme abrogate, fatta salva l'applicazione dell'articolo 15 delle disposizioni sulla legge in generale premesse al codice civile. 
+ 
+
+ 2. I decreti legislativi di cui al comma 1 sono adottati su proposta del Ministro delegato per la semplificazione e la pubblica amministrazione, previa acquisizione del parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e del parere del Consiglio di Stato, che sono resi nel termine di quarantacinque giorni dalla data di trasmissione di ciascuno schema di decreto legislativo, decorso il quale il Governo può comunque procedere. Lo schema di ciascun decreto legislativo è successivamente trasmesso alle Camere per l'espressione dei pareri della Commissione parlamentare per la semplificazione e delle Commissioni parlamentari competenti per materia e per i profili finanziari, che si pronunciano nel termine di sessanta giorni dalla data di trasmissione, decorso il quale il decreto legislativo può essere comunque adottato. Se il termine previsto per il parere cade nei trenta giorni che precedono la scadenza del termine previsto al comma 1 o successivamente, la scadenza medesima è prorogata di novanta giorni. Il Governo, qualora non intenda conformarsi ai pareri parlamentari, trasmette nuovamente i testi alle Camere con le sue osservazioni e con eventuali modificazioni, corredate dei necessari elementi integrativi di informazione e motivazione. Le Commissioni competenti per materia possono esprimersi sulle osservazioni del Governo entro il termine di dieci giorni dalla data della nuova trasmissione. Decorso tale termine, i decreti possono comunque essere adottati. 
+ 
+
+ 3. Entro dodici mesi dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, il Governo può adottare, nel rispetto dei principi e criteri direttivi e della procedura di cui al presente articolo, uno o più decreti legislativi recanti disposizioni integrative e correttive.&raquo;. 
+ 
+
+ - Il decreto legislativo 26 agosto 2016, n.179, recante &laquo;Modifiche e integrazioni al Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, ai sensi dell'articolo 1, della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche&raquo; è pubblicato nella Gazzetta Ufficiale 3 settembre 2016, n. 214. 
+ 
+
+ - Il decreto legislativo 30 marzo 2001, n. 165, recante &laquo;Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche&raquo; è pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O. 
+ 
+
+ - Il decreto legislativo 30 giugno 2003, n. 196, recante &laquo;Codice in materia di protezione dei dati personali&raquo;, è pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;, è pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112. 
+ 
+
+ - Si riporta il testo dell'articolo 16 del decreto-legge 29 novembre 2008, n. 185, recante &laquo;Misure urgenti per il sostegno a famiglie, lavoro, occupazione e impresa e per ridisegnare in funzione anti-crisi il quadro strategico nazionale&raquo;, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2: 
+ 
+
+ &laquo;Art. 16 (Riduzione dei costi amministrativi a carico delle imprese). - 1. All'articolo 21 della legge 30 dicembre 1991, n. 413, sono apportate le seguenti modificazioni: 
+ 
+
+ a) alla fine del comma 9 è aggiunto il seguente periodo: "La mancata comunicazione del parere da parte dell'Agenzia delle entrate entro 120 giorni e dopo ulteriori 60 giorni dalla diffida ad adempiere da parte del contribuente equivale a silenzio assenso."; 
+ 
+
+ b) il comma 10 è soppresso. 
+ 
+
+ 2. All'articolo 37, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248 i commi da 33 a 37-ter sono abrogati. 
+ 
+
+ 3. All'articolo 1, della legge 27 dicembre 2006, n. 296 i commi da 30 a 32 sono abrogati. 
+ 
+
+ 4. All'articolo 1, della legge 24 dicembre 2007, n. 244, i commi da 363 a 366 sono abrogati. 
+ 
+
+ 5. Nell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472 sono apportate le seguenti modificazioni: 
+ 
+
+ a) al comma 1, lettera a), le parole "un ottavo" sono sostituite dalle seguenti: "un dodicesimo"; 
+ 
+
+ b) al comma 1, lettera b), le parole "un quinto" sono sostituite dalle seguenti: "un decimo"; 
+ 
+
+ c) al comma 1, lettera c), le parole: "un ottavo", ovunque ricorrono, sono sostituite dalle seguenti: "un dodicesimo". 
+ 
+
+ 5-bis. La lettera h) del comma 4 dell'articolo 50-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, si interpreta nel senso che le prestazioni di servizi ivi indicate, relative a beni consegnati al depositario, costituiscono ad ogni effetto introduzione nel deposito IVA senza tempi minimi di giacenza nè obbligo di scarico dal mezzo di trasporto. L'introduzione si intende realizzata anche negli spazi limitrofi al deposito IVA, senza che sia necessaria la preventiva introduzione della merce nel deposito. Si devono ritenere assolte le funzioni di stoccaggio e di custodia, e la condizione posta agli articoli 1766 e seguenti del codice civile che disciplinano il contratto di deposito. All'estrazione della merce dal deposito IVA per la sua immissione in consumo nel territorio dello Stato, qualora risultino correttamente poste in essere le norme dettate al comma 6 del citato articolo 50-bis del decreto-legge n. 331 del 1993, l'imposta sul valore aggiunto si deve ritenere definitivamente assolta. 
+ 
+
+ 6. Le imprese costituite in forma societaria sono tenute a indicare il proprio indirizzo di posta elettronica certificata nella domanda di iscrizione al registro delle imprese o analogo indirizzo di posta elettronica basato su tecnologie che certifichino data e ora dell'invio e della ricezione delle comunicazioni e l'integrità del contenuto delle stesse, garantendo l'interoperabilità con analoghi sistemi internazionali. Entro tre anni dalla data di entrata in vigore del presente decreto tutte le imprese, già costituite in forma societaria alla medesima data di entrata in vigore, comunicano al registro delle imprese l'indirizzo di posta elettronica certificata. L'iscrizione dell'indirizzo di posta elettronica certificata nel registro delle imprese e le sue successive eventuali variazioni sono esenti dall'imposta di bollo e dai diritti di segreteria. 
+ 
+
+ 6-bis. L'ufficio del registro delle imprese che riceve una domanda di iscrizione da parte di un'impresa costituita in forma societaria che non ha iscritto il proprio indirizzo di posta elettronica certificata, in luogo dell'irrogazione della sanzione prevista dall'articolo 2630 del codice civile, sospende la domanda per tre mesi, in attesa che essa sia integrata con l'indirizzo di posta elettronica certificata. 
+ 
+
+ 7. I professionisti iscritti in albi ed elenchi istituiti con legge dello Stato comunicano ai rispettivi ordini o collegi il proprio indirizzo di posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6 entro un anno dalla data di entrata in vigore del presente decreto. Gli ordini e i collegi pubblicano in un elenco riservato, consultabile in via telematica esclusivamente dalle pubbliche amministrazioni, i dati identificativi degli iscritti con il relativo indirizzo di posta elettronica certificata. I revisori legali e le società di revisione legale iscritti nel registro di cui al decreto legislativo 27 gennaio 2010, n. 39, comunicano il proprio indirizzo di posta elettronica certificata al Ministero dell'economia e delle finanze o al soggetto incaricato della tenuta del registro. 
+ 
+
+ 7-bis. L'omessa pubblicazione dell'elenco riservato previsto dal comma 7, ovvero il rifiuto reiterato di comunicare alle pubbliche amministrazioni i dati previsti dal medesimo comma, costituiscono motivo di scioglimento e di commissariamento del collegio o dell'ordine inadempiente. 
+ 
+
+ 8. Le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, qualora non abbiano provveduto ai sensi dell'articolo 47, comma 3, lettera a), del Codice dell'Amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, istituiscono una casella di posta certificata o analogo indirizzo di posta elettronica di cui al comma 6 per ciascun registro di protocollo e ne danno comunicazione al Centro nazionale per l'informatica nella pubblica amministrazione, che provvede alla pubblicazione di tali caselle in un elenco consultabile per via telematica. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e si deve provvedere nell'ambito delle risorse disponibili. 
+ 
+
+ 9. Salvo quanto stabilito dall'articolo 47, commi 1 e 2, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, le comunicazioni tra i soggetti di cui ai commi 6, 7 e 8 del presente articolo, che abbiano provveduto agli adempimenti ivi previsti, possono essere inviate attraverso la posta elettronica certificata o analogo indirizzo di posta elettronica di cui al comma 6, senza che il destinatario debba dichiarare la propria disponibilità ad accettarne l'utilizzo. 
+ 
+
+ 10. La consultazione per via telematica dei singoli indirizzi di posta elettronica certificata o analoghi indirizzi di posta elettronica di cui al comma 6 nel registro delle imprese o negli albi o elenchi costituiti ai sensi del presente articolo avviene liberamente e senza oneri. L'estrazione di elenchi di indirizzi è consentita alle sole pubbliche amministrazioni per le comunicazioni relative agli adempimenti amministrativi di loro competenza. 
+ 
+
+ 10-bis. Gli intermediari abilitati ai sensi dell'articolo 31, comma 2-quater, della legge 24 novembre 2000, n. 340, sono obbligati a richiedere per via telematica la registrazione degli atti di trasferimento delle partecipazioni di cui all'articolo 36, comma 1-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonchè al contestuale pagamento telematico dell'imposta dagli stessi liquidata e sono altresì responsabili ai sensi dell'articolo 57, commi 1 e 2, del testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131. In materia di imposta di bollo si applicano le disposizioni previste dall'articolo 1, comma 1-bis.1, numero 3), della tariffa, parte prima, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta ufficiale n. 196 del 21 agosto 1992, e successive modificazioni. 
+ 
+
+ 10-ter. Con provvedimento del Direttore dell'Agenzia delle entrate sono stabiliti i termini e le modalità di esecuzione per via telematica degli adempimenti di cui al comma 10-bis. 
+ 
+
+ 11. Il comma 4 dell'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, è abrogato. 
+ 
+
+ 12. I commi 4 e 5 dell'articolo 23 del decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;, sono sostituiti dai seguenti: 
+ 
+
+ &laquo;4. Le copie su supporto informatico di qualsiasi tipologia di documenti analogici originali, formati in origine su supporto cartaceo o su altro supporto non informatico, sostituiscono ad ogni effetto di legge gli originali da cui sono tratte se la loro conformità all'originale è assicurata da chi lo detiene mediante l'utilizzo della propria firma digitale e nel rispetto delle regole tecniche di cui all'articolo 71. 
+ 
+
+ 5. Con decreto del Presidente del Consiglio dei Ministri possono essere individuate particolari tipologie di documenti analogici originali unici per le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo della conservazione dell'originale analogico oppure, in caso di conservazione ottica sostitutiva, la loro conformità all'originale deve essere autenticata da un notaio o da altro pubblico ufficiale a ciò autorizzato con dichiarazione da questi firmata digitalmente ed allegata al documento informatico.&raquo;. 
+ 
+
+ 12-bis. Dopo l'articolo 2215 del codice civile è inserito il seguente: &laquo;Art. 2215-bis (Documentazione informatica). - I libri, i repertori, le scritture e la documentazione la cui tenuta è obbligatoria per disposizione di legge o di regolamento o che sono richiesti dalla natura o dalle dimensioni dell'impresa possono essere formati e tenuti con strumenti informatici. 
+ 
+
+ Le registrazioni contenute nei documenti di cui al primo comma debbono essere rese consultabili in ogni momento con i mezzi messi a disposizione dal soggetto tenutario e costituiscono informazione primaria e originale da cui è possibile effettuare, su diversi tipi di supporto, riproduzioni e copie per gli usi consentiti dalla legge. 
+ 
+
+ Gli obblighi di numerazione progressiva, vidimazione e gli altri obblighi previsti dalle disposizioni di legge o di regolamento per la tenuta dei libri, repertori e scritture, ivi compreso quello di regolare tenuta dei medesimi, sono assolti, in caso di tenuta con strumenti informatici, mediante apposizione, ogni tre mesi a far data dalla messa in opera, della marcatura temporale e della firma digitale dell'imprenditore, o di altro soggetto dal medesimo delegato, inerenti al documento contenente le registrazioni relative ai tre mesi precedenti. 
+ 
+
+ Qualora per tre mesi non siano state eseguite registrazioni, la firma digitale e la marcatura temporale devono essere apposte all'atto di una nuova registrazione, e da tale apposizione decorre il periodo trimestrale di cui al terzo comma. 
+ 
+
+ I libri, i repertori e le scritture tenuti con strumenti informatici, secondo quanto previsto dal presente articolo, hanno l'efficacia probatoria di cui agli articoli 2709 e 2710 del codice civile.&raquo;. 
+ 
+
+ 12-ter. L'obbligo di bollatura dei documenti di cui all'articolo 2215-bis del codice civile, introdotto dal comma 12-bis del presente articolo, in caso di tenuta con strumenti informatici, è assolto in base a quanto previsto all'articolo 7 del decreto del Ministro dell'economia e delle finanze 23 gennaio 2004, pubblicato nella Gazzetta Ufficiale n. 27 del 3 febbraio 2004. 
+ 
+
+ 12-quater. All'articolo 2470 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) al primo comma, le parole: &laquo;dell'iscrizione nel libro dei soci secondo quanto previsto nel&raquo; sono sostituite dalle seguenti: &laquo;del deposito di cui al&raquo;; 
+ 
+
+ b) al secondo comma, il secondo periodo è soppresso e, al terzo periodo, le parole: &laquo;e l'iscrizione sono effettuati&raquo; sono sostituite dalle seguenti: &laquo;è effettuato&raquo;; 
+ 
+
+ c) il settimo comma è sostituito dal seguente: 
+ 
+
+ &laquo;Le dichiarazioni degli amministratori previste dai commi quarto e quinto devono essere depositate entro trenta giorni dall'avvenuta variazione della compagine sociale&raquo;. 
+ 
+
+ 12-quinquies. Al primo comma dell'articolo 2471 del codice civile, le parole: &laquo;Gli amministratori procedono senza indugio all'annotazione nel libro dei soci&raquo; sono soppresse. 
+ 
+
+ 12-sexies. Al primo comma dell'articolo 2472 del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 
+ 
+
+ 12-septies. All'articolo 2478 del codice civile sono apportate le seguenti modificazioni: 
+ 
+
+ a) il numero 1) del primo comma è abrogato; 
+ 
+
+ b) al secondo comma, le parole: &laquo;I primi tre libri&raquo; sono sostituite dalle seguenti: &laquo;I libri indicati nei numeri 2) e 3) del primo comma&raquo; e le parole: &laquo;e il quarto&raquo; sono sostituite dalle seguenti: &laquo;; il libro indicato nel numero 4) del primo comma deve essere tenuto&raquo;. 
+ 
+
+ 12-octies. Al secondo comma dell'articolo 2478-bis del codice civile, le parole: &laquo;devono essere depositati&raquo; sono sostituite dalle seguenti: &laquo;deve essere depositata&raquo; e le parole: &laquo;e l'elenco dei soci e degli altri titolari di diritti sulle partecipazioni sociali&raquo; sono soppresse. 
+ 
+
+ 12-novies. All'articolo 2479-bis, primo comma, secondo periodo, del codice civile, le parole: &laquo;libro dei soci&raquo; sono sostituite dalle seguenti: &laquo;registro delle imprese&raquo;. 
+ 
+
+ 12-decies. Al comma 1-bis dell'articolo 36 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, il secondo periodo è soppresso. 
+ 
+
+ 12-undecies. Le disposizioni di cui ai commi da 12-quater a 12-decies entrano in vigore il sessantesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Entro tale termine, gli amministratori delle società a responsabilità limitata depositano, con esenzione da ogni imposta e tassa, apposita dichiarazione per integrare le risultanze del registro delle imprese con quelle del libro dei soci.&raquo;. 
+ 
+
+ - Il regolamento (UE) 23 luglio 2014 n. 910 del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE, è pubblicato nella Gazzetta Ufficiale dell'Unione Europea 28 agosto 2014, n. 257. 
+ 
+
+ - Il regolamento (UE) 27 aprile 2016 n. 679 del Parlamento europeo relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) è pubblicato nella Gazzetta Ufficiale dell'Unione Europea 4 maggio 2016, n. L 119. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo dell'articolo 1 del citato decreto legislativo n. 82 del 2005, come modificato dal presente decreto: 
+ 
+
+ &laquo;Art. 1 (Definizioni). - 1. Ai fini del presente codice si intende per: 
+ 
+
+ 0a) AgID: l'Agenzia per l'Italia digitale di cui all'articolo 19 del decreto-legge 22 giugno 2012, n. 83, convertito in legge, con modificazioni, dall'articolo 1, comma 1, legge 7 agosto 2012, n. 134; 
+ 
+
+ a) ; 
+ 
+
+ b) ; 
+ 
+
+ c) carta d'identità elettronica: il documento d'identità munito di elementi per l'identificazione fisica del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalità di dimostrare l'identità anagrafica del suo titolare; 
+ 
+
+ d) carta nazionale dei servizi: il documento rilasciato su supporto informatico per consentire l'accesso per via telematica ai servizi erogati dalle pubbliche amministrazioni; 
+ 
+
+ e); 
+ 
+
+ f); 
+ 
+
+ g); 
+ 
+
+ h); 
+ 
+
+ i); 
+ 
+
+ i-bis) copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui è tratto; 
+ 
+
+ i-ter) copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui è tratto; 
+ 
+
+ i-quater) copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui è tratto su supporto informatico con diversa sequenza di valori binari; 
+ 
+
+ i-quinquies) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario; 
+ 
+
+ i-sexies) dati territoriali: i dati che attengono, direttamente o indirettamente, a una località o a un'area geografica specifica; 
+ 
+
+ l) ; 
+ 
+
+ l-bis) formato aperto: un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi; 
+ 
+
+ l-ter) dati di tipo aperto: i dati che presentano le seguenti caratteristiche: 1) sono disponibili secondo i termini di una licenza o di una previsione normativa che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato; 2) sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera l-bis), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati; 3) sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione salvo quanto previsto dall'articolo 7 del decreto legislativo 24 gennaio 2006, n. 36; 
+ 
+
+ m); 
+ 
+
+ n); 
+ 
+
+ n-bis) riutilizzo: uso del dato di cui all'articolo 2, comma 1, lettera e), del decreto legislativo 24 gennaio 2006, n. 36; 
+ 
+
+ n-ter) domicilio digitale: un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal regolamento (UE) 23 luglio 2014 n. 910 del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE, di seguito &laquo;Regolamento eIDAS&raquo;, valido ai fini delle comunicazioni elettroniche aventi valore legale; 
+ 
+
+ n-quater) servizio in rete o on-line: qualsiasi servizio di una amministrazione pubblica fruibile a distanza per via elettronica; 
+ 
+
+ o); 
+ 
+
+ p) documento informatico: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; 
+ 
+
+ p-bis) documento analogico: la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti; 
+ 
+
+ q); 
+ 
+
+ q-bis); 
+ 
+
+ r); 
+ 
+
+ s) firma digitale: un particolare tipo di firma qualificata basata su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare di firma elettronica tramite la chiave privata e a un soggetto terzo tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrità di un documento informatico o di un insieme di documenti informatici; 
+ 
+
+ t); 
+ 
+
+ u); 
+ 
+
+ u-bis) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata; 
+ 
+
+ u-ter); 
+ 
+
+ u-quater) identità digitale: la rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalità fissate nel decreto attuativo dell'articolo 64; 
+ 
+
+ v) originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi; 
+ 
+
+ v-bis) posta elettronica certificata: sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi; 
+ 
+
+ z); 
+ 
+
+ aa) titolare di firma elettronica: la persona fisica cui è attribuita la firma elettronica e che ha accesso ai dispositivi per la sua creazione nonchè alle applicazioni per la sua apposizione; 
+ 
+
+ bb; 
+ 
+
+ cc) titolare del dato: uno dei soggetti di cui all'articolo 2, comma 2, che ha originariamente formato per uso proprio o commissionato ad altro soggetto il documento che rappresenta il dato, o che ne ha la disponibilità; 
+ 
+
+ dd) interoperabilità: i protocolli e i servizi informatici idonei a favorire la circolazione e lo scambio di dati ed informazioni e la loro erogazione tra pubbliche amministrazioni e tra queste e le persone fisiche; 
+ 
+
+ ee) cooperazione applicativa: la parte del Sistema Pubblico di Connettività finalizzata, mediante l'utilizzo di interfacce applicative, all'interazione tra i sistemi informatici delle pubbliche amministrazioni, per garantire l'integrazione dei metadati, delle informazioni e dei procedimenti amministrativi; 
+ 
+
+ ff) Linee guida: le regole tecniche e di indirizzo adottate secondo il procedimento di cui all'articolo 71; 
+ 
+
+ 1-bis) Ai fini del presente Codice, valgono le definizioni del Regolamento eIDAS&raquo;. 
+ 
+
+ 1-ter) Ove la legge consente l'utilizzo della posta elettronica certificata è ammesso anche l'utilizzo di altro servizio elettronico di recapito certificato qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS.&raquo;.
