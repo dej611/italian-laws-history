@@ -114,19 +114,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  e-bis) "MVU" indica il Meccanismo di vigilanza unica, ossia il sistema di vigilanza finanziaria composto dalla BCE e dalle autorità nazionali competenti degli Stati membri che vi partecipano; 
  
 
  
  
 
- e-ter) "Disposizioni del MVU" indica il regolamento (UE) n. 1024/2013 e le relative misure di esecuzione;
+ 
+ e-ter) "Disposizioni del MVU" indica il regolamento (UE) n. 1024/2013 e le relative misure di esecuzione; 
+ 
 
- ))
-
+ 
  
 
  
@@ -144,17 +142,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g-bis) "Stato d'origine" indica lo Stato comunitario in cui la banca è stata autorizzata all'esercizio dell'attività; 
+ ((
+
+ 
+ g-bis) "Stato di origine" indica lo Stato comunitario in cui la banca, l'IMEL o l'IP è stato autorizzato all'esercizio dell'attività; 
  
 
  
  
 
- 
- g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca ha una succursale o presta servizi; 
- 
+ g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca, l'IMEL o l'IP ha una succursale o presta servizi;
 
- 
+ ))
+
  
 
  
@@ -190,12 +190,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ h-ter) "Stato partecipante al MVU" indica uno Stato comunitario la cui moneta è l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU; 
+ 
 
- h-ter) "Stato partecipante al MVU" indica uno Stato comunitario la cui moneta è l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU;
-
- ))
-
+ 
  
 
  
@@ -247,26 +245,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  d) "soggetto significativo": i soggetti definiti dall'articolo 2, n. 16, del regolamento (UE) n. 468/2014, sui quali la BCE esercita la vigilanza diretta in conformità delle disposizioni del MVU; 
  
 
  
  
 
- d-bis) "soggetto meno significativo": i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d);
+ 
+ d-bis) "soggetto meno significativo": i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d); 
+ 
+
+ 
+ 
+
+ 
+ ((
+
+ e) "succursale": una sede che costituisce una parte, sprovvista di personalità giuridica, di una banca, un istituto di moneta elettronica o un istituto di pagamento, e che effettua direttamente, in tutto o in parte, l'attività a cui la banca o l'istituto è stato autorizzato;
 
  ))
 
- 
-
- 
- e) "succursale": una sede che costituisce parte, sprovvista di personalità giuridica, di una banca e che effettua direttamente, in tutto o in parte, l'attività della banca; 
- 
-
- 
  
 
  
@@ -282,7 +280,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) leasing finanziario; 
  
 
- 4) prestazione di servizi di pagamento come definiti dagli articoli 1, comma 1, lettera b), e 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 11. 
+ 4) prestazione di servizi di pagamento 
+ ((...))
+
+ . 
  
 
  5) emissione e gestione di mezzi di pagamento ("travellers cheques", lettere di credito), nella misura in cui quest'attività non rientra nel punto 4; 
@@ -403,7 +404,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h-sexies) 'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento di cui alla lettera f), n. 4); 
+ h-sexies) 'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento 
+ ((...))
+
+ ; 
  
 
  
@@ -415,9 +419,58 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ ((h-septies.1) "servizi di pagamento": le seguenti attività: 
+ 
+
+ 1) servizi che permettono di depositare il contante su un conto di pagamento nonchè tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 
+
+ 2) servizi che permettono prelievi in contante da un conto di pagamento nonchè tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 
+
+ 3) esecuzione di operazioni di pagamento, incluso il trasferimento di fondi su un conto di pagamento presso il prestatore di servizi di pagamento dell'utilizzatore o presso un altro prestatore di servizi di pagamento: 
+ 
+
+ 3.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 
+
+ 3.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 
+
+ 3.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 
+
+ 4) esecuzione di operazioni di pagamento quando i fondi rientrano in una linea di credito accordata ad un utilizzatore di servizi di pagamento: 
+ 
+
+ 4.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 
+
+ 4.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 
+
+ 4.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 
+
+ 5) emissione di strumenti di pagamento e/o convenzionamento di operazioni di pagamento; 
+ 
+
+ 6) rimessa di denaro; 
+ 
+
+ 7) servizi di disposizione di ordini di pagamento; 
+ 
+
+ 8) servizi di informazione sui conti;))
+ 
 
  
- h-octies) 'succursale di un istituto di pagamentò: una sede che costituisce parte, sprovvista di personalità giuridica, di un istituto di pagamento e che effettua direttamente, in tutto o in parte, l'attività dell'istituto di pagamento; 
+
+ 
+ h-octies) 
+ ((LETTERA ABROGATA DAL D.LGS. 15 DICEMBRE 2017, N. 218))
+
+ ; 
  
 
  
@@ -428,6 +481,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ i) "punto di contatto centrale": il soggetto o la struttura designato dalle banche, dagli istituti di moneta elettronica o dagli istituti di pagamento comunitari che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'articolo 128-quater;
+
+ ))
+
  
 
  
@@ -451,4 +513,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci ed all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza ed al comitato per il controllo sulla gestione e ai loro componenti.
+ 3-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci ed all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza ed al comitato per il controllo sulla gestione e ai loro componenti. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 3-quater. Se non diversamente disposto, ai fini della disciplina dei servizi di pagamento, nel presente decreto si applicano le definizioni del decreto legislativo 27 gennaio 2010, n. 11.
+ 
+
+ 
+ ))
