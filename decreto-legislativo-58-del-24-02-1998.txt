@@ -118,80 +118,61 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((d-ter) "UE": l'Unione europea;))
-
+ d-ter) "UE": l'Unione europea; (73) 
  
 
  
+ 
+
+ 
+ d-quater) "impresa di investimento": l'impresa la cui occupazione o attività abituale consiste nel prestare uno o più servizi di investimento a terzi e/o nell'effettuare una o più attività di investimento a titolo professionale; (73) 
+ 
+
+ 
+ 
+
+ 
+ d-quinquies) "banca": la banca come definita dall'articolo 1, comma 1, lettera b), del Testo unico bancario; (73) 
+ 
+
+ 
+ 
+
+ 
+ d-sexies) "banca dell'Unione europea" o "banca UE": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia; (73) 
+ 
+
+ 
+ 
+
+ 
+ e) "società di intermediazione mobiliare" (Sim): l'impresa di investimento avente forma di persona giuridica con sede legale e direzione generale in Italia, diversa dalle banche e dagli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, autorizzata a svolgere servizi o attività di investimento; (73) 
+ 
+
+ 
+ 
+
+ 
+ f) "impresa di investimento dell'Unione europea" o "impresa di investimento UE": l'impresa di investimento, diversa dalla banca, autorizzata a svolgere servizi o attività di investimento, avente sede legale e direzione generale in un medesimo Stato dell'Unione europea, diverso dall'Italia; (73) 
+ 
+
+ 
+ 
+
+ 
+ g) "impresa di paesi terzi": l'impresa che non ha la propria sede legale o direzione generale nell'Unione europea, la cui attività è corrispondente a quella di un'impresa di investimento UE o di una banca UE che presta servizi o attività di investimento; (73) 
+ 
+
+ 
+ 
+
+ 
+ h) 
+ ((LETTERA ABROGATA DAL D.LGS. 3 AGOSTO 2017, N. 129))
+
+ ; 
  ((73))
 
- 
-
- 
- ((d-quater) "impresa di investimento": l'impresa la cui occupazione o attività abituale consiste nel prestare uno o più servizi di investimento a terzi e/o nell'effettuare una o più attività di investimento a titolo professionale;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- ((d-quinquies) "banca": la banca come definita dall'articolo 1, comma 1, lettera b), del Testo unico bancario;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- ((d-sexies) "banca dell'Unione europea" o "banca UE": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- ((e) "società di intermediazione mobiliare" (Sim): l'impresa di investimento avente forma di persona giuridica con sede legale e direzione generale in Italia, diversa dalle banche e dagli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, autorizzata a svolgere servizi o attività di investimento;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- ((f) "impresa di investimento dell'Unione europea" o "impresa di investimento UE": l'impresa di investimento, diversa dalla banca, autorizzata a svolgere servizi o attività di investimento, avente sede legale e direzione generale in un medesimo Stato dell'Unione europea, diverso dall'Italia;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- ((g) "impresa di paesi terzi": l'impresa che non ha la propria sede legale o direzione generale nell'Unione europea, la cui attività è corrispondente a quella di un'impresa di investimento UE o di una banca UE che presta servizi o attività di investimento;))
-
- 
-
- 
- ((73))
-
- 
-
- 
- h) "imprese di investimento": le SIM e le imprese di investimento comunitarie ed extracomunitarie; 
- 
-
- 
  
 
  
@@ -285,16 +266,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-decies) 'Oicr master': l'Oicr nel quale uno o più Oicrfeeder investono totalmente o in prevalenza le proprie attività; 
  
 
- m-undecies) '
- ((clienti professionali o))
+ m-undecies) 'clienti professionali o investitori professionalì: i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; (73) 
+ 
 
- investitori professionalì: i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; 
- ((73))
+ m-duodecies) "clienti al dettaglio o investitori al dettaglio": i clienti o gli investitori che non sono clienti professionali o investitori professionali; (73) 
+ 
 
- ((m-duodecies) "clienti al dettaglio o investitori al dettaglio": i clienti o gli investitori che non sono clienti professionali o investitori professionali;))
-
- ((73))
-
+ 
  
 
  
@@ -349,13 +327,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((r) "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attività di investimento;))
-
+ r) "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attività di investimento; (73) 
  
 
  
- ((73))
-
  
 
  
@@ -387,15 +362,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- s) "servizi ammessi al mutuo riconoscimento": le attività e i servizi elencati nelle sezioni A e B 
- ((dell'Allegato I))
+ s) "servizi ammessi al mutuo riconoscimento": le attività e i servizi elencati nelle sezioni A e B dell'Allegato I al presente decreto, autorizzati nello Stato dell'UE di origine; (73) 
+ 
 
- al presente decreto, autorizzati nello 
- ((Stato dell'UE))
-
- di origine; 
- ((73))
-
+ 
  
 
  
@@ -448,21 +418,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  w-bis.6) &laquo;investitore al dettaglio in PRIIP&raquo;: un cliente ai sensi dell'articolo 4, numero 6), del regolamento (UE) n. 1286/2014.(69) 
  
 
- 
- ((w-bis.7) "gestore del mercato": il soggetto che gestisce e/o amministra l'attività di un mercato regolamentato e può coincidere con il mercato regolamentato stesso;))
-
- ((73))
-
+ w-bis.7) "gestore del mercato": il soggetto che gestisce e/o amministra l'attività di un mercato regolamentato e può coincidere con il mercato regolamentato stesso; (73) 
  
 
  
- ((w-ter) "mercato regolamentato": sistema multilaterale amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione conformemente alle sue regole e/o ai suoi sistemi, e che è autorizzato e funziona regolarmente e conformemente alla parte III;))
-
  
 
  
- ((73))
+ w-ter) "mercato regolamentato": sistema multilaterale amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione conformemente alle sue regole e/o ai suoi sistemi, e che è autorizzato e funziona regolarmente e conformemente alla parte III; (73) 
+ 
 
+ 
  
 
  
@@ -507,21 +473,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) le misure adottate ai sensi dell'articolo 60-bis.4; 
  
 
- 3) le misure, equivalenti a quelle indicate ai punti 1 e 2, adottate da autorità di altri 
- ((Stati dell'Unione europea))
-
- . 
- ((73))
-
+ 3) le misure, equivalenti a quelle indicate ai punti 1 e 2, adottate da autorità di altri Stati dell'Unione europea. (73) 
  
 
  
- w-septies) 
- (("depositari centrali di titoli o depositari centrali"))
+ 
 
- : i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli. 
- ((73))
+ 
+ w-septies) "depositari centrali di titoli o depositari centrali": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli. (73) 
+ 
 
+ 
  
 
  
@@ -530,7 +492,8 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- ((1-bis. Per "valori mobiliari" si intendono categorie di valori che possono essere negoziati nel mercato dei capitali, quali ad esempio: 
+ 
+ 1-bis. Per "valori mobiliari" si intendono categorie di valori che possono essere negoziati nel mercato dei capitali, quali ad esempio: 
  
 
  
@@ -542,7 +505,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli; 
@@ -550,17 +512,14 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- c) qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure.))
- 
-
+ c) qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure. (73) 
  
 
  
  
- ((73))
+
  
 
  
@@ -574,36 +533,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((1-quater. Per "ricevute di deposito" si intendono titoli negoziabili sul mercato dei capitali, rappresentanti la proprietà dei titoli di un emittente non domiciliato, ammissibili alla negoziazione in un mercato regolamentato e negoziati indipendentemente dai titoli dell'emittente non domiciliato.))
- 
-
+ 1-quater. Per "ricevute di deposito" si intendono titoli negoziabili sul mercato dei capitali, rappresentanti la proprietà dei titoli di un emittente non domiciliato, ammissibili alla negoziazione in un mercato regolamentato e negoziati indipendentemente dai titoli dell'emittente non domiciliato. (73) 
  
 
  
  
- ((73))
  
 
  
-
- 
- 
- ((2. Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I. Gli strumenti di pagamento non sono strumenti finanziari.))
- 
-
+ 2. Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I. Gli strumenti di pagamento non sono strumenti finanziari. (73) 
  
 
  
  
- ((73))
  
 
  
-
  
  
- ((2-bis. Il Ministro dell'economia e delle finanze, con il regolamento di cui all'articolo 18, comma 5, può individuare: 
+ 2-bis. Il Ministro dell'economia e delle finanze, con il regolamento di cui all'articolo 18, comma 5, può individuare: 
  
 
  
@@ -615,24 +563,22 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- b) gli altri contratti derivati di cui al punto 10, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati, negoziati in un mercato regolamentato, in un sistema multilaterale di negoziazione o in un sistema organizzato di negoziazione.))
- 
-
+ b) gli altri contratti derivati di cui al punto 10, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati, negoziati in un mercato regolamentato, in un sistema multilaterale di negoziazione o in un sistema organizzato di negoziazione. (73) 
  
 
  
  
- ((73))
+
  
 
  
 
  
  
- ((2-ter. Nel presente decreto legislativo si intendono per: 
+ 
+ 2-ter. Nel presente decreto legislativo si intendono per: 
  
 
  
@@ -644,7 +590,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) "derivati su merci": gli strumenti finanziari che fanno riferimento a merci o attività sottostanti di cui all'Allegato I, sezione C, punti 5), 6), 7) e 10), nonchè gli strumenti finanziari previsti dal comma 1-bis, lettera c), quando fanno riferimento a merci o attività sottostanti menzionati all'Allegato I, sezione C, punto 10); 
@@ -652,34 +597,35 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- c) "contratti derivati su prodotti energetici C6": i contratti di opzione, i contratti finanziari a termine standardizzati (future), gli swap e tutti gli altri contratti derivati concernenti carbone o petrolio menzionati nella Sezione C, punto 6, dell'Allegato I che sono negoziati in un sistema organizzato di negoziazione e devono essere regolati con consegna fisica del sottostante.))
- 
-
+ c) "contratti derivati su prodotti energetici C6": i contratti di opzione, i contratti finanziari a termine standardizzati (future), gli swap e tutti gli altri contratti derivati concernenti carbone o petrolio menzionati nella Sezione C, punto 6, dell'Allegato I che sono negoziati in un sistema organizzato di negoziazione e devono essere regolati con consegna fisica del sottostante. (73) 
  
 
  
  
+
+ 
+
+ 
+
+ 
+ 3. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
+
+ . 
  ((73))
- 
 
- 
-
- 
- 3. Per "strumenti finanziari derivati" si intendono gli strumenti finanziari previsti dal comma 2, lettere d), e), f), g), h), i) e j), nonchè gli strumenti finanziari previsti dal comma 1-bis, lettera d). 
- 
-
- 
  
  
 
  
- 4. I mezzi di pagamento non sono strumenti finanziari. Sono strumenti finanziari ed, in particolare, contratti finanziari differenziali, i contratti di acquisto e vendita di valuta, estranei a transazioni commerciali e regolati per differenza, anche mediante operazioni di rinnovo automatico (c.d. "roll-over"). Sono altresì strumenti finanziari le ulteriori operazioni su valute individuate ai sensi dell'articolo 18, comma 5. 
- 
+ 4. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
- 
+ . 
+ ((73))
+
  
  
 
@@ -707,22 +653,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((c) assunzione a fermo e/o collocamento sulla base di un impegno irrevocabile nei confronti dell'emittente;))
-
+ c) assunzione a fermo e/o collocamento sulla base di un impegno irrevocabile nei confronti dell'emittente; (73) 
  
 
  
- ((73))
-
  
 
  
- c-bis) collocamento senza 
- ((impegno irrevocabile))
+ c-bis) collocamento senza impegno irrevocabile nei confronti dell'emittente; (73) 
+ 
 
- nei confronti dell'emittente; 
- ((73))
-
+ 
  
 
  
@@ -754,13 +695,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((g-bis) gestione di sistemi organizzati di negoziazione.))
-
+ g-bis) gestione di sistemi organizzati di negoziazione. (73) 
  
 
  
- ((73))
-
  
 
  
@@ -768,45 +706,30 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5-bis. Per "negoziazione per conto proprio" si intende l'attività di acquisto e vendita di strumenti finanziari, in contropartita diretta 
- ((...))
-
- .
- ((73))
-
- ((5-bis.1. Per "sistema multilaterale" si intende un sistema che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari.))
-
- ((73))
-
+ 5-bis. Per "negoziazione per conto proprio" si intende l'attività di acquisto e vendita di strumenti finanziari, in contropartita diretta.(73) 
  
+
+ 5-bis.1. Per "sistema multilaterale" si intende un sistema che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari. (73) 
  
 
  
  
- ((5-ter. Per "internalizzatore sistematico" si intende l'impresa di investimento che in modo organizzato, frequente, sistematico e sostanziale negozia per conto proprio eseguendo gli ordini dei clienti al di fuori di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione senza gestire un sistema multilaterale. Il modo frequente e sistematico si misura per numero di negoziazioni fuori listino (OTC) su strumenti finanziari effettuate per conto proprio eseguendo gli ordini dei clienti. Il modo sostanziale si misura per dimensioni delle negoziazioni OTC effettuate dal soggetto su uno specifico strumento finanziario in relazione al totale delle negoziazioni effettuate sullo strumento finanziario dal soggetto medesimo o all'interno dell'Unione europea.))
  
 
  
-
- 
- 
- ((73))
- 
-
+ 5-ter. Per "internalizzatore sistematico" si intende l'impresa di investimento che in modo organizzato, frequente, sistematico e sostanziale negozia per conto proprio eseguendo gli ordini dei clienti al di fuori di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione senza gestire un sistema multilaterale. Il modo frequente e sistematico si misura per numero di negoziazioni fuori listino (OTC) su strumenti finanziari effettuate per conto proprio eseguendo gli ordini dei clienti. Il modo sostanziale si misura per dimensioni delle negoziazioni OTC effettuate dal soggetto su uno specifico strumento finanziario in relazione al totale delle negoziazioni effettuate sullo strumento finanziario dal soggetto medesimo o all'interno dell'Unione europea. (73) 
  
 
  
  
- ((5-quater. Per "market maker" si intende una persona che si propone, nelle sedi di negoziazione e/o al di fuori delle stesse, su base continuativa, come disposta a negoziare per conto proprio acquistando e vendendo strumenti finanziari in contropartita diretta ai prezzi dalla medesima definiti.))
  
 
  
-
- 
- 
- ((73))
+ 5-quater. Per "market maker" si intende una persona che si propone, nelle sedi di negoziazione e/o al di fuori delle stesse, su base continuativa, come disposta a negoziare per conto proprio acquistando e vendendo strumenti finanziari in contropartita diretta ai prezzi dalla medesima definiti. (73) 
  
 
+ 
+ 
  
 
  
@@ -826,64 +749,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((5-septies. Per "consulenza in materia di investimenti" si intende la prestazione di raccomandazioni personalizzate a un cliente, dietro sua richiesta o per iniziativa del prestatore del servizio, riguardo a una o più operazioni relative a strumenti finanziari))
- 
-
+ 5-septies. Per "consulenza in materia di investimenti" si intende la prestazione di raccomandazioni personalizzate a un cliente, dietro sua richiesta o per iniziativa del prestatore del servizio, riguardo a una o più operazioni relative a strumenti finanziari. (73) 
  
 
- 
- 
- ((73))
+ 5-septies.1. Per "esecuzione di ordini per conto dei clienti" si intende la conclusione di accordi di acquisto o di vendita di uno o più strumenti finanziari per conto dei clienti, compresa la conclusione di accordi per la sottoscrizione o la compravendita di strumenti finanziari emessi da un'impresa di investimento o da una banca al momento della loro emissione. (73) 
  
 
+ 5-septies.2. Per "agente collegato" si intende la persona fisica o giuridica che, sotto la piena e incondizionata responsabilità di una sola impresa di investimento per conto della quale opera, promuove servizi di investimento e/o servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi di investimento o strumenti finanziari, colloca strumenti finanziari o presta consulenza ai clienti o potenziali clienti rispetto a detti strumenti o servizi finanziari. (73) 
  
 
- 
- 
- ((5-septies.1. Per "esecuzione di ordini per conto dei clienti" si intende la conclusione di accordi di acquisto o di vendita di uno o più strumenti finanziari per conto dei clienti, compresa la conclusione di accordi per la sottoscrizione o la compravendita di strumenti finanziari emessi da un'impresa di investimento o da una banca al momento della loro emissione.))
- 
-
+ 5-septies.3. Per "consulente finanziario abilitato all'offerta fuori sede" si intende la persona fisica iscritta nell'apposita sezione dell'albo previsto dall'articolo 31, comma 4, del presente decreto che, in qualità di agente collegato, esercita professionalmente l'offerta fuori sede come dipendente, agente o mandatario. (73) 
  
 
  
  
- ((73))
- 
-
- 
-
- 
- 
- ((5-septies.2. Per "agente collegato" si intende la persona fisica o giuridica che, sotto la piena e incondizionata responsabilità di una sola impresa di investimento per conto della quale opera, promuove servizi di investimento e/o servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi di investimento o strumenti finanziari, colloca strumenti finanziari o presta consulenza ai clienti o potenziali clienti rispetto a detti strumenti o servizi finanziari.))
- 
-
  
 
  
  
- ((73))
  
-
- 
-
- 
- 
- ((5-septies.3. Per "consulente finanziario abilitato all'offerta fuori sede" si intende la persona fisica iscritta nell'apposita sezione dell'albo previsto dall'articolo 31, comma 4, del presente decreto che, in qualità di agente collegato, esercita professionalmente l'offerta fuori sede come dipendente, agente o mandatario.))
- 
-
- 
-
- 
- 
- ((73))
- 
-
- 
-
- 
- 
- ((5-octies. Nel presente decreto legislativo si intendono per: 
+ 5-octies. Nel presente decreto legislativo si intendono per: 
  
 
  
@@ -895,7 +780,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) "sistema organizzato di negoziazione": un sistema multilaterale diverso da un mercato regolamentato o da un sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissioni e strumenti derivati, in modo da dare luogo a contratti conformemente alla parte II e alla parte III; 
@@ -903,62 +787,46 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+
+ 
+ c) "sede di negoziazione": un mercato regolamentato, un sistema multilaterale di negoziazione o un sistema organizzato di negoziazione. (73) 
+ 
+
+ 5-octies.1. Per "ordine con limite di prezzo" si intende un ordine di acquisto o di vendita di uno strumento finanziario al prezzo limite fissato o a un prezzo più vantaggioso e per un quantitativo fissato. (73) 
  
 
  
- c) "sede di negoziazione": un mercato regolamentato, un sistema multilaterale di negoziazione o un sistema organizzato di negoziazione.))
  
 
  
 
  
+
  
+ 5-novies. Per "portale per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali" si intende una piattaforma on line che abbia come finalità esclusiva la facilitazione della raccolta di capitale di rischio da parte delle piccole e medie imprese, come definite dall'articolo 2, paragrafo 1, lettera (f), primo alinea, del regolamento (UE) 2017/1129, delle imprese sociali e degli organismi di investimento collettivo del risparmio o di altre società che investono prevalentemente in piccole e medie imprese. (73) 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-decies. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
+
+ . 
  ((73))
- 
-
- 
 
  
  
- ((5-octies.1. Per "ordine con limite di prezzo" si intende un ordine di acquisto o di vendita di uno strumento finanziario al prezzo limite fissato o a un prezzo più vantaggioso e per un quantitativo fissato.))
- 
 
  
+ 5-undecies. 
+ ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
- 
- 
+ . 
  ((73))
- 
 
- 
-
- 
- 
- ((5-novies. Per "portale per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali" si intende una piattaforma on line che abbia come finalità esclusiva la facilitazione della raccolta di capitale di rischio da parte delle piccole e medie imprese, come definite dall'articolo 2, paragrafo 1, lettera (f), primo alinea, del regolamento (UE) 2017/1129, delle imprese sociali e degli organismi di investimento collettivo del risparmio o di altre società che investono prevalentemente in piccole e medie imprese.))
- 
-
- 
-
- 
- 
- ((73))
- 
-
- 
-
- 
- 5-decies. Per "start-up innovativa" si intende la società definita dall'articolo 25, comma 2, del decreto-legge 18 ottobre 2012, n. 179. 
- 
-
- 
- 
- 
-
- 
- 5-undecies. Per 'piccola e media impresa innovativà o 'PMI innovativà si intende la PMI definita dall'articolo 4, comma 1, del decreto-legge 24 gennaio 2015, n. 3. 
- 
-
- 
  
  
 
@@ -971,15 +839,52 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((6. Per "servizio accessorio" si intende qualsiasi servizio riportato nella sezione B dell'Allegato I.))
- 
-
+ 6. Per "servizio accessorio" si intende qualsiasi servizio riportato nella sezione B dell'Allegato I. (73) 
  
 
  
  
- ((73))
+ 
+
+ 
+ 
+ 
+ 6-bis. Per 'partecipazionì si intendono le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque quelli previsti dall'articolo 2351, ultimo comma, del codice civile. 
+ 
+
+ 6-bis.1. Per "controllante" si intende un'impresa controllante ai sensi degli articoli 2, paragrafo 9, e 22 della direttiva 2013/34/UE. (73) 
+ 
+
+ 6-bis.2. Per "controllata" si intende un'impresa controllata ai sensi degli articoli 2, paragrafo 10, e 22 della direttiva 2013/34/UE; l'impresa controllata di un'impresa controllata è parimenti considerata impresa controllata dell'impresa controllante che è a capo di tali imprese. (73) 
+ 
+
+ 6-bis.3. Per "stretti legami" si intende la situazione nella quale due o più persone fisiche o giuridiche sono legate: 
+ 
+
+ 
+ 
+
+ 
+ a) da una &laquo;partecipazione&raquo;, ossia dal fatto di detenere, direttamente o tramite un legame di controllo, il 20 per cento o più dei diritti di voto o del capitale di un'impresa; 
+ 
+
+ 
+ 
+
+ 
+ b) da un legame di &laquo;controllo&raquo;, ossia dalla relazione esistente tra un'impresa controllante e un'impresa controllata, in tutti i casi di cui all'articolo 22, paragrafi 1 e 2, della direttiva 2013/34/UE, o relazione analoga esistente tra persone fisiche e giuridiche e un'impresa, nel qual caso ogni impresa controllata di un'impresa controllata è considerata impresa controllata dell'impresa controllante che è a capo di tali imprese; 
+ 
+
+ 
+ 
+
+ 
+ c) da un legame duraturo tra due o tutte le suddette persone e uno stesso soggetto che sia una relazione di controllo. (73) 
+ 
+
+ 
+ 
+
  
 
  
@@ -1001,36 +906,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((6-quinquies. Per "negoziazione algoritmica" si intende la negoziazione di strumenti finanziari in cui un algoritmo informatizzato determina automaticamente i parametri individuali degli ordini, come ad esempio l'avvio dell'ordine, la relativa tempistica, il prezzo, la quantità o le modalità di gestione dell'ordine dopo l'invio, con intervento umano minimo o assente, ad esclusione dei sistemi utilizzati unicamente per trasmettere ordini a una o più sedi di negoziazione, per trattare ordini che non comportano la determinazione di parametri di negoziazione, per confermare ordini o per eseguire il regolamento delle operazioni.))
- 
-
+ 6-quinquies. Per "negoziazione algoritmica" si intende la negoziazione di strumenti finanziari in cui un algoritmo informatizzato determina automaticamente i parametri individuali degli ordini, come ad esempio l'avvio dell'ordine, la relativa tempistica, il prezzo, la quantità o le modalità di gestione dell'ordine dopo l'invio, con intervento umano minimo o assente, ad esclusione dei sistemi utilizzati unicamente per trasmettere ordini a una o più sedi di negoziazione, per trattare ordini che non comportano la determinazione di parametri di negoziazione, per confermare ordini o per eseguire il regolamento delle operazioni. (73) 
  
 
  
  
- ((73))
  
 
  
-
- 
- 
- ((6-sexies. Per "accesso elettronico diretto" si intende un accordo in base al quale un membro o un partecipante o un cliente di una sede di negoziazione consente a un terzo l'utilizzo del proprio codice identificativo di negoziazione per la trasmissione in via elettronica direttamente alla sede di negoziazione di ordini relativi a uno strumento finanziario, sia nel caso in cui l'accordo comporti l'utilizzo da parte del terzo dell'infrastruttura del membro, del partecipante o del cliente, o di qualsiasi sistema di collegamento fornito dal membro, partecipante o cliente per trasmettere gli ordini (accesso diretto al mercato) sia nel caso in cui non vi sia tale utilizzo (accesso sponsorizzato). ))
- 
-
+ 6-sexies. Per "accesso elettronico diretto" si intende un accordo in base al quale un membro o un partecipante o un cliente di una sede di negoziazione consente a un terzo l'utilizzo del proprio codice identificativo di negoziazione per la trasmissione in via elettronica direttamente alla sede di negoziazione di ordini relativi a uno strumento finanziario, sia nel caso in cui l'accordo comporti l'utilizzo da parte del terzo dell'infrastruttura del membro, del partecipante o del cliente, o di qualsiasi sistema di collegamento fornito dal membro, partecipante o cliente per trasmettere gli ordini (accesso diretto al mercato) sia nel caso in cui non vi sia tale utilizzo (accesso sponsorizzato). (73) 
  
 
  
  
- ((73))
  
 
  
-
  
  
- ((6-septies. Per "tecnica di negoziazione algoritmica ad alta frequenza" si intende qualsiasi tecnica di negoziazione algoritmica caratterizzata da: 
+ 6-septies. Per "tecnica di negoziazione algoritmica ad alta frequenza" si intende qualsiasi tecnica di negoziazione algoritmica caratterizzata da: 
  
 
  
@@ -1042,7 +936,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) determinazione da parte del sistema dell'inizializzazione, generazione, trasmissione o esecuzione dell'ordine senza intervento umano per il singolo ordine o negoziazione, e 
@@ -1050,52 +943,38 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+
+ 
+ c) elevato traffico infra-giornaliero di messaggi consistenti in ordini, quotazioni o cancellazioni. (73) 
  
 
  
- c) elevato traffico infra-giornaliero di messaggi consistenti in ordini, quotazioni o cancellazioni.))
- 
-
- 
-
- 
- 
- ((73))
  
 
  
 
  
- 
- ((6-octies. Per "negoziazione matched principal" si intende una negoziazione in cui il soggetto che si interpone tra l'acquirente e il venditore non è mai esposto al rischio di mercato durante l'intera esecuzione dell'operazione, con l'acquisto e la vendita eseguiti simultaneamente ad un prezzo che non permette a tale soggetto di realizzare utili o perdite, fatta eccezione per le commissioni, gli onorari o le spese dell'operazione previamente comunicati.))
- 
 
  
-
- 
- 
- ((73))
- 
-
+ 6-octies. Per "negoziazione matched principal" si intende una negoziazione in cui il soggetto che si interpone tra l'acquirente e il venditore non è mai esposto al rischio di mercato durante l'intera esecuzione dell'operazione, con l'acquisto e la vendita eseguiti simultaneamente ad un prezzo che non permette a tale soggetto di realizzare utili o perdite, fatta eccezione per le commissioni, gli onorari o le spese dell'operazione previamente comunicati. (73) 
  
 
  
  
- ((6-novies. Per "pratica di vendita abbinata" si intende l'offerta di un servizio di investimento insieme a un altro servizio o prodotto come parte di un pacchetto o come condizione per l'ottenimento dello stesso accordo o pacchetto.))
  
 
  
-
- 
- 
- ((73))
- 
-
+ 6-novies. Per "pratica di vendita abbinata" si intende l'offerta di un servizio di investimento insieme a un altro servizio o prodotto come parte di un pacchetto o come condizione per l'ottenimento dello stesso accordo o pacchetto. (73) 
  
 
  
  
- ((6-decies. Per "deposito strutturato" si intende un deposito quale definito all'articolo 69-bis, comma 1, lettera c), del T.U. bancario che è pienamente rimborsabile alla scadenza in base a termini secondo i quali qualsiasi interesse o premio sarà rimborsato (o è a rischio) secondo una formula comprendente fattori quali: 
+ 
+
+ 
+ 
+ 
+ 6-decies. Per "deposito strutturato" si intende un deposito quale definito all'articolo 69-bis, comma 1, lettera c), del T.U. bancario che è pienamente rimborsabile alla scadenza in base a termini secondo i quali qualsiasi interesse o premio sarà rimborsato (o è a rischio) secondo una formula comprendente fattori quali: 
  
 
  
@@ -1107,13 +986,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) uno strumento finanziario o una combinazione degli strumenti finanziari; 
  
 
- 
  
  
 
@@ -1123,24 +1000,22 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- d) un tasso di cambio o una combinazione di tassi di cambio.))
- 
-
+ d) un tasso di cambio o una combinazione di tassi di cambio. (73) 
  
 
  
  
- ((73))
+
  
 
  
 
  
  
- ((6-undecies. Nel presente decreto legislativo si intendono per: 
+ 
+ 6-undecies. Nel presente decreto legislativo si intendono per: 
  
 
  
@@ -1152,13 +1027,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) "fornitore di un sistema consolidato di pubblicazione" o "CTP": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a fornire il servizio di raccolta presso mercati regolamentati, sistemi multilaterali di negoziazione, sistemi organizzati di negoziazione e APA dei report delle operazioni concluse per gli strumenti finanziari di cui agli articoli 6, 7, 10, 12, 13, 20 e 21 del regolamento (UE) n 600/2014 e di consolidamento delle suddette informazioni in un flusso elettronico di dati attualizzati in continuo, in grado di fornire informazioni sui prezzi e sul volume per ciascuno strumento finanziario; 
  
 
- 
  
  
 
@@ -1168,7 +1041,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  d) "servizi di comunicazione dati": la gestione di un dispositivo di pubblicazione autorizzato (APA) o di un sistema consolidato di pubblicazione (CTP) o di un meccanismo di segnalazione autorizzato (ARM); 
@@ -1176,24 +1048,22 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- e) "fornitore di servizi di comunicazione dati": un APA, un CTP o un ARM.))
- 
-
+ e) "fornitore di servizi di comunicazione dati": un APA, un CTP o un ARM. (73) 
  
 
  
  
- ((73))
+
  
 
  
 
  
  
- ((6-duodecies. Nel presente decreto legislativo si intendono per: 
+ 
+ 6-duodecies. Nel presente decreto legislativo si intendono per: 
  
 
  
@@ -1214,13 +1084,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) "Stato membro d'origine del mercato regolamentato": lo Stato membro in cui è registrato il mercato regolamentato o se, in base al diritto nazionale di tale Stato membro detto mercato non ha una sede legale, lo Stato membro in cui è situata la propria direzione generale; 
  
 
- 
  
  
 
@@ -1234,21 +1102,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) se il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione è una persona giuridica, lo Stato membro in cui si trova la sua sede legale; 
  
 
- 3) se, in base al diritto nazionale cui è soggetto, il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione non ha una sede legale, lo Stato membro in cui è situata la sua direzione generale.))
+ 3) se, in base al diritto nazionale cui è soggetto, il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione non ha una sede legale, lo Stato membro in cui è situata la sua direzione generale. (73) 
+ 
+
+ 
  
 
  
 
  
- 
- ((73))
- 
-
- 
 
  
  
- ((6-terdecies. Nel presente decreto legislativo si intendono per: 
+ 
+ 6-terdecies. Nel presente decreto legislativo si intendono per: 
  
 
  
@@ -1260,52 +1127,38 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+
+ 
+ b) "Stato membro ospitante il mercato regolamentato": lo Stato membro in cui un mercato regolamentato adotta opportune misure in modo da facilitare l'accesso alla negoziazione a distanza nel suo sistema da parte di membri o partecipanti stabiliti in tale Stato membro. (73) 
  
 
  
- b) "Stato membro ospitante il mercato regolamentato": lo Stato membro in cui un mercato regolamentato adotta opportune misure in modo da facilitare l'accesso alla negoziazione a distanza nel suo sistema da parte di membri o partecipanti stabiliti in tale Stato membro.))
- 
-
- 
-
- 
- 
- ((73))
  
 
  
 
  
- 
- ((6-quaterdecies. Per "prodotto energetico all'ingrosso" si intende un prodotto energetico all'ingrosso quale definito all'articolo 2, punto 4, del regolamento (UE) n. 1227/2011.))
- 
 
  
-
- 
- 
- ((73))
- 
-
+ 6-quaterdecies. Per "prodotto energetico all'ingrosso" si intende un prodotto energetico all'ingrosso quale definito all'articolo 2, punto 4, del regolamento (UE) n. 1227/2011. (73) 
  
 
  
  
- ((6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XXIV/1 del regolamento (UE) n. 1308/2013.))
  
 
  
-
- 
- 
- ((73))
- 
-
+ 6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XXIV/1 del regolamento (UE) n. 1308/2013. (73) 
  
 
  
  
- ((6-sexiesdecies. Per "emittente sovrano" si intende uno dei seguenti emittenti di titoli di debito: 
+ 
+
+ 
+ 
+ 
+ 6-sexiesdecies. Per "emittente sovrano" si intende uno dei seguenti emittenti di titoli di debito: 
  
 
  
@@ -1317,13 +1170,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) uno Stato membro, ivi inclusi un ministero, un'agenzia o una società veicolo di tale Stato membro; 
  
 
- 
  
  
 
@@ -1333,13 +1184,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  d) una società veicolo per conto di diversi Stati membri; 
  
 
- 
  
  
 
@@ -1349,38 +1198,30 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+
+ 
+ f) la Banca europea per gli investimenti. (73) 
  
 
  
- f) la Banca europea per gli investimenti.))
- 
-
- 
-
- 
- 
- ((73))
  
 
  
 
  
- 
- ((6-septiesdecies. Per "debito sovrano" si intende un titolo di debito emesso da un emittente sovrano.))
- 
 
  
-
- 
- 
- ((73))
- 
-
+ 6-septiesdecies. Per "debito sovrano" si intende un titolo di debito emesso da un emittente sovrano. (73) 
  
 
  
  
- ((6-octiesdecies. Per "supporto durevole" si intende qualsiasi strumento che: 
+ 
+
+ 
+ 
+ 
+ 6-octiesdecies. Per "supporto durevole" si intende qualsiasi strumento che: 
  
 
  
@@ -1392,17 +1233,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
- b) che consenta la riproduzione inalterata delle informazioni memorizzate.))
- 
-
+ b) che consenta la riproduzione inalterata delle informazioni memorizzate. (73) 
  
 
  
  
- ((73))
+
+ 
+ 
+
  
 
  
