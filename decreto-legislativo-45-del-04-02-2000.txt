@@ -143,10 +143,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) "codice per le unità veloci (HSC)": il codice internazionale di sicurezza per le unità veloci (International Code for Safety of High Speed Crafts) adottato dal comitato della sicurezza marittima dell'IMO con la risoluzione MSC 36 (63) del 20 maggio 1994, nel testo modificato alla data del 17 marzo 1998; 
- 
+ ((
 
- 
+ c) "codice per le unità veloci (HSC Code)": il codice internazionale di sicurezza per le unità veloci (International Code for Safety of High Speed Craft) adottato dall'IMO con la risoluzione MSC 36(63) del 20 maggio 1994 ovvero il codice internazionale di sicurezza per le unità veloci del 2000 (International Code for Safety of High- Speed Craft, 2000), contenuto nella risoluzione MSC 97 (73) dell'IMO del dicembre 2000, nelle loro versioni aggiornate.
+
+ ))
+
  
 
  
@@ -170,10 +172,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  1. il loro dislocamento rispetto alla linea di galleggiamento corrisponda a meno di cinquecento metri cubi; 
  
 
- 2. la loro velocità massima, come definita dal paragrafo 1.4.30 del codice per le unità veloci (HSC Code), sia inferiore ai venti nodi; 
  
+ ((2. e la loro velocità massima, come definita dalla regola 1.4.30 del codice per le unità veloci del 1994 e dalla regola 1.4.37 del codice per le unità veloci del 2000, sia inferiore a 20 nodi;))
 
- 
  
 
  
@@ -308,9 +309,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  bb-bis) nave ro/ro da passeggeri: una nave da passeggeri che trasporta più di dodici passeggeri e disponga di locali da carico ro/ro o di locali di categoria speciale, come definiti nella regola II-2/A/2 di cui all'allegato I; 
  
 
@@ -338,6 +336,5 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  bb-sexies) ente tecnico: l'organismo autorizzato ai sensi dell'articolo 1, comma 1, lettera b), del decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni.
-
- ))
