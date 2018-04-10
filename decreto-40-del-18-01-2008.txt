@@ -113,10 +113,12 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
  
 
  
- b) &laquo;beneficiario&raquo;: il destinatario di un pagamento, a qualunque titolo, di una somma superiore a 10.000 euro da effettuarsi da parte dei soggetti pubblici; 
- 
+ b) &laquo;beneficiario&raquo;: il destinatario di un pagamento, a qualunque titolo, di una somma superiore a 
+ ((5.000))
 
- 
+ euro da effettuarsi da parte dei soggetti pubblici; 
+ ((1))
+
  
 
  
@@ -134,10 +136,12 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
  
 
  
- e) &laquo;inadempimento&raquo;: il mancato assolvimento da parte del beneficiario, nel termine di sessanta giorni previsto dall'articolo 25, comma 2, del decreto del Presidente della Repubblica n. 602 del 1973, dell'obbligo di versamento di un ammontare complessivo pari almeno a 10.000 euro, derivante dalla notifica di una o più cartelle di pagamento, relative a ruoli consegnati agli agenti della riscossione a decorrere dal 1° gennaio 2000, ai sensi degli articoli 12 e 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, attuato con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica 3 settembre 1999, n. 321; 
- 
+ e) &laquo;inadempimento&raquo;: il mancato assolvimento da parte del beneficiario, nel termine di sessanta giorni previsto dall'articolo 25, comma 2, del decreto del Presidente della Repubblica n. 602 del 1973, dell'obbligo di versamento di un ammontare complessivo pari almeno a 
+ ((5.000))
 
- 
+ euro, derivante dalla notifica di una o più cartelle di pagamento, relative a ruoli consegnati agli agenti della riscossione a decorrere dal 1° gennaio 2000, ai sensi degli articoli 12 e 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, attuato con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica 3 settembre 1999, n. 321; 
+ ((1))
+
  
 
  
@@ -162,112 +166,20 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
  
 
  
-
  
 
  
 
  
- Avvertenza:
- 
 
- Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  
 
  
- 
+ -------------
 
- Note alle premesse:
- 
-
- - Il testo vigente dell'art. 48-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, recante disposizioni sulla riscossione delle imposte sul reddito, è il seguente:
- 
-
- &laquo;Art. 48-bis (Disposizioni sui pagamenti delle pubbliche amministrazioni). - 1. A decorrere dalla data di entrata in vigore del regolamento di cui al comma 2, le amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e le società a prevalente partecipazione pubblica, prima di effettuare, a qualunque titolo, il pagamento di un importo superiore a diecimila euro, verificano, anche in via telematica, se il beneficiario è inadempiente all'obbligo di versamento derivante dalla notifica di una o più cartelle di pagamento per un ammontare complessivo pari almeno a tale importo e, in caso affermativo, non procedono al pagamento e segnalano la circostanza all'agente della riscossione competente per territorio, ai fini dell'esercizio dell'attività di riscossione delle somme iscritte a ruolo.
- 
-
- 2. Con regolamento del Ministro dell'economia e delle finanze, da adottare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalità di attuazione delle disposizioni di cui al comma 1.
- 
-
- 2-bis. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, l'importo di cui al comma 1 può essere aumentato, in misura comunque non superiore al doppio, ovvero diminuito.&raquo;.
- 
-
- - Il decreto-legge 3 ottobre 2006, n. 262, convertito con modificazioni, dalla legge 24 novembre 2006, n. 286, recante disposizioni urgenti in materia tributaria e finanziaria, è stato pubblicato nella Gazzetta Ufficiale 3 ottobre 2006, n. 230.
- 
-
- - Il testo vigente dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, recante disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri, è il seguente:
- 
-
- &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
- 
-
- I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.&raquo;.
- 
-
- - Il testo vigente dell'art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, recante norme generali sull'ordinamento del lavoro alle dipendenze delle Pubbliche amministrazioni, pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, è il seguente:
- 
-
- &laquo;2. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunità montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300.&raquo;.
- 
-
- - L'art. 3 del decreto-legge 30 settembre 2005, n. 203, recante misure di contrasto all'evasione fiscale e disposizioni urgenti in materia tributaria e finanziaria, convertito con modificazioni, dalla legge 2 dicembre 2005, n. 248, pubblicato nella Gazzetta Ufficiale 3 ottobre 2005, n. 230, dispone, tra l'altro, che le funzioni relative alla riscossione nazionale sono attribuite all'Agenzia delle entrate che le esercita mediante la Riscossione S.p.A., ora Equitalia S.p.A.
- 
-
- - Il decreto legislativo 7 marzo 2005, n. 82, recante il codice dell'amministrazione digitale, è stato pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112.
- 
-
- - Il decreto legislativo 30 giugno 2003, n. 196, recante il codice in materia di protezione dei dati personali è stato pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174.
- 
+ AGGIORNAMENTO (1)
 
  
  
 
- Note all'art. 1:
- 
-
- - Il testo dell'art. 1, comma 2 del decreto legislativo n. 165 del 2001 è riportato nelle note alle premesse.
- 
-
- - Il testo vigente dell'art. 3, comma 7, del decreto-legge 30 settembre 2005, n. 203, recante misure di contrasto all'evasione fiscale e disposizioni urgenti in materia tributaria e finanziaria, convertito con modificazioni dalla legge 2 dicembre 2005, n. 248, è il seguente:
- 
-
- &laquo;7. La Riscossione S.p.A., previa formulazione di apposita proposta diretta alle società concessionarie del servizio nazionale della riscossione, può acquistare una quota non inferiore al 51 per cento del capitale sociale di tali società ovvero il ramo d'azienda delle banche che hanno operato la gestione diretta dell'attività di riscossione, a condizione che il cedente, a sua volta, acquisti una partecipazione al capitale sociale della stessa Riscossione S.p.A.; il rapporto proporzionale tra i prezzi di acquisto determina le percentuali del capitale sociale della Riscossione S.p.A. da assegnare ai soggetti cedenti, ferma restando la partecipazione dell'Agenzia delle entrate e dell'INPS, nelle medesime proporzioni previste nell'atto costitutivo, in misura non inferiore al 51 per cento. Decorsi ventiquattro mesi dall'acquisto, le azioni della Riscossione S.p.A. così trasferite ai predetti soci privati possono essere alienate a terzi, con diritto di prelazione a favore dei soci pubblici.&raquo;.
- 
-
- - Si riporta il testo vigente degli articoli 12, 24 e 25, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, recante disposizioni sulla riscossione delle imposte sul reddito:
- 
-
- &laquo;Art. 12 (Formazione e contenuto dei ruoli). - 1.
- 
-
- L'ufficio competente forma ruoli distinti per ciascuno degli ambiti territoriali in cui i concessionari operano.
- 
-
- In ciascun ruolo sono iscritte tutte le somme dovute dai contribuenti che hanno il domicilio fiscale in comuni compresi nell'ambito territoriale cui il ruolo si riferisce.
- 
-
- 2. Con decreto del Ministero delle finanze, di concerto con il Ministero del tesoro, del bilancio e della programmazione economica, sono stabiliti i dati che il ruolo deve contenere, i tempi e le procedure della sua formazione, nonchè le modalità dell'intervento in tali procedure del consorzio nazionale obbligatorio fra i concessionari.
- 
-
- 3. Nel ruolo devono essere comunque indicati il numero del codice fiscale del contribuente, la specie del ruolo, la data in cui il ruolo diviene esecutivo e il riferimento all'eventuale precedente atto di accertamento ovvero, in mancanza, la motivazione, anche sintetica, della pretesa; in difetto di tali indicazioni non può farsi luogo all'iscrizione.
- 
-
- 4. Il ruolo è sottoscritto, anche mediante firma elettronica, dal titolare dell'ufficio o da un suo delegato. Con la sottoscrizione il ruolo diviene esecutivo.&raquo;.
- 
-
- &laquo;Art. 24 (Consegna del ruolo al concessionario). - 1.
- 
-
- L'ufficio consegna il ruolo al concessionario dell'ambito territoriale cui esso si riferisce secondo le modalità indicate con decreto del Ministero delle finanze, di concerto con il Ministero del tesoro del bilancio e della programmazione economica.
- 
-
- 2. Con lo stesso o con separato decreto sono individuati i compiti che possono essere affidati al consorzio nazionale obbligatorio fra i concessionari relativamente alla consegna dei ruoli e le ipotesi nelle quali l'affidamento dei ruoli ai concessionari avviene esclusivamente con modalità telematiche.&raquo;.
- 
-
- &laquo;Art. 25 (Cartella di pagamento). - 1. (Omissis).
- 
-
- 2. La cartella di pagamento, redatta in conformità al modello approvato con decreto del Ministero delle finanze, contiene l'intimazione ad adempiere l'obbligo risultante dal ruolo entro il termine di sessanta giorni dalla notificazione, con l'avvertimento che, in mancanza, si procederà ad esecuzione forzata.&raquo;.
- 
-
- - Il decreto del Ministro delle finanze di concerto con il Ministro del tesoro, del bilancio e della programmazione economica 3 settembre 1999, n. 321, con il quale è stato adottato il regolamento recante norme per la determinazione del contenuto del ruolo e dei tempi, procedure e modalità della sua formazione e consegna, da emanare ai sensi degli articoli 4 e 10 del decreto legislativo 26 febbraio 1999, n. 46, è stato pubblicato nella Gazzetta Ufficiale 16 settembre 1999, n. 218.
+ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 988) che le presenti modifiche si applicano a decorrere dal 1&ordm; marzo 2018.
