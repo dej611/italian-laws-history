@@ -1,0 +1,2534 @@
+Allegato A 
+ 
+ TOMOGRAFIE COMPUTERIZZATE (TC) 
+ 
+ 
+ 
+
++=======+=============+==================================+==========+
+| | | | Numero |
+| NOTA | CODICE | DESCRIZIONE | nota |
++=======+=============+==================================+==========+
+| | |BIOPSIA DELLA PARETE TORACICA | |
+| H |34.23 |TC-GUIDATA | |
++-------+-------------+----------------------------------+----------+
+| | |BIOPSIA DELLA PLEURA. Biopsia con | |
+| H |34.24 |ago sottile TC guidata | |
++-------+-------------+----------------------------------+----------+
+| H |34.91.1 |TORACENTESI TC-guidata | |
++-------+-------------+----------------------------------+----------+
+| |40.19.2 |AGOBIOPSIA LINFONODALE TC-GUIDATA | |
++-------+-------------+----------------------------------+----------+
+| | |DRENAGGIO TC-GUIDATO PERCUTANEO | |
+| | |ADDOMINALE. Drenaggio delle | |
+| H |54.91.1 |regioni superficiali | |
++-------+-------------+----------------------------------+----------+
+| | |TC CRANIO-ENCEFALO. Non | |
+| | |associabile a TC Sella Turcica | |
+| |87.03 |(87.03.A) e TC Orbite (87.03.C) | |
++-------+-------------+----------------------------------+----------+
+| | |TC CRANIO-ENCEFALO SENZA E CON | |
+| | |MDC. Non associabile a TC Sella | |
+| | |Turcica con e senza MDC (87.03.B) | |
+| | |e TC Orbite con e senza MCD | |
+| |87.03.1 |(87.03.D) | |
++-------+-------------+----------------------------------+----------+
+| | |TC MASSICCIO FACCIALE [mascellare,| |
+| | |mandibolare, seni paranasali, | |
+| | |etmoide, articolazioni | |
+| |87.03.2 |temporo-mandibolari] | |
++-------+-------------+----------------------------------+----------+
+| | |TC MASSICCIO FACCIALE SENZA E CON | |
+| | |MDC [mascellare, mandibolare, seni| |
+| | |paranasali, etmoide, articolazioni| |
+| |87.03.3 |temporo-mandibolari] | |
++-------+-------------+----------------------------------+----------+
+| | |TC BILATERALE DELL' ORECCHIO | |
+| | |[orecchio medio e interno, rocche | |
+| | |e mastoidi, base cranica e angolo | |
+| |87.03.5 |ponto cerebellare] | |
++-------+-------------+----------------------------------+----------+
+| | |TC BILATERALE DELL' ORECCHIO SENZA| |
+| | |E CON MDC [orecchio medio e | |
+| | |interno, rocche e mastoidi, base | |
+| | |cranica e angolo ponto | |
+| |87.03.6 |cerebellare] | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL COLLO [ghiandole salivari, | |
+| | |tiroide-paratiroidi, faringe, | |
+| | |laringe, esofago cervicale]. Non | |
+| |87.03.7 |associabile a 88.38.A | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL COLLO SENZA E CON MDC | |
+| | |[ghiandole salivari, | |
+| | |tiroide-paratiroidi, faringe, | |
+| | |laringe, esofago cervicale]. Non | |
+| |87.03.8 |associabile a 88.38.D | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLE GHIANDOLE SALIVARI | |
+| |87.03.9 |[SCIALO TC] | |
++-------+-------------+----------------------------------+----------+
+| | |TC SELLA TURCICA (studio | |
+| |87.03.A |selettivo) Non associabile a 87.03| |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA SELLA TURCICA SENZA E CON| |
+| | |MDC (studio selettivo). Non | |
+| |87.03.B |associabile a 87.03.1 | |
++-------+-------------+----------------------------------+----------+
+| | |TC ORBITE (studio selettivo). Non | |
+| |87.03.C |associabile a 87.03 | |
++-------+-------------+----------------------------------+----------+
+| | |TC ORBITE SENZA E CON MDC (studio | |
+| | |selettivo). Non associabile a | |
+| |87.03.D |87.03.1 | |
++-------+-------------+----------------------------------+----------+
+| | |TC DI SINGOLA ARCATA DENTARIA | |
+| |87.03.E |[DENTALSCAN] | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLE ARCATE DENTARIE | |
+| |87.03.F |[DENTALSCAN] | |
++-------+-------------+----------------------------------+----------+
+| | |STRATIGRAFIA DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE. | |
+| | |Incluso: esame diretto ed | |
+| |87.16.3 |eventuale stratigrafia dinamica | |
++-------+-------------+----------------------------------+----------+
+| | |STRATIGRAFIA DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE BILATERALE. | |
+| | |Incluso: esame diretto ed | |
+| |87.16.4 |eventuale stratigrafia dinamica | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL TORACE [polmoni, aorta | |
+| | |toracica, trachea, esofago, | |
+| | |sterno, coste, mediastino]. Non | |
+| |87.41 |associabile a 88.38.B e 88.38.E | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL TORACE SENZA E CON MDC | |
+| | |[polmoni, aorta toracica, trachea,| |
+| | |esofago, sterno, coste, | |
+| | |mediastino]. Non associabile a | |
+| |87.41.1 |88.38.B e 88.38.E | |
++-------+-------------+----------------------------------+----------+
+| | |TC CUORE. Non associabile a TC del| |
+| |87.42.4 |cuore senza e con mdc (87.42.5) | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL CUORE SENZA E CON MDC. Non | |
+| | |associabile a TC del cuore | |
+| | |(87.42.4) e TC coronarografia | |
+| |87.42.5 |(87.42.6) | |
++-------+-------------+----------------------------------+----------+
+| | |TC CORONAROGRAFIA. Non associabile| |
+| | |a TC del cuore senza e con mdc | |
+| |87.42.6 |(87.42.5) | |
++-------+-------------+----------------------------------+----------+
+| | |UROGRAFIA ENDOVENOSA. Incluso: | |
+| | |esame diretto, cistografia ed | |
+| |87.73 |eventuale tomografia renale | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME SUPERIORE. | |
+| | |Incluso: Fegato e vie biliari, | |
+| | |pancreas, milza, retroperitoneo, | |
+| | |stomaco, duodeno, tenue, grandi | |
+| | |vasi addominali, reni e surreni. | |
+| | |Non associabile a 88.01.7, | |
+| | |88.01.8, 88.01.9, 88.02.1 e | |
+| |88.01.1 |88.38.C | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME SUPERIORE SENZA E | |
+| | |CON MDC . Incluso: Fegato e vie | |
+| | |biliari, pancreas, milza, | |
+| | |retroperitoneo, stomaco, duodeno, | |
+| | |tenue, grandi vasi addominali, | |
+| | |reni e surreni. Non associabile a | |
+| | |88.01.7, 88.01.8, 88.01.9, | |
+| |88.01.2 |88.02.1, 88.38.F e 88.38.9 | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME INFERIORE. | |
+| | |Incluso: Pelvi, colon e retto, | |
+| | |vescica, utero e annessi o | |
+| | |prostata. Non associabile 88.01.9,| |
+| |88.01.3 |88.02.1 e 88.38.C | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME INFERIORE SENZA E | |
+| | |CON MDC. Incluso: Pelvi, colon e | |
+| | |retto, vescica, utero e annessi o | |
+| | |prostata. Non associabile a | |
+| | |88.01.9, 88.02.1 e 88.38.F e | |
+| |88.01.4 |88.38.9 | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME COMPLETO. Non | |
+| | |associabile a 88.01.9, 88.02.1 e | |
+| |88.01.5 |88.38.C | |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL' ADDOME COMPLETO SENZA E | |
+| | |CON MDC. Non associabile a | |
+| | |88.01.9, 88.02.1 e 88.38.F, | |
+| |88.01.6 |88.38.9 | |
++-------+-------------+----------------------------------+----------+
+| | |TC FEGATO MULTIFASICA. Non | |
+| | |associabile a TC DELL' ADDOME | |
+| | |SUPERIORE (88.01.1) e TC DELL' | |
+| | |ADDOME SUPERIORE SENZA E CON MDC | |
+| |88.01.7 |(88.01.2) | |
++-------+-------------+----------------------------------+----------+
+| | |TC [CLISMA TC] TENUE (con | |
+| | |enteroclisi). Incluso: eventuale | |
+| | |studio dell'addome | |
+| | |extraintestinale. Non associabile | |
+| | |a TC DELL' ADDOME SUPERIORE | |
+| | |(88.01.1) e TC DELL' ADDOME | |
+| | |SUPERIORE SENZA E CON MDC | |
+| |88.01.8 |(88.01.2) | |
++-------+-------------+----------------------------------+----------+
+| | |TC COLON. Incluso: eventuale | |
+| | |studio dell'addome | |
+| | |extraintestinale e Colonscopia | |
+| | |virtuale. Non associabile a TC | |
+| | |DELL' ADDOME SUPERIORE (88.01.1) e| |
+| | |TC DELL' ADDOME SUPERIORE SENZA E | |
+| | |CON MDC (88.01.2), TC DELL' ADDOME| |
+| | |INFERIORE (88.01.3), TC DELL' | |
+| | |ADDOME INFERIORE SENZA E CON MDC | |
+| | |(88.01.4), TC DELL' ADDOME | |
+| | |COMPLETO (88.01.5), TC DELL' | |
+| | |ADDOME COMPLETO SENZA E CON MDC | |
+| |88.01.9 |(88.01.6) | |
++-------+-------------+----------------------------------+----------+
+| | |TC UROGRAFIA. Incluso: eventuale | |
+| | |studio dell'addome extraurinario. | |
+| | |Non associabile a TC DELL' ADDOME | |
+| | |SUPERIORE (88.01.1) e TC DELL' | |
+| | |ADDOME SUPERIORE SENZA E CON MDC | |
+| | |(88.01.2), TC DELL' ADDOME | |
+| | |INFERIORE (88.01.3), TC DELL' | |
+| | |ADDOME INFERIORE SENZA E CON MDC | |
+| | |(88.01.4), TC DELL' ADDOME | |
+| | |COMPLETO (88.01.5), TC DELL' | |
+| | |ADDOME COMPLETO SENZA E CON MDC | |
+| |88.02.1 |(88.01.6) | |
++-------+-------------+----------------------------------+----------+
+| | |TC DI BACINO E ARTICOLAZIONI | |
+| | |SACROILIACHE. Non associabile a | |
+| |88.38.5 |88.39.2, 88.39.3 e 88.39.A | |
++-------+-------------+----------------------------------+----------+
+| | |ARTRO TC. Spalla o gomito o | |
+| |88.38.8 |ginocchio | |
++-------+-------------+----------------------------------+----------+
+| | |TC TOTAL BODY PER STADIAZIONE | |
+| | |ONCOLOGICA SENZA E CON MDC. Almeno| |
+| | |quattro distretti anatomici. | |
+| | |Incluso: CRANIO, COLLO, TORACE, | |
+| | |ADDOME. Non associabile a 88.01.2,| |
+| | |88.01.4, 88.01.6, 88.38.D, 88.38.E| |
+| |88.38.9 |e 88.38.F | |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE CERVICALE. Non | |
+| | |associabile a: TC DEL COLLO | |
+| |88.38.A |(87.03.7) | 108 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE TORACICO. Non | |
+| | |associabile a TC DEL TORACE | |
+| | |(87.41), TC DEL TORACE SENZA E CON| |
+| | |MDC (87.41.1), TC TOTAL BODY PER | |
+| | |STADIAZIONE ONCOLOGICA SENZA E CON| |
+| |88.38.B |MDC (88.38.9). | 108 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE LOMBOSACRALE E DEL | |
+| | |SACRO COCCIGE. Non associabile a | |
+| | |TC DELL' ADDOME SUPERIORE | |
+| | |(88.01.1), TC DELL' ADDOME | |
+| | |INFERIORE (88.01.3), TC DELL' | |
+| | |ADDOME COMPLETO (88.01.5), TC | |
+| | |TOTAL BODY PER STADIAZIONE | |
+| | |ONCOLOGICA SENZA E CON MDC | |
+| |88.38.C |(88.38.9). | 108 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE CERVICALE SENZA E CON | |
+| | |MDC. Non associabile a TC DEL | |
+| | |COLLO SENZA E CON MDC (87.03.8) e | |
+| | |TC TOTAL BODY PER STADIAZIONE | |
+| | |ONCOLOGICA SENZA E CON MDC | |
+| |88.38.D |(88.38.9). | 109 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE TORACICO SENZA E CON | |
+| | |MDC. Non associabile a TC DEL | |
+| | |TORACE (87.41), TC DEL TORACE | |
+| | |SENZA E CON MDC (87.41.1), TC | |
+| | |TOTAL BODY PER STADIAZIONE | |
+| | |ONCOLOGICA SENZA E CON MDC | |
+| |88.38.E |(88.38.9) | 109 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL RACHIDE E DELLO SPECO | |
+| | |VERTEBRALE LOMBOSACRALE E DEL | |
+| | |SACRO COCCIGE SENZA E CON MDC. Non| |
+| | |associabile a TC DELL' ADDOME | |
+| | |SUPERIORE SENZA E CON MDC | |
+| | |(88.01.2), TC DELL' ADDOME | |
+| | |INFERIORE SENZA E CON MDC | |
+| | |(88.01.4), TC DELL' ADDOME | |
+| | |COMPLETO SENZA E CON MDC | |
+| | |(88.01.6), TC TOTAL BODY PER | |
+| | |STADIAZIONE ONCOLOGICA SENZA E CON| |
+| |88.38.F |MDC (88.38.9) | 109 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA SPALLA. Non associabile a| |
+| | |TC DEL BRACCIO (88.38.H) e TC DI | |
+| |88.38.G |SPALLA E BRACCIO (88.38.N) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL BRACCIO. Non associabile a | |
+| | |TC DELLA SPALLA (88.38.G) e TC DI | |
+| |88.38.H |SPALLA E BRACCIO (88.38.N) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL GOMITO. Non associabile a | |
+| | |TC DELL'AVAMBRACCIO (88.38.K) e TC| |
+| |88.38.J |DI GOMITO E AVAMBRACCIO (88.38.P) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL'AVAMBRACCIO. Non | |
+| | |associabile a TC DEL GOMITO | |
+| | |(88.38.J) e TC DI GOMITO E | |
+| |88.38.K |AVAMBRACCIO (88.38.P) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL POLSO. Non associabile a TC| |
+| | |DELLA MANO (88.38.M) e TC DI POLSO| |
+| |88.38.L |E MANO (88.38.Q) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA MANO. Non associabile a | |
+| | |TC DEL POLSO (88.38.L) eTC DI | |
+| |88.38.M |POLSO E MANO (88.38.Q) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI SPALLA E BRACCIO. Non | |
+| | |associabile a TC DELLA SPALLA | |
+| | |(88.38.G) e TC DEL BRACCIO | |
+| |88.38.N |(88.38.H) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI GOMITO E AVAMBRACCIO. Non | |
+| | |associabile a TC DEL GOMITO | |
+| | |(88.38.J) e TC DELL'AVAMBRACCIO | |
+| |88.38.P |(88.38.K) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI POLSO E MANO. Non | |
+| | |associabile a TC DEL POLSO | |
+| | |(88.38.L) e TC DELLA MANO | |
+| |88.38.Q |(88.38.M) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA SPALLA SENZA E CON MDC. | |
+| | |Non associabile a TC DEL BRACCIO | |
+| | |SENZA E CON MDC (88.38.S) e TC DI | |
+| | |SPALLA E BRACCIO SENZA E CON MDC | |
+| |88.38.R |(88.38.X) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL BRACCIO SENZA E CON MDC. | |
+| | |Non associabile a TC DELLA SPALLA | |
+| | |SENZA E CON MDC (88.38.R) e TC DI | |
+| | |SPALLA E BRACCIO SENZA E CON MDC | |
+| |88.38.S |(88.38.X) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL GOMITO SENZA E CON MDC. Non| |
+| | |associabile a TC DELL'AVAMBRACCIO | |
+| | |SENZA E CON MDC (88.38.U) e TC DI | |
+| | |GOMITO E AVAMBRACCIO SENZA E CON | |
+| |88.38.T |MDC (88.38.Y) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL'AVAMBRACCIO SENZA E CON | |
+| | |MDC. Non associabile a TC DEL | |
+| | |GOMITO SENZA E CON MDC (88.38.T) e| |
+| | |TC DI GOMITO E AVAMBRACCIO SENZA E| |
+| |88.38.U |CON MDC (88.38.Y) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL POLSO SENZA E CON MDC. Non | |
+| | |associabile a TC DELLA MANO SENZA | |
+| | |E CON MDC (88.38.W) e TC DI POLSO | |
+| |88.38.V |E MANO SENZA E CON MDC (88.38.Z) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA MANO SENZA E CON MDC. Non| |
+| | |associabile a TC DEL POLSO SENZA E| |
+| | |CON MDC (88.38.V) e TC DI POLSO E | |
+| |88.38.W |MANO SENZA E CON MDC (88.38.Z) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI SPALLA E BRACCIO SENZA E CON| |
+| | |MDC. Non associabile a TC DELLA | |
+| | |SPALLA SENZA E CON MDC (88.38.R) e| |
+| | |TC DEL BRACCIO SENZA E CON MDC | |
+| |88.38.X |(88.38.S) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI GOMITO E AVAMBRACCIO SENZA E| |
+| | |CON MDC. Non associabile a TC DEL | |
+| | |GOMITO SENZA E CON MDC (88.38.T) | |
+| | |eTC DELL'AVAMBRACCIO SENZA E CON | |
+| |88.38.Y |MDC (88.38.U) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI POLSO E MANO SENZA E CON | |
+| | |MDC. Non associabile a TC DEL | |
+| | |POLSO SENZA E CON MDC (88.38.V) e | |
+| | |TC DELLA MANO SENZA E CON MDC | |
+| |88.38.Z |(88.38.W) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL'ARTICOLAZIONE | |
+| | |COXOFEMORALE. Non associabile a TC| |
+| | |DELLA COSCIA [TC DEL FEMORE] | |
+| | |(88.39.3) e TC DI BACINO E | |
+| | |ARTICOLAZIONI SACROILIACHE | |
+| |88.39.2 |(88.38.5) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA COSCIA [TC DEL FEMORE]. | |
+| | |Non associabile a TC | |
+| | |DELL'ARTICOLAZIONE COXOFEMORALE | |
+| | |(88.39.2), TC DI BACINO E | |
+| | |ARTICOLAZIONI SACROILIACHE | |
+| | |(88.38.5) e TC DEL GINOCCHIO | |
+| |88.39.3 |(88.39.4) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL GINOCCHIO. Non associabile | |
+| | |a TC DELLA COSCIA [TC DEL FEMORE] | |
+| | |(88.39.3) e TC DELLA GAMBA | |
+| |88.39.4 |(88.39.5) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA GAMBA. Non associabile a | |
+| | |TC DEL GINOCCHIO (88.39.4) e TC | |
+| |88.39.5 |DELLA CAVIGLIA (88.39.6) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA CAVIGLIA. Non associabile| |
+| | |a TC DEL PIEDE (88.39.7) e TC | |
+| |88.39.6 |DELLA GAMBA (88.39.5) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL PIEDE. Non associabile a TC| |
+| |88.39.7 |DELLA CAVIGLIA (88.39.6) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI GINOCCHIO E GAMBA . Non | |
+| | |associabile a TC DEL GINOCCHIO | |
+| | |(88.39.4) e TC DELLA GAMBA | |
+| |88.39.8 |(88.39.5) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI CAVIGLIA E PIEDE. Non | |
+| | |associabile a TC DEL PIEDE | |
+| | |(88.39.7) e TC DELLA CAVIGLIA | |
+| |88.39.9 |(88.39.6) | 17 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELL'ARTICOLAZIONE COXOFEMORALE| |
+| | |SENZA E CON MDC. Non associabile | |
+| | |TC DELLA COSCIA [TC DEL FEMORE] | |
+| | |SENZA E CON MDC (88.39.B) e TC DI | |
+| | |BACINO E ARTICOLAZIONI | |
+| |88.39.A |SACROILIACHE (88.38.5) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA COSCIA [TC DEL FEMORE] | |
+| | |SENZA E CON MDC. Non associabile | |
+| | |TC DELL'ARTICOLAZIONE COXOFEMORALE| |
+| | |SENZA E CON MDC (88.39.A) e TC DEL| |
+| | |GINOCCHIO SENZA E CON MDC | |
+| |88.39.B |(88.39.C) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL GINOCCHIO SENZA E CON MDC | |
+| | |Non associabile a TC DELLA COSCIA | |
+| | |[TC DEL FEMORE] SENZA E CON MDC | |
+| | |(88.39.B) e TC DELLA GAMBA SENZA E| |
+| |88.39.C |CON MDC (88.39.D) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA GAMBA SENZA E CON MDC. | |
+| | |Non associabile a TC DEL GINOCCHIO| |
+| | |SENZA E CON MDC (88.39.C) e TC | |
+| | |DELLA CAVIGLIA SENZA E CON MDC | |
+| |88.39.D |(88.39.E) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DELLA CAVIGLIA SENZA E CON MDC.| |
+| | |Non associabile a TC DELLA GAMBA | |
+| | |SENZA E CON MDC (88.39.D) e TC DEL| |
+| |88.39.E |PIEDE SENZA E CON MDC (88.39.F) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DEL PIEDE SENZA E CON MDC. Non | |
+| | |associabile a TC DELLA CAVIGLIA | |
+| |88.39.F |SENZA E CON MDC (88.39.E) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI GINOCCHIO E GAMBA SENZA E | |
+| | |CON MDC. Non associabile a TC DEL | |
+| | |GINOCCHIO SENZA E CON MDC | |
+| | |(88.39.C) e TC DELLA GAMBA SENZA E| |
+| |88.39.G |CON MDC (88.39.D) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |TC DI CAVIGLIA E PIEDE SENZA E CON| |
+| | |MDC. Non associabile a: TC DI | |
+| | |CAVIGLIA E PIEDE (88.39.9), TC | |
+| | |DELLA CAVIGLIA SENZA E CON MDC | |
+| | |(88.39.E) e TC DEL PIEDE SENZA E | |
+| |88.39.H |CON MDC (88.39.F) | 18 |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DEI VASI INTRACRANICI. | |
+| | |Non associabile a ANGIO TC DEI | |
+| | |VASI DEL COLLO (88.41.2) e ANGIO | |
+| | |TC DEI VASI INTRACRANICI E DEL | |
+| |88.41.1 |COLLO (88.41.3) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DEI VASI DEL COLLO. Non | |
+| | |associabile a ANGIO TC DEI VASI | |
+| | |INTRACRANICI (88.41.1) e ANGIO TC | |
+| | |DEI VASI INTRACRANICI E DEL COLLO | |
+| |88.41.2 |(88.41.3) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DEI VASI INTRACRANICI E | |
+| | |DEL COLLO. Non associabile a | |
+| |88.41.3 |88.41.1 e 88.41.2 | |
++-------+-------------+----------------------------------+----------+
+| |88.43 |ANGIO TC DEL CIRCOLO POLMONARE | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DELL'AORTA TORACICA. Non | |
+| | |associabile a ANGIO TC DELL'AORTA | |
+| | |TORACO ADDOMINALE (88.47.1) e | |
+| | |ANGIO TC DELL'AORTA TORACO | |
+| |88.44.1 |ADDOMINALE (88.47.2) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DELLE ARTERIE RENALI. Non| |
+| | |associabile a ANGIO TC DI AORTA | |
+| | |ADDOMINALE E ARTERIE RENALI | |
+| |88.45 |(88.45.1) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DI AORTA ADDOMINALE E | |
+| | |ARTERIE RENALI. Non associabile a | |
+| | |ANGIO TC DELLE ARTERIE RENALI | |
+| | |(88.45) e ANGIO TC DELL'AORTA | |
+| |88.45.1 |TORACO ADDOMINALE (88.47.1) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DELL'AORTA ADDOMINALE. | |
+| | |Non associabile a ANGIO TC | |
+| | |DELL'AORTA TORACICA (88.44.1) e | |
+| | |ANGIO TC DELL'AORTA TORACO | |
+| |88.47.1 |ADDOMINALE (88.47.2) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DELL'AORTA TORACO | |
+| | |ADDOMINALE. Non associabile a | |
+| | |ANGIO TC DELL'AORTA TORACICA | |
+| | |(88.44.1) e ANGIO TC DELL'AORTA | |
+| |88.47.2 |ADDOMINALE (88.47.1) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC DI AORTA ADDOMINALE E | |
+| | |ARTI INFERIORI. Non associabile a | |
+| | |ANGIO TC [ARTERIOSA E VENOSA] | |
+| | |DEGLI ARTI INFERIORI (88.48.1) e | |
+| | |ANGIO TC DELL'AORTA ADDOMINALE | |
+| |88.47.3 |(88.47.1) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC [ARTERIOSA E VENOSA] | |
+| | |DEGLI ARTI INFERIORI. Non | |
+| | |associabile a ANGIO TC DELL'AORTA | |
+| | |ADDOMINALE (88.47.1) e ANGIO TC DI| |
+| | |AORTA ADDOMINALE E ARTI INFERIORI | |
+| |88.48.1 |(88.47.3) | |
++-------+-------------+----------------------------------+----------+
+| | |ANGIO TC [ARTERIOSA E VENOSA] | |
+| |88.49.2 |DEGLI ARTI SUPERIORI | |
++-------+-------------+----------------------------------+----------+
+| | |DENSITOMETRIA OSSEA. TC | |
+| |88.99.4 |MONODISTRETTUALE | 29 |
++-------+-------------+----------------------------------+----------+
+ 
+ 
+ 
+ 
+ 
+ 
+
++=======+=====================+=====================================+
+|n. nota| tipo nota | contenuto nota |
++=======+=====================+=====================================+
+| | INDICAZIONE |A) PATOLOGIA ONCOLOGICA: per la |
+| | APPROPRIATEZZA |valutazione delle strutture |
+| 15 | PRESCRITTIVA |scheletriche. |
+| | | |
+| | |B) SOSPETTO ONCOLOGICO IN CASO DI RM |
+| | |DUBBIA O POSITIVA: per la migliore |
+| | |valutazione della componente |
+| | |scheletrica. |
+| | | |
+| | |C) PATOLOGIA SCHELETRICA NON |
+| | |ONCOLOGICA e TRAUMATICA: per una |
+| | |migliore valutazione quando i |
+| | |precedenti esami non siano stati |
+| | |definitivi. |
+| | | |
+| | |D) In pazienti per i quali non e' |
+| | |possibile eseguire la RM, per le |
+| | |stesse indicazioni della RM. |
++-------+---------------------+-------------------------------------+
+| | |A) PATOLOGIA TRAUMATICA: dopo esame |
+| | INDICAZIONE |radiologico tradizionale per |
+| | APPROPRIATEZZA |valutazione scheletrica |
+| 17 | PRESCRITTIVA |pre-chirurgica. |
+| | | |
+| | |B) POST-TRATTAMENTO: dopo esame |
+| | |radiologico tradizionale, per una |
+| | |migliore valutazione dell'evoluzione |
+| | |clinica e di eventuali complicanze |
+| | |ossee. |
+| | | |
+| | |C) PATOLOGIA ONCOLOGICA: dopo esame |
+| | |radiologico tradizionale e/o |
+| | |scintigrafia e/o RM per la migliore |
+| | |valutazione delle strutture |
+| | |scheletriche. |
+| | | |
+| | |D) SOSPETTO ONCOLOGICO: in presenza |
+| | |di reperto dubbio agli esami |
+| | |radiologici tradizionali e/o alla |
+| | |scintigrafia ossea. |
+| | | |
+| | |E) In patologia malformativa o |
+| | |displasica dopo esame radiologico |
+| | |tradizionale. |
+| | | |
+| | |F) In pazienti per i quali non e' |
+| | |possibile eseguire la RM, per le |
+| | |stesse indicazioni della RM. |
++-------+---------------------+-------------------------------------+
+| | INDICAZIONE |"IN CASO DI CONTROINDICAZIONI |
+| | APPROPRIATEZZA |ALL'ESAME RM PER LE STESSE |
+| 18 | PRESCRITTIVA |INDICAZIONI: |
+| | | |
+| | |A) PATOLOGIA ONCOLOGICA: indagine di |
+| | |scelta per la stadiazione locale e |
+| | |per il follow-up di una neoplasia |
+| | |accertata. |
+| | | |
+| | |B) SOSPETTO ONCOLOGICO: indicata per |
+| | |la migliore valutazione delle |
+| | |strutture muscolari e tendinee. |
+| | | |
+| | |C) BILANCIO POST-CHIRURGICO IN CASO |
+| | |DI COMPLICANZE." |
++-------+---------------------+-------------------------------------+
+| | CONDIZIONE DI |Secondo indicazioni dell'Allegato 4A |
+| 29 | EROGABILITA' |dei LEA |
+| | | |
+| | |Allegato 4A |
+| | | |
+| | |Fattori di rischio per l'erogazione |
+| | |delle prestazioni di densitometria |
+| | |ossea |
+| | | |
+| | |L'indagine densitometrica e' indicata|
+| | |in presenza di uno dei seguenti |
+| | | |
+| | |Fattori di rischio maggiori |
+| | | |
+| | |1. Per soggetti di ogni eta' di sesso|
+| | |femminile e maschile: |
+| | | |
+| | |a. Precedenti fratture da fragilita' |
+| | |(causate da trauma minimo) o |
+| | |riscontro radiologico di |
+| | | |
+| | |fratture vertebrali. |
+| | | |
+| | |b. Riscontro radiologico di |
+| | |osteoporosi |
+| | | |
+| | |c. Terapie croniche (attuate o |
+| | |previste) |
+| | | |
+| | |· Cortico-steroidi sistemici (per |
+| | |piu' di 3 mesi a posologie >/= 5 |
+| | |mg/die di equivalente prednisonico). |
+| | | |
+| | |· Levotiroxina (a dosi soppressive). |
+| | | |
+| | |· Antiepilettici. |
+| | | |
+| | |· Anticoagulanti (eparina). |
+| | | |
+| | |· Immunosoppressori. |
+| | | |
+| | |· Antiretrovirali. |
+| | | |
+| | |· Sali di litio. |
+| | | |
+| | |· Agonisti del GnRH. |
+| | | |
+| | |· Chemioterapia in eta' pediatrica ¹ |
+| | | |
+| | |· Radioterapia in eta' pediatrica ² |
+| | | |
+| | |d. Patologie a rischio di |
+| | |osteoporosi: |
+| | | |
+| | |· Malattie endocrine con rilevante |
+| | |coinvolgimento osseo (amenorrea |
+| | |primaria non trattata, amenorrea |
+| | |secondaria per oltre un anno, |
+| | |ipogonadismi, |
+| | |iperparatiroidismo, ipertiroidismo, |
+| | |sindrome di Cushing, acromegalia, |
+| | |deficit di GH, iperprolattinemia, |
+| | |diabete mellito tipo 1). |
+| | | |
+| | |· Rachitismi/osteomalacia. |
+| | | |
+| | |· Sindromi da denutrizione, compresa |
+| | |l'anoressia nervosa e le sindromi |
+| | |correlate, |
+| | | |
+| | |· Celiachia e sindromi da |
+| | |malassorbimento, |
+| | | |
+| | |· Malattie infiammatorie intestinali |
+| | |croniche severe, |
+| | | |
+| | |· Epatopatie croniche colestatiche. |
+| | | |
+| | |· Fibrosi cistica, |
+| | | |
+| | |· Insufficienza renale cronica, |
+| | |sindrome nefrosica, nefrotubulopatie |
+| | |croniche e ipercalciuria idiopatica. |
+| | | |
+| | |· Emopatie con rilevante |
+| | |coinvolgimento osseo (mieloma, |
+| | |linfoma, leucemia, thalassemia, |
+| | |drepanocitosi, mastocitosi). |
+| | | |
+| | |· Artrite reumatoide (incluso Morbo |
+| | |di Still), spondilite anchilosante, |
+| | |artropatia psoriasica, connettiviti |
+| | |sistemiche. |
+| | | |
+| | |· Patologie genetiche con alterazioni|
+| | |metaboliche e displasiche |
+| | |dell'apparato scheletrico. |
+| | | |
+| | |· Trapianto d'organo. |
+| | | |
+| | |· Allettamento e immobilizzazioni |
+| | |prolungate (>3 mesi). |
+| | | |
+| | |· Paralisi cerebrale, distrofia |
+| | |muscolare, atrofia muscolare e |
+| | |spinale. |
+| | | |
+| | |2. Limitatamente a donne in menopausa|
+| | | |
+| | |a. Anamnesi familiare materna di |
+| | |frattura osteoporotica in eta' |
+| | |inferiore a 75 anni. |
+| | | |
+| | |b. Menopausa prima di 45 anni. |
+| | | |
+| | |c. Magrezza: indice di massa corporea|
+| | | 20 sigarette/die |
+| | | |
+| | |6. Abuso alcolico (>60 g/die di |
+| | |alcool). |
+| | | |
+| | |3 o piu' fattori di rischio minori |
+| | |per gli uomini di eta' superiore a 60|
+| | |anni |
+| | | |
+| | |1. Anamnesi familiare per severa |
+| | |osteoporosi. |
+| | | |
+| | |2. Magrezza (indice di massa corporea|
+| | |20 sigarette/die |
+| | | |
+| | |5. Abuso alcolico (>60 g/die di |
+| | |alcool). |
+| | | |
+| | |¹ La Chemioterapia e' prevista quale |
+| | |criterio di accesso nell'eta' adulta |
+| | |solo se associata a 3 o piu' criteri |
+| | |minori |
+| | | |
+| | |² La Radioterapia e' prevista quale |
+| | |criterio di accesso nell'eta' adulta |
+| | |solo se associata a 3 o piu' criteri |
+| | |minori |
++-------+---------------------+-------------------------------------+
+| | INDICAZIONE | |
+| | APPROPRIATEZZA |OVE POSSIBILE, INDICARE GLI SPAZI |
+| 108 | PRESCRITTIVA |INTERSOMATICI/METAMERI DA ESPLORARE |
++-------+---------------------+-------------------------------------+
+| | INDICAZIONE |A) PATOLOGIA ONCOLOGICA: per la |
+| | APPROPRIATEZZA |valutazione delle strutture |
+| 109 | PRESCRITTIVA |scheletriche. |
+| | | |
+| | |B) SOSPETTO ONCOLOGICO IN CASO DI RM |
+| | |DUBBIA O POSITIVA: per la migliore |
+| | |valutazione della componente |
+| | |scheletrica. |
+| | | |
+| | |C) PATOLOGIA SCHELETRICA NON |
+| | |ONCOLOGICA e TRAUMATICA: per una |
+| | |migliore valutazione della componente|
+| | |scheletrica. |
+| | | |
+| | |D) In pazienti per i quali non e' |
+| | |possibile eseguire la RM, per le |
+| | |stesse indicazioni della RM. |
+| | |OVE POSSIBILE, INDICARE GLI SPAZI |
+| | |INTERSOMATICI/METAMERI DA ESPLORARE |
++-------+---------------------+-------------------------------------+
+ 
+ 
+ RISONANZE MAGNETICHE NUCLEARI (RM) 
+ 
+ 
+ 
+
++=======+============+===================================+==========+
+| | | | Numero |
+| NOTA | CODICE | DESCRIZIONE | nota |
++=======+============+===================================+==========+
+| | |BIOPSIA RM DELLA MAMMELLA CON | |
+| |85.11.9 |RETROASPIRAZIONE | |
++-------+------------+-----------------------------------+----------+
+| | |COLANGIOGRAFIA TRANSCATETERE. | |
+| |87.54.1 |Incluso: esame diretto | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI ENCEFALO E TRONCO ENCEFALICO,| |
+| | |GIUNZIONE CRANIO SPINALE. Incluso: | |
+| | |prima valutazione delle strutture | |
+| |88.91.1 |vascolari. Escluso: ANGIO RM. | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI ENCEFALO E TRONCO ENCEFALICO,| |
+| | |GIUNZIONE CRANIO SPINALE SENZA E | |
+| | |CON MDC. Incluso: prima valutazione| |
+| | |delle strutture vascolari. Escluso:| |
+| |88.91.2 |ANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO- RM DEL DISTRETTO VASCOLARE | |
+| |88.91.5 |INTRACRANICO | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL COLLO [faringe, laringe, | |
+| | |parotidi-ghiandole salivari, | |
+| | |tiroide-paratiroidi]. Incluso: | |
+| | |prima valutazione delle strutture | |
+| |88.91.6 |vascolari. Escluso: ANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL COLLO SENZA E CON MDC | |
+| | |[faringe, laringe, | |
+| | |parotidi-ghiandole salivari, | |
+| | |tiroide-paratiroidi]. Incluso: | |
+| | |prima valutazione delle strutture | |
+| |88.91.7 |vascolari. Escluso: ANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| |88.91.8 |ANGIO- RM DEI VASI DEL COLLO | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL MASSICCIO FACCIALE | |
+| | |[Mascella, mandibola, cavita' | |
+| | |nasali, seni paranasali, etmoide]. | |
+| | |Incluso: prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| | |RM. Non associabile a RM | |
+| | |DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE (88.91.B), RM DELLA | |
+| | |SELLA TURCICA (88.91.C), RM DELLE | |
+| | |ROCCHE PETROSE (88.91.D), RM DELLE | |
+| | |ORBITE (88.91.E), e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.A |(88.91.F) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE. Incluso: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. | |
+| | |Incluso eventuale esame dinamico. | |
+| | |Non associabile a RM DEL MASSICCIO | |
+| | |FACCIALE (88.91.A), RM DELLA SELLA | |
+| | |TURCICA (88.91.C), RM DELLE ROCCHE | |
+| | |PETROSE (88.91.D), RM DELLE ORBITE | |
+| | |(88.91.E), e RM DEL MASSICCIO | |
+| |88.91.B |FACCIALE COMPLESSIVO (88.91.F) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA SELLA TURCICA. Incluso: | |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DEL MASSICCIO | |
+| | |FACCIALE (88.91.A), RM | |
+| | |DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE (88.91.B), RM DELLE | |
+| | |ROCCHE PETROSE (88.91.D), RM DELLE | |
+| | |ORBITE (88.91.E), e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.C |(88.91.F) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE ROCCHE PETROSE. Incluso: | |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DEL MASSICCIO | |
+| | |FACCIALE (88.91.A), RM | |
+| | |DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE (88.91.B), RM DELLA | |
+| | |SELLA TURCICA (88.91.C), RM DELLE | |
+| | |ORBITE (88.91.E), e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.D |(88.91.F) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE ORBITE. Incluso: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DEL MASSICCIO | |
+| | |FACCIALE (88.91.A), RM | |
+| | |DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE (88.91.B), RM DELLA | |
+| | |SELLA TURCICA (88.91.C), RM DELLE | |
+| | |ROCCHE PETROSE (88.91.D) e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.E |(88.91.F) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL MASSICCIO FACCIALE. Studio | |
+| | |multidistrettuale di due o piu' | |
+| | |segmenti/distretti. Incluso: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DEL MASSICCIO | |
+| | |FACCIALE (88.91.A), RM | |
+| | |DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE E/O| |
+| | |BILATERALE (88.91.B), RM DELLA | |
+| | |SELLA TURCICA (88.91.C), RM DELLE | |
+| | |ROCCHE PETROSE (88.91.D) e RM DELLE| |
+| |88.91.F |ORBITE (88.91.E) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL MASSICCIO FACCIALE SENZA E | |
+| | |CON MDC [Mascella, mandibola, | |
+| | |cavita' nasali, seniparanasali, | |
+| | |etmoide]. Incluso: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DELL'ARTICOLAZIONE| |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC | |
+| | |(88.91.H), RM DELLA SELLA TURCICA | |
+| | |SENZA E CON MDC (88.91.J), RM DELLE| |
+| | |ROCCHE PETROSE SENZA E CON MDC | |
+| | |(88.91.K), RM DELLE ORBITE SENZA E | |
+| | |CON MDC (88.91.L) e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.G |SENZA E CON MDC (88.91.M) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC. | |
+| | |Incluso: prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| | |RM. Incluso eventuale esame | |
+| | |dinamico. Non associabile a RM DEL | |
+| | |MASSICCIO FACCIALE SENZA E CON MDC | |
+| | |(88.91.G), RM DELLA SELLA TURCICA | |
+| | |SENZA E CON MDC (88.91.J), RM DELLE| |
+| | |ROCCHE PETROSE SENZA E CON MDC | |
+| | |(88.91.K), RM DELLE ORBITE SENZA E | |
+| | |CON MDC (88.91.L) e RM DEL | |
+| | |MASSICCIO FACCIALE COMPLESSIVO | |
+| |88.91.H |SENZA E CON MDC (88.91.M) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA SELLA TURCICA SENZA E CON | |
+| | |MDC. Incluso: prima valutazione | |
+| | |delle strutture vascolari. Escluso:| |
+| | |ANGIO RM. Non associabile a RM DEL | |
+| | |MASSICCIO FACCIALE SENZA E CON MDC | |
+| | |(88.91.G), RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC | |
+| | |(88.91.H), RM DELLE ROCCHE PETROSE | |
+| | |SENZA E CON MDC (88.91.K), RM DELLE| |
+| | |ORBITE SENZA E CON MDC (88.91.L) e | |
+| | |RM DEL MASSICCIO FACCIALE | |
+| | |COMPLESSIVO SENZA E CON MDC | |
+| |88.91.J |(88.91.M) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE ROCCHE PETROSE SENZA E CON| |
+| | |MDC. Incluso: prima valutazione | |
+| | |delle strutture vascolari. Escluso:| |
+| | |ANGIO RM. Non associabile a RM DEL | |
+| | |MASSICCIO FACCIALE SENZA E CON MDC | |
+| | |(88.91.G), RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC | |
+| | |(88.91.H), RM DELLA SELLA TURCICA | |
+| | |SENZA E CON MDC (88.91.J), RM DELLE| |
+| | |ORBITE SENZA E CON MDC (88.91.L) e | |
+| | |RM DEL MASSICCIO FACCIALE | |
+| | |COMPLESSIVO SENZA E CON MDC | |
+| |88.91.K |(88.91.M) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE ORBITE SENZA E CON MDC. | |
+| | |Incluso: prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| | |RM. Non associabile a RM DEL | |
+| | |MASSICCIO FACCIALE SENZA E CON MDC | |
+| | |(88.91.G), RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC | |
+| | |(88.91.H), RM DELLA SELLA TURCICA | |
+| | |SENZA E CON MDC (88.91.J), RM DELLE| |
+| | |ROCCHE PETROSE SENZA E CON MDC | |
+| | |(88.91.K), RM DEL MASSICCIO | |
+| | |FACCIALE COMPLESSIVO SENZA E CON | |
+| |88.91.L |MDC (88.91.M) | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL MASSICCIO FACCIALE SENZA E | |
+| | |CON MDC. STUDIO MULTIDISTRETTUALE | |
+| | |DI DUE O PIU' SEGMENTI. Incluso: | |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM . Non | |
+| | |associabile a RM DEL MASSICCIO | |
+| | |FACCIALE SENZA E CON MDC (88.91.G),| |
+| | |RM DELL'ARTICOLAZIONE | |
+| | |TEMPOROMANDIBOLARE MONOLATERALE O | |
+| | |BILATERALE SENZA E CON MDC | |
+| | |(88.91.H), RM DELLA SELLA TURCICA | |
+| | |SENZA E CON MDC (88.91.J), RM DELLE| |
+| | |ROCCHE PETROSE SENZA E CON MDC | |
+| | |(88.91.K), RM DELLE ORBITE SENZA E | |
+| |88.91.M |CON MDC (88.91.L) | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DEL DISTRETTO VASCOLARE | |
+| |88.91.N |INTRACRANICO SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DEI VASI DEL COLLO SENZA E| |
+| |88.91.P |CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |RM FLUSSIMETRIA LIQUORALE | |
+| | |QUANTITATIVA. Incluso: Esame di | |
+| |88.91.R |base | |
++-------+------------+-----------------------------------+----------+
+| | |RM STUDI FUNZIONALI ATTIVAZIONE | |
+| |88.91.T |CORTICALE. Incluso: Esame di base | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI ENCEFALO E TRONCO ENCEFALICO,| |
+| | |GIUNZIONE CRANIO SPINALE SENZA E | |
+| | |CON CONTRASTO. Inclusa: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. | |
+| | |Inclusa Anestesia e Visita | |
+| | |anestesiologica per pazienti | |
+| H |88.91.U |pediatrici o non collaboranti | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL TORACE [mediastino, esofago,| |
+| | |polmoni, parete toracica]. Incluso:| |
+| | |prima valutazione delle strutture | |
+| |88.92 |vascolari. Escluso: ANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL TORACE SENZA E CON MDC | |
+| | |[mediastino, esofago, polmoni, | |
+| | |parete toracica]. Incluso: prima | |
+| | |valutazione delle strutture | |
+| |88.92.1 |vascolari. Escluso: ANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| |88.92.2 |ANGIO- RM DEL DISTRETTO TORACICO | |
++-------+------------+-----------------------------------+----------+
+| |88.92.3 |CINE RM DEL CUORE | |
++-------+------------+-----------------------------------+----------+
+| |88.92.4 |CINE RM DEL CUORE SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |CINE RM DEL CUORE. Senza e con | |
+| |88.92.5 |stress funzionale | |
++-------+------------+-----------------------------------+----------+
+| | |RM MAMMARIA BILATERALE SENZA E CON | |
+| |88.92.9 |MDC | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DEL DISTRETTO TORACICO | |
+| |88.92.A |SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| |88.92.B |ANGIO RM CORONARICA | |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE CERVICALE. Non | |
+| | |associabile a RM DELLA COLONNA IN | |
+| |88.93.2 |TOTO (88.93.6) | 22 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE DORSALE. Non | |
+| | |associabile a RM DELLA COLONNA IN | |
+| |88.93.3 |TOTO (88.93.6) | 22 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE LOMBOSACRALE. Non | |
+| | |associabile a RM DELLA COLONNA IN | |
+| |88.93.4 |TOTO (88.93.6) | 22 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE SACROCOCCIGEO. Non | |
+| | |associabile a RM DELLA COLONNA IN | |
+| |88.93.5 |TOTO (88.93.6) | 22 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA COLONNA IN TOTO. Non | |
+| | |associabile a RM DEL RACHIDE | |
+| | |CERVICALE (88.93.2), RM DEL RACHIDE| |
+| | |DORSALE (88.93.3), RM DEL RACHIDE | |
+| | |LOMBOSACRALE (88.93.4), RM DEL | |
+| |88.93.6 |RACHIDE SACROCOCCIGEO (88.93.5) | 23 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE CERVICALE SENZA E | |
+| | |CON MDC. Non associabile a RM DELLA| |
+| | |COLONNA IN TOTO SENZA E CON MDC | |
+| |88.93.7 |(88.93.B) | 24 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE DORSALE SENZA E CON | |
+| | |MDC. Non associabile a RM DELLA | |
+| | |COLONNA IN TOTO SENZA E CON MDC | |
+| |88.93.8 |(88.93.B) | 24 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE LOMBO-SACRALE SENZA | |
+| | |E CON MDC. Non associabile a RM | |
+| | |DELLA COLONNA IN TOTO SENZA E CON | |
+| |88.93.9 |MDC (88.93.B) | 24 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL RACHIDE SACROCOCCIGEO SENZA | |
+| | |E CON MDC. Non associabile a RM | |
+| | |DELLA COLONNA IN TOTO SENZA E CON | |
+| |88.93.A |MDC (88.93.B) | 24 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA COLONNA IN TOTO SENZA E | |
+| | |CON MDC. Non associabile a 88.93.7,| |
+| |88.93.B |88.93.8, 88.93.9, 88.93.A | 25 |
++-------+------------+-----------------------------------+----------+
+| |88.93.C |ANGIO RM MIDOLLO SPINALE CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |ARTRO RM. Incluso: esame di base. | |
+| | |Per distretto articolare. Non | |
+| | |associabile a ARTROGRAFIA CON MDC | |
+| | |(88.32) e a RM del distretto | |
+| |88.94 |articolare interessato | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA SPALLA. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.4 |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL BRACCIO. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.5 |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL GOMITO. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.6 |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'AVAMBRACCIO. Incluso: parti| |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.7 |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL POLSO. Incluso: parti molli,| |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM . Non | |
+| |88.94.8 |associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA MANO. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.9 |RM . Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL BACINO. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.A |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ARTICOLAZIONE COXOFEMORALE | |
+| | |MONO E/O BILATERALE. Incluso: parti| |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.B |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA COSCIA [RM DEL FEMORE]. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM . Non | |
+| |88.94.C |associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL GINOCCHIO. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.D |RM. Non associabile a 88.94 | 27 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA GAMBA. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.E |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA CAVIGLIA. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.F |RM. Non associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL PIEDE. Incluso: parti molli,| |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| |88.94.G |associabile a 88.94 | 26 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA SPALLA SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.H |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL BRACCIO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.J |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL GOMITO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.K |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'AVAMBRACCIO SENZA E CON | |
+| | |MDC. Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.L |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL POLSO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.M |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA MANO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.N |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL BACINO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.P |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ARTICOLAZIONE COXOFEMORALE | |
+| | |MONO E/O BILATERALE SENZA E CON | |
+| | |MDC. Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.Q |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA COSCIA [RM DEL FEMORE] | |
+| | |SENZA E CON MDC. Incluso: parti | |
+| | |molli, prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.94.R |RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL GINOCCHIO SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.S |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA GAMBA SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.T |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLA CAVIGLIA SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.U |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| | |RM DEL PIEDE SENZA E CON MDC. | |
+| | |Incluso: parti molli, prima | |
+| | |valutazione delle strutture | |
+| |88.94.V |vascolari. Escluso: ANGIO RM | 28 |
++-------+------------+-----------------------------------+----------+
+| |88.94.W |ANGIO RM DELL'ARTO INFERIORE | |
++-------+------------+-----------------------------------+----------+
+| |88.94.X |ANGIO RM DELL'ARTO SUPERIORE | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DELL'ARTO INFERIORE SENZA | |
+| |88.94.Y |E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DELL'ARTO SUPERIORE SENZA | |
+| |88.94.Z |E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ADDOME SUPERIORE. Incluso: | |
+| | |Fegato e vie biliari, milza, | |
+| | |pancreas, reni e surreni, | |
+| | |retroperitoneo e relativo distretto| |
+| | |vascolare. Non associabile a | |
+| |88.95.1 |88.97.9 e 88.97.C | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELL'ADDOME SUPERIORE, SENZA E | |
+| | |CON MDC. Incluso: Fegato e vie | |
+| | |biliari, milza, pancreas, reni e | |
+| | |surreni, retroperitoneo e relativo | |
+| | |distretto vascolare. Non | |
+| |88.95.2 |associabile a 88.97.9, 88.97.C | |
++-------+------------+-----------------------------------+----------+
+| |88.95.3 |ANGIO RM DELL'ADDOME SUPERIORE | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI ADDOME INFERIORE E SCAVO | |
+| | |PELVICO. Incluso: prima valutazione| |
+| | |delle strutture vascolari. Escluso:| |
+| | |ANGIO RM. Non associabile a 88.97.9| |
+| |88.95.4 |e 88.97.C | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI ADDOME INFERIORE E SCAVO | |
+| | |PELVICO SENZA E CON MDC. Incluso: | |
+| | |prima valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a 88.95.9, 88.97.9 e | |
+| |88.95.5 |88.97.C | |
++-------+------------+-----------------------------------+----------+
+| |88.95.6 |ANGIO RM DELL'ADDOME INFERIORE | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DELL'ADDOME SUPERIORE | |
+| |88.95.7 |SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI INGUINE. SCROTO E/O PENE. | |
+| | |Incluso: prima valutazione delle | |
+| | |strutture vascolari. Escluso: ANGIO| |
+| |88.95.8 |RM | |
++-------+------------+-----------------------------------+----------+
+| | |RM DI INGUINE. SCROTO E/O PENE | |
+| | |SENZA E CON MDC. Incluso: prima | |
+| | |valutazione delle strutture | |
+| | |vascolari. Escluso: ANGIO RM. Non | |
+| | |associabile a RM DI ADDOME | |
+| | |INFERIORE E SCAVO PELVICO SENZA E | |
+| |88.95.9 |CON MDC (88.95.5) | |
++-------+------------+-----------------------------------+----------+
+| | |ANGIO RM DELL'ADDOME INFERIORE | |
+| |88.95.A |SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| |88.95.B |RM ENDOCAVITARIA | |
++-------+------------+-----------------------------------+----------+
+| |88.95.C |RM ENDOCAVITARIA SENZA E CON MDC | |
++-------+------------+-----------------------------------+----------+
+| | |RM ADDOME INFERIORE CON STUDIO | |
+| |88.95.D |DINAMICO DEL PAVIMENTO PELVICO | |
++-------+------------+-----------------------------------+----------+
+| |88.95.E |RM UROGRAFIA | |
++-------+------------+-----------------------------------+----------+
+| |88.95.F |RM FETALE | |
++-------+------------+-----------------------------------+----------+
+| | |RM DIFFUSIONE. Incluso tensore di | |
+| |88.97.2 |diffusione. Incluso: Esame di base | |
++-------+------------+-----------------------------------+----------+
+| | |RM SPETTROSCOPIA. Incluso: Esame di| |
+| |88.97.4 |base | |
++-------+------------+-----------------------------------+----------+
+| | |RM PERFUSIONE. Incluso: Esame di | |
+| |88.97.6 |base | |
++-------+------------+-----------------------------------+----------+
+| | |RM DIFFUSIONE. PERFUSIONE SENZA E | |
+| |88.97.8 |CON MDC. Incluso: Esame di base | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE VIE DIGESTIVE CON MDC | |
+| | |ORALE. Non associabile a RM | |
+| | |DELL'ADDOME SUPERIORE (88.95.1), RM| |
+| | |DELL'ADDOME SUPERIORE, SENZA E CON | |
+| | |MDC (88.95.2), RM DI ADDOME | |
+| | |INFERIORE E SCAVO PELVICO | |
+| | |(88.95.4), RM DI ADDOME INFERIORE E| |
+| | |SCAVO PELVICO SENZA E CON MDC | |
+| |88.97.9 |(88.95.5) | |
++-------+------------+-----------------------------------+----------+
+| |88.97.A |COLANGIO RM | |
++-------+------------+-----------------------------------+----------+
+| | |COLANGIO RM. Con stimolo | |
+| | |farmacologico. Incluso: esame di | |
+| |88.97.B |base | |
++-------+------------+-----------------------------------+----------+
+| | |RM DELLE VIE DIGESTIVE CON MDC | |
+| | |ORALE SENZA E CON MDC VENOSO. Non | |
+| | |associabile a RM DELL'ADDOME | |
+| | |SUPERIORE (88.95.1), RM DELL'ADDOME| |
+| | |SUPERIORE, SENZA E CON MDC | |
+| | |(88.95.2), RM DI ADDOME INFERIORE E| |
+| | |SCAVO PELVICO (88.95.4), RM DI | |
+| | |ADDOME INFERIORE E SCAVO PELVICO | |
+| |88.97.C |SENZA E CON MDC (88.95.5) | |
++-------+------------+-----------------------------------+----------+
+ 
+ 
+ 
+ 
+
++======+====================+=======================================+
+| n. | | |
+| nota | tipo nota | contenuto nota |
++======+====================+=======================================+
+| | |A) DOLORE RACHIDEO NON RISOLTO DALLA |
+| |INDICAZIONE |TERAPIA della durata di almeno 4 |
+| |APPROPRIATEZZA |settimane con o senza sintomatologia |
+|22 |PRESCRITTIVA |neurologica. |
+| | | |
+| | |B) TRAUMI RECENTI |
+| | | |
+| | |C) SOSPETTA SPONDILODISCITE. Ripetibile|
+| | |solo in funzione del quadro |
+| | |clinico-laboratoristico. |
+| | | |
+| | |D) PATOLOGIE MIDOLLARI |
+| | |NEURODEGENERATIVE. |
++------+--------------------+---------------------------------------+
+| | |1) DOLORE RACHIDEO, resistente alla |
+| |INDICAZIONE |terapia, della durata di almeno 4 |
+| |APPROPRIATEZZA |settimane, con o senza sintomatologia |
+|22A |PRESCRITTIVA |di tipo neurologico. |
+| | | |
+| | |2) TRAUMI RECENTI dopo esame |
+| | |radiologico non conclusivo. |
++------+--------------------+---------------------------------------+
+| |INDICAZIONE | |
+| |APPROPRIATEZZA |A) STUDIO DI STADIAZIONE E FOLLOW-UP |
+|23 |PRESCRITTIVA |ONCOLOGICO. |
+| | | |
+| | |B) IN AMBITO PEDIATRICO. |
+| | | |
+| | |C) DIAGNOSI E MONITORAGGIO DI SCLEROSI |
+| | |MULTIPLA. |
+| | | |
+| | |D) FORME PRECOCI DI SPONDILITE |
+| | |ANCHILOSANTE (Nota AIFA) |
++------+--------------------+---------------------------------------+
+| |INDICAZIONE |A) PATOLOGIA ONCOLOGICA: sospetta |
+| |APPROPRIATEZZA |estensione endocanalare/extraverebrale |
+|24 |PRESCRITTIVA |della neoplasia. |
+| | | |
+| | |B) SOSPETTA SPONDILODISCITE: migliore |
+| | |definizione del processo patologico |
+| | |dopo RM senza mezzo di contrasto. |
+| | | |
+| | |C) SOSPETTA PATOLOGIA INFETTIVA. |
+| | | |
+| | |D) COMPLICANZE POST-TRAUMATICHE o POST |
+| | |CHIRUGICHE. |
++------+--------------------+---------------------------------------+
+| |INDICAZIONE | |
+| |APPROPRIATEZZA |A) DIAGNOSI, STADIAZIONE E FOLLOW-UP IN|
+|25 |PRESCRITTIVA |AMBITO ONCOLOGICO E ONCO-EMATOLOGICO. |
+| | | |
+| | |B) DIAGNOSI E MONITORAGGIO IN FASE DI |
+| | |ATTIVITA' DI SCLEROSI MULTIPLA. |
++------+--------------------+---------------------------------------+
+| | |A) PATOLOGIA TRAUMATICA/DEGENERATIVA: |
+| | |indicata nel caso di lesione ossea od |
+| | |osteocondrale negativa o dubbia alla |
+| | |RX. In caso di dolore persistente con |
+| | |sospetta lesione tendinea ed ecografia |
+| |INDICAZIONE |negativa o dubbia. Non ripetibile prima|
+| |APPROPRIATEZZA |di 1 anno ed in funzione del quadro |
+|26 |PRESCRITTIVA |clinico. |
+| | | |
+| | |B) POST CHIRURGICA: non indicata |
+| | |inizialmente. Migliore valutazione |
+| | |delle eventuali complicanze. |
+| | | |
+| | |C) SOSPETTA PATOLOGIA ARTRITICA: dopo |
+| | |RX negativa e test di laboratorio |
+| | |probanti per la patologia. Non |
+| | |ripetibile prima di almeno 6 mesi ed in|
+| | |funzione del quadro |
+| | |clinico-laboratoristico. |
++------+--------------------+---------------------------------------+
+| | |1) PATOLOGIA TRAUMATICA/DEGENERATIVA: |
+| | |indicata nel caso di lesione ossea od |
+| | |osteocondrale negativa o dubbia alla |
+| | |RX. In caso di dolore persistente con |
+| | |sospetta lesione tendinea ed ecografia |
+| |INDICAZIONE |negativa o dubbia. Non ripetibile prima|
+| |APPROPRIATEZZA |di 1 anno ed in funzione del quadro |
+|26A |PRESCRITTIVA |clinico. |
+| | | |
+| | |2) POST CHIRURGICA: Non indicata |
+| | |inizialmente. Migliore valutazione |
+| | |delle eventuali complicanze. |
+| | | |
+| | |3) SOSPETTA INFIAMMAZIONE: dopo RX |
+| | |negativa e test di laboratorio probanti|
+| | |per la patologia. Non ripetibile prima |
+| | |di almeno 6 mesi ed in funzione del |
+| | |quadro clinico-laboratoristico. |
++------+--------------------+---------------------------------------+
+| | |1) PATOLOGIA TRAUMATICA: indicata nel |
+| | |caso di lesione ossea od osteocondrale |
+| |INDICAZIONE |negativa o dubbia alla Rx. In caso di |
+| |APPROPRIATEZZA |dolore persistente con sospetta |
+|26B |PRESCRITTIVA |patologia legamentosa o tendinea. |
+| | | |
+| | |2) POST CHIRURGICA in caso di |
+| | |complicanze |
+| | | |
+| | |3) SOSPETTA PATOLOGIA INFIAMMATORIA; |
+| | |Compresa la valutazione delle |
+| | |articolazioni sacro-iliache |
++------+--------------------+---------------------------------------+
+| | |A) PATOLOGIA TRAUMATICA/DEGENERATIVA: |
+| | |indicata nel caso di lesione ossea od |
+| | |osteocondrale negativa o dubbia alla |
+| | |RX; in caso di dolore persistente con |
+| |INDICAZIONE |sospetta lesione meniscale o capsulo |
+| |APPROPRIATEZZA |legamentosa; non ripetibile prima di 1 |
+|27 |PRESCRITTIVA |anno ed in funzione del quadro clinico.|
+| | | |
+| | |B) POST CHIRURGICA: Non indicata |
+| | |inizialmente. Migliore valutazione |
+| | |delle eventuali complicanze. |
+| | | |
+| | |C) SOSPETTA INFIAMMAZIONE: dopo RX |
+| | |negativa e test di laboratorio probanti|
+| | |per la patologia infiammatoria; non |
+| | |ripetibile prima di almeno 6 mesi ed in|
+| | |funzione del quadro |
+| | |clinico-laboratoristico. |
++------+--------------------+---------------------------------------+
+| | |1) PATOLOGIA TRAUMATICA/ DEGENERATIVA: |
+| | |indicata nel caso di lesione ossea od |
+| |INDICAZIONE |osteocondrale negativa o dubbia alla |
+| |APPROPRIATEZZA |Rx. Non ripetibile prima di 1 anno ed |
+|27A |PRESCRITTIVA |in funzione del quadro clinico. |
+| | | |
+| | |2) POST CHIRURGICA: non indicata |
+| | |inizialmente. Migliore valutazione |
+| | |delle eventuali complicanze. |
+| | | |
+| | |3) SOSPETTA INFIAMMAZIONE: dopo Rx |
+| | |negativa e test di laboratorio probanti|
+| | |per la patologia infiammatoria. Non |
+| | |ripetibile prima di almeno 6 mesi ed in|
+| | |funzione del quadro |
+| | |clinico-laboratoristico. |
++------+--------------------+---------------------------------------+
+| | |A) PATOLOGIA ONCOLOGICA: indagine di |
+| |INDICAZIONE |scelta per la stadiazione locale e per |
+| |APPROPRIATEZZA |il follow-up di una neoplasia |
+|28 |PRESCRITTIVA |accertata. |
+| | | |
+| | |B) SOSPETTO ONCOLOGICO: indicata per la|
+| | |migliore valutazione delle strutture |
+| | |muscolari e tendinee. |
+| | | |
+| | |C) BILANCIO POST-CHIRURGICO IN CASO DI |
+| | |COMPLICANZE. |
++------+--------------------+---------------------------------------+
+ 
+ 
+ MEDICINA NUCLEARE 
+ 
+ 
+ 
+
++========+===============+==========================================+
+| NOTA | CODICE | DESCRIZIONE |
++========+===============+==========================================+
+| |89.01.A |VISITA DI MEDICINA NUCLEARE DI CONTROLLO |
++--------+---------------+------------------------------------------+
+| | |PRIMA VISITA DI MEDICINA NUCLEARE Incluso:|
+| | |Valutazione pretrattamento e stesura del |
+| |89.7B.3 |piano di trattamento |
++--------+---------------+------------------------------------------+
+| |92.01.1 |CAPTAZIONE TIROIDEA |
++--------+---------------+------------------------------------------+
+| |92.01.3 |SCINTIGRAFIA TIROIDEA |
++--------+---------------+------------------------------------------+
+| |92.01.5 |SCINTIGRAFIA TIROIDEA CON IODIO-123 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA EPATICA PER RICERCA DI |
+| | |LESIONI ANGIOMATOSE CON INDAGINE |
+| |92.02.2 |TOMOGRAFICA |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA SEQUENZIALE EPATOBILIARE |
+| | |INCLUSA VALUTAZIONE DELLA FUNZIONE |
+| | |COLECISTICA E/O DEL REFLUSSO |
+| |92.02.3 |DUODENO-GASTRICO |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA RENALE STATICA. Non |
+| | |associabile a SCINTIGRAFIA RENALE STATICA |
+| |92.03.1 |CON INDAGINE TOMOGRAFICA (92.03.8) |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA SEQUENZIALE RENALE. Studio |
+| | |sequenziale della funzione renale senza o |
+| | |con prove farmacologiche Incluso: misura |
+| | |contestuale della funzionalita' renale |
+| |92.03.3 |separata ("in vivo") |
++--------+---------------+------------------------------------------+
+| | |STUDIO DEL REFLUSSO VESCICO-URETERALE. |
+| | |Mediante cistoscintigrafia minzionale |
+| | |diretta. Incluso: posizionamento di |
+| |92.03.4 |catetere |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA RENALE STATICA CON INDAGINE |
+| | |TOMOGRAFICA. Non associabile a |
+| |92.03.8 |SCINTIGRAFIA RENALE STATICA (92.03.1) |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA SEQUENZIALE DELLE GHIANDOLE |
+| |92.04.1 |SALIVARI CON STUDIO FUNZIONALE |
++--------+---------------+------------------------------------------+
+| | |STUDIO DEL TRANSITO ESOFAGEO Non |
+| |92.04.2 |associabile a 92.04.6 |
++--------+---------------+------------------------------------------+
+| |92.04.3 |STUDIO DEL REFLUSSO GASTRO-ESOFAGEO |
++--------+---------------+------------------------------------------+
+| |92.04.4 |VALUTAZIONE DELLE GASTROENTERORRAGIE |
++--------+---------------+------------------------------------------+
+| | |ANGIOCARDIOSCINTIGRAFIA ALL'EQUILIBRIO a |
+| | |riposo e dopo test provocativo da stimolo |
+| | |(fisico o farmacologico). Incluso: test |
+| | |cardiovascolare provocativo da sforzo o |
+| | |farmacologico ed eventuale SPET. Non |
+| | |associabile a ANGIOCARDIOSCINTIGRAFIA |
+| |92.05.4 |ALL'EQUILIBRIO a riposo ( 92.05.A) |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA DEL MIDOLLO OSSEO GLOBALE |
+| | |CORPOREA. Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| |92.05.6 |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| |92.05.7 |[PET-TC] MIOCARDICA CON FDG |
++--------+---------------+------------------------------------------+
+| | |ANGIOCARDIOSCINTIGRAFIA ALL'EQUILIBRIO a |
+| |92.05.A |riposo. Non associabile a 92.05.4 |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| | |[PET-TC] MIOCARDICA DI PERFUSIONE CON |
+| |92.05.C |AMMONIA |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| |92.05.D |[PET-TC] MIOCARDICA CON ALTRI RADIOFARMACI|
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA MIOCARDICA [G-SPET] DI |
+| | |PERFUSIONE A RIPOSO. Incluso: valutazione |
+| | |quantitativa della funzione e dei volumi |
+| |92.05.E |ventricolari. Non associabile a 92.09.2 |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA MIOCARDICA [G-SPET] DI |
+| | |PERFUSIONE DA STIMOLO FISICO O |
+| | |FARMACOLOGICO. Incluso: valutazione |
+| | |quantitativa della funzione e dei volumi |
+| | |ventricolari. Incluso test cardiovascolare|
+| | |provocativo da sforzo o farmacologico. Non|
+| | |associabile a TEST CARDIOVASCOLARE DA |
+| | |SFORZO CON CICLOERGOMETRO O CON PEDANA |
+| |92.05.F |MOBILE 89.41 |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| | |[PET-TC] MIOCARDICA DI PERFUSIONE A RIPOSO|
+| | |E DA STIMOLO: STUDIO QUALITATIVO. Incluso:|
+| | |test cardiovascolare provocativo da sforzo|
+| | |o farmacologico. Non associabile a TEST |
+| | |CARDIOVASCOLARE DA SFORZO CON |
+| |92.09.1 |CICLOERGOMETRO O CON PEDANA MOBILE 89.41 |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA MIOCARDICA [SPET] DI |
+| | |PERFUSIONE A RIPOSO. Non associabile a |
+| |92.09.2 |92.05.E |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA MIOCARDICA [SPET] DI |
+| | |PERFUSIONE DA STIMOLO FISICO O |
+| | |FARMACOLOGICO. Incluso: test |
+| | |cardiovascolare provocativo da sforzo o |
+| | |farmacologico. Non associabile a TEST |
+| | |CARDIOVASCOLARE DA SFORZO CON |
+| |92.09.9 |CICLOERGOMETRO O CON PEDANA MOBILE 89.41 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA [SPET] MIOCARDICA CON |
+| | |TRACCIANTE DI INNERVAZIONE O RECETTORIALE |
+| |92.09.B |O NEURORECETTORIALE O DI METABOLISMO. |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA [SPET] CEREBRALE CON |
+| | |TRACCIANTE DI PERFUSIONE. In condizioni |
+| | |basali, sotto stimolo farmacologico o di |
+| |92.11.5 |attivazione |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| |92.11.6 |[PET-TC] CEREBRALE CON FDG |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA [SPET] CEREBRALE CON |
+| | |TRACCIANTI RECETTORIALI O INDICATORI |
+| |92.11.9 |POSITIVI DI NEOPLASIA |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| |92.11.A |[PET-TC] CEREBRALE CON ALTRI RADIOFARMACI |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA DELLE PARATIROIDI. Non |
+| |92.13 |associabile a 92.13.2 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA DELLE PARATIROIDI CON |
+| | |INDAGINE TOMOGRAFICA. Non associabile a |
+| |92.13.2 |92.13 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA POLMONARE PERFUSIONALE, |
+| | |INCLUSO EVENTUALE STUDIO QUANTITATIVO |
+| | |DIFFERENZIALE DELLA FUNZIONE POLMONARE. |
+| | |Incluso: eventuale indagine |
+| |92.15.1 |tomoscintigrafica |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA POLMONARE VENTILATORIA |
+| | |INCLUSO EVENTUALE STUDIO QUANTITATIVO |
+| | |DIFFERENZIALE DELLA FUNZIONE POLMONARE. |
+| | |Incluso: eventuale indagine |
+| |92.15.2 |tomoscintigrafica |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA POLMONARE CON INDICATORE |
+| | |POSITIVO DI NEOPLASIA. Incluso: eventuale |
+| | |indagine tomoscintigrafica. Non |
+| |92.15.4 |associabile a 92.19.8 |
++--------+---------------+------------------------------------------+
+| | |VALUTAZIONE DELLA CLEARANCE POLMONARE CON |
+| |92.15.6 |TECNICA SCINTIGRAFICA |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA LINFATICA E LINFOGHIANDOLARE |
+| | |SEGMENTARIA. Incluso: eventuale indagine |
+| |92.16.1 |tomoscintigrafica. |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA MAMMARIA CON INDICATORI |
+| | |POSITIVI DI NEOPLASIA. Non associabile a |
+| |92.16.2 |92.19.8 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA GLOBALE CORPOREA CON |
+| | |INDICATORI POSITIVI DI NEOPLASIA O DI |
+| | |FLOGOSI. Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| | |completamento della prestazione. Non |
+| |92.18.1 |associabile a 92.19.8 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA OSSEA O ARTICOLARE GLOBALE |
+| | |CORPOREA. Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| | |completamento della prestazione. Non |
+| |92.18.2 |associabile a 92.18.7 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA OSSEA O ARTICOLARE O |
+| | |SEGMENTARIA TRIFASICA. Incluso: eventuale |
+| | |indagine tomoscintigrafica. Non |
+| |92.18.7 |associabile a 92.18.2 |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA GLOBALE CORPOREA CON |
+| | |IODIO-131 Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| |92.18.8 |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA GLOBALE CORPOREA CON |
+| | |IODIO-131 con stimolazione farmacologica |
+| | |(Tireotropina alfa). Incluso: eventuale |
+| | |indagine tomoscintigrafica segmentaria a |
+| |92.18.9 |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA GLOBALE CORPOREA CON |
+| | |LEUCOCITI RADIOMARCATI Incluso: eventuale |
+| | |indagine tomoscintigrafica segmentaria a |
+| |92.18.A |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA GLOBALE CORPOREA CON |
+| | |TRACCIANTI IMMUNOLOGICI O RECETTORIALI. |
+| | |Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| |92.18.B |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| |92.18.C |[PET-TC] GLOBALE CORPOREA CON FDG |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| | |[PET-TC] GLOBALE CORPOREA CON ALTRI |
+| | |FARMACI. Incluso: eventuale indagine |
+| | |tomoscintigrafica segmentaria a |
+| |92.18.D |completamento della prestazione |
++--------+---------------+------------------------------------------+
+| |92.19.1 |SCINTIGRAFIA SURRENALICA CORTICALE |
++--------+---------------+------------------------------------------+
+| |92.19.2 |SCINTIGRAFIA SURRENALICA MIDOLLARE |
++--------+---------------+------------------------------------------+
+| | |ANGIOSCINTIGRAFIA [ANGIOGRAFIA, VENOGRAFIA|
+| |92.19.5 |RADIOISOTOPICA] |
++--------+---------------+------------------------------------------+
+| | |SCINTIGRAFIA SEGMENTARIA CON INDICATORI |
+| | |POSITIVI DI NEOPLASIA O DI FLOGOSI. Non |
+| |92.19.8 |associabile a 92.15.4, 92.16.2, 92.18.1 |
++--------+---------------+------------------------------------------+
+| | |TOMOSCINTIGRAFIA [SPET] SEGMENTARIA AI |
+| |92.19.A |FINI DI PIANO DOSIMETRICO |
++--------+---------------+------------------------------------------+
+| | |TOMOGRAFIA AD EMISSIONE DI POSITRONI |
+| | |[PET-TC] SEGMENTARIA AI FINI DI PIANO |
+| |92.19.B |DOSIMETRICO |
++--------+---------------+------------------------------------------+
+| |92.28.1* |TERAPIA PER IPERTIROIDISMO con Iodio-131 |
++--------+---------------+------------------------------------------+
+| | |TERAPIA ENDOARTICOLARE (RADIOSINOVIORTESI)|
+| |92.28.3* |DI AFFEZIONI NON NEOPLASTICHE |
++--------+---------------+------------------------------------------+
+| | |TERAPIA ENDOCAVITARIA DI AFFEZIONI |
+| |92.28.7* |NEOPLASTICHE |
++--------+---------------+------------------------------------------+
+ 
+ 
+ * tale prestazione e' presente anche nell'elenco della Radioterapia 
+ 
+ RADIOTERAPIA 
+ 
+ 
+ 
+
++======+==============+====================================+========+
+| | | | Numero |
+| NOTA | CODICE | DESCRIZIONE | nota |
++======+==============+====================================+========+
+| |89.01.P |VISITA RADIOTERAPICA DI CONTROLLO | |
++------+--------------+------------------------------------+--------+
+| | |PRIMA VISITA DI RADIOTERAPIA. | |
+| | |Incluso: stesura del piano di | |
+| |89.7C.1 |trattamento | |
++------+--------------+------------------------------------+--------+
+| | |PRIMA VISITA DI RADIOLOGIA | |
+| |89.7C.3 |INTERVENTISTICA | |
++------+--------------+------------------------------------+--------+
+| | |ROENTGENTERAPIA [PLESIOTERAPIA]. Per| |
+| |92.21.1 |seduta | |
++------+--------------+------------------------------------+--------+
+| | |TELECOBALTOTERAPIA. Per seduta e per| |
+| |92.23.1 |focolaio trattato | |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA CON ACCELERATORE LINEARE| |
+| | |CON TECNICHE 2D. Per seduta e per | |
+| | |focolaio trattato. Ciclo fino a 10 | |
+| |92.24.1 |sedute | |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA CON ACCELERATORE LINEARE| |
+| | |CON CAMPI MULTIPLI, DI MOVIMENTO CON| |
+| | |TECNICHE 2D. Per seduta e per | |
+| | |focolaio trattato. Ciclo fino a 10 | |
+| |92.24.2 |sedute | |
++------+--------------+------------------------------------+--------+
+| | |RADIOCHIRURGIA IN UNICA SEDUTA. Dose| |
+| | |per frazione uguale o superiore a 8 | |
+| |92.24.4 |Gy. | 84 |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA CON ACCELERATORE LINEARE| |
+| | |CON CAMPI MULTIPLI O DI MOVIMENTO | |
+| | |CON TECNICHE 3D. Per seduta e per | |
+| | |focolaio trattato. Ciclo fino a 10 | |
+| |92.24.6 |sedute | |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA CON ACCELERATORE LINEARE| |
+| | |CON CAMPI MULTIPLI O DI MOVIMENTO. | |
+| | |Per tecniche con modulazione di | |
+| | |intensita'. Per seduta e per | |
+| | |focolaio trattato. Ciclo fino a 10 | |
+| |92.24.7 |sedute | |
++------+--------------+------------------------------------+--------+
+| | |RADIOTERAPIA STEREOTASSICA CON | |
+| | |RIPOSIZIONAMENTO ON LINE DEL | |
+| | |BERSAGLIO. Dose per frazione uguale | |
+| | |o superiore a 5 Gy. Per seduta. | |
+| |92.24.A |Ciclo fino a 10 sedute | 101 |
++------+--------------+------------------------------------+--------+
+| | |RADIOTERAPIA STEREOTASSICA CON E | |
+| | |SENZA CASCO CON PIANIFICAZIONE | |
+| |92.24.C |TRAMITE RM CON SORGENTE DI COBALTO | 85 |
++------+--------------+------------------------------------+--------+
+| | |RADIOTERAPIA STEREOTASSICA CON E | |
+| | |SENZA CASCO CON BRACCIO ROBOTICO PER| |
+| | |RIPOSIZIONAMENTO ON LINE DEL | |
+| | |BERSAGLIO. Per seduta. Ciclo fino a | |
+| |92.24.D |5 sedute | 101 |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA CON ELETTRONI A UNO O | |
+| | |PIU' CAMPI FISSI. Per seduta e per | |
+| | |focolaio trattato. Ciclo fino a 10 | |
+| |92.25.1 |sedute | |
++------+--------------+------------------------------------+--------+
+| | |IRRADIAZIONE CUTANEA TOTALE CON | |
+| | |ELETTRONI (TSEI/TSEBI). Incluse le | |
+| |92.25.2 |fasi propedeutiche alla prestazione | 86 |
++------+--------------+------------------------------------+--------+
+| | |IRRADIAZIONE CORPOREA TOTALE CON | |
+| | |FOTONI (TBI) TOTAL BODY. Prima o | |
+| |92.25.6 |unica seduta | 87 |
++------+--------------+------------------------------------+--------+
+| | |IRRADIAZIONE CORPOREA TOTALE (TBI) | |
+| | |TOTAL BODY CON FOTONI. Sedute | |
+| |92.25.7 |successive | 87 |
++------+--------------+------------------------------------+--------+
+| | |BRACHITERAPIA ENDOLUMINALE, | |
+| | |ENDOCAVITARIA, INTERSTIZIALE E DI | |
+| | |SUPERFICIE CON VETTORI MULTIPLI. Per| |
+| |92.27.1 |seduta e per focolaio trattato | |
++------+--------------+------------------------------------+--------+
+| | |BRACHITERAPIA ENDOLUMINALE, | |
+| | |ENDOCAVITARIA, INTERSTIZIALE E DI | |
+| | |SUPERFICIE CON VETTORE SINGOLO. Per | |
+| |92.27.3 |seduta e per focolaio trattato | |
++------+--------------+------------------------------------+--------+
+| | |BETATERAPIA DI CONTATTO. Per seduta | |
+| |92.27.5 |e per focolaio trattato | |
++------+--------------+------------------------------------+--------+
+| | |TERAPIA PER IPERTIROIDISMO con | |
+| |92.28.1** |Iodio-131 | |
++------+--------------+------------------------------------+--------+
+| | |TERAPIA ENDOARTICOLARE | |
+| | |(RADIOSINOVIORTESI) DI AFFEZIONI NON| |
+| |92.28.3** |NEOPLASTICHE | |
++------+--------------+------------------------------------+--------+
+| |92.28.4 |TERAPIA CON ANTICORPI MONOCLONALI | |
++------+--------------+------------------------------------+--------+
+| |92.28.6 |TERAPIA DELLE METASTASI SCHELETRICHE| |
++------+--------------+------------------------------------+--------+
+| | |TERAPIA ENDOCAVITARIA DI AFFEZIONI | |
+| |92.28.7** |NEOPLASTICHE | |
++------+--------------+------------------------------------+--------+
+| | |STUDIO FISICO-DOSIMETRICO CON | |
+| | |ELABORATORE PER CALCOLO PER IMRT E | |
+| |92.28.9 |STEREOTASSI. DOSE DA SOMMINISTRARE | |
++------+--------------+------------------------------------+--------+
+| | |INDIVIDUAZIONE DEL VOLUME BERSAGLIO | |
+| | |E ORGANI CRITICI. Con simulatore | |
+| |92.29.1 |radiologico | |
++------+--------------+------------------------------------+--------+
+| | |INDIVIDUAZIONE DEL VOLUME BERSAGLIO | |
+| | |E ORGANI CRITICI. Con TC simulatore | |
+| |92.29.2 |o TC | |
++------+--------------+------------------------------------+--------+
+| | |INDIVIDUAZIONE DEL VOLUME BERSAGLIO | |
+| | |E ORGANI CRITICI. Con RM DI | |
+| | |SIMULAZIONE. Non associabile a | |
+| |92.29.3 |92.29.A | |
++------+--------------+------------------------------------+--------+
+| | |STUDIO FISICO-DOSIMETRICO. Calcolo | |
+| |92.29.4 |della dose in punti | |
++------+--------------+------------------------------------+--------+
+| | |STUDIO FISICO-DOSIMETRICO CON | |
+| |92.29.5 |ELABORATORE SU SCANSIONI TC | |
++------+--------------+------------------------------------+--------+
+| |92.29.6 |DOSIMETRIA IN VIVO | |
++------+--------------+------------------------------------+--------+
+| | |SISTEMA DI IMMOBILIZZAZIONE | |
+| |92.29.8 |PERSONALIZZATO. Intero trattamento | |
++------+--------------+------------------------------------+--------+
+| | |PREPARAZIONE | |
+| | |COMPENSATORI/MODIFICATORI DEL | |
+| |92.29.9 |FASCIO. Intero trattamento | |
++------+--------------+------------------------------------+--------+
+| | |INDIVIDUAZIONE DEL VOLUME BERSAGLIO | |
+| | |E SIMULAZIONE CON PET-TC. | |
+| | |Individuazione del volume bersaglio | |
+| | |attraverso l'utilizzazione di PET | |
+| |92.29.A |TC. Non associabile a 92.29.3 | |
++------+--------------+------------------------------------+--------+
+| | |CONTROLLO DEL SET-UP INIZIALE PER I^| |
+| | |SEDUTA, CONTROLLO PORTALE E/O DELLA | |
+| | |RIPETIBILITA' DEL SET UP DEL | |
+| |92.29.G |PAZIENTE. Per singola seduta | |
++------+--------------+------------------------------------+--------+
+| | |GESTIONE DEL MOVIMENTO RESPIRATORIO | |
+| | |ASSOCIATO A TRATTAMENTO | |
+| | |RADIOTERAPICO. Per seduta o focolaio| |
+| |92.29.H |trattato | |
++------+--------------+------------------------------------+--------+
+| | |CONTROLLO DEL POSIZIONAMENTO | |
+| | |MEDIANTE TC (IGRT) IN CORSO DI | |
+| | |TRATTAMENTO RADIOTERAPICO. Per | |
+| |92.29.L |seduta | |
++------+--------------+------------------------------------+--------+
+| | |DELINEAZIONE DEL VOLUME BERSAGLIO E | |
+| | |ORGANI CRITICI SU IMMAGINI TC. Senza| |
+| |92.29.Q |e con mezzo di contrasto | |
++------+--------------+------------------------------------+--------+
+| | |DELINEAZIONE DEL VOLUME BERSAGLIO E | |
+| | |ORGANI CRITICI CON FUSIONE DI | |
+| | |IMMAGINI RM, PET, ALTRO. Senza e con| |
+| |92.29.R |mezzo di contrasto | |
++------+--------------+------------------------------------+--------+
+| | |INDIVIDUAZIONE DEL VOLUME BERSAGLIO | |
+| |92.29.S |in 4D | |
++------+--------------+------------------------------------+--------+
+| | |INSERIMENTO DI REPERI FIDUCIALI. | |
+| |92.29.T |Intero trattamento | |
++------+--------------+------------------------------------+--------+
+| R |92.29.U |ADROTERAPIA - Ciclo intero. | 97 |
++------+--------------+------------------------------------+--------+
+| | |ADROTERAPIA - Boost (sino a 6 | |
+| R |92.29.V |frazioni). | 97 |
++------+--------------+------------------------------------+--------+
+| | |ADROTERAPIA - Stereotassi (1-3 | |
+| R |92.29.W |frazioni). | 97 |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA PER TECNICHE CON | |
+| | |MODULAZIONE DI INTENSITA' (IMRT) AD | |
+| | |ARCHI MULTIPLI O DI TIPO ELICALE E | |
+| | |CON CONTROLLO DEL POSIZIONAMENTO | |
+| | |MEDIANTE TC/RM/US (IGRT). Inclusa | |
+| | |TOMOTERAPIA. Per seduta. Ciclo | |
+| |92.47.8 |breve: fino a 5 sedute | |
++------+--------------+------------------------------------+--------+
+| | |TELETERAPIA PER TECNICHE CON | |
+| | |MODULAZIONE DI INTENSITA' (IMRT) AD | |
+| | |ARCHI MULTIPLI O DI TIPO ELICALE E | |
+| | |CON CONTROLLO DEL POSIZIONAMENTO | |
+| | |MEDIANTE TC/RM/US (IGRT). Inclusa | |
+| | |TOMOTERAPIA. Per seduta. Ciclo | |
+| |92.47.9 |lungo: superiore a 5 sedute | |
++------+--------------+------------------------------------+--------+
+ 
+ 
+ ** tale prestazione e' presente anche nell'elenco della Medicina 
+Nucleare 
+ 
+ 
+ 
+ 
+
++========+======================+===================================+
+|n. nota | tipo nota | contenuto nota |
++========+======================+===================================+
+| | |A) Per tumori primitivi, secondari |
+| | |(massimo 5 metastasi od |
+| |CONDIZIONE |oligoprogressioni), o recidivati |
+|84 |EROGABILITA' |dopo altra radioterapia; |
+| | | |
+| | |B) per disordini funzionali, MAV di|
+| | |dimensioni non superiori a 3 cm per|
+| | |la seduta singola, non superiori a |
+| | |6 cm per le sedute frazionate. |
++--------+----------------------+-----------------------------------+
+| | |MALATTIE TUMORALI: pazienti con una|
+| | |delle forme tumorali sottoelencate,|
+| |CONDIZIONE |in cui siano presenti tutte le |
+|85 |EROGABILITA' |seguenti condizioni:a) PS 0-2; |
+| | | |
+| | |b) massimo 5 metastasi od |
+| | |oligoprogressioni; c) tumore |
+| | |primitivo controllabile o |
+| | |controllato: |
+| | | |
+| | |1) metastasi cerebrali singole o |
+| | |multiple (in associazione o in |
+| | |alternativa a pan-irradiazione |
+| | |encefalica); |
+| | | |
+| | |2) recidive di gliomi ad alto grado|
+| | |di malignita' gia' sottoposti a |
+| | |radioterapia conformazionale; |
+| | | |
+| | |3) neoplasie encefaliche |
+| | |pediatriche; |
+| | | |
+| | |4) meningiomi maligni (WHO III) o |
+| | |atipici (WHO II) come trattamento |
+| | |postoperatorio in alternativa al |
+| | |trattamento radioterapico |
+| | |conformazionale; 5) meningiomi |
+| | |tipici (WHO I) inoperabili per sede|
+| | |(in particolare meningiomi del seno|
+| | |cavernoso e meningiomi del |
+| | |tentorio); |
+| | | |
+| | |6) recidive di meningiomi di |
+| | |qualsiasi grado di |
+| | |differenziazione; |
+| | | |
+| | |7) adenomi ipofisari; |
+| | | |
+| | |8) schwannomi vestibolari; |
+| | | |
+| | |9) melanoma dell'uvea; |
+| | | |
+| | |10) tumori retro-orbitali (sarcomi,|
+| | |linfomi, metastasi); |
+| | | |
+| | |11) patologia neoplastica del |
+| | |distretto ORL primitiva o |
+| | |recidivante dopo altra terapia |
+| | | |
+| | |MALATTIE NON TUMORALI: |
+| | | |
+| | |a) malformazioni arterovenose; b) |
+| | |angiomi cavernosi; c) epilessia; d)|
+| | |nevralgia del trigemino; e) |
+| | |patologia cerebrale funzionale; f) |
+| | |malattia di Parkinson; g) demenze. |
++--------+----------------------+-----------------------------------+
+| | |Linfoma cutaneo a cellule T. La |
+| | |prestazione e' intesa come |
+| | |trattamento completo comprensivo |
+| |CONDIZIONE |anche di tutte le fasi |
+|86 |EROGABILITA' |propedeutiche. |
++--------+----------------------+-----------------------------------+
+| | |Per il condizionamento nel |
+| | |trapianto di midollo osseo in |
+| |CONDIZIONE |pazienti affetti da leucemie e/o |
+|87 |EROGABILITA' |linfomi e/o mielomi; |
++--------+----------------------+-----------------------------------+
+| | |Indicazione non esclusiva in |
+| | |pazienti con una delle forme |
+| | |tumorali sottoelencate, in assenza |
+| | |di malattia metastatica, in cui |
+| | |siano presenti tutte le seguenti |
+| | |condizioni: a) il trattamento abbia|
+| | |finalita' radicali curative; b) PS:|
+| | |0-2 ECOG; c) non siano presenti |
+| | |concomitanti malattie o |
+| | |comorbidita' invalidanti che |
+| | |riducano in maniera significativa |
+| | |l'attesa di vita: 1) cordomi e |
+| | |condrosarcomi della base del cranio|
+| | |e del rachide; 2) tumori del tronco|
+| | |encefalico (esclusi i tumori |
+| | |intrinseci diffusi del ponte) e del|
+| | |midollo spinale; 3) sarcomi del |
+| | |distretto cervico-cefalico, |
+| | |paraspinali, retroperitoneali e |
+| | |pelvici; 4) sarcomi delle |
+| | |estremita' ad istologia |
+| | |radioresistente (osteosarcoma, |
+| | |condrosarcoma); 5) meningiomi |
+| | |intracranici in sedi critiche |
+| | |(stretta adiacenza alle vie ottiche|
+| | |e al tronco encefalico); 6) tumori |
+| | |orbitari e periorbitari (es. seni |
+| | |paranasali) incluso il melanoma |
+| | |oculare; 7) carcinoma |
+| | |adenoideo-cistico delle ghiandole |
+| | |salivari; 8) tumori solidi |
+| | |pediatrici; 9) tumori in pazienti |
+| | |affetti da sindromi genetiche e |
+| | |malattie del collageno associate ad|
+| | |un'aumentata radiosensibilita'; 10)|
+| | |recidive che richiedono il |
+| | |ritrattamento in un'area gia' |
+| | |precedentemente sottoposta a |
+| | |radioterapia; 11) tumori |
+| | |maligni/benigni, indipendentemente |
+| | |dalla sede e dalla istologia, per i|
+| | |quali l'adroterapia garantisca una |
+| | |migliore distribuzione della dose |
+| | |(in termini di confronto con la |
+| | |migliore distribuzione di dose |
+| | |ottenuta con i fotoni) e un |
+| | |conseguente vantaggio in termini di|
+| | |TCP e/o NTCP ? 10%, da cui derivino|
+| | |benefici clinici in termini di |
+| | |riduzione della tossicita' e/o |
+| | |miglioramento del controllo di |
+| | |malattia. Il trattamento e' erogato|
+| | |previa autorizzazione di un Centro |
+| | |di riferimento di Radioterapia con |
+| | |Elevata Tecnologia (IG-IMRT e |
+| | |Stereotassi) e un volume di |
+| | |attivita' superiore a 1000 |
+| | |pazienti/anno, individuato dalla |
+| |CONDIZIONE |Regione sul proprio territorio o |
+|97 |EROGABILITA' |sul territorio di altra Regione. |
++--------+----------------------+-----------------------------------+
+| | |MALATTIE TUMORALI: pazienti con una|
+| | |delle forme tumorali sottoelencate,|
+| | |in cui siano presenti tutte le |
+| | |seguenti condizioni: a) PS 0-2; b) |
+| | |massimo 5 metastasi od |
+| | |oligoprogressioni; c) tumore |
+| | |primitivo controllabile o |
+| | |controllato: 1) metastasi cerebrali|
+| | |singole o multiple (in associazione|
+| | |o in alternativa a pan-irradiazione|
+| | |encefalica); 2) recidive di gliomi |
+| | |ad alto grado di malignita' gia' |
+| | |sottoposti a radioterapia |
+| | |conformazionale; 3) neoplasie |
+| | |encefaliche pediatriche; 4) |
+| | |meningiomi maligni (WHO III) o |
+| | |atipici (WHO II) come trattamento |
+| | |postoperatorio in alternativa al |
+| | |trattamento radioterapico |
+| | |conformazionale; 5) meningiomi |
+| | |tipici (WHO I) inoperabili per sede|
+| | |(in particolare meningiomi del seno|
+| | |cavernoso e meningiomi del |
+| | |tentorio); 6) recidive di |
+| | |meningiomi di qualsiasi grado di |
+| | |differenziazione; 7) adenomi |
+| | |ipofisari; 8) schwannomi |
+| | |vestibolari; 9) melanoma |
+| | |dell'uvea; 10) tumori |
+| | |retro-orbitali (sarcomi, linfomi, |
+| | |metastasi); 11) patologia |
+| | |neoplastica del distretto ORL |
+| | |primitiva o recidivante dopo altra |
+| | |terapia; 12) recidive dei tumori |
+| | |del rinofaringe o di tumori a |
+| | |partenza da altre sedi del |
+| | |distretto ORL dopo trattamento di |
+| | |prima linea; 13) tumori della base |
+| | |del cranio (cordomi e |
+| | |condrosarcomi); 14) localizzazioni |
+| | |di tumori rari del distretto |
+| | |testa/collo (paragangliomi, |
+| | |carcinoma a cellule di Merkel); 15)|
+| | |lesioni neoplastiche polmonari; 16)|
+| | |lesioni neoplastiche epatiche; 17) |
+| | |neoplasie pancreatiche; 18) |
+| | |neoplasie prostatiche; 19) |
+| | |neoplasie addominali primitive o |
+| |CONDIZIONE |secondarie; 20) lesioni spinali |
+|101 |EROGABILITA' |neoplastiche. |
+| | | |
+| | |MALATTIE NON TUMORALI: a) |
+| | |malformazioni arterovenose; b) |
+| | |angiomi cavernosi; c) epilessia; d)|
+| | |nevralgia del trigemino; e) |
+| | |patologia cerebrale funzionale; f) |
+| | |malattia di Parkinson; g) demenze; |
+| | |h) lesioni spinali non neoplastiche|
++--------+----------------------+-----------------------------------+
+ 
+ 
+ DAY SURGERY 
+ 
+ 
+ 
+
++=========+===========+=============================================+
+| | | Tipo Descrizione |
+| DRG | MDC | DRG |
++=========+===========+=============================================+
+|006 | 1 |Decompressione del tunnel carpale |
++---------+-----------+---------------------------------------------+
+| | |Interventi su nervi periferici e cranici e |
+|008 | 1 |altri interventi su sistema nervoso senza CC |
++---------+-----------+---------------------------------------------+
+|036 | 2 |Interventi sulla retina |
++---------+-----------+---------------------------------------------+
+|038 | 2 |Interventi primari sull'iride |
++---------+-----------+---------------------------------------------+
+| | |Interventi sul cristallino con o senza |
+|039 | 2 |vitrectomia |
++---------+-----------+---------------------------------------------+
+| | |Interventi sulle strutture extraoculari |
+|040 | 2 |eccetto l'orbita, eta' > 17 anni |
++---------+-----------+---------------------------------------------+
+| | |Interventi sulle strutture extraoculari |
+|041 | 2 |eccetto l'orbita, eta' < 18 anni |
++---------+-----------+---------------------------------------------+
+| | |Interventi sulle strutture intraoculari |
+| | |eccetto retina, iride e cristallino (eccetto |
+|042 | 2 |trapianti di cornea) |
++---------+-----------+---------------------------------------------+
+| | |Interventi sulle ghiandole salivari eccetto |
+|051 | 3 |sialoadenectomia |
++---------+-----------+---------------------------------------------+
+| | |Miscellanea di interventi su orecchio, naso, |
+|055 | 3 |bocca e gola |
++---------+-----------+---------------------------------------------+
+| | |Tonsillectomia e/o adenoidectomia, eta' > 17 |
+|059 | 3 |anni |
++---------+-----------+---------------------------------------------+
+| | |Tonsillectomia e/o adenoidectomia, eta' < 18 |
+|060 | 3 |anni |
++---------+-----------+---------------------------------------------+
+| | |Miringotomia con inserzione di tubo, eta' > |
+|061 | 3 |17 anni |
++---------+-----------+---------------------------------------------+
+| | |Miringotomia con inserzione di tubo, eta' < |
+|062 | 3 |18 anni |
++---------+-----------+---------------------------------------------+
+|119 | 5 |Legatura e stripping di vene |
++---------+-----------+---------------------------------------------+
+|158 | 6 |Interventi su ano e stoma senza CC |
++---------+-----------+---------------------------------------------+
+| | |Interventi per ernia, eccetto inguinale e |
+| | |femorale, eta' > 17 anni senza CC (eccetto |
+|160 | 6 |ricoveri 0-1 giorno) |
++---------+-----------+---------------------------------------------+
+| | |Interventi per ernia inguinale e femorale, |
+| | |eta' > 17 anni senza CC (eccetto ricoveri 0-1|
+|162 | 6 |giorno) |
++---------+-----------+---------------------------------------------+
+| | |Interventi per ernia, eta' < 18 anni (eccetto|
+|163 | 6 |ricoveri 0-1 giorno) |
++---------+-----------+---------------------------------------------+
+|168 | 3 |Interventi sulla bocca con CC |
++---------+-----------+---------------------------------------------+
+|169 | 3 |Interventi sulla bocca senza CC |
++---------+-----------+---------------------------------------------+
+|227 | 8 |Interventi sui tessuti molli senza CC |
++---------+-----------+---------------------------------------------+
+| | |Interventi maggiori sul pollice o sulle |
+| | |articolazioni o latri interventi mano o polso|
+|228 | 8 |con CC |
++---------+-----------+---------------------------------------------+
+| | |Interventi su mano o polso eccetto interventi|
+|229 | 8 |maggiori sulle articolazioni, senza CC |
++---------+-----------+---------------------------------------------+
+|232 | 8 |Artroscopia |
++---------+-----------+---------------------------------------------+
+| | |Biopsia della mammella e escissione locale |
+| | |non per neoplasie maligne (codici intervento |
+|262 | 9 |85.20 e 85.21) |
++---------+-----------+---------------------------------------------+
+| | |Trapianti di pelle e/o sbrigliamenti eccetto |
+|266 | 9 |per ulcere della pelle/cellulite senza CC |
++---------+-----------+---------------------------------------------+
+| | |Chirurgia plastica della pelle, del tessuto |
+|268 | 9 |sottocutaneo e della mammella |
++---------+-----------+---------------------------------------------+
+| | |Altri interventi su pelle, tessuto |
+|270 | 9 |sottocutaneo e mammella senza CC |
++---------+-----------+---------------------------------------------+
+| | |Interventi sul testicolo non per neoplasie |
+|339 | 12 |maligne, eta' > 17 anni |
++---------+-----------+---------------------------------------------+
+| | |Interventi sul testicolo non per neoplasie |
+|340 | 12 |maligne, eta' < 18 anni |
++---------+-----------+---------------------------------------------+
+|342 | 12 |Circoncisione, eta' > 17 anni |
++---------+-----------+---------------------------------------------+
+|343 | 12 |Circoncisione, eta' < 18 anni |
++---------+-----------+---------------------------------------------+
+| | |Altri interventi sull'apparato riproduttivo |
+|345 | 12 |maschile eccetto per neoplasie maligne |
++---------+-----------+---------------------------------------------+
+|360 | 13 |Interventi su vagina, cervice e vulva |
++---------+-----------+---------------------------------------------+
+|362 | 13 |Occlusione endoscopica delle tube |
++---------+-----------+---------------------------------------------+
+| | |Dilatazione e raschiamento, conizzazione |
+|364 | 13 |eccetto per neoplasie maligne |
++---------+-----------+---------------------------------------------+
+| | |Diagnosi relative a postparto e postaborto |
+|377 | 14 |con intervento chirurgico |
++---------+-----------+---------------------------------------------+
+| | |Aborto con dilatazione e raschiamento, |
+|381 | 14 |mediante aspirazione o isterotomia |
++---------+-----------+---------------------------------------------+
+| | |Interventi sul ginocchio senza diagnosi |
+|503 | 8 |principale di infezione |
++---------+-----------+---------------------------------------------+
+| | |Escissione locale e rimozione di mezzi di |
+| | |fissazione interna eccetto anca e femore |
+|538 | 8 |senza CC |
++---------+-----------+---------------------------------------------+
+ 
+ 
+ CHIRURGIA AMBULATORIALE/DAY SURGERY 
+ 
+ 
+ 
+
++========+=======================+==================================+
+| NOTA | CODICE | DESCRIZIONE |
++========+=======================+==================================+
+| | |LIBERAZIONE TUNNEL CARPALE (Visita|
+| | |anestesiologica ed anestesia, |
+| | |esami pre intervento, intervento, |
+| | |medicazioni, rimozione punti, |
+| H |04.43 |visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |LIBERAZIONE DEL TUNNEL TARSALE |
+| | |(Visita anestesiologica ed |
+| | |anestesia, esami pre intervento, |
+| | |intervento, medicazioni, rimozione|
+| H |04.44 |punti, visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |RICOSTRUZIONE DELLA PALPEBRA NON A|
+| | |TUTTO SPESSORE escluso:RIPARAZIONE|
+| | |DI ENTROPION 0 ECTROPION CON |
+| | |RICOSTRUZIONE DELLA PALPEBRA |
+| | |(08.44) RICOSTRUZIONE DELLA |
+| | |PALPEBRA CON LEMBO 0 INNESTO |
+| H |08.72 |(08.6) |
++--------+-----------------------+----------------------------------+
+| | |RICOSTRUZIONE DELLA PALPEBRA A |
+| | |TUTTO SPESSORE escluso:RIPARAZIONE|
+| | |DI ENTROPION 0 ECTROPION CON |
+| | |RICOSTRUZIONE DELLA PALPEBRA |
+| | |(08.44) RICOSTRUZIONE DELLA |
+| | |PALPEBRA CON LEMBO 0 INNESTO |
+| H |08.74 |(08.6) |
++--------+-----------------------+----------------------------------+
+| | |INTERVENTO DI CATARATTA CON O |
+| | |SENZA IMPIANTO DI LENTE |
+| | |INTRAOCULARE Incluso: Impianto di |
+| | |lenti, Visita preintervento e |
+| | |visite di controllo entro 10 |
+| | |giorni, Biometria. Non |
+| H |13.19.1 |codificabile con 95.13. |
++--------+ +----------------------------------+
+|Tale prestazione ai sensi del DPCM 12 gennaio 2017 - Allegato |
+|4 Nomenclatore di specialistica ambulatoriale e' stata |
+|codificata come segue: |
++--------+ +----------------------------------+
+| | |INTERVENTO DI CATARATTA SENZA |
+| | |IMPIANTO DI LENTE INTRAOCULARE. |
+| | |Incluso: Visita preintervento e |
+| H |13.41 |visite di controllo, Biometria |
++--------+ +----------------------------------+
+| | |INTERVENTO DI CATARATTA CON |
+| | |IMPIANTO DI LENTE INTRAOCULARE. |
+| | |Incluso: Visita preintervento e |
+| | |visite di controllo, Biometria. |
+| H |13.71 |Incluso lenti |
++--------+-----------------------+----------------------------------+
+| | |INSERZIONE DI CRISTALLINO |
+| | |ARTIFICIALE A SCOPO REFRATTIVO (in|
+| | |occhio fachico) incluso visite |
+| | |preintervento e visite di |
+| |13.70.1 |controllo. Biometria |
++--------+-----------------------+----------------------------------+
+| | |IMPIANTO SECONDARIO DI CRISTALLINO|
+| | |ARTIFICIALE. Incluso visita |
+| | |preintervento e visite di |
+| H |13.72 |controllo, Biometria. |
++--------+-----------------------+----------------------------------+
+| | |RIMOZIONE DI CRISTALLINO |
+| H |13.8 |ARTIFICIALE IMPIANTATO |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE MONOLATERALE DI ERNIA |
+| | |INGUINALE DIRETTA O INDIRETTA |
+| | |(Incluso: Visita anestesiologica, |
+| | |ECG, esami di laboratorio, Visita |
+| HR |53.00.1 |post intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE MONOLATERALE DI ERNIA |
+| | |INGUINALE CON INNESTO O PROTESI |
+| | |DIRETTA O INDIRETTA (Incluso: |
+| | |Visita anestesiologica, ECG, esami|
+| | |di laboratorio, Visita post |
+| HR |53.00.2 |intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE MONOLATERALE DI ERNIA |
+| | |CRURALE CON INNESTO O PROTESI |
+| | |(Incluso: Visita anestesiologica, |
+| | |ECG, esami di laboratorio, Visita |
+| HR |53.21.1 |post intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE MONOLATERALE DI ERNIA |
+| | |CRURALE (Incluso: Visita |
+| | |anestesiologica, ECG, esami di |
+| | |laboratorio, Visita post |
+| HR |53.29.1 |intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE DI ERNIA OMBELICALE |
+| | |CON PROTESI (Incluso: Visita |
+| | |anestesiologica, ECG, esami di |
+| | |laboratorio, Visita post |
+| HR |53.41 |intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE Dl ERNIA OMBELICALE |
+| | |(Incluso: Visita anestesiologica, |
+| | |ECG, esami di laboratorio, Visita |
+| HR |53.49.1 |post intervento) |
++--------+-----------------------+----------------------------------+
+| | |RIPARAZIONE Di DITO A |
+| | |MARTELLO/ARTIGLIO (Visita |
+| | |anestesiologica ed anestesia, |
+| | |esami pre intervento, intervento, |
+| | |medicazioni, rimozione punti, |
+| HR |77.56 |visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |ARTROSCOPIA SEDE NON SPECIFICATA |
+| | |Incluso: Visita anestesiologica ed|
+| | |anestesia, esami pre intervento, |
+| | |intervento (incluso eventuale |
+| | |shaving cartilagineo), |
+| | |medicazioni, rimozione punti, |
+| HR |80.20 |visita di' controllo. |
++--------+-----------------------+----------------------------------+
+| | |ARTROPLASTICA DELL'ARTICOLAZIONE |
+| | |METACARPOFALANGEA E INTERFALANGEA |
+| | |SENZA IMPIANTO (Visita |
+| | |anestesiologica ed anestesia, |
+| | |esami pre intervento, intervento, |
+| | |medicazioni, rimozione punti, |
+| H |81.72 |visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |ARTROPLASTICA DELL'ARTICOLAZIONE |
+| | |CARPOCARPALE E CARPOMETACARPALE |
+| | |SENZA IMPIANTO (Visita |
+| | |anestesiologica ed anestesia, |
+| | |esami pre intervento, intervento, |
+| | |medicazioni, rimozione punti, |
+| H |81.75 |visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |AMPUTAZIONE E DISARTICOLAZIONE DI |
+| | |DITA DELLA MANO (Visita |
+| | |anestesiologica ed anestesia, |
+| | |esami pre intervento, intervento, |
+| | |medicazioni, rimozione punti, |
+| HR |84.01 |visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |AMPUTAZIONE E DISARTICOLAZIONE DEL|
+| | |POLLICE (Visita anestesiologica ed|
+| | |anestesia, esami pre intervento, |
+| | |intervento, medicazioni, rimozione|
+| HR |84.02 |punti, visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |AMPUTAZIONE DI DITA DEL PIEDE |
+| | |(Visita anestesiologica ed |
+| | |anestesia, esami pre intervento, |
+| | |intervento, medicazioni, rimozione|
+| HR |84.11 |punti, visita di controllo) |
++--------+-----------------------+----------------------------------+
+| | |LITOTRIPSIA EXTRACORPOREA DEL |
+| | |RENE, URETERE CON CATETERISMO |
+| | |URETERALE. Prima seduta. Incuso: |
+| | |visita anestesiologica, anestesia,|
+| | |esami ematochimici, cistoscopia, |
+| | |ecografia dell'addome inferiore, |
+| | |visita urologica di controllo. Non|
+| H |98.51.1 |associabile a 98.51.2 |
++--------+-----------------------+----------------------------------+
+| | |LITOTRIPSIA EXTRACORPOREA DEL |
+| | |RENE, URETERE CON CATETERISMO |
+| | |URETERALE per seduta successiva |
+| | |alla prima. Incluso: ecografia |
+| | |dell'addome inferiore, visita |
+| | |urologica di controllo. Non |
+| H |98.51.2 |associabile a 98.51.1 |
++--------+-----------------------+----------------------------------+
+| | |LITOTRIPSIA EXTRACORPOREA DEL |
+| | |RENE, URETERE E/O VESCICA. Per |
+| | |seduta. Incluso: ecografia |
+| | |dell'addome inferiore, visita |
+| H |98.51.3 |urologica di controllo. |
++--------+-----------------------+----------------------------------+
+ 
+ 
+ LEGENDA 
+ 
+ 
+
++-------------------------------------------------------------------+
+|[ ] : La parentesi quadra include sinonimi, termini esplicativi o |
+|specifici contenuti della prestazione. |
++-------------------------------------------------------------------+
+|( ): La parentesi tonda include termini descrittivi della |
+|prestazione che non implicano una variazione della scelta del |
+|codice. |
++-------------------------------------------------------------------+
+|Escluso: indica che le procedure che seguono tale termine non sono |
+|comprese nella descrizione. |
++-------------------------------------------------------------------+
+|Incluso: raggruppa ulteriori specificazioni o esempi di prestazioni|
+|o procedure che devono intendersi comprese in quel codice. |
++-------------------------------------------------------------------+
+|Non associabile a: segnala le prestazioni identificate con diverso |
+|codice del nomenclatore che non possono essere prescritte ed |
+|erogate contemporaneamente a quella prestazione. |
++-------------------------------------------------------------------+
+|H: indica che la prestazione deve essere eseguita in ambulatori |
+|protetti ovvero in ambulatori situati presso strutture di ricovero.|
++-------------------------------------------------------------------+
+|R: indica che la prestazione puo' essere erogata solo in |
+|ambulatori/laboratori dotati di particolari requisiti ed |
+|appositamente individuati dalla Regione. |
++-------------------------------------------------------------------+
+|Condizioni di erogabilita': definiscono specifiche condizioni |
+|riferite allo stato clinico o personale del destinatario, alla |
+|particolare finalita' della prestazione - terapeutica, diagnostica,|
+|prognostica o di monitoraggio di patologie o condizioni - al medico|
+|prescrittore, all'esito di procedure o accertamenti pregressi, e |
+|sono erogabili dal Servizio sanitario nazionale limitatamente ai |
+|casi in cui le medesime sussistono, con obbligo per il medico |
+|prescrittore di riportare sulla ricetta il numero della nota ed il |
+|quesito clinico o diagnostico. Per la PMA, sono definiti i limiti |
+|di eta', il contenuto di ciascun ciclo di fecondazione, nonche' il |
+|numero massimo di cicli |
++-------------------------------------------------------------------+
+|Indicazioni di appropriatezza prescrittiva: definiscono specifiche |
+|condizioni riferite allo stato clinico o personale del |
+|destinatario, alla particolare finalita' della prestazione - |
+|terapeutica, diagnostica, prognostica o di monitoraggio di |
+|patologie o condizioni - al medico prescrittore, all'esito di |
+|procedure o accertamenti pregressi, e sono erogabili dal Servizio |
+|sanitario nazionale a seguito di una autonoma e responsabile |
+|valutazione del medico prescrittore circa la loro utilita' nel |
+|singolo caso clinico, fermo restando l'obbligo di riportare sulla |
+|ricetta il solo quesito clinico o sospetto diagnostico. |
++-------------------------------------------------------------------+
