@@ -258,10 +258,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-octies) 'fondo europeo per l'imprenditoria socialè (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
  
 
- 
- ((m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760;))
-
- 
+ m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760; 
  
 
  m-novies) 'Oicr feeder': l'Oicr che investe le proprie attività totalmente o in prevalenza nell'Oicr master; 
@@ -315,10 +312,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA 
- ((, il gestore di EuSEF e il gestore di ELTIF))
-
- . 
+ q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF e il gestore di ELTIF. 
  
 
  q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
@@ -404,31 +398,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- w-bis) "prodotti finanziari emessi da imprese di assicurazione": le polizze e le operazioni di cui ai rami vita III e V di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 209, con esclusione delle forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), del decreto legislativo 5 dicembre 2005, n. 252; 
- 
+ ((w-bis) soggetti abilitati alla distribuzione assicurativa: gli intermediari assicurativi iscritti nella sezione d) del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005, i soggetti dell'Unione europea iscritti nell'elenco annesso di cui all'articolo 116-quinquies, comma 5, del decreto legislativo n. 209 del 2005, quali le banche, le società di intermediazione mobiliare e le imprese di investimento, anche quando operano con i collaboratori di cui alla sezione E del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005;))
 
- w-bis.1) &laquo;prodotto di investimento al dettaglio e assicurativo preassemblato&raquo; o &laquo;PRIIP&raquo;: un prodotto ai sensi all'articolo 4, numero 3), del regolamento (UE) n. 1286/2014; (69) 
- 
-
- w-bis.2) &laquo;prodotto d'investimento al dettaglio preassemblato&raquo; o &laquo;PRIP&raquo;: un investimento ai sensi dell'articolo 4, numero 1), del regolamento (UE) n. 1286/2014; (69) 
- 
-
- w-bis.3) &laquo;prodotto di investimento assicurativo&raquo;: un prodotto ai sensi dell'articolo 4, numero 2), del regolamento (UE) n. 1286/2014; (69) 
- 
-
- w-bis.4) &laquo;ideatore di prodotti d'investimento al dettaglio preassemblati e assicurativi&raquo; o &laquo;ideatore di PRIIP&raquo;: un soggetto di cui all'articolo 4, numero 4), del regolamento (UE) n. 1286/2014; (69) 
- 
-
- w-bis.5) &laquo;persona che vende un PRIIP&raquo;: un soggetto di cui all'articolo 4, numero 5), del regolamento (UE) n. 1286/2014; (69) 
- 
-
- w-bis.6) &laquo;investitore al dettaglio in PRIIP&raquo;: un cliente ai sensi dell'articolo 4, numero 6), del regolamento (UE) n. 1286/2014.(69) 
- 
-
- w-bis.7) "gestore del mercato": il soggetto che gestisce e/o amministra l'attività di un mercato regolamentato e può coincidere con il mercato regolamentato stesso; (73) 
  
 
  
+ ((78))
+
+ 
+
+ 
+ ((regolamento (UE) n. 1286/2014. Tale definizione non include: 1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE; 2) i contratti assicurativi vita, qualora le prestazioni previste dal contratto siano dovute soltanto in caso di decesso o per incapacità dovuta a lesione, malattia o disabilità; 3) i prodotti pensionistici che, ai sensi del diritto nazionale, sono riconosciuti come aventi lo scopo precipuo di offrire all'investitore un reddito durante la pensione e che consentono all'investitore di godere di determinati vantaggi; 4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non può scegliere il fornitore o il prodotto pensionistico;))
+
+ 
+
+ 
+ ((78))
+
  
 
  
@@ -1292,4 +1278,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonchè dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
+ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonchè dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (78)
+
+ 
+ 
+
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
