@@ -288,7 +288,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro delle infrastrutture e dei trasporti emana, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, un decreto ministeriale, con il quale sono individuate le reti ferroviarie di cui al comma 4. Nelle more dell'emanazione del decreto di cui al primo periodo, si applica il decreto del Ministro delle infrastrutture e dei trasporti del 5 agosto 2005. Il Ministro delle infrastrutture e dei trasporti provvede, altresì, con cadenza periodica, almeno quinquennale, ad apportare le necessarie modifiche al decreto di cui al primo periodo, per tener conto dell'evoluzione del mercato di settore. Le esclusioni di infrastrutture ferroviarie locali che non rivestono importanza strategica per il funzionamento del mercato ferroviario sono preventivamente notificate alla Commissione europea secondo le modalità di cui all'articolo 2, paragrafo 3 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, nell'ambito dell'attività istruttoria di aggiornamento del decreto ministeriale. 
+ 6. Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro delle infrastrutture e dei trasporti emana, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, 
+ ((sentito l'organismo di regolazione di cui all'articolo 3, comma 1, lettera t),))
+
+ un decreto ministeriale, con il quale sono individuate le reti ferroviarie di cui al comma 4. Nelle more dell'emanazione del decreto di cui al primo periodo, si applica il decreto del Ministro delle infrastrutture e dei trasporti del 5 agosto 2005. Il Ministro delle infrastrutture e dei trasporti provvede, altresì, con cadenza periodica, almeno quinquennale, ad apportare le necessarie modifiche al decreto di cui al primo periodo, per tener conto dell'evoluzione del mercato di settore. Le esclusioni di infrastrutture ferroviarie locali che non rivestono importanza strategica per il funzionamento del mercato ferroviario sono preventivamente notificate alla Commissione europea secondo le modalità di cui all'articolo 2, 
+ ((paragrafo 4))
+
+ della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, nell'ambito dell'attività istruttoria di aggiornamento del decreto ministeriale. 
  
 
  
@@ -296,11 +302,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((7. Il Ministero delle infrastrutture e dei trasporti, previa consultazione delle parti interessate, definisce la strategia di sviluppo dell'infrastruttura ferroviaria sulla base di un finanziamento sostenibile del sistema ferroviario. In sede di prima applicazione, tale strategia è definita nel Documento di economia e finanza, nell'Allegato concernente fabbisogni e progetti di infrastrutture, sino all'approvazione del primo documento pluriennale di pianificazione di cui all'articolo 201 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, e successive modificazioni, che definisce, tra l'altro, la strategia di sviluppo dell'infrastruttura ferroviaria))
- 
-
+ 7. Il Ministero delle infrastrutture e dei trasporti, previa consultazione delle parti interessate, definisce la strategia di sviluppo dell'infrastruttura ferroviaria sulla base di un finanziamento sostenibile del sistema ferroviario. In sede di prima applicazione, tale strategia è definita nel Documento di economia e finanza, nell'Allegato concernente fabbisogni e progetti di infrastrutture, sino all'approvazione del primo documento pluriennale di pianificazione di cui all'articolo 201 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, e successive modificazioni, che definisce, tra l'altro, la strategia di sviluppo dell'infrastruttura ferroviaria. 
  
 
  
- 8. Le disposizioni del presente decreto non pregiudicano la direttiva 2004/17/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, che coordina le procedure di appalto degli enti erogatori di acqua e di energia, degli enti che forniscono servizi di trasporto e servizi postali.
+ 
+ 
+
+ 
+ 8. Le disposizioni del presente decreto non pregiudicano la 
+ ((direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la direttiva 2004/17/CE, recepita dal codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50.))
