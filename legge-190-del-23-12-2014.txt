@@ -270,7 +270,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 21. A decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014, ai soggetti che determinano il valore della produzione netta ai sensi degli articoli da 5 a 9 del decreto legislativo 15 dicembre 1997, n. 446, e che non si avvalgono di lavoratori dipendenti, spetta un credito d'imposta, da utilizzare esclusivamente in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, a decorrere dall'anno di presentazione della corrispondente dichiarazione, pari al 10 per cento dell'imposta lorda determinata secondo le disposizioni del citato decreto legislativo n. 446 del 1997. 
+ 21. 
+ ((COMMA ABROGATO DALLA L. 30 DICEMBRE 2018. N. 145))
+
+ . 
  
 
  
@@ -719,89 +722,43 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
  
  
+ ((
  
- 54. I contribuenti persone fisiche esercenti attività d'impresa, arti o professioni applicano il regime forfetario di cui al presente comma e ai commi da 55 a 89 del presente articolo se, al contempo, nell'anno precedente: 
+
+ 
+ 54. I contribuenti persone fisiche esercenti attività d'impresa, arti o professioni applicano il regime forfetario di cui al presente comma e ai commi da 55 a 89 del presente articolo, se nell'anno precedente hanno conseguito ricavi ovvero hanno percepito compensi, ragguagliati ad anno, non superiori a euro 65.000. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 55. Ai fini della verifica della sussistenza del requisito per l'accesso al regime forfetario di cui al comma 54: 
  
 
  
  
 
  
- a) hanno conseguito ricavi ovvero hanno percepito compensi, ragguagliati ad anno, non superiori ai limiti indicati nell'allegato n. 4 annesso alla presente legge, diversi a seconda del codice ATECO che contraddistingue l'attività esercitata; 
- 
-
- 
- 
-
- 
- b) hanno sostenuto spese per un ammontare complessivamente non superiore ad euro 5.000 lordi per lavoro accessorio di cui all'articolo 70 del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, per lavoratori dipendenti, collaboratori di cui all'articolo 50, comma 1, lettere c) e c-bis), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, anche assunti secondo la modalità riconducibile a un progetto ai sensi degli articoli 61 e seguenti del citato decreto legislativo n. 276 del 2003, e successive modificazioni, comprese le somme erogate sotto forma di utili da partecipazione agli associati di cui all'articolo 53, comma 2, lettera c), e le spese per prestazioni di lavoro di cui all'articolo 60 del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, e successive modificazioni; 
- 
-
- 
- 
-
- 
- c) il costo complessivo, al lordo degli ammortamenti, dei beni strumentali alla chiusura dell'esercizio non supera 20.000 euro. Ai fini del calcolo del predetto limite: 
- 
-
- 1) per i beni in locazione finanziaria rileva il costo sostenuto dal concedente; 
- 
-
- 2) per i beni in locazione, noleggio e comodato rileva il valore normale dei medesimi determinato ai sensi dell'articolo 9 del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, e successive modificazioni; 
- 
-
- 3) i beni, detenuti in regime di impresa o arte e professione, utilizzati promiscuamente per l'esercizio dell'impresa, dell'arte o professione e per l'uso personale o familiare del contribuente, concorrono nella misura del 50 per cento; 
- 
-
- 4) non rilevano i beni il cui costo unitario non è superiore ai limiti di cui agli articoli 54, comma 2, secondo periodo, e 102, comma 5, del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, e successive modificazioni; 
- 
-
- 5) non rilevano i beni immobili, comunque acquisiti, utilizzati per l'esercizio dell'impresa, dell'arte o della professione; 
- 
-
- 
- 
-
- 
- d) LETTERA ABROGATA DALLA L. 28 DICEMBRE 2015, N. 208. 
- 
-
- 
- 
-
- 
-
+ a) non rilevano gli ulteriori componenti positivi indicati nelle dichiarazioni fiscali ai sensi del comma 9 dell'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96; 
  
 
  
  
  
- 55. Ai fini dell'individuazione del limite dei ricavi e dei compensi di cui al comma 54, lettera a), per l'accesso al regime: 
- 
 
  
- 
-
- 
- a) non rilevano i ricavi e i compensi derivanti dall'adeguamento agli studi di settore di cui all'articolo 62-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, e successive modificazioni, e ai parametri di cui alla legge 28 dicembre 1995, n. 549; 
- 
-
- 
- 
-
- 
- b) nel caso di esercizio contemporaneo di attività contraddistinte da differenti codici ATECO, si assume il limite più elevato dei ricavi e dei compensi relativi alle diverse attività esercitate. 
- 
-
- 
+ b) nel caso di esercizio contemporaneo di attività contraddistinte da differenti codici ATECO, si assume la somma dei ricavi e dei compensi relativi alle diverse attività esercitate))
  
 
  
 
  
+ 56. Le persone fisiche che intraprendono l'esercizio di imprese, arti o professioni possono avvalersi del regime forfetario comunicando, nella dichiarazione di inizio di attività di cui all'articolo 35 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, di presumere la sussistenza 
+ ((del requisito))
 
- 
- 56. Le persone fisiche che intraprendono l'esercizio di imprese, arti o professioni possono avvalersi del regime forfetario comunicando, nella dichiarazione di inizio di attività di cui all'articolo 35 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, di presumere la sussistenza dei requisiti di cui al comma 54 del presente articolo. 
+ di cui al comma 54 del presente articolo. 
  
 
  
@@ -831,25 +788,20 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
  
 
- 
  c) i soggetti che in via esclusiva o prevalente effettuano cessioni di fabbricati o porzioni di fabbricato, di terreni edificabili di cui all'articolo 10, primo comma, numero 8), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, o di mezzi di trasporto nuovi di cui all'articolo 53, comma 1, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+ 
+ ((
+
+ 
+ d) gli esercenti attività d'impresa, arti o professioni che partecipano, contemporaneamente all'esercizio dell'attività, a società di persone, ad associazioni o a imprese familiari di cui all'articolo 5 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero che controllano direttamente o indirettamente società a responsabilità limitata o associazioni in partecipazione, le quali esercitano attività economiche direttamente o indirettamente riconducibili a quelle svolte dagli esercenti attività d'impresa, arti o professioni; 
  
 
  
  
 
- 
- d) gli esercenti attività d'impresa, arti o professioni che partecipano, contemporaneamente all'esercizio dell'attività, a società di persone o associazioni di cui all'articolo 5 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, ovvero a società a responsabilità limitata di cui all'articolo 116 del medesimo testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, e successive modificazioni; 
- 
+ d-bis) le persone fisiche la cui attività sia esercitata prevalentemente nei confronti di datori di lavoro con i quali sono in corso rapporti di lavoro o erano intercorsi rapporti di lavoro nei due precedenti periodi d'imposta, ovvero nei confronti di soggetti direttamente o indirettamente riconducibili ai suddetti datori di lavoro))
 
- 
- 
-
- 
- d-bis) i soggetti che nell'anno precedente hanno percepito redditi di lavoro dipendente e redditi assimilati a quelli di lavoro dipendente, di cui rispettivamente agli articoli 49 e 50 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, eccedenti l'importo di 30.000 euro; la verifica di tale soglia è irrilevante se il rapporto di lavoro è cessato. 
- 
-
- 
  
 
  
@@ -953,7 +905,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- c) qualora venga proseguita un'attività svolta in precedenza da altro soggetto, l'ammontare dei relativi ricavi e compensi, realizzati nel periodo d'imposta precedente quello di riconoscimento del predetto beneficio, non sia superiore ai limiti di cui al comma 54. 
+ c) qualora venga proseguita un'attività svolta in precedenza da altro soggetto, l'ammontare dei relativi ricavi e compensi, realizzati nel periodo d'imposta precedente quello di riconoscimento del predetto beneficio, non sia superiore 
+ ((al limite))
+
+ di cui al comma 54. 
  
 
  
@@ -1007,7 +962,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 71. Il regime forfetario cessa di avere applicazione a partire dall'anno successivo a quello in cui viene meno taluna delle condizioni di cui al comma 54 ovvero si verifica taluna delle fattispecie indicate al comma 57. 
+ 71. Il regime forfetario cessa di avere applicazione a partire dall'anno successivo a quello in cui viene meno 
+ ((il requisito))
+
+ di cui al comma 54 ovvero si verifica taluna delle fattispecie indicate al comma 57. 
  
 
  
@@ -1026,7 +984,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 73. I contribuenti che applicano il regime forfetario sono esclusi dall'applicazione degli studi di settore di cui all'articolo 62-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, e successive modificazioni, e dei parametri di cui all'articolo 3, comma 184, della legge 28 dicembre 1995, n. 549. Con il provvedimento del direttore dell'Agenzia delle entrate recante approvazione dei modelli da utilizzare per la dichiarazione dei redditi sono individuati, per i contribuenti che applicano il regime forfetario, specifici obblighi informativi relativamente all'attività svolta. 
+ 73. 
+ ((PERIODO SOPPRESSO DALLA L. 30 DICEMBRE 2018, N. 145))
+
+ . Con il provvedimento del direttore dell'Agenzia delle entrate recante approvazione dei modelli da utilizzare per la dichiarazione dei redditi sono individuati, per i contribuenti che applicano il regime forfetario, specifici obblighi informativi relativamente all'attività svolta. 
  
 
  
@@ -1034,7 +995,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 74. Per l'accertamento, la riscossione, le sanzioni e il contenzioso si applicano, in quanto compatibili, le disposizioni vigenti in materia di imposte dirette, di imposta sul valore aggiunto e di imposta regionale sulle attività produttive. In caso di infedele indicazione, da parte dei contribuenti, dei dati attestanti i requisiti e le condizioni di cui ai commi 54 e 57 che determinano la cessazione del regime previsto dai commi da 54 a 89, nonchè le condizioni di cui al comma 65, le misure delle sanzioni minime e massime stabilite dal decreto legislativo 18 dicembre 1997, n. 471, sono aumentate del 10 per cento se il maggiore reddito accertato supera del 10 per cento quello dichiarato. Il regime forfetario cessa di avere applicazione dall'anno successivo a quello in cui, a seguito di accertamento divenuto definitivo, viene meno taluna delle condizioni di cui al comma 54 ovvero si verifica taluna delle fattispecie indicate al comma 57. 
+ 74. Per l'accertamento, la riscossione, le sanzioni e il contenzioso si applicano, in quanto compatibili, le disposizioni vigenti in materia di imposte dirette, di imposta sul valore aggiunto e di imposta regionale sulle attività produttive. In caso di infedele indicazione, da parte dei contribuenti, dei dati attestanti i requisiti e le condizioni di cui ai commi 54 e 57 che determinano la cessazione del regime previsto dai commi da 54 a 89, nonchè le condizioni di cui al comma 65, le misure delle sanzioni minime e massime stabilite dal decreto legislativo 18 dicembre 1997, n. 471, sono aumentate del 10 per cento se il maggiore reddito accertato supera del 10 per cento quello dichiarato. Il regime forfetario cessa di avere applicazione dall'anno successivo a quello in cui, a seguito di accertamento divenuto definitivo, viene meno 
+ ((la condizione))
+
+ di cui al comma 54 ovvero si verifica taluna delle fattispecie indicate al comma 57. 
  
 
  
@@ -1101,7 +1065,16 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 82. Il regime contributivo agevolato cessa di avere applicazione a partire dall'anno successivo a quello in cui viene meno taluna delle condizioni di cui al comma 54 ovvero si verifica taluna delle fattispecie di cui al comma 57. La cessazione determina, ai fini previdenziali, l'applicazione del regime ordinario di determinazione e di versamento del contributo dovuto. Il passaggio al regime previdenziale ordinario, in ogni caso, determina l'impossibilità di fruire nuovamente del regime contributivo agevolato, anche laddove sussistano le condizioni di cui al comma 54. Non possono accedere al regime contributivo agevolato neanche i soggetti che ne facciano richiesta, ma per i quali si verifichi il mancato rispetto delle condizioni di cui al comma 54 nell'anno della richiesta stessa. 
+ 82. Il regime contributivo agevolato cessa di avere applicazione a partire dall'anno successivo a quello in cui viene meno 
+ ((la condizione))
+
+ di cui al comma 54 ovvero si verifica taluna delle fattispecie di cui al comma 57. La cessazione determina, ai fini previdenziali, l'applicazione del regime ordinario di determinazione e di versamento del contributo dovuto. Il passaggio al regime previdenziale ordinario, in ogni caso, determina l'impossibilità di fruire nuovamente del regime contributivo agevolato, anche laddove 
+ ((sussista la condizione))
+
+ di cui al comma 54. Non possono accedere al regime contributivo agevolato neanche i soggetti che ne facciano richiesta, ma per i quali si verifichi il mancato rispetto 
+ ((della condizione))
+
+ di cui al comma 54 nell'anno della richiesta stessa. 
  
 
  
@@ -1112,7 +1085,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  83. Al fine di fruire del regime contributivo agevolato, i soggetti di cui al comma 54 che intraprendono l'esercizio di un'attività d'impresa presentano, mediante comunicazione telematica, apposita dichiarazione messa a disposizione dall'INPS; i soggetti già esercenti attività d'impresa presentano, entro il termine di decadenza del 28 febbraio di ciascun anno, la medesima dichiarazione.
  
 
- Ove la dichiarazione sia presentata oltre il termine stabilito, nelle modalità indicate, l'accesso al regime agevolato può avvenire a decorrere dall'anno successivo, presentando nuovamente la dichiarazione stessa entro il termine stabilito, ferma restando la permanenza delle condizioni di cui al comma 54. 
+ Ove la dichiarazione sia presentata oltre il termine stabilito, nelle modalità indicate, l'accesso al regime agevolato può avvenire a decorrere dall'anno successivo, presentando nuovamente la dichiarazione stessa entro il termine stabilito, ferma restando la permanenza 
+ ((della condizione))
+
+ di cui al comma 54. 
  
 
  
@@ -1170,7 +1146,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
  
 
  
- 87. I soggetti che nel periodo d'imposta in corso al 31 dicembre 2014 si avvalgono del regime fiscale agevolato di cui all'articolo 13 della legge 23 dicembre 2000, n. 388, o del regime fiscale di vantaggio di cui all'articolo 27, commi 1 e 2, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, possono applicare, laddove in possesso dei requisiti previsti dalla legge, il regime di cui al comma 65 del presente articolo per i soli periodi d'imposta che residuano al completamento del triennio agevolato. 
+ 87. I soggetti che nel periodo d'imposta in corso al 31 dicembre 2014 si avvalgono del regime fiscale agevolato di cui all'articolo 13 della legge 23 dicembre 2000, n. 388, o del regime fiscale di vantaggio di cui all'articolo 27, commi 1 e 2, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, possono applicare, laddove in possesso dei requisiti previsti dalla legge, il regime di cui al comma 65 del presente articolo per i soli periodi d'imposta che residuano al completamento del 
+ ((quinquennio))
+
+ agevolato. 
  
 
  
@@ -1449,9 +1428,8 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
  
  97-quinquies. Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del decreto legislativo 22 luglio 1999, n. 261. Le disposizioni di cui alla lettera e) del comma 97-bis si applicano a decorrere dal 1° giugno 2018. 
- 
+ ((34))
 
- 
  
  
 
