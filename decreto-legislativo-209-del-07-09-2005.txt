@@ -456,10 +456,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione 
- ((, anche di uno Stato terzo))
-
- o retrocessi da un'impresa di riassicurazione; 
+ d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione, anche di uno Stato terzo o retrocessi da un'impresa di riassicurazione; 
  
 
  
@@ -544,6 +541,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((l-bis.1) compenso: qualsiasi commissione, onorario, spesa, o altro pagamento, inclusi altri benefici economici di qualsiasi tipo o qualunque altro vantaggio o incentivo finanziario o non finanziario, offerti o forniti in relazione ad attività di distribuzione assicurativa;))
+
+ ((45))
+
  
 
  
@@ -568,6 +569,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((m-ter) consulenza: l'attività consistente nel fornire raccomandazioni personalizzate ad un cliente, su richiesta dello stesso o su iniziativa del distributore, in relazione ad uno o più contratti di assicurazione;))
+
+ 
+
+ 
+ ((45))
+
+ 
+
+ 
  n) credito di assicurazione: ogni importo dovuto da un'impresa di assicurazione ad assicurati, contraenti, beneficiari o altre parti lese aventi diritto ad agire direttamente contro l'impresa di assicurazione e derivante da un contratto di assicurazione o da operazioni di cui all'articolo 2, commi 1 e 3, nell'ambito di attività di assicurazione diretta, compresi gli importi detenuti in riserva per la copertura a favore dei medesimi aventi diritto allorquando alcuni elementi del debito non sono ancora conosciuti.
  
 
@@ -575,6 +586,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((n. 1) distributore di prodotti assicurativi: qualsiasi intermediario assicurativo, intermediario assicurativo a titolo accessorio o impresa di assicurazione;))
+
+ ((45))
+
  
 
  
@@ -772,6 +787,47 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((cc-quinquies) intermediario assicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o riassicurazione o da un dipendente della stessa e diversa da un intermediario assicurativo a titolo accessorio, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa;))
+
+ 
+
+ 
+ ((45))
+
+ 
+
+ 
+ ((cc-sexies) intermediario riassicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o di riassicurazione o da un dipendente di essa, che avvii o svolga a titolo oneroso l'attività di distribuzione riassicurativa;))
+
+ 
+
+ 
+ ((45))
+
+ 
+
+ 
+ 
+ ((cc-septies) intermediario assicurativo a titolo accessorio: qualsiasi persona fisica o giuridica, diversa da uno dei soggetti di cui alla lettera d), comma 2, dell'articolo 109, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa a titolo accessorio, nel rispetto delle seguenti condizioni: 
+ 
+
+ 1) l'attività professionale principale di tale persona fisica o giuridica è diversa dalla distribuzione assicurativa; 
+ 
+
+ 2) la persona fisica o giuridica distribuisce soltanto determinati prodotti assicurativi, complementari rispetto ad un bene o servizio; 
+ 
+
+ 3) i prodotti assicurativi in questione non coprono il ramo vita o la responsabilità civile, a meno che tale copertura non integri il bene o il servizio che l'intermediario fornisce nell'ambito della sua attività professionale principale;))
+ 
+
+ 
+
+ 
+ ((45))
+
+ 
+
+ 
  dd) ISVAP o IVASS: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo a cui è succeduto l'IVASS, Istituto per la vigilanza sulle assicurazioni, ai sensi dell'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012 n. 135; 
  
 
@@ -898,6 +954,33 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((ss-bis) prodotto di investimento assicurativo: un prodotto ai sensi dell'articolo 4, paragrafo 1, numero 2), del regolamento (UE) n. 1286/2014. Tale definizione non include: 
+ 
+
+ 1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE (Rami dell'assicurazione non vita); 
+ 
+
+ 2) i contratti assicurativi vita, qualora le prestazioni previste dal contratto siano dovute soltanto in caso di decesso o per incapacità dovuta a lesione, malattia o disabilità; 
+ 
+
+ 3) i prodotti pensionistici che, ai sensi del diritto nazionale, sono riconosciuti come aventi lo scopo precipuo di offrire all'investitore un reddito durante la pensione e che consentono all'investitore di godere di determinati vantaggi; 
+ 
+
+ 4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 
+ 
+
+ 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non può scegliere il fornitore o il prodotto pensionistico;))
+ 
+
+ 
+
+ 
+ ((45))
+
+ 
+
+ 
  tt) ramo di assicurazione: la classificazione secondo un insieme omogeneo di rischi od operazioni che descrive l'attività che l'impresa può esercitare al rilascio dell'autorizzazione; 
  
 
@@ -913,9 +996,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  vv) sede secondaria o succursale: una sede che costituisce parte, sprovvista di personalità giuridica, di un'impresa di assicurazione o di riassicurazione e che effettua direttamente, in tutto o in parte, l'attività assicurativa o riassicurativa; 
- 
+ ((con riferimento all'intermediazione, per succursale si intende una agenzia o una succursale situata in uno Stato membro diverso dallo Stato membro di origine, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'intermediario ovvero da una persona indipendente, ma incaricata ad agire in modo permanente per conto dell'intermediario stesso;))
 
- 
+ ((45))
+
  
 
  
@@ -966,6 +1050,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ 
+ ((vv-quater) supporto durevole: qualsiasi strumento che: 
+ 
+
+ 1) permetta al contraente di memorizzare informazioni a lui personalmente dirette, in modo che siano accessibili per la futura consultazione durante un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse; e 
+ 
+
+ 2) consenta la riproduzione inalterata delle informazioni memorizzate;))
+ 
+
+ 
+
+ 
+ ((45))
+
  
 
  
@@ -1037,16 +1139,19 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione; 
- 
+ ((con riferimento all'intermediazione, se l'intermediario è una persona fisica, per Stato membro di origine, si intende lo Stato di residenza dell'intermediario; se è una persona giuridica, si intende lo Stato membro in cui è situata la sede legale, o se assente, la sede principale, da intendersi come il luogo a partire dal quale è gestita l'attività principale;))
 
- 
+ ((45))
+
  
 
  
  ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi; 
- 
+ ((con riferimento all'intermediazione si intende lo Stato membro, diverso dallo Stato membro d'origine, in cui l'intermediario ha una presenza permanente o una stabile organizzazione o in cui presta servizi))
 
- 
+ ; 
+ ((45))
+
  
 
  
@@ -1073,6 +1178,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((iii.1) vendita a distanza: qualunque modalità di vendita che, senza la presenza fisica e simultanea del distributore e del contraente, possa essere impiegata per il collocamento a distanza di contratti assicurativi e riassicurativi;))
+
+ ((45))
+
  
 
  
@@ -1113,4 +1222,27 @@ IL PRESIDENTE DELLA REPUBBLICA
  qqq) unità da diporto: il natante definito all'articolo 1, comma 3, del decreto legislativo 18 luglio 2005, n. 171, recante il codice della nautica da diporto; 
  
 
- rrr) veicolo: qualsiasi autoveicolo destinato a circolare sul suolo e che può essere azionato da una forza meccanica, senza essere vincolato ad una strada ferrata, nonchè i rimorchi, anche se non agganciati ad una motrice.
+ rrr) veicolo: qualsiasi autoveicolo destinato a circolare sul suolo e che può essere azionato da una forza meccanica, senza essere vincolato ad una strada ferrata, nonchè i rimorchi, anche se non agganciati ad una motrice. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (45)
+
+ 
+ 
+
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
