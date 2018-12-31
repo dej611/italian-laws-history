@@ -108,19 +108,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  c-bis) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  
  
 
- c-ter) "CERS": Comitato europeo per il rischio sistemico, istituito con regolamento (UE) n. 1092/2010;
+ 
+ c-ter) "CERS": Comitato europeo per il rischio sistemico, istituito con regolamento (UE) n. 1092/2010; 
+ 
 
- ))
-
+ 
  
 
  
@@ -204,7 +202,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione, un operatore del sistema o, un sistema di garanzia partecipanti a un sistema; 
+ n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione, un operatore del sistema 
+ ((...))
+
+ partecipanti a un sistema; 
  
 
  
@@ -218,7 +219,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- p) "procedura d'insolvenza": la liquidazione coatta amministrativa, il fallimento, il provvedimento di sospensione dei pagamenti delle passività e delle restituzioni dei beni ai terzi ai sensi degli articoli 74, 77, comma 2, 107, comma 6, del testo unico bancario, e dell'articolo 56, comma 3, del testo unico finanza, nonchè ogni altra misura prevista da una legge italiana, o, se applicabile, di uno Stato membro dell'Unione europea o di uno Stato extracomunitario, che ha come effetto la sospensione o la cessazione dei pagamenti delle passività e delle restituzioni dei beni ai terzi; 
+ p) "procedura d'insolvenza": la liquidazione coatta amministrativa, il fallimento, il provvedimento di sospensione dei pagamenti delle passività e delle restituzioni dei beni ai terzi ai sensi degli articoli 74, 77, comma 2, 
+ ((...))
+
+ del testo unico bancario, e dell'articolo 56, comma 3, del testo unico finanza, nonchè ogni altra misura prevista da una legge italiana, o, se applicabile, di uno Stato membro dell'Unione europea o di uno Stato extracomunitario, che ha come effetto la sospensione o la cessazione dei pagamenti delle passività e delle restituzioni dei beni ai terzi; 
  
 
  
@@ -241,10 +245,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) assoggettato alla legge di uno Stato membro dell'Unione europea, scelta dai partecipanti o prevista dalle regole che lo disciplinano, in cui almeno uno dei partecipanti medesimi abbia la sede legale; 
  
 
- 3) designato come sistema e notificato 
- ((all'AESFEM))
-
- dallo Stato membro dell'Unione europea di cui si applica la legge. Un accordo concluso tra sistemi interoperabili non costituisce un sistema; 
+ 3) designato come sistema e notificato all'AESFEM dallo Stato membro dell'Unione europea di cui si applica la legge. Un accordo concluso tra sistemi interoperabili non costituisce un sistema; 
  
 
  
@@ -258,7 +259,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- t) "sistema di garanzia": uno dei sistemi di cui agli articoli 68, comma 1, e 69, comma 2, del testo unico finanza; 
+ t) 
+ ((LETTERA SOPPRESSA DAL D.LGS. 12 AGOSTO 2016, N. 176))
+
+ ; 
  
 
  
