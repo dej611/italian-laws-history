@@ -76,7 +76,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 2. La misura è rivolta ai soggetti di età compresa tra i 18 ed i 35 anni che presentino i seguenti requisiti: 
+ 2. La misura è rivolta ai soggetti di età compresa tra i 18 ed i 
+ ((45 anni))
+
+ che presentino i seguenti requisiti: 
  
 
  
@@ -90,9 +93,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) non risultino già titolari di attività di impresa in esercizio alla data di entrata in vigore del presente decreto o beneficiari, nell'ultimo triennio, di ulteriori misure a livello nazionale a favore dell'autoimprenditorialità.
- ((3))
+ b) non risultino già titolari di attività di impresa in esercizio alla data di entrata in vigore del presente decreto o beneficiari, nell'ultimo triennio, di ulteriori misure a livello nazionale a favore dell'autoimprenditorialità.(3) 
+ 
 
+ 
  
 
  
@@ -100,10 +104,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. I soggetti di cui al comma 2 possono presentare istanza di accesso alla misura, corredata da tutta la documentazione relativa al progetto imprenditoriale, attraverso una piattaforma dedicata sul sito istituzionale dell'Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo di impresa S.p.A. - Invitalia, che opera come soggetto gestore della misura, per conto della Presidenza del Consiglio dei ministri, amministrazione titolare della misura, con le modalità stabilite da apposita convenzione. 
- ((Gli oneri derivanti dalla convenzione sono posti a carico delle risorse destinate alla misura ai sensi dei commi 16 e 17))
-
- . 
+ 3. I soggetti di cui al comma 2 possono presentare istanza di accesso alla misura, corredata da tutta la documentazione relativa al progetto imprenditoriale, attraverso una piattaforma dedicata sul sito istituzionale dell'Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo di impresa S.p.A. - Invitalia, che opera come soggetto gestore della misura, per conto della Presidenza del Consiglio dei ministri, amministrazione titolare della misura, con le modalità stabilite da apposita convenzione. Gli oneri derivanti dalla convenzione sono posti a carico delle risorse destinate alla misura ai sensi dei commi 16 e 17. 
  
 
  
@@ -135,7 +136,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) impresa individuale;
 
  
- b) società, ivi incluse le società cooperative. I soggetti beneficiari della misura devono mantenere la residenza nelle regioni di cui al comma 1 per tutta la durata del finanziamento e le imprese e le società di cui al presente comma devono avere, per tutta la durata del finanziamento, sede legale e operativa in una delle regioni di cui al comma 1. 
+ b) società, ivi incluse le società cooperative. 
+ ((La costituzione nelle suddette forme giuridiche è obbligatoria ai fini della concessione delle agevolazioni di cui al comma 8, ad eccezione delle attività libero-professionali, per le quali è richiesto esclusivamente che i soggetti presentanti le istanze di cui al comma 3 non risultino, nei dodici mesi precedenti la presentazione della domanda di agevolazione, titolari di partita IVA per l'esercizio di un'attività analoga a quella proposta))
+
+ . I soggetti beneficiari della misura devono mantenere la residenza nelle regioni di cui al comma 1 per tutta la durata del finanziamento 
+ ((e le imprese, le società e le attività libero-professionali))
+
+ di cui al presente comma devono avere, per tutta la durata del finanziamento, sede legale e operativa in una delle regioni di cui al comma 1. 
  
 
  
@@ -224,7 +231,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 10. Sono finanziate le attività imprenditoriali relative a produzione di beni nei settori dell'artigianato, dell'industria, della pesca e dell'acquacoltura, ovvero relative alla fornitura di servizi, ivi compresi i servizi turistici. Sono escluse dal finanziamento le attività libero professionali e del commercio ad eccezione della vendita dei beni prodotti nell'attività di impresa. 
+ 10. Sono finanziate le attività imprenditoriali relative a produzione di beni nei settori dell'artigianato, dell'industria, della pesca e dell'acquacoltura, ovvero relative alla fornitura di servizi, ivi compresi i servizi turistici. Sono escluse dal finanziamento le attività 
+ ((...))
+
+ del commercio ad eccezione della vendita dei beni prodotti nell'attività di impresa. 
  
 
  
