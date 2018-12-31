@@ -154,8 +154,7 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
- 
- 2. Ai fini del presente regolamento si intende per:
+ ((2. Ai fini del presente regolamento si intende per:
  
 
  
@@ -167,11 +166,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  b) CONI, il Comitato olimpico nazionale italiano;
  
 
+ 
  
  
 
@@ -181,11 +182,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  d) cedola di caratura, la quota unitaria di partecipazione ad una giocata a caratura, anche speciale, che costituisce ricevuta di partecipazione;
  
 
+ 
  
  
 
@@ -195,11 +198,21 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- f) colonna unitaria, i quattordici pronostici, uno per ogni evento, espressi dal partecipante, relativamente ai concorsi pronostici Totocalcio, Totogol e "+Gol", abbinato al Totogol; i nove pronostici, uno per ogni evento, espressi dal partecipante, relativamente al concorso pronostici "il9", abbinato al Totocalcio;
  
 
+ 
+ f) colonna unitaria, i quattordici pronostici, uno per ogni evento, espressi dal partecipante, relativamente ai concorsi pronostici Totocalcio; i nove pronostici, uno per ogni evento, espressi dal partecipante, relativamente al concorso pronostici "il 9", abbinato al Totocalcio; i sette pronostici espressi dal partecipante, tra i quattordici eventi in palinsesto, relativamente al concorso pronostici Totogol; i quattro pronostici espressi dal partecipante, tra i quattordici eventi in palinsesto, relativamente al concorso pronostici "+Gol", abbinato al Totogol;
+ 
+
+ 
+ 
+ 
+
+ 
+ f-bis) colonna unitaria vincente, l'esatta sequenza di pronostici ufficializzata da AAMS in base all'esito degli eventi oggetto del concorso;
+ 
+
+ 
  
  
 
@@ -209,11 +222,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  h) concessionario, l'operatore di gioco selezionato da AAMS, attraverso procedura ad evidenza pubblica, per l'affidamento di attività e funzioni pubbliche relative all'esercizio dei concorsi pronostici connessi ad eventi sportivi;
  
 
+ 
  
  
 
@@ -223,6 +238,7 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  l) concorso, per tutti i concorsi pronostici su base sportiva, l'insieme degli eventi sportivi, disputati anche in più giorni, oggetto del pronostico del partecipante;
@@ -230,11 +246,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- m) concorso di chiusura definitiva, per il concorso pronostici Totocalcio l'ultimo concorso pronostici Totocalcio per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici "il9", abbinato al concorso pronostici Totocalcio, l'ultimo concorso pronostici "il9" per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici Totogol l'ultimo concorso pronostici Totogol per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici "+Gol", abbinato al concorso pronostici Totogol, l'ultimo concorso pronostici "+Gol" per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso;
  
 
+ 
+ m) concorso di chiusura definitiva, per il concorso pronostici Totocalcio l'ultimo concorso pronostici Totocalcio per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici "il 9", abbinato al concorso pronostici Totocalcio, l'ultimo concorso pronostici "il 9" per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici Totogol l'ultimo concorso pronostici Totogol per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso; per il concorso pronostici "+Gol", abbinato al concorso pronostici Totogol, l'ultimo concorso pronostici "+Gol" per il quale vengono accettate giocate, prima della eventuale abolizione del concorso stesso;
+ 
+
+ 
  
  
 
@@ -244,11 +262,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- o) evento, per il concorso pronostici Totocalcio e quello ad esso abbinato "il9", un avvenimento sportivo, inteso nella sua totalità od in una sua frazione temporale, od un'azione dell'avvenimento stesso sul cui esito si esprime un pronostico; per il concorso pronostici Totogol e quello ad esso abbinato "+Gol", un avvenimento sportivo od una frazione di avvenimento sportivo;
  
 
+ 
+ o) evento, per il concorso pronostici Totocalcio e quello ad esso abbinato "il 9", un avvenimento sportivo, inteso nella sua totalità od in una sua frazione temporale, od un'azione dell'avvenimento stesso sul cui esito si esprime un pronostico; per il concorso pronostici Totogol e quello ad esso abbinato "+Gol", un avvenimento sportivo, inteso nella sua totalità o in una sua frazione temporale;
+ 
+
+ 
  
  
 
@@ -258,11 +278,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  q) giocata accettata, la giocata registrata dal totalizzatore nazionale;
  
 
+ 
  
  
 
@@ -272,6 +294,7 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  s) giocata a caratura speciale, la ripartizione tra più partecipanti, gestita dal concessionario ed effettuata attraverso il punto di vendita virtuale, di una giocata o di una giocata sistemistica;
@@ -279,11 +302,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- t) giocata sistemistica o a sistema, per il concorso pronostici Totocalcio e l'abbinato concorso pronostici "il9", la scritturazione abbreviata, su un'unica schedina di gioco, di una serie di colonne unitarie derivanti dalla espressione di due o tre pronostici, cioè varianti doppie o triple, per uno o più degli eventi oggetto del concorso; per il concorso pronostici Totogol, la scritturazione abbreviata su un'unica schedina di gioco, di una serie di colonne unitarie derivanti dalla espressione di due, tre o quattro pronostici, cioè varianti doppie, triple o quadruple, per uno o più degli eventi oggetto del concorso; per il concorso pronostici "+Gol", abbinato al Totogol, la scritturazione abbreviata di una serie di colonne unitarie derivanti dall'espressione di due pronostici, cioè di una variante doppia, per uno o più degli eventi oggetto del concorso;
  
 
+ 
+ t) giocata sistemistica o a sistema, per il concorso pronostici Totocalcio e l'abbinato concorso pronostici "il 9", la scritturazione abbreviata, su un'unica schedina di gioco, di una serie di colonne unitarie derivanti dalla espressione di due o tre pronostici, cioè varianti doppie o triple, per uno o più degli eventi oggetto del concorso; per il concorso pronostici Totogol e l'abbinato concorso pronostici "+Gol", la scritturazione abbreviata su un'unica schedina di gioco, di una serie di colonne unitarie derivanti dalla espressione di due, o più pronostici, in almeno una delle posizioni da pronosticare; nello sviluppo della giocata sistemistica, non sono considerate valide, e quindi sono escluse dalla giocata, tutte le colonne unitarie che contengono almeno uno stesso pronostico in più di una posizione. Per le giocate sistemistiche riferite al concorso pronostici "+Gol", sono escluse dalla giocata tutte le colonne unitarie non considerate valide ai fini del concorso Totogol;
+ 
+
+ 
  
  
 
@@ -293,6 +318,7 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  v) incasso totale lordo, la differenza tra gli incassi derivanti dalla raccolta al netto dei rimborsi pagati e dei rimborsi prescritti nella settimana contabile di riferimento;
@@ -300,11 +326,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- z) jackpot, per il concorso pronostici Totocalcio, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio di 1&ordf; categoria e riassegnato esclusivamente alla medesima categoria del concorso immediatamente successivo; per il concorso pronostici "il9", abbinato al concorso pronostici Totocalcio, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio e riassegnato esclusivamente al concorso immediatamente successivo; per il concorso pronostici Totogol, rispettivamente, gli autonomi montepremi non distribuiti in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio di 1&ordf; o di 2&ordf; categoria e riassegnati entrambi alla 1&ordf; categoria del concorso immediatamente successivo; per il concorso pronostici "+Gol", abbinato al concorso pronostici Totogol, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio e riassegnato esclusivamente al concorso immediatamente successivo;
  
 
+ 
+ z) jackpot, per il concorso pronostici Totocalcio, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio di 1&ordf; categoria e riassegnato esclusivamente alla medesima categoria del concorso immediatamente successivo; per il concorso pronostici "il 9", abbinato al concorso pronostici Totocalcio, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio e riassegnato esclusivamente al concorso immediatamente successivo; per il concorso pronostici Totogol, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio di qualsiasi categoria e riassegnato alla 1&ordf; categoria del concorso immediatamente successivo; per il concorso pronostici "+Gol", abbinato al concorso pronostici Totogol, l'autonomo montepremi non distribuito in mancanza di premi non assegnabili ovvero di vincitori di premi a punteggio e riassegnato esclusivamente al concorso immediatamente successivo;
+ 
+
+ 
  
  
 
@@ -314,11 +342,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  bb) partecipante, colui che effettua la giocata accettata;
  
 
+ 
  
  
 
@@ -328,11 +358,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  dd) premio precedente di partecipazione, il premio assegnato al partecipante, in base alle modalità definite per il singolo concorso pronostici su base sportiva, subito dopo l'accettazione della sua giocata e comunque prima della chiusura dell'accettazione;
  
 
+ 
  
  
 
@@ -342,6 +374,7 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  ff) punti di pagamento dei premi, i punti individuati dal concessionario nell'ambito della propria organizzazione, resi pubblici dal concessionario medesimo e comunicati ad AAMS prima dell'inizio dell'attività di concessione, abilitati alla ricezione delle ricevute di partecipazione vincenti emesse da un punto di vendita collegato con il concessionario stesso ed al pagamento dei premi ai vincitori di importo superiore ad una determinata soglia;
@@ -349,11 +382,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- gg) punto di vendita, un qualsiasi esercizio commerciale, munito di terminale di gioco, aperto al pubblico, ovvero agenzia di scommesse ovvero totoricevitore, che aderisce ad un singolo concessionario con il quale è anche collegato telematicamente e che, previo nulla osta da parte di AAMS, gestisce il rapporto con l'utente, effettua le giocate sui terminali di gioco e paga le vincite di determinata entità;
  
 
+ 
+ gg) punto di vendita, l'esercizio collegato ad uno dei concessionari di cui all'articolo 38, commi 2 e 4, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ovvero ad uno dei concessionari di cui all'articolo 1-bis del decreto-legge 25 settembre 2008, n. 149, convertito, con modificazioni, dalla legge 19 novembre 2008, n. 184, come modificato dall'articolo 2, commi 49 e 50, della legge 22 dicembre 2008, n. 203;
+ 
+
+ 
  
  
 
@@ -363,11 +398,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  ii) ricevuta di partecipazione, il titolo che garantisce l'avvenuta registrazione della giocata nel totalizzatore nazionale e che costituisce, in caso di vincita o di rimborso, l'unico titolo al portatore valido per la riscossione del premio o del rimborso stesso;
  
 
+ 
  
  
 
@@ -384,12 +421,10 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
  iii. i rimborsi effettuati nell'arco della settimana contabile di riferimento;
  
 
- 
- (( iiii) il compenso spettante al concessionario))
-
- ;
+ iiii. il compenso spettante al concessionario;
  
 
+ 
  
  
 
@@ -399,11 +434,13 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
+ 
 
  
  nn) schedina di gioco, il supporto, il cui formato ed i contenuti specifici sono stabiliti da AAMS, la cui funzione è esclusivamente quella di riportare i pronostici espressi dal partecipante;
  
 
+ 
  
  
 
@@ -413,21 +450,17 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
  
  
-
- 
- pp) totalizzatore nazionale, il sistema di elaborazione centrale, organizzato da AAMS, per la gestione dei concorsi pronostici su base sportiva nonchè di altri, eventuali giochi connessi a manifestazioni sportive;
  
 
  
+ pp) totalizzatore nazionale, il sistema di elaborazione centrale, organizzato da AAMS, per la gestione dei concorsi pronostici su base sportiva nonchè di altri, eventuali giochi connessi a manifestazioni sportive.))
  
 
- 
- qq) totoricevitore, il titolare di una concessione rilasciata in precedenza dal CONI per la vendita di concorsi pronostici su base sportiva, così come previsto dalla deliberazione della giunta esecutiva CONI n. 486 del 1997, avente durata di quattro anni e prorogata annualmente per due volte, con scadenza ultima il 30 giugno 2003.(2)
  
 
  
  
-
+ ((4))
  
 
  
@@ -449,3 +482,16 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
  AGGIORNAMENTO (2)
 
  Il Decreto 31 gennaio 2006, n. 110, ha disposto (con l'art. 2) che "Le disposizioni del presente regolamento trovano applicazione a partire dal primo concorso pronostici indetto successivamente alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto di approvazione del modello della nuova schedina di gioco dei concorsi pronostici su base sportiva. I concorsi pronostici su base sportiva indetti ed effettuati prima della data di pubblicazione del predetto decreto, restano disciplinati sulla base delle disposizioni del decreto del Ministro dell'economia e delle finanze 19 giugno 2003, n. 179, vigenti anteriormente alla data di entrata in vigore del presente regolamento."
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (4)
+
+ 
+ Il Decreto 18 settembre 2009, n. 185 (in G.U. 22/12/2009, n. 297) ha disposto (con l'art. 2, comma 1) che:
+ 
+
+ "Le disposizioni del presente regolamento trovano applicazione a partire dal primo concorso pronostici indetto successivamente alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto di approvazione del modello della nuova schedina di gioco dei concorsi pronostici su base sportiva. I concorsi pronostici su base sportiva indetti ed effettuati prima della data di pubblicazione del predetto decreto, restano disciplinati sulla base delle disposizioni del D.M. 19 giugno 2003, n. 179, del Ministro dell'economia e delle finanze vigenti anteriormente alla data di entrata in vigore del presente".
