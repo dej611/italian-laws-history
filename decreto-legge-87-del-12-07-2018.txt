@@ -48,10 +48,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  1. Al decreto legislativo 15 giugno 2015, n. 81, sono apportate le seguenti modificazioni: 
  
 
- 0a) all'articolo 2, comma 2, dopo la lettera d-bis) è aggiunta la seguente: 
+ 
+ 
+ ((0a) all'articolo 2, comma 2, dopo la lettera d-bis) è aggiunta la seguente: 
  
 
- "d-ter) alle collaborazioni degli operatori che prestano le attività di cui alla legge 21 marzo 2001, n. 74"; 
+ "d-ter) alle collaborazioni degli operatori che prestano le attività di cui alla legge 21 marzo 2001, n. 74"))
+ 
+
+ ; 
  
 
  
@@ -67,16 +72,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  &laquo;1. Al contratto di lavoro subordinato può essere apposto un termine di durata non superiore a dodici mesi. Il contratto può avere una durata superiore, ma comunque non eccedente i ventiquattro mesi, solo in presenza di almeno una delle seguenti condizioni: 
  
 
- a) esigenze temporanee e oggettive, estranee all'ordinaria attività, ovvero esigenze di sostituzione di altri lavoratori; 
+ a) esigenze temporanee e oggettive, estranee all'ordinaria attività, ovvero 
+ ((esigenze di sostituzione di altri lavoratori))
+
+ ; 
  
 
  b) esigenze connesse a incrementi temporanei, significativi e non programmabili, dell'attività ordinaria.&raquo;; 
  
 
- 1-bis) dopo il comma 1 è inserito il seguente: 
+ 
+ 
+ ((1-bis) dopo il comma 1 è inserito il seguente: 
  
 
- "1-bis. In caso di stipulazione di un contratto di durata superiore a dodici mesi in assenza delle condizioni di cui al comma 1, il contratto si trasforma in contratto a tempo indeterminato dalla data di superamento del termine di dodici mesi". 
+ "1-bis. In caso di stipulazione di un contratto di durata superiore a dodici mesi in assenza delle condizioni di cui al comma 1, il contratto si trasforma in contratto a tempo indeterminato dalla data di superamento del termine di dodici mesi"))
+ 
+
+ . 
  
 
  2) al comma 2, primo e terzo periodo, la parola &laquo;trentasei&raquo; è sostituita dalla seguente: &laquo;ventiquattro&raquo;; 
@@ -98,7 +111,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) prima del comma 1, è inserito il seguente: 
  
 
- &laquo;01. Il contratto può essere rinnovato solo a fronte delle condizioni di cui all'articolo 19, comma 1. Il contratto può essere prorogato liberamente nei primi dodici mesi e, successivamente, solo in presenza delle condizioni di cui all'articolo 19, comma 1. In caso di violazione di quanto disposto dal primo e dal secondo periodo, il contratto si trasforma in contratto a tempo indeterminato. I contratti per attività stagionali, di cui al comma 2 del presente articolo, possono essere rinnovati o prorogati anche in assenza delle condizioni di cui all'articolo 19, comma 1.&raquo;; 
+ &laquo;01. Il contratto può essere rinnovato solo a fronte delle condizioni di cui all'articolo 19, comma 1. Il contratto può essere prorogato liberamente nei primi dodici mesi e, successivamente, solo in presenza delle condizioni di cui all'articolo 19, comma 1. 
+ ((In caso di violazione di quanto disposto dal primo e dal secondo periodo, il contratto si trasforma in contratto a tempo indeterminato))
+
+ . I contratti per attività stagionali, di cui al comma 2 
+ ((del presente articolo))
+
+ , possono essere rinnovati o prorogati anche in assenza delle condizioni di cui all'articolo 19, comma 1.&raquo;; 
  
 
  2) al comma 1, la parola &laquo;trentasei&raquo;, ovunque ricorra, è sostituita dalla seguente: &laquo;ventiquattro&raquo;, la parola &laquo;cinque&raquo; è sostituita dalla seguente: &laquo;quattro&raquo; e la parola &laquo;sesta&raquo; è sostituita dalla seguente: &laquo;quinta&raquo;; 
@@ -119,7 +138,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Le disposizioni di cui al comma 1 si applicano ai contratti di lavoro a tempo determinato stipulati successivamente alla data di entrata in vigore del presente decreto, nonchè ai rinnovi e alle proroghe contrattuali successivi al 31 ottobre 2018. 
+ 2. Le disposizioni di cui al comma 1 si applicano ai contratti di lavoro a tempo determinato stipulati successivamente alla data di entrata in vigore del presente decreto, nonchè ai rinnovi e alle proroghe 
+ ((contrattuali successivi al 31 ottobre 2018))
+
+ . 
  
 
  
@@ -127,7 +149,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Le disposizioni di cui al presente articolo, nonchè quelle di cui agli articoli 2 e 3, non si applicano ai contratti stipulati dalle pubbliche amministrazioni 
- ((nonchè ai contratti di lavoro a tempo determinato stipulati dalle università private, incluse le filiazioni di università straniere, istituti pubblici di ricerca, società pubbliche che promuovono la ricerca e l'innovazione ovvero enti privati di ricerca e lavoratori chiamati a svolgere attività di insegnamento, di ricerca scientifica o tecnologica, di trasferimento di know-how, di supporto all'innovazione, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa,))
-
- , ai quali continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto.
+ 3. Le disposizioni di cui al presente articolo, nonchè quelle di cui agli articoli 2 e 3, non si applicano ai contratti stipulati dalle pubbliche amministrazioni, ai quali continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto.
