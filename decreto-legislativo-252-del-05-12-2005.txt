@@ -87,6 +87,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((
+ 
+
+ 
+ 1-bis. Le forme pensionistiche complementari di cui al presente decreto limitano le proprie attività alla previdenza complementare e a quelle ad essa collegate.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
  2. L'adesione alle forme pensionistiche complementari disciplinate dal presente decreto è libera e volontaria. 
  
 
@@ -117,32 +132,138 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  c) "COVIP": la Commissione di vigilanza sui fondi pensione, istituita ai sensi dell'articolo 18, di seguito denominata: "COVIP"; 
+ 
 
  
- ((
+ 
 
  
  c-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
  
 
- 1) "AEAP": Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 1) "AEAP" 
+ ((o "EIOPA"))
+
+ : Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
  
 
- 2) "ABE": Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "ABE" 
+ ((o "EBA"))
+
+ : Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
  
 
- 3) "AESFEM": Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 3) "AESFEM" 
+ ((o "ESMA"))
+
+ : Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  4) "Comitato congiunto": il Comitato congiunto delle Autorità europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
  
 
- 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
+ 5) "CERS" 
+ ((o "ESRB"))
+
+ : Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
  
 
- 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010;
+ 6) "Autorità di vigilanza degli Stati membri": le autorità competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
  
+
+ 
+ 
+
+ 
+ ((
+
+ 
+ c-ter) "aderenti" o "iscritti": le persone, diverse dai beneficiari, che hanno aderito a una forma pensionistica complementare; 
+ 
+
+ 
+ 
+
+ 
+ c-quater) "beneficiari": le persone che percepiscono le prestazioni pensionistiche; 
+ 
+
+ 
+ 
+
+ 
+ c-quinquies) "funzione fondamentale": nell'ambito del sistema di governo di una forma pensionistica complementare una capacità interna di svolgere compiti pratici: un sistema di governo comprende, tra le funzioni fondamentali, la funzione di gestione dei rischi, la funzione di revisione interna e la funzione attuariale; 
+ 
+
+ 
+ 
+
+ 
+ c-sexies) "impresa promotrice": un'impresa o un altro organismo, a prescindere dal fatto che comprenda o sia composto da una o più persone giuridiche o fisiche, che agisce in qualità di datore di lavoro o di lavoratore autonomo, oppure una loro combinazione, e che offre una forma pensionistica o versa contributi a una forma; 
+ 
+
+ 
+ 
+
+ 
+ c-septies) "potenziali aderenti": le persone che hanno diritto ad aderire a una forma pensionistica complementare; 
+ 
+
+ 
+ 
+
+ 
+ c-octies) "rischi biometrici": rischi relativi a morte, invalidità e longevità; 
+ 
+
+ 
+ 
+
+ 
+ c-nonies) "rischio operativo": il rischio di perdite derivanti dall'inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi esogeni; 
+ 
+
+ 
+ 
+
+ 
+ c-decies) "Stato membro": uno Stato membro dell'Unione europea o uno Stato aderente allo Spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea; 
+ 
+
+ 
+ 
+
+ 
+ c-undecies) "Stato membro di origine": lo Stato membro in cui la forma pensionistica è stata registrata o autorizzata e in cui è situata la sua amministrazione principale e, cioè, il luogo in cui sono adottate le principali decisioni strategiche; 
+ 
+
+ 
+ 
+
+ 
+ c-duodecies) "Stato membro ospitante": lo Stato membro il cui diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali si applica al rapporto tra l'impresa promotrice e gli aderenti o i beneficiari; 
+ 
+
+ 
+ 
+
+ 
+ c-terdecies) "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con legge 28 luglio 1993, n. 300; 
+ 
+
+ 
+ 
+
+ 
+ c-quaterdecies) "attività transfrontaliera": l'attività che comporta la gestione di uno schema pensionistico in cui il rapporto tra impresa promotrice e gli aderenti e i beneficiari è disciplinato dal diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali di uno Stato membro diverso dallo Stato membro di origine; 
+ 
+
+ 
+ 
+
+ c-quinquiesdecies) "supporto durevole": uno strumento che permetta ai potenziali aderenti, aderenti o beneficiari di conservare le informazioni a loro fornite in modo che possano essere accessibili per la futura consultazione e per un periodo di tempo adeguato ai fini cui sono destinate le informazioni, e che consenta la riproduzione senza modifiche delle informazioni conservate;
 
  ))
 

@@ -456,10 +456,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- d) attività riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione, anche di uno Stato terzo o retrocessi da un'impresa di riassicurazione; 
- 
+ ((
 
  
+ d) attività riassicurativa: 
+ 
+
+ 1) l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione, anche di uno Stato terzo o retrocessi da un'impresa di riassicurazione; 
+ 
+
+ 2) la copertura fornita da un'impresa di riassicurazione ad un fondo pensione istituito in uno Stato membro dell'Unione europea, autorizzato dall'Autorità competente dello Stato membro di origine e che rientri nell'ambito di applicazione della direttiva (UE) 2016/2341;
+ 
+
+ ))
+
  
 
  
@@ -540,11 +550,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  l-bis) collegio delle autorità di vigilanza: una struttura permanente ma flessibile per la cooperazione, il coordinamento e l'agevolazione del processo decisionale nell'ambito della vigilanza del gruppo; 
  
 
+ l-bis.1) compenso: qualsiasi commissione, onorario, spesa, o altro pagamento, inclusi altri benefici economici di qualsiasi tipo o qualunque altro vantaggio o incentivo finanziario o non finanziario, offerti o forniti in relazione ad attività di distribuzione assicurativa; (45) 
  
- ((l-bis.1) compenso: qualsiasi commissione, onorario, spesa, o altro pagamento, inclusi altri benefici economici di qualsiasi tipo o qualunque altro vantaggio o incentivo finanziario o non finanziario, offerti o forniti in relazione ad attività di distribuzione assicurativa;))
 
- ((45))
-
+ 
  
 
  
@@ -569,13 +578,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((m-ter) consulenza: l'attività consistente nel fornire raccomandazioni personalizzate ad un cliente, su richiesta dello stesso o su iniziativa del distributore, in relazione ad uno o più contratti di assicurazione;))
-
+ m-ter) consulenza: l'attività consistente nel fornire raccomandazioni personalizzate ad un cliente, su richiesta dello stesso o su iniziativa del distributore, in relazione ad uno o più contratti di assicurazione; (45) 
  
 
  
- ((45))
-
  
 
  
@@ -585,11 +591,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  Sono parimenti considerati crediti di assicurazione i premi detenuti da un'impresa di assicurazione, prima dell'avvio delle procedure di liquidazione dell'impresa stessa, in seguito alla mancata stipulazione o alla risoluzione dei medesimi contratti ed operazioni, in virtù della legge applicabile a tali contratti e operazioni; 
  
 
+ n. 1) distributore di prodotti assicurativi: qualsiasi intermediario assicurativo, intermediario assicurativo a titolo accessorio o impresa di assicurazione; (45) 
  
- ((n. 1) distributore di prodotti assicurativi: qualsiasi intermediario assicurativo, intermediario assicurativo a titolo accessorio o impresa di assicurazione;))
 
- ((45))
-
+ 
  
 
  
@@ -787,28 +792,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((cc-quinquies) intermediario assicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o riassicurazione o da un dipendente della stessa e diversa da un intermediario assicurativo a titolo accessorio, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa;))
-
- 
-
- 
- ((45))
-
- 
-
- 
- ((cc-sexies) intermediario riassicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o di riassicurazione o da un dipendente di essa, che avvii o svolga a titolo oneroso l'attività di distribuzione riassicurativa;))
-
- 
-
- 
- ((45))
-
+ cc-quinquies) intermediario assicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o riassicurazione o da un dipendente della stessa e diversa da un intermediario assicurativo a titolo accessorio, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa; (45) 
  
 
  
  
- ((cc-septies) intermediario assicurativo a titolo accessorio: qualsiasi persona fisica o giuridica, diversa da uno dei soggetti di cui alla lettera d), comma 2, dell'articolo 109, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa a titolo accessorio, nel rispetto delle seguenti condizioni: 
+
+ 
+ cc-sexies) intermediario riassicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o di riassicurazione o da un dipendente di essa, che avvii o svolga a titolo oneroso l'attività di distribuzione riassicurativa; (45) 
+ 
+
+ 
+ 
+
+ 
+ cc-septies) intermediario assicurativo a titolo accessorio: qualsiasi persona fisica o giuridica, diversa da uno dei soggetti di cui alla lettera d), comma 2, dell'articolo 109, che avvii o svolga a titolo oneroso l'attività di distribuzione assicurativa a titolo accessorio, nel rispetto delle seguenti condizioni: 
  
 
  1) l'attività professionale principale di tale persona fisica o giuridica è diversa dalla distribuzione assicurativa; 
@@ -817,14 +815,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) la persona fisica o giuridica distribuisce soltanto determinati prodotti assicurativi, complementari rispetto ad un bene o servizio; 
  
 
- 3) i prodotti assicurativi in questione non coprono il ramo vita o la responsabilità civile, a meno che tale copertura non integri il bene o il servizio che l'intermediario fornisce nell'ambito della sua attività professionale principale;))
+ 3) i prodotti assicurativi in questione non coprono il ramo vita o la responsabilità civile, a meno che tale copertura non integri il bene o il servizio che l'intermediario fornisce nell'ambito della sua attività professionale principale; (45) 
  
 
  
-
- 
- ((45))
-
  
 
  
@@ -954,8 +948,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((ss-bis) prodotto di investimento assicurativo: un prodotto ai sensi dell'articolo 4, paragrafo 1, numero 2), del regolamento (UE) n. 1286/2014. Tale definizione non include: 
+ ss-bis) prodotto di investimento assicurativo: un prodotto ai sensi dell'articolo 4, paragrafo 1, numero 2), del regolamento (UE) n. 1286/2014. Tale definizione non include: 
  
 
  1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE (Rami dell'assicurazione non vita); 
@@ -970,14 +963,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 
  
 
- 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non può scegliere il fornitore o il prodotto pensionistico;))
+ 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non può scegliere il fornitore o il prodotto pensionistico; (45) 
  
 
  
-
- 
- ((45))
-
  
 
  
@@ -995,11 +984,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- vv) sede secondaria o succursale: una sede che costituisce parte, sprovvista di personalità giuridica, di un'impresa di assicurazione o di riassicurazione e che effettua direttamente, in tutto o in parte, l'attività assicurativa o riassicurativa; 
- ((con riferimento all'intermediazione, per succursale si intende una agenzia o una succursale situata in uno Stato membro diverso dallo Stato membro di origine, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'intermediario ovvero da una persona indipendente, ma incaricata ad agire in modo permanente per conto dell'intermediario stesso;))
+ vv) sede secondaria o succursale: una sede che costituisce parte, sprovvista di personalità giuridica, di un'impresa di assicurazione o di riassicurazione e che effettua direttamente, in tutto o in parte, l'attività assicurativa o riassicurativa; con riferimento all'intermediazione, per succursale si intende una agenzia o una succursale situata in uno Stato membro diverso dallo Stato membro di origine, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'intermediario ovvero da una persona indipendente, ma incaricata ad agire in modo permanente per conto dell'intermediario stesso; (45) 
+ 
 
- ((45))
-
+ 
  
 
  
@@ -1053,21 +1041,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((vv-quater) supporto durevole: qualsiasi strumento che: 
+ vv-quater) supporto durevole: qualsiasi strumento che: 
  
 
  1) permetta al contraente di memorizzare informazioni a lui personalmente dirette, in modo che siano accessibili per la futura consultazione durante un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse; e 
  
 
- 2) consenta la riproduzione inalterata delle informazioni memorizzate;))
+ 2) consenta la riproduzione inalterata delle informazioni memorizzate; (45) 
  
 
  
-
- 
- ((45))
-
  
 
  
@@ -1138,20 +1121,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione; 
- ((con riferimento all'intermediazione, se l'intermediario è una persona fisica, per Stato membro di origine, si intende lo Stato di residenza dell'intermediario; se è una persona giuridica, si intende lo Stato membro in cui è situata la sede legale, o se assente, la sede principale, da intendersi come il luogo a partire dal quale è gestita l'attività principale;))
-
- ((45))
-
+ ggg) Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui è situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione; con riferimento all'intermediazione, se l'intermediario è una persona fisica, per Stato membro di origine, si intende lo Stato di residenza dell'intermediario; se è una persona giuridica, si intende lo Stato membro in cui è situata la sede legale, o se assente, la sede principale, da intendersi come il luogo a partire dal quale è gestita l'attività principale; (45) 
  
 
  
- ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi; 
- ((con riferimento all'intermediazione si intende lo Stato membro, diverso dallo Stato membro d'origine, in cui l'intermediario ha una presenza permanente o una stabile organizzazione o in cui presta servizi))
+ 
 
- ; 
- ((45))
+ 
+ ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi; con riferimento all'intermediazione si intende lo Stato membro, diverso dallo Stato membro d'origine, in cui l'intermediario ha una presenza permanente o una stabile organizzazione o in cui presta servizi; (45) 
+ 
 
+ 
  
 
  
@@ -1177,11 +1157,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L' IVASS, con regolamento, può ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
  
 
+ iii.1) vendita a distanza: qualunque modalità di vendita che, senza la presenza fisica e simultanea del distributore e del contraente, possa essere impiegata per il collocamento a distanza di contratti assicurativi e riassicurativi; (45) 
  
- ((iii.1) vendita a distanza: qualunque modalità di vendita che, senza la presenza fisica e simultanea del distributore e del contraente, possa essere impiegata per il collocamento a distanza di contratti assicurativi e riassicurativi;))
 
- ((45))
-
+ 
  
 
  
