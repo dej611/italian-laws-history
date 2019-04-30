@@ -86,12 +86,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ c-bis) "COVIP": la Commissione di vigilanza sui fondi pensione; 
+ 
 
- c-bis) "COVIP": la Commissione di vigilanza sui fondi pensione;
-
- ))
-
+ 
  
 
  
@@ -201,6 +199,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ 
+ i-quater) società di investimento semplice (SiS): il FIA italiano, riservato a investitori professionali, costituito in forma di Sicaf che gestisce direttamente il proprio patrimonio e che rispetta tutte le seguenti condizioni: 
+ 
+
+ 1) il patrimonio netto non eccede euro 25 milioni; 
+ 
+
+ 2) ha per oggetto esclusivo l'investimento diretto del patrimonio raccolto in PMI non quotate su mercati regolamentati di cui all'articolo 2 paragrafo 1, lettera f), primo alinea, del regolamento (UE) 2017/1129 del Parlamento europeo e del Consiglio del 14 giugno 2017 che si trovano nella fase di sperimentazione, di costituzione e di avvio dell'attività, in deroga all'articolo 35-bis, comma 1, lettera f); 
+ 
+
+ 3) non ricorre alla leva finanziaria; 
+ 
+
+ 4) dispone di un capitale sociale almeno pari a quello previsto dall'articolo 2327 del codice civile, in deroga all'articolo 35-bis, comma 1, lettera c).
+ 
+
+ ))
+
  
 
  
@@ -357,14 +378,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  r-ter) 'Stato di origine dell'OICR': Stato dell'UE in cui l'OICR è stato costituito; 
  
 
- 
- 
- ((r-ter.1) "indice di riferimento" o "benchmark": l'indice di cui all'articolo 3, paragrafo 1, punto 3), del regolamento (UE) 2016/1011; 
+ r-ter.1) "indice di riferimento" o "benchmark": l'indice di cui all'articolo 3, paragrafo 1, punto 3), del regolamento (UE) 2016/1011; 
  
 
- r-ter.2) "amministratore di indici di riferimento": la persona fisica o giuridica di cui all'articolo 3, paragrafo 1, punto 6), del regolamento (UE) 2016/1011;))
+ r-ter.2) "amministratore di indici di riferimento": la persona fisica o giuridica di cui all'articolo 3, paragrafo 1, punto 6), del regolamento (UE) 2016/1011; 
  
 
+ 
  
 
  
