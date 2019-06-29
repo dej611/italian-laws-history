@@ -389,9 +389,14 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
 
+ 
  Emana
 
- il seguente decreto legislativo: CODICE DELLE COMUNICAZIONI ELETTRONICHE
+ 
+
+ il
+
+ seguente decreto legislativo: CODICE DELLE COMUNICAZIONI ELETTRONICHE
 
  Art. 1
 
@@ -408,18 +413,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) 
- ((contraente))
-
- : la persona fisica o giuridica che sia parte di un contratto con il fornitore di servizi di comunicazione elettronica accessibili al pubblico, per la fornitura di tali servizi; 
+ a) contraente: la persona fisica o giuridica che sia parte di un contratto con il fornitore di servizi di comunicazione elettronica accessibili al pubblico, per la fornitura di tali servizi; 
  
 
  
  
 
  
- ((b) accesso: il fatto di rendere accessibili risorse o servizi ad un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della società dell'informazione o di servizi di radiodiffusione di contenuti. è compreso tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che può comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonchè alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'ordinazione preventiva, la fornitura, l'ordinazione, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale))
+ b) accesso: il fatto di rendere accessibili risorse o servizi ad un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della società dell'informazione o di servizi di radiodiffusione di contenuti. è compreso tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che può comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonchè alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'ordinazione preventiva, la fornitura, l'ordinazione, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale; 
+ 
 
+ 
  
 
  
@@ -458,8 +462,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((h) chiamata: la connessione istituita da un servizio di comunicazione elettronica accessibile al pubblico che consente la comunicazione bidirezionale))
+ h) chiamata: la connessione istituita da un servizio di comunicazione elettronica accessibile al pubblico che consente la comunicazione bidirezionale; 
+ 
 
+ 
  
 
  
@@ -470,13 +476,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- j) consumatore: 
- ((l'utente finale,))
-
- la persona fisica che utilizza 
- ((o che chiede di utilizzare))
-
- un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attività lavorativa, commerciale o professionale svolta; 
+ j) consumatore: l'utente finale, la persona fisica che utilizza o che chiede di utilizzare un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attività lavorativa, commerciale o professionale svolta; 
  
 
  
@@ -497,12 +497,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ n) interferenza dannosa: interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione europea o nazionali applicabili; 
+ 
 
- n) interferenza dannosa: interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione europea o nazionali applicabili;
-
- ))
-
+ 
  
 
  
@@ -520,40 +518,31 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- q) mercati transnazionali: mercati situati in più di uno Stato membro, individuati conformemente all'articolo 18, che comprendono l'Unione europea o una parte considerevole dei suoi Stati membri;
-
- ))
-
- 
-
- 
- r) Ministero: il 
- ((Ministero dello sviluppo economico))
-
- ; 
+ q) mercati transnazionali: mercati situati in più di uno Stato membro, individuati conformemente all'articolo 18, che comprendono l'Unione europea o una parte considerevole dei suoi Stati membri; 
  
 
  
  
 
  
- ((
-
- s) numero geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete;
-
- ))
-
+ r) Ministero: il Ministero dello sviluppo economico; 
  
 
  
- ((
+ 
 
- t) numero non geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica e che non sia un numero geografico; include tra l'altro i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo;
+ 
+ s) numero geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete; 
+ 
 
- ))
+ 
+ 
 
+ 
+ t) numero non geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica e che non sia un numero geografico; include tra l'altro i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo; 
+ 
+
+ 
  
 
  
@@ -564,37 +553,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- v) punto terminale di rete: il punto fisico a partire dal quale il contraente ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete è definito mediante un indirizzo di rete specifico che può essere correlato ad un numero di contraente o ad un nome di contraente; per il servizio di comunicazioni mobili e personali il punto terminale di rete è costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio;
-
- ))
-
+ v) punto terminale di rete: il punto fisico a partire dal quale il contraente ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete è definito mediante un indirizzo di rete specifico che può essere correlato ad un numero di contraente o ad un nome di contraente; per il servizio di comunicazioni mobili e personali il punto terminale di rete è costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio; 
  
 
  
- ((
-
- z) rete locale: il circuito fisico che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica;
-
- ))
-
  
 
  
- ((
-
- aa) rete pubblica di comunicazioni: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti;
-
- ))
-
+ z) rete locale: il circuito fisico che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica; 
  
 
  
- bb) 
- ((LETTERA SOPPRESSA DAL D.LGS. 28 MAGGIO 2012, N. 70))
+ 
 
- ; 
+ 
+ aa) rete pubblica di comunicazioni: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti; 
+ 
+
+ 
+ 
+
+ 
+ bb) LETTERA SOPPRESSA DAL D.LGS. 28 MAGGIO 2012, N. 70; 
  
 
  
@@ -608,18 +588,51 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+ 
 
- dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato;
+ 
+ 
 
- ))
+ 
+ ee) risorse correlate: i servizi correlati, le infrastrutture fisiche e le altre risorse o elementi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ovvero sono potenzialmente in grado di farlo, ivi compresi tra l'altro gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le guaine, i piloni, i pozzetti e gli armadi di distribuzione; 
+ 
 
+ 
  
 
  
  ((
 
- ee) risorse correlate: i servizi correlati, le infrastrutture fisiche e le altre risorse o elementi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ovvero sono potenzialmente in grado di farlo, ivi compresi tra l'altro gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le guaine, i piloni, i pozzetti e gli armadi di distribuzione;
+ 
+ ee-bis) Sistema di allarme pubblico: sistema di diffusione di allarmi pubblici agli utenti finali interessati da gravi emergenze e catastrofi imminenti o in corso, che può utilizzare servizi mobili di comunicazione interpersonale basati sul numero, servizi di diffusione radiotelevisiva, applicazioni mobili basate su un servizio di accesso a internet. Qualora gli allarmi pubblici siano trasmessi tramite servizi di comunicazione elettronica accessibili al pubblico diversi da quelli di cui al primo periodo, la loro efficacia deve essere equivalente in termini di copertura e capacità di raggiungere gli utenti finali, compresi quelli presenti solo temporaneamente nella zona interessata. Gli allarmi pubblici devono essere facili da ricevere per gli utenti finali; 
+ 
+
+ 
+ 
+
+ 
+ ee-ter) servizio di Cell Broadcast Service: Servizio che consente la diffusione di messaggi a tutti i terminali presenti all'interno di una determinata area geografica individuata dalla copertura radiomobile di una o più celle; 
+ 
+
+ 
+ 
+
+ 
+ ee-quater) messaggio IT-alert: Messaggio inviato, attraverso un Servizio di Cell Broadcast Service, dalle componenti del Servizio nazionale della protezione civile, nell'imminenza o nel caso degli eventi previsti all'articolo 7 del decreto legislativo 2 gennaio 2018, n. 1, e dagli ulteriori soggetti a tal fine abilitati; 
+ 
+
+ 
+ 
+
+ 
+ ee-quinquies) servizio IT-alert: sistema di allarme pubblico che trasmette, ai terminali presenti in una determinata area geografica, dei Messaggi IT-alert riguardanti gli scenari di rischio, l'organizzazione dei servizi di protezione civile del proprio territorio e le misure di autoprotezione; 
+ 
+
+ 
+ 
+
+ ee-sexies) misure di autoprotezione: azioni raccomandate, utili a ridurre i rischi e ad attenuare le conseguenze derivanti dagli eventi di cui all'articolo 7 del decreto legislativo 2 gennaio 2018, n. 1;
 
  ))
 
@@ -640,12 +653,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ hh) servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o più numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale; 
+ 
 
- hh) servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o più numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale;
-
- ))
-
+ 
  
 
  
@@ -698,9 +709,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  qq-bis) BEREC: Organismo dei regolatori europei delle comunicazioni elettroniche; 
  
 
@@ -714,6 +722,5 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
+ 
  qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi tra l'altro i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi, nonchè altri servizi quali quelli relativi all'identità, alla posizione e alla presenza.
-
- ))
