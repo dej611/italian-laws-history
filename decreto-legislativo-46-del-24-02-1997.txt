@@ -68,63 +68,132 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ 
  2. Ai fini del presente decreto s'intende per: 
  
 
  
- ((a) dispositivo medico: qualunque strumento, apparecchio, impianto, software, sostanza o altro prodotto, utilizzato da solo o in combinazione, compreso il software destinato dal fabbricante ad essere impiegato specificamente con finalità diagnostiche o terapeutiche e necessario al corretto funzionamento del dispositivo, destinato dal fabbricante ad essere impiegato sull'uomo a fini di diagnosi, prevenzione, controllo, terapia o attenuazione di una malattia; di diagnosi, controllo, terapia, attenuazione o compensazione di una ferita o di un handicap; di studio, sostituzione o modifica dell'anatomia o di un processo fisiologico; di intervento sul concepimento, il quale prodotto non eserciti l'azione principale, nel o sul corpo umano, cui è destinato, con mezzi farmacologici o immunologici nè mediante processo metabolico ma la cui funzione possa essere coadiuvata da tali mezzi;))
+ 
+
+ 
+ a) dispositivo medico: qualunque strumento, apparecchio, impianto, software, sostanza o altro prodotto, utilizzato da solo o in combinazione, compreso il software destinato dal fabbricante ad essere impiegato specificamente con finalità diagnostiche o terapeutiche e necessario al corretto funzionamento del dispositivo, destinato dal fabbricante ad essere impiegato sull'uomo a fini di diagnosi, prevenzione, controllo, terapia o attenuazione di una malattia; di diagnosi, controllo, terapia, attenuazione o compensazione di una ferita o di un handicap; di studio, sostituzione o modifica dell'anatomia o di un processo fisiologico; di intervento sul concepimento, il quale prodotto non eserciti l'azione principale, nel o sul corpo umano, cui è destinato, con mezzi farmacologici o immunologici nè mediante processo metabolico ma la cui funzione possa essere coadiuvata da tali mezzi; 
+ 
 
  
  
 
+ 
  b) accessorio: prodotto che, pur non essendo un dispositivo, sia destinato in modo specifico dal fabbricante ad essere utilizzato con un dispositivo per consentirne l'utilizzazione prevista dal fabbricante stesso; 
  
 
+ 
+ 
+
+ 
  c) dispositivo medico-diagnostico in vitro: qualsiasi dispositivo medico composto da un reagente, da un prodotto reattivo, da un calibratore, da un materiale di controllo, da un kit, da uno strumento, da un apparecchio, un'attrezzatura o un sistema, utilizzato da solo o in combinazione, destinato dal fabbricante ad essere impiegato in vitro per l'esame di campioni provenienti dal corpo umano, inclusi sangue e tessuti donati, unicamente o principalmente allo scopo di fornire informazioni su uno stato fisiologico o patologico, o su una anomalia congenita, o informazioni che consentono la determinazione della sicurezza e della compatibilità con potenziali soggetti riceventi, o che consentono il controllo delle misure terapeutiche. I contenitori dei campioni sono considerati dispositivi medico-diagnostici in vitro. Si intendono per contenitori di campioni i dispositivi, del tipo sottovuoto o no, specificamente destinati dai fabbricanti a ricevere direttamente il campione proveniente dal corpo umano e a conservarlo ai fini di un esame diagnostico in vitro. I prodotti destinati ad usi generici di laboratorio non sono dispositivi medico-diagnostici in vitro a meno che, date le loro caratteristiche, siano specificamente destinati dal fabbricante ad esami diagnostici in vitro; 
  
 
+ 
+ 
+
+ 
  d) dispositivo su misura: qualsiasi dispositivo fabbricato appositamente sulla base della prescrizione scritta di un medico debitamente qualificato e indicante, sotto la responsabilità del medesimo, le caratteristiche specifiche di progettazione del dispositivo e destinato ad essere utilizzato solo per un determinato paziente. La prescrizione può essere redatta anche da altra persona la quale vi sia autorizzata in virtù della propria qualificazione professionale. I dispositivi fabbricati con metodi di fabbricazione continua od in serie, che devono essere successivamente adattati, per soddisfare un'esigenza specifica del medico o di un altro utilizzatore professionale, non sono considerati dispositivi su misura; 
  
 
+ 
+ 
+
+ 
  e) dispositivi per indagini cliniche: un dispositivo destinato ad essere messo a disposizione di un medico debitamente qualificato per lo svolgimento di indagini di cui all'allegato X, punto 2.1, in un ambiente clinico umano adeguato. Per l'esecuzione delle indagini cliniche, al medico debitamente qualificato è assimilata ogni altra persona, la quale, in base alla propria qualificazione professionale, sia autorizzata a svolgere tali indagini; 
  
 
+ 
+ 
+
+ 
+ ((
+
+ 
+ e-bis) autorità competente: Ministero della salute; 
+ 
+
+ 
+ 
+
+ 
+ e-ter) autorità responsabile degli organismi notificati:
+ 
+
+ Ministero della salute))
+ 
+
+ 
+
+ 
  f) fabbricante: la persona fisica o giuridica responsabile della progettazione, della fabbricazione, dell'imballaggio e dell'etichettatura di un dispositivo in vista dell'immissione in commercio a proprio nome, indipendentemente dal fatto che queste operazioni siano eseguite da questa stessa persona o da un terzo per suo conto. Gli obblighi del presente decreto che si impongono al fabbricante valgono anche per la persona fisica o giuridica che compone, provvede all'imballaggio, tratta, rimette a nuovo, etichetta uno o più prodotti prefabbricati o assegna loro la destinazione di dispositivo in vista dell'immissione in commercio e proprio nome. I predetti obblighi non si applicano alla persona la quale, senza essere il fabbricante compone o adatta dispositivi già immessi in commercio in funzione della loro destinazione ad un singolo paziente; 
  
 
+ 
+ 
+
+ 
  g) destinazione: l'utilizzazione alla quale è destinato il dispositivo secondo le indicazioni fornite dal fabbricante nell'etichetta, nel foglio illustrativo o nel materiale pubblicitario; 
  
 
+ 
+ 
+
+ 
  h) immissione in commercio: la prima messa a disposizione a titolo oneroso o gratuito di dispositivi, esclusi quelli destinati alle indagini cliniche, in vista della distribuzione o utilizzazione sul mercato comunitario, indipendentemente dal fatto che si tratti di dispositivi nuovi o rimessi a nuovo; 
  
 
+ 
+ 
+
+ 
  i) messa in servizio: fase in cui il dispositivo è stato reso disponibile all'utilizzatore finale in quanto pronto per la prima utilizzazione sul mercato comunitario secondo la sua destinazione d'uso; 
  
 
+ 
+ 
+
+ 
  i-bis) mandatario: la persona fisica o giuridica stabilita nel territorio dell'Unione europea che, dopo essere stata espressamente designata dal fabbricante, agisce e può essere interpellata dalle autorità nazionali competenti e dagli organismi comunitari in vece del fabbricante per quanto riguarda gli obblighi che il presente decreto impone a quest'ultimo. 
  
 
  
  
- ((i-ter) dati clinici: informazioni sulla sicurezza o sulle prestazioni ricavate dall'impiego di un dispositivo. I dati clinici provengono dalle seguenti fonti: 
+
+ 
+ i-ter) dati clinici: informazioni sulla sicurezza o sulle prestazioni ricavate dall'impiego di un dispositivo. I dati clinici provengono dalle seguenti fonti: 
  
 
  1) indagini cliniche relative al dispositivo in questione; o 
  
 
- 2) indagini cliniche o altri studi pubblicati nella letteratura scientifica, relativi a un dispositivo analogo di cui è dimostrabile 
- 
-
- l'equivalenza al dispositivo in questione; o 
+ 2) indagini cliniche o altri studi pubblicati nella letteratura scientifica, relativi a un dispositivo analogo di cui è dimostrabile l'equivalenza al dispositivo in questione; o 
  
 
  3) relazioni pubblicate o non pubblicate su altre pratiche cliniche relative al dispositivo in questione o a un dispositivo analogo di cui è dimostrabile l'equivalenza al dispositivo in questione; 
  
 
+ 
+ 
+
+ 
  i-quater) sottocategoria di dispositivi: serie di dispositivi con settori di utilizzo comuni o con tecnologie comuni; 
  
 
+ 
+ 
+
+ 
  i-quinquies) gruppo generico di dispositivi: serie di dispositivi per i quali è previsto un identico o analogo utilizzo e che condividono la stessa tecnologia, cosicchè possono essere classificati in modo generico, senza tenere conto di caratteristiche specifiche; 
  
 
- i-sexies) dispositivo monouso: dispositivo destinato ad essere utilizzato una sola volta per un solo paziente.))
+ 
+ 
+
+ 
+ i-sexies) dispositivo monouso: dispositivo destinato ad essere utilizzato una sola volta per un solo paziente.

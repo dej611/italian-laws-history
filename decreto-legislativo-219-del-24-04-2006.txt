@@ -219,19 +219,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  b-bis) sostanza attiva: qualsiasi sostanza o miscela di sostanze destinata a essere utilizzata nella produzione di un medicinale e che, se impiegata nella produzione di quest'ultimo, diventa un principio attivo di detto medicinale inteso a esercitare un'azione farmacologica, immunologica o metabolica al fine di ripristinare, correggere o modificare funzioni fisiologiche, ovvero a stabilire una diagnosi medica; 
  
 
  
  
 
- b-ter) eccipiente: qualsiasi componente di un medicinale diverso dalla sostanza attiva e dal materiale di imballaggio;
+ 
+ b-ter) eccipiente: qualsiasi componente di un medicinale diverso dalla sostanza attiva e dal materiale di imballaggio; 
+ 
 
- ))
-
+ 
  
 
  
@@ -340,20 +338,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- r-bis) brokeraggio di medicinali: qualsiasi attività in relazione alla vendita o all'acquisto di medicinali, ad eccezione della distribuzione all'ingrosso, che non include la detenzione e che consiste nella negoziazione da posizione indipendente e per conto di un'altra persona fisica o giuridica;
-
- ))
-
+ r-bis) brokeraggio di medicinali: qualsiasi attività in relazione alla vendita o all'acquisto di medicinali, ad eccezione della distribuzione all'ingrosso, che non include la detenzione e che consiste nella negoziazione da posizione indipendente e per conto di un'altra persona fisica o giuridica; 
  
 
  
- s) obbligo di servizio pubblico: l'obbligo per i grossisti di garantire in permanenza un assortimento di medicinali sufficiente a rispondere alle esigenze di un territorio geograficamente determinato 
- ((, nei limiti di cui i predetti medicinali siano forniti dai titolari di AIC,))
+ 
 
- e di provvedere alla consegna delle forniture richieste in tempi brevissimi su tutto il territorio in questione 
- ((; a tal fine, non possono essere sottratti, alla distribuzione e alla vendita per il territorio nazionale, i medicinali per i quali sono stati adottati specifici provvedimenti al fine di prevenire o limitare stati di carenza o indisponibilità, anche temporanee, sul mercato o in assenza di valide alternative terapeutiche))
+ 
+ s) obbligo di servizio pubblico: l'obbligo per i grossisti di garantire in permanenza un assortimento di medicinali sufficiente a rispondere alle esigenze di un territorio geograficamente determinato , nei limiti di cui i predetti medicinali siano forniti dai titolari di AIC, e di provvedere alla consegna delle forniture richieste in tempi brevissimi su tutto il territorio in questione ; a tal fine, non possono essere sottratti, alla distribuzione e alla vendita per il territorio nazionale, i medicinali per i quali sono stati adottati specifici provvedimenti al fine di prevenire o limitare stati di carenza o indisponibilità, anche temporanee, sul mercato o in assenza di valide alternative terapeutiche 
+ ((; al medesimo fine, l'Agenzia italiana del farmaco, dandone previa notizia al Ministero della salute, pubblica un provvedimento di blocco temporaneo delle esportazioni di farmaci nel caso in cui si renda necessario per prevenire o limitare stati di carenza o indisponibilità))
 
  ; 
  
@@ -483,9 +476,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  nn-bis) medicinale falsificato: fatta eccezione per i prodotti con difetti di qualità non intenzionali e delle violazioni dei diritti di proprietà intellettuale, qualsiasi medicinale che comporta una falsa rappresentazione rispetto a: 
  
 
@@ -495,11 +485,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) la sua origine, compresi il produttore, il paese di produzione, il paese di origine e il titolare dell'autorizzazione all'immissione in commercio; 
  
 
- 3) la sua tracciabilità, compresi i registri e i documenti relativi ai canali di distribuzione utilizzati;
+ 3) la sua tracciabilità, compresi i registri e i documenti relativi ai canali di distribuzione utilizzati; 
  
 
- ))
-
+ 
  
 
  
