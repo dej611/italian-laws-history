@@ -1,0 +1,150 @@
+Allegato 1 
+ 
+
+ 
+ 
+
+ (Articolo 4) 
+ 
+
+ 
+ 
+
+ PROCEDURA PER L'INDIVIDUAZIONE 
+ 
+
+ DI SOSTANZE PERICOLOSE PERTINENTI 
+ 
+
+ 
+ 
+
+ Al fine di individuare le sostanze pericolose pertinenti è effettuata la presente procedura, che si articola nelle seguenti fasi: 
+ 
+
+ Fase 1: nella quale si valuta la presenza di sostanze pericolose usate, prodotte o rilasciate dall'installazione, determinandone la classe di pericolosità; 
+ 
+
+ Fase 2: nella quale si valuta l'eventuale superamento di specifiche soglie di rilevanza in relazione alla quantità di sostanze pericolose individuate nella Fase 1; 
+ 
+
+ Fase 3: nella quale, se le specifiche soglie di rilevanza risultano superate all'esito della Fase 2, si valuta la possibilità di contaminazione del suolo o delle acque sotterranee in base alle proprietà chimico-fisiche delle sostanze, alle caratteristiche idrogeologiche del sito ed (eventualmente) alla sicurezza dell'impianto. 
+ 
+
+ All'esito della Fase 3, se risulta la possibilità di contaminazione del suolo o delle acque sotterranee, si intende con ciò verificata la presenza di sostanze pericolose pertinenti e la sussistenza dell'obbligo di procedere alla redazione della relazione di riferimento, ai sensi dell'articolo 3, comma 1, lettera c), in relazione a tali sostanze. 
+ 
+
+ Di seguito la compiuta descrizione di ogni fase. 
+ 
+
+ 
+ 
+
+ Fase 1 
+ 
+
+ 
+ 
+
+ Nella presente fase occorre verificare: 
+ 
+
+ 1) se l'installazione usa, produce o rilascia sostanze pericolose individuate in base alla classificazione del regolamento (CE) n. 1272/2008; 
+ 
+
+ 2) se le sostanze, usate, prodotte o rilasciate determinano la formazione di prodotti intermedi di degradazione pericolosi in base alla citata classificazione. 
+ 
+
+ In caso di esito positivo della predetta verifica, si procede ad effettuare la seconda fase della procedura. 
+ 
+
+ 
+ 
+
+ Fase 2 
+ 
+
+ 
+ 
+
+ Per ciascuna sostanza pericolosa si determina la massima quantità utilizzata, prodotta o rilasciata (ovvero generata quale prodotto intermedio di degradazione) dall'installazione alla massima capacità produttiva. Nel caso di più sostanze pericolose, si sommano le massime quantità delle sostanze appartenenti alla stessa classe di pericolosità, come individuate in tabella 1, presenti contemporaneamente con riferimento allo scenario di esercizio più gravoso. 
+ 
+
+ Il valore così ottenuto per ciascuna classe di pericolosità è raffrontato al relativo valore di soglia riportato nella tabella 1. 
+ 
+
+ 
+ 
+
+ Tabella 1 
+ 
+
+ 
+ 
+ 
+ Classe Indicazione di pericolo (regolamento (CE) n. 1272/2008) Soglia kg/anno o dm&sup3;/anno 
+ 
+
+ 
+ Sostanze cancerogene o mutagene (accertate o sospette) H350, H350(i), H351, H340, H341 ≥10 
+ 
+
+ 
+ Sostanze letali, sostanze pericolose per la fertilità o per il feto, sostanze tossiche per l'ambiente H300, H304, H310, H330, H360(d), H360(f), H361(d), H361(f), H361(fd), H400, H410, H411 R54, R55, R56, R57 ≥100 
+ 
+
+ 
+ Sostanze tossiche per l'uomo H301, H311, H331, H370, H371, H372 ≥1000 
+ 
+
+ 
+ Sostanze pericolose per l'uomo o per l'ambiente H302, H312, H332, H412, H413, R58 ≥10000 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ Il superamento anche di uno solo dei predetti valore-soglia comporta l'obbligo di eseguire la terza fase della procedura per le sostanze pericolose che hanno concorso al raggiungimento della rispettiva soglia. 
+ 
+
+ 
+ 
+
+ Fase 3 
+ 
+
+ 
+ 
+
+ Per ciascuna sostanza che ha determinato o concorso a determinare il superamento delle soglie di cui alla tabella 1, si effettua una valutazione circa la possibilità di contaminazione. 
+ 
+
+ Nell'effettuare tale valutazione, si deve tenere conto dei seguenti elementi: 
+ 
+
+ 1) le proprietà chimico-fisiche delle sostanze pericolose (a titolo meramente esemplificativo, la persistenza, la solubilità, la degradabilità, la pressione di vapore); 
+ 
+
+ 2) le caratteristiche geo-idrogeologiche del sito dell'installazione, con particolare riferimento alla granulometria dello strato insaturo, alla presenza di strati impermeabili, alla soggiacenza della falda; 
+ 
+
+ 3) l'eventuale avvenuta adozione di misure di gestione delle sostanze pericolose (misure di contenimento, prevenzione degli incidenti, modalità e luogo di stoccaggio, utilizzo e trasporto all'interno del sito, misure di protezione delle tubazioni, ecc.) a protezione del suolo e delle acque sotterranee. 
+ 
+
+ Se al termine della predetta Fase 3 emerge che vi è l'effettiva possibilità di contaminazione del suolo o delle acque sotterranee connessa a uso, produzione o rilascio (o generazione quale prodotto intermedio di degradazione) di una o più sostanze pericolose da parte dell'installazione, tali sostanze pericolose sono considerate &laquo;pertinenti&raquo; e pertanto si intende con ciò verificata la sussistenza dell'obbligo di elaborare, con riferimento ad esse, la relazione di riferimento. 
+ 
+
+ Disposizioni particolari per gli impianti di cui all'articolo 3, comma 1, lettere a) e b) 
+ 
+
+ Per gli impianti di cui all'articolo 3, comma 1, lettere a) e b), non può in alcun caso essere esclusa la pertinenza delle seguenti sostanze pericolose: 
+ 
+
+ 1) le sostanze, tra quelle attualmente presenti nell'installazione, che, nell'ambito di eventuali procedimenti di bonifica, sono risultate presenti in quantità superiore alle concentrazioni soglia di contaminazione (CSC) ai sensi della Parte IV del decreto legislativo 3 aprile 2006, n. 152; 
+ 
+
+ 2) le sostanze (escluse quelle allo stato gassoso in condizioni di temperatura e pressione ambiente) singolarmente presenti in quantitativi superiori alle soglie per classe di pericolosità di cui alla tabella 1.
