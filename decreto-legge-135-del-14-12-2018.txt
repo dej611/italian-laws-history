@@ -44,7 +44,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- Sostegno alle piccole e medie imprese creditrici delle pubbliche amministrazioni
+ 
+ ((Sostegno alle piccole e medie imprese creditrici delle pubbliche amministrazioni e a quelle operanti nel settore edile))
+
+ 
 
  
  
@@ -56,7 +59,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. La garanzia della sezione speciale di cui al comma 1 è rilasciata su finanziamenti già concessi alla PMI beneficiaria da una banca o da un intermediario finanziario iscritto all'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, non già coperti da garanzia pubblica ed anche assistiti da ipoteca sugli immobili aziendali, classificati dalla stessa banca o intermediario finanziario come &laquo;inadempienze probabili&raquo; alla data di entrata in vigore del presente decreto, come risultante dalla Centrale dei rischi della Banca d'Italia. 
+ 2. La garanzia della sezione speciale di cui al comma 1 è rilasciata su finanziamenti già concessi alla PMI beneficiaria da una banca o da un intermediario finanziario iscritto all'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, non già coperti da garanzia pubblica anche se assistiti da ipoteca sugli immobili aziendali, classificati dalla stessa banca o intermediario finanziario come &laquo;inadempienze probabili&raquo; alla data di entrata in vigore del presente decreto, come risultante dalla Centrale dei rischi della Banca d'Italia. 
  
 
  
@@ -107,7 +110,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. La garanzia della sezione speciale è concessa a fronte del versamento alla medesima sezione, da parte della banca o intermediario, di un premio in linea con i valori di mercato. Il predetto premio di garanzia può essere posto a carico della PMI beneficiaria in misura non superiore a un quarto del suo importo, restando a carico della banca o intermediario la parte rimanente. 
+ 6. La garanzia della sezione speciale è concessa a fronte del versamento alla medesima sezione, da parte della banca o intermediario, di un premio in linea con i valori di mercato. Il predetto premio di garanzia può essere posto a carico della PMI beneficiaria in misura massima determinata dal decreto adottato ai sensi del comma 7, restando a carico della banca o intermediario la parte rimanente. 
  
 
  
@@ -115,7 +118,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti, anche in deroga alle vigenti condizioni di ammissibilità e disposizioni di carattere generale del Fondo di garanzia per le piccole e medie imprese, le modalità, la misura, le condizioni e i limiti per la concessione, escussione e liquidazione della garanzia della sezione speciale, nonchè i casi di revoca della stessa. Lo stesso decreto fissa le percentuali di accantonamento a valere sulle risorse della sezione speciale e i parametri per definire il premio in linea con i valori di mercato della garanzia. 
+ 
+ ((
+ 
+
+ 
+ 6-bis. Per le PMI operanti nel settore edile di cui ai codici ATECO F41 e F42, l'accesso alla garanzia della sezione speciale di cui al comma 1 è consentito, altresì, qualora le medesime imprese siano titolari di finanziamenti erogati da banche e altri intermediari finanziari di cui al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, assistiti da garanzia ipotecaria di primo grado su beni immobili civili, commerciali e industriali, le cui posizioni creditizie, non coperte da altra garanzia pubblica, siano state classificate come 'inadempienze probabilì (UTP) entro la data dell' 11 febbraio 2019, secondo le risultanze della centrale dei rischi della Banca d'Italia. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6-ter. Per i titolari dei finanziamenti di cui al comma 6-bis, la garanzia della sezione speciale di cui al comma 1 è concessa nella misura indicata dal decreto di cui al comma 7, comunque non superiore all'80 per cento dell'esposizione alla data dell' 11 febbraio 2019 e fino a un importo massimo di euro 2.500.000. Ai fini della concessione della garanzia della sezione speciale, che ha carattere sussidiario, il piano di cui al comma 4 deve essere valutato e approvato dal consiglio di gestione del Fondo, di cui all'articolo 1, comma 48, lettera a), della legge 27 dicembre 2013, n. 147. Con il decreto di cui al comma 7 del presente articolo sono stabilite le modalità di attestazione dei crediti nonchè fornite le indicazioni sulle modalità di valutazione degli ulteriori requisiti previsti dal comma 6-bis e dal presente comma))
+ 
+
+ 
+
+ 
+ 7. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti, anche in deroga alle vigenti condizioni di ammissibilità e disposizioni di carattere generale del Fondo di garanzia per le piccole e medie imprese, le modalità, la misura, le condizioni e i limiti per la concessione, escussione e liquidazione della garanzia della sezione speciale, nonchè i casi di revoca della stessa 
+ ((, anche con riferimento alle imprese di cui al comma 6-bis))
+
+ . Lo stesso decreto fissa le percentuali di accantonamento a valere sulle risorse della sezione speciale e i parametri per definire il premio in linea con i valori di mercato della garanzia. 
  
 
  
@@ -132,7 +157,8 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- ((8-bis. All'articolo 1 della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+ 8-bis. All'articolo 1 della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
  
 
  
@@ -144,7 +170,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
 
  
  b) il comma 52 è sostituito dai seguenti: 
@@ -153,11 +178,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  "52. La disposizione di cui al comma 51 si applica a decorrere dal periodo d'imposta di prima applicazione del regime agevolativo di cui al comma 52-bis. 
  
 
- 52-bis. Con successivi provvedimenti legislativi sono individuate misure di favore, compatibili con il diritto dell'Unione europea, nei confronti dei soggetti che svolgono con modalità non commerciali attività che realizzano finalità sociali nel rispetto dei principi di solidarietà e sussidiarietà. è assicurato il necessario coordinamento con le disposizioni del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117"))
+ 52-bis. Con successivi provvedimenti legislativi sono individuate misure di favore, compatibili con il diritto dell'Unione europea, nei confronti dei soggetti che svolgono con modalità non commerciali attività che realizzano finalità sociali nel rispetto dei principi di solidarietà e sussidiarietà. è assicurato il necessario coordinamento con le disposizioni del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117". 
+ 
+
+ 
  
 
  
 
  
+
  
- ((8-ter. Ai maggiori oneri di cui al comma 8-bis, pari a 118,4 milioni di euro per l'anno 2019 e a 157,9 milioni di euro a decorrere dall'anno 2020, si provvede: quanto a 98,4 milioni di euro per l'anno 2019, a 131 milioni di euro per l'anno 2020 e a 77,9 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307; quanto a 20 milioni di euro per l'anno 2019 e a 16,9 milioni di euro per l'anno 2020, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 748, della legge 30 dicembre 2018, n. 145; quanto a 10 milioni di euro per l'anno 2020 e a 80 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190))
+ 8-ter. Ai maggiori oneri di cui al comma 8-bis, pari a 118,4 milioni di euro per l'anno 2019 e a 157,9 milioni di euro a decorrere dall'anno 2020, si provvede: quanto a 98,4 milioni di euro per l'anno 2019, a 131 milioni di euro per l'anno 2020 e a 77,9 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307; quanto a 20 milioni di euro per l'anno 2019 e a 16,9 milioni di euro per l'anno 2020, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 748, della legge 30 dicembre 2018, n. 145; quanto a 10 milioni di euro per l'anno 2020 e a 80 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
