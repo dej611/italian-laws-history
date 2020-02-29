@@ -37,9 +37,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Sulla
+ 
+ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro dello sviluppo economico, del Vicepresidente del Consiglio dei Ministri, del Ministro della pubblica istruzione e del Ministro per le politiche europee, di concerto con i Ministri per gli affari regionali e le autonomie locali, dei trasporti, per le riforme e le innovazioni nella pubblica amministrazione, delle comunicazioni, delle infrastrutture, dell'economia e delle finanze e delle politiche agricole alimentari e forestali;
 
- proposta del Presidente del Consiglio dei Ministri, del Ministro dello sviluppo economico, del Vicepresidente del Consiglio dei Ministri, del Ministro della pubblica istruzione e del Ministro per le politiche europee, di concerto con i Ministri per gli affari regionali e le autonomie locali, dei trasporti, per le riforme e le innovazioni nella pubblica amministrazione, delle comunicazioni, delle infrastrutture, dell'economia e delle finanze e delle politiche agricole alimentari e forestali; Emana il seguente decreto-legge:
+ 
+
+ Emana
+
+ il seguente decreto-legge:
 
  Art. 1
 
@@ -55,12 +60,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
+ 1-bis. I contratti di fornitura nei servizi di comunicazione elettronica disciplinati dal codice di cui al decreto legislativo 1&ordm; agosto 2003, n. 259, prevedono la cadenza di rinnovo delle offerte e della fatturazione dei servizi, ad esclusione di quelli promozionali a carattere temporaneo di durata inferiore a un mese e non rinnovabile, su base mensile o di multipli del mese. 
  
 
  
- 1-bis. I contratti di fornitura nei servizi di comunicazione elettronica disciplinati dal codice di cui al decreto legislativo 1&ordm; agosto 2003, n. 259, prevedono la cadenza di rinnovo delle offerte e della fatturazione dei servizi, ad esclusione di quelli promozionali a carattere temporaneo di durata inferiore a un mese e non rinnovabile, su base mensile o di multipli del mese. 
+ 
+ ((1-bis.1. Nei contratti di cui al comma 1-bis, il diritto al corrispettivo si prescrive in due anni. In caso di emissione di fatture a debito nei riguardi del consumatore per conguagli riferiti a periodi maggiori di due anni, qualora l'Autorità garante della concorrenza e del mercato abbia aperto un procedimento per l'accertamento di violazioni del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, relative alle modalità di esecuzione dei conguagli e di fatturazione adottate dall'operatore interessato, l'utente che ha presentato un reclamo riguardante il conguaglio, nelle forme previste dall'Autorità per le garanzie nelle comunicazioni, ha diritto alla sospensione del pagamento finchè non sia stata verificata la legittimità della condotta dell'operatore.
+ 
+
+ L'operatore deve comunicare all'utente l'avvio del procedimento di cui al secondo periodo e informarlo dei conseguenti diritti. è in ogni caso diritto dell'utente, all'esito della verifica di cui al secondo periodo, ottenere, entro un termine in ogni caso non superiore a tre mesi, il rimborso dei pagamenti effettuati a titolo di indebito conguaglio))
+ 
+
+ . 
  
 
  
@@ -84,9 +95,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 1-quinquies. In caso di violazione del comma 1-bis l'Autorità per le garanzie nelle comunicazioni ordina all'operatore la cessazione della condotta e il rimborso delle eventuali somme indebitamente percepite o comunque ingiustificatamente addebitate agli utenti, indicando il termine entro cui adempiere, in ogni caso non inferiore a trenta giorni))
+ 1-quinquies. In caso di violazione 
+ ((dei commi 1-bis e 1-bis.1))
+
+ l'Autorità per le garanzie nelle comunicazioni ordina all'operatore la cessazione della condotta e il rimborso delle eventuali somme indebitamente percepite o comunque ingiustificatamente addebitate agli utenti, indicando il termine entro cui adempiere, in ogni caso non inferiore a trenta giorni. 
  
 
+ 
+ 
  
 
  
@@ -138,19 +154,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. L'Autorità per le garanzie nelle comunicazioni vigila sull'attuazione delle disposizioni di cui al presente articolo e stabilisce le modalità attuative delle disposizioni di cui al comma 2 e al comma 3-quater. 
- ((La violazione delle disposizioni di cui ai commi 1, 1-bis, 1-ter, 2, 3, 3-bis, 3-ter e 3-quater è sanzionata dall'Autorità per le garanzie nelle comunicazioni applicando l'articolo 98, comma 16, del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1&ordm; agosto 2003, n. 259, e successive modificazioni. L'inottemperanza agli ordini impartiti ai sensi del comma 1-quinquies è sanzionata applicando l'articolo 98, comma 11, del medesimo codice))
+ 4. L'Autorità per le garanzie nelle comunicazioni vigila sull'attuazione delle disposizioni di cui al presente articolo e stabilisce le modalità attuative delle disposizioni di cui al comma 2 e al comma 3-quater. La violazione delle disposizioni di cui ai commi 1, 1-bis 
+ ((, 1-bis.1))
 
- . 
- 
-
- 
- 
+ , 1-ter, 2, 3, 3-bis, 3-ter e 3-quater è sanzionata dall'Autorità per le garanzie nelle comunicazioni applicando l'articolo 98, comma 16, del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1&ordm; agosto 2003, n. 259, e successive modificazioni. L'inottemperanza agli ordini impartiti ai sensi del comma 1-quinquies è sanzionata applicando l'articolo 98, comma 11, del medesimo codice. 
  
 
  
  
- ((4-bis. Il periodo mensile o suoi multipli di cui al comma 1-bis costituisce standard minimo nelle condizioni generali di contratto e nella Carta dei servizi. Nel caso di variazione dello standard da parte dell'operatore e tenendo conto delle tempistiche di cui al comma 1-ter, si applica un indennizzo forfetario pari ad euro 50, in favore di ciascun utente interessato dalla illegittima fatturazione, maggiorato di euro 1 per ogni giorno successivo alla scadenza del termine assegnato dall'Autorità ai sensi del comma 1-quinquies.
  
 
- L'Autorità vigila sul rispetto della presente disposizione nell'ambito delle competenze di cui all'articolo 1, comma 6, lettera a), numero 14, e commi 11 e 12, della legge 31 luglio 1997, n. 249))
+ 
+ 4-bis. Il periodo mensile o suoi multipli di cui al comma 1-bis costituisce standard minimo nelle condizioni generali di contratto e nella Carta dei servizi. Nel caso di variazione dello standard da parte dell'operatore e tenendo conto delle tempistiche di cui al comma 1-ter, si applica un indennizzo forfetario pari ad euro 50, in favore di ciascun utente interessato dalla illegittima fatturazione, maggiorato di euro 1 per ogni giorno successivo alla scadenza del termine assegnato dall'Autorità ai sensi del comma 1-quinquies.
+ 
+
+ L'Autorità vigila sul rispetto della presente disposizione nell'ambito delle competenze di cui all'articolo 1, comma 6, lettera a), numero 14, e commi 11 e 12, della legge 31 luglio 1997, n. 249.
