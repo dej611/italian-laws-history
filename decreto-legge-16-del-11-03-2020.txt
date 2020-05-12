@@ -116,7 +116,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. è istituito, presso il Comitato Olimpico Nazionale Italiano (CONI), il &laquo;Consiglio Olimpico Congiunto Milano Cortina 2026&raquo; composto da quindici membri, dei quali un rappresentante del Comitato Olimpico Internazionale (CIO), uno del Comitato Paralimpico Internazionale, uno del Comitato Olimpico Nazionale Italiano, uno del Comitato Italiano Paralimpico, uno del Comitato Organizzatore di cui all'articolo 2, uno della Società di cui all'articolo 3, due della Presidenza del Consiglio dei ministri - Ufficio per lo Sport, uno del Ministero degli affari esteri e della cooperazione internazionale, uno della Regione Lombardia, uno della Regione Veneto, uno della Provincia autonoma di Trento, uno della Provincia autonoma di Bolzano, uno del Comune di Milano e uno del Comune di Cortina d'Ampezzo. Il Consiglio elegge al proprio interno un Presidente e due Vicepresidenti. 
+ 1. è istituito, presso il Comitato Olimpico Nazionale Italiano (CONI), il &laquo;Consiglio Olimpico Congiunto Milano Cortina 2026&raquo; composto da quindici membri, dei quali un rappresentante del Comitato Olimpico Internazionale (CIO), uno del Comitato Paralimpico Internazionale, uno del Comitato Olimpico Nazionale Italiano, uno del Comitato Italiano Paralimpico, uno del Comitato Organizzatore di cui all'articolo 2, uno della Società di cui all'articolo 3, 
+ ((uno del Forum di cui all'articolo 3-bis, uno della Presidenza del Consiglio dei ministri - Ufficio per lo Sport))
+
+ , uno del Ministero degli affari esteri e della cooperazione internazionale, uno della Regione Lombardia, uno della Regione Veneto, uno della Provincia autonoma di Trento, uno della Provincia autonoma di Bolzano, uno del Comune di Milano e uno del Comune di Cortina d'Ampezzo. Il Consiglio elegge al proprio interno 
+ ((un portavoce, incaricato del coordinamento dei lavori))
+
+ . 
  
 
  
@@ -124,7 +130,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Il Consiglio Olimpico Congiunto ha funzioni di indirizzo generale e di alta sorveglianza sull'attuazione del programma di realizzazione dei Giochi, assicurando il confronto tra le istituzioni coinvolte, in ordine alle principali questioni organizzative. Il Consiglio Olimpico Congiunto predispone annualmente una relazione sulle attività svolte, che è trasmessa al Parlamento per il tramite dell'Autorità di Governo competente in materia di sport. 
+ 2. Il Consiglio Olimpico Congiunto ha funzioni di indirizzo generale 
+ ((...))
+
+ sull'attuazione del programma di realizzazione dei Giochi, assicurando il confronto tra le istituzioni coinvolte, in ordine alle principali questioni organizzative. Il Consiglio Olimpico Congiunto predispone annualmente una relazione sulle attività svolte, che è trasmessa al Parlamento per il tramite dell'Autorità di Governo competente in materia di sport. 
  
 
  
@@ -140,4 +149,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Dall'istituzione e dal funzionamento del Consiglio Olimpico Congiunto non derivano nuovi o maggiori oneri a carico della finanza pubblica. Ai componenti del Consiglio Olimpico Congiunto non spettano compensi, nè gettoni comunque denominati.
+ 4. Dall'istituzione e dal funzionamento del Consiglio Olimpico Congiunto 
+ ((non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Ai componenti del Consiglio Olimpico Congiunto non spettano compensi, indennità o emolumenti comunque denominati. I rimborsi di eventuali spese sostenute dai predetti componenti rimangono invece a carico degli enti a cui essi fanno capo))
+
+ .
