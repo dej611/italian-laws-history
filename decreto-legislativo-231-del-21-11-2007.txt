@@ -186,9 +186,14 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
 
- Sulla
+ 
+ Sulla proposta del Ministro per le politiche europee e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e dell'interno;
 
- proposta del Ministro per le politiche europee e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e dell'interno; Emana il seguente decreto legislativo:
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
 
  Art. 1
 
@@ -205,7 +210,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) ABE: Autorità europea di vigilanza (Autorità bancaria europea) istituita dal regolamento (UE) n. 1093/2010 del Parlamento europeo e del Consiglio del 24 novembre 2010; 
+ a) Autorità di vigilanza europee indica: 
+ 
+
+ 1) ABE: Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 
+
+ 2) AEAP: Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 
+
+ 3) AESFEM: Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
  
 
  
@@ -268,14 +282,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione, come modificata dalla direttiva (UE) 2018/843, del Parlamento europeo e del Consiglio, del 30 maggio 2018; 
+ l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione 
+ ((, come modificata dalla direttiva (UE) 2018/843, del Parlamento europeo e del Consiglio, del 30 maggio 2018))
+
+ ; 
  
 
  
  
 
  
- m) FIU: indica le Financial intelligence unit; 
+ m) FIU: indica le Financial intelligence unit 
+ ((...))
+
+ ; 
  
 
  
@@ -372,7 +392,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) Amministrazioni e organismi interessati: le amministrazioni, ivi comprese le agenzie fiscali, titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati, nei confronti dei soggetti obbligati e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore nei confronti dei predetti soggetti. Per le esclusive finalità di cui al presente decreto rientrano nella definizione di amministrazione interessata il Ministero dell'economia e delle finanze quale autorità preposta alla sorveglianza dei revisori legali e delle società di revisione legale senza incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, il Ministero dello sviluppo economico quale autorità preposta alla sorveglianza delle società fiduciarie non iscritte nell'albo di cui all'articolo 106 TUB; 
+ a) Amministrazioni e organismi interessati: 
+ ((le amministrazioni, ivi comprese le agenzie fiscali,))
+
+ titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati 
+ ((, nei confronti dei soggetti obbligati))
+
+ e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore 
+ ((nei confronti dei predetti soggetti))
+
+ . Per le esclusive finalità di cui al presente decreto rientrano nella definizione di amministrazione interessata il Ministero dell'economia e delle finanze quale autorità preposta alla sorveglianza dei revisori legali e delle società di revisione legale senza incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, il Ministero dello sviluppo economico quale autorità preposta alla sorveglianza delle società fiduciarie non iscritte nell'albo di cui all'articolo 106 TUB; 
  
 
  
@@ -420,7 +449,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) conti correnti di corrispondenza e rapporti ad essi assimilabili: conti tenuti dalle banche per il regolamento dei servizi interbancari e gli altri rapporti comunque denominati, intrattenuti tra intermediari bancari e finanziari per il regolamento di transazioni per conto dei clienti degli enti corrispondenti, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività; 
+ g) conti correnti di corrispondenza e rapporti ad essi assimilabili: conti tenuti dalle banche per il regolamento dei servizi interbancari e gli altri rapporti comunque denominati, intrattenuti tra enti creditizi e istituti finanziari, utilizzati per il regolamento di transazioni per conto dei clienti degli enti corrispondenti; 
  
 
  
@@ -448,21 +477,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- m) conti di passaggio: rapporti di corrispondenza transfrontalieri, intrattenuti tra intermediari bancari e finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività; 
+ m) conti di passaggio: rapporti bancari di corrispondenza transfrontalieri, intrattenuti tra intermediari bancari e finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela; 
  
 
  
  
 
  
- m-bis) cripto-attività: cripto-attività quale definita all'articolo 3, paragrafo 1, punto 5), del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023, tranne quando rientra nelle categorie di cui all'articolo 2, paragrafi 2, 3 e 4, del medesimo regolamento o è altrimenti qualificata come fondi; 
- 
-
- 
- 
-
- 
- n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
+ n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, gli estremi del documento di identificazione e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
  
 
  
@@ -477,13 +499,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  p) esecutore: il soggetto delegato ad operare in nome e per conto del cliente o a cui siano comunque conferiti poteri di rappresentanza che gli consentano di operare in nome e per conto del cliente; 
- 
-
- 
- 
-
- 
- p-bis) finanziamento dei programmi di proliferazione delle armi di distruzione di massa: il finanziamento dei programmi di proliferazione delle armi di distruzione di massa, quale definito all'articolo 1, comma 1, lettera e), del decreto legislativo 22 giugno 2007, n. 109, ove non diversamente stabilito. 
  
 
  
@@ -524,7 +539,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- r) gruppo: il gruppo bancario di cui all'articolo 60 TUB e disposizioni applicative, il gruppo finanziario di cui all'articolo 109 TUB e disposizioni applicative, il gruppo di cui all'articolo 11 TUF e disposizioni applicative, il gruppo individuato ai sensi dell'articolo 1, comma 1, lettera r-bis) CAP e disposizioni applicative limitatamente alle società controllate di cui all'articolo 210-ter, commi 2 e 3, CAP, nonchè le società collegate o controllate ai sensi dell'articolo 2359 del codice civile; 
+ r) gruppo: il gruppo bancario di cui all'articolo 60 TUB e disposizioni applicative, il gruppo finanziario di cui all'articolo 109 TUB e disposizioni applicative, il gruppo di cui all'articolo 11 TUF e disposizioni applicative, il gruppo individuato 
+ ((ai sensi dell'articolo 1, comma 1, lettera r-bis) CAP e disposizioni applicative limitatamente alle società controllate di cui all'articolo 210-ter, commi 2 e 3, CAP,))
+
+ nonchè le società collegate o controllate ai sensi dell'articolo 2359 del codice civile; 
  
 
  
@@ -538,7 +556,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- t) operazione: l'attività consistente nella movimentazione, nel trasferimento o nella trasmissione di mezzi di pagamento o di cripto-attività o nel compimento di atti negoziali a contenuto patrimoniale; costituisce operazione anche la stipulazione di un atto negoziale, a contenuto patrimoniale, rientrante nell'esercizio dell'attività professionale o commerciale; 
+ t) operazione: l'attività consistente nella movimentazione, nel trasferimento o nella trasmissione di mezzi di pagamento o nel compimento di atti negoziali a contenuto patrimoniale; costituisce operazione anche la stipulazione di un atto negoziale, a contenuto patrimoniale, rientrante nell'esercizio dell'attività professionale o commerciale; 
  
 
  
@@ -573,7 +591,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- bb) Paesi terzi ad alto rischio: Paesi i cui ordinamenti presentano carenze strategiche nei rispettivi regimi nazionali di prevenzione del riciclaggio e del finanziamento del terrorismo, per come individuati dalla Commissione europea nell'esercizio dei poteri di cui agli articoli 9 e 64 della direttiva o dal Ministero dell'economia e delle finanze nell'esercizio del potere di cui all'articolo 4, comma 4-bis, del presente decreto; 
+ bb) Paesi terzi ad alto rischio: Paesi non appartenenti all'Unione europea i cui ordinamenti presentano carenze strategiche nei rispettivi regimi nazionali di prevenzione del riciclaggio e del finanziamento del terrorismo, per come individuati dalla Commissione europea nell'esercizio dei poteri di cui agli articoli 9 e 64 della direttiva; 
  
 
  
@@ -626,7 +644,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) sono soggetti con i quali le persone politicamente esposte intrattengono notoriamente stretti legami: 
  
 
- 3.1. le persone fisiche che, ai sensi del presente decreto detengono, congiuntamente alla persona politicamente esposta, la titolarità effettiva di enti giuridici, trust e istituti giuridici affini ovvero che intrattengono con la persona politicamente esposta stretti rapporti d'affari; 
+ 
+ ((3.1. le persone fisiche che, ai sensi del presente decreto detengono, congiuntamente alla persona politicamente esposta, la titolarità effettiva di enti giuridici, trust e istituti giuridici affini ovvero che intrattengono con la persona politicamente esposta stretti rapporti d'affari;))
+
+ 
  
 
  3.2 le persone fisiche che detengono solo formalmente il controllo totalitario di un'entità notoriamente costituita, di fatto, nell'interesse e a beneficio di una persona politicamente esposta; 
@@ -648,7 +669,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) fornire una sede legale, un indirizzo commerciale, amministrativo o postale e altri servizi connessi a una società, un'associazione o qualsiasi altra entità giuridica; 
  
 
- 4) svolgere la funzione di fiduciario in un trust espresso o in un istituto giuridico affine o provvedere affinchè un'altra persona occupi tale funzione; 
+ 4) svolgere la funzione di fiduciario in un trust espresso o 
+ ((in un istituto giuridico affine))
+
+ o provvedere affinchè un'altra persona occupi tale funzione; 
  
 
  5) esercitare il ruolo d'azionista per conto di un'altra persona o provvedere affinchè un'altra persona svolga tale funzione, purchè non si tratti di una società ammessa alla quotazione su un mercato regolamentato e sottoposta a obblighi di comunicazione conformemente alla normativa dell'Unione europea o a norme internazionali equivalenti; 
@@ -658,17 +682,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ff) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
+ ff) prestatori di servizi relativi all'utilizzo di valuta virtuale: ogni persona fisica o giuridica che fornisce a terzi, a titolo professionale, 
+ ((anche online,))
+
+ servizi funzionali all'utilizzo, allo scambio, alla conservazione di valuta virtuale e alla loro conversione da ovvero in valute aventi corso legale 
+ ((o in rappresentazioni digitali di valore, ivi comprese quelle convertibili in altre valute virtuali nonchè i servizi di emissione, offerta, trasferimento e compensazione e ogni altro servizio funzionale all'acquisizione, alla negoziazione o all'intermediazione nello scambio delle medesime valute))
+
+ ; 
  
 
  
  
 
  
- ff-bis) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
- 
+ ((
 
- 
+ ff-bis) prestatori di servizi di portafoglio digitale: ogni persona fisica o giuridica che fornisce, a terzi, a titolo professionale, anche online, servizi di salvaguardia di chiavi crittografiche private per conto dei propri clienti, al fine di detenere, memorizzare e trasferire valute virtuali;
+
+ ))
+
  
 
  
@@ -686,26 +718,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ii) punto di contatto centrale: il soggetto o la struttura, stabilito nel territorio della Repubblica, designato dagli istituti di moneta elettronica, quali definiti all'articolo 2, 
- ((...))
-
- punto 3), della direttiva 2009/110/CE 
- ((del Parlamento europeo e del Consiglio, del 16 settembre 2009))
-
- , o dai prestatori di servizi di pagamento, quali definiti all'articolo 4, punto 11), della direttiva 
- (( (UE) 2015/2366 del Parlamento europeo e del Consiglio, del 25 novembre 2015))
-
- , o dai prestatori di servizi per le cripto-attività di cui all'articolo 3, comma 2, lettera v-bis), 
- ((del presente decreto))
-
- con sede legale e amministrazione centrale in altro Stato membro, che operano, senza succursale, sul territorio nazionale; 
+ ii) punto di contatto centrale: il soggetto o la struttura, stabilito nel territorio della Repubblica, designato dagli istituti di moneta elettronica, quali definiti all'articolo 2, primo paragrafo, punto 3), della direttiva 2009/110/CE, o dai prestatori di servizi di pagamento, quali definiti all'articolo 4, punto 11), della direttiva 2015/2366/CE, con sede legale e amministrazione centrale in altro Stato membro, che operano, senza succursale, sul territorio nazionale tramite i soggetti convenzionati e gli agenti di cui alla lettera nn); 
  
 
  
  
 
  
- ll) rapporto continuativo: un rapporto di durata, rientrante nell'esercizio dell'attività di istituto svolta dai soggetti obbligati; 
+ ll) rapporto continuativo: un rapporto di durata, rientrante nell'esercizio dell'attività di istituto svolta dai soggetti obbligati, che non si esaurisce in un'unica operazione; 
  
 
  
@@ -713,13 +733,6 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  mm) risorse economiche: le attività di qualsiasi tipo, materiali o immateriali e i beni mobili o immobili, ivi compresi gli accessori, le pertinenze e i frutti, che non sono fondi ma che possono essere utilizzate per ottenere fondi, beni o servizi, possedute, detenute o controllate, anche parzialmente, direttamente o indirettamente, ovvero per interposta persona fisica o giuridica, da parte di soggetti designati, ovvero da parte di persone fisiche o giuridiche che agiscono per conto o sotto la direzione di questi ultimi; 
- 
-
- 
- 
-
- 
- mm-bis) servizi per le cripto-attività: i servizi quali definiti all'articolo 3, paragrafo 1, punto 16), del regolamento (UE) 2023/1114; 
  
 
  
@@ -740,19 +753,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- oo-bis) sanzioni finanziarie mirate: il congelamento dei beni e il divieto di mettere a disposizione, direttamente o indirettamente, fondi, risorse economiche o altri beni a beneficio di persone ed entità designate a norma delle decisioni del Consiglio, adottate sulla base dell'articolo 29 del Trattato sull'Unione europea (TUE), e dei regolamenti del Consiglio 
- ((,))
-
- adottati sulla base dell'articolo 215 del Trattato sul funzionamento dell'Unione Europea (TFUE) 
- ((,))
-
- e in base alla normativa nazionale; 
- 
-
- 
- 
-
- 
  pp) titolare effettivo: la persona fisica o le persone fisiche, diverse dal cliente, nell'interesse della quale o delle quali, in ultima istanza, il rapporto continuativo è istaurato, la prestazione professionale è resa o l'operazione è eseguita; 
  
 
@@ -760,21 +760,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- qq) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
- 
+ qq) valuta virtuale: la rappresentazione digitale di valore, non emessa 
+ ((nè garantita))
 
- 
- 
+ da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta avente corso legale, utilizzata come mezzo di scambio per l'acquisto di beni e servizi 
+ ((o per finalità di investimento))
 
- 
- qq-bis) indirizzo auto-ospitato: un indirizzo auto-ospitato quale definito all'articolo 3, punto 20), del regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023. 
- 
-
- 
- 
-
- 
- qq-ter) sportelli automatici per le cripto-attività: gli sportelli automatici come definiti dall'articolo 3, punto 17), del regolamento (UE) 2023/1113. 
+ e trasferita, archiviata e negoziata elettronicamente. 
  
 
  
