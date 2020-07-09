@@ -163,7 +163,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. L'ISTAT trasmette, con modalità sicure, alla piattaforma di cui al comma 2, i dati anagrafici e il codice fiscale degli individui rientranti nei campioni di cui al comma 3, nonchè degli esercenti la responsabilità genitoriale o del tutore o dell'affidatario dei minori d'età rientranti nei medesimi campioni. I competenti uffici del Ministero della salute di cui al comma 1, ai fini del presente articolo, richiedono ai fornitori dei servizi telefonici, che sono tenuti a dare riscontro con modalità sicure, le utenze di telefonia dei clienti che dovessero rientrare nei campioni ovvero esercitare la responsabilità genitoriale o essere tutori o affidatari di minori rientranti nei campioni. 
+ 
+ ((3-bis. Nell'ambito della relazione annuale trasmessa al Parlamento ai sensi dell'articolo 24 del decreto legislativo 6 settembre 1989, n. 322, sono ricomprese le attività svolte dall'ISTAT ai sensi del presente decreto))
+ 
+
+ 
+
+ 
+ 4. L'ISTAT trasmette, con modalità sicure, alla piattaforma di cui al comma 2, i dati anagrafici e il codice fiscale degli individui rientranti nei campioni di cui al comma 3, nonchè degli esercenti la responsabilità genitoriale o del tutore o dell'affidatario dei minori d'età rientranti nei medesimi campioni. I competenti uffici del Ministero della salute di cui al comma 1, ai fini del presente articolo, richiedono ai fornitori dei servizi telefonici, che sono tenuti a dare riscontro con modalità sicure, le utenze di telefonia dei clienti 
+ ((che rientrano))
+
+ nei campioni 
+ ((o che esercitano))
+
+ la responsabilità genitoriale 
+ ((o sono))
+
+ tutori o affidatari di minori rientranti nei campioni. 
  
 
  
@@ -171,7 +187,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Acquisiti i dati anagrafici e il codice fiscale degli individui rientranti nei campioni tramite la piattaforma di cui al comma 2, al fine di favorire l'adesione all'indagine, le regioni e le province autonome, avvalendosi delle anagrafi degli assistiti, comunicano con modalità sicure ai medici di medicina generale e ai pediatri di libera scelta i nominativi dei relativi assistiti rientranti nei campioni, affinchè li informino dell'indagine in corso. Avvalendosi delle informazioni di cui al comma 4, la Croce Rossa Italiana verifica telefonicamente la disponibilità dei singoli all'effettuazione delle analisi sierologiche, fissando l'appuntamento per il prelievo, rivolgendo loro uno specifico questionario predisposto dall'ISTAT, in accordo con il Comitato Tecnico Scientifico di cui al comma 1, e fornendo, in maniera sintetica, le informazioni di cui agli articoli 13 e 14 del Regolamento (UE) 2016/679, in ordine al trattamento dei dati personali per le finalità di cui al presente articolo. Le informazioni agli interessati sono pubblicate in maniera completa e consultabili sui siti istituzionali del Ministero della salute e dell'ISTAT. 
+ 5. Acquisiti i dati anagrafici e il codice fiscale degli individui rientranti nei campioni tramite la piattaforma di cui al comma 2, al fine di favorire l'adesione all'indagine, le regioni e le province autonome, avvalendosi delle anagrafi degli assistiti, comunicano con modalità sicure ai medici di medicina generale e ai pediatri di libera scelta i nominativi dei relativi assistiti rientranti nei campioni, affinchè li informino dell'indagine in corso. Avvalendosi delle informazioni di cui al comma 4, la Croce Rossa Italiana verifica telefonicamente la disponibilità dei singoli all'effettuazione delle analisi sierologiche, fissando l'appuntamento per il prelievo, rivolgendo loro uno specifico questionario predisposto dall'ISTAT, in accordo con il Comitato Tecnico Scientifico di cui al comma 1, e fornendo, in maniera sintetica, le informazioni di cui agli articoli 13 e 14 del Regolamento (UE) 2016/679, in ordine al trattamento dei dati personali per le finalità di cui al presente articolo 
+ ((, nonchè indicando le fonti di cognizione delle informazioni complete))
+
+ . Le informazioni agli interessati sono pubblicate in maniera completa e consultabili 
+ ((nei siti internet istituzionali))
+
+ del Ministero della salute e dell'ISTAT. 
  
 
  
@@ -179,18 +201,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. I campioni raccolti presso gli appositi punti di prelievo vengono analizzati e refertati dai laboratori individuati dalle regioni e dalle province autonome, che comunicano i risultati delle analisi svolte all'interessato e, per il tramite della piattaforma di cui al comma 2, ai soggetti di cui al comma 1. I campioni raccolti sono consegnati, a cura della Croce Rossa Italiana, alla banca biologica dell'Istituto Nazionale Malattie Infettive &laquo;L.
- 
+ 6. 
+ ((I campioni raccolti presso gli appositi punti di prelievo sono analizzati e refertati dai laboratori individuati dalle regioni e dalle province autonome, le quali, anche per il tramite dei predetti laboratori, comunicano all'interessato, con modalità sicure, i risultati delle analisi svolte. I medesimi laboratori, per il tramite della piattaforma di cui al comma 2, comunicano i risultati delle analisi ai soggetti di cui al comma 1))
 
- Spallanzani&raquo;, istituita con la delibera n. 320 del 20 luglio 2009, nel rispetto delle Linee Guida per l'istituzione e l'accreditamento delle biobanche, prodotte dal Comitato Nazionale per la Biosicurezza e le Biotecnologie della Presidenza del Consiglio dei ministri il 19 aprile 2006. Il trattamento dei campioni e dei relativi dati è effettuato per esclusive finalità di ricerca scientifica sul SARS-COV-2 individuate dal protocollo di cui al comma 1, nel rispetto delle prescrizioni del Garante per la protezione dei dati personali individuate nel provvedimento del 5 giugno 2019 e successive modificazioni. Il titolare del trattamento dei dati raccolti nella banca biologica è il Ministero della salute e l'accesso ai dati da parte di altri soggetti, per le predette finalità di ricerca, è consentito esclusivamente nell'ambito di progetti di ricerca congiunti con il medesimo Ministero. Gli interessati sono adeguatamente informati dei progetti di ricerca condotti sui campioni e sui dati presenti nella banca ai sensi degli articoli 13 e 14 del Regolamento (UE) 2016/679. I campioni sono conservati per le finalità di cui al presente comma presso la predetta banca biologica per un periodo non superiore a cinque anni. 
- 
+ . I campioni raccolti sono consegnati, a cura della Croce Rossa Italiana, alla banca biologica dell'Istituto Nazionale Malattie Infettive &laquo;L. Spallanzani&raquo;, istituita con la delibera n. 320 del 20 luglio 2009, nel rispetto delle Linee Guida per l'istituzione e l'accreditamento delle biobanche, prodotte dal Comitato Nazionale per la Biosicurezza e le Biotecnologie della Presidenza del Consiglio dei ministri il 19 aprile 2006. Il trattamento dei campioni e dei relativi dati è effettuato per esclusive finalità di ricerca scientifica sul SARS-COV-2 individuate dal protocollo di cui al comma 1, nel rispetto delle prescrizioni del Garante per la protezione dei dati personali individuate nel provvedimento del 5 giugno 2019 
+ ((, pubblicato nella Gazzetta Ufficiale n. 176 del 29 luglio 2019,))
 
- 
- 
- 
-
- 
- 7. I dati raccolti nell'ambito dell'indagine di cui al comma 1, privi di identificativi diretti, possono essere comunicati, per finalità scientifiche, ai soggetti di cui al comma 1 dell'articolo 5-ter del decreto legislativo 14 marzo 2013, n. 33, nonchè agli ulteriori soggetti individuati con decreto di natura non regolamentare del Ministro della salute, d'intesa con il Presidente dell'ISTAT, sentito il Garante per la protezione dei dati personali, nel rispetto dell'articolo 5-ter del medesimo decreto legislativo n. 33 del 2013 e previa stipula di appositi protocolli di ricerca da parte dei soggetti di cui al comma 1. L'Istituto Superiore di Sanità può trattare i dati raccolti nell'ambito dell'indagine di cui al comma 1 per finalità di ricerca scientifica. 
+ e successive modificazioni. Il titolare del trattamento dei dati raccolti nella banca biologica è il Ministero della salute e l'accesso ai dati da parte di altri soggetti, per le predette finalità di ricerca, è consentito esclusivamente nell'ambito di progetti di ricerca congiunti con il medesimo Ministero. Gli interessati sono adeguatamente informati dei progetti di ricerca condotti sui campioni e sui dati presenti nella banca ai sensi degli articoli 13 e 14 del Regolamento (UE) 2016/679. I campioni sono conservati per le finalità di cui al presente comma presso la predetta banca biologica per un periodo non superiore a cinque anni. 
  
 
  
@@ -198,7 +215,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. I soggetti di cui al comma 1, per lo svolgimento dell'indagine, si avvalgono, ai sensi dell'articolo 28 del Regolamento (UE) 2016/679, della Croce Rossa Italiana, delle regioni, delle province autonome e dei laboratori di cui al comma 6, nonchè dei medici di medicina generale e dei pediatri di libera scelta. Le regioni e le province autonome, ove risulti necessario per finalità di analisi e programmazione nell'ambito dell'emergenza epidemiologica in corso, hanno accesso ai dati dei propri assistiti, in forma individuale ma privi di ogni riferimento che ne permetta il collegamento diretto con gli interessati e comunque con modalità che, pur consentendo il collegamento nel tempo delle informazioni riferite ai medesimi individui, rendono questi ultimi non identificabili e ai dati relativi agli assistiti delle altre regioni e province autonome in maniera anonima e aggregata, a soli fini comparativi. La diffusione dei dati è autorizzata solo in forma anonima e aggregata. 
+ 7. I dati raccolti nell'ambito dell'indagine di cui al comma 1, privi di identificativi diretti, possono essere comunicati, per finalità scientifiche, ai soggetti di cui al comma 1 dell'articolo 5-ter del decreto legislativo 14 marzo 2013, n. 33, nonchè agli ulteriori soggetti individuati con decreto di natura non regolamentare del Ministro della salute, d'intesa con il Presidente dell'ISTAT, sentito il Garante per la protezione dei dati personali, nel rispetto dell'articolo 5-ter del medesimo decreto legislativo n. 33 del 2013 e previa stipula di appositi protocolli di ricerca da parte dei soggetti di cui al comma 1. 
+ ((L'Istituto superiore di sanità e l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro possono trattare i dati raccolti nell'ambito dell'indagine di cui al comma 1 per finalità di ricerca scientifica))
+
+ . 
  
 
  
@@ -206,7 +226,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 9. Ai fini dello svolgimento dell'indagine di cui al comma 1, possono essere acquisiti dati personali relativi ai soggetti rientranti nel campione presenti nel nuovo sistema informativo sanitario del Ministero della salute secondo le modalità di cui al decreto 7 dicembre 2016, n. 262, nonchè quelli presenti nell'anagrafe nazionale vaccini, di cui al decreto del Ministro della salute 17 settembre 2018, pubblicato nella Gazzetta Ufficiale n. 257, del 5 novembre 2018, nel rispetto delle medesime garanzie. 
+ 8. I soggetti di cui al comma 1, per lo svolgimento dell'indagine, si avvalgono, ai sensi dell'articolo 28 del Regolamento (UE) 2016/679, della Croce Rossa Italiana, delle regioni, delle province autonome e dei laboratori di cui al comma 6, nonchè dei medici di medicina generale e dei pediatri di libera scelta. Le regioni e le province autonome, ove risulti necessario per finalità di analisi e programmazione nell'ambito dell'emergenza epidemiologica in corso, hanno accesso ai dati dei propri assistiti, in forma individuale ma privi di ogni riferimento che ne permetta il collegamento diretto con gli interessati e comunque con modalità che, pur consentendo il collegamento nel tempo delle informazioni riferite ai medesimi individui, rendono questi ultimi non identificabili 
+ ((, fatto salvo quanto previsto dal comma 6,))
+
+ e ai dati relativi agli assistiti delle altre regioni e province autonome in maniera anonima e aggregata, a soli fini comparativi. La diffusione dei dati è autorizzata solo in forma anonima e aggregata. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 9. Ai fini dello svolgimento dell'indagine di cui al comma 1, possono essere acquisiti dati personali relativi ai soggetti rientranti nel campione presenti nel nuovo sistema informativo sanitario del Ministero della salute secondo le modalità 
+ ((previste dal regolamento di cui al decreto del Ministro della salute 7 dicembre 2016))
+
+ , n. 262, nonchè quelli presenti nell'anagrafe nazionale vaccini, di cui al decreto del Ministro della salute 17 settembre 2018, pubblicato nella Gazzetta Ufficiale n. 257, del 5 novembre 2018, nel rispetto delle medesime garanzie. 
  
 
  
@@ -246,7 +280,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 14. Per le finalità di cui al presente articolo, l'ISTAT, in deroga all'articolo 7 del decreto legislativo 30 marzo 2001, n. 165, e all'articolo 6 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, è autorizzato a conferire fino ad un massimo di 10 incarichi di lavoro autonomo anche di collaborazione coordinata e continuativa, della durata di sei mesi. Per l'attuazione del presente comma è autorizzata la spesa complessiva di 385.000 euro, alla cui copertura si provvede a valere sulle risorse iscritte nel bilancio dell'ISTAT. Al relativo onere, in termine di fabbisogno e indebitamento netto pari a 199.000 euro per l'anno 2020, si provvede mediante corrispondente utilizzo del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189. 
+ 14. Per le finalità di cui al presente articolo, l'ISTAT, in deroga all'articolo 7 del decreto legislativo 30 marzo 2001, n. 165, e all'articolo 6 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, è autorizzato a conferire fino ad un massimo di 10 incarichi di lavoro autonomo anche di collaborazione coordinata e continuativa, della durata di sei mesi. Per l'attuazione del presente comma è autorizzata la spesa complessiva di 385.000 euro 
+ ((per l'anno 2020))
+
+ , alla cui copertura si provvede a valere sulle risorse iscritte nel bilancio dell'ISTAT. 
+ ((Al relativo onere in termini di fabbisogno e indebitamento netto,))
+
+ pari a 199.000 euro per l'anno 2020, si provvede mediante corrispondente utilizzo del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189. 
  
 
  
@@ -254,4 +294,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 15. Per la realizzazione della piattaforma tecnologica di cui al comma 2, è autorizzata, per l'anno 2020, la spesa di 220.000 euro, alla cui copertura si provvede mediante corrispondente utilizzo del fondo di conto capitale di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione della spesa del Ministero della salute. Per l'attività svolta dalla Croce Rossa Italiana ai sensi del presente articolo, è autorizzata la spesa di euro 1.700.000; per la conservazione dei campioni raccolti presso la banca biologica di cui al comma 6, è autorizzata la spesa di euro 700.000; per l'acquisto dei dispositivi idonei alla somministrazione delle analisi sierologiche è autorizzata la spesa di euro 1.500.000. Alla copertura degli oneri di cui al precedente periodo si provvede mediante il fondo risorse assegnate al Commissario straordinario di cui all'articolo 122 del decreto-legge 17 marzo 2020, n. 18, convertito con modificazioni dalla legge 24 aprile 2020, n. 27, con delibera del Consiglio dei ministri a valere sul Fondo emergenze nazionali di cui all'articolo 44 del decreto legislativo 2 gennaio 2018, n. 1.
+ 15. Per la realizzazione della piattaforma tecnologica di cui al comma 2, è autorizzata, per l'anno 2020, la spesa di 220.000 euro, alla cui copertura si provvede mediante corrispondente utilizzo del fondo di conto capitale di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione della spesa del Ministero della salute. Per l'attività svolta dalla Croce Rossa Italiana ai sensi del presente articolo, è autorizzata la spesa di euro 1.700.000; per la conservazione dei campioni raccolti presso la banca biologica di cui al comma 6, è autorizzata la spesa di euro 700.000; per l'acquisto dei dispositivi idonei alla somministrazione delle analisi sierologiche è autorizzata la spesa di euro 1.500.000. Alla copertura degli oneri di cui al precedente periodo si provvede 
+ ((a valere sulle risorse))
+
+ assegnate al Commissario straordinario di cui all'articolo 122 del decreto-legge 17 marzo 2020, n. 18, convertito con modificazioni dalla legge 24 aprile 2020, n. 27, con delibera del Consiglio dei ministri a valere sul Fondo emergenze nazionali di cui all'articolo 44 del decreto legislativo 2 gennaio 2018, n. 1.

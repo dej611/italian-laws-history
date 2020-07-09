@@ -89,7 +89,16 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Per l'anno 2020, allo scopo di incrementare le risorse da destinare prioritariamente alla remunerazione delle prestazioni correlate alle particolari condizioni di lavoro del personale dipendente delle aziende e degli enti del Servizio sanitario nazionale direttamente impiegato nelle attività di contrasto alla emergenza epidemiologica determinata dal diffondersi del COVID-19, i fondi contrattuali per le condizioni di lavoro della dirigenza medica e sanitaria dell'area della sanità e i fondi contrattuali per le condizioni di lavoro e incarichi del personale del comparto sanità nonchè, per la restante parte, i relativi fondi incentivant sono complessivamente incrementati, per ogni regione e provincia autonoma, in deroga all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75 e ai vincoli previsti dalla legislazione vigente in materia di spesa di personale, dell'importo indicato per ciascuna di esse nella tabella A allegata al presente decreto. 
+ 1. Per l'anno 2020, allo scopo di incrementare le risorse 
+ ((da destinare prioritariamente alla remunerazione delle prestazioni correlate alle particolari condizioni di lavoro del personale dipendente delle aziende e degli enti del Servizio sanitario nazionale))
+
+ direttamente impiegato nelle attività di contrasto alla emergenza epidemiologica determinata dal diffondersi del COVID-19, i fondi contrattuali per le condizioni di lavoro della dirigenza medica e sanitaria dell'area della sanità e i fondi contrattuali per le condizioni di lavoro e incarichi del personale del comparto sanità 
+ ((nonchè, per la restante parte, i relativi fondi incentivanti))
+
+ sono complessivamente incrementati, per ogni regione e provincia autonoma, in deroga all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75 
+ ((e ai vincoli previsti dalla legislazione vigente in materia di spesa di personale))
+
+ , dell'importo indicato per ciascuna di esse nella tabella A allegata al presente decreto. 
  
 
  
@@ -97,14 +106,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per l'attuazione del comma 1 è autorizzata la spesa di 250 milioni di euro a valere sul finanziamento sanitario corrente stabilito per l'anno 2020. Al relativo finanziamento accedono tutte le regioni e le province autonome di Trento e di Bolzano, in deroga alle disposizioni legislative che stabiliscono per le autonomie speciali il concorso regionale e provinciale al finanziamento sanitario corrente, sulla base delle quote d'accesso al fabbisogno sanitario indistinto corrente rilevate per l'anno 2019 e per gli importi indicati nella tabella A allegata al presente decreto. Tali importi possono essere incrementati, fino al doppio degli stessi, dalle regioni e dalle province autonome, con proprie risorse disponibili a legislazione vigente, 
- ((a condizione che sia salvaguardato))
-
- l'equilibrio economico del sistema sanitario della regione e della provincia autonoma, per la remunerazione delle prestazioni di cui al comma 1, 
- ((compresa l'erogazione delle indennità))
-
- previste dall'articolo 86, comma 6, del 
- ((contratto collettivo nazionale di lavoro relativo al personale del comparto sanità - Triennio 2016-2018, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 233 del 6 ottobre 2018. A valere sulle risorse di cui al presente comma destinate a incrementare i fondi incentivanti, le regioni e le province autonome possono riconoscere al personale di cui al comma 1 un premio, commisurato al servizio effettivamente prestato nel corso dello stato di emergenza deliberato dal Consiglio dei ministri il 31 gennaio 2020, di importo non superiore a 2.000 euro al lordo dei contributi previdenziali e assistenziali e degli oneri fiscali a carico del dipendente e comunque per una spesa complessiva, al lordo dei contributi e degli oneri a carico dell'amministrazione, non superiore all'ammontare delle predette risorse destinate a incrementare i fondi incentivanti))
+ 2. Per l'attuazione del comma 1 è autorizzata la spesa di 250 milioni di euro a valere sul finanziamento sanitario corrente stabilito per l'anno 2020. Al relativo finanziamento accedono tutte le regioni e le province autonome di Trento e di Bolzano, in deroga alle disposizioni legislative che stabiliscono per le autonomie speciali il concorso regionale e provinciale al finanziamento sanitario corrente, sulla base delle quote d'accesso al fabbisogno sanitario indistinto corrente rilevate per l'anno 2019 e per gli importi indicati nella tabella A allegata al presente decreto. 
+ ((Tali importi possono essere incrementati, fino al doppio degli stessi, dalle regioni e dalle province autonome, con proprie risorse disponibili a legislazione vigente, fermo restando l'equilibrio economico del sistema sanitario della regione e della provincia autonoma, per la remunerazione delle prestazioni di cui al comma 1, ivi incluse le indennità previste dall'articolo 86, comma 6, del CCNL 2016-2018 del 21 maggio 2018))
 
  . 
  
