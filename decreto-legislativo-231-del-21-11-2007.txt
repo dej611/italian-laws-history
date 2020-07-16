@@ -282,20 +282,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione 
- ((, come modificata dalla direttiva (UE) 2018/843, del Parlamento europeo e del Consiglio, del 30 maggio 2018))
-
- ; 
+ l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione, come modificata dalla direttiva (UE) 2018/843, del Parlamento europeo e del Consiglio, del 30 maggio 2018; 
  
 
  
  
 
  
- m) FIU: indica le Financial intelligence unit 
- ((...))
-
- ; 
+ m) FIU: indica le Financial intelligence unit; 
  
 
  
@@ -392,16 +386,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) Amministrazioni e organismi interessati: 
- ((le amministrazioni, ivi comprese le agenzie fiscali,))
-
- titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati 
- ((, nei confronti dei soggetti obbligati))
-
- e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore 
- ((nei confronti dei predetti soggetti))
-
- . Per le esclusive finalità di cui al presente decreto rientrano nella definizione di amministrazione interessata il Ministero dell'economia e delle finanze quale autorità preposta alla sorveglianza dei revisori legali e delle società di revisione legale senza incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, il Ministero dello sviluppo economico quale autorità preposta alla sorveglianza delle società fiduciarie non iscritte nell'albo di cui all'articolo 106 TUB; 
+ a) Amministrazioni e organismi interessati: le amministrazioni, ivi comprese le agenzie fiscali, titolari di poteri di controllo ovvero competenti al rilascio di concessioni, autorizzazioni, licenze o altri titoli abilitativi comunque denominati, nei confronti dei soggetti obbligati e gli organismi preposti alla vigilanza sul possesso dei requisiti di professionalità e onorabilità, prescritti dalla pertinente normativa di settore nei confronti dei predetti soggetti. Per le esclusive finalità di cui al presente decreto rientrano nella definizione di amministrazione interessata il Ministero dell'economia e delle finanze quale autorità preposta alla sorveglianza dei revisori legali e delle società di revisione legale senza incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, il Ministero dello sviluppo economico quale autorità preposta alla sorveglianza delle società fiduciarie non iscritte nell'albo di cui all'articolo 106 TUB; 
  
 
  
@@ -484,7 +469,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, gli estremi del documento di identificazione e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
+ n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, 
+ ((...))
+
+ e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
  
 
  
@@ -539,10 +527,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- r) gruppo: il gruppo bancario di cui all'articolo 60 TUB e disposizioni applicative, il gruppo finanziario di cui all'articolo 109 TUB e disposizioni applicative, il gruppo di cui all'articolo 11 TUF e disposizioni applicative, il gruppo individuato 
- ((ai sensi dell'articolo 1, comma 1, lettera r-bis) CAP e disposizioni applicative limitatamente alle società controllate di cui all'articolo 210-ter, commi 2 e 3, CAP,))
-
- nonchè le società collegate o controllate ai sensi dell'articolo 2359 del codice civile; 
+ r) gruppo: il gruppo bancario di cui all'articolo 60 TUB e disposizioni applicative, il gruppo finanziario di cui all'articolo 109 TUB e disposizioni applicative, il gruppo di cui all'articolo 11 TUF e disposizioni applicative, il gruppo individuato ai sensi dell'articolo 1, comma 1, lettera r-bis) CAP e disposizioni applicative limitatamente alle società controllate di cui all'articolo 210-ter, commi 2 e 3, CAP, nonchè le società collegate o controllate ai sensi dell'articolo 2359 del codice civile; 
  
 
  
@@ -644,10 +629,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) sono soggetti con i quali le persone politicamente esposte intrattengono notoriamente stretti legami: 
  
 
- 
- ((3.1. le persone fisiche che, ai sensi del presente decreto detengono, congiuntamente alla persona politicamente esposta, la titolarità effettiva di enti giuridici, trust e istituti giuridici affini ovvero che intrattengono con la persona politicamente esposta stretti rapporti d'affari;))
-
- 
+ 3.1. le persone fisiche che, ai sensi del presente decreto detengono, congiuntamente alla persona politicamente esposta, la titolarità effettiva di enti giuridici, trust e istituti giuridici affini ovvero che intrattengono con la persona politicamente esposta stretti rapporti d'affari; 
  
 
  3.2 le persone fisiche che detengono solo formalmente il controllo totalitario di un'entità notoriamente costituita, di fatto, nell'interesse e a beneficio di una persona politicamente esposta; 
@@ -669,10 +651,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) fornire una sede legale, un indirizzo commerciale, amministrativo o postale e altri servizi connessi a una società, un'associazione o qualsiasi altra entità giuridica; 
  
 
- 4) svolgere la funzione di fiduciario in un trust espresso o 
- ((in un istituto giuridico affine))
-
- o provvedere affinchè un'altra persona occupi tale funzione; 
+ 4) svolgere la funzione di fiduciario in un trust espresso o in un istituto giuridico affine o provvedere affinchè un'altra persona occupi tale funzione; 
  
 
  5) esercitare il ruolo d'azionista per conto di un'altra persona o provvedere affinchè un'altra persona svolga tale funzione, purchè non si tratti di una società ammessa alla quotazione su un mercato regolamentato e sottoposta a obblighi di comunicazione conformemente alla normativa dell'Unione europea o a norme internazionali equivalenti; 
@@ -682,25 +661,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ff) prestatori di servizi relativi all'utilizzo di valuta virtuale: ogni persona fisica o giuridica che fornisce a terzi, a titolo professionale, 
- ((anche online,))
-
- servizi funzionali all'utilizzo, allo scambio, alla conservazione di valuta virtuale e alla loro conversione da ovvero in valute aventi corso legale 
- ((o in rappresentazioni digitali di valore, ivi comprese quelle convertibili in altre valute virtuali nonchè i servizi di emissione, offerta, trasferimento e compensazione e ogni altro servizio funzionale all'acquisizione, alla negoziazione o all'intermediazione nello scambio delle medesime valute))
-
- ; 
+ ff) prestatori di servizi relativi all'utilizzo di valuta virtuale: ogni persona fisica o giuridica che fornisce a terzi, a titolo professionale, anche online, servizi funzionali all'utilizzo, allo scambio, alla conservazione di valuta virtuale e alla loro conversione da ovvero in valute aventi corso legale o in rappresentazioni digitali di valore, ivi comprese quelle convertibili in altre valute virtuali nonchè i servizi di emissione, offerta, trasferimento e compensazione e ogni altro servizio funzionale all'acquisizione, alla negoziazione o all'intermediazione nello scambio delle medesime valute; 
  
 
  
  
 
  
- ((
+ ff-bis) prestatori di servizi di portafoglio digitale: ogni persona fisica o giuridica che fornisce, a terzi, a titolo professionale, anche online, servizi di salvaguardia di chiavi crittografiche private per conto dei propri clienti, al fine di detenere, memorizzare e trasferire valute virtuali; 
+ 
 
- ff-bis) prestatori di servizi di portafoglio digitale: ogni persona fisica o giuridica che fornisce, a terzi, a titolo professionale, anche online, servizi di salvaguardia di chiavi crittografiche private per conto dei propri clienti, al fine di detenere, memorizzare e trasferire valute virtuali;
-
- ))
-
+ 
  
 
  
@@ -760,13 +731,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- qq) valuta virtuale: la rappresentazione digitale di valore, non emessa 
- ((nè garantita))
-
- da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta avente corso legale, utilizzata come mezzo di scambio per l'acquisto di beni e servizi 
- ((o per finalità di investimento))
-
- e trasferita, archiviata e negoziata elettronicamente. 
+ qq) valuta virtuale: la rappresentazione digitale di valore, non emessa nè garantita da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta avente corso legale, utilizzata come mezzo di scambio per l'acquisto di beni e servizi o per finalità di investimento e trasferita, archiviata e negoziata elettronicamente. 
  
 
  
