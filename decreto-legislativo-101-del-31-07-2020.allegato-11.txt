@@ -1,0 +1,750 @@
+Allegato XI 
+ 
+
+ (articolo 44, comma 2) 
+ 
+
+ 
+ 
+
+ DETENZIONE DI MATERIE FISSILI SPECIALI, MATERIE GREZZE, MINERALI E 
+ 
+
+ COMBUSTIBILI NUCLEARI 
+ 
+
+ 
+ 
+
+ DENUNCIA DI DETENZIONE (INVENTARIO REG 302/2005/
+ (( Euratom ))
+
+ ) 
+ 
+
+ 
+ 
+
+ 1. La denuncia di detenzione è la comunicazione con la quale il detentore comunica di essere entrato in possesso di materie fissili speciali, materie grezze e minerali, e combustibili nucleari, e trasmette le informazioni relative, con particolare riferimento ai 
+ 
+
+ quantitativi, alla categoria, alla forma e alla composizione di 
+ 
+
+ queste materie. 
+ 
+
+ 2. Ai fini dell'applicazione dell'articolo 44, comma 1 e 2, "detentore" è qualsiasi persona fisica o giuridica che ha la proprietà o il possesso di materie fissili speciali, materie grezze e minerali, e combustibili nucleari in qualsiasi quantità e sotto qualsiasi forma, anche se incorporati in strumenti o sorgenti, ed è responsabile per tali materiali e combustibili. 
+ 
+
+ 3. La categoria dei detentori comprende quindi gli "esercenti", cioè qualsiasi persona fisica e giuridica che ha la responsabilità giuridica in relazione all'espletamento di una pratica avente ad oggetto detti materiali o combustibili, o, comunque, chi ha la proprietà e il possesso dei medesimi materiali e combustibili pur non svolgendo attività correlate. Oltre agli esercenti sono, quindi, compresi i commercianti, gli importatori, e chiunque altro a qualsiasi titolo ha la proprietà o il possesso di materie fissili speciali, materie grezze e minerali, e combustibile nucleari, ad eccezione della deroga stabilita per i vettori che sono espressamente 
+ 
+
+ esclusi dal campo di applicazione dell'articolo 44. 
+ 
+
+ 4. Il detentore effettua la denuncia delle materie fissili speciali, di materie grezze e minerali, e di combustibili nucleari, al Ministero dello sviluppo economico e, previa registrazione, al sito istituzionale dell'ISIN. La registrazione e la trasmissione delle informazioni all'ISIN sono effettuate in modalità elettronica secondo le procedure dallo stesso definite. 
+ 
+
+ 5. La denuncia deve essere inviata per ciascun impianto, deposito o luogo di detenzione entro cinque giorni dalla data del possesso o 
+ 
+
+ della disponibilità dei materiali suddetti, e aggiornata al 31 
+ 
+
+ dicembre di ogni anno. 
+ 
+
+ 6. Restano salve, per quanto riguarda la detenzione di materie grezze e minerali fuori degli impianti e depositi definiti all'art. 7 nn. 16, 23, 65, 66, 67, 68 e 115, le esenzioni dalla denunzia di detenzione di cui ai decreti del Ministero dell'Industria 15.12.1970 e 07.03.1973, applicativi della legge 19.12.1969, n. 1008; detti 
+ 
+
+ detentori esentati sono comunque tenuti alla trasmissione delle 
+ 
+
+ informazioni. 
+ 
+
+ 7. Ai fini dell'obbligo della denunzia, le quantità di materie presenti nello stesso luogo di detenzione e sotto la ragione sociale di un unico detentore si cumulano ancorchè le materie siano ubicate in differenti locali. 
+ 
+
+ 8. I detentori devono fornire anche indicazioni su ciascuna partita 
+ 
+
+ omogenea cui le materie si riferiscono e sulla composizione chimica 9. I contenuti e le modalità di denuncia e trasmissione delle informazioni al Ministero dello sviluppo economico e all'ISIN sono 
+ 
+
+ riportate nella tabella I e, con riferimento alla composizione 
+ 
+
+ chimica, nella tabella II 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA I 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ |Identificatore |Contenuto |Commenti | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Codice bilancio | |
+ 
+
+ 
+ |ABM |Carattere (4) |materie dichiarante | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Digitare il | |
+ 
+
+ 
+ |Codice denunzia |Carattere( I ) |carattere "D" | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ |Data della denunzia |Data (GGMMAAAA) |Data della denunzia | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Numero sequenziale. | |
+ 
+
+ 
+ | | |non lasciare spazi | |
+ 
+
+ 
+ |Numero denunzia |Numero (8) |vuoti | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Numero totale delle | |
+ 
+
+ 
+ |Righe totali |Numero (8) |righe notificate | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Nome o Ragione | |
+ 
+
+ 
+ | | |sociale del | |
+ 
+
+ 
+ |Detentore |Carattere (30) |detentore | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Luogo di detenzione | |
+ 
+
+ 
+ |Luogo di detenzione |Carattere (255) |delle materie | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Nome o Ragione | |
+ 
+
+ 
+ | | |sociale e indirizzo | |
+ 
+
+ 
+ |Fornitore |Carattere (255) |del fornitore | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Nome o Ragione | |
+ 
+
+ 
+ | | |sociale e indirizzo | |
+ 
+
+ 
+ |Vettore |Carattere (255) |del vettore | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Numero sequenziale, | |
+ 
+
+ 
+ | | |non lasciare spazi | |
+ 
+
+ 
+ |Riga |Numero(8) |vuoti | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | | |Numero della partita| |
+ 
+
+ 
+ | |PO |Numero (3) |omogenea | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | | |Composizione chimica| |
+ 
+
+ 
+ | |cc |Caratteœ (2) |delle materie | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | | |Per esigenze di | |
+ 
+
+ 
+ | | | |gestione del | |
+ 
+
+ 
+ | |ID |Carattere ( 1 5) |detentore | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Codice forma delle | |
+ 
+
+ 
+ |Forma materie |Carattere (2) |materie | 12 |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Codice contenitore | |
+ 
+
+ 
+ |Contenitore materie |Carattere (l) |delle materie | 13 |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Codice stato delle | |
+ 
+
+ 
+ |Stato materie |Carattere ( l) |materie | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Quantità di | |
+ 
+
+ 
+ |Articoli |Quantità (6) |articoli | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ |Categoria dell'Elemento|Carattere ( l) | | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ |Peso Elemento |Numero (24,3) | | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |&laquo;G&raquo; per l'U-235, &laquo;K&raquo;| |
+ 
+
+ 
+ | | |per l'U-233. &laquo;J&raquo; per| |
+ 
+
+ 
+ | | |una miscela di U-235| |
+ 
+
+ 
+ |Isotopo |Carattere (l) |e U-233 | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Peso degli isotopi | |
+ 
+
+ 
+ |Peso fissile |Numero (24„3) |fissili | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Data di entrata in | |
+ 
+
+ 
+ |Data detenzione |Data (GGMMAAAA) |possesso | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ | | |Commenti dell' | |
+ 
+
+ 
+ |Comment0 |Carattere (255) |esercente | |
+ 
+
+ 
+ +-----------------------+-----------------+--------------------+----+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Note esplicative 
+ 
+
+ 
+ 
+
+ 1-ABM: Codice ABM del detentore - Corrisponde alla sezione I dell'Allegato III del Regolamento (Euratom) n. 302/2005 del 08.022005 
+ 
+
+ della Commissione Europea. 
+ 
+
+ 
+ 
+
+ 2. Codice denunzia: Indicare il carattere 
+ 
+
+ 
+ 
+
+ 3. Data della denunzia: Data di trasmissione della denunzia 
+ 
+
+ 
+ 
+
+ 4. Numero della denunzia: Numero sequenziale, relativo alle 
+ 
+
+ denuncie inviate nel corse dell'anno. 
+ 
+
+ 
+ 
+
+ 5. Righe totali: Numero totale delle righe trasmesse 
+ 
+
+ 
+ 
+
+ 6. Detentore: Nome e Cognome del detentore responsabile 
+ 
+
+ 
+ 
+
+ 7. Luogo di detenzione: Indirizzo completo del detentore 
+ 
+
+ responsabile 
+ 
+
+ 
+ 
+
+ 8. Fornitore: Nome o Ragione sociale e indirizzo del fornitore 
+ 
+
+ 
+ 
+
+ 9. Vettore: Nome o Ragione sociale e indirizzo del Vettore 
+ 
+
+ 
+ 
+
+ IO. Riga Numero sequenziale che, in ogni denunzia. incomincia da 
+ 
+
+ non lasciare spazi vuoti. 
+ 
+
+ 
+ 
+
+ 11. Partita: Indicare: 
+ 
+
+ 
+ 
+
+ a) PO: Numero della partita omogenea mediante la quale saranno 
+ 
+
+ contabilizzate le materie ricevute 
+ 
+
+ 
+ 
+
+ b) CC: Composizione chimica delle materie utilizzando uno dei 
+ 
+
+ codici della tabella riportata di seguito 
+ 
+
+ 
+ 
+
+ c) ID: Sezione usata dall'esercente per proprie esigenze di 
+ 
+
+ gestione 
+ 
+
+ 
+ 
+
+ 9. Sezioni da 12 a 14 corrispondono rispettivamente alle sezioni da 14 a 16 dell'Allegato III al RE. IO. Sezioni da 15 a 19 Corrispondono 
+ 
+
+ rispettivamente alle sezioni da 24 a 28 dell'Allegato III al RE. 
+ 
+
+ 
+ 
+
+ 20. Data detenzione: Data di entrata in possesso delle materie 
+ 
+
+ nucleari 
+ 
+
+ 
+ 
+
+ 21. Commento: Commenti del detentore responsabile 
+ 
+
+ 
+ 
+
+ Trasmissione delle informazioni in modalità elettronica secondo 
+ 
+
+ procedure definite da ISIN 
+ 
+
+ 
+ 
+
+ Nel campo riservato al nome della partita omogenea deve essere 
+ 
+
+ indicata la composizione chimica della stessa utilizzando i codici 
+ 
+
+ della seguente tabella II 
+ 
+
+ 
+ 
+
+ Tabella dei codici della composizione chimica 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ RAPPORTO VARIAZIONI INVENTARIO 
+ 
+
+ (RAPPORTO VARIAZIONE INVENTARIO REG. COM. 302/2005) 
+ 
+
+ 
+ 
+
+ 1. Ai sensi dell'articolo 12, comma 1, del Reg. COM 302/2005, il detentore trasmette in modalità elettronica a ISIN le informazioni di cui alla tabella III entro i quindici giorni successivi alla fine del mese nel quale il detentore è entrato in possesso o ha ceduto 
+ 
+
+ materie fissili speciali, materie grezze e minerali, e combustibili nucleari. 
+ 
+
+ 2. Le informazioni per la compilazione del rapporto sulle 
+ 
+
+ variazioni di inventario di cui al primo comma sono indicate nelle 
+ 
+
+ note esplicative indicate in tabella III 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ TABELLA III 
+ 
+
+ 
+ 
+ 
+ Identificatore Contenuto Commenti 
+ 
+
+ 
+ ABM Carattere (4) Codice dell'area di bilancio materie dichiarante 
+ 
+
+ 
+ Tipo di rapporto Carattere ( l) Utilizzare la lettera "l" 
+ 
+
+ 
+ Data del rapporto Data (GGMMAMA) Data alla quale il rapporto è stato compilato 
+ 
+
+ 
+ Numero rapporto Numero (8) Numero sequenziale, non lasciare spazi vuoti 
+ 
+
+ 
+ Totale delle righe Numero (8) Numero totale delle righe notificate 
+ 
+
+ 
+ Inizio rapporto Data (GGMMAAAA) Data d'inizio del periodo oggetto del rapporto 
+ 
+
+ 
+ Fine del rapporto Data (GGMMAAAA) Data di fine del periodo oggetto del rapporto 
+ 
+
+ 
+ Responsabile rapporto Carattere (30) Nome del responsabile del rapporto 
+ 
+
+ 
+ Identificatore transazione Numero (8) Numero sequenziale di transazione 
+ 
+
+ 
+ Variazione d'inventario Carattere (2) Tipo di variazioni di inventario 
+ 
+
+ 
+ Partita Carattere (20) Identificatore unico per una partita di materie nucleari 
+ 
+
+ 
+ PCM Carattere (1) Punto chiave di misurazione. 
+ 
+
+ 
+ Misurazione Carattere (l) Codice di misurazione. 
+ 
+
+ 
+ Forma materie Carattere (2) Codice di forma delle materie 
+ 
+
+ 
+ Contenitore materie Carattere ( ) Codice di contenitore delle materie 
+ 
+
+ 
+ Stato materie Carattere (l) Codice di stato delle materie 16 
+ 
+
+ 
+ MBA Provenienza Carattere (4) Codice MBA di spedizione (solo per i codici di variazione d'inventario RD e RF) 
+ 
+
+ 
+ MBA Destinazione Carattere (4) Codice MBA di ricezione (solo per i codici di variazione d'inventario SD e SF) 
+ 
+
+ 
+ Partita precedente Carattere (20) Nome della partita precedente (solo per il codice RB) 19 
+ 
+
+ 
+ Data originaria Data (GGMMAAAA) Data di registrazione della riga da correggere (sempre della prima riga della catena di correzione) 
+ 
+
+ 
+ Data dell'ElF Data (GGMMAAAA) Data dell'effettuazione dell'inventario fisico (EIF) cui si riferisce la rettifica per le MF (solo per il codice MF) 
+ 
+
+ 
+ Numero Riga Numero (8) Numero sequenziale, non lasciare spazi vuoti. 
+ 
+
+ 
+ Data Contabilizzazione Data (GGMMAAAA) Data in cui si è verificata o si è conosciuta la variazione d'inventario. 23 
+ 
+
+ 
+ Articoli Quantità (6) Quantità di articoli 24 
+ 
+
+ 
+ Categoria dell' Elemento Carattere (1) Categorie delle materie nucleari 
+ 
+
+ 
+ Peso dell' Elemento Numero (24,3) peso dell'elemento 
+ 
+
+ 
+ Isotopo Carattere (l) "G" per l'U-235, "K" per l'U-233, e "J" per la miscela di U-235 e U-233. 27 
+ 
+
+ 
+ Peso fissile Numero (24,3) peso degli isotopi fissili 
+ 
+
+ 
+ Composizione isotopica Carattere (130) U, peso dell'isotopo U, Pu (solo se convenuto nelle disposizioni particolari sul controllo) 
+ 
+
+ 
+ Impegno Carattere (2) Indicazione relativo al controllo 30

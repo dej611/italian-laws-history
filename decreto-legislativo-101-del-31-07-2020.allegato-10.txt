@@ -1,0 +1,736 @@
+Allegato X 
+ 
+
+ (articolo 43 ) 
+ 
+
+ 
+ 
+
+ MODALITà DI REGISTRAZIONE E INFORMAZIONI DA TRASMETTERE RELATIVE ALLE MATERIE E AI RIFIUTI RADIOATTIVI OGGETTO DI RACCOLTA E TRASPORTO AI SENSI DELL'ARTICOLO 43 E 56 
+ 
+
+ 
+ 
+
+ 1. Ai fini dell'assolvimento degli obblighi di cui al comma 5, dell'articolo 43 del presente decreto, i vettori e i soggetti che organizzano spedizioni di materiali radioattivi devono registrarsi al "Registro telematico delle sorgenti di radiazioni ionizzanti, dei rifiuti e dei trasporti" raggiungibile dal sito istituzionale dell'ISIN digitando all'interno del browser la seguente URL: https://www.isinucleare.it e inserire nelle apposite sezioni le informazioni relative ai materiali oggetto della del trasporto o della spedizione. 
+ 
+
+ 
+ 
+
+ 2. DEFINIZIONI 
+ 
+
+ 
+ 
+
+ Record 
+ 
+
+ è l'insieme dei dati organizzati su una riga. 
+ 
+
+ Il record comprende dati di tipo amministrativo (mittente, destinatario, ecc) ed altri dati caratteristici del collo e della materia radioattiva trasportata. Ogni record può essere relativo al trasporto di uno o più colli (si veda la voce (campo) numero colli trasportati). 
+ 
+
+ Nota Bene: 
+ 
+
+ Se la voce numero colli trasportati è maggiore di 1 si intende che il record è relativo ad un trasporto di più colli che hanno il medesimo mittente e destinatario nonchè identiche caratteristiche del collo (tipo, etichettatura, indice di trasporto, ecc) e della materia radioattiva (radionuclide, attività, ecc.); vale a dire che tutti i dati, riferiti ai singoli colli, sono uguali. 
+ 
+
+ 
+ 
+
+ Rifiuto radioattivo 
+ 
+
+ Ai fini della compilazione del record, per la trasmissione dei dati, per rifiuto si intende un collo/manufatto contenente nuclidi radioattivi o sorgente radioattiva per i quali non è previsto un ulteriore utilizzo 
+ 
+
+ 
+ 
+
+ Spedizione 
+ 
+
+ Per spedizione si intende il movimento specifico della materia radioattiva dal luogo di origine a quello di destinazione finale. 
+ 
+
+ 
+ 
+
+ Tratta 
+ 
+
+ La tratta è il cambiamento di luogo (trasporto) della materia radioattiva in una spedizione effettuata da uno o più vettori.
+ 
+
+ Quando il movimento specifico della materia radioattiva dal luogo di origine (mittente) a quello di destinazione (destinatario) è effettuato da un solo vettore la singola tratta coincide con la spedizione. Una spedizione può essere composta da una o più tratte effettuate da uno o più vettori e con mezzi diversi (veicolo stradale e/o aereo e/o nave e/o treno). 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ Voce (campo) è il singolo dato di tipo amministrativo o tecnico, previsto nel tracciato record TraRAM 2019. 
+ 
+
+ 
+ 
+
+ 3. ELENCO DELLE VOCI (CAMPI) ED ISTRUZIONI PER LA COMPILAZIONE DEL RECORD TRACCIATO TRARAM2019 
+ 
+
+ 
+ 
+
+ a. Matricola Vettore 
+ 
+
+ Riportare il proprio numero di matricola assegnato dall'ISIN; parte numerica e codice alfanumerico compreso. 
+ 
+
+ 
+ 
+
+ b. Numero Spedizione1 
+ 
+
+ Riportare l'identificativo della spedizione (il numero del documento di trasporto). 
+ 
+
+ 
+ 
+
+ ---------- 
+ 
+
+ 1 Per i vettori aerei: riportare il numero della Lettera di
+ 
+
+ Vettura LTA o l'Air Waybill number AWB. 
+ 
+
+ ---------- 
+ 
+
+ 
+ 
+
+ c. Nome o Ragione Sociale MITTENTE 
+ 
+
+ Riportare il nome o la ragione sociale del mittente (speditore) presso il quale ha origine la spedizione; per mittente si intende a seconda dei casi: 
+ 
+
+ • Il produttore della sorgente radioattiva; 
+ 
+
+ • L'utilizzatore di sorgenti radioattive che le spedisce in
+ 
+
+ quanto decadute o classificate come rifiuto; 
+ 
+
+ • Colui che ha ricevuto una sorgente radioattiva in un
+ 
+
+ imballaggio e che a seguito di manipolazione e riconfezionamento la presenta al trasporto; 
+ 
+
+ • Colui che detiene una sorgente radioattiva e che per il suo
+ 
+
+ utilizzo (gammagrafie, sondaggi, etc.) la presenta al trasporto. 
+ 
+
+ 
+ 
+
+ d. Indirizzo MITTENTE 
+ 
+
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc, e numero civico o in assenza snc). 
+ 
+
+ 
+ 
+
+ e. Località/Città MITTENTE 
+ 
+
+ Riportare il nome della località. 
+ 
+
+ 
+ 
+
+ f. Provincia MITTENTE 
+ 
+
+ Riportare la sigla della provincia (nel caso in cui la spedizione ha origine in un paese estero riportare la sigla UE per paesi dell'Unione Europea ed EE per gli altri paesi). 
+ 
+
+ 
+ 
+
+ g. Codice fiscale o partita IVA MITTENTE 
+ 
+
+ Riportare in alternativa il Codice Fiscale o la Partita IVA. 
+ 
+
+ 
+ 
+
+ g. Nome o Ragione Sociale DESTINATARIO 
+ 
+
+ Riportare il nome sociale o la ragione sociale del destinatario presso il quale ha termine la spedizione; per destinatario della spedizione si intende a seconda dei casi: 
+ 
+
+ • L'utilizzatore di sorgenti radioattive; 
+ 
+
+ • Colui che opera un deposito di materie radioattive in maniera
+ 
+
+ definitiva o temporanea (es. rifiuti) con esclusione del deposito in corso di trasporto. 
+ 
+
+ 
+ 
+
+ h. Indirizzo DESTINATARIO 
+ 
+
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc, e numero civico o in assenza snc). 
+ 
+
+ 
+ 
+
+ i. Località/Città DESTINATARIO 
+ 
+
+ Riportare il nome della località. 
+ 
+
+ 
+ 
+
+ l. Provincia DESTINATARIO 
+ 
+
+ Riportare la sigla della provincia (nel caso in cui la spedizione termina in un paese estero riportare la sigla UE per paesi dell'Unione Europea ed EE per gli altri paesi). 
+ 
+
+ 
+ 
+
+ m. Codice fiscale o partita IVA DESTINATARIO 
+ 
+
+ Riportare in alternativa il Codice Fiscale o la Partita IVA. 
+ 
+
+ 
+ 
+
+ n. Vettore Precedente 
+ 
+
+ Riportare la matricola del vettore che ha effettuato la tratta precedente (se del caso). 
+ 
+
+ Nota Bene: se il vettore precedente esiste, ma Non è Conosciuto indicare con NC. 
+ 
+
+ 
+ 
+
+ o. Vettore Seguente 
+ 
+
+ Riportare la matricola del vettore che effettuerà la tratta seguente (se del caso). 
+ 
+
+ Nota Bene: se il vettore seguente esiste, ma Non è Conosciuto indicare con NC. 
+ 
+
+ 
+ 
+
+ p. Località di Partenza Tratta 
+ 
+
+ Riportare il nome della località di partenza relativa alla tratta che il vettore dichiarante ha effettuato. Nota Bene: tale voce (campo) deve essere compilata solo nei casi in cui esiste un vettore precedente. 
+ 
+
+ 
+ 
+
+ q. Provincia di Partenza Tratta 
+ 
+
+ Riportare la sigla della provincia da cui ha origine la tratta (nel caso in cui il trasporto ha origine in un paese estero riportare la sigla UE per paesi dell'Unione Europea ed EE per gli altri paesi). 
+ 
+
+ Nota Bene: tale voce (campo) deve essere compilata solo nei casi in cui esiste un vettore precedente. 
+ 
+
+ 
+ 
+
+ r. Località di Arrivo Tratta 
+ 
+
+ Riportare il nome della località di arrivo relativo alla tratta che il vettore dichiarante ha effettuato. Nota Bene: tale voce (campo) deve essere compilata solo nei casi in cui esiste un vettore seguente. 
+ 
+
+ 
+ 
+
+ s. Provincia di Arrivo Tratta 
+ 
+
+ Riportare la sigla della provincia in cui termina la tratta (nel caso in cui il trasporto termina in un paese estero riportare la sigla UE per paesi dell'Unione Europea ed EE per gli altri paesi). 
+ 
+
+ Nota Bene: tale voce (campo) deve essere compilata solo nei casi in cui esiste un vettore seguente. 
+ 
+
+ 
+ 
+
+ t. Numero colli trasportati 
+ 
+
+ Riportare il numero di colli trasportati che presentano dati uguali sia nelle voci numeriche (attività, indice di trasporto, etc.) che nelle voci alfanumeriche (mittente, destinatario, radionuclide, etc.). 
+ 
+
+ Vedere la definizione di Record e l'esempio 1 in Allegato 1. 
+ 
+
+ 
+ 
+
+ u. Altezza collo 
+ 
+
+ Riportare l'altezza del collo in centimetri. 
+ 
+
+ 
+ 
+
+ v. Larghezza collo 
+ 
+
+ Riportare la larghezza del collo in centimetri. 
+ 
+
+ 
+ 
+
+ z. Profondità collo 
+ 
+
+ Riportare la profondità del collo in centimetri. 
+ 
+
+ Nota Bene: Per i colli di forma cilindrica l'altezza deve essere riportata nel campo 20, il diametro nel campo 21 mentre il campo 22 deve essere riempito con un "blank". 
+ 
+
+ 
+ 
+
+ aa. Tipo Collo 
+ 
+
+ Riportare la tipologia del collo in accordo alla Regolamentazione IAEA No. SSR-6 Ed. 2012 secondo la seguente codifica: 
+ 
+
+ E per un collo Esente; 
+ 
+
+ 1 per un collo Industriale IP-1; 
+ 
+
+ 2 per un collo Industriale IP-2; 
+ 
+
+ 3 per un collo Industriale IP-3; 
+ 
+
+ A per un collo Tipo A; 
+ 
+
+ B per un collo Tipo B; 
+ 
+
+ C per un collo Tipo C. 
+ 
+
+ 
+ 
+
+ bb. Volume collo 
+ 
+
+ Il campo deve essere compilato solo nel caso di trasporto di rifiuti e in tale caso deve essere riportato il volume lordo del collo in m3 
+ 
+
+ 
+ 
+
+ cc. Marchio IAEA 
+ 
+
+ Riportare il marchio eliminando le barre (/) di separazione se il collo è certificato in accordo alla Regolamentazione IAEA No. SSR - 6 Ed. 2012. 
+ 
+
+ 
+ 
+
+ dd. Identificazione rifiuto 
+ 
+
+ Nel caso in cui si tratti di rifiuto (anche sorgente dismessa) riportare il codice AAA_NNNNN Il codice è un identificativo univoco assegnato dall'impianto dove il collo/manufatto è stato prodotto in cui AAA è la sigla assegnata all'atto della registrazione del soggetto al portale ISIN e NNNNN un numero progressivo. 
+ 
+
+ 
+ 
+
+ ee. Categoria Collo 
+ 
+
+ Riportare la categoria del collo secondo la codifica: 
+ 
+
+ 1 per la categoria BIANCA-I; 
+ 
+
+ 2 per la categoria GIALLA-II; 
+ 
+
+ 3 per la categoria GIALLA-III. 
+ 
+
+ 
+ 
+
+ ff. Indice di Trasporto 
+ 
+
+ Riportare il valore dell'Indice di Trasporto (solo per le categorie GIALLA-II e GIALLA-III) 
+ 
+
+ NB: nel caso in cui il numero dei colli dichiarati nel singolo record è superiore ad 1 deve essere riportato l'indice di trasporto relativo al singolo collo e non la somma degli indici di trasporto di tutti i colli (vedere la definizione di Record). 
+ 
+
+ 
+ 
+
+ gg. Radionuclide 
+ 
+
+ Riportare la codifica del radionuclide (simbolo chimico + numero di massa + eventuale simbolo M per metastabili) come indicato nella Tabella 2 della Regolamentazione IAEA No. SSR - 6 Ed. 2012 con le seguenti eccezioni: 
+ 
+
+ THNAT per indicare Torio Naturale 
+ 
+
+ U<=20 per indicare Uranio arricchito al 20% o meno 
+ 
+
+ UNAT per indicare Uranio Naturale 
+ 
+
+ UDEPL per indicare Uranio Depleto (Impoverito) 
+ 
+
+ RBNAT per indicare Rubidio Naturale 
+ 
+
+ In allegato 1 è riportata la Tabella 2 dei radionuclidi elencati nella Regolamentazione IAEA No. SSR - 6 Ed. 2012 con la corretta simbologia da riportare nel campo. 
+ 
+
+ 
+ 
+
+ hh. ID Sorgente/ ID Rifiuto 
+ 
+
+ Se si tratta di una sorgente ad alta attività riportare il numero HASS oppure il numero di identificazione assegnato dal Produttore.
+ 
+
+ Nel caso in cui il Collo contenga più sorgenti separare ciascun numero con il simbolo #n(ID) dove n è un intero progressivo. Ove applicabile, nel caso in cui il Collo contenga rifiuti riportare l'ID di ciascun rifiuto con il simbolo #n(ID) dove n è un intero progressivo. 
+ 
+
+ 
+ 
+
+ ii. Classificazione radiologica rifiuto 
+ 
+
+ Riportare la classificazione secondo il DM 7 agosto 2015 VSLW, VLLW, LLW, ILW, HLW (non applicabile alle sorgenti dismesse) 
+ 
+
+ 
+ 
+
+ ll. Stato Fisico 
+ 
+
+ Riportare uno dei seguenti caratteri secondo la codifica: 
+ 
+
+ S per materie radioattive Solide; 
+ 
+
+ L per materie radioattive Liquide; 
+ 
+
+ G per Gas radioattivo; 
+ 
+
+ F per materie radioattive in forma speciale2 ; 
+ 
+
+ X per materie radioattive solide+liquide; 
+ 
+
+ K per gas radioattivo in forma speciale2 
+ 
+
+ 
+ 
+
+ ---------- 
+ 
+
+ 2 Definizione di cui alla Regolamentazione IAEA No. SSR - 6 Ed.
+ 
+
+ 2012 
+ 
+
+ ---------- 
+ 
+
+ 
+ 
+
+ mm. Attività 
+ 
+
+ Riportare l'attività riferita al singolo collo 
+ 
+
+ NB: nel caso in cui il numero dei colli dichiarati nel singolo record è superiore ad 1 deve essere riportata l'attività relativa al singolo collo e non la somma dell'attività di tutti i colli. Più sorgenti (si veda punto 30) contribuiscono al totale dell'attività. 
+ 
+
+ Vedere la definizione di Record. 
+ 
+
+ 
+ 
+
+ nn. Unità di misura Attività 
+ 
+
+ Riportare l'unità di misura dell'attività secondo la seguente codifica: 
+ 
+
+ BQ per Becquerel 
+ 
+
+ KB per KiloBecquerel 1x103 Bq 
+ 
+
+ MB per MegaBecquerel 1x106 Bq 
+ 
+
+ GB per GigaBecquerel 1x109 Bq 
+ 
+
+ TB per TeraBecquerel 1x1012 Bq 
+ 
+
+ PB per PetaBecquerel 1x1015 Bq 
+ 
+
+ 
+ 
+
+ oo. Codice Impiego 
+ 
+
+ Riportare uno dei seguenti codici per indicare il tipo o l'ambito di impiego della sorgente radioattiva: 
+ 
+
+ RR Rifiuto o sorgente dismessa 
+ 
+
+ IO Impiego Ospedaliero (terapia, diagnostica) 
+ 
+
+ RA Radiofarmaco 
+ 
+
+ CN Materiali del ciclo del Combustibile Nucleare 
+ 
+
+ RI Ricerca 
+ 
+
+ II Impiego Industriale 
+ 
+
+ GA Gammagrafia Industriale 
+ 
+
+ AG Agricoltura /Indagine suolo 
+ 
+
+ 
+ 
+
+ pp. Data inizio trasporto 
+ 
+
+ Riportare la data di inizio del trasporto (tratta) nel formato gg/mm/aaaa. 
+ 
+
+ 
+ 
+
+ qq. Data fine trasporto 
+ 
+
+ Riportare la data di fine del trasporto (tratta) nel formato gg/mm/aaaa. 
+ 
+
+ 
+ 
+
+ rr. Miscugli 
+ 
+
+ Riportare M per indicare miscele o miscugli di radionuclidi contenuti in uno stesso collo.3 
+ 
+
+ 
+ 
+
+ ---------- 
+ 
+
+ 3 Nel caso in cui un collo contenga più di un radionuclide
+ 
+
+ indicare il radionuclide con attività maggiore e nel campo attività riportare l'attività totale contenuta nel collo. 
+ 
+
+ 
+ 
+
+ I campi (voci) che seguono devono essere compilati solamente dai vettori aerei 
+ 
+
+ 
+ 
+
+ ss. Volo 
+ 
+
+ Riportare: 
+ 
+
+ SI se il volo è diretto 
+ 
+
+ NO se il volo è con scalo intermedio 
+ 
+
+ 
+ 
+
+ tt. Aeroporto di Scalo 
+ 
+
+ In caso di volo con scalo intermedio, riportare la sigla internazionale IATA dell'aeroporto di scalo intermedio; es. FCO per l'Aeroporto di Fiumicino 
+ 
+
+ 
+ 
+
+ uu. Scalo dichiarante 
+ 
+
+ Riportare la sigla internazionale IATA dello scalo aereo che provvede alla compilazione dei riepiloghi (vedere NOTA VETTORI AEREI). 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ ----------------------
+ 
+
+ | NOTA VETTORI AEREI |
+ 
+
+ ----------------------
+ 
+
+ 
+ 
+
+ ○ I riepiloghi dei trasporti effettuati da un vettore aereo devono
+ 
+
+ essere trasmessi in un unico file e in un'unica soluzione. Se la struttura organizzativa del vettore prevede uffici sul territorio nazionale (scali aeroportuali) che provvedono direttamente alla compilazione dei dati, i rispettivi "files" dovranno essere riuniti in un unico file e fatti pervenire all'ISIN. Per maggior chiarezza: sebbene l'ufficio (scalo aeroportuale) che prepara i dati "files", è quello di partenza della spedizione, sarà l'Ufficio Centrale del vettore a provvedere all'invio all'ISIN dei dati complessivi. In caso di spedizioni provenienti dall'estero l'ufficio (scalo aeroportuale) che prepara i dati "files" è quello di arrivo. 
+ 
+
+ ○ Pertanto risulta implicito che per l'osservanza di quanto sopra
+ 
+
+ indicato, ogni Vettore dovrà individuare la propria unica Sede/Ufficio Centrale da cui provvedere all'invio dei riepiloghi complessivi. 
+ 
+
+ Esempi: 
+ 
+
+ Spedizione da PARIGI a ROMA FIUMICINO: Lo scalo dichiarante (preparazione dei dati) è quello di ROMA FIUMICINO 
+ 
+
+ Spedizione da BARI a CAGLIARI Lo scalo dichiarante (preparazione dei dati) è quello di BARI 
+ 
+
+ Spedizione da MILANO MALPENSA a CAGLIARI con Scalo a ROMA FIUMICINO Lo scalo dichiarante (preparazione dei dati) è quello di MILANO MALPENSA 
+ 
+
+ Di conseguenza si avrà: 
+ 
+
+ UNICO invio dalla Sede Centrale (per ipotesi ROMA/FCO) dei trasporti da: 
+ 
+
+ - Roma per (Parigi / Roma) 
+ 
+
+ - Bari 
+ 
+
+ - Milano per (Milano / Roma) e per (Roma / Cagliari).

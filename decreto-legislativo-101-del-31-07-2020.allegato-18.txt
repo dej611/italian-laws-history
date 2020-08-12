@@ -1,0 +1,372 @@
+Allegato XVIII 
+ (articolo 67) 
+ 
+MODALITA' DI REGISTRAZIONE E INFORMAZIONI DA TRASMETTERE ALL'ISIN, AI
+SENSI DELL'ARTICOLO 67, RELATIVE ALLE SORGENTI SIGILLATE AD ALTA
+ ATTIVITA' 
+ 
+ 1. Ai fini dell'assolvimento degli obblighi di cui al comma 1
+dell'articolo 67 del presente decreto, l'esercente che detiene
+sorgenti sigillate ad alta attivita' o svolge pratiche o chi effettua
+attivita' di commercio e intermediazione di sorgenti sigillate ad
+alta attivita', deve registrarsi "Registro telematico delle sorgenti
+di radiazioni ionizzanti, dei rifiuti e dei trasporti" raggiungibile
+dal sito istituzionale dell'ISIN digitando all'interno del browser la
+seguente URL: https://www.isinucleare.it 
+ 2. I soggetti di cui al comma 1 devono trasmettere all'ISIN, entro
+i dieci giorni successivi alla data di inizio della detenzione o
+dell'attivita' di commercio e intermediazione e prima della data di
+cessazione della detenzione o della conclusione del contratto di
+intermediazione e commercio, le informazioni sulle sorgenti sigillate
+ad alta attivita' di seguito riportate. 
+ 
+ ELENCO DELLE VOCI (CAMPI) ED ISTRUZIONI PER LA COMPILAZIONE 
+ 
+ SEZIONE 1: IDENTIFICAZIONE DELLA SORGENTE 
+ 
+ 1.1 Numero di identificazione HASS 
+ Numero di serie che identifica univocamente la sorgente apposto dal
+fabbricante. Tale numero e' apposto, ove possibile, mediante
+incisione o stampigliatura sulla sorgente stessa. In caso di sorgenti
+importate da un Paese esterno all'Unione Europea il fornitore deve
+garantire che ciascuna sorgente sia identificata con un numero di
+serie univoco. 
+ Se tale numero di identificazione non esiste, non e' noto o,
+comunque, non offre garanzie di univocita', il Gestore del Registro
+nazionale provvedera' a formare un numero di identificazione univoco
+e ne dara' comunicazione al detentore. 
+ 1.2 Rettifica 
+ Tale campo deve essere compilato solo nel caso di rettifica o
+annullamento e in tal caso e' obbligatorio l'indicazione nel campo
+note del motivo della rettifica o annullamento. 
+ R Rettifica 
+ A Annullamento 
+ 1.3 Data della prima registrazione 
+ Indicare la data della prima registrazione della sorgente. 
+ 1.4 Data di archiviazione nel file cronologico 
+ Indicare la data di archiviazione della registrazione. Per
+archiviazione della registrazione si intende la chiusura del registro
+e la relativa comunicazione al Gestore (vedi art. 8 comma 4 punto c
+del decreto legislativo n. 52 del 6/2/2007). Rientrano in questi casi
+il trasferimento della sorgente, lo smarrimento e/o il furto senza
+ritrovamento. 
+ 
+ SEZIONE 2: DETENTORE 
+ 
+ 2.1 Detentore denunciante 
+ Indicare il qualificatore del detentore denunciante secondo la
+seguente codifica: 
+ 1 Fabbricante 
+ 2 Fornitore 
+ 3 Utilizzatore 
+ 2.1.1 N. matricola 
+ Numero di matricola, assegnato dal Gestore Nazionale
+all'atto della prima registrazione, che identifica univocamente il
+detentore. Nel caso in cui il detentore abbia piu` di una sede di
+detenzione delle sorgenti saranno assegnate le matricole in relazione
+al luogo di detenzione (vedi ubicazione della sorgente sezione n. 2 -
+punto 2.3) 
+ 2.1.2 Codice fiscale/P.IVA 
+ Riportare in alternativa il Codice Fiscale o la Partita
+IVA. 
+ 2.1.3 Nome/Ragione Sociale 
+ Riportare il nome o la ragione sociale. 
+ 2.1.4 Indirizzo 
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc, e
+numero civico). 
+ 2.1.5 C.A.P. 
+ Riportare il codice di avviamento Postale. 
+ 2.1.6 Localita' 
+ Compilare solo nel caso in cui il campo citta' con la via e
+il numero civico non siano sufficienti o non sono disponibili. 
+ 2.1.7 Citta' 
+ Riportare il nome della citta' (comune). 
+ 2.1.8 Provincia 
+ Riportare la sigla della provincia. 
+ 2.2 Provvedimento autorizzativo 
+ Indicare il tipo del provvedimento secondo la seguente
+codifica: 
+ 2.2.1 1 Prima autorizzazione 
+ 2 Modifica 
+ 3 Voltura 
+ 2.2. N. provvedimento 
+ Riportare il numero del nulla osta all'impiego e/o alla detenzione
+(ad esempio: per le autorizzazioni rilasciate dalle Prefetture
+indicare il numero di protocollo presente sul nulla osta). Nel caso
+in cui sia stato indicato al punto 2.2 una modifica o una voltura
+dell'autorizzazione riportare in questo campo il numero del nuovo
+provvedimento e la relativa data di rilascio ed al punto 2.2.6 il
+numero del provvedimento precedente. 
+ 2.2.3 Tipo provvedimento 
+ 1 per la Categoria A 
+ 2 per la Categoria B 
+ ((...)) 
+ 2.2.4 Ente autorizzante 
+ Denominazione dell'Amministrazione che rilascia il provvedimento
+autorizzativo (esempio: Prefettura oppure UTG - Ufficio Territoriale
+Governo ecc). 
+ 2.2.5 Citta' 
+ Indicare la citta' luogo del rilascio dell'autorizzazione. 
+ 2.2.6 Data rilascio 
+ Riportare la data di rilascio del nulla osta
+all'impiego e/o alla detenzione. 
+ Nel caso in cui sull'atto autorizzativo non sia
+indicata la data di rilascio riportare la data di spedizione del
+provvedimento. 
+ 2.2.7 N. del provvedimento modificato e/o volturato 
+ Riportare il numero del provvedimento stabilito dall'autorita'
+competente. 
+ 2.2.8 Data modifica/voltura 
+ Riportare la data della modifica o voltura. 
+ 2.3 Ubicazione della sorgente 
+ Indicare il qualificatore di utilizzo secondo la seguente
+codifica: 
+ 1 Uso fisso 
+ utilizzo della sorgente presso la sede del detentore 
+ 2 Stoccaggio mobile 
+ luogo in cui la sorgente viene solitamente detenuta, usata
+o conservata, per la quale e' previsto anche un impiego fuori della
+sede del detentore (mobile) 
+ Nota: In questo campo deve essere indicato il luogo dove
+abitualmente la sorgente e' detenuta, usata o immagazzinata. I campi
+da 2.3.1 a 2.3.6 devono essere compilati solo se diversi dai campi
+dal punto 2.1.3 al punto 2.1.7. 
+ Per maggiore chiarezza si fa presente che i campi da 2.3.1 a
+2.3.6 devono essere compilati, nel caso in cui: 
+ a) la sede legale e la sede operativa del detentore non siano
+corrispondenti; 
+ b) il detentore abbia piu` di una sede operativa; 
+ c) la sorgente venga utilizzata presso terzi, per un periodo di
+tempo superiore ai 15 giorni consecutivi e pertanto detenuta presso
+il luogo di utilizzazione. 
+ 2.3.1 Codice Fiscale/P.IVA 
+ Riportare in alternativa il Codice Fiscale o la Partita
+IVA1. 
+ 2.3.2 Nome/Ragione sociale 
+ Riportare il nome o la ragione sociale del detentore1. 
+ 2.3.3 Indirizzo 
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc,
+e numero civico)1. 
+ 2.3.4 C.A.P. 
+ Riportare il Codice avviamento Postale1. 
+ 2.3.5 Localita' 
+ Compilare solo nel caso in cui il campo citta' con la via
+e il numero civico non siano sufficienti o non e' disponibile il nome
+della via e/o il numero civico. 
+ 2.3.6 Citta' 
+ Riportare il nome della citta' (comune). 
+ 2.3.7 Provincia 
+ 1Riportare la sigla della provincia. 
+ 
+ ------- 
+ 1 I campi da 2.3.1 a 2.3.6 devono essere compilati solo se diversi
+dai campi dal punto 2.1.3 al punto 2.1.7. 
+ 
+ SEZIONE 3: CARATTERISTICHE DELLA SORGENTE 
+ 
+ 3.1 Radionuclide 
+ Riportare la codifica del radionuclide (simbolo chimico +
+numero di massa + eventuale simbolo M per metastabili) vedere elenco
+Allegato 1. 
+ 3.1.1 Attivita' 
+ Riportare l'attivita' della sorgente alla data di
+fabbricazione; ove tale attivita' non sia nota riportare l'attivita'
+della sorgente al momento della prima immissione sul mercato. 
+ ((3.1.2 Unita' di misura attivita' Riportare l'unita' di misura
+dell'attivita' secondo la seguente codifica: 
+ Parte di provvedimento in formato grafico))
+ 3.1.3 Data di fabbricazione 
+ Riportare la data di fabbricazione della sorgente. 
+ Nel caso in cui l'attivita' indicata sia riferita alla
+data di fabbricazione non va compilato il campo relativo alla data di
+prima immissione sul mercato della sorgente. 
+ 3.1.4 Data di prima immissione sul mercato 
+ Riportare la data di prima immissione sul mercato della
+sorgente 
+ 3.2 Nome/Ragione sociale del fabbricante/fornitore 
+ Riportare il nome del fabbricante della sorgente. Se il
+fabbricante risieda fuori della Comunita', puo' essere indicato il
+nome dell'importatore/fornitore. 
+ 3.2.1 Indirizzo 
+ Riportare l'indirizzo del fabbricante della sorgente. 
+ 3.2.2 C.A.P. 
+ Riportare il codice avviamento Postale. 
+ 3.2.3 Localita' 
+ Compilare solo nel caso in cui il campo citta' con la via
+e il numero civico non siano sufficienti o non e' disponibile il nome
+della via e/o il numero civico. 
+ 3.2.4 Citta' 
+ Riportare la citta' (comune). 
+ 3.2.5 Provincia 
+ Riportare la sigla della provincia. 
+ Nel caso in cui il Fabbricante o il Fornitore non abbiano
+la propria sede in Italia in questo campo e' possibile indicare la
+sigla della nazione. 
+ 3.3 Caratteristiche fisiche 
+ Indicare lo stato fisico della sorgente secondo la seguente
+codifica: 
+ S Solida; 
+ L Liquida; 
+ G Gas. 
+ 3.3.1 Caratteristiche chimiche 
+ Riportare le caratteristiche chimiche solitamente
+reperibili nel certificato di sorgente rilasciato dal
+fabbricante/fornitore. 
+ 3.3.2 Numero identificazione capsula 
+ Riportare il numero indicato nel certificato di sorgente
+radioattiva sigillata fornito dal fabbricante. 
+ 3.3.3 Classificazione ISO 
+ 3.3.4 Classificazione ANSI 
+ 3.3.5 N. del certificato IAEA forma speciale 
+ Riportare il numero del certificato di forma speciale
+rilasciato dall'autorita' competente indicato nel certificato di
+sorgente radioattiva sigillata fornito dal fabbricante. 
+ 3.3.6 N. catalogo IAEA 
+ 3.3.7 Modello contenitore di trasporto 
+ Riportare il modello del contenitore di trasporto
+utilizzato per la movimentazione della sorgente. 
+ 3.3.8 N. matricola contenitore 
+ Riportare il numero di matricola del contenitore di
+trasporto utilizzato per la movimentazione della sorgente 
+ La compilazione dei campi in corsivo e' facoltativa. 
+ 
+ SEZIONE 4: RICEZIONE DELLA SORGENTE 
+ 
+ In questa sezione del registro devono essere indicati i dati
+relativi alla provenienza della sorgente. 
+ 4.1 Data di ricezione 
+ Indicare la data di arrivo della sorgente al detentore
+denunciante. 
+ 4.2 Provenienza 
+ Indicare il qualificatore della provenienza della
+sorgente secondo la seguente codifica: 
+ 1 Fabbricante 
+ 2 Fornitore 
+ 3 Altro Utilizzatore 
+ 4.3 Codice Fiscale/P.IVA 
+ Riportare in alternativa il Codice Fiscale o la Partita
+IVA del fabbricante o fornitore o altro utilizzatore. 
+ 4.4 Nome/ragione sociale 
+ Riportare il nome o la ragione sociale del fabbricante o
+fornitore o altro utilizzatore. 
+ 4.5 Indirizzo 
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc,
+e numero civico) del fabbricante o fornitore o altro utilizzatore. 
+ 4.6 C.A.P. 
+ Riportare il codice avviamento Postale. 
+ 4.7 Localita' 
+ Compilare solo nel caso in cui il campo citta' con la via
+e il numero civico non siano sufficienti o non e' disponibile il nome
+della via e/o il numero civico. 
+ 4.8 Citta' 
+ Riportare il nome della citta' (comune) del fabbricante o
+fornitore o altro utilizzatore. 
+ 4.9 Provincia 
+ Riportare la sigla della provincia. 
+ Nel caso in cui il fabbricante o il fornitore non abbiano
+la propria sede in Italia in questo campo va indicata la sigla della
+nazione. 
+ 
+ SEZIONE 5: TRASFERIMENTO DELLA SORGENTE 
+ 
+ 5.1 Data del trasferimento 
+ Indicare la data della cessione della sorgente 
+ 5.2 Trasferimento 
+ Indicare il qualificatore del trasferimento della
+sorgente secondo la seguente codifica: 
+ 1 Fabbricante 
+ 2 Fornitore 
+ 3 Altro Utilizzatore 
+ 4 Impianto riconosciuto 
+ In caso di trasferimento ad "impianto riconosciuto"
+indicare in luogo delle generalita' del destinatario il nome ed il
+luogo del suddetto impianto. 
+ 5.3 Codice fiscale/P.IVA 
+ Riportare in alternativa il Codice Fiscale o la Partita
+IVA. 
+ 5.4 Nome/ragione sociale 
+ Riportare il nome del destinatario del trasferimento
+sorgente 
+ 5.5 Indirizzo 
+ Riportare l'indirizzo postale (Via o Piazza, Largo, ecc,
+e numero civico). 
+ 5.6 C.A.P. 
+ Riportare il codice avviamento Postale. 
+ 5.7 Localita' 
+ Compilare solo nel caso in cui il campo citta' con la via
+e il numero civico non siano sufficienti o non e' disponibile il nome
+della via e/o il numero civico. 
+ 5.8 Citta' 
+ Riportare il nome della citta' (comune). 
+ 5.9 Provincia 
+ Riportare la sigla della provincia. Nel caso in cui il
+fabbricante o il fornitore non abbiano la propria sede in Italia in
+questo campo va indicata la sigla della nazione. 
+ 
+ SEZIONE 6: VETTORE 
+ 
+ Vettore autorizzato al trasporto di materie radioattive con decreto
+interministeriale I campi relativi al vettore devono essere compilati
+in caso di ricezione e/o di trasferimento della sorgente. Se il
+detentore denunciante non e` a conoscenza del numero di matricola del
+vettore indicare il nome o la ragione sociale. 
+ 6.1 N. matricola vettore arrivo 
+ Numero di matricola che identifica univocamente il
+vettore che ha recapitato la sorgente. 
+ oppure 
+ 6.2 Nome o ragione sociale vettore arrivo 
+ Riportare il nome del vettore che ha che ha recapitato la
+sorgente. 
+ 6.3 N. matricola vettore trasferimento 
+ Numero di matricola che identifica univocamente il
+vettore che ha trasferito la sorgente. 
+ oppure 
+ 6.4 Nome o ragione sociale vettore trasferimento 
+ Riportare il nome del vettore che ha effettuato che ha
+trasferito la sorgente. 
+ 
+ SEZIONE 7: CONTROLLI OPERATIVI SULLA SORGENTE 
+ 
+ Per controlli operativi si intendono le prove e le manutenzioni
+periodiche effettuate sulla sorgente e sulle apparecchiature
+necessarie per l'utilizzo delle stesse. 
+ 7.1 Data (Data controllo 1 etc) 
+ Riportare la data di ogni controllo operativo. 
+ 
+ SEZIONE 8: ALTRE INFORMAZIONI 
+ 
+ 8.1 Smarrimento e/o furto 
+ 8.1.1 Qualificatore 
+ Riportare la tipologia dell'informazione secondo la
+seguente codifica: 
+ 1 smarrimento 
+ 2 furto 
+ 8.1.2 Data smarrimento o furto della sorgente 
+ Indicare la data. 
+ 8.2 Ritrovamento della sorgente 
+ Riportare la tipologia dell'informazione secondo la seguente
+codifica: 
+ 1 SI 
+ 2 NO 
+ 8.2.1 Data 
+ In caso di ritrovamento della sorgente indicare la data 
+ 8.2.2 Luogo 
+ In caso di ritrovamento della sorgente indicare il luogo 
+ 
+ SEZIONE 9: NOTE 
+ 
+ Allegato 1 LISTA CODIFICA RADIONUCLIDI 
+ 
+ Nota: 
+ La lettera B come quinto carattere indica il
+radionuclide a Vita Breve 
+ La lettera L come quinto carattere indica il
+radionuclide a Vita Lunga 
+ Per gli isotopi dell'Uranio S indica assorbimento
+polmonare Lento 
+ Per gli isotopi dell'Uranio M indica assorbimento
+polmonare Medio 
+ Per gli isotopi dell'Uranio F indica assorbimento
+polmonare Veloce 
+ 
+ Parte di provvedimento in formato grafico

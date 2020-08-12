@@ -1,0 +1,199 @@
+Allegato XII 
+ 
+
+ (articolo 48) 
+ 
+
+ 
+ 
+
+ MODALITà DI REGISTRAZIONE E TRASMISSIONE DELLE INFORMAZIONI 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 1. I detentori delle sorgenti di radiazioni ionizzanti soggette a notifica o a specifico provvedimento autorizzativo ai sensi della legge 31 dicembre 1962, n.1860 o ai sensi del presente decreto, devono registrarsi al "Registro telematico delle sorgenti di radiazioni ionizzanti, dei rifiuti e dei trasporti" raggiungibile dal sito istituzionale dell'ISIN digitando all'interno del browser la seguente URL: https://www.isinucleare.it., e inserire nelle apposite sezioni le informazioni sul tipo, le caratteristiche dei generatori di radiazioni e la quantità delle materie radioattive di seguito riportate. 
+ 
+
+ 
+ 
+
+ 2. Elenco delle voci (campi) ed istruzioni per la compilazione 
+ 
+
+ 
+ 
+
+ 2.1 SEZIONE I: Identificazione del detentore 
+ 
+
+ 2.1.1 Dati relativi al dichiarante 
+ 
+
+ 
+ 
+
+ a- Nome - Nome o, in caso di Società, la
+ 
+
+ Ragione Sociale.
+ 
+
+ b- Cf - Codice fiscale.
+ 
+
+ c- Sede legale-Indirizzo - Indirizzo della sede legale (via e
+ 
+
+ n. civico e frazione).
+ 
+
+ d- Sede legale - Città - Comune della Sede Legale
+ 
+
+ e- Sede legale - Cap - Codice Avviamento Postale Comune
+ 
+
+ della Sede Legale
+ 
+
+ f- Sede legale - Pr - Sigla della provincia della Sede
+ 
+
+ Legale.
+ 
+
+ g-Luogo di impiego-Indirizzo - Indirizzo del luogo di impiego (via e n. civico e frazione)
+ 
+
+ h-Luogo d'impiego - Città - Comune del luogo d'impiego.
+ 
+
+ i- Luogo di impiego- Cap - Luogo di impiego - Codice
+ 
+
+ avviamento Postale
+ 
+
+ l- Luogo d'impiego - Pr - Sigla della Provincia del luogo
+ 
+
+ d'impiego.
+ 
+
+ 
+ 
+
+ 2.1.2 Dati relativi al tipo di provvedimento autorizzativo. 
+ 
+
+ 
+ 
+
+ a Rif. Norme - Indicare l'articolo di legge e la legge
+ 
+
+ b Data - Data del provvedimento
+ 
+
+ c Numero - Numero del provvedimento
+ 
+
+ d Tipo di attività - Tipo di attività
+ 
+
+ 
+ 
+
+ 2.2 SEZIONE II : Identificazione delle materie radioattive 
+ 
+
+ 2.2.1 Dati relativi alle materie radioattive 
+ 
+
+ 2.2.1.1. Numero delle sorgenti (in caso di più sorgenti identiche nei valori dei campi seguenti) 
+ 
+
+ 2.2.1.2 SORGENTE- Identificazione del tipo di sorgente: 
+ 
+
+ 
+ 
+
+ a. SORGENTE - TA - Tipo Apparecchiatura 
+ 
+
+ b. SORGENTE - T - Porre R per rifiuti radioattivi. 
+ 
+
+ c. SORGENTE - F - Forma delle sorgenti 
+ 
+
+ S per Sorgente Sigillata 
+ 
+
+ N per Sorgente Non Sigillata 
+ 
+
+ SORGENTE - S - Stato fisico 
+ 
+
+ S per sorgente in forma solida 
+ 
+
+ L per sorgente in forma liquido 
+ 
+
+ G per sorgente in forma gassosa 
+ 
+
+ X per sorgente in forma solida+liquida 
+ 
+
+ SORGENTE - R - Porre R per sorgente di tipo riconosciuto 
+ 
+
+ 
+ 
+
+ 2.2.2 Dati relativi all'attività della sorgente- Valore relativo all'attività della sorgente - Valore riferito all'anno solare.:
+ 
+
+ Riportare l'attività riferita alla singola sorgente 
+ 
+
+ 2.2.3 Peso - Valore relativo al peso della sorgente (Solo per materie fissili speciali, grezze o minerali)- Valore riferito all'anno solare. 
+ 
+
+ 2.2.4 Radionuclide - Descrizione della composizione della sorgente: 
+ 
+
+ 2.2.5 MIS - Composizione in percentuale dei radionuclidi costituenti l'attività riportata 
+ 
+
+ 
+ 
+
+ 2.3 SEZIONE III : Identificazione dei generatori di radiazioni 
+ 
+
+ 2.3.1 tm - tipo di macchina 
+ 
+
+ 2.3.2 corrente - corrente massima di funzionamento. 
+ 
+
+ 2.3.3 tensione -tensione massima di accelerazione: 
+ 
+
+ 2.3.4 tp - tipo particelle accelerate 
+ 
+
+ 2.3.5 tipo macchina - tipo della macchina come indicato dal fabbricante. 
+ 
+
+ 2.3.6 modello macchina - modello della macchina come indicato dal fabbricante.
