@@ -1301,3 +1301,698 @@ ALLEGATO VII
  
 
  Ha inoltre disposto (con l'art. 23, comma 2) che "I procedimenti di verifica di assoggettabilità a VIA pendenti alla data del 16 maggio 2017, nonchè i procedimenti di VIA per i progetti per i quali alla medesima data risulti avviata la fase di consultazione di cui all'articolo 21 del decreto legislativo 3 aprile 2006, n. 152, ovvero sia stata presentata l'istanza di cui all'articolo 23 del medesimo decreto legislativo, restano disciplinati dalla normativa previgente".
+((ALLEGATO VIII ALLA PARTE SECONDA )) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Inquadramento generale
+ 
+
+ A- Le installazioni, gli impianti o le parti di impianti utilizzati per la ricerca, lo sviluppo e la sperimentazione di nuovi prodotti e processi non rientrano nel Titolo III-bis alla Parte Seconda.
+ 
+
+ B- I valori soglia riportati di seguito si riferiscono in genere alle capacità di produzione o alla resa. Qualora uno stesso gestore ponga in essere varie attività elencate alla medesima voce in una stessa installazione o in una stessa località, si sommano le capacità di tali attività. Per le attività di gestione dei rifiuti, tale calcolo si applica al livello delle attività 5.1 e 5.3, lettere a) e b).
+ 
+
+ C - Nell'ambito delle categorie di attività di cui al punto 4 (industria chimica), si intende per produzione la produzione su scala industriale mediante trasformazione chimica o biologica delle sostanze o dei gruppi di sostanze di cui ai punti da 4.1 a 4.6.
+ 
+
+ D- In mancanza di specifici indirizzi interpretativi emanati ai sensi dell'articolo 29-quinquies e di linee guida interpretative emanate dalla Commissione Europea, le autorità competenti valuteranno autonomamente:
+ 
+
+ a) il rapporto tra le attività di gestione dei rifiuti descritte nel presente Allegato e quelle descritte agli Allegati B e C alla Parte Quarta; e
+ 
+
+ b) l'interpretazione del termine "scala industriale" in riferimento alle attività dell'industria chimica descritte nel presente Allegato.
+ 
+
+ Categorie di attività di cui all'articolo 6, comma 13.
+ 
+
+ 1. Attività energetiche
+ 
+
+ 1.1. Combustione di combustibili in installazione con una potenza termica nominale totale pari o superiore a 50 MW
+ 
+
+ 1.2. Raffinazione di petrolio e di gas
+ 
+
+ 1.3. Produzione di coke
+ 
+
+ 1.4. Gassificazione o liquefazione di:
+ 
+
+ a) carbone;
+ 
+
+ b) altri combustibili in installazioni con una potenza termica nominale totale pari o superiore a 20 MW.
+ 
+
+ 1.4-bis attività svolte su terminali di rigassificazione e altre installazioni localizzate in mare su piattaforme off-shore, esclusi quelli che non effettuino alcuno scarico (ai sensi del Capo II del Titolo IV alla Parte Terza) e le cui emissioni in atmosfera siano esclusivamente riferibili ad impianti ed attività scarsamente rilevanti di cui alla Parte I dell'Allegato IV alla Parte Quinta.
+ 
+
+ 2. Produzione e trasformazione dei metalli
+ 
+
+ 2.1. Arrostimento o sinterizzazione di minerali metallici compresi i minerali solforati
+ 
+
+ 2.2. Produzione di ghisa o acciaio (fusione primaria o secondaria), compresa la relativa colata continua di capacità superiore a 2,5 Mg all'ora
+ 
+
+ 2.3. Trasformazione di metalli ferrosi mediante:
+ 
+
+ a) attività di laminazione a caldo con una capacità superiore a 20 Mg di acciaio grezzo all'ora;
+ 
+
+ b) attività di forgiatura con magli la cui energia di impatto supera 50 kJ per maglio e allorchè la potenza calorifica è superiore a 20 MW;
+ 
+
+ c) applicazione di strati protettivi di metallo fuso con una capacità di trattamento superiore a 2 Mg di acciaio grezzo all'ora.
+ 
+
+ 2.4. Funzionamento di fonderie di metalli ferrosi con una capacità di produzione superiore a 20 Mg al giorno.
+ 
+
+ 2.5. Lavorazione di metalli non ferrosi:
+ 
+
+ a) produzione di metalli grezzi non ferrosi da minerali, nonchè concentrati o materie prime secondarie attraverso procedimenti metallurgici, chimici o elettrolitici;
+ 
+
+ b) fusione e lega di metalli non ferrosi, compresi i prodotti di recupero e funzionamento di fonderie di metalli non ferrosi, con una capacità di fusione superiore a 4 Mg al giorno per il piombo e il cadmio o a 20 Mg al giorno per tutti gli altri metalli;
+ 
+
+ 2.6. Trattamento di superficie di metalli o materie plastiche mediante processi elettrolitici o chimici qualora le vasche destinate al trattamento utilizzate abbiano un volume superiore a 30 m&sup3;.
+ 
+
+ 3. Industria dei prodotti minerali
+ 
+
+ 3.1. Produzione di cemento, calce viva e ossido di magnesio
+ 
+
+ a) Produzione di clinker (cemento) in forni rotativi la cui capacità di produzione supera 500 Mg al giorno oppure altri forni aventi una capacità di produzione di oltre 50 Mg al giorno;
+ 
+
+ b) produzione di calce viva in forni aventi una capacità di produzione di oltre 50 Mg al giorno;
+ 
+
+ c) produzione di ossido di magnesio in forni aventi una capacità di produzione di oltre 50 Mg al giorno.
+ 
+
+ 3.2. Produzione di amianto o fabbricazione di prodotti dell'amianto 3.3. Fabbricazione del vetro compresa la produzione di fibre di vetro, con capacità di fusione di oltre 20 Mg al giorno
+ 
+
+ 3.4. Fusione di sostanze minerali compresa la produzione di fibre minerali, con una capacità di fusione di oltre 20 Mg al giorno
+ 
+
+ 3.5. Fabbricazione di prodotti ceramici mediante cottura, in particolare tegole, mattoni, mattoni refrattari, piastrelle, gres o porcellane con una capacità di produzione di oltre 75 Mg al giorno.
+ 
+
+ 4. Industria chimica
+ 
+
+ 4.1. Fabbricazione di prodotti chimici organici, e in particolare:
+ 
+
+ a) idrocarburi semplici (lineari o anulari, saturi o insaturi, alifatici o aromatici);
+ 
+
+ b) idrocarburi ossigenati, segnatamente alcoli, aldeidi, chetoni, acidi carbossilici, esteri e miscele di esteri, acetati, eteri, perossidi e resine epossidiche;
+ 
+
+ c) idrocarburi solforati;
+ 
+
+ d) idrocarburi azotati, segnatamente amine, amidi, composti nitrosi, nitrati o nitrici, nitrili, cianati, isocianati;
+ 
+
+ e) idrocarburi fosforosi;
+ 
+
+ f) idrocarburi alogenati;
+ 
+
+ g) composti organometallici;
+ 
+
+ h) materie plastiche (polimeri, fibre sintetiche, fibre a base di cellulosa);
+ 
+
+ i) gomme sintetiche;
+ 
+
+ l) sostanze coloranti e pigmenti;
+ 
+
+ m) tensioattivi e agenti di superficie.
+ 
+
+ 4.2. Fabbricazione di prodotti chimici inorganici, e in particolare:
+ 
+
+ a) gas, quali ammoniaca, cloro o cloruro di idrogeno, fluoro e fluoruro di idrogeno, ossidi di carbonio, composti di zolfo, ossidi di azoto, idrogeno, biossido di zolfo, bicloruro di carbonile;
+ 
+
+ b) acidi, quali acido cromico, acido fluoridrico, acido fosforico, acido nitrico, acido cloridrico, acido solforico, oleum e acidi solforati;
+ 
+
+ c) basi, quali idrossido d'ammonio, idrossido di potassio, idrossido di sodio;
+ 
+
+ d) sali, quali cloruro d'ammonio, clorato di potassio, carbonato di potassio, carbonato di sodio, perborato, nitrato d'argento;
+ 
+
+ e) metalloidi, ossidi metallici o altri composti inorganici, quali carburo di calcio, silicio, carburo di silicio.
+ 
+
+ 4.3. Fabbricazione di fertilizzanti a base di fosforo, azoto o potassio (fertilizzanti semplici o composti)
+ 
+
+ 4.4. Fabbricazione di prodotti fitosanitari o di biocidi
+ 
+
+ 4.5. Fabbricazione di prodotti farmaceutici compresi i prodotti intermedi
+ 
+
+ 4.6. Fabbricazione di esplosivi
+ 
+
+ 5. Gestione dei rifiuti
+ 
+
+ 5.1. Lo smaltimento o il recupero di rifiuti pericolosi, con capacità di oltre 10 Mg al giorno, che comporti il ricorso ad una o più delle seguenti attività:
+ 
+
+ a) trattamento biologico;
+ 
+
+ b) trattamento fisico-chimico;
+ 
+
+ c) dosaggio o miscelatura prima di una delle altre attività di cui ai punti 5.1 e 5.2;
+ 
+
+ d) ricondizionamento prima di una delle altre attività di cui ai punti 5.1 e 5.2;
+ 
+
+ e) rigenerazione/recupero dei solventi;
+ 
+
+ f) rigenerazione/recupero di sostanze inorganiche diverse dai metalli o dai composti metallici;
+ 
+
+ g) rigenerazione degli acidi o delle basi;
+ 
+
+ h) recupero dei prodotti che servono a captare le sostanze inquinanti;
+ 
+
+ i) recupero dei prodotti provenienti dai catalizzatori;
+ 
+
+ j) rigenerazione o altri reimpieghi degli oli;
+ 
+
+ k) lagunaggio.
+ 
+
+ 5.2. Smaltimento o recupero dei rifiuti in impianti di incenerimento dei rifiuti o in impianti di coincenerimento dei rifiuti:
+ 
+
+ a) per i rifiuti non pericolosi con una capacità superiore a 3 Mg all'ora;
+ 
+
+ b) per i rifiuti pericolosi con una capacità superiore a 10 Mg al giorno.
+ 
+
+ 5.3.
+ 
+
+ a) Lo smaltimento dei rifiuti non pericolosi, con capacità superiore a 50 Mg al giorno, che comporta il ricorso ad una o più delle seguenti attività ed escluse le attività di trattamento delle acque reflue urbane, disciplinate al paragrafo 1.1 dell'Allegato 5 alla Parte Terza:
+ 
+
+ 1) trattamento biologico;
+ 
+
+ 2) trattamento fisico-chimico;
+ 
+
+ 3) pretrattamento dei rifiuti destinati all'incenerimento o al coincenerimento;
+ 
+
+ 4) trattamento di scorie e ceneri;
+ 
+
+ 5) trattamento in frantumatori di rifiuti metallici, compresi i rifiuti di apparecchiature elettriche ed elettroniche e i veicoli fuori uso e relativi componenti.
+ 
+
+ b) Il recupero, o una combinazione di recupero e smaltimento, di rifiuti non pericolosi, con una capacità superiore a 75 Mg al giorno, che comportano il ricorso ad una o più delle seguenti attività ed escluse le attività di trattamento delle acque reflue urbane, disciplinate al paragrafo 1.1 dell'Allegato 5 alla Parte Terza:
+ 
+
+ 1) trattamento biologico;
+ 
+
+ 2) pretrattamento dei rifiuti destinati all'incenerimento o al coincenerimento;
+ 
+
+ 3) trattamento di scorie e ceneri;
+ 
+
+ 4) trattamento in frantumatori di rifiuti metallici, compresi i rifiuti di apparecchiature elettriche ed elettroniche e i veicoli fuori uso e relativi componenti.
+ 
+
+ Qualora l'attività di trattamento dei rifiuti consista unicamente nella digestione anaerobica, la soglia di capacità di siffatta attività è fissata a 100 Mg al giorno.
+ 
+
+ 5.4. Discariche, che ricevono più di 10 Mg di rifiuti al giorno o con una capacità totale di oltre 25000 Mg, ad esclusione delle discariche per i rifiuti inerti.
+ 
+
+ 5.5. Accumulo temporaneo di rifiuti pericolosi non contemplati al punto 5.4 prima di una delle attività elencate ai punti 5.1, 5.2, 5.4 e 5.6 con una capacità totale superiore a 50 Mg, eccetto il deposito temporaneo, prima della raccolta, nel luogo in cui sono generati i rifiuti.
+ 
+
+ 5.6. Deposito sotterraneo di rifiuti pericolosi con una capacità totale superiore a 50 Mg.
+ 
+
+ 6. Altre attività
+ 
+
+ 6.1. Fabbricazione in installazioni industriali di:
+ 
+
+ a) pasta per carta a partire dal legno o da altre materie fibrose;
+ 
+
+ b) carta o cartoni con capacità di produzione superiore a 20 Mg al giorno;
+ 
+
+ c) uno o più dei seguenti pannelli a base di legno: pannelli a fibre orientate (pannelli OSB), pannelli truciolari o pannelli di fibre, con una capacità di produzione superiore a 600 m&sup3; al giorno.
+ 
+
+ 6.2. Pretrattamento (operazioni di lavaggio, imbianchimento, mercerizzazione) o tintura di fibre tessili o di tessili la cui capacità di trattamento supera le 10 Mg al giorno.
+ 
+
+ 6.3. Concia delle pelli qualora la capacità di trattamento superi le 12 Mg al giorno di prodotto finito.
+ 
+
+ 6.4.
+ 
+
+ a) Funzionamento di macelli aventi una capacità di produzione di carcasse di oltre 50 Mg al giorno;
+ 
+
+ b) Escluso il caso in cui la materia prima sia esclusivamente il latte, trattamento e trasformazione, diversi dal semplice imballo, delle seguenti materie prime, sia trasformate in precedenza sia non trasformate destinate alla fabbricazione di prodotti alimentari o mangimi da:
+ 
+
+ 1) solo materie prime animali (diverse dal semplice latte) con una capacità di produzione di prodotti finiti di oltre 75 Mg al giorno;
+ 
+
+ 2) solo materie prime vegetali con una capacità di produzione di prodotti finiti di oltre 300 Mg al giorno o 600 Mg al giorno se l'installazione è in funzione per un periodo non superiore a 90 giorni consecutivi all'anno;
+ 
+
+ 3) materie prime animali e vegetali, sia in prodotti combinati che separati, quando, detta "A" la percentuale (%) in peso della materia animale nei prodotti finiti, la capacità di produzione di prodotti finiti in Mg al giorno è superiore a;
+ 
+
+ - 75 se A è pari o superiore a 10; oppure
+ 
+
+ - [300 - (22,5 &times; A)] in tutti gli altri casi
+ 
+
+ L'imballaggio non è compreso nel peso finale del prodotto.
+ 
+
+ c) Trattamento e trasformazione esclusivamente del latte, con un quantitativo di latte ricevuto di oltre 200 Mg al giorno (valore medio su base annua).
+ 
+
+ 6.5. Lo smaltimento o il riciclaggio di carcasse o di residui di animali con una capacità di trattamento di oltre 10 Mg al giorno.
+ 
+
+ 6.6. Allevamento intensivo di pollame o di suini:
+ 
+
+ a) con più di 40000 posti pollame;
+ 
+
+ b) con più di 2000 posti suini da produzione (di oltre 30 kg); o c) con più di 750 posti scrofe.
+ 
+
+ 6.7. Trattamento di superficie di materie, oggetti o prodotti utilizzando solventi organici, in particolare per apprettare, stampare, spalmare, sgrassare, impermeabilizzare, incollare, verniciare, pulire o impregnare, con una capacità di consumo di solventi organici superiore a 150 kg all'ora o a 200 Mg all'anno.
+ 
+
+ 6.8. Fabbricazione di carbonio (carbone duro) o grafite per uso elettrico mediante combustione o grafitizzazione.
+ 
+
+ 6.9. Cattura di flussi di CO2 provenienti da installazioni che rientrano nel presente Allegato ai fini dello stoccaggio geologico in conformità decreto legislativo 14 settembre 2011, n. 162.
+ 
+
+ 6.10. Conservazione del legno e dei prodotti in legno con prodotti chimici con una capacità di produzione superiore a 75 m&sup3; al giorno eccetto il trattamento esclusivamente contro l'azzurratura.
+ 
+
+ 6.11. Attività di trattamento a gestione indipendente di acque reflue non coperte dalle norme di recepimento della direttiva 91/271/CEE, ed evacuate da un'installazione in cui è svolta una delle attività di cui al presente Allegato.))
+((ALLEGATO IX ALLA PARTE SECONDA 
+ 
+
+ 
+ 
+
+ Elenco delle autorizzazioni ambientali sostituite dalla 
+ 
+
+ autorizzazione integrata ambientale 
+ 
+
+ 1. Autorizzazione alle emissioni in atmosfera, fermi restando i profili concernenti aspetti sanitari (titolo I della parte quinta del presente decreto). 
+ 
+
+ 2. Autorizzazione allo scarico (Capo II del Titolo IV della Parte Terza). 
+ 
+
+ 3. Autorizzazione unica per gli impianti di smaltimento e recupero dei rifiuti (articoli 208 e 210) 
+ 
+
+ 4. Autorizzazione allo smaltimento degli apparecchi contenenti PCB-PCT (decreto legislativo 22 maggio 1999, n. 209, articolo 7). 
+ 
+
+ 5. Autorizzazione all'utilizzo dei fanghi derivanti dal processo di depurazione in agricoltura (decreto legislativo 27 gennaio 1992, n. 99, articolo 9) 
+ 
+
+ 6. Autorizzazione allo scarico rilasciata dal Magistrato alle Acque di Venezia, limitatamente alle condizioni di esercizio degli scarichi idrici e alle modalità di controllo di tali condizioni (decreto-legge 29 marzo 1995, n. 96, convertito con modificazioni nella legge 31 maggio 1995, n. 206, articolo 2, comma 2).))
+ALLEGATO X ALLA PARTE SECONDA DEL DECRETO LEGISLATIVO N. 152/2006 
+ 
+
+ 
+ 
+
+ Elenco indicativo delle principali sostanze inquinanti di cui è obbligatorio tener conto se pertinenti per stabilire i valori limite di emissione 
+ 
+
+ Aria: 
+ 
+
+ 1. Ossidi di zolfo e altri composti dello zolfo. 
+ 
+
+ 2. Ossidi di azoto e altri composti dell'azoto. 
+ 
+
+ 3. Monossido di carbonio. 
+ 
+
+ 4. Composti organici volatili. 
+ 
+
+ 5. Metalli e relativi composti. 
+ 
+
+ 6. Polveri 
+ ((, comprese le particelle sottili))
+
+ . 
+ 
+
+ 7. Amianto (particelle in sospensione e fibre). 
+ 
+
+ 8. Cloro e suoi composti. 
+ 
+
+ 9. Fluoro e suoi composti.
+ ((76))
+
+ 
+ 
+
+ 10. Arsenico e suoi composti. 
+ 
+
+ 11. Cianuri. 
+ 
+
+ 12. Sostanze e preparati di cui sono comprovate proprietà cancerogene, mutagene o tali da poter influire sulla riproduzione quando sono immessi nell'atmosfera. 
+ 
+
+ 13. Policlorodibenzodiossina (PCDD) e policlorodibenzofurani (PCDF). 
+ 
+
+ Acqua: 
+ 
+
+ 1. Composti organoalogenati e sostanze che possono dar loro origine nell'ambiente idrico. 
+ 
+
+ 2. Composti organofosforici. 
+ 
+
+ 3. Composti organici dello stagno. 
+ 
+
+ 4. Sostanze e preparati di cui sono comprovate proprietà cancerogene, mutagene o tali da poter influire sulla riproduzione in ambiente idrico o con il concorso dello stesso. 
+ 
+
+ 5. Idrocarburi persistenti e sostanze organiche tossiche persistenti e bioaccumulabili. 
+ 
+
+ 6. Cianuri. 
+ 
+
+ 7. Metalli e loro composti. 
+ 
+
+ 8. Arsenico e suoi composti. 
+ 
+
+ 9. Biocidi e prodotti fitofarmaceutici. 
+ 
+
+ 10. Materie in sospensione. 
+ 
+
+ 11. Sostanze che contribuiscono all'eutrofizzazione (nitrati e fosfati, in particolare). 
+ 
+
+ 12. Sostanze che esercitano un'influenza sfavorevole sul bilancio di ossigeno (misurabili con parametri quali BOD, COD). 
+ 
+
+ 
+ ((13 sostanze prioritarie di cui all'articolo 74, comma 2, lettera ff))
+
+ ) 
+ 
+
+ 
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (76)
+
+ 
+ 
+
+ Il D.Lgs. 4 marzo 2014, n. 46 ha disposto (con l'art. 26, comma 3) che nella sezione Aria "al punto 9 la parola: "fitofarmaceutici" è sostituita dalla seguente: "fitosanitari"".
+ALLEGATO XI ALLA PARTE SECONDA DEL DECRETO LEGISLATIVO N. 152/2006 
+ 
+
+ Considerazioni da tenere presenti in generale o in un caso particolare nella determinazione delle migliori tecniche disponibili, secondo quanto definito all'art. 5, comma 1, lettera 1 ter), tenuto conto dei costi e dei benefici che possono risultare da un'azione e del principio di precauzione e prevenzione. 
+ 
+
+ 1. Impiego di tecniche a scarsa produzione di rifiuti. 
+ 
+
+ 2. Impiego di sostanze meno pericolose. 
+ 
+
+ 3. Sviluppo di tecniche per il ricupero e il riciclo delle sostanze emesse e usate nel processo, e, ove opportuno, dei rifiuti. 
+ 
+
+ 4. Processi, sistemi o metodi operativi comparabili, sperimentati con successo su scala industriale. 
+ 
+
+ 5. Progressi in campo tecnico e evoluzione, delle conoscenze in campo scientifico. 
+ 
+
+ 6. Natura, effetti e volume delle emissioni in questione. 
+ 
+
+ 7. Date di messa in funzione degli impianti nuovi o esistenti. 
+ 
+
+ 8. Tempo necessario per utilizzare una migliore tecnica disponibile. 
+ 
+
+ 9. Consumo e natura delle materie prime ivi compresa l'acqua usata nel processo e efficienza energetica. 
+ 
+
+ 10. Necessità di prevenire o di ridurre al minimo l'impatto globale sull'ambiente delle emissioni e dei rischi. 
+ 
+
+ 11. Necessità di prevenire gli incidenti e di ridurne le conseguenze per l'ambiente. 
+ 
+
+ 
+ ((12 Indicazioni dei documenti di riferimento sulle BAT (BREF) già pubblicati, informazioni diffuse ai sensi dell'articolo 29-tedecies, comma 4, nonchè altre informazioni pubblicate dalla Commissione europea ai sensi dell'articolo 16, paragrafo 2, della direttiva 96/61/CE, o da organizzazioni internazionali pubbliche))
+
+ .
+ALLEGATO XII ALLA PARTE SECONDA DEL DECRETO LEGISLATIVO N. 152/2006 
+ 
+
+ 
+ 
+
+ Categorie di impianti relativi alle attività industriali di cui all'allegato 8, soggetti ad autorizzazione integrata ambientale statale
+ 
+
+ 1) Raffinerie di petrolio greggio (escluse le imprese che producono soltanto lubrificanti dal petrolio greggio), nonchè impianti di gassificazione e di liquefazione di almeno 500 tonnellate (Mg) al giorno di carbone o di scisti bituminosi;
+ 
+
+ 2) Centrali termiche ed altri impianti di combustione con potenza termica di almeno 300 MW 
+ ((nonchè quelli facenti parte della rete nazionale dei gasdotti con potenza termica di almeno 50 MW))
+
+ ;
+ 
+
+ 3) Acciaierie integrate di prima fusione della ghisa e dell'acciaio;
+ 
+
+ 4) Impianti chimici con capacità produttiva complessiva annua per classe di prodotto, espressa in milioni di chilogrammi, superiore alle soglie di seguito indicate:
+ 
+
+ Soglie*
+ 
+
+ 
+ 
+
+ Classe di prodotto Gg/ anno
+ 
+
+ a) idrocarburi semplici (lineari o 200
+ 
+
+ anulari, saturi o insaturi, alifatici
+ 
+
+ o aromatici)
+ 
+
+ b) idrocarburi ossigenati, segnatamente 200
+ 
+
+ alcoli, aldeidi, chetoni, acidi
+ 
+
+ carbossilici, esteri, acetati,
+ 
+
+ eteri, perossidi, resine, epossidi
+ 
+
+ c) idrocarburi solforati 100
+ 
+
+ d) idrocarburi azotati, segnatamente ammine, 100
+ 
+
+ amidi, composti nitrosi, nitrati o nitrici,
+ 
+
+ nitrili, cianati, isocianati
+ 
+
+ e) idrocarburi fosforosi 100
+ 
+
+ f) idrocarburi alogenati 100
+ 
+
+ g) composti organometallici 100
+ 
+
+ h) materie plastiche di base (polimeri, fibre 100
+ 
+
+ sintetiche, fibre a base di cellulosa)
+ 
+
+ i) gomme sintetiche 100
+ 
+
+ l) gas, quali ammoniaca, cloro o cloruro di 100
+ 
+
+ idrogeno, fluoro o fluoruro di idrogeno,
+ 
+
+ ossidi di carbonio, composti di zolfo,
+ 
+
+ ossidi di azoto, idrogeno, biossido di zolfo,
+ 
+
+ bicloruro di carbonile
+ 
+
+ m) acidi, quali acido cromico, acido 100
+ 
+
+ fluoridrico, acido fosforico, acido nitrico,
+ 
+
+ acido cloridrico, acido solforico, oleum e
+ 
+
+ acidi solforati
+ 
+
+ n) basi, quali idrossido d'ammonio, idrossido 100
+ 
+
+ dipotassio, idrossido di sodio
+ 
+
+ o) fertilizzanti a base di fosforo, azoto o 300
+ 
+
+ potassio (fertilizzanti semplici o composti)
+ 
+
+ 
+ 
+
+ * Le soglie della tabella sono
+ 
+
+ riferite alla somma delle
+ 
+
+ capacità produttive relative
+ 
+
+ ai singoli composti che sono
+ 
+
+ riportati in un'unica riga.
+ 
+
+ 
+ 
+
+ 5) Impianti funzionalmente connessi a uno degli impianti di cui ai punti precedenti, localizzati nel medesimo sito e gestiti dal medesimo gestore, che non svolgono attività di cui all'allegato VIII;
+ 
+
+ 6) Altri impianti rientranti nelle categorie di cui all'allegato VIII localizzati interamente in mare.
