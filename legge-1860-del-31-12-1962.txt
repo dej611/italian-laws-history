@@ -18,16 +18,27 @@ La Camera dei deputati ed in Senato della Repubblica hanno
 
  
  
- ((Per l'applicazione della presente legge valgono le definizioni concernenti le materie fissili speciali, l'uranio arricchito, le materie grezze nonchè i minerali, di cui all'art. 197 del trattato che istituisce la Comunità europea dell'energia atomica ratificato e reso esecutivo con la legge 14 ottobre 1957, n. 1203. 
+
+ 
+ 
+
+ Per l'applicazione della presente legge valgono le definizioni concernenti le materie fissili speciali, l'uranio arricchito, le materie grezze nonchè i minerali, di cui all'art. 197 del trattato che istituisce la Comunità europea dell'energia atomica ratificato e reso esecutivo con la legge 14 ottobre 1957, n. 1203. 
  
 
  Sempre per l'applicazione della presente legge ai fini delle disposizioni sulla responsabilità civile e in conformità delle convenzioni sulla responsabilità civile nel campo dell'energia nucleare ratificate e rese esecutive, insieme con i relativi atti aggiuntivi, con la legge 12 febbraio 1974, n. 109, valgono inoltre le seguenti definizioni: 
  
 
- a) " incidente nucleare" significa, qualsiasi fatto o successione di fatti aventi la stessa origine che abbia causato danni, purchè questo fatto o successione di fatti o qualsiasi danno da essi causato provengano o risultino dalle proprietà radioattive o dalla unione delle proprietà radioattive con proprietà tossiche o esplosive, o altre proprietà pericolose, di combustibili nucleari o di prodotti o di rifiuti radioattivi; 
  
+ ((a) "incidente nucleare" significa qualsiasi fatto o successione di fatti aventi la stessa origine che abbia causato danni nucleari;))
 
- b) " impianti nucleari " significa i reattori nucleari, eccetto quelli che fanno parte di un mezzo di trasporto; gli stabilimenti per la fabbricazione o la lavorazione delle materie nucleari; gli stabilimenti per la separazione degli isotopi di combustibili nucleari; gli stabilimenti per la rigenerazione di combustibili nucleari irradiati; gli impianti per l'immagazzinamento di materie nucleari, eccettuata la messa a magazzino nel corso del trasporto di tali materie; e tutti quegli altri impianti nei quali siano detenuti combustibili nucleari o prodotti o rifiuti radioattivi e che saranno qualificati come tali con decisione del comitato direttivo dell'Agenzia per l'energia nucleare, creata, nel quadro della Organizzazione per la cooperazione e lo sviluppo economico (O.C.S.E.), e con le modalità di cui all'ultimo comma del presente articolo. Un impianto nucleare può comprendere vari impianti purchè lo esercente sia lo stesso ed essi costituiscano un tutto organico, cioè una unità in senso spaziale; 
+ ((6))
+
+ ((b) "impianti nucleari" significa i reattori nucleari, eccetto quelli che fanno parte di un mezzo di trasporto; gli impianti per la fabbricazione o la lavorazione delle materie nucleari; gli impianti per la separazione degli isotopi di combustibili nucleari; gli impianti per il riprocessamento di combustibili nucleari irraggiati; gli impianti per l'immagazzinamento delle materie nucleari, eccettuata la messa a magazzino nel corso del trasporto di tali materie; gli impianti destinati allo smaltimento di sostanze nucleari; ogni reattore, stabilimento o impianto in corso di disattivazione; tutti gli altri impianti nei quali siano detenuti combustibili nucleari o prodotti o rifiuti radioattivi e che saranno qualificati come tali con decisione del comitato direttivo dell'Agenzia per l'energia nucleare, istituita nell'ambito dell'Organizzazione per la cooperazione e lo sviluppo economico (OCSE), e con le modalità di cui al terzo comma. Un impianto nucleare può comprendere vari impianti, dove sono detenuti combustibili nucleari o prodotti o rifiuti radioattivi, purchè l'esercente sia lo stesso ed essi costituiscano un tutto organico, cioè un'unità in senso spaziale))
+
+ ; 
+ ((6))
+
+ 
  
 
  c) "combustibili nucleari" significa le materie fissili, inclusi l'uranio in forma di metallo, di lega o di composto chimico (compreso l'uranio naturale), il plutonio in forma di metallo, di lega o di composto chimico, ed ogni altra materia fissile che sarà qualificata come tale con decisione del comitato direttivo della suddetta Agenzia per l'energia nucleare dell'O.C.S.E. e con le modalità di cui all'ultimo comma del presente articolo; 
@@ -45,13 +56,79 @@ La Camera dei deputati ed in Senato della Repubblica hanno
  e) " materie nucleari" significa i combustibili nucleari (esclusi l'uranio naturale e l'uranio impoverito) è i prodotti e i rifiuti radioattivi; 
  
 
- f) "esercente" di un impianto nucleare significa il soggetto titolare della licenza rilasciata dal Ministro per l'industria, il commercio e l'artigianato per l'esercizio dell'impianto nucleare.
+ f) "esercente" di un impianto nucleare significa il soggetto titolare della licenza rilasciata dal 
+ ((Ministro dello sviluppo economico))
+
+ per l'esercizio dell'impianto nucleare. Nella fase che precede il rilascio della licenza di esercizio, il soggetto titolare dell'autorizzazione o del nulla osta per la costruzione dell'impianto nucleare è equiparato allo "esercente" agli effetti della presente legge e ai fini della responsabilità civile connessa con la esecuzione di prove e operazioni con combustibile nucleare o con combustibile irradiato. 
+ ((6))
+
+ 
+ ((f-bis) "danno nucleare" significa: 
  
 
- Nella fase che precede il rilascio della licenza di esercizio, il soggetto titolare dell'autorizzazione o del nulla osta per la costruzione dell'impianto nucleare è equiparato allo "esercente" agli effetti della presente legge e ai fini della responsabilità civile connessa con la esecuzione di prove e operazioni con combustibile nucleare o con combustibile irradiato. 
+ 1) qualsiasi decesso o danno alle persone; 
  
 
- Le decisioni del comitato direttivo dell'Agenzia per l'energia nucleare dell'O.C.S.E. in materia di esclusione di impianti nucleari, combustibili nucleari o materie nucleari dal campo di applicazione delle convenzioni Internazionali ratificate con legge 12 febbraio 1974, numero 109, sono adottate in Italia con decreto del Ministro per l'industria, il commercio e l'artigianato, sentito il Comitato nazionale per l'energia nucleare))
+ 2) ogni perdita di beni o qualsiasi danno ai beni; 
  
 
- .
+ 3) per ciascuna delle seguenti categorie, nella misura determinata dal diritto del tribunale competente: 
+ 
+
+ 3.1) qualsiasi perdita economica risultante da una perdita o da un danno di cui ai numeri 1) o 2), semprechè non sia compreso nei medesimi numeri, se è subito da una persona avente titolo per chiedere il risarcimento di tale perdita o danno; 
+ 
+
+ 3.2) il costo delle misure di reintegro di un ambiente degradato, salvo che tale degrado sia irrisorio, se tali misure sono effettivamente prese o devono esserlo e nella misura in cui tale costo non sia compreso nel numero 2); 
+ 
+
+ 3.3) qualsiasi mancato guadagno collegato con un interesse economico diretto in qualsiasi uso o godimento dell'ambiente, risultante da un importante degrado di tale ambiente, semprechè tale mancato guadagno non sia compreso nel numero 2); 
+ 
+
+ 4) il costo delle misure preventive e di ogni altra perdita o danno causato da tali misure, nei casi di cui ai numeri da 1) a 3), nella misura in cui la perdita o il danno derivi o risulti da radiazioni ionizzanti emesse da qualsiasi sorgente di radiazioni situata all'interno di un impianto nucleare o emesse da combustibili nucleari o da prodotti o rifiuti radioattivi che si trovino in un impianto nucleare, ovvero emesse da sostanze nucleari che provengano da un impianto nucleare o che vi abbiano origine o che vi siano inviate, sia che la perdita o il danno risulti dalle proprietà radioattive di tali materie, sia che tale perdita o danno risulti dalla combinazione di queste proprietà con le proprietà tossiche, esplosive o altre proprietà pericolose di tali materie;))
+ 
+
+ ((6))
+
+ ((f-ter) "misure di reintegro" significa tutte le misure ragionevoli approvate dal Ministero dell'ambiente e della tutela del territorio e del mare, su proposta dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), sentito l'Ispettorato nazionale per la sicurezza nucleare e la radioprotezione (ISIN), e che mirano a reintegrare o a ristabilire componenti dell'ambiente danneggiati o distrutti, ovvero a introdurre, quando ciò sia ragionevole, l'equivalente di tali componenti nell'ambiente;))
+
+ ((6))
+
+ ((f-quater) "misure preventive" significa tutte le misure ragionevoli, da chiunque adottate dopo la sopravvenienza di un incidente nucleare o di un avvenimento che crea una minaccia grave e imminente di danno nucleare, per prevenire o ridurre al minimo i danni nucleari di cui ai numeri da 1) a 3) della lettera f-bis), fatta salva l'approvazione delle autorità competenti, se ciò è richiesto dalla legislazione dello Stato dove le misure sono state adottate;))
+
+ ((6))
+
+ 
+ ((f-quinquies) "misure ragionevoli" significa tutte le misure considerate adeguate e proporzionate dal diritto nazionale dello Stato competente in considerazione di tutte le circostanze, quali ad esempio: 
+ 
+
+ 1) la natura e l'ampiezza del danno nucleare subito oppure, in caso di misure preventive, la natura e l'ampiezza del rischio di tale danno; 
+ 
+
+ 2) il grado di probabilità, nel momento in cui le misure sono adottate, che esse siano efficaci; 
+ 
+
+ 3) le relative conoscenze scientifiche e tecniche))
+ 
+
+ . 
+ ((6))
+
+ 
+ 
+
+ Le decisioni del comitato direttivo dell'Agenzia per l'energia nucleare dell'O.C.S.E. in materia di esclusione di impianti nucleari, combustibili nucleari o materie nucleari dal campo di applicazione delle convenzioni Internazionali ratificate con legge 12 febbraio 1974, numero 109, sono adottate in Italia con decreto del 
+ ((Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, su proposta dell'ISIN))
+
+ . 
+ ((6))
+
+ 
+ 
+ ---------------
+
+ AGGIORNAMENTO (6)
+
+ 
+ 
+
+ La L. 23 luglio 2020, n. 97 ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dalla data di entrata in vigore del Protocollo di cui all'articolo 1, comma 1, lettera a) della legge stessa, di cui è dato avviso mediante comunicato pubblicato nella Gazzetta Ufficiale.
