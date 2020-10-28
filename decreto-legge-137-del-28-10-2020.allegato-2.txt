@@ -1,0 +1,245 @@
+((Allegato 2 
+ 
+
+ (articolo 1-bis) 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Codice ATECO Descrizione % 
+ 
+
+ 
+ 47.19.10 Grandi magazzini 200% 
+ 
+
+ 
+ 47.19.90 Empori ed altri negozi non specializzati di vari prodotti non alimentari 200% 
+ 
+
+ 
+ 47.51.10 Commercio al dettaglio di tessuti per l'abbigliamento, l'arredamento e di biancheria per la casa 200% 
+ 
+
+ 
+ 47.51.20 Commercio al dettaglio di filati per maglieria e merceria 200% 
+ 
+
+ 
+ 47.53.11 Commercio al dettaglio di tende e tendine 200% 
+ 
+
+ 
+ 47.53.12 Commercio al dettaglio di tappeti 200% 
+ 
+
+ 
+ 47.53.20 Commercio al dettaglio di carta da parati e rivestimenti per pavimenti (moquette e linoleum) 200% 
+ 
+
+ 
+ 47.54.00 Commercio al dettaglio di elettrodomestici in esercizi specializzati 200% 
+ 
+
+ 
+ 47.64.20 Commercio al dettaglio di natanti e accessori 200% 
+ 
+
+ 
+ 47.72.10 Commercio al dettaglio di calzature e accessori 200% 
+ 
+
+ 
+ 47.78.34 Commercio al dettaglio di articoli da regalo e per fumatori 200% 
+ 
+
+ 
+ 47.59.10 Commercio al dettaglio di mobili per la casa 200% 
+ 
+
+ 
+ 47.59.20 Commercio al dettaglio di utensili per la casa, di cristallerie e vasellame 200% 
+ 
+
+ 
+ 47.59.40 Commercio al dettaglio di macchine per cucire e per maglieria per uso domestico 200% 
+ 
+
+ 
+ 47.59.60 Commercio al dettaglio di strumenti musicali e spartiti 200% 
+ 
+
+ 
+ 47.59.91 Commercio al dettaglio di articoli in legno, sughero, vimini e articoli in plastica per uso domestico 200% 
+ 
+
+ 
+ 47.59.99 Commercio al dettaglio di altri articoli per uso domestico nca 200% 
+ 
+
+ 
+ 47.63.00 Commercio al dettaglio di registrazioni musicali e video in esercizi specializzati 200% 
+ 
+
+ 
+ 47.71.10 Commercio al dettaglio di confezioni per adulti 200% 
+ 
+
+ 
+ 47.71.40 Commercio al dettaglio di pellicce e di abbigliamento in pelle 200% 
+ 
+
+ 
+ 47.71.50 Commercio al dettaglio di cappelli, ombrelli, guanti e cravatte 200% 
+ 
+
+ 
+ 47.72.20 Commercio al dettaglio di articoli di pelletteria e da viaggio 200% 
+ 
+
+ 
+ 47.77.00 Commercio al dettaglio di orologi, articoli di gioielleria e argenteria 200% 
+ 
+
+ 
+ 47.78.10 Commercio al dettaglio di mobili per ufficio 200% 
+ 
+
+ 
+ 47.78.31 Commercio al dettaglio di oggetti d'arte (incluse le gallerie d'arte) 200% 
+ 
+
+ 
+ 47.78.32 Commercio al dettaglio di oggetti d'artigianato 200% 
+ 
+
+ 
+ 47.78.33 Commercio al dettaglio di arredi sacri ed articoli religiosi 200% 
+ 
+
+ 
+ 47.78.35 Commercio al dettaglio di bomboniere 200% 
+ 
+
+ 
+ 47.78.36 Commercio al dettaglio di chincaglieria e bigiotteria (inclusi gli oggetti ricordo e gli articoli di promozione pubblicitaria) 200% 
+ 
+
+ 
+ 47.78.37 Commercio al dettaglio di articoli per le belle arti 200% 
+ 
+
+ 
+ 47.78.50 Commercio al dettaglio di armi e munizioni, articoli militari 200% 
+ 
+
+ 
+ 47.78.91 Commercio al dettaglio di filatelia, numismatica e articoli da collezionismo 200% 
+ 
+
+ 
+ 47.78.92 Commercio al dettaglio di spaghi, cordami, tele e sacchi di juta e prodotti per l'imballaggio (esclusi quelli in carta e cartone) 200% 
+ 
+
+ 
+ 47.78.94 Commercio al dettaglio di articoli per adulti (sexy shop) 200% 
+ 
+
+ 
+ 47.78.99 Commercio al dettaglio di altri prodotti non alimentari nca 200% 
+ 
+
+ 
+ 47.79.10 Commercio al dettaglio di libri di seconda mano 200% 
+ 
+
+ 
+ 47.79.20 Commercio al dettaglio di mobili usati e oggetti di antiquariato 200% 
+ 
+
+ 
+ 47.79.30 Commercio al dettaglio di indumenti e altri oggetti usati 200% 
+ 
+
+ 
+ 47.79.40 Case d'asta al dettaglio (escluse aste via internet) 200% 
+ 
+
+ 
+ 47.81.01 Commercio al dettaglio ambulante di prodotti ortofrutticoli 200% 
+ 
+
+ 
+ 47.81.02 Commercio al dettaglio ambulante di prodotti ittici 200% 
+ 
+
+ 
+ 47.81.03 Commercio al dettaglio ambulante di carne 200% 
+ 
+
+ 
+ 47.81.09 Commercio al dettaglio ambulante di altri prodotti alimentari e bevande nca 200% 
+ 
+
+ 
+ 47.82.01 Commercio al dettaglio ambulante di tessuti, articoli tessili per la casa, articoli di abbigliamento 200% 
+ 
+
+ 
+ 47.82.02 Commercio al dettaglio ambulante di calzature e pelletterie 200% 
+ 
+
+ 
+ 47.89.01 Commercio al dettaglio ambulante di fiori, piante, bulbi, semi e fertilizzanti 200% 
+ 
+
+ 
+ 47.89.02 Commercio al dettaglio ambulante di macchine, attrezzature e prodotti per l'agricoltura; attrezzature per il giardinaggio 200% 
+ 
+
+ 
+ 47.89.03 Commercio al dettaglio ambulante di profumi e cosmetici; saponi, detersivi ed altri detergenti per qualsiasi uso 200% 
+ 
+
+ 
+ 47.89.04 Commercio al dettaglio ambulante di chincaglieria e bigiotteria 200% 
+ 
+
+ 
+ 47.89.05 Commercio al dettaglio ambulante di arredamenti per giardino; mobili; tappeti e stuoie; articoli casalinghi; elettrodomestici; materiale elettrico 200% 
+ 
+
+ 
+ 47.89.09 Commercio al dettaglio ambulante di altri prodotti nca 200% 
+ 
+
+ 
+ 47.99.10 Commercio al dettaglio di prodotti vari, mediante l'intervento di un dimostratore o di un incaricato alla vendita (porta a porta) 200% 
+ 
+
+ 
+ 96.02.02 Servizi degli istituti di bellezza 200% 
+ 
+
+ 
+ 96.02.03 Servizi di manicure e pedicure 200% 
+ 
+
+ 
+ 96.09.02 Attività di tatuaggio e piercing 200% 
+ 
+
+ 
+ 96.09.03 Agenzie matrimoniali e d'incontro 200% 
+ 
+
+ 
+ 96.09.04 Servizi di cura degli animali da compagnia (esclusi i servizi veterinari) 200% 
+ 
+
+ 
+ 96.09.09 Altre attività di servizi per la persona nca 200%
