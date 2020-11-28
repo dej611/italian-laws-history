@@ -1,0 +1,778 @@
+IL MINISTRO DELL'ECONOMIA
+
+ 
+ E DELLE FINANZE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 1, comma 288, della legge 27 dicembre 2019, n. 160, che, al fine di incentivare l'utilizzo di strumenti di pagamento elettronici, ha previsto il riconoscimento del diritto a un rimborso in denaro per le persone fisiche maggiorenni residenti nel territorio dello Stato, che fuori dall'esercizio di attività d'impresa, arte o professione, effettuano abitualmente acquisti con strumenti di pagamento elettronici da soggetti che svolgono attività di vendita di beni e di prestazione di servizi;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 1, commi 288 e 289, della legge 27 dicembre 2019, n. 160, che prevede l'adozione, da parte del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, di uno o più decreti per definire le condizioni, i casi e i criteri per l'attribuzione di tale rimborso, anche in relazione ai volumi e alla frequenza degli acquisti, le forme di adesione volontaria, gli strumenti di pagamento elettronici e le attività rilevanti, sempre ai fini dell'attribuzione del rimborso;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che l'articolo 1, commi 289-bis e 289-ter, della predetta legge n. 160 del 2019, consente al Ministero dell'economia e delle finanze di avvalersi della società di cui all'articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, nonchè della società Consap - Concessionaria servizi assicurativi pubblici S.p.A. al fine di, rispettivamente, sviluppare i servizi di progettazione, realizzazione e gestione del sistema informativo destinato al calcolo del rimborso di cui ai commi 288 e 289 della predetta legge 27 dicembre 2019, n. 160, e di procedere alle attività di attribuzione ed erogazione dei rimborsi, nonchè di ogni altra attività strumentale e accessoria, ivi inclusa la gestione dei reclami e delle eventuali controversie;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto, altresì, l'articolo 1, comma 290, della legge 27 dicembre 2019, n. 160, che, al fine di garantire le risorse finanziarie necessarie per l'attuazione dei rimborsi e le spese per le attività legate all'attuazione delle misure di cui ai citati commi 288 e 289, prevedeva lo stanziamento nello stato di previsione del Ministero dell'economia e delle finanze, su apposito fondo, dell'importo pari ad euro 3.000 milioni per ciascuno degli anni 2021 e 2022;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 265, comma 7, lettera b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, che ha ridotto di 3.000 milioni di euro per l'anno 2021, la dotazione del fondo di cui all'articolo 1, comma 290, della legge 27 dicembre 2019, n. 160;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il comma 2 dell'articolo 73 del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, che, al fine di garantire le risorse finanziarie necessarie per l'attribuzione dei rimborsi e la copertura delle ulteriori spese derivanti dall'attuazione della misura, ha incrementato la dotazione del fondo di cui all'articolo 1, comma 290, della legge 27 dicembre 2019, n. 160, di 2,2 milioni per l'anno 2020 e di 1.750 milioni per l'anno 2021;
+
+ 
+ 
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali, che ha reso il parere di competenza con nota n. 179 del 13 ottobre 2020;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 3 novembre 2020;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione in data 16 novembre 2020 alla Presidenza del Consiglio dei ministri a norma dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto si intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;programma&raquo;: il programma infrannuale di rimborso in denaro a favore degli aderenti che, fuori dall'esercizio di attività d'impresa, arte o professione, effettuano acquisti da esercenti mediante l'utilizzo di strumenti di pagamento elettronici; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;strumenti di pagamento elettronici&raquo;: gli strumenti di pagamento nell'ambito di operazioni di acquisto di beni o servizi per il tramite di un dispositivo di accettazione, e precisamente: a) la moneta elettronica di cui all'articolo 1, comma 2, lettera h-ter), del decreto legislativo 1° settembre 1993, n. 385; b) gli strumenti che consentono l'esecuzione di operazioni di pagamento effettuate nell'ambito dei servizi previsti dall'articolo 1, comma 2, lettera h-septies.1), del decreto legislativo 1° settembre 1993, n. 385, inclusi quelli di cui all'articolo 2, comma 2, lettera m), del decreto legislativo 27 gennaio 2010, n. 11; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;esercente&raquo;: il soggetto che svolge attività di vendita di beni e di prestazione di servizi presso il quale sono effettuati acquisti mediante l'utilizzo di strumenti di pagamento elettronici e tramite un acquirer convenzionato; 
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;aderente&raquo;: la persona fisica maggiorenne, residente nel territorio dello Stato, che partecipa al programma; 
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;acquirer convenzionato&raquo;: il soggetto che ha concluso un accordo con l'esercente per l'utilizzo di dispositivi di accettazione e che ha sottoscritto, altresì, una convenzione con la PagoPA S.p.A. per partecipare al programma ovvero Bancomat S.p.A., previa sottoscrizione della convenzione con la PagoPA S.p.A.; 
+ 
+
+ 
+ 
+
+ 
+ f) &laquo;identificativo univoco dell'esercente&raquo; o &laquo;MerchantID&raquo;: il numero che identifica l'esercente univocamente all'interno del sistema dei pagamenti elettronici e in ogni singola operazione di pagamento eseguita in favore dell'esercente; 
+ 
+
+ 
+ 
+
+ 
+ g) &laquo;issuer convenzionato&raquo;: il soggetto che abbia concluso un accordo con il pagatore per la fornitura di uno strumento di pagamento elettronico e che abbia sottoscritto una convenzione con la PagoPA S.p.A. ovvero il soggetto che abbia sottoscritto con la PagoPA S.p.A. una convenzione per potere mettere a disposizione dei propri clienti, in alternativa all'APP IO, un sistema per l'adesione al programma; 
+ 
+
+ 
+ 
+
+ 
+ h) &laquo;sistema cashback&raquo;: il sistema, predisposto e gestito ai sensi del presente decreto dalla società PagoPA S.p.A., nell'ambito della piattaforma tecnologica di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, che raccoglie i dati rilevanti, ai fini della partecipazione al programma, degli aderenti e degli esercenti, definisce la graduatoria e trasmette le informazioni rilevanti all'APP IO e ai sistemi messi a disposizione dagli issuer convenzionati e, ai fini dell'erogazione del rimborso, alla Consap-Concessionaria servizi assicurativi pubblici S.p.A.; 
+ 
+
+ 
+ 
+
+ 
+ i) &laquo;APP IO&raquo;: l'applicazione, prevista all'articolo 64-bis del decreto legislativo del 7 marzo 2005, n. 82, predisposta e gestita da PagoPA S.p.A. in virtù dell'articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, tramite la quale gli aderenti possono partecipare al programma e visualizzare la graduatoria finale; 
+ 
+
+ 
+ 
+
+ 
+ l) &laquo;primary account number&raquo; o &laquo;PAN&raquo;: il numero identificativo di una carta di debito o di credito o prepagata, associato alla stessa fin dalla sua emissione, ovvero l'identificativo univoco dell'aderente che effettua la transazione, nel caso di strumenti di pagamento elettronici che non prevedano il numero identificativo della carta; 
+ 
+
+ 
+ 
+
+ 
+ m) &laquo;codice carta crittografato in modo irreversibile&raquo;: l'oscuramento crittografico non reversibile del PAN (Hashpan); 
+ 
+
+ 
+ 
+
+ 
+ n) &laquo;circuito PagoBancomat&raquo;: il circuito domestico di titolarità di Bancomat S.p.A., operante su carte emesse dai singoli issuer sottoscrittori delle licenze emesse dalla stessa Bancomat S.p.A.; 
+ 
+
+ 
+ 
+
+ 
+ o) &laquo;dispositivo di accettazione&raquo;: il dispositivo fisico che, per il tramite di software e/o applicazioni informatiche, consente il pagamento degli acquisti tramite strumenti di pagamento elettronici; 
+ 
+
+ 
+ 
+
+ 
+ p) &laquo;marca temporale&raquo;: sequenza di caratteri che rappresentano una data e/o un orario per accertare l'effettiva esecuzione di un'operazione di pagamento e che, più precisamente, indica il numero di secondi trascorsi tra la data e/o l'orario dell'operazione di pagamento e una data e/o un orario convenzionale; 
+ 
+
+ 
+ 
+
+ 
+ q) &laquo;MEF&raquo;: il Ministero dell'economia e delle finanze; 
+ 
+
+ 
+ 
+
+ 
+ r) &laquo;SPID&raquo;: il sistema pubblico d'identità digitale di cui all'articolo 64 del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ s) &laquo;CIE&raquo;: il documento d'identità munito di elementi per l'identificazione fisica del titolare, di cui all'articolo 66 del decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ t) &laquo;valutazione di impatto sulla protezione dei dati&raquo;: la valutazione d'impatto di cui all'articolo 35 del regolamento UE 2016/679. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE) 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ 
+ 
+
+ - Si riporta il testo dei commi 288, 289, 289-bis, 289-ter, 290 dell'art. 1 della legge 27 dicembre 2019, n. 160 (Bilancio di previsione dello Stato per l'anno finanziario 2020 e bilancio pluriennale per il triennio 2020-2022 (Legge di bilancio 2020): 
+ 
+
+ &laquo;288. Al fine di incentivare l'utilizzo di strumenti di pagamento elettronici, le persone fisiche maggiorenni residenti nel territorio dello Stato, che, fuori dall'esercizio di attività d'impresa, arte o professione, effettuano abitualmente acquisti con strumenti di pagamento elettronici da soggetti che svolgono attività di vendita di beni e di prestazione di servizi, hanno diritto ad un rimborso in denaro, alle condizioni, nei casi e sulla base dei criteri individuati dal decreto del Ministro dell'economia e delle finanze di cui al comma 289. 
+ 
+
+ 289. Il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del decreto-legge 14 agosto 2020, n. 104, emana uno o più decreti al fine di stabilire le condizioni e le modalità attuative delle disposizioni di cui ai commi 288, 289-bis e 289-ter, inclusi le forme di adesione volontaria e i criteri per l'attribuzione del rimborso, anche in relazione ai volumi ed alla frequenza degli acquisti, gli strumenti di pagamento elettronici e le attività rilevanti ai fini dell'attribuzione del rimborso, nei limiti dello stanziamento di cui al comma 290, fermo restando quanto previsto dai commi 289-bis e 289-ter. 
+ 
+
+ 289-bis. Il Ministero dell'economia e delle finanze utilizza la piattaforma di cui all'art. 5, comma 2, del decreto legislativo del 7 marzo 2005, n. 82, e affida alla società di cui all'art. 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, i servizi di progettazione, realizzazione e gestione del sistema informativo destinato al calcolo del rimborso di cui ai commi 288 e 289. Gli oneri e le spese relative ai predetti servizi, comunque non superiori a 2,2 milioni per l'anno 2020, ed a 3 milioni di euro per ciascuno degli anni 2021 e 2022, sono a carico delle risorse finanziarie di cui al comma 290. 
+ 
+
+ 289-ter. Il Ministero dell'economia e delle finanze affida alla Concessionaria servizi assicurativi pubblici (Consap) Spa le attività di attribuzione ed erogazione dei rimborsi di cui ai commi 288 e 289 nonchè ogni altra attività strumentale e accessoria, ivi inclusa la gestione dei reclami e delle eventuali controversie. Gli oneri e le spese relative ai predetti servizi, comunque non superiori a 1,5 milioni di euro annui per ciascuno degli anni 2021 e 2022, sono a carico delle risorse finanziarie di cui al comma 290. 
+ 
+
+ 290. Al fine di garantire le risorse finanziarie necessarie per l'attribuzione dei rimborsi e le spese per le attività legate all'attuazione della misura di cui ai commi 288 e 289, nello stato di previsione del Ministero dell'economia e delle finanze è stanziato su apposito fondo l'importo annuo di euro 3 miliardi per gli anni 2021 e 2022. Il suddetto importo è integrato con le eventuali maggiori entrate derivanti dall'emersione di base imponibile conseguente all'applicazione della predetta misura, come rilevate dalla Commissione istituita ai sensi dell'art. 10-bis.1, comma 3, della legge 31 dicembre 2009, n. 196.&raquo;. 
+ 
+
+ - Si riporta il testo del comma 2 dell'art. 8 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12 (Disposizioni urgenti in materia di sostegno e semplificazione per le imprese e per la pubblica amministrazione): 
+ 
+
+ &laquo;Art. 8 (Piattaforme digitali). - 1. - 1-quinquies. (Omissis). 
+ 
+
+ 2. Entro 120 giorni dalla data di entrata in vigore del presente decreto, per lo svolgimento delle attività di cui al comma 1, sulla base degli obiettivi indicati con direttiva adottata dal Presidente del Consiglio dei ministri, è costituita una società per azioni interamente partecipata dallo Stato, ai sensi dell'art. 9 del decreto legislativo 19 agosto 2016, n. 175, secondo criteri e modalità individuati con decreto del Presidente del Consiglio dei ministri, utilizzando ai fini della sottoscrizione del capitale sociale iniziale quota parte delle risorse finanziarie già destinate dall'Agenzia per l'Italia digitale per le esigenze della piattaforma di cui al comma 1, secondo procedure definite con decreto del Presidente del Consiglio dei ministri. Le predette risorse finanziarie sono versate, nell'anno 2019, all'entrata del bilancio dello Stato per essere riassegnate allo stato di previsione del Ministero dell'economia e delle finanze e destinate al bilancio autonomo della Presidenza del Consiglio dei ministri. Nello statuto della società sono previste modalità di vigilanza, anche ai fini della verifica degli obiettivi di cui al comma 1, da parte del Presidente del Consiglio dei ministri o del Ministro delegato. 
+ 
+
+ Omissis.&raquo;. 
+ 
+
+ - Si riporta il testo del comma 7 dell'art. 265 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77 (Misure urgenti in materia di salute, Sostegno al lavoro e all'economia, nonchè di politiche sociali connesse all'emergenza epidemiologica da COVID-19): 
+ 
+
+ &laquo;Art. 265 (Disposizioni finanziarie finali). - 1. - 6. (Omissis). 
+ 
+
+ 7. Agli oneri derivanti dagli articoli 1, 2, 5, 14, 15, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 36, 38, 40, 42, 43, 44, 48, 49, 52, 65, 67, 68, 69, 70, 71, 72, 73, 74, 78, 82, 84, 85, 89-bis, 92, 94, 98, 101, 102, 103, 104, 105, 106, 107, 111, 112, 115, 119, 120, 123, 124, 125, 129, 130, 133, 136, 137, 143, 145, 147, 152, 153, 157, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 186, 187, 188, 189, 190, 195, 196, 197, 198, 199, 200, 201, 202, 204, 209, 210, 211, 213-bis, 214, 219, 222, 223, 225, 227, 230, 230-bis, commi 1 e 3, 231, 232, 233, 235, 236, 238, 239, e dai commi 3, 4, 5 e 6 del presente art., con esclusione di quelli che prevedono autonoma copertura, si provvede: 
+ 
+
+ a) quanto a 364,92 milioni di euro per l'anno 2020, a 1.025 milioni di euro per l'anno 2021, a 1.145,5 milioni di euro per l'anno 2022, a 278,53 milioni di euro per l'anno 2023, a 138,83 milioni di euro per l'anno 2024, a 129,97 milioni di euro per l'anno 2025, a 125,47 milioni di euro per l'anno 2026, a 1.080,72 milioni di euro per l'anno 2027, a 329,32 milioni di euro per l'anno 2028, a 325,07 milioni di euro per l'anno 2029, a 301,06 milioni di euro per l'anno 2030, a 105,52 milioni di euro per l'anno 2031 e a 99,82 milioni di euro per l'anno 2032, che aumentano, in termini di fabbisogno e indebitamento netto, a 1.006,27 milioni di euro per l'anno 2020, a 1.450,37 milioni di euro per l'anno 2021 e a 60,62 milioni di euro a decorrere dall'anno 2033, mediante corrispondente utilizzo di quota parte delle maggiori entrate e delle minori spese derivanti dagli articoli 1, 2, 5, 19, 20, 22, 23, 48, 95, 103, 115, 119, 129, 133, 136, 137, 141, 157, 176,211,219, 235,238, 255 e 258; 
+ 
+
+ b) quanto a 3.000 milioni di euro per l'anno 2021, mediante corrispondente riduzione della dotazione del fondo di cui all'art. 1, comma 290, della legge 27 dicembre 2019, n. 160; 
+ 
+
+ c) mediante il ricorso all'indebitamento di cui al comma 1. 
+ 
+
+ (Omissis)&raquo;. 
+ 
+
+ - Si riporta il testo del comma 2 dell'art. 73 del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126 (Misure urgenti per il sostegno e il rilancio dell'economia): 
+ 
+
+ &laquo;Art. 73 (Rifinanziamento cashback - Modifiche alla legge 27 dicembre 2019, n. 160). - 1. Omissis. 
+ 
+
+ 2. La dotazione del fondo di cui all'art. 1, comma 290, della legge 27 dicembre 2019, n. 160, è incrementata di 2,2 milioni di euro per l'anno 2020 e di 1.750 milioni di euro per l'anno 2021. Agli oneri di cui al presente art., pari a 2,2 milioni di euro per l'anno 2020 e a 1.750 milioni di euro per l'anno 2021, si provvede ai sensi dell'art. 114.&raquo;. 
+ 
+
+ - Si riporta il testo del comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della presidenza del Consiglio dei ministri): 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - 1. - 2. Omissis. 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. 
+ 
+
+ Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ 
+
+ Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ Omissis.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo del comma 2 dell'art. 1 del decreto legislativo 1° settembre 1993, n. 385 (Testo unico delle leggi in materia bancaria e creditizia [TUB]): 
+ 
+
+ &laquo;Art. 1 (Definizioni). - 1. (Omissis). 
+ 
+
+ 2. Nel presente decreto legislativo si intendono per: 
+ 
+
+ a) &laquo;banca italiana&raquo;: la banca avente sede legale in Italia; 
+ 
+
+ b) &laquo;banca comunitaria&raquo;: la banca avente sede legale e amministrazione centrale in un medesimo Stato comunitario diverso dall'Italia; 
+ 
+
+ c) &laquo;banca extracomunitaria&raquo;: la banca avente sede legale in uno Stato terzo; 
+ 
+
+ d) &laquo;soggetto significativo&raquo;: i soggetti definiti dall'art. 2, n. 16, del regolamento (UE) n. 468/2014, sui quali la BCE esercita la vigilanza diretta in conformità delle disposizioni del MVU; 
+ 
+
+ d-bis) &laquo;soggetto meno significativo&raquo;: i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d); 
+ 
+
+ e) &laquo;succursale&raquo;: una sede che costituisce una parte, sprovvista di personalità giuridica, di una banca, un istituto di moneta elettronica o un istituto di pagamento, e che effettua direttamente, in tutto o in parte, l'attività a cui la banca o l'istituto è stato autorizzato; 
+ 
+
+ f) &laquo;attività ammesse al mutuo riconoscimento&raquo;: le attività di: 
+ 
+
+ 1) raccolta di depositi o di altri fondi con obbligo di restituzione; 
+ 
+
+ 2) operazioni di prestito (compreso in particolare il credito al consumo, il credito con garanzia ipotecaria, il factoring, le cessioni di credito pro soluto e pro solvendo, il credito commerciale incluso il &laquo;forfaiting&raquo;); 
+ 
+
+ 3) leasing finanziario; 
+ 
+
+ 4) prestazione di servizi di pagamento; 
+ 
+
+ 5) emissione e gestione di mezzi di pagamento (&laquo;travellers cheques&raquo;, lettere di credito), nella misura in cui quest'attività non rientra nel punto 4; 
+ 
+
+ 6) rilascio di garanzie e di impegni di firma; 
+ 
+
+ 7) operazioni per proprio conto o per conto della clientela in: 
+ 
+
+ strumenti di mercato monetario (assegni, cambiali, certificati di deposito, ecc.); 
+ 
+
+ cambi; 
+ 
+
+ strumenti finanziari a termine e opzioni; 
+ 
+
+ contratti su tassi di cambio e tassi d'interesse; 
+ 
+
+ valori mobiliari; 
+ 
+
+ 8) partecipazione alle emissioni di titoli e prestazioni di servizi connessi; 
+ 
+
+ 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonchè consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese; 
+ 
+
+ 10) servizi di intermediazione finanziaria del tipo &laquo;money broking&raquo;; 
+ 
+
+ 11) gestione o consulenza nella gestione di patrimoni; 
+ 
+
+ 12) custodia e amministrazione di valori mobiliari; 
+ 
+
+ 13) servizi di informazione commerciale; 
+ 
+
+ 14) locazione di cassette di sicurezza; 
+ 
+
+ 15) altre attività che, in virtù delle misure di adattamento assunte dalle autorità comunitarie, sono aggiunte all'elenco allegato alla seconda direttiva in materia creditizia del Consiglio delle Comunità europee n. 89/646/CEE del 15 dicembre 1989; 
+ 
+
+ g) &laquo;intermediari finanziari&raquo;: i soggetti iscritti nell'elenco previsto dall'art. 106; 
+ 
+
+ h) &laquo;stretti legami&raquo;: i rapporti tra una banca e un soggetto italiano o estero che: 
+ 
+
+ 1) controlla la banca; 
+ 
+
+ 2) è controllato dalla banca; 
+ 
+
+ 3) è controllato dallo stesso soggetto che controlla la banca; 
+ 
+
+ 4) partecipa al capitale della banca in misura pari almeno al 20% del capitale con diritto di voto; 
+ 
+
+ 5) è partecipato dalla banca in misura pari almeno al 20% del capitale con diritto di voto; 
+ 
+
+ h-bis) &laquo;istituti di moneta elettronica&raquo;: le imprese, diverse dalle banche, che emettono moneta elettronica; 
+ 
+
+ h-bis.1) &laquo;istituti di moneta elettronica comunitari&raquo;: gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
+ 
+
+ h-ter) &laquo;moneta elettronica&raquo;: il valore monetario memorizzato elettronicamente, ivi inclusa la memorizzazione magnetica, rappresentato da un credito nei confronti dell'emittente che sia emesso per effettuare operazioni di pagamento come definite all'art. 1, comma 1, lettera c), del decreto legislativo 27 gennaio 2010, n. 11, e che sia accettato da persone fisiche e giuridiche diverse dall'emittente. Non costituisce moneta elettronica: 
+ 
+
+ 1) il valore monetario memorizzato sugli strumenti previsti dall'art. 2, comma 2, lettera m), del decreto legislativo 27 gennaio 2010, n. 11; 
+ 
+
+ 2) il valore monetario utilizzato per le operazioni di pagamento previste dall'art. 2, comma 2, lettera n), del decreto legislativo 27 gennaio 2010, n. 11; 
+ 
+
+ h-quater) partecipazioni: le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'art. 2351 ultimo comma, del codice civile; 
+ 
+
+ h-quinquies); 
+ 
+
+ h-sexies) &laquo;istituti di pagamento&raquo;: le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento; 
+ 
+
+ h-septies) &laquo;istituti di pagamento comunitari&raquo;: gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
+ 
+
+ h-septies.1) &laquo;servizi di pagamento&raquo;: le seguenti attività: 
+ 
+
+ 1) servizi che permettono di depositare il contante su un conto di pagamento nonchè tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 
+
+ 2) servizi che permettono prelievi in contante da un conto di pagamento nonchè tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 
+
+ 3) esecuzione di operazioni di pagamento, incluso il trasferimento di fondi su un conto di pagamento presso il prestatore di servizi di pagamento dell'utilizzatore o presso un altro prestatore di servizi di pagamento: 
+ 
+
+ 3.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 
+
+ 3.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 
+
+ 3.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 
+
+ 4) esecuzione di operazioni di pagamento quando i fondi rientrano in una linea di credito accordata ad un utilizzatore di servizi di pagamento: 
+ 
+
+ 4.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 
+
+ 4.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 
+
+ 4.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 
+
+ 5) emissione di strumenti di pagamento e/o convenzionamento di operazioni di pagamento; 
+ 
+
+ 6) rimessa di denaro; 
+ 
+
+ 7) servizi di disposizione di ordini di pagamento; 
+ 
+
+ 8) servizi di informazione sui conti; 
+ 
+
+ h-octies); 
+ 
+
+ h-novies) &laquo;personale&raquo;: i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato; 
+ 
+
+ i) &laquo;punto di contatto centrale&raquo;: il soggetto o la struttura designato dalle banche, dagli istituti di moneta elettronica o dagli istituti di pagamento comunitari che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'art. 128-quater. 
+ 
+
+ (Omissis)&raquo; 
+ 
+
+ - Si riporta il testo del comma 2 dell'art. 2 del decreto legislativo 27 gennaio 2010, n. 11 (Attuazione della direttiva 2007/64/CE, relativa ai servizi di pagamento nel mercato interno, recante modifica delle direttive 97/7/CE, 2002/65/CE, 2005/60/CE, 2006/48/CE, e che abroga la direttiva 97/5/CE): 
+ 
+
+ &laquo;Art. 2 (Ambito di applicazione). - 1. (Omissis). 
+ 
+
+ 2. Il presente decreto non si applica nel caso di: 
+ 
+
+ a) operazioni di pagamento effettuate esclusivamente in contante direttamente dal pagatore al beneficiario, senza alcuna intermediazione; 
+ 
+
+ b) operazioni di pagamento dal pagatore al beneficiario effettuate tramite un agente commerciale autorizzato in base a un accordo a negoziare o a concludere la vendita o l'acquisto di beni o servizi a condizione che agisca per conto del solo pagatore o del solo beneficiario oppure qualora l'agente stesso non entri mai in possesso dei fondi dei clienti; 
+ 
+
+ c) trasporto materiale, a titolo professionale, di banconote e monete, ivi compresa la raccolta, il trattamento e la consegna; 
+ 
+
+ d) operazioni di pagamento consistenti nella raccolta e nella consegna di contante, a titolo non professionale, nel quadro di un'attività senza scopo di lucro o a fini di beneficenza; 
+ 
+
+ e) servizi in cui il beneficiario fornisce contante al pagatore nel contesto di un'operazione di pagamento, a seguito di una richiesta esplicita dell'utente immediatamente precedente l'esecuzione dell'operazione di pagamento destinata all'acquisto di beni o servizi, nei limiti eventualmente stabiliti con decreto del Ministro dell'economia e delle finanze da adottarsi, sentita la Banca d'Italia; 
+ 
+
+ f) operazioni di cambio di valuta contante contro contante nell'ambito delle quali i fondi non sono detenuti su un conto di pagamento; 
+ 
+
+ g) operazioni di pagamento basate su uno dei seguenti tipi di documenti cartacei, con i quali viene ordinato al prestatore di servizi di pagamento di mettere dei fondi a disposizione del beneficiario: assegni, titoli cambiari, voucher, traveller's cheque, vaglia postali; 
+ 
+
+ h) operazioni di pagamento realizzate all'interno di un sistema di pagamento o di un sistema di regolamento dei titoli tra agenti di regolamento, controparti centrali, stanze di compensazione e/o banche centrali e altri partecipanti al sistema e prestatori di servizi di pagamento, fatta salva l'applicazione dell'art. 30; 
+ 
+
+ i) operazioni di pagamento collegate all'amministrazione degli strumenti finanziari, compresi i dividendi, le entrate o altre distribuzioni, o ai rimborsi o proventi di cessioni, effettuate dalle persone di cui alla lettera h), ovvero da imprese di investimento, enti creditizi, organismi di investimento collettivo o società di gestione patrimoniale che prestano servizi di investimento ed ogni altra entità autorizzata ad avere la custodia di strumenti finanziari; 
+ 
+
+ l) servizi forniti dai prestatori di servizi tecnici, che supportano la prestazione dei servizi di pagamento, senza mai entrare in possesso dei fondi da trasferire, compresi l'elaborazione e la registrazione di dati, i servizi fiduciari e di protezione dei dati personali, l'autenticazione dei dati e delle entità, la fornitura di reti informatiche e di comunicazione, la fornitura e la manutenzione di terminali e dispositivi utilizzati per i servizi di pagamento; 
+ 
+
+ m) servizi basati su specifici strumenti di pagamento utilizzabili solo in modo limitato, che soddisfino una delle seguenti condizioni: 
+ 
+
+ 1) strumenti che possono essere utilizzati per acquistare beni o servizi solo nei locali dell'emittente o all'interno di una rete limitata di prestatori di servizi vincolati da un accordo commerciale con l'emittente; 
+ 
+
+ 2) strumenti che possono essere utilizzati unicamente per l'acquisto di una gamma molto limitata di beni o servizi; 
+ 
+
+ 3) strumenti che sono regolamentati da un'autorità pubblica nazionale o regionale per specifici scopi sociali o fiscali, per l'acquisto di beni o servizi specifici da fornitori aventi un accordo commerciale con l'emittente e che hanno validità solamente in un unico Stato membro; 
+ 
+
+ n) operazioni di pagamento effettuate da un fornitore di reti o servizi di comunicazione elettronica che, in aggiunta a detti servizi di comunicazione elettronica, consentono a un utente della rete o del servizio di effettuare operazioni di pagamento addebitandole alla relativa fattura o al conto prealimentato dell'utente stesso in essere presso il medesimo fornitore di reti o servizi di comunicazione elettronica, a condizione che il valore di ciascuna operazione di pagamento non superi euro 50 e il valore complessivo delle operazioni stesse non superi euro 300 mensili e che l'operazione di pagamento: 
+ 
+
+ 1) sia diretta all'acquisto di contenuti digitali e servizi a tecnologia vocale; 
+ 
+
+ 2) sia effettuata da o tramite un dispositivo elettronico nel quadro di un'attività di beneficenza, per effettuare erogazioni liberali destinate agli enti del terzo settore di cui all'art. 4 del decreto legislativo 3 luglio 2017, n. 117, che esercitano in via esclusiva o prevalente una o più attività caritatevoli tra quelle di cui all'art. 5 del decreto legislativo 3 luglio 2017, n. 117, individuate con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, da adottarsi ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, sentita la Cabina di regia di cui all'art. 97 del decreto legislativo 3 luglio 2017, n. 117; 
+ 
+
+ 3) sia effettuata da o tramite un dispositivo elettronico per l'acquisto di biglietti relativi esclusivamente alla prestazione di servizi; 
+ 
+
+ o) operazioni di pagamento realizzate tra prestatori di servizi di pagamento, relativi agenti o succursali per proprio conto; 
+ 
+
+ p) operazioni di pagamento tra un'impresa madre e la relativa filiazione, o tra filiazioni della stessa impresa madre, senza alcuna intermediazione da parte di un prestatore di servizi di pagamento diverso da una delle imprese appartenenti al medesimo gruppo; 
+ 
+
+ q) servizi di prelievo di contante forniti da prestatori, tramite sportelli automatici per conto di uno o più emittenti della carta, che non sono parti del contratto quadro con il cliente che preleva denaro da un conto di pagamento, a condizione che detti prestatori non forniscano altri servizi di pagamento. è fatta salva l'applicazione dell'art. 32-quater. 
+ 
+
+ (Omissis)&raquo;. 
+ 
+
+ - Si riporta il testo del comma 2 dell'art. 5 del decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale): 
+ 
+
+ &laquo;Art. 5 (Effettuazione dei pagamenti con modalità informatiche). - 1. (Omissis). 
+ 
+
+ 2. Al fine di dare attuazione al comma 1, la Presidenza del Consiglio dei ministri mette a disposizione, attraverso il Sistema pubblico di connettività, una piattaforma tecnologica per l'interconnessione e l'interoperabilità tra le pubbliche amministrazioni e i prestatori di servizi di pagamento abilitati, al fine di assicurare, attraverso gli strumenti di cui all'art. 64, l'autenticazione dei soggetti interessati all'operazione in tutta la gestione del processo di pagamento. 
+ 
+
+ (Omissis)&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 64-bis del citato decreto legislativo 7 marzo 2005, n. 82: 
+ 
+
+ &laquo;Art. 64 bis (Accesso telematico ai servizi della Pubblica Amministrazione). - 1. I soggetti di cui all'art. 2, comma 2, rendono fruibili i propri servizi in rete, in conformità alle Linee guida, tramite il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica. 
+ 
+
+ 1-bis. Al fine di rendere effettivo il diritto di cui all'art. 7, comma 01, i soggetti di cui all'art. 2, comma 2, i fornitori di identità digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilità tra i diversi sistemi e servizi e con i servizi di cui ai commi 1 e 1-ter, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualità di cui all'art. 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida. 
+ 
+
+ 1-ter. I soggetti di cui all'art. 2, comma 2, lettera a), rendono fruibili i propri servizi in rete tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla società di cui all'art. 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12. 
+ 
+
+ 1-quater. I soggetti di cui all'art. 2, comma 2, lettera a), rendono fruibili tutti i loro servizi anche in modalità digitale e, al fine di attuare il presente articolo, avviano i relativi progetti di trasformazione digitale entro il 28 febbraio 2021. 
+ 
+
+ 1-quinquies. La violazione dell'art. 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.&raquo;. 
+ 
+
+ - Il testo del comma 2 dell'art. 8 del citato decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12 è riportato nelle note alle premesse. 
+ 
+
+ - Si riporta il testo degli articoli 64 e 66 del citato decreto legislativo 7 marzo 2005, n. 82: 
+ 
+
+ &laquo;Art. 64 (Sistema pubblico per la gestione delle identità digitali e modalità di accesso ai servizi erogati in rete dalle pubbliche amministrazioni). - 1. 
+ 
+
+ 2. 
+ 
+
+ 2-bis. Per favorire la diffusione di servizi in rete e agevolare l'accesso agli stessi da parte di cittadini e imprese, anche in mobilità, è istituito, a cura dell'Agenzia per l'Italia digitale, il sistema pubblico per la gestione dell'identità digitale di cittadini e imprese (SPID). 
+ 
+
+ 2-ter. Il sistema SPID è costituito come insieme aperto di soggetti pubblici e privati che, previo accreditamento da parte dell'AgID, secondo modalità definite con il decreto di cui al comma 2-sexies, identificano gli utenti per consentire loro il compimento di attività e l'accesso ai servizi in rete. 
+ 
+
+ 2-quater. L'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, nonchè tramite la carta di identità elettronica. Il sistema SPID è adottato dalle pubbliche amministrazioni nei tempi e secondo le modalità definiti con il decreto di cui al comma 2- sexies. Resta fermo quanto previsto dall'art. 3-bis, comma 01. 
+ 
+
+ 2-quinquies. Ai fini dell'erogazione dei propri servizi in rete, è altresì riconosciuta ai soggetti privati, secondo le modalità definite con il decreto di cui al comma 2-sexies, la facoltà di avvalersi del sistema SPID per la gestione dell'identità digitale dei propri utenti, nonchè la facoltà di avvalersi della carta di identità elettronica. L'adesione al sistema SPID ovvero l'utilizzo della carta di identità elettronica per la verifica dell'accesso ai propri servizi erogati in rete per i quali è richiesto il riconoscimento dell'utente esonera i predetti soggetti da un obbligo generale di sorveglianza delle attività sui propri siti, ai sensi dell'art. 17 del decreto legislativo 9 aprile 2003, n. 70. 
+ 
+
+ 2-sexies. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per l'innovazione tecnologica e del Ministro per la pubblica amministrazione e la semplificazione, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, sono definite le caratteristiche del sistema SPID, anche con riferimento: 
+ 
+
+ a) al modello architetturale e organizzativo del sistema; 
+ 
+
+ b) alle modalità e ai requisiti necessari per l'accreditamento dei gestori dell'identità digitale; 
+ 
+
+ c) agli standard tecnologici e alle soluzioni tecniche e organizzative da adottare anche al fine di garantire l'interoperabilità delle credenziali e degli strumenti di accesso resi disponibili dai gestori dell'identità digitale nei riguardi di cittadini e imprese; 
+ 
+
+ d) alle modalità di adesione da parte di cittadini e imprese in qualità di utenti di servizi in rete; 
+ 
+
+ e) ai tempi e alle modalità di adozione da parte delle pubbliche amministrazioni in qualità di erogatori di servizi in rete; 
+ 
+
+ f ) alle modalità di adesione da parte delle imprese interessate in qualità di erogatori di servizi in rete. 
+ 
+
+ 2-septies. Un atto giuridico può essere posto in essere da un soggetto identificato mediante SPID, nell'ambito di un sistema informatico avente i requisiti fissati nelle regole tecniche adottate ai sensi dell'art. 71, attraverso processi idonei a garantire, in maniera manifesta e inequivoca, l'acquisizione della sua volontà.
+ 
+
+ Restano ferme le disposizioni concernenti il deposito degli atti e dei documenti in via telematica secondo la normativa anche regolamentare in materia di processo telematico. 
+ 
+
+ 2-octies. 
+ 
+
+ 2-nonies. L'accesso di cui al comma 2-quater può avvenire anche con la carta nazionale dei servizi. 
+ 
+
+ 2-decies. Le pubbliche amministrazioni, in qualità di fornitori dei servizi, usufruiscono gratuitamente delle verifiche rese disponibili dai gestori di identità digitali e dai gestori di attributi qualificati. 
+ 
+
+ 2-undecies. I gestori dell'identità digitale accreditati sono iscritti in un apposito elenco pubblico, tenuto da AgID, consultabile anche in via telematica. 
+ 
+
+ 2-duodecies. La verifica dell'identità digitale con livello di garanzia almeno significativo, ai sensi dell'art. 8, paragrafo 2, del regolamento (UE) n. 910/2014 del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'art. 35 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. L'identità digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualità personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche, secondo le modalità stabilite da AgID con Linee guida. 
+ 
+
+ 3. 
+ 
+
+ 3-bis. Con decreto del Presidente del Consiglio dei ministri o del Ministro per la semplificazione e la pubblica amministrazione, è stabilità la data a decorrere dalla quale i soggetti di cui all'art. 2, comma 2, lettere b) e c) utilizzano esclusivamente le identità digitali ai fini dell'identificazione degli utenti dei propri servizi on-line. Fatto salvo quanto previsto dal comma 2-nonies, a decorrere dal 28 febbraio 2021, i soggetti di cui all'art. 2, comma 2, lettera a), utilizzano esclusivamente le identità digitali e la carta di identità elettronica ai fini dell'identificazione dei cittadini che accedono ai propri servizi in rete. Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione è stabilita la data a decorrere dalla quale i soggetti di cui all'art. 2, comma 2, lettera a), utilizzano esclusivamente le identità digitali per consentire l'accesso delle imprese e dei professionisti ai propri servizi in rete.&raquo;. 
+ 
+
+ &laquo;Art. 66 (Carta d'identità elettronica e carta nazionale dei servizi). - 1. Le caratteristiche e le modalità per il rilascio, della carta d'identità elettronica sono definite dal comma 2-bis dell'art. 7-vicies ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43. 
+ 
+
+ 2. Le caratteristiche e le modalità per il rilascio, per la diffusione e l'uso della carta nazionale dei servizi sono definite con uno o più regolamenti, ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, adottati su proposta congiunta dei Ministri per la funzione pubblica e per l'innovazione e le tecnologie, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, nel rispetto dei seguenti principi: 
+ 
+
+ a) all'emissione della carta nazionale dei servizi provvedono, su richiesta del soggetto interessato, le pubbliche amministrazioni che intendono rilasciarla; 
+ 
+
+ b) l'onere economico di produzione e rilascio delle carte nazionale dei servizi è a carico delle singole amministrazioni che le emettono; 
+ 
+
+ c) eventuali indicazioni di carattere individuale connesse all'erogazione dei servizi al cittadino, sono possibili nei limiti di cui al decreto legislativo 30 giugno 2003, n. 196; 
+ 
+
+ d) le pubbliche amministrazioni che erogano servizi in rete devono consentirne l'accesso ai titolari delle carta nazionale dei servizi indipendentemente dall'ente di emissione, che è responsabile del suo rilascio; 
+ 
+
+ e) la carta nazionale dei servizi può essere utilizzata anche per i pagamenti informatici tra soggetti privati e pubbliche amministrazioni, secondo quanto previsto dalla normativa vigente. 
+ 
+
+ 3. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'età prevista dalla legge per il rilascio della carta d'identità elettronica, devono contenere: 
+ 
+
+ a) i dati identificativi della persona; 
+ 
+
+ b) il codice fiscale. 
+ 
+
+ 4. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'età prevista dalla legge per il rilascio della carta d'identità elettronica, possono contenere, a richiesta dell'interessato ove si tratti di dati sensibili: 
+ 
+
+ a) l'indicazione del gruppo sanguigno; 
+ 
+
+ b) le opzioni di carattere sanitario previste dalla legge; 
+ 
+
+ c) i dati biometrici indicati col decreto di cui al comma 1, con esclusione, in ogni caso, del DNA; 
+ 
+
+ d) tutti gli altri dati utili al fine di razionalizzare e semplificare l'azione amministrativa e i servizi resi al cittadino, anche per mezzo dei portali, nel rispetto della normativa in materia di riservatezza; 
+ 
+
+ e) le procedure informatiche e le informazioni che possono o debbono essere conosciute dalla pubblica amministrazione e da altri soggetti, occorrenti per la firma elettronica. 
+ 
+
+ 5. La carta d'identità elettronica e la carta nazionale dei servizi possono essere utilizzate quali strumenti di autenticazione telematica per l'effettuazione di pagamenti tra soggetti privati e pubbliche amministrazioni, secondo le modalità stabilite con le Linee guida, sentiti il Ministro dell'economia e delle finanze e la Banca d'Italia. 
+ 
+
+ 6. Con decreto del Ministro dell'interno, del Ministro per l'innovazione e le tecnologie e del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, sono dettate le regole tecniche e di sicurezza relative alle tecnologie e ai materiali utilizzati per la produzione della carta di identità elettronica, del documento di identità elettronico e della carta nazionale dei servizi, nonchè le modalità di impiego. 
+ 
+
+ 7. Nel rispetto della disciplina generale fissata dai decreti di cui al presente articolo e delle vigenti disposizioni in materia di protezione dei dati personali, le pubbliche amministrazioni, nell'ambito dei rispettivi ordinamenti, possono sperimentare modalità di utilizzazione dei documenti di cui al presente articolo per l'erogazione di ulteriori servizi o utilità. 
+ 
+
+ 8. Le tessere di riconoscimento rilasciate dalle amministrazioni dello Stato ai sensi del decreto del Presidente della Repubblica 28 luglio 1967, n. 851 possono essere realizzate anche con modalità elettroniche, nel rispetto delle Linee guida, e contenere le funzionalità della carta nazionale dei servizi per consentire l'accesso per via telematica ai servizi erogati in rete dalle pubbliche amministrazioni. 
+ 
+
+ 8-bis.&raquo;. 
+ 
+
+ - Il regolamento UE 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) è pubblicato nella GUUE L 119 del 4 maggio 2016.
