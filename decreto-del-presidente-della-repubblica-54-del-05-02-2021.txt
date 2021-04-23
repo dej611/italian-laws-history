@@ -1,0 +1,555 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visto l'articolo 87, quinto comma, della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, recante disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 21 settembre 2019, n. 105, recante disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, e in particolare l'articolo 1, comma 6;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131, recante regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro delle comunicazioni 15 febbraio 2006, recante individuazioni delle prestazioni, eseguite dal Ministero delle comunicazioni per conto terzi, ai sensi dell'articolo 6 del decreto legislativo 30 dicembre 2003, n. 366, pubblicato nella Gazzetta Ufficiale n. 82 del 7 aprile 2006;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 29 del decreto legislativo 7 marzo 2005, n. 82, recante codice dell'amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 24 novembre 1981, n. 689, recante modifiche al sistema penale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 7 agosto 1990, n. 241, recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 7 agosto 2020;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato n. 1664/2020 espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 20 ottobre 2020;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 29 gennaio 2021;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sviluppo economico, di concerto con i Ministri dell'interno, della difesa, dell'economia e delle finanze e per l'innovazione tecnologica e la digitalizzazione;
+
+ 
+
+ Emana
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) decreto-legge: il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133; 
+ 
+
+ 
+ 
+
+ 
+ b) perimetro: il perimetro di sicurezza nazionale cibernetica istituito ai sensi dell'articolo 1, comma 1, del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ c) DPCM: il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131, recante il regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ d) soggetti inclusi nel perimetro: i soggetti di cui all'articolo 1, comma 2, lettera a), del decreto-legge individuati sulla base dei criteri di cui all'articolo 4 del DPCM; 
+ 
+
+ 
+ 
+
+ 
+ e) compromissione: la perdita di sicurezza o di efficacia dello svolgimento di una funzione essenziale dello Stato o di un servizio essenziale, connessa al malfunzionamento, all'interruzione, anche parziali, ovvero all'utilizzo improprio di reti, sistemi informativi e servizi informatici; 
+ 
+
+ 
+ 
+
+ 
+ f) incidente: ogni evento di natura accidentale o intenzionale che determina il malfunzionamento, l'interruzione, anche parziali, ovvero l'utilizzo improprio delle reti, dei sistemi informativi o dei servizi informatici; 
+ 
+
+ 
+ 
+
+ 
+ g) analisi del rischio: un processo che consente di identificare i fattori di rischio di un incidente, valutandone la probabilità e l'impatto potenziale sulla continuità, sulla sicurezza o sulla efficacia della funzione essenziale o del servizio essenziale, e conseguentemente di trattare tale rischio individuando ed implementando idonee misure di sicurezza; 
+ 
+
+ 
+ 
+
+ 
+ h) rete, sistema informativo: 
+ 
+
+ 1) una rete di comunicazione elettronica ai sensi dell'articolo 1, comma 1, lettera dd), del decreto legislativo 1° agosto 2003, n. 259; 
+ 
+
+ 2) qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o più dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali, ivi inclusi i sistemi di controllo industriale; 
+ 
+
+ 3) i dati digitali conservati, trattati, estratti o trasmessi per mezzo di reti o dispositivi di cui ai numeri 1) e 2), per il loro funzionamento, uso, protezione e manutenzione, compresi i programmi di cui al numero 2); 
+ 
+
+ 
+ 
+
+ 
+ i) servizio informatico: un servizio consistente interamente o prevalentemente nel trattamento di informazioni, per mezzo della rete e dei sistemi informativi, ivi incluso quello di cloud computing di cui all'articolo 3, comma 1, lettera aa), del decreto legislativo 18 maggio 2018, n. 65; 
+ 
+
+ 
+ 
+
+ 
+ l) categorie: tipologie di beni, sistemi o servizi ICT destinati ad essere impiegati sui beni ICT di cui all'elenco dell'articolo 7 del DPCM, individuate sulla base di criteri tecnici, la cui acquisizione è subordinata alla valutazione del CVCN; 
+ 
+
+ 
+ 
+
+ 
+ m) oggetto della fornitura: bene, sistema o servizio ICT, appartenente alle categorie, che il soggetto incluso nel perimetro intende acquisire; 
+ 
+
+ 
+ 
+
+ 
+ n) CVCN: il Centro di Valutazione e Certificazione nazionale, istituito presso il Ministero dello sviluppo economico, di cui all'articolo 1, comma 6, lettera a), del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ o) CV: i centri di valutazione del Ministero dell'interno e del Ministero della difesa di cui all'articolo 1, comma 6, lettera a), del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ p) LAP: laboratorio accreditato di prova, indipendente dai soggetti inclusi nel perimetro e dai fornitori, che ha ottenuto l'accreditamento dal CVCN ai sensi dell'articolo 1, comma 7 del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ q) oggetto della valutazione: l'oggetto della fornitura di beni, sistemi o servizi ICT, sottoposto al procedimento di valutazione da parte del CVCN o dei CV; 
+ 
+
+ 
+ 
+
+ 
+ r) centrali di committenza: Consip S.p.A. e i soggetti aggregatori ai fini della realizzazione degli strumenti di cui all'articolo 1, comma 512, della legge 28 dicembre 2015, n. 208, nonchè la società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nell'ambito individuato dall'articolo 31, comma 5, del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120; 
+ 
+
+ 
+ 
+
+ 
+ s) fornitore: persona fisica o giuridica che fornisce l'oggetto della fornitura di beni, sistemi o servizi ICT, destinato alle reti, ai sistemi informativi e ai servizi informatici di cui all'articolo 1, comma 2, lettera b), del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ t) evidenze: documenti, registrazioni, dati, constatazioni, dichiarazioni di fatti, reportistica, attività, procedure, o altre informazioni utili ad attestare l'adempimento degli obblighi previsti dal decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ u) verifica: attività di analisi e controllo documentale delle evidenze al fine di accertare l'adempimento degli obblighi previsti dal decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ v) ispezione: attività di tipo ricognitivo e valutativo che si articola nell'analisi, rilevazione, acquisizione e verifica di conformità di elementi di fatto e di diritto utili ad accertare l'adempimento degli obblighi previsti dal decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ z) autorità competenti: le autorità che, ai sensi dell'articolo 1, comma 6, lettera c), del decreto-legge, dispongono ed effettuano verifiche e ispezioni; 
+ 
+
+ 
+ 
+
+ 
+ aa) personale incaricato: il personale incaricato dalle Autorità competenti dello svolgimento delle verifiche e delle ispezioni. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ NOTE 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ 
+ 
+
+ - L'art. 87 della Costituzione conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
+ 
+
+ - Si riporta il testo dell'art. 17 della legge 23 agosto 1988, n. 400 &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri&raquo;: 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
+ 
+
+ a) l'esecuzione delle leggi e dei decreti legislativi, nonchè dei regolamenti comunitari; 
+ 
+
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
+ 
+
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
+ 
+
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge; 
+ 
+
+ e). 
+ 
+
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potestà regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari. 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ 
+
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono: 
+ 
+
+ a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione; 
+ 
+
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilità eliminando le duplicazioni funzionali; 
+ 
+
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati; 
+ 
+
+ d) indicazione e revisione periodica della consistenza delle piante organiche; 
+ 
+
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unità dirigenziali nell'ambito degli uffici dirigenziali generali. 
+ 
+
+ 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 6 del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133 &laquo;Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica.&raquo;: 
+ 
+
+ &laquo;Art. 1 (Perimetro di sicurezza nazionale cibernetica). - (Omissis). 
+ 
+
+ 6. Con regolamento, adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, sono disciplinati le procedure, le modalità e i termini con cui: 
+ 
+
+ a) i soggetti di cui al comma 2-bis, che intendano procedere, anche per il tramite delle centrali di committenza alle quali essi sono tenuti a fare ricorso ai sensi dell'articolo 1, comma 512, della legge 28 dicembre 2015, n. 208, all'affidamento di forniture di beni, sistemi e servizi ICT destinati a essere impiegati sulle reti, sui sistemi informativi e per l'espletamento dei servizi informatici di cui al comma 2, lettera b), appartenenti a categorie individuate, sulla base di criteri di natura tecnica, con decreto del Presidente del Consiglio dei ministri, da adottare entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, ne danno comunicazione al Centro di valutazione e certificazione nazionale (CVCN), istituito presso il Ministero dello sviluppo economico; la comunicazione comprende anche la valutazione del rischio associato all'oggetto della fornitura, anche in relazione all'ambito di impiego. Entro quarantacinque giorni dalla ricezione della comunicazione, prorogabili di quindici giorni, una sola volta, in caso di particolare complessità, il CVCN può effettuare verifiche preliminari ed imporre condizioni e test di hardware e software da compiere anche in collaborazione con i soggetti di cui al comma 2-bis, secondo un approccio gradualmente crescente nelle verifiche di sicurezza. Decorso il termine di cui al precedente periodo senza che il CVCN si sia pronunciato, i soggetti che hanno effettuato la comunicazione possono proseguire nella procedura di affidamento. In caso di imposizione di condizioni e test di hardware e software, i relativi bandi di gara e contratti sono integrati con clausole che condizionano, sospensivamente ovvero risolutivamente, il contratto al rispetto delle condizioni e all'esito favorevole dei test disposti dal CVCN. I test devono essere conclusi nel termine di sessanta giorni. Decorso il termine di cui al precedente periodo, i soggetti che hanno effettuato la comunicazione possono proseguire nella procedura di affidamento. In relazione alla specificità delle forniture di beni, sistemi e servizi ICT da impiegare su reti, sistemi informativi e servizi informatici del Ministero dell'interno e del Ministero della difesa, individuati ai sensi del comma 2, lettera b), i predetti Ministeri, nell'ambito delle risorse umane e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica, in coerenza con quanto previsto dal presente decreto, possono procedere, con le medesime modalità e i medesimi termini previsti dai periodi precedenti, attraverso la comunicazione ai propri Centri di valutazione accreditati per le attività di cui al presente decreto, ai sensi del comma 7, lettera b), che impiegano le metodologie di verifica e di test definite dal CVCN. Per tali casi i predetti Centri informano il CVCN con le modalità stabilite con il decreto del Presidente del Consiglio dei ministri, di cui al comma 7, lettera b). Non sono oggetto di comunicazione gli affidamenti delle forniture di beni, sistemi e servizi ICT destinate alle reti, ai sistemi informativi e ai servizi informatici per lo svolgimento delle attività di prevenzione, accertamento e repressione dei reati e i casi di deroga stabiliti dal medesimo regolamento con riguardo alle forniture di beni, sistemi e servizi ICT per le quali sia indispensabile procedere in sede estera, fermo restando, in entrambi i casi, l'utilizzo di beni, sistemi e servizi ICT conformi ai livelli di sicurezza di cui al comma 3, lettera b), salvo motivate esigenze connesse agli specifici impieghi cui essi sono destinati; 
+ 
+
+ b) i soggetti individuati quali fornitori di beni, sistemi e servizi destinati alle reti, ai sistemi informativi e ai servizi informatici di cui al comma 2, lettera b), assicurano al CVCN e, limitatamente agli ambiti di specifica competenza, ai Centri di valutazione operanti presso i Ministeri dell'interno e della difesa, di cui alla lettera a) del presente comma, la propria collaborazione per l'effettuazione delle attività di test di cui alla lettera a) del presente comma, sostenendone gli oneri; il CVCN segnala la mancata collaborazione al Ministero dello sviluppo economico, in caso di fornitura destinata a soggetti privati, o alla Presidenza del Consiglio dei ministri, in caso di fornitura destinata a soggetti pubblici ovvero a quelli di cui all'articolo 29 del codice di cui al decreto legislativo 7 marzo 2005, n. 82; sono inoltrate altresì alla Presidenza del Consiglio dei ministri le analoghe segnalazioni dei Centri di valutazione dei Ministeri dell'interno e della difesa, di cui alla lettera a); 
+ 
+
+ c) la Presidenza del Consiglio dei ministri, per i profili di pertinenza dei soggetti pubblici e di quelli di cui all'articolo 29 del codice dell'Amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, di cui al comma 2-bis, e il Ministero dello sviluppo economico, per i soggetti privati di cui al medesimo comma, svolgono attività di ispezione e verifica in relazione a quanto previsto dal comma 2, lettera b), dal comma 3, dal presente comma e dal comma 7, lettera b), impartendo, se necessario, specifiche prescrizioni; nello svolgimento delle predette attività di ispezione e verifica l'accesso, se necessario, a dati o metadati personali e amministrativi è effettuato in conformità a quanto previsto dal regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e dal codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196; per le reti, i sistemi informativi e i servizi informatici di cui al comma 2, lettera b), connessi alla funzione di prevenzione e repressione dei reati, alla tutela dell'ordine e della sicurezza pubblica, alla difesa civile e alla difesa e sicurezza militare dello Stato, le attività di ispezione e verifica sono svolte, nell'ambito delle risorse umane e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica, dalle strutture specializzate in tema di protezione di reti e sistemi, nonchè, nei casi in cui siano espressamente previste dalla legge, in tema di prevenzione e di contrasto del crimine informatico, delle amministrazioni da cui dipendono le Forze di polizia e le Forze armate, che ne comunicano gli esiti alla Presidenza del Consiglio dei ministri per i profili di competenza.&raquo;. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131 &laquo;Regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133&raquo;, è pubblicato nella Gazzetta Ufficiale n. 261 del 21 ottobre 2020. 
+ 
+
+ - Il decreto del Ministro delle comunicazioni 15 febbraio 2006 &laquo;Individuazioni delle prestazioni, eseguite dal Ministero delle comunicazioni per conto terzi, ai sensi dell'articolo 6 del decreto legislativo 30 dicembre 2003, n. 366&raquo;, è pubblicato nella Gazzetta Ufficiale n. 82 del 7 aprile 2006. 
+ 
+
+ - Si riporta il testo dell'art. 29 del decreto legislativo 7 marzo 2005, n. 82 &laquo;Codice dell'amministrazione digitale&raquo;: 
+ 
+
+ &laquo;Art. 29 (Qualificazione dei fornitori di servizi). - 1. I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l'attività di gestore di posta elettronica certificata presentano all'AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. 
+ 
+
+ 2. Ai fini della qualificazione, i soggetti di cui al comma 1 devono possedere i requisiti di cui all'articolo 24 del Regolamento (UE) 23 luglio 2014, n. 910/2014, disporre di requisiti di onorabilità, affidabilità, tecnologici e organizzativi compatibili con la disciplina europea, nonchè di garanzie assicurative adeguate rispetto all'attività svolta. Con decreto del Presidente del Consiglio dei ministri, o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, sentita l'AgID, nel rispetto della disciplina europea, sono definiti i predetti requisiti in relazione alla specifica attività che i soggetti di cui al comma 1 intendono svolgere. Il predetto decreto determina altresì i criteri per la fissazione delle tariffe dovute all'AgID per lo svolgimento delle predette attività, nonchè i requisiti e le condizioni per lo svolgimento delle attività di cui al comma 1 da parte di amministrazioni pubbliche. 
+ 
+
+ 3. 
+ 
+
+ 4. La domanda di qualificazione si considera accolta qualora non venga comunicato all'interessato il provvedimento di diniego entro novanta giorni dalla data di presentazione della stessa. 
+ 
+
+ 5. Il termine di cui al comma 4, può essere sospeso una sola volta entro trenta giorni dalla data di presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano già nella disponibilità di AgID o che questo non possa acquisire autonomamente. In tale caso, il termine riprende a decorrere dalla data di ricezione della documentazione integrativa. 
+ 
+
+ 6. A seguito dell'accoglimento della domanda, AgID dispone l'iscrizione del richiedente in un apposito elenco di fiducia pubblico, tenuto da AgID stesso e consultabile anche in via telematica, ai fini dell'applicazione della disciplina in questione. 
+ 
+
+ 7. - 8. 
+ 
+
+ 9. Alle attività previste dal presente articolo si fa fronte nell'ambito delle risorse di AgID, senza nuovi o maggiori oneri per la finanza pubblica.&raquo;. 
+ 
+
+ - La legge 24 novembre 1981, n. 689 &laquo;Modifiche al sistema penale&raquo;, è pubblicata nella Gazzetta Ufficiale n. 329 del 30 novembre 1981, S.O. 
+ 
+
+ - La legge 7 agosto 1990, n. 241 &laquo;Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi&raquo;, è pubblicata nella Gazzetta Ufficiale n. 192 del 18 agosto 1990. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per il riferimento al decreto-legge 21 settembre 2019, n. 105, convertito con modificazioni, dalla legge 18 novembre 2019, n. 133, si veda nelle note alle premesse. 
+ 
+
+ - Per il riferimento al decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131, si veda nelle note alle premesse. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 2, lett. a), del citato decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133: 
+ 
+
+ &laquo;Art. 1 (Perimetro di sicurezza nazionale cibernetica). - (Omissis). 
+ 
+
+ 2. Entro quattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Comitato interministeriale per la sicurezza della Repubblica (CISR): 
+ 
+
+ a) sono definiti modalità e criteri procedurali di individuazione di amministrazioni pubbliche, enti e operatori pubblici e privati di cui al comma 1 aventi una sede nel territorio nazionale, inclusi nel perimetro di sicurezza nazionale cibernetica e tenuti al rispetto delle misure e degli obblighi previsti dal presente articolo; ai fini dell'individuazione, fermo restando che per gli Organismi di informazione per la sicurezza si applicano le norme previste dalla legge 3 agosto 2007, n. 124, si procede sulla base dei seguenti criteri: 
+ 
+
+ 1) il soggetto esercita una funzione essenziale dello Stato, ovvero assicura un servizio essenziale per il mantenimento di attività civili, sociali o economiche fondamentali per gli interessi dello Stato; 
+ 
+
+ 2) l'esercizio di tale funzione o la prestazione di tale servizio dipende da reti, sistemi informativi e servizi informatici; 
+ 
+
+ 2-bis) l'individuazione avviene sulla base di un criterio di gradualità, tenendo conto dell'entità del pregiudizio per la sicurezza nazionale che, in relazione alle specificità dei diversi settori di attività, può derivare dal malfunzionamento, dall'interruzione, anche parziali, ovvero dall'utilizzo improprio delle reti, dei sistemi informativi e dei servizi informatici predetti; 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 1, lett. dd), del decreto legislativo 1° agosto 2003, n. 259 &laquo;Codice delle comunicazioni elettroniche&raquo;: 
+ 
+
+ &laquo;Art. 1 (Definizioni). - 1. Ai fini del presente Codice si intende per: 
+ 
+
+ (Omissis). 
+ 
+
+ dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 3, comma 1, lett. aa), del decreto legislativo 18 maggio 2018, n. 65 &laquo;Attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione&raquo;: 
+ 
+
+ &laquo;Art. 3 (Definizioni). - 1. Ai fini del presente decreto si intende per: 
+ 
+
+ (Omissis). 
+ 
+
+ aa) servizio di cloud computing, un servizio digitale che consente l'accesso a un insieme scalabile ed elastico di risorse informatiche condivisibili.&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 7, del citato decreto-legge 21 settembre 2019, n. 105, convertito con modificazioni, dalla legge 18 novembre 2019, n. 133: 
+ 
+
+ &laquo;Art. 1 (Perimetro di sicurezza nazionale cibernetica). - (Omissis). 
+ 
+
+ 7. Nell'ambito dell'approvvigionamento di prodotti, processi, servizi ICT e associate infrastrutture destinati alle reti, ai sistemi informativi e per l'espletamento dei servizi informatici di cui al comma 2, lettera b), il CVCN assume i seguenti compiti: 
+ 
+
+ a) contribuisce all'elaborazione delle misure di sicurezza di cui al comma 3, lettera b), per ciò che concerne l'affidamento di forniture di beni, sistemi e servizi ICT; 
+ 
+
+ b) ai fini della verifica delle condizioni di sicurezza e dell'assenza di vulnerabilità note, anche in relazione all'ambito di impiego, definisce le metodologie di verifica e di test e svolge le attività di cui al comma 6, lettera a), dettando, se del caso, anche prescrizioni di utilizzo al committente; a tali fini il CVCN si avvale anche di laboratori dallo stesso accreditati secondo criteri stabiliti da un decreto del Presidente del Consiglio dei ministri, adottato entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, su proposta del CISR, impiegando, per le esigenze delle amministrazioni centrali dello Stato, quelli eventualmente istituiti, senza nuovi o maggiori oneri a carico della finanza pubblica, presso le medesime amministrazioni. Con lo stesso decreto sono altresì stabiliti i raccordi, ivi compresi i contenuti, le modalità e i termini delle comunicazioni, tra il CVCN e i predetti laboratori, nonchè tra il medesimo CVCN e i Centri di valutazione del Ministero dell'interno e del Ministero della difesa, di cui al comma 6, lettera a), anche la fine di assicurare il coordinamento delle rispettive attività e perseguire la convergenza e la non duplicazione delle valutazioni in presenza di medesimi condizioni e livelli di rischio; 
+ 
+
+ c) elabora e adotta, previo conforme avviso dell'organismo tecnico di supporto al CISR, schemi di certificazione cibernetica, tenendo conto degli standard definiti a livello internazionale e dell'Unione europea, laddove, per ragioni di sicurezza nazionale, gli schemi di certificazione esistenti non siano ritenuti adeguati alle esigenze di tutela del perimetro di sicurezza nazionale cibernetica.&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 512, della legge 28 dicembre 2015, n. 208 &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2016)&raquo;: 
+ 
+
+ &laquo;Art. 1. - 512. Al fine di garantire l'ottimizzazione e la razionalizzazione degli acquisti di beni e servizi informatici e di connettività, fermi restando gli obblighi di acquisizione centralizzata previsti per i beni e servizi dalla normativa vigente, le amministrazioni pubbliche e le società inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'articolo 1 della legge 31 dicembre 2009, n. 196, provvedono ai propri approvvigionamenti esclusivamente tramite gli strumenti di acquisto e di negoziazione di Consip Spa o dei soggetti aggregatori, ivi comprese le centrali di committenza regionali, per i beni e i servizi disponibili presso gli stessi soggetti. Le regioni sono autorizzate ad assumere personale strettamente necessario ad assicurare la piena funzionalità dei soggetti aggregatori di cui all'articolo 9 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, in deroga ai vincoli assunzionali previsti dalla normativa vigente, nei limiti del finanziamento derivante dal Fondo di cui al comma 9 del medesimo articolo 9 del decreto-legge n. 66 del 2014. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 &laquo;Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria&raquo;: 
+ 
+
+ &laquo;Art. 83 (Efficienza dell'Amministrazione finanziaria). - (Omissis). 
+ 
+
+ 15. Al fine di garantire la continuità delle funzioni di controllo e monitoraggio dei dati fiscali e finanziari, i diritti dell'azionista della società di gestione del sistema informativo dell'amministrazione finanziaria ai sensi dell'articolo 22, comma 4, della legge 30 dicembre 1991, n. 413, sono esercitati dal Ministero dell'economia e delle finanze ai sensi dell'articolo 6, comma 7, del regolamento di cui al decreto del Presidente della Repubblica 30 gennaio 2008, n. 43, che provvede agli atti conseguenti in base alla legislazione vigente. Sono abrogate tutte le disposizioni incompatibili con il presente comma. Il consiglio di amministrazione, composto di cinque componenti, è conseguentemente rinnovato entro il 30 giugno 2008 senza applicazione dell'articolo 2383, terzo comma, del codice civile. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 31, comma 5, del decreto legge 16 luglio 2020, n. 76, convertito nella legge 11 settembre 2020, n. 120 &laquo;Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria&raquo;: 
+ 
+
+ &laquo;Art. 31 (Semplificazione dei sistemi informativi delle pubbliche amministrazioni e dell'attività di coordinamento nell'attuazione della strategia digitale e in materia di perimetro di sicurezza nazionale cibernetica). - (Omissis). 
+ 
+
+ 5. Per assicurare la piena efficacia dei progetti di trasformazione digitale la società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nell'ambito dei progetti e delle attività da essa gestiti, provvede alla definizione e allo sviluppo di servizi e prodotti innovativi operando, anche in favore delle amministrazioni committenti, in qualità di innovation procurement broker. In tale ambito, per l'acquisizione dei beni e dei servizi funzionali alla realizzazione di progetti ad alto contenuto innovativo, la medesima società non si avvale di Consip S.p.A. nella sua qualità di centrale di committenza, in deroga all'ultimo periodo dell'articolo 4, comma 3-ter, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'art. 1, comma 2, lett. b), del citato decreto-legge 21 settembre 2019, n. 105, convertito con modificazioni, dalla legge 18 novembre 2019, n. 133: 
+ 
+
+ &laquo;Art. 1 (Perimetro di sicurezza nazionale cibernetica). - (Omissis). 
+ 
+
+ 2. Entro quattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Comitato interministeriale per la sicurezza della Repubblica (CISR): 
+ 
+
+ (Omissis); 
+ 
+
+ b) sono definiti, sulla base di un'analisi del rischio e di un criterio di gradualità che tenga conto delle specificità dei diversi settori di attività, i criteri con i quali i soggetti di cui al comma 2-bis predispongono e aggiornano con cadenza almeno annuale un elenco delle reti, dei sistemi informativi e dei servizi informatici di cui al comma 1, di rispettiva pertinenza, comprensivo della relativa architettura e componentistica, fermo restando che, per le reti, i sistemi informativi e i servizi informatici attinenti alla gestione delle informazioni classificate, si applica quanto previsto dal regolamento adottato ai sensi dell'articolo 4, comma 3, lettera l), della legge 3 agosto 2007, n. 124; all'elaborazione di tali criteri provvede, adottando opportuni moduli organizzativi, l'organismo tecnico di supporto al CISR, integrato con un rappresentante della Presidenza del Consiglio dei ministri; entro sei mesi dalla data della comunicazione, prevista dal comma 2-bis, a ciascuno dei soggetti iscritti nell'elenco di cui al medesimo comma, i soggetti pubblici e quelli di cui all'articolo 29 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, nonchè quelli privati, di cui al comma 2-bis trasmettono tali elenchi, rispettivamente, alla Presidenza del Consiglio dei ministri e al Ministero dello sviluppo economico; la Presidenza del Consiglio dei ministri e il Ministero dello sviluppo economico inoltrano gli elenchi di rispettiva pertinenza al Dipartimento delle informazioni per la sicurezza, anche per le attività di prevenzione, preparazione e gestione di crisi cibernetiche affidate al Nucleo per la sicurezza cibernetica, nonchè all'organo del Ministero dell'interno per la sicurezza e la regolarità dei servizi di telecomunicazione di cui all'articolo 7-bis del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155.&raquo;.
