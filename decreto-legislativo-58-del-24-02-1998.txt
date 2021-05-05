@@ -287,6 +287,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760; 
  
 
+ 
+ ((m-octies.2) "fondo comune monetario" (FCM): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) 2017/1131;))
+
+ 
+ 
+
  m-novies) 'Oicr feeder': l'Oicr che investe le proprie attività totalmente o in prevalenza nell'Oicr master; 
  
 
@@ -341,7 +347,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF e il gestore di ELTIF. 
+ q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF 
+ ((, il gestore di ELTIF e il gestore di FCM))
+
+ . 
  
 
  q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
@@ -489,16 +498,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  4-bis) gli emittenti di cui ai numeri 3) e 4) i cui valori mobiliari non sono più ammessi alla negoziazione in un mercato regolamentato dello Stato membro d'origine, ma sono stati ammessi alla negoziazione in un mercato regolamentato italiano o di altri Stati membri e, se del caso, aventi sede legale in Italia oppure che hanno scelto l'Italia come nuovo Stato membro d'origine; 
  
 
- w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, 
- ((...))
-
- che abbiano una capitalizzazione di mercato inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato 
- ((tale limite))
-
- per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalità informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob 
- ((...))
-
- pubblica l'elenco delle PMI tramite il proprio sito internet. 
+ w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano una capitalizzazione di mercato inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato tale limite per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalità informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob pubblica l'elenco delle PMI tramite il proprio sito internet. 
  
 
  
