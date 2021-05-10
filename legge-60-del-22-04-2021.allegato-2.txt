@@ -1,0 +1,959 @@
+Preambolo 
+ 
+
+ Gli Stati membri del Consiglio d'Europa e le Altre Parti della Convenzione per la protezione delle persone rispetto al trattamento automatizzato di dati personali (STE n° 108), aperta alla firma a Strasburgo il 28 gennaio 1981 (di seguito denominata "la Convenzione"). 
+ 
+
+ Vista la risoluzione n. 3 sulla protezione dei dati e la privacy nel terzo millennio adottata dalla 30&ordf; Conferenza dei Ministri della Giustizia del Consiglio d'Europa (Istanbul, Turchia, 24-26 novembre 2010); 
+ 
+
+ Vista la Risoluzione 1843 (2011) dell'Assemblea parlamentare del Consiglio d'Europa sulla protezione della vita privata e dei dati personali su Internet e i media online e la Risoluzione 1986 (2014) sul miglioramento della protezione degli utenti e della sicurezza nel ciberspazio; 
+ 
+
+ Visto il parere 296 (2017) sul progetto di Protocollo che modifica la Convenzione per la protezione delle persone rispetto al trattamento automatizzato di dati personali (STE n. 108) e la sua motivazione, adottata dal Comitato permanente a nome dell'Assemblea parlamentare del Consiglio d'Europa il 24 novembre 2017; 
+ 
+
+ Considerando che sono emerse nuove sfide alla protezione delle persone rispetto al trattamento dei dati personali da quando è stata adottata la Convenzione; 
+ 
+
+ Considerando la necessità di garantire che la Convenzione continui a svolgere il suo ruolo preminente nella protezione delle persone in relazione al trattamento dei dati personali e, più in generale, nella protezione dei diritti umani e delle libertà fondamentali, 
+ 
+
+ Hanno convenuto quanto segue: 
+ 
+
+ 
+ 
+
+ Articolo 1 
+ 
+
+ 
+ 
+
+ 1 Il primo considerando del Preambolo della Convenzione è sostituito dal seguente: 
+ 
+
+ "Gli Stati membri del Consiglio d'Europa e gli altri firmatari della presente Convenzione," 
+ 
+
+ 2 Il terzo considerando del preambolo della Convenzione è sostituito dal seguente: 
+ 
+
+ "Considerando che è necessario garantire la dignità umana e la protezione dei diritti umani e delle libertà fondamentali di ogni individuo e, data la diversificazione, l'intensificazione e la globalizzazione del trattamento dei dati e dei flussi di dati personali, l'autonomia personale basata sul diritto di una persona di controllare il suo o i suoi dati personali e il trattamento di tali dati; " 
+ 
+
+ 3. Il quarto considerando del preambolo della Convenzione è sostituito dal seguente: 
+ 
+
+ "Ricordando che il diritto alla protezione dei dati personali deve essere considerato in relazione al suo ruolo nella società e che deve essere riconciliato con altri diritti umani e libertà fondamentali, compresa la libertà di espressione;" 
+ 
+
+ 4 Il seguente considerando è aggiunto dopo il quarto considerando del preambolo della Convenzione: 
+ 
+
+ "Considerando che la presente Convenzione consente di prendere in considerazione, nell'attuazione delle norme ivi stabilite, il principio del diritto di accesso ai documenti ufficiali;" 
+ 
+
+ 5 Il quinto considerando del preambolo della Convenzione è soppresso. 
+ 
+
+ Sono aggiunti il nuovo quinto e il sesto considerando, che recitano come segue: 
+ 
+
+ "Riconoscendo che è necessario promuovere a livello globale i valori fondamentali del rispetto della privacy e della protezione dei dati personali, contribuendo così al libero flusso di informazioni tra le persone"; 
+ 
+
+ "Riconoscendo l'interesse di un rafforzamento della cooperazione internazionale tra le parti della Convenzione,"
+Articolo 2 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 1 della Convenzione è sostituito dal seguente 
+ 
+
+ "Lo scopo di questa Convenzione è proteggere ogni individuo, indipendentemente dalla sua nazionalità o residenza, in relazione al trattamento dei suoi dati personali, contribuendo in tal modo al rispetto dei suoi diritti umani e delle sue libertà fondamentali, in particolare del diritto alla privacy".
+Articolo 3 
+ 
+
+ 
+ 
+
+ 1 La lettera b dell'articolo 2 della Convenzione è sostituita dalla seguente: 
+ 
+
+ "b "trattamento dei dati " significa qualsiasi operazione o insieme di operazioni eseguite su dati personali, quali raccolta, conservazione, alterazione, reperimento, divulgazione, messa a disposizione, cancellazione o distruzione, oppure esecuzione di logiche e/ o operazioni aritmetiche su tali dati;" 
+ 
+
+ 2 La lettera c dell'articolo 2 della Convenzione è sostituita dalla seguente: 
+ 
+
+ "c dove non viene utilizzato il trattamento automatizzato," elaborazione dei dati " significa un'operazione o una serie di operazioni eseguite su dati personali all'interno di un insieme strutturato di tali dati che sono accessibili o recuperabili in base a criteri specifici;" 
+ 
+
+ 3 La lettera d dell'articolo 2 della Convenzione è sostituita dalla seguente: 
+ 
+
+ "d "titolare del trattamento": una persona fisica o giuridica, un'autorità pubblica, un servizio, un'agenzia o qualsiasi altro organismo che, da solo o congiuntamente ad altri, ha potere decisionale in relazione al trattamento dei dati; " 
+ 
+
+ 4 Dopo la lettera d dell'articolo 2 della Convenzione sono aggiunte le seguenti nuove lettere: 
+ 
+
+ "e destinatario ": una persona fisica o giuridica, un'autorità pubblica, un servizio, un'agenzia o qualsiasi altro organismo a cui i dati sono comunicati o resi disponibili; 
+ 
+
+ f "responsabile": una persona fisica o giuridica, un'autorità pubblica, un servizio, un'agenzia o qualsiasi altro organismo che tratta dati personali per conto del titolare del trattamento."
+Articolo 4 
+ 
+
+ 
+ 
+
+ 1 Il paragrafo 1 dell'articolo 3 della Convenzione è sostituito dal seguente: 
+ 
+
+ "1 Ciascuna delle Parti si impegna ad applicare la presente Convenzione al trattamento dei dati soggetti alla sua giurisdizione nei settori pubblico e privato, garantendo in tal modo il diritto di ogni individuo alla protezione dei propri dati personali." 
+ 
+
+ 2 Il paragrafo 2 dell'articolo 3 della Convenzione è sostituito dal seguente: 
+ 
+
+ "2 La presente Convenzione non si applica al trattamento di dati effettuato da una persona nel corso di attività puramente personali o domestiche." 
+ 
+
+ 3 I paragrafi da 3 a 6 dell'articolo 3 della Convenzione sono soppressi.
+Articolo 5 
+ 
+
+ 
+ 
+
+ Il Titolo del Capo II della Convenzione è sostituito dal seguente: 
+ 
+
+ "Capitolo II - Principi di base per la protezione dei dati personali".
+Articolo 6 
+ 
+
+ 
+ 
+
+ 1 Il paragrafo 1 dell'articolo 4 della Convenzione è sostituito dal seguente: 
+ 
+
+ "1 Ciascuna delle Parti adotta le misure necessarie per dare attuazione alle disposizioni della presente Convenzione e garantirne l'effettiva applicazione." 
+ 
+
+ 2 Il paragrafo 2 dell'articolo 4 della Convenzione è sostituito dal seguente: 
+ 
+
+ "2 Queste misure saranno prese da ciascuna delle Parti ed entreranno in vigore al momento della ratifica o dell'adesione alla presente Convenzione." 
+ 
+
+ 3 Un nuovo paragrafo è aggiunto dopo il paragrafo 2 dell'articolo 4 della Convenzione: 
+ 
+
+ "3 Ciascuna parte si impegna a: 
+ 
+
+ a consentire al Comitato della Convenzione di cui al Capo VI di valutare l'efficacia delle misure che ha adottato nella sua legislazione per attuare le disposizioni della presente Convenzione; e 
+ 
+
+ b contribuire attivamente a questo processo di valutazione".
+Articolo 7 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 5 è sostituito dal seguente: 
+ 
+
+ "Articolo 5 - Legittimità dell'elaborazione dei dati e qualità dei dati". 
+ 
+
+ 2 Il testo dell'articolo 5 della Convenzione è sostituito dal seguente: 
+ 
+
+ "1 Il trattamento dei dati deve essere proporzionato allo scopo legittimo perseguito e deve riflettere in tutte le fasi del trattamento un giusto equilibrio tra tutti gli interessi in questione, siano essi pubblici o privati, e i diritti e le libertà in gioco. 
+ 
+
+ 2 Ciascuna Parte dispone che il trattamento dei dati non può essere effettuato che sulla base del consenso libero, specifico, informato e inequivocabile dell'interessato o di un altro fondamento legittimo previsto a dalla legge. 
+ 
+
+ 3 I dati personali sottoposti a trattamento devono essere trattati in modo lecito. 
+ 
+
+ 4 I dati personali oggetto di trattamento devono essere: 
+ 
+
+ a elaborati correttamente ed in modo trasparente; 
+ 
+
+ b raccolti per scopi espliciti, specificati e legittimi e non trattati in modo incompatibile con tali scopi; l'ulteriore elaborazione a fini di archiviazione nell'interesse pubblico, a fini di ricerca scientifica o storica o a fini statistici è, fatti salvi gli opportuni controlli, compatibile con tali finalità; 
+ 
+
+ c adeguati, pertinenti e non eccedenti rispetto alle finalità per le quali sono trattati; 
+ 
+
+ d accurati e, se necessario, aggiornati; 
+ 
+
+ e conservati in una forma che consenta l'identificazione delle persone interessate per un periodo non superiore a quello necessario agli scopi per i quali tali dati sono trattati ".
+Articolo 8 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 6 della Convenzione è sostituito dal seguente: 
+ 
+
+ "1 L'elaborazione di: 
+ 
+
+ - dati genetici; 
+ 
+
+ - dati personali relativi a infrazioni, procedimenti e condanne penali e misure di sicurezza; 
+ 
+
+ - dati biometrici che identificano in modo univoco una persona; 
+ 
+
+ - dati personali che rivelano l'origine razziale o etnica, le opinioni politiche, l'appartenenza sindacale, la religione o altre convinzioni, la salute o la vita sessuale, 
+ 
+
+ sono consentiti solo se sono previste garanzie di legge, a complemento di quelle della presente Convenzione. 
+ 
+
+ 2 Tali garanzie tutelano contro i rischi che il trattamento di dati sensibili può presentare per gli interessi, i diritti e le libertà fondamentali dell'interessato, in particolare un rischio di discriminazione. "
+Articolo 9 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 7 della Convenzione è sostituito dal seguente: 
+ 
+
+ "1 Ciascuna Parte dispone che il titolare del trattamento e, ove previsto, il responsabile del trattamento, adottino adeguate misure di sicurezza contro rischi quali l'accesso accidentale o non autorizzato ai dati personali, la loro distruzione, perdita, uso, modifica o divulgazione. 
+ 
+
+ 2 Ciascuna Parte dispone che il titolare del trattamento notifichi, senza indugio, almeno all'autorità di controllo competente ai sensi dell'articolo 15 della presente Convenzione, le violazioni dei dati che possono seriamente interferire con i diritti e le libertà fondamentali delle persone interessate. "
+Articolo 10 
+ 
+
+ 
+ 
+
+ Un nuovo articolo 8 è aggiunto dopo l'articolo 7 della Convenzione come segue: 
+ 
+
+ "Articolo 8 - Trasparenza del trattamento 
+ 
+
+ 1 Ciascuna Parte dispone che il titolare del trattamento informi gli interessati di: 
+ 
+
+ a la sua identità e residenza o stabilimento abituale; 
+ 
+
+ b la base giuridica e le finalità del trattamento previsto; 
+ 
+
+ c le categorie di dati personali trattati; 
+ 
+
+ d i destinatari o le categorie di destinatari dei dati personali, se esistenti; e 
+ 
+
+ e i mezzi per esercitare i diritti di cui all'articolo 9, 
+ 
+
+ così come ogni altra informazione necessaria al fine di garantire un trattamento equo e trasparente dei dati personali. 
+ 
+
+ 2 Il paragrafo 1 non si applica se l'interessato ha già le informazioni pertinenti. 
+ 
+
+ 3 Quando i dati personali non sono raccolti direttamente presso la persona interessata, il titolare del trattamento non è tenuto a fornire tali informazioni quando il trattamento è espressamente previsto dalla legge o ciò si riveli impossibile o comporti sforzi sproporzionati. "
+Articolo 11 
+ 
+
+ 
+ 
+
+ 1 L'articolo 8 della Convenzione è rinumerato articolo 9 e il Titolo è sostituito dal seguente: 
+ 
+
+ "Articolo 9 - Diritti dell'interessato". 
+ 
+
+ 2 Il testo dell'articolo 8 della Convenzione (nuovo articolo 9) è sostituito dal seguente: 
+ 
+
+ "1 Ogni individuo ha diritto a: 
+ 
+
+ a non essere soggetto ad una decisione che lo riguardi in modo significativo basandosi unicamente su un trattamento automatizzato di dati senza che le sue opinioni vengano prese in considerazione; 
+ 
+
+ b ottenere, a richiesta, a intervalli ragionevoli e senza eccessivo ritardo o spesa, la conferma del trattamento dei dati personali che lo riguardano, la comunicazione in forma intelligibile dei dati trattati, tutte le informazioni disponibili sulla loro origine, sul periodo di conservazione e qualsiasi altra informazione che il titolare del trattamento è tenuto a fornire al fine di garantire la trasparenza del trattamento ai sensi dell'articolo 8, paragrafo 1; 
+ 
+
+ c ottenere, su richiesta, conoscenza del ragionamento alla base dell'elaborazione dei dati quando i risultati di tale trattamento gli vengono applicati; 
+ 
+
+ d opporsi in qualsiasi momento, per motivi relativi alla sua situazione, al trattamento di dati personali che lo riguardano a meno che il titolare del trattamento non dimostri motivi legittimi per il trattamento che prevalgano sui suoi interessi, sui suoi diritti e sulle sue libertà fondamentali; 
+ 
+
+ e ottenere, su richiesta, gratuitamente e senza eccessivo ritardo, rettifica o cancellazione, a seconda dei casi, di tali dati se questi sono, o sono stati, trattati in violazione delle disposizioni della presente Convenzione; 
+ 
+
+ f avere un rimedio ai sensi dell'articolo 12 nei casi in cui i suoi diritti sono stati violati ai sensi della presente Convenzione; 
+ 
+
+ g beneficiare, a prescindere dalla sua nazionalità o residenza, dall'assistenza di un'autorità di controllo ai sensi dell'articolo 15, nell'esercizio dei suoi diritti ai sensi della presente Convenzione. 
+ 
+
+ 2 Il paragrafo 1.a non si applica se la decisione è autorizzata da una legge cui è soggetto il titolare del trattamento e che stabilisce anche misure idonee a salvaguardare i diritti, le libertà e gli interessi legittimi dell'interessato."
+Articolo 12 
+ 
+
+ 
+ 
+
+ Un nuovo articolo 10 è aggiunto dopo il nuovo articolo 9 della Convenzione come segue: 
+ 
+
+ "Articolo 10 - Obblighi aggiuntivi 
+ 
+
+ 1 Ciascuna Parte dispone che i titolari del trattamento e, se del caso, i responsabili del trattamento adottino tutte le misure appropriate per conformarsi agli obblighi della presente Convenzione e siano in grado di dimostrare, fatta salva la legislazione nazionale adottata conformemente all'articolo 11, paragrafo 3, in particolare all'autorità di controllo competente di cui all'articolo 15, che il trattamento dei dati sotto il loro controllo è conforme alle disposizioni della presente Convenzione. 
+ 
+
+ 2 Ciascuna Parte dispone che i titolari del trattamento e, se del caso, i responsabili del trattamento, esaminino il probabile impatto dell'elaborazione dei dati prevista sui diritti e le libertà fondamentali delle persone interessate prima dell'inizio di tale trattamento e definiscano il trattamento dei dati in modo da prevenire o minimizzare il rischio di interferenze con tali diritti e libertà fondamentali. 
+ 
+
+ 3 Ciascuna Parte dispone che i titolari del trattamento e, se del caso, i responsabili del trattamento, attuino misure tecniche e organizzative che tengano conto delle implicazioni del diritto alla protezione dei dati personali in tutte le fasi del trattamento dei dati. 
+ 
+
+ 4 Ciascuna Parte può, tenendo conto dei rischi derivanti agli interessi, ai diritti e alle libertà fondamentali delle persone interessate, adeguare l'applicazione delle disposizioni dei paragrafi 1, 2 e 3 della legge che dà attuazione alle disposizioni della presente Convenzione, secondo alla natura e al volume dei dati, alla natura, alla portata e alle finalità del trattamento e, se del caso, alle dimensioni dei titolari del trattamento o dei responsabili.
+Articolo 13 
+ 
+
+ 
+ 
+
+ Gli articoli da 9 a 12 della Convenzione diventeranno gli articoli da 11 a 14 della Convenzione.
+Articolo 14 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 9 della Convenzione (nuovo articolo 11) è sostituito dal seguente: 
+ 
+
+ "1 Sono consentite eccezioni alle disposizioni del presente Capitolo fatte salve le disposizioni dell'articolo 5, paragrafo 4, dell'articolo 7, paragrafo 2, dell'articolo 8, paragrafo 1 e dell'articolo 9, quando tale eccezione è prevista dalla legge, rispetta l'essenza dei diritti e delle libertà fondamentali e costituisce una misura necessaria e proporzionata in una società democratica per: 
+ 
+
+ a la protezione della sicurezza nazionale, della difesa, della sicurezza pubblica e di importanti interessi economici e finanziari dello Stato, l'imparzialità e l'indipendenza del potere giudiziario o la prevenzione, l'investigazione e il perseguimento di reati e l'esecuzione di sanzioni penali e altri obiettivi essenziali di interesse pubblico generale; 
+ 
+
+ b la tutela della persona interessata o dei diritti e delle libertà fondamentali altrui, in particolare la libertà di espressione. 
+ 
+
+ 2 Le restrizioni all'esercizio delle disposizioni di cui agli articoli 8 e 9 possono essere previste dalla legge in relazione al trattamento dei dati a scopo di archiviazione nell'interesse pubblico, a fini di ricerca scientifica o storica o statistici quando non vi è alcun rischio riconoscibile di violazione dei diritti e delle libertà fondamentali degli interessati. 
+ 
+
+ 3 Oltre alle eccezioni di cui al paragrafo 1 del presente articolo, con riferimento alle attività di trattamento a fini di sicurezza nazionale e di difesa, ciascuna parte può prevedere, per legge e solo nei casi in cui costituisce una misura necessaria e proporzionata in una società democratica per raggiungere tale scopo, eccezioni all'articolo 4, paragrafo 3, all'articolo 14, paragrafi 5 e 6, e all'articolo 15, paragrafo 2, lettere a), b), c) e d). 
+ 
+
+ Ciò lascia impregiudicato il requisito che le attività di trattamento a fini di sicurezza nazionale e di difesa siano soggette a revisione e vigilanza indipendenti ed efficaci ai sensi della legislazione nazionale della rispettiva parte."
+Articolo 15 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 10 della convenzione (nuovo articolo 12) è sostituito dal seguente: 
+ 
+
+ "Ciascuna delle Parti si impegna a stabilire appropriate sanzioni giudiziarie e non giudiziarie e rimedi per le violazioni delle disposizioni della presente Convenzione.
+Articolo 16 
+ 
+
+ 
+ 
+
+ Il Titolo del Capo III è sostituito dal seguente: 
+ 
+
+ "Capo III - Flussi transfrontalieri di dati personali".
+Articolo 17 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 12 della Convenzione (nuovo articolo 14) è sostituito dal seguente: 
+ 
+
+ "Articolo 14 - Flussi transfrontalieri di dati personali". 
+ 
+
+ 2 Il testo dell'articolo 12 della Convenzione (nuovo articolo 14) è sostituito dal seguente: 
+ 
+
+ "1 Una Parte non può, al solo scopo di proteggere i dati personali, vietare o subordinare a speciale autorizzazione il trasferimento di tali dati a un destinatario soggetto alla giurisdizione di un'altra Parte della Convenzione. Tuttavia, una parte può farlo se sussiste un rischio reale e grave che il trasferimento ad un'altra Parte o da questa altra Parte a una non-Parte, porti a eludere le disposizioni della Convenzione. Una Parte può farlo anche se vincolata da norme di protezione armonizzate, condivise da Stati appartenenti a un'organizzazione internazionale regionale. 
+ 
+
+ 2 Quando il destinatario è soggetto alla giurisdizione di uno Stato o di un'organizzazione internazionale che non è Parte della presente Convenzione, il trasferimento di dati personali può avvenire soltanto laddove sia garantito un livello adeguato di protezione basato sulle disposizioni della presente Convenzione. 
+ 
+
+ 3 Un livello adeguato di protezione può essere garantito da: 
+ 
+
+ a una legge di tale Stato o organizzazione internazionale, compresi i trattati e gli accordi internazionali applicabili; o 
+ 
+
+ b garanzie standardizzate ad hoc o approvate, fornite da strumenti giuridicamente vincolanti ed esecutivi adottati e attuati dalle persone coinvolte nel trasferimento e nell'ulteriore trattamento. 
+ 
+
+ 4 Nonostante le disposizioni dei precedenti paragrafi, ciascuna Parte può prevedere che il trasferimento di dati personali possa aver luogo se: 
+ 
+
+ a l'interessato ha fornito un consenso esplicito, specifico e libero, dopo essere stato informato dei rischi in assenza di adeguate garanzie; o 
+ 
+
+ b l'interesse specifico dell'interessato lo richiede nel caso specifico; o 
+ 
+
+ c i prevalenti interessi legittimi, in particolare gli interessi pubblici importanti, sono previsti dalla legge e tale trasferimento costituisce una misura necessaria e proporzionata in una società democratica; o 
+ 
+
+ d sostituisce una misura necessaria e proporzionata in una società democratica per la libertà di espressione. 
+ 
+
+ 5 Ciascuna Parte dispone che l'autorità di controllo competente, ai sensi dell'articolo 15 della presente Convenzione, sia dotata di tutte le informazioni pertinenti relative ai trasferimenti di dati di cui al paragrafo 3, lettera b e, su richiesta, del paragrafo 4, lettere b e c. 
+ 
+
+ 6 Ciascuna Parte dispone inoltre che l'autorità di controllo abbia il diritto di chiedere che la persona che trasferisce i dati dimostri l'efficacia delle garanzie o l'esistenza di interessi legittimi prevalenti e che l'autorità di controllo possa, al fine di proteggere i diritti e le libertà fondamentali degli interessati, vietare tali trasferimenti, sospenderli o sottoporli a condizioni ". 3 Il testo dell'articolo 12 della Convenzione (nuovo articolo 14) comprende le disposizioni dell'articolo 2 del Protocollo aggiuntivo del 2001 in materia di autorità di controllo e flussi di dati transfrontalieri (STE n. 181) sui flussi transfrontalieri di dati personali verso un destinatario che è non soggetto alla giurisdizione di una Parte della Convenzione.
+Articolo 18 
+ 
+
+ 
+ 
+
+ Un nuovo Capo IV è aggiunto dopo il Capo III della Convenzione, come segue: 
+ 
+
+ "Capo IV - Autorità di controllo".
+Articolo 19 
+ 
+
+ 
+ 
+
+ Un nuovo articolo 15 comprende le disposizioni dell'articolo 1 del Protocollo aggiuntivo del 2001 (STE n. 181) e si legge come segue: 
+ 
+
+ "Articolo 15 - Autorità di controllo" 
+ 
+
+ 1 Ciascuna Parte provvede affinchè una o più autorità siano responsabili di assicurare il rispetto delle disposizioni della presente Convenzione. 
+ 
+
+ 2 A tal fine, tali autorità: 
+ 
+
+ a hanno poteri di investigazione e di intervento; 
+ 
+
+ b svolgono le funzioni relative al trasferimento di dati di cui all'articolo 14, in particolare l'approvazione di misure di sicurezza standardizzate; 
+ 
+
+ c hanno il potere di emettere decisioni in merito alle violazioni delle disposizioni della presente Convenzione e può, in particolare, imporre sanzioni amministrative; 
+ 
+
+ d hanno il potere di avviare procedimenti giudiziari o di portare all'attenzione delle competenti autorità giudiziarie le violazioni delle disposizioni della presente Convenzione; 
+ 
+
+ e promuovono: 
+ 
+
+ i la pubblica consapevolezza delle loro funzioni e poteri, nonchè delle loro attività; 
+ 
+
+ ii la consapevolezza pubblica dei diritti degli interessati e l'esercizio di tali diritti; 
+ 
+
+ iii consapevolezza dei titolari del trattamento e dei loro responsabili ai sensi della presente Convenzione; 
+ 
+
+ un'attenzione specifica è riservata ai diritti di protezione dei dati dei bambini e di altre persone vulnerabili. 
+ 
+
+ 3 Le competenti autorità di controllo sono consultate su proposte di misure legislative o amministrative che prevedono il trattamento di dati personali. 
+ 
+
+ 4 Ciascuna autorità di controllo competente cura le richieste e i reclami presentati dagli interessati in merito ai loro diritti di protezione dei dati e tiene informati gli interessati dei progressi. 5 Le autorità di controllo agiscono in piena indipendenza e imparzialità nell'esercizio delle loro funzioni e nell'esercizio delle loro competenze e in tal senso non sollecitano nè accettano istruzioni. 
+ 
+
+ 6 Ciascuna Parte garantisce che alle autorità di controllo siano fornite le risorse necessarie per l'efficace svolgimento delle loro funzioni e l'esercizio dei loro poteri. 
+ 
+
+ 7 Ciascuna autorità di controllo prepara e pubblica una relazione periodica che illustra le sue attività. 
+ 
+
+ 8 I membri e il personale delle autorità di controllo sono vincolati dagli obblighi di riservatezza in relazione alle informazioni riservate a cui hanno accesso o hanno avuto accesso, nell'esercizio delle loro funzioni e nell'esercizio delle loro competenze. 
+ 
+
+ 9 Le decisioni delle autorità di controllo possono essere oggetto di ricorso per via giudiziaria. 
+ 
+
+ 10 Le autorità di controllo non sono competenti per quanto riguarda il trattamento effettuato da organismi quando agiscono nell'esercizio delle loro funzloni giurisdizionali.
+Articolo 20 
+ 
+
+ 
+ 
+
+ 1 I Capi da IV a VII della Convenzione sono rinumerati nei Capi da V a VIII della Convenzione. 
+ 
+
+ 2 Il Titolo del Capo V è sostituito da "Capo V - Cooperazione e assistenza reciproca". 
+ 
+
+ 3 è aggiunto un nuovo articolo 17 e gli articoli da 13 a 27 della Convenzione diventano gli articoli da 16 a 31 della Convenzione.
+Articolo 21 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 13 della Convenzione (nuovo articolo 16) è sostituito dal seguente: 
+ 
+
+ "Articolo 16 - Designazione delle autorità di controllo". 
+ 
+
+ 2 Il paragrafo 1 dell'articolo 13 della Convenzione (nuovo articolo 16) è sostituito dal seguente: 
+ 
+
+ "1 Le Parti convengono di cooperare e di rendersi reciprocamente assistenza al fine di attuare la presente Convenzione." 
+ 
+
+ 3 Il paragrafo 2 dell'articolo 13 della Convenzione (nuovo articolo 16) è sostituito dal seguente: 
+ 
+
+ "2 A tal fine: 
+ 
+
+ a ciascuna Parte designa una o più autorità di controllo ai sensi dell'articolo 15 della presente Convenzione, il nome e l'indirizzo di ciascuna delle quali deve essere comunicato al Segretario Generale del Consiglio d'Europa; 
+ 
+
+ b ciascuna delle Parti che ha designato più di una autorità di controllo specifica la competenza di ciascuna autorità nella sua comunicazione di cui alla precedente lettera." 
+ 
+
+ 4 Il paragrafo 3 dell'articolo 13 della Convenzione (nuovo articolo 16) è soppresso.
+Articolo 22 
+ 
+
+ 
+ 
+
+ Un nuovo articolo 17 è aggiunto dopo il nuovo articolo 16 della Convenzione come segue: 
+ 
+
+ "Articolo 17 - Forme di cooperazione" 
+ 
+
+ 1 Le autorità di controllo cooperano tra loro nella misura necessaria all'adempimento delle loro funzioni e all'esercizio delle loro competenze, in particolare per: 
+ 
+
+ a fornire assistenza reciproca scambiando informazioni pertinenti e utili e cooperando tra loro a condizione che, per quanto riguarda la protezione dei dati personali, siano rispettate tutte le norme e le garanzie della presente convenzione; 
+ 
+
+ b coordinando le loro indagini o interventi, o conducendo azioni congiunte; 
+ 
+
+ c fornire informazioni e documentazione sulla loro legislazione e prassi amministrativa relativa alla protezione dei dati. 
+ 
+
+ 2 Le informazioni di cui al paragrafo 1 non comprendono i dati personali oggetto di trattamento, a meno che tali dati non siano essenziali per la cooperazione o qualora la persona interessata abbia fornito un consenso esplicito, specifico, libero e informato alla loro fornitura. 
+ 
+
+ 3 Al fine di organizzare la loro cooperazione e svolgere i compiti di cui ai paragrafi precedenti, le autorità di controllo delle parti formano una rete.
+Articolo 23 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 14 della Convenzione (nuovo articolo 18) è sostituito dal seguente: 
+ 
+
+ "Articolo 18 - Assistenza agli interessati". 
+ 
+
+ 2 Il testo dell'articolo 14 della Convenzione (nuovo articolo 18) è sostituito dal seguente: 
+ 
+
+ "1 Ciascuna Parte assisterà qualsiasi interessato, indipendentemente dalla sua nazionalità o residenza, nell'esercizio dei suoi diritti ai sensi dell'articolo 9 della presente Convenzione. 
+ 
+
+ 2 Quando una persona interessata risiede nel territorio di un'altra Parte, gli viene offerta la possibilità di presentare la richiesta tramite l'autorità di controllo designata da tale Parte. 
+ 
+
+ 3 La richiesta di assistenza deve contenere tutti gli elementi necessari, riguardanti tra l'altro: 
+ 
+
+ a il nome, l'indirizzo e ogni altro dato pertinente che identifica l'interessato che effettua la richiesta; 
+ 
+
+ b il trattamento cui si riferisce la richiesta, o il corrispondente titolare del trattamento 
+ 
+
+ c lo scopo della richiesta."
+Articolo 24 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 15 della Convenzione (nuovo articolo 19) è sostituito dal seguente: 
+ 
+
+ "Articolo 19 - Misure di salvaguardia". 
+ 
+
+ 2 Il testo dell'articolo 15 della Convenzione (nuovo articolo 19) è sostituito dal seguente: 
+ 
+
+ "1 Un'autorità di controllo che ha ricevuto informazioni da un'altra autorità di controllo, che accompagna una richiesta o in risposta alla propria richiesta, non utilizza tali informazioni per fini diversi da quelli specificati nella richiesta. 
+ 
+
+ 2 In nessun caso l'autorità di controllo può essere autorizzata a presentare una richiesta per conto di un interessato in modo autonomo e senza l'espressa approvazione dell'interessato."
+Articolo 25 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 16 della Convenzione (nuovo articolo 20) è sostituito dal seguente: 
+ 
+
+ "Articolo 20 - Rifiuto delle richieste". 
+ 
+
+ 2 Il considerando dell'articolo 16 della Convenzione (nuovo articolo 20) è sostituito dal seguente: 
+ 
+
+ "Un'autorità di controllo cui è rivolta una richiesta ai sensi dell'articolo 17 della presente Convenzione non può rifiutare di rispettarla a meno che:" 
+ 
+
+ 3 La Lettera a dell'articolo 16 della Convenzione (nuovo articolo 20) è sostituito dalla seguente: 
+ 
+
+ a "Una richiesta non è compatibile con i suoi poteri". 
+ 
+
+ 4 La Lettera c dell'articolo 16 della Convenzione (nuovo articolo 20) è sostituita dalla seguente: 
+ 
+
+ c "Il rispetto della richiesta sarebbe incompatibile con la sovranità, la sicurezza nazionale o l'ordine pubblico della Parte dalla quale è stata designata, o con i diritti e le libertà fondamentali delle persone soggette alla giurisdizione di tale Parte".
+Articolo 26 
+ 
+
+ 
+ 
+
+ 1 Il Titolo dell'articolo 17 della Convenzione (nuovo articolo 21) è sostituito dal seguente: 
+ 
+
+ "Articolo 21 - Costi e procedure". 
+ 
+
+ 2 Il paragrafo 1 dell'articolo 17 della Convenzione (nuovo articolo 21) è sostituito dal seguente: 
+ 
+
+ "1 La cooperazione e l'assistenza reciproca che le Parti si prestano a norma dell'articolo 17 e l'assistenza che forniscono alle persone interessate ai sensi degli articoli 9 e 18 non danno luogo al pagamento di eventuali costi o commissioni diversi da quelli sostenuti per esperti e interpreti. Questi ultimi costi o onorari sono a carico della parte che presenta la richiesta." 
+ 
+
+ 3 I termini "suo o sua" sostituiscono "suo" al paragrafo 2 dell'articolo 17 della Convenzione (nuovo articolo 21 ).
+Articolo 27 
+ 
+
+ 
+ 
+
+ Il Titolo del Capo V della Convenzione (nuovo Capo VI) è sostituito dal seguente: 
+ 
+
+ "Capo VI- Comitato della Convenzione".
+Articolo 28 
+ 
+
+ 
+ 
+
+ 1 Il termine "Comitato consultivo" nel paragrafo 1 dell'articolo 18 della Convenzione (nuovo articolo 22) è sostituito da "Comitato della Convenzione". 
+ 
+
+ 2 Il paragrafo 3 dell'articolo 18 della Convenzione (nuovo articolo 22) è sostituito dal seguente: 
+ 
+
+ "3 Il Comitato della Convenzione può, con una decisione presa a maggioranza dei due terzi dei rappresentanti delle parti, invitare un osservatore a farsi rappresentare nelle sue riunioni ." 
+ 
+
+ 3 Un nuovo paragrafo 4 è aggiunto dopo il paragrafo 3 dell'articolo 18 della Convenzione (nuovo articolo 22): 
+ 
+
+ "4 Ciascuna Parte che non sia membro del Consiglio d'Europa contribuisce al finanziamento delle attività del Comitato della Convenzione secondo le modalità stabilite dal Comitato dei Ministri di concerto con quella Parte."
+Articolo 29 
+ 
+
+ 
+ 
+
+ 1 Il termine "Comitato consultivo" nel considerando dell'articolo 19 della Convenzione (nuovo articolo 23) è sostituito dal termine "Comitato della convenzione". 
+ 
+
+ 2 Il termine "proposte" nella lettera a dell'articolo 19 della Convenzione (nuovo articolo 23) è sostituito dal termine "raccomandazioni". 
+ 
+
+ 3 I riferimenti a "Articolo 21" nella lettera b e "Articolo 21 paragrafo 3" nella lettera c dell'articolo 19 della Convenzione (nuovo articolo 23) sono sostituiti rispettivamente con i riferimenti a "Articolo 25" e "Articolo 25, paragrafo 3". 
+ 
+
+ 4 L'articolo 19, lettera d), della Convenzione (nuovo articolo 23) è sostituito dal seguente: 
+ 
+
+ "d può esprimere un'opinione su qualsiasi questione relativa all'interpretazione o all'applicazione della presente convenzione". 5 Le seguenti lettere sono aggiunte dopo la lettera d dell'articolo 19 della Convenzione (nuovo articolo 23): 
+ 
+
+ "e prepara, prima di ogni nuova adesione alla Convenzione, un parere per il Comitato dei Ministri relativo al livello di protezione dei dati personali del candidato all'adesione e, ove necessario, raccomanda misure da adottare per raggiungere l'osservanza delle disposizioni della presente Convenzione; 
+ 
+
+ f su richiesta di uno Stato o di un'organizzazione internazionale, può valutare se il livello di protezione dei dati personali che il primo fornisce è conforme alle disposizioni della presente Convenzione e, ove necessario, raccomanda misure da adottare per raggiungere tale conformità; 
+ 
+
+ g può sviluppare o approvare modelli di controlli di sicurezza standardizzati di cui all'articolo 14; 
+ 
+
+ h riesamina l'attuazione della presente Convenzione da parte delle parti e raccomanda le misure da adottare nel caso in cui una parte non sia conforme alla presente Convenzione; 
+ 
+
+ i facilita, ove necessario, la soluzione amichevole di tutte le difficoltà connesse all'applicazione della presente Convenzione."
+Articolo 30 
+ 
+
+ 
+ 
+
+ Il testo dell'articolo 20 della Convenzione (nuovo articolo 24) è sostituito dal seguente: 
+ 
+
+ "1 Il Comitato della Convenzione sarà convocato dal Segretario Generale del Consiglio d'Europa. La sua prima riunione sì terrà entro dodici mesi dall'entrata in vigore della presente Convenzione.
+ 
+
+ Successivamente si riunirà almeno una volta all'anno, e in ogni caso quando un terzo dei rappresentanti delle Parti ne richiede la convocazione. 
+ 
+
+ 2 Dopo ciascuna delle sue riunioni, il Comitato della Convenzione sottopone al Comitato dei Ministri del Consiglio d'Europa una relazione sui suoi lavori e sul funzionamento della presente Convenzione. 
+ 
+
+ 3 Le modalità di voto nel Comitato della Convenzione sono contenute negli elementi per il regolamento interno allegato al Protocollo CETS No. [223]. 
+ 
+
+ 4 Il Comitato della Convenzione stabilisce gli altri elementi del suo regolamento interno e stabilisce, in particolare, le procedure di valutazione e revisione di cui all'articolo 4, paragrafo 3, e dell'articolo 23, lettere e, f e h, in base a criteri oggettivi."
+Articolo 31 
+ 
+
+ 
+ 
+
+ 1 I paragrafi da 1 a 4 dell'articolo 21 della Convenzione (nuovo articolo 25) sono sostituiti dal seguente: 
+ 
+
+ "1 Gli emendamenti alla presente Convenzione possono essere proposti da una Parte, dal Comitato dei Ministri del Consiglio d'Europa o dal Comitato della Convenzione. 
+ 
+
+ 2 Qualsiasi proposta di modifica deve essere comunicata dal Segretario Generale del Consiglio d'Europa alle Parti della presente Convenzione, agli altri Stati membri del Consiglio d'Europa, all'Unione europea e a ogni Stato non membro o organizzazione internazionale che è stato invitato ad aderire alla presente Convenzione conformemente alle disposizioni dell'articolo 27. 
+ 
+
+ 3 Inoltre, ogni emendamento proposto da una Parte o dal Comitato dei Ministri sarà comunicato al Comitato della Convenzione, che presenterà al Comitato dei Ministri il suo parere su tale emendamento proposto. 
+ 
+
+ 4 Il Comitato dei Ministri esamina la modifica proposta e ogni parere presentato dal Comitato della Convenzione e può approvare l'emendamento." 
+ 
+
+ 5 Un ulteriore paragrafo 7 è aggiunto dopo il paragrafo 6 dell'articolo 21 della Convenzione (nuovo articolo 25) come segue: 
+ 
+
+ "7 Inoltre, il Comitato dei Ministri può, dopo aver consultato il Comitato della Convenzione, decidere all'unanimità che un particolare emendamento entri in vigore allo scadere di un periodo di tre anni dalla data in cui è stato aperto all'accettazione, a meno che una Parte notifichi al Segretario Generale del Consiglio d'Europa un'obiezione alla sua entrata in vigore. Se tale opposizione è notificata, l'emendamento entra in vigore il primo giorno del mese successivo alla data in cui la Parte della presente Convenzione che ha notificato l'obiezione ha depositato il suo strumento di accettazione presso il Segretario Generale del Consiglio d'Europa. ".
+Articolo 32 
+ 
+
+ 
+ 
+
+ 1 Il paragrafo 1 dell'articolo 22 della Convenzione (nuovo articolo 26) è sostituito dal seguente: 
+ 
+
+ "1 La presente Convenzione sarà aperta alla firma degli Stati membri del Consiglio d'Europa e dell'Unione europea. Essa è soggetta a ratifica, accettazione o approvazione. Gli strumenti di ratifica, accettazione o approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa." 
+ 
+
+ 2 I termini "Stato membro" di cui al paragrafo 3 dell'articolo 22 della Convenzione (nuovo articolo 26) sono sostituiti da "Parte".
+Articolo 33 
+ 
+
+ 
+ 
+
+ Il Titolo e il testo dell'articolo 23 della Convenzione (nuovo articolo 27) sono sostituiti dai seguenti: 
+ 
+
+ "Articolo 27 - Adesione di Stati non membri o organizzazioni internazionali. 
+ 
+
+ 1 Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa, previa consultazione delle Parti della presente Convenzione e ottenendo il loro consenso unanime, e alla luce del parere preparato dal Comitato della Convenzione in conformità dell'articolo 23.e, può invitare uno Stato non membro del Consiglio d'Europa o un'organizzazione internazionale ad aderire alla presente Convenzione con una decisione presa alla maggioranza prevista dall'articolo 20.d dello Statuto del Consiglio d'Europa e con voto unanime dei rappresentanti degli Stati contraenti che hanno il diritto di sedere nel Comitato dei Ministri. 
+ 
+
+ 2 Per ogni Stato o organizzazione internazionale che aderisca alla presente Convenzione conformemente al paragrafo 1, la Convenzione entrerà in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data di deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa."
+Articolo 34 
+ 
+
+ 
+ 
+
+ I paragrafi 1 e 2 dell'articolo 24 della Convenzione (nuovo articolo 28) sono sostituiti dai seguenti: 
+ 
+
+ "1 Ogni Stato, l'Unione europea o altra organizzazione internazionale può, al momento della firma, del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, specificare il territorio o i territori ai quali si applica la presente Convenzione. 
+ 
+
+ 2 Qualsiasi Stato, l'Unione europea o altra organizzazione internazionale può, in qualsiasi momento successivo, mediante una dichiarazione indirizzata al Segretario Generale del Consiglio d'Europa, estendere l'applicazione della presente Convenzione a qualsiasi altro territorio specificato nella dichiarazione. Per quanto riguarda tale territorio, la Convenzione entrerà in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data di ricevimento di tale dichiarazione da parte del Segretario Generale."
+Articolo 35 
+ 
+
+ 
+ 
+
+ 1 Il termine "Stato" nel considerando dell'articolo 27 della Convenzione (nuovo articolo 31) è sostituito da "Parte". 
+ 
+
+ 2 I riferimenti agli "articoli 22, 23 e 24" nella lettera c sono sostituiti dai riferimenti agli "articoli 26, 27 e 28".
+Articolo 36 
+ 
+
+ Firma, ratifica e adesione 
+ 
+
+ 
+ 
+
+ 1 Il presente protocollo è aperto alla firma degli Stati contraenti della Convenzione. Sarà soggetto a ratifica, accettazione o approvazione. Gli strumenti di ratifica, accettazione o approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa. 
+ 
+
+ 2 Dopo l'apertura alla firma del presente Protocollo e prima della sua entrata in vigore, ogni altro Stato esprime il proprio consenso ad essere vincolato dal presente Protocollo entro la data di adesione. Non può diventare una Parte della Convenzione senza aderire contemporaneamente a questo Protocollo.
+Articolo 37 
+ 
+
+ Entrata in vigore 
+ 
+
+ 
+ 
+
+ 1 Il presente Protocollo entra in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data in cui tutte le parti della Convenzione hanno espresso il loro consenso ad essere vincolate dal protocollo, conformemente alle disposizioni del paragrafo 1 dell'articolo 36. 
+ 
+
+ 2 Nel caso in cui il presente Protocollo non sia entrato in vigore a norma del paragrafo 1, allo scadere di un periodo di cinque anni dalla data alla quale è stato aperto per la firma, il Protocollo entra in vigore nei confronti degli Stati che hanno espresso il loro consenso ad esserne vincolati conformemente al paragrafo 1, a condizione che il Protocollo contenga almeno trentotto parti. Tra le parti del protocollo, tutte le disposizioni della Convenzione modificata hanno effetto immediatamente all'entrata in vigore. 
+ 
+
+ 3 In attesa dell'entrata in vigore del presente Protocollo e fatte salve le disposizioni relative all'entrata in vigore e l'adesione di Stati non membri o di organizzazioni internazionali, una parte alla Convenzione può, al momento della firma del presente Protocollo o in qualslasi momento successivo, dichiarare che applicherà le disposizioni del presente Protocollo a titolo provvisorio. In tali casi, le disposizioni del presente Protocollo si applicano solo alle altre Parti della Convenzione che hanno fatto una dichiarazione con lo stesso effetto. Tale dichiarazione avrà effetto dal primo giorno del terzo mese successivo alla data di ricezione da parte del Segretario Generale del Consiglio d'Europa. 
+ 
+
+ 4 A decorrere dalla data di entrata in vigore del presente Protocollo, il Protocollo addizionale alla Convenzione per la protezione delle persone rispetto al trattamento automatizzato di dati personali, relativo alle autorità di controllo e ai flussi di dati transfrontalieri (STE n° 181) è abrogato. 
+ 
+
+ 5 Dalla data di entrata in vigore del presente Protocollo, le modifiche alla Convenzione per la protezione delle persone rispetto al trattamento automatizzato di dati personali, approvate dal Comitato dei Ministri, a Strasburgo, il 15 giugno 1999, hanno perso il loro scopo.
+Articolo 38 
+ 
+
+ Dichiarazioni relative alla Convenzione 
+ 
+
+ 
+ 
+
+ A decorrere dalla data dì entrata in vigore del presente Protocollo, per quanto riguarda una Parte che abbia inserito una o più dichiarazioni in applicazione dell'articolo 3 della Convenzione, tale dichiarazione sarà decaduta.
+Articolo 39 
+ 
+
+ Riserve 
+ 
+
+ 
+ 
+
+ Nessuna riserva può essere fatta alle disposizioni del presente Protocollo.
+Articolo 40 
+ 
+
+ Notifiche 
+ 
+
+ Il Segretario Generale del Consiglio d'Europa notificherà agli Stati membri del Consiglio d'Europa e ad ogni altra Parte della Convenzione: 
+ 
+
+ a una qualsiasi firma; 
+ 
+
+ b il deposito di qualsiasi strumento di ratifica, accettazione, approvazione o adesione; 
+ 
+
+ c la data di entrata in vigore del presente Protocollo in conformità all'articolo 37; 
+ 
+
+ d ogni altro atto, notifica o comunicazione relativa al presente Protocollo. 
+ 
+
+ In fede i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo. 
+ 
+
+ Fatto a Strasburgo, il 1° ottobre 2018, in inglese e in francese, entrambi i testi facenti ugualmente fede, in una sola copia che sarà depositata negli archivi del Consiglio d'Europa. Il Segretario Generale del Consiglio d'Europa trasmetterà copie autenticate a ciascuno Stato membro del Consiglio d'Europa, ad altre Parti della Convenzione ed a qualsiasi Stato invitato ad aderire alla Convenzione.
+Appendice al Protocollo: Elementi per il regolamento interno del Comitato della Convenzione 
+ 
+
+ 
+ 
+
+ 1 Ciascuna Parte ha diritto di voto e dispone di un solo voto. 
+ 
+
+ 2 La maggioranza dei due terzi dei rappresentanti delle Parti costituisce il quorum necessario per la validità delle riunioni del Comitato della Convenzione. Nel caso in cui il Protocollo di modifica della Convenzione entri in vigore in conformità dell'articolo 37, paragrafo 2, prima della sua entrata in vigore nei confronti di tutti gli Stati contraenti della Convenzione, il quorum per le riunioni del Comitato della Convenzione non deve essere inferiore a 34 Parti del Protocollo. 
+ 
+
+ 3 Le decisioni di cui all'articolo 23 sono prese a maggioranza di quattro quinti. Le decisioni di cui all'articolo 23, lettera h, sono prese a maggioranza di quattro quinti, compresa la maggioranza dei voti degli Stati Parti non membri di un'organizzazione regionale di integrazione che è parte della Convenzione. 
+ 
+
+ 4 Qualora il Comitato della Convenzione prenda decisioni ai sensi dell'articolo 23, lettera h, la Parte sottoposta all'esame non ha diritto di voto. Poichè tale decisione riguarda una questione di competenza di un'organizzazione regionale di integrazione, nè l'organizzazione nè i suoi Stati membri voteranno. 
+ 
+
+ 5 Le decisioni sulle questioni procedurali sono prese a maggioranza semplice. 
+ 
+
+ 6 Le organizzazioni di integrazione regionale, in settori di loro competenza, possono esercitare il loro diritto di voto nel Comitato della Convenzione con un numero di voti pari al numero dei loro Stati membri che sono Parti della Convenzione. Tale organizzazione non eserciterà il proprio diritto di voto se uno dei suoi Stati membri esercita il proprio diritto. 
+ 
+
+ 7 In caso di votazione, tutte le Parti devono essere informate sullo scopo e sulla tempistica della votazione stessa, nonchè se la votazione sarà esercitata dalle Parti individualmente o da un'organizzazione regionale di integrazione per conto dei suoi Stati membri. 
+ 
+
+ 8 Il Comitato della Convenzione può successivamente modificare il regolamento interno con una maggioranza dì due terzi delle Parti, ad eccezione delle procedure di voto che possono essere modificate soltanto all'unanimità e a cui si applica l'articolo 25 della Convenzione.
