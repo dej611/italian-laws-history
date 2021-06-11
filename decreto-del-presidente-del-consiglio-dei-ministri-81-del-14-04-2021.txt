@@ -1,0 +1,595 @@
+IL PRESIDENTE
+
+ 
+ DEL CONSIGLIO DEI MINISTRI
+
+ 
+
+ 
+ 
+ 
+ Vista la legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, recante disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica e, in particolare, l'articolo 1, comma 3;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 luglio 1999, n. 300, recante riforma dell'organizzazione del Governo, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 1° agosto 2003, n. 259, recante codice delle comunicazioni elettroniche;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante codice dell'amministrazione digitale e, in particolare, l'articolo 29;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, recante misure urgenti per il contrasto del terrorismo e, in particolare, l'articolo 7-bis;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 3 agosto 2007, n. 124, recante Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 18 maggio 2018, n. 65, di attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento adottato con decreto del Presidente del Consiglio dei ministri 3 aprile 2020, n. 2, recante l'ordinamento e l'organizzazione del DIS;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento adottato con decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131, ai sensi dell'articolo 1, comma 2, del decreto-legge n. 105 del 2019, in materia di perimetro di sicurezza nazionale cibernetica;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 17 febbraio 2017, recante direttiva concernente indirizzi per la protezione cibernetica e la sicurezza informatica nazionali, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 87 del 13 aprile 2017;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 8 agosto 2019, recante disposizioni sull'organizzazione e il funzionamento del Computer security incident response team - CSIRT italiano, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 262 dell'8 novembre 2019;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il &laquo;Framework nazionale per la cybersecurity e la data protection&raquo;, edizione 2019 (Framework nazionale), realizzato dal Centro di ricerca di cyber intelligence and information security (CIS) dell'Università Sapienza di Roma e dal Cybersecurity national lab del Consorzio interuniversitario nazionale per l'informatica (CINI), con il supporto dell'Autorità garante per la protezione dei dati personali e del Dipartimento delle informazioni per la sicurezza (DIS), quale strumento di supporto per le organizzazioni pubbliche e private in materia di strategie e processi volti alla protezione dei dati personali, con specifico riferimento alla sicurezza degli stessi a fronte di possibili attacchi informatici, e alla sicurezza cyber, nonchè per il loro continuo monitoraggio;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato di dover tenere conto degli standard definiti a livello internazionale e dell'Unione europea e di assumere, quale base di riferimento per l'individuazione delle misure corrispondenti agli ambiti di cui all'articolo 1, comma 3, lettera b), del decreto-legge n. 105 del 2019, il Framework nazionale, adeguandolo allo specifico contesto operativo delineato dal perimetro di sicurezza nazionale cibernetica e, pertanto, di richiamare, per ciascuna misura individuata, il codice alfanumerico identificativo della relativa sottocategoria del Framework nazionale;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 1° dicembre 2020;
+
+ 
+
+ 
+ Acquisiti i pareri delle Commissioni I e IX riunite, IV e V della Camera dei deputati e delle Commissioni 1&ordf;, 4&ordf; e 5&ordf; del Senato della Repubblica;
+
+ 
+
+ 
+ Sulla proposta del Comitato interministeriale per la sicurezza della Repubblica;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) decreto-legge, il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133; 
+ 
+
+ 
+ 
+
+ 
+ b) perimetro, il perimetro di sicurezza nazionale cibernetica istituito ai sensi dell'articolo 1, comma 1, del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ c) soggetti inclusi nel perimetro, i soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ d) CISR, il Comitato interministeriale per la sicurezza della Repubblica di cui all'articolo 5 della legge 3 agosto 2007, n. 124; 
+ 
+
+ 
+ 
+
+ 
+ e) rete, sistema informativo: 
+ 
+
+ 1) una rete di comunicazione elettronica ai sensi dell'articolo 1, comma 1, lettera dd), del decreto legislativo 1° agosto 2003, n. 259; 
+ 
+
+ 2) qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o più dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali, ivi inclusi i sistemi di controllo industriale; 
+ 
+
+ 3) i dati digitali conservati, trattati, estratti o trasmessi per mezzo di reti o dispositivi di cui ai numeri 1) e 2), per il loro funzionamento, uso, protezione e manutenzione, compresi i programmi di cui al numero 2); 
+ 
+
+ 
+ 
+
+ 
+ f) servizio informatico, un servizio consistente interamente o prevalentemente nel trattamento di informazioni, per mezzo della rete e dei sistemi informativi, ivi incluso quello di cloud computing di cui all'articolo 3, comma 1, lettera aa), del decreto legislativo n. 65 del 2018; 
+ 
+
+ 
+ 
+
+ 
+ g) bene ICT (information and communication technology), un insieme di reti, sistemi informativi e servizi informatici, o parti di essi, incluso nell'elenco di cui all'articolo 1, comma 2, lettera b), del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ h) incidente, ogni evento di natura accidentale o intenzionale che determina il malfunzionamento, l'interruzione, anche parziali, ovvero l'utilizzo improprio delle reti, dei sistemi informativi o dei servizi informatici; 
+ 
+
+ 
+ 
+
+ 
+ i) impatto sul bene ICT, limitazione della operatività del bene ICT, ovvero compromissione della disponibilità, integrità, o riservatezza dei dati e delle informazioni da esso trattati, ai fini dello svolgimento della funzione o del servizio essenziali; 
+ 
+
+ 
+ 
+
+ 
+ l) DIS, il Dipartimento delle informazioni per la sicurezza della Presidenza del Consiglio dei ministri, di cui all'articolo 4 della legge n. 124 del 2007; 
+ 
+
+ 
+ 
+
+ 
+ m) CISR tecnico, l'organismo tecnico di supporto al CISR, di cui all'articolo 4, comma 5, del regolamento adottato con decreto del Presidente del Consiglio dei ministri 3 aprile 2020, n. 2, che definisce l'ordinamento e l'organizzazione del DIS; 
+ 
+
+ 
+ 
+
+ 
+ n) CSIRT italiano, il Computer security incident response team istituito presso il DIS ai sensi dell'articolo 8 del decreto legislativo n. 65 del 2018; 
+ 
+
+ 
+ 
+
+ 
+ o) indicatori di compromissione (IOC), indicatori tecnici impiegati per la rilevazione di una minaccia o compromissione nota e generalmente riconducibili a indirizzi IP, elementi identificativi e moduli software afferenti agli strumenti tecnici impiegati da attori malevoli. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ - Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ - La legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri), è pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. n. 86. 
+ 
+
+ - Si riporta il testo del comma 3 dell'articolo 1 del decreto-legge 21 settembre 2019, n. 105 (Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica), pubblicato nella Gazzetta Ufficiale 21 settembre 2019, n. 222, convertito , con modificazioni, dalla legge 18 novembre 2019, n. 133, pubblicata nella Gazzetta Ufficiale 20 novembre 2019, n. 272: 
+ 
+
+ &laquo;Art. 1. (Perimetro di sicurezza nazionale cibernetica). - 1. - 2. (Omissis). 
+ 
+
+ 3. Entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, che disciplina altresì i relativi termini e modalità attuative, adottato su proposta del CISR: 
+ 
+
+ a) sono definite le procedure secondo cui i soggetti di cui al comma 2-bis notificano gli incidenti aventi impatto su reti, sistemi informativi e servizi informatici di cui al comma 2, lettera b), al Gruppo di intervento per la sicurezza informatica in caso di incidente (CSIRT) italiano, che inoltra tali notifiche, tempestivamente, al Dipartimento delle informazioni per la sicurezza anche per le attività demandate al Nucleo per la sicurezza cibernetica; il Dipartimento delle informazioni per la sicurezza assicura la trasmissione delle notifiche così ricevute all'organo del Ministero dell'interno per la sicurezza e la regolarità dei servizi di telecomunicazione di cui all'articolo 7-bis del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, nonchè alla Presidenza del Consiglio dei ministri, se provenienti da un soggetto pubblico o da un soggetto di cui all'articolo 29 del decreto legislativo 7 marzo 2005, n. 82, ovvero al Ministero dello sviluppo economico, se effettuate da un soggetto privato; 
+ 
+
+ b) sono stabilite misure volte a garantire elevati livelli di sicurezza delle reti, dei sistemi informativi e dei servizi informatici di cui al comma 2, lettera b), tenendo conto degli standard definiti a livello internazionale e dell'Unione europea relative: 
+ 
+
+ 1) alla struttura organizzativa preposta alla gestione della sicurezza; 
+ 
+
+ 1-bis) alle politiche di sicurezza e alla gestione del rischio; 
+ 
+
+ 2) alla mitigazione e gestione degli incidenti e alla loro prevenzione, anche attraverso interventi su apparati o prodotti che risultino gravemente inadeguati sul piano della sicurezza; 
+ 
+
+ 3) alla protezione fisica e logica e dei dati; 
+ 
+
+ 4) all'integrità delle reti e dei sistemi informativi; 
+ 
+
+ 5) alla gestione operativa, ivi compresa la continuità del servizio; 
+ 
+
+ 6) al monitoraggio, test e controllo; 
+ 
+
+ 7) alla formazione e consapevolezza; 
+ 
+
+ 8) all'affidamento di forniture di beni, sistemi e servizi di information and communication technology (ICT), anche mediante definizione di caratteristiche e requisiti di carattere generale, di standard e di eventuali limiti. 
+ 
+
+ 4. - 19-ter. (Omissis).&raquo;. 
+ 
+
+ - Il decreto legislativo 30 luglio 1999, n. 300 (Riforma dell'organizzazione del Governo, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59), è pubblicato nella Gazzetta Ufficiale 30 agosto 1999, n. 203, S.O. n. 163. 
+ 
+
+ - Il decreto legislativo 1° agosto 2003, n. 259 (Codice delle comunicazioni elettroniche), è pubblicato nella Gazzetta Ufficiale 15 settembre 2003, n. 214, S.O. n. 150. 
+ 
+
+ - Si riporta il testo dell'articolo 29 del decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale), pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. n. 93: 
+ 
+
+ &laquo;Art. 29. (Qualificazione dei fornitori di servizi). - 1. I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l'attività di gestore di posta elettronica certificata presentano all'AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. 
+ 
+
+ 2. Ai fini della qualificazione, i soggetti di cui al comma 1 devono possedere i requisiti di cui all'articolo 24 del regolamento (UE) 23 luglio 2014, n. 910/2014, disporre di requisiti di onorabilità, affidabilità, tecnologici e organizzativi compatibili con la disciplina europea, nonchè di garanzie assicurative adeguate rispetto all'attività svolta. Con decreto del Presidente del Consiglio dei ministri, o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, sentita l'AgID, nel rispetto della disciplina europea, sono definiti i predetti requisiti in relazione alla specifica attività che i soggetti di cui al comma 1 intendono svolgere. Il predetto decreto determina altresì i criteri per la fissazione delle tariffe dovute all'AgID per lo svolgimento delle predette attività, nonchè i requisiti e le condizioni per lo svolgimento delle attività di cui al comma 1 da parte di amministrazioni pubbliche. 
+ 
+
+ 3. 
+ 
+
+ 4. La domanda di qualificazione si considera accolta qualora non venga comunicato all'interessato il provvedimento di diniego entro novanta giorni dalla data di presentazione della stessa. 
+ 
+
+ 5. Il termine di cui al comma 4, può essere sospeso una sola volta entro trenta giorni dalla data di presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano già nella disponibilità di AgID o che questo non possa acquisire autonomamente. In tale caso, il termine riprende a decorrere dalla data di ricezione della documentazione integrativa. 
+ 
+
+ 6. A seguito dell'accoglimento della domanda, AgID dispone l'iscrizione del richiedente in un apposito elenco di fiducia pubblico, tenuto da AgID stesso e consultabile anche in via telematica, ai fini dell'applicazione della disciplina in questione. 
+ 
+
+ 7. - 8. 
+ 
+
+ 9. Alle attività previste dal presente articolo si fa fronte nell'ambito delle risorse di AgID, senza nuovi o maggiori oneri per la finanza pubblica.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 7-bis del decreto-legge 27 luglio 2005, n. 144 (Misure urgenti per il contrasto del terrorismo internazionale), pubblicato nella Gazzetta Ufficiale 27 luglio 2005, n. 173, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, pubblicata nella Gazzetta Ufficiale 1° agosto 2005, n. 177: 
+ 
+
+ &laquo;Art. 7-bis. (Sicurezza telematica). - 1. Ferme restando le competenze dei Servizi informativi e di sicurezza, di cui agli articoli 4 e 6 della legge 24 ottobre 1977, n. 801, l'organo del Ministero dell'interno per la sicurezza e per la regolarità dei servizi di telecomunicazione assicura i servizi di protezione informatica delle infrastrutture critiche informatizzate di interesse nazionale individuate con decreto del Ministro dell'interno, operando mediante collegamenti telematici definiti con apposite convenzioni con i responsabili delle strutture interessate. 
+ 
+
+ 2. Per le finalità di cui al comma 1 e per la prevenzione e repressione delle attività terroristiche o di agevolazione del terrorismo condotte con i mezzi informatici, gli ufficiali di polizia giudiziaria appartenenti all'organo di cui al comma 1 possono svolgere le attività di cui all'articolo 4, commi 1 e 2, del decreto-legge 18 ottobre 2001, n. 374, convertito, con modificazioni, dalla legge 15 dicembre 2001, n. 438, e quelle di cui all' articolo 226 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, anche a richiesta o in collaborazione con gli organi di polizia giudiziaria ivi indicati.&raquo;. 
+ 
+
+ - La legge 3 agosto 2007, n. 124 (Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto), è pubblicata nella Gazzetta Ufficiale 13 agosto 2007, n.187. 
+ 
+
+ - Il decreto legislativo 18 maggio 2018, n. 65 (Attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione), è pubblicato nella Gazzetta Ufficiale 9 giugno 2018, n.132. 
+ 
+
+ - Il comunicato relativo all'adozione del decreto del Presidente del Consiglio dei ministri 3 aprile 2020, n. 2 (Regolamento che definisce l'ordinamento e l'organizzazione del Dipartimento delle informazioni per la sicurezza (DIS)), è pubblicato nella Gazzetta Ufficiale 10 aprile 2020, n. 96. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131 (Regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n.133), è pubblicato nella Gazzetta Ufficiale 21 ottobre 2020, n. 261. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 17 febbraio 2017 (Direttiva recante indirizzi per la protezione cibernetica e la sicurezza informatica nazionali), è pubblicato nella Gazzetta Ufficiale 13 aprile 2017, n. 87. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 8 agosto 2019 (Disposizioni sull'organizzazione e il funzionamento del Computer securty incident response team - CSIRT italiano), è pubblicato nella Gazzetta Ufficiale 8 novembre 2019 n. 262. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo dei commi 1 e 2-bis dell'articolo 1, del citato decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133: 
+ 
+
+ &laquo;Art. 1. (Perimetro di sicurezza nazionale cibernetica). - 1. Al fine di assicurare un livello elevato di sicurezza delle reti, dei sistemi informativi e dei servizi informatici delle amministrazioni pubbliche, degli enti e degli operatori pubblici e privati aventi una sede nel territorio nazionale, da cui dipende l'esercizio di una funzione essenziale dello Stato, ovvero la prestazione di un servizio essenziale per il mantenimento di attività civili, sociali o economiche fondamentali per gli interessi dello Stato e dal cui malfunzionamento, interruzione, anche parziali, ovvero utilizzo improprio, possa derivare un pregiudizio per la sicurezza nazionale, è istituito il perimetro di sicurezza nazionale cibernetica. 
+ 
+
+ 2. (Omissis). 
+ 
+
+ 2-bis. L'elencazione dei soggetti individuati ai sensi del comma 2, lettera a), è contenuta in un atto amministrativo, adottato dal Presidente del Consiglio dei ministri, su proposta del CISR, entro trenta giorni dalla data di entrata in vigore del decreto del Presidente del Consiglio dei ministri di cui al comma 2. Il predetto atto amministrativo, per il quale è escluso il diritto di accesso, non è soggetto a pubblicazione, fermo restando che a ciascun soggetto è data, separatamente, comunicazione senza ritardo dell'avvenuta iscrizione nell'elenco. L'aggiornamento del predetto atto amministrativo è effettuato con le medesime modalità di cui al presente comma. 
+ 
+
+ 3. - 19-ter. (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 5 della citata legge 3 agosto 2007, n. 124 (Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto): 
+ 
+
+ &laquo;Art. 5. (Comitato interministeriale per la sicurezza della Repubblica). - 1. Presso la Presidenza del Consiglio dei ministri è istituito il Comitato interministeriale per la sicurezza della Repubblica (CISR) con funzioni di consulenza, proposta e deliberazione sugli indirizzi e sulle finalità generali della politica dell'informazione per la sicurezza. 
+ 
+
+ 2.Il Comitato elabora gli indirizzi generali e gli obiettivi fondamentali da perseguire nel quadro della politica dell'informazione per la sicurezza, delibera sulla ripartizione delle risorse finanziarie tra il DIS e i servizi di informazione per la sicurezza e sui relativi bilanci preventivi e consuntivi. 
+ 
+
+ 3. Il Comitato è presieduto dal Presidente del Consiglio dei ministri ed è composto dall'Autorità delegata, ove istituita, dal Ministro degli affari esteri, dal Ministro dell'interno, dal Ministro della difesa, dal Ministro della giustizia, dal Ministro dell'economia e delle finanze, dal Ministro dello sviluppo economico e dal Ministro della transizione ecologica. 
+ 
+
+ 4. Il direttore generale del DIS svolge le funzioni di segretario del Comitato. 
+ 
+
+ 5. Il Presidente del Consiglio dei ministri può chiamare a partecipare alle sedute del Comitato, anche a seguito di loro richiesta, senza diritto di voto, altri componenti del Consiglio dei ministri, i direttori dell'AISE e dell'AISI, nonchè altre autorità civili e militari di cui di volta in volta sia ritenuta necessaria la presenza in relazione alle questioni da trattare.&raquo;. 
+ 
+
+ - Si riporta il testo del comma 1, lettera dd) dell'articolo 1 del citato decreto legislativo 1° agosto 2003, n. 259 (Codice delle comunicazioni elettroniche): 
+ 
+
+ &laquo;Art. 1. (Definizioni). - 1. Ai fini del presente Codice si intende per: 
+ 
+
+ a). - cc). (Omissis); 
+ 
+
+ dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+ 
+
+ ee). - qq-quater). (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo del comma 1, lettera aa), dell'articolo 3 del citato decreto legislativo 18 maggio 2018, n. 65: 
+ 
+
+ &laquo;Art. 3. (Definizioni). - 1. Ai fini del presente decreto si intende per: 
+ 
+
+ a). - zz). (Omissis); 
+ 
+
+ aa) servizio di cloud computing, un servizio digitale che consente l'accesso a un insieme scalabile ed elastico di risorse informatiche condivisibili.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 1, comma 2, lettera b) del citato decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133: 
+ 
+
+ &laquo;Art. 1. (Perimetro di sicurezza nazionale cibernetica). - 2. Entro quattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Comitato interministeriale per la sicurezza della Repubblica (CISR): 
+ 
+
+ a). (Omissis); 
+ 
+
+ b) sono definiti, sulla base di un'analisi del rischio e di un criterio di gradualità che tenga conto delle specificità dei diversi settori di attività, i criteri con i quali i soggetti di cui al comma 2-bis predispongono e aggiornano con cadenza almeno annuale un elenco delle reti, dei sistemi informativi e dei servizi informatici di cui al comma 1, di rispettiva pertinenza, comprensivo della relativa architettura e componentistica, fermo restando che, per le reti, i sistemi informativi e i servizi informatici attinenti alla gestione delle informazioni classificate, si applica quanto previsto dal regolamento adottato ai sensi dell'articolo 4, comma 3, lettera l), della legge 3 agosto 2007, n. 124; all'elaborazione di tali criteri provvede, adottando opportuni moduli organizzativi, l'organismo tecnico di supporto al CISR, integrato con un rappresentante della Presidenza del Consiglio dei ministri; entro sei mesi dalla data della comunicazione, prevista dal comma 2-bis, a ciascuno dei soggetti iscritti nell'elenco di cui al medesimo comma, i soggetti pubblici e quelli di cui all'articolo 29 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, nonchè quelli privati, di cui al comma 2-bis trasmettono tali elenchi, rispettivamente, alla Presidenza del Consiglio dei ministri e al Ministero dello sviluppo economico; la Presidenza del Consiglio dei ministri e il Ministero dello sviluppo economico inoltrano gli elenchi di rispettiva pertinenza al Dipartimento delle informazioni per la sicurezza, anche per le attività di prevenzione, preparazione e gestione di crisi cibernetiche affidate al Nucleo per la sicurezza cibernetica, nonchè all'organo del Ministero dell'interno per la sicurezza e la regolarità dei servizi di telecomunicazione di cui all'articolo 7-bis del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 4, della citata legge 3 agosto 2007, n. 124 (Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto): 
+ 
+
+ &laquo;Art. 4. (Dipartimento delle informazioni per la sicurezza). - 1. Per lo svolgimento dei compiti di cui al comma 3 è istituito, presso la Presidenza del Consiglio dei ministri, il Dipartimento delle informazioni per la sicurezza (DIS). 
+ 
+
+ 2. Il Presidente del Consiglio dei ministri e l'Autorità delegata, ove istituita, si avvalgono del DIS per l'esercizio delle loro competenze, al fine di assicurare piena unitarietà nella programmazione della ricerca informativa del Sistema di informazione per la sicurezza, nonchè nelle analisi e nelle attività operative dei servizi di informazione per la sicurezza. 
+ 
+
+ 3. Il DIS svolge i seguenti compiti: 
+ 
+
+ a) coordina l'intera attività di informazione per la sicurezza, verificando altresì i risultati delle attività svolte dall'AISE e dall'AISI, ferma restando la competenza dei predetti servizi relativamente alle attività di ricerca informativa e di collaborazione con i servizi di sicurezza degli Stati esteri; 
+ 
+
+ b) è costantemente informato delle operazioni di competenza dei servizi di informazione per la sicurezza e trasmette al Presidente del Consiglio dei ministri le informative e le analisi prodotte dal Sistema di informazione per la sicurezza; 
+ 
+
+ c) raccoglie le informazioni, le analisi e i rapporti provenienti dai servizi di informazione per la sicurezza, dalle Forze armate e di polizia, dalle amministrazioni dello Stato e da enti di ricerca anche privati; ferma l'esclusiva competenza dell'AISE e dell'AISI per l'elaborazione dei rispettivi piani di ricerca operativa, elabora analisi strategiche o relative a particolari situazioni; formula valutazioni e previsioni, sulla scorta dei contributi analitici settoriali dell'AISE e dell'AISI; 
+ 
+
+ d) elabora, anche sulla base delle informazioni e dei rapporti di cui alla lettera c), analisi globali da sottoporre al CISR, nonchè progetti di ricerca informativa, sui quali decide il Presidente del Consiglio dei ministri, dopo avere acquisito il parere del CISR; 
+ 
+
+ d-bis) sulla base delle direttive di cui all'articolo 1, comma 3-bis, nonchè delle informazioni e dei rapporti di cui alla lettera c) del presente comma, coordina le attività di ricerca informativa finalizzate a rafforzare la protezione cibernetica e la sicurezza informatica nazionali; 
+ 
+
+ e) promuove e garantisce, anche attraverso riunioni periodiche, lo scambio informativo tra l'AISE, l'AISI e le Forze di polizia; comunica al Presidente del Consiglio dei ministri le acquisizioni provenienti dallo scambio informativo e i risultati delle riunioni periodiche; 
+ 
+
+ f) trasmette, su disposizione del Presidente del Consiglio dei ministri, sentito il CISR, informazioni e analisi ad amministrazioni pubbliche o enti, anche ad ordinamento autonomo, interessati all'acquisizione di informazioni per la sicurezza; 
+ 
+
+ g) elabora, d'intesa con l'AISE e l'AISI, il piano di acquisizione delle risorse umane e materiali e di ogni altra risorsa comunque strumentale all'attività dei servizi di informazione per la sicurezza, da sottoporre all'approvazione del Presidente del Consiglio dei ministri; 
+ 
+
+ h) sentite l'AISE e l'AISI, elabora e sottopone all'approvazione del Presidente del Consiglio dei ministri lo schema del regolamento di cui all'articolo 21, comma 1; 
+ 
+
+ i) esercita il controllo sull'AISE e sull'AISI, verificando la conformità delle attività di informazione per la sicurezza alle leggi e ai regolamenti, nonchè alle direttive e alle disposizioni del Presidente del Consiglio dei ministri. Per tale finalità, presso il DIS è istituito un ufficio ispettivo le cui modalità di organizzazione e di funzionamento sono definite con il regolamento di cui al comma 7. Con le modalità previste da tale regolamento è approvato annualmente, previo parere del Comitato parlamentare di cui all'articolo 30, il piano annuale delle attività dell'ufficio ispettivo. L'ufficio ispettivo, nell'ambito delle competenze definite con il predetto regolamento, può svolgere, anche a richiesta del direttore generale del DIS, autorizzato dal Presidente del Consiglio dei ministri, inchieste interne su specifici episodi e comportamenti verificatisi nell'ambito dei servizi di informazione per la sicurezza; 
+ 
+
+ l) assicura l'attuazione delle disposizioni impartite dal Presidente del Consiglio dei ministri con apposito regolamento adottato ai sensi dell'articolo 1, comma 2, ai fini della tutela amministrativa del segreto di Stato e delle classifiche di segretezza, vigilando altresì sulla loro corretta applicazione; 
+ 
+
+ m) cura le attività di promozione e diffusione della cultura della sicurezza e la comunicazione istituzionale; 
+ 
+
+ n) impartisce gli indirizzi per la gestione unitaria del personale di cui all'articolo 21, secondo le modalità definite dal regolamento di cui al comma 1 del medesimo articolo; 
+ 
+
+ n-bis) gestisce unitariamente, ferme restando le competenze operative dell'AISE e dell'AISI, gli approvvigionamenti e i servizi logistici comuni. 
+ 
+
+ 4. Fermo restando quanto previsto dall'articolo 118-bis del codice di procedura penale, introdotto dall'articolo 14 della presente legge, qualora le informazioni richieste alle Forze di polizia, ai sensi delle lettere c) ed e) del comma 3 del presente articolo, siano relative a indagini di polizia giudiziaria, le stesse, se coperte dal segreto di cui all'articolo 329 del codice di procedura penale, possono essere acquisite solo previo nulla osta della autorità giudiziaria competente. L'autorità giudiziaria può trasmettere gli atti e le informazioni anche di propria iniziativa. 
+ 
+
+ 5. La direzione generale del DIS è affidata ad un dirigente di prima fascia o equiparato dell'amministrazione dello Stato, la cui nomina e revoca spettano in via esclusiva al Presidente del Consiglio dei ministri, sentito il CISR. L'incarico ha comunque la durata massima di quattro anni ed è rinnovabile con successivi provvedimenti per una durata complessiva massima di ulteriori quattro anni. Per quanto previsto dalla presente legge, il direttore del DIS è il diretto referente del Presidente del Consiglio dei ministri e dell'Autorità delegata, ove istituita, salvo quanto previsto dall'articolo 6, comma 5, e dall'articolo 7, comma 5, ed è gerarchicamente e funzionalmente sovraordinato al personale del DIS e degli uffici istituiti nell'ambito del medesimo Dipartimento. 
+ 
+
+ 6. Il Presidente del Consiglio dei ministri, sentito il direttore generale del DIS, nomina uno o più vice direttori generali; il direttore generale affida gli altri incarichi nell'ambito del dipartimento, ad eccezione degli incarichi il cui conferimento spetta al Presidente del Consiglio dei ministri. 
+ 
+
+ 7. L'ordinamento e l'organizzazione del DIS e degli uffici istituiti nell'ambito del medesimo dipartimento sono disciplinati con apposito regolamento. 
+ 
+
+ 8. Il regolamento previsto dal comma 7 definisce le modalità di organizzazione e di funzionamento dell'ufficio ispettivo di cui al comma 3, lettera i), secondo i seguenti criteri: 
+ 
+
+ a) agli ispettori è garantita piena autonomia e indipendenza di giudizio nell'esercizio delle funzioni di controllo; 
+ 
+
+ b) salva specifica autorizzazione del Presidente del Consiglio dei ministri o dell'Autorità delegata, ove istituita, i controlli non devono interferire con le operazioni in corso; 
+ 
+
+ c) sono previste per gli ispettori specifiche prove selettive e un'adeguata formazione; 
+ 
+
+ d) non è consentito il passaggio di personale dall'ufficio ispettivo ai servizi di informazione per la sicurezza; 
+ 
+
+ e) gli ispettori, previa autorizzazione del Presidente del Consiglio dei ministri o dell'Autorità delegata, ove istituita, possono accedere a tutti gli atti conservati presso i servizi di informazione per la sicurezza e presso il DIS; possono altresì acquisire, tramite il direttore generale del DIS, altre informazioni da enti pubblici e privati.&raquo;. 
+ 
+
+ - Per il comunicato relativo all'adozione del decreto del Presidente del Consiglio dei ministri 3 aprile 2020, n. 2 (Regolamento che definisce l'ordinamento e l'organizzazione del Dipartimento delle informazioni per la sicurezza (DIS)), si veda nelle note alle premesse. 
+ 
+
+ - Si riporta il testo dell'articolo 8, del citato decreto legislativo 18 maggio 2018, n. 65: 
+ 
+
+ &laquo;Art. 8. (Gruppi di intervento per la sicurezza informatica in caso di incidente - CSIRT). - 1. è istituito, presso la Presidenza del Consiglio dei ministri - Dipartimento delle informazioni per la sicurezza, il CSIRT italiano, che svolge i compiti e le funzioni del Computer emergency response team (CERT) nazionale, di cui all'articolo 16-bis del decreto legislativo 1° agosto 2003, n. 259, e del CERT-PA, già operante presso l'Agenzia per l'Italia digitale ai sensi dell'articolo 51 del decreto legislativo 7 marzo 2005, n. 82. 
+ 
+
+ 2. L'organizzazione e il funzionamento del CSIRT italiano sono disciplinati con decreto del Presidente del Consiglio dei ministri ai sensi dell'articolo 7 del decreto legislativo 30 luglio 1999, n. 303, da adottare entro il 9 novembre 2018. 
+ 
+
+ 3. Nelle more dell'adozione del decreto di cui al comma 2, le funzioni di CSIRT italiano sono svolte dal CERT nazionale unitamente al CERT-PA in collaborazione tra loro. 
+ 
+
+ 4. Il CSIRT italiano assicura la conformità ai requisiti di cui all'allegato I, punto 1, svolge i compiti di cui all'allegato I, punto 2, si occupa dei settori di cui all'allegato II e dei servizi di cui all'allegato III e dispone di un'infrastruttura di informazione e comunicazione appropriata, sicura e resiliente a livello nazionale. 
+ 
+
+ 5. Il CSIRT italiano definisce le procedure per la prevenzione e la gestione degli incidenti informatici. 
+ 
+
+ 6. Il CSIRT italiano garantisce la collaborazione effettiva, efficiente e sicura, nella rete di CSIRT di cui all'articolo 11. 
+ 
+
+ 7. La Presidenza del Consiglio dei ministri comunica alla Commissione europea il mandato del CSIRT italiano e le modalità di trattamento degli incidenti a questo affidati. 
+ 
+
+ 8. Il CSIRT italiano, per lo svolgimento delle proprie funzioni, può avvalersi anche dell'Agenzia per l'Italia digitale. 
+ 
+
+ 9. Le funzioni svolte dal Ministero dello sviluppo economico in qualità di CERT nazionale ai sensi dell'articolo 16-bis, del decreto legislativo 1° agosto 2003, n. 259, nonchè quelle svolte da Agenzia per l'Italia digitale in qualità di CERT-PA, ai sensi dell'articolo 51 del decreto legislativo 7 marzo 2005, n. 82, sono trasferite al CSIRT italiano a far data dalla entrata in vigore del decreto di cui al comma 2. 
+ 
+
+ 10. Per le spese relative al funzionamento del CSIRT italiano è autorizzata la spesa di 2.000.000 di euro annui a decorrere dall'anno 2020. A tali oneri si provvede ai sensi dell'articolo 22.&raquo;.
