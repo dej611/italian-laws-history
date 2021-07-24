@@ -169,7 +169,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Al fine di sostenere gli operatori economici colpiti dall'emergenza epidemiologica "Covid-19", è riconosciuto un ulteriore contributo a fondo perduto a favore di tutti i soggetti che hanno la partita IVA attiva alla data di entrata in vigore del presente decreto e, inoltre, presentano istanza e ottengono il riconoscimento del contributo a fondo perduto di cui all'articolo 1 del decreto-legge 22 marzo 2021, n. 41, e che non abbiano indebitamente percepito o che non abbiano restituito tale contributo. 
+ 1. Al fine di sostenere gli operatori economici colpiti dall'emergenza epidemiologica "Covid-19", è riconosciuto un ulteriore contributo a fondo perduto a favore di tutti i soggetti che hanno la partita IVA attiva alla data di entrata in vigore del presente decreto e, inoltre, presentano istanza e ottengono il riconoscimento del contributo a fondo perduto di cui all'articolo 1 del decreto-legge 22 marzo 2021, n. 41, 
+ ((convertito, con modificazioni, dalla legge 21 maggio 2021, n. 69,))
+
+ e che non abbiano indebitamente percepito o che non abbiano restituito tale contributo. 
  
 
  
@@ -193,7 +196,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Gli oneri derivanti dalle disposizioni di cui ai commi 1 e 2 sono valutati in 8.000 milioni di euro per l'anno 2021. 
+ 4. Gli oneri derivanti dalle disposizioni di cui ai commi 1 e 2 sono valutati 
+ ((in 5.873 milioni))
+
+ di euro per l'anno 2021. 
  
 
  
@@ -452,6 +458,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((25-bis. Per le finalità di cui ai commi da 16 a 24 è destinata, in aggiunta a quanto previsto dal comma 25, un'ulteriore somma di 452,1 milioni di euro per l'anno 2021, cui si provvede ai sensi dell'articolo 77))
+ 
+
+ 
+
+ 
  26. Ai fini del contributo di cui ai commi da 16 a 24 si applicano, in quanto compatibili, le disposizioni di cui all'articolo 1, commi 9 e da 13 a 17, del decreto-legge 22 marzo 2021, n. 41. 
  
 
@@ -460,7 +473,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 27. L'efficacia delle misure previste dal comma 16 al comma 26 del presente articolo è subordinata, ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea, all'autorizzazione della Commissione europea. 
+ 27. L'efficacia delle misure 
+ ((previste dai commi da 16 a 26))
+
+ del presente articolo è subordinata, ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea, all'autorizzazione della Commissione europea. 
  
 
  
@@ -468,7 +484,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 28. All'articolo 1, comma 14, del decreto-legge 22 marzo 2021, n. 41, dopo l'ultimo periodo è aggiunto il seguente: "Le imprese presentano un'apposita autodichiarazione con la quale attestano l'esistenza delle condizioni previste dalla Sezione 3.1 di cui al periodo precedente.". 
+ 28. All'articolo 1, comma 14, del decreto-legge 22 marzo 2021, n. 41, 
+ ((è aggiunto, in fine, il seguente periodo))
+
+ : "Le imprese presentano un'apposita autodichiarazione con la quale attestano l'esistenza delle condizioni previste dalla Sezione 3.1 di cui al periodo precedente.". 
  
 
  
@@ -476,26 +495,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 29. Agli oneri di cui ai commi 4 e 14, valutati in 11.400 milioni di euro per l'anno 2021, si provvede ai sensi dell'articolo 77. 
- 
-
- 30 
- ((COMMA ABROGATO DAL D.L. 30 GIUGNO 2021, N. 99))
-
- . 
- ((2))
-
- 
- 
-
- 
-
- 
- ---------------
-
- AGGIORNAMENTO (2)
-
- 
- 
-
- L'abrogazione del comma 30 dell'art. 1 ha perso efficacia per effetto dell'abrogazione del D.L. 30 giugno 2021, n. 99 ad opera della L. 23 luglio 2021, n. 106, la quale ne ha contestualmente fatti salvi gli effetti.
+ 29. .
