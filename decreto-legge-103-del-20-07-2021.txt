@@ -58,7 +58,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Al fine di assicurare l'integrità, il decoro e la sicurezza delle vie d'acqua dichiarate monumento nazionale o riconosciute di interesse culturale ai sensi degli articoli 10 e 12 del decreto legislativo 22 gennaio 2004, n. 42, le misure di tutela e le prescrizioni concernenti gli usi non compatibili possono comprendere anche limitazioni e divieto del transito di navi con specifiche caratteristiche, riferite alla stazza lorda, alla lunghezza dello scafo, all'altezza di costruzione e alle emissioni di sostanze inquinanti. 
+ 1. Al fine di assicurare l'integrità, il decoro e la sicurezza delle vie d'acqua dichiarate monumento nazionale o riconosciute di interesse culturale ai sensi degli articoli 10 e 12 del 
+ ((codice dei beni culturali e del paesaggio, di cui al))
+
+ decreto legislativo 22 gennaio 2004, n. 42, le misure di tutela e le prescrizioni concernenti gli usi non compatibili possono comprendere anche limitazioni e divieto del transito di navi con specifiche caratteristiche, riferite alla stazza lorda, alla lunghezza dello scafo, all'altezza di costruzione e alle emissioni di sostanze inquinanti. 
  
 
  
@@ -92,7 +95,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) air draft superiore a 35 metri, con esclusione delle navi a propulsione mista vela - motore; 
+ c) 
+ (( altezza dalla linea di galleggiamento (air draft) ))
+
+ superiore a 35 metri, con esclusione delle navi a propulsione mista vela - motore; 
  
 
  
@@ -112,7 +118,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 3. è istituito nello stato di previsione del Ministero delle infrastrutture e della mobilità sostenibili un fondo con una dotazione di euro 35 milioni per l'anno 2021 e di euro 20 milioni per l'anno 2022, finalizzato: 
+ 3. è istituito nello stato di previsione del Ministero delle infrastrutture e della mobilità sostenibili un fondo con una dotazione di euro 35 milioni per l'anno 2021 e di euro 
+ ((22,5 milioni per l'anno 2022))
+
+ , finalizzato: 
  
 
  
@@ -126,7 +135,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) all'erogazione, nel limite complessivo di euro 5 milioni per l'anno 2021 e di euro 20 milioni per l'anno 2022, di contributi in favore del gestore del terminal di approdo interessato dal divieto di transito di cui al comma 2, e delle imprese di cui lo stesso si avvale. 
+ b) all'erogazione, nel limite complessivo di euro 5 milioni per l'anno 2021 e di euro 
+ ((22,5 milioni per l'anno 2022))
+
+ , di contributi in favore del gestore del terminal di approdo interessato dal divieto di transito 
+ ((di cui al comma 2 e delle imprese di cui lo stesso si avvale nonchè delle imprese dell'indotto e delle attività commerciali collegate))
+
+ . 
  
 
  
@@ -137,7 +152,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Ove non sia possibile fare ricorso agli strumenti già previsti a legislazione vigente, per il finanziamento di misure di sostegno al reddito dei lavoratori impiegati dal gestore del terminal di approdo di cui alla lettera b) del comma 3, dalle imprese autorizzate ai sensi dell'articolo 16 della legge 28 gennaio 1994, n. 84, titolari di contratti d'appalto di attività comprese, ai sensi dell'articolo 18, comma 7, ultimo periodo, della medesima legge n. 84 del 1994, nel ciclo operativo del citato gestore del terminal di approdo, dalle imprese esercenti i servizi di cui all'articolo 14, comma 1-bis, della medesima legge n. 84 del 1994, dalle imprese titolari di concessione ai sensi dell'articolo 36 del codice della navigazione, dalle imprese autorizzate ad operare ai sensi dell'articolo 68 del medesimo codice, dalle imprese titolari di concessione ai sensi dell'articolo 60 del regolamento per la navigazione marittima di cui al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, dagli esercenti le attività di cui alla legge 4 aprile 1977, n. 135, nonchè dagli spedizionieri doganali e dalle imprese operanti nel settore della logistica, la cui attività sia connessa al transito delle navi nelle vie urbane d'acqua di cui al comma 2, il Fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, è incrementato di 5 milioni di euro per l'anno 2021 e di 5 milioni di euro per l'anno 2022. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono definiti i criteri e le modalità di utilizzo delle risorse di cui al presente comma che, in ogni caso, costituiscono limite di spesa. 
+ 4. Ove non sia possibile fare ricorso agli strumenti già previsti a legislazione vigente, per il finanziamento di misure di sostegno al reddito dei lavoratori impiegati dal gestore del terminal di approdo di cui alla lettera b) del comma 3, dalle imprese autorizzate ai sensi dell'articolo 16 della legge 28 gennaio 1994, n. 84, titolari di contratti d'appalto di attività comprese, ai sensi dell'articolo 18, comma 7, ultimo periodo, della medesima legge n. 84 del 1994, nel ciclo operativo del citato gestore del terminal di approdo, dalle imprese esercenti i servizi di cui all'articolo 14, comma 1-bis, della medesima legge n. 84 del 1994, dalle imprese titolari di concessione ai sensi dell'articolo 36 del codice della navigazione, dalle imprese autorizzate ad operare ai sensi dell'articolo 68 del medesimo codice, dalle imprese titolari di concessione ai sensi dell'articolo 60 del 
+ ((regolamento per l'esecuzione del codice della navigazione (Navigazione marittima),))
+
+ di cui al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, dagli esercenti le attività di cui alla legge 4 aprile 1977, n. 135, nonchè dagli spedizionieri doganali e dalle imprese operanti nel settore della logistica, la cui attività sia connessa al transito delle navi nelle vie urbane d'acqua di cui al comma 2, il Fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, è incrementato di 5 milioni di euro per l'anno 2021 e di 
+ ((10 milioni di euro per l'anno 2022))
+
+ . Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono definiti i criteri e le modalità di utilizzo delle risorse di cui al presente comma che, in ogni caso, costituiscono limite di spesa. 
  
 
  
@@ -145,11 +166,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. In relazione alle misure di cui al presente articolo, al fine di sostenere l'equilibrio del piano economico finanziario della concessione rilasciata al gestore di cui alla lettera b) del comma 3, la competente Autorità di Sistema Portuale può procedere, nel rispetto della normativa europea, alla revisione del predetto piano, tenendo conto dei contributi riconosciuti ai sensi della predetta lettera b) del comma 3 e ferma restando la sostenibilità di tale revisione per gli equilibri di bilancio dell'Autorità di sistema portuale. Ove necessario per il riequilibrio, la revisione della concessione potrà prevedere la proroga della sua durata e la riduzione, rateizzazione o rimodulazione del canone concessorio. 
+ 
+ (( 5. In relazione alle misure di cui al presente articolo, al fine di sostenere l'equilibrio del piano economico finanziario della concessione rilasciata al gestore di cui alla lettera b) del comma 3, la competente Autorità di sistema portuale può procedere, nel rispetto della normativa europea, alla revisione del predetto piano, tenendo conto dei contributi riconosciuti ai sensi della predetta lettera b) del comma 3 e ferma restando la sostenibilità di tale revisione per gli equilibri di bilancio dell'Autorità di sistema portuale. Ove necessario per il riequilibrio, la revisione della concessione può prevedere la proroga della sua durata, la riduzione, rateizzazione o rimodulazione del canone concessorio, nonchè, in deroga all'articolo 18, comma 7, della legge 28 gennaio 1994, n. 84, l'affidamento della gestione dei punti di attracco temporanei di cui all'articolo 2, comma 1, lettera a) ))
  
 
- 
- 
  
 
  
@@ -161,4 +181,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Agli oneri derivanti dai commi 3 e 4 del presente articolo pari a 40 milioni per l'anno 2021 e a 25 milioni per l'anno 2022, si provvede ai sensi dell'articolo 5.
+ 7. Agli oneri derivanti dai commi 3 e 4 del presente articolo 
+ ((, pari a 40 milioni di euro per l'anno 2021 e a 32,5 milioni di euro per l'anno 2022))
+
+ , si provvede ai sensi dell'articolo 5.
