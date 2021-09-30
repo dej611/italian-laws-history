@@ -72,14 +72,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 1. A decorrere dal 1° luglio 2021 e fino al 31 dicembre 2021, ai nuclei familiari che non abbiano diritto all'assegno per il nucleo familiare di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, è riconosciuto un assegno temporaneo su base mensile, a condizione che al momento della presentazione della domanda e per tutta la durata del beneficio, siano in possesso congiuntamente dei seguenti requisiti: 
+ 1. 
+ ((In via temporanea,))
+
+ A decorrere dal 1° luglio 2021 e fino al 31 dicembre 2021, ai nuclei familiari che non abbiano diritto all'assegno per il nucleo familiare di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, è riconosciuto un assegno temporaneo su base mensile, a condizione che al momento della presentazione della domanda e per tutta la durata del beneficio, siano in possesso congiuntamente dei seguenti requisiti: 
  
 
  
  
 
  
- a) con riferimento ai requisiti di accesso, cittadinanza, residenza e soggiorno, il richiedente l'assegno deve cumulativamente: 
+ a) con riferimento ai requisiti di 
+ ((...))
+
+ cittadinanza, residenza e soggiorno, il richiedente l'assegno deve cumulativamente: 
  
 
  1) essere cittadino italiano o di uno Stato membro dell'Unione europea, o suo familiare, titolare del diritto di soggiorno o del diritto di soggiorno permanente, ovvero essere cittadino di uno Stato non appartenente all'Unione europea in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo o del permesso di soggiorno per motivi di lavoro o di ricerca di durata almeno semestrale; 
@@ -88,7 +94,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) essere soggetto al pagamento dell'imposta sul reddito in Italia; 
  
 
- 3) essere domiciliato e residente in Italia e avere i figli a carico sino al compimento del diciottesimo anno d'età; 
+ 3) essere domiciliato e residente in Italia e avere i figli a carico 
+ ((di età inferiore ai diciotto anni compiuti))
+
+ ; 
  
 
  4) essere residente in Italia da almeno due anni, anche non continuativi, ovvero essere titolare di un contratto di lavoro a tempo indeterminato o a tempo determinato di durata almeno semestrale; 
@@ -98,4 +107,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) con riferimento alla condizione economica, il nucleo familiare del richiedente deve essere in possesso di un indicatore della situazione economica equivalente (ISEE) di cui al decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, in corso di validità, calcolato ai sensi dell'articolo 7 del medesimo decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159.
+ b) con riferimento alla condizione economica, il nucleo familiare del richiedente deve essere in possesso di un indicatore della situazione economica equivalente 
+ (( (ISEE), disciplinato dal regolamento di cui al decreto ))
+
+ del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, in corso di validità, calcolato ai sensi dell'articolo 7 del medesimo 
+ ((regolamento di cui al))
+
+ decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159.
