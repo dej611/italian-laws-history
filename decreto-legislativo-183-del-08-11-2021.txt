@@ -1,0 +1,402 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76, e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 14 della legge 23 agosto 1988, n. 400, recante disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri, e, in particolare, l'articolo 14;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 22 aprile 2021, n. 53, recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2019-2020, ed in particolare l'articolo 29 e l'allegato A, n. 24;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva (UE) 2019/1151 del Parlamento europeo e del Consiglio, del 20 giugno 2019, recante modifica della direttiva (UE) 2017/1132 per quanto concerne l'uso di strumenti e processi digitali nel diritto societario;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 16 febbraio 1913, n. 89, sull'ordinamento del notariato e degli archivi notarili;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regio decreto 16 marzo 1942, n. 262, di approvazione del testo del codice civile;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, recante regolamento di attuazione dell'articolo 8 della legge 29 dicembre 1993, n. 580, in materia di istituzione del registro delle imprese di cui all'articolo 2188 del codice civile;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva (UE) 2019/1023 del Parlamento europeo e del Consiglio, del 20 giugno 2019, riguardante i quadri di ristrutturazione preventiva, l'esdebitazione e le interdizioni, e le misure volte ad aumentare l'efficacia delle procedure di ristrutturazione, insolvenza ed esdebitazione, e che modifica la direttiva (UE) 2017/1132;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazioni del Consiglio dei ministri adottata nella riunione del 5 agosto 2021;
+
+ 
+ 
+ 
+
+ 
+ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei ministri adottata nella riunione del 4 novembre 2021;
+
+ 
+ 
+ 
+
+ 
+ Su proposta del Presidente del Consiglio dei ministri e del Ministro dello sviluppo economico, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze e per l'innovazione tecnologica e la transizione digitale;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto, si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;mezzi di identificazione elettronica&raquo;, mezzi di identificazione elettronica quali definiti all'articolo 3, paragrafo 1, punto 2, del regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;regime di identificazione elettronica&raquo;, il regime di identificazione elettronica di cui all'articolo 3, paragrafo1, punto 4, del regolamento (UE) n. 910/2014, contenuto nella notifica alla Commissione europea eseguita ai sensi dell'articolo 9 del medesimo regolamento e pubblicata nella Gazzetta ufficiale dell'Unione europea del 2 maggio 2019 - 2019/C 150/06; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;costituzione&raquo;, l'intero processo di costituzione di una società, compresa la stesura dell'atto costitutivo di una società e tutte le misure necessarie per l'iscrizione di una società nel registro; 
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;registrazione di una sede secondaria&raquo;, il processo che conduce alla divulgazione dei documenti e delle informazioni relativi ad una sede secondaria di nuova apertura in uno Stato membro; 
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;modello&raquo;, un modello per l'atto costitutivo di una società che può essere utilizzato per la costituzione online di una società secondo la disciplina dettata dal presente decreto; 
+ 
+
+ 
+ 
+
+ 
+ f) &laquo;BRIS&raquo;, il sistema di interconnessione dei registri delle imprese di cui all'articolo 22 della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio del 14 giugno 2017; 
+ 
+
+ 
+ 
+
+ 
+ g) &laquo;EUID&raquo;, il codice identificativo unico europeo delle imprese volto a facilitare l'avvio di un sistema europeo di interconnessione tra i registri delle imprese. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE) 
+ 
+
+ 
+ 
+
+ Note alle premsesse: 
+ 
+
+ - Si riporta il testo dell'art. 76 e 87 Cost.: 
+ 
+
+ &laquo;Art. 76. - L'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.&raquo; 
+ 
+
+ - L'art. 87 Cost. conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
+ 
+
+ - Il testo dell'articolo 14 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri) così recita: 
+ 
+
+ &laquo;Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'articolo 76 della Costituzione sono emanati dal Presidente della Repubblica con la denominazione di &laquo;decreto legislativo&raquo; e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione. 
+ 
+
+ 2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo è trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 
+ 
+
+ 3. Se la delega legislativa si riferisce ad una pluralità di oggetti distinti suscettibili di separata disciplina, il Governo può esercitarla mediante più atti successivi per uno o più degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
+ 
+
+ 4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo è tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere è espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.&raquo;. 
+ 
+
+ - Il testo dell'articolo 29 e dell'allegato A della legge 22 aprile 2021, n. 53 (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2019-2020), pubblicata nella Gazzetta Ufficiale 23 aprile 2021, n. 97, così recita: 
+ 
+
+ &laquo;Art. 29 (Principi e criteri direttivi per l'attuazione della direttiva (UE) 2019/1151, recante modifica della direttiva (UE) 2017/1132 per quanto concerne l'uso di strumenti e processi digitali nel diritto societario). - 1. Nell'esercizio della delega per l'attuazione della direttiva (UE) 2019/1151 del Parlamento europeo e del Consiglio, del 20 giugno 2019, il Governo osserva, oltre ai principi e criteri direttivi generali di cui all'articolo 32 della legge n. 234 del 2012, anche i seguenti criteri direttivi specifici: prevedere che la costituzione online sia relativa alla società a responsabilità limitata e alla società a responsabilità limitata semplificata con sede in Italia, con capitale versato mediante conferimenti in denaro, e sia stipulata, anche in presenza di un modello standard di statuto, con atto pubblico formato mediante l'utilizzo di una piattaforma che consenta la videoconferenza e la sottoscrizione dell'atto con firma elettronica riconosciuta. 
+ 
+
+ 2. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.&raquo;. 
+ 
+
+ &laquo;Allegato A 
+ 
+
+ (articolo 1, comma 1) 
+ 
+
+ 1) direttiva (UE) 2016/343 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sul rafforzamento di alcuni aspetti della presunzione di innocenza e del diritto di presenziare al processo nei procedimenti penali (termine di recepimento: 1° aprile 2018); 
+ 
+
+ 2) direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, sulla lotta al riciclaggio mediante il diritto penale (termine di recepimento: 3 dicembre 2020); 
+ 
+
+ 3) direttiva (UE) 2018/1808 del Parlamento europeo e del Consiglio, del 14 novembre 2018, recante modifica della direttiva 2010/13/UE, relativa al coordinamento di determinate disposizioni legislative, regolamentari e amministrative degli Stati membri concernenti la fornitura di servizi di media audiovisivi (direttiva sui servizi di media audiovisivi), in considerazione dell'evoluzione delle realtà del mercato (termine di recepimento: 19 settembre 2020); 
+ 
+
+ 4) direttiva (UE) 2018/1910 del Consiglio, del 4 dicembre 2018, che modifica la direttiva 2006/112/CE per quanto concerne l'armonizzazione e la semplificazione di determinate norme nel sistema d'imposta sul valore aggiunto di imposizione degli scambi tra Stati membri (termine di recepimento: 31 dicembre 2019); 
+ 
+
+ 5) direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, che istituisce il codice europeo delle comunicazioni elettroniche (rifusione) (Testo rilevante ai fini del SEE) (termine di recepimento: 21 dicembre 2020); 
+ 
+
+ 6) direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, sulla promozione dell'uso dell'energia da fonti rinnovabili (rifusione) (Testo rilevante ai fini del SEE) (termine di recepimento: 30 giugno 2021); 
+ 
+
+ 7) direttiva (UE) 2019/1 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, che conferisce alle autorità garanti della concorrenza degli Stati membri poteri di applicazione più efficace e che assicura il corretto funzionamento del mercato interno (Testo rilevante ai fini del SEE) (termine di recepimento: 4 febbraio 2021); 
+ 
+
+ 8) direttiva (UE) 2019/520 del Parlamento europeo e del Consiglio, del 19 marzo 2019, concernente l'interoperabilità dei sistemi di telepedaggio stradale e intesa ad agevolare lo scambio transfrontaliero di informazioni sul mancato pagamento dei pedaggi stradali nell'Unione (rifusione) (Testo rilevante ai fini del SEE) (termine di recepimento: 19 ottobre 2021); 
+ 
+
+ 9) direttiva (UE) 2019/633 del Parlamento europeo e del Consiglio, del 17 aprile 2019, in materia di pratiche commerciali sleali nei rapporti tra imprese nella filiera agricola e alimentare (termine di recepimento: 1° maggio 2021); 
+ 
+
+ 10) direttiva (UE) 2019/713 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa alla lotta contro le frodi e le falsificazioni di mezzi di pagamento diversi dai contanti e che sostituisce la decisione quadro 2001/413/GAI del Consiglio (termine di recepimento: 31 maggio 2021); 
+ 
+
+ 11) direttiva (UE) 2019/770 del Parlamento europeo e del Consiglio, del 20 maggio 2019, relativa a determinati aspetti dei contratti di fornitura di contenuto digitale e di servizi digitali (Testo rilevante ai fini del SEE) (termine di recepimento: 1° luglio 2021); 
+ 
+
+ 12) direttiva (UE) 2019/771 del Parlamento europeo e del Consiglio, del 20 maggio 2019, relativa a determinati aspetti dei contratti di vendita di beni, che modifica il regolamento (UE) 2017/2394 e la direttiva 2009/22/CE, e che abroga la direttiva 1999/44/CE (Testo rilevante ai fini del SEE) (termine di recepimento: 1° luglio 2021); 
+ 
+
+ 13) direttiva (UE) 2019/789 del Parlamento europeo e del Consiglio, del 17 aprile 2019, che stabilisce norme relative all'esercizio del diritto d'autore e dei diritti connessi applicabili a talune trasmissioni online degli organismi di diffusione radiotelevisiva e ritrasmissioni di programmi televisivi e radiofonici e che modifica la direttiva 93/83/CEE del Consiglio (Testo rilevante ai fini del SEE) (termine di recepimento: 7 giugno 2021); 
+ 
+
+ 14) direttiva (UE) 2019/790 del Parlamento europeo e del Consiglio, del 17 aprile 2019, sul diritto d'autore e sui diritti connessi nel mercato unico digitale e che modifica le direttive 96/9/CE e 2001/29/CE (Testo rilevante ai fini del SEE) (termine di recepimento: 7 giugno 2021); 
+ 
+
+ 15) direttiva (UE) 2019/878 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che modifica la direttiva 2013/36/UE per quanto riguarda le entità esentate, le società di partecipazione finanziaria, le società di partecipazione finanziaria mista, la remunerazione, le misure e i poteri di vigilanza e le misure di conservazione del capitale (Testo rilevante ai fini del SEE) (termine di recepimento: 28 dicembre 2020); 
+ 
+
+ 16) direttiva (UE) 2019/879 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che modifica la direttiva 2014/59/UE per quanto riguarda la capacità di assorbimento di perdite e di ricapitalizzazione degli enti creditizi e delle imprese di investimento e la direttiva 98/26/CE (termine di recepimento: 28 dicembre 2020); 
+ 
+
+ 17) direttiva (UE) 2019/882 del Parlamento europeo e del Consiglio, del 17 aprile 2019, sui requisiti di accessibilità dei prodotti e dei servizi (Testo rilevante ai fini del SEE) (termine di recepimento: 28 giugno 2022); 
+ 
+
+ 18) direttiva (UE) 2019/883 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa agli impianti portuali di raccolta per il conferimento dei rifiuti delle navi, che modifica la direttiva 2010/65/UE e abroga la direttiva 2000/59/CE (Testo rilevante ai fini del SEE) (termine di recepimento: 28 giugno 2021); 
+ 
+
+ 19) direttiva (UE) 2019/884 del Parlamento europeo e del Consiglio, del 17 aprile 2019, che modifica la decisione quadro 2009/315/GAI del Consiglio per quanto riguarda lo scambio di informazioni sui cittadini di paesi terzi e il sistema europeo di informazione sui casellari giudiziali (ECRIS), e che sostituisce la decisione 2009/316/GAI del Consiglio(termine di recepimento: 28 giugno 2022); 
+ 
+
+ 20) direttiva (UE) 2019/904 del Parlamento europeo e del Consiglio, del 5 giugno 2019, sulla riduzione dell'incidenza di determinati prodotti di plastica sull'ambiente (Testo rilevante ai fini del SEE) (termine di recepimento: 3 luglio 2021); 
+ 
+
+ 21) direttiva (UE) 2019/944 del Parlamento europeo e del Consiglio, del 5 giugno 2019, relativa a norme comuni per il mercato interno dell'energia elettrica e che modifica la direttiva 2012/27/UE (rifusione) (Testo rilevante ai fini del SEE) (termini di recepimento: 25 ottobre 2020 per l'articolo 70, punto 4), e 31 dicembre 2020 per il resto della direttiva); 
+ 
+
+ 22) direttiva (UE) 2019/1023 del Parlamento europeo e del Consiglio, del 20 giugno 2019, riguardante i quadri di ristrutturazione preventiva, l'esdebitazione e le interdizioni, e le misure volte ad aumentare l'efficacia delle procedure di ristrutturazione, insolvenza ed esdebitazione, e che modifica la direttiva (UE) 2017/1132 (direttiva sulla ristrutturazione e sull'insolvenza) (Testo rilevante ai fini del SEE) (termine di recepimento: 17 luglio 2021); 
+ 
+
+ 23) direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico (rifusione) (termine di recepimento: 17 luglio 2021); 
+ 
+
+ 24) direttiva (UE) 2019/1151 del Parlamento europeo e del Consiglio, del 20 giugno 2019, recante modifica della direttiva (UE) 2017/1132 per quanto concerne l'uso di strumenti e processi digitali nel diritto societario (Testo rilevante ai fini del SEE) (termine di recepimento: 1° agosto 2021); 
+ 
+
+ 25) direttiva (UE) 2019/1152 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa a condizioni di lavoro trasparenti e prevedibili nell'Unione europea (termine di recepimento: 1° agosto 2022); 
+ 
+
+ 26) direttiva (UE) 2019/1153 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che reca disposizioni per agevolare l'uso di informazioni finanziarie e di altro tipo a fini di prevenzione, accertamento, indagine o perseguimento di determinati reati, e che abroga la decisione 2000/642/GAI del Consiglio(termine di recepimento: 1° agosto 2021); 
+ 
+
+ 27) direttiva (UE) 2019/1158 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa all'equilibrio tra attività professionale e vita familiare per i genitori e i prestatori di assistenza e che abroga la direttiva 2010/18/UE del Consiglio (termine di recepimento: 2 agosto 2022); 
+ 
+
+ 28) direttiva (UE) 2019/1159 del Parlamento europeo e del Consiglio, del 20 giugno 2019, recante modifica della direttiva 2008/106/CE concernente i requisiti minimi di formazione per la gente di mare e che abroga la direttiva 2005/45/CE riguardante il reciproco riconoscimento dei certificati rilasciati dagli Stati membri alla gente di mare (Testo rilevante ai fini del SEE) (termine di recepimento: 2 agosto 2021); 
+ 
+
+ 29) direttiva (UE) 2019/1160 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che modifica le direttive 2009/65/CE e 2011/61/UE per quanto riguarda la distribuzione transfrontaliera degli organismi di investimento collettivo (Testo rilevante ai fini del SEE) (termine di recepimento: 2 agosto 2021); 
+ 
+
+ 30) direttiva (UE) 2019/1161 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che modifica la direttiva 2009/33/CE relativa alla promozione di veicoli puliti e a basso consumo energetico nel trasporto su strada (Testo rilevante ai fini del SEE) (termine di recepimento: 2 agosto 2021); 
+ 
+
+ 31) direttiva (UE) 2019/1936 del Parlamento europeo e del Consiglio, del 23 ottobre 2019, che modifica la direttiva 2008/96/CE sulla gestione della sicurezza delle infrastrutture stradali (termine di recepimento: 17 dicembre 2021); 
+ 
+
+ 32) direttiva (UE) 2019/1937 del Parlamento europeo e del Consiglio, del 23 ottobre 2019, riguardante la protezione delle persone che segnalano violazioni del diritto dell'Unione (termine di recepimento: 17 dicembre 2021); 
+ 
+
+ 33) direttiva (UE) 2019/1995 del Consiglio, del 21 novembre 2019, che modifica la direttiva 2006/112/CE del Consiglio del 28 novembre 2006 per quanto riguarda le disposizioni relative alle vendite a distanza di beni e a talune cessioni nazionali di beni (termine di recepimento: 31 dicembre 2020); 
+ 
+
+ 34) direttiva (UE) 2019/2034 del Parlamento europeo e del Consiglio, del 27 novembre 2019, relativa alla vigilanza prudenziale sulle imprese di investimento e recante modifica delle direttive 2002/87/CE, 2009/65/CE, 2011/61/UE, 2013/36/UE, 2014/59/UE e 2014/65/UE (termini di recepimento: 26 marzo 2020, limitatamente all'articolo 64, punto 5, e 26 giugno 2021 per il resto della direttiva); 
+ 
+
+ 35) direttiva (UE) 2019/2162 del Parlamento europeo e del Consiglio, del 27 novembre 2019, relativa all'emissione di obbligazioni garantite e alla vigilanza pubblica delle obbligazioni garantite e che modifica la direttiva 2009/65/CE e la direttiva 2014/59/UE(termine di recepimento: 8 luglio 2021); 
+ 
+
+ 36) direttiva (UE) 2019/2235 del Consiglio, del 16 dicembre 2019, recante modifica della direttiva 2006/112/CE relativa al sistema comune d'imposta sul valore aggiunto e della direttiva 2008/118/CE relativa al regime generale delle accise per quanto riguarda gli sforzi di difesa nell'ambito dell'Unione (termine di recepimento: 30 giugno 2022); 
+ 
+
+ 37) direttiva (UE) 2020/262 del Consiglio, del 19 dicembre 2019, che stabilisce il regime generale delle accise (rifusione) (termine di recepimento: 31 dicembre 2021); 
+ 
+
+ 38) direttiva (UE) 2020/284 del Consiglio, del 18 febbraio 2020, che modifica la direttiva 2006/112/CE per quanto riguarda l'introduzione di taluni obblighi per i prestatori di servizi di pagamento (termine di recepimento: 31 dicembre 2023); 
+ 
+
+ 39) direttiva (UE) 2020/285 del Consiglio, del 18 febbraio 2020, che modifica la direttiva 2006/112/CE relativa al sistema comune d'imposta sul valore aggiunto per quanto riguarda il regime speciale per le piccole imprese e il regolamento (UE) n. 904/2010 per quanto riguarda la cooperazione amministrativa e lo scambio di informazioni allo scopo di verificare la corretta applicazione del regime speciale per le piccole imprese (termine di recepimento: 31 dicembre 2024).&raquo;. 
+ 
+
+ - La direttiva (UE) 2019/1151 del Parlamento europeo e del Consiglio, del 20 giugno 2019, recante modifica della direttiva (UE) 2017/1132 per quanto concerne l'uso di strumenti e processi digitali nel diritto societario è pubblicata nella G.U.U.E. 11 luglio 2019, n. L 186. 
+ 
+
+ - Il regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE è pubblicato nella G.U.U.E. 28 agosto 2014, n. L 257. 
+ 
+
+ - La legge 16 febbraio 1913, n. 89 (Sull'ordinamento del notariato e degli archivi notarili) è pubblicata nella Gazzetta Ufficiale 7 marzo 1913, n. 55. 
+ 
+
+ - Il regio decreto 16 marzo 1942, n. 262 (Approvazione del testo del codice civile) è pubblicato nella Gazzetta Ufficiale 4 aprile 1942, n. 79, ediz. straord. 
+ 
+
+ - Il decreto del Presidente della Repubblica 7 dicembre 1995, n. 581 (Regolamento di attuazione dell'articolo 8 della legge 29 dicembre 1993, n. 580, in materia di istituzione del registro delle imprese di cui all'articolo 2188 del codice civile) è pubblicato nella Gazzetta Ufficiale 3 febbraio 1996, n. 28, S.O. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale) è pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
+ 
+
+ - La direttiva (UE) 2019/1023 del Parlamento europeo e del Consiglio, del 20 giugno 2019, riguardante i quadri di ristrutturazione preventiva, l'esdebitazione e le interdizioni, e le misure volte ad aumentare l'efficacia delle procedure di ristrutturazione, insolvenza ed esdebitazione, e che modifica la direttiva (UE) 2017/1132 è pubblicata nella G.U.U.E. 26 giugno 2019, n. L 172. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per i riferimenti normativi del regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014 si veda nelle note alle premesse. 
+ 
+
+ - La direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio del 14 giugno 2017 relativa ad alcuni aspetti di diritto societario (testo codificato) (Testo rilevante ai fini del SEE) è pubblicata nella G.U.U.E. 30 giugno 2017, n. L 169.
