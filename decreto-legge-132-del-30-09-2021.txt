@@ -70,7 +70,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) il comma 3 è sostituito dal seguente: 
  
 
- &laquo;3. Entro il termine di conservazione imposto dalla legge, se sussistono sufficienti indizi di reati per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel massimo a tre anni, determinata a norma dell'articolo 4 del codice di procedura penale, e di reati di minaccia e di molestia o disturbo alle persone col mezzo del telefono, quando la minaccia, la molestia e il disturbo sono gravi, ove rilevanti ai fini della prosecuzione delle indagini, i dati sono acquisiti presso il fornitore con decreto motivato del giudice su richiesta del pubblico ministero o su istanza del difensore dell'imputato, della persona sottoposta a indagini, della persona offesa e delle altre parti private.&raquo;; 
+ &laquo;3. Entro il termine di conservazione imposto dalla legge, se sussistono sufficienti indizi di reati per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel massimo a tre anni, determinata a norma dell'articolo 4 del codice di procedura penale, e di reati di minaccia e di molestia o disturbo alle persone col mezzo del telefono, quando la minaccia, la molestia e il disturbo sono gravi, ove rilevanti 
+ ((per l'accertamento dei fatti))
+
+ , i dati sono acquisiti 
+ ((previa autorizzazione rilasciata dal giudice con decreto motivato,))
+
+ su richiesta del pubblico ministero o su istanza del difensore dell'imputato, della persona sottoposta a indagini, della persona offesa e delle altre parti private.&raquo;; 
  
 
  
@@ -80,7 +86,40 @@ IL PRESIDENTE DELLA REPUBBLICA
  b) dopo il comma 3 sono inseriti i seguenti: 
  
 
- &laquo;3-bis. Quando ricorrono ragioni di urgenza e vi è fondato motivo di ritenere che dal ritardo possa derivare grave pregiudizio alle indagini, il pubblico ministero dispone la acquisizione dei dati con decreto motivato che è comunicato immediatamente, e comunque non oltre quarantotto ore, al giudice competente per il rilascio dell'autorizzazione in via ordinaria. Il giudice, nelle quarantotto ore successive, decide sulla convalida con decreto motivato. Se il decreto del pubblico ministero non è convalidato nel termine stabilito, i dati acquisiti non possono essere utilizzati. 
+ &laquo;3-bis. Quando ricorrono ragioni di urgenza e vi è fondato motivo di ritenere che dal ritardo possa derivare grave pregiudizio alle indagini, il pubblico ministero dispone la acquisizione dei dati con decreto motivato che è comunicato immediatamente, e comunque non oltre quarantotto ore, al giudice competente per il rilascio dell'autorizzazione in via ordinaria. Il giudice, nelle quarantotto ore successive, decide sulla convalida con decreto motivato. 
+ ((PERIODO SOPPRESSO DALLA L. 23 NOVEMBRE 2021, N. 178))
+
+ . 
  
 
- 3-ter. Rispetto ai dati conservati per le finalità indicate al comma 1 i diritti di cui agli articoli da 12 a 22 del Regolamento possono essere esercitati con le modalità di cui all'articolo 2-undecies, comma 3, terzo, quarto e quinto periodo.&raquo;.
+ 3-ter. Rispetto ai dati conservati per le finalità indicate al comma 1 i diritti di cui agli articoli da 12 a 22 del Regolamento possono essere esercitati con le modalità di cui all'articolo 2-undecies, comma 3, terzo, quarto e quinto periodo. 
+ 
+
+ 
+ ((3-quater. I dati acquisiti in violazione delle disposizioni dei commi 3 e 3-bis non possono essere utilizzati))
+
+ &raquo;. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 1-bis. I dati relativi al traffico telefonico, al traffico telematico e alle chiamate senza risposta, acquisiti nei procedimenti penali in data precedente alla data di entrata in vigore del presente decreto, possono essere utilizzati a carico dell'imputato solo unitamente ad altri elementi di prova ed esclusivamente per l'accertamento dei reati per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel massimo a tre anni, determinata a norma dell'articolo 4 del codice di procedura penale, e dei reati di minaccia e di molestia o disturbo alle persone con il mezzo del telefono, quando la minaccia, la molestia o il disturbo sono gravi. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 1-ter. Al terzo periodo del comma 1 dell' articolo 267 del codice di procedura penale, le parole: "indica le ragioni" sono sostituite dalle seguenti: "indica le specifiche ragioni"))
