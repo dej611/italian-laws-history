@@ -1,0 +1,224 @@
+ALLEGATO III - 
+ ((Obblighi di integrazione delle fonti rinnovabili negli edifici))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione A. Campo di applicazione))
+
+ 
+ 
+
+ 
+ 
+
+ 1. 
+ ((Il presente Allegato si applica agli edifici di nuova costruzione, agli edifici esistenti oggetto di ristrutturazioni importanti e agli edifici esistenti oggetto di interventi di ristrutturazione dell'impianto termico, e per i quali la richiesta del titolo edilizio è presentata decorsi centottanta giorni dall'entrata in vigore del presente decreto.))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione B. Obblighi di utilizzo di impianti a fonti rinnovabili))
+
+ 
+ 
+
+ 
+ 
+
+ 1. 
+ 
+ ((Gli edifici di cui alla sezione A. sono progettati e realizzati in modo da garantire, tramite il ricorso ad impianti alimentati da fonti rinnovabili, il contemporaneo rispetto: 
+ 
+
+ a) nel caso di edifici di nuova costruzione, della copertura del 60% dei consumi previsti per la produzione di acqua calda sanitaria e del 60% della somma dei consumi previsti per la produzione di acqua calda sanitaria, la climatizzazione invernale e la climatizzazione estiva; 
+ 
+
+ b) nel caso di edifici sottoposti a ristrutturazioni importanti di primo livello, ai sensi del decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025, della copertura del 40% dei consumi previsti per la produzione di acqua calda sanitaria e del 40% della somma dei consumi previsti per la produzione di acqua calda sanitaria, la climatizzazione invernale e la climatizzazione estiva; 
+ 
+
+ c) nel caso di edifici sottoposti a ristrutturazioni importanti di secondo livello, ai sensi del decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025, della copertura del 15% della somma dei consumi previsti per la climatizzazione invernale e la climatizzazione estiva; 
+ 
+
+ d) nel caso di edifici esistenti oggetto di interventi di ristrutturazione dell'impianto termico, ai sensi del decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025, della copertura del 15% della somma dei consumi previsti per la climatizzazione invernale e la climatizzazione estiva.))
+ 
+
+ 
+ 
+
+ 2. Gli obblighi di cui al punto 1 non possono essere assolti tramite impianti da fonti rinnovabili che producano esclusivamente energia elettrica la quale alimenti, a sua volta, dispositivi per la produzione di calore con effetto Joule 
+ ((, fatta eccezione per le unità immobiliari con classificazione energetica B o superiore))
+
+ . 
+ 
+
+ 3. La potenza elettrica degli impianti alimentati da fonti rinnovabili che devono essere obbligatoriamente installati sopra o all'interno dell'edificio o nelle relative pertinenze, misurata in kW, è calcolata secondo la seguente formula: 
+ 
+
+ 
+ 
+
+ P=k &middot; S 
+ 
+
+ 
+ 
+
+ Dove: 
+ 
+
+ • k è uguale a 0,025 per gli edifici esistenti e 0,05 per gli
+ 
+
+ edifici di nuova costruzione; 
+ 
+
+ • S è la superficie in pianta dell'edificio al livello del 
+ 
+
+ terreno ovvero la proiezione al suolo della sagoma 
+ 
+
+ dell'edificio, misurata in m&sup2;. Nel calcolo della superficie in 
+ 
+
+ pianta non si tengono in considerazione le pertinenze, sulle quali tuttavia è consentita l'installazione degli impianti. 
+ 
+
+ 4. L'obbligo di cui al punto 1 non si applica qualora l'edificio sia allacciato a una rete di teleriscaldamento e/o teleraffrescamento efficiente, così come definito dell'articolo 2, comma 2, lettera tt) del decreto legislativo 4 luglio 2014, n. 102, purchè il teleriscaldamento copra l'intero fabbisogno di energia termica per il riscaldamento e/o il teleraffrescamento copra l'intero fabbisogno energia termica per raffrescamento. 
+ 
+
+ 
+ ((5. Per gli edifici pubblici, gli obblighi percentuali di cui al punto 1. della presente sezione sono maggiorati di ulteriori cinque punti percentuali e gli obblighi di cui al punto 3. della presente sezione sono incrementati del 10%.))
+
+ . 
+ 
+
+ 
+ ((6. A decorrere dal 1° gennaio 2026, gli obblighi di cui alla presente sezione sono rideterminati con cadenza almeno quinquennale, tenendo conto dell'evoluzione tecnologica.))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione C. Caratteristiche e specifiche tecniche degli impianti))
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il rispetto dell'obbligo di cui al presente Allegato è assolto dagli impianti che rispettano i requisiti e le specifiche tecniche di cui all'Allegato II. 
+ 
+
+ 2 Fatti salvi i casi di alimentazione tramite le reti di teleriscaldamento e teleraffrescamento, gli impianti a fonti rinnovabili installati per adempiere agli obblighi di cui al presente Allegato sono realizzati all'interno o sugli edifici ovvero nelle loro pertinenze. Per pertinenza si intende la superficie comprendente l'impronta a terra dei fabbricati e un'area con essi confinante comunque non eccedente il triplo della superficie di impronta. Gli impianti fotovoltaici installati a terra non concorrono al rispetto dell'obbligo. 
+ 
+
+ 3. Nel caso di utilizzo di pannelli solari termici o fotovoltaici disposti su tetti a falda, i predetti componenti devono essere aderenti o integrati nei tetti medesimi, con la stessa inclinazione e lo stesso orientamento della falda. Nel caso di tetti piani, la quota massima, riferita all'asse mediano dei moduli o dei collettori, deve risultare non superiore all'altezza minima della balaustra perimetrale. Qualora non sia presente una balaustra perimetrale, l'altezza massima dei moduli o dei collettori rispetto al piano non deve superare i 30 cm. 
+ 
+
+ 
+ 
+
+ 4. Entro sessanta giorni dalla pubblicazione del presente decreto, il Comitato Termotecnico Italiano CTI predispone linee guida volte ad agevolare l'applicazione del presente Allegato, contenenti esempi e calcoli numerici. 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione D. Casi di impossibilità tecnica o di non convenienza economica di ottemperare all'obbligo))
+
+ . 
+ 
+
+ 
+ ((1. L'impossibilità tecnica o la mancata convenienza economica di ottemperare agli obblighi di integrazione di cui al presente Allegato è evidenziata dal progettista nella relazione di cui all'articolo 8, comma 1, del decreto legislativo 4 agosto 2005, n. 192, e dettagliata esaminando la non fattibilità di tutte le diverse opzioni tecnologiche disponibili. Nei casi in cui la suddetta relazione non sia dovuta, il progettista comunica tali informazioni al Comune, secondo le modalità da esso individuate.))
+
+ 
+ 
+
+ 2. Nei casi di cui al punto 1, 
+ ((per gli edifici nuovi o per gli edifici esistenti sottoposti a ristrutturazione importante di primo livello,))
+
+ è fatto obbligo di ottenere un valore di energia primaria non rinnovabile, calcolato per la somma dei servizi di climatizzazione invernale, climatizzazione estiva e produzione di acqua calda sanitaria (EPH,C,W,nren), inferiore al valore di energia primaria non rinnovabile limite (EPH,C,W,nren,limite) calcolato secondo quanto previsto dal punto 3 in relazione ai servizi effettivamente presenti nell'edificio di progetto. 
+ 
+
+ 3. Ai fini della determinazione del valore di EPH,C,W,nren,limite di cui al punto 2 si determina il valore di EPH,C,W,nren,rif,standard 
+ ((...))
+
+ , per l'edificio di riferimento secondo quanto previsto dall'Allegato 1, Capitolo 3 del decreto del Ministro dello sviluppo economico 26 giugno 2015 concernente applicazione delle metodologie di calcolo delle prestazioni energetiche e definizione delle prescrizioni e dei requisiti minimi degli edifici 
+ ((e successive modificazioni e integrazioni))
+
+ , dotandolo delle tecnologie e delle efficienze medie dei sottosistemi di utilizzazione fornite 
+ ((da))
+
+ quest'ultimo e di efficienze medie stagionali sull'utilizzo dell'energia primaria non rinnovabile dei sottosistemi di generazione di cui alla seguente Tabella 1 del presente Allegato 
+ ((...))
+
+ . 
+ 
+
+ 
+ 
+
+ Tabella 1 - Efficienza sull'utilizzo dell'energia primaria non rinnovabile dei sottosistemi di generazione 
+ 
+
+ 
+ 
+ 
+ Servizio Efficienza 
+ 
+
+ 
+ Climatizzazione invernale 1,54 
+ 
+
+ 
+ Climatizzazione estiva 1,28 
+ 
+
+ 
+ Produzione di acqua calda sanitaria 1,28 
+ 
+
+ 
+ 
+ 
+ 
+ Nota: i valori delle efficienze per i servizi di climatizzazione invernale, climatizzazione estiva e per la produzione di ACS tengono già conto del fattore di conversione dell'energia primaria non rinnovabile. 
+ 
+
+ 
+ 
+ ((Sezione E. Modalità di verifica))
+
+ 
+ 
+
+ 
+ 
+
+ 1. Il progettista inserisce i calcoli e le verifiche previste dal presente Allegato nella relazione di cui all'articolo 8, comma 1 del decreto legislativo 4 agosto 2005, n. 192. Una copia della relazione suddetta è trasmessa al GSE ai fini del monitoraggio del conseguimento degli obiettivi in materia di fonti rinnovabili di energia. 
+ 
+
+ 2. La verifica del rispetto dell'obbligo di integrazione delle fonti rinnovabili è effettuata dai Comuni attraverso la relazione di cui al punto 1. 
+ 
+
+ 3. Fermo restando il punto 2, le dichiarazioni e i dati riportati nella relazione di cui al punto 1 possono essere oggetto di controlli da parte dei Comuni nonchè di ulteriori controlli stabiliti nei provvedimenti adottati dalle Regioni ai sensi dell'articolo 26, comma 7, del presente decreto.

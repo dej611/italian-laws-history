@@ -1,0 +1,116 @@
+ALLEGATO VII - REGOLE PER IL CALCOLO DELL'IMPATTO DEI GAS A EFFETTO SERRA DEI COMBUSTIBILI DA BIOMASSA E I RELATIVI COMBUSTIBILI FOSSILI DI RIFERIMENTO 
+ 
+
+ 
+ 
+
+ A. Valori tipici e standard delle riduzioni dei gas a effetto serra per i combustibili da biomassa se prodotti senza emissioni nette di carbonio a seguito della modifica della destinazione d'uso dei terreni 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ B. Metodologia di calcolo delle emissioni di gas ad effetto serra 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ ((45))
+
+ 
+ 
+
+ 
+ 
+
+ C. Valori standard disaggregati per i combustibili da biomassa 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ D. Totale dei valori tipici e standard per le filiere del combustibile da biomassa 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ -------------
+
+ AGGIORNAMENTO (45)
+
+ 
+ 
+
+ Il D.Lgs. 9 gennaio 2026, n. 5, ha disposto (con l'art. 33, comma 1, lettera a)) che "All'ALLEGATO VII del decreto legislativo 8 novembre 2021, n. 199, sono apportate le seguenti modificazioni: 
+ 
+
+ a) Alla sezione B Metodologia di calcolo delle emissioni di gas ad effetto serra, Parte B. Calcolo delle emissioni di gas ad effetto serra durante il ciclo di vita, Punto 3. Precisazioni formula di cui al punto 1, sono apportate le seguenti modificazioni: 
+ 
+
+ 1) la lettera b) è sostituita dalla seguente: &laquo;b) Esca: riduzioni delle emissioni grazie all'accumulo di carbonio nel suolo mediante una migliore gestione agricola 
+ 
+
+ Ai fini del calcolo di cui al punto 1, lettera a), le riduzioni di emissioni di gas a effetto serra grazie a una migliore gestione agricola, esca, come il passaggio a una ridotta aratura o a una semina senza aratura, a colture migliorate e alla rotazione delle colture, all'uso di colture di copertura, compresa la gestione dei residui delle colture, e all'uso di ammendanti organici, come ad esempio compost e digestato della fermentazione del letame, sono prese in considerazione solo se non rischiano di incidere negativamente sulla biodiversità. Devono inoltre essere forniti elementi di prova attendibili e verificabili del fatto che il carbonio nel suolo è aumentato o che è ragionevole attendersi che sia aumentato nel periodo di coltura delle materie prime considerate tenendo conto delle emissioni laddove tali pratiche determinino un aumento dell'uso di fertilizzanti e erbicidi .Tali elementi di prova possono essere costituiti da misurazioni del carbonio nel suolo, ad esempio con una prima misurazione anteriormente alla coltivazione e misurazioni successive a intervalli regolari a distanza di anni. In tale caso, prima che la seconda misurazione sia disponibile, l'aumento del carbonio nel suolo sarebbe stimato sulla base di esperimenti rappresentativi o di modelli di suolo. A partire dalla seconda misurazione, le misurazioni costituirebbero la base per la determinazione dell'esistenza di un aumento del carbonio nel suolo e della sua entità.&raquo;; 
+ 
+
+ 2) la lettera h) è sostituita dalla seguente: &laquo;h) eccr: riduzione di emissioni da cattura e sostituzione di CO2 
+ 
+
+ La riduzione di emissioni da cattura e sostituzione di CO2 , eccr ,
+ 
+
+ è direttamente collegata alla produzione di combustibili da biomassa alla quale è attribuita, ed è limitata alle emissioni evitate grazie alla cattura della CO2 il cui carbonio proviene dalla biomassa 
+ 
+
+ e che viene usato per sostituire la CO2 derivata da carburanti 
+ 
+
+ fossili nella produzione di prodotti e servizi commerciali prima del 1° gennaio 2036.&raquo;; 
+ 
+
+ 3) la lettera l) è sostituita dalla seguente: &laquo;l) allocazione in caso di produzione contemporanea di più prodotti 
+ 
+
+ Quando nel processo di produzione di combustibile sono prodotti, in combinazione, il combustibile per il quale sono calcolate le emissioni e uno o più altri prodotti (&laquo;co-prodotti&raquo;), le emissioni di gas a effetto serra sono divise tra il combustibile o il prodotto intermedio e i coprodotti proporzionalmente al loro contenuto energetico (determinato dal potere calorifico inferiore nel caso di co-prodotti diversi dall'energia elettrica e dal calore).
+ 
+
+ L'intensità delle emissioni di gas a effetto serra dell'energia elettrica o del calore utile in eccesso è uguale all'intensità delle emissioni di gas a effetto serra fornita al processo di produzione di combustibile ed è determinata dal calcolo dell'intensità di gas a effetto serra di tutti gli input e le emissioni, comprese le materie prime e le emissioni di CH4 e N2 O, da 
+ 
+
+ e verso l'unità di cogenerazione, caldaia o altro apparato che fornisce calore o energia elettrica al processo di produzione di combustibile. In caso di cogenerazione di energia elettrica e di energia termica il calcolo viene eseguito in applicazione di quanto previsto alla lettera i). Ai fini dei calcoli, le emissioni da dividere sono: eec + el + esca + le frazioni di ep , etd , eccs , 
+ 
+
+ eccr che intervengono fino alla fase, e nella fase stessa, del 
+ 
+
+ processo di produzione nella quale il co-prodotto è fabbricato. Se sono state attribuite emissioni a co-prodotti in precedenti fasi del processo nel ciclo di vita, in sostituzione del totale delle emissioni si utilizza solo la frazione delle emissioni attribuita nell'ultima fase del processo prima del prodotto combustibile intermedio. Nel caso del biogas e del biometano, ai fini di tale calcolo sono presi in considerazione tutti i co-prodotti che non sono contemplati tra quelli riportati in precedenza. I co-prodotti il cui contenuto energetico è negativo sono considerati aventi un contenuto energetico pari a zero ai fini del calcolo. In linea generale, rifiuti e residui, compresi tutti i rifiuti e i residui inclusi nell'allegato IX, sono considerati materiali a zero emissioni di gas a effetto serra durante il ciclo di vita fino al processo di raccolta degli stessi, a prescindere dal fatto che siano trasformati in prodotti intermedi prima di essere trasformati in prodotto finito.
+ 
+
+ Nel caso di combustibili da biomassa prodotti in raffinerie, diversi dalla combinazione degli impianti di trasformazione con caldaie o unità di cogenerazione che forniscono calore e/o energia elettrica all'impianto di trasformazione, l'unità di analisi ai fini del calcolo è la raffineria.&raquo;".

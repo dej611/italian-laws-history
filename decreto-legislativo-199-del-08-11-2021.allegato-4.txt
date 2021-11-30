@@ -1,0 +1,502 @@
+ALLEGATO IV - Requisiti minimi per gli impianti a fonti rinnovabili per il riscaldamento e il raffrescamento 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione A. Requisiti minimi per gli impianti che non accedono ad incentivi))
+
+ 
+ 
+
+ 
+ 
+
+ 1. Gli impianti a fonti rinnovabili per il riscaldamento e il raffrescamento che non accedono a incentivi pubblici rispettano i requisiti minimi di cui al decreto del Ministro dello sviluppo economico 26 giugno 2015 concernente applicazione delle metodologie di calcolo delle prestazioni energetiche e definizione delle prescrizioni e dei requisiti minimi degli edifici 
+ ((e successive modifiche e integrazioni, o la normativa di riferimento europea in materia di ecodesign ove più stringente))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ ((Sezione B. Requisiti minimi per gli impianti che accedono ad incentivi))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((1. Per interventi di installazione di generatori quali pompe di calore, impianti alimentati a biomassa, sistemi ibridi e impianti solari termici nel caso in cui l'impianto solare sia stato realizzato ai fini di una copertura parziale del fabbisogno di climatizzazione invernale, sono installate valvole termostatiche a bassa inerzia termica (o altra regolazione di tipo modulante agente sulla portata) su tutti i corpi scaldanti a esclusione: 
+ 
+
+ a) dei locali in cui l'installazione di valvole termostatiche o altra regolazione di tipo modulante agente sulla portata sia dimostrata inequivocabilmente non fattibile tecnicamente nel caso specifico (cfr. decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025 concernente le metodologie di calcolo della prestazione energetica e definizione delle prescrizioni e dei requisiti minimi degli edifici); 
+ 
+
+ b) dei locali in cui è installata una centralina di termoregolazione con dispositivi modulanti per la regolazione automatica della temperatura ambiente (cfr. decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025 concernente le metodologie di calcolo della prestazione energetica e definizione delle prescrizioni e dei requisiti minimi degli edifici). In caso di impianti al servizio di più locali, è possibile omettere l'installazione di elementi di regolazione di tipo modulante agenti sulla portata esclusivamente sui terminali di emissione situati all'interno dei locali in cui è presente una centralina di termoregolazione, anche se questa agisce, oltre che sui terminali di quel locale, anche sui terminali di emissione installati in altri locali; 
+ 
+
+ c) degli impianti di climatizzazione invernale progettati e realizzati con temperature medie del fluido termovettore inferiori a 45°C.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((2. Pompe di calore 
+ 
+
+ Sono ammessi interventi volti alla produzione di energia termica per la climatizzazione invernale eventualmente abbinati alla produzione di acqua calda sanitaria. Sono ammessi interventi volti, anche in parte, alla produzione di calore per processi industriali, artigianali, agricoli, per il riscaldamento di piscine o di componenti dei centri benessere. 
+ 
+
+ Per le pompe di calore l'accesso agli incentivi è consentito a condizione che tali impianti soddisfino i requisiti di seguito indicati.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((2.1 Pompe di calore elettriche 
+ 
+
+ Per le pompe di calore elettriche l'efficienza energetica del riscaldamento stagionale η e lo SCOP devono essere almeno pari ai
+ 
+
+ valori requisiti minimi di ecoprogettazione dei regolamenti di prodotto ecodesign, calcolati in zona climatica "average" e stabiliti in funzione del tipo di prodotto e di applicazione. La prestazione delle pompe di calore deve essere dichiarata e garantita dal costruttore sulla base di prove effettuate in conformità alla UNI EN 14825, come previsto dalle regolamentazioni Ecodesign vigenti ed eventuali successive modifiche e integrazioni.))
+ 
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Parte di provvedimento in formato grafico))
+ 
+
+ ((Tabella 1- Requisiti minimi Ecodesign per pompe di calore elettriche))
+
+ 
+ ((Parte di provvedimento in formato grafico))
+ 
+
+ ((Tabella 2- Requisiti minimi Ecodesign per pompe di calore geotermiche))
+
+ 
+ ((2.2 Pompe di calore a gas 
+ 
+
+ Per tali tipologie di impianti))
+ 
+
+ : 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((a) l'efficienza media stagionale ηs% deve essere almeno pari ai
+ 
+
+ valori requisiti minimi di ecoprogettazione dei regolamenti di prodotto ecodesign, calcolati in zona climatica "average" e stabiliti in funzione del tipo di prodotto e di applicazione, secondo quanto indicato in tabella 3.))
+ 
+
+ . 
+ 
+
+ 
+ 
+
+ 
+ 
+ ((Parte di provvedimento in formato grafico))
+ 
+
+ ((Tabella 3- Requisiti minimi Ecodesign per pompe di calore a gas))
+
+ . 
+ 
+
+ 
+ 
+ ((La prestazione delle pompe di calore deve essere dichiarata e garantita dal costruttore sulla base di prove effettuate in conformità alle seguenti norme, restando fermo che al momento della prova le pompe di calore devono funzionare a pieno regime, nelle condizioni indicate nelle tabelle 1, 2 e 3 sopra riportate: 
+ 
+
+ UNI EN 12309-2015: per quanto riguarda le pompe di calore a gas ad assorbimento 
+ 
+
+ (valori di prova sul p.c.i.); 
+ 
+
+ UNI EN 16905 per quanto riguarda le pompe di calore a gas a motore endotermico; 
+ 
+
+ b) nel caso di pompe di calore a gas ad assorbimento, le emissioni in atmosfera di ossidi di azoto (NOx espressi come NO2 ), 
+ 
+
+ dovute al sistema di combustione, devono essere calcolati in conformità alla vigente normativa europea e devono essere inferiori a 120 mg/kWh 
+ 
+
+ (valore riferito all'energia termica prodotta); 
+ 
+
+ c) nel caso di pompe di calore a gas con motore a combustione interna, le emissioni in atmosfera di ossidi di azoto (NOx espressi
+ 
+
+ come NO2 ), dovute al sistema di combustione, devono essere calcolati 
+ 
+
+ in conformità alla vigente normativa europea e devono essere inferiori a 240 mg/kWh (valore riferito all'energia termica prodotta). 
+ 
+
+ Dovrà essere inoltre fornita adeguata dimostrazione che l'impianto realizzato provveda ad asservire le medesime utenze.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((3. Generatori di calore alimentati da biomassa Sono ammessi agli incentivi: 
+ 
+
+ esclusivamente i generatori di calore alimentati con biomassa in possesso della certificazione ambientale di cui al decreto del Ministro dell'ambiente e della tutela del territorio e del mare 7 novembre 2017 n. 186, ove applicabile, rilasciata da un organismo notificato, con conseguimento della classe di qualità 5 stelle o superiore; 
+ 
+
+ esclusivamente i generatori di calore alimentati con biomassa installati in sostituzione di generatori di calore a biomassa, a carbone, a olio combustibile o a gasolio per la climatizzazione invernale degli edifici, incluse le serre esistenti e i fabbricati rurali esistenti. Fatta salva la possibilità delle Regioni di limitare l'applicazione della fattispecie nel rispetto dell'articolo 3-quinquies del decreto legislativo 3 aprile 2006, n. 152, in deroga al periodo precedente: 
+ 
+
+ i. sono ammessi agli incentivi i casi di sostituzione di generatori di calore alimentati a GPL o a gas naturale, solo se i generatori alimentati con biomassa installati assicurano emissioni di particolato primario (PP 10) non superiori a 1 mg/Nm&sup3;; 
+ 
+
+ ii. esclusivamente per gli interventi effettuati nelle aree non metanizzate dalle aziende agricole e dalle imprese operanti nel settore forestale, è ammessa agli incentivi la sostituzione di generatori di calore alimentati a GPL con generatori di calore alimentati a biomassa che abbiano requisiti tali da ottenere una riduzione percentuale delle emissioni di particolato primario di almeno il 50% rispetto ai valori previsti dal DM 186/2017 per la classe 5 stelle. 
+ 
+
+ interventi volti alla produzione di energia termica per la climatizzazione invernale, eventualmente abbinati alla produzione di acqua calda sanitaria, o volti, anche in parte, alla produzione di calore per processi industriali, artigianali, agricoli, per il riscaldamento di piscine o di componenti dei centri benessere o interventi di sostituzione dei generatori di calore installati presso le centrali termiche a servizio di impianti di teleriscaldamento. 
+ 
+
+ è richiesta, per tutti gli impianti a biomassa che accedono agli incentivi, almeno una manutenzione biennale obbligatoria per tutta la durata dell'incentivo, svolta da parte di soggetti che presentino i requisiti professionali previsti dall'articolo 15 del decreto legislativo 3 marzo 2011, n. 28. La manutenzione dovrà essere effettuata sul generatore di calore e sulla canna fumaria. Il soggetto che presenta richiesta di incentivo deve conservare, per tutta la durata dell'incentivo stesso, gli originali dei certificati di manutenzione. Tali certificati possono altresì essere inseriti nei Catasti informatizzati costituiti presso le Regioni o nel libretto di impianto. 
+ 
+
+ Ai fini dell'accesso agli incentivi è richiesto, inoltre, il rispetto dei requisiti di cui alle successive lettere da a) a e) oppure, ove esistenti, i più restrittivi vincoli e limiti fissati da norme regionali.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((a) Per le caldaie a biomassa di potenza termica nominale inferiore o uguale a 500 kWt : 
+ 
+
+ i. certificazione di un organismo accreditato che attesti la conformità alla norma UNI EN 303- 5, classe 5; 
+ 
+
+ ii. rendimento termico utile non inferiore a 87% + log(Pn ) dove 
+ 
+
+ Pn è la potenza nominale dell'apparecchio; 
+ 
+
+ iii. obbligo di installazione di un sistema di accumulo termico dimensionato prevedendo un volume di accumulo non inferiore a 20 dm /kWt ; 
+ 
+
+ iv. il pellet utilizzato deve essere certificato da un organismo di certificazione accreditato che ne certifichi la conformità alla norma UNI EN ISO 17225-2 ivi incluso il rispetto delle condizioni previste dall'allegato X, Parte II, sezione 4, paragrafo 1, lettera d) alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni. Nel caso delle caldaie potrà essere utilizzato solo pellet appartenente alla classe di qualità per cui il generatore è stato certificato, oppure pellet appartenente a classi di miglior qualità rispetto a questa. In tutti i casi la documentazione fiscale dovrà riportare l'evidenza della classe di qualità e il codice di identificazione rilasciato dall'Organismo di certificazione accreditato al produttore e/o distributore del pellet; 
+ 
+
+ v. possono altresì essere utilizzate altre biomasse combustibili purchè previste tra quelle indicate dall'allegato X, Parte II, sezione 4, paragrafo 1, alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni, nonchè bricchette di legno, cippato e legna certificati da un organismo di certificazione accreditato che ne certifichi la conformità alle norme tecniche di riferimento UNI EN 17225 3-4-5. 
+ 
+
+ b) Per le caldaie a biomassa di potenza termica nominale superiore a 500 kWt e inferiore o uguale a 2.000 kWt : 
+ 
+
+ i. rendimento termico utile non inferiore al 92% attestato da una dichiarazione del produttore del generatore nella quale deve essere indicato il tipo di combustibile utilizzato; 
+ 
+
+ ii. emissioni in atmosfera non superiori a quanto riportato nella tabella 14, come certificate da un laboratorio accreditato secondo la norma EN ISO/IEC 17025 misurate in sede di impianto, con indicazione del biocombustibile utilizzato. Qualora il generatore risulti certificato ai sensi della norma EN 303-5, l'estratto del Test Report o il Certificato Ambientale, rilasciato dall'Organismo notificato, sostituisce la prova in opera del generatore; 
+ 
+
+ iii. obbligo di presenza di un sistema di abbattimento del particolato primario, non del tipo a gravità, integrato o esterno al corpo del generatore. La configurazione di installazione deve garantire, in tutti i casi, una disponibilità maggiore o uguale al 90%, ovvero il sistema di abbattimento deve essere attivo per più del 90% delle ore di funzionamento del generatore. Il responsabile dell'impianto deve conservare i dati relativi alle ore di funzionamento del sistema di abbattimento suddetto e del generatore, registrati dai sistemi di regolazione e controllo, e li mette a disposizione del GSE in caso di controllo; 
+ 
+
+ iv. il pellet utilizzato deve essere certificato da un organismo di certificazione che ne certifichi la conformità alla norma UNI EN ISO 17225-2 ivi incluso il rispetto delle condizioni previste dall'allegato X, Parte II, sezione 4, paragrafo 1, lettera d) alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni. Nel caso delle caldaie potrà essere utilizzato solo pellet appartenente alla classe di qualità per cui il generatore è stato certificato, oppure pellet appartenente a classi di miglior qualità rispetto a questa. In tutti i casi la documentazione fiscale dovrà riportare l'evidenza della classe di qualità e il codice di identificazione rilasciato dall'Organismo di certificazione accreditato al produttore e/o distributore del pellet; 
+ 
+
+ v. possono altresì essere utilizzate altre biomasse combustibili purchè previste tra quelle indicate dall'allegato X, Parte II, sezione 4, paragrafo 1, alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni, nonchè bricchette di legno, cippato e legna certificati da un organismo di certificazione accreditato che ne certifichi la conformità alle norme tecniche di riferimento UNI EN 17225 3-4-5; 
+ 
+
+ vi. per le caldaie automatiche prevedendo comunque un volume di accumulo, tale da garantire un'adeguata funzione di compensazione di carico, con l'obiettivo di minimizzare i cicli di accensione e spegnimento, secondo quanto indicato dal progettista. Nel caso in cui non sia tecnicamente fattibile, tali fattori limitativi dovranno essere opportunamente evidenziati nella relazione tecnica di progetto. 
+ 
+
+ c) Per le stufe ed i termocamini a pellet: 
+ 
+
+ i. certificazione di un organismo accreditato che attesti la conformità alla norma UNI EN 16510: 2023, ovvero alla norma UNI EN 14785 per i test eseguiti fino al 9 novembre 2025, salvo successive proroghe, corrispondente al termine del periodo transitorio in cui è prevista la coesistenza delle citate norme; 
+ 
+
+ ii. il pellet utilizzato deve essere certificato da un organismo di certificazione che ne certifichi la conformità alla norma UNI EN ISO 17225-2 ivi incluso il rispetto delle condizioni previste dall'allegato X, Parte II, sezione 4, paragrafo 1, lettera d) alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni. 
+ 
+
+ d) Per i termocamini a legna: 
+ 
+
+ i. siano installati esclusivamente in sostituzione di camini o termocamini, sia a focolare aperto che chiuso, o stufe a legna, indipendentemente dal fluido termovettore; 
+ 
+
+ ii. certificazione di un organismo accreditato che attesti la conformità alla norma UNI EN 16510: 2023, ovvero alla norma UNI EN 13229 per i test eseguiti fino al 9 novembre 2025, salvo successive proroghe, corrispondente al termine del periodo transitorio in cui è prevista la coesistenza delle citate norme; 
+ 
+
+ iii. la legna utilizzata deve essere certificata secondo la UNI EN 17225 - 5. Possono altresì essere utilizzate altre biomasse combustibili purchè previste tra quelle indicate dall'allegato X, Parte II, sezione 4, paragrafo 1, alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni, nonchè bricchette di legno certificate da un organismo di certificazione accreditato che ne certifichi la conformità alle norme tecniche di riferimento UNI EN 17225 - 3. 
+ 
+
+ e) Per le stufe a legna: 
+ 
+
+ i. certificazione di un organismo accreditato che attesti la conformità alla norma UNI EN 16510: 2023, ovvero alla norma UNI EN 13240 per i test eseguiti fino al 9 novembre 2025, salvo successive proroghe, corrispondente al termine del periodo transitorio in cui è prevista la coesistenza delle citate norme; 
+ 
+
+ ii. la legna utilizzata deve essere certificata secondo la UNI EN 17225 - 5. Possono altresì essere utilizzate altre biomasse combustibili purchè previste tra quelle indicate dall'allegato X, Parte II, sezione 4, paragrafo 1, alla parte V del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni, nonchè bricchette di legno certificate da un organismo di certificazione accreditato che ne certifichi la conformità alle norme tecniche di riferimento UNI EN 17225.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((4. Solare termico e solar cooling 
+ 
+
+ Per impianti solari termici e di solar cooling, l'accesso agli incentivi è consentito se:))
+ 
+
+ 
+ ((a) i collettori solari sono in possesso della certificazione Solar Keymark; 
+ 
+
+ b) in alternativa, per gli impianti solari termici prefabbricati del tipo factory made, la certificazione di cui al punto a) relativa al solo collettore può essere sostituita dalla certificazione Solar Keymark relativa al sistema; 
+ 
+
+ c) i collettori solari hanno valori di producibilità specifica, espressa in termini di energia solare annua prodotta per unità di superficie lorda Ag, o di superficie degli specchi primari per i collettori lineari di Fresnel, e calcolata a partire dal dato contenuto nella certificazione Solar Keymark (o equivalentemente nell'attestazione rilasciata da ENEA per i collettori a concentrazione) per una temperatura media di funzionamento di 50°C, superiori ai seguenti valori minimi: 
+ 
+
+ nel caso di collettori piani: maggiore di 300 kWht /m&sup2; anno, con riferimento alla località W&uuml;rzburg; 
+ 
+
+ nel caso di collettori sottovuoto e collettori a tubi evacuati: maggiore di 400 kWht /m&sup2; anno, con riferimento alla località W&uuml;rzburg; 
+ 
+
+ nel caso di collettori a concentrazione: maggiore di 550 kWht /m&sup2; anno, con riferimento alla località Atene; 
+ 
+
+ d) (per gli impianti solari termici prefabbricati per i quali è applicabile solamente la UNI EN 12976, la producibilità specifica, in termini di energia solare annua prodotta Ql per unità di superficie di apertura Aa , misurata secondo la norma UNI EN 12976-2 con riferimento al valore di carico giornaliero, fra quelli disponibili, più vicino, in valore assoluto, al volume netto nominale dell'accumulo del sistema solare prefabbricato, e riportata sull'apposito rapporto di prova (test report) redatto da un laboratorio accreditato, deve rispettare almeno uno dei seguenti valori: 
+ 
+
+ maggiore di 400 kWht /m&sup2; anno, con riferimento alla località W&uuml;rzburg; 
+ 
+
+ e) i collettori solari e i bollitori impiegati sono garantiti per almeno cinque anni. In caso di installazione di collettori solari termici per la produzione di calore in processi industriali, artigianali, agricoli (coltivazione/allevamento) o per il riscaldamento di piscine, per cui risulti essere non necessario un sistema di accumulo termico (bollitore), i requisiti relativi alla garanzia di tale componente vengono meno. L'asseverazione, o la dichiarazione del Soggetto Responsabile, da presentare al GSE insieme con la richiesta di concessione degli incentivi, dovrà essere corredata da una relazione tecnica, indipendentemente dalla taglia del nuovo campo solare installato, che giustifichi la non indispensabilità del sistema di accumulo termico, specificando, anche attraverso elaborati grafici e schemi a blocchi dell'impianto, le caratteristiche tecniche del processo e dell'impianto; 
+ 
+
+ f) l'installazione dell'impianto è stata eseguita in conformità ai manuali di installazione dei principali componenti; 
+ 
+
+ g) per i collettori solari a concentrazione per i quali non è possibile l'ottenimento della certificazione Solar Keymark, la certificazione di cui al punto a) è sostituita da un'approvazione tecnica rilasciata dall'ENEA; 
+ 
+
+ h) per i soli impianti di solar cooling, il rapporto tra i metri quadrati di superficie solare lorda (espressa in metri quadrati) e la potenza frigorifera (espressa in kWf ) è maggiore di 2; in ogni 
+ 
+
+ caso, tale rapporto non potrà superare il valore di 2,75; 
+ 
+
+ i) per le macchine frigorifere DEC, la superficie minima solare lorda installata dei collettori deve essere di 8 m&sup2; ogni 1.000 m&sup3;/ora di aria trattata; in ogni caso, la superficie solare lorda dei collettori installata ogni 1.000 m&sup3;/ora di aria trattata non potrà superare il valore di 10.))
+ 
+
+ . 
+ 
+
+ 
+ ((Il requisito di cui alla lettera i) non è richiesto per impianti di sola produzione di acqua calda sanitaria, di calore di processo e per le reti di teleriscaldamento.))
+
+ . 
+ 
+
+ 
+ ((5. Scaldacqua a pompa di calore))
+
+ . 
+ 
+
+ 
+ ((Per le pompe di calore dedicate alla sola produzione di acqua calda sanitaria è richiesta l'appartenenza alla classe A di efficienza energetica di prodotto o superiore, maturata secondo il regolamento delegato (UE) 812/2013.))
+
+ . 
+ 
+
+ 
+ 
+ ((6. Sistemi ibridi factory made a pompa di calore Al fine dell'ammissibilità agli incentivi: 
+ 
+
+ il rapporto tra la potenza termica utile della pompa di calore e la potenza termica utile della caldaia deve essere minore o uguale a 0,5; 
+ 
+
+ la pompa di calore deve rispettare i requisiti tecnici di cui al paragrafo 2; 
+ 
+
+ la caldaia deve essere di tipologia a condensazione e rispettare i requisiti tecnici di soglia minimi consentiti di cui alla tabella 4.))
+ 
+
+ . 
+ 
+
+ 
+ ((7. Sistemi bivalenti))
+
+ . 
+ 
+
+ 
+ ((Al fine dell'ammissibilità agli incentivi la pompa di calore deve rispettare i requisiti tecnici di cui al paragrafo 2. Si applicano, inoltre, i seguenti requisiti specifici.))
+
+ . 
+ 
+
+ 
+ ((7.1 Pompe di calore bivalenti))
+
+ . 
+ 
+
+ 
+ 
+ ((Al fine dell'ammissibilità agli incentivi: 
+ 
+
+ la caldaia deve essere di tipologia a condensazione e rispettare i requisiti tecnici di soglia minimi consentiti di cui alla tabella 4; 
+ 
+
+ la pompa di calore deve assolvere alle funzioni in carico al generatore sostituito, di riscaldamento e, se prevista, di produzione di acqua calda sanitaria; 
+ 
+
+ nel caso di impianto autonomo, il sistema di termoregolazione deve appartenere alle classi V, VI, VII oppure VIII della comunicazione della Commissione 2014/C 207/02. Nel caso di impianto di riscaldamento centralizzato destinato a una pluralità di utenze, è prescritta l'adozione di un gruppo termoregolatore in grado di riprodurre gli stessi effetti delle classi sopra indicate, utilizzando una configurazione adatta ad un sistema centralizzato più complesso tra cui il controllo sulla temperatura di mandata e/o ritorno del fluido termovettore e il rilevamento della temperatura esterna; 
+ 
+
+ il fabbricante della pompa di calore dovrà fornire una dichiarazione di compatibilità tra la stessa e il generatore secondario, indicando le caratteristiche tecniche minime affinchè i due apparecchi possano interagire efficacemente per l'ottimizzazione dei consumi e delle prestazioni energetiche e funzionali, individuando una lista di modelli di generatori supplementari in grado di funzionare con la specifica pompa di calore; 
+ 
+
+ deve essere presente un sistema di controllo e regolazione in grado di ottimizzare il funzionamento preferenziale della pompa di calore rispetto al generatore secondario; 
+ 
+
+ se la pompa di calore e la caldaia sono di fabbricanti diversi, il sistema deve essere asseverato da un tecnico abilitato che ne garantisca la compatibilità con l'impianto esistente, il dialogo tra i due apparecchi che costituiscono il sistema, la compatibilità tra apparecchi e la funzionalità e sicurezza dell'intero impianto.
+ 
+
+ L'asseverazione deve contenere la relazione tecnica ai sensi del decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025 e successive modifiche e integrazioni.))
+ 
+
+ . 
+ ((7.2 Pompe di calore &laquo;add on"))
+
+ ((Al fine dell'ammissibilità agli incentivi))
+
+ : 
+ 
+
+ 
+ ((la caldaia deve essere di età non superiore a 5 anni, e rispettare i requisiti tecnici di soglia minimi consentiti di cui alla tabella 4;))
+
+ ; 
+ 
+
+ 
+ ((la pompa di calore deve essere esclusivamente della tipologia aria-acqua oppure acquaacqua;))
+
+ ; 
+ 
+
+ 
+ ((la pompa di calore deve essere esclusivamente della tipologia aria-aria, nel caso in cui l'edificio oggetto di intervento sia soggetto a vincoli architettonici;))
+
+ ; 
+ 
+
+ 
+ ((nel caso di impianto autonomo, il sistema di termoregolazione deve appartenere alle classi V, VI, VII oppure VIII della comunicazione della Commissione 2014/C 207/02. Nel caso di impianto di riscaldamento centralizzato destinato a una pluralità di utenze, è prescritta l'adozione di un gruppo termoregolatore in grado di riprodurre gli stessi effetti delle classi sopra indicate, utilizzando una configurazione adatta ad un sistema centralizzato più complesso tra cui il controllo sulla temperatura di mandata e/o ritorno del fluido termovettore e il rilevamento della temperatura esterna;))
+
+ ; 
+ 
+
+ 
+ ((il fabbricante della pompa di calore dovrà fornire una dichiarazione di compatibilità tra la stessa e il generatore secondario, indicando le caratteristiche tecniche minime affinchè i due apparecchi possano interagire efficacemente per l'ottimizzazione dei consumi e delle prestazioni energetiche e funzionali, individuando una lista di modelli di generatori supplementari in grado di funzionare con la specifica pompa di calore;))
+
+ ; 
+ 
+
+ 
+ ((deve essere presente un sistema di controllo e regolazione in grado di ottimizzare il funzionamento preferenziale della pompa di calore rispetto al generatore secondario;))
+
+ ; 
+ 
+
+ 
+ 
+ ((se la pompa di calore e la caldaia sono di fabbricanti diversi, il sistema deve essere asseverato da un tecnico abilitato che ne garantisca la compatibilità con l'impianto esistente, il dialogo tra i due apparecchi che costituiscono il sistema, la compatibilità tra apparecchi e la funzionalità e sicurezza dell'intero impianto.
+ 
+
+ L'asseverazione deve contenere la relazione tecnica ai sensi del decreto del Ministro dello sviluppo economico 26 giugno 2015, come modificato dal decreto del Ministro dell'ambiente e della sicurezza energetica 28 ottobre 2025 e successive modifiche e integrazioni.))
+ 
+
+ . 
+ 
+
+ 
+ 
+ ((Parte di provvedimento in formato grafico))
+ 
+
+ ((Tabella 4- Requisiti tecnici di soglia minimi consentiti per l'accesso agli incentivi))
+
+ ((8. Interventi di sostituzione di impianti di climatizzazione invernale con l'allaccio a sistemi di teleriscaldamento efficienti))
+
+ . 
+ 
+
+ 
+ ((Sono ammessi gli interventi di sostituzione di impianti di climatizzazione invernale con l'allaccio a sistemi di teleriscaldamento efficienti e ricadenti nelle reti di teleriscaldamento censite nella specifica &laquo;Anagrafica territoriale teleriscaldamento e teleraffrescamento" istituita dall'Autorità di Regolazione per Energia Reti e Ambiente mediante deliberazione 574/2018/R/tlr.))
+
+ . 
+ 
+
+ 
+ ((9. Interventi di sostituzione di impianti di climatizzazione invernale con impianti utilizzanti microcogeneratori alimentati da fonti rinnovabili))
+
+ . 
+ 
+
+ 
+ 
+ ((Gli interventi di sostituzione totale o parziale di impianti di climatizzazione invernale esistenti con impianti di climatizzazione invernale utilizzanti microcogeneratori oltre a garantire l'assenza di dissipazioni termiche, variazioni del carico, regolazioni della potenza elettrica, rampe di accensione e spegnimento di lunga durata, altre situazioni di funzionamento modulabile che determinano variazioni del rapporto energia elettrica/energia termica, devono garantire un risparmio di energia primaria (PES), almeno pari al 10%.
+ 
+
+ Tutta l'energia termica prodotta dovrà essere utilizzata per soddisfare la richiesta termica per la climatizzazione degli ambienti, la produzione di acqua calda sanitaria. L'ammissione agli incentivi è subordinata all'alimentazione dell'impianto da fonti rinnovabili quali, a titolo esemplificativo biomassa, biogas, bioliquidi e con potenza del microcogeneratore ≥ 50 kWe.))
+ 
+
+ . 
+ 
+
+ 
+ ((L'ammissione agli incentivi è subordinata alla trasmissione della certificazione del produttore dell'unità di microcogenerazione che attesti il rispetto dei requisiti sopra richiamati e dell'asseverazione contenente la stima del PES calcolato sulla base dei carichi termici ed elettrici. Per gli interventi di sostituzione di impianti di climatizzazione invernale con impianti utilizzanti microcogeneratori è ammissibile anche la sostituzione funzionale, intesa come intervento di installazione di un nuovo generatore presso un impianto termico esistente, al fine di provvedere ad alimentare le medesime utenze del generatore precedentemente installato, senza provvedere ad effettuarne la rimozione.))
+
+ .
