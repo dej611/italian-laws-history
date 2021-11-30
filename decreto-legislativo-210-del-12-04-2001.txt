@@ -68,9 +68,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Sulla
+ 
+ Sulla proposta del Ministro per le politiche comunitarie e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e della giustizia;
 
- proposta del Ministro per le politiche comunitarie e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e della giustizia; Emana il seguente decreto legislativo:
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
 
  Art. 1
 
@@ -146,10 +151,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) "controparte centrale": il soggetto interposto tra gli enti di un sistema che funge da controparte esclusiva di detti enti riguardo ai loro ordini di trasferimento; 
- 
+ ((
 
- 
+ g) &laquo;controparte centrale&raquo;: il soggetto di cui all'articolo 2, punto 1, del regolamento (UE) n. 648/2012;
+
+ ))
+
  
 
  
@@ -202,13 +209,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) "partecipante": un ente, un agente di regolamento, una controparte centrale, una stanza di compensazione, un operatore del sistema 
- ((...))
+ ((
 
- partecipanti a un sistema; 
- 
+ n) &laquo;partecipante&raquo;: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione, un operatore del sistema o un partecipante diretto di una controparte centrale autorizzata ai sensi dell'articolo 17 del regolamento (UE) n. 648/2012;
 
- 
+ ))
+
  
 
  
@@ -219,10 +225,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- p) "procedura d'insolvenza": la liquidazione coatta amministrativa, il fallimento, il provvedimento di sospensione dei pagamenti delle passività e delle restituzioni dei beni ai terzi ai sensi degli articoli 74, 77, comma 2, 
- ((...))
-
- del testo unico bancario, e dell'articolo 56, comma 3, del testo unico finanza, nonchè ogni altra misura prevista da una legge italiana, o, se applicabile, di uno Stato membro dell'Unione europea o di uno Stato extracomunitario, che ha come effetto la sospensione o la cessazione dei pagamenti delle passività e delle restituzioni dei beni ai terzi; 
+ p) "procedura d'insolvenza": la liquidazione coatta amministrativa, il fallimento, il provvedimento di sospensione dei pagamenti delle passività e delle restituzioni dei beni ai terzi ai sensi degli articoli 74, 77, comma 2, del testo unico bancario, e dell'articolo 56, comma 3, del testo unico finanza, nonchè ogni altra misura prevista da una legge italiana, o, se applicabile, di uno Stato membro dell'Unione europea o di uno Stato extracomunitario, che ha come effetto la sospensione o la cessazione dei pagamenti delle passività e delle restituzioni dei beni ai terzi; 
  
 
  
@@ -259,10 +262,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- t) 
- ((LETTERA SOPPRESSA DAL D.LGS. 12 AGOSTO 2016, N. 176))
-
- ; 
+ t) LETTERA SOPPRESSA DAL D.LGS. 12 AGOSTO 2016, N. 176; 
  
 
  
