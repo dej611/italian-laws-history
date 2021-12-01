@@ -72,7 +72,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione; 
+ a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia 
+ ((o il Comitato di Risoluzione Unico stabilito dal regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio, nell'ambito del riparto di competenze definite dal medesimo regolamento,))
+
+ nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione; 
  
 
  
@@ -83,6 +86,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ ((
+
+ b-bis) &laquo;BCE&raquo; indica la Banca centrale europea;
+
+ ))
+
  
 
  
@@ -128,14 +140,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- f) LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72; 
- 
-
- 
- 
-
- 
- g) "Stato comunitario" indica lo Stato membro della Comunità Europea; 
+ e-quater) &laquo;UIF&raquo; indica l'Unità di informazione finanziaria per l'Italia di cui all'articolo 6 del decreto legislativo 21 novembre 2007, n. 231; 
  
 
  
@@ -144,17 +149,38 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  ((
 
- 
- g-bis) "Stato di origine" indica lo Stato comunitario in cui la banca, l'IMEL o l'IP è stato autorizzato all'esercizio dell'attività; 
- 
-
- 
- 
-
- g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca, l'IMEL o l'IP ha una succursale o presta servizi;
+ e-quinquies) &laquo;MRU&raquo;: indica il Meccanismo di risoluzione unico, ossia il sistema di risoluzione istituito ai sensi del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio, composto dal Comitato di Risoluzione Unico e dalle autorità nazionali di risoluzione degli Stati membri che vi partecipano;
 
  ))
 
+ 
+
+ 
+ f) LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72; 
+ 
+
+ 
+ 
+
+ 
+ g) "Stato dell'Unione europea" indica lo Stato membro dell'Unione europea; 
+ 
+
+ 
+ 
+
+ 
+ g-bis) "Stato di origine" indica lo Stato dell'Unione europea in cui la banca, l'IMEL o l'IP è stato autorizzato all'esercizio dell'attività; 
+ 
+
+ 
+ 
+
+ 
+ g-ter) "Stato ospitante" indica lo Stato dell'Unione europea nel quale la banca, l'IMEL o l'IP ha una succursale o presta servizi; 
+ 
+
+ 
  
 
  
@@ -190,7 +216,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h-ter) "Stato partecipante al MVU" indica uno Stato comunitario la cui moneta è l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU; 
+ h-ter) "Stato partecipante al MVU" indica uno Stato dell'Unione europea la cui moneta è l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU; 
  
 
  
@@ -204,7 +230,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. m)LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72. 
+ l) "autorità competenti" indica, a seconda dei casi, uno o più fra le autorità di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
+ 
+
+ 
+ 
+
+ 
+ l-bis) &laquo;autorità antiriciclaggio&raquo; indica le autorità responsabili della vigilanza sui soggetti obbligati di cui all'articolo 2, paragrafo 1, punti 1 e 2, della direttiva (UE) 2015/849, ai fini del rispetto degli obblighi previsti dalla medesima direttiva; 
+ 
+
+ 
+ 
+
+ 
+ l-ter) &laquo;autorità di vigilanza su base consolidata&raquo; indica l'autorità di vigilanza su base consolidata come definita all'articolo 4, paragrafo 1, punto 41, del regolamento (UE) n. 575/2013; 
+ 
+
+ m)LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72. 
  
 
  
@@ -231,14 +274,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) "banca comunitaria": la banca avente sede legale e amministrazione centrale in un medesimo Stato comunitario diverso dall'Italia; 
+ b) "banca dell'Unione europea": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia; 
  
 
  
  
 
  
- c) "banca extracomunitaria": la banca avente sede legale in uno Stato terzo; 
+ c) "banca di Stato terzo": la banca avente sede legale in uno Stato terzo; 
  
 
  
@@ -259,12 +302,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ e) "succursale": una sede che costituisce una parte, sprovvista di personalità giuridica, di una banca, un istituto di moneta elettronica o un istituto di pagamento, e che effettua direttamente, in tutto o in parte, l'attività a cui la banca o l'istituto è stato autorizzato; 
+ 
 
- e) "succursale": una sede che costituisce una parte, sprovvista di personalità giuridica, di una banca, un istituto di moneta elettronica o un istituto di pagamento, e che effettua direttamente, in tutto o in parte, l'attività a cui la banca o l'istituto è stato autorizzato;
-
- ))
-
+ 
  
 
  
@@ -280,10 +321,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) leasing finanziario; 
  
 
- 4) prestazione di servizi di pagamento 
- ((...))
-
- . 
+ 4) prestazione di servizi di pagamento. 
  
 
  5) emissione e gestione di mezzi di pagamento ("travellers cheques", lettere di credito), nella misura in cui quest'attività non rientra nel punto 4; 
@@ -331,7 +369,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  14) locazione di cassette di sicurezza; 
  
 
- 15) altre attività che, in virtù delle misure di adattamento assunte dalle autorità comunitarie, sono aggiunte all'elenco allegato alla seconda direttiva in materia creditizia del Consiglio delle Comunità europee n. 89/646/CEE del 15 dicembre 1989; 
+ 15) altre attività che, in virtù delle misure di adattamento assunte dalle autorità dell'Unione europea, sono aggiunte all'elenco allegato alla seconda direttiva in materia creditizia del Consiglio delle Comunità europee n. 89/646/CEE del 15 dicembre 1989; 
  
 
  
@@ -370,7 +408,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  h-bis) "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
  
 
- h-bis.1) "istituti di moneta elettronica comunitari": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
+ h-bis.1) "istituti di moneta elettronica dell'Unione europea": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato dell'Unione europea diverso dall'Italia; 
  
 
  
@@ -404,22 +442,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- h-sexies) 'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento 
- ((...))
-
- ; 
+ h-sexies) 'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento; 
  
 
  
  
 
  
- h-septies) 'istituti di pagamento comunitarì: gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
+ h-septies) 'istituti di pagamento dell'Unione europeà: gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato dell'Unione europea diverso dall'Italia; 
  
 
- 
- 
- ((h-septies.1) "servizi di pagamento": le seguenti attività: 
+ h-septies.1) "servizi di pagamento": le seguenti attività: 
  
 
  1) servizi che permettono di depositare il contante su un conto di pagamento nonchè tutte le operazioni richieste per la gestione di un conto di pagamento; 
@@ -461,16 +494,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  7) servizi di disposizione di ordini di pagamento; 
  
 
- 8) servizi di informazione sui conti;))
+ 8) servizi di informazione sui conti; 
  
 
  
+ 
 
  
- h-octies) 
- ((LETTERA ABROGATA DAL D.LGS. 15 DICEMBRE 2017, N. 218))
-
- ; 
+ h-octies) LETTERA ABROGATA DAL D.LGS. 15 DICEMBRE 2017, N. 218; 
  
 
  
@@ -484,12 +515,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ i) "punto di contatto centrale": il soggetto o la struttura designato dalle banche, dagli istituti di moneta elettronica o dagli istituti di pagamento dell'Unione europea che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'articolo 128-quater; 
+ 
 
- i) "punto di contatto centrale": il soggetto o la struttura designato dalle banche, dagli istituti di moneta elettronica o dagli istituti di pagamento comunitari che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'articolo 128-quater;
-
- ))
-
+ 
  
 
  
@@ -521,13 +550,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
  3-quater. Se non diversamente disposto, ai fini della disciplina dei servizi di pagamento, nel presente decreto si applicano le definizioni del decreto legislativo 27 gennaio 2010, n. 11.
- 
-
- 
- ))
