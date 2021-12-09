@@ -1,0 +1,217 @@
+(Articolo 98-quater decies) 
+ 
+
+ 
+ 
+
+ ALLEGATO 8 (ex allegato VIII eecc - parte dell'All. 5 Codice 2003) OBBLIGHI DI INFORMAZIONE DA FORNIRE CONFORMEMENTE ALL'ARTICOLO 98-quaterdecies 
+ 
+
+ 
+ 
+
+ A. Obblighi di informazione per i fornitori di servizi di comunicazione elettronica accessibili al pubblico diversi dai servizi di trasmissione utilizzati per la fornitura di servizi da macchina a macchina 
+ 
+
+ 
+ 
+
+ I fornitori di servizi di comunicazione elettronica accessibili al pubblico diversi dai servizi di trasmissione utilizzati per la fornitura di servizi da macchina a macchina forniscono le seguenti informazioni: 
+ 
+
+ 
+ 
+
+ 1) nell'ambito delle principali caratteristiche di ogni servizio fornito i livelli minimi di qualità del servizio nella misura in cui sono offerti e, per i servizi diversi dai servizi di accesso a internet, gli specifici parametri di qualità garantiti. 
+ 
+
+ 
+ 
+
+ Laddove non sia offerto alcun livello minimo di qualità del servizio, ciò deve essere comunicato; 
+ 
+
+ 
+ 
+
+ 2) nell'ambito delle informazioni sul prezzo, ove e nella misura applicabile, gli importi dovuti rispettivamente per l'attivazione del servizio di comunicazione elettronica e per i costi ricorrenti o legati al consumo; 
+ 
+
+ 
+ 
+
+ 3) nell'ambito delle informazioni concernenti la durata del contratto e le condizioni di rinnovo e di risoluzione, compresi eventuali oneri di risoluzione, nella misura in cui si applicano tali condizioni: 
+ 
+
+ 
+ 
+
+ a) ogni utilizzo minimo o durata minima richiesti per beneficiare di condizioni promozionali; 
+ 
+
+ 
+ 
+
+ b) costi legati al passaggio e agli accordi di indennizzo e rimborso in caso di ritardi o abusi nel passaggio, nonchè informazioni circa le rispettive procedure; 
+ 
+
+ 
+ 
+
+ c) informazioni sul diritto, di cui beneficiano i consumatori che utilizzano servizi prepagati, al rimborso, su richiesta, dei crediti residui in caso di passaggio, come stabilito all'articolo 98-octies decies comma 6; 
+ 
+
+ 
+ 
+
+ d) oneri per risoluzione anticipata dal contratto, comprese le informazioni sullo sblocco dell'apparecchiatura terminale e sul recupero dei costi in relazione alla stessa; 
+ 
+
+ 
+ 
+
+ 4) le disposizioni relative all'indennizzo e al rimborso, ivi compreso, se del caso, un riferimento esplicito ai diritti dei consumatori, applicabili qualora non sia raggiunto il livello di qualità del servizio previsto dal contratto o qualora la risposta del fornitore a incidenti di sicurezza, minacce o vulnerabilità non sia adeguata; 
+ 
+
+ 
+ 
+
+ 5) i tipi di azioni che il fornitore può adottare in risposta a incidenti di sicurezza, o minacce e vulnerabilità. 
+ 
+
+ 
+ 
+
+ B. Obblighi di informazione per i fornitori di servizi di accesso a internet e di servizi di comunicazione interpersonale accessibili al pubblico 
+ 
+
+ 
+ 
+
+ I. Oltre agli obblighi di cui alla parte A, i fornitori di servizi di accesso a internet e di servizi di comunicazione interpersonale accessibili al pubblico forniscono le seguenti informazioni: 
+ 
+
+ 
+ 
+
+ 1) nell'ambito delle principali caratteristiche di ciascun servizio fornito: 
+ 
+
+ 
+ 
+
+ a) i livelli minimi di qualità del servizio nella misura in cui sono offerti e tenendo nella massima considerazione le linee guida del BEREC adottate a norma dell'articolo 98-sedecies, comma 2, per quanto concerne: 
+ 
+
+ 
+ 
+
+ - per i servizi di accesso a internet: almeno latenza, jitter, perdita di pacchetti; 
+ 
+
+ 
+ 
+
+ - per i servizi di comunicazione interpersonale accessibili al pubblico, ove esercitino un controllo su almeno alcuni elementi della rete o hanno a tal fine un accordo sul livello dei servizi con le aziende che forniscono l'accesso alla rete: almeno i tempi di allacciamento iniziale, la probabilità di fallimento della chiamata, i ritardi di segnalazione della chiamata a norma dell'allegato 10; 
+ 
+
+ 
+ 
+
+ b) fermo restando il diritto degli utenti finali di utilizzare apparecchiature terminali di loro scelta, a norma dell'articolo 3, paragrafo 1, del regolamento (UE) 2015/2120, le condizioni, compresi i contributi, imposte dal fornitore all'utilizzo delle apparecchiature terminali fornite; 
+ 
+
+ 
+ 
+
+ 2) nell'ambito delle informazioni sul prezzo, ove e nella misura applicabile, gli importi dovuti rispettivamente per l'attivazione del servizio di comunicazione elettronica e per i costi ricorrenti o legati al consumo: 
+ 
+
+ 
+ 
+
+ a) i dettagli del piano o dei piani tariffari specifici previsti dal contratto e, per ciascun piano tariffario, i tipi di servizi offerti, compresi, se del caso, i volumi delle comunicazioni (quali MB, minuti, messaggi) inclusi in ciascun periodo di fatturazione e il prezzo per unità supplementare di comunicazione; 
+ 
+
+ 
+ 
+
+ b) in caso di piano o di piani tariffari con un volume di comunicazioni prestabilito, la possibilità per i consumatori di differire il volume non utilizzato dal periodo di fatturazione precedente a quello successivo, laddove il contratto preveda tale opzione; 
+ 
+
+ 
+ 
+
+ c) strumenti per salvaguardare la trasparenza delle fatture e monitorare il livello dei consumi; 
+ 
+
+ 
+ 
+
+ d) informazioni sulle tariffe in vigore riguardo a numeri o servizi soggetti a particolari condizioni tariffarie; per singole categorie di servizi le autorità competenti in coordinamento, se del caso, con le autorità nazionali di regolamentazione possono esigere anche che tali informazioni siano fornite immediatamente prima della connessione della chiamata o della connessione al fornitore del servizio; 
+ 
+
+ 
+ 
+
+ e) per i pacchetti di servizi e i pacchetti che comprendono servizi e apparecchiature terminali, il prezzo dei singoli elementi del pacchetto, nella misura in cui sono commercializzati anche separatamente; 
+ 
+
+ 
+ 
+
+ f) dettagli e condizioni, compresi i contributi, su servizio postvendita, manutenzione e assistenza ai clienti; e 
+ 
+
+ 
+ 
+
+ g) mezzi per ottenere informazioni aggiornate su tutte le tariffe vigenti e sui costi di manutenzione; 
+ 
+
+ 
+ 
+
+ 3) nell'ambito delle informazioni concernenti la durata del contratto per i pacchetti di servizi e le condizioni di rinnovo e di risoluzione del contratto, ove applicabile, le condizioni di cessazione del pacchetto o dei suoi elementi; 
+ 
+
+ 
+ 
+
+ 4) fatto salvo l'articolo 13 del regolamento (UE) 2016/679, le informazioni relative ai dati personali che sono forniti prima della prestazione del servizio o raccolti contestualmente alla fornitura del servizio; 
+ 
+
+ 
+ 
+
+ 5) informazioni dettagliate su prodotti e servizi destinati a utenti finali con disabilità e su come possono essere ottenuti gli aggiornamenti di tali informazioni; 
+ 
+
+ 
+ 
+
+ 6) i mezzi con cui possono essere avviati i procedimenti di risoluzione delle controversie, incluse le controversie nazionali e transfrontaliere, in conformità dell'articolo 25. 
+ 
+
+ 
+ 
+
+ II. Oltre agli obblighi di cui alla parte A e al punto I, i fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico forniscono anche le seguenti informazioni: 
+ 
+
+ 
+ 
+
+ 1) restrizioni all'accesso ai servizi di emergenza o alle informazioni sulla localizzazione del chiamante a causa di impossibilità tecnica, purchè il servizio consenta agli utenti finali di effettuare chiamate verso un numero nell'ambito di un piano di numerazione nazionale o internazionale; 
+ 
+
+ 
+ 
+
+ 2) il diritto dell'utente finale di decidere se far inserire i propri dati personali in un elenco e le tipologie di dati di cui trattasi in conformità dell'articolo 12 della direttiva 2002/58/CE. 
+ 
+
+ 
+ 
+
+ III. Oltre agli obblighi di cui alla parte A e al punto I, i fornitori di servizi di accesso a internet forniscono anche le informazioni richieste a norma dell'articolo 4, paragrafo 1, del regolamento (UE) 2015/2120.

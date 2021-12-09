@@ -400,140 +400,327 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
- 
- 
- (( (Ambito di applicazione) 
- 
-
- (art. 1 eecc; art. 2 Codice 2003) ))
- 
+ Definizioni
 
  
+ 
+ 
+ 
+ 1. Ai fini del presente Codice si intende per: 
  
 
  
  
 
  
+ a) contraente: la persona fisica o giuridica che sia parte di un contratto con il fornitore di servizi di comunicazione elettronica accessibili al pubblico, per la fornitura di tali servizi; 
  
 
+ 
+ 
+
+ 
+ b) accesso: il fatto di rendere accessibili risorse o servizi ad un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della società dell'informazione o di servizi di radiodiffusione di contenuti. è compreso tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che può comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonchè alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'ordinazione preventiva, la fornitura, l'ordinazione, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale; 
+ 
+
+ 
+ 
+
+ 
+ c) apparato radio elettrico: un trasmettitore, un ricevitore o un ricetrasmettitore destinato ad essere applicato in una stazione radioelettrica. In alcuni casi l'apparato radioelettrico può coincidere con la stazione stessa. 
+ 
+
+ 
+ 
+
+ 
+ d) apparecchiature digitali televisive avanzate: i sistemi di apparecchiature di decodifica destinati al collegamento con televisori o sistemi televisivi digitali integrati in grado di ricevere i servizi della televisione digitale interattiva; 
+ 
+
+ 
+ 
+
+ 
+ e) Application Programming Interface (API): interfaccia software fra applicazioni rese disponibili da emittenti o fornitori di servizi e le risorse delle apparecchiature digitali televisive avanzate per la televisione e i servizi radiofonici digitali; 
+ 
+
+ 
+ 
+
+ 
+ f) Autorità nazionale di regolamentazione: l'Autorità per le garanzie nelle comunicazioni, di seguito denominata Autorità; 
+ 
+
+ 
+ 
+
+ 
+ g) autorizzazione generale: il regime giuridico che disciplina la fornitura di reti o di servizi di comunicazione elettronica, anche ad uso privato, ed i relativi obblighi specifici per il settore applicabili a tutti i tipi o a tipi specifici di servizi e di reti di comunicazione elettronica, conformemente al Codice; 
+ 
+
+ 
+ 
+
+ 
+ h) chiamata: la connessione istituita da un servizio di comunicazione elettronica accessibile al pubblico che consente la comunicazione bidirezionale; 
+ 
+
+ 
+ 
+
+ 
+ i) Codice: il "Codice delle comunicazioni elettroniche" per quanto concerne le reti e i sevizi di comunicazione elettronica; 
+ 
+
+ 
+ 
+
+ 
+ j) consumatore: l'utente finale, la persona fisica che utilizza o che chiede di utilizzare un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attività lavorativa, commerciale o professionale svolta; 
+ 
+
+ 
+ 
+
+ 
+ l) fornitura di una rete di comunicazione elettronica: la realizzazione, la gestione, il controllo o la messa a disposizione di una siffatta rete; 
+ 
+
+ 
+ 
+
+ 
+ m) interconnessione: il collegamento fisico e logico delle reti pubbliche di comunicazione utilizzate dal medesimo operatore o da un altro per consentire agli utenti di un operatore di comunicare con gli utenti del medesimo o di un altro operatore, o di accedere ai servizi offerti da un altro operatore. I servizi possono essere forniti dalle parti interessate o da altre parti che hanno accesso alla rete. L'interconnessione è una particolare modalità di accesso tra operatori della rete pubblica di comunicazione; 
+ 
+
+ 
+ 
+
+ 
+ n) interferenza dannosa: interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione europea o nazionali applicabili; 
+ 
+
+ 
+ 
+
+ 
+ o) larga banda: l'ambiente tecnologico costituito da applicazioni, contenuti, servizi ed infrastrutture, che consente l'utilizzo delle tecnologie digitali ad elevati livelli di interattività; 
+ 
+
+ 
+ 
+
+ 
+ p) libero uso: la facoltà di utilizzo di dispositivi o di apparecchiature terminali di comunicazione elettronica senza necessità di autorizzazione generale; 
+ 
+
+ 
+ 
+
+ 
+ q) mercati transnazionali: mercati situati in più di uno Stato membro, individuati conformemente all'articolo 18, che comprendono l'Unione europea o una parte considerevole dei suoi Stati membri; 
+ 
+
+ 
+ 
+
+ 
+ r) Ministero: il Ministero dello sviluppo economico; 
+ 
+
+ 
+ 
+
+ 
+ s) numero geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete; 
+ 
+
+ 
+ 
+
+ 
+ t) numero non geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica e che non sia un numero geografico; include tra l'altro i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo; 
+ 
+
+ 
+ 
+
+ 
+ u) operatore: un'impresa che è autorizzata a fornire una rete pubblica di comunicazioni, o una risorsa correlata; 
+ 
+
+ 
+ 
+
+ 
+ v) punto terminale di rete: il punto fisico a partire dal quale il contraente ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete è definito mediante un indirizzo di rete specifico che può essere correlato ad un numero di contraente o ad un nome di contraente; per il servizio di comunicazioni mobili e personali il punto terminale di rete è costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio; 
+ 
+
+ 
+ 
+
+ 
+ z) rete locale: il circuito fisico che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica; 
+ 
+
+ 
+ 
+
+ 
+ aa) rete pubblica di comunicazioni: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti; 
+ 
+
+ 
+ 
+
+ 
+ bb) LETTERA SOPPRESSA DAL D.LGS. 28 MAGGIO 2012, N. 70; 
+ 
+
+ 
+ 
+
+ 
+ cc) rete televisiva via cavo: ogni infrastruttura prevalentemente cablata installata principalmente per la diffusione o la distribuzione di segnali radiofonici o televisivi al pubblico; 
+ 
+
+ 
+ 
+
+ 
+ dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+ 
+
+ 
+ 
+
+ 
+ ee) risorse correlate: i servizi correlati, le infrastrutture fisiche e le altre risorse o elementi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ovvero sono potenzialmente in grado di farlo, ivi compresi tra l'altro gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le guaine, i piloni, i pozzetti e gli armadi di distribuzione; 
+ 
+
+ 
+ 
+
+ 
  ((
- 
 
  
- 
- 
- 
- 1. Formano oggetto del presente decreto le disposizioni in materia di: 
+ ee-bis) Sistema di allarme pubblico: sistema di diffusione di allarmi pubblici agli utenti finali interessati da gravi emergenze e catastrofi imminenti o in corso, che può utilizzare servizi mobili di comunicazione interpersonale basati sul numero, servizi di diffusione radiotelevisiva, applicazioni mobili basate su un servizio di accesso a internet. Qualora gli allarmi pubblici siano trasmessi tramite servizi di comunicazione elettronica accessibili al pubblico diversi da quelli di cui al primo periodo, la loro efficacia deve essere equivalente in termini di copertura e capacità di raggiungere gli utenti finali, compresi quelli presenti solo temporaneamente nella zona interessata. Gli allarmi pubblici devono essere facili da ricevere per gli utenti finali; 
  
 
  
  
 
  
- a) reti e servizi di comunicazione elettronica ad uso pubblico, ivi comprese le reti utilizzate per la diffusione circolare di programmi sonori e televisivi e le reti della televisione via cavo; 
+ ee-ter) servizio di Cell Broadcast Service: Servizio che consente la diffusione di messaggi a tutti i terminali presenti all'interno di una determinata area geografica individuata dalla copertura radiomobile di una o più celle; 
  
 
  
  
 
  
- b) gruppi chiusi di utenti; 
+ ee-quater) messaggio IT-alert: Messaggio inviato, attraverso un Servizio di Cell Broadcast Service, dalle componenti del Servizio nazionale della protezione civile, nell'imminenza o nel caso degli eventi previsti all'articolo 7 del decreto legislativo 2 gennaio 2018, n. 1, e dagli ulteriori soggetti a tal fine abilitati; 
  
 
  
  
 
  
- c) reti e servizi di comunicazione elettronica ad uso privato; 
+ ee-quinquies) servizio IT-alert: sistema di allarme pubblico che trasmette, ai terminali presenti in una determinata area geografica, dei Messaggi IT-alert riguardanti gli scenari di rischio, l'organizzazione dei servizi di protezione civile del proprio territorio e le misure di autoprotezione; 
+ 
+
+ 
+ 
+
+ ee-sexies) misure di autoprotezione: azioni raccomandate, utili a ridurre i rischi e ad attenuare le conseguenze derivanti dagli eventi di cui all'articolo 7 del decreto legislativo 2 gennaio 2018, n. 1;
+
+ ))
+
+ 
+
+ 
+ ff) servizio di comunicazione elettronica ad uso privato: un servizio di comunicazione elettronica svolto esclusivamente nell'interesse proprio dal titolare della relativa autorizzazione generale; 
  
 
  
  
 
  
- d) tutela degli impianti sottomarini di comunicazione elettronica; 
+ gg) servizio di comunicazione elettronica: i servizi, forniti di norma a pagamento, consistenti esclusivamente o prevalentemente nella trasmissione di segnali su reti di comunicazione elettronica, compresi i servizi di telecomunicazioni e i servizi di trasmissione nelle reti utilizzate per la diffusione circolare radiotelevisiva, ad esclusione dei servizi che forniscono contenuti trasmessi utilizzando reti e servizi di comunicazione elettronica o che esercitano un controllo editoriale su tali contenuti; sono inoltre esclusi i servizi della società dell'informazione di cui all'articolo 2, comma 1, lettera a), del decreto legislativo 9 aprile 2003, n. 70, non consistenti interamente o prevalentemente nella trasmissione di segnali su reti di comunicazione elettronica; 
  
 
  
  
 
  
- e) servizi radioelettrici. 
+ hh) servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o più numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale; 
  
 
  
  
 
  
-
- 
-
- 
- 
- 
- 2. Non formano oggetto del decreto le disposizioni in materia di: 
+ ii) servizio televisivo in formato panoramico: un servizio televisivo che si compone esclusivamente o parzialmente di programmi prodotti ed editati per essere visualizzati su uno schermo a formato panoramico. Il rapporto d'immagine 16:9 è il formato di riferimento per i servizi televisivi in formato panoramico; 
  
 
  
  
 
  
- a) servizi che forniscono contenuti trasmessi utilizzando reti e servizi di comunicazione elettronica o che comportano un controllo editoriale su tali contenuti; 
+ ll) servizio universale: un insieme minimo di servizi di una qualità determinata, accessibili a tutti gli utenti a prescindere dalla loro ubicazione geografica e, tenuto conto delle condizioni nazionali specifiche, offerti ad un prezzo accessibile; 
  
 
  
  
 
  
- b) apparecchiature contemplate dal decreto legislativo 22 giugno 2016, n. 128 che attua la direttiva 2014/53/UE concernente l'armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE, fatte salve le apparecchiature utilizzate dagli utenti della radio e televisione digitale; 
+ mm) sistema di accesso condizionato: qualsiasi misura o intesa tecnica secondo la quale l'accesso in forma intelligibile ad un servizio protetto di diffusione radiotelevisiva è subordinato ad un abbonamento o ad un'altra forma di autorizzazione preliminare individuale; 
  
 
  
  
 
  
- c) disciplina dei servizi della società dell'informazione, definiti dalla legge 21 giugno 1986, n. 317, disciplinati dal decreto legislativo 9 aprile 2003, n. 70. 
+ nn) stazione radioelettrica, uno o più trasmettitori o ricevitori o un insieme di trasmettitori e ricevitori, ivi comprese le apparecchiature accessorie, necessari in una data postazione, anche mobile o portatile, per assicurare un servizio di radiocomunicazione o per il servizio di radioastronomia. Ogni stazione viene classificata sulla base del servizio al quale partecipa in materia permanente o temporanea; 
  
 
  
  
 
  
-
- 
-
- 
- 3. Il presente decreto reca le specifiche norme in materia di tutela dei consumatori nel settore delle comunicazioni elettroniche, quali condizioni a corredo delle autorizzazioni generali per la fornitura di servizi di comunicazione elettronica. Rimangono ferme le disposizioni del Codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. 
+ oo) telefono pubblico a pagamento: qualsiasi apparecchio telefonico accessibile al pubblico, utilizzabile con mezzi di pagamento che possono includere monete o carte di credito o di addebito o schede prepagate, comprese le schede con codice di accesso; 
  
 
  
  
- 
 
  
- 4. Rimangono ferme e prevalgono sulle disposizioni del decreto le norme speciali in materia di reti utilizzate per la diffusione circolare di programmi sonori e televisivi. 
- 
-
- 
- 
- 
-
- 
- 5. Le Amministrazioni competenti all'applicazione del presente decreto garantiscono la conformità del trattamento dei dati alle norme in materia di protezione dei dati. 
+ pp) utente: la persona fisica o giuridica che utilizza o chiede di utilizzare un servizio di comunicazione elettronica accessibile al pubblico; 
  
 
  
  
+
+ 
+ qq) utente finale: un utente che non fornisce reti pubbliche di comunicazione o servizi di comunicazione elettronica accessibili al pubblico. 
  
 
  
- 6. Le disposizioni del presente decreto si applicano fatte salve le limitazioni derivanti da esigenze della difesa e della sicurezza dello Stato, della protezione civile, della salute pubblica e della tutela dell'ambiente e della riservatezza e protezione dei dati personali, poste da specifiche disposizioni di legge o da disposizioni regolamentari di attuazione. 
+ 
+
+ 
+ qq-bis) BEREC: Organismo dei regolatori europei delle comunicazioni elettroniche; 
  
 
  
  
+
+ 
+ qq-ter) attribuzione di spettro radio: la designazione di una determinata banda di frequenze destinata ad essere utilizzata da parte di uno o più tipi di servizi di radiocomunicazione, se del caso, alle condizioni specificate; 
  
 
  
- 7. Restano ferme le competenze e i poteri del Presidente del Consiglio dei Ministri di cui all'articolo 5, comma 3, lettera b-bis) della legge 23 agosto 1988, n. 400, nonchè le competenze e i poteri del Comitato interministeriale per la transizione digitale di cui all'articolo 8 del decreto-legge 1° marzo 2021, n. 22.
+ 
+
+ 
+ qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi tra l'altro i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi, nonchè altri servizi quali quelli relativi all'identità, alla posizione e alla presenza.

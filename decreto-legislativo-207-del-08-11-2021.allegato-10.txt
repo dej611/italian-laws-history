@@ -1,0 +1,140 @@
+(Articolo 98-sedecies) 
+ 
+
+ 
+ 
+
+ ALLEGATO 10 (ex allegato X eecc - All. 6 Codice 2003) 
+ 
+
+ PARAMETRI DI QUALITà DEL SERVIZIO 
+ 
+
+ 
+ 
+
+ Per i fornitori di accesso a una rete pubblica di comunicazione elettronica 
+ 
+
+ 
+ 
+ 
+ PARAMETRO (Nota 1) DEFINIZIONE METODO DI MISURA 
+ 
+
+ 
+ Tempo di fornitura del collegamento iniziale ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Tasso di guasti per linea d'accesso ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Tempo di riparazione dei guasti ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ Per i fornitori di servizi di comunicazione interpersonale che esercitano un controllo su almeno alcuni elementi della rete o che hanno a tal fine un accordo sul livello dei servizi con le aziende che forniscono l'accesso alla rete 
+ 
+
+ 
+ 
+ 
+ PARAMETRO (Nota 2) DEFINIZIONE METODO DI MISURA 
+ 
+
+ 
+ Tempo di stabilimento di una connessione ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Reclami relativi all'esattezza delle fatture ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Qualità della connessione vocale ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Percentuale di chiamate interrotte ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Percentuale di chiamate non riuscite (Nota 2) ETSI EG 202 057 ETSI EG 202 057 
+ 
+
+ 
+ Probabilità di guasto 
+ 
+
+ 
+ Ritardi del segnale di chiamata 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ La versione del documento ETSI EG 202 057-1 è la 1.3.1 (luglio 2008) 
+ 
+
+ 
+ 
+
+ Per i fornitori di servizi di accesso a internet 
+ 
+
+ 
+ 
+ 
+ PARAMETRO DEFINIZIONE METODO DI MISURA 
+ 
+
+ 
+ Latenza (ritardo) ITU-T Y.2617 ITU-T Y.2617 
+ 
+
+ 
+ Jitter ITU-T Y.2617 ITU-T Y.2617 
+ 
+
+ 
+ Perdita di pacchetti ITU-T Y.2617 ITU-T Y.2617 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ Nota 1 
+ 
+
+ 
+ 
+
+ I parametri permettono di analizzare le prestazioni a livello regionale [vale a dire a un livello non inferiore al livello 2 della nomenclatura delle unità territoriali statistiche (Nomenclature of Territorial Units for Statistics - NUTS) istituita da Eurostat]. 
+ 
+
+ 
+ 
+
+ Nota 2 
+ 
+
+ 
+ 
+
+ Gli Stati membri possono decidere di non esigere l'aggiornamento delle informazioni riguardanti le prestazioni relative a questi due parametri se è dimostrato che le prestazioni in questi due settori sono soddisfacenti.
