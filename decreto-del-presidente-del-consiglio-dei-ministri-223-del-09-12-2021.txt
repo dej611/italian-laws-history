@@ -1,0 +1,594 @@
+IL PRESIDENTE
+
+ 
+ DEL CONSIGLIO DEI MINISTRI
+
+ 
+
+ 
+ 
+ 
+ Vista la legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, recante &laquo;Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale&raquo; che, in particolare, istituisce l'Agenzia per la cybersicurezza nazionale (nel prosieguo &laquo;Agenzia&raquo;) anche ai fini della tutela della sicurezza nazionale e dell'interesse nazionale nello spazio cibernetico e, in particolare, l'articolo 6;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 7 agosto 1990, n. 241;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante il &laquo;Codice dell'amministrazione digitale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 18 maggio 2018, n. 65, di attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 21 settembre 2019, n. 105, convertito in legge, con modificazioni, dalla legge 18 novembre 2019, n. 133, recante &laquo;Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti gli articoli 2, comma 2, e 5, comma 2, secondo periodo, del decreto-legge n. 82 del 2021, che prevedono, in particolare, rispettivamente, che il Presidente del Consiglio dei ministri, sentito il CIC, impartisce le direttive per la cybersicurezza ed emana ogni disposizione necessaria per l'organizzazione e il funzionamento dell'Agenzia, e che il Presidente del Consiglio dei ministri e l'Autorità delegata, ove istituita, si avvalgano dell'Agenzia per l'esercizio delle competenze di cui allo stesso decreto-legge;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti altresì gli articoli 5, comma 2, primo periodo, e 12, comma 1, del decreto-legge n. 82 del 2021, che prevedono, in particolare, rispettivamente, che l'Agenzia è dotata di autonomia regolamentare, amministrativa e organizzativa e che per il personale del ruolo dell'Agenzia, di cui all'articolo 12, comma 2, lettera a), del richiamato decreto-legge, tenuto conto delle funzioni volte alla tutela della sicurezza nazionale, ne sia dettata la relativa disciplina con apposito regolamento adottato anche in deroga alle vigenti disposizioni di legge, ivi incluso il decreto legislativo 30 marzo 2001, n. 165, nel rispetto dei principi generali dell'ordinamento giuridico, prevedendo, infine, un trattamento economico pari a quello in godimento da parte dei dipendenti della Banca d'Italia, sulla scorta dell'equiparabilità delle funzioni svolte e del livello di responsabilità rivestito;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento adottato con decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 13 settembre 2021, recante &laquo;Delega di funzioni in materia di cybersicurezza all'Autorità delegata per la sicurezza della Repubblica, prefetto Franco Gabrielli&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Ritenuto di dare attuazione all'articolo 6, individuando un assetto organizzativo e funzionale dell'Agenzia efficiente, coerente con la missione istituzionale, raccordato e compatibile con le previsioni di cui al richiamato articolo 12, comma 1, e che consenta di disporre delle necessarie dinamicità, modularità e gradualità nell'attivazione delle strutture e articolazioni dell'Agenzia, al fine di assicurarne un pronto avvio nel rispetto dei principi di efficienza ed economicità;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 6, comma 3, del decreto-legge n. 82 del 2021, che consente l'adozione del presente regolamento in deroga alle disposizioni dell'articolo 17 della legge 23 agosto 1988, n. 400 e, dunque, anche in assenza del parere del Consiglio di Stato;
+
+ 
+ 
+ 
+
+ 
+ Acquisiti i pareri delle Commissioni I (Affari costituzionali) e IX (Trasporti) riunite, IV (Difesa) e V (Bilancio) della Camera dei deputati, delle Commissioni 1&ordf; (Affari costituzionali), 5&ordf; (Bilancio) e 8&ordf; (Lavori pubblici, comunicazione) del Senato della Repubblica e del Comitato parlamentare per la sicurezza della Repubblica;
+
+ 
+
+ 
+ Sentito il Comitato interministeriale per la cybersicurezza (CIC);
+
+ 
+
+ 
+ Di concerto con il Ministro dell'economia e delle finanze;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente regolamento si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) decreto-legge, il decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, recante disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale; 
+ 
+
+ 
+ 
+
+ 
+ b) Autorità delegata, il Sottosegretario di Stato o il Ministro senza portafoglio di cui all'articolo 3 del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ c) CIC, il Comitato interministeriale per la cybersicurezza di cui all'articolo 4 del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ d) decreto legislativo NIS, il decreto legislativo 18 maggio 2018, n. 65, di attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione, come modificato dall'articolo 15 del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ e) decreto-legge perimetro, il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, recante disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica; 
+ 
+
+ 
+ 
+
+ 
+ f) Tavolo Perimetro, il Tavolo interministeriale per l'attuazione del perimetro di sicurezza nazionale cibernetica di cui all'articolo 6, comma 1, del regolamento adottato con decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131; 
+ 
+
+ 
+ 
+
+ 
+ g) Comitato tecnico-scientifico, il Comitato di cui all'articolo 7, comma 1-bis, del decreto-legge; 
+ 
+
+ 
+ 
+
+ 
+ h) Comitato tecnico di raccordo, il Comitato di cui all'articolo 9, comma 1, del decreto legislativo NIS; 
+ 
+
+ 
+ 
+
+ 
+ i) CSIRT Italia, il Computer security incident response team, di cui all'articolo 8 del decreto legislativo NIS; 
+ 
+
+ 
+ 
+
+ 
+ l) CVCN, il Centro di valutazione e certificazione nazionale di cui all'articolo 1, comma 6, lettera a), del decreto-legge perimetro; 
+ 
+
+ 
+ 
+
+ 
+ m) Centro di coordinamento, il Centro nazionale di coordinamento ai sensi dell'articolo 6 del regolamento (UE) n. 2021/887 del Parlamento europeo e del Consiglio del 20 maggio 2021, che istituisce il Centro europeo di competenza per la cybersicurezza nell'ambito industriale, tecnologico e della ricerca e la rete dei centri nazionali di coordinamento; 
+ 
+
+ 
+ 
+
+ 
+ n) articolazioni: le Divisioni di cui all'articolo 4, comma 4, e gli altri gruppi di progetto, di studio e ricerca, settori e altri gruppi di cui all'articolo 4, comma 5, secondo periodo. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ NOTE 
+ 
+
+ Avvertenza: 
+ 
+
+ - Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUUE). 
+ 
+
+ Note alle premesse: 
+ 
+
+ - La legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri) è pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. 
+ 
+
+ - Il decreto-legge 14 giugno 2021, n. 82 (Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale), convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, è pubblicato nella Gazzetta Ufficiale 14 giugno 2021, n. 140. 
+ 
+
+ - La legge 7 agosto 1990, n. 241 (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) è pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale) è pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
+ 
+
+ - Il decreto legge 15 marzo 2012, n. 21 (Norme in materia di poteri speciali sugli assetti societari nei settori della difesa e della sicurezza nazionale, nonchè per le attività di rilevanza strategica nei settori dell'energia, dei trasporti e delle comunicazioni), convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56, è pubblicato nella Gazzetta Ufficiale 15 marzo 2012, n. 63. 
+ 
+
+ - Il decreto legislativo 18 maggio 2018, n. 65, (Attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione) è pubblicato nella Gazzetta Ufficiale 9 giugno 2018, n. 132. 
+ 
+
+ - Il decreto-legge 21 settembre 2019, n. 105 (Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica), convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, è pubblicato nella Gazzetta Ufficiale 21 settembre 2019, n. 222. 
+ 
+
+ - Si riporta il testo dell'articolo 2 e del comma 2 dell'articolo 5 del citato decreto-legge 14 giugno 2021, n. 82 (Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale): 
+ 
+
+ &laquo;Art. 2. (Competenze del Presidente del Consiglio dei ministri). - 1. Al Presidente del Consiglio dei ministri sono attribuite in via esclusiva: 
+ 
+
+ a) l'alta direzione e la responsabilità generale delle politiche di cybersicurezza; 
+ 
+
+ b) l'adozione della strategia nazionale di cybersicurezza, sentito il Comitato interministeriale per la cybersicurezza (CIC) di cui all'articolo 4; 
+ 
+
+ c) la nomina e la revoca del direttore generale e del vice direttore generale dell'Agenzia per la cybersicurezza nazionale di cui all'articolo 5, previa deliberazione del Consiglio dei ministri. 
+ 
+
+ 2. Ai fini dell'esercizio delle competenze di cui al comma 1, lettera a), e dell'attuazione della strategia nazionale di cybersicurezza, il Presidente del Consiglio dei ministri, sentito il CIC, impartisce le direttive per la cybersicurezza ed emana ogni disposizione necessaria per l'organizzazione e il funzionamento dell'Agenzia per la cybersicurezza nazionale. 
+ 
+
+ 3. Il Presidente del Consiglio dei ministri informa preventivamente il Comitato parlamentare per la sicurezza della Repubblica (COPASIR), di cui all' articolo 30 della legge 3 agosto 2007, n. 124, e le Commissioni parlamentari competenti circa le nomine di cui al comma 1, lettera c), del presente articolo.&raquo;. 
+ 
+
+ &laquo;2. L'Agenzia ha personalità giuridica di diritto pubblico ed è dotata di autonomia regolamentare, amministrativa, patrimoniale, organizzativa, contabile e finanziaria, nei limiti di quanto previsto dal presente decreto. Il Presidente del Consiglio dei ministri e l'Autorità delegata, ove istituita, si avvalgono dell'Agenzia per l'esercizio delle competenze di cui al presente decreto.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 12, comma 1, del citato decreto legge 14 giugno 2021, n. 82: 
+ 
+
+ &laquo;Art. 12. (Personale). - 1. Con apposito regolamento è dettata, nel rispetto dei principi generali dell'ordinamento giuridico, anche in deroga alle vigenti disposizioni di legge, ivi incluso il decreto legislativo 30 marzo 2001, n. 165, e nel rispetto dei criteri di cui al presente decreto, la disciplina del contingente di personale addetto all'Agenzia, tenuto conto delle funzioni volte alla tutela della sicurezza nazionale nello spazio cibernetico attribuite all'Agenzia. Il regolamento definisce l'ordinamento e il reclutamento del personale, e il relativo trattamento economico e previdenziale, prevedendo, in particolare, per il personale dell'Agenzia di cui al comma 2, lettera a), un trattamento economico pari a quello in godimento da parte dei dipendenti della Banca d'Italia, sulla scorta della equiparabilità delle funzioni svolte e del livello di responsabilità rivestito.
+ 
+
+ La predetta equiparazione, con riferimento sia al trattamento economico in servizio che al trattamento previdenziale, produce effetti avendo riguardo alle anzianità di servizio maturate a seguito dell'inquadramento nei ruoli dell'Agenzia. 
+ 
+
+ 2. Il regolamento determina, nell'ambito delle risorse finanziarie destinate all'Agenzia ai sensi dell'articolo 18, comma 1, in particolare: 
+ 
+
+ a) l'istituzione di un ruolo del personale e la disciplina generale del rapporto d'impiego alle dipendenze dell'Agenzia; 
+ 
+
+ b) la possibilità di procedere, oltre che ad assunzioni a tempo indeterminato attraverso modalità concorsuali, ad assunzioni a tempo determinato, con contratti di diritto privato, di soggetti in possesso di alta e particolare specializzazione debitamente documentata, individuati attraverso adeguate modalità selettive, per lo svolgimento di attività assolutamente necessarie all'operatività dell'Agenzia o per specifiche progettualità da portare a termine in un arco di tempo prefissato; 
+ 
+
+ c) la possibilità di avvalersi di un contingente di esperti, non superiore a cinquanta unità, composto da personale, collocato fuori ruolo o in posizione di comando o altra analoga posizione prevista dagli ordinamenti di appartenenza, proveniente da pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, con esclusione del personale docente, educativo, amministrativo, tecnico e ausiliario delle istituzioni scolastiche, ovvero da personale non appartenente alla pubblica amministrazione, in possesso di specifica ed elevata competenza in materia di cybersicurezza e di tecnologie digitali innovative, nello sviluppo e gestione di processi complessi di trasformazione tecnologica e delle correlate iniziative di comunicazione e disseminazione, nonchè di significativa esperienza in progetti di trasformazione digitale, ivi compreso lo sviluppo di programmi e piattaforme digitali con diffusione su larga scala. Il regolamento, a tali fini, disciplina la composizione del contingente e il compenso spettante per ciascuna professionalità; 
+ 
+
+ d) la determinazione della percentuale massima dei dipendenti che è possibile assumere a tempo determinato; 
+ 
+
+ e) la possibilità di impiegare personale del Ministero della difesa, secondo termini e modalità da definire con apposito decreto del Presidente del Consiglio dei ministri; 
+ 
+
+ f) le ipotesi di incompatibilità; 
+ 
+
+ g) le modalità di progressione di carriera all'interno dell'Agenzia; 
+ 
+
+ h) la disciplina e il procedimento per la definizione degli aspetti giuridici e, limitatamente ad eventuali compensi accessori, economici del rapporto di impiego del personale oggetto di negoziazione con le rappresentanze del personale; 
+ 
+
+ i) le modalità applicative delle disposizioni del decreto legislativo 10 febbraio 2005, n. 30, recante il Codice della proprietà industriale, ai prodotti dell'ingegno ed alle invenzioni dei dipendenti dell'Agenzia; 
+ 
+
+ l) i casi di cessazione dal servizio del personale assunto a tempo indeterminato ed i casi di anticipata risoluzione dei rapporti a tempo determinato; 
+ 
+
+ m) quali delle disposizioni possono essere oggetto di revisione per effetto della negoziazione con le rappresentanze del personale. 
+ 
+
+ 3. Qualora le assunzioni di cui al comma 2, lettera b), riguardino professori universitari di ruolo o ricercatori universitari confermati si applicano le disposizioni di cui all'articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, anche per quanto riguarda il collocamento in aspettativa. 
+ 
+
+ 4. In sede di prima applicazione delle disposizioni di cui al presente decreto, il numero di posti previsti dalla dotazione organica dell'Agenzia è individuato nella misura complessiva di trecento unità, di cui fino a un massimo di otto di livello dirigenziale generale, fino a un massimo di 24 di livello dirigenziale non generale e fino a un massimo di 268 unità di personale non dirigenziale. 
+ 
+
+ 5. Con decreti del Presidente del Consiglio dei ministri di concerto con il Ministro dell'economia e delle finanze, la dotazione organica può essere rideterminata nei limiti delle risorse finanziarie destinate alle spese per il personale di cui all'articolo 18, comma 1. Dei provvedimenti adottati in materia di dotazione organica dell'Agenzia è data tempestiva e motivata comunicazione alle Commissioni parlamentari competenti e al COPASIR. 
+ 
+
+ 6. Le assunzioni effettuate in violazione delle disposizioni del presente decreto o del regolamento di cui al presente articolo sono nulle, ferma restando la responsabilità personale, patrimoniale e disciplinare di chi le ha disposte. 
+ 
+
+ 7. Il personale che presta comunque la propria opera alle dipendenze o in favore dell'Agenzia è tenuto, anche dopo la cessazione di tale attività, al rispetto del segreto su ciò di cui sia venuto a conoscenza nell'esercizio o a causa delle proprie funzioni. 
+ 
+
+ 8. Il regolamento di cui al comma 1 è adottato, entro centoventi giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, anche in deroga all'articolo 17 della legge 23 agosto 1988, n. 400, previo parere delle Commissioni parlamentari competenti per materia e per i profili finanziari e, per i profili di competenza, del COPASIR e sentito il CIC.&raquo; 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131 (Regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133) è pubblicato nella Gazzetta Ufficiale 21 ottobre 2020, n. 261. 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 13 settembre 2021 (Delega di funzioni in materia di cybersicurezza all'Autorità delegata per la sicurezza della Repubblica, prefetto Franco GABRIELLI) è pubblicato nella Gazzetta Ufficiale 6 ottobre 2021, n. 239. 
+ 
+
+ - Si riporta il testo dell'articolo 6, del citato decreto-legge 14 giugno 2021, n. 82: 
+ 
+
+ &laquo;Art. 6. (Organizzazione dell'Agenzia per la cybersicurezza nazionale). - 1. L'organizzazione e il funzionamento dell'Agenzia sono definiti da un apposito regolamento che ne prevede, in particolare, l'articolazione fino ad un numero massimo di otto uffici di livello dirigenziale generale, nonchè fino ad un numero massimo di trenta articolazioni di livello dirigenziale non generale nell'ambito delle risorse finanziarie destinate all'Agenzia ai sensi dell'articolo 18, comma 1. 
+ 
+
+ 2. Sono organi dell'Agenzia il direttore generale e il Collegio dei revisori dei conti. Con il regolamento di cui al comma 1 sono disciplinati altresì: 
+ 
+
+ a) le funzioni del direttore generale e del vice direttore generale dell'Agenzia; 
+ 
+
+ b) la composizione e il funzionamento del Collegio dei revisori dei conti; 
+ 
+
+ c) l'istituzione di eventuali sedi secondarie. 
+ 
+
+ 3. Il regolamento di cui al comma 1 è adottato, entro centoventi giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, anche in deroga all'articolo 17 della legge 23 agosto 1988, n. 400, previo parere delle Commissioni parlamentari competenti per materia e per i profili finanziari e, per i profili di competenza, del COPASIR, sentito il CIC&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 17, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. n. 86: 
+ 
+
+ &laquo;Art. 17. (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
+ 
+
+ a) l'esecuzione delle leggi e dei decreti legislativi, nonchè dei regolamenti comunitari; 
+ 
+
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
+ 
+
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
+ 
+
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge; 
+ 
+
+ e) 
+ 
+
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potestà regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari. 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di &laquo;regolamento&raquo;, sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ 
+
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono: 
+ 
+
+ a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione; 
+ 
+
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilità eliminando le duplicazioni funzionali; 
+ 
+
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati; 
+ 
+
+ d) indicazione e revisione periodica della consistenza delle piante organiche; 
+ 
+
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unità dirigenziali nell'ambito degli uffici dirigenziali generali. 
+ 
+
+ 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per i riferimenti del decreto legge 14 giugno 2021, n. 82 (Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale), si veda nelle note alle premesse. 
+ 
+
+ - Si riporta il testo degli artt. 3 e 4 del citato decreto-legge 14 giugno 2021, n. 82: 
+ 
+
+ &laquo;Art. 3. (Autorità delegata). - 1. Il Presidente del Consiglio dei ministri, ove lo ritenga opportuno, può delegare all'Autorità di cui all'articolo 3 della legge 3 agosto 2007, n. 124, ove istituita, denominata di seguito: "Autorità delegata", le funzioni di cui al presente decreto che non sono ad esso attribuite in via esclusiva. 
+ 
+
+ 2. Il Presidente del Consiglio dei ministri è costantemente informato dall'Autorità delegata sulle modalità di esercizio delle funzioni delegate ai sensi del presente decreto e, fermo restando il potere di direttiva, può in qualsiasi momento avocare l'esercizio di tutte o di alcune di esse. 
+ 
+
+ 3. L'Autorità delegata, in relazione alle funzioni delegate ai sensi del presente decreto, partecipa alle riunioni del Comitato interministeriale per la transizione digitale di cui all'articolo 8 del decreto-legge 1°(gradi) marzo 2021, n. 22, convertito, con modificazioni, dalla legge 22 aprile 2021, n. 55.&raquo;. 
+ 
+
+ &laquo;Art. 4. (Comitato interministeriale per la cybersicurezza). - 1. Presso la Presidenza del Consiglio dei ministri è istituito il Comitato interministeriale per la cybersicurezza (CIC), con funzioni di consulenza, proposta e vigilanza in materia di politiche di cybersicurezza. 
+ 
+
+ 2. Il Comitato: 
+ 
+
+ a) propone al Presidente del Consiglio dei ministri gli indirizzi generali da perseguire nel quadro delle politiche di cybersicurezza nazionale; 
+ 
+
+ b) esercita l'alta sorveglianza sull'attuazione della strategia nazionale di cybersicurezza; 
+ 
+
+ c) promuove l'adozione delle iniziative necessarie per favorire l'efficace collaborazione, a livello nazionale e internazionale, tra i soggetti istituzionali e gli operatori privati interessati alla cybersicurezza, nonchè per la condivisione delle informazioni e per l'adozione di migliori pratiche e di misure rivolte all'obiettivo della cybersicurezza e allo sviluppo industriale, tecnologico e scientifico in materia di cybersicurezza; 
+ 
+
+ d) esprime il parere sul bilancio preventivo e sul bilancio consuntivo dell'Agenzia per la cybersicurezza nazionale. 
+ 
+
+ 3. Il Comitato è presieduto dal Presidente del Consiglio dei ministri ed è composto dall'Autorità delegata, ove istituita, dal Ministro degli affari esteri e della cooperazione internazionale, dal Ministro dell'interno, dal Ministro della giustizia, dal Ministro della difesa, dal Ministro dell'economia e delle finanze, dal Ministro dello sviluppo economico, dal Ministro della transizione ecologica, dal Ministro dell'università e della ricerca, dal Ministro delegato per l'innovazione tecnologica e la transizione digitale e dal Ministro delle infrastrutture e della mobilità sostenibili. 
+ 
+
+ 4. Il direttore generale dell'Agenzia per la cybersicurezza nazionale svolge le funzioni di segretario del Comitato. 
+ 
+
+ 5. Il Presidente del Consiglio dei ministri può chiamare a partecipare alle sedute del Comitato, anche a seguito di loro richiesta, senza diritto di voto, altri componenti del Consiglio dei ministri, nonchè altre autorità civili e militari di cui, di volta in volta, ritenga necessaria la presenza in relazione alle questioni da trattare.&raquo;. 
+ 
+
+ 6. Il Comitato svolge altresì le funzioni già attribuite al Comitato interministeriale per la sicurezza della Repubblica (CISR), di cui all'articolo 5 della legge 3 agosto 2007, n. 124, dal decreto-legge perimetro e dai relativi provvedimenti attuativi, fatta eccezione per quelle previste dall'articolo 5 del medesimo decreto-legge perimetro.". 
+ 
+
+ - Il decreto legislativo 18 maggio 2018, n. 65 (Attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione) è pubblicato nella Gazzetta Ufficiale 9 giugno 2018, n. 132. 
+ 
+
+ - Si riporta il testo dell'articolo 15 del citato decreto legge 14 giugno 2021, n. 82: 
+ 
+
+ &laquo;Art. 15. (Attuazione e controllo). - 1. Nel caso in cui sia dimostrato il mancato rispetto degli obblighi di cui all'articolo 14 da parte dei fornitori di servizi digitali, l'autorità competente NIS può adottare misure di vigilanza ex post adeguate alla natura dei servizi e delle operazioni. La dimostrazione del mancato rispetto degli obblighi può essere prodotta dall'autorità competente di un altro Stato membro in cui è fornito il servizio. 
+ 
+
+ 2. Ai fini del comma 1, i fornitori di servizi digitali sono tenuti a: 
+ 
+
+ a) fornire le informazioni necessarie per valutare la sicurezza della loro rete e dei loro sistemi informativi, compresi i documenti relativi alle politiche di sicurezza; 
+ 
+
+ b) porre rimedio ad ogni mancato adempimento degli obblighi di cui all'articolo 14. 
+ 
+
+ 3. Se un fornitore di servizi digitali ha lo stabilimento principale o un rappresentante in uno Stato membro, ma la sua rete o i suoi sistemi informativi sono ubicati in uno o più altri Stati membri, l'autorità competente dello Stato membro dello stabilimento principale o del rappresentante e le autorità competenti dei suddetti altri Stati membri cooperano e si assistono reciprocamente in funzione delle necessità. Tale assistenza e cooperazione può comprendere scambi di informazioni tra le autorità competenti interessate e richieste di adottare le misure di vigilanza di cui al comma 1.&raquo;. 
+ 
+
+ - Per i riferimenti del decreto-legge 21 settembre 2019, n. 105 si veda nelle note alle premesse. 
+ 
+
+ - Si riporta il testo dell'articolo 6, comma 1, del decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131 (Regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133): 
+ 
+
+ &laquo;Art. 6. (Tavolo interministeriale per l'attuazione del perimetro di sicurezza nazionale cibernetica - Tavolo interministeriale). - 1. è istituito, a supporto del CISR tecnico, il Tavolo interministeriale per l'attuazione del perimetro di sicurezza nazionale cibernetica, di seguito: "Tavolo interministeriale".&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 7, comma 1-bis, del citato decreto-legge 14 giugno 2021, n. 82: 
+ 
+
+ &laquo;Art. 7. (Funzioni dell'Agenzia per la cybersicurezza nazionale). - 1-bis. Anche ai fini dell'esercizio delle funzioni di cui al comma 1, lettere r), s), t), u), v), z) e aa), presso l'Agenzia è istituito, con funzioni di consulenza e di proposta, un Comitato tecnico-scientifico, presieduto dal direttore generale della medesima Agenzia, o da un dirigente da lui delegato, e composto da personale della stessa Agenzia e da qualificati rappresentanti dell'industria, degli enti di ricerca, dell'accademia e delle associazioni del settore della sicurezza, designati con decreto del Presidente del Consiglio dei ministri. La composizione e l'organizzazione del Comitato tecnico-scientifico sono disciplinate secondo le modalità e i criteri definiti dal regolamento di cui all'articolo 6, comma 1. Per la partecipazione al Comitato tecnico-scientifico non sono previsti gettoni di presenza, compensi o rimborsi di spese.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 9, comma, 1 del citato decreto legislativo 18 maggio 2018, n. 65: 
+ 
+
+ &laquo;Art. 9. (Cooperazione a livello nazionale). - 1. Le autorità di settore collaborano con l'autorità nazionale competente NIS per l'adempimento degli obblighi di cui al presente decreto. A tal fine è istituito presso l'Agenzia per la cybersicurezza nazionale un Comitato tecnico di raccordo. Il Comitato è presieduto dall'autorità nazionale competente NIS ed è composto dai rappresentanti delle amministrazioni statali individuate quali autorità di settore e da rappresentanti delle regioni e province autonome in numero non superiore a due, designati dalle regioni e province autonome in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano. L'organizzazione del Comitato è definita con decreto del Presidente del Consiglio dei ministri, sentita la Conferenza unificata.
+ 
+
+ Per la partecipazione al Comitato tecnico di raccordo non sono previsti gettoni di presenza, compensi o rimborsi di spese.&raquo;. 
+ 
+
+ - Il testo dell'articolo 8 del citato decreto legislativo n. 65 del 2018 è il seguente: 
+ 
+
+ &laquo;Art. 8. (Gruppi di intervento per la sicurezza informatica in caso di incidente - CSIRT). - 1. è istituito, presso l'Agenzia per la cybersicurezza nazionale, il CSIRT Italia, che svolge i compiti e le funzioni del Computer Emergency Response Team (CERT) nazionale, di cui all'articolo 16-bis del decreto legislativo 1° agosto 2003, n. 259, e del CERT-PA, già operante presso l'Agenzia per l'Italia digitale ai sensi dell'articolo 51 del decreto legislativo 7 marzo 2005, n. 82. 
+ 
+
+ 2. L'organizzazione e il funzionamento del CSIRT Italia sono disciplinati con decreto del Presidente del Consiglio dei ministri ai sensi dell'articolo 7 del decreto legislativo 30 luglio 1999, n. 303, da adottare entro il 9 novembre 2018. 
+ 
+
+ 3. Nelle more dell'adozione del decreto di cui al comma 2, le funzioni di CSIRT Italia sono svolte dal CERT nazionale unitamente al CERT-PA in collaborazione tra loro. 
+ 
+
+ 4. Il CSIRT Italia assicura la conformità ai requisiti di cui all'allegato I, punto 1, svolge i compiti di cui all'allegato I, punto 2, si occupa dei settori di cui all'allegato II e dei servizi di cui all'allegato III e dispone di un'infrastruttura di informazione e comunicazione appropriata, sicura e resiliente a livello nazionale. 
+ 
+
+ 5. Il CSIRT Italia definisce le procedure per la prevenzione e la gestione degli incidenti informatici. 
+ 
+
+ 6. Il CSIRT Italia garantisce la collaborazione effettiva, efficiente e sicura, nella rete di CSIRT di cui all'articolo 11. 
+ 
+
+ 7. La Presidenza del Consiglio dei ministri comunica alla Commissione europea il mandato del CSIRT Italia e le modalità di trattamento degli incidenti a questo affidati. 
+ 
+
+ 8. Il CSIRT Italia, per lo svolgimento delle proprie funzioni, può avvalersi anche dell'Agenzia per l'Italia digitale. 
+ 
+
+ 9. Le funzioni svolte dal Ministero dello sviluppo economico in qualità di CERT nazionale ai sensi dell'articolo 16-bis, del decreto legislativo 1° agosto 2003, n. 259, nonchè quelle svolte da Agenzia per l'Italia digitale in qualità di CERT-PA, ai sensi dell'articolo 51 del decreto legislativo 7 marzo 2005, n. 82, sono trasferite al CSIRT Italia a far data dalla entrata in vigore del decreto di cui al comma 2. 
+ 
+
+ 10. Per le spese relative al funzionamento del CSIRT Italia è autorizzata la spesa di 2.000.000 di euro annui a decorrere dall'anno 2020. A tali oneri si provvede ai sensi dell'articolo 22.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 1, comma 6, lettera a) del citato decreto legge 21 settembre 2019, n. 105: 
+ 
+
+ &laquo;6. Con regolamento, adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, sono disciplinati le procedure, le modalità e i termini con cui: 
+ 
+
+ a) i soggetti di cui al comma 2-bis, che intendano procedere, anche per il tramite delle centrali di committenza alle quali essi sono tenuti a fare ricorso ai sensi dell'articolo 1, comma 512, della legge 28 dicembre 2015, n. 208, all'affidamento di forniture di beni, sistemi e servizi ICT destinati a essere impiegati sulle reti, sui sistemi informativi e per l'espletamento dei servizi informatici di cui al comma 2, lettera b), appartenenti a categorie individuate, sulla base di criteri di natura tecnica, con decreto del Presidente del Consiglio dei ministri, da adottare entro dieci mesi dalla data di entrata in vigore della legge di conversione del presente decreto, ne danno comunicazione al Centro di valutazione e certificazione nazionale (CVCN), istituito presso il Ministero dello sviluppo economico; la comunicazione comprende anche la valutazione del rischio associato all'oggetto della fornitura, anche in relazione all'ambito di impiego. L'obbligo di comunicazione di cui alla presente lettera è efficace a decorrere dal trentesimo giorno successivo alla pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto del Presidente del Consiglio dei ministri che, sentita l'Agenzia per la cybersicurezza nazionale, attesta l'operatività del CVCN e comunque dal 30 giugno 2022. Entro quarantacinque giorni dalla ricezione della comunicazione, prorogabili di quindici giorni, una sola volta, in caso di particolare complessità, il CVCN può effettuare verifiche preliminari ed imporre condizioni e test di hardware e software da compiere anche in collaborazione con i soggetti di cui al comma 2-bis, secondo un approccio gradualmente crescente nelle verifiche di sicurezza. Decorso il termine di cui al precedente periodo senza che il CVCN si sia pronunciato, i soggetti che hanno effettuato la comunicazione possono proseguire nella procedura di affidamento. In caso di imposizione di condizioni e test di hardware e software, i relativi bandi di gara e contratti sono integrati con clausole che condizionano, sospensivamente ovvero risolutivamente, il contratto al rispetto delle condizioni e all'esito favorevole dei test disposti dal CVCN. I test devono essere conclusi nel termine di sessanta giorni.
+ 
+
+ Decorso il termine di cui al precedente periodo, i soggetti che hanno effettuato la comunicazione possono proseguire nella procedura di affidamento. In relazione alla specificità delle forniture di beni, sistemi e servizi ICT da impiegare su reti, sistemi informativi e servizi informatici del Ministero dell'interno e del Ministero della difesa, individuati ai sensi del comma 2, lettera b), i predetti Ministeri, nell'ambito delle risorse umane e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica, in coerenza con quanto previsto dal presente decreto, possono procedere, con le medesime modalità e i medesimi termini previsti dai periodi precedenti, attraverso la comunicazione ai propri Centri di valutazione accreditati per le attività di cui al presente decreto, ai sensi del comma 7, lettera b), che impiegano le metodologie di verifica e di test definite dal CVCN. Per tali casi i predetti Centri informano il CVCN con le modalità stabilite con il decreto del Presidente del Consiglio dei ministri, di cui al comma 7, lettera b). Non sono oggetto di comunicazione gli affidamenti delle forniture di beni, sistemi e servizi ICT destinate alle reti, ai sistemi informativi e ai servizi informatici per lo svolgimento delle attività di prevenzione, accertamento e repressione dei reati e i casi di deroga stabiliti dal medesimo regolamento con riguardo alle forniture di beni, sistemi e servizi ICT per le quali sia indispensabile procedere in sede estera, fermo restando, in entrambi i casi, l'utilizzo di beni, sistemi e servizi ICT conformi ai livelli di sicurezza di cui al comma 3, lettera b), salvo motivate esigenze connesse agli specifici impieghi cui essi sono destinati;&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 6 del regolamento (UE) n. 2021/887 del Parlamento europeo e del Consiglio, del 20 maggio 2021, che istituisce il Centro europeo di competenza per la cibersicurezza nell'ambito industriale, tecnologico e della ricerca e la rete dei centri nazionali di coordinamento, è stata pubblicata nella GUUE 202 dell'8 giugno 2021.
