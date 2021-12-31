@@ -96,7 +96,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Al fine di garantire la continuità e la funzionalità delle attività di riscossione, è istituito, a far data dal 1&ordm; luglio 2017, un ente pubblico economico, denominato &laquo;Agenzia delle entrate-Riscossione&raquo;, ente strumentale dell'Agenzia delle entrate sottoposto all'indirizzo e alla vigilanza del Ministro dell'economia e delle finanze. L'Agenzia delle entrate provvede a monitorare costantemente l'attività dell'Agenzia delle entrate-Riscossione, secondo principi di trasparenza e pubblicità. L'ente subentra, a titolo universale, nei rapporti giuridici attivi e passivi, anche processuali, delle società del Gruppo Equitalia di cui al comma 1 e assume la qualifica di agente della riscossione con i poteri e secondo le disposizioni di cui al titolo I, capo II, e al titolo II, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. L'ente può anche svolgere le attività di riscossione delle entrate tributarie o patrimoniali delle amministrazioni locali, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196, con esclusione delle società di riscossione, e, fermo restando quanto previsto dall'articolo 17, commi 3-bis e 3-ter, del decreto legislativo 26 febbraio 1999, n. 46, delle società da esse partecipate. L'ente ha autonomia organizzativa, patrimoniale, contabile e di gestione. Sono organi dell'ente il presidente, il comitato di gestione e il collegio dei revisori dei conti, il cui presidente è scelto tra i magistrati della Corte dei conti. 
+ 3. Al fine di garantire la continuità e la funzionalità delle attività di riscossione, è istituito, a far data dal 1&ordm; luglio 2017, un ente pubblico economico, denominato &laquo;Agenzia delle entrate-Riscossione&raquo;, ente strumentale dell'Agenzia delle entrate sottoposto all'
+ ((indirizzo operativo e al controllo della stessa Agenzia delle entrate, che ne monitora costantemente l'attività))
+
+ , secondo principi di trasparenza e pubblicità. L'ente subentra, a titolo universale, nei rapporti giuridici attivi e passivi, anche processuali, delle società del Gruppo Equitalia di cui al comma 1 e assume la qualifica di agente della riscossione con i poteri e secondo le disposizioni di cui al titolo I, capo II, e al titolo II, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. L'ente può anche svolgere le attività di riscossione delle entrate tributarie o patrimoniali delle amministrazioni locali, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196, con esclusione delle società di riscossione, e, fermo restando quanto previsto dall'articolo 17, commi 3-bis e 3-ter, del decreto legislativo 26 febbraio 1999, n. 46, delle società da esse partecipate. L'ente ha autonomia organizzativa, patrimoniale, contabile e di gestione. 
+ ((Sono organi dell'ente il direttore))
+
+ , il comitato di gestione e il collegio dei revisori dei conti, il cui presidente è scelto tra i magistrati della Corte dei conti. 
  
 
  
@@ -104,7 +110,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Il comitato di gestione è composto dal direttore dell'Agenzia delle entrate, che è il presidente dell'ente, e da due componenti nominati dall'Agenzia medesima tra i propri dirigenti. Ai componenti del comitato di gestione non spetta alcun compenso, indennità o rimborso spese. 
+ 
+ ((4. Il direttore dell'ente è il direttore dell'Agenzia delle entrate. Il comitato di gestione è composto dal direttore, che lo presiede, e da due componenti nominati dall'Agenzia delle entrate tra i propri dirigenti. Ai componenti del comitato di gestione non spetta alcun compenso, indennità o rimborso spese))
+ 
+
+ 
+
+ 
+ 5. 
+ ((Lo statuto, approvato con decreto del Ministro dell'economia e delle finanze secondo le previsioni di cui al comma 5-bis, disciplina le funzioni e le competenze degli organi, indica le entrate dell'ente necessarie a garantirne l'equilibrio economico-finanziario, stabilendo i criteri concernenti la determinazione e le modalità di erogazione delle risorse stanziate in favore dello stesso, nonchè i criteri per la definizione degli altri corrispettivi per i servizi prestati a soggetti pubblici o privati, incluse le amministrazioni statali))
+
+ . Lo statuto disciplina i casi e le procedure, anche telematiche, di consultazione pubblica sugli atti di rilevanza generale, altresì promuovendo la partecipazione dei soggetti interessati. Il comitato di gestione, su proposta del 
+ ((direttore))
+
+ , delibera le modifiche allo statuto e gli atti di carattere generale che disciplinano l'organizzazione e il funzionamento dell'ente, i bilanci preventivi e consuntivi, i piani aziendali e le spese che impegnano il bilancio dell'ente per importi superiori al limite fissato dallo statuto. Il comitato di gestione delibera altresì il piano triennale per la razionalizzazione delle attività di riscossione e gli interventi di incremento dell'efficienza organizzativa ed economica finalizzati alla riduzione delle spese di gestione e di personale. Nel rapporto con i contribuenti l'ente si conforma ai principi dello statuto dei diritti del contribuente, di cui alla legge 27 luglio 2000, n. 212, con particolare riferimento ai principi di trasparenza, leale collaborazione e tutela dell'affidamento e della buona fede, nonchè agli obiettivi individuati dall'articolo 6 della legge 11 marzo 2014, n. 23, in materia di cooperazione rafforzata, riduzione degli adempimenti, assistenza e tutoraggio del contribuente. L'ente opera nel rispetto dei principi di legalità e imparzialità, con criteri di efficienza gestionale, economicità dell'attività ed efficacia dell'azione, nel perseguimento degli obiettivi stabiliti 
+ ((nella convenzione))
+
+ di cui al comma 13 e garantendo la massima trasparenza degli obiettivi stessi, dell'attività svolta e dei risultati conseguiti. 
+ ((PERIODO SOPPRESSO DALLA L. 30 DICEMBRE 2021, N. 234))
+
+ . 
  
 
  
@@ -112,22 +137,32 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Lo statuto è approvato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze.
+ 
+ ((5-bis. Le deliberazioni del comitato di gestione relative allo statuto sono trasmesse al Ministero dell'economia e delle finanze per l'approvazione, secondo le forme e le modalità previste dall'articolo 60 del decreto legislativo 30 luglio 1999, n. 300))
  
 
- Lo statuto disciplina le funzioni e le competenze degli organi, indica le entrate dell'ente, stabilendo i criteri concernenti la determinazione dei corrispettivi per i servizi prestati a soggetti pubblici o privati, incluse le amministrazioni statali, al fine di garantire l'equilibrio economico-finanziario dell'attività, anche nella prospettiva di un nuovo modello di remunerazione dell'agente della riscossione. Lo statuto disciplina i casi e le procedure, anche telematiche, di consultazione pubblica sugli atti di rilevanza generale, altresì promuovendo la partecipazione dei soggetti interessati. Il comitato di gestione, su proposta del presidente, delibera le modifiche allo statuto e gli atti di carattere generale che disciplinano l'organizzazione e il funzionamento dell'ente, i bilanci preventivi e consuntivi, i piani aziendali e le spese che impegnano il bilancio dell'ente per importi superiori al limite fissato dallo statuto. Il comitato di gestione delibera altresì il piano triennale per la razionalizzazione delle attività di riscossione e gli interventi di incremento dell'efficienza organizzativa ed economica finalizzati alla riduzione delle spese di gestione e di personale. Nel rapporto con i contribuenti l'ente si conforma ai principi dello statuto dei diritti del contribuente, di cui alla legge 27 luglio 2000, n. 212, con particolare riferimento ai principi di trasparenza, leale collaborazione e tutela dell'affidamento e della buona fede, nonchè agli obiettivi individuati dall'articolo 6 della legge 11 marzo 2014, n. 23, in materia di cooperazione rafforzata, riduzione degli adempimenti, assistenza e tutoraggio del contribuente. L'ente opera nel rispetto dei principi di legalità e imparzialità, con criteri di efficienza gestionale, economicità dell'attività ed efficacia dell'azione, nel perseguimento degli obiettivi stabiliti nell'atto aggiuntivo di cui al comma 13 e garantendo la massima trasparenza degli obiettivi stessi, dell'attività svolta e dei risultati conseguiti. Agli atti a carattere generale indicati nell'atto aggiuntivo di cui al comma 13, e al piano triennale per la razionalizzazione delle attività di riscossione si applica l'articolo 60 del decreto legislativo n. 300 del 1999. 
- 
-
- 
- 
- 
-
- 
- 5-bis. I bilanci preventivi e consuntivi dell'ente sono redatti secondo le previsioni del decreto legislativo 18 agosto 2015, n. 139, e sono trasmessi per l'approvazione al Ministero dell'economia e delle finanze; si applicano le disposizioni dell'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 9 novembre 1998, n. 439. 
  
 
  
  
+ ((
+ 
+
+ 
+ 5-ter. Le deliberazioni del comitato di gestione relative alle modifiche dei regolamenti e degli atti di carattere generale che regolano il funzionamento dell'Agenzia delle entrate-Riscossione, nonchè ai bilanci e ai piani pluriennali di investimento sono trasmesse per l'approvazione all'Agenzia delle entrate.
+ 
+
+ L'approvazione può essere negata per ragioni di legittimità o di merito. Le deliberazioni si intendono approvate se nei quarantacinque giorni dalla ricezione delle stesse non è emanato alcun provvedimento ovvero non sono chiesti chiarimenti o documentazione integrativa; in tale ultima ipotesi il termine per l'approvazione è interrotto fino a quando non pervengono gli elementi richiesti; per l'approvazione dei bilanci e dei piani pluriennali di investimento si applicano i termini previsti dal regolamento di cui al decreto del Presidente della Repubblica 9 novembre 1998, n. 439. Fermi restando i controlli sui risultati, gli altri atti di gestione dell'Agenzia delle entrate-Riscossione non sono sottoposti all'approvazione preventiva dell'Agenzia delle entrate. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5-quater. Al fine di incrementare l'efficacia, l'efficienza e l'economicità nello svolgimento sinergico delle rispettive funzioni istituzionali, l'Agenzia delle entrate e l'Agenzia delle entrate-Riscossione possono stipulare, senza nuovi o maggiori oneri, apposite convenzioni o protocolli di intesa che prevedono anche forme di assegnazione temporanea, comunque denominate, di personale da un'agenzia all'altra))
+ 
+
  
 
  
@@ -155,9 +190,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. L'ente è autorizzato ad avvalersi del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, di cui al regio decreto 30 ottobre 1933, n. 1611, fatte salve le ipotesi di conflitto e comunque su base convenzionale. Lo stesso ente può altresì avvalersi, sulla base di specifici criteri definiti negli atti di carattere generale deliberati ai sensi del comma 5 del presente articolo, di avvocati del libero foro, nel rispetto delle previsioni di cui agli articoli 4 e 17 del decreto legislativo 18 aprile 2016, n. 50, ovvero può avvalersi ed essere rappresentato, davanti al tribunale e al giudice di pace, da propri dipendenti delegati, che possono stare in giudizio personalmente; in ogni caso, ove vengano in rilievo questioni di massima o aventi notevoli riflessi economici, l'Avvocatura dello Stato, sentito l'ente, può assumere direttamente la trattazione della causa. Per il patrocinio davanti alle commissioni tributarie continua ad applicarsi l'articolo 11, comma 2, del decreto legislativo 31 dicembre 1992, n. 546. Per la tutela dell'integrità dei bilanci pubblici e delle entrate degli enti territoriali, nonchè nel rispetto delle disposizioni contenute nel decreto legislativo 18 aprile 2016, n. 50, le funzioni e le attività di supporto propedeutiche all'accertamento e alla riscossione delle entrate degli enti locali e delle società da essi partecipate sono affidate a soggetti iscritti all'albo previsto dall'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446. 
- ((11))
+ 8. L'ente è autorizzato ad avvalersi del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, di cui al regio decreto 30 ottobre 1933, n. 1611, fatte salve le ipotesi di conflitto e comunque su base convenzionale. Lo stesso ente può altresì avvalersi, sulla base di specifici criteri definiti negli atti di carattere generale deliberati ai sensi del comma 5 del presente articolo, di avvocati del libero foro, nel rispetto delle previsioni di cui agli articoli 4 e 17 del decreto legislativo 18 aprile 2016, n. 50, ovvero può avvalersi ed essere rappresentato, davanti al tribunale e al giudice di pace, da propri dipendenti delegati, che possono stare in giudizio personalmente; in ogni caso, ove vengano in rilievo questioni di massima o aventi notevoli riflessi economici, l'Avvocatura dello Stato, sentito l'ente, può assumere direttamente la trattazione della causa. Per il patrocinio davanti alle commissioni tributarie continua ad applicarsi l'articolo 11, comma 2, del decreto legislativo 31 dicembre 1992, n. 546. Per la tutela dell'integrità dei bilanci pubblici e delle entrate degli enti territoriali, nonchè nel rispetto delle disposizioni contenute nel decreto legislativo 18 aprile 2016, n. 50, le funzioni e le attività di supporto propedeutiche all'accertamento e alla riscossione delle entrate degli enti locali e delle società da essi partecipate sono affidate a soggetti iscritti all'albo previsto dall'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446. (11) 
+ 
 
+ 
  
  
 
@@ -257,10 +293,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 13. Il Ministro dell'economia e delle finanze e il direttore dell'Agenzia delle entrate, presidente dell'ente, stipulano annualmente un atto aggiuntivo alla convenzione di cui all'articolo 59 del decreto legislativo 30 luglio 1999, n. 300, per individuare: 
- 
+ 13. 
+ ((La convenzione di cui all'articolo 59 del decreto legislativo 30 luglio 1999, n. 300, stipulata tra il Ministro dell'economia e delle finanze e il direttore dell'Agenzia delle entrate, individua, per l'attività svolta dall'Agenzia delle entrate-Riscossione:))
 
- 
  
 
  
@@ -271,14 +306,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) le risorse disponibili; 
+ 
+ ((b) le risorse necessarie a far fronte agli oneri di funzionamento del servizio nazionale della riscossione, stanziate sul bilancio dello Stato per il trasferimento in favore dell'Agenzia delle entrate-Riscossione, per: 
+ 
+
+ 1) gli oneri di gestione calcolati, per le attività svolte dalla stessa, sulla base di un'efficiente conduzione aziendale e dei vincoli di servizio imposti per esigenze di carattere generale; 
+ 
+
+ 2) le spese di investimento necessarie per realizzare i miglioramenti programmati))
  
 
  
- 
 
  
- c) le strategie per la riscossione dei crediti tributari, con particolare riferimento alla definizione delle priorità, mediante un approccio orientato al risultato piuttosto che al processo; 
+ c) le strategie per la riscossione dei crediti 
+ ((affidati dagli enti impositori))
+
+ , con particolare riferimento alla definizione delle priorità, mediante un approccio orientato al risultato piuttosto che al processo; 
  
 
  
@@ -299,7 +343,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- f) le modalità di vigilanza sull'operato dell'ente da parte del Ministero dell'economia e delle finanze, anche in relazione alla garanzia della trasparenza, dell'imparzialità e della correttezza nell'applicazione delle norme, con particolare riguardo ai rapporti con i contribuenti; 
+ f) le modalità di 
+ ((indirizzo operativo e controllo sull'operato dell'ente da parte dell'Agenzia delle entrate))
+
+ , anche in relazione alla garanzia della trasparenza, dell'imparzialità e della correttezza nell'applicazione delle norme, con particolare riguardo ai rapporti con i contribuenti; 
  
 
  
@@ -324,7 +371,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 13-bis. Lo schema dell'atto aggiuntivo di cui al comma 13 è trasmesso alle Camere ai fini dell'espressione dei pareri da parte delle Commissioni parlamentari competenti per materia e per i profili finanziari, che sono resi entro trenta giorni dalla data di trasmissione. Le Commissioni possono chiedere al Presidente della rispettiva Camera di prorogare di venti giorni il termine per l'espressione del parere, qualora ciò si renda necessario per la complessità della materia. Decorso il termine previsto per l'espressione del parere o quello eventualmente prorogato, l'atto aggiuntivo può essere comunque stipulato. 
+ 13-bis. 
+ ((COMMA ABROGATO DALLA L. 30 DICEMBRE 2021, N. 234))
+
+ . 
  
 
  
@@ -332,7 +382,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 14. Costituisce risultato particolarmente negativo della gestione, ai sensi dell'articolo 69, comma 1, del decreto legislativo n. 300 del 1999, il mancato raggiungimento, da parte dell'ente di cui al comma 3, degli obiettivi stabiliti nell'atto aggiuntivo di cui al comma 13, non attribuibile a fattori eccezionali o comunque non tempestivamente segnalati al Ministero dell'economia e delle finanze, per consentire l'adozione dei necessari correttivi. 
+ 14. Costituisce risultato particolarmente negativo della gestione, ai sensi dell'articolo 69, comma 1, del decreto legislativo n. 300 del 1999, il mancato raggiungimento, da parte dell'ente di cui al comma 3, degli obiettivi stabiliti 
+ ((nella convenzione))
+
+ di cui al comma 13, non attribuibile a fattori eccezionali o comunque non tempestivamente segnalati 
+ ((all'Agenzia delle entrate e, a cura di quest'ultima,))
+
+ al Ministero dell'economia e delle finanze, per consentire l'adozione dei necessari correttivi. 
  
 
  
@@ -340,7 +396,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 14-bis. Il soggetto preposto alla riscossione nazionale redige una relazione annuale sui risultati conseguiti in materia di riscossione, esponendo distintamente i dati concernenti i carichi di ruolo ad esso affidati, l'ammontare delle somme riscosse e i crediti ancora da riscuotere, nonchè le quote di credito divenute inesigibili. La relazione contiene anche una nota illustrativa concernente le procedure di riscossione che hanno condotto ai risultati conseguiti, evidenziando in particolare le ragioni della mancata riscossione dei carichi di ruolo affidati. La relazione, anche ai fini della predisposizione del rapporto di cui all'articolo 10-bis.1 della legge 31 dicembre 2009, n. 196, è trasmessa all'Agenzia delle entrate e al Ministero dell'economia e delle finanze, ai fini dell'individuazione, nell'ambito dell'atto aggiuntivo di cui al comma 13 del presente articolo, delle metodologie e procedure di riscossione più proficue in termini di economicità della gestione e di recupero dei carichi di ruolo non riscossi. 
+ 14-bis. Il soggetto preposto alla riscossione nazionale redige una relazione annuale sui risultati conseguiti 
+ ((, evidenziando i dati relativi ai carichi di ruolo ad esso affidati, l'ammontare delle somme riscosse e i crediti ancora da riscuotere, le quote di credito divenute inesigibili, le procedure di riscossione che hanno condotto ai risultati conseguiti. La relazione è trasmessa all'Agenzia delle entrate per la predisposizione del rapporto di cui all'articolo 10-bis.1 della legge 31 dicembre 2009, n. 196))
+
+ . 
  
 
  
