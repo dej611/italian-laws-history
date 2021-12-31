@@ -128,14 +128,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  d-ter) "UE": l'Unione europea; (73) 
  
 
- 
- 
- ((d-ter.1) "Meccanismo di Vigilanza Unico (MVU)": il sistema di vigilanza finanziaria composto dalla Banca Centrale Europea e dalle autorità nazionali competenti degli Stati membri che vi partecipano; 
+ d-ter.1) "Meccanismo di Vigilanza Unico (MVU)": il sistema di vigilanza finanziaria composto dalla Banca Centrale Europea e dalle autorità nazionali competenti degli Stati membri che vi partecipano; 
  
 
- d-ter.2) "Meccanismo di Risoluzione Unico (MRU)": il sistema di risoluzione istituito ai sensi del Regolamento (UE) 806/2014, composto dal Comitato di Risoluzione Unico e dalle autorità nazionali di risoluzione degli Stati membri che vi partecipano;))
+ d-ter.2) "Meccanismo di Risoluzione Unico (MRU)": il sistema di risoluzione istituito ai sensi del Regolamento (UE) 806/2014, composto dal Comitato di Risoluzione Unico e dalle autorità nazionali di risoluzione degli Stati membri che vi partecipano; 
  
 
+ 
  
 
  
@@ -167,19 +166,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  e-bis) "Sim di classe 1": la Sim che soddisfa i requisiti previsti dall'articolo 4, paragrafo 1, punto 1), lettera b), del regolamento (UE) n. 575/2013; 
  
 
  
  
 
- e-ter) "Sim di classe 1-minus": la Sim che soddisfa i requisiti previsti dall'articolo 1, paragrafo 2, lettere a) o b), del regolamento (UE) 2019/2033, o la Sim destinataria di una decisione dell'autorità competente ai sensi dell'articolo 7-undecies, commi 3 o 4;
+ 
+ e-ter) "Sim di classe 1-minus": la Sim che soddisfa i requisiti previsti dall'articolo 1, paragrafo 2, lettere a) o b), del regolamento (UE) 2019/2033, o la Sim destinataria di una decisione dell'autorità competente ai sensi dell'articolo 7-undecies, commi 3 o 4; 
+ 
 
- ))
-
+ 
  
 
  
@@ -445,7 +442,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, comma 1, lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
+ v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, 
+ ((comma 3))
+
+ , lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
  
 
  
