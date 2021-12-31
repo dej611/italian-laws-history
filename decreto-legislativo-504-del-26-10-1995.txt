@@ -41,10 +41,13 @@ Art. 1
  
 
  
- b) Amministrazione finanziaria: gli organi, centrali o periferici, dell'Agenzia delle dogane preposti alla gestione dell'accisa sui prodotti energetici, sull'energia elettrica, sugli alcoli e sulle bevande alcoliche e alla gestione delle altre imposte indirette di cui al Titolo III, esclusa quella di cui agli articoli 62-bis e 62-ter, o gli organi, centrali o periferici, dell'Amministrazione autonoma dei monopoli di Stato preposti alla gestione dell'accisa sui tabacchi lavorati e dell'imposta di fabbricazione sui fiammiferi; 
+ ((b) Amministrazione finanziaria: gli organi, centrali o periferici, dell'Agenzia delle dogane e dei monopoli preposti alla gestione dell'accisa sui prodotti energetici, sull'energia elettrica, sui tabacchi lavorati, sugli alcoli e sulle bevande alcoliche, e alla gestione delle altre imposte indirette di cui al Titolo III.))
+
  
 
  
+ ((87))
+
  
 
  
@@ -76,10 +79,22 @@ Art. 1
  
 
  
- g) regime sospensivo: il regime fiscale applicabile alla fabbricazione, alla trasformazione, alla detenzione ed alla circolazione dei prodotti soggetti ad accisa, non vincolati ad una procedura doganale sospensiva o ad un regime doganale sospensivo, fino al momento dell'esigibilità dell'accisa o del verificarsi di una causa estintiva del debito d'imposta; 
+ ((f-bis) prodotti non unionali: le merci definite all'articolo 5, punto 24) del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio del 9 ottobre 2013, che istituisce il Codice doganale dell'Unione, d'ora in avanti indicato come CDU;))
+
  
 
  
+ ((87))
+
+ 
+
+ 
+ g) regime sospensivo: il regime fiscale applicabile alla fabbricazione, alla trasformazione, alla detenzione ed alla circolazione dei prodotti soggetti ad accisa 
+ ((...))
+
+ fino al momento dell'esigibilità dell'accisa o del verificarsi di una causa estintiva del debito d'imposta; 
+ ((87))
+
  
 
  
@@ -90,51 +105,113 @@ Art. 1
  
 
  
- i) importazione di prodotti sottoposti ad accisa: l'entrata nel territorio della Comunità di prodotti sottoposti ad accisa in regime sospensivo non vincolati ad una procedura doganale sospensiva o ad un regime doganale sospensivo, nonchè lo svincolo di tali prodotti da una procedura doganale sospensiva o un regime doganale sospensivo; 
- 
-
- 
- 
-
- 
- l) destinatario registrato: la persona fisica o giuridica, diversa dal titolare di deposito fiscale, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa in regime sospensivo, provenienti da un altro Stato membro o dal territorio dello Stato; 
- 
-
- 
- 
-
- 
- m) speditore registrato: la persona fisica o giuridica autorizzata dall'Amministrazione finanziaria unicamente a spedire, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa in regime sospensivo a seguito dell'immissione in libera pratica in conformità dell'articolo 79 del regolamento (CEE) n. 2913/92; 
- 
-
- 
- 
-
- 
- n) sistema informatizzato: il sistema di informatizzazione di cui alla decisione 16 giugno 2003, n. 1152/2003/CE del Parlamento europeo e del Consiglio relativa all'informatizzazione dei movimenti e dei controlli dei prodotti soggetti ad accisa. 
- 
-
- 
- 
+ ((i) importazione di prodotti sottoposti ad accisa: l'immissione di prodotti in libera pratica a norma dell'articolo 201 del CDU;))
 
  
 
  
+ ((87))
 
+ 
+
+ 
+ ((i-bis) ingresso irregolare: l'ingresso nel territorio dell'Unione europea di prodotti che non sono vincolati al regime di immissione in libera pratica ai sensi dell'articolo 201 del CDU e per i quali è sorta un'obbligazione doganale ai sensi dell'articolo 79, paragrafo 1, di tale regolamento o sarebbe sorta se i prodotti fossero stati soggetti a dazi doganali;))
+
+ 
+
+ 
+ ((87))
+
+ 
+
+ 
+ l) destinatario registrato: la persona fisica o giuridica, diversa dal titolare di deposito fiscale, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa in regime sospensivo, 
+ ((provenienti dal territorio di))
+
+ un altro Stato membro o dal territorio dello Stato; 
+ ((87))
+
+ 
+
+ 
+ m) speditore registrato: la persona fisica o giuridica autorizzata dall'Amministrazione finanziaria unicamente a spedire, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa in regime sospensivo a seguito dell'immissione in libera pratica in conformità 
+ ((dell'articolo 201 del CDU,))
+
+ ; 
+ ((87))
+
+ 
+
+ 
+ ((m-bis) speditore certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a spedire, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa già immessi in consumo nel territorio dello Stato al fine del loro trasporto verso il territorio di un altro Stato membro;))
+
+ 
+
+ 
+ ((87))
+
+ 
+
+ 
+ ((m-ter) destinatario certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attività economica, prodotti sottoposti ad accisa immessi in consumo nel territorio di un altro Stato membro e spediti nel territorio dello Stato;))
+
+ 
+
+ 
+ ((87))
+
+ 
+
+ 
+ ((n) sistema informatizzato: il sistema di informatizzazione di cui alla decisione (UE) 2020/263 del Parlamento europeo e del Consiglio del 15 gennaio 2020, relativa all'informatizzazione dei movimenti e dei controlli dei prodotti soggetti ad accisa;))
+
+ 
+
+ 
+ ((87))
+
+ 
+
+ 
+ ((n-bis) e-DAS: il documento amministrativo elettronico semplificato di cui all'articolo 35 della direttiva (UE) 2020/262 del Consiglio del 19 dicembre 2019.))
+
+ 
+
+ 
+ ((87))
+
+ 
+
+ 
+
+ 
+
+ 
+ 
  
  3. Ai fini dell'applicazione del presente testo unico: 
  
 
  
- ((a) si intende per "Stato" o "territorio dello Stato": il territorio della Repubblica italiana, con esclusione del comune di Livigno))
-
- ; 
- ((78))
-
- 
  
 
- b) si intende per Comunità o territorio della Comunità: il territorio corrispondente al campo di applicazione del Trattato istitutivo della Comunità europea con le seguenti esclusioni, oltre a quelle indicate nella lettera a): 
+ 
+ a) si intende per 
+ ((...))
+
+ "territorio dello Stato": il territorio della Repubblica italiana, con esclusione del comune di Livigno; (78) 
+ ((87))
+
+ 
+
+ 
+ b) si intende per 
+ ((territorio dell'Unione europea))
+
+ : il territorio corrispondente al campo di applicazione del Trattato istitutivo della Comunità europea con le seguenti esclusioni, oltre a quelle indicate nella lettera a): 
+ ((87))
+
+ 
  
 
  1) per la Repubblica francese: i territori francesi di cui all'articolo 349 e all'articolo 355, paragrafo 1, del Trattato sul funzionamento dell'Unione europea; 
@@ -152,6 +229,10 @@ Art. 1
  5) le isole Anglo-normanne; 
  
 
+ 
+ 
+
+ 
  c) le operazioni effettuate in provenienza o a destinazione: 
  
 
@@ -175,6 +256,9 @@ Art. 1
 
  
  
+
+ 
+
  
 
  
@@ -187,4 +271,17 @@ Art. 1
  
  
 
- La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 571) che "Le disposizioni di cui ai commi 569 e 570 si applicano a decorrere dal 1° gennaio 2020".
+ La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 571) che "Le disposizioni di cui ai commi 569 e 570 si applicano a decorrere dal 1° gennaio 2020". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (87)
+
+ 
+ 
+
+ Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
