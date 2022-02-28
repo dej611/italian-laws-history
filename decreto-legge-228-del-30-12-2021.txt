@@ -81,6 +81,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((3-bis. All'articolo 20, comma 1, alinea, del decreto legislativo 25 maggio 2017, n. 75, le parole: "31 dicembre 2022" sono sostituite dalle seguenti: "31 dicembre 2023"))
+ 
+
+ 
+
+ 
  4. All'articolo 1, comma 1148, lettera e), della legge 27 dicembre 2017, n. 205, in materia di facoltà assunzionali previste nell'ambito delle amministrazioni dello Stato, ivi compresi i Corpi di polizia ed il Corpo nazionale dei vigili del fuoco, le agenzie e gli enti pubblici, le parole &laquo;31 dicembre 2021&raquo; sono sostituite dalle seguenti: &laquo;31 dicembre 2022&raquo;. 
  
 
@@ -116,7 +123,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. Agli oneri derivanti dal comma 5, lettera b), pari a euro 102.017 a decorrere dall'anno 2022 si provvede a valere sulle facoltà assunzionali dell'Avvocatura dello Stato maturate e disponibili a legislazione vigente. 
+ 6. Agli oneri derivanti dal comma 5, lettera b), pari a euro 102.017 a decorrere dall'anno 2022 
+ ((,))
+
+ si provvede a valere sulle facoltà assunzionali dell'Avvocatura dello Stato maturate e disponibili a legislazione vigente. 
  
 
  
@@ -125,6 +135,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  7. All'articolo 3, comma 3-ter, del decreto-legge 9 gennaio 2020, n. 1, convertito, con modificazioni, dalla legge 5 marzo 2020, n. 12, in materia di facoltà assunzionali del Ministero dell'istruzione e del Ministero dell'università e della ricerca mediante apposite procedure concorsuali pubbliche, le parole &laquo;entro il 31 dicembre 2021&raquo; sono sostituite dalle seguenti &laquo;entro il 31 dicembre 2022&raquo;. 
+ ((Al fine di garantire le immissioni in ruolo da graduatoria di concorso, la graduatoria di cui all'articolo 59, comma 17, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, è integrata, nel limite delle autorizzazioni di spesa previste a legislazione vigente e nel rispetto del regime autorizzatorio di cui all'articolo 39, commi 3 e 3-bis, della legge 27 dicembre 1997, n. 449, con i candidati risultati idonei per avere raggiunto o superato il punteggio minimo previsto dal comma 15 del medesimo articolo 59 del decreto-legge n. 73 del 2021. In ogni caso, nell'utilizzo delle graduatorie concorsuali ai fini delle immissioni in ruolo hanno priorità i vincitori del concorso ordinario di cui al decreto direttoriale n. 499 del 21 aprile 2020, pubblicato nella Gazzetta Ufficiale della Repubblica italiana - 4&ordf; Serie speciale - n. 34 del 28 aprile 2020))
+
+ . 
  
 
  
@@ -184,11 +197,54 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 11. All'articolo 1, comma 328, della legge 27 dicembre 2019, n. 160, in materia di facoltà assunzionali del Ministero dello sviluppo economico, le parole: &laquo;di euro 11.365.430 per l'anno 2021, di euro 18.942.383 per l'anno 2022 e di euro 22.730.859 a decorrere dall'anno 2023&raquo; sono sostituite dalle seguenti: &laquo;di euro 11.365.430 per l'anno 2022, di euro 18.942.383 per l'anno 2023 e di euro 22.730.859 annui a decorrere dall'anno 2024&raquo;. 
+ 
+ ((
+ 
+
+ 
+ 11. I diritti d'uso delle frequenze nella banda 24,5-26,5 GHz, in scadenza il 31 dicembre 2022, possono essere prorogati fino al 31 dicembre 2024, previa presentazione di un'apposita richiesta da avanzare, ai sensi del comma 9 dell'articolo 11 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259, entro il 30 aprile 2022; 
  
 
  
  
+ 
+
+ 
+ 11-bis. Fermo restando quanto previsto dall'articolo 63 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259, la proroga di cui al comma 11 del presente articolo è soggetta al versamento di un contributo annuo determinato entro il 31 luglio dall'Autorità per le garanzie nelle comunicazioni in base al valore di base d'asta della banda 26 GHz di cui al bando di gara del Ministero dello sviluppo economico - Direzione generale per i servizi di comunicazione elettronica, di radiodiffusione e postali, pubblicato nella Gazzetta Ufficiale della Repubblica italiana - 5&ordf; Serie speciale - n. 80 dell'11 luglio 2018, in proporzione alla quantità di frequenze, alla popolazione coperta e alla durata del diritto d'uso e considerando, altresì, il progressivo spegnimento delle frequenze oggetto di proroga; 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-ter. Le successive condizioni di utilizzo delle frequenze nella banda 24,5-26,5 GHz, anche al fine di garantire il rispetto della decisione di esecuzione (UE) 2020/590 della Commissione, del 24 aprile 2020, saranno oggetto di analisi di un apposito tavolo tecnico istituito dal Ministero dello sviluppo economico con gli operatori beneficiari della proroga di cui al comma 11. Ai componenti del tavolo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati; 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-quater. Nelle more della piena applicazione della tecnologia DVBT2, al fine di prendere in esame le problematiche di maggiore impatto sul territorio italiano derivanti dalla liberazione della banda 700 MHz, è istituito presso il Ministero dello sviluppo economico un tavolo tecnico permanente, al quale possono partecipare i soggetti coinvolti nel refarming delle frequenze, nonchè i soggetti istituzionali competenti. Ai componenti del tavolo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati. Fermi restando il termine improrogabile del 30 giugno 2022 per la liberazione della banda 700 MHz e i vincoli di coordinamento internazionale, nel caso di particolari criticità tecniche per le reti locali di primo livello, con decreto del Ministero dello sviluppo economico, sentita l'Autorità per le garanzie nelle comunicazioni, in casi eccezionali possono essere individuate modalità alternative di applicazione dei vincoli interni della pianificazione di cui alla delibera dell'Autorità per le garanzie nelle comunicazioni n. 39/19/CONS del 7 febbraio 2019, salvaguardando in ogni caso i diritti acquisiti dai soggetti interessati; 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-quinquies. Al fine di consentire il proseguimento dell'operatività della task force di cui all'articolo 1, comma 1043, della legge 27 dicembre 2017, n. 205, il Ministero dello sviluppo economico è autorizzato, nel limite massimo di spesa di 200.000 euro per ciascuno degli anni 2023, 2024, 2025 e 2026, ad avvalersi di non più di cinque unità di personale in posizione di comando, provenienti da altre pubbliche amministrazioni, a esclusione del personale scolastico, comprese le autorità indipendenti, che mantiene il trattamento economico, fondamentale e accessorio, in godimento. Il Ministero dello sviluppo economico provvede a rimborsare integralmente alle amministrazioni di appartenenza l'onere relativo al predetto trattamento economico. Della task force può essere chiamato a fare parte anche personale dipendente di società e organismi in house ovvero di società partecipate dallo Stato, previo rimborso agli stessi dei relativi costi da parte del Ministero; 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11-sexies. Agli oneri derivanti dal comma 11-quinquies, pari a 200.000 euro per ciascuno degli anni 2023, 2024, 2025 e 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 1089, della legge 27 dicembre 2017, n. 205))
+ 
+
  
 
  
@@ -207,10 +263,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) al comma 5, le parole &laquo;Entro centoventi giorni dall'entrata in vigore del presente decreto&raquo;, sono sostituite dalle seguenti: &laquo;Entro il 31 marzo 2022&raquo;; 
  
 
- 2) al comma 6, primo periodo, le parole: &laquo;il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri&raquo;, sono sostituite dalle seguenti: &laquo;con decreto del Ministro per la pubblica amministrazione&raquo; e la parola &laquo;adotta&raquo; è sostituita dalle seguenti: &laquo;è adottato&raquo;; 
+ 2) al comma 6, primo periodo, le parole: &laquo;il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri&raquo;, sono sostituite dalle seguenti: &laquo;con decreto del Ministro per la pubblica amministrazione 
+ ((, di concerto con il Ministro dell'economia e delle finanze))
+
+ &raquo; e la parola &laquo;adotta&raquo; è sostituita dalle seguenti: &laquo;è adottato&raquo;; 
  
 
- 3) dopo il comma 6 è aggiunto il seguente: &laquo;6-bis. In sede di prima applicazione il Piano è adottato entro il 30 aprile 2022 e fino al predetto termine, non si applicano le sanzioni previste dalle seguenti disposizioni: 
+ 3) dopo il comma 6 è aggiunto il seguente: &laquo;6-bis. In sede di prima applicazione il Piano è adottato entro il 30 aprile 2022 e fino al predetto 
+ ((termine non))
+
+ si applicano le sanzioni previste dalle seguenti disposizioni: 
  
 
  a) articolo 10, comma 5, del decreto legislativo 27 ottobre 2009, n. 150; 
@@ -226,22 +288,74 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) all'articolo 7-bis, comma 1, in materia di reclutamento di personale per il Ministero dell'economia e delle finanze, le parole &laquo;per l'anno 2021&raquo; sono sostituite dalle seguenti: &laquo;per l'anno 2022&raquo;. 
+ 
+ ((a-bis) all'articolo 7, il comma 2, in materia di efficacia delle graduatorie per il reclutamento di personale destinato all'attuazione del PNRR, è sostituito dal seguente: 
+ 
+
+ "2. Al fine di garantire l'integrale copertura dei posti di cui al comma 1 e fino ad ulteriori 300 unità a valere sulle vigenti facoltà assunzionali, è autorizzato lo scorrimento delle graduatorie del concorso di cui al medesimo comma 1, che rimangono efficaci per la durata dell'attuazione del PNRR, nonchè delle vigenti graduatorie di concorsi pubblici, relative all'assunzione di personale con contratto sia a tempo determinato sia a tempo indeterminato"))
+ 
+
  
 
  
  
+ ((b) all'articolo 7-bis, comma 1, in materia di reclutamento di personale per il Ministero dell'economia e delle finanze: 
+ 
+
+ 1) le parole: "per l'anno 2021" sono sostituite dalle seguenti: "per l'anno 2022"; 
+ 
+
+ 2) dopo le parole: "ordinarie procedure di mobilità," sono inserite le seguenti: "ovvero a procedere allo scorrimento delle vigenti graduatorie di concorsi pubblici,"))
+ 
 
  
 
  
 
  
- 13. All'articolo 7, comma 5, del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108, in materia di regolamento di organizzazione del Ministero dell'economia e delle finanze, le parole &laquo;31 gennaio 2022&raquo; sono sostituite dalle seguenti: &laquo;28 febbraio 2022&raquo;. 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 12-bis. All'articolo 44, comma 1, della legge 23 dicembre 2021, n. 238, in materia di assunzione di personale per attività relative a interventi cofinanziati dall'Unione europea, dopo la parola: "attraverso" sono inserite le seguenti: "lo scorrimento delle vigenti graduatorie di concorsi pubblici ovvero". 
  
 
  
  
+ 
+
+ 
+ 12-ter. All'articolo 11-bis, comma 13, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, dopo le parole: "legge 28 maggio 2021, n. 76," sono inserite le seguenti: "ovvero a procedere allo scorrimento delle vigenti graduatorie di concorsi pubblici,". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 12-quater. Al fine di accelerare la programmazione e l'attuazione degli interventi previsti dal PNRR, fino al 31 dicembre 2026 i comuni capoluogo di provincia con popolazione inferiore a 250.000 abitanti, che hanno deliberato la procedura di riequilibrio finanziario pluriennale prevista dall'articolo 243-bis del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, possono procedere alle assunzioni di cui all'articolo 31-bis, comma 10, del decreto-legge 6 novembre 2021, n. 152, convertito, con modificazioni, dalla legge 29 dicembre 2021, n. 233, con oneri a carico dei propri bilanci, ma comunque nel rispetto del limite finanziario di cui all'articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122))
+ 
+
+ 
+
+ 
+ 
+ ((13. Allo scopo di adeguare il regolamento di organizzazione del Ministero dell'economia e delle finanze alle modifiche apportate alla struttura organizzativa per effetto di intervenute modificazioni normative, compresa l'istituzione di una posizione di funzione dirigenziale di livello generale, nell'ambito del Dipartimento dell'amministrazione generale, del personale e dei servizi del medesimo Ministero, per lo svolgimento di compiti di consulenza, studio e ricerca, nonchè di supporto al Capo del Dipartimento per le esigenze di raccordo con gli uffici di diretta collaborazione del Ministro, con particolare riferimento alle attività connesse e strumentali all'attuazione del PNRR, all'articolo 7, comma 5, del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108, le parole: "31 gennaio 2022" sono sostituite dalle seguenti: "31 luglio 2022"&raquo;))
+ 
+
+ 
+
+ 
+ 
+ ((13-bis. All'articolo 10 del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108, concernente il supporto tecnico-operativo alle amministrazioni pubbliche da parte di società in house per la realizzazione di investimenti pubblici, dopo il comma 6-bis è aggiunto il seguente: 
+ 
+
+ "6-ter. Ai contratti di lavoro a tempo determinato stipulati, prorogati o rinnovati dalle società di cui al comma 1 per lo svolgimento delle attività di supporto di cui al presente articolo essenziali per l'attuazione del progetto non si applicano i limiti di cui agli articoli 19, 21 e 23 del decreto legislativo 15 giugno 2015, n. 81. I contratti di lavoro a tempo determinato di cui al primo periodo possono essere stipulati, prorogati o rinnovati per un periodo complessivo anche superiore a trentasei mesi, ma non superiore alla durata di attuazione dei progetti di competenza delle singole amministrazioni e comunque non eccedente il 30 giugno 2026. I medesimi contratti indicano, a pena di nullità, il progetto del PNRR al quale è riferita la prestazione lavorativa; il mancato conseguimento dei traguardi e degli obiettivi, intermedi e finali, previsti dal progetto costituisce giusta causa di recesso dell'amministrazione dal contratto ai sensi dell'articolo 2119 del codice civile"))
+ 
+
  
 
  
@@ -253,7 +367,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 15. La validità della graduatoria della procedura speciale di reclutamento nella qualifica di vigile del fuoco del Corpo nazionale dei vigili del fuoco, riservata al personale volontario del medesimo Corpo, approvata con decreto ministeriale n. 310 dell'11 giugno 2019, è prorogata fino al 31 dicembre 2022. 
+ 15. La validità della graduatoria della procedura speciale di reclutamento nella qualifica di vigile del fuoco del Corpo nazionale dei vigili del fuoco, riservata al personale volontario del medesimo Corpo, approvata con 
+ ((decreto del capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del Ministero dell'interno))
+
+ n. 310 dell'11 giugno 2019, è prorogata fino al 31 dicembre 2022. 
  
 
  
@@ -328,7 +445,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) al comma 3, dopo le parole &laquo;in carica tre anni&raquo; sono inserite le seguenti: &laquo;e, se non raggiunti dal limite di età al termine del triennio, permangono nell'incarico fino al limite di età e comunque al massimo per un altro anno,&raquo;; 
+ a) al comma 3, dopo le parole &laquo;in carica tre anni&raquo; sono inserite le seguenti: &laquo;e, se non 
+ ((abbiano raggiunto il))
+
+ limite di età al termine del triennio, permangono nell'incarico fino al limite di età e comunque al massimo per un altro anno,&raquo;; 
  
 
  
@@ -357,7 +477,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 22. All'articolo 4, quinto comma, della legge 23 aprile 1959, n. 189, in materia di mandato del Comandante generale della Guardia di finanza, dopo primo periodo è inserito il seguente: &laquo;Se non raggiunto dal limite di età al termine del triennio, il Comandante generale permane nell'incarico fino al limite di età e comunque al massimo per un altro anno.&raquo;. 
+ 22. All'articolo 4, quinto comma, della legge 23 aprile 1959, n. 189, in materia di mandato del Comandante generale della Guardia di finanza, dopo primo periodo è inserito il seguente: &laquo;Se non 
+ ((abbia raggiunto il))
+
+ limite di età al termine del triennio, il Comandante generale permane nell'incarico fino al limite di età e comunque al massimo per un altro anno.&raquo;. 
  
 
  
@@ -373,7 +496,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 24. Il mandato del Presidente e degli altri organi in carica dell'Istituto per il credito sportivo, istituito con legge 24 dicembre 1957, n. 1295, è prorogato fino al 31 maggio 2022, al fine di garantire la piena operatività dell'Istituto. 
+ 24. Il mandato del Presidente e degli altri organi in carica dell'Istituto per il credito sportivo, istituito con legge 24 dicembre 1957, n. 1295, è prorogato 
+ ((fino al 31 dicembre 2022))
+
+ , al fine di garantire la piena operatività dell'Istituto. 
  
 
  
@@ -381,11 +507,47 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 25. All'articolo 5, comma 2, della legge 30 dicembre 1986, n. 936, in materia di mandato del Presidente del Consiglio nazionale dell'economia e del lavoro, è aggiunto, in fine, il seguente periodo: &laquo;Qualora la durata in carica del Presidente non coincida con quella del Consiglio di cui al successivo articolo 7, comma 1, al fine di assicurare il completamento del programma di attività, il termine di scadenza del mandato di cui al presente comma è prorogato sino al termine della durata del Consiglio&raquo;. 
+ 25. All'articolo 5, comma 2, della legge 30 dicembre 1986, n. 936, in materia di mandato del Presidente del Consiglio nazionale dell'economia e del lavoro, è aggiunto, in fine, il seguente periodo: &laquo;Qualora la durata in carica del Presidente non coincida con quella del Consiglio 
+ ((, di cui all'articolo))
+
+ 7, comma 1, al fine di assicurare il completamento del programma di attività, il termine di scadenza del mandato di cui al presente comma è prorogato sino al termine della durata del Consiglio&raquo;. 
  
 
  
  
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 25-bis. Per l'anno 2022, il termine di cui all'articolo 15, comma 1, della legge 29 dicembre 1993, n. 580, è prorogato al 30 settembre, al fine di prevedere nell'aggiornamento del preventivo economico gli oneri relativi al trattamento economico degli organi delle camere di commercio, industria, artigianato e agricoltura.
+ 
+
+ All'articolo 4-bis della citata legge n. 580 del 1993, il primo periodo del comma 2-bis è soppresso e dopo il comma 2-bis è inserito il seguente: 
+ 
+
+ "2-bis.1. Con il decreto di cui al comma 2-bis è prorogato il divieto dei compensi degli organi per le camere di commercio in corso di accorpamento fino al 1° gennaio dell'anno successivo al completamento dell'accorpamento stesso. Il medesimo decreto stabilisce i criteri per il trattamento economico relativo agli incarichi degli organi delle camere di commercio ed è adottato nei limiti delle risorse disponibili per le camere di commercio in base alla legislazione vigente, senza che possa essere previsto l'incremento del diritto annuale di cui all'articolo 18". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 25-ter. Alla compensazione, in termini di indebitamento e fabbisogno, degli oneri derivanti dal comma 25-bis, pari a 5,9 milioni di euro annui a decorrere dall'anno 2022, si provvede mediante corrispondente riduzione del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 25-quater. All'articolo 54-ter, comma 1, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2022"))
+ 
+
  
 
  
@@ -416,6 +578,25 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ ((
+ 
+
+ 
+ 26-bis. All'articolo 1, comma 495, della legge 27 dicembre 2019, n. 160, in materia di assunzione di lavoratori socialmente utili e di lavoratori impegnati in attività di pubblica utilità, al primo periodo, le parole: "fino al 31 luglio 2021" sono sostituite dalle seguenti: "fino al 31 marzo 2022" e, al secondo periodo, le parole: "per il solo anno 2021" sono sostituite dalle seguenti: "per gli anni 2021 e 2022". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 26-ter. All'articolo 1, comma 162, della legge 27 dicembre 2019, n. 160, in materia di convenzioni per l'utilizzazione di lavoratori socialmente utili, le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2022"))
+ 
+
+ 
+
+ 
  27. Alle amministrazioni pubbliche della regione Calabria che hanno assunto a tempo indeterminato i lavoratori impegnati in attività di pubblica utilità di cui agli articoli 2 del decreto legislativo 1° dicembre 1997, n. 468, e 2 del decreto legislativo 7 agosto 1997, n. 280, o che procedono alla loro assunzione a tempo indeterminato, ai sensi dell'articolo 1, comma 446, della legge 30 dicembre 2018, n. 145, con le modalità semplificate di cui all'articolo 1, comma 495, della legge 27 dicembre 2019, n. 160, è riconosciuto a decorrere dall'anno 2022 il contributo di cui all'articolo 7, comma 1, del decreto legislativo 28 febbraio 2000, n. 81. Agli oneri derivanti dal presente comma, pari ad euro 20.014.762 annui a decorrere dal 2022, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 199, della legge 23 dicembre 2014, n. 190. 
  
 
@@ -424,4 +605,101 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 28. La durata degli incarichi di collaborazione già autorizzati alla data di entrata in vigore del presente decreto ai sensi dell'articolo 24, comma 1, primo periodo, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 253, è prorogata, se inferiore, fino al limite di durata massima di quindici mesi e comunque non oltre il 30 giugno 2022. Alla compensazione degli oneri di cui al presente comma, nel limite massimo di euro 9.340.500 per l'anno 2022, si provvede, quanto a euro 4.000.000, mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2021-2023, nell'ambito del programma &laquo;Fondi di riserva e speciali&raquo; della missione &laquo;Fondi da ripartire&raquo; dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2021, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dei beni e delle attività culturali, e quanto a euro 5.340.500, mediante corrispondente riduzione del Fondo di parte corrente di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione del Ministero della cultura.
+ 
+ ((27-bis. Al fine di rafforzare la capacità amministrativa e consentire l'accelerazione delle procedure e degli investimenti pubblici per l'attuazione dei progetti previsti dal PNRR, nonchè di ridurre il precariato, la regione Calabria, negli anni 2022 e 2023, può avviare procedure selettive per l'assunzione di personale non dirigenziale a tempo indeterminato, a valere sulle risorse di cui al secondo periodo, anche in soprannumero riassorbibile, anche valorizzando le esperienze professionali maturate dal personale in servizio presso l'Azienda Calabria Lavoro, che ha già prestato attività lavorativa presso la regione Calabria, per il tramite della medesima Azienda, con contratto di lavoro a tempo determinato o di collaborazione coordinata e continuativa. A tal fine è autorizzato il trasferimento alla regione Calabria di 5 milioni di euro per l'anno 2022 e di 10 milioni di euro annui a decorrere dall'anno 2023.
+ 
+
+ Le procedure selettive di cui al primo periodo sono organizzate, per figure professionali omogenee, dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, tramite l'Associazione Formez PA. Agli oneri derivanti dal presente comma, pari a 5 milioni di euro per l'anno 2022 e a 10 milioni di euro annui a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 365, lettera b), della legge 11 dicembre 2016, n. 232, come rifinanziato ai sensi dell'articolo 1, comma 298, della legge 30 dicembre 2018, n. 145))
+ 
+
+ 
+
+ 
+ 28. La durata degli incarichi di collaborazione già autorizzati alla data di entrata in vigore del presente decreto ai sensi dell'articolo 24, comma 1, primo periodo, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla 
+ ((legge 13 ottobre 2020, n. 126))
+
+ è prorogata, se inferiore, fino al limite di durata massima di quindici mesi e comunque non oltre il 30 giugno 2022.
+ ((Agli oneri di cui al presente comma, nel limite massimo di euro 10.124.500 per l'anno 2022, si provvede, quanto a euro 4.784.000, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2022-2024, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2022, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della cultura, e, quanto a euro 5.340.500, mediante corrispondente riduzione del Fondo di parte corrente di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione del Ministero della cultura))
+
+ . 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 28-bis. All'articolo 32, comma 6, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, le parole: "30 settembre 2022", ovunque ricorrono, sono sostituite dalle seguenti: "30 settembre 2023". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 28-ter. All'articolo 11-sexiesdecies del decreto-legge 22 aprile 2021, n. 52, convertito, con modificazioni, dalla legge 17 giugno 2021, n. 87, le parole: "1° gennaio 2022" sono sostituite dalle seguenti: "1° luglio 2022". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 28-quater. All'articolo 10 del decreto-legge 1° aprile 2021, n. 44, convertito, con modificazioni, dalla legge 28 maggio 2021, n. 76, recante misure per lo svolgimento delle procedure per i concorsi pubblici e per la durata dei corsi di formazione iniziale, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) al comma 2, le parole: "permanere dello stato di emergenza deliberato dal Consiglio dei ministri il 31 gennaio 2020, e successive proroghe" sono sostituite dalle seguenti: "31 dicembre 2022"; 
+ 
+
+ 
+ 
+
+ 
+ b) al comma 3, al primo periodo, le parole: "permanere dello stato di emergenza deliberato dal Consiglio dei ministri il 31 gennaio 2020" sono sostituite dalle seguenti: "31 dicembre 2022" e, al terzo periodo, le parole: "permanere dello stato di emergenza" sono sostituite dalle seguenti: "31 dicembre 2022". 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 28-quinquies. Il comma 3 dell'articolo 38 del decreto legislativo 30 marzo 2001, n. 165, in materia di accesso dei cittadini degli Stati membri dell'Unione europea a posti di lavoro presso le amministrazioni pubbliche, è sostituito dai seguenti: 
+ 
+
+ "3. Sino all'adozione di una regolamentazione della materia da parte dell'Unione europea, al riconoscimento dei titoli di studio esteri, aventi valore ufficiale nello Stato in cui sono stati conseguiti, ai fini della partecipazione ai concorsi pubblici destinati al reclutamento di personale dipendente, con esclusione dei concorsi per il personale docente delle scuole di ogni ordine e grado, provvede la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, previo parere conforme del Ministero dell'istruzione ovvero del Ministero dell'università e della ricerca. I candidati che presentano domanda di riconoscimento del titolo di ammissione al concorso ai sensi del primo periodo sono ammessi a partecipare con riserva. La Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica conclude il procedimento di riconoscimento di cui al presente comma solo nei confronti dei vincitori del concorso, che hanno l'onere, a pena di decadenza, di dare comunicazione dell'avvenuta pubblicazione della graduatoria, entro quindici giorni, al Ministero dell'università e della ricerca ovvero al Ministero dell'istruzione. 
+ 
+
+ 3.1. Per i fini previsti dagli articoli 3 e 4 del regolamento di cui al decreto del Presidente della Repubblica 30 luglio 2009, n. 189, e per le selezioni pubbliche di personale non dipendente, al riconoscimento del titolo di studio provvede, con le medesime modalità di cui al comma 3 del presente articolo, il Ministero dell'università e della ricerca, indipendentemente dalla cittadinanza posseduta, anche per i titoli conseguiti in Paesi diversi da quelli firmatari della Convenzione sul riconoscimento dei titoli di studio relativi all'insegnamento superiore nella Regione europea, fatta a Lisbona l'11 aprile 1997, ratificata ai sensi della legge 11 luglio 2002, n. 148. 
+ 
+
+ 3.2. Al riconoscimento accademico e al conferimento del valore legale ai titoli di formazione superiore esteri, ai dottorati di ricerca esteri e ai titoli accademici esteri conseguiti nel settore artistico, musicale e coreutico, indipendentemente dalla cittadinanza posseduta, provvedono le istituzioni di formazione superiore italiane ai sensi dell'articolo 2 della legge 11 luglio 2002, n. 148, anche per i titoli conseguiti in Paesi diversi da quelli firmatari della Convenzione sul riconoscimento dei titoli di studio relativi all'insegnamento superiore nella Regione europea, fatta a Lisbona l'11 aprile 1997, ratificata ai sensi della citata legge n. 148 del 2002. Il riconoscimento accademico produce gli effetti legali del corrispondente titolo italiano, anche ai fini dei concorsi pubblici per l'accesso al pubblico impiego". 
+ 
+
+ 
+ 
+ 
+
+ 
+ 28-sexies. Agli oneri derivanti dal comma 13, pari a euro 168.025 per l'anno 2022 e a euro 224.033 annui a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2022-2024, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2022, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 28-septies. Il comma 10-bis dell'articolo 3 del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113, in materia di riconoscimento dei titoli di studio conseguiti all'estero, è abrogato))
