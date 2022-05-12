@@ -120,7 +120,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a) gli impianti di accumulo elettrochimico ubicati all'interno di aree ove sono situati impianti industriali di qualsiasi natura, anche non più operativi o in corso di dismissione , o ubicati all'interno di aree ove sono situati impianti di produzione di energia elettrica alimentati da fonte fossile di potenza inferiore ai 300 MW termici in servizio, o ubicati presso aree di cava o di produzione e trattamento di idrocarburi liquidi e gassosi in via di dismissione, i quali non comportino estensione delle aree stesse, nè aumento degli ingombri in altezza rispetto alla situazione esistente, nè richiedano variante agli strumenti urbanistici adottati, sono autorizzati mediante la procedura abilitativa semplificata comunale di cui all'articolo 6 del decreto legislativo 3 marzo 2011, n. 28. In assenza di una delle condizioni sopra citate, si applica la procedura di cui alla lettera b); 
+ a) gli impianti di accumulo elettrochimico ubicati all'interno di aree ove sono situati impianti industriali di qualsiasi natura, anche non più operativi o in corso di dismissione , o ubicati all'interno di aree ove sono situati impianti di produzione di energia elettrica alimentati 
+ ((da fonte rinnovabile o da fonte fossile che abbiano))
+
+ potenza inferiore ai 300 MW termici in servizio, o ubicati presso aree di cava o di produzione e trattamento di idrocarburi liquidi e gassosi in via di dismissione, i quali non comportino estensione delle aree stesse, nè aumento degli ingombri in altezza rispetto alla situazione esistente, nè richiedano variante agli strumenti urbanistici adottati, sono autorizzati mediante la procedura abilitativa semplificata comunale di cui all'articolo 6 del decreto legislativo 3 marzo 2011, n. 28. In assenza di una delle condizioni sopra citate, si applica la procedura di cui alla lettera b); 
  
 
  
@@ -134,7 +137,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) gli impianti di accumulo elettrochimico da esercire in combinato o meno con impianti di produzione di energia elettrica alimentati da fonti rinnovabili sono considerati opere connesse ai predetti impianti, ai sensi della normativa vigente, e sono autorizzati mediante: 
+ c) gli impianti di accumulo elettrochimico da esercire in combinato 
+ ((...))
+
+ con impianti di produzione di energia elettrica alimentati da fonti rinnovabili sono considerati opere connesse ai predetti impianti, ai sensi della normativa vigente, e sono autorizzati mediante: 
  
 
  1) autorizzazione unica rilasciata dalla regione o dalle province delegate o, per impianti con potenza termica installata superiore a 300 MW termici, dal Ministero dello sviluppo economico, secondo le disposizioni di cui all'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387, ove l'impianto di produzione di energia elettrica alimentato da fonti rinnovabili sia da realizzare; 
@@ -143,10 +149,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) procedura di modifica ai sensi dell'articolo 12, comma 3, del decreto legislativo 29 dicembre 2003, n. 387, ove l'impianto di produzione di energia elettrica alimentato da fonti rinnovabili sia già realizzato e l'impianto di accumulo elettrochimico comporti l'occupazione di nuove aree rispetto all'impianto esistente; 
  
 
- 
- ((3) procedura abilitativa semplificata comunale di cui all'articolo 6 del decreto legislativo 3 marzo 2011, n. 28, se l'impianto di produzione di energia elettrica alimentato da fonti rinnovabili è già esistente o autorizzato, anche se non ancora in esercizio, e se l'impianto di accumulo elettrochimico non comporta occupazione di nuove aree))
-
- ; 
+ 3) procedura abilitativa semplificata comunale di cui all'articolo 6 del decreto legislativo 3 marzo 2011, n. 28, se l'impianto di produzione di energia elettrica alimentato da fonti rinnovabili è già esistente o autorizzato, anche se non ancora in esercizio, e se l'impianto di accumulo elettrochimico non comporta occupazione di nuove aree; 
  
 
  
