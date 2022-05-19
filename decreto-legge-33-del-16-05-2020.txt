@@ -113,11 +113,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
  7-bis. La misura della quarantena precauzionale di cui al comma 7 non si applica a coloro che, nei centoventi giorni dal completamento del ciclo vaccinale primario o dalla guarigione o successivamente alla somministrazione della dose di richiamo, hanno avuto contatti stretti con soggetti confermati positivi al COVID-19. Ai soggetti di cui al primo periodo è applicato il regime dell'autosorveglianza, consistente nell'obbligo di indossare dispositivi di protezione delle vie respiratorie di tipo FFP2 fino al decimo giorno successivo alla data dell'ultimo contatto stretto con soggetti confermati positivi al COVID-19 e di effettuare un test antigenico rapido o molecolare per la rilevazione dell'antigene SARS-CoV-2 alla prima comparsa dei sintomi e, se ancora sintomatici, al quinto giorno successivo alla data dell'ultimo contatto. 
  
 
@@ -126,17 +121,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7-ter. Con circolare del Ministero della salute sono definite le modalità attuative dei commi 6 e 7 sulla base dei criteri stabiliti dal Comitato tecnico-scientifico di cui all'ordinanza del Capo del Dipartimento della protezione civile n. 630 del 3 febbraio 2020. La cessazione del regime di quarantena di cui ai commi 6 e 7 consegue all'esito negativo di un test antigenico rapido o molecolare per la rilevazione dell'antigene SARS-CoV-2, effettuato anche presso centri privati a ciò abilitati. In quest'ultimo caso, la trasmissione, con modalità anche elettroniche, al dipartimento di prevenzione territorialmente competente del referto con esito negativo determina la cessazione del regime di quarantena))
- 
-
- 
-
- 
- 7-quater. Le disposizioni di cui al comma 7-bis sull'autosorveglianza si applicano anche in caso di guarigione avvenuta successivamente al completamento del ciclo vaccinale primario. (22) 
+ 7-ter. Con circolare del Ministero della salute sono definite le modalità attuative dei commi 6 e 7 sulla base dei criteri stabiliti dal Comitato tecnico-scientifico di cui all'ordinanza del Capo del Dipartimento della protezione civile n. 630 del 3 febbraio 2020. La cessazione del regime di quarantena di cui ai commi 6 e 7 consegue all'esito negativo di un test antigenico rapido o molecolare per la rilevazione dell'antigene SARS-CoV-2, effettuato anche presso centri privati a ciò abilitati. In quest'ultimo caso, la trasmissione, con modalità anche elettroniche, al dipartimento di prevenzione territorialmente competente del referto con esito negativo determina la cessazione del regime di quarantena. 
  
 
  
  
+ 
+
+ 
+ 
+ ((7-quater. Le disposizioni di cui al comma 7-bis sull'autosorveglianza si applicano anche in caso di guarigione avvenuta successivamente al completamento del ciclo vaccinale primario))
+ 
+
  
 
  
@@ -341,17 +337,4 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.L. 22 aprile 2021, n. 52, convertito con modificazioni dalla L. 17 giugno 2021, n. 87, ha disposto (con l'art. 10, comma 3-bis) che "Fino al 16 giugno 2021 il monitoraggio dei dati epidemiologici è effettuato sulla base delle disposizioni di cui all'articolo 1 del decreto-legge n. 33 del 2020 vigenti il giorno antecedente alla data di entrata in vigore del decreto-legge 18 maggio 2021, n. 65, nonchè delle disposizioni di cui al comma 1-bis del presente articolo". 
- 
-
- 
-
- 
- -------------
-
- AGGIORNAMENTO (22)
-
- 
- 
-
- - L'introduzione del comma 7-quater al presente articolo ha perso efficacia per effetto dell'abrogazione del D.L. 4 febbraio 2022, n. 5 ad opera della L. 4 marzo 2022, n. 18, la quale ne ha contestualmente fatti salvi gli effetti.
+ Il D.L. 22 aprile 2021, n. 52, convertito con modificazioni dalla L. 17 giugno 2021, n. 87, ha disposto (con l'art. 10, comma 3-bis) che "Fino al 16 giugno 2021 il monitoraggio dei dati epidemiologici è effettuato sulla base delle disposizioni di cui all'articolo 1 del decreto-legge n. 33 del 2020 vigenti il giorno antecedente alla data di entrata in vigore del decreto-legge 18 maggio 2021, n. 65, nonchè delle disposizioni di cui al comma 1-bis del presente articolo".
