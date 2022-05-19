@@ -181,7 +181,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  1. Al decreto-legge 1° aprile 2021, n. 44, convertito, con modificazioni, dalla legge 28 maggio 2021, n. 76, dopo l'articolo 4-ter sono inseriti i seguenti: 
  
 
- &laquo;Art. 4-quater (Estensione dell'obbligo di vaccinazione per la prevenzione dell'infezione da SARS-CoV-2 agli ultra cinquantenni). - 1. Dalla data di entrata in vigore della presente disposizione e fino al 15 giugno 2022, al fine di tutelare la salute pubblica e mantenere adeguate condizioni di sicurezza nell'erogazione delle prestazioni di cura e assistenza, l'obbligo vaccinale per la prevenzione dell'infezione da SARS-CoV-2, di cui all'articolo 3-ter, si applica ai cittadini italiani e di altri Stati membri dell'Unione europea residenti nel territorio dello Stato, nonchè ai cittadini stranieri di cui agli articoli 34 e 35 del decreto legislativo 25 luglio 1998, n. 286, che abbiano compiuto il cinquantesimo anno di età, fermo restando quanto previsto dagli articoli 4, 4-bis e 4-ter. 
+ &laquo;Art. 4-quater ( Estensione dell'obbligo di vaccinazione per la prevenzione dell'infezione da SARS-CoV-2 agli 
+ ((ultracinquantenni))
+
+ ). - 1. Dalla data di entrata in vigore della presente disposizione e fino al 15 giugno 2022, al fine di tutelare la salute pubblica e mantenere adeguate condizioni di sicurezza nell'erogazione delle prestazioni di cura e assistenza, l'obbligo vaccinale per la prevenzione dell'infezione da SARS-CoV-2, di cui all'articolo 3-ter, si applica ai cittadini italiani e di altri Stati membri dell'Unione europea residenti nel territorio dello Stato, nonchè 
+ ((agli stranieri))
+
+ di cui agli articoli 34 e 35 del 
+ ((testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al))
+
+ decreto legislativo 25 luglio 1998, n. 286, che abbiano compiuto il cinquantesimo anno di età, fermo restando quanto previsto dagli articoli 4, 4-bis e 4-ter. 
  
 
  2. L'obbligo di cui al comma 1 non sussiste in caso di accertato pericolo per la salute, in relazione a specifiche condizioni cliniche documentate, attestate dal medico di medicina generale dell'assistito o dal medico vaccinatore, nel rispetto delle circolari del Ministero della salute in materia di esenzione dalla vaccinazione anti SARS-CoV-2; in tali casi la vaccinazione può essere omessa o differita. L'infezione da SARS-CoV-2 determina il differimento della vaccinazione fino alla prima data utile prevista sulla base delle circolari del Ministero della salute. 
@@ -190,22 +199,58 @@ IL PRESIDENTE DELLA REPUBBLICA
  3. La disposizione di cui al comma 1 si applica anche a coloro che compiono il cinquantesimo anno di età in data successiva a quella di entrata in vigore della presente disposizione, fermo il termine del 15 giugno 2022, di cui al comma 1. 
  
 
- Art. 4-quinquies (Estensione dell'impiego dei certificati vaccinali e di guarigione sui luoghi di lavoro). - 1. A decorrere dal 15 febbraio 2022, i soggetti di cui agli articoli 9-quinquies, commi 1 e 2, 9-sexies, commi 1 e 4, e 9-septies, commi 1 e 2, del decreto-legge 22 aprile 2021, n. 52, convertito, con modificazioni, dalla legge 17 giugno 2021, n. 87, ai quali si applica l'obbligo vaccinale di cui all'articolo 4-quater, per l'accesso ai luoghi di lavoro nell'ambito del territorio nazionale, devono possedere e sono tenuti a esibire una delle certificazioni verdi COVID-19 di vaccinazione o di guarigione di cui all'articolo 9, comma 2, lettere a), b) e c-bis) del decreto-legge n. 52 del 2021. 
+ Art. 4-quinquies (Estensione dell'impiego dei certificati vaccinali e di guarigione 
+ ((nei luoghi))
+
+ di lavoro). - 1. A decorrere dal 15 febbraio 2022, i soggetti di cui agli articoli 9-quinquies, commi 1 e 2, 9-sexies, commi 1 e 4, e 9-septies, commi 1 e 2, del decreto-legge 22 aprile 2021, n. 52, convertito, con modificazioni, dalla legge 17 giugno 2021, n. 87, ai quali si applica l'obbligo vaccinale di cui all'articolo 4-quater 
+ ((del presente decreto))
+
+ , per l'accesso ai luoghi di lavoro nell'ambito del territorio nazionale, devono possedere e sono tenuti a esibire una delle certificazioni verdi COVID-19 di vaccinazione o di guarigione di cui all'articolo 9, comma 2, lettere a), b) e c-bis) 
+ ((,))
+
+ del decreto-legge n. 52 del 2021. 
  
 
- 2. I datori di lavoro pubblici di cui all'articolo 9-quinquies del decreto-legge n. 52 del 2021, i datori di lavoro privati di cui all'articolo 9-septies del decreto-legge n. 52 del 2021, i responsabili della sicurezza delle strutture in cui si svolge l'attività giudiziaria di cui all'articolo 9-sexies del decreto-legge n. 52 del 2021, sono tenuti a verificare il rispetto delle prescrizioni di cui al comma 1 per i soggetti sottoposti all'obbligo di vaccinazione di cui all'articolo 4-quater che svolgono la propria attività lavorativa nei rispettivi luoghi di lavoro. Le verifiche delle certificazioni verdi COVID-19 di cui al comma 1 sono effettuate con le modalità indicate dall'articolo 9, comma 10, del decreto-legge n. 52 del 2021. 
+ 2. I datori di lavoro pubblici di cui all'articolo 9-quinquies del decreto-legge n. 52 del 2021, i datori di lavoro privati di cui all'articolo 9-septies del decreto-legge n. 52 del 2021 
+ ((e i responsabili))
+
+ della sicurezza delle strutture in cui si svolge l'attività giudiziaria di cui all'articolo 9-sexies del decreto-legge n. 52 del 2021 
+ ((sono tenuti))
+
+ a verificare il rispetto delle prescrizioni di cui al comma 1 
+ ((del presente articolo))
+
+ per i soggetti sottoposti all'obbligo di vaccinazione di cui all'articolo 4-quater che svolgono la propria attività lavorativa nei rispettivi luoghi di lavoro. Le verifiche delle certificazioni verdi COVID-19 di cui al comma 1 
+ ((del presente articolo))
+
+ sono effettuate con le modalità indicate dall'articolo 9, comma 10, del decreto-legge n. 52 del 2021. 
  
 
- 
- ((3. La verifica del possesso delle certificazioni))
+ 3. La verifica del possesso delle certificazioni verdi COVID-19 di cui al comma 1 da parte dei soggetti sottoposti all'obbligo di vaccinazione di cui all'articolo 4-quater che svolgono la loro attività lavorativa, a qualsiasi titolo, nei luoghi di lavoro è effettuata dai soggetti di cui al comma 2, nonchè dai rispettivi datori di lavoro 
+ ((o da soggetti da essi delegati))
 
- verdi COVID-19 di cui al comma 1 da parte dei soggetti sottoposti all'obbligo di vaccinazione di cui all'articolo 4-quater che svolgono la loro attività lavorativa, a qualsiasi titolo, nei luoghi di lavoro è effettuata dai soggetti di cui al comma 2, nonchè dai rispettivi datori di lavoro. 
- 
-
- 4. I lavoratori di cui ai commi 1, nel caso in cui comunichino di non essere in possesso della certificazione verde COVID-19 di cui al comma 1 o che risultino privi della stessa al momento dell'accesso ai luoghi di lavoro, al fine di tutelare la salute e la sicurezza dei lavoratori nei luoghi di lavoro, sono considerati assenti ingiustificati, senza conseguenze disciplinari e con diritto alla conservazione del rapporto di lavoro, fino alla presentazione della predetta certificazione, e comunque non oltre il 15 giugno 2022. Per i giorni di assenza ingiustificata di cui al primo periodo, non sono dovuti la retribuzione nè altro compenso o emolumento, comunque denominati. Per le imprese, fino al 15 giugno 2022, si applica l'articolo 9-septies, comma 7, del medesimo decreto-legge n. 52 del 2021. 
+ . 
  
 
- 5. è vietato l'accesso dei lavoratori di cui al comma 1 ai luoghi di lavoro in violazione dell'obbligo di cui al predetto comma 1. 
+ 4. I lavoratori 
+ ((di cui al comma 1))
+
+ , nel caso in cui comunichino di non essere in possesso della certificazione verde COVID-19 di cui al comma 1 
+ ((o risultino))
+
+ privi della stessa al momento dell'accesso ai luoghi di lavoro, al fine di tutelare la salute e la sicurezza dei lavoratori nei luoghi di lavoro, sono considerati assenti ingiustificati, senza conseguenze disciplinari e con diritto alla conservazione del rapporto di lavoro, fino alla presentazione della predetta 
+ ((certificazione e, comunque,))
+
+ non oltre il 15 giugno 2022. Per i giorni di assenza ingiustificata di cui al primo periodo, non sono dovuti la retribuzione nè altro compenso o emolumento, comunque denominati. Per le imprese, fino al 15 giugno 2022, si applica l'articolo 9-septies, comma 7, del 
+ ((...))
+
+ decreto-legge n. 52 del 2021. 
+ 
+
+ 5. è vietato l'accesso 
+ ((dei soggetti))
+
+ di cui al comma 1 ai luoghi di lavoro in violazione dell'obbligo di cui al predetto comma 1. 
  
 
  6. La violazione delle disposizioni di cui ai commi 2, 3 e 5 è sanzionata ai sensi dell'articolo 4, commi 1, 3, 5 e 9, del decreto-legge 25 marzo 2020, n. 19, convertito, con modificazioni, dalla legge 22 maggio 2020, n. 35. Resta fermo quanto previsto dall'articolo 2, comma 2-bis, del decreto-legge 16 maggio 2020, n. 33, convertito, con modificazioni, dalla legge 14 luglio 2020, n. 74.
@@ -238,19 +283,40 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. La sanzione di cui al comma 1 si applica anche in caso di inosservanza degli obblighi vaccinali di cui agli articoli 4, 4-bis e 4-ter. 
  
 
- 3. L'irrogazione della sanzione di cui al comma 1, nella misura ivi stabilita, è effettuata dal Ministero della salute per il tramite dell'Agenzia delle entrate-Riscossione, che vi provvede, sulla base degli elenchi dei soggetti inadempienti all'obbligo vaccinale periodicamente predisposti e trasmessi dal medesimo Ministero, anche acquisendo i dati resi disponibili dal Sistema Tessera Sanitaria sui soggetti assistiti dal Servizio Sanitario Nazionale vaccinati per COVID-19, nonchè su quelli per cui non risultano vaccinazioni comunicate dal Ministero della salute al medesimo sistema e, ove disponibili, sui soggetti che risultano esenti dalla vaccinazione. Per la finalità di cui al presente comma, il Sistema Tessera Sanitaria è autorizzato al trattamento delle informazioni su base individuale inerenti alle somministrazioni, acquisite dall'Anagrafe Nazionale Vaccini ai sensi dell'articolo 3, comma 5-ter, del decreto-legge 14 gennaio 2021, n. 2, convertito, con modificazioni, dalla legge 12 marzo 2021, n. 29, nonchè al trattamento dei dati relativi agli esenti acquisiti secondo le modalità definite con il decreto del Presidente del Consiglio dei ministri di cui all'articolo 9-bis, comma 3, del decreto-legge 22 aprile 2021, n. 52, convertito, con modificazioni, dalla legge 17 giugno 2021, n. 87. 
+ 3. L'irrogazione della sanzione di cui al comma 1, nella misura ivi stabilita, è effettuata dal Ministero della salute per il tramite dell'Agenzia delle entrate-Riscossione, che vi provvede, sulla base degli elenchi dei soggetti inadempienti all'obbligo vaccinale periodicamente predisposti e trasmessi dal medesimo Ministero, anche acquisendo i dati resi disponibili dal Sistema Tessera Sanitaria sui soggetti assistiti dal Servizio Sanitario Nazionale vaccinati per COVID-19, nonchè su quelli per cui non risultano vaccinazioni comunicate dal Ministero della salute al medesimo sistema e, ove disponibili, sui soggetti che risultano esenti dalla vaccinazione. Per la finalità di cui al presente comma, il Sistema Tessera Sanitaria è autorizzato al trattamento delle informazioni su base individuale inerenti alle somministrazioni, acquisite dall'Anagrafe Nazionale Vaccini ai sensi dell'articolo 3, comma 5-ter, del decreto-legge 14 gennaio 2021, n. 2, convertito, con modificazioni, dalla legge 12 marzo 2021, n. 29, nonchè al trattamento dei dati relativi agli esenti 
+ ((,))
+
+ acquisiti secondo le modalità definite con il decreto del Presidente del Consiglio dei ministri di cui all'articolo 9-bis, comma 3, del decreto-legge 22 aprile 2021, n. 52, convertito, con modificazioni, dalla legge 17 giugno 2021, n. 87. 
  
 
- 4. Il Ministero della salute, avvalendosi dell'Agenzia delle entrate-Riscossione comunica ai soggetti inadempienti l'avvio del procedimento sanzionatorio e indica ai destinatari il termine perentorio di dieci giorni dalla ricezione, per comunicare all'Azienda sanitaria locale competente per territorio l'eventuale certificazione relativa al differimento o all'esenzione dall'obbligo vaccinale, ovvero altra ragione di assoluta e oggettiva impossibilità. Entro il medesimo termine, gli stessi destinatari danno notizia all'Agenzia delle entrate-Riscossione dell'avvenuta presentazione di tale comunicazione. 
+ 4. Il Ministero della salute, avvalendosi dell'Agenzia delle entrate-Riscossione 
+ ((,))
+
+ comunica ai soggetti inadempienti l'avvio del procedimento sanzionatorio e indica ai destinatari il termine perentorio di dieci giorni dalla ricezione, per comunicare all'Azienda sanitaria locale competente per territorio l'eventuale certificazione relativa al differimento o all'esenzione dall'obbligo vaccinale, ovvero altra ragione di assoluta e oggettiva impossibilità. Entro il medesimo termine, gli stessi destinatari danno notizia all'Agenzia delle entrate-Riscossione dell'avvenuta presentazione di tale comunicazione. 
  
 
  5. L'Azienda sanitaria locale competente per territorio trasmette all'Agenzia delle entrate-Riscossione, nel termine perentorio di dieci giorni dalla ricezione della comunicazione dei destinatari prevista al comma 4, previo eventuale contraddittorio con l'interessato, un'attestazione relativa alla insussistenza dell'obbligo vaccinale o all'impossibilità di adempiervi di cui al comma 4. 
  
 
- 6. L'Agenzia delle entrate-Riscossione, nel caso in cui l'Azienda sanitaria locale competente non confermi l'insussistenza dell'obbligo vaccinale, ovvero l'impossibilità di adempiervi, di cui al comma 4, provvede, in deroga alle disposizioni contenute nella legge 24 novembre 1981, n. 689, e mediante la notifica, ai sensi dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, ed entro centottanta giorni dalla relativa trasmissione, di un avviso di addebito, con valore di titolo esecutivo. Si applicano, in quanto compatibili, le disposizioni dell'articolo 30 del decreto-legge 31 maggio 2010, n. 78, convertito con modificazioni dalla legge 30 luglio 2010, n. 122. 
+ 6. L'Agenzia delle entrate-Riscossione, nel caso in cui l'Azienda sanitaria locale competente non confermi l'insussistenza dell'obbligo vaccinale, ovvero l'impossibilità di adempiervi, di cui al comma 4, provvede, in deroga alle disposizioni contenute nella legge 24 novembre 1981, n. 689, e mediante la notifica, ai sensi dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, 
+ ((entro))
+
+ centottanta giorni dalla relativa trasmissione, di un avviso di addebito, con valore di titolo esecutivo. Si applicano, in quanto compatibili, le disposizioni dell'articolo 30 del decreto-legge 31 maggio 2010, n. 78, convertito 
+ ((, con modificazioni,))
+
+ dalla legge 30 luglio 2010, n. 122. 
  
 
  7. ln caso di opposizione alla sanzione contenuta nell'avviso di cui al comma 6 resta ferma la competenza del Giudice di Pace e l'Avvocatura dello Stato assume il patrocinio dell'Agenzia delle entrate-Riscossione, passivamente legittimata. 
  
 
- 8. Le entrate derivanti dal comma 1 sono periodicamente versate a cura dell'Agenzia delle entrate Riscossione ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnate al Fondo emergenze nazionali di cui all'articolo 44 del decreto legislativo 2 gennaio 2018, n. 1, per il successivo trasferimento alla contabilità speciale di cui all'articolo 122, comma 9, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27.&raquo;.
+ 8. Le entrate derivanti dal comma 1 sono periodicamente versate a cura 
+ ((dell'Agenzia delle entrate-Riscossione))
+
+ ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnate al 
+ ((Fondo per le emergenze nazionali))
+
+ di cui all'articolo 44 del 
+ ((codice della protezione civile, di cui al))
+
+ decreto legislativo 2 gennaio 2018, n. 1, per il successivo trasferimento alla contabilità speciale di cui all'articolo 122, comma 9, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27.&raquo;.
