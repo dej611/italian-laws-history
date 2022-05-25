@@ -201,179 +201,80 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
- 
  1. Nel presente decreto legislativo: 
  
 
  
+ ((a) ABE: Autorità europea di vigilanza (Autorità bancaria europea) istituita dal regolamento (UE) n. 1093/2010 del Parlamento europeo e del Consiglio del 24 novembre 2010))
+
+ ; 
  
 
- 
- a) Autorità di vigilanza europee indica: 
- 
-
- 1) ABE: Autorità bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
- 
-
- 2) AEAP: Autorità europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
- 
-
- 3) AESFEM: Autorità europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
- 
-
- 
- 
-
- 
  b) CAP: indica il decreto legislativo 7 settembre 2005, n. 209, recante il codice delle assicurazioni private; 
  
 
- 
- 
-
- 
  c) Codice dei contratti pubblici: indica il decreto legislativo 18 aprile 2016, n. 50, recante il codice dei contratti pubblici; 
  
 
- 
- 
-
- 
  d) Codice in materia di protezione dei dati personali: indica il decreto legislativo 30 giugno 2003, n. 196; 
  
 
- 
- 
-
- 
  e) CONSOB: indica la Commissione nazionale per le società e la borsa; 
  
 
- 
- 
-
- 
  f) Comitato di sicurezza finanziaria: indica il Comitato di sicurezza finanziaria istituito, con decreto-legge 12 ottobre 2001, n. 369, convertito, con modificazioni, dalla legge 14 dicembre 2001, n. 431, e disciplinato con il decreto legislativo 22 giugno 2007, n. 109, in ottemperanza agli obblighi internazionali assunti dall'Italia nella strategia di contrasto al riciclaggio, al finanziamento del terrorismo e della proliferazione delle armi di distruzione di massa ed all'attività di Paesi che minacciano la pace e la sicurezza internazionale, anche al fine di dare attuazione alle misure di congelamento disposte dalle Nazioni unite e dall'Unione europea; 
  
 
- 
- 
-
- 
  g) decreto relativo ai servizi di pagamento: indica il decreto legislativo 27 gennaio 2010, n. 11, recante attuazione della direttiva 2007/64/CE, relativa ai servizi di pagamento nel mercato interno, recante modifica delle direttive 97/7/CE, 2002/65/CE, 2005/60/CE, 2006/48/CE, e che abroga la direttiva 97/5/CE; 
  
 
- 
- 
-
- 
  h) DIA: indica la Direzione investigativa antimafia; 
  
 
- 
- 
-
- 
  i) DNA: indica la Direzione nazionale antimafia e antiterrorismo; 
  
 
- 
- 
-
- 
  l) Direttiva: indica la direttiva (UE) 2015/849 del Parlamento europeo e del Consiglio del 20 maggio 2015 relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, che modifica il regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio e che abroga la direttiva 2005/60/CE del Parlamento europeo e del Consiglio e la direttiva 2006/70/CE della Commissione, come modificata dalla direttiva (UE) 2018/843, del Parlamento europeo e del Consiglio, del 30 maggio 2018; 
  
 
- 
- 
-
- 
  m) FIU: indica le Financial intelligence unit; 
  
 
- 
- 
-
- 
  n) GAFI: indica il Gruppo di azione finanziaria internazionale; 
  
 
- 
- 
-
- 
  o) IVASS: indica l'Istituto per la vigilanza sulle assicurazioni; 
  
 
- 
- 
-
- 
  p) NSPV: indica il Nucleo speciale di polizia valutaria della Guardia di finanza; 
  
 
- 
- 
-
- 
  q) OAM: indica l'Organismo per la gestione degli elenchi degli agenti in attività finanziaria e dei mediatori creditizi, ai sensi dell'articolo 128-undecies TUB; 
  
 
- 
- 
-
- 
  r) OCF: indica l'organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 1, comma 36 della legge 28 dicembre 2015, n. 208; 
  
 
- 
- 
-
- 
  s) Stato membro: indica lo Stato appartenente all'Unione europea; 
  
 
- 
- 
-
- 
  t) Stato terzo: indica lo Stato non appartenente all'Unione europea; 
  
 
- 
- 
-
- 
  u) TUB: indica il testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385; 
  
 
- 
- 
-
- 
  v) TUF: indica il testo unico in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
  
 
- 
- 
-
- 
  z) TULPS: indica il testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773; 
  
 
- 
- 
-
- 
  aa) UIF: indica l'Unità di informazione finanziaria per l'Italia. 
  
 
  
  
-
- 
-
  
 
  
@@ -469,10 +370,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, 
- ((...))
-
- e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
+ n) dati identificativi: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
  
 
  
