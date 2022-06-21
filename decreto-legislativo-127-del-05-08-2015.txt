@@ -107,22 +107,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Al fine di razionalizzare il procedimento di fatturazione e registrazione, per le cessioni di beni e le prestazioni di servizi effettuate tra soggetti residenti o stabiliti nel territorio dello Stato, e per le relative variazioni, sono emesse esclusivamente fatture elettroniche utilizzando il Sistema di Interscambio e secondo il formato di cui al comma 2. Gli operatori economici possono avvalersi, attraverso accordi tra le parti, di intermediari per la trasmissione delle fatture elettroniche al Sistema di Interscambio, ferme restando le responsabilità del soggetto che effettua la cessione del bene o la prestazione del servizio. Con il medesimo decreto ministeriale di cui al comma 2 potranno essere individuati ulteriori formati della fattura elettronica basati su standard o norme riconosciuti nell'ambito dell'Unione europea. Le fatture elettroniche emesse nei confronti dei consumatori finali sono rese disponibili, su richiesta, a questi ultimi dai servizi telematici dell'Agenzia delle entrate; una copia della fattura elettronica ovvero in formato analogico sarà messa a disposizione direttamente da chi emette la fattura. è comunque facoltà dei consumatori rinunciare alla copia elettronica o in formato analogico della fattura. 
- ((PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36))
-
- . 
- ((PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36))
-
- . (3) (4) 
- ((19))
-
- 
+ 3. Al fine di razionalizzare il procedimento di fatturazione e registrazione, per le cessioni di beni e le prestazioni di servizi effettuate tra soggetti residenti o stabiliti nel territorio dello Stato, e per le relative variazioni, sono emesse esclusivamente fatture elettroniche utilizzando il Sistema di Interscambio e secondo il formato di cui al comma 2. Gli operatori economici possono avvalersi, attraverso accordi tra le parti, di intermediari per la trasmissione delle fatture elettroniche al Sistema di Interscambio, ferme restando le responsabilità del soggetto che effettua la cessione del bene o la prestazione del servizio. Con il medesimo decreto ministeriale di cui al comma 2 potranno essere individuati ulteriori formati della fattura elettronica basati su standard o norme riconosciuti nell'ambito dell'Unione europea. Le fatture elettroniche emesse nei confronti dei consumatori finali sono rese disponibili, su richiesta, a questi ultimi dai servizi telematici dell'Agenzia delle entrate; una copia della fattura elettronica ovvero in formato analogico sarà messa a disposizione direttamente da chi emette la fattura. è comunque facoltà dei consumatori rinunciare alla copia elettronica o in formato analogico della fattura. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36. (3) (4) (19) 
  
 
  
  
  
- 3-bis. I soggetti passivi di cui al comma 3 trasmettono telematicamente all'Agenzia delle entrate i dati relativi alle operazioni di cessione di beni e di prestazione di servizi effettuate e ricevute verso e da soggetti non stabiliti nel territorio dello Stato, salvo quelle per le quali è stata emessa una bolletta doganale e quelle per le quali siano state emesse o ricevute fatture elettroniche secondo le modalità indicate nel comma 3. La trasmissione telematica è effettuata trimestralmente entro la fine del mese successivo al trimestre di riferimento. Con riferimento alle operazioni effettuate a partire dal 1° luglio 2022, i dati di cui al primo periodo sono trasmessi telematicamente utilizzando il Sistema di interscambio secondo il formato di cui al comma 2. Con riferimento alle medesime operazioni: 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 
+ 
+ 3-bis. I soggetti passivi di cui al comma 3 trasmettono telematicamente all'Agenzia delle entrate i dati relativi alle operazioni di cessione di beni e di prestazione di servizi effettuate e ricevute verso e da soggetti non stabiliti nel territorio dello Stato, salvo quelle per le quali è stata emessa una bolletta doganale, quelle per le quali siano state emesse o ricevute fatture elettroniche secondo le modalità indicate nel comma 3, nonchè quelle, purchè di importo non superiore ad euro 5.000 per ogni singola operazione, relative ad acquisti di beni e servizi non rilevanti territorialmente ai fini IVA in Italia ai sensi degli articoli da 7 a 7-octies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La trasmissione telematica è effettuata trimestralmente entro la fine del mese successivo al trimestre di riferimento. Con riferimento alle operazioni effettuate a partire dal 1° luglio 2022, i dati di cui al primo periodo sono trasmessi telematicamente utilizzando il Sistema di interscambio secondo il formato di cui al comma 2. Con riferimento alle medesime operazioni: 
  
 
  
@@ -135,13 +135,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- 
- b) la trasmissione telematica dei dati relativi alle operazioni ricevute da soggetti non stabiliti nel territorio dello Stato è effettuata entro il quindicesimo giorno del mese successivo a quello di ricevimento del documento comprovante l'operazione o di effettuazione dell'operazione. (3) (4) (7) 
+ b) la trasmissione telematica dei dati relativi alle operazioni ricevute da soggetti non stabiliti nel territorio dello Stato è effettuata entro il quindicesimo giorno del mese successivo a quello di ricevimento del documento comprovante l'operazione o di effettuazione dell'operazione.
+
  
 
  
- 
 
+ 
+ ))
  
 
  
@@ -303,22 +304,6 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori, ad eccezione delle cessioni di carburante per autotrazione presso gli impianti stradali di distribuzione, per le quali il comma 920 si applica dal 1° gennaio 2019". 
- 
-
- 
-
- 
- --------------
-
- AGGIORNAMENTO (7)
-
- 
- 
-
- Il D.P.C.M. 27 febbraio 2019 (in G.U. 05/03/2019, n. 54) ha disposto (con l'art. 1, comma 2) che "I dati di cui all'art. 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127, relativi alle operazioni dei mesi di gennaio e febbraio 2019 sono trasmessi all'Agenzia delle entrate entro il 30 aprile 2019". 
- 
-
- Ha inoltre disposto (con l'art. 3, comma 2) che "I soggetti di cui al comma 1 trasmettono all'Agenzia delle entrate i dati di cui all'art. 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127, relativi alle operazioni dei mesi di marzo e aprile 2019 entro il 31 maggio 2019". 
  
 
  
