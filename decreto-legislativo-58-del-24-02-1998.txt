@@ -442,10 +442,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, 
- ((comma 3))
-
- , lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
+ v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, comma 3, lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
  
 
  
@@ -1066,51 +1063,41 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- 
  6-undecies. Nel presente decreto legislativo si intendono per: 
  
 
  
+ ((a) "dispositivo di pubblicazione autorizzato" o "APA": un soggetto quale definito all'articolo 2, paragrafo 1, punto 34), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati))
+
+ ; 
+ 
+
+ b) 
+ ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
+
+ ; 
  
 
  
- a) "dispositivo di pubblicazione autorizzato" o "APA": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a pubblicare i report delle operazioni concluse per conto di imprese di investimento ai sensi degli articoli 20 e 21 del regolamento (UE) n. 600/2014; 
+ ((c) "meccanismo di segnalazione autorizzato" o "ARM": un soggetto quale definito all'articolo 2, paragrafo 1, punto 36), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati))
+
+ ; 
  
 
- 
+ d) 
+ ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
+
+ ; 
  
 
- 
- b) "fornitore di un sistema consolidato di pubblicazione" o "CTP": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a fornire il servizio di raccolta presso mercati regolamentati, sistemi multilaterali di negoziazione, sistemi organizzati di negoziazione e APA dei report delle operazioni concluse per gli strumenti finanziari di cui agli articoli 6, 7, 10, 12, 13, 20 e 21 del regolamento (UE) n 600/2014 e di consolidamento delle suddette informazioni in un flusso elettronico di dati attualizzati in continuo, in grado di fornire informazioni sui prezzi e sul volume per ciascuno strumento finanziario; 
- 
+ e) 
+ ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
 
- 
- 
-
- 
- c) "meccanismo di segnalazione autorizzato" o "ARM": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a segnalare le informazioni di dettaglio sulle operazioni concluse alle autorità competenti o all'AESFEM per conto delle imprese di investimento; 
- 
-
- 
- 
-
- 
- d) "servizi di comunicazione dati": la gestione di un dispositivo di pubblicazione autorizzato (APA) o di un sistema consolidato di pubblicazione (CTP) o di un meccanismo di segnalazione autorizzato (ARM); 
- 
-
- 
- 
-
- 
- e) "fornitore di servizi di comunicazione dati": un APA, un CTP o un ARM. (73) 
+ . 
  
 
  
  
-
- 
-
  
 
  
@@ -1146,16 +1133,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) "Stato membro d'origine di un APA, di un sistema consolidato di pubblicazione o di meccanismo di segnalazione autorizzato": 
- 
+ c) 
+ ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
 
- 1) se il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione è una persona fisica, lo Stato membro in cui tale persona ha la propria direzione generale; 
- 
-
- 2) se il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione è una persona giuridica, lo Stato membro in cui si trova la sua sede legale; 
- 
-
- 3) se, in base al diritto nazionale cui è soggetto, il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione non ha una sede legale, lo Stato membro in cui è situata la sua direzione generale. (73) 
+ . 
  
 
  
