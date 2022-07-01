@@ -1,0 +1,340 @@
+Allegato II 
+ 
+
+ 
+ 
+
+ Esempi indicativi non vincolanti di possibili soluzioni che contribuiscono a soddisfare i requisiti di accessibilità di cui all'Allegato I 
+ 
+
+ 
+ 
+
+ Sezione I 
+ 
+
+ 
+ 
+
+ Esempi di requisiti generali di accessibilità relativi a tutti i prodotti disciplinati dalla presente direttiva ai sensi dell'articolo 2, paragrafo 1 
+ 
+
+ Requisiti di cui alla Sezione I dell'Allegato I 
+ 
+
+ Esempi 
+ 
+
+ 1. Fornitura di informazioni 
+ 
+
+ a) 
+ 
+
+ i) Fornire informazioni visive e tattili oppure visive e uditive indicanti il luogo in cui introdurre una carta in un terminale self-service, affinchè il terminale possa essere usato da non vedenti e non udenti. ii) Utilizzare le stesse parole in modo coerente o secondo una struttura chiara e logica, affinchè possano essere comprese meglio da persone con disabilità intellettuali. 
+ 
+
+ iii) Fornire informazioni in formato a rilievo tattile oppure sonoro oltre a un testo di avvertenza, affinchè i non vedenti possano comprenderle. 
+ 
+
+ iv) Rendere possibile la lettura di un testo da parte di persone con disabilità visive. 
+ 
+
+ b) 
+ 
+
+ i) Fornire file elettronici leggibili da un computer mediante software di lettura dello schermo, affinchè i non vedenti possano utilizzare le informazioni. 
+ 
+
+ ii) Utilizzare le stesse parole in modo coerente o secondo una struttura chiara e logica, affinchè possano essere comprese meglio da persone con disabilità intellettuali. 
+ 
+
+ iii) Mettere a disposizione sottotitoli qualora siano fornite istruzioni video. 
+ 
+
+ iv) Rendere possibile la lettura di un testo da parte di persone con disabilità visive. 
+ 
+
+ v) Fornire la stampa in Braille, affinchè un non vedente possa utilizzare le informazioni. 
+ 
+
+ vi) Integrare un diagramma con una descrizione testuale che identifichi gli elementi principali o descriva le azioni principali. 
+ 
+
+ vii) Nessun esempio 
+ 
+
+ viii) Nessun esempio 
+ 
+
+ ix) Integrare in uno sportello automatico di banca una presa e un software che consentano l'inserimento di cuffie auricolari tramite le quali ricevere sotto forma di suoni il testo visibile a schermo. 
+ 
+
+ Progettazione dell'interfaccia utente e della funzionalità 
+ 
+
+ a) Fornire istruzioni sotto forma di voce o testo oppure integrando segnali tattili in un tastierino per consentire ai non vedenti o ipoudenti di interagire con il prodotto. 
+ 
+
+ b) In un terminale self-service, fornire istruzioni, in aggiunta a quelle vocali, ad esempio sotto forma di testo o immagini per consentire ai non udenti di eseguire l'azione richiesta. 
+ 
+
+ c) Consentire agli utenti di ingrandire il testo, di zumare su uno specifico pittogramma o di aumentare il contrasto affinchè le persone con disabilità visive possano ricevere l'informazione. 
+ 
+
+ d) Oltre a consentire di scegliere se premere il tasto verde o quello rosso per selezionare un'opzione, indicare sui tasti le opzioni disponibili affinchè le persone daltoniche possano operare la scelta. 
+ 
+
+ e) Quando un computer emette un segnale di errore, fornire un testo scritto o un'immagine indicante l'errore, per consentire ai non udenti di accorgersi dell'errore. 
+ 
+
+ f) Consentire un maggiore contrasto nelle immagini dinamiche affinchè le persone ipovedenti possano vederle. 
+ 
+
+ g) Consentire all'utente di un telefono di selezionare il volume del suono e di ridurre l'interferenza con le audioprotesi affinchè le persone ipoudenti possano utilizzare il telefono. 
+ 
+
+ h) Ingrandire i tasti degli schermi tattili e distanziarli tra loro, affinchè possano essere premuti da persone affette da tremore. 
+ 
+
+ i) Garantire che i tasti da premere non richiedano molta forza, affinchè possano essere usati da persone con disabilità motorie. 
+ 
+
+ l) Evitare lo sfarfallamento delle immagini, così da non mettere a rischio le persone suscettibili di crisi epilettiche 
+ 
+
+ m) Consentire l'utilizzo di cuffie auricolari quando uno sportello automatico di banca fornisce informazioni a voce. 
+ 
+
+ n) In alternativa al riconoscimento delle impronte digitali, consentire agli utenti che non possono usare le mani di selezionare una password per bloccare o sbloccare un telefono. 
+ 
+
+ o) Garantire che il software reagisca in modo prevedibile quando si esegue una specifica azione e accordando tempo sufficiente per inserire una password, affinchè sia di facile uso per le persone con disabilità intellettuali. 
+ 
+
+ p) Fornire un collegamento a uno schermo Braille aggiornabile affinchè i non vedenti possano utilizzare il computer. 
+ 
+
+ q) Esempi di requisiti settoriali 
+ 
+
+ i) Nessun esempio 
+ 
+
+ ii) Nessun esempio 
+ 
+
+ iii) Primo trattino 
+ 
+
+ Rendere un telefono cellulare in grado di elaborare conversazioni in tempo reale, affinchè le persone ipoudenti possano scambiare informazioni in modo interattivo. 
+ 
+
+ iv) quarto trattino 
+ 
+
+ Consentire l'uso contemporaneo di video per mostrare la lingua dei segni e il testo per scrivere un messaggio, affinchè due non udenti possano comunicare tra loro oppure con una persona normoudente. 
+ 
+
+ v) Garantire che i sottotitoli siano trasmessi dal set-top box affinchè siano utilizzati dai non udenti. 3. Servizi di sostegno: Nessun esempio 
+ 
+
+ 
+ 
+
+ Sezione II 
+ 
+
+ 
+ 
+
+ Esempi di requisiti di accessibilità relativi ai prodotti di cui all'articolo 1, comma 2, ad eccezione dei terminali self-service di cui all'articolo 1, comma 2, lettera b) 
+ 
+
+ Requisiti di cui alla Sezione II dell'Allegato I 
+ 
+
+ Esempi 
+ 
+
+ Imballaggio e istruzioni relativi ai prodotti 
+ 
+
+ a) Indicare sull'imballaggio che il telefono è dotato di caratteristiche di accessibilità per le persone con disabilità. 
+ 
+
+ b) 
+ 
+
+ i) Fornire file elettronici leggibili da un computer mediante software di lettura dello schermo, affinchè i non vedenti possano utilizzare le informazioni. 
+ 
+
+ ii) Utilizzare le stesse parole in modo coerente o secondo una struttura chiara e logica, affinchè possano essere comprese meglio da persone con disabilità intellettuali. 
+ 
+
+ iii) Fornire informazioni in formato a rilievo tattile oppure sonoro accanto a un testo di avvertenza, affinchè i non vedenti possano comprenderlo. 
+ 
+
+ iv) Rendere possibile la lettura di un testo da parte di persone con disabilità visive. 
+ 
+
+ v) Fornire la stampa in Braille, affinchè un non vedente possa leggere le informazioni. 
+ 
+
+ vi) Integrare un diagramma con una descrizione testuale che identifichi gli elementi principali o descriva le azioni principali. 
+ 
+
+ 
+ 
+
+ Sezione III 
+ 
+
+ 
+ 
+
+ Esempi di requisiti generali di accessibilità relativi ai servizi disciplinati dal presente decreto ai sensi dell'articolo 1, comma 3 
+ 
+
+ Requisiti di cui alla Sezione III dell'Allegato I 
+ 
+
+ Esempi 
+ 
+
+ Fornitura di servizi 
+ 
+
+ a) Nessun esempio 
+ 
+
+ b) 
+ 
+
+ i) Fornire file elettronici leggibili da un computer mediante software di lettura dello schermo, affinchè i non vedenti possano utilizzare le informazioni. 
+ 
+
+ ii) Utilizzare le stesse parole in modo coerente o secondo una struttura chiara e logica, affinchè possano essere comprese meglio da persone con disabilità intellettuali. 
+ 
+
+ iii) Mettere a disposizione sottotitoli qualora siano fornite istruzioni video. 
+ 
+
+ iv) Consentire a un non vedente di usare un file stampandolo in Braille. 
+ 
+
+ v) Rendere possibile la lettura di un testo da parte di persone con disabilità visive. 
+ 
+
+ vi) Integrare un diagramma con una descrizione testuale che identifichi gli elementi principali o descriva le azioni principali. 
+ 
+
+ vii) Se un prestatore di servizi offre una chiavetta USB contenente informazioni sul servizio, rendere accessibili tali informazioni. 
+ 
+
+ c) Fornire una descrizione testuale delle immagini, rendendo tutte le funzionalità disponibili tramite tastiera, lasciando tempo sufficiente per leggere, facendo in modo che il contenuto appaia e operi in modo prevedibile, e garantire la compatibilità con le tecnologie assistive, affinchè persone con disabilità diverse possano leggere e interagire con un sito web. 
+ 
+
+ d) Nessun esempio 
+ 
+
+ 
+ 
+
+ Sezione IV 
+ 
+
+ 
+ 
+
+ Esempi di ulteriori requisiti di accessibilità 
+ 
+
+ per servizi specifici 
+ 
+
+ 
+ 
+
+ Requisiti di cui alla Sezione IV dell'Allegato I 
+ 
+
+ Esempi 
+ 
+
+ Servizi specifici 
+ 
+
+ a) 
+ 
+
+ i) Consentire a una persona ipoudente di scrivere e ricevere un testo in modo interattivo e in tempo reale. 
+ 
+
+ ii) Consentire ai non udenti di usare la lingua dei segni per comunicare tra loro. 
+ 
+
+ iii) Consentire a chi ha un disturbo del linguaggio o dell'udito e sceglie di ricorrere a una combinazione di testo, voce e video di sapere che la comunicazione è trasmessa tramite rete a un servizio di emergenza. 
+ 
+
+ b) 
+ 
+
+ i) Consentire a un non vedente di selezionare programmi alla televisione. 
+ 
+
+ ii) Supportare la possibilità di selezionare, personalizzare e visualizzare i &laquo;servizi di accesso&raquo; quali sottotitoli per non udenti o ipoudenti, audiodescrizione, sottotitoli parlati e interpretazione in lingua dei segni, fornendo strumenti di connessione senza fili efficace a tecnologie uditive o fornendo agli utenti dispositivi di comando per attivare i &laquo;servizi di accesso&raquo; ai servizi di media audiovisivi allo stesso livello dei comandi dei media primari. 
+ 
+
+ c) 
+ 
+
+ i) Nessun esempio 
+ 
+
+ ii) Nessun esempio 
+ 
+
+ d) Nessun esempio 
+ 
+
+ e) 
+ 
+
+ i) Rendere i dialoghi di identificazione su schermo leggibili da software di lettura dello schermo affinchè possano essere usati dai non vedenti. 
+ 
+
+ ii) Nessun esempio 
+ 
+
+ f) 
+ 
+
+ i) Consentire a una persona dislessica di leggere e contemporaneamente ascoltare il testo. 
+ 
+
+ ii) Consentire la fornitura di testo e audio sincronizzati o una trascrizione in Braille aggiornabile. 
+ 
+
+ iii) Consentire a un non vedente di accedere al sommario o cambiare capitolo. 
+ 
+
+ iv) Nessun esempio 
+ 
+
+ v) Garantire che il file elettronico contenga informazioni sulle relative caratteristiche di accessibilità, in modo che le persone con disabilità possano esserne informate. 
+ 
+
+ vi) Garantire che non vi sia blocco, ad esempio che misure tecniche di protezione, informazioni sul regime dei diritti o questioni di interoperabilità non impediscano la lettura ad alta voce del testo ad opera di dispositivi assistivi, in modo tale che gli utenti non vedenti possano leggere il libro. 
+ 
+
+ g) 
+ 
+
+ i) Garantire che le informazioni disponibili sulle caratteristiche di accessibilità di un prodotto non siano cancellate. 
+ 
+
+ ii) Rendere l'interfaccia utente per il servizio di pagamento disponibile a voce, affinchè i non vedenti possano effettuare acquisti online in modo indipendente. 
+ 
+
+ iii) Rendere i dialoghi di identificazione su schermo leggibili da software di lettura dello schermo affinchè possano essere usati dai non vedenti.

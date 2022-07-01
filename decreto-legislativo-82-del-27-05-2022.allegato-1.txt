@@ -1,0 +1,481 @@
+Allegato I 
+ 
+
+ 
+ 
+
+ Requisiti di accessibilità per prodotti e servizi 
+ 
+
+ 
+ 
+
+ Sezione I 
+ 
+
+ 
+ 
+
+ Requisiti generali di accessibilità relativi ai prodotti disciplinati dal presente decreto ai sensi dell'articolo 1, comma 2 
+ 
+
+ I prodotti devono essere progettati e realizzati in modo da ottimizzarne l'uso prevedibile da parte di persone con disabilità e devono essere accompagnati, se possibile mediante indicazione al loro interno o su di essi, da informazioni accessibili sul loro funzionamento e sulle loro caratteristiche di accessibilità. 
+ 
+
+ Requisiti relativi alla fornitura di informazioni: 
+ 
+
+ a) le informazioni sull'uso del prodotto riportate sul prodotto stesso (etichettatura, istruzioni e avvertenze) devono essere: 
+ 
+
+ i) rese disponibili attraverso più di un canale sensoriale; 
+ 
+
+ ii) presentate in modo comprensibile; 
+ 
+
+ iii) presentate agli utenti in modalità percepibili; 
+ 
+
+ iv) presentate in caratteri di dimensioni e forme idonee, tenendo conto delle condizioni d'uso prevedibili e usando un contrasto sufficiente nonchè una spaziatura regolabile tra lettere, righe e paragrafi; 
+ 
+
+ b) le istruzioni per l'uso del prodotto, qualora non riportate sul prodotto stesso, ma rese disponibili durante l'uso del prodotto o mediante altri mezzi come un sito web, comprese le funzioni di accessibilità del prodotto, le modalità per la loro attivazione e la loro interoperabilità con le soluzioni assistive, devono essere disponibili pubblicamente quando il prodotto è immesso sul mercato e devono: 
+ 
+
+ i) essere rese disponibili attraverso più di un canale sensoriale; 
+ 
+
+ ii) essere presentate in modo comprensibile; 
+ 
+
+ iii) essere presentate agli utenti in modalità percepibili; 
+ 
+
+ iv) essere presentate in caratteri di dimensioni e forme idonee, tenendo conto delle condizioni d'uso prevedibili e usando un contrasto sufficiente nonchè una spaziatura regolabile tra lettere, righe e paragrafi; 
+ 
+
+ v) essere rese disponibili, con riferimento al contenuto, in formati testuali utilizzabili per la produzione di formati assistivi alternativi fruibili in modi diversi e attraverso più di un canale sensoriale; 
+ 
+
+ vi) essere accompagnate da una presentazione alternativa di eventuale contenuto non testuale; 
+ 
+
+ vii) includere una descrizione dell'interfaccia utente del prodotto (gestione, comando e feedback, input e output), che è fornita conformemente al punto 2; per ognuno dei punti di cui al punto 2 la descrizione deve indicare se il prodotto presenta tali caratteristiche; 
+ 
+
+ viii) includere una descrizione della funzionalità del prodotto, messa a disposizione con funzioni volte a rispondere alle esigenze delle persone con disabilità conformemente al punto 2; per ognuno dei punti di cui al punto 2 la descrizione deve indicare se il prodotto presenta tali caratteristiche; 
+ 
+
+ ix) includere una descrizione di come il software e l'hardware del prodotto si interfacciano con i dispositivi assistivi; la descrizione deve includere un elenco dei dispositivi assistivi che sono stati testati unitamente al prodotto. 
+ 
+
+ Progettazione interfaccia utente e funzionalità: 
+ 
+
+ il prodotto, compresa la sua interfaccia utente, presenta caratteristiche, elementi e funzioni che consentono alle persone con disabilità l'accesso, la percezione, l'utilizzo, la comprensione e il comando del prodotto facendo in modo che: 
+ 
+
+ a) qualora consenta la comunicazione, compresi la comunicazione interpersonale, l'utilizzo, l'informazione, il comando e l'orientamento, il prodotto utilizzi più di un canale sensoriale, anche offrendo alternative ai canali visivo, uditivo, vocale e tattile; 
+ 
+
+ b) qualora utilizzi il canale vocale, il prodotto renda disponibili alternative alla parola e all'intervento vocale per la comunicazione, l'utilizzo, il comando e l'orientamento; 
+ 
+
+ c) qualora utilizzi elementi visivi, il prodotto renda disponibili ingrandimento, luminosità e contrasto flessibili per la comunicazione, l'informazione e l'utilizzo, oltre a garantire l'interoperabilità con programmi e dispositivi assistivi per navigare nell'interfaccia; 
+ 
+
+ d) qualora utilizzi colori per trasmettere informazioni, indicare un'azione, richiedere una risposta o individuare elementi, il prodotto renda disponibile un'alternativa ai colori; 
+ 
+
+ e) qualora utilizzi segnali acustici per trasmettere informazioni, indicare un'azione, richiedere una risposta o individuare elementi, il prodotto renda disponibile un'alternativa ai segnali acustici; 
+ 
+
+ f) qualora utilizzi elementi visivi, il prodotto renda disponibili modalità flessibili per migliorare la chiarezza dell'immagine; 
+ 
+
+ g) qualora utilizzi l'audio, il prodotto renda disponibili all'utente il controllo del volume e della velocità e migliori caratteristiche audio, comprese la riduzione di segnali acustici provenienti da prodotti nelle vicinanze che fanno interferenza, nonchè la chiarezza del suono; 
+ 
+
+ h) qualora richieda un utilizzo e un comando manuali, il prodotto renda disponibili il comando sequenziale e alternative al controllo della motricità fine, evitando i comandi simultanei per la manipolazione, e utilizzi parti riconoscibili al tatto; 
+ 
+
+ i) il prodotto non presenti modalità di funzionamento che richiedono una grande estensione e molta forza; 
+ 
+
+ l) il prodotto non scateni crisi di epilessia fotosensibile; 
+ 
+
+ m) il prodotto tuteli la riservatezza dell'utente durante l'utilizzo delle caratteristiche di accessibilità; 
+ 
+
+ n) il prodotto offra un'alternativa all'identificazione e al comando biometrici; 
+ 
+
+ o) il prodotto garantisca la coerenza della funzionalità e conceda tempo sufficiente e flessibile per l'interazione; 
+ 
+
+ p) il prodotto renda disponibile software e hardware che si interfaccino con i dispositivi assistivi; 
+ 
+
+ q) il prodotto sia conforme ai requisiti settoriali seguenti: 
+ 
+
+ i) i terminali self-service: 
+ 
+
+ offrono la tecnologia di sintesi vocale (text-to-speech); 
+ 
+
+ consentono l'utilizzo di cuffie auricolari personali; 
+ 
+
+ qualora il tempo di risposta sia limitato, allertano l'utente attraverso più di un canale sensoriale; 
+ 
+
+ prevedono la possibilità di prolungare il tempo assegnato; 
+ 
+
+ dispongono di un adeguato contrasto e di eventuali tasti e comandi riconoscibili a livello tattile; 
+ 
+
+ non prevedono l'attivazione di una caratteristica di accessibilità per permetterne l'accensione all'utente che ne ha bisogno; 
+ 
+
+ se il prodotto utilizza audio o segnali acustici, deve essere compatibile con dispositivi e tecnologie assistivi disponibili a livello dell'Unione, comprese le tecnologie uditive quali audioprotesi, telecoil, impianti cocleari e dispositivi assistivi per l'udito; 
+ 
+
+ ii) i lettori di libri elettronici (e-book) offrono la tecnologia di sintesi vocale (text-to-speech); 
+ 
+
+ iii) le apparecchiature terminali con capacità informatiche interattive per consumatori utilizzate per la fornitura di servizi di comunicazione elettronica: 
+ 
+
+ consentono l'elaborazione di testo in tempo reale qualora tali prodotti dispongano della capacità testuale oltre a quella vocale e supportano un audio ad alta fedeltà; 
+ 
+
+ consentono, quando dispongono di capacità video in aggiunta a testo e voce o in combinazione con questi ultimi, il ricorso alla conversazione globale, compresi voce sincronizzata, testo in tempo reale e video, con una risoluzione che consenta la comunicazione mediante la lingua dei segni; 
+ 
+
+ consentono la connessione senza fili efficace a tecnologie uditive; 
+ 
+
+ non interferiscono con i dispositivi assistivi. 
+ 
+
+ iv) le apparecchiature terminali con capacità informatiche interattive per consumatori utilizzate per accedere a servizi di media audiovisivi mettono a disposizione delle persone con disabilità gli elementi di accessibilità offerti dal fornitore di servizi di media audiovisivi per l'accesso, la selezione, il comando e la personalizzazione da parte dell'utente e per la trasmissione ai dispositivi assistivi. 
+ 
+
+ Servizi di assistenza: 
+ 
+
+ se disponibili, i servizi di assistenza (sportelli di assistenza, centri di assistenza telefonica, assistenza tecnica, servizi di ritrasmissione e servizi di formazione) forniscono informazioni circa l'accessibilità dei prodotti e la loro compatibilità con le tecnologie assistive, in modi di comunicazione accessibili. 
+ 
+
+ 
+ 
+
+ Sezione II 
+ 
+
+ 
+ 
+
+ Requisiti generali di accessibilità relativi ai prodotti disciplinati dal presente decreto ai sensi dell'articolo 1, comma 2 
+ 
+
+ In aggiunta ai requisiti della sezione I, l'imballaggio e le istruzioni relativi ai prodotti contemplati dalla presente sezione devono essere resi accessibili, al fine di ottimizzarne l'uso prevedibile da parte di persone con disabilità, devono essere resi accessibili. Ciò implica che: 
+ 
+
+ a) le informazioni sull'imballaggio del prodotto, comprese le informazioni ivi riportate (ad esempio apertura e chiusura, uso, smaltimento) e, se fornite, quelle relative alle caratteristiche di accessibilità del prodotto siano rese accessibili e, ove possibile, tali informazioni accessibili siano riportate sull'imballaggio; 
+ 
+
+ b) le istruzioni per l'installazione, la manutenzione, lo stoccaggio e lo smaltimento del prodotto, che non sono rese disponibili sul prodotto stesso ma tramite altri mezzi, quali un sito web, siano rese pubblicamente disponibili quando il prodotto è immesso sul mercato e rispettino i requisiti seguenti: i) essere disponibili attraverso più di un canale sensoriale; 
+ 
+
+ ii) essere presentate in modo comprensibile; 
+ 
+
+ iii) essere presentate agli utenti in modalità percepibili; 
+ 
+
+ iv) essere presentate in caratteri di dimensioni e forme idonee, tenendo conto delle condizioni d'uso prevedibili e usando un contrasto sufficiente nonchè una spaziatura regolabile tra lettere, righe e paragrafi; 
+ 
+
+ v) avere un contenuto disponibile in formati testuali utilizzabili per la produzione di formati assistivi alternativi fruibili in modi diversi e attraverso più di un canale sensoriale, vi) ove presentino elementi dal contenuto non testuale, essere accompagnate da una presentazione alternativa di tale contenuto 
+ 
+
+ 
+ 
+
+ Sezione III 
+ 
+
+ 
+ 
+
+ Requisiti generali di accessibilità relativi ai servizi disciplinati dal presente decreto ai sensi dell'articolo 1, comma 3 
+ 
+
+ La fornitura dei servizi, al fine di ottimizzarne l'uso prevedibile da parte di persone con disabilità, deve essere realizzata: 
+ 
+
+ a) garantendo l'accessibilità dei prodotti utilizzati per la fornitura del servizio in conformità della sezione I e, se del caso, della sezione II del presente allegato; 
+ 
+
+ b) fornendo informazioni in merito al funzionamento del servizio e, nel caso in cui siano utilizzati prodotti nella fornitura del servizio, al suo collegamento con tali prodotti nonchè informazioni sulle loro caratteristiche di accessibilità e sull'interoperabilità con le strutture e i dispositivi assistivi: 
+ 
+
+ i) rendendo le informazioni disponibili attraverso più di un canale sensoriale; 
+ 
+
+ ii) presentando le informazioni in modo comprensibile; 
+ 
+
+ iii) presentando le informazioni agli utenti in modalità percepibili; 
+ 
+
+ iv) rendendo il contenuto delle informazioni disponibile in formati testuali utilizzabili per la produzione di formati assistivi alternativi fruibili in modi diversi dall'utente e attraverso più di un canale sensoriale; 
+ 
+
+ v) presentando caratteri di dimensioni e forme idonee, tenendo conto delle condizioni d'uso prevedibili e usando un contrasto sufficiente nonchè una spaziatura regolabile tra lettere, righe e paragrafi; 
+ 
+
+ vi) integrando eventuale contenuto non testuale con una presentazione alternativa di tale contenuto; 
+ 
+
+ e vii) rendendo disponibili le informazioni elettroniche, necessarie per la fornitura del servizio, in modo coerente e adeguato, facendo in modo che siano percepibili, utilizzabili, comprensibili e solide; 
+ 
+
+ c) rendendo i siti web, comprese le applicazioni online e i servizi per dispositivi mobili correlati - tra cui le applicazioni mobili - accessibili in modo coerente e adeguato, facendo in modo che siano percepibili, utilizzabili, comprensibili e solidi; 
+ 
+
+ d) se disponibili, tramite servizi di assistenza (sportelli di assistenza, centri di assistenza telefonica, assistenza tecnica, servizi di ritrasmissione e servizi di formazione) che forniscono informazioni circa l'accessibilità dei servizi e la loro compatibilità con le tecnologie assistive, in modi di comunicazione accessibili. 
+ 
+
+ 
+ 
+
+ Sezione IV 
+ 
+
+ 
+ 
+
+ Ulteriori requisiti di accessibilità 
+ 
+
+ relativi a servizi specifici 
+ 
+
+ 
+ 
+
+ La fornitura dei servizi, al fine di ottimizzarne l'uso prevedibile da parte di persone con disabilità, deve essere realizzata includendo funzioni, prassi, strategie e procedure, nonchè modifiche al funzionamento del servizio, mirate a rispondere alle esigenze delle persone con disabilità e a garantire l'interoperabilità con le tecnologie assistive: 
+ 
+
+ a) Servizi di comunicazione elettronica, tra cui le comunicazioni di emergenza di cui all'articolo 109, paragrafo 2, della direttiva (UE) 2018/1972: 
+ 
+
+ i) rendere disponibile un testo in tempo reale oltre alla comunicazione vocale; 
+ 
+
+ ii) consentire la conversazione globale qualora sia offerto il video in aggiunta alla comunicazione vocale; 
+ 
+
+ iii) fare in modo che le comunicazioni di emergenza che utilizzano voce e testo (compreso testo in tempo reale) siano sincronizzate e che, qualora sia offerto il video, siano altresì sincronizzate come conversazione globale e trasmesse dal fornitore del servizio di comunicazione elettronica allo PSAP più idoneo. 
+ 
+
+ b) Servizi che forniscono accesso ai servizi di media audiovisivi: 
+ 
+
+ i) fornire guide elettroniche ai programmi (electronic programme guides - EPG) che siano percepibili, utilizzabili, comprensibili e solide e offrano informazioni sulla disponibilità di accessibilità; 
+ 
+
+ ii) fare in modo che gli elementi di accessibilità (servizi di accesso) dei servizi di media audiovisivi, quali i sottotitoli per non udenti e ipoudenti, l'audio-descrizione, i sottotitoli parlati e l'interpretazione in lingua dei segni, siano trasmessi interamente con una qualità adeguata a una visualizzazione precisa e sincronizzati con suono e video, consentendo nel contempo il controllo della loro visualizzazione e del loro utilizzo da parte dell'utente. 
+ 
+
+ c) Servizi di trasporto passeggeri aerei, con autobus, ferroviari e per vie navigabili, ivi compresi i servizi di trasporto urbani ed extraurbani e dei servizi di trasporto regionali: 
+ 
+
+ i) garantire la fornitura di informazioni sull'accessibilità dei veicoli, delle infrastrutture circostanti, e sull'ambiente costruito e sull'assistenza per le persone con disabilità. 
+ 
+
+ ii) garantire la fornitura di informazioni sui sistemi di biglietteria intelligente (prenotazione elettronica, prenotazione di biglietti ecc.), informazioni di viaggio in tempo reale (orari, informazioni su perturbazioni del traffico, servizi di collegamento, connessioni con altri mezzi di trasporto ecc.) e ulteriori informazioni sui servizi (ad esempio, personale delle stazioni, ascensori guasti o servizi temporaneamente indisponibili). 
+ 
+
+ d) Servizi bancari per consumatori: 
+ 
+
+ i) fornire metodi di identificazione, firme elettroniche, sicurezza e servizi di pagamento che siano percepibili, utilizzabili, comprensibili e solidi; 
+ 
+
+ ii) fare in modo che le informazioni siano comprensibili, con un grado di complessità limitato al livello B2 (intermedio avanzato) del Quadro comune europeo di riferimento per le lingue del Consiglio d'Europa. 
+ 
+
+ e) Libri elettronici (e-book): 
+ 
+
+ i) garantire che il libro elettronico, qualora contenga audio in aggiunta al testo, renda disponibili testo e audio sincronizzati; 
+ 
+
+ ii) garantire che i file digitali del libro elettronico non impediscano alla tecnologia assistiva di funzionare correttamente; 
+ 
+
+ iii) garantire l'accesso al contenuto, la navigazione all'interno del contenuto e dell'impostazione grafica del file, compresa l'impostazione grafica dinamica, l'offerta di struttura, flessibilità e possibilità di scelta nella presentazione del contenuto. 
+ 
+
+ iv) consentire riproduzioni alternative del contenuto e la sua interoperabilità con una serie di tecnologie assistive in modo che esso sia percepibile, utilizzabile, comprensibile e solido; 
+ 
+
+ v) consentirne la scoperta fornendo informazioni mediante metadati sulle loro caratteristiche di accessibilità; 
+ 
+
+ vi) garantire che le misure relative alla gestione dei diritti digitali (DRM) non blocchino le caratteristiche di accessibilità. 
+ 
+
+ f) Servizi di commercio elettronico: 
+ 
+
+ i) fornire le informazioni riguardanti l'accessibilità dei prodotti e dei servizi venduti qualora tali informazioni siano fornite dall'operatore economico responsabile; 
+ 
+
+ ii) garantire l'accessibilità della funzionalità per l'identificazione, la sicurezza e il pagamento qualora sia fornita come parte del servizio anzichè di un prodotto, rendendola percepibile, utilizzabile, comprensibile e solida; 
+ 
+
+ iii) fornire metodi di identificazione, firme elettroniche e servizi di pagamento che siano percepibili, utilizzabili, comprensibili e solidi. 
+ 
+
+ 
+ 
+
+ Sezione V 
+ 
+
+ 
+ 
+
+ Specifici requisiti di accessibilità relativi alla raccolta delle comunicazioni si emergenza effettuate verso il numero unico di emergenza europeo &laquo;112&raquo; da parte dello PSAP più idoneo 
+ 
+
+ Al fine di ottimizzarne l'uso prevedibile da parte di persone con disabilità, la raccolta delle comunicazioni di emergenza effettuate verso il numero unico di emergenza europeo &laquo;112&raquo; da parte dello PSAP più idoneo è realizzata includendo funzioni, prassi, strategie, procedure e modifiche mirate a rispondere alle esigenze delle persone con disabilità. 
+ 
+
+ Le comunicazioni di emergenza effettuate verso il numero unico di emergenza europeo &laquo;112&raquo; ricevono adeguata risposta, nel modo che più si adatta all'organizzazione nazionale dei sistemi di emergenza, presso lo PSAP più idoneo, utilizzando gli stessi mezzi di comunicazione utilizzati dal richiedente, vale a dire mediante voce sincronizzata e testo (compreso testo in tempo reale), o, qualora sia offerto il video, voce, testo (compreso testo in tempo reale) e video sincronizzati come conversazione globale. 
+ 
+
+ 
+ 
+
+ Sezione VI 
+ 
+
+ 
+ 
+
+ Requisiti di accessibilità relativi a caratteristiche, elementi o funzioni di prodotti e servizi ai sensi dell'articolo 22 
+ 
+
+ La presunzione di conformità ai pertinenti obblighi stabiliti in altri atti dell'Unione per quanto riguarda le caratteristiche, gli elementi o le funzioni dei prodotti e dei servizi prevede i requisiti seguenti: 
+ 
+
+ 1. Prodotti: 
+ 
+
+ a) l'accessibilità delle informazioni riguardanti il funzionamento e le caratteristiche di accessibilità relative ai prodotti è conforme agli elementi corrispondenti di cui alla sezione I, punto 1, del presente allegato, vale a dire le informazioni sull'uso del prodotto riportate sul prodotto stesso e le istruzioni per l'uso del prodotto non riportate sul prodotto stesso ma rese disponibili durante l'uso del prodotto o mediante altri mezzi come un sito web; 
+ 
+
+ b) l'accessibilità delle caratteristiche, degli elementi e delle funzioni della progettazione dell'interfaccia utente e della funzionalità dei prodotti è conforme ai corrispondenti requisiti di accessibilità di tale progettazione dell'interfaccia utente o della funzionalità, ai sensi della sezione I, punto 2, del presente allegato; 
+ 
+
+ c) l'accessibilità dell'imballaggio, comprese le informazioni ivi indicate e le istruzioni ai fini dell'installazione, della manutenzione, dello stoccaggio e dello smaltimento del prodotto che non sono riportate sul prodotto stesso ma rese disponibili attraverso altri mezzi come un sito web, ad eccezione dei terminali self-service, è conforme ai corrispondenti requisiti di accessibilità di cui alla sezione II del presente allegato. 
+ 
+
+ 2. Servizi: l'accessibilità delle caratteristiche, degli elementi e delle funzioni dei servizi è conforme ai corrispondenti requisiti di accessibilità per tali caratteristiche, elementi e funzioni indicati nelle sezioni relative ai servizi del presente allegato. 
+ 
+
+ 
+ 
+
+ Sezione VII 
+ 
+
+ 
+ 
+
+ Criteri funzionali di prestazione 
+ 
+
+ 
+ 
+
+ Al fine di ottimizzare l'uso prevedibile da parte di persone con disabilità, qualora i requisiti di accessibilità di cui alle sezioni da I a VI del presente allegato non riguardino una o più funzioni della progettazione e della produzione dei prodotti o della fornitura di servizi, tali funzioni o mezzi sono resi accessibili in linea con i relativi criteri funzionali di prestazione. 
+ 
+
+ Se i requisiti di accessibilità includono requisiti tecnici specifici, è possibile applicare i criteri funzionali di prestazione in alternativa a uno o più requisiti tecnici specifici solo ed esclusivamente se l'applicazione dei criteri funzionali di prestazione pertinenti è conforme ai requisiti di accessibilità ed è stabilito che la progettazione e la produzione dei prodotti e la fornitura dei servizi comportano un livello di accessibilità equivalente o superiore con riguardo all'uso prevedibile da parte di persone con disabilità. 
+ 
+
+ a) Utilizzo non visivo 
+ 
+
+ Qualora offra modalità di funzionamento visive, il prodotto o servizio prevede almeno una modalità di funzionamento che non richieda la vista. 
+ 
+
+ b) Utilizzo con una visione limitata 
+ 
+
+ Qualora offra modalità di funzionamento visive, il prodotto o servizio prevede almeno una modalità di funzionamento che consenta agli utenti ipovedenti di utilizzare il prodotto. 
+ 
+
+ c) Utilizzo senza percezione di colore 
+ 
+
+ Qualora offra modalità di funzionamento visive, il prodotto o servizio prevede almeno una modalità di funzionamento che non richieda la percezione del colore da parte dell'utente. 
+ 
+
+ d) Utilizzo non uditivo 
+ 
+
+ Qualora offra modalità di funzionamento uditive, il prodotto o servizio prevede almeno una modalità di funzionamento che non richieda l'udito. 
+ 
+
+ e) Utilizzo con ascolto limitato 
+ 
+
+ Qualora offra modalità di funzionamento uditive, il prodotto o servizio prevede almeno una modalità di funzionamento con caratteristiche audio migliorate che consenta all'utente con ridotta capacità uditiva di far funzionare il prodotto. 
+ 
+
+ f) Utilizzo senza capacità vocale 
+ 
+
+ Qualora richieda un intervento vocale da parte dell'utente, il prodotto o servizio prevede almeno una modalità di funzionamento che non lo richieda. Un intervento vocale include qualsiasi tipo di suono orale quali parole, fischi o clic. 
+ 
+
+ g) Utilizzo con manipolazione o sforzo limitati 
+ 
+
+ Qualora richieda interventi manuali, il prodotto o servizio prevede almeno una modalità di funzionamento che consenta agli utenti di utilizzare il prodotto tramite modalità alternative di funzionamento che non richiedano il controllo della motricità fine, la manipolazione, la forza della mano o il funzionamento di più di un controllo contemporaneamente. 
+ 
+
+ h) Utilizzo con ampiezza di movimento limitata 
+ 
+
+ Gli elementi funzionali dei prodotti devono essere alla portata di tutti gli utenti. Qualora offra modalità di funzionamento manuali, il prodotto o servizio prevede almeno una modalità di funzionamento accessibile agli utenti con forza limitata e difficoltà nei movimenti ampi. 
+ 
+
+ i) Riduzione al minimo del rischio di scatenare crisi di epilessia fotosensibile 
+ 
+
+ Qualora offra modalità di funzionamento visive, il prodotto evita modalità di funzionamento che possano scatenare crisi di epilessia fotosensibile. 
+ 
+
+ l) Utilizzo con capacità cognitive limitate 
+ 
+
+ Il prodotto o servizio prevede almeno una modalità di funzionamento con funzionalità che ne semplifichino e ne facilitino l'utilizzo. 
+ 
+
+ m) Riservatezza 
+ 
+
+ Qualora includa funzionalità che garantiscono l'accessibilità, il prodotto o servizio prevede almeno una modalità di funzionamento che tuteli la riservatezza al momento dell'utilizzo di dette funzionalità.
