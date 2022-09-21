@@ -4100,3 +4100,271 @@ Tabella 2
 
  
  Totale Sicilia e Sardegna 100.000.000,00
+((Tabella A 
+ 
+
+ (articolo 9-ter, comma 1, lettera a) ) 
+ 
+
+ 
+ 
+ 
+ BA0250 B.1.A.4) Prodotti dietetici 
+ 
+
+ 
+ BA0270 B.1.A.6) Prodotti chimici 
+ 
+
+ 
+ BA0280 B.1.A.7) Materiali e prodotti per uso veterinario 
+ 
+
+ 
+ BA0290 B.1.A.8) Altri beni e prodotti sanitari 
+ 
+
+ 
+ BA0320 B.1.B.1) Prodotti alimentari 
+ 
+
+ 
+ BA0330 B.1.B.2) Materiali di guardaroba, di pulizia e di convivenza in genere 
+ 
+
+ 
+ BA0340 B.1.B.3) Combustibili, carburanti e lubrificanti 
+ 
+
+ 
+ BA0350 B.1.B.4) Supporti informatici e cancelleria 
+ 
+
+ 
+ BA0360 B.1.B.5) Materiale per la manutenzione 
+ 
+
+ 
+ BA0370 B.1.B.6) Altri beni e prodotti non sanitari 
+ 
+
+ 
+ BA1130 B.2.A.11.4) Acquisto prestazioni di trasporto sanitario da privato 
+ 
+
+ 
+ BA1310 B.2.A.14.3) Contributi a società partecipate e/o enti dipendenti della Regione 
+ 
+
+ 
+ BA1370 B.2.A.15.2) Consulenze sanitarie e sociosanit. da terzi - Altri soggetti pubblici 
+ 
+
+ 
+ BA1390 B.2.A.15.3.A) Consulenze sanitarie da privato - articolo 55, comma 2, CCNL 8 giugno 2000 
+ 
+
+ 
+ BA1400 B.2.A.15.3.B) Altre consulenze sanitarie e sociosanitarie da privato 
+ 
+
+ 
+ BA1410 B.2.A.15.3.C) Collaborazioni coordinate e continuative sanitarie e socios. da privato 
+ 
+
+ 
+ BA1430 B.2.A.15.3.E) Lavoro interinale - area sanitaria 
+ 
+
+ 
+ BA1440 B.2.A.15.3.F) Altre collaborazioni e prestazioni di lavoro - area sanitaria 
+ 
+
+ 
+ BA1510 B.2.A.16.2) Altri servizi sanitari e sociosanitari a rilevanza sanitaria da pubblico - Altri soggetti pubblici della Regione 
+ 
+
+ 
+ BA1530 B.2.A.16.4) Altri servizi sanitari da privato 
+ 
+
+ 
+ BA1580 B.2.B.1.1) Lavanderia 
+ 
+
+ 
+ BA1590 B.2.B.1.2) Pulizia 
+ 
+
+ 
+ BA1600 B.2.B.1.3) Mensa 
+ 
+
+ 
+ BA1610 B.2.B.1.4) Riscaldamento 
+ 
+
+ 
+ BA1620 B.2.B.1.5) Servizi di assistenza informatica 
+ 
+
+ 
+ BA1630 B.2.B.1.6) Servizi trasporti (non sanitari) 
+ 
+
+ 
+ BA1640 B.2.B.1.7) Smaltimento rifiuti 
+ 
+
+ 
+ BA1650 B.2.B.1.8) Utenze telefoniche 
+ 
+
+ 
+ BA1660 B.2.B.1.9) Utenze elettricità 
+ 
+
+ 
+ BA1670 B.2.B.1.10) Altre utenze 
+ 
+
+ 
+ BA1690 B.2.B.1.11.A) Premi di assicurazione - R.C. Professionale 
+ 
+
+ 
+ BA1700 B.2.B.1.11.B) Premi di assicurazione - Altri premi assicurativi 
+ 
+
+ 
+ BA1730 B.2.B.1.12.B) Altri servizi non sanitari da altri soggetti pubblici 
+ 
+
+ 
+ BA1740 B.2.B.1.12.C) Altri servizi non sanitari da privato 
+ 
+
+ 
+ BA1770 B.2.B.2.2) Consulenze non sanitarie da Terzi - Altri soggetti pubblici 
+ 
+
+ 
+ BA1790 B.2.B.2.3.A) Consulenze non sanitarie da privato 
+ 
+
+ 
+ BA1800 B.2.B.2.3.B) Collaborazioni coordinate e continuative non sanitarie da privato 
+ 
+
+ 
+ BA1820 B.2.B.2.3.D) Lavoro interinale - area non sanitaria 
+ 
+
+ 
+ BA1830 B.2.B.2.3.E) Altre collaborazioni e prestazioni di lavoro - area non sanitaria 
+ 
+
+ 
+ BA1890 B.2.B.3.1) Formazione (esternalizzata e non) da pubblico 
+ 
+
+ 
+ BA1900 B.2.B.3.2) Formazione (esternalizzata e non) da privato 
+ 
+
+ 
+ BA1920 B.3.A) Manutenzione e riparazione ai fabbricati e loro pertinenze 
+ 
+
+ 
+ BA1930 B.3.B) Manutenzione e riparazione agli impianti e macchinari 
+ 
+
+ 
+ BA1940 B.3.C) Manutenzione e riparazione alle attrezzature sanitarie e scientifiche 
+ 
+
+ 
+ BA1950 B.3.D) Manutenzione e riparazione ai mobili e arredi 
+ 
+
+ 
+ BA1960 B.3.E) Manutenzione e riparazione agli automezzi 
+ 
+
+ 
+ BA1970 B.3.F) Altre manutenzioni e riparazioni 
+ 
+
+ 
+ BA2000 B.4.A) Fitti passivi 
+ 
+
+ 
+ BA2020 B.4.B.1) Canoni di noleggio - area sanitaria 
+ 
+
+ 
+ BA2030 B.4.B.2) Canoni di noleggio - area non sanitaria 
+ 
+
+ 
+ BA2050 B.4.C.1) Canoni di leasing - area sanitaria 
+ 
+
+ 
+ BA2060 B.4.C.2) Canoni di leasing - area non sanitaria 
+ 
+
+ 
+ BA2540 B.9.C.1) Indennità, rimborso spese e oneri sociali per gli Organi Direttivi e Collegio Sindacale 
+ 
+
+ 
+ BA2550 B.9.C.2) Altri oneri diversi di gestione 
+ 
+
+ 
+ 
+
+ ))
+((Tabella B 
+ 
+
+ (articolo 9-duodecies, comma 3) 
+ 
+
+ 
+ 
+ 
+ Aumento % tariffe per anno 2016 2017 2018 A decorrere 2019 
+ 
+
+ 
+ 5% su informazione scientifica 0,0% 0,0% 0,0% 0,0% 
+ 
+
+ 
+ Tariffe 9,1% 18,2% 18,2% 9,1% 
+ 
+
+ 
+ Convegni e Congressi 9,1% 18,2% 18,2% 9,1% 
+ 
+
+ 
+ Ispezioni 6,25% 12,5% 11,5% 4,7% 
+ 
+
+ 
+ Diritto annuale 9,1% 18,2% 18,2% 9,1% 
+ 
+
+ 
+ Totale 3,9% 7,8% 8,5% 4,65% 
+ 
+
+ 
+ 
+
+ ))
