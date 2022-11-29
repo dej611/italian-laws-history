@@ -79,11 +79,40 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
 
  
  
- 1. Salvo ove diversamente previsto dal presente regolamento, le domande, le istanze, gli atti, i documenti ed i ricorsi notificati di cui all'articolo 147, comma 1 del Codice della proprietà industriale, d'ora innanzi denominato "Codice", nonchè le traduzioni in lingua italiana delle rivendicazioni delle domande di brevetto europeo e dei testi pubblicati dei brevetti europei concessi o mantenuti in forma modificata, di cui agli articoli 54 e 56 del Codice, sono depositati presso le Camere di commercio, industria, artigianato e agricoltura e devono essere trasmessi a cura degli uffici riceventi, dopo aver svolto le formalità di cui ai commi 2, 3, 4 e 5, all'Ufficio italiano brevetti e marchi entro i dieci giorni successivi al deposito, con un servizio postale espresso che ne attesti la tempestiva ricezione. 
+ 1. Salvo ove diversamente previsto dal presente regolamento, le domande, le istanze, gli atti, i documenti ed i ricorsi notificati di cui all'articolo 147, comma 1 del Codice della proprietà industriale, d'ora innanzi denominato "Codice", nonchè le traduzioni in lingua italiana delle rivendicazioni delle domande di brevetto europeo e dei testi pubblicati dei brevetti europei concessi o mantenuti in forma modificata 
+ ((o limitati))
+
+ , di cui agli articoli 54 e 56 del Codice, sono depositati presso le Camere di commercio, industria, artigianato e agricoltura e devono essere trasmessi a cura degli uffici riceventi, dopo aver svolto le formalità di cui ai commi 2, 3, 4 e 5, all'Ufficio italiano brevetti e marchi entro i dieci giorni successivi al deposito, con un servizio postale espresso che ne attesti la tempestiva ricezione. 
  
 
  
- 2. Le domande nazionali di brevetto, di registrazione, di privativa per nuova varietà vegetale, le istanze successive ad esse connesse e le traduzioni di cui al comma 1, sono redatte in conformità ai moduli, ove previsti, stabiliti con circolare dell'Ufficio italiano brevetti e marchi, disponibili presso lo stesso Ufficio e presso le Camere di commercio, industria, artigianato e agricoltura e devono essere firmate dal richiedente o dal suo mandatario. 
+ 
+ ((
+ 
+
+ 
+ 2. Le domande nazionali di brevetto, di registrazione, di privativa per nuova varietà vegetale, di certificato complementare per prodotti medicinali e per prodotti fitosanitari, le istanze successive ad esse connesse e le traduzioni di cui al comma 1, sono redatte in conformità ai moduli, ove previsti, stabiliti con circolare dell'Ufficio italiano brevetti e marchi, disponibili presso lo stesso Ufficio e presso le Camere di commercio, industria, artigianato e agricoltura, nonchè nell'apposita sezione sul sito web della Direzione generale per la lotta alla contraffazione - Ufficio italiano brevetti e marchi, e devono essere firmate dal richiedente o dal suo mandatario. In caso di diritti appartenenti a più soggetti, colui che firma nell'interesse di tutti specifica tale sua qualità.
+ 
+
+ 
+ ))
+ 
+
+ 
+
+ 
+ 
+ ((
+ 
+
+ 
+ 2-bis. La redazione dei moduli di cui al comma 2 contiene l'indicazione del codice fiscale o della partita IVA del richiedente nonchè le indicazioni previste dalla circolare di cui al comma 2.
+ 
+
+ 
+ ))
+ 
+
  
 
  
@@ -93,10 +122,10 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
  
  
  
- 4. Le istanze connesse alle domande già depositate o i ricorsi notificati devono essere accompagnati dal verbale di deposito, che deve essere redatto in due originali e due copie e deve essere firmato dal depositante e sottoscritto dal funzionario ricevente.
- 
+ 4. Le istanze connesse alle domande già depositate o i ricorsi notificati devono essere accompagnati dal verbale di deposito, che deve essere redatto in due originali 
+ ((...))
 
- Detto verbale, cui vengono attribuiti una data e un numero di deposito, deve indicare: 
+ e deve essere firmato dal depositante e sottoscritto dal funzionario ricevente. Detto verbale, cui vengono attribuiti una data e un numero di deposito, deve indicare: 
  
 
  
@@ -104,7 +133,12 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
 
  a) data e numero della domanda o del titolo concesso; 
 
- b) nome e domicilio eletto in Italia del richiedente e, se vi sia, del suo mandatario; 
+ 
+ b) nome e domicilio eletto 
+ ((ai sensi dell'articolo 147, comma 3-bis, del Codice))
+
+ del richiedente e, se vi sia, del suo mandatario; 
+ 
 
  c) elenco dei documenti allegati. 
 
@@ -113,7 +147,13 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
  
 
  
- 5. Un originale e due copie del verbale di deposito, di cui al comma 4, devono essere inviati, insieme agli atti depositati, all'Ufficio italiano brevetti e marchi entro il termine e con le modalità di cui al comma 1. 
+ 5. Un originale 
+ ((...))
+
+ del verbale di deposito, di cui al comma 4, 
+ ((è inviato))
+
+ , insieme agli atti depositati, all'Ufficio italiano brevetti e marchi entro il termine e con le modalità di cui al comma 1. 
  
 
  
@@ -121,7 +161,10 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
  
 
  
- 7. Tutte le domande, le istanze, gli atti, i documenti ed i ricorsi notificati nonchè le traduzioni in lingua italiana delle rivendicazioni delle domande di brevetto europeo e dei testi pubblicati dei brevetti europei concessi o mantenuti in forma modificata, di cui al comma 1, possono essere depositati anche presso l'Ufficio italiano brevetti e marchi mediante servizio postale ed in tal caso si considera data di deposito la data di ricezione da parte dell'Ufficio. 
+ 7. Tutte le domande, le istanze, gli atti, i documenti ed i ricorsi notificati nonchè le traduzioni in lingua italiana delle rivendicazioni delle domande di brevetto europeo e dei testi pubblicati dei brevetti europei concessi o mantenuti in forma modificata 
+ ((o limitati))
+
+ , di cui al comma 1, possono essere depositati anche presso l'Ufficio italiano brevetti e marchi mediante servizio postale ed in tal caso si considera data di deposito la data di ricezione da parte dell'Ufficio. 
  
 
  
@@ -129,230 +172,4 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
  
 
  
- 9. L'Ufficio assicura il servizio di ricezione del deposito delle risposte ai propri rilievi, secondo le modalità stabilite con decreto del Direttore generale per la lotta alla contraffazione - Ufficio italiano brevetti e marchi. 
- 
-
- 
- 
- 
-
- 
-
- 
- Avvertenza: 
- 
-
- Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
- 
-
- Note alle premesse. 
- 
-
- - Si riporta il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
- 
-
- &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge. 
- 
-
- I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.&raquo;. 
- 
-
- - Il decreto legislativo 30 luglio 1999, n. 300, recante &laquo;Riforma dell'organizzazione del Governo, a norma dell'art. 
- 
-
- 11 della legge 15 marzo 1997, n. 59&raquo;, è pubblicato nella Gazzetta Ufficiale 30 agosto 1999, n. 203, S.O. 
- 
-
- - Il decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, nella legge 17 luglio 2006, n. 233, recante &laquo;Disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri&raquo; è pubblicato nella Gazzetta Ufficiale 4 marzo 2005, n. 52, S.O. 
- 
-
- - Si riportano gli articoli, 147, 149, 151, 184, 195, 197, 212 e 214 del decreto legislativo 10 febbraio 2005, n. 
- 
-
- 30: 
- 
-
- &laquo;Art. 147 (Deposito delle domande e delle istanze). - 1.
- 
-
- Tutte le domande, le istanze, gli atti, i documenti e i ricorsi notificati menzionati nel presente codice sono depositati, presso l'Ufficio italiano brevetti e marchi, presso le Camere di commercio, industria e artigianato e presso gli uffici o enti pubblici determinati con decreto del Ministro delle attività produttive. Con decreto dello stesso Ministro sono determinate le modalità di deposito, quivi comprese quelle da attuare mediante ricorso ad altri mezzi di comunicazione. Gli uffici o enti anzidetti, all'atto del ricevimento rilasciano l'attestazione dell'avvenuto deposito ed entro i successivi dieci giorni trasmettono all'Ufficio italiano brevetti e marchi, delle forme indicate nel decreto, gli atti depositati e la relativa attestazione. 
- 
-
- 2. Gli uffici o enti abilitati a ricevere i depositi sono tenuti ad adottare le misure necessarie per assicurare l'osservanza del segreto d'ufficio. 
- 
-
- 3. Non possono, nè direttamente, nè per interposta persona, chiedere brevetti per invenzioni industriali o divenire cessionari gli impiegati addetti all'Ufficio italiano brevetti e marchi, se non dopo due anni da quando abbiano cessato di appartenere al loro ufficio.&raquo;. 
- 
-
- &laquo;Art. 149 (Deposito delle domande di brevetto europeo).
- 
-
- - 1. Le domande di brevetto europeo possono essere depositate presso l'Ufficio italiano brevetti e marchi secondo le modalità previste dal regolamento di attuazione. 
- 
-
- 2. Si applicano le disposizioni dell'art. 198, commi 1 e 2. Ai fini dell'applicazione di tali disposizioni, la domanda deve essere corredata da una copia delle descrizioni e delle rivendicazioni redatte in lingua italiana, nonchè degli eventuali disegni. 
- 
-
- 3. L'Ufficio italiano brevetti e marchi informa immediatamente l'Ufficio europeo dei brevetti dell'avvenuto deposito della domanda.&raquo;. 
- 
-
- &laquo;Art. 151 (Deposito della domanda internazionale). - 1.
- 
-
- Le persone fisiche e giuridiche italiane e quelle che abbiano il domicilio o la sede in Italia possono depositare le domande internazionali per la protezione delle invenzioni presso l'Ufficio italiano brevetti e marchi, il quale agisce in qualità di ufficio ricevente ai sensi dell'art. 10 del Trattato di cooperazione in materia di brevetti del 19 giugno 1970, ratificato con legge 26 maggio 1978, n. 260. 
- 
-
- 2. La domanda può essere presentata presso l'Ufficio italiano brevetti e marchi secondo quanto previsto dal regolamento di attuazione; la data di deposito della domanda viene determinata a norma dell'art. 11 del Trattato di cooperazione in materia di brevetti. 
- 
-
- 3. La domanda internazionale può essere depositata anche presso l'Ufficio europeo dei brevetti, nella sua qualità di ufficio ricevente, ai sensi dell'art. 151 della Convenzione sul brevetto europeo del 5 ottobre 1973, ratificata con legge 26 maggio 1978, n. 260, e presso l'Organizzazione mondiale della proprietà intellettuale di Ginevra quale ufficio ricevente, osservate le disposizioni dell'art. 198, commi 1 e 2.&raquo;. 
- 
-
- &laquo;Art. 184 (Entrata in vigore della procedura di opposizione). - 1. Le norme sul procedimento di opposizione entrano in vigore con il successivo decreto del Ministro delle attività produttive che ne stabilisce le modalità di applicazione.&raquo;. 
- 
-
- &laquo;Art. 195 (Domande di trascrizione). - 1. Le domande di trascrizione devono essere redatte in duplice esemplare, di cui uno viene restituito al richiedente con la dichiarazione dell'avvenuta trascrizione, secondo le prescrizioni di cui al decreto del Ministro delle attività produttive. 
- 
-
- 2. La domanda deve contenere: 
- 
-
- a) il cognome, nome e domicilio del beneficiario della trascrizione richiesta e del mandatario, se vi sia; 
- 
-
- b) il cognome e nome del titolare del diritto di proprietà industriale; 
- 
-
- c) la natura dell'atto o il motivo che giustifica la trascrizione richiesta; 
- 
-
- d) l'elencazione dei diritti di proprietà industriale oggetto della trascrizione richiesta; 
- 
-
- e) nel caso di cambiamento di titolarità, il nome dello Stato di cui il nuovo richiedente o il nuovo titolare ha la cittadinanza, il nome dello Stato di cui il nuovo richiedente o il nuovo titolare ha il domicilio, ovvero il nome dello Stato nel quale il nuovo richiedente o il nuovo titolare ha uno stabilimento industriale o commerciale effettivo e serio.&raquo;. 
- 
-
- &laquo;Art. 197 (Annotazioni). - 1. Il richiedente o il suo mandatario, se vi sia, deve in ciascuna domanda indicare o eleggere il suo domicilio nello Stato per tutte le comunicazioni e notificazioni da farsi a norma del presente codice. 
- 
-
- 2. I mutamenti del nome o del domicilio del titolare del diritto di proprietà industriale o del suo mandatario, se vi sia, devono essere portati a conoscenza dell'Ufficio per l'annotazione sul registro di cui all'art. 185. 
- 
-
- 3. La domanda di annotazione di cambiamento di nome o indirizzo deve essere redatta in unico esemplare secondo le prescrizioni di cui al regolamento di attuazione. 
- 
-
- 4. è sufficiente una sola richiesta quando la modifica riguarda più diritti di proprietà industriale sia allo stato di domanda che concessi. 
- 
-
- 5. Le disposizioni di cui ai commi 1, 2 e 3 si applicano al cambiamento di nome o di indirizzo del mandatario di cui all'art. 201. 
- 
-
- 6. Le sentenze che pronunciano la nullità o la decadenza dei titoli di proprietà industriale pervenuti all'Ufficio italiano brevetti e marchi devono essere annotate sul registro e di esse deve essere data notizia nel Bollettino ufficiale.&raquo;. 
- 
-
- &laquo;Art. 212 (Assemblea degli iscritti all'Albo). - 1.
- 
-
- L'assemblea è convocata dal presidente, su delibera del Consiglio dell'ordine. Essa è regolarmente costituita in prima convocazione con la presenza di almeno la metà degli iscritti ed in seconda convocazione, che non può aver luogo lo stesso giorno fissato per la prima, con la presenza di almeno un sesto degli iscritti se gli iscritti presenti e rappresentati raggiungono la presenza di almeno un quinto degli iscritti. Essa delibera a maggioranza assoluta dei voti. 
- 
-
- 2. Ogni consulente abilitato iscritto all'albo può farsi rappresentare da un altro consulente abilitato iscritto all'albo con delega scritta. Un medesimo partecipante non può rappresentare più di cinque iscritti. 
- 
-
- 3. Le modalità di convocazione e di svolgimento dell'assemblea sono determinate con decreto del Ministro delle attività produttive.&raquo;. 
- 
-
- &laquo;Art. 214 (Assemblea per l'elezione del Consiglio dell'ordine). - 1. I componenti del Consiglio dell'ordine di cui all'art. 215 sono eletti a maggioranza semplice dei voti segreti validamente espressi per mezzo di schede contenenti un numero di nomi non superiore alla metà più uno dei componenti da eleggere. Vengono eletti i dieci candidati che hanno riportato il maggior numero di voti. In caso di parità è preferito il candidato più anziano per iscrizione e, tra coloro che abbiano uguale anzianità di iscrizione, il più anziano di età. 
- 
-
- 2. Ciascuna categoria dei consulenti che esercitano la professione in forma autonoma, sia individualmente che nell'ambito di società, uffici o servizi autonomi, da una parte, e dei consulenti che esercitano in uffici e servizi specializzati nell'ambito di enti o imprese di cui all'art. 
- 
-
- 205, comma 3, dall'altra, non può essere rappresentata in seno al Consiglio dell'ordine con più di otto componenti.
- 
-
- Parimenti ciascuna sezione dell'albo non può essere rappresentata in seno al Consiglio dell'ordine con più di sette componenti, ad essa iscritti in via esclusiva. 
- 
-
- 3. Non sono ammesse le partecipazioni e votazioni per delega. è ammessa la votazione mediante lettera. 
- 
-
- 4. Le modalità di svolgimento delle votazioni, delle operazioni di scrutinio e di proclamazione degli eletti sono stabilite con decreto del Ministro delle attività produttive.&raquo;. 
- 
-
- - Il decreto del Presidente della Repubblica 28 novembre 2008, n. 197, recante &laquo;Regolamento di riorganizzazione del Ministero dello sviluppo economico&raquo; è pubblicato nella Gazzetta Ufficiale 17 dicembre 2008, n. 294, S.O. 
- 
-
- - Si riporta il testo del comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
- 
-
- &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge. 
- 
-
- I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.&raquo;. 
- 
-
- Note all'art. 1: 
- 
-
- - Per il testo dell'art. 147 del decreto legislativo n. 30 del 2005, si veda nelle note alle premesse. 
- 
-
- - Si riportano gli articoli 54, 56 e 148 del citato decreto legislativo n. 30 del 2005: 
- 
-
- &laquo;Art. 54 (Effetti della domanda di brevetto europeo). - 1. La protezione conferita dalla domanda di brevetto europeo ai sensi dell'art. 67, paragrafo 1, della Convenzione sul brevetto europeo del 5 ottobre 1973, ratificata con legge 26 maggio 1978, n. 260, decorre dalla data in cui il titolare medesimo abbia resa accessibile al pubblico, tramite l'Ufficio italiano brevetti e marchi, una traduzione in lingua italiana delle rivendicazioni ovvero l'abbia notificata direttamente al presunto contraffattore. 
- 
-
- Gli effetti della domanda di brevetto europeo sono considerati nulli dall'origine quando la domanda stessa sia stata ritirata o respinta ovvero quando la designazione dell'Italia sia stata ritirata.&raquo;. 
- 
-
- &laquo;Art. 56 (Diritti conferiti dal brevetto europeo). - 1.
- 
-
- Il brevetto europeo rilasciato per l'Italia conferisce gli stessi diritti ed è sottoposto allo stesso regime dei brevetti italiani a decorrere dalla data in cui è pubblicata nel Bollettino europeo dei brevetti la menzione della concessione del brevetto. Qualora a seguito della procedura di opposizione esso sia mantenuto in forma modificata, i limiti della protezione stabiliti con la concessione e mantenuti sono confermati a decorrere dalla data in cui è pubblicata la menzione della decisione concernente l'opposizione. 
- 
-
- 2. Le contraffazioni sono valutate in conformità alla legislazione italiana in materia. 
- 
-
- 3. Il titolare deve fornire all'Ufficio italiano brevetti e marchi una traduzione in lingua italiana del testo del brevetto concesso dall'Ufficio europeo nonchè del testo del brevetto mantenuto in forma modificata a seguito della procedura di opposizione. 
- 
-
- 4. La traduzione, dichiarata perfettamente conforme al testo originale dal titolare del brevetto ovvero dal suo mandatario, deve essere depositata entro tre mesi dalla data di ciascuna delle pubblicazioni di cui al comma 1. 
- 
-
- 5. In caso di inosservanza alle disposizioni di cui ai commi 3 e 4, il brevetto europeo è considerato, fin dall'origine, senza effetto in Italia.&raquo;. 
- 
-
- &laquo;Art. 148 (Ricevibilità ed integrazione delle domande).
- 
-
- - 1. Le domande di brevetto e di registrazione di cui all'art. 147, comma 1, non sono ricevibili se il richiedente non è identificabile o non è raggiungibile e, nel caso dei marchi, anche quando la domanda non contiene la riproduzione del marchio o l'elenco dei prodotti ovvero dei servizi. L'irricevibilità, salvo quanto stabilito nel comma 3, è dichiarata dall'Ufficio italiano brevetti e marchi. 
- 
-
- 2. L'Ufficio italiano brevetti e marchi invita il richiedente a fare le necessarie integrazioni, soggette ad un diritto di mora in caso di pagamento tardivo, entro il termine di due mesi dalla data della comunicazione se constata che: 
- 
-
- a) alla domanda di invenzioni industriali e modelli di utilità non è allegato un documento che possa essere assimilato ad una descrizione ovvero manchi parte della descrizione o un disegno in essa richiamato ovvero la domanda contiene, in sostituzione della descrizione, il riferimento ad una domanda anteriore di cui non sono forniti il numero, la data di deposito, lo stato in cui è avvenuto il deposito ed i dati identificativi del richiedente; 
- 
-
- b) alla domanda di varietà vegetale non è allegato almeno un esemplare della descrizione con almeno un esemplare delle fotografie in essa richiamate; 
- 
-
- c) alla domanda di modelli e disegni non è allegata la riproduzione grafica o fotografica; 
- 
-
- d) alla domanda di topografie non è allegato un documento che ne consenta l'identificazione; 
- 
-
- e) non sono consegnati i documenti comprovanti il pagamento dei diritti prescritti entro il termine di cui all'art. 226. 
- 
-
- 3. Se il richiedente ottempera all'invito dell'ufficio entro il termine di cui al comma 2 o provvede spontaneamente alla relativa integrazione, l'Ufficio riconosce quale data del deposito, da valere a tutti gli effetti, quella di ricevimento della integrazione richiesta e ne dà comunicazione al richiedente. Se il richiedente non ottempera all'invito dell'ufficio entro il termine di cui al comma 2, salvo il caso in cui, entro tale termine, abbia fatto espressa rinuncia alla parte della descrizione o disegno mancanti di cui al comma 2, lettera a), l'Ufficio dichiara l'irricevibilità della domanda ai sensi del comma 1. 
- 
-
- 4. Se il richiedente provvede spontaneamente all'integrazione di cui al comma 2, l'Ufficio riconosce quale data del deposito, da valere a tutti gli effetti, quella di ricevimento dell'integrazione e ne dà comunicazione al richiedente. 
- 
-
- 5. Tutte le domande, le istanze ed i ricorsi di cui all'art. 147, con gli atti allegati, devono essere redatti in lingua italiana. Degli atti in lingua diversa dall'italiana, deve essere fornita la traduzione in lingua italiana. Se la descrizione è presentata in lingua diversa da quella italiana, la traduzione in lingua italiana deve essere depositata entro il termine fissato dall'Ufficio.&raquo;.
+ 9. L'Ufficio assicura il servizio di ricezione del deposito delle risposte ai propri rilievi, secondo le modalità stabilite con decreto del Direttore generale per la lotta alla contraffazione - Ufficio italiano brevetti e marchi.
