@@ -133,7 +133,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) all'articolo 4-bis: 
  
 
- 1) al comma 1 è aggiunto, in fine, il seguente periodo: &laquo;La disposizione del primo periodo si applica altresì in caso di esecuzione di pene inflitte anche per delitti diversi da quelli ivi indicati, in relazione ai quali il giudice della cognizione o dell'esecuzione ha accertato che sono stati commessi per eseguire od occultare uno dei reati di cui al medesimo primo periodo ovvero per conseguire o assicurare al condannato o ad altri il prodotto o il profitto o il prezzo ovvero l'impunità di detti reati.&raquo;; 
+ 1) al comma 1 
+ ((, al primo periodo, le parole: "o a norma dell'articolo 323-bis, secondo comma, del codice penale" e le parole: "314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis," sono soppresse ed))
+
+ è aggiunto, in fine, il seguente periodo: &laquo;La disposizione del primo periodo si applica altresì in caso di esecuzione di pene inflitte anche per delitti diversi da quelli ivi indicati, in relazione ai quali il giudice della cognizione o dell'esecuzione ha accertato che sono stati commessi per eseguire od occultare uno dei reati di cui al medesimo primo periodo ovvero per conseguire o assicurare al condannato o ad altri il prodotto o il profitto o il prezzo ovvero l'impunità di detti reati.&raquo;; 
  
 
  2) il comma 1-bis è sostituito dai seguenti: 
@@ -142,25 +145,55 @@ IL PRESIDENTE DELLA REPUBBLICA
  &laquo;1-bis. I benefici di cui al comma 1 possono essere concessi, anche in assenza di collaborazione con la giustizia ai sensi dell'articolo 58-ter, ai detenuti e agli internati per delitti commessi per finalità di terrorismo, anche internazionale, o di eversione dell'ordine democratico mediante il compimento di atti di violenza, per i delitti di cui agli articoli 416-bis e 416-ter del codice penale, per delitti commessi avvalendosi delle condizioni previste dall'articolo 416-bis del codice penale ovvero al fine di agevolare l'attività delle associazioni in esso previste, per i delitti di cui all'articolo 12, commi 1 e 3, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, e per i delitti di cui all'articolo 291-quater del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e all'articolo 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, purchè gli stessi dimostrino l'adempimento delle obbligazioni civili e degli obblighi di riparazione pecuniaria conseguenti alla condanna o l'assoluta impossibilità di tale adempimento e alleghino elementi specifici, diversi e ulteriori rispetto alla regolare condotta carceraria, alla partecipazione del detenuto al percorso rieducativo e alla mera dichiarazione di dissociazione dall'organizzazione criminale di eventuale appartenenza, che consentano di escludere l'attualità di collegamenti con la criminalità organizzata, terroristica o eversiva e con il contesto nel quale il reato è stato commesso, nonchè il pericolo di ripristino di tali collegamenti, anche indiretti o tramite terzi, tenuto conto delle circostanze personali e ambientali, delle ragioni eventualmente dedotte a sostegno della mancata collaborazione, della revisione critica della condotta criminosa e di ogni altra informazione disponibile. Al fine della concessione dei benefici, il giudice accerta altresì la sussistenza di iniziative dell'interessato a favore delle vittime, sia nelle forme risarcitorie che in quelle della giustizia riparativa. 
  
 
- 1-bis.1. I benefici di cui al comma 1 possono essere concessi, anche in assenza di collaborazione con la giustizia ai sensi dell'articolo 58-ter della presente legge o dell'articolo 323-bis del codice penale, ai detenuti o internati per i delitti di cui agli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 600, 600-bis, primo comma, 600-ter, primo e secondo comma, 601, 602, 609-octies e 630 del codice penale, purchè gli stessi dimostrino l'adempimento delle obbligazioni civili e degli obblighi di riparazione pecuniaria conseguenti alla condanna o l'assoluta impossibilità di tale adempimento e alleghino elementi specifici, diversi e ulteriori rispetto alla regolare condotta carceraria e alla partecipazione del detenuto al percorso rieducativo, che consentano di escludere l'attualità di collegamenti, anche indiretti o tramite terzi, con il contesto nel quale il reato è stato commesso, tenuto conto delle circostanze personali e ambientali, delle ragioni eventualmente dedotte a sostegno della mancata collaborazione, della revisione critica della condotta criminosa e di ogni altra informazione disponibile. Al fine della concessione dei benefici, il giudice di sorveglianza accerta altresì la sussistenza di iniziative dell'interessato a favore delle vittime, sia nelle forme risarcitorie che in quelle della giustizia riparativa. 
+ 1-bis.1. I benefici di cui al comma 1 possono essere concessi, anche in assenza di collaborazione con la giustizia ai sensi dell'articolo 58-ter 
+ ((...))
+
+ , ai detenuti o internati per i delitti di cui agli articoli 
+ ((...))
+
+ 600, 600-bis, primo comma, 600-ter, primo e secondo comma, 601, 602, 609-octies e 630 del codice penale, purchè gli stessi dimostrino l'adempimento delle obbligazioni civili e degli obblighi di riparazione pecuniaria conseguenti alla condanna o l'assoluta impossibilità di tale adempimento e alleghino elementi specifici, diversi e ulteriori rispetto alla regolare condotta carceraria e alla partecipazione del detenuto al percorso rieducativo, che consentano di escludere l'attualità di collegamenti, anche indiretti o tramite terzi, con il contesto nel quale il reato è stato commesso, tenuto conto delle circostanze personali e ambientali, delle ragioni eventualmente dedotte a sostegno della mancata collaborazione, della revisione critica della condotta criminosa e di ogni altra informazione disponibile. Al fine della concessione dei benefici, il giudice di sorveglianza accerta altresì la sussistenza di iniziative dell'interessato a favore delle vittime, sia nelle forme risarcitorie che in quelle della giustizia riparativa. 
+ 
+
+ 
+ ((1-bis.1.1. Con il provvedimento di concessione dei benefici di cui al comma 1 possono essere stabilite prescrizioni volte a impedire il pericolo del ripristino di collegamenti con la criminalità organizzata, terroristica o eversiva o che impediscano ai condannati di svolgere attività o di avere rapporti personali che possono portare al compimento di altri reati o al ripristino di rapporti con la criminalità organizzata, terroristica o eversiva. A tal fine il giudice può disporre che il condannato non soggiorni in uno o più comuni, o soggiorni in un comune determinato))
+
+ . 
  
 
  1-bis.2. Ai detenuti e agli internati, oltre che per taluno dei delitti di cui al comma 1-bis.1, anche per il delitto di cui all'articolo 416 del codice penale finalizzato alla commissione dei delitti ivi indicati si applicano le disposizioni del comma 1-bis.&raquo;; 
  
 
- 3) al comma 2 sono aggiunti, in fine, i seguenti periodi: &laquo;Nei casi di cui ai commi 1-bis e 1-bis.1, il giudice, prima di decidere sull'istanza, chiede altresì il parere del pubblico ministero presso il giudice che ha emesso la sentenza di primo grado o, se si tratta di condanne per i delitti indicati all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, del pubblico ministero presso il tribunale del capoluogo del distretto ove è stata pronunciata la sentenza di primo grado e del Procuratore nazionale antimafia e antiterrorismo, acquisisce informazioni dalla direzione dell'istituto ove l'istante è detenuto o internato e dispone, nei confronti del medesimo, degli appartenenti al suo nucleo familiare e delle persone ad esso collegate, accertamenti in ordine alle condizioni reddituali e patrimoniali, al tenore di vita, alle attività economiche eventualmente svolte e alla pendenza o definitività di misure di prevenzione personali o patrimoniali. I pareri, le informazioni e gli esiti degli accertamenti di cui al quarto periodo sono trasmessi entro sessanta giorni dalla richiesta.
- 
+ 3) al comma 2 sono aggiunti, in fine, i seguenti periodi: &laquo;Nei casi di cui ai commi 1-bis e 1-bis.1, il giudice 
+ ((acquisisce, anche al fine di verificare la fondatezza degli elementi offerti dall'istante, dettagliate informazioni in merito al perdurare dell'operatività del sodalizio criminale di appartenenza o del contesto criminale nel quale il reato è stato consumato, al profilo criminale del detenuto o dell'internato e alla sua posizione all'interno dell'associazione, alle eventuali nuove imputazioni o misure cautelari o di prevenzione sopravvenute a suo carico e, ove significative, alle infrazioni disciplinari commesse durante la detenzione. Il giudice))
 
- Il termine può essere prorogato di ulteriori trenta giorni in ragione della complessità degli accertamenti. Decorso il termine, il giudice decide anche in assenza dei pareri, delle informazioni e degli esiti degli accertamenti richiesti. Quando dall'istruttoria svolta emergono indizi dell'attuale sussistenza di collegamenti con la criminalità organizzata, terroristica o eversiva o con il contesto nel quale il reato è stato commesso, ovvero del pericolo di ripristino di tali collegamenti, è onere del condannato fornire, entro un congruo termine, idonei elementi di prova contraria. In ogni caso, nel provvedimento con cui decide sull'istanza di concessione dei benefici il giudice indica specificamente le ragioni dell'accoglimento o del rigetto dell'istanza medesima, tenuto conto dei pareri acquisiti ai sensi del quarto periodo. I benefici di cui al comma 1 possono essere concessi al detenuto o internato sottoposto a regime speciale di detenzione previsto dall'articolo 41-bis solamente dopo che il provvedimento applicativo di tale regime speciale sia stato revocato o non prorogato.&raquo;; 
+ chiede altresì il parere del pubblico ministero presso il giudice che ha emesso la sentenza di primo grado o, se si tratta di condanne per i delitti indicati all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, del pubblico ministero presso il tribunale del capoluogo del distretto ove è stata pronunciata la sentenza di primo grado e del Procuratore nazionale antimafia e antiterrorismo, acquisisce informazioni dalla direzione dell'istituto ove l'istante è detenuto o internato e dispone, nei confronti del medesimo, degli appartenenti al suo nucleo familiare e delle persone ad esso collegate, accertamenti in ordine alle condizioni reddituali e patrimoniali, al tenore di vita, alle attività economiche eventualmente svolte e alla pendenza o definitività di misure di prevenzione personali o patrimoniali. I pareri, le informazioni e gli esiti degli 
+ ((accertamenti di cui al quinto periodo))
+
+ sono trasmessi entro sessanta giorni dalla richiesta. Il termine può essere prorogato di ulteriori trenta giorni in ragione della complessità degli accertamenti. Decorso il termine, il giudice decide anche in assenza dei pareri, delle informazioni e degli esiti degli accertamenti richiesti. Quando dall'istruttoria svolta emergono indizi dell'attuale sussistenza di collegamenti con la criminalità organizzata, terroristica o eversiva o con il contesto nel quale il reato è stato commesso, ovvero del pericolo di ripristino di tali collegamenti, è onere del condannato fornire, entro un congruo termine, idonei elementi di prova contraria. In ogni caso, nel provvedimento con cui decide sull'istanza di concessione dei benefici il giudice indica specificamente le ragioni dell'accoglimento o del rigetto dell'istanza medesima, tenuto conto dei pareri acquisiti 
+ ((ai sensi del quinto periodo))
+
+ . I benefici di cui al comma 1 possono essere concessi al detenuto o internato sottoposto a regime speciale di detenzione previsto dall'articolo 41-bis solamente dopo che il provvedimento applicativo di tale regime speciale sia stato revocato o non prorogato.&raquo;; 
  
 
  4) al comma 2-bis, le parole: &laquo;Ai fini della concessione dei benefici&raquo; sono sostituite dalle seguenti: &laquo;Nei casi&raquo;; 
  
 
- 5) dopo il comma 2-bis è inserito il seguente: 
+ 5) 
+ ((dopo il comma 2-bis sono inseriti i seguenti:))
+
+ 
  
 
- &laquo;2-ter. Alle udienze del tribunale di sorveglianza che abbiano ad oggetto la concessione dei benefici di cui al comma 1 ai condannati per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, le funzioni di pubblico ministero possono essere svolte dal pubblico ministero presso il tribunale del capoluogo del distretto ove è stata pronunciata la sentenza di primo grado.&raquo;; 
+ &laquo;
+ ((2-bis.1. Le disposizioni di cui ai commi 2 e 2-bis non si applicano quando è richiesta la modifica del provvedimento di ammissione al lavoro all'esterno e non sono decorsi più di tre mesi dalla data in cui il provvedimento medesimo è divenuto esecutivo a norma dell'articolo 21, comma 4. Allo stesso modo si procede quando è richiesta la concessione di un permesso premio da parte di un condannato già ammesso a fruirne e non sono decorsi più di tre mesi dal provvedimento di concessione del primo permesso premio))
+
+ ; 
+ 
+
+ 2-ter. Alle udienze del tribunale di sorveglianza che abbiano ad oggetto la concessione dei benefici di cui al comma 1 ai condannati per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, le funzioni di pubblico ministero possono essere svolte dal pubblico ministero presso il tribunale del capoluogo del distretto ove è stata pronunciata la sentenza di primo grado.
+ ((In tal caso, se ha sede in un distretto diverso, il pubblico ministero può partecipare all'udienza mediante collegamento a distanza))
+
+ &raquo;; 
  
 
  6) il comma 3-bis è abrogato; 
@@ -170,17 +203,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) all'articolo 21, comma 4, è aggiunto, in fine, il seguente periodo: &laquo;Quando sono ammessi al lavoro esterno detenuti o internati condannati per delitti commessi per finalità di terrorismo, anche internazionale, o di eversione dell'ordine democratico mediante il compimento di atti di violenza, nonchè per i delitti di cui all'articolo 416-bis del codice penale o commessi avvalendosi delle condizioni previste dallo stesso articolo ovvero al fine di agevolare l'attività delle associazioni in esso previste, all'approvazione provvede il tribunale di sorveglianza.&raquo;; 
+ b) 
+ ((LETTERA SOPPRESSA DALLA L. 30 DICEMBRE 2022, N. 199))
+
+ ; 
  
 
  
  
 
  
- c) all'articolo 30-ter: 
- 
+ c) 
+ ((LETTERA SOPPRESSA DALLA L. 30 DICEMBRE 2022, N. 199))
 
- 1) al comma 1, primo periodo, dopo le parole: &laquo;magistrato di sorveglianza&raquo; sono inserite le seguenti: &laquo;o, quando si tratta di condannati per delitti commessi per finalità di terrorismo, anche internazionale, o di eversione dell'ordine democratico mediante il compimento di atti di violenza, nonchè per i delitti di cui all'articolo 416-bis del codice penale o commessi avvalendosi delle condizioni previste dallo stesso articolo ovvero al fine di agevolare l'attività delle associazioni in esso previste, il tribunale di sorveglianza,&raquo;; 
- 
-
- 2) al comma 7, dopo le parole: &laquo;permessi premio&raquo; sono aggiunte le seguenti: &laquo;, emesso dal magistrato di sorveglianza,&raquo; e dopo le parole: &laquo;le procedure di cui all'art. 30-bis&raquo; sono inserite le seguenti: &laquo;, entro il termine di quindici giorni dalla comunicazione del provvedimento medesimo&raquo;.
+ .
