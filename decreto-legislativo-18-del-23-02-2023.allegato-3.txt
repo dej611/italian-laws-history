@@ -1,0 +1,461 @@
+((ALLEGATO III (articolo 12) 
+ 
+
+ 
+ 
+
+ SPECIFICHE PER L'ANALISI DEI PARAMETRI 
+ 
+
+ 
+ 
+
+ I laboratori, o i terzi che ottengono appalti dai laboratori, sono accreditati UNI CEI EN ISO/IEC 17025 da un Ente di accreditamento designato ai sensi del reg. (CE) 765/2008 almeno per i parametri di cui alla parte A, lettere da a) a f), e alla parte B, Tabella 1, del presente allegato. Ai fini della valutazione dell'equivalenza dei metodi alternativi ai metodi di cui al presente allegato si fa riferimento alla norma UNI EN ISO 17994, stabilita per l'equivalenza dei metodi microbiologici, o alla norma UNI EN ISO 16140 (parti 2 e 6), o a qualsiasi altro protocollo analogo riconosciuto a livello internazionale, per stabilire l'equivalenza dei metodi non colturali che esulano dall'ambito di applicazione della norma UNI EN ISO 17994.
+ 
+
+ In mancanza di un metodo di analisi che rispetta i criteri minimi di efficienza di cui alla Parte B, il controllo è effettuato applicando le migliori tecniche disponibili che non comportino costi eccessivi. 
+ 
+
+ 
+ 
+
+ Parte A 
+ 
+
+ 
+ 
+
+ Parametri microbiologici per i quali sono specificati metodi di analisi 
+ 
+
+ 
+ 
+
+ Per ciascuno dei parametri microbiologici elencati nelle Parti A, C e D dell'Allegato I, i metodi d'analisi per i parametri microbiologici sono: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ a) Escherichia coli (E. coli) e batteri coliformi (UNI EN ISO 9308-1 o UNI EN ISO 9308-2);
+ 
+
+ b) Enterococchi intestinali (UNI EN ISO 7899-2);
+ 
+
+ c) conteggio delle colonie o conteggio degli eterotrofi su piastra a 22 °C (UNI EN ISO 6222);
+ 
+
+ d) Clostridium perfringens spore comprese (UNI EN ISO 14189);
+ 
+
+ e) Legionella (UNI EN ISO 11731) conforme al valore stabilito nell'allegato I, Parte D. Sia per il controllo associato alla valutazione del rischio, sia per integrare i metodi colturali, possono essere utilizzati in aggiunta altri metodi, quali metodi colturali rapidi, metodi non colturali, metodi molecolari (tra cui qPCR, eseguita in accordo alla ISO/TS 12869);
+ 
+
+ f) Colifagi somatici. Per il monitoraggio operativo, Allegato II, Parte A, è possibile fare riferimento alle norme UNI EN ISO 10705-2 e UNI EN ISO 10705-3. 
+ 
+
+ 
+ 
+
+ Per la ricerca di parametri microbiologici supplementari definiti nel PSA, possono essere adottate le metodiche previste in Rapporti ISTISAN 07/5 e s.m.i. 
+ 
+
+ L'incertezza di misura non deve essere utilizzata come tolleranza supplementare per i valori di parametro di cui all'Allegato I. 
+ 
+
+ 
+ 
+
+ Parte B 
+ 
+
+ Parametri chimici e indicatori per i quali sono specificate le caratteristiche di prestazione 
+ 
+
+ 
+ 
+
+ 1. Parametri chimici e indicatori 
+ 
+
+ 
+ 
+
+ Per i parametri di cui alla Tabella 1 del presente allegato, il metodo di analisi utilizzato è quantomeno in grado di misurare concentrazioni uguali all'indicatore parametrico con un limite di quantificazione, definito nell'articolo 74, comma 2, lettera uu-ter), del d. lgs. 152/2006 pari al 30 %, o inferiore, del valore di parametro pertinente e un'incertezza di misura quale quella specificata nella Tabella 1 del presente allegato. L'incertezza di misura indicata nella Tabella 1 non deve essere utilizzata come tolleranza supplementare per i valori di parametro di cui all'allegato I. Il confronto con il valore di parametro è da effettuarsi previo arrotondamento del risultato con lo stesso numero di cifre decimali riportato per il valore di parametro di cui alle Parti B e C dell'allegato I. Per il monitoraggio delle sostanze per- e polifluoroalchiliche (PFAS) comprese nei parametri &laquo;somma di PFAS&raquo;, &laquo;somma di 4 PFAS&raquo; e &laquo;TFA&raquo;, si applicano i metodi stabiliti nelle Linee guida tecniche di cui all'articolo 12, comma 9, nonchè i metodi riportati nel Rapporto ISTISAN 19/7 e successive modifiche ed integrazioni. 
+ 
+
+ 
+ 
+
+ Tabella 1 - Caratteristica di prestazione minima &laquo;Incertezza di misura&raquo; 
+ 
+
+ 
+ 
+ 
+ Parametri Incertezza di misura (cfr. nota 1) % del valore di parametro (ad eccezione che per il pH) Note 
+ 
+
+ 
+ Alluminio 25 
+ 
+
+ 
+ Ammonio 40 
+ 
+
+ 
+ Acrilammide 30 
+ 
+
+ 
+ Antimonio 40 
+ 
+
+ 
+ Arsenico 30 
+ 
+
+ 
+ Benzo(a)pirene 50 cfr. nota 2 
+ 
+
+ 
+ Benzene 40 
+ 
+
+ 
+ Bisfenolo A 50 
+ 
+
+ 
+ Boro 25 
+ 
+
+ 
+ Bromato 40 
+ 
+
+ 
+ Cadmio 25 
+ 
+
+ 
+ Cloruro 15 
+ 
+
+ 
+ Clorato 40 
+ 
+
+ 
+ Clorito 40 
+ 
+
+ 
+ Cromo 30 
+ 
+
+ 
+ Rame 25 
+ 
+
+ 
+ Cianuro 30 cfr. nota 3 
+ 
+
+ 
+ 1,2-dicloroetano 40 
+ 
+
+ 
+ Epicloridrina 30 
+ 
+
+ 
+ Fluoruro 20 
+ 
+
+ 
+ Acidi aloacetici 50 
+ 
+
+ 
+ Concentrazione ioni idrogeno (pH) 0,2 cfr. nota 4 
+ 
+
+ 
+ Ferro 30 
+ 
+
+ 
+ Piombo 30 
+ 
+
+ 
+ Manganese 30 
+ 
+
+ 
+ Mercurio 30 
+ 
+
+ 
+ Microcistina-LR 30 
+ 
+
+ 
+ Nichel 25 
+ 
+
+ 
+ Nitrati 15 
+ 
+
+ 
+ Nitriti 20 
+ 
+
+ 
+ Ossidabilità 50 cfr. nota 5 
+ 
+
+ 
+ Antiparassitari 30 cfr. nota 6 
+ 
+
+ 
+ Somma di PFAS 50 cfr. punto 3 
+ 
+
+ 
+ Somma di 4 PFAS 50 cfr. punto 3 
+ 
+
+ 
+ Acido trifluoroacetico 50 
+ 
+
+ 
+ Idrocarburi policiclici aromatici 40 cfr. nota 7 
+ 
+
+ 
+ Selenio 40 
+ 
+
+ 
+ Sodio 15 
+ 
+
+ 
+ Solfato 15 
+ 
+
+ 
+ Tetracloroetilene 40 cfr. nota 8 
+ 
+
+ 
+ Tricloroetene 40 cfr. nota 8 
+ 
+
+ 
+ Trialometano totale 40 cfr. nota 7 
+ 
+
+ 
+ Carbonio organico totale (TOC) 30 cfr. nota 9 
+ 
+
+ 
+ Torbidità 30 cfr. nota 10 
+ 
+
+ 
+ Uranio 30 
+ 
+
+ 
+ Vinilcloruro 50 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 2. Note alla Tabella 1
+ 
+
+ 
+ 
+
+ Nota 1: L'incertezza della misura è un parametro non negativo che caratterizza la dispersione dei valori quantitativi attribuiti a un misurando sulla base delle informazioni utilizzate. Il criterio di prestazione per l'incertezza di misura (k = 2) è la percentuale del valore di parametro indicato nella Tabella, o qualsiasi valore più stringente.
+ 
+
+ L'incertezza della misura è stimata a livello dei valori parametrici, salvo diversa indicazione.
+ 
+
+ Nota 2: In caso sia impossibile soddisfare il valore dell'incertezza di misura, occorre scegliere la miglior tecnica disponibile (fino al 60 %).
+ 
+
+ Nota 3: Il metodo determina il tenore complessivo di cianuro in tutte le sue forme.
+ 
+
+ Nota 4: valore dell'incertezza di misura è espresso in unità pH.
+ 
+
+ Nota 5: Metodo di riferimento: UNI EN ISO 8467.
+ 
+
+ Nota 6: Le caratteristiche di prestazione dei singoli antiparassitari vengono fornite a titolo indicativo. Per diversi antiparassitari è possibile ottenere valori di incertezza di misura di appena il 30 %, mentre per molti è possibile autorizzare valori più alti, fino all'80 %.
+ 
+
+ Nota 7: Le caratteristiche di prestazione si riferiscono alle singole sostanze al 25 % del valore di parametro che figura nella Parte B dell'allegato I.
+ 
+
+ Nota 8: Le caratteristiche di prestazione si riferiscono alle singole sostanze al 50 % del valore di parametro che figura nella Parte B dell'allegato I.
+ 
+
+ Nota 9: L'incertezza di misura dovrebbe essere stimata al livello di 3 mg/l del carbonio organico totale (TOC). Occorre utilizzare le linee guida EN 1484 per la determinazione del TOC e del carbonio organico disciolto (DOC) per la specifica dell'incertezza del metodo di prova.
+ 
+
+ Nota 10: L'incertezza di misura dovrebbe essere stimata al livello di 1,0 NTU (unità nefelometriche di torbidità) conformemente alla norma UNI EN ISO 7027 o ad altro equivalente metodo standard. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 3. Somma di PFAS 
+ 
+
+ 
+ 
+
+ La prestazione minima &laquo;Incertezza di misura&raquo; è riferita al singolo composto della somma di PFAS e della somma di 4 PFAS. 
+ 
+
+ Le caratteristiche di prestazione in termine di limite di quantificazione (LOQ) e limite di rilevabilità (LOD) vengono fornite a titolo indicativo e sono calcolate per i singoli PFAS. Poichè il valore di parametro &laquo;somma di PFAS&raquo; rappresenta la somma di 30 singole sostanze e il valore di parametro &laquo;somma di 4 PFAS&raquo; la somma di 4 singole sostanze, è possibile ottenere valori di LOQ di appena 1 ng/L mentre per molte è possibile autorizzare valori più alti, fino a 10 ng/L. 
+ 
+
+ Le seguenti sostanze sono analizzate sulla base delle summenzionate linee guida tecniche: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-N2 (ADV-N2)
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-N3 (ADV-N3)
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-N4 (ADV-N4)
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-N5 (ADV-N5)
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-M3 (ADV-M3)
+ 
+
+ - cloro-perfluoropolietere carbossilato, MFS-M4 (ADV-M4)
+ 
+
+ - acido perfluorobutanoico (PFBA)
+ 
+
+ - acido perfluoropentanoico (PFPeA)
+ 
+
+ - acido perfluoroesanoico (PFHxA)
+ 
+
+ - acido perfluoroeptanoico (PFHpA)
+ 
+
+ - acido perfluoroottanoico (PFOA)
+ 
+
+ - acido perfluorononanoico (PFNA)
+ 
+
+ - acido perfluorodecanoico (PFDA)
+ 
+
+ - acido perfluorundecanoico (PFUnDA)
+ 
+
+ - acido perfluorododecanoico (PFDoDA)
+ 
+
+ - acido perfluorotridecanoico (PFTrDA)
+ 
+
+ - acido perfluorobutanosolfonico (PFBS)
+ 
+
+ - acido perfluoropentansolfonico (PFPeS)
+ 
+
+ - acido perfluoroesansolfonico (PFHxS)
+ 
+
+ - acido perfluoroeptansolfonico (PFHpS)
+ 
+
+ - acido perfluoroottansolfonico (PFOS)
+ 
+
+ - acido perfluorononansolfonico (PFNS)
+ 
+
+ - acido perfluorodecansolfonico (PFDS)
+ 
+
+ - acido perfluoroundecansolfonico (PFUnDS)
+ 
+
+ - acido perfluorododecansolfonico (PFDoDS)
+ 
+
+ - acido perfluorotridecansolfonico (PFTrDS)
+ 
+
+ - acido 2,3,3,3-tetrafluoro-2-(eptafluoropropossi)propanoico (HFPO-DA o GenX)
+ 
+
+ - acido dodecafluoro-3H-4,8-diossanonanoico (ADONA)
+ 
+
+ - fluorotelomero solfonato (6:2 FTS)
+ 
+
+ - acido difluoro&laquo;[2,2,4,5- tetrafluoro-5- (trifluorometossi)-1,3-diossolan-4-yl]ossi&raquo;acetico (C6O4)
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Tali sostanze sono controllate quando la valutazione e gestione del rischio delle aree di alimentazione per punti di prelievo effettuata in conformità dell'articolo 7, conclude che vi è la probabilità che tali sostanze siano presenti in un determinato sistema di fornitura d'acqua. 
+ 
+
+ I limiti riferiti alla somma dei composti sopra elencati includono anche i rispettivi isomeri (ramificati e lineari). I controlli interni ed esterni per quanto riguarda la frequenza e i punti di monitoraggio delle sostanze per- e polifluoroalchiliche comprese nei parametri &laquo;somma di PFAS&raquo;, &laquo;somma di 4 PFAS&raquo; e per il parametro &laquo;TFA&raquo;, tengono conto delle valutazioni di rischio (piani di sicurezza dell'acqua) previste in articolo 8, delle rilevanze dei monitoraggi sulle acque di cui all'articolo 7 e del decreto legislativo n. 152 del 2006, e di ogni altra informazione rilevante sulle fonti di pressione e di contaminazione da PFAS, anche puntuali o transienti, nelle circostanze territoriali che possono interessare le aree di captazione.))
