@@ -580,6 +580,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((1-bis.1. Per "clausola make-whole" si intende una clausola diretta a tutelare l'investitore garantendo che, in caso di rimborso anticipato di un'obbligazione, l'emittente sia tenuto a versare al detentore dell'obbligazione un importo pari alla somma del valore attuale netto delle cedole residue fino alla scadenza e del valore nominale dell'obbligazione da rimborsare.))
+
  
 
  
@@ -603,7 +605,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I. Gli strumenti di pagamento non sono strumenti finanziari. (73) 
+ 2. Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I, compresi gli strumenti emessi mediante tecnologia a registro distribuito. Gli strumenti di pagamento non sono strumenti finanziari. (73) 
  
 
  
@@ -861,11 +863,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5-novies. Per "portale per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali" si intende una piattaforma on line che abbia come finalità esclusiva la facilitazione della raccolta di capitale di rischio da parte delle piccole e medie imprese, come definite dall'articolo 2, paragrafo 1, lettera (f), primo alinea, del regolamento (UE) 2017/1129, delle imprese sociali e degli organismi di investimento collettivo del risparmio o di altre società che investono prevalentemente in piccole e medie imprese nonchè della raccolta di finanziamenti tramite obbligazioni o strumenti finanziari di debito da parte delle piccole e medie imprese. (73) 
+ 
+ ((
  
 
  
+ 5-novies. Per "servizi di crowdfunding" si intendono i servizi indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503.
  
+
+ 
+ ))
+ 
+
  
 
  
@@ -1063,41 +1072,51 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+ 
  6-undecies. Nel presente decreto legislativo si intendono per: 
  
 
  
- ((a) "dispositivo di pubblicazione autorizzato" o "APA": un soggetto quale definito all'articolo 2, paragrafo 1, punto 34), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati))
-
- ; 
- 
-
- b) 
- ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
-
- ; 
  
 
  
- ((c) "meccanismo di segnalazione autorizzato" o "ARM": un soggetto quale definito all'articolo 2, paragrafo 1, punto 36), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati))
-
- ; 
- 
-
- d) 
- ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
-
- ; 
- 
-
- e) 
- ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
-
- . 
+ a) "dispositivo di pubblicazione autorizzato" o "APA": un soggetto quale definito all'articolo 2, paragrafo 1, punto 34), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati; 
  
 
  
  
+
+ 
+ b) LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50; 
+ 
+
+ 
+ 
+
+ 
+ c) "meccanismo di segnalazione autorizzato" o "ARM": un soggetto quale definito all'articolo 2, paragrafo 1, punto 36), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati; 
+ 
+
+ 
+ 
+
+ 
+ d) LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50; 
+ 
+
+ 
+ 
+
+ 
+ e) LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50. 
+ 
+
+ 
+ 
+
+ 
+
  
 
  
@@ -1133,10 +1152,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) 
- ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50))
-
- . 
+ c) LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50. 
  
 
  
@@ -1182,11 +1198,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XXIV/1 del regolamento (UE) n. 1308/2013. (73) 
+ 
+ ((6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XX e XXIV/1 del regolamento (UE) n. 1308/2013, nonchè i prodotti di cui all'allegato I del regolamento (UE) n. 1379/2013.))
+ 
+
  
 
  
  
+ ((6-quinquiesdecies.1. Per "gruppo prevalentemente commerciale" si intende qualsiasi gruppo la cui attività principale non consista nella prestazione di servizi di investimento ai sensi del presente decreto o nell'esercizio di una qualsiasi attività di cui all'allegato I della direttiva 2013/36/EU o in attività di market making in relazione agli strumenti derivati su merci.))
+ 
+
  
 
  
@@ -1276,8 +1298,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+
  
 
+ 
+ 
+ ((6-noviesdecies. Per "formato elettronico" si intende qualsiasi supporto durevole diverso dalla carta.))
  
 
  
