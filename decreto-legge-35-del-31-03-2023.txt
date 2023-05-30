@@ -182,10 +182,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  a) all'articolo 1, primo comma: 
  
 
- 1) al primo periodo, le parole &laquo;partecipano, in misura non inferiore al 51 per cento, la società ANAS Spa, le regioni Sicilia e Calabria, nonchè altre società controllate, anche indirettamente, dallo Stato&raquo; sono sostituite dalle seguenti: &laquo;partecipano R.F.I.
- 
+ 1) al primo periodo, le parole &laquo;partecipano, in misura non inferiore al 51 per cento, la società ANAS Spa, le regioni Sicilia e Calabria, nonchè altre società controllate, anche indirettamente, dallo Stato&raquo; sono sostituite dalle seguenti: &laquo;partecipano 
+ ((le società R.F.I. S.p.a. e))
 
- S.p.a., ANAS S.p.a., le Regioni Sicilia e Calabria, nonchè, in misura non inferiore al 51 per cento, il Ministero dell'economia e delle finanze, che esercita i diritti dell'azionista d'intesa con il Ministero delle infrastrutture e dei trasporti, al quale ultimo sono attribuite funzioni di indirizzo, controllo, vigilanza tecnica e operativa sulla società in ordine alle attività oggetto di concessione, coerentemente con quanto previsto all'articolo 3-bis.&raquo;; 
+ ANAS S.p.a., 
+ ((la Regione siciliana e la Regione Calabria))
+
+ , nonchè, in misura non inferiore al 51 per cento, il Ministero dell'economia e delle finanze, che esercita i diritti dell'azionista d'intesa con il Ministero delle infrastrutture e dei trasporti, al quale ultimo sono attribuite funzioni di indirizzo, controllo, vigilanza tecnica e operativa sulla società in ordine alle attività oggetto di concessione, coerentemente con quanto previsto all'articolo 3-bis.&raquo;; 
  
 
  2) il secondo periodo è abrogato; 
@@ -195,10 +198,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((
+
+ a-bis) all'articolo 1, terzo comma, le parole: "delle Ferrovie dello Stato e dell'ANAS" sono sostituite dalle seguenti: "delle società R.F.I. S.p.a. e ANAS S.p.a."
+
+ ))
+
+ 
+
+ 
  b) all'articolo 2: 
  
 
- 1) il secondo comma è sostituito dal seguente: &laquo;Il Consiglio di amministrazione è composto da cinque membri, di cui due designati dal Ministero dell'economia e delle finanze d'intesa con il Ministero delle infrastrutture e dei trasporti, che ricoprono rispettivamente la carica di presidente e di amministratore delegato, un membro designato dalla Regione Calabria, un membro designato dalla Regione Sicilia e un membro designato congiuntamente da R.F.I. S.p.a. e ANAS S.p.a. Il Collegio sindacale è composto da cinque membri, di cui tre membri effettivi e due supplenti. Un membro effettivo, in qualità di presidente del collegio sindacale, e un membro supplente sono designati dal Ministero dell'economia e delle finanze d'intesa con il Ministero delle infrastrutture e dei trasporti; un membro effettivo è designato dalla Regione Calabria congiuntamente alla Regione Sicilia; un membro effettivo e un membro supplente sono designati congiuntamente da R.F.I. S.p.a. e ANAS S.p.a.&raquo;; 
+ 1) il secondo comma è sostituito dal seguente: &laquo;Il Consiglio di amministrazione è composto da cinque membri, di cui due designati dal Ministero dell'economia e delle finanze d'intesa con il Ministero delle infrastrutture e dei trasporti, che ricoprono rispettivamente la carica di presidente e di amministratore delegato, un membro designato dalla Regione Calabria, un membro designato dalla 
+ ((Regione siciliana))
+
+ e un membro designato congiuntamente da R.F.I. S.p.a. e ANAS S.p.a. Il Collegio sindacale è composto da cinque membri, di cui tre membri effettivi e due supplenti. Un membro effettivo, in qualità di presidente del collegio sindacale, e un membro supplente sono designati dal Ministero dell'economia e delle finanze d'intesa con il Ministero delle infrastrutture e dei trasporti; un membro effettivo è designato dalla Regione Calabria congiuntamente alla 
+ ((Regione siciliana))
+
+ ; un membro effettivo e un membro supplente sono designati congiuntamente 
+ ((dalle società R.F.I. S.p.a.))
+
+ e ANAS S.p.a.&raquo;; 
  
 
  2) il terzo comma è sostituito dal seguente: &laquo;La remunerazione dei componenti del Consiglio di amministrazione è determinata ai sensi dell'articolo 2389 del codice civile. La remunerazione dei membri del Collegio sindacale è determinata ai sensi dell'articolo 2402 del codice civile.&raquo;; 
@@ -211,13 +232,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) all'articolo 3: 
  
 
- 1) al primo comma, le parole &laquo;all'Azienda autonoma delle ferrovie dello Stato&raquo; sono sostituite dalle seguenti: &laquo;a R.F.I.
- 
+ 1) al primo comma, le parole &laquo;all'Azienda autonoma delle ferrovie dello Stato&raquo; sono sostituite dalle seguenti: &laquo;
+ ((alla società R.F.I.))
 
  S.p.a.&raquo;; 
  
 
- 2) al secondo comma, sono aggiunte, in fine, le seguenti parole: &laquo;ad eccezione delle spese relative agli impianti ferroviari che sono a carico di R.F.I. S.p.a., secondo quanto disciplinato dal quadro legislativo e regolatorio vigente&raquo;; 
+ 2) al secondo comma, sono aggiunte, in fine, le seguenti parole: 
+ ((&laquo;, ad eccezione))
+
+ delle spese relative agli impianti ferroviari 
+ ((,))
+
+ che sono a carico 
+ ((della società R.F.I.))
+
+ S.p.a., secondo quanto disciplinato dal quadro legislativo e regolatorio vigente&raquo;; 
  
 
  
@@ -227,7 +257,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) l'articolo 3-bis è sostituito dal seguente: 
  
 
- &laquo;Art. 3-bis. - 1. La Stretto di Messina S.p.A. costituisce società in house ai sensi dell'articolo 16 del decreto legislativo 19 agosto 2016, n. 175. 
+ &laquo;Art. 3-bis. - 1. La Stretto di Messina S.p.A. costituisce società in house ai sensi dell'articolo 16 del 
+ ((testo unico in materia di società a partecipazione pubblica, di cui al))
+
+ decreto legislativo 19 agosto 2016, n. 175. 
  
 
  2. Lo statuto della società prevede che oltre l'ottanta per cento del fatturato sia effettuato nello svolgimento dei compiti a essa affidata dagli enti pubblici soci. 
@@ -236,20 +269,50 @@ IL PRESIDENTE DELLA REPUBBLICA
  3. Ai fini dell'esercizio del controllo analogo, lo statuto definisce particolari prerogative e diritti spettanti agli amministratori designati dal Ministero dell'economia e delle finanze, d'intesa con il Ministero delle infrastrutture e dei trasporti. 
  
 
- 4. Il Ministero delle infrastrutture e dei trasporti provvede alla vigilanza sull'attività della società e definisce indirizzi idonei a garantire che, coerentemente con quanto previsto dall'articolo 2, comma 1, lettera c), del decreto legislativo n. 175 del 2016, sugli obiettivi strategici e sulle decisioni significative della medesima sia esercitata una influenza determinante da parte del medesimo Ministero. Per le predette funzioni, il Ministero delle infrastrutture e dei trasporti si avvale della Struttura tecnica di missione per l'indirizzo strategico, lo sviluppo delle infrastrutture e l'alta sorveglianza di cui all'articolo 214, comma 3 del decreto legislativo 18 aprile 2016, n. 50. Con decreto del Ministero delle infrastrutture e i trasporti sono attribuite le funzioni di responsabile della prevenzione della corruzione e della trasparenza ai sensi del decreto del Presidente della Repubblica 30 gennaio 2020.
+ 4. Il Ministero delle infrastrutture e dei trasporti provvede alla vigilanza sull'attività della società e definisce indirizzi idonei a garantire che, coerentemente con quanto previsto dall'articolo 2, comma 1, lettera c), del 
+ ((testo unico di cui al))
+
+ decreto legislativo n. 175 del 2016, sugli obiettivi strategici e sulle decisioni significative della medesima sia esercitata una influenza determinante da parte del medesimo Ministero. Per le predette funzioni, il Ministero delle infrastrutture e dei trasporti si avvale della Struttura tecnica di missione per l'indirizzo strategico, lo sviluppo delle infrastrutture e l'alta sorveglianza di cui all'articolo 214, comma 3 
+ ((, del codice dei contratti pubblici, di cui al decreto legislativo))
+
+ 18 aprile 2016, n. 50. Con decreto del Ministero delle infrastrutture 
+ ((e dei trasporti))
+
+ sono attribuite le funzioni di responsabile della prevenzione della corruzione e della trasparenza ai sensi 
+ ((dell'articolo 1, comma 7, della legge 6 novembre 2012, n. 190))
+
+ . All'attuazione del presente comma si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico 
+ ((della finanza pubblica.))
+
+ 
  
 
- All'attuazione del presente comma si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.&raquo;. 
+ 5. Il Ministro delle infrastrutture e dei trasporti propone al Presidente del Consiglio dei Ministri la nomina di un commissario straordinario qualora ne ravvisi la necessità, tenuto conto dell'attività di vigilanza svolta ai sensi del comma 4. Il commissario è nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, sentito il Ministro dell'economia e delle finanze 
+ ((. Il commissario opera))
+
+ secondo le disposizioni di cui all'articolo 12, comma 1, secondo periodo, comma 5, primo e quinto periodo, comma 6, terzo e quarto periodo 
+ ((,))
+
+ del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108. Il commissario si avvale, per l'espletamento delle proprie funzioni, delle risorse umane, strumentali e finanziarie della società concessionaria, nonchè di quelle della Struttura tecnica di missione per l'indirizzo strategico, lo sviluppo delle infrastrutture e l'alta sorveglianza del Ministero delle infrastrutture e dei trasporti, senza nuovi o maggiori oneri a carico della finanza pubblica.&raquo;; 
  
 
- 5. Il Ministro delle infrastrutture e dei trasporti propone al Presidente del Consiglio dei Ministri la nomina di un commissario straordinario qualora ne ravvisi la necessità, tenuto conto dell'attività di vigilanza svolta ai sensi del comma 4. Il commissario è nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, sentito il Ministro dell'economia e delle finanze, e il medesimo opera secondo le disposizioni di cui all'articolo 12, comma 1, secondo periodo, comma 5, primo e quinto periodo, comma 6, terzo e quarto periodo del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108. Il commissario si avvale, per l'espletamento delle proprie funzioni, delle risorse umane, strumentali e finanziarie della società concessionaria, nonchè di quelle della Struttura tecnica di missione per l'indirizzo strategico, lo sviluppo delle infrastrutture e l'alta sorveglianza del Ministero delle infrastrutture e dei trasporti, senza nuovi o maggiori oneri a carico della finanza pubblica.&raquo;; 
- 
-
  
  
 
  
- e) all'articolo 4, il comma 6 è sostituito dal seguente: &laquo;6. Con decreto del Ministro delle infrastrutture e dei trasporti si provvede alla costituzione, con oneri a carico della società concessionaria, di un Comitato scientifico, con compiti di consulenza tecnica, anche ai fini della supervisione e dell'indirizzo delle attività tecniche progettuali. Il Comitato scientifico opera secondo principi di autonomia e indipendenza ed esprime, in particolare, parere al Consiglio di amministrazione della società in ordine al progetto definitivo ed esecutivo dell'opera e delle varianti. Il Comitato scientifico è composto da 9 membri, scelti tra soggetti dotati di adeguata specializzazione ed esperienza.&raquo;; 
+ e) all'articolo 4, il comma 6 è sostituito dal seguente: &laquo;6. Con decreto del Ministro delle infrastrutture e dei trasporti si provvede alla costituzione, con oneri a carico della società concessionaria, 
+ ((nel limite massimo di 500.000 euro annui,))
+
+ di un Comitato scientifico, con compiti di consulenza tecnica, anche ai fini della supervisione e dell'indirizzo delle attività tecniche progettuali.
+ 
+
+ Il Comitato scientifico opera secondo principi di autonomia e indipendenza ed esprime, in particolare, parere al Consiglio di amministrazione della società in ordine al progetto definitivo ed esecutivo dell'opera e delle varianti. Il Comitato scientifico è composto da 9 membri, scelti 
+ ((, d'intesa con la Regione siciliana e la Regione Calabria,))
+
+ tra soggetti dotati di adeguata specializzazione ed esperienza. 
+ ((La Regione Calabria e la Regione siciliana si esprimono entro quindici giorni dalla richiesta dell'intesa di cui al terzo periodo; decorso tale termine, l'intesa si intende acquisita))
+
+ &raquo;; 
  
 
  
