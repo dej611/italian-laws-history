@@ -1,0 +1,773 @@
+IL MINISTRO DELL'AMBIENTE
+
+ 
+ E DELLA SICUREZZA ENERGETICA
+
+ 
+
+ 
+ di concerto con
+
+ 
+
+ 
+ IL MINISTRO DELL'ECONOMIA
+
+ 
+
+ 
+ E DELLE FINANZE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la direttiva 2008/98/CE del Parlamento europeo e del Consiglio del 19 novembre 2008 relativa ai rifiuti e che abroga alcune direttive;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, che, nel sopprimere il sistema di controllo della tracciabilità dei rifiuti (SISTRI), istituisce il Registro elettronico nazionale per la tracciabilità dei rifiuti (RENTRI) ed, in particolare, i commi 3 e 3-quater che stabiliscono i soggetti tenuti all'iscrizione al RENTRI e gli oneri a carico degli stessi per la copertura dei costi di funzionamento del Registro medesimo;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 3 aprile 2006, n. 152, recante &laquo;Norme in materia ambientale&raquo;, con particolare riguardo agli articoli 188-bis, 189, 190, 193 che disciplinano il sistema di tracciabilità dei rifiuti;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto, in particolare, l'articolo 188-bis del decreto legislativo n. 152 del 2006 che rinvia, tra l'altro, ad uno o più decreti del Ministro dell'ambiente e della tutela del territorio e del mare, adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, di concerto con il Ministro dell'economia e delle finanze, sentiti il Ministro dello sviluppo economico, il Ministro della pubblica amministrazione, il Ministro delle infrastrutture e dei trasporti nonchè, per gli aspetti di competenza, il Ministro delle politiche agricole alimentari e forestali, la definizione della disciplina del Registro elettronico nazionale, dei modelli di registro cronologico e dei formulari di identificazione, nonchè le modalità di tenuta degli stessi in formato digitale e di trasmissione dei dati al Registro e le modalità di svolgimento delle funzioni di gestione e supporto da parte dell'Albo nazionale dei gestori ambientali ai sensi del comma 1 del medesimo articolo 188-bis;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 258 del decreto legislativo n. 152 del 2006 che disciplina le violazioni degli obblighi di comunicazione, di tenuta dei registri obbligatori e dei formulari;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 25 gennaio 1994, n. 70 e, in particolare, l'articolo 1, commi 1, 2 e 3, e l'articolo 6, comma 1, relativi al modello unico di dichiarazione in tema di rifiuti, riguardo agli obblighi di dichiarazione, di comunicazione, di denuncia o di notificazione previsti dalle leggi, dai decreti e relative norme di attuazione, quali funzionali alle attività di segnalazione e rapporto (reporting) all'Unione europea;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, &laquo;Codice dell'amministrazione digitale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 22 febbraio 2013, recante &laquo;Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali, ai sensi degli articoli 20, comma 3, 24, comma 4, 28, comma 3, 32, comma 3, lettera b), 35, comma 2, 36, comma 2, e 71&raquo;, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 117 del 21 maggio 2013;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Viste le &laquo;Linee Guida AgID sulla formazione, gestione e conservazione dei documenti informatici - maggio 2021&raquo; in vigore dal 1° gennaio 2022, concernenti le regole tecniche in materia di formazione, protocollazione, gestione e conservazione del documento;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014 in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la determinazione AGID n. 406/2020, Adozione della Circolare recante la linea di indirizzo sull'interoperabilità tecnica e la circolare n. 1/2020 del 9 settembre 2020, recante Linea di indirizzo sull'interoperabilità tecnica e relativi allegati;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la determinazione AGID n. 547/2021, Adozione delle &laquo;Linee guida Tecnologie e standard per la sicurezza dell'interoperabilità tramite API dei sistemi informatici&raquo; e delle &laquo;Linee guida sull'interoperabilità tecnica delle pubbliche amministrazioni;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (Regolamento generale sulla protezione dei dati);
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196 relativo al &laquo;Codice in materia di protezione dei dati personali&raquo;, recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE;
+
+ 
+ 
+ 
+
+ 
+ Rilevato che in base al nuovo quadro normativo il &laquo;sistema di tracciabilità dei rifiuti&raquo; si compone delle procedure e degli strumenti relativi agli adempimenti ambientali di cui ai registri cronologici di carico e scarico, per la gestione della contabilità dei rifiuti, dei formulari di identificazione dei rifiuti, per le movimentazioni e trasporto, nonchè della comunicazione al catasto dei rifiuti, i cui dati vengono integrati nel RENTRI;
+
+ 
+
+ 
+ 
+ 
+ Visto il Piano Nazionale di Ripresa e Resilienza (PNRR) valutato positivamente con decisione del Consiglio ECOFIN del 13 luglio 2021 notificata all'Italia dal Segretariato generale del Consiglio con nota LT161/21 del 14 luglio 2021;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la missione M2-C1, Riforma 1.1, - Strategia nazionale per l'economia circolare, che prevede l'adozione di un nuovo sistema di tracciabilità dei rifiuti per lo sviluppo del mercato secondario delle materie prime, sistema fondato sul RENTRI;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti i traguardi, gli obiettivi e le ulteriori disposizioni definiti per la Riforma 1.1 Strategia nazionale per l'economia circolare dal medesimo allegato alla citata decisione di approvazione del Consiglio ECOFIN del 13 luglio 2021, ed in particolare il traguardo M2C1- previsto per il secondo trimestre - rappresentato dall'approvazione del decreto del Ministro dell'ambiente e della sicurezza energetica 24 giugno 2022, n. 259, che adotta la Strategia nazionale per l'economia circolare;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro dell'ambiente e della sicurezza energetica 24 giugno 2022, n. 257, con il quale è stato approvato il Programma Nazionale di Gestione dei rifiuti;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che la Strategia nazionale per l'economia circolare ed il Programma Nazionale per la Gestione dei Rifiuti prevedono tra gli obiettivi quello di supportare gli organi di controllo e le forze dell'ordine nella prevenzione e repressione, attraverso il nuovo sistema di tracciabilità dei rifiuti, nonchè quello di razionalizzare e ottimizzare il sistema impiantistico e infrastrutturale attraverso una pianificazione regionale basata sulla completa tracciabilità dei rifiuti;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Considerato che l'introduzione della modalità digitale per gli adempimenti ambientali risulta funzionale al RENTRI, consentendo la trasmissione ed acquisizione dei dati ambientali relativi al ciclo dei rifiuti e la gestione dei relativi flussi;
+
+ 
+ 
+ 
+
+ 
+ Dato atto che è stata effettuata la procedura partecipata con gli stakeholders;
+
+ 
+
+ 
+ Acquisito il concerto da parte del Ministro dell'economia e delle finanze, ai sensi dell'articolo 188-bis, comma 1, del decreto legislativo n. 152 del 2006, con nota prot. n. 4090 del 31 gennaio 2023;
+
+ 
+
+ 
+ Sentiti il Ministro delle imprese e del made in Italy, il Ministro per la pubblica amministrazione, il Ministro delle infrastrutture e dei trasporti nonchè, per gli aspetti di competenza, il Ministro dell'agricoltura, della sovranità alimentare e delle foreste, ai sensi dell'articolo 188-bis, comma 1, del decreto legislativo n. 152 del 2006, acquisiti con nota prot. n. 2733 del 3 febbraio 2023;
+
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali che ha espresso il proprio parere con provvedimento n. 287 del 22 agosto 2022;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione ai sensi dell'articolo 5 della direttiva (UE) 2015/1535, giusta notifica 2022/656/I del 29 settembre 2022;
+
+ 
+ 
+ 
+
+ 
+ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 20 dicembre 2022;
+
+ 
+
+ 
+ Effettuata la comunicazione al Presidente del Consiglio dei ministri, a norma dell'articolo 17, comma 3, della legge n. 400 del 1988, con nota prot. n. 4855 del 1° marzo 2023;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Oggetto e finalità
+
+ 
+ 
+ 1. In attuazione di quanto disposto dall'articolo 188-bis del decreto legislativo 3 aprile 2006, n. 152, il presente regolamento disciplina il sistema di tracciabilità dei rifiuti, che si compone delle procedure e degli adempimenti di cui agli articoli 189, 190 e 193 del medesimo decreto legislativo n. 152 del 2006, integrati nel Registro elettronico nazionale per la tracciabilità dei rifiuti, di seguito RENTRI, istituito ai sensi dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 2. Il presente regolamento disciplina in particolare l'organizzazione ed il funzionamento del sistema di tracciabilità, definendo: 
+ 
+
+ 
+ 
+
+ 
+ a) i modelli ed i formati relativi al registro cronologico di carico e scarico dei rifiuti ed al formulario di identificazione di cui agli articoli 190 e 193 del decreto legislativo n. 152 del 2006 con l'indicazione altresì delle modalità di compilazione, vidimazione e tenuta degli stessi; 
+ 
+
+ 
+ 
+
+ 
+ b) le modalità di iscrizione al RENTRI e i relativi adempimenti, da parte dei soggetti obbligati ovvero di coloro che intendano volontariamente aderirvi; 
+ 
+
+ 
+ 
+
+ 
+ c) il funzionamento del RENTRI, ivi incluse le modalità di trasmissione dei dati relativi ai documenti di cui alla lettera a); 
+ 
+
+ 
+ 
+
+ 
+ d) le modalità per la condivisione dei dati del RENTRI con l'Istituto superiore per la ricerca ambientale (ISPRA) al fine del loro inserimento nel Catasto di cui all'articolo 189 del decreto legislativo n. 152 del 2006, nonchè le modalità di coordinamento tra le comunicazioni di cui alla legge 25 gennaio 1994, n. 70, e gli adempimenti trasmessi al RENTRI, garantendone, ove possibile, la precompilazione automatica secondo quanto disposto dall'articolo 189, commi 8 e 9, del decreto legislativo n. 152 del 2006; 
+ 
+
+ 
+ 
+
+ 
+ e) le modalità di interoperabilità per l'acquisizione della documentazione di cui al regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio del 14 giugno 2006 relativo alle spedizioni di rifiuti; 
+ 
+
+ 
+ 
+
+ 
+ f) le modalità di svolgimento delle funzioni di supporto tecnico-operativo da parte dell'Albo nazionale gestori ambientali ai sensi dell'articolo 188-bis, comma 1, del decreto legislativo n. 152 del 2006; 
+ 
+
+ 
+ 
+
+ 
+ g) le modalità di accesso ai dati del RENTRI da parte degli organi di controllo; 
+ 
+
+ 
+ 
+
+ 
+ h) le modalità per la verifica e l'invio della comunicazione dell'avvio a recupero o smaltimento dei rifiuti, di cui all'articolo 188-bis, comma 4, lettera h), del decreto legislativo n. 152 del 2006, nonchè le responsabilità da attribuire all'intermediario. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 3. Gli allegati I e II disciplinano il modello di registro cronologico di carico e scarico e di formulario di identificazione di cui agli articoli 190 e 193 del decreto legislativo n. 152 del 2006.
+ 
+
+ L'allegato III definisce i contributi e il diritto di segreteria per l'iscrizione al RENTRI ai sensi dell'articolo 6 del decreto-legge n. 135 del 2018, convertito, con modificazioni, dalla legge n. 12 del 2019. Gli allegati I, II e III sono parte integrante del presente regolamento. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ NOTE 
+ 
+
+ Avvertenza: 
+ 
+
+ - Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ - Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE). 
+ 
+
+ Note alle premesse 
+ 
+
+ - Si riporta il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.: 
+ 
+
+ &laquo;Art. 17 (Regolamenti). (Omissis). 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ (Omissis).&raquo;. 
+ 
+
+ - La direttiva 2008/98/CE del 22 novembre 2008, relativa ai rifiuti e che abroga alcune direttive, è pubblicata nella Gazzetta Ufficiale dell'Unione europea 22 novembre 2008, n. L 312. 
+ 
+
+ - Si riporta il testo dell'articolo 6, del decreto-legge 14 dicembre 2018, n. 135, (Disposizioni urgenti in materia di sostegno e semplificazione per le imprese e per la pubblica amministrazione) pubblicato nella Gazzetta Ufficiale 14 dicembre 2018, n. 290, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12: 
+ 
+
+ &laquo;Art. 6 (Disposizioni in merito alla tracciabilità dei dati ambientali inerenti rifiuti). - 1. Dal 1° gennaio 2019 è soppresso il sistema di controllo della tracciabilità dei rifiuti (SISTRI) di cui all'articolo 188-ter del decreto legislativo 3 aprile 2006, n. 152 e, conseguentemente, non sono dovuti i contributi di cui all'articolo 14-bis del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e all'articolo 7 del decreto del Ministro dell'ambiente e della tutela del territorio e del mare 30 marzo 2016, n. 78. 
+ 
+
+ 2. Dal 1° gennaio 2019, sono abrogate, in particolare, le seguenti disposizioni: 
+ 
+
+ a) gli articoli 16, 35, 36, 39 commi 1, 2, 2-bis, 2-ter e 2-quater, 9, 10 e 15, del decreto legislativo 3 dicembre 2010, n. 205; 
+ 
+
+ b) l'articolo 11, commi 1, 2, 3, 3-bis, 4, 5, 7, 8, 9, 9-bis, secondo periodo, 10, 11, 12-bis, 12-ter, 12-quater e 13 del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013 n. 125; 
+ 
+
+ c) l'articolo 14-bis del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102. I contributi relativi all'anno 2018, compresi quelli eventualmente versati oltre la data del 31 dicembre 2018, sono riassegnati, con decreto del Ministro dell'economia e delle finanze, all'apposito capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. 
+ 
+
+ 3. A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto è istituito il Registro elettronico nazionale per la tracciabilità dei rifiuti, gestito direttamente dal Ministero dell'ambiente e della tutela del territorio e del mare, cui sono tenuti ad iscriversi, entro il termine individuato con il decreto di cui al comma 3-bis, gli enti e le imprese che effettuano il trattamento dei rifiuti, i produttori di rifiuti pericolosi e gli enti e le imprese che raccolgono o trasportano rifiuti pericolosi a titolo professionale o che operano in qualità di commercianti ed intermediari di rifiuti pericolosi, i Consorzi istituiti per il recupero e il riciclaggio di particolari tipologie di rifiuti, nonchè, con riferimento ai rifiuti non pericolosi, i soggetti di cui all'articolo 189, comma 3, del decreto legislativo 3 aprile 2006, n. 152. 
+ 
+
+ 3-bis. - 3-ter. 
+ 
+
+ 3-quater. L'iscrizione al Registro elettronico nazionale comporta il versamento di un diritto di segreteria e di un contributo annuale, al fine di assicurare l'integrale copertura dei costi di funzionamento del sistema. Con il medesimo decreto di cui al comma 3-bis, da aggiornare ogni tre anni, sono determinati gli importi dovuti a titolo di diritti di segreteria e di contributo nonchè le modalità di versamento. Agli oneri derivanti dall'istituzione del Registro elettronico nazionale, pari a 1,61 milioni di euro per l'anno 2019, si provvede: quanto a 1,5 milioni di euro per l'anno 2019, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare; quanto a 0,11 milioni di euro per l'anno 2019, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare. A decorrere dall'anno 2020 agli oneri di funzionamento si provvede con i proventi derivanti dai diritti di segreteria e con il contributo annuale, che sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnati, con decreto del Ministro dell'economia e delle finanze, ad apposito capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. 
+ 
+
+ 3-quinquies. 
+ 
+
+ 3-sexies. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.&raquo; 
+ 
+
+ - Si riporta il testo degli articoli 188-bis, 189, 190, 193, 258, del decreto legislativo 3 aprile 2006, n. 152 (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. n. 96: 
+ 
+
+ &laquo;Art. 188-bis (Sistema di tracciabilità dei rifiuti). - 1. Il sistema di tracciabilità dei rifiuti si compone delle procedure e degli strumenti di tracciabilità dei rifiuti integrati nel Registro elettronico nazionale per la tracciabilità dei rifiuti istituito ai sensi dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, e gestito con il supporto tecnico operativo dell'Albo nazionale dei gestori di cui all'articolo 212.
+ 
+
+ Per consentire la lettura integrata dei dati, gli adempimenti relativi alle modalità di compilazione e tenuta del registro di carico e scarico e del formulario identificativo di trasporto dei rifiuti, di cui agli articoli 190 e 193, sono effettuati secondo le modalità dettate con uno o più decreti del Ministro dell'ambiente e della tutela del territorio e del mare, adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, di concerto con il Ministro dell'economia e delle finanze, sentiti il Ministro dello sviluppo economico, il Ministro della pubblica amministrazione, il Ministro delle infrastrutture e dei trasporti nonchè, per gli aspetti di competenza, il Ministro delle politiche agricole alimentari e forestali. 
+ 
+
+ 2. In relazione alle esigenze organizzative e operative delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, connesse rispettivamente alla difesa e alla sicurezza militare dello Stato, alla tutela dell'ordine e della sicurezza pubblica, al soccorso pubblico e alla difesa civile, le procedure e le modalità con le quali il sistema di tracciabilità dei rifiuti si applica alle corrispondenti amministrazioni centrali sono individuate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare e del Ministro dell'economia e delle finanze e, per quanto di competenza, del Ministro della difesa e del Ministro dell'interno, sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano di cui al decreto legislativo 28 agosto 1997, n. 281, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. 
+ 
+
+ 3. Il Registro elettronico nazionale per la tracciabilità dei rifiuti, collocato presso la competente struttura organizzativa del Ministero dell'ambiente e della tutela del territorio e del mare, è articolato in: 
+ 
+
+ a) una sezione Anagrafica, comprensiva dei dati dei soggetti iscritti e delle informazioni relative alle specifiche autorizzazioni rilasciate agli stessi per l'esercizio di attività inerenti alla gestione dei rifiuti; 
+ 
+
+ b) una sezione Tracciabilità, comprensiva dei dati ambientali relativi agli adempimenti di cui agli articoli 190 e 193 e dei dati afferenti ai percorsi dei mezzi di trasporto nei casi stabiliti dal decreto di cui al comma 1. 
+ 
+
+ 4. I decreti di cui ai commi 1 e 2 disciplinano anche l'organizzazione ed il funzionamento del sistema di tracciabilità di cui al presente articolo, consentendo il colloquio con i sistemi gestionali degli utenti, pubblici e privati, attraverso apposite interfacce, favorendo la semplificazione amministrativa, garantendo un periodo preliminare di sperimentazione e la sostenibilità dei costi a carico degli aderenti al sistema, disponendo in particolare: 
+ 
+
+ a) i modelli ed i formati relativi al registro di carico e scarico dei rifiuti ed al formulario di identificazione di cui agli articoli 190 e 193 con l'indicazione altresì delle modalità di compilazione, vidimazione e tenuta in formato digitale degli stessi; 
+ 
+
+ b) le modalità di iscrizione al Registro elettronico nazionale, e relativi adempimenti, da parte dei soggetti obbligati ovvero di coloro che intendano volontariamente aderirvi, ai sensi del comma 3, dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, con la previsione di criteri di gradualità per la progressiva partecipazione degli operatori; 
+ 
+
+ c) il funzionamento del Registro elettronico nazionale, ivi incluse le modalità di trasmissione dei dati relativi ai documenti di cui alla lettera a), nonchè dei dati relativi ai percorsi dei mezzi di trasporto; 
+ 
+
+ d) le modalità per la condivisione dei dati del Registro elettronico con l'Istituto superiore per la ricerca ambientale (ISPRA) al fine del loro inserimento nel Catasto di cui all'articolo 189; 
+ 
+
+ e) le modalità di interoperabilità per l'acquisizione della documentazione di cui al regolamento (CE) n. 1013/2006, nonchè le modalità di coordinamento tra le comunicazioni di cui alla legge 25 gennaio 1994, n. 70 e gli adempimenti trasmessi al Registro elettronico nazionale; 
+ 
+
+ f) le modalità di svolgimento delle funzioni da parte dell'Albo nazionale indicate al comma 1; 
+ 
+
+ g) le modalità di accesso ai dati del Registro elettronico nazionale da parte degli organi di controllo; 
+ 
+
+ h) le modalità per la verifica e l'invio della comunicazione dell'avvio a recupero o smaltimento dei rifiuti, di cui all'articolo 188, comma 5, nonchè le responsabilità da attribuire all'intermediario. 
+ 
+
+ 5. Gli adempimenti relativi agli articoli 190 e 193 sono effettuati digitalmente da parte dei soggetti obbligati ovvero di coloro che intendano volontariamente aderirvi ai sensi del comma 3 dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135; negli altri casi i suddetti adempimenti possono essere assolti mediante il formato cartaceo. In entrambi i casi la modulistica è scaricabile direttamente dal Registro elettronico nazionale. 
+ 
+
+ 6. Al fine di garantire tempestivi adeguamenti dei modelli di cui alla lettera a) del comma 2, in caso di intervenute novità tecniche o operative, gli aggiornamenti sono adottati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di natura non regolamentare, sentiti i Ministri indicati al comma 1 e sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano. 
+ 
+
+ 7. Fino all'entrata in vigore del decreto previsto al comma 1 continuano ad applicarsi i decreti del Ministro dell'ambiente 1° aprile 1998, n. 145 e 1° aprile 1998, n. 148, recanti i modelli di registro di carico e scarico e di formulario di identificazione del rifiuto.&raquo; 
+ 
+
+ &laquo;Art. 189 (Catasto dei rifiuti). - 1. Il Catasto dei rifiuti, istituito dall'articolo 3 del decreto-legge 9 settembre 1988, n. 397, convertito, con modificazioni, dalla legge 9 novembre 1988, n. 475, è articolato in una Sezione nazionale, che ha sede in Roma presso l'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) ed in Sezioni regionali o delle Province autonome di Trento e Bolzano presso le corrispondenti Agenzie regionali e delle Province autonome per la protezione dell'ambiente. Le norme di organizzazione del Catasto sono emanate ed aggiornate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro delle politiche agricole alimentari e forestali.
+ 
+
+ Sino all'emanazione del decreto di cui al secondo periodo continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'ambiente 4 agosto 1998, n. 372. 
+ 
+
+ 2. Il Catasto assicura, anche ai fini della pianificazione delle attività di gestione dei rifiuti, un quadro conoscitivo, completo e costantemente aggiornato, dei dati raccolti ai sensi della legge 25 gennaio 1994, n. 70 e mediante gli strumenti di tracciabilità di cui alla presente Parte IV, utilizzando la nomenclatura prevista dalla disciplina europea e nazionale di riferimento. 
+ 
+
+ 3. Chiunque effettua a titolo professionale attività di raccolta e trasporto di rifiuti, i commercianti e gli intermediari di rifiuti senza detenzione, le imprese e gli enti che effettuano operazioni di recupero e di smaltimento di rifiuti, i Consorzi e i sistemi riconosciuti, gli istituiti per il recupero e riciclaggio degli imballaggi e di particolari tipologie di rifiuti, nonchè le imprese e gli enti produttori iniziali di rifiuti pericolosi e le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all'articolo 184, comma 3, lettere c), d) e g), comunicano annualmente alle Camere di commercio, industria, artigianato e agricoltura territorialmente competenti, con le modalità previste dalla legge 25 gennaio 1994, n. 70, le quantità e le caratteristiche qualitative dei rifiuti oggetto delle predette attività, dei materiali prodotti all'esito delle attività di recupero nonchè i dati relativi alle autorizzazioni ed alle comunicazioni inerenti le attività di gestione dei rifiuti. Sono esonerati da tale obbligo gli imprenditori agricoli di cui all'articolo 2135 del codice civile con un volume di affari annuo non superiore a euro ottomila, le imprese che raccolgono e trasportano i propri rifiuti non pericolosi, di cui all'articolo 212, comma 8, nonchè, per i soli rifiuti non pericolosi, le imprese e gli enti produttori iniziali che non hanno più di dieci dipendenti. 
+ 
+
+ 4. Nel caso in cui i produttori di rifiuti speciali conferiscano i medesimi al servizio pubblico di raccolta competente per territorio, ovvero ad un circuito organizzato di raccolta di cui all'articolo 183, comma 1, lettera pp), previa apposita convenzione, la comunicazione è effettuata dal gestore del servizio limitatamente alla quantità conferita. 
+ 
+
+ 5. I soggetti responsabili del servizio di gestione integrata dei rifiuti urbani comunicano annualmente, secondo le modalità previste dalla legge 25 gennaio 1994, n. 70, le seguenti informazioni relative all'anno precedente: 
+ 
+
+ a) la quantità dei rifiuti urbani raccolti nel proprio territorio; 
+ 
+
+ b) la quantità dei rifiuti speciali raccolti nel proprio territorio a seguito di apposita convenzione con soggetti pubblici o privati; 
+ 
+
+ c) i soggetti che hanno provveduto alla gestione dei rifiuti, specificando le operazioni svolte, le tipologie e la quantità dei rifiuti gestiti da ciascuno; 
+ 
+
+ d) i costi di gestione e di ammortamento tecnico e finanziario degli investimenti per le attività di gestione dei rifiuti, nonchè i proventi della tariffa di cui all'articolo 238 ed i proventi provenienti dai consorzi finalizzati al recupero dei rifiuti; 
+ 
+
+ e) i dati relativi alla raccolta differenziata; 
+ 
+
+ f) le quantità raccolte, suddivise per materiali, in attuazione degli accordi con i consorzi finalizzati al recupero dei rifiuti. 
+ 
+
+ 6. La Sezione nazionale rende disponibili, entro trenta giorni dal ricevimento, alle Sezioni regionali e provinciali le banche dati trasmesse dalle Camere di commercio, industria, artigianato e agricoltura ai sensi dell'articolo 2, comma 2, della legge 25 gennaio 1994, n. 70. Le Sezioni regionali e provinciali provvedono all'elaborazione dei dati, secondo una metodologia condivisa ai sensi dell'articolo 4 della legge 28 giugno 2016, n. 132, ed alla successiva trasmissione alla Sezione nazionale entro novanta giorni dal ricevimento, delle informazioni di cui ai commi 2, 3, 4 e 5. L'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) elabora i dati, evidenziando le tipologie e le quantità dei rifiuti prodotti, raccolti, trasportati, recuperati e smaltiti, nonchè gli impianti di smaltimento e di recupero in esercizio e ne assicura la pubblicità anche attraverso la pubblicazione di un rapporto annuale. 
+ 
+
+ 7. Per le comunicazioni relative ai rifiuti di imballaggio si applica quanto previsto dall'articolo 220, comma 2. 
+ 
+
+ 8. La Sezione nazionale del catasto dei rifiuti e il Registro elettronico nazionale di cui all'articolo 188-bis, assicurano il coordinamento e la condivisione dei dati, anche al fine di consentire un'opportuna pubblicità alle informazioni. 
+ 
+
+ 9. Il decreto di cui all'articolo 188-bis, comma 1, disciplina le modalità di coordinamento tra le comunicazioni al Catasto dei rifiuti e gli adempimenti trasmessi al Registro elettronico nazionale, garantendone la precompilazione automatica.&raquo; 
+ 
+
+ &laquo;Art. 190 (Registro cronologico di carico e scarico).
+ 
+
+ - 1. Chiunque effettua a titolo professionale attività di raccolta e trasporto di rifiuti, i commercianti e gli intermediari di rifiuti senza detenzione, le imprese e gli enti che effettuano operazioni di recupero e di smaltimento di rifiuti, i Consorzi e i sistemi riconosciuti, istituiti per il recupero e riciclaggio degli imballaggi e di particolari tipologie di rifiuti, nonchè le imprese e gli enti produttori iniziali di rifiuti pericolosi e le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all'articolo 184, comma 3, lettere c), d) e g), ha l'obbligo di tenere un registro cronologico di carico e scarico, in cui sono indicati per ogni tipologia di rifiuto la quantità prodotta, la natura e l'origine di tali rifiuti e la quantità dei prodotti e materiali ottenuti dalle operazioni di trattamento quali preparazione per riutilizzo, riciclaggio e altre operazioni di recupero nonchè, laddove previsto, gli estremi del formulario di identificazione di cui all'articolo 193. 
+ 
+
+ 2. Il modello di registro cronologico di carico e scarico è disciplinato con il decreto di cui all'articolo 188-bis, comma 1. Fino alla data di entrata in vigore del suddetto decreto continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'ambiente 1° aprile 1998, n. 148, nonchè le disposizioni relative alla numerazione e vidimazione dei registri da parte delle Camere di commercio territorialmente competenti con le procedure e le modalità fissate dalla normativa sui registri IVA. 
+ 
+
+ 3. Le annotazioni di cui al comma 1, da riportare nel registro cronologico, sono effettuate: 
+ 
+
+ a) per i produttori iniziali, almeno entro dieci giorni lavorativi dalla produzione del rifiuto e dallo scarico del medesimo; 
+ 
+
+ b) per i soggetti che effettuano la raccolta e il trasporto, almeno entro dieci giorni lavorativi dalla data di consegna dei rifiuti all'impianto di destino; 
+ 
+
+ c) per i commercianti, gli intermediari e i consorzi, almeno entro dieci giorni lavorativi dalla data di consegna dei rifiuti all'impianto di destino; 
+ 
+
+ d) per i soggetti che effettuano le operazioni di recupero e di smaltimento, entro due giorni lavorativi dalla presa in carico dei rifiuti. 
+ 
+
+ 4. I soggetti e le organizzazioni di cui agli articoli 221, comma 3, lettere a) e c), 223, 224, 228, 233, 234 e 236, possono adempiere all'obbligo di cui al comma 1 tramite analoghe evidenze documentali o gestionali. 
+ 
+
+ 5. Sono esonerati dall'obbligo di cui al comma 1 gli imprenditori agricoli di cui all'articolo 2135 del codice civile, con un volume di affari annuo non superiore a euro ottomila, le imprese che raccolgono e trasportano i propri rifiuti non pericolosi, di cui all'articolo 212, comma 8, nonchè, per i soli rifiuti non pericolosi, le imprese e gli enti produttori iniziali che non hanno più di dieci dipendenti. 
+ 
+
+ 6. Gli imprenditori agricoli di cui all'articolo 2135 del codice civile produttori iniziali di rifiuti pericolosi, nonchè i soggetti esercenti attività ricadenti nell'ambito dei codici ATECO 96.02.01, 96.02.02, 96.02.03 e 96.09.02 che producono rifiuti pericolosi, compresi quelli aventi codice EER 18.01.03*, relativi ad aghi, siringhe e oggetti taglienti usati ed i produttori di rifiuti pericolosi non rientranti in organizzazione di ente o impresa, quando obbligati alla tenuta del registro ai sensi del comma 1, possono adempiere all'obbligo con una delle seguenti modalità: 
+ 
+
+ a) con la conservazione progressiva per tre anni del formulario di identificazione di cui all'articolo 193, comma 1, relativo al trasporto dei rifiuti o dei documenti sostitutivi previsti dall'articolo 193; 
+ 
+
+ b) con la conservazione per tre anni del documento di conferimento rilasciato dal soggetto che provvede alla raccolta di detti rifiuti nell'ambito del circuito organizzato di raccolta di cui all'articolo 183. Tale modalità è valida anche ai fini della comunicazione al catasto di cui all'articolo 189. 
+ 
+
+ 7. I soggetti la cui produzione annua di rifiuti non eccede le venti tonnellate di rifiuti non pericolosi e le quattro tonnellate di rifiuti pericolosi, in luogo della tenuta in proprio dei registri di carico e scarico dei rifiuti, possono adempiere tramite le organizzazioni di categoria interessate o loro società di servizi che provvedono ad annotare i dati con cadenza mensile, mantenendo presso la sede operativa dell'impresa copia delle annotazioni o, comunque, rendendola tempestivamente disponibile su richiesta degli organi di controllo. 
+ 
+
+ 8. Per le attività di gestione dei rifiuti costituiti da rottami ferrosi e non ferrosi, gli obblighi connessi alla tenuta dei registri di carico e scarico si intendono assolti anche tramite l'utilizzo dei registri IVA di acquisto e di vendita secondo le procedure e le modalità fissate dall'articolo 39 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 e successive modifiche. 
+ 
+
+ 9. Le operazioni di gestione dei centri di raccolta di cui all'articolo 183 sono escluse dagli obblighi del presente articolo limitatamente ai rifiuti non pericolosi.
+ 
+
+ Per i rifiuti pericolosi la registrazione del carico e dello scarico può essere effettuata contestualmente al momento dell'uscita dei rifiuti stessi dal centro di raccolta e in maniera cumulativa per ciascun codice dell'elenco dei rifiuti. 
+ 
+
+ 10. I registri sono tenuti, o resi accessibili, presso ogni impianto di produzione, di stoccaggio, di recupero e di smaltimento di rifiuti, ovvero per le imprese che effettuano attività di raccolta e trasporto e per i commercianti e gli intermediari, presso la sede operativa.
+ 
+
+ I registri, integrati con i formulari di cui all'articolo 193 relativi al trasporto dei rifiuti, sono conservati per tre anni dalla data dell'ultima registrazione. I registri relativi alle operazioni di smaltimento dei rifiuti in discarica devono essere conservati a tempo indeterminato e consegnati all'autorità che ha rilasciato l'autorizzazione, alla chiusura dell'impianto. I registri relativi agli impianti dismessi o non presidiati possono essere tenuti presso la sede legale del soggetto che gestisce l'impianto. 
+ 
+
+ 11. I registri relativi ai rifiuti prodotti dalle attività di manutenzione di cui all'articolo 230 possono essere tenuti nel luogo di produzione dei rifiuti, così come definito dal medesimo articolo. Per rifiuti prodotti dalle attività di manutenzione di impianti e infrastrutture a rete e degli impianti a queste connessi, i registri possono essere tenuti presso le sedi di coordinamento organizzativo del gestore, o altro centro equivalente, previa comunicazione all'ARPA territorialmente competente ovvero al Registro elettronico nazionale di cui all'articolo 188-bis. 
+ 
+
+ 12. Le informazioni contenute nel registro sono utilizzate anche ai fini della comunicazione annuale al Catasto di cui all'articolo 189. 
+ 
+
+ 13. Le informazioni contenute nel registro sono rese disponibili in qualunque momento all'autorità di controllo che ne faccia richiesta.&raquo; 
+ 
+
+ &laquo;Art. 193 (Trasporto dei rifiuti). - 1. Il trasporto dei rifiuti, eseguito da enti o imprese, è accompagnato da un formulario di identificazione (FIR) dal quale devono risultare i seguenti dati: 
+ 
+
+ a) nome ed indirizzo del produttore e del detentore; 
+ 
+
+ b) origine, tipologia e quantità del rifiuto; 
+ 
+
+ c) impianto di destinazione; 
+ 
+
+ d) data e percorso dell'istradamento; 
+ 
+
+ e) nome ed indirizzo del destinatario. 
+ 
+
+ 2. Con il decreto di cui all'articolo 188-bis, comma 1, sono disciplinati il modello del formulario di identificazione del rifiuto e le modalità di numerazione, vidimazione, tenuta e trasmissione al Registro elettronico nazionale, con possibilità di scaricare dal medesimo Registro elettronico il formato cartaceo. Possono essere adottati modelli di formulario per particolari tipologie di rifiuti ovvero per particolari forme di raccolta. 
+ 
+
+ 3. Fino alla data di entrata in vigore del decreto di cui all'articolo 188-bis, comma 1, continuano ad applicarsi il decreto del Ministro dell'ambiente 1° aprile 1998, n. 145, nonchè le disposizioni relative alla numerazione e vidimazione dagli uffici dell'Agenzia delle entrate o dalle Camere di commercio, industria, artigianato e agricoltura o dagli uffici regionali e provinciali competenti in materia di rifiuti. La vidimazione dei formulari di identificazione è gratuita e non è soggetta ad alcun diritto o imposizione tributaria. 
+ 
+
+ 4. Fino all'emanazione del decreto di cui all'articolo 188-bis, comma 1, il formulario in formato cartaceo è redatto in quattro esemplari, compilati, datati e firmati dal produttore o detentore, sottoscritti altresì dal trasportatore; una copia deve rimanere presso il produttore o il detentore, le altre tre, sottoscritte e datate in arrivo dal destinatario, sono acquisite una dal destinatario e due dal trasportatore, che provvede a trasmetterne una al produttore o al detentore. La trasmissione della quarta copia può essere sostituita dall'invio mediante posta elettronica certificata sempre che il trasportatore assicuri la conservazione del documento originale ovvero provveda, successivamente, all'invio dello stesso al produttore. Le copie del formulario devono essere conservate per tre anni. 
+ 
+
+ 5. Fino alla data di entrata in vigore del decreto di cui all'articolo 188-bis, comma 1, in alternativa alle modalità di vidimazione di cui al comma 3, il formulario di identificazione del rifiuto è prodotto in format esemplare, conforme al decreto del Ministro dell'ambiente 1° aprile 1998, n. 145, identificato da un numero univoco, tramite apposita applicazione raggiungibile attraverso i portali istituzionali delle Camere di Commercio, da stamparsi e compilarsi in duplice copia. La medesima applicazione rende disponibile, a coloro che utilizzano propri sistemi gestionali per la compilazione dei formulari, un accesso dedicato al servizio anche in modalità telematica al fine di consentire l'apposizione del codice univoco su ciascun formulario. Una copia rimane presso il produttore e l'altra accompagna il rifiuto fino a destinazione. Il trasportatore trattiene una fotocopia del formulario compilato in tutte le sue parti. Gli altri soggetti coinvolti ricevono una fotocopia del formulario completa in tutte le sue parti. Le copie del formulario devono essere conservate per tre anni. 
+ 
+
+ 6. Durante la raccolta e il trasporto i rifiuti pericolosi devono essere imballati ed etichettati in conformità alle norme vigenti in materia. 
+ 
+
+ 7. Le disposizioni di cui al comma 1 non si applicano al trasporto di rifiuti urbani ai centri di raccolta di cui all'articolo 183, effettuato dal produttore iniziale degli stessi; al soggetto che gestisce il servizio pubblico; ai trasporti di rifiuti speciali non pericolosi, effettuati dal produttore dei rifiuti stessi in modo occasionale e saltuario. Sono considerati occasionali e saltuari i trasporti effettuati per non più di cinque volte l'anno, che non eccedano la quantità giornaliera di trenta chilogrammi o di trenta litri. 
+ 
+
+ 8. Le disposizioni di cui al comma 1 non si applicano altresì al trasporto di rifiuti speciali di cui all'articolo 184, comma 3, lettera a), effettuato dal produttore in modo occasionale e saltuario, come definito al comma 7, per il conferimento al gestore del servizio pubblico di raccolta, ovvero al circuito organizzato di raccolta di cui all'articolo 183, comma 1, lettera pp), con i quali sia stata stipulata apposita convenzione. 
+ 
+
+ 9. Per i rifiuti oggetto di spedizioni transfrontaliere, il formulario di cui al presente articolo è sostituito dai documenti previsti dall'articolo 194, anche con riguardo alla tratta percorsa su territorio nazionale. 
+ 
+
+ 10. Il formulario di identificazione di cui al comma 1, con riguardo all'utilizzazione dei fanghi di depurazione in agricoltura, può sostituire il documento di cui all'articolo 13 del decreto legislativo 27 gennaio 1992, n. 99 e successive modificazioni, a condizione che siano espressamente riportate in maniera chiara e leggibile le specifiche informazioni di cui all'allegato III A del citato decreto legislativo n. 99 del 1992, nonchè le sottoscrizioni richieste, ancorchè non previste nel modello del formulario. 
+ 
+
+ 11. La movimentazione dei rifiuti esclusivamente all'interno di aree private non è considerata trasporto ai fini della Parte quarta del presente decreto e non necessita di formulario di identificazione. 
+ 
+
+ 12. La movimentazione dei rifiuti tra fondi appartenenti alla medesima azienda agricola, ancorchè effettuati percorrendo la pubblica via, non è considerata trasporto ai fini del presente decreto qualora risulti comprovato da elementi oggettivi ed univoci che sia finalizzata unicamente al raggiungimento del luogo di messa a dimora dei rifiuti in deposito temporaneo e la distanza fra i fondi non sia superiore a quindici chilometri; non è altresì considerata trasporto la movimentazione dei rifiuti effettuata dall'imprenditore agricolo di cui all'articolo 2135 del codice civile dai propri fondi al sito che sia nella disponibilità giuridica della cooperativa di cui è socio, ivi compresi i consorzi agrari, qualora sia finalizzata al raggiungimento del deposito temporaneo. 
+ 
+
+ 13. Il documento commerciale di cui al regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio, per gli operatori soggetti all'obbligo della tenuta dei registri di carico e scarico di cui all'articolo 190 sostituisce a tutti gli effetti il formulario di identificazione di cui al comma 1. Con il decreto di cui all'articolo 188-bis, comma 1, sono disciplinate le modalità di trasmissione al Registro elettronico nazionale (REN). 
+ 
+
+ 14. La micro-raccolta, intesa come raccolta di rifiuti da parte di un unico raccoglitore o trasportatore presso più produttori o detentori, svolta con lo stesso automezzo, ovvero presso diverse unità locali dello stesso produttore, deve essere effettuata nel termine massimo di 48 ore; nei formulari di identificazione dei rifiuti devono essere indicate tutte le tappe intermedie effettuate. Nel caso in cui il percorso dovesse subire delle variazioni, nello spazio relativo alle annotazioni deve essere indicato a cura del trasportatore il percorso realmente effettuato. 
+ 
+
+ 15. Gli stazionamenti dei veicoli in configurazione di trasporto, nonchè le soste tecniche per le operazioni di trasbordo, ivi compresi quelli effettuati con cassoni e dispositivi scarrabili, o con altre carrozzerie mobili che proseguono il trasporto, non rientrano nelle attività di stoccaggio di cui all'articolo 183, comma 1, aa), purchè le stesse siano dettate da esigenze di trasporto e non superino le 72 ore, escludendo dal computo i giorni interdetti alla circolazione. 
+ 
+
+ 16. Il formulario di identificazione dei rifiuti di cui al comma 1 sostituisce a tutti gli effetti il modello F di cui al decreto ministeriale 16 maggio 1996, n. 392 e la scheda di cui all'allegato IB del decreto del Ministero dell'ambiente e della tutela del territorio e del mare 8 aprile 2008. 
+ 
+
+ 17. Nella compilazione del formulario di identificazione, ogni operatore è responsabile delle informazioni inserite e sottoscritte nella parte di propria competenza. Il trasportatore non è responsabile per quanto indicato nel formulario di identificazione dal produttore o dal detentore dei rifiuti e per le eventuali difformità tra la descrizione dei rifiuti e la loro effettiva natura e consistenza, fatta eccezione per le difformità riscontrabili in base alla Comune diligenza. 
+ 
+
+ 18. Ferma restando la disciplina in merito all'attività sanitaria e relativi rifiuti prodotti, ai fini del deposito e del trasporto, i rifiuti provenienti da assistenza sanitaria svolta al di fuori delle strutture sanitarie di riferimento e da assistenza domiciliare si considerano prodotti presso l'unità locale, sede o domicilio dell'operatore che svolge tali attività. La movimentazione di quanto prodotto, dal luogo dell'intervento fino alla sede di chi lo ha svolto, non comporta l'obbligo di tenuta del formulario di identificazione del rifiuto e non necessita di iscrizione all'Albo ai sensi dell'articolo 212. 
+ 
+
+ 19. I rifiuti derivanti da attività di manutenzione e piccoli interventi edili, ivi incluse le attività di cui alla legge 25 gennaio 1994, n. 82, si considerano prodotti presso l'unità locale, sede o domicilio del soggetto che svolge tali attività. Nel caso di quantitativi limitati che non giustificano l'allestimento di un deposito dove è svolta l'attività, il trasporto dal luogo di effettiva produzione alla sede, in alternativa al formulario di identificazione, è accompagnato dal documento di trasporto (DDT) attestante il luogo di effettiva produzione, tipologia e quantità dei materiali, indicando il numero di colli o una stima del peso o volume, il luogo di destinazione. 
+ 
+
+ 20. Per le attività di cui all'articolo 230, commi 1 e 3, con riferimento alla movimentazione del materiale tolto d'opera prodotto, al fine di consentire le opportune valutazioni tecniche e di funzionalità dei materiali riutilizzabili, lo stesso è accompagnato dal documento di trasporto (DDT) attestante il luogo di effettiva produzione, tipologia e quantità dei materiali, indicando il numero di colli o una stima del peso o volume, il luogo di destinazione.&raquo; 
+ 
+
+ &laquo;Art. 258 (Violazione degli obblighi di comunicazione, di tenuta dei registri obbligatori e dei formulari). - 1. I soggetti di cui all'articolo 189, comma 3, che non effettuano la comunicazione ivi prescritta ovvero la effettuano in modo incompleto o inesatto sono puniti con la sanzione amministrativa pecuniaria da duemila a diecimila euro; se la comunicazione è effettuata entro il sessantesimo giorno dalla scadenza del termine stabilito ai sensi della legge 25 gennaio 1994, n. 70, si applica la sanzione amministrativa pecuniaria da ventisei euro a centosessanta euro. 
+ 
+
+ 2. Chiunque omette di tenere ovvero tiene in modo incompleto il registro di carico e scarico di cui all'articolo 190, comma 1, è punito con la sanzione amministrativa pecuniaria da duemila a diecimila euro. Se il registro è relativo a rifiuti pericolosi si applica la sanzione amministrativa pecuniaria da diecimila euro a trentamila euro, nonchè nei casi più gravi, la sanzione amministrativa accessoria facoltativa della sospensione da un mese a un anno dalla carica rivestita dal soggetto responsabile dell'infrazione e dalla carica di amministratore. 
+ 
+
+ 3. Nel caso di imprese che occupino un numero di unità lavorative inferiore a 15 dipendenti, le sanzioni sono quantificate nelle misure minime e massime da millequaranta euro a seimiladuecento euro per i rifiuti non pericolosi e da duemilasettanta euro a dodicimilaquattrocento euro per i rifiuti pericolosi. Il numero di unità lavorative è calcolato con riferimento al numero di dipendenti occupati mediamente a tempo pieno durante un anno, mentre i lavoratori a tempo parziale e quelli stagionali rappresentano frazioni di unità lavorative annue; ai predetti fini l'anno da prendere in considerazione è quello dell'ultimo esercizio contabile approvato, precedente il momento di accertamento dell'infrazione. 
+ 
+
+ 4. Salvo che il fatto costituisca reato, chiunque effettua il trasporto di rifiuti senza il formulario di cui all'articolo 193 o senza i documenti sostitutivi ivi previsti, ovvero riporta nel formulario stesso dati incompleti o inesatti è punito con la sanzione amministrativa pecuniaria da milleseicento euro a diecimila euro. Si applica la pena dell'articolo 483 del codice penale nel caso di trasporto di rifiuti pericolosi. Tale ultima pena si applica anche a chi nella predisposizione di un certificato di analisi di rifiuti, fornisce false indicazioni sulla natura, sulla composizione e sulle caratteristiche chimico-fisiche dei rifiuti e a chi fa uso di un certificato falso durante il trasporto. 
+ 
+
+ 5. Nei casi di cui ai commi 1, 2 e 4, ove le informazioni, pur formalmente incomplete o inesatte, siano rinvenibili in forma corretta dai dati riportati nella comunicazione al catasto, nei registri cronologici di carico e scarico, nei formulari di identificazione dei rifiuti trasportati e nelle altre scritture contabili tenute per legge, si applica la sanzione amministrativa pecuniaria da duecentosessanta euro a millecinquecentocinquanta euro. La stessa pena si applica nei casi di indicazioni formalmente incomplete o inesatte, ma contenenti gli elementi atti a ricostruire le informazioni richieste ai sensi di legge, nonchè nei casi di mancato invio alle autorità competenti e di mancata conservazione dei registri di cui all'articolo 190, comma 1, o del formulario di cui all'articolo 193. La sanzione ridotta di cui alla presente disposizione si applica alla omessa o incompleta tenuta dei registri cronologici di carico e scarico da parte del produttore quando siano presenti i formulari di trasporto, a condizione che la data di produzione e presa in carico dei rifiuti possa essere dimostrata, o coincida con la data di scarico dei rifiuti stessi. 
+ 
+
+ 6. I soggetti di cui all'articolo 220, comma 2, che non effettuano la comunicazione ivi prescritta ovvero la effettuino in modo incompleto o inesatto sono puniti con la sanzione amministrativa pecuniaria da duemila euro a diecimila euro; nel caso in cui la comunicazione sia effettuata entro il sessantesimo giorno dalla scadenza del termine stabilito ai sensi della legge 25 gennaio 1994, n. 70, si applica la sanzione amministrativa pecuniaria da ventisei euro a centosessanta euro. 
+ 
+
+ 7. I soggetti responsabili del servizio di gestione integrata dei rifiuti urbani che non effettuano la comunicazione di cui all'articolo 189, comma 5, ovvero la effettuano in modo incompleto o inesatto, sono puniti con la sanzione amministrativa pecuniaria da duemila euro a diecimila euro; nel caso in cui la comunicazione sia effettuata entro il sessantesimo giorno dalla scadenza del termine stabilito ai sensi della legge 25 gennaio 1994, n. 70, si applica la sanzione amministrativa pecuniaria da ventisei euro a centosessanta euro. 
+ 
+
+ 8. In caso di violazione di uno o più degli obblighi previsti dall'articolo 184, commi 5- bis.1 e 5-bis.2, e dall'articolo 241-bis, commi 4-bis, 4-ter e 4-quater, del presente decreto, il comandante del poligono militare delle Forze armate è punito con la sanzione amministrativa pecuniaria da tremila euro a diecimila euro. In caso di violazione reiterata degli stessi obblighi si applica la sanzione amministrativa pecuniaria da cinquemila euro a ventimila euro. 
+ 
+
+ 9. Chi con un'azione od omissione viola diverse disposizioni di cui al presente articolo, ovvero commette più violazioni della stessa disposizione, soggiace alla sanzione amministrativa prevista per la violazione più grave, aumentata sino al doppio. La stessa sanzione si applica a chi con più azioni od omissioni, esecutive di un medesimo disegno, commette anche in tempi diversi più violazioni della stessa o di diverse disposizioni di cui al presente articolo. 
+ 
+
+ 10. Salvo che il fatto costituisca reato e fermo restando l'obbligo di corrispondere i contributi pregressi eventualmente non versati, la mancata o irregolare iscrizione al Registro di cui all'articolo 188-bis, nelle tempistiche e con le modalità definite nel decreto di cui al comma 1 del medesimo articolo, comporta l'applicazione di una sanzione amministrativa pecuniaria da cinquecento euro a duemila euro, per i rifiuti non pericolosi, e da mille euro a tremila euro per i rifiuti pericolosi. La mancata o incompleta trasmissione dei dati informativi con le tempistiche e le modalità ivi definite comporta l'applicazione di una sanzione amministrativa pecuniaria da cinquecento euro a duemila euro per i rifiuti non pericolosi e da mille euro a tremila euro per i rifiuti pericolosi. 
+ 
+
+ 11. Le sanzioni di cui al comma 10 sono ridotte ad un terzo nel caso in cui si proceda all'iscrizione al Registro entro sessanta giorni dalla scadenza dei termini previsti dal decreto di cui al comma 1 dell'articolo 188-bis e dalle procedure operative. Non è soggetta alle sanzioni di cui al comma 11 la mera correzione di dati, comunicata con le modalità previste dal decreto citato. 
+ 
+
+ 12. Gli importi delle sanzioni di cui al comma 10 sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnati, con decreto del Ministro dell'economia e delle finanze, ai pertinenti capitoli dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare, destinati agli interventi di bonifica dei siti di cui all'articolo 252, comma 5, ove ricorrano le condizioni di cui all'articolo 253, comma 5, secondo criteri e modalità di ripartizione fissati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare. 
+ 
+
+ 13. Le sanzioni di cui al presente articolo, conseguenti alla trasmissione o all'annotazione di dati incompleti o inesatti sono applicate solo nell'ipotesi in cui i dati siano rilevanti ai fini della tracciabilità, con esclusione degli errori materiali e violazioni formali.
+ 
+
+ In caso di dati incompleti o inesatti rilevanti ai fini della tracciabilità di tipo seriale, si applica una sola sanzione aumentata fino al triplo.&raquo;. 
+ 
+
+ - Si riporta il testo degli articoli 1 e 6 della legge 25 gennaio 1994, n. 70 (Norme per la semplificazione degli adempimenti in materia ambientale, sanitaria e di sicurezza pubblica, nonchè per l'attuazione del sistema di ecogestione e di audit ambientale), pubblicata nella Gazzetta Ufficiale del 31 gennaio 1994, n. 24: 
+ 
+
+ &laquo;Art. 1 (Modello unico di dichiarazione). - 1. Con decreto del Presidente della Repubblica emanato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'ambiente, sentiti il Ministro della sanità e il Ministro dell'interno, entro centottanta giorni dalla data di entrata in vigore della presente legge, sono stabilite norme finalizzate a: 
+ 
+
+ a) individuare, ai fini della predisposizione di un modello unico di dichiarazione, le disposizioni di legge e le relative norme di attuazione che stabiliscono obblighi di dichiarazione, di comunicazione, di denuncia o di notificazione in materia ambientale, sanitaria e di sicurezza pubblica; 
+ 
+
+ b) fissare un termine per la presentazione del modello unico di dichiarazione di cui al comma 2, che sostituisce ogni altro diverso termine previsto dalle disposizioni di legge e dalle relative norme di attuazione di cui alla lettera a). 
+ 
+
+ 2. Il Presidente del Consiglio dei ministri adotta con proprio decreto, da emanare entro i trenta giorni successivi al termine di cui al comma 1, il modello unico di dichiarazione. 
+ 
+
+ 3. Il Presidente del Consiglio dei ministri dispone con proprio decreto gli aggiornamenti del modello unico di dichiarazione, anche in relazione a nuove disposizioni individuate con la medesima procedura di cui al comma 1.&raquo; &laquo;Art. 6 (Disposizioni transitorie). - 1. In attesa dell'emanazione del decreto di cui all'articolo 1, comma 1, il modello unico di dichiarazione, in sede di prima applicazione della presente legge, è adottato, ai sensi dell'articolo 1, comma 2, entro novanta giorni dalla data di entrata in vigore della presente legge, con riferimento agli obblighi di dichiarazione, di comunicazione, di denuncia o di notificazione previsti dalle leggi, dai decreti e dalle relative norme di attuazione di cui alla tabella A allegata alla presente legge. 
+ 
+
+ 2. Ai fini di cui al comma 1, il termine di presentazione del modello unico di dichiarazione, in caso di obblighi periodici, è fissato al 30 aprile dell'anno successivo a quello di riferimento, fermi restando i termini previsti in caso di obblighi che abbiano carattere non periodico. 
+ 
+
+ 2-bis. Qualora si renda necessario apportare, nell'anno successivo a quello di riferimento, modifiche ed integrazioni al modello unico di dichiarazione ambientale, le predette modifiche ed integrazioni sono disposte con decreto del Presidente del Consiglio dei ministri, da pubblicare nella Gazzetta Ufficiale entro la data del 1&ordm; marzo; in tale ipotesi, il termine per la presentazione del modello è fissato in centoventi giorni a decorrere dalla data di pubblicazione del predetto decreto.&raquo;. 
+ 
+
+ - Il regolamento (CE) n. 919/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE, è pubblicato nella G.U.U.E. 28 agosto 2014, n. L 257. 
+ 
+
+ - Il regolamento (UE) n. 2016/679/UE del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE - regolamento generale sulla protezione dei dati - Testo rilevante ai fini del SEE, è pubblicato nella G.U.U.E. 4 maggio 2016, n. L 119. 
+ 
+
+ - Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali, recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE), è pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. 
+ 
+
+ - Il decreto legislativo 10 agosto 2018, n. 101 (Disposizioni per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE - regolamento generale sulla protezione dei dati), è pubblicato nella Gazzetta Ufficiale 4 settembre 2018, n. 205. 
+ 
+
+ - Il decreto ministeriale n. 259 del 24 giugno 2022 (Strategia nazionale per l'economia circolare), è pubblicato nel sito internet del Ministero dell'ambiente e della sicurezza energetica. 
+ 
+
+ - Il decreto ministeriale n. 257 del 24 giugno 2022 (Adozione del Programma Nazionale per la Gestione dei rifiuti), è pubblicato nel sito internet del Ministero dell'ambiente e della sicurezza energetica. 
+ 
+
+ - La direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015, che prevede una procedura d'informazione nel settore delle regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione, è pubblicata nella G.U.C.E. 17 settembre 2015, n. L 241. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Il testo degli articoli 188-bis, 189, 190 e 193, del decreto legislativo n. 152 del 2006, è riportato nelle note alle premesse. 
+ 
+
+ - Il testo dell'articolo 6, del decreto-legge n. 135 del 2018, è riportato nelle note alle premesse. 
+ 
+
+ - Per il riferimento alla legge 25 gennaio 1994, n. 70, si veda nelle note alle premesse. 
+ 
+
+ - Il regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di rifiuti, è pubblicato nella G.U.U.E. 12 luglio 2006, n. L 190. 
+ 
+
+ - Per i riferimenti al decreto-legge 14 dicembre 2018, n. 135, si veda nelle note alle premesse.
