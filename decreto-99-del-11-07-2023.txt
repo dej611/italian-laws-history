@@ -1,0 +1,349 @@
+IL MINISTRO DELLA GIUSTIZIA
+
+ 
+ 
+ 
+ Visti gli articoli 76 e 87 della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 26, comma 6, del decreto legislativo 10 ottobre 2022, n. 149, il quale prevede che presso il Ministero della giustizia è istituita una banca dati relativa alle aste giudiziarie, articolata nelle sezioni delle esecuzioni immobiliari, delle esecuzioni mobiliari e delle vendite in sede fallimentare, contenente i dati identificativi degli offerenti, i dati identificativi del conto bancario o postale utilizzato per versare la cauzione e il prezzo di aggiudicazione, nonchè le relazioni di stima; che i dati identificativi degli offerenti, del conto e dell'intestatario devono essere messi a disposizione, su richiesta, dell'autorità giudiziaria, civile e penale; che con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono stabilite le modalità di acquisizione dei dati, le modalità di inserimento dei medesimi nella banca dati e le modalità di esercizio del potere di vigilanza da parte del Ministero della giustizia;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati);
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 490, primo comma, del codice di procedura civile, ai sensi del quale &laquo;Quando la legge dispone che di un atto esecutivo sia data pubblica notizia, un avviso contenente tutti i dati, che possono interessare il pubblico, deve essere inserito sul portale del Ministero della giustizia in un'area pubblica denominata portale delle vendite pubbliche&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 161-quater delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, il quale prevede che &laquo;La pubblicazione sul portale delle vendite pubbliche è effettuata a cura del professionista delegato per le operazioni di vendita o del commissionario o, in mancanza, del creditore pignorante o del creditore intervenuto munito di titolo esecutivo ed in conformità alle specifiche tecniche, che possono determinare anche i dati e i documenti da inserire&raquo;, e che &laquo;Il portale delle vendite pubbliche provvede all'archiviazione e alla gestione dei dati relativi alle vendite in esso pubblicate&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 179-quater, comma 2, delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, ai sensi del quale per l'attuazione della vigilanza del presidente del tribunale sull'attribuzione degli incarichi ai professionisti delegati alle vendite, debbono essere annotate dal cancelliere in apposito registro tutte le deleghe che gli iscritti ricevono e i relativi compensi liquidati;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 12 febbraio 1993, n. 39, recante &laquo;Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, ai sensi dell'articolo 2, comma 1, lettera mm), della legge 23 ottobre 1992, n. 421&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 giugno 2003, n. 196, recante il Codice in materia di protezione dei dati personali;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante il Codice dell'Amministrazione digitale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 7 del decreto del Ministro della giustizia 31 ottobre 2006 (pubblicato nella Gazzetta Ufficiale n. 297 del 22 dicembre 2006), recante &laquo;Individuazione dei siti internet destinati all'inserimento degli avvisi di vendita di cui all'articolo 490 del codice di procedura civile&raquo;, il quale detta la disciplina del &laquo;Portale vendite giudiziarie&raquo;, e viste le relative specifiche tecniche;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della giustizia 26 febbraio 2015, n. 32, avente ad oggetto &laquo;Regolamento recante le regole tecniche e operative per lo svolgimento della vendita dei beni mobili e immobili con modalità telematiche nei casi previsti dal codice di procedura civile, ai sensi dell'articolo 161-ter delle disposizioni per l'attuazione del codice di procedura civile&raquo;, e viste le relative specifiche tecniche;
+
+ 
+ 
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali;
+
+ 
+
+ 
+ 
+ 
+ Visto il parere del Consiglio di Stato, reso all'adunanza del 20 giugno 2023 dalla Sezione consultiva per gli atti normativi;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione al Presidente del Consiglio dei ministri, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, effettuata con nota del 27 giugno 2023;
+
+ 
+ 
+ 
+
+ 
+ Di concerto con il Ministro dell'economia e delle finanze;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Oggetto e definizioni
+
+ 
+ 
+ 1. Il presente decreto stabilisce le modalità di acquisizione dei dati e di loro inserimento nella banca dati relativa alle aste giudiziarie nonchè le modalità di esercizio del potere di vigilanza da parte del Ministero della giustizia. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 2. Ai fini del presente decreto si intendono per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;banca dati&raquo;: la banca dati relativa alle aste giudiziarie di cui all'articolo 26, comma 6, del decreto legislativo 10 ottobre 2022, n. 149; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;Ministero&raquo;: il Ministero della giustizia; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;professionista delegato&raquo;: il professionista delegato alle vendite, il curatore o liquidatore, il commissionario. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 2, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Note alle premesse: 
+ 
+
+ - Si riporta il testo degli articoli 76 e 87 della Costituzione della Repubblica italiana: 
+ 
+
+ &laquo;Art. 76. - L'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.&raquo; 
+ 
+
+ &laquo;Art. 87. - Il Presidente della Repubblica è il capo dello Stato e rappresenta l'unità nazionale. 
+ 
+
+ Può inviare messaggi alle Camere. 
+ 
+
+ Indice le elezioni delle nuove Camere e ne fissa la prima riunione. 
+ 
+
+ Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo. 
+ 
+
+ Promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti. 
+ 
+
+ Indice il referendum popolare nei casi previsti dalla Costituzione. 
+ 
+
+ Nomina, nei casi indicati dalla legge, i funzionari dello Stato. 
+ 
+
+ Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorra, l'autorizzazione delle Camere. 
+ 
+
+ Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere. 
+ 
+
+ Presiede il Consiglio superiore della magistratura. 
+ 
+
+ Può concedere grazia e commutare le pene. 
+ 
+
+ Conferisce le onorificenze della Repubblica.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri.): 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - 1. e 2. (Omissis). 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ 4. - 4-ter. (Omissis).&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 26, comma 6, del decreto legislativo 10 ottobre 2022, n. 149 (Attuazione della legge 26 novembre 2021, n. 206, recante delega al Governo per l'efficienza del processo civile e per la revisione della disciplina degli strumenti di risoluzione alternativa delle controversie e misure urgenti di razionalizzazione dei procedimenti in materia di diritti delle persone e delle famiglie nonchè in materia di esecuzione forzata): 
+ 
+
+ &laquo;Art. 26 (Ulteriori disposizioni in materia di esecuzione forzata). - 1. - 5. (Omissis). 
+ 
+
+ 6. è istituita presso il Ministero della giustizia una banca dati relativa alle aste giudiziarie, contenente i dati identificativi degli offerenti, i dati identificativi del conto bancario o postale utilizzato per versare la cauzione e il prezzo di aggiudicazione, nonchè le relazioni di stima. La banca dati è articolata nelle seguenti sezioni: 1) esecuzioni immobiliari; 2) esecuzioni mobiliari; 3) vendite in sede fallimentare. I dati identificativi degli offerenti, del conto e dell'intestatario devono essere messi a disposizione, su richiesta, dell'autorità giudiziaria, civile e penale. Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono stabilite le modalità di acquisizione dei dati di cui al comma 1, le modalità di inserimento dei medesimi nella banca dati, nonchè le modalità di esercizio del potere di vigilanza da parte del Ministero della giustizia.&raquo;. 
+ 
+
+ - Il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) è pubblicato nella G.U.U.E. 4 maggio 2016, n. L 119. 
+ 
+
+ - Si riporta il testo dell'articolo 490 del codice di procedura civile: 
+ 
+
+ &laquo;Art. 490 (Pubblicità degli avvisi). - Quando la legge dispone che di un atto esecutivo sia data pubblica notizia, un avviso contenente tutti i dati, che possono interessare il pubblico, deve essere inserito sul portale del Ministero della giustizia in un'area pubblica denominata "portale delle vendite pubbliche". 
+ 
+
+ In caso di espropriazione di beni mobili registrati, per un valore superiore a 25.000 euro, e di beni immobili, lo stesso avviso, unitamente a copia dell'ordinanza del giudice e della relazione di stima redatta ai sensi dell'articolo 173-bis delle disposizioni di attuazione del presente codice, è altresì inserito in appositi siti internet almeno quarantacinque giorni prima del termine per la presentazione delle offerte o della data dell'incanto. 
+ 
+
+ Anche su istanza del creditore procedente o dei creditori intervenuti muniti di titolo esecutivo il giudice può disporre inoltre che l'avviso sia inserito almeno quarantacinque giorni prima del termine per la presentazione delle offerte una o più volte sui quotidiani di informazione locali aventi maggiore diffusione nella zona interessata o, quando opportuno, sui quotidiani di informazione nazionali o che sia divulgato con le forme della pubblicità commerciale. Sono equiparati ai quotidiani, i giornali di informazione locale, multisettimanali o settimanali editi da soggetti iscritti al Registro operatori della comunicazione (ROC) e aventi caratteristiche editoriali analoghe a quelle dei quotidiani che garantiscono la maggior diffusione nella zona interessata. Nell'avviso è omessa l'indicazione del debitore.&raquo;. 
+ 
+
+ - Si riporta il testo degli articoli 161-quater e 179-quater delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie: 
+ 
+
+ &laquo;Art. 161-quater (Modalità di pubblicazione sul portale delle vendite pubbliche). - La pubblicazione sul portale delle vendite pubbliche è effettuata a cura del professionista delegato per le operazioni di vendita o del commissionario o, in mancanza, del creditore pignorante o del creditore intervenuto munito di titolo esecutivo ed in conformità alle specifiche tecniche, che possono determinare anche i dati e i documenti da inserire. Le specifiche tecniche sono stabilite dal responsabile per i sistemi informativi automatizzati del Ministero della giustizia entro sei mesi dalla data di entrata in vigore della presente disposizione e sono rese disponibili mediante pubblicazione nel portale delle vendite pubbliche.
+ 
+
+ Quando la pubblicità riguarda beni immobili o beni mobili registrati, la pubblicazione non può essere effettuata in mancanza della prova dell'avvenuto pagamento del contributo per la pubblicazione, previsto dall'articolo 18-bis del decreto del Presidente della Repubblica 30 maggio 2002, n. 115. 
+ 
+
+ Il portale delle vendite pubbliche deve inviare all'indirizzo di posta elettronica ordinaria o certificata, ad ogni interessato che ne ha fatto richiesta e si è registrato mediante un'apposita procedura disciplinata dalle specifiche tecniche di cui al primo comma, un avviso contenente le informazioni relative alle vendite di cui è stata effettuata la pubblicità. 
+ 
+
+ Il portale delle vendite pubbliche provvede all'archiviazione e alla gestione dei dati relativi alle vendite in esso pubblicate. 
+ 
+
+ Il mancato funzionamento dei sistemi informatici è attestato dal responsabile dei sistemi informativi automatizzati del Ministero della giustizia.&raquo; 
+ 
+
+ &laquo;Art. 179-quater (Distribuzione degli incarichi). - Il presidente del tribunale vigila affinchè, senza danno per l'amministrazione della giustizia, le deleghe siano assegnate tra gli iscritti nell'elenco di cui all'articolo 179-ter in modo tale che a nessuno dei professionisti iscritti possano essere conferiti incarichi in misura superiore al 10 per cento di quelli affidati dall'ufficio e dal singolo giudice e garantisce che sia assicurata l'adeguata trasparenza del conferimento degli incarichi anche a mezzo di strumenti informatici. 
+ 
+
+ Per l'attuazione di tale vigilanza debbono essere annotate dal cancelliere in apposito registro tutte le deleghe che gli iscritti ricevono e i relativi compensi liquidati. 
+ 
+
+ Il registro è pubblico e liberamente consultabile e dello stesso possono essere rilasciate copie o estratti.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 7 del decreto del Ministro della giustizia 31 ottobre 2006 (Individuazione dei siti internet destinati all'inserimento degli avvisi di vendita di cui all'articolo 490 del codice di procedura civile): 
+ 
+
+ &laquo;Art. 7 (Portale vendite giudiziarie). - 1. Il Ministero della giustizia attiva il Portale vendite giudiziarie per la ricerca e il monitoraggio dei dati pubblicati sui siti, al fine di consentire una visione completa ed unitaria di tutte le vendite forzate in corso. 
+ 
+
+ 2. Il portale è realizzato nel rispetto dei criteri dettati, per i siti delle pubbliche amministrazioni, dal codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, come modificato e integrato dal decreto legislativo 4 aprile 2006, n. 159. 
+ 
+
+ 3. Il Ministero della giustizia, Direzione generale dei sistemi informativi automatizzati, stabilisce le informazioni minime relative ai dati da pubblicare sui siti. 
+ 
+
+ 4. Il Ministero della giustizia verifica, tramite il Portale, il regolare funzionamento dei siti, nel rispetto dei requisiti tecnici di cui all'art. 4 e secondo le modalità contenute nelle disposizioni di cui all'art. 4, comma 3. 
+ 
+
+ 5. Il Ministero della giustizia certifica, tramite il Portale, l'inizio di ciascuna inserzione pubblicitaria, la sua durata e gli eventi significativi. 
+ 
+
+ 6. La certificazione viene inviata, attraverso la posta certificata del processo telematico, all'Ufficio giudiziario il giorno precedente a quello fissato per l'esperimento di vendita. 
+ 
+
+ 7. L'indirizzo, cui è inviata la certificazione, è unico per ogni Ufficio giudiziario o per ogni sezione dell'Ufficio giudiziario. 
+ 
+
+ 8. Il Portale pubblica, in area riservata accessibile al Ministero della giustizia e all'ufficio giudiziario che ha disposto le inserzioni pubblicitarie, i dati statistici relativi all'accesso ai siti.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per l'articolo 26, comma 6, del citato decreto legislativo 10 ottobre 2022, n. 149 vedi note alle premesse.
