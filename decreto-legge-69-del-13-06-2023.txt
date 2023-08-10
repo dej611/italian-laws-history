@@ -52,7 +52,21 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Art. 1
 
+ 
+ 
+
+ 
+ 
+
  Modifiche al testo unico bancario. Caso EU Pilot 2021/10083/FISMA 
+ 
+ ((.
+ 
+
+ Modifica al decreto-legge n. 73 del 2021))
+ 
+
+ 
 
  
  
@@ -81,7 +95,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) alla lettera a), dopo le parole: &laquo;96-bis.2, rimborsi&raquo; sono inserite le seguenti: &laquo;in caso di provvedimento adottato ai sensi dell'articolo 96-bis.2, comma 01, o&raquo;; 
  
 
- 2) alla lettera c), le parole: &laquo;se il costo dell'intervento non supera il costo che il sistema, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, dovrebbe sostenere per il rimborso dei depositi&raquo; sono sostituite dalle seguenti: &laquo;se, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, il costo di quest'ultimo non supera gli oneri che il sistema dovrebbe sostenere per il rimborso dei depositi al netto di quanto esso recupererebbe dalla banca in liquidazione per il credito di cui all'articolo 91, comma 1-bis, lettera b), n. 2)&raquo;; 
+ 2) alla lettera c), le parole: &laquo;se il costo dell'intervento non supera il costo che il sistema, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, dovrebbe sostenere per il rimborso dei depositi&raquo; sono sostituite dalle seguenti: &laquo;se, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, il costo di quest'ultimo non supera gli oneri che il sistema dovrebbe sostenere per il rimborso dei depositi al netto di quanto esso recupererebbe dalla banca in liquidazione per il credito di cui all'articolo 91, comma 1-bis, lettera b),
+ (( numero 2) ))
+
+ &raquo;; 
  
 
  
@@ -91,7 +108,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) all'articolo 96-bis.1: 
  
 
- 1) al comma 1, dopo le parole: &laquo;banca in liquidazione coatta amministrativa&raquo; sono inserite le seguenti: &laquo;o verso la quale è stato adottato il provvedimento di cui all'articolo 96-bis.2, comma 01&raquo;; 
+ 1) al comma 1, dopo le parole: &laquo;
+ ((previsto dalla Sezione III))
+
+ &raquo; sono inserite le seguenti: &laquo;
+ ((, o della banca per la quale))
+
+ è stato adottato il provvedimento di cui all'articolo 96-bis.2, comma 01&raquo;; 
  
 
  2) al comma 5, lettera c), le parole: &laquo;compensazione di eventuali debiti&raquo; sono sostituite dalle seguenti: &laquo;compensazione dell'ammontare complessivo del deposito con eventuali debiti&raquo; e dopo le parole: &laquo;si producono gli effetti del provvedimento&raquo; sono inserite le seguenti: &laquo;di cui all'articolo 96-bis.2, comma 01, o di quello&raquo;; 
@@ -116,4 +139,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  3) al comma 4, dopo le parole: &laquo;gli effetti del provvedimento&raquo; sono inserite le seguenti: &laquo;di cui al comma 01 o di quello&raquo;; 
  
 
- 4) al comma 5, le parole: &laquo;rimborsi effettuati, beneficiando della preferenza&raquo; sono sostituite dalle seguenti: &laquo;rimborsi effettuati. Quando la banca è in liquidazione coatta amministrativa, il credito dei sistemi di garanzia beneficia della preferenza&raquo;.
+ 4) al comma 5, le parole: &laquo;rimborsi effettuati, beneficiando della preferenza&raquo; sono sostituite dalle seguenti: &laquo;rimborsi effettuati. Quando la banca è in liquidazione coatta amministrativa, il credito dei sistemi di garanzia beneficia della preferenza&raquo;. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ ((1-bis. All'articolo 11-octies, comma 2, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, il secondo periodo è sostituito dai seguenti: "Nel rispetto del diritto dell'Unione europea, come interpretato dalle pronunce della Corte di giustizia dell'Unione europea, in caso di estinzioni anticipate dei contratti sottoscritti prima della data di entrata in vigore della legge di conversione del presente decreto continuano ad applicarsi, fatte salve le disposizioni del codice civile in materia di indebito oggettivo e di arricchimento senza causa, le disposizioni dell'articolo 125-sexies del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, vigenti alla data della sottoscrizione dei contratti; non sono comunque soggetti a riduzione le imposte e i costi sostenuti per la conclusione dei medesimi contratti. Ove non sia diversamente indicato dalle parti, la riduzione del costo totale del credito avviene in conformità al criterio del costo ammortizzato"))
