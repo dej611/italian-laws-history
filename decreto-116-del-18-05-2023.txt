@@ -1,0 +1,637 @@
+IL MINISTRO DELL'ECONOMIA
+
+ 
+ E DELLE FINANZE
+
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 17, commi 3 e 4, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 18 aprile 2016, n. 50, recante &laquo;Codice dei contratti pubblici&raquo; e, in particolare, l'articolo 113, commi 2 e 3, i quali prevedono, rispettivamente, che &laquo;a valere sugli stanziamenti di cui al comma 1, le amministrazioni aggiudicatrici destinano ad un apposito fondo risorse finanziarie in misura non superiore al 2 per cento modulate sull'importo dei lavori, servizi e forniture, posti a base di gara per le funzioni tecniche svolte dai dipendenti delle stesse esclusivamente per le attività di programmazione della spesa per investimenti, di valutazione preventiva dei progetti, di predisposizione e di controllo delle procedure di gara e di esecuzione dei contratti pubblici, di RUP, di direzione dei lavori ovvero direzione dell'esecuzione e di collaudo tecnico amministrativo ovvero di verifica di conformità, di collaudatore statico ove necessario per consentire l'esecuzione del contratto nel rispetto dei documenti a base di gara, del progetto, dei tempi e costi prestabiliti&raquo; e che &laquo;L'ottanta per cento delle risorse finanziarie del fondo costituito ai sensi del comma 2 è ripartito, per ciascuna opera o lavoro, servizio, fornitura con le modalità e i criteri previsti in sede di contrattazione decentrata integrativa del personale, sulla base di apposito regolamento adottato dalle amministrazioni secondo i rispettivi ordinamenti, tra il responsabile unico del procedimento e i soggetti che svolgono le funzioni tecniche indicate al comma 2 nonchè tra i loro collaboratori&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 5, comma 10, del decreto-legge 10 settembre 2021, n. 121, convertito, con modificazioni, dalla legge 9 novembre 2021, n. 156, ai sensi del quale &laquo;Il regolamento di cui all'articolo 113, comma 3, del decreto legislativo 18 aprile 2016, n. 50, si applica agli appalti di lavori, servizi e forniture le cui procedure di gara sono state avviate successivamente alla data di entrata in vigore del medesimo decreto legislativo, anche se eseguiti prima dell'entrata in vigore del predetto regolamento. Gli oneri per la ripartizione delle risorse finanziarie di cui all'articolo 113, comma 2, del decreto legislativo n. 50 del 2016 fanno carico agli stanziamenti già accantonati per i singoli appalti di lavori, servizi e forniture di cui al primo periodo negli stati di previsione della spesa o nei bilanci delle stazioni appaltanti&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 20, comma 32, della legge 30 dicembre 2021, n. 234, recante &laquo;Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024&raquo;, ai sensi del quale &laquo;Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'articolo 113 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, il Ragioniere generale dello Stato, su proposta dell'amministrazione, è autorizzato a riassegnare, con propri decreti, per l'anno finanziario 2022, sul pertinente capitolo di spesa iscritto nello stato di previsione della medesima amministrazione, le somme versate all'entrata del bilancio dello Stato riguardanti le risorse accantonate per ogni singolo appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione è chiamata ad adottare per la ripartizione degli incentivi per funzioni tecniche ai sensi del predetto articolo 113 del codice di cui al decreto legislativo n. 50 del 2016&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 20, comma 32, della legge 29 dicembre 2022, n. 197, recante &laquo;Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025&raquo;, ai sensi del quale &laquo;Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'articolo 113 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, il Ragioniere generale dello Stato, per l'anno finanziario 2023, è autorizzato a riassegnare, con propri decreti, su proposta dell'amministrazione competente, ai pertinenti capitoli di spesa iscritti nello stato di previsione della medesima amministrazione le somme versate all'entrata del bilancio dello Stato riguardanti le risorse accantonate per ciascun appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione deve adottare per la ripartizione degli incentivi per funzioni tecniche ai sensi del comma 3 del predetto articolo 113 del codice di cui al decreto legislativo n. 50 del 2016&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 30 marzo 2001, n. 165, recante &laquo;Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche&raquo; e, in particolare, l'articolo 35-bis, il quale dispone che &laquo;Coloro che sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti capo I del titolo II del libro secondo del codice penale...[tra l'altro] non possono fare parte delle commissioni per la scelta del contraente per l'affidamento di lavori, forniture e servizi, per la concessione o l'erogazione di sovvenzioni, contributi, sussidi, ausili finanziari, nonchè per l'attribuzione di vantaggi economici di qualunque genere&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, il quale stabilisce che &laquo;a partire dal 30 novembre 2010 il pagamento delle competenze accessorie, spettanti al personale delle amministrazioni dello Stato che per il pagamento degli stipendi si avvalgono delle procedure informatiche e dei servizi del Ministero dell'economia e delle finanze - Dipartimento dell'amministrazione generale, del personale e dei servizi, è disposto congiuntamente alle competenze fisse mediante ordini collettivi di pagamento di cui al decreto del Ministro dell'economia e delle finanze 31 ottobre 2002, pubblicato nella Gazzetta Ufficiale n. 295 del 17 dicembre 2002&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 31 dicembre 2009, n. 196, e, in particolare, l'articolo 24, comma 5-bis, il quale prevede che &laquo;Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro competente, le variazioni di bilancio occorrenti per l'iscrizione nei diversi stati di previsione della spesa interessati dalle somme versate all'entrata del bilancio dello Stato finalizzate per legge al finanziamento di specifici interventi o attività&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 16 aprile 2013, n. 62, recante &laquo;Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165&raquo; e, in particolare, l'articolo 7;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente del Consiglio dei ministri 26 giugno 2019, n. 103, recante &laquo;Regolamento di organizzazione del Ministero dell'economia e delle finanze&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visti i contratti collettivi nazionali di lavoro relativi al personale del Comparto Funzioni centrali, 2016-2018 e 2019-2021, firmati rispettivamente il 12 febbraio 2018 e il 9 maggio 2022;
+
+ 
+ 
+ 
+
+ 
+ Informate le organizzazioni sindacali in merito alle modalità e ai criteri di riparto del fondo di cui all'articolo 113, comma 2, del decreto legislativo n. 50 del 2016;
+
+ 
+
+ 
+ Udito il parere del Consiglio di Stato espresso nell'adunanza della Sezione Consultiva per gli Atti Normativi del 12 gennaio 2023;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione effettuata con nota n. 19648 in data 12 maggio 2013, alla Presidenza del Consiglio dei ministri, ai sensi dell'articolo 17, comma 3, della legge n. 400 del 1988;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Oggetto e ambito di applicazione
+
+ 
+ 
+ 1. Il presente regolamento disciplina la costituzione del fondo di cui all'articolo 113, comma 2, del decreto legislativo 18 aprile 2016, n. 50, di seguito denominato &laquo;Codice dei contratti pubblici&raquo;, e la ripartizione delle relative risorse destinate ad incentivo per le funzioni tecniche, di seguito denominato &laquo;incentivo&raquo;, svolte dal personale dipendente del Ministero dell'economia e delle finanze, di seguito denominato &laquo;Ministero&raquo;, negli appalti di lavori pubblici, di servizi e di forniture per le attività di cui al medesimo articolo 113, comma 2. Ai sensi dell'articolo 113, comma 3, settimo periodo, del Codice dei contratti pubblici, non concorrono alla ripartizione del fondo i dipendenti con qualifica dirigenziale. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 2. Ai sensi dell'articolo 113, comma 2, del Codice dei contratti pubblici, le disposizioni di cui al presente regolamento si applicano agli appalti relativi a lavori, compresi quelli di manutenzione straordinaria e di manutenzione ordinaria di particolare complessità, e a quelli relativi a servizi o forniture, nel caso in cui è nominato il direttore dell'esecuzione del contratto, semprechè tale nomina sia prevista da disposizioni di legge e sia effettuata nel rispetto di criteri attuativi adottati dalle autorità competenti. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 3. Il presente regolamento si applica nei casi in cui sia stata esperita una procedura di gara, ivi incluse le procedure negoziate senza bando e gli affidamenti diretti, purchè sia svolta una procedura comparativa con richiesta di preventivi ad operatori economici. Sono esclusi gli affidamenti diretti senza previo svolgimento di una procedura comparativa. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4. In caso di adesione a convenzioni-quadro ovvero ad accordi quadro a condizioni tutte fissate, stipulate da Consip S.p.a. in attuazione dell'articolo 1, comma 449, della legge 27 dicembre 2006, n. 296, e dell'articolo 2, comma 225, della legge 23 dicembre 2009, n. 191, o comunque stipulate da un soggetto aggregatore, il presente regolamento si applica in relazione alle prestazioni tecniche effettivamente svolte dai dipendenti del Ministero nell'ambito delle convenzioni e degli accordi indicati. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 5. Nel rispetto dell'articolo 5, comma 10, del decreto-legge 10 settembre 2021, n. 121, convertito, con modificazioni, dalla legge 9 novembre 2021, n. 156, il presente regolamento si applica alle attività eseguite prima dell'entrata in vigore dello stesso, purchè riferite agli appalti di lavori, servizi e forniture le cui procedure di affidamento sono state avviate successivamente alla data di entrata in vigore del Codice dei contratti pubblici, anche se i contratti siano stati eseguiti prima dell'entrata in vigore del regolamento o siano ancora in corso di esecuzione, a condizione che le risorse accantonate nel relativo quadro economico siano state oggetto di impegno sotto il profilo contabile e che le relative dotazioni di bilancio a legislazione vigente consentano, dopo l'adozione del presente regolamento, il previsto versamento all'entrata del bilancio dello Stato. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ - Si riporta il testo dell'articolo 17, della legge 23 agosto 1988, n. 400 (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
+ 
+
+ a) l'esecuzione delle leggi e dei decreti legislativi nonchè dei regolamenti comunitari; 
+ 
+
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
+ 
+
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
+ 
+
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge; 
+ 
+
+ e). 
+ 
+
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potestà regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari. 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ 
+
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono: 
+ 
+
+ a) riordino degli uffici di diretta collaborazione con i ministri ed i sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione; 
+ 
+
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilità eliminando le duplicazioni funzionali; 
+ 
+
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati; 
+ 
+
+ d) indicazione e revisione periodica della consistenza elle piante organiche; 
+ 
+
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unità dirigenziali nell'ambito degli uffici dirigenziali generali. 
+ 
+
+ 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 113, del decreto legislativo 18 aprile 2016, n. 50 (Codice dei contratti pubblici), pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91, S.O.: 
+ 
+
+ &laquo;Art. 113 (Incentivi per funzioni tecniche). - 1. Gli oneri inerenti alla progettazione, alla direzione dei lavori ovvero al direttore dell'esecuzione, alla vigilanza, ai collaudi tecnici e amministrativi ovvero alle verifiche di conformità, al collaudo statico, agli studi e alle ricerche connessi, alla progettazione dei piani di sicurezza e di coordinamento e al coordinamento della sicurezza in fase di esecuzione quando previsti ai sensi del decreto legislativo 9 aprile 2008 n. 81, alle prestazioni professionali e specialistiche necessari per la redazione di un progetto esecutivo completo in ogni dettaglio fanno carico agli stanziamenti previsti per i singoli appalti di lavori, servizi e forniture negli stati di previsione della spesa o nei bilanci delle stazioni appaltanti. 
+ 
+
+ 2. A valere sugli stanziamenti di cui al comma 1, le amministrazioni aggiudicatrici destinano ad un apposito fondo risorse finanziarie in misura non superiore al 2 per cento modulate sull'importo dei lavori, servizi e forniture, posti a base di gara per le funzioni tecniche svolte dai dipendenti delle stesse esclusivamente per le attività di programmazione della spesa per investimenti, di valutazione preventiva dei progetti, di predisposizione e di controllo delle procedure di gara e di esecuzione dei contratti pubblici, di RUP, di direzione dei lavori ovvero direzione dell'esecuzione e di collaudo tecnico amministrativo ovvero di verifica di conformità, di collaudatore statico ove necessario per consentire l'esecuzione del contratto nel rispetto dei documenti a base di gara, del progetto, dei tempi e costi prestabiliti.
+ 
+
+ Tale fondo non è previsto da parte di quelle amministrazioni aggiudicatrici per le quali sono in essere contratti o convenzioni che prevedono modalità diverse per la retribuzione delle funzioni tecniche svolte dai propri dipendenti. Gli enti che costituiscono o si avvalgono di una centrale di committenza possono destinare il fondo o parte di esso ai dipendenti di tale centrale. La disposizione di cui al presente comma si applica agli appalti relativi a servizi o forniture nel caso in cui è nominato il direttore dell'esecuzione. 
+ 
+
+ 3. L'ottanta per cento delle risorse finanziarie del fondo costituito ai sensi del comma 2 è ripartito, per ciascuna opera o lavoro, servizio, fornitura con le modalità e i criteri previsti in sede di contrattazione decentrata integrativa del personale, sulla base di apposito regolamento adottato dalle amministrazioni secondo i rispettivi ordinamenti, tra il responsabile unico del procedimento e i soggetti che svolgono le funzioni tecniche indicate al comma 2 nonchè tra i loro collaboratori. Gli importi sono comprensivi anche degli oneri previdenziali e assistenziali a carico dell'amministrazione.
+ 
+
+ L'amministrazione aggiudicatrice o l'ente aggiudicatore stabilisce i criteri e le modalità per la riduzione delle risorse finanziarie connesse alla singola opera o lavoro a fronte di eventuali incrementi dei tempi o dei costi non conformi alle norme del presente decreto. La corresponsione dell'incentivo è disposta dal dirigente o dal responsabile di servizio preposto alla struttura competente, previo accertamento delle specifiche attività svolte dai predetti dipendenti. Gli incentivi complessivamente corrisposti nel corso dell'anno al singolo dipendente, anche da diverse amministrazioni, non possono superare l'importo del 50 per cento del trattamento economico complessivo annuo lordo. Le quote parti dell'incentivo corrispondenti a prestazioni non svolte dai medesimi dipendenti, in quanto affidate a personale esterno all'organico dell'amministrazione medesima, ovvero prive del predetto accertamento, incrementano la quota del fondo di cui al comma 2. Il presente comma non si applica al personale con qualifica dirigenziale. 
+ 
+
+ 4. Il restante 20 per cento delle risorse finanziarie del fondo di cui al comma 2 ad esclusione di risorse derivanti da finanziamenti europei o da altri finanziamenti a destinazione vincolata è destinato all'acquisto da parte dell'ente di beni, strumentazioni e tecnologie funzionali a progetti di innovazione anche per il progressivo uso di metodi e strumenti elettronici specifici di modellazione elettronica informativa per l'edilizia e le infrastrutture, di implementazione delle banche dati per il controllo e il miglioramento della capacità di spesa e di efficientamento informatico, con particolare riferimento alle metodologie e strumentazioni elettroniche per i controlli. Una parte delle risorse può essere utilizzato per l'attivazione presso le amministrazioni aggiudicatrici di tirocini formativi e di orientamento di cui all'articolo 18 della legge 24 giugno 1997, n. 196 o per lo svolgimento di dottorati di ricerca di alta qualificazione nel settore dei contratti pubblici previa sottoscrizione di apposite convenzioni con le Università e gli istituti scolastici superiori. 
+ 
+
+ 5. Per i compiti svolti dal personale di una centrale unica di committenza nell'espletamento di procedure di acquisizione di lavori, servizi e forniture per conto di altri enti, può essere riconosciuta, su richiesta della centrale unica di committenza, una quota parte, non superiore ad un quarto, dell'incentivo previsto dal comma 2. 
+ 
+
+ 5-bis. Gli incentivi di cui al presente articolo fanno capo al medesimo capitolo di spesa previsto per i singoli lavori, servizi e forniture.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 5, del decreto-legge 10 settembre 2021, n. 121, convertito, con modificazioni, dalla legge 9 novembre 2021, n. 156 (Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali): 
+ 
+
+ &laquo;Art. 5 (Disposizioni urgenti per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili e del Consiglio superiore dei lavori pubblici e in materia di incentivi per funzioni tecniche). - 1. Al fine di garantire la realizzazione degli interventi di titolarità del Ministero delle infrastrutture e della mobilità sostenibili, finanziati in tutto o in parte con le risorse del Piano nazionale di ripresa e resilienza di cui al regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio del 12 febbraio 2021 ovvero del Piano nazionale per gli investimenti complementari di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1°(gradi) luglio 2021, n. 101, in coerenza con i relativi cronoprogrammi, nonchè di promuovere e incrementare le attività di studio, di ricerca e di sviluppo nel settore della sostenibilità delle infrastrutture e della mobilità, della innovazione tecnologica, organizzativa e dei materiali, assicurando, al contempo, nuove forme di intermodalità e di servizi di rete anche attraverso lo svolgimento di specifiche attività di natura formativa, è istituita presso il Ministero delle infrastrutture e della mobilità sostenibili la struttura di missione, denominata Centro per l'innovazione e la sostenibilità in materia di infrastrutture e mobilità, di seguito denominato "CISMI", che non costituisce struttura dirigenziale e opera alle dirette dipendenze del Ministro. Al CISMI è assegnato un contingente complessivo di venti unità di personale, da individuarsi, nella misura di cinque ricercatori, di cinque tecnologi, di quattro primi ricercatori, di quattro primi tecnologi, di un dirigente tecnologo e di un dirigente di ricerca, tra il personale degli Enti pubblici di ricerca collocato fuori ruolo con mantenimento del trattamento economico in godimento presso l'amministrazione di appartenenza che è posto integralmente a carico del predetto Ministero. Al coordinamento del CISMI è preposto il dirigente di ricerca individuato secondo le modalità di cui al secondo periodo. Con decreto del Ministro delle infrastrutture e della mobilità sostenibili può essere riconosciuta al coordinatore del CISMI un'indennità di funzione nel limite dell'autorizzazione di spesa di cui al comma 3 e a valere sulle risorse ivi previste e comunque non superiore a 25.000 euro. Per lo svolgimento delle attività di cui al presente comma, il Ministero delle infrastrutture e della mobilità sostenibili, in aggiunta al contingente di cui al secondo periodo, nel limite di spesa di euro 47.000 per l'anno 2021 e di euro 140.000 a decorrere dall'anno 2022, può avvalersi di non più di quattro esperti o consulenti nominati ai sensi dell'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165. 
+ 
+
+ 1-bis. In deroga alle previsioni di cui al comma 1, terzo periodo, e fermo restando il limite di spesa di cui al comma 3, l'incarico di coordinatore del CISMI può essere conferito con decreto del Ministro delle infrastrutture e della mobilità sostenibili ad un professore universitario di I fascia, che viene collocato in aspettativa per l'intera durata dell'incarico ai sensi dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, con conservazione del trattamento economico in godimento, che è posto integralmente a carico del Ministero delle infrastrutture e della mobilità sostenibili. L'incarico di coordinatore ha una durata non inferiore a tre anni ed è rinnovabile una sola volta. Al fine di assicurare il rispetto del limite di spesa di cui al comma 3, per l'intera durata dell'incarico è reso contestualmente indisponibile all'interno del contingente di cui al comma 1 il posto destinato al dirigente di ricerca. 
+ 
+
+ 2. Nello svolgimento della propria attività, il CISMI può stipulare, per conto del Ministero delle infrastrutture e della mobilità sostenibili, senza nuovi o maggiori oneri a carico della finanza pubblica, apposite convenzioni con enti e istituti di ricerca specializzati, pubblici e privati, e cura i rapporti con organismi internazionali, europei e nazionali nelle materie di competenza del medesimo Ministero. 
+ 
+
+ 3. Per l'attuazione delle disposizioni del comma 1, è autorizzata la spesa di euro 741.985 per l'anno 2021 e di euro 2.225.954 a decorrere dall'anno 2022. Al relativo onere si provvede per euro 741.985 per l'anno 2021 e per euro 2.225.954 a decorrere dall'anno 2022, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2021-2023, nell'ambito del programma &laquo;Fondi di riserva e speciali&raquo; della missione &laquo;Fondi da ripartire&raquo; dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2021, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 
+
+ 4. All'articolo 45 del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108, sono apportate le seguenti modificazioni: 
+ 
+
+ a) al comma 1, lettera a), la parola: &laquo;sei&raquo; è sostituita dalla seguente: &laquo;sette&raquo; e dopo le parole: &laquo;uno appartenente al Ministero dell'economia e delle finanze&raquo; sono aggiunte le seguenti: &laquo;e uno appartenente al Ministero della difesa&raquo;; 
+ 
+
+ b) al comma 2, il secondo periodo è sostituito dal seguente: &laquo;Per la partecipazione alle attività del Comitato non spettano indennità e gettoni di presenza ed è riconosciuto il solo rimborso delle spese nei limiti delle risorse disponibili a legislazione vigente e di quanto previsto per i componenti e gli esperti del Consiglio superiore dei lavori pubblici.&raquo;. 
+ 
+
+ 5. Agli oneri derivanti dal comma 4, lettera a), pari a euro 35.000 per ciascuno degli anni dal 2022 fino al 2026, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del Fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2021-2023, nell'ambito del programma &laquo;Fondi di riserva e speciali&raquo;, della missione &laquo;Fondi da ripartire&raquo; dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2021, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. All'attuazione del comma 4, lettera a), per l'anno 2021, e lettera b), si provvede con le risorse finanziarie disponibili a legislazione vigente. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 
+
+ 6. All'articolo 22, comma 2, terzo periodo, del decreto legislativo 18 aprile 2016, n. 50, le parole &laquo;, senza oneri a carico della finanza pubblica,&raquo; sono soppresse e il quarto periodo è sostituito dal seguente: &laquo;Ai componenti della commissione è riconosciuto un rimborso delle spese effettivamente sostenute e documentate per le missioni effettuate nei limiti previsti per il personale del Ministero delle infrastrutture e della mobilità sostenibili, con oneri complessivi non superiori a 18.000 euro per l'anno 2021 ed a 36.000 euro a decorrere dall'anno 2022&raquo;. 
+ 
+
+ 7. Al fine di assicurare la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili anche in relazione alla realizzazione degli interventi di competenza del medesimo Ministero finanziati in tutto o in parte con le risorse del Piano nazionale di ripresa e resilienza di cui al regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio, del 12 febbraio 2021, ovvero del Piano nazionale per gli investimenti complementari di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1°(gradi) luglio 2021, n. 101, e in considerazione delle specifiche professionalità, anche di natura tecnica, del personale del Ministero delle infrastrutture e della mobilità sostenibili, tenuto conto della necessità di remunerare adeguatamente le attività di controllo svolte da detto personale, a decorrere dalla data di entrata in vigore del presente decreto, con riferimento al personale non dirigenziale del medesimo Ministero sono incrementati, nei limiti di cui al comma 9 e in deroga ai limiti finanziari previsti dalla normativa vigente: 
+ 
+
+ a) l'indennità di amministrazione di complessivi euro 1.986.272,57 per l'anno 2021 ed euro 5.958.817,70 a decorrere dall'anno 2022, al lordo degli oneri a carico dell'amministrazione; 
+ 
+
+ b) il fondo risorse decentrate del personale di cui all'articolo 76 del contratto collettivo nazionale di lavoro del comparto funzioni centrali 2016-2018 relativo al Ministero delle infrastrutture e della mobilità sostenibili, di euro 2.446.641,12 per l'anno 2021 ed euro 7.339.923,35 a decorrere dall'anno 2022, al lordo degli oneri a carico dell'amministrazione. 
+ 
+
+ 8. Per le medesime finalità di cui al comma 7 e in considerazione delle peculiari responsabilità del personale dirigenziale del Ministero delle infrastrutture e della mobilità sostenibili, i fondi per la retribuzione di posizione e la retribuzione di risultato del medesimo personale sono incrementati, a decorrere dalla data di entrata in vigore del presente decreto: 
+ 
+
+ a) nella misura di complessivi euro 203.578.47 per l'anno 2021 ed euro 610.735,40 a decorrere dall'anno 2022, al lordo degli oneri a carico dell'amministrazione, per il personale di livello dirigenziale generale; 
+ 
+
+ b) nella misura di complessivi euro 843.366,54 per l'anno 2021 ed euro 2.530.099,62 a decorrere dall'anno 2022, al lordo degli oneri a carico dell'amministrazione, per il personale di livello dirigenziale non generale. 
+ 
+
+ 9. Agli oneri derivanti dai commi 6, 7 e 8, quantificati in complessivi euro 5.497.859 per l'anno 2021 ed in complessivi euro 16.475.576 a decorrere dall'anno 2022, si provvede mediante corrispondente riduzione del fondo speciale di parte corrente iscritto ai fini del bilancio triennale 2021-2023, nell'ambito del programma &laquo;Fondi di riserva e speciali&raquo; della missione &laquo;Fondi da ripartire&raquo; dello stato di previsione del Ministero dell'economia e delle finanze, allo scopo utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 
+
+ 10. Il regolamento di cui all'articolo 113, comma 3, del decreto legislativo 18 aprile 2016, n. 50, si applica agli appalti di lavori, servizi e forniture le cui procedure di gara sono state avviate successivamente alla data di entrata in vigore del medesimo decreto legislativo, anche se eseguiti prima dell'entrata in vigore del predetto regolamento. Gli oneri per la ripartizione delle risorse finanziarie di cui all'articolo 113, comma 2, del decreto legislativo n. 50 del 2016 fanno carico agli stanziamenti già accantonati per i singoli appalti di lavori, servizi e forniture di cui al primo periodo negli stati di previsione della spesa o nei bilanci delle stazioni appaltanti. 
+ 
+
+ 11. All'articolo 10, comma 1, lettera f), del decreto legislativo 21 novembre 2005, n. 284, sono apportate le seguenti modificazioni: 
+ 
+
+ a) all'alinea, le parole &laquo;un rappresentante per ciascuna&raquo;, ovunque ricorrono, sono sostituite dalle seguenti: &laquo;un rappresentante espressione&raquo;; 
+ 
+
+ b) al numero 7), le parole &laquo;delle Confederazioni alle quali aderisce&raquo; sono sostituite dalle seguenti: &laquo;della Confederazione alla quale aderisce; ove sia rappresentata per il tramite della Confederazione, tale Confederazione deve aver fatto parte dell'Assemblea Generale del Consiglio nazionale dell'economia e del lavoro almeno per tre mandati negli ultimi cinque e può indicare una sola associazione di categoria&raquo;.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 20, della legge 30 dicembre 2021, n. 234, recante &laquo;Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024&raquo;: 
+ 
+
+ &laquo;Art. 20 (Disposizioni diverse). - 1. In relazione all'accertamento dei residui di entrata e di spesa per i quali non esistono nel bilancio di previsione i corrispondenti capitoli nell'ambito dei programmi interessati, il Ministro dell'economia e delle finanze è autorizzato ad istituire gli occorrenti capitoli nei pertinenti programmi con propri decreti da comunicare alla Corte dei conti. 
+ 
+
+ 2. Il Ministro dell'economia e delle finanze è autorizzato a trasferire, in termini di competenza e di cassa, con propri decreti, su proposta dei Ministri interessati, per l'anno finanziario 2022, le disponibilità esistenti su altri programmi degli stati di previsione delle amministrazioni competenti a favore di appositi programmi destinati all'attuazione di interventi cofinanziati dall'Unione europea. 
+ 
+
+ 3. In relazione ai provvedimenti di riorganizzazione delle amministrazioni pubbliche, il Ministro dell'economia e delle finanze, su proposta dei Ministri competenti, per l'anno finanziario 2022, è autorizzato ad apportare, con propri decreti, da comunicare alle Commissioni parlamentari competenti, le variazioni compensative di bilancio, anche tra diversi stati di previsione in termini di residui, di competenza e di cassa, ivi comprese l'istituzione, la modifica e la soppressione di missioni e programmi, che si rendano necessarie in relazione all'accorpamento di funzioni o al trasferimento di competenze. 
+ 
+
+ 4. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, le variazioni di bilancio connesse con l'attuazione dei contratti collettivi nazionali di lavoro del personale dipendente dalle amministrazioni dello Stato, stipulati ai sensi dell'articolo 40 del decreto legislativo 30 marzo 2001, n. 165, nonchè degli accordi sindacali e dei provvedimenti di concertazione, adottati ai sensi dell'articolo 2 del decreto legislativo 12 maggio 1995, n. 195, per quanto concerne il trattamento economico fondamentale e accessorio del personale interessato. Per l'attuazione di quanto previsto dal presente comma, le somme iscritte nel conto dei residui sul capitolo 3027 &laquo;Fondo da ripartire per l'attuazione dei contratti del personale delle amministrazioni statali, ivi compreso il personale militare e quello dei corpi di polizia&raquo; dello stato di previsione del Ministero dell'economia e delle finanze possono essere versate all'entrata del bilancio dello Stato. 
+ 
+
+ 5. Le risorse finanziarie relative ai fondi destinati all'incentivazione del personale civile dello Stato, delle Forze armate, del Corpo nazionale dei vigili del fuoco e dei Corpi di polizia, nonchè quelle per la corresponsione del trattamento economico accessorio del personale dirigenziale, non utilizzate alla chiusura dell'esercizio, sono conservate nel conto dei residui per essere utilizzate nell'esercizio successivo. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, le variazioni di bilancio occorrenti per l'utilizzazione dei predetti fondi conservati. 
+ 
+
+ 6. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione, negli stati di previsione delle amministrazioni statali interessate, per l'anno finanziario 2022, delle somme rimborsate dalla Commissione europea per spese sostenute dalle amministrazioni medesime a carico dei pertinenti programmi dei rispettivi stati di previsione, affluite al fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e successivamente versate all'entrata del bilancio dello Stato. 
+ 
+
+ 7. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, le variazioni di bilancio negli stati di previsione delle amministrazioni interessate, occorrenti per l'attuazione dei decreti del Presidente del Consiglio dei ministri emanati ai sensi dell'articolo 7 della legge 15 marzo 1997, n. 59, e dei decreti legislativi concernenti il conferimento di funzioni e compiti amministrativi dello Stato alle regioni e agli enti locali, in attuazione del capo I della medesima legge n. 59 del 1997. 
+ 
+
+ 8. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, nei pertinenti programmi degli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, le variazioni di bilancio occorrenti per l'applicazione del decreto legislativo 18 febbraio 2000, n. 56, concernente disposizioni in materia di federalismo fiscale. 
+ 
+
+ 9. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, delle somme versate all'entrata a titolo di contribuzione alle spese di gestione degli asili nido istituiti presso le amministrazioni statali ai sensi dell'articolo 70, comma 5, della legge 28 dicembre 2001, n. 448, nonchè di quelle versate a titolo di contribuzione alle spese di gestione di servizi ed iniziative finalizzati al benessere del personale. 
+ 
+
+ 10. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, nell'ambito degli stati di previsione di ciascun Ministero, per l'anno finanziario 2022, le variazioni compensative di bilancio tra i capitoli interessati al pagamento delle competenze fisse e accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo;cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191. 
+ 
+
+ 11. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, le variazioni di bilancio compensative occorrenti per l'attuazione dell'articolo 14, comma 2, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122. 
+ 
+
+ 12. In attuazione dell'articolo 30, comma 4, della legge 31 dicembre 2009, n. 196, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, le variazioni compensative, in termini di competenza e di cassa, tra gli stanziamenti dei capitoli degli stati di previsione dei Ministeri, delle spese per interessi passivi e per rimborso di passività finanziarie relative ad operazioni di mutui il cui onere di ammortamento è posto a carico dello Stato. 
+ 
+
+ 13. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, le variazioni di bilancio compensative occorrenti in relazione alle riduzioni dei trasferimenti agli enti territoriali, disposte ai sensi dell'articolo 16, comma 2, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. 
+ 
+
+ 14. Il Ragioniere generale dello Stato è autorizzato a riassegnare, per l'anno finanziario 2022, con propri decreti, negli stati di previsione delle amministrazioni competenti per materia, che subentrano, ai sensi della normativa vigente, nella gestione delle residue attività liquidatorie degli organismi ed enti vigilati dallo Stato, sottoposti a liquidazione coatta amministrativa in base all'articolo 12, comma 40, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, le somme, residuali al 31 dicembre 2021, versate all'entrata del bilancio dello Stato dai commissari liquidatori cessati dall'incarico. 
+ 
+
+ 15. Le somme stanziate sul capitolo 2295 dello stato di previsione del Ministero delle politiche agricole alimentari e forestali, destinate agli interventi già di competenza della soppressa Agenzia per lo sviluppo del settore ippico, per il finanziamento del monte premi delle corse, in caso di mancata adozione del decreto previsto dall'articolo 1, comma 281, della legge 30 dicembre 2004, n. 311, o, comunque, nelle more dell'emanazione dello stesso, costituiscono determinazione della quota parte delle entrate erariali ed extraerariali derivanti da giochi pubblici con vincita in denaro affidati in concessione allo Stato ai sensi del comma 282 del medesimo articolo 1 della citata legge n. 311 del 2004. 
+ 
+
+ 16. Il Ministro dell'economia e delle finanze è autorizzato a provvedere, con propri decreti, alle variazioni compensative per il triennio 2022-2024 tra i programmi degli stati di previsione dei Ministeri interessati ed il capitolo 3465, articolo 2, dello stato di previsione dell'entrata, in relazione al contributo alla finanza pubblica previsto dal comma 6 dell'articolo 46 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, da attribuire con decreto del Presidente del Consiglio dei ministri a carico delle regioni a statuto ordinario. 
+ 
+
+ 17. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, le variazioni di bilancio occorrenti per la riduzione degli stanziamenti dei capitoli relativi alle spese correnti per l'acquisto di beni e servizi in applicazione di quanto disposto dall'articolo 2, comma 222-quater, della legge 23 dicembre 2009, n. 191. 
+ 
+
+ 18. Per corrispondere alle eccezionali indifferibili esigenze di servizio, il Ministro dell'economia e delle finanze è autorizzato a ripartire tra le amministrazioni interessate, per l'anno finanziario 2022, le risorse iscritte sul fondo istituito ai sensi dell'articolo 3 della legge 22 luglio 1978, n. 385, nello stato di previsione del Ministero dell'economia e delle finanze, nell'ambito della missione &laquo;Fondi da ripartire&raquo;, programma &laquo;Fondi da assegnare&raquo;, capitolo 3026, sulla base delle assegnazioni disposte con l'apposito decreto del Presidente del Consiglio dei ministri. Tali assegnazioni tengono conto anche delle risorse finanziarie già iscritte sui pertinenti capitoli degli stati di previsione dei Ministeri interessati al fine di assicurare la tempestiva corresponsione delle somme dovute al personale e ammontanti al 50 per cento delle risorse complessivamente autorizzate per le medesime finalità nell'anno 2021. è autorizzata l'erogazione dei predetti compensi nelle more del perfezionamento del citato decreto del Presidente del Consiglio dei ministri e nei limiti ivi stabiliti per l'anno 2021. 
+ 
+
+ 19. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta dei Ministri competenti, per l'anno finanziario 2022, le variazioni compensative, anche tra programmi diversi del medesimo stato di previsione, in termini di residui, di competenza e di cassa, che si rendano necessarie nel caso di sentenze definitive anche relative ad esecuzione forzata nei confronti delle amministrazioni dello Stato. 
+ 
+
+ 20. In relazione al pagamento delle competenze accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo; cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, il Ministro dell'economia e delle finanze è autorizzato a ripartire, con propri decreti, su proposta del Ministro dell'interno, fra gli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, i fondi iscritti nello stato di previsione del Ministero dell'interno, nell'ambito della missione &laquo;Ordine pubblico e sicurezza&raquo;, programma &laquo;Servizio permanente dell'Arma dei Carabinieri per la tutela dell'ordine e la sicurezza pubblica&raquo; e programma &laquo;Pianificazione e coordinamento Forze di polizia&raquo;, concernenti il trattamento accessorio del personale delle Forze di polizia e del personale alle dipendenze della Direzione investigativa antimafia. Nelle more del perfezionamento del decreto del Ministro dell'interno, di cui all'articolo 43, tredicesimo comma, della legge 1°(gradi) aprile 1981, n. 121, al fine di consentire il tempestivo pagamento dei compensi per lavoro straordinario ai corpi di polizia, è autorizzata l'erogazione dei predetti compensi nei limiti stabiliti dal decreto adottato ai sensi del medesimo articolo 43, tredicesimo comma, per l'anno 2021. 
+ 
+
+ 21. In relazione al pagamento delle competenze fisse e accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo; cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, il Ragioniere generale dello Stato è autorizzato a riassegnare nello stato di previsione del Ministero della difesa, per l'anno finanziario 2022, le somme versate in entrata concernenti le competenze fisse ed accessorie del personale dell'Arma dei carabinieri in forza extraorganica presso le altre amministrazioni. 
+ 
+
+ 22. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro dell'interno, per l'anno finanziario 2022, le variazioni compensative, negli stati di previsione delle amministrazioni interessate, tra le spese per la manutenzione dei beni acquistati nell'ambito delle dotazioni tecniche e logistiche per le esigenze delle sezioni di polizia giudiziaria, iscritte nell'ambito della missione &laquo;Ordine pubblico e sicurezza&raquo;, programma &laquo;Contrasto al crimine, tutela dell'ordine e della sicurezza pubblica&raquo;. 
+ 
+
+ 23. Ai fini dell'attuazione del programma di interventi previsto dall'articolo 5, commi 2 e 8-bis, del decreto legislativo 4 luglio 2014, n. 102, finanziato ai sensi del comma 12 del medesimo articolo, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro della transizione ecologica, per l'anno finanziario 2022, variazioni compensative, in termini di residui, di competenza e di cassa, tra i capitoli dello stato di previsione del Ministero della transizione ecologica relativi all'attuazione del citato programma di interventi e i correlati capitoli degli stati di previsione del Ministero dell'economia e delle finanze, del Ministero della difesa e del Ministero delle infrastrutture e della mobilità sostenibili. 
+ 
+
+ 24. In relazione alla razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato nell'Arma dei carabinieri di cui al decreto legislativo 19 agosto 2016, n. 177, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, le opportune variazioni compensative di bilancio tra gli stati di previsione delle amministrazioni interessate. 
+ 
+
+ 25. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, delle somme versate all'entrata del bilancio dello Stato dall'Unione europea, dalle pubbliche amministrazioni e da enti pubblici e privati, a titolo di contribuzione alle spese di promozione della conciliazione dei tempi di vita e di lavoro nelle amministrazioni pubbliche di cui all'articolo 14 della legge 7 agosto 2015, n. 124. 
+ 
+
+ 26. Il Ministro dell'economia e delle finanze è autorizzato a ripartire, tra gli stati di previsione dei Ministeri interessati, le risorse del capitolo &laquo;Fondo da assegnare per la sistemazione contabile delle partite iscritte al conto sospeso&raquo;, iscritto nello stato di previsione del Ministero dell'economia e delle finanze, per l'anno finanziario 2022. Le risorse del suddetto Fondo non utilizzate nel corso dello stesso esercizio sono conservate in bilancio per essere utilizzate nell'esercizio successivo. 
+ 
+
+ 27. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni compensative di bilancio, anche in termini di residui, relativamente alle sole competenze fisse, tra i capitoli delle amministrazioni interessate al riordino delle Forze armate e delle Forze di polizia previsto dai decreti legislativi 29 maggio 2017, n. 94 e n. 95, e dai relativi decreti correttivi. 
+ 
+
+ 28. Con decreti del Ragioniere generale dello Stato, per l'anno finanziario 2022, le somme affluite all'entrata del bilancio dello Stato per effetto di donazioni effettuate da soggetti privati in favore di amministrazioni centrali e periferiche dello Stato puntualmente individuate possono essere riassegnate ad appositi capitoli di spesa degli stati di previsione dei Ministeri interessati. 
+ 
+
+ 29. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2022, variazioni compensative, in termini di competenza e di cassa, tra le spese per la partecipazione italiana a banche, fondi ed organismi internazionali iscritte nell'ambito della missione &laquo;L'Italia in Europa e nel Mondo&raquo;, programma &laquo;Politica economica e finanziaria in ambito internazionale&raquo;, e le spese connesse con l'intervento diretto di società partecipate dal Ministero dell'economia e delle finanze all'interno del sistema economico, anche attraverso la loro capitalizzazione, iscritte nell'ambito della missione &laquo;Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica&raquo;, programma &laquo;Regolamentazione e vigilanza sul settore finanziario&raquo;. 
+ 
+
+ 30. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2022, delle somme versate all'entrata del bilancio dello Stato dalle istituzioni dell'Unione europea per il rimborso delle spese di missione presso gli organismi dell'Unione europea del personale in servizio presso le amministrazioni dello Stato, sostenute dalle amministrazioni medesime a carico dei pertinenti programmi dei rispettivi stati di previsione. 
+ 
+
+ 31. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi delle amministrazioni centrali cui compete la gestione dei programmi spaziali nazionali e in cooperazione internazionale, per l'anno finanziario 2022, delle somme di cui all'articolo 1, comma 253, della legge 27 dicembre 2019, n. 160, versate all'entrata del bilancio dello Stato dalla Presidenza del Consiglio dei ministri. 
+ 
+
+ 32. Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'articolo 113 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, il Ragioniere generale dello Stato, su proposta dell'amministrazione, è autorizzato a riassegnare, con propri decreti, per l'anno finanziario 2022, sul pertinente capitolo di spesa iscritto nello stato di previsione della medesima amministrazione, le somme versate all'entrata del bilancio dello Stato riguardanti le risorse accantonate per ogni singolo appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione è chiamata ad adottare per la ripartizione degli incentivi per funzioni tecniche ai sensi del predetto articolo 113 del codice di cui al decreto legislativo n. 50 del 2016.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 20, comma 32, della legge 29 dicembre 2022, n. 197, recante &laquo;Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025&raquo;: 
+ 
+
+ &laquo;Art. 20 (Disposizioni diverse). - 1. In relazione all'accertamento dei residui di entrata e di spesa per i quali non esistono nel bilancio di previsione i corrispondenti capitoli nell'ambito dei programmi interessati, il Ministro dell'economia e delle finanze è autorizzato ad istituire gli occorrenti capitoli nei pertinenti programmi con propri decreti da comunicare alla Corte dei conti. 
+ 
+
+ 2. Il Ministro dell'economia e delle finanze è autorizzato a trasferire, in termini di competenza e di cassa, con propri decreti, su proposta dei Ministri interessati, per l'anno finanziario 2023, le disponibilità esistenti su altri programmi degli stati di previsione delle amministrazioni competenti a favore di appositi programmi destinati all'attuazione di interventi cofinanziati dall'Unione europea. 
+ 
+
+ 3. In relazione ai provvedimenti di riorganizzazione delle amministrazioni pubbliche, il Ministro dell'economia e delle finanze, per l'anno finanziario 2023, è autorizzato ad apportare, con propri decreti, adottati su proposta dei Ministri competenti e comunicati alle Commissioni parlamentari competenti, le variazioni compensative di bilancio, anche tra diversi stati di previsione, in termini di residui, di competenza e di cassa, ivi comprese l'istituzione, la modifica e la soppressione di missioni e programmi, che si rendano necessarie in relazione all'accorpamento di funzioni o al trasferimento di competenze. 
+ 
+
+ 4. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2023, le variazioni di bilancio connesse con l'attuazione dei contratti collettivi nazionali di lavoro del personale dipendente dalle amministrazioni dello Stato, stipulati ai sensi dell'articolo 40 del decreto legislativo 30 marzo 2001, n. 165, nonchè degli accordi sindacali e dei provvedimenti di concertazione, adottati ai sensi dell'articolo 2 del decreto legislativo 12 maggio 1995, n. 195, per quanto concerne il trattamento economico fondamentale e accessorio del personale interessato. Per l'attuazione di quanto previsto dal presente comma, le somme iscritte nel conto dei residui sul capitolo 3027 &laquo;Fondo da ripartire per l'attuazione dei contratti del personale delle amministrazioni statali, ivi compreso il personale militare e quello dei corpi di polizia&raquo; dello stato di previsione del Ministero dell'economia e delle finanze possono essere versate all'entrata del bilancio dello Stato. 
+ 
+
+ 5. Le risorse finanziarie relative ai fondi destinati all'incentivazione del personale civile dello Stato, delle Forze armate, del Corpo nazionale dei vigili del fuoco e dei Corpi di polizia, nonchè quelle per la corresponsione del trattamento economico accessorio del personale dirigenziale, non utilizzate alla chiusura dell'esercizio, sono conservate nel conto dei residui per essere utilizzate nell'esercizio successivo. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2023, le variazioni di bilancio occorrenti per l'utilizzazione dei predetti fondi conservati. 
+ 
+
+ 6. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione, negli stati di previsione delle amministrazioni statali interessate, per l'anno finanziario 2023, delle somme rimborsate dalla Commissione europea per spese sostenute dalle amministrazioni medesime a carico dei pertinenti programmi dei rispettivi stati di previsione, affluite al fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e successivamente versate all'entrata del bilancio dello Stato. 
+ 
+
+ 7. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, le variazioni di bilancio occorrenti per l'attuazione dei decreti del Presidente del Consiglio dei ministri emanati ai sensi dell'articolo 7 della legge 15 marzo 1997, n. 59, e dei decreti legislativi concernenti il conferimento di funzioni e compiti amministrativi dello Stato alle regioni e agli enti locali, in attuazione del capo I della medesima legge n. 59 del 1997. 
+ 
+
+ 8. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, nei pertinenti programmi degli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, le variazioni di bilancio occorrenti per l'applicazione del decreto legislativo 18 febbraio 2000, n. 56, concernente disposizioni in materia di federalismo fiscale. 
+ 
+
+ 9. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, delle somme versate all'entrata a titolo di contribuzione alle spese di gestione degli asili nido istituiti presso le amministrazioni statali ai sensi dell'articolo 70, comma 5, della legge 28 dicembre 2001, n. 448, nonchè di quelle versate a titolo di contribuzione alle spese di gestione di servizi e iniziative finalizzati al benessere del personale. 
+ 
+
+ 10. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, nell'ambito degli stati di previsione di ciascun Ministero, per l'anno finanziario 2023, le variazioni compensative di bilancio tra i capitoli interessati al pagamento delle competenze fisse e accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo;cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191. 
+ 
+
+ 11. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, le variazioni di bilancio compensative occorrenti per l'attuazione dell'articolo 14, comma 2, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122. 
+ 
+
+ 12. In attuazione dell'articolo 30, comma 4, della legge 31 dicembre 2009, n. 196, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2023, le variazioni compensative, in termini di competenza e di cassa, tra gli stanziamenti dei capitoli degli stati di previsione dei Ministeri, delle spese per interessi passivi e per rimborso di passività finanziarie relative ad operazioni di mutui il cui onere di ammortamento è posto a carico dello Stato. 
+ 
+
+ 13. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, le variazioni di bilancio compensative occorrenti in relazione alle riduzioni dei trasferimenti agli enti territoriali, disposte ai sensi dell'articolo 16, comma 2, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. 
+ 
+
+ 14. Il Ragioniere generale dello Stato è autorizzato a riassegnare, per l'anno finanziario 2023, con propri decreti, negli stati di previsione delle amministrazioni competenti per materia, che subentrano, ai sensi della normativa vigente, nella gestione delle residue attività liquidatorie degli organismi ed enti vigilati dallo Stato, sottoposti a liquidazione coatta amministrativa in base all'articolo 12, comma 40, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, le somme, residuali al 31 dicembre 2022, versate all'entrata del bilancio dello Stato dai commissari liquidatori cessati dall'incarico. 
+ 
+
+ 15. Le somme stanziate sul capitolo 2295 dello stato di previsione del Ministero dell'agricoltura, della sovranità alimentare e delle foreste, destinate agli interventi già di competenza della soppressa Agenzia per lo sviluppo del settore ippico, per il finanziamento del monte premi delle corse, in caso di mancata adozione del decreto previsto dall'articolo 1, comma 281, della legge 30 dicembre 2004, n. 311, o, comunque, nelle more dell'emanazione dello stesso, costituiscono determinazione della quota parte delle entrate erariali ed extraerariali derivanti da giochi pubblici con vincita in denaro affidati in concessione allo Stato ai sensi del comma 282 del medesimo articolo 1 della citata legge n. 311 del 2004. 
+ 
+
+ 16. Il Ministro dell'economia e delle finanze è autorizzato a provvedere, con propri decreti, alle variazioni compensative per il triennio 2023-2025 tra i programmi degli stati di previsione dei Ministeri interessati e il capitolo 3465, articolo 2, dello stato di previsione dell'entrata, in relazione al contributo alla finanza pubblica previsto dal comma 6 dell'articolo 46 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, da attribuire con decreto del Presidente del Consiglio dei ministri a carico delle regioni a statuto ordinario. 
+ 
+
+ 17. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, negli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, le variazioni di bilancio occorrenti per la riduzione degli stanziamenti dei capitoli relativi alle spese correnti per l'acquisto di beni e servizi in applicazione di quanto disposto dall'articolo 2, comma 222-quater, della legge 23 dicembre 2009, n. 191. 
+ 
+
+ 18. Per corrispondere alle eccezionali indifferibili esigenze di servizio, il Ministro dell'economia e delle finanze è autorizzato a ripartire tra le amministrazioni interessate, per l'anno finanziario 2023, le risorse iscritte nel fondo istituito ai sensi dell'articolo 3 della legge 22 luglio 1978, n. 385, nello stato di previsione del Ministero dell'economia e delle finanze, nell'ambito della missione &laquo;Fondi da ripartire&raquo;, programma &laquo;Fondi da assegnare&raquo;, capitolo 3026, sulla base delle assegnazioni disposte con l'apposito decreto del Presidente del Consiglio dei ministri. Tali assegnazioni tengono conto anche delle risorse finanziarie già iscritte nei pertinenti capitoli degli stati di previsione dei Ministeri interessati al fine di assicurare la tempestiva corresponsione delle somme dovute al personale e ammontanti al 50 per cento delle risorse complessivamente autorizzate per le medesime finalità nell'anno 2022. è autorizzata l'erogazione dei predetti compensi nelle more del perfezionamento del citato decreto del Presidente del Consiglio dei ministri e nei limiti ivi stabiliti per l'anno 2022. 
+ 
+
+ 19. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta dei Ministri competenti, per l'anno finanziario 2023, le variazioni compensative, anche tra programmi diversi del medesimo stato di previsione, in termini di residui, di competenza e di cassa, che si rendano necessarie nel caso di sentenze definitive anche relative ad esecuzione forzata nei confronti delle amministrazioni dello Stato. 
+ 
+
+ 20. In relazione al pagamento delle competenze accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo;cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, il Ministro dell'economia e delle finanze è autorizzato a ripartire, con propri decreti, su proposta del Ministro dell'interno, fra gli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, i fondi iscritti nello stato di previsione del Ministero dell'interno, nell'ambito della missione &laquo;Ordine pubblico e sicurezza&raquo;, programma &laquo;Servizio permanente dell'Arma dei Carabinieri per la tutela dell'ordine e la sicurezza pubblica&raquo; e programma &laquo;Pianificazione e coordinamento Forze di polizia&raquo;, concernenti il trattamento accessorio del personale delle Forze di polizia e del personale alle dipendenze della Direzione investigativa antimafia. Nelle more del perfezionamento del decreto del Ministro dell'interno, di cui all'articolo 43, tredicesimo comma, della legge 1°(gradi) aprile 1981, n. 121, al fine di consentire il tempestivo pagamento dei compensi per lavoro straordinario ai corpi di polizia, è autorizzata l'erogazione dei predetti compensi nei limiti stabiliti dal decreto adottato ai sensi del medesimo articolo 43, tredicesimo comma, per l'anno 2022. 
+ 
+
+ 21. In relazione al pagamento delle competenze fisse e accessorie mediante ordini collettivi di pagamento con il sistema denominato &laquo;cedolino unico&raquo;, ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, il Ragioniere generale dello Stato è autorizzato a riassegnare allo stato di previsione del Ministero della difesa, per l'anno finanziario 2023, le somme versate in entrata concernenti le competenze fisse e accessorie del personale dell'Arma dei carabinieri in forza extra-organica presso le altre amministrazioni. 
+ 
+
+ 22. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro dell'interno, per l'anno finanziario 2023, le variazioni compensative, negli stati di previsione delle amministrazioni interessate, tra le spese per la manutenzione dei beni acquistati nell'ambito delle dotazioni tecniche e logistiche per le esigenze delle sezioni di polizia giudiziaria, iscritte nell'ambito della missione &laquo;Ordine pubblico e sicurezza&raquo;, programma &laquo;Contrasto al crimine, tutela dell'ordine e della sicurezza pubblica&raquo;, dello stato di previsione del Ministero dell'interno. 
+ 
+
+ 23. Ai fini dell'attuazione del programma di interventi previsto dall'articolo 5, commi 2 e 8-bis, del decreto legislativo 4 luglio 2014, n. 102, finanziato ai sensi del comma 12 del medesimo articolo, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro dell'ambiente e della sicurezza energetica, per l'anno finanziario 2023, variazioni compensative, in termini di residui, di competenza e di cassa, tra i capitoli dello stato di previsione del Ministero dell'ambiente e della sicurezza energetica relativi all'attuazione del citato programma di interventi e i correlati capitoli degli stati di previsione del Ministero dell'economia e delle finanze, del Ministero della difesa e del Ministero delle infrastrutture e dei trasporti. 
+ 
+
+ 24. In relazione alla razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato nell'Arma dei carabinieri, di cui al decreto legislativo 19 agosto 2016, n. 177, il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2023, le opportune variazioni compensative di bilancio tra gli stati di previsione delle amministrazioni interessate. 
+ 
+
+ 25. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione agli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, delle somme versate all'entrata del bilancio dello Stato dall'Unione europea, dalle pubbliche amministrazioni e da enti pubblici e privati a titolo di contribuzione alle spese di promozione della conciliazione dei tempi di vita e di lavoro nelle amministrazioni pubbliche, di cui all'articolo 14 della legge 7 agosto 2015, n. 124. 
+ 
+
+ 26. Il Ministro dell'economia e delle finanze è autorizzato a ripartire tra gli stati di previsione dei Ministeri interessati le risorse del capitolo &laquo;Fondo da assegnare per la sistemazione contabile delle partite iscritte al conto sospeso&raquo;, iscritto nello stato di previsione del Ministero dell'economia e delle finanze per l'anno finanziario 2023. Le risorse del suddetto Fondo non utilizzate nel corso dello stesso esercizio sono conservate in bilancio per essere utilizzate nell'esercizio successivo. 
+ 
+
+ 27. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni compensative di bilancio, anche in termini di residui, relativamente alle sole competenze fisse, tra i capitoli delle amministrazioni interessate al riordino delle Forze armate e delle Forze di polizia previsto dai decreti legislativi 29 maggio 2017, n. 94 e n. 95, e dai relativi decreti correttivi. 
+ 
+
+ 28. Con decreti del Ragioniere generale dello Stato, per l'anno finanziario 2023, le somme affluite all'entrata del bilancio dello Stato per effetto di donazioni effettuate da soggetti privati in favore di amministrazioni centrali e periferiche dello Stato puntualmente individuate possono essere riassegnate ad appositi capitoli di spesa degli stati di previsione dei Ministeri interessati. 
+ 
+
+ 29. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, per l'anno finanziario 2023, variazioni compensative, in termini di competenza e di cassa, tra le spese per la partecipazione italiana a banche, fondi e organismi internazionali iscritte nel programma &laquo;Politica economica e finanziaria in ambito internazionale&raquo;, nell'ambito della missione &laquo;L'Italia in Europa e nel mondo&raquo; dello stato di previsione del Ministero dell'economia e delle finanze, e le spese connesse con l'intervento diretto di società partecipate dal Ministero dell'economia e delle finanze all'interno del sistema economico, anche attraverso la loro capitalizzazione, iscritte nell'ambito della missione &laquo;Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica&raquo;, programma &laquo;Regolamentazione e vigilanza sul settore finanziario&raquo;, del medesimo stato di previsione. 
+ 
+
+ 30. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione agli stati di previsione delle amministrazioni interessate, per l'anno finanziario 2023, delle somme versate all'entrata del bilancio dello Stato dalle istituzioni dell'Unione europea per il rimborso delle spese di missione presso gli organismi dell'Unione europea nei riguardi del personale in servizio presso le amministrazioni dello Stato, sostenute dalle amministrazioni medesime a carico dei pertinenti programmi dei rispettivi stati di previsione. 
+ 
+
+ 31. Il Ragioniere generale dello Stato è autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi delle amministrazioni centrali cui compete la gestione dei programmi spaziali nazionali e in cooperazione internazionale, per l'anno finanziario 2023, delle somme di cui all'articolo 1, comma 253, della legge 27 dicembre 2019, n. 160, versate all'entrata del bilancio dello Stato dalla Presidenza del Consiglio dei ministri. 
+ 
+
+ 32. Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'articolo 113 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, il Ragioniere generale dello Stato, per l'anno finanziario 2023, è autorizzato a riassegnare, con propri decreti, su proposta dell'amministrazione competente, ai pertinenti capitoli di spesa iscritti nello stato di previsione della medesima amministrazione le somme versate all'entrata del bilancio dello Stato riguardanti le risorse accantonate per ciascun appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione deve adottare per la ripartizione degli incentivi per funzioni tecniche ai sensi del comma 3 del predetto articolo 113 del codice di cui al decreto legislativo n. 50 del 2016.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 35-bis del decreto legislativo 30 marzo 2001, n. 165, recante &laquo;Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche&raquo;, pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O.: 
+ 
+
+ &laquo;Art. 35-bis (Prevenzione del fenomeno della corruzione nella formazione di commissioni e nelle assegnazioni agli uffici). - 1. Coloro che sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del codice penale: 
+ 
+
+ a) non possono fare parte, anche con compiti di segreteria, di commissioni per l'accesso o la selezione a pubblici impieghi; 
+ 
+
+ b) non possono essere assegnati, anche con funzioni direttive, agli uffici preposti alla gestione delle risorse finanziarie, all'acquisizione di beni, servizi e forniture, nonchè alla concessione o all'erogazione di sovvenzioni, contributi, sussidi, ausili finanziari o attribuzioni di vantaggi economici a soggetti pubblici e privati; 
+ 
+
+ c) non possono fare parte delle commissioni per la scelta del contraente per l'affidamento di lavori, forniture e servizi, per la concessione o l'erogazione di sovvenzioni, contributi, sussidi, ausili finanziari, nonchè per l'attribuzione di vantaggi economici di qualunque genere. 
+ 
+
+ 2. La disposizione prevista al comma 1 integra le leggi e regolamenti che disciplinano la formazione di commissioni e la nomina dei relativi segretari.&raquo; 
+ 
+
+ - Il capo I del titolo II del libro secondo del codice penale tratta di delitti dei pubblici ufficiali contro la Pubblica Amministrazione. 
+ 
+
+ - Si riporta il testo dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191 concernente &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2010)&raquo;: 
+ 
+
+ &laquo;1. - 196. Omissis 
+ 
+
+ 197. Allo scopo di semplificare, razionalizzare e omogeneizzare i pagamenti delle retribuzioni fisse e accessorie dei pubblici dipendenti, di favorire il monitoraggio della spesa del personale e di assicurare il versamento unificato delle ritenute previdenziali e fiscali, a partire dal 30 novembre 2010 il pagamento delle competenze accessorie, spettanti al personale delle amministrazioni dello Stato che per il pagamento degli stipendi si avvalgono delle procedure informatiche e dei servizi del Ministero dell'economia e delle finanze - Dipartimento dell'amministrazione generale, del personale e dei servizi, è disposto congiuntamente alle competenze fisse mediante ordini collettivi di pagamento di cui al decreto del Ministro dell'economia e delle finanze 31 ottobre 2002, pubblicato nella Gazzetta Ufficiale n. 295 del 17 dicembre 2002. Per consentire l'adeguamento delle procedure informatiche del Ministero dell'economia e delle finanze per le finalità di cui al presente comma è autorizzata la spesa di 9 milioni di euro per l'anno 2010 e di 12 milioni di euro per l'anno 2011. Con successivo decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono stabiliti i tempi e le modalità attuative delle disposizioni di cui al presente comma. 
+ 
+
+ Omissis.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 24, della legge 31 dicembre 2009, n. 196 (Legge di contabilità e finanza pubblica), pubblicata nella Gazzetta Ufficiale 31 dicembre 2009, n. 303, S.O.: 
+ 
+
+ &laquo;Art. 24 (Integrità, universalità ed unità del bilancio). - 1. I criteri dell'integrità, dell'universalità e dell'unità del bilancio dello Stato costituiscono profili attuativi dell'articolo 81 della Costituzione. 
+ 
+
+ 2. Sulla base del criterio dell'integrità, tutte le entrate devono essere iscritte in bilancio al lordo delle spese di riscossione e di altre eventuali spese ad esse connesse. Parimenti, tutte le spese devono essere iscritte in bilancio integralmente, senza alcuna riduzione delle correlative entrate. 
+ 
+
+ 3. Sulla base dei criteri dell'universalità e dell'unità, è vietato gestire fondi al di fuori del bilancio, ad eccezione dei casi consentiti e regolati in base all'articolo 40, comma 2, lettera p). 
+ 
+
+ 4. è vietata altresì l'assegnazione di qualsiasi provento per spese o erogazioni speciali, salvo i proventi e le quote di proventi riscossi per conto di enti, le oblazioni e simili, fatte a scopo determinato. 
+ 
+
+ 5. Restano valide le disposizioni legislative che prevedono la riassegnazione di particolari entrate alle unità elementari di bilancio, ai fini della gestione e della rendicontazione. 
+ 
+
+ 5-bis. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, su proposta del Ministro competente, le variazioni di bilancio occorrenti per l'iscrizione nei diversi stati di previsione della spesa interessati delle somme versate all'entrata del bilancio dello Stato finalizzate per legge al finanziamento di specifici interventi o attività.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 7 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62 (Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165), pubblicato nella Gazzetta Ufficiale 4 giugno 2013, n. 129: 
+ 
+
+ &laquo;Art. 7 (Obbligo di astensione). - 1. Il dipendente si astiene dal partecipare all'adozione di decisioni o ad attività che possano coinvolgere interessi propri, ovvero di suoi parenti, affini entro il secondo grado, del coniuge o di conviventi, oppure di persone con le quali abbia rapporti di frequentazione abituale, ovvero, di soggetti od organizzazioni con cui egli o il coniuge abbia causa pendente o grave inimicizia o rapporti di credito o debito significativi, ovvero di soggetti od organizzazioni di cui sia tutore, curatore, procuratore o agente, ovvero di enti, associazioni anche non riconosciute, comitati, società o stabilimenti di cui sia amministratore o gerente o dirigente. Il dipendente si astiene in ogni altro caso in cui esistano gravi ragioni di convenienza. Sull'astensione decide il responsabile dell'ufficio di appartenenza.&raquo; 
+ 
+
+ - Il decreto del Presidente del Consiglio dei ministri 26 giugno 2019, n. 103 (Regolamento di organizzazione del Ministero dell'economia e delle finanze) è pubblicato nella Gazzetta Ufficiale 20 settembre 2019, n. 221. 
+ 
+
+ - Il testo dei contratti collettivi nazionali di lavoro relativi al personale del Comparto Funzioni centrali, 2016-2018 e 2019-2021, firmati rispettivamente il 12 febbraio 2018 e il 9 maggio 2022, è pubblicato sul sito dell'Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Il testo dell'articolo 113, del decreto legislativo 18 aprile 2016, n. 50, è riportato nelle note alle premesse. 
+ 
+
+ - Si riporta il testo dell'articolo 1, comma 449, della legge 27 dicembre 2006, n. 296 recante &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2007)&raquo;: 
+ 
+
+ &laquo;1. - 448. Omissis. 
+ 
+
+ 449. Nel rispetto del sistema delle convenzioni di cui agli articoli 26 della legge 23 dicembre 1999, n. 488, e successive modificazioni, e 58 della legge 23 dicembre 2000, n. 388, tutte le amministrazioni statali centrali e periferiche, ivi compresi gli istituti e le scuole di ogni ordine e grado, le istituzioni educative e le istituzioni universitarie, nonchè gli enti nazionali di previdenza e assistenza sociale pubblici e le agenzie fiscali di cui al decreto legislativo 30 luglio 1999, n. 300, sono tenute ad approvvigionarsi utilizzando le convenzioni-quadro. Le restanti amministrazioni pubbliche di cui all'articolo 1 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonchè le autorità indipendenti, possono ricorrere alle convenzioni di cui al presente comma e al comma 456 del presente articolo, ovvero ne utilizzano i parametri di prezzo-qualità come limiti massimi per la stipulazione dei contratti. Gli enti del Servizio sanitario nazionale sono in ogni caso tenuti ad approvvigionarsi utilizzando le convenzioni stipulate dalle centrali regionali di riferimento ovvero, qualora non siano operative convenzioni regionali, le convenzioni-quadro stipulate da Consip S.p.A. 
+ 
+
+ Omissis.&raquo; 
+ 
+
+ - Si riporta il testo dell'articolo 2, comma 225, della legge 23 dicembre 2009, n. 191 concernente &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2010)&raquo;: 
+ 
+
+ &laquo;1. - 224. Omissis. 
+ 
+
+ 225. La società CONSIP Spa conclude accordi quadro, ai sensi dell'articolo 59 del codice dei contratti pubblici relativi a lavori, servizi e forniture, di cui al decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, cui le stazioni appaltanti di cui all'articolo 3, comma 33, del citato codice di cui al decreto legislativo n. 163 del 2006, possono fare ricorso per l'acquisto di beni e di servizi. In alternativa, le medesime stazioni appaltanti adottano, per gli acquisti di beni e servizi comparabili, parametri di qualità e di prezzo rapportati a quelli degli accordi quadro di cui al presente comma. Resta fermo quanto previsto dall'articolo 26 della legge 23 dicembre 1999, n. 488, e successive modificazioni, dall'articolo 58 della legge 23 dicembre 2000, n. 388, dall'articolo 1, commi 449 e 450, della legge 27 dicembre 2006, n. 296, e dall'articolo 2, comma 574, della legge 24 dicembre 2007, n. 244 e comunque quanto previsto dalla normativa in tema di obblighi di approvvigionarsi attraverso gli strumenti messi a disposizione da Consip SpA. 
+ 
+
+ Omissis.&raquo; 
+ 
+
+ - Il testo dell'articolo 5, del decreto-legge 10 settembre 2021, n. 121, convertito, con modificazioni, dalla legge 9 novembre 2021, n. 156 (Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali) è riportato nelle note alle premesse.
