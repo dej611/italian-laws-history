@@ -52,7 +52,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. In considerazione del carattere emergenziale assunto dalla crisi energetica, le imprese che gestiscono a qualunque titolo impianti e infrastrutture di rilevanza strategica per l'interesse nazionale nel settore della raffinazione di idrocarburi, garantiscono, con ogni mezzo, la sicurezza degli approvvigionamenti, nonchè il mantenimento, la sicurezza e l'operatività delle reti e degli impianti, astenendosi da comportamenti che possono mettere a rischio la continuità produttiva e recare pregiudizio all'interesse nazionale. 
+ 1. In considerazione del carattere emergenziale assunto dalla crisi energetica, le imprese che gestiscono a qualunque titolo impianti e infrastrutture di rilevanza strategica per l'interesse nazionale nel settore della raffinazione di idrocarburi 
+ ((...))
+
+ garantiscono 
+ ((...))
+
+ la sicurezza degli approvvigionamenti, nonchè il mantenimento, la sicurezza e l'operatività delle reti e degli impianti, astenendosi da comportamenti che possono mettere a rischio la continuità produttiva e recare pregiudizio all'interesse nazionale. 
  
 
  
@@ -60,7 +66,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Fino al 30 giugno 2023, ove vengano in rilievo rischi di continuità produttiva idonei a recare pregiudizio all'interesse nazionale, conseguenti a sanzioni imposte nell'ambito dei rapporti internazionali tra Stati, l'impresa che svolge le attività di cui al comma 1 ne dà tempestiva comunicazione al Ministero delle imprese e del made in Italy, al fine dell'urgente attivazione delle misure a sostegno e tutela previste dalla legge, nel quadro degli aiuti di Stato compatibili con il diritto europeo. 
+ 2. Fino al 
+ ((31 dicembre 2023))
+
+ , ove vengano in rilievo rischi di continuità produttiva idonei a recare pregiudizio all'interesse nazionale, conseguenti a sanzioni imposte nell'ambito dei rapporti internazionali tra Stati, l'impresa che svolge le attività di cui al comma 1 ne dà tempestiva comunicazione al Ministero delle imprese e del made in Italy, al fine dell'urgente attivazione delle misure a sostegno e tutela previste dalla legge, nel quadro degli aiuti di Stato compatibili con il diritto europeo. 
  
 
  
@@ -76,18 +85,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. L'amministrazione temporanea è disposta per un periodo di massimo 12 mesi, prorogabile una sola volta fino a ulteriori 12 mesi.
- 
+ 4. L'amministrazione temporanea è disposta per un 
+ ((periodo massimo di 12 mesi))
 
- Essa comporta la sostituzione degli organi di amministrazione e controllo, senza applicazione dell'articolo 2383, terzo comma, del codice civile, e la nomina di un commissario che subentra nella gestione. L'amministrazione temporanea è condotta secondo le ordinarie disposizioni dell'ordinamento, al fine di evitare pericoli di pregiudizio all'interesse nazionale alla sicurezza dell'approvvigionamento energetico, nell'interesse dell'impresa e senza pregiudizio per la stessa, per i soci, per i lavoratori, per i titolari di rapporti giuridici attivi o passivi. Gli eventuali utili maturati durante l'esercizio non possono essere distribuiti se non al termine dell'amministrazione temporanea. I costi della gestione temporanea restano a carico dell'impresa. 
- 
+ , prorogabile una sola volta fino a ulteriori 12 mesi. Essa comporta la sostituzione degli organi di amministrazione e controllo, senza applicazione dell'articolo 2383, terzo comma, del codice civile, e la nomina di un commissario che subentra nella gestione. L'amministrazione temporanea è condotta secondo le ordinarie disposizioni dell'ordinamento, al fine di evitare pericoli di pregiudizio all'interesse nazionale alla sicurezza dell'approvvigionamento energetico, nell'interesse dell'impresa e senza pregiudizio per la stessa, per i soci, 
+ ((per i lavoratori e per i titolari))
 
- 
- 
- 
-
- 
- 5. L'amministrazione temporanea è disposta con decreto del Ministro delle imprese e del made in Italy, con il quale è nominato il commissario, che può avvalersi anche di società a controllo o a partecipazione pubblica operante nei medesimi settori e senza pregiudizio della disciplina in tema di concorrenza, e sono altresì stabiliti termini e modalità della procedura. 
+ di rapporti giuridici attivi o passivi. Gli eventuali utili maturati durante l'esercizio non possono essere distribuiti se non al termine dell'amministrazione temporanea. I costi della gestione temporanea restano a carico dell'impresa. 
  
 
  
@@ -95,4 +99,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6. In caso di grave ed imminente pericolo di pregiudizio all'interesse nazionale alla sicurezza nell'approvvigionamento energetico, l'ammissione alla procedura di amministrazione temporanea può essere disposta con decreto del Ministro delle imprese e del made in Italy, del Ministro dell'economia e delle finanze e del Ministro dell'ambiente e della sicurezza energetica anche indipendentemente dalla istanza di cui al comma 3.
+ 5. L'amministrazione temporanea è disposta con decreto del Ministro delle imprese e del made in Italy, 
+ ((di concerto con il Ministro dell'ambiente e della sicurezza energetica,))
+
+ con il quale è nominato il commissario, che può avvalersi anche di società a controllo o a partecipazione pubblica operante nei medesimi settori e senza pregiudizio della disciplina in tema di concorrenza, e sono altresì stabiliti termini e modalità della procedura. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 6. In caso di grave ed imminente pericolo di pregiudizio all'interesse nazionale alla sicurezza nell'approvvigionamento energetico, l'ammissione alla procedura di amministrazione temporanea 
+ ((di cui al comma 4))
+
+ può essere disposta con decreto del Ministro delle imprese e del made in Italy, del Ministro dell'economia e delle finanze e del Ministro dell'ambiente e della sicurezza energetica anche indipendentemente dalla istanza di cui al comma 3. 
+ ((Con il medesimo decreto è nominato il commissario, che può avvalersi anche di società a controllo o a partecipazione pubblica operanti nei medesimi settori, senza pregiudizio della disciplina in tema di concorrenza, e sono altresì stabiliti termini e modalità della procedura))
+
+ .
