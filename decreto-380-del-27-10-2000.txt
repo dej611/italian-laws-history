@@ -155,21 +155,23 @@ IL MINISTRO DELLA SANITà
  
  
  
+ ((
+ 
+
  
  1. La scheda di dimissione ospedaliera si compone delle seguenti sezioni: 
  
 
- 
- 
-
- 
- a) la sezione prima, che contiene le informazioni anagrafiche di seguito riportate: 
+ A. la sezione prima, che contiene le informazioni anagrafiche di seguito riportate: 
  
 
- 1) denominazione dell'ospedale di ricovero; 
+ 1) codice istituto di cura; 
  
 
- 2) numero della scheda; 
+ 2) numero progressivo della scheda SDO; 
+ 
+
+ 2-bis) numero progressivo scheda SDO della puerpera; 
  
 
  3) cognome e nome del paziente; 
@@ -184,10 +186,7 @@ IL MINISTRO DELLA SANITà
  6) comune di nascita; 
  
 
- 
- ((6-bis) livello di istruzione))
-
- ; 
+ 6-bis) livello di istruzione; 
  
 
  7) stato civile; 
@@ -199,44 +198,37 @@ IL MINISTRO DELLA SANITà
  9) cittadinanza; 
  
 
- 10) codice sanitario individuale; 
+ 10) codice identificativo del paziente; 
  
 
  11) regione di residenza; 
  
 
- 12) azienda unità sanitaria locale di residenza; 
+ 12) ASL di residenza; 
  
 
- 
- 
-
- 
- b) la sezione seconda, che contiene almeno le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione dell'elenco di cui alla precedente lettera a): 
+ B. la sezione seconda, che contiene le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione dell'elenco di cui alla precedente lettera A): 
  
 
- 1) denominazione dell'ospedale di ricovero; 
+ 1) codice istituto di cura; 
  
 
- 2) numero della scheda; 
+ 2) numero progressivo della scheda SDO; 
  
 
  13) regime di ricovero; 
  
 
- 
- ((13-bis) data di prenotazione))
-
- ; 
+ 13-bis) data di prenotazione; 
  
 
- 
- ((13-ter) classe di priorità))
-
- ; 
+ 13-ter) classe di priorità; 
  
 
  14) data di ricovero; 
+ 
+
+ 14-bis) ora di ricovero; 
  
 
  15) unità operativa di ammissione; 
@@ -254,19 +246,25 @@ IL MINISTRO DELLA SANITà
  19) traumatismi o intossicazioni; 
  
 
- 
- ((19-bis) codice causa esterna))
-
- ; 
+ 19-bis) codice causa esterna; 
  
 
  20) trasferimenti interni; 
+ 
+
+ 20-bis) trasferimenti esterni; 
+ 
+
+ 20-ter) unità operativa trasferimento esterno; 
  
 
  21) unità operativa di dimissione; 
  
 
  22) data di dimissione o morte; 
+ 
+
+ 22-bis) ora di dimissione o morte; 
  
 
  23) modalità di dimissione; 
@@ -287,18 +285,74 @@ IL MINISTRO DELLA SANITà
  28) diagnosi principale di dimissione; 
  
 
- 29) diagnosi secondarie; 
+ 28-bis) diagnosi principale di dimissione presente al ricovero; 
  
 
- 30) intervento chirurgico principale o parto; 
+ 29) diagnosi secondarie di dimissione; 
  
 
- 31) altri interventi chirurgici e procedure diagnostiche o terapeutiche. 
+ 29-bis) diagnosi secondarie presenti al ricovero; 
+ 
+
+ 30) intervento principale; 
+ 
+
+ 30-bis) intervento principale esterno; 
+ 
+
+ 30-ter) data intervento principale; 
+ 
+
+ 30-quater) ora inizio intervento principale; 
+ 
+
+ 30-quinquies) identificativo chirurgo intervento principale; 
+ 
+
+ 30-sexies) identificativo anestesista intervento principale; 
+ 
+
+ 30-septies) check list sala operatoria intervento principale; 
+ 
+
+ 31) interventi secondari; 
+ 
+
+ 31-bis) interventi secondari esterni; 
+ 
+
+ 32) data intervento secondario; 
+ 
+
+ 33) ora inizio intervento secondario; 
+ 
+
+ 34) identificativo chirurgo intervento secondario; 
+ 
+
+ 35) identificativo anestesista intervento secondario; 
+ 
+
+ 36) check list sala operatoria intervento secondario; 
+ 
+
+ 37) rilevazione del dolore; 
+ 
+
+ 38) stadiazione condensata; 
+ 
+
+ 39) pressione arteriosa sistolica; 
+ 
+
+ 40) creatinina serica; 
+ 
+
+ 41) frazione eiezione.
  
 
  
- 
-
+ ))
  
 
  

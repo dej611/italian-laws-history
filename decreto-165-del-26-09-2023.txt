@@ -1,0 +1,594 @@
+IL MINISTRO DELLA SALUTE
+
+ 
+ 
+ 
+ Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 23 dicembre 1978, n. 833 recante &laquo;Istituzione del servizio sanitario nazionale&raquo; e, in particolare, l'articolo 58;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 4 marzo 2014, n. 38, recante &laquo;Attuazione della direttiva 2011/24/UE concernente l'applicazione dei diritti dei pazienti relativi all'assistenza sanitaria transfrontaliera, nonchè della direttiva 2012/52/UE, comportante misure destinate ad agevolare il riconoscimento delle ricette mediche emesse in un altro Stato membro&raquo; e, in particolare, l'articolo 11, comma 4;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della sanità 28 dicembre 1991, pubblicato nella Gazzetta Ufficiale 17 gennaio 1992, n. 13, recante &laquo;Istituzione della scheda di dimissione ospedaliera&raquo;, con il quale è stata istituita, ai sensi dell'articolo 58 della legge 23 dicembre 1978, n. 833, la scheda di dimissione ospedaliera, quale strumento ordinario per la raccolta delle informazioni relative ad ogni paziente dimesso dagli istituti di ricovero pubblici e privati esistenti sul territorio nazionale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della sanità 26 luglio 1993, pubblicato nella Gazzetta Ufficiale 3 agosto 1993, n. 180, recante &laquo;Disciplina del flusso informativo sui dimessi dagli istituti di ricovero pubblici e privati&raquo;, che ha attivato il flusso informativo delle schede di dimissione ospedaliera quale rilevazione sistematica delle informazioni anagrafico-amministrative e sanitarie relative a tutti i dimessi dagli istituti di cura pubblici e privati e ha disciplinato i tempi e le modalità di trasmissione delle informazioni dalle regioni e province autonome al Ministero della salute;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della sanità 27 ottobre 2000, n. 380, recante &laquo;Regolamento recante norme concernenti l'aggiornamento della disciplina del flusso informativo sui dimessi dagli istituti di ricovero pubblici e privati&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della salute 14 giugno 2002, pubblicato nella sezione normativa del sito istituzionale del Ministero della salute, con cui è stata istituita la Cabina di Regia per lo sviluppo del Nuovo Sistema Informativo Sanitario nazionale (NSIS);
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della salute 8 luglio 2010, n. 135, recante &laquo;Regolamento recante integrazione delle informazioni relative alla scheda di dimissione ospedaliera, regolata dal decreto ministeriale 27 ottobre 2000, n. 380&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della salute 7 dicembre 2016, n. 261 recante &laquo;Regolamento recante modifiche ed integrazioni del decreto 27 ottobre 2000, n. 380 e successive modificazioni, concernente la scheda di dimissione ospedaliera&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Ministro della salute 5 agosto 2021, recante &laquo;Criteri di appropriatezza dell'accesso ai ricoveri di riabilitazione ospedaliera&raquo;, pubblicato nella sezione normativa del sito istituzionale del Ministro della salute, oggetto dell'Intesa sancita dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano nella seduta del 4 agosto 2021 e, in particolare, l'articolo 2, commi 8, 9 e 10 per quanto specificamente indicato in relazione alle scale di valutazione della disabilità e della complessità assistenziale da utilizzare nel caso di ricovero di tipo riabilitativo nelle tre discipline ospedaliere Unità Spinale (Codice 28), Recupero e Riabilitazione Funzionale (Codice 56) e Neuroriabilitazione (codice 75);
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto l'Accordo quadro sancito, ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, nella seduta del 22 febbraio 2001, dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano, tra il Ministro della sanità, le regioni e le Province autonome di Trento e Bolzano, per lo sviluppo del Nuovo sistema informativo sanitario nazionale;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista l'Intesa, ai sensi dell'articolo 8, comma 6, della legge 5 giugno 2003, n. 131, in attuazione dell'articolo 1, comma 173, della legge 30 dicembre 2004, n. 311, sancita dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano nella seduta del 23 marzo 2005 e, in particolare, l'articolo 3, comma 5, il quale dispone che la definizione ed il continuo adeguamento nel tempo dei contenuti informativi e delle modalità di alimentazione del Nuovo sistema informativo sanitario sono affidati alla Cabina di regia e vengono recepiti dal Ministero della salute con propri decreti attuativi, compresi i flussi informativi finalizzati alla verifica degli standard qualitativi e quantitativi dei livelli essenziali di assistenza;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il verbale della riunione del 18 ottobre 2021 del Gruppo Tecnico previsto dall'articolo 6 del Ministro della salute 5 agosto 2021, recante &laquo;Criteri di appropriatezza dell'accesso ai ricoveri di riabilitazione ospedaliera&raquo; che nell'ambito del mandato ricevuto ha definito le scale funzionali di disabilità e complessità assistenziale più adatte a definire il fabbisogno riabilitativo del paziente ricoverato in codice 75 e 28;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la nota prot. n. MDS-DGSISS-6922 del 3 marzo 2022 del Presidente della Cabina di Regia per lo sviluppo del Nuovo sistema informativo sanitario, con la quale, in esito alla seduta del 10 febbraio 2022, si comunica il parere positivo in merito allo schema di decreto proposto concernente l'aggiornamento della scheda di dimissione ospedaliera (SDO) con l'integrazione dei campi relativi alle scale di valutazione della disabilità e della complessità assistenziale da utilizzare nel caso di ricovero di tipo riabilitativo;
+
+ 
+ 
+ 
+
+ 
+ Considerata l'esigenza di adeguare il contenuto informativo della SDO dei ricoveri riabilitativi allo scopo di fornire una migliore descrizione del ricovero riabilitativo e di rappresentarne il prodotto assistenziale anche in termini di esito;
+
+ 
+
+ 
+ 
+ 
+ Ritenuto, quindi, di dover aggiornare il contenuto informativo della scheda di dimissione ospedaliera, il relativo flusso e le relative regole di compilazione e codifica di cui al citato decreto del Ministro della sanità n. 380 del 2000, per finalità di programmazione e monitoraggio dei livelli essenziali di assistenza;
+
+ 
+ 
+ 
+
+ 
+ Acquisito il parere del Garante per la protezione dei dati personali, reso in data 28 aprile 2022 (Registro dei provvedimenti n. 141 del 28 aprile 2022) ai sensi degli articoli 36, paragrafo 4, e 58, paragrafo 3, lettera b), del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE;
+
+ 
+
+ 
+ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano nella seduta del 27 luglio 2022;
+
+ 
+
+ 
+ Uditi i pareri del Consiglio di Stato, espressi dalla sezione consultiva per gli atti normativi nelle sedute del 24 gennaio 2023 e del 29 agosto 2023;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione al Presidente del Consiglio dei ministri ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, effettuata in data 6 settembre 2023;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la nota prot. n. 8385 del 18 settembre 2023 con la quale il Dipartimento per gli affari giuridici e legislativi della Presidenza del Consiglio dei ministri ha preso atto della comunicazione effettuata;
+
+ 
+ 
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ 
+ Integrazione e aggiornamento delle informazioni 
+ 
+
+ contenute nella scheda di dimissione ospedaliera
+ 
+
+ 
+ 
+ 1. All'articolo 1, comma 1, dopo la lettera B., del decreto del Ministro della sanità 27 ottobre 2000, n. 380 è inserita la seguente: 
+ 
+
+ &laquo;B-bis. la sezione terza, che contiene le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione degli elenchi di cui alle precedenti lettere A) e B): 
+ 
+
+ 1) codice istituto di cura; 
+ 
+
+ 2) numero progressivo della scheda SDO; 
+ 
+
+ 42) Scala di Rankin (solo strutture codd. 28, 56, 75); 
+ 
+
+ 43) Scala di Barthel (BI) (solo strutture codd. 28, 56, 75); 
+ 
+
+ 44) Scala di Barthel dispnea (BI-D) (solo strutture cod. 56); 
+ 
+
+ 45) Scala Six-Minute Walk Test (6MWT) (solo strutture cod. 56); 
+ 
+
+ 46) Scala Glasgow Coma Scale (GCS) (solo strutture cod. 75); 
+ 
+
+ 47) Scala Glasgow Outcome Scale Extended (GOSE) (solo strutture cod. 75); 
+ 
+
+ 48) Scala Level Cognitive Functioning (LCF) (solo strutture cod. 75); 
+ 
+
+ 49) ASIA Impairment Scale: livello di lesione e grado di completezza (solo strutture cod. 28); 
+ 
+
+ 50) Scala Spinal Cord Independency Measure (SCIM) (solo strutture cod. 28); 
+ 
+
+ 51) Rehabilitation Complexity Scale extended (RCS-e) (solo strutture codd. 28, 56, 75).&raquo;. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'Amministrazione competente per materia, ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUUE). 
+ 
+
+ Note alle premesse: 
+ 
+
+ - Si riporta il comma 3 dell'articolo 17 della legge 23 agosto 1988, n. 400, e successive modificazioni recante &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri&raquo;: 
+ 
+
+ &laquo;3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 58 della legge 23 dicembre 1978, n. 833 recante: &laquo;Istituzione del servizio sanitario nazionale&raquo;: 
+ 
+
+ &laquo;Art. 58 (Servizio epidemiologico e statistico) - Nel piano sanitario nazionale di cui all'articolo 53 sono previsti specifici programmi di attività per la rilevazione e la gestione delle informazioni epidemiologiche, statistiche e finanziarie occorrenti per la programmazione sanitaria nazionale e regionale e per la gestione dei servizi sanitari. 
+ 
+
+ I programmi di attività, per quanto attiene alle competenze attribuitegli dal precedente articolo 27, sono attuati dall'Istituto superiore di sanità. 
+ 
+
+ Le regioni, nell'ambito dei programmi di cui al primo comma, provvedono ai servizi di informatica che devono essere organizzati tenendo conto delle articolazioni del servizio sanitario nazionale. 
+ 
+
+ Con decreto del Ministro della sanità, sentito il Consiglio sanitario nazionale, sono dettate norme per i criteri in ordine alla scelta dei campioni di rilevazione e per la standardizzazione e comparazione dei dati sul piano nazionale e regionale.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 11 del decreto legislativo 4 marzo 2014, n. 38, recante: &laquo;Attuazione della direttiva 2011/24/UE concernente l'applicazione dei diritti dei pazienti relativi all'assistenza sanitaria transfrontaliera, nonchè della direttiva 2012/52/UE, comportante misure destinate ad agevolare il riconoscimento delle ricette mediche emesse in un altro Stato membro&raquo;: 
+ 
+
+ &laquo;Art. 11 (Mutua assistenza e cooperazione). - 1.
+ 
+
+ L'Italia si impegna a prestare mutua assistenza agli Stati membri dell'Unione europea compresa la cooperazione in merito agli standard e agli orientamenti di qualità e sicurezza e lo scambio di informazioni, soprattutto attraverso il Punto di Contatto Nazionale ai sensi dell'articolo 7 del presente decreto, nonchè in merito alle disposizioni sulla vigilanza e la mutua assistenza per chiarire il contenuto delle fatture. 
+ 
+
+ 2. L'Italia si impegna a facilitare la cooperazione nella erogazione di assistenza sanitaria transfrontaliera a livello regionale e locale nonchè mediante l'impiego delle tecnologie dell'informazione e della comunicazione (TIC) e di altre forme di cooperazione transfrontaliera. 
+ 
+
+ 3. L'Italia si impegna affinchè le informazioni sul diritto di esercizio della professione da parte dei prestatori sanitari iscritti nei registri nazionali o locali stabiliti nel territorio nazionale siano, su richiesta, messe a disposizione delle autorità degli altri Stati membri dell'Unione europea, a fini dell'assistenza sanitaria transfrontaliera, in conformità ai capi II e III e alle misure nazionali che attuano le disposizioni dell'Unione europea sulla protezione dei dati personali, in particolare le direttive 95/46/CE e 2002/58/CE, e il principio di presunzione di innocenza. Lo scambio di informazioni avviene attraverso il sistema di informazione del mercato interno, istituito ai sensi della decisione della Commissione europea 2008/49/CE, del 12 dicembre 2007, relativa alla protezione dei dati personali nell'ambito del sistema di informazione del mercato interno (IMI). 
+ 
+
+ 4. Al fine di dare piena attuazione al principio di mutua assistenza e cooperazione tra Stati in materia di assistenza sanitaria transfrontaliera e alle disposizioni di cui agli articoli 4, 5 e 9, comma 6, lettera c), del presente decreto, il Ministero della salute, in osservanza dell'articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, e attraverso la revisione del flusso informativo relativo alle schede di dimissione ospedaliera (SDO), promuove un sistema di monitoraggio delle attività e delle reti assistenziali che permetta la rilevazione degli standard di qualità e di sicurezza della rete ospedaliera e dei volumi e degli esiti delle cure erogate dai prestatori di assistenza sanitaria, persone giuridiche e/o persone fisiche, affinchè questi siano conformi agli standard e agli orientamenti di qualità e di sicurezza definiti dalla legislazione vigente e dalla normativa dell'Unione europea.&raquo;. 
+ 
+
+ - Il decreto del Ministro della sanità 26 luglio 1993, n. 180, reca: &laquo;Disciplina del flusso informativo sui dimessi dagli istituti di ricovero pubblici e privati&raquo;. 
+ 
+
+ - Il decreto del Ministro della sanità 27 ottobre 2000, n. 380, reca: &laquo;Regolamento recante norme concernenti l'aggiornamento della disciplina del flusso informativo sui dimessi dagli istituti di ricovero pubblici e privati&raquo;. 
+ 
+
+ - Il decreto del Ministro della salute 8 luglio 2010, n. 135, reca: &laquo;Regolamento recante integrazione delle informazioni relative alla scheda di dimissione ospedaliera, regolata dal decreto ministeriale 27 ottobre 2000, n. 380&raquo;. 
+ 
+
+ - Il decreto del Ministro della salute 7 dicembre 2016, n. 261 reca: &laquo;Regolamento recante modifiche ed integrazioni del decreto 27 ottobre 2000, n. 380 e successive modificazioni, concernente la scheda di dimissione ospedaliera&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, recante: &laquo;Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-città ed autonomie locali.&raquo;: 
+ 
+
+ &laquo;Art. 4 (Accordi tra Governo, regioni e province autonome di Trento e Bolzano). - 1. Governo, regioni e province autonome di Trento e di Bolzano, in attuazione del principio di leale collaborazione e nel perseguimento di obiettivi di funzionalità, economicità ed efficacia dell'azione amministrativa, possono concludere in sede di Conferenza Stato-regioni accordi, al fine di coordinare l'esercizio delle rispettive competenze e svolgere attività di interesse comune. 
+ 
+
+ 2. Gli accordi si perfezionano con l'espressione dell'assenso del Governo e dei Presidenti delle regioni e delle province autonome di Trento e di Bolzano.&raquo;. 
+ 
+
+ - Si riporta il comma 6 dell'articolo 8 della legge 5 giugno 2003, n. 131 recante: &laquo;Disposizioni per l'adeguamento dell'ordinamento della Repubblica alla Legge Costituzionale 18 ottobre 2001, n. 3&raquo;: 
+ 
+
+ &laquo;6. Il Governo può promuovere la stipula di intese in sede di Conferenza Stato-Regioni o di Conferenza unificata, dirette a favorire l'armonizzazione delle rispettive legislazioni o il raggiungimento di posizioni unitarie o il conseguimento di obiettivi comuni; in tale caso è esclusa l'applicazione dei commi 3 e 4 dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281. Nelle materie di cui all'articolo 117, terzo e quarto comma, della Costituzione non possono essere adottati gli atti di indirizzo e di coordinamento di cui all'articolo 8 della legge 15 marzo 1997, n. 59, e all'articolo 4 del decreto legislativo 31 marzo 1998, n. 112.&raquo;. 
+ 
+
+ - Si riporta il comma 173 dell'articolo 1 della legge 30 dicembre 2004, n. 311, recante: &laquo;Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2005)&raquo;: 
+ 
+
+ &laquo;173. L'accesso al finanziamento integrativo a carico dello Stato derivante da quanto disposto al comma 164, rispetto al livello di cui all'accordo Stato-regioni dell'8 agosto 2001, pubblicato nella Gazzetta Ufficiale n. 208 del 7 settembre 2001, per l'anno 2004, rivalutato del 2 per cento su base annua a decorrere dal 2005, è subordinato alla stipula di una specifica intesa tra Stato e regioni ai sensi dell'articolo 8, comma 6, della legge 5 giugno 2003, n. 131, che contempli ai fini del contenimento della dinamica dei costi: 
+ 
+
+ a) gli adempimenti già previsti dalla vigente legislazione; 
+ 
+
+ b) i casi nei quali debbano essere previste modalità di affiancamento dei rappresentanti dei Ministeri della salute e dell'economia e delle finanze ai fini di una migliore definizione delle misure da adottare; 
+ 
+
+ c) ulteriori adempimenti per migliorare il monitoraggio della spesa sanitaria nell'ambito del Nuovo sistema informativo sanitario; 
+ 
+
+ d) il rispetto degli obblighi di programmazione a livello regionale, al fine di garantire l'effettività del processo di razionalizzazione delle reti strutturali dell'offerta ospedaliera e della domanda ospedaliera, con particolare riguardo al riequilibrio dell'offerta di posti letto per acuti e per lungodegenza e riabilitazione, alla promozione del passaggio dal ricovero ordinario al ricovero diurno, nonchè alla realizzazione degli interventi previsti dal Piano nazionale della prevenzione e dal Piano nazionale dell'aggiornamento del personale sanitario, coerentemente con il Piano sanitario nazionale; 
+ 
+
+ e) il vincolo di crescita delle voci dei costi di produzione, con esclusione di quelli per il personale cui si applica la specifica normativa di settore, secondo modalità che garantiscano che, complessivamente, la loro crescita non sia superiore, a decorrere dal 2005, al 2 per cento annuo rispetto ai dati previsionali indicati nel bilancio dell'anno precedente, al netto di eventuali costi di personale di competenza di precedenti esercizi; 
+ 
+
+ f) in ogni caso, l'obbligo in capo alle regioni di garantire in sede di programmazione regionale, coerentemente con gli obiettivi sull'indebitamento netto delle amministrazioni pubbliche, l'equilibrio economico-finanziario delle proprie aziende sanitarie, aziende ospedaliere, aziende ospedaliere universitarie ed Istituti di ricovero e cura a carattere scientifico sia in sede di preventivo annuale che di conto consuntivo, realizzando forme di verifica trimestrale della coerenza degli andamenti con gli obiettivi dell'indebitamento netto delle amministrazioni pubbliche e prevedendo l'obbligatorietà dell'adozione di misure per la riconduzione in equilibrio della gestione ove si prospettassero situazioni di squilibrio, nonchè l'ipotesi di decadenza del direttore generale.&raquo;. 
+ 
+
+ - Il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) è pubblicato nella GUUE del 4.5.2016 n. L 119. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo dell'articolo 1 del citato decreto Ministro della sanità 27 ottobre 2000, n. 380, come modificato dal presente regolamento: 
+ 
+
+ &laquo;Art. 1. - 1. La scheda di dimissione ospedaliera si compone delle seguenti sezioni: 
+ 
+
+ A. la sezione prima, che contiene le informazioni anagrafiche di seguito riportate: 
+ 
+
+ 1) codice istituto di cura; 
+ 
+
+ 2) numero progressivo della scheda SDO; 
+ 
+
+ 2-bis) numero progressivo scheda SDO della puerpera; 
+ 
+
+ 3) cognome e nome del paziente; 
+ 
+
+ 4) sesso; 
+ 
+
+ 5) data di nascita; 
+ 
+
+ 6) comune di nascita; 
+ 
+
+ 6-bis) livello di istruzione; 
+ 
+
+ 7) stato civile; 
+ 
+
+ 8) comune di residenza; 
+ 
+
+ 9) cittadinanza; 
+ 
+
+ 10) codice identificativo del paziente; 
+ 
+
+ 11) regione di residenza; 
+ 
+
+ 12) ASL di residenza; 
+ 
+
+ B. la sezione seconda, che contiene le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione dell'elenco di cui alla precedente lettera A): 
+ 
+
+ 1) codice istituto di cura; 
+ 
+
+ 2) numero progressivo della scheda SDO; 
+ 
+
+ 13) regime di ricovero; 
+ 
+
+ 13-bis) data di prenotazione; 
+ 
+
+ 13-ter) classe di priorità; 
+ 
+
+ 14) data di ricovero; 
+ 
+
+ 14-bis) ora di ricovero; 
+ 
+
+ 15) unità operativa di ammissione; 
+ 
+
+ 16) onere della degenza; 
+ 
+
+ 17) provenienza del paziente; 
+ 
+
+ 18) tipo di ricovero; 
+ 
+
+ 19) traumatismi o intossicazioni; 
+ 
+
+ 19-bis) codice causa esterna; 
+ 
+
+ 20) trasferimenti interni; 
+ 
+
+ 20-bis) trasferimenti esterni; 
+ 
+
+ 20-ter) unità operativa trasferimento esterno; 
+ 
+
+ 21) unità operativa di dimissione; 
+ 
+
+ 22) data di dimissione o morte; 
+ 
+
+ 22-bis) ora di dimissione o morte; 
+ 
+
+ 23) modalità di dimissione; 
+ 
+
+ 24) riscontro autoptico; 
+ 
+
+ 25) motivo del ricovero in regime diurno; 
+ 
+
+ 26) numero di giornate di presenza in ricovero diurno; 
+ 
+
+ 27) peso alla nascita; 
+ 
+
+ 28) diagnosi principale di dimissione; 
+ 
+
+ 28-bis) diagnosi principale di dimissione presente al ricovero; 
+ 
+
+ 29) diagnosi secondarie di dimissione; 
+ 
+
+ 29-bis) diagnosi secondarie presenti al ricovero; 
+ 
+
+ 30) intervento principale; 
+ 
+
+ 30-bis) intervento principale esterno; 
+ 
+
+ 30-ter) data intervento principale; 
+ 
+
+ 30-quater) ora inizio intervento principale; 
+ 
+
+ 30-quinquies) identificativo chirurgo intervento principale; 
+ 
+
+ 30-sexies) identificativo anestesista intervento principale; 
+ 
+
+ 30-septies) check list sala operatoria intervento principale; 
+ 
+
+ 31) interventi secondari; 
+ 
+
+ 31-bis) interventi secondari esterni; 
+ 
+
+ 32) data intervento secondario; 
+ 
+
+ 33) ora inizio intervento secondario; 
+ 
+
+ 34) identificativo chirurgo intervento secondario; 
+ 
+
+ 35) identificativo anestesista intervento secondario; 
+ 
+
+ 36) check list sala operatoria intervento secondario; 
+ 
+
+ 37) rilevazione del dolore; 
+ 
+
+ 38) stadiazione condensata; 
+ 
+
+ 39) pressione arteriosa sistolica; 
+ 
+
+ 40) creatinina serica; 
+ 
+
+ 41) frazione eiezione; 
+ 
+
+ B-bis. la sezione terza, che contiene le informazioni del seguente elenco, la cui numerazione riprende e prosegue la numerazione degli elenchi di cui alle precedenti lettere A) e B): 
+ 
+
+ 1) codice istituto di cura; 
+ 
+
+ 2) numero progressivo della scheda SDO; 
+ 
+
+ 42) Scala di Rankin (solo strutture codd. 28, 56, 75); 
+ 
+
+ 43) Scala di Barthel (BI) (solo strutture codd. 28, 56, 75); 
+ 
+
+ 44) Scala di Barthel dispnea (BI-D) (solo strutture cod. 56); 
+ 
+
+ 45) Scala Six-Minute Walk Test (6MWT) (solo strutture cod. 56); 
+ 
+
+ 46) Scala Glasgow Coma Scale (GCS) (solo strutture cod. 75); 
+ 
+
+ 47) Scala Glasgow Outcome Scale Extended (GOSE) (solo strutture cod. 75); 
+ 
+
+ 48) Scala Level Cognitive Functioning (LCF) (solo strutture cod. 75); 
+ 
+
+ 49) ASIA Impairment Scale: livello di lesione e grado di completezza (solo strutture cod. 28); 
+ 
+
+ 50) Scala Spinal Cord Independency Measure (SCIM) (solo strutture cod. 28); 
+ 
+
+ 51) Rehabilitation Complexity Scale extended (RCS-e) (solo strutture codd. 28, 56, 75). 
+ 
+
+ 2. Le regioni e le province autonome possono prevedere ulteriori informazioni da rilevare attraverso la scheda di dimissione ospedaliera, fermo restando il contenuto informativo minimo di cui al comma 1.&raquo;.

@@ -1,0 +1,467 @@
+Allegato A 
+ 
+
+ (articolo 3, comma 1) 
+ 
+
+ 
+ 
+
+ MODIFICAZIONI E INTEGRAZIONI AL DISCIPLINARE TECNICO 
+ 
+
+ ALLEGATO AL DECRETO DEL MINISTRO DELLA SALUTE 27 OTTOBRE 2000, N. 380 
+ 
+
+ 
+ 
+
+ - il punto 6. fino al paragrafo 6.1 incluso, è sostituito dal 
+ 
+
+ seguente: 
+ 
+
+ 
+ 
+
+ "6. Le informazioni 
+ 
+
+ 
+ 
+
+ Le regioni e le province autonome inviano i dati di cui all'articolo 3, comma 3, esclusivamente in modalità elettronica in tre tracciati distinti, di seguito indicati: 
+ 
+
+ TRACCIATO A - che contiene le informazioni di carattere anagrafico; 
+ 
+
+ TRACCIATO B - che contiene le informazioni relative al ricovero; 
+ 
+
+ TRACCIATO C - che contiene le informazioni relative al ricovero di 
+ 
+
+ riabilitazione. 
+ 
+
+ I dati anagrafici, sanitari e di riabilitazione laddove presenti sono, quindi, archiviati separatamente e i dati sanitari sono trattati con tecniche crittografiche. Le informazioni di dettaglio contenute nei tre tracciati sono indicate nelle tabelle di cui alla successiva sezione 6.1. 
+ 
+
+ Si rimanda al documento di specifiche tecniche per il dettaglio delle regole che disciplinano i tracciati record, indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati 
+ 
+
+ trasmessi. 
+ 
+
+ I valori di riferimento da utilizzare nella predisposizione dei file XML sono contenuti nel documento di specifiche tecniche pubblicate sul sito Internet del Ministero all'indirizzo 
+ 
+
+ 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12 
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto. 
+ 
+
+ 
+ 
+
+ 6.1 Contenuti informativi dei tracciati 
+ 
+
+ 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione di carattere anagrafico prevista dal presente decreto (articolo 1, comma 1, lettera A) la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche funzionali pubblicate sul sito Internet del Ministero all'indirizzo 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12 
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto 
+ 
+
+ 
+ 
+
+ TRACCIATO A 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ N.PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 Codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica 
+ 
+
+ 
+ 2 bis Numero progressivo scheda SDO della puerpera Questo campo va compilato solo nel caso si tratti della SDO di un neonato relativa all'evento della sua nascita. Compilare con il numero progressivo della scheda SDO della madre relativa al parto. 
+ 
+
+ 
+ 4 Sesso Sesso del paziente 
+ 
+
+ 
+ 5 Data di nascita Data di nascita del paziente 
+ 
+
+ 
+ 6 Comune di nascita Comune di nascita del paziente o, nel caso di paziente nato all'estero, Stato estero di nascita. 
+ 
+
+ 
+ 6 bis Livello di Istruzione Titolo di studio del paziente al momento del ricovero. 
+ 
+
+ 
+ 7 Stato civile Stato civile del paziente al momento del ricovero 
+ 
+
+ 
+ 8 Comune di residenza Comune nella cui anagrafe (Anagrafe della Popolazione Residente) è iscritto il paziente o, nel caso di paziente residente all'estero, Stato estero di residenza, al momento del ricovero. 
+ 
+
+ 
+ 9 Cittadinanza Cittadinanza del paziente al momento del ricovero 
+ 
+
+ 
+ 10 Codice identificativo del paziente Codice identificativo del paziente al momento del ricovero. Nelle more dell'applicazione delle procedure di cui all'articolo 6, comma 1 del presente decreto, le regioni sostituiscono al codice identificativo del paziente un codice cifrato ottenuto applicando al medesimo codice identificativo un algoritmo asimmetrico, a chiave pubblica nota, definito dalla Direzione generale della digitalizzazione, del sistema informativo sanitario e della statistica del Ministero della salute, secondo quanto indicato nel documento di specifiche funzionali 
+ 
+
+ 
+ 10-bis Presenza del codice identificativo dell'assistito nella banca dati di verifica validità Informazione relativa alla presenza del codice identificativo dell'assistito nella banca dati di verifica (sistema Tessera Sanitaria, nelle more dell'attivazione dell'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD). Previsto per utilizzo futuro, all'applicazione delle procedure di cui all'articolo 6, comma 1 del decreto 
+ 
+
+ 
+ 10-ter Tipologia del codice identificativo dell'assistito nella banca dati di verifica validità Informazione relativa alla tipologia del codice identificativo dell'assistito nella banca dati di verifica (sistema Tessera Sanitaria, nelle more dell'attivazione dell'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD). Previsto per utilizzo futuro, all'applicazione delle procedure di cui all'articolo 6, comma 1 del decreto 
+ 
+
+ 
+ 11 Regione di residenza La regione cui appartiene il comune in cui risiede il paziente al momento del ricovero. 
+ 
+
+ 
+ 12 ASL di residenza ASL che comprende il comune, o la frazione di comune in cui risiede l'assistito al momento del ricovero. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione relativa al ricovero, prevista dal presente decreto (articolo 1, comma 1, lettera B), la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche funzionali pubblicate sul sito Internet del Ministero all'indirizzo https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto 
+ 
+
+ 
+ 
+
+ TRACCIATO B 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ N.PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 Codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica 
+ 
+
+ 
+ 13 Regime di ricovero Il regime di ricovero distingue tra il "ricovero ordinario" ed il "ricovero diurno"; il "ricovero diurno" si caratterizza per la presenza di tutte le seguenti condizioni: • si tratta di ricovero, o ciclo di ricoveri, programmato; • è limitato ad una sola parte della giornata e non ricopre, quindi, l'intero arco delle 24 ore dal momento del ricovero e non prevede il pernottamento del paziente; • fornisce prestazioni multiprofessionali e/o plurispecialistiche, che per la loro intrinseca complessità o invasività o per il correlato rischio per il paziente non possono essere eseguite in ambiente ambulatoriale. 
+ 
+
+ 
+ 13 bis Data di prenotazione La data di prenotazione esprime la data in cui la richiesta di ricovero programmato è pervenuta all'operatore addetto alla prenotazione con conseguente iscrizione del paziente nella lista di attesa. Tale data deve corrispondere a quella riportata nei registri di ricovero, ex art. 3 comma 8 della Legge 724/94. 
+ 
+
+ 
+ 13 ter Classe di priorità Classe di priorità del ricovero programmato, come definita nell'Accordo Stato-Regioni 11 luglio 2002 
+ 
+
+ 
+ 14 Data di ricovero Data di ricovero nell'istituto di cura. 
+ 
+
+ 
+ 14 bis Ora di ricovero Ora di accettazione nel reparto di ammissione; si intende l'ora in cui viene assegnato il letto al paziente. 
+ 
+
+ 
+ 15 Unità operativa di ammissione L'unità operativa di ammissione individua l'unità operativa presso la quale il paziente viene ricoverato all'accettazione, anche nel caso in cui l'assistenza medica sia prevalentemente a carico di altra unità operativa. 
+ 
+
+ 
+ 16 Onere della degenza Con l'onere della degenza si intende specificare il soggetto (o i soggetti) sul quale ricade l'onere di rimborsare le spese relative al ricovero. 
+ 
+
+ 
+ 17 Provenienza del paziente La provenienza del paziente individua l'istituzione da cui proviene il paziente o il medico che ha proposto il ricovero. 
+ 
+
+ 
+ 18 Tipo di ricovero Il tipo di ricovero, da indicare per tutti i ricoveri in regime ordinario individua i ricoveri programmati, distinguendoli dai ricoveri d'urgenza e dai ricoveri obbligatori (TSO) ai sensi degli articoli 33, 34, 35 e 64 della legge 23 dicembre 1978, n. 833. 
+ 
+
+ 
+ 19 Traumatismi o Intossicazioni Informazione che caratterizza la causa del ricovero, quando questo è causato da un trauma, da un incidente o da una intossicazione (presenza di diagnosi principale o secondaria cod. ICD-9-CM 800-904, 910-995). 
+ 
+
+ 
+ 19 bis Codice di Causa esterna Informazione che caratterizza la causa esterna del traumatismo o dell'intossicazione quando il ricovero è causato da un trauma, da un incidente o da una intossicazione (presenza di diagnosi principale o secondaria cod. ICD-9-CM 800-904, 910-995.89) 
+ 
+
+ 
+ 20 Trasferimenti interni La variabile descrive il percorso che il paziente ha seguito durante un singolo ricovero all'interno di un unico istituto di cura. Si ha un trasferimento interno quando il paziente viene trasferito da un posto letto assegnato a una disciplina e/o reparto al posto letto assegnato a una disciplina e/o reparto diversi all'interno dello stesso istituto di cura. La variabile, da riportare soltanto nei casi di ricovero in regime ordinario, comprende la data, l'ora del trasferimento e il codice dell'unità operativa presso cui è stato trasferito il paziente. 
+ 
+
+ 
+ 20bis Trasferimenti esterni La variabile descrive il percorso che il paziente ha seguito nel caso in cui un intervento chirurgico o procedura venga effettuato in modalità "in service" presso un istituto di cura esterno, ovvero diverso da quella in cui il paziente è ricoverato (quindi senza chiusura della SDO). La variabile, da riportare soltanto nei casi di ricovero in regime ordinario, comprende la data, l'ora del trasferimento e il codice dell'unità operativa presso cui è stato trasferito il paziente. 
+ 
+
+ 
+ 20 ter Unità operativa trasferimento esterno La variabile indica l'Unità operativa dell'Istituto di cura, presso cui durante un ricovero ordinario il paziente viene trasferito per essere sottoposto ad un intervento chirurgico o procedura in modalità "in service" (quindi senza chiusura della SDO). 
+ 
+
+ 
+ 21 Unità operativa di dimissione Indica l'unità operativa presso cui è ricoverato il paziente al momento della dimissione: il campo deve essere sempre compilato, anche nel caso in cui l'unità operativa coincida con l'unità operativa di ammissione o con quella relativa all'ultimo trasferimento interno. 
+ 
+
+ 
+ 22 Data di dimissione o morte Indica la data di dimissione o di decesso del paziente 
+ 
+
+ 
+ 22 bis Ora di dimissione o morte Indica l'ora riportata nella lettera di dimissione del soggetto ricoverato oppure l'ora del decesso. 
+ 
+
+ 
+ 23 Modalità di dimissione La modalità di dimissione individua la destinazione del paziente dopo essere stato dimesso dall'istituto di cura e quindi l'eventuale continuazione del percorso assistenziale in altre strutture. 
+ 
+
+ 
+ 24 Riscontro autoptico Individua i pazienti deceduti durante il ricovero per i quali è stata effettuata l'autopsia. 
+ 
+
+ 
+ 25 Motivo del ricovero in regime diurno Indica se il ricovero in regime diurno è effettuato a scopo diagnostico, chirurgico, terapeutico o riabilitativo. 
+ 
+
+ 
+ 26 Numero di giornate di presenza in ricovero diurno Indica il numero complessivo di giornate in cui il paziente ha avuto accessi presso l'istituto di cura nell'arco di uno stesso ciclo assistenziale in regime diurno 
+ 
+
+ 
+ 27 Peso alla nascita Indica il peso rilevato al momento della nascita e riportato nella scheda di dimissione relativa al ricovero in cui è avvenuta la nascita. 
+ 
+
+ 
+ 28 Diagnosi principale di dimissione La diagnosi principale di dimissione è la condizione, identificata alla fine del ricovero come la principale responsabile del bisogno di trattamento e/o di indagini diagnostiche. 
+ 
+
+ 
+ 28 bis Diagnosi principale di dimissione presente al ricovero Indica se la diagnosi principale rilevata alla dimissione era presente anche al momento del ricovero, oppure se è stata individuata attraverso l'anamnesi o diagnosticata successivamente all'ammissione, ma comunque preesistente nel paziente e non insorta durante il ricovero. 
+ 
+
+ 
+ 29 Diagnosi secondarie di dimissione Le diagnosi secondarie di dimissione sono quelle condizioni, diverse dalla diagnosi principale, che coesistono al momento del ricovero o che si sviluppano in seguito e che influenzano l'assistenza erogata al paziente in termini di: trattamento terapeutico, procedure diagnostiche eseguite, durata della degenza, assistenza infermieristica, monitoraggio clinico. Possono essere riportate al massimo cinque diagnosi secondarie 
+ 
+
+ 
+ 29 bis Diagnosi secondarie presenti al ricovero Indica se la diagnosi secondaria rilevata alla dimissione era presente anche al momento del ricovero, oppure se è stata individuata attraverso l'anamnesi o diagnosticata successivamente all'ammissione, ma comunque preesistente nel paziente e non insorta durante il ricovero. 
+ 
+
+ 
+ 30 Intervento principale L'intervento principale è una procedura effettuata nel corso del ricovero e individuata come quella maggiormente correlata alla diagnosi principale di dimissione e, comunque, quella che ha comportato il maggior peso assistenziale ed il maggior consumo di risorse (uso di sala operatoria, medico anestesista, equipe operatoria, ecc.) 
+ 
+
+ 
+ 30 bis Intervento principale esterno Indica se l'intervento principale è stato effettuato in modalità "in service" presso un istituto di cura diverso da quella in cui è ricoverato il paziente 
+ 
+
+ 
+ 30 ter Data intervento principale Indica la data in cui è stato eseguito l'intervento principale. 
+ 
+
+ 
+ 30 quater Ora inizio intervento principale Indica l'ora di inizio dell'intervento principale, intesa come il momento chirurgico che inizia con l'incisione (cosi come definito nella circolare del Ministero della Sanità n. 900.2 / 2.7 / 117 del 18/2/1997). 
+ 
+
+ 
+ 30 quinquies Identificativo Chirurgo intervento principale Individua il chirurgo responsabile dell'intervento principale. è possibile inserire fino a tre identificativi corrispondenti a tre chirurghi riportati nel registro operatorio. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 30 sexies Identificativo Anestesista intervento principale Individua l'anestesista dell'intervento principale. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 30 septies Check List Sala Operatoria intervento principale Indica se è stata compilata ed è presente in cartella clinica la check list per la sicurezza in sala operatoria, come previsto dall'intesa tra il Governo, le Regioni e le Provincie autonome nel documento recante "Disciplina per la revisione della normativa dell'accreditamento" del 20 dicembre 2012. 
+ 
+
+ 
+ 31 Interventi secondari Possono essere riportati al massimo cinque ulteriori procedure rispetto all'intervento principale, Quando nella cartella clinica sono indicate procedure in numero superiore ai sei previsti dal tracciato record della S.D.O., la scelta delle priorità delle segnalazioni è condotta secondo quanto stabilito nell'Accordo della Conferenza Stato-Regioni rep. atti 64/CSR del 29/06/2010. 
+ 
+
+ 
+ 31bis Interventi secondari esterni Indicare se l'ulteriore procedura rispetto all'intervento principale è stata effettuata in modalità "in service" presso un istituto di cura diverso da quello in cui è ricoverato il paziente. 
+ 
+
+ 
+ 32 Data intervento secondario Indica la data dell'intervento secondario per ogni campo di intervento compilato. 
+ 
+
+ 
+ 33 Ora inizio intervento secondario Indica l'ora di inizio dell'intervento secondario, intesa come il momento chirurgico che inizia con l'incisione (cosi come definito nella circolare del Ministero della Sanità n. 900.2 / 2.7 / 117 del 18/2/1997). 
+ 
+
+ 
+ 34 Identificativo Chirurgo intervento secondario Individua il chirurgo responsabile dell'intervento secondario. è possibile inserire fino a tre identificativi corrispondenti a tre chirurghi riportati nel registro operatorio. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 35 Identificativo Anestesista intervento secondario Individua l'anestesista dell'intervento secondario. Per le modalità di codifica si applicano le disposizioni di cui al paragrafo 6.2 del presente disciplinare tecnico. 
+ 
+
+ 
+ 36 Check List Sala Operatoria intervento secondario Indica se è stata compilata ed è presente in cartella clinica la check list per la sicurezza in sala operatoria, come previsto dall'intesa tra il Governo, le Regioni e le Provincie autonome nel documento recante "Disciplina per la revisione della normativa dell'accreditamento" del 20 dicembre 2012. 
+ 
+
+ 
+ 37 Rilevazione del dolore Indica se è stata effettuata almeno una rilevazione del dolore durante il ricovero, secondo quanto previsto dalla Legge n. 38 del 15 marzo 2010. 
+ 
+
+ 
+ 38 Stadiazione condensata Indica lo stadio della neoplasia maligna riportata come diagnosi di dimissione principale (codici ICD-9-CM 140.0-190.9 e 193-199.1). 
+ 
+
+ 
+ 39 Pressione arteriosa sistolica Indica il primo valore di pressione arteriosa sistolica in millimetri di mercurio (mmHg) riportato in cartella clinica in ordine temporale dopo l'ammissione in reparto o al momento dell'accesso a pronto soccorso per i pazienti ricoverati tramite pronto soccorso, con diagnosi di infarto acuto del miocardio (codice ICD9-CM 410.xx). 
+ 
+
+ 
+ 40 Creatinina serica Indica il valore di creatinina serica in milligrammi per decilitro (mg/dL) rilevato nei seguenti casi: 1) intervento chirurgico principale o secondario di by-pass aortocoronarico (codice ICD9-CM 36.1x) o sulle valvole cardiache (codice ICD9-CM 35.1x-35.2x); 2) diagnosi principale o secondaria di frattura del collo del femore (codice ICD9-CM 820.xx); 3) intervento chirurgico principale o secondario di sostituzione protesica totale o parziale (codici ICD-9 CM = 81.51, 81.52) o riduzione di frattura (codici ICD-9-CM: 79.00, 79.05, 79.10, 79.15, 79.20, 79.25, 79.30, 79.35, 79.40, 79.45, 79.50, 79.55). 
+ 
+
+ 
+ 41 Frazione di eiezione Indica la frazione di eiezione pre-operatoria (espressa in percentuale) riportata in cartella clinica e rilevata nel momento più vicino possibile all'inizio dell'intervento chirurgico di by-pass aortocoronarico (codice ICD9-CM 36.1x) o di intervento sulle valvole cardiache (codice ICD9-CM 35.1x-35.2x). 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ La seguente tabella riporta, per ciascuna informazione relativa al ricovero di riabilitazione prevista dal presente decreto (articolo 1, comma 1, lettera B-bis) la definizione, fermo restando che per il dettaglio del relativo sistema di codifica, riconosciuto come standard nazionale per le regole che disciplinano i tracciati record, per le indicazioni di dettaglio circa la struttura dei file XML e gli schemi XSD di convalida a cui far riferimento e le procedure di controllo e verifica dei dati trasmessi si rimanda al documento di specifiche tecniche pubblicate sul sito Internet del Ministero 
+ 
+
+ all'indirizzo 
+ 
+
+ 
+ 
+
+ https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&amp;id=12 
+ 
+
+ 32&amp;area=ricoveriOspedalieri&amp;menu=vuoto. 
+ 
+
+ 
+ 
+
+ TRACCIATO C 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ N. PROGR. CAMPO DESCRIZIONE 
+ 
+
+ 
+ 1 codice istituto di cura Indica l'istituto di cura pubblico o privato. 
+ 
+
+ 
+ 2 Numero progressivo scheda SDO Il numero progressivo della scheda corrisponde al numero identificativo della cartella clinica. 
+ 
+
+ 
+ 42 Scala di Rankin La variabile indica il valore della scala di Rankin rilevato dagli operatori al momento dell'ammissione del paziente quale indicatore di funzionalità premorbosa (codice 28, 56, 75) 
+ 
+
+ 
+ 43 Scala di Barthel (BI) La variabile indica il valore della scala di Barthel rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità nelle attività di vita quotidiana (codice 28, 56, 75) 
+ 
+
+ 
+ 44 Scala di Barthel dispnea (BI-D) La variabile indica il valore della scala di Barthel-Dispnea rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore funzionale (solo codice 56) 
+ 
+
+ 
+ 45 Scala Six-Minute Walk Test (6MWT) La variabile indica il valore del test funzionale Six-Minute Walk Test rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore funzionale (solo codice 56) 
+ 
+
+ 
+ 46 Scala Glasgow Coma Scale (GCS) La variabile indica il valore della Glasgow Coma Scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità (solo codice 75) 
+ 
+
+ 
+ 47 Scala Glasgow Outcome Scale Extended (GOSE) La variabile indica il valore della Glasgow Outcome Scale Extended rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità (solo codice 75) 
+ 
+
+ 
+ 48 Scala Level Cognitive Functioning (LCF) La variabile indica il valore della Level Cognitive Functioning rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore dello stato di coscienza (solo codice 75) 
+ 
+
+ 
+ 49 ASIA Impairment Scale (ASIA) La variabile indica il valore della ASIA Impairment scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore del livello di lesione midollare e del grado di completezza (solo codice 28) 
+ 
+
+ 
+ 50 Scala Spinal Cord Independency Measure (SCIM) La variabile indica il valore della scala Spinal Cord Independency Measure rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di disabilità nelle attività di vita quotidiana (solo codice 28) 
+ 
+
+ 
+ 51 Rehabilitation Complexity Scale (RCS) La variabile indica il valore della scala Rehabilitation Complexity Scale rilevato dagli operatori al momento dell'ammissione e della dimissione del paziente quale indicatore di complessità assistenziale (codice 28, 56, 75)
