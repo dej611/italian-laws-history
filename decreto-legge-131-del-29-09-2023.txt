@@ -264,7 +264,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. L'Autorità di regolazione per energia reti e ambiente (ARERA) provvede ad aggiornare i valori delle compensazioni applicabili nel quarto trimestre 2023 in modo tale che, per ciascuna tipologia di cliente disagiato, i livelli obiettivo di riduzione della spesa attesa nel medesimo trimestre siano quelli previsti per l'energia elettrica dal decreto del Ministro dello sviluppo economico 29 dicembre 2016, e per il gas dall'articolo 3, comma 9, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. 
+ 1. L'Autorità di regolazione per 
+ ((energia, reti))
+
+ e ambiente (ARERA) provvede ad aggiornare i valori delle compensazioni applicabili nel quarto trimestre 2023 in modo tale che, per ciascuna tipologia di cliente disagiato, i livelli obiettivo di riduzione della spesa attesa nel medesimo trimestre siano quelli previsti per l'energia elettrica dal decreto del Ministro dello sviluppo economico 29 dicembre 2016 
+ ((, di cui all'avviso pubblicato nella Gazzetta Ufficiale n. 12 del 16 gennaio 2017))
+
+ , e per il gas dall'articolo 3, comma 9, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. 
  
 
  
@@ -272,7 +278,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Con riferimento all'anno 2023, l'Autorità predispone entro il 31 maggio 2024 la relazione di rendicontazione di cui all'articolo 2-bis, comma 4, del decreto-legge 1° marzo 2022, n. 17, convertito, con modificazioni, dalla legge 27 aprile 2022, n. 34. 
+ 2. Con riferimento all'anno 2023, 
+ ((l'ARERA))
+
+ predispone entro il 31 maggio 2024 la relazione di rendicontazione di cui all'articolo 2-bis, comma 4, del decreto-legge 1° marzo 2022, n. 17, convertito, con modificazioni, dalla legge 27 aprile 2022, n. 34. 
  
 
  
@@ -280,7 +289,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Al fine di contenere, per il quarto trimestre 2023, gli effetti degli aumenti dei prezzi nel settore del gas naturale, ARERA provvede a mantenere azzerate, per il medesimo trimestre, le aliquote delle componenti tariffarie relative agli oneri generali di sistema per il settore del gas. 
+ 3. Al fine di contenere, per il quarto trimestre 2023, gli effetti degli aumenti dei prezzi nel settore del gas naturale, 
+ ((l'ARERA))
+
+ provvede a mantenere azzerate, per il medesimo trimestre, le aliquote delle componenti tariffarie relative agli oneri generali di sistema per il settore del gas. 
  
 
  
@@ -312,7 +324,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Agli oneri derivanti dai commi 5 e 6, valutati in 670,08 milioni di euro per l'anno 2023, si provvede mediante utilizzo delle risorse derivanti dalle modifiche di cui al comma 8. 
+ 7. Agli oneri derivanti dai commi 5 e 6, valutati in 670,08 milioni di euro per l'anno 2023, si provvede mediante utilizzo 
+ ((di quota parte delle risorse derivanti))
+
+ dalle modifiche di cui al comma 8. 
  
 
  
@@ -320,13 +335,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 8. L'articolo 3 del decreto-legge 30 marzo 2023 n. 34, convertito, con modificazioni, dalla legge 26 maggio 2023, n. 56, è sostituito dal seguente: 
+ 8. L'articolo 3 del decreto-legge 30 marzo 2023 
+ ((,))
+
+ n. 34, convertito, con modificazioni, dalla legge 26 maggio 2023, n. 56, è sostituito dal seguente: 
  
 
  &laquo;Art. 3 (Disposizioni in materia di contributo straordinario per il quarto trimestre 2023). - 1. Ai clienti domestici titolari di bonus sociale elettrico è riconosciuto, per i mesi di ottobre, novembre e dicembre 2023, un contributo straordinario, crescente con il numero di componenti del nucleo familiare secondo le tipologie già previste per il medesimo bonus sociale. 
  
 
- 2. L'Autorità di regolazione per energia reti e ambiente (ARERA) definisce la misura del contributo ripartendo nei 3 mesi l'onere complessivo di cui al comma 3 in base ai consumi attesi. 
+ 2. L'Autorità di regolazione per 
+ ((energia, reti))
+
+ e ambiente (ARERA) definisce la misura del contributo ripartendo nei 3 mesi l'onere complessivo di cui al comma 3 in base ai consumi attesi. 
  
 
  3. Per le finalità di cui ai commi 1 e 2, è autorizzata la spesa di 300 milioni di euro per l'anno 2023.&raquo;. 
@@ -337,4 +358,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 9. Alla copertura degli oneri derivanti dal comma 8, pari a 300 milioni di euro per l'anno 2023, si provvede quanto a 203,22 milioni di euro mediante corrispondente utilizzo delle risorse derivanti dalle modifiche di cui al comma 8, che sono trasferite entro il 15 ottobre 2023 alla Cassa per i servizi energetici e ambientali (CSEA) e quanto a 96,78 milioni di euro a valere sulle risorse disponibili nel bilancio della CSEA per l'anno 2023.
+ 9. Alla copertura degli oneri derivanti dal comma 8, pari a 300 milioni di euro per l'anno 2023, si provvede 
+ ((,))
+
+ quanto a 203,22 
+ ((milioni di euro, mediante))
+
+ corrispondente utilizzo 
+ ((di quota parte delle risorse derivanti))
+
+ dalle modifiche di cui al comma 8, che sono trasferite entro il 15 ottobre 2023 alla Cassa per i servizi energetici e ambientali 
+ (( (CSEA), e, ))
+
+ quanto a 96,78 
+ ((milioni di euro, a valere))
+
+ sulle risorse disponibili nel bilancio della CSEA per l'anno 2023.
