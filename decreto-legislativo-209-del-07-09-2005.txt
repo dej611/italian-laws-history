@@ -456,20 +456,16 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  d) attività riassicurativa: 
  
 
  1) l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione, anche di uno Stato terzo o retrocessi da un'impresa di riassicurazione; 
  
 
- 2) la copertura fornita da un'impresa di riassicurazione ad un fondo pensione istituito in uno Stato membro dell'Unione europea, autorizzato dall'Autorità competente dello Stato membro di origine e che rientri nell'ambito di applicazione della direttiva (UE) 2016/2341;
+ 2) la copertura fornita da un'impresa di riassicurazione ad un fondo pensione istituito in uno Stato membro dell'Unione europea, autorizzato dall'Autorità competente dello Stato membro di origine e che rientri nell'ambito di applicazione della direttiva (UE) 2016/2341; 
  
 
- ))
-
+ 
  
 
  
@@ -1111,7 +1107,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) lo Stato di cui alla lettera bbb) in cui l'assicurato ha il domicilio, ovvero, se l'assicurato è una persona giuridica, lo Stato della sede della stessa alla quale si riferisce il contratto, in tutti i casi non esplicitamente previsti dai numeri da 1 a 3; 
  
 
- 4-bis) lo Stato di cui alla lettera bbb) di destinazione nel caso in cui un veicolo viene spedito da uno Stato membro in un altro, a decorrere dall'accettazione della consegna da parte dell'acquirente e per un periodo di trenta giorni, anche se il veicolo non è stato formalmente immatricolato nello Stato membro di destinazione; 
+ 
+ ((4-bis) nel caso in cui un veicolo è spedito da uno Stato membro ad un altro, a seconda della scelta della persona responsabile della copertura della responsabilità civile, lo Stato membro di immatricolazione o, a decorrere dall'accettazione della consegna da parte dell'acquirente, lo Stato membro di destinazione, per un periodo di trenta giorni, anche se il veicolo non è stato formalmente immatricolato nello Stato membro di destinazione;))
+
+ ((70))
+
+ 
  
 
  4-ter) lo Stato di cui alla lettera bbb) in cui si è verificato il sinistro qualora il veicolo sia privo di targa o rechi una targa che non corrisponde più allo stesso veicolo. 
@@ -1201,15 +1202,41 @@ IL PRESIDENTE DELLA REPUBBLICA
  qqq) unità da diporto: il natante definito all'articolo 1, comma 3, del decreto legislativo 18 luglio 2005, n. 171, recante il codice della nautica da diporto; 
  
 
- rrr) veicolo: qualsiasi autoveicolo destinato a circolare sul suolo e che può essere azionato da una forza meccanica, senza essere vincolato ad una strada ferrata, nonchè i rimorchi, anche se non agganciati ad una motrice. 
+ 
+ 
+ ((rrr) veicolo: 
+ 
+
+ 1) qualsiasi veicolo a motore azionato esclusivamente da una forza meccanica che circola sul suolo ma non su rotaia, con: 
+ 
+
+ 1.1) una velocità di progetto massima superiore a 25 km/h; o 1.2) un peso netto massimo superiore a 25 kg e una velocità di progetto massima superiore a 14 km/h; 
+ 
+
+ 2) qualsiasi rimorchio destinato ad essere utilizzato con un veicolo di cui al numero 1), a prescindere che sia ad esso agganciato o meno; 
+ 
+
+ 3) i veicoli elettrici leggeri individuati con apposito decreto del Ministro delle imprese e del made in Italy e del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, da adottarsi entro il termine di novanta giorni dalla data di entrata in vigore della presente disposizione.))
+ 
+
+ ((70))
+
+ 
+
+ 
+
  
 
  
  
+ ((1-bis. Fatti salvi i numeri 1) e 2) della lettera rrr) del comma 1, le sedie a rotelle destinate esclusivamente ad essere utilizzate da persone con disabilità fisiche non sono considerate veicoli ai sensi del presente codice.))
+ 
+
+ 
 
  
  
-
+ ((70))
  
 
  
@@ -1224,4 +1251,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+ 
+
+ 
+
+ 
+ -------------
+
+ AGGIORNAMENTO (70)
+
+ 
+ 
+
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
