@@ -256,10 +256,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  3-bis.1. Agli impianti pilota di cui al comma 3-bis, che per il migliore sfruttamento ai fini sperimentali del fluido geotermico necessitano di una maggiore potenza nominale installata al fine di mantenere il fluido geotermico allo stato liquido, il limite di 5 MW è determinato in funzione dell'energia immessa nel sistema elettrico, che non può in nessun caso essere superiore a 40.000 MWh elettrici annui. 
  
 
- 
- ((3-bis.2. I soggetti titolari di permessi rilasciati ai sensi dell'articolo 3, comma 2-bis, trascorsi cinque anni dall'inizio dei lavori e tenuto conto dei risultati sperimentali in termini di ore annue di funzionamento, nell'ambito della successiva richiesta della concessione possono presentare contestualmente istanza di potenziamento con una variazione del programma dei lavori e agli stessi non si applica il limite di 5 MW di potenza nominale installata, di cui ai commi 3-bis e 3-bis.1, nonchè il limite di 40.000 MWh annui di energia immessa nel sistema elettrico, di cui al medesimo comma 3-bis.1))
+ 3-bis.2. I soggetti titolari di permessi rilasciati ai sensi dell'articolo 3, comma 2-bis, 
+ ((tenuto conto dei risultati sperimentali))
 
- . 
+ , nell'ambito della successiva richiesta della concessione possono presentare contestualmente istanza di potenziamento con una variazione del programma dei lavori e agli stessi non si applica il limite di 5 MW di potenza nominale installata, di cui ai commi 3-bis e 3-bis.1, nonchè il limite di 40.000 MWh annui di energia immessa nel sistema elettrico, di cui al medesimo comma 3-bis.1. 
  
 
  
@@ -312,6 +312,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ 
+
+ 
+ 
+ ((8-bis. è consentita la coltivazione delle risorse geotermiche per uso geotermoelettrico anche in aree termali. Le istanze per il rilascio del permesso di ricerca e della concessione per la coltivazione delle risorse geotermiche devono essere corredate dei risultati forniti dalla modellizzazione idrogeologico-numerica, che dimostri l'assenza di qualsiasi interferenza piezometrica e termica tra i territori dell'area termale interessata e i pennacchi formati dai pozzi di prelievo e di restituzione delle acque geotermiche o di qualsiasi alterazione del chimismo delle acque nel sottosuolo))
+ 
+
  
 
  
