@@ -131,7 +131,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. è punito con la sanzione amministrativa pecuniaria da 100 euro fino a 7.000 euro l'acquirente finale che acquista a qualsiasi titolo cose che, per la loro qualità o per la condizione di chi le offre o per l'entità del prezzo, inducano a ritenere che siano state violate le norme in materia di origine e provenienza dei prodotti ed in materia di proprietà industriale . PERIODO SOPPRESSO DALLA L. 23 LUGLIO 2009, N. 99 . In ogni caso si procede alla confisca amministrativa delle cose di cui al presente comma. Restano ferme le norme di cui al decreto legislativo 9 aprile 2003, n. 70. Salvo che il fatto costituisca reato, Qualora l'acquisto sia effettuato da un operatore commerciale o importatore o da qualunque altro soggetto diverso dall'acquirente finale, la sanzione amministrativa pecuniaria è stabilita da un minimo di 20.000 euro fino ad un milione di euro.
+ 7. è punito con la sanzione amministrativa pecuniaria da 
+ ((300))
+
+ euro fino a 7.000 euro l'acquirente finale che acquista a qualsiasi titolo cose che, per la loro qualità o per la condizione di chi le offre o per l'entità del prezzo, inducano a ritenere che siano state violate le norme in materia di origine e provenienza dei prodotti ed in materia di proprietà industriale . PERIODO SOPPRESSO DALLA L. 23 LUGLIO 2009, N. 99 . In ogni caso si procede alla confisca amministrativa delle cose di cui al presente comma. Restano ferme le norme di cui al decreto legislativo 9 aprile 2003, n. 70. Salvo che il fatto costituisca reato, Qualora l'acquisto sia effettuato da un operatore commerciale o importatore o da qualunque altro soggetto diverso dall'acquirente finale, la sanzione amministrativa pecuniaria è stabilita da un minimo di 20.000 euro fino ad un milione di euro.
  
 
  Le sanzioni sono applicate ai sensi della legge 24 novembre 1981, n. 689, e successive modificazioni. Fermo restando quanto previsto in ordine ai poteri di accertamento degli ufficiali e degli agenti di polizia giudiziaria dall'articolo 13 della citata legge n. 689 del 1981, all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa. 
@@ -142,12 +145,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
+ 7-bis. è punito con la sanzione amministrativa pecuniaria da 
+ ((300))
 
- 
- 7-bis. è punito con la sanzione amministrativa pecuniaria da 100 euro fino a 7.000 euro l'acquirente finale che, all'interno degli spazi doganali, introduce con qualsiasi mezzo nel territorio dello Stato beni provenienti da Paesi non appartenenti all'Unione europea che violano le norme in materia di origine e provenienza dei prodotti, in materia di proprietà industriale e di diritto d'autore, a condizione che i beni introdotti siano pari o inferiori a venti pezzi ovvero abbiano un peso lordo pari o inferiore a 5 chili e che l'introduzione dei beni non risulti connessa a un'attività commerciale. 
+ euro fino a 7.000 euro l'acquirente finale che, all'interno degli spazi doganali, introduce con qualsiasi mezzo nel territorio dello Stato beni provenienti da Paesi non appartenenti all'Unione europea che violano le norme in materia di origine e provenienza dei prodotti, in materia di proprietà industriale e di diritto d'autore, a condizione che i beni introdotti siano pari o inferiori a venti pezzi ovvero abbiano un peso lordo pari o inferiore a 5 chili e che l'introduzione dei beni non risulti connessa a un'attività commerciale. 
  
 
  
@@ -163,13 +164,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7-quater. La sanzione amministrativa di cui al comma 7-bis è irrogata dall'ufficio dell'Agenzia delle dogane e dei monopoli competente per il luogo dove è stato accertato il fatto. La sanzione è applicata ai sensi della legge 24 novembre 1981, n. 689))
+ 7-quater. La sanzione amministrativa di cui al comma 7-bis è irrogata dall'ufficio dell'Agenzia delle dogane e dei monopoli competente per il luogo dove è stato accertato il fatto. La sanzione è applicata ai sensi della legge 24 novembre 1981, n. 689. 
  
 
  
+ 
+ 
 
  
- 8. Le somme derivanti dall'applicazione delle sanzioni previste dal comma 7 sono versate all'entrata del bilancio dello Stato per essere riassegnate ad appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero delle attività produttive e del Ministero degli affari esteri, da destinare alla lotta alla contraffazione. Nel caso di sanzioni applicate da organi di polizia locale, le somme sono destinate per il 50 per cento all'ente locale competente e per il restante 50 per cento allo Stato, secondo le modalità di cui al primo periodo. 
+ 8. Le somme derivanti dall'applicazione delle sanzioni previste dal comma 7 sono versate all'entrata del bilancio dello Stato per essere riassegnate ad appositi capitoli, anche di nuova istituzione, dello stato di previsione del Ministero delle attività produttive e del Ministero degli affari esteri, da destinare alla lotta alla contraffazione. Nel caso di sanzioni applicate da organi di polizia locale, le somme sono 
+ ((interamente versate all'ente locale competente))
+
+ . 
  
 
  
