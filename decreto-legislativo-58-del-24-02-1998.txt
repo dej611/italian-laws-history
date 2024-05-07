@@ -201,14 +201,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni; 
+ i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni 
+ ((e che gestisce direttamente il proprio patrimonio))
+
+ ; 
+ 
+
+ 
+ ((i.1) "società di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e che designa come gestore esterno una Sgr o una società di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38))
+
+ ; 
  
 
  
  
 
  
- i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi; 
+ i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi 
+ ((e che gestisce direttamente il proprio patrimonio))
+
+ ; 
+ ((i-bis.1) "società di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi e che designa come gestore esterno una Sgr o un GEFIA UE secondo quanto previsto dall'articolo 38))
+
+ ; 
  
 
  
@@ -222,7 +237,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i-quater) società di investimento semplice (SiS): il FIA italiano costituito in forma di Sicaf che gestisce direttamente il proprio patrimonio e che rispetta tutte le seguenti condizioni: 
+ i-quater) società di investimento semplice (SiS): il FIA italiano costituito in forma di Sicaf 
+ ((...))
+
+ che rispetta tutte le seguenti condizioni: 
  
 
  1) il patrimonio netto non eccede euro 25 milioni; 
@@ -265,14 +283,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) 'Oicr italianì: i fondi comuni d'investimento, le Sicav e le Sicaf; 
+ l) 'Oicr italianì: i fondi comuni d'investimento, 
+ ((le Sicav in gestione esterna, le Sicaf e le Sicaf in gestione esterna))
+
+ ; 
  
 
  
  
 
  
- m) 'Organismi di investimento collettivo in valori mobiliari italianì (OICVM italiani): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE; 
+ m) 'Organismi di investimento collettivo in valori mobiliari italianì (OICVM italiani): il fondo comune di investimento 
+ ((, la Sicav e la Sicav in gestione esterna))
+
+ rientranti nell'ambito di applicazione della direttiva 2009/65/CE; 
  
 
  
@@ -286,7 +310,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- m-ter) 'Oicr alternativo italianò (FIA italiano): il fondo comune di investimento, la Sicav e la Sicaf rientranti nell'ambito di applicazione della direttiva 2011/61/UE; 
+ m-ter) 'Oicr alternativo italianò (FIA italiano): il fondo comune di investimento, la Sicav 
+ ((, la Sicav in gestione esterna, la Sicaf e la Sicaf in gestione esterna))
+
+ rientranti nell'ambito di applicazione della direttiva 2011/61/UE; 
  
 
  m-quater)'FIA italiano riservatò: il FIA italiano la cui partecipazione è riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
@@ -364,7 +391,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q-bis) 'gestorè: la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
+ q-bis) 'gestorè: la Sgr, la Sicav 
+ ((, la Sicaf))
+
+ , la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
  
 
  q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
@@ -373,7 +403,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder è unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
  
 
- q-quinquies) 'quote e azioni di Oicr': le quote dei fondi comuni di investimento, le azioni di Sicav e le azioni e altri strumenti finanziari partecipativi di Sicaf; 
+ q-quinquies) 'quote e azioni di Oicr': le quote dei fondi comuni di investimento, le azioni di Sicav 
+ ((e di Sicav in gestione esterna, le azioni e altri strumenti partecipativi di Sicaf e di Sicaf in gestione esterna))
+
+ ; 
  
 
  
@@ -512,7 +545,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  4-bis) gli emittenti di cui ai numeri 3) e 4) i cui valori mobiliari non sono più ammessi alla negoziazione in un mercato regolamentato dello Stato membro d'origine, ma sono stati ammessi alla negoziazione in un mercato regolamentato italiano o di altri Stati membri e, se del caso, aventi sede legale in Italia oppure che hanno scelto l'Italia come nuovo Stato membro d'origine; 
  
 
- w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano una capitalizzazione di mercato inferiore ai 500 milioni di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato tale limite per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalità informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob pubblica l'elenco delle PMI tramite il proprio sito internet. 
+ w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano una capitalizzazione di mercato inferiore 
+ ((a 1 miliardo di euro))
+
+ . Non si considerano PMI gli emittenti azioni quotate che abbiano superato tale limite per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalità informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob pubblica l'elenco delle PMI tramite il proprio sito internet. 
  
 
  
@@ -579,9 +615,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure. (73) 
  
 
+ 1-bis.1. Per "clausola make-whole" si intende una clausola diretta a tutelare l'investitore garantendo che, in caso di rimborso anticipato di un'obbligazione, l'emittente sia tenuto a versare al detentore dell'obbligazione un importo pari alla somma del valore attuale netto delle cedole residue fino alla scadenza e del valore nominale dell'obbligazione da rimborsare. 
  
- ((1-bis.1. Per "clausola make-whole" si intende una clausola diretta a tutelare l'investitore garantendo che, in caso di rimborso anticipato di un'obbligazione, l'emittente sia tenuto a versare al detentore dell'obbligazione un importo pari alla somma del valore attuale netto delle cedole residue fino alla scadenza e del valore nominale dell'obbligazione da rimborsare.))
 
+ 
  
 
  
@@ -863,18 +900,11 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((
- 
-
- 
- 5-novies. Per "servizi di crowdfunding" si intendono i servizi indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503.
+ 5-novies. Per "servizi di crowdfunding" si intendono i servizi indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503. 
  
 
  
- ))
  
-
  
 
  
@@ -1198,17 +1228,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XX e XXIV/1 del regolamento (UE) n. 1308/2013, nonchè i prodotti di cui all'allegato I del regolamento (UE) n. 1379/2013. 
  
- ((6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XX e XXIV/1 del regolamento (UE) n. 1308/2013, nonchè i prodotti di cui all'allegato I del regolamento (UE) n. 1379/2013.))
+
+ 6-quinquiesdecies.1. Per "gruppo prevalentemente commerciale" si intende qualsiasi gruppo la cui attività principale non consista nella prestazione di servizi di investimento ai sensi del presente decreto o nell'esercizio di una qualsiasi attività di cui all'allegato I della direttiva 2013/36/EU o in attività di market making in relazione agli strumenti derivati su merci. 
  
 
  
-
  
- 
- ((6-quinquiesdecies.1. Per "gruppo prevalentemente commerciale" si intende qualsiasi gruppo la cui attività principale non consista nella prestazione di servizi di investimento ai sensi del presente decreto o nell'esercizio di una qualsiasi attività di cui all'allegato I della direttiva 2013/36/EU o in attività di market making in relazione agli strumenti derivati su merci.))
- 
-
  
 
  
@@ -1302,10 +1329,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 
- ((6-noviesdecies. Per "formato elettronico" si intende qualsiasi supporto durevole diverso dalla carta.))
+ 6-noviesdecies. Per "formato elettronico" si intende qualsiasi supporto durevole diverso dalla carta. 
  
 
+ 
+ 
+
+ 
+ 
  
 
  
