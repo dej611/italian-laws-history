@@ -402,13 +402,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- (( (Ambito di applicazione) 
+
+ (Ambito di applicazione) 
  
 
- (art. 1 eecc; art. 2 Codice 2003) ))
- 
-
- 
+ (art. 1 eecc; art. 2 Codice 2003) 
  
 
  
@@ -417,7 +415,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- ((
+ 
  
 
  
@@ -445,7 +443,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) reti e servizi di comunicazione elettronica ad uso privato; 
+ c) reti 
+ ((...))
+
+ di comunicazione elettronica ad uso privato; 
  
 
  
@@ -486,7 +487,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) apparecchiature contemplate dal decreto legislativo 22 giugno 2016, n. 128 che attua la direttiva 2014/53/UE concernente l'armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE, fatte salve le apparecchiature utilizzate dagli utenti della radio e televisione digitale; 
+ b) apparecchiature contemplate dal decreto legislativo 22 giugno 2016, n. 128 che attua la direttiva 2014/53/UE concernente l'armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE 
+ ((...))
+
+ ; 
  
 
  
@@ -520,7 +524,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Le Amministrazioni competenti all'applicazione del presente decreto garantiscono la conformità del trattamento dei dati alle norme in materia di protezione dei dati. 
+ 5. Le 
+ ((amministrazioni))
+
+ competenti all'applicazione del presente decreto garantiscono la conformità del trattamento dei dati alle norme in materia di protezione dei dati. 
  
 
  
@@ -536,4 +543,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 7. Restano ferme le competenze e i poteri del Presidente del Consiglio dei Ministri di cui all'articolo 5, comma 3, lettera b-bis) della legge 23 agosto 1988, n. 400, nonchè le competenze e i poteri del Comitato interministeriale per la transizione digitale di cui all'articolo 8 del decreto-legge 1° marzo 2021, n. 22.
+ 7. Restano ferme le competenze e i poteri del Presidente del Consiglio dei Ministri di cui all'articolo 5, comma 3, lettera b-bis) della legge 23 agosto 1988, n. 400, nonchè le competenze e i poteri del Comitato interministeriale per la transizione digitale di cui all'articolo 8 del decreto-legge 1° marzo 2021, n. 22 
+ ((, convertito, con modificazioni, dalla legge 22 aprile 2021, n. 55))
+
+ .
