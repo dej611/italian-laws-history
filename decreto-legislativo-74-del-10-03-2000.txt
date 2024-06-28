@@ -67,20 +67,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) per "elementi attivi o passivi" si intendono le componenti, espresse in cifra, che concorrono, in senso positivo o negativo, alla determinazione del reddito o delle basi imponibili rilevanti ai fini dell'applicazione delle imposte sui redditi o sul valore aggiunto 
- ((e le componenti che incidono sulla determinazione dell'imposta dovuta))
-
- ; 
+ b) per "elementi attivi o passivi" si intendono le componenti, espresse in cifra, che concorrono, in senso positivo o negativo, alla determinazione del reddito o delle basi imponibili rilevanti ai fini dell'applicazione delle imposte sui redditi o sul valore aggiunto e le componenti che incidono sulla determinazione dell'imposta dovuta; 
  
 
  
  
 
  
- c) per "dichiarazioni" si intendono anche le dichiarazioni presentate in qualità di amministratore, liquidatore o rappresentante di società, enti o persone fisiche 
- ((o di sostituto d'imposta, nei casi previsti dalla legge))
-
- ; 
+ c) per "dichiarazioni" si intendono anche le dichiarazioni presentate in qualità di amministratore, liquidatore o rappresentante di società, enti o persone fisiche o di sostituto d'imposta, nei casi previsti dalla legge; 
  
 
  
@@ -101,9 +95,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- f) per "imposta evasa" si intende la differenza tra l'imposta effettivamente dovuta e quella indicata nella dichiarazione, ovvero l'intera imposta dovuta nel caso di omessa dichiarazione, al netto delle somme versate dal contribuente o da terzi a titolo di acconto, di ritenuta o comunque in pagamento di detta imposta prima della presentazione della dichiarazione o della scadenza del relativo termine; 
- ((non si considera imposta evasa quella teorica e non effettivamente dovuta collegata a una rettifica in diminuzione di perdite dell'esercizio o di perdite pregresse spettanti e utilizzabili;))
+ f) per "imposta evasa" si intende la differenza tra l'imposta effettivamente dovuta e quella indicata nella dichiarazione, ovvero l'intera imposta dovuta nel caso di omessa dichiarazione, al netto delle somme versate dal contribuente o da terzi a titolo di acconto, di ritenuta o comunque in pagamento di detta imposta prima della presentazione della dichiarazione o della scadenza del relativo termine; non si considera imposta evasa quella teorica e non effettivamente dovuta collegata a una rettifica in diminuzione di perdite dell'esercizio o di perdite pregresse spettanti e utilizzabili; 
+ 
 
+ 
  
 
  
@@ -114,15 +109,46 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  g-bis) per "operazioni simulate oggettivamente o soggettivamente" si intendono le operazioni apparenti, diverse da quelle disciplinate dall'articolo 10-bis della legge 27 luglio 2000, n. 212, poste in essere con la volontà di non realizzarle in tutto o in parte ovvero le operazioni riferite a soggetti fittiziamente interposti; 
  
 
  
  
 
- g-ter) per "mezzi fraudolenti" si intendono condotte artificiose attive nonchè quelle omissive realizzate in violazione di uno specifico obbligo giuridico, che determinano una falsa rappresentazione della realtà.
+ 
+ g-ter) per "mezzi fraudolenti" si intendono condotte artificiose attive nonchè quelle omissive realizzate in violazione di uno specifico obbligo giuridico, che determinano una falsa rappresentazione della realtà. 
+ 
+
+ 
+ 
+
+ 
+ ((
+
+ 
+ g-quater) per "crediti inesistenti" si intendono: 
+ 
+
+ 1) i crediti per i quali mancano, in tutto o in parte, i requisiti oggettivi o soggettivi specificamente indicati nella disciplina normativa di riferimento; 
+ 
+
+ 2) i crediti per i quali i requisiti oggettivi e soggettivi di cui al numero 1) sono oggetto di rappresentazioni fraudolente, attuate con documenti materialmente o ideologicamente falsi, simulazioni o artifici; 
+ 
+
+ 
+ 
+
+ 
+ g-quinquies) per "crediti non spettanti" si intendono: 
+ 
+
+ 1) i crediti fruiti in violazione delle modalità di utilizzo previste dalle leggi vigenti ovvero, per la relativa eccedenza, quelli fruiti in misura superiore a quella stabilita dalle norme di riferimento; 
+ 
+
+ 2) i crediti che, pur in presenza dei requisiti soggettivi e oggettivi specificamente indicati nella disciplina normativa di riferimento, sono fondati su fatti non rientranti nella disciplina attributiva del credito per difetto di ulteriori elementi o particolari qualità richiesti ai fini del riconoscimento del credito; 
+ 
+
+ 3) i crediti utilizzati in difetto dei prescritti adempimenti amministrativi espressamente previsti a pena di decadenza.
+ 
 
  ))
