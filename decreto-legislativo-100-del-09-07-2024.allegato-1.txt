@@ -1,0 +1,199 @@
+Allegato A 
+ 
+
+ 
+ 
+
+ &laquo;ALLEGATO I bis 
+ 
+
+ 
+ 
+
+ SPECIFICHE E INFORMAZIONI RELATIVE ALLA RICARICA APPLICABILI A 
+ 
+
+ DETERMINATE CATEGORIE O CLASSI DI APPARECCHIATURE RADIO 
+ 
+
+ 
+ 
+
+ PARTE I 
+ 
+
+ 
+ 
+
+ SPECIFICHE RELATIVE ALLE CAPACITà DI RICARICA 
+ 
+
+ 
+ 
+
+ 1. I requisiti di cui ai punti 2 e 3 della presente parte si applicano alle seguenti categorie o classi di apparecchiature radio: 
+ 
+
+ 1.1. i telefoni cellulari portatili; 
+ 
+
+ 1.2. i tablet; 
+ 
+
+ 1.3. le fotocamere digitali, ad eccezione di quelle progettate esclusivamente per il settore audiovisivo o per il settore della sicurezza e sorveglianza; 
+ 
+
+ 1.4. le cuffie; 
+ 
+
+ 1.5. le cuffie microfono; 
+ 
+
+ 1.6. le console portatili per videogiochi; 
+ 
+
+ 1.7. gli altoparlanti portatili; 
+ 
+
+ 1.8. i lettori elettronici; 
+ 
+
+ 1.9. le tastiere; 
+ 
+
+ 1.10. i mouse; 
+ 
+
+ 1.11. i sistemi di navigazione portatili; 
+ 
+
+ 1.12. gli auricolari; 
+ 
+
+ 1.13. i laptop (l'apparecchiatura radio interessata è qualsiasi computer portatile, tra cui laptop, notebook, pc ultraportatili, dispositivi ibridi o convertibili e netbook). 
+ 
+
+ 2. Nella misura in cui possono essere ricaricate mediante cavo, le categorie o classi di apparecchiature radio di cui al punto 1 della presente parte: 
+ 
+
+ 2.1. devono essere dotate di una presa USB tipo C, come descritto nella norma EN IEC 62680-1-3:2022 "Interfacce del Bus Seriale Universale (Universal Serial Bus) per dati e alimentazione - parte 1-3: Componenti comuni - Specifica del cavo e del connettore USB tipo C&reg;", e la presa deve rimanere accessibile e operativa in ogni momento; 
+ 
+
+ 2.2. devono poter essere ricaricate con cavi conformi alla norma EN IEC 62680-1-3:2022 "Interfacce del Bus Seriale Universale (Universal Serial Bus) per dati e alimentazione - parte 1-3:
+ 
+
+ Componenti comuni - Specifica del cavo e del connettore USB tipo C&reg;". 
+ 
+
+ 3. Nella misura in cui possono essere ricaricate mediante cavo e con tensione superiore a 5 volt, corrente superiore a 3 ampere o potenza superiore a 15 watt, le categorie o classi di apparecchiature radio di cui al punto 1 della presente parte devono: 
+ 
+
+ 3.1. integrare il protocollo USB Power Delivery, come descritto nella norma EN IEC 62680-1-2:2022 "Interfacce per bus universali seriali per dati e alimentazione elettrica - parte 1-2: Componenti comuni - Specifiche di alimentazione tramite USB"; 
+ 
+
+ 3.2. garantire che qualsiasi protocollo di ricarica supplementare consenta la piena funzionalità del protocollo USB Power Delivery di cui al punto 3.1, a prescindere dal dispositivo di ricarica utilizzato. 
+ 
+
+ 
+ 
+
+ PARTE II 
+ 
+
+ 
+ 
+
+ INFORMAZIONI SULLE SPECIFICHE RELATIVE ALLE CAPACITà DI RICARICA E AI DISPOSITIVI DI RICARICA COMPATIBILI 
+ 
+
+ 
+ 
+
+ Nel caso di apparecchiature radio che rientrano nell'ambito di applicazione dell'articolo 3, comma 4- bis, le seguenti informazioni devono essere indicate conformemente ai requisiti di cui all'articolo 10, comma 8-bis, e possono essere messe a disposizione anche mediante codici QR o soluzioni elettroniche analoghe: 
+ 
+
+ a) nel caso di tutte le categorie o classi di apparecchiature radio soggette ai requisiti di cui alla parte I, una descrizione dei requisiti di potenza dei dispositivi di ricarica con cavo che possono essere utilizzati con tale apparecchiatura radio, compresa la potenza minima richiesta per caricare l'apparecchiatura radio, e la potenza massima richiesta per caricare l'apparecchiatura radio alla massima velocità di ricarica espressa in watt, mediante l'apposizione del testo: "La potenza fornita dal caricabatteria deve essere tra min [xx] watt richiesta dall'apparecchiatura radio e max [yy] watt per raggiungere la massima velocità di ricarica". Il numero di watt deve esprimere, rispettivamente, la potenza minima richiesta dall'apparecchiatura radio e la potenza massima richiesta dall'apparecchiatura radio per raggiungere la massima velocità di ricarica; 
+ 
+
+ b) nel caso di apparecchiature radio soggette ai requisiti di cui alla parte I, punto 3, una descrizione delle specifiche relative alle capacità di ricarica dell'apparecchiatura radio, nella misura in cui essa può essere ricaricata mediante cavo e con tensione superiore a 5 volt o corrente superiore a 3 ampere o potenza superiore a 15 watt, compresa l'indicazione che l'apparecchiatura radio supporta il protocollo di ricarica USB Power Delivery mediante l'apposizione del testo "Ricarica rapida USB PD" e l'indicazione di qualsiasi altro protocollo di ricarica supportato mediante l'apposizione del relativo nome in formato di testo. 
+ 
+
+ 
+ 
+
+ PARTE III 
+ 
+
+ 
+ 
+
+ PITTOGRAMMA CHE INDICA SE L'APPARECCHIATURA RADIO INCLUDE UN 
+ 
+
+ DISPOSITIVO DI RICARICA 
+ 
+
+ 
+ 
+
+ 1. Il pittogramma deve presentarsi nei formati seguenti. 
+ 
+
+ 1.1. Se l'apparecchiatura radio include un dispositivo di ricarica: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 1.2. Se l'apparecchiatura radio non include alcun dispositivo di ricarica: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2. Il pittogramma può variare nell'aspetto (ad esempio può essere di colori diversi, avere forma vuota o piena, linee di spessore differente), purchè rimanga visibile e leggibile. In caso di riduzione o di ingrandimento del pittogramma, devono essere mantenute le proporzioni indicate nei simboli di cui al punto 1 della presente parte. La dimensione "a" di cui al punto 1 della presente parte deve essere superiore o pari a 7 mm, indipendentemente dalla variazione. 
+ 
+
+ 
+ 
+
+ PARTE IV 
+ 
+
+ 
+ 
+
+ CONTENUTO E FORMATO DELL'ETICHETTA 
+ 
+
+ 
+ 
+
+ 1. L'etichetta deve presentare il formato seguente: 
+ 
+
+ 
+ 
+
+ Parte di provvedimento in formato grafico
+ 
+
+ 
+ 
+
+ 2. Le lettere "XX" sono sostituite dalla cifra corrispondente alla potenza minima richiesta dall'apparecchiatura radio per la ricarica, che determina la potenza minima che un dispositivo di ricarica deve fornire per caricare l'apparecchiatura radio. Le lettere "YY" sono sostituite dalla cifra corrispondente alla potenza massima richiesta dall'apparecchiatura radio per raggiungere la massima velocità di ricarica, che determina la potenza minima che un dispositivo di ricarica deve fornire per raggiungere tale massima velocità di ricarica. La dicitura "USB PD" (USB Power Delivery) figura se l'apparecchiatura radio supporta tale protocollo di comunicazione per la ricarica. "USB PD" è un protocollo che negozia la fornitura più rapida di corrente dal dispositivo di ricarica all'apparecchiatura radio senza abbreviare la durata di vita della batteria. 
+ 
+
+ 3. L'etichetta può variare nell'aspetto (ad esempio può essere di colori diversi, avere forma vuota o piena, linee di spessore differente), purchè rimanga visibile e leggibile. In caso di riduzione o di ingrandimento dell'etichetta, devono essere mantenute le proporzioni indicate nel simbolo di cui al punto 1 della presente parte. La dimensione "a" di cui al punto 1 della presente parte deve essere superiore o pari a 7 mm, indipendentemente dalla variazione.&raquo;.
