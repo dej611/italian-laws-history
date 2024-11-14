@@ -70,19 +70,46 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- ((1. Ai fini del presente decreto si intende per: 
+ 
+ 
+ 1. Ai fini del presente decreto si intende per: 
  
 
+ 
+ 
+
+ 
  a) cybersicurezza, l'insieme delle attività, fermi restando le attribuzioni di cui alla legge 3 agosto 2007, n. 124, e gli obblighi derivanti da trattati internazionali, necessarie per proteggere dalle minacce informatiche reti, sistemi informativi, servizi informatici e comunicazioni elettroniche, assicurandone la disponibilità, la confidenzialità e l'integrità e garantendone la resilienza, anche ai fini della tutela della sicurezza nazionale e dell'interesse nazionale nello spazio cibernetico; 
  
 
+ 
+ 
+
+ 
  b) resilienza nazionale nello spazio cibernetico, le attività volte a prevenire un pregiudizio per la sicurezza nazionale come definito dall'articolo 1, comma 1, lettera f), del regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131; 
  
 
+ 
+ 
+
+ 
  c) decreto-legge perimetro, il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, recante disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica; 
  
 
- d) decreto legislativo NIS, il decreto legislativo 18 maggio 2018, n. 65, di attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell'Unione; 
+ 
  
 
- e) strategia nazionale di cybersicurezza, la strategia di cui all'articolo 6 del decreto legislativo NIS))
+ 
+ ((
+
+ d) decreto legislativo NIS, il decreto legislativo di recepimento della direttiva (UE) 2022/2555, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, relativa a misure per un livello comune elevato di cibersicurezza nell'Unione, recante modifica del regolamento (UE) n. 910/2014 e della direttiva (UE) 2018/1972 e che abroga la direttiva (UE) 2016/1148;
+
+ ))
+
+ 
+
+ 
+ e) strategia nazionale di cybersicurezza, la strategia 
+ ((di cui all'articolo 9))
+
+ del decreto legislativo NIS.
