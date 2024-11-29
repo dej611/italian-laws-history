@@ -114,70 +114,46 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 
- 
  1. Ai fini del presente decreto e dei suoi allegati, si intende per: 
  
 
  
  
-
- 
- a) "convenzioni internazionali": 
+ ((a) &laquo;convenzioni internazionali&raquo;: le seguenti convenzioni, inclusi i rispettivi protocolli e relative modifiche, nella versione aggiornata: 
  
 
- 1. la convenzione internazionale per la salvaguardia della vita umana in mare, firmata a Londra nel 1974 e resa esecutiva con la legge 23 maggio 1980, n. 313, e con la legge 4 giugno 1982, n. 438, che ha approvato il successivo protocollo del 17 febbraio 1978, e successivi emendamenti in vigore alla data del 17 marzo 1998, di seguito denominata "SOLAS 1974"; 
+ 1. convenzione internazionale per la salvaguardia della vita umana in mare del 1974, resa esecutiva con legge 23 maggio 1980, n. 313, di seguito denominata &laquo;SOLAS 1974&raquo;; 
  
 
- 2. la convenzione internazionale sulle linee di massimo carico del 1966, resa esecutiva in Italia con decreto del Presidente della Repubblica 8 aprile 1968, n. 777, entrato in vigore il 21 luglio 1968, e successivi emendamenti del 1971 e del 1979, resi esecutivi in Italia con decreto del Presidente della Repubblica 8 aprile 1984, n. 968, e successivi emendamenti in vigore alla data del 17 marzo 1998, di seguito denominata "LL66"; 
+ 2. convenzione internazionale sulla linea di massimo carico del 1966, resa esecutiva con decreto del Presidente della Repubblica 8 aprile 1968, n. 777, di seguito denominata &laquo;LL66&raquo;;))
  
 
- 
- 
-
- 
- b) "codice sulla stabilità a nave integra": il codice sulla stabilità a nave integra per tutti i tipi di nave oggetto degli strumenti della Organizzazione Marittima Internazionale IMO (Code on Intact Stability), contenuto nella risoluzione A.749 (18) dell'Assemblea dell'Organizzazione stessa del 4 novembre 1993, nel testo modificato alla data del 17 marzo 1998; 
- 
+ ((b) &laquo;codice sulla stabilità a nave integra&raquo;: il codice sulla stabilità a nave integra per tutti i tipi di nave oggetto degli strumenti della Organizzazione marittima internazionale IMO, contenuto nella risoluzione A.749 (18) dell'Assemblea dell'Organizzazione stessa del 4 novembre 1993, o il codice internazionale sulla stabilità a nave integra del 2008 di cui alla risoluzione MSC.267(85) della Organizzazione marittima internazionale IMO, del 4 dicembre 2008, nelle versioni aggiornate;))
 
  
  
 
- 
- ((
-
- c) "codice per le unità veloci (HSC Code)": il codice internazionale di sicurezza per le unità veloci (International Code for Safety of High Speed Craft) adottato dall'IMO con la risoluzione MSC 36(63) del 20 maggio 1994 ovvero il codice internazionale di sicurezza per le unità veloci del 2000 (International Code for Safety of High- Speed Craft, 2000), contenuto nella risoluzione MSC 97 (73) dell'IMO del dicembre 2000, nelle loro versioni aggiornate.
-
- ))
-
+ c) "codice per le unità veloci (HSC Code)": il codice internazionale di sicurezza per le unità veloci (International Code for Safety of High Speed Craft) adottato dall'IMO con la risoluzione MSC 36(63) del 20 maggio 1994 ovvero il codice internazionale di sicurezza per le unità veloci del 2000 (International Code for Safety of High- Speed Craft, 2000), contenuto nella risoluzione MSC 97 (73) dell'IMO del dicembre 2000, nelle loro versioni aggiornate. 
  
 
- 
  d) "GMDSS": il sistema globale di sicurezza e soccorso in mare (Global Maritime Distress and Safety System), definito nel capitolo IV della "SOLAS 1974"; 
  
 
- 
- 
-
- 
  e) "nave da passeggeri": qualsiasi nave che trasporti più di dodici passeggeri; 
  
 
- 
- 
-
- 
  f) "unità veloce da passeggeri": una unità veloce come definita alla regola 1 del capitolo X della "SOLAS 1974", che trasporti più di dodici passeggeri; non sono considerate unità veloci da passeggeri le navi da passeggeri adibite a viaggi nazionali marittimi delle classi B, C e D, quando: 
  
 
  1. il loro dislocamento rispetto alla linea di galleggiamento corrisponda a meno di cinquecento metri cubi; 
  
 
- 
- ((2. e la loro velocità massima, come definita dalla regola 1.4.30 del codice per le unità veloci del 1994 e dalla regola 1.4.37 del codice per le unità veloci del 2000, sia inferiore a 20 nodi;))
+ 2. e la loro velocità massima, come definita dalla regola 1.4.30 del codice per le unità veloci del 1994 e 
+ ((dalla regola 1.4.38))
 
+ del codice per le unità veloci del 2000, sia inferiore a 20 nodi; 
  
 
- 
  g) "nave nuova": una nave la cui chiglia sia stata impostata, o che si trovi a un equivalente stadio di costruzione, alla data del 1 luglio 1998 o successivamente. Per equivalente stadio di costruzione si intende lo stadio in cui: 
  
 
@@ -187,17 +163,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. ha avuto inizio, per quella determinata nave, la sistemazione in posto di almeno cinquanta tonnellate o dell'uno per cento della massa stimata di tutto il materiale strutturale, assumendo il minore di questi due valori; 
  
 
- 
- 
-
- 
  h) "nave esistente": una nave che non sia una nave nuova; 
  
 
- 
- 
-
- 
  i) "passeggero": qualsiasi persona che non sia: 
  
 
@@ -207,134 +175,131 @@ IL PRESIDENTE DELLA REPUBBLICA
  2. un bambino di età inferiore a un anno; 
  
 
- 
- 
-
- 
  l) "lunghezza della nave": se non altrimenti definita nell'allegato I, il 96% della lunghezza totale calcolata su un galleggiamento all'85% della più piccola altezza di costruzione misurata dal limite superiore della chiglia, oppure la lunghezza misurata dalla faccia prodiera del dritto di prora all'asse di rotazione del timone al predetto galleggiamento, se tale lunghezza è maggiore. Nelle navi che, secondo progetto, presentano un'inclinazione della chiglia, il galleggiamento al quale si misura tale lunghezza deve essere parallelo al galleggiamento del piano di costruzione; 
  
 
- 
+ m) "altezza di prora": l'altezza di prora definita dalla regola 39 della convenzione "LL66" 
+ ((...))
+
+ ; 
  
 
- 
- m) "altezza di prora": l'altezza di prora definita dalla regola 39 della convenzione "LL66" in quanto distanza verticale sulla perpendicolare avanti, fra il galleggiamento corrispondente al bordo libero estivo assegnato e l'assetto di progetto, e la faccia superiore del ponte esposto a murata; 
- 
-
- 
- 
-
- 
  n) "nave con ponte completo": una nave provvista di un ponte completo, esposto alle intemperie e al mare, dotato di mezzi permanenti che permettano la chiusura di tutte le aperture nella parte esposta alle intemperie e sotto il quale tutte le aperture praticate nelle fiancate sono dotate di mezzi di chiusura permanenti, stagni almeno alle intemperie. Il ponte completo può essere un ponte stagno o una struttura equivalente a un ponte non stagno, completamente coperto da una struttura stagna alle intemperie, di resistenza sufficiente a mantenere l'impermeabilità alle intemperie e munita di mezzi di chiusura stagni alle intemperie; 
  
 
- 
- 
-
- 
  o) "viaggio internazionale": un viaggio per mare dal porto di uno Stato membro a un porto situato al di fuori di quello Stato o viceversa; 
  
 
- 
- 
-
- 
  p) "viaggio nazionale": un viaggio effettuato in tratti di mare da e verso lo stesso porto di uno Stato membro, o da un porto a un altro porto di tale Stato membro; 
  
 
  
- 
+ ((q) &laquo;tratto di mare&raquo;: un tratto di mare o una rotta marittima definiti a norma dell'articolo 3. Tuttavia, ai fini dell'applicazione delle disposizioni in materia di radiocomunicazioni, valgono le definizioni di &laquo;tratto di mare&raquo; riportate nella regola 2, capitolo IV, della &laquo;SOLAS 1974&raquo;;))
 
- 
- q) "tratti di mare": le aree marittime nelle quali le classi di navi possono operare per tutto l'anno o, eventualmente, per un periodo specifico; 
- 
-
- 
- 
-
- 
- r) "area portuale": un'area che si estende fino alle strutture portuali permanenti più periferiche che costituiscono parte integrante del sistema portuale o fino ai limiti definiti da elementi geografici naturali che proteggono un estuario o un'area protetta affine; 
- 
+ ((r) &laquo;area portuale&raquo;: area diversa da un tratto di mare di giurisdizione che si estende fino alle strutture portuali permanenti più periferiche che costituiscono parte integrante del sistema portuale o fino ai limiti definiti da elementi geografici naturali che proteggono un estuario o un'area protetta affine;))
 
  
  
 
- 
- s) "luogo di rifugio": qualsiasi area protetta naturalmente o artificialmente che possa essere usata come rifugio da una nave o da un'unità veloce, che si trovi in condizioni di pericolo; 
+ s) 
+ ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2020, N. 43))
+
+ ; 
  
 
- 
+ t) "Amministrazione" 
+ ((il Ministero delle infrastrutture e dei trasporti))
+
+ - Comando generale del Corpo delle capitanerie di porto; 
  
 
- 
- t) "Amministrazione" il Ministero dei trasporti e della navigazione - Comando generale del Corpo delle capitanerie di porto; 
- 
-
- 
- 
-
- 
  u) "Autorità marittime": Comandi periferici secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto; 
  
 
  
- 
+ ((v) &laquo;Stato di approdo&raquo;: lo Stato membro dai cui porti, o verso i cui porti, una nave o una unità veloce battente bandiera diversa da quella di detto Stato membro, effettua viaggi nazionali;))
 
- 
- v) "Stato ospite": lo Stato membro dai cui porti, o verso i cui porti una nave o una unità veloce, battente bandiera diversa da quella di detto Stato membro, effettua viaggi nazionali; 
- 
+ ((z) &laquo;organismo riconosciuto&raquo;: l'organismo riconosciuto conformemente al regolamento (CE) n. 391/2009 del Parlamento europeo e del Consiglio; per le navi e unità veloci da passeggeri nazionali si intende l'ente tecnico di cui alla lettera bb-sexies;))
 
- 
- 
-
- 
- z) "organismo riconosciuto": l'organismo riconosciuto a norma dell'articolo 3 del decreto legislativo 3 agosto 1998, n. 314; 
- 
+ ((aa) &laquo;miglio&raquo;: lunghezza equivalente a 1852 metri;))
 
  
  
 
- 
- aa) "miglio": lunghezza equivalente a 1.852 metri; 
+ bb) 
+ ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2020, N. 43))
+
+ . 
  
 
- 
- 
-
- 
- bb) "onda significativa": l'onda media corrispondente a un terzo dell'altezza delle onde più alte osservate in un determinato periodo. 
- 
-
- 
- 
-
- 
  bb-bis) nave ro/ro da passeggeri: una nave da passeggeri che trasporta più di dodici passeggeri e disponga di locali da carico ro/ro o di locali di categoria speciale, come definiti nella regola II-2/A/2 di cui all'allegato I; 
  
 
- 
- 
-
- 
  bb-ter) età: età della nave, espressa in numero di anni dalla data della sua consegna; 
  
 
  
- 
-
- 
- bb-quater) persona a mobilità ridotta: chiunque abbia una particolare difficoltà nell'uso dei trasporti pubblici, compresi gli anziani, i disabili, le persone con disturbi sensoriali e quanti impiegano sedie a rotelle, le gestanti e chi accompagna bambini piccoli; 
- 
+ ((bb-quater) &laquo;persone a mobilità ridotta&raquo;: le persone che hanno particolare difficoltà nell'uso dei trasporti pubblici, compresi gli anziani, le persone con disabilità, le persone con disturbi sensoriali e quanti impiegano sedie a rotelle, le gestanti e chi accompagna bambini piccoli;))
 
  
  
 
- 
  bb-quinquies) altezza significativa d'onda (hs): l'altezza media del terzo delle onde di altezza più elevata fra quelle osservate in un dato periodo; 
  
 
  
- 
+ ((bb-sexies) &laquo;ente tecnico&raquo;: l'organismo riconosciuto autorizzato e affidato al quale sono devolute dal Ministero delle infrastrutture e dei trasporti le attribuzioni previste dall'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340;))
 
  
- bb-sexies) ente tecnico: l'organismo autorizzato ai sensi dell'articolo 1, comma 1, lettera b), del decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni.
+ ((bb-septies) &laquo;nave a vela&raquo;: una nave a propulsione a vela anche se munita di propulsione meccanica come propulsione ausiliaria e di emergenza, dove il rapporto tra superficie velica espressa in metri quadrati e dislocamento massimo espresso in tonnellate risulta essere maggiore di 7; 
+ 
+
+ bb-octies) &laquo;materiale equivalente&raquo;: leghe di alluminio o qualsiasi altro materiale non combustibile che, per le sue proprietà intrinseche o grazie alla sua coibentazione, al termine della prevista prova standard del fuoco possiede caratteristiche strutturali e di resistenza al fuoco equivalenti a quelle dell'acciaio; 
+ 
+
+ bb-novies) &laquo;prova standard del fuoco&raquo;: prova in cui campioni di paratie o ponti sono esposti in un forno di prova a temperature corrispondenti all'incirca alla curva standard temperatura-tempo conformemente al metodo di prova specificato nel codice internazionale per l'applicazione delle procedure di prova del fuoco del 2010, di cui alla risoluzione MSC.307(88) dell'IMO, del 3 dicembre 2010, nella versione aggiornata; 
+ 
+
+ bb-decies) &laquo;nave tradizionale&raquo;: qualsiasi tipo di nave da passeggeri storica progettata prima del 1965 e le relative repliche costruite principalmente con i materiali originali, comprese quelle finalizzate a incoraggiare e promuovere le tecniche e le competenze marittime tradizionali, identificabili insieme come monumenti viventi di cultura, il cui esercizio rispetta i principi tradizionali dell'arte e della tecnica marinaresche; 
+ 
+
+ bb-undecies) &laquo;unità da diporto o unità veloce da diporto&raquo;: un'unità che non è impegnata in attività commerciali, indipendentemente dal mezzo di propulsione; 
+ 
+
+ bb-duodecies) &laquo;imbarcazione di servizio (tender)&raquo;: un'imbarcazione in dotazione alla nave che è utilizzata per trasferire più di dodici passeggeri da una nave da passeggeri ferma alla terraferma e viceversa; 
+ 
+
+ bb-ter decies) &laquo;nave di servizio off-shore&raquo;: una nave utilizzata per trasportare e accogliere personale industriale di cui all'articolo 1, comma 1, punto 49) del decreto del Presidente della Repubblica 8 novembre 1991, n. 435 che non svolge a bordo lavori essenziali per l'attività della nave; 
+ 
+
+ bb-quater decies) &laquo;unità veloce di servizio off-shore&raquo;: un'unità utilizzata per trasportare e accogliere personale industriale di cui all'articolo 1, comma 1, punto 49) del decreto del Presidente della Repubblica 8 novembre 1991, n. 435 che non svolge a bordo lavori essenziali per l'attività dell'unità; 
+ 
+
+ bb-quindecies) &laquo;riparazioni, cambiamenti e modifiche di grande entità&raquo;: 
+ 
+
+ 1. qualsiasi variazione che altera sostanzialmente le dimensioni di una nave, ad esempio l'allungamento mediante l'aggiunta di un nuovo corpo centrale; 
+ 
+
+ 2. qualsiasi variazione che altera sostanzialmente la capacità di trasporto di passeggeri di una nave, ad esempio la trasformazione di un ponte per autoveicoli in alloggio passeggeri; 
+ 
+
+ 3. qualsiasi variazione che aumenta sostanzialmente la vita di esercizio di una nave, ad esempio il rinnovo dell'alloggio passeggeri su un intero ponte; 
+ 
+
+ 4. qualsiasi conversione di qualsiasi tipo di nave in una nave da passeggeri; 
+ 
+
+ bb-sedecies) &laquo;società di gestione&raquo;: l'organizzazione o la persona che si fa carico di tutti i doveri e tutte le responsabilità imposti dal codice internazionale di gestione della sicurezza delle navi e della prevenzione dell'inquinamento (codice ISM), nella versione aggiornata, o, nei casi in cui non si applica il capitolo IX della SOLAS 1974, il proprietario della nave o qualsiasi altro organismo o persona come il gestore o il noleggiatore a scafo nudo che ha assunto la responsabilità dell'esercizio della nave dal proprietario della stessa; 
+ 
+
+ bb-septies decies) &laquo;navi ro/ro da passeggeri ritirate dal servizio&raquo;: si intendono le navi ro/ro da passeggeri delle classi &laquo;A&raquo; e &laquo;B&raquo;: 
+ 
+
+ 1. la cui chiglia è stata impostata o si trovava ad un equivalente stadio di costruzione anteriormente al 1° ottobre 2004, e 
+ 
+
+ 2. non si sono conformate agli articoli 5, 7 e 8, del decreto legislativo 14 marzo 2005, n. 65, entro il 1° ottobre 2010, e 
+ 
+
+ 3. sono state destinate alla navigazione nelle classi &laquo;C&raquo; e &laquo;D&raquo; a tale data o a una data successiva alla quale hanno raggiunto i trenta anni di età, ma comunque non più tardi del 1° ottobre 2015.))
