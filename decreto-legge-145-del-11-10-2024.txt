@@ -117,7 +117,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) dopo il comma 4, è inserito il seguente: 
  
 
- &laquo;4-bis. All'atto della domanda del visto nazionale, i richiedenti forniscono gli identificatori biometrici richiesti dalla normativa europea per i visti di ingresso per soggiorni di breve durata, con le medesime modalità ivi previste.&raquo;; 
+ &laquo;4-bis. All'atto della domanda del visto nazionale, i richiedenti forniscono gli identificatori biometrici richiesti dalla 
+ ((normativa dell'Unione europea))
+
+ per i visti di ingresso per soggiorni di breve durata, con le medesime modalità 
+ ((previste dalla medesima normativa))
+
+ .&raquo;; 
  
 
  2) dopo il comma 7, è aggiunto il seguente: 
@@ -160,7 +166,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1.1) all'alinea, le parole: &laquo;deve presentare&raquo; sono sostituite dalle seguenti: &laquo;deve trasmettere in via telematica&raquo;; 
  
 
- 1.2) alla lettera b), sono aggiunte, in fine, le seguenti parole: &laquo;sottoscritta mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata&raquo;; 
+ 1.2) alla lettera b), sono aggiunte, in fine, le seguenti parole: &laquo;
+ ((, sottoscritta))
+
+ mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata&raquo;; 
  
 
  1.3) la lettera d-bis) è sostituita dalla seguente: 
@@ -172,7 +181,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1.4) dopo la lettera d-bis), è aggiunta la seguente: 
  
 
- &laquo;d-ter) domicilio digitale iscritto in uno degli Indici nazionali di cui agli articoli 6-bis e 6-quater del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82.&raquo;; 
+ &laquo;d-ter) 
+ ((indicazione del domicilio digitale inserito in uno degli indici nazionali istituiti dagli articoli))
+
+ 6-bis e 6-quater del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82.&raquo;; 
  
 
  2) dopo il comma 2, sono inseriti i seguenti: 
@@ -181,7 +193,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  &laquo;2-bis. La previa verifica di cui al comma 2 si intende esperita con esito negativo se il centro per l'impiego non comunica la disponibilità di lavoratori presenti sul territorio nazionale entro otto giorni dalla richiesta del datore di lavoro interessato all'assunzione di lavoratori stranieri residenti all'estero. 
  
 
- 2-ter. è irricevibile la domanda presentata, ai sensi del comma 2, dal datore di lavoro che nel triennio antecedente la presentazione non ha sottoscritto il contratto di soggiorno di cui all'articolo 5-bis all'esito di precedente, analoga domanda. La disposizione di cui al primo periodo non si applica se il datore di lavoro prova che la mancata sottoscrizione è dovuta a causa a lui non imputabile. è altresì irricevibile la domanda presentata dal datore di lavoro nei cui confronti, al momento della presentazione della stessa, risulti emesso decreto che dispone il giudizio per il reato di cui all'articolo 603-bis del codice penale o emessa sentenza di condanna, anche non definitiva, per il predetto reato.&raquo;; 
+ 2-ter. 
+ ((è irricevibile la richiesta presentata ai sensi del comma 2 dal datore di lavoro che, nel triennio antecedente la presentazione, avendo presentato una precedente richiesta di nulla osta al lavoro, all'esito della relativa procedura non abbia sottoscritto il contratto di soggiorno di cui all'articolo 5-bis))
+
+ .
+ 
+
+ La disposizione di cui al primo periodo non si applica se il datore di lavoro prova che la mancata sottoscrizione è dovuta a causa a lui non imputabile. è altresì irricevibile la 
+ ((richiesta))
+
+ presentata dal datore di lavoro nei cui confronti, al momento della presentazione della stessa, risulti emesso decreto che dispone il giudizio 
+ ((per i reati di cui agli articoli 600, 601, 602 e 603-bis))
+
+ del codice penale o emessa sentenza di condanna, anche non definitiva, 
+ ((per i predetti reati))
+
+ .&raquo;; 
  
 
  3) al comma 5-ter, le parole: &laquo;qualora lo straniero non si rechi presso lo sportello unico per l'immigrazione per la firma del contratto di soggiorno entro il termine di cui al comma 6, salvo che il ritardo sia dipeso da cause di forza maggiore&raquo; sono sostituite dalle seguenti: &laquo;qualora il contratto di soggiorno di cui all'articolo 5-bis, sottoscritto con le modalità di cui al comma 6, non sia trasmesso allo sportello unico per l'immigrazione nel termine di cui al medesimo comma, salvo che il ritardo sia dipeso da cause di forza maggiore o comunque non imputabili al lavoratore&raquo;; 
@@ -190,16 +217,28 @@ IL PRESIDENTE DELLA REPUBBLICA
  4) dopo il comma 5-quater, è inserito il seguente: 
  
 
- &laquo;5-quinquies. Il datore di lavoro è tenuto a confermare la domanda di nulla osta al lavoro allo sportello unico per l'immigrazione entro sette giorni dalla comunicazione di avvenuta conclusione degli accertamenti di rito sulla domanda di visto di ingresso presentata dal lavoratore. In assenza di conferma entro il suddetto termine, l'istanza si intende rifiutata e il nulla osta è revocato. In caso di conferma, l'ufficio consolare presso il Paese di residenza o di origine dello straniero rilascia il visto di ingresso.
- 
+ &laquo;5-quinquies. Il datore di lavoro è tenuto a confermare 
+ ((la richiesta di nulla osta))
 
- Le comunicazioni tra l'ufficio consolare e lo sportello unico per l'immigrazione avvengono esclusivamente tramite il portale informatico per la gestione delle domande di visto di ingresso in Italia.&raquo;; 
+ al lavoro allo sportello unico per l'immigrazione entro sette giorni dalla comunicazione di avvenuta conclusione degli accertamenti di rito sulla domanda di visto di ingresso presentata dal lavoratore. In assenza di conferma entro il suddetto termine, 
+ ((la richiesta))
+
+ si intende rifiutata e il nulla osta 
+ ((, ove già rilasciato,))
+
+ è revocato. In caso di conferma, l'ufficio consolare presso il Paese di residenza o di origine dello straniero rilascia il visto di ingresso. Le comunicazioni tra l'ufficio consolare e lo sportello unico per l'immigrazione avvengono esclusivamente tramite il portale informatico per la gestione delle domande di visto di ingresso in Italia.&raquo;; 
  
 
  5) il comma 6 è sostituito dal seguente: 
  
 
- &laquo;6. Entro otto giorni dall'ingresso del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore può altresì firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in ordine alla sottoscrizione autografa del lavoratore. Tale documento nel medesimo termine è trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
+ &laquo;6. Entro otto giorni 
+ ((dalla data di ingresso))
+
+ del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore può altresì firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in ordine alla sottoscrizione autografa del lavoratore. Tale documento 
+ ((, nel termine di cui al primo periodo,))
+
+ è trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
  
 
  
@@ -212,7 +251,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) al comma 1, secondo periodo, le parole: &laquo;ad eccezione dei commi 11 e 11-bis&raquo; sono sostituite dalle seguenti: &laquo;ad eccezione dei commi 5, secondo periodo, e 11&raquo;; 
  
 
- 2) al comma 3, primo periodo, le parole: &laquo;esibisce al momento della sottoscrizione del contratto di soggiorno, sono sostituite dalle seguenti: &laquo;trasmette allo sportello unico per l'immigrazione, unitamente al contratto di soggiorno sottoscritto con le modalità di cui all'articolo 22, comma 6,&raquo;; 
+ 2) al comma 3, primo periodo, le parole: &laquo;esibisce al momento della sottoscrizione del contratto di 
+ ((soggiorno,"))
+
+ sono sostituite dalle seguenti: &laquo;trasmette allo sportello unico per l'immigrazione, unitamente al contratto di soggiorno sottoscritto con le modalità di cui all'articolo 22, comma 6,&raquo;; 
  
 
  3) dopo il comma 6, è inserito il seguente: 
@@ -221,36 +263,51 @@ IL PRESIDENTE DELLA REPUBBLICA
  &laquo;6-bis. Dell'avvenuta sottoscrizione del contratto di soggiorno, ai sensi dell'articolo 22, comma 6, è data comunicazione all'INPS, che iscrive il lavoratore stagionale d'ufficio alla piattaforma del sistema informativo per l'inclusione sociale e lavorativa (SIISL) di cui all'articolo 5 del decreto-legge 4 maggio 2023, n. 48, convertito, con modificazioni, dalla legge 3 luglio 2023, n. 85.&raquo;; 
  
 
- 4) al comma 8, dopo il primo periodo, è inserito il seguente: &laquo;La nuova opportunità di lavoro può intervenire non oltre sessanta giorni dal termine finale del precedente contratto. Ferme restando le disposizioni di cui al comma 5, il lavoratore può, nel periodo di validità del nulla osta al lavoro, svolgere attività lavorativa stagionale alle dipendenze dello stesso o di altro datore di lavoro, a condizione che l'intermediazione del rapporto di lavoro avvenga mediante l'utilizzo della piattaforma del sistema informativo per l'inclusione sociale e lavorativa (SIISL) di cui all'articolo 5 del decreto-legge 4 maggio 2023, n. 48, convertito, con modificazioni, dalla legge 3 luglio 2023, n. 85.&raquo;; 
+ 4) al comma 8, dopo il primo periodo, 
+ ((sono inseriti i seguenti))
+
+ : &laquo;La nuova opportunità di lavoro può intervenire non oltre sessanta giorni dal termine finale del precedente contratto.
+ 
+
+ Ferme restando le disposizioni di cui al comma 5, il lavoratore può, nel periodo di validità del nulla osta al lavoro, svolgere attività lavorativa stagionale alle dipendenze dello stesso o di altro datore di lavoro, a condizione che l'intermediazione del rapporto di lavoro avvenga mediante l'utilizzo della piattaforma del 
+ ((SIISL))
+
+ &raquo;; 
  
 
  5) al comma 9, le parole: &laquo;sia rientrato nello Stato di provenienza&raquo; sono sostituite dalle seguenti: &laquo;abbia lasciato il territorio nazionale&raquo;; 
  
 
- 6) al comma 10, le parole: &laquo;nei limiti delle quote di cui all'articolo 3, comma 4&raquo; sono soppresse; 
+ 6) al comma 10, le parole: &laquo;
+ ((, nei limiti))
+
+ delle quote di cui all'articolo 3, comma 4&raquo; sono soppresse; 
  
 
- 7) al comma 11, il quarto periodo è sostituto dai seguenti: &laquo;Entro otto giorni dall'ingresso del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore può altresì firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in ordine alla sottoscrizione autografa del lavoratore. Tale documento nel medesimo termine è trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
+ 7) al comma 11, il quarto periodo è 
+ ((sostituito))
+
+ dai seguenti: &laquo;Entro otto giorni 
+ ((dalla data di ingresso))
+
+ del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore può altresì firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in ordine alla sottoscrizione autografa del lavoratore. Tale documento 
+ ((, nel termine di cui al quarto periodo,))
+
+ è trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
  
 
- 
+ g) all'articolo 24-bis, al comma 4, dopo le parole: &laquo;Agenzia delle entrate&raquo; sono inserite le seguenti: &laquo;e, relativamente al settore agricolo, con l'Agenzia per le erogazioni in agricoltura 
+ ((...))
+
+ &raquo;; 
  
 
- 
- g) all'articolo 24-bis, al comma 4, dopo le parole: &laquo;Agenzia delle entrate&raquo; sono inserite le seguenti: &laquo;e, relativamente al settore agricolo, con l'Agenzia per le erogazioni in agricoltura (AGEA),&raquo;; 
+ h) all'articolo 27, al comma 1-ter, il quarto periodo è sostituito dal seguente: &laquo;Entro otto giorni 
+ ((dalla data di ingresso))
+
+ dello straniero, il contratto di soggiorno di cui all'articolo 5-bis, sottoscritto con le modalità di cui all'articolo 22, comma 6, è trasmesso allo sportello unico per l'immigrazione, per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
  
 
- 
- 
-
- 
- h) all'articolo 27, al comma 1-ter, il quarto periodo è sostituito dal seguente: &laquo;Entro otto giorni dall'ingresso dello straniero, il contratto di soggiorno di cui all'articolo 5-bis, sottoscritto con le modalità di cui all'articolo 22, comma 6, è trasmesso allo sportello unico per l'immigrazione, per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno.&raquo;; 
- 
-
- 
- 
-
- 
  i) all'articolo 27-quater: 
  
 
@@ -261,6 +318,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ ((2-bis) al comma 18-bis, dopo le parole: "del Ministero del lavoro e delle politiche sociali," sono inserite le seguenti: "del Ministero delle imprese e del made in Italy," ed è aggiunto, in fine, il seguente periodo: "Al fine di garantire la più vasta divulgazione delle predette informazioni, le camere di commercio, industria, artigianato e agricoltura inseriscono nei propri siti internet istituzionali una sezione dedicata alle modalità di rilascio della Carta blu UE"))
+
+ . 
+ 
+
+ 
  
 
  
@@ -268,4 +331,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano a decorrere dalla data di entrata in vigore delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023.
+ 2. Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano 
+ ((dalla data di decorrenza))
+
+ delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023.
