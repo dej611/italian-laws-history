@@ -367,6 +367,20 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
+ ((0a) all'articolo 6, dopo il comma 6 è inserito il seguente: 
+ 
+
+ "6.1. Le lettere c) e d) del comma 6 si applicano compatibilmente con le disposizioni attuative dell'articolo 26, comma 4, della legge 5 agosto 2022, n. 118, nonchè con quelle di adeguamento delle regioni o delle province autonome, ove adottate"; 
+ 
+
+ 0b) all'articolo 7, comma 5, terzo periodo, le parole: "Ministro dell'ambiente e della tutela del territorio e del mare" sono sostituite dalle seguenti: "competente direttore generale del Ministero dell'ambiente e della sicurezza energetica"))
+ 
+
+ ; 
+ 
+
+ 
+ 
 
  
  a) all'articolo 8: 
@@ -375,7 +389,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  1) al comma 1: 
  
 
- 1.1) al quinto periodo, le parole &laquo;danno precedenza ai progetti&raquo; sono sostituite dalle seguenti: &laquo;danno precedenza, nell'ordine, ai progetti relativi ai programmi dichiarati di preminente interesse strategico nazionale ai sensi dell'articolo 13 del decreto legge 10 agosto 2023, n. 104, convertito, con modificazioni, dalla legge 9 ottobre 2023, n. 136, a quelli aventi le caratteristiche di cui all'articolo 30 del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, ai progetti&raquo;; 
+ 1.1) al quinto periodo, le parole &laquo;danno precedenza ai progetti&raquo; sono sostituite dalle seguenti: &laquo;danno precedenza, nell'ordine, ai progetti relativi ai programmi dichiarati di preminente interesse strategico nazionale ai sensi dell'articolo 13 del 
+ ((decreto-legge))
+
+ 10 agosto 2023, n. 104, convertito, con modificazioni, dalla legge 9 ottobre 2023, n. 136, a quelli aventi le caratteristiche di cui all'articolo 30 del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, ai progetti&raquo;; 
  
 
  1.2) al sesto periodo, le parole da: &laquo;hanno in ogni caso priorità,&raquo; fino a: &laquo;da fonti rinnovabili, ove previsti&raquo; sono sostituite dalle seguenti: &laquo;sono considerate prioritarie le tipologie progettuali individuate con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro della cultura e con il Ministro delle infrastrutture e dei trasporti, tenendo conto dei seguenti criteri: 
@@ -399,7 +416,27 @@ IL PRESIDENTE DELLA REPUBBLICA
  &laquo;1-bis. Nelle more dell'adozione del decreto di cui al comma 1, sesto periodo, sono da considerarsi prioritari, secondo il seguente ordine: 
  
 
- a) i progetti concernenti impianti di idrogeno verde ovvero rinnovabile di cui al numero 6-bis) dell'allegato II alla parte seconda e i connessi impianti da fonti rinnovabili; 
+ 
+ 
+ ((0a) i progetti di nuovi impianti di accumulo idroelettrico mediante pompaggio puro che prevedono, anche attraverso il ripristino delle condizioni di normale esercizio degli invasi esistenti, l'incremento dei volumi di acqua immagazzinabili; 
+ 
+
+ 0b) le opere e gli impianti di stoccaggio geologico, cattura e trasporto di CO2 , nonchè i relativi impianti funzionalmente connessi, e gli impianti industriali oggetto di conversione in bioraffinerie))
+ 
+
+ ; 
+ 
+
+ a) i progetti concernenti impianti di idrogeno verde ovvero rinnovabile di cui al 
+ (( punto 6-bis) ))
+
+ dell'allegato II alla parte seconda e i connessi impianti da fonti rinnovabili; 
+ 
+
+ 
+ ((a-bis) i progetti di nuovi impianti concernenti le derivazioni per uso idroelettrico di potenza fino a 10MW))
+
+ ; 
  
 
  b) gli interventi di modifica, anche sostanziale, per rifacimento, potenziamento o integrale ricostruzione di impianti alimentati da fonti eoliche o solari; 
@@ -408,16 +445,43 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) i progetti fotovoltaici on-shore e agrivoltaici on-shore di potenza nominale pari almeno a 50 MW e i progetti eolici on-shore di potenza nominale pari almeno a 70 MW. 
  
 
- 1-ter. Ai progetti da considerare prioritari ai sensi del comma 1, sesto periodo, o del comma 1-bis, è riservata una quota non superiore ai tre quinti delle trattazioni, nell'ambito della quale l'esame è definito in ordine cronologico, per ciascuna tipologia, tenuto conto della data di effettuazione della comunicazione al proponente ai sensi dell'articolo 23, comma 4, secondo periodo. I progetti diversi da quelli prioritari sono trattati per ciascuna tipologia d'impianto in ordine cronologico tenuto conto della data di effettuazione della comunicazione al proponente ai sensi dell'articolo 23, comma 4, secondo periodo. Ai fini dell'applicazione uniforme e coerente dell'ordine di trattazione dei progetti da esaminare nell'ambito dei procedimenti di valutazione ambientale, il Ministero dell'ambiente e della sicurezza energetica comunica al Ministero della cultura l'ordine di priorità stabilito ai sensi del comma 1, sesto periodo, o del comma 1-bis, che ne tiene conto. La disciplina di cui al presente comma non pregiudica il rispetto dei termini dei procedimenti di valutazione ambientale previsti dalla normativa vigente per i progetti compresi nel PNRR nè di quelli finanziati a valere sul fondo complementare.&raquo;; 
+ 1-ter. Ai progetti da considerare prioritari ai sensi del comma 1, sesto periodo, 
+ ((o del comma 1-bis è riservata))
+
+ una quota non superiore ai tre quinti delle trattazioni, nell'ambito della quale l'esame è definito in ordine cronologico, per ciascuna tipologia, tenuto conto della data di effettuazione della comunicazione al proponente ai sensi dell'articolo 23, comma 4, secondo periodo. I progetti diversi da quelli prioritari sono trattati per ciascuna tipologia d'impianto in ordine cronologico tenuto conto della data di effettuazione della comunicazione al proponente ai sensi dell'articolo 23, comma 4, secondo periodo. Ai fini dell'applicazione uniforme 
+ ((e simultanea))
+
+ dell'ordine di trattazione dei progetti da esaminare nell'ambito dei procedimenti di valutazione ambientale, il Ministero dell'ambiente e della sicurezza energetica comunica 
+ ((...))
+
+ l'ordine di priorità stabilito ai sensi del comma 1, sesto periodo, o del comma 1-bis, 
+ ((al Ministero della cultura, che vi si uniforma))
+
+ . La disciplina di cui al presente comma non pregiudica il rispetto dei termini dei procedimenti di valutazione ambientale previsti dalla normativa vigente per i progetti compresi nel PNRR nè di quelli finanziati a valere sul fondo complementare.&raquo;; 
  
 
- 3) al comma 2-octies, il terzo periodo è soppresso; 
+ 
+ ((2-bis) al comma 2-bis, ultimo periodo, la parola: "2024" è sostituita dalla seguente: "2026"))
+
+ ; 
+ 
+
+ 
+ ((3) al comma 2-octies, al primo periodo, le parole: "Il presidente della Commissione di cui al comma 1" sono sostituite dalle seguenti: "I presidenti delle Commissioni di cui al presente articolo" e il terzo periodo è sostituito dal seguente: "Con le stesse modalità individuate nei periodi precedenti, fermi restando gli specifici compiti attribuiti in materia ambientale dalla normativa vigente ad altre amministrazioni dello Stato nonchè il riparto di competenze tra le Forze di polizia, di cui al decreto legislativo 19 agosto 2016, n. 177, e al decreto del Ministro dell'interno del 15 agosto 2017, le Commissioni di cui al presente articolo possono avvalersi di quattro unità di personale del Corpo della Guardia di finanza, ai cui oneri si provvede nell'ambito delle risorse di cui al comma 5"))
+
+ ; 
  
 
  4) dopo il comma 2-octies è inserito il seguente: 
  
 
- &laquo;2-novies. Ove sussistano motivate esigenze contingenti di carattere funzionale ovvero organizzativo, il Presidente della commissione tecnica VIA-VAS e il Presidente della commissione tecnica PNRR-PNIEC possono, d'intesa, disporre l'assegnazione alla Commissione tecnica VIA-VAS di progetti spettanti, ai sensi della legislazione vigente, alla Commissione tecnica PNRR-PNIEC, ferma restando l'applicazione della disciplina procedimentale relativa alle valutazioni di impatto ambientale dei progetti PNRR e PNIEC.&raquo;; 
+ &laquo;2-novies. Ove sussistano motivate esigenze contingenti di carattere funzionale ovvero organizzativo, il Presidente della commissione tecnica 
+ ((di verifica dell'impatto ambientale VIA e VAS))
+
+ e il Presidente della commissione tecnica PNRR-PNIEC possono, d'intesa, disporre l'assegnazione alla Commissione tecnica 
+ ((di verifica dell'impatto ambientale VIA e VAS))
+
+ di progetti spettanti, ai sensi della legislazione vigente, alla Commissione tecnica PNRR-PNIEC, ferma restando l'applicazione della disciplina procedimentale relativa alle valutazioni di impatto ambientale dei progetti PNRR e PNIEC.&raquo;; 
  
 
  
@@ -439,7 +503,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  6-bis. L'autorità competente adotta il provvedimento di verifica di assoggettabilità a VIA entro sessanta giorni dalla data di scadenza del termine di cui al comma 4 o, nei casi di cui al comma 6, entro quarantacinque giorni dal ricevimento dei chiarimenti ovvero delle integrazioni richiesti. In casi eccezionali, relativi alla natura, alla complessità, all'ubicazione o alle dimensioni del progetto, l'autorità competente può prorogare, per una sola volta e per un periodo non superiore a venti giorni, il termine per l'adozione del provvedimento di verifica di assoggettabilità a VIA.
  
 
- Nei casi di cui al secondo periodo, l'autorità competente comunica tempestivamente e per iscritto al proponente le ragioni che giustificano la proroga e la data entro la quale è prevista l'adozione del provvedimento. La presente comunicazione è, altresì, pubblicata nel sito internet istituzionale dell'autorità competente.&raquo;; 
+ Nei casi di cui al secondo periodo, l'autorità competente comunica tempestivamente e per iscritto al proponente le ragioni che giustificano la proroga e la data entro la quale è prevista l'adozione del provvedimento. 
+ ((La comunicazione di cui al periodo precedente))
+
+ è, altresì, pubblicata nel sito internet istituzionale dell'autorità competente.&raquo;; 
  
 
  3) al comma 7: 
@@ -451,10 +518,26 @@ IL PRESIDENTE DELLA REPUBBLICA
  3.2) il secondo periodo è soppresso; 
  
 
- 4) al comma 10, dopo il primo periodo sono aggiunti i seguenti: &laquo;Il provvedimento di verifica di assoggettabilità a VIA ha l'efficacia temporale, comunque non inferiore a cinque anni, definita nel provvedimento stesso, tenuto conto dei tempi previsti per la realizzazione del progetto, dei procedimenti autorizzatori necessari, nonchè dell'eventuale proposta formulata dal proponente e inserita nella documentazione a corredo dell'istanza di verifica di assoggettabilità a VIA. Decorsa l'efficacia temporale del provvedimento di verifica di assoggettabilità a VIA senza che il progetto sia stato realizzato, il relativo procedimento è reiterato, fatta salva la concessione, su istanza del proponente corredata di una relazione esplicativa aggiornata che contenga i pertinenti riscontri in merito al contesto ambientale di riferimento e alle eventuali modifiche, anche progettuali, intervenute, di specifica proroga da parte dell'autorità competente. Fatto salvo il caso di mutamento del contesto ambientale di riferimento ovvero di modifiche, anche progettuali, il provvedimento con cui è disposta la proroga ai sensi del terzo periodo non contiene prescrizioni diverse e ulteriori rispetto a quelle già previste nel provvedimento di verifica di assoggettabilità VIA originario. Se l'istanza di cui al terzo periodo è presentata almeno novanta giorni prima della scadenza del termine di efficacia definito nel provvedimento di verifica di assoggettabilità a VIA, il medesimo provvedimento continua a essere efficace sino all'adozione, da parte dell'autorità competente, delle determinazioni relative alla concessione della proroga. Entro quindici giorni dalla presentazione dell'istanza di cui al terzo periodo, l'autorità competente verifica la completezza della documentazione. Qualora la documentazione risulti incompleta, l'autorità competente richiede al soggetto istante la documentazione integrativa, assegnando per la presentazione un termine perentorio non superiore a venti giorni. Qualora entro il termine assegnato l'istante non depositi la documentazione integrativa ovvero, all'esito di una nuova verifica, da effettuarsi da parte dell'autorità competente nel termine di dieci giorni dalla presentazione delle integrazioni richieste, la documentazione risulti ancora incompleta, l'istanza si intende ritirata e l'autorità competente procede all'archiviazione.&raquo;; 
+ 4) al comma 10 
+ ((sono aggiunti, in fine, i seguenti periodi))
+
+ : &laquo;Il provvedimento di verifica di assoggettabilità a VIA ha l'efficacia temporale, comunque non inferiore a cinque anni, definita nel provvedimento stesso, tenuto conto dei tempi previsti per la realizzazione del progetto, dei procedimenti autorizzatori necessari, nonchè dell'eventuale proposta formulata dal proponente e inserita nella documentazione a corredo dell'istanza di verifica di assoggettabilità a VIA. Decorsa l'efficacia temporale del provvedimento di verifica di assoggettabilità a VIA senza che il progetto sia stato realizzato, il relativo procedimento è reiterato, fatta salva la concessione, su istanza del proponente corredata di una relazione esplicativa aggiornata che contenga i pertinenti riscontri in merito al contesto ambientale di riferimento e alle eventuali modifiche, anche progettuali, intervenute, di specifica proroga da parte dell'autorità competente. Fatto salvo il caso di mutamento del contesto ambientale di riferimento ovvero di modifiche, anche progettuali, il provvedimento con cui è disposta la proroga ai sensi del terzo periodo non contiene prescrizioni diverse e ulteriori rispetto a quelle già previste nel provvedimento di verifica di 
+ ((assoggettabilità a VIA originario))
+
+ . Se l'istanza di cui al terzo periodo è presentata almeno novanta giorni prima della scadenza del termine di efficacia definito nel provvedimento di verifica di assoggettabilità a VIA, il medesimo provvedimento continua a essere efficace sino all'adozione, da parte dell'autorità competente, delle determinazioni relative alla concessione della proroga. Entro quindici giorni dalla presentazione dell'istanza di cui al terzo periodo, l'autorità competente verifica la completezza della documentazione. Qualora la documentazione risulti incompleta, l'autorità competente richiede al soggetto istante la documentazione integrativa, assegnando per la presentazione un termine perentorio non superiore a venti giorni. Qualora entro il termine assegnato l'istante non depositi la documentazione integrativa ovvero, all'esito di una nuova verifica, da effettuarsi da parte dell'autorità competente nel termine di dieci giorni dalla presentazione delle integrazioni richieste, la documentazione risulti ancora incompleta, l'istanza si intende ritirata e l'autorità competente procede all'archiviazione.&raquo;; 
  
 
  
+ 
+
+ 
+ 
+ ((b-bis) all'articolo 23, comma 1, è aggiunta, in fine, la seguente lettera: 
+ 
+
+ "g-quater) autodichiarazione ai sensi degli articoli 46 e 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, relativa agli assetti proprietari della società proponente e della eventuale società controllante e alla consistenza del capitale sociale della società proponente"))
+ 
+
  
 
  
@@ -493,10 +576,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) al comma 2-quinquies: 
  
 
- 2.1) al primo periodo, le parole: &laquo;ove gli elaborati progettuali siano sviluppati a un livello che consenta la compiuta redazione della relazione paesaggistica&raquo; sono sostituite dalle seguenti: &laquo;ove la relazione paesaggistica consenta di esprimere una valutazione positiva di compatibilità paesaggistica del progetto&raquo;; 
+ 2.1) 
+ ((...))
+
+ le parole: &laquo;ove gli elaborati progettuali siano sviluppati a un livello che consenta la compiuta redazione della relazione paesaggistica&raquo; sono sostituite dalle seguenti: &laquo;ove la relazione paesaggistica consenta di esprimere una valutazione positiva di compatibilità paesaggistica del progetto&raquo;; 
  
 
- 2.2) dopo il primo periodo, sono aggiunti i seguenti: &laquo;Il Ministero della cultura motiva adeguatamente l'eventuale diniego del concerto. In caso di dissenso del Ministero della cultura rispetto al parere favorevole della Commissione di cui all'articolo 8, comma 1, o della Commissione di cui all'articolo 8, comma 2-bis, può applicarsi l'articolo 5, comma 2, lettera c-bis), della legge 23 agosto 1988, n. 400. Nei casi in cui, con l'atto adottato ai sensi dell'articolo 5, comma 2, lettera c-bis), della legge n. 400 del 1988, venga superato il dissenso del Ministero della cultura, l'atto medesimo sostituisce a ogni effetto il provvedimento di VIA favorevole, che comprende l'autorizzazione di cui al primo periodo. Le eventuali proroghe del provvedimento di VIA favorevole ai sensi del secondo periodo sono concesse ai sensi del comma 5.&raquo;; 
+ 2.2) 
+ ((sono aggiunti, in fine, i seguenti periodi))
+
+ : &laquo;Il Ministero della cultura motiva adeguatamente l'eventuale diniego del concerto. In caso di dissenso del Ministero della cultura rispetto al parere favorevole della Commissione di cui all'articolo 8, comma 1, o della Commissione di cui all'articolo 8, comma 2-bis, può applicarsi l'articolo 5, comma 2, lettera c-bis), della legge 23 agosto 1988, n. 400. Nei casi in cui, con l'atto adottato ai sensi dell'articolo 5, comma 2, lettera c-bis), della legge n. 400 del 1988, venga superato il dissenso del Ministero della cultura, l'atto medesimo sostituisce a ogni effetto il provvedimento di VIA favorevole, che comprende l'autorizzazione di cui al primo periodo. Le eventuali proroghe del provvedimento di VIA favorevole 
+ ((ai sensi del quarto periodo sono concesse ai sensi del comma 5 del presente articolo))
+
+ &raquo;; 
  
 
  3) al comma 5, terzo periodo, dopo le parole: &laquo;ambientale di riferimento&raquo; sono inserite le seguenti: &laquo;ovvero di modifiche, anche progettuali,&raquo;; 
@@ -519,32 +611,36 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) all'articolo 29-sexies, comma 5: 
- 
-
- 1) al primo periodo, le parole &laquo;L'autorità competente&raquo; sono sostituite dalle seguenti: &laquo;Il competente direttore generale del Ministero dell'ambiente e della sicurezza energetica&raquo;; 
- 
-
- 2) al secondo periodo, le parole &laquo;l'autorità competente&raquo; sono sostituite dalle seguenti: &laquo;il competente direttore generale del Ministero dell'ambiente e della sicurezza energetica&raquo;. 
- 
-
- 
- 
+ ((f-bis) all'articolo 27, comma 8, le parole: "Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro per i beni e le attività culturali e per il turismo" sono sostituite dalle seguenti: "competente direttore generale del Ministero dell'ambiente e della sicurezza energetica, previa acquisizione del concerto del competente direttore generale del Ministero della cultura"))
 
  
 
  
+ g) 
+ ((LETTERA SOPPRESSA DALLA L. 13 DICEMBRE 2024, N. 191))
 
- 
- 2. Per i progetti di produzione energetica da fonti rinnovabili, il proponente allega all'istanza di VIA di cui all'articolo 23 del decreto legislativo n. 152 del 2006 anche una dichiarazione attestante la legittima disponibilità, a qualunque titolo, della superficie e, qualora occorra, della risorsa necessarie alla realizzazione dei progetti medesimi. 
- 
-
- 
- 
+ . 
  
 
  
- 3. Per il supporto operativo alla Commissione tecnica di verifica dell'impatto ambientale VIA e VAS e alla Commissione tecnica PNRR-PNIEC di cui all'articolo 8 del decreto legislativo n. 152 del 2006, il Ministero dell'ambiente e della sicurezza energetica può avvalersi del supporto operativo del Gestore dei Servizi energetici - GSE S.p.A. in relazione a progetti di produzione energetica da fonti rinnovabili, sulla base di un'apposita convenzione, nel limite di spesa di 1.000.000 di euro annui a decorrere dall'anno 2025, a cui si provvede con i proventi delle tariffe di cui all'articolo 33, comma 1, del medesimo decreto. I costi annuali derivanti dall'attuazione del primo periodo sono definiti con il decreto di cui all'articolo 8, comma 5, del decreto legislativo n. 152 del 2006. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ ((2. Per i progetti di produzione energetica da fonte fotovoltaica, solare termodinamica, a biomassa o a biogas, nonchè di produzione di biometano, il proponente del provvedimento di VIA di cui all'articolo 25 del decreto legislativo n. 152 del 2006, come modificato dal comma 1, lettera e), del presente articolo, allega una dichiarazione, redatta ai sensi degli articoli 46 e 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante la legittima disponibilità, a qualunque titolo, della superficie su cui realizzare l'impianto, ferme restando la pubblica utilità e le procedure conseguenti per le opere connesse))
+ 
+
+ 
+
+ 
+ 3. Per il supporto operativo alla Commissione tecnica di verifica dell'impatto ambientale VIA e VAS e alla Commissione tecnica PNRR-PNIEC di cui all'articolo 8 del decreto legislativo n. 152 del 2006, il Ministero dell'ambiente e della sicurezza energetica può avvalersi del supporto operativo del Gestore dei Servizi energetici - GSE S.p.A. in relazione a progetti di produzione energetica da fonti rinnovabili, sulla base di un'apposita convenzione, nel limite di spesa di 1.000.000 di euro annui a decorrere dall'anno 2025, a cui si provvede con i proventi delle tariffe di cui all'articolo 33, comma 1, del medesimo decreto 
+ ((legislativo n. 152 del 2006))
+
+ . I costi annuali derivanti dall'attuazione del primo periodo sono definiti con il decreto di cui all'articolo 8, comma 5, del decreto legislativo n. 152 del 2006. 
  
 
  
@@ -568,10 +664,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- b) al comma 4, è aggiunto, in fine, il seguente periodo: &laquo;Qualora gli interventi inseriti nel programma di cui al comma 1, anche a seguito di successiva modifica dello stesso, siano sottoposti a valutazione di impatto ambientale, tale valutazione è svolta dalla Commissione tecnica PNRR-PNIEC secondo le modalità e le competenze di cui alla Parte seconda del decreto legislativo 3 aprile 2006, n. 152, è integrata dalla valutazione ambientale strategica per gli eventuali contenuti di pianificazione e si conclude con un unico provvedimento&raquo;. 
- 
+ ((b) al comma 4 è aggiunto, in fine, il seguente periodo: "Qualora il programma di cui al comma 1 ovvero, singolarmente, gli interventi ivi inseriti, anche a seguito di successiva modifica del programma, siano sottoposti alle procedure di cui alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, tali procedure sono svolte, senza nuovi o maggiori oneri per la finanza pubblica, dalla Commissione tecnica PNRR-PNIEC e integrate dalla valutazione ambientale strategica per gli eventuali contenuti di pianificazione"))
 
- 
  
 
  
