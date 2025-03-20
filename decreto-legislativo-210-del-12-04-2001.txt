@@ -151,31 +151,37 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- g) &laquo;controparte centrale&raquo;: il soggetto di cui all'articolo 2, punto 1, del regolamento (UE) n. 648/2012;
-
- ))
-
+ g) &laquo;controparte centrale&raquo;: il soggetto di cui all'articolo 2, punto 1, del regolamento (UE) n. 648/2012; 
  
 
  
- h) "ente": uno dei seguenti organismi che partecipi ad un sistema assumendo gli obblighi derivanti da ordini di trasferimento nell'ambito del sistema: 
  
 
- 1) una banca italiana o comunitaria, come definite all'articolo 1, comma 2, lettere a) e b), del testo unico bancario, un istituto di moneta elettronica, come definito nell'articolo 1, comma 2, lettera h-bis), del medesimo testo unico, nonchè gli organismi elencati all'articolo 2 della direttiva 2006/48/CE; 
+ 
+ h) 
+ 
+ (("ente": uno dei seguenti organismi che partecipi ad un sistema assumendo gli obblighi derivanti da ordini di trasferimento nell'ambito del sistema: 
  
 
- 2) una SIM, come definita dall'articolo 1, comma 1, lettera e), o un'impresa d'investimento comunitaria, come definita dall'articolo 1, comma 1, lettera f), del testo unico finanza, con esclusione degli enti di cui all'articolo 2, paragrafo 1, della direttiva 2004/39/CE; 
+ 1) una banca italiana o una banca dell'Unione europea, come definite all'articolo 1, comma 2, lettere a) e b), del testo unico bancario, inclusi gli enti elencati all'articolo 2, paragrafo 5, della direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013; 
  
 
- 3) un'autorità pubblica, o un'impresa pubblica come definita all'articolo 8 del regolamento n. 3603/93 del Consiglio CE del 13 dicembre 1993, nonchè un'impresa la cui attività sia assistita da garanzia pubblica; 
+ 2) una SIM o un'impresa d'investimento dell'Unione europea, come definite dall'articolo 1, comma 1, lettere e) e f), del testo unico finanza, con esclusione degli enti di cui all'articolo 2, paragrafo 1, della direttiva 2014/65/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014; 
  
 
- 4) qualsiasi impresa la cui sede legale non sia situata nel territorio dell'Unione europea, e che eserciti attività analoghe a quelle degli enti di cui ai punti 1) e 2); 
+ 3) le autorità pubbliche e le imprese assistite da garanzia pubblica; 
  
 
- 5) qualsiasi altro organismo, individuato in conformità alle disposizioni comunitarie, che partecipi a un sistema italiano o di altro Stato dell'Unione europea, qualora la sua attività rilevi sotto il profilo del rischio sistemico; 
+ 4) qualsiasi impresa la cui sede legale sia situata al di fuori dell'Unione europea e che eserciti attività analoghe a quelle degli enti di cui ai numeri 1) e 2); 
+ 
+
+ 5) qualsiasi altro organismo, individuato in conformità alle disposizioni dell'Unione europea, che partecipi a un sistema italiano o di altro Stato dell'Unione europea, qualora la sua attività rilevi sotto il profilo del rischio sistemico; 
+ 
+
+ 6) nel caso dei sistemi per l'esecuzione di ordini di trasferimento di cui alla lettera m), numero 1), del presente comma, un istituto di pagamento o un istituto di pagamento dell'Unione europea, come definiti all'articolo 1, comma 2, lettere h-sexies) e h-septies), del testo unico bancario, esclusi i soggetti di cui agli articoli 114-sexiesdecies e 114-septiesdecies del medesimo testo unico, o un istituto di moneta elettronica o un istituto di moneta elettronica dell'Unione europea, come definiti all'articolo 1, comma 2, lettere h-bis) e h-bis.1), del testo unico bancario, esclusi i soggetti di cui all'articolo 114-quinquies.4 del medesimo testo unico))
+ 
+
+ ; 
  
 
  
@@ -199,7 +205,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  m) "ordine di trasferimento": ogni istruzione nell'ambito di un sistema da parte di un partecipante di: 
  
 
- 1) mettere a disposizione di un beneficiario un importo in valuta attraverso una scrittura sui conti di una banca (italiana o comunitaria), di una banca centrale, di una controparte centrale o di un agente di regolamento ovvero che determini l'assunzione o l'adempimento di un obbligo di pagamento in base alle regole del sistema, ovvero 
+ 1) mettere a disposizione di un beneficiario un importo in valuta attraverso una scrittura sui conti di una banca (italiana o 
+ ((dell'Unione europea))
+
+ ), di una banca centrale, di una controparte centrale o di un agente di regolamento ovvero che determini l'assunzione o l'adempimento di un obbligo di pagamento in base alle regole del sistema, ovvero 
  
 
  2) trasferire la titolarità o altri diritti su uno o più strumenti finanziari, attraverso una scrittura in un libro contabile o in altro modo; 
@@ -209,12 +218,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ n) &laquo;partecipante&raquo;: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione, un operatore del sistema o un partecipante diretto di una controparte centrale autorizzata ai sensi dell'articolo 17 del regolamento (UE) n. 648/2012. 
+ ((Secondo le regole del sistema, lo stesso partecipante può fungere da controparte centrale, agente di regolamento o stanza di compensazione o assolvere tutti o alcuni di questi compiti))
 
- n) &laquo;partecipante&raquo;: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione, un operatore del sistema o un partecipante diretto di una controparte centrale autorizzata ai sensi dell'articolo 17 del regolamento (UE) n. 648/2012;
+ ; 
+ 
 
- ))
-
+ 
  
 
  
