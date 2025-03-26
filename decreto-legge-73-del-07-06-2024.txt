@@ -105,7 +105,16 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Al fine di governare le liste di attesa, in coerenza con l'obiettivo &laquo;Potenziamento del Portale della Trasparenza&raquo; previsto dal sub-investimento 1.2.2.5 della Missione 6 - Salute del Piano nazionale di ripresa e resilienza (PNRR), presso l'Agenzia nazionale per i servizi sanitari regionali (AGENAS) è istituita la Piattaforma nazionale delle liste di attesa, di cui si avvale il Ministero della salute, finalizzata a realizzare l'interoperabilità con le piattaforme per le liste di attesa relative a ciascuna regione e provincia autonoma. L'AGENAS è autorizzata al trattamento dei dati personali relativi alla gestione della Piattaforma. 
+ 1. Al fine di governare le liste di attesa 
+ ((delle prestazioni sanitarie))
+
+ , in coerenza con l'obiettivo &laquo;Potenziamento del Portale della Trasparenza&raquo; previsto dal sub-investimento 1.2.2.5 della Missione 6 - Salute 
+ ((, componente 1,))
+
+ del Piano nazionale di ripresa e resilienza (PNRR), presso l'Agenzia nazionale per i servizi sanitari regionali (AGENAS) è istituita la Piattaforma nazionale delle liste di attesa, di cui si avvale il Ministero della salute, finalizzata a realizzare l'interoperabilità con le piattaforme per le liste di attesa 
+ ((delle prestazioni sanitarie))
+
+ relative a ciascuna regione e provincia autonoma. L'AGENAS è autorizzata al trattamento dei dati personali relativi alla gestione della Piattaforma. 
  
 
  
@@ -113,7 +122,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Per la realizzazione di quanto previsto dal comma 1, i dati del flusso informativo &laquo;Tessera Sanitaria - TS&raquo; di cui all'articolo 50 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, sono resi disponibili al Ministero della salute e all'AGENAS, secondo le modalità da stabilire con il protocollo di cui al comma 10 del medesimo articolo 50, con particolare riferimento ai dati in chiaro della ricetta SSN dematerializzata e ai dati pseudonimizzati riferiti alla spesa sanitaria che confluiscono nella dichiarazione dei redditi precompilata (modello 730), nonchè ai dati relativi alle prenotazioni resi disponibili dai centri unici di prenotazione (CUP) regionali. 
+ 2. Per la realizzazione di quanto previsto dal comma 1, i dati del flusso informativo 
+ (( del sistema Tessera sanitaria (TS) ))
+
+ di cui all'articolo 50 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, sono resi disponibili al Ministero della salute e all'AGENAS, secondo le modalità da stabilire con il protocollo di cui al comma 10 del medesimo articolo 50, con particolare riferimento ai dati in chiaro della 
+ (( ricetta del Servizio sanitario nazionale (SSN) ))
+
+ dematerializzata e ai dati pseudonimizzati riferiti alla spesa sanitaria che confluiscono nella dichiarazione dei redditi precompilata (modello 730), nonchè ai dati relativi alle prenotazioni resi disponibili dai centri unici di prenotazione (CUP) regionali. 
  
 
  
@@ -121,7 +136,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro della salute, sentita l'AGENAS, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono adottate specifiche linee guida per definire i criteri di realizzazione, di funzionamento e di interoperabilità tra la Piattaforma nazionale e le piattaforme regionali. 
+ 3. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro della salute, sentita l'AGENAS, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono adottate specifiche linee guida per definire 
+ ((i criteri di realizzazione e di funzionamento della Piattaforma nazionale di cui al comma 1 e i criteri di interoperabilità tra la medesima Piattaforma e le piattaforme regionali))
+
+ . 
  
 
  
@@ -129,7 +147,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. La Piattaforma di cui al comma 1 opera in coerenza con il &laquo;Modello Nazionale di Classificazione e Stratificazione della popolazione&raquo; (MCS), sviluppato nell'ambito del sub-investimento 1.3.2, della Missione 6 - Salute, del Piano nazionale di ripresa e resilienza (PNRR) e reso disponibile alle regioni e alle province autonome di Trento e di Bolzano, secondo le modalità individuate con decreto del Ministro della salute, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto. 
+ 4. La Piattaforma di cui al comma 1 opera in coerenza con il &laquo;Modello Nazionale di Classificazione e Stratificazione della popolazione&raquo; (MCS), sviluppato nell'ambito del sub-investimento 1.3.2 
+ ((della Missione 6 - Salute, componente 1,))
+
+ del Piano nazionale di ripresa e resilienza (PNRR) e reso disponibile alle regioni e alle province autonome di Trento e di Bolzano, secondo le modalità individuate con decreto del Ministro della salute, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto. 
  
 
  
@@ -160,7 +181,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) verifica del rispetto del divieto di sospensione o di chiusura delle attività di prenotazione; 
+ c) verifica 
+ ((dei percorsi di tutela previsti dal Piano nazionale di governo delle liste di attesa))
+
+ ; 
  
 
  
@@ -174,7 +198,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) produttività con tasso di saturazione delle risorse umane e tecnologiche; 
+ e) 
+ ((LETTERA SOPPRESSA DALLA L. 29 LUGLIO 2024, N. 107))
+
+ .; 
  
 
  
@@ -188,7 +215,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) appropriatezza nell'accesso alle prestazioni, anche utilizzando piattaforme di intelligenza artificiale, in coerenza con i criteri Raggruppamenti Omogenei di Attesa (RAO) e con le raccomandazioni previste nelle linee guida e suggerite nelle buone pratiche clinico-assistenziali. 
+ g) appropriatezza nell'accesso alle prestazioni, anche utilizzando piattaforme di intelligenza artificiale, in coerenza con i 
+ ((criteri dei Raggruppamenti di attesa omogenea))
+
+ (RAO) e con le raccomandazioni previste nelle linee guida e suggerite nelle buone pratiche clinico-assistenziali. 
  
 
  
@@ -200,6 +230,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  6. A fronte di inefficienze o anomalie emerse a seguito del controllo delle agende di prenotazione, l'AGENAS può attuare meccanismi di audit nei confronti delle regioni nei cui territori insistono le aziende sanitarie e ospedaliere titolari delle suddette agende, con finalità di verifica del corretto funzionamento del sistema di gestione delle liste di attesa. 
+ ((In relazione ai meccanismi di audit previsti al primo periodo, è acquisito il preventivo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano))
+
+ . 
  
 
  
