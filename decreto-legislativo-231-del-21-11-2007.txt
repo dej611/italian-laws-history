@@ -420,9 +420,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- g) 
- ((conti correnti di corrispondenza e rapporti ad essi assimilabili: conti tenuti dalle banche per il regolamento dei servizi interbancari e gli altri rapporti comunque denominati, intrattenuti tra intermediari bancari e finanziari per il regolamento di transazioni per conto dei clienti degli enti corrispondenti, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività;))
+ g) conti correnti di corrispondenza e rapporti ad essi assimilabili: conti tenuti dalle banche per il regolamento dei servizi interbancari e gli altri rapporti comunque denominati, intrattenuti tra intermediari bancari e finanziari per il regolamento di transazioni per conto dei clienti degli enti corrispondenti, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività; 
+ 
 
+ 
  
 
  
@@ -447,15 +448,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- m) 
- ((conti di passaggio: rapporti di corrispondenza transfrontalieri, intrattenuti tra intermediari bancari e finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività;))
-
+ m) conti di passaggio: rapporti di corrispondenza transfrontalieri, intrattenuti tra intermediari bancari e finanziari, utilizzati per effettuare operazioni in nome proprio e per conto della clientela, inclusi i rapporti per lo svolgimento di operazioni in cripto-attività o trasferimenti di cripto-attività; 
  
 
  
- m-bis) 
- ((cripto-attività: cripto-attività quale definita all'articolo 3, paragrafo 1, punto 5), del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023, tranne quando rientra nelle categorie di cui all'articolo 2, paragrafi 2, 3 e 4, del medesimo regolamento o è altrimenti qualificata come fondi;))
+ 
 
+ 
+ m-bis) cripto-attività: cripto-attività quale definita all'articolo 3, paragrafo 1, punto 5), del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023, tranne quando rientra nelle categorie di cui all'articolo 2, paragrafi 2, 3 e 4, del medesimo regolamento o è altrimenti qualificata come fondi; 
+ 
+
+ 
  
 
  
@@ -477,6 +480,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ p-bis) 
+ ((finanziamento dei programmi di proliferazione delle armi di distruzione di massa: il finanziamento dei programmi di proliferazione delle armi di distruzione di massa, quale definito all'articolo 1, comma 1, lettera e), del decreto legislativo 22 giugno 2007, n. 109, ove non diversamente stabilito.))
+
  
 
  
@@ -528,10 +537,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- t) operazione: l'attività consistente nella movimentazione, nel trasferimento o nella trasmissione di mezzi di pagamento 
- ((o di cripto-attività))
-
- o nel compimento di atti negoziali a contenuto patrimoniale; costituisce operazione anche la stipulazione di un atto negoziale, a contenuto patrimoniale, rientrante nell'esercizio dell'attività professionale o commerciale; 
+ t) operazione: l'attività consistente nella movimentazione, nel trasferimento o nella trasmissione di mezzi di pagamento o di cripto-attività o nel compimento di atti negoziali a contenuto patrimoniale; costituisce operazione anche la stipulazione di un atto negoziale, a contenuto patrimoniale, rientrante nell'esercizio dell'attività professionale o commerciale; 
  
 
  
@@ -566,10 +572,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- bb) Paesi terzi ad alto rischio: Paesi non appartenenti all'Unione europea i cui ordinamenti presentano carenze strategiche nei rispettivi regimi nazionali di prevenzione del riciclaggio e del finanziamento del terrorismo, per come individuati dalla Commissione europea nell'esercizio dei poteri di cui agli articoli 9 e 64 della direttiva; 
- 
+ bb) 
+ ((Paesi terzi ad alto rischio: Paesi i cui ordinamenti presentano carenze strategiche nei rispettivi regimi nazionali di prevenzione del riciclaggio e del finanziamento del terrorismo, per come individuati dalla Commissione europea nell'esercizio dei poteri di cui agli articoli 9 e 64 della direttiva o dal Ministero dell'economia e delle finanze nell'esercizio del potere di cui all'articolo 4, comma 4-bis, del presente decreto;))
 
- 
  
 
  
@@ -651,20 +656,14 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ff) 
- ((LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204))
-
- ; 
+ ff) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
  
 
  
  
 
  
- ff-bis) 
- ((LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204))
-
- ; 
+ ff-bis) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
  
 
  
@@ -685,17 +684,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ii) punto di contatto centrale: il soggetto o la struttura, stabilito nel territorio della Repubblica, designato dagli istituti di moneta elettronica, quali definiti all'articolo 2, primo paragrafo, punto 3), della direttiva 2009/110/CE, o dai prestatori di servizi di pagamento, quali definiti all'articolo 4, punto 11), della direttiva 2015/2366/CE, con sede legale e amministrazione centrale in altro Stato membro, che operano, senza succursale, sul territorio nazionale tramite i soggetti convenzionati e gli agenti di cui alla lettera nn); 
+ ii) 
+ ((punto di contatto centrale: il soggetto o la struttura, stabilito nel territorio della Repubblica, designato dagli istituti di moneta elettronica, quali definiti all'articolo 2, primo paragrafo, punto 3), della direttiva 2009/110/CE, o dai prestatori di servizi di pagamento, quali definiti all'articolo 4, punto 11), della direttiva 2015/2366/CE, o dai prestatori di servizi per le cripto-attività di cui all'articolo 3, comma 2, lettera v-bis), con sede legale e amministrazione centrale in altro Stato membro, che operano, senza succursale, sul territorio nazionale;))
+
  
 
  
- 
-
- 
- ll) rapporto continuativo: un rapporto di durata, rientrante nell'esercizio dell'attività di istituto svolta dai soggetti obbligati 
- ((...))
-
- ; 
+ ll) rapporto continuativo: un rapporto di durata, rientrante nell'esercizio dell'attività di istituto svolta dai soggetti obbligati; 
  
 
  
@@ -709,9 +704,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- mm-bis) 
- ((servizi per le cripto-attività: i servizi quali definiti all'articolo 3, paragrafo 1, punto 16), del regolamento (UE) 2023/1114;))
+ mm-bis) servizi per le cripto-attività: i servizi quali definiti all'articolo 3, paragrafo 1, punto 16), del regolamento (UE) 2023/1114; 
+ 
 
+ 
  
 
  
@@ -729,15 +725,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- pp) titolare effettivo: la persona fisica o le persone fisiche, diverse dal cliente, nell'interesse della quale o delle quali, in ultima istanza, il rapporto continuativo è istaurato, la prestazione professionale è resa o l'operazione è eseguita; 
- 
-
- 
- 
-
- 
- qq) 
- ((LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204))
+ oo-bis) 
+ ((sanzioni finanziarie mirate: il congelamento dei beni e il divieto di mettere a disposizione, direttamente o indirettamente, fondi, risorse economiche o altri beni a beneficio di persone ed entità designate a norma delle decisioni del Consiglio, adottate sulla base dell'articolo 29 del Trattato sull'Unione europea (TUE), e dei regolamenti del Consiglio adottati sulla base dell'articolo 215 del Trattato sul funzionamento dell'Unione Europea (TFUE) e in base alla normativa nazionale))
 
  ; 
  
@@ -746,8 +735,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- qq-bis) 
- ((indirizzo auto-ospitato: un indirizzo auto-ospitato quale definito all'articolo 3, punto 20), del regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023.))
+ pp) titolare effettivo: la persona fisica o le persone fisiche, diverse dal cliente, nell'interesse della quale o delle quali, in ultima istanza, il rapporto continuativo è istaurato, la prestazione professionale è resa o l'operazione è eseguita; 
+ 
+
+ 
+ 
+
+ 
+ qq) LETTERA ABROGATA DAL D.LGS. 27 DICEMBRE 2024, N. 204; 
+ 
+
+ 
+ 
+
+ 
+ qq-bis) indirizzo auto-ospitato: un indirizzo auto-ospitato quale definito all'articolo 3, punto 20), del regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023. 
+ 
+
+ 
+ 
+
+ 
+ qq-ter) 
+ ((sportelli automatici per le cripto-attività: gli sportelli automatici come definiti dall'articolo 3, punto 17), del regolamento (UE) 2023/1113.))
 
  
 
