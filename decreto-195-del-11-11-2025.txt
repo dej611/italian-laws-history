@@ -1,0 +1,351 @@
+IL MINISTRO DELLA GIUSTIZIA
+
+ 
+ 
+ 
+ Vista la legge 23 agosto 1988, n. 400, recante &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri&raquo; e, in particolare, l'articolo 17, comma 3;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 16 febbraio 1913, n. 89, recante &laquo;Ordinamento del notariato e degli archivi notarili&raquo; e, in particolare, l'articolo 65;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regio decreto 10 settembre 1914, n. 1326, recante &laquo;Approvazione del regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, riguardante l'ordinamento del notariato e degli archivi notarili&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 17 maggio 1952, n. 629, recante &laquo;Riordinamento degli Archivi notarili&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 28 luglio 1961, n. 723, recante &laquo;Aggiornamento degli organici del personale degli Archivi notarili&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 27 giugno 1991, n. 220, recante &laquo;Modificazioni all'ordinamento della Cassa nazionale del notariato e all'ordinamento del Consiglio nazionale del notariato&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, recante &laquo;Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonchè alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati);
+
+ 
+ 
+ 
+
+ 
+ Sentito il Consiglio nazionale del notariato il 7 novembre 2024;
+
+ 
+
+ 
+ Sentito il Garante per la protezione dei dati personali che si è espresso con parere n. 724, in data 21 novembre 2024;
+
+ 
+
+ 
+ Sentita l'Agenzia per l'Italia digitale il 9 maggio 2025;
+
+ 
+
+ 
+ Udito il parere n. 962/2025 del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 26 agosto 2025;
+
+ 
+
+ 
+ 
+ 
+ Vista la comunicazione alla Presidenza del Consiglio dei ministri in data 15 ottobre 2025;
+
+ 
+ 
+ 
+
+ 
+ Di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione;
+
+ 
+
+ Adotta
+
+ il seguente regolamento:
+
+ Art. 1
+
+ Definizioni
+
+ 
+ 
+ 
+ 
+ 1. Ai fini del presente decreto si intende per: 
+ 
+
+ 
+ 
+
+ 
+ a) &laquo;Ministero&raquo;: il Ministero della giustizia; 
+ 
+
+ 
+ 
+
+ 
+ b) &laquo;legge notarile&raquo;: la legge 16 febbraio 1913, n. 89; 
+ 
+
+ 
+ 
+
+ 
+ c) &laquo;CAD&raquo;: il Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82; 
+ 
+
+ 
+ 
+
+ 
+ d) &laquo;regolamento notarile&raquo;: il regio decreto 10 settembre 1914, n. 1326, recante il regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, riguardante l'ordinamento del notariato e degli archivi notarili; 
+ 
+
+ 
+ 
+
+ 
+ e) &laquo;archivio centrale&raquo;: l'archivio centrale informatico di cui all'articolo 65 della legge n. 89 del 1913; 
+ 
+
+ 
+ 
+
+ 
+ f) &laquo;dominio giustizia&raquo;: l'insieme delle risorse hardware e software, mediante il quale il Ministero della giustizia tratta in via informatica e telematica qualsiasi tipo di attività, di dato, di servizio, di comunicazione e di procedura; 
+ 
+
+ 
+ 
+
+ 
+ g) &laquo;dominio del notariato&raquo;: l'insieme delle risorse hardware e software, mediante il quale il Consiglio nazionale del notariato gestisce in via informatica e telematica qualsiasi tipo di attività, di dato, di servizio, di comunicazione e di procedura; 
+ 
+
+ 
+ 
+
+ 
+ h) &laquo;portale dei servizi telematici&raquo;: la piattaforma informatica che fornisce l'accesso o il collegamento ai servizi telematici resi disponibili dal dominio giustizia, secondo le regole tecnico-operative riportate nel decreto ministeriale 21 febbraio 2011, n. 44; 
+ 
+
+ 
+ 
+
+ 
+ i) &laquo;sistema informatico&raquo;: il sistema informatico dell'archivio centrale informatico previsto dall'articolo 65 della legge n. 89 del 1913; 
+ 
+
+ 
+ 
+
+ 
+ l) &laquo;area riservata ai soggetti legittimati&raquo;: la sezione del sistema informatico alla quale accedono singolarmente i soggetti legittimati all'invio dei fascicoli digitali, contenente tutti i documenti e i servizi forniti ai medesimi soggetti legittimati; 
+ 
+
+ 
+ 
+
+ 
+ m) &laquo;area riservata all'amministrazione&raquo;: la sezione del portale dei servizi telematici nella quale sono resi disponibili i documenti e i servizi forniti ai soggetti abilitati interni; 
+ 
+
+ 
+ 
+
+ 
+ n) &laquo;soggetti legittimati&raquo;: i soggetti legittimati alla sottoscrizione e trasmissione dei documenti contenenti gli adempimenti disciplinati dal presente decreto; 
+ 
+
+ 
+ 
+
+ 
+ o) &laquo;soggetti abilitati interni&raquo;: il personale dell'amministrazione degli archivi notarili; 
+ 
+
+ 
+ 
+
+ 
+ p) &laquo;accesso&raquo;: l'operazione che consente di consultare i dati e i documenti conservati nel sistema informatico mediante visualizzazione, download e stampa di dati e documenti informatici; 
+ 
+
+ 
+ 
+
+ 
+ q) &laquo;elaborazione&raquo;: l'operazione di trattamento dei dati per monitoraggi, statistiche e ogni altra finalità consentita dalla legge; 
+ 
+
+ 
+ 
+
+ 
+ r) &laquo;immissione:&raquo;: l'operazione di inserimento di dati e documenti nel sistema informatico per le finalità per cui esso è istituito; 
+ 
+
+ 
+ 
+
+ 
+ s) &laquo;aggiornamento&raquo;: l'operazione di trattamento che consente di modificare o di cancellare i dati contenuti nel sistema informatico; 
+ 
+
+ 
+ 
+
+ 
+ t) &laquo;interrogazione&raquo;: l'operazione di collegamento con il sistema informativo al fine di effettuare le operazioni di accesso, immissione e aggiornamento relative ai dati e ai documenti conservati nel sistema stesso; 
+ 
+
+ 
+ 
+
+ 
+ u) &laquo;Ufficio centrale&raquo;: l'Ufficio centrale degli archivi notarili. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ 
+ 
+
+ Avvertenza: 
+ 
+
+ Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunità europee (GUUE). 
+ 
+
+ 
+ 
+
+ Note alle premesse: 
+ 
+
+ - Si riporta l'art. 17, comma 3, della legge 23 agosto 1988, n. 400, (Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ 
+
+ &laquo;Art. 17 (Regolamenti). - 1. e 2. (Omissis). 
+ 
+
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorità sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di più ministri, possono essere adottati con decreti interministeriali, ferma restando la necessità di apposita autorizzazione da parte della legge.
+ 
+
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 
+
+ 4. - 4-ter. (Omissis).&raquo;. 
+ 
+
+ - Si riporta l'art. 65 della legge 16 febbraio 1913, n. 89 (Ordinamento del notariato e degli archivi notarili): 
+ 
+
+ &laquo;Art. 65. - Il notaro ha l'obbligo di trasmettere all'archivio notarile distrettuale, ogni mese, una copia dei repertori limitatamente alle annotazioni degli atti ricevuti nel mese precedente, con l'importo delle tasse dovute all'archivio, compresa la parte del diritto di iscrizione a repertorio di che all'art. 24 dell'annessa tariffa. 
+ 
+
+ Tale copia sarà scritta in carta libera, sottoscritta dal notaro, e munita dell'impronta del suo sigillo. 
+ 
+
+ Qualora nel mese il notaro non abbia ricevuto alcun atto, trasmetterà, sempre nel termine suindicato, un certificato negativo. 
+ 
+
+ A decorrere dalla data stabilita con il decreto di cui al nono comma, il notaio trasmette in via telematica all'Ufficio centrale degli archivi notarili, in formato digitale, per l'inserimento nell'archivio centrale informatico, la copia mensile dei repertori, di cui al primo comma, nonchè la copia trimestrale del registro somme e valori, ovvero la certificazione negativa, ed ogni altra documentazione connessa ed esegue i versamenti ai quali è tenuto, a mezzo degli archivi notarili distrettuali, su conto corrente postale gestito dall'Ufficio centrale. 
+ 
+
+ L'Amministrazione degli archivi notarili versa, nei termini previsti per gli archivi notarili distrettuali dalla normativa vigente, le somme riscosse per conto del Consiglio nazionale del notariato e della Cassa nazionale del notariato, trattenendo un aggio nella misura del 2 per cento. 
+ 
+
+ Il controllo della liquidazione delle tasse e dei contributi e degli importi versati dai notai e l'applicazione e la riscossione delle sanzioni previste per tardivo o mancato pagamento spetta all'archivio notarile distrettuale. 
+ 
+
+ I dati estratti dalle copie dei repertori tenuti nell'archivio centrale informatico sostituiscono l'indice delle parti intervenute negli atti, previsto dall'art. 114. 
+ 
+
+ L'Amministrazione degli archivi notarili provvede alla dematerializzazione delle copie mensili di cui al presente articolo conservate su supporto cartaceo dagli archivi notarili. 
+ 
+
+ Con uno o più decreti del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze e il Ministro per la semplificazione e la pubblica amministrazione, sentiti il Consiglio nazionale del notariato, il Garante per la protezione dei dati personali e l'Agenzia per l'Italia digitale, sono determinate, nel rispetto del codice di cui al decreto legislativo 7 marzo 2005, n. 82, le norme di attuazione delle disposizioni che riguardano le modalità di formazione e trasmissione telematica delle copie di cui al quarto comma, i versamenti di cui al quarto e quinto comma, la conservazione, la ricerca e la consultazione dei documenti e dei dati inseriti nell'archivio centrale informatico. Sono altresì stabilite le date di entrata in vigore delle predette disposizioni e le date della cessazione dell'obbligo di eseguire i corrispondenti adempimenti presso gli archivi notarili distrettuali.&raquo;. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Per l'art. 65 della citata legge 16 febbraio 1913, n. 89, si veda nelle note alle premesse. 
+ 
+
+ - Il decreto del Ministro della giustizia 21 febbraio 2011, n. 44, recante: &laquo;Regolamento concernente le regole tecniche per l'adozione nel processo civile e nel processo penale, delle tecnologie dell'informazione e della comunicazione, in attuazione dei principi previsti daldecreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, ai sensi dell'art. 4, commi 1 e 2, del decreto-legge 29 dicembre 2009, n. 193, convertito nella legge 22 febbraio 2010, n. 24&raquo;, è pubblicato nella Gazzetta Ufficiale 18 aprile 2011, n. 89.
