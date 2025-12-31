@@ -114,7 +114,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  2) la preparazione, nonchè la dispensazione al domicilio delle miscele per la nutrizione artificiale e dei medicinali antidolorifici, nel rispetto delle relative norme di buona preparazione e di buona pratica di distribuzione dei medicinali e nel rispetto delle prescrizioni e delle limitazioni stabilite dalla vigente normativa; 
  
 
- 3) la dispensazione per conto delle strutture sanitarie dei farmaci a distribuzione diretta; 
+ 3) 
+ ((la dispensazione per conto delle strutture sanitarie dei farmaci e dei dispositivi medici necessari al trattamento dei pazienti in assistenza domiciliare, residenziale e semiresidenziale))
+
+ ; 
  
 
  4) la messa a disposizione di operatori socio-sanitari, di infermieri e di fisioterapisti, per la effettuazione, a domicilio, di specifiche prestazioni professionali richieste dal medico di famiglia o dal pediatra di libera scelta, fermo restando che le prestazioni infermieristiche o fisioterapiche che possono essere svolte presso la farmacia, sono limitate a quelle di cui alla lettera d) e alle ulteriori prestazioni, necessarie allo svolgimento dei nuovi compiti delle farmacie, individuate con decreto del Ministro del lavoro, della salute e delle politiche sociali, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; 
@@ -145,7 +148,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- e) l'effettuazione, presso le farmacie, nell'ambito dei servizi di secondo livello di cui alla lettera d), di prestazioni analitiche di prima istanza rientranti nell'ambito dell'autocontrollo, nei limiti e alle condizioni stabiliti con decreto di natura non regolamentare del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, restando in ogni caso esclusa l'attività di prescrizione e diagnosi, nonchè il prelievo di sangue o di plasma mediante siringhe o dispositivi equivalenti; 
+ e) l'effettuazione, presso le farmacie, nell'ambito dei servizi di secondo livello di cui alla lettera d), di prestazioni analitiche di prima istanza 
+ ((...))
+
+ , nei limiti e alle condizioni stabiliti con decreto di natura non regolamentare del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, restando in ogni caso esclusa l'attività di prescrizione e diagnosi, nonchè il prelievo di sangue o di plasma mediante siringhe o dispositivi equivalenti; 
  
 
  
@@ -166,12 +172,44 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((e-quater) la somministrazione, con oneri a carico degli assistiti, presso le farmacie, da parte di farmacisti opportunamente formati a seguito del superamento di specifico corso abilitante e di successivi aggiornamenti annuali, organizzati dall'Istituto superiore di sanità, di vaccini anti SARS-CoV-2 e di vaccini antinfluenzali nei confronti dei soggetti di età non inferiore a diciotto anni, previa presentazione di documentazione comprovante la pregressa somministrazione di analoga tipologia di vaccini, nonchè l'effettuazione di test diagnostici che prevedono il prelevamento del campione biologico a livello nasale, salivare o orofaringeo, da effettuare in aree, locali o strutture, anche esterne, dotate di apprestamenti idonei sotto il profilo igienico-sanitario e atti a garantire la tutela della riservatezza. Le aree, i locali o le strutture esterne alla farmacia devono essere compresi nella circoscrizione farmaceutica prevista nella pianta organica di pertinenza della farmacia stessa))
+ e-quater) 
+ ((la somministrazione presso le farmacie, da parte di farmacisti opportunamente formati a seguito del superamento di specifico corso abilitante e di successivi aggiornamenti annuali, organizzati dall'Istituto superiore di sanità, di vaccini individuati dal Piano nazionale di prevenzione vaccinale nei confronti dei soggetti di età non inferiore a dodici anni, nonchè l'effettuazione di test diagnostici che prevedono il prelevamento del campione biologico a livello nasale, salivare o orofaringeo, da effettuare in aree, locali o strutture, anche esterne, dotati di apprestamenti idonei sotto il profilo igienico-sanitario e atti a garantire la tutela della riservatezza. Le aree, i locali o le strutture esterne alla farmacia devono essere compresi nella circoscrizione farmaceutica prevista nella pianta organica di pertinenza della farmacia stessa))
+
+ ; 
+ ((5))
 
  
 
  
- f) la effettuazione di attività attraverso le quali nelle farmacie gli assistiti possano prenotare prestazioni di assistenza specialistica ambulatoriale presso le strutture sanitarie pubbliche e private accreditate, e provvedere al pagamento delle relative quote di partecipazione alla spesa a carico del cittadino, nonchè ritirare i referti relativi a prestazioni di assistenza specialistica ambulatoriale effettuate presso le strutture sanitarie pubbliche e private accreditate; tali modalità sono fissate, nel rispetto delle previsioni contenute nel decreto legislativo 23 giugno 2003, n. 196, recante il codice in materia protezione dei dati personali, e in base a modalità, regole tecniche e misure di sicurezza, con decreto, di natura non regolamentare, del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito il Garante per la protezione dei dati personali. 
+ e-quinquies) 
+ ((l'effettuazione da parte del farmacista di test diagnostici decentrati, a supporto del medico di medicina generale e del pediatra di libera scelta ai fini dell'appropriatezza prescrittiva, per il contrasto all'antibiotico-resistenza;))
+
+ ((5))
+
+ 
+
+ 
+ e-sexies) 
+ ((l'effettuazione da parte del farmacista, nei limiti delle proprie competenze professionali, dei servizi di telemedicina nel rispetto dei requisiti funzionali e dei livelli di servizio indicati nelle linee guida nazionali;))
+
+ ((5))
+
+ 
+
+ 
+ e-septies) 
+ ((l'esecuzione in farmacia, da parte di personale abilitato, di test di screening per l'individuazione del virus dell'epatite C))
+
+ ; 
+ ((5))
+
+ 
+
+ 
+ f) la effettuazione di attività attraverso le quali nelle farmacie gli assistiti possano prenotare prestazioni di assistenza specialistica ambulatoriale presso le strutture sanitarie pubbliche e private accreditate, e provvedere al pagamento delle relative quote di partecipazione alla spesa a carico del cittadino, 
+ ((scegliere il medico di medicina generale e il pediatra di libera scelta tra quelli convenzionati con il servizio sanitario regionale,))
+
+ nonchè ritirare i referti relativi a prestazioni di assistenza specialistica ambulatoriale effettuate presso le strutture sanitarie pubbliche e private accreditate; tali modalità sono fissate, nel rispetto delle previsioni contenute nel decreto legislativo 23 giugno 2003, n. 196, recante il codice in materia protezione dei dati personali, e in base a modalità, regole tecniche e misure di sicurezza, con decreto, di natura non regolamentare, del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito il Garante per la protezione dei dati personali. 
  
 
  
@@ -198,4 +236,24 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Il Servizio sanitario nazionale promuove la collaborazione interprofessionale dei farmacisti delle farmacie pubbliche e private operanti in convenzione con il Servizio sanitario nazionale con i medici di medicina generale e i pediatri di libera scelta, in riferimento alle attività di cui al comma 2.
+ 5. Il Servizio sanitario nazionale promuove la collaborazione interprofessionale dei farmacisti delle farmacie pubbliche e private operanti in convenzione con il Servizio sanitario nazionale con i medici di medicina generale e i pediatri di libera scelta, in riferimento alle attività di cui al comma 2. 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ ------------
+
+ AGGIORNAMENTO (5)
+
+ 
+ 
+
+ La L. 2 dicembre 2025, n. 182 ha disposto (con l'art. 60, comma 2) che "Le prestazioni erogate dalle farmacie ai sensi dell'articolo 1, comma 2, lettere da e-quater) a e-septies), del decreto legislativo 3 ottobre 2009, n. 153, rispettivamente modificata e introdotte dal comma 1 del presente articolo, sono a carico degli utenti".
