@@ -72,10 +72,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia 
- ((o il Comitato di Risoluzione Unico stabilito dal regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio, nell'ambito del riparto di competenze definite dal medesimo regolamento,))
-
- nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione; 
+ a-bis) &laquo;autorità di risoluzione&raquo; indica la Banca d'Italia o il Comitato di Risoluzione Unico stabilito dal regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio, nell'ambito del riparto di competenze definite dal medesimo regolamento, nonchè un'autorità non italiana deputata allo svolgimento delle funzioni di risoluzione; 
  
 
  
@@ -89,12 +86,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ b-bis) &laquo;BCE&raquo; indica la Banca centrale europea; 
+ 
 
- b-bis) &laquo;BCE&raquo; indica la Banca centrale europea;
-
- ))
-
+ 
  
 
  
@@ -147,12 +142,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
+ e-quinquies) &laquo;MRU&raquo;: indica il Meccanismo di risoluzione unico, ossia il sistema di risoluzione istituito ai sensi del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio, composto dal Comitato di Risoluzione Unico e dalle autorità nazionali di risoluzione degli Stati membri che vi partecipano; 
+ 
 
- e-quinquies) &laquo;MRU&raquo;: indica il Meccanismo di risoluzione unico, ossia il sistema di risoluzione istituito ai sensi del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio, composto dal Comitato di Risoluzione Unico e dalle autorità nazionali di risoluzione degli Stati membri che vi partecipano;
-
- ))
-
+ 
  
 
  
@@ -281,10 +274,9 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- c) "banca di Stato terzo": la banca avente sede legale in uno Stato terzo; 
- 
+ c) 
+ (("banca di Stato terzo": ogni impresa avente sede legale in uno Stato terzo in cui è autorizzata a prestare una o più attività per le quali, se fosse stabilita in Italia, dovrebbe essere autorizzata ai sensi dell'articolo 14 o dell'articolo 20-bis.1 del decreto legislativo 24 febbraio 1998, n. 58;))
 
- 
  
 
  
