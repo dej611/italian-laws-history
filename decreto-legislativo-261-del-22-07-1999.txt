@@ -143,7 +143,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  c) la distribuzione all'indirizzo indicato sull'invio; 
  
 
- c) "punti di accesso": ubicazioni fisiche comprendenti in particolare gli uffici postali e le cassette postali messe a disposizione del pubblico, o sulla via pubblica o nei locali del fornitore del servizio universale o dei fornitori dei servizi postali dove gli invii postali possono essere depositati dai mittenti nella rete postale; 
+ c) 
+ (("punti di accesso": ubicazioni fisiche comprendenti, tra l'altro, sportelli e cassette postali messi a disposizione del pubblico dal fornitore del servizio universale))
+
+ ; 
  
 
  
@@ -171,19 +174,20 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- ((
-
- 
  f-bis) "invio di posta prioritaria": servizio espresso di corrispondenza non massiva verso qualsiasi località del territorio nazionale ed estero per il quale sono fissati obiettivi medi per il recapito da effettuare entro il giorno lavorativo successivo a quello di inoltro nella rete pubblica postale; 
  
 
  
  
 
- f-ter) "invio di corrispondenza ordinaria": servizio base di corrispondenza non massiva verso qualsiasi località del territorio nazionale ed estero per il quale sono fissati obiettivi medi per il recapito da effettuare entro il quarto giorno lavorativo successivo a quello di inoltro nella rete pubblica postale;
+ 
+ f-ter) "invio di corrispondenza ordinaria": servizio base di corrispondenza non massiva verso qualsiasi località del territorio nazionale ed estero 
+ ((...))
 
- ))
+ ; 
+ 
 
+ 
  
 
  
