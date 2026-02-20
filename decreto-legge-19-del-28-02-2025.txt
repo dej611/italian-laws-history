@@ -191,7 +191,16 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Per l'anno 2025, ai fini del riconoscimento di un contributo straordinario del valore di 200 euro sulle forniture di energia elettrica dei clienti domestici con valori dell'indicatore della situazione economica equivalente (ISEE) fino a 25.000 euro, si provvede con delibera dell'Autorità di regolazione per energia, reti e ambiente, nel limite delle risorse disponibili, necessarie a garantire la relativa copertura, a qualsiasi titolo sul bilancio della Cassa per i servizi energetici e ambientali. 
+ 1. Per l'anno 2025, ai fini del riconoscimento di un contributo straordinario del valore di 200 euro sulle forniture di energia elettrica dei clienti domestici con valori dell'indicatore della situazione economica equivalente (ISEE) fino a 25.000 euro, si provvede con 
+ ((deliberazione))
+
+ dell'Autorità di regolazione per energia, reti e ambiente 
+ (( (ARERA) ))
+
+ , nel limite delle risorse disponibili, necessarie a garantire la relativa copertura, a qualsiasi titolo sul bilancio della Cassa per i servizi energetici e ambientali 
+ ((, al netto di quelle destinate alle finalità di cui all'articolo 3, comma 5))
+
+ . 
  
 
  
@@ -207,4 +216,32 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Entro il 10 aprile 2025, le risorse già trasferite al Gestore dei Servizi Energetici ai fini della salvaguardia del relativo equilibrio economico-finanziario, ai sensi della deliberazione 113/2024/R/eel dell'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) in attuazione dei decreti del Ministro della Transizione ecologica del 22 giugno 2022, n. 253, e del 20 luglio 2022, n. 287, comprensive degli eventuali interessi maturati, sono restituite alla Cassa per i servizi energetici e ambientali per essere destinate alle finalità di cui al comma 1.
+ 3. Entro il 10 aprile 2025, le risorse già trasferite al Gestore dei Servizi Energetici ai fini della salvaguardia del relativo equilibrio economico-finanziario, ai sensi della 
+ ((deliberazione dell'ARERA n. 113/2024/R/com del 28 marzo 2024, in attuazione dei decreti del Ministro della transizione ecologica n. 253 del 22 giugno 2022 e n. 287 del 20 luglio 2022))
+
+ , comprensive degli eventuali interessi maturati, sono restituite alla Cassa per i servizi energetici e ambientali per essere destinate alle finalità di cui al comma 1. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 3-bis. 
+ ((All'articolo 1 della legge 30 dicembre 2024, n. 207, sono apportate le seguenti modificazioni:))
+
+ 
+
+ 
+ a) 
+ ((al comma 107, le parole da: "non inferiore alla nuova classe energetica B, prodotti nel territorio dell'Unione europea con contestuale smaltimento dell'elettrodomestico sostituito" sono sostituite dalle seguenti: ", individuati con il decreto di cui al comma 110 e prodotti in uno stabilimento collocato nel territorio dell'Unione europea, con corrispondente smaltimento dell'elettrodomestico sostituito di classe energetica inferiore a quella dell'elettrodomestico di nuovo acquisto";))
+
+ 
+
+ 
+ b) 
+ ((al comma 109 sono aggiunti, in fine, i seguenti periodi: "La gestione del contributo è operata mediante la piattaforma informatica di cui all'articolo 28-bis del decreto-legge 6 novembre 2021, n. 152, convertito, con modificazioni, dalla legge 29 dicembre 2021, n. 233, gestita dalla società PagoPA S.p.a. Le attività istruttorie, di verifica, controllo e gestione delle risorse finanziarie sono svolte dall'Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa S.p.a. - Invitalia. I predetti gestori operano sulla base di convenzioni stipulate con il Ministero delle imprese e del made in Italy, nelle quali è ripartito il compenso spettante a ciascun gestore, comunque nel limite complessivo del 3,8 per cento a valere sulle risorse di cui al presente comma"))
+
+ .
