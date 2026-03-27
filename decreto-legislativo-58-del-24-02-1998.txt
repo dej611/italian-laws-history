@@ -231,10 +231,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  i-quater) società di investimento semplice (SiS): il FIA italiano costituito in forma di Sicaf che rispetta tutte le seguenti condizioni: 
  
 
- 1) il patrimonio netto non eccede 
- ((euro 50 milioni))
-
- ; 
+ 1) il patrimonio netto non eccede euro 50 milioni; 
  
 
  2) ha per oggetto esclusivo l'investimento diretto del patrimonio raccolto in PMI non quotate su mercati regolamentati di cui all'articolo 2 paragrafo 1, lettera f), primo alinea, del regolamento (UE) 2017/1129 del Parlamento europeo e del Consiglio del 14 giugno 2017 che si trovano nella fase di sperimentazione, di costituzione e di avvio dell'attività, in deroga all'articolo 35-bis, comma 1, lettera f); 
@@ -257,10 +254,12 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, inclusi quelli erogati , a favore di soggetti diversi da consumatori, a valere sul patrimonio dell'OICR, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; (60) 
- 
+ k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, inclusi quelli erogati 
+ ((...))
 
- 
+ a valere sul patrimonio dell'OICR, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; (60) 
+ ((132))
+
  
 
  
@@ -551,7 +550,23 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- w-septies) "depositari centrali di titoli o depositari centrali": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli. (73) 
+ w-septies) "depositari centrali di titoli o depositari centrali": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli; (73) 
+ 
+
+ 
+ 
+
+ 
+ w-octies) "Definizioni relative alle obbligazioni verdi europee" o "EuGB" ai sensi del regolamento (UE) 2023/2631 del Parlamento europeo e del Consiglio, del 22 novembre 2023: 
+ 
+
+ 1) "obbligazione verde europea" o "EuGB": la denominazione disciplinata al regolamento (UE) 2023/2631 del Parlamento europeo e del Consiglio, del 22 novembre 2023; 
+ 
+
+ 2) "obbligazione commercializzata come ecosostenibile": un'obbligazione di cui all'articolo 2, numero 5), del regolamento (UE) 2023/2631; 
+ 
+
+ 3) "obbligazione legata alla sostenibilità": un'obbligazione di cui all'articolo 2, numero 6) del regolamento (UE) 2023/2631. 
  
 
  
@@ -779,7 +794,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  5-bis. Per "negoziazione per conto proprio" si intende l'attività di acquisto e vendita di strumenti finanziari, in contropartita diretta.(73) 
  
 
- 5-bis.1. Per "sistema multilaterale" si intende un sistema che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari. (73) 
+ 5-bis.1. Per "sistema multilaterale" si intende un sistema multilaterale come definito dall'articolo 2, paragrafo 1, punto 11, del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014. 
  
 
  
@@ -787,7 +802,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5-ter. Per "internalizzatore sistematico" si intende l'impresa di investimento che in modo organizzato, frequente, sistematico e sostanziale negozia per conto proprio eseguendo gli ordini dei clienti al di fuori di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione senza gestire un sistema multilaterale. Il modo frequente e sistematico si misura per numero di negoziazioni fuori listino (OTC) su strumenti finanziari effettuate per conto proprio eseguendo gli ordini dei clienti. Il modo sostanziale si misura per dimensioni delle negoziazioni OTC effettuate dal soggetto su uno specifico strumento finanziario in relazione al totale delle negoziazioni effettuate sullo strumento finanziario dal soggetto medesimo o all'interno dell'Unione europea. (73) 
+ 5-ter. Per "internalizzatore sistematico" si intende l'impresa di investimento che in modo organizzato, frequente e sistematico negozia per conto proprio in strumenti di capitale eseguendo gli ordini dei clienti al di fuori di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione senza gestire un sistema multilaterale, ovvero che opta per lo status di internalizzatore sistematico. 
  
 
  
@@ -1374,4 +1389,17 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
 
- Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+ 
+
+ 
+
+ 
+ ---------------
+
+ AGGIORNAMENTO (132)
+
+ 
+ 
+
+ Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
