@@ -201,7 +201,22 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Al fine di rafforzare il monitoraggio sul conseguimento dei traguardi e obiettivi finali del Piano nazionale di ripresa e resilienza (PNRR), i soggetti attuatori degli interventi provvedono a rendere disponibile, entro il decimo giorno di ciascun mese, sul sistema informatico &laquo;ReGiS&raquo; di cui all'articolo 1, comma 1043, della legge 30 dicembre 2020, n. 178, il cronoprogramma procedurale e finanziario aggiornato di ciascun intervento, unitamente al relativo stato di avanzamento finanziario e procedurale rilevato alla fine del mese precedente, con l'attestazione sull'effettiva capacità di conseguimento dell'obiettivo PNRR assegnato all'intervento, ovvero l'evidenza dell'esistenza di eventuali criticità rispetto a tale conseguimento, anche ai fini dell'attivazione della procedura per l'esercizio dei poteri sostituivi prevista dall'articolo 12 del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108. 
+ 1. Al fine di rafforzare il monitoraggio sul conseguimento dei traguardi e 
+ ((degli))
+
+ obiettivi finali del Piano nazionale di ripresa e resilienza (PNRR), i soggetti attuatori degli interventi provvedono a rendere disponibile, entro il decimo giorno di ciascun mese, 
+ ((nel sistema))
+
+ informatico &laquo;ReGiS&raquo; di cui all'articolo 1, comma 1043, della legge 30 dicembre 2020, n. 178, il cronoprogramma procedurale e finanziario aggiornato di ciascun intervento, unitamente al relativo stato di avanzamento finanziario e procedurale rilevato alla fine del mese precedente, con l'attestazione 
+ ((dell'effettiva))
+
+ capacità di conseguimento 
+ ((dell'obiettivo del PNRR))
+
+ assegnato all'intervento, ovvero l'evidenza dell'esistenza di eventuali criticità rispetto a tale conseguimento, anche ai fini dell'attivazione della procedura per l'esercizio dei poteri 
+ ((sostitutivi))
+
+ prevista dall'articolo 12 del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108. 
  
 
  
@@ -209,7 +224,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2. Le amministrazioni centrali titolari di misure PNRR e i soggetti attuatori dei relativi interventi espletano gli adempimenti di rispettiva competenza, riguardanti la gestione, il monitoraggio, la rendicontazione e i controlli, anche oltre la data del 31 dicembre 2026 e fino al completamento degli obblighi connessi con l'attuazione del PNRR per ciascuna misura e intervento, continuando ad avvalersi delle funzionalità del sistema informatico &laquo;ReGiS&raquo; di cui all'articolo 1, comma 1043, della legge 30 dicembre 2020, n. 178. 
+ 1-bis. 
+ ((In relazione agli investimenti finanziati con le risorse del PNRR aventi obiettivi finali da conseguire entro il 30 giugno 2026, qualora le convenzioni, i contratti di appalto o gli atti di obbligo degli interventi previsti dai medesimi investimenti siano in corso di esecuzione e rechino una data di ultimazione anteriore a quella indicata dal PNRR, il termine per l'ultimazione dei predetti interventi, anche ai fini dell'applicazione delle penali dovute per il ritardato adempimento, è fissato, ai sensi e per gli effetti dell'articolo 1339 del codice civile, al 30 giugno 2026. In caso di ultimazione degli interventi di cui al primo periodo successivamente alla scadenza del termine indicato nelle convenzioni o nei contratti di appalto ovvero negli atti di obbligo ma anteriormente alla data del 30 giugno 2026, non sono riconosciuti premi di accelerazione. Le disposizioni del primo e del secondo periodo si applicano anche alle convenzioni, ai contratti di appalto e agli atti di obbligo relativi agli investimenti finanziati con le risorse del PNRR aventi obiettivi finali da conseguire entro il 30 giugno 2026, per i quali sia previsto un termine di conclusione degli interventi già scaduto alla data di entrata in vigore della legge di conversione del presente decreto e che non siano ultimati alla medesima data))
+
+ . 
  
 
  
@@ -217,7 +235,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato provvede allo sviluppo delle necessarie funzionalità del citato sistema informatico &laquo;ReGiS&raquo; a supporto degli adempimenti di cui al comma 2 anche in vista delle eventuali esigenze di monitoraggio degli altri programmi e interventi finanziati con risorse nazionali ed europee, ivi comprese le connesse azioni di supporto tecnico specialistico. A tal fine, può avvalersi, mediante stipula di apposite convenzioni, della società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonchè di altre società a prevalente partecipazione pubblica. 
+ 2. Le amministrazioni centrali titolari di 
+ ((misure del PNRR))
+
+ e i soggetti attuatori dei relativi interventi espletano gli adempimenti di rispettiva competenza, riguardanti la gestione, il monitoraggio, la rendicontazione e i controlli, anche oltre la data del 31 dicembre 2026 
+ ((, fino))
+
+ al completamento degli obblighi connessi con l'attuazione del PNRR per ciascuna misura e intervento, continuando ad avvalersi delle funzionalità del sistema informatico &laquo;ReGiS&raquo; di cui all'articolo 1, comma 1043, della legge 30 dicembre 2020, n. 178. 
  
 
  
@@ -225,4 +249,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 4. Agli adempimenti di cui al presente articolo si provvede con le risorse disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
+ 3. Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato provvede allo sviluppo delle necessarie funzionalità del citato sistema informatico &laquo;ReGiS&raquo; a supporto degli adempimenti di cui al comma 2 anche in vista delle eventuali esigenze di monitoraggio degli altri programmi e interventi finanziati con risorse nazionali ed europee, ivi comprese le connesse azioni di supporto tecnico specialistico. A tal fine, può avvalersi, 
+ ((mediante la stipulazione))
+
+ di apposite convenzioni, della società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonchè di altre società a prevalente partecipazione pubblica. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4. Agli adempimenti di cui al presente articolo 
+ ((le amministrazioni interessate provvedono con le risorse umane, strumentali e finanziarie))
+
+ disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
