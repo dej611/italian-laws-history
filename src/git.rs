@@ -242,6 +242,17 @@ impl GitHelpers {
         self.run(&["branch", "-D", branch], None).await
     }
 
+    /// Abort an in-progress merge if one exists. No-op when no merge is in
+    /// progress (git exits non-zero in that case, which we ignore). Used by
+    /// error handlers to clear a conflicted index before falling back to the
+    /// history branch.
+    pub async fn abort_merge_if_any(&self) -> Result<()> {
+        // run_status returns false on non-zero exit — that's the "no merge in
+        // progress" case. Either way, control returns to the caller cleanly.
+        let _ = self.run_status(&["merge", "--abort"]).await?;
+        Ok(())
+    }
+
     /// Stage file paths, then commit only if the index has staged changes.
     /// `iso_date` is "YYYY-MM-DD"; pre-1970 dates are clamped to the epoch.
     #[tracing::instrument(skip(self, files))]

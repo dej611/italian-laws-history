@@ -672,6 +672,14 @@ pub async fn reconcile_pending_acts(
                     "Riconciliazione {tag} {codice} fallita: {err}"
                 ));
                 still_pending.insert(codice, act);
+                // Clear any half-merged state before falling back to history,
+                // otherwise the next iteration's checkout will fail and the
+                // run will cascade-fail with "needs merge" / "unmerged files".
+                if let Err(e) = deps.git.abort_merge_if_any().await {
+                    deps.logger.log(&format!(
+                        "merge --abort dopo errore fallito: {e}"
+                    ));
+                }
                 if let Err(e) = deps.git.checkout().await {
                     deps.logger.log(&format!(
                         "Checkout history dopo errore fallito: {e}"
