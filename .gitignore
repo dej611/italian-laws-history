@@ -1,0 +1,29 @@
+# Rust build artefacts
+target/
+
+# Runtime artefacts written by the binary at the repo root
+progress-rs.json
+progress-rs.json.tmp
+progress.json
+progress.json.tmp
+processing-*.log
+trace-*.json
+*.cpuprofile
+
+# Editor / OS noise
+.DS_Store
+*.swp
+.cursor
+
+# Working-tree leftovers from the `history` branch (large; not part of `rust`)
+*.txt
+*.decaduto
+*.modifiedby
+talk/
+node_modules/
+
+# Files that belong to the TS port on `main` (must not leak onto `rust`)
+package.json
+package-lock.json
+tsconfig.json
+src/*.ts

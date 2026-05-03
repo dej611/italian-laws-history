@@ -1,0 +1,33 @@
+name: Daily Normattiva Scrape (rust)
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rust
+          fetch-depth: 0
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+
+      - uses: actions/cache@v4
+        with:
+          path: progress-rs.json
+          key: checkpoint-rs-${{ github.run_id }}
+          restore-keys: checkpoint-rs-
+
+      - run: cargo build --release --locked
+
+      - run: ./target/release/italian-laws-history --ci
