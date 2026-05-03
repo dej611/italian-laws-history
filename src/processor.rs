@@ -15,18 +15,19 @@ use crate::api::detail::{
 };
 use crate::api::search::fetch_updated_acts;
 use crate::api::text::{
-    atto_file_name, build_file_name, extract_urns, html_to_plain_text, is_decreto_legge,
+    atto_file_name, build_file_name, extract_urns, html_to_plain_text, resolve_branchable_type,
     to_plain_text,
 };
 use crate::checkpoint::save_checkpoint_atomic;
-use crate::git::{dl_branch_name, GitHelpers};
+use crate::git::{branch_name_for, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::Logger;
 use crate::types::{
-    ActStatus, ActVersionEntry, AttoDto, Checkpoint, Config, NormattivaAtto, PendingDl,
+    ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config, NormattivaAtto,
+    PendingAct,
 };
 
-const DL_LAPSE_SECS: i64 = 60 * 24 * 60 * 60; // 60 days
+const SECS_PER_DAY: i64 = 24 * 60 * 60;
 const ETA_MONTH_WINDOW: usize = 6;
 const RATE_WINDOW_MS: u128 = 5 * 60 * 1000; // 5 minutes
 
@@ -56,13 +57,34 @@ fn enriched_entry(act: &NormattivaAtto, date: String, refs: u32) -> ActVersionEn
     }
 }
 
-fn has_lapsed(dl: &PendingDl, status: ActStatus) -> bool {
+fn has_lapsed(act: &PendingAct, status: ActStatus) -> bool {
     if status == ActStatus::Abrogated {
         return true;
     }
-    let Some(parsed) = parse_iso_or_date(&dl.data_gu) else { return false };
+    // Acts without an automatic decadenza (pre-1926 RDL, 1944–46 DLL/DLCPS
+    // waiting for the L. 561/1956 sanatoria) only lapse on explicit
+    // abrogation, never by deadline alone.
+    let Some(deadline_days) = act.deadline_days else { return false };
+    let Some(parsed) = parse_iso_or_date(&act.data_gu) else { return false };
     let now = Utc::now().timestamp();
-    now - parsed > DL_LAPSE_SECS
+    now - parsed > i64::from(deadline_days) * SECS_PER_DAY
+}
+
+/// Migrate a legacy `pendingDecretiLegge` checkpoint field into the
+/// generalised `pendingActs` field. Idempotent: safe to call repeatedly.
+///
+/// Old entries lacked `short` and `deadlineDays`. Serde's defaults already
+/// fill those in as `Dl` + `Some(60)` on deserialisation, so this fn only
+/// has to merge the two maps and clear the legacy field.
+fn ensure_pending_acts_migrated(checkpoint: &mut Checkpoint) -> &mut HashMap<String, PendingAct> {
+    let mut pending = checkpoint.pending_acts.take().unwrap_or_default();
+    if let Some(legacy) = checkpoint.pending_decreti_legge.take() {
+        for (codice, entry) in legacy {
+            pending.entry(codice).or_insert(entry);
+        }
+    }
+    checkpoint.pending_acts = Some(pending);
+    checkpoint.pending_acts.as_mut().unwrap()
 }
 
 fn parse_iso_or_date(s: &str) -> Option<i64> {
@@ -266,23 +288,44 @@ async fn write_relationship_files(
     written
 }
 
-// ---- DL reconciliation ------------------------------------------------------
+// ---- Provisional-act reconciliation -----------------------------------------
 
-pub async fn reconcile_pending_decreti_legge(
+/// Marker filename for a lapsed provisional act.
+///
+/// Modern DL: keep the flat `<codice>.decaduto` for parity with the legacy
+/// markers that already exist in the corpus. New types use a typed form
+/// `<codice>.<short>.decaduto` so they're trivially distinguishable.
+fn marker_file_name(codice: &str, short: BranchableShort) -> String {
+    match short {
+        BranchableShort::Dl => format!("{codice}.decaduto"),
+        _ => format!("{codice}.{}.decaduto", short.as_str()),
+    }
+}
+
+/// Check each pending provisional act (DL, RDL, DLL, DLCPS) for conversion,
+/// ratification, or decadenza. Merges resolved branches into `history-rs`
+/// with the correct historical date. Acts with `deadline_days = None`
+/// (pre-1926 RDL, 1944–46 cohort awaiting L. 561/1956) wait indefinitely
+/// until either a ratifying law surfaces or Normattiva flags them as
+/// abrogated.
+pub async fn reconcile_pending_acts(
     checkpoint: &mut Checkpoint,
     deps: &ProcessorDeps,
     updated_urns: &mut HashSet<String>,
     sem: Arc<Semaphore>,
 ) -> Result<()> {
-    let _span = tracing::info_span!("process", op = "reconcileDL").entered();
-    let pending = checkpoint
-        .pending_decreti_legge
-        .clone()
-        .unwrap_or_default();
-    let mut still_pending: HashMap<String, PendingDl> = HashMap::new();
+    let _span = tracing::info_span!("process", op = "reconcileActs").entered();
 
-    for (codice, dl) in pending.into_iter() {
-        deps.logger.log(&format!("Riconciliazione DL {codice}…"));
+    // Snapshot current pool, swap out so we can re-insert "still pending" entries.
+    let pending = {
+        let pool = ensure_pending_acts_migrated(checkpoint);
+        std::mem::take(pool)
+    };
+    let mut still_pending: HashMap<String, PendingAct> = HashMap::new();
+
+    for (codice, act) in pending.into_iter() {
+        let tag = act.short.upper();
+        deps.logger.log(&format!("Riconciliazione {tag} {codice}…"));
 
         let conv =
             fetch_conversion_law(&codice, &deps.config, &deps.safe_fetch, deps.logger.as_ref())
@@ -305,33 +348,33 @@ pub async fn reconcile_pending_decreti_legge(
             );
 
             deps.logger.log(&format!(
-                "DL {codice} convertito — merge in history (${merge_date})"
+                "{tag} {codice} convertito — merge in history ({merge_date})"
             ));
             deps.git
-                .merge_dl_branch(&dl.branch_name, &merge_msg, &merge_date)
+                .merge_dl_branch(&act.branch_name, &merge_msg, &merge_date)
                 .await?;
 
             let safe_file_name = build_file_name(
-                dl.denominazione_atto.as_deref(),
-                dl.numero_provvedimento.as_deref(),
+                act.denominazione_atto.as_deref(),
+                act.numero_provvedimento.as_deref(),
                 None,
                 None,
-                dl.anno_provvedimento.as_deref(),
+                act.anno_provvedimento.as_deref(),
                 &codice,
             );
 
             let act_stub = NormattivaAtto {
-                codice_redazionale: dl.codice_redazionale.clone(),
-                data_gu: dl.data_gu.clone(),
-                denominazione_atto: dl.denominazione_atto.clone(),
-                numero_provvedimento: dl.numero_provvedimento.clone(),
-                anno_provvedimento: dl.anno_provvedimento.clone(),
+                codice_redazionale: act.codice_redazionale.clone(),
+                data_gu: act.data_gu.clone(),
+                denominazione_atto: act.denominazione_atto.clone(),
+                numero_provvedimento: act.numero_provvedimento.clone(),
+                anno_provvedimento: act.anno_provvedimento.clone(),
                 ..Default::default()
             };
 
-            if let Some(dl_atto) = fetch_act_detail(
+            if let Some(full_atto) = fetch_act_detail(
                 &act_stub,
-                &dl.data_gu,
+                &act.data_gu,
                 &deps.config,
                 &deps.safe_fetch,
                 deps.logger.as_ref(),
@@ -339,13 +382,13 @@ pub async fn reconcile_pending_decreti_legge(
             )
             .await
             {
-                let (raw, _plain) = to_plain_text(&dl_atto);
+                let (raw, _plain) = to_plain_text(&full_atto);
                 let ref_files = write_relationship_files(
                     &codice,
                     &act_stub,
                     &raw,
                     &safe_file_name,
-                    &iso_to_date(&dl.data_gu),
+                    &iso_to_date(&act.data_gu),
                     updated_urns,
                     deps,
                     sem.clone(),
@@ -354,21 +397,25 @@ pub async fn reconcile_pending_decreti_legge(
                 if !ref_files.is_empty() {
                     let refs: Vec<&str> = ref_files.iter().map(String::as_str).collect();
                     deps.git
-                        .commit_local_multi(&refs, &format!("Riferimenti DL {codice}"), &merge_date)
+                        .commit_local_multi(
+                            &refs,
+                            &format!("Riferimenti {tag} {codice}"),
+                            &merge_date,
+                        )
                         .await?;
                     deps.logger.log(&format!(
-                        "Committed {} refs for DL {codice}",
+                        "Committed {} refs for {tag} {codice}",
                         ref_files.len()
                     ));
                 }
             }
 
-            deps.git.delete_dl_branch(&dl.branch_name).await?;
+            deps.git.delete_dl_branch(&act.branch_name).await?;
         } else {
             let status = fetch_act_status(
                 &NormattivaAtto {
                     codice_redazionale: codice.clone(),
-                    data_gu: dl.data_gu.clone(),
+                    data_gu: act.data_gu.clone(),
                     ..Default::default()
                 },
                 &deps.config,
@@ -377,52 +424,72 @@ pub async fn reconcile_pending_decreti_legge(
             )
             .await;
 
-            if has_lapsed(&dl, status) {
+            if has_lapsed(&act, status) {
                 let today = Utc::now().format("%Y-%m-%d").to_string();
+                let full_denom = act
+                    .denominazione_atto
+                    .as_deref()
+                    .map(str::to_string)
+                    .unwrap_or_else(|| act.short.pretty().to_uppercase());
                 let merge_msg = format!(
-                    "DECADUTO: {} {} n. {}",
-                    dl.denominazione_atto.as_deref().unwrap_or("DECRETO-LEGGE"),
-                    dl.anno_provvedimento.as_deref().unwrap_or(""),
-                    dl.numero_provvedimento.as_deref().unwrap_or(&codice),
+                    "DECADUTO: {full_denom} {} n. {}",
+                    act.anno_provvedimento.as_deref().unwrap_or(""),
+                    act.numero_provvedimento.as_deref().unwrap_or(&codice),
                 );
                 deps.logger.log(&format!(
-                    "DL {codice} decaduto — merge DECADUTO in history"
+                    "{tag} {codice} decaduto — merge DECADUTO in history"
                 ));
 
-                deps.git.checkout_branch(&dl.branch_name).await?;
-                let marker_name = format!("{codice}.decaduto");
+                deps.git.checkout_branch(&act.branch_name).await?;
+                let marker_name = marker_file_name(&codice, act.short);
                 let marker_path: PathBuf =
                     PathBuf::from(&deps.config.output_repo).join(&marker_name);
                 fs::write(
                     &marker_path,
                     format!(
-                        "Decreto-Legge {codice} decaduto per mancata conversione.\n"
+                        "{} {codice} decaduto per mancata conversione.\n",
+                        act.short.pretty()
                     ),
                 )
                 .await?;
                 deps.git
                     .commit_local(
                         &marker_name,
-                        &format!("Marcatore: DL {codice} non convertito"),
+                        &format!("Marcatore: {tag} {codice} non convertito"),
                         &today,
                     )
                     .await?;
 
-                deps.git.merge_dl_branch(&dl.branch_name, &merge_msg, &today).await?;
-                deps.git.delete_dl_branch(&dl.branch_name).await?;
+                deps.git
+                    .merge_dl_branch(&act.branch_name, &merge_msg, &today)
+                    .await?;
+                deps.git.delete_dl_branch(&act.branch_name).await?;
             } else {
-                deps.logger.log(&format!("DL {codice} ancora in attesa di conversione."));
-                still_pending.insert(codice, dl);
+                deps.logger
+                    .log(&format!("{tag} {codice} ancora in attesa di conversione."));
+                still_pending.insert(codice, act);
             }
         }
     }
 
-    if still_pending.is_empty() {
-        checkpoint.pending_decreti_legge = None;
+    checkpoint.pending_acts = if still_pending.is_empty() {
+        None
     } else {
-        checkpoint.pending_decreti_legge = Some(still_pending);
-    }
+        Some(still_pending)
+    };
     Ok(())
+}
+
+/// Back-compat alias for callers still using the DL-only name.
+#[deprecated(note = "use `reconcile_pending_acts`")]
+#[allow(dead_code)]
+pub async fn reconcile_pending_decreti_legge(
+    checkpoint: &mut Checkpoint,
+    deps: &ProcessorDeps,
+    updated_urns: &mut HashSet<String>,
+    sem: Arc<Semaphore>,
+) -> Result<()> {
+    reconcile_pending_acts(checkpoint, deps, updated_urns, sem).await
 }
 
 // ---- Phase A: process_batches -----------------------------------------------
@@ -443,7 +510,7 @@ pub async fn process_batches(
 
     deps.logger.update_list(acts);
 
-    reconcile_pending_decreti_legge(checkpoint, deps, &mut updated_urns, sem.clone()).await?;
+    reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone()).await?;
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
 
     let mut acts_to_process: Vec<NormattivaAtto> = acts
@@ -553,8 +620,8 @@ async fn commit_one_act(
             );
             let commit_date = iso_to_date(&act.data_gu);
 
-            if is_decreto_legge(act) {
-                let branch = dl_branch_name(&act.codice_redazionale);
+            if let Some(branchable) = resolve_branchable_type(act) {
+                let branch = branch_name_for(branchable.short, &act.codice_redazionale);
                 if !deps.git.dl_branch_exists(&branch).await? {
                     deps.git.create_dl_branch(&branch).await?;
                 } else {
@@ -563,7 +630,7 @@ async fn commit_one_act(
 
                 fs::write(&file_path, &plain).await?;
 
-                let dl_ref_files = write_relationship_files(
+                let branch_ref_files = write_relationship_files(
                     &act.codice_redazionale,
                     act,
                     &raw,
@@ -574,27 +641,28 @@ async fn commit_one_act(
                     sem.clone(),
                 )
                 .await;
-                ref_count = dl_ref_files.len() as u32;
+                ref_count = branch_ref_files.len() as u32;
 
                 let mut files: Vec<&str> = vec![safe_file_name.as_str()];
-                files.extend(dl_ref_files.iter().map(String::as_str));
+                files.extend(branch_ref_files.iter().map(String::as_str));
                 deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
+                let tag = branchable.short.upper();
                 deps.logger.log(&format!(
-                    "Committed DL {} on branch {branch} (+ {} refs)",
+                    "Committed {tag} {} on branch {branch} (+ {} refs)",
                     act.codice_redazionale, ref_count
                 ));
 
-                let entry = PendingDl {
+                let entry = PendingAct {
                     codice_redazionale: act.codice_redazionale.clone(),
                     branch_name: branch,
                     data_gu: act.data_gu.clone(),
                     denominazione_atto: act.denominazione_atto.clone(),
                     numero_provvedimento: act.numero_provvedimento.clone(),
                     anno_provvedimento: act.anno_provvedimento.clone(),
+                    short: branchable.short,
+                    deadline_days: branchable.deadline_days,
                 };
-                let pending = checkpoint
-                    .pending_decreti_legge
-                    .get_or_insert_with(HashMap::new);
+                let pending = ensure_pending_acts_migrated(checkpoint);
                 pending.entry(act.codice_redazionale.clone()).or_insert(entry);
 
                 deps.git.checkout().await?;

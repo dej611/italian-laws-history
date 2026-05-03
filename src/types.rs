@@ -61,9 +61,61 @@ pub struct NormattivaAtto {
     pub classe_provvedimento: Option<String>,
 }
 
+/// Short namespace identifier for a branchable provisional act type.
+///
+/// Lifecycle reference (legal regime → modeling decision):
+/// - `Dl`    — modern Decreto-Legge (post-1948, art. 77 Cost.): 60d, decadenza ex tunc.
+/// - `Rdl`   — Regio decreto-legge:
+///   - post-1926 (L. 100/1926, effective 1926-02-09): ~2y, decadenza ex nunc.
+///   - pre-1926 ("catastrofali"): no automatic decadenza — branch waits indefinitely.
+/// - `Dll`   — Decreto-legge luogotenenziale (WWI individual conversion + 1944–46
+///   cohort awaiting L. 561/1956 sanatoria). `deadline_days = None`.
+/// - `Dlcps` — Decreto legislativo del Capo provvisorio dello Stato (1946–47),
+///   ratified en bloc by L. 561/1956. `deadline_days = None`.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "lowercase")]
+pub enum BranchableShort {
+    Dl,
+    Rdl,
+    Dll,
+    Dlcps,
+}
+
+impl BranchableShort {
+    /// Lowercase namespace fragment used in branch names (`dl`, `rdl`, ...).
+    pub fn as_str(self) -> &'static str {
+        match self {
+            BranchableShort::Dl => "dl",
+            BranchableShort::Rdl => "rdl",
+            BranchableShort::Dll => "dll",
+            BranchableShort::Dlcps => "dlcps",
+        }
+    }
+
+    /// Uppercase short tag used in log lines and `Marcatore: <SHORT> ...` subjects.
+    pub fn upper(self) -> &'static str {
+        match self {
+            BranchableShort::Dl => "DL",
+            BranchableShort::Rdl => "RDL",
+            BranchableShort::Dll => "DLL",
+            BranchableShort::Dlcps => "DLCPS",
+        }
+    }
+
+    /// Pretty Italian phrasing used in marker file content.
+    pub fn pretty(self) -> &'static str {
+        match self {
+            BranchableShort::Dl => "Decreto-Legge",
+            BranchableShort::Rdl => "Regio decreto-legge",
+            BranchableShort::Dll => "Decreto-legge luogotenenziale",
+            BranchableShort::Dlcps => "Decreto del Capo provvisorio dello Stato",
+        }
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
-pub struct PendingDl {
+pub struct PendingAct {
     pub codice_redazionale: String,
     pub branch_name: String,
     pub data_gu: String,
@@ -73,6 +125,23 @@ pub struct PendingDl {
     pub numero_provvedimento: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub anno_provvedimento: Option<String>,
+    /// Branch namespace short code. Defaults to `Dl` when loading checkpoints
+    /// written before the multi-type rework.
+    #[serde(default = "default_short")]
+    pub short: BranchableShort,
+    /// Days from publication after which the act lapses if not converted.
+    /// `None` when the regime has no automatic decadenza (pre-1926 RDL,
+    /// 1944–46 cohort awaiting L. 561/1956). Defaults to `Some(60)` when
+    /// loading legacy checkpoints.
+    #[serde(default = "default_deadline")]
+    pub deadline_days: Option<u32>,
+}
+
+fn default_short() -> BranchableShort {
+    BranchableShort::Dl
+}
+fn default_deadline() -> Option<u32> {
+    Some(60)
 }
 
 #[derive(Debug, Clone, Default, Serialize, Deserialize)]
@@ -97,8 +166,12 @@ pub struct Checkpoint {
     pub last_run: Option<String>,
     #[serde(default)]
     pub last_fully_scanned_date: Option<String>,
+    /// Generalised pool of provisional acts awaiting conversion / ratification / decadenza.
     #[serde(default, skip_serializing_if = "Option::is_none")]
-    pub pending_decreti_legge: Option<HashMap<String, PendingDl>>,
+    pub pending_acts: Option<HashMap<String, PendingAct>>,
+    /// Migrated into `pending_acts` on load; retained for back-compat with old checkpoint files.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub pending_decreti_legge: Option<HashMap<String, PendingAct>>,
 }
 
 #[derive(Debug, Clone, Default, Serialize, Deserialize)]

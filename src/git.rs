@@ -6,7 +6,7 @@ use anyhow::{anyhow, Context, Result};
 use chrono::{DateTime, NaiveDate, Utc};
 use tokio::process::Command;
 
-use crate::types::Config;
+use crate::types::{BranchableShort, Config};
 
 /// The data branch this Rust port writes to (sibling of the TS port's `history`).
 pub const HISTORY_BRANCH: &str = "history-rs";
@@ -15,12 +15,22 @@ pub const HISTORY_BRANCH: &str = "history-rs";
 /// `git checkout main` calls — for the Rust port this is `rust`.
 pub const MAIN_BRANCH: &str = "rust";
 
-/// Prefix for provisional Decreto-Legge branches. Namespace-isolated from
-/// the TS port's `dl/...` so the two implementations can coexist.
-pub const DL_BRANCH_PREFIX: &str = "dl-rs/";
+/// Suffix appended to every provisional-act branch namespace (`dl`, `rdl`,
+/// `dll`, `dlcps`) so the Rust port's branches don't collide with the TS
+/// port's. Effective namespaces become `dl-rs/`, `rdl-rs/`, `dll-rs/`,
+/// `dlcps-rs/`.
+pub const BRANCH_SUFFIX: &str = "-rs";
 
+/// Build a namespaced branch name for a provisional act: `<short>-rs/<codice>`.
+pub fn branch_name_for(short: BranchableShort, codice: &str) -> String {
+    format!("{}{BRANCH_SUFFIX}/{codice}", short.as_str())
+}
+
+/// Back-compat helper: produces `dl-rs/<codice>`.
+#[deprecated(note = "use `branch_name_for(BranchableShort::Dl, codice)`")]
+#[allow(dead_code)]
 pub fn dl_branch_name(codice: &str) -> String {
-    format!("{DL_BRANCH_PREFIX}{codice}")
+    branch_name_for(BranchableShort::Dl, codice)
 }
 
 /// Seed `.gitignore` for the `history-rs` data branch.

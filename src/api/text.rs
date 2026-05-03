@@ -3,7 +3,7 @@ use std::sync::LazyLock;
 
 use regex::Regex;
 
-use crate::types::{AttoDto, NormattivaAtto};
+use crate::types::{AttoDto, BranchableShort, NormattivaAtto};
 
 static URN_RE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("(?i)urn:nir:[^\\s\"'<>]+").unwrap());
@@ -239,14 +239,102 @@ pub fn to_plain_text(atto: &AttoDto) -> (String, String) {
     (raw, plain)
 }
 
-pub fn is_decreto_legge(act: &NormattivaAtto) -> bool {
+/// Resolution of a branchable provisional act type (DL / RDL / DLL / DLCPS),
+/// or `None` when the act is terminal-on-emanation (commit directly on `history-rs`).
+///
+/// The `deadline_days` captures the legal regime's automatic decadenza:
+/// `Some(n)` = lapse after n days from `data_gu`; `None` = no automatic
+/// decadenza (e.g. pre-1926 RDL, 1944–46 DLL/DLCPS waiting for the
+/// L. 561/1956 sanatoria).
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct BranchableTypeInfo {
+    pub short: BranchableShort,
+    pub deadline_days: Option<u32>,
+}
+
+/// Cut-off date for L. 100/1926: regio decreti-legge published from this date
+/// onward are subject to the ~2-year conversion window introduced by that law.
+const L_100_1926_EFFECTIVE: &str = "1926-02-09";
+
+/// Resolve the act to a branch namespace + decadenza deadline, or `None` when
+/// the act should be committed directly on `history-rs` without a provisional
+/// branch.
+pub fn resolve_branchable_type(act: &NormattivaAtto) -> Option<BranchableTypeInfo> {
+    // Modern decreto-legge: PDL code is the most reliable signal.
     if act.tipo_provvedimento_codice.as_deref() == Some("PDL") {
-        return true;
+        return Some(BranchableTypeInfo {
+            short: BranchableShort::Dl,
+            deadline_days: Some(60),
+        });
     }
-    act.denominazione_atto
-        .as_deref()
-        .map(|d| d.to_uppercase().contains("DECRETO-LEGGE"))
-        .unwrap_or(false)
+
+    let denom_upper = act
+        .denominazione_atto
+        .as_deref()?
+        .trim()
+        .to_uppercase();
+    if denom_upper.is_empty() {
+        return None;
+    }
+
+    match denom_upper.as_str() {
+        "DECRETO-LEGGE" => Some(BranchableTypeInfo {
+            short: BranchableShort::Dl,
+            deadline_days: Some(60),
+        }),
+        "REGIO DECRETO-LEGGE" => {
+            // Post-1926: L. 100/1926 imposes a ~2-year conversion window.
+            // Pre-1926 ("catastrofali"): no automatic decadenza — wait for
+            // an explicit ratifying law (or abrogation flag).
+            let in_force_date = act.data_gu.as_str();
+            let post_l100 = is_date_ge(in_force_date, L_100_1926_EFFECTIVE);
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Rdl,
+                deadline_days: if post_l100 { Some(730) } else { None },
+            })
+        }
+        "DECRETO-LEGGE LUOGOTENENZIALE" => {
+            // WWI individually converted; 1944–46 ratified en bloc by
+            // L. 17 aprile 1956 n. 561. Either way the branch waits for an
+            // external event rather than expiring on its own.
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Dll,
+                deadline_days: None,
+            })
+        }
+        "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO" => {
+            // 1946–47 transition; ratified en bloc by L. 561/1956.
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Dlcps,
+                deadline_days: None,
+            })
+        }
+        _ => None,
+    }
+}
+
+/// Compare two date-prefixed strings (e.g. `2024-12-30T00:00:00Z` vs
+/// `2024-12-30`) by their leading 10-byte `YYYY-MM-DD` lexicographic prefix.
+/// This matches the TS comparison semantics (string `>=`).
+fn is_date_ge(a: &str, b: &str) -> bool {
+    let ap = a.get(..10).unwrap_or(a);
+    let bp = b.get(..10).unwrap_or(b);
+    ap >= bp
+}
+
+/// **Deprecated.** Use [`resolve_branchable_type`].
+///
+/// Returns true when the act is a *modern* Decreto-Legge (PDL code or exact
+/// denomination). Intentionally narrower than the previous substring check,
+/// because `DECRETO-LEGGE` as a substring would also match `REGIO DECRETO-LEGGE`
+/// and `DECRETO-LEGGE LUOGOTENENZIALE`, which are now routed via
+/// `resolve_branchable_type`.
+#[allow(dead_code)]
+pub fn is_decreto_legge(act: &NormattivaAtto) -> bool {
+    matches!(
+        resolve_branchable_type(act),
+        Some(BranchableTypeInfo { short: BranchableShort::Dl, .. })
+    )
 }
 
 #[cfg(test)]
@@ -320,5 +408,116 @@ mod tests {
         assert!(is_decreto_legge(&act));
         act.denominazione_atto = Some("LEGGE".to_string());
         assert!(!is_decreto_legge(&act));
+        // Crucially: `is_decreto_legge` is now narrow — RDL/DLL must NOT match.
+        act.denominazione_atto = Some("REGIO DECRETO-LEGGE".to_string());
+        assert!(!is_decreto_legge(&act));
+        act.denominazione_atto = Some("DECRETO-LEGGE LUOGOTENENZIALE".to_string());
+        assert!(!is_decreto_legge(&act));
+    }
+
+    #[test]
+    fn modern_dl_resolves_to_60_days() {
+        let act = NormattivaAtto {
+            tipo_provvedimento_codice: Some("PDL".to_string()),
+            data_gu: "2024-12-30T00:00:00Z".to_string(),
+            ..Default::default()
+        };
+        assert_eq!(
+            resolve_branchable_type(&act),
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Dl,
+                deadline_days: Some(60),
+            })
+        );
+    }
+
+    #[test]
+    fn rdl_post_l100_1926_has_730_day_deadline() {
+        let act = NormattivaAtto {
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
+            data_gu: "1926-03-15".to_string(),
+            ..Default::default()
+        };
+        assert_eq!(
+            resolve_branchable_type(&act),
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Rdl,
+                deadline_days: Some(730),
+            })
+        );
+    }
+
+    #[test]
+    fn rdl_pre_l100_1926_has_no_automatic_deadline() {
+        // Pre-1926 RDL: catastrofali — branch waits for explicit ratification.
+        let act = NormattivaAtto {
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
+            data_gu: "1925-12-01".to_string(),
+            ..Default::default()
+        };
+        assert_eq!(
+            resolve_branchable_type(&act),
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Rdl,
+                deadline_days: None,
+            })
+        );
+    }
+
+    #[test]
+    fn rdl_on_cutover_day_is_post_l100() {
+        // 1926-02-09 itself counts as post-L. 100/1926 (>= comparison).
+        let act = NormattivaAtto {
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
+            data_gu: "1926-02-09".to_string(),
+            ..Default::default()
+        };
+        let info = resolve_branchable_type(&act).unwrap();
+        assert_eq!(info.deadline_days, Some(730));
+    }
+
+    #[test]
+    fn dll_waits_for_sanatoria() {
+        // 1944–46 cohort awaits L. 17 aprile 1956 n. 561 (no auto-decadenza).
+        let act = NormattivaAtto {
+            denominazione_atto: Some("DECRETO-LEGGE LUOGOTENENZIALE".to_string()),
+            data_gu: "1945-04-15".to_string(),
+            ..Default::default()
+        };
+        assert_eq!(
+            resolve_branchable_type(&act),
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Dll,
+                deadline_days: None,
+            })
+        );
+    }
+
+    #[test]
+    fn dlcps_waits_for_sanatoria() {
+        let act = NormattivaAtto {
+            denominazione_atto: Some(
+                "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO".to_string(),
+            ),
+            data_gu: "1947-03-20".to_string(),
+            ..Default::default()
+        };
+        assert_eq!(
+            resolve_branchable_type(&act),
+            Some(BranchableTypeInfo {
+                short: BranchableShort::Dlcps,
+                deadline_days: None,
+            })
+        );
+    }
+
+    #[test]
+    fn legge_returns_no_branchable_info() {
+        let act = NormattivaAtto {
+            denominazione_atto: Some("LEGGE".to_string()),
+            data_gu: "2024-01-01".to_string(),
+            ..Default::default()
+        };
+        assert!(resolve_branchable_type(&act).is_none());
     }
 }
