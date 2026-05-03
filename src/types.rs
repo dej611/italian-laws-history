@@ -72,7 +72,7 @@ pub struct NormattivaAtto {
 ///   cohort awaiting L. 561/1956 sanatoria). `deadline_days = None`.
 /// - `Dlcps` — Decreto legislativo del Capo provvisorio dello Stato (1946–47),
 ///   ratified en bloc by L. 561/1956. `deadline_days = None`.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
 #[serde(rename_all = "lowercase")]
 pub enum BranchableShort {
     Dl,

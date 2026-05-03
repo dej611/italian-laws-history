@@ -288,6 +288,35 @@ impl GitHelpers {
             .await
     }
 
+    /// Octopus merge: combine multiple branches into `history-rs` in one commit
+    /// with N+1 parents. Used for bulk ratifications such as
+    /// L. 17 aprile 1925 n. 473 and L. 17 aprile 1956 n. 561, where one act
+    /// ratifies an entire cohort of provisional decrees in a single stroke.
+    ///
+    /// Falls back to the regular two-parent merge when only one branch is
+    /// supplied (octopus needs ≥ 2 sources). No-op when the slice is empty.
+    #[tracing::instrument(skip(self, branches, message), fields(count = branches.len()))]
+    pub async fn octopus_merge(
+        &self,
+        branches: &[String],
+        message: &str,
+        iso_date: &str,
+    ) -> Result<()> {
+        if branches.is_empty() {
+            return Ok(());
+        }
+        if branches.len() == 1 {
+            return self.merge_dl_branch(&branches[0], message, iso_date).await;
+        }
+        let git_date = to_git_date(iso_date);
+        self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
+        let mut args: Vec<&str> = vec!["merge", "--no-ff", "-m", message];
+        for b in branches {
+            args.push(b.as_str());
+        }
+        self.run(&args, Some(&git_date)).await
+    }
+
     /// Best-effort sync `git checkout rust`. Used from `Drop`/cleanup paths.
     /// Mirrors the TS `checkoutMainSync` (which targeted `main`).
     pub fn checkout_main_sync(&self) {

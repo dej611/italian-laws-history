@@ -288,6 +288,159 @@ async fn write_relationship_files(
     written
 }
 
+// ---- Bulk ratification (sanatoria) ------------------------------------------
+
+/// A bulk-ratification law: a single ordinary LEGGE that converts/ratifies an
+/// entire cohort of provisional decrees in one stroke.
+///
+/// Identified by `(anno_provvedimento, numero_provvedimento)` — that pair is
+/// canonical even when the `codice_redazionale` differs across reprints.
+///
+/// Each entry says: "this law ratifies acts whose `short` is in
+/// `covers_shorts` AND whose `data_gu` falls in
+/// [`from_date`, `to_date`] (inclusive)".
+struct SanatoriaLaw {
+    /// Year of the ratifying law.
+    anno: &'static str,
+    /// Number of the ratifying law within that year.
+    numero: &'static str,
+    /// Human label used in the merge subject.
+    label: &'static str,
+    /// Branch namespaces this law ratifies.
+    covers_shorts: &'static [BranchableShort],
+    /// Inclusive ISO-date lower bound of the act's data_gu window.
+    from_date: &'static str,
+    /// Inclusive ISO-date upper bound of the act's data_gu window.
+    to_date: &'static str,
+}
+
+const SANATORIA_LAWS: &[SanatoriaLaw] = &[
+    // L. 17 aprile 1925 n. 473 ("articolo unico"): ratified ~237 luogotenenziali
+    // and decreti-legge emanated through 23 maggio 1924.
+    SanatoriaLaw {
+        anno: "1925",
+        numero: "473",
+        label: "L. 473/1925",
+        covers_shorts: &[BranchableShort::Dll, BranchableShort::Rdl],
+        from_date: "0001-01-01",
+        to_date: "1924-05-23",
+    },
+    // L. 17 aprile 1956 n. 561: ratified the 1944–47 transition cohort
+    // (DLL, DLCPS) emanated when no Parliament was sitting.
+    SanatoriaLaw {
+        anno: "1956",
+        numero: "561",
+        label: "L. 561/1956",
+        covers_shorts: &[BranchableShort::Dll, BranchableShort::Dlcps],
+        from_date: "1944-06-25",
+        to_date: "1947-12-31",
+    },
+];
+
+/// Match an act against the table of known sanatoria laws by year + number.
+fn find_sanatoria_law(act: &NormattivaAtto) -> Option<&'static SanatoriaLaw> {
+    let denom = act.denominazione_atto.as_deref()?.trim().to_uppercase();
+    if denom != "LEGGE" {
+        return None;
+    }
+    let anno = act.anno_provvedimento.as_deref()?;
+    let numero = act.numero_provvedimento.as_deref()?;
+    SANATORIA_LAWS
+        .iter()
+        .find(|s| s.anno == anno && s.numero == numero)
+}
+
+/// Date-range comparison on the leading 10-byte `YYYY-MM-DD` prefix.
+fn date_in_range(date: &str, from: &str, to: &str) -> bool {
+    let p = date.get(..10).unwrap_or(date);
+    p >= from && p <= to
+}
+
+/// Apply a bulk-ratification law (e.g. L. 473/1925, L. 561/1956): octopus-merge
+/// every still-open branch in scope into `history-rs` with one merge commit,
+/// then remove those entries from `pending_acts`. No-op when no branches qualify.
+///
+/// Must be called AFTER the sanatoria law's own publication commit has been
+/// written on `history-rs` (so the merge sits chronologically above it). The
+/// merge commit is dated to the sanatoria's publication date.
+async fn apply_sanatoria(
+    sanatoria: &SanatoriaLaw,
+    publication_date: &str,
+    checkpoint: &mut Checkpoint,
+    deps: &ProcessorDeps,
+) -> Result<usize> {
+    let pending = ensure_pending_acts_migrated(checkpoint);
+
+    // Collect codici in scope first (immutable snapshot), then mutate.
+    let in_scope: Vec<(String, String, BranchableShort)> = pending
+        .iter()
+        .filter(|(_, a)| {
+            sanatoria.covers_shorts.contains(&a.short)
+                && date_in_range(&a.data_gu, sanatoria.from_date, sanatoria.to_date)
+        })
+        .map(|(codice, a)| (codice.clone(), a.branch_name.clone(), a.short))
+        .collect();
+
+    if in_scope.is_empty() {
+        deps.logger.log(&format!(
+            "Sanatoria {}: nessun ramo aperto in ambito",
+            sanatoria.label
+        ));
+        return Ok(0);
+    }
+
+    // Per-namespace counts for the merge subject's breakdown.
+    let mut counts: HashMap<BranchableShort, usize> = HashMap::new();
+    for (_, _, short) in &in_scope {
+        *counts.entry(*short).or_insert(0) += 1;
+    }
+    let breakdown: Vec<String> = sanatoria
+        .covers_shorts
+        .iter()
+        .map(|s| format!("{}={}", s.as_str(), counts.get(s).copied().unwrap_or(0)))
+        .collect();
+    let subject = format!(
+        "SANATORIA {}: ratifica {} atti ({})",
+        sanatoria.label,
+        in_scope.len(),
+        breakdown.join(", "),
+    );
+    let body: Vec<&str> = in_scope.iter().map(|(c, _, _)| c.as_str()).collect();
+    let full_message = if body.is_empty() {
+        subject
+    } else {
+        format!("{subject}\n\n{}", body.join("\n"))
+    };
+
+    let branches: Vec<String> = in_scope.iter().map(|(_, b, _)| b.clone()).collect();
+
+    deps.logger.log(&format!(
+        "Sanatoria {}: octopus-merge {} rami ({})",
+        sanatoria.label,
+        in_scope.len(),
+        breakdown.join(", "),
+    ));
+    deps.git
+        .octopus_merge(&branches, &full_message, publication_date)
+        .await?;
+
+    // Remove the merged entries; best-effort delete the local branches.
+    for (codice, branch_name, _) in &in_scope {
+        if let Err(err) = deps.git.delete_dl_branch(branch_name).await {
+            deps.logger.log(&format!(
+                "Sanatoria {}: errore eliminazione ramo {branch_name}: {err}",
+                sanatoria.label
+            ));
+        }
+        pending.remove(codice);
+        deps.logger.log(&format!(
+            "Sanatoria {}: ramo {branch_name} chiuso",
+            sanatoria.label,
+        ));
+    }
+    Ok(in_scope.len())
+}
+
 // ---- Provisional-act reconciliation -----------------------------------------
 
 /// Marker filename for a lapsed provisional act.
@@ -620,7 +773,33 @@ async fn commit_one_act(
             );
             let commit_date = iso_to_date(&act.data_gu);
 
-            if let Some(branchable) = resolve_branchable_type(act) {
+            let mut branchable = resolve_branchable_type(act);
+
+            // Pre-1926 RDL "catastrofali": option (a). These had no automatic
+            // decadenza and were ratified only by parliamentary praxis.
+            // Branch only when a known ratifying law already exists in
+            // Normattiva, otherwise direct-commit like a plain regio decreto.
+            // This avoids creating branches that would never close.
+            if let Some(info) = branchable {
+                if info.short == BranchableShort::Rdl && info.deadline_days.is_none() {
+                    let ratifier = fetch_conversion_law(
+                        &act.codice_redazionale,
+                        &deps.config,
+                        &deps.safe_fetch,
+                        deps.logger.as_ref(),
+                    )
+                    .await;
+                    if ratifier.is_none() {
+                        deps.logger.log(&format!(
+                            "RDL pre-1926 {}: nessun ratificatore noto, commit diretto su history",
+                            act.codice_redazionale
+                        ));
+                        branchable = None;
+                    }
+                }
+            }
+
+            if let Some(branchable) = branchable {
                 let branch = branch_name_for(branchable.short, &act.codice_redazionale);
                 if !deps.git.dl_branch_exists(&branch).await? {
                     deps.git.create_dl_branch(&branch).await?;
@@ -687,6 +866,13 @@ async fn commit_one_act(
                     "Committed {} (+ {} refs)",
                     act.codice_redazionale, ref_count
                 ));
+
+                // Bulk-ratification trigger: when the LEGGE we just committed
+                // is L. 473/1925 or L. 561/1956, octopus-merge every still-open
+                // branch in scope into history with one merge commit.
+                if let Some(sanatoria) = find_sanatoria_law(act) {
+                    apply_sanatoria(sanatoria, &commit_date, checkpoint, deps).await?;
+                }
             }
         }
     }
@@ -873,4 +1059,135 @@ async fn commit_modification(
     deps.logger.update_refs(&act.codice_redazionale, refs_count);
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn legge(anno: &str, numero: &str) -> NormattivaAtto {
+        NormattivaAtto {
+            denominazione_atto: Some("LEGGE".to_string()),
+            anno_provvedimento: Some(anno.to_string()),
+            numero_provvedimento: Some(numero.to_string()),
+            ..Default::default()
+        }
+    }
+
+    #[test]
+    fn find_sanatoria_matches_l_473_1925() {
+        let s = find_sanatoria_law(&legge("1925", "473")).expect("L. 473/1925 should match");
+        assert_eq!(s.label, "L. 473/1925");
+        assert_eq!(s.from_date, "0001-01-01");
+        assert_eq!(s.to_date, "1924-05-23");
+        assert!(s.covers_shorts.contains(&BranchableShort::Dll));
+        assert!(s.covers_shorts.contains(&BranchableShort::Rdl));
+    }
+
+    #[test]
+    fn find_sanatoria_matches_l_561_1956() {
+        let s = find_sanatoria_law(&legge("1956", "561")).expect("L. 561/1956 should match");
+        assert_eq!(s.label, "L. 561/1956");
+        assert_eq!(s.from_date, "1944-06-25");
+        assert_eq!(s.to_date, "1947-12-31");
+        assert!(s.covers_shorts.contains(&BranchableShort::Dll));
+        assert!(s.covers_shorts.contains(&BranchableShort::Dlcps));
+    }
+
+    #[test]
+    fn find_sanatoria_misses_unrelated_legge() {
+        // Same year, different number → not a sanatoria.
+        assert!(find_sanatoria_law(&legge("1925", "474")).is_none());
+        // Same number, different year.
+        assert!(find_sanatoria_law(&legge("1924", "473")).is_none());
+        // Random LEGGE.
+        assert!(find_sanatoria_law(&legge("2020", "77")).is_none());
+    }
+
+    #[test]
+    fn find_sanatoria_rejects_non_legge() {
+        // Even if the (anno, numero) matches a sanatoria, only LEGGE qualifies.
+        let mut act = legge("1925", "473");
+        act.denominazione_atto = Some("REGIO DECRETO".to_string());
+        assert!(find_sanatoria_law(&act).is_none());
+    }
+
+    #[test]
+    fn find_sanatoria_handles_missing_metadata() {
+        let mut act = legge("1925", "473");
+        act.numero_provvedimento = None;
+        assert!(find_sanatoria_law(&act).is_none());
+        act.numero_provvedimento = Some("473".to_string());
+        act.anno_provvedimento = None;
+        assert!(find_sanatoria_law(&act).is_none());
+        act.anno_provvedimento = Some("1925".to_string());
+        act.denominazione_atto = None;
+        assert!(find_sanatoria_law(&act).is_none());
+    }
+
+    #[test]
+    fn date_in_range_inclusive_bounds() {
+        // Lower bound inclusive.
+        assert!(date_in_range("1944-06-25", "1944-06-25", "1947-12-31"));
+        // Upper bound inclusive.
+        assert!(date_in_range("1947-12-31", "1944-06-25", "1947-12-31"));
+        // Inside.
+        assert!(date_in_range("1945-04-15", "1944-06-25", "1947-12-31"));
+        // Just before.
+        assert!(!date_in_range("1944-06-24", "1944-06-25", "1947-12-31"));
+        // Just after.
+        assert!(!date_in_range("1948-01-01", "1944-06-25", "1947-12-31"));
+    }
+
+    #[test]
+    fn date_in_range_handles_iso_datetime_prefix() {
+        // ISO datetime strings (Normattiva sometimes returns them) are
+        // compared by their leading 10-byte YYYY-MM-DD prefix.
+        assert!(date_in_range("1945-04-15T00:00:00Z", "1944-06-25", "1947-12-31"));
+        assert!(!date_in_range("1948-01-01T00:00:00Z", "1944-06-25", "1947-12-31"));
+    }
+
+    #[test]
+    fn marker_file_name_preserves_legacy_dl_format() {
+        // Modern DL keeps the flat <codice>.decaduto for parity with the 418
+        // existing markers in the corpus.
+        assert_eq!(marker_file_name("077U0019", BranchableShort::Dl), "077U0019.decaduto");
+    }
+
+    #[test]
+    fn marker_file_name_uses_typed_form_for_new_namespaces() {
+        assert_eq!(
+            marker_file_name("925U1234", BranchableShort::Rdl),
+            "925U1234.rdl.decaduto"
+        );
+        assert_eq!(
+            marker_file_name("044U0203", BranchableShort::Dll),
+            "044U0203.dll.decaduto"
+        );
+        assert_eq!(
+            marker_file_name("046U0500", BranchableShort::Dlcps),
+            "046U0500.dlcps.decaduto"
+        );
+    }
+
+    #[test]
+    fn has_lapsed_returns_false_when_no_deadline() {
+        // Pre-1926 RDL and 1944–46 DLL/DLCPS have deadline_days = None and
+        // must NEVER lapse on a timer — only on explicit abrogation.
+        let act = PendingAct {
+            codice_redazionale: "x".to_string(),
+            branch_name: "rdl-rs/x".to_string(),
+            data_gu: "1908-12-28".to_string(),
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
+            numero_provvedimento: Some("740".to_string()),
+            anno_provvedimento: Some("1908".to_string()),
+            short: BranchableShort::Rdl,
+            deadline_days: None,
+        };
+        // In_force / updated → no lapse, regardless of how old the act is.
+        assert!(!has_lapsed(&act, ActStatus::InForce));
+        assert!(!has_lapsed(&act, ActStatus::Updated));
+        // But explicit abrogation does lapse it.
+        assert!(has_lapsed(&act, ActStatus::Abrogated));
+    }
 }
