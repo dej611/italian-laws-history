@@ -23,6 +23,67 @@ pub fn dl_branch_name(codice: &str) -> String {
     format!("{DL_BRANCH_PREFIX}{codice}")
 }
 
+/// Seed `.gitignore` for the `history-rs` data branch.
+///
+/// `history-rs` only tracks law-content files (`*.txt`, `*.decaduto`,
+/// `*.modifiedby`). Everything else — Rust sources, build artefacts,
+/// CI workflows, the binary's own runtime artefacts — is ignored so
+/// that a developer who has the Rust source checked out in the working
+/// tree (e.g. via a worktree, or simply switching branches) doesn't
+/// accidentally pollute the data branch.
+const HISTORY_GITIGNORE: &str = "\
+# This branch (history-rs) is data-only. It only tracks law-content
+# files; everything else is ignored so that a working tree shared with
+# the `rust` source branch doesn't pollute commits here.
+
+# --- Rust source tree (lives on the `rust` branch) ---
+src/
+target/
+Cargo.toml
+Cargo.lock
+.github/
+rust-toolchain
+rust-toolchain.toml
+
+# --- TS source tree (lives on `main`) ---
+package.json
+package-lock.json
+tsconfig.json
+node_modules/
+*.ts
+*.js
+*.mjs
+*.cjs
+
+# --- Editor / OS noise ---
+.DS_Store
+*.swp
+.cursor/
+.idea/
+.vscode/
+talk/
+
+# --- Runtime artefacts of either binary ---
+progress.json
+progress.json.tmp
+progress-rs.json
+progress-rs.json.tmp
+processing-*.log
+trace-*.json
+*.cpuprofile
+
+# Belt-and-braces: anything that's clearly not a law-content file.
+# `*.txt`, `*.decaduto`, `*.modifiedby`, and the existing tracked
+# `.gitignore` itself are all explicitly NOT ignored — git only
+# applies these patterns to untracked paths anyway.
+*.rs
+*.yml
+*.yaml
+*.toml
+*.lock
+";
+
+
 pub struct GitHelpers {
     config: Arc<Config>,
 }
@@ -117,8 +178,21 @@ impl GitHelpers {
             self.run(&["checkout", "--orphan", HISTORY_BRANCH], None).await?;
             // Best-effort wipe: ignore non-zero (empty index is fine).
             let _ = self.run_status(&["rm", "-rf", "."]).await;
-            self.run(&["commit", "--allow-empty", "-m", "initial empty history"], None)
-                .await?;
+
+            // Seed a .gitignore so the data branch ignores the Rust source
+            // tree (and friends) that may exist in the working directory.
+            // history-rs is data-only: only the law-content files are tracked.
+            let gitignore_path = std::path::Path::new(self.cwd()).join(".gitignore");
+            tokio::fs::write(&gitignore_path, HISTORY_GITIGNORE)
+                .await
+                .with_context(|| format!("writing {}", gitignore_path.display()))?;
+
+            self.run(&["add", ".gitignore"], None).await?;
+            self.run(
+                &["commit", "-m", "initial history-rs branch with .gitignore"],
+                None,
+            )
+            .await?;
         }
         Ok(())
     }
