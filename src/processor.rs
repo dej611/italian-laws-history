@@ -455,6 +455,13 @@ fn marker_file_name(codice: &str, short: BranchableShort) -> String {
     }
 }
 
+enum ReconcileOutcome {
+    /// Act resolved (converted or decaduto+merged) — drop from `pending_acts`.
+    Done,
+    /// Act still awaiting conversion — keep in `pending_acts` for next run.
+    StillWaiting,
+}
+
 /// Check each pending provisional act (DL, RDL, DLL, DLCPS) for conversion,
 /// ratification, or decadenza. Merges resolved branches into `history-rs`
 /// with the correct historical date. Acts with `deadline_days = None`
@@ -480,6 +487,33 @@ pub async fn reconcile_pending_acts(
         let tag = act.short.upper();
         deps.logger.log(&format!("Riconciliazione {tag} {codice}…"));
 
+        // Guard against zombie checkpoint entries: the dl/* branch may have
+        // been merged & deleted in a prior run that crashed before the
+        // checkpoint was saved. In that case the work is already in the
+        // history branch — drop the entry instead of failing on `git checkout`
+        // of a missing branch.
+        match deps.git.dl_branch_exists(&act.branch_name).await {
+            Ok(false) => {
+                deps.logger.log(&format!(
+                    "{tag} {codice} branch {} mancante — già riconciliato, rimuovo dal checkpoint.",
+                    act.branch_name
+                ));
+                continue;
+            }
+            Err(err) => {
+                deps.logger.log(&format!(
+                    "{tag} {codice} controllo branch fallito: {err}; lo rimando al prossimo run."
+                ));
+                still_pending.insert(codice, act);
+                continue;
+            }
+            Ok(true) => {}
+        }
+
+        // Per-act error containment: one bad pending entry must not abort the
+        // whole window. On error, keep the entry in `pending_acts` so a future
+        // run can retry, then land back on `history` for the next iteration.
+        let outcome: Result<ReconcileOutcome> = async {
         let conv =
             fetch_conversion_law(&codice, &deps.config, &deps.safe_fetch, deps.logger.as_ref())
                 .await;
@@ -564,6 +598,7 @@ pub async fn reconcile_pending_acts(
             }
 
             deps.git.delete_dl_branch(&act.branch_name).await?;
+            Ok(ReconcileOutcome::Done)
         } else {
             let status = fetch_act_status(
                 &NormattivaAtto {
@@ -617,10 +652,31 @@ pub async fn reconcile_pending_acts(
                     .merge_dl_branch(&act.branch_name, &merge_msg, &today)
                     .await?;
                 deps.git.delete_dl_branch(&act.branch_name).await?;
+                Ok(ReconcileOutcome::Done)
             } else {
                 deps.logger
                     .log(&format!("{tag} {codice} ancora in attesa di conversione."));
+                Ok(ReconcileOutcome::StillWaiting)
+            }
+        }
+        }
+        .await;
+
+        match outcome {
+            Ok(ReconcileOutcome::Done) => {}
+            Ok(ReconcileOutcome::StillWaiting) => {
                 still_pending.insert(codice, act);
+            }
+            Err(err) => {
+                deps.logger.log(&format!(
+                    "Riconciliazione {tag} {codice} fallita: {err}"
+                ));
+                still_pending.insert(codice, act);
+                if let Err(e) = deps.git.checkout().await {
+                    deps.logger.log(&format!(
+                        "Checkout history dopo errore fallito: {e}"
+                    ));
+                }
             }
         }
     }
