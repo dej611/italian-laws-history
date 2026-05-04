@@ -286,6 +286,17 @@ impl GitHelpers {
         self.commit_local_multi(&[file], message, iso_date).await
     }
 
+    /// Merge a `<short>/<codice>` branch into `history-rs` with the supplied
+    /// historically-accurate date.
+    ///
+    /// Conflict policy: prefer the natural merge. If it conflicts, abort and
+    /// retry with `-X ours` so `history-rs`'s final state wins. Rationale: when
+    /// a `dl/<codice>` branch (pre-decadenza text) collides with `history-rs`
+    /// (which already carries Normattiva's post-decadenza `Modifica:` commits —
+    /// e.g. "DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L.
+    /// ..."), the post-decadenza state is the authoritative final form. The
+    /// pre-decadenza text remains reachable via `git log <branch>`. The merge
+    /// commit itself still records the DL's lifecycle on the timeline.
     #[tracing::instrument(skip(self))]
     pub async fn merge_dl_branch(
         &self,
@@ -295,8 +306,24 @@ impl GitHelpers {
     ) -> Result<()> {
         let git_date = to_git_date(iso_date);
         self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
-        self.run(&["merge", "--no-ff", branch, "-m", message], Some(&git_date))
+        match self
+            .run(&["merge", "--no-ff", branch, "-m", message], Some(&git_date))
             .await
+        {
+            Ok(()) => Ok(()),
+            Err(_) => {
+                // Natural merge failed (almost always content conflicts on the
+                // law text file because Normattiva already updated it on
+                // history-rs with a post-decadenza marker). Abort, then retry
+                // with `-X ours` so history-rs's final state wins.
+                self.abort_merge_if_any().await?;
+                self.run(
+                    &["merge", "--no-ff", "-X", "ours", branch, "-m", message],
+                    Some(&git_date),
+                )
+                .await
+            }
+        }
     }
 
     /// Octopus merge: combine multiple branches into `history-rs` in one commit
@@ -325,7 +352,20 @@ impl GitHelpers {
         for b in branches {
             args.push(b.as_str());
         }
-        self.run(&args, Some(&git_date)).await
+        match self.run(&args, Some(&git_date)).await {
+            Ok(()) => Ok(()),
+            Err(_) => {
+                // Octopus can't take `-X ours`, so on conflict abort and fall
+                // back to sequential two-parent merges. Each call goes through
+                // `merge_dl_branch`, which itself retries with `-X ours` when
+                // needed.
+                self.abort_merge_if_any().await?;
+                for b in branches {
+                    self.merge_dl_branch(b, message, iso_date).await?;
+                }
+                Ok(())
+            }
+        }
     }
 
     /// Best-effort sync `git checkout rust`. Used from `Drop`/cleanup paths.
