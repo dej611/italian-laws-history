@@ -12,11 +12,12 @@ use tokio::task::JoinSet;
 
 use crate::api::detail::{
     fetch_act_detail, fetch_act_detail_by_urn, fetch_act_status, fetch_conversion_law,
+    resolve_malformed_urn,
 };
 use crate::api::search::fetch_updated_acts;
 use crate::api::text::{
-    atto_file_name, build_file_name, extract_urns, html_to_plain_text, resolve_branchable_type,
-    to_plain_text,
+    atto_file_name, build_file_name, extract_urns, html_to_plain_text, is_well_formed_urn,
+    resolve_branchable_type, to_plain_text, urn_date,
 };
 use crate::checkpoint::save_checkpoint_atomic;
 use crate::git::{branch_name_for, GitHelpers};
@@ -245,7 +246,28 @@ async fn write_relationship_files(
         let before_date = before_date.to_string();
         set.spawn(async move {
             let permit = sem.acquire_owned().await.expect("semaphore");
-            let versioned = format!("{urn}!vig={before_date}");
+            // Recover malformed URNs (e.g. urn:nir:::1895-02-21;70) by looking
+            // up the act via ricerca/avanzata and rebuilding the canonical URN.
+            // Costs +1 API call per malformed reference, but salvages documents
+            // we'd otherwise drop.
+            let canonical = if is_well_formed_urn(&urn) {
+                urn.clone()
+            } else {
+                match resolve_malformed_urn(&urn, &config, &sf, logger.as_ref()).await {
+                    Some(c) => c,
+                    None => {
+                        drop(permit);
+                        return (urn, None);
+                    }
+                }
+            };
+            // !vig= before the act's own vigenza returns "NON ANCORA ESISTENTE"
+            // or 404. Use @originale when before_date predates the cited act.
+            let ref_date = urn_date(&canonical);
+            let versioned = match ref_date.as_deref() {
+                Some(d) if d > before_date.as_str() => format!("{canonical}@originale"),
+                _ => format!("{canonical}!vig={before_date}"),
+            };
             let atto = fetch_act_detail_by_urn(&versioned, &config, &sf, logger.as_ref()).await;
             drop(permit);
             (urn, atto)

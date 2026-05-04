@@ -157,10 +157,23 @@ impl SafeFetch {
             }
 
             let bytes = res.bytes().await?.to_vec();
-            self.logger.log(&format!("[fetch] {} {url}", status.as_u16()));
+            // 404 is a routine sentinel for end-of-articles probing and missing
+            // cross-references — keep it out of the foreground log to avoid
+            // burying real errors in the noise.
+            if status.as_u16() == 404 {
+                self.logger
+                    .log_file(&format!("[fetch] {} {url}", status.as_u16()));
+            } else {
+                self.logger.log(&format!("[fetch] {} {url}", status.as_u16()));
+            }
             self.logger
                 .log_file(&format!("[curl] {}", to_curl(&method, url, &body)));
-            self.cache.insert(key, bytes.clone());
+            // Only cache successful responses. Caching 4xx bodies for the
+            // configured TTL (default 1h) poisoned subsequent retries with
+            // stale "not found" results.
+            if status.is_success() {
+                self.cache.insert(key, bytes.clone());
+            }
             Ok(bytes)
         })
     }

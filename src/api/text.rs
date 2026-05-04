@@ -8,6 +8,22 @@ use crate::types::{AttoDto, BranchableShort, NormattivaAtto};
 static URN_RE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("(?i)urn:nir:[^\\s\"'<>]+").unwrap());
 static URN_DATE_RE: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\d{4}-\d{2}-\d{2}").unwrap());
+// Minimum API-accepted form: urn:nir:<emettitore>:<tipo>:<YYYY-MM-DD>;<num>
+// Both <emettitore> and <tipo> must be non-empty and contain no trailing dot.
+static URN_VALID_RE: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"^urn:nir:[a-z][a-z0-9.]*[a-z0-9]:[a-z][a-z0-9.]*[a-z0-9]:\d{4}-\d{2}-\d{2};[a-z0-9.\-]+$",
+    )
+    .unwrap()
+});
+// Recoverable: has a parseable `:YYYY-MM-DD;<num>` suffix, regardless of the
+// emettitore/tipo segments. Used to keep malformed URNs as candidates that
+// `resolve_malformed_urn` may rebuild.
+static URN_RECOVERABLE_RE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^urn:nir:.*:\d{4}-\d{2}-\d{2};[a-z0-9.\-]+$").unwrap());
+// Captures (yyyy, mm, dd, num) from any malformed URN whose tail is intact.
+static URN_TAIL_RE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r":(\d{4})-(\d{2})-(\d{2});([a-zA-Z0-9.\-]+)$").unwrap());
 
 static TAG_BR_RE: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"(?i)<br\s*/?>").unwrap());
 static TAG_BLOCK_END_RE: LazyLock<Regex> =
@@ -77,6 +93,83 @@ pub fn urn_date(urn: &str) -> Option<String> {
     URN_DATE_RE.find(urn).map(|m| m.as_str().to_string())
 }
 
+/// True when the URN (with any version/article suffix stripped) matches
+/// the minimum form accepted by the Normattiva API.
+///
+/// Rejects malformed harvested URNs like `urn:nir:::1895-02-21;70`,
+/// `urn:nir::regolamento:1909-06-14;442`, or `urn:nir:ministero.:decreto:…`
+/// that would otherwise return HTTP 400 "urn assente o non valido".
+pub fn is_well_formed_urn(urn: &str) -> bool {
+    // strip any version/article suffix before checking the base
+    let base = urn.split(['@', '!']).next().unwrap_or(urn);
+    URN_VALID_RE.is_match(base)
+}
+
+/// True when the URN has a parseable date+number suffix and so can be fed to
+/// `resolve_malformed_urn` for an API-side lookup. Strictly weaker than
+/// `is_well_formed_urn` — every well-formed URN is also recoverable.
+pub fn is_recoverable_urn(urn: &str) -> bool {
+    let base = urn.split(['@', '!']).next().unwrap_or(urn);
+    URN_RECOVERABLE_RE.is_match(base)
+}
+
+/// Parsed date + number tail extracted from a (possibly malformed) URN.
+#[derive(Debug, Clone)]
+pub struct UrnTail {
+    pub year: String,
+    pub month: String,
+    pub day: String,
+    pub num: String,
+}
+
+/// Parse the date+number tail of a URN. Works on malformed URNs as long as
+/// `:YYYY-MM-DD;<num>` is intact at the end. Returns None otherwise.
+pub fn parse_urn_tail(urn: &str) -> Option<UrnTail> {
+    let base = urn.split(['@', '!']).next().unwrap_or(urn);
+    let caps = URN_TAIL_RE.captures(base)?;
+    Some(UrnTail {
+        year: caps.get(1)?.as_str().to_string(),
+        month: caps.get(2)?.as_str().to_string(),
+        day: caps.get(3)?.as_str().to_string(),
+        num: caps.get(4)?.as_str().to_string(),
+    })
+}
+
+/// Tie-breaker hint: the `tipo` segment of a malformed URN, if present.
+///
+/// Examples:
+///   urn:nir:::1895-02-21;70                      → None
+///   urn:nir::regolamento:1909-06-14;442          → Some("regolamento")
+///   urn:nir:ministero.:decreto:1910-12-22;6710   → Some("decreto")
+///   urn:nir:presidente.repubblica:decreto:...    → Some("decreto")
+pub fn denomination_hint(urn: &str) -> Option<String> {
+    let base = urn.split(['@', '!']).next().unwrap_or(urn);
+    let segs: Vec<&str> = base.split(':').collect();
+    // urn:nir:<emettitore>:<tipo>:<date>;<num> → 5 colon-separated segments
+    if segs.len() < 5 {
+        return None;
+    }
+    let tipo = segs[3].trim().trim_end_matches('.');
+    if tipo.is_empty() {
+        None
+    } else {
+        Some(tipo.to_string())
+    }
+}
+
+/// Look up the canonical URN denomination form for an act's
+/// `denominazioneAtto` value (uppercase). Falls back to a dot-joined form.
+pub fn denomination_to_urn_form(denom_upper: &str) -> String {
+    DENOMINATION_URN_MAP
+        .get(denom_upper)
+        .map(|s| s.to_string())
+        .unwrap_or_else(|| {
+            SPACE_DASH_RUN_RE
+                .replace_all(&denom_upper.to_lowercase(), ".")
+                .to_string()
+        })
+}
+
 /// Extract unique law-level URN references from HTML content.
 /// Strips article-level fragments (after `~`) and deduplicates.
 /// `before_date` filters URNs whose embedded date is strictly before that date
@@ -89,6 +182,13 @@ pub fn extract_urns(html: &str, self_codice: Option<&str>, before_date: Option<&
     for m in URN_RE.find_iter(html) {
         let raw = m.as_str();
         let law_level = raw.split('~').next().unwrap_or(raw).to_lowercase();
+
+        // Keep both well-formed and recoverable URNs; the cross-ref dispatch
+        // canonicalises malformed ones via ricerca/avanzata before fetching.
+        // URNs without a parseable date+number tail are unrecoverable junk.
+        if !is_recoverable_urn(&law_level) {
+            continue;
+        }
 
         if let Some(self_lc) = &self_lc {
             if law_level.contains(self_lc) {
@@ -340,6 +440,113 @@ pub fn is_decreto_legge(act: &NormattivaAtto) -> bool {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn well_formed_urn_classifier() {
+        // Reject malformed harvested URNs (these otherwise return HTTP 400).
+        assert!(!is_well_formed_urn("urn:nir:::1895-02-21;70"));
+        assert!(!is_well_formed_urn("urn:nir::regolamento:1909-06-14;442"));
+        assert!(!is_well_formed_urn("urn:nir:ministero.:decreto:1910-12-22;6710"));
+        // Accept canonical forms, including with version/article suffixes.
+        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123"));
+        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123@originale"));
+        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01"));
+        assert!(is_well_formed_urn(
+            "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-31;1"
+        ));
+        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;150-bis"));
+        // Non-canonical but parsable (presidente.repubblica:decreto): accept,
+        // because the API may still resolve it.
+        assert!(is_well_formed_urn(
+            "urn:nir:presidente.repubblica:decreto:1973-09-29;598"
+        ));
+    }
+
+    #[test]
+    fn parses_urn_tail_for_all_observed_shapes() {
+        let cases = [
+            ("urn:nir:::1895-02-21;70", "1895", "02", "21", "70"),
+            ("urn:nir::regolamento:1909-06-14;442", "1909", "06", "14", "442"),
+            ("urn:nir:ministero.:decreto:1910-12-22;6710", "1910", "12", "22", "6710"),
+            (
+                "urn:nir:presidente.repubblica:decreto:1973-09-29;598",
+                "1973",
+                "09",
+                "29",
+                "598",
+            ),
+            ("urn:nir:stato:legge:2020-01-15;150-bis", "2020", "01", "15", "150-bis"),
+            (
+                "urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01",
+                "2020",
+                "01",
+                "15",
+                "123",
+            ),
+            (
+                "urn:nir:stato:legge:2020-01-15;123@originale",
+                "2020",
+                "01",
+                "15",
+                "123",
+            ),
+        ];
+        for (urn, y, m, d, n) in cases {
+            let t = parse_urn_tail(urn).unwrap_or_else(|| panic!("no tail for {urn}"));
+            assert_eq!((t.year.as_str(), t.month.as_str(), t.day.as_str(), t.num.as_str()), (y, m, d, n), "case {urn}");
+        }
+        assert!(parse_urn_tail("urn:nir:not-a-urn").is_none());
+        assert!(parse_urn_tail("urn:nir:::no-date;here").is_none());
+    }
+
+    #[test]
+    fn denomination_hint_extracts_tipo_segment() {
+        assert_eq!(denomination_hint("urn:nir:::1895-02-21;70"), None);
+        assert_eq!(
+            denomination_hint("urn:nir::regolamento:1909-06-14;442"),
+            Some("regolamento".into()),
+        );
+        assert_eq!(
+            denomination_hint("urn:nir:ministero.:decreto:1910-12-22;6710"),
+            Some("decreto".into()),
+        );
+        assert_eq!(
+            denomination_hint("urn:nir:stato:legge:2020-01-15;123"),
+            Some("legge".into()),
+        );
+    }
+
+    #[test]
+    fn recoverable_urn_classifier() {
+        assert!(is_recoverable_urn("urn:nir:::1895-02-21;70"));
+        assert!(is_recoverable_urn("urn:nir::regolamento:1909-06-14;442"));
+        assert!(is_recoverable_urn("urn:nir:stato:legge:2020-01-15;123"));
+        assert!(is_recoverable_urn(
+            "urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01"
+        ));
+        assert!(!is_recoverable_urn("urn:nir:not-a-urn"));
+        assert!(!is_recoverable_urn("urn:nir:::no-date;here"));
+    }
+
+    #[test]
+    fn extract_urns_keeps_recoverable_drops_unrecoverable() {
+        // Recoverable malformed URNs (with parseable date+number tail) are
+        // kept as candidates for downstream resolveMalformedUrn. URNs without
+        // a parseable tail are dropped as unrecoverable junk.
+        let html = "see urn:nir:::1895-02-21;70 and \
+            urn:nir:stato:legge:1900-01-15;42 \
+            and urn:nir::regolamento:1909-06-14;442 \
+            and urn:nir:not-a-urn";
+        let mut got = extract_urns(html, None, None);
+        got.sort();
+        let mut want = vec![
+            "urn:nir:::1895-02-21;70".to_string(),
+            "urn:nir::regolamento:1909-06-14;442".to_string(),
+            "urn:nir:stato:legge:1900-01-15;42".to_string(),
+        ];
+        want.sort();
+        assert_eq!(got, want);
+    }
 
     #[test]
     fn extracts_law_level_urns_dedup() {
