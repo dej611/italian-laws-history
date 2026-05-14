@@ -31,7 +31,7 @@ pub struct LoggerHandle {
 }
 
 /// Construct the logger stack: TUI (if available) or CI logger, both wrapped
-/// with a daily file-log appender (`processing-YYYY-MM-DD.log`).
+/// with a daily file-log appender (`processing-YYYY-MM-DD-rs.log`).
 pub async fn build_logger(ci_mode: bool, log_dir: &str) -> Result<LoggerHandle> {
     let file_layer = file::FileLog::open(log_dir).ok();
 

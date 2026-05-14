@@ -9,7 +9,7 @@ use chrono::Utc;
 use crate::logger::Logger;
 use crate::types::{ActVersionEntry, NormattivaAtto};
 
-/// Append-only daily log file: `processing-YYYY-MM-DD.log`.
+/// Append-only daily log file: `processing-YYYY-MM-DD-rs.log` (distinct from the TS `processing-*.log` naming).
 pub struct FileLog {
     file: Mutex<File>,
 }
@@ -17,7 +17,7 @@ pub struct FileLog {
 impl FileLog {
     pub fn open(dir: &str) -> std::io::Result<Self> {
         let date = Utc::now().format("%Y-%m-%d");
-        let path: PathBuf = PathBuf::from(dir).join(format!("processing-{date}.log"));
+        let path: PathBuf = PathBuf::from(dir).join(format!("processing-{date}-rs.log"));
         let mut f = OpenOptions::new().create(true).append(true).open(&path)?;
         writeln!(f, "\n=== Run started {} ===", Utc::now().to_rfc3339())?;
         Ok(Self { file: Mutex::new(f) })
