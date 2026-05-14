@@ -1,6 +1,7 @@
-use std::collections::HashSet;
+use std::collections::{HashMap, HashSet};
 use std::sync::OnceLock;
 
+use chrono::{Datelike, Duration, NaiveDate};
 use regex::Regex;
 use serde_json::{json, Value};
 
@@ -434,6 +435,78 @@ fn is_rdl_ratification_context(ctx: ConversionSearchContext<'_>) -> bool {
     )
 }
 
+const ITALIAN_MONTHS: [&str; 12] = [
+    "gennaio",
+    "febbraio",
+    "marzo",
+    "aprile",
+    "maggio",
+    "giugno",
+    "luglio",
+    "agosto",
+    "settembre",
+    "ottobre",
+    "novembre",
+    "dicembre",
+];
+
+fn normalize_ws_lower(s: &str) -> String {
+    s.chars()
+        .map(|c| if c.is_whitespace() { ' ' } else { c })
+        .collect::<String>()
+        .to_lowercase()
+        .split_whitespace()
+        .collect::<Vec<_>>()
+        .join(" ")
+}
+
+/// Calendar fragment used in conversion-law titles, e.g. `16 gennaio 2014, n. 2`.
+fn build_italian_citation_fragment(ctx: ConversionSearchContext<'_>) -> Option<String> {
+    let num_raw = ctx.numero_provvedimento?.trim();
+    if num_raw.is_empty() {
+        return None;
+    }
+    let num = strip_leading_zeros(num_raw);
+
+    let (day, month, year): (u32, u32, i32) =
+        if let (Some(gp), Some(mp)) = (ctx.giorno_provvedimento, ctx.mese_provvedimento) {
+            let day = gp.trim().parse().ok()?;
+            let month = mp.trim().parse().ok()?;
+            let year = ctx
+                .anno_provvedimento
+                .and_then(|a| a.trim().parse().ok())
+                .or_else(|| {
+                    ctx.data_gu
+                        .split('-')
+                        .next()
+                        .and_then(|y| y.parse().ok())
+                })?;
+            (day, month, year)
+        } else {
+            let d = NaiveDate::parse_from_str(ctx.data_gu, "%Y-%m-%d").ok()?;
+            (d.day(), d.month(), d.year())
+        };
+
+    if !(1..=12).contains(&month) {
+        return None;
+    }
+    let mes = ITALIAN_MONTHS[(month - 1) as usize];
+    Some(format!("{day} {mes} {year}, n. {num}"))
+}
+
+fn build_conversion_citation_search_text(ctx: ConversionSearchContext<'_>) -> Option<String> {
+    let frag = build_italian_citation_fragment(ctx)?;
+    if is_rdl_ratification_context(ctx) {
+        Some(format!(
+            "Conversione in legge del regio decreto-legge {frag}"
+        ))
+    } else {
+        Some(format!(
+            "Conversione in legge del decreto-legge {frag}"
+        ))
+    }
+}
+
 fn strip_leading_zeros(s: &str) -> &str {
     let t = s.trim_start_matches('0');
     if t.is_empty() {
@@ -572,142 +645,247 @@ fn score_conversion_candidate(
 const CONVERSION_SEARCH_PAGE_SIZE: u32 = 25;
 const CONVERSION_SEARCH_MAX_PAGES: u32 = 12;
 const CONVERSION_SCORE_THRESHOLD: i32 = 72;
+const CONVERSION_CITATION_PUB_WINDOW_DAYS: i64 = 180;
 
 async fn ricerca_leggi_mentioning_dl(
-    ctx: ConversionSearchContext<'_>,
-    config: &Config,
-    sf: &SafeFetch,
-    use_pub_date_lower_bound: bool,
+  ctx: ConversionSearchContext<'_>,
+  config: &Config,
+  sf: &SafeFetch,
+  use_pub_date_lower_bound: bool,
 ) -> Vec<NormattivaAtto> {
-    let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
-    let mut collected: Vec<NormattivaAtto> = Vec::new();
+  let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
+  let mut collected: Vec<NormattivaAtto> = Vec::new();
+  let mut total_pages: u32 = 1;
+  let mut page: u32 = 0;
+
+  while page < CONVERSION_SEARCH_MAX_PAGES && page < total_pages {
+    let mut base = serde_json::Map::new();
+    base.insert(
+      "testoRicerca".to_string(),
+      Value::String(ctx.codice_redazionale.to_string()),
+    );
+    base.insert(
+      "denominazioneAtto".to_string(),
+      Value::String("LEGGE".into()),
+    );
+    base.insert(
+      "paginazione".to_string(),
+      json!({
+          "paginaCorrente": page,
+          "numeroElementiPerPagina": CONVERSION_SEARCH_PAGE_SIZE,
+      }),
+    );
+    if use_pub_date_lower_bound && !ctx.data_gu.is_empty() {
+      let iso = format!("{}T00:00:00.000Z", ctx.data_gu);
+      base.insert(
+        "dataInizioPubProvvedimento".to_string(),
+        Value::String(iso),
+      );
+    }
+    let body = Value::Object(base);
+
+    let res: RicercaResponse = match sf.post_json(&url, &body).await {
+      Ok(r) => r,
+      Err(_) => break,
+    };
+    total_pages = res.numero_pagine.unwrap_or(1);
+    let page_acts = res.lista_atti.unwrap_or_default();
+    if page_acts.is_empty() {
+      break;
+    }
+    collected.extend(page_acts);
+    page += 1;
+  }
+
+  collected
+}
+
+fn dedupe_atti_by_codice(atti: Vec<NormattivaAtto>) -> Vec<NormattivaAtto> {
+  let mut m: HashMap<String, NormattivaAtto> = HashMap::new();
+  for a in atti {
+    m.insert(a.codice_redazionale.clone(), a);
+  }
+  m.into_values().collect()
+}
+
+async fn ricerca_leggi_by_conversione_citation(
+  ctx: ConversionSearchContext<'_>,
+  config: &Config,
+  sf: &SafeFetch,
+) -> Vec<NormattivaAtto> {
+  let Some(primary) = build_conversion_citation_search_text(ctx) else {
+    return Vec::new();
+  };
+  let Some(from) = NaiveDate::parse_from_str(ctx.data_gu, "%Y-%m-%d").ok() else {
+    return Vec::new();
+  };
+  let to = from + Duration::days(CONVERSION_CITATION_PUB_WINDOW_DAYS);
+  let from_iso = format!("{}T00:00:00.000Z", from.format("%Y-%m-%d"));
+  let to_iso = format!("{}T00:00:00.000Z", to.format("%Y-%m-%d"));
+
+  let mut phrases = vec![primary.clone()];
+  if !is_rdl_ratification_context(ctx) {
+    let alt = primary.replace(
+      "Conversione in legge del decreto-legge",
+      "Conversione in legge, con modificazioni, del decreto-legge",
+    );
+    if alt != primary {
+      phrases.push(alt);
+    }
+  }
+
+  let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
+  let mut collected: Vec<NormattivaAtto> = Vec::new();
+  let mut seen: HashSet<String> = HashSet::new();
+
+  for testo in phrases {
     let mut total_pages: u32 = 1;
     let mut page: u32 = 0;
-
     while page < CONVERSION_SEARCH_MAX_PAGES && page < total_pages {
-        let mut base = serde_json::Map::new();
-        base.insert(
-            "testoRicerca".to_string(),
-            Value::String(ctx.codice_redazionale.to_string()),
-        );
-        base.insert(
-            "denominazioneAtto".to_string(),
-            Value::String("LEGGE".into()),
-        );
-        base.insert(
-            "paginazione".to_string(),
-            json!({
-                "paginaCorrente": page,
-                "numeroElementiPerPagina": CONVERSION_SEARCH_PAGE_SIZE,
-            }),
-        );
-        if use_pub_date_lower_bound && !ctx.data_gu.is_empty() {
-            let iso = format!("{}T00:00:00.000Z", ctx.data_gu);
-            base.insert(
-                "dataInizioPubProvvedimento".to_string(),
-                Value::String(iso),
-            );
+      let body = json!({
+          "testoRicerca": testo,
+          "denominazioneAtto": "LEGGE",
+          "dataInizioPubProvvedimento": from_iso,
+          "dataFinePubProvvedimento": to_iso,
+          "paginazione": {
+              "paginaCorrente": page,
+              "numeroElementiPerPagina": CONVERSION_SEARCH_PAGE_SIZE,
+          }
+      });
+      let res: RicercaResponse = match sf.post_json(&url, &body).await {
+        Ok(r) => r,
+        Err(_) => break,
+      };
+      total_pages = res.numero_pagine.unwrap_or(1);
+      let page_acts = res.lista_atti.unwrap_or_default();
+      if page_acts.is_empty() {
+        break;
+      }
+      for a in page_acts {
+        if seen.insert(a.codice_redazionale.clone()) {
+          collected.push(a);
         }
-        let body = Value::Object(base);
-
-        let res: RicercaResponse = match sf.post_json(&url, &body).await {
-            Ok(r) => r,
-            Err(_) => break,
-        };
-        total_pages = res.numero_pagine.unwrap_or(1);
-        let page_acts = res.lista_atti.unwrap_or_default();
-        if page_acts.is_empty() {
-            break;
-        }
-        collected.extend(page_acts);
-        page += 1;
+      }
+      page += 1;
     }
+  }
 
-    collected
+  collected
 }
 
 fn try_pick_best_conversion(
-    hits: &[NormattivaAtto],
-    ctx: ConversionSearchContext<'_>,
-    linked_codici: &HashSet<String>,
+  hits: &[NormattivaAtto],
+  ctx: ConversionSearchContext<'_>,
+  linked_codici: &HashSet<String>,
+  citation_frag: Option<&str>,
 ) -> Option<NormattivaAtto> {
-    let mut best: Option<(i32, NormattivaAtto)> = None;
-    for hit in hits {
-        let s = score_conversion_candidate(hit, ctx, linked_codici);
-        if let Some((bs, _)) = best.as_ref() {
-            if s <= *bs {
-                continue;
-            }
-        }
-        best = Some((s, hit.clone()));
+  let mut best: Option<(i32, NormattivaAtto)> = None;
+  for hit in hits {
+    let mut s = score_conversion_candidate(hit, ctx, linked_codici);
+    if let Some(cf) = citation_frag {
+      let blob = normalize_ws_lower(&format!(
+        "{} {}",
+        hit.titolo_atto.as_deref().unwrap_or(""),
+        hit.descrizione_atto.as_deref().unwrap_or(""),
+      ));
+      let frag = normalize_ws_lower(cf);
+      if !frag.is_empty() && blob.contains(&frag) {
+        s += 185;
+      }
     }
-    let (best_score, best_hit) = best?;
-    if linked_codici.contains(&best_hit.codice_redazionale) {
-        return Some(best_hit);
+    if let Some((bs, _)) = best.as_ref() {
+      if s <= *bs {
+        continue;
+      }
     }
-    if best_score >= CONVERSION_SCORE_THRESHOLD {
-        return Some(best_hit);
-    }
-    None
+    best = Some((s, hit.clone()));
+  }
+  let (best_score, best_hit) = best?;
+  if linked_codici.contains(&best_hit.codice_redazionale) {
+    return Some(best_hit);
+  }
+  if best_score >= CONVERSION_SCORE_THRESHOLD {
+    return Some(best_hit);
+  }
+  None
 }
 
 /// Search for the ordinary law that converts a decreto-legge, or ratifies a
 /// regio decreto-legge, using `dettaglio-atto` modifier links when present,
-/// paginated `ricerca/avanzata`, and scored title heuristics (TS parity).
+/// paginated `ricerca/avanzata`, a citation-based fallback, and scored title
+/// heuristics (TS parity).
 pub async fn fetch_conversion_law(
-    ctx: ConversionSearchContext<'_>,
-    config: &Config,
-    sf: &SafeFetch,
-    _logger: &dyn Logger,
+  ctx: ConversionSearchContext<'_>,
+  config: &Config,
+  sf: &SafeFetch,
+  _logger: &dyn Logger,
 ) -> Option<NormattivaAtto> {
-    let codice = ctx.codice_redazionale;
-    let mut linked_codici: HashSet<String> = HashSet::new();
+  let codice = ctx.codice_redazionale;
+  let mut linked_codici: HashSet<String> = HashSet::new();
 
-    let detail = fetch_dettaglio_atto_shell(ctx, ctx.data_gu, config, sf).await;
-    if let Some(ref d) = detail {
-        if d.success.unwrap_or(false) {
-            for c in collect_ultimi_atti_modificanti_codici(d) {
-                if c != codice {
-                    linked_codici.insert(c);
-                }
-            }
-        }
+  let detail = fetch_dettaglio_atto_shell(ctx, ctx.data_gu, config, sf).await;
+  if let Some(ref d) = detail {
+    for c in collect_ultimi_atti_modificanti_codici(d) {
+      if c != codice {
+        linked_codici.insert(c);
+      }
     }
+  }
 
-    let hits_a = ricerca_leggi_mentioning_dl(ctx, config, sf, true).await;
-    if let Some(hit) = try_pick_best_conversion(&hits_a, ctx, &linked_codici) {
-        return Some(hit);
-    }
-    let hits_b = ricerca_leggi_mentioning_dl(ctx, config, sf, false).await;
-    if let Some(hit) = try_pick_best_conversion(&hits_b, ctx, &linked_codici) {
-        return Some(hit);
-    }
+  let citation_frag = build_italian_citation_fragment(ctx);
 
-    let linked_snapshot: Vec<String> = linked_codici.iter().cloned().collect();
-    for link_cod in &linked_snapshot {
-        let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
-        let body = json!({
-            "testoRicerca": link_cod,
-            "denominazioneAtto": "LEGGE",
-            "paginazione": { "paginaCorrente": 0, "numeroElementiPerPagina": 15 }
-        });
-        let res: RicercaResponse = match sf.post_json(&url, &body).await {
-            Ok(r) => r,
-            Err(_) => continue,
-        };
-        let list = res.lista_atti.unwrap_or_default();
-        let exact = list.into_iter().find(|a| {
-            a.codice_redazionale == *link_cod
-                && is_legge_denomination(a.denominazione_atto.as_deref())
-        });
-        if let Some(ex) = exact {
-            if score_conversion_candidate(&ex, ctx, &linked_codici) >= 40 {
-                return Some(ex);
-            }
-        }
-    }
+  let hits_a = ricerca_leggi_mentioning_dl(ctx, config, sf, true).await;
+  if let Some(hit) =
+    try_pick_best_conversion(&hits_a, ctx, &linked_codici, citation_frag.as_deref())
+  {
+    return Some(hit);
+  }
+  let hits_b = ricerca_leggi_mentioning_dl(ctx, config, sf, false).await;
+  if let Some(hit) =
+    try_pick_best_conversion(&hits_b, ctx, &linked_codici, citation_frag.as_deref())
+  {
+    return Some(hit);
+  }
 
-    None
+  let hits_c = ricerca_leggi_by_conversione_citation(ctx, config, sf).await;
+  let merged = dedupe_atti_by_codice(
+    hits_a
+      .into_iter()
+      .chain(hits_b)
+      .chain(hits_c)
+      .collect(),
+  );
+  if let Some(hit) =
+    try_pick_best_conversion(&merged, ctx, &linked_codici, citation_frag.as_deref())
+  {
+    return Some(hit);
+  }
+
+  let linked_snapshot: Vec<String> = linked_codici.iter().cloned().collect();
+  for link_cod in &linked_snapshot {
+    let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
+    let body = json!({
+        "testoRicerca": link_cod,
+        "denominazioneAtto": "LEGGE",
+        "paginazione": { "paginaCorrente": 0, "numeroElementiPerPagina": 15 }
+    });
+    let res: RicercaResponse = match sf.post_json(&url, &body).await {
+      Ok(r) => r,
+      Err(_) => continue,
+    };
+    let list = res.lista_atti.unwrap_or_default();
+    let exact = list.into_iter().find(|a| {
+      a.codice_redazionale == *link_cod
+        && is_legge_denomination(a.denominazione_atto.as_deref())
+    });
+    if let Some(ex) = exact {
+      if score_conversion_candidate(&ex, ctx, &linked_codici) >= 40 {
+        return Some(ex);
+      }
+    }
+  }
+
+  None
 }
 
 /// Lifecycle status of an act, from `classeProvvedimento`.

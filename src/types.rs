@@ -146,6 +146,8 @@ pub struct ConversionSearchContext<'a> {
     pub anno_provvedimento: Option<&'a str>,
     pub numero_provvedimento: Option<&'a str>,
     pub denominazione_atto: Option<&'a str>,
+    pub mese_provvedimento: Option<&'a str>,
+    pub giorno_provvedimento: Option<&'a str>,
     pub numero_supplemento: Option<&'a str>,
 }
 
@@ -157,6 +159,8 @@ impl<'a> ConversionSearchContext<'a> {
             anno_provvedimento: act.anno_provvedimento.as_deref(),
             numero_provvedimento: act.numero_provvedimento.as_deref(),
             denominazione_atto: act.denominazione_atto.as_deref(),
+            mese_provvedimento: None,
+            giorno_provvedimento: None,
             numero_supplemento: None,
         }
     }
@@ -168,6 +172,8 @@ impl<'a> ConversionSearchContext<'a> {
             anno_provvedimento: act.anno_provvedimento.as_deref(),
             numero_provvedimento: act.numero_provvedimento.as_deref(),
             denominazione_atto: act.denominazione_atto.as_deref(),
+            mese_provvedimento: act.mese_provvedimento.as_deref(),
+            giorno_provvedimento: act.giorno_provvedimento.as_deref(),
             numero_supplemento: act.numero_supplemento.as_deref(),
         }
     }
