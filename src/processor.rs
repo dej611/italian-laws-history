@@ -24,8 +24,8 @@ use crate::git::{branch_name_for, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::Logger;
 use crate::types::{
-    ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config, NormattivaAtto,
-    PendingAct,
+    ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config, ConversionSearchContext,
+    NormattivaAtto, PendingAct,
 };
 
 const SECS_PER_DAY: i64 = 24 * 60 * 60;
@@ -536,9 +536,13 @@ pub async fn reconcile_pending_acts(
         // whole window. On error, keep the entry in `pending_acts` so a future
         // run can retry, then land back on `history` for the next iteration.
         let outcome: Result<ReconcileOutcome> = async {
-        let conv =
-            fetch_conversion_law(&codice, &deps.config, &deps.safe_fetch, deps.logger.as_ref())
-                .await;
+            let conv = fetch_conversion_law(
+                ConversionSearchContext::from_pending(&act),
+                &deps.config,
+                &deps.safe_fetch,
+                deps.logger.as_ref(),
+            )
+            .await;
 
         if let Some(conversion) = conv {
             let merge_date = conversion
@@ -869,7 +873,7 @@ async fn commit_one_act(
             if let Some(info) = branchable {
                 if info.short == BranchableShort::Rdl && info.deadline_days.is_none() {
                     let ratifier = fetch_conversion_law(
-                        &act.codice_redazionale,
+                        ConversionSearchContext::from_atto(act),
                         &deps.config,
                         &deps.safe_fetch,
                         deps.logger.as_ref(),

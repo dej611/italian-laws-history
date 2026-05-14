@@ -1,3 +1,7 @@
+use std::collections::HashSet;
+use std::sync::OnceLock;
+
+use regex::Regex;
 use serde_json::{json, Value};
 
 use crate::api::text::{
@@ -6,7 +10,8 @@ use crate::api::text::{
 use crate::http::SafeFetch;
 use crate::logger::Logger;
 use crate::types::{
-    ActStatus, AttoDto, Config, DettaglioAttoResponse, NormattivaAtto, RicercaResponse,
+    ActStatus, AttoDto, Config, ConversionSearchContext, DettaglioAttoResponse, NormattivaAtto,
+    RicercaResponse,
 };
 
 // Used by the (currently unreferenced) `fetch_full_act_text` helper, retained
@@ -357,36 +362,352 @@ pub async fn fetch_full_act_text(
     Some((raw, plain))
 }
 
-/// Search for a Decreto-Legge's conversion law via ricerca/avanzata.
-pub async fn fetch_conversion_law(
-    dl_codice: &str,
-    config: &Config,
-    sf: &SafeFetch,
-    logger: &dyn Logger,
-) -> Option<NormattivaAtto> {
-    let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
-    let body = json!({
-        "testoRicerca": dl_codice,
-        "denominazioneAtto": "LEGGE",
-        "paginazione": { "paginaCorrente": 0, "numeroElementiPerPagina": 5 }
-    });
+static CODICE_REDAZIONALE_IN_TEXT_RE: OnceLock<Regex> = OnceLock::new();
 
-    match sf.post_json::<RicercaResponse>(&url, &body).await {
-        Ok(res) => {
-            let re = regex::Regex::new(r"(?i)conversion[ei]").ok()?;
-            res.lista_atti
-                .unwrap_or_default()
-                .into_iter()
-                .find(|a| {
-                    re.is_match(a.titolo_atto.as_deref().unwrap_or(""))
-                        || re.is_match(a.descrizione_atto.as_deref().unwrap_or(""))
-                })
-        }
-        Err(err) => {
-            logger.log(&format!("fetchConversionLaw fallito per {dl_codice}: {err}"));
-            None
+fn codice_redazionale_in_text_re() -> &'static Regex {
+    CODICE_REDAZIONALE_IN_TEXT_RE.get_or_init(|| {
+        Regex::new(r"\b\d{2,6}[A-Z]\d{3,}\b").expect("CODICE_REDAZIONALE_IN_TEXT_RE")
+    })
+}
+
+fn extract_codici_redazionali_from_blob(blob: &str) -> HashSet<String> {
+    let re = codice_redazionale_in_text_re();
+    re.find_iter(blob)
+        .map(|m| m.as_str().to_string())
+        .collect()
+}
+
+fn collect_ultimi_atti_modificanti_codici(res: &DettaglioAttoResponse) -> HashSet<String> {
+    let mut parts: Vec<&str> = Vec::new();
+    let Some(data) = res.data.as_ref() else {
+        return HashSet::new();
+    };
+    if let Some(s) = data.ultimi_atti_modificanti.as_deref() {
+        if !s.is_empty() {
+            parts.push(s);
         }
     }
+    if let Some(s) = data
+        .atto
+        .as_ref()
+        .and_then(|a| a.ultimi_atti_modificanti.as_deref())
+    {
+        if !s.is_empty() {
+            parts.push(s);
+        }
+    }
+    extract_codici_redazionali_from_blob(&parts.join("\n"))
+}
+
+async fn fetch_dettaglio_atto_shell(
+    ctx: ConversionSearchContext<'_>,
+    data_vigenza: &str,
+    config: &Config,
+    sf: &SafeFetch,
+) -> Option<DettaglioAttoResponse> {
+    let url = format!("{}/api/v1/atto/dettaglio-atto", config.api_base);
+    let mut body = json!({
+        "codiceRedazionale": ctx.codice_redazionale,
+        "dataGU": ctx.data_gu,
+        "tipoDettaglio": "multivigenza",
+        "dataVigenza": data_vigenza,
+    });
+    if let Some(ns) = ctx.numero_supplemento.and_then(|s| s.parse::<u64>().ok()) {
+        if ns > 0 {
+            body["numeroSupplemento"] = Value::from(ns);
+        }
+    }
+    sf.post_json(&url, &body).await.ok()
+}
+
+fn is_legge_denomination(denom: Option<&str>) -> bool {
+    let Some(d) = denom.map(|s| s.trim().to_uppercase()) else {
+        return false;
+    };
+    d == "LEGGE" || d == "LEGGE COSTITUZIONALE"
+}
+
+fn is_rdl_ratification_context(ctx: ConversionSearchContext<'_>) -> bool {
+    matches!(
+        ctx.denominazione_atto.map(|s| s.trim().to_uppercase()).as_deref(),
+        Some(d) if d == "REGIO DECRETO-LEGGE"
+    )
+}
+
+fn strip_leading_zeros(s: &str) -> &str {
+    let t = s.trim_start_matches('0');
+    if t.is_empty() {
+        s
+    } else {
+        t
+    }
+}
+
+fn score_conversion_candidate(
+    hit: &NormattivaAtto,
+    ctx: ConversionSearchContext<'_>,
+    linked_codici: &HashSet<String>,
+) -> i32 {
+    if hit.codice_redazionale == ctx.codice_redazionale {
+        return 0;
+    }
+    if !is_legge_denomination(hit.denominazione_atto.as_deref()) {
+        return 0;
+    }
+
+    let tit = format!(
+        "{}\n{}",
+        hit.titolo_atto.as_deref().unwrap_or(""),
+        hit.descrizione_atto.as_deref().unwrap_or("")
+    );
+    let rdl = is_rdl_ratification_context(ctx);
+    let mut score: i32 = 0;
+
+    if linked_codici.contains(&hit.codice_redazionale) {
+        score += 220;
+    }
+
+    let codice_esc = regex::escape(ctx.codice_redazionale);
+    if let Ok(re) = Regex::new(&format!(r"(?i){codice_esc}")) {
+        if re.is_match(&tit) {
+            score += 80;
+        }
+    }
+
+    if let (Some(anno), Some(num)) = (ctx.anno_provvedimento, ctx.numero_provvedimento) {
+        let yr = strip_leading_zeros(anno);
+        let n = strip_leading_zeros(num);
+        let yr_e = regex::escape(yr);
+        let n_e = regex::escape(n);
+        let dl_pat = format!(
+            r"(?i)(?:decreto[-\s]?legge|d\.\s*l\.\s*|d\.l\.)[^\d]{{0,40}}{yr_e}[^\d]{{0,12}}{n_e}\b"
+        );
+        let rdl_pat = format!(
+            r"(?i)(?:regio\s+decreto[-\s]?legge|rdl|r\.d\.l\.)[^\d]{{0,40}}{yr_e}[^\d]{{0,12}}{n_e}\b"
+        );
+        if Regex::new(&dl_pat).map(|r| r.is_match(&tit)).unwrap_or(false) {
+            score += 70;
+        }
+        if rdl && Regex::new(&rdl_pat).map(|r| r.is_match(&tit)).unwrap_or(false) {
+            score += 70;
+        }
+    }
+
+    if Regex::new(r"(?i)\bconvertito\s+in\s+legge\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 110;
+    }
+    if Regex::new(r"(?i)\blegge\s+di\s+conversione\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 110;
+    }
+    if Regex::new(r"(?i)\bconversione\s+in\s+legge\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 95;
+    }
+    if Regex::new(r"(?i)\bconverte(?:\s+il|\s+la)?\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 45;
+    }
+    if Regex::new(r"(?i)\bconvertit[aei]\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 40;
+    }
+    if Regex::new(r"(?i)\bconversione\b")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 38;
+    }
+    if Regex::new(r"(?i)conversion[ei]")
+        .map(|r| r.is_match(&tit))
+        .unwrap_or(false)
+    {
+        score += 35;
+    }
+
+    if rdl {
+        if Regex::new(r"(?i)\bratificazion[ei]\b")
+            .map(|r| r.is_match(&tit))
+            .unwrap_or(false)
+        {
+            score += 95;
+        }
+        if Regex::new(r"(?i)\bratific[ao]\b")
+            .map(|r| r.is_match(&tit))
+            .unwrap_or(false)
+        {
+            score += 85;
+        }
+        if Regex::new(r"(?i)\bratificat[aei]\b")
+            .map(|r| r.is_match(&tit))
+            .unwrap_or(false)
+        {
+            score += 80;
+        }
+        if Regex::new(r"(?i)\bapprovazione\b")
+            .map(|r| r.is_match(&tit))
+            .unwrap_or(false)
+            && Regex::new(r"(?i)regio\s+decreto[-\s]?legge")
+                .map(|r| r.is_match(&tit))
+                .unwrap_or(false)
+        {
+            score += 55;
+        }
+    }
+
+    score
+}
+
+const CONVERSION_SEARCH_PAGE_SIZE: u32 = 25;
+const CONVERSION_SEARCH_MAX_PAGES: u32 = 12;
+const CONVERSION_SCORE_THRESHOLD: i32 = 72;
+
+async fn ricerca_leggi_mentioning_dl(
+    ctx: ConversionSearchContext<'_>,
+    config: &Config,
+    sf: &SafeFetch,
+    use_pub_date_lower_bound: bool,
+) -> Vec<NormattivaAtto> {
+    let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
+    let mut collected: Vec<NormattivaAtto> = Vec::new();
+    let mut total_pages: u32 = 1;
+    let mut page: u32 = 0;
+
+    while page < CONVERSION_SEARCH_MAX_PAGES && page < total_pages {
+        let mut base = serde_json::Map::new();
+        base.insert(
+            "testoRicerca".to_string(),
+            Value::String(ctx.codice_redazionale.to_string()),
+        );
+        base.insert(
+            "denominazioneAtto".to_string(),
+            Value::String("LEGGE".into()),
+        );
+        base.insert(
+            "paginazione".to_string(),
+            json!({
+                "paginaCorrente": page,
+                "numeroElementiPerPagina": CONVERSION_SEARCH_PAGE_SIZE,
+            }),
+        );
+        if use_pub_date_lower_bound && !ctx.data_gu.is_empty() {
+            let iso = format!("{}T00:00:00.000Z", ctx.data_gu);
+            base.insert(
+                "dataInizioPubProvvedimento".to_string(),
+                Value::String(iso),
+            );
+        }
+        let body = Value::Object(base);
+
+        let res: RicercaResponse = match sf.post_json(&url, &body).await {
+            Ok(r) => r,
+            Err(_) => break,
+        };
+        total_pages = res.numero_pagine.unwrap_or(1);
+        let page_acts = res.lista_atti.unwrap_or_default();
+        if page_acts.is_empty() {
+            break;
+        }
+        collected.extend(page_acts);
+        page += 1;
+    }
+
+    collected
+}
+
+fn try_pick_best_conversion(
+    hits: &[NormattivaAtto],
+    ctx: ConversionSearchContext<'_>,
+    linked_codici: &HashSet<String>,
+) -> Option<NormattivaAtto> {
+    let mut best: Option<(i32, NormattivaAtto)> = None;
+    for hit in hits {
+        let s = score_conversion_candidate(hit, ctx, linked_codici);
+        if let Some((bs, _)) = best.as_ref() {
+            if s <= *bs {
+                continue;
+            }
+        }
+        best = Some((s, hit.clone()));
+    }
+    let (best_score, best_hit) = best?;
+    if linked_codici.contains(&best_hit.codice_redazionale) {
+        return Some(best_hit);
+    }
+    if best_score >= CONVERSION_SCORE_THRESHOLD {
+        return Some(best_hit);
+    }
+    None
+}
+
+/// Search for the ordinary law that converts a decreto-legge, or ratifies a
+/// regio decreto-legge, using `dettaglio-atto` modifier links when present,
+/// paginated `ricerca/avanzata`, and scored title heuristics (TS parity).
+pub async fn fetch_conversion_law(
+    ctx: ConversionSearchContext<'_>,
+    config: &Config,
+    sf: &SafeFetch,
+    _logger: &dyn Logger,
+) -> Option<NormattivaAtto> {
+    let codice = ctx.codice_redazionale;
+    let mut linked_codici: HashSet<String> = HashSet::new();
+
+    let detail = fetch_dettaglio_atto_shell(ctx, ctx.data_gu, config, sf).await;
+    if let Some(ref d) = detail {
+        if d.success.unwrap_or(false) {
+            for c in collect_ultimi_atti_modificanti_codici(d) {
+                if c != codice {
+                    linked_codici.insert(c);
+                }
+            }
+        }
+    }
+
+    let hits_a = ricerca_leggi_mentioning_dl(ctx, config, sf, true).await;
+    if let Some(hit) = try_pick_best_conversion(&hits_a, ctx, &linked_codici) {
+        return Some(hit);
+    }
+    let hits_b = ricerca_leggi_mentioning_dl(ctx, config, sf, false).await;
+    if let Some(hit) = try_pick_best_conversion(&hits_b, ctx, &linked_codici) {
+        return Some(hit);
+    }
+
+    let linked_snapshot: Vec<String> = linked_codici.iter().cloned().collect();
+    for link_cod in &linked_snapshot {
+        let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
+        let body = json!({
+            "testoRicerca": link_cod,
+            "denominazioneAtto": "LEGGE",
+            "paginazione": { "paginaCorrente": 0, "numeroElementiPerPagina": 15 }
+        });
+        let res: RicercaResponse = match sf.post_json(&url, &body).await {
+            Ok(r) => r,
+            Err(_) => continue,
+        };
+        let list = res.lista_atti.unwrap_or_default();
+        let exact = list.into_iter().find(|a| {
+            a.codice_redazionale == *link_cod
+                && is_legge_denomination(a.denominazione_atto.as_deref())
+        });
+        if let Some(ex) = exact {
+            if score_conversion_candidate(&ex, ctx, &linked_codici) >= 40 {
+                return Some(ex);
+            }
+        }
+    }
+
+    None
 }
 
 /// Lifecycle status of an act, from `classeProvvedimento`.

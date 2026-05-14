@@ -137,6 +137,42 @@ pub struct PendingAct {
     pub deadline_days: Option<u32>,
 }
 
+/// Metadata for conversion / ratification lookup (`ricerca` + `dettaglio`).
+/// Built from a [`PendingAct`] or [`NormattivaAtto`].
+#[derive(Debug, Clone, Copy)]
+pub struct ConversionSearchContext<'a> {
+    pub codice_redazionale: &'a str,
+    pub data_gu: &'a str,
+    pub anno_provvedimento: Option<&'a str>,
+    pub numero_provvedimento: Option<&'a str>,
+    pub denominazione_atto: Option<&'a str>,
+    pub numero_supplemento: Option<&'a str>,
+}
+
+impl<'a> ConversionSearchContext<'a> {
+    pub fn from_pending(act: &'a PendingAct) -> Self {
+        Self {
+            codice_redazionale: &act.codice_redazionale,
+            data_gu: &act.data_gu,
+            anno_provvedimento: act.anno_provvedimento.as_deref(),
+            numero_provvedimento: act.numero_provvedimento.as_deref(),
+            denominazione_atto: act.denominazione_atto.as_deref(),
+            numero_supplemento: None,
+        }
+    }
+
+    pub fn from_atto(act: &'a NormattivaAtto) -> Self {
+        Self {
+            codice_redazionale: &act.codice_redazionale,
+            data_gu: &act.data_gu,
+            anno_provvedimento: act.anno_provvedimento.as_deref(),
+            numero_provvedimento: act.numero_provvedimento.as_deref(),
+            denominazione_atto: act.denominazione_atto.as_deref(),
+            numero_supplemento: act.numero_supplemento.as_deref(),
+        }
+    }
+}
+
 fn default_short() -> BranchableShort {
     BranchableShort::Dl
 }
@@ -215,6 +251,8 @@ pub struct AttoDto {
     pub articolo_data_inizio_vigenza: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub articolo_data_fine_vigenza: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub ultimi_atti_modificanti: Option<String>,
 }
 
 #[allow(dead_code)] // `message` and `lista` are populated by serde for parity but unused.
@@ -227,6 +265,8 @@ pub struct DettaglioAttoData {
     pub message: Option<String>,
     #[serde(default)]
     pub lista: Option<Vec<AttoDto>>,
+    #[serde(default)]
+    pub ultimi_atti_modificanti: Option<String>,
 }
 
 #[allow(dead_code)] // `code` parsed for parity; not consumed.
