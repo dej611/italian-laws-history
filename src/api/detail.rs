@@ -450,6 +450,40 @@ const ITALIAN_MONTHS: [&str; 12] = [
     "dicembre",
 ];
 
+/// Prefer candidates whose rubrica cites this DL (`giorno mese anno, n. x`).
+/// When the fragment is known and at least one hit contains it, ignore other hits
+/// so dense conversion seasons cannot outscore the true law. If none match, return
+/// `hits` unchanged (spacing/OCR quirks in old acts).
+fn narrow_conversion_candidates_by_citation_fragment(
+    hits: &[NormattivaAtto],
+    citation_frag: Option<&str>,
+) -> Vec<NormattivaAtto> {
+    let Some(cf) = citation_frag else {
+        return hits.to_vec();
+    };
+    let frag_norm = normalize_ws_lower(cf);
+    if frag_norm.is_empty() {
+        return hits.to_vec();
+    }
+    let matched: Vec<NormattivaAtto> = hits
+        .iter()
+        .filter(|hit| {
+            let blob = normalize_ws_lower(&format!(
+                "{} {}",
+                hit.titolo_atto.as_deref().unwrap_or(""),
+                hit.descrizione_atto.as_deref().unwrap_or(""),
+            ));
+            blob.contains(&frag_norm)
+        })
+        .cloned()
+        .collect();
+    if matched.is_empty() {
+        hits.to_vec()
+    } else {
+        matched
+    }
+}
+
 fn normalize_ws_lower(s: &str) -> String {
     s.chars()
         .map(|c| if c.is_whitespace() { ' ' } else { c })
@@ -655,10 +689,8 @@ async fn ricerca_leggi_mentioning_dl(
 ) -> Vec<NormattivaAtto> {
   let url = format!("{}/api/v1/ricerca/avanzata", config.api_base);
   let mut collected: Vec<NormattivaAtto> = Vec::new();
-  let mut total_pages: u32 = 1;
-  let mut page: u32 = 0;
 
-  while page < CONVERSION_SEARCH_MAX_PAGES && page < total_pages {
+  for page in 0..CONVERSION_SEARCH_MAX_PAGES {
     let mut base = serde_json::Map::new();
     base.insert(
       "testoRicerca".to_string(),
@@ -688,13 +720,11 @@ async fn ricerca_leggi_mentioning_dl(
       Ok(r) => r,
       Err(_) => break,
     };
-    total_pages = res.numero_pagine.unwrap_or(1);
     let page_acts = res.lista_atti.unwrap_or_default();
     if page_acts.is_empty() {
       break;
     }
     collected.extend(page_acts);
-    page += 1;
   }
 
   collected
@@ -739,9 +769,7 @@ async fn ricerca_leggi_by_conversione_citation(
   let mut seen: HashSet<String> = HashSet::new();
 
   for testo in phrases {
-    let mut total_pages: u32 = 1;
-    let mut page: u32 = 0;
-    while page < CONVERSION_SEARCH_MAX_PAGES && page < total_pages {
+    for page in 0..CONVERSION_SEARCH_MAX_PAGES {
       let body = json!({
           "testoRicerca": testo,
           "denominazioneAtto": "LEGGE",
@@ -756,7 +784,6 @@ async fn ricerca_leggi_by_conversione_citation(
         Ok(r) => r,
         Err(_) => break,
       };
-      total_pages = res.numero_pagine.unwrap_or(1);
       let page_acts = res.lista_atti.unwrap_or_default();
       if page_acts.is_empty() {
         break;
@@ -766,7 +793,6 @@ async fn ricerca_leggi_by_conversione_citation(
           collected.push(a);
         }
       }
-      page += 1;
     }
   }
 
@@ -779,8 +805,9 @@ fn try_pick_best_conversion(
   linked_codici: &HashSet<String>,
   citation_frag: Option<&str>,
 ) -> Option<NormattivaAtto> {
+  let pool = narrow_conversion_candidates_by_citation_fragment(hits, citation_frag);
   let mut best: Option<(i32, NormattivaAtto)> = None;
-  for hit in hits {
+  for hit in &pool {
     let mut s = score_conversion_candidate(hit, ctx, linked_codici);
     if let Some(cf) = citation_frag {
       let blob = normalize_ws_lower(&format!(
@@ -805,6 +832,23 @@ fn try_pick_best_conversion(
     return Some(best_hit);
   }
   if best_score >= CONVERSION_SCORE_THRESHOLD {
+    if let Some(cf) = citation_frag {
+      let frag_norm = normalize_ws_lower(cf);
+      if frag_norm.is_empty() {
+        return Some(best_hit);
+      }
+      let blob_best = normalize_ws_lower(&format!(
+        "{} {}",
+        best_hit.titolo_atto.as_deref().unwrap_or(""),
+        best_hit.descrizione_atto.as_deref().unwrap_or(""),
+      ));
+      if blob_best.contains(&frag_norm) {
+        return Some(best_hit);
+      }
+      // Keyword-heavy neighbours can outscore the true law before Pass C merges
+      // citation search hits; do not accept without the DL rubrica.
+      return None;
+    }
     return Some(best_hit);
   }
   None

@@ -109,6 +109,25 @@ fn vigenza_after(iso: &str) -> String {
         .unwrap_or_else(|| iso_to_date(iso))
 }
 
+/// Git merge date for a lapsed DL: constitutional lapse is emanation + deadline when
+/// known, so `git log` timelines match reality (not the scrape run day).
+fn merge_decaduto_date(data_gu: &str, deadline_days: Option<u32>, today: &str) -> String {
+    let Some(deadline_days) = deadline_days else {
+        return today.to_string();
+    };
+    let gu_date = iso_to_date(data_gu);
+    let Ok(from) = NaiveDate::parse_from_str(&gu_date, "%Y-%m-%d") else {
+        return today.to_string();
+    };
+    let lapse = from + chrono::Duration::days(i64::from(deadline_days));
+    let lapse_str = lapse.format("%Y-%m-%d").to_string();
+    if lapse_str.as_str() <= today {
+        lapse_str
+    } else {
+        today.to_string()
+    }
+}
+
 // ---- ETA / rate tracking ----------------------------------------------------
 
 static MONTH_TRACKER: std::sync::LazyLock<Mutex<MonthTracker>> =
@@ -640,6 +659,8 @@ pub async fn reconcile_pending_acts(
 
             if has_lapsed(&act, status) {
                 let today = Utc::now().format("%Y-%m-%d").to_string();
+                let decaduto_merge_date =
+                    merge_decaduto_date(&act.data_gu, act.deadline_days, &today);
                 let full_denom = act
                     .denominazione_atto
                     .as_deref()
@@ -670,12 +691,12 @@ pub async fn reconcile_pending_acts(
                     .commit_local(
                         &marker_name,
                         &format!("Marcatore: {tag} {codice} non convertito"),
-                        &today,
+                        &decaduto_merge_date,
                     )
                     .await?;
 
                 deps.git
-                    .merge_dl_branch(&act.branch_name, &merge_msg, &today)
+                    .merge_dl_branch(&act.branch_name, &merge_msg, &decaduto_merge_date)
                     .await?;
                 deps.git.delete_dl_branch(&act.branch_name).await?;
                 Ok(ReconcileOutcome::Done)
