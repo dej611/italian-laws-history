@@ -201,23 +201,57 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i) 'società di investimento a capitale variabilè(Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e che gestisce direttamente il proprio patrimonio; 
+ i) "società di investimento a capitale variabile" (Sicav): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni 
+ ((...))
+
+ ; 
  
 
- i.1) "società di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): l'Oicr aperto costituito in forma di società per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e che designa come gestore esterno una Sgr o una società di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38; 
- 
+ i.1) 
+ (("società di investimento a capitale variabile in gestione interna" (Sicav in gestione interna): la Sicav che gestisce direttamente il proprio patrimonio;))
 
  
  
 
- 
- i-bis) 'società di investimento a capitale fissò (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi e che gestisce direttamente il proprio patrimonio; 
- 
-
- i-bis.1) "società di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi e che designa come gestore esterno una Sgr o un GEFIA UE secondo quanto previsto dall'articolo 38; 
- 
+ i.2) 
+ (("società di investimento a capitale variabile in gestione interna autorizzata" (Sicav in gestione interna autorizzata): la Sicav in gestione interna iscritta all'albo di cui all'articolo 35-ter;))
 
  
+ 
+
+ i.3) 
+ (("società di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): la Sicav che designa come gestore esterno una Sgr autorizzata o una società di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38;))
+
+ 
+
+ 
+ i-bis) "società di investimento a capitale fisso" (Sicaf): l'Oicr chiuso costituito in forma di società per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi 
+ ((...))
+
+ ; 
+ 
+
+ i-bis.1) 
+ (("società di investimento a capitale fisso in gestione interna" (Sicaf in gestione interna): la Sicaf che gestisce direttamente il proprio patrimonio;))
+
+ 
+ 
+
+ i-bis.2) 
+ (("società di investimento a capitale fisso in gestione interna autorizzata" (Sicaf in gestione interna autorizzata): la Sicaf in gestione interna iscritta all'albo di cui all'articolo 35-ter;))
+
+ 
+ 
+
+ i-bis.3) 
+ (("società di investimento a capitale fisso sotto soglia registrata" (Sicaf sotto soglia registrata): la Sicaf in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;))
+
+ 
+ 
+
+ i-bis.4) 
+ (("società di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): la Sicaf che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38;))
+
  
 
  
@@ -228,22 +262,45 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- i-quater) società di investimento semplice (SiS): il FIA italiano costituito in forma di Sicaf che rispetta tutte le seguenti condizioni: 
+ i-quater) 
+ ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47))
+
+ ; 
  
 
- 1) il patrimonio netto non eccede euro 50 milioni; 
- 
-
- 2) ha per oggetto esclusivo l'investimento diretto del patrimonio raccolto in PMI non quotate su mercati regolamentati di cui all'articolo 2 paragrafo 1, lettera f), primo alinea, del regolamento (UE) 2017/1129 del Parlamento europeo e del Consiglio del 14 giugno 2017 che si trovano nella fase di sperimentazione, di costituzione e di avvio dell'attività, in deroga all'articolo 35-bis, comma 1, lettera f); 
- 
-
- 3) non ricorre alla leva finanziaria; 
- 
-
- 4) dispone di un capitale sociale almeno pari a quello previsto dall'articolo 2327 del codice civile, in deroga all'articolo 35-bis, comma 1, lettera c). 
- 
+ i-quater.1) 
+ (("società di partenariato": l'Oicr chiuso costituito in forma di società in accomandita per azioni con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo nelle forme del private equity e del venture capital del patrimonio raccolto mediante l'offerta delle proprie azioni, di strumenti finanziari partecipativi, nonchè mediante le ulteriori modalità di raccolta definite nello statuto;))
 
  
+ 
+
+ i-quater.2) 
+ (("società di partenariato in gestione interna": la società di partenariato che gestisce direttamente il proprio patrimonio;))
+
+ 
+ 
+
+ i-quater.3) 
+ (("società di partenariato in gestione interna autorizzata": la società di partenariato in gestione interna iscritta all'albo di cui all'articolo 35-novies.2;))
+
+ 
+ 
+
+ i-quater.4) 
+ (("società di partenariato sotto soglia registrata": la società di partenariato in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;))
+
+ 
+ 
+
+ i-quater.5) 
+ (("società di partenariato in gestione esterna": la società di partenariato che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38-bis;))
+
+ 
+ 
+
+ i-quater.6) 
+ (("private equity e venture capital": l'attività che consiste nell'investimento in imprese non quotate nei mercati regolamentati, attraverso strumenti di capitale, di debito, o altre forme similari, incluso l'investimento ulteriore nelle predette imprese successivamente all'eventuale ammissione delle stesse alla quotazione;))
+
  
 
  
@@ -254,12 +311,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito in strumenti finanziari, crediti, inclusi quelli erogati 
- ((...))
+ k) 'Organismo di investimento collettivo del risparmiò (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio è raccolto tra una pluralità di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonchè investito 
+ ((nelle attività di cui all'articolo 39-bis))
 
- a valere sul patrimonio dell'OICR, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; (60) 
- ((132))
+ in base a una politica di investimento predeterminata; (60) (132) 
+ 
 
+ 
  
 
  
@@ -273,17 +331,15 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- l) 'Oicr italianì: i fondi comuni d'investimento, le Sicav in gestione esterna, le Sicaf e le Sicaf in gestione esterna; 
+ l) 
+ (("Oicr italiano": il fondo comune d'investimento, la Sicav, la Sicaf e la società di partenariato;))
+
  
 
  
- 
+ m) 
+ (("Organismo di investimento collettivo in valori mobiliari italiano" (OICVM italiano): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009;))
 
- 
- m) 'Organismi di investimento collettivo in valori mobiliari italianì (OICVM italiani): il fondo comune di investimento , la Sicav e la Sicav in gestione esterna rientranti nell'ambito di applicazione della direttiva 2009/65/CE; 
- 
-
- 
  
 
  
@@ -294,16 +350,43 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- m-ter) 'Oicr alternativo italianò (FIA italiano): il fondo comune di investimento, la Sicav, la Sicav in gestione esterna, la Sicaf e la Sicaf in gestione esterna rientranti nell'ambito di applicazione della direttiva 2011/61/UE; 
+ m-ter) 
+ (("Oicr alternativo italiano" (FIA italiano): il fondo comune di investimento, la Sicav, la Sicaf e la società di partenariato rientranti nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011;))
+
+ 
+ 
+
+ m-ter.1) 
+ (("Oicr societario in gestione esterna": la Sicav in gestione esterna, la Sicaf in gestione esterna e la società di partenariato in gestione esterna;))
+
+ 
  
 
  m-quater)'FIA italiano riservatò: il FIA italiano la cui partecipazione è riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
  
 
- m-quinquies) 'Oicr alternativi UE (FIA UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato dell'UE diverso dall'Italia; 
+ m-quater.1) 
+ (("FIA italiano immobiliare": il fondo comune di investimento e la Sicaf che investono in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in società immobiliari, parti di altri FIA immobiliari, anche esteri, nella misura indicata dal regolamento di cui all'articolo 39;))
+
+ 
  
 
- m-sexies) 'Oicr alternativi non UE (FIA non UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato non appartenente all'UE; 
+ m-quater.2) 
+ (("partecipazioni in società immobiliari": le partecipazioni in società di capitali che svolgono attività di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili;))
+
+ 
+ 
+
+ m-quinquies) 
+ (("Oicr alternativo UE" (FIA UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato dell'Unione europea diverso dall'Italia;))
+
+ 
+ 
+
+ m-sexies) 
+ (("Oicr alternativo non UE" (FIA non UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato non appartenente all'Unione europea;))
+
+ 
  
 
  m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
@@ -324,7 +407,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  m-decies) 'Oicr master': l'Oicr nel quale uno o più Oicrfeeder investono totalmente o in prevalenza le proprie attività; 
  
 
- m-undecies) 'clienti professionali o investitori professionalì: i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; (73) 
+ m-undecies) 
+ (("clienti professionali o investitori professionali": i clienti professionali ai sensi dell'articolo 6, commi 2-quater, lettere d-bis) e d-ter), e 2-sexies, nonchè gli enti di cui al decreto legislativo 30 giugno 1994, n. 509 e al decreto legislativo 10 febbraio 1996, n. 103;))
+
+ 
  
 
  m-undecies.1) "Business Angel": gli investitori a supporto dell'innovazione che hanno investito in maniera diretta o indiretta una somma pari ad almeno euro 40.000 nell'ultimo triennio; 
@@ -344,10 +430,21 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- o) "società di gestione del risparmio" (SGR): la società per azioni con sede legale e direzione generale in Italia autorizzata a prestare il servizio di gestione collettiva del risparmio; 
+ o) "società di gestione del risparmio" (SGR): la società per azioni con sede legale e direzione generale in Italia 
+ ((che presta il servizio di gestione collettiva del risparmio))
+
+ ; 
  
 
+ o.1) 
+ (("società di gestione del risparmio autorizzata" (Sgr autorizzata): la società di gestione del risparmio iscritta all'albo di cui all'articolo 35;))
+
  
+ 
+
+ o.2) 
+ (("società di gestione del risparmio sotto soglia registrata" (Sgr sotto soglia registrata): la Sgr iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce FIA italiani nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;))
+
  
 
  
@@ -372,7 +469,22 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- q-bis) 'gestorè: la Sgr, la Sicav, la Sicaf, la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
+ q-bis) 'gestorè: la Sgr, 
+ ((la Sicav in gestione interna, la Sicaf in gestione interna, la società di partenariato in gestione interna,))
+
+ la società di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
+ 
+
+ q-bis.1) 
+ (("gestore autorizzato": la Sgr autorizzata, la Sicav in gestione interna autorizzata, la Sicaf in gestione interna autorizzata, la società di partenariato in gestione interna autorizzata, il gestore di ELTIF, il gestore di FCM, nonchè i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani;))
+
+ 
+ 
+
+ q-bis.2) 
+ (("gestore di FIA sotto soglia registrato" (GEFIA sotto soglia registrato): la società di gestione del risparmio sotto soglia registrata, la Sicaf sotto soglia registrata e la società di partenariato sotto soglia registrata;))
+
+ 
  
 
  q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
@@ -381,14 +493,19 @@ IL PRESIDENTE DELLA REPUBBLICA
  q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder è unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
  
 
- q-quinquies) 'quote e azioni di Oicr': le quote dei fondi comuni di investimento, le azioni di Sicav e di Sicav in gestione esterna, le azioni e altri strumenti partecipativi di Sicaf e di Sicaf in gestione esterna; 
+ q-quinquies) 
+ (("quote e azioni di Oicr": le quote dei fondi comuni di investimento, le azioni di Sicav, le azioni e altri strumenti finanziari partecipativi di Sicaf e delle società di partenariato;))
+
  
 
  
- 
+ r) "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr 
+ ((autorizzate))
 
- 
- r) "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr, le società di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attività di investimento; (73) 
+ , le società di gestione UE con succursale in Italia, 
+ ((le Sicav in gestione interna autorizzate, le Sicaf in gestione interna autorizzate, le società di partenariato in gestione interna autorizzate, i gestori di ELTIF, i gestori di FCM, nonchè i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani,))
+
+ i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonchè gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attività di investimento; (73) 
  
 
  
@@ -570,6 +687,18 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
+ 
+
+ 
+ w-novies) 
+ (("sistema di intelligenza artificiale": il sistema come definito dall'articolo 3, punto 1), del regolamento (UE) 2024/1689, del Parlamento e del Consiglio, del 13 giugno 2024;))
+
+ 
+
+ 
+ w-decies) 
+ (("rischi informatici": qualunque circostanza ragionevolmente identificabile in relazione all'uso dei sistemi informatici e di rete che, qualora si concretizzi, può compromettere la sicurezza dei sistemi informatici e di rete, di eventuali strumenti o processi dipendenti dalle tecnologie, di operazioni e processi, oppure della fornitura dei servizi causando effetti avversi nell'ambiente digitale o fisico.))
+
  
 
  
@@ -975,7 +1104,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 6-quater. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione e ai loro componenti. 
+ 6-quater. 
+ ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
+
+ . 
  
 
  
