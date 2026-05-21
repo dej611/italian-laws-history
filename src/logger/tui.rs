@@ -29,7 +29,7 @@ use ratatui::Terminal;
 use tokio::sync::mpsc;
 use tokio::task::JoinHandle;
 
-use crate::logger::Logger;
+use crate::logger::{Logger, ShutdownSignal};
 use crate::types::{ActVersionEntry, NormattivaAtto};
 
 /// Channel messages from the logger (any thread) to the renderer task.
@@ -71,7 +71,7 @@ impl Logger for TuiLogger {
 /// Try to start the TUI. Returns `None` if the terminal isn't suitable
 /// (not a TTY, too small, or any setup error). The CI logger is used as
 /// fallback by `build_logger`.
-pub async fn try_start() -> Option<(TuiLogger, JoinHandle<()>)> {
+pub async fn try_start(shutdown: ShutdownSignal) -> Option<(TuiLogger, JoinHandle<()>)> {
     // Match the TS rule: width < 40 || height < 10 → fall back.
     let (cols, rows) = crossterm::terminal::size().ok()?;
     if cols < 40 || rows < 10 {
@@ -93,7 +93,7 @@ pub async fn try_start() -> Option<(TuiLogger, JoinHandle<()>)> {
 
     let (tx, rx) = mpsc::unbounded_channel();
     let handle = tokio::spawn(async move {
-        if let Err(err) = run_loop(terminal, rx).await {
+        if let Err(err) = run_loop(terminal, rx, shutdown).await {
             eprintln!("TUI loop error: {err}");
         }
         let _ = execute!(io::stdout(), LeaveAlternateScreen);
@@ -238,6 +238,7 @@ fn buckets_label_threshold(_max: usize) -> usize { 100 } // every label except t
 async fn run_loop(
     mut terminal: Terminal<CrosstermBackend<Stdout>>,
     mut rx: mpsc::UnboundedReceiver<TuiMsg>,
+    shutdown: ShutdownSignal,
 ) -> anyhow::Result<()> {
     let mut state = State::default();
     let mut interval = tokio::time::interval(Duration::from_millis(200));
@@ -251,7 +252,10 @@ async fn run_loop(
             }
             _ = interval.tick() => {
                 draw(&mut terminal, &state)?;
-                if poll_user_quit().unwrap_or(false) { break; }
+                if poll_user_quit().unwrap_or(false) {
+                    shutdown.request();
+                    break;
+                }
             }
         }
     }

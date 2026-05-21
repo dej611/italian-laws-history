@@ -2,6 +2,7 @@ use std::collections::HashMap;
 use std::sync::Arc;
 
 use anyhow::Result;
+use tokio::sync::watch;
 use tokio::task::JoinHandle;
 
 use crate::types::{ActVersionEntry, NormattivaAtto};
@@ -9,6 +10,27 @@ use crate::types::{ActVersionEntry, NormattivaAtto};
 pub mod ci;
 pub mod file;
 pub mod tui;
+
+/// Cooperative shutdown flag shared by the TUI, Ctrl-C handler, and scraper loop.
+#[derive(Clone)]
+pub struct ShutdownSignal {
+    tx: watch::Sender<bool>,
+}
+
+impl ShutdownSignal {
+    pub fn new() -> (Self, watch::Receiver<bool>) {
+        let (tx, rx) = watch::channel(false);
+        (Self { tx }, rx)
+    }
+
+    pub fn request(&self) {
+        let _ = self.tx.send(true);
+    }
+}
+
+pub fn is_shutdown_requested(rx: &watch::Receiver<bool>) -> bool {
+    *rx.borrow()
+}
 
 /// User-facing logging surface — also drives the TUI when one is attached.
 pub trait Logger: Send + Sync {
@@ -32,7 +54,11 @@ pub struct LoggerHandle {
 
 /// Construct the logger stack: TUI (if available) or CI logger, both wrapped
 /// with a daily file-log appender (`processing-YYYY-MM-DD-rs.log`).
-pub async fn build_logger(ci_mode: bool, log_dir: &str) -> Result<LoggerHandle> {
+pub async fn build_logger(
+    ci_mode: bool,
+    log_dir: &str,
+    shutdown: ShutdownSignal,
+) -> Result<LoggerHandle> {
     let file_layer = file::FileLog::open(log_dir).ok();
 
     if ci_mode {
@@ -44,7 +70,7 @@ pub async fn build_logger(ci_mode: bool, log_dir: &str) -> Result<LoggerHandle> 
         return Ok(LoggerHandle { logger, tui_task: None });
     }
 
-    match tui::try_start().await {
+    match tui::try_start(shutdown).await {
         Some((tui_logger, handle)) => {
             let inner: Arc<dyn Logger> = Arc::new(tui_logger);
             let logger: Arc<dyn Logger> = match file_layer {

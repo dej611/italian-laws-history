@@ -7,7 +7,7 @@ use anyhow::Result;
 use chrono::{NaiveDate, Utc};
 use serde_json::Value;
 use tokio::fs;
-use tokio::sync::Semaphore;
+use tokio::sync::{watch, Semaphore};
 use tokio::task::JoinSet;
 
 use crate::api::detail::{
@@ -22,7 +22,7 @@ use crate::api::text::{
 use crate::checkpoint::save_checkpoint_atomic;
 use crate::git::{branch_name_for, GitHelpers};
 use crate::http::SafeFetch;
-use crate::logger::Logger;
+use crate::logger::{is_shutdown_requested, Logger};
 use crate::types::{
     ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config, ConversionSearchContext,
     NormattivaAtto, PendingAct,
@@ -38,6 +38,7 @@ pub struct ProcessorDeps {
     pub logger: Arc<dyn Logger>,
     pub safe_fetch: Arc<SafeFetch>,
     pub git: Arc<GitHelpers>,
+    pub shutdown: watch::Receiver<bool>,
 }
 
 #[derive(Debug, Clone, Copy)]
@@ -766,6 +767,9 @@ pub async fn process_batches(
     eta_ctx: Option<&EtaContext>,
 ) -> Result<()> {
     let _span = tracing::info_span!("process", op = "processBatches", count = acts.len()).entered();
+    if is_shutdown_requested(&deps.shutdown) {
+        return Ok(());
+    }
     let mut updated_urns: HashSet<String> = HashSet::new();
     let sem = Arc::new(Semaphore::new(num_cpus::get().max(1)));
 
@@ -820,6 +824,9 @@ pub async fn process_batches(
 
     // Phase 2: serial commit.
     for (act, result) in fetched {
+        if is_shutdown_requested(&deps.shutdown) {
+            break;
+        }
         let act_id = act.codice_redazionale.clone();
         if let Err(err) =
             commit_one_act(&act, result, checkpoint, deps, &mut updated_urns, sem.clone(), eta_ctx).await
