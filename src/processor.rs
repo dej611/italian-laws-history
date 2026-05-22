@@ -221,11 +221,12 @@ fn compute_eta(remaining_months: u32, processed: usize) -> Option<EtaResult> {
     })
 }
 
-/// Update the Stato line after each act — mirrors TS `logger.setStatus` in Phase 2.
-fn update_progress_status(
+/// Update the Stato line — mirrors TS `logger.setStatus` in Phase 2.
+pub(crate) fn update_progress_status(
     logger: &dyn Logger,
     checkpoint: &Checkpoint,
     eta_ctx: Option<&EtaContext>,
+    phase: Option<&str>,
 ) {
     let processed = checkpoint.act_versions.len();
     let remaining_days = eta_ctx
@@ -246,8 +247,9 @@ fn update_progress_status(
         ),
         None => (format!("{processed}"), String::new()),
     };
+    let phase_str = phase.map(|p| format!(" — {p}")).unwrap_or_default();
     logger.set_status(&format!(
-        "Elaborati {count_str}{remaining_str}{rate_str}{eta_str}"
+        "Elaborati {count_str}{remaining_str}{rate_str}{eta_str}{phase_str}"
     ));
 }
 
@@ -807,6 +809,12 @@ pub async fn process_batches(
     deps.git.pull().await?;
 
     deps.logger.update_list(acts);
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some("preparazione batch…"),
+    );
 
     reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone()).await?;
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
@@ -826,6 +834,13 @@ pub async fn process_batches(
             deps.logger.log(&format!("Skipping {}", act.codice_redazionale));
         }
     }
+
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some("fetch testi…"),
+    );
 
     // Phase 1: parallel fetch (queue-gated).
     let mut set: JoinSet<(NormattivaAtto, Option<(String, String)>)> = JoinSet::new();
@@ -866,6 +881,8 @@ pub async fn process_batches(
         }
     }
 
+    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
+
     let _ = deps.git.push().await;
     Ok(())
 }
@@ -892,7 +909,7 @@ async fn commit_one_act(
             .act_versions
             .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), 0));
         save_checkpoint_atomic(&deps.config, checkpoint).await?;
-        update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx);
+        update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
         return Ok(());
     };
 
@@ -1032,7 +1049,7 @@ async fn commit_one_act(
     deps.logger.update_refs(&act.codice_redazionale, ref_count);
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
     record_completion();
-    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx);
+    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
     let _ = (Value::Null,); // appease unused-import lints in some configs
     Ok(())
@@ -1045,6 +1062,7 @@ pub async fn process_modified_acts(
     to: NaiveDate,
     checkpoint: &mut Checkpoint,
     deps: &ProcessorDeps,
+    eta_ctx: Option<&EtaContext>,
 ) -> Result<()> {
     let _span = tracing::info_span!("process", op = "processModifiedActs",
         from = %from, to = %to).entered();
@@ -1082,6 +1100,12 @@ pub async fn process_modified_acts(
         to_update.len(),
         from.format("%Y-%m")
     ));
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some("Phase B — fetch testi…"),
+    );
     deps.git.checkout().await?;
 
     type ModFetched = (NormattivaAtto, Option<(String, String)>, String);
@@ -1134,6 +1158,8 @@ pub async fn process_modified_acts(
         if let Err(err) = res {
             deps.logger.log(&format!("Errore modifica {act_id}: {err}"));
             save_checkpoint_atomic(&deps.config, checkpoint).await?;
+        } else {
+            update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
         }
     }
 

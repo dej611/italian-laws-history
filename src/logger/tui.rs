@@ -255,11 +255,17 @@ async fn run_loop(
             msg = rx.recv() => {
                 match msg {
                     Some(m) => {
-                        if apply_msg(&mut state, m) {
-                            draw(&mut terminal, &state)?;
-                        } else {
+                        if !apply_msg(&mut state, m) {
                             draw(&mut terminal, &state)?;
                             break;
+                        }
+                        if !drain_and_apply(&mut rx, &mut state) {
+                            draw(&mut terminal, &state)?;
+                            break;
+                        }
+                        draw(&mut terminal, &state)?;
+                        if poll_user_quit().unwrap_or(false) {
+                            teardown_and_exit(&output_repo);
                         }
                     }
                     None => break,
@@ -271,6 +277,10 @@ async fn run_loop(
                 }
             }
             _ = interval.tick() => {
+                if !drain_and_apply(&mut rx, &mut state) {
+                    draw(&mut terminal, &state)?;
+                    break;
+                }
                 draw(&mut terminal, &state)?;
                 if poll_user_quit().unwrap_or(false) {
                     teardown_and_exit(&output_repo);
@@ -288,6 +298,26 @@ fn teardown_and_exit(output_repo: &str) -> ! {
     let _ = execute!(io::stdout(), LeaveAlternateScreen);
     checkout_main_sync_for_repo(output_repo);
     std::process::exit(130);
+}
+
+/// Apply all pending channel messages so the latest `Status` is not stuck behind logs.
+fn drain_and_apply(rx: &mut mpsc::UnboundedReceiver<TuiMsg>, state: &mut State) -> bool {
+    let mut keep_running = true;
+    loop {
+        match rx.try_recv() {
+            Ok(msg) => {
+                if !apply_msg(state, msg) {
+                    keep_running = false;
+                }
+            }
+            Err(mpsc::error::TryRecvError::Empty) => break,
+            Err(mpsc::error::TryRecvError::Disconnected) => {
+                keep_running = false;
+                break;
+            }
+        }
+    }
+    keep_running
 }
 
 /// Returns false to signal shutdown.

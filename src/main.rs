@@ -22,7 +22,8 @@ use crate::git::{checkout_main_sync_for_repo, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
-    process_batches, process_modified_acts, record_month_completed, EtaContext, ProcessorDeps,
+    process_batches, process_modified_acts, record_month_completed, update_progress_status,
+    EtaContext, ProcessorDeps,
 };
 
 #[derive(Parser, Debug)]
@@ -164,6 +165,12 @@ async fn run(
                 current_window_date: Some(from),
                 remaining_months,
             };
+            update_progress_status(
+                logger.as_ref(),
+                &checkpoint,
+                Some(&eta),
+                Some(&format!("Finestra {window_label} — scansione…")),
+            );
             process_batches(&batch, &mut checkpoint, args.force, &deps, Some(&eta)).await?;
             total_processed += batch.len();
             month_act_count += batch.len();
@@ -171,7 +178,11 @@ async fn run(
 
         record_month_completed(month_act_count as u32);
 
-        process_modified_acts(from, to, &mut checkpoint, &deps).await?;
+        let eta = EtaContext {
+            current_window_date: Some(from),
+            remaining_months,
+        };
+        process_modified_acts(from, to, &mut checkpoint, &deps, Some(&eta)).await?;
 
         checkpoint.last_fully_scanned_date = Some(format!("{}", from.format("%Y-%m-%d")));
         save_checkpoint_atomic(&config, &checkpoint)
