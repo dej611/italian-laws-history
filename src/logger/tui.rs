@@ -253,8 +253,17 @@ async fn run_loop(
     loop {
         tokio::select! {
             msg = rx.recv() => {
-                let Some(msg) = msg else { break };
-                if !apply_msg(&mut state, msg) { break; }
+                match msg {
+                    Some(m) => {
+                        if apply_msg(&mut state, m) {
+                            draw(&mut terminal, &state)?;
+                        } else {
+                            draw(&mut terminal, &state)?;
+                            break;
+                        }
+                    }
+                    None => break,
+                }
             }
             _ = shutdown_rx.changed() => {
                 if *shutdown_rx.borrow_and_update() {

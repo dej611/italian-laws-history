@@ -221,6 +221,36 @@ fn compute_eta(remaining_months: u32, processed: usize) -> Option<EtaResult> {
     })
 }
 
+/// Update the Stato line after each act — mirrors TS `logger.setStatus` in Phase 2.
+fn update_progress_status(
+    logger: &dyn Logger,
+    checkpoint: &Checkpoint,
+    eta_ctx: Option<&EtaContext>,
+) {
+    let processed = checkpoint.act_versions.len();
+    let remaining_days = eta_ctx
+        .and_then(|c| c.current_window_date)
+        .map(|d| (Utc::now().date_naive() - d).num_days());
+    let remaining_str = remaining_days
+        .map(|n| format!(" — {n} giorni rimasti"))
+        .unwrap_or_default();
+    let rate = current_rate_per_minute();
+    let rate_str = rate
+        .map(|r| format!(" — {r:.1} atti/min"))
+        .unwrap_or_default();
+    let eta = eta_ctx.and_then(|c| compute_eta(c.remaining_months, processed));
+    let (count_str, eta_str) = match eta {
+        Some(e) => (
+            format!("{processed} / ~{}", e.estimated_total),
+            format!(" — ETA {}", e.eta),
+        ),
+        None => (format!("{processed}"), String::new()),
+    };
+    logger.set_status(&format!(
+        "Elaborati {count_str}{remaining_str}{rate_str}{eta_str}"
+    ));
+}
+
 // ---- Relationship files -----------------------------------------------------
 
 /// Write URN reference files and `.modifiedby` sidecars on the currently
@@ -862,6 +892,7 @@ async fn commit_one_act(
             .act_versions
             .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), 0));
         save_checkpoint_atomic(&deps.config, checkpoint).await?;
+        update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx);
         return Ok(());
     };
 
@@ -1001,22 +1032,7 @@ async fn commit_one_act(
     deps.logger.update_refs(&act.codice_redazionale, ref_count);
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
     record_completion();
-
-    let processed = checkpoint.act_versions.len();
-    let remaining_days = eta_ctx
-        .and_then(|c| c.current_window_date)
-        .map(|d| (Utc::now().date_naive() - d).num_days());
-    let remaining_str = remaining_days.map(|n| format!(" — {n} giorni rimasti")).unwrap_or_default();
-    let rate = current_rate_per_minute();
-    let rate_str = rate.map(|r| format!(" — {r:.1} atti/min")).unwrap_or_default();
-    let eta = eta_ctx.and_then(|c| compute_eta(c.remaining_months, processed));
-    let (count_str, eta_str) = match eta {
-        Some(e) => (format!("{processed} / ~{}", e.estimated_total), format!(" — ETA {}", e.eta)),
-        None => (format!("{processed}"), String::new()),
-    };
-    deps.logger.set_status(&format!(
-        "Elaborati {count_str}{remaining_str}{rate_str}{eta_str}"
-    ));
+    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx);
 
     let _ = (Value::Null,); // appease unused-import lints in some configs
     Ok(())

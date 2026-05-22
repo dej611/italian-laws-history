@@ -126,6 +126,10 @@ async fn run(
         checkpoint.act_versions.len()
     ));
     logger.seed_charts(&checkpoint.act_versions);
+    logger.set_status(&format!(
+        "Elaborati {} — avvio…",
+        checkpoint.act_versions.len()
+    ));
     logger.log(&format!("Scraping atti dal {since_date} ad oggi..."));
 
     let deps = ProcessorDeps {
