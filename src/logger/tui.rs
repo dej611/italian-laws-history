@@ -252,23 +252,13 @@ async fn run_loop(
 
     loop {
         tokio::select! {
-            msg = rx.recv() => {
-                match msg {
-                    Some(m) => {
-                        if !apply_msg(&mut state, m) {
-                            draw(&mut terminal, &state)?;
-                            break;
-                        }
-                        if !drain_and_apply(&mut rx, &mut state) {
-                            draw(&mut terminal, &state)?;
-                            break;
-                        }
-                        draw(&mut terminal, &state)?;
-                        if poll_user_quit().unwrap_or(false) {
-                            teardown_and_exit(&output_repo);
-                        }
-                    }
-                    None => break,
+            biased;
+            _ = interval.tick() => {
+                if paint_frame(&mut terminal, &mut rx, &mut state, None)? == false {
+                    break;
+                }
+                if poll_user_quit().unwrap_or(false) {
+                    teardown_and_exit(&output_repo);
                 }
             }
             _ = shutdown_rx.changed() => {
@@ -276,14 +266,17 @@ async fn run_loop(
                     teardown_and_exit(&output_repo);
                 }
             }
-            _ = interval.tick() => {
-                if !drain_and_apply(&mut rx, &mut state) {
-                    draw(&mut terminal, &state)?;
-                    break;
-                }
-                draw(&mut terminal, &state)?;
-                if poll_user_quit().unwrap_or(false) {
-                    teardown_and_exit(&output_repo);
+            msg = rx.recv() => {
+                match msg {
+                    Some(m) => {
+                        if paint_frame(&mut terminal, &mut rx, &mut state, Some(m))? == false {
+                            break;
+                        }
+                        if poll_user_quit().unwrap_or(false) {
+                            teardown_and_exit(&output_repo);
+                        }
+                    }
+                    None => break,
                 }
             }
         }
@@ -300,37 +293,69 @@ fn teardown_and_exit(output_repo: &str) -> ! {
     std::process::exit(130);
 }
 
-/// Apply all pending channel messages so the latest `Status` is not stuck behind logs.
-fn drain_and_apply(rx: &mut mpsc::UnboundedReceiver<TuiMsg>, state: &mut State) -> bool {
+/// Drain the channel: apply logs/charts immediately; apply the **last** Status last.
+/// Returns false only on `Shutdown` (not on `Disconnected` — sender may still be alive).
+fn ingest_messages(
+    rx: &mut mpsc::UnboundedReceiver<TuiMsg>,
+    state: &mut State,
+    first: Option<TuiMsg>,
+) -> bool {
     let mut keep_running = true;
-    loop {
-        match rx.try_recv() {
-            Ok(msg) => {
-                if !apply_msg(state, msg) {
+    let mut last_status: Option<String> = None;
+    let mut first_pending = first;
+
+    while keep_running {
+        let msg = if let Some(m) = first_pending.take() {
+            m
+        } else {
+            match rx.try_recv() {
+                Ok(m) => m,
+                Err(mpsc::error::TryRecvError::Empty)
+                | Err(mpsc::error::TryRecvError::Disconnected) => break,
+            }
+        };
+
+        match msg {
+            TuiMsg::Shutdown => keep_running = false,
+            TuiMsg::Status(s) => last_status = Some(s),
+            other => {
+                if !apply_msg_non_status(state, other) {
                     keep_running = false;
                 }
             }
-            Err(mpsc::error::TryRecvError::Empty) => break,
-            Err(mpsc::error::TryRecvError::Disconnected) => {
-                keep_running = false;
-                break;
-            }
         }
     }
+
+    if let Some(s) = last_status {
+        state.status = s;
+    }
+
     keep_running
 }
 
-/// Returns false to signal shutdown.
-fn apply_msg(state: &mut State, msg: TuiMsg) -> bool {
+fn paint_frame(
+    terminal: &mut Terminal<CrosstermBackend<Stdout>>,
+    rx: &mut mpsc::UnboundedReceiver<TuiMsg>,
+    state: &mut State,
+    first: Option<TuiMsg>,
+) -> io::Result<bool> {
+    if !ingest_messages(rx, state, first) {
+        return Ok(false);
+    }
+    draw(terminal, state)?;
+    Ok(true)
+}
+
+fn apply_msg_non_status(state: &mut State, msg: TuiMsg) -> bool {
     match msg {
         TuiMsg::Shutdown => return false,
+        TuiMsg::Status(_) => {}
         TuiMsg::Log(s) => {
             state.log.push_back(format!("[{}] {s}", Utc::now().to_rfc3339()));
             while state.log.len() > LOG_CAP {
                 state.log.pop_front();
             }
         }
-        TuiMsg::Status(s) => state.status = s,
         TuiMsg::UpdateList(items) => {
             for it in &items {
                 state.record_act(it);

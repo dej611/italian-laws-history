@@ -813,7 +813,7 @@ pub async fn process_batches(
         deps.logger.as_ref(),
         checkpoint,
         eta_ctx,
-        Some("preparazione batch…"),
+        Some("riconciliazione…"),
     );
 
     reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone()).await?;
