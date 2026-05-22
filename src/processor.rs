@@ -547,6 +547,7 @@ pub async fn reconcile_pending_acts(
     deps: &ProcessorDeps,
     updated_urns: &mut HashSet<String>,
     sem: Arc<Semaphore>,
+    eta_ctx: Option<&EtaContext>,
 ) -> Result<()> {
     let _span = tracing::info_span!("process", op = "reconcileActs").entered();
 
@@ -556,8 +557,25 @@ pub async fn reconcile_pending_acts(
         std::mem::take(pool)
     };
     let mut still_pending: HashMap<String, PendingAct> = HashMap::new();
+    let total = pending.len();
+    if total == 0 {
+        update_progress_status(
+            deps.logger.as_ref(),
+            checkpoint,
+            eta_ctx,
+            Some("riconciliazione 0/0…"),
+        );
+    }
+    let mut index = 0usize;
 
-    for (codice, act) in pending.into_iter() {
+    for (codice, act) in pending {
+        index += 1;
+        update_progress_status(
+            deps.logger.as_ref(),
+            checkpoint,
+            eta_ctx,
+            Some(&format!("riconciliazione {index}/{total}…")),
+        );
         let tag = act.short.upper();
         deps.logger.log(&format!("Riconciliazione {tag} {codice}…"));
 
@@ -786,7 +804,7 @@ pub async fn reconcile_pending_decreti_legge(
     updated_urns: &mut HashSet<String>,
     sem: Arc<Semaphore>,
 ) -> Result<()> {
-    reconcile_pending_acts(checkpoint, deps, updated_urns, sem).await
+    reconcile_pending_acts(checkpoint, deps, updated_urns, sem, None).await
 }
 
 // ---- Phase A: process_batches -----------------------------------------------
@@ -809,14 +827,8 @@ pub async fn process_batches(
     deps.git.pull().await?;
 
     deps.logger.update_list(acts);
-    update_progress_status(
-        deps.logger.as_ref(),
-        checkpoint,
-        eta_ctx,
-        Some("riconciliazione…"),
-    );
 
-    reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone()).await?;
+    reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone(), eta_ctx).await?;
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
 
     let mut acts_to_process: Vec<NormattivaAtto> = acts
@@ -835,12 +847,7 @@ pub async fn process_batches(
         }
     }
 
-    update_progress_status(
-        deps.logger.as_ref(),
-        checkpoint,
-        eta_ctx,
-        Some("fetch testi…"),
-    );
+    let fetch_total = acts_to_process.len();
 
     // Phase 1: parallel fetch (queue-gated).
     let mut set: JoinSet<(NormattivaAtto, Option<(String, String)>)> = JoinSet::new();
@@ -860,12 +867,28 @@ pub async fn process_batches(
     }
 
     let mut fetched: Vec<(NormattivaAtto, Option<(String, String)>)> = Vec::new();
+    let mut fetch_done = 0usize;
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some(&format!("fetch testi 0/{fetch_total}…")),
+    );
     while let Some(j) = set.join_next().await {
+        fetch_done += 1;
+        update_progress_status(
+            deps.logger.as_ref(),
+            checkpoint,
+            eta_ctx,
+            Some(&format!("fetch testi {fetch_done}/{fetch_total}…")),
+        );
         match j {
             Ok(t) => fetched.push(t),
             Err(err) => deps.logger.log(&format!("Fetch task fallito: {err}")),
         }
     }
+
+    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
     // Phase 2: serial commit.
     for (act, result) in fetched {
@@ -1100,12 +1123,7 @@ pub async fn process_modified_acts(
         to_update.len(),
         from.format("%Y-%m")
     ));
-    update_progress_status(
-        deps.logger.as_ref(),
-        checkpoint,
-        eta_ctx,
-        Some("Phase B — fetch testi…"),
-    );
+    let fetch_total = to_update.len();
     deps.git.checkout().await?;
 
     type ModFetched = (NormattivaAtto, Option<(String, String)>, String);
@@ -1128,11 +1146,27 @@ pub async fn process_modified_acts(
     }
 
     let mut fetched: Vec<ModFetched> = Vec::new();
+    let mut fetch_done = 0usize;
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some(&format!("Phase B — fetch testi 0/{fetch_total}…")),
+    );
     while let Some(j) = set.join_next().await {
+        fetch_done += 1;
+        update_progress_status(
+            deps.logger.as_ref(),
+            checkpoint,
+            eta_ctx,
+            Some(&format!("Phase B — fetch testi {fetch_done}/{fetch_total}…")),
+        );
         if let Ok(t) = j {
             fetched.push(t);
         }
     }
+
+    update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
     for (act, result, mod_date) in fetched {
         let Some((raw, plain)) = result else { continue };

@@ -293,6 +293,30 @@ fn teardown_and_exit(output_repo: &str) -> ! {
     std::process::exit(130);
 }
 
+/// Parsed `Elaborati N` count from a status line (0 if missing).
+fn status_processed_count(status: &str) -> usize {
+    let rest = match status.strip_prefix("Elaborati ") {
+        Some(r) => r,
+        None => return 0,
+    };
+    rest.chars()
+        .take_while(|c| c.is_ascii_digit())
+        .collect::<String>()
+        .parse()
+        .unwrap_or(0)
+}
+
+/// Prefer the status with the higher processed count; tie-break to the newer message.
+fn merge_status(prev: &str, next: String) -> String {
+    let prev_n = status_processed_count(prev);
+    let next_n = status_processed_count(&next);
+    if next_n >= prev_n {
+        next
+    } else {
+        prev.to_string()
+    }
+}
+
 /// Drain the channel: apply logs/charts immediately; apply the **last** Status last.
 /// Returns false only on `Shutdown` (not on `Disconnected` — sender may still be alive).
 fn ingest_messages(
@@ -317,7 +341,12 @@ fn ingest_messages(
 
         match msg {
             TuiMsg::Shutdown => keep_running = false,
-            TuiMsg::Status(s) => last_status = Some(s),
+            TuiMsg::Status(s) => {
+                last_status = Some(match last_status {
+                    Some(prev) => merge_status(&prev, s),
+                    None => s,
+                });
+            }
             other => {
                 if !apply_msg_non_status(state, other) {
                     keep_running = false;
