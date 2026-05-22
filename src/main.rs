@@ -18,7 +18,7 @@ mod types;
 use crate::api::{monthly_windows, scrape_month};
 use crate::checkpoint::{load_checkpoint, save_checkpoint_atomic};
 use crate::config::load_config;
-use crate::git::GitHelpers;
+use crate::git::{checkout_main_sync_for_repo, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
@@ -50,15 +50,24 @@ async fn main() -> Result<()> {
     let _trace_guard = tracing_setup::init(args.perf);
 
     let config = Arc::new(load_config());
+    let output_repo = config.output_repo.clone();
     let (shutdown, shutdown_rx) = ShutdownSignal::new();
-    let LoggerHandle { logger, tui_task } = build_logger(args.ci, ".", shutdown.clone()).await?;
+    let LoggerHandle { logger, tui_task } =
+        build_logger(args.ci, ".", shutdown.clone(), output_repo.clone()).await?;
     let git = Arc::new(GitHelpers::new(config.clone()));
     let safe_fetch = Arc::new(SafeFetch::new(config.clone(), logger.clone())?);
 
+    let has_tui = tui_task.is_some();
     let shutdown_ctrlc = shutdown.clone();
+    let repo_ctrlc = output_repo.clone();
     tokio::spawn(async move {
         if tokio::signal::ctrl_c().await.is_ok() {
-            shutdown_ctrlc.request();
+            if has_tui {
+                shutdown_ctrlc.request();
+            } else {
+                checkout_main_sync_for_repo(&repo_ctrlc);
+                std::process::exit(130);
+            }
         }
     });
 
@@ -72,14 +81,12 @@ async fn main() -> Result<()> {
     )
     .await;
 
-    // Best-effort cleanup, mirroring the TS process.on('exit', ...) handler.
-    git.checkout_main_sync();
-
     if let Some(handle) = tui_task {
-        // Ask the TUI to shut down and wait briefly for the terminal to be restored.
         logger.shutdown();
         let _ = handle.await;
     }
+
+    git.checkout_main_sync();
 
     if let Err(err) = &result {
         logger.set_status("ERRORE");

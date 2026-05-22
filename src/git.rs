@@ -368,16 +368,20 @@ impl GitHelpers {
         }
     }
 
-    /// Best-effort sync `git checkout rust`. Used from `Drop`/cleanup paths.
-    /// Mirrors the TS `checkoutMainSync` (which targeted `main`).
+    /// Best-effort sync `git checkout rust`. Mirrors the TS `checkoutMainSync`.
     pub fn checkout_main_sync(&self) {
-        let _ = std::process::Command::new("git")
-            .current_dir(self.cwd())
-            .args(["checkout", MAIN_BRANCH])
-            .stdout(Stdio::null())
-            .stderr(Stdio::null())
-            .status();
+        checkout_main_sync_for_repo(self.cwd());
     }
+}
+
+/// Best-effort sync `git checkout rust` for [`process::exit`] paths (no `Drop`).
+pub fn checkout_main_sync_for_repo(cwd: &str) {
+    let _ = std::process::Command::new("git")
+        .current_dir(cwd)
+        .args(["checkout", MAIN_BRANCH])
+        .stdout(Stdio::null())
+        .stderr(Stdio::null())
+        .status();
 }
 
 /// Convert an ISO date string to git's `@<unix-ts> +0000` form. Pre-epoch

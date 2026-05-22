@@ -27,8 +27,10 @@ use ratatui::text::{Line, Span};
 use ratatui::widgets::{Bar, BarChart, BarGroup, Block, Borders, List, ListItem, Paragraph, Wrap};
 use ratatui::Terminal;
 use tokio::sync::mpsc;
+use tokio::sync::watch;
 use tokio::task::JoinHandle;
 
+use crate::git::checkout_main_sync_for_repo;
 use crate::logger::{Logger, ShutdownSignal};
 use crate::types::{ActVersionEntry, NormattivaAtto};
 
@@ -71,7 +73,10 @@ impl Logger for TuiLogger {
 /// Try to start the TUI. Returns `None` if the terminal isn't suitable
 /// (not a TTY, too small, or any setup error). The CI logger is used as
 /// fallback by `build_logger`.
-pub async fn try_start(shutdown: ShutdownSignal) -> Option<(TuiLogger, JoinHandle<()>)> {
+pub async fn try_start(
+    shutdown: ShutdownSignal,
+    output_repo: String,
+) -> Option<(TuiLogger, JoinHandle<()>)> {
     // Match the TS rule: width < 40 || height < 10 → fall back.
     let (cols, rows) = crossterm::terminal::size().ok()?;
     if cols < 40 || rows < 10 {
@@ -91,9 +96,10 @@ pub async fn try_start(shutdown: ShutdownSignal) -> Option<(TuiLogger, JoinHandl
         None
     })?;
 
+    let shutdown_rx = shutdown.subscribe();
     let (tx, rx) = mpsc::unbounded_channel();
     let handle = tokio::spawn(async move {
-        if let Err(err) = run_loop(terminal, rx, shutdown).await {
+        if let Err(err) = run_loop(terminal, rx, shutdown_rx, output_repo).await {
             eprintln!("TUI loop error: {err}");
         }
         let _ = execute!(io::stdout(), LeaveAlternateScreen);
@@ -238,29 +244,41 @@ fn buckets_label_threshold(_max: usize) -> usize { 100 } // every label except t
 async fn run_loop(
     mut terminal: Terminal<CrosstermBackend<Stdout>>,
     mut rx: mpsc::UnboundedReceiver<TuiMsg>,
-    shutdown: ShutdownSignal,
+    mut shutdown_rx: watch::Receiver<bool>,
+    output_repo: String,
 ) -> anyhow::Result<()> {
     let mut state = State::default();
     let mut interval = tokio::time::interval(Duration::from_millis(200));
 
     loop {
         tokio::select! {
-            biased;
             msg = rx.recv() => {
                 let Some(msg) = msg else { break };
                 if !apply_msg(&mut state, msg) { break; }
             }
+            _ = shutdown_rx.changed() => {
+                if *shutdown_rx.borrow_and_update() {
+                    teardown_and_exit(&output_repo);
+                }
+            }
             _ = interval.tick() => {
                 draw(&mut terminal, &state)?;
                 if poll_user_quit().unwrap_or(false) {
-                    shutdown.request();
-                    break;
+                    teardown_and_exit(&output_repo);
                 }
             }
         }
     }
 
     Ok(())
+}
+
+/// Restore the terminal and exit — mirrors TS `screen.destroy(); process.exit(0)`.
+fn teardown_and_exit(output_repo: &str) -> ! {
+    let _ = disable_raw_mode();
+    let _ = execute!(io::stdout(), LeaveAlternateScreen);
+    checkout_main_sync_for_repo(output_repo);
+    std::process::exit(130);
 }
 
 /// Returns false to signal shutdown.
