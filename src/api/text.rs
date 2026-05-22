@@ -356,6 +356,21 @@ pub struct BranchableTypeInfo {
 /// onward are subject to the ~2-year conversion window introduced by that law.
 const L_100_1926_EFFECTIVE: &str = "1926-02-09";
 
+/// Inclusive `data_gu` window for the 1944–46 `DECRETO-LEGGE LUOGOTENENZIALE` cohort
+/// (L. 561/1956 sanatoria). WWI measures share the denomination but fall outside.
+pub const DLL_COHORT_FROM: &str = "1944-06-25";
+pub const DLL_COHORT_TO: &str = "1947-12-31";
+
+/// True when `data_gu` is in the DLL/DLCPS sanatoria cohort (10-char date prefix).
+pub fn is_dll_cohort_date(data_gu: &str) -> bool {
+    date_in_range(data_gu, DLL_COHORT_FROM, DLL_COHORT_TO)
+}
+
+fn date_in_range(date: &str, from: &str, to: &str) -> bool {
+    let p = date.get(..10).unwrap_or(date);
+    p >= from && p <= to
+}
+
 /// Resolve the act to a branch namespace + decadenza deadline, or `None` when
 /// the act should be committed directly on `history-rs` without a provisional
 /// branch.
@@ -394,13 +409,16 @@ pub fn resolve_branchable_type(act: &NormattivaAtto) -> Option<BranchableTypeInf
             })
         }
         "DECRETO-LEGGE LUOGOTENENZIALE" => {
-            // WWI individually converted; 1944–46 ratified en bloc by
-            // L. 17 aprile 1956 n. 561. Either way the branch waits for an
-            // external event rather than expiring on its own.
-            Some(BranchableTypeInfo {
-                short: BranchableShort::Dll,
-                deadline_days: None,
-            })
+            // Only the 1944–46 cohort uses dll-rs + sanatoria. WWI decreto-legge
+            // luogotenenziali share this denomination but commit on history-rs.
+            if is_dll_cohort_date(&act.data_gu) {
+                Some(BranchableTypeInfo {
+                    short: BranchableShort::Dll,
+                    deadline_days: None,
+                })
+            } else {
+                None
+            }
         }
         "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO" => {
             // 1946–47 transition; ratified en bloc by L. 561/1956.
@@ -681,6 +699,26 @@ mod tests {
         };
         let info = resolve_branchable_type(&act).unwrap();
         assert_eq!(info.deadline_days, Some(730));
+    }
+
+    #[test]
+    fn wwi_decreto_legge_luogotenenziale_not_branchable() {
+        let act = NormattivaAtto {
+            denominazione_atto: Some("DECRETO-LEGGE LUOGOTENENZIALE".to_string()),
+            data_gu: "1916-08-27".to_string(),
+            ..Default::default()
+        };
+        assert!(resolve_branchable_type(&act).is_none());
+    }
+
+    #[test]
+    fn decreto_luogotenenziale_1916_not_branchable() {
+        let act = NormattivaAtto {
+            denominazione_atto: Some("DECRETO LUOGOTENENZIALE".to_string()),
+            data_gu: "1916-12-21".to_string(),
+            ..Default::default()
+        };
+        assert!(resolve_branchable_type(&act).is_none());
     }
 
     #[test]

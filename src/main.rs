@@ -22,8 +22,8 @@ use crate::git::{checkout_main_sync_for_repo, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
-    process_batches, process_modified_acts, record_month_completed, update_progress_status,
-    EtaContext, ProcessorDeps,
+    migrate_misclassified_dll_pending, process_batches, process_modified_acts,
+    record_month_completed, update_progress_status, EtaContext, ProcessorDeps,
 };
 
 #[derive(Parser, Debug)]
@@ -140,6 +140,12 @@ async fn run(
         git: git.clone(),
         shutdown: shutdown_rx.clone(),
     };
+
+    if migrate_misclassified_dll_pending(&mut checkpoint, &deps).await? > 0 {
+        save_checkpoint_atomic(&config, &checkpoint)
+            .await
+            .with_context(|| "saving checkpoint after DLL migration")?;
+    }
 
     let mut total_processed: usize = 0;
     let now = Utc::now().date_naive();

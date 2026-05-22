@@ -16,8 +16,8 @@ use crate::api::detail::{
 };
 use crate::api::search::fetch_updated_acts;
 use crate::api::text::{
-    atto_file_name, build_file_name, extract_urns, html_to_plain_text, is_well_formed_urn,
-    resolve_branchable_type, to_plain_text, urn_date,
+    atto_file_name, build_file_name, extract_urns, html_to_plain_text, is_dll_cohort_date,
+    is_well_formed_urn, resolve_branchable_type, to_plain_text, urn_date,
 };
 use crate::checkpoint::save_checkpoint_atomic;
 use crate::git::{branch_name_for, GitHelpers};
@@ -536,6 +536,94 @@ enum ReconcileOutcome {
     StillWaiting,
 }
 
+fn pending_act_in_reconcile_scope(act: &PendingAct) -> bool {
+    match act.short {
+        BranchableShort::Dll | BranchableShort::Dlcps => is_dll_cohort_date(&act.data_gu),
+        _ => true,
+    }
+}
+
+/// Merge misclassified WWI (and other pre-1944) `Dll` pending acts onto `history-rs`
+/// and drop them from `pending_acts`. Idempotent for already-merged branches.
+pub async fn migrate_misclassified_dll_pending(
+    checkpoint: &mut Checkpoint,
+    deps: &ProcessorDeps,
+) -> Result<usize> {
+    let pool = ensure_pending_acts_migrated(checkpoint);
+    let to_migrate: Vec<(String, PendingAct)> = pool
+        .iter()
+        .filter(|(_, a)| a.short == BranchableShort::Dll && !is_dll_cohort_date(&a.data_gu))
+        .map(|(k, a)| (k.clone(), a.clone()))
+        .collect();
+
+    if to_migrate.is_empty() {
+        return Ok(0);
+    }
+
+    deps.logger.log(&format!(
+        "Migrazione DLL: {} atti fuori cohort 1944–46…",
+        to_migrate.len()
+    ));
+
+    let mut migrated = 0usize;
+    for (codice, act) in to_migrate {
+        pool.remove(&codice);
+        let tag = act.short.upper();
+        match deps.git.dl_branch_exists(&act.branch_name).await {
+            Ok(true) => {
+                let merge_date = iso_to_date(&act.data_gu);
+                let merge_msg =
+                    "Migrazione: decreto-legge luogotenenziale fuori cohort 1944–46 — merge su history";
+                if let Err(err) = deps
+                    .git
+                    .merge_dl_branch(&act.branch_name, merge_msg, &merge_date)
+                    .await
+                {
+                    deps.logger.log(&format!(
+                        "Migrazione {tag} {codice} merge fallito: {err}; rimango in pending."
+                    ));
+                    pool.insert(codice, act);
+                    continue;
+                }
+                if let Err(err) = deps.git.delete_dl_branch(&act.branch_name).await {
+                    deps.logger.log(&format!(
+                        "Migrazione {tag} {codice} delete branch fallito: {err}"
+                    ));
+                }
+                if let Err(err) = deps.git.checkout().await {
+                    deps.logger.log(&format!(
+                        "Migrazione {tag} {codice} checkout history fallito: {err}"
+                    ));
+                }
+                deps.logger.log(&format!(
+                    "Migrazione {tag} {codice} — merge su history ({merge_date})"
+                ));
+                migrated += 1;
+            }
+            Ok(false) => {
+                deps.logger.log(&format!(
+                    "Migrazione {tag} {codice} branch {} mancante — rimuovo dal checkpoint.",
+                    act.branch_name
+                ));
+                migrated += 1;
+            }
+            Err(err) => {
+                deps.logger.log(&format!(
+                    "Migrazione {tag} {codice} controllo branch fallito: {err}; rimango in pending."
+                ));
+                pool.insert(codice, act);
+            }
+        }
+    }
+
+    if pool.is_empty() {
+        checkpoint.pending_acts = None;
+    }
+
+    deps.logger.log(&format!("Migrazione DLL completata: {migrated} atti."));
+    Ok(migrated)
+}
+
 /// Check each pending provisional act (DL, RDL, DLL, DLCPS) for conversion,
 /// ratification, or decadenza. Merges resolved branches into `history-rs`
 /// with the correct historical date. Acts with `deadline_days = None`
@@ -557,7 +645,19 @@ pub async fn reconcile_pending_acts(
         std::mem::take(pool)
     };
     let mut still_pending: HashMap<String, PendingAct> = HashMap::new();
-    let total = pending.len();
+    let (in_scope, out_scope): (Vec<_>, Vec<_>) = pending
+        .into_iter()
+        .partition(|(_, a)| pending_act_in_reconcile_scope(a));
+
+    for (codice, act) in out_scope {
+        let tag = act.short.upper();
+        deps.logger.log(&format!(
+            "{tag} {codice} data_gu {} fuori ambito DLL/DLCPS 1944–46 — rimuovo dal checkpoint.",
+            act.data_gu
+        ));
+    }
+
+    let total = in_scope.len();
     if total == 0 {
         update_progress_status(
             deps.logger.as_ref(),
@@ -568,7 +668,7 @@ pub async fn reconcile_pending_acts(
     }
     let mut index = 0usize;
 
-    for (codice, act) in pending {
+    for (codice, act) in in_scope {
         index += 1;
         update_progress_status(
             deps.logger.as_ref(),

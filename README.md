@@ -14,7 +14,7 @@ The two implementations are namespace-disjoint and can coexist in the same repo:
 | Data branch          | `history`              | `history-rs`                |
 | Provisional DL       | `dl/<codice>`          | `dl-rs/<codice>`            |
 | Provisional RDL      | —                      | `rdl-rs/<codice>`           |
-| Provisional DLL      | —                      | `dll-rs/<codice>`           |
+| Provisional DLL      | 1944–46 only           | `dll-rs/<codice>`           |
 | Provisional DLCPS    | —                      | `dlcps-rs/<codice>`         |
 | Checkpoint file      | `progress.json`        | `progress-rs.json`          |
 
@@ -154,7 +154,7 @@ The binary commits each one to a dedicated branch and merges it into
 | ------- | ---------------------- | ---------------- | ------------------------------------------------------------------ |
 | `dl`    | `dl-rs/<codice>`       | 60 days          | Modern Decreto-Legge (post-1948, art. 77 Cost.)                    |
 | `rdl`   | `rdl-rs/<codice>`      | 730 days *or* none | Regio decreto-legge: 730d post-L. 100/1926 (≥ 1926-02-09); pre-1926 has no automatic decadenza |
-| `dll`   | `dll-rs/<codice>`      | none             | Decreto-legge luogotenenziale: WWI individual conversion / 1944–46 cohort awaiting L. 561/1956 sanatoria |
+| `dll`   | `dll-rs/<codice>`      | none             | Decreto-legge luogotenenziale **1944–46 only** (`data_gu` 1944-06-25 … 1947-12-31); WWI same denomination → `history-rs` |
 | `dlcps` | `dlcps-rs/<codice>`    | none             | Decreto legislativo del Capo provvisorio dello Stato (1946–47), ratified en bloc by L. 561/1956 |
 
 Acts with no automatic decadenza wait indefinitely on their branch until
