@@ -9,6 +9,7 @@ progress.json.tmp
 processing-*.log
 trace-*.json
 *.cpuprofile
+profiles/
 
 # Editor / OS noise
 .DS_Store
@@ -20,6 +21,7 @@ trace-*.json
 *.decaduto
 *.modifiedby
 talk/
+romajs/
 node_modules/
 
 # Files that belong to the TS port on `main` (must not leak onto `rust`)

@@ -8,6 +8,8 @@ use tokio_stream::StreamExt;
 mod api;
 mod checkpoint;
 mod config;
+#[cfg(feature = "cpuprofile")]
+mod cpuprofile;
 mod git;
 mod http;
 mod logger;
@@ -43,12 +45,23 @@ struct Args {
     /// Emit Chrome trace JSON (trace-*.json).
     #[arg(long)]
     perf: bool,
+
+    /// Stop after N monthly windows. Used to bound profile runs deterministically.
+    #[arg(long)]
+    max_months: Option<u32>,
+
+    /// Write a V8 .cpuprofile to this path. Requires --features cpuprofile.
+    #[cfg(feature = "cpuprofile")]
+    #[arg(long, value_name = "PATH")]
+    cpuprofile: Option<std::path::PathBuf>,
 }
 
 #[tokio::main]
 async fn main() -> Result<()> {
     let args = Args::parse();
     let _trace_guard = tracing_setup::init(args.perf);
+    #[cfg(feature = "cpuprofile")]
+    let _cpu_guard = args.cpuprofile.as_ref().map(|p| cpuprofile::start(p.clone()));
 
     let config = Arc::new(load_config());
     let output_repo = config.output_repo.clone();
@@ -150,7 +163,12 @@ async fn run(
     let mut total_processed: usize = 0;
     let now = Utc::now().date_naive();
 
-    for (from, to) in monthly_windows(&since_date)? {
+    let windows = monthly_windows(&since_date)?;
+    let bounded: Box<dyn Iterator<Item = (NaiveDate, NaiveDate)>> = match args.max_months {
+        Some(n) => Box::new(windows.into_iter().take(n as usize)),
+        None => Box::new(windows.into_iter()),
+    };
+    for (from, to) in bounded {
         if is_shutdown_requested(&shutdown_rx) {
             return graceful_shutdown(&config, &checkpoint, &logger).await;
         }
