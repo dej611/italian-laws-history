@@ -24,8 +24,9 @@ use crate::git::{checkout_main_sync_for_repo, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
-    migrate_misclassified_dll_pending, process_batches, process_modified_acts,
-    record_month_completed, update_progress_status, EtaContext, ProcessorDeps,
+    log_pending_breakdown, migrate_misclassified_dll_pending, process_batches,
+    process_modified_acts, record_month_completed, retry_pending_sanatoria,
+    update_progress_status, EtaContext, ProcessorDeps,
 };
 
 #[derive(Parser, Debug)]
@@ -158,6 +159,13 @@ async fn run(
         save_checkpoint_atomic(&config, &checkpoint)
             .await
             .with_context(|| "saving checkpoint after DLL migration")?;
+    }
+
+    log_pending_breakdown(&checkpoint, logger.as_ref());
+    if retry_pending_sanatoria(&mut checkpoint, &deps).await? > 0 {
+        save_checkpoint_atomic(&config, &checkpoint)
+            .await
+            .with_context(|| "saving checkpoint after sanatoria retry")?;
     }
 
     let mut total_processed: usize = 0;

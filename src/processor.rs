@@ -430,6 +430,84 @@ fn date_in_range(date: &str, from: &str, to: &str) -> bool {
     p >= from && p <= to
 }
 
+/// Normattiva `codice_redazionale` for a sanatoria law (e.g. L. 473/1925 → `025U0473`).
+fn sanatoria_codice(anno: &str, numero: &str) -> String {
+    let year: u32 = anno.parse().unwrap_or(0);
+    let n: u32 = numero.parse().unwrap_or(0);
+    format!("0{:02}U{n:04}", year % 100)
+}
+
+/// True when the sanatoria law identified by `(anno, numero)` is in the checkpoint.
+fn sanatoria_law_committed(anno: &str, numero: &str, checkpoint: &Checkpoint) -> bool {
+    checkpoint
+        .act_versions
+        .contains_key(&sanatoria_codice(anno, numero))
+}
+
+/// True when this act can only close via bulk sanatoria L. 561/1956, not individual
+/// conversion lookup.
+fn awaiting_l561_sanatoria(act: &PendingAct, checkpoint: &Checkpoint) -> bool {
+    let sanatoria_bound = matches!(act.short, BranchableShort::Dlcps)
+        || (act.short == BranchableShort::Dll && is_dll_cohort_date(&act.data_gu));
+    sanatoria_bound && !sanatoria_law_committed("1956", "561", checkpoint)
+}
+
+/// Split pending acts into (active reconciliation, parked awaiting L. 561/1956).
+fn pending_reconcile_counts(checkpoint: &Checkpoint) -> (usize, usize) {
+    let pending = checkpoint.pending_acts.as_ref();
+    let Some(pending) = pending else {
+        return (0, 0);
+    };
+    let mut active = 0usize;
+    let mut parked = 0usize;
+    for act in pending.values() {
+        if !pending_act_in_reconcile_scope(act) {
+            continue;
+        }
+        if awaiting_l561_sanatoria(act, checkpoint) {
+            parked += 1;
+        } else {
+            active += 1;
+        }
+    }
+    (active, parked)
+}
+
+fn format_reconcile_phase(active: usize, parked: usize) -> String {
+    if parked == 0 {
+        if active == 0 {
+            "riconciliazione 0/0…".to_string()
+        } else {
+            format!("riconciliazione 0/{active}…")
+        }
+    } else if active == 0 {
+        format!("riconciliazione: 0 attivi, {parked} in attesa sanatoria L.561/1956")
+    } else {
+        format!("riconciliazione: {active} attivi, {parked} in attesa sanatoria L.561/1956")
+    }
+}
+
+/// Publication date for a sanatoria law already in the checkpoint (for retroactive retry).
+fn sanatoria_publication_date(sanatoria: &SanatoriaLaw, checkpoint: &Checkpoint) -> Option<String> {
+    let codice = sanatoria_codice(sanatoria.anno, sanatoria.numero);
+    checkpoint
+        .act_versions
+        .get(&codice)
+        .map(|e| iso_to_date(&e.date))
+}
+
+/// Log a breakdown of pending provisional acts (active vs sanatoria-parked).
+pub fn log_pending_breakdown(checkpoint: &Checkpoint, logger: &dyn Logger) {
+    let (active, parked) = pending_reconcile_counts(checkpoint);
+    let total = checkpoint.pending_acts.as_ref().map(|p| p.len()).unwrap_or(0);
+    if total == 0 {
+        return;
+    }
+    logger.log(&format!(
+        "Pending: {total} total — {active} in riconciliazione attiva, {parked} in attesa sanatoria L.561/1956"
+    ));
+}
+
 /// Apply a bulk-ratification law (e.g. L. 473/1925, L. 561/1956): octopus-merge
 /// every still-open branch in scope into `history-rs` with one merge commit,
 /// then remove those entries from `pending_acts`. No-op when no branches qualify.
@@ -494,12 +572,17 @@ async fn apply_sanatoria(
         in_scope.len(),
         breakdown.join(", "),
     ));
-    deps.git
+    let merge_result = deps
+        .git
         .octopus_merge(&branches, &full_message, publication_date)
         .await?;
 
-    // Remove the merged entries; best-effort delete the local branches.
+    let merged_set: HashSet<String> = merge_result.merged_branches.into_iter().collect();
+    let mut closed = 0usize;
     for (codice, branch_name, _) in &in_scope {
+        if !merged_set.contains(branch_name) {
+            continue;
+        }
         if let Err(err) = deps.git.delete_dl_branch(branch_name).await {
             deps.logger.log(&format!(
                 "Sanatoria {}: errore eliminazione ramo {branch_name}: {err}",
@@ -511,8 +594,25 @@ async fn apply_sanatoria(
             "Sanatoria {}: ramo {branch_name} chiuso",
             sanatoria.label,
         ));
+        closed += 1;
     }
-    Ok(in_scope.len())
+
+    for (branch_name, err) in &merge_result.failed_branches {
+        deps.logger.log(&format!(
+            "Sanatoria {}: merge fallito per {branch_name}: {err}",
+            sanatoria.label
+        ));
+    }
+
+    if closed == 0 && !merge_result.failed_branches.is_empty() {
+        return Err(anyhow::anyhow!(
+            "Sanatoria {}: nessun ramo unito ({} falliti)",
+            sanatoria.label,
+            merge_result.failed_branches.len()
+        ));
+    }
+
+    Ok(closed)
 }
 
 // ---- Provisional-act reconciliation -----------------------------------------
@@ -624,6 +724,48 @@ pub async fn migrate_misclassified_dll_pending(
     Ok(migrated)
 }
 
+/// Re-apply sanatoria bulk merges when the ratifying law is already committed
+/// but matching branches remain in `pending_acts` (e.g. after a failed merge).
+pub async fn retry_pending_sanatoria(
+    checkpoint: &mut Checkpoint,
+    deps: &ProcessorDeps,
+) -> Result<usize> {
+    let mut total = 0usize;
+    for sanatoria in SANATORIA_LAWS {
+        if !sanatoria_law_committed(sanatoria.anno, sanatoria.numero, checkpoint) {
+            continue;
+        }
+        let pending = ensure_pending_acts_migrated(checkpoint);
+        let has_scope = pending.values().any(|a| {
+            sanatoria.covers_shorts.contains(&a.short)
+                && date_in_range(&a.data_gu, sanatoria.from_date, sanatoria.to_date)
+        });
+        if !has_scope {
+            continue;
+        }
+        let Some(pub_date) = sanatoria_publication_date(sanatoria, checkpoint) else {
+            continue;
+        };
+        deps.logger.log(&format!(
+            "Retry sanatoria {}: rami ancora aperti in ambito…",
+            sanatoria.label
+        ));
+        match apply_sanatoria(sanatoria, &pub_date, checkpoint, deps).await {
+            Ok(n) => {
+                deps.logger.log(&format!("Retry sanatoria {}: {n} rami chiusi", sanatoria.label));
+                total += n;
+            }
+            Err(err) => {
+                deps.logger.log(&format!(
+                    "Retry sanatoria {} fallito: {err:#}",
+                    sanatoria.label
+                ));
+            }
+        }
+    }
+    Ok(total)
+}
+
 /// Check each pending provisional act (DL, RDL, DLL, DLCPS) for conversion,
 /// ratification, or decadenza. Merges resolved branches into `history-rs`
 /// with the correct historical date. Acts with `deadline_days = None`
@@ -657,24 +799,35 @@ pub async fn reconcile_pending_acts(
         ));
     }
 
-    let total = in_scope.len();
-    if total == 0 {
-        update_progress_status(
-            deps.logger.as_ref(),
-            checkpoint,
-            eta_ctx,
-            Some("riconciliazione 0/0…"),
-        );
+    let (to_reconcile, parked_sanatoria): (Vec<_>, Vec<_>) = in_scope
+        .into_iter()
+        .partition(|(_, a)| !awaiting_l561_sanatoria(a, checkpoint));
+
+    for (codice, act) in parked_sanatoria {
+        still_pending.insert(codice, act);
     }
+
+    let active_total = to_reconcile.len();
+    let parked_total = still_pending.len();
+    update_progress_status(
+        deps.logger.as_ref(),
+        checkpoint,
+        eta_ctx,
+        Some(&format_reconcile_phase(active_total, parked_total)),
+    );
+
     let mut index = 0usize;
 
-    for (codice, act) in in_scope {
+    for (codice, act) in to_reconcile {
         index += 1;
         update_progress_status(
             deps.logger.as_ref(),
             checkpoint,
             eta_ctx,
-            Some(&format!("riconciliazione {index}/{total}…")),
+            Some(&format!(
+                "riconciliazione {index}/{active_total} ({} in attesa sanatoria)…",
+                still_pending.len()
+            )),
         );
         let tag = act.short.upper();
         deps.logger.log(&format!("Riconciliazione {tag} {codice}…"));
@@ -1155,13 +1308,6 @@ async fn commit_one_act(
                     "Committed {} (+ {} refs)",
                     act.codice_redazionale, ref_count
                 ));
-
-                // Bulk-ratification trigger: when the LEGGE we just committed
-                // is L. 473/1925 or L. 561/1956, octopus-merge every still-open
-                // branch in scope into history with one merge commit.
-                if let Some(sanatoria) = find_sanatoria_law(act) {
-                    apply_sanatoria(sanatoria, &commit_date, checkpoint, deps).await?;
-                }
             }
         }
     }
@@ -1171,6 +1317,28 @@ async fn commit_one_act(
         .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), ref_count));
     deps.logger.update_refs(&act.codice_redazionale, ref_count);
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
+
+    // Bulk-ratification trigger: when the LEGGE we just committed is L. 473/1925
+    // or L. 561/1956, octopus-merge every still-open branch in scope. Errors are
+    // logged but do not roll back the sanatoria law checkpoint entry.
+    if let Some(sanatoria) = find_sanatoria_law(act) {
+        let publication_date = iso_to_date(&act.data_gu);
+        match apply_sanatoria(sanatoria, &publication_date, checkpoint, deps).await {
+            Ok(n) => {
+                deps.logger.log(&format!(
+                    "Sanatoria {} completata: {n} rami chiusi",
+                    sanatoria.label
+                ));
+            }
+            Err(err) => {
+                deps.logger.log(&format!(
+                    "Sanatoria {} fallita (retry al prossimo avvio): {err:#}",
+                    sanatoria.label
+                ));
+            }
+        }
+    }
+
     record_completion();
     update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
@@ -1358,6 +1526,7 @@ async fn commit_modification(
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::types::ActVersionEntry;
 
     fn legge(anno: &str, numero: &str) -> NormattivaAtto {
         NormattivaAtto {
@@ -1462,6 +1631,119 @@ mod tests {
             marker_file_name("046U0500", BranchableShort::Dlcps),
             "046U0500.dlcps.decaduto"
         );
+    }
+
+    #[test]
+    fn sanatoria_codice_maps_known_laws() {
+        assert_eq!(sanatoria_codice("1925", "473"), "025U0473");
+        assert_eq!(sanatoria_codice("1956", "561"), "056U0561");
+    }
+
+    #[test]
+    fn awaiting_l561_sanatoria_true_for_dlcps_before_law() {
+        let mut checkpoint = Checkpoint::default();
+        let act = PendingAct {
+            codice_redazionale: "046U0047".to_string(),
+            branch_name: "dlcps-rs/046U0047".to_string(),
+            data_gu: "1947-01-15".to_string(),
+            denominazione_atto: Some(
+                "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO".to_string(),
+            ),
+            numero_provvedimento: Some("47".to_string()),
+            anno_provvedimento: Some("1947".to_string()),
+            short: BranchableShort::Dlcps,
+            deadline_days: None,
+        };
+        assert!(awaiting_l561_sanatoria(&act, &checkpoint));
+
+        checkpoint.act_versions.insert(
+            "056U0561".to_string(),
+            ActVersionEntry {
+                date: "1956-04-17".to_string(),
+                year: Some("1956".to_string()),
+                kind: Some("LEGGE".to_string()),
+                refs: None,
+            },
+        );
+        assert!(!awaiting_l561_sanatoria(&act, &checkpoint));
+    }
+
+    #[test]
+    fn awaiting_l561_sanatoria_true_for_dll_cohort() {
+        let checkpoint = Checkpoint::default();
+        let act = PendingAct {
+            codice_redazionale: "044U0203".to_string(),
+            branch_name: "dll-rs/044U0203".to_string(),
+            data_gu: "1944-09-19".to_string(),
+            denominazione_atto: Some("DECRETO-LEGGE LUOGOTENENZIALE".to_string()),
+            numero_provvedimento: Some("203".to_string()),
+            anno_provvedimento: Some("1944".to_string()),
+            short: BranchableShort::Dll,
+            deadline_days: None,
+        };
+        assert!(awaiting_l561_sanatoria(&act, &checkpoint));
+    }
+
+    #[test]
+    fn awaiting_l561_sanatoria_false_for_rdl() {
+        let checkpoint = Checkpoint::default();
+        let act = PendingAct {
+            codice_redazionale: "015U0042".to_string(),
+            branch_name: "rdl-rs/015U0042".to_string(),
+            data_gu: "1915-01-29".to_string(),
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
+            numero_provvedimento: Some("42".to_string()),
+            anno_provvedimento: Some("1915".to_string()),
+            short: BranchableShort::Rdl,
+            deadline_days: None,
+        };
+        assert!(!awaiting_l561_sanatoria(&act, &checkpoint));
+    }
+
+    #[test]
+    fn format_reconcile_phase_shows_sanatoria_parked() {
+        assert_eq!(
+            format_reconcile_phase(13, 885),
+            "riconciliazione: 13 attivi, 885 in attesa sanatoria L.561/1956"
+        );
+        assert_eq!(
+            format_reconcile_phase(0, 885),
+            "riconciliazione: 0 attivi, 885 in attesa sanatoria L.561/1956"
+        );
+    }
+
+    #[test]
+    fn pending_reconcile_counts_splits_active_and_parked() {
+        let mut checkpoint = Checkpoint::default();
+        let mut pending = HashMap::new();
+        pending.insert(
+            "046U0047".to_string(),
+            PendingAct {
+                codice_redazionale: "046U0047".to_string(),
+                branch_name: "dlcps-rs/046U0047".to_string(),
+                data_gu: "1947-01-15".to_string(),
+                denominazione_atto: None,
+                numero_provvedimento: None,
+                anno_provvedimento: None,
+                short: BranchableShort::Dlcps,
+                deadline_days: None,
+            },
+        );
+        pending.insert(
+            "015U0042".to_string(),
+            PendingAct {
+                codice_redazionale: "015U0042".to_string(),
+                branch_name: "rdl-rs/015U0042".to_string(),
+                data_gu: "1915-01-29".to_string(),
+                denominazione_atto: None,
+                numero_provvedimento: None,
+                anno_provvedimento: None,
+                short: BranchableShort::Rdl,
+                deadline_days: None,
+            },
+        );
+        checkpoint.pending_acts = Some(pending);
+        assert_eq!(pending_reconcile_counts(&checkpoint), (1, 1));
     }
 
     #[test]

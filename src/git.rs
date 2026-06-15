@@ -98,6 +98,13 @@ pub struct GitHelpers {
     config: Arc<Config>,
 }
 
+/// Result of a bulk merge: branches successfully merged vs failures.
+#[derive(Debug, Default, Clone, PartialEq, Eq)]
+pub struct OctopusMergeResult {
+    pub merged_branches: Vec<String>,
+    pub failed_branches: Vec<(String, String)>,
+}
+
 impl GitHelpers {
     pub fn new(config: Arc<Config>) -> Self {
         Self { config }
@@ -286,6 +293,28 @@ impl GitHelpers {
         self.commit_local_multi(&[file], message, iso_date).await
     }
 
+    async fn try_merge_dl_branch(
+        &self,
+        branch: &str,
+        message: &str,
+        git_date: &str,
+        strategy_ours: bool,
+        allow_unrelated: bool,
+    ) -> Result<()> {
+        let mut args: Vec<&str> = vec!["merge", "--no-ff"];
+        if allow_unrelated {
+            args.push("--allow-unrelated-histories");
+        }
+        if strategy_ours {
+            args.push("-X");
+            args.push("ours");
+        }
+        args.push(branch);
+        args.push("-m");
+        args.push(message);
+        self.run(&args, Some(git_date)).await
+    }
+
     /// Merge a `<short>/<codice>` branch into `history-rs` with the supplied
     /// historically-accurate date.
     ///
@@ -297,6 +326,9 @@ impl GitHelpers {
     /// ..."), the post-decadenza state is the authoritative final form. The
     /// pre-decadenza text remains reachable via `git log <branch>`. The merge
     /// commit itself still records the DL's lifecycle on the timeline.
+    ///
+    /// When git reports unrelated histories (common for sanatoria bulk merges
+    /// after a history branch rebuild), retries with `--allow-unrelated-histories`.
     #[tracing::instrument(skip(self))]
     pub async fn merge_dl_branch(
         &self,
@@ -306,24 +338,30 @@ impl GitHelpers {
     ) -> Result<()> {
         let git_date = to_git_date(iso_date);
         self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
-        match self
-            .run(&["merge", "--no-ff", branch, "-m", message], Some(&git_date))
-            .await
-        {
-            Ok(()) => Ok(()),
-            Err(_) => {
-                // Natural merge failed (almost always content conflicts on the
-                // law text file because Normattiva already updated it on
-                // history-rs with a post-decadenza marker). Abort, then retry
-                // with `-X ours` so history-rs's final state wins.
-                self.abort_merge_if_any().await?;
-                self.run(
-                    &["merge", "--no-ff", "-X", "ours", branch, "-m", message],
-                    Some(&git_date),
-                )
+
+        let attempts: &[(bool, bool)] = &[
+            (false, false),
+            (true, false),
+            (true, true),
+            (false, true),
+        ];
+        let mut last_err: Option<anyhow::Error> = None;
+        for (i, &(strategy_ours, allow_unrelated)) in attempts.iter().enumerate() {
+            match self
+                .try_merge_dl_branch(branch, message, &git_date, strategy_ours, allow_unrelated)
                 .await
+            {
+                Ok(()) => return Ok(()),
+                Err(err) => {
+                    last_err = Some(err);
+                    if i + 1 == attempts.len() {
+                        break;
+                    }
+                    self.abort_merge_if_any().await?;
+                }
             }
         }
+        Err(last_err.unwrap_or_else(|| anyhow!("merge of {branch} failed")))
     }
 
     /// Octopus merge: combine multiple branches into `history-rs` in one commit
@@ -333,18 +371,30 @@ impl GitHelpers {
     ///
     /// Falls back to the regular two-parent merge when only one branch is
     /// supplied (octopus needs ≥ 2 sources). No-op when the slice is empty.
+    /// Per-branch failures during the sequential fallback do not abort the
+    /// whole sanatoria — callers inspect [`OctopusMergeResult`].
     #[tracing::instrument(skip(self, branches, message), fields(count = branches.len()))]
     pub async fn octopus_merge(
         &self,
         branches: &[String],
         message: &str,
         iso_date: &str,
-    ) -> Result<()> {
+    ) -> Result<OctopusMergeResult> {
         if branches.is_empty() {
-            return Ok(());
+            return Ok(OctopusMergeResult::default());
         }
         if branches.len() == 1 {
-            return self.merge_dl_branch(&branches[0], message, iso_date).await;
+            let branch = &branches[0];
+            return match self.merge_dl_branch(branch, message, iso_date).await {
+                Ok(()) => Ok(OctopusMergeResult {
+                    merged_branches: vec![branch.clone()],
+                    failed_branches: Vec::new(),
+                }),
+                Err(err) => Ok(OctopusMergeResult {
+                    merged_branches: Vec::new(),
+                    failed_branches: vec![(branch.clone(), err.to_string())],
+                }),
+            };
         }
         let git_date = to_git_date(iso_date);
         self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
@@ -352,20 +402,25 @@ impl GitHelpers {
         for b in branches {
             args.push(b.as_str());
         }
-        match self.run(&args, Some(&git_date)).await {
-            Ok(()) => Ok(()),
-            Err(_) => {
-                // Octopus can't take `-X ours`, so on conflict abort and fall
-                // back to sequential two-parent merges. Each call goes through
-                // `merge_dl_branch`, which itself retries with `-X ours` when
-                // needed.
-                self.abort_merge_if_any().await?;
-                for b in branches {
-                    self.merge_dl_branch(b, message, iso_date).await?;
-                }
-                Ok(())
+        if self.run(&args, Some(&git_date)).await.is_ok() {
+            return Ok(OctopusMergeResult {
+                merged_branches: branches.to_vec(),
+                failed_branches: Vec::new(),
+            });
+        }
+
+        // Octopus can't take `-X ours`, so on conflict abort and fall back to
+        // sequential two-parent merges. Each call goes through `merge_dl_branch`,
+        // which itself retries with `-X ours` / `--allow-unrelated-histories`.
+        self.abort_merge_if_any().await?;
+        let mut result = OctopusMergeResult::default();
+        for b in branches {
+            match self.merge_dl_branch(b, message, iso_date).await {
+                Ok(()) => result.merged_branches.push(b.clone()),
+                Err(err) => result.failed_branches.push((b.clone(), err.to_string())),
             }
         }
+        Ok(result)
     }
 
     /// Best-effort sync `git checkout rust`. Mirrors the TS `checkoutMainSync`.
