@@ -18,7 +18,16 @@ La Camera dei deputati ed il Senato della Repubblica hanno
 
  
  
- 1. Le anagrafi dei cittadini italiani residenti all'estero (AIRE) sono tenute presso i comuni e presso il Ministero dell'interno. 
+ 1. 
+ ((L'anagrafe))
+
+ dei cittadini italiani residenti all'estero (AIRE) 
+ ((è tenuta))
+
+ presso i comuni 
+ ((...))
+
+ . 
  
 
  
@@ -26,7 +35,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 2. Le anagrafi dei comuni sono costituite da schedari che raccolgono le schede individuali e le schede di famiglia eliminate dall'anagrafe della popolazione residente in dipendenza del trasferimento permanente all'estero delle persone cui esse si riferiscono, ed inoltre le schede istituite a seguito di trascrizione di atti di stato civile pervenuti dall'estero. 
+ 2. 
+ ((L'AIRE è costituita))
+
+ da schedari che raccolgono le schede individuali e le schede di famiglia eliminate dall'anagrafe della popolazione residente in dipendenza del trasferimento permanente all'estero delle persone cui esse si riferiscono, ed inoltre le schede istituite a seguito di trascrizione di atti di stato civile pervenuti dall'estero. 
  
 
  
@@ -34,7 +46,17 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 3. Gli ufficiali di stato civile devono comunicare all'ufficio d'anagrafe del proprio comune il contenuto degli atti dello stato civile e delle relative annotazioni che si riferiscono ai cittadini residenti all'estero. 
+ 2-bis. 
+ ((L'AIRE costituisce parte integrante dell'Anagrafe nazionale della popolazione residente (ANPR), istituita dall'articolo 62 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82.))
+
+ 
+ 
+
+ 
+ 2-ter. 
+ ((Gli adempimenti anagrafici di cui alla presente legge sono effettuati nell'ANPR))
+
+ . 
  
 
  
@@ -42,7 +64,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 4. L'anagrafe istituita presso il Ministero dell'interno contiene dati desunti dalle anagrafi comunali e dalle dichiarazioni rese a norma dell'articolo 6. 
+ 3. Gli ufficiali di stato civile devono comunicare all'ufficio d'anagrafe 
+ ((del comune di iscrizione all'AIRE))
+
+ il contenuto degli atti dello stato civile e delle relative annotazioni che si riferiscono ai cittadini residenti all'estero. 
  
 
  
@@ -50,7 +75,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 5. La stessa anagrafe contiene i dati anagrafici dei cittadini nati e residenti all'estero dei quali nessuno degli ascendenti è nato nel territorio della Repubblica o vi ha mai risieduto. 
+ 4. 
+ ((COMMA ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
+
+ . 
  
 
  
@@ -58,7 +86,10 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 6. Ai fini di cui al comma 5, l'ufficio dello stato civile di Roma comunica all'anagrafe del Ministero dell'interno il contenuto degli atti dello stato civile e delle relative annotazioni che si riferiscono ai predetti cittadini. 
+ 5. 
+ ((L'AIRE))
+
+ contiene i dati anagrafici dei cittadini nati e residenti all'estero dei quali nessuno degli ascendenti è nato nel territorio della Repubblica o vi ha mai risieduto. 
  
 
  
@@ -66,7 +97,21 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
 
  
- 7. Apposita annotazione indica, per ogni cittadino incluso nell'anagrafe di cui ai commi 4 e 5, se lo stesso è iscritto nelle liste elettorali di un comune della Repubblica. 
+ 6. 
+ ((COMMA ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
+
+ . 
+ 
+
+ 
+ 
+ 
+
+ 
+ 7. Apposita annotazione indica, per ogni cittadino incluso nell'anagrafe 
+ ((di cui al comma 5))
+
+ , se lo stesso è iscritto nelle liste elettorali di un comune della Repubblica. 
  
 
  
@@ -84,64 +129,89 @@ La Camera dei deputati ed il Senato della Repubblica hanno
  
  
  
- 9. Non sono altresì iscritti nelle stesse anagrafi: 
- 
-
- 
- 
-
- 
- a) i cittadini che si recano all'estero per l'esercizio di occupazioni stagionali; 
- ((5))
+ 9. 
+ ((Non sono altresì iscritti nelle anagrafi di cui al presente articolo:))
 
  
 
  
- b) i dipendenti di ruolo dello Stato in servizio all'estero e le persone con essi conviventi, i quali siano stati notificati alle autorità locali ai sensi delle convenzioni di Vienna sulle relazioni diplomatiche e sulle relazioni consolari, rispettivamente del 1961 e del 1963, ratificate con legge 9 agosto 1967, n. 804. 
- 
-
- 
- 
+ a) 
+ ((i cittadini che si recano all'estero per l'esercizio di occupazioni stagionali;))
 
  
 
  
+ b) 
+ ((il personale inviato da amministrazioni pubbliche a prestare servizio all'estero e le persone con esso conviventi, notificati alle autorità locali conformemente alle convenzioni di Vienna sulle relazioni diplomatiche e sulle relazioni consolari, adottate rispettivamente il 18 aprile 1961 e il 24 aprile 1963, ratificate e rese esecutive ai sensi della legge 9 agosto 1967, n. 804, o alle disposizioni internazionali che regolano le rappresentanze permanenti presso l'Unione europea o le organizzazioni internazionali;))
 
- 
- 10. Il supporto tecnico per la tenuta e l'aggiornamento dell'anagrafe di cui al comma 4 è costituito dal centro elettronico della Direzione centrale per i servizi elettorali. 
- 
-
- 
- 
  
 
  
- 11. Ad uno o più funzionari del Ministero dell'interno, con qualifica funzionale non inferiore alla settima, sono attribuiti i poteri e i doveri dell'ufficiale di anagrafe. 
+ c) 
+ ((i dirigenti scolastici, i docenti e il personale amministrativo della scuola collocati fuori ruolo e inviati all'estero nell'ambito di attività scolastiche fuori del territorio nazionale;))
+
  
 
  
- 
+ d) 
+ ((i dipendenti delle regioni e delle province autonome assegnati a prestare servizio presso gli uffici di collegamento delle medesime istituiti ai sensi dell'articolo 58 della legge 6 febbraio 1996, n. 52;))
+
  
 
  
- 12. Gli atti delle anagrafi di cui al presente articolo sono atti pubblici. 
+ e) 
+ ((il personale civile e militare che fruisce dell'indennità di lungo servizio all'estero prevista dall'articolo 1808 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66;))
+
  
 
  
+ f) 
+ ((il personale civile e militare in servizio presso gli uffici e le strutture dell'Organizzazione del Trattato del Nord Atlantico (NATO);))
+
  
 
  
- 
+ g) 
+ ((le persone conviventi con i cittadini di cui alle lettere c), d), e) e f), che si recano all'estero al seguito dei medesimi.))
+
  
 
  
 
  
- --------------
 
- AGGIORNAMENTO (5)
+ 
+ 9-bis. 
+ ((L'iscrizione nelle anagrafi di cui al presente articolo è facoltativa per i cittadini che conservano o stabiliscono il domicilio fiscale in Italia e che lavorano all'estero per l'Unione europea o per organizzazioni internazionali di cui l'Italia è parte o per i soggetti di cui all'articolo 26 della legge 11 agosto 2014, n. 125))
+
+ . 
+ 
 
  
  
+ 
 
- Il D.Lgs. 13 aprile 2017, n. 64 ha disposto (con l'art. 38, comma 1) che "A decorrere dal primo giorno dell'anno scolastico successivo all'entrata in vigore del presente decreto legislativo, all'articolo 1, comma 9, lettera a), della legge 27 ottobre 1988, n. 470, dopo la parola: &laquo;stagionale&raquo; sono aggiunte le seguenti &laquo;, nonchè dirigenti scolastici, docenti e personale amministrativo della scuola collocati fuori ruolo ed inviati all'estero nell'ambito di attività scolastiche fuori dal territorio nazionale&raquo;".
+ 
+ 10. 
+ ((COMMA ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
+
+ . 
+ 
+
+ 
+ 
+ 
+
+ 
+ 11. 
+ ((COMMA ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
+
+ . 
+ 
+
+ 
+ 
+ 
+
+ 
+ 12. Gli atti delle anagrafi di cui al presente articolo sono atti pubblici.
