@@ -1,3 +1,4 @@
+pub mod allegato;
 pub mod detail;
 pub mod search;
 pub mod text;

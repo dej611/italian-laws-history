@@ -22,6 +22,41 @@ const MAX_ARTICLES: u32 = 500;
 #[allow(dead_code)]
 const MAX_ALLEGATI_GROUPS: u32 = 20;
 
+/// Cap on URN allegato probes (`:1~art1` … `:N~art1`).
+const MAX_ALLEGATO_URN_PROBES: u32 = 20;
+
+/// One annex discovered via `urn:nir:…:N~art1`.
+#[derive(Debug, Clone)]
+pub struct AllegatoPart {
+    pub index: u32,
+    pub raw: String,
+    pub plain: String,
+}
+
+/// Body text plus zero or more allegati (not concatenated).
+#[derive(Debug, Clone)]
+pub struct ActWithAllegati {
+    pub body_raw: String,
+    pub body_plain: String,
+    pub allegati: Vec<AllegatoPart>,
+}
+
+impl ActWithAllegati {
+    /// HTML blob used for `extract_urns` (body + all annexes).
+    pub fn combined_raw(&self) -> String {
+        let mut parts = Vec::with_capacity(1 + self.allegati.len());
+        if !self.body_raw.is_empty() {
+            parts.push(self.body_raw.as_str());
+        }
+        for a in &self.allegati {
+            if !a.raw.is_empty() {
+                parts.push(a.raw.as_str());
+            }
+        }
+        parts.join("\n")
+    }
+}
+
 /// Fetch the text of an act at a specific version.
 ///
 /// Prefers the URN endpoint (`dettaglio-atto-urn`) with a version suffix
@@ -118,6 +153,67 @@ pub async fn fetch_act_detail_by_urn(
             None
         }
     }
+}
+
+/// Fetch body via [`fetch_act_detail`], then probe allegati with
+/// `base:N~art1` until 404/empty. Does not concatenate annexes into the body.
+pub async fn fetch_act_with_allegati(
+    act: &NormattivaAtto,
+    at_date: &str,
+    config: &Config,
+    sf: &SafeFetch,
+    logger: &dyn Logger,
+    version_suffix: &str,
+) -> Option<ActWithAllegati> {
+    let atto = fetch_act_detail(act, at_date, config, sf, logger, version_suffix).await?;
+    let (body_raw, body_plain) = crate::api::text::to_plain_text(&atto);
+    let allegati = fetch_allegati_by_urn(act, config, sf).await;
+    if !allegati.is_empty() {
+        logger.log(&format!(
+            "{}: {} allegat{} trovati",
+            act.codice_redazionale,
+            allegati.len(),
+            if allegati.len() == 1 { "o" } else { "i" }
+        ));
+    }
+    Some(ActWithAllegati {
+        body_raw,
+        body_plain,
+        allegati,
+    })
+}
+
+/// Probe `urn:nir:…:1~art1`, `:2~art1`, … stop on first miss.
+async fn fetch_allegati_by_urn(
+    act: &NormattivaAtto,
+    config: &Config,
+    sf: &SafeFetch,
+) -> Vec<AllegatoPart> {
+    let Some(base) = build_act_urn(act) else {
+        return Vec::new();
+    };
+    let mut out = Vec::new();
+    for n in 1..=MAX_ALLEGATO_URN_PROBES {
+        let urn = format!("{base}:{n}~art1");
+        let url = format!("{}/api/v1/atto/dettaglio-atto-urn", config.api_base);
+        let body = json!({ "urn": urn });
+        let atto = match sf.post_json::<DettaglioAttoResponse>(&url, &body).await {
+            Ok(res) if res.success.unwrap_or(false) => res.data.and_then(|d| d.atto),
+            Ok(_) => None,
+            Err(_) => None,
+        };
+        let Some(atto) = atto else { break };
+        let (raw, plain) = crate::api::text::to_plain_text(&atto);
+        if raw.is_empty() && plain.is_empty() {
+            break;
+        }
+        out.push(AllegatoPart {
+            index: n,
+            raw,
+            plain,
+        });
+    }
+    out
 }
 
 /// Recover a canonical URN for a malformed reference by looking up the act
@@ -970,5 +1066,68 @@ pub async fn fetch_act_status(
         Some("3") => ActStatus::Abrogated,
         Some("2") => ActStatus::Updated,
         _ => ActStatus::InForce,
+    }
+}
+
+#[cfg(test)]
+mod allegato_fetch_tests {
+    use super::*;
+    use crate::logger::ci::CiLogger;
+    use std::sync::Arc;
+
+    /// Verifies body stays body-only and allegati arrive as separate parts.
+    /// `LIVE_CANARY=1 cargo test live_fetch_act_with_allegati_siblings -- --ignored --nocapture`
+    #[tokio::test]
+    #[ignore = "live Normattiva network"]
+    async fn live_fetch_act_with_allegati_siblings() {
+        if std::env::var("LIVE_CANARY").ok().as_deref() != Some("1") {
+            return;
+        }
+        let config = Arc::new(crate::config::load_config());
+        let logger: Arc<dyn Logger> = Arc::new(CiLogger);
+        let sf = Arc::new(SafeFetch::new(config.clone(), logger.clone()).unwrap());
+        let act = NormattivaAtto {
+            codice_redazionale: "009G0187".into(),
+            data_gu: "2009-12-14".into(),
+            denominazione_atto: Some("DECRETO LEGISLATIVO".into()),
+            numero_provvedimento: Some("179".into()),
+            anno_provvedimento: Some("2009".into()),
+            mese_provvedimento: Some("12".into()),
+            giorno_provvedimento: Some("01".into()),
+            ..Default::default()
+        };
+        let full = fetch_act_with_allegati(
+            &act,
+            &act.data_gu,
+            &config,
+            &sf,
+            logger.as_ref(),
+            "@originale",
+        )
+        .await
+        .expect("fetch");
+        assert!(
+            !full.body_plain.contains("All. E: artt."),
+            "body should not contain allegato 1 table bulk"
+        );
+        assert!(
+            full.body_plain.to_lowercase().contains("allegato 1"),
+            "body may still *mention* allegato"
+        );
+        assert!(
+            full.allegati.len() >= 2,
+            "expected ≥2 allegati, got {}",
+            full.allegati.len()
+        );
+        assert!(
+            full.allegati[0]
+                .plain
+                .contains("Atti normativi salvati")
+                || full.allegati[0].plain.contains("Elenco"),
+            "allegato-1 should hold the table"
+        );
+        let parsed = crate::api::allegato::parse_elenco_allegato(&full.allegati[0].raw);
+        assert!(parsed.is_some());
+        assert!(parsed.unwrap().rows.len() > 100);
     }
 }

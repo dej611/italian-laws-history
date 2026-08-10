@@ -36,7 +36,7 @@ pub fn dl_branch_name(codice: &str) -> String {
 /// Seed `.gitignore` for the `history-rs` data branch.
 ///
 /// `history-rs` only tracks law-content files (`*.txt`, `*.decaduto`,
-/// `*.modifiedby`). Everything else — Rust sources, build artefacts,
+/// `*.modifiedby`, `*.refs`). Everything else — Rust sources, build artefacts,
 /// CI workflows, the binary's own runtime artefacts — is ignored so
 /// that a developer who has the Rust source checked out in the working
 /// tree (e.g. via a worktree, or simply switching branches) doesn't
@@ -48,6 +48,7 @@ const HISTORY_GITIGNORE: &str = "\
 
 # --- Rust source tree (lives on the `rust` branch) ---
 src/
+tests/
 target/
 Cargo.toml
 Cargo.lock
@@ -83,14 +84,15 @@ trace-*.json
 *.cpuprofile
 
 # Belt-and-braces: anything that's clearly not a law-content file.
-# `*.txt`, `*.decaduto`, `*.modifiedby`, and the existing tracked
-# `.gitignore` itself are all explicitly NOT ignored — git only
-# applies these patterns to untracked paths anyway.
+# Law content: `*.txt` (incl. `*.allegato-N.txt`), `*.decaduto`,
+# `*.modifiedby`, `*.refs` (allegato elenco sidecars). The tracked
+# `.gitignore` itself is also kept.
 *.rs
 *.yml
 *.yaml
 *.toml
 *.lock
+*.html
 ";
 
 

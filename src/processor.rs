@@ -10,14 +10,17 @@ use tokio::fs;
 use tokio::sync::{watch, Semaphore};
 use tokio::task::JoinSet;
 
+use crate::api::allegato::{
+    elenco_urns, format_allegato_refs, parse_elenco_allegato,
+};
 use crate::api::detail::{
-    fetch_act_detail, fetch_act_detail_by_urn, fetch_act_status, fetch_conversion_law,
-    resolve_malformed_urn,
+    fetch_act_detail_by_urn, fetch_act_status, fetch_act_with_allegati, fetch_conversion_law,
+    resolve_malformed_urn, ActWithAllegati, AllegatoPart,
 };
 use crate::api::search::fetch_updated_acts;
 use crate::api::text::{
     atto_file_name, build_file_name, extract_urns, html_to_plain_text, is_dll_cohort_date,
-    is_well_formed_urn, resolve_branchable_type, to_plain_text, urn_date,
+    is_well_formed_urn, resolve_branchable_type, urn_date,
 };
 use crate::checkpoint::save_checkpoint_atomic;
 use crate::git::{branch_name_for, GitHelpers};
@@ -255,15 +258,47 @@ pub(crate) fn update_progress_status(
 
 // ---- Relationship files -----------------------------------------------------
 
-/// Write URN reference files and `.modifiedby` sidecars on the currently
-/// checked-out branch. URN fetches are parallelised under a semaphore;
-/// file writes are serial. Returns the list of files to bundle into the
-/// caller's commit.
+fn allegato_sibling_name(safe_file_name: &str, index: u32, ext: &str) -> String {
+    let stem = safe_file_name
+        .strip_suffix(".txt")
+        .unwrap_or(safe_file_name);
+    format!("{stem}.allegato-{index}.{ext}")
+}
+
+/// Write `{act}.allegato-N.txt` siblings. Returns relative filenames.
+async fn write_allegato_text_files(
+    safe_file_name: &str,
+    allegati: &[AllegatoPart],
+    deps: &ProcessorDeps,
+) -> Vec<String> {
+    let mut written = Vec::new();
+    for a in allegati {
+        if a.plain.is_empty() {
+            continue;
+        }
+        let name = allegato_sibling_name(safe_file_name, a.index, "txt");
+        let path = PathBuf::from(&deps.config.output_repo).join(&name);
+        if let Err(err) = fs::write(&path, &a.plain).await {
+            deps.logger
+                .log(&format!("Errore scrittura {name}: {err}"));
+            continue;
+        }
+        written.push(name);
+    }
+    written
+}
+
+/// Write URN reference files, allegato `.refs` sidecars, and `.modifiedby`
+/// sidecars on the currently checked-out branch. URN fetches are parallelised
+/// under a semaphore; file writes are serial. Returns the list of files to
+/// bundle into the caller's commit (excluding the main act `.txt` and
+/// allegato `.txt` siblings — those are written by the caller).
 #[allow(clippy::too_many_arguments)]
 async fn write_relationship_files(
     act_id: &str,
     act: &NormattivaAtto,
     raw: &str,
+    allegati: &[AllegatoPart],
     safe_file_name: &str,
     before_date: &str,
     updated_urns: &mut HashSet<String>,
@@ -274,7 +309,36 @@ async fn write_relationship_files(
     let logger = deps.logger.as_ref();
     let mut written: Vec<String> = Vec::new();
 
-    let refs: Vec<String> = extract_urns(raw, Some(act_id), Some(before_date))
+    // Elenco-shaped allegati → .refs sidecars + extra URN candidates.
+    let mut elenco_extra: Vec<String> = Vec::new();
+    for a in allegati {
+        let Some(parsed) = parse_elenco_allegato(&a.raw) else {
+            continue;
+        };
+        let refs_name = allegato_sibling_name(safe_file_name, a.index, "refs");
+        let refs_body = format_allegato_refs(&parsed);
+        let refs_path = PathBuf::from(&deps.config.output_repo).join(&refs_name);
+        if let Err(err) = fs::write(&refs_path, &refs_body).await {
+            logger.log(&format!("Errore scrittura {refs_name}: {err}"));
+        } else {
+            written.push(refs_name);
+            logger.log(&format!(
+                "{act_id} allegato-{}: {} righe elenco (role={})",
+                a.index,
+                parsed.rows.len(),
+                parsed.role.as_str()
+            ));
+        }
+        elenco_extra.extend(elenco_urns(&parsed));
+    }
+
+    let mut refs: Vec<String> = extract_urns(raw, Some(act_id), Some(before_date));
+    for u in elenco_extra {
+        if !refs.iter().any(|x| x == &u) {
+            refs.push(u);
+        }
+    }
+    let refs: Vec<String> = refs
         .into_iter()
         .filter(|u| !updated_urns.contains(u))
         .collect();
@@ -908,7 +972,7 @@ pub async fn reconcile_pending_acts(
                 ..Default::default()
             };
 
-            if let Some(full_atto) = fetch_act_detail(
+            if let Some(full) = fetch_act_with_allegati(
                 &act_stub,
                 &act.data_gu,
                 &deps.config,
@@ -918,11 +982,14 @@ pub async fn reconcile_pending_acts(
             )
             .await
             {
-                let (raw, _plain) = to_plain_text(&full_atto);
+                let allegato_files =
+                    write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
+                let combined = full.combined_raw();
                 let ref_files = write_relationship_files(
                     &codice,
                     &act_stub,
-                    &raw,
+                    &combined,
+                    &full.allegati,
                     &safe_file_name,
                     &iso_to_date(&act.data_gu),
                     updated_urns,
@@ -930,8 +997,10 @@ pub async fn reconcile_pending_acts(
                     sem.clone(),
                 )
                 .await;
-                if !ref_files.is_empty() {
-                    let refs: Vec<&str> = ref_files.iter().map(String::as_str).collect();
+                let mut all_files = allegato_files;
+                all_files.extend(ref_files);
+                if !all_files.is_empty() {
+                    let refs: Vec<&str> = all_files.iter().map(String::as_str).collect();
                     deps.git
                         .commit_local_multi(
                             &refs,
@@ -941,7 +1010,7 @@ pub async fn reconcile_pending_acts(
                         .await?;
                     deps.logger.log(&format!(
                         "Committed {} refs for {tag} {codice}",
-                        ref_files.len()
+                        all_files.len()
                     ));
                 }
             }
@@ -1102,8 +1171,8 @@ pub async fn process_batches(
 
     let fetch_total = acts_to_process.len();
 
-    // Phase 1: parallel fetch (queue-gated).
-    let mut set: JoinSet<(NormattivaAtto, Option<(String, String)>)> = JoinSet::new();
+    // Phase 1: parallel fetch (queue-gated), including allegati.
+    let mut set: JoinSet<(NormattivaAtto, Option<ActWithAllegati>)> = JoinSet::new();
     for act in acts_to_process.iter().cloned() {
         let sem = sem.clone();
         let config = deps.config.clone();
@@ -1112,14 +1181,15 @@ pub async fn process_batches(
         set.spawn(async move {
             let permit = sem.acquire_owned().await.expect("semaphore");
             let at_date = act.data_gu.clone();
-            let atto = fetch_act_detail(&act, &at_date, &config, &sf, logger.as_ref(), "@originale").await;
-            let result = atto.as_ref().map(to_plain_text);
+            let result =
+                fetch_act_with_allegati(&act, &at_date, &config, &sf, logger.as_ref(), "@originale")
+                    .await;
             drop(permit);
             (act, result)
         });
     }
 
-    let mut fetched: Vec<(NormattivaAtto, Option<(String, String)>)> = Vec::new();
+    let mut fetched: Vec<(NormattivaAtto, Option<ActWithAllegati>)> = Vec::new();
     let mut fetch_done = 0usize;
     update_progress_status(
         deps.logger.as_ref(),
@@ -1166,7 +1236,7 @@ pub async fn process_batches(
 #[allow(clippy::too_many_arguments)]
 async fn commit_one_act(
     act: &NormattivaAtto,
-    result: Option<(String, String)>,
+    result: Option<ActWithAllegati>,
     checkpoint: &mut Checkpoint,
     deps: &ProcessorDeps,
     updated_urns: &mut HashSet<String>,
@@ -1176,7 +1246,7 @@ async fn commit_one_act(
     let vigenza_date = act.data_gu.clone();
     let mut ref_count: u32 = 0;
 
-    let Some((raw, plain)) = result else {
+    let Some(full) = result else {
         deps.logger.log(&format!(
             "Testo non disponibile per {} @ {vigenza_date}.",
             act.codice_redazionale
@@ -1190,6 +1260,8 @@ async fn commit_one_act(
     };
 
     {
+        let plain = &full.body_plain;
+        let combined_raw = full.combined_raw();
         if plain.is_empty() {
             deps.logger.log(&format!(
                 "Testo vuoto per {} @ {vigenza_date}.",
@@ -1249,12 +1321,15 @@ async fn commit_one_act(
                     deps.git.checkout_branch(&branch).await?;
                 }
 
-                fs::write(&file_path, &plain).await?;
+                fs::write(&file_path, plain).await?;
+                let allegato_files =
+                    write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
 
                 let branch_ref_files = write_relationship_files(
                     &act.codice_redazionale,
                     act,
-                    &raw,
+                    &combined_raw,
+                    &full.allegati,
                     &safe_file_name,
                     &commit_date,
                     updated_urns,
@@ -1265,6 +1340,7 @@ async fn commit_one_act(
                 ref_count = branch_ref_files.len() as u32;
 
                 let mut files: Vec<&str> = vec![safe_file_name.as_str()];
+                files.extend(allegato_files.iter().map(String::as_str));
                 files.extend(branch_ref_files.iter().map(String::as_str));
                 deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
                 let tag = branchable.short.upper();
@@ -1288,11 +1364,14 @@ async fn commit_one_act(
 
                 deps.git.checkout().await?;
             } else {
-                fs::write(&file_path, &plain).await?;
+                fs::write(&file_path, plain).await?;
+                let allegato_files =
+                    write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
                 let ref_files = write_relationship_files(
                     &act.codice_redazionale,
                     act,
-                    &raw,
+                    &combined_raw,
+                    &full.allegati,
                     &safe_file_name,
                     &commit_date,
                     updated_urns,
@@ -1302,6 +1381,7 @@ async fn commit_one_act(
                 .await;
                 ref_count = ref_files.len() as u32;
                 let mut files: Vec<&str> = vec![safe_file_name.as_str()];
+                files.extend(allegato_files.iter().map(String::as_str));
                 files.extend(ref_files.iter().map(String::as_str));
                 deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
                 deps.logger.log(&format!(
@@ -1394,7 +1474,7 @@ pub async fn process_modified_acts(
     let fetch_total = to_update.len();
     deps.git.checkout().await?;
 
-    type ModFetched = (NormattivaAtto, Option<(String, String)>, String);
+    type ModFetched = (NormattivaAtto, Option<ActWithAllegati>, String);
     let mut set: JoinSet<ModFetched> = JoinSet::new();
     for act in to_update.iter().cloned() {
         let sem = sem.clone();
@@ -1406,8 +1486,9 @@ pub async fn process_modified_acts(
             let mod_date = act.data_ultima_modifica.clone().unwrap_or_default();
             let vig_date = vigenza_after(&mod_date);
             let suffix = format!("!vig={vig_date}");
-            let atto = fetch_act_detail(&act, &mod_date, &config, &sf, logger.as_ref(), &suffix).await;
-            let result = atto.as_ref().map(to_plain_text);
+            let result =
+                fetch_act_with_allegati(&act, &mod_date, &config, &sf, logger.as_ref(), &suffix)
+                    .await;
             drop(permit);
             (act, result, mod_date)
         });
@@ -1437,15 +1518,15 @@ pub async fn process_modified_acts(
     update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
     for (act, result, mod_date) in fetched {
-        let Some((raw, plain)) = result else { continue };
-        if plain.is_empty() {
+        let Some(full) = result else { continue };
+        if full.body_plain.is_empty() {
             deps.logger.log(&format!(
                 "Testo vuoto per modifica {} @ {mod_date}.",
                 act.codice_redazionale
             ));
             continue;
         }
-        if plain.contains("NON ANCORA ESISTENTE O VIGENTE") {
+        if full.body_plain.contains("NON ANCORA ESISTENTE O VIGENTE") {
             deps.logger.log(&format!(
                 "Skipping modifica {} @ {mod_date}: atto non ancora in vigore.",
                 act.codice_redazionale
@@ -1455,7 +1536,7 @@ pub async fn process_modified_acts(
 
         let act_id = act.codice_redazionale.clone();
         let res =
-            commit_modification(&act, &raw, &plain, &mod_date, checkpoint, deps, &mut updated_urns, sem.clone())
+            commit_modification(&act, &full, &mod_date, checkpoint, deps, &mut updated_urns, sem.clone())
                 .await;
         if let Err(err) = res {
             deps.logger.log(&format!("Errore modifica {act_id}: {err}"));
@@ -1471,8 +1552,7 @@ pub async fn process_modified_acts(
 #[allow(clippy::too_many_arguments)]
 async fn commit_modification(
     act: &NormattivaAtto,
-    raw: &str,
-    plain: &str,
+    full: &ActWithAllegati,
     mod_date: &str,
     checkpoint: &mut Checkpoint,
     deps: &ProcessorDeps,
@@ -1492,12 +1572,15 @@ async fn commit_modification(
     let commit_date = iso_to_date(mod_date);
     let commit_msg = format!("Modifica: {label} {} @ {commit_date}", act.codice_redazionale);
 
-    fs::write(&file_path, plain).await?;
+    fs::write(&file_path, &full.body_plain).await?;
+    let allegato_files = write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
+    let combined = full.combined_raw();
 
     let ref_files = write_relationship_files(
         &act.codice_redazionale,
         act,
-        raw,
+        &combined,
+        &full.allegati,
         &safe_file_name,
         &commit_date,
         updated_urns,
@@ -1506,6 +1589,7 @@ async fn commit_modification(
     )
     .await;
     let mut files: Vec<&str> = vec![safe_file_name.as_str()];
+    files.extend(allegato_files.iter().map(String::as_str));
     files.extend(ref_files.iter().map(String::as_str));
     deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
     deps.logger.log(&format!(
