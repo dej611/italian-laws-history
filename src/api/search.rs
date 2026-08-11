@@ -11,9 +11,9 @@ use crate::http::SafeFetch;
 use crate::logger::Logger;
 use crate::types::{Config, NormattivaAtto, RicercaResponse};
 
-/// Outer retries when SafeFetch has already exhausted its own attempts.
-/// Keeps a multi-day rebuild from dying on a single `ricerca/avanzata` RST.
-const SEARCH_PAGE_OUTER_RETRIES: u32 = 8;
+/// Cap on outer wait between page retries (SafeFetch already exhausted).
+/// We never abort the month on transport failure — only cool down and retry.
+const SEARCH_PAGE_RETRY_CAP_SECS: u64 = 120;
 
 /// Format a UTC date as ISO-8601 with the JS `toISOString()` shape.
 /// Normattiva accepts both `YYYY-MM-DD` and full RFC-3339; we replicate
@@ -60,40 +60,29 @@ pub fn scrape_month(
         while page < total_pages {
             let _span = tracing::info_span!("api", op = "scrapeMonth:page", window = %label, page).entered();
             let mut outer = 0u32;
-            let page_result = loop {
+            let (acts, tp) = loop {
                 match fetch_acts_page(from, to, page, &config, &sf).await {
-                    Ok(v) => break Ok(v),
-                    Err(e) if outer < SEARCH_PAGE_OUTER_RETRIES => {
-                        let wait = Duration::from_secs(2u64.pow(outer.min(5)));
+                    Ok(v) => break v,
+                    Err(e) => {
+                        let wait_secs = (2u64.pow(outer.min(6))).min(SEARCH_PAGE_RETRY_CAP_SECS);
                         logger.log(&format!(
-                            "Finestra {label} pagina {}: {e}. Nuovo tentativo tra {}s ({}/{})",
+                            "Finestra {label} pagina {}: {e}. Nuovo tentativo tra {wait_secs}s (#{})",
                             page + 1,
-                            wait.as_secs(),
-                            outer + 1,
-                            SEARCH_PAGE_OUTER_RETRIES
+                            outer + 1
                         ));
-                        sleep(wait).await;
+                        sleep(Duration::from_secs(wait_secs)).await;
                         outer += 1;
                     }
-                    Err(e) => break Err(e),
                 }
             };
-            match page_result {
-                Ok((acts, tp)) => {
-                    total_pages = tp;
-                    if acts.is_empty() { break; }
-                    logger.log(&format!(
-                        "Finestra {label} — pagina {}/{}, {} atti",
-                        page + 1, total_pages, acts.len()
-                    ));
-                    yield Ok(acts);
-                    page += 1;
-                }
-                Err(e) => {
-                    yield Err(e);
-                    return;
-                }
-            }
+            total_pages = tp;
+            if acts.is_empty() { break; }
+            logger.log(&format!(
+                "Finestra {label} — pagina {}/{}, {} atti",
+                page + 1, total_pages, acts.len()
+            ));
+            yield Ok(acts);
+            page += 1;
         }
 
         if page == 0 {

@@ -41,12 +41,12 @@ pub struct SafeFetch {
 
 impl SafeFetch {
     pub fn new(config: Arc<Config>, logger: Arc<dyn Logger>) -> Result<Self> {
-        // Short idle timeout avoids reusing sockets the peer already closed
-        // (common cause of "Connection reset by peer" on the next request).
+        // No idle keep-alive pool: Normattiva frequently RSTs reused sockets
+        // under allegato-era load ("Connection reset by peer" on the next POST).
         let client = Client::builder()
             .timeout(Duration::from_secs(30))
             .connect_timeout(Duration::from_secs(15))
-            .pool_idle_timeout(Duration::from_secs(20))
+            .pool_max_idle_per_host(0)
             .tcp_keepalive(Duration::from_secs(30))
             .gzip(true)
             .build()?;
@@ -127,6 +127,9 @@ impl SafeFetch {
                 return Ok(hit);
             }
 
+            // Hold the permit through body read. Releasing after `send()` let
+            // other tasks open extra sockets while responses were still streaming,
+            // blowing past CONCURRENCY and triggering peer RSTs.
             let permit = self.sem.acquire().await.map_err(|e| anyhow!(e))?;
             self.rate.until_ready().await;
 
@@ -142,7 +145,6 @@ impl SafeFetch {
                     return self.handle_transport_error(method, url, body, attempt, err).await;
                 }
             };
-            drop(permit);
 
             let status = res.status();
             if status.as_u16() == 429 || status.is_server_error() {
@@ -151,6 +153,7 @@ impl SafeFetch {
                     .get(RETRY_AFTER)
                     .and_then(|v| v.to_str().ok())
                     .and_then(parse_retry_after);
+                drop(permit);
 
                 if attempt < self.max_retries {
                     let wait = retry_after
@@ -170,9 +173,11 @@ impl SafeFetch {
             let bytes = match res.bytes().await {
                 Ok(b) => b.to_vec(),
                 Err(err) => {
+                    drop(permit);
                     return self.handle_transport_error(method, url, body, attempt, err).await;
                 }
             };
+            drop(permit);
             // 404 is a routine sentinel for end-of-articles probing and missing
             // cross-references — keep it out of the foreground log to avoid
             // burying real errors in the noise.

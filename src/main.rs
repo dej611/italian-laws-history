@@ -186,26 +186,46 @@ async fn run(
         let mut month_act_count: usize = 0;
         let remaining_months = months_between(from, now).max(0) as u32;
 
-        let stream = scrape_month(from, to, config.clone(), safe_fetch.clone(), logger.clone());
-        tokio::pin!(stream);
-        while let Some(batch_res) = stream.next().await {
-            if is_shutdown_requested(&shutdown_rx) {
-                return graceful_shutdown(&config, &checkpoint, &logger).await;
+        // Retry the whole window on unexpected stream errors (search itself now
+        // cools down forever on transport RST; this is belt-and-braces).
+        loop {
+            let stream =
+                scrape_month(from, to, config.clone(), safe_fetch.clone(), logger.clone());
+            tokio::pin!(stream);
+            let mut window_failed = false;
+            while let Some(batch_res) = stream.next().await {
+                if is_shutdown_requested(&shutdown_rx) {
+                    return graceful_shutdown(&config, &checkpoint, &logger).await;
+                }
+                let batch = match batch_res {
+                    Ok(b) => b,
+                    Err(err) => {
+                        logger.log(&format!(
+                            "Finestra {window_label} interrotta: {err:#}. Riprovo tra 60s…"
+                        ));
+                        tokio::time::sleep(std::time::Duration::from_secs(60)).await;
+                        window_failed = true;
+                        break;
+                    }
+                };
+                let eta = EtaContext {
+                    current_window_date: Some(from),
+                    remaining_months,
+                };
+                update_progress_status(
+                    logger.as_ref(),
+                    &checkpoint,
+                    Some(&eta),
+                    Some(&format!("Finestra {window_label} — scansione…")),
+                );
+                process_batches(&batch, &mut checkpoint, args.force, &deps, Some(&eta)).await?;
+                total_processed += batch.len();
+                month_act_count += batch.len();
             }
-            let batch = batch_res?;
-            let eta = EtaContext {
-                current_window_date: Some(from),
-                remaining_months,
-            };
-            update_progress_status(
-                logger.as_ref(),
-                &checkpoint,
-                Some(&eta),
-                Some(&format!("Finestra {window_label} — scansione…")),
-            );
-            process_batches(&batch, &mut checkpoint, args.force, &deps, Some(&eta)).await?;
-            total_processed += batch.len();
-            month_act_count += batch.len();
+            if !window_failed {
+                break;
+            }
+            month_act_count = 0;
         }
 
         record_month_completed(month_act_count as u32);
