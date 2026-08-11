@@ -1,13 +1,19 @@
 use std::sync::Arc;
+use std::time::Duration;
 
 use async_stream::stream;
 use chrono::NaiveDate;
 use futures::Stream;
 use serde_json::json;
+use tokio::time::sleep;
 
 use crate::http::SafeFetch;
 use crate::logger::Logger;
 use crate::types::{Config, NormattivaAtto, RicercaResponse};
+
+/// Outer retries when SafeFetch has already exhausted its own attempts.
+/// Keeps a multi-day rebuild from dying on a single `ricerca/avanzata` RST.
+const SEARCH_PAGE_OUTER_RETRIES: u32 = 8;
 
 /// Format a UTC date as ISO-8601 with the JS `toISOString()` shape.
 /// Normattiva accepts both `YYYY-MM-DD` and full RFC-3339; we replicate
@@ -53,7 +59,26 @@ pub fn scrape_month(
 
         while page < total_pages {
             let _span = tracing::info_span!("api", op = "scrapeMonth:page", window = %label, page).entered();
-            match fetch_acts_page(from, to, page, &config, &sf).await {
+            let mut outer = 0u32;
+            let page_result = loop {
+                match fetch_acts_page(from, to, page, &config, &sf).await {
+                    Ok(v) => break Ok(v),
+                    Err(e) if outer < SEARCH_PAGE_OUTER_RETRIES => {
+                        let wait = Duration::from_secs(2u64.pow(outer.min(5)));
+                        logger.log(&format!(
+                            "Finestra {label} pagina {}: {e}. Nuovo tentativo tra {}s ({}/{})",
+                            page + 1,
+                            wait.as_secs(),
+                            outer + 1,
+                            SEARCH_PAGE_OUTER_RETRIES
+                        ));
+                        sleep(wait).await;
+                        outer += 1;
+                    }
+                    Err(e) => break Err(e),
+                }
+            };
+            match page_result {
                 Ok((acts, tp)) => {
                     total_pages = tp;
                     if acts.is_empty() { break; }

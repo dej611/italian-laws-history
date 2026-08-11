@@ -21,9 +21,14 @@ use crate::types::Config;
 type AppRateLimiter =
     RateLimiter<NotKeyed, InMemoryState, DefaultClock, NoOpMiddleware<governor::clock::QuantaInstant>>;
 
+/// Extra attempts beyond `max_retries` for connect/reset/timeout transport errors.
+/// Allegato probing roughly doubles request volume; Normattiva often answers with
+/// RST under sustained load, which is transient and worth waiting out.
+const TRANSPORT_EXTRA_RETRIES: u32 = 5;
+
 /// `safeFetch` Rust port: per-request semaphore + min-time pacing + TTL cache
 /// + exponential backoff for 429/5xx (with `Retry-After` honoured) + 30s timeout
-/// + recursive retry up to `max_retries`.
+/// + recursive retry up to `max_retries` (more for transport/connect errors).
 pub struct SafeFetch {
     client: Client,
     sem: Arc<Semaphore>,
@@ -36,8 +41,13 @@ pub struct SafeFetch {
 
 impl SafeFetch {
     pub fn new(config: Arc<Config>, logger: Arc<dyn Logger>) -> Result<Self> {
+        // Short idle timeout avoids reusing sockets the peer already closed
+        // (common cause of "Connection reset by peer" on the next request).
         let client = Client::builder()
             .timeout(Duration::from_secs(30))
+            .connect_timeout(Duration::from_secs(15))
+            .pool_idle_timeout(Duration::from_secs(20))
+            .tcp_keepalive(Duration::from_secs(30))
             .gzip(true)
             .build()?;
 
@@ -156,7 +166,13 @@ impl SafeFetch {
                 return Err(anyhow!("Max retries for {url}"));
             }
 
-            let bytes = res.bytes().await?.to_vec();
+            // Body read can also hit "connection reset by peer" after headers.
+            let bytes = match res.bytes().await {
+                Ok(b) => b.to_vec(),
+                Err(err) => {
+                    return self.handle_transport_error(method, url, body, attempt, err).await;
+                }
+            };
             // 404 is a routine sentinel for end-of-articles probing and missing
             // cross-references — keep it out of the foreground log to avoid
             // burying real errors in the noise.
@@ -186,8 +202,13 @@ impl SafeFetch {
         attempt: u32,
         err: reqwest::Error,
     ) -> Result<Vec<u8>> {
-        if attempt < self.max_retries {
-            let wait = Duration::from_millis(2u64.pow(attempt) * 1000);
+        let limit = if is_transient_transport(&err) {
+            self.max_retries.saturating_add(TRANSPORT_EXTRA_RETRIES)
+        } else {
+            self.max_retries
+        };
+        if attempt < limit {
+            let wait = transport_backoff(attempt);
             self.logger.log(&format!(
                 "Errore fetch {url}: {err}. Retry in {}ms",
                 wait.as_millis()
@@ -197,6 +218,30 @@ impl SafeFetch {
         }
         Err(anyhow!(err))
     }
+}
+
+/// Connect / timeout / request-send failures worth waiting out (vs. e.g. bad URL).
+fn is_transient_transport(err: &reqwest::Error) -> bool {
+    if err.is_timeout() || err.is_connect() || err.is_request() {
+        return true;
+    }
+    // Hyper sometimes wraps RST without setting the connect flag.
+    let msg = err.to_string().to_ascii_lowercase();
+    msg.contains("connection reset")
+        || msg.contains("broken pipe")
+        || msg.contains("connection refused")
+        || msg.contains("temporarily unavailable")
+        || msg.contains("error sending request")
+}
+
+/// Exponential backoff with light jitter; caps so a flaky peer doesn't stall forever.
+fn transport_backoff(attempt: u32) -> Duration {
+    let exp = attempt.min(6);
+    let base_ms = 2u64.pow(exp) * 1000; // 1s … 64s
+    // Deterministic jitter from attempt so tests stay stable and we still
+    // desynchronise concurrent waiters somewhat.
+    let jitter_ms = (u64::from(attempt).wrapping_mul(173) % (base_ms / 4 + 1)).min(base_ms / 2);
+    Duration::from_millis(base_ms + jitter_ms)
 }
 
 /// Parse `Retry-After` as either a delta-seconds integer OR an HTTP-date.
@@ -226,7 +271,7 @@ fn to_curl(method: &Method, url: &str, body: &Option<String>) -> String {
 
 #[cfg(test)]
 mod tests {
-    use super::parse_retry_after;
+    use super::{parse_retry_after, transport_backoff};
     use std::time::Duration;
 
     #[test]
@@ -238,5 +283,15 @@ mod tests {
     #[test]
     fn retry_after_invalid_returns_none() {
         assert!(parse_retry_after("not-a-date").is_none());
+    }
+
+    #[test]
+    fn transport_backoff_grows_then_caps_exp() {
+        assert!(transport_backoff(0) >= Duration::from_secs(1));
+        assert!(transport_backoff(1) >= Duration::from_secs(2));
+        let capped = transport_backoff(6);
+        assert!(capped >= Duration::from_secs(64));
+        // attempt>6 keeps the same exponential base (still ≥64s).
+        assert!(transport_backoff(20) >= Duration::from_secs(64));
     }
 }
