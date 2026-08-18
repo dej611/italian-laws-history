@@ -1,5 +1,5 @@
 use std::collections::{HashMap, HashSet};
-use std::sync::OnceLock;
+use std::sync::{Mutex, OnceLock};
 
 use chrono::{Datelike, Duration, NaiveDate};
 use regex::Regex;
@@ -24,6 +24,37 @@ const MAX_ALLEGATI_GROUPS: u32 = 20;
 
 /// Cap on URN allegato probes (`:1~art1` … `:N~art1`).
 const MAX_ALLEGATO_URN_PROBES: u32 = 20;
+
+/// Process-lifetime map: act base URN → allegato count last observed.
+///
+/// Avoids re-paying the trailing (or sole) paced 404 on later fetches of the
+/// same act within one bulk scrape. Not persisted: a later GU can add annexes;
+/// restarting the process clears the cache. Do not store a count after
+/// transport errors (only after a clean empty/404 stop).
+fn allegato_count_cache() -> &'static Mutex<HashMap<String, u32>> {
+    static CACHE: OnceLock<Mutex<HashMap<String, u32>>> = OnceLock::new();
+    CACHE.get_or_init(|| Mutex::new(HashMap::new()))
+}
+
+fn cached_allegato_count(base: &str) -> Option<u32> {
+    allegato_count_cache()
+        .lock()
+        .ok()
+        .and_then(|g| g.get(base).copied())
+}
+
+fn remember_allegato_count(base: &str, count: u32) {
+    if let Ok(mut g) = allegato_count_cache().lock() {
+        g.insert(base.to_string(), count);
+    }
+}
+
+#[cfg(test)]
+fn clear_allegato_count_cache_for_test() {
+    if let Ok(mut g) = allegato_count_cache().lock() {
+        g.clear();
+    }
+}
 
 /// One annex discovered via `urn:nir:…:N~art1`.
 #[derive(Debug, Clone)]
@@ -184,6 +215,9 @@ pub async fn fetch_act_with_allegati(
 }
 
 /// Probe `urn:nir:…:1~art1`, `:2~art1`, … stop on first miss.
+///
+/// Uses [`allegato_count_cache`]: known `0` skips all probes; known `n` fetches
+/// only `1..=n` (no trailing miss). Count is remembered only after a clean stop.
 async fn fetch_allegati_by_urn(
     act: &NormattivaAtto,
     config: &Config,
@@ -192,19 +226,39 @@ async fn fetch_allegati_by_urn(
     let Some(base) = build_act_urn(act) else {
         return Vec::new();
     };
+
+    let cached = cached_allegato_count(&base);
+    if cached == Some(0) {
+        return Vec::new();
+    }
+
+    let max_probe = cached
+        .filter(|&n| n > 0)
+        .unwrap_or(MAX_ALLEGATO_URN_PROBES)
+        .min(MAX_ALLEGATO_URN_PROBES);
+
     let mut out = Vec::new();
-    for n in 1..=MAX_ALLEGATO_URN_PROBES {
+    let mut clean_stop = false;
+    for n in 1..=max_probe {
         let urn = format!("{base}:{n}~art1");
         let url = format!("{}/api/v1/atto/dettaglio-atto-urn", config.api_base);
         let body = json!({ "urn": urn });
         let atto = match sf.post_json::<DettaglioAttoResponse>(&url, &body).await {
             Ok(res) if res.success.unwrap_or(false) => res.data.and_then(|d| d.atto),
-            Ok(_) => None,
-            Err(_) => None,
+            Ok(_) => {
+                // Clean API miss (404 / unsuccessful) — safe to remember.
+                clean_stop = true;
+                None
+            }
+            Err(_) => {
+                // Transport failure: do not poison the miss cache.
+                None
+            }
         };
         let Some(atto) = atto else { break };
         let (raw, plain) = crate::api::text::to_plain_text(&atto);
         if raw.is_empty() && plain.is_empty() {
+            clean_stop = true;
             break;
         }
         out.push(AllegatoPart {
@@ -212,6 +266,14 @@ async fn fetch_allegati_by_urn(
             raw,
             plain,
         });
+    }
+
+    // Remember when we stopped cleanly, or when a prior cache told us exact `n`
+    // and we fetched that many without a trailing probe.
+    if clean_stop || cached.is_some() {
+        remember_allegato_count(&base, out.len() as u32);
+    } else if out.len() as u32 == MAX_ALLEGATO_URN_PROBES {
+        remember_allegato_count(&base, MAX_ALLEGATO_URN_PROBES);
     }
     out
 }
@@ -1066,6 +1128,30 @@ pub async fn fetch_act_status(
         Some("3") => ActStatus::Abrogated,
         Some("2") => ActStatus::Updated,
         _ => ActStatus::InForce,
+    }
+}
+
+#[cfg(test)]
+mod allegato_count_cache_tests {
+    use super::{
+        cached_allegato_count, clear_allegato_count_cache_for_test, remember_allegato_count,
+    };
+
+    #[test]
+    fn remember_zero_skips_later_lookup() {
+        clear_allegato_count_cache_for_test();
+        let base = "urn:nir:stato:legge:1861-01-01;test-cache-0";
+        assert_eq!(cached_allegato_count(base), None);
+        remember_allegato_count(base, 0);
+        assert_eq!(cached_allegato_count(base), Some(0));
+    }
+
+    #[test]
+    fn remember_positive_count() {
+        clear_allegato_count_cache_for_test();
+        let base = "urn:nir:stato:legge:1861-01-01;test-cache-2";
+        remember_allegato_count(base, 2);
+        assert_eq!(cached_allegato_count(base), Some(2));
     }
 }
 
