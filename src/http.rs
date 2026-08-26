@@ -26,6 +26,10 @@ type AppRateLimiter =
 /// RST under sustained load, which is transient and worth waiting out.
 const TRANSPORT_EXTRA_RETRIES: u32 = 5;
 
+/// Per-attempt ceiling. Logs showed a 1→32s ladder (~66s) on every
+/// `ricerca/avanzata` RST; that serialized the whole scrape.
+const TRANSPORT_BACKOFF_CAP_MS: u64 = 8_000;
+
 /// `safeFetch` Rust port: per-request semaphore + min-time pacing + TTL cache
 /// + exponential backoff for 429/5xx (with `Retry-After` honoured) + 30s timeout
 /// + recursive retry up to `max_retries` (more for transport/connect errors).
@@ -239,14 +243,14 @@ fn is_transient_transport(err: &reqwest::Error) -> bool {
         || msg.contains("error sending request")
 }
 
-/// Exponential backoff with light jitter; caps so a flaky peer doesn't stall forever.
+/// Exponential backoff with light jitter, capped at [`TRANSPORT_BACKOFF_CAP_MS`].
 fn transport_backoff(attempt: u32) -> Duration {
-    let exp = attempt.min(6);
-    let base_ms = 2u64.pow(exp) * 1000; // 1s … 64s
+    let exp = attempt.min(3); // 1s, 2s, 4s, then cap
+    let base_ms = (2u64.pow(exp) * 1000).min(TRANSPORT_BACKOFF_CAP_MS);
     // Deterministic jitter from attempt so tests stay stable and we still
     // desynchronise concurrent waiters somewhat.
     let jitter_ms = (u64::from(attempt).wrapping_mul(173) % (base_ms / 4 + 1)).min(base_ms / 2);
-    Duration::from_millis(base_ms + jitter_ms)
+    Duration::from_millis((base_ms + jitter_ms).min(TRANSPORT_BACKOFF_CAP_MS))
 }
 
 /// Parse `Retry-After` as either a delta-seconds integer OR an HTTP-date.
@@ -294,9 +298,7 @@ mod tests {
     fn transport_backoff_grows_then_caps_exp() {
         assert!(transport_backoff(0) >= Duration::from_secs(1));
         assert!(transport_backoff(1) >= Duration::from_secs(2));
-        let capped = transport_backoff(6);
-        assert!(capped >= Duration::from_secs(64));
-        // attempt>6 keeps the same exponential base (still ≥64s).
-        assert!(transport_backoff(20) >= Duration::from_secs(64));
+        assert!(transport_backoff(3) <= Duration::from_secs(8));
+        assert!(transport_backoff(20) <= Duration::from_secs(8));
     }
 }

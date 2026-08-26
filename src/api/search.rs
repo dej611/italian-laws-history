@@ -13,7 +13,7 @@ use crate::types::{Config, NormattivaAtto, RicercaResponse};
 
 /// Cap on outer wait between page retries (SafeFetch already exhausted).
 /// We never abort the month on transport failure — only cool down and retry.
-const SEARCH_PAGE_RETRY_CAP_SECS: u64 = 120;
+const SEARCH_PAGE_RETRY_CAP_SECS: u64 = 10;
 
 /// Format a UTC date as ISO-8601 with the JS `toISOString()` shape.
 /// Normattiva accepts both `YYYY-MM-DD` and full RFC-3339; we replicate
