@@ -26,6 +26,13 @@ const MAX_ALLEGATI_GROUPS: u32 = 20;
 /// Cap on URN allegato probes (`:1~art1` … `:N~art1`).
 const MAX_ALLEGATO_URN_PROBES: u32 = 20;
 
+/// Cap on articles walked inside one allegato (`:N~art1`, `:N~art2`, …).
+///
+/// Huge GU tables are sometimes split across articles of the same annex
+/// (`API_Normattiva_OpenData.pdf` §1.3.3). Some annexes are a single `:N~art1`
+/// (and the OpenData HTML may still be truncated server-side).
+const MAX_ARTICLES_PER_ALLEGATO: u32 = 500;
+
 /// Process-lifetime map: act base URN → allegato count last observed.
 ///
 /// Avoids re-paying the trailing (or sole) paced 404 on later fetches of the
@@ -57,7 +64,7 @@ fn clear_allegato_count_cache_for_test() {
     }
 }
 
-/// One annex discovered via `urn:nir:…:N~art1`.
+/// One annex discovered via `urn:nir:…:N~artK` (articles concatenated).
 #[derive(Debug, Clone)]
 pub struct AllegatoPart {
     pub index: u32,
@@ -188,7 +195,7 @@ pub async fn fetch_act_detail_by_urn(
 }
 
 /// Fetch body via [`fetch_act_detail`], then probe allegati with
-/// `base:N~art1` until 404/empty. Does not concatenate annexes into the body.
+/// `base:N~artK` until 404/empty. Does not concatenate annexes into the body.
 pub async fn fetch_act_with_allegati(
     act: &NormattivaAtto,
     at_date: &str,
@@ -215,14 +222,15 @@ pub async fn fetch_act_with_allegati(
     })
 }
 
-/// Probe `urn:nir:…:1~art1`, `:2~art1`, … stop on first miss.
+/// Probe `urn:nir:…:N~artK` for N=1,2,… and, inside each N, K=1,2,… until miss.
 ///
 /// Lookup order:
 /// 1. in-process [`allegato_count_cache`] (known `0` skips; known `n` fetches `1..=n`)
 /// 2. `allegati.json` on disk — absence on or before `dataUntil` is a miss
 /// 3. live probes until 404/empty
 ///
-/// Count is remembered only after a clean stop.
+/// Count (number of allegato indices N, not articles K) is remembered only
+/// after a clean stop. Transport errors never cache a count.
 async fn fetch_allegati_by_urn(
     act: &NormattivaAtto,
     config: &Config,
@@ -253,43 +261,86 @@ async fn fetch_allegati_by_urn(
 
     let mut out = Vec::new();
     let mut clean_stop = false;
+    let mut transport_error = false;
     for n in 1..=max_probe {
-        let urn = format!("{base}:{n}~art1");
-        let url = format!("{}/api/v1/atto/dettaglio-atto-urn", config.api_base);
-        let body = json!({ "urn": urn });
-        let atto = match sf.post_json::<DettaglioAttoResponse>(&url, &body).await {
-            Ok(res) if res.success.unwrap_or(false) => res.data.and_then(|d| d.atto),
-            Ok(_) => {
-                // Clean API miss (404 / unsuccessful) — safe to remember.
-                clean_stop = true;
-                None
+        let mut raws: Vec<String> = Vec::new();
+        let mut plains: Vec<String> = Vec::new();
+        for k in 1..=MAX_ARTICLES_PER_ALLEGATO {
+            let urn = format!("{base}:{n}~art{k}");
+            match probe_urn_atto(&urn, config, sf).await {
+                UrnProbe::Hit(atto) => {
+                    let (raw, plain) = crate::api::text::to_plain_text(&atto);
+                    if raw.is_empty() && plain.is_empty() {
+                        if k == 1 {
+                            clean_stop = true;
+                        }
+                        break;
+                    }
+                    raws.push(raw);
+                    plains.push(plain);
+                }
+                UrnProbe::Miss => {
+                    if k == 1 {
+                        clean_stop = true;
+                    }
+                    break;
+                }
+                UrnProbe::Transport => {
+                    transport_error = true;
+                    break;
+                }
             }
-            Err(_) => {
-                // Transport failure: do not poison the miss cache.
-                None
-            }
-        };
-        let Some(atto) = atto else { break };
-        let (raw, plain) = crate::api::text::to_plain_text(&atto);
-        if raw.is_empty() && plain.is_empty() {
-            clean_stop = true;
+        }
+        if raws.is_empty() {
             break;
+        }
+        if plains.len() > 1 {
+            logger.log(&format!(
+                "{}: allegato {n} concatenato da {} articoli",
+                act.codice_redazionale,
+                plains.len()
+            ));
         }
         out.push(AllegatoPart {
             index: n,
-            raw,
-            plain,
+            raw: raws.join("\n"),
+            plain: plains.join("\n"),
         });
+        if transport_error {
+            break;
+        }
     }
 
     // Remember when we stopped cleanly, or when a prior cache told us exact `n`
-    // and we fetched that many without a trailing probe.
+    // and we fetched that many without a trailing probe. Never after transport.
+    if transport_error {
+        return out;
+    }
     if clean_stop || cached.is_some() {
         remember_allegato_count(&base, out.len() as u32);
     } else if out.len() as u32 == MAX_ALLEGATO_URN_PROBES {
         remember_allegato_count(&base, MAX_ALLEGATO_URN_PROBES);
     }
     out
+}
+
+enum UrnProbe {
+    Hit(AttoDto),
+    Miss,
+    Transport,
+}
+
+async fn probe_urn_atto(urn: &str, config: &Config, sf: &SafeFetch) -> UrnProbe {
+    let url = format!("{}/api/v1/atto/dettaglio-atto-urn", config.api_base);
+    let body = json!({ "urn": urn });
+    match sf.post_json::<DettaglioAttoResponse>(&url, &body).await {
+        Ok(res) if res.success.unwrap_or(false) => match res.data.and_then(|d| d.atto) {
+            Some(atto) => UrnProbe::Hit(atto),
+            None => UrnProbe::Miss,
+        },
+        Ok(_) => UrnProbe::Miss,
+        Err(_) => UrnProbe::Transport,
+    }
 }
 
 /// Recover a canonical URN for a malformed reference by looking up the act
