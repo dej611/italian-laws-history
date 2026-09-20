@@ -1,3 +1,4 @@
+pub mod allegati_index;
 pub mod allegato;
 pub mod detail;
 pub mod search;

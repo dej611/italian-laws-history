@@ -79,6 +79,7 @@ progress.json
 progress.json.tmp
 progress-rs.json
 progress-rs.json.tmp
+allegati.json
 processing-*.log
 trace-*.json
 *.cpuprofile

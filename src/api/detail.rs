@@ -5,6 +5,7 @@ use chrono::{Datelike, Duration, NaiveDate};
 use regex::Regex;
 use serde_json::{json, Value};
 
+use crate::api::allegati_index;
 use crate::api::text::{
     build_act_urn, denomination_hint, denomination_to_urn_form, is_well_formed_urn, parse_urn_tail,
 };
@@ -198,7 +199,7 @@ pub async fn fetch_act_with_allegati(
 ) -> Option<ActWithAllegati> {
     let atto = fetch_act_detail(act, at_date, config, sf, logger, version_suffix).await?;
     let (body_raw, body_plain) = crate::api::text::to_plain_text(&atto);
-    let allegati = fetch_allegati_by_urn(act, config, sf).await;
+    let allegati = fetch_allegati_by_urn(act, config, sf, logger).await;
     if !allegati.is_empty() {
         logger.log(&format!(
             "{}: {} allegat{} trovati",
@@ -216,12 +217,17 @@ pub async fn fetch_act_with_allegati(
 
 /// Probe `urn:nir:…:1~art1`, `:2~art1`, … stop on first miss.
 ///
-/// Uses [`allegato_count_cache`]: known `0` skips all probes; known `n` fetches
-/// only `1..=n` (no trailing miss). Count is remembered only after a clean stop.
+/// Lookup order:
+/// 1. in-process [`allegato_count_cache`] (known `0` skips; known `n` fetches `1..=n`)
+/// 2. `allegati.json` on disk — absence on or before `dataUntil` is a miss
+/// 3. live probes until 404/empty
+///
+/// Count is remembered only after a clean stop.
 async fn fetch_allegati_by_urn(
     act: &NormattivaAtto,
     config: &Config,
     sf: &SafeFetch,
+    logger: &dyn Logger,
 ) -> Vec<AllegatoPart> {
     let Some(base) = build_act_urn(act) else {
         return Vec::new();
@@ -230,6 +236,14 @@ async fn fetch_allegati_by_urn(
     let cached = cached_allegato_count(&base);
     if cached == Some(0) {
         return Vec::new();
+    }
+
+    if cached.is_none() {
+        let gu_date = act.data_gu.get(..10).unwrap_or(act.data_gu.as_str());
+        if allegati_index::get(config, logger).skip_probe(&base, gu_date) {
+            remember_allegato_count(&base, 0);
+            return Vec::new();
+        }
     }
 
     let max_probe = cached

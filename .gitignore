@@ -6,6 +6,7 @@ progress-rs.json
 progress-rs.json.tmp
 progress.json
 progress.json.tmp
+allegati.json
 processing-*.log
 trace-*.json
 *.cpuprofile
