@@ -27,10 +27,8 @@ use ratatui::text::{Line, Span};
 use ratatui::widgets::{Bar, BarChart, BarGroup, Block, Borders, List, ListItem, Paragraph, Wrap};
 use ratatui::Terminal;
 use tokio::sync::mpsc;
-use tokio::sync::watch;
 use tokio::task::JoinHandle;
 
-use crate::git::checkout_main_sync_for_repo;
 use crate::logger::{Logger, ShutdownSignal};
 use crate::types::{ActVersionEntry, NormattivaAtto};
 
@@ -75,7 +73,6 @@ impl Logger for TuiLogger {
 /// fallback by `build_logger`.
 pub async fn try_start(
     shutdown: ShutdownSignal,
-    output_repo: String,
 ) -> Option<(TuiLogger, JoinHandle<()>)> {
     // Match the TS rule: width < 40 || height < 10 → fall back.
     let (cols, rows) = crossterm::terminal::size().ok()?;
@@ -96,10 +93,9 @@ pub async fn try_start(
         None
     })?;
 
-    let shutdown_rx = shutdown.subscribe();
     let (tx, rx) = mpsc::unbounded_channel();
     let handle = tokio::spawn(async move {
-        if let Err(err) = run_loop(terminal, rx, shutdown_rx, output_repo).await {
+        if let Err(err) = run_loop(terminal, rx, shutdown).await {
             eprintln!("TUI loop error: {err}");
         }
         let _ = execute!(io::stdout(), LeaveAlternateScreen);
@@ -244,8 +240,7 @@ fn buckets_label_threshold(_max: usize) -> usize { 100 } // every label except t
 async fn run_loop(
     mut terminal: Terminal<CrosstermBackend<Stdout>>,
     mut rx: mpsc::UnboundedReceiver<TuiMsg>,
-    mut shutdown_rx: watch::Receiver<bool>,
-    output_repo: String,
+    shutdown: ShutdownSignal,
 ) -> anyhow::Result<()> {
     let mut state = State::default();
     let mut interval = tokio::time::interval(Duration::from_millis(200));
@@ -254,26 +249,21 @@ async fn run_loop(
         tokio::select! {
             biased;
             _ = interval.tick() => {
-                if paint_frame(&mut terminal, &mut rx, &mut state, None)? == false {
+                if !paint_frame(&mut terminal, &mut rx, &mut state, None)? {
                     break;
                 }
                 if poll_user_quit().unwrap_or(false) {
-                    teardown_and_exit(&output_repo);
-                }
-            }
-            _ = shutdown_rx.changed() => {
-                if *shutdown_rx.borrow_and_update() {
-                    teardown_and_exit(&output_repo);
+                    shutdown.request();
                 }
             }
             msg = rx.recv() => {
                 match msg {
                     Some(m) => {
-                        if paint_frame(&mut terminal, &mut rx, &mut state, Some(m))? == false {
+                        if !paint_frame(&mut terminal, &mut rx, &mut state, Some(m))? {
                             break;
                         }
                         if poll_user_quit().unwrap_or(false) {
-                            teardown_and_exit(&output_repo);
+                            shutdown.request();
                         }
                     }
                     None => break,
@@ -283,14 +273,6 @@ async fn run_loop(
     }
 
     Ok(())
-}
-
-/// Restore the terminal and exit — mirrors TS `screen.destroy(); process.exit(0)`.
-fn teardown_and_exit(output_repo: &str) -> ! {
-    let _ = disable_raw_mode();
-    let _ = execute!(io::stdout(), LeaveAlternateScreen);
-    checkout_main_sync_for_repo(output_repo);
-    std::process::exit(130);
 }
 
 /// Parsed `Elaborati N` count from a status line (0 if missing).

@@ -731,6 +731,9 @@ pub async fn migrate_misclassified_dll_pending(
 
     let mut migrated = 0usize;
     for (codice, act) in to_migrate {
+        if is_shutdown_requested(&deps.shutdown) {
+            break;
+        }
         pool.remove(&codice);
         let tag = act.short.upper();
         match deps.git.dl_branch_exists(&act.branch_name).await {
@@ -796,6 +799,9 @@ pub async fn retry_pending_sanatoria(
 ) -> Result<usize> {
     let mut total = 0usize;
     for sanatoria in SANATORIA_LAWS {
+        if is_shutdown_requested(&deps.shutdown) {
+            break;
+        }
         if !sanatoria_law_committed(sanatoria.anno, sanatoria.numero, checkpoint) {
             continue;
         }
@@ -880,9 +886,14 @@ pub async fn reconcile_pending_acts(
         Some(&format_reconcile_phase(active_total, parked_total)),
     );
 
+    let mut remaining = to_reconcile.into_iter();
     let mut index = 0usize;
-
-    for (codice, act) in to_reconcile {
+    while let Some((codice, act)) = remaining.next() {
+        if is_shutdown_requested(&deps.shutdown) {
+            still_pending.insert(codice, act);
+            still_pending.extend(remaining);
+            break;
+        }
         index += 1;
         update_progress_status(
             deps.logger.as_ref(),
@@ -1152,6 +1163,9 @@ pub async fn process_batches(
 
     reconcile_pending_acts(checkpoint, deps, &mut updated_urns, sem.clone(), eta_ctx).await?;
     save_checkpoint_atomic(&deps.config, checkpoint).await?;
+    if is_shutdown_requested(&deps.shutdown) {
+        return Ok(());
+    }
 
     let mut acts_to_process: Vec<NormattivaAtto> = acts
         .iter()
@@ -1437,6 +1451,9 @@ pub async fn process_modified_acts(
 ) -> Result<()> {
     let _span = tracing::info_span!("process", op = "processModifiedActs",
         from = %from, to = %to).entered();
+    if is_shutdown_requested(&deps.shutdown) {
+        return Ok(());
+    }
     let mut updated_urns: HashSet<String> = HashSet::new();
     let sem = Arc::new(Semaphore::new(num_cpus::get().max(1)));
 
@@ -1518,6 +1535,9 @@ pub async fn process_modified_acts(
     update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
     for (act, result, mod_date) in fetched {
+        if is_shutdown_requested(&deps.shutdown) {
+            break;
+        }
         let Some(full) = result else { continue };
         if full.body_plain.is_empty() {
             deps.logger.log(&format!(

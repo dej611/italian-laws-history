@@ -26,10 +26,6 @@ impl ShutdownSignal {
     pub fn request(&self) {
         let _ = self.tx.send(true);
     }
-
-    pub fn subscribe(&self) -> watch::Receiver<bool> {
-        self.tx.subscribe()
-    }
 }
 
 pub fn is_shutdown_requested(rx: &watch::Receiver<bool>) -> bool {
@@ -62,7 +58,6 @@ pub async fn build_logger(
     ci_mode: bool,
     log_dir: &str,
     shutdown: ShutdownSignal,
-    output_repo: String,
 ) -> Result<LoggerHandle> {
     let file_layer = file::FileLog::open(log_dir).ok();
 
@@ -75,7 +70,7 @@ pub async fn build_logger(
         return Ok(LoggerHandle { logger, tui_task: None });
     }
 
-    match tui::try_start(shutdown, output_repo).await {
+    match tui::try_start(shutdown).await {
         Some((tui_logger, handle)) => {
             let inner: Arc<dyn Logger> = Arc::new(tui_logger);
             let logger: Arc<dyn Logger> = match file_layer {
@@ -92,5 +87,20 @@ pub async fn build_logger(
             };
             Ok(LoggerHandle { logger, tui_task: None })
         }
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn shutdown_signal_starts_clear_and_latches() {
+        let (sig, rx) = ShutdownSignal::new();
+        assert!(!is_shutdown_requested(&rx));
+        sig.request();
+        assert!(is_shutdown_requested(&rx));
+        sig.request();
+        assert!(is_shutdown_requested(&rx));
     }
 }

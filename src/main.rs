@@ -20,7 +20,7 @@ mod types;
 use crate::api::{monthly_windows, scrape_month};
 use crate::checkpoint::{load_checkpoint, save_checkpoint_atomic};
 use crate::config::load_config;
-use crate::git::{checkout_main_sync_for_repo, GitHelpers};
+use crate::git::GitHelpers;
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
@@ -65,24 +65,19 @@ async fn main() -> Result<()> {
     let _cpu_guard = args.cpuprofile.as_ref().map(|p| cpuprofile::start(p.clone()));
 
     let config = Arc::new(load_config());
-    let output_repo = config.output_repo.clone();
     let (shutdown, shutdown_rx) = ShutdownSignal::new();
-    let LoggerHandle { logger, tui_task } =
-        build_logger(args.ci, ".", shutdown.clone(), output_repo.clone()).await?;
+    let LoggerHandle { logger, tui_task } = build_logger(args.ci, ".", shutdown.clone()).await?;
     let git = Arc::new(GitHelpers::new(config.clone()));
     let safe_fetch = Arc::new(SafeFetch::new(config.clone(), logger.clone())?);
 
-    let has_tui = tui_task.is_some();
     let shutdown_ctrlc = shutdown.clone();
-    let repo_ctrlc = output_repo.clone();
+    let logger_ctrlc = logger.clone();
     tokio::spawn(async move {
         if tokio::signal::ctrl_c().await.is_ok() {
-            if has_tui {
-                shutdown_ctrlc.request();
-            } else {
-                checkout_main_sync_for_repo(&repo_ctrlc);
-                std::process::exit(130);
-            }
+            shutdown_ctrlc.request();
+            logger_ctrlc.log(
+                "Interruzione richiesta — attendo il prossimo punto di uscita…",
+            );
         }
     });
 
@@ -219,6 +214,9 @@ async fn run(
                     Some(&format!("Finestra {window_label} — scansione…")),
                 );
                 process_batches(&batch, &mut checkpoint, args.force, &deps, Some(&eta)).await?;
+                if is_shutdown_requested(&shutdown_rx) {
+                    return graceful_shutdown(&config, &checkpoint, &logger).await;
+                }
                 total_processed += batch.len();
                 month_act_count += batch.len();
             }
@@ -228,6 +226,10 @@ async fn run(
             month_act_count = 0;
         }
 
+        if is_shutdown_requested(&shutdown_rx) {
+            return graceful_shutdown(&config, &checkpoint, &logger).await;
+        }
+
         record_month_completed(month_act_count as u32);
 
         let eta = EtaContext {
@@ -235,6 +237,9 @@ async fn run(
             remaining_months,
         };
         process_modified_acts(from, to, &mut checkpoint, &deps, Some(&eta)).await?;
+        if is_shutdown_requested(&shutdown_rx) {
+            return graceful_shutdown(&config, &checkpoint, &logger).await;
+        }
 
         checkpoint.last_fully_scanned_date = Some(format!("{}", from.format("%Y-%m-%d")));
         save_checkpoint_atomic(&config, &checkpoint)

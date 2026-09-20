@@ -131,7 +131,7 @@ impl GitHelpers {
     }
 
     async fn run(&self, args: &[&str], commit_date: Option<&str>) -> Result<()> {
-        let mut cmd = Command::new("git");
+        let mut cmd = tokio_git();
         cmd.current_dir(self.cwd())
             .args(args)
             .stdin(Stdio::null())
@@ -154,7 +154,7 @@ impl GitHelpers {
     /// Run `git` and report exit status without erroring on non-zero exits.
     /// Used for predicate-style checks like `git diff --cached --quiet`.
     async fn run_status(&self, args: &[&str]) -> Result<bool> {
-        let mut cmd = Command::new("git");
+        let mut cmd = tokio_git();
         cmd.current_dir(self.cwd())
             .args(args)
             .stdin(Stdio::null())
@@ -165,7 +165,7 @@ impl GitHelpers {
     }
 
     async fn run_capture(&self, args: &[&str]) -> Result<String> {
-        let out = Command::new("git")
+        let out = tokio_git()
             .current_dir(self.cwd())
             .args(args)
             .output()
@@ -431,14 +431,67 @@ impl GitHelpers {
     }
 }
 
-/// Best-effort sync `git checkout rust` for [`process::exit`] paths (no `Drop`).
-pub fn checkout_main_sync_for_repo(cwd: &str) {
-    let _ = std::process::Command::new("git")
+/// Ctrl-C is delivered to the whole foreground process group. Put git in its
+/// own group so an in-flight add/commit/merge is not killed mid-write.
+fn tokio_git() -> Command {
+    let mut cmd = Command::new("git");
+    #[cfg(unix)]
+    cmd.process_group(0);
+    cmd
+}
+
+fn std_git() -> std::process::Command {
+    let mut cmd = std::process::Command::new("git");
+    #[cfg(unix)]
+    {
+        use std::os::unix::process::CommandExt;
+        cmd.process_group(0);
+    }
+    cmd
+}
+
+fn std_git_ok(cwd: &str, args: &[&str]) -> bool {
+    std_git()
         .current_dir(cwd)
-        .args(["checkout", MAIN_BRANCH])
+        .args(args)
+        .stdin(Stdio::null())
         .stdout(Stdio::null())
         .stderr(Stdio::null())
-        .status();
+        .status()
+        .map(|s| s.success())
+        .unwrap_or(false)
+}
+
+fn current_branch_sync(cwd: &str) -> Option<String> {
+    let out = std_git()
+        .current_dir(cwd)
+        .args(["rev-parse", "--abbrev-ref", "HEAD"])
+        .stdin(Stdio::null())
+        .output()
+        .ok()?;
+    if !out.status.success() {
+        return None;
+    }
+    let name = String::from_utf8_lossy(&out.stdout).trim().to_string();
+    if name.is_empty() || name == "HEAD" {
+        None
+    } else {
+        Some(name)
+    }
+}
+
+/// Restore the source branch after a scrape. Aborts a half-finished merge
+/// first; force-checkout is used only when we are *not* already on `rust`,
+/// so uncommitted edits on the source branch are kept.
+pub fn checkout_main_sync_for_repo(cwd: &str) {
+    let _ = std::fs::remove_file(Path::new(cwd).join(".git").join("index.lock"));
+    let _ = std_git_ok(cwd, &["merge", "--abort"]);
+    if current_branch_sync(cwd).as_deref() == Some(MAIN_BRANCH) {
+        return;
+    }
+    if !std_git_ok(cwd, &["checkout", MAIN_BRANCH]) {
+        let _ = std_git_ok(cwd, &["checkout", "-f", MAIN_BRANCH]);
+    }
 }
 
 /// Convert an ISO date string to git's `@<unix-ts> +0000` form. Pre-epoch
@@ -469,6 +522,7 @@ fn _path_assert(_p: &Path) {} // keeps `Path` import quiet during scaffolding
 #[cfg(test)]
 mod tests {
     use super::*;
+    use std::path::Path;
 
     #[test]
     fn pre_epoch_clamps_to_zero() {
@@ -481,5 +535,70 @@ mod tests {
         assert!(s.starts_with('@') && s.ends_with(" +0000"));
         let ts: i64 = s[1..s.len() - 6].parse().unwrap();
         assert!(ts > 1_500_000_000);
+    }
+
+    fn git(dir: &Path, args: &[&str]) -> std::process::Output {
+        std::process::Command::new("git")
+            .current_dir(dir)
+            .args(args)
+            .output()
+            .unwrap()
+    }
+
+    fn git_ok(dir: &Path, args: &[&str]) {
+        let out = git(dir, args);
+        assert!(
+            out.status.success(),
+            "git {args:?} failed: {}",
+            String::from_utf8_lossy(&out.stderr)
+        );
+    }
+
+    fn init_repo_on_rust(dir: &Path) {
+        git_ok(dir, &["init"]);
+        git_ok(dir, &["config", "user.email", "test@example.com"]);
+        git_ok(dir, &["config", "user.name", "test"]);
+        git_ok(dir, &["config", "commit.gpgsign", "false"]);
+        std::fs::write(dir.join("a.txt"), "base\n").unwrap();
+        git_ok(dir, &["add", "a.txt"]);
+        git_ok(dir, &["commit", "-m", "init"]);
+        git_ok(dir, &["branch", "-M", MAIN_BRANCH]);
+    }
+
+    #[test]
+    fn checkout_main_sync_preserves_dirty_files_on_rust() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_rust(p);
+        std::fs::write(p.join("a.txt"), "local-wip\n").unwrap();
+        std::fs::write(p.join(".git").join("index.lock"), "stale").unwrap();
+
+        checkout_main_sync_for_repo(p.to_str().unwrap());
+
+        assert_eq!(current_branch_sync(p.to_str().unwrap()).as_deref(), Some(MAIN_BRANCH));
+        assert_eq!(std::fs::read_to_string(p.join("a.txt")).unwrap(), "local-wip\n");
+        assert!(!p.join(".git").join("index.lock").exists());
+    }
+
+    #[test]
+    fn checkout_main_sync_recovers_from_merge_in_progress() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_rust(p);
+        git_ok(p, &["checkout", "-b", HISTORY_BRANCH]);
+        std::fs::write(p.join("a.txt"), "history\n").unwrap();
+        git_ok(p, &["commit", "-am", "history"]);
+        git_ok(p, &["checkout", MAIN_BRANCH]);
+        std::fs::write(p.join("a.txt"), "rust\n").unwrap();
+        git_ok(p, &["commit", "-am", "rust"]);
+        git_ok(p, &["checkout", HISTORY_BRANCH]);
+        let merge = git(p, &["merge", MAIN_BRANCH]);
+        assert!(!merge.status.success(), "expected a conflict");
+        assert!(p.join(".git").join("MERGE_HEAD").exists());
+
+        checkout_main_sync_for_repo(p.to_str().unwrap());
+
+        assert_eq!(current_branch_sync(p.to_str().unwrap()).as_deref(), Some(MAIN_BRANCH));
+        assert!(!p.join(".git").join("MERGE_HEAD").exists());
     }
 }
