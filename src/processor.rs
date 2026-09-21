@@ -1164,7 +1164,6 @@ pub async fn process_batches(
     let sem = Arc::new(Semaphore::new(num_cpus::get().max(1)));
 
     deps.git.checkout().await?;
-    deps.git.pull().await?;
 
     deps.logger.update_list(acts);
 
@@ -1250,7 +1249,7 @@ pub async fn process_batches(
 
     update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
 
-    let _ = deps.git.push().await;
+    save_checkpoint_atomic(&deps.config, checkpoint).await?;
     Ok(())
 }
 
@@ -1275,7 +1274,6 @@ async fn commit_one_act(
         checkpoint
             .act_versions
             .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), 0));
-        save_checkpoint_atomic(&deps.config, checkpoint).await?;
         update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
         return Ok(());
     };
@@ -1419,7 +1417,6 @@ async fn commit_one_act(
         .act_versions
         .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), ref_count));
     deps.logger.update_refs(&act.codice_redazionale, ref_count);
-    save_checkpoint_atomic(&deps.config, checkpoint).await?;
 
     // Bulk-ratification trigger: when the LEGGE we just committed is L. 473/1925
     // or L. 561/1956, octopus-merge every still-open branch in scope. Errors are
@@ -1575,6 +1572,7 @@ pub async fn process_modified_acts(
         }
     }
 
+    save_checkpoint_atomic(&deps.config, checkpoint).await?;
     Ok(())
 }
 
@@ -1632,7 +1630,6 @@ async fn commit_modification(
         .act_versions
         .insert(act.codice_redazionale.clone(), enriched_entry(act, mod_date.to_string(), refs_count));
     deps.logger.update_refs(&act.codice_redazionale, refs_count);
-    save_checkpoint_atomic(&deps.config, checkpoint).await?;
     Ok(())
 }
 

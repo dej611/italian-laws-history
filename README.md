@@ -137,8 +137,9 @@ git log history --oneline | head
 ## Stopping safely
 
 `Ctrl-C` is safe at any time. The checkpoint is written atomically after
-every commit, so the next run resumes from where it stopped (use the same
-command without `--force`).
+each search page (and on interrupt or month end), so the next run resumes
+from where it stopped (use the same command without `--force`). A kill
+mid-page may re-fetch up to one page of acts.
 
 ## Provisional-act handling
 

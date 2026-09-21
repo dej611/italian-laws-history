@@ -115,6 +115,7 @@ async fn run(
 ) -> Result<()> {
     git.ensure_repo().await?;
     git.ensure_history_branch().await?;
+    git.pull().await?;
 
     let mut checkpoint = load_checkpoint(&config).await?;
     if args.force {
@@ -173,7 +174,7 @@ async fn run(
     };
     for (from, to) in bounded {
         if is_shutdown_requested(&shutdown_rx) {
-            return graceful_shutdown(&config, &checkpoint, &logger).await;
+            return graceful_shutdown(&config, &checkpoint, &logger, &git).await;
         }
 
         let window_label = format!("{:04}-{:02}", from.year(), from.month());
@@ -190,7 +191,7 @@ async fn run(
             let mut window_failed = false;
             while let Some(batch_res) = stream.next().await {
                 if is_shutdown_requested(&shutdown_rx) {
-                    return graceful_shutdown(&config, &checkpoint, &logger).await;
+                    return graceful_shutdown(&config, &checkpoint, &logger, &git).await;
                 }
                 let batch = match batch_res {
                     Ok(b) => b,
@@ -215,7 +216,7 @@ async fn run(
                 );
                 process_batches(&batch, &mut checkpoint, args.force, &deps, Some(&eta)).await?;
                 if is_shutdown_requested(&shutdown_rx) {
-                    return graceful_shutdown(&config, &checkpoint, &logger).await;
+                    return graceful_shutdown(&config, &checkpoint, &logger, &git).await;
                 }
                 total_processed += batch.len();
                 month_act_count += batch.len();
@@ -227,7 +228,7 @@ async fn run(
         }
 
         if is_shutdown_requested(&shutdown_rx) {
-            return graceful_shutdown(&config, &checkpoint, &logger).await;
+            return graceful_shutdown(&config, &checkpoint, &logger, &git).await;
         }
 
         record_month_completed(month_act_count as u32);
@@ -238,22 +239,25 @@ async fn run(
         };
         process_modified_acts(from, to, &mut checkpoint, &deps, Some(&eta)).await?;
         if is_shutdown_requested(&shutdown_rx) {
-            return graceful_shutdown(&config, &checkpoint, &logger).await;
+            return graceful_shutdown(&config, &checkpoint, &logger, &git).await;
         }
 
         checkpoint.last_fully_scanned_date = Some(format!("{}", from.format("%Y-%m-%d")));
         save_checkpoint_atomic(&config, &checkpoint)
             .await
             .with_context(|| "saving checkpoint")?;
+        let _ = git.push().await;
     }
 
     if total_processed == 0 {
         logger.log("Nessun atto trovato nel periodo indicato.");
+        let _ = git.push().await;
         return Ok(());
     }
 
     logger.log("Elaborazione completata.");
     logger.set_status("COMPLETATO");
+    let _ = git.push().await;
     Ok(())
 }
 
@@ -265,11 +269,13 @@ async fn graceful_shutdown(
     config: &Arc<crate::types::Config>,
     checkpoint: &crate::types::Checkpoint,
     logger: &Arc<dyn crate::logger::Logger>,
+    git: &Arc<GitHelpers>,
 ) -> Result<()> {
     logger.log("Interruzione richiesta — salvataggio checkpoint…");
     save_checkpoint_atomic(config, checkpoint)
         .await
         .with_context(|| "saving checkpoint on shutdown")?;
+    let _ = git.push().await;
     logger.set_status("INTERROTTO");
     Ok(())
 }
