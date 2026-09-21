@@ -88,6 +88,13 @@ fn ensure_pending_acts_migrated(checkpoint: &mut Checkpoint) -> &mut HashMap<Str
             pending.entry(codice).or_insert(entry);
         }
     }
+    for act in pending.values_mut() {
+        if let Some((ns, rest)) = act.branch_name.split_once('/') {
+            if let Some(base) = ns.strip_suffix("-rs") {
+                act.branch_name = format!("{base}/{rest}");
+            }
+        }
+    }
     checkpoint.pending_acts = Some(pending);
     checkpoint.pending_acts.as_mut().unwrap()
 }
@@ -573,11 +580,11 @@ pub fn log_pending_breakdown(checkpoint: &Checkpoint, logger: &dyn Logger) {
 }
 
 /// Apply a bulk-ratification law (e.g. L. 473/1925, L. 561/1956): octopus-merge
-/// every still-open branch in scope into `history-rs` with one merge commit,
+/// every still-open branch in scope into `history` with one merge commit,
 /// then remove those entries from `pending_acts`. No-op when no branches qualify.
 ///
 /// Must be called AFTER the sanatoria law's own publication commit has been
-/// written on `history-rs` (so the merge sits chronologically above it). The
+/// written on `history` (so the merge sits chronologically above it). The
 /// merge commit is dated to the sanatoria's publication date.
 async fn apply_sanatoria(
     sanatoria: &SanatoriaLaw,
@@ -707,7 +714,7 @@ fn pending_act_in_reconcile_scope(act: &PendingAct) -> bool {
     }
 }
 
-/// Merge misclassified WWI (and other pre-1944) `Dll` pending acts onto `history-rs`
+/// Merge misclassified WWI (and other pre-1944) `Dll` pending acts onto `history`
 /// and drop them from `pending_acts`. Idempotent for already-merged branches.
 pub async fn migrate_misclassified_dll_pending(
     checkpoint: &mut Checkpoint,
@@ -837,7 +844,7 @@ pub async fn retry_pending_sanatoria(
 }
 
 /// Check each pending provisional act (DL, RDL, DLL, DLCPS) for conversion,
-/// ratification, or decadenza. Merges resolved branches into `history-rs`
+/// ratification, or decadenza. Merges resolved branches into `history`
 /// with the correct historical date. Acts with `deadline_days = None`
 /// (pre-1926 RDL, 1944–46 cohort awaiting L. 561/1956) wait indefinitely
 /// until either a ratifying law surfaces or Normattiva flags them as
@@ -1744,11 +1751,33 @@ mod tests {
     }
 
     #[test]
+    fn pending_acts_migration_strips_rs_namespace() {
+        let mut checkpoint = Checkpoint::default();
+        let mut pending = HashMap::new();
+        pending.insert(
+            "046U0047".to_string(),
+            PendingAct {
+                codice_redazionale: "046U0047".to_string(),
+                branch_name: "dlcps-rs/046U0047".to_string(),
+                data_gu: "1947-01-15".to_string(),
+                denominazione_atto: None,
+                numero_provvedimento: None,
+                anno_provvedimento: None,
+                short: BranchableShort::Dlcps,
+                deadline_days: None,
+            },
+        );
+        checkpoint.pending_acts = Some(pending);
+        let migrated = ensure_pending_acts_migrated(&mut checkpoint);
+        assert_eq!(migrated["046U0047"].branch_name, "dlcps/046U0047");
+    }
+
+    #[test]
     fn awaiting_l561_sanatoria_true_for_dlcps_before_law() {
         let mut checkpoint = Checkpoint::default();
         let act = PendingAct {
             codice_redazionale: "046U0047".to_string(),
-            branch_name: "dlcps-rs/046U0047".to_string(),
+            branch_name: "dlcps/046U0047".to_string(),
             data_gu: "1947-01-15".to_string(),
             denominazione_atto: Some(
                 "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO".to_string(),
@@ -1777,7 +1806,7 @@ mod tests {
         let checkpoint = Checkpoint::default();
         let act = PendingAct {
             codice_redazionale: "044U0203".to_string(),
-            branch_name: "dll-rs/044U0203".to_string(),
+            branch_name: "dll/044U0203".to_string(),
             data_gu: "1944-09-19".to_string(),
             denominazione_atto: Some("DECRETO-LEGGE LUOGOTENENZIALE".to_string()),
             numero_provvedimento: Some("203".to_string()),
@@ -1793,7 +1822,7 @@ mod tests {
         let checkpoint = Checkpoint::default();
         let act = PendingAct {
             codice_redazionale: "015U0042".to_string(),
-            branch_name: "rdl-rs/015U0042".to_string(),
+            branch_name: "rdl/015U0042".to_string(),
             data_gu: "1915-01-29".to_string(),
             denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
             numero_provvedimento: Some("42".to_string()),
@@ -1824,7 +1853,7 @@ mod tests {
             "046U0047".to_string(),
             PendingAct {
                 codice_redazionale: "046U0047".to_string(),
-                branch_name: "dlcps-rs/046U0047".to_string(),
+                branch_name: "dlcps/046U0047".to_string(),
                 data_gu: "1947-01-15".to_string(),
                 denominazione_atto: None,
                 numero_provvedimento: None,
@@ -1837,7 +1866,7 @@ mod tests {
             "015U0042".to_string(),
             PendingAct {
                 codice_redazionale: "015U0042".to_string(),
-                branch_name: "rdl-rs/015U0042".to_string(),
+                branch_name: "rdl/015U0042".to_string(),
                 data_gu: "1915-01-29".to_string(),
                 denominazione_atto: None,
                 numero_provvedimento: None,
@@ -1856,7 +1885,7 @@ mod tests {
         // must NEVER lapse on a timer — only on explicit abrogation.
         let act = PendingAct {
             codice_redazionale: "x".to_string(),
-            branch_name: "rdl-rs/x".to_string(),
+            branch_name: "rdl/x".to_string(),
             data_gu: "1908-12-28".to_string(),
             denominazione_atto: Some("REGIO DECRETO-LEGGE".to_string()),
             numero_provvedimento: Some("740".to_string()),

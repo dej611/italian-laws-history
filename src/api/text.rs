@@ -340,7 +340,7 @@ pub fn to_plain_text(atto: &AttoDto) -> (String, String) {
 }
 
 /// Resolution of a branchable provisional act type (DL / RDL / DLL / DLCPS),
-/// or `None` when the act is terminal-on-emanation (commit directly on `history-rs`).
+/// or `None` when the act is terminal-on-emanation (commit directly on `history`).
 ///
 /// The `deadline_days` captures the legal regime's automatic decadenza:
 /// `Some(n)` = lapse after n days from `data_gu`; `None` = no automatic
@@ -372,7 +372,7 @@ fn date_in_range(date: &str, from: &str, to: &str) -> bool {
 }
 
 /// Resolve the act to a branch namespace + decadenza deadline, or `None` when
-/// the act should be committed directly on `history-rs` without a provisional
+/// the act should be committed directly on `history` without a provisional
 /// branch.
 pub fn resolve_branchable_type(act: &NormattivaAtto) -> Option<BranchableTypeInfo> {
     // Modern decreto-legge: PDL code is the most reliable signal.
@@ -409,8 +409,8 @@ pub fn resolve_branchable_type(act: &NormattivaAtto) -> Option<BranchableTypeInf
             })
         }
         "DECRETO-LEGGE LUOGOTENENZIALE" => {
-            // Only the 1944–46 cohort uses dll-rs + sanatoria. WWI decreto-legge
-            // luogotenenziali share this denomination but commit on history-rs.
+            // Only the 1944–46 cohort uses dll + sanatoria. WWI decreto-legge
+            // luogotenenziali share this denomination but commit on history.
             if is_dll_cohort_date(&act.data_gu) {
                 Some(BranchableTypeInfo {
                     short: BranchableShort::Dll,

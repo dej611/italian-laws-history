@@ -708,7 +708,7 @@ Art. 1. Al comma 1 le parole 1 gennaio 2009 sono sostituite.
 
     fn history_rs_file(name: &str) -> Option<String> {
         let output = std::process::Command::new("git")
-            .args(["show", &format!("history-rs:{name}")])
+            .args(["show", &format!("{}:{name}", crate::git::HISTORY_BRANCH)])
             .current_dir(env!("CARGO_MANIFEST_DIR"))
             .output()
             .ok()?;

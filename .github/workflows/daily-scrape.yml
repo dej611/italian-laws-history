@@ -1,4 +1,4 @@
-name: Daily Normattiva Scrape (rust)
+name: Daily Normattiva Scrape
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: rust
+          ref: main
           fetch-depth: 0
 
       - uses: dtolnay/rust-toolchain@stable

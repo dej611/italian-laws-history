@@ -1,4 +1,4 @@
-//! Disk index of which acts have allegati, built from a prior `history-rs` scrape.
+//! Disk index of which acts have allegati, built from a prior `history` scrape.
 //!
 //! File format (`allegati.json`, gitignored):
 //! `{ "dataUntil": "YYYY-MM-DD", "allegati": { "<urn>": true, ... } }`

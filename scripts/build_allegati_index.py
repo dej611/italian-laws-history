@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build gitignored allegati.json from history-rs filenames.
+"""Build gitignored allegati.json from history filenames.
 
 Usage:
   python3 scripts/build_allegati_index.py
@@ -79,7 +79,7 @@ def checkpoint_until(repo: Path) -> str | None:
 
 def history_files(repo: Path) -> list[str]:
     out = subprocess.check_output(
-        ["git", "ls-tree", "-r", "--name-only", "history-rs"],
+        ["git", "ls-tree", "-r", "--name-only", "history"],
         cwd=repo,
         text=True,
     )
