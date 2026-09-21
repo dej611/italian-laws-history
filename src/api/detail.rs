@@ -1282,3 +1282,90 @@ mod allegato_fetch_tests {
         assert!(parsed.unwrap().rows.len() > 100);
     }
 }
+
+#[cfg(test)]
+mod conversion_citation_tests {
+    use super::*;
+    use crate::types::ConversionSearchContext;
+    use std::collections::HashSet;
+
+    fn ctx_1327(giorno: Option<&'static str>, mese: Option<&'static str>) -> ConversionSearchContext<'static> {
+        ConversionSearchContext {
+            codice_redazionale: "024U1327",
+            data_gu: "1924-09-05",
+            anno_provvedimento: Some("1924"),
+            numero_provvedimento: Some("1327"),
+            denominazione_atto: Some("REGIO DECRETO-LEGGE"),
+            mese_provvedimento: mese,
+            giorno_provvedimento: giorno,
+            numero_supplemento: None,
+        }
+    }
+
+    fn l88_hit() -> NormattivaAtto {
+        NormattivaAtto {
+            codice_redazionale: "025U0088".into(),
+            denominazione_atto: Some("LEGGE".into()),
+            titolo_atto: Some(
+                "Conversione in legge dei Regi decreti: 26 giugno 1924, n. 1032; \
+                 15 agosto 1924, n. 1327; e 23 ottobre 1924, n. 1672."
+                    .into(),
+            ),
+            ..Default::default()
+        }
+    }
+
+    #[test]
+    fn citation_fragment_uses_emanation_not_gu() {
+        let ctx = ctx_1327(Some("15"), Some("8"));
+        assert_eq!(
+            build_italian_citation_fragment(ctx).as_deref(),
+            Some("15 agosto 1924, n. 1327")
+        );
+    }
+
+    #[test]
+    fn citation_fragment_falls_back_to_gu_without_emanation() {
+        let ctx = ctx_1327(None, None);
+        assert_eq!(
+            build_italian_citation_fragment(ctx).as_deref(),
+            Some("5 settembre 1924, n. 1327")
+        );
+    }
+
+    #[test]
+    fn citation_fragment_keeps_emanation_year_when_gu_is_next_year() {
+        let ctx = ConversionSearchContext {
+            codice_redazionale: "025U2515",
+            data_gu: "1926-02-08",
+            anno_provvedimento: Some("1925"),
+            numero_provvedimento: Some("2515"),
+            denominazione_atto: Some("REGIO DECRETO-LEGGE"),
+            mese_provvedimento: Some("12"),
+            giorno_provvedimento: Some("31"),
+            numero_supplemento: None,
+        };
+        assert_eq!(
+            build_italian_citation_fragment(ctx).as_deref(),
+            Some("31 dicembre 1925, n. 2515")
+        );
+    }
+
+    #[test]
+    fn conversion_pick_accepts_l88_with_emanation_rubrica() {
+        let ctx = ctx_1327(Some("15"), Some("8"));
+        let frag = build_italian_citation_fragment(ctx);
+        let hit = try_pick_best_conversion(&[l88_hit()], ctx, &HashSet::new(), frag.as_deref());
+        assert_eq!(hit.map(|h| h.codice_redazionale), Some("025U0088".into()));
+    }
+
+    #[test]
+    fn conversion_pick_rejects_l88_when_fragment_is_gu_date() {
+        // Reconcile used to build the rubrica from data_gu. L. 88 cites
+        // emanation (15 agosto), so the GU day (5 settembre) must not match.
+        let ctx = ctx_1327(None, None);
+        let frag = build_italian_citation_fragment(ctx);
+        let hit = try_pick_best_conversion(&[l88_hit()], ctx, &HashSet::new(), frag.as_deref());
+        assert!(hit.is_none());
+    }
+}

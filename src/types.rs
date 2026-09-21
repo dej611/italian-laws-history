@@ -125,6 +125,12 @@ pub struct PendingAct {
     pub numero_provvedimento: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub anno_provvedimento: Option<String>,
+    /// Emanation month (`1`–`12`). Conversion laws cite this date, not `data_gu`.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub mese_provvedimento: Option<String>,
+    /// Emanation day. Conversion laws cite this date, not `data_gu`.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub giorno_provvedimento: Option<String>,
     /// Branch namespace short code. Defaults to `Dl` when loading checkpoints
     /// written before the multi-type rework.
     #[serde(default = "default_short")]
@@ -159,8 +165,8 @@ impl<'a> ConversionSearchContext<'a> {
             anno_provvedimento: act.anno_provvedimento.as_deref(),
             numero_provvedimento: act.numero_provvedimento.as_deref(),
             denominazione_atto: act.denominazione_atto.as_deref(),
-            mese_provvedimento: None,
-            giorno_provvedimento: None,
+            mese_provvedimento: act.mese_provvedimento.as_deref(),
+            giorno_provvedimento: act.giorno_provvedimento.as_deref(),
             numero_supplemento: None,
         }
     }
@@ -313,4 +319,53 @@ pub enum ActStatus {
     InForce,
     Updated,
     Abrogated,
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn rdl_1327(giorno: Option<&str>, mese: Option<&str>) -> PendingAct {
+        PendingAct {
+            codice_redazionale: "024U1327".into(),
+            branch_name: "rdl/024U1327".into(),
+            data_gu: "1924-09-05".into(),
+            denominazione_atto: Some("REGIO DECRETO-LEGGE".into()),
+            numero_provvedimento: Some("1327".into()),
+            anno_provvedimento: Some("1924".into()),
+            mese_provvedimento: mese.map(str::to_string),
+            giorno_provvedimento: giorno.map(str::to_string),
+            short: BranchableShort::Rdl,
+            deadline_days: None,
+        }
+    }
+
+    #[test]
+    fn from_pending_forwards_emanation_day_month() {
+        let act = rdl_1327(Some("15"), Some("8"));
+        let ctx = ConversionSearchContext::from_pending(&act);
+        assert_eq!(ctx.giorno_provvedimento, Some("15"));
+        assert_eq!(ctx.mese_provvedimento, Some("8"));
+        assert_eq!(ctx.data_gu, "1924-09-05");
+    }
+
+    #[test]
+    fn from_pending_legacy_checkpoint_has_no_emanation_day() {
+        let json = r#"{
+            "codiceRedazionale": "024U1327",
+            "branchName": "rdl/024U1327",
+            "dataGu": "1924-09-05",
+            "denominazioneAtto": "REGIO DECRETO-LEGGE",
+            "numeroProvvedimento": "1327",
+            "annoProvvedimento": "1924",
+            "short": "rdl",
+            "deadlineDays": null
+        }"#;
+        let act: PendingAct = serde_json::from_str(json).unwrap();
+        assert_eq!(act.giorno_provvedimento, None);
+        assert_eq!(act.mese_provvedimento, None);
+        let ctx = ConversionSearchContext::from_pending(&act);
+        assert_eq!(ctx.giorno_provvedimento, None);
+        assert_eq!(ctx.mese_provvedimento, None);
+    }
 }
