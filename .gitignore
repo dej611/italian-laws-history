@@ -1,0 +1,52 @@
+# This branch (history) is data-only. It only tracks law-content
+# files; everything else is ignored so that a working tree shared with
+# the `main` source branch doesn't pollute commits here.
+
+# --- Rust source tree (lives on the `main` branch) ---
+src/
+tests/
+target/
+Cargo.toml
+Cargo.lock
+.github/
+rust-toolchain
+rust-toolchain.toml
+
+# --- leftover TS files ---
+package.json
+package-lock.json
+tsconfig.json
+node_modules/
+*.ts
+*.js
+*.mjs
+*.cjs
+
+# --- Editor / OS noise ---
+.DS_Store
+*.swp
+.cursor/
+.idea/
+.vscode/
+talk/
+
+# --- Runtime artefacts of either binary ---
+progress.json
+progress.json.tmp
+progress-rs.json
+progress-rs.json.tmp
+allegati.json
+processing-*.log
+trace-*.json
+*.cpuprofile
+
+# Belt-and-braces: anything that's clearly not a law-content file.
+# Law content: `*.txt` (incl. `*.allegato-N.txt`), `*.decaduto`,
+# `*.modifiedby`, `*.refs` (allegato elenco sidecars). The tracked
+# `.gitignore` itself is also kept.
+*.rs
+*.yml
+*.yaml
+*.toml
+*.lock
+*.html
