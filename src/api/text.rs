@@ -5,8 +5,7 @@ use regex::Regex;
 
 use crate::types::{AttoDto, BranchableShort, NormattivaAtto};
 
-static URN_RE: LazyLock<Regex> =
-    LazyLock::new(|| Regex::new("(?i)urn:nir:[^\\s\"'<>]+").unwrap());
+static URN_RE: LazyLock<Regex> = LazyLock::new(|| Regex::new("(?i)urn:nir:[^\\s\"'<>]+").unwrap());
 static URN_DATE_RE: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\d{4}-\d{2}-\d{2}").unwrap());
 // Minimum API-accepted form: urn:nir:<emettitore>:<tipo>:<YYYY-MM-DD>;<num>
 // Both <emettitore> and <tipo> must be non-empty and contain no trailing dot.
@@ -64,20 +63,41 @@ static DENOMINATION_URN_MAP: LazyLock<HashMap<&'static str, &'static str>> = Laz
         ("COSTITUZIONE", "costituzione"),
         ("DECRETO", "decreto"),
         ("DECRETO DEL CAPO DEL GOVERNO", "decreto.capo.governo"),
-        ("DECRETO DEL CAPO PROVVISORIO DELLO STATO", "decreto.capo.provvisorio.stato"),
+        (
+            "DECRETO DEL CAPO PROVVISORIO DELLO STATO",
+            "decreto.capo.provvisorio.stato",
+        ),
         ("DECRETO DEL DUCE", "decreto.duce"),
-        ("DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI", "decreto.presidente.consiglio.ministri"),
-        ("DECRETO DEL PRESIDENTE DELLA REPUBBLICA", "decreto.presidente.repubblica"),
+        (
+            "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI",
+            "decreto.presidente.consiglio.ministri",
+        ),
+        (
+            "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+            "decreto.presidente.repubblica",
+        ),
         ("DECRETO LEGISLATIVO", "decreto.legislativo"),
-        ("DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO", "decreto.legislativo.capo.provvisorio.stato"),
-        ("DECRETO LEGISLATIVO LUOGOTENENZIALE", "decreto.legislativo.luogotenenziale"),
-        ("DECRETO LEGISLATIVO PRESIDENZIALE", "decreto.legislativo.presidenziale"),
+        (
+            "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO",
+            "decreto.legislativo.capo.provvisorio.stato",
+        ),
+        (
+            "DECRETO LEGISLATIVO LUOGOTENENZIALE",
+            "decreto.legislativo.luogotenenziale",
+        ),
+        (
+            "DECRETO LEGISLATIVO PRESIDENZIALE",
+            "decreto.legislativo.presidenziale",
+        ),
         ("DECRETO LUOGOTENENZIALE", "decreto.luogotenenziale"),
         ("DECRETO MINISTERIALE", "decreto.ministeriale"),
         ("DECRETO PRESIDENZIALE", "decreto.presidenziale"),
         ("DECRETO REALE", "regio.decreto"),
         ("DECRETO-LEGGE", "decreto.legge"),
-        ("DECRETO-LEGGE LUOGOTENENZIALE", "decreto.legge.luogotenenziale"),
+        (
+            "DECRETO-LEGGE LUOGOTENENZIALE",
+            "decreto.legge.luogotenenziale",
+        ),
         ("DELIBERAZIONE", "deliberazione"),
         ("LEGGE", "legge"),
         ("LEGGE COSTITUZIONALE", "legge.costituzionale"),
@@ -174,7 +194,11 @@ pub fn denomination_to_urn_form(denom_upper: &str) -> String {
 /// Strips article-level fragments (after `~`) and deduplicates.
 /// `before_date` filters URNs whose embedded date is strictly before that date
 /// (URNs without a parseable date are kept conservatively).
-pub fn extract_urns(html: &str, self_codice: Option<&str>, before_date: Option<&str>) -> Vec<String> {
+pub fn extract_urns(
+    html: &str,
+    self_codice: Option<&str>,
+    before_date: Option<&str>,
+) -> Vec<String> {
     let mut seen: HashSet<String> = HashSet::new();
     let mut out: Vec<String> = Vec::new();
     let self_lc = self_codice.map(|s| s.to_lowercase());
@@ -335,7 +359,11 @@ pub fn to_plain_text(atto: &AttoDto) -> (String, String) {
         .clone()
         .or_else(|| atto.articolo_html.clone())
         .unwrap_or_default();
-    let plain = if raw.is_empty() { String::new() } else { html_to_plain_text(&raw) };
+    let plain = if raw.is_empty() {
+        String::new()
+    } else {
+        html_to_plain_text(&raw)
+    };
     (raw, plain)
 }
 
@@ -383,11 +411,7 @@ pub fn resolve_branchable_type(act: &NormattivaAtto) -> Option<BranchableTypeInf
         });
     }
 
-    let denom_upper = act
-        .denominazione_atto
-        .as_deref()?
-        .trim()
-        .to_uppercase();
+    let denom_upper = act.denominazione_atto.as_deref()?.trim().to_uppercase();
     if denom_upper.is_empty() {
         return None;
     }
@@ -451,7 +475,10 @@ fn is_date_ge(a: &str, b: &str) -> bool {
 pub fn is_decreto_legge(act: &NormattivaAtto) -> bool {
     matches!(
         resolve_branchable_type(act),
-        Some(BranchableTypeInfo { short: BranchableShort::Dl, .. })
+        Some(BranchableTypeInfo {
+            short: BranchableShort::Dl,
+            ..
+        })
     )
 }
 
@@ -464,11 +491,17 @@ mod tests {
         // Reject malformed harvested URNs (these otherwise return HTTP 400).
         assert!(!is_well_formed_urn("urn:nir:::1895-02-21;70"));
         assert!(!is_well_formed_urn("urn:nir::regolamento:1909-06-14;442"));
-        assert!(!is_well_formed_urn("urn:nir:ministero.:decreto:1910-12-22;6710"));
+        assert!(!is_well_formed_urn(
+            "urn:nir:ministero.:decreto:1910-12-22;6710"
+        ));
         // Accept canonical forms, including with version/article suffixes.
         assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123"));
-        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123@originale"));
-        assert!(is_well_formed_urn("urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01"));
+        assert!(is_well_formed_urn(
+            "urn:nir:stato:legge:2020-01-15;123@originale"
+        ));
+        assert!(is_well_formed_urn(
+            "urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01"
+        ));
         assert!(is_well_formed_urn(
             "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-31;1"
         ));
@@ -484,8 +517,20 @@ mod tests {
     fn parses_urn_tail_for_all_observed_shapes() {
         let cases = [
             ("urn:nir:::1895-02-21;70", "1895", "02", "21", "70"),
-            ("urn:nir::regolamento:1909-06-14;442", "1909", "06", "14", "442"),
-            ("urn:nir:ministero.:decreto:1910-12-22;6710", "1910", "12", "22", "6710"),
+            (
+                "urn:nir::regolamento:1909-06-14;442",
+                "1909",
+                "06",
+                "14",
+                "442",
+            ),
+            (
+                "urn:nir:ministero.:decreto:1910-12-22;6710",
+                "1910",
+                "12",
+                "22",
+                "6710",
+            ),
             (
                 "urn:nir:presidente.repubblica:decreto:1973-09-29;598",
                 "1973",
@@ -493,7 +538,13 @@ mod tests {
                 "29",
                 "598",
             ),
-            ("urn:nir:stato:legge:2020-01-15;150-bis", "2020", "01", "15", "150-bis"),
+            (
+                "urn:nir:stato:legge:2020-01-15;150-bis",
+                "2020",
+                "01",
+                "15",
+                "150-bis",
+            ),
             (
                 "urn:nir:stato:legge:2020-01-15;123!vig=2021-01-01",
                 "2020",
@@ -511,7 +562,16 @@ mod tests {
         ];
         for (urn, y, m, d, n) in cases {
             let t = parse_urn_tail(urn).unwrap_or_else(|| panic!("no tail for {urn}"));
-            assert_eq!((t.year.as_str(), t.month.as_str(), t.day.as_str(), t.num.as_str()), (y, m, d, n), "case {urn}");
+            assert_eq!(
+                (
+                    t.year.as_str(),
+                    t.month.as_str(),
+                    t.day.as_str(),
+                    t.num.as_str()
+                ),
+                (y, m, d, n),
+                "case {urn}"
+            );
         }
         assert!(parse_urn_tail("urn:nir:not-a-urn").is_none());
         assert!(parse_urn_tail("urn:nir:::no-date;here").is_none());

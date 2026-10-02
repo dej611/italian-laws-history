@@ -46,10 +46,14 @@ mod tests {
 
     #[test]
     fn handles_month_rollover() {
-        assert_eq!(add_one_month(NaiveDate::from_ymd_opt(2020, 1, 31).unwrap()),
-                   NaiveDate::from_ymd_opt(2020, 2, 29).unwrap());
-        assert_eq!(add_one_month(NaiveDate::from_ymd_opt(2020, 12, 15).unwrap()),
-                   NaiveDate::from_ymd_opt(2021, 1, 15).unwrap());
+        assert_eq!(
+            add_one_month(NaiveDate::from_ymd_opt(2020, 1, 31).unwrap()),
+            NaiveDate::from_ymd_opt(2020, 2, 29).unwrap()
+        );
+        assert_eq!(
+            add_one_month(NaiveDate::from_ymd_opt(2020, 12, 15).unwrap()),
+            NaiveDate::from_ymd_opt(2021, 1, 15).unwrap()
+        );
     }
 
     #[test]

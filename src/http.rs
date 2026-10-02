@@ -18,8 +18,12 @@ use tokio::time::sleep;
 use crate::logger::Logger;
 use crate::types::Config;
 
-type AppRateLimiter =
-    RateLimiter<NotKeyed, InMemoryState, DefaultClock, NoOpMiddleware<governor::clock::QuantaInstant>>;
+type AppRateLimiter = RateLimiter<
+    NotKeyed,
+    InMemoryState,
+    DefaultClock,
+    NoOpMiddleware<governor::clock::QuantaInstant>,
+>;
 
 /// Extra attempts beyond `max_retries` for connect/reset/timeout transport errors.
 /// Allegato probing roughly doubles request volume; Normattiva often answers with
@@ -47,12 +51,15 @@ impl SafeFetch {
     pub fn new(config: Arc<Config>, logger: Arc<dyn Logger>) -> Result<Self> {
         // No idle keep-alive pool: Normattiva frequently RSTs reused sockets
         // under allegato-era load ("Connection reset by peer" on the next POST).
+        // Custom TLS config: the server omits the issuing intermediate, which
+        // rustls rejects as UnknownIssuer unless we fetch it (see `tls`).
         let client = Client::builder()
             .timeout(Duration::from_secs(30))
             .connect_timeout(Duration::from_secs(15))
             .pool_max_idle_per_host(0)
             .tcp_keepalive(Duration::from_secs(30))
             .gzip(true)
+            .use_preconfigured_tls(crate::tls::client_config()?)
             .build()?;
 
         let sem = Arc::new(Semaphore::new(config.concurrency.max(1) as usize));
@@ -90,12 +97,7 @@ impl SafeFetch {
 
     /// Core entry point: returns the raw response bytes. Mirrors the TS
     /// `safeFetch` shape with cache-by-(url + body) semantics.
-    pub async fn fetch(
-        &self,
-        method: Method,
-        url: &str,
-        body: Option<String>,
-    ) -> Result<Vec<u8>> {
+    pub async fn fetch(&self, method: Method, url: &str, body: Option<String>) -> Result<Vec<u8>> {
         self.fetch_inner(method, url, body, 0).await
     }
 
@@ -137,7 +139,10 @@ impl SafeFetch {
             let permit = self.sem.acquire().await.map_err(|e| anyhow!(e))?;
             self.rate.until_ready().await;
 
-            let mut req = self.client.request(method.clone(), url).headers(self.build_headers());
+            let mut req = self
+                .client
+                .request(method.clone(), url)
+                .headers(self.build_headers());
             if let Some(b) = &body {
                 req = req.body(b.clone());
             }
@@ -146,7 +151,9 @@ impl SafeFetch {
                 Ok(r) => r,
                 Err(err) => {
                     drop(permit);
-                    return self.handle_transport_error(method, url, body, attempt, err).await;
+                    return self
+                        .handle_transport_error(method, url, body, attempt, err)
+                        .await;
                 }
             };
 
@@ -178,7 +185,9 @@ impl SafeFetch {
                 Ok(b) => b.to_vec(),
                 Err(err) => {
                     drop(permit);
-                    return self.handle_transport_error(method, url, body, attempt, err).await;
+                    return self
+                        .handle_transport_error(method, url, body, attempt, err)
+                        .await;
                 }
             };
             drop(permit);
@@ -189,7 +198,8 @@ impl SafeFetch {
                 self.logger
                     .log_file(&format!("[fetch] {} {url}", status.as_u16()));
             } else {
-                self.logger.log(&format!("[fetch] {} {url}", status.as_u16()));
+                self.logger
+                    .log(&format!("[fetch] {} {url}", status.as_u16()));
             }
             self.logger
                 .log_file(&format!("[curl] {}", to_curl(&method, url, &body)));
@@ -219,14 +229,28 @@ impl SafeFetch {
         if attempt < limit {
             let wait = transport_backoff(attempt);
             self.logger.log(&format!(
-                "Errore fetch {url}: {err}. Retry in {}ms",
+                "Errore fetch {url}: {}. Retry in {}ms",
+                error_with_sources(&err),
                 wait.as_millis()
             ));
             sleep(wait).await;
             return self.fetch_inner(method, url, body, attempt + 1).await;
         }
-        Err(anyhow!(err))
+        Err(anyhow!(error_with_sources(&err)))
     }
+}
+
+/// reqwest's `Display` is only "error sending request for url (...)".
+/// The certificate or reset reason lives on the `source` chain.
+fn error_with_sources(err: &dyn std::error::Error) -> String {
+    let mut out = err.to_string();
+    let mut src = err.source();
+    while let Some(cause) = src {
+        out.push_str(": ");
+        out.push_str(&cause.to_string());
+        src = cause.source();
+    }
+    out
 }
 
 /// Connect / timeout / request-send failures worth waiting out (vs. e.g. bad URL).
@@ -270,7 +294,10 @@ fn parse_retry_after(raw: &str) -> Option<Duration> {
 }
 
 fn to_curl(method: &Method, url: &str, body: &Option<String>) -> String {
-    let mut parts = vec![format!("curl -X '{method}'"), "-H 'Content-Type: application/json'".to_string()];
+    let mut parts = vec![
+        format!("curl -X '{method}'"),
+        "-H 'Content-Type: application/json'".to_string(),
+    ];
     if let Some(b) = body {
         parts.push(format!("-d '{}'", b.replace('\'', "'\\''")));
     }

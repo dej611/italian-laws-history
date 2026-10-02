@@ -14,6 +14,7 @@ mod git;
 mod http;
 mod logger;
 mod processor;
+mod tls;
 mod tracing_setup;
 mod types;
 
@@ -25,12 +26,15 @@ use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
     log_pending_breakdown, migrate_misclassified_dll_pending, process_batches,
-    process_modified_acts, record_month_completed, retry_pending_sanatoria,
-    update_progress_status, EtaContext, ProcessorDeps,
+    process_modified_acts, record_month_completed, retry_pending_sanatoria, update_progress_status,
+    EtaContext, ProcessorDeps,
 };
 
 #[derive(Parser, Debug)]
-#[command(version, about = "Track Italian law changes via Normattiva (Rust port)")]
+#[command(
+    version,
+    about = "Track Italian law changes via Normattiva (Rust port)"
+)]
 struct Args {
     /// Optional explicit since-date (YYYY-MM-DD); overrides checkpoint.
     since_date: Option<String>,
@@ -62,7 +66,10 @@ async fn main() -> Result<()> {
     let args = Args::parse();
     let _trace_guard = tracing_setup::init(args.perf);
     #[cfg(feature = "cpuprofile")]
-    let _cpu_guard = args.cpuprofile.as_ref().map(|p| cpuprofile::start(p.clone()));
+    let _cpu_guard = args
+        .cpuprofile
+        .as_ref()
+        .map(|p| cpuprofile::start(p.clone()));
 
     let config = Arc::new(load_config());
     let (shutdown, shutdown_rx) = ShutdownSignal::new();
@@ -75,9 +82,7 @@ async fn main() -> Result<()> {
     tokio::spawn(async move {
         if tokio::signal::ctrl_c().await.is_ok() {
             shutdown_ctrlc.request();
-            logger_ctrlc.log(
-                "Interruzione richiesta — attendo il prossimo punto di uscita…",
-            );
+            logger_ctrlc.log("Interruzione richiesta — attendo il prossimo punto di uscita…");
         }
     });
 
@@ -178,15 +183,15 @@ async fn run(
         }
 
         let window_label = format!("{:04}-{:02}", from.year(), from.month());
-        let _span = tracing::info_span!("loop", op = "monthlyWindow", window = %window_label).entered();
+        let _span =
+            tracing::info_span!("loop", op = "monthlyWindow", window = %window_label).entered();
         let mut month_act_count: usize = 0;
         let remaining_months = months_between(from, now).max(0) as u32;
 
         // Retry the whole window on unexpected stream errors (search itself now
         // cools down forever on transport RST; this is belt-and-braces).
         loop {
-            let stream =
-                scrape_month(from, to, config.clone(), safe_fetch.clone(), logger.clone());
+            let stream = scrape_month(from, to, config.clone(), safe_fetch.clone(), logger.clone());
             tokio::pin!(stream);
             let mut window_failed = false;
             while let Some(batch_res) = stream.next().await {

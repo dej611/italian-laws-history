@@ -53,7 +53,11 @@ pub struct NormattivaAtto {
     pub numero_supplemento: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub tipo_supplemento: Option<String>,
-    #[serde(default, skip_serializing_if = "Option::is_none", rename = "tipoSupplementoCode")]
+    #[serde(
+        default,
+        skip_serializing_if = "Option::is_none",
+        rename = "tipoSupplementoCode"
+    )]
     pub tipo_supplemento_code: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub tipo_provvedimento_codice: Option<String>,
@@ -255,7 +259,11 @@ pub struct AttoDto {
     pub giorno_gu: Option<u32>,
     #[serde(default, skip_serializing_if = "Option::is_none", rename = "numeroGU")]
     pub numero_gu: Option<u32>,
-    #[serde(default, skip_serializing_if = "Option::is_none", rename = "tipoSupplementoCode")]
+    #[serde(
+        default,
+        skip_serializing_if = "Option::is_none",
+        rename = "tipoSupplementoCode"
+    )]
     pub tipo_supplemento_code: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub numero_supplemento: Option<u32>,
@@ -295,7 +303,8 @@ pub struct DettaglioAttoResponse {
     pub data: Option<DettaglioAttoData>,
 }
 
-#[allow(dead_code)] // facets parsed for parity with the TS port; only `lista_atti` and `numero_pagine` are consumed today.
+#[allow(dead_code)]
+// facets parsed for parity with the TS port; only `lista_atti` and `numero_pagine` are consumed today.
 #[derive(Debug, Default, Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct RicercaResponse {

@@ -71,9 +71,7 @@ impl Logger for TuiLogger {
 /// Try to start the TUI. Returns `None` if the terminal isn't suitable
 /// (not a TTY, too small, or any setup error). The CI logger is used as
 /// fallback by `build_logger`.
-pub async fn try_start(
-    shutdown: ShutdownSignal,
-) -> Option<(TuiLogger, JoinHandle<()>)> {
+pub async fn try_start(shutdown: ShutdownSignal) -> Option<(TuiLogger, JoinHandle<()>)> {
     // Match the TS rule: width < 40 || height < 10 → fall back.
     let (cols, rows) = crossterm::terminal::size().ok()?;
     if cols < 40 || rows < 10 {
@@ -159,7 +157,9 @@ impl State {
                 .clone()
                 .or_else(|| a.data_gu.get(0..4).map(str::to_string));
             let Some(year) = year else { continue };
-            if year.len() < 4 { continue; }
+            if year.len() < 4 {
+                continue;
+            }
             let decade = format!("{}0", &year[0..3]);
             let t = a
                 .denominazione_atto
@@ -180,8 +180,10 @@ impl State {
             .take(15)
             .rev()
             .map(|(d, row)| {
-                let row_vec: Vec<u32> =
-                    types.iter().map(|t| row.get(t).copied().unwrap_or(0)).collect();
+                let row_vec: Vec<u32> = types
+                    .iter()
+                    .map(|t| row.get(t).copied().unwrap_or(0))
+                    .collect();
                 (format!("{d}s"), row_vec)
             })
             .collect()
@@ -190,7 +192,11 @@ impl State {
     fn ref_distribution(&self, max_buckets: usize) -> Vec<(String, u32)> {
         let mut raw = [0u32; 11];
         for a in &self.all_acts {
-            let r = self.ref_counts.get(&a.codice_redazionale).copied().unwrap_or(0);
+            let r = self
+                .ref_counts
+                .get(&a.codice_redazionale)
+                .copied()
+                .unwrap_or(0);
             raw[r.min(10) as usize] += 1;
         }
         let last = max_buckets.saturating_sub(1).max(1);
@@ -229,13 +235,20 @@ impl State {
             .map(|(i, label)| {
                 let count = counts.get(label).copied().unwrap_or(0);
                 let percent = ((count as f64 / total as f64) * 100.0).round() as u32;
-                (label.clone(), count, percent, TYPE_COLORS[i % TYPE_COLORS.len()])
+                (
+                    label.clone(),
+                    count,
+                    percent,
+                    TYPE_COLORS[i % TYPE_COLORS.len()],
+                )
             })
             .collect()
     }
 }
 
-fn buckets_label_threshold(_max: usize) -> usize { 100 } // every label except the last is a bare digit
+fn buckets_label_threshold(_max: usize) -> usize {
+    100
+} // every label except the last is a bare digit
 
 async fn run_loop(
     mut terminal: Terminal<CrosstermBackend<Stdout>>,
@@ -362,7 +375,9 @@ fn apply_msg_non_status(state: &mut State, msg: TuiMsg) -> bool {
         TuiMsg::Shutdown => return false,
         TuiMsg::Status(_) => {}
         TuiMsg::Log(s) => {
-            state.log.push_back(format!("[{}] {s}", Utc::now().to_rfc3339()));
+            state
+                .log
+                .push_back(format!("[{}] {s}", Utc::now().to_rfc3339()));
             while state.log.len() > LOG_CAP {
                 state.log.pop_front();
             }
@@ -384,7 +399,9 @@ fn apply_msg_non_status(state: &mut State, msg: TuiMsg) -> bool {
         TuiMsg::SeedCharts(versions) => {
             for (codice, entry) in versions {
                 if state.seen_codes.insert(codice.clone()) {
-                    state.ref_counts.insert(codice.clone(), entry.refs.unwrap_or(0));
+                    state
+                        .ref_counts
+                        .insert(codice.clone(), entry.refs.unwrap_or(0));
                     state.all_acts.push(NormattivaAtto {
                         codice_redazionale: codice,
                         data_gu: entry.date.clone(),
@@ -402,7 +419,10 @@ fn apply_msg_non_status(state: &mut State, msg: TuiMsg) -> bool {
 fn poll_user_quit() -> io::Result<bool> {
     if event::poll(Duration::from_millis(0))? {
         if let Event::Key(k) = event::read()? {
-            if matches!(k.code, KeyCode::Char('q')) || (k.code == KeyCode::Char('c') && k.modifiers.contains(event::KeyModifiers::CONTROL)) {
+            if matches!(k.code, KeyCode::Char('q'))
+                || (k.code == KeyCode::Char('c')
+                    && k.modifiers.contains(event::KeyModifiers::CONTROL))
+            {
                 return Ok(true);
             }
         }
@@ -415,7 +435,11 @@ fn draw(terminal: &mut Terminal<CrosstermBackend<Stdout>>, state: &State) -> io:
         let area = f.size();
         let outer = Layout::default()
             .direction(Direction::Vertical)
-            .constraints([Constraint::Min(8), Constraint::Length(7), Constraint::Length(3)])
+            .constraints([
+                Constraint::Min(8),
+                Constraint::Length(7),
+                Constraint::Length(3),
+            ])
             .split(area);
 
         let top = Layout::default()
@@ -448,7 +472,11 @@ fn draw(terminal: &mut Terminal<CrosstermBackend<Stdout>>, state: &State) -> io:
             })
             .collect();
         let list = List::new(items)
-            .block(Block::default().borders(Borders::ALL).title(" Atti aggiornati "))
+            .block(
+                Block::default()
+                    .borders(Borders::ALL)
+                    .title(" Atti aggiornati "),
+            )
             .highlight_style(Style::default().bg(Color::Blue));
         f.render_widget(list, top[0]);
 
@@ -495,7 +523,9 @@ fn render_decades(
     types: &[String],
     decades: &[(String, Vec<u32>)],
 ) {
-    let block = Block::default().borders(Borders::ALL).title(" Atti per decennio ");
+    let block = Block::default()
+        .borders(Borders::ALL)
+        .title(" Atti per decennio ");
     let inner = block.inner(area);
     f.render_widget(block, area);
 
@@ -534,11 +564,15 @@ fn render_ref_dist(
     area: ratatui::layout::Rect,
     dist: &[(String, u32)],
 ) {
-    let block = Block::default().borders(Borders::ALL).title(" Riferimenti per atto ");
+    let block = Block::default()
+        .borders(Borders::ALL)
+        .title(" Riferimenti per atto ");
     let inner = block.inner(area);
     f.render_widget(block, area);
 
-    if dist.is_empty() { return; }
+    if dist.is_empty() {
+        return;
+    }
     let bars: Vec<Bar> = dist
         .iter()
         .map(|(label, n)| {
@@ -560,21 +594,31 @@ fn render_type_dist(
     area: ratatui::layout::Rect,
     items: &[(String, u32, u32, Color)],
 ) {
-    let block = Block::default().borders(Borders::ALL).title(" Tipi di atti ");
+    let block = Block::default()
+        .borders(Borders::ALL)
+        .title(" Tipi di atti ");
     let inner = block.inner(area);
     f.render_widget(block, area);
 
-    if items.is_empty() { return; }
+    if items.is_empty() {
+        return;
+    }
     // Render as a stack of one-line gauges, then a final legend line.
     let mut constraints: Vec<Constraint> = items.iter().map(|_| Constraint::Length(1)).collect();
     constraints.push(Constraint::Min(1));
-    let rows = Layout::default().direction(Direction::Vertical).constraints(constraints).split(inner);
+    let rows = Layout::default()
+        .direction(Direction::Vertical)
+        .constraints(constraints)
+        .split(inner);
 
     for ((label, _count, percent, color), area) in items.iter().zip(rows.iter()) {
         let bar_width = ((*percent as usize) * area.width as usize / 100).min(area.width as usize);
         let filled: String = "█".repeat(bar_width);
         let line = Line::from(vec![
-            Span::styled(format!("{filled:<width$}", width = area.width as usize), Style::default().fg(*color)),
+            Span::styled(
+                format!("{filled:<width$}", width = area.width as usize),
+                Style::default().fg(*color),
+            ),
             Span::raw(format!(" {label} {percent}%")),
         ]);
         f.render_widget(Paragraph::new(line), *area);

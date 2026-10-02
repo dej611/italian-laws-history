@@ -108,7 +108,11 @@ impl Drop for Guard {
                 .frames
                 .iter()
                 .rev()
-                .map(|syms| syms.first().map(symbol_label).unwrap_or_else(|| "??".into()))
+                .map(|syms| {
+                    syms.first()
+                        .map(symbol_label)
+                        .unwrap_or_else(|| "??".into())
+                })
                 .collect();
 
             let mut parent: u32 = 1;

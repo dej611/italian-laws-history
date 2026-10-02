@@ -67,7 +67,10 @@ pub async fn build_logger(
             Some(fl) => Arc::new(file::FileLogWrapper::new(inner, fl)),
             None => inner,
         };
-        return Ok(LoggerHandle { logger, tui_task: None });
+        return Ok(LoggerHandle {
+            logger,
+            tui_task: None,
+        });
     }
 
     match tui::try_start(shutdown).await {
@@ -77,7 +80,10 @@ pub async fn build_logger(
                 Some(fl) => Arc::new(file::FileLogWrapper::new(inner, fl)),
                 None => inner,
             };
-            Ok(LoggerHandle { logger, tui_task: Some(handle) })
+            Ok(LoggerHandle {
+                logger,
+                tui_task: Some(handle),
+            })
         }
         None => {
             let inner: Arc<dyn Logger> = Arc::new(ci::CiLogger);
@@ -85,7 +91,10 @@ pub async fn build_logger(
                 Some(fl) => Arc::new(file::FileLogWrapper::new(inner, fl)),
                 None => inner,
             };
-            Ok(LoggerHandle { logger, tui_task: None })
+            Ok(LoggerHandle {
+                logger,
+                tui_task: None,
+            })
         }
     }
 }

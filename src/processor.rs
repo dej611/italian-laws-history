@@ -10,9 +10,7 @@ use tokio::fs;
 use tokio::sync::{watch, Semaphore};
 use tokio::task::JoinSet;
 
-use crate::api::allegato::{
-    elenco_urns, format_allegato_refs, parse_elenco_allegato,
-};
+use crate::api::allegato::{elenco_urns, format_allegato_refs, parse_elenco_allegato};
 use crate::api::detail::{
     fetch_act_detail_by_urn, fetch_act_status, fetch_act_with_allegati, fetch_conversion_law,
     resolve_malformed_urn, ActWithAllegati, AllegatoPart,
@@ -27,8 +25,8 @@ use crate::git::{branch_name_for, GitHelpers};
 use crate::http::SafeFetch;
 use crate::logger::{is_shutdown_requested, Logger};
 use crate::types::{
-    ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config, ConversionSearchContext,
-    NormattivaAtto, PendingAct,
+    ActStatus, ActVersionEntry, AttoDto, BranchableShort, Checkpoint, Config,
+    ConversionSearchContext, NormattivaAtto, PendingAct,
 };
 
 const SECS_PER_DAY: i64 = 24 * 60 * 60;
@@ -69,8 +67,12 @@ fn has_lapsed(act: &PendingAct, status: ActStatus) -> bool {
     // Acts without an automatic decadenza (pre-1926 RDL, 1944–46 DLL/DLCPS
     // waiting for the L. 561/1956 sanatoria) only lapse on explicit
     // abrogation, never by deadline alone.
-    let Some(deadline_days) = act.deadline_days else { return false };
-    let Some(parsed) = parse_iso_or_date(&act.data_gu) else { return false };
+    let Some(deadline_days) = act.deadline_days else {
+        return false;
+    };
+    let Some(parsed) = parse_iso_or_date(&act.data_gu) else {
+        return false;
+    };
     let now = Utc::now().timestamp();
     now - parsed > i64::from(deadline_days) * SECS_PER_DAY
 }
@@ -286,8 +288,7 @@ async fn write_allegato_text_files(
         let name = allegato_sibling_name(safe_file_name, a.index, "txt");
         let path = PathBuf::from(&deps.config.output_repo).join(&name);
         if let Err(err) = fs::write(&path, &a.plain).await {
-            deps.logger
-                .log(&format!("Errore scrittura {name}: {err}"));
+            deps.logger.log(&format!("Errore scrittura {name}: {err}"));
             continue;
         }
         written.push(name);
@@ -398,13 +399,26 @@ async fn write_relationship_files(
     }
 
     while let Some(joined) = set.join_next().await {
-        let Ok((urn, ref_atto_opt)) = joined else { continue };
-        let Some(ref_atto) = ref_atto_opt else { continue };
-        let Some(html) = ref_atto.testo_in_vigore.clone().or(ref_atto.articolo_html.clone())
-        else { continue };
-        if html.is_empty() { continue; }
+        let Ok((urn, ref_atto_opt)) = joined else {
+            continue;
+        };
+        let Some(ref_atto) = ref_atto_opt else {
+            continue;
+        };
+        let Some(html) = ref_atto
+            .testo_in_vigore
+            .clone()
+            .or(ref_atto.articolo_html.clone())
+        else {
+            continue;
+        };
+        if html.is_empty() {
+            continue;
+        }
         let plain = html_to_plain_text(&html);
-        if plain.is_empty() { continue; }
+        if plain.is_empty() {
+            continue;
+        }
         let ref_file_name = atto_file_name(&ref_atto, &urn);
         let ref_file_path: PathBuf = PathBuf::from(&deps.config.output_repo).join(&ref_file_name);
         if let Err(err) = fs::write(&ref_file_path, &plain).await {
@@ -417,7 +431,10 @@ async fn write_relationship_files(
 
     // Sequential: explicit modifier sidecars (typically 0–1 entries).
     if let Some(modifiers_str) = act.ultimi_atti_modificanti.as_deref() {
-        let modifiers: Vec<&str> = modifiers_str.split_whitespace().filter(|s| !s.is_empty()).collect();
+        let modifiers: Vec<&str> = modifiers_str
+            .split_whitespace()
+            .filter(|s| !s.is_empty())
+            .collect();
         for mod_codice in modifiers {
             let rel_file_name = format!("{safe_file_name}.modifiedby");
             let rel_path: PathBuf = PathBuf::from(&deps.config.output_repo).join(&rel_file_name);
@@ -570,7 +587,11 @@ fn sanatoria_publication_date(sanatoria: &SanatoriaLaw, checkpoint: &Checkpoint)
 /// Log a breakdown of pending provisional acts (active vs sanatoria-parked).
 pub fn log_pending_breakdown(checkpoint: &Checkpoint, logger: &dyn Logger) {
     let (active, parked) = pending_reconcile_counts(checkpoint);
-    let total = checkpoint.pending_acts.as_ref().map(|p| p.len()).unwrap_or(0);
+    let total = checkpoint
+        .pending_acts
+        .as_ref()
+        .map(|p| p.len())
+        .unwrap_or(0);
     if total == 0 {
         return;
     }
@@ -794,7 +815,8 @@ pub async fn migrate_misclassified_dll_pending(
         checkpoint.pending_acts = None;
     }
 
-    deps.logger.log(&format!("Migrazione DLL completata: {migrated} atti."));
+    deps.logger
+        .log(&format!("Migrazione DLL completata: {migrated} atti."));
     Ok(migrated)
 }
 
@@ -829,7 +851,10 @@ pub async fn retry_pending_sanatoria(
         ));
         match apply_sanatoria(sanatoria, &pub_date, checkpoint, deps).await {
             Ok(n) => {
-                deps.logger.log(&format!("Retry sanatoria {}: {n} rami chiusi", sanatoria.label));
+                deps.logger.log(&format!(
+                    "Retry sanatoria {}: {n} rami chiusi",
+                    sanatoria.label
+                ));
                 total += n;
             }
             Err(err) => {
@@ -949,154 +974,154 @@ pub async fn reconcile_pending_acts(
             )
             .await;
 
-        if let Some(conversion) = conv {
-            let merge_date = conversion
-                .data_emanazione
-                .as_deref()
-                .and_then(|s| s.split('T').next())
-                .map(str::to_string)
-                .unwrap_or_else(|| iso_to_date(&conversion.data_gu));
-            let merge_msg = format!(
-                "Convertito in legge: {}",
-                conversion
-                    .descrizione_atto
-                    .clone()
-                    .or_else(|| conversion.titolo_atto.clone())
-                    .unwrap_or_else(|| codice.clone())
-            );
-
-            deps.logger.log(&format!(
-                "{tag} {codice} convertito — merge in history ({merge_date})"
-            ));
-            deps.git
-                .merge_dl_branch(&act.branch_name, &merge_msg, &merge_date)
-                .await?;
-
-            let safe_file_name = build_file_name(
-                act.denominazione_atto.as_deref(),
-                act.numero_provvedimento.as_deref(),
-                None,
-                None,
-                act.anno_provvedimento.as_deref(),
-                &codice,
-            );
-
-            let act_stub = NormattivaAtto {
-                codice_redazionale: act.codice_redazionale.clone(),
-                data_gu: act.data_gu.clone(),
-                denominazione_atto: act.denominazione_atto.clone(),
-                numero_provvedimento: act.numero_provvedimento.clone(),
-                anno_provvedimento: act.anno_provvedimento.clone(),
-                ..Default::default()
-            };
-
-            if let Some(full) = fetch_act_with_allegati(
-                &act_stub,
-                &act.data_gu,
-                &deps.config,
-                &deps.safe_fetch,
-                deps.logger.as_ref(),
-                "@originale",
-            )
-            .await
-            {
-                let allegato_files =
-                    write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
-                let combined = full.combined_raw();
-                let ref_files = write_relationship_files(
-                    &codice,
-                    &act_stub,
-                    &combined,
-                    &full.allegati,
-                    &safe_file_name,
-                    &iso_to_date(&act.data_gu),
-                    updated_urns,
-                    deps,
-                    sem.clone(),
-                )
-                .await;
-                let mut all_files = allegato_files;
-                all_files.extend(ref_files);
-                if !all_files.is_empty() {
-                    let refs: Vec<&str> = all_files.iter().map(String::as_str).collect();
-                    deps.git
-                        .commit_local_multi(
-                            &refs,
-                            &format!("Riferimenti {tag} {codice}"),
-                            &merge_date,
-                        )
-                        .await?;
-                    deps.logger.log(&format!(
-                        "Committed {} refs for {tag} {codice}",
-                        all_files.len()
-                    ));
-                }
-            }
-
-            deps.git.delete_dl_branch(&act.branch_name).await?;
-            Ok(ReconcileOutcome::Done)
-        } else {
-            let status = fetch_act_status(
-                &NormattivaAtto {
-                    codice_redazionale: codice.clone(),
-                    data_gu: act.data_gu.clone(),
-                    ..Default::default()
-                },
-                &deps.config,
-                &deps.safe_fetch,
-                deps.logger.as_ref(),
-            )
-            .await;
-
-            if has_lapsed(&act, status) {
-                let today = Utc::now().format("%Y-%m-%d").to_string();
-                let decaduto_merge_date =
-                    merge_decaduto_date(&act.data_gu, act.deadline_days, &today);
-                let full_denom = act
-                    .denominazione_atto
+            if let Some(conversion) = conv {
+                let merge_date = conversion
+                    .data_emanazione
                     .as_deref()
+                    .and_then(|s| s.split('T').next())
                     .map(str::to_string)
-                    .unwrap_or_else(|| act.short.pretty().to_uppercase());
+                    .unwrap_or_else(|| iso_to_date(&conversion.data_gu));
                 let merge_msg = format!(
-                    "DECADUTO: {full_denom} {} n. {}",
-                    act.anno_provvedimento.as_deref().unwrap_or(""),
-                    act.numero_provvedimento.as_deref().unwrap_or(&codice),
+                    "Convertito in legge: {}",
+                    conversion
+                        .descrizione_atto
+                        .clone()
+                        .or_else(|| conversion.titolo_atto.clone())
+                        .unwrap_or_else(|| codice.clone())
                 );
+
                 deps.logger.log(&format!(
-                    "{tag} {codice} decaduto — merge DECADUTO in history"
+                    "{tag} {codice} convertito — merge in history ({merge_date})"
                 ));
+                deps.git
+                    .merge_dl_branch(&act.branch_name, &merge_msg, &merge_date)
+                    .await?;
 
-                deps.git.checkout_branch(&act.branch_name).await?;
-                let marker_name = marker_file_name(&codice, act.short);
-                let marker_path: PathBuf =
-                    PathBuf::from(&deps.config.output_repo).join(&marker_name);
-                fs::write(
-                    &marker_path,
-                    format!(
-                        "{} {codice} decaduto per mancata conversione.\n",
-                        act.short.pretty()
-                    ),
+                let safe_file_name = build_file_name(
+                    act.denominazione_atto.as_deref(),
+                    act.numero_provvedimento.as_deref(),
+                    None,
+                    None,
+                    act.anno_provvedimento.as_deref(),
+                    &codice,
+                );
+
+                let act_stub = NormattivaAtto {
+                    codice_redazionale: act.codice_redazionale.clone(),
+                    data_gu: act.data_gu.clone(),
+                    denominazione_atto: act.denominazione_atto.clone(),
+                    numero_provvedimento: act.numero_provvedimento.clone(),
+                    anno_provvedimento: act.anno_provvedimento.clone(),
+                    ..Default::default()
+                };
+
+                if let Some(full) = fetch_act_with_allegati(
+                    &act_stub,
+                    &act.data_gu,
+                    &deps.config,
+                    &deps.safe_fetch,
+                    deps.logger.as_ref(),
+                    "@originale",
                 )
-                .await?;
-                deps.git
-                    .commit_local(
-                        &marker_name,
-                        &format!("Marcatore: {tag} {codice} non convertito"),
-                        &decaduto_merge_date,
+                .await
+                {
+                    let allegato_files =
+                        write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
+                    let combined = full.combined_raw();
+                    let ref_files = write_relationship_files(
+                        &codice,
+                        &act_stub,
+                        &combined,
+                        &full.allegati,
+                        &safe_file_name,
+                        &iso_to_date(&act.data_gu),
+                        updated_urns,
+                        deps,
+                        sem.clone(),
                     )
-                    .await?;
+                    .await;
+                    let mut all_files = allegato_files;
+                    all_files.extend(ref_files);
+                    if !all_files.is_empty() {
+                        let refs: Vec<&str> = all_files.iter().map(String::as_str).collect();
+                        deps.git
+                            .commit_local_multi(
+                                &refs,
+                                &format!("Riferimenti {tag} {codice}"),
+                                &merge_date,
+                            )
+                            .await?;
+                        deps.logger.log(&format!(
+                            "Committed {} refs for {tag} {codice}",
+                            all_files.len()
+                        ));
+                    }
+                }
 
-                deps.git
-                    .merge_dl_branch(&act.branch_name, &merge_msg, &decaduto_merge_date)
-                    .await?;
                 deps.git.delete_dl_branch(&act.branch_name).await?;
                 Ok(ReconcileOutcome::Done)
             } else {
-                deps.logger
-                    .log(&format!("{tag} {codice} ancora in attesa di conversione."));
-                Ok(ReconcileOutcome::StillWaiting)
+                let status = fetch_act_status(
+                    &NormattivaAtto {
+                        codice_redazionale: codice.clone(),
+                        data_gu: act.data_gu.clone(),
+                        ..Default::default()
+                    },
+                    &deps.config,
+                    &deps.safe_fetch,
+                    deps.logger.as_ref(),
+                )
+                .await;
+
+                if has_lapsed(&act, status) {
+                    let today = Utc::now().format("%Y-%m-%d").to_string();
+                    let decaduto_merge_date =
+                        merge_decaduto_date(&act.data_gu, act.deadline_days, &today);
+                    let full_denom = act
+                        .denominazione_atto
+                        .as_deref()
+                        .map(str::to_string)
+                        .unwrap_or_else(|| act.short.pretty().to_uppercase());
+                    let merge_msg = format!(
+                        "DECADUTO: {full_denom} {} n. {}",
+                        act.anno_provvedimento.as_deref().unwrap_or(""),
+                        act.numero_provvedimento.as_deref().unwrap_or(&codice),
+                    );
+                    deps.logger.log(&format!(
+                        "{tag} {codice} decaduto — merge DECADUTO in history"
+                    ));
+
+                    deps.git.checkout_branch(&act.branch_name).await?;
+                    let marker_name = marker_file_name(&codice, act.short);
+                    let marker_path: PathBuf =
+                        PathBuf::from(&deps.config.output_repo).join(&marker_name);
+                    fs::write(
+                        &marker_path,
+                        format!(
+                            "{} {codice} decaduto per mancata conversione.\n",
+                            act.short.pretty()
+                        ),
+                    )
+                    .await?;
+                    deps.git
+                        .commit_local(
+                            &marker_name,
+                            &format!("Marcatore: {tag} {codice} non convertito"),
+                            &decaduto_merge_date,
+                        )
+                        .await?;
+
+                    deps.git
+                        .merge_dl_branch(&act.branch_name, &merge_msg, &decaduto_merge_date)
+                        .await?;
+                    deps.git.delete_dl_branch(&act.branch_name).await?;
+                    Ok(ReconcileOutcome::Done)
+                } else {
+                    deps.logger
+                        .log(&format!("{tag} {codice} ancora in attesa di conversione."));
+                    Ok(ReconcileOutcome::StillWaiting)
+                }
             }
-        }
         }
         .await;
 
@@ -1106,22 +1131,19 @@ pub async fn reconcile_pending_acts(
                 still_pending.insert(codice, act);
             }
             Err(err) => {
-                deps.logger.log(&format!(
-                    "Riconciliazione {tag} {codice} fallita: {err}"
-                ));
+                deps.logger
+                    .log(&format!("Riconciliazione {tag} {codice} fallita: {err}"));
                 still_pending.insert(codice, act);
                 // Clear any half-merged state before falling back to history,
                 // otherwise the next iteration's checkout will fail and the
                 // run will cascade-fail with "needs merge" / "unmerged files".
                 if let Err(e) = deps.git.abort_merge_if_any().await {
-                    deps.logger.log(&format!(
-                        "merge --abort dopo errore fallito: {e}"
-                    ));
+                    deps.logger
+                        .log(&format!("merge --abort dopo errore fallito: {e}"));
                 }
                 if let Err(e) = deps.git.checkout().await {
-                    deps.logger.log(&format!(
-                        "Checkout history dopo errore fallito: {e}"
-                    ));
+                    deps.logger
+                        .log(&format!("Checkout history dopo errore fallito: {e}"));
                 }
             }
         }
@@ -1184,8 +1206,13 @@ pub async fn process_batches(
         av.cmp(&bv)
     });
     for act in acts {
-        if !force && checkpoint.act_versions.contains_key(&act.codice_redazionale) {
-            deps.logger.log(&format!("Skipping {}", act.codice_redazionale));
+        if !force
+            && checkpoint
+                .act_versions
+                .contains_key(&act.codice_redazionale)
+        {
+            deps.logger
+                .log(&format!("Skipping {}", act.codice_redazionale));
         }
     }
 
@@ -1201,9 +1228,15 @@ pub async fn process_batches(
         set.spawn(async move {
             let permit = sem.acquire_owned().await.expect("semaphore");
             let at_date = act.data_gu.clone();
-            let result =
-                fetch_act_with_allegati(&act, &at_date, &config, &sf, logger.as_ref(), "@originale")
-                    .await;
+            let result = fetch_act_with_allegati(
+                &act,
+                &at_date,
+                &config,
+                &sf,
+                logger.as_ref(),
+                "@originale",
+            )
+            .await;
             drop(permit);
             (act, result)
         });
@@ -1239,10 +1272,19 @@ pub async fn process_batches(
             break;
         }
         let act_id = act.codice_redazionale.clone();
-        if let Err(err) =
-            commit_one_act(&act, result, checkpoint, deps, &mut updated_urns, sem.clone(), eta_ctx).await
+        if let Err(err) = commit_one_act(
+            &act,
+            result,
+            checkpoint,
+            deps,
+            &mut updated_urns,
+            sem.clone(),
+            eta_ctx,
+        )
+        .await
         {
-            deps.logger.log(&format!("Errore processing {act_id}: {err}"));
+            deps.logger
+                .log(&format!("Errore processing {act_id}: {err}"));
             save_checkpoint_atomic(&deps.config, checkpoint).await?;
         }
     }
@@ -1271,9 +1313,10 @@ async fn commit_one_act(
             "Testo non disponibile per {} @ {vigenza_date}.",
             act.codice_redazionale
         ));
-        checkpoint
-            .act_versions
-            .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), 0));
+        checkpoint.act_versions.insert(
+            act.codice_redazionale.clone(),
+            enriched_entry(act, act.data_gu.clone(), 0),
+        );
         update_progress_status(deps.logger.as_ref(), checkpoint, eta_ctx, None);
         return Ok(());
     };
@@ -1295,8 +1338,7 @@ async fn commit_one_act(
                 act.anno_provvedimento.as_deref(),
                 &act.codice_redazionale,
             );
-            let file_path: PathBuf =
-                PathBuf::from(&deps.config.output_repo).join(&safe_file_name);
+            let file_path: PathBuf = PathBuf::from(&deps.config.output_repo).join(&safe_file_name);
             let label = act.denominazione_atto.as_deref().unwrap_or("atto");
             let commit_msg = format!(
                 "GU {} - {} - {label} {}",
@@ -1361,7 +1403,9 @@ async fn commit_one_act(
                 let mut files: Vec<&str> = vec![safe_file_name.as_str()];
                 files.extend(allegato_files.iter().map(String::as_str));
                 files.extend(branch_ref_files.iter().map(String::as_str));
-                deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
+                deps.git
+                    .commit_local_multi(&files, &commit_msg, &commit_date)
+                    .await?;
                 let tag = branchable.short.upper();
                 deps.logger.log(&format!(
                     "Committed {tag} {} on branch {branch} (+ {} refs)",
@@ -1381,7 +1425,9 @@ async fn commit_one_act(
                     deadline_days: branchable.deadline_days,
                 };
                 let pending = ensure_pending_acts_migrated(checkpoint);
-                pending.entry(act.codice_redazionale.clone()).or_insert(entry);
+                pending
+                    .entry(act.codice_redazionale.clone())
+                    .or_insert(entry);
 
                 deps.git.checkout().await?;
             } else {
@@ -1404,7 +1450,9 @@ async fn commit_one_act(
                 let mut files: Vec<&str> = vec![safe_file_name.as_str()];
                 files.extend(allegato_files.iter().map(String::as_str));
                 files.extend(ref_files.iter().map(String::as_str));
-                deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
+                deps.git
+                    .commit_local_multi(&files, &commit_msg, &commit_date)
+                    .await?;
                 deps.logger.log(&format!(
                     "Committed {} (+ {} refs)",
                     act.codice_redazionale, ref_count
@@ -1413,9 +1461,10 @@ async fn commit_one_act(
         }
     }
 
-    checkpoint
-        .act_versions
-        .insert(act.codice_redazionale.clone(), enriched_entry(act, act.data_gu.clone(), ref_count));
+    checkpoint.act_versions.insert(
+        act.codice_redazionale.clone(),
+        enriched_entry(act, act.data_gu.clone(), ref_count),
+    );
     deps.logger.update_refs(&act.codice_redazionale, ref_count);
 
     // Bulk-ratification trigger: when the LEGGE we just committed is L. 473/1925
@@ -1456,15 +1505,22 @@ pub async fn process_modified_acts(
     eta_ctx: Option<&EtaContext>,
 ) -> Result<()> {
     let _span = tracing::info_span!("process", op = "processModifiedActs",
-        from = %from, to = %to).entered();
+        from = %from, to = %to)
+    .entered();
     if is_shutdown_requested(&deps.shutdown) {
         return Ok(());
     }
     let mut updated_urns: HashSet<String> = HashSet::new();
     let sem = Arc::new(Semaphore::new(num_cpus::get().max(1)));
 
-    let modified =
-        fetch_updated_acts(from, to, &deps.config, &deps.safe_fetch, deps.logger.as_ref()).await;
+    let modified = fetch_updated_acts(
+        from,
+        to,
+        &deps.config,
+        &deps.safe_fetch,
+        deps.logger.as_ref(),
+    )
+    .await;
     if modified.is_empty() {
         return Ok(());
     }
@@ -1475,7 +1531,9 @@ pub async fn process_modified_acts(
             let Some(committed) = checkpoint.act_versions.get(&act.codice_redazionale) else {
                 return false;
             };
-            let Some(mod_date) = act.data_ultima_modifica.as_deref() else { return false };
+            let Some(mod_date) = act.data_ultima_modifica.as_deref() else {
+                return false;
+            };
             committed.date.as_str() < mod_date
         })
         .collect();
@@ -1531,7 +1589,9 @@ pub async fn process_modified_acts(
             deps.logger.as_ref(),
             checkpoint,
             eta_ctx,
-            Some(&format!("Phase B — fetch testi {fetch_done}/{fetch_total}…")),
+            Some(&format!(
+                "Phase B — fetch testi {fetch_done}/{fetch_total}…"
+            )),
         );
         if let Ok(t) = j {
             fetched.push(t);
@@ -1561,9 +1621,16 @@ pub async fn process_modified_acts(
         }
 
         let act_id = act.codice_redazionale.clone();
-        let res =
-            commit_modification(&act, &full, &mod_date, checkpoint, deps, &mut updated_urns, sem.clone())
-                .await;
+        let res = commit_modification(
+            &act,
+            &full,
+            &mod_date,
+            checkpoint,
+            deps,
+            &mut updated_urns,
+            sem.clone(),
+        )
+        .await;
         if let Err(err) = res {
             deps.logger.log(&format!("Errore modifica {act_id}: {err}"));
             save_checkpoint_atomic(&deps.config, checkpoint).await?;
@@ -1597,7 +1664,10 @@ async fn commit_modification(
     let file_path = PathBuf::from(&deps.config.output_repo).join(&safe_file_name);
     let label = act.denominazione_atto.as_deref().unwrap_or("atto");
     let commit_date = iso_to_date(mod_date);
-    let commit_msg = format!("Modifica: {label} {} @ {commit_date}", act.codice_redazionale);
+    let commit_msg = format!(
+        "Modifica: {label} {} @ {commit_date}",
+        act.codice_redazionale
+    );
 
     fs::write(&file_path, &full.body_plain).await?;
     let allegato_files = write_allegato_text_files(&safe_file_name, &full.allegati, deps).await;
@@ -1618,7 +1688,9 @@ async fn commit_modification(
     let mut files: Vec<&str> = vec![safe_file_name.as_str()];
     files.extend(allegato_files.iter().map(String::as_str));
     files.extend(ref_files.iter().map(String::as_str));
-    deps.git.commit_local_multi(&files, &commit_msg, &commit_date).await?;
+    deps.git
+        .commit_local_multi(&files, &commit_msg, &commit_date)
+        .await?;
     deps.logger.log(&format!(
         "Committed modifica {} @ {commit_date} (+ {} refs)",
         act.codice_redazionale,
@@ -1626,9 +1698,10 @@ async fn commit_modification(
     ));
 
     let refs_count = ref_files.len() as u32;
-    checkpoint
-        .act_versions
-        .insert(act.codice_redazionale.clone(), enriched_entry(act, mod_date.to_string(), refs_count));
+    checkpoint.act_versions.insert(
+        act.codice_redazionale.clone(),
+        enriched_entry(act, mod_date.to_string(), refs_count),
+    );
     deps.logger.update_refs(&act.codice_redazionale, refs_count);
     Ok(())
 }
@@ -1716,15 +1789,26 @@ mod tests {
     fn date_in_range_handles_iso_datetime_prefix() {
         // ISO datetime strings (Normattiva sometimes returns them) are
         // compared by their leading 10-byte YYYY-MM-DD prefix.
-        assert!(date_in_range("1945-04-15T00:00:00Z", "1944-06-25", "1947-12-31"));
-        assert!(!date_in_range("1948-01-01T00:00:00Z", "1944-06-25", "1947-12-31"));
+        assert!(date_in_range(
+            "1945-04-15T00:00:00Z",
+            "1944-06-25",
+            "1947-12-31"
+        ));
+        assert!(!date_in_range(
+            "1948-01-01T00:00:00Z",
+            "1944-06-25",
+            "1947-12-31"
+        ));
     }
 
     #[test]
     fn marker_file_name_preserves_legacy_dl_format() {
         // Modern DL keeps the flat <codice>.decaduto for parity with the 418
         // existing markers in the corpus.
-        assert_eq!(marker_file_name("077U0019", BranchableShort::Dl), "077U0019.decaduto");
+        assert_eq!(
+            marker_file_name("077U0019", BranchableShort::Dl),
+            "077U0019.decaduto"
+        );
     }
 
     #[test]

@@ -89,7 +89,6 @@ trace-*.json
 *.html
 ";
 
-
 pub struct GitHelpers {
     config: Arc<Config>,
 }
@@ -134,7 +133,10 @@ impl GitHelpers {
         for (k, v) in self.base_env(commit_date) {
             cmd.env(k, v);
         }
-        let out = cmd.output().await.with_context(|| format!("spawning git {args:?}"))?;
+        let out = cmd
+            .output()
+            .await
+            .with_context(|| format!("spawning git {args:?}"))?;
         if !out.status.success() {
             return Err(anyhow!(
                 "git {:?} failed: {}",
@@ -154,7 +156,10 @@ impl GitHelpers {
             .stdin(Stdio::null())
             .stdout(Stdio::null())
             .stderr(Stdio::null());
-        let status = cmd.status().await.with_context(|| format!("spawning git {args:?}"))?;
+        let status = cmd
+            .status()
+            .await
+            .with_context(|| format!("spawning git {args:?}"))?;
         Ok(status.success())
     }
 
@@ -188,7 +193,8 @@ impl GitHelpers {
             .map(|l| l.trim_start_matches('*').trim())
             .any(|name| name == HISTORY_BRANCH);
         if !exists {
-            self.run(&["checkout", "--orphan", HISTORY_BRANCH], None).await?;
+            self.run(&["checkout", "--orphan", HISTORY_BRANCH], None)
+                .await?;
             // Best-effort wipe: ignore non-zero (empty index is fine).
             let _ = self.run_status(&["rm", "-rf", "."]).await;
 
@@ -326,21 +332,13 @@ impl GitHelpers {
     /// When git reports unrelated histories (common for sanatoria bulk merges
     /// after a history branch rebuild), retries with `--allow-unrelated-histories`.
     #[tracing::instrument(skip(self))]
-    pub async fn merge_dl_branch(
-        &self,
-        branch: &str,
-        message: &str,
-        iso_date: &str,
-    ) -> Result<()> {
+    pub async fn merge_dl_branch(&self, branch: &str, message: &str, iso_date: &str) -> Result<()> {
         let git_date = to_git_date(iso_date);
-        self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
+        self.run(&["checkout", HISTORY_BRANCH], Some(&git_date))
+            .await?;
 
-        let attempts: &[(bool, bool)] = &[
-            (false, false),
-            (true, false),
-            (true, true),
-            (false, true),
-        ];
+        let attempts: &[(bool, bool)] =
+            &[(false, false), (true, false), (true, true), (false, true)];
         let mut last_err: Option<anyhow::Error> = None;
         for (i, &(strategy_ours, allow_unrelated)) in attempts.iter().enumerate() {
             match self
@@ -393,7 +391,8 @@ impl GitHelpers {
             };
         }
         let git_date = to_git_date(iso_date);
-        self.run(&["checkout", HISTORY_BRANCH], Some(&git_date)).await?;
+        self.run(&["checkout", HISTORY_BRANCH], Some(&git_date))
+            .await?;
         let mut args: Vec<&str> = vec!["merge", "--no-ff", "-m", message];
         for b in branches {
             args.push(b.as_str());
@@ -520,7 +519,10 @@ mod tests {
 
     #[test]
     fn branch_name_for_has_no_rs_suffix() {
-        assert_eq!(branch_name_for(BranchableShort::Dl, "077U0019"), "dl/077U0019");
+        assert_eq!(
+            branch_name_for(BranchableShort::Dl, "077U0019"),
+            "dl/077U0019"
+        );
         assert_eq!(
             branch_name_for(BranchableShort::Dlcps, "046U0047"),
             "dlcps/046U0047"
@@ -578,8 +580,14 @@ mod tests {
 
         checkout_main_sync_for_repo(p.to_str().unwrap());
 
-        assert_eq!(current_branch_sync(p.to_str().unwrap()).as_deref(), Some(MAIN_BRANCH));
-        assert_eq!(std::fs::read_to_string(p.join("a.txt")).unwrap(), "local-wip\n");
+        assert_eq!(
+            current_branch_sync(p.to_str().unwrap()).as_deref(),
+            Some(MAIN_BRANCH)
+        );
+        assert_eq!(
+            std::fs::read_to_string(p.join("a.txt")).unwrap(),
+            "local-wip\n"
+        );
         assert!(!p.join(".git").join("index.lock").exists());
     }
 
@@ -601,7 +609,10 @@ mod tests {
 
         checkout_main_sync_for_repo(p.to_str().unwrap());
 
-        assert_eq!(current_branch_sync(p.to_str().unwrap()).as_deref(), Some(MAIN_BRANCH));
+        assert_eq!(
+            current_branch_sync(p.to_str().unwrap()).as_deref(),
+            Some(MAIN_BRANCH)
+        );
         assert!(!p.join(".git").join("MERGE_HEAD").exists());
     }
 }

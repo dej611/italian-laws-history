@@ -22,7 +22,10 @@ pub async fn save_checkpoint_atomic(config: &Config, cp: &Checkpoint) -> Result<
     let target = checkpoint_path(config);
     let tmp = target.with_extension(format!(
         "{}.tmp",
-        target.extension().and_then(|s| s.to_str()).unwrap_or("json")
+        target
+            .extension()
+            .and_then(|s| s.to_str())
+            .unwrap_or("json")
     ));
     let body = serde_json::to_vec(cp).context("serializing checkpoint")?;
     fs::write(&tmp, body)

@@ -40,7 +40,10 @@ async fn fetch_acts_page(
         },
     });
     let res: RicercaResponse = sf.post_json(&url, &body).await?;
-    Ok((res.lista_atti.unwrap_or_default(), res.numero_pagine.unwrap_or(1)))
+    Ok((
+        res.lista_atti.unwrap_or_default(),
+        res.numero_pagine.unwrap_or(1),
+    ))
 }
 
 /// Async stream that paginates a single `[from, to)` window, yielding each
@@ -128,7 +131,8 @@ pub async fn fetch_updated_acts(
     logger: &dyn Logger,
 ) -> Vec<NormattivaAtto> {
     let _span = tracing::info_span!("api", op = "fetchUpdatedActs",
-        from = %from, to = %to).entered();
+        from = %from, to = %to)
+    .entered();
     let url = format!("{}/api/v1/ricerca/aggiornati", config.api_base);
     let mut acts: Vec<NormattivaAtto> = Vec::new();
     let mut page: u32 = 0;
@@ -147,14 +151,14 @@ pub async fn fetch_updated_acts(
             Ok(res) => {
                 total_pages = res.numero_pagine.unwrap_or(1);
                 let batch = res.lista_atti.unwrap_or_default();
-                if batch.is_empty() { break; }
+                if batch.is_empty() {
+                    break;
+                }
                 acts.extend(batch);
                 page += 1;
             }
             Err(err) => {
-                logger.log(&format!(
-                    "fetchUpdatedActs fallito [{from} – {to}]: {err}"
-                ));
+                logger.log(&format!("fetchUpdatedActs fallito [{from} – {to}]: {err}"));
                 return acts;
             }
         }
@@ -166,5 +170,7 @@ trait NaiveDateYearCe {
     fn year_ce(&self) -> (bool, u32);
 }
 impl NaiveDateYearCe for NaiveDate {
-    fn year_ce(&self) -> (bool, u32) { chrono::Datelike::year_ce(self) }
+    fn year_ce(&self) -> (bool, u32) {
+        chrono::Datelike::year_ce(self)
+    }
 }

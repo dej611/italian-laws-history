@@ -79,10 +79,7 @@ mod tests {
     fn idx(until: &str, pairs: &[(&str, bool)]) -> AllegatiIndex {
         AllegatiIndex {
             data_until: until.to_string(),
-            allegati: pairs
-                .iter()
-                .map(|(k, v)| ((*k).to_string(), *v))
-                .collect(),
+            allegati: pairs.iter().map(|(k, v)| ((*k).to_string(), *v)).collect(),
         }
     }
 

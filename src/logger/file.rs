@@ -20,7 +20,9 @@ impl FileLog {
         let path: PathBuf = PathBuf::from(dir).join(format!("processing-{date}-rs.log"));
         let mut f = OpenOptions::new().create(true).append(true).open(&path)?;
         writeln!(f, "\n=== Run started {} ===", Utc::now().to_rfc3339())?;
-        Ok(Self { file: Mutex::new(f) })
+        Ok(Self {
+            file: Mutex::new(f),
+        })
     }
 
     fn write(&self, msg: &str) {
@@ -57,7 +59,8 @@ impl Logger for FileLogWrapper {
     }
     fn update_list(&self, items: &[NormattivaAtto]) {
         self.inner.update_list(items);
-        self.file.write(&format!("Trovati {} atti aggiornati", items.len()));
+        self.file
+            .write(&format!("Trovati {} atti aggiornati", items.len()));
     }
     fn seed_charts(&self, versions: &HashMap<String, ActVersionEntry>) {
         self.inner.seed_charts(versions);
