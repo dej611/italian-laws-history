@@ -109,7 +109,9 @@ TABELLA DELLE CIRCOSCRIZIONI DEI COLLEGI DELLA REGIONE TRENTINO-ALTO ADIGE PER L
  Villa Agnedo; Ziano di Fiemme. 
  
 
- 4. - COLLEGIO DI BOLZANO 
+ 
+ 
+ ((4. - COLLEGIO DI BOLZANO 
  
 
  (Tribunale di Bolzano) 
@@ -118,19 +120,11 @@ TABELLA DELLE CIRCOSCRIZIONI DEI COLLEGI DELLA REGIONE TRENTINO-ALTO ADIGE PER L
  Comprende i seguenti comuni della provincia di Bolzano: 
  
 
- Aldino; Anterivo; Appiano sulla strada del vino; Bolzano;
+ Bolzano; Laives.))
  
 
- Bronzolo; Caldaro sulla strada del vino; Cornedo all'Isarco;
  
-
- Cortaccia sulla strada del vino; Cortina sulla strada del vino; Egna; 
- 
-
- Laives; Magrè sulla strada del vino; Montagna; Ora; Salorno; Termeno sulla strada del vino; Trodena; Vadena. 
- 
-
- 5. - COLLEGIO DI MERANO 
+ ((5. - COLLEGIO DI MERANO 
  
 
  (Tribunale di Bolzano) 
@@ -139,19 +133,32 @@ TABELLA DELLE CIRCOSCRIZIONI DEI COLLEGI DELLA REGIONE TRENTINO-ALTO ADIGE PER L
  Comprende i seguenti comuni della provincia di Bolzano: 
  
 
- Andriano; Avelengo; Caines; Castelbello-Ciardes; Cermes; Curon Venosta; Gargazzone; Glorenza; Laces; Lagundo; Lana; Lasa; Lauregno;
+ Aldino; Andriano; Anterivo; Appiano sulla strada del vino;
  
 
- Malles Venosta; Marlengo; Martello; Meltina; Merano; Moso in Passiria; Nalles; Naturno; Parcines; Plaus; Postal; Prato allo Stelvio; Proves; Rifiano; San Genesio Atesino; San Leonardo in Passiria; San Martino in Passiria; San Pancrazio; Sarentino; Scena;
+ Avelengo; Bronzolo; Caines; Caldaro sulla strada del vino;
  
 
- Senales; Senale San Felice; Silandro; Sluderno; Stelvio, Terlano;
+ Castelbello-Ciardes; Cermes; Cortaccia sulla strada del vino; Cortina sulla strada del vino; Curon Venosta; Egna; Gargazzone; Glorenza;
  
 
- Tesimo; Tirolo; Tubre; Ultimo; Verano. 
+ Laces; Lagundo; Lana; Lasa; Lauregno; Magrè sulla strada del vino;
  
 
- 6. - COLLEGIO DI BRESSANONE 
+ Malles Venosta; Marlengo; Martello; Meltina; Merano; Montagna sulla strada del vino; Moso in Passiria; Nalles; Naturno; Ora; Parcines;
+ 
+
+ Plaus; Postal; Prato allo Stelvio; Proves; Rifiano; Salorno sulla strada del vino; San Genesio Atesino; San Leonardo in Passiria; San Martino in Passiria; San Pancrazio; Sarentino; Scena; Senales;
+ 
+
+ Senale-San Felice; Silandro; Sluderno; Stelvio; Terlano; Termeno sulla strada del vino; Tesimo; Tirolo; Trodena nel parco naturale;
+ 
+
+ Tubre; Ultimo; Vadena; Verano.))
+ 
+
+ 
+ ((6. - COLLEGIO DI BRESSANONE 
  
 
  (Tribunale di Bolzano) 
@@ -160,10 +167,25 @@ TABELLA DELLE CIRCOSCRIZIONI DEI COLLEGI DELLA REGIONE TRENTINO-ALTO ADIGE PER L
  Comprende i seguenti comuni della provincia di Bolzano: 
  
 
- Badia; Barbiano; Braies; Brennero; Bressanone; Brunico; Campo di Trens; Campo Tures; Castelrotto; Chienes; Chiusa; Corvara in Badia;
+ Badia; Barbiano; Braies; Brennero; Bressanone; Brunico; Campo di Trens; Campo Tures; Castelrotto; Chienes; Chiusa; Cornedo all'Isarco;
  
 
- Dobbiaco; Falzes; Fiè allo Sciliar; Fortezza; Funes; Gais; Laion; La Valle; Luson; Marebbe; Monguelfo; Naz-Sciaves; Nova Levante; Nova Ponente; Ortisei; Perca; Ponte Gardena; Predoi; Racines; Rasun- Anterselva; Renon; Rio di Pusteria; Rodengo; San Candido; San Lorenzo di Sebato; San Martino in Badia; Santa Cristina Valgardena; Selva dei Molini; Selva di Val Gardena; Sesto; Terento; Tires; Valdaora; Val di Vizze; Valle Aurina; Valle di Casies; Vandoies; Varna; Velturno;
+ Corvara in Badia; Dobbiaco; Falzes; Fiè allo Sciliar; Fortezza;
  
 
- Villabassa; Villandro; Vipiteno.
+ Funes; Gais; Laion; La Valle; Luson; Marebbe; Monguelfo-Tesido;
+ 
+
+ Naz-Sciaves; Nova Levante; Nova Ponente; Ortisei; Perca; Ponte Gardena; Predoi; Racines; Rasun-Anterselva; Renon; Rio di Pusteria;
+ 
+
+ Rodengo; San Candido; San Lorenzo di Sebato; San Martino in Badia;
+ 
+
+ Santa Cristina Valgardena; Selva dei Molini; Selva di Val Gardena;
+ 
+
+ Sesto; Terento; Tires; Valdaora; Val di Vizze; Valle Aurina; Valle di Casies; Vandoies; Varna; Velturno; Villabassa; Villandro; Vipiteno))
+ 
+
+ .
