@@ -16581,9 +16581,19 @@ Regione: Lombardia
 Regione: Trentino-Alto Adige/S&uuml;dtirol 
  
 
+ 
  Circoscrizione: Trentino-Alto Adige/S&uuml;dtirol 
  
 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
  
  
 
@@ -17148,7 +17158,6 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
 
  
  
- 
 
  
  +--------+---------------+
@@ -17578,7 +17587,6 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  +-------------------------+
  
 
- 
  
  
 
@@ -18060,14 +18068,13 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
 
  
  
- 
 
  
  +--------+---------------+
  
 
  
- |Trentino| |
+ ((|Trentino| |
  
 
  
@@ -18091,7 +18098,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Aldino/Aldein |
+ |Bolzano/ Bozen |
  
 
  
@@ -18099,210 +18106,13 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Anterivo/Altrei |
+ |Laives/ Leifers |))
  
 
  
  +-------------------------+
  
 
- 
- |Appiano sulla strada del |
- 
-
- 
- |vino/Eppan an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Bolzano/Bozen |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Bronzolo/Branzoll |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Caldaro sulla strada del |
- 
-
- 
- |vino/Kaltern an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Cornedo all'Isarco / |
- 
-
- 
- |Karneid |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Cortaccia sulla strada |
- 
-
- 
- |del vino/Kurtatsch an der|
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Cortina sulla strada del |
- 
-
- 
- |vino/Kurtinig an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Egna/Neumarkt |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Laives/Leifers |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Magrè sulla strada del |
- 
-
- 
- |vino/Margreid an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Montagna/Montan |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Ora/Auer |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Salorno sulla strada del |
- 
-
- 
- |vino/Salurn an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Termeno sulla strada del |
- 
-
- 
- |vino/Tramin an der |
- 
-
- 
- |Weinstra&szlig;e |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Trodena nel parco |
- 
-
- 
- |naturale/Truden im |
- 
-
- 
- |Naturpark |
- 
-
- 
- +-------------------------+
- 
-
- 
- |Vadena/Pfatten |
- 
-
- 
- +-------------------------+
- 
-
- 
  
  
 
@@ -18311,7 +18121,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Trentino| |
+ ((|Trentino| |
  
 
  
@@ -18335,7 +18145,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Andriano/Andrian |
+ |Aldino/ Aldein |
  
 
  
@@ -18343,7 +18153,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Avelengo/Hafling |
+ |Andriano/ Andrian |
  
 
  
@@ -18351,7 +18161,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Caines/Kuens |
+ |Anterivo/ Altrei |
  
 
  
@@ -18359,19 +18169,15 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Castelbello - Ciardes / |
+ |Appiano sulla strada del |
  
 
  
- |Kastelbell - Tschars |
+ |vino/ Eppan an der |
  
 
  
- +-------------------------+
- 
-
- 
- |Cermes/Tscherms |
+ |Weinstra&szlig;e |
  
 
  
@@ -18379,7 +18185,99 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Curon Venosta/Graun im |
+ |Avelengo/ Hafling |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Bronzolo/ Branzoll |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Caines/ Kuens |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Caldaro sulla strada del |
+ 
+
+ 
+ |vino/ Kaltern an der |
+ 
+
+ 
+ |Weinstra&szlig;e |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Castel- bello-Ciardes/ |
+ 
+
+ 
+ |Kastelbell-Tschars |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Cermes/ Tscherms |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Cortaccia sulla strada |
+ 
+
+ 
+ |del vino/ Kurtatsch an |
+ 
+
+ 
+ |der Weinstra&szlig;e |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Cortina sulla strada del |
+ 
+
+ 
+ |vino/ Kurtinig an der |
+ 
+
+ 
+ |Weinstra&szlig;e |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Curon Venosta/ Graun im |
  
 
  
@@ -18391,7 +18289,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Gargazzone/Gargazon |
+ |Egna/ Neumarkt |
  
 
  
@@ -18399,7 +18297,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Glorenza/Glurns |
+ |Gargazzone/ Gargazon |
  
 
  
@@ -18407,7 +18305,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Laces/Latsch |
+ |Glorenza/ Glurns |
  
 
  
@@ -18415,7 +18313,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Lagundo/Algund |
+ |Laces/ Latsch |
  
 
  
@@ -18423,7 +18321,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Lana/Lana |
+ |Lagundo/ Algund |
  
 
  
@@ -18431,7 +18329,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Lasa/Laas |
+ |Lana/ Lana |
  
 
  
@@ -18439,7 +18337,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Lauregno/Laurein |
+ |Lasa/ Laas |
  
 
  
@@ -18447,7 +18345,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Malles Venosta/Mals |
+ |Lauregno/ Laurein |
  
 
  
@@ -18455,7 +18353,15 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Marlengo/Marling |
+ |Magrè sulla strada del |
+ 
+
+ 
+ |vino/ Margreid an der |
+ 
+
+ 
+ |Weinstra&szlig;e |
  
 
  
@@ -18463,7 +18369,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Martello/Martell |
+ |Malles Venosta/ Mals |
  
 
  
@@ -18471,7 +18377,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Meltina/M&ouml;lten |
+ |Marlengo/ Marling |
  
 
  
@@ -18479,7 +18385,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Merano/Meran |
+ |Martello/ Martell |
  
 
  
@@ -18487,7 +18393,39 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Moso in Passiria/Moos in |
+ |Meltina/ M&ouml;lten |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Merano/ Meran |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Montagna sulla strada del|
+ 
+
+ 
+ |vino/ Montan an der |
+ 
+
+ 
+ |Weinstra&szlig;e |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Moso in Passiria/ Moos in|
  
 
  
@@ -18499,7 +18437,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Nalles/Nals |
+ |Nalles/ Nals |
  
 
  
@@ -18507,7 +18445,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Naturno/Naturns |
+ |Naturno/ Naturns |
  
 
  
@@ -18515,7 +18453,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Parcines/Partschins |
+ |Ora/ Auer |
  
 
  
@@ -18523,7 +18461,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Plaus/Plaus |
+ |Parcines/ Partschins |
  
 
  
@@ -18531,7 +18469,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Postal/Burgstall |
+ |Plaus/ Plaus |
  
 
  
@@ -18539,7 +18477,15 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Prato allo Stelvio/Prad |
+ |Postal/ Burgstall |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Prato allo Stelvio/ Prad |
  
 
  
@@ -18551,7 +18497,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Proves/Proveis |
+ |Proves/ Proveis |
  
 
  
@@ -18559,7 +18505,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Rifiano/Riffian |
+ |Rifiano/ Riffian |
  
 
  
@@ -18567,27 +18513,15 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |San Genesio |
+ |Salorno sulla strada del |
  
 
  
- |Atesino/Jenesien |
+ |vino/ Salurn an der |
  
 
  
- +-------------------------+
- 
-
- 
- |San Leonardo in |
- 
-
- 
- |Passiria/St. Leonhard in |
- 
-
- 
- |Passeier |
+ |Weinstra&szlig;e |
  
 
  
@@ -18595,15 +18529,11 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |San Martino in |
+ |San Genesio Atesino/ |
  
 
  
- |Passiria/St. Martin in |
- 
-
- 
- |Passeier |
+ |Jenesien |
  
 
  
@@ -18611,7 +18541,11 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |San Pancrazio/St. Pankraz|
+ |San Leonardo in Passiria/|
+ 
+
+ 
+ |St. Leonhard in Passeier |
  
 
  
@@ -18619,7 +18553,11 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Sarentino/Sarntal |
+ |San Martino in Passiria/ |
+ 
+
+ 
+ |St. Martin in Passeier |
  
 
  
@@ -18627,7 +18565,11 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Scena/Schenna |
+ |San Pancrazio/ St. |
+ 
+
+ 
+ |Pankraz |
  
 
  
@@ -18635,7 +18577,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Senales/Schnals |
+ |Sarentino/ Sarntal |
  
 
  
@@ -18643,15 +18585,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Senale-San Felice / |
- 
-
- 
- |Unsere Liebe Frau im |
- 
-
- 
- |Walde-St. Felix |
+ |Scena/ Schenna |
  
 
  
@@ -18659,7 +18593,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Silandro/Schlanders |
+ |Senales/ Schnals |
  
 
  
@@ -18667,7 +18601,23 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Sluderno/Schluderns |
+ |Senale-San Felice/ Unsere|
+ 
+
+ 
+ |Liebe Frau im Walde- St. |
+ 
+
+ 
+ | Felix |
+ 
+
+ 
+ +-------------------------+ 
+ 
+
+ 
+ |Silandro/ Schlanders |
  
 
  
@@ -18675,7 +18625,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Stelvio/Stilfs |
+ |Sluderno/ Schluderns |
  
 
  
@@ -18683,7 +18633,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Terlano/Terlan |
+ |Stelvio/ Stilfs |
  
 
  
@@ -18691,7 +18641,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Tesimo/Tisens |
+ |Terlano/ Terlan |
  
 
  
@@ -18699,7 +18649,15 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Tirolo/Tirol |
+ |Termeno sulla strada del |
+ 
+
+ 
+ |vino/ Tramin an der |
+ 
+
+ 
+ |Weinstra&szlig;e |
  
 
  
@@ -18707,7 +18665,39 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Tubre/Taufers im |
+ |Tesimo/ Tisens |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ | Tirolo/ Tirol |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Trodena nel parco |
+ 
+
+ 
+ |naturale/Truden im |
+ 
+
+ 
+ |Naturpark |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Tubre/ Taufers im |
  
 
  
@@ -18719,7 +18709,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Ultimo/Ulten |
+ |Ultimo/ Ulten |
  
 
  
@@ -18727,7 +18717,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Verano/V&ouml;ran |
+ |Vadena/ Pfatten |
  
 
  
@@ -18735,7 +18725,11 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
+ | Verano/ V&ouml;ran |))
  
+
+ 
+ +-------------------------+ 
  
 
  
@@ -18743,7 +18737,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Trentino| |
+ ((|Trentino| |
  
 
  
@@ -18835,7 +18829,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Castelrotto/Kastelruth |
+ |Castel- rotto/Kastelruth |
  
 
  
@@ -18852,6 +18846,18 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
 
  
  |Chiusa/Klausen |
+ 
+
+ 
+ +-------------------------+
+ 
+
+ 
+ |Cornedo all'Isarco/ |
+ 
+
+ 
+ |Karneid |
  
 
  
@@ -18919,7 +18925,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |La Valle/Wengen |
+ |Laion/Lajen |
  
 
  
@@ -18927,7 +18933,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Laion/Lajen |
+ |La Valle/Wengen |
  
 
  
@@ -19159,7 +19165,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Val di Vizze/Pfitsch |
+ |Valdaora/Olang |
  
 
  
@@ -19167,7 +19173,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- |Valdaora/Olang |
+ |Val di Vizze/Pfitsch |
  
 
  
@@ -19235,7 +19241,7 @@ Regione: Trentino-Alto Adige/S&uuml;dtirol
  
 
  
- +-------------------------+
+ +-------------------------+])
 Regione: Veneto 
  
 
