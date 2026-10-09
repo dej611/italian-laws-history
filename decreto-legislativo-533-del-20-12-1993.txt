@@ -59,7 +59,10 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. Il Senato della Repubblica è eletto su base regionale. Salvo i seggi assegnati alla circoscrizione Estero, i seggi sono ripartiti tra le regioni a norma dell'articolo 57 della Costituzione sulla base dei risultati dell'ultimo censimento generale della popolazione, riportati dalla più recente pubblicazione ufficiale dell'Istituto nazionale di statistica, con decreto del Presidente della Repubblica, da emanare, su proposta del Ministro dell'interno, previa deliberazione del Consiglio dei ministri, contemporaneamente al decreto di convocazione dei comizi. 
+ 1. Il Senato della Repubblica è eletto su base regionale. Salvo i seggi assegnati alla circoscrizione Estero, i seggi sono ripartiti tra le regioni a norma dell'articolo 57 della Costituzione sulla base dei risultati 
+ ((riportati nell'ultimo decreto del Presidente della Repubblica che fissa, a scadenza quinquennale e ai soli fini elettorali, i dati del censimento permanente della popolazione a livello comunale))
+
+ , con decreto del Presidente della Repubblica, da emanare, su proposta del Ministro dell'interno, previa deliberazione del Consiglio dei ministri, contemporaneamente al decreto di convocazione dei comizi. 
  
 
  
@@ -68,20 +71,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  2. 
- ((Il territorio nazionale è suddiviso in un numero di collegi uninominali pari ai tre ottavi del totale dei seggi da eleggere nelle circoscrizioni regionali, con arrotondamento all'unità più prossima, assicurandone uno per ogni circoscrizione. Fatti salvi i collegi uninominali delle regioni che eleggono un solo senatore e quelli del Trentino-Alto Adige/S&uuml;dtirol, i))
+ ((Fatti salvi i collegi uninominali delle regioni Valle d'Aosta/Vallee d'Aoste e Trentino-Alto Adige/S&uuml;dtirol, per l'assegnazione degli altri seggi ciascuna circoscrizione regionale è ripartita nei collegi plurinominali di cui alla tabella B.2 allegata al decreto legislativo 23 dicembre 2020, n. 177. L'assegnazione dei seggi alle liste e alle coalizioni di liste nei collegi plurinominali è effettuata con metodo proporzionale, con l'eventuale attribuzione di un premio di governabilità da assegnare, alle condizioni previste dall'articolo 16-bis, alla lista singola o alla coalizione di liste che abbia conseguito il maggior numero di voti validi a livello nazionale in entrambe le Camere e che abbia conseguito almeno il 42 per cento di voti validi in ciascuna di esse. Il premio di governabilità è assegnato, nelle diverse circoscrizioni regionali, a liste circoscrizionali appositamente presentate, ai sensi dell'articolo 9, comma 2, per un totale di trentacinque seggi complessivi. Alla lista singola o alla coalizione di liste assegnataria del premio di governabilità non possono comunque essere attribuiti più di centotredici seggi complessivi, ad esclusione dei seggi conseguiti nella circoscrizione Estero))
 
- restanti collegi uninominali sono ripartiti nelle altre regioni proporzionalmente alla rispettiva popolazione. In tali collegi uninominali risulta eletto il candidato che ha riportato il maggior numero di voti validi. 
- 
-
- 
- 
- 
-
- 
- 2-bis. Per la assegnazione degli altri seggi ciascuna circoscrizione regionale è ripartita in collegi plurinominali costituiti, di norma, dall'aggregazione del territorio di collegi uninominali contigui e tali che a ciascuno di essi sia assegnato, di norma, un numero di seggi non inferiore a due e non superiore a otto.
- 
-
- L'assegnazione dei seggi alle liste e alle coalizioni di liste nei collegi plurinominali si effettua con metodo proporzionale, ai sensi dell'articolo 17. 
+ . 
  
 
  
@@ -89,29 +81,84 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 2-ter. Con il medesimo decreto del Presidente della Repubblica di cui al comma 1, sulla base dei risultati dell'ultimo censimento generale della popolazione, riportati dalla più recente pubblicazione ufficiale dell'Istituto nazionale di statistica, è determinato il numero complessivo di seggi da attribuire in ciascuna circoscrizione regionale nei collegi plurinominali, compresi i seggi spettanti ai collegi uninominali. 
+ 2-bis. 
+ ((COMMA ABROGATO DALLA LEGGE 9 OTTOBRE 2026, N. 180))
+
+ . 
  
 
  
  
+ 
+
+ 
+ 
+ 
+ 2-ter. 
+ ((Con il medesimo decreto del Presidente della Repubblica di cui al comma 1, sulla base dei risultati riportati nell'ultimo decreto del Presidente della Repubblica che fissa, a scadenza quinquennale e ai soli fini elettorali, i dati del censimento permanente della popolazione a livello comunale, e con esclusione delle regioni Valle d'Aosta/Vallee d'Aoste e Trentino-Alto Adige/S&uuml;dtirol, sono determinate:))
+
+ 
+
+ 
+ a) 
+ ((la distribuzione tra le regioni di un numero complessivo di trentacinque seggi, da assegnare quale premio di governabilità, alle condizioni previste dall'articolo 16-bis;))
+
+ 
+
+ 
+ b) 
+ ((per il caso di attribuzione del premio di governabilità, la distribuzione tra i collegi plurinominali di ciascuna circoscrizione regionale dei seggi a questa spettanti ai sensi della distribuzione di cui al comma 1, detratti quelli di cui alla lettera a) del presente comma;))
+
+ 
+
+ 
+ c) 
+ ((per il caso di mancata attribuzione del premio di governabilità, la distribuzione tra i collegi plurinominali di ciascuna circoscrizione regionale di tutti i seggi a questa spettanti ai sensi della distribuzione di cui al comma 1))
+
+ . 
+ 
+
+ 
+ 
+
+ 
+
  
 
  
  3. 
- ((Le regioni che eleggono un solo senatore sono costituite))
+ ((La regione Valle d'Aosta/Vallee d'Aoste è costituita in un unico collegio uninominale))
 
- in unico collegio uninominale. 
- 
-
- 
- 
+ . 
  
 
  
- 4. La regione Trentino-Alto Adige è costituita in sei collegi uninominali definiti ai sensi della legge 30 dicembre 1991, n. 422 
- ((, ovvero in un numero di collegi uninominali individuato nel numero pari più alto nel limite dei seggi assegnati alla regione))
+ 
+ 
 
- . La restante quota di seggi spettanti alla regione è attribuita con metodo del recupero proporzionale. 
+ 
+ 4. 
+ ((La regione Trentino-Alto Adige/S&uuml;dtirol è costituita in sei collegi uninominali definiti ai sensi della legge 30 dicembre 1991, n. 422))
+
+ . 
+ 
+
+ 
+ 
+ 
+
+ 
+ 4-bis. 
+ ((I voti espressi nelle regioni di cui ai commi 3 e 4 sono computati nella determinazione delle cifre elettorali nazionali delle liste e delle coalizioni di liste nonchè del totale dei voti validi nazionali esclusivamente ai fini indicati dall'articolo 16-bis, comma 1-sexies. I seggi attribuiti nelle medesime regioni sono computati ai fini della verifica di cui all'articolo 16-bis, comma 1, lettera f-bis).))
+
+ 
+ 
+
+ 
+ 4-ter. 
+ ((Con riferimento alle regioni di cui ai commi 3 e 4, con il termine "lista" si intende il partito o il gruppo politico organizzato che abbia depositato il contrassegno ai sensi dell'articolo 14 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, cui i candidati nei collegi uninominali delle medesime regioni sono tenuti a collegarsi ai fini indicati dall'articolo 16-bis, comma 1-sexies, anche nel caso in cui tale partito o gruppo politico organizzato non presenti candidature in altre regioni))
+
+ . 
  
 
  
