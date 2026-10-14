@@ -9,6 +9,8 @@ and records each modification as a git commit.
 | -------------------- | ----------------------- |
 | Source code branch   | `main`                  |
 | Data branch          | `history`               |
+| Normoscopio source   | `explore`               |
+| Normoscopio site     | `gh-pages`              |
 | Provisional DL       | `dl/<codice>`           |
 | Provisional RDL      | `rdl/<codice>`          |
 | Provisional DLL      | `dll/<codice>`          |
@@ -193,3 +195,7 @@ cargo build --release    # optimized binary
 [.github/workflows/daily-scrape.yml](.github/workflows/daily-scrape.yml) runs
 the binary daily at 12:00 UTC on the `main` branch with `--ci`. The
 `progress-rs.json` checkpoint is cached across runs.
+
+[.github/workflows/pages.yml](.github/workflows/pages.yml) then checks out
+`explore`, rebuilds Normoscopio from that checkpoint and the `history`
+branch, and publishes `dist/` to `gh-pages`.
