@@ -2,7 +2,6 @@
 target/
 
 # Runtime artefacts written by the binary at the repo root
-progress-rs.json
 progress-rs.json.tmp
 progress.json
 progress.json.tmp
@@ -11,6 +10,7 @@ processing-*.log
 trace-*.json
 *.cpuprofile
 profiles/
+backups/
 
 # Editor / OS noise
 .DS_Store
@@ -21,8 +21,6 @@ profiles/
 *.txt
 *.decaduto
 *.modifiedby
-talk/
-romajs/
 node_modules/
 
 # Files that belong to the TS port on `main` (must not leak onto `rust`)
