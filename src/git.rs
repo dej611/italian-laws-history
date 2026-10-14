@@ -233,6 +233,21 @@ impl GitHelpers {
         Ok(())
     }
 
+    /// Best-effort push of a provisional-act branch so a GitHub PR can open.
+    pub async fn push_branch(&self, branch: &str) -> Result<()> {
+        let _ = self.run_status(&["push", "-u", "origin", branch]).await;
+        Ok(())
+    }
+
+    /// Best-effort delete of a provisional-act branch on `origin`. Call only
+    /// after `history` has been pushed, so GitHub can mark the PR merged.
+    pub async fn delete_remote_branch(&self, branch: &str) -> Result<()> {
+        let _ = self
+            .run_status(&["push", "origin", "--delete", branch])
+            .await;
+        Ok(())
+    }
+
     pub async fn dl_branch_exists(&self, branch: &str) -> Result<bool> {
         let branches = self.run_capture(&["branch", "--list", branch]).await?;
         Ok(!branches.trim().is_empty())

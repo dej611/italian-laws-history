@@ -22,6 +22,10 @@ use crate::api::text::{
 };
 use crate::checkpoint::save_checkpoint_atomic;
 use crate::git::{branch_name_for, GitHelpers};
+use crate::github::{
+    converted_comment, decaduto_comment, migration_comment, open_pr_body, pr_title,
+    sanatoria_comment, GithubHelpers,
+};
 use crate::http::SafeFetch;
 use crate::logger::{is_shutdown_requested, Logger};
 use crate::types::{
@@ -39,6 +43,7 @@ pub struct ProcessorDeps {
     pub logger: Arc<dyn Logger>,
     pub safe_fetch: Arc<SafeFetch>,
     pub git: Arc<GitHelpers>,
+    pub github: Arc<GithubHelpers>,
     pub shutdown: watch::Receiver<bool>,
 }
 
@@ -671,10 +676,12 @@ async fn apply_sanatoria(
 
     let merged_set: HashSet<String> = merge_result.merged_branches.into_iter().collect();
     let mut closed = 0usize;
+    let comment = sanatoria_comment(sanatoria.label, publication_date);
     for (codice, branch_name, _) in &in_scope {
         if !merged_set.contains(branch_name) {
             continue;
         }
+        after_history_merge(deps, branch_name, &comment).await;
         if let Err(err) = deps.git.delete_dl_branch(branch_name).await {
             deps.logger.log(&format!(
                 "Sanatoria {}: errore eliminazione ramo {branch_name}: {err}",
@@ -726,6 +733,35 @@ enum ReconcileOutcome {
     Done,
     /// Act still awaiting conversion — keep in `pending_acts` for next run.
     StillWaiting,
+}
+
+/// Push the provisional branch and open a PR into `history` if GitHub is configured.
+async fn publish_provisional_pr(deps: &ProcessorDeps, act: &PendingAct) {
+    let _ = deps.git.push_branch(&act.branch_name).await;
+    match deps
+        .github
+        .ensure_pr(&act.branch_name, &pr_title(act), &open_pr_body(act))
+        .await
+    {
+        Ok(true) => deps
+            .logger
+            .log(&format!("PR aperta per {}", act.branch_name)),
+        Ok(false) => {}
+        Err(err) => deps
+            .logger
+            .log(&format!("PR {} non aperta: {err}", act.branch_name)),
+    }
+}
+
+/// Push `history` first so GitHub can mark the PR merged, then comment, then
+/// drop the remote head. Failures are logged and do not fail the scrape.
+async fn after_history_merge(deps: &ProcessorDeps, branch: &str, comment: &str) {
+    let _ = deps.git.push().await;
+    if let Err(err) = deps.github.comment_pr(branch, comment).await {
+        deps.logger
+            .log(&format!("Commento PR {branch} fallito: {err}"));
+    }
+    let _ = deps.git.delete_remote_branch(branch).await;
 }
 
 fn pending_act_in_reconcile_scope(act: &PendingAct) -> bool {
@@ -780,6 +816,7 @@ pub async fn migrate_misclassified_dll_pending(
                     pool.insert(codice, act);
                     continue;
                 }
+                after_history_merge(deps, &act.branch_name, &migration_comment(&merge_date)).await;
                 if let Err(err) = deps.git.delete_dl_branch(&act.branch_name).await {
                     deps.logger.log(&format!(
                         "Migrazione {tag} {codice} delete branch fallito: {err}"
@@ -981,14 +1018,12 @@ pub async fn reconcile_pending_acts(
                     .and_then(|s| s.split('T').next())
                     .map(str::to_string)
                     .unwrap_or_else(|| iso_to_date(&conversion.data_gu));
-                let merge_msg = format!(
-                    "Convertito in legge: {}",
-                    conversion
-                        .descrizione_atto
-                        .clone()
-                        .or_else(|| conversion.titolo_atto.clone())
-                        .unwrap_or_else(|| codice.clone())
-                );
+                let conversion_label = conversion
+                    .descrizione_atto
+                    .clone()
+                    .or_else(|| conversion.titolo_atto.clone())
+                    .unwrap_or_else(|| codice.clone());
+                let merge_msg = format!("Convertito in legge: {conversion_label}");
 
                 deps.logger.log(&format!(
                     "{tag} {codice} convertito — merge in history ({merge_date})"
@@ -1058,6 +1093,12 @@ pub async fn reconcile_pending_acts(
                     }
                 }
 
+                after_history_merge(
+                    deps,
+                    &act.branch_name,
+                    &converted_comment(&conversion_label, &merge_date),
+                )
+                .await;
                 deps.git.delete_dl_branch(&act.branch_name).await?;
                 Ok(ReconcileOutcome::Done)
             } else {
@@ -1114,6 +1155,12 @@ pub async fn reconcile_pending_acts(
                     deps.git
                         .merge_dl_branch(&act.branch_name, &merge_msg, &decaduto_merge_date)
                         .await?;
+                    after_history_merge(
+                        deps,
+                        &act.branch_name,
+                        &decaduto_comment(&act, &decaduto_merge_date),
+                    )
+                    .await;
                     deps.git.delete_dl_branch(&act.branch_name).await?;
                     Ok(ReconcileOutcome::Done)
                 } else {
@@ -1128,6 +1175,7 @@ pub async fn reconcile_pending_acts(
         match outcome {
             Ok(ReconcileOutcome::Done) => {}
             Ok(ReconcileOutcome::StillWaiting) => {
+                publish_provisional_pr(deps, &act).await;
                 still_pending.insert(codice, act);
             }
             Err(err) => {
@@ -1427,7 +1475,8 @@ async fn commit_one_act(
                 let pending = ensure_pending_acts_migrated(checkpoint);
                 pending
                     .entry(act.codice_redazionale.clone())
-                    .or_insert(entry);
+                    .or_insert_with(|| entry.clone());
+                publish_provisional_pr(deps, &entry).await;
 
                 deps.git.checkout().await?;
             } else {

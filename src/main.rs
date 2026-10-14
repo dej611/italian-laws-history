@@ -11,6 +11,7 @@ mod config;
 #[cfg(feature = "cpuprofile")]
 mod cpuprofile;
 mod git;
+mod github;
 mod http;
 mod logger;
 mod processor;
@@ -22,6 +23,7 @@ use crate::api::{monthly_windows, scrape_month};
 use crate::checkpoint::{load_checkpoint, save_checkpoint_atomic};
 use crate::config::load_config;
 use crate::git::GitHelpers;
+use crate::github::GithubHelpers;
 use crate::http::SafeFetch;
 use crate::logger::{build_logger, is_shutdown_requested, LoggerHandle, ShutdownSignal};
 use crate::processor::{
@@ -153,6 +155,7 @@ async fn run(
         logger: logger.clone(),
         safe_fetch: safe_fetch.clone(),
         git: git.clone(),
+        github: Arc::new(GithubHelpers::new(config.clone())),
         shutdown: shutdown_rx.clone(),
     };
 

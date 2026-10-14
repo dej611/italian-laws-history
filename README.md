@@ -133,6 +133,7 @@ git log history --oneline | head
 | `MAX_RETRIES`           | `5`                                                           |
 | `CACHE_TTL_SEC`         | `3600`                                                        |
 | `CHECKPOINT_FILE`       | `progress-rs.json`                                            |
+| `GITHUB_REPO`           | `$GITHUB_REPOSITORY` (Actions) or unset — skip PRs            |
 
 ## Stopping safely
 
@@ -145,8 +146,11 @@ mid-page may re-fetch up to one page of acts.
 
 Italian law has several act types that are *provisional* — they enter into
 force immediately but only become permanent after a separate ratification.
-The binary commits each one to a dedicated branch and merges it into
-`history` once its lifecycle resolves:
+The binary commits each one to a dedicated branch, opens a GitHub PR
+into `history` (when `GITHUB_REPO`/`GITHUB_REPOSITORY` and `GH_TOKEN`
+are set), and merges the branch into `history` once its lifecycle
+resolves. Conversion and sanatoria leave the PR merged; decadenza still
+merges, then comments the due date that expired:
 
 | Type    | Namespace              | Decadenza window | Notes                                                              |
 | ------- | ---------------------- | ---------------- | ------------------------------------------------------------------ |
@@ -171,6 +175,7 @@ either a ratifying law is published or Normattiva flags them as abrogated.
 - [src/processor.rs](src/processor.rs) — Phase A (`process_batches`), Phase B (`process_modified_acts`), `reconcile_pending_acts`
 - [src/checkpoint.rs](src/checkpoint.rs) — atomic JSON I/O via `tempfile`
 - [src/git.rs](src/git.rs) — shell-out git wrapper, branch constants, history-branch bootstrap
+- [src/github.rs](src/github.rs) — `gh` PR create/comment into `history` (no-op without token/repo)
 - [src/logger/](src/logger/) — `Logger` trait + `CiLogger` + `FileLogWrapper` + `ratatui` TUI
 - [src/tracing_setup.rs](src/tracing_setup.rs) — `tracing-subscriber` + `tracing-chrome` on `--perf`
 

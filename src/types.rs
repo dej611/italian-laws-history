@@ -9,8 +9,7 @@ pub struct Config {
     pub output_repo: String,
     pub author_name: String,
     pub author_email: String,
-    /// Read from env for parity with the TS port; unused by the binary today.
-    #[allow(dead_code)]
+    /// `owner/repo` for GitHub PRs. From `GITHUB_REPO` or `GITHUB_REPOSITORY`.
     pub github_repo: Option<String>,
     pub batch_size: u32,
     pub concurrency: u32,

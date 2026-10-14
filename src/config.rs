@@ -27,7 +27,7 @@ pub fn load_config() -> Config {
         output_repo: env_str("OUTPUT_REPO", "./"),
         author_name: env_str("GIT_AUTHOR_NAME", "GU Bot"),
         author_email: env_str("GIT_AUTHOR_EMAIL", "gu-bot@example.org"),
-        github_repo: env_opt("GITHUB_REPO"),
+        github_repo: env_opt("GITHUB_REPO").or_else(|| env_opt("GITHUB_REPOSITORY")),
         batch_size: env_num("BATCH_SIZE", 10),
         concurrency: env_num("CONCURRENCY", 3),
         min_time_ms: env_num("MIN_TIME_MS", 300),
