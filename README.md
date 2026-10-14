@@ -7,9 +7,9 @@ Source branch: `explore`. Built site: `gh-pages`.
 
 ```sh
 git checkout explore
-npm install
-npm run refresh
-npm run dev
+pnpm install
+pnpm run refresh
+pnpm run dev
 ```
 
 `npm run refresh` reads `progress-rs.json` in this checkout and the `history`
@@ -20,12 +20,12 @@ same repo.
 
 | Command | Role |
 |---------|------|
-| `npm run refresh` | Rebuild `public/data/*` from the borrowed Codemotion builders + acts/blame/rag/manifest |
-| `npm run dev` | Vite |
-| `npm run build` | Production build (`VITE_BASE=./` when publishing to GitHub Pages) |
+| `pnpm run refresh` | Rebuild `public/data/*` from the borrowed Codemotion builders + acts/blame/rag/manifest |
+| `pnpm run dev` | Vite |
+| `pnpm run build` | Production build (`VITE_BASE=./` when publishing to GitHub Pages) |
 
 The Codemotion `build-data.mjs` / `build-graph.mjs` builders are borrowed under
-`scripts/codemotion/` and write beside themselves. `npm run refresh` copies
+`scripts/codemotion/` and write beside themselves. `pnpm run refresh` copies
 `data.json` and `graph.json` into `public/data/`.
 
 Optional env: `BLAME_LIMIT` (extra hubs for blame, default 400), `RAG_HUB_LIMIT` (default 400), `BLAME_REFRESH_SUBJECTS=1`.
