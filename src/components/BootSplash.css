@@ -1,0 +1,90 @@
+.boot-splash {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 1rem;
+  padding: var(--space-5, 1.5rem);
+  text-align: center;
+  color: var(--accent, #3d6a8a);
+}
+
+.boot-splash.is-compact {
+  min-height: 0;
+  height: 100%;
+  width: 100%;
+  padding: var(--space-4, 1rem);
+}
+
+.boot-splash.is-quiet .boot-msg {
+  font-size: 0.8rem;
+}
+
+.boot-splash .boot-brand {
+  margin: 0;
+  font-family: var(--font-display, Newsreader, Georgia, serif);
+  font-size: 1.65rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--accent, #3d6a8a);
+}
+
+.boot-splash.is-compact .boot-brand {
+  font-size: 1.25rem;
+}
+
+.boot-splash .boot-msg {
+  margin: 0;
+  font-family: var(--font-body, Figtree, sans-serif);
+  font-size: 0.9rem;
+  color: var(--ink-muted, #5a6a7c);
+}
+
+.boot-splash .boot-gavel {
+  width: 64px;
+  height: 96px;
+  display: block;
+}
+
+.boot-splash.is-compact .boot-gavel {
+  width: 48px;
+  height: 72px;
+}
+
+.boot-splash .gavel-shell {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linejoin: round;
+  opacity: 0.3;
+}
+
+.boot-splash .gavel-fill {
+  fill: currentColor;
+}
+
+.boot-splash .fill-rise {
+  animation: boot-gavel-fill 1.6s ease-in-out infinite;
+}
+
+@keyframes boot-gavel-fill {
+  0% {
+    transform: translateY(120px);
+  }
+  55% {
+    transform: translateY(0);
+  }
+  70% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(120px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .boot-splash .fill-rise {
+    animation: none;
+    transform: translateY(36px);
+  }
+}

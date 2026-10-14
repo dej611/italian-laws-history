@@ -1,0 +1,44 @@
+{
+  "name": "explore",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "test": "vitest run",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "refresh": "node scripts/refresh.mjs",
+    "data:copy": "node scripts/copy-codemotion-data.mjs",
+    "data:acts": "node scripts/build-acts.mjs",
+    "data:blame": "node scripts/build-blame.mjs",
+    "data:rag": "node scripts/build-rag.mjs",
+    "data:manifest": "node scripts/build-manifest.mjs",
+    "sprites:digesto": "node scripts/pack-digesto-sprites.mjs"
+  },
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.33.1-dev57.0",
+    "@elastic/charts": "^72.0.1",
+    "@wllama/wllama": "^3.5.1",
+    "@wllama/wllama-compat": "^3.5.1",
+    "cytoscape": "^3.34.0",
+    "cytoscape-fcose": "^2.2.0",
+    "idb-keyval": "^6.3.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.6.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/cytoscape": "^3.21.9",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0",
+    "vitest": "^4.0.18"
+  }
+}

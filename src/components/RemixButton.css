@@ -1,0 +1,36 @@
+.remix-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 1.85rem;
+  height: 1.85rem;
+  padding: 0;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink-muted);
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.remix-icon-btn:hover,
+.remix-icon-btn:focus-visible {
+  color: var(--ink);
+  border-color: var(--accent, #3d6a8a);
+}
+
+.remix-icon-btn:focus-visible {
+  outline: 2px solid var(--accent, #3d6a8a);
+  outline-offset: 2px;
+}
+
+.section-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.section-title-row h2,
+.section-title-row h3 {
+  margin: 0;
+}

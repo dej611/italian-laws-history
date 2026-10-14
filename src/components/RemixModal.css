@@ -1,0 +1,89 @@
+.remix-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  background: color-mix(in srgb, var(--ink, #1a2433) 28%, transparent);
+  display: grid;
+  place-items: center;
+  padding: var(--space-4);
+}
+
+.remix-modal-sheet {
+  width: min(52rem, 100%);
+  max-height: min(90vh, 40rem);
+  overflow: auto;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: var(--space-4);
+}
+
+.remix-modal-sheet header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: var(--space-3);
+}
+
+.remix-modal-sheet h2 {
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+.remix-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: var(--space-3);
+}
+
+.remix-chips button,
+.remix-tip-chips button {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink-muted);
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.25rem 0.55rem;
+  cursor: pointer;
+}
+
+.remix-chips button.is-on {
+  border-color: var(--accent);
+  color: var(--ink);
+  background: var(--accent-wash, color-mix(in srgb, var(--accent) 12%, var(--paper)));
+}
+
+.remix-chart-wrap {
+  position: relative;
+}
+
+.remix-chart {
+  width: 100%;
+  height: auto;
+}
+
+.remix-tip {
+  position: absolute;
+  transform: translate(12px, calc(-100% - 8px));
+  z-index: 2;
+  min-width: 8rem;
+  padding: 0.4rem 0.5rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  font-size: 0.75rem;
+  pointer-events: auto;
+}
+
+.remix-tip ul {
+  margin: 0.3rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.remix-tip-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-top: 0.35rem;
+}

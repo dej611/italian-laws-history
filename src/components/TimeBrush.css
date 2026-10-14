@@ -1,0 +1,69 @@
+.time-brush {
+  width: 100%;
+}
+
+.time-brush-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.time-brush-counts {
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.time-brush input[type="range"] {
+  width: 100%;
+  accent-color: var(--accent);
+}
+
+.time-brush-ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  margin-top: 0.25rem;
+}
+
+.time-brush-transport {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 0.85rem;
+}
+
+.time-brush-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  padding: 0;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.time-brush-btn:hover {
+  border-color: var(--accent-soft);
+}
+
+.time-brush-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.time-brush-btn-primary {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-color: var(--accent-soft);
+  background: var(--paper-deep);
+}
+
+.time-brush-btn svg {
+  display: block;
+}

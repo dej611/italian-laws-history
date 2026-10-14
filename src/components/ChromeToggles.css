@@ -1,0 +1,64 @@
+.chrome-toggles {
+  position: fixed;
+  top: 0.85rem;
+  right: 0.85rem;
+  z-index: 10001;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+/* ThemeToggle was fixed; nest it in the cluster */
+.chrome-toggles .theme-toggle {
+  position: static;
+  z-index: auto;
+}
+
+.souvenir-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 16px var(--shadow);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  cursor: pointer;
+  max-width: 11.5rem;
+}
+
+.souvenir-toggle:hover {
+  background: var(--accent-wash);
+}
+
+.souvenir-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.souvenir-toggle svg {
+  flex-shrink: 0;
+  color: var(--accent);
+}
+
+@media (max-width: 480px) {
+  .chrome-toggles {
+    top: 0.55rem;
+    right: 0.55rem;
+    gap: 0.35rem;
+  }
+
+  .souvenir-toggle {
+    max-width: 7.2rem;
+    font-size: 0.68rem;
+    padding: 0.3rem 0.45rem;
+  }
+}

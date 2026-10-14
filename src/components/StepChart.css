@@ -1,0 +1,185 @@
+.step-chart-wrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+
+.bar-hit {
+  cursor: crosshair;
+}
+
+.step-chart-tip {
+  position: absolute;
+  z-index: 5;
+  transform: translate(12px, calc(-100% - 8px));
+  pointer-events: none;
+  min-width: 7.5rem;
+  max-width: 14rem;
+  padding: 0.45rem 0.6rem;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--paper, #f7f4ef) 94%, #1a2433);
+  border: 1px solid color-mix(in srgb, var(--ink-faint, #b7c4d0) 75%, transparent);
+  box-shadow: 0 6px 18px color-mix(in srgb, #1a2433 14%, transparent);
+  color: var(--ink, #1a2433);
+  font-family: var(--font-body, Figtree, sans-serif);
+  font-size: 0.75rem;
+  line-height: 1.35;
+}
+
+.step-chart-tip strong {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 650;
+  margin-bottom: 0.15rem;
+}
+
+.step-chart-tip ul {
+  list-style: none;
+  margin: 0.35rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.step-chart-tip li {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--ink-muted, #5a6675);
+}
+
+.step-chart-tip li > span {
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 2px;
+  flex: 0 0 auto;
+}
+
+.step-chart-tip .tip-refs {
+  margin-top: 0.35rem;
+  color: var(--chart-refs, #8a5a3a);
+  font-weight: 550;
+}
+
+.step-chart {
+  width: 100%;
+  height: auto;
+  flex: 1;
+  min-height: 0;
+  display: block;
+}
+
+.bar-seg {
+  transition: fill 0.45s ease, opacity 0.45s ease;
+}
+
+.chart-overlay,
+.refs-line,
+.chart-fade {
+  opacity: 0;
+  transition: opacity 0.45s ease;
+  pointer-events: none;
+}
+
+.chart-overlay.is-in,
+.refs-line.is-in,
+.chart-fade.is-in {
+  opacity: 1;
+}
+
+.refs-line {
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.refs-line.is-in {
+  opacity: 0.95;
+}
+
+.step-chart-label {
+  fill: var(--ink-faint);
+  font-size: 10px;
+  font-family: var(--font-body);
+}
+
+.era-label {
+  fill: var(--accent-soft);
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.story-callout {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.story-callout.cut {
+  fill: var(--bad);
+}
+
+.story-callout.restore {
+  fill: var(--ok);
+}
+
+.step-chart-caption {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+
+.step-chart-legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.9rem;
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+}
+
+.step-chart-legend li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.step-chart-legend li > span:first-child {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.refs-swatch {
+  width: 0.85rem !important;
+  height: 0 !important;
+  border-top: 2px solid var(--chart-refs);
+  border-radius: 0 !important;
+  background: transparent !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bar-seg,
+  .chart-overlay,
+  .refs-line,
+  .chart-fade {
+    transition: none;
+  }
+
+  .chart-overlay,
+  .refs-line,
+  .chart-fade {
+    opacity: 1;
+  }
+
+  .refs-line {
+    opacity: 0.95;
+  }
+}

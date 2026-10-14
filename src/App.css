@@ -1,0 +1,26 @@
+.app-loading,
+.app-error {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  gap: var(--space-3);
+  padding: var(--space-5);
+  text-align: center;
+}
+
+.app-error .muted {
+  color: var(--ink-muted);
+  font-size: 0.95rem;
+}
+
+.app-error code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+}
+
+.scroll-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: var(--paper, #eef2f5);
+}

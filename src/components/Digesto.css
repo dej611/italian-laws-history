@@ -1,0 +1,32 @@
+.digesto-host {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 80;
+  width: 140px;
+  height: 120px;
+  /* Shown as soon as Digesto mounts (was display:none until show()). */
+  display: block;
+  pointer-events: auto;
+  filter: drop-shadow(2px 3px 0 rgba(26, 36, 51, 0.18));
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.digesto-agent {
+  outline: none;
+}
+
+.digesto-agent:focus-visible {
+  outline: 2px solid #3d6a8a;
+  outline-offset: 2px;
+}
+
+@media (max-width: 480px) {
+  .digesto-host {
+    right: 0.5rem;
+    bottom: 0.5rem;
+    transform: scale(0.9);
+    transform-origin: bottom right;
+  }
+}

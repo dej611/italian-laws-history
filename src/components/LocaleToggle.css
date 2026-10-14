@@ -1,0 +1,48 @@
+.locale-toggle {
+  display: inline-flex;
+  gap: 0;
+  padding: 0.15rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 16px var(--shadow);
+}
+
+.locale-toggle button {
+  appearance: none;
+  border: 0;
+  margin: 0;
+  padding: 0.35rem 0.55rem;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--ink-muted);
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+}
+
+.locale-toggle button:hover {
+  color: var(--ink);
+  background: var(--accent-wash);
+}
+
+.locale-toggle button.is-active {
+  color: var(--ink);
+  background: var(--accent-wash);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+.locale-toggle button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+@media (max-width: 480px) {
+  .locale-toggle button {
+    padding: 0.3rem 0.45rem;
+    font-size: 0.7rem;
+  }
+}

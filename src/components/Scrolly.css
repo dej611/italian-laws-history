@@ -1,0 +1,93 @@
+.scrolly {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.scrolly-chart-stage {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  height: 42svh;
+  background: color-mix(in srgb, var(--paper) 92%, white);
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: stretch;
+  padding: var(--space-3) var(--space-4);
+}
+
+.scrolly-chart-inner {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  display: flex;
+  align-items: stretch;
+}
+
+.scrolly-steps {
+  position: relative;
+  z-index: 0;
+  padding: 0 var(--space-4) var(--space-8);
+}
+
+.scrolly-step {
+  min-height: 58svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 30rem;
+  padding: var(--space-5) 0;
+  opacity: 0.32;
+  transition: opacity 0.3s ease;
+}
+
+.scrolly-step.is-active {
+  opacity: 1;
+}
+
+.scrolly-step .section-title-row {
+  margin-bottom: var(--space-3);
+}
+
+.scrolly-step h2 {
+  font-size: clamp(1.5rem, 5vw, 2rem);
+  margin-bottom: 0;
+  color: var(--ink);
+}
+
+.scrolly-step p {
+  color: var(--ink-muted);
+  font-size: 1.05rem;
+  margin-bottom: 0.65rem;
+}
+
+.scrolly-step p:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 900px) {
+  .scrolly {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+    gap: 0;
+    align-items: start;
+    padding: 0 var(--space-6);
+  }
+
+  .scrolly-chart-stage {
+    height: 100svh;
+    position: sticky;
+    top: 0;
+    border-bottom: none;
+    border-right: 1px solid var(--line);
+    padding: var(--space-6);
+  }
+
+  .scrolly-steps {
+    padding: 20vh var(--space-5) 40vh;
+  }
+
+  .scrolly-step {
+    min-height: 60vh;
+  }
+}

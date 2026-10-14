@@ -1,0 +1,88 @@
+:root,
+html[data-theme="light"] {
+  color-scheme: light;
+  /* Light archival paper + azzurro spento */
+  --paper: #eef2f5;
+  --paper-deep: #e4eaef;
+  --paper-lift: #f7f9fb;
+  --ink: #1a2433;
+  --ink-muted: #5a6a7c;
+  --ink-faint: #8a9aab;
+  --accent: #3d6a8a;
+  --accent-soft: #5a86a4;
+  --accent-wash: rgba(61, 106, 138, 0.12);
+  --line: #c5d0db;
+  --warn: #9a6b2f;
+  --bad: #a14b52;
+  --ok: #3d7a6a;
+  --shadow: rgba(26, 36, 51, 0.14);
+  --stripe: rgba(26, 36, 51, 0.015);
+  --balloon: #fffef8;
+
+  --font-display: "Newsreader", "Iowan Old Style", "Palatino Linotype", serif;
+  --font-body: "Figtree", "Avenir Next", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", "SF Mono", ui-monospace, monospace;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+
+  --chart-volume: #3a5f78;
+  --chart-refs: #c45c26;
+  --chart-1: #2c5f7c;
+  --chart-2: #3d8f7a;
+  --chart-3: #c9a227;
+  --chart-4: #8b5e3c;
+  --chart-5: #5a6b7d;
+  --chart-6: #2f7d6d;
+  --chart-7: #b54a4a;
+  --chart-8: #6a7d4e;
+
+  --desktop: 900px;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #121820;
+  --paper-deep: #0c1016;
+  --paper-lift: #1a222c;
+  --ink: #e7edf3;
+  --ink-muted: #9aa8b8;
+  --ink-faint: #6e7f92;
+  --accent: #7aa3c0;
+  --accent-soft: #93b6cf;
+  --accent-wash: rgba(122, 163, 192, 0.16);
+  --line: #2a3544;
+  --warn: #c4924a;
+  --bad: #c46b72;
+  --ok: #5a9e8c;
+  --shadow: rgba(0, 0, 0, 0.45);
+  --stripe: rgba(231, 237, 243, 0.03);
+  --balloon: #1a222c;
+
+  --chart-volume: #6a92ad;
+  --chart-refs: #e08a55;
+  --chart-1: #6a9bb8;
+  --chart-2: #5cb39a;
+  --chart-3: #d4b04a;
+  --chart-4: #c48a5a;
+  --chart-5: #8a9aab;
+  --chart-6: #4fa892;
+  --chart-7: #d46a6a;
+  --chart-8: #8fa36a;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

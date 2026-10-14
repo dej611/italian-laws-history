@@ -1,0 +1,348 @@
+.digesto-balloon {
+  position: fixed;
+  z-index: 70;
+  width: min(34rem, calc(100vw - 1.25rem));
+  background: var(--balloon);
+  border: 2px solid var(--ink);
+  border-radius: 6px;
+  box-shadow: 3px 3px 0 var(--shadow);
+  padding: 0.55rem 0.65rem 0.5rem;
+  font-family: var(--font-body), "Segoe UI", sans-serif;
+  font-size: 0.88rem;
+  color: var(--ink);
+  line-height: 1.35;
+}
+
+.digesto-balloon-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.digesto-balloon-title {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.digesto-balloon-close {
+  border: 1px solid var(--ink);
+  background: transparent;
+  color: var(--ink);
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1;
+  font-size: 1.15rem;
+  cursor: pointer;
+  padding: 0;
+}
+
+.digesto-balloon-close:hover {
+  background: var(--paper-deep);
+}
+
+.digesto-balloon-shell {
+  display: flex;
+  gap: 0.65rem;
+  align-items: stretch;
+  min-height: 5rem;
+}
+
+.digesto-balloon-history {
+  flex: 0 0 7.5rem;
+  max-width: 8.5rem;
+  border-right: 1px solid var(--line);
+  padding-right: 0.5rem;
+  overflow: hidden;
+}
+
+.digesto-balloon-history[hidden] {
+  display: none;
+}
+
+.digesto-balloon-history-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-faint);
+  margin-bottom: 0.35rem;
+}
+
+.digesto-balloon-history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 11rem;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.digesto-balloon-history-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-size: 0.75rem;
+  line-height: 1.25;
+  padding: 0.25rem 0.3rem;
+  cursor: pointer;
+  border-radius: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.digesto-balloon-history-item:hover {
+  background: var(--paper-deep);
+}
+
+.digesto-balloon-history-item.is-active {
+  background: var(--accent-wash);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.digesto-balloon-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.digesto-balloon-question {
+  font-size: 0.8rem;
+  color: var(--accent);
+  padding: 0.35rem 0.45rem;
+  background: var(--paper-deep);
+  border-left: 3px solid var(--accent);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.digesto-balloon-question[hidden] {
+  display: none;
+}
+
+.digesto-balloon-content {
+  min-height: 1.2em;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.digesto-balloon-chart {
+  width: 100%;
+  min-height: 0;
+}
+
+.digesto-balloon-footer {
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+}
+
+.digesto-balloon-footer details summary {
+  cursor: pointer;
+  color: var(--accent);
+}
+
+.digesto-balloon-footer pre {
+  white-space: pre-wrap;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.65rem;
+  margin: 0.35rem 0 0;
+  max-height: 6rem;
+  overflow: auto;
+}
+
+.digesto-balloon-legal {
+  margin-top: 0.45rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.65rem;
+  line-height: 1.3;
+  color: var(--ink-faint);
+}
+
+.digesto-balloon-legal p {
+  margin: 0 0 0.25rem;
+}
+
+.digesto-balloon-legal p:last-child {
+  margin-bottom: 0;
+}
+
+.digesto-balloon-form {
+  display: flex;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--line);
+}
+
+.digesto-balloon-form input {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--ink-faint);
+  background: var(--paper-deep);
+  padding: 0.35rem 0.45rem;
+  font: inherit;
+  color: var(--ink);
+}
+
+.digesto-balloon-form button {
+  border: 1px solid var(--ink);
+  background: var(--accent);
+  color: #fff;
+  padding: 0.35rem 0.55rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.digesto-balloon-choices {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-top: 0.55rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--line);
+}
+
+.digesto-balloon-choices[hidden] {
+  display: none;
+}
+
+.digesto-balloon-suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.45rem;
+}
+
+.digesto-balloon-suggestions[hidden] {
+  display: none;
+}
+
+.digesto-balloon-suggestion {
+  max-width: 100%;
+  text-align: left;
+  border: 1px solid var(--ink-faint);
+  background: var(--paper-deep);
+  color: var(--ink);
+  padding: 0.2rem 0.4rem;
+  font: inherit;
+  font-size: 0.72rem;
+  line-height: 1.3;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.digesto-balloon-suggestion:hover {
+  background: var(--accent-wash);
+  border-color: var(--ink);
+}
+
+.digesto-balloon-choice {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
+  width: 100%;
+  text-align: left;
+  border: 1px solid var(--ink);
+  background: var(--paper-deep);
+  color: var(--ink);
+  padding: 0.45rem 0.55rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.digesto-balloon-choice:hover {
+  background: var(--accent-wash);
+}
+
+.digesto-balloon-choice-title {
+  font-weight: 600;
+}
+
+.digesto-balloon-choice-hint {
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+}
+
+html[data-theme="dark"] .digesto-balloon-form button {
+  color: #121820;
+  border-color: var(--accent);
+}
+
+.digesto-balloon--slim {
+  width: min(20rem, calc(100vw - 1.25rem));
+  padding: 0.45rem 0.55rem;
+}
+
+.digesto-balloon--slim .digesto-balloon-shell {
+  min-height: 0;
+}
+
+.digesto-balloon--slim .digesto-balloon-content {
+  font-size: 0.82rem;
+}
+
+.digesto-balloon-content.is-pending {
+  min-height: 1.2em;
+}
+
+.digesto-cue-dots {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+  height: 1em;
+}
+
+.digesto-cue-dots i {
+  width: 0.38rem;
+  height: 0.38rem;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: digesto-cue-dot 1s ease-in-out infinite;
+}
+
+.digesto-cue-dots i:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.digesto-cue-dots i:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@keyframes digesto-cue-dot {
+  0%,
+  80%,
+  100% {
+    opacity: 0.25;
+    transform: translateY(0);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(-0.15em);
+  }
+}
+
+@media (max-width: 520px) {
+  .digesto-balloon {
+    width: min(100vw - 1rem, 22rem);
+  }
+
+  .digesto-balloon-history {
+    flex-basis: 5.5rem;
+    max-width: 6rem;
+  }
+}

@@ -1,0 +1,45 @@
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 16px var(--shadow);
+}
+
+.theme-toggle select {
+  appearance: none;
+  border: 0;
+  margin: 0;
+  padding: 0.35rem 1.55rem 0.35rem 0.65rem;
+  border-radius: 4px;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%236a7a8a' d='M1.1 1.2 6 6.1l4.9-4.9 1.1 1.1L6 8.3.0 2.3z'/%3E%3C/svg%3E")
+      no-repeat right 0.45rem center / 0.65rem,
+    transparent;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.theme-toggle select:hover {
+  background-color: var(--accent-wash);
+}
+
+.theme-toggle select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+@media (max-width: 480px) {
+  .theme-toggle select {
+    padding: 0.3rem 1.35rem 0.3rem 0.5rem;
+    font-size: 0.7rem;
+  }
+}

@@ -1,0 +1,60 @@
+.act-print {
+  margin: 0 0 var(--space-4);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.35rem;
+}
+
+.act-print svg {
+  width: 11.5rem;
+  height: 11.5rem;
+  display: block;
+  border: 1px solid var(--line);
+}
+
+.act-print-grid {
+  fill: var(--line);
+  stroke: var(--line);
+  stroke-width: 0.7;
+  opacity: 0.55;
+}
+
+.act-print-legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.65rem;
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+}
+
+.act-print-legend li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+}
+
+.act-print-legend i {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.act-print figcaption {
+  font-size: 0.82rem;
+  color: var(--ink);
+  max-width: 16rem;
+  line-height: 1.35;
+}
+
+.act-print-hint {
+  margin: 0;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  max-width: 16rem;
+  line-height: 1.3;
+}

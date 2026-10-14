@@ -1,0 +1,163 @@
+.revision-drawer {
+  /* Sit below fixed language/theme chrome so title + close stay reachable */
+  --revision-drawer-top: 3.4rem;
+  position: fixed;
+  top: var(--revision-drawer-top);
+  right: 0;
+  width: min(24rem, 100vw);
+  height: calc(100vh - var(--revision-drawer-top));
+  background: var(--paper);
+  border-left: 1px solid var(--line);
+  border-top: 1px solid var(--line);
+  z-index: 40;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -12px 0 40px rgba(26, 36, 51, 0.08);
+  animation: drawer-in 0.25s ease;
+}
+
+@media (max-width: 480px) {
+  .revision-drawer {
+    --revision-drawer-top: 3rem;
+  }
+}
+
+@keyframes drawer-in {
+  from {
+    transform: translateX(12px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.revision-drawer-sticky {
+  flex: 0 0 auto;
+  padding: var(--space-5) var(--space-5) var(--space-3);
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.revision-drawer-body {
+  flex: 1 1 auto;
+  overflow: auto;
+  padding: var(--space-4) var(--space-5) var(--space-5);
+}
+
+.revision-drawer-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-bottom: var(--space-3);
+}
+
+.revision-drawer-sticky .act-print {
+  margin-bottom: 0;
+}
+
+@media (max-height: 700px) {
+  .revision-drawer-sticky .act-print svg {
+    width: 8rem;
+    height: 8rem;
+  }
+}
+
+.revision-drawer-head .eyebrow {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 0.35rem;
+}
+
+.revision-drawer-head h3 {
+  font-size: 1.15rem;
+  text-transform: capitalize;
+}
+
+.revision-drawer-head > button {
+  border: 1px solid var(--line);
+  background: transparent;
+  padding: 0.35rem 0.7rem;
+  color: var(--ink-muted);
+}
+
+.revision-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.revision-list li time {
+  display: block;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+
+.revision-list .kind {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--accent);
+  margin: 0.2rem 0 0.35rem;
+}
+
+.revision-list li {
+  cursor: default;
+}
+
+.revision-list li.is-wear {
+  outline: 1px solid var(--line);
+  outline-offset: 4px;
+}
+
+.revision-list p {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  font-family: var(--font-mono);
+  line-height: 1.4;
+}
+
+.revision-excerpt {
+  margin: 0 0 var(--space-3);
+  padding: 0;
+  border: 0;
+}
+
+.revision-excerpt-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+.revision-excerpt p:last-child {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--ink);
+}
+
+.revision-arc {
+  margin: 0 0 var(--space-4);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--ink-muted);
+}
+
+.revision-arc .revision-excerpt-label {
+  display: block;
+}
+
+.muted {
+  color: var(--ink-muted);
+}

@@ -1,0 +1,270 @@
+.gazzetta-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  background: color-mix(in srgb, var(--ink, #1a2433) 28%, transparent);
+  display: grid;
+  place-items: center;
+  padding: var(--space-4);
+}
+
+.gazzetta {
+  width: min(46rem, 100%);
+  max-height: min(92vh, 52rem);
+  overflow: auto;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: var(--space-5);
+}
+
+.gazzetta-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: var(--space-4);
+}
+
+.gazzetta-head h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 3.5vw, 1.85rem);
+  margin: 0 0 var(--space-2);
+}
+
+.gazzetta-head p {
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.gazzetta-close {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink-muted);
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.25rem 0.55rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.gazzetta-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: var(--space-4);
+  align-items: center;
+}
+
+.gazzetta-chips button,
+.gazzetta-year-input input {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink-muted);
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.28rem 0.6rem;
+  cursor: pointer;
+}
+
+.gazzetta-chips button.is-on {
+  border-color: var(--accent);
+  color: var(--ink);
+  background: var(--accent-wash);
+}
+
+.gazzetta-year-input input {
+  width: 5.2rem;
+  cursor: text;
+}
+
+.gazzetta-sheet {
+  background: var(--paper-lift);
+  border: 1px solid var(--line);
+  padding: var(--space-5);
+}
+
+.gazzetta-sheet-top {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  align-items: flex-start;
+}
+
+.gazzetta-kicker {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin: 0 0 var(--space-2);
+}
+
+.gazzetta-sheet h3 {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  margin: 0 0 var(--space-2);
+}
+
+.gazzetta-asof {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.gazzetta-seal {
+  width: 7.5rem;
+  height: 7.5rem;
+  flex-shrink: 0;
+  color: var(--ink-faint);
+}
+
+.gazzetta-seal-inner {
+  stroke: var(--accent);
+}
+
+.gazzetta-seal-kicker,
+.gazzetta-seal-foot {
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  fill: var(--ink-faint);
+  font-family: var(--font-display);
+}
+
+.gazzetta-seal-year {
+  font-size: 32px;
+  fill: var(--ink);
+  font-family: var(--font-display);
+}
+
+.gazzetta-seal-era {
+  font-size: 10px;
+  fill: var(--accent);
+  font-family: var(--font-display);
+}
+
+.gazzetta-rubrica {
+  font-family: var(--font-display);
+  font-size: 1.12rem;
+  line-height: 1.55;
+  margin: var(--space-5) 0;
+}
+
+.gazzetta-mix-bar {
+  display: flex;
+  height: 0.55rem;
+  background: var(--paper-deep);
+  overflow: hidden;
+}
+
+.gazzetta-mix-bar i {
+  display: block;
+  height: 100%;
+}
+
+.gazzetta-mix-bar .is-parlamento {
+  background: var(--chart-1);
+}
+
+.gazzetta-mix-bar .is-governo {
+  background: var(--chart-7);
+}
+
+.gazzetta-mix-bar .is-altro {
+  background: var(--ink-faint);
+  opacity: 0.45;
+}
+
+.gazzetta-mix ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  list-style: none;
+  margin: var(--space-2) 0 0;
+  padding: 0;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+}
+
+.gazzetta-mean,
+.gazzetta-dl {
+  font-size: 0.88rem;
+  color: var(--ink-muted);
+  margin: var(--space-3) 0 0;
+}
+
+.gazzetta-spark-wrap {
+  margin-top: var(--space-5);
+}
+
+.gazzetta-spark-label {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 0 0 var(--space-2);
+}
+
+.gazzetta-spark {
+  width: 100%;
+  height: auto;
+}
+
+.gazzetta-spark rect {
+  fill: var(--chart-volume);
+  opacity: 0.4;
+}
+
+.gazzetta-spark rect.is-on {
+  fill: var(--accent);
+  opacity: 1;
+}
+
+.gazzetta-spark text {
+  font-size: 11px;
+  fill: var(--ink-faint);
+}
+
+.gazzetta-featured {
+  margin-top: var(--space-5);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--line);
+}
+
+.gazzetta-featured-kicker {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 0 0 var(--space-1);
+}
+
+.gazzetta-featured-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  margin: 0 0 var(--space-1);
+}
+
+.gazzetta-featured p {
+  margin: 0;
+  color: var(--ink-muted);
+  font-size: 0.9rem;
+}
+
+.gazzetta-note {
+  margin: var(--space-5) 0 0;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+

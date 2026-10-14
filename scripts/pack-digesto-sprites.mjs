@@ -1,0 +1,271 @@
+#!/usr/bin/env node
+/**
+ * Pack Digesto pose PNGs into map.png + emit agent.ts (sprite frame contract).
+ *
+ * Expects poses under src/digesto/agents/digesto/poses/*.png
+ * Uses Python Pillow (magick fallback) — run: node scripts/pack-digesto-sprites.mjs
+ */
+import { spawnSync } from "node:child_process";
+import { mkdirSync, writeFileSync, existsSync, readdirSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(__dirname, "..");
+const OUT_DIR = join(ROOT, "src/digesto/agents/digesto");
+const POSES_DIR = join(OUT_DIR, "poses");
+
+const FRAME_W = 140;
+const FRAME_H = 120;
+const COLS = 7;
+
+/** Pose file basename → atlas slot index */
+const POSE_ORDER = [
+  "digesto-idle",
+  "digesto-blink",
+  "digesto-look-left",
+  "digesto-look-right",
+  "digesto-wave-1",
+  "digesto-wave-2",
+  "digesto-think-1",
+  "digesto-think-2",
+  "digesto-speak-1",
+  "digesto-congrats",
+  "digesto-confused",
+  "digesto-show",
+  "digesto-hide",
+];
+
+const SLOT = Object.fromEntries(POSE_ORDER.map((n, i) => [n, i]));
+
+function xy(slot) {
+  const col = slot % COLS;
+  const row = Math.floor(slot / COLS);
+  return [col * FRAME_W, row * FRAME_H];
+}
+
+function frame(pose, duration, exitBranch) {
+  const f = { duration, images: [xy(SLOT[pose])] };
+  if (exitBranch !== undefined) f.exitBranch = exitBranch;
+  return f;
+}
+
+function buildAgentTs() {
+  const anim = {
+    Idle: {
+      useExitBranching: true,
+      frames: [
+        frame("digesto-idle", 3000, 0),
+        frame("digesto-blink", 100, 0),
+        frame("digesto-idle", 100, 0),
+        {
+          duration: 100,
+          images: [xy(SLOT["digesto-idle"])],
+          exitBranch: 0,
+          branching: { branches: [{ weight: 100, frameIndex: 0 }] },
+        },
+      ],
+    },
+    LookLeft: {
+      frames: [
+        frame("digesto-look-left", 500),
+        frame("digesto-look-left", 500),
+        frame("digesto-idle", 200),
+      ],
+    },
+    LookRight: {
+      frames: [
+        frame("digesto-look-right", 500),
+        frame("digesto-look-right", 500),
+        frame("digesto-idle", 200),
+      ],
+    },
+    Wave: {
+      frames: [
+        frame("digesto-wave-1", 200),
+        frame("digesto-wave-2", 200),
+        frame("digesto-wave-1", 200),
+        frame("digesto-wave-2", 200),
+        frame("digesto-idle", 200),
+      ],
+    },
+    GetAttention: {
+      frames: [
+        frame("digesto-wave-2", 180),
+        frame("digesto-wave-1", 180),
+        frame("digesto-wave-2", 180),
+        frame("digesto-idle", 150),
+      ],
+    },
+    Thinking: {
+      useExitBranching: true,
+      frames: [
+        frame("digesto-think-1", 400, 0),
+        frame("digesto-think-2", 400, 0),
+        {
+          duration: 100,
+          images: [xy(SLOT["digesto-think-1"])],
+          exitBranch: 0,
+          branching: { branches: [{ weight: 100, frameIndex: 0 }] },
+        },
+      ],
+    },
+    Processing: {
+      useExitBranching: true,
+      frames: [
+        frame("digesto-think-2", 350, 0),
+        frame("digesto-think-1", 350, 0),
+        {
+          duration: 100,
+          images: [xy(SLOT["digesto-think-2"])],
+          exitBranch: 0,
+          branching: { branches: [{ weight: 100, frameIndex: 0 }] },
+        },
+      ],
+    },
+    Speak: {
+      useExitBranching: true,
+      frames: [
+        frame("digesto-speak-1", 300, 0),
+        frame("digesto-idle", 250, 0),
+        {
+          duration: 100,
+          images: [xy(SLOT["digesto-speak-1"])],
+          exitBranch: 0,
+          branching: { branches: [{ weight: 100, frameIndex: 0 }] },
+        },
+      ],
+    },
+    Explain: {
+      frames: [
+        frame("digesto-speak-1", 400),
+        frame("digesto-idle", 300),
+        frame("digesto-speak-1", 400),
+        frame("digesto-idle", 200),
+      ],
+    },
+    Congratulate: {
+      frames: [
+        frame("digesto-congrats", 350),
+        frame("digesto-wave-2", 250),
+        frame("digesto-congrats", 350),
+        frame("digesto-idle", 200),
+      ],
+    },
+    Confused: {
+      frames: [
+        frame("digesto-confused", 600),
+        frame("digesto-confused", 600),
+        frame("digesto-idle", 200),
+      ],
+    },
+    Sad: {
+      frames: [
+        frame("digesto-confused", 800),
+        frame("digesto-hide", 400),
+        frame("digesto-confused", 400),
+      ],
+    },
+    Show: {
+      frames: [
+        frame("digesto-show", 250),
+        frame("digesto-wave-1", 200),
+        frame("digesto-idle", 150),
+      ],
+    },
+    Hide: {
+      frames: [
+        frame("digesto-idle", 100),
+        frame("digesto-hide", 300),
+        frame("digesto-hide", 200),
+      ],
+    },
+  };
+
+  return `import type { AgentData } from "../../office/animator";
+
+/** Auto-generated by scripts/pack-digesto-sprites.mjs — do not edit by hand. */
+const agent: AgentData = {
+  overlayCount: 1,
+  framesize: [${FRAME_W}, ${FRAME_H}],
+  sounds: [],
+  animations: ${JSON.stringify(anim, null, 2)},
+};
+
+export default agent;
+`;
+}
+
+const packPy = `
+from pathlib import Path
+from PIL import Image
+
+FRAME_W, FRAME_H, COLS = ${FRAME_W}, ${FRAME_H}, ${COLS}
+poses_dir = Path(${JSON.stringify(POSES_DIR)})
+out_map = Path(${JSON.stringify(join(OUT_DIR, "map.png"))})
+order = ${JSON.stringify(POSE_ORDER)}
+
+rows = (len(order) + COLS - 1) // COLS
+atlas = Image.new("RGBA", (COLS * FRAME_W, rows * FRAME_H), (0, 0, 0, 0))
+
+for i, name in enumerate(order):
+    path = poses_dir / f"{name}.png"
+    if not path.exists():
+        raise SystemExit(f"missing pose: {path}")
+    im = Image.open(path).convert("RGBA")
+    # treat near-white / light gray as transparent (gen often flattens alpha)
+    px = im.load()
+    w, h = im.size
+    for y in range(h):
+        for x in range(w):
+            r, g, b, a = px[x, y]
+            if r > 245 and g > 245 and b > 245:
+                px[x, y] = (r, g, b, 0)
+            elif abs(r - g) < 8 and abs(g - b) < 8 and r > 200 and a > 0:
+                # soft checkerboard leftovers → transparent
+                if (r + g + b) / 3 > 210:
+                    px[x, y] = (r, g, b, 0)
+    # fit into frame
+    im.thumbnail((FRAME_W, FRAME_H), Image.Resampling.LANCZOS)
+    canvas = Image.new("RGBA", (FRAME_W, FRAME_H), (0, 0, 0, 0))
+    ox = (FRAME_W - im.size[0]) // 2
+    oy = (FRAME_H - im.size[1]) // 2
+    canvas.paste(im, (ox, oy), im)
+    col, row = i % COLS, i // COLS
+    atlas.paste(canvas, (col * FRAME_W, row * FRAME_H), canvas)
+
+out_map.parent.mkdir(parents=True, exist_ok=True)
+atlas.save(out_map, "PNG")
+print(f"wrote {out_map} ({atlas.size[0]}x{atlas.size[1]})")
+`;
+
+function main() {
+  mkdirSync(POSES_DIR, { recursive: true });
+  const found = readdirSync(POSES_DIR).filter((f) => f.endsWith(".png"));
+  if (!found.length) {
+    console.error(`No poses in ${POSES_DIR}`);
+    process.exit(1);
+  }
+  for (const pose of POSE_ORDER) {
+    if (!existsSync(join(POSES_DIR, `${pose}.png`))) {
+      console.error(`Missing required pose: ${pose}.png`);
+      process.exit(1);
+    }
+  }
+
+  const py = spawnSync("python3", ["-c", packPy], {
+    encoding: "utf8",
+    env: process.env,
+  });
+  if (py.status !== 0) {
+    console.error(py.stderr || py.stdout);
+    process.exit(py.status || 1);
+  }
+  console.log(py.stdout.trim());
+
+  const agentPath = join(OUT_DIR, "agent.ts");
+  writeFileSync(agentPath, buildAgentTs());
+  console.log(`wrote ${agentPath}`);
+}
+
+main();

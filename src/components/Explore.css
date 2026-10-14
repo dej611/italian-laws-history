@@ -1,0 +1,62 @@
+.explore {
+  padding: var(--space-7) var(--space-6) var(--space-8);
+  border-top: 1px solid var(--line);
+}
+
+.explore-head {
+  max-width: 42rem;
+  margin-bottom: var(--space-5);
+}
+
+.explore-head-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 42rem;
+}
+
+.explore-head p {
+  color: var(--ink-muted);
+}
+
+.explore-graph-note {
+  margin-top: var(--space-3);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--ink-faint);
+}
+
+.explore-stage {
+  position: relative;
+  height: min(72vh, 640px);
+  border: 1px solid var(--line);
+  background: var(--paper-deep);
+  margin-top: var(--space-4);
+}
+
+.explore-blame-hint {
+  position: absolute;
+  left: 0.65rem;
+  bottom: 0.65rem;
+  z-index: 4;
+  margin: 0;
+  max-width: min(28rem, calc(100% - 4.5rem));
+  padding: 0.35rem 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1.35;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--paper, #f7f4ef) 88%, transparent);
+  border: 1px solid var(--line);
+  pointer-events: none;
+}
+
+.explore-loading,
+.explore-error {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  color: var(--ink-muted);
+  margin: 0;
+}
