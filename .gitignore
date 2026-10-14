@@ -25,9 +25,6 @@ scripts/codemotion/graph.json
 progress-rs.json
 processing-*.log
 
-# Digesto source poses (regenerate atlas via npm run sprites:digesto)
-src/digesto/agents/digesto/poses/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
