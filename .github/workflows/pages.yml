@@ -11,19 +11,27 @@ permissions:
 
 jobs:
   pages:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       (github.event.workflow_run.event == 'schedule' || github.event.workflow_run.event == 'workflow_dispatch') &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
           ref: explore
-          fetch-depth: 0
+          fetch-depth: 1
 
-      - name: Fetch the history branch
-        run: git fetch origin history:history
+      - name: Fetch history and the checkpoint
+        run: |
+          git fetch --no-tags origin \
+            history:history \
+            main:refs/remotes/origin/main
+          git show refs/remotes/origin/main:progress-rs.json > progress-rs.json
 
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         with:
           version: 12
 
@@ -31,12 +39,6 @@ jobs:
         with:
           node-version: 22
           cache: pnpm
-
-      - uses: actions/cache/restore@v4
-        with:
-          path: progress-rs.json
-          key: checkpoint-rs-${{ github.run_id }}
-          restore-keys: checkpoint-rs-
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm run refresh

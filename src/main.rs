@@ -254,18 +254,18 @@ async fn run(
         save_checkpoint_atomic(&config, &checkpoint)
             .await
             .with_context(|| "saving checkpoint")?;
-        let _ = git.push().await;
+        git.push().await?;
     }
 
     if total_processed == 0 {
         logger.log("Nessun atto trovato nel periodo indicato.");
-        let _ = git.push().await;
+        git.push().await?;
         return Ok(());
     }
 
     logger.log("Elaborazione completata.");
     logger.set_status("COMPLETATO");
-    let _ = git.push().await;
+    git.push().await?;
     Ok(())
 }
 
@@ -283,7 +283,7 @@ async fn graceful_shutdown(
     save_checkpoint_atomic(config, checkpoint)
         .await
         .with_context(|| "saving checkpoint on shutdown")?;
-    let _ = git.push().await;
+    git.push().await?;
     logger.set_status("INTERROTTO");
     Ok(())
 }

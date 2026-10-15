@@ -21,7 +21,7 @@ use crate::api::text::{
     is_well_formed_urn, resolve_branchable_type, urn_date,
 };
 use crate::checkpoint::save_checkpoint_atomic;
-use crate::git::{branch_name_for, GitHelpers};
+use crate::git::{branch_name_for, is_origin_push_failure, GitHelpers};
 use crate::github::{
     converted_comment, decaduto_comment, migration_comment, open_pr_body, pr_title,
     sanatoria_comment, GithubHelpers,
@@ -681,7 +681,7 @@ async fn apply_sanatoria(
         if !merged_set.contains(branch_name) {
             continue;
         }
-        after_history_merge(deps, branch_name, &comment).await;
+        after_history_merge(deps, branch_name, &comment).await?;
         if let Err(err) = deps.git.delete_dl_branch(branch_name).await {
             deps.logger.log(&format!(
                 "Sanatoria {}: errore eliminazione ramo {branch_name}: {err}",
@@ -736,8 +736,8 @@ enum ReconcileOutcome {
 }
 
 /// Push the provisional branch and open a PR into `history` if GitHub is configured.
-async fn publish_provisional_pr(deps: &ProcessorDeps, act: &PendingAct) {
-    let _ = deps.git.push_branch(&act.branch_name).await;
+async fn publish_provisional_pr(deps: &ProcessorDeps, act: &PendingAct) -> Result<()> {
+    deps.git.push_branch(&act.branch_name).await?;
     match deps
         .github
         .ensure_pr(&act.branch_name, &pr_title(act), &open_pr_body(act))
@@ -751,17 +751,20 @@ async fn publish_provisional_pr(deps: &ProcessorDeps, act: &PendingAct) {
             .logger
             .log(&format!("PR {} non aperta: {err}", act.branch_name)),
     }
+    Ok(())
 }
 
 /// Push `history` first so GitHub can mark the PR merged, then comment, then
-/// drop the remote head. Failures are logged and do not fail the scrape.
-async fn after_history_merge(deps: &ProcessorDeps, branch: &str, comment: &str) {
-    let _ = deps.git.push().await;
+/// drop the remote head. A rejected history push fails the scrape. PR comments
+/// and remote branch deletion stay logged.
+async fn after_history_merge(deps: &ProcessorDeps, branch: &str, comment: &str) -> Result<()> {
+    deps.git.push().await?;
     if let Err(err) = deps.github.comment_pr(branch, comment).await {
         deps.logger
             .log(&format!("Commento PR {branch} fallito: {err}"));
     }
     let _ = deps.git.delete_remote_branch(branch).await;
+    Ok(())
 }
 
 fn pending_act_in_reconcile_scope(act: &PendingAct) -> bool {
@@ -816,7 +819,7 @@ pub async fn migrate_misclassified_dll_pending(
                     pool.insert(codice, act);
                     continue;
                 }
-                after_history_merge(deps, &act.branch_name, &migration_comment(&merge_date)).await;
+                after_history_merge(deps, &act.branch_name, &migration_comment(&merge_date)).await?;
                 if let Err(err) = deps.git.delete_dl_branch(&act.branch_name).await {
                     deps.logger.log(&format!(
                         "Migrazione {tag} {codice} delete branch fallito: {err}"
@@ -1098,7 +1101,7 @@ pub async fn reconcile_pending_acts(
                     &act.branch_name,
                     &converted_comment(&conversion_label, &merge_date),
                 )
-                .await;
+                .await?;
                 deps.git.delete_dl_branch(&act.branch_name).await?;
                 Ok(ReconcileOutcome::Done)
             } else {
@@ -1160,7 +1163,7 @@ pub async fn reconcile_pending_acts(
                         &act.branch_name,
                         &decaduto_comment(&act, &decaduto_merge_date),
                     )
-                    .await;
+                    .await?;
                     deps.git.delete_dl_branch(&act.branch_name).await?;
                     Ok(ReconcileOutcome::Done)
                 } else {
@@ -1175,10 +1178,13 @@ pub async fn reconcile_pending_acts(
         match outcome {
             Ok(ReconcileOutcome::Done) => {}
             Ok(ReconcileOutcome::StillWaiting) => {
-                publish_provisional_pr(deps, &act).await;
+                publish_provisional_pr(deps, &act).await?;
                 still_pending.insert(codice, act);
             }
             Err(err) => {
+                if is_origin_push_failure(&err) {
+                    return Err(err);
+                }
                 deps.logger
                     .log(&format!("Riconciliazione {tag} {codice} fallita: {err}"));
                 still_pending.insert(codice, act);
@@ -1331,6 +1337,9 @@ pub async fn process_batches(
         )
         .await
         {
+            if is_origin_push_failure(&err) {
+                return Err(err);
+            }
             deps.logger
                 .log(&format!("Errore processing {act_id}: {err}"));
             save_checkpoint_atomic(&deps.config, checkpoint).await?;
@@ -1476,7 +1485,7 @@ async fn commit_one_act(
                 pending
                     .entry(act.codice_redazionale.clone())
                     .or_insert_with(|| entry.clone());
-                publish_provisional_pr(deps, &entry).await;
+                publish_provisional_pr(deps, &entry).await?;
 
                 deps.git.checkout().await?;
             } else {

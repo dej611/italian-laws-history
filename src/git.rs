@@ -163,23 +163,6 @@ impl GitHelpers {
         Ok(status.success())
     }
 
-    async fn run_capture(&self, args: &[&str]) -> Result<String> {
-        let out = tokio_git()
-            .current_dir(self.cwd())
-            .args(args)
-            .output()
-            .await
-            .with_context(|| format!("spawning git {args:?}"))?;
-        if !out.status.success() {
-            return Err(anyhow!(
-                "git {:?} failed: {}",
-                args,
-                String::from_utf8_lossy(&out.stderr).trim()
-            ));
-        }
-        Ok(String::from_utf8_lossy(&out.stdout).to_string())
-    }
-
     pub async fn ensure_repo(&self) -> Result<()> {
         tokio::fs::create_dir_all(self.cwd())
             .await
@@ -187,32 +170,28 @@ impl GitHelpers {
     }
 
     pub async fn ensure_history_branch(&self) -> Result<()> {
-        let branches = self.run_capture(&["branch", "--list"]).await?;
-        let exists = branches
-            .lines()
-            .map(|l| l.trim_start_matches('*').trim())
-            .any(|name| name == HISTORY_BRANCH);
-        if !exists {
-            self.run(&["checkout", "--orphan", HISTORY_BRANCH], None)
-                .await?;
-            // Best-effort wipe: ignore non-zero (empty index is fine).
-            let _ = self.run_status(&["rm", "-rf", "."]).await;
-
-            // Seed a .gitignore so the data branch ignores the Rust source
-            // tree (and friends) that may exist in the working directory.
-            // history is data-only: only the law-content files are tracked.
-            let gitignore_path = std::path::Path::new(self.cwd()).join(".gitignore");
-            tokio::fs::write(&gitignore_path, HISTORY_GITIGNORE)
-                .await
-                .with_context(|| format!("writing {}", gitignore_path.display()))?;
-
-            self.run(&["add", ".gitignore"], None).await?;
-            self.run(
-                &["commit", "-m", "initial history branch with .gitignore"],
-                None,
-            )
-            .await?;
+        if ensure_local_tracking_branch(self.cwd(), HISTORY_BRANCH)? {
+            return Ok(());
         }
+        self.run(&["checkout", "--orphan", HISTORY_BRANCH], None)
+            .await?;
+        // Best-effort wipe: ignore non-zero (empty index is fine).
+        let _ = self.run_status(&["rm", "-rf", "."]).await;
+
+        // Seed a .gitignore so the data branch ignores the Rust source
+        // tree (and friends) that may exist in the working directory.
+        // history is data-only: only the law-content files are tracked.
+        let gitignore_path = std::path::Path::new(self.cwd()).join(".gitignore");
+        tokio::fs::write(&gitignore_path, HISTORY_GITIGNORE)
+            .await
+            .with_context(|| format!("writing {}", gitignore_path.display()))?;
+
+        self.run(&["add", ".gitignore"], None).await?;
+        self.run(
+            &["commit", "-m", "initial history branch with .gitignore"],
+            None,
+        )
+        .await?;
         Ok(())
     }
 
@@ -229,14 +208,13 @@ impl GitHelpers {
 
     #[tracing::instrument(skip(self))]
     pub async fn push(&self) -> Result<()> {
-        let _ = self.run_status(&["push", "origin", HISTORY_BRANCH]).await;
-        Ok(())
+        push_origin(self.cwd(), &["origin", HISTORY_BRANCH])
     }
 
-    /// Best-effort push of a provisional-act branch so a GitHub PR can open.
+    /// Push a provisional-act branch so a GitHub PR can open.
+    /// No `origin` is a no-op. A rejected push fails the scrape.
     pub async fn push_branch(&self, branch: &str) -> Result<()> {
-        let _ = self.run_status(&["push", "-u", "origin", branch]).await;
-        Ok(())
+        push_origin(self.cwd(), &["-u", "origin", branch])
     }
 
     /// Best-effort delete of a provisional-act branch on `origin`. Call only
@@ -249,8 +227,7 @@ impl GitHelpers {
     }
 
     pub async fn dl_branch_exists(&self, branch: &str) -> Result<bool> {
-        let branches = self.run_capture(&["branch", "--list", branch]).await?;
-        Ok(!branches.trim().is_empty())
+        ensure_local_tracking_branch(self.cwd(), branch)
     }
 
     pub async fn create_dl_branch(&self, branch: &str) -> Result<()> {
@@ -433,9 +410,9 @@ impl GitHelpers {
         Ok(result)
     }
 
-    /// Best-effort sync `git checkout main`. Mirrors the TS `checkoutMainSync`.
+    /// Sync `git checkout main`, keeping the checkpoint file.
     pub fn checkout_main_sync(&self) {
-        checkout_main_sync_for_repo(self.cwd());
+        checkout_main_sync_for_repo(self.cwd(), &self.config.checkpoint_file);
     }
 }
 
@@ -488,18 +465,95 @@ fn current_branch_sync(cwd: &str) -> Option<String> {
     }
 }
 
+/// `origin/<branch>` exists and there is no local branch of that name.
+/// Create the local branch tracking it, without checking it out.
+/// Returns whether a local branch exists afterwards.
+fn ensure_local_tracking_branch(cwd: &str, branch: &str) -> Result<bool> {
+    if local_branch_exists(cwd, branch) {
+        return Ok(true);
+    }
+    let remote_ref = format!("refs/remotes/origin/{branch}");
+    if !std_git_ok(cwd, &["show-ref", "--verify", "--quiet", &remote_ref]) {
+        return Ok(false);
+    }
+    let start = format!("origin/{branch}");
+    let out = std_git()
+        .current_dir(cwd)
+        .args(["branch", branch, &start])
+        .stdin(Stdio::null())
+        .stdout(Stdio::null())
+        .stderr(Stdio::piped())
+        .output()
+        .with_context(|| format!("spawning git branch {branch} {start}"))?;
+    if !out.status.success() {
+        let detail = String::from_utf8_lossy(&out.stderr).trim().to_string();
+        return Err(anyhow!("git branch {branch} {start} failed: {detail}"));
+    }
+    Ok(true)
+}
+
+fn local_branch_exists(cwd: &str, branch: &str) -> bool {
+    let reference = format!("refs/heads/{branch}");
+    std_git_ok(cwd, &["show-ref", "--verify", "--quiet", &reference])
+}
+
+fn origin_exists(cwd: &str) -> bool {
+    std_git_ok(cwd, &["remote", "get-url", "origin"])
+}
+
+/// Push `args` (already including the remote name) when `origin` exists.
+/// No `origin` is success. A rejected push is [`is_origin_push_failure`].
+pub fn push_origin(cwd: &str, args: &[&str]) -> Result<()> {
+    if !origin_exists(cwd) {
+        return Ok(());
+    }
+    let out = std_git()
+        .current_dir(cwd)
+        .arg("push")
+        .args(args)
+        .stdin(Stdio::null())
+        .stdout(Stdio::piped())
+        .stderr(Stdio::piped())
+        .output()
+        .with_context(|| format!("spawning git push {args:?}"))?;
+    if out.status.success() {
+        return Ok(());
+    }
+    let detail = String::from_utf8_lossy(&out.stderr).trim().to_string();
+    Err(anyhow!("origin push failed: {detail}"))
+}
+
+pub fn is_origin_push_failure(err: &anyhow::Error) -> bool {
+    err.chain()
+        .any(|cause| cause.to_string().contains("origin push failed"))
+}
+
 /// Restore the source branch after a scrape. Aborts a half-finished merge
 /// first; force-checkout is used only when we are *not* already on `main`,
-/// so uncommitted edits on the source branch are kept.
-pub fn checkout_main_sync_for_repo(cwd: &str) {
+/// so uncommitted edits on the source branch are kept. A checkpoint path
+/// inside the repo is copied aside and written back, because `main` tracks
+/// that file and a checkout would replace it with the last commit.
+pub fn checkout_main_sync_for_repo(cwd: &str, checkpoint_file: &str) {
+    let preserved = read_checkpoint_if_in_repo(cwd, checkpoint_file);
     let _ = std::fs::remove_file(Path::new(cwd).join(".git").join("index.lock"));
     let _ = std_git_ok(cwd, &["merge", "--abort"]);
-    if current_branch_sync(cwd).as_deref() == Some(MAIN_BRANCH) {
-        return;
+    if current_branch_sync(cwd).as_deref() != Some(MAIN_BRANCH) {
+        if !std_git_ok(cwd, &["checkout", MAIN_BRANCH]) {
+            let _ = std_git_ok(cwd, &["checkout", "-f", MAIN_BRANCH]);
+        }
     }
-    if !std_git_ok(cwd, &["checkout", MAIN_BRANCH]) {
-        let _ = std_git_ok(cwd, &["checkout", "-f", MAIN_BRANCH]);
+    if let Some(bytes) = preserved {
+        let path = Path::new(cwd).join(checkpoint_file);
+        let _ = std::fs::write(path, bytes);
     }
+}
+
+fn read_checkpoint_if_in_repo(cwd: &str, checkpoint_file: &str) -> Option<Vec<u8>> {
+    let rel = Path::new(checkpoint_file);
+    if checkpoint_file.is_empty() || rel.is_absolute() {
+        return None;
+    }
+    std::fs::read(Path::new(cwd).join(rel)).ok()
 }
 
 /// Convert an ISO date string to git's `@<unix-ts> +0000` form. Pre-epoch
@@ -593,7 +647,7 @@ mod tests {
         std::fs::write(p.join("a.txt"), "local-wip\n").unwrap();
         std::fs::write(p.join(".git").join("index.lock"), "stale").unwrap();
 
-        checkout_main_sync_for_repo(p.to_str().unwrap());
+        checkout_main_sync_for_repo(p.to_str().unwrap(), "progress-rs.json");
 
         assert_eq!(
             current_branch_sync(p.to_str().unwrap()).as_deref(),
@@ -622,12 +676,111 @@ mod tests {
         assert!(!merge.status.success(), "expected a conflict");
         assert!(p.join(".git").join("MERGE_HEAD").exists());
 
-        checkout_main_sync_for_repo(p.to_str().unwrap());
+        checkout_main_sync_for_repo(p.to_str().unwrap(), "progress-rs.json");
 
         assert_eq!(
             current_branch_sync(p.to_str().unwrap()).as_deref(),
             Some(MAIN_BRANCH)
         );
         assert!(!p.join(".git").join("MERGE_HEAD").exists());
+    }
+
+    fn head_sha(dir: &Path) -> String {
+        let out = git(dir, &["rev-parse", "HEAD"]);
+        assert!(out.status.success());
+        String::from_utf8_lossy(&out.stdout).trim().to_string()
+    }
+
+    #[test]
+    fn origin_history_becomes_a_local_branch_without_checkout() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_main(p);
+        git_ok(p, &["checkout", "-b", HISTORY_BRANCH]);
+        std::fs::write(p.join("law.txt"), "testo\n").unwrap();
+        git_ok(p, &["add", "law.txt"]);
+        git_ok(p, &["commit", "-m", "law"]);
+        let tip = head_sha(p);
+        git_ok(p, &["checkout", MAIN_BRANCH]);
+        git_ok(p, &["branch", "-D", HISTORY_BRANCH]);
+        git_ok(p, &["update-ref", "refs/remotes/origin/history", &tip]);
+
+        assert!(ensure_local_tracking_branch(p.to_str().unwrap(), HISTORY_BRANCH).unwrap());
+
+        assert_eq!(
+            current_branch_sync(p.to_str().unwrap()).as_deref(),
+            Some(MAIN_BRANCH)
+        );
+        let local = git(p, &["rev-parse", HISTORY_BRANCH]);
+        assert_eq!(String::from_utf8_lossy(&local.stdout).trim(), tip);
+        let log = git(p, &["log", HISTORY_BRANCH, "--format=%s"]);
+        let subjects = String::from_utf8_lossy(&log.stdout);
+        assert!(
+            !subjects.contains("initial history branch"),
+            "adopted branch must not be a new orphan root, got {subjects}"
+        );
+    }
+
+    #[test]
+    fn origin_provisional_branch_becomes_local() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_main(p);
+        git_ok(p, &["checkout", "-b", "dl/EXAMPLE"]);
+        std::fs::write(p.join("dl.txt"), "decreto\n").unwrap();
+        git_ok(p, &["add", "dl.txt"]);
+        git_ok(p, &["commit", "-m", "dl"]);
+        let tip = head_sha(p);
+        git_ok(p, &["checkout", MAIN_BRANCH]);
+        git_ok(p, &["branch", "-D", "dl/EXAMPLE"]);
+        git_ok(p, &["update-ref", "refs/remotes/origin/dl/EXAMPLE", &tip]);
+
+        assert!(ensure_local_tracking_branch(p.to_str().unwrap(), "dl/EXAMPLE").unwrap());
+        let local = git(p, &["rev-parse", "dl/EXAMPLE"]);
+        assert_eq!(String::from_utf8_lossy(&local.stdout).trim(), tip);
+    }
+
+    #[test]
+    fn checkout_main_sync_restores_checkpoint_from_history() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_main(p);
+        std::fs::write(p.join("progress-rs.json"), "old\n").unwrap();
+        git_ok(p, &["add", "progress-rs.json"]);
+        git_ok(p, &["commit", "-m", "checkpoint"]);
+        git_ok(p, &["checkout", "-b", HISTORY_BRANCH]);
+        std::fs::write(p.join("progress-rs.json"), "new\n").unwrap();
+
+        checkout_main_sync_for_repo(p.to_str().unwrap(), "progress-rs.json");
+
+        assert_eq!(
+            current_branch_sync(p.to_str().unwrap()).as_deref(),
+            Some(MAIN_BRANCH)
+        );
+        assert_eq!(
+            std::fs::read_to_string(p.join("progress-rs.json")).unwrap(),
+            "new\n"
+        );
+    }
+
+    #[test]
+    fn push_without_origin_succeeds() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_main(p);
+        push_origin(p.to_str().unwrap(), &["origin", HISTORY_BRANCH]).unwrap();
+        push_origin(p.to_str().unwrap(), &["-u", "origin", "dl/EXAMPLE"]).unwrap();
+    }
+
+    #[test]
+    fn push_rejected_by_origin_is_an_error() {
+        let dir = tempfile::tempdir().unwrap();
+        let p = dir.path();
+        init_repo_on_main(p);
+        git_ok(p, &["remote", "add", "origin", "/nonexistent/repo.git"]);
+        let err = push_origin(p.to_str().unwrap(), &["origin", HISTORY_BRANCH]).unwrap_err();
+        assert!(is_origin_push_failure(&err), "{err}");
+        let err = push_origin(p.to_str().unwrap(), &["-u", "origin", "dl/EXAMPLE"]).unwrap_err();
+        assert!(is_origin_push_failure(&err), "{err}");
     }
 }

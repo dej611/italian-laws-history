@@ -12,25 +12,42 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 60
     env:
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0
+          fetch-depth: 1
+
+      - name: Fetch data branches
+        run: |
+          git fetch --no-tags origin \
+            history:refs/remotes/origin/history \
+            'refs/heads/dl/*:refs/remotes/origin/dl/*' \
+            'refs/heads/rdl/*:refs/remotes/origin/rdl/*' \
+            'refs/heads/dll/*:refs/remotes/origin/dll/*' \
+            'refs/heads/dlcps/*:refs/remotes/origin/dlcps/*'
 
       - uses: dtolnay/rust-toolchain@stable
 
       - uses: Swatinem/rust-cache@v2
 
-      - uses: actions/cache@v4
-        with:
-          path: progress-rs.json
-          key: checkpoint-rs-${{ github.run_id }}
-          restore-keys: checkpoint-rs-
-
       - run: cargo build --release --locked
 
       - run: ./target/release/italian-laws-history --ci
+
+      - name: Publish checkpoint
+        run: |
+          set -euo pipefail
+          git add progress-rs.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m ":bookmark: checkpoint"
+          git fetch origin main
+          git rebase origin/main
+          git push origin main
