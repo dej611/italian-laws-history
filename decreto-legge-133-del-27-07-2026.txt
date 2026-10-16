@@ -43,7 +43,16 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  
- 1. In considerazione del nuovo incremento dei prezzi dei prodotti energetici, l'aliquota di accisa sugli oli da gas o gasolio usato come carburante, di cui all'Allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il decreto legislativo 26 ottobre 1995, n. 504, è rideterminata, dal 30 luglio 2026 e fino al 6 agosto 2026, nella misura di 532,90 euro per mille litri. 
+ 1. In considerazione del nuovo 
+ ((perdurare dell'))
+
+ incremento dei prezzi dei prodotti energetici, l'aliquota di accisa sugli oli da gas o gasolio usato come carburante, di cui all'Allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, 
+ ((di cui al))
+
+ decreto legislativo 26 ottobre 1995, n. 504, è rideterminata, dal 30 luglio 2026 
+ ((al 24 agosto 2026 e dal 27 agosto 2026 al 5 settembre 2026))
+
+ , nella misura di 532,90 euro per mille litri. 
  
 
  
@@ -59,7 +68,10 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 3. Agli oneri derivanti dai commi 1 e 2, valutati in 83,8 milioni di euro per l'anno 2026 e 0,9 milioni di euro per l'anno 2028, si provvede ai sensi dell'articolo 3. 
+ 3. Agli oneri derivanti dai commi 1 e 2, 
+ ((valutati in 379,6 milioni di euro per l'anno 2026 e in 4,1 milioni di euro per l'anno 2028))
+
+ , si provvede ai sensi dell'articolo 3. 
  
 
  
@@ -69,21 +81,30 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  
  
- 4. All'articolo 3, comma 1, del decreto-legge 2026, n. 33, convertito, con modificazioni, dalla legge 13 maggio 2026, n. 79, sono apportate le seguenti modificazioni: 
+ 4. All'articolo 3, comma 1, del 
+ ((decreto-legge 18 marzo 2026, n. 33))
+
+ , convertito, con modificazioni, dalla legge 13 maggio 2026, n. 79, sono apportate le seguenti modificazioni: 
  
 
  
  
 
  
- a) al primo periodo, le parole: &laquo;da marzo a giugno&raquo; sono sostituite dalle seguenti: &laquo;da marzo a luglio&raquo;; 
+ a) al primo periodo, le parole: &laquo;da marzo a giugno&raquo; sono sostituite dalle seguenti: &laquo;
+ ((da marzo a agosto))
+
+ &raquo;; 
  
 
  
  
 
  
- b) al secondo periodo, le parole: &laquo;300 milioni&raquo; sono sostituite dalle seguenti: &laquo;322 milioni&raquo;. 
+ b) al secondo periodo, le parole: &laquo;300 milioni&raquo; sono sostituite dalle seguenti: &laquo;
+ ((397,6 milioni))
+
+ &raquo;. 
  
 
  
@@ -94,4 +115,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 
  
- 5. Agli oneri derivanti dal comma 4, pari a 22 milioni di euro per l'anno 2026, si provvede ai sensi dell'articolo 3.
+ 5. Agli oneri derivanti dal comma 4, 
+ ((pari a 97,6 milioni di euro per l'anno 2026))
+
+ , si provvede ai sensi dell'articolo 3.
