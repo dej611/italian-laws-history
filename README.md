@@ -199,3 +199,19 @@ the binary daily at 12:00 UTC on the `main` branch with `--ci`. The
 [.github/workflows/pages.yml](.github/workflows/pages.yml) then checks out
 `explore`, rebuilds Normoscopio from that checkpoint and the `history`
 branch, and publishes `dist/` to `gh-pages`.
+
+## License
+
+The scraper and the other source on `main`, and Normoscopio on `explore`,
+are [MIT](LICENSE). The license badge GitHub shows for this repository
+refers to that code.
+
+The law texts on `history`, and the `data/` files built from them onto
+`gh-pages`, are Normattiva open data from the Istituto Poligrafico e Zecca
+dello Stato, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+`history` carries the attribution in `NOTICE`. Keep it with any
+redistribution of those texts:
+
+> Fonte: Normattiva (https://www.normattiva.it), Istituto Poligrafico e Zecca
+> dello Stato, licenza CC BY 4.0. Testo non autentico e gratuito: l'unico
+> testo ufficiale è quello pubblicato sulla Gazzetta Ufficiale a mezzo stampa.

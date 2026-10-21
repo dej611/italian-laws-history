@@ -1,0 +1,12 @@
+The law texts in this project, and any files derived from them, come from
+Normattiva. They are open data of the Istituto Poligrafico e Zecca dello
+Stato under Creative Commons Attribution 4.0 International:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Fonte: Normattiva (https://www.normattiva.it), Istituto Poligrafico e Zecca
+dello Stato, licenza CC BY 4.0. Testo non autentico e gratuito: l'unico
+testo ufficiale è quello pubblicato sulla Gazzetta Ufficiale a mezzo stampa.
+
+The scraper (`main`) and Normoscopio (`explore`) are MIT. See LICENSE on
+those branches.
