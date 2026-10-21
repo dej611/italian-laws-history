@@ -43,3 +43,17 @@ Optional env: `BLAME_LIMIT` (extra hubs for blame, default 400), `RAG_HUB_LIMIT`
 - Mobile: scrolly only (no graph / no mini-explore)
 - Digesto: Chrome Prompt API if available, else wllama GGUF; tools stay local; no API keys
 - Hard-refuse personal legal advice
+
+## License
+
+Normoscopio's source on this branch is MIT. See [LICENSE](LICENSE).
+
+The law texts on `history`, and the `data/` files this app builds from them,
+are Normattiva open data from the Istituto Poligrafico e Zecca dello Stato,
+under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). `public/NOTICE`
+is copied into the published site. Keep that attribution with any
+redistribution of those texts:
+
+> Fonte: Normattiva (https://www.normattiva.it), Istituto Poligrafico e Zecca
+> dello Stato, licenza CC BY 4.0. Testo non autentico e gratuito: l'unico
+> testo ufficiale è quello pubblicato sulla Gazzetta Ufficiale a mezzo stampa.
