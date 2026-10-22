@@ -1,0 +1,674 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+ 
+ 
+ 
+ Visti gli articoli 76 e 87, quinto comma, della Costituzione;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 23 agosto 1988, n. 400, recante &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri&raquo; e, in particolare, l'articolo 14;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 24 dicembre 2012, n. 234, recante &laquo;Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea&raquo; e, in particolare, gli articoli 31 e 32;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 17 marzo 2026, n. 36, recante &laquo;Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2025&raquo; e, in particolare, l'articolo 16;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 2025/37 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, che modifica il regolamento (UE) 2019/881 per quanto riguarda i servizi di sicurezza gestiti;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, recante &laquo;Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 3 agosto 2022, n. 123, recante &laquo;Norme di adeguamento della normativa nazionale alle disposizioni del Titolo III &laquo;Quadro di certificazione della cibersicurezza&raquo; del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio del 17 aprile 2019 relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013 (&laquo;regolamento sulla cibersicurezza&raquo;)&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Vista la legge 28 giugno 2024, n. 90, recante &laquo;Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici&raquo;;
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Visto il decreto legislativo 4 settembre 2024, n. 138, recante &laquo;Recepimento della direttiva (UE) 2022/2555, relativa a misure per un livello comune elevato di cibersicurezza nell'Unione, recante modifica del regolamento (UE) n. 910/2014 e della direttiva (UE) 2018/1972 e che Abroga la direttiva (UE) 2016/1148&raquo;;
+
+ 
+ 
+ 
+
+ 
+ Sentita l'Agenzia per la cybersicurezza nazionale;
+
+ 
+
+ 
+ 
+ 
+ Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 2 luglio 2026;
+
+ 
+ 
+ 
+
+ 
+ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+ 
+
+ 
+ 
+ 
+ Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 16 settembre 2026;
+
+ 
+ 
+ 
+
+ 
+ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari europei, il PNRR e le politiche di coesione, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze, delle imprese e del made in Italy, dell'interno e della difesa;
+
+ 
+
+ Emana
+
+ il seguente decreto legislativo:
+
+ Art. 1
+
+ Modifiche al decreto legislativo 3 agosto 2022, n. 123
+
+ 
+ 
+ 
+ 
+ 1. Al decreto legislativo 3 agosto 2022, n. 123, sono apportate le seguenti modificazioni: 
+ 
+
+ 
+ 
+
+ 
+ a) all'articolo 3, comma 1: 
+ 
+
+ 1) dopo la lettera a) è inserita la seguente: 
+ 
+
+ &laquo;a-bis) "servizio di sicurezza gestito": un servizio prestato a un terzo consistente nello svolgimento di attività o nella fornitura di assistenza per tali attività, legate alla gestione dei rischi in materia di cybersicurezza, ad esempio servizi di gestione degli incidenti, test di penetrazione, audit di sicurezza e consulenza, tra cui consulenza specialistica, relativa all'assistenza tecnica;&raquo;; 
+ 
+
+ 2) alla lettera d), le parole: &laquo;prodotto TIC o di un servizio TIC&raquo; sono sostituite dalle seguenti: &laquo;prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito&raquo;; 
+ 
+
+ 3) alla lettera f), le parole: &laquo;prodotto TIC o servizio TIC&raquo; sono sostituite dalle seguenti: &laquo;prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito&raquo;; 
+ 
+
+ 4) alla lettera g), dopo le parole: &laquo;ad essi collegati&raquo; sono inserite le seguenti: &laquo;nonchè i servizi di sicurezza gestiti&raquo;; 
+ 
+
+ 5) alla lettera u), le parole: &laquo;prodotti TIC o fornitore di servizi TIC&raquo; sono sostituite dalle seguenti: &laquo;prodotti TIC, un fornitore di servizi TIC o un fornitore di servizi di sicurezza gestiti&raquo;; 
+ 
+
+ 6) alla lettera z), le parole: &laquo;servizio TIC o processo TIC&raquo; sono sostituite dalle seguenti: &laquo;servizio TIC, processo TIC o servizio di sicurezza gestito&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ b) all'articolo 5: 
+ 
+
+ 1) al comma 4, lettera b), le parole: &laquo;servizio TIC o processo TIC che ha comportato un concreto e dimostrato pregiudizio ad un servizio essenziale ai sensi dell'allegato II del decreto legislativo 18 maggio 2018, n. 65, o a un servizio di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259,&raquo; sono sostituite dalle seguenti: &laquo;servizio TIC, processo TIC o servizio di sicurezza gestito che ha comportato un concreto e dimostrato pregiudizio a un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138,&raquo;; 
+ 
+
+ 2) al comma 5, secondo periodo, dopo le parole: &laquo;revoca del certificato&raquo; sono inserite le seguenti: &laquo;, dandone contestuale notifica all'Agenzia,&raquo;; 
+ 
+
+ 3) al comma 6, primo periodo, dopo la parola: &laquo;entro&raquo; sono inserite le seguenti: &laquo;i termini stabiliti dall'Agenzia e comunque non oltre&raquo;; 
+ 
+
+ 4) al comma 9, le parole: &laquo;commi 3, 8 e 9&raquo; sono sostituite dalle seguenti: &laquo;commi 3 e 8&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ c) all'articolo 6, comma 1, dopo le parole: &laquo;affidabilità elevato&raquo; sono inserite le seguenti: &laquo;, sostanziale e di base&raquo; e le parole: &laquo;vigilanza nazionale&raquo; sono sostituite dalla seguente: &laquo;certificazione&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ d) all'articolo 7: 
+ 
+
+ 1) al comma 1, le parole: &laquo;servizi TIC o processi TIC&raquo; sono sostituite dalle seguenti: &laquo;servizi TIC, processi TIC o servizi di sicurezza gestiti&raquo;; 
+ 
+
+ 2) al comma 2, il primo periodo è sostituito dal seguente: &laquo;Il fabbricante o fornitore di prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti rende disponibile all'Agenzia, per il periodo stabilito nel corrispondente sistema europeo di certificazione della cybersicurezza ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformità, la documentazione tecnica e tutte le altre informazioni pertinenti relative alla conformità dei prodotti TIC, servizi TIC o servizi di sicurezza gestiti al sistema.&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ e) all'articolo 9, comma 3, le parole: &laquo;servizi TIC o processi TIC&raquo; sono sostituite dalle seguenti: &laquo;servizi TIC, processi TIC o servizi di sicurezza gestiti&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ f) all'articolo 10: 
+ 
+
+ 1) al comma 1, secondo periodo, le parole: &laquo;, in quanto compatibile, la disciplina della legge 24 novembre 1981, n. 689&raquo; sono sostituite dalle seguenti: &laquo;l'articolo 17, comma 4-quater, del decreto-legge n. 82 del 2021&raquo;; 
+ 
+
+ 2) al comma 4, primo periodo, le parole: &laquo;o servizio TIC&raquo; sono sostituite dalle seguenti: &laquo;, un servizio TIC o un servizio di sicurezza gestito&raquo;; 
+ 
+
+ 3) al comma 5, le parole: &laquo;o di un servizio TIC&raquo; sono sostituite dalle seguenti: &laquo;, di un servizio TIC o di un servizio di sicurezza gestito&raquo;; 
+ 
+
+ 4) al comma 8: 
+ 
+
+ 4.1) al primo periodo, le parole: &laquo;servizi TIC o processi TIC&raquo; sono sostituite dalle seguenti: &laquo;servizi TIC, processi TIC o servizi di sicurezza gestiti&raquo;; 
+ 
+
+ 4.2) al secondo periodo, le parole: &laquo;servizio TIC o processo TIC&raquo; sono sostituite dalle seguenti: &laquo;servizio TIC, processo TIC o servizio di sicurezza gestito&raquo;; 
+ 
+
+ 5) al comma 16, le parole: &laquo;servizio TIC o ad un processo TIC&raquo; sono sostituite dalle seguenti: &laquo;servizio TIC, ad un processo TIC o a un servizio di sicurezza gestito&raquo; e le parole: &laquo;essenziale ai sensi dell'allegato II del decreto legislativo 18 maggio 2018, n. 65, o di un servizio di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259&raquo; sono sostituite dalle seguenti: &laquo;erogato da un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138&raquo;; 
+ 
+
+ 
+ 
+
+ 
+ g) all'articolo 13: 
+ 
+
+ 1) al comma 1, le parole: &laquo;per incrementare la dotazione degli appositi capitoli dell'Agenzia&raquo; sono sostituite dalle seguenti: &laquo;di cui all'articolo 18 del decreto-legge n. 82 del 2021&raquo;; 
+ 
+
+ 2) al comma 3, le parole: &laquo;per incrementare la dotazione dei capitoli del bilancio dell'Agenzia&raquo; sono sostituite dalle seguenti: &laquo;di cui all'articolo 18 del decreto-legge n. 82 del 2021, e&raquo; e le parole: &laquo;servizi TIC e processi TIC&raquo; sono sostituite dalle seguenti: &laquo;servizi TIC, processi TIC e servizi di sicurezza gestiti&raquo;. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ N O T E 
+ 
+
+ Avvertenza: 
+ 
+
+ - Il testo delle note qui pubblicato è stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali è operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+
+ Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE). 
+ 
+
+ Note alle premesse: 
+ 
+
+ - L'art. 76 della Costituzione stabilisce che l'esercizio della funzione legislativa non può essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
+ 
+
+ - L'art. 87, quinto comma, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
+ 
+
+ - Si riporta il testo dell'articolo 14 della legge 23 agosto 1988, n. 400, recante: &laquo;Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei ministri&raquo;, pubblicata nella Gazzetta Ufficiale n. 214 del 12 settembre 1988: 
+ 
+
+ &laquo;Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'articolo 76 della Costituzione sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione. 
+ 
+
+ 2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo è trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 
+ 
+
+ 3. Se la delega legislativa si riferisce ad una pluralità di oggetti distinti suscettibili di separata disciplina, il Governo può esercitarla mediante più atti successivi per uno o più degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
+ 
+
+ 4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda in due anni, il Governo è tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere è espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.&raquo;. 
+ 
+
+ - Si riporta il testo degli articoli 31 e 32 della legge 24 dicembre 2012, n. 234 recante &laquo;Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea&raquo;, pubblicata nella Gazzetta Ufficiale n. 3 del 4 gennaio 2013: 
+ 
+
+ &laquo;Art. 31 (Procedure per l'esercizio delle deleghe legislative conferite al Governo con la legge di delegazione europea). - 1. In relazione alle deleghe legislative conferite con la legge di delegazione europea per il recepimento delle direttive, il Governo adotta i decreti legislativi entro il termine di quattro mesi antecedenti a quello di recepimento indicato in ciascuna delle direttive; per le direttive il cui termine così determinato sia già scaduto alla data di entrata in vigore della legge di delegazione europea, ovvero scada nei tre mesi successivi, il Governo adotta i decreti legislativi di recepimento entro tre mesi dalla data di entrata in vigore della medesima legge; per le direttive che non prevedono un termine di recepimento, il Governo adotta i relativi decreti legislativi entro dodici mesi dalla data di entrata in vigore della legge di delegazione europea. 
+ 
+
+ 2. I decreti legislativi sono adottati, nel rispetto dell'articolo 14 della legge 23 agosto 1988, n. 400, su proposta del Presidente del Consiglio dei ministri o del Ministro per gli affari europei e del Ministro con competenza prevalente nella materia, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e con gli altri Ministri interessati in relazione all'oggetto della direttiva. I decreti legislativi sono accompagnati da una tabella di concordanza tra le disposizioni in essi previste e quelle della direttiva da recepire, predisposta dall'amministrazione con competenza istituzionale prevalente nella materia. 
+ 
+
+ 3. La legge di delegazione europea indica le direttive in relazione alle quali sugli schemi dei decreti legislativi di recepimento è acquisito il parere delle competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica. In tal caso gli schemi dei decreti legislativi sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica affinchè su di essi sia espresso il parere delle competenti Commissioni parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma ovvero i diversi termini previsti dai commi 4 e 9 scadano nei trenta giorni che precedono la scadenza dei termini di delega previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di tre mesi. 
+ 
+
+ 4. Gli schemi dei decreti legislativi recanti recepimento delle direttive che comportino conseguenze finanziarie sono corredati della relazione tecnica di cui all'articolo 17, comma 3, della legge 31 dicembre 2009, n. 196. Su di essi è richiesto anche il parere delle Commissioni parlamentari competenti per i profili finanziari. Il Governo, ove non intenda conformarsi alle condizioni formulate con riferimento all'esigenza di garantire il rispetto dell'articolo 81, quarto comma, della Costituzione, ritrasmette alle Camere i testi, corredati dei necessari elementi integrativi d'informazione, per i pareri definitivi delle Commissioni parlamentari competenti per i profili finanziari, che devono essere espressi entro venti giorni. 
+ 
+
+ 5. Entro ventiquattro mesi dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, nel rispetto dei principi e criteri direttivi fissati dalla legge di delegazione europea, il Governo può adottare, con la procedura indicata nei commi 2, 3 e 4, disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del citato comma 1, fatto salvo il diverso termine previsto dal comma 6. 
+ 
+
+ 6. Con la procedura di cui ai commi 2, 3 e 4 il Governo può adottare disposizioni integrative e correttive di decreti legislativi emanati ai sensi del comma 1, al fine di recepire atti delegati dell'Unione europea di cui all'articolo 290 del Trattato sul funzionamento dell'Unione europea, che modificano o integrano direttive recepite con tali decreti legislativi. Le disposizioni integrative e correttive di cui al primo periodo sono adottate nel termine di cui al comma 5 o nel diverso termine fissato dalla legge di delegazione europea. Resta ferma la disciplina di cui all'articolo 36 per il recepimento degli atti delegati dell'Unione europea che recano meri adeguamenti tecnici. 
+ 
+
+ 7. I decreti legislativi di recepimento delle direttive previste dalla legge di delegazione europea, adottati, ai sensi dell'articolo 117, quinto comma, della Costituzione, nelle materie di competenza legislativa delle regioni e delle province autonome, si applicano alle condizioni e secondo le procedure di cui all'articolo 41, comma 1. 
+ 
+
+ 8. I decreti legislativi adottati ai sensi dell'articolo 33 e attinenti a materie di competenza legislativa delle regioni e delle province autonome sono emanati alle condizioni e secondo le procedure di cui all'articolo 41, comma 1. 
+ 
+
+ 9. Il Governo, quando non intende conformarsi ai pareri parlamentari di cui al comma 3, relativi a sanzioni penali contenute negli schemi di decreti legislativi recanti attuazione delle direttive, ritrasmette i testi, con le sue osservazioni e con eventuali modificazioni, alla Camera dei deputati e al Senato della Repubblica. Decorsi venti giorni dalla data di ritrasmissione, i decreti sono emanati anche in mancanza di nuovo parere.&raquo;. 
+ 
+
+ &laquo;Art. 32 (Principi e criteri direttivi generali di delega per l'attuazione del diritto dell'Unione europea). - 1. Salvi gli specifici principi e criteri direttivi stabiliti dalla legge di delegazione europea e in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 31 sono informati ai seguenti principi e criteri direttivi generali: 
+ 
+
+ a) le amministrazioni direttamente interessate provvedono all'attuazione dei decreti legislativi con le ordinarie strutture amministrative, secondo il principio della massima semplificazione dei procedimenti e delle modalità di organizzazione e di esercizio delle funzioni e dei servizi; 
+ 
+
+ b) ai fini di un migliore coordinamento con le discipline vigenti per i singoli settori interessati dalla normativa da attuare, sono introdotte le occorrenti modificazioni alle discipline stesse, anche attraverso il riassetto e la semplificazione normativi con l'indicazione esplicita delle norme abrogate, fatti salvi i procedimenti oggetto di semplificazione amministrativa ovvero le materie oggetto di delegificazione; 
+ 
+
+ c) gli atti di recepimento di direttive dell'Unione europea non possono prevedere l'introduzione o il mantenimento di livelli di regolazione superiori a quelli minimi richiesti dalle direttive stesse, ai sensi dell'articolo 14, commi 24-bis, 24-ter e 24-quater, della legge 28 novembre 2005, n. 246; 
+ 
+
+ d) al di fuori dei casi previsti dalle norme penali vigenti, ove necessario per assicurare l'osservanza delle disposizioni contenute nei decreti legislativi, sono previste sanzioni amministrative e penali per le infrazioni alle disposizioni dei decreti stessi. Le sanzioni penali, nei limiti, rispettivamente, dell'ammenda fino a 150.000 euro e dell'arresto fino a tre anni, sono previste, in via alternativa o congiunta, solo nei casi in cui le infrazioni ledano o espongano a pericolo interessi costituzionalmente protetti. In tali casi sono previste: la pena dell'ammenda alternativa all'arresto per le infrazioni che espongano a pericolo o danneggino l'interesse protetto; la pena dell'arresto congiunta a quella dell'ammenda per le infrazioni che rechino un danno di particolare gravità.
+ 
+
+ Nelle predette ipotesi, in luogo dell'arresto e dell'ammenda, possono essere previste anche le sanzioni alternative di cui agli articoli 53 e seguenti del decreto legislativo 28 agosto 2000, n. 274, e la relativa competenza del giudice di pace. La sanzione amministrativa del pagamento di una somma non inferiore a 150 euro e non superiore a 150.000 euro è prevista per le infrazioni che ledono o espongono a pericolo interessi diversi da quelli indicati dalla presente lettera. Nell'ambito dei limiti minimi e massimi previsti, le sanzioni indicate dalla presente lettera sono determinate nella loro entità, tenendo conto della diversa potenzialità lesiva dell'interesse protetto che ciascuna infrazione presenta in astratto, di specifiche qualità personali del colpevole, comprese quelle che impongono particolari doveri di prevenzione, controllo o vigilanza, nonchè del vantaggio patrimoniale che l'infrazione può recare al colpevole ovvero alla persona o all'ente nel cui interesse egli agisce. Ove necessario per assicurare l'osservanza delle disposizioni contenute nei decreti legislativi, sono previste inoltre le sanzioni amministrative accessorie della sospensione fino a sei mesi e, nei casi più gravi, della privazione definitiva di facoltà e diritti derivanti da provvedimenti dell'amministrazione, nonchè sanzioni penali accessorie nei limiti stabiliti dal codice penale.
+ 
+
+ Al medesimo fine è prevista la confisca obbligatoria delle cose che servirono o furono destinate a commettere l'illecito amministrativo o il reato previsti dai medesimi decreti legislativi, nel rispetto dei limiti stabiliti dall'articolo 240, terzo e quarto comma, del codice penale e dall'articolo 20 della legge 24 novembre 1981, n. 689, e successive modificazioni. Entro i limiti di pena indicati nella presente lettera sono previste sanzioni anche accessorie identiche a quelle eventualmente già comminate dalle leggi vigenti per violazioni omogenee e di pari offensività rispetto alle infrazioni alle disposizioni dei decreti legislativi. Nelle materie di cui all'articolo 117, quarto comma, della Costituzione, le sanzioni amministrative sono determinate dalle regioni; 
+ 
+
+ e) al recepimento di direttive o all'attuazione di altri atti dell'Unione europea che modificano precedenti direttive o atti già attuati con legge o con decreto legislativo si procede, se la modificazione non comporta ampliamento della materia regolata, apportando le corrispondenti modificazioni alla legge o al decreto legislativo di attuazione della direttiva o di altro atto modificato; 
+ 
+
+ f) nella redazione dei decreti legislativi di cui all'articolo 31 si tiene conto delle eventuali modificazioni delle direttive dell'Unione europea comunque intervenute fino al momento dell'esercizio della delega; 
+ 
+
+ g) quando si verifichino sovrapposizioni di competenze tra amministrazioni diverse o comunque siano coinvolte le competenze di più amministrazioni statali, i decreti legislativi individuano, attraverso le più opportune forme di coordinamento, rispettando i principi di sussidiarietà, differenziazione, adeguatezza e leale collaborazione e le competenze delle regioni e degli altri enti territoriali, le procedure per salvaguardare l'unitarietà dei processi decisionali, la trasparenza, la celerità, l'efficacia e l'economicità nell'azione amministrativa e la chiara individuazione dei soggetti responsabili; 
+ 
+
+ h) qualora non siano di ostacolo i diversi termini di recepimento, vengono attuate con un unico decreto legislativo le direttive che riguardano le stesse materie o che comunque comportano modifiche degli stessi atti normativi; 
+ 
+
+ i) è assicurata la parità di trattamento dei cittadini italiani rispetto ai cittadini degli altri Stati membri dell'Unione europea e non può essere previsto in ogni caso un trattamento sfavorevole dei cittadini italiani.&raquo;. 
+ 
+
+ - Si riporta il testo dell'articolo 16 della legge 17 marzo 2026, n. 36, recante &laquo;Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2025&raquo;, pubblicata nella Gazzetta Ufficiale n. 70 del 25 marzo 2026: 
+ 
+
+ &laquo;Art. 16 (Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2025/37 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, che modifica il regolamento (UE) 2019/881 per quanto riguarda i servizi di sicurezza gestiti). - 1.
+ 
+
+ Il Governo è delegato ad adottare, entro tre mesi dalla data di entrata in vigore della presente legge, uno o più decreti legislativi per adeguare la normativa nazionale alle disposizioni del regolamento (UE) 2025/37 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, e per coordinare le discipline di settore vigenti con il quadro normativo europeo in materia. 
+ 
+
+ 2. Nell'esercizio della delega di cui al comma 1, il Governo osserva, oltre ai principi e criteri direttivi generali di cui all'articolo 32 della legge 24 dicembre 2012, n. 234, i seguenti principi e criteri direttivi specifici: 
+ 
+
+ a) apportare alla normativa vigente e, in particolare, al decreto legislativo 3 agosto 2022, n. 123, tutte le modifiche e le integrazioni necessarie ad assicurare la corretta e integrale applicazione del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, anche con riguardo alle modifiche apportate dal regolamento (UE) 2025/37, e delle pertinenti norme tecniche di regolamentazione e di attuazione, nonchè a garantire il coordinamento con le disposizioni settoriali vigenti; 
+ 
+
+ b) apportare al decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, le modifiche e le integrazioni necessarie a specificare le modalità di esercizio delle funzioni attribuite all'Agenzia per la cybersicurezza nazionale in materia di accreditamento, autorizzazione e delega degli organismi di cui all'articolo 7, comma 1, lettera e), numeri 1) e 2), del medesimo decreto-legge n. 82 del 2021, in conformità alle pertinenti disposizioni del regolamento (UE) 2019/881. 
+ 
+
+ 3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dall'esercizio della delega di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.&raquo;. 
+ 
+
+ - Il regolamento (UE) 2025/37 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, che modifica il regolamento (UE) 2019/881 per quanto riguarda i servizi di sicurezza gestiti è pubblicato nella GUUE 15 gennaio 2025, Serie L. 
+ 
+
+ - Il regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013 è pubblicato nella GUUE 7 giugno 2019, n. L 151. 
+ 
+
+ - Il decreto legislativo 7 marzo 2005, n. 82, recante &laquo;Codice dell'amministrazione digitale&raquo; è pubblicato nella Gazzetta Ufficiale n. 112 del 16 maggio 2005. 
+ 
+
+ - Il decreto-legge 14 giugno 2021, n. 82, recante &laquo;Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale&raquo; è pubblicato nella Gazzetta Ufficiale n. 140 del 14 giugno 2021 e convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, pubblicata nella Gazzetta Ufficiale n. 185 del 4 agosto 2021. 
+ 
+
+ - Il decreto legislativo 3 agosto 2022, n. 123, recante &laquo;Norme di adeguamento della normativa nazionale alle disposizioni del Titolo III &laquo;Quadro di certificazione della cibersicurezza&raquo; del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio del 17 aprile 2019 relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013 (&laquo;regolamento sulla cibersicurezza&raquo;)&raquo; è pubblicato nella Gazzetta Ufficiale n. 194 del 20 agosto 2022. 
+ 
+
+ - La legge 28 giugno 2024, n. 90, recante &laquo;Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici&raquo; è pubblicata nella Gazzetta Ufficiale n. 153 del 2 luglio 2024. 
+ 
+
+ - Il decreto legislativo 4 settembre 2024, n. 138, recante &laquo;Recepimento della direttiva (UE) 2022/2555, relativa a misure per un livello comune elevato di cibersicurezza nell'Unione, recante modifica del regolamento (UE) n. 910/2014 e della direttiva (UE) 2018/1972 e che abroga la direttiva (UE) 2016/1148&raquo; è pubblicato nella Gazzetta Ufficiale n. 230 del 1° ottobre 2024. 
+ 
+
+ 
+ 
+
+ Note all'art. 1: 
+ 
+
+ - Si riporta il testo degli articoli 3, 5, 6, 7, 9, 10 e 13 del citato decreto legislativo 3 agosto 2022, n. 123, come modificato dal presente decreto: 
+ 
+
+ &laquo;Art. 3 (Definizioni). - 1. Ai fini del presente decreto, oltre alle definizioni contenute nel regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, si applicano le seguenti: 
+ 
+
+ a) "TIC": Tecnologia dell'Informazione e della Comunicazione; 
+ 
+
+ a-bis) "servizio di sicurezza gestito": un servizio prestato a un terzo consistente nello svolgimento di attività o nella fornitura di assistenza per tali attività, legate alla gestione dei rischi in materia di cybersicurezza, ad esempio servizi di gestione degli incidenti, test di penetrazione, audit di sicurezza e consulenza, tra cui consulenza specialistica, relativa all'assistenza tecnica; 
+ 
+
+ b) "Regolamento": Titolo III del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013; 
+ 
+
+ c) &laquo;quadro europeo di certificazione&raquo;: il Regolamento ed i successivi sistemi europei di certificazione adottati a norma dell'articolo 49 del Regolamento; 
+ 
+
+ d) "messa a disposizione sul mercato": la fornitura di un prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito per la distribuzione, il consumo o l'uso sul mercato dell'Unione Europea nel corso di un'attività commerciale, a titolo oneroso o gratuito; 
+ 
+
+ e) "richiamo": qualsiasi provvedimento volto ad ottenere la restituzione di un prodotto TIC che è già stato reso disponibile all'utilizzatore finale; 
+ 
+
+ f) "ritiro": qualsiasi provvedimento volto ad impedire la messa a disposizione sul mercato di un prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito nella catena della fornitura; 
+ 
+
+ g) "vigilanza del mercato": le attività svolte ed i provvedimenti adottati dall' Agenzia e dalle altre autorità pubbliche competenti per garantire che i prodotti TIC, i servizi TIC ed i processi TIC ad essi collegati nonchè i servizi di sicurezza gestiti siano conformi ai requisiti stabiliti dal quadro europeo di certificazione e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
+ 
+
+ h) "Agenzia": l'Agenzia per la cybersicurezza nazionale di cui all'articolo 5 del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, designata dall'articolo 7, comma 1, lettera e), del medesimo decreto-legge, per l'Italia, quale autorità nazionale di certificazione della cybersicurezza, di cui all'articolo 58, paragrafo 1, del Regolamento; 
+ 
+
+ i) "standard" o "norma": una specifica tecnica, adottata da un organismo di normazione riconosciuto ai sensi dell'articolo 2, paragrafo 1, numero 1), del regolamento (UE) n. 1025/2012; 
+ 
+
+ l) "norma armonizzata": una norma europea adottata sulla base di una richiesta della Commissione Europea ai fini dell'applicazione della legislazione dell'Unione sull'armonizzazione ai sensi dell'articolo 2, paragrafo 1, numero 1, lettera c), del regolamento (UE) n. 1025/2012; 
+ 
+
+ m) "Organismo di accreditamento": l'organismo autorizzato a svolgere l'attività di accreditamento nel territorio dello Stato, ai sensi dell'articolo 2, paragrafo 1, numero 11, del regolamento (CE) 765/2008, designato con decreto del Ministro dello sviluppo economico del 22 dicembre 2009 in attuazione dell'articolo 4, comma 2, della legge 23 luglio 2009, n. 99; 
+ 
+
+ n) "autorizzazione": provvedimento con il quale l'Agenzia accerta il possesso, a norma dell'articolo 54, paragrafo 1, lettera f), del Regolamento, di requisiti specifici o supplementari a cui sono soggetti gli organismi di valutazione della conformità per poter operare nell'ambito di uno specifico sistema europeo di certificazione, in aggiunta a quanto già previsto nell'allegato del Regolamento; 
+ 
+
+ o) "abilitazione": provvedimento con il quale l'Agenzia accerta i requisiti necessari affinchè un esperto o un laboratorio di prova possa coadiuvare l'Agenzia nelle attività di vigilanza nazionale o di rilascio dei certificati di cybersicurezza; 
+ 
+
+ p) "laboratorio di prova": organismo di valutazione della conformità che svolge verifiche documentali e/o prove in base alle norme armonizzate europee ed agli standard e specifiche tecniche nell'ambito del sistema europeo di certificazione in cui è accreditato; 
+ 
+
+ q) "organismo di certificazione": organismo di valutazione della conformità che emette certificati europei di cybersicurezza in base alle norme armonizzate europee ed agli standard di riferimento ai sensi dell'articolo 54, paragrafo 1, lettera c), del Regolamento per il sistema di certificazione in cui è accreditato; 
+ 
+
+ r) "elenco dei laboratori di prova e degli esperti per le attività di vigilanza nazionale": registro aggiornato dei laboratori di prova e degli esperti abilitati dall'Agenzia ad effettuare attività di valutazione di sicurezza informatica nell'ambito dei compiti di vigilanza nazionale dell'Agenzia; 
+ 
+
+ s) "elenco dei laboratori di prova e degli esperti per le attività di certificazione": registro aggiornato dei laboratori di prova e degli esperti abilitati dall'Agenzia ad effettuare attività di valutazione di sicurezza informatica nell'ambito dei compiti di rilascio dei certificati di cybersicurezza dell'Agenzia; 
+ 
+
+ t) "Organismo di Certificazione della Sicurezza Informatica" o "OCSI": organismo di certificazione dell'Agenzia, accreditato ai sensi dell'articolo 60, paragrafo 2, del Regolamento, istituito ai sensi dell'articolo 4 del decreto del Presidente del Consiglio dei ministri del 30 ottobre 2003, pubblicato nella Gazzetta Ufficiale n. 98 del 27 aprile 2004; 
+ 
+
+ u) "dichiarazione UE di conformità": attestazione di conformità rilasciata da un fabbricante di prodotti TIC, un fornitore di servizi TIC o un fornitore di servizi di sicurezza gestiti ai sensi dell'articolo 53, paragrafo 1, del regolamento UE 2019/881, a seguito del processo di autovalutazione di conformità previsto dallo stesso articolo; 
+ 
+
+ v) "emittenti delle dichiarazioni di conformità UE": i soggetti di cui all'articolo 53, paragrafo 1, del regolamento UE 2019/881; 
+ 
+
+ z) "certificato europeo di cybersicurezza": un documento rilasciato da un organismo di certificazione che attesta che un determinato prodotto TIC, servizio TIC, processo TIC o servizio di sicurezza gestito è stato oggetto di una valutazione di conformità ai requisiti stabiliti da un sistema europeo di certificazione; 
+ 
+
+ aa) "certificato europeo di cybersicurezza (o dichiarazione UE di conformità) non conforme": certificato europeo di cybersicurezza (o dichiarazione UE di conformità) che non soddisfa uno o più requisiti di un sistema europeo di certificazione ai sensi dell'articolo 54, paragrafo 1, del Regolamento; 
+ 
+
+ bb) "revoca di un certificato europeo di cybersicurezza": annullamento di un certificato europeo di cybersicurezza prima della sua scadenza da parte dell'organismo di valutazione della conformità emittente o da parte dell'Agenzia; 
+ 
+
+ cc) "revoca di una dichiarazione UE di conformità": annullamento di una dichiarazione UE di conformità prima della sua scadenza da parte del fabbricante o fornitore emittente; 
+ 
+
+ dd) "livello di affidabilità di base": livello di affidabilità che soddisfa i requisiti ed è valutato con i criteri specificati al paragrafo 5 dell'articolo 52 del Regolamento; 
+ 
+
+ ee) "livello di affidabilità sostanziale": livello di affidabilità che soddisfa i requisiti ed è valutato con i criteri specificati al paragrafo 6 dell'articolo 52 del Regolamento; 
+ 
+
+ ff) "livello di affidabilità elevato": livello di affidabilità che soddisfa i requisiti ed è valutato con i criteri specificati al paragrafo 7 dell'articolo 52 del Regolamento; 
+ 
+
+ gg)"ECCG": Gruppo europeo di certificazione della cibersicurezza, ai sensi dell'articolo 62 del Regolamento; 
+ 
+
+ hh) "ENISA": l'Agenzia dell'Unione europea per la cibersicurezza di cui al Titolo II del regolamento (UE) 2019/881.&raquo;. 
+ 
+
+ &laquo;Art. 5 (Vigilanza nazionale). - 1. L'Agenzia realizza l'attività di vigilanza del mercato in ambito nazionale ai fini della corretta applicazione delle regole previste dai sistemi europei di certificazione della cybersicurezza, con riferimento ai certificati di cybersicurezza ed alle dichiarazioni UE di conformità emessi nel territorio dello Stato, ai sensi dell'articolo 58, paragrafo 7, lettere a) e b), del Regolamento, vigilando sui fornitori e fabbricanti emittenti le dichiarazioni UE di conformità, sui titolari di certificati europei di cybersicurezza e sugli organismi di valutazione della conformità, ai sensi dell'articolo 58, paragrafo 8, del Regolamento. L'Agenzia, inoltre, ai sensi dell'articolo 58, paragrafo 7, lettere c), d) ed e), del Regolamento: 
+ 
+
+ a) fatto salvo l'articolo 60, paragrafo 3, del Regolamento nonchè quanto stabilito alla lettera b) del presente comma, assiste e sostiene attivamente l'Organismo di accreditamento nel monitoraggio e nella vigilanza delle attività degli organismi di valutazione della conformità ai fini del Regolamento. Le modalità di sostegno ed assistenza dell'Agenzia all'Organismo di accreditamento per l'attività di vigilanza sono disciplinate da apposita convenzione o protocollo di intesa fra i medesimi soggetti; 
+ 
+
+ b) monitora e vigila sulle attività degli organismi di valutazione della conformità pubblici di cui all'articolo 56, paragrafo 5, lettera b), del Regolamento; 
+ 
+
+ c) ove previsto dal sistema di certificazione ai sensi dell'articolo 54, paragrafo 1, lettera f), del Regolamento, autorizza gli organismi di valutazione della conformità a norma dell'articolo 60, paragrafo 3, del Regolamento, e limita, sospende o revoca l'autorizzazione esistente qualora violino le prescrizioni del Regolamento medesimo, dandone notizia all'Organismo di accreditamento. 
+ 
+
+ 2. L'Agenzia, nello svolgimento dell'attività di vigilanza di cui al comma 1, opera anche in collaborazione con altre autorità di vigilanza del mercato competenti in Italia e con le autorità di vigilanza degli altri Stati membri ai sensi dell'articolo 58, paragrafo 7, lettere a) ed h), del Regolamento. L'Agenzia esegue l'attività di vigilanza di cui al comma 1 anche in collaborazione con le Forze dell'ordine. 
+ 
+
+ 3. L'Agenzia, nell'attività di vigilanza di cui al comma 1, può effettuare, nei confronti degli organismi di valutazione della conformità, dei titolari dei certificati europei di cybersicurezza e degli emittenti le dichiarazioni di conformità UE, indagini ed audit, ottenendo informazioni anche tramite l'accesso ai locali degli organismi di valutazione della conformità o dei titolari dei certificati europei di cybersicurezza, revocare certificati ai sensi del comma 4, irrogare sanzioni pecuniarie ed accessorie ai sensi dell'articolo 10. L'attività di vigilanza dell'Agenzia può prevedere prelievi di prodotti. 
+ 
+
+ 4. Nel caso in cui l'Agenzia, in esito alle attività di vigilanza di cui al comma 1, accerti l'emissione di un certificato non conforme, rilasciato ai sensi dell'articolo 56, paragrafi 4, 5, lettera b), o 6, lettere a) e b), del Regolamento, il certificato è sottoposto a revoca: 
+ 
+
+ a) per il livello di affidabilità elevato; 
+ 
+
+ b) per il livello di affidabilità di base o sostanziale nel caso in cui il certificato non conforme sia relativo ad un prodotto TIC, servizio TIC, processo TIC o servizio di sicurezza gestito che ha comportato un concreto e dimostrato pregiudizio a un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138, o alla salute o all'incolumità personale; 
+ 
+
+ c) se previsto espressamente dallo specifico sistema europeo di certificazione. 
+ 
+
+ 5. Nella fattispecie di cui alla lettera a) del comma 4 l'Agenzia provvede direttamente alla revoca del certificato. Nella fattispecie di cui alla lettera b) del comma 4 l'Agenzia chiede all'organismo emittente il certificato di provvedere alla revoca del certificato, dandone contestuale notifica all'Agenzia, entro e non oltre cinque giorni e, in caso di inottemperanza, provvede direttamente entro i successivi cinque giorni. Nella fattispecie di cui alla lettera c) del comma 4 si provvede in base alle regole stabilite dal sistema specifico di certificazione. 
+ 
+
+ 6. Accertata l'emissione di un certificato non conforme rilasciato ai sensi dell'articolo 56, paragrafi 4, 5, lettera b), o 6, lettere a) e b), del Regolamento, in esito alle attività di vigilanza di cui al comma 1, fatti salvi i casi di revoca di cui alle lettere a), b) o c) del comma 4, l'Agenzia chiede all'organismo che ha emesso il certificato di ripetere in tutto o in parte l'attività di valutazione o integrare l'attività di valutazione con ulteriori verifiche e ricondurre il certificato a conformità entro i termini stabiliti dall'Agenzia e comunque non oltre centoventi giorni o revocare il certificato. In caso di mancata riconduzione a conformità o mancata revoca del certificato non conforme da parte dell'organismo, il certificato decade. La riconduzione a conformità o la revoca del certificato sono divulgate ai sensi dell'articolo 54, paragrafo 1, lettera s), del Regolamento. 
+ 
+
+ 7. L'Agenzia, per le prove tecniche nell'ambito delle attività di cui al comma 1, può effettuare valutazioni di sicurezza informatica anche attraverso esperti esterni o laboratori di prova abilitati dall'Agenzia, ai sensi dell'articolo 8, comma 4, e iscritti nell'elenco dei laboratori di prova e degli esperti per le attività di vigilanza nazionale. 
+ 
+
+ 8. è fatto obbligo agli organismi di valutazione della conformità, ai titolari dei certificati europei di cybersicurezza ed agli emittenti delle dichiarazioni di conformità durante l'attività di vigilanza a cui sono sottoposti di cooperare con l'Agenzia nell'attività di verifica sui certificati e sulle dichiarazioni UE da essi emessi. Gli stessi mettono a disposizione, su richiesta dell'Agenzia, tutti i documenti di valutazione necessari per dimostrare la conformità dei certificati e le dichiarazioni oggetto di verifica da parte dell'Agenzia assieme agli strumenti di valutazione eventualmente forniti dal fabbricante o dal fornitore nell'attività di valutazione come indicato nei rapporti di valutazione.
+ 
+
+ L'onere della prova della conformità di certificati e dichiarazioni è in capo agli organismi di valutazione della conformità, ai titolari dei certificati o agli emittenti delle dichiarazioni di conformità. 
+ 
+
+ 9. Ai sensi dell'articolo 30, commi 4 e 5, della legge 24 dicembre 2012, n. 234, gli oneri derivanti dall'applicazione dei commi 3 e 8 per i controlli effettuati dall'Agenzia e relativi in particolare all'impiego del personale in forza all'Agenzia, della strumentazione utilizzata nelle prove e dei materiali di consumo e per le missioni e spese generali, sono a carico dell'organismo di valutazione della conformità, del titolare del certificato o dell'emittente della dichiarazione UE di conformità sottoposto all'attività di vigilanza. Nel caso in cui l'attività di vigilanza includa ulteriori spese, tra cui l'utilizzo di laboratori di prova esterni ed eventuali spese di trasporto per prodotti prelevati o sequestrati da sottoporre a verifica, le ulteriori spese sono ugualmente a carico del soggetto sottoposto all'attività di vigilanza. Le somme di cui al presente comma sono determinate e sono da corrispondere ai sensi dell'articolo 13.&raquo;. 
+ 
+
+ &laquo;Art. 6 (Rilascio dei certificati di cybersicurezza).
+ 
+
+ - 1. L'Agenzia rilascia i certificati di cybersicurezza con livello di affidabilità elevato, sostanziale e di base tramite l'Organismo di Certificazione della Sicurezza Informatica (OCSI), di cui all'articolo 60, paragrafo 2, del Regolamento, che si può avvalere di esperti o di laboratori di prova, ai sensi dell'articolo 8, comma 4, abilitati dall'Agenzia ad operare per proprio conto e iscritti nell'elenco dei laboratori di prova e degli esperti per le attività di certificazione, ferme restando, per specifici sistemi di certificazione, le possibili modalità di emissione dei certificati alternative ai sensi degli articoli 56, paragrafo 6, lettere a) e b), del Regolamento. 
+ 
+
+ 2. Ove uno specifico sistema di certificazione preveda il rilascio dei certificati con livello di affidabilità sostanziale o di base unicamente da parte di un organismo pubblico, ai sensi dell'articolo 56, paragrafo 5, del Regolamento, l'Agenzia rilascia tali certificati attraverso l'organismo di cui al comma 1. Il rilascio può avvenire ad opera di altro organismo di valutazione della conformità pubblico, accreditato dall'Organismo di Accreditamento, monitorato e vigilato dall'Agenzia, ai sensi dell'articolo 58, paragrafo 7, lettera d), del Regolamento, e designato dall'Agenzia ai sensi del provvedimento di cui all'articolo 4, comma 2, salvo diverse disposizioni dello specifico sistema europeo di certificazione. 
+ 
+
+ 3. La certificazione della cybersicurezza è volontaria, salvo diversamente specificato dal diritto dell'Unione o dal diritto nazionale, ai sensi dell'articolo 56, paragrafo 2, del Regolamento. In mancanza di un diritto dell'Unione armonizzato, l'Agenzia può adottare, previa consultazione con i portatori di interesse, regolamentazioni tecniche nazionali in cui sia prevista una certificazione obbligatoria nel quadro di un sistema europeo di certificazione della cybersicurezza ai sensi del decreto legislativo del 15 dicembre 2017, n. 223. 
+ 
+
+ 4. Ai sensi dell'articolo 30, commi 4 e 5, della legge 24 dicembre 2012, n. 234, gli oneri derivanti dall'applicazione dei commi 1 e 2 del presente articolo per il rilascio dei certificati da parte dell'Agenzia sono a carico del soggetto richiedente la certificazione. Le somme di cui al presente comma sono determinate e sono da corrispondere ai sensi dell'articolo 13.&raquo;. 
+ 
+
+ &laquo;Art. 7 (Dichiarazioni UE di conformità). - 1. In un sistema di certificazione in cui è autorizzata l'autovalutazione di conformità ai sensi dell'articolo 54, paragrafo 1, lettera e), del Regolamento, i fornitori o fabbricanti di prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti possono rilasciare sotto la propria responsabilità dichiarazioni UE di conformità di livello di base per dimostrare il rispetto di requisiti tecnici previsti nel sistema. 
+ 
+
+ 2. Il fabbricante o fornitore di prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti rende disponibile all'Agenzia, per il periodo stabilito nel corrispondente sistema europeo di certificazione della cybersicurezza ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformità, la documentazione tecnica e tutte le altre informazioni pertinenti relative alla conformità dei prodotti TIC, servizi TIC o servizi di sicurezza gestiti al sistema. Una copia della dichiarazione UE di conformità è trasmessa all'Agenzia e all'ENISA. 
+ 
+
+ 3. Ove l'Agenzia accerti la non conformità di una dichiarazione UE di conformità in esito alle attività di vigilanza di cui all'articolo 5, comma 1, è fatto obbligo al fabbricante o fornitore emittente di revisionare o revocare la dichiarazione UE di conformità entro trenta giorni dandone comunicazione all'Agenzia e all'ENISA, salvo diversa disposizione dello specifico sistema di certificazione. 
+ 
+
+ 4. Il rilascio di una dichiarazione UE di conformità è volontario, salvo diversamente specificato nel diritto dell'Unione o dal diritto nazionale, ai sensi dell'articolo 53, paragrafo 4 del Regolamento. In mancanza di un diritto dell'Unione armonizzato, l'Agenzia può stabilire l'obbligatorietà della dichiarazione UE di conformità nelle fattispecie di cui all'articolo 6, comma 3.&raquo;. 
+ 
+
+ &laquo;Art. 9 (Attività di ricerca, formazione e sperimentazione nazionale nell'ambito della certificazione della cybersicurezza). - 1. Allo scopo di elevare il livello nazionale di cybersicurezza, l'Agenzia può realizzare progetti di ricerca, ivi inclusi quelli per lo sviluppo di software, e di formazione, anche in collaborazione con università, centri di ricerca o laboratori specializzati nel campo della valutazione della sicurezza informatica, anche nel contesto di attività di supporto alla standardizzazione a livello nazionale, europeo ed internazionale. 
+ 
+
+ 2. L'Agenzia monitora gli sviluppi nel campo della certificazione della cybersicurezza, anche consultando i portatori di interesse nazionale del settore e scambiando informazioni, esperienze e buone pratiche con la Commissione europea e le altre autorità nazionali della cybersicurezza. 
+ 
+
+ 3. Conformemente all'articolo 57 del Regolamento ed in assenza di un sistema europeo di certificazione, l'Agenzia può introdurre sistemi di certificazione nazionali della cybersicurezza, per prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti.&raquo;. 
+ 
+
+ &laquo;Art. 10 (Quadro sanzionatorio). - 1. L'Agenzia, anche ai sensi dell'articolo 7, comma 1, lettera e), del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, in caso di violazione degli obblighi del quadro europeo di certificazione della cybersicurezza, ai sensi degli articoli 58, paragrafo 8, lettera f), e 65 del Regolamento irroga sanzioni pecuniarie ed accessorie, chiedendo la cessazione immediata della violazione. Si applica l'articolo 17, comma 4-quater, del decreto-legge n. 82 del 2021. 
+ 
+
+ 2. Salvo che il fatto costituisca reato, l'organismo di valutazione della conformità che emette un certificato di cybersicurezza non conforme è punito con la sanzione del pagamento di una somma da 15.000 euro a 75.000 euro. In caso di omessa revoca di un certificato da parte dell'organismo su richiesta dell'Agenzia ai sensi dell'articolo 5, comma 5, si applica la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. 
+ 
+
+ 3. Salvo che il fatto costituisca reato, il fabbricante o fornitore che emette una dichiarazione UE di conformità volontaria non conforme è punito con la sanzione del pagamento di una somma da 15.000 euro a 75.000 euro. In caso di omessa revisione o revoca di dichiarazione UE di conformità volontaria o obbligatoria ai sensi dell'articolo 7, comma 3, si applica la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. 
+ 
+
+ 4. Salvo che il fatto costituisca reato, in caso di obbligatorietà di una dichiarazione UE di conformità, ai sensi dell'articolo 7, comma 4, o di un certificato di cybersicurezza, ai sensi dell'articolo 6, comma 3, il fabbricante o fornitore che mette a disposizione sul mercato un prodotto TIC, un servizio TIC o un servizio di sicurezza gestito privo di dichiarazione UE di conformità obbligatoria o con dichiarazione UE di conformità obbligatoria non conforme o in assenza del certificato di cybersicurezza obbligatorio, è punito con la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione è assoggettato il fabbricante o fornitore che per la messa a disposizione sul mercato di un prodotto TIC o di un servizio TIC si avvale di un processo TIC privo di dichiarazione UE di conformità obbligatoria o con dichiarazione UE di conformità obbligatoria non conforme o in assenza di certificato di cybersicurezza obbligatorio. 
+ 
+
+ 5. Nei casi di cui al comma 4 oppure ove, in esito ad un accertamento di non conformità ai sensi dei commi 4, 5 o 6 dell'articolo 5, sia revocato o decada un certificato obbligatorio per la messa a disposizione sul mercato di un prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito, l'Agenzia dispone il ritiro del prodotto o l'inibizione del servizio dal mercato a carico esclusivo del fabbricante o del fornitore indicando i tempi ed eventuali modalità per il richiamo dei prodotti già immessi sul mercato o per l'inibizione del servizio; 
+ 
+
+ 6. Salvo che il fatto costituisca reato, il fabbricante che non ottempera a quanto prescritto al comma 5 per il richiamo di prodotti già immessi sul mercato è assoggettato alla sanzione del pagamento di una somma da 60.000 euro a 300.000 euro. Nel caso in cui il fabbricante non ottemperi al richiamo di prodotti dal mercato, l'Agenzia, trascorsi sei mesi dalla scadenza fissata, può provvedere, al sequestro dei prodotti in questione dal mercato, a spese del fabbricante. 
+ 
+
+ 7. Salvo che il fatto costituisca reato, il fornitore che non ottempera a quanto prescritto al comma 5 per l'inibizione del servizio dal mercato è assoggettato alla sanzione amministrativa da 60.000 euro a 300.000 euro. 
+ 
+
+ 8. Salvo che il fatto costituisca reato, Il titolare di un certificato europeo di cybersicurezza che non notifichi, ai sensi dell'articolo 56, paragrafo 8, del Regolamento, eventuali vulnerabilità o irregolarità rilevate in relazione alla sicurezza dei prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti certificati è punito con la sanzione del pagamento di una somma da 60.000 euro a 300.000 euro. Alla medesima sanzione è assoggettato l'organismo di valutazione della conformità emittente un certificato di cybersicurezza o il suo titolare ovvero il fornitore o fabbricante emittente una dichiarazione UE di conformità, che dovesse rilevare o venire a conoscenza della presenza di vulnerabilità nel prodotto TIC, servizio TIC, processo TIC o servizio di sicurezza gestito certificato o dichiarato conforme, che non siano state riscontrate durante il processo di valutazione, e non ottemperi agli obblighi riguardanti il modo in cui segnalare e trattare le vulnerabilità previste per lo specifico sistema di certificazione ai sensi dell'articolo 54, paragrafo 1, lettera m), del Regolamento. 
+ 
+
+ 9. Salvo che il fatto costituisca reato, il fabbricante o fornitore che non renda disponibile, per il periodo stabilito ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformità o la documentazione tecnica o tutte le altre informazioni pertinenti o non trasmetta una copia della dichiarazione UE di conformità all'Agenzia o ad ENISA ai sensi dell'articolo 53, paragrafo 3, del Regolamento ovvero non renda disponibili pubblicamente una o più delle informazioni previste ai sensi dell'articolo 55 del Regolamento o non rispetti il formato o le procedure di aggiornamento delle stesse informazioni ai sensi dell'articolo 54, paragrafo 1, lettera v), del Regolamento o pubblichi informazioni non corrette sui certificati detenuti o sulle dichiarazioni UE di conformità emesse, è assoggettato alla sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione è assoggettato il fornitore o fabbricante che non comunichi la revisione o la revoca di una dichiarazione UE di conformità ai sensi dell'articolo 7, comma 3, del presente decreto. 
+ 
+
+ 10. Salvo che il fatto costituisca reato, l'organismo di valutazione della conformità che non ottempera agli obblighi di divulgazione dei certificati europei di cybersicurezza rilasciati, modificati o revocati come previsto nell'ambito dello specifico sistema di certificazione, ai sensi dell'articolo 54, paragrafo 1, lettera s), del Regolamento, nonchè secondo le modalità di cui all'articolo 5, comma 6, è assoggettato alla sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione è assoggettato l'organismo di valutazione della conformità autorizzato dall'Agenzia ai sensi dell'articolo 60, paragrafo 3, del Regolamento, che non specifichi nella procedura per i reclami definita ai sensi dell'articolo 11, comma 2, l'inoltro degli stessi per conoscenza anche all'Agenzia. 
+ 
+
+ 11. Salvo che il fatto costituisca reato, nel caso di accertamento di esercizio di organismo di valutazione della conformità senza autorizzazione di cui all'articolo 60, paragrafo 3, del Regolamento si applica la sanzione del pagamento di una somma da 120.000 euro a 600.000 euro e al soggetto non possono essere rilasciate ulteriori autorizzazioni nei successivi tre anni dall'accertamento della violazione. Se l'autorizzazione è scaduta da meno di un anno la sanzione è compresa tra 30.000 euro e 150.000 euro ed il soggetto può richiedere il rilascio di nuova autorizzazione. 
+ 
+
+ 12. Salvo che i fatti costituiscano reato, il richiedente di una certificazione che nell'ambito dello svolgimento dell'attività di valutazione e di rilascio dei certificati, scientemente, fornisce dati, informazioni o documentazione falsi o ometta informazioni necessarie per espletare la certificazione, in violazione dell'articolo 54, paragrafo 1, lettera h), e dell'articolo 56, paragrafo 7, del Regolamento, è assoggettato alla sanzione del pagamento di una somma da 90.000 euro a 450.000 euro. Alla medesima sanzione è assoggettato il soggetto che, scientemente, durante le verifiche di vigilanza, a cui è sottoposto, ai sensi dell'articolo 5, comma 8, fornisce dati, informazioni o documentazione falsi. 
+ 
+
+ 13. Salvo che il fatto costituisca reato, il fabbricante che viola le condizioni di utilizzo degli eventuali marchi o etichette previste da un sistema europeo di certificazione, ai sensi dell'articolo 54, paragrafo 1, lettera i), del Regolamento, è assoggettato alla sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. 
+ 
+
+ 14. Salvo che il fatto costituisca reato, l'organismo di valutazione della conformità che non ottempera agli eventuali obblighi riguardanti la conservazione dei registri di cui all'articolo 54, paragrafo 1, lettera n), del Regolamento, è assoggettato alla sanzione del pagamento di una somma da 45.000 euro a 225.000 euro. 
+ 
+
+ 15. L'Agenzia può impartire ordini o intimare diffide ai soggetti che operano in contrasto con quanto previsto dal quadro europeo di certificazione. Ai soggetti che non ottemperano nel termine indicato nell'ordine o nella diffida l'Agenzia commina la sanzione del pagamento di una somma da 200.000 euro ad 1.000.000 di euro. Se le violazioni riguardano provvedimenti adottati dall'Agenzia nei confronti di soggetti con fatturato pari almeno a 200.000.000 euro, si applica a ciascun soggetto interessato una sanzione amministrativa pecuniaria non inferiore allo 0,3 per cento e non superiore all'1,5 per cento del fatturato, restando comunque fermo il limite massimo di 5.000.000 di euro. Come riferimento per il fatturato si assume il valore realizzato dallo stesso soggetto nell'esercizio precedente a quello in cui sia stato impartito l'ordine o sia stata intimata la diffida. 
+ 
+
+ 16. Fermo restando il limite massimo di 5.000.000 di euro per la sanzione, i valori minimi e massimi delle sanzioni pecuniarie dal comma 2 al comma 15, sono triplicati, se la violazione ha riguardato un certificato relativo ad un prodotto TIC, ad un servizio TIC, ad un processo TIC o a un servizio di sicurezza gestito rilasciato nell'ambito di un sistema di certificazione destinato, ai sensi dell'articolo 54, paragrafo 1, lettere a) o b), del Regolamento, all'utilizzo con le finalità o nell'ambito di un servizio erogato da un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138. 
+ 
+
+ 17. I criteri di graduazione nell'irrogazione delle sanzioni pecuniarie sono definiti con successivo provvedimento dell'Agenzia, adottato secondo la procedura di cui all'articolo 5, comma 3, alinea, del decreto del Presidente del Consiglio dei ministri 9 dicembre 2021, n. 223. Nelle more dell'adozione del provvedimento di definizione dei criteri di graduazione si applicano i criteri di cui all'articolo 11 della legge 24 novembre 1981, n. 689. 
+ 
+
+ 18. Fermo restando il limite massimo di 5.000.000 di euro per la sanzione, le sanzioni amministrative pecuniarie previste ai commi dal 2 al 14 sono rivalutate ogni cinque anni con provvedimento dell'Agenzia, adottato secondo la procedura di cui all'articolo 5, comma 3, alinea, del regolamento adottato con decreto del Presidente del Consiglio dei ministri 9 dicembre 2021, n. 223, in misura pari all'indice ISTAT dei prezzi al consumo previo arrotondamento all'unità di euro secondo il seguente criterio: se la parte decimale è inferiore a 50 centesimi l'arrotondamento va effettuato per difetto, se è uguale o superiore a 50 centesimi l'arrotondamento va effettuato per eccesso. L'importo della sanzione pecuniaria rivalutato secondo i predetti criteri si applica esclusivamente per le violazioni commesse successivamente alla data di entrata in vigore del provvedimento che lo prevede. 
+ 
+
+ 19. L'autorizzazione di un organismo di valutazione della conformità ad operare nel sistema europeo di certificazione ai sensi dell'articolo 60, paragrafo 3, del Regolamento, ove prevista, è sospesa per 6 mesi o revocata nel caso di più di due violazioni del quadro europeo di certificazione rispettivamente in un quinquennio o in un biennio. In caso di revoca dell'autorizzazione, il trasgressore non può ottenere nuova autorizzazione nei successivi cinque anni dal provvedimento di revoca. 
+ 
+
+ 20. L'Agenzia notifica alla Commissione europea il quadro sanzionatorio di cui al presente articolo entro sessanta giorni dalla data di entrata in vigore del presente decreto e provvede poi a dare notifica delle eventuali modifiche entro sessanta giorni successivi alle stesse.&raquo;. 
+ 
+
+ &laquo;Art. 13 (Destinazione dei proventi derivanti dalle attività dell'Agenzia). - 1. Le attività di vigilanza di cui all'articolo 5, comma 1, di certificazione di cui all'articolo 6, comma 1, di autorizzazione di cui all'articolo 8, comma 3, di abilitazione di cui all'articolo 8, comma 4, sono sottoposte a tariffa, da calcolarsi sulla base dei costi effettivi dei servizi resi.
+ 
+
+ I relativi proventi sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, di cui all'articolo 18 del decreto-legge n. 82 del 2021. Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, su proposta del Direttore generale dell'Agenzia, sono determinate le tariffe e modalità di riscossione. 
+ 
+
+ 2. Le spese per l'impiego di esperti o laboratori abilitati dall'Agenzia per le attività di vigilanza di cui all'articolo 5, comma 1, sono calcolate ai sensi del decreto di cui al comma 1. 
+ 
+
+ 3. Gli introiti derivanti dalle sanzioni pecuniarie di cui all'articolo 10 sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, di cui all'articolo 18 del decreto-legge n. 82 del 2021, e destinati alle attività di ricerca e formazione concernenti la certificazione della cybersicurezza di prodotti TIC, servizi TIC, processi TIC e servizi di sicurezza gestiti di cui all'articolo 9, comma 1.&raquo;.
