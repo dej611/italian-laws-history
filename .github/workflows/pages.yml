@@ -1,0 +1,65 @@
+# GitHub reads this file from the default branch (`history`).
+# The job checks out `explore` and reads the checkpoint from `main`.
+name: Publish Normoscopio
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Daily Normattiva Scrape"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  pages:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       (github.event.workflow_run.event == 'schedule' || github.event.workflow_run.event == 'workflow_dispatch') &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: explore
+          fetch-depth: 1
+
+      - name: Fetch history and the checkpoint
+        run: |
+          git fetch --no-tags origin \
+            history:history \
+            main:refs/remotes/origin/main
+          git show refs/remotes/origin/main:progress-rs.json > progress-rs.json
+
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 12
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm run refresh
+      - run: pnpm run build
+        env:
+          VITE_BASE: ./
+
+      - name: Publish the gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          touch dist/.nojekyll
+          git -C dist init -b gh-pages
+          git -C dist add -A
+          git -C dist \
+            -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m ":sparkles: publish Normoscopio"
+          git -C dist push --force \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            gh-pages
