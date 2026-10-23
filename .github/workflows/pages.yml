@@ -28,7 +28,10 @@ jobs:
 
       - name: Fetch history and the checkpoint
         run: |
-          git fetch --no-tags origin \
+          # Tip only. Normoscopio reads commit-index.tsv and the current tree;
+          # it does not walk ancestry. A full fetch of this orphan branch
+          # exceeds the job.
+          git fetch --depth=1 --no-tags origin \
             history:history \
             main:refs/remotes/origin/main
           git show refs/remotes/origin/main:progress-rs.json > progress-rs.json
