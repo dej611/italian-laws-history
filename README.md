@@ -192,13 +192,16 @@ cargo build --release    # optimized binary
 
 ## CI
 
-[.github/workflows/daily-scrape.yml](.github/workflows/daily-scrape.yml) runs
-the binary daily at 12:00 UTC on the `main` branch with `--ci`. The
-`progress-rs.json` checkpoint is cached across runs.
+`history` is the repository's default branch. Scheduled workflows are read
+from there, then check out `main` for this source tree.
 
-[.github/workflows/pages.yml](.github/workflows/pages.yml) then checks out
-`explore`, rebuilds Normoscopio from that checkpoint and the `history`
-branch, and publishes `dist/` to `gh-pages`.
+[.github/workflows/daily-scrape.yml](.github/workflows/daily-scrape.yml) runs
+the binary daily at 12:00 UTC with `--ci`. It fetches only the tip of
+`history`. The `progress-rs.json` checkpoint is committed back to `main`.
+
+[.github/workflows/pages.yml](.github/workflows/pages.yml) checks out
+`explore`, reads that checkpoint from `main` and the law texts from
+`history`, and publishes `dist/` to `gh-pages`.
 
 ## License
 
