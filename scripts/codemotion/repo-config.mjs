@@ -6,4 +6,6 @@ export {
   processingLogs,
   assertRepo,
   git,
+  commitIndex,
+  subjectOf,
 } from "../repo-config.mjs";

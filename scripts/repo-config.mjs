@@ -45,6 +45,21 @@ export function git(args, { maxBuffer = 1024 * 1024 * 512 } = {}) {
   });
 }
 
+/** Tip file on the history branch: one commit subject per line, oldest first.
+ *  A naming commit adds a tab and the act `.txt`. The history tip is enough. */
+export const COMMIT_INDEX = "commit-index.tsv";
+
+export function commitIndex() {
+  return git(["show", `${HISTORY_BRANCH}:${COMMIT_INDEX}`])
+    .split("\n")
+    .filter(Boolean);
+}
+
+export function subjectOf(line) {
+  const tab = line.indexOf("\t");
+  return tab < 0 ? line : line.slice(0, tab);
+}
+
 export function processingLogs(root = LAWS_REPO) {
   const LOG_RE = /^processing-(\d{4}-\d{2}-\d{2})-rs\.log$/;
   return readdirSync(root)

@@ -9,6 +9,8 @@ import {
   HISTORY_BRANCH,
   PROGRESS_PATH,
   PUBLIC_DATA,
+  commitIndex,
+  subjectOf,
 } from "./repo-config.mjs";
 
 assertRepo();
@@ -99,20 +101,16 @@ for (const file of decadutoFiles) {
 // are often by codice. For brush we mainly need decaduto on provisional acts
 // present in the graph — match by scanning actVersions year+type is weak.
 // Simpler: parse DECADUTO commits for codes (cheap subject scan).
-const log = git([
-  "log",
-  HISTORY_BRANCH,
-  "--format=%aI%x09%s",
-  "--grep=^DECADUTO:",
-]);
+// The index is oldest-first; keep the first date so it matches the old
+// newest-first log, which overwrote with the oldest subject.
 /** @type {Map<string, string>} */
 const decadutoBySubjectCode = new Map();
-for (const line of log.split("\n")) {
-  if (!line) continue;
-  const [iso, subject] = line.split("\t");
-  const date = (iso || "").slice(0, 10);
-  const m = subject?.match(/DECADUTO:\s+\S+\s+(\S+)/);
-  if (m && date) decadutoBySubjectCode.set(m[1], date);
+for (const line of commitIndex()) {
+  const subject = subjectOf(line);
+  if (!subject.startsWith("DECADUTO:")) continue;
+  const date = subject.match(/\b(\d{4}-\d{2}-\d{2})\b/)?.[1] ?? "1970-01-01";
+  const m = subject.match(/DECADUTO:\s+\S+\s+(\S+)/);
+  if (m && date && !decadutoBySubjectCode.has(m[1])) decadutoBySubjectCode.set(m[1], date);
 }
 
 function labelFromSlug(slug, graphLabel) {

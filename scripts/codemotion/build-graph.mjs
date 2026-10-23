@@ -20,20 +20,17 @@
 // forest of stars (circuit rank 0, degeneracy 1, empty 2-core).
 //
 // A metadata join can't fix it — progress-rs.json has no act number, and its
-// `date` is the last-processed date, not the act date. The commit log can: a
+// `date` is the last-processed date, not the act date. commit-index.tsv can: a
 //   GU <n> - <date> - <TYPE> <CODE>
-// commit touches that act's own <slug>.txt, which pins code to slug. We resolve
+// line names that act's own <slug>.txt, which pins code to slug. We resolve
 // every modifier through that bridge so one act is one node.
 //
 // Allegato .refs already name the parent by slug; listed rows are URNs mapped
 // to the same `{tipo}-{num}-del-{DD}-{MM}-{YYYY}.txt` form the scraper uses.
 //
-// Cost note: `git log --name-only` over the whole branch is ~65 commits/sec
-// because the repo is a flat directory of ~248k files, so every commit diff
-// parses two ~10MB tree objects (83 min for the full walk). We avoid that by
-// reading subjects with no diff at all (~3s), selecting only the GU commits for
-// codes we actually need (~17k of 324k), and resolving those with `diff-tree`
-// across parallel workers — about a minute.
+// The code→slug bridge is materialized in `commit-index.tsv` on the history
+// tip (subject, and for the naming commit a tab plus the act file). Reading
+// that file needs no ancestry walk, so a depth-1 fetch of history is enough.
 //
 // Residual: ~13% of modifiers have no GU commit (acts cited as amenders that
 // were never scraped as acts). Those stay in code space and are labelled as
@@ -45,10 +42,9 @@
 import { writeFileSync, readFileSync } from 'node:fs';
 import { spawn } from 'node:child_process';
 import { Worker } from 'node:worker_threads';
-import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { LAWS_REPO, PROGRESS_PATH, HISTORY_BRANCH, assertRepo, git } from './repo-config.mjs';
+import { LAWS_REPO, PROGRESS_PATH, HISTORY_BRANCH, assertRepo, git, commitIndex } from './repo-config.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const outPath = path.join(here, 'graph.json');
@@ -152,35 +148,6 @@ function catFileBatch(shas) {
 
 // --- identity reconciliation: codiceRedazionale -> filename slug ---
 
-const CPUS = Math.max(1, Math.min(8, os.cpus().length));
-
-// `git diff-tree --stdin` prints a 40-hex commit line followed by its touched
-// paths. Split the work across workers, and always attach the stdout reader
-// before writing stdin: feeding a large sha list into a 64KB pipe while nobody
-// drains the output deadlocks.
-function diffTreeWorker(hashes) {
-  return new Promise((resolve, reject) => {
-    const child = spawn('git', ['-C', LAWS_REPO, 'diff-tree', '-r', '--stdin', '--name-only'], {
-      stdio: ['pipe', 'pipe', 'inherit'],
-    });
-    let out = '';
-    child.stdout.setEncoding('utf8');
-    child.stdout.on('data', (c) => { out += c; });
-    child.stdout.on('end', () => resolve(out));
-    child.on('error', reject);
-    child.stdin.end(hashes.join('\n') + '\n');
-  });
-}
-
-async function diffTreeParallel(hashes) {
-  const size = Math.ceil(hashes.length / CPUS);
-  const chunks = [];
-  for (let i = 0; i < hashes.length; i += size) chunks.push(hashes.slice(i, i + size));
-  const outs = await Promise.all(chunks.map(diffTreeWorker));
-  return outs.join('');
-}
-
-const SHA_RE = /^[0-9a-f]{40}$/;
 const SLUG_RE = /^(?<pre>.+)-(?<num>\d+)-del-(?<d>\d{2})-(?<m>\d{2})-(?<y>\d{4})\.txt$/;
 // Two commit subjects name an act by code and touch that act's own file:
 // a first-publication `GU <n> - <date> - <TYPE> <CODE>` and a later
@@ -190,87 +157,38 @@ const SLUG_RE = /^(?<pre>.+)-(?<num>\d+)-del-(?<d>\d{2})-(?<m>\d{2})-(?<y>\d{4})
 const GU_RE = /^GU\s+\S+\s+-\s+\d{4}-\d{2}-\d{2}\s+-\s+(.*?)\s+(\S+)$/;
 const MOD_RE = /^Modifica:\s+(.*?)\s+(\S+)\s+@\s+\d{4}-\d{2}-\d{2}$/;
 
-async function buildCodeToSlug(needed, actMeta) {
-  // Subjects only — no --name-only, so git never computes a diff (~3s).
-  const subjects = git(['log', HISTORY_BRANCH, '--format=%H\x01%s'], {
-    maxBuffer: 1024 * 1024 * 512,
-  });
-  const wanted = new Map(); // hash -> { code, type }
-  const claimed = new Set();
-  const fallback = new Map(); // code -> { hash, type }, used only if no GU commit
-  for (const line of subjects.split('\n')) {
-    const sep = line.indexOf('\x01');
-    if (sep < 0) continue;
-    const hash = line.slice(0, sep);
-    const subject = line.slice(sep + 1);
-    const gu = GU_RE.exec(subject);
-    if (gu) {
-      const code = gu[2];
-      // Keep the newest GU commit per code; the log walks newest-first.
-      if (!needed.has(code) || claimed.has(code)) continue;
-      claimed.add(code);
-      wanted.set(hash, { code, type: gu[1] });
+function buildCodeToSlug(needed) {
+  // commit-index.tsv is oldest-first. The last GU slug for a code wins;
+  // a Modifica slug is kept only until a GU slug shows up.
+  const gu = new Map();
+  const fallback = new Map();
+  for (const line of commitIndex()) {
+    const tab = line.indexOf('\t');
+    const subject = tab < 0 ? line : line.slice(0, tab);
+    const slug = tab < 0 ? '' : line.slice(tab + 1);
+    if (!slug) continue;
+    const g = GU_RE.exec(subject);
+    if (g) {
+      const code = g[2];
+      if (needed.has(code)) gu.set(code, slug);
       continue;
     }
     const mod = MOD_RE.exec(subject);
     if (mod) {
       const code = mod[2];
-      if (!needed.has(code) || fallback.has(code)) continue;
-      fallback.set(code, { hash, type: mod[1] });
+      if (needed.has(code) && !gu.has(code)) fallback.set(code, slug);
     }
   }
+  const map = new Map(gu);
   let fellBack = 0;
-  for (const [code, f] of fallback) {
-    if (claimed.has(code)) continue;
-    claimed.add(code);
-    wanted.set(f.hash, { code, type: f.type });
+  for (const [code, slug] of fallback) {
+    if (map.has(code)) continue;
+    map.set(code, slug);
     fellBack += 1;
   }
   console.log(
-    `  ${claimed.size.toLocaleString()} of ${needed.size.toLocaleString()} modifier codes ` +
-      `have a naming commit (${fellBack.toLocaleString()} via Modifica: fallback)`,
-  );
-
-  const raw = await diffTreeParallel([...wanted.keys()]);
-
-  const map = new Map();
-  let ambiguous = 0;
-  let current = null;
-  let files = [];
-  const flush = () => {
-    if (!current) return;
-    const want = wanted.get(current);
-    if (!want) return;
-    const cands = files.filter((f) => f.endsWith('.txt'));
-    if (cands.length === 0) return;
-    if (cands.length === 1) { map.set(want.code, cands[0]); return; }
-    // A GU commit can touch more than one act file; score candidates on the
-    // subject's act type and the enactment year from progress-rs.
-    const prefix = want.type.trim().toLowerCase().replace(/\s+/g, '-');
-    const year = actMeta.get(want.code)?.year;
-    const scored = [];
-    for (const f of cands) {
-      const m = SLUG_RE.exec(f);
-      if (!m) continue;
-      let s = 0;
-      if (m.groups.pre === prefix) s += 2;
-      if (year && m.groups.y === String(year)) s += 1;
-      scored.push([s, f]);
-    }
-    scored.sort((a, b) => b[0] - a[0]);
-    if (scored.length === 0) return;
-    if (scored.length > 1 && scored[0][0] === scored[1][0]) { ambiguous += 1; return; }
-    map.set(want.code, scored[0][1]);
-  };
-  for (const line of raw.split('\n')) {
-    if (SHA_RE.test(line)) { flush(); current = line; files = []; }
-    else if (line) files.push(line);
-  }
-  flush();
-
-  console.log(
-    `  resolved ${map.size.toLocaleString()} code->slug ` +
-      `(${ambiguous.toLocaleString()} ambiguous, ` +
+    `  ${map.size.toLocaleString()} of ${needed.size.toLocaleString()} modifier codes ` +
+      `resolved (${fellBack.toLocaleString()} via Modifica: fallback, ` +
       `${(needed.size - map.size).toLocaleString()} left in code space)`,
   );
   return map;
@@ -319,17 +237,6 @@ function loadCodeLabels() {
 }
 
 // code -> { year, type } — used to disambiguate multi-file GU commits.
-function loadActMeta() {
-  const progress = JSON.parse(readFileSync(PROGRESS_PATH, 'utf8'));
-  const acts = progress.actVersions ?? {};
-  const meta = new Map();
-  for (const [code, v] of Object.entries(acts)) {
-    if (!v || typeof v === 'string') continue;
-    meta.set(code, { year: v.year ?? (v.date ?? '').slice(0, 4), type: v.type ?? '' });
-  }
-  return meta;
-}
-
 // --- LAYOUT: fcose per component, normalised to a uniform density ---
 //
 // fcose runs on each component ON ITS OWN, on a worker pool (see
@@ -499,9 +406,8 @@ async function main() {
   const needed = new Set();
   for (const { modifiers } of parsed) for (const m of modifiers) needed.add(m);
 
-  console.log(`Reconciling identities via the commit log…`);
-  const actMeta = loadActMeta();
-  const codeToSlug = await buildCodeToSlug(needed, actMeta);
+  console.log(`Reconciling identities via commit-index.tsv…`);
+  const codeToSlug = buildCodeToSlug(needed);
 
   // Pass 2: build edges with every act as a single node.
   const edges = [];

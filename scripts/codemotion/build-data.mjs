@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Build data.json for the deck from the read-only italian-laws-history repo:
 //   - progress-rs.json           -> act aggregates (by year / by type / refs)
-//   - git history             -> commit-subject families, DL conversions
+//   - commit-index.tsv           -> commit-subject families, DL conversions
 //   - *.decaduto tree markers    -> lapsed decrees by year
 //   - *.modifiedby tree blobs    -> octopus (L.473/1925) hub degree
 //   - processing-*.log        -> HTTP request volume + fetch-error mix
@@ -15,16 +15,16 @@ import {
   createReadStream,
 } from 'node:fs';
 import { createInterface } from 'node:readline';
-import { spawn } from 'node:child_process';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  LAWS_REPO,
   PROGRESS_PATH,
   HISTORY_BRANCH,
   processingLogs,
   assertRepo,
   git,
+  commitIndex,
+  subjectOf,
 } from './repo-config.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -186,31 +186,19 @@ function aggregateProgress(progress) {
   };
 }
 
-// --- git history-rs: commit-subject families + conversions ---
+// --- commit-index.tsv: commit-subject families + conversions ---
 
-function streamGitLog(onSubject) {
-  return new Promise((resolve, reject) => {
-    const child = spawn(
-      'git',
-      ['-C', LAWS_REPO, 'log', HISTORY_BRANCH, '--no-color', '--pretty=format:%s'],
-      { stdio: ['ignore', 'pipe', 'inherit'] },
-    );
-    const rl = createInterface({ input: child.stdout });
-    rl.on('line', onSubject);
-    rl.on('close', resolve);
-    child.on('error', reject);
-  });
-}
-
-async function commitStats() {
+function commitStats() {
   let gu = 0;
   let modifica = 0;
   let modificaOn19470923 = 0;
   const convertitoByYear = new Map();
+  const lines = commitIndex();
 
   // The 1947 case study counts amendments by the date encoded in the subject
   // (`Modifica: … @ YYYY-MM-DD`), not the git author date.
-  await streamGitLog((subject) => {
+  for (const line of lines) {
+    const subject = subjectOf(line);
     if (subject.startsWith('GU ')) gu++;
     else if (subject.startsWith('Modifica:')) {
       modifica++;
@@ -222,10 +210,9 @@ async function commitStats() {
         convertitoByYear.set(y, (convertitoByYear.get(y) ?? 0) + 1);
       }
     }
-  });
+  }
 
-  const commits = parseInt(git(['rev-list', '--count', HISTORY_BRANCH]).trim(), 10);
-  return { commits, gu, modifica, modificaOn19470923, convertitoByYear };
+  return { commits: lines.length, gu, modifica, modificaOn19470923, convertitoByYear };
 }
 
 // --- *.decaduto markers: lapsed decrees grouped by year ---
@@ -338,8 +325,8 @@ const progress = JSON.parse(readFileSync(PROGRESS_PATH, 'utf8'));
 const agg = aggregateProgress(progress);
 console.log(`  ${agg.totalActs.toLocaleString()} acts`);
 
-console.log(`Scanning git ${HISTORY_BRANCH} commit subjects…`);
-const commits = await commitStats();
+console.log('Reading commit-index.tsv…');
+const commits = commitStats();
 console.log(`  ${commits.commits.toLocaleString()} commits (${commits.gu} GU, ${commits.modifica} Modifica)`);
 
 console.log('Counting .decaduto markers…');

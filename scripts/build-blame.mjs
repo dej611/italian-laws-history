@@ -13,10 +13,9 @@ import {
 import path from "node:path";
 import {
   assertRepo,
-  git,
-  HISTORY_BRANCH,
   PUBLIC_DATA,
-  CACHE_DIR,
+  commitIndex,
+  subjectOf,
 } from "./repo-config.mjs";
 
 assertRepo();
@@ -26,9 +25,7 @@ if (!existsSync(graphPath)) throw new Error("graph.json missing");
 
 const graph = JSON.parse(readFileSync(graphPath, "utf8"));
 const blameDir = path.join(PUBLIC_DATA, "blame");
-const cacheDir = path.join(CACHE_DIR, "blame-subjects");
 mkdirSync(blameDir, { recursive: true });
-mkdirSync(cacheDir, { recursive: true });
 
 const CURATED = [
   "decreto-legge-112-del-25-06-2008.txt",
@@ -104,17 +101,10 @@ const hubSlugs = graph.nodes
 const slugs = new Set(CURATED);
 for (const n of hubSlugs.slice(0, LIMIT)) slugs.add(n.id);
 
-const cachePath = path.join(cacheDir, "subjects.tsv");
-let subjects;
-if (existsSync(cachePath) && !process.env.BLAME_REFRESH_SUBJECTS) {
-  subjects = readFileSync(cachePath, "utf8");
-  console.log("Using cached subjects.tsv");
-} else {
-  console.log("Scanning commit subjects…");
-  subjects = git(["log", HISTORY_BRANCH, "--format=%aI%x09%s"]);
-  writeFileSync(cachePath, subjects);
-  console.log(`Cached ${subjects.split("\n").length} subjects`);
-}
+console.log("Reading commit-index.tsv…");
+const subjects = commitIndex()
+  .map((line) => `1970-01-01\t${subjectOf(line)}`)
+  .join("\n");
 
 const lines = subjects.split("\n").filter(Boolean);
 
