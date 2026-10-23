@@ -23,7 +23,9 @@ jobs:
 
       - name: Fetch data branches
         run: |
-          git fetch --no-tags origin \
+          # Tip only. The scraper commits onto the current tree; it does not
+          # walk ancestry. A full fetch of this orphan branch exceeds the job.
+          git fetch --depth=1 --no-tags origin \
             history:refs/remotes/origin/history \
             'refs/heads/dl/*:refs/remotes/origin/dl/*' \
             'refs/heads/rdl/*:refs/remotes/origin/rdl/*' \
