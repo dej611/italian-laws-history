@@ -1,3 +1,4 @@
+use std::io::Write;
 use std::path::Path;
 use std::process::Stdio;
 use std::sync::Arc;
@@ -13,6 +14,109 @@ pub const HISTORY_BRANCH: &str = "history";
 
 /// The source-code branch. Exit / Ctrl-C restores this checkout.
 pub const MAIN_BRANCH: &str = "main";
+
+/// Subject index at the tip of `history`. One commit per line, oldest first.
+/// A `GU` or `Modifica:` line that names a single act file appends a tab and
+/// that `.txt`. Normoscopio reads this file instead of walking ancestry.
+pub const COMMIT_INDEX: &str = "commit-index.tsv";
+
+/// One index row. Tabs and newlines in the subject become spaces.
+fn commit_index_line(message: &str, files: &[&str]) -> String {
+    let subject = message.replace(['\t', '\n', '\r'], " ");
+    match naming_slug(&subject, files) {
+        Some(slug) => format!("{subject}\t{slug}\n"),
+        None => format!("{subject}\n"),
+    }
+}
+
+/// The act `.txt` a naming commit introduces, when there is exactly one
+/// (allegato sidecars do not count).
+fn naming_slug<'a>(subject: &str, files: &[&'a str]) -> Option<&'a str> {
+    if !subject.starts_with("GU ") && !subject.starts_with("Modifica:") {
+        return None;
+    }
+    let mut found = None;
+    for file in files {
+        if file.ends_with(".txt") && !file.contains(".allegato-") {
+            if found.is_some() {
+                return None;
+            }
+            found = Some(*file);
+        }
+    }
+    found
+}
+
+fn append_index(dir: &str, text: &str) -> Result<()> {
+    if text.is_empty() {
+        return Ok(());
+    }
+    let path = Path::new(dir).join(COMMIT_INDEX);
+    let mut file = std::fs::OpenOptions::new()
+        .create(true)
+        .append(true)
+        .open(&path)
+        .with_context(|| format!("opening {}", path.display()))?;
+    file.write_all(text.as_bytes())?;
+    Ok(())
+}
+
+/// `git log --name-only --pretty=format:%x1e%s` for a just-merged range.
+/// File lists longer than a single act's sidecars are dropped: a shallow
+/// root commit would otherwise list the whole tree.
+fn index_lines_from_name_only_log(log: &str) -> String {
+    let mut out = String::new();
+    let mut subject: Option<String> = None;
+    let mut files: Vec<String> = Vec::new();
+    for line in log.split('\n') {
+        if let Some(rest) = line.strip_prefix('\u{1e}') {
+            push_index_row(&mut out, &mut subject, &mut files);
+            subject = Some(rest.to_string());
+        } else if line.is_empty() {
+            continue;
+        } else if subject.is_some() {
+            files.push(line.to_string());
+        }
+    }
+    push_index_row(&mut out, &mut subject, &mut files);
+    out
+}
+
+fn push_index_row(out: &mut String, subject: &mut Option<String>, files: &mut Vec<String>) {
+    let Some(message) = subject.take() else {
+        return;
+    };
+    let owned: Vec<&str> = if files.len() > 30 {
+        Vec::new()
+    } else {
+        files.iter().map(String::as_str).collect()
+    };
+    out.push_str(&commit_index_line(&message, &owned));
+    files.clear();
+}
+
+/// When no merged commit named a single file, attach the one new act file
+/// from the merge diff to the last naming subject.
+fn attach_net_slug(lines: &str, slug: &str) -> String {
+    let mut rows: Vec<String> = lines.lines().map(str::to_string).collect();
+    let target = rows.iter().rposition(|row| {
+        let subject = row.split('\t').next().unwrap_or("");
+        subject.starts_with("GU ") || subject.starts_with("Modifica:")
+    });
+    if let Some(i) = target {
+        if !rows[i].contains('\t') {
+            rows[i].push('\t');
+            rows[i].push_str(slug);
+        }
+    }
+    if rows.is_empty() {
+        String::new()
+    } else {
+        let mut out = rows.join("\n");
+        out.push('\n');
+        out
+    }
+}
 
 /// Build a namespaced branch name for a provisional act: `<short>/<codice>`.
 pub fn branch_name_for(short: BranchableShort, codice: &str) -> String {
@@ -149,6 +253,67 @@ impl GitHelpers {
 
     /// Run `git` and report exit status without erroring on non-zero exits.
     /// Used for predicate-style checks like `git diff --cached --quiet`.
+    async fn run_stdout(&self, args: &[&str]) -> Result<String> {
+        let mut cmd = tokio_git();
+        cmd.current_dir(self.cwd())
+            .args(args)
+            .stdin(Stdio::null())
+            .stdout(Stdio::piped())
+            .stderr(Stdio::piped());
+        let out = cmd
+            .output()
+            .await
+            .with_context(|| format!("spawning git {args:?}"))?;
+        if !out.status.success() {
+            return Err(anyhow!(
+                "git {:?} failed: {}",
+                args,
+                String::from_utf8_lossy(&out.stderr).trim()
+            ));
+        }
+        Ok(String::from_utf8_lossy(&out.stdout).into_owned())
+    }
+
+    async fn head_sha(&self) -> Result<String> {
+        let out = self.run_stdout(&["rev-parse", "HEAD"]).await?;
+        Ok(out.trim().to_string())
+    }
+
+    /// Append subjects of commits just merged into `history`, then amend that
+    /// merge so the index stays inside the merge commit.
+    async fn record_commits_since(&self, before: &str, git_date: &str) -> Result<()> {
+        let range = format!("{before}..HEAD");
+        let log = self
+            .run_stdout(&[
+                "log",
+                "--reverse",
+                "--name-only",
+                "--pretty=format:%x1e%s",
+                &range,
+            ])
+            .await?;
+        let mut extra = index_lines_from_name_only_log(&log);
+        if extra.is_empty() {
+            return Ok(());
+        }
+        if !extra.lines().any(|line| line.contains('\t')) {
+            let diff = self
+                .run_stdout(&["diff", "--name-only", before, "HEAD"])
+                .await?;
+            let txts: Vec<&str> = diff
+                .lines()
+                .filter(|file| file.ends_with(".txt") && !file.contains(".allegato-"))
+                .collect();
+            if txts.len() == 1 {
+                extra = attach_net_slug(&extra, txts[0]);
+            }
+        }
+        append_index(self.cwd(), &extra)?;
+        self.run(&["add", COMMIT_INDEX], Some(git_date)).await?;
+        self.run(&["commit", "--amend", "--no-edit"], Some(git_date))
+            .await
+    }
+
     async fn run_status(&self, args: &[&str]) -> Result<bool> {
         let mut cmd = tokio_git();
         cmd.current_dir(self.cwd())
@@ -278,6 +443,13 @@ impl GitHelpers {
             return Ok(());
         }
 
+        // Only the history tip carries the index. Commits on a provisional
+        // branch are recorded when that branch is merged.
+        if current_branch_sync(self.cwd()).as_deref() == Some(HISTORY_BRANCH) {
+            append_index(self.cwd(), &commit_index_line(message, files))?;
+            self.run(&["add", COMMIT_INDEX], Some(&git_date)).await?;
+        }
+
         self.run(&["commit", "-m", message], Some(&git_date)).await
     }
 
@@ -328,6 +500,7 @@ impl GitHelpers {
         let git_date = to_git_date(iso_date);
         self.run(&["checkout", HISTORY_BRANCH], Some(&git_date))
             .await?;
+        let before = self.head_sha().await?;
 
         let attempts: &[(bool, bool)] =
             &[(false, false), (true, false), (true, true), (false, true)];
@@ -337,7 +510,10 @@ impl GitHelpers {
                 .try_merge_dl_branch(branch, message, &git_date, strategy_ours, allow_unrelated)
                 .await
             {
-                Ok(()) => return Ok(()),
+                Ok(()) => {
+                    self.record_commits_since(&before, &git_date).await?;
+                    return Ok(());
+                }
                 Err(err) => {
                     last_err = Some(err);
                     if i + 1 == attempts.len() {
@@ -385,11 +561,13 @@ impl GitHelpers {
         let git_date = to_git_date(iso_date);
         self.run(&["checkout", HISTORY_BRANCH], Some(&git_date))
             .await?;
+        let before = self.head_sha().await?;
         let mut args: Vec<&str> = vec!["merge", "--no-ff", "-m", message];
         for b in branches {
             args.push(b.as_str());
         }
         if self.run(&args, Some(&git_date)).await.is_ok() {
+            self.record_commits_since(&before, &git_date).await?;
             return Ok(OctopusMergeResult {
                 merged_branches: branches.to_vec(),
                 failed_branches: Vec::new(),
@@ -601,6 +779,52 @@ mod tests {
     #[test]
     fn pre_epoch_clamps_to_zero() {
         assert_eq!(to_git_date("1861-01-01"), "@0 +0000");
+    }
+
+    #[test]
+    fn commit_index_line_names_the_act_file() {
+        let line = commit_index_line(
+            "GU 1 - 2020-01-02 - LEGGE 020G0001",
+            &[
+                "legge-1-del-02-01-2020.txt",
+                "legge-1-del-02-01-2020.txt.modifiedby",
+                "legge-1-del-02-01-2020.allegato-1.txt",
+            ],
+        );
+        assert_eq!(
+            line,
+            "GU 1 - 2020-01-02 - LEGGE 020G0001\tlegge-1-del-02-01-2020.txt\n"
+        );
+    }
+
+    #[test]
+    fn commit_index_line_skips_slug_when_two_act_files() {
+        let line = commit_index_line("Modifica: LEGGE 020G0001 @ 2020-05-01", &["a.txt", "b.txt"]);
+        assert_eq!(line, "Modifica: LEGGE 020G0001 @ 2020-05-01\n");
+    }
+
+    #[test]
+    fn commit_index_line_ignores_non_naming_subjects() {
+        let line = commit_index_line("Convertito in legge: L. 1/2020 (2020-02-01).", &["a.txt"]);
+        assert_eq!(line, "Convertito in legge: L. 1/2020 (2020-02-01).\n");
+    }
+
+    #[test]
+    fn name_only_log_becomes_index_lines() {
+        let log = "\u{1e}GU 1 - 2020-01-02 - LEGGE 020G0001\n\na.txt\na.txt.modifiedby\n\n\u{1e}DECADUTO: DECRETO-LEGGE 2020 n. 1\n\n";
+        assert_eq!(
+            index_lines_from_name_only_log(log),
+            "GU 1 - 2020-01-02 - LEGGE 020G0001\ta.txt\nDECADUTO: DECRETO-LEGGE 2020 n. 1\n"
+        );
+    }
+
+    #[test]
+    fn attach_net_slug_marks_the_last_naming_subject() {
+        let lines = "GU 1 - 2020-01-02 - LEGGE 020G0001\nDECADUTO: DECRETO-LEGGE 2020 n. 1\n";
+        assert_eq!(
+            attach_net_slug(lines, "legge-1-del-02-01-2020.txt"),
+            "GU 1 - 2020-01-02 - LEGGE 020G0001\tlegge-1-del-02-01-2020.txt\nDECADUTO: DECRETO-LEGGE 2020 n. 1\n"
+        );
     }
 
     #[test]

@@ -200,8 +200,9 @@ the binary daily at 12:00 UTC with `--ci`. It fetches only the tip of
 `history`. The `progress-rs.json` checkpoint is committed back to `main`.
 
 [.github/workflows/pages.yml](.github/workflows/pages.yml) checks out
-`explore`, reads that checkpoint from `main` and the law texts from
-`history`, and publishes `dist/` to `gh-pages`.
+`explore`, reads that checkpoint from `main`, and reads the tip of
+`history` (`commit-index.tsv` plus the current texts). It publishes
+`dist/` to `gh-pages`.
 
 ## License
 
