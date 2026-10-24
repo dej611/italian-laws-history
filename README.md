@@ -204,6 +204,15 @@ the binary daily at 12:00 UTC with `--ci`. It fetches only the tip of
 `history` (`commit-index.tsv` plus the current texts). It publishes
 `dist/` to `gh-pages`.
 
+## Digesto
+
+Digesto, the assistant in Normoscopio (`explore`), is inspired by
+[ClippyJS](https://github.com/pi0/clippyjs) (`clippyjs`), a rewrite of
+[Clippy.JS](https://github.com/clippyjs/clippy.js). The sprite animator,
+action queue, and speech balloon follow that agent model. Digesto's drawings
+and copy are original to this project. Clippy and the other Office assistants
+remain Microsoft's.
+
 ## License
 
 The scraper and the other source on `main`, and Normoscopio on `explore`,
