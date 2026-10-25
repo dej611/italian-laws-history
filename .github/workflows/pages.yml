@@ -1,4 +1,4 @@
-# GitHub reads this file from the default branch (`history`).
+# GitHub reads this file from the default branch (`main`).
 # The job checks out `explore` and reads the checkpoint from `main`.
 name: Publish Normoscopio
 

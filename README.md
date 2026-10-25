@@ -192,8 +192,8 @@ cargo build --release    # optimized binary
 
 ## CI
 
-`history` is the repository's default branch. Scheduled workflows are read
-from there, then check out `main` for this source tree.
+`main` is the repository's default branch. Scheduled workflows are read
+from there. The scrape job checks out `main` for this source tree.
 
 [.github/workflows/daily-scrape.yml](.github/workflows/daily-scrape.yml) runs
 the binary daily at 12:00 UTC with `--ci`. It fetches only the tip of

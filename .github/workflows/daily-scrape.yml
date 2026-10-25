@@ -1,4 +1,4 @@
-# GitHub schedules this file from the default branch (`history`).
+# GitHub schedules this file from the default branch (`main`).
 # The job checks out `main` for the scraper source.
 name: Daily Normattiva Scrape
 
