@@ -1,4 +1,4 @@
-# Normoscopio lives on `explore`
+# OpenNorme lives on `explore`
 
 The Vite app is the root of the `explore` branch. `gh-pages` is the built site.
 

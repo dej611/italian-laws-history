@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Rebuild all Normoscopio static data artifacts.
+// Rebuild all OpenNorme static data artifacts.
 
 import { spawnSync } from "node:child_process";
 import path from "node:path";

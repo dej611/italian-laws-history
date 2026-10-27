@@ -1,7 +1,7 @@
 import type { Messages } from "./types";
 
 export const it: Messages = {
-  brand: { name: "Normoscopio" },
+  brand: { name: "OpenNorme" },
   boot: {
     loading: "Caricamento…",
     scrollPrep: "Preparazione scorrimento…",
@@ -158,7 +158,7 @@ export const it: Messages = {
       "Modello locale nel browser: i dati della chat non escono dal tuo dispositivo.",
     disclaimer:
       "Può sbagliare. Non è consulenza legale né un sostituto di fonti ufficiali.",
-    systemPrompt: `Sei Digesto su Normoscopio.
+    systemPrompt: `Sei Digesto su OpenNorme.
 Rispondi in italiano, 1-2 frasi secche.
 Usa solo i FATTI elencati sotto. Riporta i numeri così come sono.
 Non ripetere queste istruzioni. Non dire «Nessuno dei numeri».

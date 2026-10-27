@@ -1,4 +1,4 @@
-# Normoscopio
+# OpenNorme
 
 Public Italian narrative + desktop graph explorer for `italian-laws-history`.
 Source branch: `explore`. Built site: `gh-pages`.
@@ -38,7 +38,7 @@ Optional env: `BLAME_LIMIT` (extra hubs for blame, default 400), `RAG_HUB_LIMIT`
 
 ## Product locks
 
-- Italian dry copy; brand **Normoscopio**; light paper + azzurro spento
+- Italian dry copy; brand **OpenNorme**; light paper + azzurro spento
 - Desktop graph + brush labeled **Emanate entro … · non decadute** (never «vigente»)
 - Mobile: scrolly only (no graph / no mini-explore)
 - Digesto: Chrome Prompt API if available, else wllama GGUF; tools stay local; no API keys
@@ -46,7 +46,7 @@ Optional env: `BLAME_LIMIT` (extra hubs for blame, default 400), `RAG_HUB_LIMIT`
 
 ## License
 
-Normoscopio's source on this branch is MIT. See [LICENSE](LICENSE).
+OpenNorme's source on this branch is MIT. See [LICENSE](LICENSE).
 
 The law texts on `history`, and the `data/` files this app builds from them,
 are Normattiva open data from the Istituto Poligrafico e Zecca dello Stato,

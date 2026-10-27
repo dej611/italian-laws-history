@@ -1,8 +1,8 @@
 export type ThemePref = "system" | "light" | "dark";
 export type ResolvedTheme = "light" | "dark";
 
-export const THEME_STORAGE_KEY = "normoscopio-theme";
-export const THEME_EVENT = "normoscopio:theme";
+export const THEME_STORAGE_KEY = "opennorme-theme";
+export const THEME_EVENT = "opennorme:theme";
 
 export function readThemePref(): ThemePref {
   try {

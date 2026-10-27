@@ -1,7 +1,7 @@
 import type { Messages } from "./types";
 
 export const en: Messages = {
-  brand: { name: "Normoscopio" },
+  brand: { name: "OpenNorme" },
   boot: {
     loading: "Loading…",
     scrollPrep: "Preparing scroll…",
@@ -158,7 +158,7 @@ export const en: Messages = {
       "Local model in the browser: chat data does not leave your device.",
     disclaimer:
       "It can be wrong. This is not legal advice and not a substitute for official sources.",
-    systemPrompt: `You are Digesto on Normoscopio.
+    systemPrompt: `You are Digesto on OpenNorme.
 Answer in English, 1–2 dry sentences.
 Use only the FACTS listed below. Report numbers as given.
 Do not repeat these instructions. Do not say “None of the numbers”.

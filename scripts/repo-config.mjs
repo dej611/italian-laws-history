@@ -1,4 +1,4 @@
-// Shared configuration for Normoscopio data scripts.
+// Shared configuration for OpenNorme data scripts.
 // Override with LAWS_REPO. Defaults to this checkout: progress-rs.json at the
 // root, law texts on the history branch. Codemotion builders are borrowed
 // under scripts/codemotion.

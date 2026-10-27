@@ -6,8 +6,8 @@ import type { ChartPhase, ScrollyStep } from "../content/steps";
 
 export type { Locale, Messages, StepCopy };
 
-export const LOCALE_STORAGE_KEY = "normoscopio-locale";
-export const LOCALE_EVENT = "normoscopio:locale";
+export const LOCALE_STORAGE_KEY = "opennorme-locale";
+export const LOCALE_EVENT = "opennorme:locale";
 
 const catalogs: Record<Locale, Messages> = { it, en };
 

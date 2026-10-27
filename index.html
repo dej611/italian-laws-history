@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Normoscopio</title>
+    <title>OpenNorme</title>
     <meta
       name="description"
       content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
@@ -35,8 +35,8 @@
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="it_IT" />
     <meta property="og:locale:alternate" content="en_US" />
-    <meta property="og:site_name" content="Normoscopio" />
-    <meta property="og:title" content="Normoscopio" />
+    <meta property="og:site_name" content="OpenNorme" />
+    <meta property="og:title" content="OpenNorme" />
     <meta
       property="og:description"
       content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
@@ -47,10 +47,10 @@
     <meta property="og:image:height" content="630" />
     <meta
       property="og:image:alt"
-      content="Normoscopio — Il diritto italiano, in movimento. 1861–oggi."
+      content="OpenNorme — Il diritto italiano, in movimento. 1861–oggi."
     />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Normoscopio" />
+    <meta name="twitter:title" content="OpenNorme" />
     <meta
       name="twitter:description"
       content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
@@ -58,12 +58,12 @@
     <meta name="twitter:image" content="%BASE_URL%og.jpg" />
     <meta
       name="twitter:image:alt"
-      content="Normoscopio — Il diritto italiano, in movimento. 1861–oggi."
+      content="OpenNorme — Il diritto italiano, in movimento. 1861–oggi."
     />
     <script>
       (function () {
         try {
-          var pref = localStorage.getItem("normoscopio-theme") || "system";
+          var pref = localStorage.getItem("opennorme-theme") || "system";
           if (pref !== "light" && pref !== "dark" && pref !== "system") pref = "system";
           var dark =
             pref === "dark" ||
@@ -73,7 +73,7 @@
           document.documentElement.dataset.themePref = pref;
           document.documentElement.style.colorScheme = dark ? "dark" : "light";
 
-          var loc = localStorage.getItem("normoscopio-locale");
+          var loc = localStorage.getItem("opennorme-locale");
           if (loc !== "it" && loc !== "en") {
             var nav = (navigator.language || "").toLowerCase();
             loc = nav.indexOf("en") === 0 ? "en" : "it";
@@ -200,7 +200,7 @@
   <body>
     <div id="root">
       <div id="boot" role="status" aria-live="polite" aria-busy="true">
-        <p class="boot-brand">Normoscopio</p>
+        <p class="boot-brand">OpenNorme</p>
         <svg
           class="boot-gavel"
           viewBox="0 0 80 120"

@@ -48,7 +48,7 @@ function Seal({ year, eraLabel, archive }: { year: number; eraLabel: string; arc
       <circle cx="80" cy="80" r="74" fill="none" stroke="currentColor" strokeWidth="2" />
       <circle className="gazzetta-seal-inner" cx="80" cy="80" r="66" fill="none" strokeWidth="1.2" />
       <text x="80" y="48" textAnchor="middle" className="gazzetta-seal-kicker">
-        NORMOSCOPIO
+        OPENNORME
       </text>
       <text x="80" y="92" textAnchor="middle" className="gazzetta-seal-year">
         {year}

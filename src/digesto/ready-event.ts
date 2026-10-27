@@ -1,1 +1,1 @@
-export const DIGESTO_READY_EVENT = "normoscopio:digesto-ready";
+export const DIGESTO_READY_EVENT = "opennorme:digesto-ready";
