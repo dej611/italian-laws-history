@@ -1,6 +1,7 @@
-/** Rasterize the sticky StepChart SVG for Prompt API image-in. No model. */
+/** Rasterize the sticky StepChart for Prompt API image-in. No model. */
 
 export const STEP_CHART_SELECTOR = "svg.step-chart";
+export const STEP_CHART_CANVAS_SELECTOR = ".step-chart canvas.echCanvasRenderer";
 
 const DRAWABLE = "rect, line, path, polyline, polygon, circle, ellipse";
 
@@ -22,6 +23,18 @@ export function prefersReducedData(
   } catch {
     return false;
   }
+}
+
+/** Live charts canvas if it has a bitmap; otherwise null. Node-safe. */
+export function findStepChartCanvas(
+  root: { querySelector: (selectors: string) => unknown } | null | undefined,
+): { width: number; height: number } | null {
+  if (!root) return null;
+  const el = root.querySelector(STEP_CHART_CANVAS_SELECTOR);
+  if (!el || typeof el !== "object") return null;
+  const box = el as { width?: number; height?: number };
+  if (!box.width || !box.height) return null;
+  return el as { width: number; height: number };
 }
 
 /** Live SVG if it has marks; otherwise null. Node-safe (no DOM types required). */
@@ -59,6 +72,14 @@ export async function snapshotStepChart(
     typeof document !== "undefined" ? document : undefined,
 ): Promise<ImageBitmap | null> {
   if (!root || prefersReducedData()) return null;
+  const canvas = findStepChartCanvas(root);
+  if (canvas instanceof HTMLCanvasElement) {
+    try {
+      return await createImageBitmap(canvas);
+    } catch {
+      return null;
+    }
+  }
   const found = findStepChartSvg(root);
   if (!found || !(found instanceof SVGSVGElement)) return null;
   const clone = found.cloneNode(true) as SVGSVGElement;

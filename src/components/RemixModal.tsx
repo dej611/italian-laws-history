@@ -1,8 +1,24 @@
-import { useEffect, useMemo, useState, type MouseEvent } from "react";
+import { useEffect, useMemo, useState } from "react";
+import {
+  AnnotationDomainType,
+  Axis,
+  BarSeries,
+  Chart,
+  DARK_THEME,
+  LIGHT_THEME,
+  LineAnnotation,
+  Position,
+  ScaleType,
+  Settings,
+  StackMode,
+  Tooltip,
+  TooltipType,
+  type CustomTooltipProps,
+  type TooltipAction,
+} from "@elastic/charts";
 import type { ActsIndex, GraphData, TalkData } from "../data/types";
 import { loadActs, loadGraph } from "../data/load";
 import {
-  barHeight,
   clusterYears,
   DEFAULT_REMIX,
   inRemixEra,
@@ -12,7 +28,16 @@ import {
   type RemixSpec,
 } from "../digesto/remix";
 import { formatNumber, useI18n } from "../i18n";
+import { chartTheme, snapYear, useChartPalette } from "./chartPalette";
 import "./RemixModal.css";
+
+type RemixDatum = { x: number; y: number | null };
+
+const REMIX_CHANNELS = [
+  { key: "parlamento", colorIndex: 0 },
+  { key: "governo", colorIndex: 6 },
+  { key: "altro", colorIndex: 2 },
+] as const;
 
 type Props = {
   data: TalkData;
@@ -30,16 +55,7 @@ export function RemixModal({ data, initialSpec, clusterComp, onClose }: Props) {
   }));
   const [graph, setGraph] = useState<GraphData | null>(null);
   const [acts, setActs] = useState<ActsIndex | null>(null);
-  const [tip, setTip] = useState<{
-    year: number;
-    count: number;
-    parlamento: number;
-    governo: number;
-    altro: number;
-    share: boolean;
-    x: number;
-    y: number;
-  } | null>(null);
+  const palette = useChartPalette();
 
   useEffect(() => {
     if (!clusterComp) return;
@@ -61,8 +77,8 @@ export function RemixModal({ data, initialSpec, clusterComp, onClose }: Props) {
     return inEra.filter((r, i, arr) => r.year % 2 === 0 || i === 0 || i === arr.length - 1);
   }, [rows, spec.era]);
   const share = spec.normalize === "share" && spec.measure === "channels";
-  const max = Math.max(1, ...sampled.map((r) => r.count));
   const scale = share ? "linear" : spec.scale;
+  const log = scale === "log" && spec.measure !== "channels";
   const marks = useMemo(() => {
     const years: { year: number; color: string }[] = [];
     if (spec.cluster && clusterComp && graph && acts) {
@@ -75,15 +91,68 @@ export function RemixModal({ data, initialSpec, clusterComp, onClose }: Props) {
     return years;
   }, [spec.cluster, spec.story, clusterComp, graph, acts]);
 
-  const w = 720;
-  const h = 280;
-  const pad = { l: 28, r: 12, t: 16, b: 28 };
-  const iw = w - pad.l - pad.r;
-  const ih = h - pad.t - pad.b;
-  const barW = sampled.length ? iw / sampled.length : iw;
   const fmt = (n: number) => formatNumber(n, locale);
+  const yOf = (n: number) => (log && n <= 0 ? null : n);
+  const sampledYears = sampled.map((r) => r.year);
+  const markGroups = new Map<string, number[]>();
+  for (const m of marks) {
+    const snapped = snapYear(m.year, sampledYears);
+    if (snapped == null) continue;
+    const list = markGroups.get(m.color) ?? [];
+    if (!list.includes(snapped)) list.push(snapped);
+    markGroups.set(m.color, list);
+  }
 
   const patch = (next: Partial<RemixSpec>) => setSpec((s) => ({ ...s, ...next }));
+
+  const renderTip = ({ header, values }: CustomTooltipProps<RemixDatum>) => {
+    const year = Number(values[0]?.datum?.x ?? header?.value);
+    const parts = REMIX_CHANNELS.map((ch) => {
+      const hit = values.find((v) => v.seriesIdentifier.specId === ch.key);
+      return { key: ch.key, n: hit?.datum?.y ?? 0 };
+    });
+    const total = spec.measure === "channels"
+      ? parts.reduce((s, p) => s + (p.n ?? 0), 0)
+      : (values[0]?.datum?.y ?? 0);
+    return (
+      <div className="remix-tip">
+        <strong>{Number.isFinite(year) ? year : header?.formattedValue}</strong>
+        <div>{t("chart.tipActs", { count: fmt(total ?? 0) })}</div>
+        {share && total ? (
+          <ul>
+            {parts.map((p) => (
+              <li key={p.key}>
+                {t("chart.tipShare", {
+                  label: t(`chart.channels.${p.key}`),
+                  pct: Math.round(((p.n ?? 0) / total) * 100),
+                  count: fmt(p.n ?? 0),
+                })}
+              </li>
+            ))}
+          </ul>
+        ) : null}
+      </div>
+    );
+  };
+
+  const tipActions: TooltipAction<RemixDatum>[] = [
+    {
+      label: t("explore.remixLog"),
+      onSelect: () => patch({ scale: spec.scale === "log" ? "linear" : "log" }),
+    },
+    ...(clusterComp
+      ? [
+          {
+            label: t("explore.remixCluster"),
+            onSelect: () => patch({ cluster: spec.cluster ? undefined : clusterComp }),
+          },
+        ]
+      : []),
+    {
+      label: t("explore.remixGoverno"),
+      onSelect: () => patch({ measure: "governo" }),
+    },
+  ];
 
   return (
     <div
@@ -188,114 +257,66 @@ export function RemixModal({ data, initialSpec, clusterComp, onClose }: Props) {
           </button>
         </div>
         <div className="remix-chart-wrap">
-          <svg viewBox={`0 0 ${w} ${h}`} className="remix-chart" role="img">
-            {sampled.map((r, i) => {
-              const totalH = barHeight(r.count, max, scale, ih, share);
-              const x = pad.l + i * barW;
-              const bw = Math.max(0.4, barW - 0.8);
-              const showTip = (e: MouseEvent<SVGElement>) => {
-                const box = e.currentTarget.closest(".remix-chart-wrap")?.getBoundingClientRect();
-                if (!box) return;
-                setTip({
-                  year: r.year,
-                  count: r.count,
-                  parlamento: r.parlamento,
-                  governo: r.governo,
-                  altro: r.altro,
-                  share,
-                  x: e.clientX - box.left,
-                  y: e.clientY - box.top,
-                });
-              };
-              if (spec.measure === "channels" && r.count > 0) {
-                const segs = [
-                  { k: "parlamento", c: r.parlamento, fill: "var(--chart-1)" },
-                  { k: "governo", c: r.governo, fill: "var(--chart-7)" },
-                  { k: "altro", c: r.altro, fill: "var(--chart-3)" },
-                ];
-                let y = pad.t + ih;
-                return (
-                  <g key={r.year} onMouseEnter={showTip} onMouseLeave={() => setTip(null)}>
-                    {segs.map((s) => {
-                      const bh = (s.c / r.count) * totalH;
-                      y -= bh;
-                      return (
-                        <rect
-                          key={s.k}
-                          x={x + 0.4}
-                          y={y}
-                          width={bw}
-                          height={bh}
-                          fill={s.fill}
-                        />
-                      );
-                    })}
-                  </g>
-                );
-              }
-              const y = pad.t + ih - totalH;
-              return (
-                <rect
-                  key={r.year}
-                  x={x + 0.4}
-                  y={y}
-                  width={bw}
-                  height={totalH}
-                  fill="var(--chart-1)"
-                  onMouseEnter={showTip}
-                  onMouseLeave={() => setTip(null)}
+          <div className="remix-chart">
+            <Chart
+              key={`${spec.measure}-${scale}-${share ? "share" : "count"}-${spec.era}-${spec.story}`}
+              size={{ height: 280, width: "100%" }}
+            >
+              <Settings
+                baseTheme={palette.dark ? DARK_THEME : LIGHT_THEME}
+                theme={chartTheme(palette)}
+                showLegend={false}
+                animateData={false}
+                ariaLabel={t("explore.remixTitle")}
+              />
+              <Tooltip
+                type={TooltipType.VerticalCursor}
+                customTooltip={renderTip}
+                actions={tipActions}
+              />
+              <Axis id="bottom" position={Position.Bottom} tickFormat={(d) => String(d)} />
+              <Axis id="left" position={Position.Left} hide />
+              {spec.measure === "channels"
+                ? REMIX_CHANNELS.map((ch) => (
+                    <BarSeries
+                      key={ch.key}
+                      id={ch.key}
+                      name={t(`chart.channels.${ch.key}`)}
+                      xScaleType={ScaleType.Ordinal}
+                      yScaleType={log ? ScaleType.Log : ScaleType.Linear}
+                      xAccessor="x"
+                      yAccessors={["y"]}
+                      stackAccessors={["x"]}
+                      stackMode={share ? StackMode.Percentage : undefined}
+                      color={palette.types[ch.colorIndex]}
+                      data={sampled.map((r) => ({ x: r.year, y: yOf(r[ch.key]) }))}
+                    />
+                  ))
+                : (
+                    <BarSeries
+                      id="volume"
+                      name={t("chart.captionVolume")}
+                      xScaleType={ScaleType.Ordinal}
+                      yScaleType={log ? ScaleType.Log : ScaleType.Linear}
+                      xAccessor="x"
+                      yAccessors={["y"]}
+                      color={palette.types[0]}
+                      data={sampled.map((r) => ({ x: r.year, y: yOf(r.count) }))}
+                    />
+                  )}
+              {[...markGroups.entries()].map(([color, years]) => (
+                <LineAnnotation
+                  key={color}
+                  id={`mark-${color}`}
+                  domainType={AnnotationDomainType.XDomain}
+                  dataValues={years.map((year) => ({ dataValue: year }))}
+                  hideTooltips
+                  marker={<span />}
+                  style={{ line: { stroke: color, strokeWidth: 1.5, opacity: 1 } }}
                 />
-              );
-            })}
-            {marks.map((m, i) => {
-              const idx = sampled.findIndex((r) => r.year >= m.year);
-              if (idx < 0) return null;
-              const x = pad.l + idx * barW + barW / 2;
-              return (
-                <g key={`${m.year}-${i}`}>
-                  <line x1={x} x2={x} y1={pad.t} y2={pad.t + ih} stroke={m.color} strokeWidth={1.5} />
-                </g>
-              );
-            })}
-          </svg>
-          {tip ? (
-            <div className="remix-tip" style={{ left: tip.x, top: tip.y }}>
-              <strong>{tip.year}</strong>
-              <div>{t("chart.tipActs", { count: fmt(tip.count) })}</div>
-              {tip.share && tip.count > 0 ? (
-                <ul>
-                  {(
-                    [
-                      ["parlamento", tip.parlamento],
-                      ["governo", tip.governo],
-                      ["altro", tip.altro],
-                    ] as const
-                  ).map(([k, n]) => (
-                    <li key={k}>
-                      {t("chart.tipShare", {
-                        label: t(`chart.channels.${k}`),
-                        pct: Math.round((n / tip.count) * 100),
-                        count: fmt(n),
-                      })}
-                    </li>
-                  ))}
-                </ul>
-              ) : null}
-              <div className="remix-tip-chips">
-                <button type="button" onClick={() => patch({ scale: spec.scale === "log" ? "linear" : "log" })}>
-                  {t("explore.remixLog")}
-                </button>
-                {clusterComp ? (
-                  <button type="button" onClick={() => patch({ cluster: spec.cluster ? undefined : clusterComp })}>
-                    {t("explore.remixCluster")}
-                  </button>
-                ) : null}
-                <button type="button" onClick={() => patch({ measure: "governo" })}>
-                  {t("explore.remixGoverno")}
-                </button>
-              </div>
-            </div>
-          ) : null}
+              ))}
+            </Chart>
+          </div>
         </div>
       </div>
     </div>

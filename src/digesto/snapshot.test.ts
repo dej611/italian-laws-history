@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { findStepChartSvg, prefersReducedData } from "./snapshot";
+import { findStepChartCanvas, findStepChartSvg, prefersReducedData } from "./snapshot";
 
 function rootWith(svg: { querySelector: (s: string) => unknown } | null) {
   return {
@@ -22,6 +22,27 @@ describe("findStepChartSvg", () => {
     const mark = { tag: "rect" };
     const svg = { querySelector: (s: string) => (s.includes("rect") ? mark : null) };
     expect(findStepChartSvg(rootWith(svg))).toBe(svg);
+  });
+});
+
+describe("findStepChartCanvas", () => {
+  it("returns null when the canvas is missing or empty", () => {
+    expect(findStepChartCanvas(null)).toBeNull();
+    expect(findStepChartCanvas({ querySelector: () => null })).toBeNull();
+    expect(
+      findStepChartCanvas({
+        querySelector: () => ({ width: 0, height: 10 }),
+      }),
+    ).toBeNull();
+  });
+
+  it("returns a canvas that has a bitmap", () => {
+    const canvas = { width: 12, height: 8 };
+    const root = {
+      querySelector: (sel: string) =>
+        sel === ".step-chart canvas.echCanvasRenderer" ? canvas : null,
+    };
+    expect(findStepChartCanvas(root)).toBe(canvas);
   });
 });
 

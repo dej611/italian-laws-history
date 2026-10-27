@@ -60,12 +60,19 @@
 
 .remix-chart {
   width: 100%;
-  height: auto;
+  height: 280px;
+}
+
+.echTooltip:has(.remix-tip) {
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  max-width: none;
 }
 
 .remix-tip {
-  position: absolute;
-  transform: translate(12px, calc(-100% - 8px));
+  position: static;
+  transform: none;
   z-index: 2;
   min-width: 8rem;
   padding: 0.4rem 0.5rem;

@@ -78,6 +78,14 @@ export function Scrolly({ data, onReady, onActiveChange, onRemix }: Props) {
 
     for (const el of els) if (el) obs.observe(el);
 
+    const onScroll = () => {
+      if (pendingRef.current != null) cancelAnimationFrame(pendingRef.current);
+      pendingRef.current = requestAnimationFrame(() => {
+        commitActive(pickActiveStep(els));
+      });
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+
     async function arm() {
       try {
         if (document.fonts?.ready) await document.fonts.ready;
@@ -104,6 +112,7 @@ export function Scrolly({ data, onReady, onActiveChange, onRemix }: Props) {
     return () => {
       cancelled = true;
       obs.disconnect();
+      window.removeEventListener("scroll", onScroll);
       if (pendingRef.current != null) cancelAnimationFrame(pendingRef.current);
     };
   }, []);
