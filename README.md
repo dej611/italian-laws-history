@@ -9,8 +9,8 @@ and records each modification as a git commit.
 | -------------------- | ----------------------- |
 | Source code branch   | `main`                  |
 | Data branch          | `history`               |
-| Normoscopio source   | `explore`               |
-| Normoscopio site     | `gh-pages`              |
+| OpenNorme source   | `explore`               |
+| OpenNorme site     | `gh-pages`              |
 | Provisional DL       | `dl/<codice>`           |
 | Provisional RDL      | `rdl/<codice>`          |
 | Provisional DLL      | `dll/<codice>`          |
@@ -206,7 +206,7 @@ the binary daily at 12:00 UTC with `--ci`. It fetches only the tip of
 
 ## Digesto
 
-Digesto, the assistant in Normoscopio (`explore`), is inspired by
+Digesto, the assistant in OpenNorme (`explore`), is inspired by
 [ClippyJS](https://github.com/pi0/clippyjs) (`clippyjs`), a rewrite of
 [Clippy.JS](https://github.com/clippyjs/clippy.js). The sprite animator,
 action queue, and speech balloon follow that agent model. Digesto's drawings
@@ -215,7 +215,7 @@ remain Microsoft's.
 
 ## License
 
-The scraper and the other source on `main`, and Normoscopio on `explore`,
+The scraper and the other source on `main`, and OpenNorme on `explore`,
 are [MIT](LICENSE). The license badge GitHub shows for this repository
 refers to that code.
 

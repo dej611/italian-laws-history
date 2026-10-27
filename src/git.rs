@@ -17,7 +17,7 @@ pub const MAIN_BRANCH: &str = "main";
 
 /// Subject index at the tip of `history`. One commit per line, oldest first.
 /// A `GU` or `Modifica:` line that names a single act file appends a tab and
-/// that `.txt`. Normoscopio reads this file instead of walking ancestry.
+/// that `.txt`. OpenNorme reads this file instead of walking ancestry.
 pub const COMMIT_INDEX: &str = "commit-index.tsv";
 
 /// One index row. Tabs and newlines in the subject become spaces.

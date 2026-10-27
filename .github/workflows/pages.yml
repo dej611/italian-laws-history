@@ -1,6 +1,6 @@
 # GitHub reads this file from the default branch (`main`).
 # The job checks out `explore` and reads the checkpoint from `main`.
-name: Publish Normoscopio
+name: Publish OpenNorme
 
 on:
   workflow_dispatch:
@@ -28,7 +28,7 @@ jobs:
 
       - name: Fetch history and the checkpoint
         run: |
-          # Tip only. Normoscopio reads commit-index.tsv and the current tree;
+          # Tip only. OpenNorme reads commit-index.tsv and the current tree;
           # it does not walk ancestry. A full fetch of this orphan branch
           # exceeds the job.
           git fetch --depth=1 --no-tags origin \
@@ -62,7 +62,7 @@ jobs:
           git -C dist \
             -c user.name='github-actions[bot]' \
             -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-            commit -m ":sparkles: publish Normoscopio"
+            commit -m ":sparkles: publish OpenNorme"
           git -C dist push --force \
             "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
             gh-pages
