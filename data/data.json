@@ -1,0 +1,5182 @@
+{
+  "generatedAt": "2026-10-31T16:37:40.308Z",
+  "totals": {
+    "acts": 192473,
+    "commits": 320316,
+    "requests": 0
+  },
+  "dateRange": {
+    "first": "1861-04-23",
+    "last": "2026-10-30",
+    "firstEnactYear": 1861,
+    "lastEnactYear": 2026
+  },
+  "fetchErrors": {
+    "successPct": null,
+    "http404Pct": null,
+    "testoNonDisponibilePct": null,
+    "http400Pct": null
+  },
+  "commitSubjects": {
+    "gu": 191826,
+    "modifica": 112625,
+    "modificaOn19470923": 27
+  },
+  "caseStudies": {
+    "octopus1925": {
+      "code": "025U0473",
+      "degree": 2009
+    }
+  },
+  "types": [
+    {
+      "type": "REGIO DECRETO",
+      "count": 87319
+    },
+    {
+      "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "count": 43378
+    },
+    {
+      "type": "LEGGE",
+      "count": 30909
+    },
+    {
+      "type": "REGIO DECRETO-LEGGE",
+      "count": 9901
+    },
+    {
+      "type": "DECRETO LUOGOTENENZIALE",
+      "count": 7299
+    },
+    {
+      "type": "DECRETO-LEGGE",
+      "count": 3410
+    },
+    {
+      "type": "DECRETO LEGISLATIVO",
+      "count": 2576
+    },
+    {
+      "type": "DECRETO",
+      "count": 2130
+    },
+    {
+      "type": "DECRETO-LEGGE LUOGOTENENZIALE",
+      "count": 1345
+    },
+    {
+      "type": "DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO",
+      "count": 1330
+    },
+    {
+      "type": "DECRETO DEL CAPO PROVVISORIO DELLO STATO",
+      "count": 1006
+    },
+    {
+      "type": "DECRETO LEGISLATIVO LUOGOTENENZIALE",
+      "count": 967
+    },
+    {
+      "type": "DECRETO MINISTERIALE",
+      "count": 373
+    },
+    {
+      "type": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI",
+      "count": 285
+    },
+    {
+      "type": "REGIO DECRETO LEGISLATIVO",
+      "count": 54
+    },
+    {
+      "type": "LEGGE COSTITUZIONALE",
+      "count": 44
+    },
+    {
+      "type": "DECRETO DEL DUCE DEL FASCISMO, CAPO DEL GOVERNO",
+      "count": 36
+    },
+    {
+      "type": "DECRETO LEGISLATIVO PRESIDENZIALE",
+      "count": 35
+    },
+    {
+      "type": "DECRETO DEL CAPO DEL GOVERNO",
+      "count": 25
+    },
+    {
+      "type": "ORDINANZA",
+      "count": 25
+    },
+    {
+      "type": "DELIBERAZIONE",
+      "count": 12
+    },
+    {
+      "type": "DECRETO REALE",
+      "count": 4
+    },
+    {
+      "type": "DECRETO DEL DUCE",
+      "count": 4
+    },
+    {
+      "type": "DECRETO DEL CAPO DEL GOVERNO, PRIMO MINISTRO SEGRETARIO DI STATO",
+      "count": 1
+    },
+    {
+      "type": "DETERMINAZIONE DEL COMMISSARIO PER LE FINANZE",
+      "count": 1
+    },
+    {
+      "type": "REGOLAMENTO",
+      "count": 1
+    },
+    {
+      "type": "DETERMINAZIONE INTERCOMMISSARIALE",
+      "count": 1
+    },
+    {
+      "type": "DETERMINAZIONE DEL COMMISSARIO PER LA PRODUZIONE BELLICA",
+      "count": 1
+    },
+    {
+      "type": "DECRETO PRESIDENZIALE",
+      "count": 1
+    }
+  ],
+  "byYear": {
+    "types": [
+      "REGIO DECRETO",
+      "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "LEGGE",
+      "REGIO DECRETO-LEGGE",
+      "DECRETO LUOGOTENENZIALE",
+      "DECRETO-LEGGE",
+      "DECRETO LEGISLATIVO",
+      "DECRETO",
+      "ALTRO"
+    ],
+    "rows": [
+      {
+        "year": 1861,
+        "type": "REGIO DECRETO",
+        "count": 280
+      },
+      {
+        "year": 1861,
+        "type": "LEGGE",
+        "count": 64
+      },
+      {
+        "year": 1861,
+        "type": "ALTRO",
+        "count": 12
+      },
+      {
+        "year": 1862,
+        "type": "REGIO DECRETO",
+        "count": 620
+      },
+      {
+        "year": 1862,
+        "type": "LEGGE",
+        "count": 85
+      },
+      {
+        "year": 1862,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 1863,
+        "type": "REGIO DECRETO",
+        "count": 590
+      },
+      {
+        "year": 1863,
+        "type": "LEGGE",
+        "count": 52
+      },
+      {
+        "year": 1863,
+        "type": "ALTRO",
+        "count": 9
+      },
+      {
+        "year": 1864,
+        "type": "REGIO DECRETO",
+        "count": 562
+      },
+      {
+        "year": 1864,
+        "type": "LEGGE",
+        "count": 86
+      },
+      {
+        "year": 1864,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1865,
+        "type": "REGIO DECRETO",
+        "count": 609
+      },
+      {
+        "year": 1865,
+        "type": "LEGGE",
+        "count": 83
+      },
+      {
+        "year": 1865,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1866,
+        "type": "REGIO DECRETO",
+        "count": 745
+      },
+      {
+        "year": 1866,
+        "type": "LEGGE",
+        "count": 39
+      },
+      {
+        "year": 1866,
+        "type": "ALTRO",
+        "count": 28
+      },
+      {
+        "year": 1867,
+        "type": "REGIO DECRETO",
+        "count": 707
+      },
+      {
+        "year": 1867,
+        "type": "LEGGE",
+        "count": 44
+      },
+      {
+        "year": 1867,
+        "type": "ALTRO",
+        "count": 18
+      },
+      {
+        "year": 1868,
+        "type": "REGIO DECRETO",
+        "count": 625
+      },
+      {
+        "year": 1868,
+        "type": "LEGGE",
+        "count": 69
+      },
+      {
+        "year": 1868,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 1869,
+        "type": "REGIO DECRETO",
+        "count": 750
+      },
+      {
+        "year": 1869,
+        "type": "LEGGE",
+        "count": 42
+      },
+      {
+        "year": 1869,
+        "type": "ALTRO",
+        "count": 12
+      },
+      {
+        "year": 1870,
+        "type": "REGIO DECRETO",
+        "count": 834
+      },
+      {
+        "year": 1870,
+        "type": "LEGGE",
+        "count": 60
+      },
+      {
+        "year": 1870,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1871,
+        "type": "REGIO DECRETO",
+        "count": 620
+      },
+      {
+        "year": 1871,
+        "type": "LEGGE",
+        "count": 53
+      },
+      {
+        "year": 1871,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1872,
+        "type": "REGIO DECRETO",
+        "count": 724
+      },
+      {
+        "year": 1872,
+        "type": "LEGGE",
+        "count": 54
+      },
+      {
+        "year": 1872,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1873,
+        "type": "REGIO DECRETO",
+        "count": 723
+      },
+      {
+        "year": 1873,
+        "type": "LEGGE",
+        "count": 76
+      },
+      {
+        "year": 1873,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 1874,
+        "type": "REGIO DECRETO",
+        "count": 663
+      },
+      {
+        "year": 1874,
+        "type": "LEGGE",
+        "count": 60
+      },
+      {
+        "year": 1874,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 1875,
+        "type": "REGIO DECRETO",
+        "count": 621
+      },
+      {
+        "year": 1875,
+        "type": "LEGGE",
+        "count": 90
+      },
+      {
+        "year": 1875,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 1876,
+        "type": "REGIO DECRETO",
+        "count": 908
+      },
+      {
+        "year": 1876,
+        "type": "LEGGE",
+        "count": 64
+      },
+      {
+        "year": 1876,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 1877,
+        "type": "REGIO DECRETO",
+        "count": 808
+      },
+      {
+        "year": 1877,
+        "type": "LEGGE",
+        "count": 76
+      },
+      {
+        "year": 1877,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 1878,
+        "type": "REGIO DECRETO",
+        "count": 635
+      },
+      {
+        "year": 1878,
+        "type": "LEGGE",
+        "count": 57
+      },
+      {
+        "year": 1878,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1879,
+        "type": "REGIO DECRETO",
+        "count": 740
+      },
+      {
+        "year": 1879,
+        "type": "LEGGE",
+        "count": 83
+      },
+      {
+        "year": 1879,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 1880,
+        "type": "REGIO DECRETO",
+        "count": 910
+      },
+      {
+        "year": 1880,
+        "type": "LEGGE",
+        "count": 74
+      },
+      {
+        "year": 1880,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1881,
+        "type": "REGIO DECRETO",
+        "count": 747
+      },
+      {
+        "year": 1881,
+        "type": "LEGGE",
+        "count": 68
+      },
+      {
+        "year": 1881,
+        "type": "ALTRO",
+        "count": 2
+      },
+      {
+        "year": 1882,
+        "type": "REGIO DECRETO",
+        "count": 822
+      },
+      {
+        "year": 1882,
+        "type": "LEGGE",
+        "count": 70
+      },
+      {
+        "year": 1882,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 1883,
+        "type": "REGIO DECRETO",
+        "count": 912
+      },
+      {
+        "year": 1883,
+        "type": "LEGGE",
+        "count": 64
+      },
+      {
+        "year": 1883,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 1884,
+        "type": "REGIO DECRETO",
+        "count": 1323
+      },
+      {
+        "year": 1884,
+        "type": "LEGGE",
+        "count": 61
+      },
+      {
+        "year": 1884,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 1885,
+        "type": "REGIO DECRETO",
+        "count": 1040
+      },
+      {
+        "year": 1885,
+        "type": "LEGGE",
+        "count": 83
+      },
+      {
+        "year": 1885,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 1886,
+        "type": "REGIO DECRETO",
+        "count": 975
+      },
+      {
+        "year": 1886,
+        "type": "LEGGE",
+        "count": 58
+      },
+      {
+        "year": 1886,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 1887,
+        "type": "REGIO DECRETO",
+        "count": 1098
+      },
+      {
+        "year": 1887,
+        "type": "LEGGE",
+        "count": 150
+      },
+      {
+        "year": 1887,
+        "type": "ALTRO",
+        "count": 7
+      },
+      {
+        "year": 1888,
+        "type": "REGIO DECRETO",
+        "count": 971
+      },
+      {
+        "year": 1888,
+        "type": "LEGGE",
+        "count": 127
+      },
+      {
+        "year": 1888,
+        "type": "ALTRO",
+        "count": 9
+      },
+      {
+        "year": 1889,
+        "type": "REGIO DECRETO",
+        "count": 1022
+      },
+      {
+        "year": 1889,
+        "type": "LEGGE",
+        "count": 87
+      },
+      {
+        "year": 1889,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1890,
+        "type": "REGIO DECRETO",
+        "count": 1040
+      },
+      {
+        "year": 1890,
+        "type": "LEGGE",
+        "count": 124
+      },
+      {
+        "year": 1890,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1891,
+        "type": "REGIO DECRETO",
+        "count": 1074
+      },
+      {
+        "year": 1891,
+        "type": "LEGGE",
+        "count": 103
+      },
+      {
+        "year": 1891,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1892,
+        "type": "REGIO DECRETO",
+        "count": 1567
+      },
+      {
+        "year": 1892,
+        "type": "LEGGE",
+        "count": 151
+      },
+      {
+        "year": 1892,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 1893,
+        "type": "REGIO DECRETO",
+        "count": 1272
+      },
+      {
+        "year": 1893,
+        "type": "LEGGE",
+        "count": 145
+      },
+      {
+        "year": 1893,
+        "type": "ALTRO",
+        "count": 9
+      },
+      {
+        "year": 1894,
+        "type": "REGIO DECRETO",
+        "count": 1040
+      },
+      {
+        "year": 1894,
+        "type": "LEGGE",
+        "count": 92
+      },
+      {
+        "year": 1894,
+        "type": "ALTRO",
+        "count": 15
+      },
+      {
+        "year": 1895,
+        "type": "REGIO DECRETO",
+        "count": 1402
+      },
+      {
+        "year": 1895,
+        "type": "LEGGE",
+        "count": 91
+      },
+      {
+        "year": 1896,
+        "type": "REGIO DECRETO",
+        "count": 885
+      },
+      {
+        "year": 1896,
+        "type": "LEGGE",
+        "count": 114
+      },
+      {
+        "year": 1897,
+        "type": "REGIO DECRETO",
+        "count": 840
+      },
+      {
+        "year": 1897,
+        "type": "LEGGE",
+        "count": 103
+      },
+      {
+        "year": 1898,
+        "type": "REGIO DECRETO",
+        "count": 848
+      },
+      {
+        "year": 1898,
+        "type": "LEGGE",
+        "count": 103
+      },
+      {
+        "year": 1899,
+        "type": "REGIO DECRETO",
+        "count": 770
+      },
+      {
+        "year": 1899,
+        "type": "LEGGE",
+        "count": 84
+      },
+      {
+        "year": 1900,
+        "type": "REGIO DECRETO",
+        "count": 762
+      },
+      {
+        "year": 1900,
+        "type": "LEGGE",
+        "count": 97
+      },
+      {
+        "year": 1901,
+        "type": "REGIO DECRETO",
+        "count": 769
+      },
+      {
+        "year": 1901,
+        "type": "LEGGE",
+        "count": 143
+      },
+      {
+        "year": 1902,
+        "type": "REGIO DECRETO",
+        "count": 871
+      },
+      {
+        "year": 1902,
+        "type": "LEGGE",
+        "count": 144
+      },
+      {
+        "year": 1903,
+        "type": "REGIO DECRETO",
+        "count": 948
+      },
+      {
+        "year": 1903,
+        "type": "LEGGE",
+        "count": 101
+      },
+      {
+        "year": 1904,
+        "type": "REGIO DECRETO",
+        "count": 1072
+      },
+      {
+        "year": 1904,
+        "type": "LEGGE",
+        "count": 190
+      },
+      {
+        "year": 1905,
+        "type": "REGIO DECRETO",
+        "count": 930
+      },
+      {
+        "year": 1905,
+        "type": "LEGGE",
+        "count": 167
+      },
+      {
+        "year": 1906,
+        "type": "REGIO DECRETO",
+        "count": 1031
+      },
+      {
+        "year": 1906,
+        "type": "LEGGE",
+        "count": 179
+      },
+      {
+        "year": 1907,
+        "type": "REGIO DECRETO",
+        "count": 1125
+      },
+      {
+        "year": 1907,
+        "type": "LEGGE",
+        "count": 297
+      },
+      {
+        "year": 1908,
+        "type": "REGIO DECRETO",
+        "count": 1121
+      },
+      {
+        "year": 1908,
+        "type": "LEGGE",
+        "count": 238
+      },
+      {
+        "year": 1909,
+        "type": "REGIO DECRETO",
+        "count": 1263
+      },
+      {
+        "year": 1909,
+        "type": "LEGGE",
+        "count": 132
+      },
+      {
+        "year": 1910,
+        "type": "REGIO DECRETO",
+        "count": 1242
+      },
+      {
+        "year": 1910,
+        "type": "LEGGE",
+        "count": 220
+      },
+      {
+        "year": 1911,
+        "type": "REGIO DECRETO",
+        "count": 1232
+      },
+      {
+        "year": 1911,
+        "type": "LEGGE",
+        "count": 257
+      },
+      {
+        "year": 1912,
+        "type": "REGIO DECRETO",
+        "count": 1200
+      },
+      {
+        "year": 1912,
+        "type": "LEGGE",
+        "count": 226
+      },
+      {
+        "year": 1913,
+        "type": "REGIO DECRETO",
+        "count": 1285
+      },
+      {
+        "year": 1913,
+        "type": "LEGGE",
+        "count": 225
+      },
+      {
+        "year": 1913,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 1
+      },
+      {
+        "year": 1914,
+        "type": "REGIO DECRETO",
+        "count": 1364
+      },
+      {
+        "year": 1914,
+        "type": "LEGGE",
+        "count": 127
+      },
+      {
+        "year": 1914,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1915,
+        "type": "REGIO DECRETO",
+        "count": 690
+      },
+      {
+        "year": 1915,
+        "type": "LEGGE",
+        "count": 76
+      },
+      {
+        "year": 1915,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 117
+      },
+      {
+        "year": 1915,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 987
+      },
+      {
+        "year": 1915,
+        "type": "ALTRO",
+        "count": 108
+      },
+      {
+        "year": 1916,
+        "type": "REGIO DECRETO",
+        "count": 10
+      },
+      {
+        "year": 1916,
+        "type": "LEGGE",
+        "count": 55
+      },
+      {
+        "year": 1916,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 1599
+      },
+      {
+        "year": 1916,
+        "type": "ALTRO",
+        "count": 187
+      },
+      {
+        "year": 1917,
+        "type": "REGIO DECRETO",
+        "count": 18
+      },
+      {
+        "year": 1917,
+        "type": "LEGGE",
+        "count": 83
+      },
+      {
+        "year": 1917,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 1699
+      },
+      {
+        "year": 1917,
+        "type": "ALTRO",
+        "count": 327
+      },
+      {
+        "year": 1918,
+        "type": "REGIO DECRETO",
+        "count": 17
+      },
+      {
+        "year": 1918,
+        "type": "LEGGE",
+        "count": 30
+      },
+      {
+        "year": 1918,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 1689
+      },
+      {
+        "year": 1918,
+        "type": "ALTRO",
+        "count": 346
+      },
+      {
+        "year": 1919,
+        "type": "REGIO DECRETO",
+        "count": 710
+      },
+      {
+        "year": 1919,
+        "type": "LEGGE",
+        "count": 20
+      },
+      {
+        "year": 1919,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 622
+      },
+      {
+        "year": 1919,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 912
+      },
+      {
+        "year": 1919,
+        "type": "ALTRO",
+        "count": 376
+      },
+      {
+        "year": 1920,
+        "type": "REGIO DECRETO",
+        "count": 1295
+      },
+      {
+        "year": 1920,
+        "type": "LEGGE",
+        "count": 56
+      },
+      {
+        "year": 1920,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 597
+      },
+      {
+        "year": 1921,
+        "type": "REGIO DECRETO",
+        "count": 1643
+      },
+      {
+        "year": 1921,
+        "type": "LEGGE",
+        "count": 143
+      },
+      {
+        "year": 1921,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 325
+      },
+      {
+        "year": 1922,
+        "type": "REGIO DECRETO",
+        "count": 1359
+      },
+      {
+        "year": 1922,
+        "type": "LEGGE",
+        "count": 258
+      },
+      {
+        "year": 1922,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 242
+      },
+      {
+        "year": 1923,
+        "type": "REGIO DECRETO",
+        "count": 2674
+      },
+      {
+        "year": 1923,
+        "type": "LEGGE",
+        "count": 41
+      },
+      {
+        "year": 1923,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 555
+      },
+      {
+        "year": 1924,
+        "type": "REGIO DECRETO",
+        "count": 1586
+      },
+      {
+        "year": 1924,
+        "type": "LEGGE",
+        "count": 13
+      },
+      {
+        "year": 1924,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 759
+      },
+      {
+        "year": 1924,
+        "type": "DECRETO",
+        "count": 1
+      },
+      {
+        "year": 1925,
+        "type": "REGIO DECRETO",
+        "count": 1484
+      },
+      {
+        "year": 1925,
+        "type": "LEGGE",
+        "count": 169
+      },
+      {
+        "year": 1925,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 922
+      },
+      {
+        "year": 1926,
+        "type": "REGIO DECRETO",
+        "count": 1625
+      },
+      {
+        "year": 1926,
+        "type": "LEGGE",
+        "count": 257
+      },
+      {
+        "year": 1926,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 570
+      },
+      {
+        "year": 1927,
+        "type": "REGIO DECRETO",
+        "count": 1817
+      },
+      {
+        "year": 1927,
+        "type": "LEGGE",
+        "count": 471
+      },
+      {
+        "year": 1927,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 542
+      },
+      {
+        "year": 1928,
+        "type": "REGIO DECRETO",
+        "count": 2453
+      },
+      {
+        "year": 1928,
+        "type": "LEGGE",
+        "count": 785
+      },
+      {
+        "year": 1928,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 252
+      },
+      {
+        "year": 1929,
+        "type": "REGIO DECRETO",
+        "count": 1892
+      },
+      {
+        "year": 1929,
+        "type": "LEGGE",
+        "count": 330
+      },
+      {
+        "year": 1929,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 235
+      },
+      {
+        "year": 1930,
+        "type": "REGIO DECRETO",
+        "count": 1351
+      },
+      {
+        "year": 1930,
+        "type": "LEGGE",
+        "count": 351
+      },
+      {
+        "year": 1930,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 234
+      },
+      {
+        "year": 1931,
+        "type": "REGIO DECRETO",
+        "count": 1159
+      },
+      {
+        "year": 1931,
+        "type": "LEGGE",
+        "count": 384
+      },
+      {
+        "year": 1931,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 276
+      },
+      {
+        "year": 1932,
+        "type": "REGIO DECRETO",
+        "count": 1442
+      },
+      {
+        "year": 1932,
+        "type": "LEGGE",
+        "count": 405
+      },
+      {
+        "year": 1932,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 222
+      },
+      {
+        "year": 1933,
+        "type": "REGIO DECRETO",
+        "count": 1820
+      },
+      {
+        "year": 1933,
+        "type": "LEGGE",
+        "count": 288
+      },
+      {
+        "year": 1933,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 300
+      },
+      {
+        "year": 1934,
+        "type": "REGIO DECRETO",
+        "count": 1576
+      },
+      {
+        "year": 1934,
+        "type": "LEGGE",
+        "count": 461
+      },
+      {
+        "year": 1934,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 402
+      },
+      {
+        "year": 1935,
+        "type": "REGIO DECRETO",
+        "count": 1588
+      },
+      {
+        "year": 1935,
+        "type": "LEGGE",
+        "count": 492
+      },
+      {
+        "year": 1935,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 463
+      },
+      {
+        "year": 1935,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 1936,
+        "type": "REGIO DECRETO",
+        "count": 1420
+      },
+      {
+        "year": 1936,
+        "type": "LEGGE",
+        "count": 565
+      },
+      {
+        "year": 1936,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 521
+      },
+      {
+        "year": 1936,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 1937,
+        "type": "REGIO DECRETO",
+        "count": 1548
+      },
+      {
+        "year": 1937,
+        "type": "LEGGE",
+        "count": 665
+      },
+      {
+        "year": 1937,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 492
+      },
+      {
+        "year": 1937,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 1938,
+        "type": "REGIO DECRETO",
+        "count": 1297
+      },
+      {
+        "year": 1938,
+        "type": "LEGGE",
+        "count": 404
+      },
+      {
+        "year": 1938,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 571
+      },
+      {
+        "year": 1938,
+        "type": "ALTRO",
+        "count": 9
+      },
+      {
+        "year": 1939,
+        "type": "REGIO DECRETO",
+        "count": 1295
+      },
+      {
+        "year": 1939,
+        "type": "LEGGE",
+        "count": 773
+      },
+      {
+        "year": 1939,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 141
+      },
+      {
+        "year": 1939,
+        "type": "DECRETO",
+        "count": 2
+      },
+      {
+        "year": 1939,
+        "type": "ALTRO",
+        "count": 17
+      },
+      {
+        "year": 1940,
+        "type": "REGIO DECRETO",
+        "count": 1289
+      },
+      {
+        "year": 1940,
+        "type": "LEGGE",
+        "count": 671
+      },
+      {
+        "year": 1940,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 56
+      },
+      {
+        "year": 1940,
+        "type": "DECRETO",
+        "count": 2
+      },
+      {
+        "year": 1940,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1941,
+        "type": "REGIO DECRETO",
+        "count": 1092
+      },
+      {
+        "year": 1941,
+        "type": "LEGGE",
+        "count": 446
+      },
+      {
+        "year": 1941,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 121
+      },
+      {
+        "year": 1941,
+        "type": "DECRETO",
+        "count": 1
+      },
+      {
+        "year": 1941,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1942,
+        "type": "REGIO DECRETO",
+        "count": 1176
+      },
+      {
+        "year": 1942,
+        "type": "LEGGE",
+        "count": 534
+      },
+      {
+        "year": 1942,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 127
+      },
+      {
+        "year": 1942,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1943,
+        "type": "REGIO DECRETO",
+        "count": 425
+      },
+      {
+        "year": 1943,
+        "type": "LEGGE",
+        "count": 158
+      },
+      {
+        "year": 1943,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 140
+      },
+      {
+        "year": 1943,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 1944,
+        "type": "REGIO DECRETO",
+        "count": 22
+      },
+      {
+        "year": 1944,
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 96
+      },
+      {
+        "year": 1944,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 71
+      },
+      {
+        "year": 1944,
+        "type": "ALTRO",
+        "count": 245
+      },
+      {
+        "year": 1945,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 292
+      },
+      {
+        "year": 1945,
+        "type": "ALTRO",
+        "count": 567
+      },
+      {
+        "year": 1946,
+        "type": "REGIO DECRETO",
+        "count": 9
+      },
+      {
+        "year": 1946,
+        "type": "LEGGE",
+        "count": 1
+      },
+      {
+        "year": 1946,
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 50
+      },
+      {
+        "year": 1946,
+        "type": "ALTRO",
+        "count": 772
+      },
+      {
+        "year": 1947,
+        "type": "LEGGE",
+        "count": 31
+      },
+      {
+        "year": 1947,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 2
+      },
+      {
+        "year": 1947,
+        "type": "ALTRO",
+        "count": 1811
+      },
+      {
+        "year": 1948,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 766
+      },
+      {
+        "year": 1948,
+        "type": "LEGGE",
+        "count": 106
+      },
+      {
+        "year": 1948,
+        "type": "DECRETO-LEGGE",
+        "count": 4
+      },
+      {
+        "year": 1948,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 791
+      },
+      {
+        "year": 1948,
+        "type": "DECRETO",
+        "count": 1
+      },
+      {
+        "year": 1948,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 1949,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 746
+      },
+      {
+        "year": 1949,
+        "type": "LEGGE",
+        "count": 414
+      },
+      {
+        "year": 1949,
+        "type": "DECRETO-LEGGE",
+        "count": 3
+      },
+      {
+        "year": 1950,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 776
+      },
+      {
+        "year": 1950,
+        "type": "LEGGE",
+        "count": 499
+      },
+      {
+        "year": 1950,
+        "type": "DECRETO-LEGGE",
+        "count": 2
+      },
+      {
+        "year": 1951,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1330
+      },
+      {
+        "year": 1951,
+        "type": "LEGGE",
+        "count": 462
+      },
+      {
+        "year": 1951,
+        "type": "DECRETO-LEGGE",
+        "count": 12
+      },
+      {
+        "year": 1952,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 3996
+      },
+      {
+        "year": 1952,
+        "type": "LEGGE",
+        "count": 559
+      },
+      {
+        "year": 1952,
+        "type": "DECRETO-LEGGE",
+        "count": 8
+      },
+      {
+        "year": 1953,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 956
+      },
+      {
+        "year": 1953,
+        "type": "LEGGE",
+        "count": 287
+      },
+      {
+        "year": 1953,
+        "type": "DECRETO-LEGGE",
+        "count": 6
+      },
+      {
+        "year": 1953,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1954,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1139
+      },
+      {
+        "year": 1954,
+        "type": "LEGGE",
+        "count": 386
+      },
+      {
+        "year": 1954,
+        "type": "DECRETO-LEGGE",
+        "count": 14
+      },
+      {
+        "year": 1955,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1190
+      },
+      {
+        "year": 1955,
+        "type": "LEGGE",
+        "count": 326
+      },
+      {
+        "year": 1955,
+        "type": "DECRETO-LEGGE",
+        "count": 10
+      },
+      {
+        "year": 1956,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1288
+      },
+      {
+        "year": 1956,
+        "type": "LEGGE",
+        "count": 403
+      },
+      {
+        "year": 1956,
+        "type": "DECRETO-LEGGE",
+        "count": 18
+      },
+      {
+        "year": 1957,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1101
+      },
+      {
+        "year": 1957,
+        "type": "LEGGE",
+        "count": 355
+      },
+      {
+        "year": 1957,
+        "type": "DECRETO-LEGGE",
+        "count": 10
+      },
+      {
+        "year": 1958,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 916
+      },
+      {
+        "year": 1958,
+        "type": "LEGGE",
+        "count": 343
+      },
+      {
+        "year": 1958,
+        "type": "DECRETO-LEGGE",
+        "count": 6
+      },
+      {
+        "year": 1958,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1959,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1123
+      },
+      {
+        "year": 1959,
+        "type": "LEGGE",
+        "count": 282
+      },
+      {
+        "year": 1959,
+        "type": "DECRETO-LEGGE",
+        "count": 3
+      },
+      {
+        "year": 1960,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1664
+      },
+      {
+        "year": 1960,
+        "type": "LEGGE",
+        "count": 335
+      },
+      {
+        "year": 1960,
+        "type": "DECRETO-LEGGE",
+        "count": 9
+      },
+      {
+        "year": 1961,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1300
+      },
+      {
+        "year": 1961,
+        "type": "LEGGE",
+        "count": 318
+      },
+      {
+        "year": 1961,
+        "type": "DECRETO-LEGGE",
+        "count": 7
+      },
+      {
+        "year": 1961,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1962,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1129
+      },
+      {
+        "year": 1962,
+        "type": "LEGGE",
+        "count": 397
+      },
+      {
+        "year": 1962,
+        "type": "DECRETO-LEGGE",
+        "count": 5
+      },
+      {
+        "year": 1963,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1588
+      },
+      {
+        "year": 1963,
+        "type": "LEGGE",
+        "count": 325
+      },
+      {
+        "year": 1963,
+        "type": "DECRETO-LEGGE",
+        "count": 4
+      },
+      {
+        "year": 1963,
+        "type": "ALTRO",
+        "count": 3
+      },
+      {
+        "year": 1964,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1324
+      },
+      {
+        "year": 1964,
+        "type": "LEGGE",
+        "count": 258
+      },
+      {
+        "year": 1964,
+        "type": "DECRETO-LEGGE",
+        "count": 27
+      },
+      {
+        "year": 1965,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1397
+      },
+      {
+        "year": 1965,
+        "type": "LEGGE",
+        "count": 330
+      },
+      {
+        "year": 1965,
+        "type": "DECRETO-LEGGE",
+        "count": 8
+      },
+      {
+        "year": 1966,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1064
+      },
+      {
+        "year": 1966,
+        "type": "LEGGE",
+        "count": 292
+      },
+      {
+        "year": 1966,
+        "type": "DECRETO-LEGGE",
+        "count": 14
+      },
+      {
+        "year": 1967,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1070
+      },
+      {
+        "year": 1967,
+        "type": "LEGGE",
+        "count": 393
+      },
+      {
+        "year": 1967,
+        "type": "DECRETO-LEGGE",
+        "count": 35
+      },
+      {
+        "year": 1967,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1968,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1241
+      },
+      {
+        "year": 1968,
+        "type": "LEGGE",
+        "count": 399
+      },
+      {
+        "year": 1968,
+        "type": "DECRETO-LEGGE",
+        "count": 18
+      },
+      {
+        "year": 1969,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1081
+      },
+      {
+        "year": 1969,
+        "type": "LEGGE",
+        "count": 230
+      },
+      {
+        "year": 1969,
+        "type": "DECRETO-LEGGE",
+        "count": 8
+      },
+      {
+        "year": 1970,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1238
+      },
+      {
+        "year": 1970,
+        "type": "LEGGE",
+        "count": 212
+      },
+      {
+        "year": 1970,
+        "type": "DECRETO-LEGGE",
+        "count": 22
+      },
+      {
+        "year": 1971,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 675
+      },
+      {
+        "year": 1971,
+        "type": "LEGGE",
+        "count": 241
+      },
+      {
+        "year": 1971,
+        "type": "DECRETO-LEGGE",
+        "count": 22
+      },
+      {
+        "year": 1971,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1972,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 711
+      },
+      {
+        "year": 1972,
+        "type": "LEGGE",
+        "count": 47
+      },
+      {
+        "year": 1972,
+        "type": "DECRETO-LEGGE",
+        "count": 17
+      },
+      {
+        "year": 1972,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1973,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 806
+      },
+      {
+        "year": 1973,
+        "type": "LEGGE",
+        "count": 329
+      },
+      {
+        "year": 1973,
+        "type": "DECRETO-LEGGE",
+        "count": 23
+      },
+      {
+        "year": 1974,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 733
+      },
+      {
+        "year": 1974,
+        "type": "LEGGE",
+        "count": 229
+      },
+      {
+        "year": 1974,
+        "type": "DECRETO-LEGGE",
+        "count": 31
+      },
+      {
+        "year": 1975,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 865
+      },
+      {
+        "year": 1975,
+        "type": "LEGGE",
+        "count": 288
+      },
+      {
+        "year": 1975,
+        "type": "DECRETO-LEGGE",
+        "count": 24
+      },
+      {
+        "year": 1976,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 859
+      },
+      {
+        "year": 1976,
+        "type": "LEGGE",
+        "count": 227
+      },
+      {
+        "year": 1976,
+        "type": "DECRETO-LEGGE",
+        "count": 62
+      },
+      {
+        "year": 1977,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 878
+      },
+      {
+        "year": 1977,
+        "type": "LEGGE",
+        "count": 306
+      },
+      {
+        "year": 1977,
+        "type": "DECRETO-LEGGE",
+        "count": 44
+      },
+      {
+        "year": 1978,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 823
+      },
+      {
+        "year": 1978,
+        "type": "LEGGE",
+        "count": 223
+      },
+      {
+        "year": 1978,
+        "type": "DECRETO-LEGGE",
+        "count": 50
+      },
+      {
+        "year": 1979,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 787
+      },
+      {
+        "year": 1979,
+        "type": "LEGGE",
+        "count": 120
+      },
+      {
+        "year": 1979,
+        "type": "DECRETO-LEGGE",
+        "count": 65
+      },
+      {
+        "year": 1980,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 915
+      },
+      {
+        "year": 1980,
+        "type": "LEGGE",
+        "count": 277
+      },
+      {
+        "year": 1980,
+        "type": "DECRETO-LEGGE",
+        "count": 38
+      },
+      {
+        "year": 1981,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 509
+      },
+      {
+        "year": 1981,
+        "type": "LEGGE",
+        "count": 127
+      },
+      {
+        "year": 1981,
+        "type": "DECRETO-LEGGE",
+        "count": 85
+      },
+      {
+        "year": 1982,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 446
+      },
+      {
+        "year": 1982,
+        "type": "LEGGE",
+        "count": 213
+      },
+      {
+        "year": 1982,
+        "type": "DECRETO-LEGGE",
+        "count": 58
+      },
+      {
+        "year": 1983,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 955
+      },
+      {
+        "year": 1983,
+        "type": "LEGGE",
+        "count": 148
+      },
+      {
+        "year": 1983,
+        "type": "DECRETO-LEGGE",
+        "count": 34
+      },
+      {
+        "year": 1984,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 874
+      },
+      {
+        "year": 1984,
+        "type": "LEGGE",
+        "count": 230
+      },
+      {
+        "year": 1984,
+        "type": "DECRETO-LEGGE",
+        "count": 65
+      },
+      {
+        "year": 1985,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 782
+      },
+      {
+        "year": 1985,
+        "type": "LEGGE",
+        "count": 241
+      },
+      {
+        "year": 1985,
+        "type": "DECRETO-LEGGE",
+        "count": 47
+      },
+      {
+        "year": 1986,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 823
+      },
+      {
+        "year": 1986,
+        "type": "LEGGE",
+        "count": 204
+      },
+      {
+        "year": 1986,
+        "type": "DECRETO-LEGGE",
+        "count": 82
+      },
+      {
+        "year": 1986,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 1987,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 157
+      },
+      {
+        "year": 1987,
+        "type": "LEGGE",
+        "count": 96
+      },
+      {
+        "year": 1987,
+        "type": "DECRETO-LEGGE",
+        "count": 143
+      },
+      {
+        "year": 1987,
+        "type": "DECRETO",
+        "count": 162
+      },
+      {
+        "year": 1987,
+        "type": "ALTRO",
+        "count": 40
+      },
+      {
+        "year": 1988,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 120
+      },
+      {
+        "year": 1988,
+        "type": "LEGGE",
+        "count": 158
+      },
+      {
+        "year": 1988,
+        "type": "DECRETO-LEGGE",
+        "count": 66
+      },
+      {
+        "year": 1988,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 3
+      },
+      {
+        "year": 1988,
+        "type": "DECRETO",
+        "count": 143
+      },
+      {
+        "year": 1988,
+        "type": "ALTRO",
+        "count": 36
+      },
+      {
+        "year": 1989,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 27
+      },
+      {
+        "year": 1989,
+        "type": "LEGGE",
+        "count": 234
+      },
+      {
+        "year": 1989,
+        "type": "DECRETO-LEGGE",
+        "count": 93
+      },
+      {
+        "year": 1989,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 19
+      },
+      {
+        "year": 1989,
+        "type": "DECRETO",
+        "count": 30
+      },
+      {
+        "year": 1989,
+        "type": "ALTRO",
+        "count": 15
+      },
+      {
+        "year": 1990,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 46
+      },
+      {
+        "year": 1990,
+        "type": "LEGGE",
+        "count": 191
+      },
+      {
+        "year": 1990,
+        "type": "DECRETO-LEGGE",
+        "count": 64
+      },
+      {
+        "year": 1990,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 21
+      },
+      {
+        "year": 1990,
+        "type": "DECRETO",
+        "count": 66
+      },
+      {
+        "year": 1990,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 1991,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 40
+      },
+      {
+        "year": 1991,
+        "type": "LEGGE",
+        "count": 207
+      },
+      {
+        "year": 1991,
+        "type": "DECRETO-LEGGE",
+        "count": 47
+      },
+      {
+        "year": 1991,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 28
+      },
+      {
+        "year": 1991,
+        "type": "DECRETO",
+        "count": 69
+      },
+      {
+        "year": 1991,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 1992,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 46
+      },
+      {
+        "year": 1992,
+        "type": "LEGGE",
+        "count": 167
+      },
+      {
+        "year": 1992,
+        "type": "DECRETO-LEGGE",
+        "count": 122
+      },
+      {
+        "year": 1992,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 112
+      },
+      {
+        "year": 1992,
+        "type": "DECRETO",
+        "count": 68
+      },
+      {
+        "year": 1992,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1993,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 28
+      },
+      {
+        "year": 1993,
+        "type": "LEGGE",
+        "count": 167
+      },
+      {
+        "year": 1993,
+        "type": "DECRETO-LEGGE",
+        "count": 239
+      },
+      {
+        "year": 1993,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 55
+      },
+      {
+        "year": 1993,
+        "type": "DECRETO",
+        "count": 49
+      },
+      {
+        "year": 1993,
+        "type": "ALTRO",
+        "count": 14
+      },
+      {
+        "year": 1994,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 105
+      },
+      {
+        "year": 1994,
+        "type": "LEGGE",
+        "count": 178
+      },
+      {
+        "year": 1994,
+        "type": "DECRETO-LEGGE",
+        "count": 303
+      },
+      {
+        "year": 1994,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 19
+      },
+      {
+        "year": 1994,
+        "type": "DECRETO",
+        "count": 85
+      },
+      {
+        "year": 1994,
+        "type": "ALTRO",
+        "count": 33
+      },
+      {
+        "year": 1995,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 34
+      },
+      {
+        "year": 1995,
+        "type": "LEGGE",
+        "count": 148
+      },
+      {
+        "year": 1995,
+        "type": "DECRETO-LEGGE",
+        "count": 258
+      },
+      {
+        "year": 1995,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 26
+      },
+      {
+        "year": 1995,
+        "type": "DECRETO",
+        "count": 69
+      },
+      {
+        "year": 1995,
+        "type": "ALTRO",
+        "count": 13
+      },
+      {
+        "year": 1996,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 54
+      },
+      {
+        "year": 1996,
+        "type": "LEGGE",
+        "count": 122
+      },
+      {
+        "year": 1996,
+        "type": "DECRETO-LEGGE",
+        "count": 325
+      },
+      {
+        "year": 1996,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 40
+      },
+      {
+        "year": 1996,
+        "type": "DECRETO",
+        "count": 88
+      },
+      {
+        "year": 1996,
+        "type": "ALTRO",
+        "count": 14
+      },
+      {
+        "year": 1997,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 65
+      },
+      {
+        "year": 1997,
+        "type": "LEGGE",
+        "count": 162
+      },
+      {
+        "year": 1997,
+        "type": "DECRETO-LEGGE",
+        "count": 37
+      },
+      {
+        "year": 1997,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 83
+      },
+      {
+        "year": 1997,
+        "type": "DECRETO",
+        "count": 110
+      },
+      {
+        "year": 1997,
+        "type": "ALTRO",
+        "count": 18
+      },
+      {
+        "year": 1998,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 68
+      },
+      {
+        "year": 1998,
+        "type": "LEGGE",
+        "count": 170
+      },
+      {
+        "year": 1998,
+        "type": "DECRETO-LEGGE",
+        "count": 25
+      },
+      {
+        "year": 1998,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 69
+      },
+      {
+        "year": 1998,
+        "type": "DECRETO",
+        "count": 120
+      },
+      {
+        "year": 1998,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 1999,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 56
+      },
+      {
+        "year": 1999,
+        "type": "LEGGE",
+        "count": 179
+      },
+      {
+        "year": 1999,
+        "type": "DECRETO-LEGGE",
+        "count": 38
+      },
+      {
+        "year": 1999,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 103
+      },
+      {
+        "year": 1999,
+        "type": "DECRETO",
+        "count": 106
+      },
+      {
+        "year": 1999,
+        "type": "ALTRO",
+        "count": 18
+      },
+      {
+        "year": 2000,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 68
+      },
+      {
+        "year": 2000,
+        "type": "LEGGE",
+        "count": 126
+      },
+      {
+        "year": 2000,
+        "type": "DECRETO-LEGGE",
+        "count": 32
+      },
+      {
+        "year": 2000,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 69
+      },
+      {
+        "year": 2000,
+        "type": "DECRETO",
+        "count": 89
+      },
+      {
+        "year": 2000,
+        "type": "ALTRO",
+        "count": 12
+      },
+      {
+        "year": 2001,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 111
+      },
+      {
+        "year": 2001,
+        "type": "LEGGE",
+        "count": 139
+      },
+      {
+        "year": 2001,
+        "type": "DECRETO-LEGGE",
+        "count": 43
+      },
+      {
+        "year": 2001,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 74
+      },
+      {
+        "year": 2001,
+        "type": "DECRETO",
+        "count": 78
+      },
+      {
+        "year": 2001,
+        "type": "ALTRO",
+        "count": 13
+      },
+      {
+        "year": 2002,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 47
+      },
+      {
+        "year": 2002,
+        "type": "LEGGE",
+        "count": 95
+      },
+      {
+        "year": 2002,
+        "type": "DECRETO-LEGGE",
+        "count": 33
+      },
+      {
+        "year": 2002,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 27
+      },
+      {
+        "year": 2002,
+        "type": "DECRETO",
+        "count": 46
+      },
+      {
+        "year": 2002,
+        "type": "ALTRO",
+        "count": 7
+      },
+      {
+        "year": 2003,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 36
+      },
+      {
+        "year": 2003,
+        "type": "LEGGE",
+        "count": 142
+      },
+      {
+        "year": 2003,
+        "type": "DECRETO-LEGGE",
+        "count": 40
+      },
+      {
+        "year": 2003,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 74
+      },
+      {
+        "year": 2003,
+        "type": "DECRETO",
+        "count": 54
+      },
+      {
+        "year": 2003,
+        "type": "ALTRO",
+        "count": 2
+      },
+      {
+        "year": 2004,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 34
+      },
+      {
+        "year": 2004,
+        "type": "LEGGE",
+        "count": 113
+      },
+      {
+        "year": 2004,
+        "type": "DECRETO-LEGGE",
+        "count": 37
+      },
+      {
+        "year": 2004,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 52
+      },
+      {
+        "year": 2004,
+        "type": "DECRETO",
+        "count": 42
+      },
+      {
+        "year": 2004,
+        "type": "ALTRO",
+        "count": 3
+      },
+      {
+        "year": 2005,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 24
+      },
+      {
+        "year": 2005,
+        "type": "LEGGE",
+        "count": 90
+      },
+      {
+        "year": 2005,
+        "type": "DECRETO-LEGGE",
+        "count": 29
+      },
+      {
+        "year": 2005,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 65
+      },
+      {
+        "year": 2005,
+        "type": "DECRETO",
+        "count": 32
+      },
+      {
+        "year": 2005,
+        "type": "ALTRO",
+        "count": 3
+      },
+      {
+        "year": 2006,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 32
+      },
+      {
+        "year": 2006,
+        "type": "LEGGE",
+        "count": 104
+      },
+      {
+        "year": 2006,
+        "type": "DECRETO-LEGGE",
+        "count": 26
+      },
+      {
+        "year": 2006,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 58
+      },
+      {
+        "year": 2006,
+        "type": "DECRETO",
+        "count": 38
+      },
+      {
+        "year": 2006,
+        "type": "ALTRO",
+        "count": 5
+      },
+      {
+        "year": 2007,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 47
+      },
+      {
+        "year": 2007,
+        "type": "LEGGE",
+        "count": 49
+      },
+      {
+        "year": 2007,
+        "type": "DECRETO-LEGGE",
+        "count": 12
+      },
+      {
+        "year": 2007,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 62
+      },
+      {
+        "year": 2007,
+        "type": "DECRETO",
+        "count": 48
+      },
+      {
+        "year": 2007,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 2008,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 18
+      },
+      {
+        "year": 2008,
+        "type": "LEGGE",
+        "count": 61
+      },
+      {
+        "year": 2008,
+        "type": "DECRETO-LEGGE",
+        "count": 27
+      },
+      {
+        "year": 2008,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 27
+      },
+      {
+        "year": 2008,
+        "type": "DECRETO",
+        "count": 33
+      },
+      {
+        "year": 2008,
+        "type": "ALTRO",
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 30
+      },
+      {
+        "year": 2009,
+        "type": "LEGGE",
+        "count": 75
+      },
+      {
+        "year": 2009,
+        "type": "DECRETO-LEGGE",
+        "count": 13
+      },
+      {
+        "year": 2009,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 17
+      },
+      {
+        "year": 2009,
+        "type": "DECRETO",
+        "count": 30
+      },
+      {
+        "year": 2009,
+        "type": "ALTRO",
+        "count": 7
+      },
+      {
+        "year": 2010,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 41
+      },
+      {
+        "year": 2010,
+        "type": "LEGGE",
+        "count": 62
+      },
+      {
+        "year": 2010,
+        "type": "DECRETO-LEGGE",
+        "count": 16
+      },
+      {
+        "year": 2010,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 65
+      },
+      {
+        "year": 2010,
+        "type": "DECRETO",
+        "count": 33
+      },
+      {
+        "year": 2010,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 26
+      },
+      {
+        "year": 2011,
+        "type": "LEGGE",
+        "count": 51
+      },
+      {
+        "year": 2011,
+        "type": "DECRETO-LEGGE",
+        "count": 13
+      },
+      {
+        "year": 2011,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 50
+      },
+      {
+        "year": 2011,
+        "type": "DECRETO",
+        "count": 27
+      },
+      {
+        "year": 2011,
+        "type": "ALTRO",
+        "count": 12
+      },
+      {
+        "year": 2012,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 17
+      },
+      {
+        "year": 2012,
+        "type": "LEGGE",
+        "count": 78
+      },
+      {
+        "year": 2012,
+        "type": "DECRETO-LEGGE",
+        "count": 20
+      },
+      {
+        "year": 2012,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 37
+      },
+      {
+        "year": 2012,
+        "type": "DECRETO",
+        "count": 40
+      },
+      {
+        "year": 2012,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "type": "LEGGE",
+        "count": 30
+      },
+      {
+        "year": 2013,
+        "type": "DECRETO-LEGGE",
+        "count": 20
+      },
+      {
+        "year": 2013,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "type": "DECRETO",
+        "count": 30
+      },
+      {
+        "year": 2013,
+        "type": "ALTRO",
+        "count": 10
+      },
+      {
+        "year": 2014,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "type": "LEGGE",
+        "count": 44
+      },
+      {
+        "year": 2014,
+        "type": "DECRETO-LEGGE",
+        "count": 22
+      },
+      {
+        "year": 2014,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 29
+      },
+      {
+        "year": 2014,
+        "type": "DECRETO",
+        "count": 30
+      },
+      {
+        "year": 2014,
+        "type": "ALTRO",
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "type": "LEGGE",
+        "count": 67
+      },
+      {
+        "year": 2015,
+        "type": "DECRETO-LEGGE",
+        "count": 17
+      },
+      {
+        "year": 2015,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 42
+      },
+      {
+        "year": 2015,
+        "type": "DECRETO",
+        "count": 37
+      },
+      {
+        "year": 2015,
+        "type": "ALTRO",
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "type": "LEGGE",
+        "count": 71
+      },
+      {
+        "year": 2016,
+        "type": "DECRETO-LEGGE",
+        "count": 12
+      },
+      {
+        "year": 2016,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 75
+      },
+      {
+        "year": 2016,
+        "type": "DECRETO",
+        "count": 33
+      },
+      {
+        "year": 2016,
+        "type": "ALTRO",
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "type": "LEGGE",
+        "count": 70
+      },
+      {
+        "year": 2017,
+        "type": "DECRETO-LEGGE",
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 62
+      },
+      {
+        "year": 2017,
+        "type": "DECRETO",
+        "count": 24
+      },
+      {
+        "year": 2017,
+        "type": "ALTRO",
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "type": "LEGGE",
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "type": "DECRETO-LEGGE",
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 48
+      },
+      {
+        "year": 2018,
+        "type": "DECRETO",
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "type": "ALTRO",
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "type": "LEGGE",
+        "count": 69
+      },
+      {
+        "year": 2019,
+        "type": "DECRETO-LEGGE",
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 16
+      },
+      {
+        "year": 2019,
+        "type": "DECRETO",
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "type": "LEGGE",
+        "count": 50
+      },
+      {
+        "year": 2020,
+        "type": "DECRETO-LEGGE",
+        "count": 28
+      },
+      {
+        "year": 2020,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 31
+      },
+      {
+        "year": 2020,
+        "type": "DECRETO",
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "type": "ALTRO",
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "type": "LEGGE",
+        "count": 74
+      },
+      {
+        "year": 2021,
+        "type": "DECRETO-LEGGE",
+        "count": 38
+      },
+      {
+        "year": 2021,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 47
+      },
+      {
+        "year": 2021,
+        "type": "DECRETO",
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "type": "ALTRO",
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "type": "LEGGE",
+        "count": 56
+      },
+      {
+        "year": 2022,
+        "type": "DECRETO-LEGGE",
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "type": "DECRETO",
+        "count": 43
+      },
+      {
+        "year": 2022,
+        "type": "ALTRO",
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "type": "LEGGE",
+        "count": 63
+      },
+      {
+        "year": 2023,
+        "type": "DECRETO-LEGGE",
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 36
+      },
+      {
+        "year": 2023,
+        "type": "DECRETO",
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "type": "ALTRO",
+        "count": 18
+      },
+      {
+        "year": 2024,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "type": "LEGGE",
+        "count": 62
+      },
+      {
+        "year": 2024,
+        "type": "DECRETO-LEGGE",
+        "count": 21
+      },
+      {
+        "year": 2024,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "type": "DECRETO",
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "type": "ALTRO",
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "type": "LEGGE",
+        "count": 84
+      },
+      {
+        "year": 2025,
+        "type": "DECRETO-LEGGE",
+        "count": 30
+      },
+      {
+        "year": 2025,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "type": "DECRETO",
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "type": "ALTRO",
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "type": "LEGGE",
+        "count": 73
+      },
+      {
+        "year": 2026,
+        "type": "DECRETO-LEGGE",
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "type": "DECRETO LEGISLATIVO",
+        "count": 44
+      },
+      {
+        "year": 2026,
+        "type": "DECRETO",
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "type": "ALTRO",
+        "count": 6
+      }
+    ]
+  },
+  "byType": {
+    "eras": [
+      {
+        "id": "liberal",
+        "label": "Liberal Italy",
+        "range": "1861 – 1921"
+      },
+      {
+        "id": "fascism",
+        "label": "Fascism",
+        "range": "1922 – 1945"
+      },
+      {
+        "id": "first_rep",
+        "label": "First Republic",
+        "range": "1946 – 1989"
+      },
+      {
+        "id": "second_rep",
+        "label": "Second Republic",
+        "range": "1990 → today"
+      }
+    ],
+    "types": [
+      "REGIO DECRETO",
+      "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "LEGGE",
+      "REGIO DECRETO-LEGGE",
+      "DECRETO LUOGOTENENZIALE",
+      "DECRETO-LEGGE",
+      "DECRETO LEGISLATIVO",
+      "DECRETO",
+      "ALTRO"
+    ],
+    "rows": [
+      {
+        "era": "liberal",
+        "type": "REGIO DECRETO",
+        "count": 53920
+      },
+      {
+        "era": "liberal",
+        "type": "LEGGE",
+        "count": 6395
+      },
+      {
+        "era": "liberal",
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 1662
+      },
+      {
+        "era": "liberal",
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 6886
+      },
+      {
+        "era": "liberal",
+        "type": "ALTRO",
+        "count": 1629
+      },
+      {
+        "era": "fascism",
+        "type": "REGIO DECRETO",
+        "count": 33390
+      },
+      {
+        "era": "fascism",
+        "type": "LEGGE",
+        "count": 8921
+      },
+      {
+        "era": "fascism",
+        "type": "REGIO DECRETO-LEGGE",
+        "count": 8239
+      },
+      {
+        "era": "fascism",
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 363
+      },
+      {
+        "era": "fascism",
+        "type": "DECRETO",
+        "count": 6
+      },
+      {
+        "era": "fascism",
+        "type": "ALTRO",
+        "count": 882
+      },
+      {
+        "era": "first_rep",
+        "type": "REGIO DECRETO",
+        "count": 9
+      },
+      {
+        "era": "first_rep",
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 42168
+      },
+      {
+        "era": "first_rep",
+        "type": "LEGGE",
+        "count": 11881
+      },
+      {
+        "era": "first_rep",
+        "type": "DECRETO LUOGOTENENZIALE",
+        "count": 50
+      },
+      {
+        "era": "first_rep",
+        "type": "DECRETO-LEGGE",
+        "count": 1302
+      },
+      {
+        "era": "first_rep",
+        "type": "DECRETO LEGISLATIVO",
+        "count": 815
+      },
+      {
+        "era": "first_rep",
+        "type": "DECRETO",
+        "count": 336
+      },
+      {
+        "era": "first_rep",
+        "type": "ALTRO",
+        "count": 2689
+      },
+      {
+        "era": "second_rep",
+        "type": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+        "count": 1210
+      },
+      {
+        "era": "second_rep",
+        "type": "LEGGE",
+        "count": 3712
+      },
+      {
+        "era": "second_rep",
+        "type": "DECRETO-LEGGE",
+        "count": 2108
+      },
+      {
+        "era": "second_rep",
+        "type": "DECRETO LEGISLATIVO",
+        "count": 1761
+      },
+      {
+        "era": "second_rep",
+        "type": "DECRETO",
+        "count": 1788
+      },
+      {
+        "era": "second_rep",
+        "type": "ALTRO",
+        "count": 351
+      }
+    ]
+  },
+  "refsByYear": [
+    {
+      "year": 1861,
+      "count": 356,
+      "mean": 0.143,
+      "median": 0,
+      "max": 2
+    },
+    {
+      "year": 1862,
+      "count": 713,
+      "mean": 0.171,
+      "median": 0,
+      "max": 2
+    },
+    {
+      "year": 1863,
+      "count": 651,
+      "mean": 0.129,
+      "median": 0,
+      "max": 4
+    },
+    {
+      "year": 1864,
+      "count": 649,
+      "mean": 0.143,
+      "median": 0,
+      "max": 3
+    },
+    {
+      "year": 1865,
+      "count": 702,
+      "mean": 0.205,
+      "median": 0,
+      "max": 5
+    },
+    {
+      "year": 1866,
+      "count": 812,
+      "mean": 0.424,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1867,
+      "count": 769,
+      "mean": 0.428,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1868,
+      "count": 705,
+      "mean": 0.464,
+      "median": 0,
+      "max": 49
+    },
+    {
+      "year": 1869,
+      "count": 804,
+      "mean": 0.4,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1870,
+      "count": 904,
+      "mean": 0.546,
+      "median": 0,
+      "max": 25
+    },
+    {
+      "year": 1871,
+      "count": 683,
+      "mean": 0.634,
+      "median": 0,
+      "max": 26
+    },
+    {
+      "year": 1872,
+      "count": 788,
+      "mean": 0.6,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1873,
+      "count": 807,
+      "mean": 0.601,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1874,
+      "count": 727,
+      "mean": 0.611,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1875,
+      "count": 715,
+      "mean": 0.66,
+      "median": 0,
+      "max": 9
+    },
+    {
+      "year": 1876,
+      "count": 976,
+      "mean": 0.513,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1877,
+      "count": 895,
+      "mean": 0.537,
+      "median": 0,
+      "max": 9
+    },
+    {
+      "year": 1878,
+      "count": 693,
+      "mean": 0.595,
+      "median": 0,
+      "max": 20
+    },
+    {
+      "year": 1879,
+      "count": 828,
+      "mean": 0.615,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1880,
+      "count": 990,
+      "mean": 0.509,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1881,
+      "count": 817,
+      "mean": 0.596,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1882,
+      "count": 897,
+      "mean": 0.623,
+      "median": 0,
+      "max": 6
+    },
+    {
+      "year": 1883,
+      "count": 987,
+      "mean": 0.588,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1884,
+      "count": 1389,
+      "mean": 0.515,
+      "median": 0,
+      "max": 9
+    },
+    {
+      "year": 1885,
+      "count": 1128,
+      "mean": 0.58,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1886,
+      "count": 1041,
+      "mean": 0.585,
+      "median": 0,
+      "max": 7
+    },
+    {
+      "year": 1887,
+      "count": 1255,
+      "mean": 0.629,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1888,
+      "count": 1107,
+      "mean": 0.819,
+      "median": 1,
+      "max": 16
+    },
+    {
+      "year": 1889,
+      "count": 1115,
+      "mean": 0.705,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1890,
+      "count": 1170,
+      "mean": 0.679,
+      "median": 0,
+      "max": 9
+    },
+    {
+      "year": 1891,
+      "count": 1183,
+      "mean": 0.843,
+      "median": 1,
+      "max": 8
+    },
+    {
+      "year": 1892,
+      "count": 1726,
+      "mean": 0.493,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1893,
+      "count": 1426,
+      "mean": 0.541,
+      "median": 0,
+      "max": 6
+    },
+    {
+      "year": 1894,
+      "count": 1147,
+      "mean": 0.699,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1895,
+      "count": 1493,
+      "mean": 0.599,
+      "median": 0,
+      "max": 133
+    },
+    {
+      "year": 1896,
+      "count": 999,
+      "mean": 0.666,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1897,
+      "count": 943,
+      "mean": 0.676,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1898,
+      "count": 951,
+      "mean": 0.651,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1899,
+      "count": 854,
+      "mean": 0.826,
+      "median": 0,
+      "max": 37
+    },
+    {
+      "year": 1900,
+      "count": 859,
+      "mean": 0.797,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1901,
+      "count": 912,
+      "mean": 0.819,
+      "median": 0,
+      "max": 15
+    },
+    {
+      "year": 1902,
+      "count": 1015,
+      "mean": 0.791,
+      "median": 0,
+      "max": 9
+    },
+    {
+      "year": 1903,
+      "count": 1049,
+      "mean": 0.751,
+      "median": 0,
+      "max": 21
+    },
+    {
+      "year": 1904,
+      "count": 1262,
+      "mean": 0.903,
+      "median": 0,
+      "max": 14
+    },
+    {
+      "year": 1905,
+      "count": 1097,
+      "mean": 0.83,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1906,
+      "count": 1210,
+      "mean": 0.887,
+      "median": 1,
+      "max": 13
+    },
+    {
+      "year": 1907,
+      "count": 1422,
+      "mean": 0.877,
+      "median": 1,
+      "max": 23
+    },
+    {
+      "year": 1908,
+      "count": 1359,
+      "mean": 1.093,
+      "median": 1,
+      "max": 249
+    },
+    {
+      "year": 1909,
+      "count": 1395,
+      "mean": 0.96,
+      "median": 1,
+      "max": 22
+    },
+    {
+      "year": 1910,
+      "count": 1462,
+      "mean": 1.096,
+      "median": 1,
+      "max": 84
+    },
+    {
+      "year": 1911,
+      "count": 1489,
+      "mean": 0.901,
+      "median": 0,
+      "max": 21
+    },
+    {
+      "year": 1912,
+      "count": 1426,
+      "mean": 0.955,
+      "median": 0,
+      "max": 52
+    },
+    {
+      "year": 1913,
+      "count": 1511,
+      "mean": 1.093,
+      "median": 0,
+      "max": 259
+    },
+    {
+      "year": 1914,
+      "count": 1492,
+      "mean": 1.18,
+      "median": 1,
+      "max": 29
+    },
+    {
+      "year": 1915,
+      "count": 1978,
+      "mean": 1.181,
+      "median": 1,
+      "max": 20
+    },
+    {
+      "year": 1916,
+      "count": 1851,
+      "mean": 0.958,
+      "median": 1,
+      "max": 10
+    },
+    {
+      "year": 1917,
+      "count": 2127,
+      "mean": 0.891,
+      "median": 1,
+      "max": 15
+    },
+    {
+      "year": 1918,
+      "count": 2082,
+      "mean": 0.819,
+      "median": 1,
+      "max": 11
+    },
+    {
+      "year": 1919,
+      "count": 2640,
+      "mean": 0.923,
+      "median": 1,
+      "max": 59
+    },
+    {
+      "year": 1920,
+      "count": 1948,
+      "mean": 0.815,
+      "median": 1,
+      "max": 35
+    },
+    {
+      "year": 1921,
+      "count": 2111,
+      "mean": 0.805,
+      "median": 1,
+      "max": 14
+    },
+    {
+      "year": 1922,
+      "count": 1859,
+      "mean": 0.896,
+      "median": 1,
+      "max": 32
+    },
+    {
+      "year": 1923,
+      "count": 3270,
+      "mean": 1.452,
+      "median": 1,
+      "max": 51
+    },
+    {
+      "year": 1924,
+      "count": 2359,
+      "mean": 1.094,
+      "median": 1,
+      "max": 41
+    },
+    {
+      "year": 1925,
+      "count": 2575,
+      "mean": 1.02,
+      "median": 1,
+      "max": 27
+    },
+    {
+      "year": 1926,
+      "count": 2452,
+      "mean": 1.074,
+      "median": 1,
+      "max": 33
+    },
+    {
+      "year": 1927,
+      "count": 2830,
+      "mean": 0.973,
+      "median": 1,
+      "max": 23
+    },
+    {
+      "year": 1928,
+      "count": 3490,
+      "mean": 0.991,
+      "median": 1,
+      "max": 59
+    },
+    {
+      "year": 1929,
+      "count": 2457,
+      "mean": 1.058,
+      "median": 1,
+      "max": 17
+    },
+    {
+      "year": 1930,
+      "count": 1936,
+      "mean": 1.193,
+      "median": 1,
+      "max": 76
+    },
+    {
+      "year": 1931,
+      "count": 1819,
+      "mean": 1.051,
+      "median": 1,
+      "max": 60
+    },
+    {
+      "year": 1932,
+      "count": 2069,
+      "mean": 0.927,
+      "median": 1,
+      "max": 11
+    },
+    {
+      "year": 1933,
+      "count": 2408,
+      "mean": 0.925,
+      "median": 0,
+      "max": 67
+    },
+    {
+      "year": 1934,
+      "count": 2439,
+      "mean": 0.898,
+      "median": 0,
+      "max": 65
+    },
+    {
+      "year": 1935,
+      "count": 2547,
+      "mean": 0.737,
+      "median": 0,
+      "max": 12
+    },
+    {
+      "year": 1936,
+      "count": 2514,
+      "mean": 0.626,
+      "median": 0,
+      "max": 36
+    },
+    {
+      "year": 1937,
+      "count": 2709,
+      "mean": 0.58,
+      "median": 0,
+      "max": 12
+    },
+    {
+      "year": 1938,
+      "count": 2281,
+      "mean": 0.609,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1939,
+      "count": 2228,
+      "mean": 0.469,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1940,
+      "count": 2024,
+      "mean": 0.482,
+      "median": 0,
+      "max": 38
+    },
+    {
+      "year": 1941,
+      "count": 1670,
+      "mean": 0.484,
+      "median": 0,
+      "max": 84
+    },
+    {
+      "year": 1942,
+      "count": 1843,
+      "mean": 0.446,
+      "median": 0,
+      "max": 41
+    },
+    {
+      "year": 1943,
+      "count": 729,
+      "mean": 0.391,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1944,
+      "count": 434,
+      "mean": 1.576,
+      "median": 1,
+      "max": 12
+    },
+    {
+      "year": 1945,
+      "count": 859,
+      "mean": 2.052,
+      "median": 2,
+      "max": 13
+    },
+    {
+      "year": 1946,
+      "count": 832,
+      "mean": 1.537,
+      "median": 1,
+      "max": 14
+    },
+    {
+      "year": 1947,
+      "count": 1844,
+      "mean": 0.922,
+      "median": 1,
+      "max": 11
+    },
+    {
+      "year": 1948,
+      "count": 1673,
+      "mean": 1.039,
+      "median": 1,
+      "max": 17
+    },
+    {
+      "year": 1949,
+      "count": 1163,
+      "mean": 0.75,
+      "median": 0,
+      "max": 18
+    },
+    {
+      "year": 1950,
+      "count": 1277,
+      "mean": 0.697,
+      "median": 0,
+      "max": 20
+    },
+    {
+      "year": 1951,
+      "count": 1804,
+      "mean": 0.683,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1952,
+      "count": 4563,
+      "mean": 0.542,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1953,
+      "count": 1250,
+      "mean": 0.81,
+      "median": 0,
+      "max": 20
+    },
+    {
+      "year": 1954,
+      "count": 1539,
+      "mean": 0.694,
+      "median": 0,
+      "max": 12
+    },
+    {
+      "year": 1955,
+      "count": 1526,
+      "mean": 0.777,
+      "median": 0,
+      "max": 13
+    },
+    {
+      "year": 1956,
+      "count": 1709,
+      "mean": 0.678,
+      "median": 0,
+      "max": 12
+    },
+    {
+      "year": 1957,
+      "count": 1466,
+      "mean": 0.857,
+      "median": 0,
+      "max": 14
+    },
+    {
+      "year": 1958,
+      "count": 1266,
+      "mean": 0.854,
+      "median": 0,
+      "max": 17
+    },
+    {
+      "year": 1959,
+      "count": 1408,
+      "mean": 0.69,
+      "median": 0,
+      "max": 16
+    },
+    {
+      "year": 1960,
+      "count": 2008,
+      "mean": 0.708,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1961,
+      "count": 1626,
+      "mean": 0.821,
+      "median": 0,
+      "max": 18
+    },
+    {
+      "year": 1962,
+      "count": 1531,
+      "mean": 0.9,
+      "median": 0,
+      "max": 8
+    },
+    {
+      "year": 1963,
+      "count": 1920,
+      "mean": 0.666,
+      "median": 0,
+      "max": 16
+    },
+    {
+      "year": 1964,
+      "count": 1609,
+      "mean": 0.843,
+      "median": 0,
+      "max": 20
+    },
+    {
+      "year": 1965,
+      "count": 1735,
+      "mean": 0.869,
+      "median": 0,
+      "max": 21
+    },
+    {
+      "year": 1966,
+      "count": 1370,
+      "mean": 0.986,
+      "median": 0,
+      "max": 26
+    },
+    {
+      "year": 1967,
+      "count": 1499,
+      "mean": 1.051,
+      "median": 0,
+      "max": 17
+    },
+    {
+      "year": 1968,
+      "count": 1658,
+      "mean": 0.864,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1969,
+      "count": 1319,
+      "mean": 1.117,
+      "median": 0,
+      "max": 92
+    },
+    {
+      "year": 1970,
+      "count": 1472,
+      "mean": 1,
+      "median": 0,
+      "max": 27
+    },
+    {
+      "year": 1971,
+      "count": 939,
+      "mean": 1.193,
+      "median": 1,
+      "max": 17
+    },
+    {
+      "year": 1972,
+      "count": 776,
+      "mean": 1.021,
+      "median": 0,
+      "max": 10
+    },
+    {
+      "year": 1973,
+      "count": 1158,
+      "mean": 1.061,
+      "median": 0,
+      "max": 72
+    },
+    {
+      "year": 1974,
+      "count": 993,
+      "mean": 1.089,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1975,
+      "count": 1177,
+      "mean": 1.009,
+      "median": 0,
+      "max": 19
+    },
+    {
+      "year": 1976,
+      "count": 1148,
+      "mean": 0.968,
+      "median": 0,
+      "max": 13
+    },
+    {
+      "year": 1977,
+      "count": 1228,
+      "mean": 1.226,
+      "median": 0,
+      "max": 11
+    },
+    {
+      "year": 1978,
+      "count": 1096,
+      "mean": 1.26,
+      "median": 0,
+      "max": 15
+    },
+    {
+      "year": 1979,
+      "count": 972,
+      "mean": 1.454,
+      "median": 0,
+      "max": 26
+    },
+    {
+      "year": 1980,
+      "count": 1230,
+      "mean": 1.237,
+      "median": 0,
+      "max": 53
+    },
+    {
+      "year": 1981,
+      "count": 721,
+      "mean": 2.11,
+      "median": 1,
+      "max": 76
+    },
+    {
+      "year": 1982,
+      "count": 717,
+      "mean": 1.732,
+      "median": 1,
+      "max": 47
+    },
+    {
+      "year": 1983,
+      "count": 1137,
+      "mean": 1.43,
+      "median": 1,
+      "max": 44
+    },
+    {
+      "year": 1984,
+      "count": 1169,
+      "mean": 1.193,
+      "median": 0,
+      "max": 27
+    },
+    {
+      "year": 1985,
+      "count": 1070,
+      "mean": 1.423,
+      "median": 1,
+      "max": 17
+    },
+    {
+      "year": 1986,
+      "count": 1110,
+      "mean": 1.751,
+      "median": 1,
+      "max": 44
+    },
+    {
+      "year": 1987,
+      "count": 598,
+      "mean": 2.58,
+      "median": 2,
+      "max": 43
+    },
+    {
+      "year": 1988,
+      "count": 526,
+      "mean": 2.65,
+      "median": 2,
+      "max": 93
+    },
+    {
+      "year": 1989,
+      "count": 418,
+      "mean": 2.409,
+      "median": 1,
+      "max": 31
+    },
+    {
+      "year": 1990,
+      "count": 399,
+      "mean": 2.732,
+      "median": 2,
+      "max": 57
+    },
+    {
+      "year": 1991,
+      "count": 402,
+      "mean": 2.923,
+      "median": 2,
+      "max": 28
+    },
+    {
+      "year": 1992,
+      "count": 525,
+      "mean": 2.406,
+      "median": 1,
+      "max": 63
+    },
+    {
+      "year": 1993,
+      "count": 552,
+      "mean": 2.752,
+      "median": 1,
+      "max": 44
+    },
+    {
+      "year": 1994,
+      "count": 723,
+      "mean": 2.434,
+      "median": 1,
+      "max": 28
+    },
+    {
+      "year": 1995,
+      "count": 548,
+      "mean": 3.206,
+      "median": 1,
+      "max": 76
+    },
+    {
+      "year": 1996,
+      "count": 643,
+      "mean": 3.04,
+      "median": 1,
+      "max": 98
+    },
+    {
+      "year": 1997,
+      "count": 475,
+      "mean": 3.537,
+      "median": 2,
+      "max": 109
+    },
+    {
+      "year": 1998,
+      "count": 462,
+      "mean": 3.944,
+      "median": 2,
+      "max": 40
+    },
+    {
+      "year": 1999,
+      "count": 500,
+      "mean": 3.702,
+      "median": 3,
+      "max": 28
+    },
+    {
+      "year": 2000,
+      "count": 396,
+      "mean": 3.553,
+      "median": 2,
+      "max": 27
+    },
+    {
+      "year": 2001,
+      "count": 458,
+      "mean": 3.939,
+      "median": 3,
+      "max": 56
+    },
+    {
+      "year": 2002,
+      "count": 255,
+      "mean": 4.208,
+      "median": 3,
+      "max": 34
+    },
+    {
+      "year": 2003,
+      "count": 348,
+      "mean": 3.713,
+      "median": 2,
+      "max": 47
+    },
+    {
+      "year": 2004,
+      "count": 281,
+      "mean": 4.125,
+      "median": 2,
+      "max": 43
+    },
+    {
+      "year": 2005,
+      "count": 243,
+      "mean": 4.21,
+      "median": 2,
+      "max": 39
+    },
+    {
+      "year": 2006,
+      "count": 263,
+      "mean": 4.521,
+      "median": 2,
+      "max": 59
+    },
+    {
+      "year": 2007,
+      "count": 222,
+      "mean": 5.712,
+      "median": 3,
+      "max": 50
+    },
+    {
+      "year": 2008,
+      "count": 167,
+      "mean": 11.275,
+      "median": 3,
+      "max": 588
+    },
+    {
+      "year": 2009,
+      "count": 172,
+      "mean": 11.099,
+      "median": 3,
+      "max": 800
+    },
+    {
+      "year": 2010,
+      "count": 227,
+      "mean": 11.458,
+      "median": 3,
+      "max": 731
+    },
+    {
+      "year": 2011,
+      "count": 179,
+      "mean": 7.547,
+      "median": 4,
+      "max": 151
+    },
+    {
+      "year": 2012,
+      "count": 196,
+      "mean": 8.719,
+      "median": 3,
+      "max": 142
+    },
+    {
+      "year": 2013,
+      "count": 121,
+      "mean": 9.479,
+      "median": 5,
+      "max": 91
+    },
+    {
+      "year": 2014,
+      "count": 140,
+      "mean": 6.629,
+      "median": 5,
+      "max": 47
+    },
+    {
+      "year": 2015,
+      "count": 181,
+      "mean": 6.724,
+      "median": 3,
+      "max": 87
+    },
+    {
+      "year": 2016,
+      "count": 202,
+      "mean": 5.98,
+      "median": 3,
+      "max": 97
+    },
+    {
+      "year": 2017,
+      "count": 185,
+      "mean": 8.616,
+      "median": 4,
+      "max": 125
+    },
+    {
+      "year": 2018,
+      "count": 120,
+      "mean": 7.917,
+      "median": 5,
+      "max": 57
+    },
+    {
+      "year": 2019,
+      "count": 148,
+      "mean": 7.209,
+      "median": 3,
+      "max": 74
+    },
+    {
+      "year": 2020,
+      "count": 153,
+      "mean": 8.503,
+      "median": 4,
+      "max": 135
+    },
+    {
+      "year": 2021,
+      "count": 206,
+      "mean": 7.733,
+      "median": 4,
+      "max": 97
+    },
+    {
+      "year": 2022,
+      "count": 170,
+      "mean": 7.924,
+      "median": 4,
+      "max": 101
+    },
+    {
+      "year": 2023,
+      "count": 178,
+      "mean": 8.843,
+      "median": 4,
+      "max": 87
+    },
+    {
+      "year": 2024,
+      "count": 146,
+      "mean": 8.993,
+      "median": 6,
+      "max": 64
+    },
+    {
+      "year": 2025,
+      "count": 178,
+      "mean": 10.287,
+      "median": 4,
+      "max": 115
+    },
+    {
+      "year": 2026,
+      "count": 166,
+      "mean": 10.627,
+      "median": 5,
+      "max": 96
+    }
+  ],
+  "refDist": [
+    {
+      "bucket": "0",
+      "count": 99892
+    },
+    {
+      "bucket": "1",
+      "count": 52544
+    },
+    {
+      "bucket": "2",
+      "count": 19163
+    },
+    {
+      "bucket": "3–5",
+      "count": 14982
+    },
+    {
+      "bucket": "6–10",
+      "count": 4394
+    },
+    {
+      "bucket": "11–20",
+      "count": 1018
+    },
+    {
+      "bucket": "21+",
+      "count": 480
+    }
+  ],
+  "dlOutcomes": [
+    {
+      "year": 1915,
+      "convertito": 1,
+      "decaduto": 0
+    },
+    {
+      "year": 1921,
+      "convertito": 3,
+      "decaduto": 0
+    },
+    {
+      "year": 1923,
+      "convertito": 1,
+      "decaduto": 0
+    },
+    {
+      "year": 1925,
+      "convertito": 4,
+      "decaduto": 6
+    },
+    {
+      "year": 1926,
+      "convertito": 25,
+      "decaduto": 448
+    },
+    {
+      "year": 1927,
+      "convertito": 52,
+      "decaduto": 469
+    },
+    {
+      "year": 1928,
+      "convertito": 113,
+      "decaduto": 154
+    },
+    {
+      "year": 1929,
+      "convertito": 138,
+      "decaduto": 67
+    },
+    {
+      "year": 1930,
+      "convertito": 145,
+      "decaduto": 69
+    },
+    {
+      "year": 1931,
+      "convertito": 180,
+      "decaduto": 97
+    },
+    {
+      "year": 1932,
+      "convertito": 172,
+      "decaduto": 72
+    },
+    {
+      "year": 1933,
+      "convertito": 138,
+      "decaduto": 68
+    },
+    {
+      "year": 1934,
+      "convertito": 296,
+      "decaduto": 203
+    },
+    {
+      "year": 1935,
+      "convertito": 69,
+      "decaduto": 433
+    },
+    {
+      "year": 1936,
+      "convertito": 6,
+      "decaduto": 519
+    },
+    {
+      "year": 1937,
+      "convertito": 1,
+      "decaduto": 491
+    },
+    {
+      "year": 1938,
+      "convertito": 2,
+      "decaduto": 569
+    },
+    {
+      "year": 1939,
+      "convertito": 0,
+      "decaduto": 141
+    },
+    {
+      "year": 1940,
+      "convertito": 1,
+      "decaduto": 55
+    },
+    {
+      "year": 1941,
+      "convertito": 1,
+      "decaduto": 120
+    },
+    {
+      "year": 1942,
+      "convertito": 0,
+      "decaduto": 126
+    },
+    {
+      "year": 1943,
+      "convertito": 3,
+      "decaduto": 120
+    },
+    {
+      "year": 1944,
+      "convertito": 0,
+      "decaduto": 96
+    },
+    {
+      "year": 1948,
+      "convertito": 2,
+      "decaduto": 0
+    },
+    {
+      "year": 1949,
+      "convertito": 4,
+      "decaduto": 0
+    },
+    {
+      "year": 1950,
+      "convertito": 2,
+      "decaduto": 0
+    },
+    {
+      "year": 1951,
+      "convertito": 5,
+      "decaduto": 1
+    },
+    {
+      "year": 1952,
+      "convertito": 12,
+      "decaduto": 2
+    },
+    {
+      "year": 1953,
+      "convertito": 4,
+      "decaduto": 0
+    },
+    {
+      "year": 1954,
+      "convertito": 16,
+      "decaduto": 0
+    },
+    {
+      "year": 1955,
+      "convertito": 9,
+      "decaduto": 0
+    },
+    {
+      "year": 1956,
+      "convertito": 15,
+      "decaduto": 0
+    },
+    {
+      "year": 1957,
+      "convertito": 13,
+      "decaduto": 1
+    },
+    {
+      "year": 1958,
+      "convertito": 5,
+      "decaduto": 1
+    },
+    {
+      "year": 1959,
+      "convertito": 3,
+      "decaduto": 0
+    },
+    {
+      "year": 1960,
+      "convertito": 9,
+      "decaduto": 0
+    },
+    {
+      "year": 1961,
+      "convertito": 5,
+      "decaduto": 0
+    },
+    {
+      "year": 1962,
+      "convertito": 2,
+      "decaduto": 1
+    },
+    {
+      "year": 1964,
+      "convertito": 15,
+      "decaduto": 5
+    },
+    {
+      "year": 1965,
+      "convertito": 13,
+      "decaduto": 0
+    },
+    {
+      "year": 1966,
+      "convertito": 9,
+      "decaduto": 1
+    },
+    {
+      "year": 1967,
+      "convertito": 23,
+      "decaduto": 17
+    },
+    {
+      "year": 1968,
+      "convertito": 7,
+      "decaduto": 4
+    },
+    {
+      "year": 1969,
+      "convertito": 10,
+      "decaduto": 0
+    },
+    {
+      "year": 1970,
+      "convertito": 22,
+      "decaduto": 0
+    },
+    {
+      "year": 1971,
+      "convertito": 4,
+      "decaduto": 0
+    },
+    {
+      "year": 1972,
+      "convertito": 15,
+      "decaduto": 1
+    },
+    {
+      "year": 1973,
+      "convertito": 19,
+      "decaduto": 3
+    },
+    {
+      "year": 1974,
+      "convertito": 26,
+      "decaduto": 4
+    },
+    {
+      "year": 1975,
+      "convertito": 17,
+      "decaduto": 3
+    },
+    {
+      "year": 1976,
+      "convertito": 43,
+      "decaduto": 7
+    },
+    {
+      "year": 1977,
+      "convertito": 45,
+      "decaduto": 1
+    },
+    {
+      "year": 1978,
+      "convertito": 46,
+      "decaduto": 9
+    },
+    {
+      "year": 1979,
+      "convertito": 30,
+      "decaduto": 33
+    },
+    {
+      "year": 1980,
+      "convertito": 29,
+      "decaduto": 17
+    },
+    {
+      "year": 1981,
+      "convertito": 7,
+      "decaduto": 5
+    },
+    {
+      "year": 1982,
+      "convertito": 43,
+      "decaduto": 14
+    },
+    {
+      "year": 1983,
+      "convertito": 20,
+      "decaduto": 12
+    },
+    {
+      "year": 1984,
+      "convertito": 27,
+      "decaduto": 33
+    },
+    {
+      "year": 1985,
+      "convertito": 30,
+      "decaduto": 17
+    },
+    {
+      "year": 1986,
+      "convertito": 44,
+      "decaduto": 37
+    },
+    {
+      "year": 1987,
+      "convertito": 41,
+      "decaduto": 107
+    },
+    {
+      "year": 1988,
+      "convertito": 31,
+      "decaduto": 32
+    },
+    {
+      "year": 1989,
+      "convertito": 38,
+      "decaduto": 56
+    },
+    {
+      "year": 1990,
+      "convertito": 23,
+      "decaduto": 36
+    },
+    {
+      "year": 1991,
+      "convertito": 28,
+      "decaduto": 21
+    },
+    {
+      "year": 1992,
+      "convertito": 25,
+      "decaduto": 97
+    },
+    {
+      "year": 1993,
+      "convertito": 62,
+      "decaduto": 162
+    },
+    {
+      "year": 1994,
+      "convertito": 77,
+      "decaduto": 242
+    },
+    {
+      "year": 1995,
+      "convertito": 53,
+      "decaduto": 203
+    },
+    {
+      "year": 1996,
+      "convertito": 54,
+      "decaduto": 269
+    },
+    {
+      "year": 1997,
+      "convertito": 30,
+      "decaduto": 9
+    },
+    {
+      "year": 1998,
+      "convertito": 19,
+      "decaduto": 7
+    },
+    {
+      "year": 1999,
+      "convertito": 29,
+      "decaduto": 7
+    },
+    {
+      "year": 2000,
+      "convertito": 24,
+      "decaduto": 7
+    },
+    {
+      "year": 2001,
+      "convertito": 43,
+      "decaduto": 2
+    },
+    {
+      "year": 2002,
+      "convertito": 31,
+      "decaduto": 3
+    },
+    {
+      "year": 2003,
+      "convertito": 32,
+      "decaduto": 3
+    },
+    {
+      "year": 2004,
+      "convertito": 37,
+      "decaduto": 1
+    },
+    {
+      "year": 2005,
+      "convertito": 28,
+      "decaduto": 5
+    },
+    {
+      "year": 2006,
+      "convertito": 19,
+      "decaduto": 7
+    },
+    {
+      "year": 2007,
+      "convertito": 11,
+      "decaduto": 3
+    },
+    {
+      "year": 2008,
+      "convertito": 14,
+      "decaduto": 5
+    },
+    {
+      "year": 2009,
+      "convertito": 14,
+      "decaduto": 2
+    },
+    {
+      "year": 2010,
+      "convertito": 14,
+      "decaduto": 2
+    },
+    {
+      "year": 2011,
+      "convertito": 11,
+      "decaduto": 1
+    },
+    {
+      "year": 2012,
+      "convertito": 19,
+      "decaduto": 3
+    },
+    {
+      "year": 2013,
+      "convertito": 13,
+      "decaduto": 3
+    },
+    {
+      "year": 2014,
+      "convertito": 22,
+      "decaduto": 4
+    },
+    {
+      "year": 2015,
+      "convertito": 13,
+      "decaduto": 3
+    },
+    {
+      "year": 2016,
+      "convertito": 10,
+      "decaduto": 1
+    },
+    {
+      "year": 2017,
+      "convertito": 10,
+      "decaduto": 3
+    },
+    {
+      "year": 2018,
+      "convertito": 9,
+      "decaduto": 2
+    },
+    {
+      "year": 2019,
+      "convertito": 17,
+      "decaduto": 1
+    },
+    {
+      "year": 2020,
+      "convertito": 18,
+      "decaduto": 10
+    },
+    {
+      "year": 2021,
+      "convertito": 22,
+      "decaduto": 14
+    },
+    {
+      "year": 2022,
+      "convertito": 18,
+      "decaduto": 8
+    },
+    {
+      "year": 2023,
+      "convertito": 21,
+      "decaduto": 4
+    },
+    {
+      "year": 2024,
+      "convertito": 19,
+      "decaduto": 2
+    },
+    {
+      "year": 2025,
+      "convertito": 27,
+      "decaduto": 4
+    },
+    {
+      "year": 2026,
+      "convertito": 20,
+      "decaduto": 2
+    }
+  ]
+}
