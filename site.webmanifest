@@ -1,0 +1,26 @@
+{
+  "name": "OpenNorme",
+  "short_name": "OpenNorme",
+  "description": "Il diritto italiano, in movimento. Atti dal 1861 a oggi.",
+  "lang": "it",
+  "background_color": "#eef2f5",
+  "theme_color": "#3d6a8a",
+  "display": "browser",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

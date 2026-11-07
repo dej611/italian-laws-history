@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="it" class="boot">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpenNorme</title>
+    <meta
+      name="description"
+      content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
+    />
+    <meta
+      name="theme-color"
+      content="#eef2f5"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#121820"
+      media="(prefers-color-scheme: dark)"
+    />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link
+      rel="icon"
+      href="./favicon-32.png"
+      type="image/png"
+      sizes="32x32"
+    />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link
+      rel="mask-icon"
+      href="./safari-pinned-tab.svg"
+      color="#3d6a8a"
+    />
+    <link rel="manifest" href="./site.webmanifest" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:site_name" content="OpenNorme" />
+    <meta property="og:title" content="OpenNorme" />
+    <meta
+      property="og:description"
+      content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
+    />
+    <meta property="og:image" content="./og.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="OpenNorme — Il diritto italiano, in movimento. 1861–oggi."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="OpenNorme" />
+    <meta
+      name="twitter:description"
+      content="Il diritto italiano, in movimento. Atti dal 1861 a oggi."
+    />
+    <meta name="twitter:image" content="./og.jpg" />
+    <meta
+      name="twitter:image:alt"
+      content="OpenNorme — Il diritto italiano, in movimento. 1861–oggi."
+    />
+    <script>
+      (function () {
+        try {
+          var pref = localStorage.getItem("opennorme-theme") || "system";
+          if (pref !== "light" && pref !== "dark" && pref !== "system") pref = "system";
+          var dark =
+            pref === "dark" ||
+            (pref !== "light" &&
+              window.matchMedia("(prefers-color-scheme: dark)").matches);
+          document.documentElement.dataset.theme = dark ? "dark" : "light";
+          document.documentElement.dataset.themePref = pref;
+          document.documentElement.style.colorScheme = dark ? "dark" : "light";
+
+          var loc = localStorage.getItem("opennorme-locale");
+          if (loc !== "it" && loc !== "en") {
+            var nav = (navigator.language || "").toLowerCase();
+            loc = nav.indexOf("en") === 0 ? "en" : "it";
+          }
+          document.documentElement.lang = loc;
+        } catch (e) {
+          /* ignore */
+        }
+      })();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+    <style>html.boot,html.boot body{height:100%;overflow:hidden}#boot{box-sizing:border-box;color:#1a2433;text-align:center;background:#eef2f5;place-content:center;justify-items:center;gap:1rem;min-height:100vh;margin:0;padding:1.5rem;font-family:Figtree,Avenir Next,Segoe UI,sans-serif;display:grid}#boot .boot-brand{letter-spacing:-.02em;color:#3d6a8a;margin:0;font-family:Newsreader,Georgia,Palatino Linotype,serif;font-size:1.65rem;font-weight:600}#boot .boot-msg{color:#5a6a7c;margin:0;font-size:.9rem}#boot .boot-gavel{width:64px;height:96px;display:block}#boot .gavel-shell{fill:none;stroke:#3d6a8a;stroke-width:1.8px;stroke-linejoin:round;opacity:.3}#boot .gavel-fill{fill:#3d6a8a}#boot .gavel-outline{fill:none;stroke:#3d6a8a;stroke-width:1.8px;stroke-linejoin:round;opacity:.92}#boot .gavel-detail{stroke:#3d6a8a;stroke-width:1.35px;stroke-linecap:round;opacity:.4}#boot .fill-rise{animation:1.6s ease-in-out infinite boot-gavel-fill}html[data-theme=dark] #boot{color:#e7edf3;background:#121820}html[data-theme=dark] #boot .boot-brand,html[data-theme=dark] #boot .gavel-shell,html[data-theme=dark] #boot .gavel-outline,html[data-theme=dark] #boot .gavel-detail{color:#7aa3c0;stroke:#7aa3c0}html[data-theme=dark] #boot .boot-brand{color:#7aa3c0}html[data-theme=dark] #boot .gavel-fill{fill:#7aa3c0}html[data-theme=dark] #boot .boot-msg{color:#9aa8b8}@keyframes boot-gavel-fill{0%{transform:translateY(120px)}55%{transform:translateY(0)}70%{transform:translateY(0)}to{transform:translateY(120px)}}@media (prefers-reduced-motion:reduce){#boot .fill-rise{animation:none;transform:translateY(36px)}}</style>
+    <script type="module" crossorigin src="./assets/index-DqOEAX3Y.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/react-ClNNcLFM.js">
+    <link rel="modulepreload" crossorigin href="./assets/react-dom-CORl5vfJ.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-CXW_rpO9.css">
+  </head>
+  <body>
+    <div id="root">
+      <div id="boot" role="status" aria-live="polite" aria-busy="true">
+        <p class="boot-brand">OpenNorme</p>
+        <svg
+          class="boot-gavel"
+          viewBox="0 0 80 120"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <defs>
+            <clipPath id="boot-gavel-clip">
+              <rect x="12" y="16" width="56" height="30" rx="11" />
+              <rect x="35" y="44" width="10" height="46" rx="2.5" />
+              <circle cx="40" cy="100" r="11" />
+            </clipPath>
+          </defs>
+          <g class="gavel-shell">
+            <rect x="12" y="16" width="56" height="30" rx="11" />
+            <rect x="35" y="44" width="10" height="46" rx="2.5" />
+            <circle cx="40" cy="100" r="11" />
+          </g>
+          <g clip-path="url(#boot-gavel-clip)">
+            <rect
+              class="fill-rise gavel-fill"
+              x="0"
+              y="0"
+              width="80"
+              height="120"
+            />
+          </g>
+          <g class="gavel-outline">
+            <rect x="12" y="16" width="56" height="30" rx="11" />
+            <rect x="35" y="44" width="10" height="46" rx="2.5" />
+            <circle cx="40" cy="100" r="11" />
+          </g>
+          <g class="gavel-detail">
+            <line x1="24" y1="20" x2="24" y2="42" />
+            <line x1="56" y1="20" x2="56" y2="42" />
+            <line x1="32" y1="19" x2="32" y2="43" />
+            <line x1="48" y1="19" x2="48" y2="43" />
+          </g>
+        </svg>
+        <p class="boot-msg" id="boot-msg">Caricamento…</p>
+      </div>
+    </div>
+    <script>
+      (function () {
+        try {
+          if (document.documentElement.lang === "en") {
+            var el = document.getElementById("boot-msg");
+            if (el) el.textContent = "Loading…";
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </body>
+</html>
