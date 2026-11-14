@@ -1,0 +1,1 @@
+var e=new URL(`wllama-C8KzvR3e.wasm`,import.meta.url).href;export{e as default};

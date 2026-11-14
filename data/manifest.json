@@ -1,0 +1,11 @@
+{
+  "asOf": "2026-11-01",
+  "generatedAt": "2026-11-14T17:32:00.912Z",
+  "artifacts": [
+    "data.json",
+    "graph.json",
+    "acts.json",
+    "blame/",
+    "rag/index.json"
+  ]
+}
